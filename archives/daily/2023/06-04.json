@@ -1,6 +1,6 @@
 {
   "startTime": 1685809286870,
-  "endTime": 1685878404007,
+  "endTime": 1685881858586,
   "band_list": [
     {
       "raw_hot": 3115180,
@@ -8,6 +8,14 @@
       "word": "石家庄小三",
       "onboard_time": 1685859987,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2419445,
+      "num": 1909134,
+      "word": "国内出现偏肺病毒感染",
+      "onboard_time": 1685875344,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -43,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1909134,
-      "num": 1909134,
-      "word": "国内出现偏肺病毒感染",
-      "onboard_time": 1685875344,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1889821,
       "num": 1889821,
       "word": "我的脸被隐翅虫毁容了",
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1869828,
+      "num": 1043422,
+      "word": "清清恋爱",
+      "onboard_time": 1685880146,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1841672,
       "num": 1841672,
       "word": "千万不要把水果当饭吃",
@@ -81,6 +89,14 @@
       "onboard_time": 1685861067,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1676542,
+      "num": 1676542,
+      "word": "市监局再次确认高校饭菜异物是鸭脖",
+      "onboard_time": 1685876487,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1613516,
@@ -123,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1293577,
+      "num": 1293577,
+      "word": "爷爷把微信当书信用",
+      "onboard_time": 1685875886,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1274220,
       "num": 1274220,
       "word": "沈月cos陈小希",
@@ -145,6 +169,14 @@
       "onboard_time": 1685841865,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138115,
+      "num": 1138115,
+      "word": "宋茜做错了什么",
+      "onboard_time": 1685878168,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1132486,
@@ -179,14 +211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1019881,
-      "num": 1019881,
-      "word": "爷爷把微信当书信用",
-      "onboard_time": 1685875886,
-      "rank": 11,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 1012196,
       "num": 926519,
       "word": "孟子义锐评任敏汤晶媚乐队事件",
@@ -201,14 +225,6 @@
       "onboard_time": 1685807790,
       "rank": 11,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 983530,
-      "num": 983530,
-      "word": "市监局再次确认高校饭菜异物是鸭脖",
-      "onboard_time": 1685876487,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 964320,
@@ -249,6 +265,14 @@
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 852391,
+      "num": 852391,
+      "word": "刘亦菲林志颖20年前合照",
+      "onboard_time": 1685878407,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 833816,
@@ -531,6 +555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 398426,
+      "num": 398426,
+      "word": "孟子义用的什么化妆品",
+      "onboard_time": 1685879429,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396636,
       "num": 396636,
       "word": "吴倩说女儿和自己长得一模一样",
@@ -595,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372009,
+      "num": 372009,
+      "word": "seventeen目前年龄",
+      "onboard_time": 1685880087,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363292,
       "num": 267865,
       "word": "如果你每天早起15分钟",
@@ -633,6 +673,14 @@
       "onboard_time": 1685874926,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353898,
+      "num": 224855,
+      "word": "杨紫高洁丝直播",
+      "onboard_time": 1685880447,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 352851,
@@ -731,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 323677,
-      "num": 198421,
-      "word": "宋茜做错了什么",
-      "onboard_time": 1685878168,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317993,
       "num": 317993,
       "word": "奶奶看小鬼演唱会捂耳朵",
@@ -769,6 +809,14 @@
       "onboard_time": 1685801067,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306936,
+      "num": 178523,
+      "word": "黄晓明 清澈的愚蠢",
+      "onboard_time": 1685878407,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 305215,
@@ -939,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265594,
+      "num": 265594,
+      "word": "英语不好也能在国外生存",
+      "onboard_time": 1685876546,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261869,
       "num": 261869,
       "word": "隐翅虫 重楼解毒酊",
@@ -985,6 +1041,14 @@
       "onboard_time": 1685804552,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257891,
+      "num": 257891,
+      "word": "31岁孤独症康复师离世捐出全部器官",
+      "onboard_time": 1685879008,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 255937,
@@ -1075,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233921,
+      "num": 173927,
+      "word": "金在中去看了金泰妍演唱会",
+      "onboard_time": 1685879608,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231296,
       "num": 231296,
       "word": "薛之谦把伴舞的鞋子扔了",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1685873187,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225480,
+      "num": 225480,
+      "word": "高考卖花",
+      "onboard_time": 1685880929,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225147,
@@ -1144,6 +1224,14 @@
       "word": "春花厌",
       "onboard_time": 1685862327,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218946,
+      "num": 171473,
+      "word": "梦中的那片海版换乘恋爱",
+      "onboard_time": 1685880687,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1251,6 +1339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200320,
+      "num": 166865,
+      "word": "王一栩探班成毅李一桐",
+      "onboard_time": 1685881111,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198108,
       "num": 155073,
       "word": "论文指导教师名字写成了自己的名字",
@@ -1313,14 +1409,6 @@
       "onboard_time": 1685807730,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189131,
-      "num": 189131,
-      "word": "英语不好也能在国外生存",
-      "onboard_time": 1685876546,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 188917,
@@ -1393,6 +1481,14 @@
       "onboard_time": 1685844025,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 184269,
+      "num": 184269,
+      "word": "多巴胺穿搭",
+      "onboard_time": 1685881111,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 181870,
@@ -1491,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167802,
+      "num": 167802,
+      "word": "如何看待校方称食堂饭菜中异物为鸭脖",
+      "onboard_time": 1685880447,
+      "rank": 28,
+      "category": "社会议题,教育"
+    },
+    {
       "raw_hot": 166025,
       "num": 166025,
       "word": "永远不要通过伤害自己自证",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1685869225,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159043,
+      "num": 167471,
+      "word": "中国女排世联赛4连胜",
+      "onboard_time": 1685879189,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 158307,
@@ -1675,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133174,
+      "num": 133174,
+      "word": "梦海 炉上烧水细节",
+      "onboard_time": 1685879367,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132601,
       "num": 395300,
       "word": "丽水一初中女篮训练太硬核了",
@@ -1731,12 +1851,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 125887,
+      "num": 125887,
+      "word": "JDG对战LNG",
+      "onboard_time": 1685879727,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125770,
       "num": 125770,
       "word": "TES战胜EDG",
       "onboard_time": 1685802691,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125750,
+      "num": 125750,
+      "word": "谢谢你本泽马",
+      "onboard_time": 1685880867,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125732,
@@ -1849,6 +1985,14 @@
       "onboard_time": 1685802812,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 114373,
+      "num": 114373,
+      "word": "贵州村超",
+      "onboard_time": 1685881768,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113681,
@@ -1993,6 +2137,14 @@
       "onboard_time": 1685834597,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 68355,
+      "num": 382807,
+      "word": "高考是人生一战也是人生一站",
+      "onboard_time": 1685880087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60391,

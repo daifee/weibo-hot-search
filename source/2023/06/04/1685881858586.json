@@ -1,0 +1,410 @@
+{
+  "runTime": 1685881858586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676542,
+        "num": 1676542,
+        "word": "市监局再次确认高校饭菜异物是鸭脖",
+        "onboard_time": 1685876487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293577,
+        "num": 1293577,
+        "word": "爷爷把微信当书信用",
+        "onboard_time": 1685875886,
+        "rank": 1,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 27840,
+        "num": 1167316,
+        "word": "60秒回顾神十五返回舱着陆",
+        "onboard_time": 1685869828,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1138115,
+        "num": 1138115,
+        "word": "宋茜做错了什么",
+        "onboard_time": 1685878168,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1100160,
+        "num": 1100160,
+        "word": "男子为考清华复读14年",
+        "onboard_time": 1685871806,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2419445,
+        "num": 1071956,
+        "word": "国内出现偏肺病毒感染",
+        "onboard_time": 1685875344,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1869828,
+        "num": 1043422,
+        "word": "清清恋爱",
+        "onboard_time": 1685880146,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 926960,
+        "num": 926960,
+        "word": "沈月cos陈小希",
+        "onboard_time": 1685873726,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 852391,
+        "num": 852391,
+        "word": "刘亦菲林志颖20年前合照",
+        "onboard_time": 1685878407,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547631,
+        "num": 547631,
+        "word": "何炅的身材这么好吗",
+        "onboard_time": 1685865928,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1158344,
+        "num": 538884,
+        "word": "爆剧最多的女演员",
+        "onboard_time": 1685869707,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515988,
+        "num": 515988,
+        "word": "为什么没人捞张子豪",
+        "onboard_time": 1685876546,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503746,
+        "num": 503746,
+        "word": "宋茜汤晶媚聊天门遭罪",
+        "onboard_time": 1685866048,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398426,
+        "num": 398426,
+        "word": "孟子义用的什么化妆品",
+        "onboard_time": 1685879429,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68355,
+        "num": 382807,
+        "word": "高考是人生一战也是人生一站",
+        "onboard_time": 1685880087,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372009,
+        "num": 372009,
+        "word": "seventeen目前年龄",
+        "onboard_time": 1685880087,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354895,
+        "num": 354895,
+        "word": "任敏 鸟鸟",
+        "onboard_time": 1685861067,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265594,
+        "num": 265594,
+        "word": "英语不好也能在国外生存",
+        "onboard_time": 1685876546,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257891,
+        "num": 257891,
+        "word": "31岁孤独症康复师离世捐出全部器官",
+        "onboard_time": 1685879008,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 225480,
+        "num": 225480,
+        "word": "高考卖花",
+        "onboard_time": 1685880929,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353898,
+        "num": 224855,
+        "word": "杨紫高洁丝直播",
+        "onboard_time": 1685880447,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331223,
+        "num": 224030,
+        "word": "孟子义锐评任敏汤晶媚乐队事件",
+        "onboard_time": 1685859687,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221149,
+        "num": 221149,
+        "word": "我的脸被隐翅虫毁容了",
+        "onboard_time": 1685849424,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198972,
+        "num": 198972,
+        "word": "瓜子厂老板停产帮乡亲烘麦子超10万斤",
+        "onboard_time": 1685872946,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184269,
+        "num": 184269,
+        "word": "多巴胺穿搭",
+        "onboard_time": 1685881111,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 306936,
+        "num": 178523,
+        "word": "黄晓明 清澈的愚蠢",
+        "onboard_time": 1685878407,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233921,
+        "num": 173927,
+        "word": "金在中去看了金泰妍演唱会",
+        "onboard_time": 1685879608,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218946,
+        "num": 171473,
+        "word": "梦中的那片海版换乘恋爱",
+        "onboard_time": 1685880687,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167802,
+        "num": 167802,
+        "word": "如何看待校方称食堂饭菜中异物为鸭脖",
+        "onboard_time": 1685880447,
+        "rank": 28,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 159043,
+        "num": 167471,
+        "word": "中国女排世联赛4连胜",
+        "onboard_time": 1685879189,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218425,
+        "num": 167425,
+        "word": "薛之谦演唱会拿到张杰荧光棒",
+        "onboard_time": 1685870728,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200320,
+        "num": 166865,
+        "word": "王一栩探班成毅李一桐",
+        "onboard_time": 1685881111,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195016,
+        "num": 166419,
+        "word": "小S大女儿获韩国舞蹈大赛第一名",
+        "onboard_time": 1685863948,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166382,
+        "num": 166382,
+        "word": "中国女排",
+        "onboard_time": 1685874926,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144012,
+        "num": 144012,
+        "word": "隐翅虫 重楼解毒酊",
+        "onboard_time": 1685872466,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181666,
+        "num": 143791,
+        "word": "迪丽热巴 嘉人",
+        "onboard_time": 1685862747,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 142542,
+        "word": "蜘蛛侠",
+        "onboard_time": 1685869408,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150512,
+        "num": 141213,
+        "word": "极限挑战",
+        "onboard_time": 1685877987,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139339,
+        "num": 139339,
+        "word": "四川乐山高位山体塌方14人遇难",
+        "onboard_time": 1685868747,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137279,
+        "num": 137279,
+        "word": "女子考科三系错安全带考官面如死灰",
+        "onboard_time": 1685871086,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145180,
+        "num": 136989,
+        "word": "NCT团站休站",
+        "onboard_time": 1685871746,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140822,
+        "num": 136802,
+        "word": "那英马嘉祺兰亭序声生不息金曲榜第一",
+        "onboard_time": 1685877806,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136133,
+        "num": 136133,
+        "word": "解说瓶子",
+        "onboard_time": 1685872226,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133174,
+        "num": 133174,
+        "word": "梦海 炉上烧水细节",
+        "onboard_time": 1685879367,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132424,
+        "num": 132424,
+        "word": "张子豪 淘汰",
+        "onboard_time": 1685853927,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127146,
+        "num": 127146,
+        "word": "直女发言聊天记录",
+        "onboard_time": 1685860946,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 125887,
+        "num": 125887,
+        "word": "JDG对战LNG",
+        "onboard_time": 1685879727,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125750,
+        "num": 125750,
+        "word": "谢谢你本泽马",
+        "onboard_time": 1685880867,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114373,
+        "num": 114373,
+        "word": "贵州村超",
+        "onboard_time": 1685881768,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110861,
+        "num": 110861,
+        "word": "best AG",
+        "onboard_time": 1685871507,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起保护好传承好历史文化#"
+    }
+  }
+}
