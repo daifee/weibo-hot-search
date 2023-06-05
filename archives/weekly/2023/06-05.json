@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685983027707,
+  "endTime": 1685985298928,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -179,6 +179,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1474876,
+      "num": 1474876,
+      "word": "苹果发布会",
+      "onboard_time": 1685979027,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1439333,
       "num": 1439333,
       "word": "难怪白鹿许凯不帮于正新剧宣传",
@@ -249,14 +257,6 @@
       "onboard_time": 1685927488,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1202820,
-      "num": 1202820,
-      "word": "苹果发布会",
-      "onboard_time": 1685979027,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 1118785,
@@ -523,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 684398,
+      "num": 684398,
+      "word": "库克 今年将是最精彩WWDC",
+      "onboard_time": 1685979748,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 680090,
       "num": 680090,
       "word": "汕头一快餐店煤气爆炸致1死6伤",
@@ -619,14 +627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 569196,
-      "num": 569196,
-      "word": "库克 今年将是最精彩WWDC",
-      "onboard_time": 1685979748,
-      "rank": 8,
-      "category": "科技"
-    },
-    {
       "raw_hot": 567816,
       "num": 567816,
       "word": "市监局回应反复对比确认是鸭脖",
@@ -657,6 +657,14 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 545643,
+      "num": 545643,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521409,
@@ -947,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369624,
+      "num": 369624,
+      "word": "李沁戏份",
+      "onboard_time": 1685982684,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369191,
       "num": 369191,
       "word": "网友评选95生三大神颜",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1685980227,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320541,
-      "num": 320541,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314158,
@@ -1739,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196301,
+      "num": 150434,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195254,
       "num": 195254,
       "word": "微博电影之夜主持人",
@@ -2051,14 +2067,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 168643,
-      "num": 168643,
-      "word": "李沁戏份",
-      "onboard_time": 1685982684,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168518,
       "num": 168518,
       "word": "肖春生犟起来对自己有多狠",
@@ -2241,14 +2249,6 @@
       "onboard_time": 1685947768,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150434,
-      "num": 150434,
-      "word": "上班更苦还是上学更苦",
-      "onboard_time": 1685981667,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 150357,
@@ -2627,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104205,
+      "num": 104205,
+      "word": "苹果出头显你会买吗",
+      "onboard_time": 1685985079,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 104069,
       "num": 104069,
       "word": "王鹤棣在哪都是个显眼包",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1685962834,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78698,
+      "num": 78698,
+      "word": "唯品会崩了相关负责人被免职",
+      "onboard_time": 1685984898,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 70924,

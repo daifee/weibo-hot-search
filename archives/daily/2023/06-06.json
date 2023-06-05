@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1685983027707,
+  "endTime": 1685985298928,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1202820,
-      "num": 1202820,
+      "raw_hot": 1474876,
+      "num": 1474876,
       "word": "苹果发布会",
       "onboard_time": 1685979027,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 684398,
+      "num": 684398,
+      "word": "库克 今年将是最精彩WWDC",
+      "onboard_time": 1685979748,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 647690,
       "num": 647690,
       "word": "美依礼芽四公 青鸟",
@@ -67,12 +75,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569196,
-      "num": 569196,
-      "word": "库克 今年将是最精彩WWDC",
-      "onboard_time": 1685979748,
-      "rank": 8,
-      "category": "科技"
+      "raw_hot": 545643,
+      "num": 545643,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538923,
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369624,
+      "num": 369624,
+      "word": "李沁戏份",
+      "onboard_time": 1685982684,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324661,
       "num": 211438,
       "word": "陈紫函公诉泳装出场",
       "onboard_time": 1685980227,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320541,
-      "num": 320541,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316800,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196301,
+      "num": 150434,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189422,
       "num": 201493,
       "word": "30岁也不过是12岁的大人",
@@ -283,14 +299,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 168643,
-      "num": 168643,
-      "word": "李沁戏份",
-      "onboard_time": 1685982684,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163388,
       "num": 163388,
       "word": "肖春生什么时候分手",
@@ -329,14 +337,6 @@
       "onboard_time": 1685977172,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150434,
-      "num": 150434,
-      "word": "上班更苦还是上学更苦",
-      "onboard_time": 1685981667,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 149050,
@@ -419,12 +419,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 104427,
+      "num": 104427,
+      "word": "女频和男频最大的区别之一",
+      "onboard_time": 1685966307,
+      "rank": 26,
+      "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 104205,
+      "num": 104205,
+      "word": "苹果出头显你会买吗",
+      "onboard_time": 1685985079,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 99273,
       "num": 99273,
       "word": "虞书欣方公布维权案进度",
       "onboard_time": 1685970688,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 78698,
+      "num": 78698,
+      "word": "唯品会崩了相关负责人被免职",
+      "onboard_time": 1685984898,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 27535,
