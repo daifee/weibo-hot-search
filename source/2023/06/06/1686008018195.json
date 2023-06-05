@@ -1,0 +1,410 @@
+{
+  "runTime": 1686008018195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638983,
+        "num": 1638983,
+        "word": "Apple Vision Pro 苹果首款头显",
+        "onboard_time": 1685989754,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1361306,
+        "num": 1361306,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56065,
+        "num": 1180521,
+        "word": "首艘国产大型邮轮有2500万个零部件",
+        "onboard_time": 1685972191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063879,
+        "num": 1063879,
+        "word": "苹果发布会",
+        "onboard_time": 1685979027,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 879069,
+        "num": 879069,
+        "word": "有刘海的刘浩存",
+        "onboard_time": 1685976872,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824265,
+        "num": 824265,
+        "word": "27岁游戏主播抗癌半年后去世",
+        "onboard_time": 1685976153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821890,
+        "num": 821890,
+        "word": "天津碧桂园",
+        "onboard_time": 1685981366,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790879,
+        "num": 790879,
+        "word": "业主购42套房全部打通墙体",
+        "onboard_time": 1685972670,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 620178,
+        "num": 620178,
+        "word": "夫妻离婚均不愿养娃法院判不许离",
+        "onboard_time": 1686006260,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509181,
+        "num": 509181,
+        "word": "空姐未讲日语被日本女子辱骂",
+        "onboard_time": 1686006141,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409281,
+        "num": 409281,
+        "word": "儿子高考前告别重病妈妈医生善意劝导",
+        "onboard_time": 1685965285,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348233,
+        "num": 348233,
+        "word": "电梯故障学生爬29楼赴高考商家被罚",
+        "onboard_time": 1685969186,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 342266,
+        "num": 342266,
+        "word": "母亲病危家人让高考孩子见最后一面",
+        "onboard_time": 1685973030,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 335236,
+        "num": 335236,
+        "word": "iOS17",
+        "onboard_time": 1685986516,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 305936,
+        "num": 305936,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285914,
+        "num": 285914,
+        "word": "任豪求求了你们好好谈恋爱吧",
+        "onboard_time": 1685971470,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281283,
+        "num": 281283,
+        "word": "美依礼芽四公 青鸟",
+        "onboard_time": 1685970688,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252407,
+        "num": 252407,
+        "word": "李沁戏份",
+        "onboard_time": 1685982684,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238125,
+        "num": 238125,
+        "word": "唯品会崩了相关负责人被免职",
+        "onboard_time": 1685984898,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 237156,
+        "num": 237156,
+        "word": "海天品牌回应蚝油内疑发现生蚝",
+        "onboard_time": 1685965046,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 324080,
+        "num": 234196,
+        "word": "高考700分和存款700万你选哪个",
+        "onboard_time": 1685969006,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280229,
+        "num": 232957,
+        "word": "芒种",
+        "onboard_time": 1686006682,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277718,
+        "num": 231558,
+        "word": "鸭圣婆 杰克辣条",
+        "onboard_time": 1685973930,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 227386,
+        "num": 227386,
+        "word": "上班更苦还是上学更苦",
+        "onboard_time": 1685981667,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206646,
+        "num": 206646,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "Jennie新剧",
+        "onboard_time": 1685973571,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153462,
+        "num": 153462,
+        "word": "库克 今年将是最精彩WWDC",
+        "onboard_time": 1685979748,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129222,
+        "num": 129222,
+        "word": "陈伟霆亲完后的样子好不值钱",
+        "onboard_time": 1686002294,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121464,
+        "num": 121464,
+        "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+        "onboard_time": 1685974230,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92655,
+        "num": 120350,
+        "word": "别信了梅西不会来敬酒",
+        "onboard_time": 1685967747,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 119510,
+        "num": 119510,
+        "word": "苹果出头显你会买吗",
+        "onboard_time": 1685985079,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196136,
+        "num": 118621,
+        "word": "长牙的鸭脖令人如鲠在喉",
+        "onboard_time": 1686007704,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116688,
+        "num": 116688,
+        "word": "娜扎七年前生图",
+        "onboard_time": 1685964207,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187958,
+        "num": 116554,
+        "word": "老师上网课儿子在后面捣乱",
+        "onboard_time": 1686006260,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154453,
+        "num": 116416,
+        "word": "鼠头还是鸭脖怎么就成了罗生门",
+        "onboard_time": 1685971528,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120803,
+        "num": 116263,
+        "word": "南昌市监局已介入高校食堂老鼠事件",
+        "onboard_time": 1685967387,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116084,
+        "num": 116084,
+        "word": "13英寸MacBook降价",
+        "onboard_time": 1685989577,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 114250,
+        "num": 114250,
+        "word": "钢笔还给我爸爸",
+        "onboard_time": 1686005480,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114188,
+        "num": 114188,
+        "word": "第一次见YG公关部这么迅速",
+        "onboard_time": 1685973870,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111026,
+        "num": 111026,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1685968585,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109716,
+        "num": 109716,
+        "word": "欧文联系詹姆斯",
+        "onboard_time": 1686007822,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102215,
+        "num": 102215,
+        "word": "张小狮说愿意归还所有资助",
+        "onboard_time": 1685965706,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 99516,
+        "num": 99516,
+        "word": "鞠婧祎花戎同居",
+        "onboard_time": 1685970266,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96383,
+        "num": 96383,
+        "word": "光与夜之恋",
+        "onboard_time": 1686007822,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96239,
+        "num": 96239,
+        "word": "肖战珠峰文化旅游节宣传VCR",
+        "onboard_time": 1686000971,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90943,
+        "num": 90943,
+        "word": "天舟五号与空间站再次交会对接",
+        "onboard_time": 1686006922,
+        "rank": 45,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 90863,
+        "num": 90863,
+        "word": "AppleVisionPro售价",
+        "onboard_time": 1685992393,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87352,
+        "num": 87352,
+        "word": "3499美元的苹果头显值得买吗",
+        "onboard_time": 1686008003,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 86473,
+        "num": 86473,
+        "word": "起底叶音工作室",
+        "onboard_time": 1685999232,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85078,
+        "num": 85078,
+        "word": "蔡依林 玫瑰少年",
+        "onboard_time": 1685971768,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#美丽中国在行动#"
+    }
+  }
+}

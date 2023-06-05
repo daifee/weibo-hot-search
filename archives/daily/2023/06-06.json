@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686007029413,
+  "endTime": 1686008018195,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -11,19 +11,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1638983,
+      "num": 1638983,
+      "word": "Apple Vision Pro 苹果首款头显",
+      "onboard_time": 1685989754,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1474876,
       "num": 1474876,
       "word": "苹果发布会",
       "onboard_time": 1685979027,
       "rank": 1,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1354067,
-      "num": 1354067,
-      "word": "Apple Vision Pro 苹果首款头显",
-      "onboard_time": 1685989754,
-      "rank": 5,
       "category": "科技"
     },
     {
@@ -35,20 +35,28 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 791713,
-      "num": 791713,
+      "raw_hot": 879069,
+      "num": 879069,
+      "word": "有刘海的刘浩存",
+      "onboard_time": 1685976872,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 824265,
+      "num": 824265,
       "word": "27岁游戏主播抗癌半年后去世",
       "onboard_time": 1685976153,
       "rank": 4,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789843,
-      "num": 789843,
-      "word": "有刘海的刘浩存",
-      "onboard_time": 1685976872,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 821890,
+      "num": 821890,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759840,
@@ -57,14 +65,6 @@
       "onboard_time": 1685971470,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 727940,
-      "num": 727940,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688521,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620178,
+      "num": 620178,
+      "word": "夫妻离婚均不愿养娃法院判不许离",
+      "onboard_time": 1686006260,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538923,
       "num": 538923,
       "word": "母亲病危家人让高考孩子见最后一面",
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 510288,
-      "num": 222500,
+      "num": 231558,
       "word": "鸭圣婆 杰克辣条",
       "onboard_time": 1685973930,
       "rank": 20,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 509181,
+      "num": 509181,
+      "word": "空姐未讲日语被日本女子辱骂",
+      "onboard_time": 1686006141,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427246,
@@ -123,6 +139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 409281,
+      "num": 409281,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 398165,
       "num": 398165,
       "word": "孙怡对汤晶媚说你不要在这道德绑架我",
@@ -131,16 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397451,
-      "num": 397451,
-      "word": "儿子高考前告别重病妈妈医生善意劝导",
-      "onboard_time": 1685965285,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 383709,
-      "num": 216456,
+      "num": 234196,
       "word": "高考700分和存款700万你选哪个",
       "onboard_time": 1685969006,
       "rank": 21,
@@ -163,20 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348233,
+      "num": 348233,
+      "word": "电梯故障学生爬29楼赴高考商家被罚",
+      "onboard_time": 1685969186,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 335236,
+      "num": 335236,
+      "word": "iOS17",
+      "onboard_time": 1685986516,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 324661,
       "num": 211438,
       "word": "陈紫函公诉泳装出场",
       "onboard_time": 1685980227,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312942,
-      "num": 312942,
-      "word": "iOS17",
-      "onboard_time": 1685986516,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 300561,
@@ -195,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295449,
-      "num": 295449,
-      "word": "电梯故障学生爬29楼赴高考商家被罚",
-      "onboard_time": 1685969186,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 291164,
       "num": 291164,
       "word": "唯品会崩了相关负责人被免职",
@@ -219,19 +235,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280229,
+      "num": 232957,
+      "word": "芒种",
+      "onboard_time": 1686006682,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259371,
       "num": 180870,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
       "onboard_time": 1685971528,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244794,
-      "num": 151659,
-      "word": "夫妻离婚均不愿养娃法院判不许离",
-      "onboard_time": 1686006260,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -241,14 +257,6 @@
       "onboard_time": 1685971768,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238614,
-      "num": 150873,
-      "word": "芒种",
-      "onboard_time": 1686006682,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234230,
@@ -275,6 +283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 227386,
+      "num": 227386,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -283,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221924,
-      "num": 150434,
-      "word": "上班更苦还是上学更苦",
-      "onboard_time": 1685981667,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 206646,
+      "num": 206646,
+      "word": "明天高考",
+      "onboard_time": 1686007764,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 201299,
@@ -307,12 +323,28 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 196136,
+      "num": 118621,
+      "word": "长牙的鸭脖令人如鲠在喉",
+      "onboard_time": 1686007704,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189422,
       "num": 201493,
       "word": "30岁也不过是12岁的大人",
       "onboard_time": 1685968585,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187958,
+      "num": 116554,
+      "word": "老师上网课儿子在后面捣乱",
+      "onboard_time": 1686006260,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 182829,
@@ -403,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155230,
-      "num": 155230,
-      "word": "空姐未讲日语被日本女子辱骂",
-      "onboard_time": 1686006141,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154292,
       "num": 154292,
       "word": "15寸的MacBook Air",
@@ -491,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129286,
-      "num": 109667,
-      "word": "老师上网课儿子在后面捣乱",
-      "onboard_time": 1686006260,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 129222,
+      "num": 129222,
+      "word": "陈伟霆亲完后的样子好不值钱",
+      "onboard_time": 1686002294,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 126493,
@@ -539,6 +563,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116084,
+      "num": 116084,
+      "word": "13英寸MacBook降价",
+      "onboard_time": 1685989577,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 114250,
+      "num": 114250,
+      "word": "钢笔还给我爸爸",
+      "onboard_time": 1686005480,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112815,
       "num": 112815,
       "word": "初级会计",
@@ -547,12 +587,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112436,
-      "num": 112436,
-      "word": "13英寸MacBook降价",
-      "onboard_time": 1685989577,
+      "raw_hot": 109716,
+      "num": 109716,
+      "word": "欧文联系詹姆斯",
+      "onboard_time": 1686007822,
       "rank": 40,
-      "category": "科技"
+      "category": "体育"
     },
     {
       "raw_hot": 109495,
@@ -587,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96383,
+      "num": 96383,
+      "word": "光与夜之恋",
+      "onboard_time": 1686007822,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94648,
       "num": 94648,
       "word": "WWDC2023",
@@ -595,20 +643,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 89304,
-      "num": 89304,
-      "word": "陈伟霆亲完后的样子好不值钱",
-      "onboard_time": 1686002294,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 90943,
+      "num": 90943,
+      "word": "天舟五号与空间站再次交会对接",
+      "onboard_time": 1686006922,
+      "rank": 48,
+      "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 83491,
-      "num": 83491,
-      "word": "钢笔还给我爸爸",
-      "onboard_time": 1686005480,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 87352,
+      "num": 87352,
+      "word": "3499美元的苹果头显值得买吗",
+      "onboard_time": 1686008003,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 86473,
+      "num": 86473,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 83269,
@@ -627,14 +683,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 77806,
-      "num": 77806,
-      "word": "起底叶音工作室",
-      "onboard_time": 1685999232,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70086,
       "num": 70086,
       "word": "WWDC",
@@ -643,12 +691,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 69419,
-      "num": 69419,
-      "word": "天舟五号与空间站再次交会对接",
-      "onboard_time": 1686006922,
-      "rank": 48,
-      "category": "科技,国内要闻"
+      "raw_hot": 56065,
+      "num": 1180521,
+      "word": "首艘国产大型邮轮有2500万个零部件",
+      "onboard_time": 1685972191,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51067,
@@ -657,14 +705,6 @@
       "onboard_time": 1685988376,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 42221,
-      "num": 1048078,
-      "word": "首艘国产大型邮轮有2500万个零部件",
-      "onboard_time": 1685972191,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36691,

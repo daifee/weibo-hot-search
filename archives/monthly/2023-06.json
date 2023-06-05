@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686007029413,
+  "endTime": 1686008018195,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -523,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1638983,
+      "num": 1638983,
+      "word": "Apple Vision Pro 苹果首款头显",
+      "onboard_time": 1685989754,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1633805,
       "num": 1633805,
       "word": "被骗到缅甸6小伙已被解救",
@@ -841,14 +849,6 @@
       "onboard_time": 1685970688,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1354067,
-      "num": 1354067,
-      "word": "Apple Vision Pro 苹果首款头显",
-      "onboard_time": 1685989754,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 1333960,
@@ -1499,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 879069,
+      "num": 879069,
+      "word": "有刘海的刘浩存",
+      "onboard_time": 1685976872,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875800,
       "num": 875800,
       "word": "27岁游戏主播抗癌半年后去世",
@@ -1659,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 821890,
+      "num": 821890,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821233,
       "num": 821233,
       "word": "全世界都在等你们分手",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1685923767,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789843,
-      "num": 789843,
-      "word": "有刘海的刘浩存",
-      "onboard_time": 1685976872,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 787851,
@@ -1865,14 +1873,6 @@
       "onboard_time": 1685967747,
       "rank": 17,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 727940,
-      "num": 727940,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 726387,
@@ -2273,6 +2273,14 @@
       "onboard_time": 1685961028,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 620178,
+      "num": 620178,
+      "word": "夫妻离婚均不愿养娃法院判不许离",
+      "onboard_time": 1686006260,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616292,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1685864190,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 509181,
+      "num": 509181,
+      "word": "空姐未讲日语被日本女子辱骂",
+      "onboard_time": 1686006141,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507598,
@@ -3467,6 +3483,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 409281,
+      "num": 409281,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 407985,
       "num": 216886,
       "word": "离异男子独自养儿到17岁发现非亲生",
@@ -3569,14 +3593,6 @@
       "onboard_time": 1685620466,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397451,
-      "num": 397451,
-      "word": "儿子高考前告别重病妈妈医生善意劝导",
-      "onboard_time": 1685965285,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 396671,
@@ -4331,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335236,
+      "num": 335236,
+      "word": "iOS17",
+      "onboard_time": 1685986516,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 335212,
       "num": 254111,
       "word": "东部战区就美加军舰过航台湾海峡发表谈话",
@@ -4657,14 +4681,6 @@
       "onboard_time": 1685603726,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312942,
-      "num": 312942,
-      "word": "iOS17",
-      "onboard_time": 1685986516,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 312739,
@@ -5321,6 +5337,14 @@
       "onboard_time": 1685695466,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280229,
+      "num": 232957,
+      "word": "芒种",
+      "onboard_time": 1686006682,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279992,
@@ -6195,14 +6219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244794,
-      "num": 151659,
-      "word": "夫妻离婚均不愿养娃法院判不许离",
-      "onboard_time": 1686006260,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244567,
       "num": 325062,
       "word": "如何看待我国一孩生育率下跌现象",
@@ -6409,14 +6425,6 @@
       "onboard_time": 1685584646,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238614,
-      "num": 150873,
-      "word": "芒种",
-      "onboard_time": 1686006682,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238567,
@@ -6779,6 +6787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227386,
+      "num": 227386,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226927,
       "num": 226927,
       "word": "香蕉的英文这么烫嘴吗",
@@ -6913,14 +6929,6 @@
       "onboard_time": 1685921241,
       "rank": 31,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 221924,
-      "num": 150434,
-      "word": "上班更苦还是上学更苦",
-      "onboard_time": 1685981667,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 221627,
@@ -7483,6 +7491,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 206646,
+      "num": 206646,
+      "word": "明天高考",
+      "onboard_time": 1686007764,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206528,
       "num": 182788,
       "word": "如果拥有一台穿越机你会做什么",
@@ -7856,6 +7872,14 @@
       "word": "河南小麦咋样了",
       "onboard_time": 1685544932,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196136,
+      "num": 118621,
+      "word": "长牙的鸭脖令人如鲠在喉",
+      "onboard_time": 1686007704,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -8281,6 +8305,14 @@
       "onboard_time": 1685789727,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187958,
+      "num": 116554,
+      "word": "老师上网课儿子在后面捣乱",
+      "onboard_time": 1686006260,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 187800,
@@ -9531,14 +9563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155230,
-      "num": 155230,
-      "word": "空姐未讲日语被日本女子辱骂",
-      "onboard_time": 1686006141,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155217,
       "num": 360285,
       "word": "49岁妈妈参加高考如愿成为大一新生",
@@ -10379,12 +10403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129286,
-      "num": 109667,
-      "word": "老师上网课儿子在后面捣乱",
-      "onboard_time": 1686006260,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 129222,
+      "num": 129222,
+      "word": "陈伟霆亲完后的样子好不值钱",
+      "onboard_time": 1686002294,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 129070,
@@ -10899,6 +10923,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 116084,
+      "num": 116084,
+      "word": "13英寸MacBook降价",
+      "onboard_time": 1685989577,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 116007,
       "num": 1380874,
       "word": "神十五航天员回地球",
@@ -10937,6 +10969,14 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114250,
+      "num": 114250,
+      "word": "钢笔还给我爸爸",
+      "onboard_time": 1686005480,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 113681,
@@ -10985,14 +11025,6 @@
       "onboard_time": 1685795007,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112436,
-      "num": 112436,
-      "word": "13英寸MacBook降价",
-      "onboard_time": 1685989577,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 112400,
@@ -11072,6 +11104,14 @@
       "word": "法网",
       "onboard_time": 1685793027,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109716,
+      "num": 109716,
+      "word": "欧文联系詹姆斯",
+      "onboard_time": 1686007822,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -11379,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96383,
+      "num": 96383,
+      "word": "光与夜之恋",
+      "onboard_time": 1686007822,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95902,
       "num": 95902,
       "word": "2条丝巾变古装",
@@ -11451,6 +11499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90943,
+      "num": 90943,
+      "word": "天舟五号与空间站再次交会对接",
+      "onboard_time": 1686006922,
+      "rank": 48,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 90871,
       "num": 256039,
       "word": "掘金1比0热火",
@@ -11515,14 +11571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89304,
-      "num": 89304,
-      "word": "陈伟霆亲完后的样子好不值钱",
-      "onboard_time": 1686002294,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88756,
       "num": 120553,
       "word": "女士优先车厢男士该让座吗",
@@ -11569,6 +11617,22 @@
       "onboard_time": 1685834897,
       "rank": 35,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 87352,
+      "num": 87352,
+      "word": "3499美元的苹果头显值得买吗",
+      "onboard_time": 1686008003,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 86473,
+      "num": 86473,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 86398,
@@ -11659,14 +11723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83491,
-      "num": 83491,
-      "word": "钢笔还给我爸爸",
-      "onboard_time": 1686005480,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 83454,
       "num": 83454,
       "word": "伴侣应该选择相似的还是互补的",
@@ -11737,14 +11793,6 @@
       "onboard_time": 1685636965,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 77806,
-      "num": 77806,
-      "word": "起底叶音工作室",
-      "onboard_time": 1685999232,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 77255,
@@ -11955,14 +12003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69419,
-      "num": 69419,
-      "word": "天舟五号与空间站再次交会对接",
-      "onboard_time": 1686006922,
-      "rank": 48,
-      "category": "科技,国内要闻"
-    },
-    {
       "raw_hot": 69232,
       "num": 72121,
       "word": "当她单膝跪地那一刻 男友忍不住大笑",
@@ -12153,6 +12193,14 @@
       "onboard_time": 1685540910,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 56065,
+      "num": 1180521,
+      "word": "首艘国产大型邮轮有2500万个零部件",
+      "onboard_time": 1685972191,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55874,
@@ -12352,14 +12400,6 @@
       "word": "学弟妹手写300多个书签助力高考",
       "onboard_time": 1685876487,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42221,
-      "num": 1048078,
-      "word": "首艘国产大型邮轮有2500万个零部件",
-      "onboard_time": 1685972191,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
