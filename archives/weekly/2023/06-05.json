@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685982149595,
+  "endTime": 1685983027707,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2311225,
-      "num": 2311225,
+      "raw_hot": 2322353,
+      "num": 2322353,
       "word": "吴倩 退赛",
       "onboard_time": 1685979988,
       "rank": 0,
@@ -1083,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320541,
+      "num": 320541,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1685952328,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300561,
+      "num": 300561,
+      "word": "谢娜朱珠郑秀妍合作舞台重录",
+      "onboard_time": 1685981426,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 298999,
@@ -1723,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197480,
-      "num": 197480,
-      "word": "谢娜朱珠郑秀妍合作舞台重录",
-      "onboard_time": 1685981426,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195254,
       "num": 195254,
       "word": "微博电影之夜主持人",
@@ -2043,6 +2051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168643,
+      "num": 168643,
+      "word": "李沁戏份",
+      "onboard_time": 1685982684,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168518,
       "num": 168518,
       "word": "肖春生犟起来对自己有多狠",
@@ -2139,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158649,
-      "num": 158649,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157871,
       "num": 157871,
       "word": "罗一舟后浪跳舞了",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1685952566,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155765,
+      "num": 149771,
+      "word": "十个勤天",
+      "onboard_time": 1685982145,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 155217,
@@ -2227,12 +2243,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150434,
+      "num": 150434,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150357,
       "num": 146831,
       "word": "肖春生直球拒绝暧昧",
       "onboard_time": 1685893408,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149050,
+      "num": 149943,
+      "word": "父母带5岁半脑干肿瘤女儿去海洋馆圆梦",
+      "onboard_time": 1685982323,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148242,
@@ -2435,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126493,
+      "num": 149690,
+      "word": "清华有个学生自己的修车摊",
+      "onboard_time": 1685982864,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 125812,
       "num": 125812,
       "word": "蜜蜂无语 到底是哪又漏了",
@@ -2513,14 +2553,6 @@
       "onboard_time": 1685966366,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 118775,
-      "num": 118775,
-      "word": "上班更苦还是上学更苦",
-      "onboard_time": 1685981667,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 118148,
@@ -2859,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27535,
+      "num": 956825,
+      "word": "首艘国产大型邮轮有2500万个零部件",
+      "onboard_time": 1685972191,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24151,
       "num": 27740,
       "word": "聚焦全国高考",
@@ -2872,14 +2912,6 @@
       "word": "上场吧少年",
       "onboard_time": 1685977292,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21274,
-      "num": 956825,
-      "word": "首艘国产大型邮轮有2500万个零部件",
-      "onboard_time": 1685972191,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
