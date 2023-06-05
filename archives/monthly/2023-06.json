@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685999654102,
+  "endTime": 1686000818325,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -12427,6 +12427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27362,
+      "num": 27362,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27297,
       "num": 27297,
       "word": "肖春生的词典里生词挺多",
@@ -12513,14 +12521,6 @@
       "onboard_time": 1685592026,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18906,
-      "num": 18906,
-      "word": "起底叶音工作室",
-      "onboard_time": 1685999232,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 18107,
