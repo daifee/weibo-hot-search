@@ -1,0 +1,410 @@
+{
+  "runTime": 1685992429723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 849543,
+        "num": 849543,
+        "word": "Apple Vision Pro 苹果首款头显",
+        "onboard_time": 1685989754,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284482,
+        "num": 284482,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10861,
+        "num": 277902,
+        "word": "首艘国产大型邮轮有2500万个零部件",
+        "onboard_time": 1685972191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272225,
+        "num": 272225,
+        "word": "苹果发布会",
+        "onboard_time": 1685979027,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 154749,
+        "word": "Vision Pro 眼睛手势操作",
+        "onboard_time": 1685990834,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145722,
+        "num": 145722,
+        "word": "iOS17",
+        "onboard_time": 1685986516,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140737,
+        "num": 140737,
+        "word": "苹果出头显你会买吗",
+        "onboard_time": 1685985079,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119005,
+        "num": 119005,
+        "word": "天津碧桂园",
+        "onboard_time": 1685981366,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116202,
+        "num": 116202,
+        "word": "有刘海的刘浩存",
+        "onboard_time": 1685976872,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 102317,
+        "word": "库克 今年将是最精彩WWDC",
+        "onboard_time": 1685979748,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99667,
+        "num": 99667,
+        "word": "27岁游戏主播抗癌半年后去世",
+        "onboard_time": 1685976153,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80396,
+        "num": 80396,
+        "word": "业主购42套房全部打通墙体",
+        "onboard_time": 1685972670,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 76768,
+        "num": 76768,
+        "word": "watchOS 10 史努比表盘",
+        "onboard_time": 1685989275,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 74600,
+        "num": 74600,
+        "word": "母亲病危家人让高考孩子见最后一面",
+        "onboard_time": 1685973030,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 72383,
+        "num": 72383,
+        "word": "李沁戏份",
+        "onboard_time": 1685982684,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72331,
+        "num": 72331,
+        "word": "死亡搁浅将登陆Mac",
+        "onboard_time": 1685987834,
+        "rank": 15,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 71294,
+        "num": 71294,
+        "word": "Jennie新剧",
+        "onboard_time": 1685973571,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71102,
+        "num": 71102,
+        "word": "Vision Pro 迪士尼",
+        "onboard_time": 1685991314,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 66766,
+        "num": 66766,
+        "word": "美依礼芽四公 青鸟",
+        "onboard_time": 1685970688,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56057,
+        "num": 56057,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72893,
+        "num": 54480,
+        "word": "鸭圣婆 杰克辣条",
+        "onboard_time": 1685973930,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 70748,
+        "num": 52662,
+        "word": "高考700分和存款700万你选哪个",
+        "onboard_time": 1685969006,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50331,
+        "num": 50331,
+        "word": "海天品牌回应蚝油内疑发现生蚝",
+        "onboard_time": 1685965046,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 49911,
+        "num": 49911,
+        "word": "儿子高考前告别重病妈妈医生善意劝导",
+        "onboard_time": 1685965285,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 48623,
+        "num": 48623,
+        "word": "小岛秀夫 苹果发布会",
+        "onboard_time": 1685988135,
+        "rank": 24,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 47110,
+        "num": 47110,
+        "word": "唯品会崩了相关负责人被免职",
+        "onboard_time": 1685984898,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 46786,
+        "num": 46786,
+        "word": "任豪求求了你们好好谈恋爱吧",
+        "onboard_time": 1685971470,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44291,
+        "num": 44291,
+        "word": "13英寸MacBook降价",
+        "onboard_time": 1685989577,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 42316,
+        "num": 42316,
+        "word": "15寸的MacBook Air",
+        "onboard_time": 1685985739,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22355,
+        "num": 40476,
+        "word": "别信了梅西不会来敬酒",
+        "onboard_time": 1685967747,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 50426,
+        "num": 40279,
+        "word": "南昌市监局已介入高校食堂老鼠事件",
+        "onboard_time": 1685967387,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 44409,
+        "num": 40104,
+        "word": "鼠头还是鸭脖怎么就成了罗生门",
+        "onboard_time": 1685971528,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39836,
+        "num": 39836,
+        "word": "上班更苦还是上学更苦",
+        "onboard_time": 1685981667,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37485,
+        "num": 37485,
+        "word": "陈紫函公诉泳装出场",
+        "onboard_time": 1685980227,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36872,
+        "num": 36872,
+        "word": "娜扎七年前生图",
+        "onboard_time": 1685964207,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34971,
+        "num": 34971,
+        "word": "女频和男频最大的区别之一",
+        "onboard_time": 1685966307,
+        "rank": 35,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 34788,
+        "num": 34788,
+        "word": "第一次见YG公关部这么迅速",
+        "onboard_time": 1685973870,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33892,
+        "num": 33892,
+        "word": "谢娜朱珠郑秀妍合作舞台重录",
+        "onboard_time": 1685981426,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33030,
+        "num": 33030,
+        "word": "电梯故障学生爬29楼赴高考商家被罚",
+        "onboard_time": 1685969186,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 32371,
+        "num": 32371,
+        "word": "十个勤天",
+        "onboard_time": 1685982145,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32260,
+        "num": 32260,
+        "word": "蔡依林 玫瑰少年",
+        "onboard_time": 1685971768,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31309,
+        "num": 31309,
+        "word": "M2 Ultra 性能猛兽",
+        "onboard_time": 1685987117,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30482,
+        "num": 30482,
+        "word": "张小狮说愿意归还所有资助",
+        "onboard_time": 1685965706,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 29795,
+        "num": 29795,
+        "word": "新MacOS Sonoma",
+        "onboard_time": 1685988376,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28561,
+        "num": 28561,
+        "word": "M2 Ultra",
+        "onboard_time": 1685985558,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 26981,
+        "num": 26981,
+        "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+        "onboard_time": 1685974230,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26614,
+        "num": 26614,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1685968585,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26463,
+        "num": 26463,
+        "word": "WWDC",
+        "onboard_time": 1685987295,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25714,
+        "num": 25714,
+        "word": "亢奋",
+        "onboard_time": 1685977951,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25373,
+        "num": 25373,
+        "word": "AppleVisionPro售价",
+        "onboard_time": 1685992393,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护环境就是守护你我的未来#"
+    }
+  }
+}

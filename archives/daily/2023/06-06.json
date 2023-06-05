@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1685990039457,
+  "endTime": 1685992429723,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -25,6 +25,14 @@
       "onboard_time": 1685972670,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 849543,
+      "num": 849543,
+      "word": "Apple Vision Pro 苹果首款头显",
+      "onboard_time": 1685989754,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 791713,
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202334,
-      "num": 202334,
-      "word": "Apple Vision Pro 苹果首款头显",
-      "onboard_time": 1685989754,
-      "rank": 5,
-      "category": "科技"
-    },
-    {
       "raw_hot": 201299,
       "num": 201299,
       "word": "肖春生 肖春卷",
@@ -361,6 +361,14 @@
       "onboard_time": 1685982145,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154749,
+      "num": 154749,
+      "word": "Vision Pro 眼睛手势操作",
+      "onboard_time": 1685990834,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 154292,
@@ -531,6 +539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 71102,
+      "num": 71102,
+      "word": "Vision Pro 迪士尼",
+      "onboard_time": 1685991314,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 70086,
       "num": 70086,
       "word": "WWDC",
@@ -547,8 +563,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 43883,
-      "num": 43883,
+      "raw_hot": 44291,
+      "num": 44291,
       "word": "13英寸MacBook降价",
       "onboard_time": 1685989577,
       "rank": 40,
@@ -561,6 +577,14 @@
       "onboard_time": 1685972191,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25373,
+      "num": 25373,
+      "word": "AppleVisionPro售价",
+      "onboard_time": 1685992393,
+      "rank": 49,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
