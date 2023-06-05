@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685931001710,
+  "endTime": 1685933549613,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -491,6 +491,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1531717,
+      "num": 1531717,
+      "word": "无意识刷手机的危害有多大",
+      "onboard_time": 1685922685,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1530125,
       "num": 1530125,
       "word": "韩国23岁女子杀害陌生同龄女子",
@@ -569,14 +577,6 @@
       "onboard_time": 1685766088,
       "rank": 28,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 1412912,
-      "num": 1412912,
-      "word": "无意识刷手机的危害有多大",
-      "onboard_time": 1685922685,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1411897,
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1267543,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1267506,
       "num": 1267506,
       "word": "EXO是我们公司非常珍惜的艺人",
@@ -849,6 +857,14 @@
       "onboard_time": 1685713714,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1203733,
+      "num": 1203733,
+      "word": "海霞欧阳夏丹已不再任央视主持人",
+      "onboard_time": 1685927488,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1191166,
@@ -979,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1105898,
-      "num": 1105898,
-      "word": "海霞欧阳夏丹已不再任央视主持人",
-      "onboard_time": 1685927488,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1105584,
       "num": 1105584,
       "word": "胡可说不要把另一半当自己人",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1685840423,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1057663,
-      "num": 1057663,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1050365,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1685807790,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 979739,
+      "num": 979739,
+      "word": "shanji",
+      "onboard_time": 1685929407,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 977357,
@@ -1251,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 857955,
+      "num": 857955,
+      "word": "高铁站台为什么不能打伞",
+      "onboard_time": 1685931088,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855032,
       "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
@@ -1387,6 +1403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 792996,
+      "num": 792996,
+      "word": "重庆防空警报",
+      "onboard_time": 1685933128,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792254,
       "num": 792254,
       "word": "周也演技值得一个热搜",
@@ -1396,7 +1420,7 @@
     },
     {
       "raw_hot": 790406,
-      "num": 298795,
+      "num": 342659,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -2219,6 +2243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 519162,
+      "num": 519162,
+      "word": "热火 掘金",
+      "onboard_time": 1685928387,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515440,
       "num": 515440,
       "word": "金智秀看了都得愣一下",
@@ -2499,6 +2531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 453090,
+      "num": 453090,
+      "word": "欧阳夏丹",
+      "onboard_time": 1685931026,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452787,
       "num": 452787,
       "word": "网友花8万拍下椰树直播间蹦迪票",
@@ -2739,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418002,
+      "num": 418002,
+      "word": "王一博官宣2023微博电影之夜",
+      "onboard_time": 1685929945,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417769,
       "num": 417769,
       "word": "高考卖花",
@@ -2947,6 +2995,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 389779,
+      "num": 342142,
+      "word": "给自己的鼻子纹了两颗痣",
+      "onboard_time": 1685931867,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 389530,
       "num": 711692,
       "word": "月嫂提前离开雇主不舍偷偷抹泪",
@@ -3139,6 +3195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367151,
+      "num": 367151,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366252,
       "num": 366252,
       "word": "华晨宇五月天",
@@ -3216,6 +3280,14 @@
       "word": "舞台2023歌手名单",
       "onboard_time": 1685616867,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358210,
+      "num": 358210,
+      "word": "芝芙是越南版这就是街舞的队长",
+      "onboard_time": 1685931628,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -3297,6 +3369,14 @@
       "onboard_time": 1685805271,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351741,
+      "num": 341768,
+      "word": "喂119吗我是需要帮忙抓蛇的110",
+      "onboard_time": 1685930246,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350994,
@@ -3433,6 +3513,14 @@
       "onboard_time": 1685609487,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338897,
+      "num": 338897,
+      "word": "薛之谦毛不易官宣音综",
+      "onboard_time": 1685933067,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 338796,
@@ -3587,14 +3675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330361,
-      "num": 330361,
-      "word": "shanji",
-      "onboard_time": 1685929407,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 330080,
       "num": 330080,
       "word": "浙江多所小学美术本印有涉黄二维码",
@@ -3720,14 +3800,6 @@
       "word": "网友对肖战演技的评价",
       "onboard_time": 1685707651,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 321207,
-      "num": 321207,
-      "word": "王一博官宣2023微博电影之夜",
-      "onboard_time": 1685929945,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -4019,6 +4091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299965,
+      "num": 299965,
+      "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
+      "onboard_time": 1685931328,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299874,
       "num": 254266,
       "word": "迪丽热巴邻家少女",
@@ -4155,6 +4235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290018,
+      "num": 290018,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289939,
       "num": 266795,
       "word": "鞠婧祎韩式半永久",
@@ -4233,6 +4321,14 @@
       "onboard_time": 1685590468,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287669,
+      "num": 287669,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 287588,
@@ -4369,14 +4465,6 @@
       "onboard_time": 1685779347,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282971,
-      "num": 282971,
-      "word": "喂119吗我是需要帮忙抓蛇的110",
-      "onboard_time": 1685930246,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282924,
@@ -4545,6 +4633,14 @@
       "onboard_time": 1685871086,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 273329,
+      "num": 273329,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273283,
@@ -5249,14 +5345,6 @@
       "onboard_time": 1685622329,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240986,
-      "num": 240986,
-      "word": "热火 掘金",
-      "onboard_time": 1685928387,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 240975,
@@ -6043,6 +6131,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "与易烊千玺的十年",
+      "onboard_time": 1685932708,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211103,
       "num": 211103,
       "word": "白敬亭给自己P了个眼镜",
@@ -6299,6 +6395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200988,
+      "num": 200988,
+      "word": "热火1比1掘金",
+      "onboard_time": 1685933249,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200653,
       "num": 200653,
       "word": "张真源黑色花衬衫",
@@ -6457,6 +6561,14 @@
       "onboard_time": 1685856868,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196776,
+      "num": 196776,
+      "word": "重庆6月5日进行防控警报试鸣放",
+      "onboard_time": 1685933128,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196769,
@@ -6832,6 +6944,14 @@
       "word": "中国女排vs荷兰女排",
       "onboard_time": 1685779288,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187189,
+      "num": 187189,
+      "word": "NBA",
+      "onboard_time": 1685929046,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -7371,12 +7491,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168743,
+      "num": 168743,
+      "word": "浙江事业单位",
+      "onboard_time": 1685931026,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168627,
       "num": 168627,
       "word": "六月好运",
       "onboard_time": 1685596587,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168440,
+      "num": 168440,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168179,
@@ -7851,6 +7987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154106,
+      "num": 154106,
+      "word": "广东早教益智游戏",
+      "onboard_time": 1685933489,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153859,
       "num": 153859,
       "word": "JDG对战LNG",
@@ -8160,6 +8304,14 @@
       "word": "618有没有作业借我抄抄",
       "onboard_time": 1685703214,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 1256761,
+      "word": "距2023高考还有2天",
+      "onboard_time": 1685932287,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

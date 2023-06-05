@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685931001710,
+  "endTime": 1685933549613,
   "band_list": [
     {
       "raw_hot": 2490475,
@@ -27,8 +27,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1412912,
-      "num": 1412912,
+      "raw_hot": 1531717,
+      "num": 1531717,
       "word": "无意识刷手机的危害有多大",
       "onboard_time": 1685922685,
       "rank": 1,
@@ -43,28 +43,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1109152,
-      "num": 603964,
-      "word": "国内出现偏肺病毒感染",
-      "onboard_time": 1685875344,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1267543,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1105898,
-      "num": 1105898,
+      "raw_hot": 1203733,
+      "num": 1203733,
       "word": "海霞欧阳夏丹已不再任央视主持人",
       "onboard_time": 1685927488,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1057663,
-      "num": 1057663,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
+      "raw_hot": 1109152,
+      "num": 603964,
+      "word": "国内出现偏肺病毒感染",
+      "onboard_time": 1685875344,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1040052,
@@ -75,11 +75,27 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 979739,
+      "num": 979739,
+      "word": "shanji",
+      "onboard_time": 1685929407,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 925237,
       "num": 925237,
       "word": "日本女团成员灌男粉喝洗洁精",
       "onboard_time": 1685920400,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857955,
+      "num": 857955,
+      "word": "高铁站台为什么不能打伞",
+      "onboard_time": 1685931088,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -91,8 +107,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 792996,
+      "num": 792996,
+      "word": "重庆防空警报",
+      "onboard_time": 1685933128,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790406,
-      "num": 298795,
+      "num": 342659,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -139,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519162,
+      "num": 519162,
+      "word": "热火 掘金",
+      "onboard_time": 1685928387,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494991,
       "num": 494991,
       "word": "王诗龄生图",
@@ -153,6 +185,14 @@
       "onboard_time": 1685882550,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453090,
+      "num": 453090,
+      "word": "欧阳夏丹",
+      "onboard_time": 1685931026,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446123,
@@ -171,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 418002,
+      "num": 418002,
+      "word": "王一博官宣2023微博电影之夜",
+      "onboard_time": 1685929945,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417481,
       "num": 417481,
       "word": "今起学生票可实现网上核验",
@@ -185,6 +233,14 @@
       "onboard_time": 1685890114,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389779,
+      "num": 342142,
+      "word": "给自己的鼻子纹了两颗痣",
+      "onboard_time": 1685931867,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 388483,
@@ -211,12 +267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367151,
+      "num": 367151,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362989,
       "num": 271671,
       "word": "林一文俊辉约饭",
       "onboard_time": 1685892090,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358210,
+      "num": 358210,
+      "word": "芝芙是越南版这就是街舞的队长",
+      "onboard_time": 1685931628,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 354421,
@@ -243,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351741,
+      "num": 341768,
+      "word": "喂119吗我是需要帮忙抓蛇的110",
+      "onboard_time": 1685930246,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345003,
       "num": 345003,
       "word": "爷爷把微信当书信用",
@@ -259,20 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330361,
-      "num": 330361,
-      "word": "shanji",
-      "onboard_time": 1685929407,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 321207,
-      "num": 321207,
-      "word": "王一博官宣2023微博电影之夜",
-      "onboard_time": 1685929945,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 338897,
+      "num": 338897,
+      "word": "薛之谦毛不易官宣音综",
+      "onboard_time": 1685933067,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 314158,
@@ -283,12 +355,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 299965,
+      "num": 299965,
+      "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
+      "onboard_time": 1685931328,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298999,
       "num": 298999,
       "word": "王祖贤齐秦庾澄庆早期合照",
       "onboard_time": 1685925090,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 290018,
+      "num": 290018,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 289522,
@@ -299,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287669,
+      "num": 287669,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 286381,
       "num": 181970,
       "word": "杨超越模仿虞书欣长珩仙君夸我咯",
@@ -307,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282971,
-      "num": 282971,
-      "word": "喂119吗我是需要帮忙抓蛇的110",
-      "onboard_time": 1685930246,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "只有宋茜一个人受伤的世界达成了",
       "onboard_time": 1685927728,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273329,
+      "num": 273329,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269483,
@@ -371,14 +467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 240986,
-      "num": 240986,
-      "word": "热火 掘金",
-      "onboard_time": 1685928387,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240734,
       "num": 240734,
       "word": "王鹤棣到底在捞什么",
@@ -419,12 +507,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194064,
-      "num": 194064,
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "与易烊千玺的十年",
+      "onboard_time": 1685932708,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200988,
+      "num": 200988,
+      "word": "热火1比1掘金",
+      "onboard_time": 1685933249,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197910,
+      "num": 197910,
       "word": "三分野",
       "onboard_time": 1685928685,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196776,
+      "num": 196776,
+      "word": "重庆6月5日进行防控警报试鸣放",
+      "onboard_time": 1685933128,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187189,
+      "num": 187189,
+      "word": "NBA",
+      "onboard_time": 1685929046,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 185594,
@@ -475,6 +595,22 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 168743,
+      "num": 168743,
+      "word": "浙江事业单位",
+      "onboard_time": 1685931026,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 168440,
+      "num": 168440,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167814,
       "num": 167814,
       "word": "后浪",
@@ -521,6 +657,14 @@
       "onboard_time": 1685890052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154106,
+      "num": 154106,
+      "word": "广东早教益智游戏",
+      "onboard_time": 1685933489,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 153551,
@@ -577,6 +721,14 @@
       "onboard_time": 1685924128,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 1256761,
+      "word": "距2023高考还有2天",
+      "onboard_time": 1685932287,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132407,
