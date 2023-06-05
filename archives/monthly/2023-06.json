@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685938803827,
+  "endTime": 1685939607636,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -209,6 +209,14 @@
       "onboard_time": 1685875886,
       "rank": 11,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2010510,
+      "num": 2010510,
+      "word": "奖励多少你会考虑多生孩子",
+      "onboard_time": 1685935831,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1995855,
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1586261,
+      "num": 1586261,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1580905,
       "num": 1580905,
       "word": "陈采尼 抄",
@@ -537,14 +553,6 @@
       "onboard_time": 1685705015,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1525294,
-      "num": 1525294,
-      "word": "于正新剧又是双女主",
-      "onboard_time": 1685934030,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 1522427,
@@ -1059,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1095859,
-      "num": 1095859,
-      "word": "奖励多少你会考虑多生孩子",
-      "onboard_time": 1685935831,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1081873,
       "num": 1081873,
       "word": "二三十了还觉得自己是个小孩正常吗",
@@ -1339,6 +1339,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 837584,
+      "num": 837584,
+      "word": "郑秀妍Amber合体",
+      "onboard_time": 1685934869,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837359,
       "num": 837359,
       "word": "何炅王诗龄合照",
@@ -1571,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 720465,
-      "num": 720465,
-      "word": "郑秀妍Amber合体",
-      "onboard_time": 1685934869,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 714660,
       "num": 714660,
       "word": "24岁研究生生日当天救了一个人",
@@ -1705,6 +1705,14 @@
       "onboard_time": 1685794226,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 680090,
+      "num": 680090,
+      "word": "汕头一快餐店煤气爆炸致1死6伤",
+      "onboard_time": 1685936790,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679829,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1685801067,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 603846,
+      "num": 420413,
+      "word": "女子反问男友8年感情竟不值38万",
+      "onboard_time": 1685937630,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603842,
@@ -2185,14 +2201,6 @@
       "onboard_time": 1685663244,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 548198,
-      "num": 548198,
-      "word": "汕头一快餐店煤气爆炸致1死6伤",
-      "onboard_time": 1685936790,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 546377,
@@ -2507,6 +2515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 476381,
+      "num": 476381,
+      "word": "成毅虞书欣一年级同框照",
+      "onboard_time": 1685937151,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473764,
       "num": 456081,
       "word": "朱一龙杨蓉友情",
@@ -2595,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461736,
-      "num": 420413,
-      "word": "女子反问男友8年感情竟不值38万",
-      "onboard_time": 1685937630,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459208,
       "num": 459208,
       "word": "白桃星座",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1685709272,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 450581,
+      "num": 450581,
+      "word": "朱正廷的脸怎么了",
+      "onboard_time": 1685937570,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 448577,
@@ -2785,14 +2801,6 @@
       "onboard_time": 1685662523,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429007,
-      "num": 429007,
-      "word": "成毅虞书欣一年级同框照",
-      "onboard_time": 1685937151,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 428979,
@@ -3187,14 +3195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385691,
-      "num": 385691,
-      "word": "朱正廷的脸怎么了",
-      "onboard_time": 1685937570,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 383202,
       "num": 323506,
       "word": "花花和花花同框",
@@ -3433,6 +3433,14 @@
       "onboard_time": 1685863527,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357471,
+      "num": 335269,
+      "word": "鞠婧祎凤凰造型反差",
+      "onboard_time": 1685938534,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 357053,
@@ -3747,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332839,
+      "num": 332839,
+      "word": "the idol",
+      "onboard_time": 1685934929,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332567,
       "num": 257219,
       "word": "财阀家的小儿子将拍第二季",
@@ -3833,14 +3849,6 @@
       "onboard_time": 1685592267,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328436,
-      "num": 328436,
-      "word": "the idol",
-      "onboard_time": 1685934929,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 327994,
@@ -4097,6 +4105,14 @@
       "onboard_time": 1685882607,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 309741,
+      "num": 309741,
+      "word": "90后的三十岁",
+      "onboard_time": 1685938470,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 309663,
@@ -4891,6 +4907,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 268038,
+      "num": 268038,
+      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+      "onboard_time": 1685938775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267414,
       "num": 267414,
       "word": "BLG零封OMG",
@@ -5387,6 +5411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245324,
+      "num": 245324,
+      "word": "与易烊千玺的十年",
+      "onboard_time": 1685932708,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244994,
       "num": 189146,
       "word": "这个视频我能笑三天三夜",
@@ -5577,14 +5609,6 @@
       "onboard_time": 1685668827,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237929,
-      "num": 237929,
-      "word": "与易烊千玺的十年",
-      "onboard_time": 1685932708,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 237850,
@@ -6291,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212047,
+      "num": 212047,
+      "word": "为什么父辈能存到钱",
+      "onboard_time": 1685938413,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -6459,14 +6491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205527,
-      "num": 205527,
-      "word": "鞠婧祎凤凰造型反差",
-      "onboard_time": 1685938534,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205485,
       "num": 1019891,
       "word": "小学生自愿报名给高三考生表演才艺",
@@ -6633,6 +6657,14 @@
       "onboard_time": 1685800709,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199097,
+      "num": 199097,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198720,
@@ -6817,6 +6849,14 @@
       "onboard_time": 1685610865,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193508,
+      "num": 193508,
+      "word": "你身边有参加今年高考的考生吗",
+      "onboard_time": 1685939493,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 193483,
@@ -7107,6 +7147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187800,
+      "num": 187800,
+      "word": "肖春生车站送别眼神戏",
+      "onboard_time": 1685939312,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187722,
       "num": 96273,
       "word": "神十五航天员着陆后说的第一句话",
@@ -7315,20 +7363,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183220,
+      "num": 183220,
+      "word": "老师攒高三生2千空笔芯做梦想之舟",
+      "onboard_time": 1685936011,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 183113,
       "num": 163346,
       "word": "乐华2023家族演唱会全阵容公布",
       "onboard_time": 1685606007,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 182828,
-      "num": 182828,
-      "word": "90后的三十岁",
-      "onboard_time": 1685938470,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 182557,
@@ -7435,14 +7483,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 178834,
-      "num": 178834,
-      "word": "老师攒高三生2千空笔芯做梦想之舟",
-      "onboard_time": 1685936011,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 178512,
       "num": 117397,
       "word": "热烈追梦版预告",
@@ -7467,14 +7507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177490,
-      "num": 177490,
-      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
-      "onboard_time": 1685938775,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177455,
       "num": 177455,
       "word": "长月烬明里究竟谁扛剧",
@@ -7489,14 +7521,6 @@
       "onboard_time": 1685719533,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177231,
-      "num": 177231,
-      "word": "第一眼被任敏惊艳到了",
-      "onboard_time": 1685938534,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177223,
@@ -7577,14 +7601,6 @@
       "onboard_time": 1685693127,
       "rank": 34,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 173802,
-      "num": 173802,
-      "word": "为什么父辈能存到钱",
-      "onboard_time": 1685938413,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 173053,
@@ -8044,7 +8060,7 @@
     },
     {
       "raw_hot": 158754,
-      "num": 1343493,
+      "num": 1707212,
       "word": "距2023高考还有2天",
       "onboard_time": 1685932287,
       "rank": 2,
