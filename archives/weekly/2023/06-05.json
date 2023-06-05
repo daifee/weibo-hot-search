@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685985298928,
+  "endTime": 1685986428472,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -1483,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234230,
+      "num": 234230,
+      "word": "M2 Ultra",
+      "onboard_time": 1685985558,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 231474,
       "num": 231474,
       "word": "白鹿出道7年演了17部剧",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1685956407,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203178,
+      "num": 203178,
+      "word": "苹果出头显你会买吗",
+      "onboard_time": 1685985079,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 202629,
@@ -2427,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130562,
+      "num": 130562,
+      "word": "15寸的MacBook Air",
+      "onboard_time": 1685985739,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 129578,
       "num": 129578,
       "word": "恋爱脑的原因",
@@ -2571,6 +2595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "唯品会崩了相关负责人被免职",
+      "onboard_time": 1685984898,
+      "rank": 43,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 117247,
       "num": 117247,
       "word": "总要拿出时间去自在的朋友身边",
@@ -2625,14 +2657,6 @@
       "onboard_time": 1685882848,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104205,
-      "num": 104205,
-      "word": "苹果出头显你会买吗",
-      "onboard_time": 1685985079,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 104069,
@@ -2715,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94648,
+      "num": 94648,
+      "word": "WWDC2023",
+      "onboard_time": 1685985856,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 90689,
       "num": 90689,
       "word": "肖春生真挨了一管叉",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1685962834,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78698,
-      "num": 78698,
-      "word": "唯品会崩了相关负责人被免职",
-      "onboard_time": 1685984898,
-      "rank": 43,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 70924,
