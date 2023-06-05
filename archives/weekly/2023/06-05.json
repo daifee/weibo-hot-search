@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685935172476,
+  "endTime": 1685936010033,
   "band_list": [
     {
       "raw_hot": 2490475,
@@ -19,6 +19,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1682139,
+      "num": 1682139,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1592709,
       "num": 242302,
       "word": "蔡徐坤妈妈",
@@ -35,15 +43,23 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1470892,
-      "num": 1470892,
-      "word": "黄旭熙 泡泡",
-      "onboard_time": 1685933189,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 1478788,
+      "num": 1175763,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 1353095,
+      "raw_hot": 1449531,
+      "num": 1449531,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1377176,
       "num": 1057663,
       "word": "涉事学校曾因老鼠事件被联合执法",
       "onboard_time": 1685927607,
@@ -75,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1175763,
-      "num": 1175763,
-      "word": "鼠鼠我鸭",
-      "onboard_time": 1685932167,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1109152,
       "num": 603964,
       "word": "国内出现偏肺病毒感染",
@@ -99,12 +107,20 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 948447,
-      "num": 948447,
+      "raw_hot": 959788,
+      "num": 959788,
       "word": "高铁站台为什么不能打伞",
       "onboard_time": 1685931088,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933903,
+      "num": 933903,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 925237,
@@ -112,14 +128,6 @@
       "word": "日本女团成员灌男粉喝洗洁精",
       "onboard_time": 1685920400,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870890,
-      "num": 870890,
-      "word": "珠峰被救女子不愿支付全部救援费用",
-      "onboard_time": 1685933429,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 790406,
-      "num": 379641,
+      "num": 406709,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -155,8 +163,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 717395,
-      "num": 717395,
+      "raw_hot": 751828,
+      "num": 751828,
       "word": "教育部发布2023高考预警",
       "onboard_time": 1685886333,
       "rank": 14,
@@ -187,8 +195,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 604517,
-      "num": 604517,
+      "raw_hot": 616292,
+      "num": 616292,
       "word": "薛之谦毛不易官宣音综",
       "onboard_time": 1685933067,
       "rank": 23,
@@ -201,6 +209,22 @@
       "onboard_time": 1685883630,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 593819,
+      "num": 593819,
+      "word": "五月天沈阳",
+      "onboard_time": 1685930548,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 570293,
+      "num": 570293,
+      "word": "郑秀妍Amber合体",
+      "onboard_time": 1685934869,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 519162,
@@ -217,14 +241,6 @@
       "onboard_time": 1685889394,
       "rank": 7,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 473874,
-      "num": 473874,
-      "word": "于正新剧又是双女主",
-      "onboard_time": 1685934030,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 468233,
@@ -249,6 +265,14 @@
       "onboard_time": 1685893408,
       "rank": 11,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 440670,
+      "num": 440670,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 424870,
@@ -283,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406941,
+      "num": 406941,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395483,
+      "num": 395483,
+      "word": "吴磊从新疆带馕送给粉丝",
+      "onboard_time": 1685934929,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389779,
       "num": 360435,
       "word": "给自己的鼻子纹了两颗痣",
@@ -299,28 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381381,
-      "num": 381381,
-      "word": "淄博张店烧烤倡议高考停业三天",
-      "onboard_time": 1685932527,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 373080,
       "num": 293452,
       "word": "王鹤棣孟子义不考虑合作现偶吗",
       "onboard_time": 1685888971,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371625,
-      "num": 371625,
-      "word": "五月天沈阳",
-      "onboard_time": 1685930548,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 369191,
@@ -387,14 +411,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 344440,
-      "num": 344440,
-      "word": "印度耗资百亿卢比的大桥又塌了",
-      "onboard_time": 1685932407,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343696,
       "num": 252655,
       "word": "宋茜做错了什么",
@@ -409,6 +425,14 @@
       "onboard_time": 1685933609,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325443,
+      "num": 325443,
+      "word": "车瑞元要结婚了",
+      "onboard_time": 1685935348,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 314158,
@@ -441,14 +465,6 @@
       "onboard_time": 1685895625,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283916,
-      "num": 283916,
-      "word": "郑秀妍Amber合体",
-      "onboard_time": 1685934869,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 279992,
@@ -571,6 +587,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214871,
+      "num": 214871,
+      "word": "the idol",
+      "onboard_time": 1685934929,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207707,
+      "num": 207707,
+      "word": "徐明浩说干了8年舞台不如搞笑出圈",
+      "onboard_time": 1685935653,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201469,
       "num": 201469,
       "word": "三分野",
@@ -595,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191734,
+      "num": 191734,
+      "word": "偏头痛",
+      "onboard_time": 1685934451,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187189,
       "num": 187189,
       "word": "NBA",
@@ -603,28 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186466,
-      "num": 186466,
-      "word": "the idol",
-      "onboard_time": 1685934929,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185594,
       "num": 185594,
       "word": "高考临近阿姨们在夜店里跳广场舞",
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181742,
-      "num": 181742,
-      "word": "吴磊从新疆带馕送给粉丝",
-      "onboard_time": 1685934929,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 177948,
@@ -665,14 +689,6 @@
       "onboard_time": 1685933489,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172743,
-      "num": 172743,
-      "word": "偏头痛",
-      "onboard_time": 1685934451,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171417,
@@ -723,6 +739,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 164343,
+      "num": 164343,
+      "word": "奖励多少你会考虑多生孩子",
+      "onboard_time": 1685935831,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163794,
       "num": 163794,
       "word": "杨和苏腹肌",
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 158754,
-      "num": 1296537,
+      "num": 1343493,
       "word": "距2023高考还有2天",
       "onboard_time": 1685932287,
       "rank": 2,

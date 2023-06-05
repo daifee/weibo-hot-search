@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685935172476,
+  "endTime": 1685936010033,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1682139,
+      "num": 1682139,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1680275,
       "num": 1680275,
       "word": "吴倩说女儿和自己长得一模一样",
@@ -531,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1478788,
+      "num": 1175763,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1471783,
       "num": 1471783,
       "word": "你觉得椰树直播算擦边吗",
@@ -539,20 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1470892,
-      "num": 1470892,
-      "word": "黄旭熙 泡泡",
-      "onboard_time": 1685933189,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1456021,
       "num": 585121,
       "word": "生日快乐啊小朋友",
       "onboard_time": 1685792546,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1449531,
+      "num": 1449531,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1437497,
@@ -627,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1377176,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1375823,
       "num": 480524,
       "word": "李湘王岳伦带王诗龄逛街",
@@ -657,14 +681,6 @@
       "onboard_time": 1685672128,
       "rank": 4,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1353095,
-      "num": 1057663,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1333960,
@@ -912,14 +928,6 @@
       "word": "姑姑拍到侄女做梦吃雪糕",
       "onboard_time": 1685841865,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1175763,
-      "num": 1175763,
-      "word": "鼠鼠我鸭",
-      "onboard_time": 1685932167,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1179,19 +1187,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959788,
+      "num": 959788,
+      "word": "高铁站台为什么不能打伞",
+      "onboard_time": 1685931088,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955471,
       "num": 955471,
       "word": "专家称不排除二阳后还会有三阳",
       "onboard_time": 1685630192,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948447,
-      "num": 948447,
-      "word": "高铁站台为什么不能打伞",
-      "onboard_time": 1685931088,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1209,6 +1217,14 @@
       "onboard_time": 1685863948,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 933903,
+      "num": 933903,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 927305,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1685751208,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 870890,
-      "num": 870890,
-      "word": "珠峰被救女子不愿支付全部救援费用",
-      "onboard_time": 1685933429,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 855032,
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 790406,
-      "num": 379641,
+      "num": 406709,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -1523,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751828,
+      "num": 751828,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751501,
       "num": 533863,
       "word": "孩子随母姓被拒分配村集体收入",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1685839106,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 717395,
-      "num": 717395,
-      "word": "教育部发布2023高考预警",
-      "onboard_time": 1685886333,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 714660,
@@ -1859,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616292,
+      "num": 616292,
+      "word": "薛之谦毛不易官宣音综",
+      "onboard_time": 1685933067,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 615740,
       "num": 545703,
       "word": "肖战王一博同款衬衣",
@@ -1907,14 +1923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 604517,
-      "num": 604517,
-      "word": "薛之谦毛不易官宣音综",
-      "onboard_time": 1685933067,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 603842,
       "num": 603842,
       "word": "王鹤棣趴着和宋丹丹张国立聊天",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1685582366,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593819,
+      "num": 593819,
+      "word": "五月天沈阳",
+      "onboard_time": 1685930548,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 587046,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1685536646,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 570293,
+      "num": 570293,
+      "word": "郑秀妍Amber合体",
+      "onboard_time": 1685934869,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 565931,
@@ -2451,14 +2475,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 473874,
-      "num": 473874,
-      "word": "于正新剧又是双女主",
-      "onboard_time": 1685934030,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 473764,
       "num": 456081,
       "word": "朱一龙杨蓉友情",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1685843846,
       "rank": 41,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 440670,
+      "num": 440670,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 440239,
@@ -2915,6 +2939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 406941,
+      "num": 406941,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406824,
       "num": 346772,
       "word": "文俊辉要考清华",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1685845587,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395483,
+      "num": 395483,
+      "word": "吴磊从新疆带馕送给粉丝",
+      "onboard_time": 1685934929,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 393775,
@@ -3131,14 +3171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381381,
-      "num": 381381,
-      "word": "淄博张店烧烤倡议高考停业三天",
-      "onboard_time": 1685932527,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 380809,
       "num": 303265,
       "word": "为什么反对男艺人过度撸铁",
@@ -3241,14 +3273,6 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 371625,
-      "num": 371625,
-      "word": "五月天沈阳",
-      "onboard_time": 1685930548,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 369191,
@@ -3504,14 +3528,6 @@
       "word": "浙江一学院面向女生讲座内容引争议",
       "onboard_time": 1685601387,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344440,
-      "num": 344440,
-      "word": "印度耗资百亿卢比的大桥又塌了",
-      "onboard_time": 1685932407,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3817,6 +3833,14 @@
       "onboard_time": 1685775026,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325443,
+      "num": 325443,
+      "word": "车瑞元要结婚了",
+      "onboard_time": 1685935348,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 325019,
@@ -4489,14 +4513,6 @@
       "onboard_time": 1685660899,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283916,
-      "num": 283916,
-      "word": "郑秀妍Amber合体",
-      "onboard_time": 1685934869,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 283400,
@@ -6123,6 +6139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214871,
+      "num": 214871,
+      "word": "the idol",
+      "onboard_time": 1685934929,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214519,
       "num": 214519,
       "word": "真的佩服塞尔达剧情党",
@@ -6289,6 +6313,14 @@
       "onboard_time": 1685796388,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207707,
+      "num": 207707,
+      "word": "徐明浩说干了8年舞台不如搞笑出圈",
+      "onboard_time": 1685935653,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207521,
@@ -6779,6 +6811,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 191734,
+      "num": 191734,
+      "word": "偏头痛",
+      "onboard_time": 1685934451,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191689,
       "num": 191689,
       "word": "梦中的那片海收视率",
@@ -7043,14 +7083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186466,
-      "num": 186466,
-      "word": "the idol",
-      "onboard_time": 1685934929,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186249,
       "num": 186249,
       "word": "宁静即兴表演好牛",
@@ -7249,14 +7281,6 @@
       "onboard_time": 1685672907,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181742,
-      "num": 181742,
-      "word": "吴磊从新疆带馕送给粉丝",
-      "onboard_time": 1685934929,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 181375,
@@ -7473,14 +7497,6 @@
       "onboard_time": 1685607926,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172743,
-      "num": 172743,
-      "word": "偏头痛",
-      "onboard_time": 1685934451,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172278,
@@ -7723,6 +7739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164343,
+      "num": 164343,
+      "word": "奖励多少你会考虑多生孩子",
+      "onboard_time": 1685935831,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164235,
       "num": 140325,
       "word": "蔡徐坤白衬衫顶胯",
@@ -7916,7 +7940,7 @@
     },
     {
       "raw_hot": 158754,
-      "num": 1296537,
+      "num": 1343493,
       "word": "距2023高考还有2天",
       "onboard_time": 1685932287,
       "rank": 2,
