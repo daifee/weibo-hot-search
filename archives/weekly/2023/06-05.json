@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685956630259,
+  "endTime": 1685957642499,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1102131,
+      "num": 1102131,
+      "word": "魏晨差点错过孩子出生第一刻",
+      "onboard_time": 1685950890,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1040052,
       "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
@@ -193,6 +201,14 @@
       "onboard_time": 1685931088,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 969046,
+      "num": 969046,
+      "word": "一个村考出300多大学生6个北大",
+      "onboard_time": 1685954430,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 925237,
@@ -227,19 +243,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 820960,
-      "num": 820960,
-      "word": "魏晨差点错过孩子出生第一刻",
-      "onboard_time": 1685950890,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 808200,
       "num": 808200,
       "word": "章若楠观众缘",
       "onboard_time": 1685925808,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 806270,
+      "num": 806270,
+      "word": "某某影视化",
+      "onboard_time": 1685954368,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706084,
+      "num": 516145,
+      "word": "你不用在意我的外表我不是你未来的妻子",
+      "onboard_time": 1685950467,
+      "rank": 16,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 694951,
       "num": 694951,
       "word": "第一眼被任敏惊艳到了",
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612585,
+      "num": 612585,
+      "word": "亲爱的李华以后信要自己写了",
+      "onboard_time": 1685954969,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604349,
       "num": 604349,
       "word": "宋雨琦奔跑吧12期只录了4期",
@@ -361,14 +393,6 @@
       "onboard_time": 1685936910,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 594132,
-      "num": 430045,
-      "word": "你不用在意我的外表我不是你未来的妻子",
-      "onboard_time": 1685950467,
-      "rank": 16,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 593819,
@@ -393,14 +417,6 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 526687,
-      "num": 424981,
-      "word": "亲爱的李华以后信要自己写了",
-      "onboard_time": 1685954969,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521409,
@@ -515,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430316,
-      "num": 430316,
-      "word": "某某影视化",
-      "onboard_time": 1685954368,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 424870,
       "num": 341264,
       "word": "狗头萝莉摊煎饼",
@@ -587,14 +595,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 401721,
-      "num": 401721,
-      "word": "一个村考出300多大学生6个北大",
-      "onboard_time": 1685954430,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 401705,
       "num": 401705,
       "word": "鞠婧祎凤凰造型反差",
@@ -625,6 +625,22 @@
       "onboard_time": 1685884349,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383066,
+      "num": 383066,
+      "word": "千万不要惹刚加完班的人",
+      "onboard_time": 1685954547,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 378739,
+      "num": 378739,
+      "word": "李泰容solo曲SHALALA",
+      "onboard_time": 1685957369,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 377277,
@@ -707,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346138,
-      "num": 346138,
-      "word": "千万不要惹刚加完班的人",
-      "onboard_time": 1685954547,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 345003,
       "num": 345003,
       "word": "爷爷把微信当书信用",
@@ -728,6 +736,14 @@
       "word": "宋茜做错了什么",
       "onboard_time": 1685878168,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 337742,
+      "num": 337742,
+      "word": "周迅踩了黄磊一脚",
+      "onboard_time": 1685955867,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 306688,
-      "num": 257492,
+      "num": 283340,
       "word": "郭俊辰早几年都干嘛去了",
       "onboard_time": 1685952328,
       "rank": 24,
@@ -931,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243463,
+      "num": 243463,
+      "word": "六千的喜宴7成是预制菜或只要一千多",
+      "onboard_time": 1685953469,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 243121,
       "num": 243121,
       "word": "妃子笑荔枝",
@@ -945,14 +969,6 @@
       "onboard_time": 1685941531,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241699,
-      "num": 180475,
-      "word": "周迅踩了黄磊一脚",
-      "onboard_time": 1685955867,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 241090,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1685943027,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228348,
-      "num": 228348,
-      "word": "六千的喜宴7成是预制菜或只要一千多",
-      "onboard_time": 1685953469,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 225846,
@@ -1171,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195254,
+      "num": 195254,
+      "word": "微博电影之夜主持人",
+      "onboard_time": 1685954789,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193508,
       "num": 193508,
       "word": "你身边有参加今年高考的考生吗",
@@ -1195,12 +1211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190871,
-      "num": 190871,
-      "word": "微博电影之夜主持人",
-      "onboard_time": 1685954789,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 191692,
+      "num": 191692,
+      "word": "高考前不要吃没吃过的东西",
+      "onboard_time": 1685956769,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189453,
@@ -1256,6 +1272,14 @@
       "word": "到底谁在喜欢黄旭熙",
       "onboard_time": 1685943148,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180041,
+      "num": 180041,
+      "word": "随拍镜头下的易烊千玺",
+      "onboard_time": 1685956290,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1315,14 +1339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172359,
-      "num": 172359,
-      "word": "随拍镜头下的易烊千玺",
-      "onboard_time": 1685956290,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171417,
       "num": 171417,
       "word": "约基奇41分",
@@ -1355,6 +1371,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 169290,
+      "num": 169290,
+      "word": "变形金刚7首映",
+      "onboard_time": 1685957369,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "浙江事业单位",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1685881111,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 166169,
+      "num": 166169,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1685956407,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 165890,
@@ -1419,6 +1451,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 159006,
+      "num": 159006,
+      "word": "女子父母反对远嫁男友威胁带其轻生",
+      "onboard_time": 1685953229,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158755,
       "num": 158755,
       "word": "周冠宇",
@@ -1459,11 +1499,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154513,
-      "num": 154513,
-      "word": "女子父母反对远嫁男友威胁带其轻生",
-      "onboard_time": 1685953229,
-      "rank": 49,
+      "raw_hot": 155573,
+      "num": 408077,
+      "word": "哥哥听到妹妹哭声一路小跑来安抚",
+      "onboard_time": 1685955628,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1571,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 145043,
+      "num": 145043,
+      "word": "金莎终于又拍古装剧了",
+      "onboard_time": 1685957068,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144735,
       "num": 144735,
       "word": "黄晓明骗了极限挑战所有人",
@@ -1560,14 +1608,6 @@
       "word": "电影封神第一部",
       "onboard_time": 1685951188,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 136782,
-      "num": 136782,
-      "word": "微博电影之夜阵容",
-      "onboard_time": 1685956407,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1635,12 +1675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125142,
+      "num": 125142,
+      "word": "AR晋级Major",
+      "onboard_time": 1685957549,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124977,
       "num": 124977,
       "word": "苏醒一切以非官宣为主",
       "onboard_time": 1685920400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122721,
+      "num": 122721,
+      "word": "最能扛剧的男演员",
+      "onboard_time": 1685957010,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 120874,
@@ -1835,14 +1891,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 61959,
-      "num": 408077,
-      "word": "哥哥听到妹妹哭声一路小跑来安抚",
-      "onboard_time": 1685955628,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61803,
       "num": 504705,
       "word": "亚洲首台异体喉移植手术成功实施",
@@ -1904,6 +1952,14 @@
       "word": "济南800辆爱心送考车整装待发",
       "onboard_time": 1685944888,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36102,
+      "num": 1021774,
+      "word": "2023高考加油短片",
+      "onboard_time": 1685957309,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
