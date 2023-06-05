@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685961263104,
+  "endTime": 1685963655368,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -448,6 +448,14 @@
       "word": "吴倩说女儿和自己长得一模一样",
       "onboard_time": 1685779887,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1679736,
+      "num": 1050997,
+      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+      "onboard_time": 1685959708,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1171,6 +1179,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1044695,
+      "num": 1044695,
+      "word": "难听",
+      "onboard_time": 1685681197,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1685780968,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1028174,
-      "num": 1028174,
-      "word": "难听",
-      "onboard_time": 1685681197,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 1023392,
@@ -1396,7 +1404,7 @@
     },
     {
       "raw_hot": 875066,
-      "num": 1031783,
+      "num": 1047835,
       "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
       "onboard_time": 1685958629,
       "rank": 4,
@@ -1528,6 +1536,14 @@
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 820087,
+      "num": 820087,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -2051,12 +2067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 621016,
-      "num": 498043,
-      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
-      "onboard_time": 1685959708,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 620487,
+      "num": 620487,
+      "word": "空降",
+      "onboard_time": 1685961028,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 616292,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1685842406,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 562530,
+      "num": 161714,
+      "word": "虞书欣晒和杨超越合照",
+      "onboard_time": 1685962107,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 562261,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1685705674,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 478640,
+      "num": 378279,
+      "word": "SMTOWN曾用EXO威胁边伯贤",
+      "onboard_time": 1685963006,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 478448,
@@ -3305,6 +3337,14 @@
       "onboard_time": 1685620466,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397803,
+      "num": 397803,
+      "word": "best道歉",
+      "onboard_time": 1685961628,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 396671,
@@ -3993,6 +4033,14 @@
       "onboard_time": 1685844747,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336904,
+      "num": 280443,
+      "word": "难怪白鹿许凯不帮于正新剧宣传",
+      "onboard_time": 1685961985,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 336518,
@@ -4915,6 +4963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282396,
+      "num": 925965,
+      "word": "49岁你还有勇气参加高考吗",
+      "onboard_time": 1685958629,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 281224,
       "num": 281224,
       "word": "转发这个甄嬛万事皆如你所愿",
@@ -5001,6 +5057,14 @@
       "onboard_time": 1685583687,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277665,
+      "num": 179739,
+      "word": "肖战梦中的那片海首周战报",
+      "onboard_time": 1685963248,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 277349,
@@ -5168,14 +5232,6 @@
       "word": "刘敏涛王一博演母子",
       "onboard_time": 1685784208,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 269010,
-      "num": 269010,
-      "word": "建议实现一户一曜",
-      "onboard_time": 1685959049,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -6419,6 +6475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224394,
+      "num": 224394,
+      "word": "瓶子吃瓜",
+      "onboard_time": 1685963248,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224190,
       "num": 224190,
       "word": "还没有一个人有我全部的账号",
@@ -6923,14 +6987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208135,
-      "num": 201742,
-      "word": "空降",
-      "onboard_time": 1685961028,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 207521,
       "num": 169619,
       "word": "肖战召唤二八大杠男团",
@@ -7155,6 +7211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200018,
+      "num": 200018,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -7353,6 +7417,14 @@
       "onboard_time": 1685782227,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195536,
+      "num": 195536,
+      "word": "博主回应三亚买水果海鲜被宰",
+      "onboard_time": 1685962168,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195254,
@@ -7665,6 +7737,14 @@
       "onboard_time": 1685638041,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189194,
+      "num": 189194,
+      "word": "前男友说的话让我泪崩",
+      "onboard_time": 1685961387,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 188917,
@@ -8033,14 +8113,6 @@
       "onboard_time": 1685581408,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 180297,
-      "num": 180297,
-      "word": "49岁你还有勇气参加高考吗",
-      "onboard_time": 1685958629,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180041,
@@ -8627,6 +8699,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 161808,
+      "num": 161808,
+      "word": "古力娜扎诉洗护产品侵权获赔",
+      "onboard_time": 1685961927,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 161739,
       "num": 1162450,
       "word": "女店主拎起灭火器冲上前救火",
@@ -8881,14 +8961,6 @@
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 154910,
-      "num": 154910,
-      "word": "你的身体比你想象中更加爱你",
-      "onboard_time": 1685960008,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 154862,
@@ -9875,6 +9947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121108,
+      "num": 121108,
+      "word": "所有的情绪都很重要",
+      "onboard_time": 1685963187,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121045,
       "num": 148651,
       "word": "当妈后才明白的事",
@@ -10105,6 +10185,14 @@
       "onboard_time": 1685834597,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113409,
+      "num": 113409,
+      "word": "外面的世界已经发展成这样了",
+      "onboard_time": 1685963367,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112916,
@@ -11291,6 +11379,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 49994,
+      "num": 1055477,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49931,
       "num": 70190,
       "word": "亲手孵出来的鸸鹋宝宝",
@@ -11443,6 +11539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32397,
+      "num": 355104,
+      "word": "班主任自费给高三毕业生发礼物",
+      "onboard_time": 1685962834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
@@ -11521,6 +11625,14 @@
       "onboard_time": 1685694809,
       "rank": 2,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 25170,
+      "num": 126165,
+      "word": "为什么年轻人喜欢早7在淘宝抢菜",
+      "onboard_time": 1685962834,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24151,

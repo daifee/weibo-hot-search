@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685961263104,
+  "endTime": 1685963655368,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -81,6 +81,14 @@
       "onboard_time": 1685933189,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1679736,
+      "num": 1050997,
+      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+      "onboard_time": 1685959708,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1662248,
@@ -203,20 +211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1044695,
+      "num": 1044695,
+      "word": "难听",
+      "onboard_time": 1685958029,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1040052,
       "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 1028174,
-      "num": 1028174,
-      "word": "难听",
-      "onboard_time": 1685958029,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1013445,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 875066,
-      "num": 1031783,
+      "num": 1047835,
       "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
       "onboard_time": 1685958629,
       "rank": 4,
@@ -265,6 +273,14 @@
       "onboard_time": 1685934869,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820087,
+      "num": 820087,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 808200,
@@ -379,12 +395,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 621016,
-      "num": 498043,
-      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
-      "onboard_time": 1685959708,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 620487,
+      "num": 620487,
+      "word": "空降",
+      "onboard_time": 1685961028,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 616292,
@@ -433,6 +449,14 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562530,
+      "num": 161714,
+      "word": "虞书欣晒和杨超越合照",
+      "onboard_time": 1685962107,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 550399,
@@ -489,6 +513,14 @@
       "onboard_time": 1685945247,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478640,
+      "num": 378279,
+      "word": "SMTOWN曾用EXO威胁边伯贤",
+      "onboard_time": 1685963006,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 476381,
@@ -635,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397803,
+      "num": 397803,
+      "word": "best道歉",
+      "onboard_time": 1685961628,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 390788,
       "num": 390788,
       "word": "张一山 演盲人",
@@ -771,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336904,
+      "num": 280443,
+      "word": "难怪白鹿许凯不帮于正新剧宣传",
+      "onboard_time": 1685961985,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336518,
       "num": 336518,
       "word": "肖春生被捅时我的心情",
@@ -851,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282396,
+      "num": 925965,
+      "word": "49岁你还有勇气参加高考吗",
+      "onboard_time": 1685958629,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "只有宋茜一个人受伤的世界达成了",
@@ -867,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277665,
+      "num": 179739,
+      "word": "肖战梦中的那片海首周战报",
+      "onboard_time": 1685963248,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272056,
       "num": 272056,
       "word": "罗云熙李一桐陈瑶聚餐",
@@ -881,14 +945,6 @@
       "onboard_time": 1685928328,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269010,
-      "num": 269010,
-      "word": "建议实现一户一曜",
-      "onboard_time": 1685959049,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 268903,
@@ -1115,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224394,
+      "num": 224394,
+      "word": "瓶子吃瓜",
+      "onboard_time": 1685963248,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222299,
       "num": 222299,
       "word": "商家回应点10斤小龙虾出锅后5斤",
@@ -1211,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208135,
-      "num": 201742,
-      "word": "空降",
-      "onboard_time": 1685961028,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 207469,
       "num": 207469,
       "word": "阿根廷中国行开票",
@@ -1259,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200018,
+      "num": 200018,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1685949328,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195536,
+      "num": 195536,
+      "word": "博主回应三亚买水果海鲜被宰",
+      "onboard_time": 1685962168,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195254,
@@ -1331,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189194,
+      "num": 189194,
+      "word": "前男友说的话让我泪崩",
+      "onboard_time": 1685961387,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187800,
       "num": 187800,
       "word": "肖春生车站送别眼神戏",
@@ -1377,14 +1457,6 @@
       "onboard_time": 1685943148,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180297,
-      "num": 180297,
-      "word": "49岁你还有勇气参加高考吗",
-      "onboard_time": 1685958629,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180041,
@@ -1563,6 +1635,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 161808,
+      "num": 161808,
+      "word": "古力娜扎诉洗护产品侵权获赔",
+      "onboard_time": 1685961927,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 159006,
       "num": 159006,
       "word": "女子父母反对远嫁男友威胁带其轻生",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1685952566,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154910,
-      "num": 154910,
-      "word": "你的身体比你想象中更加爱你",
-      "onboard_time": 1685960008,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 153551,
@@ -1819,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121108,
+      "num": 121108,
+      "word": "所有的情绪都很重要",
+      "onboard_time": 1685963187,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120874,
       "num": 385560,
       "word": "地铁开门前工作人员用指差确认检查",
@@ -1873,6 +1953,14 @@
       "onboard_time": 1685892151,
       "rank": 42,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 113409,
+      "num": 113409,
+      "word": "外面的世界已经发展成这样了",
+      "onboard_time": 1685963367,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106100,
@@ -2051,6 +2139,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 49994,
+      "num": 1055477,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46958,
       "num": 57863,
       "word": "AG",
@@ -2096,6 +2192,22 @@
       "word": "济南800辆爱心送考车整装待发",
       "onboard_time": 1685944888,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32397,
+      "num": 355104,
+      "word": "班主任自费给高三毕业生发礼物",
+      "onboard_time": 1685962834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25170,
+      "num": 126165,
+      "word": "为什么年轻人喜欢早7在淘宝抢菜",
+      "onboard_time": 1685962834,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
