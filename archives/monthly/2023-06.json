@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685946140555,
+  "endTime": 1685946928153,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2401357,
+      "num": 947515,
+      "word": "张一山眼球怎么了",
+      "onboard_time": 1685942608,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2393927,
       "num": 2393927,
       "word": "黄渤回应贫困女孩争议",
@@ -137,14 +145,6 @@
       "onboard_time": 1685635046,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2305544,
-      "num": 895725,
-      "word": "张一山眼球怎么了",
-      "onboard_time": 1685942608,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 2223234,
@@ -891,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1241259,
+      "num": 1241259,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1240382,
       "num": 1240382,
       "word": "迪丽热巴回应脸不像检察官",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1685840423,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1054626,
-      "num": 1054626,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1050365,
@@ -2139,6 +2139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 567816,
+      "num": 567816,
+      "word": "市监局回应反复对比确认是鸭脖",
+      "onboard_time": 1685940872,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565931,
       "num": 565931,
       "word": "压力给到华晨宇站姐",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1685887474,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534967,
-      "num": 534967,
-      "word": "市监局回应反复对比确认是鸭脖",
-      "onboard_time": 1685940872,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533960,
@@ -2513,6 +2513,14 @@
       "onboard_time": 1685753366,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487252,
+      "num": 487252,
+      "word": "杨紫工作室 动起来的boss更美",
+      "onboard_time": 1685945247,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 486994,
@@ -3099,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405217,
+      "num": 405217,
+      "word": "梅西",
+      "onboard_time": 1685943330,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "虞书欣妆造",
@@ -3136,14 +3152,6 @@
       "word": "塞维利亚夺得欧联冠军",
       "onboard_time": 1685574561,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 399819,
-      "num": 399819,
-      "word": "梅西",
-      "onboard_time": 1685943330,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -3625,6 +3633,14 @@
       "onboard_time": 1685930246,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351129,
+      "num": 285287,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 350994,
@@ -5107,14 +5123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264249,
-      "num": 264249,
-      "word": "杨紫工作室 动起来的boss更美",
-      "onboard_time": 1685945247,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 264035,
       "num": 264035,
       "word": "张远演唱会",
@@ -5393,6 +5401,14 @@
       "onboard_time": 1685662943,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254049,
+      "num": 233478,
+      "word": "做个不太好说话的人反而可以更轻松",
+      "onboard_time": 1685946448,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 253733,
@@ -5795,6 +5811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 236315,
+      "num": 236315,
+      "word": "宋茜分不清哪吒红孩儿",
+      "onboard_time": 1685945189,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235894,
       "num": 181825,
       "word": "郑秀晶的腹肌隔着衣服都能看到",
@@ -5841,6 +5865,14 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234330,
+      "num": 234330,
+      "word": "杭州一客车碰撞收费站起火4人死亡",
+      "onboard_time": 1685944048,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234292,
@@ -5905,6 +5937,14 @@
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232118,
+      "num": 232118,
+      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
+      "onboard_time": 1685946327,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 232088,
@@ -6147,14 +6187,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 224098,
-      "num": 224098,
-      "word": "杭州一客车碰撞收费站起火4人死亡",
-      "onboard_time": 1685944048,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224075,
       "num": 224075,
       "word": "掘金总决赛开门红",
@@ -6331,20 +6363,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 217397,
+      "num": 217397,
+      "word": "魏晨广州",
+      "onboard_time": 1685944708,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217337,
       "num": 217337,
       "word": "曝本泽马确定离开皇马",
       "onboard_time": 1685627012,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217016,
-      "num": 217016,
-      "word": "魏晨广州",
-      "onboard_time": 1685944708,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 216871,
@@ -6625,6 +6657,14 @@
       "onboard_time": 1685775209,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207469,
+      "num": 207469,
+      "word": "阿根廷中国行开票",
+      "onboard_time": 1685945428,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 207317,
@@ -6971,14 +7011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196176,
-      "num": 192923,
-      "word": "宋茜分不清哪吒红孩儿",
-      "onboard_time": 1685945189,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196076,
       "num": 196076,
       "word": "种地吧",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1685686288,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195604,
+      "num": 195604,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195536,
@@ -7587,14 +7627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182331,
-      "num": 182331,
-      "word": "阿根廷中国行开票",
-      "onboard_time": 1685945428,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182134,
       "num": 182134,
       "word": "福建一彩民中得1.5亿大奖",
@@ -7803,6 +7835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174617,
+      "num": 173135,
+      "word": "孟子义公开自己体重",
+      "onboard_time": 1685946147,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173986,
       "num": 173986,
       "word": "OMG对战WBG",
@@ -7843,14 +7883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172787,
-      "num": 172787,
-      "word": "肖战被强行拉cp",
-      "onboard_time": 1685946027,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -7889,6 +7921,14 @@
       "onboard_time": 1685681137,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171080,
+      "num": 171080,
+      "word": "古天乐 扫毒3",
+      "onboard_time": 1685945068,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 170874,
@@ -7944,14 +7984,6 @@
       "word": "肖战粉丝花式宣传梦中的那片海",
       "onboard_time": 1685544453,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169383,
-      "num": 169383,
-      "word": "古天乐 扫毒3",
-      "onboard_time": 1685945068,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -8115,6 +8147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164187,
+      "num": 164187,
+      "word": "为什么广东人这么爱吃却普遍都瘦",
+      "onboard_time": 1685943267,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164063,
       "num": 164063,
       "word": "赵露思浓妆vs淡妆",
@@ -8169,14 +8209,6 @@
       "onboard_time": 1685604506,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162705,
-      "num": 162705,
-      "word": "为什么广东人这么爱吃却普遍都瘦",
-      "onboard_time": 1685943267,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162534,
@@ -8929,14 +8961,6 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135796,
-      "num": 135796,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135511,
@@ -10827,6 +10851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37722,
+      "num": 446920,
+      "word": "济南800辆爱心送考车整装待发",
+      "onboard_time": 1685944888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35981,
       "num": 381594,
       "word": "费俊龙妈妈说回来给你烧红烧肉吃",
@@ -10937,14 +10969,6 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27086,
-      "num": 446920,
-      "word": "济南800辆爱心送考车整装待发",
-      "onboard_time": 1685944888,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26146,

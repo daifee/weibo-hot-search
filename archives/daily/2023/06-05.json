@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685946140555,
+  "endTime": 1685946928153,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -19,8 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2305544,
-      "num": 895725,
+      "raw_hot": 2401357,
+      "num": 947515,
       "word": "张一山眼球怎么了",
       "onboard_time": 1685942608,
       "rank": 30,
@@ -123,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1241259,
+      "num": 1241259,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1203733,
       "num": 1203733,
       "word": "海霞欧阳夏丹已不再任央视主持人",
@@ -145,14 +153,6 @@
       "onboard_time": 1685875344,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1054626,
-      "num": 1054626,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1040052,
@@ -307,8 +307,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 534967,
-      "num": 534967,
+      "raw_hot": 567816,
+      "num": 567816,
       "word": "市监局回应反复对比确认是鸭脖",
       "onboard_time": 1685940872,
       "rank": 23,
@@ -353,6 +353,14 @@
       "onboard_time": 1685937570,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487252,
+      "num": 487252,
+      "word": "杨紫工作室 动起来的boss更美",
+      "onboard_time": 1685945247,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476381,
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405217,
+      "num": 405217,
+      "word": "梅西",
+      "onboard_time": 1685943330,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401705,
       "num": 401705,
       "word": "鞠婧祎凤凰造型反差",
       "onboard_time": 1685938534,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399819,
-      "num": 399819,
-      "word": "梅西",
-      "onboard_time": 1685943330,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 389779,
@@ -569,6 +577,14 @@
       "onboard_time": 1685930246,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351129,
+      "num": 285287,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 345003,
@@ -683,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264249,
-      "num": 264249,
-      "word": "杨紫工作室 动起来的boss更美",
-      "onboard_time": 1685945247,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 259379,
       "num": 259379,
       "word": "微雨燕双飞",
@@ -705,6 +713,14 @@
       "onboard_time": 1685921963,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 254049,
+      "num": 233478,
+      "word": "做个不太好说话的人反而可以更轻松",
+      "onboard_time": 1685946448,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 251859,
@@ -795,6 +811,30 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 236315,
+      "num": 236315,
+      "word": "宋茜分不清哪吒红孩儿",
+      "onboard_time": 1685945189,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234330,
+      "num": 234330,
+      "word": "杭州一客车碰撞收费站起火4人死亡",
+      "onboard_time": 1685944048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232118,
+      "num": 232118,
+      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
+      "onboard_time": 1685946327,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 231474,
       "num": 231474,
       "word": "白鹿出道7年演了17部剧",
@@ -825,14 +865,6 @@
       "onboard_time": 1685933249,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224098,
-      "num": 224098,
-      "word": "杭州一客车碰撞收费站起火4人死亡",
-      "onboard_time": 1685944048,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222299,
@@ -875,8 +907,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217016,
-      "num": 217016,
+      "raw_hot": 217397,
+      "num": 217397,
       "word": "魏晨广州",
       "onboard_time": 1685944708,
       "rank": 31,
@@ -899,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207469,
+      "num": 207469,
+      "word": "阿根廷中国行开票",
+      "onboard_time": 1685945428,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201469,
       "num": 201469,
       "word": "三分野",
@@ -915,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196176,
-      "num": 192923,
-      "word": "宋茜分不清哪吒红孩儿",
-      "onboard_time": 1685945189,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 195604,
+      "num": 195604,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193508,
@@ -979,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182331,
-      "num": 182331,
-      "word": "阿根廷中国行开票",
-      "onboard_time": 1685945428,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182025,
       "num": 182025,
       "word": "蔡徐坤站姐好会拍",
@@ -1035,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174617,
+      "num": 173135,
+      "word": "孟子义公开自己体重",
+      "onboard_time": 1685946147,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173053,
       "num": 173053,
       "word": "广东早教益智游戏",
@@ -1043,20 +1083,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172787,
-      "num": 172787,
-      "word": "肖战被强行拉cp",
-      "onboard_time": 1685946027,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171417,
       "num": 171417,
       "word": "约基奇41分",
       "onboard_time": 1685934628,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171080,
+      "num": 171080,
+      "word": "古天乐 扫毒3",
+      "onboard_time": 1685945068,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 170874,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1685889515,
       "rank": 27,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 169383,
-      "num": 169383,
-      "word": "古天乐 扫毒3",
-      "onboard_time": 1685945068,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 168743,
@@ -1115,20 +1147,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 164187,
+      "num": 164187,
+      "word": "为什么广东人这么爱吃却普遍都瘦",
+      "onboard_time": 1685943267,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163794,
       "num": 163794,
       "word": "杨和苏腹肌",
       "onboard_time": 1685926527,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162705,
-      "num": 162705,
-      "word": "为什么广东人这么爱吃却普遍都瘦",
-      "onboard_time": 1685943267,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158755,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1685924128,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135796,
-      "num": 135796,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132407,
@@ -1515,7 +1539,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27086,
+      "raw_hot": 37722,
       "num": 446920,
       "word": "济南800辆爱心送考车整装待发",
       "onboard_time": 1685944888,
