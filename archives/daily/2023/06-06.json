@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686000818325,
+  "endTime": 1686003341916,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -563,12 +563,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 51095,
+      "num": 51095,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51067,
       "num": 51067,
       "word": "新MacOS Sonoma",
       "onboard_time": 1685988376,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 46055,
+      "num": 46055,
+      "word": "什么人招蚊子",
+      "onboard_time": 1686001752,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44291,
@@ -579,6 +595,30 @@
       "category": "科技"
     },
     {
+      "raw_hot": 42636,
+      "num": 42636,
+      "word": "陈伟霆亲完后的样子好不值钱",
+      "onboard_time": 1686002294,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 39298,
+      "num": 39298,
+      "word": "肖战珠峰文化旅游节宣传VCR",
+      "onboard_time": 1686000971,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30551,
+      "num": 30551,
+      "word": "肖春生的词典里生词挺多",
+      "onboard_time": 1685986937,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27535,
       "num": 956825,
       "word": "首艘国产大型邮轮有2500万个零部件",
@@ -587,20 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27362,
-      "num": 27362,
-      "word": "起底叶音工作室",
-      "onboard_time": 1685999232,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27297,
-      "num": 27297,
-      "word": "肖春生的词典里生词挺多",
-      "onboard_time": 1685986937,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 22899,
+      "num": 22899,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22481,
