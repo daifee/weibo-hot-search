@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685974534653,
+  "endTime": 1685975626425,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -169,6 +169,14 @@
       "onboard_time": 1685686708,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2121466,
+      "num": 2121466,
+      "word": "业主购42套房全部打通墙体",
+      "onboard_time": 1685972670,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2112539,
@@ -643,6 +651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1508871,
+      "num": 1095824,
+      "word": "她只是长得好看并且很健谈罢了",
+      "onboard_time": 1685970630,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1486812,
       "num": 1486812,
       "word": "离职时HR把我的职位写高了",
@@ -1027,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1203366,
-      "num": 1203366,
-      "word": "业主购42套房全部打通墙体",
-      "onboard_time": 1685972670,
-      "rank": 3,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1191166,
       "num": 1063314,
       "word": "警方回应校内被撞身亡小学生母亲坠亡",
@@ -1195,20 +1203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1095824,
-      "num": 1095824,
-      "word": "她只是长得好看并且很健谈罢了",
-      "onboard_time": 1685970630,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 1081873,
       "num": 1081873,
       "word": "二三十了还觉得自己是个小孩正常吗",
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076254,
+      "num": 528397,
+      "word": "Jennie新剧",
+      "onboard_time": 1685973571,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1070604,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1038215,
+      "num": 1038215,
+      "word": "任豪求求了你们好好谈恋爱吧",
+      "onboard_time": 1685971470,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 1037446,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1685779288,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 995780,
+      "num": 635886,
+      "word": "蔡依林 玫瑰少年",
+      "onboard_time": 1685971768,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 986931,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1685630192,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 950610,
-      "num": 635886,
-      "word": "蔡依林 玫瑰少年",
-      "onboard_time": 1685971768,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 938912,
@@ -2075,14 +2091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 663036,
-      "num": 663036,
-      "word": "任豪求求了你们好好谈恋爱吧",
-      "onboard_time": 1685971470,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 661201,
       "num": 661201,
       "word": "8岁摄影师拍李现是被人抱起来的",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1685539347,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 646982,
+      "num": 646982,
+      "word": "鼠头还是鸭脖怎么就成了罗生门",
+      "onboard_time": 1685971528,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641658,
@@ -2689,14 +2705,6 @@
       "onboard_time": 1685864190,
       "rank": 15,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 512448,
-      "num": 512448,
-      "word": "鼠头还是鸭脖怎么就成了罗生门",
-      "onboard_time": 1685971528,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507598,
@@ -3547,14 +3555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392063,
-      "num": 392063,
-      "word": "Jennie新剧",
-      "onboard_time": 1685973571,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391957,
       "num": 391957,
       "word": "印度发生列车脱轨相撞事故",
@@ -3705,6 +3705,14 @@
       "onboard_time": 1685800650,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377821,
+      "num": 377821,
+      "word": "鸭圣婆 杰克辣条",
+      "onboard_time": 1685973930,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377405,
@@ -4137,6 +4145,14 @@
       "onboard_time": 1685609487,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338936,
+      "num": 338936,
+      "word": "迪丽热巴说安旎得继续努力啊",
+      "onboard_time": 1685974291,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 338796,
@@ -5731,6 +5747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 258455,
+      "num": 258455,
+      "word": "母亲病危家人让高考孩子见最后一面",
+      "onboard_time": 1685973030,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 258139,
       "num": 174809,
       "word": "还以为吴磊从新疆骑到广州",
@@ -5889,6 +5913,14 @@
       "onboard_time": 1685593050,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252483,
+      "num": 252483,
+      "word": "第一次见YG公关部这么迅速",
+      "onboard_time": 1685973870,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 251954,
@@ -7043,14 +7075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213977,
-      "num": 213977,
-      "word": "母亲病危家人让高考孩子见最后一面",
-      "onboard_time": 1685973030,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 213942,
       "num": 155336,
       "word": "甄嬛金句台词",
@@ -7257,6 +7281,14 @@
       "onboard_time": 1685540369,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207006,
+      "num": 207006,
+      "word": "AL战胜TT",
+      "onboard_time": 1685974412,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 206941,
@@ -8499,6 +8531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175837,
+      "num": 175837,
+      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+      "onboard_time": 1685974230,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175590,
       "num": 175590,
       "word": "cgv",
@@ -8553,14 +8593,6 @@
       "onboard_time": 1685693127,
       "rank": 34,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 173491,
-      "num": 173491,
-      "word": "鸭圣婆 杰克辣条",
-      "onboard_time": 1685973930,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173126,
@@ -8667,14 +8699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 170576,
-      "num": 170576,
-      "word": "AL战胜TT",
-      "onboard_time": 1685974412,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170112,
       "num": 170112,
       "word": "赵丽颖躲藏有一手",
@@ -8753,14 +8777,6 @@
       "onboard_time": 1685969908,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168191,
-      "num": 168191,
-      "word": "第一次见YG公关部这么迅速",
-      "onboard_time": 1685973870,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 168179,
@@ -9033,14 +9049,6 @@
       "onboard_time": 1685973689,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160482,
-      "num": 160482,
-      "word": "迪丽热巴说安旎得继续努力啊",
-      "onboard_time": 1685974291,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 159970,
@@ -9659,6 +9667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "极寒之城首映",
+      "onboard_time": 1685975433,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142059,
       "num": 142059,
       "word": "重返高三你愿意吗",
@@ -9761,6 +9777,14 @@
       "onboard_time": 1685546971,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138401,
+      "num": 138401,
+      "word": "雁回开大好帅",
+      "onboard_time": 1685974652,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 138355,
@@ -9897,6 +9921,14 @@
       "onboard_time": 1685957131,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134007,
+      "num": 134007,
+      "word": "Xiaohao哭了",
+      "onboard_time": 1685975191,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 133781,
@@ -10083,14 +10115,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 128300,
-      "num": 128300,
-      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
-      "onboard_time": 1685974230,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128244,
       "num": 128244,
       "word": "李泰容出道",
@@ -10136,6 +10160,14 @@
       "word": "4岁男童路过纪念碑跑着上前敬礼",
       "onboard_time": 1685678427,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127372,
+      "num": 1247036,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -10264,6 +10296,14 @@
       "word": "小伙自述被缅北电诈集团虐待",
       "onboard_time": 1685697929,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123138,
+      "num": 123138,
+      "word": "小学生摊前帮爸爸炒面手法娴熟",
+      "onboard_time": 1685975191,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -10609,14 +10649,6 @@
       "onboard_time": 1685574439,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112665,
-      "num": 1247036,
-      "word": "加油高考生",
-      "onboard_time": 1685972369,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112645,
@@ -10969,6 +11001,14 @@
       "onboard_time": 1685762308,
       "rank": 49,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 96895,
+      "num": 121850,
+      "word": "AI生成马斯克婴儿照疯传",
+      "onboard_time": 1685975612,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 96722,
@@ -11899,6 +11939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41152,
+      "num": 506663,
+      "word": "老人烈日下晕倒多人撑伞守护",
+      "onboard_time": 1685973631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41028,
       "num": 41028,
       "word": "亲耳聆听了一场大女人发言",
@@ -12097,14 +12145,6 @@
       "onboard_time": 1685703632,
       "rank": 39,
       "category": "社会新闻,综艺"
-    },
-    {
-      "raw_hot": 19831,
-      "num": 506663,
-      "word": "老人烈日下晕倒多人撑伞守护",
-      "onboard_time": 1685973631,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19019,

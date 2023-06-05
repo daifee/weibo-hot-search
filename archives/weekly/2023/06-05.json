@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685974534653,
+  "endTime": 1685975626425,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -33,6 +33,14 @@
       "onboard_time": 1685940031,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2121466,
+      "num": 2121466,
+      "word": "业主购42套房全部打通墙体",
+      "onboard_time": 1685972670,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2085497,
@@ -155,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1508871,
+      "num": 1095824,
+      "word": "她只是长得好看并且很健谈罢了",
+      "onboard_time": 1685970630,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1439333,
       "num": 1439333,
       "word": "难怪白鹿许凯不帮于正新剧宣传",
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1203366,
-      "num": 1203366,
-      "word": "业主购42套房全部打通墙体",
-      "onboard_time": 1685972670,
-      "rank": 3,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1118785,
       "num": 1118785,
       "word": "本周狗屎运最旺的星座",
@@ -251,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1095824,
-      "num": 1095824,
-      "word": "她只是长得好看并且很健谈罢了",
-      "onboard_time": 1685970630,
-      "rank": 45,
-      "category": "幽默,情感"
+      "raw_hot": 1076254,
+      "num": 528397,
+      "word": "Jennie新剧",
+      "onboard_time": 1685973571,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1044695,
@@ -275,6 +283,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1038215,
+      "num": 1038215,
+      "word": "任豪求求了你们好好谈恋爱吧",
+      "onboard_time": 1685971470,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1013445,
       "num": 1013445,
       "word": "高铁站台为什么不能打伞",
@@ -283,7 +299,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 950610,
+      "raw_hot": 995780,
       "num": 635886,
       "word": "蔡依林 玫瑰少年",
       "onboard_time": 1685971768,
@@ -475,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 663036,
-      "num": 663036,
-      "word": "任豪求求了你们好好谈恋爱吧",
-      "onboard_time": 1685971470,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 646982,
+      "num": 646982,
+      "word": "鼠头还是鸭脖怎么就成了罗生门",
+      "onboard_time": 1685971528,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638400,
@@ -601,14 +617,6 @@
       "onboard_time": 1685928387,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 512448,
-      "num": 512448,
-      "word": "鼠头还是鸭脖怎么就成了罗生门",
-      "onboard_time": 1685971528,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505985,
@@ -819,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392063,
-      "num": 392063,
-      "word": "Jennie新剧",
-      "onboard_time": 1685973571,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 390788,
       "num": 390788,
       "word": "张一山 演盲人",
@@ -857,6 +857,14 @@
       "onboard_time": 1685957369,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377821,
+      "num": 377821,
+      "word": "鸭圣婆 杰克辣条",
+      "onboard_time": 1685973930,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377277,
@@ -969,6 +977,14 @@
       "onboard_time": 1685878168,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338936,
+      "num": 338936,
+      "word": "迪丽热巴说安旎得继续努力啊",
+      "onboard_time": 1685974291,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 336518,
@@ -1171,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258455,
+      "num": 258455,
+      "word": "母亲病危家人让高考孩子见最后一面",
+      "onboard_time": 1685973030,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 256961,
       "num": 256961,
       "word": "后天高考",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1685946448,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252483,
+      "num": 252483,
+      "word": "第一次见YG公关部这么迅速",
+      "onboard_time": 1685973870,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 251859,
@@ -1483,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213977,
-      "num": 213977,
-      "word": "母亲病危家人让高考孩子见最后一面",
-      "onboard_time": 1685973030,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 211503,
       "num": 211503,
       "word": "四公",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1685945428,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207006,
+      "num": 207006,
+      "word": "AL战胜TT",
+      "onboard_time": 1685974412,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 203334,
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175837,
+      "num": 175837,
+      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+      "onboard_time": 1685974230,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175754,
       "num": 163087,
       "word": "孟子义用的什么化妆品",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1685966666,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173491,
-      "num": 173491,
-      "word": "鸭圣婆 杰克辣条",
-      "onboard_time": 1685973930,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173126,
@@ -1843,14 +1875,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 170576,
-      "num": 170576,
-      "word": "AL战胜TT",
-      "onboard_time": 1685974412,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169290,
       "num": 169290,
       "word": "变形金刚7首映",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1685969908,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168191,
-      "num": 168191,
-      "word": "第一次见YG公关部这么迅速",
-      "onboard_time": 1685973870,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 167814,
@@ -1945,14 +1961,6 @@
       "onboard_time": 1685973689,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160482,
-      "num": 160482,
-      "word": "迪丽热巴说安旎得继续努力啊",
-      "onboard_time": 1685974291,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 159006,
@@ -2107,6 +2115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "极寒之城首映",
+      "onboard_time": 1685975433,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142059,
       "num": 142059,
       "word": "重返高三你愿意吗",
@@ -2131,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138401,
+      "num": 138401,
+      "word": "雁回开大好帅",
+      "onboard_time": 1685974652,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137080,
       "num": 137080,
       "word": "谁说柳州只有螺蛳粉",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1685957131,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134007,
+      "num": 134007,
+      "word": "Xiaohao哭了",
+      "onboard_time": 1685975191,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 132407,
@@ -2203,14 +2235,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 128300,
-      "num": 128300,
-      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
-      "onboard_time": 1685974230,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128244,
       "num": 128244,
       "word": "李泰容出道",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1685959406,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127372,
+      "num": 1247036,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125812,
@@ -2265,6 +2297,14 @@
       "onboard_time": 1685920400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123138,
+      "num": 123138,
+      "word": "小学生摊前帮爸爸炒面手法娴熟",
+      "onboard_time": 1685975191,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122721,
@@ -2371,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112665,
-      "num": 1247036,
-      "word": "加油高考生",
-      "onboard_time": 1685972369,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106100,
       "num": 106100,
       "word": "蔡徐坤王一博同款舞姿",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1685886392,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 96895,
+      "num": 121850,
+      "word": "AI生成马斯克婴儿照疯传",
+      "onboard_time": 1685975612,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 95902,
@@ -2611,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 41152,
+      "num": 506663,
+      "word": "老人烈日下晕倒多人撑伞守护",
+      "onboard_time": 1685973631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39776,
       "num": 1153572,
       "word": "圆梦乘组的高清笑颜",
@@ -2640,14 +2688,6 @@
       "word": "聚焦全国高考",
       "onboard_time": 1685914272,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19831,
-      "num": 506663,
-      "word": "老人烈日下晕倒多人撑伞守护",
-      "onboard_time": 1685973631,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],
