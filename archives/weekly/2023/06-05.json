@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685929608817,
+  "endTime": 1685931001710,
   "band_list": [
     {
       "raw_hot": 2490475,
@@ -27,20 +27,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1412912,
+      "num": 1412912,
+      "word": "无意识刷手机的危害有多大",
+      "onboard_time": 1685922685,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1294356,
       "num": 1294356,
       "word": "88斤女生穿不进去S码牛仔裙",
       "onboard_time": 1685889153,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1250184,
-      "num": 1250184,
-      "word": "无意识刷手机的危害有多大",
-      "onboard_time": 1685922685,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1109152,
@@ -59,16 +59,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 875297,
-      "num": 875297,
+      "raw_hot": 1057663,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1040052,
+      "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 836654,
-      "num": 836654,
+      "raw_hot": 925237,
+      "num": 925237,
       "word": "日本女团成员灌男粉喝洗洁精",
       "onboard_time": 1685920400,
       "rank": 36,
@@ -99,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 717395,
+      "num": 717395,
+      "word": "教育部发布2023高考预警",
+      "onboard_time": 1685886333,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708025,
       "num": 708025,
       "word": "汤晶媚任敏我们和好啦",
@@ -115,28 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634608,
-      "num": 634608,
-      "word": "教育部发布2023高考预警",
-      "onboard_time": 1685886333,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 604349,
       "num": 604349,
       "word": "宋雨琦奔跑吧12期只录了4期",
       "onboard_time": 1685883630,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 512855,
-      "num": 512855,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 494991,
@@ -171,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 417481,
+      "num": 417481,
+      "word": "今起学生票可实现网上核验",
+      "onboard_time": 1685926649,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407985,
       "num": 216886,
       "word": "离异男子独自养儿到17岁发现非亲生",
@@ -193,6 +201,14 @@
       "onboard_time": 1685888971,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369191,
+      "num": 369191,
+      "word": "网友评选95生三大神颜",
+      "onboard_time": 1685926410,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362989,
@@ -243,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330361,
+      "num": 330361,
+      "word": "shanji",
+      "onboard_time": 1685929407,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 321207,
+      "num": 321207,
+      "word": "王一博官宣2023微博电影之夜",
+      "onboard_time": 1685929945,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -251,27 +283,11 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 313225,
-      "num": 313225,
-      "word": "今起学生票可实现网上核验",
-      "onboard_time": 1685926649,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298999,
       "num": 298999,
       "word": "王祖贤齐秦庾澄庆早期合照",
       "onboard_time": 1685925090,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 295078,
-      "num": 295078,
-      "word": "网友评选95生三大神颜",
-      "onboard_time": 1685926410,
-      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -291,8 +307,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272892,
-      "num": 272892,
+      "raw_hot": 282971,
+      "num": 282971,
+      "word": "喂119吗我是需要帮忙抓蛇的110",
+      "onboard_time": 1685930246,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279992,
+      "num": 279992,
       "word": "只有宋茜一个人受伤的世界达成了",
       "onboard_time": 1685927728,
       "rank": 25,
@@ -347,6 +371,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 240986,
+      "num": 240986,
+      "word": "热火 掘金",
+      "onboard_time": 1685928387,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240734,
+      "num": 240734,
+      "word": "王鹤棣到底在捞什么",
+      "onboard_time": 1685928867,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237348,
       "num": 237348,
       "word": "白桃星座",
@@ -361,14 +401,6 @@
       "onboard_time": 1685888131,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224459,
-      "num": 224459,
-      "word": "热火 掘金",
-      "onboard_time": 1685928387,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 222299,
@@ -387,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188617,
-      "num": 188617,
-      "word": "王鹤棣到底在捞什么",
-      "onboard_time": 1685928867,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 194064,
+      "num": 194064,
+      "word": "三分野",
+      "onboard_time": 1685928685,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 185594,
@@ -465,14 +497,6 @@
       "onboard_time": 1685882909,
       "rank": 32,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 164884,
-      "num": 164884,
-      "word": "三分野",
-      "onboard_time": 1685928685,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 163794,
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125947,
+      "num": 125947,
+      "word": "五月天沈阳",
+      "onboard_time": 1685930548,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124977,
       "num": 124977,
       "word": "苏醒一切以非官宣为主",
@@ -651,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114399,
-      "num": 114399,
-      "word": "shanji",
-      "onboard_time": 1685929407,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114061,
       "num": 114061,
       "word": "鬼灭之刃锻刀村篇",
@@ -673,6 +697,14 @@
       "onboard_time": 1685882848,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104069,
+      "num": 104069,
+      "word": "王鹤棣在哪都是个显眼包",
+      "onboard_time": 1685927546,
+      "rank": 48,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 103358,
@@ -705,6 +737,14 @@
       "onboard_time": 1685884830,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98550,
+      "num": 98550,
+      "word": "林允儿看金泰妍演唱会vlog",
+      "onboard_time": 1685924969,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 97043,
