@@ -1,0 +1,410 @@
+{
+  "runTime": 1685964818293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1292388,
+        "num": 1292388,
+        "word": "一个村考出300多大学生6个北大",
+        "onboard_time": 1685954430,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1135427,
+        "num": 1135427,
+        "word": "某某影视化",
+        "onboard_time": 1685954368,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124523,
+        "num": 997407,
+        "word": "哪一刻让你觉得读书特别有用",
+        "onboard_time": 1685957131,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1650589,
+        "num": 959144,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812270,
+        "num": 863576,
+        "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
+        "onboard_time": 1685958629,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862032,
+        "num": 862032,
+        "word": "难听",
+        "onboard_time": 1685958029,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283807,
+        "num": 849060,
+        "word": "49岁你还有勇气参加高考吗",
+        "onboard_time": 1685958629,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 842461,
+        "num": 842461,
+        "word": "建议实现一户一曜",
+        "onboard_time": 1685959049,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 837729,
+        "num": 837729,
+        "word": "SMTOWN曾用EXO威胁边伯贤",
+        "onboard_time": 1685963006,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550814,
+        "num": 550814,
+        "word": "best道歉",
+        "onboard_time": 1685961628,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 625079,
+        "num": 531616,
+        "word": "难怪白鹿许凯不帮于正新剧宣传",
+        "onboard_time": 1685961985,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557864,
+        "num": 526081,
+        "word": "空降",
+        "onboard_time": 1685961028,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 492238,
+        "num": 492238,
+        "word": "你不用在意我的外表我不是你未来的妻子",
+        "onboard_time": 1685950467,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 472537,
+        "num": 472537,
+        "word": "魏晨差点错过孩子出生第一刻",
+        "onboard_time": 1685950890,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82423,
+        "num": 451383,
+        "word": "班主任自费给高三毕业生发礼物",
+        "onboard_time": 1685962834,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445023,
+        "num": 445023,
+        "word": "娜扎时隔七年重开评论区",
+        "onboard_time": 1685947887,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344155,
+        "num": 344155,
+        "word": "肖战被强行拉cp",
+        "onboard_time": 1685946027,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312790,
+        "num": 312790,
+        "word": "江歌妈妈 捐出全部赔偿不是冲动",
+        "onboard_time": 1685949269,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241638,
+        "num": 241638,
+        "word": "你的身体比你想象中更加爱你",
+        "onboard_time": 1685960008,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240441,
+        "num": 240441,
+        "word": "亲戚小孩毁了我的动漫周边",
+        "onboard_time": 1685940031,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320717,
+        "num": 236758,
+        "word": "女子反问男友8年感情竟不值38万",
+        "onboard_time": 1685937630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264650,
+        "num": 236306,
+        "word": "肖战梦中的那片海首周战报",
+        "onboard_time": 1685963248,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262472,
+        "num": 234332,
+        "word": "张一山眼球怎么了",
+        "onboard_time": 1685942608,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228116,
+        "num": 228116,
+        "word": "瓶子吃瓜",
+        "onboard_time": 1685963248,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215707,
+        "num": 215707,
+        "word": "周震南父亲等被恢复执行1046万",
+        "onboard_time": 1685947227,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 224423,
+        "num": 213957,
+        "word": "全员加速中路透",
+        "onboard_time": 1685963667,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201874,
+        "num": 201874,
+        "word": "博主回应三亚买水果海鲜被宰",
+        "onboard_time": 1685962168,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 200852,
+        "num": 200852,
+        "word": "亲爱的李华以后信要自己写了",
+        "onboard_time": 1685954969,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190957,
+        "num": 190957,
+        "word": "尤长靖 祝福所有考生破浪逐新",
+        "onboard_time": 1685963728,
+        "rank": 28,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 185572,
+        "num": 185572,
+        "word": "娜扎七年前生图",
+        "onboard_time": 1685964207,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178711,
+        "num": 178711,
+        "word": "金莎终于又拍古装剧了",
+        "onboard_time": 1685957068,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177183,
+        "num": 177183,
+        "word": "林俊杰演唱会上海站审批通过",
+        "onboard_time": 1685958869,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173126,
+        "num": 173126,
+        "word": "古力娜扎诉洗护产品侵权获赔",
+        "onboard_time": 1685961927,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 173029,
+        "num": 173029,
+        "word": "前男友说的话让我泪崩",
+        "onboard_time": 1685961387,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167867,
+        "num": 167867,
+        "word": "千万不要惹刚加完班的人",
+        "onboard_time": 1685954547,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140603,
+        "num": 140603,
+        "word": "郭俊辰早几年都干嘛去了",
+        "onboard_time": 1685952328,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135293,
+        "num": 135293,
+        "word": "周迅踩了黄磊一脚",
+        "onboard_time": 1685955867,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130679,
+        "num": 130679,
+        "word": "小狗又不懂什么是寄养",
+        "onboard_time": 1685957728,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128350,
+        "num": 128350,
+        "word": "佟晓梅怎么会不爱上肖春生",
+        "onboard_time": 1685960666,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46997,
+        "num": 124846,
+        "word": "为什么年轻人喜欢早7在淘宝抢菜",
+        "onboard_time": 1685962834,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124240,
+        "num": 124240,
+        "word": "市监局回应反复对比确认是鸭脖",
+        "onboard_time": 1685940872,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121948,
+        "num": 121948,
+        "word": "高考时间",
+        "onboard_time": 1685957669,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 118782,
+        "word": "梅西",
+        "onboard_time": 1685943330,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118571,
+        "num": 118571,
+        "word": "封神",
+        "onboard_time": 1685948128,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114192,
+        "num": 114192,
+        "word": "张一山 演盲人",
+        "onboard_time": 1685947527,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113494,
+        "num": 113494,
+        "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+        "onboard_time": 1685938775,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104060,
+        "num": 104060,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1685956407,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101281,
+        "num": 101281,
+        "word": "四公",
+        "onboard_time": 1685964687,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98961,
+        "num": 98961,
+        "word": "最能扛剧的男演员",
+        "onboard_time": 1685957010,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95902,
+        "num": 95902,
+        "word": "2条丝巾变古装",
+        "onboard_time": 1685963847,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护环境就是守护你我的未来#"
+    }
+  }
+}

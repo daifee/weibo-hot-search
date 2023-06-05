@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685963655368,
+  "endTime": 1685964818293,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1451,12 +1451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842461,
+      "num": 842461,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838196,
       "num": 1139906,
       "word": "高三学生写永久请假条告别班主任",
       "onboard_time": 1685781809,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 837729,
+      "num": 837729,
+      "word": "SMTOWN曾用EXO威胁边伯贤",
+      "onboard_time": 1685963006,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 837584,
@@ -1536,14 +1552,6 @@
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 820087,
-      "num": 820087,
-      "word": "建议实现一户一曜",
-      "onboard_time": 1685959049,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -2051,6 +2059,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 625079,
+      "num": 531616,
+      "word": "难怪白鹿许凯不帮于正新剧宣传",
+      "onboard_time": 1685961985,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 623850,
       "num": 360863,
       "word": "肖战王一博同款表情演技",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1685604927,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550814,
+      "num": 550814,
+      "word": "best道歉",
+      "onboard_time": 1685961628,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 550399,
@@ -2721,14 +2745,6 @@
       "onboard_time": 1685705674,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 478640,
-      "num": 378279,
-      "word": "SMTOWN曾用EXO威胁边伯贤",
-      "onboard_time": 1685963006,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 478448,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1685620466,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397803,
-      "num": 397803,
-      "word": "best道歉",
-      "onboard_time": 1685961628,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 396671,
@@ -4033,14 +4041,6 @@
       "onboard_time": 1685844747,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336904,
-      "num": 280443,
-      "word": "难怪白鹿许凯不帮于正新剧宣传",
-      "onboard_time": 1685961985,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 336518,
@@ -4939,6 +4939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283807,
+      "num": 925965,
+      "word": "49岁你还有勇气参加高考吗",
+      "onboard_time": 1685958629,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 283400,
       "num": 421046,
       "word": "拼多多补贴力度不像是演的",
@@ -4961,14 +4969,6 @@
       "onboard_time": 1685692767,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282396,
-      "num": 925965,
-      "word": "49岁你还有勇气参加高考吗",
-      "onboard_time": 1685958629,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 281224,
@@ -5060,7 +5060,7 @@
     },
     {
       "raw_hot": 277665,
-      "num": 179739,
+      "num": 236306,
       "word": "肖战梦中的那片海首周战报",
       "onboard_time": 1685963248,
       "rank": 30,
@@ -5923,6 +5923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241638,
+      "num": 241638,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241313,
       "num": 241313,
       "word": "MTG 久诚",
@@ -6339,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228116,
+      "num": 228116,
+      "word": "瓶子吃瓜",
+      "onboard_time": 1685963248,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228043,
       "num": 228043,
       "word": "贪官假释期威胁媒体删除忏悔视频",
@@ -6475,12 +6491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224394,
-      "num": 224394,
-      "word": "瓶子吃瓜",
-      "onboard_time": 1685963248,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 224423,
+      "num": 213957,
+      "word": "全员加速中路透",
+      "onboard_time": 1685963667,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 224190,
@@ -7147,6 +7163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201874,
+      "num": 201874,
+      "word": "博主回应三亚买水果海鲜被宰",
+      "onboard_time": 1685962168,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 201849,
       "num": 201849,
       "word": "朱珠到底有多飒",
@@ -7209,14 +7233,6 @@
       "onboard_time": 1685785284,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200018,
-      "num": 200018,
-      "word": "你的身体比你想象中更加爱你",
-      "onboard_time": 1685960008,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 199797,
@@ -7417,14 +7433,6 @@
       "onboard_time": 1685782227,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195536,
-      "num": 195536,
-      "word": "博主回应三亚买水果海鲜被宰",
-      "onboard_time": 1685962168,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195254,
@@ -7649,6 +7657,14 @@
       "onboard_time": 1685884830,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190957,
+      "num": 190957,
+      "word": "尤长靖 祝福所有考生破浪逐新",
+      "onboard_time": 1685963728,
+      "rank": 28,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 190869,
@@ -7905,6 +7921,14 @@
       "onboard_time": 1685890897,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185572,
+      "num": 185572,
+      "word": "娜扎七年前生图",
+      "onboard_time": 1685964207,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 185199,
@@ -8297,6 +8321,14 @@
       "onboard_time": 1685693127,
       "rank": 34,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 173126,
+      "num": 173126,
+      "word": "古力娜扎诉洗护产品侵权获赔",
+      "onboard_time": 1685961927,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 173053,
@@ -8697,14 +8729,6 @@
       "onboard_time": 1685953529,
       "rank": 35,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 161808,
-      "num": 161808,
-      "word": "古力娜扎诉洗护产品侵权获赔",
-      "onboard_time": 1685961927,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 161739,
@@ -9859,6 +9883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124523,
+      "num": 1055477,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123510,
       "num": 418540,
       "word": "95后夫妻斗舞决定谁带娃一天",
@@ -10491,6 +10523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101281,
+      "num": 101281,
+      "word": "四公",
+      "onboard_time": 1685964687,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100628,
       "num": 100628,
       "word": "黄渤看到岳云鹏新发型的反应",
@@ -10577,6 +10617,14 @@
       "onboard_time": 1685834116,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95902,
+      "num": 95902,
+      "word": "2条丝巾变古装",
+      "onboard_time": 1685963847,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95528,
@@ -10849,6 +10897,14 @@
       "onboard_time": 1685835139,
       "rank": 38,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 82423,
+      "num": 451383,
+      "word": "班主任自费给高三毕业生发礼物",
+      "onboard_time": 1685962834,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81440,
@@ -11379,14 +11435,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 49994,
-      "num": 1055477,
-      "word": "哪一刻让你觉得读书特别有用",
-      "onboard_time": 1685957131,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49931,
       "num": 70190,
       "word": "亲手孵出来的鸸鹋宝宝",
@@ -11409,6 +11457,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 46997,
+      "num": 126165,
+      "word": "为什么年轻人喜欢早7在淘宝抢菜",
+      "onboard_time": 1685962834,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46429,
@@ -11539,14 +11595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32397,
-      "num": 355104,
-      "word": "班主任自费给高三毕业生发礼物",
-      "onboard_time": 1685962834,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31905,
       "num": 36535,
       "word": "周深璀璨冒险人舞美寓意",
@@ -11625,14 +11673,6 @@
       "onboard_time": 1685694809,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 25170,
-      "num": 126165,
-      "word": "为什么年轻人喜欢早7在淘宝抢菜",
-      "onboard_time": 1685962834,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24151,
@@ -11799,6 +11839,9 @@
     },
     {
       "word": "#今天世界环境日#"
+    },
+    {
+      "word": "#保护环境就是守护你我的未来#"
     }
   ]
 }

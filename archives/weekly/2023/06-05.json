@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685963655368,
+  "endTime": 1685964818293,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -267,20 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842461,
+      "num": 842461,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 837729,
+      "num": 837729,
+      "word": "SMTOWN曾用EXO威胁边伯贤",
+      "onboard_time": 1685963006,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837584,
       "num": 837584,
       "word": "郑秀妍Amber合体",
       "onboard_time": 1685934869,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 820087,
-      "num": 820087,
-      "word": "建议实现一户一曜",
-      "onboard_time": 1685959049,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 808200,
@@ -395,6 +403,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 625079,
+      "num": 531616,
+      "word": "难怪白鹿许凯不帮于正新剧宣传",
+      "onboard_time": 1685961985,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 620487,
       "num": 620487,
       "word": "空降",
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550814,
+      "num": 550814,
+      "word": "best道歉",
+      "onboard_time": 1685961628,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 550399,
       "num": 550399,
       "word": "网友路上偶遇高考试卷押运车",
@@ -513,14 +537,6 @@
       "onboard_time": 1685945247,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 478640,
-      "num": 378279,
-      "word": "SMTOWN曾用EXO威胁边伯贤",
-      "onboard_time": 1685963006,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 476381,
@@ -667,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397803,
-      "num": 397803,
-      "word": "best道歉",
-      "onboard_time": 1685961628,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 390788,
       "num": 390788,
       "word": "张一山 演盲人",
@@ -811,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336904,
-      "num": 280443,
-      "word": "难怪白鹿许凯不帮于正新剧宣传",
-      "onboard_time": 1685961985,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 336518,
       "num": 336518,
       "word": "肖春生被捅时我的心情",
@@ -899,7 +899,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282396,
+      "raw_hot": 283807,
       "num": 925965,
       "word": "49岁你还有勇气参加高考吗",
       "onboard_time": 1685958629,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 277665,
-      "num": 179739,
+      "num": 236306,
       "word": "肖战梦中的那片海首周战报",
       "onboard_time": 1685963248,
       "rank": 30,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241638,
+      "num": 241638,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241090,
       "num": 241090,
       "word": "陈伟霆请拿出拍剧的尺度来拍vlog",
@@ -1147,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228116,
+      "num": 228116,
+      "word": "瓶子吃瓜",
+      "onboard_time": 1685963248,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225846,
       "num": 225846,
       "word": "苏醒说档期实在配合不到啊",
@@ -1171,12 +1187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224394,
-      "num": 224394,
-      "word": "瓶子吃瓜",
-      "onboard_time": 1685963248,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 224423,
+      "num": 213957,
+      "word": "全员加速中路透",
+      "onboard_time": 1685963667,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 222299,
@@ -1299,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201874,
+      "num": 201874,
+      "word": "博主回应三亚买水果海鲜被宰",
+      "onboard_time": 1685962168,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 201469,
       "num": 201469,
       "word": "三分野",
@@ -1315,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200018,
-      "num": 200018,
-      "word": "你的身体比你想象中更加爱你",
-      "onboard_time": 1685960008,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1685949328,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195536,
-      "num": 195536,
-      "word": "博主回应三亚买水果海鲜被宰",
-      "onboard_time": 1685962168,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 195254,
@@ -1395,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190957,
+      "num": 190957,
+      "word": "尤长靖 祝福所有考生破浪逐新",
+      "onboard_time": 1685963728,
+      "rank": 28,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 189453,
       "num": 189453,
       "word": "肖春生发量",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185572,
+      "num": 185572,
+      "word": "娜扎七年前生图",
+      "onboard_time": 1685964207,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 182025,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1685946147,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173126,
+      "num": 173126,
+      "word": "古力娜扎诉洗护产品侵权获赔",
+      "onboard_time": 1685961927,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 173053,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1685953529,
       "rank": 35,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 161808,
-      "num": 161808,
-      "word": "古力娜扎诉洗护产品侵权获赔",
-      "onboard_time": 1685961927,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 159006,
@@ -1883,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124523,
+      "num": 1055477,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122721,
       "num": 122721,
       "word": "最能扛剧的男演员",
@@ -2011,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101281,
+      "num": 101281,
+      "word": "四公",
+      "onboard_time": 1685964687,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98550,
       "num": 98550,
       "word": "林允儿看金泰妍演唱会vlog",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1685886392,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95902,
+      "num": 95902,
+      "word": "2条丝巾变古装",
+      "onboard_time": 1685963847,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90689,
@@ -2091,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82423,
+      "num": 451383,
+      "word": "班主任自费给高三毕业生发礼物",
+      "onboard_time": 1685962834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70924,
       "num": 70924,
       "word": "暑假神剧西游记",
@@ -2139,11 +2195,11 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 49994,
-      "num": 1055477,
-      "word": "哪一刻让你觉得读书特别有用",
-      "onboard_time": 1685957131,
-      "rank": 2,
+      "raw_hot": 46997,
+      "num": 126165,
+      "word": "为什么年轻人喜欢早7在淘宝抢菜",
+      "onboard_time": 1685962834,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2195,22 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32397,
-      "num": 355104,
-      "word": "班主任自费给高三毕业生发礼物",
-      "onboard_time": 1685962834,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25170,
-      "num": 126165,
-      "word": "为什么年轻人喜欢早7在淘宝抢菜",
-      "onboard_time": 1685962834,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24151,
       "num": 27740,
       "word": "聚焦全国高考",
@@ -2228,6 +2268,9 @@
     },
     {
       "word": "#今天世界环境日#"
+    },
+    {
+      "word": "#保护环境就是守护你我的未来#"
     }
   ]
 }
