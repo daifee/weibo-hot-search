@@ -1,0 +1,410 @@
+{
+  "runTime": 1685942169908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1349866,
+        "num": 1349866,
+        "word": "于正新剧又是双女主",
+        "onboard_time": 1685934030,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1054241,
+        "num": 1054241,
+        "word": "黄旭熙 泡泡",
+        "onboard_time": 1685933189,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116190,
+        "num": 1044847,
+        "word": "距2023高考还有2天",
+        "onboard_time": 1685932287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037412,
+        "num": 1037412,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1685921783,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 966441,
+        "num": 966441,
+        "word": "高铁站台为什么不能打伞",
+        "onboard_time": 1685931088,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1951459,
+        "num": 965623,
+        "word": "珠峰被救女子不愿支付全部救援费用",
+        "onboard_time": 1685933429,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798663,
+        "num": 798663,
+        "word": "赌王三太 粤剧艺术团",
+        "onboard_time": 1685940992,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781210,
+        "num": 781210,
+        "word": "杨紫工作室P图不P镜子",
+        "onboard_time": 1685924669,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 631072,
+        "num": 631072,
+        "word": "郑秀妍Amber合体",
+        "onboard_time": 1685934869,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504229,
+        "num": 504229,
+        "word": "90后的三十岁",
+        "onboard_time": 1685938470,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1689567,
+        "num": 498482,
+        "word": "奖励多少你会考虑多生孩子",
+        "onboard_time": 1685935831,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577931,
+        "num": 496143,
+        "word": "芝芙是越南版这就是街舞的队长",
+        "onboard_time": 1685931628,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530588,
+        "num": 495449,
+        "word": "菜英俊 再次向当事人道歉",
+        "onboard_time": 1685941471,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 492676,
+        "num": 492676,
+        "word": "朱正廷的脸怎么了",
+        "onboard_time": 1685937570,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36297,
+        "num": 491856,
+        "word": "亚洲首台异体喉移植手术成功实施",
+        "onboard_time": 1685941230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491594,
+        "num": 491594,
+        "word": "黄旭熙是救了李成洙的命吗",
+        "onboard_time": 1685936910,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486986,
+        "num": 486986,
+        "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+        "onboard_time": 1685938775,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484128,
+        "num": 484128,
+        "word": "shanji",
+        "onboard_time": 1685929407,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 467524,
+        "num": 467524,
+        "word": "章若楠观众缘",
+        "onboard_time": 1685925808,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437540,
+        "num": 437540,
+        "word": "成毅虞书欣一年级同框照",
+        "onboard_time": 1685937151,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1610065,
+        "num": 423895,
+        "word": "女子反问男友8年感情竟不值38万",
+        "onboard_time": 1685937630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401705,
+        "num": 401705,
+        "word": "鞠婧祎凤凰造型反差",
+        "onboard_time": 1685938534,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377277,
+        "num": 377277,
+        "word": "云秀行开机",
+        "onboard_time": 1685941169,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375152,
+        "num": 375152,
+        "word": "市监局回应反复对比确认是鸭脖",
+        "onboard_time": 1685940872,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341870,
+        "num": 341870,
+        "word": "亲戚小孩毁了我的动漫周边",
+        "onboard_time": 1685940031,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339862,
+        "num": 339862,
+        "word": "汕头一快餐店煤气爆炸致1死6伤",
+        "onboard_time": 1685936790,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304425,
+        "num": 304425,
+        "word": "吴磊从新疆带馕送给粉丝",
+        "onboard_time": 1685934929,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282376,
+        "num": 282376,
+        "word": "车瑞元要结婚了",
+        "onboard_time": 1685935348,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273249,
+        "num": 273249,
+        "word": "瑞幸",
+        "onboard_time": 1685942008,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171596,
+        "num": 272774,
+        "word": "喂119吗我是需要帮忙抓蛇的110",
+        "onboard_time": 1685930246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272730,
+        "num": 272730,
+        "word": "汤晶媚任敏我们和好啦",
+        "onboard_time": 1685891491,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245739,
+        "num": 245739,
+        "word": "the idol",
+        "onboard_time": 1685934929,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243848,
+        "num": 243848,
+        "word": "印度耗资百亿卢比的大桥又塌了",
+        "onboard_time": 1685932407,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239633,
+        "num": 239633,
+        "word": "淄博张店烧烤倡议高考停业三天",
+        "onboard_time": 1685932527,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238567,
+        "num": 238567,
+        "word": "老师攒高三生2千空笔芯做梦想之舟",
+        "onboard_time": 1685936011,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 230540,
+        "num": 230540,
+        "word": "长期喝粥会让胃越来越脆弱",
+        "onboard_time": 1685923767,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229090,
+        "num": 229090,
+        "word": "徐明浩说干了8年舞台不如搞笑出圈",
+        "onboard_time": 1685935653,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226945,
+        "num": 226945,
+        "word": "杨超越工作室回应模仿争议",
+        "onboard_time": 1685941531,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225846,
+        "num": 225846,
+        "word": "苏醒说档期实在配合不到啊",
+        "onboard_time": 1685940271,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221376,
+        "num": 221376,
+        "word": "为什么父辈能存到钱",
+        "onboard_time": 1685938413,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220252,
+        "num": 220252,
+        "word": "杭州收费站",
+        "onboard_time": 1685939853,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218546,
+        "num": 218546,
+        "word": "五月天沈阳",
+        "onboard_time": 1685930548,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212771,
+        "num": 212771,
+        "word": "薛之谦毛不易官宣音综",
+        "onboard_time": 1685933067,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212004,
+        "num": 212004,
+        "word": "男子连吃100天麦当劳减重53斤",
+        "onboard_time": 1685893707,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 210750,
+        "num": 210750,
+        "word": "无意识刷手机的危害有多大",
+        "onboard_time": 1685922685,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180526,
+        "num": 180526,
+        "word": "肖春生被捅时我的心情",
+        "onboard_time": 1685933609,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177534,
+        "num": 177534,
+        "word": "第一眼被任敏惊艳到了",
+        "onboard_time": 1685938534,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175455,
+        "num": 175455,
+        "word": "给自己的鼻子纹了两颗痣",
+        "onboard_time": 1685931867,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170008,
+        "num": 175447,
+        "word": "代号鸢",
+        "onboard_time": 1685937511,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103917,
+        "num": 175444,
+        "word": "热火1比1掘金",
+        "onboard_time": 1685933249,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天世界环境日#"
+    }
+  }
+}

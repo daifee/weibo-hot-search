@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685939607636,
+  "endTime": 1685942169908,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -480,6 +480,14 @@
       "word": "成都七中一学生被开除",
       "onboard_time": 1685804552,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1610065,
+      "num": 423895,
+      "word": "女子反问男友8年感情竟不值38万",
+      "onboard_time": 1685937630,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1467,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 798663,
+      "num": 798663,
+      "word": "赌王三太 粤剧艺术团",
+      "onboard_time": 1685940992,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792996,
       "num": 792996,
       "word": "重庆防空警报",
@@ -1947,14 +1963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 603846,
-      "num": 420413,
-      "word": "女子反问男友8年感情竟不值38万",
-      "onboard_time": 1685937630,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603842,
       "num": 603842,
       "word": "王鹤棣趴着和宋丹丹张国立聊天",
@@ -2283,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530588,
+      "num": 495449,
+      "word": "菜英俊 再次向当事人道歉",
+      "onboard_time": 1685941471,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 527494,
       "num": 515360,
       "word": "虞书欣直播",
@@ -2371,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 504229,
+      "num": 504229,
+      "word": "90后的三十岁",
+      "onboard_time": 1685938470,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 502975,
       "num": 502975,
       "word": "五月天王源唱如果我们不曾相遇",
@@ -2419,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492676,
+      "num": 492676,
+      "word": "朱正廷的脸怎么了",
+      "onboard_time": 1685937570,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 488933,
       "num": 488933,
       "word": "WBG对战JDG",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1685848345,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486986,
+      "num": 486986,
+      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+      "onboard_time": 1685938775,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486474,
@@ -2681,14 +2721,6 @@
       "onboard_time": 1685709272,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 450581,
-      "num": 450581,
-      "word": "朱正廷的脸怎么了",
-      "onboard_time": 1685937570,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 448577,
@@ -3035,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401705,
+      "num": 401705,
+      "word": "鞠婧祎凤凰造型反差",
+      "onboard_time": 1685938534,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400668,
       "num": 400668,
       "word": "学校回应小学生将螺丝刀插进同学背部",
@@ -3259,12 +3299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377277,
+      "num": 377277,
+      "word": "云秀行开机",
+      "onboard_time": 1685941169,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377133,
       "num": 377133,
       "word": "小樱小狼 情侣战斗服",
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 375152,
+      "num": 375152,
+      "word": "市监局回应反复对比确认是鸭脖",
+      "onboard_time": 1685940872,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374320,
@@ -3435,14 +3491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357471,
-      "num": 335269,
-      "word": "鞠婧祎凤凰造型反差",
-      "onboard_time": 1685938534,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
@@ -3609,6 +3657,14 @@
       "onboard_time": 1685882848,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341870,
+      "num": 341870,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 341004,
@@ -4105,14 +4161,6 @@
       "onboard_time": 1685882607,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 309741,
-      "num": 309741,
-      "word": "90后的三十岁",
-      "onboard_time": 1685938470,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 309663,
@@ -4787,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273249,
+      "num": 273249,
+      "word": "瑞幸",
+      "onboard_time": 1685942008,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
@@ -4905,14 +4961,6 @@
       "onboard_time": 1685759308,
       "rank": 34,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 268038,
-      "num": 268038,
-      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
-      "onboard_time": 1685938775,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267414,
@@ -5595,6 +5643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238567,
+      "num": 238567,
+      "word": "老师攒高三生2千空笔芯做梦想之舟",
+      "onboard_time": 1685936011,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 238172,
       "num": 238172,
       "word": "是谁在设计这种东西",
@@ -5899,6 +5955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226945,
+      "num": 226945,
+      "word": "杨超越工作室回应模仿争议",
+      "onboard_time": 1685941531,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226927,
       "num": 226927,
       "word": "香蕉的英文这么烫嘴吗",
@@ -5913,6 +5977,14 @@
       "onboard_time": 1685615009,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225846,
+      "num": 225846,
+      "word": "苏醒说档期实在配合不到啊",
+      "onboard_time": 1685940271,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 225487,
@@ -6011,6 +6083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221376,
+      "num": 221376,
+      "word": "为什么父辈能存到钱",
+      "onboard_time": 1685938413,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221067,
       "num": 221067,
       "word": "热火vs掘金",
@@ -6057,6 +6137,14 @@
       "onboard_time": 1685862327,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220252,
+      "num": 220252,
+      "word": "杭州收费站",
+      "onboard_time": 1685939853,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220157,
@@ -6313,14 +6401,6 @@
       "onboard_time": 1685877987,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212047,
-      "num": 212047,
-      "word": "为什么父辈能存到钱",
-      "onboard_time": 1685938413,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 211654,
@@ -7361,14 +7441,6 @@
       "onboard_time": 1685584407,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183220,
-      "num": 183220,
-      "word": "老师攒高三生2千空笔芯做梦想之舟",
-      "onboard_time": 1685936011,
-      "rank": 45,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 183113,
@@ -10561,6 +10633,14 @@
       "onboard_time": 1685900357,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36297,
+      "num": 491856,
+      "word": "亚洲首台异体喉移植手术成功实施",
+      "onboard_time": 1685941230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35981,
