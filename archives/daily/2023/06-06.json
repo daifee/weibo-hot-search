@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1685989219496,
+  "endTime": 1685990039457,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -227,8 +227,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 230982,
-      "num": 230982,
+      "raw_hot": 233694,
+      "num": 233694,
       "word": "苹果出头显你会买吗",
       "onboard_time": 1685985079,
       "rank": 27,
@@ -249,6 +249,14 @@
       "onboard_time": 1685979027,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202334,
+      "num": 202334,
+      "word": "Apple Vision Pro 苹果首款头显",
+      "onboard_time": 1685989754,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 201299,
@@ -515,6 +523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 77356,
+      "num": 77356,
+      "word": "watchOS 10 史努比表盘",
+      "onboard_time": 1685989275,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 70086,
       "num": 70086,
       "word": "WWDC",
@@ -528,6 +544,14 @@
       "word": "新MacOS Sonoma",
       "onboard_time": 1685988376,
       "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 43883,
+      "num": 43883,
+      "word": "13英寸MacBook降价",
+      "onboard_time": 1685989577,
+      "rank": 40,
       "category": "科技"
     },
     {
