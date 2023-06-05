@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685986428472,
+  "endTime": 1685989219496,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -1131,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304938,
+      "num": 304938,
+      "word": "iOS17",
+      "onboard_time": 1685986516,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 300561,
       "num": 300561,
       "word": "谢娜朱珠郑秀妍合作舞台重录",
@@ -1499,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230982,
+      "num": 230982,
+      "word": "苹果出头显你会买吗",
+      "onboard_time": 1685985079,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 229014,
       "num": 229014,
       "word": "肖春生祝酒词是肖战即兴发挥的",
@@ -1699,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203178,
-      "num": 203178,
-      "word": "苹果出头显你会买吗",
-      "onboard_time": 1685985079,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 202629,
       "num": 202629,
       "word": "肖春生什么时候分手",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1685928685,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201021,
+      "num": 201021,
+      "word": "死亡搁浅将登陆Mac",
+      "onboard_time": 1685987834,
+      "rank": 7,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 200628,
@@ -2227,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154292,
+      "num": 154292,
+      "word": "15寸的MacBook Air",
+      "onboard_time": 1685985739,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 153551,
       "num": 153551,
       "word": "沈月cos陈小希",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1685893050,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 152989,
+      "num": 152989,
+      "word": "小岛秀夫 苹果发布会",
+      "onboard_time": 1685988135,
+      "rank": 12,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 152183,
@@ -2395,6 +2427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134585,
+      "num": 134585,
+      "word": "NameDrop 小天才碰碰交友",
+      "onboard_time": 1685986576,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134569,
       "num": 1257978,
       "word": "哪一刻让你觉得读书特别有用",
@@ -2441,14 +2481,6 @@
       "onboard_time": 1685967567,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130562,
-      "num": 130562,
-      "word": "15寸的MacBook Air",
-      "onboard_time": 1685985739,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 129578,
@@ -2651,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109495,
+      "num": 109495,
+      "word": "M2 Ultra 性能猛兽",
+      "onboard_time": 1685987117,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 106100,
       "num": 106100,
       "word": "蔡徐坤王一博同款舞姿",
@@ -2827,6 +2867,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 70086,
+      "num": 70086,
+      "word": "WWDC",
+      "onboard_time": 1685987295,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 65883,
       "num": 65883,
       "word": "700多年前满是花花的画太惊艳",
@@ -2857,6 +2905,14 @@
       "onboard_time": 1685959288,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51067,
+      "num": 51067,
+      "word": "新MacOS Sonoma",
+      "onboard_time": 1685988376,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 49996,

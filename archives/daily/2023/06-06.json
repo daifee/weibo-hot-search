@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1685986428472,
+  "endTime": 1685989219496,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -163,6 +163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 304938,
+      "num": 304938,
+      "word": "iOS17",
+      "onboard_time": 1685986516,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 300561,
       "num": 300561,
       "word": "谢娜朱珠郑秀妍合作舞台重录",
@@ -219,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 230982,
+      "num": 230982,
+      "word": "苹果出头显你会买吗",
+      "onboard_time": 1685985079,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 230171,
       "num": 180870,
       "word": "南昌市监局已介入高校食堂老鼠事件",
@@ -235,20 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203178,
-      "num": 203178,
-      "word": "苹果出头显你会买吗",
-      "onboard_time": 1685985079,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 201299,
       "num": 201299,
       "word": "肖春生 肖春卷",
       "onboard_time": 1685976751,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201021,
+      "num": 201021,
+      "word": "死亡搁浅将登陆Mac",
+      "onboard_time": 1685987834,
+      "rank": 7,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 196301,
@@ -339,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154292,
+      "num": 154292,
+      "word": "15寸的MacBook Air",
+      "onboard_time": 1685985739,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 153608,
       "num": 153608,
       "word": "SMTOWN曾用EXO威胁边伯贤",
       "onboard_time": 1685963006,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152989,
+      "num": 152989,
+      "word": "小岛秀夫 苹果发布会",
+      "onboard_time": 1685988135,
+      "rank": 12,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 152074,
@@ -371,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134585,
+      "num": 134585,
+      "word": "NameDrop 小天才碰碰交友",
+      "onboard_time": 1685986576,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "三分野",
@@ -393,14 +433,6 @@
       "onboard_time": 1685974230,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130562,
-      "num": 130562,
-      "word": "15寸的MacBook Air",
-      "onboard_time": 1685985739,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 126493,
@@ -451,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 109495,
+      "num": 109495,
+      "word": "M2 Ultra 性能猛兽",
+      "onboard_time": 1685987117,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 104427,
       "num": 104427,
       "word": "女频和男频最大的区别之一",
@@ -472,6 +512,22 @@
       "word": "WWDC2023",
       "onboard_time": 1685985856,
       "rank": 32,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 70086,
+      "num": 70086,
+      "word": "WWDC",
+      "onboard_time": 1685987295,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 51067,
+      "num": 51067,
+      "word": "新MacOS Sonoma",
+      "onboard_time": 1685988376,
+      "rank": 39,
       "category": "科技"
     },
     {
