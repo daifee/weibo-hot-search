@@ -1,7 +1,15 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685936010033,
+  "endTime": 1685938803827,
   "band_list": [
+    {
+      "raw_hot": 2545357,
+      "num": 2545357,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2490475,
       "num": 2490475,
@@ -9,6 +17,14 @@
       "onboard_time": 1685924669,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2085497,
+      "num": 1175763,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1760114,
@@ -27,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1662248,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1592709,
       "num": 242302,
       "word": "蔡徐坤妈妈",
@@ -43,28 +67,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1478788,
-      "num": 1175763,
-      "word": "鼠鼠我鸭",
-      "onboard_time": 1685932167,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1449531,
-      "num": 1449531,
-      "word": "珠峰被救女子不愿支付全部救援费用",
-      "onboard_time": 1685933429,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1377176,
-      "num": 1057663,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
+      "raw_hot": 1525294,
+      "num": 1525294,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 1294356,
@@ -91,11 +99,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118785,
+      "num": 1118785,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1685921783,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1109152,
       "num": 603964,
       "word": "国内出现偏肺病毒感染",
       "onboard_time": 1685875344,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095859,
+      "num": 1095859,
+      "word": "奖励多少你会考虑多生孩子",
+      "onboard_time": 1685935831,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -107,20 +131,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 959788,
-      "num": 959788,
+      "raw_hot": 1009262,
+      "num": 1009262,
       "word": "高铁站台为什么不能打伞",
       "onboard_time": 1685931088,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933903,
-      "num": 933903,
-      "word": "于正新剧又是双女主",
-      "onboard_time": 1685934030,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 925237,
@@ -148,19 +164,11 @@
     },
     {
       "raw_hot": 790406,
-      "num": 406709,
+      "num": 421812,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 772559,
-      "num": 772559,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1685921783,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 751828,
@@ -169,6 +177,14 @@
       "onboard_time": 1685886333,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720465,
+      "num": 720465,
+      "word": "郑秀妍Amber合体",
+      "onboard_time": 1685934869,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 713806,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596321,
+      "num": 596321,
+      "word": "黄旭熙是救了李成洙的命吗",
+      "onboard_time": 1685936910,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593819,
       "num": 593819,
       "word": "五月天沈阳",
@@ -219,12 +243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 570293,
-      "num": 570293,
-      "word": "郑秀妍Amber合体",
-      "onboard_time": 1685934869,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 548198,
+      "num": 548198,
+      "word": "汕头一快餐店煤气爆炸致1死6伤",
+      "onboard_time": 1685936790,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519162,
@@ -233,6 +257,14 @@
       "onboard_time": 1685928387,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 498870,
+      "num": 498870,
+      "word": "吴磊从新疆带馕送给粉丝",
+      "onboard_time": 1685934929,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 494991,
@@ -251,12 +283,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 461736,
+      "num": 420413,
+      "word": "女子反问男友8年感情竟不值38万",
+      "onboard_time": 1685937630,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453090,
       "num": 453090,
       "word": "欧阳夏丹",
       "onboard_time": 1685931026,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446708,
+      "num": 446708,
+      "word": "车瑞元要结婚了",
+      "onboard_time": 1685935348,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 446123,
@@ -273,6 +321,14 @@
       "onboard_time": 1685932527,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 429007,
+      "num": 429007,
+      "word": "成毅虞书欣一年级同框照",
+      "onboard_time": 1685937151,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 424870,
@@ -315,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395483,
-      "num": 395483,
-      "word": "吴磊从新疆带馕送给粉丝",
-      "onboard_time": 1685934929,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389779,
       "num": 360435,
       "word": "给自己的鼻子纹了两颗痣",
@@ -337,6 +385,14 @@
       "onboard_time": 1685884349,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385691,
+      "num": 385691,
+      "word": "朱正廷的脸怎么了",
+      "onboard_time": 1685937570,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 373080,
@@ -427,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325443,
-      "num": 325443,
-      "word": "车瑞元要结婚了",
-      "onboard_time": 1685935348,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 328436,
+      "num": 328436,
+      "word": "the idol",
+      "onboard_time": 1685934929,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 314158,
@@ -448,6 +504,14 @@
       "word": "王祖贤齐秦庾澄庆早期合照",
       "onboard_time": 1685925090,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295827,
+      "num": 295827,
+      "word": "徐明浩说干了8年舞台不如搞笑出圈",
+      "onboard_time": 1685935653,
+      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -505,6 +569,14 @@
       "onboard_time": 1685921963,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 251818,
+      "num": 251818,
+      "word": "最痛苦的其实是周二",
+      "onboard_time": 1685937090,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 248238,
@@ -579,6 +651,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 218691,
+      "num": 218691,
+      "word": "偏头痛",
+      "onboard_time": 1685934451,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217842,
+      "num": 217842,
+      "word": "代号鸢",
+      "onboard_time": 1685937511,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215762,
       "num": 215762,
       "word": "湖南一村厕改后村民还要挑水冲厕所",
@@ -587,20 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214871,
-      "num": 214871,
-      "word": "the idol",
-      "onboard_time": 1685934929,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207707,
-      "num": 207707,
-      "word": "徐明浩说干了8年舞台不如搞笑出圈",
-      "onboard_time": 1685935653,
+      "raw_hot": 205527,
+      "num": 205527,
+      "word": "鞠婧祎凤凰造型反差",
+      "onboard_time": 1685938534,
       "rank": 38,
-      "category": "作品衍生"
+      "category": "影视"
     },
     {
       "raw_hot": 201469,
@@ -627,12 +707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191734,
-      "num": 191734,
-      "word": "偏头痛",
-      "onboard_time": 1685934451,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 189453,
+      "num": 189453,
+      "word": "肖春生发量",
+      "onboard_time": 1685936130,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 187189,
@@ -651,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182828,
+      "num": 182828,
+      "word": "90后的三十岁",
+      "onboard_time": 1685938470,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178834,
+      "num": 178834,
+      "word": "老师攒高三生2千空笔芯做梦想之舟",
+      "onboard_time": 1685936011,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 177948,
       "num": 177948,
       "word": "爆剧最多的女演员",
@@ -659,12 +755,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177490,
+      "num": 177490,
+      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+      "onboard_time": 1685938775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177455,
       "num": 177455,
       "word": "长月烬明里究竟谁扛剧",
       "onboard_time": 1685921302,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177231,
+      "num": 177231,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175754,
@@ -681,6 +793,14 @@
       "onboard_time": 1685883328,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173802,
+      "num": 173802,
+      "word": "为什么父辈能存到钱",
+      "onboard_time": 1685938413,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 173053,
@@ -737,14 +857,6 @@
       "onboard_time": 1685882909,
       "rank": 32,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 164343,
-      "num": 164343,
-      "word": "奖励多少你会考虑多生孩子",
-      "onboard_time": 1685935831,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163794,
