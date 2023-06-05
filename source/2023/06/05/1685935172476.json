@@ -1,0 +1,410 @@
+{
+  "runTime": 1685935172476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1470892,
+        "num": 1470892,
+        "word": "黄旭熙 泡泡",
+        "onboard_time": 1685933189,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1355389,
+        "num": 1355389,
+        "word": "杨紫工作室P图不P镜子",
+        "onboard_time": 1685924669,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158754,
+        "num": 1296537,
+        "word": "距2023高考还有2天",
+        "onboard_time": 1685932287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277714,
+        "num": 1277714,
+        "word": "shanji",
+        "onboard_time": 1685929407,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1175763,
+        "num": 1175763,
+        "word": "鼠鼠我鸭",
+        "onboard_time": 1685932167,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014865,
+        "num": 1014865,
+        "word": "无意识刷手机的危害有多大",
+        "onboard_time": 1685922685,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 948447,
+        "num": 948447,
+        "word": "高铁站台为什么不能打伞",
+        "onboard_time": 1685931088,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870890,
+        "num": 870890,
+        "word": "珠峰被救女子不愿支付全部救援费用",
+        "onboard_time": 1685933429,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744577,
+        "num": 744577,
+        "word": "章若楠观众缘",
+        "onboard_time": 1685925808,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 713806,
+        "num": 713806,
+        "word": "芝芙是越南版这就是街舞的队长",
+        "onboard_time": 1685931628,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1353095,
+        "num": 707749,
+        "word": "涉事学校曾因老鼠事件被联合执法",
+        "onboard_time": 1685927607,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 685850,
+        "num": 685850,
+        "word": "教育部发布2023高考预警",
+        "onboard_time": 1685886333,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604517,
+        "num": 604517,
+        "word": "薛之谦毛不易官宣音综",
+        "onboard_time": 1685933067,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535007,
+        "num": 535007,
+        "word": "男子连吃100天麦当劳减重53斤",
+        "onboard_time": 1685893707,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 495252,
+        "num": 495252,
+        "word": "汤晶媚任敏我们和好啦",
+        "onboard_time": 1685891491,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473874,
+        "num": 473874,
+        "word": "于正新剧又是双女主",
+        "onboard_time": 1685934030,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400141,
+        "num": 400141,
+        "word": "日本女团成员灌男粉喝洗洁精",
+        "onboard_time": 1685920400,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394157,
+        "num": 394157,
+        "word": "重庆防空警报",
+        "onboard_time": 1685933128,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382164,
+        "num": 382164,
+        "word": "王一博官宣2023微博电影之夜",
+        "onboard_time": 1685929945,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381381,
+        "num": 381381,
+        "word": "淄博张店烧烤倡议高考停业三天",
+        "onboard_time": 1685932527,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 550061,
+        "num": 379641,
+        "word": "长期喝粥会让胃越来越脆弱",
+        "onboard_time": 1685923767,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371625,
+        "num": 371625,
+        "word": "五月天沈阳",
+        "onboard_time": 1685930548,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367339,
+        "num": 367339,
+        "word": "热火 掘金",
+        "onboard_time": 1685928387,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358304,
+        "num": 358304,
+        "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
+        "onboard_time": 1685931328,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350724,
+        "num": 350724,
+        "word": "宋雨琦奔跑吧12期只录了4期",
+        "onboard_time": 1685883630,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346722,
+        "num": 346722,
+        "word": "做拔智齿手术要提前录个音",
+        "onboard_time": 1685920581,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 344440,
+        "num": 344440,
+        "word": "印度耗资百亿卢比的大桥又塌了",
+        "onboard_time": 1685932407,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336518,
+        "num": 336518,
+        "word": "肖春生被捅时我的心情",
+        "onboard_time": 1685933609,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317291,
+        "num": 317291,
+        "word": "给自己的鼻子纹了两颗痣",
+        "onboard_time": 1685931867,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314293,
+        "num": 314293,
+        "word": "喂119吗我是需要帮忙抓蛇的110",
+        "onboard_time": 1685930246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283916,
+        "num": 283916,
+        "word": "郑秀妍Amber合体",
+        "onboard_time": 1685934869,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255189,
+        "num": 255189,
+        "word": "88斤女生穿不进去S码牛仔裙",
+        "onboard_time": 1685889153,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227711,
+        "num": 227711,
+        "word": "与易烊千玺的十年",
+        "onboard_time": 1685932708,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225188,
+        "num": 225188,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685882550,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223111,
+        "num": 223111,
+        "word": "网友评选95生三大神颜",
+        "onboard_time": 1685926410,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221235,
+        "num": 221235,
+        "word": "热火1比1掘金",
+        "onboard_time": 1685933249,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215656,
+        "num": 215656,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1685921783,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206908,
+        "num": 206908,
+        "word": "微雨燕双飞",
+        "onboard_time": 1685933970,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203340,
+        "num": 203340,
+        "word": "后天高考",
+        "onboard_time": 1685921963,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 193483,
+        "num": 193483,
+        "word": "锁爱三生",
+        "onboard_time": 1685934748,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186466,
+        "num": 186466,
+        "word": "the idol",
+        "onboard_time": 1685934929,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181889,
+        "num": 181889,
+        "word": "杨紫 唯一纯白茉莉花",
+        "onboard_time": 1685883570,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181742,
+        "num": 181742,
+        "word": "吴磊从新疆带馕送给粉丝",
+        "onboard_time": 1685934929,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178954,
+        "num": 178954,
+        "word": "真的很难被别人PUA",
+        "onboard_time": 1685922085,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 172743,
+        "num": 172743,
+        "word": "偏头痛",
+        "onboard_time": 1685934451,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171610,
+        "num": 171610,
+        "word": "王祖贤齐秦庾澄庆早期合照",
+        "onboard_time": 1685925090,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171417,
+        "num": 171417,
+        "word": "约基奇41分",
+        "onboard_time": 1685934628,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168145,
+        "num": 168145,
+        "word": "人在医院能无知到什么地步",
+        "onboard_time": 1685928328,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156555,
+        "num": 156555,
+        "word": "今起学生票可实现网上核验",
+        "onboard_time": 1685926649,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155650,
+        "num": 155650,
+        "word": "王鹤棣到底在捞什么",
+        "onboard_time": 1685928867,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起保护好传承好历史文化#"
+    }
+  }
+}

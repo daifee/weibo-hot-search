@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685934043876,
+  "endTime": 1685935172476,
   "band_list": [
     {
       "raw_hot": 2490475,
@@ -35,6 +35,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1470892,
+      "num": 1470892,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1353095,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1294356,
       "num": 1294356,
       "word": "88斤女生穿不进去S码牛仔裙",
@@ -43,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1267543,
-      "num": 1057663,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
+      "raw_hot": 1277714,
+      "num": 1277714,
+      "word": "shanji",
+      "onboard_time": 1685929407,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 1203733,
@@ -56,6 +72,14 @@
       "word": "海霞欧阳夏丹已不再任央视主持人",
       "onboard_time": 1685927488,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175763,
+      "num": 1175763,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -67,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107393,
-      "num": 1107393,
-      "word": "shanji",
-      "onboard_time": 1685929407,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1040052,
       "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 948447,
+      "num": 948447,
+      "word": "高铁站台为什么不能打伞",
+      "onboard_time": 1685931088,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925237,
@@ -91,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 857955,
-      "num": 857955,
-      "word": "高铁站台为什么不能打伞",
-      "onboard_time": 1685931088,
-      "rank": 5,
+      "raw_hot": 870890,
+      "num": 870890,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 790406,
-      "num": 361630,
+      "num": 379641,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713806,
+      "num": 713806,
+      "word": "芝芙是越南版这就是街舞的队长",
+      "onboard_time": 1685931628,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708025,
       "num": 708025,
       "word": "汤晶媚任敏我们和好啦",
@@ -155,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619165,
-      "num": 619165,
-      "word": "鼠鼠我鸭",
-      "onboard_time": 1685932167,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 604517,
+      "num": 604517,
+      "word": "薛之谦毛不易官宣音综",
+      "onboard_time": 1685933067,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 604349,
@@ -187,12 +219,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 486954,
-      "num": 486954,
-      "word": "黄旭熙 泡泡",
-      "onboard_time": 1685933189,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 473874,
+      "num": 473874,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 468233,
@@ -267,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381381,
+      "num": 381381,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 373080,
       "num": 293452,
       "word": "王鹤棣孟子义不考虑合作现偶吗",
       "onboard_time": 1685888971,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371625,
+      "num": 371625,
+      "word": "五月天沈阳",
+      "onboard_time": 1685930548,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 369191,
@@ -299,28 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358210,
-      "num": 358210,
-      "word": "芝芙是越南版这就是街舞的队长",
-      "onboard_time": 1685931628,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354421,
       "num": 354421,
       "word": "马斯克亲测减肥神药要来了",
       "onboard_time": 1685923767,
       "rank": 16,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 354338,
-      "num": 354338,
-      "word": "淄博张店烧烤倡议高考停业三天",
-      "onboard_time": 1685932527,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 352922,
@@ -355,6 +387,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 344440,
+      "num": 344440,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343696,
       "num": 252655,
       "word": "宋茜做错了什么",
@@ -363,20 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338897,
-      "num": 338897,
-      "word": "薛之谦毛不易官宣音综",
-      "onboard_time": 1685933067,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 321810,
-      "num": 321810,
-      "word": "印度耗资百亿卢比的大桥又塌了",
-      "onboard_time": 1685932407,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 336518,
+      "num": 336518,
+      "word": "肖春生被捅时我的心情",
+      "onboard_time": 1685933609,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 314158,
@@ -395,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 292122,
-      "num": 292122,
-      "word": "五月天沈阳",
-      "onboard_time": 1685930548,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 289522,
       "num": 289522,
       "word": "大熊猫因为偷吃被叫食铁兽",
@@ -419,28 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283916,
+      "num": 283916,
+      "word": "郑秀妍Amber合体",
+      "onboard_time": 1685934869,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "只有宋茜一个人受伤的世界达成了",
       "onboard_time": 1685927728,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273829,
-      "num": 273829,
-      "word": "珠峰被救女子不愿支付全部救援费用",
-      "onboard_time": 1685933429,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270815,
-      "num": 270815,
-      "word": "肖春生被捅时我的心情",
-      "onboard_time": 1685933609,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 269483,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193483,
+      "num": 193483,
+      "word": "锁爱三生",
+      "onboard_time": 1685934748,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187189,
       "num": 187189,
       "word": "NBA",
@@ -579,12 +603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186466,
+      "num": 186466,
+      "word": "the idol",
+      "onboard_time": 1685934929,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185594,
       "num": 185594,
       "word": "高考临近阿姨们在夜店里跳广场舞",
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181742,
+      "num": 181742,
+      "word": "吴磊从新疆带馕送给粉丝",
+      "onboard_time": 1685934929,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 177948,
@@ -627,12 +667,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172988,
-      "num": 172988,
-      "word": "于正新剧又是双女主",
-      "onboard_time": 1685934030,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "偏头痛",
+      "onboard_time": 1685934451,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171417,
+      "num": 171417,
+      "word": "约基奇41分",
+      "onboard_time": 1685934628,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 170640,
@@ -689,6 +737,14 @@
       "onboard_time": 1685890353,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158754,
+      "num": 1296537,
+      "word": "距2023高考还有2天",
+      "onboard_time": 1685932287,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157460,
@@ -753,14 +809,6 @@
       "onboard_time": 1685924128,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142599,
-      "num": 1256761,
-      "word": "距2023高考还有2天",
-      "onboard_time": 1685932287,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132407,

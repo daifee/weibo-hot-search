@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685934043876,
+  "endTime": 1685935172476,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1470892,
+      "num": 1470892,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1456021,
       "num": 585121,
       "word": "生日快乐啊小朋友",
@@ -651,6 +659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1353095,
+      "num": 1057663,
+      "word": "涉事学校曾因老鼠事件被联合执法",
+      "onboard_time": 1685927607,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1333960,
       "num": 553485,
       "word": "李念官宣生三胎",
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1277714,
+      "num": 1277714,
+      "word": "shanji",
+      "onboard_time": 1685929407,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1277272,
       "num": 2672724,
       "word": "老伴走后第二天浙大老教师又去捡垃圾了",
@@ -761,14 +785,6 @@
       "onboard_time": 1685664687,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1267543,
-      "num": 1057663,
-      "word": "涉事学校曾因老鼠事件被联合执法",
-      "onboard_time": 1685927607,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1267506,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1175763,
+      "num": 1175763,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175741,
       "num": 1175741,
       "word": "张艺兴 抢票",
@@ -993,14 +1017,6 @@
       "onboard_time": 1685854348,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1107393,
-      "num": 1107393,
-      "word": "shanji",
-      "onboard_time": 1685929407,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 1105584,
@@ -1171,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948447,
+      "num": 948447,
+      "word": "高铁站台为什么不能打伞",
+      "onboard_time": 1685931088,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -1259,11 +1283,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 857955,
-      "num": 857955,
-      "word": "高铁站台为什么不能打伞",
-      "onboard_time": 1685931088,
-      "rank": 5,
+      "raw_hot": 870890,
+      "num": 870890,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 790406,
-      "num": 361630,
+      "num": 379641,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1685794707,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 713806,
+      "num": 713806,
+      "word": "芝芙是越南版这就是街舞的队长",
+      "onboard_time": 1685931628,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 710463,
@@ -1827,14 +1859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619165,
-      "num": 619165,
-      "word": "鼠鼠我鸭",
-      "onboard_time": 1685932167,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 615740,
       "num": 545703,
       "word": "肖战王一博同款衬衣",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1685801067,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 604517,
+      "num": 604517,
+      "word": "薛之谦毛不易官宣音综",
+      "onboard_time": 1685933067,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 603842,
@@ -2355,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486954,
-      "num": 486954,
-      "word": "黄旭熙 泡泡",
-      "onboard_time": 1685933189,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486474,
       "num": 486474,
       "word": "NCT团站休站",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1685806172,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 473874,
+      "num": 473874,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 473764,
@@ -3099,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381381,
+      "num": 381381,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 380809,
       "num": 303265,
       "word": "为什么反对男艺人过度撸铁",
@@ -3203,6 +3243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 371625,
+      "num": 371625,
+      "word": "五月天沈阳",
+      "onboard_time": 1685930548,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 369191,
       "num": 369191,
       "word": "网友评选95生三大神颜",
@@ -3299,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358210,
-      "num": 358210,
-      "word": "芝芙是越南版这就是街舞的队长",
-      "onboard_time": 1685931628,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357627,
       "num": 357627,
       "word": "隐翅虫",
@@ -3345,14 +3385,6 @@
       "onboard_time": 1685923767,
       "rank": 16,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 354338,
-      "num": 354338,
-      "word": "淄博张店烧烤倡议高考停业三天",
-      "onboard_time": 1685932527,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 353898,
@@ -3475,6 +3507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344440,
+      "num": 344440,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343839,
       "num": 343839,
       "word": "迪丽热巴解释形只影单",
@@ -3539,14 +3579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338897,
-      "num": 338897,
-      "word": "薛之谦毛不易官宣音综",
-      "onboard_time": 1685933067,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338796,
       "num": 338796,
       "word": "花戎",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1685844747,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336518,
+      "num": 336518,
+      "word": "肖春生被捅时我的心情",
+      "onboard_time": 1685933609,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 336260,
@@ -3809,14 +3849,6 @@
       "onboard_time": 1685786427,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 321810,
-      "num": 321810,
-      "word": "印度耗资百亿卢比的大桥又塌了",
-      "onboard_time": 1685932407,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321734,
@@ -4251,14 +4283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292122,
-      "num": 292122,
-      "word": "五月天沈阳",
-      "onboard_time": 1685930548,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 290484,
       "num": 290484,
       "word": "紫幻TTG",
@@ -4467,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283916,
+      "num": 283916,
+      "word": "郑秀妍Amber合体",
+      "onboard_time": 1685934869,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283400,
       "num": 421046,
       "word": "拼多多补贴力度不像是演的",
@@ -4651,14 +4683,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 273829,
-      "num": 273829,
-      "word": "珠峰被救女子不愿支付全部救援费用",
-      "onboard_time": 1685933429,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273283,
       "num": 273283,
       "word": "aespa和LESSERAFIM完全相反的食性",
@@ -4705,14 +4729,6 @@
       "onboard_time": 1685633010,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270815,
-      "num": 270815,
-      "word": "肖春生被捅时我的心情",
-      "onboard_time": 1685933609,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 270321,
@@ -6691,6 +6707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193483,
+      "num": 193483,
+      "word": "锁爱三生",
+      "onboard_time": 1685934748,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "香港顶流翻跳flower",
@@ -7019,6 +7043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186466,
+      "num": 186466,
+      "word": "the idol",
+      "onboard_time": 1685934929,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186249,
       "num": 186249,
       "word": "宁静即兴表演好牛",
@@ -7217,6 +7249,14 @@
       "onboard_time": 1685672907,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181742,
+      "num": 181742,
+      "word": "吴磊从新疆带馕送给粉丝",
+      "onboard_time": 1685934929,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 181375,
@@ -7419,14 +7459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172988,
-      "num": 172988,
-      "word": "于正新剧又是双女主",
-      "onboard_time": 1685934030,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172903,
       "num": 172903,
       "word": "请张彬彬不要随意解衬衫",
@@ -7441,6 +7473,14 @@
       "onboard_time": 1685607926,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "偏头痛",
+      "onboard_time": 1685934451,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172278,
@@ -7465,6 +7505,14 @@
       "onboard_time": 1685547389,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 171417,
+      "num": 171417,
+      "word": "约基奇41分",
+      "onboard_time": 1685934628,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 171231,
@@ -7865,6 +7913,14 @@
       "onboard_time": 1685753549,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158754,
+      "num": 1296537,
+      "word": "距2023高考还有2天",
+      "onboard_time": 1685932287,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158670,
@@ -8336,14 +8392,6 @@
       "word": "618有没有作业借我抄抄",
       "onboard_time": 1685703214,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142599,
-      "num": 1256761,
-      "word": "距2023高考还有2天",
-      "onboard_time": 1685932287,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
