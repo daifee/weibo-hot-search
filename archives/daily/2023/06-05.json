@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685933549613,
+  "endTime": 1685934043876,
   "band_list": [
     {
       "raw_hot": 2490475,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107393,
+      "num": 1107393,
+      "word": "shanji",
+      "onboard_time": 1685929407,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1040052,
       "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 979739,
-      "num": 979739,
-      "word": "shanji",
-      "onboard_time": 1685929407,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 925237,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 790406,
-      "num": 342659,
+      "num": 361630,
       "word": "长期喝粥会让胃越来越脆弱",
       "onboard_time": 1685923767,
       "rank": 20,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619165,
+      "num": 619165,
+      "word": "鼠鼠我鸭",
+      "onboard_time": 1685932167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604349,
       "num": 604349,
       "word": "宋雨琦奔跑吧12期只录了4期",
@@ -177,6 +185,14 @@
       "onboard_time": 1685889394,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 486954,
+      "num": 486954,
+      "word": "黄旭熙 泡泡",
+      "onboard_time": 1685933189,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 468233,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 389779,
-      "num": 342142,
+      "num": 360435,
       "word": "给自己的鼻子纹了两颗痣",
       "onboard_time": 1685931867,
       "rank": 21,
@@ -267,20 +283,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 367151,
-      "num": 367151,
-      "word": "鼠鼠我鸭",
-      "onboard_time": 1685932167,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362989,
       "num": 271671,
       "word": "林一文俊辉约饭",
       "onboard_time": 1685892090,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362634,
+      "num": 362634,
+      "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
+      "onboard_time": 1685931328,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358210,
@@ -297,6 +313,14 @@
       "onboard_time": 1685923767,
       "rank": 16,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 354338,
+      "num": 354338,
+      "word": "淄博张店烧烤倡议高考停业三天",
+      "onboard_time": 1685932527,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 352922,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 351741,
-      "num": 341768,
+      "num": 344299,
       "word": "喂119吗我是需要帮忙抓蛇的110",
       "onboard_time": 1685930246,
       "rank": 21,
@@ -347,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321810,
+      "num": 321810,
+      "word": "印度耗资百亿卢比的大桥又塌了",
+      "onboard_time": 1685932407,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
       "onboard_time": 1685922085,
       "rank": 17,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 299965,
-      "num": 299965,
-      "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
-      "onboard_time": 1685931328,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298999,
@@ -371,12 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290018,
-      "num": 290018,
-      "word": "黄旭熙 泡泡",
-      "onboard_time": 1685933189,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 292122,
+      "num": 292122,
+      "word": "五月天沈阳",
+      "onboard_time": 1685930548,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 289522,
@@ -385,14 +409,6 @@
       "onboard_time": 1685924308,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287669,
-      "num": 287669,
-      "word": "淄博张店烧烤倡议高考停业三天",
-      "onboard_time": 1685932527,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 286381,
@@ -411,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273329,
-      "num": 273329,
-      "word": "印度耗资百亿卢比的大桥又塌了",
-      "onboard_time": 1685932407,
-      "rank": 30,
+      "raw_hot": 273829,
+      "num": 273829,
+      "word": "珠峰被救女子不愿支付全部救援费用",
+      "onboard_time": 1685933429,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270815,
+      "num": 270815,
+      "word": "肖春生被捅时我的心情",
+      "onboard_time": 1685933609,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 269483,
@@ -433,6 +457,14 @@
       "onboard_time": 1685920521,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259379,
+      "num": 259379,
+      "word": "微雨燕双飞",
+      "onboard_time": 1685933970,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 256961,
@@ -475,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237929,
+      "num": 237929,
+      "word": "与易烊千玺的十年",
+      "onboard_time": 1685932708,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237348,
       "num": 237348,
       "word": "白桃星座",
@@ -489,6 +529,14 @@
       "onboard_time": 1685888131,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225334,
+      "num": 225334,
+      "word": "热火1比1掘金",
+      "onboard_time": 1685933249,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 222299,
@@ -507,32 +555,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211395,
-      "num": 211395,
-      "word": "与易烊千玺的十年",
-      "onboard_time": 1685932708,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200988,
-      "num": 200988,
-      "word": "热火1比1掘金",
-      "onboard_time": 1685933249,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197910,
-      "num": 197910,
+      "raw_hot": 201469,
+      "num": 201469,
       "word": "三分野",
       "onboard_time": 1685928685,
       "rank": 36,
       "category": "影视"
     },
     {
-      "raw_hot": 196776,
-      "num": 196776,
+      "raw_hot": 200628,
+      "num": 200628,
       "word": "重庆6月5日进行防控警报试鸣放",
       "onboard_time": 1685933128,
       "rank": 42,
@@ -587,6 +619,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173053,
+      "num": 173053,
+      "word": "广东早教益智游戏",
+      "onboard_time": 1685933489,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172988,
+      "num": 172988,
+      "word": "于正新剧又是双女主",
+      "onboard_time": 1685934030,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170640,
       "num": 162229,
       "word": "Jennie巡演神图",
@@ -601,14 +649,6 @@
       "onboard_time": 1685931026,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 168440,
-      "num": 168440,
-      "word": "珠峰被救女子不愿支付全部救援费用",
-      "onboard_time": 1685933429,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167814,
@@ -657,14 +697,6 @@
       "onboard_time": 1685890052,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154106,
-      "num": 154106,
-      "word": "广东早教益智游戏",
-      "onboard_time": 1685933489,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 153551,
@@ -785,14 +817,6 @@
       "onboard_time": 1685921241,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125947,
-      "num": 125947,
-      "word": "五月天沈阳",
-      "onboard_time": 1685930548,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 124977,
@@ -1041,6 +1065,9 @@
     },
     {
       "word": "#一起保护好传承好历史文化#"
+    },
+    {
+      "word": "#今天世界环境日#"
     }
   ]
 }

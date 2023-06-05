@@ -1,0 +1,410 @@
+{
+  "runTime": 1685934043876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1423909,
+        "num": 1423909,
+        "word": "无意识刷手机的危害有多大",
+        "onboard_time": 1685922685,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1336782,
+        "num": 1336782,
+        "word": "杨紫工作室P图不P镜子",
+        "onboard_time": 1685924669,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122135,
+        "num": 1191270,
+        "word": "距2023高考还有2天",
+        "onboard_time": 1685932287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108923,
+        "num": 1108923,
+        "word": "海霞欧阳夏丹已不再任央视主持人",
+        "onboard_time": 1685927488,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107393,
+        "num": 1107393,
+        "word": "shanji",
+        "onboard_time": 1685929407,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 846701,
+        "num": 846701,
+        "word": "高铁站台为什么不能打伞",
+        "onboard_time": 1685931088,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720328,
+        "num": 720328,
+        "word": "章若楠观众缘",
+        "onboard_time": 1685925808,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659805,
+        "num": 659805,
+        "word": "重庆防空警报",
+        "onboard_time": 1685933128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619646,
+        "num": 619646,
+        "word": "日本女团成员灌男粉喝洗洁精",
+        "onboard_time": 1685920400,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619165,
+        "num": 619165,
+        "word": "鼠鼠我鸭",
+        "onboard_time": 1685932167,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185897,
+        "num": 608315,
+        "word": "涉事学校曾因老鼠事件被联合执法",
+        "onboard_time": 1685927607,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 596685,
+        "num": 596685,
+        "word": "教育部发布2023高考预警",
+        "onboard_time": 1685886333,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565760,
+        "num": 565760,
+        "word": "男子连吃100天麦当劳减重53斤",
+        "onboard_time": 1685893707,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 508788,
+        "num": 508788,
+        "word": "汤晶媚任敏我们和好啦",
+        "onboard_time": 1685891491,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507556,
+        "num": 507556,
+        "word": "做拔智齿手术要提前录个音",
+        "onboard_time": 1685920581,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 486954,
+        "num": 486954,
+        "word": "黄旭熙 泡泡",
+        "onboard_time": 1685933189,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477845,
+        "num": 477845,
+        "word": "热火 掘金",
+        "onboard_time": 1685928387,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406278,
+        "num": 406278,
+        "word": "欧阳夏丹",
+        "onboard_time": 1685931026,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379752,
+        "num": 379752,
+        "word": "王一博官宣2023微博电影之夜",
+        "onboard_time": 1685929945,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362634,
+        "num": 362634,
+        "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
+        "onboard_time": 1685931328,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614097,
+        "num": 361630,
+        "word": "长期喝粥会让胃越来越脆弱",
+        "onboard_time": 1685923767,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375026,
+        "num": 360435,
+        "word": "给自己的鼻子纹了两颗痣",
+        "onboard_time": 1685931867,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358317,
+        "num": 358317,
+        "word": "宋雨琦奔跑吧12期只录了4期",
+        "onboard_time": 1685883630,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354338,
+        "num": 354338,
+        "word": "淄博张店烧烤倡议高考停业三天",
+        "onboard_time": 1685932527,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 344299,
+        "num": 344299,
+        "word": "喂119吗我是需要帮忙抓蛇的110",
+        "onboard_time": 1685930246,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321810,
+        "num": 321810,
+        "word": "印度耗资百亿卢比的大桥又塌了",
+        "onboard_time": 1685932407,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312468,
+        "num": 312468,
+        "word": "薛之谦毛不易官宣音综",
+        "onboard_time": 1685933067,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299805,
+        "num": 299805,
+        "word": "88斤女生穿不进去S码牛仔裙",
+        "onboard_time": 1685889153,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292122,
+        "num": 292122,
+        "word": "五月天沈阳",
+        "onboard_time": 1685930548,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290755,
+        "num": 290755,
+        "word": "芝芙是越南版这就是街舞的队长",
+        "onboard_time": 1685931628,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278079,
+        "num": 278079,
+        "word": "网友评选95生三大神颜",
+        "onboard_time": 1685926410,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273829,
+        "num": 273829,
+        "word": "珠峰被救女子不愿支付全部救援费用",
+        "onboard_time": 1685933429,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270815,
+        "num": 270815,
+        "word": "肖春生被捅时我的心情",
+        "onboard_time": 1685933609,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259379,
+        "num": 259379,
+        "word": "微雨燕双飞",
+        "onboard_time": 1685933970,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250597,
+        "num": 250597,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1685921783,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237929,
+        "num": 237929,
+        "word": "与易烊千玺的十年",
+        "onboard_time": 1685932708,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228411,
+        "num": 228411,
+        "word": "全世界都在等你们分手",
+        "onboard_time": 1685882550,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225334,
+        "num": 225334,
+        "word": "热火1比1掘金",
+        "onboard_time": 1685933249,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214971,
+        "num": 214971,
+        "word": "后天高考",
+        "onboard_time": 1685921963,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201469,
+        "num": 201469,
+        "word": "三分野",
+        "onboard_time": 1685928685,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200628,
+        "num": 200628,
+        "word": "重庆6月5日进行防控警报试鸣放",
+        "onboard_time": 1685933128,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194674,
+        "num": 194674,
+        "word": "杨紫 唯一纯白茉莉花",
+        "onboard_time": 1685883570,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190710,
+        "num": 190710,
+        "word": "王鹤棣到底在捞什么",
+        "onboard_time": 1685928867,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189548,
+        "num": 189548,
+        "word": "人在医院能无知到什么地步",
+        "onboard_time": 1685928328,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187101,
+        "num": 187101,
+        "word": "只有宋茜一个人受伤的世界达成了",
+        "onboard_time": 1685927728,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185379,
+        "num": 185379,
+        "word": "真的很难被别人PUA",
+        "onboard_time": 1685922085,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 178744,
+        "num": 178744,
+        "word": "王祖贤齐秦庾澄庆早期合照",
+        "onboard_time": 1685925090,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177922,
+        "num": 177922,
+        "word": "今起学生票可实现网上核验",
+        "onboard_time": 1685926649,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173053,
+        "num": 173053,
+        "word": "广东早教益智游戏",
+        "onboard_time": 1685933489,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172988,
+        "num": 172988,
+        "word": "于正新剧又是双女主",
+        "onboard_time": 1685934030,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天世界环境日#"
+    }
+  }
+}
