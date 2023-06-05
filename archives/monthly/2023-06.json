@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685964818293,
+  "endTime": 1685968648494,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 1679736,
-      "num": 1050997,
+      "num": 1251652,
       "word": "孙怡对汤晶媚说你不要在这道德绑架我",
       "onboard_time": 1685959708,
       "rank": 30,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1425839,
+      "num": 1425839,
+      "word": "难怪白鹿许凯不帮于正新剧宣传",
+      "onboard_time": 1685961985,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1424602,
       "num": 1424602,
       "word": "女儿在爸爸朋友圈发长文拜托别劝酒",
@@ -921,6 +929,14 @@
       "onboard_time": 1685536526,
       "rank": 1,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1264827,
+      "num": 1264827,
+      "word": "海天品牌回应蚝油内疑发现生蚝",
+      "onboard_time": 1685965046,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1255756,
@@ -1723,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750226,
+      "num": 750226,
+      "word": "娜扎七年前生图",
+      "onboard_time": 1685964207,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726387,
       "num": 1615343,
       "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
@@ -2059,20 +2083,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 625079,
-      "num": 531616,
-      "word": "难怪白鹿许凯不帮于正新剧宣传",
-      "onboard_time": 1685961985,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 623850,
       "num": 360863,
       "word": "肖战王一博同款表情演技",
       "onboard_time": 1685707591,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 622841,
+      "num": 373327,
+      "word": "张小狮说愿意归还所有资助",
+      "onboard_time": 1685965706,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 622045,
@@ -3099,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424913,
+      "num": 424913,
+      "word": "南昌市监局已介入高校食堂老鼠事件",
+      "onboard_time": 1685967387,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 424870,
       "num": 341264,
       "word": "狗头萝莉摊煎饼",
@@ -3705,6 +3737,14 @@
       "onboard_time": 1685845886,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362782,
+      "num": 362782,
+      "word": "女频和男频最大的区别之一",
+      "onboard_time": 1685966307,
+      "rank": 13,
+      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 362725,
@@ -4643,6 +4683,14 @@
       "category": "体育,旅游"
     },
     {
+      "raw_hot": 297204,
+      "num": 297204,
+      "word": "瓶子吃瓜",
+      "onboard_time": 1685963248,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297131,
       "num": 297131,
       "word": "妊娠终止手术一定要在孕14周内做",
@@ -4897,6 +4945,14 @@
       "onboard_time": 1685804552,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285262,
+      "num": 285262,
+      "word": "别信了梅西不会来敬酒",
+      "onboard_time": 1685967747,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 285238,
@@ -5417,6 +5473,14 @@
       "onboard_time": 1685675128,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262687,
+      "num": 262687,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 262613,
@@ -6339,20 +6403,20 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 228654,
+      "num": 228654,
+      "word": "全员加速中路透",
+      "onboard_time": 1685963667,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228227,
       "num": 228227,
       "word": "六月",
       "onboard_time": 1685575161,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228116,
-      "num": 228116,
-      "word": "瓶子吃瓜",
-      "onboard_time": 1685963248,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 228043,
@@ -6491,14 +6555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224423,
-      "num": 213957,
-      "word": "全员加速中路透",
-      "onboard_time": 1685963667,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224190,
       "num": 224190,
       "word": "还没有一个人有我全部的账号",
@@ -6521,6 +6577,14 @@
       "onboard_time": 1685921241,
       "rank": 31,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 222146,
+      "num": 222146,
+      "word": "你觉得高考哪科最难",
+      "onboard_time": 1685965888,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221535,
@@ -6889,6 +6953,14 @@
       "onboard_time": 1685695288,
       "rank": 23,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 211503,
+      "num": 211503,
+      "word": "四公",
+      "onboard_time": 1685964687,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 211103,
@@ -7555,6 +7627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192229,
+      "num": 177297,
+      "word": "30岁也不过是12岁的大人",
+      "onboard_time": 1685968585,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191943,
       "num": 191943,
       "word": "酒托",
@@ -7923,14 +8003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185572,
-      "num": 185572,
-      "word": "娜扎七年前生图",
-      "onboard_time": 1685964207,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185199,
       "num": 185199,
       "word": "2023高考",
@@ -8243,6 +8315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176475,
+      "num": 176475,
+      "word": "seventeen日巡有十二场",
+      "onboard_time": 1685965046,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176446,
       "num": 176446,
       "word": "蔡徐坤黑色水钻镜片西装",
@@ -8305,6 +8385,14 @@
       "onboard_time": 1685946147,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174345,
+      "num": 174345,
+      "word": "朴灿烈开通个人账号",
+      "onboard_time": 1685966666,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 173986,
@@ -9091,6 +9179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152223,
+      "num": 313424,
+      "word": "女生被尾随吓哭交警一路护送上课",
+      "onboard_time": 1685966486,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152183,
       "num": 152183,
       "word": "广西的水果有多便宜",
@@ -9699,6 +9795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 130409,
+      "num": 128580,
+      "word": "王一栩回应探班成毅李一桐",
+      "onboard_time": 1685967567,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129910,
       "num": 129910,
       "word": "杨颖看腹肌的反应",
@@ -9835,6 +9939,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126713,
+      "num": 1257978,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126224,
       "num": 126224,
       "word": "邓清明出舱后笑得好开心",
@@ -9881,14 +9993,6 @@
       "onboard_time": 1685575402,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124523,
-      "num": 1055477,
-      "word": "哪一刻让你觉得读书特别有用",
-      "onboard_time": 1685957131,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123510,
@@ -10040,6 +10144,14 @@
       "word": "养猫家庭的崩溃瞬间",
       "onboard_time": 1685599287,
       "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 119860,
+      "num": 119860,
+      "word": "我最讨厌的数字和字母组合",
+      "onboard_time": 1685966366,
+      "rank": 42,
       "category": "幽默,情感"
     },
     {
@@ -10459,6 +10571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104446,
+      "num": 104446,
+      "word": "Nadech求婚Yaya",
+      "onboard_time": 1685968585,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104308,
       "num": 104308,
       "word": "易烊千玺灯牌线上店铺被投诉",
@@ -10473,6 +10593,14 @@
       "onboard_time": 1685927546,
       "rank": 48,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 103956,
+      "num": 103956,
+      "word": "究竟谁在爱夏天",
+      "onboard_time": 1685967986,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 103639,
@@ -10521,14 +10649,6 @@
       "onboard_time": 1685609668,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101281,
-      "num": 101281,
-      "word": "四公",
-      "onboard_time": 1685964687,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 100628,
