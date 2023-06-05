@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685943208826,
+  "endTime": 1685946140555,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -19,6 +19,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2305544,
+      "num": 895725,
+      "word": "张一山眼球怎么了",
+      "onboard_time": 1685942608,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2085497,
       "num": 1175763,
       "word": "鼠鼠我鸭",
@@ -32,6 +40,14 @@
       "word": "奖励多少你会考虑多生孩子",
       "onboard_time": 1685935831,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1762985,
+      "num": 1762985,
+      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+      "onboard_time": 1685938775,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054626,
+      "num": 1054626,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1040052,
       "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
@@ -152,14 +176,6 @@
       "word": "日本女团成员灌男粉喝洗洁精",
       "onboard_time": 1685920400,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905222,
-      "num": 905222,
-      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
-      "onboard_time": 1685938775,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -291,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 534967,
+      "num": 534967,
+      "word": "市监局回应反复对比确认是鸭脖",
+      "onboard_time": 1685940872,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521409,
       "num": 521409,
       "word": "90后的三十岁",
@@ -313,14 +337,6 @@
       "onboard_time": 1685934929,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496961,
-      "num": 496961,
-      "word": "市监局回应反复对比确认是鸭脖",
-      "onboard_time": 1685940872,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494991,
@@ -347,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475969,
-      "num": 230152,
-      "word": "张一山眼球怎么了",
-      "onboard_time": 1685942608,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468233,
       "num": 468233,
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466242,
+      "num": 466242,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453090,
@@ -393,6 +409,14 @@
       "onboard_time": 1685932527,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 433819,
+      "num": 433819,
+      "word": "肖春生戴婚戒",
+      "onboard_time": 1685943927,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 424870,
@@ -443,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 390249,
-      "num": 390249,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 399819,
+      "num": 399819,
+      "word": "梅西",
+      "onboard_time": 1685943330,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 389779,
@@ -603,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291607,
+      "num": 291607,
+      "word": "杨紫一周涨粉2万",
+      "onboard_time": 1685943209,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289522,
       "num": 289522,
       "word": "大熊猫因为偷吃被叫食铁兽",
@@ -651,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264249,
+      "num": 264249,
+      "word": "杨紫工作室 动起来的boss更美",
+      "onboard_time": 1685945247,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259379,
       "num": 259379,
       "word": "微雨燕双飞",
@@ -665,6 +705,14 @@
       "onboard_time": 1685921963,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 251859,
+      "num": 251859,
+      "word": "医学生网上挂号提问医生答完退费",
+      "onboard_time": 1685942309,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251818,
@@ -779,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224098,
+      "num": 224098,
+      "word": "杭州一客车碰撞收费站起火4人死亡",
+      "onboard_time": 1685944048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222299,
       "num": 222299,
       "word": "商家回应点10斤小龙虾出锅后5斤",
@@ -819,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217016,
+      "num": 217016,
+      "word": "魏晨广州",
+      "onboard_time": 1685944708,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215762,
       "num": 215762,
       "word": "湖南一村厕改后村民还要挑水冲厕所",
@@ -827,20 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212249,
-      "num": 212249,
-      "word": "医学生网上挂号提问医生答完退费",
-      "onboard_time": 1685942309,
-      "rank": 36,
+      "raw_hot": 214711,
+      "num": 214711,
+      "word": "求职被问婚育状况合理吗",
+      "onboard_time": 1685945127,
+      "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209425,
-      "num": 209425,
-      "word": "第一眼被任敏惊艳到了",
-      "onboard_time": 1685938534,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201469,
@@ -859,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196176,
+      "num": 192923,
+      "word": "宋茜分不清哪吒红孩儿",
+      "onboard_time": 1685945189,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193508,
       "num": 193508,
       "word": "你身边有参加今年高考的考生吗",
@@ -873,6 +937,14 @@
       "onboard_time": 1685934748,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191943,
+      "num": 191943,
+      "word": "酒托",
+      "onboard_time": 1685943388,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189453,
@@ -905,6 +977,14 @@
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182331,
+      "num": 182331,
+      "word": "阿根廷中国行开票",
+      "onboard_time": 1685945428,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 182025,
@@ -963,6 +1043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172787,
+      "num": 172787,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171417,
       "num": 171417,
       "word": "约基奇41分",
@@ -971,12 +1059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170874,
+      "num": 170874,
+      "word": "八角笼中一骗真心版预告",
+      "onboard_time": 1685945966,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170640,
       "num": 162229,
       "word": "Jennie巡演神图",
       "onboard_time": 1685889515,
       "rank": 27,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 169383,
+      "num": 169383,
+      "word": "古天乐 扫毒3",
+      "onboard_time": 1685945068,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 168743,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1685926527,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162705,
+      "num": 162705,
+      "word": "为什么广东人这么爱吃却普遍都瘦",
+      "onboard_time": 1685943267,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158755,
@@ -1097,6 +1209,14 @@
       "onboard_time": 1685924128,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 135796,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132407,
@@ -1393,6 +1513,14 @@
       "onboard_time": 1685900357,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27086,
+      "num": 446920,
+      "word": "济南800辆爱心送考车整装待发",
+      "onboard_time": 1685944888,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24151,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685943208826,
+  "endTime": 1685946140555,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -137,6 +137,14 @@
       "onboard_time": 1685635046,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2305544,
+      "num": 895725,
+      "word": "张一山眼球怎么了",
+      "onboard_time": 1685942608,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2223234,
@@ -360,6 +368,14 @@
       "word": "柳州",
       "onboard_time": 1685538987,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1762985,
+      "num": 1762985,
+      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+      "onboard_time": 1685938775,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1054626,
+      "num": 1054626,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1050365,
       "num": 1050365,
       "word": "黄晓明救了我的手机",
@@ -1288,14 +1312,6 @@
       "word": "出租房装的空调是5级能耗",
       "onboard_time": 1685574199,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905222,
-      "num": 905222,
-      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
-      "onboard_time": 1685938775,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2291,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534967,
+      "num": 534967,
+      "word": "市监局回应反复对比确认是鸭脖",
+      "onboard_time": 1685940872,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533960,
       "num": 533960,
       "word": "Angelababy奔跑吧时长",
@@ -2435,14 +2459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 496961,
-      "num": 496961,
-      "word": "市监局回应反复对比确认是鸭脖",
-      "onboard_time": 1685940872,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
@@ -2579,14 +2595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475969,
-      "num": 230152,
-      "word": "张一山眼球怎么了",
-      "onboard_time": 1685942608,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 473764,
       "num": 456081,
       "word": "朱一龙杨蓉友情",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1685674226,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466242,
+      "num": 466242,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463802,
@@ -2833,6 +2849,14 @@
       "onboard_time": 1685545292,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433819,
+      "num": 433819,
+      "word": "肖春生戴婚戒",
+      "onboard_time": 1685943927,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 431141,
@@ -3115,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399819,
+      "num": 399819,
+      "word": "梅西",
+      "onboard_time": 1685943330,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398755,
       "num": 352953,
       "word": "河南人和山东人都别沉默了",
@@ -3201,14 +3233,6 @@
       "onboard_time": 1685722109,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 390249,
-      "num": 390249,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 389779,
@@ -4459,6 +4483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291607,
+      "num": 291607,
+      "word": "杨紫一周涨粉2万",
+      "onboard_time": 1685943209,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290484,
       "num": 290484,
       "word": "紫幻TTG",
@@ -5075,6 +5107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264249,
+      "num": 264249,
+      "word": "杨紫工作室 动起来的boss更美",
+      "onboard_time": 1685945247,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264035,
       "num": 264035,
       "word": "张远演唱会",
@@ -5377,6 +5417,14 @@
       "onboard_time": 1685721869,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251859,
+      "num": 251859,
+      "word": "医学生网上挂号提问医生答完退费",
+      "onboard_time": 1685942309,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251818,
@@ -6099,6 +6147,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 224098,
+      "num": 224098,
+      "word": "杭州一客车碰撞收费站起火4人死亡",
+      "onboard_time": 1685944048,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224075,
       "num": 224075,
       "word": "掘金总决赛开门红",
@@ -6283,6 +6339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217016,
+      "num": 217016,
+      "word": "魏晨广州",
+      "onboard_time": 1685944708,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216871,
       "num": 216871,
       "word": "侯明昊七年前试镜视频",
@@ -6379,6 +6443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214711,
+      "num": 214711,
+      "word": "求职被问婚育状况合理吗",
+      "onboard_time": 1685945127,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214519,
       "num": 214519,
       "word": "真的佩服塞尔达剧情党",
@@ -6441,14 +6513,6 @@
       "onboard_time": 1685877987,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212249,
-      "num": 212249,
-      "word": "医学生网上挂号提问医生答完退费",
-      "onboard_time": 1685942309,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211654,
@@ -6553,14 +6617,6 @@
       "onboard_time": 1685796388,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209425,
-      "num": 209425,
-      "word": "第一眼被任敏惊艳到了",
-      "onboard_time": 1685938534,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207521,
@@ -6915,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196176,
+      "num": 192923,
+      "word": "宋茜分不清哪吒红孩儿",
+      "onboard_time": 1685945189,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196076,
       "num": 196076,
       "word": "种地吧",
@@ -7049,6 +7113,14 @@
       "onboard_time": 1685806949,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191943,
+      "num": 191943,
+      "word": "酒托",
+      "onboard_time": 1685943388,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191877,
@@ -7515,6 +7587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182331,
+      "num": 182331,
+      "word": "阿根廷中国行开票",
+      "onboard_time": 1685945428,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182134,
       "num": 182134,
       "word": "福建一彩民中得1.5亿大奖",
@@ -7763,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172787,
+      "num": 172787,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -7801,6 +7889,14 @@
       "onboard_time": 1685681137,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170874,
+      "num": 170874,
+      "word": "八角笼中一骗真心版预告",
+      "onboard_time": 1685945966,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 170838,
@@ -7848,6 +7944,14 @@
       "word": "肖战粉丝花式宣传梦中的那片海",
       "onboard_time": 1685544453,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169383,
+      "num": 169383,
+      "word": "古天乐 扫毒3",
+      "onboard_time": 1685945068,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -8065,6 +8169,14 @@
       "onboard_time": 1685604506,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162705,
+      "num": 162705,
+      "word": "为什么广东人这么爱吃却普遍都瘦",
+      "onboard_time": 1685943267,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162534,
@@ -8817,6 +8929,14 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 135796,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135511,
@@ -10817,6 +10937,14 @@
       "onboard_time": 1685559674,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27086,
+      "num": 446920,
+      "word": "济南800辆爱心送考车整装待发",
+      "onboard_time": 1685944888,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26146,
