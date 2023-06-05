@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685942169908,
+  "endTime": 1685943208826,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1147,20 +1147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1013445,
+      "num": 1013445,
+      "word": "高铁站台为什么不能打伞",
+      "onboard_time": 1685931088,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012196,
       "num": 926519,
       "word": "孟子义锐评任敏汤晶媚乐队事件",
       "onboard_time": 1685859687,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1009262,
-      "num": 1009262,
-      "word": "高铁站台为什么不能打伞",
-      "onboard_time": 1685931088,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1003411,
@@ -1291,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905222,
+      "num": 905222,
+      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+      "onboard_time": 1685938775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888042,
       "num": 888042,
       "word": "WBG零封JDG",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1685589806,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 851590,
+      "num": 851590,
+      "word": "瑞幸",
+      "onboard_time": 1685942008,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846686,
@@ -1891,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627807,
+      "num": 627807,
+      "word": "菜英俊 再次向当事人道歉",
+      "onboard_time": 1685941471,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 623850,
       "num": 360863,
       "word": "肖战王一博同款表情演技",
@@ -2291,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 530588,
-      "num": 495449,
-      "word": "菜英俊 再次向当事人道歉",
-      "onboard_time": 1685941471,
-      "rank": 12,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 527494,
       "num": 515360,
       "word": "虞书欣直播",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1685882909,
       "rank": 24,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 521409,
+      "num": 521409,
+      "word": "90后的三十岁",
+      "onboard_time": 1685938470,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 521154,
@@ -2387,14 +2411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 504229,
-      "num": 504229,
-      "word": "90后的三十岁",
-      "onboard_time": 1685938470,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502975,
       "num": 502975,
       "word": "五月天王源唱如果我们不曾相遇",
@@ -2417,6 +2433,14 @@
       "onboard_time": 1685710010,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496961,
+      "num": 496961,
+      "word": "市监局回应反复对比确认是鸭脖",
+      "onboard_time": 1685940872,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496286,
@@ -2481,14 +2505,6 @@
       "onboard_time": 1685848345,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486986,
-      "num": 486986,
-      "word": "孩子烫伤9天才送医院爸爸拒绝手术",
-      "onboard_time": 1685938775,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486474,
@@ -2561,6 +2577,14 @@
       "onboard_time": 1685937151,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475969,
+      "num": 230152,
+      "word": "张一山眼球怎么了",
+      "onboard_time": 1685942608,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 473764,
@@ -3179,6 +3203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 390249,
+      "num": 390249,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389779,
       "num": 360435,
       "word": "给自己的鼻子纹了两颗痣",
@@ -3315,14 +3347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 375152,
-      "num": 375152,
-      "word": "市监局回应反复对比确认是鸭脖",
-      "onboard_time": 1685940872,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374320,
       "num": 351036,
       "word": "女生穿婚纱看王源演唱会系盗图造谣",
@@ -3393,6 +3417,14 @@
       "onboard_time": 1685926410,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 367785,
+      "num": 367785,
+      "word": "阿根廷",
+      "onboard_time": 1685942608,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 366252,
@@ -3657,14 +3689,6 @@
       "onboard_time": 1685882848,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 341870,
-      "num": 341870,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 341004,
@@ -4835,14 +4859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273249,
-      "num": 273249,
-      "word": "瑞幸",
-      "onboard_time": 1685942008,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1685784208,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268903,
+      "num": 268903,
+      "word": "孟子义提携周一围",
+      "onboard_time": 1685942667,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 268873,
@@ -5531,6 +5555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242154,
+      "num": 242154,
+      "word": "杨超越工作室回应模仿争议",
+      "onboard_time": 1685941531,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241773,
       "num": 237372,
       "word": "鞠婧祎新剧幻想吻戏",
@@ -5561,6 +5593,14 @@
       "onboard_time": 1685622329,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241090,
+      "num": 241090,
+      "word": "陈伟霆请拿出拍剧的尺度来拍vlog",
+      "onboard_time": 1685942547,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 240975,
@@ -5899,6 +5939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229014,
+      "num": 229014,
+      "word": "肖春生祝酒词是肖战即兴发挥的",
+      "onboard_time": 1685943027,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228654,
       "num": 228654,
       "word": "北京彩虹",
@@ -5953,14 +6001,6 @@
       "onboard_time": 1685873187,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 226945,
-      "num": 226945,
-      "word": "杨超越工作室回应模仿争议",
-      "onboard_time": 1685941531,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 226927,
@@ -6403,6 +6443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212249,
+      "num": 212249,
+      "word": "医学生网上挂号提问医生答完退费",
+      "onboard_time": 1685942309,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -6505,6 +6553,14 @@
       "onboard_time": 1685796388,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209425,
+      "num": 209425,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207521,
@@ -6737,14 +6793,6 @@
       "onboard_time": 1685800709,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199097,
-      "num": 199097,
-      "word": "第一眼被任敏惊艳到了",
-      "onboard_time": 1685938534,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198720,
@@ -7475,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182025,
+      "num": 182025,
+      "word": "蔡徐坤站姐好会拍",
+      "onboard_time": 1685942189,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181870,
       "num": 147286,
       "word": "公司要求自带电脑上班不合格就充公",
@@ -7497,6 +7553,14 @@
       "onboard_time": 1685684611,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181238,
+      "num": 181238,
+      "word": "到底谁在喜欢黄旭熙",
+      "onboard_time": 1685943148,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 180679,
@@ -10339,6 +10403,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 61803,
+      "num": 504705,
+      "word": "亚洲首台异体喉移植手术成功实施",
+      "onboard_time": 1685941230,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61053,
       "num": 84460,
       "word": "你唯一有资格过儿童节的是你的脑子",
@@ -10633,14 +10705,6 @@
       "onboard_time": 1685900357,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36297,
-      "num": 491856,
-      "word": "亚洲首台异体喉移植手术成功实施",
-      "onboard_time": 1685941230,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35981,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1685943208826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180664,
+        "num": 1180664,
+        "word": "于正新剧又是双女主",
+        "onboard_time": 1685934030,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1013445,
+        "num": 1013445,
+        "word": "高铁站台为什么不能打伞",
+        "onboard_time": 1685931088,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103089,
+        "num": 952192,
+        "word": "距2023高考还有2天",
+        "onboard_time": 1685932287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943294,
+        "num": 943294,
+        "word": "黄旭熙 泡泡",
+        "onboard_time": 1685933189,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905222,
+        "num": 905222,
+        "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+        "onboard_time": 1685938775,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1693968,
+        "num": 881406,
+        "word": "珠峰被救女子不愿支付全部救援费用",
+        "onboard_time": 1685933429,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851590,
+        "num": 851590,
+        "word": "瑞幸",
+        "onboard_time": 1685942008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849912,
+        "num": 849912,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1685921783,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 755242,
+        "num": 755242,
+        "word": "赌王三太 粤剧艺术团",
+        "onboard_time": 1685940992,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728959,
+        "num": 728959,
+        "word": "杨紫工作室P图不P镜子",
+        "onboard_time": 1685924669,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1114836,
+        "num": 683387,
+        "word": "奖励多少你会考虑多生孩子",
+        "onboard_time": 1685935831,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627807,
+        "num": 627807,
+        "word": "菜英俊 再次向当事人道歉",
+        "onboard_time": 1685941471,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 536499,
+        "num": 536499,
+        "word": "芝芙是越南版这就是街舞的队长",
+        "onboard_time": 1685931628,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521409,
+        "num": 521409,
+        "word": "90后的三十岁",
+        "onboard_time": 1685938470,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61803,
+        "num": 504705,
+        "word": "亚洲首台异体喉移植手术成功实施",
+        "onboard_time": 1685941230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502314,
+        "num": 502314,
+        "word": "郑秀妍Amber合体",
+        "onboard_time": 1685934869,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496961,
+        "num": 496961,
+        "word": "市监局回应反复对比确认是鸭脖",
+        "onboard_time": 1685940872,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402476,
+        "num": 402476,
+        "word": "朱正廷的脸怎么了",
+        "onboard_time": 1685937570,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402410,
+        "num": 402410,
+        "word": "shanji",
+        "onboard_time": 1685929407,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 398654,
+        "num": 398654,
+        "word": "黄旭熙是救了李成洙的命吗",
+        "onboard_time": 1685936910,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1171887,
+        "num": 396474,
+        "word": "女子反问男友8年感情竟不值38万",
+        "onboard_time": 1685937630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390249,
+        "num": 390249,
+        "word": "亲戚小孩毁了我的动漫周边",
+        "onboard_time": 1685940031,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367785,
+        "num": 367785,
+        "word": "阿根廷",
+        "onboard_time": 1685942608,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354353,
+        "num": 354353,
+        "word": "成毅虞书欣一年级同框照",
+        "onboard_time": 1685937151,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351632,
+        "num": 351632,
+        "word": "鞠婧祎凤凰造型反差",
+        "onboard_time": 1685938534,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332507,
+        "num": 332507,
+        "word": "章若楠观众缘",
+        "onboard_time": 1685925808,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268903,
+        "num": 268903,
+        "word": "孟子义提携周一围",
+        "onboard_time": 1685942667,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242154,
+        "num": 242154,
+        "word": "杨超越工作室回应模仿争议",
+        "onboard_time": 1685941531,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241090,
+        "num": 241090,
+        "word": "陈伟霆请拿出拍剧的尺度来拍vlog",
+        "onboard_time": 1685942547,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168847,
+        "num": 230297,
+        "word": "喂119吗我是需要帮忙抓蛇的110",
+        "onboard_time": 1685930246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475969,
+        "num": 230152,
+        "word": "张一山眼球怎么了",
+        "onboard_time": 1685942608,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229737,
+        "num": 229737,
+        "word": "吴磊从新疆带馕送给粉丝",
+        "onboard_time": 1685934929,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229014,
+        "num": 229014,
+        "word": "肖春生祝酒词是肖战即兴发挥的",
+        "onboard_time": 1685943027,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220313,
+        "num": 220313,
+        "word": "印度耗资百亿卢比的大桥又塌了",
+        "onboard_time": 1685932407,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213269,
+        "num": 213269,
+        "word": "the idol",
+        "onboard_time": 1685934929,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213098,
+        "num": 213098,
+        "word": "汕头一快餐店煤气爆炸致1死6伤",
+        "onboard_time": 1685936790,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212249,
+        "num": 212249,
+        "word": "医学生网上挂号提问医生答完退费",
+        "onboard_time": 1685942309,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209425,
+        "num": 209425,
+        "word": "第一眼被任敏惊艳到了",
+        "onboard_time": 1685938534,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208853,
+        "num": 208853,
+        "word": "车瑞元要结婚了",
+        "onboard_time": 1685935348,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199328,
+        "num": 199328,
+        "word": "长期喝粥会让胃越来越脆弱",
+        "onboard_time": 1685923767,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197866,
+        "num": 197866,
+        "word": "薛之谦毛不易官宣音综",
+        "onboard_time": 1685933067,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196567,
+        "num": 196567,
+        "word": "淄博张店烧烤倡议高考停业三天",
+        "onboard_time": 1685932527,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191792,
+        "num": 191792,
+        "word": "无意识刷手机的危害有多大",
+        "onboard_time": 1685922685,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182708,
+        "num": 182708,
+        "word": "五月天沈阳",
+        "onboard_time": 1685930548,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182025,
+        "num": 182025,
+        "word": "蔡徐坤站姐好会拍",
+        "onboard_time": 1685942189,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181238,
+        "num": 181238,
+        "word": "到底谁在喜欢黄旭熙",
+        "onboard_time": 1685943148,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180466,
+        "num": 180466,
+        "word": "杭州收费站",
+        "onboard_time": 1685939853,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177980,
+        "num": 177980,
+        "word": "徐明浩说干了8年舞台不如搞笑出圈",
+        "onboard_time": 1685935653,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172696,
+        "num": 172696,
+        "word": "老师攒高三生2千空笔芯做梦想之舟",
+        "onboard_time": 1685936011,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152523,
+        "num": 172470,
+        "word": "代号鸢",
+        "onboard_time": 1685937511,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起保护好传承好历史文化#"
+    }
+  }
+}
