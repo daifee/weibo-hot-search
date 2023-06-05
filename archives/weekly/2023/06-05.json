@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685968648494,
+  "endTime": 1685969582354,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1548682,
+      "num": 1548682,
+      "word": "海天品牌回应蚝油内疑发现生蚝",
+      "onboard_time": 1685965046,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -147,20 +155,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1439333,
+      "num": 1439333,
+      "word": "难怪白鹿许凯不帮于正新剧宣传",
+      "onboard_time": 1685961985,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1438593,
       "num": 774611,
       "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
       "onboard_time": 1685946327,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1425839,
-      "num": 1425839,
-      "word": "难怪白鹿许凯不帮于正新剧宣传",
-      "onboard_time": 1685961985,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1400611,
@@ -185,14 +193,6 @@
       "onboard_time": 1685929407,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1264827,
-      "num": 1264827,
-      "word": "海天品牌回应蚝油内疑发现生蚝",
-      "onboard_time": 1685965046,
-      "rank": 1,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1203733,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812983,
+      "num": 812983,
+      "word": "南昌市监局已介入高校食堂老鼠事件",
+      "onboard_time": 1685967387,
+      "rank": 8,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 808200,
       "num": 808200,
       "word": "章若楠观众缘",
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 772780,
+      "num": 772780,
+      "word": "娜扎七年前生图",
+      "onboard_time": 1685964207,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765929,
       "num": 765929,
       "word": "安茂元 三亚被宰记",
@@ -361,14 +377,6 @@
       "onboard_time": 1685886333,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 750226,
-      "num": 750226,
-      "word": "娜扎七年前生图",
-      "onboard_time": 1685964207,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 713806,
@@ -481,6 +489,14 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 593743,
+      "num": 593743,
+      "word": "别信了梅西不会来敬酒",
+      "onboard_time": 1685967747,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 567816,
@@ -627,20 +643,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424913,
-      "num": 424913,
-      "word": "南昌市监局已介入高校食堂老鼠事件",
-      "onboard_time": 1685967387,
-      "rank": 8,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 424870,
       "num": 341264,
       "word": "狗头萝莉摊煎饼",
       "onboard_time": 1685892869,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 423100,
+      "num": 362782,
+      "word": "女频和男频最大的区别之一",
+      "onboard_time": 1685966307,
+      "rank": 13,
+      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 422570,
@@ -795,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362782,
-      "num": 362782,
-      "word": "女频和男频最大的区别之一",
-      "onboard_time": 1685966307,
-      "rank": 13,
-      "category": "作品衍生,情感"
-    },
-    {
       "raw_hot": 362634,
       "num": 362634,
       "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
@@ -873,6 +881,22 @@
       "onboard_time": 1685934929,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331381,
+      "num": 331381,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 314732,
+      "num": 314732,
+      "word": "YG艺人目录中没有BIGBANG",
+      "onboard_time": 1685968706,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 314158,
@@ -947,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285262,
-      "num": 285262,
-      "word": "别信了梅西不会来敬酒",
-      "onboard_time": 1685967747,
-      "rank": 17,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 283807,
       "num": 925965,
       "word": "49岁你还有勇气参加高考吗",
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270301,
+      "num": 260096,
+      "word": "30岁也不过是12岁的大人",
+      "onboard_time": 1685968585,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1685957068,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262687,
-      "num": 262687,
-      "word": "儿子高考前告别重病妈妈医生善意劝导",
-      "onboard_time": 1685965285,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259379,
@@ -1067,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253855,
+      "num": 253855,
+      "word": "你觉得高考哪科最难",
+      "onboard_time": 1685965888,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 251859,
       "num": 251859,
       "word": "医学生网上挂号提问医生答完退费",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1685955628,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248791,
+      "num": 248791,
+      "word": "全员加速中路透",
+      "onboard_time": 1685963667,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 248238,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1685885549,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 242820,
+      "num": 242820,
+      "word": "初级会计",
+      "onboard_time": 1685968227,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 242154,
@@ -1211,20 +1251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230408,
+      "num": 230408,
+      "word": "Nadech求婚Yaya",
+      "onboard_time": 1685968585,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229014,
       "num": 229014,
       "word": "肖春生祝酒词是肖战即兴发挥的",
       "onboard_time": 1685943027,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228654,
-      "num": 228654,
-      "word": "全员加速中路透",
-      "onboard_time": 1685963667,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 225846,
@@ -1259,12 +1299,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 222146,
-      "num": 222146,
-      "word": "你觉得高考哪科最难",
-      "onboard_time": 1685965888,
-      "rank": 25,
-      "category": "社会新闻,教育"
+      "raw_hot": 221627,
+      "num": 338999,
+      "word": "女生被尾随吓哭交警一路护送上课",
+      "onboard_time": 1685966486,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221376,
@@ -1459,14 +1499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192229,
-      "num": 177297,
-      "word": "30岁也不过是12岁的大人",
-      "onboard_time": 1685968585,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191943,
       "num": 191943,
       "word": "酒托",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1685963728,
       "rank": 28,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "高考700分和存款700万你选哪个",
+      "onboard_time": 1685969006,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189453,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183222,
+      "num": 183222,
+      "word": "男粉呐喊惊到刘宇",
+      "onboard_time": 1685969068,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 182025,
@@ -1819,14 +1867,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 152223,
-      "num": 313424,
-      "word": "女生被尾随吓哭交警一路护送上课",
-      "onboard_time": 1685966486,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152183,
       "num": 152183,
       "word": "广西的水果有多便宜",
@@ -1947,8 +1987,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 130409,
-      "num": 128580,
+      "raw_hot": 131068,
+      "num": 1257978,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131020,
+      "num": 131020,
       "word": "王一栩回应探班成毅李一桐",
       "onboard_time": 1685967567,
       "rank": 40,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1685885970,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128820,
-      "num": 128820,
-      "word": "初级会计",
-      "onboard_time": 1685968227,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 128557,
@@ -2003,12 +2043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126713,
-      "num": 1257978,
-      "word": "哪一刻让你觉得读书特别有用",
-      "onboard_time": 1685957131,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 125812,
+      "num": 125812,
+      "word": "蜜蜂无语 到底是哪又漏了",
+      "onboard_time": 1685968948,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 125142,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1685948426,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120862,
+      "num": 120862,
+      "word": "梅西想要回归巴萨",
+      "onboard_time": 1685969364,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 120641,
@@ -2115,20 +2163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112690,
+      "num": 112690,
+      "word": "电梯故障学生爬29楼赴高考商家被罚",
+      "onboard_time": 1685969186,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 106100,
       "num": 106100,
       "word": "蔡徐坤王一博同款舞姿",
       "onboard_time": 1685882848,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104446,
-      "num": 104446,
-      "word": "Nadech求婚Yaya",
-      "onboard_time": 1685968585,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 104069,
