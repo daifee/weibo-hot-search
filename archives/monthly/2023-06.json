@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685949359753,
+  "endTime": 1685950412119,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -153,6 +153,14 @@
       "onboard_time": 1685752465,
       "rank": 0,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2183531,
+      "num": 2183531,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 2123863,
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1697488,
-      "num": 1697488,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -547,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1591867,
+      "num": 1591867,
+      "word": "娜扎时隔七年重开评论区",
+      "onboard_time": 1685947887,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1586261,
       "num": 1586261,
       "word": "于正新剧又是双女主",
@@ -625,6 +633,14 @@
       "onboard_time": 1685792546,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1438593,
+      "num": 774611,
+      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
+      "onboard_time": 1685946327,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1437497,
@@ -1259,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 949799,
-      "num": 949799,
-      "word": "娜扎时隔七年重开评论区",
-      "onboard_time": 1685947887,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 917909,
-      "num": 774611,
-      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
-      "onboard_time": 1685946327,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 914174,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1685777127,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845486,
+      "num": 845486,
+      "word": "周震南父亲等被恢复执行1046万",
+      "onboard_time": 1685947227,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 838196,
@@ -1531,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 792551,
-      "num": 792551,
-      "word": "周震南父亲等被恢复执行1046万",
-      "onboard_time": 1685947227,
-      "rank": 5,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 792254,
       "num": 792254,
       "word": "周也演技值得一个热搜",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1685748923,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 777538,
+      "num": 777538,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 776204,
@@ -1603,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 765929,
+      "num": 765929,
+      "word": "安茂元 三亚被宰记",
+      "onboard_time": 1685947527,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753448,
       "num": 753448,
       "word": "谢娜给曾可妮乘风创始人",
@@ -1632,14 +1648,6 @@
       "word": "孩子随母姓被拒分配村集体收入",
       "onboard_time": 1685846847,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744946,
-      "num": 744946,
-      "word": "安茂元 三亚被宰记",
-      "onboard_time": 1685947527,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1739,6 +1747,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 694951,
+      "num": 694951,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 694813,
       "num": 617381,
       "word": "王鹤棣孟子义不考虑合作现偶吗",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1685866048,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 694171,
-      "num": 694171,
-      "word": "肖战被强行拉cp",
-      "onboard_time": 1685946027,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 688162,
@@ -2643,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475626,
+      "num": 475626,
+      "word": "封神",
+      "onboard_time": 1685948128,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473764,
       "num": 456081,
       "word": "朱一龙杨蓉友情",
@@ -2697,14 +2713,6 @@
       "onboard_time": 1685674226,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466242,
-      "num": 466242,
-      "word": "第一眼被任敏惊艳到了",
-      "onboard_time": 1685938534,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 463802,
@@ -3275,20 +3283,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 390788,
+      "num": 390788,
+      "word": "张一山 演盲人",
+      "onboard_time": 1685947527,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390420,
       "num": 390420,
       "word": "2女孩穿婚纱买20份王源同款美食",
       "onboard_time": 1685722109,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 390005,
-      "num": 390005,
-      "word": "封神",
-      "onboard_time": 1685948128,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 389779,
@@ -3345,14 +3353,6 @@
       "onboard_time": 1685720489,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384946,
-      "num": 384946,
-      "word": "张一山 演盲人",
-      "onboard_time": 1685947527,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 383202,
@@ -3608,6 +3608,14 @@
       "word": "隐翅虫",
       "onboard_time": 1685863527,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357152,
+      "num": 357152,
+      "word": "江歌妈妈 捐出全部赔偿不是冲动",
+      "onboard_time": 1685949269,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -5019,6 +5027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 270110,
+      "num": 261512,
+      "word": "罗云熙李一桐陈瑶聚餐",
+      "onboard_time": 1685947828,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -5097,6 +5113,14 @@
       "onboard_time": 1685759308,
       "rank": 34,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 267819,
+      "num": 267819,
+      "word": "住酒店不小心把床睡塌了",
+      "onboard_time": 1685949688,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 267414,
@@ -5451,6 +5475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254376,
+      "num": 254376,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254196,
       "num": 332137,
       "word": "妈妈把2岁女儿涂鸦做周边定格童年",
@@ -5528,14 +5560,6 @@
       "word": "保护少年的你",
       "onboard_time": 1685589206,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250879,
-      "num": 250879,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5697,6 +5721,14 @@
       "onboard_time": 1685941531,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241951,
+      "num": 241951,
+      "word": "山东高考期间高校学生不得请假离校",
+      "onboard_time": 1685948728,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241773,
@@ -5993,14 +6025,6 @@
       "onboard_time": 1685622807,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232765,
-      "num": 232765,
-      "word": "罗云熙李一桐陈瑶聚餐",
-      "onboard_time": 1685947828,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 232632,
@@ -7179,14 +7203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193329,
-      "num": 193329,
-      "word": "山东高考期间高校学生不得请假离校",
-      "onboard_time": 1685948728,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 193246,
       "num": 1307695,
       "word": "无论几岁快乐万岁",
@@ -7355,6 +7371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190551,
+      "num": 190551,
+      "word": "丁太升评价吉克隽逸",
+      "onboard_time": 1685949807,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190487,
       "num": 190487,
       "word": "辛选主播将成人喝的牛奶推荐给孩子",
@@ -7481,6 +7505,14 @@
       "onboard_time": 1685834778,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 187658,
+      "num": 187658,
+      "word": "鞠婧祎歪头",
+      "onboard_time": 1685949328,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 187276,
@@ -8923,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142059,
+      "num": 142059,
+      "word": "重返高三你愿意吗",
+      "onboard_time": 1685949988,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 141747,
       "num": 141747,
       "word": "这是他第一次见到已满2岁半的儿子",
@@ -9192,14 +9232,6 @@
       "word": "周雨彤进组半熟男女",
       "onboard_time": 1685895567,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 131755,
-      "num": 131755,
-      "word": "鞠婧祎歪头",
-      "onboard_time": 1685949328,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -10339,6 +10371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83152,
+      "num": 385560,
+      "word": "地铁开门前工作人员用指差确认检查",
+      "onboard_time": 1685948426,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82464,
       "num": 82464,
       "word": "神十五航天员顺利出舱",
@@ -10961,14 +11001,6 @@
       "onboard_time": 1685900357,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38887,
-      "num": 385560,
-      "word": "地铁开门前工作人员用指差确认检查",
-      "onboard_time": 1685948426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37722,

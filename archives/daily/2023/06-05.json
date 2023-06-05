@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685949359753,
+  "endTime": 1685950412119,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -25,6 +25,14 @@
       "onboard_time": 1685942608,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2183531,
+      "num": 2183531,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 2085497,
@@ -59,14 +67,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1697488,
-      "num": 1697488,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -99,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1591867,
+      "num": 1591867,
+      "word": "娜扎时隔七年重开评论区",
+      "onboard_time": 1685947887,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1586261,
       "num": 1586261,
       "word": "于正新剧又是双女主",
@@ -113,6 +121,14 @@
       "onboard_time": 1685922685,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1438593,
+      "num": 774611,
+      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
+      "onboard_time": 1685946327,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1294356,
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 949799,
-      "num": 949799,
-      "word": "娜扎时隔七年重开评论区",
-      "onboard_time": 1685947887,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 925237,
       "num": 925237,
       "word": "日本女团成员灌男粉喝洗洁精",
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917909,
-      "num": 774611,
-      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
-      "onboard_time": 1685946327,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 851590,
       "num": 851590,
       "word": "瑞幸",
       "onboard_time": 1685942008,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845486,
+      "num": 845486,
+      "word": "周震南父亲等被恢复执行1046万",
+      "onboard_time": 1685947227,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 837584,
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 792551,
-      "num": 792551,
-      "word": "周震南父亲等被恢复执行1046万",
-      "onboard_time": 1685947227,
-      "rank": 5,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 790406,
       "num": 421812,
       "word": "长期喝粥会让胃越来越脆弱",
@@ -251,19 +251,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777538,
+      "num": 777538,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 765929,
+      "num": 765929,
+      "word": "安茂元 三亚被宰记",
+      "onboard_time": 1685947527,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751828,
       "num": 751828,
       "word": "教育部发布2023高考预警",
       "onboard_time": 1685886333,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744946,
-      "num": 744946,
-      "word": "安茂元 三亚被宰记",
-      "onboard_time": 1685947527,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -291,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 694171,
-      "num": 694171,
-      "word": "肖战被强行拉cp",
-      "onboard_time": 1685946027,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 694951,
+      "num": 694951,
+      "word": "第一眼被任敏惊艳到了",
+      "onboard_time": 1685938534,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 680090,
@@ -411,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475626,
+      "num": 475626,
+      "word": "封神",
+      "onboard_time": 1685948128,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468233,
       "num": 468233,
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466242,
-      "num": 466242,
-      "word": "第一眼被任敏惊艳到了",
-      "onboard_time": 1685938534,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 453090,
@@ -523,11 +531,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 390005,
-      "num": 390005,
-      "word": "封神",
-      "onboard_time": 1685948128,
-      "rank": 13,
+      "raw_hot": 390788,
+      "num": 390788,
+      "word": "张一山 演盲人",
+      "onboard_time": 1685947527,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -545,14 +553,6 @@
       "onboard_time": 1685884349,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384946,
-      "num": 384946,
-      "word": "张一山 演盲人",
-      "onboard_time": 1685947527,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 377277,
@@ -600,6 +600,14 @@
       "word": "牟某翰涉嫌虐待罪案将于6月7日宣判",
       "onboard_time": 1685931328,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357152,
+      "num": 357152,
+      "word": "江歌妈妈 捐出全部赔偿不是冲动",
+      "onboard_time": 1685949269,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270110,
+      "num": 261512,
+      "word": "罗云熙李一桐陈瑶聚餐",
+      "onboard_time": 1685947828,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -763,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267819,
+      "num": 267819,
+      "word": "住酒店不小心把床睡塌了",
+      "onboard_time": 1685949688,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259379,
       "num": 259379,
       "word": "微雨燕双飞",
@@ -777,6 +801,14 @@
       "onboard_time": 1685921963,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 254376,
+      "num": 254376,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254049,
@@ -801,14 +833,6 @@
       "onboard_time": 1685937090,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250879,
-      "num": 250879,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248238,
@@ -849,6 +873,14 @@
       "onboard_time": 1685941531,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241951,
+      "num": 241951,
+      "word": "山东高考期间高校学生不得请假离校",
+      "onboard_time": 1685948728,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241090,
@@ -897,14 +929,6 @@
       "onboard_time": 1685948367,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232765,
-      "num": 232765,
-      "word": "罗云熙李一桐陈瑶聚餐",
-      "onboard_time": 1685947828,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 231474,
@@ -1051,20 +1075,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193329,
-      "num": 193329,
-      "word": "山东高考期间高校学生不得请假离校",
-      "onboard_time": 1685948728,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 191943,
       "num": 191943,
       "word": "酒托",
       "onboard_time": 1685943388,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190551,
+      "num": 190551,
+      "word": "丁太升评价吉克隽逸",
+      "onboard_time": 1685949807,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 189453,
@@ -1080,6 +1104,14 @@
       "word": "肖春生车站送别眼神戏",
       "onboard_time": 1685939312,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187658,
+      "num": 187658,
+      "word": "鞠婧祎歪头",
+      "onboard_time": 1685949328,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1347,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142059,
+      "num": 142059,
+      "word": "重返高三你愿意吗",
+      "onboard_time": 1685949988,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 132407,
       "num": 132407,
       "word": "薛之谦宜昌加场",
@@ -1360,14 +1400,6 @@
       "word": "周雨彤进组半熟男女",
       "onboard_time": 1685895567,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 131755,
-      "num": 131755,
-      "word": "鞠婧祎歪头",
-      "onboard_time": 1685949328,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -1571,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83152,
+      "num": 385560,
+      "word": "地铁开门前工作人员用指差确认检查",
+      "onboard_time": 1685948426,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70924,
       "num": 70924,
       "word": "暑假神剧西游记",
@@ -1649,14 +1689,6 @@
       "onboard_time": 1685900357,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38887,
-      "num": 385560,
-      "word": "地铁开门前工作人员用指差确认检查",
-      "onboard_time": 1685948426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37722,
