@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685957642499,
+  "endTime": 1685960348825,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1557866,
+      "num": 1557866,
+      "word": "某某影视化",
+      "onboard_time": 1685954368,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -136,6 +144,14 @@
       "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
       "onboard_time": 1685946327,
       "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1400611,
+      "num": 1400611,
+      "word": "一个村考出300多大学生6个北大",
+      "onboard_time": 1685954430,
+      "rank": 15,
       "category": "社会新闻,教育"
     },
     {
@@ -203,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 969046,
-      "num": 969046,
-      "word": "一个村考出300多大学生6个北大",
-      "onboard_time": 1685954430,
-      "rank": 15,
-      "category": "社会新闻,教育"
+      "raw_hot": 925771,
+      "num": 925771,
+      "word": "难听",
+      "onboard_time": 1685958029,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 925237,
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851974,
+      "num": 851974,
+      "word": "周震南父亲等被恢复执行1046万",
+      "onboard_time": 1685947227,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 851590,
       "num": 851590,
       "word": "瑞幸",
       "onboard_time": 1685942008,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845486,
-      "num": 845486,
-      "word": "周震南父亲等被恢复执行1046万",
-      "onboard_time": 1685947227,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 837584,
@@ -248,14 +264,6 @@
       "word": "章若楠观众缘",
       "onboard_time": 1685925808,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 806270,
-      "num": 806270,
-      "word": "某某影视化",
-      "onboard_time": 1685954368,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 706084,
-      "num": 516145,
+      "num": 588785,
       "word": "你不用在意我的外表我不是你未来的妻子",
       "onboard_time": 1685950467,
       "rank": 16,
@@ -345,6 +353,14 @@
       "onboard_time": 1685938534,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 690554,
+      "num": 1031783,
+      "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
+      "onboard_time": 1685958629,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680090,
@@ -539,6 +555,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 422570,
+      "num": 422570,
+      "word": "千万不要惹刚加完班的人",
+      "onboard_time": 1685954547,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418002,
       "num": 418002,
       "word": "王一博官宣2023微博电影之夜",
@@ -627,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383066,
-      "num": 383066,
-      "word": "千万不要惹刚加完班的人",
-      "onboard_time": 1685954547,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 378739,
       "num": 378739,
       "word": "李泰容solo曲SHALALA",
@@ -656,6 +672,14 @@
       "word": "王鹤棣孟子义不考虑合作现偶吗",
       "onboard_time": 1685888971,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369966,
+      "num": 369966,
+      "word": "周迅踩了黄磊一脚",
+      "onboard_time": 1685955867,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -739,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337742,
-      "num": 337742,
-      "word": "周迅踩了黄磊一脚",
-      "onboard_time": 1685955867,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 336518,
       "num": 336518,
       "word": "肖春生被捅时我的心情",
@@ -769,6 +785,14 @@
       "onboard_time": 1685922085,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 313624,
+      "num": 192857,
+      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+      "onboard_time": 1685959708,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 311544,
@@ -923,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250831,
+      "num": 936957,
+      "word": "哥哥听到妹妹哭声一路小跑来安抚",
+      "onboard_time": 1685955628,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248238,
       "num": 248238,
       "word": "不愧是冠军亚军的实力",
@@ -945,6 +977,14 @@
       "onboard_time": 1685887474,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244085,
+      "num": 244085,
+      "word": "金莎终于又拍古装剧了",
+      "onboard_time": 1685957068,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 243463,
@@ -993,6 +1033,14 @@
       "onboard_time": 1685936011,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 238008,
+      "num": 238008,
+      "word": "小狗又不懂什么是寄养",
+      "onboard_time": 1685957728,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 237348,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1685939853,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218898,
+      "num": 218898,
+      "word": "薛之谦宜昌",
+      "onboard_time": 1685958808,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 218691,
@@ -1179,6 +1235,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196951,
+      "num": 196951,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1685956407,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196771,
+      "num": 196771,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195254,
       "num": 195254,
       "word": "微博电影之夜主持人",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1685936130,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188922,
+      "num": 188922,
+      "word": "林俊杰演唱会上海站审批通过",
+      "onboard_time": 1685958869,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 187800,
@@ -1283,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178954,
+      "num": 178954,
+      "word": "高考时间",
+      "onboard_time": 1685957669,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 178145,
       "num": 178145,
       "word": "你会用手机的护眼模式吗",
@@ -1297,6 +1385,14 @@
       "onboard_time": 1685869707,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177848,
+      "num": 177848,
+      "word": "反复高考的行为有意义吗",
+      "onboard_time": 1685959527,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 177455,
@@ -1403,14 +1499,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 166169,
-      "num": 166169,
-      "word": "微博电影之夜阵容",
-      "onboard_time": 1685956407,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165890,
       "num": 165890,
       "word": "散步真的有很多好处",
@@ -1499,12 +1587,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155573,
-      "num": 408077,
-      "word": "哥哥听到妹妹哭声一路小跑来安抚",
-      "onboard_time": 1685955628,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 155489,
+      "num": 155489,
+      "word": "49岁你还有勇气参加高考吗",
+      "onboard_time": 1685958629,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153551,
@@ -1563,20 +1651,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147500,
+      "num": 147500,
+      "word": "薛之谦天外来物",
+      "onboard_time": 1685958749,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146476,
       "num": 146476,
       "word": "梅西回应内马尔",
       "onboard_time": 1685895386,
       "rank": 33,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 145043,
-      "num": 145043,
-      "word": "金莎终于又拍古装剧了",
-      "onboard_time": 1685957068,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 144735,
@@ -1673,6 +1761,22 @@
       "onboard_time": 1685921241,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127551,
+      "num": 127551,
+      "word": "谁给侯明昊拍的照片",
+      "onboard_time": 1685959406,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125810,
+      "num": 125810,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 125142,
@@ -1867,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74538,
+      "num": 1272929,
+      "word": "2023高考加油短片",
+      "onboard_time": 1685957309,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70924,
       "num": 70924,
       "word": "暑假神剧西游记",
@@ -1955,11 +2067,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36102,
-      "num": 1021774,
-      "word": "2023高考加油短片",
-      "onboard_time": 1685957309,
-      "rank": 2,
+      "raw_hot": 36880,
+      "num": 403036,
+      "word": "轿车淹没前民警1分钟内连救男子2次",
+      "onboard_time": 1685959288,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

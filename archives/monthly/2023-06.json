@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685957642499,
+  "endTime": 1685960348825,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -579,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1557866,
+      "num": 1557866,
+      "word": "某某影视化",
+      "onboard_time": 1685954368,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1537274,
       "num": 1537274,
       "word": "徐开骋被AI换脸",
@@ -697,6 +705,14 @@
       "onboard_time": 1685664568,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1400611,
+      "num": 1400611,
+      "word": "一个村考出300多大学生6个北大",
+      "onboard_time": 1685954430,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1394049,
@@ -1259,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 969046,
-      "num": 969046,
-      "word": "一个村考出300多大学生6个北大",
-      "onboard_time": 1685954430,
-      "rank": 15,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 964320,
       "num": 964320,
       "word": "肖战迪丽热巴赵露思V榜破9",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1685868747,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925771,
+      "num": 925771,
+      "word": "难听",
+      "onboard_time": 1685681197,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 925237,
@@ -1395,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 851974,
+      "num": 851974,
+      "word": "周震南父亲等被恢复执行1046万",
+      "onboard_time": 1685947227,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 851590,
       "num": 851590,
       "word": "瑞幸",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1685777127,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 845486,
-      "num": 845486,
-      "word": "周震南父亲等被恢复执行1046万",
-      "onboard_time": 1685947227,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 838196,
@@ -1536,14 +1552,6 @@
       "word": "章若楠观众缘",
       "onboard_time": 1685925808,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 806270,
-      "num": 806270,
-      "word": "某某影视化",
-      "onboard_time": 1685954368,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -1740,7 +1748,7 @@
     },
     {
       "raw_hot": 706084,
-      "num": 516145,
+      "num": 588785,
       "word": "你不用在意我的外表我不是你未来的妻子",
       "onboard_time": 1685950467,
       "rank": 16,
@@ -1809,6 +1817,14 @@
       "onboard_time": 1685866048,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690554,
+      "num": 1031783,
+      "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
+      "onboard_time": 1685958629,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688162,
@@ -2771,14 +2787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463802,
-      "num": 463802,
-      "word": "难听",
-      "onboard_time": 1685681197,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1685860826,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422570,
+      "num": 422570,
+      "word": "千万不要惹刚加完班的人",
+      "onboard_time": 1685954547,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 422403,
@@ -3435,14 +3451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383066,
-      "num": 383066,
-      "word": "千万不要惹刚加完班的人",
-      "onboard_time": 1685954547,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 382880,
       "num": 382880,
       "word": "老鼠头",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1685593529,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 369966,
+      "num": 369966,
+      "word": "周迅踩了黄磊一脚",
+      "onboard_time": 1685955867,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 369191,
@@ -3937,14 +3953,6 @@
       "onboard_time": 1685754269,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337742,
-      "num": 337742,
-      "word": "周迅踩了黄磊一脚",
-      "onboard_time": 1685955867,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 337599,
@@ -4313,6 +4321,14 @@
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 313624,
+      "num": 192857,
+      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+      "onboard_time": 1685959708,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 313379,
@@ -5651,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250831,
+      "num": 936957,
+      "word": "哥哥听到妹妹哭声一路小跑来安抚",
+      "onboard_time": 1685955628,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250666,
       "num": 250666,
       "word": "如果月入三万你愿意去送外卖吗",
@@ -5761,6 +5785,14 @@
       "onboard_time": 1685606668,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244085,
+      "num": 244085,
+      "word": "金莎终于又拍古装剧了",
+      "onboard_time": 1685957068,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 243759,
@@ -5961,6 +5993,14 @@
       "onboard_time": 1685668827,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238008,
+      "num": 238008,
+      "word": "小狗又不懂什么是寄养",
+      "onboard_time": 1685957728,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 237850,
@@ -6496,6 +6536,14 @@
       "word": "张艺兴深圳演唱会今天抢票",
       "onboard_time": 1685764946,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 218898,
+      "num": 218898,
+      "word": "薛之谦宜昌",
+      "onboard_time": 1685958808,
+      "rank": 25,
       "category": "音乐"
     },
     {
@@ -7203,12 +7251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196951,
+      "num": 196951,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1685956407,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "威尔为什么还在",
       "onboard_time": 1685856868,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196771,
+      "num": 196771,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 196769,
@@ -7569,6 +7633,14 @@
       "onboard_time": 1685638041,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188922,
+      "num": 188922,
+      "word": "林俊杰演唱会上海站审批通过",
+      "onboard_time": 1685958869,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 188917,
@@ -7963,6 +8035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178954,
+      "num": 178954,
+      "word": "高考时间",
+      "onboard_time": 1685957669,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 178936,
       "num": 178936,
       "word": "铁路回应老人高铁上用菜刀削苹果",
@@ -8001,6 +8081,14 @@
       "onboard_time": 1685955508,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 177848,
+      "num": 177848,
+      "word": "反复高考的行为有意义吗",
+      "onboard_time": 1685959527,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 177832,
@@ -8337,14 +8425,6 @@
       "onboard_time": 1685693608,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166169,
-      "num": 166169,
-      "word": "微博电影之夜阵容",
-      "onboard_time": 1685956407,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 166155,
@@ -8755,20 +8835,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155573,
-      "num": 408077,
-      "word": "哥哥听到妹妹哭声一路小跑来安抚",
-      "onboard_time": 1685955628,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155499,
       "num": 155499,
       "word": "明星芭莎吃东西大片",
       "onboard_time": 1685602770,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155489,
+      "num": 155489,
+      "word": "49岁你还有勇气参加高考吗",
+      "onboard_time": 1685958629,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 155232,
@@ -9091,6 +9171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147500,
+      "num": 147500,
+      "word": "薛之谦天外来物",
+      "onboard_time": 1685958749,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146476,
       "num": 146476,
       "word": "梅西回应内马尔",
@@ -9112,14 +9200,6 @@
       "word": "瞬息全宇宙",
       "onboard_time": 1685685868,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 145043,
-      "num": 145043,
-      "word": "金莎终于又拍古装剧了",
-      "onboard_time": 1685957068,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -9587,6 +9667,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 127551,
+      "num": 127551,
+      "word": "谁给侯明昊拍的照片",
+      "onboard_time": 1685959406,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127402,
       "num": 351697,
       "word": "4岁男童路过纪念碑跑着上前敬礼",
@@ -9633,6 +9721,14 @@
       "onboard_time": 1685849367,
       "rank": 44,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 125810,
+      "num": 125810,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 125732,
@@ -10731,6 +10827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74538,
+      "num": 1272929,
+      "word": "2023高考加油短片",
+      "onboard_time": 1685957309,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74373,
       "num": 141466,
       "word": "爱吃薯条的危害",
@@ -11259,11 +11363,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36102,
-      "num": 1021774,
-      "word": "2023高考加油短片",
-      "onboard_time": 1685957309,
-      "rank": 2,
+      "raw_hot": 36880,
+      "num": 403036,
+      "word": "轿车淹没前民警1分钟内连救男子2次",
+      "onboard_time": 1685959288,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
