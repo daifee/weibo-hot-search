@@ -1,0 +1,410 @@
+{
+  "runTime": 1685954035770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2067900,
+        "num": 2067900,
+        "word": "江歌妈妈 捐出全部赔偿不是冲动",
+        "onboard_time": 1685949269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1487370,
+        "num": 1487370,
+        "word": "娜扎时隔七年重开评论区",
+        "onboard_time": 1685947887,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68138,
+        "num": 1453701,
+        "word": "距2023高考还有2天",
+        "onboard_time": 1685932287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438714,
+        "num": 1438714,
+        "word": "亲戚小孩毁了我的动漫周边",
+        "onboard_time": 1685940031,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948228,
+        "num": 948228,
+        "word": "张一山眼球怎么了",
+        "onboard_time": 1685942608,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635073,
+        "num": 635073,
+        "word": "第一眼被任敏惊艳到了",
+        "onboard_time": 1685938534,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622055,
+        "num": 622055,
+        "word": "周震南父亲等被恢复执行1046万",
+        "onboard_time": 1685947227,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 517736,
+        "num": 517736,
+        "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+        "onboard_time": 1685938775,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506480,
+        "num": 506480,
+        "word": "肖战被强行拉cp",
+        "onboard_time": 1685946027,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482331,
+        "num": 482331,
+        "word": "安茂元 三亚被宰记",
+        "onboard_time": 1685947527,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 441990,
+        "num": 441990,
+        "word": "封神",
+        "onboard_time": 1685948128,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403564,
+        "num": 403564,
+        "word": "山东高考期间高校学生不得请假离校",
+        "onboard_time": 1685948728,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 392792,
+        "num": 392792,
+        "word": "魏晨差点错过孩子出生第一刻",
+        "onboard_time": 1685950890,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359493,
+        "num": 359493,
+        "word": "你不用在意我的外表我不是你未来的妻子",
+        "onboard_time": 1685950467,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 83849,
+        "num": 323594,
+        "word": "男老师集体为高考生跳女团舞解压",
+        "onboard_time": 1685952089,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308525,
+        "num": 308525,
+        "word": "张一山 演盲人",
+        "onboard_time": 1685947527,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296220,
+        "num": 296220,
+        "word": "珠峰被救女子不愿支付全部救援费用",
+        "onboard_time": 1685933429,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292528,
+        "num": 292528,
+        "word": "郑秀妍Amber合体",
+        "onboard_time": 1685934869,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282089,
+        "num": 282089,
+        "word": "市监局回应反复对比确认是鸭脖",
+        "onboard_time": 1685940872,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266866,
+        "num": 266866,
+        "word": "网友路上偶遇高考试卷押运车",
+        "onboard_time": 1685953529,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 594567,
+        "num": 263122,
+        "word": "女子反问男友8年感情竟不值38万",
+        "onboard_time": 1685937630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414884,
+        "num": 260080,
+        "word": "住酒店不小心把床睡塌了",
+        "onboard_time": 1685949688,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306688,
+        "num": 257492,
+        "word": "郭俊辰早几年都干嘛去了",
+        "onboard_time": 1685952328,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250465,
+        "num": 250465,
+        "word": "杨紫工作室P图不P镜子",
+        "onboard_time": 1685924669,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228377,
+        "num": 228377,
+        "word": "罗云熙李一桐陈瑶聚餐",
+        "onboard_time": 1685947828,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209987,
+        "num": 209987,
+        "word": "张彬彬扫楼穿的唇印衬衫",
+        "onboard_time": 1685951009,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207533,
+        "num": 207533,
+        "word": "娜扎说恶评不会再影响我",
+        "onboard_time": 1685951549,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204535,
+        "num": 204535,
+        "word": "丁太升评价吉克隽逸",
+        "onboard_time": 1685949807,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193300,
+        "num": 193300,
+        "word": "鞠婧祎歪头",
+        "onboard_time": 1685949328,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67929,
+        "num": 191626,
+        "word": "喂119吗我是需要帮忙抓蛇的110",
+        "onboard_time": 1685930246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190393,
+        "num": 190393,
+        "word": "包丽",
+        "onboard_time": 1685945789,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190360,
+        "num": 190360,
+        "word": "杨紫工作室 动起来的boss更美",
+        "onboard_time": 1685945247,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174334,
+        "num": 174334,
+        "word": "杭州一客车碰撞收费站起火4人死亡",
+        "onboard_time": 1685944048,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173203,
+        "num": 173203,
+        "word": "杨紫不发朋友圈的原因",
+        "onboard_time": 1685947106,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165890,
+        "num": 165890,
+        "word": "散步真的有很多好处",
+        "onboard_time": 1685948668,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162098,
+        "num": 162098,
+        "word": "田曦薇羊毛卷雀斑妆",
+        "onboard_time": 1685953529,
+        "rank": 35,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 156886,
+        "num": 156886,
+        "word": "肖春生戴婚戒",
+        "onboard_time": 1685943927,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155698,
+        "num": 155698,
+        "word": "他一定是想妈妈了",
+        "onboard_time": 1685952869,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154572,
+        "num": 154572,
+        "word": "于正新剧又是双女主",
+        "onboard_time": 1685934030,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138314,
+        "num": 138314,
+        "word": "梅西",
+        "onboard_time": 1685943330,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150524,
+        "num": 135623,
+        "word": "赌王三太 粤剧艺术团",
+        "onboard_time": 1685940992,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148242,
+        "num": 133829,
+        "word": "护心",
+        "onboard_time": 1685954009,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131831,
+        "num": 131831,
+        "word": "the idol",
+        "onboard_time": 1685934929,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131537,
+        "num": 131537,
+        "word": "电影封神第一部",
+        "onboard_time": 1685951188,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129614,
+        "num": 129614,
+        "word": "朱正廷回应没学会关美颜",
+        "onboard_time": 1685948367,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127485,
+        "num": 127485,
+        "word": "黄旭熙 泡泡",
+        "onboard_time": 1685933189,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124705,
+        "num": 124705,
+        "word": "shanji",
+        "onboard_time": 1685929407,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121891,
+        "num": 121891,
+        "word": "塞尔达 海拉鲁现代化养鸡场",
+        "onboard_time": 1685952566,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114792,
+        "num": 114792,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1685921783,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112556,
+        "num": 112556,
+        "word": "六千的喜宴7成是预制菜或只要一千多",
+        "onboard_time": 1685953469,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天世界环境日#"
+    }
+  }
+}
