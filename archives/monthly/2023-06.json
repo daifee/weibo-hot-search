@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685978324151,
+  "endTime": 1685979230799,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838400,
+      "num": 536498,
+      "word": "鸭圣婆 杰克辣条",
+      "onboard_time": 1685973930,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838196,
       "num": 1139906,
       "word": "高三学生写永久请假条告别班主任",
@@ -1731,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781716,
+      "num": 781716,
+      "word": "有刘海的刘浩存",
+      "onboard_time": 1685976872,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777837,
       "num": 777837,
       "word": "刘畊宏20秒短视频要价60万",
@@ -1760,14 +1776,6 @@
       "word": "小伙1.2万元拍下单颗荔枝送女友",
       "onboard_time": 1685795186,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770993,
-      "num": 536498,
-      "word": "鸭圣婆 杰克辣条",
-      "onboard_time": 1685973930,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2147,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638825,
+      "num": 638825,
+      "word": "母亲病危家人让高考孩子见最后一面",
+      "onboard_time": 1685973030,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 638400,
       "num": 638400,
       "word": "YG艺人目录中没有BIGBANG",
@@ -2403,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576021,
-      "num": 576021,
-      "word": "有刘海的刘浩存",
-      "onboard_time": 1685976872,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 573709,
       "num": 573709,
       "word": "鞠婧祎反手一个大比兜",
@@ -2649,14 +2657,6 @@
       "onboard_time": 1685545351,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 528131,
-      "num": 528131,
-      "word": "母亲病危家人让高考孩子见最后一面",
-      "onboard_time": 1685973030,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 527494,
@@ -3875,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364509,
+      "num": 364509,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 363434,
       "num": 363434,
       "word": "就喜欢纯爱",
@@ -3977,6 +3985,14 @@
       "onboard_time": 1685788226,
       "rank": 29,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 355592,
+      "num": 355592,
+      "word": "苹果发布会",
+      "onboard_time": 1685979027,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 355188,
@@ -4267,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335500,
+      "num": 335500,
+      "word": "肖春生 肖春卷",
+      "onboard_time": 1685976751,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335212,
       "num": 254111,
       "word": "东部战区就美加军舰过航台湾海峡发表谈话",
@@ -4305,14 +4329,6 @@
       "onboard_time": 1685624491,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 331381,
-      "num": 331381,
-      "word": "儿子高考前告别重病妈妈医生善意劝导",
-      "onboard_time": 1685965285,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 331186,
@@ -4401,14 +4417,6 @@
       "onboard_time": 1685629471,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 327606,
-      "num": 327606,
-      "word": "肖春生 肖春卷",
-      "onboard_time": 1685976751,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 327306,
@@ -5187,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283080,
+      "num": 283080,
+      "word": "第一次见YG公关部这么迅速",
+      "onboard_time": 1685973870,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283072,
       "num": 175329,
       "word": "关晓彤多巴胺穿搭",
@@ -5449,14 +5465,6 @@
       "onboard_time": 1685849547,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 269818,
-      "num": 269818,
-      "word": "第一次见YG公关部这么迅速",
-      "onboard_time": 1685973870,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 269483,
@@ -6771,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223984,
+      "num": 223984,
+      "word": "郑秀妍 勇敢又有担当",
+      "onboard_time": 1685977172,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222299,
       "num": 222299,
       "word": "商家回应点10斤小龙虾出锅后5斤",
@@ -7147,14 +7163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212606,
-      "num": 212606,
-      "word": "郑秀妍 勇敢又有担当",
-      "onboard_time": 1685977172,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -7433,6 +7441,14 @@
       "onboard_time": 1685708972,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202629,
+      "num": 202629,
+      "word": "肖春生什么时候分手",
+      "onboard_time": 1685978729,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 202375,
@@ -8003,6 +8019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190211,
+      "num": 190211,
+      "word": "亢奋",
+      "onboard_time": 1685977951,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190148,
       "num": 190148,
       "word": "时代少年团儿童节vlog",
@@ -8016,6 +8040,14 @@
       "word": "蔡徐坤晒澳门演唱会舞台照",
       "onboard_time": 1685756009,
       "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190050,
+      "num": 190050,
+      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+      "onboard_time": 1685974230,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -8251,14 +8283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184951,
-      "num": 184951,
-      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
-      "onboard_time": 1685974230,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184808,
       "num": 174583,
       "word": "为什么南方没有暴走团",
@@ -8483,6 +8507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179046,
+      "num": 179046,
+      "word": "侯明昊他好在乎",
+      "onboard_time": 1685978190,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178936,
       "num": 178936,
       "word": "铁路回应老人高铁上用菜刀削苹果",
@@ -8497,14 +8529,6 @@
       "onboard_time": 1685716533,
       "rank": 42,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 178605,
-      "num": 178605,
-      "word": "亢奋",
-      "onboard_time": 1685977951,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 178512,
@@ -9947,6 +9971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136733,
+      "num": 136733,
+      "word": "论文胶装完发现多了个冒号",
+      "onboard_time": 1685978129,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -10057,6 +10089,14 @@
       "onboard_time": 1685771308,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132807,
+      "num": 132807,
+      "word": "蒋欣是懂回复的",
+      "onboard_time": 1685979027,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 132601,
@@ -10193,14 +10233,6 @@
       "onboard_time": 1685920941,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 128339,
-      "num": 128339,
-      "word": "侯明昊他好在乎",
-      "onboard_time": 1685978190,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 128244,
@@ -12211,6 +12243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21565,
+      "num": 420081,
+      "word": "上场吧少年",
+      "onboard_time": 1685977292,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21272,
       "num": 151626,
       "word": "儿童节收到来自小朋友的反向祝福",
@@ -12241,14 +12281,6 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16129,
-      "num": 420081,
-      "word": "上场吧少年",
-      "onboard_time": 1685977292,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13722,

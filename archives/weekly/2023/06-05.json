@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685978324151,
+  "endTime": 1685979230799,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838400,
+      "num": 536498,
+      "word": "鸭圣婆 杰克辣条",
+      "onboard_time": 1685973930,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837729,
       "num": 837729,
       "word": "SMTOWN曾用EXO威胁边伯贤",
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781716,
+      "num": 781716,
+      "word": "有刘海的刘浩存",
+      "onboard_time": 1685976872,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777538,
       "num": 777538,
       "word": "肖战被强行拉cp",
       "onboard_time": 1685946027,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 770993,
-      "num": 536498,
-      "word": "鸭圣婆 杰克辣条",
-      "onboard_time": 1685973930,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 765929,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638825,
+      "num": 638825,
+      "word": "母亲病危家人让高考孩子见最后一面",
+      "onboard_time": 1685973030,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 638400,
       "num": 638400,
       "word": "YG艺人目录中没有BIGBANG",
@@ -587,14 +603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 576021,
-      "num": 576021,
-      "word": "有刘海的刘浩存",
-      "onboard_time": 1685976872,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 567816,
       "num": 567816,
       "word": "市监局回应反复对比确认是鸭脖",
@@ -624,14 +632,6 @@
       "word": "网友路上偶遇高考试卷押运车",
       "onboard_time": 1685953529,
       "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 528131,
-      "num": 528131,
-      "word": "母亲病危家人让高考孩子见最后一面",
-      "onboard_time": 1685973030,
-      "rank": 31,
       "category": "社会新闻,教育"
     },
     {
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364509,
+      "num": 364509,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 362989,
       "num": 271671,
       "word": "林一文俊辉约饭",
@@ -961,6 +969,14 @@
       "onboard_time": 1685975191,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355592,
+      "num": 355592,
+      "word": "苹果发布会",
+      "onboard_time": 1685979027,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 354421,
@@ -1027,27 +1043,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335500,
+      "num": 335500,
+      "word": "肖春生 肖春卷",
+      "onboard_time": 1685976751,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332839,
       "num": 332839,
       "word": "the idol",
       "onboard_time": 1685934929,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 331381,
-      "num": 331381,
-      "word": "儿子高考前告别重病妈妈医生善意劝导",
-      "onboard_time": 1685965285,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 327606,
-      "num": 327606,
-      "word": "肖春生 肖春卷",
-      "onboard_time": 1685976751,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283080,
+      "num": 283080,
+      "word": "第一次见YG公关部这么迅速",
+      "onboard_time": 1685973870,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "只有宋茜一个人受伤的世界达成了",
@@ -1184,14 +1200,6 @@
       "word": "罗云熙李一桐陈瑶聚餐",
       "onboard_time": 1685947828,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269818,
-      "num": 269818,
-      "word": "第一次见YG公关部这么迅速",
-      "onboard_time": 1685973870,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1459,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223984,
+      "num": 223984,
+      "word": "郑秀妍 勇敢又有担当",
+      "onboard_time": 1685977172,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222299,
       "num": 222299,
       "word": "商家回应点10斤小龙虾出锅后5斤",
@@ -1547,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212606,
-      "num": 212606,
-      "word": "郑秀妍 勇敢又有担当",
-      "onboard_time": 1685977172,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211503,
       "num": 211503,
       "word": "四公",
@@ -1616,6 +1624,14 @@
       "word": "微博电影之夜阵容",
       "onboard_time": 1685956407,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202629,
+      "num": 202629,
+      "word": "肖春生什么时候分手",
+      "onboard_time": 1685978729,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1723,6 +1739,22 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 190211,
+      "num": 190211,
+      "word": "亢奋",
+      "onboard_time": 1685977951,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190050,
+      "num": 190050,
+      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+      "onboard_time": 1685974230,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189453,
       "num": 189453,
       "word": "肖春生发量",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184951,
-      "num": 184951,
-      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
-      "onboard_time": 1685974230,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 183222,
@@ -1819,11 +1843,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178605,
-      "num": 178605,
-      "word": "亢奋",
-      "onboard_time": 1685977951,
-      "rank": 40,
+      "raw_hot": 179046,
+      "num": 179046,
+      "word": "侯明昊他好在乎",
+      "onboard_time": 1685978190,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -2251,6 +2275,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 136733,
+      "num": 136733,
+      "word": "论文胶装完发现多了个冒号",
+      "onboard_time": 1685978129,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135127,
       "num": 128143,
       "word": "鹿晗三巡周边预告",
@@ -2265,6 +2297,14 @@
       "onboard_time": 1685957131,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132807,
+      "num": 132807,
+      "word": "蒋欣是懂回复的",
+      "onboard_time": 1685979027,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 132407,
@@ -2313,14 +2353,6 @@
       "onboard_time": 1685920941,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 128339,
-      "num": 128339,
-      "word": "侯明昊他好在乎",
-      "onboard_time": 1685978190,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 128244,
@@ -2771,7 +2803,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16129,
+      "raw_hot": 21565,
       "num": 420081,
       "word": "上场吧少年",
       "onboard_time": 1685977292,
