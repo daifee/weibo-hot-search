@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685979230799,
+  "endTime": 1685982149595,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -145,6 +145,14 @@
       "onboard_time": 1685635046,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2311225,
+      "num": 2311225,
+      "word": "吴倩 退赛",
+      "onboard_time": 1685979988,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2223234,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202820,
+      "num": 1202820,
+      "word": "苹果发布会",
+      "onboard_time": 1685979027,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1191166,
       "num": 1063314,
       "word": "警方回应校内被撞身亡小学生母亲坠亡",
@@ -1731,20 +1747,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789843,
+      "num": 789843,
+      "word": "有刘海的刘浩存",
+      "onboard_time": 1685976872,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787851,
       "num": 787851,
       "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
       "onboard_time": 1685618847,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781716,
-      "num": 781716,
-      "word": "有刘海的刘浩存",
-      "onboard_time": 1685976872,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 777837,
@@ -2432,6 +2448,14 @@
       "word": "苹果14",
       "onboard_time": 1685536646,
       "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 569196,
+      "num": 569196,
+      "word": "库克 今年将是最精彩WWDC",
+      "onboard_time": 1685979748,
+      "rank": 8,
       "category": "科技"
     },
     {
@@ -3987,14 +4011,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 355592,
-      "num": 355592,
-      "word": "苹果发布会",
-      "onboard_time": 1685979027,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 355188,
       "num": 355188,
       "word": "中国女排",
@@ -4467,6 +4483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324661,
+      "num": 211438,
+      "word": "陈紫函公诉泳装出场",
+      "onboard_time": 1685980227,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324465,
       "num": 268301,
       "word": "景甜张凌赫四海重明官宣",
@@ -4867,6 +4891,14 @@
       "category": "体育,旅游"
     },
     {
+      "raw_hot": 297280,
+      "num": 207495,
+      "word": "后浪大结局",
+      "onboard_time": 1685980348,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297204,
       "num": 297204,
       "word": "瓶子吃瓜",
@@ -5187,20 +5219,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283555,
+      "num": 283555,
+      "word": "第一次见YG公关部这么迅速",
+      "onboard_time": 1685973870,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283400,
       "num": 421046,
       "word": "拼多多补贴力度不像是演的",
       "onboard_time": 1685619325,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283080,
-      "num": 283080,
-      "word": "第一次见YG公关部这么迅速",
-      "onboard_time": 1685973870,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 283072,
@@ -6763,6 +6795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224194,
+      "num": 224194,
+      "word": "蒋欣是懂回复的",
+      "onboard_time": 1685979027,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224190,
       "num": 224190,
       "word": "还没有一个人有我全部的账号",
@@ -7667,6 +7707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197480,
+      "num": 197480,
+      "word": "谢娜朱珠郑秀妍合作舞台重录",
+      "onboard_time": 1685981426,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197328,
       "num": 197328,
       "word": "蛋仔派对",
@@ -8379,6 +8427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182829,
+      "num": 182829,
+      "word": "论文胶装完发现多了个冒号",
+      "onboard_time": 1685978129,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182557,
       "num": 172452,
       "word": "张馨予从小到大颜值变化",
@@ -8459,6 +8515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180853,
+      "num": 180853,
+      "word": "侯明昊他好在乎",
+      "onboard_time": 1685978190,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180679,
       "num": 180679,
       "word": "前羽球奥运冠军质疑李宗伟入选名人堂",
@@ -8505,14 +8569,6 @@
       "onboard_time": 1685798848,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179046,
-      "num": 179046,
-      "word": "侯明昊他好在乎",
-      "onboard_time": 1685978190,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 178936,
@@ -9240,6 +9296,14 @@
       "word": "胡锡进 毕节如此提防记者是在怕什么",
       "onboard_time": 1685597967,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158649,
+      "num": 158649,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -9971,14 +10035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136733,
-      "num": 136733,
-      "word": "论文胶装完发现多了个冒号",
-      "onboard_time": 1685978129,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -10089,14 +10145,6 @@
       "onboard_time": 1685771308,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132807,
-      "num": 132807,
-      "word": "蒋欣是懂回复的",
-      "onboard_time": 1685979027,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 132601,
@@ -10560,6 +10608,14 @@
       "word": "求求你了好好睡觉吧",
       "onboard_time": 1685575461,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118775,
+      "num": 118775,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -12248,6 +12304,14 @@
       "word": "上场吧少年",
       "onboard_time": 1685977292,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21274,
+      "num": 956825,
+      "word": "首艘国产大型邮轮有2500万个零部件",
+      "onboard_time": 1685972191,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

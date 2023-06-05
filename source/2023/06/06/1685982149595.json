@@ -1,0 +1,410 @@
+{
+  "runTime": 1685982149595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2311225,
+        "num": 2311225,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1202820,
+        "num": 1202820,
+        "word": "苹果发布会",
+        "onboard_time": 1685979027,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21274,
+        "num": 956825,
+        "word": "首艘国产大型邮轮有2500万个零部件",
+        "onboard_time": 1685972191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939941,
+        "num": 939941,
+        "word": "业主购42套房全部打通墙体",
+        "onboard_time": 1685972670,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 791713,
+        "num": 791713,
+        "word": "27岁游戏主播抗癌半年后去世",
+        "onboard_time": 1685976153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789843,
+        "num": 789843,
+        "word": "有刘海的刘浩存",
+        "onboard_time": 1685976872,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759840,
+        "num": 759840,
+        "word": "任豪求求了你们好好谈恋爱吧",
+        "onboard_time": 1685971470,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647690,
+        "num": 647690,
+        "word": "美依礼芽四公 青鸟",
+        "onboard_time": 1685970688,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569196,
+        "num": 569196,
+        "word": "库克 今年将是最精彩WWDC",
+        "onboard_time": 1685979748,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 538923,
+        "num": 538923,
+        "word": "母亲病危家人让高考孩子见最后一面",
+        "onboard_time": 1685973030,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 647198,
+        "num": 521266,
+        "word": "她只是长得好看并且很健谈罢了",
+        "onboard_time": 1685970630,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 427246,
+        "num": 427246,
+        "word": "Jennie新剧",
+        "onboard_time": 1685973571,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422321,
+        "num": 422321,
+        "word": "海天品牌回应蚝油内疑发现生蚝",
+        "onboard_time": 1685965046,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 398165,
+        "num": 398165,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370179,
+        "num": 370179,
+        "word": "娜扎七年前生图",
+        "onboard_time": 1685964207,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316800,
+        "num": 316800,
+        "word": "儿子高考前告别重病妈妈医生善意劝导",
+        "onboard_time": 1685965285,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 283555,
+        "num": 283555,
+        "word": "第一次见YG公关部这么迅速",
+        "onboard_time": 1685973870,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264932,
+        "num": 264932,
+        "word": "电梯故障学生爬29楼赴高考商家被罚",
+        "onboard_time": 1685969186,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 243014,
+        "num": 243014,
+        "word": "蔡依林 玫瑰少年",
+        "onboard_time": 1685971768,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224194,
+        "num": 224194,
+        "word": "蒋欣是懂回复的",
+        "onboard_time": 1685979027,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510288,
+        "num": 222500,
+        "word": "鸭圣婆 杰克辣条",
+        "onboard_time": 1685973930,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 383709,
+        "num": 216456,
+        "word": "高考700分和存款700万你选哪个",
+        "onboard_time": 1685969006,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324661,
+        "num": 211438,
+        "word": "陈紫函公诉泳装出场",
+        "onboard_time": 1685980227,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297280,
+        "num": 207495,
+        "word": "后浪大结局",
+        "onboard_time": 1685980348,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189422,
+        "num": 201493,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1685968585,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201299,
+        "num": 201299,
+        "word": "肖春生 肖春卷",
+        "onboard_time": 1685976751,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197480,
+        "num": 197480,
+        "word": "谢娜朱珠郑秀妍合作舞台重录",
+        "onboard_time": 1685981426,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182829,
+        "num": 182829,
+        "word": "论文胶装完发现多了个冒号",
+        "onboard_time": 1685978129,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181146,
+        "num": 181146,
+        "word": "Xiaohao哭了",
+        "onboard_time": 1685975191,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119425,
+        "num": 180879,
+        "word": "别信了梅西不会来敬酒",
+        "onboard_time": 1685967747,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 259371,
+        "num": 180870,
+        "word": "鼠头还是鸭脖怎么就成了罗生门",
+        "onboard_time": 1685971528,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230171,
+        "num": 180870,
+        "word": "南昌市监局已介入高校食堂老鼠事件",
+        "onboard_time": 1685967387,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180853,
+        "num": 180853,
+        "word": "侯明昊他好在乎",
+        "onboard_time": 1685978190,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174201,
+        "num": 174201,
+        "word": "难怪白鹿许凯不帮于正新剧宣传",
+        "onboard_time": 1685961985,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173961,
+        "num": 173961,
+        "word": "亢奋",
+        "onboard_time": 1685977951,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172032,
+        "num": 172032,
+        "word": "张小狮说愿意归还所有资助",
+        "onboard_time": 1685965706,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 163388,
+        "num": 163388,
+        "word": "肖春生什么时候分手",
+        "onboard_time": 1685978729,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163137,
+        "num": 163137,
+        "word": "你觉得高考哪科最难",
+        "onboard_time": 1685965888,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158649,
+        "num": 158649,
+        "word": "天津碧桂园",
+        "onboard_time": 1685981366,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153608,
+        "num": 153608,
+        "word": "SMTOWN曾用EXO威胁边伯贤",
+        "onboard_time": 1685963006,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 152074,
+        "word": "郑秀妍 勇敢又有担当",
+        "onboard_time": 1685977172,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136672,
+        "num": 136672,
+        "word": "鞠婧祎花戎同居",
+        "onboard_time": 1685970266,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131201,
+        "num": 131201,
+        "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+        "onboard_time": 1685974230,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131685,
+        "num": 129627,
+        "word": "花戎",
+        "onboard_time": 1685981246,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119748,
+        "num": 119748,
+        "word": "梅西想要回归巴萨",
+        "onboard_time": 1685969364,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118775,
+        "num": 118775,
+        "word": "上班更苦还是上学更苦",
+        "onboard_time": 1685981667,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116606,
+        "num": 116606,
+        "word": "贺红玲从来不是佟晓梅的替身",
+        "onboard_time": 1685976810,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115818,
+        "num": 115818,
+        "word": "三分野",
+        "onboard_time": 1685975729,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112815,
+        "num": 112815,
+        "word": "初级会计",
+        "onboard_time": 1685968227,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99273,
+        "num": 99273,
+        "word": "虞书欣方公布维权案进度",
+        "onboard_time": 1685970688,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#美丽中国在行动#"
+    }
+  }
+}

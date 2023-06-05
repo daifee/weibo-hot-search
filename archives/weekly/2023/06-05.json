@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685979230799,
+  "endTime": 1685982149595,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -25,6 +25,14 @@
       "onboard_time": 1685942608,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2311225,
+      "num": 2311225,
+      "word": "吴倩 退赛",
+      "onboard_time": 1685979988,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2183531,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202820,
+      "num": 1202820,
+      "word": "苹果发布会",
+      "onboard_time": 1685979027,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1118785,
       "num": 1118785,
       "word": "本周狗屎运最旺的星座",
@@ -427,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781716,
-      "num": 781716,
+      "raw_hot": 789843,
+      "num": 789843,
       "word": "有刘海的刘浩存",
       "onboard_time": 1685976872,
       "rank": 7,
@@ -601,6 +617,14 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 569196,
+      "num": 569196,
+      "word": "库克 今年将是最精彩WWDC",
+      "onboard_time": 1685979748,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 567816,
@@ -971,14 +995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 355592,
-      "num": 355592,
-      "word": "苹果发布会",
-      "onboard_time": 1685979027,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 354421,
       "num": 354421,
       "word": "马斯克亲测减肥神药要来了",
@@ -1059,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324661,
+      "num": 211438,
+      "word": "陈紫函公诉泳装出场",
+      "onboard_time": 1685980227,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1685925090,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297280,
+      "num": 207495,
+      "word": "后浪大结局",
+      "onboard_time": 1685980348,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 297204,
@@ -1155,8 +1187,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 283080,
-      "num": 283080,
+      "raw_hot": 283555,
+      "num": 283555,
       "word": "第一次见YG公关部这么迅速",
       "onboard_time": 1685973870,
       "rank": 36,
@@ -1467,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224194,
+      "num": 224194,
+      "word": "蒋欣是懂回复的",
+      "onboard_time": 1685979027,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223984,
       "num": 223984,
       "word": "郑秀妍 勇敢又有担当",
@@ -1683,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197480,
+      "num": 197480,
+      "word": "谢娜朱珠郑秀妍合作舞台重录",
+      "onboard_time": 1685981426,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195254,
       "num": 195254,
       "word": "微博电影之夜主持人",
@@ -1803,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182829,
+      "num": 182829,
+      "word": "论文胶装完发现多了个冒号",
+      "onboard_time": 1685978129,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182316,
       "num": 182316,
       "word": "王宝强新片选山区孩子当主角",
@@ -1835,20 +1891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180853,
+      "num": 180853,
+      "word": "侯明昊他好在乎",
+      "onboard_time": 1685978190,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180041,
       "num": 180041,
       "word": "随拍镜头下的易烊千玺",
       "onboard_time": 1685956290,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179046,
-      "num": 179046,
-      "word": "侯明昊他好在乎",
-      "onboard_time": 1685978190,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 178145,
@@ -2083,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158649,
+      "num": 158649,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157871,
       "num": 157871,
       "word": "罗一舟后浪跳舞了",
@@ -2275,14 +2339,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 136733,
-      "num": 136733,
-      "word": "论文胶装完发现多了个冒号",
-      "onboard_time": 1685978129,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135127,
       "num": 128143,
       "word": "鹿晗三巡周边预告",
@@ -2299,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132807,
-      "num": 132807,
-      "word": "蒋欣是懂回复的",
-      "onboard_time": 1685979027,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132407,
       "num": 132407,
       "word": "薛之谦宜昌加场",
@@ -2320,6 +2368,14 @@
       "word": "周雨彤进组半熟男女",
       "onboard_time": 1685895567,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 131685,
+      "num": 129627,
+      "word": "花戎",
+      "onboard_time": 1685981246,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -2457,6 +2513,14 @@
       "onboard_time": 1685966366,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 118775,
+      "num": 118775,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 118148,
@@ -2808,6 +2872,14 @@
       "word": "上场吧少年",
       "onboard_time": 1685977292,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21274,
+      "num": 956825,
+      "word": "首艘国产大型邮轮有2500万个零部件",
+      "onboard_time": 1685972191,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
