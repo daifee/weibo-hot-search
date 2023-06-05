@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685960348825,
+  "endTime": 1685961263104,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -579,8 +579,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1557866,
-      "num": 1557866,
+      "raw_hot": 1570983,
+      "num": 1570983,
       "word": "某某影视化",
       "onboard_time": 1685954368,
       "rank": 9,
@@ -1203,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1028174,
+      "num": 1028174,
+      "word": "难听",
+      "onboard_time": 1685681197,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1023392,
       "num": 1023392,
       "word": "蔡康永把林志玲问哭",
@@ -1331,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925771,
-      "num": 925771,
-      "word": "难听",
-      "onboard_time": 1685681197,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 925237,
       "num": 925237,
       "word": "日本女团成员灌男粉喝洗洁精",
@@ -1393,6 +1393,14 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 875066,
+      "num": 1031783,
+      "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
+      "onboard_time": 1685958629,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874910,
@@ -1819,14 +1827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690554,
-      "num": 1031783,
-      "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
-      "onboard_time": 1685958629,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 688162,
       "num": 688162,
       "word": "张艺兴 买票请认准官方票务平台",
@@ -2049,6 +2049,14 @@
       "onboard_time": 1685699128,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 621016,
+      "num": 498043,
+      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+      "onboard_time": 1685959708,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 616292,
@@ -4323,14 +4331,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 313624,
-      "num": 192857,
-      "word": "孙怡对汤晶媚说你不要在这道德绑架我",
-      "onboard_time": 1685959708,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313379,
       "num": 313379,
       "word": "SMTOWN说钱不重要",
@@ -5171,6 +5171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269010,
+      "num": 269010,
+      "word": "建议实现一户一曜",
+      "onboard_time": 1685959049,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268903,
       "num": 268903,
       "word": "孟子义提携周一围",
@@ -5297,6 +5305,14 @@
       "onboard_time": 1685717975,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264490,
+      "num": 244085,
+      "word": "金莎终于又拍古装剧了",
+      "onboard_time": 1685957068,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 264460,
@@ -5785,14 +5801,6 @@
       "onboard_time": 1685606668,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244085,
-      "num": 244085,
-      "word": "金莎终于又拍古装剧了",
-      "onboard_time": 1685957068,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 243759,
@@ -6337,6 +6345,14 @@
       "onboard_time": 1685940271,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225724,
+      "num": 225724,
+      "word": "林俊杰演唱会上海站审批通过",
+      "onboard_time": 1685958869,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 225487,
@@ -6907,6 +6923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208135,
+      "num": 201742,
+      "word": "空降",
+      "onboard_time": 1685961028,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207521,
       "num": 169619,
       "word": "肖战召唤二八大杠男团",
@@ -7003,6 +7027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203334,
+      "num": 199796,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1685956407,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203111,
       "num": 160823,
       "word": "迪丽热巴回关宋昕冉",
@@ -7049,6 +7081,14 @@
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201884,
+      "num": 176511,
+      "word": "佟晓梅怎么会不爱上肖春生",
+      "onboard_time": 1685960666,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 201849,
@@ -7251,28 +7291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196951,
-      "num": 196951,
-      "word": "微博电影之夜阵容",
-      "onboard_time": 1685956407,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "威尔为什么还在",
       "onboard_time": 1685856868,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196771,
-      "num": 196771,
-      "word": "建议实现一户一曜",
-      "onboard_time": 1685959049,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 196769,
@@ -7337,6 +7361,14 @@
       "onboard_time": 1685954789,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195137,
+      "num": 195137,
+      "word": "高考时间",
+      "onboard_time": 1685957669,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193780,
@@ -7633,14 +7665,6 @@
       "onboard_time": 1685638041,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188922,
-      "num": 188922,
-      "word": "林俊杰演唱会上海站审批通过",
-      "onboard_time": 1685958869,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 188917,
@@ -8011,6 +8035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180297,
+      "num": 180297,
+      "word": "49岁你还有勇气参加高考吗",
+      "onboard_time": 1685958629,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 180041,
       "num": 180041,
       "word": "随拍镜头下的易烊千玺",
@@ -8033,14 +8065,6 @@
       "onboard_time": 1685798848,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178954,
-      "num": 178954,
-      "word": "高考时间",
-      "onboard_time": 1685957669,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 178936,
@@ -8843,14 +8867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155489,
-      "num": 155489,
-      "word": "49岁你还有勇气参加高考吗",
-      "onboard_time": 1685958629,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 155232,
       "num": 155232,
       "word": "当我手机没信号且找不到WiFi时",
@@ -8865,6 +8881,14 @@
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154910,
+      "num": 154910,
+      "word": "你的身体比你想象中更加爱你",
+      "onboard_time": 1685960008,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 154862,
@@ -9723,14 +9747,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 125810,
-      "num": 125810,
-      "word": "你的身体比你想象中更加爱你",
-      "onboard_time": 1685960008,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125732,
       "num": 125732,
       "word": "古人的送考吉祥话有多牛",
@@ -9961,6 +9977,14 @@
       "onboard_time": 1685698885,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117917,
+      "num": 117917,
+      "word": "高考钉子户",
+      "onboard_time": 1685961090,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 117805,
@@ -10635,6 +10659,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 86398,
+      "num": 1272929,
+      "word": "2023高考加油短片",
+      "onboard_time": 1685957309,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86200,
       "num": 86200,
       "word": "穆里尼奥",
@@ -10824,14 +10856,6 @@
       "word": "男生高铁站遇流浪狗特意返程收养",
       "onboard_time": 1685718032,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74538,
-      "num": 1272929,
-      "word": "2023高考加油短片",
-      "onboard_time": 1685957309,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11139,6 +11163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57454,
+      "num": 403036,
+      "word": "轿车淹没前民警1分钟内连救男子2次",
+      "onboard_time": 1685959288,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56826,
       "num": 113908,
       "word": "神十五航天员本周日返回地球",
@@ -11359,14 +11391,6 @@
       "num": 446920,
       "word": "济南800辆爱心送考车整装待发",
       "onboard_time": 1685944888,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36880,
-      "num": 403036,
-      "word": "轿车淹没前民警1分钟内连救男子2次",
-      "onboard_time": 1685959288,
       "rank": 14,
       "category": "社会新闻"
     },
