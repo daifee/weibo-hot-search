@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685975626425,
+  "endTime": 1685978324151,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -755,6 +755,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1400184,
+      "num": 1400184,
+      "word": "任豪求求了你们好好谈恋爱吧",
+      "onboard_time": 1685971470,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1394049,
       "num": 958329,
       "word": "毕业后租一辈子房可行吗",
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 1076254,
-      "num": 528397,
+      "num": 533499,
       "word": "Jennie新剧",
       "onboard_time": 1685973571,
       "rank": 18,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 1038215,
-      "num": 1038215,
-      "word": "任豪求求了你们好好谈恋爱吧",
-      "onboard_time": 1685971470,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 1037446,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 875800,
+      "num": 875800,
+      "word": "27岁游戏主播抗癌半年后去世",
+      "onboard_time": 1685976153,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875066,
@@ -1752,6 +1760,14 @@
       "word": "小伙1.2万元拍下单颗荔枝送女友",
       "onboard_time": 1685795186,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770993,
+      "num": 536498,
+      "word": "鸭圣婆 杰克辣条",
+      "onboard_time": 1685973930,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2387,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576021,
+      "num": 576021,
+      "word": "有刘海的刘浩存",
+      "onboard_time": 1685976872,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573709,
       "num": 573709,
       "word": "鞠婧祎反手一个大比兜",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1685545351,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528131,
+      "num": 528131,
+      "word": "母亲病危家人让高考孩子见最后一面",
+      "onboard_time": 1685973030,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 527494,
@@ -3707,14 +3739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377821,
-      "num": 377821,
-      "word": "鸭圣婆 杰克辣条",
-      "onboard_time": 1685973930,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377405,
       "num": 377405,
       "word": "我慢慢开始情绪稳定",
@@ -3881,6 +3905,14 @@
       "onboard_time": 1685931328,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362527,
+      "num": 362527,
+      "word": "Xiaohao哭了",
+      "onboard_time": 1685975191,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 360019,
@@ -4369,6 +4401,14 @@
       "onboard_time": 1685629471,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 327606,
+      "num": 327606,
+      "word": "肖春生 肖春卷",
+      "onboard_time": 1685976751,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 327306,
@@ -5411,6 +5451,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 269818,
+      "num": 269818,
+      "word": "第一次见YG公关部这么迅速",
+      "onboard_time": 1685973870,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -5747,14 +5795,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 258455,
-      "num": 258455,
-      "word": "母亲病危家人让高考孩子见最后一面",
-      "onboard_time": 1685973030,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 258139,
       "num": 174809,
       "word": "还以为吴磊从新疆骑到广州",
@@ -5913,14 +5953,6 @@
       "onboard_time": 1685593050,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252483,
-      "num": 252483,
-      "word": "第一次见YG公关部这么迅速",
-      "onboard_time": 1685973870,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 251954,
@@ -7115,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212606,
+      "num": 212606,
+      "word": "郑秀妍 勇敢又有担当",
+      "onboard_time": 1685977172,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -7329,6 +7369,22 @@
       "onboard_time": 1685610028,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204542,
+      "num": 204542,
+      "word": "我和数学学霸的差距有多大",
+      "onboard_time": 1685977292,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "郭艾伦tatan见面",
+      "onboard_time": 1685977409,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 204021,
@@ -8195,6 +8251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184951,
+      "num": 184951,
+      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+      "onboard_time": 1685974230,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184808,
       "num": 174583,
       "word": "为什么南方没有暴走团",
@@ -8305,6 +8369,14 @@
       "onboard_time": 1685695168,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182316,
+      "num": 182316,
+      "word": "王宝强新片选山区孩子当主角",
+      "onboard_time": 1685977353,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 182134,
@@ -8427,6 +8499,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 178605,
+      "num": 178605,
+      "word": "亢奋",
+      "onboard_time": 1685977951,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178512,
       "num": 117397,
       "word": "热烈追梦版预告",
@@ -8529,14 +8609,6 @@
       "onboard_time": 1685841506,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175837,
-      "num": 175837,
-      "word": "薛之谦演唱会场馆回应女歌迷进男厕",
-      "onboard_time": 1685974230,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 175590,
@@ -9411,6 +9483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152128,
+      "num": 152128,
+      "word": "贺红玲从来不是佟晓梅的替身",
+      "onboard_time": 1685976810,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -9699,6 +9779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141171,
+      "num": 1283355,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141022,
       "num": 141022,
       "word": "原来德智体美的美不是美术",
@@ -9923,14 +10011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134007,
-      "num": 134007,
-      "word": "Xiaohao哭了",
-      "onboard_time": 1685975191,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 133781,
       "num": 133781,
       "word": "选择成为幼稚的大人",
@@ -10115,6 +10195,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 128339,
+      "num": 128339,
+      "word": "侯明昊他好在乎",
+      "onboard_time": 1685978190,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128244,
       "num": 128244,
       "word": "李泰容出道",
@@ -10160,14 +10248,6 @@
       "word": "4岁男童路过纪念碑跑着上前敬礼",
       "onboard_time": 1685678427,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127372,
-      "num": 1247036,
-      "word": "加油高考生",
-      "onboard_time": 1685972369,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -12161,6 +12241,14 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16129,
+      "num": 420081,
+      "word": "上场吧少年",
+      "onboard_time": 1685977292,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13722,

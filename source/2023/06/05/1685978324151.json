@@ -1,0 +1,410 @@
+{
+  "runTime": 1685978324151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096317,
+        "num": 2096317,
+        "word": "业主购42套房全部打通墙体",
+        "onboard_time": 1685972670,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1400184,
+        "num": 1400184,
+        "word": "任豪求求了你们好好谈恋爱吧",
+        "onboard_time": 1685971470,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141171,
+        "num": 1283355,
+        "word": "加油高考生",
+        "onboard_time": 1685972369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220388,
+        "num": 1220388,
+        "word": "美依礼芽四公 青鸟",
+        "onboard_time": 1685970688,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 875800,
+        "num": 875800,
+        "word": "27岁游戏主播抗癌半年后去世",
+        "onboard_time": 1685976153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720500,
+        "num": 720500,
+        "word": "娜扎七年前生图",
+        "onboard_time": 1685964207,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675195,
+        "num": 675195,
+        "word": "海天品牌回应蚝油内疑发现生蚝",
+        "onboard_time": 1685965046,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 576021,
+        "num": 576021,
+        "word": "有刘海的刘浩存",
+        "onboard_time": 1685976872,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541625,
+        "num": 541625,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770993,
+        "num": 536498,
+        "word": "鸭圣婆 杰克辣条",
+        "onboard_time": 1685973930,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1329713,
+        "num": 534299,
+        "word": "她只是长得好看并且很健谈罢了",
+        "onboard_time": 1685970630,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 805294,
+        "num": 533499,
+        "word": "Jennie新剧",
+        "onboard_time": 1685973571,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528131,
+        "num": 528131,
+        "word": "母亲病危家人让高考孩子见最后一面",
+        "onboard_time": 1685973030,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 495218,
+        "num": 495218,
+        "word": "蔡依林 玫瑰少年",
+        "onboard_time": 1685971768,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16129,
+        "num": 420081,
+        "word": "上场吧少年",
+        "onboard_time": 1685977292,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410201,
+        "num": 410201,
+        "word": "难怪白鹿许凯不帮于正新剧宣传",
+        "onboard_time": 1685961985,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362527,
+        "num": 362527,
+        "word": "Xiaohao哭了",
+        "onboard_time": 1685975191,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337101,
+        "num": 337101,
+        "word": "电梯故障学生爬29楼赴高考商家被罚",
+        "onboard_time": 1685969186,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 327606,
+        "num": 327606,
+        "word": "肖春生 肖春卷",
+        "onboard_time": 1685976751,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325973,
+        "num": 325973,
+        "word": "儿子高考前告别重病妈妈医生善意劝导",
+        "onboard_time": 1685965285,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 538308,
+        "num": 323179,
+        "word": "高考700分和存款700万你选哪个",
+        "onboard_time": 1685969006,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317004,
+        "num": 317004,
+        "word": "建议实现一户一曜",
+        "onboard_time": 1685959049,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294406,
+        "num": 294406,
+        "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
+        "onboard_time": 1685958629,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287034,
+        "num": 287034,
+        "word": "鞠婧祎花戎同居",
+        "onboard_time": 1685970266,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280771,
+        "num": 280771,
+        "word": "连续表白娜扎六年",
+        "onboard_time": 1685973209,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269818,
+        "num": 269818,
+        "word": "第一次见YG公关部这么迅速",
+        "onboard_time": 1685973870,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269214,
+        "num": 269214,
+        "word": "张小狮说愿意归还所有资助",
+        "onboard_time": 1685965706,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 261848,
+        "num": 261848,
+        "word": "SMTOWN曾用EXO威胁边伯贤",
+        "onboard_time": 1685963006,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241573,
+        "num": 241573,
+        "word": "初级会计",
+        "onboard_time": 1685968227,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175765,
+        "num": 216680,
+        "word": "别信了梅西不会来敬酒",
+        "onboard_time": 1685967747,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 393290,
+        "num": 216291,
+        "word": "鼠头还是鸭脖怎么就成了罗生门",
+        "onboard_time": 1685971528,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251560,
+        "num": 216078,
+        "word": "南昌市监局已介入高校食堂老鼠事件",
+        "onboard_time": 1685967387,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 215506,
+        "num": 215506,
+        "word": "虞书欣方公布维权案进度",
+        "onboard_time": 1685970688,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 212606,
+        "num": 212606,
+        "word": "郑秀妍 勇敢又有担当",
+        "onboard_time": 1685977172,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204542,
+        "num": 204542,
+        "word": "我和数学学霸的差距有多大",
+        "onboard_time": 1685977292,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 204271,
+        "num": 204271,
+        "word": "郭艾伦tatan见面",
+        "onboard_time": 1685977409,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199737,
+        "num": 199737,
+        "word": "你觉得高考哪科最难",
+        "onboard_time": 1685965888,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190430,
+        "num": 190430,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1685968585,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184951,
+        "num": 184951,
+        "word": "薛之谦演唱会场馆回应女歌迷进男厕",
+        "onboard_time": 1685974230,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182316,
+        "num": 182316,
+        "word": "王宝强新片选山区孩子当主角",
+        "onboard_time": 1685977353,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178605,
+        "num": 178605,
+        "word": "亢奋",
+        "onboard_time": 1685977951,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165546,
+        "num": 165546,
+        "word": "三分野",
+        "onboard_time": 1685975729,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164808,
+        "num": 164808,
+        "word": "女频和男频最大的区别之一",
+        "onboard_time": 1685966307,
+        "rank": 42,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 156880,
+        "num": 156880,
+        "word": "某某影视化",
+        "onboard_time": 1685954368,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156423,
+        "num": 156423,
+        "word": "梅西想要回归巴萨",
+        "onboard_time": 1685969364,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "贺红玲从来不是佟晓梅的替身",
+        "onboard_time": 1685976810,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147872,
+        "num": 147872,
+        "word": "迪丽热巴说安旎得继续努力啊",
+        "onboard_time": 1685974291,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144347,
+        "num": 144347,
+        "word": "还有什么是smtown干不出来的",
+        "onboard_time": 1685973689,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128339,
+        "num": 128339,
+        "word": "侯明昊他好在乎",
+        "onboard_time": 1685978190,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105241,
+        "num": 105241,
+        "word": "一个村考出300多大学生6个北大",
+        "onboard_time": 1685954430,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护环境就是守护你我的未来#"
+    }
+  }
+}
