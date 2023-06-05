@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686004406862,
+  "endTime": 1686007029413,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1354067,
+      "num": 1354067,
+      "word": "Apple Vision Pro 苹果首款头显",
+      "onboard_time": 1685989754,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1294356,
       "num": 1294356,
       "word": "88斤女生穿不进去S码牛仔裙",
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 849543,
-      "num": 849543,
-      "word": "Apple Vision Pro 苹果首款头显",
-      "onboard_time": 1685989754,
-      "rank": 5,
-      "category": "科技"
-    },
-    {
       "raw_hot": 838400,
       "num": 536498,
       "word": "鸭圣婆 杰克辣条",
@@ -489,6 +489,14 @@
       "onboard_time": 1685967747,
       "rank": 17,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 727940,
+      "num": 727940,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713806,
@@ -665,14 +673,6 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 545643,
-      "num": 545643,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521409,
@@ -899,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397451,
+      "num": 397451,
+      "word": "儿子高考前告别重病妈妈医生善意劝导",
+      "onboard_time": 1685965285,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 390788,
       "num": 390788,
       "word": "张一山 演盲人",
@@ -985,14 +993,6 @@
       "onboard_time": 1685942608,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 364509,
-      "num": 364509,
-      "word": "儿子高考前告别重病妈妈医生善意劝导",
-      "onboard_time": 1685965285,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 362989,
@@ -1115,6 +1115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 312942,
+      "num": 312942,
+      "word": "iOS17",
+      "onboard_time": 1685986516,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 311544,
       "num": 311544,
       "word": "杨紫不发朋友圈的原因",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1685952328,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304938,
-      "num": 304938,
-      "word": "iOS17",
-      "onboard_time": 1685986516,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 300561,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1685943209,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291164,
+      "num": 291164,
+      "word": "唯品会崩了相关负责人被免职",
+      "onboard_time": 1685984898,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 289522,
@@ -1395,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244794,
+      "num": 151659,
+      "word": "夫妻离婚均不愿养娃法院判不许离",
+      "onboard_time": 1686006260,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244758,
       "num": 244758,
       "word": "内马尔告别梅西",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1685928867,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238614,
+      "num": 150873,
+      "word": "芒种",
+      "onboard_time": 1686006682,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238567,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1685921241,
       "rank": 31,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 221924,
+      "num": 150434,
+      "word": "上班更苦还是上学更苦",
+      "onboard_time": 1685981667,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 221627,
@@ -1785,14 +1817,6 @@
       "onboard_time": 1685949328,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196301,
-      "num": 150434,
-      "word": "上班更苦还是上学更苦",
-      "onboard_time": 1685981667,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 195254,
@@ -2148,7 +2172,7 @@
     },
     {
       "raw_hot": 164384,
-      "num": 90372,
+      "num": 98862,
       "word": "AppleVisionPro售价",
       "onboard_time": 1685992393,
       "rank": 49,
@@ -2227,14 +2251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157803,
-      "num": 157803,
-      "word": "唯品会崩了相关负责人被免职",
-      "onboard_time": 1685984898,
-      "rank": 43,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 157460,
       "num": 157460,
       "word": "任敏为i做e",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1685982145,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155230,
+      "num": 155230,
+      "word": "空姐未讲日语被日本女子辱骂",
+      "onboard_time": 1686006141,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155217,
@@ -2523,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129286,
+      "num": 109667,
+      "word": "老师上网课儿子在后面捣乱",
+      "onboard_time": 1686006260,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128557,
       "num": 128557,
       "word": "佛学院学生玩密室遇到吓人的念经",
@@ -2635,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120234,
+      "num": 120234,
+      "word": "什么人招蚊子",
+      "onboard_time": 1686001752,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119860,
       "num": 119860,
       "word": "我最讨厌的数字和字母组合",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1685963367,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112436,
+      "num": 112436,
+      "word": "13英寸MacBook降价",
+      "onboard_time": 1685989577,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 109495,
@@ -2779,6 +2827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97143,
+      "num": 97143,
+      "word": "肖战珠峰文化旅游节宣传VCR",
+      "onboard_time": 1686000971,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97043,
       "num": 97043,
       "word": "肖春生颠儿了",
@@ -2827,6 +2883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89304,
+      "num": 89304,
+      "word": "陈伟霆亲完后的样子好不值钱",
+      "onboard_time": 1686002294,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88416,
       "num": 88416,
       "word": "白鹭给自己理毛理出婚纱高定",
@@ -2867,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83491,
+      "num": 83491,
+      "word": "钢笔还给我爸爸",
+      "onboard_time": 1686005480,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83454,
       "num": 83454,
       "word": "伴侣应该选择相似的还是互补的",
@@ -2891,12 +2963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77356,
-      "num": 77356,
+      "raw_hot": 80006,
+      "num": 80006,
       "word": "watchOS 10 史努比表盘",
       "onboard_time": 1685989275,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 77806,
+      "num": 77806,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 70924,
@@ -2915,20 +2995,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 69419,
+      "num": 69419,
+      "word": "天舟五号与空间站再次交会对接",
+      "onboard_time": 1686006922,
+      "rank": 48,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 65883,
       "num": 65883,
       "word": "700多年前满是花花的画太惊艳",
       "onboard_time": 1685919679,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65404,
-      "num": 65404,
-      "word": "起底叶音工作室",
-      "onboard_time": 1685999232,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 65220,
@@ -2945,30 +3025,6 @@
       "onboard_time": 1685941230,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59654,
-      "num": 59654,
-      "word": "什么人招蚊子",
-      "onboard_time": 1686001752,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59031,
-      "num": 59031,
-      "word": "肖战珠峰文化旅游节宣传VCR",
-      "onboard_time": 1686000971,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 58474,
-      "num": 58474,
-      "word": "陈伟霆亲完后的样子好不值钱",
-      "onboard_time": 1686002294,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 57454,
@@ -2993,14 +3049,6 @@
       "onboard_time": 1685920339,
       "rank": 47,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 47929,
-      "num": 47929,
-      "word": "13英寸MacBook降价",
-      "onboard_time": 1685989577,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 46997,
@@ -3033,6 +3081,14 @@
       "onboard_time": 1685880687,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 42221,
+      "num": 1048078,
+      "word": "首艘国产大型邮轮有2500万个零部件",
+      "onboard_time": 1685972191,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41152,
@@ -3073,14 +3129,6 @@
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27535,
-      "num": 956825,
-      "word": "首艘国产大型邮轮有2500万个零部件",
-      "onboard_time": 1685972191,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24151,
