@@ -1,0 +1,410 @@
+{
+  "runTime": 1685972017036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820130,
+        "num": 1820130,
+        "word": "海天品牌回应蚝油内疑发现生蚝",
+        "onboard_time": 1685965046,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1066670,
+        "num": 1066670,
+        "word": "难怪白鹿许凯不帮于正新剧宣传",
+        "onboard_time": 1685961985,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134569,
+        "num": 877442,
+        "word": "哪一刻让你觉得读书特别有用",
+        "onboard_time": 1685957131,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832326,
+        "num": 832326,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811524,
+        "num": 811524,
+        "word": "娜扎七年前生图",
+        "onboard_time": 1685964207,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730539,
+        "num": 730539,
+        "word": "建议实现一户一曜",
+        "onboard_time": 1685959049,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712971,
+        "num": 712971,
+        "word": "南昌市监局已介入高校食堂老鼠事件",
+        "onboard_time": 1685967387,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 710839,
+        "num": 710839,
+        "word": "某某影视化",
+        "onboard_time": 1685954368,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673470,
+        "num": 673470,
+        "word": "别信了梅西不会来敬酒",
+        "onboard_time": 1685967747,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 390004,
+        "num": 390004,
+        "word": "男子嘴贴保鲜膜忍不住亲亲宝宝",
+        "onboard_time": 1685958629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690784,
+        "num": 377579,
+        "word": "美依礼芽四公 青鸟",
+        "onboard_time": 1685970688,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552195,
+        "num": 376467,
+        "word": "YG艺人目录中没有BIGBANG",
+        "onboard_time": 1685968706,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409708,
+        "num": 376018,
+        "word": "鞠婧祎花戎同居",
+        "onboard_time": 1685970266,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359586,
+        "num": 359586,
+        "word": "张小狮说愿意归还所有资助",
+        "onboard_time": 1685965706,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 117680,
+        "num": 339399,
+        "word": "49岁妈妈参加高考如愿成为大一新生",
+        "onboard_time": 1685970088,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373010,
+        "num": 339038,
+        "word": "SMTOWN曾用EXO威胁边伯贤",
+        "onboard_time": 1685963006,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333131,
+        "num": 333131,
+        "word": "女频和男频最大的区别之一",
+        "onboard_time": 1685966307,
+        "rank": 16,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 320742,
+        "num": 320742,
+        "word": "初级会计",
+        "onboard_time": 1685968227,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311367,
+        "num": 311367,
+        "word": "虞书欣方公布维权案进度",
+        "onboard_time": 1685970688,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 311094,
+        "num": 311094,
+        "word": "儿子高考前告别重病妈妈医生善意劝导",
+        "onboard_time": 1685965285,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 884468,
+        "num": 305800,
+        "word": "高考700分和存款700万你选哪个",
+        "onboard_time": 1685969006,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312062,
+        "num": 305362,
+        "word": "肖战被强行拉cp",
+        "onboard_time": 1685946027,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299306,
+        "num": 299306,
+        "word": "你觉得高考哪科最难",
+        "onboard_time": 1685965888,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 290546,
+        "num": 290546,
+        "word": "电梯故障学生爬29楼赴高考商家被罚",
+        "onboard_time": 1685969186,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 253727,
+        "num": 253727,
+        "word": "难听",
+        "onboard_time": 1685958029,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247490,
+        "num": 247490,
+        "word": "30岁也不过是12岁的大人",
+        "onboard_time": 1685968585,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235524,
+        "num": 235524,
+        "word": "Nadech求婚Yaya",
+        "onboard_time": 1685968585,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226990,
+        "num": 226990,
+        "word": "梅西想要回归巴萨",
+        "onboard_time": 1685969364,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217672,
+        "num": 217672,
+        "word": "娜扎时隔七年重开评论区",
+        "onboard_time": 1685947887,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206306,
+        "num": 206306,
+        "word": "女子反问男友8年感情竟不值38万",
+        "onboard_time": 1685937630,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198188,
+        "num": 198188,
+        "word": "她只是长得好看并且很健谈罢了",
+        "onboard_time": 1685970630,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198041,
+        "num": 198041,
+        "word": "蔡依林 玫瑰少年",
+        "onboard_time": 1685971768,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193786,
+        "num": 193786,
+        "word": "一个村考出300多大学生6个北大",
+        "onboard_time": 1685954430,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189581,
+        "num": 189581,
+        "word": "全员加速中路透",
+        "onboard_time": 1685963667,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188914,
+        "num": 188914,
+        "word": "任豪求求了你们好好谈恋爱吧",
+        "onboard_time": 1685971470,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184694,
+        "num": 184694,
+        "word": "肖战梦中的那片海首周战报",
+        "onboard_time": 1685963248,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167996,
+        "num": 167996,
+        "word": "金莎终于又拍古装剧了",
+        "onboard_time": 1685957068,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157871,
+        "num": 157871,
+        "word": "罗一舟后浪跳舞了",
+        "onboard_time": 1685970569,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157456,
+        "num": 157456,
+        "word": "江歌妈妈 捐出全部赔偿不是冲动",
+        "onboard_time": 1685949269,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154802,
+        "num": 154802,
+        "word": "鼠头还是鸭脖怎么就成了罗生门",
+        "onboard_time": 1685971528,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156594,
+        "num": 153760,
+        "word": "肖春生犟起来对自己有多狠",
+        "onboard_time": 1685969908,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140853,
+        "num": 140853,
+        "word": "女生被尾随吓哭交警一路护送上课",
+        "onboard_time": 1685966486,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138206,
+        "num": 138206,
+        "word": "朴灿烈开通个人账号",
+        "onboard_time": 1685966666,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137080,
+        "num": 137080,
+        "word": "谁说柳州只有螺蛳粉",
+        "onboard_time": 1685971288,
+        "rank": 43,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 136805,
+        "num": 136805,
+        "word": "四公",
+        "onboard_time": 1685964687,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124335,
+        "num": 124335,
+        "word": "你的身体比你想象中更加爱你",
+        "onboard_time": 1685960008,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115430,
+        "num": 115430,
+        "word": "魏晨差点错过孩子出生第一刻",
+        "onboard_time": 1685950890,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115385,
+        "num": 115385,
+        "word": "四川巴中万人雨中送考",
+        "onboard_time": 1685971830,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 111003,
+        "num": 111003,
+        "word": "seventeen日巡有十二场",
+        "onboard_time": 1685965046,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107747,
+        "num": 107747,
+        "word": "best道歉",
+        "onboard_time": 1685961628,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天世界环境日#"
+    }
+  }
+}

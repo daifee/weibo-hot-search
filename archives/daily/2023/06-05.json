@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685971236881,
+  "endTime": 1685972017036,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1820130,
+      "num": 1820130,
+      "word": "海天品牌回应蚝油内疑发现生蚝",
+      "onboard_time": 1685965046,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1762985,
       "num": 1762985,
       "word": "孩子烫伤9天才送医院爸爸拒绝手术",
@@ -73,14 +81,6 @@
       "onboard_time": 1685893707,
       "rank": 10,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1758336,
-      "num": 1758336,
-      "word": "海天品牌回应蚝油内疑发现生蚝",
-      "onboard_time": 1685965046,
-      "rank": 1,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1682139,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1214875,
-      "num": 290231,
+      "num": 305800,
       "word": "高考700分和存款700万你选哪个",
       "onboard_time": 1685969006,
       "rank": 29,
@@ -323,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 811524,
+      "num": 811524,
+      "word": "娜扎七年前生图",
+      "onboard_time": 1685964207,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808200,
       "num": 808200,
       "word": "章若楠观众缘",
@@ -361,14 +369,6 @@
       "onboard_time": 1685946027,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 772780,
-      "num": 772780,
-      "word": "娜扎七年前生图",
-      "onboard_time": 1685964207,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 765929,
@@ -433,6 +433,14 @@
       "onboard_time": 1685938534,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 690784,
+      "num": 377579,
+      "word": "美依礼芽四公 青鸟",
+      "onboard_time": 1685970688,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 680090,
@@ -707,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 409708,
+      "num": 376018,
+      "word": "鞠婧祎花戎同居",
+      "onboard_time": 1685970266,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407985,
       "num": 216886,
       "word": "离异男子独自养儿到17岁发现非亲生",
@@ -907,6 +923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 320742,
+      "num": 320742,
+      "word": "初级会计",
+      "onboard_time": 1685968227,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -923,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311367,
+      "num": 311367,
+      "word": "虞书欣方公布维权案进度",
+      "onboard_time": 1685970688,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "你觉得高考哪科最难",
@@ -937,14 +969,6 @@
       "onboard_time": 1685952328,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304876,
-      "num": 304876,
-      "word": "初级会计",
-      "onboard_time": 1685968227,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 298999,
@@ -979,12 +1003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290902,
-      "num": 290902,
-      "word": "鞠婧祎花戎同居",
-      "onboard_time": 1685970266,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 290546,
+      "num": 290546,
+      "word": "电梯故障学生爬29楼赴高考商家被罚",
+      "onboard_time": 1685969186,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 289522,
@@ -993,14 +1017,6 @@
       "onboard_time": 1685924308,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286834,
-      "num": 286834,
-      "word": "电梯故障学生爬29楼赴高考商家被罚",
-      "onboard_time": 1685969186,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 286381,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1685928328,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269174,
-      "num": 269174,
-      "word": "美依礼芽四公 青鸟",
-      "onboard_time": 1685970688,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 268903,
@@ -1299,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226990,
+      "num": 226990,
+      "word": "梅西想要回归巴萨",
+      "onboard_time": 1685969364,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225846,
       "num": 225846,
       "word": "苏醒说档期实在配合不到啊",
@@ -1411,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212545,
-      "num": 212545,
-      "word": "梅西想要回归巴萨",
-      "onboard_time": 1685969364,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211503,
       "num": 211503,
       "word": "四公",
@@ -1491,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200010,
-      "num": 200010,
-      "word": "虞书欣方公布维权案进度",
-      "onboard_time": 1685970688,
-      "rank": 31,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -1513,6 +1513,22 @@
       "onboard_time": 1685949328,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198188,
+      "num": 198188,
+      "word": "她只是长得好看并且很健谈罢了",
+      "onboard_time": 1685970630,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 198041,
+      "num": 198041,
+      "word": "蔡依林 玫瑰少年",
+      "onboard_time": 1685971768,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 195254,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1685961387,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188914,
+      "num": 188914,
+      "word": "任豪求求了你们好好谈恋爱吧",
+      "onboard_time": 1685971470,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 187800,
@@ -1875,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157871,
+      "num": 157871,
+      "word": "罗一舟后浪跳舞了",
+      "onboard_time": 1685970569,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157460,
       "num": 157460,
       "word": "任敏为i做e",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1685952566,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154802,
+      "num": 154802,
+      "word": "鼠头还是鸭脖怎么就成了罗生门",
+      "onboard_time": 1685971528,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153551,
@@ -2003,12 +2043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141263,
-      "num": 141263,
-      "word": "罗一舟后浪跳舞了",
-      "onboard_time": 1685970569,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 137080,
+      "num": 137080,
+      "word": "谁说柳州只有螺蛳粉",
+      "onboard_time": 1685971288,
+      "rank": 43,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 135127,
@@ -2019,7 +2059,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133110,
+      "raw_hot": 134569,
       "num": 1257978,
       "word": "哪一刻让你觉得读书特别有用",
       "onboard_time": 1685957131,
@@ -2179,6 +2219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 117680,
+      "num": 360285,
+      "word": "49岁妈妈参加高考如愿成为大一新生",
+      "onboard_time": 1685970088,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117247,
       "num": 117247,
       "word": "总要拿出时间去自在的朋友身边",
@@ -2187,20 +2235,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 116173,
-      "num": 116173,
-      "word": "她只是长得好看并且很健谈罢了",
-      "onboard_time": 1685970630,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 116084,
       "num": 116084,
       "word": "你会尝试多巴胺穿搭吗",
       "onboard_time": 1685920339,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 115385,
+      "num": 115385,
+      "word": "四川巴中万人雨中送考",
+      "onboard_time": 1685971830,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115232,
@@ -2375,14 +2423,6 @@
       "num": 451383,
       "word": "班主任自费给高三毕业生发礼物",
       "onboard_time": 1685962834,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76135,
-      "num": 360285,
-      "word": "49岁妈妈参加高考如愿成为大一新生",
-      "onboard_time": 1685970088,
       "rank": 14,
       "category": "社会新闻"
     },
