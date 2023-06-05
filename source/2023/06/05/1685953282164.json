@@ -1,0 +1,410 @@
+{
+  "runTime": 1685953282164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1869764,
+        "num": 1869764,
+        "word": "江歌妈妈 捐出全部赔偿不是冲动",
+        "onboard_time": 1685949269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1868271,
+        "num": 1868271,
+        "word": "亲戚小孩毁了我的动漫周边",
+        "onboard_time": 1685940031,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62746,
+        "num": 1670068,
+        "word": "距2023高考还有2天",
+        "onboard_time": 1685932287,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1529637,
+        "num": 1529637,
+        "word": "娜扎时隔七年重开评论区",
+        "onboard_time": 1685947887,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976396,
+        "num": 976396,
+        "word": "张一山眼球怎么了",
+        "onboard_time": 1685942608,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619556,
+        "num": 619556,
+        "word": "第一眼被任敏惊艳到了",
+        "onboard_time": 1685938534,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 599612,
+        "num": 599612,
+        "word": "周震南父亲等被恢复执行1046万",
+        "onboard_time": 1685947227,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 571294,
+        "num": 571294,
+        "word": "安茂元 三亚被宰记",
+        "onboard_time": 1685947527,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 556894,
+        "num": 556894,
+        "word": "肖战被强行拉cp",
+        "onboard_time": 1685946027,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435622,
+        "num": 435622,
+        "word": "孩子烫伤9天才送医院爸爸拒绝手术",
+        "onboard_time": 1685938775,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415739,
+        "num": 415739,
+        "word": "封神",
+        "onboard_time": 1685948128,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381296,
+        "num": 381296,
+        "word": "张一山 演盲人",
+        "onboard_time": 1685947527,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354039,
+        "num": 354039,
+        "word": "山东高考期间高校学生不得请假离校",
+        "onboard_time": 1685948728,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 333909,
+        "num": 333909,
+        "word": "珠峰被救女子不愿支付全部救援费用",
+        "onboard_time": 1685933429,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48715,
+        "num": 312191,
+        "word": "男老师集体为高考生跳女团舞解压",
+        "onboard_time": 1685952089,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308883,
+        "num": 308883,
+        "word": "郑秀妍Amber合体",
+        "onboard_time": 1685934869,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303516,
+        "num": 303516,
+        "word": "你不用在意我的外表我不是你未来的妻子",
+        "onboard_time": 1685950467,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 272056,
+        "num": 272056,
+        "word": "罗云熙李一桐陈瑶聚餐",
+        "onboard_time": 1685947828,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245108,
+        "num": 245108,
+        "word": "杨紫工作室P图不P镜子",
+        "onboard_time": 1685924669,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232854,
+        "num": 232854,
+        "word": "包丽",
+        "onboard_time": 1685945789,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615207,
+        "num": 232615,
+        "word": "女子反问男友8年感情竟不值38万",
+        "onboard_time": 1685937630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417005,
+        "num": 232105,
+        "word": "住酒店不小心把床睡塌了",
+        "onboard_time": 1685949688,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246542,
+        "num": 231280,
+        "word": "魏晨差点错过孩子出生第一刻",
+        "onboard_time": 1685950890,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242998,
+        "num": 230725,
+        "word": "杨紫不发朋友圈的原因",
+        "onboard_time": 1685947106,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238067,
+        "num": 230013,
+        "word": "郭俊辰早几年都干嘛去了",
+        "onboard_time": 1685952328,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229728,
+        "num": 229728,
+        "word": "市监局回应反复对比确认是鸭脖",
+        "onboard_time": 1685940872,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221116,
+        "num": 221116,
+        "word": "丁太升评价吉克隽逸",
+        "onboard_time": 1685949807,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219489,
+        "num": 219489,
+        "word": "杨紫工作室 动起来的boss更美",
+        "onboard_time": 1685945247,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208635,
+        "num": 208635,
+        "word": "娜扎说恶评不会再影响我",
+        "onboard_time": 1685951549,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77968,
+        "num": 207908,
+        "word": "喂119吗我是需要帮忙抓蛇的110",
+        "onboard_time": 1685930246,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207266,
+        "num": 207266,
+        "word": "张彬彬扫楼穿的唇印衬衫",
+        "onboard_time": 1685951009,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198479,
+        "num": 198479,
+        "word": "鞠婧祎歪头",
+        "onboard_time": 1685949328,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191925,
+        "num": 191925,
+        "word": "于正新剧又是双女主",
+        "onboard_time": 1685934030,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173825,
+        "num": 173825,
+        "word": "杭州一客车碰撞收费站起火4人死亡",
+        "onboard_time": 1685944048,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161345,
+        "num": 161345,
+        "word": "肖春生戴婚戒",
+        "onboard_time": 1685943927,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157451,
+        "num": 157451,
+        "word": "散步真的有很多好处",
+        "onboard_time": 1685948668,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155780,
+        "num": 155780,
+        "word": "塞尔达 海拉鲁现代化养鸡场",
+        "onboard_time": 1685952566,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149812,
+        "num": 149812,
+        "word": "黄旭熙 泡泡",
+        "onboard_time": 1685933189,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136383,
+        "num": 136383,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1685921783,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130789,
+        "num": 130789,
+        "word": "shanji",
+        "onboard_time": 1685929407,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148853,
+        "num": 130258,
+        "word": "赌王三太 粤剧艺术团",
+        "onboard_time": 1685940992,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141717,
+        "num": 129535,
+        "word": "电影封神第一部",
+        "onboard_time": 1685951188,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 128925,
+        "word": "朱正廷回应没学会关美颜",
+        "onboard_time": 1685948367,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135127,
+        "num": 128143,
+        "word": "鹿晗三巡周边预告",
+        "onboard_time": 1685952509,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130853,
+        "num": 127651,
+        "word": "the idol",
+        "onboard_time": 1685934929,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127125,
+        "num": 127125,
+        "word": "梅西",
+        "onboard_time": 1685943330,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1145108,
+        "num": 126023,
+        "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
+        "onboard_time": 1685946327,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 120874,
+        "num": 120874,
+        "word": "地铁开门前工作人员用指差确认检查",
+        "onboard_time": 1685948426,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107679,
+        "num": 120846,
+        "word": "他一定是想妈妈了",
+        "onboard_time": 1685952869,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87072,
+        "num": 120816,
+        "word": "女子父母反对远嫁男友威胁带其轻生",
+        "onboard_time": 1685953229,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第四批空间科学实验样品顺利交付#"
+    }
+  }
+}
