@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686003341916,
+  "endTime": 1686004406862,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -2227,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157803,
+      "num": 157803,
+      "word": "唯品会崩了相关负责人被免职",
+      "onboard_time": 1685984898,
+      "rank": 43,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 157460,
       "num": 157460,
       "word": "任敏为i做e",
@@ -2651,14 +2659,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 117600,
-      "num": 117600,
-      "word": "唯品会崩了相关负责人被免职",
-      "onboard_time": 1685984898,
-      "rank": 43,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 117247,
       "num": 117247,
       "word": "总要拿出时间去自在的朋友身边",
@@ -2923,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65404,
+      "num": 65404,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65220,
       "num": 90123,
       "word": "高三毕业生临别给老师送五花肉",
@@ -2939,20 +2947,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59654,
+      "num": 59654,
+      "word": "什么人招蚊子",
+      "onboard_time": 1686001752,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59031,
+      "num": 59031,
+      "word": "肖战珠峰文化旅游节宣传VCR",
+      "onboard_time": 1686000971,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58474,
+      "num": 58474,
+      "word": "陈伟霆亲完后的样子好不值钱",
+      "onboard_time": 1686002294,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 57454,
       "num": 403036,
       "word": "轿车淹没前民警1分钟内连救男子2次",
       "onboard_time": 1685959288,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51095,
-      "num": 51095,
-      "word": "起底叶音工作室",
-      "onboard_time": 1685999232,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 51067,
@@ -2969,6 +2993,14 @@
       "onboard_time": 1685920339,
       "rank": 47,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 47929,
+      "num": 47929,
+      "word": "13英寸MacBook降价",
+      "onboard_time": 1685989577,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 46997,
@@ -2995,35 +3027,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46055,
-      "num": 46055,
-      "word": "什么人招蚊子",
-      "onboard_time": 1686001752,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44291,
-      "num": 44291,
-      "word": "13英寸MacBook降价",
-      "onboard_time": 1685989577,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 44276,
       "num": 57850,
       "word": "梦中的那片海版换乘恋爱",
       "onboard_time": 1685880687,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 42636,
-      "num": 42636,
-      "word": "陈伟霆亲完后的样子好不值钱",
-      "onboard_time": 1686002294,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -3043,14 +3051,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 39298,
-      "num": 39298,
-      "word": "肖战珠峰文化旅游节宣传VCR",
-      "onboard_time": 1686000971,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39135,
       "num": 39135,
       "word": "不应该丧失对感情的信心",
@@ -3067,8 +3067,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30551,
-      "num": 30551,
+      "raw_hot": 36691,
+      "num": 36691,
       "word": "肖春生的词典里生词挺多",
       "onboard_time": 1685986937,
       "rank": 25,

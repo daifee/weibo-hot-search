@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686003341916,
+  "endTime": 1686004406862,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -371,6 +371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 157803,
+      "num": 157803,
+      "word": "唯品会崩了相关负责人被免职",
+      "onboard_time": 1685984898,
+      "rank": 43,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 155765,
       "num": 149771,
       "word": "十个勤天",
@@ -483,14 +491,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 117600,
-      "num": 117600,
-      "word": "唯品会崩了相关负责人被免职",
-      "onboard_time": 1685984898,
-      "rank": 43,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 116606,
       "num": 116606,
       "word": "贺红玲从来不是佟晓梅的替身",
@@ -563,12 +563,36 @@
       "category": "科技"
     },
     {
-      "raw_hot": 51095,
-      "num": 51095,
+      "raw_hot": 65404,
+      "num": 65404,
       "word": "起底叶音工作室",
       "onboard_time": 1685999232,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59654,
+      "num": 59654,
+      "word": "什么人招蚊子",
+      "onboard_time": 1686001752,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59031,
+      "num": 59031,
+      "word": "肖战珠峰文化旅游节宣传VCR",
+      "onboard_time": 1686000971,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58474,
+      "num": 58474,
+      "word": "陈伟霆亲完后的样子好不值钱",
+      "onboard_time": 1686002294,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 51067,
@@ -579,44 +603,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 46055,
-      "num": 46055,
-      "word": "什么人招蚊子",
-      "onboard_time": 1686001752,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44291,
-      "num": 44291,
+      "raw_hot": 47929,
+      "num": 47929,
       "word": "13英寸MacBook降价",
       "onboard_time": 1685989577,
       "rank": 40,
       "category": "科技"
     },
     {
-      "raw_hot": 42636,
-      "num": 42636,
-      "word": "陈伟霆亲完后的样子好不值钱",
-      "onboard_time": 1686002294,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 39298,
-      "num": 39298,
-      "word": "肖战珠峰文化旅游节宣传VCR",
-      "onboard_time": 1686000971,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30551,
-      "num": 30551,
+      "raw_hot": 36691,
+      "num": 36691,
       "word": "肖春生的词典里生词挺多",
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30423,
+      "num": 30423,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27535,
@@ -624,14 +632,6 @@
       "word": "首艘国产大型邮轮有2500万个零部件",
       "onboard_time": 1685972191,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22899,
-      "num": 22899,
-      "word": "加油高考生",
-      "onboard_time": 1685972369,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
