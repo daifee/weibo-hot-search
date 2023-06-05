@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1685997267599,
+  "endTime": 1685999654102,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -587,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27297,
+      "num": 27297,
+      "word": "肖春生的词典里生词挺多",
+      "onboard_time": 1685986937,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 22481,
       "num": 22481,
       "word": "蛋仔派对",
       "onboard_time": 1685994792,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18906,
+      "num": 18906,
+      "word": "起底叶音工作室",
+      "onboard_time": 1685999232,
+      "rank": 41,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
