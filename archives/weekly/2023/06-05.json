@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1685969582354,
+  "endTime": 1685971236881,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -75,6 +75,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1758336,
+      "num": 1758336,
+      "word": "海天品牌回应蚝油内疑发现生蚝",
+      "onboard_time": 1685965046,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -139,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1548682,
-      "num": 1548682,
-      "word": "海天品牌回应蚝油内疑发现生蚝",
-      "onboard_time": 1685965046,
-      "rank": 1,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -193,6 +193,14 @@
       "onboard_time": 1685929407,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1214875,
+      "num": 290231,
+      "word": "高考700分和存款700万你选哪个",
+      "onboard_time": 1685969006,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1203733,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745765,
+      "num": 745765,
+      "word": "别信了梅西不会来敬酒",
+      "onboard_time": 1685967747,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 713806,
       "num": 713806,
       "word": "芝芙是越南版这就是街舞的队长",
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638400,
+      "num": 638400,
+      "word": "YG艺人目录中没有BIGBANG",
+      "onboard_time": 1685968706,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627807,
       "num": 627807,
       "word": "菜英俊 再次向当事人道歉",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 622841,
-      "num": 373327,
+      "num": 449093,
       "word": "张小狮说愿意归还所有资助",
       "onboard_time": 1685965706,
       "rank": 11,
@@ -489,14 +513,6 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 593743,
-      "num": 593743,
-      "word": "别信了梅西不会来敬酒",
-      "onboard_time": 1685967747,
-      "rank": 17,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 567816,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 423100,
-      "num": 362782,
+      "num": 393152,
       "word": "女频和男频最大的区别之一",
       "onboard_time": 1685966307,
       "rank": 13,
@@ -891,14 +907,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 314732,
-      "num": 314732,
-      "word": "YG艺人目录中没有BIGBANG",
-      "onboard_time": 1685968706,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -915,12 +923,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308971,
+      "num": 308971,
+      "word": "你觉得高考哪科最难",
+      "onboard_time": 1685965888,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 306688,
       "num": 283340,
       "word": "郭俊辰早几年都干嘛去了",
       "onboard_time": 1685952328,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304876,
+      "num": 304876,
+      "word": "初级会计",
+      "onboard_time": 1685968227,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 298999,
@@ -955,12 +979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290902,
+      "num": 290902,
+      "word": "鞠婧祎花戎同居",
+      "onboard_time": 1685970266,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289522,
       "num": 289522,
       "word": "大熊猫因为偷吃被叫食铁兽",
       "onboard_time": 1685924308,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286834,
+      "num": 286834,
+      "word": "电梯故障学生爬29楼赴高考商家被罚",
+      "onboard_time": 1685969186,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 286381,
@@ -1003,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273306,
+      "num": 273306,
+      "word": "30岁也不过是12岁的大人",
+      "onboard_time": 1685968585,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272056,
       "num": 272056,
       "word": "罗云熙李一桐陈瑶聚餐",
@@ -1011,20 +1059,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270301,
-      "num": 260096,
-      "word": "30岁也不过是12岁的大人",
-      "onboard_time": 1685968585,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
       "onboard_time": 1685928328,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269174,
+      "num": 269174,
+      "word": "美依礼芽四公 青鸟",
+      "onboard_time": 1685970688,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 268903,
@@ -1067,6 +1115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 254648,
+      "num": 254648,
+      "word": "Nadech求婚Yaya",
+      "onboard_time": 1685968585,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254376,
       "num": 254376,
       "word": "包丽",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1685946448,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253855,
-      "num": 253855,
-      "word": "你觉得高考哪科最难",
-      "onboard_time": 1685965888,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 251859,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1685885549,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 242820,
-      "num": 242820,
-      "word": "初级会计",
-      "onboard_time": 1685968227,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 242154,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1685888131,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230408,
-      "num": 230408,
-      "word": "Nadech求婚Yaya",
-      "onboard_time": 1685968585,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 229014,
@@ -1379,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212545,
+      "num": 212545,
+      "word": "梅西想要回归巴萨",
+      "onboard_time": 1685969364,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211503,
       "num": 211503,
       "word": "四公",
@@ -1451,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200010,
+      "num": 200010,
+      "word": "虞书欣方公布维权案进度",
+      "onboard_time": 1685970688,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1685963728,
       "rank": 28,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 189790,
-      "num": 189790,
-      "word": "高考700分和存款700万你选哪个",
-      "onboard_time": 1685969006,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189453,
@@ -1747,6 +1787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168518,
+      "num": 168518,
+      "word": "肖春生犟起来对自己有多狠",
+      "onboard_time": 1685969908,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167814,
       "num": 167814,
       "word": "后浪",
@@ -1955,12 +2003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141263,
+      "num": 141263,
+      "word": "罗一舟后浪跳舞了",
+      "onboard_time": 1685970569,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135127,
       "num": 128143,
       "word": "鹿晗三巡周边预告",
       "onboard_time": 1685952509,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133110,
+      "num": 1257978,
+      "word": "哪一刻让你觉得读书特别有用",
+      "onboard_time": 1685957131,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132407,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1685871806,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 131068,
-      "num": 1257978,
-      "word": "哪一刻让你觉得读书特别有用",
-      "onboard_time": 1685957131,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131020,
@@ -2091,14 +2147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120862,
-      "num": 120862,
-      "word": "梅西想要回归巴萨",
-      "onboard_time": 1685969364,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120641,
       "num": 120641,
       "word": "患儿妈妈十年帮助240多个残障家庭",
@@ -2115,6 +2163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 118148,
+      "num": 118148,
+      "word": "男子脱衣下水帮女子捞起手机",
+      "onboard_time": 1685970929,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117917,
       "num": 117917,
       "word": "高考钉子户",
@@ -2129,6 +2185,14 @@
       "onboard_time": 1685895806,
       "rank": 36,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 116173,
+      "num": 116173,
+      "word": "她只是长得好看并且很健谈罢了",
+      "onboard_time": 1685970630,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 116084,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1685963367,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112690,
-      "num": 112690,
-      "word": "电梯故障学生爬29楼赴高考商家被罚",
-      "onboard_time": 1685969186,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 106100,
@@ -2319,6 +2375,14 @@
       "num": 451383,
       "word": "班主任自费给高三毕业生发礼物",
       "onboard_time": 1685962834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76135,
+      "num": 360285,
+      "word": "49岁妈妈参加高考如愿成为大一新生",
+      "onboard_time": 1685970088,
       "rank": 14,
       "category": "社会新闻"
     },
