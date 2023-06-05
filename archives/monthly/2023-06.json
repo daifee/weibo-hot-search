@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1685946928153,
+  "endTime": 1685949359753,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2401357,
-      "num": 947515,
+      "num": 1647557,
       "word": "张一山眼球怎么了",
       "onboard_time": 1685942608,
       "rank": 30,
@@ -417,6 +417,14 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1697488,
+      "num": 1697488,
+      "word": "亲戚小孩毁了我的动漫周边",
+      "onboard_time": 1685940031,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1682139,
@@ -891,14 +899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1241259,
-      "num": 1241259,
-      "word": "亲戚小孩毁了我的动漫周边",
-      "onboard_time": 1685940031,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1240382,
       "num": 1240382,
       "word": "迪丽热巴回应脸不像检察官",
@@ -1259,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949799,
+      "num": 949799,
+      "word": "娜扎时隔七年重开评论区",
+      "onboard_time": 1685947887,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 917909,
+      "num": 774611,
+      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
+      "onboard_time": 1685946327,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 914174,
@@ -1515,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792551,
+      "num": 792551,
+      "word": "周震南父亲等被恢复执行1046万",
+      "onboard_time": 1685947227,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 792254,
       "num": 792254,
       "word": "周也演技值得一个热搜",
@@ -1608,6 +1632,14 @@
       "word": "孩子随母姓被拒分配村集体收入",
       "onboard_time": 1685846847,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744946,
+      "num": 744946,
+      "word": "安茂元 三亚被宰记",
+      "onboard_time": 1685947527,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1721,6 +1753,14 @@
       "onboard_time": 1685866048,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694171,
+      "num": 694171,
+      "word": "肖战被强行拉cp",
+      "onboard_time": 1685946027,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 688162,
@@ -3243,6 +3283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 390005,
+      "num": 390005,
+      "word": "封神",
+      "onboard_time": 1685948128,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389779,
       "num": 360435,
       "word": "给自己的鼻子纹了两颗痣",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1685720489,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384946,
+      "num": 384946,
+      "word": "张一山 演盲人",
+      "onboard_time": 1685947527,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 383202,
@@ -3633,14 +3689,6 @@
       "onboard_time": 1685930246,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351129,
-      "num": 285287,
-      "word": "肖战被强行拉cp",
-      "onboard_time": 1685946027,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 350994,
@@ -4219,6 +4267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311544,
+      "num": 311544,
+      "word": "杨紫不发朋友圈的原因",
+      "onboard_time": 1685947106,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309860,
       "num": 309860,
       "word": "AG",
@@ -4769,6 +4825,14 @@
       "onboard_time": 1685927728,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279705,
+      "num": 279705,
+      "word": "杭州一客车碰撞收费站起火4人死亡",
+      "onboard_time": 1685944048,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279318,
@@ -5467,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250879,
+      "num": 250879,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250666,
       "num": 250666,
       "word": "如果月入三万你愿意去送外卖吗",
@@ -5819,6 +5891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236132,
+      "num": 236132,
+      "word": "朱正廷回应没学会关美颜",
+      "onboard_time": 1685948367,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235894,
       "num": 181825,
       "word": "郑秀晶的腹肌隔着衣服都能看到",
@@ -5865,14 +5945,6 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234330,
-      "num": 234330,
-      "word": "杭州一客车碰撞收费站起火4人死亡",
-      "onboard_time": 1685944048,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234292,
@@ -5923,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232765,
+      "num": 232765,
+      "word": "罗云熙李一桐陈瑶聚餐",
+      "onboard_time": 1685947828,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232632,
       "num": 232632,
       "word": "神舟十五号",
@@ -5937,14 +6017,6 @@
       "onboard_time": 1685580569,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232118,
-      "num": 232118,
-      "word": "高三学生买蛋糕庆祝被纪律老师砸坏",
-      "onboard_time": 1685946327,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 232088,
@@ -6859,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199797,
+      "num": 199797,
+      "word": "高三毕业有必要在校庆祝吗",
+      "onboard_time": 1685948908,
+      "rank": 32,
+      "category": "社会议题,教育"
+    },
+    {
       "raw_hot": 199760,
       "num": 170739,
       "word": "王嘉尔澳门演唱会官宣",
@@ -7035,14 +7115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195604,
-      "num": 195604,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195536,
       "num": 158095,
       "word": "郭碧婷带娃逛商场",
@@ -7105,6 +7177,14 @@
       "onboard_time": 1685576726,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193329,
+      "num": 193329,
+      "word": "山东高考期间高校学生不得请假离校",
+      "onboard_time": 1685948728,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193246,
@@ -8379,6 +8459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157201,
+      "num": 157201,
+      "word": "学校回应纪律老师砸坏高三学生蛋糕",
+      "onboard_time": 1685947408,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 157184,
       "num": 133432,
       "word": "吴磊 烤包子",
@@ -8465,6 +8553,14 @@
       "onboard_time": 1685755108,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154900,
+      "num": 154900,
+      "word": "散步真的有很多好处",
+      "onboard_time": 1685948668,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 154862,
@@ -8585,6 +8681,14 @@
       "onboard_time": 1685750723,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151581,
+      "num": 151581,
+      "word": "张彬彬直播",
+      "onboard_time": 1685947768,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 151567,
@@ -9088,6 +9192,14 @@
       "word": "周雨彤进组半熟男女",
       "onboard_time": 1685895567,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 131755,
+      "num": 131755,
+      "word": "鞠婧祎歪头",
+      "onboard_time": 1685949328,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -10849,6 +10961,14 @@
       "onboard_time": 1685900357,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38887,
+      "num": 385560,
+      "word": "地铁开门前工作人员用指差确认检查",
+      "onboard_time": 1685948426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37722,
