@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686054912457,
+  "endTime": 1686055941426,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -17,6 +17,14 @@
       "onboard_time": 1686021208,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2800496,
+      "num": 594661,
+      "word": "赵琦君杨凯雯领证",
+      "onboard_time": 1686054388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2614180,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1570827,
+      "num": 1570827,
+      "word": "人体最大的器官是什么",
+      "onboard_time": 1686051569,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -265,6 +281,14 @@
       "onboard_time": 1685970630,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1504376,
+      "num": 1504376,
+      "word": "广东明确停课不停考",
+      "onboard_time": 1686049469,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1474876,
@@ -339,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1340813,
-      "num": 1340813,
-      "word": "广东明确停课不停考",
-      "onboard_time": 1686049469,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1294356,
       "num": 1294356,
       "word": "88斤女生穿不进去S码牛仔裙",
@@ -393,14 +409,6 @@
       "onboard_time": 1686046108,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1240195,
-      "num": 1240195,
-      "word": "人体最大的器官是什么",
-      "onboard_time": 1686051569,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1223087,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 998712,
-      "num": 777480,
+      "num": 841172,
       "word": "杭州姑娘20元刮刮乐刮中百万",
       "onboard_time": 1686046349,
       "rank": 42,
@@ -609,6 +617,14 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 941943,
+      "num": 941943,
+      "word": "叶国华已被移出群聊",
+      "onboard_time": 1686054748,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 925453,
@@ -1051,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 560869,
-      "num": 560869,
-      "word": "赵琦君杨凯雯领证",
-      "onboard_time": 1686054388,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559589,
       "num": 559589,
       "word": "男子做冷门工作10年带火2个生僻字",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1685893408,
       "rank": 11,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 444925,
+      "num": 444925,
+      "word": "林徽因名字 文化版的招娣",
+      "onboard_time": 1686052350,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 440670,
@@ -1643,14 +1659,6 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 349021,
-      "num": 349021,
-      "word": "林徽因名字 文化版的招娣",
-      "onboard_time": 1686052350,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 348542,
       "num": 348542,
       "word": "何赛飞狂亲贾静雯半分钟",
@@ -1987,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283870,
+      "num": 283870,
+      "word": "易烊千玺晒彩虹祝愿考生前程似锦",
+      "onboard_time": 1686055108,
+      "rank": 27,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 283807,
       "num": 925965,
       "word": "49岁你还有勇气参加高考吗",
@@ -2048,6 +2064,14 @@
       "word": "肖战梦中的那片海首周战报",
       "onboard_time": 1685963248,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276399,
+      "num": 276399,
+      "word": "肖战新剧微博开分8.3",
+      "onboard_time": 1686054570,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -2283,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245036,
+      "num": 245036,
+      "word": "鞠婧祎白鹿相似造型",
+      "onboard_time": 1686052407,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 244758,
       "num": 244758,
       "word": "内马尔告别梅西",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1685889696,
       "rank": 20,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 237175,
+      "num": 164433,
+      "word": "鹭卓好稳",
+      "onboard_time": 1686055830,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236917,
@@ -2563,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224989,
-      "num": 224989,
-      "word": "叶国华已被移出群聊",
-      "onboard_time": 1686054748,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224856,
       "num": 224856,
       "word": "员工午休时间可以自由支配吗",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1685939853,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218939,
-      "num": 218939,
-      "word": "鞠婧祎白鹿相似造型",
-      "onboard_time": 1686052407,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 218898,
@@ -3179,14 +3203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188866,
-      "num": 188866,
-      "word": "肖战新剧微博开分8.3",
-      "onboard_time": 1686054570,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187958,
       "num": 116554,
       "word": "老师上网课儿子在后面捣乱",
@@ -3643,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160128,
+      "num": 523628,
+      "word": "学生高举字条用监控和老师交流发试卷",
+      "onboard_time": 1686052827,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159043,
       "num": 159043,
       "word": "Vision Pro 眼睛手势操作",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1685932287,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158152,
+      "num": 158152,
+      "word": "有人问你有没有男朋友该怎么回",
+      "onboard_time": 1686053608,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 157871,
@@ -3801,6 +3833,14 @@
       "onboard_time": 1685947768,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151162,
+      "num": 151162,
+      "word": "四川考生摸985车牌沾好运",
+      "onboard_time": 1686055468,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150357,
@@ -4123,6 +4163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129536,
+      "num": 129536,
+      "word": "手工耿移动钢琴烤串车",
+      "onboard_time": 1686052288,
+      "rank": 47,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 129222,
       "num": 129222,
       "word": "陈伟霆亲完后的样子好不值钱",
@@ -4283,6 +4331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 119618,
+      "num": 119618,
+      "word": "NIP对战TES",
+      "onboard_time": 1686054628,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "男子脱衣下水帮女子捞起手机",
@@ -4379,28 +4435,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 113523,
-      "num": 113523,
-      "word": "NIP对战TES",
-      "onboard_time": 1686054628,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 113409,
       "num": 113409,
       "word": "外面的世界已经发展成这样了",
       "onboard_time": 1685963367,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111255,
-      "num": 111255,
-      "word": "有人问你有没有男朋友该怎么回",
-      "onboard_time": 1686053608,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 109716,
@@ -4441,14 +4481,6 @@
       "onboard_time": 1685882848,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105599,
-      "num": 105599,
-      "word": "手工耿移动钢琴烤串车",
-      "onboard_time": 1686052288,
-      "rank": 47,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 104069,
@@ -4503,14 +4535,6 @@
       "num": 414591,
       "word": "公交师傅等红灯间隙救了个人",
       "onboard_time": 1686040169,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100131,
-      "num": 497781,
-      "word": "学生高举字条用监控和老师交流发试卷",
-      "onboard_time": 1686052827,
       "rank": 14,
       "category": "社会新闻"
     },
