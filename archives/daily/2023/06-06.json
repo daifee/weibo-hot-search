@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686035754043,
+  "endTime": 1686036807938,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1271963,
+      "num": 1271963,
+      "word": "黑犬酱就老公被叫河童回应",
+      "onboard_time": 1686029908,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1264547,
       "num": 1264547,
       "word": "吴倩镜头少原因",
@@ -129,14 +137,6 @@
       "onboard_time": 1686006260,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1071029,
-      "num": 1071029,
-      "word": "黑犬酱就老公被叫河童回应",
-      "onboard_time": 1686029908,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1014291,
@@ -193,6 +193,14 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 951644,
+      "num": 951644,
+      "word": "鲍蕾晒花絮力证没给贝儿P腿",
+      "onboard_time": 1686032968,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 939941,
@@ -257,14 +265,6 @@
       "onboard_time": 1686024392,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 769187,
-      "num": 769187,
-      "word": "鲍蕾晒花絮力证没给贝儿P腿",
-      "onboard_time": 1686032968,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 759840,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 505441,
+      "num": 505441,
+      "word": "B太 我可能又被众筹了",
+      "onboard_time": 1686035246,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 502244,
       "num": 502244,
       "word": "北京动物园",
@@ -416,6 +424,22 @@
       "word": "沈月说得到了失去的八分钟",
       "onboard_time": 1686019049,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 436166,
+      "num": 436166,
+      "word": "胡锡进发博评鼠头鸭脖事件",
+      "onboard_time": 1686034589,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434033,
+      "num": 434033,
+      "word": "全员加速中好多人啊",
+      "onboard_time": 1686031048,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -587,20 +611,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 310397,
-      "num": 310397,
-      "word": "全员加速中好多人啊",
-      "onboard_time": 1686031048,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309629,
       "num": 247636,
       "word": "河童",
       "onboard_time": 1686034947,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 304746,
+      "num": 304746,
+      "word": "恭喜你被邓布利多选中",
+      "onboard_time": 1686031769,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 300561,
@@ -617,6 +641,14 @@
       "onboard_time": 1685980348,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295998,
+      "num": 295998,
+      "word": "李艾说父亲追悼会上我和我妈都没有哭",
+      "onboard_time": 1686031587,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293786,
@@ -731,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260300,
+      "num": 204786,
+      "word": "何赛飞狂亲贾静雯半分钟",
+      "onboard_time": 1686036386,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260084,
       "num": 260084,
       "word": "杨天真谈高考错失保送北大",
@@ -771,22 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246004,
-      "num": 246004,
-      "word": "李艾说父亲追悼会上我和我妈都没有哭",
-      "onboard_time": 1686031587,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244448,
-      "num": 244448,
-      "word": "恭喜你被邓布利多选中",
-      "onboard_time": 1686031769,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244133,
       "num": 244133,
       "word": "热烈给王一博的标签是内娱顶级舞担",
@@ -809,14 +833,6 @@
       "onboard_time": 1685971768,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241184,
-      "num": 241184,
-      "word": "胡锡进发博评鼠头鸭脖事件",
-      "onboard_time": 1686034589,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236917,
@@ -907,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227309,
+      "num": 227309,
+      "word": "刘耀文刘宇撞衫",
+      "onboard_time": 1686033866,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226012,
       "num": 226012,
       "word": "三贵情史",
@@ -963,14 +987,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 218617,
-      "num": 218617,
-      "word": "B太 我可能又被众筹了",
-      "onboard_time": 1686035246,
-      "rank": 27,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 218510,
       "num": 218510,
       "word": "YG和SMTOWN好像都一个样",
@@ -1003,12 +1019,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214254,
-      "num": 214254,
-      "word": "刘耀文刘宇撞衫",
-      "onboard_time": 1686033866,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 210845,
+      "num": 210845,
+      "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
+      "onboard_time": 1686035848,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210638,
@@ -1235,6 +1251,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 178337,
+      "num": 178337,
+      "word": "电梯突发故障丈夫下意识护妻儿",
+      "onboard_time": 1686035066,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176959,
       "num": 176959,
       "word": "库克 这一切你前所未见",
@@ -1427,14 +1451,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 138826,
-      "num": 138826,
-      "word": "电梯突发故障丈夫下意识护妻儿",
-      "onboard_time": 1686035066,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136672,
       "num": 136672,
       "word": "鞠婧祎花戎同居",
@@ -1571,6 +1587,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 115008,
+      "num": 115008,
+      "word": "原来17年已经是很久以前的事了",
+      "onboard_time": 1686036569,
+      "rank": 48,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 114250,
       "num": 114250,
       "word": "钢笔还给我爸爸",
@@ -1691,6 +1715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 66329,
+      "num": 413286,
+      "word": "花式送考只愿你金榜题名",
+      "onboard_time": 1686034827,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61695,
       "num": 1180521,
       "word": "首艘国产大型邮轮有2500万个零部件",
@@ -1728,14 +1760,6 @@
       "word": "加油高考生",
       "onboard_time": 1685972369,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23480,
-      "num": 347237,
-      "word": "花式送考只愿你金榜题名",
-      "onboard_time": 1686034827,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
