@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/07 00:22:04
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/07 00:37:47
 </p>
 </blockquote>
 <p>
@@ -5295,6 +5295,12 @@ Nadech求婚Yaya（热度：254648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%89%93%E9%9B%B6%E5%B7%A5%E6%94%923%E5%8D%83%E7%BB%99%E7%88%B7%E7%88%B7%E8%A3%85%E7%A9%BA%E8%B0%83%23" target="weibo">
+00后打零工攒3千给爷爷装空调（热度：253246）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%AE%B6%20%E6%9D%A5%E5%8F%82%E5%8A%A0%E5%8D%81%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%9A%84%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23" target="weibo">
 麦家 来参加十个孩子的毕业典礼（热度：252298）
 </a>
@@ -6005,12 +6011,6 @@ ff14（热度：226863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4%E6%A1%A3%E6%9C%9F%E5%AE%9E%E5%9C%A8%E9%85%8D%E5%90%88%E4%B8%8D%E5%88%B0%E5%95%8A%23" target="weibo">
 苏醒说档期实在配合不到啊（热度：225846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%B5%B7%E7%AB%99%E5%AE%A1%E6%89%B9%E9%80%9A%E8%BF%87%23" target="weibo">
-林俊杰演唱会上海站审批通过（热度：225724）
 </a>
 </li>
 
