@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686058406443,
+  "endTime": 1686060920081,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -25,6 +25,14 @@
       "onboard_time": 1686054388,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2734658,
+      "num": 2734658,
+      "word": "北京发现两例猴痘病例",
+      "onboard_time": 1686057810,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2614180,
@@ -97,6 +105,14 @@
       "onboard_time": 1685972670,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2112724,
+      "num": 1381976,
+      "word": "猴痘",
+      "onboard_time": 1686058292,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2109816,
@@ -427,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1243458,
+      "num": 1243458,
+      "word": "种地吧直播",
+      "onboard_time": 1686041848,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1223087,
       "num": 1223087,
       "word": "动物专家称争议鸭脖大概率为鼠头",
@@ -505,14 +529,6 @@
       "onboard_time": 1685950890,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1101713,
-      "num": 1101713,
-      "word": "北京发现两例猴痘病例",
-      "onboard_time": 1686057810,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1086340,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 998712,
-      "num": 911571,
+      "num": 962247,
       "word": "杭州姑娘20元刮刮乐刮中百万",
       "onboard_time": 1686046349,
       "rank": 42,
@@ -665,14 +681,6 @@
       "onboard_time": 1685920400,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913576,
-      "num": 913576,
-      "word": "种地吧直播",
-      "onboard_time": 1686041848,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 905008,
@@ -891,6 +899,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 720202,
+      "num": 1030229,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 713806,
       "num": 713806,
       "word": "芝芙是越南版这就是街舞的队长",
@@ -913,14 +929,6 @@
       "onboard_time": 1685891491,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707831,
-      "num": 1030229,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 707397,
@@ -1075,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584751,
+      "num": 584751,
+      "word": "种地吧感恩音乐会",
+      "onboard_time": 1686043349,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567816,
       "num": 567816,
       "word": "市监局回应反复对比确认是鸭脖",
@@ -1099,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552487,
+      "num": 552487,
+      "word": "高考加油",
+      "onboard_time": 1686047611,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 550814,
       "num": 550814,
       "word": "best道歉",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 544787,
-      "num": 544787,
-      "word": "高考加油",
-      "onboard_time": 1686047611,
-      "rank": 8,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 543867,
@@ -1283,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 460156,
+      "num": 460156,
+      "word": "乌克兰大坝被炸",
+      "onboard_time": 1686057090,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1686015988,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411586,
-      "num": 411586,
-      "word": "种地吧感恩音乐会",
-      "onboard_time": 1686043349,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 409281,
@@ -1859,12 +1875,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306483,
+      "num": 306483,
+      "word": "肖战刘芮麟来自头发的默契",
+      "onboard_time": 1686059134,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304746,
       "num": 304746,
       "word": "恭喜你被邓布利多选中",
       "onboard_time": 1686031769,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303215,
+      "num": 303215,
+      "word": "李昊首唱你离开了我的夏天",
+      "onboard_time": 1686059431,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301650,
+      "num": 287781,
+      "word": "后陡门的夏天",
+      "onboard_time": 1686060513,
+      "rank": 28,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 300561,
@@ -2051,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281205,
+      "num": 281205,
+      "word": "千万不要和多嘴的同事合租",
+      "onboard_time": 1686060273,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280636,
       "num": 280636,
       "word": "胡先煦周也吻戏",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1685963248,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274224,
+      "num": 274224,
+      "word": "孙笑川",
+      "onboard_time": 1686058652,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 273306,
@@ -2267,6 +2323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252298,
+      "num": 183294,
+      "word": "麦家 来参加十个孩子的毕业典礼",
+      "onboard_time": 1686058411,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251859,
       "num": 251859,
       "word": "医学生网上挂号提问医生答完退费",
@@ -2281,6 +2345,14 @@
       "onboard_time": 1685937090,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250941,
+      "num": 244094,
+      "word": "麦田音乐节",
+      "onboard_time": 1686057753,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 250831,
@@ -2305,14 +2377,6 @@
       "onboard_time": 1686014608,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248889,
-      "num": 248889,
-      "word": "乌克兰大坝被炸",
-      "onboard_time": 1686057090,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248791,
@@ -2443,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240147,
+      "num": 240147,
+      "word": "三分野",
+      "onboard_time": 1685928685,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238567,
       "num": 238567,
       "word": "老师攒高三生2千空笔芯做梦想之舟",
@@ -2497,14 +2569,6 @@
       "onboard_time": 1686037108,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235290,
-      "num": 235290,
-      "word": "猴痘",
-      "onboard_time": 1686058292,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234230,
@@ -3003,14 +3067,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 201469,
-      "num": 201469,
-      "word": "三分野",
-      "onboard_time": 1685928685,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201323,
       "num": 201323,
       "word": "王者马可波罗即将调整",
@@ -3307,6 +3363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185253,
+      "num": 535162,
+      "word": "男生毕业前将学校建模装进电脑",
+      "onboard_time": 1686056430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185239,
       "num": 170724,
       "word": "张踩铃老公给铁岭考生助力紫腚能行",
@@ -3321,6 +3385,14 @@
       "onboard_time": 1686027391,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183308,
+      "num": 183308,
+      "word": "最令你惊艳的明星真人",
+      "onboard_time": 1686060452,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183222,
@@ -3705,14 +3777,6 @@
       "onboard_time": 1686036988,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161510,
-      "num": 161510,
-      "word": "麦田音乐节",
-      "onboard_time": 1686057753,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 160973,
@@ -4131,14 +4195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134421,
-      "num": 535162,
-      "word": "男生毕业前将学校建模装进电脑",
-      "onboard_time": 1686056430,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133115,
       "num": 372353,
       "word": "荣耀90开辟手机护眼新赛道",
@@ -4289,6 +4345,14 @@
       "onboard_time": 1685982864,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 126272,
+      "num": 148670,
+      "word": "未定事件簿",
+      "onboard_time": 1686058533,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 125812,
@@ -4731,6 +4795,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 84376,
+      "num": 145785,
+      "word": "讲台上严厉的老师也会偷偷抹泪",
+      "onboard_time": 1686059617,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 83849,
       "num": 323594,
       "word": "男老师集体为高考生跳女团舞解压",
@@ -4961,6 +5033,14 @@
       "onboard_time": 1686049230,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 28570,
+      "num": 566104,
+      "word": "司机用书法装点公交为高考生助威",
+      "onboard_time": 1686060096,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24151,
