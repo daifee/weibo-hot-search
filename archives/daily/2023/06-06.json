@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686040407584,
+  "endTime": 1686043009668,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1080209,
+      "raw_hot": 1141716,
       "num": 1080209,
       "word": "鲍蕾晒花絮力证没给贝儿P腿",
       "onboard_time": 1686032968,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1121132,
+      "num": 1121132,
+      "word": "绝味鸭脖股价下跌",
+      "onboard_time": 1686038787,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1044927,
+      "num": 1044927,
+      "word": "中餐厅7嘉宾",
+      "onboard_time": 1686039989,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1014291,
@@ -219,12 +235,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 925453,
+      "num": 925453,
+      "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
+      "onboard_time": 1686035848,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913576,
+      "num": 913576,
+      "word": "种地吧直播",
+      "onboard_time": 1686041848,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 905008,
       "num": 461615,
       "word": "胡锡进发博评鼠头鸭脖事件",
       "onboard_time": 1686034589,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899400,
+      "num": 899400,
+      "word": "蔡徐坤 回归跑男",
+      "onboard_time": 1686040288,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 879069,
@@ -291,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 725776,
-      "num": 725776,
-      "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
-      "onboard_time": 1686035848,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722149,
       "num": 722149,
       "word": "B太 我可能又被众筹了",
@@ -347,6 +379,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 625770,
+      "num": 553992,
+      "word": "四大顶级舞担",
+      "onboard_time": 1686039627,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 588438,
       "num": 464389,
       "word": "绝大男人婚前婚后的生活都不会有太大变化",
@@ -369,6 +409,14 @@
       "onboard_time": 1686012691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543867,
+      "num": 543867,
+      "word": "为什么吸管要设计成一炷香",
+      "onboard_time": 1686037587,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 541369,
@@ -435,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 480699,
-      "num": 480699,
-      "word": "为什么吸管要设计成一炷香",
-      "onboard_time": 1686037587,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -491,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412655,
-      "num": 412655,
-      "word": "绝味鸭脖股价下跌",
-      "onboard_time": 1686038787,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 409281,
       "num": 409281,
       "word": "儿子高考前告别重病妈妈医生善意劝导",
@@ -513,6 +545,14 @@
       "onboard_time": 1686022048,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404901,
+      "num": 404901,
+      "word": "要怎么证明是鼠头还是鸭脖",
+      "onboard_time": 1686037528,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398165,
@@ -553,14 +593,6 @@
       "onboard_time": 1686022109,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362516,
-      "num": 362516,
-      "word": "四大顶级舞担",
-      "onboard_time": 1686039627,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357674,
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271670,
+      "num": 271670,
+      "word": "原来无痛针是这么打的",
+      "onboard_time": 1686040588,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268889,
       "num": 268889,
       "word": "浪姐的吴倩vs你好星期六的吴倩",
@@ -891,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242572,
+      "num": 242572,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236917,
       "num": 236917,
       "word": "中原黄嫂回应中原黄哥直播喝酒去世",
@@ -945,14 +993,6 @@
       "onboard_time": 1686009206,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 230726,
-      "num": 230726,
-      "word": "中餐厅7嘉宾",
-      "onboard_time": 1686039989,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 230171,
@@ -1091,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211335,
-      "num": 211335,
-      "word": "要怎么证明是鼠头还是鸭脖",
-      "onboard_time": 1686037528,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210638,
       "num": 210638,
       "word": "把海底捞变成维也纳金色大厅",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1686035066,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199880,
-      "num": 219695,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 195864,
@@ -1307,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184490,
+      "num": 184490,
+      "word": "浪漫诗人李雪琴",
+      "onboard_time": 1686040407,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1686024992,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 175940,
+      "num": 175940,
+      "word": "王者马可波罗即将调整",
+      "onboard_time": 1686042928,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 175765,
@@ -1499,6 +1539,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 152125,
+      "num": 152125,
+      "word": "ff14",
+      "onboard_time": 1686042868,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152074,
       "num": 152074,
       "word": "郑秀妍 勇敢又有担当",
@@ -1513,14 +1561,6 @@
       "onboard_time": 1685982323,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148571,
-      "num": 148571,
-      "word": "蔡徐坤 回归跑男",
-      "onboard_time": 1686040288,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 145192,
@@ -1635,6 +1675,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128916,
+      "num": 128916,
+      "word": "邓为 云秀行",
+      "onboard_time": 1686041969,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127262,
+      "num": 983132,
+      "word": "祝考生们大胜归来",
+      "onboard_time": 1686040107,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 126493,
       "num": 149690,
       "word": "清华有个学生自己的修车摊",
@@ -1739,6 +1795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 108508,
+      "num": 108508,
+      "word": "高三教师退休前最后一课哽咽寄语考生",
+      "onboard_time": 1686042087,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "蜗牛是如何跨越沟壑的",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1685966307,
       "rank": 26,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 100984,
+      "num": 414591,
+      "word": "公交师傅等红灯间隙救了个人",
+      "onboard_time": 1686040169,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99273,
@@ -1851,12 +1923,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 47542,
-      "num": 894120,
-      "word": "祝考生们大胜归来",
-      "onboard_time": 1686040107,
-      "rank": 2,
-      "category": "社会新闻,教育"
+      "raw_hot": 47633,
+      "num": 482188,
+      "word": "孩子吃鸡蛋当心沙门氏菌",
+      "onboard_time": 1686042030,
+      "rank": 14,
+      "category": "社会议题"
     },
     {
       "raw_hot": 38881,
@@ -1889,14 +1961,6 @@
       "onboard_time": 1685994792,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 12732,
-      "num": 414591,
-      "word": "公交师傅等红灯间隙救了个人",
-      "onboard_time": 1686040169,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

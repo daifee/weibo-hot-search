@@ -1,0 +1,410 @@
+{
+  "runTime": 1686043009668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121132,
+        "num": 1121132,
+        "word": "绝味鸭脖股价下跌",
+        "onboard_time": 1686038787,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1044927,
+        "num": 1044927,
+        "word": "中餐厅7嘉宾",
+        "onboard_time": 1686039989,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127262,
+        "num": 983132,
+        "word": "祝考生们大胜归来",
+        "onboard_time": 1686040107,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1277112,
+        "num": 968034,
+        "word": "车银优肿么了",
+        "onboard_time": 1686038129,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1141716,
+        "num": 959981,
+        "word": "鲍蕾晒花絮力证没给贝儿P腿",
+        "onboard_time": 1686032968,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 925453,
+        "num": 925453,
+        "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
+        "onboard_time": 1686035848,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913576,
+        "num": 913576,
+        "word": "种地吧直播",
+        "onboard_time": 1686041848,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899400,
+        "num": 899400,
+        "word": "蔡徐坤 回归跑男",
+        "onboard_time": 1686040288,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635089,
+        "num": 635089,
+        "word": "26岁网红直播喝酒后去世",
+        "onboard_time": 1686025592,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 565028,
+        "num": 565028,
+        "word": "B太 我可能又被众筹了",
+        "onboard_time": 1686035246,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1231574,
+        "num": 564974,
+        "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+        "onboard_time": 1686026611,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949185,
+        "num": 554837,
+        "word": "李健丁克的原因",
+        "onboard_time": 1686030746,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625770,
+        "num": 553992,
+        "word": "四大顶级舞担",
+        "onboard_time": 1686039627,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 543867,
+        "num": 543867,
+        "word": "为什么吸管要设计成一炷香",
+        "onboard_time": 1686037587,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47633,
+        "num": 482188,
+        "word": "孩子吃鸡蛋当心沙门氏菌",
+        "onboard_time": 1686042030,
+        "rank": 14,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 477109,
+        "num": 477109,
+        "word": "番位 烫手",
+        "onboard_time": 1686030325,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404901,
+        "num": 404901,
+        "word": "要怎么证明是鼠头还是鸭脖",
+        "onboard_time": 1686037528,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317435,
+        "num": 317435,
+        "word": "黑犬酱就老公被叫河童回应",
+        "onboard_time": 1686029908,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315748,
+        "num": 315748,
+        "word": "PDD直播弹幕",
+        "onboard_time": 1686012992,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 314521,
+        "num": 314521,
+        "word": "黄奕发博支持49岁高考妈妈",
+        "onboard_time": 1686017846,
+        "rank": 19,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 290618,
+        "num": 290618,
+        "word": "专家称要警惕终身不婚不育情况",
+        "onboard_time": 1686017487,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831702,
+        "num": 286893,
+        "word": "胡锡进发博评鼠头鸭脖事件",
+        "onboard_time": 1686034589,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274369,
+        "num": 274369,
+        "word": "谢娜四公 没拉票",
+        "onboard_time": 1686021388,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271670,
+        "num": 271670,
+        "word": "原来无痛针是这么打的",
+        "onboard_time": 1686040588,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243707,
+        "num": 243707,
+        "word": "何赛飞狂亲贾静雯半分钟",
+        "onboard_time": 1686036386,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242572,
+        "num": 242572,
+        "word": "原来丫丫有一张微笑脸",
+        "onboard_time": 1686038847,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221629,
+        "num": 221629,
+        "word": "丫丫",
+        "onboard_time": 1686021208,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216738,
+        "num": 216738,
+        "word": "原来17年已经是很久以前的事了",
+        "onboard_time": 1686036569,
+        "rank": 27,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 199421,
+        "num": 199421,
+        "word": "万达员工午餐时间玩手机被通报",
+        "onboard_time": 1686022228,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 184490,
+        "num": 184490,
+        "word": "浪漫诗人李雪琴",
+        "onboard_time": 1686040407,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180183,
+        "num": 180183,
+        "word": "肖战将贡献颠覆以往形象的郭靖",
+        "onboard_time": 1686024451,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176693,
+        "num": 176693,
+        "word": "高考倒计时",
+        "onboard_time": 1686014909,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175940,
+        "num": 175940,
+        "word": "王者马可波罗即将调整",
+        "onboard_time": 1686042928,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168706,
+        "num": 168706,
+        "word": "刘亦菲开工",
+        "onboard_time": 1686028649,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165244,
+        "num": 165244,
+        "word": "马嘉祺上综艺也要等一下",
+        "onboard_time": 1686037108,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164788,
+        "num": 164788,
+        "word": "河童",
+        "onboard_time": 1686034947,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164221,
+        "num": 164221,
+        "word": "全员加速中好多人啊",
+        "onboard_time": 1686031048,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152125,
+        "num": 152125,
+        "word": "ff14",
+        "onboard_time": 1686042868,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142516,
+        "num": 142516,
+        "word": "女孩和女孩更有约会的感觉",
+        "onboard_time": 1686037168,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 136400,
+        "num": 136400,
+        "word": "观鹤笔记作者手滑点赞李一桐陈都灵相关",
+        "onboard_time": 1686039151,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132512,
+        "num": 132512,
+        "word": "刘耀文刘宇撞衫",
+        "onboard_time": 1686033866,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128916,
+        "num": 128916,
+        "word": "邓为 云秀行",
+        "onboard_time": 1686041969,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127876,
+        "num": 127876,
+        "word": "电梯突发故障丈夫下意识护妻儿",
+        "onboard_time": 1686035066,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126493,
+        "num": 126493,
+        "word": "鸭脖",
+        "onboard_time": 1686025232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124218,
+        "num": 124218,
+        "word": "雎晓雯肚子离地面好远",
+        "onboard_time": 1686032309,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122036,
+        "num": 122036,
+        "word": "秋瓷炫四公 淘汰",
+        "onboard_time": 1686021448,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120952,
+        "num": 120952,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 119452,
+        "word": "中等收入群体已超4亿人",
+        "onboard_time": 1686026373,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 108508,
+        "num": 108508,
+        "word": "高三教师退休前最后一课哽咽寄语考生",
+        "onboard_time": 1686042087,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 100984,
+        "num": 100984,
+        "word": "公交师傅等红灯间隙救了个人",
+        "onboard_time": 1686040169,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#美丽中国在行动#"
+    }
+  }
+}
