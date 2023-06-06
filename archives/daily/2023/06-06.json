@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686008018195,
+  "endTime": 1686016127704,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -19,12 +19,68 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1622812,
+      "num": 787270,
+      "word": "长牙的鸭脖令人如鲠在喉",
+      "onboard_time": 1686007704,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474876,
       "num": 1474876,
       "word": "苹果发布会",
       "onboard_time": 1685979027,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1264547,
+      "num": 1264547,
+      "word": "吴倩镜头少原因",
+      "onboard_time": 1686009087,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1183499,
+      "num": 951690,
+      "word": "不用再说HeySiri了",
+      "onboard_time": 1686009748,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1173761,
+      "num": 1173761,
+      "word": "夫妻离婚均不愿养娃法院判不许离",
+      "onboard_time": 1686006260,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999968,
+      "num": 999968,
+      "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
+      "onboard_time": 1686012511,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 976272,
+      "num": 976272,
+      "word": "空姐未讲日语被日本女子辱骂",
+      "onboard_time": 1686006141,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954532,
+      "num": 954532,
+      "word": "明天高考",
+      "onboard_time": 1686007764,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 939941,
@@ -35,12 +91,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 938851,
+      "num": 688529,
+      "word": "3499美元的苹果头显值得买吗",
+      "onboard_time": 1686008003,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 879069,
       "num": 879069,
       "word": "有刘海的刘浩存",
       "onboard_time": 1685976872,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 859095,
+      "num": 859095,
+      "word": "在欧洲千万不要轻易蹲地上",
+      "onboard_time": 1686010771,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 824265,
@@ -67,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710461,
+      "num": 710461,
+      "word": "高考倒计时",
+      "onboard_time": 1686014909,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 688521,
       "num": 521266,
       "word": "她只是长得好看并且很健谈罢了",
@@ -91,11 +171,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 620178,
-      "num": 620178,
-      "word": "夫妻离婚均不愿养娃法院判不许离",
-      "onboard_time": 1686006260,
-      "rank": 22,
+      "raw_hot": 631605,
+      "num": 631605,
+      "word": "PDD直播弹幕",
+      "onboard_time": 1686012992,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 559589,
+      "num": 559589,
+      "word": "男子做冷门工作10年带火2个生僻字",
+      "onboard_time": 1686012691,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -108,19 +196,27 @@
     },
     {
       "raw_hot": 510288,
-      "num": 231558,
+      "num": 363467,
       "word": "鸭圣婆 杰克辣条",
       "onboard_time": 1685973930,
       "rank": 20,
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 509181,
-      "num": 509181,
-      "word": "空姐未讲日语被日本女子辱骂",
-      "onboard_time": 1686006141,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 495227,
+      "num": 495227,
+      "word": "李沁戏份",
+      "onboard_time": 1685982684,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 441724,
+      "num": 441724,
+      "word": "没想到经常挖鼻孔会影响颜值",
+      "onboard_time": 1686012511,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 427246,
@@ -171,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 369624,
-      "num": 369624,
-      "word": "李沁戏份",
-      "onboard_time": 1685982684,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 350747,
+      "num": 350747,
+      "word": "李荣浩说都给我好好考",
+      "onboard_time": 1686014010,
+      "rank": 22,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 348233,
@@ -187,12 +283,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 344028,
+      "num": 344028,
+      "word": "AirPodsPro推出自适应功能",
+      "onboard_time": 1686012691,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 335236,
       "num": 335236,
       "word": "iOS17",
       "onboard_time": 1685986516,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 326928,
+      "num": 326928,
+      "word": "光与夜之恋",
+      "onboard_time": 1686007822,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 324661,
@@ -219,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291240,
+      "num": 291240,
+      "word": "萧逸",
+      "onboard_time": 1686015507,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291164,
       "num": 291164,
       "word": "唯品会崩了相关负责人被免职",
@@ -243,11 +363,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264951,
+      "num": 264951,
+      "word": "多少钱算中产",
+      "onboard_time": 1686013828,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 259371,
       "num": 180870,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
       "onboard_time": 1685971528,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254128,
+      "num": 254128,
+      "word": "造谣女孩穿婚纱看演唱会的网友道歉",
+      "onboard_time": 1686013588,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250521,
+      "num": 250521,
+      "word": "张俪 事业脑",
+      "onboard_time": 1686014608,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248098,
+      "num": 248098,
+      "word": "请在以下图片中找到鸭脖",
+      "onboard_time": 1686011494,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -257,6 +409,14 @@
       "onboard_time": 1685971768,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 241981,
+      "num": 241981,
+      "word": "全员加速中",
+      "onboard_time": 1686011611,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 234230,
@@ -273,6 +433,14 @@
       "onboard_time": 1685985079,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 230748,
+      "num": 230748,
+      "word": "高考那道错题刚刚好让你遇到对的人",
+      "onboard_time": 1686009206,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 230171,
@@ -299,12 +467,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206646,
-      "num": 206646,
-      "word": "明天高考",
-      "onboard_time": 1686007764,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 223905,
+      "num": 223905,
+      "word": "放在毕业照届也是很炸裂的",
+      "onboard_time": 1686012449,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203503,
+      "num": 203503,
+      "word": "夏天穿洞洞鞋出门的后果",
+      "onboard_time": 1686011371,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202445,
+      "num": 202445,
+      "word": "郭敬明40岁了",
+      "onboard_time": 1686008726,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 201299,
@@ -323,12 +507,20 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 196136,
-      "num": 118621,
-      "word": "长牙的鸭脖令人如鲠在喉",
-      "onboard_time": 1686007704,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 199238,
+      "num": 199238,
+      "word": "权志龙与YG的合约到期",
+      "onboard_time": 1686015988,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194558,
+      "num": 194558,
+      "word": "肖战短发vs长发",
+      "onboard_time": 1686012271,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 189422,
@@ -347,12 +539,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185337,
+      "num": 185337,
+      "word": "田曦薇新剧妆容",
+      "onboard_time": 1686011972,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
       "onboard_time": 1685978129,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182065,
+      "num": 182065,
+      "word": "绝大男人婚前婚后的生活都不会有太大变化",
+      "onboard_time": 1686015807,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 181146,
@@ -451,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153399,
+      "num": 153399,
+      "word": "华航回应空姐没讲日语被乘客辱骂",
+      "onboard_time": 1686013828,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152989,
       "num": 152989,
       "word": "小岛秀夫 苹果发布会",
       "onboard_time": 1685988135,
       "rank": 12,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 152857,
+      "num": 152857,
+      "word": "高考时间",
+      "onboard_time": 1686010290,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152074,
@@ -555,6 +779,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 116771,
+      "num": 271354,
+      "word": "可以养胃的三种常见食物",
+      "onboard_time": 1686008366,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116606,
       "num": 116606,
       "word": "贺红玲从来不是佟晓梅的替身",
@@ -627,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96383,
-      "num": 96383,
-      "word": "光与夜之恋",
-      "onboard_time": 1686007822,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 94648,
       "num": 94648,
       "word": "WWDC2023",
@@ -649,14 +873,6 @@
       "onboard_time": 1686006922,
       "rank": 48,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 87352,
-      "num": 87352,
-      "word": "3499美元的苹果头显值得买吗",
-      "onboard_time": 1686008003,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 86473,
@@ -691,7 +907,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 56065,
+      "raw_hot": 61695,
       "num": 1180521,
       "word": "首艘国产大型邮轮有2500万个零部件",
       "onboard_time": 1685972191,

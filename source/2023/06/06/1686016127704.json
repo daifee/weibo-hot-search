@@ -1,0 +1,410 @@
+{
+  "runTime": 1686016127704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264547,
+        "num": 1264547,
+        "word": "吴倩镜头少原因",
+        "onboard_time": 1686009087,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1173761,
+        "num": 1173761,
+        "word": "夫妻离婚均不愿养娃法院判不许离",
+        "onboard_time": 1686006260,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61695,
+        "num": 1076299,
+        "word": "首艘国产大型邮轮有2500万个零部件",
+        "onboard_time": 1685972191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999968,
+        "num": 999968,
+        "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
+        "onboard_time": 1686012511,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 976272,
+        "num": 976272,
+        "word": "空姐未讲日语被日本女子辱骂",
+        "onboard_time": 1686006141,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954532,
+        "num": 954532,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1183499,
+        "num": 951690,
+        "word": "不用再说HeySiri了",
+        "onboard_time": 1686009748,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 914629,
+        "num": 914629,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 859095,
+        "num": 859095,
+        "word": "在欧洲千万不要轻易蹲地上",
+        "onboard_time": 1686010771,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 804917,
+        "num": 804917,
+        "word": "业主购42套房全部打通墙体",
+        "onboard_time": 1685972670,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1622812,
+        "num": 787270,
+        "word": "长牙的鸭脖令人如鲠在喉",
+        "onboard_time": 1686007704,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710461,
+        "num": 710461,
+        "word": "高考倒计时",
+        "onboard_time": 1686014909,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 938851,
+        "num": 688529,
+        "word": "3499美元的苹果头显值得买吗",
+        "onboard_time": 1686008003,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 631605,
+        "num": 631605,
+        "word": "PDD直播弹幕",
+        "onboard_time": 1686012992,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 559589,
+        "num": 559589,
+        "word": "男子做冷门工作10年带火2个生僻字",
+        "onboard_time": 1686012691,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495227,
+        "num": 495227,
+        "word": "李沁戏份",
+        "onboard_time": 1685982684,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625708,
+        "num": 493048,
+        "word": "Apple Vision Pro 苹果首款头显",
+        "onboard_time": 1685989754,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 441724,
+        "num": 441724,
+        "word": "没想到经常挖鼻孔会影响颜值",
+        "onboard_time": 1686012511,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431878,
+        "num": 431878,
+        "word": "苹果发布会",
+        "onboard_time": 1685979027,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 426332,
+        "num": 426332,
+        "word": "任豪求求了你们好好谈恋爱吧",
+        "onboard_time": 1685971470,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409675,
+        "num": 409675,
+        "word": "有刘海的刘浩存",
+        "onboard_time": 1685976872,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363467,
+        "num": 363467,
+        "word": "鸭圣婆 杰克辣条",
+        "onboard_time": 1685973930,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 350747,
+        "num": 350747,
+        "word": "李荣浩说都给我好好考",
+        "onboard_time": 1686014010,
+        "rank": 22,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 344028,
+        "num": 344028,
+        "word": "AirPodsPro推出自适应功能",
+        "onboard_time": 1686012691,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 326928,
+        "num": 326928,
+        "word": "光与夜之恋",
+        "onboard_time": 1686007822,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326449,
+        "num": 326449,
+        "word": "电梯故障学生爬29楼赴高考商家被罚",
+        "onboard_time": 1685969186,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 316152,
+        "num": 316152,
+        "word": "孙怡对汤晶媚说你不要在这道德绑架我",
+        "onboard_time": 1685959708,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315493,
+        "num": 315493,
+        "word": "27岁游戏主播抗癌半年后去世",
+        "onboard_time": 1685976153,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291240,
+        "num": 291240,
+        "word": "萧逸",
+        "onboard_time": 1686015507,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116771,
+        "num": 271354,
+        "word": "可以养胃的三种常见食物",
+        "onboard_time": 1686008366,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264951,
+        "num": 264951,
+        "word": "多少钱算中产",
+        "onboard_time": 1686013828,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254128,
+        "num": 254128,
+        "word": "造谣女孩穿婚纱看演唱会的网友道歉",
+        "onboard_time": 1686013588,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250521,
+        "num": 250521,
+        "word": "张俪 事业脑",
+        "onboard_time": 1686014608,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248098,
+        "num": 248098,
+        "word": "请在以下图片中找到鸭脖",
+        "onboard_time": 1686011494,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241981,
+        "num": 241981,
+        "word": "全员加速中",
+        "onboard_time": 1686011611,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230748,
+        "num": 230748,
+        "word": "高考那道错题刚刚好让你遇到对的人",
+        "onboard_time": 1686009206,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 223905,
+        "num": 223905,
+        "word": "放在毕业照届也是很炸裂的",
+        "onboard_time": 1686012449,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203503,
+        "num": 203503,
+        "word": "夏天穿洞洞鞋出门的后果",
+        "onboard_time": 1686011371,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202445,
+        "num": 202445,
+        "word": "郭敬明40岁了",
+        "onboard_time": 1686008726,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199238,
+        "num": 199238,
+        "word": "权志龙与YG的合约到期",
+        "onboard_time": 1686015988,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196234,
+        "num": 196234,
+        "word": "高考700分和存款700万你选哪个",
+        "onboard_time": 1685969006,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194558,
+        "num": 194558,
+        "word": "肖战短发vs长发",
+        "onboard_time": 1686012271,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190314,
+        "num": 190314,
+        "word": "Jennie新剧",
+        "onboard_time": 1685973571,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188495,
+        "num": 188495,
+        "word": "芒种",
+        "onboard_time": 1686006682,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185337,
+        "num": 185337,
+        "word": "田曦薇新剧妆容",
+        "onboard_time": 1686011972,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182065,
+        "num": 182065,
+        "word": "绝大男人婚前婚后的生活都不会有太大变化",
+        "onboard_time": 1686015807,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173740,
+        "num": 173740,
+        "word": "上班更苦还是上学更苦",
+        "onboard_time": 1685981667,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156339,
+        "num": 156339,
+        "word": "美依礼芽四公 青鸟",
+        "onboard_time": 1685970688,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153399,
+        "num": 153399,
+        "word": "华航回应空姐没讲日语被乘客辱骂",
+        "onboard_time": 1686013828,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152857,
+        "num": 152857,
+        "word": "高考时间",
+        "onboard_time": 1686010290,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#美丽中国在行动#"
+    }
+  }
+}
