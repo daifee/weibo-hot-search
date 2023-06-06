@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686082645665,
+  "endTime": 1686083623909,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -14443,6 +14443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43216,
+      "num": 26099,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41371,
       "num": 121315,
       "word": "宋佳想要的品质生活",
@@ -14465,14 +14473,6 @@
       "onboard_time": 1685661199,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 40890,
-      "num": 26099,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 40019,
@@ -14691,6 +14691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 22136,
+      "num": 22136,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22077,
       "num": 28235,
       "word": "高叶 常州",
@@ -14731,28 +14739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18107,
-      "num": 25401,
-      "word": "吴磊好酷",
-      "onboard_time": 1685561473,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 16401,
-      "num": 16401,
+      "raw_hot": 18803,
+      "num": 18803,
       "word": "光与夜之恋周年庆",
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
     },
     {
-      "raw_hot": 14199,
-      "num": 16051,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 18107,
+      "num": 25401,
+      "word": "吴磊好酷",
+      "onboard_time": 1685561473,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 13722,

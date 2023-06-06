@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686082645665,
+  "endTime": 1686083623909,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -5211,6 +5211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43216,
+      "num": 26099,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41371,
       "num": 121315,
       "word": "宋佳想要的品质生活",
@@ -5225,14 +5233,6 @@
       "onboard_time": 1685973631,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40890,
-      "num": 26099,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 40019,
@@ -5323,6 +5323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22136,
+      "num": 22136,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21565,
       "num": 420081,
       "word": "上场吧少年",
@@ -5331,20 +5339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16401,
-      "num": 16401,
+      "raw_hot": 18803,
+      "num": 18803,
       "word": "光与夜之恋周年庆",
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14199,
-      "num": 16051,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

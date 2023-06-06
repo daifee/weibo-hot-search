@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/05 00:21:01 ~ 2023/06/07 04:17:25
+本榜单时间：2023/06/05 00:21:01 ~ 2023/06/07 04:33:43
 </p>
 </blockquote>
 <p>
@@ -3921,6 +3921,12 @@ AG（热度：46958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23" target="weibo">
+男明星的牙（热度：43216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E6%83%B3%E8%A6%81%E7%9A%84%E5%93%81%E8%B4%A8%E7%94%9F%E6%B4%BB%23" target="weibo">
 宋佳想要的品质生活（热度：41371）
 </a>
@@ -3929,12 +3935,6 @@ AG（热度：46958）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%83%88%E6%97%A5%E4%B8%8B%E6%99%95%E5%80%92%E5%A4%9A%E4%BA%BA%E6%92%91%E4%BC%9E%E5%AE%88%E6%8A%A4%23" target="weibo">
 老人烈日下晕倒多人撑伞守护（热度：41152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23" target="weibo">
-男明星的牙（热度：40890）
 </a>
 </li>
 
@@ -4005,6 +4005,12 @@ YouAintRight高能四分钟（热度：38881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
+小伙被吸入涵洞口30人紧紧拉回（热度：22136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%9C%BA%E5%90%A7%E5%B0%91%E5%B9%B4%23" target="weibo">
 上场吧少年（热度：21565）
 </a>
@@ -4012,13 +4018,7 @@ YouAintRight高能四分钟（热度：38881）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%91%A8%E5%B9%B4%E5%BA%86%23" target="weibo">
-光与夜之恋周年庆（热度：16401）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
-小伙被吸入涵洞口30人紧紧拉回（热度：14199）
+光与夜之恋周年庆（热度：18803）
 </a>
 </li>
 
