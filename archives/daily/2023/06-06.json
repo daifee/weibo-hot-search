@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686020668798,
+  "endTime": 1686021764040,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1929723,
-      "num": 1929723,
+      "raw_hot": 2069629,
+      "num": 2069629,
       "word": "没想到经常挖鼻孔会影响颜值",
       "onboard_time": 1686012511,
       "rank": 17,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1087116,
-      "num": 828688,
+      "num": 831116,
       "word": "向佐郭碧婷牵手逛街",
       "onboard_time": 1686016887,
       "rank": 16,
@@ -137,6 +137,14 @@
       "onboard_time": 1686010771,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 830530,
+      "num": 830530,
+      "word": "黄奕发博支持49岁高考妈妈",
+      "onboard_time": 1686017846,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 824265,
@@ -203,6 +211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616013,
+      "num": 616013,
+      "word": "专家称要警惕终身不婚不育情况",
+      "onboard_time": 1686017487,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588438,
+      "num": 364805,
+      "word": "绝大男人婚前婚后的生活都不会有太大变化",
+      "onboard_time": 1686015807,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 559589,
       "num": 559589,
       "word": "男子做冷门工作10年带火2个生僻字",
@@ -219,12 +243,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 528940,
-      "num": 528940,
-      "word": "黄奕发博支持49岁高考妈妈",
-      "onboard_time": 1686017846,
-      "rank": 15,
-      "category": "社会新闻,艺人"
+      "raw_hot": 512708,
+      "num": 512708,
+      "word": "谢娜四公 没拉票",
+      "onboard_time": 1686021388,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 510288,
@@ -251,28 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439284,
-      "num": 316982,
-      "word": "绝大男人婚前婚后的生活都不会有太大变化",
-      "onboard_time": 1686015807,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 427246,
       "num": 427246,
       "word": "Jennie新剧",
       "onboard_time": 1685973571,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 426776,
-      "num": 367876,
-      "word": "专家称要警惕终身不婚不育情况",
-      "onboard_time": 1686017487,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422321,
@@ -304,6 +312,14 @@
       "word": "孙怡对汤晶媚说你不要在这道德绑架我",
       "onboard_time": 1685959708,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395040,
+      "num": 395040,
+      "word": "秋瓷炫四公 淘汰",
+      "onboard_time": 1686021448,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -387,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323875,
+      "num": 323875,
+      "word": "丫丫",
+      "onboard_time": 1686021208,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -427,6 +451,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 287752,
+      "num": 287752,
+      "word": "陆沉",
+      "onboard_time": 1686020247,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286685,
       "num": 286685,
       "word": "齐司礼",
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278766,
+      "num": 278766,
+      "word": "全员加速中",
+      "onboard_time": 1686011611,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268889,
       "num": 268889,
       "word": "浪姐的吴倩vs你好星期六的吴倩",
@@ -473,14 +513,6 @@
       "onboard_time": 1686020188,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260006,
-      "num": 260006,
-      "word": "陆沉",
-      "onboard_time": 1686020247,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 259371,
@@ -529,14 +561,6 @@
       "onboard_time": 1685971768,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241981,
-      "num": 241981,
-      "word": "全员加速中",
-      "onboard_time": 1686011611,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 234230,
@@ -675,6 +699,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192321,
+      "num": 192321,
+      "word": "郭碧婷的头发好多",
+      "onboard_time": 1686019827,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191097,
+      "num": 191097,
+      "word": "全员加速中3要来了",
+      "onboard_time": 1686021689,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190745,
       "num": 190745,
       "word": "猫猫阿姨 你告诉小猫要好好吃饭",
@@ -705,14 +745,6 @@
       "onboard_time": 1686006260,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187593,
-      "num": 187593,
-      "word": "郭碧婷的头发好多",
-      "onboard_time": 1686019827,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 186253,
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 133115,
-      "num": 367940,
+      "num": 372353,
       "word": "荣耀90开辟手机护眼新赛道",
       "onboard_time": 1686019168,
       "rank": 26,
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 116771,
-      "num": 274016,
+      "num": 303803,
       "word": "可以养胃的三种常见食物",
       "onboard_time": 1686008366,
       "rank": 29,
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 90943,
-      "num": 90943,
+      "num": 341566,
       "word": "天舟五号与空间站再次交会对接",
       "onboard_time": 1686006922,
       "rank": 48,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1685987295,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 69732,
+      "num": 454031,
+      "word": "王一博向你伸手",
+      "onboard_time": 1686020428,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 61695,
@@ -1131,12 +1171,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20185,
-      "num": 398504,
-      "word": "王一博向你伸手",
-      "onboard_time": 1686020428,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 6083,
+      "num": 831138,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1145,6 +1185,9 @@
     },
     {
       "word": "#保护环境就是守护你我的未来#"
+    },
+    {
+      "word": "#高考倒计时1天#"
     }
   ]
 }

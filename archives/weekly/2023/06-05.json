@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686020668798,
+  "endTime": 1686021764040,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2069629,
+      "num": 2069629,
+      "word": "没想到经常挖鼻孔会影响颜值",
+      "onboard_time": 1686012511,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2067900,
       "num": 2067900,
       "word": "江歌妈妈 捐出全部赔偿不是冲动",
@@ -73,14 +81,6 @@
       "onboard_time": 1685935831,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1929723,
-      "num": 1929723,
-      "word": "没想到经常挖鼻孔会影响颜值",
-      "onboard_time": 1686012511,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 1820130,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1087116,
-      "num": 828688,
+      "num": 831116,
       "word": "向佐郭碧婷牵手逛街",
       "onboard_time": 1686016887,
       "rank": 16,
@@ -505,6 +505,14 @@
       "onboard_time": 1685934869,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 830530,
+      "num": 830530,
+      "word": "黄奕发博支持49岁高考妈妈",
+      "onboard_time": 1686017846,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 821890,
@@ -723,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616013,
+      "num": 616013,
+      "word": "专家称要警惕终身不婚不育情况",
+      "onboard_time": 1686017487,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612585,
       "num": 612585,
       "word": "亲爱的李华以后信要自己写了",
@@ -753,6 +769,14 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 588438,
+      "num": 364805,
+      "word": "绝大男人婚前婚后的生活都不会有太大变化",
+      "onboard_time": 1686015807,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 567816,
@@ -795,14 +819,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 528940,
-      "num": 528940,
-      "word": "黄奕发博支持49岁高考妈妈",
-      "onboard_time": 1686017846,
-      "rank": 15,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 521409,
       "num": 521409,
       "word": "90后的三十岁",
@@ -817,6 +833,14 @@
       "onboard_time": 1685928387,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 512708,
+      "num": 512708,
+      "word": "谢娜四公 没拉票",
+      "onboard_time": 1686021388,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 505985,
@@ -947,28 +971,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 439284,
-      "num": 316982,
-      "word": "绝大男人婚前婚后的生活都不会有太大变化",
-      "onboard_time": 1686015807,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 433819,
       "num": 433819,
       "word": "肖春生戴婚戒",
       "onboard_time": 1685943927,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 426776,
-      "num": 367876,
-      "word": "专家称要警惕终身不婚不育情况",
-      "onboard_time": 1686017487,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424870,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1685938534,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395040,
+      "num": 395040,
+      "word": "秋瓷炫四公 淘汰",
+      "onboard_time": 1686021448,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 390788,
@@ -1315,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323875,
+      "num": 323875,
+      "word": "丫丫",
+      "onboard_time": 1686021208,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -1435,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287752,
+      "num": 287752,
+      "word": "陆沉",
+      "onboard_time": 1686020247,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286685,
       "num": 286685,
       "word": "齐司礼",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1685944048,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278766,
+      "num": 278766,
+      "word": "全员加速中",
+      "onboard_time": 1686011611,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 277665,
@@ -1569,14 +1609,6 @@
       "onboard_time": 1686020188,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260006,
-      "num": 260006,
-      "word": "陆沉",
-      "onboard_time": 1686020247,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 259379,
@@ -1737,14 +1769,6 @@
       "onboard_time": 1685941531,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241981,
-      "num": 241981,
-      "word": "全员加速中",
-      "onboard_time": 1686011611,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 241638,
@@ -2219,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192321,
+      "num": 192321,
+      "word": "郭碧婷的头发好多",
+      "onboard_time": 1686019827,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191943,
       "num": 191943,
       "word": "酒托",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1685956769,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191097,
+      "num": 191097,
+      "word": "全员加速中3要来了",
+      "onboard_time": 1686021689,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 190957,
@@ -2305,14 +2345,6 @@
       "onboard_time": 1685939312,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187593,
-      "num": 187593,
-      "word": "郭碧婷的头发好多",
-      "onboard_time": 1686019827,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187189,
@@ -2916,7 +2948,7 @@
     },
     {
       "raw_hot": 133115,
-      "num": 367940,
+      "num": 372353,
       "word": "荣耀90开辟手机护眼新赛道",
       "onboard_time": 1686019168,
       "rank": 26,
@@ -3132,7 +3164,7 @@
     },
     {
       "raw_hot": 116771,
-      "num": 274016,
+      "num": 303803,
       "word": "可以养胃的三种常见食物",
       "onboard_time": 1686008366,
       "rank": 29,
@@ -3316,7 +3348,7 @@
     },
     {
       "raw_hot": 90943,
-      "num": 90943,
+      "num": 341566,
       "word": "天舟五号与空间站再次交会对接",
       "onboard_time": 1686006922,
       "rank": 48,
@@ -3433,6 +3465,14 @@
       "onboard_time": 1685987295,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 69732,
+      "num": 454031,
+      "word": "王一博向你伸手",
+      "onboard_time": 1686020428,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 65883,
@@ -3587,12 +3627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20185,
-      "num": 398504,
-      "word": "王一博向你伸手",
-      "onboard_time": 1686020428,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 6083,
+      "num": 831138,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -3610,6 +3650,9 @@
     },
     {
       "word": "#美丽中国在行动#"
+    },
+    {
+      "word": "#高考倒计时1天#"
     }
   ]
 }
