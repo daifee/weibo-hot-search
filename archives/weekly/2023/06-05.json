@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686065644543,
+  "endTime": 1686068524506,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -867,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777753,
+      "num": 777753,
+      "word": "梦回王俊凯用易烊千玺读秒",
+      "onboard_time": 1686065012,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 777538,
       "num": 777538,
       "word": "肖战被强行拉cp",
@@ -1056,6 +1064,14 @@
       "word": "亲爱的李华以后信要自己写了",
       "onboard_time": 1685954969,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605386,
+      "num": 605386,
+      "word": "辅导员自费给全班买咖啡抽中电车",
+      "onboard_time": 1686065846,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1281,14 @@
       "onboard_time": 1685945247,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484649,
+      "num": 484649,
+      "word": "虞书欣工作人员的手机壳",
+      "onboard_time": 1686064954,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 481819,
@@ -2459,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246890,
+      "num": 225403,
+      "word": "红山动物园 工作猪",
+      "onboard_time": 1686062370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245324,
       "num": 245324,
       "word": "与易烊千玺的十年",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1685953469,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 243397,
-      "num": 243397,
-      "word": "梦回王俊凯用易烊千玺读秒",
-      "onboard_time": 1686065012,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 243395,
@@ -2579,20 +2603,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 238546,
+      "num": 221756,
+      "word": "检方介入山西男童死亡案",
+      "onboard_time": 1686064829,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238008,
       "num": 238008,
       "word": "小狗又不懂什么是寄养",
       "onboard_time": 1685957728,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237560,
-      "num": 237560,
-      "word": "虞书欣工作人员的手机壳",
-      "onboard_time": 1686064954,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 237348,
@@ -2953,14 +2977,6 @@
       "onboard_time": 1686019947,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215991,
-      "num": 215991,
-      "word": "红山动物园 工作猪",
-      "onboard_time": 1686062370,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215762,
@@ -3571,6 +3587,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 178100,
+      "num": 178100,
+      "word": "光与夜之恋大头",
+      "onboard_time": 1686066927,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177948,
       "num": 177948,
       "word": "爆剧最多的女演员",
@@ -3761,6 +3785,14 @@
       "onboard_time": 1685969908,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168089,
+      "num": 168089,
+      "word": "00后打零工攒3千给爷爷装空调",
+      "onboard_time": 1686066748,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167814,
@@ -4043,6 +4075,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 151663,
+      "num": 151663,
+      "word": "很难忘记周深的高考祝福",
+      "onboard_time": 1686066030,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1685972970,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139483,
+      "num": 139483,
+      "word": "德约科维奇",
+      "onboard_time": 1686065250,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 138401,
@@ -4563,14 +4611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118763,
-      "num": 118763,
-      "word": "德约科维奇",
-      "onboard_time": 1686065250,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "男子脱衣下水帮女子捞起手机",
@@ -4771,11 +4811,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98897,
-      "num": 116876,
-      "word": "检方介入山西男童死亡案",
-      "onboard_time": 1686064829,
-      "rank": 49,
+      "raw_hot": 98985,
+      "num": 98985,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4849,6 +4889,14 @@
       "onboard_time": 1685914212,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90417,
+      "num": 90417,
+      "word": "贷款上班",
+      "onboard_time": 1686066511,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 90376,
@@ -5184,6 +5232,14 @@
       "word": "上场吧少年",
       "onboard_time": 1685977292,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9510,
+      "num": 684766,
+      "word": "首艘国产大型邮轮爱达魔都号出坞",
+      "onboard_time": 1686053788,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686065644543,
+  "endTime": 1686068524506,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -2187,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777753,
+      "num": 777753,
+      "word": "梦回王俊凯用易烊千玺读秒",
+      "onboard_time": 1686065012,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 777538,
       "num": 777538,
       "word": "肖战被强行拉cp",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1685586327,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 605386,
+      "num": 605386,
+      "word": "辅导员自费给全班买咖啡抽中电车",
+      "onboard_time": 1686065846,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605123,
@@ -3457,6 +3473,14 @@
       "onboard_time": 1685593770,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 484649,
+      "num": 484649,
+      "word": "虞书欣工作人员的手机壳",
+      "onboard_time": 1686064954,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 481819,
@@ -7179,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246890,
+      "num": 225403,
+      "word": "红山动物园 工作猪",
+      "onboard_time": 1686062370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -7281,14 +7313,6 @@
       "onboard_time": 1685953469,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 243397,
-      "num": 243397,
-      "word": "梦回王俊凯用易烊千玺读秒",
-      "onboard_time": 1686065012,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 243395,
@@ -7483,6 +7507,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 238546,
+      "num": 221756,
+      "word": "检方介入山西男童死亡案",
+      "onboard_time": 1686064829,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238172,
       "num": 238172,
       "word": "是谁在设计这种东西",
@@ -7513,14 +7545,6 @@
       "onboard_time": 1685689228,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237560,
-      "num": 237560,
-      "word": "虞书欣工作人员的手机壳",
-      "onboard_time": 1686064954,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 237370,
@@ -8400,14 +8424,6 @@
       "word": "江苏南通",
       "onboard_time": 1685666070,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215991,
-      "num": 215991,
-      "word": "红山动物园 工作猪",
-      "onboard_time": 1686062370,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -10243,6 +10259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 178100,
+      "num": 178100,
+      "word": "光与夜之恋大头",
+      "onboard_time": 1686066927,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177848,
       "num": 177848,
       "word": "反复高考的行为有意义吗",
@@ -10633,6 +10657,14 @@
       "onboard_time": 1685723906,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168089,
+      "num": 168089,
+      "word": "00后打零工攒3千给爷爷装空调",
+      "onboard_time": 1686066748,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167802,
@@ -11371,6 +11403,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 151663,
+      "num": 151663,
+      "word": "很难忘记周深的高考祝福",
+      "onboard_time": 1686066030,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -11809,6 +11849,14 @@
       "onboard_time": 1685867008,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139483,
+      "num": 139483,
+      "word": "德约科维奇",
+      "onboard_time": 1686065250,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 139234,
@@ -12627,14 +12675,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 118763,
-      "num": 118763,
-      "word": "德约科维奇",
-      "onboard_time": 1686065250,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118687,
       "num": 158295,
       "word": "金龟子说8090后不必为长大道歉",
@@ -13219,11 +13259,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98897,
-      "num": 116876,
-      "word": "检方介入山西男童死亡案",
-      "onboard_time": 1686064829,
-      "rank": 49,
+      "raw_hot": 98985,
+      "num": 98985,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13409,6 +13449,14 @@
       "onboard_time": 1685914212,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90417,
+      "num": 90417,
+      "word": "贷款上班",
+      "onboard_time": 1686066511,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 90246,
@@ -14624,6 +14672,14 @@
       "word": "当少先队礼和军礼同框",
       "onboard_time": 1685736972,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9510,
+      "num": 684766,
+      "word": "首艘国产大型邮轮爱达魔都号出坞",
+      "onboard_time": 1686053788,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
