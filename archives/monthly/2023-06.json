@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686078815619,
+  "endTime": 1686080016632,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -14395,6 +14395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46046,
+      "num": 46046,
+      "word": "鼠头受害股",
+      "onboard_time": 1686076933,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45559,
       "num": 45559,
       "word": "周深说一起跟着热热身吧",
@@ -14483,14 +14491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 38328,
-      "num": 38328,
-      "word": "鼠头受害股",
-      "onboard_time": 1686076933,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 37722,
       "num": 446920,
       "word": "济南800辆爱心送考车整装待发",
@@ -14561,6 +14561,14 @@
       "onboard_time": 1685595629,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32616,
+      "num": 26099,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 31905,
@@ -14705,14 +14713,6 @@
       "onboard_time": 1685595629,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20906,
-      "num": 20906,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19970,

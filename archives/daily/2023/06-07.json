@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686078815619,
+  "endTime": 1686080016632,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -459,8 +459,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 38328,
-      "num": 38328,
+      "raw_hot": 46046,
+      "num": 46046,
       "word": "鼠头受害股",
       "onboard_time": 1686076933,
       "rank": 17,
@@ -473,6 +473,14 @@
       "onboard_time": 1686040107,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 32616,
+      "num": 26099,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28906,
@@ -489,14 +497,6 @@
       "onboard_time": 1686053788,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20906,
-      "num": 20906,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
