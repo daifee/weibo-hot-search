@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686093384643,
+  "endTime": 1686094419360,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -9,6 +9,14 @@
       "onboard_time": 1686026611,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3168356,
+      "num": 3168356,
+      "word": "高考",
+      "onboard_time": 1686092659,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3044586,
@@ -105,14 +113,6 @@
       "onboard_time": 1686063992,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2233081,
-      "num": 2233081,
-      "word": "高考",
-      "onboard_time": 1686092659,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2183531,
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 881565,
+      "num": 881565,
+      "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+      "onboard_time": 1686092600,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879069,
       "num": 879069,
       "word": "有刘海的刘浩存",
@@ -995,6 +1003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 681851,
+      "num": 681851,
+      "word": "辅导员自费给全班买咖啡抽中电车",
+      "onboard_time": 1686065846,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680090,
       "num": 680090,
       "word": "汕头一快餐店煤气爆炸致1死6伤",
@@ -1072,14 +1088,6 @@
       "word": "亲爱的李华以后信要自己写了",
       "onboard_time": 1685954969,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605386,
-      "num": 605386,
-      "word": "辅导员自费给全班买咖啡抽中电车",
-      "onboard_time": 1686065846,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1483,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410058,
+      "num": 410058,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409281,
       "num": 409281,
       "word": "儿子高考前告别重病妈妈医生善意劝导",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1685938534,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393477,
+      "num": 311491,
+      "word": "失业的中年人涌进星巴克",
+      "onboard_time": 1686092659,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390788,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1685942608,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367188,
-      "num": 367188,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366340,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1686053069,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319614,
+      "num": 319614,
+      "word": "6年前忘带准考证受助考生成交警新同事",
+      "onboard_time": 1686092600,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 315548,
@@ -2147,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284989,
+      "num": 284989,
+      "word": "古代状元到底是什么水平",
+      "onboard_time": 1686092600,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284698,
       "num": 284698,
       "word": "刘宇又不是去参加高考",
@@ -2227,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276113,
+      "num": 135112,
+      "word": "今年高考生17年才刚小学毕业",
+      "onboard_time": 1686093503,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 275014,
       "num": 275014,
       "word": "三分野",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1685947828,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271370,
+      "num": 271370,
+      "word": "11岁男孩开电动车失控撞死3岁男童",
+      "onboard_time": 1686092600,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270996,
@@ -3027,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215188,
+      "num": 215188,
+      "word": "马斯克称未来房价下跌将加速",
+      "onboard_time": 1686092781,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 214711,
       "num": 214711,
       "word": "求职被问婚育状况合理吗",
@@ -3243,14 +3299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201150,
-      "num": 201150,
-      "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
-      "onboard_time": 1686092600,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201021,
       "num": 201021,
       "word": "死亡搁浅将登陆Mac",
@@ -3385,6 +3433,14 @@
       "onboard_time": 1686032309,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192577,
+      "num": 192577,
+      "word": "高考生考前一天弄丢身份证",
+      "onboard_time": 1686093260,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192321,
@@ -3641,6 +3697,14 @@
       "onboard_time": 1686028350,
       "rank": 42,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 178930,
+      "num": 178930,
+      "word": "2023高考第一天",
+      "onboard_time": 1686092840,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 178145,
@@ -3992,14 +4056,6 @@
       "word": "女子父母反对远嫁男友威胁带其轻生",
       "onboard_time": 1685953229,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158978,
-      "num": 158978,
-      "word": "古代状元到底是什么水平",
-      "onboard_time": 1686092600,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4355,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137166,
+      "num": 137166,
+      "word": "我那年的高考口号",
+      "onboard_time": 1686093624,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 137080,
       "num": 137080,
       "word": "谁说柳州只有螺蛳粉",
@@ -4483,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130028,
+      "num": 130028,
+      "word": "张雨绮说孟子义独立女性结什么婚",
+      "onboard_time": 1686091278,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129810,
       "num": 129810,
       "word": "吴京换新公式照了",
@@ -4553,14 +4625,6 @@
       "onboard_time": 1685921241,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127871,
-      "num": 127871,
-      "word": "失业的中年人涌进星巴克",
-      "onboard_time": 1686092659,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127551,
@@ -4787,14 +4851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114367,
-      "num": 114367,
-      "word": "6年前忘带准考证受助考生成交警新同事",
-      "onboard_time": 1686092600,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 114250,
       "num": 114250,
       "word": "钢笔还给我爸爸",
@@ -4867,6 +4923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104875,
+      "num": 104875,
+      "word": "失眠",
+      "onboard_time": 1686093321,
+      "rank": 48,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 104069,
       "num": 104069,
       "word": "王鹤棣在哪都是个显眼包",
@@ -4923,14 +4987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99099,
-      "num": 99099,
-      "word": "2023高考第一天",
-      "onboard_time": 1686092840,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 98550,
       "num": 98550,
       "word": "林允儿看金泰妍演唱会vlog",
@@ -4961,14 +5017,6 @@
       "onboard_time": 1685975612,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 96208,
-      "num": 96208,
-      "word": "11岁男孩开电动车失控撞死3岁男童",
-      "onboard_time": 1686092600,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95902,
@@ -5025,6 +5073,14 @@
       "onboard_time": 1685895806,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87879,
+      "num": 87879,
+      "word": "娜扎方否认高考596分",
+      "onboard_time": 1686094405,
+      "rank": 44,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 87736,
@@ -5107,20 +5163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82592,
+      "num": 82592,
+      "word": "高考文案",
+      "onboard_time": 1686094285,
+      "rank": 46,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 82423,
       "num": 451383,
       "word": "班主任自费给高三毕业生发礼物",
       "onboard_time": 1685962834,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82308,
-      "num": 82308,
-      "word": "张雨绮说孟子义独立女性结什么婚",
-      "onboard_time": 1686091278,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 80006,
@@ -5139,12 +5195,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 74777,
-      "num": 74777,
-      "word": "马斯克称未来房价下跌将加速",
-      "onboard_time": 1686092781,
-      "rank": 41,
-      "category": "财经,社会新闻"
+      "raw_hot": 78472,
+      "num": 78472,
+      "word": "鼠头受害股",
+      "onboard_time": 1686076933,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 73279,
+      "num": 73279,
+      "word": "鼠头还是鸭脖真的很难确认吗",
+      "onboard_time": 1686094405,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70924,
@@ -5187,20 +5251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67675,
-      "num": 67675,
-      "word": "高考生考前一天弄丢身份证",
-      "onboard_time": 1686093260,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 67574,
-      "num": 67574,
-      "word": "鼠头受害股",
-      "onboard_time": 1686076933,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 66934,
+      "num": 857768,
+      "word": "首艘国产大型邮轮爱达魔都号出坞",
+      "onboard_time": 1686053788,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66360,
@@ -5233,14 +5289,6 @@
       "onboard_time": 1685895026,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 63807,
-      "num": 63807,
-      "word": "失眠",
-      "onboard_time": 1686093321,
-      "rank": 48,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 61803,
@@ -5280,14 +5328,6 @@
       "word": "轿车淹没前民警1分钟内连救男子2次",
       "onboard_time": 1685959288,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52110,
-      "num": 684766,
-      "word": "首艘国产大型邮轮爱达魔都号出坞",
-      "onboard_time": 1686053788,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
