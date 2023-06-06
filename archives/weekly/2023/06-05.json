@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686043009668,
+  "endTime": 1686044030357,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1369364,
+      "num": 1369364,
+      "word": "绝味鸭脖股价下跌",
+      "onboard_time": 1686038787,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1358505,
       "num": 1358505,
       "word": "美依礼芽四公 青鸟",
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1204581,
+      "num": 1080209,
+      "word": "鲍蕾晒花絮力证没给贝儿P腿",
+      "onboard_time": 1686032968,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1203733,
       "num": 1203733,
       "word": "海霞欧阳夏丹已不再任央视主持人",
@@ -387,22 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1141716,
-      "num": 1080209,
-      "word": "鲍蕾晒花絮力证没给贝儿P腿",
-      "onboard_time": 1686032968,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1121132,
-      "num": 1121132,
-      "word": "绝味鸭脖股价下跌",
-      "onboard_time": 1686038787,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1118785,
       "num": 1118785,
       "word": "本周狗屎运最旺的星座",
@@ -425,6 +425,14 @@
       "onboard_time": 1685950890,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1086340,
+      "num": 982929,
+      "word": "四大顶级舞担",
+      "onboard_time": 1686039627,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1076254,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976003,
+      "num": 976003,
+      "word": "蔡徐坤 回归跑男",
+      "onboard_time": 1686040288,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 966673,
       "num": 966673,
       "word": "秋瓷炫四公 淘汰",
@@ -561,14 +577,6 @@
       "onboard_time": 1686034589,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 899400,
-      "num": 899400,
-      "word": "蔡徐坤 回归跑男",
-      "onboard_time": 1686040288,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 879069,
@@ -873,14 +881,6 @@
       "onboard_time": 1685941471,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 625770,
-      "num": 553992,
-      "word": "四大顶级舞担",
-      "onboard_time": 1686039627,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 622841,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411586,
+      "num": 411586,
+      "word": "种地吧感恩音乐会",
+      "onboard_time": 1686043349,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409281,
       "num": 409281,
       "word": "儿子高考前告别重病妈妈医生善意劝导",
@@ -1491,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350869,
+      "num": 350869,
+      "word": "原来无痛针是这么打的",
+      "onboard_time": 1686040588,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350747,
       "num": 350747,
       "word": "李荣浩说都给我好好考",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1686016287,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325027,
+      "num": 325027,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 324661,
@@ -1891,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271670,
-      "num": 271670,
-      "word": "原来无痛针是这么打的",
-      "onboard_time": 1686040588,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -2131,14 +2147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 242572,
-      "num": 242572,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242154,
       "num": 242154,
       "word": "杨超越工作室回应模仿争议",
@@ -2321,6 +2329,14 @@
       "onboard_time": 1686033866,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226863,
+      "num": 226863,
+      "word": "ff14",
+      "onboard_time": 1686042868,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 226012,
@@ -2619,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204177,
+      "num": 204177,
+      "word": "浪漫诗人李雪琴",
+      "onboard_time": 1686040407,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203503,
       "num": 203503,
       "word": "夏天穿洞洞鞋出门的后果",
@@ -2675,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201323,
+      "num": 201323,
+      "word": "王者马可波罗即将调整",
+      "onboard_time": 1686042928,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201276,
       "num": 201276,
       "word": "全员加速中11点06官宣的原因",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1685948908,
       "rank": 32,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 198578,
+      "num": 198578,
+      "word": "中国男排",
+      "onboard_time": 1686043589,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 198479,
@@ -2947,14 +2987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184490,
-      "num": 184490,
-      "word": "浪漫诗人李雪琴",
-      "onboard_time": 1686040407,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183222,
       "num": 183222,
       "word": "男粉呐喊惊到刘宇",
@@ -3073,14 +3105,6 @@
       "onboard_time": 1685965046,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175940,
-      "num": 175940,
-      "word": "王者马可波罗即将调整",
-      "onboard_time": 1686042928,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 175765,
@@ -3443,14 +3467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152125,
-      "num": 152125,
-      "word": "ff14",
-      "onboard_time": 1686042868,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -3707,6 +3723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130907,
+      "num": 1015986,
+      "word": "祝考生们大胜归来",
+      "onboard_time": 1686040107,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 129578,
       "num": 129578,
       "word": "恋爱脑的原因",
@@ -3761,14 +3785,6 @@
       "onboard_time": 1685959406,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127262,
-      "num": 983132,
-      "word": "祝考生们大胜归来",
-      "onboard_time": 1686040107,
-      "rank": 2,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 126493,
@@ -3945,6 +3961,14 @@
       "onboard_time": 1685887474,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114926,
+      "num": 114926,
+      "word": "孩子犯错家长该怎么引导",
+      "onboard_time": 1686043167,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114250,
@@ -4227,6 +4251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 79890,
+      "num": 482188,
+      "word": "孩子吃鸡蛋当心沙门氏菌",
+      "onboard_time": 1686042030,
+      "rank": 14,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 70924,
       "num": 70924,
       "word": "暑假神剧西游记",
@@ -4305,14 +4337,6 @@
       "onboard_time": 1685920339,
       "rank": 47,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 47633,
-      "num": 482188,
-      "word": "孩子吃鸡蛋当心沙门氏菌",
-      "onboard_time": 1686042030,
-      "rank": 14,
-      "category": "社会议题"
     },
     {
       "raw_hot": 46997,
