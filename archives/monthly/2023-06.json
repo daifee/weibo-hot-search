@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686071717368,
+  "endTime": 1686072824151,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -14193,6 +14193,14 @@
       "onboard_time": 1685779707,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58492,
+      "num": 58492,
+      "word": "高考期间最忌减主食",
+      "onboard_time": 1686072616,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 57454,
