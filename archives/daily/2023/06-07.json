@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686069467715,
+  "endTime": 1686071717368,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245955,
+      "num": 245955,
+      "word": "印度蛛",
+      "onboard_time": 1686068785,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239664,
       "num": 223774,
       "word": "宋轶现身医院抽血采样",
@@ -171,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211853,
+      "num": 211853,
+      "word": "贷款上班",
+      "onboard_time": 1686066511,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189025,
       "num": 189025,
       "word": "种地吧直播",
       "onboard_time": 1686041848,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186579,
-      "num": 186579,
-      "word": "贷款上班",
-      "onboard_time": 1686066511,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 185697,
@@ -211,8 +219,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166431,
-      "num": 151663,
+      "raw_hot": 173682,
+      "num": 173682,
       "word": "很难忘记周深的高考祝福",
       "onboard_time": 1686066030,
       "rank": 33,
@@ -257,14 +265,6 @@
       "onboard_time": 1686061955,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154483,
-      "num": 154483,
-      "word": "印度蛛",
-      "onboard_time": 1686068785,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148336,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133310,
+      "num": 133310,
+      "word": "蜘蛛侠",
+      "onboard_time": 1686070281,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131534,
       "num": 131534,
       "word": "绝味鸭脖股价下跌",
@@ -323,12 +331,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 122964,
-      "num": 122964,
+      "raw_hot": 130823,
+      "num": 130823,
       "word": "大熊猫萌兰吃窝头突然定了十几秒",
       "onboard_time": 1686067647,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129810,
+      "num": 129810,
+      "word": "吴京换新公式照了",
+      "onboard_time": 1686069982,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117174,
@@ -387,11 +403,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94757,
+      "num": 94757,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 87134,
       "num": 93739,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
       "onboard_time": 1686035848,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72572,
+      "num": 72572,
+      "word": "男子承包三餐只为督促妻子多吃点",
+      "onboard_time": 1686069623,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -403,15 +435,15 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 60838,
-      "num": 93724,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 67996,
+      "num": 67996,
+      "word": "鞠婧祎郭俊辰好会亲",
+      "onboard_time": 1686069143,
+      "rank": 44,
+      "category": "影视"
     },
     {
-      "raw_hot": 22295,
+      "raw_hot": 23369,
       "num": 684766,
       "word": "首艘国产大型邮轮爱达魔都号出坞",
       "onboard_time": 1686053788,

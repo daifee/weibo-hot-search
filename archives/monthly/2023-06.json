@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686069467715,
+  "endTime": 1686071717368,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -7243,6 +7243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245955,
+      "num": 245955,
+      "word": "印度蛛",
+      "onboard_time": 1686068785,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245403,
       "num": 245403,
       "word": "宋亚轩中戏汇演",
@@ -8571,6 +8579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211853,
+      "num": 211853,
+      "word": "贷款上班",
+      "onboard_time": 1686066511,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -9851,14 +9867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186579,
-      "num": 186579,
-      "word": "贷款上班",
-      "onboard_time": 1686066511,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186253,
       "num": 186253,
       "word": "高考祝福",
@@ -10459,6 +10467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173682,
+      "num": 173682,
+      "word": "很难忘记周深的高考祝福",
+      "onboard_time": 1686066030,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 173126,
       "num": 173126,
       "word": "古力娜扎诉洗护产品侵权获赔",
@@ -10705,14 +10721,6 @@
       "onboard_time": 1685660781,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166431,
-      "num": 151663,
-      "word": "很难忘记周深的高考祝福",
-      "onboard_time": 1686066030,
-      "rank": 33,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 166218,
@@ -11289,14 +11297,6 @@
       "onboard_time": 1685679030,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154483,
-      "num": 154483,
-      "word": "印度蛛",
-      "onboard_time": 1686068785,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154445,
@@ -12195,6 +12195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 130823,
+      "num": 130823,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130782,
       "num": 130782,
       "word": "女儿高考妈妈为爸爸量身缝制旗袍",
@@ -12217,6 +12225,14 @@
       "onboard_time": 1685702248,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129810,
+      "num": 129810,
+      "word": "吴京换新公式照了",
+      "onboard_time": 1686069982,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129759,
@@ -12504,14 +12520,6 @@
       "word": "小学生摊前帮爸爸炒面手法娴熟",
       "onboard_time": 1685975191,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122964,
-      "num": 122964,
-      "word": "大熊猫萌兰吃窝头突然定了十几秒",
-      "onboard_time": 1686067647,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13379,6 +13387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94757,
+      "num": 94757,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 94648,
       "num": 94648,
       "word": "WWDC2023",
@@ -13899,6 +13915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72572,
+      "num": 72572,
+      "word": "男子承包三餐只为督促妻子多吃点",
+      "onboard_time": 1686069623,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72193,
       "num": 106043,
       "word": "龚翔宇太可爱了",
@@ -13993,6 +14017,14 @@
       "onboard_time": 1685748080,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 67996,
+      "num": 67996,
+      "word": "鞠婧祎郭俊辰好会亲",
+      "onboard_time": 1686069143,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 66360,
@@ -14097,14 +14129,6 @@
       "onboard_time": 1685784266,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60838,
-      "num": 93724,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 60786,
@@ -14611,20 +14635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23369,
+      "num": 684766,
+      "word": "首艘国产大型邮轮爱达魔都号出坞",
+      "onboard_time": 1686053788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23217,
       "num": 32796,
       "word": "当老师前和当老师后的变化",
       "onboard_time": 1685730796,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 22295,
-      "num": 684766,
-      "word": "首艘国产大型邮轮爱达魔都号出坞",
-      "onboard_time": 1686053788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22077,
