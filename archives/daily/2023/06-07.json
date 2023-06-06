@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686086133680,
+  "endTime": 1686087207132,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -411,6 +411,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 91865,
+      "num": 91865,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87134,
       "num": 93739,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
@@ -441,14 +449,6 @@
       "onboard_time": 1686069143,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 60889,
-      "num": 60889,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58492,
@@ -507,12 +507,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19332,
-      "num": 19332,
+      "raw_hot": 22311,
+      "num": 22311,
       "word": "张韶涵堵住鼻子化妆",
       "onboard_time": 1686084012,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20673,
+      "num": 20673,
+      "word": "朱一龙消失的她特辑",
+      "onboard_time": 1686086532,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 18999,
+      "num": 18999,
+      "word": "朱一龙说何非可怜可悲可恨",
+      "onboard_time": 1686086532,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 18803,
