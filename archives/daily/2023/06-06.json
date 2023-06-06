@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686050035156,
+  "endTime": 1686051233032,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1201069,
+      "num": 737964,
+      "word": "吴磊虞书欣 骄阳似我",
+      "onboard_time": 1686048269,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1183499,
       "num": 951690,
       "word": "不用再说HeySiri了",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 998712,
-      "num": 570013,
+      "num": 631370,
       "word": "杭州姑娘20元刮刮乐刮中百万",
       "onboard_time": 1686046349,
       "rank": 42,
@@ -323,11 +331,11 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 842836,
-      "num": 526743,
-      "word": "吴磊虞书欣 骄阳似我",
-      "onboard_time": 1686048269,
-      "rank": 11,
+      "raw_hot": 867084,
+      "num": 508683,
+      "word": "刘诗诗 天选淮竹",
+      "onboard_time": 1686048509,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -395,12 +403,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 699063,
-      "num": 508683,
-      "word": "刘诗诗 天选淮竹",
-      "onboard_time": 1686048509,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 707831,
+      "num": 1030229,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 688521,
@@ -449,14 +457,6 @@
       "onboard_time": 1686021689,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 577730,
-      "num": 1030229,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 559589,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475207,
+      "num": 475207,
+      "word": "鼠头",
+      "onboard_time": 1686047670,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -635,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400987,
+      "num": 400987,
+      "word": "广东明确停课不停考",
+      "onboard_time": 1686049469,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 398165,
       "num": 398165,
       "word": "孙怡对汤晶媚说你不要在这道德绑架我",
       "onboard_time": 1685959708,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388045,
+      "num": 388045,
+      "word": "动物专家称争议鸭脖大概率为鼠头",
+      "onboard_time": 1686049890,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383709,
@@ -681,14 +705,6 @@
       "onboard_time": 1686049827,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358608,
-      "num": 358608,
-      "word": "鼠头",
-      "onboard_time": 1686047670,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357674,
@@ -803,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315548,
+      "num": 315548,
+      "word": "肖战看到毛线球两眼放光",
+      "onboard_time": 1686049530,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -889,6 +913,14 @@
       "onboard_time": 1686019648,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284698,
+      "num": 284698,
+      "word": "刘宇又不是去参加高考",
+      "onboard_time": 1686048989,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 283555,
@@ -1067,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234488,
+      "num": 234488,
+      "word": "三分野大结局",
+      "onboard_time": 1686050008,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234230,
       "num": 234230,
       "word": "M2 Ultra",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1686032188,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 228824,
-      "num": 228824,
-      "word": "肖战看到毛线球两眼放光",
-      "onboard_time": 1686049530,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 227386,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1686019947,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211668,
-      "num": 211668,
-      "word": "刘宇又不是去参加高考",
-      "onboard_time": 1686048989,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 210638,
@@ -1547,14 +1571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181360,
-      "num": 181360,
-      "word": "广东明确停课不停考",
-      "onboard_time": 1686049469,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 181146,
       "num": 181146,
       "word": "Xiaohao哭了",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1685965706,
       "rank": 35,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 169455,
+      "num": 169455,
+      "word": "谁叫了朱一龙老公",
+      "onboard_time": 1686050666,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 166020,
@@ -1787,14 +1811,6 @@
       "category": "科技,幽默"
     },
     {
-      "raw_hot": 150114,
-      "num": 150114,
-      "word": "动物专家称争议鸭脖大概率为鼠头",
-      "onboard_time": 1686049890,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149050,
       "num": 149943,
       "word": "父母带5岁半脑干肿瘤女儿去海洋馆圆梦",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1686037168,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 143206,
-      "num": 143206,
-      "word": "三分野大结局",
-      "onboard_time": 1686050008,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 142783,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1686049108,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 136170,
+      "num": 136170,
+      "word": "高校食堂吃出老鼠头还是鸭脖",
+      "onboard_time": 1686051148,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134585,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1686040107,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 130782,
+      "num": 130782,
+      "word": "女儿高考妈妈为爸爸量身缝制旗袍",
+      "onboard_time": 1686050309,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129646,
@@ -2096,6 +2120,14 @@
       "word": "高三教师退休前最后一课哽咽寄语考生",
       "onboard_time": 1686042087,
       "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 106854,
+      "num": 106854,
+      "word": "高考临近 全国都在紧张",
+      "onboard_time": 1686050129,
+      "rank": 47,
       "category": "教育,社会新闻"
     },
     {
@@ -2251,7 +2283,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31134,
+      "raw_hot": 34937,
       "num": 499444,
       "word": "杀手包",
       "onboard_time": 1686049230,

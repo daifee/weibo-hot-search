@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686050035156,
+  "endTime": 1686051233032,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -1219,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201069,
+      "num": 737964,
+      "word": "吴磊虞书欣 骄阳似我",
+      "onboard_time": 1686048269,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1191166,
       "num": 1063314,
       "word": "警方回应校内被撞身亡小学生母亲坠亡",
@@ -1548,7 +1556,7 @@
     },
     {
       "raw_hot": 998712,
-      "num": 570013,
+      "num": 631370,
       "word": "杭州姑娘20元刮刮乐刮中百万",
       "onboard_time": 1686046349,
       "rank": 42,
@@ -1811,6 +1819,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 867084,
+      "num": 508683,
+      "word": "刘诗诗 天选淮竹",
+      "onboard_time": 1686048509,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 855032,
       "num": 855032,
       "word": "肖战刘芮麟新剧演兄弟",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1685777127,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 842836,
-      "num": 526743,
-      "word": "吴磊虞书欣 骄阳似我",
-      "onboard_time": 1686048269,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 838400,
@@ -2259,6 +2267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 707831,
+      "num": 1030229,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 706084,
       "num": 588785,
       "word": "你不用在意我的外表我不是你未来的妻子",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1685769747,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699063,
-      "num": 508683,
-      "word": "刘诗诗 天选淮竹",
-      "onboard_time": 1686048509,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 698316,
@@ -2817,14 +2825,6 @@
       "onboard_time": 1685795487,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577730,
-      "num": 1030229,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 573709,
@@ -3425,6 +3425,14 @@
       "onboard_time": 1685948128,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475207,
+      "num": 475207,
+      "word": "鼠头",
+      "onboard_time": 1686047670,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473764,
@@ -4059,6 +4067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400987,
+      "num": 400987,
+      "word": "广东明确停课不停考",
+      "onboard_time": 1686049469,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 400668,
       "num": 400668,
       "word": "学校回应小学生将螺丝刀插进同学背部",
@@ -4217,6 +4233,14 @@
       "onboard_time": 1685873547,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388045,
+      "num": 388045,
+      "word": "动物专家称争议鸭脖大概率为鼠头",
+      "onboard_time": 1686049890,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387087,
@@ -4529,14 +4553,6 @@
       "onboard_time": 1685616867,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358608,
-      "num": 358608,
-      "word": "鼠头",
-      "onboard_time": 1686047670,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357674,
@@ -5224,6 +5240,14 @@
       "word": "谭松韵丁禹兮 蜀锦人家",
       "onboard_time": 1685851588,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315548,
+      "num": 315548,
+      "word": "肖战看到毛线球两眼放光",
+      "onboard_time": 1686049530,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5921,6 +5945,14 @@
       "onboard_time": 1685880687,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284698,
+      "num": 284698,
+      "word": "刘宇又不是去参加高考",
+      "onboard_time": 1686048989,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 284271,
@@ -7355,6 +7387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234488,
+      "num": 234488,
+      "word": "三分野大结局",
+      "onboard_time": 1686050008,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234292,
       "num": 238814,
       "word": "京多安开场14秒破门",
@@ -7568,14 +7608,6 @@
       "word": "肖春生祝酒词是肖战即兴发挥的",
       "onboard_time": 1685943027,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228824,
-      "num": 228824,
-      "word": "肖战看到毛线球两眼放光",
-      "onboard_time": 1686049530,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -8257,14 +8289,6 @@
       "onboard_time": 1685877987,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211668,
-      "num": 211668,
-      "word": "刘宇又不是去参加高考",
-      "onboard_time": 1686048989,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 211654,
@@ -9795,14 +9819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181360,
-      "num": 181360,
-      "word": "广东明确停课不停考",
-      "onboard_time": 1686049469,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 181306,
       "num": 181306,
       "word": "时代少年团或将拍剧",
@@ -10225,6 +10241,14 @@
       "onboard_time": 1685544453,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169455,
+      "num": 169455,
+      "word": "谁叫了朱一龙老公",
+      "onboard_time": 1686050666,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 169290,
@@ -11091,14 +11115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 150114,
-      "num": 150114,
-      "word": "动物专家称争议鸭脖大概率为鼠头",
-      "onboard_time": 1686049890,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150002,
       "num": 150002,
       "word": "UP战胜FPX",
@@ -11305,14 +11321,6 @@
       "onboard_time": 1685864069,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143206,
-      "num": 143206,
-      "word": "三分野大结局",
-      "onboard_time": 1686050008,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 142981,
@@ -11563,6 +11571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 136170,
+      "num": 136170,
+      "word": "高校食堂吃出老鼠头还是鸭脖",
+      "onboard_time": 1686051148,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -11777,6 +11793,14 @@
       "onboard_time": 1686040107,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 130782,
+      "num": 130782,
+      "word": "女儿高考妈妈为爸爸量身缝制旗袍",
+      "onboard_time": 1686050309,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130499,
@@ -12665,6 +12689,14 @@
       "onboard_time": 1685687727,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106854,
+      "num": 106854,
+      "word": "高考临近 全国都在紧张",
+      "onboard_time": 1686050129,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 106847,
@@ -13971,6 +14003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34937,
+      "num": 499444,
+      "word": "杀手包",
+      "onboard_time": 1686049230,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34587,
       "num": 49075,
       "word": "来活了兄弟豆瓣评分8.1分",
@@ -14009,14 +14049,6 @@
       "onboard_time": 1685537908,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31134,
-      "num": 499444,
-      "word": "杀手包",
-      "onboard_time": 1686049230,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 30928,
