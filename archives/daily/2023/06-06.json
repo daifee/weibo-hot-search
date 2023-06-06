@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686026038803,
+  "endTime": 1686028586179,
   "band_list": [
     {
       "raw_hot": 3044586,
@@ -17,6 +17,14 @@
       "onboard_time": 1685979988,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2131575,
+      "num": 2131575,
+      "word": "26岁网红直播喝酒后去世",
+      "onboard_time": 1686025592,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2069629,
@@ -104,6 +112,14 @@
       "word": "夫妻离婚均不愿养娃法院判不许离",
       "onboard_time": 1686006260,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126624,
+      "num": 1126624,
+      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+      "onboard_time": 1686026611,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1685981366,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776880,
+      "num": 776880,
+      "word": "陈采尼回应抄袭争议",
+      "onboard_time": 1686024392,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 759840,
@@ -323,20 +347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462961,
-      "num": 462961,
-      "word": "陈采尼回应抄袭争议",
-      "onboard_time": 1686024392,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 456259,
       "num": 472375,
       "word": "沈月说得到了失去的八分钟",
       "onboard_time": 1686019049,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436853,
+      "num": 436853,
+      "word": "中国电商让韩国海关爆仓",
+      "onboard_time": 1686025113,
+      "rank": 47,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 427246,
@@ -392,14 +416,6 @@
       "word": "高考700分和存款700万你选哪个",
       "onboard_time": 1685969006,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381493,
-      "num": 381493,
-      "word": "26岁网红直播喝酒后去世",
-      "onboard_time": 1686025592,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315438,
+      "num": 315438,
+      "word": "中等收入群体已超4亿人",
+      "onboard_time": 1686026373,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -513,14 +537,6 @@
       "onboard_time": 1685980348,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295100,
-      "num": 295100,
-      "word": "中国电商让韩国海关爆仓",
-      "onboard_time": 1686025113,
-      "rank": 47,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 293786,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244133,
+      "num": 244133,
+      "word": "热烈给王一博的标签是内娱顶级舞担",
+      "onboard_time": 1686026973,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243395,
       "num": 243395,
       "word": "李荣浩高考保留节目",
@@ -705,6 +729,14 @@
       "onboard_time": 1685985079,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 233066,
+      "num": 233066,
+      "word": "全员加速中加速队员立flag",
+      "onboard_time": 1686027871,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 231830,
@@ -793,6 +825,14 @@
       "onboard_time": 1686021929,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216670,
+      "num": 216670,
+      "word": "肖战梦中的那片海定档东方卫视",
+      "onboard_time": 1686026734,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 216532,
@@ -979,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184748,
+      "num": 184748,
+      "word": "MTG正式完成郑州冠名",
+      "onboard_time": 1686027391,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
@@ -1003,12 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179475,
+      "num": 179475,
+      "word": "高考是人生一次选择但不是唯一",
+      "onboard_time": 1686028350,
+      "rank": 42,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 176959,
       "num": 176959,
       "word": "库克 这一切你前所未见",
       "onboard_time": 1686024992,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 175765,
+      "num": 175765,
+      "word": "aespa出道妆造vs现在妆造",
+      "onboard_time": 1686026491,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174201,
@@ -1043,6 +1107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164262,
+      "num": 164262,
+      "word": "韩国海关回应因中国包裹激增爆仓",
+      "onboard_time": 1686028230,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163388,
       "num": 163388,
       "word": "肖春生什么时候分手",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1685990834,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 156590,
+      "num": 156590,
+      "word": "YG的G是GD的G",
+      "onboard_time": 1686028469,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 155765,
@@ -1332,7 +1412,7 @@
     },
     {
       "raw_hot": 92185,
-      "num": 1382052,
+      "num": 1736232,
       "word": "芒种至农事忙",
       "onboard_time": 1686021689,
       "rank": 2,
