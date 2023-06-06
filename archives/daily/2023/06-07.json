@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686080016632,
+  "endTime": 1686082645665,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -467,20 +467,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40890,
+      "num": 26099,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37287,
       "num": 37287,
       "word": "祝考生们大胜归来",
       "onboard_time": 1686040107,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 32616,
-      "num": 26099,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 28906,
@@ -496,6 +496,22 @@
       "word": "首艘国产大型邮轮爱达魔都号出坞",
       "onboard_time": 1686053788,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16401,
+      "num": 16401,
+      "word": "光与夜之恋周年庆",
+      "onboard_time": 1686077774,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 14199,
+      "num": 16051,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
       "category": "社会新闻"
     }
   ],

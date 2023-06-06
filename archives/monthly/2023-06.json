@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686080016632,
+  "endTime": 1686082645665,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -14467,6 +14467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 40890,
+      "num": 26099,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40019,
       "num": 186387,
       "word": "王耀庆直播上海话版UncleWang",
@@ -14561,14 +14569,6 @@
       "onboard_time": 1685595629,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32616,
-      "num": 26099,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 31905,
@@ -14737,6 +14737,22 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16401,
+      "num": 16401,
+      "word": "光与夜之恋周年庆",
+      "onboard_time": 1686077774,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 14199,
+      "num": 16051,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13722,
