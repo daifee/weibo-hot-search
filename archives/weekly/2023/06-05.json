@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686025182500,
+  "endTime": 1686026038803,
   "band_list": [
     {
       "raw_hot": 3044586,
@@ -97,6 +97,14 @@
       "onboard_time": 1685935831,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1911504,
+      "num": 1911504,
+      "word": "万达员工午餐时间玩手机被通报",
+      "onboard_time": 1686022228,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1820130,
@@ -283,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1293525,
-      "num": 1293525,
-      "word": "万达员工午餐时间玩手机被通报",
-      "onboard_time": 1686022228,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1277714,
       "num": 1277714,
       "word": "shanji",
       "onboard_time": 1685929407,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1277064,
+      "num": 1277064,
+      "word": "向佐郭碧婷牵手逛街",
+      "onboard_time": 1686016887,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1264547,
@@ -345,14 +353,6 @@
       "onboard_time": 1685921783,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1114189,
-      "num": 1114189,
-      "word": "向佐郭碧婷牵手逛街",
-      "onboard_time": 1686016887,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1109152,
@@ -859,6 +859,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 534482,
+      "num": 534482,
+      "word": "肖战虞书欣白鹿今日微博开屏",
+      "onboard_time": 1686022409,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521409,
       "num": 521409,
       "word": "90后的三十岁",
@@ -883,12 +891,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 502716,
-      "num": 502716,
-      "word": "肖战虞书欣白鹿今日微博开屏",
-      "onboard_time": 1686022409,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 505911,
+      "num": 378283,
+      "word": "肖战将贡献颠覆以往形象的郭靖",
+      "onboard_time": 1686024451,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 502244,
+      "num": 502244,
+      "word": "北京动物园",
+      "onboard_time": 1686022468,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498870,
@@ -947,20 +963,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 470231,
-      "num": 470231,
-      "word": "北京动物园",
-      "onboard_time": 1686022468,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468233,
       "num": 468233,
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462961,
+      "num": 462961,
+      "word": "陈采尼回应抄袭争议",
+      "onboard_time": 1686024392,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 456259,
@@ -1163,6 +1179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381493,
+      "num": 381493,
+      "word": "26岁网红直播喝酒后去世",
+      "onboard_time": 1686025592,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381363,
+      "num": 381363,
+      "word": "北京租房提取公积金上限调整为2000元",
+      "onboard_time": 1686024210,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 378739,
       "num": 378739,
       "word": "李泰容solo曲SHALALA",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1685942608,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366340,
+      "num": 366340,
+      "word": "男老师被骗没毕业鲜花转头暖哭",
+      "onboard_time": 1686022109,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362989,
@@ -1307,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339718,
-      "num": 295975,
-      "word": "肖战将贡献颠覆以往形象的郭靖",
-      "onboard_time": 1686024451,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338936,
       "num": 338936,
       "word": "迪丽热巴说安旎得继续努力啊",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1685980227,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324267,
-      "num": 324267,
-      "word": "陈采尼回应抄袭争议",
-      "onboard_time": 1686024392,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 315194,
@@ -1475,12 +1499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 295006,
-      "num": 295006,
-      "word": "男老师被骗没毕业鲜花转头暖哭",
-      "onboard_time": 1686022109,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 295100,
+      "num": 295100,
+      "word": "中国电商让韩国海关爆仓",
+      "onboard_time": 1686025113,
+      "rank": 47,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 293786,
@@ -1579,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280636,
+      "num": 280636,
+      "word": "胡先煦周也吻戏",
+      "onboard_time": 1686025410,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280229,
       "num": 232957,
       "word": "芒种",
@@ -1619,20 +1651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277064,
-      "num": 277064,
-      "word": "北京租房提取公积金上限调整为2000元",
-      "onboard_time": 1686024210,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 273306,
       "num": 273306,
       "word": "30岁也不过是12岁的大人",
       "onboard_time": 1685968585,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272263,
+      "num": 272263,
+      "word": "鸭脖",
+      "onboard_time": 1686025232,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272056,
@@ -2027,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224856,
+      "num": 224856,
+      "word": "员工午休时间可以自由支配吗",
+      "onboard_time": 1686025349,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -2099,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218838,
+      "num": 218838,
+      "word": "你怎么做到既不努力又不放弃的",
+      "onboard_time": 1686025773,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 218691,
       "num": 218691,
       "word": "偏头痛",
@@ -2128,6 +2176,14 @@
       "word": "魏晨广州",
       "onboard_time": 1685944708,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216532,
+      "num": 216532,
+      "word": "时代少年团跑步姿势",
+      "onboard_time": 1686025773,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -2331,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195864,
+      "num": 195864,
+      "word": "超走心的高考过来人分享",
+      "onboard_time": 1686025714,
+      "rank": 48,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 195419,
       "num": 195419,
       "word": "肖战短发vs长发",
@@ -2395,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191705,
+      "num": 368545,
+      "word": "福岛海鱼体内放射性物质超标180倍",
+      "onboard_time": 1686024811,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191692,
       "num": 191692,
       "word": "高考前不要吃没吃过的东西",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1685977951,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190147,
+      "num": 190147,
+      "word": "高考表情包",
+      "onboard_time": 1686026013,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 190050,
@@ -2553,14 +2633,6 @@
       "onboard_time": 1685952869,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181534,
-      "num": 181534,
-      "word": "中国电商让韩国海关爆仓",
-      "onboard_time": 1686025113,
-      "rank": 47,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 181238,
@@ -2987,14 +3059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147749,
-      "num": 295015,
-      "word": "福岛海鱼体内放射性物质超标180倍",
-      "onboard_time": 1686024811,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "梦中的那片海塑造的女性",
@@ -3020,7 +3084,7 @@
     },
     {
       "raw_hot": 145192,
-      "num": 299071,
+      "num": 381408,
       "word": "为高考拼过的日夜",
       "onboard_time": 1686023130,
       "rank": 24,
@@ -3531,6 +3595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 92185,
+      "num": 1382052,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90943,
       "num": 341566,
       "word": "天舟五号与空间站再次交会对接",
@@ -3577,14 +3649,6 @@
       "onboard_time": 1685999232,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86439,
-      "num": 1184484,
-      "word": "芒种至农事忙",
-      "onboard_time": 1686021689,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86398,

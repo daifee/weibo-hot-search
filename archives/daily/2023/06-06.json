@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686025182500,
+  "endTime": 1686026038803,
   "band_list": [
     {
       "raw_hot": 3044586,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911504,
+      "num": 1911504,
+      "word": "万达员工午餐时间玩手机被通报",
+      "onboard_time": 1686022228,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1638983,
       "num": 1638983,
       "word": "Apple Vision Pro 苹果首款头显",
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1293525,
-      "num": 1293525,
-      "word": "万达员工午餐时间玩手机被通报",
-      "onboard_time": 1686022228,
-      "rank": 40,
-      "category": "社会新闻,财经"
+      "raw_hot": 1277064,
+      "num": 1277064,
+      "word": "向佐郭碧婷牵手逛街",
+      "onboard_time": 1686016887,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1264547,
@@ -97,14 +105,6 @@
       "onboard_time": 1686006260,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1114189,
-      "num": 1114189,
-      "word": "向佐郭碧婷牵手逛街",
-      "onboard_time": 1686016887,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1014291,
@@ -283,6 +283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 534482,
+      "num": 534482,
+      "word": "肖战虞书欣白鹿今日微博开屏",
+      "onboard_time": 1686022409,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510288,
       "num": 363467,
       "word": "鸭圣婆 杰克辣条",
@@ -291,12 +299,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 502716,
-      "num": 502716,
-      "word": "肖战虞书欣白鹿今日微博开屏",
-      "onboard_time": 1686022409,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 505911,
+      "num": 378283,
+      "word": "肖战将贡献颠覆以往形象的郭靖",
+      "onboard_time": 1686024451,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 502244,
+      "num": 502244,
+      "word": "北京动物园",
+      "onboard_time": 1686022468,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495227,
@@ -307,12 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 470231,
-      "num": 470231,
-      "word": "北京动物园",
-      "onboard_time": 1686022468,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 462961,
+      "num": 462961,
+      "word": "陈采尼回应抄袭争议",
+      "onboard_time": 1686024392,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 456259,
@@ -379,12 +395,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381493,
+      "num": 381493,
+      "word": "26岁网红直播喝酒后去世",
+      "onboard_time": 1686025592,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381363,
+      "num": 381363,
+      "word": "北京租房提取公积金上限调整为2000元",
+      "onboard_time": 1686024210,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 370179,
       "num": 370179,
       "word": "娜扎七年前生图",
       "onboard_time": 1685964207,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366340,
+      "num": 366340,
+      "word": "男老师被骗没毕业鲜花转头暖哭",
+      "onboard_time": 1686022109,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350747,
@@ -409,14 +449,6 @@
       "onboard_time": 1686012691,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 339718,
-      "num": 295975,
-      "word": "肖战将贡献颠覆以往形象的郭靖",
-      "onboard_time": 1686024451,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 335236,
@@ -459,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324267,
-      "num": 324267,
-      "word": "陈采尼回应抄袭争议",
-      "onboard_time": 1686024392,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -491,12 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295006,
-      "num": 295006,
-      "word": "男老师被骗没毕业鲜花转头暖哭",
-      "onboard_time": 1686022109,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 295100,
+      "num": 295100,
+      "word": "中国电商让韩国海关爆仓",
+      "onboard_time": 1686025113,
+      "rank": 47,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 293786,
@@ -555,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280636,
+      "num": 280636,
+      "word": "胡先煦周也吻戏",
+      "onboard_time": 1686025410,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280229,
       "num": 232957,
       "word": "芒种",
@@ -571,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277064,
-      "num": 277064,
-      "word": "北京租房提取公积金上限调整为2000元",
-      "onboard_time": 1686024210,
-      "rank": 32,
-      "category": "财经,社会新闻"
+      "raw_hot": 272263,
+      "num": 272263,
+      "word": "鸭脖",
+      "onboard_time": 1686025232,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268889,
@@ -723,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224856,
+      "num": 224856,
+      "word": "员工午休时间可以自由支配吗",
+      "onboard_time": 1686025349,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -739,12 +779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218838,
+      "num": 218838,
+      "word": "你怎么做到既不努力又不放弃的",
+      "onboard_time": 1686025773,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 218510,
       "num": 218510,
       "word": "YG和SMTOWN好像都一个样",
       "onboard_time": 1686021929,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216532,
+      "num": 216532,
+      "word": "时代少年团跑步姿势",
+      "onboard_time": 1686025773,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 216143,
@@ -819,6 +875,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 195864,
+      "num": 195864,
+      "word": "超走心的高考过来人分享",
+      "onboard_time": 1686025714,
+      "rank": 48,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 195419,
       "num": 195419,
       "word": "肖战短发vs长发",
@@ -843,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191705,
+      "num": 368545,
+      "word": "福岛海鱼体内放射性物质超标180倍",
+      "onboard_time": 1686024811,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191252,
       "num": 191252,
       "word": "A股",
@@ -857,6 +929,14 @@
       "onboard_time": 1686016588,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190147,
+      "num": 190147,
+      "word": "高考表情包",
+      "onboard_time": 1686026013,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 189422,
@@ -905,14 +985,6 @@
       "onboard_time": 1685978129,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181534,
-      "num": 181534,
-      "word": "中国电商让韩国海关爆仓",
-      "onboard_time": 1686025113,
-      "rank": 47,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 181146,
@@ -1067,16 +1139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147749,
-      "num": 295015,
-      "word": "福岛海鱼体内放射性物质超标180倍",
-      "onboard_time": 1686024811,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145192,
-      "num": 299071,
+      "num": 381408,
       "word": "为高考拼过的日夜",
       "onboard_time": 1686023130,
       "rank": 24,
@@ -1267,6 +1331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 92185,
+      "num": 1382052,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90943,
       "num": 341566,
       "word": "天舟五号与空间站再次交会对接",
@@ -1281,14 +1353,6 @@
       "onboard_time": 1685999232,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86439,
-      "num": 1184484,
-      "word": "芒种至农事忙",
-      "onboard_time": 1686021689,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83269,
