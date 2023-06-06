@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686089781353,
+  "endTime": 1686090833752,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231852,
+      "num": 231852,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230850,
       "num": 230850,
       "word": "吴磊虞书欣 骄阳似我",
@@ -201,14 +209,6 @@
       "onboard_time": 1686049469,
       "rank": 19,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 179005,
-      "num": 179005,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178100,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138703,
+      "num": 138703,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136911,
       "num": 136911,
       "word": "三分野",
@@ -337,14 +345,6 @@
       "onboard_time": 1686038787,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130823,
-      "num": 130823,
-      "word": "大熊猫萌兰吃窝头突然定了十几秒",
-      "onboard_time": 1686067647,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129810,
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72572,
-      "num": 72572,
+      "raw_hot": 84619,
+      "num": 84619,
       "word": "男子承包三餐只为督促妻子多吃点",
       "onboard_time": 1686069623,
       "rank": 41,
@@ -468,15 +468,31 @@
     },
     {
       "raw_hot": 46046,
-      "num": 46046,
+      "num": 48399,
       "word": "鼠头受害股",
       "onboard_time": 1686076933,
       "rank": 17,
       "category": "财经"
     },
     {
+      "raw_hot": 44954,
+      "num": 48519,
+      "word": "加油高考",
+      "onboard_time": 1686089895,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 43365,
+      "num": 48482,
+      "word": "朱一龙说何非可怜可悲可恨",
+      "onboard_time": 1686086532,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43216,
-      "num": 34033,
+      "num": 48471,
       "word": "男明星的牙",
       "onboard_time": 1686078432,
       "rank": 47,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 39253,
-      "num": 39253,
+      "num": 48429,
       "word": "张韶涵堵住鼻子化妆",
       "onboard_time": 1686084012,
       "rank": 35,
@@ -492,18 +508,26 @@
     },
     {
       "raw_hot": 37287,
-      "num": 37287,
+      "num": 48371,
       "word": "祝考生们大胜归来",
       "onboard_time": 1686040107,
       "rank": 42,
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 32983,
-      "num": 34047,
-      "word": "朱一龙说何非可怜可悲可恨",
-      "onboard_time": 1686086532,
-      "rank": 41,
+      "raw_hot": 36058,
+      "num": 48490,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30556,
+      "num": 48358,
+      "word": "梦海 诠释人性的转变",
+      "onboard_time": 1686087793,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -515,11 +539,11 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 24091,
-      "num": 33975,
-      "word": "梦海 诠释人性的转变",
-      "onboard_time": 1686087793,
-      "rank": 43,
+      "raw_hot": 28873,
+      "num": 48324,
+      "word": "朱一龙消失的她特辑",
+      "onboard_time": 1686086532,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -529,22 +553,6 @@
       "onboard_time": 1686053788,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23085,
-      "num": 35669,
-      "word": "加油高考生",
-      "onboard_time": 1685972369,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21533,
-      "num": 33966,
-      "word": "朱一龙消失的她特辑",
-      "onboard_time": 1686086532,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 18803,

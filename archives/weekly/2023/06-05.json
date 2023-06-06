@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686089781353,
+  "endTime": 1686090833752,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -2699,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231852,
+      "num": 231852,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231830,
       "num": 231830,
       "word": "全员加速中定档610",
@@ -3603,14 +3611,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 179005,
-      "num": 179005,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178145,
       "num": 178145,
       "word": "你会用手机的护眼模式吗",
@@ -4299,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138703,
+      "num": 138703,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138401,
       "num": 138401,
       "word": "雁回开大好帅",
@@ -4425,14 +4433,6 @@
       "onboard_time": 1686040107,
       "rank": 2,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 130823,
-      "num": 130823,
-      "word": "大熊猫萌兰吃窝头突然定了十几秒",
-      "onboard_time": 1686067647,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130782,
@@ -4995,6 +4995,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 84619,
+      "num": 84619,
+      "word": "男子承包三餐只为督促妻子多吃点",
+      "onboard_time": 1686069623,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84376,
       "num": 145785,
       "word": "讲台上严厉的老师也会偷偷抹泪",
@@ -5057,14 +5065,6 @@
       "onboard_time": 1686042030,
       "rank": 14,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 72572,
-      "num": 72572,
-      "word": "男子承包三餐只为督促妻子多吃点",
-      "onboard_time": 1686069623,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70924,
@@ -5204,11 +5204,19 @@
     },
     {
       "raw_hot": 46046,
-      "num": 46046,
+      "num": 48399,
       "word": "鼠头受害股",
       "onboard_time": 1686076933,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44954,
+      "num": 48519,
+      "word": "加油高考",
+      "onboard_time": 1686089895,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 44276,
@@ -5219,8 +5227,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43365,
+      "num": 48482,
+      "word": "朱一龙说何非可怜可悲可恨",
+      "onboard_time": 1686086532,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43216,
-      "num": 34033,
+      "num": 48471,
       "word": "男明星的牙",
       "onboard_time": 1686078432,
       "rank": 47,
@@ -5260,7 +5276,7 @@
     },
     {
       "raw_hot": 39253,
-      "num": 39253,
+      "num": 48429,
       "word": "张韶涵堵住鼻子化妆",
       "onboard_time": 1686084012,
       "rank": 35,
@@ -5307,11 +5323,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 32983,
-      "num": 34047,
-      "word": "朱一龙说何非可怜可悲可恨",
-      "onboard_time": 1686086532,
-      "rank": 41,
+      "raw_hot": 30556,
+      "num": 48358,
+      "word": "梦海 诠释人性的转变",
+      "onboard_time": 1686087793,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -5323,20 +5339,20 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 28873,
+      "num": 48324,
+      "word": "朱一龙消失的她特辑",
+      "onboard_time": 1686086532,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24151,
       "num": 27740,
       "word": "聚焦全国高考",
       "onboard_time": 1685914272,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24091,
-      "num": 33975,
-      "word": "梦海 诠释人性的转变",
-      "onboard_time": 1686087793,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 23369,
@@ -5361,14 +5377,6 @@
       "onboard_time": 1685977292,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21533,
-      "num": 33966,
-      "word": "朱一龙消失的她特辑",
-      "onboard_time": 1686086532,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 18803,
