@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686039647314,
+  "endTime": 1686040407584,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1346601,
+      "num": 1125848,
+      "word": "车银优肿么了",
+      "onboard_time": 1686038129,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1277064,
       "num": 1277064,
       "word": "向佐郭碧婷牵手逛街",
@@ -137,14 +145,6 @@
       "onboard_time": 1686006260,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1125848,
-      "num": 1125848,
-      "word": "车银优肿么了",
-      "onboard_time": 1686038129,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1080209,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 905008,
-      "num": 436166,
+      "num": 461615,
       "word": "胡锡进发博评鼠头鸭脖事件",
       "onboard_time": 1686034589,
       "rank": 23,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480699,
+      "num": 480699,
+      "word": "为什么吸管要设计成一炷香",
+      "onboard_time": 1686037587,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -481,6 +489,14 @@
       "onboard_time": 1686015988,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412655,
+      "num": 412655,
+      "word": "绝味鸭脖股价下跌",
+      "onboard_time": 1686038787,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 409281,
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362516,
+      "num": 362516,
+      "word": "四大顶级舞担",
+      "onboard_time": 1686039627,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "四会住建局回应业主购42套房全打通",
@@ -585,6 +609,14 @@
       "onboard_time": 1686012691,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 335715,
+      "num": 335715,
+      "word": "河童",
+      "onboard_time": 1686034947,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 335236,
@@ -635,14 +667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 309629,
-      "num": 291485,
-      "word": "河童",
-      "onboard_time": 1686034947,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 304746,
       "num": 304746,
       "word": "恭喜你被邓布利多选中",
@@ -681,14 +705,6 @@
       "onboard_time": 1686021929,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 292924,
-      "num": 292924,
-      "word": "为什么吸管要设计成一炷香",
-      "onboard_time": 1686037587,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 292247,
@@ -763,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273024,
+      "num": 273024,
+      "word": "原来17年已经是很久以前的事了",
+      "onboard_time": 1686036569,
+      "rank": 48,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 272263,
       "num": 272263,
       "word": "鸭脖",
@@ -785,14 +809,6 @@
       "onboard_time": 1686013828,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 262486,
-      "num": 262486,
-      "word": "原来17年已经是很久以前的事了",
-      "onboard_time": 1686036569,
-      "rank": 48,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 261797,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257217,
+      "num": 257217,
+      "word": "张杰为高考学子点歌",
+      "onboard_time": 1686039327,
+      "rank": 30,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 254179,
       "num": 254179,
       "word": "造谣女孩穿婚纱看演唱会的网友道歉",
@@ -841,14 +865,6 @@
       "onboard_time": 1686011494,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247521,
-      "num": 247521,
-      "word": "绝味鸭脖股价下跌",
-      "onboard_time": 1686038787,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 244133,
@@ -929,6 +945,14 @@
       "onboard_time": 1686009206,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 230726,
+      "num": 230726,
+      "word": "中餐厅7嘉宾",
+      "onboard_time": 1686039989,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 230171,
@@ -1099,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204718,
-      "num": 204718,
-      "word": "张杰为高考学子点歌",
-      "onboard_time": 1686039327,
-      "rank": 30,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "曹斐然和杨洋是校友",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1686035066,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199880,
+      "num": 219695,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 195864,
@@ -1491,12 +1515,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148571,
+      "num": 148571,
+      "word": "蔡徐坤 回归跑男",
+      "onboard_time": 1686040288,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145192,
       "num": 381408,
       "word": "为高考拼过的日夜",
       "onboard_time": 1686023130,
       "rank": 24,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 144150,
+      "num": 144150,
+      "word": "观鹤笔记作者手滑点赞李一桐陈都灵相关",
+      "onboard_time": 1686039151,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143863,
+      "num": 143863,
+      "word": "女孩和女孩更有约会的感觉",
+      "onboard_time": 1686037168,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 142611,
@@ -1520,14 +1568,6 @@
       "word": "这句话等了二十来年了",
       "onboard_time": 1686029009,
       "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 137370,
-      "num": 137370,
-      "word": "女孩和女孩更有约会的感觉",
-      "onboard_time": 1686037168,
-      "rank": 43,
       "category": "情感,幽默"
     },
     {
@@ -1571,14 +1611,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 131688,
-      "num": 131688,
-      "word": "观鹤笔记作者手滑点赞李一桐陈都灵相关",
-      "onboard_time": 1686039151,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 131685,
       "num": 129627,
       "word": "花戎",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1685974230,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130537,
-      "num": 130537,
-      "word": "四大顶级舞担",
-      "onboard_time": 1686039627,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129222,
@@ -1731,14 +1755,6 @@
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 99285,
-      "num": 206264,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99273,
       "num": 99273,
       "word": "虞书欣方公布维权案进度",
@@ -1835,6 +1851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 47542,
+      "num": 894120,
+      "word": "祝考生们大胜归来",
+      "onboard_time": 1686040107,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 38881,
       "num": 410648,
       "word": "YouAintRight高能四分钟",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1685994792,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12732,
+      "num": 414591,
+      "word": "公交师傅等红灯间隙救了个人",
+      "onboard_time": 1686040169,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
