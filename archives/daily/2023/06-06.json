@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686062026533,
+  "endTime": 1686064648066,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -155,6 +155,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1495553,
+      "num": 1007655,
+      "word": "林徽因名字 文化版的招娣",
+      "onboard_time": 1686052350,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1474876,
       "num": 1474876,
       "word": "苹果发布会",
@@ -299,14 +307,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1007655,
-      "num": 1007655,
-      "word": "林徽因名字 文化版的招娣",
-      "onboard_time": 1686052350,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1007209,
       "num": 1007209,
       "word": "谢娜四公 没拉票",
@@ -377,6 +377,14 @@
       "onboard_time": 1685972670,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 937929,
+      "num": 937929,
+      "word": "娜扎的高考成绩596分",
+      "onboard_time": 1686063992,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 925453,
@@ -835,6 +843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 343478,
+      "num": 343478,
+      "word": "孙笑川",
+      "onboard_time": 1686058652,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 335715,
       "num": 335715,
       "word": "河童",
@@ -891,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324639,
+      "num": 324639,
+      "word": "最令你惊艳的明星真人",
+      "onboard_time": 1686060452,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323062,
       "num": 323062,
       "word": "王菲那英好甜",
@@ -913,6 +937,22 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313465,
+      "num": 247543,
+      "word": "戴上Vision Pro的我",
+      "onboard_time": 1686063873,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 312774,
+      "num": 312774,
+      "word": "千万不要和多嘴的同事合租",
+      "onboard_time": 1686060273,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 306483,
@@ -955,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300021,
-      "num": 300021,
-      "word": "孙笑川",
-      "onboard_time": 1686058652,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 298359,
       "num": 298359,
       "word": "梦中的那片海",
@@ -1003,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 293130,
-      "num": 293130,
-      "word": "千万不要和多嘴的同事合租",
-      "onboard_time": 1686060273,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 292247,
       "num": 292247,
       "word": "用两分钟把这个视频看到最后",
@@ -1040,6 +1064,14 @@
       "word": "三分野大结局",
       "onboard_time": 1686050008,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 290499,
+      "num": 290499,
+      "word": "贺红玲不承认肖春生",
+      "onboard_time": 1686062253,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1235,6 +1267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250157,
+      "num": 250157,
+      "word": "金榜题名",
+      "onboard_time": 1686063330,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 248359,
+      "num": 248359,
+      "word": "小S把酒杯捏碎了",
+      "onboard_time": 1686061955,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248098,
       "num": 248098,
       "word": "请在以下图片中找到鸭脖",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1686027871,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232875,
-      "num": 232875,
-      "word": "最令你惊艳的明星真人",
-      "onboard_time": 1686060452,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231830,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1686032968,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221314,
+      "num": 221314,
+      "word": "陈少熙发言好哭",
+      "onboard_time": 1686063091,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 221296,
@@ -1731,6 +1779,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 189526,
+      "num": 189526,
+      "word": "红山动物园 工作猪",
+      "onboard_time": 1686062370,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189422,
       "num": 201493,
       "word": "30岁也不过是12岁的大人",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1686045090,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172083,
+      "num": 163048,
+      "word": "朱一龙翻脸比我翻书还快",
+      "onboard_time": 1686063752,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 172032,
@@ -2097,14 +2161,6 @@
       "onboard_time": 1686047130,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145075,
-      "num": 145075,
-      "word": "小S把酒杯捏碎了",
-      "onboard_time": 1686061955,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 144486,
@@ -2371,6 +2427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 115410,
+      "num": 115410,
+      "word": "103岁高祖母抱着103天玄孙好温馨",
+      "onboard_time": 1686064411,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114926,
       "num": 114926,
       "word": "孩子犯错家长该怎么引导",
@@ -2601,6 +2665,14 @@
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 35260,
+      "num": 371054,
+      "word": "离巢小鸟麦田边被妈妈追着投喂",
+      "onboard_time": 1686063691,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34937,
