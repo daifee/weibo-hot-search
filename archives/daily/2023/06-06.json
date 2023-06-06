@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686028586179,
+  "endTime": 1686029632018,
   "band_list": [
     {
       "raw_hot": 3044586,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2453965,
+      "num": 2453965,
+      "word": "26岁网红直播喝酒后去世",
+      "onboard_time": 1686025592,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2322353,
       "num": 2322353,
       "word": "吴倩 退赛",
       "onboard_time": 1685979988,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2131575,
-      "num": 2131575,
-      "word": "26岁网红直播喝酒后去世",
-      "onboard_time": 1686025592,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2069629,
@@ -57,6 +57,14 @@
       "onboard_time": 1685989754,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1636864,
+      "num": 1636864,
+      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+      "onboard_time": 1686026611,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1622812,
@@ -112,14 +120,6 @@
       "word": "夫妻离婚均不愿养娃法院判不许离",
       "onboard_time": 1686006260,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1126624,
-      "num": 1126624,
-      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
-      "onboard_time": 1686026611,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641544,
+      "num": 641544,
+      "word": "中国电商让韩国海关爆仓",
+      "onboard_time": 1686025113,
+      "rank": 47,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 588438,
       "num": 464389,
       "word": "绝大男人婚前婚后的生活都不会有太大变化",
@@ -355,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436853,
-      "num": 436853,
-      "word": "中国电商让韩国海关爆仓",
-      "onboard_time": 1686025113,
-      "rank": 47,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 427246,
       "num": 427246,
       "word": "Jennie新剧",
       "onboard_time": 1685973571,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424206,
+      "num": 424206,
+      "word": "中等收入群体已超4亿人",
+      "onboard_time": 1686026373,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 422321,
@@ -507,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315438,
-      "num": 315438,
-      "word": "中等收入群体已超4亿人",
-      "onboard_time": 1686026373,
-      "rank": 18,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -641,6 +641,14 @@
       "onboard_time": 1686013828,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 264187,
+      "num": 264187,
+      "word": "刘亦菲开工",
+      "onboard_time": 1686028649,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 261797,
@@ -809,6 +817,14 @@
       "onboard_time": 1686012449,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221296,
+      "num": 221296,
+      "word": "YG的G是GD的G",
+      "onboard_time": 1686028469,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 218838,
@@ -1131,20 +1147,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 160116,
+      "num": 160116,
+      "word": "全员加速中11点06官宣的原因",
+      "onboard_time": 1686029428,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159043,
       "num": 159043,
       "word": "Vision Pro 眼睛手势操作",
       "onboard_time": 1685990834,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 156590,
-      "num": 156590,
-      "word": "YG的G是GD的G",
-      "onboard_time": 1686028469,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 155765,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1686023130,
       "rank": 24,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 140110,
+      "num": 140110,
+      "word": "这句话等了二十来年了",
+      "onboard_time": 1686029009,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 136672,

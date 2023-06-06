@@ -1,0 +1,410 @@
+{
+  "runTime": 1686029632018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2453965,
+        "num": 2453965,
+        "word": "26岁网红直播喝酒后去世",
+        "onboard_time": 1686025592,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1636864,
+        "num": 1636864,
+        "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+        "onboard_time": 1686026611,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55763,
+        "num": 1629430,
+        "word": "芒种至农事忙",
+        "onboard_time": 1686021689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1628305,
+        "num": 1628305,
+        "word": "万达员工午餐时间玩手机被通报",
+        "onboard_time": 1686022228,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1150098,
+        "num": 1150098,
+        "word": "丫丫",
+        "onboard_time": 1686021208,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728754,
+        "num": 728754,
+        "word": "陈采尼回应抄袭争议",
+        "onboard_time": 1686024392,
+        "rank": 5,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 663615,
+        "num": 663615,
+        "word": "谢娜四公 没拉票",
+        "onboard_time": 1686021388,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641544,
+        "num": 641544,
+        "word": "中国电商让韩国海关爆仓",
+        "onboard_time": 1686025113,
+        "rank": 7,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 576024,
+        "num": 576024,
+        "word": "秋瓷炫四公 淘汰",
+        "onboard_time": 1686021448,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512560,
+        "num": 512560,
+        "word": "黄奕发博支持49岁高考妈妈",
+        "onboard_time": 1686017846,
+        "rank": 9,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 585937,
+        "num": 484524,
+        "word": "PDD直播弹幕",
+        "onboard_time": 1686012992,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 444745,
+        "num": 444745,
+        "word": "向佐郭碧婷牵手逛街",
+        "onboard_time": 1686016887,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424206,
+        "num": 424206,
+        "word": "中等收入群体已超4亿人",
+        "onboard_time": 1686026373,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 384183,
+        "num": 384183,
+        "word": "长牙的鸭脖令人如鲠在喉",
+        "onboard_time": 1686007704,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353627,
+        "num": 353627,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 347558,
+        "num": 347558,
+        "word": "高考倒计时",
+        "onboard_time": 1686014909,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337619,
+        "num": 337619,
+        "word": "全员加速中3要来了",
+        "onboard_time": 1686021689,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283268,
+        "num": 283268,
+        "word": "肖战虞书欣白鹿今日微博开屏",
+        "onboard_time": 1686022409,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273856,
+        "num": 273856,
+        "word": "在欧洲千万不要轻易蹲地上",
+        "onboard_time": 1686010771,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264187,
+        "num": 264187,
+        "word": "刘亦菲开工",
+        "onboard_time": 1686028649,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1297485,
+        "num": 261258,
+        "word": "专家称要警惕终身不婚不育情况",
+        "onboard_time": 1686017487,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423755,
+        "num": 259825,
+        "word": "不用再说HeySiri了",
+        "onboard_time": 1686009748,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 372033,
+        "num": 256770,
+        "word": "3499美元的苹果头显值得买吗",
+        "onboard_time": 1686008003,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311919,
+        "num": 252938,
+        "word": "肖战将贡献颠覆以往形象的郭靖",
+        "onboard_time": 1686024451,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264246,
+        "num": 247252,
+        "word": "没想到经常挖鼻孔会影响颜值",
+        "onboard_time": 1686012511,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246736,
+        "num": 246736,
+        "word": "北京动物园",
+        "onboard_time": 1686022468,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232022,
+        "num": 232022,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231658,
+        "num": 231658,
+        "word": "无美颜镜头下的杨紫",
+        "onboard_time": 1686022048,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231324,
+        "num": 231324,
+        "word": "男老师被骗没毕业鲜花转头暖哭",
+        "onboard_time": 1686022109,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130267,
+        "num": 228766,
+        "word": "福岛海鱼体内放射性物质超标180倍",
+        "onboard_time": 1686024811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228570,
+        "num": 228570,
+        "word": "Apple Vision Pro 苹果首款头显",
+        "onboard_time": 1685989754,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225692,
+        "num": 225692,
+        "word": "胡先煦周也吻戏",
+        "onboard_time": 1686025410,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221628,
+        "num": 221628,
+        "word": "鸭脖",
+        "onboard_time": 1686025232,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221296,
+        "num": 221296,
+        "word": "YG的G是GD的G",
+        "onboard_time": 1686028469,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209994,
+        "num": 209994,
+        "word": "北京租房提取公积金上限调整为2000元",
+        "onboard_time": 1686024210,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 196308,
+        "num": 196308,
+        "word": "你怎么做到既不努力又不放弃的",
+        "onboard_time": 1686025773,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 190072,
+        "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
+        "onboard_time": 1686012511,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189495,
+        "num": 189495,
+        "word": "全员加速中加速队员立flag",
+        "onboard_time": 1686027871,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177672,
+        "num": 177672,
+        "word": "肖战梦中的那片海定档东方卫视",
+        "onboard_time": 1686026734,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165689,
+        "num": 165689,
+        "word": "热烈给王一博的标签是内娱顶级舞担",
+        "onboard_time": 1686026973,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160116,
+        "num": 160116,
+        "word": "全员加速中11点06官宣的原因",
+        "onboard_time": 1686029428,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159866,
+        "num": 159866,
+        "word": "吴倩镜头少原因",
+        "onboard_time": 1686009087,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153195,
+        "num": 153195,
+        "word": "李沁戏份",
+        "onboard_time": 1685982684,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "全员加速中定档610",
+        "onboard_time": 1686022530,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 147599,
+        "word": "aespa出道妆造vs现在妆造",
+        "onboard_time": 1686026491,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148692,
+        "num": 147590,
+        "word": "全员加速中",
+        "onboard_time": 1686011611,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141788,
+        "num": 141788,
+        "word": "迪丽热巴金智秀周也江疏影同品牌大片",
+        "onboard_time": 1686021929,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140110,
+        "num": 140110,
+        "word": "这句话等了二十来年了",
+        "onboard_time": 1686029009,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 135277,
+        "num": 135277,
+        "word": "夫妻离婚均不愿养娃法院判不许离",
+        "onboard_time": 1686006260,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132182,
+        "num": 132182,
+        "word": "韩国海关回应因中国包裹激增爆仓",
+        "onboard_time": 1686028230,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护环境就是守护你我的未来#"
+    }
+  }
+}
