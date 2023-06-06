@@ -1,0 +1,410 @@
+{
+  "runTime": 1686075633421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 244881,
+        "num": 244881,
+        "word": "叶国华已被移出群聊",
+        "onboard_time": 1686054748,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173901,
+        "num": 173901,
+        "word": "辅导员自费给全班买咖啡抽中电车",
+        "onboard_time": 1686065846,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16127,
+        "num": 149910,
+        "word": "首艘国产大型邮轮爱达魔都号出坞",
+        "onboard_time": 1686053788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134574,
+        "num": 134574,
+        "word": "人体最大的器官是什么",
+        "onboard_time": 1686051569,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134498,
+        "num": 134498,
+        "word": "梦回王俊凯用易烊千玺读秒",
+        "onboard_time": 1686065012,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126625,
+        "num": 126625,
+        "word": "弟弟一眼认出流浪乞讨人员是亲哥",
+        "onboard_time": 1686044367,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104845,
+        "num": 104845,
+        "word": "虞书欣工作人员的手机壳",
+        "onboard_time": 1686064954,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99291,
+        "num": 99291,
+        "word": "印度蛛",
+        "onboard_time": 1686068785,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97743,
+        "num": 97743,
+        "word": "杭州姑娘20元刮刮乐刮中百万",
+        "onboard_time": 1686046349,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83421,
+        "num": 83421,
+        "word": "00后打零工攒3千给爷爷装空调",
+        "onboard_time": 1686066748,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168236,
+        "num": 83297,
+        "word": "林徽因名字 文化版的招娣",
+        "onboard_time": 1686052350,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112107,
+        "num": 82965,
+        "word": "孙笑川",
+        "onboard_time": 1686058652,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110954,
+        "num": 82458,
+        "word": "赵琦君杨凯雯领证",
+        "onboard_time": 1686054388,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79776,
+        "num": 79776,
+        "word": "吴京换新公式照了",
+        "onboard_time": 1686069982,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75542,
+        "num": 75542,
+        "word": "光与夜之恋大头",
+        "onboard_time": 1686066927,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74187,
+        "num": 74187,
+        "word": "很难忘记周深的高考祝福",
+        "onboard_time": 1686066030,
+        "rank": 15,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 72247,
+        "num": 72247,
+        "word": "蜘蛛侠",
+        "onboard_time": 1686070281,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62931,
+        "num": 62931,
+        "word": "贷款上班",
+        "onboard_time": 1686066511,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59596,
+        "num": 59596,
+        "word": "宋轶现身医院抽血采样",
+        "onboard_time": 1686044311,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55880,
+        "num": 55880,
+        "word": "高考作文预测",
+        "onboard_time": 1686069442,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 96832,
+        "num": 55610,
+        "word": "北京发现两例猴痘病例",
+        "onboard_time": 1686057810,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86657,
+        "num": 54933,
+        "word": "猴痘",
+        "onboard_time": 1686058292,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70204,
+        "num": 53713,
+        "word": "我出生那天 四海八荒都沉默了",
+        "onboard_time": 1686046108,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58445,
+        "num": 53272,
+        "word": "一句话祝福2023高考生",
+        "onboard_time": 1686074415,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 52441,
+        "num": 52441,
+        "word": "大熊猫萌兰吃窝头突然定了十几秒",
+        "onboard_time": 1686067647,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51852,
+        "num": 51852,
+        "word": "男子承包三餐只为督促妻子多吃点",
+        "onboard_time": 1686069623,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49079,
+        "num": 49079,
+        "word": "有人问你有没有男朋友该怎么回",
+        "onboard_time": 1686053608,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 48511,
+        "num": 48511,
+        "word": "种地吧直播",
+        "onboard_time": 1686041848,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48164,
+        "num": 48164,
+        "word": "鞠婧祎白鹿相似造型",
+        "onboard_time": 1686052407,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 46529,
+        "num": 46529,
+        "word": "最令你惊艳的明星真人",
+        "onboard_time": 1686060452,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66731,
+        "num": 46378,
+        "word": "乌克兰大坝被炸",
+        "onboard_time": 1686057090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46190,
+        "num": 46190,
+        "word": "吴磊虞书欣 骄阳似我",
+        "onboard_time": 1686048269,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43850,
+        "num": 43850,
+        "word": "千万不要和多嘴的同事合租",
+        "onboard_time": 1686060273,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41992,
+        "num": 41992,
+        "word": "刘诗诗 天选淮竹",
+        "onboard_time": 1686048509,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40979,
+        "num": 40979,
+        "word": "检方介入山西男童死亡案",
+        "onboard_time": 1686064829,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40510,
+        "num": 40510,
+        "word": "三分野",
+        "onboard_time": 1686058472,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39405,
+        "num": 39405,
+        "word": "陈少熙发言好哭",
+        "onboard_time": 1686063091,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38674,
+        "num": 38674,
+        "word": "鞠婧祎郭俊辰好会亲",
+        "onboard_time": 1686069143,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38572,
+        "num": 38572,
+        "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+        "onboard_time": 1686026611,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38148,
+        "num": 38148,
+        "word": "红山动物园 工作猪",
+        "onboard_time": 1686062370,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37919,
+        "num": 37919,
+        "word": "三分野大结局",
+        "onboard_time": 1686050008,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37918,
+        "num": 37918,
+        "word": "戴上Vision Pro的我",
+        "onboard_time": 1686063873,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37287,
+        "num": 37287,
+        "word": "祝考生们大胜归来",
+        "onboard_time": 1686040107,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36253,
+        "num": 36253,
+        "word": "高考期间最忌减主食",
+        "onboard_time": 1686072616,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35391,
+        "num": 35391,
+        "word": "绝味鸭脖股价下跌",
+        "onboard_time": 1686038787,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33462,
+        "num": 33462,
+        "word": "王菲那英好甜",
+        "onboard_time": 1686053069,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32732,
+        "num": 32732,
+        "word": "广东明确停课不停考",
+        "onboard_time": 1686049469,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 32282,
+        "num": 32282,
+        "word": "种地吧感恩音乐会",
+        "onboard_time": 1686043349,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32239,
+        "num": 32239,
+        "word": "德约科维奇",
+        "onboard_time": 1686065250,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32200,
+        "num": 32200,
+        "word": "一起为2023高考生加油",
+        "onboard_time": 1686053906,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在内蒙古巴彦淖尔考察#"
+    }
+  }
+}

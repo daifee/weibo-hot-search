@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686072824151,
+  "endTime": 1686075633421,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -448,6 +448,22 @@
       "word": "高考期间最忌减主食",
       "onboard_time": 1686072616,
       "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 58445,
+      "num": 53272,
+      "word": "一句话祝福2023高考生",
+      "onboard_time": 1686074415,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 37287,
+      "num": 37287,
+      "word": "祝考生们大胜归来",
+      "onboard_time": 1686040107,
+      "rank": 42,
       "category": "社会新闻,教育"
     },
     {
