@@ -1,0 +1,410 @@
+{
+  "runTime": 1686032484828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2502072,
+        "num": 2502072,
+        "word": "26岁网红直播喝酒后去世",
+        "onboard_time": 1686025592,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2199058,
+        "num": 2199058,
+        "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+        "onboard_time": 1686026611,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46257,
+        "num": 1244366,
+        "word": "芒种至农事忙",
+        "onboard_time": 1686021689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967520,
+        "num": 967520,
+        "word": "李健丁克的原因",
+        "onboard_time": 1686030746,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906125,
+        "num": 906125,
+        "word": "万达员工午餐时间玩手机被通报",
+        "onboard_time": 1686022228,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 674607,
+        "num": 674607,
+        "word": "丫丫",
+        "onboard_time": 1686021208,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568678,
+        "num": 568678,
+        "word": "黑犬酱就老公被叫河童回应",
+        "onboard_time": 1686029908,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541369,
+        "num": 541369,
+        "word": "蔡徐坤香港",
+        "onboard_time": 1686032067,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 514702,
+        "num": 514702,
+        "word": "中国电商让韩国海关爆仓",
+        "onboard_time": 1686025113,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 505828,
+        "num": 505828,
+        "word": "刘亦菲开工",
+        "onboard_time": 1686028649,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804554,
+        "num": 491630,
+        "word": "番位 烫手",
+        "onboard_time": 1686030325,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544687,
+        "num": 481187,
+        "word": "PDD直播弹幕",
+        "onboard_time": 1686012992,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 456775,
+        "num": 456775,
+        "word": "中等收入群体已超4亿人",
+        "onboard_time": 1686026373,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 443039,
+        "num": 443039,
+        "word": "谢娜四公 没拉票",
+        "onboard_time": 1686021388,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31420,
+        "num": 410648,
+        "word": "YouAintRight高能四分钟",
+        "onboard_time": 1686031226,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406898,
+        "num": 406898,
+        "word": "秋瓷炫四公 淘汰",
+        "onboard_time": 1686021448,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393149,
+        "num": 393149,
+        "word": "黄奕发博支持49岁高考妈妈",
+        "onboard_time": 1686017846,
+        "rank": 16,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 387645,
+        "num": 387645,
+        "word": "陈采尼回应抄袭争议",
+        "onboard_time": 1686024392,
+        "rank": 17,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 299365,
+        "num": 299365,
+        "word": "高考倒计时",
+        "onboard_time": 1686014909,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270399,
+        "num": 270399,
+        "word": "长牙的鸭脖令人如鲠在喉",
+        "onboard_time": 1686007704,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105829,
+        "num": 264264,
+        "word": "专家称要警惕终身不婚不育情况",
+        "onboard_time": 1686017487,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250546,
+        "num": 250546,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248678,
+        "num": 248678,
+        "word": "全员加速中3要来了",
+        "onboard_time": 1686021689,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247754,
+        "num": 247754,
+        "word": "向佐郭碧婷牵手逛街",
+        "onboard_time": 1686016887,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210794,
+        "num": 232343,
+        "word": "3499美元的苹果头显值得买吗",
+        "onboard_time": 1686008003,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225885,
+        "num": 225885,
+        "word": "肖战将贡献颠覆以往形象的郭靖",
+        "onboard_time": 1686024451,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212658,
+        "num": 212658,
+        "word": "YG的G是GD的G",
+        "onboard_time": 1686028469,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210246,
+        "num": 210246,
+        "word": "中原黄嫂回应中原黄哥直播喝酒去世",
+        "onboard_time": 1686031528,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 206460,
+        "num": 206460,
+        "word": "肖战梦中的那片海剧评",
+        "onboard_time": 1686031646,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98531,
+        "num": 202302,
+        "word": "福岛海鱼体内放射性物质超标180倍",
+        "onboard_time": 1686024811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242211,
+        "num": 201932,
+        "word": "李艾说父亲追悼会上我和我妈都没有哭",
+        "onboard_time": 1686031587,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201276,
+        "num": 201276,
+        "word": "全员加速中11点06官宣的原因",
+        "onboard_time": 1686029428,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174853,
+        "num": 174853,
+        "word": "不用再说HeySiri了",
+        "onboard_time": 1686009748,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184435,
+        "num": 173188,
+        "word": "全员加速中好多人啊",
+        "onboard_time": 1686031048,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "男老师被骗没毕业鲜花转头暖哭",
+        "onboard_time": 1686022109,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164814,
+        "num": 164814,
+        "word": "鸭脖",
+        "onboard_time": 1686025232,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161564,
+        "num": 161564,
+        "word": "肖战虞书欣白鹿今日微博开屏",
+        "onboard_time": 1686022409,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160873,
+        "num": 160873,
+        "word": "没想到经常挖鼻孔会影响颜值",
+        "onboard_time": 1686012511,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159725,
+        "num": 159725,
+        "word": "北京动物园",
+        "onboard_time": 1686022468,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155502,
+        "num": 155502,
+        "word": "找双休工作时的企业级理解",
+        "onboard_time": 1686029908,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142636,
+        "num": 142636,
+        "word": "雎晓雯肚子离地面好远",
+        "onboard_time": 1686032309,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142409,
+        "num": 142409,
+        "word": "金智秀刘雨昕同品牌大片",
+        "onboard_time": 1686029850,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140694,
+        "num": 140694,
+        "word": "玫瑰故事",
+        "onboard_time": 1686032067,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136693,
+        "num": 136693,
+        "word": "原来真的有朋友不希望自己好",
+        "onboard_time": 1686032188,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 135459,
+        "num": 135459,
+        "word": "恭喜你被邓布利多选中",
+        "onboard_time": 1686031769,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132625,
+        "num": 132625,
+        "word": "热烈给王一博的标签是内娱顶级舞担",
+        "onboard_time": 1686026973,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131265,
+        "num": 131265,
+        "word": "全员加速中加速队员立flag",
+        "onboard_time": 1686027871,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126178,
+        "num": 126178,
+        "word": "胡先煦周也吻戏",
+        "onboard_time": 1686025410,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116903,
+        "num": 116903,
+        "word": "在欧洲千万不要轻易蹲地上",
+        "onboard_time": 1686010771,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116505,
+        "num": 116505,
+        "word": "猫猫假装听不到",
+        "onboard_time": 1686032309,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#高考倒计时1天#"
+    }
+  }
+}

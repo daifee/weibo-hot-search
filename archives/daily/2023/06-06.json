@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686029632018,
+  "endTime": 1686032484828,
   "band_list": [
     {
       "raw_hot": 3044586,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2453965,
-      "num": 2453965,
+      "raw_hot": 2502072,
+      "num": 2502072,
       "word": "26岁网红直播喝酒后去世",
       "onboard_time": 1686025592,
       "rank": 19,
@@ -25,6 +25,14 @@
       "onboard_time": 1685979988,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2199058,
+      "num": 2199058,
+      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+      "onboard_time": 1686026611,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2069629,
@@ -57,14 +65,6 @@
       "onboard_time": 1685989754,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1636864,
-      "num": 1636864,
-      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
-      "onboard_time": 1686026611,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1622812,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967520,
+      "num": 967520,
+      "word": "李健丁克的原因",
+      "onboard_time": 1686030746,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 966673,
       "num": 966673,
       "word": "秋瓷炫四公 淘汰",
@@ -225,6 +233,14 @@
       "onboard_time": 1685981366,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804554,
+      "num": 491630,
+      "word": "番位 烫手",
+      "onboard_time": 1686030325,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 776880,
@@ -299,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568678,
+      "num": 568678,
+      "word": "黑犬酱就老公被叫河童回应",
+      "onboard_time": 1686029908,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 559589,
       "num": 559589,
       "word": "男子做冷门工作10年带火2个生僻字",
       "onboard_time": 1686012691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541369,
+      "num": 541369,
+      "word": "蔡徐坤香港",
+      "onboard_time": 1686032067,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 538923,
@@ -339,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 505828,
+      "num": 505828,
+      "word": "刘亦菲开工",
+      "onboard_time": 1686028649,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502244,
       "num": 502244,
       "word": "北京动物园",
@@ -355,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456775,
+      "num": 456775,
+      "word": "中等收入群体已超4亿人",
+      "onboard_time": 1686026373,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 456259,
       "num": 472375,
       "word": "沈月说得到了失去的八分钟",
@@ -369,14 +417,6 @@
       "onboard_time": 1685973571,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 424206,
-      "num": 424206,
-      "word": "中等收入群体已超4亿人",
-      "onboard_time": 1686026373,
-      "rank": 18,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 422321,
@@ -643,14 +683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 264187,
-      "num": 264187,
-      "word": "刘亦菲开工",
-      "onboard_time": 1686028649,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261797,
       "num": 261797,
       "word": "刘宇新歌AYO上线",
@@ -721,6 +753,14 @@
       "onboard_time": 1685971768,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242211,
+      "num": 201932,
+      "word": "李艾说父亲追悼会上我和我妈都没有哭",
+      "onboard_time": 1686031587,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 234230,
@@ -875,11 +915,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210246,
+      "num": 210246,
+      "word": "中原黄嫂回应中原黄哥直播喝酒去世",
+      "onboard_time": 1686031528,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 209102,
       "num": 209102,
       "word": "胡先煦新片亲谁谁睡着",
       "onboard_time": 1686018868,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206460,
+      "num": 206460,
+      "word": "肖战梦中的那片海剧评",
+      "onboard_time": 1686031646,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -913,6 +969,14 @@
       "onboard_time": 1685976751,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201276,
+      "num": 201276,
+      "word": "全员加速中11点06官宣的原因",
+      "onboard_time": 1686029428,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 201195,
@@ -1043,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184435,
+      "num": 173188,
+      "word": "全员加速中好多人啊",
+      "onboard_time": 1686031048,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
@@ -1147,14 +1219,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 160116,
-      "num": 160116,
-      "word": "全员加速中11点06官宣的原因",
-      "onboard_time": 1686029428,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159043,
       "num": 159043,
       "word": "Vision Pro 眼睛手势操作",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1685982145,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155502,
+      "num": 155502,
+      "word": "找双休工作时的企业级理解",
+      "onboard_time": 1686029908,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 154979,
@@ -1243,11 +1315,43 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 142636,
+      "num": 142636,
+      "word": "雎晓雯肚子离地面好远",
+      "onboard_time": 1686032309,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142409,
+      "num": 142409,
+      "word": "金智秀刘雨昕同品牌大片",
+      "onboard_time": 1686029850,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 140694,
+      "num": 140694,
+      "word": "玫瑰故事",
+      "onboard_time": 1686032067,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140110,
       "num": 140110,
       "word": "这句话等了二十来年了",
       "onboard_time": 1686029009,
       "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 136693,
+      "num": 136693,
+      "word": "原来真的有朋友不希望自己好",
+      "onboard_time": 1686032188,
+      "rank": 43,
       "category": "情感,幽默"
     },
     {
@@ -1257,6 +1361,14 @@
       "onboard_time": 1685970266,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135459,
+      "num": 135459,
+      "word": "恭喜你被邓布利多选中",
+      "onboard_time": 1686031769,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 134585,
@@ -1361,6 +1473,14 @@
       "onboard_time": 1685976810,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116505,
+      "num": 116505,
+      "word": "猫猫假装听不到",
+      "onboard_time": 1686032309,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116084,
@@ -1505,6 +1625,14 @@
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31420,
+      "num": 410648,
+      "word": "YouAintRight高能四分钟",
+      "onboard_time": 1686031226,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 30423,
