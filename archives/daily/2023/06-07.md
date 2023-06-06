@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/07 00:22:04 ~ 2023/06/07 04:33:43
+本榜单时间：2023/06/07 00:22:04 ~ 2023/06/07 05:15:33
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
+小伙被吸入涵洞口30人紧紧拉回（热度：60889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%80%E5%BF%8C%E5%87%8F%E4%B8%BB%E9%A3%9F%23" target="weibo">
 高考期间最忌减主食（热度：58492）
 </a>
@@ -387,8 +393,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
-小伙被吸入涵洞口30人紧紧拉回（热度：22136）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A0%B5%E4%BD%8F%E9%BC%BB%E5%AD%90%E5%8C%96%E5%A6%86%23" target="weibo">
+张韶涵堵住鼻子化妆（热度：19332）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686083623909,
+  "endTime": 1686086133680,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -5131,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60889,
+      "num": 60889,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58492,
       "num": 58492,
       "word": "高考期间最忌减主食",
@@ -5323,20 +5331,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22136,
-      "num": 22136,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21565,
       "num": 420081,
       "word": "上场吧少年",
       "onboard_time": 1685977292,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19332,
+      "num": 19332,
+      "word": "张韶涵堵住鼻子化妆",
+      "onboard_time": 1686084012,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 18803,
