@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/05 00:21:01 ~ 2023/06/06 22:15:20
+本榜单时间：2023/06/05 00:21:01 ~ 2023/06/06 22:33:46
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
+猴痘（热度：2511308）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 26岁网红直播喝酒后去世（热度：2502072）
 </a>
@@ -89,12 +95,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E8%B4%AD42%E5%A5%97%E6%88%BF%E5%85%A8%E9%83%A8%E6%89%93%E9%80%9A%E5%A2%99%E4%BD%93%23" target="weibo">
 业主购42套房全部打通墙体（热度：2121466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
-猴痘（热度：2112724）
 </a>
 </li>
 
@@ -377,6 +377,12 @@ shanji（热度：1277714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%23" target="weibo">
 吴磊虞书欣 骄阳似我（热度：1201069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E5%9D%9D%E8%A2%AB%E7%82%B8%23" target="weibo">
+乌克兰大坝被炸（热度：1197139）
 </a>
 </li>
 
@@ -987,12 +993,6 @@ best道歉（热度：550814）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E5%9D%9D%E8%A2%AB%E7%82%B8%23" target="weibo">
-乌克兰大坝被炸（热度：460156）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%B7%B2%E8%B6%854%E4%BA%BF%E4%BA%BA%23" target="weibo">
 中等收入群体已超4亿人（热度：456775）
 </a>
@@ -1449,6 +1449,12 @@ the idol（热度：332839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%AC%91%E5%B7%9D%23" target="weibo">
+孙笑川（热度：300021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%B4%A4%E9%BD%90%E7%A7%A6%E5%BA%BE%E6%BE%84%E5%BA%86%E6%97%A9%E6%9C%9F%E5%90%88%E7%85%A7%23" target="weibo">
 王祖贤齐秦庾澄庆早期合照（热度：298999）
 </a>
@@ -1499,6 +1505,12 @@ the idol（热度：332839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E8%A1%A8%E7%99%BD%E5%A8%9C%E6%89%8E%E5%85%AD%E5%B9%B4%23" target="weibo">
 连续表白娜扎六年（热度：293784）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%92%8C%E5%A4%9A%E5%98%B4%E7%9A%84%E5%90%8C%E4%BA%8B%E5%90%88%E7%A7%9F%23" target="weibo">
+千万不要和多嘴的同事合租（热度：293130）
 </a>
 </li>
 
@@ -1581,12 +1593,6 @@ the idol（热度：332839）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%92%8C%E5%A4%9A%E5%98%B4%E7%9A%84%E5%90%8C%E4%BA%8B%E5%90%88%E7%A7%9F%23" target="weibo">
-千万不要和多嘴的同事合租（热度：281205）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%91%A8%E4%B9%9F%E5%90%BB%E6%88%8F%23" target="weibo">
 胡先煦周也吻戏（热度：280636）
 </a>
@@ -1623,8 +1629,8 @@ the idol（热度：332839）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%AC%91%E5%B7%9D%23" target="weibo">
-孙笑川（热度：274224）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%88%86%E9%87%8E%23" target="weibo">
+三分野（热度：275014）
 </a>
 </li>
 
@@ -1893,12 +1899,6 @@ Nadech求婚Yaya（热度：254648）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%88%86%E9%87%8E%23" target="weibo">
-三分野（热度：240147）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%92%E9%AB%98%E4%B8%89%E7%94%9F2%E5%8D%83%E7%A9%BA%E7%AC%94%E8%8A%AF%E5%81%9A%E6%A2%A6%E6%83%B3%E4%B9%8B%E8%88%9F%23" target="weibo">
 老师攒高三生2千空笔芯做梦想之舟（热度：238567）
 </a>
@@ -1955,6 +1955,12 @@ M2 Ultra（热度：234230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E5%8A%A0%E9%80%9F%E9%98%9F%E5%91%98%E7%AB%8Bflag%23" target="weibo">
 全员加速中加速队员立flag（热度：233066）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%BB%A4%E4%BD%A0%E6%83%8A%E8%89%B3%E7%9A%84%E6%98%8E%E6%98%9F%E7%9C%9F%E4%BA%BA%23" target="weibo">
+最令你惊艳的明星真人（热度：232875）
 </a>
 </li>
 
@@ -2213,6 +2219,12 @@ WE对战UP（热度：210141）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
 光与夜之恋直播（热度：209633）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%87%8C%E7%9A%84%E5%8D%A7%E9%BE%99%E5%87%A4%E9%9B%8F%E9%83%BD%E8%97%8F%E8%87%B4%E8%B0%A2%E9%87%8C%23" target="weibo">
+大学生里的卧龙凤雏都藏致谢里（热度：209328）
 </a>
 </li>
 
@@ -2549,12 +2561,6 @@ NBA（热度：187189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23MTG%E6%AD%A3%E5%BC%8F%E5%AE%8C%E6%88%90%E9%83%91%E5%B7%9E%E5%86%A0%E5%90%8D%23" target="weibo">
 MTG正式完成郑州冠名（热度：184748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%BB%A4%E4%BD%A0%E6%83%8A%E8%89%B3%E7%9A%84%E6%98%8E%E6%98%9F%E7%9C%9F%E4%BA%BA%23" target="weibo">
-最令你惊艳的明星真人（热度：183308）
 </a>
 </li>
 
@@ -3029,6 +3035,12 @@ Vision Pro 眼睛手势操作（热度：159043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%99%92%E5%A4%AA%E9%98%B3%E5%95%83%E7%AB%B9%E5%AD%90%E7%94%BB%E9%9D%A2%E8%B6%85%E5%B9%B8%E7%A6%8F%23" target="weibo">
 丫丫晒太阳啃竹子画面超幸福（热度：145149）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%8A%8A%E9%85%92%E6%9D%AF%E6%8D%8F%E7%A2%8E%E4%BA%86%23" target="weibo">
+小S把酒杯捏碎了（热度：145075）
 </a>
 </li>
 
@@ -3633,6 +3645,12 @@ Vision Pro 迪士尼（热度：83269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E7%94%A8%E4%B9%A6%E6%B3%95%E8%A3%85%E7%82%B9%E5%85%AC%E4%BA%A4%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A9%E5%A8%81%23" target="weibo">
+司机用书法装点公交为高考生助威（热度：82783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%87%AA%E8%B4%B9%E7%BB%99%E9%AB%98%E4%B8%89%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%91%E7%A4%BC%E7%89%A9%23" target="weibo">
 班主任自费给高三毕业生发礼物（热度：82423）
 </a>
@@ -3785,12 +3803,6 @@ YouAintRight高能四分钟（热度：38881）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E6%89%8B%E5%8C%85%23" target="weibo">
 杀手包（热度：34937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E7%94%A8%E4%B9%A6%E6%B3%95%E8%A3%85%E7%82%B9%E5%85%AC%E4%BA%A4%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A9%E5%A8%81%23" target="weibo">
-司机用书法装点公交为高考生助威（热度：28570）
 </a>
 </li>
 

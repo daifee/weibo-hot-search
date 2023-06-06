@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686060920081,
+  "endTime": 1686062026533,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2511308,
+      "num": 1381976,
+      "word": "猴痘",
+      "onboard_time": 1686058292,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2502072,
       "num": 2502072,
       "word": "26岁网红直播喝酒后去世",
@@ -241,14 +249,6 @@
       "onboard_time": 1685972670,
       "rank": 3,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 2112724,
-      "num": 1381976,
-      "word": "猴痘",
-      "onboard_time": 1686058292,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2112539,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1686048269,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1197139,
+      "num": 1197139,
+      "word": "乌克兰大坝被炸",
+      "onboard_time": 1686057090,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1191166,
@@ -3603,14 +3611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 460156,
-      "num": 460156,
-      "word": "乌克兰大坝被炸",
-      "onboard_time": 1686057090,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459208,
       "num": 459208,
       "word": "白桃星座",
@@ -5635,6 +5635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300021,
+      "num": 300021,
+      "word": "孙笑川",
+      "onboard_time": 1686058652,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 299874,
       "num": 254266,
       "word": "迪丽热巴邻家少女",
@@ -5801,6 +5809,14 @@
       "onboard_time": 1685973209,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293130,
+      "num": 293130,
+      "word": "千万不要和多嘴的同事合租",
+      "onboard_time": 1686060273,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 292871,
@@ -6147,14 +6163,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 281205,
-      "num": 281205,
-      "word": "千万不要和多嘴的同事合租",
-      "onboard_time": 1686060273,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 281043,
       "num": 276638,
       "word": "肖春生是叶家编外人员",
@@ -6345,14 +6353,6 @@
       "onboard_time": 1685871086,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 274224,
-      "num": 274224,
-      "word": "孙笑川",
-      "onboard_time": 1686058652,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 273306,
@@ -7635,6 +7635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232875,
+      "num": 232875,
+      "word": "最令你惊艳的明星真人",
+      "onboard_time": 1686060452,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232863,
       "num": 232863,
       "word": "六一晚会",
@@ -8609,6 +8617,14 @@
       "onboard_time": 1686054328,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209328,
+      "num": 209328,
+      "word": "大学生里的卧龙凤雏都藏致谢里",
+      "onboard_time": 1686061891,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 209102,
@@ -9921,14 +9937,6 @@
       "onboard_time": 1685614765,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183308,
-      "num": 183308,
-      "word": "最令你惊艳的明星真人",
-      "onboard_time": 1686060452,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183293,
@@ -11521,6 +11529,14 @@
       "onboard_time": 1686047130,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145075,
+      "num": 145075,
+      "word": "小S把酒杯捏碎了",
+      "onboard_time": 1686061955,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 144735,
@@ -13523,6 +13539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 82783,
+      "num": 566104,
+      "word": "司机用书法装点公交为高考生助威",
+      "onboard_time": 1686060096,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82464,
       "num": 82464,
       "word": "神十五航天员顺利出舱",
@@ -14377,14 +14401,6 @@
       "onboard_time": 1685543072,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28570,
-      "num": 566104,
-      "word": "司机用书法装点公交为高考生助威",
-      "onboard_time": 1686060096,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27596,
