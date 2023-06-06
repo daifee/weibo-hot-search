@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686033245525,
+  "endTime": 1686035754043,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -32,6 +32,14 @@
       "word": "男子多次性侵女友孙女致其染上妇科病",
       "onboard_time": 1685548168,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3289887,
+      "num": 3289887,
+      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+      "onboard_time": 1686026611,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -81,6 +89,14 @@
       "onboard_time": 1685704832,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2614180,
+      "num": 1767591,
+      "word": "李健丁克的原因",
+      "onboard_time": 1686030746,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2545357,
@@ -161,14 +177,6 @@
       "onboard_time": 1685635046,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2328929,
-      "num": 2328929,
-      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
-      "onboard_time": 1686026611,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2322353,
@@ -457,14 +465,6 @@
       "onboard_time": 1685538987,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1767591,
-      "num": 1767591,
-      "word": "李健丁克的原因",
-      "onboard_time": 1686030746,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1762985,
@@ -1355,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1071029,
+      "num": 1071029,
+      "word": "黑犬酱就老公被叫河童回应",
+      "onboard_time": 1686029908,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1070604,
       "num": 1070604,
       "word": "我曾一度认为是超市算错了",
@@ -2011,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 769187,
+      "num": 769187,
+      "word": "鲍蕾晒花絮力证没给贝儿P腿",
+      "onboard_time": 1686032968,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 767588,
       "num": 767588,
       "word": "华晨宇麦粒肿",
@@ -2529,14 +2545,6 @@
       "onboard_time": 1685876546,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 606795,
-      "num": 606795,
-      "word": "黑犬酱就老公被叫河童回应",
-      "onboard_time": 1686029908,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 606453,
@@ -4339,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357674,
+      "num": 357674,
+      "word": "四会住建局回应业主购42套房全打通",
+      "onboard_time": 1686033328,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357627,
       "num": 357627,
       "word": "隐翅虫",
@@ -4489,6 +4505,14 @@
       "onboard_time": 1685525007,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345302,
+      "num": 345302,
+      "word": "A股",
+      "onboard_time": 1686023367,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 345233,
@@ -5091,6 +5115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310397,
+      "num": 310397,
+      "word": "全员加速中好多人啊",
+      "onboard_time": 1686031048,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309860,
       "num": 309860,
       "word": "AG",
@@ -5105,6 +5137,14 @@
       "onboard_time": 1685704832,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309629,
+      "num": 247636,
+      "word": "河童",
+      "onboard_time": 1686034947,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 308971,
@@ -6699,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244448,
+      "num": 244448,
+      "word": "恭喜你被邓布利多选中",
+      "onboard_time": 1686031769,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244193,
       "num": 188482,
       "word": "乐华家族演唱会有王一博",
@@ -6816,6 +6864,14 @@
       "word": "男子站斑马线旁聊天被撞飞当场死亡",
       "onboard_time": 1685541270,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241184,
+      "num": 241184,
+      "word": "胡锡进发博评鼠头鸭脖事件",
+      "onboard_time": 1686034589,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -7227,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230096,
+      "num": 230096,
+      "word": "迪丽热巴分享好云为高考生加油",
+      "onboard_time": 1686034887,
+      "rank": 25,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 230088,
       "num": 230088,
       "word": "赵丽娜的身高",
@@ -7249,6 +7313,14 @@
       "onboard_time": 1685720252,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229020,
+      "num": 229020,
+      "word": "原来真的有朋友不希望自己好",
+      "onboard_time": 1686032188,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 229014,
@@ -7651,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218617,
+      "num": 218617,
+      "word": "B太 我可能又被众筹了",
+      "onboard_time": 1686035246,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 218571,
       "num": 218571,
       "word": "王欣瑜首进大满贯32强",
@@ -7843,14 +7923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214604,
-      "num": 214604,
-      "word": "全员加速中好多人啊",
-      "onboard_time": 1686031048,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214519,
       "num": 214519,
       "word": "真的佩服塞尔达剧情党",
@@ -7873,6 +7945,14 @@
       "onboard_time": 1685769029,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214254,
+      "num": 214254,
+      "word": "刘耀文刘宇撞衫",
+      "onboard_time": 1686033866,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 213942,
@@ -8145,14 +8225,6 @@
       "onboard_time": 1685887772,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206348,
-      "num": 206348,
-      "word": "A股",
-      "onboard_time": 1686023367,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 205485,
@@ -8433,14 +8505,6 @@
       "onboard_time": 1685625088,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198715,
-      "num": 198715,
-      "word": "原来真的有朋友不希望自己好",
-      "onboard_time": 1686032188,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 198479,
@@ -9899,14 +9963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166254,
-      "num": 166254,
-      "word": "鲍蕾晒花絮力证没给贝儿P腿",
-      "onboard_time": 1686032968,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166218,
       "num": 166218,
       "word": "总有人在替这个世界缝缝补补",
@@ -10971,6 +11027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138826,
+      "num": 138826,
+      "word": "电梯突发故障丈夫下意识护妻儿",
+      "onboard_time": 1686035066,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138401,
       "num": 138401,
       "word": "雁回开大好帅",
@@ -11057,14 +11121,6 @@
       "onboard_time": 1685700329,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135459,
-      "num": 135459,
-      "word": "恭喜你被邓布利多选中",
-      "onboard_time": 1686031769,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 135417,
@@ -11193,6 +11249,14 @@
       "onboard_time": 1685854829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132352,
+      "num": 132352,
+      "word": "高考前被AI的回答鼓励到了",
+      "onboard_time": 1686035487,
+      "rank": 44,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 132341,
@@ -13497,6 +13561,14 @@
       "onboard_time": 1685734692,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23480,
+      "num": 347237,
+      "word": "花式送考只愿你金榜题名",
+      "onboard_time": 1686034827,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23217,
