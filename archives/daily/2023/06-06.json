@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686046683550,
+  "endTime": 1686047608277,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1956668,
+      "num": 1956668,
+      "word": "弟弟一眼认出流浪乞讨人员是亲哥",
+      "onboard_time": 1686044367,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1911504,
       "num": 1911504,
       "word": "万达员工午餐时间玩手机被通报",
@@ -67,12 +75,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1737451,
-      "num": 1737451,
-      "word": "弟弟一眼认出流浪乞讨人员是亲哥",
-      "onboard_time": 1686044367,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1661117,
+      "num": 1055756,
+      "word": "宋轶现身医院抽血采样",
+      "onboard_time": 1686044311,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1638983,
@@ -97,14 +105,6 @@
       "onboard_time": 1685979027,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1470714,
-      "num": 1055756,
-      "word": "宋轶现身医院抽血采样",
-      "onboard_time": 1686044311,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1443641,
@@ -387,6 +387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 683700,
+      "num": 683700,
+      "word": "我出生那天 四海八荒都沉默了",
+      "onboard_time": 1686046108,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 647690,
       "num": 647690,
       "word": "美依礼芽四公 青鸟",
@@ -611,6 +619,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 374842,
+      "num": 1030229,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370179,
       "num": 370179,
       "word": "娜扎七年前生图",
@@ -699,14 +715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 334601,
-      "num": 1030229,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 327040,
       "num": 327040,
       "word": "吴京杰森斯坦森早在几百年前就说过爱你",
@@ -745,6 +753,14 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 312543,
+      "num": 312543,
+      "word": "杭州姑娘20元刮刮乐刮中百万",
+      "onboard_time": 1686046349,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304746,
@@ -883,20 +899,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265066,
-      "num": 198776,
-      "word": "我出生那天 四海八荒都沉默了",
-      "onboard_time": 1686046108,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 264951,
       "num": 264951,
       "word": "多少钱算中产",
       "onboard_time": 1686013828,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 262561,
+      "num": 963372,
+      "word": "电梯突发故障丈夫下意识护妻儿",
+      "onboard_time": 1686035066,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261797,
@@ -1099,14 +1115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226314,
-      "num": 963372,
-      "word": "电梯突发故障丈夫下意识护妻儿",
-      "onboard_time": 1686035066,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226012,
       "num": 226012,
       "word": "三贵情史",
@@ -1171,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217849,
+      "num": 217849,
+      "word": "前生的泪 来世的痣",
+      "onboard_time": 1686045209,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216670,
       "num": 216670,
       "word": "肖战梦中的那片海定档东方卫视",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1686018868,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208165,
-      "num": 208165,
-      "word": "前生的泪 来世的痣",
-      "onboard_time": 1686045209,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 206460,
@@ -1427,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185239,
+      "num": 170724,
+      "word": "张踩铃老公给铁岭考生助力紫腚能行",
+      "onboard_time": 1686047189,
+      "rank": 30,
+      "category": "网红,教育"
+    },
+    {
       "raw_hot": 184748,
       "num": 184748,
       "word": "MTG正式完成郑州冠名",
@@ -1587,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160973,
+      "num": 160973,
+      "word": "王源电影男主角首秀",
+      "onboard_time": 1686044130,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159043,
       "num": 159043,
       "word": "Vision Pro 眼睛手势操作",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1685982145,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155115,
-      "num": 155115,
-      "word": "王源电影男主角首秀",
-      "onboard_time": 1686044130,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 154979,
@@ -1667,20 +1683,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151937,
+      "num": 151937,
+      "word": "苹果Vision Pro梗图",
+      "onboard_time": 1686044789,
+      "rank": 41,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 149050,
       "num": 149943,
       "word": "父母带5岁半脑干肿瘤女儿去海洋馆圆梦",
       "onboard_time": 1685982323,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145982,
-      "num": 145982,
-      "word": "苹果Vision Pro梗图",
-      "onboard_time": 1686044789,
-      "rank": 41,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 145192,
@@ -1707,20 +1723,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 142761,
+      "num": 142761,
+      "word": "减肥的核心 断社交",
+      "onboard_time": 1686047130,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 142611,
       "num": 142611,
       "word": "高考转运锦鲤",
       "onboard_time": 1686038787,
       "rank": 42,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 141905,
-      "num": 141905,
-      "word": "杭州姑娘20元刮刮乐刮中百万",
-      "onboard_time": 1686046349,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140694,
@@ -1761,6 +1777,14 @@
       "onboard_time": 1686019168,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 132878,
+      "num": 132878,
+      "word": "丫丫晒太阳啃竹子画面超幸福",
+      "onboard_time": 1686047130,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132591,
@@ -1827,6 +1851,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 125654,
+      "num": 125654,
+      "word": "端着碗吃饭竟然是不礼貌的",
+      "onboard_time": 1686047429,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121928,
+      "num": 121928,
+      "word": "想看狐妖竹业篇的路透有多难",
+      "onboard_time": 1686047549,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120369,
       "num": 515809,
       "word": "王一博向你伸手",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1685967747,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 117628,
+      "num": 684356,
+      "word": "果然时尚是个轮回",
+      "onboard_time": 1686045932,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 116771,
@@ -2041,14 +2089,6 @@
       "onboard_time": 1685987295,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 66843,
-      "num": 684356,
-      "word": "果然时尚是个轮回",
-      "onboard_time": 1686045932,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 66329,
