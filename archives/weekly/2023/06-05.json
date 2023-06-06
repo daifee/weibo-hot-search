@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686057616933,
+  "endTime": 1686058406443,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1938120,
+      "num": 1938120,
+      "word": "叶国华已被移出群聊",
+      "onboard_time": 1686054748,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1911504,
       "num": 1911504,
       "word": "万达员工午餐时间玩手机被通报",
       "onboard_time": 1686022228,
       "rank": 40,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1867042,
-      "num": 1867042,
-      "word": "叶国华已被移出群聊",
-      "onboard_time": 1686054748,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 1820130,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1101713,
+      "num": 1101713,
+      "word": "北京发现两例猴痘病例",
+      "onboard_time": 1686057810,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1086340,
       "num": 982929,
       "word": "四大顶级舞担",
@@ -561,6 +569,14 @@
       "onboard_time": 1685931088,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007655,
+      "num": 1007655,
+      "word": "林徽因名字 文化版的招娣",
+      "onboard_time": 1686052350,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 1007209,
@@ -633,14 +649,6 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 931472,
-      "num": 931472,
-      "word": "林徽因名字 文化版的招娣",
-      "onboard_time": 1686052350,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 925453,
@@ -1875,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298359,
+      "num": 298359,
+      "word": "梦中的那片海",
+      "onboard_time": 1686056793,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297280,
       "num": 207495,
       "word": "后浪大结局",
@@ -2291,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248889,
+      "num": 248889,
+      "word": "乌克兰大坝被炸",
+      "onboard_time": 1686057090,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248791,
       "num": 248791,
       "word": "全员加速中路透",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1686037108,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235290,
+      "num": 235290,
+      "word": "猴痘",
+      "onboard_time": 1686058292,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234230,
@@ -2699,14 +2731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220882,
-      "num": 181443,
-      "word": "梦中的那片海",
-      "onboard_time": 1686056793,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220252,
       "num": 220252,
       "word": "杭州收费站",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1685974412,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206467,
+      "num": 206467,
+      "word": "有人问你有没有男朋友该怎么回",
+      "onboard_time": 1686053608,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 206460,
@@ -3097,14 +3129,6 @@
       "onboard_time": 1685957669,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 194011,
-      "num": 194011,
-      "word": "有人问你有没有男朋友该怎么回",
-      "onboard_time": 1686053608,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 193571,
@@ -3411,6 +3435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 177731,
+      "num": 177731,
+      "word": "四川考生摸985车牌沾好运",
+      "onboard_time": 1686055468,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 177455,
       "num": 177455,
       "word": "长月烬明里究竟谁扛剧",
@@ -3579,14 +3611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166913,
-      "num": 166913,
-      "word": "四川考生摸985车牌沾好运",
-      "onboard_time": 1686055468,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 166679,
       "num": 166679,
       "word": "多巴胺穿搭",
@@ -3681,6 +3705,14 @@
       "onboard_time": 1686036988,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161510,
+      "num": 161510,
+      "word": "麦田音乐节",
+      "onboard_time": 1686057753,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 160973,
@@ -4059,14 +4091,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 136351,
-      "num": 132515,
-      "word": "乌克兰大坝被炸",
-      "onboard_time": 1686057090,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136302,
       "num": 136302,
       "word": "7旬外公备战高考孙子陪考",
@@ -4104,6 +4128,14 @@
       "word": "哪一刻让你觉得读书特别有用",
       "onboard_time": 1685957131,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134421,
+      "num": 535162,
+      "word": "男生毕业前将学校建模装进电脑",
+      "onboard_time": 1686056430,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4603,14 +4635,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 96886,
-      "num": 514995,
-      "word": "男生毕业前将学校建模装进电脑",
-      "onboard_time": 1686056430,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95902,
       "num": 95902,
       "word": "2条丝巾变古装",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1685898139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86974,
+      "num": 113439,
+      "word": "广州街头3D大屏绝了",
+      "onboard_time": 1686058352,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 86473,
@@ -4875,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40019,
+      "num": 186387,
+      "word": "王耀庆直播上海话版UncleWang",
+      "onboard_time": 1686056430,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39776,
       "num": 1153572,
       "word": "圆梦乘组的高清笑颜",
@@ -4945,14 +4985,6 @@
       "onboard_time": 1685977292,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11657,
-      "num": 159648,
-      "word": "王耀庆直播上海话版UncleWang",
-      "onboard_time": 1686056430,
-      "rank": 39,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -4976,6 +5008,9 @@
     },
     {
       "word": "#中华民族的自信之源#"
+    },
+    {
+      "word": "#习近平在内蒙古巴彦淖尔考察#"
     }
   ]
 }

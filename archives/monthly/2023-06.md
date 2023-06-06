@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/06 21:20:16
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/06 21:33:26
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@ Angelababy是靠什么长红多年的（热度：1990762）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23" target="weibo">
+叶国华已被移出群聊（热度：1938120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%96%9D%E7%83%AD%E5%92%96%E5%95%A1%23" target="weibo">
 千万不要长期喝热咖啡（热度：1928089）
 </a>
@@ -341,12 +347,6 @@ Angelababy是靠什么长红多年的（热度：1990762）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B8%85%E6%81%8B%E7%88%B1%23" target="weibo">
 清清恋爱（热度：1869828）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23" target="weibo">
-叶国华已被移出群聊（热度：1867042）
 </a>
 </li>
 
@@ -1095,6 +1095,12 @@ Angelababy回归 跑男收视率（热度：1255756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23" target="weibo">
+北京发现两例猴痘病例（热度：1101713）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%AA%E7%9D%80%E4%BA%B2%23" target="weibo">
 横着亲（热度：1097181）
 </a>
@@ -1193,6 +1199,12 @@ ChatGPT高三考试仅物理得零分（热度：1044269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23" target="weibo">
 孟子义锐评任敏汤晶媚乐队事件（热度：1012196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BE%BD%E5%9B%A0%E5%90%8D%E5%AD%97%20%E6%96%87%E5%8C%96%E7%89%88%E7%9A%84%E6%8B%9B%E5%A8%A3%23" target="weibo">
+林徽因名字 文化版的招娣（热度：1007655）
 </a>
 </li>
 
@@ -1313,12 +1325,6 @@ ChatGPT高三考试仅物理得零分（热度：1044269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%8E%B7%E9%9F%A9%E5%9B%BD%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23" target="weibo">
 小S大女儿获韩国舞蹈大赛第一名（热度：934917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BE%BD%E5%9B%A0%E5%90%8D%E5%AD%97%20%E6%96%87%E5%8C%96%E7%89%88%E7%9A%84%E6%8B%9B%E5%A8%A3%23" target="weibo">
-林徽因名字 文化版的招娣（热度：931472）
 </a>
 </li>
 
@@ -5271,6 +5277,12 @@ Nadech求婚Yaya（热度：254648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E5%9D%9D%E8%A2%AB%E7%82%B8%23" target="weibo">
+乌克兰大坝被炸（热度：248889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E8%B7%AF%E9%80%8F%23" target="weibo">
 全员加速中路透（热度：248791）
 </a>
@@ -5609,6 +5621,12 @@ weiwei有点东西（热度：241155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD%23" target="weibo">
 杨紫直播（热度：235519）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
+猴痘（热度：235290）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ ff14（热度：226863）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E8%BE%88%E8%83%BD%E5%AD%98%E5%88%B0%E9%92%B1%23" target="weibo">
-为什么父辈能存到钱（热度：221376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%98%AFGD%E7%9A%84G%23" target="weibo">
-YG的G是GD的G（热度：221296）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%A4%AA%E5%8D%87%E8%AF%84%E4%BB%B7%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%23" target="weibo">
-丁太升评价吉克隽逸（热度：221116）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6161,6 +6161,12 @@ YG的G是GD的G（热度：221296）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%9A%84%E8%87%AA%E4%BF%A1%E4%B9%8B%E6%BA%90%23%23" target="weibo">
 #中华民族的自信之源#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94%E8%80%83%E5%AF%9F%23%23" target="weibo">
+#习近平在内蒙古巴彦淖尔考察#
 </a>
 </li>
 

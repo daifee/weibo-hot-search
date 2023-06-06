@@ -1,0 +1,410 @@
+{
+  "runTime": 1686058406443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2257452,
+        "num": 2257452,
+        "word": "人体最大的器官是什么",
+        "onboard_time": 1686051569,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1938120,
+        "num": 1938120,
+        "word": "叶国华已被移出群聊",
+        "onboard_time": 1686054748,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109886,
+        "num": 1405451,
+        "word": "一起为2023高考生加油",
+        "onboard_time": 1686053906,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1101713,
+        "num": 1101713,
+        "word": "北京发现两例猴痘病例",
+        "onboard_time": 1686057810,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019956,
+        "num": 1019956,
+        "word": "广东明确停课不停考",
+        "onboard_time": 1686049469,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1007655,
+        "num": 1007655,
+        "word": "林徽因名字 文化版的招娣",
+        "onboard_time": 1686052350,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 967834,
+        "num": 967834,
+        "word": "鹭卓好稳",
+        "onboard_time": 1686055830,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 901577,
+        "num": 901577,
+        "word": "杭州姑娘20元刮刮乐刮中百万",
+        "onboard_time": 1686046349,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810185,
+        "num": 810185,
+        "word": "吴磊虞书欣 骄阳似我",
+        "onboard_time": 1686048269,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642152,
+        "num": 642152,
+        "word": "种地吧直播",
+        "onboard_time": 1686041848,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2413911,
+        "num": 641438,
+        "word": "赵琦君杨凯雯领证",
+        "onboard_time": 1686054388,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608685,
+        "num": 608685,
+        "word": "四大顶级舞担",
+        "onboard_time": 1686039627,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608018,
+        "num": 608018,
+        "word": "原来丫丫有一张微笑脸",
+        "onboard_time": 1686038847,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575711,
+        "num": 575711,
+        "word": "动物专家称争议鸭脖大概率为鼠头",
+        "onboard_time": 1686049890,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134421,
+        "num": 535162,
+        "word": "男生毕业前将学校建模装进电脑",
+        "onboard_time": 1686056430,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530476,
+        "num": 530476,
+        "word": "李健丁克的原因",
+        "onboard_time": 1686030746,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514561,
+        "num": 514561,
+        "word": "高考加油",
+        "onboard_time": 1686047611,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 430849,
+        "num": 430849,
+        "word": "弟弟一眼认出流浪乞讨人员是亲哥",
+        "onboard_time": 1686044367,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424134,
+        "num": 424134,
+        "word": "蔡徐坤 回归跑男",
+        "onboard_time": 1686040288,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410106,
+        "num": 410106,
+        "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+        "onboard_time": 1686026611,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526425,
+        "num": 401712,
+        "word": "我出生那天 四海八荒都沉默了",
+        "onboard_time": 1686046108,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378851,
+        "num": 378851,
+        "word": "绝味鸭脖股价下跌",
+        "onboard_time": 1686038787,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 327024,
+        "num": 327024,
+        "word": "宋轶现身医院抽血采样",
+        "onboard_time": 1686044311,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313913,
+        "num": 313913,
+        "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
+        "onboard_time": 1686035848,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306585,
+        "num": 306585,
+        "word": "刘诗诗 天选淮竹",
+        "onboard_time": 1686048509,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303988,
+        "num": 303988,
+        "word": "B太 我可能又被众筹了",
+        "onboard_time": 1686035246,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 298359,
+        "num": 298359,
+        "word": "梦中的那片海",
+        "onboard_time": 1686056793,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295882,
+        "num": 295882,
+        "word": "种地吧感恩音乐会",
+        "onboard_time": 1686043349,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284854,
+        "num": 284854,
+        "word": "肖战新剧微博开分8.3",
+        "onboard_time": 1686054570,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264372,
+        "num": 264372,
+        "word": "26岁网红直播喝酒后去世",
+        "onboard_time": 1686025592,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 259995,
+        "num": 259995,
+        "word": "三分野大结局",
+        "onboard_time": 1686050008,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248889,
+        "num": 248889,
+        "word": "乌克兰大坝被炸",
+        "onboard_time": 1686057090,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235378,
+        "num": 235378,
+        "word": "车银优肿么了",
+        "onboard_time": 1686038129,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235290,
+        "num": 235290,
+        "word": "猴痘",
+        "onboard_time": 1686058292,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228569,
+        "num": 228569,
+        "word": "鞠婧祎白鹿相似造型",
+        "onboard_time": 1686052407,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 210876,
+        "num": 210876,
+        "word": "王菲那英好甜",
+        "onboard_time": 1686053069,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209069,
+        "num": 209069,
+        "word": "易烊千玺晒彩虹祝愿考生前程似锦",
+        "onboard_time": 1686055108,
+        "rank": 36,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 206467,
+        "num": 206467,
+        "word": "有人问你有没有男朋友该怎么回",
+        "onboard_time": 1686053608,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 194629,
+        "num": 194629,
+        "word": "光与夜之恋直播",
+        "onboard_time": 1686054328,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40019,
+        "num": 186387,
+        "word": "王耀庆直播上海话版UncleWang",
+        "onboard_time": 1686056430,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 186283,
+        "word": "朱一龙直播",
+        "onboard_time": 1686056613,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "种地吧节目单",
+        "onboard_time": 1686056793,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177731,
+        "num": 177731,
+        "word": "四川考生摸985车牌沾好运",
+        "onboard_time": 1686055468,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161510,
+        "num": 161510,
+        "word": "麦田音乐节",
+        "onboard_time": 1686057753,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160314,
+        "num": 160314,
+        "word": "陈都灵黑长直齐刘海",
+        "onboard_time": 1686047911,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143915,
+        "num": 143915,
+        "word": "番位 烫手",
+        "onboard_time": 1686030325,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127680,
+        "num": 127680,
+        "word": "要怎么证明是鼠头还是鸭脖",
+        "onboard_time": 1686037528,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113592,
+        "num": 113592,
+        "word": "鼠头",
+        "onboard_time": 1686047670,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92446,
+        "num": 113567,
+        "word": "手工耿移动钢琴烤串车",
+        "onboard_time": 1686052288,
+        "rank": 48,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 113439,
+        "word": "广州街头3D大屏绝了",
+        "onboard_time": 1686058352,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在内蒙古巴彦淖尔考察#"
+    }
+  }
+}
