@@ -1,0 +1,410 @@
+{
+  "runTime": 1686022444193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107122,
+        "num": 1107122,
+        "word": "专家称要警惕终身不婚不育情况",
+        "onboard_time": 1686017487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009858,
+        "num": 1009858,
+        "word": "丫丫",
+        "onboard_time": 1686021208,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48817,
+        "num": 939808,
+        "word": "芒种至农事忙",
+        "onboard_time": 1686021689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109288,
+        "num": 931174,
+        "word": "向佐郭碧婷牵手逛街",
+        "onboard_time": 1686016887,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911275,
+        "num": 911275,
+        "word": "谢娜四公 没拉票",
+        "onboard_time": 1686021388,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 889564,
+        "num": 889564,
+        "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
+        "onboard_time": 1686012511,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874694,
+        "num": 874694,
+        "word": "黄奕发博支持49岁高考妈妈",
+        "onboard_time": 1686017846,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 774244,
+        "num": 774244,
+        "word": "秋瓷炫四公 淘汰",
+        "onboard_time": 1686021448,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725661,
+        "num": 725661,
+        "word": "空姐未讲日语被日本女子辱骂",
+        "onboard_time": 1686006141,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685321,
+        "num": 685321,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 644495,
+        "num": 644495,
+        "word": "PDD直播弹幕",
+        "onboard_time": 1686012992,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 636182,
+        "num": 636182,
+        "word": "在欧洲千万不要轻易蹲地上",
+        "onboard_time": 1686010771,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 622278,
+        "num": 622278,
+        "word": "长牙的鸭脖令人如鲠在喉",
+        "onboard_time": 1686007704,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552524,
+        "num": 552524,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120369,
+        "num": 515809,
+        "word": "王一博向你伸手",
+        "onboard_time": 1686020428,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514766,
+        "num": 514766,
+        "word": "全员加速中3要来了",
+        "onboard_time": 1686021689,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473413,
+        "num": 473413,
+        "word": "高考倒计时",
+        "onboard_time": 1686014909,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399698,
+        "num": 472375,
+        "word": "沈月说得到了失去的八分钟",
+        "onboard_time": 1686019049,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362856,
+        "num": 469481,
+        "word": "吴倩镜头少原因",
+        "onboard_time": 1686009087,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298482,
+        "num": 467584,
+        "word": "李沁戏份",
+        "onboard_time": 1685982684,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1853648,
+        "num": 465346,
+        "word": "没想到经常挖鼻孔会影响颜值",
+        "onboard_time": 1686012511,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464389,
+        "num": 464389,
+        "word": "绝大男人婚前婚后的生活都不会有太大变化",
+        "onboard_time": 1686015807,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462559,
+        "num": 462559,
+        "word": "3499美元的苹果头显值得买吗",
+        "onboard_time": 1686008003,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 458435,
+        "num": 458435,
+        "word": "不用再说HeySiri了",
+        "onboard_time": 1686009748,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 345675,
+        "num": 345675,
+        "word": "Apple Vision Pro 苹果首款头显",
+        "onboard_time": 1685989754,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 298184,
+        "num": 298184,
+        "word": "光遇",
+        "onboard_time": 1686020366,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289654,
+        "num": 289654,
+        "word": "权志龙与YG的合约到期",
+        "onboard_time": 1686015988,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274753,
+        "num": 274753,
+        "word": "夫妻离婚均不愿养娃法院判不许离",
+        "onboard_time": 1686006260,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242822,
+        "num": 242822,
+        "word": "男老师被骗没毕业鲜花转头暖哭",
+        "onboard_time": 1686022109,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236960,
+        "num": 236960,
+        "word": "全员加速中",
+        "onboard_time": 1686011611,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234900,
+        "num": 234900,
+        "word": "业主购42套房全部打通墙体",
+        "onboard_time": 1685972670,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 227068,
+        "num": 227068,
+        "word": "陆沉",
+        "onboard_time": 1686020247,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227007,
+        "num": 227007,
+        "word": "吴京杰森斯坦森早在几百年前就说过爱你",
+        "onboard_time": 1686018565,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226786,
+        "num": 226786,
+        "word": "无美颜镜头下的杨紫",
+        "onboard_time": 1686022048,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224094,
+        "num": 224094,
+        "word": "肖战虞书欣白鹿今日微博开屏",
+        "onboard_time": 1686022409,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218510,
+        "num": 218510,
+        "word": "YG和SMTOWN好像都一个样",
+        "onboard_time": 1686021929,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216931,
+        "num": 216931,
+        "word": "迪丽热巴金智秀周也江疏影同品牌大片",
+        "onboard_time": 1686021929,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212962,
+        "num": 212962,
+        "word": "浪姐的吴倩vs你好星期六的吴倩",
+        "onboard_time": 1686017908,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203452,
+        "num": 203452,
+        "word": "光与夜之恋",
+        "onboard_time": 1686007822,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196926,
+        "num": 196926,
+        "word": "李荣浩高考保留节目",
+        "onboard_time": 1686019588,
+        "rank": 39,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 186140,
+        "num": 186140,
+        "word": "万达员工午餐时间玩手机被通报",
+        "onboard_time": 1686022228,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 85027,
+        "num": 183472,
+        "word": "可以养胃的三种常见食物",
+        "onboard_time": 1686008366,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183020,
+        "num": 183020,
+        "word": "猫猫阿姨 你告诉小猫要好好吃饭",
+        "onboard_time": 1686016588,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100712,
+        "num": 181342,
+        "word": "荣耀90开辟手机护眼新赛道",
+        "onboard_time": 1686019168,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180499,
+        "num": 180499,
+        "word": "郭碧婷的头发好多",
+        "onboard_time": 1686019827,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175331,
+        "num": 175331,
+        "word": "多少钱算中产",
+        "onboard_time": 1686013828,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164117,
+        "num": 164117,
+        "word": "苹果发布会",
+        "onboard_time": 1685979027,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163132,
+        "num": 163132,
+        "word": "有刘海的刘浩存",
+        "onboard_time": 1685976872,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161534,
+        "num": 161534,
+        "word": "杨天真谈高考错失保送北大",
+        "onboard_time": 1686022288,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154979,
+        "num": 154979,
+        "word": "女儿关店带截瘫妈妈自驾环游中国",
+        "onboard_time": 1686021807,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#美丽中国在行动#"
+    }
+  }
+}

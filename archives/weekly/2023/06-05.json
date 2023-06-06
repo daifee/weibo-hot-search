@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686021764040,
+  "endTime": 1686022444193,
   "band_list": [
     {
       "raw_hot": 2545357,
@@ -323,11 +323,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1109288,
+      "num": 931174,
+      "word": "向佐郭碧婷牵手逛街",
+      "onboard_time": 1686016887,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1109152,
       "num": 603964,
       "word": "国内出现偏肺病毒感染",
       "onboard_time": 1685875344,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1107122,
+      "num": 1107122,
+      "word": "专家称要警惕终身不婚不育情况",
+      "onboard_time": 1686017487,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -337,14 +353,6 @@
       "onboard_time": 1685950890,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1087116,
-      "num": 831116,
-      "word": "向佐郭碧婷牵手逛街",
-      "onboard_time": 1686016887,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1076254,
@@ -384,6 +392,14 @@
       "word": "高铁站台为什么不能打伞",
       "onboard_time": 1685931088,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1009858,
+      "num": 1009858,
+      "word": "丫丫",
+      "onboard_time": 1686021208,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911275,
+      "num": 911275,
+      "word": "谢娜四公 没拉票",
+      "onboard_time": 1686021388,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 879069,
       "num": 879069,
       "word": "有刘海的刘浩存",
@@ -449,6 +473,14 @@
       "onboard_time": 1685958629,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874694,
+      "num": 874694,
+      "word": "黄奕发博支持49岁高考妈妈",
+      "onboard_time": 1686017846,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 859095,
@@ -505,14 +537,6 @@
       "onboard_time": 1685934869,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 830530,
-      "num": 830530,
-      "word": "黄奕发博支持49岁高考妈妈",
-      "onboard_time": 1686017846,
-      "rank": 15,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 821890,
@@ -585,6 +609,14 @@
       "onboard_time": 1685946027,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 774244,
+      "num": 774244,
+      "word": "秋瓷炫四公 淘汰",
+      "onboard_time": 1686021448,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 765929,
@@ -731,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 616013,
-      "num": 616013,
-      "word": "专家称要警惕终身不婚不育情况",
-      "onboard_time": 1686017487,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 612585,
       "num": 612585,
       "word": "亲爱的李华以后信要自己写了",
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 588438,
-      "num": 364805,
+      "num": 464389,
       "word": "绝大男人婚前婚后的生活都不会有太大变化",
       "onboard_time": 1686015807,
       "rank": 45,
@@ -835,11 +859,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512708,
-      "num": 512708,
-      "word": "谢娜四公 没拉票",
-      "onboard_time": 1686021388,
-      "rank": 13,
+      "raw_hot": 514766,
+      "num": 514766,
+      "word": "全员加速中3要来了",
+      "onboard_time": 1686021689,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 456259,
-      "num": 456259,
+      "num": 472375,
       "word": "沈月说得到了失去的八分钟",
       "onboard_time": 1686019049,
       "rank": 17,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1685938534,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 395040,
-      "num": 395040,
-      "word": "秋瓷炫四公 淘汰",
-      "onboard_time": 1686021448,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 390788,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1685980227,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323875,
-      "num": 323875,
-      "word": "丫丫",
-      "onboard_time": 1686021208,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315194,
@@ -1763,6 +1771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 242822,
+      "num": 242822,
+      "word": "男老师被骗没毕业鲜花转头暖哭",
+      "onboard_time": 1686022109,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242154,
       "num": 242154,
       "word": "杨超越工作室回应模仿争议",
@@ -1883,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226786,
+      "num": 226786,
+      "word": "无美颜镜头下的杨紫",
+      "onboard_time": 1686022048,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226012,
       "num": 226012,
       "word": "三贵情史",
@@ -1920,6 +1944,14 @@
       "word": "蒋欣是懂回复的",
       "onboard_time": 1685979027,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224094,
+      "num": 224094,
+      "word": "肖战虞书欣白鹿今日微博开屏",
+      "onboard_time": 1686022409,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1995,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218510,
+      "num": 218510,
+      "word": "YG和SMTOWN好像都一个样",
+      "onboard_time": 1686021929,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217842,
       "num": 217842,
       "word": "代号鸢",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1685944708,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216931,
+      "num": 216931,
+      "word": "迪丽热巴金智秀周也江疏影同品牌大片",
+      "onboard_time": 1686021929,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216143,
@@ -2267,14 +2315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191097,
-      "num": 191097,
-      "word": "全员加速中3要来了",
-      "onboard_time": 1686021689,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "尤长靖 祝福所有考生破浪逐新",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1686017128,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186140,
+      "num": 186140,
+      "word": "万达员工午餐时间玩手机被通报",
+      "onboard_time": 1686022228,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 185594,
@@ -2651,6 +2699,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "杨天真谈高考错失保送北大",
+      "onboard_time": 1686022288,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160670,
       "num": 160670,
       "word": "还有什么是smtown干不出来的",
@@ -2737,6 +2793,14 @@
       "onboard_time": 1685970088,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154979,
+      "num": 154979,
+      "word": "女儿关店带截瘫妈妈自驾环游中国",
+      "onboard_time": 1686021807,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 154292,
@@ -3123,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120369,
+      "num": 515809,
+      "word": "王一博向你伸手",
+      "onboard_time": 1686020428,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120234,
       "num": 120234,
       "word": "什么人招蚊子",
@@ -3467,14 +3539,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 69732,
-      "num": 454031,
-      "word": "王一博向你伸手",
-      "onboard_time": 1686020428,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65883,
       "num": 65883,
       "word": "700多年前满是花花的画太惊艳",
@@ -3529,6 +3593,14 @@
       "onboard_time": 1685920339,
       "rank": 47,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 48817,
+      "num": 939808,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46997,
@@ -3624,14 +3696,6 @@
       "word": "上场吧少年",
       "onboard_time": 1685977292,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6083,
-      "num": 831138,
-      "word": "芒种至农事忙",
-      "onboard_time": 1686021689,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
