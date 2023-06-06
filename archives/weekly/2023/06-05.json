@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686075633421,
+  "endTime": 1686076408995,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -5273,6 +5273,14 @@
       "onboard_time": 1686049230,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 28906,
+      "num": 33347,
+      "word": "龚俊发七彩祥云祝福高考生",
+      "onboard_time": 1686076035,
+      "rank": 48,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 24151,

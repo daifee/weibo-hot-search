@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/05 00:21:01 ~ 2023/06/07 02:20:33
+本榜单时间：2023/06/05 00:21:01 ~ 2023/06/07 02:33:28
 </p>
 </blockquote>
 <p>
@@ -3965,6 +3965,12 @@ YouAintRight高能四分钟（热度：38881）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E6%89%8B%E5%8C%85%23" target="weibo">
 杀手包（热度：34937）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%91%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
+龚俊发七彩祥云祝福高考生（热度：28906）
 </a>
 </li>
 

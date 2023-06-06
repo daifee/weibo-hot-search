@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/07 00:22:04 ~ 2023/06/07 02:20:33
+本榜单时间：2023/06/07 00:22:04 ~ 2023/06/07 02:33:28
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23" target="weibo">
 祝考生们大胜归来（热度：37287）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%91%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
+龚俊发七彩祥云祝福高考生（热度：28906）
 </a>
 </li>
 
