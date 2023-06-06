@@ -1,0 +1,410 @@
+{
+  "runTime": 1686050035156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109816,
+        "num": 2109816,
+        "word": "弟弟一眼认出流浪乞讨人员是亲哥",
+        "onboard_time": 1686044367,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852777,
+        "num": 852777,
+        "word": "绝味鸭脖股价下跌",
+        "onboard_time": 1686038787,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113129,
+        "num": 695594,
+        "word": "祝考生们大胜归来",
+        "onboard_time": 1686040107,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1246292,
+        "num": 686444,
+        "word": "我出生那天 四海八荒都沉默了",
+        "onboard_time": 1686046108,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577730,
+        "num": 577730,
+        "word": "原来丫丫有一张微笑脸",
+        "onboard_time": 1686038847,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 998712,
+        "num": 570013,
+        "word": "杭州姑娘20元刮刮乐刮中百万",
+        "onboard_time": 1686046349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202262,
+        "num": 545331,
+        "word": "电梯突发故障丈夫下意识护妻儿",
+        "onboard_time": 1686035066,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941124,
+        "num": 545218,
+        "word": "四大顶级舞担",
+        "onboard_time": 1686039627,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544787,
+        "num": 544787,
+        "word": "高考加油",
+        "onboard_time": 1686047611,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 537441,
+        "num": 537441,
+        "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
+        "onboard_time": 1686035848,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408295,
+        "num": 532990,
+        "word": "宋轶现身医院抽血采样",
+        "onboard_time": 1686044311,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 842836,
+        "num": 526743,
+        "word": "吴磊虞书欣 骄阳似我",
+        "onboard_time": 1686048269,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711930,
+        "num": 518156,
+        "word": "李健丁克的原因",
+        "onboard_time": 1686030746,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699063,
+        "num": 508683,
+        "word": "刘诗诗 天选淮竹",
+        "onboard_time": 1686048509,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31134,
+        "num": 499444,
+        "word": "杀手包",
+        "onboard_time": 1686049230,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 631676,
+        "num": 487468,
+        "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+        "onboard_time": 1686026611,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561274,
+        "num": 478913,
+        "word": "蔡徐坤 回归跑男",
+        "onboard_time": 1686040288,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540045,
+        "num": 471409,
+        "word": "种地吧直播",
+        "onboard_time": 1686041848,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462647,
+        "num": 462647,
+        "word": "车银优肿么了",
+        "onboard_time": 1686038129,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460739,
+        "num": 460739,
+        "word": "B太 我可能又被众筹了",
+        "onboard_time": 1686035246,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 483472,
+        "num": 460688,
+        "word": "胡锡进发博评鼠头鸭脖事件",
+        "onboard_time": 1686034589,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445628,
+        "num": 445628,
+        "word": "中餐厅7嘉宾",
+        "onboard_time": 1686039989,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376817,
+        "num": 376817,
+        "word": "26岁网红直播喝酒后去世",
+        "onboard_time": 1686025592,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 360421,
+        "num": 360421,
+        "word": "光与夜之恋二周年",
+        "onboard_time": 1686049827,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 358608,
+        "num": 358608,
+        "word": "鼠头",
+        "onboard_time": 1686047670,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337410,
+        "num": 337410,
+        "word": "鲍蕾晒花絮力证没给贝儿P腿",
+        "onboard_time": 1686032968,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325704,
+        "num": 325704,
+        "word": "宿舍混住导致女孩被羞辱已轻生",
+        "onboard_time": 1686049469,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325067,
+        "num": 325067,
+        "word": "种地吧感恩音乐会",
+        "onboard_time": 1686043349,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279931,
+        "num": 279931,
+        "word": "张云龙狐妖小红娘路透",
+        "onboard_time": 1686044789,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270996,
+        "num": 270996,
+        "word": "陈都灵黑长直齐刘海",
+        "onboard_time": 1686047911,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240701,
+        "num": 240701,
+        "word": "何赛飞狂亲贾静雯半分钟",
+        "onboard_time": 1686036386,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228824,
+        "num": 228824,
+        "word": "肖战看到毛线球两眼放光",
+        "onboard_time": 1686049530,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223977,
+        "num": 223977,
+        "word": "要怎么证明是鼠头还是鸭脖",
+        "onboard_time": 1686037528,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216129,
+        "num": 216129,
+        "word": "番位 烫手",
+        "onboard_time": 1686030325,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211668,
+        "num": 211668,
+        "word": "刘宇又不是去参加高考",
+        "onboard_time": 1686048989,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199665,
+        "num": 199665,
+        "word": "减肥的核心 断社交",
+        "onboard_time": 1686047130,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183214,
+        "num": 183214,
+        "word": "端着碗吃饭竟然是不礼貌的",
+        "onboard_time": 1686047429,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181360,
+        "num": 181360,
+        "word": "广东明确停课不停考",
+        "onboard_time": 1686049469,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150114,
+        "num": 150114,
+        "word": "动物专家称争议鸭脖大概率为鼠头",
+        "onboard_time": 1686049890,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147011,
+        "num": 147011,
+        "word": "张踩铃老公给铁岭考生助力紫腚能行",
+        "onboard_time": 1686047189,
+        "rank": 39,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 145149,
+        "num": 145149,
+        "word": "丫丫晒太阳啃竹子画面超幸福",
+        "onboard_time": 1686047130,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143206,
+        "num": 143206,
+        "word": "三分野大结局",
+        "onboard_time": 1686050008,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142783,
+        "num": 142783,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1686048570,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136302,
+        "num": 136302,
+        "word": "7旬外公备战高考孙子陪考",
+        "onboard_time": 1686049108,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135487,
+        "num": 135487,
+        "word": "前生的泪 来世的痣",
+        "onboard_time": 1686045209,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133149,
+        "num": 133149,
+        "word": "苹果Vision Pro梗图",
+        "onboard_time": 1686044789,
+        "rank": 45,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 129646,
+        "num": 129646,
+        "word": "果然时尚是个轮回",
+        "onboard_time": 1686045932,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128388,
+        "num": 128388,
+        "word": "原来无痛针是这么打的",
+        "onboard_time": 1686040588,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127543,
+        "num": 127543,
+        "word": "专家称要警惕终身不婚不育情况",
+        "onboard_time": 1686017487,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126204,
+        "num": 126204,
+        "word": "刘亦菲开工",
+        "onboard_time": 1686028649,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族的自信之源#"
+    }
+  }
+}
