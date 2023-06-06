@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686020189620,
+  "endTime": 1686020668798,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -75,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1032180,
+      "raw_hot": 1087116,
       "num": 828688,
       "word": "向佐郭碧婷牵手逛街",
       "onboard_time": 1686016887,
@@ -219,6 +219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 528940,
+      "num": 528940,
+      "word": "黄奕发博支持49岁高考妈妈",
+      "onboard_time": 1686017846,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 510288,
       "num": 363467,
       "word": "鸭圣婆 杰克辣条",
@@ -233,6 +241,14 @@
       "onboard_time": 1685982684,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456259,
+      "num": 456259,
+      "word": "沈月说得到了失去的八分钟",
+      "onboard_time": 1686019049,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 439284,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 426776,
-      "num": 310043,
+      "num": 367876,
       "word": "专家称要警惕终身不婚不育情况",
       "onboard_time": 1686017487,
       "rank": 22,
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388778,
-      "num": 388778,
-      "word": "黄奕发博支持49岁高考妈妈",
-      "onboard_time": 1686017846,
-      "rank": 15,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 383709,
       "num": 234196,
       "word": "高考700分和存款700万你选哪个",
@@ -313,14 +321,6 @@
       "onboard_time": 1685964207,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356714,
-      "num": 356714,
-      "word": "沈月说得到了失去的八分钟",
-      "onboard_time": 1686019049,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 350747,
@@ -355,6 +355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 327040,
+      "num": 327040,
+      "word": "吴京杰森斯坦森早在几百年前就说过爱你",
+      "onboard_time": 1686018565,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326928,
       "num": 326928,
       "word": "光与夜之恋",
@@ -379,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303581,
-      "num": 303581,
-      "word": "吴京杰森斯坦森早在几百年前就说过爱你",
-      "onboard_time": 1686018565,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 315194,
+      "num": 315194,
+      "word": "光遇",
+      "onboard_time": 1686020366,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 300561,
@@ -419,6 +427,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 286685,
+      "num": 286685,
+      "word": "齐司礼",
+      "onboard_time": 1686019648,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283555,
       "num": 283555,
       "word": "第一次见YG公关部这么迅速",
@@ -451,6 +467,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 261797,
+      "num": 261797,
+      "word": "刘宇新歌AYO上线",
+      "onboard_time": 1686020188,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 260006,
+      "num": 260006,
+      "word": "陆沉",
+      "onboard_time": 1686020247,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259371,
       "num": 180870,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -481,6 +513,14 @@
       "onboard_time": 1686011494,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243395,
+      "num": 243395,
+      "word": "李荣浩高考保留节目",
+      "onboard_time": 1686019588,
+      "rank": 33,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 243014,
@@ -539,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226012,
+      "num": 226012,
+      "word": "三贵情史",
+      "onboard_time": 1686019709,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -555,12 +603,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215484,
-      "num": 215484,
-      "word": "李荣浩高考保留节目",
-      "onboard_time": 1686019588,
-      "rank": 33,
-      "category": "艺人,教育"
+      "raw_hot": 216143,
+      "num": 216143,
+      "word": "王源献唱疯狂元素城主题曲",
+      "onboard_time": 1686019947,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210638,
+      "num": 210638,
+      "word": "把海底捞变成维也纳金色大厅",
+      "onboard_time": 1686017968,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 209102,
@@ -571,26 +627,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206371,
-      "num": 206371,
-      "word": "齐司礼",
-      "onboard_time": 1686019648,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 204580,
+      "num": 204580,
+      "word": "曹斐然和杨洋是校友",
+      "onboard_time": 1686019890,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 203503,
       "num": 203503,
       "word": "夏天穿洞洞鞋出门的后果",
       "onboard_time": 1686011371,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 202606,
-      "num": 202606,
-      "word": "把海底捞变成维也纳金色大厅",
-      "onboard_time": 1686017968,
       "rank": 37,
       "category": "幽默"
     },
@@ -635,22 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189881,
-      "num": 189881,
-      "word": "三贵情史",
-      "onboard_time": 1686019709,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 189858,
-      "num": 189858,
-      "word": "王源献唱疯狂元素城主题曲",
-      "onboard_time": 1686019947,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189422,
       "num": 201493,
       "word": "30岁也不过是12岁的大人",
@@ -659,12 +691,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189259,
+      "num": 396387,
+      "word": "交警拦车俯身救小猫太有爱了",
+      "onboard_time": 1686018688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187958,
       "num": 116554,
       "word": "老师上网课儿子在后面捣乱",
       "onboard_time": 1686006260,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187593,
+      "num": 187593,
+      "word": "郭碧婷的头发好多",
+      "onboard_time": 1686019827,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186253,
@@ -731,28 +779,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 165680,
-      "num": 165680,
-      "word": "郭碧婷的头发好多",
-      "onboard_time": 1686019827,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164384,
       "num": 98862,
       "word": "AppleVisionPro售价",
       "onboard_time": 1685992393,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 163825,
-      "num": 163825,
-      "word": "曹斐然和杨洋是校友",
-      "onboard_time": 1686019890,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 163388,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 133115,
-      "num": 274217,
+      "num": 367940,
       "word": "荣耀90开辟手机护眼新赛道",
       "onboard_time": 1686019168,
       "rank": 26,
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 116771,
-      "num": 271354,
+      "num": 274016,
       "word": "可以养胃的三种常见食物",
       "onboard_time": 1686008366,
       "rank": 29,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1686000971,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97119,
-      "num": 396387,
-      "word": "交警拦车俯身救小猫太有爱了",
-      "onboard_time": 1686018688,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94648,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1685994792,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20185,
+      "num": 398504,
+      "word": "王一博向你伸手",
+      "onboard_time": 1686020428,
+      "rank": 14,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
