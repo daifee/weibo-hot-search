@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686055941426,
+  "endTime": 1686057616933,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2800496,
-      "num": 594661,
+      "num": 698514,
       "word": "赵琦君杨凯雯领证",
       "onboard_time": 1686054388,
       "rank": 11,
@@ -193,6 +193,14 @@
       "onboard_time": 1685979988,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2273063,
+      "num": 2273063,
+      "word": "人体最大的器官是什么",
+      "onboard_time": 1686051569,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2223234,
@@ -433,6 +441,14 @@
       "onboard_time": 1685880146,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1867042,
+      "num": 1867042,
+      "word": "叶国华已被移出群聊",
+      "onboard_time": 1686054748,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 1841672,
@@ -715,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1570827,
-      "num": 1570827,
-      "word": "人体最大的器官是什么",
-      "onboard_time": 1686051569,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1537274,
       "num": 1537274,
       "word": "徐开骋被AI换脸",
@@ -745,6 +753,14 @@
       "onboard_time": 1685705015,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1522821,
+      "num": 1522821,
+      "word": "鹭卓好稳",
+      "onboard_time": 1686055830,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1522427,
@@ -1588,7 +1604,7 @@
     },
     {
       "raw_hot": 998712,
-      "num": 841172,
+      "num": 911571,
       "word": "杭州姑娘20元刮刮乐刮中百万",
       "onboard_time": 1686046349,
       "rank": 42,
@@ -1707,14 +1723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 941943,
-      "num": 941943,
-      "word": "叶国华已被移出群聊",
-      "onboard_time": 1686054748,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1685863948,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 931472,
+      "num": 931472,
+      "word": "林徽因名字 文化版的招娣",
+      "onboard_time": 1686052350,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 927305,
@@ -3697,14 +3713,6 @@
       "onboard_time": 1685693370,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444925,
-      "num": 444925,
-      "word": "林徽因名字 文化版的招娣",
-      "onboard_time": 1686052350,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 443920,
@@ -5683,6 +5691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 296056,
+      "num": 296056,
+      "word": "肖战新剧微博开分8.3",
+      "onboard_time": 1686054570,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295998,
       "num": 295998,
       "word": "李艾说父亲追悼会上我和我妈都没有哭",
@@ -6241,14 +6257,6 @@
       "onboard_time": 1685690067,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276399,
-      "num": 276399,
-      "word": "肖战新剧微博开分8.3",
-      "onboard_time": 1686054570,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 276146,
@@ -6963,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250668,
+      "num": 250668,
+      "word": "种地吧节目单",
+      "onboard_time": 1686056793,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250666,
       "num": 250666,
       "word": "如果月入三万你愿意去送外卖吗",
@@ -7179,6 +7195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242187,
+      "num": 242187,
+      "word": "朱一龙直播",
+      "onboard_time": 1686056613,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242154,
       "num": 242154,
       "word": "杨超越工作室回应模仿争议",
@@ -7369,14 +7393,6 @@
       "onboard_time": 1685712574,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237175,
-      "num": 164433,
-      "word": "鹭卓好稳",
-      "onboard_time": 1686055830,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 237122,
@@ -8844,7 +8860,7 @@
     },
     {
       "raw_hot": 200549,
-      "num": 1230212,
+      "num": 1616359,
       "word": "一起为2023高考生加油",
       "onboard_time": 1686053906,
       "rank": 2,
@@ -9129,6 +9145,14 @@
       "onboard_time": 1685957669,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 194011,
+      "num": 194011,
+      "word": "有人问你有没有男朋友该怎么回",
+      "onboard_time": 1686053608,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 193780,
@@ -10435,6 +10459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166913,
+      "num": 166913,
+      "word": "四川考生摸985车牌沾好运",
+      "onboard_time": 1686055468,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 166865,
       "num": 166865,
       "word": "偶遇毛不易看五月天演唱会",
@@ -10851,14 +10883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158152,
-      "num": 158152,
-      "word": "有人问你有没有男朋友该怎么回",
-      "onboard_time": 1686053608,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 158151,
       "num": 158151,
       "word": "高迪找狗",
@@ -11193,14 +11217,6 @@
       "onboard_time": 1685617408,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151162,
-      "num": 151162,
-      "word": "四川考生摸985车牌沾好运",
-      "onboard_time": 1686055468,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151149,
@@ -11697,6 +11713,14 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136351,
+      "num": 132515,
+      "word": "乌克兰大坝被炸",
+      "onboard_time": 1686057090,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136302,
@@ -13051,6 +13075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 96886,
+      "num": 514995,
+      "word": "男生毕业前将学校建模装进电脑",
+      "onboard_time": 1686056430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96722,
       "num": 96130,
       "word": "圆梦乘组梦圆归来",
@@ -14345,6 +14377,14 @@
       "onboard_time": 1685644813,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11657,
+      "num": 159648,
+      "word": "王耀庆直播上海话版UncleWang",
+      "onboard_time": 1686056430,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 9934,
