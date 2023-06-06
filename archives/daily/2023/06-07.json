@@ -1,7 +1,15 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686090833752,
+  "endTime": 1686093384643,
   "band_list": [
+    {
+      "raw_hot": 2233081,
+      "num": 2233081,
+      "word": "高考",
+      "onboard_time": 1686092659,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 1269283,
       "num": 1269283,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367188,
+      "num": 367188,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291553,
       "num": 183399,
       "word": "我出生那天 四海八荒都沉默了",
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231852,
-      "num": 231852,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230850,
       "num": 230850,
       "word": "吴磊虞书欣 骄阳似我",
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223841,
+      "num": 223841,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220972,
       "num": 220972,
       "word": "李健丁克的原因",
@@ -193,6 +209,22 @@
       "onboard_time": 1686066511,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201150,
+      "num": 201150,
+      "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+      "onboard_time": 1686092600,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198930,
+      "num": 198930,
+      "word": "很难忘记周深的高考祝福",
+      "onboard_time": 1686066030,
+      "rank": 33,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 189025,
@@ -227,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173682,
-      "num": 173682,
-      "word": "很难忘记周深的高考祝福",
-      "onboard_time": 1686066030,
-      "rank": 33,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 163600,
       "num": 163600,
       "word": "有人问你有没有男朋友该怎么回",
@@ -248,6 +272,14 @@
       "word": "宝妈因孩子吃了同学生日蛋糕发飙",
       "onboard_time": 1686026611,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158978,
+      "num": 158978,
+      "word": "古代状元到底是什么水平",
+      "onboard_time": 1686092600,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -275,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150687,
+      "num": 150687,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 148336,
       "num": 148336,
       "word": "陈少熙发言好哭",
       "onboard_time": 1686063091,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146653,
+      "num": 146653,
+      "word": "加油高考",
+      "onboard_time": 1686089895,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 145503,
@@ -315,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138703,
-      "num": 138703,
-      "word": "大熊猫萌兰吃窝头突然定了十几秒",
-      "onboard_time": 1686067647,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136911,
       "num": 136911,
       "word": "三分野",
@@ -355,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127871,
+      "num": 127871,
+      "word": "失业的中年人涌进星巴克",
+      "onboard_time": 1686092659,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117174,
       "num": 117174,
       "word": "三分野大结局",
@@ -379,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114367,
+      "num": 114367,
+      "word": "6年前忘带准考证受助考生成交警新同事",
+      "onboard_time": 1686092600,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 108786,
       "num": 108786,
       "word": "王菲那英好甜",
@@ -395,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107395,
+      "num": 107395,
+      "word": "男子承包三餐只为督促妻子多吃点",
+      "onboard_time": 1686069623,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100815,
       "num": 100815,
       "word": "种地吧感恩音乐会",
       "onboard_time": 1686043349,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99099,
+      "num": 99099,
+      "word": "2023高考第一天",
+      "onboard_time": 1686092840,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 97819,
@@ -411,12 +483,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94757,
-      "num": 94757,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "11岁男孩开电动车失控撞死3岁男童",
+      "onboard_time": 1686092600,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87134,
@@ -427,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84619,
-      "num": 84619,
-      "word": "男子承包三餐只为督促妻子多吃点",
-      "onboard_time": 1686069623,
+      "raw_hot": 82308,
+      "num": 82308,
+      "word": "张雨绮说孟子义独立女性结什么婚",
+      "onboard_time": 1686091278,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74777,
+      "num": 74777,
+      "word": "马斯克称未来房价下跌将加速",
+      "onboard_time": 1686092781,
       "rank": 41,
-      "category": "社会新闻"
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 69172,
@@ -443,12 +523,52 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 69127,
+      "num": 69127,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68188,
+      "num": 68188,
+      "word": "高考不是实现梦想的唯一途径",
+      "onboard_time": 1686092659,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 67996,
       "num": 67996,
       "word": "鞠婧祎郭俊辰好会亲",
       "onboard_time": 1686069143,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67675,
+      "num": 67675,
+      "word": "高考生考前一天弄丢身份证",
+      "onboard_time": 1686093260,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 67574,
+      "num": 67574,
+      "word": "鼠头受害股",
+      "onboard_time": 1686076933,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 63807,
+      "num": 63807,
+      "word": "失眠",
+      "onboard_time": 1686093321,
+      "rank": 48,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 58492,
@@ -467,20 +587,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 46046,
-      "num": 48399,
-      "word": "鼠头受害股",
-      "onboard_time": 1686076933,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 44954,
-      "num": 48519,
-      "word": "加油高考",
-      "onboard_time": 1686089895,
-      "rank": 32,
-      "category": "社会新闻,教育"
+      "raw_hot": 52110,
+      "num": 684766,
+      "word": "首艘国产大型邮轮爱达魔都号出坞",
+      "onboard_time": 1686053788,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43365,
@@ -489,14 +601,6 @@
       "onboard_time": 1686086532,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 43216,
-      "num": 48471,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39253,
@@ -523,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32575,
+      "num": 77038,
+      "word": "为1291万考生祝福",
+      "onboard_time": 1686091337,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 30556,
       "num": 48358,
       "word": "梦海 诠释人性的转变",
@@ -545,14 +657,6 @@
       "onboard_time": 1686086532,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23369,
-      "num": 684766,
-      "word": "首艘国产大型邮轮爱达魔都号出坞",
-      "onboard_time": 1686053788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18803,

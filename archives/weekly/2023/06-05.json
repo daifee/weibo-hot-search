@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686090833752,
+  "endTime": 1686093384643,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -105,6 +105,14 @@
       "onboard_time": 1686063992,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2233081,
+      "num": 2233081,
+      "word": "高考",
+      "onboard_time": 1686092659,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2183531,
@@ -1627,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367188,
+      "num": 367188,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366340,
       "num": 366340,
       "word": "男老师被骗没毕业鲜花转头暖哭",
@@ -2699,14 +2715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231852,
-      "num": 231852,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231830,
       "num": 231830,
       "word": "全员加速中定档610",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1686012449,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223841,
+      "num": 223841,
+      "word": "大熊猫萌兰吃窝头突然定了十几秒",
+      "onboard_time": 1686067647,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222299,
@@ -3227,6 +3243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201150,
+      "num": 201150,
+      "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+      "onboard_time": 1686092600,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201021,
       "num": 201021,
       "word": "死亡搁浅将登陆Mac",
@@ -3265,6 +3289,14 @@
       "onboard_time": 1686047130,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 198930,
+      "num": 198930,
+      "word": "很难忘记周深的高考祝福",
+      "onboard_time": 1686066030,
+      "rank": 33,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 198578,
@@ -3731,14 +3763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173682,
-      "num": 173682,
-      "word": "很难忘记周深的高考祝福",
-      "onboard_time": 1686066030,
-      "rank": 33,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 173126,
       "num": 173126,
       "word": "古力娜扎诉洗护产品侵权获赔",
@@ -3971,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158978,
+      "num": 158978,
+      "word": "古代状元到底是什么水平",
+      "onboard_time": 1686092600,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158755,
       "num": 158755,
       "word": "周冠宇",
@@ -4115,6 +4147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150687,
+      "num": 150687,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 150357,
       "num": 146831,
       "word": "肖春生直球拒绝暧昧",
@@ -4153,6 +4193,14 @@
       "onboard_time": 1685958749,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146653,
+      "num": 146653,
+      "word": "加油高考",
+      "onboard_time": 1686089895,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 146476,
@@ -4297,14 +4345,6 @@
       "onboard_time": 1686065250,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138703,
-      "num": 138703,
-      "word": "大熊猫萌兰吃窝头突然定了十几秒",
-      "onboard_time": 1686067647,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138401,
@@ -4513,6 +4553,14 @@
       "onboard_time": 1685921241,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127871,
+      "num": 127871,
+      "word": "失业的中年人涌进星巴克",
+      "onboard_time": 1686092659,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127551,
@@ -4739,6 +4787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114367,
+      "num": 114367,
+      "word": "6年前忘带准考证受助考生成交警新同事",
+      "onboard_time": 1686092600,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 114250,
       "num": 114250,
       "word": "钢笔还给我爸爸",
@@ -4785,6 +4841,14 @@
       "onboard_time": 1686042087,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 107395,
+      "num": 107395,
+      "word": "男子承包三餐只为督促妻子多吃点",
+      "onboard_time": 1686069623,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106847,
@@ -4859,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99099,
+      "num": 99099,
+      "word": "2023高考第一天",
+      "onboard_time": 1686092840,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 98550,
       "num": 98550,
       "word": "林允儿看金泰妍演唱会vlog",
@@ -4891,20 +4963,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "11岁男孩开电动车失控撞死3岁男童",
+      "onboard_time": 1686092600,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95902,
       "num": 95902,
       "word": "2条丝巾变古装",
       "onboard_time": 1685963847,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94757,
-      "num": 94757,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 94648,
@@ -4995,14 +5067,6 @@
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 84619,
-      "num": 84619,
-      "word": "男子承包三餐只为督促妻子多吃点",
-      "onboard_time": 1686069623,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84376,
       "num": 145785,
       "word": "讲台上严厉的老师也会偷偷抹泪",
@@ -5051,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82308,
+      "num": 82308,
+      "word": "张雨绮说孟子义独立女性结什么婚",
+      "onboard_time": 1686091278,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80006,
       "num": 80006,
       "word": "watchOS 10 史努比表盘",
@@ -5065,6 +5137,14 @@
       "onboard_time": 1686042030,
       "rank": 14,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 74777,
+      "num": 74777,
+      "word": "马斯克称未来房价下跌将加速",
+      "onboard_time": 1686092781,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 70924,
@@ -5083,12 +5163,44 @@
       "category": "科技"
     },
     {
+      "raw_hot": 69127,
+      "num": 69127,
+      "word": "男明星的牙",
+      "onboard_time": 1686078432,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68188,
+      "num": 68188,
+      "word": "高考不是实现梦想的唯一途径",
+      "onboard_time": 1686092659,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 67996,
       "num": 67996,
       "word": "鞠婧祎郭俊辰好会亲",
       "onboard_time": 1686069143,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67675,
+      "num": 67675,
+      "word": "高考生考前一天弄丢身份证",
+      "onboard_time": 1686093260,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 67574,
+      "num": 67574,
+      "word": "鼠头受害股",
+      "onboard_time": 1686076933,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 66360,
@@ -5121,6 +5233,14 @@
       "onboard_time": 1685895026,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 63807,
+      "num": 63807,
+      "word": "失眠",
+      "onboard_time": 1686093321,
+      "rank": 48,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 61803,
@@ -5160,6 +5280,14 @@
       "word": "轿车淹没前民警1分钟内连救男子2次",
       "onboard_time": 1685959288,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52110,
+      "num": 684766,
+      "word": "首艘国产大型邮轮爱达魔都号出坞",
+      "onboard_time": 1686053788,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5203,22 +5331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46046,
-      "num": 48399,
-      "word": "鼠头受害股",
-      "onboard_time": 1686076933,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 44954,
-      "num": 48519,
-      "word": "加油高考",
-      "onboard_time": 1686089895,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 44276,
       "num": 57850,
       "word": "梦中的那片海版换乘恋爱",
@@ -5233,14 +5345,6 @@
       "onboard_time": 1686086532,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 43216,
-      "num": 48471,
-      "word": "男明星的牙",
-      "onboard_time": 1686078432,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 41371,
@@ -5323,6 +5427,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 32575,
+      "num": 77038,
+      "word": "为1291万考生祝福",
+      "onboard_time": 1686091337,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 30556,
       "num": 48358,
       "word": "梦海 诠释人性的转变",
@@ -5352,14 +5464,6 @@
       "word": "聚焦全国高考",
       "onboard_time": 1685914272,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23369,
-      "num": 684766,
-      "word": "首艘国产大型邮轮爱达魔都号出坞",
-      "onboard_time": 1686053788,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

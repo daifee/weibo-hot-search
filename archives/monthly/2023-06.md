@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/07 06:33:53
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/07 07:16:24
 </p>
 </blockquote>
 <p>
@@ -179,6 +179,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%9A%84%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9596%E5%88%86%23" target="weibo">
 娜扎的高考成绩596分（热度：2263419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
+高考（热度：2233081）
 </a>
 </li>
 
@@ -3423,6 +3429,12 @@ seventeen目前年龄（热度：372009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
+小伙被吸入涵洞口30人紧紧拉回（热度：367188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%80%81%E5%B8%88%E8%A2%AB%E9%AA%97%E6%B2%A1%E6%AF%95%E4%B8%9A%E9%B2%9C%E8%8A%B1%E8%BD%AC%E5%A4%B4%E6%9A%96%E5%93%AD%23" target="weibo">
 男老师被骗没毕业鲜花转头暖哭（热度：366340）
 </a>
@@ -5841,12 +5853,6 @@ M2 Ultra（热度：234230）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
-小伙被吸入涵洞口30人紧紧拉回（热度：231852）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E5%AE%9A%E6%A1%A3610%23" target="weibo">
 全员加速中定档610（热度：231830）
 </a>
@@ -6005,12 +6011,6 @@ ff14（热度：226863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E9%80%89%E6%B8%85%E5%8D%8E%23" target="weibo">
 当年高考为什么不选清华（热度：226609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%B4%B5%E6%83%85%E5%8F%B2%23" target="weibo">
-三贵情史（热度：226012）
 </a>
 </li>
 
