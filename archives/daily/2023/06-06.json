@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686051233032,
+  "endTime": 1686054912457,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1340813,
+      "num": 1340813,
+      "word": "广东明确停课不停考",
+      "onboard_time": 1686049469,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1277064,
       "num": 1277064,
       "word": "向佐郭碧婷牵手逛街",
@@ -163,6 +171,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1240195,
+      "num": 1240195,
+      "word": "人体最大的器官是什么",
+      "onboard_time": 1686051569,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223087,
+      "num": 1223087,
+      "word": "动物专家称争议鸭脖大概率为鼠头",
+      "onboard_time": 1686049890,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1204581,
       "num": 1080209,
       "word": "鲍蕾晒花絮力证没给贝儿P腿",
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 1201069,
-      "num": 737964,
+      "num": 1119099,
       "word": "吴磊虞书欣 骄阳似我",
       "onboard_time": 1686048269,
       "rank": 11,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 998712,
-      "num": 631370,
+      "num": 777480,
       "word": "杭州姑娘20元刮刮乐刮中百万",
       "onboard_time": 1686046349,
       "rank": 42,
@@ -459,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560869,
+      "num": 560869,
+      "word": "赵琦君杨凯雯领证",
+      "onboard_time": 1686054388,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559589,
       "num": 559589,
       "word": "男子做冷门工作10年带火2个生僻字",
@@ -563,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460478,
+      "num": 460478,
+      "word": "李宇春 抢票",
+      "onboard_time": 1686054628,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -643,28 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400987,
-      "num": 400987,
-      "word": "广东明确停课不停考",
-      "onboard_time": 1686049469,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 398165,
       "num": 398165,
       "word": "孙怡对汤晶媚说你不要在这道德绑架我",
       "onboard_time": 1685959708,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388045,
-      "num": 388045,
-      "word": "动物专家称争议鸭脖大概率为鼠头",
-      "onboard_time": 1686049890,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383709,
@@ -729,6 +753,14 @@
       "onboard_time": 1686014010,
       "rank": 22,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 349021,
+      "num": 349021,
+      "word": "林徽因名字 文化版的招娣",
+      "onboard_time": 1686052350,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 348542,
@@ -819,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323062,
+      "num": 323062,
+      "word": "王菲那英好甜",
+      "onboard_time": 1686053069,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315548,
       "num": 315548,
       "word": "肖战看到毛线球两眼放光",
@@ -897,6 +937,14 @@
       "onboard_time": 1685984898,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 290561,
+      "num": 290561,
+      "word": "三分野大结局",
+      "onboard_time": 1686050008,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 287752,
@@ -1099,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234488,
-      "num": 234488,
-      "word": "三分野大结局",
-      "onboard_time": 1686050008,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234230,
       "num": 234230,
       "word": "M2 Ultra",
@@ -1219,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224989,
+      "num": 224989,
+      "word": "叶国华已被移出群聊",
+      "onboard_time": 1686054748,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224856,
       "num": 224856,
       "word": "员工午休时间可以自由支配吗",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1686028469,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218939,
+      "num": 218939,
+      "word": "鞠婧祎白鹿相似造型",
+      "onboard_time": 1686052407,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 218838,
@@ -1320,6 +1376,14 @@
       "word": "WE对战UP",
       "onboard_time": 1686046410,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209633,
+      "num": 209633,
+      "word": "光与夜之恋直播",
+      "onboard_time": 1686054328,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -1409,6 +1473,14 @@
       "onboard_time": 1685987834,
       "rank": 7,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 200549,
+      "num": 1230212,
+      "word": "一起为2023高考生加油",
+      "onboard_time": 1686053906,
+      "rank": 2,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 199665,
@@ -1515,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188866,
+      "num": 188866,
+      "word": "肖战新剧微博开分8.3",
+      "onboard_time": 1686054570,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187958,
       "num": 116554,
       "word": "老师上网课儿子在后面捣乱",
@@ -1585,6 +1665,14 @@
       "onboard_time": 1685978190,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179893,
+      "num": 179893,
+      "word": "高考临近 全国都在紧张",
+      "onboard_time": 1686050129,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 179475,
@@ -1833,6 +1921,14 @@
       "onboard_time": 1686047130,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144486,
+      "num": 144486,
+      "word": "赵露思新剧播出实绩",
+      "onboard_time": 1686051508,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 144150,
@@ -2091,12 +2187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113523,
+      "num": 113523,
+      "word": "NIP对战TES",
+      "onboard_time": 1686054628,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112815,
       "num": 112815,
       "word": "初级会计",
       "onboard_time": 1685968227,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111255,
+      "num": 111255,
+      "word": "有人问你有没有男朋友该怎么回",
+      "onboard_time": 1686053608,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 109716,
@@ -2123,20 +2235,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 106854,
-      "num": 106854,
-      "word": "高考临近 全国都在紧张",
-      "onboard_time": 1686050129,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "蜗牛是如何跨越沟壑的",
       "onboard_time": 1686033148,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105599,
+      "num": 105599,
+      "word": "手工耿移动钢琴烤串车",
+      "onboard_time": 1686052288,
+      "rank": 47,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 104427,
@@ -2151,6 +2263,14 @@
       "num": 414591,
       "word": "公交师傅等红灯间隙救了个人",
       "onboard_time": 1686040169,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100131,
+      "num": 497781,
+      "word": "学生高举字条用监控和老师交流发试卷",
+      "onboard_time": 1686052827,
       "rank": 14,
       "category": "社会新闻"
     },
