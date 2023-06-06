@@ -1,0 +1,410 @@
+{
+  "runTime": 1686025182500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3044586,
+        "num": 3044586,
+        "word": "丫丫",
+        "onboard_time": 1686021208,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293525,
+        "num": 1293525,
+        "word": "万达员工午餐时间玩手机被通报",
+        "onboard_time": 1686022228,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 86439,
+        "num": 1184484,
+        "word": "芒种至农事忙",
+        "onboard_time": 1686021689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114189,
+        "num": 1114189,
+        "word": "向佐郭碧婷牵手逛街",
+        "onboard_time": 1686016887,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007209,
+        "num": 1007209,
+        "word": "谢娜四公 没拉票",
+        "onboard_time": 1686021388,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 998157,
+        "num": 998157,
+        "word": "在欧洲千万不要轻易蹲地上",
+        "onboard_time": 1686010771,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 966673,
+        "num": 966673,
+        "word": "秋瓷炫四公 淘汰",
+        "onboard_time": 1686021448,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736377,
+        "num": 736377,
+        "word": "明天高考",
+        "onboard_time": 1686007764,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 585795,
+        "num": 585795,
+        "word": "全员加速中3要来了",
+        "onboard_time": 1686021689,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585194,
+        "num": 585194,
+        "word": "黄奕发博支持49岁高考妈妈",
+        "onboard_time": 1686017846,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 822919,
+        "num": 581413,
+        "word": "PDD直播弹幕",
+        "onboard_time": 1686012992,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 551889,
+        "num": 551889,
+        "word": "长牙的鸭脖令人如鲠在喉",
+        "onboard_time": 1686007704,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502716,
+        "num": 502716,
+        "word": "肖战虞书欣白鹿今日微博开屏",
+        "onboard_time": 1686022409,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470353,
+        "num": 470353,
+        "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
+        "onboard_time": 1686012511,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470231,
+        "num": 470231,
+        "word": "北京动物园",
+        "onboard_time": 1686022468,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462925,
+        "num": 462925,
+        "word": "高考倒计时",
+        "onboard_time": 1686014909,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407344,
+        "num": 407344,
+        "word": "无美颜镜头下的杨紫",
+        "onboard_time": 1686022048,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405305,
+        "num": 405305,
+        "word": "吴倩 退赛",
+        "onboard_time": 1685979988,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324267,
+        "num": 324267,
+        "word": "陈采尼回应抄袭争议",
+        "onboard_time": 1686024392,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303868,
+        "num": 303868,
+        "word": "李沁戏份",
+        "onboard_time": 1685982684,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2038925,
+        "num": 302954,
+        "word": "专家称要警惕终身不婚不育情况",
+        "onboard_time": 1686017487,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579864,
+        "num": 302593,
+        "word": "3499美元的苹果头显值得买吗",
+        "onboard_time": 1686008003,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 516701,
+        "num": 301333,
+        "word": "没想到经常挖鼻孔会影响颜值",
+        "onboard_time": 1686012511,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293786,
+        "num": 300053,
+        "word": "迪丽热巴金智秀周也江疏影同品牌大片",
+        "onboard_time": 1686021929,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145192,
+        "num": 299071,
+        "word": "为高考拼过的日夜",
+        "onboard_time": 1686023130,
+        "rank": 24,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 512836,
+        "num": 297613,
+        "word": "不用再说HeySiri了",
+        "onboard_time": 1686009748,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 452173,
+        "num": 296816,
+        "word": "Apple Vision Pro 苹果首款头显",
+        "onboard_time": 1685989754,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 339718,
+        "num": 295975,
+        "word": "肖战将贡献颠覆以往形象的郭靖",
+        "onboard_time": 1686024451,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295112,
+        "num": 295112,
+        "word": "吴倩镜头少原因",
+        "onboard_time": 1686009087,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147749,
+        "num": 295015,
+        "word": "福岛海鱼体内放射性物质超标180倍",
+        "onboard_time": 1686024811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295006,
+        "num": 295006,
+        "word": "男老师被骗没毕业鲜花转头暖哭",
+        "onboard_time": 1686022109,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292247,
+        "num": 292247,
+        "word": "用两分钟把这个视频看到最后",
+        "onboard_time": 1686024451,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277064,
+        "num": 277064,
+        "word": "北京租房提取公积金上限调整为2000元",
+        "onboard_time": 1686024210,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 274718,
+        "num": 274718,
+        "word": "空姐未讲日语被日本女子辱骂",
+        "onboard_time": 1686006141,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260084,
+        "num": 260084,
+        "word": "杨天真谈高考错失保送北大",
+        "onboard_time": 1686022288,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243424,
+        "num": 243424,
+        "word": "绝大男人婚前婚后的生活都不会有太大变化",
+        "onboard_time": 1686015807,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231830,
+        "num": 231830,
+        "word": "全员加速中定档610",
+        "onboard_time": 1686022530,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229690,
+        "num": 229690,
+        "word": "高考加油时刻",
+        "onboard_time": 1686024633,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215737,
+        "num": 215737,
+        "word": "全员加速中",
+        "onboard_time": 1686011611,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205942,
+        "num": 205942,
+        "word": "夫妻离婚均不愿养娃法院判不许离",
+        "onboard_time": 1686006260,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201195,
+        "num": 201195,
+        "word": "肖战气氛组组长",
+        "onboard_time": 1686022769,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201125,
+        "num": 201125,
+        "word": "李荣浩高考保留节目",
+        "onboard_time": 1686019588,
+        "rank": 41,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 194005,
+        "num": 194005,
+        "word": "YG和SMTOWN好像都一个样",
+        "onboard_time": 1686021929,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193571,
+        "num": 193571,
+        "word": "白夜极光美依礼芽",
+        "onboard_time": 1686024330,
+        "rank": 43,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 191941,
+        "num": 191941,
+        "word": "光与夜之恋",
+        "onboard_time": 1686007822,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191252,
+        "num": 191252,
+        "word": "A股",
+        "onboard_time": 1686023367,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186531,
+        "num": 186531,
+        "word": "陆沉",
+        "onboard_time": 1686020247,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181534,
+        "num": 181534,
+        "word": "中国电商让韩国海关爆仓",
+        "onboard_time": 1686025113,
+        "rank": 47,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 176959,
+        "num": 176959,
+        "word": "库克 这一切你前所未见",
+        "onboard_time": 1686024992,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172620,
+        "num": 172620,
+        "word": "沈月说得到了失去的八分钟",
+        "onboard_time": 1686019049,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#高考倒计时1天#"
+    }
+  }
+}

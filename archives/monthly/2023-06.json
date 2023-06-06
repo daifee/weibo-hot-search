@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686022444193,
+  "endTime": 1686025182500,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -48,6 +48,14 @@
       "word": "石家庄小三",
       "onboard_time": 1685859987,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3044586,
+      "num": 3044586,
+      "word": "丫丫",
+      "onboard_time": 1686021208,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -248,6 +256,14 @@
       "word": "网传柳州一干部与情人聊天记录被群发",
       "onboard_time": 1685539529,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2038925,
+      "num": 1107122,
+      "word": "专家称要警惕终身不婚不育情况",
+      "onboard_time": 1686017487,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293525,
+      "num": 1293525,
+      "word": "万达员工午餐时间玩手机被通报",
+      "onboard_time": 1686022228,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1289325,
       "num": 1289325,
       "word": "吴磊 快走吧哥们要累死了",
@@ -1251,28 +1275,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1109788,
-      "num": 1109788,
-      "word": "卡卡 北京",
-      "onboard_time": 1685854348,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1109288,
-      "num": 931174,
+      "raw_hot": 1114189,
+      "num": 1114189,
       "word": "向佐郭碧婷牵手逛街",
       "onboard_time": 1686016887,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 1107122,
-      "num": 1107122,
-      "word": "专家称要警惕终身不婚不育情况",
-      "onboard_time": 1686017487,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 1109788,
+      "num": 1109788,
+      "word": "卡卡 北京",
+      "onboard_time": 1685854348,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 1105584,
@@ -1411,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1009858,
-      "num": 1009858,
-      "word": "丫丫",
-      "onboard_time": 1686021208,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 1007209,
+      "num": 1007209,
+      "word": "谢娜四公 没拉票",
+      "onboard_time": 1686021388,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003411,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1686012511,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998157,
+      "num": 998157,
+      "word": "在欧洲千万不要轻易蹲地上",
+      "onboard_time": 1686010771,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 995780,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1685748560,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 966673,
+      "num": 966673,
+      "word": "秋瓷炫四公 淘汰",
+      "onboard_time": 1686021448,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 964320,
@@ -1579,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911275,
-      "num": 911275,
-      "word": "谢娜四公 没拉票",
-      "onboard_time": 1686021388,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 888042,
       "num": 888042,
       "word": "WBG零封JDG",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1686017846,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 859095,
-      "num": 859095,
-      "word": "在欧洲千万不要轻易蹲地上",
-      "onboard_time": 1686010771,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 855032,
@@ -1795,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 822919,
+      "num": 807586,
+      "word": "PDD直播弹幕",
+      "onboard_time": 1686012992,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 821890,
       "num": 821890,
       "word": "天津碧桂园",
@@ -1857,14 +1881,6 @@
       "onboard_time": 1685925808,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 807586,
-      "num": 807586,
-      "word": "PDD直播弹幕",
-      "onboard_time": 1686012992,
-      "rank": 13,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 803185,
@@ -1945,14 +1961,6 @@
       "onboard_time": 1685795186,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774244,
-      "num": 774244,
-      "word": "秋瓷炫四公 淘汰",
-      "onboard_time": 1686021448,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 770410,
@@ -2579,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585795,
+      "num": 585795,
+      "word": "全员加速中3要来了",
+      "onboard_time": 1686021689,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584444,
       "num": 584444,
       "word": "边伯贤金珉锡金钟大称SMTOWN说谎",
@@ -2947,14 +2963,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 514766,
-      "num": 514766,
-      "word": "全员加速中3要来了",
-      "onboard_time": 1686021689,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 507598,
       "num": 253108,
       "word": "肖战 CHALI",
@@ -2985,6 +2993,14 @@
       "onboard_time": 1685614647,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 502716,
+      "num": 502716,
+      "word": "肖战虞书欣白鹿今日微博开屏",
+      "onboard_time": 1686022409,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 498870,
@@ -3185,6 +3201,14 @@
       "onboard_time": 1685879429,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470231,
+      "num": 470231,
+      "word": "北京动物园",
+      "onboard_time": 1686022468,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470177,
@@ -3689,6 +3713,14 @@
       "onboard_time": 1685621787,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 407344,
+      "num": 407344,
+      "word": "无美颜镜头下的杨紫",
+      "onboard_time": 1686022048,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407089,
@@ -4443,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339718,
+      "num": 295975,
+      "word": "肖战将贡献颠覆以往形象的郭靖",
+      "onboard_time": 1686024451,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338936,
       "num": 338936,
       "word": "迪丽热巴说安旎得继续努力啊",
@@ -4769,6 +4809,14 @@
       "onboard_time": 1685719953,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 324267,
+      "num": 324267,
+      "word": "陈采尼回应抄袭争议",
+      "onboard_time": 1686024392,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 322744,
@@ -5243,12 +5291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295006,
+      "num": 295006,
+      "word": "男老师被骗没毕业鲜花转头暖哭",
+      "onboard_time": 1686022109,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294162,
       "num": 294162,
       "word": "薛之谦演唱会拿到张杰荧光棒",
       "onboard_time": 1685870728,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293786,
+      "num": 300053,
+      "word": "迪丽热巴金智秀周也江疏影同品牌大片",
+      "onboard_time": 1686021929,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 293784,
@@ -5273,6 +5337,14 @@
       "onboard_time": 1685683951,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292247,
+      "num": 292247,
+      "word": "用两分钟把这个视频看到最后",
+      "onboard_time": 1686024451,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 291607,
@@ -5689,6 +5761,14 @@
       "onboard_time": 1685673928,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 277064,
+      "num": 277064,
+      "word": "北京租房提取公积金上限调整为2000元",
+      "onboard_time": 1686024210,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 277026,
@@ -6139,6 +6219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260084,
+      "num": 260084,
+      "word": "杨天真谈高考错失保送北大",
+      "onboard_time": 1686022288,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260025,
       "num": 260025,
       "word": "巴黎主帅确认梅西即将离队",
@@ -6579,14 +6667,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 242822,
-      "num": 242822,
-      "word": "男老师被骗没毕业鲜花转头暖哭",
-      "onboard_time": 1686022109,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242282,
       "num": 236207,
       "word": "今晚追哪部剧",
@@ -6963,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231830,
+      "num": 231830,
+      "word": "全员加速中定档610",
+      "onboard_time": 1686022530,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231656,
       "num": 231656,
       "word": "侯明昊靠脸起千楼",
@@ -7033,6 +7121,14 @@
       "onboard_time": 1685761168,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229690,
+      "num": 229690,
+      "word": "高考加油时刻",
+      "onboard_time": 1686024633,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229544,
@@ -7121,14 +7217,6 @@
       "onboard_time": 1685634086,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226786,
-      "num": 226786,
-      "word": "无美颜镜头下的杨紫",
-      "onboard_time": 1686022048,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226012,
@@ -7241,14 +7329,6 @@
       "onboard_time": 1685660781,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 224094,
-      "num": 224094,
-      "word": "肖战虞书欣白鹿今日微博开屏",
-      "onboard_time": 1686022409,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 224075,
@@ -7489,14 +7569,6 @@
       "onboard_time": 1685627012,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216931,
-      "num": 216931,
-      "word": "迪丽热巴金智秀周也江疏影同品牌大片",
-      "onboard_time": 1686021929,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216871,
@@ -8067,6 +8139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201195,
+      "num": 201195,
+      "word": "肖战气氛组组长",
+      "onboard_time": 1686022769,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201021,
       "num": 201021,
       "word": "死亡搁浅将登陆Mac",
@@ -8363,6 +8443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "白夜极光美依礼芽",
+      "onboard_time": 1686024330,
+      "rank": 43,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "农民的苦难不是流量的噱头",
@@ -8505,6 +8593,14 @@
       "onboard_time": 1685873009,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191252,
+      "num": 191252,
+      "word": "A股",
+      "onboard_time": 1686023367,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 191189,
@@ -8835,14 +8931,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 186140,
-      "num": 186140,
-      "word": "万达员工午餐时间玩手机被通报",
-      "onboard_time": 1686022228,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 185999,
       "num": 273048,
       "word": "神十五顺利撤离空间站",
@@ -9075,6 +9163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181534,
+      "num": 181534,
+      "word": "中国电商让韩国海关爆仓",
+      "onboard_time": 1686025113,
+      "rank": 47,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 181306,
       "num": 181306,
       "word": "时代少年团或将拍剧",
@@ -9225,6 +9321,14 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176959,
+      "num": 176959,
+      "word": "库克 这一切你前所未见",
+      "onboard_time": 1686024992,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 176475,
@@ -9753,14 +9857,6 @@
       "onboard_time": 1685869225,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161534,
-      "num": 161534,
-      "word": "杨天真谈高考错失保送北大",
-      "onboard_time": 1686022288,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 161090,
@@ -10371,6 +10467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147749,
+      "num": 295015,
+      "word": "福岛海鱼体内放射性物质超标180倍",
+      "onboard_time": 1686024811,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147668,
       "num": 111378,
       "word": "王一博东京出发",
@@ -10417,6 +10521,14 @@
       "onboard_time": 1685847566,
       "rank": 41,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 145192,
+      "num": 299071,
+      "word": "为高考拼过的日夜",
+      "onboard_time": 1686023130,
+      "rank": 24,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 145184,
@@ -12123,6 +12235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86439,
+      "num": 1184484,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86398,
       "num": 1272929,
       "word": "2023高考加油短片",
@@ -12808,14 +12928,6 @@
       "word": "亲手孵出来的鸸鹋宝宝",
       "onboard_time": 1685813240,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48817,
-      "num": 939808,
-      "word": "芒种至农事忙",
-      "onboard_time": 1686021689,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

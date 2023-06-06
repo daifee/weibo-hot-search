@@ -1,7 +1,15 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686022444193,
+  "endTime": 1686025182500,
   "band_list": [
+    {
+      "raw_hot": 3044586,
+      "num": 3044586,
+      "word": "丫丫",
+      "onboard_time": 1686021208,
+      "rank": 27,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2322353,
       "num": 2322353,
@@ -17,6 +25,14 @@
       "onboard_time": 1686012511,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2038925,
+      "num": 1107122,
+      "word": "专家称要警惕终身不婚不育情况",
+      "onboard_time": 1686017487,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1638983,
@@ -51,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1293525,
+      "num": 1293525,
+      "word": "万达员工午餐时间玩手机被通报",
+      "onboard_time": 1686022228,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1264547,
       "num": 1264547,
       "word": "吴倩镜头少原因",
@@ -75,20 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1109288,
-      "num": 931174,
+      "raw_hot": 1114189,
+      "num": 1114189,
       "word": "向佐郭碧婷牵手逛街",
       "onboard_time": 1686016887,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1107122,
-      "num": 1107122,
-      "word": "专家称要警惕终身不婚不育情况",
-      "onboard_time": 1686017487,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1014291,
@@ -99,12 +115,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1009858,
-      "num": 1009858,
-      "word": "丫丫",
-      "onboard_time": 1686021208,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 1007209,
+      "num": 1007209,
+      "word": "谢娜四公 没拉票",
+      "onboard_time": 1686021388,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 999968,
@@ -115,12 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 998157,
+      "num": 998157,
+      "word": "在欧洲千万不要轻易蹲地上",
+      "onboard_time": 1686010771,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 986019,
       "num": 986019,
       "word": "空姐未讲日语被日本女子辱骂",
       "onboard_time": 1686006141,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 966673,
+      "num": 966673,
+      "word": "秋瓷炫四公 淘汰",
+      "onboard_time": 1686021448,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 954532,
@@ -139,14 +171,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 911275,
-      "num": 911275,
-      "word": "谢娜四公 没拉票",
-      "onboard_time": 1686021388,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 879069,
       "num": 879069,
       "word": "有刘海的刘浩存",
@@ -163,14 +187,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 859095,
-      "num": 859095,
-      "word": "在欧洲千万不要轻易蹲地上",
-      "onboard_time": 1686010771,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 824265,
       "num": 824265,
       "word": "27岁游戏主播抗癌半年后去世",
@@ -179,15 +195,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 821890,
-      "num": 821890,
-      "word": "天津碧桂园",
-      "onboard_time": 1685981366,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 807586,
+      "raw_hot": 822919,
       "num": 807586,
       "word": "PDD直播弹幕",
       "onboard_time": 1686012992,
@@ -195,12 +203,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 774244,
-      "num": 774244,
-      "word": "秋瓷炫四公 淘汰",
-      "onboard_time": 1686021448,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 821890,
+      "num": 821890,
+      "word": "天津碧桂园",
+      "onboard_time": 1685981366,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759840,
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 585795,
+      "num": 585795,
+      "word": "全员加速中3要来了",
+      "onboard_time": 1686021689,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559589,
       "num": 559589,
       "word": "男子做冷门工作10年带火2个生僻字",
@@ -267,14 +283,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 514766,
-      "num": 514766,
-      "word": "全员加速中3要来了",
-      "onboard_time": 1686021689,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 510288,
       "num": 363467,
       "word": "鸭圣婆 杰克辣条",
@@ -283,12 +291,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 502716,
+      "num": 502716,
+      "word": "肖战虞书欣白鹿今日微博开屏",
+      "onboard_time": 1686022409,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495227,
       "num": 495227,
       "word": "李沁戏份",
       "onboard_time": 1685982684,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470231,
+      "num": 470231,
+      "word": "北京动物园",
+      "onboard_time": 1686022468,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456259,
@@ -329,6 +353,14 @@
       "onboard_time": 1685965285,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 407344,
+      "num": 407344,
+      "word": "无美颜镜头下的杨紫",
+      "onboard_time": 1686022048,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398165,
@@ -379,6 +411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 339718,
+      "num": 295975,
+      "word": "肖战将贡献颠覆以往形象的郭靖",
+      "onboard_time": 1686024451,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335236,
       "num": 335236,
       "word": "iOS17",
@@ -419,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324267,
+      "num": 324267,
+      "word": "陈采尼回应抄袭争议",
+      "onboard_time": 1686024392,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -441,6 +489,30 @@
       "onboard_time": 1685980348,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295006,
+      "num": 295006,
+      "word": "男老师被骗没毕业鲜花转头暖哭",
+      "onboard_time": 1686022109,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293786,
+      "num": 300053,
+      "word": "迪丽热巴金智秀周也江疏影同品牌大片",
+      "onboard_time": 1686021929,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 292247,
+      "num": 292247,
+      "word": "用两分钟把这个视频看到最后",
+      "onboard_time": 1686024451,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 291240,
@@ -499,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277064,
+      "num": 277064,
+      "word": "北京租房提取公积金上限调整为2000元",
+      "onboard_time": 1686024210,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 268889,
       "num": 268889,
       "word": "浪姐的吴倩vs你好星期六的吴倩",
@@ -521,6 +601,14 @@
       "onboard_time": 1686020188,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260084,
+      "num": 260084,
+      "word": "杨天真谈高考错失保送北大",
+      "onboard_time": 1686022288,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 259371,
@@ -571,14 +659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 242822,
-      "num": 242822,
-      "word": "男老师被骗没毕业鲜花转头暖哭",
-      "onboard_time": 1686022109,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234230,
       "num": 234230,
       "word": "M2 Ultra",
@@ -593,6 +673,14 @@
       "onboard_time": 1685985079,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 231830,
+      "num": 231830,
+      "word": "全员加速中定档610",
+      "onboard_time": 1686022530,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 230748,
@@ -611,20 +699,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 229690,
+      "num": 229690,
+      "word": "高考加油时刻",
+      "onboard_time": 1686024633,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 227386,
       "num": 227386,
       "word": "上班更苦还是上学更苦",
       "onboard_time": 1685981667,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226786,
-      "num": 226786,
-      "word": "无美颜镜头下的杨紫",
-      "onboard_time": 1686022048,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226012,
@@ -643,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224094,
-      "num": 224094,
-      "word": "肖战虞书欣白鹿今日微博开屏",
-      "onboard_time": 1686022409,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223905,
       "num": 223905,
       "word": "放在毕业照届也是很炸裂的",
@@ -665,14 +745,6 @@
       "onboard_time": 1686021929,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216931,
-      "num": 216931,
-      "word": "迪丽热巴金智秀周也江疏影同品牌大片",
-      "onboard_time": 1686021929,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216143,
@@ -731,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201195,
+      "num": 201195,
+      "word": "肖战气氛组组长",
+      "onboard_time": 1686022769,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201021,
       "num": 201021,
       "word": "死亡搁浅将登陆Mac",
@@ -747,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "白夜极光美依礼芽",
+      "onboard_time": 1686024330,
+      "rank": 43,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 192321,
       "num": 192321,
       "word": "郭碧婷的头发好多",
       "onboard_time": 1686019827,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191252,
+      "num": 191252,
+      "word": "A股",
+      "onboard_time": 1686023367,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 190745,
@@ -795,14 +891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 186140,
-      "num": 186140,
-      "word": "万达员工午餐时间玩手机被通报",
-      "onboard_time": 1686022228,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 185337,
       "num": 185337,
       "word": "田曦薇新剧妆容",
@@ -819,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181534,
+      "num": 181534,
+      "word": "中国电商让韩国海关爆仓",
+      "onboard_time": 1686025113,
+      "rank": 47,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 181146,
       "num": 181146,
       "word": "Xiaohao哭了",
@@ -833,6 +929,14 @@
       "onboard_time": 1685978190,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176959,
+      "num": 176959,
+      "word": "库克 这一切你前所未见",
+      "onboard_time": 1686024992,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 174201,
@@ -881,14 +985,6 @@
       "onboard_time": 1685965888,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 161534,
-      "num": 161534,
-      "word": "杨天真谈高考错失保送北大",
-      "onboard_time": 1686022288,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 159043,
@@ -969,6 +1065,22 @@
       "onboard_time": 1685982323,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147749,
+      "num": 295015,
+      "word": "福岛海鱼体内放射性物质超标180倍",
+      "onboard_time": 1686024811,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145192,
+      "num": 299071,
+      "word": "为高考拼过的日夜",
+      "onboard_time": 1686023130,
+      "rank": 24,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 136672,
@@ -1171,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86439,
+      "num": 1184484,
+      "word": "芒种至农事忙",
+      "onboard_time": 1686021689,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83269,
       "num": 83269,
       "word": "Vision Pro 迪士尼",
@@ -1209,14 +1329,6 @@
       "onboard_time": 1685988376,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 48817,
-      "num": 939808,
-      "word": "芒种至农事忙",
-      "onboard_time": 1686021689,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36691,
