@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686036807938,
+  "endTime": 1686039647314,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -139,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125848,
+      "num": 1125848,
+      "word": "车银优肿么了",
+      "onboard_time": 1686038129,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1080209,
+      "num": 1080209,
+      "word": "鲍蕾晒花絮力证没给贝儿P腿",
+      "onboard_time": 1686032968,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1014291,
       "num": 688529,
       "word": "3499美元的苹果头显值得买吗",
@@ -195,20 +211,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 951644,
-      "num": 951644,
-      "word": "鲍蕾晒花絮力证没给贝儿P腿",
-      "onboard_time": 1686032968,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 939941,
       "num": 939941,
       "word": "业主购42套房全部打通墙体",
       "onboard_time": 1685972670,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 905008,
+      "num": 436166,
+      "word": "胡锡进发博评鼠头鸭脖事件",
+      "onboard_time": 1686034589,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879069,
@@ -273,6 +289,22 @@
       "onboard_time": 1685971470,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 725776,
+      "num": 725776,
+      "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
+      "onboard_time": 1686035848,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722149,
+      "num": 722149,
+      "word": "B太 我可能又被众筹了",
+      "onboard_time": 1686035246,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 710461,
@@ -387,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 505441,
-      "num": 505441,
-      "word": "B太 我可能又被众筹了",
-      "onboard_time": 1686035246,
-      "rank": 27,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 502244,
       "num": 502244,
       "word": "北京动物园",
@@ -425,14 +449,6 @@
       "onboard_time": 1686019049,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 436166,
-      "num": 436166,
-      "word": "胡锡进发博评鼠头鸭脖事件",
-      "onboard_time": 1686034589,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434033,
@@ -539,6 +555,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 348542,
+      "num": 348542,
+      "word": "何赛飞狂亲贾静雯半分钟",
+      "onboard_time": 1686036386,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348233,
       "num": 348233,
       "word": "电梯故障学生爬29楼赴高考商家被罚",
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 309629,
-      "num": 247636,
+      "num": 291485,
       "word": "河童",
       "onboard_time": 1686034947,
       "rank": 21,
@@ -657,6 +681,14 @@
       "onboard_time": 1686021929,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 292924,
+      "num": 292924,
+      "word": "为什么吸管要设计成一炷香",
+      "onboard_time": 1686037587,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 292247,
@@ -755,20 +787,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 262486,
+      "num": 262486,
+      "word": "原来17年已经是很久以前的事了",
+      "onboard_time": 1686036569,
+      "rank": 48,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 261797,
       "num": 261797,
       "word": "刘宇新歌AYO上线",
       "onboard_time": 1686020188,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260300,
-      "num": 204786,
-      "word": "何赛飞狂亲贾静雯半分钟",
-      "onboard_time": 1686036386,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 260084,
@@ -811,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247521,
+      "num": 247521,
+      "word": "绝味鸭脖股价下跌",
+      "onboard_time": 1686038787,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244133,
       "num": 244133,
       "word": "热烈给王一博的标签是内娱顶级舞担",
@@ -841,6 +881,14 @@
       "onboard_time": 1686031528,
       "rank": 27,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 235896,
+      "num": 235896,
+      "word": "马嘉祺上综艺也要等一下",
+      "onboard_time": 1686037108,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 234230,
@@ -1019,11 +1067,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210845,
-      "num": 210845,
-      "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
-      "onboard_time": 1686035848,
-      "rank": 27,
+      "raw_hot": 211335,
+      "num": 211335,
+      "word": "要怎么证明是鼠头还是鸭脖",
+      "onboard_time": 1686037528,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1097,14 @@
       "onboard_time": 1686031646,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204718,
+      "num": 204718,
+      "word": "张杰为高考学子点歌",
+      "onboard_time": 1686039327,
+      "rank": 30,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 204580,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1685987834,
       "rank": 7,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 200262,
+      "num": 200262,
+      "word": "电梯突发故障丈夫下意识护妻儿",
+      "onboard_time": 1686035066,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195864,
@@ -1251,14 +1315,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 178337,
-      "num": 178337,
-      "word": "电梯突发故障丈夫下意识护妻儿",
-      "onboard_time": 1686035066,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176959,
       "num": 176959,
       "word": "库克 这一切你前所未见",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1685965888,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 161946,
+      "num": 161946,
+      "word": "刚入职就领到了公司红包",
+      "onboard_time": 1686036988,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 159043,
@@ -1435,6 +1499,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 142611,
+      "num": 142611,
+      "word": "高考转运锦鲤",
+      "onboard_time": 1686038787,
+      "rank": 42,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 140694,
       "num": 140694,
       "word": "玫瑰故事",
@@ -1448,6 +1520,14 @@
       "word": "这句话等了二十来年了",
       "onboard_time": 1686029009,
       "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137370,
+      "num": 137370,
+      "word": "女孩和女孩更有约会的感觉",
+      "onboard_time": 1686037168,
+      "rank": 43,
       "category": "情感,幽默"
     },
     {
@@ -1491,6 +1571,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 131688,
+      "num": 131688,
+      "word": "观鹤笔记作者手滑点赞李一桐陈都灵相关",
+      "onboard_time": 1686039151,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131685,
       "num": 129627,
       "word": "花戎",
@@ -1505,6 +1593,14 @@
       "onboard_time": 1685974230,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130537,
+      "num": 130537,
+      "word": "四大顶级舞担",
+      "onboard_time": 1686039627,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129222,
@@ -1587,14 +1683,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 115008,
-      "num": 115008,
-      "word": "原来17年已经是很久以前的事了",
-      "onboard_time": 1686036569,
-      "rank": 48,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 114250,
       "num": 114250,
       "word": "钢笔还给我爸爸",
@@ -1641,6 +1729,14 @@
       "onboard_time": 1685966307,
       "rank": 26,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 99285,
+      "num": 206264,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 99273,
