@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686017471904,
+  "endTime": 1686020189620,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -313,6 +313,14 @@
       "onboard_time": 1685579847,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1929723,
+      "num": 1929723,
+      "word": "没想到经常挖鼻孔会影响颜值",
+      "onboard_time": 1686012511,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 1928089,
@@ -713,6 +721,14 @@
       "onboard_time": 1685792546,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1443641,
+      "num": 580316,
+      "word": "李湘祝贺王诗龄获奖学金",
+      "onboard_time": 1686016646,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1439333,
@@ -1275,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1081160,
-      "num": 1081160,
-      "word": "没想到经常挖鼻孔会影响颜值",
-      "onboard_time": 1686012511,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1076254,
       "num": 533499,
       "word": "Jennie新剧",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1685669667,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1032180,
+      "num": 828688,
+      "word": "向佐郭碧婷牵手逛街",
+      "onboard_time": 1686016887,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1028327,
@@ -2539,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580316,
-      "num": 580316,
-      "word": "李湘祝贺王诗龄获奖学金",
-      "onboard_time": 1686016646,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 578621,
       "num": 578621,
       "word": "男人眼中的6分女和6分男",
@@ -3427,6 +3435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426776,
+      "num": 310043,
+      "word": "专家称要警惕终身不婚不育情况",
+      "onboard_time": 1686017487,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425822,
       "num": 483681,
       "word": "马斯克再次成世界首富",
@@ -3561,14 +3577,6 @@
       "onboard_time": 1685949688,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 415996,
-      "num": 415996,
-      "word": "向佐郭碧婷牵手逛街",
-      "onboard_time": 1686016887,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 415150,
@@ -3825,6 +3833,14 @@
       "onboard_time": 1685790028,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388778,
+      "num": 388778,
+      "word": "黄奕发博支持49岁高考妈妈",
+      "onboard_time": 1686017846,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 388697,
@@ -4169,6 +4185,14 @@
       "onboard_time": 1685788226,
       "rank": 29,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 356714,
+      "num": 356714,
+      "word": "沈月说得到了失去的八分钟",
+      "onboard_time": 1686019049,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 355188,
@@ -4987,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303581,
+      "num": 303581,
+      "word": "吴京杰森斯坦森早在几百年前就说过爱你",
+      "onboard_time": 1686018565,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302799,
       "num": 302799,
       "word": "腾讯张军回应马化腾截图刷屏",
@@ -5760,6 +5792,14 @@
       "word": "孟子义提携周一围",
       "onboard_time": 1685942667,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268889,
+      "num": 268889,
+      "word": "浪姐的吴倩vs你好星期六的吴倩",
+      "onboard_time": 1686017908,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -7411,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215484,
+      "num": 215484,
+      "word": "李荣浩高考保留节目",
+      "onboard_time": 1686019588,
+      "rank": 33,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 215148,
       "num": 215148,
       "word": "虞书欣是什么旅游特种兵",
@@ -7627,6 +7675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209102,
+      "num": 209102,
+      "word": "胡先煦新片亲谁谁睡着",
+      "onboard_time": 1686018868,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208635,
       "num": 208635,
       "word": "娜扎说恶评不会再影响我",
@@ -7715,6 +7771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206371,
+      "num": 206371,
+      "word": "齐司礼",
+      "onboard_time": 1686019648,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205485,
       "num": 1019891,
       "word": "小学生自愿报名给高三考生表演才艺",
@@ -7801,6 +7865,14 @@
       "onboard_time": 1685978729,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202606,
+      "num": 202606,
+      "word": "把海底捞变成维也纳金色大厅",
+      "onboard_time": 1686017968,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 202445,
@@ -8379,6 +8451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190745,
+      "num": 190745,
+      "word": "猫猫阿姨 你告诉小猫要好好吃饭",
+      "onboard_time": 1686016588,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190706,
       "num": 190706,
       "word": "杭州一碗面动辄三四十",
@@ -8425,6 +8505,22 @@
       "onboard_time": 1685974230,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189881,
+      "num": 189881,
+      "word": "三贵情史",
+      "onboard_time": 1686019709,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189858,
+      "num": 189858,
+      "word": "王源献唱疯狂元素城主题曲",
+      "onboard_time": 1686019947,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 189683,
@@ -9043,14 +9139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175851,
-      "num": 175851,
-      "word": "猫猫阿姨 你告诉小猫要好好吃饭",
-      "onboard_time": 1686016588,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175590,
       "num": 175590,
       "word": "cgv",
@@ -9379,6 +9467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 165680,
+      "num": 165680,
+      "word": "郭碧婷的头发好多",
+      "onboard_time": 1686019827,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165671,
       "num": 206177,
       "word": "真实影像揭露境外高薪务工骗局",
@@ -9449,6 +9545,14 @@
       "onboard_time": 1685547030,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163825,
+      "num": 163825,
+      "word": "曹斐然和杨洋是校友",
+      "onboard_time": 1686019890,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 163794,
@@ -10547,6 +10651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133115,
+      "num": 274217,
+      "word": "荣耀90开辟手机护眼新赛道",
+      "onboard_time": 1686019168,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 132917,
       "num": 108366,
       "word": "网友辣评浪姐粉丝现状",
@@ -11641,6 +11753,14 @@
       "onboard_time": 1686000971,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97119,
+      "num": 396387,
+      "word": "交警拦车俯身救小猫太有爱了",
+      "onboard_time": 1686018688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96895,
