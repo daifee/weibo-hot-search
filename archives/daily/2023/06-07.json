@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686087207132,
+  "endTime": 1686089781353,
   "band_list": [
     {
       "raw_hot": 1269283,
@@ -201,6 +201,14 @@
       "onboard_time": 1686049469,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 179005,
+      "num": 179005,
+      "word": "小伙被吸入涵洞口30人紧紧拉回",
+      "onboard_time": 1686081192,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178100,
@@ -411,14 +419,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 91865,
-      "num": 91865,
-      "word": "小伙被吸入涵洞口30人紧紧拉回",
-      "onboard_time": 1686081192,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87134,
       "num": 93739,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
@@ -476,11 +476,19 @@
     },
     {
       "raw_hot": 43216,
-      "num": 26099,
+      "num": 34033,
       "word": "男明星的牙",
       "onboard_time": 1686078432,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39253,
+      "num": 39253,
+      "word": "张韶涵堵住鼻子化妆",
+      "onboard_time": 1686084012,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 37287,
@@ -491,12 +499,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 32983,
+      "num": 34047,
+      "word": "朱一龙说何非可怜可悲可恨",
+      "onboard_time": 1686086532,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28906,
-      "num": 33347,
+      "num": 33981,
       "word": "龚俊发七彩祥云祝福高考生",
       "onboard_time": 1686076035,
       "rank": 48,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 24091,
+      "num": 33975,
+      "word": "梦海 诠释人性的转变",
+      "onboard_time": 1686087793,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 23369,
@@ -507,32 +531,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22311,
-      "num": 22311,
-      "word": "张韶涵堵住鼻子化妆",
-      "onboard_time": 1686084012,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 23085,
+      "num": 35669,
+      "word": "加油高考生",
+      "onboard_time": 1685972369,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 20673,
-      "num": 20673,
+      "raw_hot": 21533,
+      "num": 33966,
       "word": "朱一龙消失的她特辑",
       "onboard_time": 1686086532,
       "rank": 35,
       "category": "影视"
     },
     {
-      "raw_hot": 18999,
-      "num": 18999,
-      "word": "朱一龙说何非可怜可悲可恨",
-      "onboard_time": 1686086532,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 18803,
-      "num": 18803,
+      "num": 33918,
       "word": "光与夜之恋周年庆",
       "onboard_time": 1686077774,
       "rank": 42,
