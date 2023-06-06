@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686016127704,
+  "endTime": 1686017471904,
   "band_list": [
     {
       "raw_hot": 2322353,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1081160,
+      "num": 1081160,
+      "word": "没想到经常挖鼻孔会影响颜值",
+      "onboard_time": 1686012511,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1014291,
+      "num": 688529,
+      "word": "3499美元的苹果头显值得买吗",
+      "onboard_time": 1686008003,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 999968,
       "num": 999968,
       "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
@@ -67,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 976272,
-      "num": 976272,
+      "raw_hot": 986019,
+      "num": 986019,
       "word": "空姐未讲日语被日本女子辱骂",
       "onboard_time": 1686006141,
       "rank": 19,
@@ -89,14 +105,6 @@
       "onboard_time": 1685972670,
       "rank": 3,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 938851,
-      "num": 688529,
-      "word": "3499美元的苹果头显值得买吗",
-      "onboard_time": 1686008003,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 879069,
@@ -129,6 +137,14 @@
       "onboard_time": 1685981366,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807586,
+      "num": 807586,
+      "word": "PDD直播弹幕",
+      "onboard_time": 1686012992,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 759840,
@@ -171,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 631605,
-      "num": 631605,
-      "word": "PDD直播弹幕",
-      "onboard_time": 1686012992,
+      "raw_hot": 580316,
+      "num": 580316,
+      "word": "李湘祝贺王诗龄获奖学金",
+      "onboard_time": 1686016646,
       "rank": 13,
-      "category": "游戏,网红"
+      "category": "艺人"
     },
     {
       "raw_hot": 559589,
@@ -211,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441724,
-      "num": 441724,
-      "word": "没想到经常挖鼻孔会影响颜值",
-      "onboard_time": 1686012511,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 439284,
+      "num": 316982,
+      "word": "绝大男人婚前婚后的生活都不会有太大变化",
+      "onboard_time": 1686015807,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 427246,
@@ -233,6 +249,22 @@
       "onboard_time": 1685965046,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 415996,
+      "num": 415996,
+      "word": "向佐郭碧婷牵手逛街",
+      "onboard_time": 1686016887,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415150,
+      "num": 415150,
+      "word": "权志龙与YG的合约到期",
+      "onboard_time": 1686015988,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 409281,
@@ -304,6 +336,14 @@
       "word": "光与夜之恋",
       "onboard_time": 1686007822,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 325520,
+      "num": 325520,
+      "word": "查理苏",
+      "onboard_time": 1686016287,
+      "rank": 22,
       "category": "游戏"
     },
     {
@@ -379,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254128,
-      "num": 254128,
+      "raw_hot": 254179,
+      "num": 254179,
       "word": "造谣女孩穿婚纱看演唱会的网友道歉",
       "onboard_time": 1686013588,
       "rank": 31,
@@ -507,16 +547,8 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 199238,
-      "num": 199238,
-      "word": "权志龙与YG的合约到期",
-      "onboard_time": 1686015988,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 194558,
-      "num": 194558,
+      "raw_hot": 195419,
+      "num": 195419,
       "word": "肖战短发vs长发",
       "onboard_time": 1686012271,
       "rank": 41,
@@ -539,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186253,
+      "num": 186253,
+      "word": "高考祝福",
+      "onboard_time": 1686017128,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185337,
       "num": 185337,
       "word": "田曦薇新剧妆容",
@@ -555,14 +595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182065,
-      "num": 182065,
-      "word": "绝大男人婚前婚后的生活都不会有太大变化",
-      "onboard_time": 1686015807,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181146,
       "num": 181146,
       "word": "Xiaohao哭了",
@@ -577,6 +609,14 @@
       "onboard_time": 1685978190,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175851,
+      "num": 175851,
+      "word": "猫猫阿姨 你告诉小猫要好好吃饭",
+      "onboard_time": 1686016588,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 174201,
