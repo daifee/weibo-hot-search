@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686044030357,
+  "endTime": 1686046683550,
   "band_list": [
     {
       "raw_hot": 3289887,
@@ -67,6 +67,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1737451,
+      "num": 1737451,
+      "word": "弟弟一眼认出流浪乞讨人员是亲哥",
+      "onboard_time": 1686044367,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1638983,
       "num": 1638983,
       "word": "Apple Vision Pro 苹果首款头显",
@@ -89,6 +97,14 @@
       "onboard_time": 1685979027,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1470714,
+      "num": 1055756,
+      "word": "宋轶现身医院抽血采样",
+      "onboard_time": 1686044311,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1443641,
@@ -483,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481819,
+      "num": 481819,
+      "word": "张云龙狐妖小红娘路透",
+      "onboard_time": 1686044789,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -675,6 +699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 334601,
+      "num": 1030229,
+      "word": "原来丫丫有一张微笑脸",
+      "onboard_time": 1686038847,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327040,
       "num": 327040,
       "word": "吴京杰森斯坦森早在几百年前就说过爱你",
@@ -697,14 +729,6 @@
       "onboard_time": 1686016287,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 325027,
-      "num": 325027,
-      "word": "原来丫丫有一张微笑脸",
-      "onboard_time": 1686038847,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 324661,
@@ -857,6 +881,14 @@
       "onboard_time": 1686017908,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265066,
+      "num": 198776,
+      "word": "我出生那天 四海八荒都沉默了",
+      "onboard_time": 1686046108,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264951,
@@ -1059,6 +1091,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226609,
+      "num": 226609,
+      "word": "当年高考为什么不选清华",
+      "onboard_time": 1686045629,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226314,
+      "num": 963372,
+      "word": "电梯突发故障丈夫下意识护妻儿",
+      "onboard_time": 1686035066,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226012,
       "num": 226012,
       "word": "三贵情史",
@@ -1155,12 +1203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210141,
+      "num": 210141,
+      "word": "WE对战UP",
+      "onboard_time": 1686046410,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209102,
       "num": 209102,
       "word": "胡先煦新片亲谁谁睡着",
       "onboard_time": 1686018868,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208165,
+      "num": 208165,
+      "word": "前生的泪 来世的痣",
+      "onboard_time": 1686045209,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 206460,
@@ -1243,20 +1307,20 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 200262,
-      "num": 200262,
-      "word": "电梯突发故障丈夫下意识护妻儿",
-      "onboard_time": 1686035066,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198578,
       "num": 198578,
       "word": "中国男排",
       "onboard_time": 1686043589,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198145,
+      "num": 198145,
+      "word": "罗云熙手写祝福让考生放松心态",
+      "onboard_time": 1686045090,
+      "rank": 31,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 195864,
@@ -1411,6 +1475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 176173,
+      "num": 176173,
+      "word": "我的职业生涯算是完蛋了",
+      "onboard_time": 1686045867,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 175765,
       "num": 175765,
       "word": "aespa出道妆造vs现在妆造",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1685977951,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173794,
+      "num": 173794,
+      "word": "见过肉最多的牛肉面",
+      "onboard_time": 1686045090,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 172032,
@@ -1483,6 +1563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 163253,
+      "num": 163253,
+      "word": "RNGM官宣主教练暴风锐",
+      "onboard_time": 1686044130,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163137,
       "num": 163137,
       "word": "你觉得高考哪科最难",
@@ -1513,6 +1601,14 @@
       "onboard_time": 1685982145,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155115,
+      "num": 155115,
+      "word": "王源电影男主角首秀",
+      "onboard_time": 1686044130,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 154979,
@@ -1579,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145982,
+      "num": 145982,
+      "word": "苹果Vision Pro梗图",
+      "onboard_time": 1686044789,
+      "rank": 41,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 145192,
       "num": 381408,
       "word": "为高考拼过的日夜",
@@ -1609,6 +1713,14 @@
       "onboard_time": 1686038787,
       "rank": 42,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 141905,
+      "num": 141905,
+      "word": "杭州姑娘20元刮刮乐刮中百万",
+      "onboard_time": 1686046349,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140694,
@@ -1684,7 +1796,7 @@
     },
     {
       "raw_hot": 130907,
-      "num": 1015986,
+      "num": 1078746,
       "word": "祝考生们大胜归来",
       "onboard_time": 1686040107,
       "rank": 2,
@@ -1931,6 +2043,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 66843,
+      "num": 684356,
+      "word": "果然时尚是个轮回",
+      "onboard_time": 1686045932,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66329,
       "num": 413286,
       "word": "花式送考只愿你金榜题名",
@@ -1953,6 +2073,14 @@
       "onboard_time": 1685988376,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 41371,
+      "num": 121315,
+      "word": "宋佳想要的品质生活",
+      "onboard_time": 1686044068,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38881,
@@ -1996,6 +2124,9 @@
     },
     {
       "word": "#高考倒计时1天#"
+    },
+    {
+      "word": "#中华民族的自信之源#"
     }
   ]
 }
