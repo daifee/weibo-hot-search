@@ -1,6 +1,6 @@
 {
   "startTime": 1685982149595,
-  "endTime": 1686032484828,
+  "endTime": 1686033245525,
   "band_list": [
     {
       "raw_hot": 3044586,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2328929,
+      "num": 2328929,
+      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
+      "onboard_time": 1686026611,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2322353,
       "num": 2322353,
       "word": "吴倩 退赛",
       "onboard_time": 1685979988,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2199058,
-      "num": 2199058,
-      "word": "宝妈因孩子吃了同学生日蛋糕发飙",
-      "onboard_time": 1686026611,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2069629,
@@ -57,6 +57,14 @@
       "onboard_time": 1686022228,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1767591,
+      "num": 1767591,
+      "word": "李健丁克的原因",
+      "onboard_time": 1686030746,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1638983,
@@ -161,14 +169,6 @@
       "onboard_time": 1686006141,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 967520,
-      "num": 967520,
-      "word": "李健丁克的原因",
-      "onboard_time": 1686030746,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 966673,
@@ -299,6 +299,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 606795,
+      "num": 606795,
+      "word": "黑犬酱就老公被叫河童回应",
+      "onboard_time": 1686029908,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 588438,
       "num": 464389,
       "word": "绝大男人婚前婚后的生活都不会有太大变化",
@@ -313,14 +321,6 @@
       "onboard_time": 1686021689,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 568678,
-      "num": 568678,
-      "word": "黑犬酱就老公被叫河童回应",
-      "onboard_time": 1686029908,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 559589,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246004,
+      "num": 246004,
+      "word": "李艾说父亲追悼会上我和我妈都没有哭",
+      "onboard_time": 1686031587,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244133,
       "num": 244133,
       "word": "热烈给王一博的标签是内娱顶级舞担",
@@ -755,12 +763,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 242211,
-      "num": 201932,
-      "word": "李艾说父亲追悼会上我和我妈都没有哭",
-      "onboard_time": 1686031587,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 236917,
+      "num": 236917,
+      "word": "中原黄嫂回应中原黄哥直播喝酒去世",
+      "onboard_time": 1686031528,
+      "rank": 27,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 234230,
@@ -859,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221741,
+      "num": 221741,
+      "word": "张艺兴工作室团队重组",
+      "onboard_time": 1686032968,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221296,
       "num": 221296,
       "word": "YG的G是GD的G",
@@ -907,20 +923,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214604,
+      "num": 214604,
+      "word": "全员加速中好多人啊",
+      "onboard_time": 1686031048,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210638,
       "num": 210638,
       "word": "把海底捞变成维也纳金色大厅",
       "onboard_time": 1686017968,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210246,
-      "num": 210246,
-      "word": "中原黄嫂回应中原黄哥直播喝酒去世",
-      "onboard_time": 1686031528,
-      "rank": 27,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 209102,
@@ -937,6 +953,14 @@
       "onboard_time": 1686031646,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206348,
+      "num": 206348,
+      "word": "A股",
+      "onboard_time": 1686023367,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 204580,
@@ -995,6 +1019,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 198715,
+      "num": 198715,
+      "word": "原来真的有朋友不希望自己好",
+      "onboard_time": 1686032188,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 195864,
       "num": 195864,
       "word": "超走心的高考过来人分享",
@@ -1019,6 +1051,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 193045,
+      "num": 193045,
+      "word": "雎晓雯肚子离地面好远",
+      "onboard_time": 1686032309,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192321,
       "num": 192321,
       "word": "郭碧婷的头发好多",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1686024811,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191252,
-      "num": 191252,
-      "word": "A股",
-      "onboard_time": 1686023367,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 190745,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1686027391,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184435,
-      "num": 173188,
-      "word": "全员加速中好多人啊",
-      "onboard_time": 1686031048,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 182829,
@@ -1187,6 +1211,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 166254,
+      "num": 166254,
+      "word": "鲍蕾晒花絮力证没给贝儿P腿",
+      "onboard_time": 1686032968,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166020,
+      "num": 181950,
+      "word": "找双休工作时的企业级理解",
+      "onboard_time": 1686029908,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 164384,
       "num": 98862,
       "word": "AppleVisionPro售价",
@@ -1211,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163291,
+      "num": 163291,
+      "word": "金智秀刘雨昕同品牌大片",
+      "onboard_time": 1686029850,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163137,
       "num": 163137,
       "word": "你觉得高考哪科最难",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1685982145,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155502,
-      "num": 155502,
-      "word": "找双休工作时的企业级理解",
-      "onboard_time": 1686029908,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 154979,
@@ -1315,22 +1355,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 142636,
-      "num": 142636,
-      "word": "雎晓雯肚子离地面好远",
-      "onboard_time": 1686032309,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 142409,
-      "num": 142409,
-      "word": "金智秀刘雨昕同品牌大片",
-      "onboard_time": 1686029850,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 140694,
       "num": 140694,
       "word": "玫瑰故事",
@@ -1344,14 +1368,6 @@
       "word": "这句话等了二十来年了",
       "onboard_time": 1686029009,
       "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 136693,
-      "num": 136693,
-      "word": "原来真的有朋友不希望自己好",
-      "onboard_time": 1686032188,
-      "rank": 43,
       "category": "情感,幽默"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 106847,
+      "num": 106847,
+      "word": "蜗牛是如何跨越沟壑的",
+      "onboard_time": 1686033148,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104427,
       "num": 104427,
       "word": "女频和男频最大的区别之一",
@@ -1556,7 +1580,7 @@
     },
     {
       "raw_hot": 92185,
-      "num": 1736232,
+      "num": 1922766,
       "word": "芒种至农事忙",
       "onboard_time": 1686021689,
       "rank": 2,
@@ -1619,20 +1643,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 38881,
+      "num": 410648,
+      "word": "YouAintRight高能四分钟",
+      "onboard_time": 1686031226,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 36691,
       "num": 36691,
       "word": "肖春生的词典里生词挺多",
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31420,
-      "num": 410648,
-      "word": "YouAintRight高能四分钟",
-      "onboard_time": 1686031226,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 30423,
