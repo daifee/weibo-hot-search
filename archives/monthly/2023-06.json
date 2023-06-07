@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686158112191,
+  "endTime": 1686159214800,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -16841,6 +16841,14 @@
       "onboard_time": 1685656994,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34250,
+      "num": 49817,
+      "word": "上野千鹤子的回信",
+      "onboard_time": 1686159197,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 33555,

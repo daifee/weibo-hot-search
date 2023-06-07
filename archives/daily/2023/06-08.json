@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686158112191,
+  "endTime": 1686159214800,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140092,
+      "num": 140092,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130487,
       "num": 130487,
       "word": "如果丧尸爆发你觉得哪里最安全",
@@ -305,14 +313,6 @@
       "onboard_time": 1686148476,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123857,
-      "num": 123857,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 123068,
@@ -441,11 +441,22 @@
       "onboard_time": 1686144156,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34250,
+      "num": 49817,
+      "word": "上野千鹤子的回信",
+      "onboard_time": 1686159197,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
     {
       "word": "#2023年高考必胜#"
+    },
+    {
+      "word": "#为强国建设民族复兴注入强大精神力量#"
     }
   ]
 }
