@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686148421802,
+  "endTime": 1686151093398,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1340768,
+      "num": 572308,
+      "word": "与国企领导逛街女子手提包疑为奢侈品",
+      "onboard_time": 1686147273,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1332071,
       "num": 1332071,
       "word": "今年高考生17年才刚小学毕业",
@@ -881,6 +889,14 @@
       "onboard_time": 1686108835,
       "rank": 11,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1126003,
+      "num": 542405,
+      "word": "免职裙",
+      "onboard_time": 1686150274,
+      "rank": 13,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 1118785,
@@ -1499,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 719556,
+      "num": 719556,
+      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
+      "onboard_time": 1686146316,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713806,
       "num": 713806,
       "word": "芝芙是越南版这就是街舞的队长",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1685950467,
       "rank": 16,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 696810,
+      "num": 565712,
+      "word": "一个人死去了但他不是死于一个瞬间",
+      "onboard_time": 1686148416,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 694951,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1685941471,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 625343,
+      "num": 625343,
+      "word": "凤凰传奇一个火上辈子一个火下辈子",
+      "onboard_time": 1686145774,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 622841,
@@ -1753,14 +1793,6 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566109,
-      "num": 566109,
-      "word": "凤凰传奇一个火上辈子一个火下辈子",
-      "onboard_time": 1686145774,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 562530,
@@ -2003,6 +2035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476602,
+      "num": 450843,
+      "word": "街拍事件摄影师该担责吗",
+      "onboard_time": 1686145233,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476427,
       "num": 476427,
       "word": "上海高考数学 很难",
@@ -2075,6 +2115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457768,
+      "num": 457768,
+      "word": "肖春生带孩子梦回陈情令",
+      "onboard_time": 1686147456,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456775,
       "num": 456775,
       "word": "中等收入群体已超4亿人",
@@ -2091,27 +2139,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455803,
+      "num": 455803,
+      "word": "意林又承包了高考作文题",
+      "onboard_time": 1686146853,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 453090,
       "num": 453090,
       "word": "欧阳夏丹",
       "onboard_time": 1685931026,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452726,
-      "num": 452726,
-      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
-      "onboard_time": 1686146316,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450843,
-      "num": 450843,
-      "word": "街拍事件摄影师该担责吗",
-      "onboard_time": 1686145233,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2160,6 +2200,14 @@
       "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
       "onboard_time": 1686137135,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 445650,
+      "num": 445650,
+      "word": "成毅和替身相似度",
+      "onboard_time": 1686149376,
+      "rank": 18,
       "category": "作品衍生"
     },
     {
@@ -3012,7 +3060,7 @@
     },
     {
       "raw_hot": 303378,
-      "num": 253633,
+      "num": 285014,
       "word": "街拍事件国企官微申请注销又取消",
       "onboard_time": 1686146492,
       "rank": 32,
@@ -3065,6 +3113,14 @@
       "onboard_time": 1685925090,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298730,
+      "num": 298730,
+      "word": "王一博或将进组军旅题材年代剧",
+      "onboard_time": 1686148476,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 298359,
@@ -3137,14 +3193,6 @@
       "onboard_time": 1685973209,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292258,
-      "num": 292258,
-      "word": "肖春生带孩子梦回陈情令",
-      "onboard_time": 1686147456,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 292247,
@@ -3355,14 +3403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273755,
-      "num": 273755,
-      "word": "意林又承包了高考作文题",
-      "onboard_time": 1686146853,
-      "rank": 27,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 273306,
       "num": 273306,
       "word": "30岁也不过是12岁的大人",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1686022288,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259435,
+      "num": 259435,
+      "word": "如果丧尸爆发你觉得哪里最安全",
+      "onboard_time": 1686147456,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 259379,
@@ -3777,6 +3825,14 @@
       "onboard_time": 1686068785,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245669,
+      "num": 245669,
+      "word": "坏妈妈",
+      "onboard_time": 1686150094,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 245450,
@@ -4563,6 +4619,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205203,
+      "num": 205203,
+      "word": "邓宥希",
+      "onboard_time": 1686149914,
+      "rank": 38,
+      "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 204587,
+      "num": 204587,
+      "word": "多特官宣贝林厄姆加盟皇马",
+      "onboard_time": 1686149732,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "曹斐然和杨洋是校友",
@@ -4739,6 +4811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 200038,
+      "num": 200038,
+      "word": "路人对迪丽热巴的现状分析",
+      "onboard_time": 1686150875,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -4825,14 +4905,6 @@
       "onboard_time": 1686025714,
       "rank": 48,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 195819,
-      "num": 195819,
-      "word": "如果丧尸爆发你觉得哪里最安全",
-      "onboard_time": 1686147456,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 195516,
@@ -5905,6 +5977,14 @@
       "onboard_time": 1686102214,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 155839,
+      "num": 155839,
+      "word": "张艺兴工作室再回应",
+      "onboard_time": 1686151056,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 155780,
