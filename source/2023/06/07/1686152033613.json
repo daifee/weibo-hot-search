@@ -1,0 +1,410 @@
+{
+  "runTime": 1686152033613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4373471,
+        "num": 4373471,
+        "word": "中石油胡继勇被免职",
+        "onboard_time": 1686131623,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1974074,
+        "num": 1974074,
+        "word": "姜广涛",
+        "onboard_time": 1686141273,
+        "rank": 1,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 79281,
+        "num": 1385483,
+        "word": "这份高考祝福穿越百年",
+        "onboard_time": 1686144156,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080501,
+        "num": 1080501,
+        "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+        "onboard_time": 1686140552,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1032882,
+        "num": 1032882,
+        "word": "贾玲为了新角色要减重100斤",
+        "onboard_time": 1686132698,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 927367,
+        "num": 927367,
+        "word": "一个人死去了但他不是死于一个瞬间",
+        "onboard_time": 1686148416,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 733942,
+        "num": 733942,
+        "word": "高考数学",
+        "onboard_time": 1686126154,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 642604,
+        "num": 642604,
+        "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
+        "onboard_time": 1686146316,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600818,
+        "num": 600818,
+        "word": "凤凰传奇一个火上辈子一个火下辈子",
+        "onboard_time": 1686145774,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570081,
+        "num": 570081,
+        "word": "张艺兴工作室再回应",
+        "onboard_time": 1686151056,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1996841,
+        "num": 569474,
+        "word": "免职裙",
+        "onboard_time": 1686150274,
+        "rank": 10,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 567837,
+        "num": 567837,
+        "word": "某某",
+        "onboard_time": 1686133717,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544153,
+        "num": 544153,
+        "word": "意林又承包了高考作文题",
+        "onboard_time": 1686146853,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1630008,
+        "num": 525821,
+        "word": "与国企领导逛街女子手提包疑为奢侈品",
+        "onboard_time": 1686147273,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495157,
+        "num": 495157,
+        "word": "梅西决定加盟迈阿密国际",
+        "onboard_time": 1686145535,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463507,
+        "num": 463507,
+        "word": "肖春生带孩子梦回陈情令",
+        "onboard_time": 1686147456,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449664,
+        "num": 449664,
+        "word": "杨颖不要再瘦了",
+        "onboard_time": 1686139654,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439591,
+        "num": 439591,
+        "word": "官方通报国企领导与女子逛街",
+        "onboard_time": 1686131382,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431502,
+        "num": 431502,
+        "word": "路人对迪丽热巴的现状分析",
+        "onboard_time": 1686150875,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374131,
+        "num": 374131,
+        "word": "成毅和替身相似度",
+        "onboard_time": 1686149376,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430967,
+        "num": 374117,
+        "word": "多巴胺情侣装",
+        "onboard_time": 1686151295,
+        "rank": 20,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 372881,
+        "num": 372881,
+        "word": "双胞胎拿错准考证骁骑5分钟调换",
+        "onboard_time": 1686134376,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 346255,
+        "num": 346255,
+        "word": "难怪贾玲要瘦100斤",
+        "onboard_time": 1686142475,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373541,
+        "num": 345689,
+        "word": "街拍事件摄影师该担责吗",
+        "onboard_time": 1686145233,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334058,
+        "num": 334058,
+        "word": "鼠头鸭脖",
+        "onboard_time": 1686140074,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311894,
+        "num": 311894,
+        "word": "周也证件照被盗用",
+        "onboard_time": 1686145354,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330833,
+        "num": 306791,
+        "word": "中央巡视组回应国企领导与异性逛街",
+        "onboard_time": 1686130124,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289272,
+        "num": 289272,
+        "word": "上海迪士尼",
+        "onboard_time": 1686140915,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275607,
+        "num": 275607,
+        "word": "王一博或将进组军旅题材年代剧",
+        "onboard_time": 1686148476,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284574,
+        "num": 274282,
+        "word": "街拍事件国企官微申请注销又取消",
+        "onboard_time": 1686146492,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443355,
+        "num": 260786,
+        "word": "22届在骂 23届崩溃 24届焦虑",
+        "onboard_time": 1686135276,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 328525,
+        "num": 247864,
+        "word": "甲卷数学 边考边哭",
+        "onboard_time": 1686132459,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 938004,
+        "num": 238776,
+        "word": "律师谈国企领导与异性亲密逛街被拍",
+        "onboard_time": 1686151174,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231144,
+        "num": 231144,
+        "word": "新高考一卷数学 大题难",
+        "onboard_time": 1686130307,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 222934,
+        "num": 222934,
+        "word": "坏妈妈",
+        "onboard_time": 1686150094,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251997,
+        "num": 220123,
+        "word": "律师称街拍对他人造成影响应担责",
+        "onboard_time": 1686146735,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217206,
+        "num": 217206,
+        "word": "虞书欣亮片绿色抹胸裙",
+        "onboard_time": 1686144872,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212783,
+        "num": 212783,
+        "word": "出演新剧是Jennie自己的选择",
+        "onboard_time": 1686135515,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210257,
+        "num": 210257,
+        "word": "如果丧尸爆发你觉得哪里最安全",
+        "onboard_time": 1686147456,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204652,
+        "num": 204652,
+        "word": "公司称领导与异性牵手逛街是个人行为",
+        "onboard_time": 1686135276,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197615,
+        "num": 197615,
+        "word": "邓宥希",
+        "onboard_time": 1686149914,
+        "rank": 40,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 193492,
+        "num": 193492,
+        "word": "于晓光机场给秋瓷炫送花",
+        "onboard_time": 1686144336,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175722,
+        "num": 175722,
+        "word": "马思纯瘦了30斤",
+        "onboard_time": 1686124533,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175620,
+        "num": 175620,
+        "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
+        "onboard_time": 1686137135,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170723,
+        "num": 170723,
+        "word": "哥哥拿弟弟身份证高考8点45才发现",
+        "onboard_time": 1686129407,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165443,
+        "num": 165443,
+        "word": "leave",
+        "onboard_time": 1686145834,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 158720,
+        "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
+        "onboard_time": 1686151774,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151680,
+        "num": 151680,
+        "word": "小S大女儿韩国舞蹈大赛跳舞视频",
+        "onboard_time": 1686140432,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "胡继勇正接受公司纪委核查",
+        "onboard_time": 1686114339,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130733,
+        "num": 130733,
+        "word": "数学到底难不难",
+        "onboard_time": 1686129107,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇担使命不畏艰辛久久为功#"
+    }
+  }
+}

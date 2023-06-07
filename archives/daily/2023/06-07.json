@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686151093398,
+  "endTime": 1686152033613,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -171,6 +171,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1996841,
+      "num": 569474,
+      "word": "免职裙",
+      "onboard_time": 1686150274,
+      "rank": 13,
+      "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1974074,
+      "num": 1974074,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 1955577,
       "num": 1955577,
       "word": "甲卷数学 边考边哭",
@@ -227,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1618741,
-      "num": 1618741,
-      "word": "姜广涛",
-      "onboard_time": 1686141273,
-      "rank": 49,
-      "category": "动漫,艺人"
+      "raw_hot": 1630008,
+      "num": 572308,
+      "word": "与国企领导逛街女子手提包疑为奢侈品",
+      "onboard_time": 1686147273,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1591669,
@@ -281,14 +297,6 @@
       "onboard_time": 1686098973,
       "rank": 6,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1340768,
-      "num": 572308,
-      "word": "与国企领导逛街女子手提包疑为奢侈品",
-      "onboard_time": 1686147273,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1332071,
@@ -369,14 +377,6 @@
       "onboard_time": 1686108835,
       "rank": 11,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1126003,
-      "num": 542405,
-      "word": "免职裙",
-      "onboard_time": 1686150274,
-      "rank": 13,
-      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 1123135,
@@ -489,6 +489,22 @@
       "onboard_time": 1686092600,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938004,
+      "num": 238776,
+      "word": "律师谈国企领导与异性亲密逛街被拍",
+      "onboard_time": 1686151174,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927367,
+      "num": 927367,
+      "word": "一个人死去了但他不是死于一个瞬间",
+      "onboard_time": 1686148416,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 906117,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 696810,
-      "num": 565712,
-      "word": "一个人死去了但他不是死于一个瞬间",
-      "onboard_time": 1686148416,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 685055,
       "num": 685055,
       "word": "于晓光机场给秋瓷炫送花",
@@ -715,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570081,
+      "num": 570081,
+      "word": "张艺兴工作室再回应",
+      "onboard_time": 1686151056,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 569951,
       "num": 569951,
       "word": "哪个省份作文题目最难",
@@ -729,6 +745,14 @@
       "onboard_time": 1686129170,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544153,
+      "num": 544153,
+      "word": "意林又承包了高考作文题",
+      "onboard_time": 1686146853,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 543531,
@@ -843,28 +867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 459316,
-      "num": 459316,
-      "word": "肖战抱小朋友",
-      "onboard_time": 1686107078,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457768,
-      "num": 457768,
+      "raw_hot": 463507,
+      "num": 463507,
       "word": "肖春生带孩子梦回陈情令",
       "onboard_time": 1686147456,
       "rank": 27,
       "category": "影视"
     },
     {
-      "raw_hot": 455803,
-      "num": 455803,
-      "word": "意林又承包了高考作文题",
-      "onboard_time": 1686146853,
-      "rank": 27,
-      "category": "教育,社会新闻"
+      "raw_hot": 459316,
+      "num": 459316,
+      "word": "肖战抱小朋友",
+      "onboard_time": 1686107078,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448612,
@@ -913,6 +929,22 @@
       "onboard_time": 1686107320,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 431502,
+      "num": 431502,
+      "word": "路人对迪丽热巴的现状分析",
+      "onboard_time": 1686150875,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 430967,
+      "num": 374117,
+      "word": "多巴胺情侣装",
+      "onboard_time": 1686151295,
+      "rank": 20,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 424377,
@@ -1763,14 +1795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200038,
-      "num": 200038,
-      "word": "路人对迪丽热巴的现状分析",
-      "onboard_time": 1686150875,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198930,
       "num": 198930,
       "word": "很难忘记周深的高考祝福",
@@ -2227,6 +2251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 158720,
+      "num": 158720,
+      "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
+      "onboard_time": 1686151774,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158530,
       "num": 158530,
       "word": "蔡徐坤 回归跑男",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1686061955,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155839,
-      "num": 155839,
-      "word": "张艺兴工作室再回应",
-      "onboard_time": 1686151056,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 154068,
