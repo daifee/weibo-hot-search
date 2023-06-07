@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686141284782,
+  "endTime": 1686142325504,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1921024,
+      "num": 1366266,
+      "word": "22届在骂 23届崩溃 24届焦虑",
+      "onboard_time": 1686135276,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1911504,
       "num": 1911504,
       "word": "万达员工午餐时间玩手机被通报",
@@ -761,14 +769,6 @@
       "onboard_time": 1685758169,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1725996,
-      "num": 1366266,
-      "word": "22届在骂 23届崩溃 24届焦虑",
-      "onboard_time": 1686135276,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1722394,
@@ -985,6 +985,14 @@
       "onboard_time": 1685954368,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1551440,
+      "num": 1551440,
+      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+      "onboard_time": 1686140552,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1537274,
@@ -2067,14 +2075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 995485,
-      "num": 995485,
-      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
-      "onboard_time": 1686140552,
-      "rank": 5,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 992848,
       "num": 992848,
       "word": "AI写高考作文",
@@ -2393,6 +2393,14 @@
       "onboard_time": 1685942008,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851493,
+      "num": 851493,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 848888,
@@ -2729,6 +2737,14 @@
       "onboard_time": 1686123392,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 759391,
+      "num": 759391,
+      "word": "杨颖不要再瘦了",
+      "onboard_time": 1686139654,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 758629,
@@ -3155,11 +3171,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 649087,
+      "num": 649087,
+      "word": "上海迪士尼",
+      "onboard_time": 1686140915,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
       "onboard_time": 1685971528,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643087,
+      "num": 643087,
+      "word": "鼠头鸭脖",
+      "onboard_time": 1686140074,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -6171,6 +6203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 321812,
+      "num": 321812,
+      "word": "小S大女儿韩国舞蹈大赛跳舞视频",
+      "onboard_time": 1686140432,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "手工耿 适合中国宝宝体质的林克",
@@ -6305,14 +6345,6 @@
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 313596,
-      "num": 313596,
-      "word": "杨颖不要再瘦了",
-      "onboard_time": 1686139654,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313465,
@@ -7699,14 +7731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264210,
-      "num": 264210,
-      "word": "鼠头鸭脖",
-      "onboard_time": 1686140074,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264035,
       "num": 264035,
       "word": "张远演唱会",
@@ -8457,14 +8481,6 @@
       "onboard_time": 1685598687,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243471,
-      "num": 243471,
-      "word": "小S大女儿韩国舞蹈大赛跳舞视频",
-      "onboard_time": 1686140432,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 243463,
@@ -9427,6 +9443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221050,
+      "num": 221050,
+      "word": "刘冬沁 某某男主",
+      "onboard_time": 1686141876,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220977,
       "num": 223333,
       "word": "45岁重庆大叔离世捐器官救5人",
@@ -9441,6 +9465,14 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220842,
+      "num": 220842,
+      "word": "帆帆转入TTG",
+      "onboard_time": 1686142114,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 220737,
@@ -10611,6 +10643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197050,
+      "num": 197050,
+      "word": "赵露思陈哲远偷偷藏不住下证",
+      "onboard_time": 1686138695,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "威尔为什么还在",
@@ -10633,6 +10673,14 @@
       "onboard_time": 1685588486,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196563,
+      "num": 196563,
+      "word": "紫幻加入TTG",
+      "onboard_time": 1686141693,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 196205,
@@ -11203,14 +11251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189006,
-      "num": 189006,
-      "word": "上海迪士尼",
-      "onboard_time": 1686140915,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "AG转会期",
@@ -11713,6 +11753,14 @@
       "onboard_time": 1685978190,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180835,
+      "num": 180835,
+      "word": "马嘉祺背对猎人",
+      "onboard_time": 1686141813,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 180679,
@@ -12667,14 +12715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160330,
-      "num": 160330,
-      "word": "赵露思陈哲远偷偷藏不住下证",
-      "onboard_time": 1686138695,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160128,
       "num": 523628,
       "word": "学生高举字条用监控和老师交流发试卷",
@@ -13489,14 +13529,6 @@
       "onboard_time": 1685951188,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141317,
-      "num": 141317,
-      "word": "姜广涛",
-      "onboard_time": 1686141273,
-      "rank": 49,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 141171,
@@ -15707,6 +15739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73224,
+      "num": 483731,
+      "word": "星穹铁道1.1",
+      "onboard_time": 1686139234,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73218,
       "num": 104961,
       "word": "我国首艘国产大型邮轮完成起浮",
@@ -16027,14 +16067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59509,
-      "num": 452051,
-      "word": "星穹铁道1.1",
-      "onboard_time": 1686139234,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 59070,
       "num": 59070,
       "word": "雨后西安上空出现橙色童话云",
@@ -16347,6 +16379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39790,
+      "num": 275579,
+      "word": "投影仪怎么选更护眼",
+      "onboard_time": 1686139473,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39253,
       "num": 48429,
       "word": "张韶涵堵住鼻子化妆",
@@ -16393,14 +16433,6 @@
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 36233,
-      "num": 275579,
-      "word": "投影仪怎么选更护眼",
-      "onboard_time": 1686139473,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35981,
