@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686176154056,
+  "endTime": 1686177211089,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172639,
+      "num": 172639,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 168029,
       "num": 168029,
       "word": "当代大学生的PPT水平",
@@ -297,14 +305,6 @@
       "onboard_time": 1686145834,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131916,
-      "num": 131916,
-      "word": "大学生考点摆摊卖9.85与21.1元花束",
-      "onboard_time": 1686154829,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 130487,
@@ -387,20 +387,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102642,
+      "num": 102642,
+      "word": "班主任给全班请了十年的假",
+      "onboard_time": 1686170232,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 95137,
       "num": 95137,
       "word": "徐娇是不是开了美颜",
       "onboard_time": 1686156383,
       "rank": 34,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 94058,
-      "num": 85124,
-      "word": "班主任给全班请了十年的假",
-      "onboard_time": 1686170232,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 90560,
@@ -451,8 +451,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42994,
+      "num": 77297,
+      "word": "导师说我这份报告是亲子鉴定",
+      "onboard_time": 1686166993,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40570,
-      "num": 49031,
+      "num": 74831,
       "word": "陶昕然用甄嬛传台词祝福高考生",
       "onboard_time": 1686160034,
       "rank": 39,
@@ -467,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33390,
-      "num": 49143,
-      "word": "导师说我这份报告是亲子鉴定",
-      "onboard_time": 1686166993,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 31990,
-      "num": 49067,
+      "num": 71123,
       "word": "数学到底难不难",
       "onboard_time": 1686129107,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 25834,
+      "num": 71984,
+      "word": "柯基每天上班第一件事是去干架",
+      "onboard_time": 1686176776,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25565,
@@ -491,16 +499,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16436,
-      "num": 128263,
+      "raw_hot": 18229,
+      "num": 172287,
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10835,
-      "num": 49313,
+      "raw_hot": 12740,
+      "num": 78358,
       "word": "明天的你请继续加油",
       "onboard_time": 1686167293,
       "rank": 29,
