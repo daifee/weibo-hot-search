@@ -1,0 +1,410 @@
+{
+  "runTime": 1686130414349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14873622,
+        "num": 14873622,
+        "word": "高考数学",
+        "onboard_time": 1686126154,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8168360,
+        "num": 8168360,
+        "word": "数学到底难不难",
+        "onboard_time": 1686129107,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 157793,
+        "num": 2548491,
+        "word": "硬核黑科技助力高考",
+        "onboard_time": 1686126213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2180841,
+        "num": 2180841,
+        "word": "22届考生比23届更着急看到数学试卷",
+        "onboard_time": 1686128565,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2156186,
+        "num": 2156186,
+        "word": "高考数学乙卷",
+        "onboard_time": 1686129467,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2510697,
+        "num": 2011482,
+        "word": "国企负责人与异性牵手逛街被拍",
+        "onboard_time": 1686119434,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1427950,
+        "num": 1427950,
+        "word": "这是工资1W以上才需考虑的事情",
+        "onboard_time": 1686126994,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1416234,
+        "num": 1416234,
+        "word": "马思纯瘦了30斤",
+        "onboard_time": 1686124533,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1328830,
+        "num": 1328830,
+        "word": "山河令制片人马韬去世",
+        "onboard_time": 1686120092,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969138,
+        "num": 969138,
+        "word": "高考完了不用去打暑期工",
+        "onboard_time": 1686122555,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 856998,
+        "num": 856998,
+        "word": "高考作文",
+        "onboard_time": 1686107741,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 748689,
+        "num": 748689,
+        "word": "高考作文 简单",
+        "onboard_time": 1686109729,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 736602,
+        "num": 736602,
+        "word": "受伤的只有22届",
+        "onboard_time": 1686111705,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 719960,
+        "num": 719960,
+        "word": "任嘉伦押中高考作文题",
+        "onboard_time": 1686115357,
+        "rank": 13,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 111138,
+        "num": 694900,
+        "word": "新郎接亲遇送考车队给考生塞红包",
+        "onboard_time": 1686128504,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687527,
+        "num": 687527,
+        "word": "腾讯QQ回应考生喊话",
+        "onboard_time": 1686125072,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 650281,
+        "num": 650281,
+        "word": "花少 邓恩熙",
+        "onboard_time": 1686126453,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1450370,
+        "num": 647323,
+        "word": "妻子在南非出轨染艾滋生下混血婴儿",
+        "onboard_time": 1686128439,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634644,
+        "num": 634644,
+        "word": "这声985谁听了不迷糊",
+        "onboard_time": 1686117213,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 719534,
+        "num": 633532,
+        "word": "南京一高校学生宿舍内被杀害",
+        "onboard_time": 1686122672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630211,
+        "num": 630211,
+        "word": "原来减肥真的和血型有关系",
+        "onboard_time": 1686127112,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 572198,
+        "num": 572198,
+        "word": "汤晶媚和每个人都说了任敏的想法",
+        "onboard_time": 1686123392,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491569,
+        "num": 491569,
+        "word": "董洁首谈离婚风波影响",
+        "onboard_time": 1686113620,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458356,
+        "num": 458356,
+        "word": "花儿与少年第五季嘉宾",
+        "onboard_time": 1686119252,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428066,
+        "num": 428066,
+        "word": "TFBOYS团徽三角没有封角",
+        "onboard_time": 1686124230,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 406610,
+        "num": 406610,
+        "word": "摄影师回应街拍国企领导与女子牵手",
+        "onboard_time": 1686129170,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389893,
+        "num": 389893,
+        "word": "高考",
+        "onboard_time": 1686092659,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359604,
+        "num": 359604,
+        "word": "天官赐福",
+        "onboard_time": 1686129467,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 330419,
+        "num": 330419,
+        "word": "张远谈最可惜内娱组合",
+        "onboard_time": 1686115954,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62927,
+        "num": 321910,
+        "word": "旅俄大熊猫夏季三件套",
+        "onboard_time": 1686128376,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711718,
+        "num": 321108,
+        "word": "新高考一卷数学 大题难",
+        "onboard_time": 1686130307,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 318580,
+        "num": 318580,
+        "word": "林俊杰巡演下半年场次官宣",
+        "onboard_time": 1686119372,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275816,
+        "num": 275816,
+        "word": "高考入场时发现身份证6月6日过期",
+        "onboard_time": 1686111107,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 263501,
+        "num": 263501,
+        "word": "江西省教育厅介入鸭脖事件",
+        "onboard_time": 1686128076,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239737,
+        "num": 239737,
+        "word": "哥哥拿弟弟身份证高考8点45才发现",
+        "onboard_time": 1686129407,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238330,
+        "num": 238330,
+        "word": "第一个出考场的考生麻烦你了",
+        "onboard_time": 1686107980,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 224146,
+        "num": 224146,
+        "word": "粉丝曝成毅每天十几小时打戏",
+        "onboard_time": 1686124592,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218125,
+        "num": 218125,
+        "word": "中央巡视组回应国企领导与异性逛街",
+        "onboard_time": 1686130124,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201845,
+        "num": 201845,
+        "word": "AI写高考作文",
+        "onboard_time": 1686113026,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 23250,
+        "num": 200775,
+        "word": "抖音618每个省都好会省",
+        "onboard_time": 1686128439,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 199728,
+        "num": 199728,
+        "word": "林俊杰广州演唱会",
+        "onboard_time": 1686106958,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193814,
+        "num": 193814,
+        "word": "高考语文",
+        "onboard_time": 1686103592,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190027,
+        "num": 190027,
+        "word": "TFBOYS为王源下个路口打call",
+        "onboard_time": 1686107438,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189715,
+        "num": 189715,
+        "word": "Angelababy 蒂芙尼",
+        "onboard_time": 1686107980,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172184,
+        "num": 172184,
+        "word": "五条悟",
+        "onboard_time": 1686122134,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170062,
+        "num": 170062,
+        "word": "北大才女时隔9年再谈寒门学子",
+        "onboard_time": 1686121173,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 397484,
+        "num": 168808,
+        "word": "中石油",
+        "onboard_time": 1686113801,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 165747,
+        "word": "DYG",
+        "onboard_time": 1686129827,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165358,
+        "num": 165358,
+        "word": "山河令",
+        "onboard_time": 1686120813,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163105,
+        "num": 163105,
+        "word": "千万不要用小拇指掏耳朵了",
+        "onboard_time": 1686100113,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年高考必胜#"
+    }
+  }
+}
