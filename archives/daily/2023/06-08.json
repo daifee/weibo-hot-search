@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686166408381,
+  "endTime": 1686169058473,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -475,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13846,
+      "num": 20291,
+      "word": "导师说我这份报告是亲子鉴定",
+      "onboard_time": 1686166993,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 9429,
       "num": 105323,
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7825,
+      "num": 24971,
+      "word": "明天的你请继续加油",
+      "onboard_time": 1686167293,
+      "rank": 29,
+      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
