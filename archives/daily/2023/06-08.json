@@ -1,21 +1,21 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686179846406,
+  "endTime": 1686180812018,
   "band_list": [
+    {
+      "raw_hot": 2228242,
+      "num": 556702,
+      "word": "与国企领导逛街女子手提包疑为奢侈品",
+      "onboard_time": 1686147273,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1927618,
       "num": 569492,
       "word": "中石油胡继勇被免职",
       "onboard_time": 1686131623,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1783015,
-      "num": 510529,
-      "word": "与国企领导逛街女子手提包疑为奢侈品",
-      "onboard_time": 1686147273,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1186927,
+      "num": 344436,
+      "word": "董思槿",
+      "onboard_time": 1686179784,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083130,
       "num": 1083130,
       "word": "姜广涛",
@@ -43,12 +51,20 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 830832,
-      "num": 830832,
+      "raw_hot": 1021108,
+      "num": 1021108,
       "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
       "onboard_time": 1686146316,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825743,
+      "num": 825743,
+      "word": "高考",
+      "onboard_time": 1686179602,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 786898,
@@ -91,12 +107,36 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 664503,
+      "num": 543100,
+      "word": "都来杜去",
+      "onboard_time": 1686179663,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560017,
+      "num": 560017,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 506525,
       "num": 506525,
       "word": "高考数学",
       "onboard_time": 1686126154,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 455116,
+      "num": 455116,
+      "word": "凤凰传奇一个火上辈子一个火下辈子",
+      "onboard_time": 1686145774,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 453868,
@@ -107,28 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450197,
-      "num": 450197,
-      "word": "大学生考点摆摊卖9.85与21.1元花束",
-      "onboard_time": 1686154829,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 426847,
-      "num": 426847,
-      "word": "凤凰传奇一个火上辈子一个火下辈子",
-      "onboard_time": 1686145774,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396037,
       "num": 396037,
       "word": "杨颖不要再瘦了",
       "onboard_time": 1686139654,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385616,
+      "num": 385616,
+      "word": "太阳裁掉保罗",
+      "onboard_time": 1686179482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 368334,
@@ -155,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279959,
-      "num": 279959,
-      "word": "高考",
-      "onboard_time": 1686179602,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 269539,
       "num": 211139,
       "word": "官方通报国企领导与女子逛街",
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 254075,
-      "num": 219858,
+      "num": 229446,
       "word": "难怪贾玲要瘦100斤",
       "onboard_time": 1686142475,
       "rank": 20,
@@ -211,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229295,
+      "num": 229295,
+      "word": "好友否认虞书欣吴建豪恋情",
+      "onboard_time": 1686179602,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219675,
       "num": 219675,
       "word": "网友把谭松韵的头看成苹果",
@@ -224,14 +256,6 @@
       "word": "中央巡视组回应国企领导与异性逛街",
       "onboard_time": 1686130124,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199735,
-      "num": 155446,
-      "word": "董思槿",
-      "onboard_time": 1686179784,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -251,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187023,
-      "num": 187023,
-      "word": "都来杜去",
-      "onboard_time": 1686179663,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 181329,
+      "num": 181329,
+      "word": "EDG AD",
+      "onboard_time": 1686180504,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 177876,
@@ -275,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165467,
+      "num": 165467,
+      "word": "马思纯瘦了30斤",
+      "onboard_time": 1686124533,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160790,
       "num": 156929,
       "word": "街拍事件摄影师该担责吗",
@@ -291,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149169,
-      "num": 149169,
-      "word": "马思纯瘦了30斤",
-      "onboard_time": 1686124533,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 150561,
+      "num": 150561,
+      "word": "柯基每天上班第一件事是去干架",
+      "onboard_time": 1686176776,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148774,
@@ -305,14 +337,6 @@
       "onboard_time": 1686149914,
       "rank": 29,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 148482,
-      "num": 148482,
-      "word": "太阳裁掉保罗",
-      "onboard_time": 1686179482,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 147355,
@@ -339,11 +363,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141476,
-      "num": 141476,
-      "word": "柯基每天上班第一件事是去干架",
-      "onboard_time": 1686176776,
-      "rank": 47,
+      "raw_hot": 142504,
+      "num": 142504,
+      "word": "演女丑出圈是一种什么体验",
+      "onboard_time": 1686180383,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1686145834,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133005,
+      "num": 133005,
+      "word": "班主任给全班请了十年的假",
+      "onboard_time": 1686170232,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130487,
@@ -369,14 +401,6 @@
       "onboard_time": 1686148476,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129099,
-      "num": 129099,
-      "word": "班主任给全班请了十年的假",
-      "onboard_time": 1686170232,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 123068,
@@ -435,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100091,
+      "num": 100091,
+      "word": "考生做完手术不久2辅警接替背进考场",
+      "onboard_time": 1686180743,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 95137,
       "num": 95137,
       "word": "徐娇是不是开了美颜",
@@ -467,20 +499,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 84342,
-      "num": 84342,
+      "raw_hot": 88765,
+      "num": 88765,
       "word": "导师说我这份报告是亲子鉴定",
       "onboard_time": 1686166993,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 79047,
-      "num": 79047,
-      "word": "好友否认虞书欣吴建豪恋情",
-      "onboard_time": 1686179602,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 86990,
+      "num": 86990,
+      "word": "今日全力以赴明日好好庆祝",
+      "onboard_time": 1686180443,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 78231,
@@ -489,6 +521,14 @@
       "onboard_time": 1686157820,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 76551,
+      "num": 76551,
+      "word": "做了几个月全职女儿后",
+      "onboard_time": 1686180743,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 70605,
@@ -507,6 +547,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 62948,
+      "num": 597554,
+      "word": "我国成功发射一箭26星",
+      "onboard_time": 1686143972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62911,
       "num": 62911,
       "word": "爷爷贴心掰烧饼芯给宝宝吃",
@@ -515,27 +563,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59434,
+      "num": 145213,
+      "word": "男子雨天捎带老人获赠甜桃",
+      "onboard_time": 1686178940,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55521,
       "num": 650098,
       "word": "这份高考祝福穿越百年",
       "onboard_time": 1686144156,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47830,
-      "num": 444231,
-      "word": "我国成功发射一箭26星",
-      "onboard_time": 1686143972,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37097,
-      "num": 127567,
-      "word": "男子雨天捎带老人获赠甜桃",
-      "onboard_time": 1686178940,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
