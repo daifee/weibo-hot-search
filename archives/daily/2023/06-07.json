@@ -1,10 +1,10 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686106506701,
+  "endTime": 1686107002577,
   "band_list": [
     {
-      "raw_hot": 9251404,
-      "num": 9251404,
+      "raw_hot": 10386978,
+      "num": 10386978,
       "word": "高考语文",
       "onboard_time": 1686103592,
       "rank": 12,
@@ -27,8 +27,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1699183,
-      "num": 1699183,
+      "raw_hot": 1819534,
+      "num": 1819534,
       "word": "高考作文预测",
       "onboard_time": 1686069442,
       "rank": 49,
@@ -49,6 +49,14 @@
       "onboard_time": 1686093503,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1319108,
+      "num": 678888,
+      "word": "孙俪发文庆祝和邓超结婚十二周年",
+      "onboard_time": 1686103292,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1302667,
@@ -83,14 +91,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1231904,
-      "num": 673703,
-      "word": "孙俪发文庆祝和邓超结婚十二周年",
-      "onboard_time": 1686103292,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1123135,
       "num": 208265,
       "word": "北京发现两例猴痘病例",
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 964571,
-      "num": 964571,
+      "raw_hot": 1001972,
+      "num": 1001972,
       "word": "高考试卷",
       "onboard_time": 1686102334,
       "rank": 38,
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567806,
-      "num": 567806,
+      "raw_hot": 616230,
+      "num": 616230,
       "word": "高考各科时间表",
       "onboard_time": 1686095909,
       "rank": 12,
@@ -211,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473430,
+      "num": 473430,
+      "word": "王源限定粉发MV",
+      "onboard_time": 1686105876,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468823,
       "num": 468823,
       "word": "种地吧收小麦",
       "onboard_time": 1686099872,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465511,
+      "num": 465511,
+      "word": "中国人离4天工作制还有多远",
+      "onboard_time": 1686104011,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 445708,
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428065,
+      "num": 428065,
+      "word": "高考防作弊磁弹枪亮相考点现场",
+      "onboard_time": 1686105937,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 410058,
       "num": 410058,
       "word": "小伙被吸入涵洞口30人紧紧拉回",
@@ -251,12 +275,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 372351,
-      "num": 372351,
-      "word": "中国人离4天工作制还有多远",
-      "onboard_time": 1686104011,
-      "rank": 15,
-      "category": "社会新闻,财经"
+      "raw_hot": 372443,
+      "num": 239350,
+      "word": "华西口腔学霸挑战高考作文",
+      "onboard_time": 1686106900,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 370688,
@@ -283,20 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318447,
-      "num": 318447,
-      "word": "王源限定粉发MV",
-      "onboard_time": 1686105876,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 312905,
-      "num": 312905,
-      "word": "高考防作弊磁弹枪亮相考点现场",
-      "onboard_time": 1686105937,
-      "rank": 24,
-      "category": "教育,社会新闻"
+      "raw_hot": 315836,
+      "num": 315836,
+      "word": "鸭脖",
+      "onboard_time": 1686106297,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309463,
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238539,
-      "num": 238539,
-      "word": "鸭脖",
-      "onboard_time": 1686106297,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235680,
       "num": 158208,
       "word": "乌克兰大坝被炸",
@@ -449,6 +457,14 @@
       "onboard_time": 1686048269,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226740,
+      "num": 226740,
+      "word": "粤语是何书桓语录最好的滤镜",
+      "onboard_time": 1686105155,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 224409,
@@ -515,12 +531,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "五月天广州站审批通过",
+      "onboard_time": 1686106178,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204385,
       "num": 204385,
       "word": "祝2023高考生大胜归来",
       "onboard_time": 1686103171,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "肖春生佟晓梅牵手散步路透",
+      "onboard_time": 1686106597,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 198930,
@@ -571,6 +603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 191595,
+      "num": 191595,
+      "word": "NBA",
+      "onboard_time": 1686103592,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190859,
       "num": 190859,
       "word": "无毛猫夏天真的好惨啊",
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 190163,
-      "num": 190163,
+      "num": 303604,
       "word": "高考开考铃声",
       "onboard_time": 1686103772,
       "rank": 48,
@@ -593,22 +633,6 @@
       "onboard_time": 1686041848,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188754,
-      "num": 188754,
-      "word": "粤语是何书桓语录最好的滤镜",
-      "onboard_time": 1686105155,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188604,
-      "num": 188604,
-      "word": "NBA",
-      "onboard_time": 1686103592,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 185697,
@@ -624,14 +648,6 @@
       "word": "NCT将举办大队演唱会",
       "onboard_time": 1686103413,
       "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 183860,
-      "num": 183860,
-      "word": "五月天广州站审批通过",
-      "onboard_time": 1686106178,
-      "rank": 39,
       "category": "音乐"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1686058472,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134997,
+      "num": 134997,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1686106958,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 133310,

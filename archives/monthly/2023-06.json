@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686106506701,
+  "endTime": 1686107002577,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9251404,
-      "num": 9251404,
+      "raw_hot": 10386978,
+      "num": 10386978,
       "word": "高考语文",
       "onboard_time": 1686103592,
       "rank": 12,
@@ -539,6 +539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1819534,
+      "num": 1819534,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1794101,
       "num": 1370428,
       "word": "柳州",
@@ -593,14 +601,6 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1699183,
-      "num": 1699183,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1682139,
@@ -1091,6 +1091,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1319108,
+      "num": 678888,
+      "word": "孙俪发文庆祝和邓超结婚十二周年",
+      "onboard_time": 1686103292,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1312984,
       "num": 1102461,
       "word": "杨幂IP地址在香港",
@@ -1328,14 +1336,6 @@
       "word": "金智秀新冠确诊",
       "onboard_time": 1685626952,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1231904,
-      "num": 673703,
-      "word": "孙俪发文庆祝和邓超结婚十二周年",
-      "onboard_time": 1686103292,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001972,
+      "num": 1001972,
+      "word": "高考试卷",
+      "onboard_time": 1686102334,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 999968,
       "num": 999968,
       "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1686021448,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 964571,
-      "num": 964571,
-      "word": "高考试卷",
-      "onboard_time": 1686102334,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 964320,
@@ -2859,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616230,
+      "num": 616230,
+      "word": "高考各科时间表",
+      "onboard_time": 1686095909,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 615740,
       "num": 545703,
       "word": "肖战王一博同款衬衣",
@@ -3081,14 +3089,6 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567806,
-      "num": 567806,
-      "word": "高考各科时间表",
-      "onboard_time": 1686095909,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 565931,
@@ -3699,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473430,
+      "num": 473430,
+      "word": "王源限定粉发MV",
+      "onboard_time": 1686105876,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471013,
       "num": 445484,
       "word": "徐明浩直播",
@@ -3753,6 +3761,14 @@
       "onboard_time": 1685674226,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465511,
+      "num": 465511,
+      "word": "中国人离4天工作制还有多远",
+      "onboard_time": 1686104011,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 463515,
@@ -4041,6 +4057,14 @@
       "onboard_time": 1685587765,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428065,
+      "num": 428065,
+      "word": "高考防作弊磁弹枪亮相考点现场",
+      "onboard_time": 1686105937,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 427407,
@@ -4651,12 +4675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372351,
-      "num": 372351,
-      "word": "中国人离4天工作制还有多远",
-      "onboard_time": 1686104011,
-      "rank": 15,
-      "category": "社会新闻,财经"
+      "raw_hot": 372443,
+      "num": 239350,
+      "word": "华西口腔学霸挑战高考作文",
+      "onboard_time": 1686106900,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 372320,
@@ -5547,14 +5571,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 318447,
-      "num": 318447,
-      "word": "王源限定粉发MV",
-      "onboard_time": 1686105876,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317993,
       "num": 317993,
       "word": "奶奶看小鬼演唱会捂耳朵",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1685603726,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312905,
-      "num": 312905,
-      "word": "高考防作弊磁弹枪亮相考点现场",
-      "onboard_time": 1686105937,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 312774,
@@ -8259,6 +8267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226740,
+      "num": 226740,
+      "word": "粤语是何书桓语录最好的滤镜",
+      "onboard_time": 1686105155,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226609,
       "num": 226609,
       "word": "当年高考为什么不选清华",
@@ -9099,6 +9115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "五月天广州站审批通过",
+      "onboard_time": 1686106178,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207227,
       "num": 207227,
       "word": "大树",
@@ -9425,6 +9449,14 @@
       "onboard_time": 1685609126,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "肖春生佟晓梅牵手散步路透",
+      "onboard_time": 1686106597,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 200269,
@@ -9915,6 +9947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191595,
+      "num": 191595,
+      "word": "NBA",
+      "onboard_time": 1685929046,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191433,
       "num": 191433,
       "word": "男子骑车碾压1个月大小狗致死",
@@ -10044,7 +10084,7 @@
     },
     {
       "raw_hot": 190163,
-      "num": 190163,
+      "num": 303604,
       "word": "高考开考铃声",
       "onboard_time": 1686103772,
       "rank": 48,
@@ -10163,28 +10203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188754,
-      "num": 188754,
-      "word": "粤语是何书桓语录最好的滤镜",
-      "onboard_time": 1686105155,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
       "onboard_time": 1685608048,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188604,
-      "num": 188604,
-      "word": "NBA",
-      "onboard_time": 1685929046,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 188584,
@@ -10433,14 +10457,6 @@
       "onboard_time": 1685779588,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183860,
-      "num": 183860,
-      "word": "五月天广州站审批通过",
-      "onboard_time": 1686106178,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 183820,
@@ -12520,6 +12536,14 @@
       "word": "鹿晗三巡周边预告",
       "onboard_time": 1685952509,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 134997,
+      "num": 134997,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1686106958,
+      "rank": 49,
       "category": "音乐"
     },
     {
