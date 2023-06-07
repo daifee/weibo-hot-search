@@ -1,7 +1,15 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686107002577,
+  "endTime": 1686108104683,
   "band_list": [
+    {
+      "raw_hot": 13189379,
+      "num": 13189379,
+      "word": "高考语文",
+      "onboard_time": 1686103592,
+      "rank": 12,
+      "category": "教育"
+    },
     {
       "raw_hot": 11929165,
       "num": 11929165,
@@ -9,14 +17,6 @@
       "onboard_time": 1685700868,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10386978,
-      "num": 10386978,
-      "word": "高考语文",
-      "onboard_time": 1686103592,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 8544897,
@@ -41,6 +41,14 @@
       "onboard_time": 1685748621,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4313101,
+      "num": 4313101,
+      "word": "高考作文",
+      "onboard_time": 1686107741,
+      "rank": 3,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 3863147,
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 1319108,
-      "num": 678888,
+      "num": 736709,
       "word": "孙俪发文庆祝和邓超结婚十二周年",
       "onboard_time": 1686103292,
       "rank": 16,
@@ -1491,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1149512,
+      "num": 1001972,
+      "word": "高考试卷",
+      "onboard_time": 1686102334,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1147186,
       "num": 792011,
       "word": "女子退猫被拒后直接把猫摔死",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1685779288,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1001972,
-      "num": 1001972,
-      "word": "高考试卷",
-      "onboard_time": 1686102334,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 999968,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1686017846,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 867454,
+      "num": 867454,
+      "word": "高考防作弊磁弹枪亮相考点现场",
+      "onboard_time": 1686105937,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 867084,
@@ -2667,6 +2683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 675493,
+      "num": 675493,
+      "word": "高考各科时间表",
+      "onboard_time": 1686095909,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 669807,
       "num": 185372,
       "word": "顾成 苏艳",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1685933067,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 616230,
-      "num": 616230,
-      "word": "高考各科时间表",
-      "onboard_time": 1686095909,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 615740,
@@ -3659,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477442,
+      "num": 477442,
+      "word": "好友称董洁从未埋怨潘粤明",
+      "onboard_time": 1686107741,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476576,
       "num": 407811,
       "word": "张小狮 大树",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1686054628,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 459316,
+      "num": 459316,
+      "word": "肖战抱小朋友",
+      "onboard_time": 1686107078,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459208,
@@ -4057,14 +4089,6 @@
       "onboard_time": 1685587765,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 428065,
-      "num": 428065,
-      "word": "高考防作弊磁弹枪亮相考点现场",
-      "onboard_time": 1686105937,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 427407,
@@ -7011,6 +7035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261907,
+      "num": 261907,
+      "word": "肖春生佟晓梅牵手散步路透",
+      "onboard_time": 1686106597,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261869,
       "num": 261869,
       "word": "隐翅虫 重楼解毒酊",
@@ -8043,6 +8075,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 232337,
+      "num": 232337,
+      "word": "TFBOYS为王源下个路口打call",
+      "onboard_time": 1686107438,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232273,
       "num": 232273,
       "word": "马斯克到访上海",
@@ -8587,6 +8627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219191,
+      "num": 219191,
+      "word": "五月天广州站审批通过",
+      "onboard_time": 1686106178,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218898,
       "num": 218898,
       "word": "薛之谦宜昌",
@@ -8601,6 +8649,14 @@
       "onboard_time": 1686025773,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 218830,
+      "num": 218830,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1686106958,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 218758,
@@ -9115,14 +9171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207281,
-      "num": 207281,
-      "word": "五月天广州站审批通过",
-      "onboard_time": 1686106178,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 207227,
       "num": 207227,
       "word": "大树",
@@ -9411,6 +9459,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 200847,
+      "num": 200847,
+      "word": "大学生凑热闹",
+      "onboard_time": 1686107438,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 200653,
       "num": 200653,
       "word": "张真源黑色花衬衫",
@@ -9449,14 +9505,6 @@
       "onboard_time": 1685609126,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 200284,
-      "num": 200284,
-      "word": "肖春生佟晓梅牵手散步路透",
-      "onboard_time": 1686106597,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 200269,
@@ -9513,6 +9561,14 @@
       "onboard_time": 1685800709,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199025,
+      "num": 199025,
+      "word": "第一个出考场的考生麻烦你了",
+      "onboard_time": 1686107980,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 198930,
@@ -9585,6 +9641,14 @@
       "onboard_time": 1685809346,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198051,
+      "num": 185291,
+      "word": "浙江高考语数外首次用全国卷",
+      "onboard_time": 1686107320,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 198037,
@@ -9825,6 +9889,14 @@
       "onboard_time": 1685576726,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193335,
+      "num": 193335,
+      "word": "穿旗袍",
+      "onboard_time": 1686107923,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193246,
@@ -10203,6 +10275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188665,
+      "num": 188665,
+      "word": "高考第一天的考场门口",
+      "onboard_time": 1686107320,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -10241,6 +10321,14 @@
       "onboard_time": 1685939312,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187759,
+      "num": 187759,
+      "word": "Angelababy 蒂芙尼",
+      "onboard_time": 1686107980,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 187722,
@@ -10337,6 +10425,14 @@
       "onboard_time": 1685589506,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185715,
+      "num": 185715,
+      "word": "麦芒",
+      "onboard_time": 1686107503,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185649,
@@ -10881,6 +10977,14 @@
       "onboard_time": 1685847984,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175135,
+      "num": 178445,
+      "word": "今天把最好的祝福送给高考生",
+      "onboard_time": 1686107139,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 174617,
@@ -12536,14 +12640,6 @@
       "word": "鹿晗三巡周边预告",
       "onboard_time": 1685952509,
       "rank": 43,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 134997,
-      "num": 134997,
-      "word": "林俊杰广州演唱会",
-      "onboard_time": 1686106958,
-      "rank": 49,
       "category": "音乐"
     },
     {
@@ -15065,6 +15161,14 @@
       "onboard_time": 1686031226,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38623,
+      "num": 4944369,
+      "word": "我的高考回忆",
+      "onboard_time": 1686107377,
+      "rank": 2,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 37722,
