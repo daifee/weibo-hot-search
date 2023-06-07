@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/05 00:21:01 ~ 2023/06/07 12:20:14
+本榜单时间：2023/06/05 00:21:01 ~ 2023/06/07 12:33:31
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95%23" target="weibo">
-高考作文 简单（热度：4854250）
+高考作文 简单（热度：5396929）
 </a>
 </li>
 
@@ -45,14 +45,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%23" target="weibo">
-丫丫（热度：3044586）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23" target="weibo">
+第一个出考场的考生麻烦你了（热度：3206564）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23" target="weibo">
-第一个出考场的考生麻烦你了（热度：2888662）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%23" target="weibo">
+丫丫（热度：3044586）
 </a>
 </li>
 
@@ -196,7 +196,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E7%A7%B0%E8%91%A3%E6%B4%81%E4%BB%8E%E6%9C%AA%E5%9F%8B%E6%80%A8%E6%BD%98%E7%B2%A4%E6%98%8E%23" target="weibo">
-好友称董洁从未埋怨潘粤明（热度：1844370）
+好友称董洁从未埋怨潘粤明（热度：1872136）
 </a>
 </li>
 
@@ -219,6 +219,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23" target="weibo">
+Angelababy 蒂芙尼（热度：1798701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%AB%E4%BC%A49%E5%A4%A9%E6%89%8D%E9%80%81%E5%8C%BB%E9%99%A2%E7%88%B8%E7%88%B8%E6%8B%92%E7%BB%9D%E6%89%8B%E6%9C%AF%23" target="weibo">
 孩子烫伤9天才送医院爸爸拒绝手术（热度：1762985）
 </a>
@@ -227,12 +233,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%83100%E5%A4%A9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%87%8F%E9%87%8D53%E6%96%A4%23" target="weibo">
 男子连吃100天麦当劳减重53斤（热度：1760114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23" target="weibo">
-Angelababy 蒂芙尼（热度：1716015）
 </a>
 </li>
 
@@ -525,6 +525,18 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23" target="weibo">
+高考入场时发现身份证6月6日过期（热度：1145802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AD%A9%E5%AD%90%E9%B2%8D%E8%95%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E4%B8%A4%E6%AC%A1%23" target="weibo">
+一样的孩子鲍蕾为什么生两次（热度：1135346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周狗屎运最旺的星座（热度：1118785）
 </a>
@@ -545,12 +557,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E8%88%9E%E6%8B%85%23" target="weibo">
 四大顶级舞担（热度：1086340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AD%A9%E5%AD%90%E9%B2%8D%E8%95%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E4%B8%A4%E6%AC%A1%23" target="weibo">
-一样的孩子鲍蕾为什么生两次（热度：1078725）
 </a>
 </li>
 
@@ -837,6 +843,12 @@ PDD直播弹幕（热度：822919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A%23" target="weibo">
+受伤的只有22届（热度：769153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%8C%82%E5%85%83%20%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%AE%B0%E8%AE%B0%23" target="weibo">
 安茂元 三亚被宰记（热度：765929）
 </a>
@@ -1013,6 +1025,12 @@ YG艺人目录中没有BIGBANG（热度：638400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%84%9F%E6%81%A9%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
 种地吧感恩音乐会（热度：584751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9C%81%E4%BB%BD%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%9C%80%E9%9A%BE%23" target="weibo">
+哪个省份作文题目最难（热度：569951）
 </a>
 </li>
 
@@ -1479,12 +1497,6 @@ seventeen粉丝的命也是命（热度：370688）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23" target="weibo">
-高考入场时发现身份证6月6日过期（热度：365904）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E6%95%91%E7%81%AB%23" target="weibo">
 徐志胜救火（热度：365077）
 </a>
@@ -1757,6 +1769,12 @@ the idol（热度：332839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E8%8A%AE%E9%BA%9F%E6%9D%A5%E8%87%AA%E5%A4%B4%E5%8F%91%E7%9A%84%E9%BB%98%E5%A5%91%23" target="weibo">
 肖战刘芮麟来自头发的默契（热度：306483）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%83%B3%E5%8E%BB%E5%B9%B4%E7%9A%84%E7%BA%A2%E6%A5%BC%E6%A2%A6%23" target="weibo">
+回想去年的红楼梦（热度：305941）
 </a>
 </li>
 
@@ -2259,6 +2277,12 @@ Nadech求婚Yaya（热度：254648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%A4%E8%AF%AD%E6%98%AF%E4%BD%95%E4%B9%A6%E6%A1%93%E8%AF%AD%E5%BD%95%E6%9C%80%E5%A5%BD%E7%9A%84%E6%BB%A4%E9%95%9C%23" target="weibo">
+粤语是何书桓语录最好的滤镜（热度：243817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%8D%83%E7%9A%84%E5%96%9C%E5%AE%B47%E6%88%90%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C%E6%88%96%E5%8F%AA%E8%A6%81%E4%B8%80%E5%8D%83%E5%A4%9A%23" target="weibo">
 六千的喜宴7成是预制菜或只要一千多（热度：243463）
 </a>
@@ -2303,12 +2327,6 @@ Nadech求婚Yaya（热度：254648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E8%AF%B7%E6%8B%BF%E5%87%BA%E6%8B%8D%E5%89%A7%E7%9A%84%E5%B0%BA%E5%BA%A6%E6%9D%A5%E6%8B%8Dvlog%23" target="weibo">
 陈伟霆请拿出拍剧的尺度来拍vlog（热度：241090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9C%81%E4%BB%BD%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%9C%80%E9%9A%BE%23" target="weibo">
-哪个省份作文题目最难（热度：240792）
 </a>
 </li>
 
@@ -2433,6 +2451,12 @@ M2 Ultra（热度：234230）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B0%E7%90%83%23" target="weibo">
+寰球（热度：228086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%9B%B4%E8%8B%A6%E8%BF%98%E6%98%AF%E4%B8%8A%E5%AD%A6%E6%9B%B4%E8%8B%A6%23" target="weibo">
 上班更苦还是上学更苦（热度：227386）
 </a>
@@ -2447,12 +2471,6 @@ M2 Ultra（热度：234230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ff14%23" target="weibo">
 ff14（热度：226863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B2%A4%E8%AF%AD%E6%98%AF%E4%BD%95%E4%B9%A6%E6%A1%93%E8%AF%AD%E5%BD%95%E6%9C%80%E5%A5%BD%E7%9A%84%E6%BB%A4%E9%95%9C%23" target="weibo">
-粤语是何书桓语录最好的滤镜（热度：226740）
 </a>
 </li>
 
@@ -2649,12 +2667,6 @@ YG和SMTOWN好像都一个样（热度：218510）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B0%E7%90%83%23" target="weibo">
-寰球（热度：212147）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B7%E6%AC%BE%E4%B8%8A%E7%8F%AD%23" target="weibo">
 贷款上班（热度：211853）
 </a>
@@ -2777,6 +2789,12 @@ AL战胜TT（热度：207006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6tatan%E8%A7%81%E9%9D%A2%23" target="weibo">
 郭艾伦tatan见面（热度：204271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E5%AD%A6%E7%94%9F%E4%B8%BA%E8%80%81%E5%B8%88%E9%80%81%E6%83%8A%E5%96%9C%23" target="weibo">
+高三最后一课学生为老师送惊喜（热度：204257）
 </a>
 </li>
 
@@ -3047,6 +3065,12 @@ NBA（热度：191595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E9%A6%86%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%AD%8C%E8%BF%B7%E8%BF%9B%E7%94%B7%E5%8E%95%23" target="weibo">
 薛之谦演唱会场馆回应女歌迷进男厕（热度：190050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BB%8A%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%9A%BE%E5%90%97%23" target="weibo">
+你觉得今年的高考作文难吗（热度：189868）
 </a>
 </li>
 
@@ -3605,6 +3629,12 @@ Vision Pro 眼睛手势操作（热度：159043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E9%99%86%E8%99%8E%E9%9F%B3%E7%BB%BC%E7%95%8C%E6%98%BE%E7%9C%BC%E5%8C%85%23" target="weibo">
 张远陆虎音综界显眼包（热度：154068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%99%AA%E8%80%83%E8%80%81%E5%B8%88%E7%9A%84%E5%BF%83%E7%90%86%E5%8E%8B%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+高考陪考老师的心理压力有多大（热度：153633）
 </a>
 </li>
 
@@ -4481,12 +4511,6 @@ WWDC（热度：70086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%BF%E8%BD%A6%E6%B7%B9%E6%B2%A1%E5%89%8D%E6%B0%91%E8%AD%A61%E5%88%86%E9%92%9F%E5%86%85%E8%BF%9E%E6%95%91%E7%94%B7%E5%AD%902%E6%AC%A1%23" target="weibo">
 轿车淹没前民警1分钟内连救男子2次（热度：57454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%99%AA%E8%80%83%E8%80%81%E5%B8%88%E7%9A%84%E5%BF%83%E7%90%86%E5%8E%8B%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-高考陪考老师的心理压力有多大（热度：51810）
 </a>
 </li>
 

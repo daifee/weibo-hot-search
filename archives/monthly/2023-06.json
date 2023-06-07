@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686111614871,
+  "endTime": 1686112411886,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4854250,
-      "num": 4854250,
+      "raw_hot": 5396929,
+      "num": 5396929,
       "word": "高考作文 简单",
       "onboard_time": 1686109729,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3206564,
+      "num": 3206564,
+      "word": "第一个出考场的考生麻烦你了",
+      "onboard_time": 1686107980,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 3115180,
       "num": 511446,
       "word": "石家庄小三",
@@ -97,14 +105,6 @@
       "onboard_time": 1686021208,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2888662,
-      "num": 2888662,
-      "word": "第一个出考场的考生麻烦你了",
-      "onboard_time": 1686107980,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2800496,
@@ -523,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1872136,
+      "num": 1161015,
+      "word": "好友称董洁从未埋怨潘粤明",
+      "onboard_time": 1686107741,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1869828,
       "num": 1043422,
       "word": "清清恋爱",
       "onboard_time": 1685880146,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1844370,
-      "num": 1161015,
-      "word": "好友称董洁从未埋怨潘粤明",
-      "onboard_time": 1686107741,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1841672,
@@ -595,6 +595,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1798701,
+      "num": 1798701,
+      "word": "Angelababy 蒂芙尼",
+      "onboard_time": 1686107980,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1794101,
       "num": 1370428,
       "word": "柳州",
@@ -648,14 +656,6 @@
       "word": "杨紫 唯一纯白茉莉花",
       "onboard_time": 1685883570,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1716015,
-      "num": 1716015,
-      "word": "Angelababy 蒂芙尼",
-      "onboard_time": 1686107980,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1156,7 +1156,7 @@
     },
     {
       "raw_hot": 1319108,
-      "num": 962467,
+      "num": 1026656,
       "word": "孙俪发文庆祝和邓超结婚十二周年",
       "onboard_time": 1686103292,
       "rank": 16,
@@ -1579,12 +1579,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1145802,
+      "num": 1145802,
+      "word": "高考入场时发现身份证6月6日过期",
+      "onboard_time": 1686111107,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1139383,
       "num": 1139383,
       "word": "事业单位",
       "onboard_time": 1685589866,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1135346,
+      "num": 1135346,
+      "word": "一样的孩子鲍蕾为什么生两次",
+      "onboard_time": 1686108835,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1133157,
@@ -1665,14 +1681,6 @@
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1078725,
-      "num": 1078725,
-      "word": "一样的孩子鲍蕾为什么生两次",
-      "onboard_time": 1686108835,
-      "rank": 11,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1076254,
@@ -2436,11 +2444,19 @@
     },
     {
       "raw_hot": 770330,
-      "num": 550288,
+      "num": 652484,
       "word": "千万不要用小拇指掏耳朵了",
       "onboard_time": 1686100113,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 769153,
+      "num": 769153,
+      "word": "受伤的只有22届",
+      "onboard_time": 1686111705,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 767588,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1685536646,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 569951,
+      "num": 569951,
+      "word": "哪个省份作文题目最难",
+      "onboard_time": 1686111406,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 567816,
@@ -4883,14 +4907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365904,
-      "num": 365904,
-      "word": "高考入场时发现身份证6月6日过期",
-      "onboard_time": 1686111107,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 365142,
       "num": 220594,
       "word": "男童不慎将玩具甩进邻桌火锅烫到婴儿",
@@ -5961,6 +5977,14 @@
       "onboard_time": 1686059134,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305941,
+      "num": 305941,
+      "word": "回想去年的红楼梦",
+      "onboard_time": 1686111885,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 304746,
@@ -7604,7 +7628,7 @@
     },
     {
       "raw_hot": 248868,
-      "num": 248868,
+      "num": 296558,
       "word": "第一个考验交警反应能力的考生出现了",
       "onboard_time": 1686108778,
       "rank": 48,
@@ -7763,6 +7787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243817,
+      "num": 243817,
+      "word": "粤语是何书桓语录最好的滤镜",
+      "onboard_time": 1686105155,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243759,
       "num": 188244,
       "word": "王一博东京街头漫步随拍",
@@ -7897,14 +7929,6 @@
       "onboard_time": 1685890052,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240792,
-      "num": 240792,
-      "word": "哪个省份作文题目最难",
-      "onboard_time": 1686111406,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 240785,
@@ -8379,6 +8403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228086,
+      "num": 228086,
+      "word": "寰球",
+      "onboard_time": 1686111226,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228043,
       "num": 228043,
       "word": "贪官假释期威胁媒体删除忏悔视频",
@@ -8449,14 +8481,6 @@
       "onboard_time": 1686042868,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226740,
-      "num": 226740,
-      "word": "粤语是何书桓语录最好的滤镜",
-      "onboard_time": 1686105155,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 226609,
@@ -9083,14 +9107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212147,
-      "num": 212147,
-      "word": "寰球",
-      "onboard_time": 1686111226,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211853,
       "num": 211853,
       "word": "贷款上班",
@@ -9433,6 +9449,14 @@
       "onboard_time": 1685977409,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204257,
+      "num": 204257,
+      "word": "高三最后一课学生为老师送惊喜",
+      "onboard_time": 1686112242,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 204177,
@@ -10321,6 +10345,14 @@
       "onboard_time": 1685974230,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189868,
+      "num": 189868,
+      "word": "你觉得今年的高考作文难吗",
+      "onboard_time": 1686112184,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 189683,
@@ -12073,6 +12105,14 @@
       "onboard_time": 1685879727,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153633,
+      "num": 963152,
+      "word": "高考陪考老师的心理压力有多大",
+      "onboard_time": 1686110749,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153520,
@@ -15104,14 +15144,6 @@
       "word": "无人机看长江金色航道美如油画",
       "onboard_time": 1685710832,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51810,
-      "num": 963152,
-      "word": "高考陪考老师的心理压力有多大",
-      "onboard_time": 1686110749,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

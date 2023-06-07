@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/07 00:22:04 ~ 2023/06/07 12:20:14
+本榜单时间：2023/06/07 00:22:04 ~ 2023/06/07 12:33:31
 </p>
 </blockquote>
 <p>
@@ -34,13 +34,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E7%AE%80%E5%8D%95%23" target="weibo">
-高考作文 简单（热度：4854250）
+高考作文 简单（热度：5396929）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%E9%BA%BB%E7%83%A6%E4%BD%A0%E4%BA%86%23" target="weibo">
-第一个出考场的考生麻烦你了（热度：2888662）
+第一个出考场的考生麻烦你了（热度：3206564）
 </a>
 </li>
 
@@ -58,7 +58,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E7%A7%B0%E8%91%A3%E6%B4%81%E4%BB%8E%E6%9C%AA%E5%9F%8B%E6%80%A8%E6%BD%98%E7%B2%A4%E6%98%8E%23" target="weibo">
-好友称董洁从未埋怨潘粤明（热度：1844370）
+好友称董洁从未埋怨潘粤明（热度：1872136）
 </a>
 </li>
 
@@ -76,7 +76,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%20%E8%92%82%E8%8A%99%E5%B0%BC%23" target="weibo">
-Angelababy 蒂芙尼（热度：1716015）
+Angelababy 蒂芙尼（热度：1798701）
 </a>
 </li>
 
@@ -135,14 +135,20 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23" target="weibo">
-北京发现两例猴痘病例（热度：1123135）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23" target="weibo">
+高考入场时发现身份证6月6日过期（热度：1145802）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B7%E7%9A%84%E5%AD%A9%E5%AD%90%E9%B2%8D%E8%95%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E4%B8%A4%E6%AC%A1%23" target="weibo">
-一样的孩子鲍蕾为什么生两次（热度：1078725）
+一样的孩子鲍蕾为什么生两次（热度：1135346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B%23" target="weibo">
+北京发现两例猴痘病例（热度：1123135）
 </a>
 </li>
 
@@ -195,6 +201,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E4%BC%A4%E7%9A%84%E5%8F%AA%E6%9C%8922%E5%B1%8A%23" target="weibo">
+受伤的只有22届（热度：769153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
 猴痘（热度：768355）
 </a>
@@ -215,6 +227,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E8%87%AA%E8%B4%B9%E7%BB%99%E5%85%A8%E7%8F%AD%E4%B9%B0%E5%92%96%E5%95%A1%E6%8A%BD%E4%B8%AD%E7%94%B5%E8%BD%A6%23" target="weibo">
 辅导员自费给全班买咖啡抽中电车（热度：681851）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9C%81%E4%BB%BD%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%9C%80%E9%9A%BE%23" target="weibo">
+哪个省份作文题目最难（热度：569951）
 </a>
 </li>
 
@@ -321,12 +339,6 @@ seventeen粉丝的命也是命（热度：370688）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA%E6%97%B6%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AF%816%E6%9C%886%E6%97%A5%E8%BF%87%E6%9C%9F%23" target="weibo">
-高考入场时发现身份证6月6日过期（热度：365904）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E6%95%91%E7%81%AB%23" target="weibo">
 徐志胜救火（热度：365077）
 </a>
@@ -365,6 +377,12 @@ seventeen粉丝的命也是命（热度：370688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%91%E7%83%AD%E9%97%B9%23" target="weibo">
 大学生凑热闹（热度：307608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%83%B3%E5%8E%BB%E5%B9%B4%E7%9A%84%E7%BA%A2%E6%A5%BC%E6%A2%A6%23" target="weibo">
+回想去年的红楼梦（热度：305941）
 </a>
 </li>
 
@@ -453,14 +471,14 @@ BKPP香港粉丝见面会主持人（热度：256587）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%BF%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%B0%86%E5%8A%A0%E9%80%9F%23" target="weibo">
-马斯克称未来房价下跌将加速（热度：242807）
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%A4%E8%AF%AD%E6%98%AF%E4%BD%95%E4%B9%A6%E6%A1%93%E8%AF%AD%E5%BD%95%E6%9C%80%E5%A5%BD%E7%9A%84%E6%BB%A4%E9%95%9C%23" target="weibo">
+粤语是何书桓语录最好的滤镜（热度：243817）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9C%81%E4%BB%BD%E4%BD%9C%E6%96%87%E9%A2%98%E7%9B%AE%E6%9C%80%E9%9A%BE%23" target="weibo">
-哪个省份作文题目最难（热度：240792）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%BF%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%B0%86%E5%8A%A0%E9%80%9F%23" target="weibo">
+马斯克称未来房价下跌将加速（热度：242807）
 </a>
 </li>
 
@@ -495,8 +513,8 @@ BKPP香港粉丝见面会主持人（热度：256587）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B2%A4%E8%AF%AD%E6%98%AF%E4%BD%95%E4%B9%A6%E6%A1%93%E8%AF%AD%E5%BD%95%E6%9C%80%E5%A5%BD%E7%9A%84%E6%BB%A4%E9%95%9C%23" target="weibo">
-粤语是何书桓语录最好的滤镜（热度：226740）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B0%E7%90%83%23" target="weibo">
+寰球（热度：228086）
 </a>
 </li>
 
@@ -527,12 +545,6 @@ BKPP香港粉丝见面会主持人（热度：256587）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 林俊杰广州演唱会（热度：218830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B0%E7%90%83%23" target="weibo">
-寰球（热度：212147）
 </a>
 </li>
 
@@ -569,6 +581,12 @@ BKPP香港粉丝见面会主持人（热度：256587）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D2023%E9%AB%98%E8%80%83%E7%94%9F%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23" target="weibo">
 祝2023高考生大胜归来（热度：204385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E5%AD%A6%E7%94%9F%E4%B8%BA%E8%80%81%E5%B8%88%E9%80%81%E6%83%8A%E5%96%9C%23" target="weibo">
+高三最后一课学生为老师送惊喜（热度：204257）
 </a>
 </li>
 
@@ -629,6 +647,12 @@ NBA（热度：191595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BC%80%E8%80%83%E9%93%83%E5%A3%B0%23" target="weibo">
 高考开考铃声（热度：190163）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BB%8A%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%9A%BE%E5%90%97%23" target="weibo">
+你觉得今年的高考作文难吗（热度：189868）
 </a>
 </li>
 
@@ -785,6 +809,12 @@ e人到底能e到什么程度（热度：180228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E9%99%86%E8%99%8E%E9%9F%B3%E7%BB%BC%E7%95%8C%E6%98%BE%E7%9C%BC%E5%8C%85%23" target="weibo">
 张远陆虎音综界显眼包（热度：154068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%99%AA%E8%80%83%E8%80%81%E5%B8%88%E7%9A%84%E5%BF%83%E7%90%86%E5%8E%8B%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+高考陪考老师的心理压力有多大（热度：153633）
 </a>
 </li>
 
@@ -971,12 +1001,6 @@ e人到底能e到什么程度（热度：180228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
 一句话祝福2023高考生（热度：58445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%99%AA%E8%80%83%E8%80%81%E5%B8%88%E7%9A%84%E5%BF%83%E7%90%86%E5%8E%8B%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-高考陪考老师的心理压力有多大（热度：51810）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1686112411886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12667254,
+        "num": 12667254,
+        "word": "高考作文",
+        "onboard_time": 1686107741,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 7032048,
+        "num": 7032048,
+        "word": "高考语文",
+        "onboard_time": 1686103592,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1059,
+        "num": 5531079,
+        "word": "我的高考回忆",
+        "onboard_time": 1686107377,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 5396929,
+        "num": 5396929,
+        "word": "高考作文 简单",
+        "onboard_time": 1686109729,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 3206564,
+        "num": 3206564,
+        "word": "第一个出考场的考生麻烦你了",
+        "onboard_time": 1686107980,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2377166,
+        "num": 2377166,
+        "word": "新课标一卷 故事是有力量的",
+        "onboard_time": 1686110749,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1798701,
+        "num": 1798701,
+        "word": "Angelababy 蒂芙尼",
+        "onboard_time": 1686107980,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1792834,
+        "num": 1792834,
+        "word": "全国甲卷 时间的仆人",
+        "onboard_time": 1686109552,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1702747,
+        "num": 1702747,
+        "word": "高考",
+        "onboard_time": 1686092659,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1145802,
+        "num": 1145802,
+        "word": "高考入场时发现身份证6月6日过期",
+        "onboard_time": 1686111107,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1872136,
+        "num": 1140691,
+        "word": "好友称董洁从未埋怨潘粤明",
+        "onboard_time": 1686107741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135346,
+        "num": 1135346,
+        "word": "一样的孩子鲍蕾为什么生两次",
+        "onboard_time": 1686108835,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1128074,
+        "num": 1128074,
+        "word": "TFBOYS为王源下个路口打call",
+        "onboard_time": 1686107438,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1026656,
+        "num": 1026656,
+        "word": "孙俪发文庆祝和邓超结婚十二周年",
+        "onboard_time": 1686103292,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153633,
+        "num": 954127,
+        "word": "高考陪考老师的心理压力有多大",
+        "onboard_time": 1686110749,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938679,
+        "num": 938679,
+        "word": "高考防作弊磁弹枪亮相考点现场",
+        "onboard_time": 1686105937,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 897807,
+        "num": 897807,
+        "word": "全国乙卷 一花独放不是春",
+        "onboard_time": 1686110390,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 769153,
+        "num": 769153,
+        "word": "受伤的只有22届",
+        "onboard_time": 1686111705,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 683202,
+        "num": 683202,
+        "word": "梁文博终身禁赛",
+        "onboard_time": 1686096391,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 679739,
+        "num": 679739,
+        "word": "一公司称花2千万可和蔡徐坤吃饭",
+        "onboard_time": 1686096633,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 652484,
+        "num": 652484,
+        "word": "千万不要用小拇指掏耳朵了",
+        "onboard_time": 1686100113,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569951,
+        "num": 569951,
+        "word": "哪个省份作文题目最难",
+        "onboard_time": 1686111406,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 567240,
+        "num": 567240,
+        "word": "保送男生穿旗袍为高考同学加油",
+        "onboard_time": 1686101911,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 481273,
+        "num": 481273,
+        "word": "2023年高考第一个丢准考证的同学",
+        "onboard_time": 1686098973,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 456435,
+        "num": 456435,
+        "word": "今年高考生17年才刚小学毕业",
+        "onboard_time": 1686093503,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 373548,
+        "num": 373548,
+        "word": "失业的中年人涌进星巴克",
+        "onboard_time": 1686092659,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362695,
+        "num": 362695,
+        "word": "娜扎方否认高考596分",
+        "onboard_time": 1686094405,
+        "rank": 26,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 358976,
+        "num": 358976,
+        "word": "浙江高考语数外首次用全国卷",
+        "onboard_time": 1686107320,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 305941,
+        "num": 305941,
+        "word": "回想去年的红楼梦",
+        "onboard_time": 1686111885,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237179,
+        "num": 296558,
+        "word": "第一个考验交警反应能力的考生出现了",
+        "onboard_time": 1686108778,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 428286,
+        "num": 295612,
+        "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+        "onboard_time": 1686092600,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289346,
+        "num": 289346,
+        "word": "高考各科时间表",
+        "onboard_time": 1686095909,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 267784,
+        "num": 267784,
+        "word": "中国人离4天工作制还有多远",
+        "onboard_time": 1686104011,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 265331,
+        "num": 265331,
+        "word": "续航和亮相",
+        "onboard_time": 1686109133,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 256003,
+        "num": 256003,
+        "word": "林徽因名字 文化版的招娣",
+        "onboard_time": 1686052350,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249656,
+        "num": 249656,
+        "word": "辅导员自费给全班买咖啡抽中电车",
+        "onboard_time": 1686065846,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245524,
+        "num": 245524,
+        "word": "虞书欣工作人员的手机壳",
+        "onboard_time": 1686064954,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243817,
+        "num": 243817,
+        "word": "粤语是何书桓语录最好的滤镜",
+        "onboard_time": 1686105155,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239498,
+        "num": 239498,
+        "word": "肖战抱小朋友",
+        "onboard_time": 1686107078,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179025,
+        "num": 234698,
+        "word": "国产数据库重大突破",
+        "onboard_time": 1686110448,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 234313,
+        "num": 234313,
+        "word": "梦回王俊凯用易烊千玺读秒",
+        "onboard_time": 1686065012,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228086,
+        "num": 228086,
+        "word": "寰球",
+        "onboard_time": 1686111226,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232531,
+        "num": 228066,
+        "word": "鸭脖",
+        "onboard_time": 1686106297,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228046,
+        "num": 228046,
+        "word": "新课标二卷 青少年自己的空间",
+        "onboard_time": 1686111586,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216341,
+        "num": 216341,
+        "word": "种地吧收小麦",
+        "onboard_time": 1686099872,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213798,
+        "num": 213798,
+        "word": "上海高考作文",
+        "onboard_time": 1686111284,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 204257,
+        "num": 204257,
+        "word": "高三最后一课学生为老师送惊喜",
+        "onboard_time": 1686112242,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 189868,
+        "num": 189868,
+        "word": "你觉得今年的高考作文难吗",
+        "onboard_time": 1686112184,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184379,
+        "num": 184379,
+        "word": "肖春生佟晓梅牵手散步路透",
+        "onboard_time": 1686106597,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119249,
+        "num": 184097,
+        "word": "NBA",
+        "onboard_time": 1686103592,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族的自信之源#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686111614871,
+  "endTime": 1686112411886,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -27,16 +27,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 4854250,
-      "num": 4854250,
+      "raw_hot": 5396929,
+      "num": 5396929,
       "word": "高考作文 简单",
       "onboard_time": 1686109729,
       "rank": 3,
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2888662,
-      "num": 2888662,
+      "raw_hot": 3206564,
+      "num": 3206564,
       "word": "第一个出考场的考生麻烦你了",
       "onboard_time": 1686107980,
       "rank": 36,
@@ -59,7 +59,7 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1844370,
+      "raw_hot": 1872136,
       "num": 1161015,
       "word": "好友称董洁从未埋怨潘粤明",
       "onboard_time": 1686107741,
@@ -83,8 +83,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1716015,
-      "num": 1716015,
+      "raw_hot": 1798701,
+      "num": 1798701,
       "word": "Angelababy 蒂芙尼",
       "onboard_time": 1686107980,
       "rank": 40,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1319108,
-      "num": 962467,
+      "num": 1026656,
       "word": "孙俪发文庆祝和邓超结婚十二周年",
       "onboard_time": 1686103292,
       "rank": 16,
@@ -163,20 +163,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1145802,
+      "num": 1145802,
+      "word": "高考入场时发现身份证6月6日过期",
+      "onboard_time": 1686111107,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1135346,
+      "num": 1135346,
+      "word": "一样的孩子鲍蕾为什么生两次",
+      "onboard_time": 1686108835,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1123135,
       "num": 208265,
       "word": "北京发现两例猴痘病例",
       "onboard_time": 1686057810,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1078725,
-      "num": 1078725,
-      "word": "一样的孩子鲍蕾为什么生两次",
-      "onboard_time": 1686108835,
-      "rank": 11,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1045000,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 770330,
-      "num": 550288,
+      "num": 652484,
       "word": "千万不要用小拇指掏耳朵了",
       "onboard_time": 1686100113,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 769153,
+      "num": 769153,
+      "word": "受伤的只有22届",
+      "onboard_time": 1686111705,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 768355,
@@ -273,6 +289,14 @@
       "onboard_time": 1686065846,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569951,
+      "num": 569951,
+      "word": "哪个省份作文题目最难",
+      "onboard_time": 1686111406,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 532365,
@@ -411,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365904,
-      "num": 365904,
-      "word": "高考入场时发现身份证6月6日过期",
-      "onboard_time": 1686111107,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 365077,
       "num": 365077,
       "word": "徐志胜救火",
@@ -473,6 +489,14 @@
       "onboard_time": 1686107438,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 305941,
+      "num": 305941,
+      "word": "回想去年的红楼梦",
+      "onboard_time": 1686111885,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 296290,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 248868,
-      "num": 248868,
+      "num": 296558,
       "word": "第一个考验交警反应能力的考生出现了",
       "onboard_time": 1686108778,
       "rank": 48,
@@ -587,20 +611,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243817,
+      "num": 243817,
+      "word": "粤语是何书桓语录最好的滤镜",
+      "onboard_time": 1686105155,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242807,
       "num": 242807,
       "word": "马斯克称未来房价下跌将加速",
       "onboard_time": 1686092781,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 240792,
-      "num": 240792,
-      "word": "哪个省份作文题目最难",
-      "onboard_time": 1686111406,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 239664,
@@ -643,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226740,
-      "num": 226740,
-      "word": "粤语是何书桓语录最好的滤镜",
-      "onboard_time": 1686105155,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 228086,
+      "num": 228086,
+      "word": "寰球",
+      "onboard_time": 1686111226,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224409,
@@ -689,14 +713,6 @@
       "onboard_time": 1686106958,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212147,
-      "num": 212147,
-      "word": "寰球",
-      "onboard_time": 1686111226,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211853,
@@ -745,6 +761,14 @@
       "onboard_time": 1686103171,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 204257,
+      "num": 204257,
+      "word": "高三最后一课学生为老师送惊喜",
+      "onboard_time": 1686112242,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 203879,
@@ -824,6 +848,14 @@
       "word": "高考开考铃声",
       "onboard_time": 1686103772,
       "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189868,
+      "num": 189868,
+      "word": "你觉得今年的高考作文难吗",
+      "onboard_time": 1686112184,
+      "rank": 47,
       "category": "教育,社会新闻"
     },
     {
@@ -1033,6 +1065,14 @@
       "onboard_time": 1686101073,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153633,
+      "num": 963152,
+      "word": "高考陪考老师的心理压力有多大",
+      "onboard_time": 1686110749,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152886,
@@ -1281,14 +1321,6 @@
       "onboard_time": 1686074415,
       "rank": 23,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 51810,
-      "num": 963152,
-      "word": "高考陪考老师的心理压力有多大",
-      "onboard_time": 1686110749,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43365,
