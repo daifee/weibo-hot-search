@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686123219430,
+  "endTime": 1686126120005,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -91,20 +91,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 2280044,
+      "num": 1640939,
+      "word": "国企负责人与异性牵手逛街被拍",
+      "onboard_time": 1686119434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2179158,
       "num": 2179158,
       "word": "山河令制片人马韬去世",
       "onboard_time": 1686120092,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1988161,
-      "num": 1640939,
-      "word": "国企负责人与异性牵手逛街被拍",
-      "onboard_time": 1686119434,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1872136,
@@ -137,6 +137,14 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1451764,
+      "num": 782568,
+      "word": "南京一高校学生宿舍内被杀害",
+      "onboard_time": 1686122672,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1350459,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072561,
+      "num": 1072561,
+      "word": "马思纯瘦了30斤",
+      "onboard_time": 1686124533,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1049141,
       "num": 1049141,
       "word": "花儿与少年第五季嘉宾",
@@ -307,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 780323,
+      "num": 780323,
+      "word": "高考完了不用去打暑期工",
+      "onboard_time": 1686122555,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 780153,
       "num": 607856,
       "word": "林徽因名字 文化版的招娣",
@@ -337,6 +361,14 @@
       "onboard_time": 1686058292,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762883,
+      "num": 762883,
+      "word": "汤晶媚和每个人都说了任敏的想法",
+      "onboard_time": 1686123392,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 756151,
@@ -425,6 +457,14 @@
       "onboard_time": 1686104011,
       "rank": 15,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 497914,
+      "num": 497914,
+      "word": "TFBOYS团徽三角没有封角",
+      "onboard_time": 1686124230,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 494429,
@@ -531,6 +571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 397660,
+      "num": 397660,
+      "word": "五条悟",
+      "onboard_time": 1686122134,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 389767,
       "num": 389767,
       "word": "第一届05后高考生来了",
@@ -595,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351325,
+      "num": 351325,
+      "word": "腾讯QQ回应考生喊话",
+      "onboard_time": 1686125072,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 348009,
       "num": 315516,
       "word": "新课标二卷 青少年自己的空间",
@@ -625,14 +681,6 @@
       "onboard_time": 1686109133,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 343721,
-      "num": 343721,
-      "word": "五条悟",
-      "onboard_time": 1686122134,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 328570,
@@ -689,6 +737,14 @@
       "onboard_time": 1686100956,
       "rank": 23,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 294975,
+      "num": 294975,
+      "word": "粉丝曝成毅每天十几小时打戏",
+      "onboard_time": 1686124592,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 291553,
@@ -803,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252830,
+      "num": 252830,
+      "word": "公司纪委回应网传领导与异性亲密逛街",
+      "onboard_time": 1686119970,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251813,
       "num": 251813,
       "word": "原来早睡有那么多好处",
@@ -825,14 +889,6 @@
       "onboard_time": 1686114339,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247341,
-      "num": 247341,
-      "word": "公司纪委回应网传领导与异性亲密逛街",
-      "onboard_time": 1686119970,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246890,
@@ -961,6 +1017,14 @@
       "onboard_time": 1686111226,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226028,
+      "num": 226028,
+      "word": "柯南最新话",
+      "onboard_time": 1686121951,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 224409,
@@ -1211,12 +1275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186677,
-      "num": 186677,
-      "word": "柯南最新话",
-      "onboard_time": 1686121951,
-      "rank": 47,
-      "category": "动漫"
+      "raw_hot": 186702,
+      "num": 186702,
+      "word": "Cat重回AG",
+      "onboard_time": 1686124712,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "你当年高考数学多少分",
+      "onboard_time": 1686125315,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185697,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1686103413,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185477,
+      "num": 185477,
+      "word": "家长送孩子高考竟把小女儿忘考场",
+      "onboard_time": 1686125012,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 184783,
@@ -1275,14 +1355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177989,
-      "num": 177989,
-      "word": "南京一高校学生宿舍内被杀害",
-      "onboard_time": 1686122672,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176317,
       "num": 176317,
       "word": "鼠头还是鸭脖真的很难确认吗",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1686107139,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 172623,
+      "num": 172623,
+      "word": "蜘蛛侠 面罩怎么装下头发的",
+      "onboard_time": 1686125374,
+      "rank": 42,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 171652,
@@ -1339,6 +1419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 168098,
+      "num": 168098,
+      "word": "OMG对战JDG",
+      "onboard_time": 1686125735,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166867,
       "num": 166867,
       "word": "祝福每位高考生",
@@ -1369,6 +1457,14 @@
       "onboard_time": 1686100775,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 162256,
+      "num": 162256,
+      "word": "杨紫最近好多封面",
+      "onboard_time": 1686124053,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161934,
@@ -1491,20 +1587,20 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 139923,
-      "num": 139923,
-      "word": "高考完了不用去打暑期工",
-      "onboard_time": 1686122555,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 139483,
       "num": 139483,
       "word": "德约科维奇",
       "onboard_time": 1686065250,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138507,
+      "num": 138507,
+      "word": "考生走错考场汉警快骑4分钟送到",
+      "onboard_time": 1686125914,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 136911,
@@ -1841,6 +1937,14 @@
       "onboard_time": 1686086532,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27725,
+      "num": 1201585,
+      "word": "各地考场门口温暖直拍",
+      "onboard_time": 1686125795,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18803,

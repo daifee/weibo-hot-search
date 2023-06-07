@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686123219430,
+  "endTime": 1686126120005,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2280044,
+      "num": 1640939,
+      "word": "国企负责人与异性牵手逛街被拍",
+      "onboard_time": 1686119434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2273063,
       "num": 2273063,
       "word": "人体最大的器官是什么",
@@ -272,14 +280,6 @@
       "word": "奖励多少你会考虑多生孩子",
       "onboard_time": 1685935831,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1988161,
-      "num": 1640939,
-      "word": "国企负责人与异性牵手逛街被拍",
-      "onboard_time": 1686119434,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -481,6 +481,14 @@
       "onboard_time": 1685979027,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1451764,
+      "num": 782568,
+      "word": "南京一高校学生宿舍内被杀害",
+      "onboard_time": 1686122672,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1443641,
@@ -793,6 +801,14 @@
       "onboard_time": 1685973571,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1072561,
+      "num": 1072561,
+      "word": "马思纯瘦了30斤",
+      "onboard_time": 1686124533,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1049141,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780323,
+      "num": 780323,
+      "word": "高考完了不用去打暑期工",
+      "onboard_time": 1686122555,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 777753,
       "num": 777753,
       "word": "梦回王俊凯用易烊千玺读秒",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1685947527,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762883,
+      "num": 762883,
+      "word": "汤晶媚和每个人都说了任敏的想法",
+      "onboard_time": 1686123392,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 756151,
@@ -1611,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497914,
+      "num": 497914,
+      "word": "TFBOYS团徽三角没有封角",
+      "onboard_time": 1686124230,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 495227,
       "num": 495227,
       "word": "李沁戏份",
@@ -1979,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397660,
+      "num": 397660,
+      "word": "五条悟",
+      "onboard_time": 1686122134,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 390788,
       "num": 390788,
       "word": "张一山 演盲人",
@@ -2211,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351325,
+      "num": 351325,
+      "word": "腾讯QQ回应考生喊话",
+      "onboard_time": 1686125072,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 350869,
       "num": 350869,
       "word": "原来无痛针是这么打的",
@@ -2289,14 +2345,6 @@
       "onboard_time": 1686012691,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 343721,
-      "num": 343721,
-      "word": "五条悟",
-      "onboard_time": 1686122134,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 343696,
@@ -2633,6 +2681,14 @@
       "onboard_time": 1685935653,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294975,
+      "num": 294975,
+      "word": "粉丝曝成毅每天十几小时打戏",
+      "onboard_time": 1686124592,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 293786,
@@ -3075,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252830,
+      "num": 252830,
+      "word": "公司纪委回应网传领导与异性亲密逛街",
+      "onboard_time": 1686119970,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252298,
       "num": 183294,
       "word": "麦家 来参加十个孩子的毕业典礼",
@@ -3193,14 +3257,6 @@
       "onboard_time": 1686114339,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247341,
-      "num": 247341,
-      "word": "公司纪委回应网传领导与异性亲密逛街",
-      "onboard_time": 1686119970,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246890,
@@ -3577,6 +3633,14 @@
       "onboard_time": 1686045629,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226028,
+      "num": 226028,
+      "word": "柯南最新话",
+      "onboard_time": 1686121951,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 226012,
@@ -4467,12 +4531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186677,
-      "num": 186677,
-      "word": "柯南最新话",
-      "onboard_time": 1686121951,
-      "rank": 47,
-      "category": "动漫"
+      "raw_hot": 186702,
+      "num": 186702,
+      "word": "Cat重回AG",
+      "onboard_time": 1686124712,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 186253,
@@ -4481,6 +4545,14 @@
       "onboard_time": 1686017128,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "你当年高考数学多少分",
+      "onboard_time": 1686125315,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185649,
@@ -4497,6 +4569,14 @@
       "onboard_time": 1685890897,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185477,
+      "num": 185477,
+      "word": "家长送孩子高考竟把小女儿忘考场",
+      "onboard_time": 1686125012,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 185337,
@@ -4667,14 +4747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177989,
-      "num": 177989,
-      "word": "南京一高校学生宿舍内被杀害",
-      "onboard_time": 1686122672,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177948,
       "num": 177948,
       "word": "爆剧最多的女演员",
@@ -4811,6 +4883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172623,
+      "num": 172623,
+      "word": "蜘蛛侠 面罩怎么装下头发的",
+      "onboard_time": 1686125374,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 172083,
       "num": 163048,
       "word": "朱一龙翻脸比我翻书还快",
@@ -4913,6 +4993,14 @@
       "onboard_time": 1686108344,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 168098,
+      "num": 168098,
+      "word": "OMG对战JDG",
+      "onboard_time": 1686125735,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 167814,
@@ -5025,6 +5113,14 @@
       "onboard_time": 1686100775,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 162256,
+      "num": 162256,
+      "word": "杨紫最近好多封面",
+      "onboard_time": 1686124053,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162098,
@@ -5459,20 +5555,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139923,
-      "num": 139923,
-      "word": "高考完了不用去打暑期工",
-      "onboard_time": 1686122555,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 139483,
       "num": 139483,
       "word": "德约科维奇",
       "onboard_time": 1686065250,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138507,
+      "num": 138507,
+      "word": "考生走错考场汉警快骑4分钟送到",
+      "onboard_time": 1686125914,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 138401,
@@ -6625,6 +6721,14 @@
       "onboard_time": 1686086532,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27725,
+      "num": 1201585,
+      "word": "各地考场门口温暖直拍",
+      "onboard_time": 1686125795,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24151,
