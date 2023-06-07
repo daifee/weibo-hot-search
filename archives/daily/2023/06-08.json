@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686162882532,
+  "endTime": 1686165233303,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -387,6 +387,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 93299,
+      "num": 105792,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 90560,
       "num": 105803,
       "word": "小S大女儿韩国舞蹈大赛跳舞视频",
@@ -409,14 +417,6 @@
       "onboard_time": 1686130307,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 88247,
-      "num": 105792,
-      "word": "大学生考点摆摊卖9.85与21.1元花束",
-      "onboard_time": 1686154829,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 78231,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 26017,
-      "num": 27744,
+      "num": 34500,
       "word": "数学到底难不难",
       "onboard_time": 1686129107,
       "rank": 48,
@@ -468,11 +468,19 @@
     },
     {
       "raw_hot": 25505,
-      "num": 27732,
+      "num": 34445,
       "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
       "onboard_time": 1686151774,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7561,
+      "num": 105323,
+      "word": "我国成功发射一箭26星",
+      "onboard_time": 1686143972,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
