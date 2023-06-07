@@ -1,10 +1,10 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686102617239,
+  "endTime": 1686103924261,
   "band_list": [
     {
-      "raw_hot": 8031683,
-      "num": 8031683,
+      "raw_hot": 8544897,
+      "num": 8544897,
       "word": "高考",
       "onboard_time": 1686092659,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1686096391,
       "rank": 1,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1350459,
+      "num": 1350459,
+      "word": "2023年高考第一个丢准考证的同学",
+      "onboard_time": 1686098973,
+      "rank": 6,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1332071,
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034883,
-      "num": 1034883,
-      "word": "2023年高考第一个丢准考证的同学",
-      "onboard_time": 1686098973,
-      "rank": 6,
-      "category": "教育,社会新闻"
+      "raw_hot": 1045000,
+      "num": 393158,
+      "word": "失业的中年人涌进星巴克",
+      "onboard_time": 1686092659,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947731,
@@ -83,12 +91,12 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 811480,
-      "num": 333682,
-      "word": "失业的中年人涌进星巴克",
-      "onboard_time": 1686092659,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 897955,
+      "num": 897955,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 780153,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 770330,
-      "num": 318626,
+      "num": 385416,
       "word": "千万不要用小拇指掏耳朵了",
       "onboard_time": 1686100113,
       "rank": 21,
@@ -121,6 +129,14 @@
       "onboard_time": 1686058292,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699095,
+      "num": 699095,
+      "word": "保送男生穿旗袍为高考同学加油",
+      "onboard_time": 1686101911,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 684692,
@@ -139,12 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670761,
-      "num": 670761,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 614848,
+      "num": 614848,
+      "word": "高考语文",
+      "onboard_time": 1686103592,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 607735,
+      "num": 607735,
+      "word": "高考试卷",
+      "onboard_time": 1686102334,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 532365,
@@ -187,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451971,
+      "num": 451971,
+      "word": "孙俪发文庆祝和邓超结婚十二周年",
+      "onboard_time": 1686103292,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445708,
       "num": 445708,
       "word": "杭州姑娘20元刮刮乐刮中百万",
@@ -219,20 +251,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 362507,
-      "num": 317804,
+      "raw_hot": 370688,
+      "num": 370688,
+      "word": "seventeen粉丝的命也是命",
+      "onboard_time": 1686101974,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365077,
+      "num": 365077,
       "word": "徐志胜救火",
       "onboard_time": 1686098431,
       "rank": 22,
       "category": "综艺"
     },
     {
-      "raw_hot": 352743,
-      "num": 352743,
-      "word": "保送男生穿旗袍为高考同学加油",
-      "onboard_time": 1686101911,
-      "rank": 18,
-      "category": "社会新闻,教育"
+      "raw_hot": 309463,
+      "num": 309463,
+      "word": "杨紫方称告黑是我们应该做的",
+      "onboard_time": 1686101313,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 296290,
@@ -257,14 +297,6 @@
       "onboard_time": 1686092600,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274771,
-      "num": 274771,
-      "word": "seventeen粉丝的命也是命",
-      "onboard_time": 1686101974,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271370,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251813,
+      "num": 251813,
+      "word": "原来早睡有那么多好处",
+      "onboard_time": 1686100113,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246890,
       "num": 225403,
       "word": "红山动物园 工作猪",
@@ -321,14 +361,6 @@
       "onboard_time": 1686068785,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245119,
-      "num": 245119,
-      "word": "原来早睡有那么多好处",
-      "onboard_time": 1686100113,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 242807,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238426,
+      "num": 238426,
+      "word": "考生走错考场铁骑紧急出动送考",
+      "onboard_time": 1686103171,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 235680,
       "num": 158208,
       "word": "乌克兰大坝被炸",
@@ -377,14 +417,6 @@
       "onboard_time": 1686048269,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228061,
-      "num": 228061,
-      "word": "杨紫方称告黑是我们应该做的",
-      "onboard_time": 1686101313,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 224409,
@@ -443,12 +475,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204385,
+      "num": 204385,
+      "word": "祝2023高考生大胜归来",
+      "onboard_time": 1686103171,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 198930,
       "num": 198930,
       "word": "很难忘记周深的高考祝福",
       "onboard_time": 1686066030,
       "rank": 33,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 198129,
+      "num": 198129,
+      "word": "最贴脸的漫改女主角",
+      "onboard_time": 1686096992,
+      "rank": 39,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 195962,
@@ -459,20 +507,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 194618,
-      "num": 194618,
-      "word": "高考试卷",
-      "onboard_time": 1686102334,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 195516,
+      "num": 195516,
+      "word": "ZB1出道预告",
+      "onboard_time": 1686103471,
+      "rank": 39,
+      "category": "音乐"
     },
     {
-      "raw_hot": 194130,
-      "num": 194130,
-      "word": "最贴脸的漫改女主角",
-      "onboard_time": 1686096992,
-      "rank": 39,
-      "category": "影视,动漫"
+      "raw_hot": 194480,
+      "num": 194480,
+      "word": "enhypen回归预告",
+      "onboard_time": 1686103353,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 192577,
@@ -505,6 +553,14 @@
       "onboard_time": 1686049469,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 185649,
+      "num": 185649,
+      "word": "NCT将举办大队演唱会",
+      "onboard_time": 1686103413,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 180228,
@@ -635,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153043,
+      "num": 153043,
+      "word": "高考开考铃声",
+      "onboard_time": 1686103772,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 148336,
       "num": 148336,
       "word": "陈少熙发言好哭",
@@ -689,6 +753,14 @@
       "onboard_time": 1686058472,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134096,
+      "num": 150605,
+      "word": "NBA",
+      "onboard_time": 1686103592,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133310,
@@ -852,7 +924,7 @@
     },
     {
       "raw_hot": 66934,
-      "num": 1352710,
+      "num": 1622571,
       "word": "首艘国产大型邮轮爱达魔都号出坞",
       "onboard_time": 1686053788,
       "rank": 2,
