@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686094419360,
+  "endTime": 1686102617239,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -9,6 +9,14 @@
       "onboard_time": 1685700868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8031683,
+      "num": 8031683,
+      "word": "高考",
+      "onboard_time": 1686092659,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 5469239,
@@ -49,14 +57,6 @@
       "onboard_time": 1685710292,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 3168356,
-      "num": 3168356,
-      "word": "高考",
-      "onboard_time": 1686092659,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 3115180,
@@ -153,6 +153,14 @@
       "onboard_time": 1685924669,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2426572,
+      "num": 2426572,
+      "word": "梁文博终身禁赛",
+      "onboard_time": 1686096391,
+      "rank": 1,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 2419445,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1332071,
+      "num": 1332071,
+      "word": "今年高考生17年才刚小学毕业",
+      "onboard_time": 1686093503,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1312984,
       "num": 1102461,
       "word": "杨幂IP地址在香港",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1685701350,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1302667,
+      "num": 1302667,
+      "word": "6年前忘带准考证受助考生成交警新同事",
+      "onboard_time": 1686092600,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1300769,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1685685329,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1274807,
+      "num": 1274807,
+      "word": "一公司称花2千万可和蔡徐坤吃饭",
+      "onboard_time": 1686096633,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1274220,
@@ -1587,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034883,
+      "num": 1034883,
+      "word": "2023年高考第一个丢准考证的同学",
+      "onboard_time": 1686098973,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1028327,
       "num": 565880,
       "word": "盛一伦祝迪丽热巴生日快乐",
@@ -1779,6 +1819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 947731,
+      "num": 947731,
+      "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+      "onboard_time": 1686092600,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -1843,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906117,
+      "num": 906117,
+      "word": "娜扎方否认高考596分",
+      "onboard_time": 1686094405,
+      "rank": 44,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 905008,
       "num": 461615,
       "word": "胡锡进发博评鼠头鸭脖事件",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 881565,
-      "num": 881565,
-      "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
-      "onboard_time": 1686092600,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 879069,
@@ -2123,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811480,
+      "num": 333682,
+      "word": "失业的中年人涌进星巴克",
+      "onboard_time": 1686092659,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810195,
       "num": 810195,
       "word": "研究生辞谢信彰显卧龙凤雏",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1685579007,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 770330,
+      "num": 318626,
+      "word": "千万不要用小拇指掏耳朵了",
+      "onboard_time": 1686100113,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 767588,
@@ -2561,6 +2625,14 @@
       "onboard_time": 1685603249,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670761,
+      "num": 670761,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 669807,
@@ -3315,6 +3387,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 509222,
+      "num": 509222,
+      "word": "高考各科时间表",
+      "onboard_time": 1686095909,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 507598,
       "num": 253108,
       "word": "肖战 CHALI",
@@ -3409,6 +3489,14 @@
       "onboard_time": 1685982684,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494429,
+      "num": 494429,
+      "word": "高考日期谐音是录取吧",
+      "onboard_time": 1686095847,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 493392,
@@ -3617,6 +3705,14 @@
       "onboard_time": 1685697448,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468823,
+      "num": 468823,
+      "word": "种地吧收小麦",
+      "onboard_time": 1686099872,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 468495,
@@ -4267,14 +4363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393477,
-      "num": 311491,
-      "word": "失业的中年人涌进星巴克",
-      "onboard_time": 1686092659,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393146,
       "num": 393146,
       "word": "蒋胜男 学术风气",
@@ -4337,6 +4425,14 @@
       "onboard_time": 1685931867,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 389767,
+      "num": 389767,
+      "word": "第一届05后高考生来了",
+      "onboard_time": 1686097833,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 389530,
@@ -4643,6 +4739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362507,
+      "num": 317804,
+      "word": "徐志胜救火",
+      "onboard_time": 1686098431,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360421,
       "num": 360421,
       "word": "光与夜之恋二周年",
@@ -4777,6 +4881,14 @@
       "onboard_time": 1685805271,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 352743,
+      "num": 352743,
+      "word": "保送男生穿旗袍为高考同学加油",
+      "onboard_time": 1686101911,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 351741,
@@ -5379,14 +5491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319614,
-      "num": 319614,
-      "word": "6年前忘带准考证受助考生成交警新同事",
-      "onboard_time": 1686092600,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 318718,
       "num": 318718,
       "word": "专家提醒不能靠彩票发财",
@@ -5841,6 +5945,14 @@
       "onboard_time": 1685804133,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 296290,
+      "num": 296290,
+      "word": "邻居家漏水发现是猫咪所为后秒变撸猫",
+      "onboard_time": 1686100956,
+      "rank": 23,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 296056,
@@ -6435,20 +6547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276113,
-      "num": 135112,
-      "word": "今年高考生17年才刚小学毕业",
-      "onboard_time": 1686093503,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 275421,
       "num": 275421,
       "word": "花花和大家打招呼",
       "onboard_time": 1685771246,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274771,
+      "num": 274771,
+      "word": "seventeen粉丝的命也是命",
+      "onboard_time": 1686101974,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 274540,
@@ -6553,6 +6665,14 @@
       "onboard_time": 1686047911,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270799,
+      "num": 270799,
+      "word": "五月天杭州站嘉宾",
+      "onboard_time": 1686099273,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 270321,
@@ -7011,6 +7131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256587,
+      "num": 256587,
+      "word": "BKPP香港粉丝见面会主持人",
+      "onboard_time": 1686095246,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256527,
       "num": 201316,
       "word": "Jennie和朋友东京逛街",
@@ -7331,6 +7459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245119,
+      "num": 245119,
+      "word": "原来早睡有那么多好处",
+      "onboard_time": 1686100113,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245036,
       "num": 245036,
       "word": "鞠婧祎白鹿相似造型",
@@ -7417,6 +7553,14 @@
       "onboard_time": 1685848106,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 242807,
+      "num": 242807,
+      "word": "马斯克称未来房价下跌将加速",
+      "onboard_time": 1686092781,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 242282,
@@ -7739,6 +7883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234307,
+      "num": 234307,
+      "word": "刘耀文读秒好准",
+      "onboard_time": 1686101974,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234292,
       "num": 238814,
       "word": "京多安开场14秒破门",
@@ -7969,6 +8121,14 @@
       "onboard_time": 1685575161,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228061,
+      "num": 228061,
+      "word": "杨紫方称告黑是我们应该做的",
+      "onboard_time": 1686101313,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 228043,
@@ -8555,14 +8715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215188,
-      "num": 215188,
-      "word": "马斯克称未来房价下跌将加速",
-      "onboard_time": 1686092781,
-      "rank": 41,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 215148,
       "num": 215148,
       "word": "虞书欣是什么旅游特种兵",
@@ -8667,12 +8819,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211772,
+      "num": 211772,
+      "word": "我那年的高考口号",
+      "onboard_time": 1686093624,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
       "onboard_time": 1685695288,
       "rank": 23,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 211511,
+      "num": 211511,
+      "word": "美国队长4改片名",
+      "onboard_time": 1686098256,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 211503,
@@ -8721,6 +8889,14 @@
       "onboard_time": 1685768729,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210242,
+      "num": 210242,
+      "word": "鞠婧祎一滴泪哭戏",
+      "onboard_time": 1686099573,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 210141,
@@ -9411,6 +9587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195962,
+      "num": 195962,
+      "word": "高考人数",
+      "onboard_time": 1686098853,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 195864,
       "num": 195864,
       "word": "超走心的高考过来人分享",
@@ -9449,6 +9633,22 @@
       "onboard_time": 1685957669,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 194618,
+      "num": 194618,
+      "word": "高考试卷",
+      "onboard_time": 1686102334,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 194130,
+      "num": 194130,
+      "word": "最贴脸的漫改女主角",
+      "onboard_time": 1686096992,
+      "rank": 39,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 193780,
@@ -9713,6 +9913,14 @@
       "onboard_time": 1685626231,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190859,
+      "num": 190859,
+      "word": "无毛猫夏天真的好惨啊",
+      "onboard_time": 1686100713,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 190820,
@@ -10299,6 +10507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180228,
+      "num": 180228,
+      "word": "e人到底能e到什么程度",
+      "onboard_time": 1686099573,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180041,
       "num": 180041,
       "word": "随拍镜头下的易烊千玺",
@@ -10481,6 +10697,14 @@
       "onboard_time": 1685714134,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176317,
+      "num": 176317,
+      "word": "鼠头还是鸭脖真的很难确认吗",
+      "onboard_time": 1686094405,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176173,
@@ -10699,6 +10923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169739,
+      "num": 169739,
+      "word": "每个考生背后都有一群人",
+      "onboard_time": 1686101852,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 169681,
       "num": 169681,
       "word": "gidle新歌Queencard获人歌一位",
@@ -10729,6 +10961,14 @@
       "onboard_time": 1685957369,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169098,
+      "num": 169098,
+      "word": "阴阳师",
+      "onboard_time": 1686101974,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 169057,
@@ -10801,6 +11041,14 @@
       "onboard_time": 1685587405,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166867,
+      "num": 166867,
+      "word": "祝福每位高考生",
+      "onboard_time": 1686101553,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 166865,
@@ -10993,6 +11241,14 @@
       "onboard_time": 1685547988,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163201,
+      "num": 163201,
+      "word": "华坪女高师生唱万疆送考",
+      "onboard_time": 1686100775,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 162951,
@@ -11267,6 +11523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156958,
+      "num": 156958,
+      "word": "考生排队入场前做最后的复习",
+      "onboard_time": 1686102214,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 156661,
       "num": 156661,
       "word": "战至巅峰",
@@ -11409,6 +11673,14 @@
       "onboard_time": 1685985739,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 154068,
+      "num": 154068,
+      "word": "张远陆虎音综界显眼包",
+      "onboard_time": 1686101073,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 153859,
@@ -11561,14 +11833,6 @@
       "onboard_time": 1685799870,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150687,
-      "num": 150687,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 150499,
@@ -12049,14 +12313,6 @@
       "onboard_time": 1685722170,
       "rank": 44,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 137166,
-      "num": 137166,
-      "word": "我那年的高考口号",
-      "onboard_time": 1686093624,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 137080,
@@ -13691,14 +13947,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 87879,
-      "num": 87879,
-      "word": "娜扎方否认高考596分",
-      "onboard_time": 1686094405,
-      "rank": 44,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 87736,
       "num": 87736,
       "word": "卡车司机车内搭窝收养三只小猫",
@@ -14027,14 +14275,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 73279,
-      "num": 73279,
-      "word": "鼠头还是鸭脖真的很难确认吗",
-      "onboard_time": 1686094405,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73245,
       "num": 1581452,
       "word": "全球最大自贸区进入全面实施新阶段",
@@ -14196,7 +14436,7 @@
     },
     {
       "raw_hot": 66934,
-      "num": 857768,
+      "num": 1352710,
       "word": "首艘国产大型邮轮爱达魔都号出坞",
       "onboard_time": 1686053788,
       "rank": 2,
