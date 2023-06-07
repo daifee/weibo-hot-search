@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686152033613,
+  "endTime": 1686154945135,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1762922,
+      "num": 572308,
+      "word": "与国企领导逛街女子手提包疑为奢侈品",
+      "onboard_time": 1686147273,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1760114,
       "num": 1760114,
       "word": "男子连吃100天麦当劳减重53斤",
@@ -489,14 +497,6 @@
       "onboard_time": 1685989754,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1630008,
-      "num": 572308,
-      "word": "与国企领导逛街女子手提包疑为奢侈品",
-      "onboard_time": 1686147273,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1622812,
@@ -625,6 +625,14 @@
       "onboard_time": 1686128439,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1449063,
+      "num": 927367,
+      "word": "一个人死去了但他不是死于一个瞬间",
+      "onboard_time": 1686148416,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1443641,
@@ -1163,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 927367,
-      "num": 927367,
-      "word": "一个人死去了但他不是死于一个瞬间",
-      "onboard_time": 1686148416,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 925453,
       "num": 925453,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
@@ -1411,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778201,
+      "num": 431502,
+      "word": "路人对迪丽热巴的现状分析",
+      "onboard_time": 1686150875,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777753,
       "num": 777753,
       "word": "梦回王俊凯用易烊千玺读秒",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1686024392,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 776115,
+      "num": 374117,
+      "word": "多巴胺情侣装",
+      "onboard_time": 1686151295,
+      "rank": 20,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 770330,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1685967747,
       "rank": 17,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 745634,
+      "num": 570081,
+      "word": "张艺兴工作室再回应",
+      "onboard_time": 1686151056,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 742131,
@@ -1785,14 +1809,6 @@
       "onboard_time": 1686043349,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 570081,
-      "num": 570081,
-      "word": "张艺兴工作室再回应",
-      "onboard_time": 1686151056,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 569951,
@@ -2257,22 +2273,6 @@
       "onboard_time": 1686107320,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 431502,
-      "num": 431502,
-      "word": "路人对迪丽热巴的现状分析",
-      "onboard_time": 1686150875,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 430967,
-      "num": 374117,
-      "word": "多巴胺情侣装",
-      "onboard_time": 1686151295,
-      "rank": 20,
-      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 424870,
@@ -6163,6 +6163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147551,
+      "num": 147551,
+      "word": "网友把谭松韵的头看成苹果",
+      "onboard_time": 1686153031,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 147500,
       "num": 147500,
       "word": "薛之谦天外来物",
@@ -6867,6 +6875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112476,
+      "num": 112476,
+      "word": "王鹤棣小卷毛",
+      "onboard_time": 1686154346,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111222,
+      "num": 111222,
+      "word": "无畏契约",
+      "onboard_time": 1686154527,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111138,
       "num": 728794,
       "word": "新郎接亲遇送考车队给考生塞红包",
@@ -7033,6 +7057,14 @@
       "onboard_time": 1686128376,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95928,
+      "num": 105805,
+      "word": "中年少女的五大爱好",
+      "onboard_time": 1686153869,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 95902,
@@ -7241,6 +7273,14 @@
       "onboard_time": 1685919679,
       "rank": 41,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 70663,
+      "num": 105792,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 70086,
