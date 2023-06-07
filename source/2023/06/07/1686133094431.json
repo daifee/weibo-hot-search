@@ -1,0 +1,410 @@
+{
+  "runTime": 1686133094431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9149850,
+        "num": 9149850,
+        "word": "高考数学",
+        "onboard_time": 1686126154,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 7009594,
+        "num": 7009594,
+        "word": "数学到底难不难",
+        "onboard_time": 1686129107,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195498,
+        "num": 3612895,
+        "word": "硬核黑科技助力高考",
+        "onboard_time": 1686126213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2771105,
+        "num": 2771105,
+        "word": "新高考一卷数学 大题难",
+        "onboard_time": 1686130307,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 817189,
+        "num": 2555767,
+        "word": "这声985谁听了不迷糊",
+        "onboard_time": 1686117213,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2488209,
+        "num": 2488209,
+        "word": "中石油胡继勇被免职",
+        "onboard_time": 1686131623,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194119,
+        "num": 2287282,
+        "word": "清北家长们的称呼谁听了不迷糊",
+        "onboard_time": 1686131262,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2171511,
+        "num": 2171511,
+        "word": "国企负责人与异性牵手逛街被拍",
+        "onboard_time": 1686119434,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2055004,
+        "num": 2055004,
+        "word": "官方通报国企领导与女子逛街",
+        "onboard_time": 1686131382,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572951,
+        "num": 1572951,
+        "word": "这是工资1W以上才需考虑的事情",
+        "onboard_time": 1686126994,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1331321,
+        "num": 1331321,
+        "word": "高考数学乙卷",
+        "onboard_time": 1686129467,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1061459,
+        "num": 1061459,
+        "word": "胡继勇",
+        "onboard_time": 1686114339,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039055,
+        "num": 1039055,
+        "word": "中央巡视组回应国企领导与异性逛街",
+        "onboard_time": 1686130124,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973782,
+        "num": 973782,
+        "word": "马思纯瘦了30斤",
+        "onboard_time": 1686124533,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900680,
+        "num": 900680,
+        "word": "山河令制片人马韬去世",
+        "onboard_time": 1686120092,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774994,
+        "num": 774994,
+        "word": "高考作文",
+        "onboard_time": 1686107741,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 751224,
+        "num": 751224,
+        "word": "22届考生比23届更着急看到数学试卷",
+        "onboard_time": 1686128565,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 647603,
+        "num": 647603,
+        "word": "哥哥拿弟弟身份证高考8点45才发现",
+        "onboard_time": 1686129407,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 564121,
+        "num": 564121,
+        "word": "高考完了不用去打暑期工",
+        "onboard_time": 1686122555,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 555765,
+        "num": 555765,
+        "word": "摄影师回应街拍国企领导与女子牵手",
+        "onboard_time": 1686129170,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565390,
+        "num": 551259,
+        "word": "原来减肥真的和血型有关系",
+        "onboard_time": 1686127112,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1230477,
+        "num": 549700,
+        "word": "妻子在南非出轨染艾滋生下混血婴儿",
+        "onboard_time": 1686128439,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542550,
+        "num": 542550,
+        "word": "甲卷数学 边考边哭",
+        "onboard_time": 1686132459,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 519354,
+        "num": 519354,
+        "word": "花少 邓恩熙",
+        "onboard_time": 1686126453,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497946,
+        "num": 497946,
+        "word": "汤晶媚和每个人都说了任敏的想法",
+        "onboard_time": 1686123392,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486953,
+        "num": 486953,
+        "word": "高考作文 简单",
+        "onboard_time": 1686109729,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 476427,
+        "num": 476427,
+        "word": "上海高考数学 很难",
+        "onboard_time": 1686130965,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 453348,
+        "num": 453348,
+        "word": "任嘉伦押中高考作文题",
+        "onboard_time": 1686115357,
+        "rank": 27,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 428311,
+        "num": 428311,
+        "word": "受伤的只有22届",
+        "onboard_time": 1686111705,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 85595,
+        "num": 392615,
+        "word": "旅俄大熊猫夏季三件套",
+        "onboard_time": 1686128376,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382885,
+        "num": 382885,
+        "word": "董洁首谈离婚风波影响",
+        "onboard_time": 1686113620,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362262,
+        "num": 362262,
+        "word": "新高考二卷数学",
+        "onboard_time": 1686132219,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346535,
+        "num": 346535,
+        "word": "花儿与少年第五季嘉宾",
+        "onboard_time": 1686119252,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338854,
+        "num": 338854,
+        "word": "肖战祝高考考生金榜题名",
+        "onboard_time": 1686132273,
+        "rank": 33,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 308299,
+        "num": 308299,
+        "word": "数学 不会就是不会",
+        "onboard_time": 1686131979,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 302282,
+        "num": 302282,
+        "word": "天官赐福",
+        "onboard_time": 1686129467,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 276986,
+        "num": 276986,
+        "word": "江西省教育厅介入鸭脖事件",
+        "onboard_time": 1686128076,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274678,
+        "num": 274678,
+        "word": "TFBOYS团徽三角没有封角",
+        "onboard_time": 1686124230,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 269639,
+        "num": 269639,
+        "word": "高考",
+        "onboard_time": 1686092659,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268082,
+        "num": 268082,
+        "word": "林俊杰巡演下半年场次官宣",
+        "onboard_time": 1686119372,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266077,
+        "num": 266077,
+        "word": "高考入场时发现身份证6月6日过期",
+        "onboard_time": 1686111107,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 251788,
+        "num": 251788,
+        "word": "腾讯QQ回应考生喊话",
+        "onboard_time": 1686125072,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 246776,
+        "num": 246776,
+        "word": "高考数学甲卷",
+        "onboard_time": 1686132273,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 241294,
+        "num": 241294,
+        "word": "贾玲为了新角色要减重100斤",
+        "onboard_time": 1686132698,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239553,
+        "num": 239553,
+        "word": "北京数学谁出的题",
+        "onboard_time": 1686132874,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224951,
+        "num": 224951,
+        "word": "张远谈最可惜内娱组合",
+        "onboard_time": 1686115954,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210835,
+        "num": 210835,
+        "word": "姜广涛不再参与动画天官赐福后续录制",
+        "onboard_time": 1686132273,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205853,
+        "num": 205853,
+        "word": "TFBOYS为王源下个路口打call",
+        "onboard_time": 1686107438,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189855,
+        "num": 189855,
+        "word": "2023KPL夏季转会期",
+        "onboard_time": 1686132698,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177973,
+        "num": 177973,
+        "word": "粉丝曝成毅每天十几小时打戏",
+        "onboard_time": 1686124592,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年高考必胜#"
+    }
+  }
+}
