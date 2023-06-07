@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686147338460,
+  "endTime": 1686148421802,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3211,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645444,
+      "num": 597026,
+      "word": "董思槿",
+      "onboard_time": 1686147273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641658,
       "num": 641658,
       "word": "重庆震感",
@@ -3577,6 +3585,14 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566109,
+      "num": 566109,
+      "word": "凤凰传奇一个火上辈子一个火下辈子",
+      "onboard_time": 1686145774,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 565931,
@@ -4427,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452726,
+      "num": 452726,
+      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
+      "onboard_time": 1686146316,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451793,
       "num": 325071,
       "word": "向往的生活",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1685633909,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 450843,
+      "num": 450843,
+      "word": "街拍事件摄影师该担责吗",
+      "onboard_time": 1686145233,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450742,
@@ -4955,14 +4987,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 402616,
-      "num": 402616,
-      "word": "凤凰传奇一个火上辈子一个火下辈子",
-      "onboard_time": 1686145774,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401980,
       "num": 433132,
       "word": "为什么我们不聊杰克辣条",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1685720670,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383085,
+      "num": 417459,
+      "word": "虞书欣亮片绿色抹胸裙",
+      "onboard_time": 1686144872,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382880,
@@ -5843,20 +5875,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342123,
+      "num": 342123,
+      "word": "leave",
+      "onboard_time": 1685805090,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 341004,
       "num": 271051,
       "word": "亲生父母殴打虐待10岁孩子致死",
       "onboard_time": 1685584646,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 340653,
-      "num": 340653,
-      "word": "虞书欣亮片绿色抹胸裙",
-      "onboard_time": 1686144872,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 340476,
@@ -6435,14 +6467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313313,
-      "num": 313313,
-      "word": "leave",
-      "onboard_time": 1685805090,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 313194,
       "num": 313194,
       "word": "偷偷藏不住",
@@ -6937,6 +6961,14 @@
       "onboard_time": 1685683951,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292258,
+      "num": 292258,
+      "word": "肖春生带孩子梦回陈情令",
+      "onboard_time": 1686147456,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 292247,
@@ -7507,6 +7539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273755,
+      "num": 273755,
+      "word": "意林又承包了高考作文题",
+      "onboard_time": 1686146853,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 273306,
       "num": 273306,
       "word": "30岁也不过是12岁的大人",
@@ -7745,14 +7785,6 @@
       "onboard_time": 1685876546,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265558,
-      "num": 265558,
-      "word": "意林又承包了高考作文题",
-      "onboard_time": 1686146853,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 265515,
@@ -9289,14 +9321,6 @@
       "onboard_time": 1686045629,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226198,
-      "num": 226198,
-      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
-      "onboard_time": 1686146316,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226028,
@@ -10843,6 +10867,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 195819,
+      "num": 195819,
+      "word": "如果丧尸爆发你觉得哪里最安全",
+      "onboard_time": 1686147456,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195536,
       "num": 158095,
       "word": "郭碧婷带娃逛商场",
@@ -10897,6 +10929,14 @@
       "onboard_time": 1686103353,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194139,
+      "num": 204406,
+      "word": "张桂梅今天的午饭是拌面和果汁",
+      "onboard_time": 1686143853,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 193780,
@@ -11475,14 +11515,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 187351,
-      "num": 187351,
-      "word": "街拍事件摄影师该担责吗",
-      "onboard_time": 1686145233,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187276,
       "num": 187276,
       "word": "中国女排vs荷兰女排",
@@ -11873,14 +11905,6 @@
       "onboard_time": 1685672907,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181578,
-      "num": 204406,
-      "word": "张桂梅今天的午饭是拌面和果汁",
-      "onboard_time": 1686143853,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 181306,
@@ -12769,14 +12793,6 @@
       "onboard_time": 1685624668,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162266,
-      "num": 162266,
-      "word": "董思槿",
-      "onboard_time": 1686147273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162256,

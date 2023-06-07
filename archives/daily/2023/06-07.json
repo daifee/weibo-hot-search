@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686147338460,
+  "endTime": 1686148421802,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645444,
+      "num": 597026,
+      "word": "董思槿",
+      "onboard_time": 1686147273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640424,
       "num": 612547,
       "word": "律师称街拍对他人造成影响应担责",
@@ -673,6 +681,14 @@
       "onboard_time": 1686111406,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 566109,
+      "num": 566109,
+      "word": "凤凰传奇一个火上辈子一个火下辈子",
+      "onboard_time": 1686145774,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 555765,
@@ -795,6 +811,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452726,
+      "num": 452726,
+      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
+      "onboard_time": 1686146316,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450843,
+      "num": 450843,
+      "word": "街拍事件摄影师该担责吗",
+      "onboard_time": 1686145233,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448612,
       "num": 448612,
       "word": "山河令",
@@ -875,14 +907,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 402616,
-      "num": 402616,
-      "word": "凤凰传奇一个火上辈子一个火下辈子",
-      "onboard_time": 1686145774,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397660,
       "num": 397660,
       "word": "五条悟",
@@ -905,6 +929,14 @@
       "onboard_time": 1686117813,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 383085,
+      "num": 417459,
+      "word": "虞书欣亮片绿色抹胸裙",
+      "onboard_time": 1686144872,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 372443,
@@ -1043,12 +1075,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 340653,
-      "num": 340653,
-      "word": "虞书欣亮片绿色抹胸裙",
-      "onboard_time": 1686144872,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 342123,
+      "num": 342123,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 338854,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1686124592,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313313,
-      "num": 313313,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 313194,
@@ -1155,6 +1179,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 292258,
+      "num": 292258,
+      "word": "肖春生带孩子梦回陈情令",
+      "onboard_time": 1686147456,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291553,
       "num": 183399,
       "word": "我出生那天 四海八荒都沉默了",
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273755,
+      "num": 273755,
+      "word": "意林又承包了高考作文题",
+      "onboard_time": 1686146853,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 271370,
       "num": 271370,
       "word": "11岁男孩开电动车失控撞死3岁男童",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1686099273,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 265558,
-      "num": 265558,
-      "word": "意林又承包了高考作文题",
-      "onboard_time": 1686146853,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 264691,
@@ -1475,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226198,
-      "num": 226198,
-      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
-      "onboard_time": 1686146316,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "柯南最新话",
@@ -1707,6 +1731,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 195819,
+      "num": 195819,
+      "word": "如果丧尸爆发你觉得哪里最安全",
+      "onboard_time": 1686147456,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195516,
       "num": 195516,
       "word": "ZB1出道预告",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1686103353,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194139,
+      "num": 204406,
+      "word": "张桂梅今天的午饭是拌面和果汁",
+      "onboard_time": 1686143853,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 193289,
@@ -1859,14 +1899,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 187351,
-      "num": 187351,
-      "word": "街拍事件摄影师该担责吗",
-      "onboard_time": 1686145233,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187240,
       "num": 187240,
       "word": "渣土司机通宵作业救儿靠吃辣椒解乏",
@@ -1937,14 +1969,6 @@
       "onboard_time": 1686108280,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 181578,
-      "num": 204406,
-      "word": "张桂梅今天的午饭是拌面和果汁",
-      "onboard_time": 1686143853,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 180228,
@@ -2097,14 +2121,6 @@
       "onboard_time": 1686100775,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 162266,
-      "num": 162266,
-      "word": "董思槿",
-      "onboard_time": 1686147273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162256,
