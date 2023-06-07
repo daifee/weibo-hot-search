@@ -1,0 +1,410 @@
+{
+  "runTime": 1686106506701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9251404,
+        "num": 9251404,
+        "word": "高考语文",
+        "onboard_time": 1686103592,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 6799880,
+        "num": 6799880,
+        "word": "高考",
+        "onboard_time": 1686092659,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28892,
+        "num": 4055514,
+        "word": "首艘国产大型邮轮爱达魔都号出坞",
+        "onboard_time": 1686053788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1699183,
+        "num": 1699183,
+        "word": "高考作文预测",
+        "onboard_time": 1686069442,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1296343,
+        "num": 1296343,
+        "word": "梁文博终身禁赛",
+        "onboard_time": 1686096391,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1264107,
+        "num": 1264107,
+        "word": "保送男生穿旗袍为高考同学加油",
+        "onboard_time": 1686101911,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 964571,
+        "num": 964571,
+        "word": "高考试卷",
+        "onboard_time": 1686102334,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 952069,
+        "num": 952069,
+        "word": "2023年高考第一个丢准考证的同学",
+        "onboard_time": 1686098973,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 767951,
+        "num": 767951,
+        "word": "一公司称花2千万可和蔡徐坤吃饭",
+        "onboard_time": 1686096633,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 740546,
+        "num": 740546,
+        "word": "今年高考生17年才刚小学毕业",
+        "onboard_time": 1686093503,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1231904,
+        "num": 673703,
+        "word": "孙俪发文庆祝和邓超结婚十二周年",
+        "onboard_time": 1686103292,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567806,
+        "num": 567806,
+        "word": "高考各科时间表",
+        "onboard_time": 1686095909,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 497673,
+        "num": 497673,
+        "word": "林徽因名字 文化版的招娣",
+        "onboard_time": 1686052350,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449426,
+        "num": 449426,
+        "word": "娜扎方否认高考596分",
+        "onboard_time": 1686094405,
+        "rank": 13,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 428734,
+        "num": 428734,
+        "word": "梦回王俊凯用易烊千玺读秒",
+        "onboard_time": 1686065012,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372351,
+        "num": 372351,
+        "word": "中国人离4天工作制还有多远",
+        "onboard_time": 1686104011,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 369325,
+        "num": 369325,
+        "word": "考生走错考场铁骑紧急出动送考",
+        "onboard_time": 1686103171,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 524043,
+        "num": 368786,
+        "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+        "onboard_time": 1686092600,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351394,
+        "num": 351394,
+        "word": "人体最大的器官是什么",
+        "onboard_time": 1686051569,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337114,
+        "num": 337114,
+        "word": "种地吧收小麦",
+        "onboard_time": 1686099872,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706768,
+        "num": 335546,
+        "word": "失业的中年人涌进星巴克",
+        "onboard_time": 1686092659,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667095,
+        "num": 332021,
+        "word": "千万不要用小拇指掏耳朵了",
+        "onboard_time": 1686100113,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319870,
+        "num": 319870,
+        "word": "seventeen粉丝的命也是命",
+        "onboard_time": 1686101974,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318447,
+        "num": 318447,
+        "word": "王源限定粉发MV",
+        "onboard_time": 1686105876,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312905,
+        "num": 312905,
+        "word": "高考防作弊磁弹枪亮相考点现场",
+        "onboard_time": 1686105937,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 307328,
+        "num": 307328,
+        "word": "辅导员自费给全班买咖啡抽中电车",
+        "onboard_time": 1686065846,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294667,
+        "num": 294667,
+        "word": "6年前忘带准考证受助考生成交警新同事",
+        "onboard_time": 1686092600,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 277605,
+        "num": 277605,
+        "word": "徐志胜救火",
+        "onboard_time": 1686098431,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252948,
+        "num": 252948,
+        "word": "邻居家漏水发现是猫咪所为后秒变撸猫",
+        "onboard_time": 1686100956,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 207703,
+        "num": 249967,
+        "word": "高考超燃图鉴",
+        "onboard_time": 1686105334,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 249266,
+        "num": 249266,
+        "word": "杨紫方称告黑是我们应该做的",
+        "onboard_time": 1686101313,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239543,
+        "num": 239543,
+        "word": "虞书欣工作人员的手机壳",
+        "onboard_time": 1686064954,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238539,
+        "num": 238539,
+        "word": "鸭脖",
+        "onboard_time": 1686106297,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 194073,
+        "word": "原来早睡有那么多好处",
+        "onboard_time": 1686100113,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193896,
+        "num": 193896,
+        "word": "高考日期谐音是录取吧",
+        "onboard_time": 1686095847,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190163,
+        "num": 190163,
+        "word": "高考开考铃声",
+        "onboard_time": 1686103772,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188754,
+        "num": 188754,
+        "word": "粤语是何书桓语录最好的滤镜",
+        "onboard_time": 1686105155,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188604,
+        "num": 188604,
+        "word": "NBA",
+        "onboard_time": 1686103592,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187304,
+        "num": 187304,
+        "word": "BKPP香港粉丝见面会主持人",
+        "onboard_time": 1686095246,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183860,
+        "num": 183860,
+        "word": "五月天广州站审批通过",
+        "onboard_time": 1686106178,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166541,
+        "num": 166541,
+        "word": "最贴脸的漫改女主角",
+        "onboard_time": 1686096992,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 159520,
+        "num": 159520,
+        "word": "第一届05后高考生来了",
+        "onboard_time": 1686097833,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159478,
+        "num": 159478,
+        "word": "弟弟一眼认出流浪乞讨人员是亲哥",
+        "onboard_time": 1686044367,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159322,
+        "num": 159322,
+        "word": "还记得你高考那天吗",
+        "onboard_time": 1686105033,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158100,
+        "num": 158100,
+        "word": "五月天杭州站嘉宾",
+        "onboard_time": 1686099273,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157452,
+        "num": 157452,
+        "word": "我那年的高考口号",
+        "onboard_time": 1686093624,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153858,
+        "num": 153858,
+        "word": "叶国华已被移出群聊",
+        "onboard_time": 1686054748,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153195,
+        "num": 153195,
+        "word": "鞠婧祎一滴泪哭戏",
+        "onboard_time": 1686099573,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152886,
+        "num": 152886,
+        "word": "肖战肖春生的早安语录",
+        "onboard_time": 1686104736,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149331,
+        "num": 149331,
+        "word": "马斯克称未来房价下跌将加速",
+        "onboard_time": 1686092781,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在内蒙古巴彦淖尔考察#"
+    }
+  }
+}

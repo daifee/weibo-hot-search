@@ -1,7 +1,15 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686103924261,
+  "endTime": 1686106506701,
   "band_list": [
+    {
+      "raw_hot": 9251404,
+      "num": 9251404,
+      "word": "高考语文",
+      "onboard_time": 1686103592,
+      "rank": 12,
+      "category": "教育"
+    },
     {
       "raw_hot": 8544897,
       "num": 8544897,
@@ -225,6 +233,14 @@
       "onboard_time": 1685893707,
       "rank": 10,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1699183,
+      "num": 1699183,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1682139,
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1264107,
+      "num": 1264107,
+      "word": "保送男生穿旗袍为高考同学加油",
+      "onboard_time": 1686101911,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1246292,
       "num": 686444,
       "word": "我出生那天 四海八荒都沉默了",
@@ -513,6 +537,14 @@
       "onboard_time": 1686041848,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1231904,
+      "num": 673703,
+      "word": "孙俪发文庆祝和邓超结婚十二周年",
+      "onboard_time": 1686103292,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1223087,
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964571,
+      "num": 964571,
+      "word": "高考试卷",
+      "onboard_time": 1686102334,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 954532,
       "num": 954532,
       "word": "明天高考",
@@ -777,14 +817,6 @@
       "onboard_time": 1686034589,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 897955,
-      "num": 897955,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 879069,
@@ -1059,14 +1091,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 699095,
-      "num": 699095,
-      "word": "保送男生穿旗袍为高考同学加油",
-      "onboard_time": 1686101911,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 694951,
       "num": 694951,
       "word": "第一眼被任敏惊艳到了",
@@ -1163,28 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 614848,
-      "num": 614848,
-      "word": "高考语文",
-      "onboard_time": 1686103592,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 612585,
       "num": 612585,
       "word": "亲爱的李华以后信要自己写了",
       "onboard_time": 1685954969,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607735,
-      "num": 607735,
-      "word": "高考试卷",
-      "onboard_time": 1686102334,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 604349,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567806,
+      "num": 567806,
+      "word": "高考各科时间表",
+      "onboard_time": 1686095909,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 562530,
@@ -1321,14 +1337,6 @@
       "onboard_time": 1685928387,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 509222,
-      "num": 509222,
-      "word": "高考各科时间表",
-      "onboard_time": 1686095909,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 505985,
@@ -1497,14 +1505,6 @@
       "onboard_time": 1685931026,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451971,
-      "num": 451971,
-      "word": "孙俪发文庆祝和邓超结婚十二周年",
-      "onboard_time": 1686103292,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 450571,
@@ -1755,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372351,
+      "num": 372351,
+      "word": "中国人离4天工作制还有多远",
+      "onboard_time": 1686104011,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 370688,
       "num": 370688,
       "word": "seventeen粉丝的命也是命",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1685955867,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369325,
+      "num": 369325,
+      "word": "考生走错考场铁骑紧急出动送考",
+      "onboard_time": 1686103171,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 369191,
@@ -2051,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318447,
+      "num": 318447,
+      "word": "王源限定粉发MV",
+      "onboard_time": 1686105876,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315548,
       "num": 315548,
       "word": "肖战看到毛线球两眼放光",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1686063873,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312905,
+      "num": 312905,
+      "word": "高考防作弊磁弹枪亮相考点现场",
+      "onboard_time": 1686105937,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 312774,
@@ -2867,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238426,
-      "num": 238426,
-      "word": "考生走错考场铁骑紧急出动送考",
-      "onboard_time": 1686103171,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 238008,
       "num": 238008,
       "word": "小狗又不懂什么是寄养",
@@ -3371,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207703,
+      "num": 249967,
+      "word": "高考超燃图鉴",
+      "onboard_time": 1686105334,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207469,
       "num": 207469,
       "word": "阿根廷中国行开票",
@@ -3755,6 +3787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "高考开考铃声",
+      "onboard_time": 1686103772,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 190147,
       "num": 190147,
       "word": "高考表情包",
@@ -3795,6 +3835,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188754,
+      "num": 188754,
+      "word": "粤语是何书桓语录最好的滤镜",
+      "onboard_time": 1686105155,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188604,
+      "num": 188604,
+      "word": "NBA",
+      "onboard_time": 1685929046,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187958,
       "num": 116554,
       "word": "老师上网课儿子在后面捣乱",
@@ -3809,14 +3865,6 @@
       "onboard_time": 1685939312,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187189,
-      "num": 187189,
-      "word": "NBA",
-      "onboard_time": 1685929046,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 186253,
@@ -3873,6 +3921,14 @@
       "onboard_time": 1686027391,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183860,
+      "num": 183860,
+      "word": "五月天广州站审批通过",
+      "onboard_time": 1686106178,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 183222,
@@ -4355,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159322,
+      "num": 159322,
+      "word": "还记得你高考那天吗",
+      "onboard_time": 1686105033,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 159043,
       "num": 159043,
       "word": "Vision Pro 眼睛手势操作",
@@ -4491,20 +4555,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 153043,
-      "num": 153043,
-      "word": "高考开考铃声",
-      "onboard_time": 1686103772,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 152989,
       "num": 152989,
       "word": "小岛秀夫 苹果发布会",
       "onboard_time": 1685988135,
       "rank": 12,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "肖战肖春生的早安语录",
+      "onboard_time": 1686104736,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 152183,
@@ -5556,7 +5620,7 @@
     },
     {
       "raw_hot": 66934,
-      "num": 1622571,
+      "num": 4055514,
       "word": "首艘国产大型邮轮爱达魔都号出坞",
       "onboard_time": 1686053788,
       "rank": 2,

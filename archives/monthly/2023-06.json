@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686103924261,
+  "endTime": 1686106506701,
   "band_list": [
     {
       "raw_hot": 11929165,
@@ -9,6 +9,14 @@
       "onboard_time": 1685700868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9251404,
+      "num": 9251404,
+      "word": "高考语文",
+      "onboard_time": 1686103592,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 8544897,
@@ -585,6 +593,14 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1699183,
+      "num": 1699183,
+      "word": "高考作文预测",
+      "onboard_time": 1686069442,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1682139,
@@ -1243,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1264107,
+      "num": 1264107,
+      "word": "保送男生穿旗袍为高考同学加油",
+      "onboard_time": 1686101911,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1255756,
       "num": 1255756,
       "word": "Angelababy回归 跑男收视率",
@@ -1304,6 +1328,14 @@
       "word": "金智秀新冠确诊",
       "onboard_time": 1685626952,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1231904,
+      "num": 673703,
+      "word": "孙俪发文庆祝和邓超结婚十二周年",
+      "onboard_time": 1686103292,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1787,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964571,
+      "num": 964571,
+      "word": "高考试卷",
+      "onboard_time": 1686102334,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 964320,
       "num": 964320,
       "word": "肖战迪丽热巴赵露思V榜破9",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1686034589,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 897955,
-      "num": 897955,
-      "word": "高考作文预测",
-      "onboard_time": 1686069442,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 888042,
@@ -2475,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699095,
-      "num": 699095,
-      "word": "保送男生穿旗袍为高考同学加油",
-      "onboard_time": 1686101911,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 698316,
       "num": 698316,
       "word": "假性亲密关系",
@@ -2843,14 +2867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 614848,
-      "num": 614848,
-      "word": "高考语文",
-      "onboard_time": 1686103592,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 612599,
       "num": 612599,
       "word": "王鹤棣要去泰国录跑男",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1685876546,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 607735,
-      "num": 607735,
-      "word": "高考试卷",
-      "onboard_time": 1686102334,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 606453,
@@ -3073,6 +3081,14 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567806,
+      "num": 567806,
+      "word": "高考各科时间表",
+      "onboard_time": 1686095909,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 565931,
@@ -3409,14 +3425,6 @@
       "onboard_time": 1685864190,
       "rank": 15,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 509222,
-      "num": 509222,
-      "word": "高考各科时间表",
-      "onboard_time": 1686095909,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 507598,
@@ -3841,14 +3849,6 @@
       "onboard_time": 1685706334,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451971,
-      "num": 451971,
-      "word": "孙俪发文庆祝和邓超结婚十二周年",
-      "onboard_time": 1686103292,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 451793,
@@ -4651,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372351,
+      "num": 372351,
+      "word": "中国人离4天工作制还有多远",
+      "onboard_time": 1686104011,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 372320,
       "num": 372320,
       "word": "杨紫芭莎吃糖油饼大片",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1685955867,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369325,
+      "num": 369325,
+      "word": "考生走错考场铁骑紧急出动送考",
+      "onboard_time": 1686103171,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 369191,
@@ -5531,6 +5547,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 318447,
+      "num": 318447,
+      "word": "王源限定粉发MV",
+      "onboard_time": 1686105876,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317993,
       "num": 317993,
       "word": "奶奶看小鬼演唱会捂耳朵",
@@ -5625,6 +5649,14 @@
       "onboard_time": 1685603726,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312905,
+      "num": 312905,
+      "word": "高考防作弊磁弹枪亮相考点现场",
+      "onboard_time": 1686105937,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 312774,
@@ -7771,14 +7803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238426,
-      "num": 238426,
-      "word": "考生走错考场铁骑紧急出动送考",
-      "onboard_time": 1686103171,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 238172,
       "num": 238172,
       "word": "是谁在设计这种东西",
@@ -9043,6 +9067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207703,
+      "num": 249967,
+      "word": "高考超燃图鉴",
+      "onboard_time": 1686105334,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207521,
       "num": 169619,
       "word": "肖战召唤二八大杠男团",
@@ -10011,6 +10043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "高考开考铃声",
+      "onboard_time": 1686103772,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 190148,
       "num": 190148,
       "word": "时代少年团儿童节vlog",
@@ -10123,12 +10163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188754,
+      "num": 188754,
+      "word": "粤语是何书桓语录最好的滤镜",
+      "onboard_time": 1686105155,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
       "onboard_time": 1685608048,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188604,
+      "num": 188604,
+      "word": "NBA",
+      "onboard_time": 1685929046,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 188584,
@@ -10176,14 +10232,6 @@
       "word": "中国女排vs荷兰女排",
       "onboard_time": 1685779288,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187189,
-      "num": 187189,
-      "word": "NBA",
-      "onboard_time": 1685929046,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -10385,6 +10433,14 @@
       "onboard_time": 1685779588,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183860,
+      "num": 183860,
+      "word": "五月天广州站审批通过",
+      "onboard_time": 1686106178,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 183820,
@@ -11451,6 +11507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159322,
+      "num": 159322,
+      "word": "还记得你高考那天吗",
+      "onboard_time": 1686105033,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 159285,
       "num": 159285,
       "word": "女排",
@@ -11787,20 +11851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153043,
-      "num": 153043,
-      "word": "高考开考铃声",
-      "onboard_time": 1686103772,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 152989,
       "num": 152989,
       "word": "小岛秀夫 苹果发布会",
       "onboard_time": 1685988135,
       "rank": 12,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "肖战肖春生的早安语录",
+      "onboard_time": 1686104736,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 152551,
@@ -14500,7 +14564,7 @@
     },
     {
       "raw_hot": 66934,
-      "num": 1622571,
+      "num": 4055514,
       "word": "首艘国产大型邮轮爱达魔都号出坞",
       "onboard_time": 1686053788,
       "rank": 2,
