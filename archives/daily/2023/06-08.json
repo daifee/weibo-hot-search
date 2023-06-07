@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686162079191,
+  "endTime": 1686162882532,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -443,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36723,
-      "num": 36723,
+      "raw_hot": 40570,
+      "num": 40570,
       "word": "陶昕然用甄嬛传台词祝福高考生",
       "onboard_time": 1686160034,
       "rank": 39,
@@ -455,6 +455,22 @@
       "num": 49817,
       "word": "上野千鹤子的回信",
       "onboard_time": 1686159197,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26017,
+      "num": 27744,
+      "word": "数学到底难不难",
+      "onboard_time": 1686129107,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 25505,
+      "num": 27732,
+      "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
+      "onboard_time": 1686151774,
       "rank": 49,
       "category": "艺人"
     }

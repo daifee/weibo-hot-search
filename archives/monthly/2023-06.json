@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686162079191,
+  "endTime": 1686162882532,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -16739,6 +16739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 40570,
+      "num": 40570,
+      "word": "陶昕然用甄嬛传台词祝福高考生",
+      "onboard_time": 1686160034,
+      "rank": 39,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 40019,
       "num": 186387,
       "word": "王耀庆直播上海话版UncleWang",
@@ -16793,14 +16801,6 @@
       "onboard_time": 1685944888,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36723,
-      "num": 36723,
-      "word": "陶昕然用甄嬛传台词祝福高考生",
-      "onboard_time": 1686160034,
-      "rank": 39,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 36691,
