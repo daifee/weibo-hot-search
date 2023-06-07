@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686137614696,
+  "endTime": 1686141284782,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -603,6 +603,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1906136,
+      "num": 1906136,
+      "word": "某某",
+      "onboard_time": 1686133717,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1895298,
       "num": 1895298,
       "word": "柳州与女子不雅聊天公职人员被免职",
@@ -753,6 +761,14 @@
       "onboard_time": 1685758169,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1725996,
+      "num": 1366266,
+      "word": "22届在骂 23届崩溃 24届焦虑",
+      "onboard_time": 1686135276,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1722394,
@@ -1147,6 +1163,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1416930,
+      "num": 1416930,
+      "word": "贾玲为了新角色要减重100斤",
+      "onboard_time": 1686132698,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1411897,
       "num": 1599420,
       "word": "张雪峰公司将实行上四休三",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1686038787,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1366266,
-      "num": 1366266,
-      "word": "22届在骂 23届崩溃 24届焦虑",
-      "onboard_time": 1686135276,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1362230,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1685542230,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1290439,
-      "num": 1290439,
-      "word": "贾玲为了新角色要减重100斤",
-      "onboard_time": 1686132698,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 1289325,
@@ -1723,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1158152,
-      "num": 1158152,
-      "word": "某某",
-      "onboard_time": 1686133717,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1149512,
       "num": 1001972,
       "word": "高考试卷",
@@ -2065,6 +2065,14 @@
       "onboard_time": 1685971768,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 995485,
+      "num": 995485,
+      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+      "onboard_time": 1686140552,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 992848,
@@ -2955,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693610,
+      "num": 1342377,
+      "word": "双胞胎拿错准考证骁骑5分钟调换",
+      "onboard_time": 1686134376,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 688162,
       "num": 688162,
       "word": "张艺兴 买票请认准官方票务平台",
@@ -3747,14 +3763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536018,
-      "num": 1342377,
-      "word": "双胞胎拿错准考证骁骑5分钟调换",
-      "onboard_time": 1686134376,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 534482,
       "num": 534482,
       "word": "肖战虞书欣白鹿今日微博开屏",
@@ -4419,6 +4427,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 446030,
+      "num": 446030,
+      "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
+      "onboard_time": 1686137135,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 445550,
       "num": 434581,
       "word": "王诗龄说好久不见何炅",
@@ -4577,6 +4593,14 @@
       "onboard_time": 1685892869,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 424377,
+      "num": 424377,
+      "word": "重庆狼队",
+      "onboard_time": 1686140613,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 423253,
@@ -5347,6 +5371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362917,
+      "num": 362917,
+      "word": "无穷小亮谈鼠头鸭脖",
+      "onboard_time": 1686135218,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362725,
       "num": 362725,
       "word": "卡琳娜发了李龙馥",
@@ -5555,6 +5587,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 349915,
+      "num": 349915,
+      "word": "出演新剧是Jennie自己的选择",
+      "onboard_time": 1686135515,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349898,
       "num": 349898,
       "word": "白鹿出道7年演了17部剧",
@@ -5625,14 +5665,6 @@
       "onboard_time": 1686112722,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345682,
-      "num": 345682,
-      "word": "出演新剧是Jennie自己的选择",
-      "onboard_time": 1686135515,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 345302,
@@ -6273,6 +6305,14 @@
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 313596,
+      "num": 313596,
+      "word": "杨颖不要再瘦了",
+      "onboard_time": 1686139654,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313465,
@@ -6939,6 +6979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287060,
+      "num": 287060,
+      "word": "公司称领导与异性牵手逛街是个人行为",
+      "onboard_time": 1686135276,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286973,
       "num": 174802,
       "word": "肖春生刘能同款造型",
@@ -7379,14 +7427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272597,
-      "num": 272597,
-      "word": "公司称领导与异性牵手逛街是个人行为",
-      "onboard_time": 1686135276,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272218,
       "num": 272218,
       "word": "花傲天buff",
@@ -7659,6 +7699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264210,
+      "num": 264210,
+      "word": "鼠头鸭脖",
+      "onboard_time": 1686140074,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264035,
       "num": 264035,
       "word": "张远演唱会",
@@ -7857,14 +7905,6 @@
       "onboard_time": 1685776886,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258139,
-      "num": 258139,
-      "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
-      "onboard_time": 1686137135,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257891,
@@ -8417,6 +8457,14 @@
       "onboard_time": 1685598687,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243471,
+      "num": 243471,
+      "word": "小S大女儿韩国舞蹈大赛跳舞视频",
+      "onboard_time": 1686140432,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243463,
@@ -9219,6 +9267,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 224819,
+      "num": 224819,
+      "word": "台版某某开拍",
+      "onboard_time": 1686139473,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224802,
       "num": 224802,
       "word": "卡琳娜",
@@ -9457,14 +9513,6 @@
       "onboard_time": 1686106178,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218977,
-      "num": 218977,
-      "word": "无穷小亮谈鼠头鸭脖",
-      "onboard_time": 1686135218,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218898,
@@ -10177,6 +10225,14 @@
       "onboard_time": 1685956407,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203117,
+      "num": 203117,
+      "word": "时代少年团常驻综艺",
+      "onboard_time": 1686137135,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 203111,
@@ -11147,6 +11203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189006,
+      "num": 189006,
+      "word": "上海迪士尼",
+      "onboard_time": 1686140915,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "AG转会期",
@@ -11193,6 +11257,14 @@
       "onboard_time": 1685709869,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187992,
+      "num": 187992,
+      "word": "北京晚霞",
+      "onboard_time": 1686140552,
+      "rank": 44,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 187966,
@@ -12595,6 +12667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160330,
+      "num": 160330,
+      "word": "赵露思陈哲远偷偷藏不住下证",
+      "onboard_time": 1686138695,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160128,
       "num": 523628,
       "word": "学生高举字条用监控和老师交流发试卷",
@@ -13409,6 +13489,14 @@
       "onboard_time": 1685951188,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141317,
+      "num": 141317,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 141171,
@@ -15939,6 +16027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59509,
+      "num": 452051,
+      "word": "星穹铁道1.1",
+      "onboard_time": 1686139234,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59070,
       "num": 59070,
       "word": "雨后西安上空出现橙色童话云",
@@ -16297,6 +16393,14 @@
       "onboard_time": 1685986937,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36233,
+      "num": 275579,
+      "word": "投影仪怎么选更护眼",
+      "onboard_time": 1686139473,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35981,

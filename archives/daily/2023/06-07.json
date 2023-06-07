@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686137614696,
+  "endTime": 1686141284782,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -171,6 +171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1906136,
+      "num": 1906136,
+      "word": "某某",
+      "onboard_time": 1686133717,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1872136,
       "num": 1161015,
       "word": "好友称董洁从未埋怨潘粤明",
@@ -201,6 +209,14 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1725996,
+      "num": 1366266,
+      "word": "22届在骂 23届崩溃 24届焦虑",
+      "onboard_time": 1686135276,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1591669,
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1366266,
-      "num": 1366266,
-      "word": "22届在骂 23届崩溃 24届焦虑",
-      "onboard_time": 1686135276,
-      "rank": 18,
-      "category": "社会新闻,教育"
+      "raw_hot": 1416930,
+      "num": 1416930,
+      "word": "贾玲为了新角色要减重100斤",
+      "onboard_time": 1686132698,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 1350459,
@@ -283,14 +299,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1290439,
-      "num": 1290439,
-      "word": "贾玲为了新角色要减重100斤",
-      "onboard_time": 1686132698,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1274807,
       "num": 1274807,
       "word": "一公司称花2千万可和蔡徐坤吃饭",
@@ -321,14 +329,6 @@
       "onboard_time": 1686122555,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1158152,
-      "num": 1158152,
-      "word": "某某",
-      "onboard_time": 1686133717,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 1149512,
@@ -409,6 +409,14 @@
       "onboard_time": 1686130124,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995485,
+      "num": 995485,
+      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+      "onboard_time": 1686140552,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 992848,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693610,
+      "num": 1342377,
+      "word": "双胞胎拿错准考证骁骑5分钟调换",
+      "onboard_time": 1686134376,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 684692,
       "num": 684692,
       "word": "人体最大的器官是什么",
@@ -617,14 +633,6 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 536018,
-      "num": 1342377,
-      "word": "双胞胎拿错准考证骁骑5分钟调换",
-      "onboard_time": 1686134376,
-      "rank": 6,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 532365,
@@ -723,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446030,
+      "num": 446030,
+      "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
+      "onboard_time": 1686137135,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 445708,
       "num": 445708,
       "word": "杭州姑娘20元刮刮乐刮中百万",
@@ -745,6 +761,14 @@
       "onboard_time": 1686107320,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 424377,
+      "num": 424377,
+      "word": "重庆狼队",
+      "onboard_time": 1686140613,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 410058,
@@ -851,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362917,
+      "num": 362917,
+      "word": "无穷小亮谈鼠头鸭脖",
+      "onboard_time": 1686135218,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362262,
       "num": 362262,
       "word": "新高考二卷数学",
@@ -867,6 +899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 349915,
+      "num": 349915,
+      "word": "出演新剧是Jennie自己的选择",
+      "onboard_time": 1686135515,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348009,
       "num": 315516,
       "word": "新课标二卷 青少年自己的空间",
@@ -881,14 +921,6 @@
       "onboard_time": 1686112722,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345682,
-      "num": 345682,
-      "word": "出演新剧是Jennie自己的选择",
-      "onboard_time": 1686135515,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 344342,
@@ -937,6 +969,14 @@
       "onboard_time": 1686124592,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313596,
+      "num": 313596,
+      "word": "杨颖不要再瘦了",
+      "onboard_time": 1686139654,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313194,
@@ -1003,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287060,
+      "num": 287060,
+      "word": "公司称领导与异性牵手逛街是个人行为",
+      "onboard_time": 1686135276,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284989,
       "num": 284989,
       "word": "古代状元到底是什么水平",
@@ -1043,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272597,
-      "num": 272597,
-      "word": "公司称领导与异性牵手逛街是个人行为",
-      "onboard_time": 1686135276,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271370,
       "num": 271370,
       "word": "11岁男孩开电动车失控撞死3岁男童",
@@ -1075,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264210,
+      "num": 264210,
+      "word": "鼠头鸭脖",
+      "onboard_time": 1686140074,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263417,
       "num": 263417,
       "word": "国产数据库重大突破",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1686058652,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 258139,
-      "num": 258139,
-      "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
-      "onboard_time": 1686137135,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256587,
@@ -1235,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243471,
+      "num": 243471,
+      "word": "小S大女儿韩国舞蹈大赛跳舞视频",
+      "onboard_time": 1686140432,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242807,
       "num": 242807,
       "word": "马斯克称未来房价下跌将加速",
@@ -1315,6 +1363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 224819,
+      "num": 224819,
+      "word": "台版某某开拍",
+      "onboard_time": 1686139473,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224409,
       "num": 182465,
       "word": "最令你惊艳的明星真人",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1686106178,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218977,
-      "num": 218977,
-      "word": "无穷小亮谈鼠头鸭脖",
-      "onboard_time": 1686135218,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213304,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1686107923,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 203117,
+      "num": 203117,
+      "word": "时代少年团常驻综艺",
+      "onboard_time": 1686137135,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 201563,
@@ -1603,12 +1659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189006,
+      "num": 189006,
+      "word": "上海迪士尼",
+      "onboard_time": 1686140915,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188665,
       "num": 188665,
       "word": "高考第一天的考场门口",
       "onboard_time": 1686107320,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 187992,
+      "num": 187992,
+      "word": "北京晚霞",
+      "onboard_time": 1686140552,
+      "rank": 44,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 187240,
@@ -1859,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160330,
+      "num": 160330,
+      "word": "赵露思陈哲远偷偷藏不住下证",
+      "onboard_time": 1686138695,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159322,
       "num": 159322,
       "word": "还记得你高考那天吗",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1686038129,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141317,
+      "num": 141317,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 140881,
@@ -2227,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59509,
+      "num": 452051,
+      "word": "星穹铁道1.1",
+      "onboard_time": 1686139234,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58492,
       "num": 58492,
       "word": "高考期间最忌减主食",
@@ -2289,6 +2385,14 @@
       "onboard_time": 1686040107,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 36233,
+      "num": 275579,
+      "word": "投影仪怎么选更护眼",
+      "onboard_time": 1686139473,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36058,
