@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686142325504,
+  "endTime": 1686144164863,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1831125,
+      "num": 1831125,
+      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+      "onboard_time": 1686140552,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1826995,
       "num": 1826995,
       "word": "全国甲卷 时间的仆人",
@@ -235,12 +243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1551440,
-      "num": 1551440,
-      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
-      "onboard_time": 1686140552,
-      "rank": 5,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1568187,
+      "num": 1568187,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1451764,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1005394,
+      "num": 1005394,
+      "word": "杨颖不要再瘦了",
+      "onboard_time": 1686139654,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 992848,
       "num": 992848,
       "word": "AI写高考作文",
@@ -467,12 +483,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 851493,
-      "num": 851493,
-      "word": "姜广涛",
-      "onboard_time": 1686141273,
-      "rank": 49,
-      "category": "动漫,艺人"
+      "raw_hot": 852771,
+      "num": 643087,
+      "word": "鼠头鸭脖",
+      "onboard_time": 1686140074,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848888,
@@ -481,6 +497,14 @@
       "onboard_time": 1686115472,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 826083,
+      "num": 649087,
+      "word": "上海迪士尼",
+      "onboard_time": 1686140915,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799329,
@@ -531,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 759391,
-      "num": 759391,
-      "word": "杨颖不要再瘦了",
-      "onboard_time": 1686139654,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 758629,
       "num": 758629,
       "word": "胡继勇正接受公司纪委核查",
@@ -579,7 +595,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 693610,
+      "raw_hot": 708869,
       "num": 1342377,
       "word": "双胞胎拿错准考证骁骑5分钟调换",
       "onboard_time": 1686134376,
@@ -600,22 +616,6 @@
       "word": "辅导员自费给全班买咖啡抽中电车",
       "onboard_time": 1686065846,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649087,
-      "num": 649087,
-      "word": "上海迪士尼",
-      "onboard_time": 1686140915,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643087,
-      "num": 643087,
-      "word": "鼠头鸭脖",
-      "onboard_time": 1686140074,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348051,
+      "num": 348051,
+      "word": "小S大女儿韩国舞蹈大赛跳舞视频",
+      "onboard_time": 1686140432,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348009,
       "num": 315516,
       "word": "新课标二卷 青少年自己的空间",
@@ -987,12 +995,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 321812,
-      "num": 321812,
-      "word": "小S大女儿韩国舞蹈大赛跳舞视频",
-      "onboard_time": 1686140432,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 316726,
+      "num": 284810,
+      "word": "难怪贾玲要瘦100斤",
+      "onboard_time": 1686142475,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 315836,
@@ -1371,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227498,
+      "num": 227498,
+      "word": "刘冬沁 某某男主",
+      "onboard_time": 1686141876,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "柯南最新话",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1686114636,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221050,
-      "num": 221050,
-      "word": "刘冬沁 某某男主",
-      "onboard_time": 1686141876,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 220972,
@@ -1619,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193289,
+      "num": 193289,
+      "word": "BLG",
+      "onboard_time": 1686142772,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192577,
       "num": 192577,
       "word": "高考生考前一天弄丢身份证",
@@ -1704,6 +1720,14 @@
       "word": "种地吧直播",
       "onboard_time": 1686041848,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188830,
+      "num": 188830,
+      "word": "马嘉祺背对猎人",
+      "onboard_time": 1686141813,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1793,14 +1817,6 @@
       "onboard_time": 1686108280,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180835,
-      "num": 180835,
-      "word": "马嘉祺背对猎人",
-      "onboard_time": 1686141813,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 180228,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1686101553,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166657,
+      "num": 166657,
+      "word": "长风渡",
+      "onboard_time": 1686143555,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 165765,
@@ -2171,6 +2195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 119613,
+      "num": 129034,
+      "word": "英雄志",
+      "onboard_time": 1686143252,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117830,
       "num": 117830,
       "word": "微博电影之夜",
@@ -2209,6 +2241,14 @@
       "onboard_time": 1686128504,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109983,
+      "num": 129032,
+      "word": "EDG对战BLG",
+      "onboard_time": 1686138216,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108786,
@@ -2267,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92312,
+      "num": 204406,
+      "word": "张桂梅今天的午饭是拌面和果汁",
+      "onboard_time": 1686143853,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 87134,
       "num": 93739,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
@@ -2289,6 +2337,14 @@
       "onboard_time": 1686076933,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75555,
+      "num": 374777,
+      "word": "广东今年唯一全盲高考生走进考场",
+      "onboard_time": 1686142833,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74623,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10182,
+      "num": 188258,
+      "word": "我国成功发射一箭26星",
+      "onboard_time": 1686143972,
+      "rank": 36,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

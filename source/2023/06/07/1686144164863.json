@@ -1,0 +1,410 @@
+{
+  "runTime": 1686144164863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7134376,
+        "num": 7134376,
+        "word": "中石油胡继勇被免职",
+        "onboard_time": 1686131623,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1831125,
+        "num": 1831125,
+        "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+        "onboard_time": 1686140552,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1568187,
+        "num": 1568187,
+        "word": "姜广涛",
+        "onboard_time": 1686141273,
+        "rank": 2,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 1271160,
+        "num": 1271160,
+        "word": "贾玲为了新角色要减重100斤",
+        "onboard_time": 1686132698,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1207402,
+        "num": 1207402,
+        "word": "某某",
+        "onboard_time": 1686133717,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1005394,
+        "num": 1005394,
+        "word": "杨颖不要再瘦了",
+        "onboard_time": 1686139654,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 890569,
+        "num": 890569,
+        "word": "高考数学",
+        "onboard_time": 1686126154,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 830225,
+        "num": 830225,
+        "word": "新高考一卷数学 大题难",
+        "onboard_time": 1686130307,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 708869,
+        "num": 708869,
+        "word": "双胞胎拿错准考证骁骑5分钟调换",
+        "onboard_time": 1686134376,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 470908,
+        "num": 470908,
+        "word": "哥哥拿弟弟身份证高考8点45才发现",
+        "onboard_time": 1686129407,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 852771,
+        "num": 450090,
+        "word": "鼠头鸭脖",
+        "onboard_time": 1686140074,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826083,
+        "num": 436620,
+        "word": "上海迪士尼",
+        "onboard_time": 1686140915,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666838,
+        "num": 431687,
+        "word": "官方通报国企领导与女子逛街",
+        "onboard_time": 1686131382,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405267,
+        "num": 405267,
+        "word": "数学到底难不难",
+        "onboard_time": 1686129107,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 75555,
+        "num": 374777,
+        "word": "广东今年唯一全盲高考生走进考场",
+        "onboard_time": 1686142833,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348051,
+        "num": 348051,
+        "word": "小S大女儿韩国舞蹈大赛跳舞视频",
+        "onboard_time": 1686140432,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326234,
+        "num": 326234,
+        "word": "花少 邓恩熙",
+        "onboard_time": 1686126453,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319565,
+        "num": 319565,
+        "word": "出演新剧是Jennie自己的选择",
+        "onboard_time": 1686135515,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297496,
+        "num": 297496,
+        "word": "山河令制片人马韬去世",
+        "onboard_time": 1686120092,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295755,
+        "num": 295755,
+        "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
+        "onboard_time": 1686137135,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1856874,
+        "num": 286490,
+        "word": "22届在骂 23届崩溃 24届焦虑",
+        "onboard_time": 1686135276,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 565632,
+        "num": 284967,
+        "word": "甲卷数学 边考边哭",
+        "onboard_time": 1686132459,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 316726,
+        "num": 284810,
+        "word": "难怪贾玲要瘦100斤",
+        "onboard_time": 1686142475,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263812,
+        "num": 263812,
+        "word": "胡继勇正接受公司纪委核查",
+        "onboard_time": 1686114339,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262321,
+        "num": 262321,
+        "word": "无穷小亮谈鼠头鸭脖",
+        "onboard_time": 1686135218,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 238942,
+        "word": "郑业成工作室回应轧戏",
+        "onboard_time": 1686136055,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251988,
+        "num": 234398,
+        "word": "公司称领导与异性牵手逛街是个人行为",
+        "onboard_time": 1686135276,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229752,
+        "num": 229752,
+        "word": "高考作文",
+        "onboard_time": 1686107741,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 227498,
+        "num": 227498,
+        "word": "刘冬沁 某某男主",
+        "onboard_time": 1686141876,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92312,
+        "num": 204406,
+        "word": "张桂梅今天的午饭是拌面和果汁",
+        "onboard_time": 1686143853,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 704487,
+        "num": 203737,
+        "word": "妻子在南非出轨染艾滋生下混血婴儿",
+        "onboard_time": 1686128439,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245677,
+        "num": 202434,
+        "word": "中央巡视组回应国企领导与异性逛街",
+        "onboard_time": 1686130124,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199282,
+        "num": 199282,
+        "word": "重庆狼队",
+        "onboard_time": 1686140613,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62424,
+        "num": 193716,
+        "word": "硬核黑科技助力高考",
+        "onboard_time": 1686126213,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193289,
+        "num": 193289,
+        "word": "BLG",
+        "onboard_time": 1686142772,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188830,
+        "num": 188830,
+        "word": "马嘉祺背对猎人",
+        "onboard_time": 1686141813,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10182,
+        "num": 188258,
+        "word": "我国成功发射一箭26星",
+        "onboard_time": 1686143972,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188036,
+        "num": 188036,
+        "word": "赵露思陈哲远偷偷藏不住下证",
+        "onboard_time": 1686138695,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179025,
+        "num": 179025,
+        "word": "高考数学答案",
+        "onboard_time": 1686134015,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187217,
+        "num": 175674,
+        "word": "偷偷藏不住",
+        "onboard_time": 1686136297,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170534,
+        "num": 170534,
+        "word": "台版某某开拍",
+        "onboard_time": 1686139473,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166657,
+        "num": 166657,
+        "word": "长风渡",
+        "onboard_time": 1686143555,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164149,
+        "num": 164149,
+        "word": "文汇报评肖战李沁梦中的那片海",
+        "onboard_time": 1686134737,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163169,
+        "num": 163169,
+        "word": "马思纯瘦了30斤",
+        "onboard_time": 1686124533,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161029,
+        "num": 161029,
+        "word": "董洁首谈离婚风波影响",
+        "onboard_time": 1686113620,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143022,
+        "num": 143022,
+        "word": "时代少年团常驻综艺",
+        "onboard_time": 1686137135,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135167,
+        "num": 135167,
+        "word": "汤晶媚和每个人都说了任敏的想法",
+        "onboard_time": 1686123392,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129037,
+        "num": 129037,
+        "word": "紫幻加入TTG",
+        "onboard_time": 1686141693,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119613,
+        "num": 129034,
+        "word": "英雄志",
+        "onboard_time": 1686143252,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 129032,
+        "word": "EDG对战BLG",
+        "onboard_time": 1686138216,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国正成为全球荒漠生态治理新标杆#"
+    }
+  }
+}
