@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686144164863,
+  "endTime": 1686144855485,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2036378,
+      "num": 2036378,
+      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+      "onboard_time": 1686140552,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1955577,
       "num": 1955577,
       "word": "甲卷数学 边考边哭",
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1831125,
-      "num": 1831125,
-      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
-      "onboard_time": 1686140552,
-      "rank": 5,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1826995,
       "num": 1826995,
       "word": "全国甲卷 时间的仆人",
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1618741,
+      "num": 1618741,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 1591669,
       "num": 1416234,
       "word": "马思纯瘦了30斤",
@@ -241,14 +249,6 @@
       "onboard_time": 1686126994,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1568187,
-      "num": 1568187,
-      "word": "姜广涛",
-      "onboard_time": 1686141273,
-      "rank": 49,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1451764,
@@ -483,8 +483,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 867928,
+      "num": 789302,
+      "word": "上海迪士尼",
+      "onboard_time": 1686140915,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852771,
-      "num": 643087,
+      "num": 785757,
       "word": "鼠头鸭脖",
       "onboard_time": 1686140074,
       "rank": 32,
@@ -499,19 +507,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 826083,
-      "num": 649087,
-      "word": "上海迪士尼",
-      "onboard_time": 1686140915,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 799329,
       "num": 799329,
       "word": "哥哥拿弟弟身份证高考8点45才发现",
       "onboard_time": 1686129407,
       "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 790640,
+      "num": 1342377,
+      "word": "双胞胎拿错准考证骁骑5分钟调换",
+      "onboard_time": 1686134376,
+      "rank": 6,
       "category": "社会新闻,教育"
     },
     {
@@ -595,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 708869,
-      "num": 1342377,
-      "word": "双胞胎拿错准考证骁骑5分钟调换",
-      "onboard_time": 1686134376,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 684692,
       "num": 684692,
       "word": "人体最大的器官是什么",
@@ -641,6 +641,14 @@
       "onboard_time": 1686111406,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 565516,
+      "num": 565516,
+      "word": "难怪贾玲要瘦100斤",
+      "onboard_time": 1686142475,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 555765,
@@ -867,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370620,
+      "num": 370620,
+      "word": "EDG对战BLG",
+      "onboard_time": 1686138216,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369325,
       "num": 369325,
       "word": "考生走错考场铁骑紧急出动送考",
@@ -993,14 +1009,6 @@
       "onboard_time": 1686111885,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 316726,
-      "num": 284810,
-      "word": "难怪贾玲要瘦100斤",
-      "onboard_time": 1686142475,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 315836,
@@ -1203,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253018,
+      "num": 253018,
+      "word": "刘冬沁 某某男主",
+      "onboard_time": 1686141876,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252830,
       "num": 252830,
       "word": "公司纪委回应网传领导与异性亲密逛街",
@@ -1379,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227498,
-      "num": 227498,
-      "word": "刘冬沁 某某男主",
-      "onboard_time": 1686141876,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "柯南最新话",
@@ -1531,6 +1539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 203971,
+      "num": 203971,
+      "word": "长风渡",
+      "onboard_time": 1686143555,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203879,
       "num": 203879,
       "word": "穿旗袍",
@@ -1659,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191573,
+      "num": 191573,
+      "word": "马嘉祺背对猎人",
+      "onboard_time": 1686141813,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191462,
       "num": 786941,
       "word": "被Angelababy回复了",
@@ -1720,14 +1744,6 @@
       "word": "种地吧直播",
       "onboard_time": 1686041848,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188830,
-      "num": 188830,
-      "word": "马嘉祺背对猎人",
-      "onboard_time": 1686141813,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1843,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178215,
+      "num": 204406,
+      "word": "张桂梅今天的午饭是拌面和果汁",
+      "onboard_time": 1686143853,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 178100,
       "num": 178100,
       "word": "光与夜之恋大头",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1686101553,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 166657,
-      "num": 166657,
-      "word": "长风渡",
-      "onboard_time": 1686143555,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 165765,
@@ -2179,6 +2195,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126894,
+      "num": 154836,
+      "word": "于晓光机场给秋瓷炫送花",
+      "onboard_time": 1686144336,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124955,
+      "num": 470121,
+      "word": "广东今年唯一全盲高考生走进考场",
+      "onboard_time": 1686142833,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124197,
       "num": 181455,
       "word": "MTG未央官宣",
@@ -2235,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115753,
+      "num": 154825,
+      "word": "高考 下雨",
+      "onboard_time": 1686144512,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111138,
       "num": 728794,
       "word": "新郎接亲遇送考车队给考生塞红包",
@@ -2243,20 +2283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109983,
-      "num": 129032,
-      "word": "EDG对战BLG",
-      "onboard_time": 1686138216,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108786,
       "num": 108786,
       "word": "王菲那英好甜",
       "onboard_time": 1686053069,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108455,
+      "num": 154816,
+      "word": "虚拟现实体验 见手青",
+      "onboard_time": 1686144634,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 108262,
@@ -2307,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92312,
-      "num": 204406,
-      "word": "张桂梅今天的午饭是拌面和果汁",
-      "onboard_time": 1686143853,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 87134,
       "num": 93739,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
@@ -2337,14 +2369,6 @@
       "onboard_time": 1686076933,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 75555,
-      "num": 374777,
-      "word": "广东今年唯一全盲高考生走进考场",
-      "onboard_time": 1686142833,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74623,
@@ -2505,6 +2529,14 @@
       "onboard_time": 1686087793,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28930,
+      "num": 1713497,
+      "word": "这份高考祝福穿越百年",
+      "onboard_time": 1686144156,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28906,

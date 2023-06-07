@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686144164863,
+  "endTime": 1686144855485,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2036378,
+      "num": 2036378,
+      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+      "onboard_time": 1686140552,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2010510,
       "num": 2010510,
       "word": "奖励多少你会考虑多生孩子",
@@ -377,14 +385,6 @@
       "onboard_time": 1686107741,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1831125,
-      "num": 1831125,
-      "word": "粉丝齐喊China抗议主持人涉港台不当言论",
-      "onboard_time": 1686140552,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1826995,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1618741,
+      "num": 1618741,
+      "word": "姜广涛",
+      "onboard_time": 1686141273,
+      "rank": 49,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 1610065,
       "num": 423895,
       "word": "女子反问男友8年感情竟不值38万",
@@ -537,14 +545,6 @@
       "onboard_time": 1685954368,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1568187,
-      "num": 1568187,
-      "word": "姜广涛",
-      "onboard_time": 1686141273,
-      "rank": 49,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1531717,
@@ -1203,6 +1203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 867928,
+      "num": 789302,
+      "word": "上海迪士尼",
+      "onboard_time": 1686140915,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867084,
       "num": 508683,
       "word": "刘诗诗 天选淮竹",
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 852771,
-      "num": 643087,
+      "num": 785757,
       "word": "鼠头鸭脖",
       "onboard_time": 1686140074,
       "rank": 32,
@@ -1273,14 +1281,6 @@
       "onboard_time": 1685934869,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 826083,
-      "num": 649087,
-      "word": "上海迪士尼",
-      "onboard_time": 1686140915,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822919,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1685933128,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790640,
+      "num": 1342377,
+      "word": "双胞胎拿错准考证骁骑5分钟调换",
+      "onboard_time": 1686134376,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 790406,
@@ -1497,14 +1505,6 @@
       "onboard_time": 1686014909,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 708869,
-      "num": 1342377,
-      "word": "双胞胎拿错准考证骁骑5分钟调换",
-      "onboard_time": 1686134376,
-      "rank": 6,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 708025,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565516,
+      "num": 565516,
+      "word": "难怪贾玲要瘦100斤",
+      "onboard_time": 1686142475,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 562530,
@@ -2371,6 +2379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370620,
+      "num": 370620,
+      "word": "EDG对战BLG",
+      "onboard_time": 1686138216,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 370500,
       "num": 370500,
       "word": "电梯故障学生爬29楼赴高考商家被罚",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1686053069,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316726,
-      "num": 284810,
-      "word": "难怪贾玲要瘦100斤",
-      "onboard_time": 1686142475,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 315836,
@@ -3475,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253018,
+      "num": 253018,
+      "word": "刘冬沁 某某男主",
+      "onboard_time": 1686141876,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252830,
       "num": 252830,
       "word": "公司纪委回应网传领导与异性亲密逛街",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1686111226,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227498,
-      "num": 227498,
-      "word": "刘冬沁 某某男主",
-      "onboard_time": 1686141876,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 227386,
@@ -4483,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203971,
+      "num": 203971,
+      "word": "长风渡",
+      "onboard_time": 1686143555,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203879,
       "num": 203879,
       "word": "穿旗袍",
@@ -4843,6 +4859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191573,
+      "num": 191573,
+      "word": "马嘉祺背对猎人",
+      "onboard_time": 1686141813,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191462,
       "num": 786941,
       "word": "被Angelababy回复了",
@@ -4961,14 +4985,6 @@
       "onboard_time": 1685961387,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188830,
-      "num": 188830,
-      "word": "马嘉祺背对猎人",
-      "onboard_time": 1686141813,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 188665,
@@ -5225,6 +5241,14 @@
       "onboard_time": 1686126754,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178215,
+      "num": 204406,
+      "word": "张桂梅今天的午饭是拌面和果汁",
+      "onboard_time": 1686143853,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 178145,
@@ -5521,14 +5545,6 @@
       "onboard_time": 1685881111,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 166657,
-      "num": 166657,
-      "word": "长风渡",
-      "onboard_time": 1686143555,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 166020,
@@ -6331,6 +6347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126894,
+      "num": 154836,
+      "word": "于晓光机场给秋瓷炫送花",
+      "onboard_time": 1686144336,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126493,
       "num": 149690,
       "word": "清华有个学生自己的修车摊",
@@ -6377,6 +6401,14 @@
       "onboard_time": 1685920400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124955,
+      "num": 470121,
+      "word": "广东今年唯一全盲高考生走进考场",
+      "onboard_time": 1686142833,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124822,
@@ -6555,6 +6587,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 115753,
+      "num": 154825,
+      "word": "高考 下雨",
+      "onboard_time": 1686144512,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115385,
       "num": 115385,
       "word": "四川巴中万人雨中送考",
@@ -6611,14 +6651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109983,
-      "num": 129032,
-      "word": "EDG对战BLG",
-      "onboard_time": 1686138216,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 109716,
       "num": 109716,
       "word": "欧文联系詹姆斯",
@@ -6641,6 +6673,14 @@
       "onboard_time": 1686042087,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 108455,
+      "num": 154816,
+      "word": "虚拟现实体验 见手青",
+      "onboard_time": 1686144634,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 107395,
@@ -6785,14 +6825,6 @@
       "onboard_time": 1685985856,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 92312,
-      "num": 204406,
-      "word": "张桂梅今天的午饭是拌面和果汁",
-      "onboard_time": 1686143853,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 92185,
@@ -6953,14 +6985,6 @@
       "onboard_time": 1686076933,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 75555,
-      "num": 374777,
-      "word": "广东今年唯一全盲高考生走进考场",
-      "onboard_time": 1686142833,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74623,
@@ -7289,6 +7313,14 @@
       "onboard_time": 1686087793,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28930,
+      "num": 1713497,
+      "word": "这份高考祝福穿越百年",
+      "onboard_time": 1686144156,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28906,
