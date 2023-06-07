@@ -1,7 +1,15 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686126849802,
+  "endTime": 1686129385080,
   "band_list": [
+    {
+      "raw_hot": 15716615,
+      "num": 15716615,
+      "word": "高考数学",
+      "onboard_time": 1686126154,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 14552118,
       "num": 14552118,
@@ -33,14 +41,6 @@
       "onboard_time": 1686109729,
       "rank": 3,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 5074342,
-      "num": 5074342,
-      "word": "高考数学",
-      "onboard_time": 1686126154,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 3206564,
@@ -75,20 +75,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2608649,
+      "num": 1640939,
+      "word": "国企负责人与异性牵手逛街被拍",
+      "onboard_time": 1686119434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2558192,
       "num": 2558192,
       "word": "高考入场时发现身份证6月6日过期",
       "onboard_time": 1686111107,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 2462729,
-      "num": 1640939,
-      "word": "国企负责人与异性牵手逛街被拍",
-      "onboard_time": 1686119434,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2437344,
@@ -145,6 +145,14 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1591669,
+      "num": 1194884,
+      "word": "马思纯瘦了30斤",
+      "onboard_time": 1686124533,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1451764,
@@ -219,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1185577,
-      "num": 1185577,
-      "word": "马思纯瘦了30斤",
-      "onboard_time": 1686124533,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 1166552,
+      "num": 1166552,
+      "word": "高考完了不用去打暑期工",
+      "onboard_time": 1686122555,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1149512,
@@ -283,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034623,
+      "num": 782929,
+      "word": "这是工资1W以上才需考虑的事情",
+      "onboard_time": 1686126994,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1003940,
+      "num": 1003940,
+      "word": "22届考生比23届更着急看到数学试卷",
+      "onboard_time": 1686128565,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 992848,
       "num": 992848,
       "word": "AI写高考作文",
@@ -323,20 +347,20 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 901963,
+      "num": 901963,
+      "word": "腾讯QQ回应考生喊话",
+      "onboard_time": 1686125072,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 848888,
       "num": 773809,
       "word": "人体最硬的部位是什么",
       "onboard_time": 1686115472,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 847974,
-      "num": 847974,
-      "word": "高考完了不用去打暑期工",
-      "onboard_time": 1686122555,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 780153,
@@ -411,6 +435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 728868,
+      "num": 728868,
+      "word": "花少 邓恩熙",
+      "onboard_time": 1686126453,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684692,
       "num": 684692,
       "word": "人体最大的器官是什么",
@@ -424,6 +456,22 @@
       "word": "辅导员自费给全班买咖啡抽中电车",
       "onboard_time": 1686065846,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593880,
+      "num": 533049,
+      "word": "原来减肥真的和血型有关系",
+      "onboard_time": 1686127112,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 592706,
+      "num": 592706,
+      "word": "妻子在南非出轨染艾滋生下混血婴儿",
+      "onboard_time": 1686128439,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -507,20 +555,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 478915,
+      "num": 478915,
+      "word": "数学到底难不难",
+      "onboard_time": 1686129107,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 473430,
       "num": 473430,
       "word": "王源限定粉发MV",
       "onboard_time": 1686105876,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 472362,
-      "num": 472362,
-      "word": "腾讯QQ回应考生喊话",
-      "onboard_time": 1686125072,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 468823,
@@ -793,14 +841,6 @@
       "onboard_time": 1686106597,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271601,
-      "num": 237887,
-      "word": "花少 邓恩熙",
-      "onboard_time": 1686126453,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 271370,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212035,
+      "num": 212035,
+      "word": "江西省教育厅介入鸭脖事件",
+      "onboard_time": 1686128076,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 211853,
       "num": 211853,
       "word": "贷款上班",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1686120994,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199482,
+      "num": 199482,
+      "word": "摄影师回应街拍国企领导与女子牵手",
+      "onboard_time": 1686129170,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198930,
@@ -1371,6 +1427,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 178491,
+      "num": 178491,
+      "word": "成毅受伤原因",
+      "onboard_time": 1686126754,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178100,
       "num": 178100,
       "word": "光与夜之恋大头",
@@ -1416,6 +1480,14 @@
       "word": "AG钟意正式连接",
       "onboard_time": 1686122914,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169886,
+      "num": 169886,
+      "word": "WB官宣江城加入",
+      "onboard_time": 1686128504,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -1563,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146825,
-      "num": 146825,
-      "word": "成毅受伤原因",
-      "onboard_time": 1686126754,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146653,
       "num": 146653,
       "word": "加油高考",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1686118174,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136442,
+      "num": 1382511,
+      "word": "硬核黑科技助力高考",
+      "onboard_time": 1686126213,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133310,
@@ -1819,6 +1891,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 69419,
+      "num": 285215,
+      "word": "旅俄大熊猫夏季三件套",
+      "onboard_time": 1686128376,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69172,
       "num": 175843,
       "word": "一起为2023高考生加油",
@@ -1883,11 +1963,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 52169,
-      "num": 1382511,
-      "word": "硬核黑科技助力高考",
-      "onboard_time": 1686126213,
-      "rank": 2,
+      "raw_hot": 53393,
+      "num": 728794,
+      "word": "新郎接亲遇送考车队给考生塞红包",
+      "onboard_time": 1686128504,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1993,6 +2073,14 @@
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12358,
+      "num": 185723,
+      "word": "抖音618每个省都好会省",
+      "onboard_time": 1686128439,
+      "rank": 39,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
