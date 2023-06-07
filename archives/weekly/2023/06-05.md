@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/05 00:21:01 ~ 2023/06/08 05:14:55
+本榜单时间：2023/06/05 00:21:01 ~ 2023/06/08 05:33:22
 </p>
 </blockquote>
 <p>
@@ -5703,6 +5703,12 @@ YouAintRight高能四分钟（热度：38881）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%99%E5%85%A8%E7%8F%AD%E8%AF%B7%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%81%87%23" target="weibo">
+班主任给全班请了十年的假（热度：37479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E7%9A%84%E8%AF%8D%E5%85%B8%E9%87%8C%E7%94%9F%E8%AF%8D%E6%8C%BA%E5%A4%9A%23" target="weibo">
 肖春生的词典里生词挺多（热度：36691）
 </a>
@@ -5751,12 +5757,6 @@ YouAintRight高能四分钟（热度：38881）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%99%E5%85%A8%E7%8F%AD%E8%AF%B7%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%81%87%23" target="weibo">
-班主任给全班请了十年的假（热度：26367）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9D%9A%E6%8C%811948%E5%A4%A9%E7%BB%99%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E5%86%99%E4%BF%A1%23" target="weibo">
 母亲坚持1948天给高考儿子写信（热度：24627）
 </a>
@@ -5787,14 +5787,14 @@ YouAintRight高能四分钟（热度：38881）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%8C%E5%8F%88%E5%8F%8C%E5%8F%92%E8%81%94%E5%90%8D%E4%BA%86%23" target="weibo">
-大牌又双叒联名了（热度：20942）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E8%AF%B4%E6%88%91%E8%BF%99%E4%BB%BD%E6%8A%A5%E5%91%8A%E6%98%AF%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23" target="weibo">
+导师说我这份报告是亲子鉴定（热度：21356）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E8%AF%B4%E6%88%91%E8%BF%99%E4%BB%BD%E6%8A%A5%E5%91%8A%E6%98%AF%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23" target="weibo">
-导师说我这份报告是亲子鉴定（热度：20027）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%8C%E5%8F%88%E5%8F%8C%E5%8F%92%E8%81%94%E5%90%8D%E4%BA%86%23" target="weibo">
+大牌又双叒联名了（热度：20942）
 </a>
 </li>
 
@@ -5812,7 +5812,7 @@ YouAintRight高能四分钟（热度：38881）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E7%9A%84%E4%BD%A0%E8%AF%B7%E7%BB%A7%E7%BB%AD%E5%8A%A0%E6%B2%B9%23" target="weibo">
-明天的你请继续加油（热度：7854）
+明天的你请继续加油（热度：7884）
 </a>
 </li>
 

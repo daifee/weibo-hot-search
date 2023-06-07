@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686172495301,
+  "endTime": 1686173602909,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -451,6 +451,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 37479,
+      "num": 42302,
+      "word": "班主任给全班请了十年的假",
+      "onboard_time": 1686170232,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 34250,
       "num": 49817,
       "word": "上野千鹤子的回信",
@@ -459,16 +467,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26367,
-      "num": 32245,
-      "word": "班主任给全班请了十年的假",
-      "onboard_time": 1686170232,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 26017,
-      "num": 34500,
+      "num": 41455,
       "word": "数学到底难不难",
       "onboard_time": 1686129107,
       "rank": 48,
@@ -476,15 +476,15 @@
     },
     {
       "raw_hot": 25505,
-      "num": 34445,
+      "num": 41458,
       "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
       "onboard_time": 1686151774,
       "rank": 49,
       "category": "艺人"
     },
     {
-      "raw_hot": 20027,
-      "num": 32050,
+      "raw_hot": 21356,
+      "num": 41459,
       "word": "导师说我这份报告是亲子鉴定",
       "onboard_time": 1686166993,
       "rank": 48,
@@ -499,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7854,
-      "num": 32294,
+      "raw_hot": 7884,
+      "num": 41468,
       "word": "明天的你请继续加油",
       "onboard_time": 1686167293,
       "rank": 29,
