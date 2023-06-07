@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686118903528,
+  "endTime": 1686119661439,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -83,6 +83,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 2199593,
+      "num": 2199593,
+      "word": "任嘉伦押中高考作文题",
+      "onboard_time": 1686115357,
+      "rank": 36,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 1872136,
       "num": 1161015,
       "word": "好友称董洁从未埋怨潘粤明",
@@ -113,14 +121,6 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1743693,
-      "num": 1743693,
-      "word": "任嘉伦押中高考作文题",
-      "onboard_time": 1686115357,
-      "rank": 36,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 1350459,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 773809,
+      "num": 773809,
+      "word": "人体最硬的部位是什么",
+      "onboard_time": 1686115472,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 770330,
       "num": 652484,
       "word": "千万不要用小拇指掏耳朵了",
@@ -323,14 +331,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 692666,
-      "num": 692666,
-      "word": "人体最硬的部位是什么",
-      "onboard_time": 1686115472,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 684692,
       "num": 684692,
       "word": "人体最大的器官是什么",
@@ -347,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587103,
+      "num": 587103,
+      "word": "这声985谁听了不迷糊",
+      "onboard_time": 1686117213,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 569951,
       "num": 569951,
       "word": "哪个省份作文题目最难",
       "onboard_time": 1686111406,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 547937,
+      "num": 223267,
+      "word": "国企负责人与异性牵手逛街被拍",
+      "onboard_time": 1686119434,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543531,
@@ -363,12 +379,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 537100,
+      "num": 537100,
+      "word": "张远谈最可惜内娱组合",
+      "onboard_time": 1686115954,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532365,
       "num": 287376,
       "word": "赵琦君杨凯雯领证",
       "onboard_time": 1686054388,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521856,
+      "num": 521856,
+      "word": "林俊杰巡演下半年场次官宣",
+      "onboard_time": 1686119372,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 500076,
@@ -393,6 +425,14 @@
       "onboard_time": 1686064954,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479689,
+      "num": 451794,
+      "word": "林俊杰广州演唱会",
+      "onboard_time": 1686106958,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 473430,
@@ -459,19 +499,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 395535,
-      "num": 395535,
-      "word": "张远谈最可惜内娱组合",
-      "onboard_time": 1686115954,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 389767,
       "num": 389767,
       "word": "第一届05后高考生来了",
       "onboard_time": 1686097833,
       "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 384700,
+      "num": 384700,
+      "word": "首位走出考场的考生喊话马化腾",
+      "onboard_time": 1686117813,
+      "rank": 21,
       "category": "教育,社会新闻"
     },
     {
@@ -563,14 +603,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 321441,
-      "num": 321441,
-      "word": "这声985谁听了不迷糊",
-      "onboard_time": 1686117213,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 315836,
       "num": 315836,
       "word": "鸭脖",
@@ -593,14 +625,6 @@
       "onboard_time": 1686107438,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 305752,
-      "num": 305752,
-      "word": "首位走出考场的考生喊话马化腾",
-      "onboard_time": 1686117813,
-      "rank": 21,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 300024,
@@ -747,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246116,
+      "num": 246116,
+      "word": "首位走出考场的考生心态太稳了",
+      "onboard_time": 1686116734,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 246108,
       "num": 246108,
       "word": "张艺兴金晨捕鱼行动暑期上映",
@@ -803,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237120,
+      "num": 237120,
+      "word": "韩国现在的出生率比战时还低",
+      "onboard_time": 1686116494,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235680,
       "num": 158208,
       "word": "乌克兰大坝被炸",
@@ -843,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224615,
-      "num": 224615,
-      "word": "首位走出考场的考生心态太稳了",
-      "onboard_time": 1686116734,
-      "rank": 26,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 224409,
       "num": 182465,
       "word": "最令你惊艳的明星真人",
@@ -865,6 +897,14 @@
       "onboard_time": 1686067647,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222844,
+      "num": 222844,
+      "word": "成都AG超玩会人员变动公告",
+      "onboard_time": 1686118473,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 221297,
@@ -889,22 +929,6 @@
       "onboard_time": 1686106178,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218830,
-      "num": 218830,
-      "word": "林俊杰广州演唱会",
-      "onboard_time": 1686106958,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 216724,
-      "num": 216724,
-      "word": "韩国现在的出生率比战时还低",
-      "onboard_time": 1686116494,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213304,
@@ -1027,6 +1051,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 191688,
+      "num": 191688,
+      "word": "F4当年很火吗",
+      "onboard_time": 1686117575,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191595,
       "num": 191595,
       "word": "NBA",
@@ -1099,6 +1131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 185665,
+      "num": 185665,
+      "word": "怀疑高考是给大学生安排的",
+      "onboard_time": 1686116851,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 185649,
       "num": 185649,
       "word": "NCT将举办大队演唱会",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1686099573,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180092,
-      "num": 180092,
-      "word": "F4当年很火吗",
-      "onboard_time": 1686117575,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178930,
@@ -1195,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169010,
+      "num": 169010,
+      "word": "花儿与少年第五季嘉宾",
+      "onboard_time": 1686119252,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168298,
       "num": 168298,
       "word": "男孩背患脑瘫同学10年今天一起高考",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1686101553,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 164369,
-      "num": 164369,
-      "word": "怀疑高考是给大学生安排的",
-      "onboard_time": 1686116851,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 163600,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1686100775,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 161934,
+      "num": 161934,
+      "word": "雷军也押到题了",
+      "onboard_time": 1686118829,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 160754,
@@ -1323,14 +1363,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 146170,
-      "num": 146170,
-      "word": "成都AG超玩会人员变动公告",
-      "onboard_time": 1686118473,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145503,
       "num": 145503,
       "word": "千万不要和多嘴的同事合租",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1686038129,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140881,
+      "num": 140881,
+      "word": "张玮伦说你多少分儿你祝人家",
+      "onboard_time": 1686118653,
+      "rank": 44,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 139483,
@@ -1395,14 +1435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 130517,
-      "num": 130517,
-      "word": "张玮伦说你多少分儿你祝人家",
-      "onboard_time": 1686118653,
-      "rank": 44,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 130028,
       "num": 130028,
       "word": "张雨绮说孟子义独立女性结什么婚",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1686118533,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 117456,
-      "num": 117456,
-      "word": "雷军也押到题了",
-      "onboard_time": 1686118829,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 117174,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1686107377,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 37622,
+      "num": 130603,
+      "word": "高考填志愿你会选汽车专业吗",
+      "onboard_time": 1686119434,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 37287,

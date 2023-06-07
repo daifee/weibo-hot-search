@@ -1,0 +1,410 @@
+{
+  "runTime": 1686119661439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3014759,
+        "num": 3014759,
+        "word": "高考作文 简单",
+        "onboard_time": 1686109729,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2680703,
+        "num": 2680703,
+        "word": "受伤的只有22届",
+        "onboard_time": 1686111705,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 50135,
+        "num": 2416524,
+        "word": "今天把最好的祝福送给高考生",
+        "onboard_time": 1686107139,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2199593,
+        "num": 2199593,
+        "word": "任嘉伦押中高考作文题",
+        "onboard_time": 1686115357,
+        "rank": 3,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 1101161,
+        "num": 1101161,
+        "word": "高考入场时发现身份证6月6日过期",
+        "onboard_time": 1686111107,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 901409,
+        "num": 901409,
+        "word": "高考作文",
+        "onboard_time": 1686107741,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 782009,
+        "num": 782009,
+        "word": "Angelababy 蒂芙尼",
+        "onboard_time": 1686107980,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773809,
+        "num": 773809,
+        "word": "人体最硬的部位是什么",
+        "onboard_time": 1686115472,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 645057,
+        "num": 645057,
+        "word": "AI写高考作文",
+        "onboard_time": 1686113026,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 628773,
+        "num": 628773,
+        "word": "高考",
+        "onboard_time": 1686092659,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1078144,
+        "num": 609087,
+        "word": "董洁首谈离婚风波影响",
+        "onboard_time": 1686113620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740576,
+        "num": 604111,
+        "word": "中石油",
+        "onboard_time": 1686113801,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587103,
+        "num": 587103,
+        "word": "这声985谁听了不迷糊",
+        "onboard_time": 1686117213,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 537100,
+        "num": 537100,
+        "word": "张远谈最可惜内娱组合",
+        "onboard_time": 1686115954,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522496,
+        "num": 522496,
+        "word": "第一个出考场的考生麻烦你了",
+        "onboard_time": 1686107980,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 521856,
+        "num": 521856,
+        "word": "林俊杰巡演下半年场次官宣",
+        "onboard_time": 1686119372,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 458154,
+        "num": 458154,
+        "word": "高考防作弊磁弹枪亮相考点现场",
+        "onboard_time": 1686105937,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 479689,
+        "num": 451794,
+        "word": "林俊杰广州演唱会",
+        "onboard_time": 1686106958,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 437410,
+        "num": 437410,
+        "word": "TFBOYS为王源下个路口打call",
+        "onboard_time": 1686107438,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384700,
+        "num": 384700,
+        "word": "首位走出考场的考生喊话马化腾",
+        "onboard_time": 1686117813,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 357264,
+        "num": 357264,
+        "word": "千万不要用小拇指掏耳朵了",
+        "onboard_time": 1686100113,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313163,
+        "num": 313163,
+        "word": "保送男生穿旗袍为高考同学加油",
+        "onboard_time": 1686101911,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 303735,
+        "num": 303735,
+        "word": "成毅疑似受伤",
+        "onboard_time": 1686115056,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280312,
+        "num": 280312,
+        "word": "邓超孙俪工作室一起招聘",
+        "onboard_time": 1686116494,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246670,
+        "num": 246670,
+        "word": "梁文博终身禁赛",
+        "onboard_time": 1686096391,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 246116,
+        "num": 246116,
+        "word": "首位走出考场的考生心态太稳了",
+        "onboard_time": 1686116734,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 237120,
+        "num": 237120,
+        "word": "韩国现在的出生率比战时还低",
+        "onboard_time": 1686116494,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233455,
+        "num": 233455,
+        "word": "杨幂对谢依霖说唐宛如你闭嘴",
+        "onboard_time": 1686117870,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224484,
+        "num": 224484,
+        "word": "承欢记",
+        "onboard_time": 1686115894,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 223356,
+        "word": "第一个考验交警反应能力的考生出现了",
+        "onboard_time": 1686108778,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 547937,
+        "num": 223267,
+        "word": "国企负责人与异性牵手逛街被拍",
+        "onboard_time": 1686119434,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222844,
+        "num": 222844,
+        "word": "成都AG超玩会人员变动公告",
+        "onboard_time": 1686118473,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191688,
+        "num": 191688,
+        "word": "F4当年很火吗",
+        "onboard_time": 1686117575,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185665,
+        "num": 185665,
+        "word": "怀疑高考是给大学生安排的",
+        "onboard_time": 1686116851,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 181592,
+        "num": 181592,
+        "word": "高考语文",
+        "onboard_time": 1686103592,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180047,
+        "num": 180047,
+        "word": "密室大逃脱",
+        "onboard_time": 1686112722,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179147,
+        "num": 179147,
+        "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
+        "onboard_time": 1686092600,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178746,
+        "num": 178746,
+        "word": "一公司称花2千万可和蔡徐坤吃饭",
+        "onboard_time": 1686096633,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2171057,
+        "num": 175424,
+        "word": "比亚迪押题成功",
+        "onboard_time": 1686113859,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169010,
+        "num": 169010,
+        "word": "花儿与少年第五季嘉宾",
+        "onboard_time": 1686119252,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161934,
+        "num": 161934,
+        "word": "雷军也押到题了",
+        "onboard_time": 1686118829,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 155944,
+        "num": 155944,
+        "word": "报任安书 我恨你",
+        "onboard_time": 1686112722,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153057,
+        "num": 153057,
+        "word": "沈月表达好感的方式是发微信",
+        "onboard_time": 1686114636,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151469,
+        "num": 151469,
+        "word": "王俊凯说晴空万里高考顺利",
+        "onboard_time": 1686118053,
+        "rank": 43,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 144056,
+        "num": 144056,
+        "word": "高考各科时间表",
+        "onboard_time": 1686095909,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140881,
+        "num": 140881,
+        "word": "张玮伦说你多少分儿你祝人家",
+        "onboard_time": 1686118653,
+        "rank": 45,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 135694,
+        "num": 135694,
+        "word": "失业的中年人涌进星巴克",
+        "onboard_time": 1686092659,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54139,
+        "num": 132498,
+        "word": "MTG未央官宣",
+        "onboard_time": 1686113202,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37622,
+        "num": 130603,
+        "word": "高考填志愿你会选汽车专业吗",
+        "onboard_time": 1686119434,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "王嘉尔澳门 抢票",
+        "onboard_time": 1686113381,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇担使命不畏艰辛久久为功#"
+    }
+  }
+}
