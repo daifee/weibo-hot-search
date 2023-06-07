@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686122138387,
+  "endTime": 1686123219430,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -91,12 +91,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 2011658,
-      "num": 2011658,
+      "raw_hot": 2179158,
+      "num": 2179158,
       "word": "山河令制片人马韬去世",
       "onboard_time": 1686120092,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1988161,
+      "num": 1640939,
+      "word": "国企负责人与异性牵手逛街被拍",
+      "onboard_time": 1686119434,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1872136,
@@ -129,14 +137,6 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1640939,
-      "num": 1640939,
-      "word": "国企负责人与异性牵手逛街被拍",
-      "onboard_time": 1686119434,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1350459,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049141,
+      "num": 1049141,
+      "word": "花儿与少年第五季嘉宾",
+      "onboard_time": 1686119252,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1045000,
       "num": 393158,
       "word": "失业的中年人涌进星巴克",
@@ -281,14 +289,6 @@
       "onboard_time": 1686092600,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926549,
-      "num": 926549,
-      "word": "花儿与少年第五季嘉宾",
-      "onboard_time": 1686119252,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 906117,
@@ -435,6 +435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 489289,
+      "num": 489289,
+      "word": "朱一龙成都",
+      "onboard_time": 1686122134,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484649,
       "num": 484649,
       "word": "虞书欣工作人员的手机壳",
@@ -475,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448612,
+      "num": 448612,
+      "word": "山河令",
+      "onboard_time": 1686120813,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445708,
       "num": 445708,
       "word": "杭州姑娘20元刮刮乐刮中百万",
@@ -489,14 +505,6 @@
       "onboard_time": 1686044367,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433429,
-      "num": 433429,
-      "word": "山河令",
-      "onboard_time": 1686120813,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 433086,
@@ -619,6 +627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 343721,
+      "num": 343721,
+      "word": "五条悟",
+      "onboard_time": 1686122134,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 328570,
       "num": 328570,
       "word": "回想去年的红楼梦",
@@ -648,6 +664,14 @@
       "word": "大学生凑热闹",
       "onboard_time": 1686107438,
       "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 300377,
+      "num": 300377,
+      "word": "北大才女时隔9年再谈寒门学子",
+      "onboard_time": 1686121173,
+      "rank": 28,
       "category": "社会新闻,教育"
     },
     {
@@ -683,8 +707,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279450,
-      "num": 279450,
+      "raw_hot": 284614,
+      "num": 284614,
       "word": "就是这样被我爸骗上了985",
       "onboard_time": 1686119733,
       "rank": 26,
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247341,
+      "num": 247341,
+      "word": "公司纪委回应网传领导与异性亲密逛街",
+      "onboard_time": 1686119970,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246890,
       "num": 225403,
       "word": "红山动物园 工作猪",
@@ -825,14 +857,6 @@
       "onboard_time": 1686115056,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246094,
-      "num": 246094,
-      "word": "北大才女时隔9年再谈寒门学子",
-      "onboard_time": 1686121173,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245955,
@@ -921,6 +945,14 @@
       "onboard_time": 1686115116,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 228339,
+      "num": 228339,
+      "word": "肖战刘芮麟敬礼变装",
+      "onboard_time": 1686122914,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 228086,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1686105334,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 207110,
-      "num": 207110,
-      "word": "公司纪委回应网传领导与异性亲密逛街",
-      "onboard_time": 1686119970,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204385,
@@ -1187,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186677,
+      "num": 186677,
+      "word": "柯南最新话",
+      "onboard_time": 1686121951,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "广东明确停课不停考",
@@ -1243,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177989,
+      "num": 177989,
+      "word": "南京一高校学生宿舍内被杀害",
+      "onboard_time": 1686122672,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176317,
       "num": 176317,
       "word": "鼠头还是鸭脖真的很难确认吗",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1686107139,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 171652,
+      "num": 171652,
+      "word": "AG钟意正式连接",
+      "onboard_time": 1686122914,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 169739,
@@ -1443,6 +1491,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 139923,
+      "num": 139923,
+      "word": "高考完了不用去打暑期工",
+      "onboard_time": 1686122555,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 139483,
       "num": 139483,
       "word": "德约科维奇",
@@ -1465,14 +1521,6 @@
       "onboard_time": 1686118174,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134199,
-      "num": 134199,
-      "word": "柯南最新话",
-      "onboard_time": 1686121951,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 133310,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1686119434,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 71269,
+      "num": 177550,
+      "word": "这一刻的你就是最好的模样",
+      "onboard_time": 1686122374,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 69172,
