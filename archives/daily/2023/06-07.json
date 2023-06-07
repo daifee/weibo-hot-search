@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686136440021,
+  "endTime": 1686137614696,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 8615320,
+      "num": 8615320,
+      "word": "中石油胡继勇被免职",
+      "onboard_time": 1686131623,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8544897,
       "num": 8544897,
       "word": "高考",
@@ -41,14 +49,6 @@
       "onboard_time": 1686129107,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 7767104,
-      "num": 7767104,
-      "word": "中石油胡继勇被免职",
-      "onboard_time": 1686131623,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7630424,
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1955577,
+      "num": 1955577,
+      "word": "甲卷数学 边考边哭",
+      "onboard_time": 1686132459,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1872136,
       "num": 1161015,
       "word": "好友称董洁从未埋怨潘粤明",
       "onboard_time": 1686107741,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1847728,
-      "num": 1847728,
-      "word": "甲卷数学 边考边哭",
-      "onboard_time": 1686132459,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1826995,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366266,
+      "num": 1366266,
+      "word": "22届在骂 23届崩溃 24届焦虑",
+      "onboard_time": 1686135276,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1350459,
       "num": 1350459,
       "word": "2023年高考第一个丢准考证的同学",
@@ -275,6 +283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1290439,
+      "num": 1290439,
+      "word": "贾玲为了新角色要减重100斤",
+      "onboard_time": 1686132698,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1274807,
       "num": 1274807,
       "word": "一公司称花2千万可和蔡徐坤吃饭",
@@ -305,6 +321,14 @@
       "onboard_time": 1686122555,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1158152,
+      "num": 1158152,
+      "word": "某某",
+      "onboard_time": 1686133717,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 1149512,
@@ -411,14 +435,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 960227,
-      "num": 960227,
-      "word": "贾玲为了新角色要减重100斤",
-      "onboard_time": 1686132698,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 947731,
       "num": 947731,
       "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
@@ -451,8 +467,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 784939,
-      "num": 784939,
+      "raw_hot": 799329,
+      "num": 799329,
       "word": "哥哥拿弟弟身份证高考8点45才发现",
       "onboard_time": 1686129407,
       "rank": 34,
@@ -497,14 +513,6 @@
       "onboard_time": 1686123392,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 759830,
-      "num": 759830,
-      "word": "某某",
-      "onboard_time": 1686133717,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 758629,
@@ -571,12 +579,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 614292,
-      "num": 614292,
-      "word": "22届在骂 23届崩溃 24届焦虑",
-      "onboard_time": 1686135276,
-      "rank": 18,
-      "category": "社会新闻,教育"
+      "raw_hot": 605417,
+      "num": 605417,
+      "word": "郑业成工作室回应轧戏",
+      "onboard_time": 1686136055,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 569951,
@@ -609,6 +617,14 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 536018,
+      "num": 1342377,
+      "word": "双胞胎拿错准考证骁骑5分钟调换",
+      "onboard_time": 1686134376,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 532365,
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408392,
+      "num": 408392,
+      "word": "高考数学答案",
+      "onboard_time": 1686134015,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 406754,
       "num": 406754,
       "word": "各地高考作文你擅长哪一篇",
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345682,
+      "num": 345682,
+      "word": "出演新剧是Jennie自己的选择",
+      "onboard_time": 1686135515,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344342,
       "num": 344342,
       "word": "上海高考作文",
@@ -873,14 +905,6 @@
       "onboard_time": 1686109133,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 341774,
-      "num": 341774,
-      "word": "高考数学答案",
-      "onboard_time": 1686134015,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 338854,
@@ -899,14 +923,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 319803,
-      "num": 319803,
-      "word": "郑业成工作室回应轧戏",
-      "onboard_time": 1686136055,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315836,
       "num": 315836,
       "word": "鸭脖",
@@ -921,6 +937,14 @@
       "onboard_time": 1686124592,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313194,
+      "num": 313194,
+      "word": "偷偷藏不住",
+      "onboard_time": 1686136297,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 309463,
@@ -971,28 +995,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 294458,
-      "num": 1342377,
-      "word": "双胞胎拿错准考证骁骑5分钟调换",
-      "onboard_time": 1686134376,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 291553,
       "num": 183399,
       "word": "我出生那天 四海八荒都沉默了",
       "onboard_time": 1686046108,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 286677,
-      "num": 286677,
-      "word": "出演新剧是Jennie自己的选择",
-      "onboard_time": 1686135515,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 284989,
@@ -1083,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 258139,
+      "num": 258139,
+      "word": "Angelababy迪丽热巴刘亦菲珠宝大片",
+      "onboard_time": 1686137135,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256587,
       "num": 256587,
       "word": "BKPP香港粉丝见面会主持人",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1686100113,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251035,
+      "num": 251035,
+      "word": "文汇报评肖战李沁梦中的那片海",
+      "onboard_time": 1686134737,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 248868,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1686092781,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 242753,
-      "num": 242753,
-      "word": "文汇报评肖战李沁梦中的那片海",
-      "onboard_time": 1686134737,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 239664,
@@ -1347,6 +1363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218977,
+      "num": 218977,
+      "word": "无穷小亮谈鼠头鸭脖",
+      "onboard_time": 1686135218,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213304,
       "num": 963152,
       "word": "高考陪考老师的心理压力有多大",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1686105334,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 207019,
-      "num": 207019,
-      "word": "偷偷藏不住",
-      "onboard_time": 1686136297,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 204385,
@@ -1491,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194652,
-      "num": 194652,
-      "word": "无穷小亮谈鼠头鸭脖",
-      "onboard_time": 1686135218,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194480,
       "num": 194480,
       "word": "enhypen回归预告",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1686103592,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191462,
+      "num": 786941,
+      "word": "被Angelababy回复了",
+      "onboard_time": 1686135633,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190946,
@@ -1651,6 +1667,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 183082,
+      "num": 183082,
+      "word": "成毅工作室发文报平安",
+      "onboard_time": 1686136474,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182796,
       "num": 263991,
       "word": "车牌985警车连续18年送考",
@@ -1771,6 +1795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 165765,
+      "num": 178504,
+      "word": "TTG",
+      "onboard_time": 1686134678,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165747,
       "num": 165747,
       "word": "DYG",
@@ -1817,14 +1849,6 @@
       "onboard_time": 1686118829,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 160989,
-      "num": 178504,
-      "word": "TTG",
-      "onboard_time": 1686134678,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 160754,
@@ -2121,14 +2145,6 @@
       "onboard_time": 1686128376,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87848,
-      "num": 786941,
-      "word": "被Angelababy回复了",
-      "onboard_time": 1686135633,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 87134,
