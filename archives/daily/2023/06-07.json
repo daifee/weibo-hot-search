@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686116011650,
+  "endTime": 1686118903528,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -43,6 +43,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2931830,
+      "num": 2645514,
+      "word": "比亚迪押题成功",
+      "onboard_time": 1686113859,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2742262,
       "num": 2742262,
       "word": "受伤的只有22届",
@@ -56,14 +64,6 @@
       "word": "新课标一卷 故事是有力量的",
       "onboard_time": 1686110749,
       "rank": 5,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2645514,
-      "num": 2645514,
-      "word": "比亚迪押题成功",
-      "onboard_time": 1686113859,
-      "rank": 7,
       "category": "社会新闻,教育"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1743693,
+      "num": 1743693,
+      "word": "任嘉伦押中高考作文题",
+      "onboard_time": 1686115357,
+      "rank": 36,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 1350459,
@@ -299,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746282,
+      "num": 659346,
+      "word": "中石油",
+      "onboard_time": 1686113801,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742131,
       "num": 742131,
       "word": "高考各科时间表",
       "onboard_time": 1686095909,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 692666,
+      "num": 692666,
+      "word": "人体最硬的部位是什么",
+      "onboard_time": 1686115472,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 684692,
@@ -320,14 +344,6 @@
       "word": "辅导员自费给全班买咖啡抽中电车",
       "onboard_time": 1686065846,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601308,
-      "num": 601308,
-      "word": "中石油",
-      "onboard_time": 1686113801,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -443,6 +459,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 395535,
+      "num": 395535,
+      "word": "张远谈最可惜内娱组合",
+      "onboard_time": 1686115954,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389767,
       "num": 389767,
       "word": "第一届05后高考生来了",
@@ -475,6 +499,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 367827,
+      "num": 367827,
+      "word": "成毅疑似受伤",
+      "onboard_time": 1686115056,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366192,
       "num": 366192,
       "word": "麦芒",
@@ -489,14 +521,6 @@
       "onboard_time": 1686098431,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364683,
-      "num": 364683,
-      "word": "成毅疑似受伤",
-      "onboard_time": 1686115056,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 348009,
@@ -539,6 +563,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 321441,
+      "num": 321441,
+      "word": "这声985谁听了不迷糊",
+      "onboard_time": 1686117213,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315836,
       "num": 315836,
       "word": "鸭脖",
@@ -561,6 +593,22 @@
       "onboard_time": 1686107438,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 305752,
+      "num": 305752,
+      "word": "首位走出考场的考生喊话马化腾",
+      "onboard_time": 1686117813,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 300024,
+      "num": 300024,
+      "word": "邓超孙俪工作室一起招聘",
+      "onboard_time": 1686116494,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 296290,
@@ -609,6 +657,14 @@
       "onboard_time": 1686099273,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264691,
+      "num": 264691,
+      "word": "杨幂对谢依霖说唐宛如你闭嘴",
+      "onboard_time": 1686117870,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 263417,
@@ -683,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247569,
-      "num": 247569,
-      "word": "人体最硬的部位是什么",
-      "onboard_time": 1686115472,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246890,
       "num": 225403,
       "word": "红山动物园 工作猪",
@@ -713,6 +761,14 @@
       "onboard_time": 1686068785,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245174,
+      "num": 245174,
+      "word": "承欢记",
+      "onboard_time": 1686115894,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 243817,
@@ -771,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230029,
-      "num": 230029,
-      "word": "任嘉伦押中高考作文题",
-      "onboard_time": 1686115357,
-      "rank": 36,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 229559,
       "num": 229559,
       "word": "大学生担心下期末和四六级吧",
@@ -795,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225162,
-      "num": 225162,
-      "word": "张远谈最可惜内娱组合",
-      "onboard_time": 1686115954,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 224615,
+      "num": 224615,
+      "word": "首位走出考场的考生心态太稳了",
+      "onboard_time": 1686116734,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224409,
@@ -849,6 +897,14 @@
       "onboard_time": 1686106958,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216724,
+      "num": 216724,
+      "word": "韩国现在的出生率比战时还低",
+      "onboard_time": 1686116494,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213304,
@@ -1003,6 +1059,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 189863,
+      "num": 189863,
+      "word": "王俊凯说晴空万里高考顺利",
+      "onboard_time": 1686118053,
+      "rank": 32,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 189025,
       "num": 189025,
       "word": "种地吧直播",
@@ -1059,20 +1123,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 182321,
-      "num": 182321,
-      "word": "承欢记",
-      "onboard_time": 1686115894,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180228,
       "num": 180228,
       "word": "e人到底能e到什么程度",
       "onboard_time": 1686099573,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180092,
+      "num": 180092,
+      "word": "F4当年很火吗",
+      "onboard_time": 1686117575,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178930,
@@ -1145,6 +1209,14 @@
       "onboard_time": 1686101553,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 164369,
+      "num": 164369,
+      "word": "怀疑高考是给大学生安排的",
+      "onboard_time": 1686116851,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 163600,
@@ -1251,6 +1323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 146170,
+      "num": 146170,
+      "word": "成都AG超玩会人员变动公告",
+      "onboard_time": 1686118473,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145503,
       "num": 145503,
       "word": "千万不要和多嘴的同事合租",
@@ -1291,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136536,
+      "num": 136536,
+      "word": "李念三胎",
+      "onboard_time": 1686118174,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133310,
       "num": 133310,
       "word": "蜘蛛侠",
@@ -1305,6 +1393,14 @@
       "onboard_time": 1686038787,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130517,
+      "num": 130517,
+      "word": "张玮伦说你多少分儿你祝人家",
+      "onboard_time": 1686118653,
+      "rank": 44,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 130028,
@@ -1329,6 +1425,22 @@
       "onboard_time": 1686113202,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119877,
+      "num": 119877,
+      "word": "又双叒叕有考生丢身份证了",
+      "onboard_time": 1686118533,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 117456,
+      "num": 117456,
+      "word": "雷军也押到题了",
+      "onboard_time": 1686118829,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 117174,
@@ -1585,6 +1697,9 @@
     },
     {
       "word": "#中华民族的自信之源#"
+    },
+    {
+      "word": "#勇担使命不畏艰辛久久为功#"
     }
   ]
 }
