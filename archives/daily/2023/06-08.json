@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686177211089,
+  "endTime": 1686179846406,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1529277,
-      "num": 393014,
+      "raw_hot": 1694723,
+      "num": 426003,
       "word": "免职裙",
       "onboard_time": 1686150274,
       "rank": 13,
@@ -41,6 +41,14 @@
       "onboard_time": 1686141273,
       "rank": 0,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 830832,
+      "num": 830832,
+      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
+      "onboard_time": 1686146316,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 786898,
@@ -91,20 +99,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 481999,
-      "num": 481999,
-      "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
-      "onboard_time": 1686146316,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453868,
       "num": 228663,
       "word": "律师谈国企领导与异性亲密逛街被拍",
       "onboard_time": 1686151174,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450197,
+      "num": 450197,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 426847,
@@ -131,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286375,
+      "num": 286375,
+      "word": "意林又承包了高考作文题",
+      "onboard_time": 1686146853,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 284945,
       "num": 284945,
       "word": "某某",
       "onboard_time": 1686133717,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279959,
+      "num": 279959,
+      "word": "高考",
+      "onboard_time": 1686179602,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 269539,
@@ -203,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199735,
+      "num": 155446,
+      "word": "董思槿",
+      "onboard_time": 1686179784,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194098,
       "num": 194098,
       "word": "上海迪士尼",
@@ -219,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186823,
-      "num": 186823,
-      "word": "意林又承包了高考作文题",
-      "onboard_time": 1686146853,
-      "rank": 26,
-      "category": "教育,社会新闻"
+      "raw_hot": 187023,
+      "num": 187023,
+      "word": "都来杜去",
+      "onboard_time": 1686179663,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177876,
@@ -233,14 +265,6 @@
       "onboard_time": 1686154950,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172639,
-      "num": 172639,
-      "word": "大学生考点摆摊卖9.85与21.1元花束",
-      "onboard_time": 1686154829,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 168029,
@@ -267,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149169,
+      "num": 149169,
+      "word": "马思纯瘦了30斤",
+      "onboard_time": 1686124533,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148774,
       "num": 148774,
       "word": "邓宥希",
       "onboard_time": 1686149914,
       "rank": 29,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 148482,
+      "num": 148482,
+      "word": "太阳裁掉保罗",
+      "onboard_time": 1686179482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 147355,
@@ -299,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141476,
+      "num": 141476,
+      "word": "柯基每天上班第一件事是去干架",
+      "onboard_time": 1686176776,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140092,
       "num": 140092,
       "word": "leave",
@@ -323,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129099,
+      "num": 129099,
+      "word": "班主任给全班请了十年的假",
+      "onboard_time": 1686170232,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 123068,
       "num": 123068,
       "word": "街拍事件国企官微申请注销又取消",
@@ -345,14 +401,6 @@
       "onboard_time": 1686144872,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 119236,
-      "num": 119236,
-      "word": "马思纯瘦了30斤",
-      "onboard_time": 1686124533,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 111285,
@@ -387,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102642,
-      "num": 102642,
-      "word": "班主任给全班请了十年的假",
-      "onboard_time": 1686170232,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 95137,
       "num": 95137,
       "word": "徐娇是不是开了美颜",
@@ -427,6 +467,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 84342,
+      "num": 84342,
+      "word": "导师说我这份报告是亲子鉴定",
+      "onboard_time": 1686166993,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79047,
+      "num": 79047,
+      "word": "好友否认虞书欣吴建豪恋情",
+      "onboard_time": 1686179602,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78231,
       "num": 78231,
       "word": "东方明珠为高考生上演谐音梗灯光秀",
@@ -443,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66105,
+      "num": 74831,
+      "word": "陶昕然用甄嬛传台词祝福高考生",
+      "onboard_time": 1686160034,
+      "rank": 39,
+      "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 62911,
+      "num": 62911,
+      "word": "爷爷贴心掰烧饼芯给宝宝吃",
+      "onboard_time": 1686179359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55521,
       "num": 650098,
       "word": "这份高考祝福穿越百年",
@@ -451,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42994,
-      "num": 77297,
-      "word": "导师说我这份报告是亲子鉴定",
-      "onboard_time": 1686166993,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 47830,
+      "num": 444231,
+      "word": "我国成功发射一箭26星",
+      "onboard_time": 1686143972,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 40570,
-      "num": 74831,
-      "word": "陶昕然用甄嬛传台词祝福高考生",
-      "onboard_time": 1686160034,
-      "rank": 39,
-      "category": "艺人,教育"
+      "raw_hot": 37097,
+      "num": 127567,
+      "word": "男子雨天捎带老人获赠甜桃",
+      "onboard_time": 1686178940,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34250,
@@ -483,28 +555,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 25834,
-      "num": 71984,
-      "word": "柯基每天上班第一件事是去干架",
-      "onboard_time": 1686176776,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25565,
       "num": 48954,
       "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
       "onboard_time": 1686151774,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18229,
-      "num": 172287,
-      "word": "我国成功发射一箭26星",
-      "onboard_time": 1686143972,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12740,
