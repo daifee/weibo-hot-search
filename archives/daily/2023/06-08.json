@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686155863696,
+  "endTime": 1686158112191,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -227,6 +227,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 177876,
+      "num": 177876,
+      "word": "TFBOYS灯牌亮度",
+      "onboard_time": 1686154950,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168029,
+      "num": 168029,
+      "word": "当代大学生的PPT水平",
+      "onboard_time": 1686154289,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160790,
       "num": 156929,
       "word": "街拍事件摄影师该担责吗",
@@ -275,14 +291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131997,
-      "num": 131997,
-      "word": "TFBOYS灯牌亮度",
-      "onboard_time": 1686154950,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 130487,
       "num": 130487,
       "word": "如果丧尸爆发你觉得哪里最安全",
@@ -297,6 +305,14 @@
       "onboard_time": 1686148476,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123857,
+      "num": 123857,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 123068,
@@ -331,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117613,
-      "num": 117613,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 111285,
+      "num": 111285,
+      "word": "无穷小亮谈鼠头鸭脖",
+      "onboard_time": 1686135218,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108169,
@@ -363,12 +379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101513,
-      "num": 101513,
-      "word": "当代大学生的PPT水平",
-      "onboard_time": 1686154289,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 95137,
+      "num": 95137,
+      "word": "徐娇是不是开了美颜",
+      "onboard_time": 1686156383,
+      "rank": 34,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 90560,
@@ -403,12 +419,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 74699,
-      "num": 84959,
-      "word": "无穷小亮谈鼠头鸭脖",
-      "onboard_time": 1686135218,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 78231,
+      "num": 78231,
+      "word": "东方明珠为高考生上演谐音梗灯光秀",
+      "onboard_time": 1686157820,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 70605,

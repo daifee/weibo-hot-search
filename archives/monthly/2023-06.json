@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686155863696,
+  "endTime": 1686158112191,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -12179,6 +12179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177876,
+      "num": 177876,
+      "word": "TFBOYS灯牌亮度",
+      "onboard_time": 1686154950,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177848,
       "num": 177848,
       "word": "反复高考的行为有意义吗",
@@ -12633,6 +12641,14 @@
       "onboard_time": 1685723906,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168029,
+      "num": 168029,
+      "word": "当代大学生的PPT水平",
+      "onboard_time": 1686154289,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 167802,
@@ -14219,14 +14235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131997,
-      "num": 131997,
-      "word": "TFBOYS灯牌亮度",
-      "onboard_time": 1686154950,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131791,
       "num": 131791,
       "word": "周雨彤进组半熟男女",
@@ -15427,14 +15435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101513,
-      "num": 101513,
-      "word": "当代大学生的PPT水平",
-      "onboard_time": 1686154289,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100984,
       "num": 414591,
       "word": "公交师傅等红灯间隙救了个人",
@@ -15569,6 +15569,14 @@
       "onboard_time": 1685606487,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95137,
+      "num": 95137,
+      "word": "徐娇是不是开了美颜",
+      "onboard_time": 1686156383,
+      "rank": 34,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 94648,
@@ -15969,6 +15977,14 @@
       "onboard_time": 1686076933,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78231,
+      "num": 78231,
+      "word": "东方明珠为高考生上演谐音梗灯光秀",
+      "onboard_time": 1686157820,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 77965,
