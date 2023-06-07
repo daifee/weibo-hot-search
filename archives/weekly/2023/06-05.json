@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686154945135,
+  "endTime": 1686155863696,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -435,19 +435,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1783015,
+      "num": 572308,
+      "word": "与国企领导逛街女子手提包疑为奢侈品",
+      "onboard_time": 1686147273,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1762985,
       "num": 1762985,
       "word": "孩子烫伤9天才送医院爸爸拒绝手术",
       "onboard_time": 1685938775,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1762922,
-      "num": 572308,
-      "word": "与国企领导逛街女子手提包疑为奢侈品",
-      "onboard_time": 1686147273,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3747,6 +3747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250787,
+      "num": 212641,
+      "word": "无畏契约",
+      "onboard_time": 1686154527,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250668,
       "num": 250668,
       "word": "种地吧节目单",
@@ -4385,6 +4393,14 @@
       "onboard_time": 1685939853,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219675,
+      "num": 219675,
+      "word": "网友把谭松韵的头看成苹果",
+      "onboard_time": 1686153031,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 219191,
@@ -6163,20 +6179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147551,
-      "num": 147551,
-      "word": "网友把谭松韵的头看成苹果",
-      "onboard_time": 1686153031,
-      "rank": 30,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 147500,
       "num": 147500,
       "word": "薛之谦天外来物",
       "onboard_time": 1685958749,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147355,
+      "num": 147355,
+      "word": "中年少女的五大爱好",
+      "onboard_time": 1686153869,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146653,
@@ -6273,6 +6289,14 @@
       "onboard_time": 1686038787,
       "rank": 42,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 142593,
+      "num": 142593,
+      "word": "王鹤棣小卷毛",
+      "onboard_time": 1686154346,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142059,
@@ -6449,6 +6473,14 @@
       "onboard_time": 1686120752,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131997,
+      "num": 131997,
+      "word": "TFBOYS灯牌亮度",
+      "onboard_time": 1686154950,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131791,
@@ -6875,22 +6907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112476,
-      "num": 112476,
-      "word": "王鹤棣小卷毛",
-      "onboard_time": 1686154346,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111222,
-      "num": 111222,
-      "word": "无畏契约",
-      "onboard_time": 1686154527,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111138,
       "num": 728794,
       "word": "新郎接亲遇送考车队给考生塞红包",
@@ -7011,6 +7027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101513,
+      "num": 101513,
+      "word": "当代大学生的PPT水平",
+      "onboard_time": 1686154289,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100984,
       "num": 414591,
       "word": "公交师傅等红灯间隙救了个人",
@@ -7057,14 +7081,6 @@
       "onboard_time": 1686128376,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95928,
-      "num": 105805,
-      "word": "中年少女的五大爱好",
-      "onboard_time": 1686153869,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 95902,
@@ -7179,6 +7195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83530,
+      "num": 105792,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 83454,
       "num": 83454,
       "word": "伴侣应该选择相似的还是互补的",
@@ -7273,14 +7297,6 @@
       "onboard_time": 1685919679,
       "rank": 41,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 70663,
-      "num": 105792,
-      "word": "大学生考点摆摊卖9.85与21.1元花束",
-      "onboard_time": 1686154829,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 70086,

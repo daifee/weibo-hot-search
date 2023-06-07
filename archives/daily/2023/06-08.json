@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686154945135,
+  "endTime": 1686155863696,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1762922,
-      "num": 416314,
+      "raw_hot": 1783015,
+      "num": 510529,
       "word": "与国企领导逛街女子手提包疑为奢侈品",
       "onboard_time": 1686147273,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 745634,
-      "num": 510663,
+      "num": 520787,
       "word": "张艺兴工作室再回应",
       "onboard_time": 1686151056,
       "rank": 6,
@@ -91,8 +91,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 477204,
-      "num": 477204,
+      "raw_hot": 481999,
+      "num": 481999,
       "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
       "onboard_time": 1686146316,
       "rank": 8,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 269539,
-      "num": 198657,
+      "num": 211139,
       "word": "官方通报国企领导与女子逛街",
       "onboard_time": 1686131382,
       "rank": 22,
@@ -155,8 +155,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250787,
+      "num": 212641,
+      "word": "无畏契约",
+      "onboard_time": 1686154527,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244637,
-      "num": 208254,
+      "num": 212398,
       "word": "鼠头鸭脖",
       "onboard_time": 1686140074,
       "rank": 21,
@@ -177,6 +185,14 @@
       "onboard_time": 1686149376,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219675,
+      "num": 219675,
+      "word": "网友把谭松韵的头看成苹果",
+      "onboard_time": 1686153031,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 214078,
@@ -235,12 +251,12 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 147551,
-      "num": 147551,
-      "word": "网友把谭松韵的头看成苹果",
-      "onboard_time": 1686153031,
-      "rank": 30,
-      "category": "幽默,艺人"
+      "raw_hot": 147355,
+      "num": 147355,
+      "word": "中年少女的五大爱好",
+      "onboard_time": 1686153869,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146687,
@@ -249,6 +265,22 @@
       "onboard_time": 1686135276,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142593,
+      "num": 142593,
+      "word": "王鹤棣小卷毛",
+      "onboard_time": 1686154346,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131997,
+      "num": 131997,
+      "word": "TFBOYS灯牌亮度",
+      "onboard_time": 1686154950,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130487,
@@ -299,19 +331,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112476,
-      "num": 112476,
-      "word": "王鹤棣小卷毛",
-      "onboard_time": 1686154346,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111222,
-      "num": 111222,
-      "word": "无畏契约",
-      "onboard_time": 1686154527,
-      "rank": 39,
+      "raw_hot": 117613,
+      "num": 117613,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1686150094,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107135,
-      "num": 107135,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 105847,
@@ -347,12 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95928,
-      "num": 105805,
-      "word": "中年少女的五大爱好",
-      "onboard_time": 1686153869,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 101513,
+      "num": 101513,
+      "word": "当代大学生的PPT水平",
+      "onboard_time": 1686154289,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 90560,
@@ -379,12 +395,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 70663,
+      "raw_hot": 83530,
       "num": 105792,
       "word": "大学生考点摆摊卖9.85与21.1元花束",
       "onboard_time": 1686154829,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 74699,
+      "num": 84959,
+      "word": "无穷小亮谈鼠头鸭脖",
+      "onboard_time": 1686135218,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70605,
