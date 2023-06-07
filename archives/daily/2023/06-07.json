@@ -1,6 +1,6 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686114964004,
+  "endTime": 1686116011650,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -56,6 +56,14 @@
       "word": "新课标一卷 故事是有力量的",
       "onboard_time": 1686110749,
       "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2645514,
+      "num": 2645514,
+      "word": "比亚迪押题成功",
+      "onboard_time": 1686113859,
+      "rank": 7,
       "category": "社会新闻,教育"
     },
     {
@@ -147,14 +155,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1280775,
-      "num": 1280775,
-      "word": "比亚迪押题成功",
-      "onboard_time": 1686113859,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1274807,
       "num": 1274807,
       "word": "一公司称花2千万可和蔡徐坤吃饭",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095349,
+      "num": 929194,
+      "word": "董洁首谈离婚风波影响",
+      "onboard_time": 1686113620,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1045000,
       "num": 393158,
       "word": "失业的中年人涌进星巴克",
@@ -241,14 +249,6 @@
       "onboard_time": 1686092600,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929194,
-      "num": 929194,
-      "word": "董洁首谈离婚风波影响",
-      "onboard_time": 1686113620,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 906117,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752448,
+      "num": 752448,
+      "word": "胡继勇",
+      "onboard_time": 1686114339,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742131,
       "num": 742131,
       "word": "高考各科时间表",
@@ -312,6 +320,14 @@
       "word": "辅导员自费给全班买咖啡抽中电车",
       "onboard_time": 1686065846,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601308,
+      "num": 601308,
+      "word": "中石油",
+      "onboard_time": 1686113801,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364683,
+      "num": 364683,
+      "word": "成毅疑似受伤",
+      "onboard_time": 1686115056,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348009,
       "num": 315516,
       "word": "新课标二卷 青少年自己的空间",
@@ -505,14 +529,6 @@
       "onboard_time": 1686109133,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 333723,
-      "num": 333723,
-      "word": "中石油",
-      "onboard_time": 1686113801,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328570,
@@ -561,14 +577,6 @@
       "onboard_time": 1686046108,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 290482,
-      "num": 290482,
-      "word": "胡继勇",
-      "onboard_time": 1686114339,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284989,
@@ -675,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247569,
+      "num": 247569,
+      "word": "人体最硬的部位是什么",
+      "onboard_time": 1686115472,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246890,
       "num": 225403,
       "word": "红山动物园 工作猪",
       "onboard_time": 1686062370,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246108,
+      "num": 246108,
+      "word": "张艺兴金晨捕鱼行动暑期上映",
+      "onboard_time": 1686115056,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 245955,
@@ -747,12 +771,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230029,
+      "num": 230029,
+      "word": "任嘉伦押中高考作文题",
+      "onboard_time": 1686115357,
+      "rank": 36,
+      "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 229559,
+      "num": 229559,
+      "word": "大学生担心下期末和四六级吧",
+      "onboard_time": 1686115116,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228086,
       "num": 228086,
       "word": "寰球",
       "onboard_time": 1686111226,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225162,
+      "num": 225162,
+      "word": "张远谈最可惜内娱组合",
+      "onboard_time": 1686115954,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 224409,
@@ -769,6 +817,14 @@
       "onboard_time": 1686067647,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221297,
+      "num": 221297,
+      "word": "沈月表达好感的方式是发微信",
+      "onboard_time": 1686114636,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 220972,
@@ -963,6 +1019,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 187240,
+      "num": 187240,
+      "word": "渣土司机通宵作业救儿靠吃辣椒解乏",
+      "onboard_time": 1686115772,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "广东明确停课不停考",
@@ -993,6 +1057,14 @@
       "onboard_time": 1686108280,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 182321,
+      "num": 182321,
+      "word": "承欢记",
+      "onboard_time": 1686115894,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 180228,
@@ -1252,7 +1324,7 @@
     },
     {
       "raw_hot": 124197,
-      "num": 179832,
+      "num": 181455,
       "word": "MTG未央官宣",
       "onboard_time": 1686113202,
       "rank": 49,
@@ -1411,6 +1483,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 56872,
+      "num": 942047,
+      "word": "为2023届高考生祈福",
+      "onboard_time": 1686114037,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 46188,
+      "num": 232487,
+      "word": "海派直播首秀带货超千万元",
+      "onboard_time": 1686114037,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43365,
       "num": 48482,
       "word": "朱一龙说何非可怜可悲可恨",
@@ -1451,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33907,
-      "num": 942047,
-      "word": "为2023届高考生祈福",
-      "onboard_time": 1686114037,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 32575,
       "num": 77038,
       "word": "为1291万考生祝福",
@@ -1473,14 +1553,6 @@
       "onboard_time": 1686087793,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29717,
-      "num": 232487,
-      "word": "海派直播首秀带货超千万元",
-      "onboard_time": 1686114037,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28906,
