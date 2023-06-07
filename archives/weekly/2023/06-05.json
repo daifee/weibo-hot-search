@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686126120005,
+  "endTime": 1686126849802,
   "band_list": [
     {
       "raw_hot": 14552118,
@@ -33,6 +33,14 @@
       "onboard_time": 1686109729,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 5074342,
+      "num": 5074342,
+      "word": "高考数学",
+      "onboard_time": 1686126154,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3289887,
@@ -147,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2462729,
+      "num": 1640939,
+      "word": "国企负责人与异性牵手逛街被拍",
+      "onboard_time": 1686119434,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2437344,
       "num": 2437344,
       "word": "任嘉伦押中高考作文题",
@@ -177,14 +193,6 @@
       "onboard_time": 1685979988,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2280044,
-      "num": 1640939,
-      "word": "国企负责人与异性牵手逛街被拍",
-      "onboard_time": 1686119434,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2273063,
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1185577,
+      "num": 1185577,
+      "word": "马思纯瘦了30斤",
+      "onboard_time": 1686124533,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1183499,
       "num": 951690,
       "word": "不用再说HeySiri了",
@@ -801,14 +817,6 @@
       "onboard_time": 1685973571,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1072561,
-      "num": 1072561,
-      "word": "马思纯瘦了30斤",
-      "onboard_time": 1686124533,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1049141,
@@ -1075,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 847974,
+      "num": 847974,
+      "word": "高考完了不用去打暑期工",
+      "onboard_time": 1686122555,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 838400,
       "num": 536498,
       "word": "鸭圣婆 杰克辣条",
@@ -1171,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 780323,
-      "num": 780323,
-      "word": "高考完了不用去打暑期工",
-      "onboard_time": 1686122555,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 777753,
       "num": 777753,
       "word": "梦回王俊凯用易烊千玺读秒",
@@ -1219,8 +1227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762883,
-      "num": 762883,
+      "raw_hot": 765690,
+      "num": 765690,
       "word": "汤晶媚和每个人都说了任敏的想法",
       "onboard_time": 1686123392,
       "rank": 13,
@@ -1595,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518254,
+      "num": 518254,
+      "word": "TFBOYS团徽三角没有封角",
+      "onboard_time": 1686124230,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 505985,
       "num": 505985,
       "word": "鞠婧祎花戎同居",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1685934929,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497914,
-      "num": 497914,
-      "word": "TFBOYS团徽三角没有封角",
-      "onboard_time": 1686124230,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 495227,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1686105876,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 472362,
+      "num": 472362,
+      "word": "腾讯QQ回应考生喊话",
+      "onboard_time": 1686125072,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 468823,
@@ -2259,14 +2275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351325,
-      "num": 351325,
-      "word": "腾讯QQ回应考生喊话",
-      "onboard_time": 1686125072,
-      "rank": 21,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 350869,
       "num": 350869,
       "word": "原来无痛针是这么打的",
@@ -2499,6 +2507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314357,
+      "num": 314357,
+      "word": "粉丝曝成毅每天十几小时打戏",
+      "onboard_time": 1686124592,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1685935653,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294975,
-      "num": 294975,
-      "word": "粉丝曝成毅每天十几小时打戏",
-      "onboard_time": 1686124592,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 293786,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1685947828,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271601,
+      "num": 237887,
+      "word": "花少 邓恩熙",
+      "onboard_time": 1686126453,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 271370,
@@ -4411,6 +4427,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "OMG对战JDG",
+      "onboard_time": 1686125735,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190859,
       "num": 190859,
       "word": "无毛猫夏天真的好惨啊",
@@ -4995,14 +5019,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 168098,
-      "num": 168098,
-      "word": "OMG对战JDG",
-      "onboard_time": 1686125735,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167814,
       "num": 167814,
       "word": "后浪",
@@ -5401,6 +5417,14 @@
       "onboard_time": 1685958749,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146825,
+      "num": 146825,
+      "word": "成毅受伤原因",
+      "onboard_time": 1686126754,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 146653,
@@ -6539,6 +6563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 52169,
+      "num": 1382511,
+      "word": "硬核黑科技助力高考",
+      "onboard_time": 1686126213,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51067,
       "num": 51067,
       "word": "新MacOS Sonoma",
@@ -6731,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24627,
+      "num": 669898,
+      "word": "母亲坚持1948天给高考儿子写信",
+      "onboard_time": 1686126213,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24151,
       "num": 27740,
       "word": "聚焦全国高考",
@@ -6790,6 +6830,9 @@
     },
     {
       "word": "#勇担使命不畏艰辛久久为功#"
+    },
+    {
+      "word": "#2023年高考必胜#"
     }
   ]
 }
