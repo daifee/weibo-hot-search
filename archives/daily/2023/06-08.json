@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686173602909,
+  "endTime": 1686176154056,
   "band_list": [
     {
       "raw_hot": 1927618,
@@ -299,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131916,
+      "num": 131916,
+      "word": "大学生考点摆摊卖9.85与21.1元花束",
+      "onboard_time": 1686154829,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 130487,
       "num": 130487,
       "word": "如果丧尸爆发你觉得哪里最安全",
@@ -387,12 +395,12 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 93299,
-      "num": 105792,
-      "word": "大学生考点摆摊卖9.85与21.1元花束",
-      "onboard_time": 1686154829,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 94058,
+      "num": 85124,
+      "word": "班主任给全班请了十年的假",
+      "onboard_time": 1686170232,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 90560,
@@ -444,19 +452,11 @@
     },
     {
       "raw_hot": 40570,
-      "num": 40570,
+      "num": 49031,
       "word": "陶昕然用甄嬛传台词祝福高考生",
       "onboard_time": 1686160034,
       "rank": 39,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 37479,
-      "num": 42302,
-      "word": "班主任给全班请了十年的假",
-      "onboard_time": 1686170232,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 34250,
@@ -467,40 +467,40 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26017,
-      "num": 41455,
-      "word": "数学到底难不难",
-      "onboard_time": 1686129107,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 25505,
-      "num": 41458,
-      "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
-      "onboard_time": 1686151774,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21356,
-      "num": 41459,
+      "raw_hot": 33390,
+      "num": 49143,
       "word": "导师说我这份报告是亲子鉴定",
       "onboard_time": 1686166993,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 9429,
-      "num": 105323,
+      "raw_hot": 31990,
+      "num": 49067,
+      "word": "数学到底难不难",
+      "onboard_time": 1686129107,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 25565,
+      "num": 48954,
+      "word": "刘雨昕2023LVMHPrize决赛颁奖嘉宾",
+      "onboard_time": 1686151774,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16436,
+      "num": 128263,
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7884,
-      "num": 41468,
+      "raw_hot": 10835,
+      "num": 49313,
       "word": "明天的你请继续加油",
       "onboard_time": 1686167293,
       "rank": 29,
