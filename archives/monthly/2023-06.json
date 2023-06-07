@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686134028691,
+  "endTime": 1686136440021,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -49,6 +49,14 @@
       "onboard_time": 1686129107,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 7767104,
+      "num": 7767104,
+      "word": "中石油胡继勇被免职",
+      "onboard_time": 1686131623,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7630424,
@@ -112,14 +120,6 @@
       "word": "石家庄小三",
       "onboard_time": 1685859987,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3049487,
-      "num": 3049487,
-      "word": "中石油胡继勇被免职",
-      "onboard_time": 1686131623,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -643,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1847728,
+      "num": 1847728,
+      "word": "甲卷数学 边考边哭",
+      "onboard_time": 1686132459,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1841672,
       "num": 1841672,
       "word": "千万不要把水果当饭吃",
@@ -713,14 +721,6 @@
       "onboard_time": 1685538987,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1787065,
-      "num": 1787065,
-      "word": "甲卷数学 边考边哭",
-      "onboard_time": 1686132459,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1762985,
@@ -1827,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093188,
+      "num": 1093188,
+      "word": "天津数学 创飞我了",
+      "onboard_time": 1686133297,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1086340,
       "num": 982929,
       "word": "四大顶级舞担",
@@ -2051,14 +2059,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 986506,
-      "num": 986506,
-      "word": "天津数学 创飞我了",
-      "onboard_time": 1686133297,
-      "rank": 13,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 986019,
       "num": 986019,
       "word": "空姐未讲日语被日本女子辱骂",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1685596649,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 960227,
+      "num": 960227,
+      "word": "贾玲为了新角色要减重100斤",
+      "onboard_time": 1686132698,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 955471,
@@ -2603,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784939,
+      "num": 784939,
+      "word": "哥哥拿弟弟身份证高考8点45才发现",
+      "onboard_time": 1686129407,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 777837,
       "num": 777837,
       "word": "刘畊宏20秒短视频要价60万",
@@ -2689,6 +2705,22 @@
       "onboard_time": 1686123392,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 759830,
+      "num": 759830,
+      "word": "某某",
+      "onboard_time": 1686133717,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 758629,
+      "num": 758629,
+      "word": "胡继勇正接受公司纪委核查",
+      "onboard_time": 1686114339,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756151,
@@ -2817,14 +2849,6 @@
       "onboard_time": 1685931628,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 710695,
-      "num": 710695,
-      "word": "哥哥拿弟弟身份证高考8点45才发现",
-      "onboard_time": 1686129407,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 710463,
@@ -3233,6 +3257,14 @@
       "onboard_time": 1685615487,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 614292,
+      "num": 614292,
+      "word": "22届在骂 23届崩溃 24届焦虑",
+      "onboard_time": 1686135276,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 612599,
@@ -4385,14 +4417,6 @@
       "onboard_time": 1685763269,
       "rank": 36,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 441484,
-      "num": 441484,
-      "word": "贾玲为了新角色要减重100斤",
-      "onboard_time": 1686132698,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 441431,
@@ -5651,6 +5675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341774,
+      "num": 341774,
+      "word": "高考数学答案",
+      "onboard_time": 1686134015,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 341004,
       "num": 271051,
       "word": "亲生父母殴打虐待10岁孩子致死",
@@ -6115,6 +6147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 319803,
+      "num": 319803,
+      "word": "郑业成工作室回应轧戏",
+      "onboard_time": 1686136055,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319691,
       "num": 260719,
       "word": "陌生男子一脚踩死怀孕猫咪",
@@ -6321,14 +6361,6 @@
       "onboard_time": 1685965888,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 308549,
-      "num": 308549,
-      "word": "高考数学答案",
-      "onboard_time": 1686134015,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 308523,
@@ -6683,6 +6715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294458,
+      "num": 1342377,
+      "word": "双胞胎拿错准考证骁骑5分钟调换",
+      "onboard_time": 1686134376,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 294162,
       "num": 294162,
       "word": "薛之谦演唱会拿到张杰荧光棒",
@@ -6905,6 +6945,14 @@
       "onboard_time": 1686019648,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286677,
+      "num": 286677,
+      "word": "出演新剧是Jennie自己的选择",
+      "onboard_time": 1686135515,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 286639,
@@ -7320,6 +7368,14 @@
       "word": "儿童节快乐",
       "onboard_time": 1685575040,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272597,
+      "num": 272597,
+      "word": "公司称领导与异性牵手逛街是个人行为",
+      "onboard_time": 1686135276,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -8377,6 +8433,14 @@
       "onboard_time": 1686092781,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 242753,
+      "num": 242753,
+      "word": "文汇报评肖战李沁梦中的那片海",
+      "onboard_time": 1686134737,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 242282,
@@ -9939,6 +10003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207019,
+      "num": 207019,
+      "word": "偷偷藏不住",
+      "onboard_time": 1686136297,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207006,
       "num": 207006,
       "word": "AL战胜TT",
@@ -10556,7 +10628,7 @@
     },
     {
       "raw_hot": 195498,
-      "num": 3796054,
+      "num": 3837730,
       "word": "硬核黑科技助力高考",
       "onboard_time": 1686126213,
       "rank": 2,
@@ -10587,12 +10659,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 194864,
-      "num": 194864,
-      "word": "某某",
-      "onboard_time": 1686133717,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 194652,
+      "num": 194652,
+      "word": "无穷小亮谈鼠头鸭脖",
+      "onboard_time": 1686135218,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194480,
@@ -15177,6 +15249,14 @@
       "onboard_time": 1685786968,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 87848,
+      "num": 786941,
+      "word": "被Angelababy回复了",
+      "onboard_time": 1686135633,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 87736,
