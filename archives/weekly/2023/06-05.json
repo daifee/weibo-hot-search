@@ -1,7 +1,15 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686108817900,
+  "endTime": 1686111614871,
   "band_list": [
+    {
+      "raw_hot": 14552118,
+      "num": 14552118,
+      "word": "高考作文",
+      "onboard_time": 1686107741,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
     {
       "raw_hot": 13583765,
       "num": 13583765,
@@ -11,20 +19,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 12721799,
-      "num": 12721799,
-      "word": "高考作文",
-      "onboard_time": 1686107741,
-      "rank": 3,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 8544897,
       "num": 8544897,
       "word": "高考",
       "onboard_time": 1686092659,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4854250,
+      "num": 4854250,
+      "word": "高考作文 简单",
+      "onboard_time": 1686109729,
+      "rank": 3,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 3289887,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2888662,
+      "num": 2888662,
+      "word": "第一个出考场的考生麻烦你了",
+      "onboard_time": 1686107980,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2800496,
       "num": 698514,
       "word": "赵琦君杨凯雯领证",
@@ -57,6 +73,14 @@
       "onboard_time": 1686057810,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2731716,
+      "num": 2731716,
+      "word": "新课标一卷 故事是有力量的",
+      "onboard_time": 1686110749,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2614180,
@@ -219,6 +243,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1844370,
+      "num": 1161015,
+      "word": "好友称董洁从未埋怨潘粤明",
+      "onboard_time": 1686107741,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1826995,
+      "num": 1826995,
+      "word": "全国甲卷 时间的仆人",
+      "onboard_time": 1686109552,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1820130,
       "num": 1820130,
       "word": "海天品牌回应蚝油内疑发现生蚝",
@@ -249,6 +289,14 @@
       "onboard_time": 1685893707,
       "rank": 10,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1716015,
+      "num": 1716015,
+      "word": "Angelababy 蒂芙尼",
+      "onboard_time": 1686107980,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 1682139,
@@ -411,14 +459,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1416934,
-      "num": 740846,
-      "word": "好友称董洁从未埋怨潘粤明",
-      "onboard_time": 1686107741,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1400611,
       "num": 1400611,
       "word": "一个村考出300多大学生6个北大",
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 1319108,
-      "num": 740778,
+      "num": 962467,
       "word": "孙俪发文庆祝和邓超结婚十二周年",
       "onboard_time": 1686103292,
       "rank": 16,
@@ -561,6 +601,14 @@
       "onboard_time": 1686041848,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1232357,
+      "num": 1232357,
+      "word": "TFBOYS为王源下个路口打call",
+      "onboard_time": 1686107438,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 1223087,
@@ -665,6 +713,14 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1078725,
+      "num": 1078725,
+      "word": "一样的孩子鲍蕾为什么生两次",
+      "onboard_time": 1686108835,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1076254,
@@ -777,6 +833,14 @@
       "onboard_time": 1686040288,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 975212,
+      "num": 975212,
+      "word": "全国乙卷 一花独放不是春",
+      "onboard_time": 1686110390,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 969808,
@@ -1028,7 +1092,7 @@
     },
     {
       "raw_hot": 770330,
-      "num": 385416,
+      "num": 550288,
       "word": "千万不要用小拇指掏耳朵了",
       "onboard_time": 1686100113,
       "rank": 21,
@@ -1331,36 +1395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 543453,
-      "num": 543453,
-      "word": "第一个出考场的考生麻烦你了",
-      "onboard_time": 1686107980,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 541369,
       "num": 541369,
       "word": "蔡徐坤香港",
       "onboard_time": 1686032067,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 537980,
-      "num": 537980,
-      "word": "Angelababy 蒂芙尼",
-      "onboard_time": 1686107980,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 535087,
-      "num": 535087,
-      "word": "TFBOYS为王源下个路口打call",
-      "onboard_time": 1686107438,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 534482,
@@ -1635,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433086,
+      "num": 433086,
+      "word": "浙江高考语数外首次用全国卷",
+      "onboard_time": 1686107320,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 424870,
       "num": 341264,
       "word": "狗头萝莉摊煎饼",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1685932407,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406754,
+      "num": 406754,
+      "word": "各地高考作文你擅长哪一篇",
+      "onboard_time": 1686110270,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 405217,
@@ -1899,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365904,
+      "num": 365904,
+      "word": "高考入场时发现身份证6月6日过期",
+      "onboard_time": 1686111107,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 365077,
       "num": 365077,
       "word": "徐志胜救火",
@@ -2003,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348009,
+      "num": 315516,
+      "word": "新课标二卷 青少年自己的空间",
+      "onboard_time": 1686111586,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
@@ -2017,6 +2089,22 @@
       "onboard_time": 1685875886,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 344342,
+      "num": 344342,
+      "word": "上海高考作文",
+      "onboard_time": 1686111284,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 344067,
+      "num": 344067,
+      "word": "续航和亮相",
+      "onboard_time": 1686109133,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 344028,
@@ -2811,6 +2899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248868,
+      "num": 248868,
+      "word": "第一个考验交警反应能力的考生出现了",
+      "onboard_time": 1686108778,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 248791,
       "num": 248791,
       "word": "全员加速中路透",
@@ -2865,14 +2961,6 @@
       "onboard_time": 1685932708,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245184,
-      "num": 245184,
-      "word": "浙江高考语数外首次用全国卷",
-      "onboard_time": 1686107320,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245036,
@@ -2969,6 +3057,14 @@
       "onboard_time": 1685942547,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240792,
+      "num": 240792,
+      "word": "哪个省份作文题目最难",
+      "onboard_time": 1686111406,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 240734,
@@ -3416,6 +3512,14 @@
       "word": "求职被问婚育状况合理吗",
       "onboard_time": 1685945127,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212147,
+      "num": 212147,
+      "word": "寰球",
+      "onboard_time": 1686111226,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4043,6 +4147,14 @@
       "category": "网红,教育"
     },
     {
+      "raw_hot": 184783,
+      "num": 184783,
+      "word": "开考半小时前民警为考生办临时身份证",
+      "onboard_time": 1686110626,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 184748,
       "num": 184748,
       "word": "MTG正式完成郑州冠名",
@@ -4631,14 +4743,6 @@
       "num": 156958,
       "word": "考生排队入场前做最后的复习",
       "onboard_time": 1686102214,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 156448,
-      "num": 156448,
-      "word": "第一个考验交警反应能力的考生出现了",
-      "onboard_time": 1686108778,
       "rank": 48,
       "category": "教育,社会新闻"
     },
@@ -5855,6 +5959,14 @@
       "num": 403036,
       "word": "轿车淹没前民警1分钟内连救男子2次",
       "onboard_time": 1685959288,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51810,
+      "num": 963152,
+      "word": "高考陪考老师的心理压力有多大",
+      "onboard_time": 1686110749,
       "rank": 14,
       "category": "社会新闻"
     },
