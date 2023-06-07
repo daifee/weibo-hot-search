@@ -1,14 +1,22 @@
 {
   "startTime": 1686068524506,
-  "endTime": 1686108104683,
+  "endTime": 1686108817900,
   "band_list": [
     {
-      "raw_hot": 13189379,
-      "num": 13189379,
+      "raw_hot": 13583765,
+      "num": 13583765,
       "word": "高考语文",
       "onboard_time": 1686103592,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12721799,
+      "num": 12721799,
+      "word": "高考作文",
+      "onboard_time": 1686107741,
+      "rank": 3,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 8544897,
@@ -17,14 +25,6 @@
       "onboard_time": 1686092659,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4313101,
-      "num": 4313101,
-      "word": "高考作文",
-      "onboard_time": 1686107741,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2426572,
@@ -43,6 +43,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1416934,
+      "num": 740846,
+      "word": "好友称董洁从未埋怨潘粤明",
+      "onboard_time": 1686107741,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1350459,
       "num": 1350459,
       "word": "2023年高考第一个丢准考证的同学",
@@ -59,8 +67,16 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1324313,
+      "num": 1324313,
+      "word": "保送男生穿旗袍为高考同学加油",
+      "onboard_time": 1686101911,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1319108,
-      "num": 736709,
+      "num": 740778,
       "word": "孙俪发文庆祝和邓超结婚十二周年",
       "onboard_time": 1686103292,
       "rank": 16,
@@ -91,14 +107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1264107,
-      "num": 1264107,
-      "word": "保送男生穿旗袍为高考同学加油",
-      "onboard_time": 1686101911,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1149512,
       "num": 1001972,
       "word": "高考试卷",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969808,
+      "num": 969808,
+      "word": "高考防作弊磁弹枪亮相考点现场",
+      "onboard_time": 1686105937,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 947731,
       "num": 947731,
       "word": "高校鼠头事件涉事窗口几乎没人去吃饭",
@@ -137,14 +153,6 @@
       "onboard_time": 1686094405,
       "rank": 44,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 867454,
-      "num": 867454,
-      "word": "高考防作弊磁弹枪亮相考点现场",
-      "onboard_time": 1686105937,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 780153,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742131,
+      "num": 742131,
+      "word": "高考各科时间表",
+      "onboard_time": 1686095909,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 684692,
       "num": 684692,
       "word": "人体最大的器官是什么",
@@ -195,12 +211,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675493,
-      "num": 675493,
-      "word": "高考各科时间表",
-      "onboard_time": 1686095909,
-      "rank": 12,
-      "category": "社会新闻,教育"
+      "raw_hot": 543453,
+      "num": 543453,
+      "word": "第一个出考场的考生麻烦你了",
+      "onboard_time": 1686107980,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 537980,
+      "num": 537980,
+      "word": "Angelababy 蒂芙尼",
+      "onboard_time": 1686107980,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 535087,
+      "num": 535087,
+      "word": "TFBOYS为王源下个路口打call",
+      "onboard_time": 1686107438,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 532365,
@@ -209,6 +241,14 @@
       "onboard_time": 1686054388,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500076,
+      "num": 500076,
+      "word": "中国人离4天工作制还有多远",
+      "onboard_time": 1686104011,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 494429,
@@ -227,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 477442,
-      "num": 477442,
-      "word": "好友称董洁从未埋怨潘粤明",
-      "onboard_time": 1686107741,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 473430,
       "num": 473430,
       "word": "王源限定粉发MV",
@@ -249,14 +281,6 @@
       "onboard_time": 1686099872,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 465511,
-      "num": 465511,
-      "word": "中国人离4天工作制还有多远",
-      "onboard_time": 1686104011,
-      "rank": 15,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 459316,
@@ -323,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 366192,
+      "num": 366192,
+      "word": "麦芒",
+      "onboard_time": 1686107503,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365077,
       "num": 365077,
       "word": "徐志胜救火",
@@ -345,6 +377,14 @@
       "onboard_time": 1686101313,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307608,
+      "num": 307608,
+      "word": "大学生凑热闹",
+      "onboard_time": 1686107438,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 296290,
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274158,
+      "num": 274158,
+      "word": "肖春生佟晓梅牵手散步路透",
+      "onboard_time": 1686106597,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271370,
       "num": 271370,
       "word": "11岁男孩开电动车失控撞死3岁男童",
@@ -387,12 +435,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261907,
-      "num": 261907,
-      "word": "肖春生佟晓梅牵手散步路透",
-      "onboard_time": 1686106597,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 263417,
+      "num": 263417,
+      "word": "国产数据库重大突破",
+      "onboard_time": 1686108220,
+      "rank": 31,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 258455,
@@ -443,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245184,
+      "num": 245184,
+      "word": "浙江高考语数外首次用全国卷",
+      "onboard_time": 1686107320,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 242807,
       "num": 242807,
       "word": "马斯克称未来房价下跌将加速",
@@ -481,14 +537,6 @@
       "onboard_time": 1686101974,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232337,
-      "num": 232337,
-      "word": "TFBOYS为王源下个路口打call",
-      "onboard_time": 1686107438,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 230850,
@@ -595,20 +643,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200847,
-      "num": 200847,
-      "word": "大学生凑热闹",
-      "onboard_time": 1686107438,
-      "rank": 34,
+      "raw_hot": 203879,
+      "num": 203879,
+      "word": "穿旗袍",
+      "onboard_time": 1686107923,
+      "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 199025,
-      "num": 199025,
-      "word": "第一个出考场的考生麻烦你了",
-      "onboard_time": 1686107980,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 198930,
@@ -625,14 +665,6 @@
       "onboard_time": 1686096992,
       "rank": 39,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 198051,
-      "num": 185291,
-      "word": "浙江高考语数外首次用全国卷",
-      "onboard_time": 1686107320,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 195962,
@@ -657,14 +689,6 @@
       "onboard_time": 1686103353,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193335,
-      "num": 193335,
-      "word": "穿旗袍",
-      "onboard_time": 1686107923,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192577,
@@ -715,22 +739,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 187759,
-      "num": 187759,
-      "word": "Angelababy 蒂芙尼",
-      "onboard_time": 1686107980,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185715,
-      "num": 185715,
-      "word": "麦芒",
-      "onboard_time": 1686107503,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "广东明确停课不停考",
@@ -745,6 +753,14 @@
       "onboard_time": 1686103413,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182796,
+      "num": 263991,
+      "word": "车牌985警车连续18年送考",
+      "onboard_time": 1686108280,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180228,
@@ -811,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168298,
+      "num": 168298,
+      "word": "男孩背患脑瘫同学10年今天一起高考",
+      "onboard_time": 1686108344,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 166867,
       "num": 166867,
       "word": "祝福每位高考生",
@@ -825,6 +849,14 @@
       "onboard_time": 1686053608,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 163373,
+      "num": 163373,
+      "word": "杨紫高考前采访视频",
+      "onboard_time": 1686108713,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 163201,
@@ -871,6 +903,14 @@
       "num": 156958,
       "word": "考生排队入场前做最后的复习",
       "onboard_time": 1686102214,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156448,
+      "num": 156448,
+      "word": "第一个考验交警反应能力的考生出现了",
+      "onboard_time": 1686108778,
       "rank": 48,
       "category": "教育,社会新闻"
     },
@@ -1156,7 +1196,7 @@
     },
     {
       "raw_hot": 38623,
-      "num": 4944369,
+      "num": 5846826,
       "word": "我的高考回忆",
       "onboard_time": 1686107377,
       "rank": 2,
