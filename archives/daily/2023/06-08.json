@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686212458019,
+  "endTime": 1686213213906,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -59,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2670013,
+      "num": 708690,
+      "word": "好想做一次",
+      "onboard_time": 1686210632,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2228242,
       "num": 576371,
       "word": "与国企领导逛街女子手提包疑为奢侈品",
@@ -97,14 +105,6 @@
       "onboard_time": 1686150274,
       "rank": 13,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 1653453,
-      "num": 664380,
-      "word": "好想做一次",
-      "onboard_time": 1686210632,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1624243,
@@ -227,6 +227,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 1042146,
+      "num": 1042146,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1035564,
       "num": 1035564,
       "word": "TFBOYS十周年演唱会招商PPT",
@@ -283,8 +291,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 870656,
-      "num": 646712,
+      "raw_hot": 907245,
+      "num": 707409,
       "word": "吴建豪工作室态度",
       "onboard_time": 1686208296,
       "rank": 41,
@@ -292,11 +300,19 @@
     },
     {
       "raw_hot": 867677,
-      "num": 637560,
+      "num": 667189,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
       "onboard_time": 1686199898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 851516,
+      "num": 697747,
+      "word": "中国电信回应广东无信号",
+      "onboard_time": 1686212975,
+      "rank": 13,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 821675,
@@ -305,6 +321,14 @@
       "onboard_time": 1686183689,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811028,
+      "num": 811028,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 806731,
@@ -355,28 +379,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 720293,
-      "num": 720293,
-      "word": "王润泽和奶奶",
-      "onboard_time": 1686189570,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 688666,
-      "num": 688666,
+      "raw_hot": 724649,
+      "num": 724649,
       "word": "张艺兴起诉B站侵权",
       "onboard_time": 1686208713,
       "rank": 31,
       "category": "艺人"
     },
     {
-      "raw_hot": 682561,
-      "num": 682561,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
+      "raw_hot": 720293,
+      "num": 720293,
+      "word": "王润泽和奶奶",
+      "onboard_time": 1686189570,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 677742,
@@ -457,6 +473,14 @@
       "onboard_time": 1686199719,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 432642,
+      "num": 432642,
+      "word": "杂志方怼杨紫恶评",
+      "onboard_time": 1686211174,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 431663,
@@ -547,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367257,
+      "num": 367257,
+      "word": "官方回应江西考生迟到37分进考场",
+      "onboard_time": 1686208535,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 366679,
       "num": 366679,
       "word": "张颂文狂飙后首次回深",
@@ -561,14 +593,6 @@
       "onboard_time": 1686180504,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 361921,
-      "num": 361921,
-      "word": "官方回应江西考生迟到37分进考场",
-      "onboard_time": 1686208535,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 353138,
@@ -601,14 +625,6 @@
       "onboard_time": 1686205591,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 340365,
-      "num": 340365,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 333541,
@@ -649,14 +665,6 @@
       "onboard_time": 1686201214,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 312753,
-      "num": 312753,
-      "word": "杂志方怼杨紫恶评",
-      "onboard_time": 1686211174,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 308679,
@@ -803,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246261,
+      "num": 246261,
+      "word": "李一桐把水花穿在身上",
+      "onboard_time": 1686209554,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 244637,
       "num": 212398,
       "word": "鼠头鸭脖",
@@ -825,14 +841,6 @@
       "onboard_time": 1686207452,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 238038,
-      "num": 238038,
-      "word": "李一桐把水花穿在身上",
-      "onboard_time": 1686209554,
-      "rank": 47,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 237472,
@@ -987,6 +995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 205406,
+      "num": 205406,
+      "word": "孙笑川 烫伤",
+      "onboard_time": 1686212616,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202682,
       "num": 202682,
       "word": "剧好听的歌开播",
@@ -1075,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188533,
+      "num": 688767,
+      "word": "女生拒绝帮助用双膝自信进考场",
+      "onboard_time": 1686211232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187435,
       "num": 187435,
       "word": "周也证件照被盗用",
@@ -1107,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183559,
+      "num": 183559,
+      "word": "宋茜屋顶着火到底怎么唱",
+      "onboard_time": 1686211112,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180716,
       "num": 180716,
       "word": "摄影师是立功了还是该担责",
@@ -1131,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178610,
-      "num": 178610,
-      "word": "宋茜屋顶着火到底怎么唱",
-      "onboard_time": 1686211112,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177876,
       "num": 177876,
       "word": "TFBOYS灯牌亮度",
@@ -1155,20 +1179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176775,
+      "num": 176775,
+      "word": "杨超越白族少女造型",
+      "onboard_time": 1686210093,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173935,
       "num": 173935,
       "word": "胡继勇正接受公司纪委核查",
       "onboard_time": 1686114339,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172265,
-      "num": 172265,
-      "word": "杨超越白族少女造型",
-      "onboard_time": 1686210093,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 169671,
@@ -1243,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164392,
+      "num": 164392,
+      "word": "这是捅了西瓜子的老窝了",
+      "onboard_time": 1686212375,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162334,
       "num": 521206,
       "word": "考生上吐下泻铁骑送医考前送回",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1686135515,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156182,
+      "num": 156182,
+      "word": "明日方舟",
+      "onboard_time": 1686212795,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 150561,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1686145834,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135582,
-      "num": 658845,
-      "word": "女生拒绝帮助用双膝自信进考场",
-      "onboard_time": 1686211232,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133005,
