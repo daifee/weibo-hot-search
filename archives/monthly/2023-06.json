@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686194471791,
+  "endTime": 1686195209373,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -67,19 +67,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 5631883,
+      "num": 5631883,
+      "word": "中国石油大学回应",
+      "onboard_time": 1686192990,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5469239,
       "num": 825277,
       "word": "物业证实校内被撞身亡小学生母亲坠楼",
       "onboard_time": 1685717903,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4844737,
-      "num": 4844737,
-      "word": "中国石油大学回应",
-      "onboard_time": 1686192990,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -857,6 +857,14 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1713485,
+      "num": 511971,
+      "word": "董某某被停职",
+      "onboard_time": 1686194372,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1682139,
@@ -3395,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643376,
+      "num": 643376,
+      "word": "一卷物理难不难",
+      "onboard_time": 1686194250,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 641658,
       "num": 641658,
       "word": "重庆震感",
@@ -4739,14 +4755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 445662,
-      "num": 445662,
-      "word": "一卷物理难不难",
-      "onboard_time": 1686194250,
-      "rank": 16,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 445650,
       "num": 445650,
       "word": "成毅和替身相似度",
@@ -5075,6 +5083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413684,
+      "num": 413684,
+      "word": "魏如萱 爱上一个人是什么感觉",
+      "onboard_time": 1686192029,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413525,
       "num": 413525,
       "word": "张杰把开心快乐送给女儿们",
@@ -5195,14 +5211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405290,
-      "num": 405290,
-      "word": "魏如萱 爱上一个人是什么感觉",
-      "onboard_time": 1686192029,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 405217,
       "num": 405217,
       "word": "梅西",
@@ -5291,6 +5299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 397176,
+      "num": 397176,
+      "word": "高考文综",
+      "onboard_time": 1686194852,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 396671,
       "num": 245255,
       "word": "肖战片场讲冷笑话",
@@ -5321,6 +5337,14 @@
       "onboard_time": 1685600667,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393422,
+      "num": 393422,
+      "word": "高考理综",
+      "onboard_time": 1686194012,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 393146,
@@ -5459,6 +5483,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 384545,
+      "num": 384545,
+      "word": "庆余年2",
+      "onboard_time": 1686194613,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383202,
       "num": 323506,
       "word": "花花和花花同框",
@@ -5561,14 +5593,6 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 377015,
-      "num": 240455,
-      "word": "董某某被停职",
-      "onboard_time": 1686194372,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374320,
@@ -6676,7 +6700,7 @@
     },
     {
       "raw_hot": 316563,
-      "num": 279505,
+      "num": 281630,
       "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
       "onboard_time": 1686190471,
       "rank": 26,
@@ -7457,6 +7481,14 @@
       "onboard_time": 1685862806,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286727,
+      "num": 286727,
+      "word": "林宥嘉巡演八城官宣",
+      "onboard_time": 1686194552,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 286685,
@@ -9443,6 +9475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232226,
+      "num": 232226,
+      "word": "易烊千玺T锦绣六月刊封面",
+      "onboard_time": 1686193652,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 232088,
       "num": 232088,
       "word": "浪姐4二公排名谁最离谱",
@@ -10427,14 +10467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211161,
-      "num": 211161,
-      "word": "高考理综",
-      "onboard_time": 1686194012,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 211103,
       "num": 211103,
       "word": "白敬亭给自己P了个眼镜",
@@ -10609,6 +10641,14 @@
       "onboard_time": 1686191456,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207788,
+      "num": 207788,
+      "word": "高考时间",
+      "onboard_time": 1685957669,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 207703,
@@ -11019,14 +11059,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200368,
-      "num": 200368,
-      "word": "易烊千玺T锦绣六月刊封面",
-      "onboard_time": 1686193652,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 200341,
       "num": 176426,
       "word": "Angelababy白鹿哭戏",
@@ -11347,6 +11379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195304,
+      "num": 195304,
+      "word": "掘金2比1热火",
+      "onboard_time": 1686194372,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195254,
       "num": 195254,
       "word": "微博电影之夜主持人",
@@ -11361,14 +11401,6 @@
       "onboard_time": 1686187950,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195137,
-      "num": 195137,
-      "word": "高考时间",
-      "onboard_time": 1685957669,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 194480,
@@ -12171,14 +12203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184789,
-      "num": 184789,
-      "word": "掘金2比1热火",
-      "onboard_time": 1686194372,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184783,
       "num": 184783,
       "word": "开考半小时前民警为考生办临时身份证",
@@ -12713,6 +12737,14 @@
       "onboard_time": 1686107139,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 175124,
+      "num": 175124,
+      "word": "桃花坞 论尬的咱就没输过",
+      "onboard_time": 1686194972,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 174617,
