@@ -1,0 +1,410 @@
+{
+  "runTime": 1686212458019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610694,
+        "num": 1610694,
+        "word": "Lisa露额头",
+        "onboard_time": 1686207213,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1077329,
+        "num": 1077329,
+        "word": "鼠头鸭脖食堂意见反馈群曝光",
+        "onboard_time": 1686199119,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98569,
+        "num": 878063,
+        "word": "高考第二天",
+        "onboard_time": 1686181947,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826910,
+        "num": 826910,
+        "word": "柯以敏直播大怒",
+        "onboard_time": 1686204272,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794393,
+        "num": 794393,
+        "word": "TFBOYS十周年演唱会招商PPT",
+        "onboard_time": 1686201751,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2010352,
+        "num": 793194,
+        "word": "成都太古里明确禁止未经允许街拍",
+        "onboard_time": 1686204272,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712370,
+        "num": 712370,
+        "word": "长得还行迪丽热巴",
+        "onboard_time": 1686200975,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688666,
+        "num": 688666,
+        "word": "张艺兴起诉B站侵权",
+        "onboard_time": 1686208713,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1591769,
+        "num": 687916,
+        "word": "董某某被停职",
+        "onboard_time": 1686194372,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682561,
+        "num": 682561,
+        "word": "高考生睡过头外卖小哥将其送到考场",
+        "onboard_time": 1686208053,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 3026668,
+        "num": 680370,
+        "word": "中国电信",
+        "onboard_time": 1686207933,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 671811,
+        "num": 671811,
+        "word": "高考",
+        "onboard_time": 1686179602,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2287086,
+        "num": 667959,
+        "word": "宿管多次强奸学生聋哑母亲获刑4年",
+        "onboard_time": 1686203431,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653453,
+        "num": 664380,
+        "word": "好想做一次",
+        "onboard_time": 1686210632,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135582,
+        "num": 658845,
+        "word": "女生拒绝帮助用双膝自信进考场",
+        "onboard_time": 1686211232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222346,
+        "num": 654026,
+        "word": "河南考生吐槽统一配备文具不好用",
+        "onboard_time": 1686203131,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 870656,
+        "num": 646712,
+        "word": "吴建豪工作室态度",
+        "onboard_time": 1686208296,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817668,
+        "num": 640176,
+        "word": "中国石油大学回应",
+        "onboard_time": 1686192990,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699084,
+        "num": 637560,
+        "word": "网友偶遇宋仲基和妻子牵手逛街",
+        "onboard_time": 1686199898,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632561,
+        "num": 632561,
+        "word": "高考历史",
+        "onboard_time": 1686192271,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 584859,
+        "num": 584859,
+        "word": "王润泽和奶奶",
+        "onboard_time": 1686189570,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453677,
+        "num": 453677,
+        "word": "虞书欣直播手势",
+        "onboard_time": 1686206735,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420393,
+        "num": 420393,
+        "word": "广东电信",
+        "onboard_time": 1686209312,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 397761,
+        "num": 397761,
+        "word": "都来杜去",
+        "onboard_time": 1686179663,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361921,
+        "num": 361921,
+        "word": "官方回应江西考生迟到37分进考场",
+        "onboard_time": 1686208535,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 340365,
+        "num": 340365,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377830,
+        "num": 337938,
+        "word": "牵手门女当事人疑似清空社交账号",
+        "onboard_time": 1686210451,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312753,
+        "num": 312753,
+        "word": "杂志方怼杨紫恶评",
+        "onboard_time": 1686211174,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294275,
+        "num": 294275,
+        "word": "庆余年2",
+        "onboard_time": 1686194613,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235664,
+        "num": 263859,
+        "word": "金毛误入考场被民警请出",
+        "onboard_time": 1686206792,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375624,
+        "num": 257892,
+        "word": "牵手胡某勇女子同款裙子销量激增",
+        "onboard_time": 1686189691,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251851,
+        "num": 251851,
+        "word": "B太 外卖缺斤少两",
+        "onboard_time": 1686210930,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 238038,
+        "num": 238038,
+        "word": "李一桐把水花穿在身上",
+        "onboard_time": 1686209554,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 226719,
+        "num": 226719,
+        "word": "复旦研究生嫖娼被开除起诉学校被驳",
+        "onboard_time": 1686187111,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219938,
+        "num": 219938,
+        "word": "高考物理",
+        "onboard_time": 1686191850,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219481,
+        "num": 219481,
+        "word": "易梦玲说不要雌竞争要雄竞",
+        "onboard_time": 1686210213,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218726,
+        "num": 218726,
+        "word": "杨紫黑长直封面大片",
+        "onboard_time": 1686205591,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217231,
+        "num": 217231,
+        "word": "易烊千玺官宣微博电影之夜",
+        "onboard_time": 1686207392,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190181,
+        "num": 190181,
+        "word": "巴厘岛命案",
+        "onboard_time": 1686190349,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185455,
+        "num": 185455,
+        "word": "牵手门女主曾晒账单消费超240万",
+        "onboard_time": 1686204694,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178610,
+        "num": 178610,
+        "word": "宋茜屋顶着火到底怎么唱",
+        "onboard_time": 1686211112,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172265,
+        "num": 172265,
+        "word": "杨超越白族少女造型",
+        "onboard_time": 1686210093,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164517,
+        "num": 164517,
+        "word": "单依纯是刘亦菲颜粉",
+        "onboard_time": 1686209495,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159261,
+        "num": 159261,
+        "word": "高考完了可以翻翻大学生的微博",
+        "onboard_time": 1686204511,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156840,
+        "num": 156840,
+        "word": "肖春生退伍",
+        "onboard_time": 1686207452,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155681,
+        "num": 155681,
+        "word": "太古里",
+        "onboard_time": 1686202710,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132054,
+        "num": 132054,
+        "word": "7月kpop的回归阵容",
+        "onboard_time": 1686208651,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128547,
+        "num": 128547,
+        "word": "摄影师是立功了还是该担责",
+        "onboard_time": 1686206132,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124735,
+        "num": 124735,
+        "word": "始终要保留一定的自由和孤独",
+        "onboard_time": 1686212434,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 121856,
+        "num": 121856,
+        "word": "梅西中国行门票",
+        "onboard_time": 1686201331,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好担负起新的文化使命#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686209599585,
+  "endTime": 1686212458019,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -169,6 +169,14 @@
       "onboard_time": 1686021208,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3026668,
+      "num": 1218749,
+      "word": "中国电信",
+      "onboard_time": 1686207933,
+      "rank": 15,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2931830,
@@ -939,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1653453,
+      "num": 664380,
+      "word": "好想做一次",
+      "onboard_time": 1686210632,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1645137,
       "num": 1645137,
       "word": "黄子韬说我们不需要什么澄清",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1686199119,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1610694,
+      "num": 1610694,
+      "word": "Lisa露额头",
+      "onboard_time": 1686207213,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 1610065,
@@ -1731,12 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1218749,
-      "num": 1218749,
-      "word": "中国电信",
-      "onboard_time": 1686207933,
-      "rank": 15,
-      "category": "社会新闻,科技"
+      "raw_hot": 1222346,
+      "num": 991331,
+      "word": "河南考生吐槽统一配备文具不好用",
+      "onboard_time": 1686203131,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1215308,
@@ -2315,14 +2339,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 991331,
-      "num": 991331,
-      "word": "河南考生吐槽统一配备文具不好用",
-      "onboard_time": 1686203131,
-      "rank": 18,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 986931,
       "num": 986931,
       "word": "梅西自宣离队",
@@ -2441,14 +2457,6 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 954141,
-      "num": 954141,
-      "word": "Lisa露额头",
-      "onboard_time": 1686207213,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 951218,
@@ -2643,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 870656,
+      "num": 646712,
+      "word": "吴建豪工作室态度",
+      "onboard_time": 1686208296,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867928,
       "num": 789302,
       "word": "上海迪士尼",
@@ -2652,7 +2668,7 @@
     },
     {
       "raw_hot": 867677,
-      "num": 619579,
+      "num": 637560,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
       "onboard_time": 1686199898,
       "rank": 31,
@@ -3331,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688666,
+      "num": 688666,
+      "word": "张艺兴起诉B站侵权",
+      "onboard_time": 1686208713,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688162,
       "num": 688162,
       "word": "张艺兴 买票请认准官方票务平台",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1685800947,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682561,
+      "num": 682561,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 682510,
@@ -4315,14 +4347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511484,
-      "num": 511484,
-      "word": "吴建豪工作室态度",
-      "onboard_time": 1686208296,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 507598,
       "num": 253108,
       "word": "肖战 CHALI",
@@ -5147,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420393,
+      "num": 420393,
+      "word": "广东电信",
+      "onboard_time": 1686209312,
+      "rank": 26,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 419918,
       "num": 419918,
       "word": "柯基被砍当事人对侮辱诽谤已报警",
@@ -5715,6 +5747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377830,
+      "num": 337938,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377405,
       "num": 377405,
       "word": "我慢慢开始情绪稳定",
@@ -5992,6 +6032,14 @@
       "word": "新高考二卷数学",
       "onboard_time": 1686132219,
       "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 361921,
+      "num": 361921,
+      "word": "官方回应江西考生迟到37分进考场",
+      "onboard_time": 1686208535,
+      "rank": 30,
       "category": "教育,社会新闻"
     },
     {
@@ -6377,6 +6425,14 @@
       "onboard_time": 1685752347,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340365,
+      "num": 340365,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 340307,
@@ -7001,6 +7057,14 @@
       "onboard_time": 1686060273,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312753,
+      "num": 312753,
+      "word": "杂志方怼杨紫恶评",
+      "onboard_time": 1686211174,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312739,
@@ -7707,14 +7771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286715,
-      "num": 286715,
-      "word": "广东电信",
-      "onboard_time": 1686209312,
-      "rank": 26,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 286685,
       "num": 286685,
       "word": "齐司礼",
@@ -8267,14 +8323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269072,
-      "num": 269072,
-      "word": "官方回应江西考生迟到37分进考场",
-      "onboard_time": 1686208535,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 268903,
       "num": 268903,
       "word": "孟子义提携周一围",
@@ -8345,14 +8393,6 @@
       "onboard_time": 1685617466,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 267333,
-      "num": 267333,
-      "word": "张艺兴起诉B站侵权",
-      "onboard_time": 1686208713,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 266944,
@@ -8931,6 +8971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251851,
+      "num": 251851,
+      "word": "B太 外卖缺斤少两",
+      "onboard_time": 1686210930,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 251818,
       "num": 251818,
       "word": "最痛苦的其实是周二",
@@ -9033,14 +9081,6 @@
       "onboard_time": 1685604446,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249967,
-      "num": 249967,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 249290,
@@ -9523,6 +9563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238038,
+      "num": 238038,
+      "word": "李一桐把水花穿在身上",
+      "onboard_time": 1686209554,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 238008,
       "num": 238008,
       "word": "小狗又不懂什么是寄养",
@@ -9625,6 +9673,14 @@
       "onboard_time": 1685594971,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235664,
+      "num": 270513,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235624,
@@ -9801,14 +9857,6 @@
       "onboard_time": 1685759670,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231651,
-      "num": 270513,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231296,
@@ -10393,6 +10441,14 @@
       "onboard_time": 1686153031,
       "rank": 30,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 219481,
+      "num": 219481,
+      "word": "易梦玲说不要雌竞争要雄竞",
+      "onboard_time": 1686210213,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 219385,
@@ -12939,6 +12995,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 178610,
+      "num": 178610,
+      "word": "宋茜屋顶着火到底怎么唱",
+      "onboard_time": 1686211112,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178512,
       "num": 117397,
       "word": "热烈追梦版预告",
@@ -13233,6 +13297,14 @@
       "onboard_time": 1685592026,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172265,
+      "num": 172265,
+      "word": "杨超越白族少女造型",
+      "onboard_time": 1686210093,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 172083,
@@ -13633,6 +13705,14 @@
       "onboard_time": 1685684252,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164517,
+      "num": 164517,
+      "word": "单依纯是刘亦菲颜粉",
+      "onboard_time": 1686209495,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 164496,
@@ -14963,6 +15043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135582,
+      "num": 658845,
+      "word": "女生拒绝帮助用双膝自信进考场",
+      "onboard_time": 1686211232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "杨紫出发长春路透",
@@ -15419,14 +15507,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 125934,
-      "num": 132398,
-      "word": "单依纯是刘亦菲颜粉",
-      "onboard_time": 1686209495,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125893,
       "num": 125893,
       "word": "崔然竣Queencard舞蹈挑战",
@@ -15491,6 +15571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124735,
+      "num": 124735,
+      "word": "始终要保留一定的自由和孤独",
+      "onboard_time": 1686212434,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 124695,
       "num": 124695,
       "word": "六月你好",
@@ -15513,14 +15601,6 @@
       "onboard_time": 1686113202,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123703,
-      "num": 132316,
-      "word": "李一桐把水花穿在身上",
-      "onboard_time": 1686209554,
-      "rank": 47,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 123510,
@@ -16417,6 +16497,14 @@
       "onboard_time": 1685760869,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98569,
+      "num": 1223987,
+      "word": "高考第二天",
+      "onboard_time": 1686181947,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98550,
@@ -17491,14 +17579,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 56670,
-      "num": 1223987,
-      "word": "高考第二天",
-      "onboard_time": 1686181947,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56645,
       "num": 56645,
       "word": "赵丽颖发了粉丝修的图",
@@ -18234,6 +18314,9 @@
     },
     {
       "word": "#为强国建设民族复兴注入强大精神力量#"
+    },
+    {
+      "word": "#更好担负起新的文化使命#"
     }
   ]
 }
