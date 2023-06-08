@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686263610328,
+  "endTime": 1686266259356,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -11,15 +11,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1153377,
-      "num": 324577,
-      "word": "鼠头鸭脖高校学生称又吃出大青虫",
-      "onboard_time": 1686230130,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1282167,
+      "num": 1282167,
+      "word": "Uzi",
+      "onboard_time": 1686244939,
+      "rank": 0,
+      "category": "游戏"
     },
     {
-      "raw_hot": 1133481,
+      "raw_hot": 1183471,
       "num": 577351,
       "word": "街拍事件最新画面曝光",
       "onboard_time": 1686232772,
@@ -27,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011083,
-      "num": 1011083,
-      "word": "Uzi",
-      "onboard_time": 1686244939,
-      "rank": 0,
-      "category": "游戏"
+      "raw_hot": 1153377,
+      "num": 324577,
+      "word": "鼠头鸭脖高校学生称又吃出大青虫",
+      "onboard_time": 1686230130,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924194,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 570759,
+      "num": 257401,
+      "word": "江西通报考生迟到37分钟仍能进考场",
+      "onboard_time": 1686227851,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 570283,
       "num": 230514,
       "word": "女子将俩幼女锁房间月余致其饿死",
@@ -99,19 +107,19 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 535675,
-      "num": 257401,
-      "word": "江西通报考生迟到37分钟仍能进考场",
-      "onboard_time": 1686227851,
-      "rank": 15,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 484349,
+      "raw_hot": 532081,
       "num": 172919,
       "word": "肝脏移植前后肤色对比",
       "onboard_time": 1686239428,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515507,
+      "num": 515507,
+      "word": "北大屠夫称大学生就业难关键在父母",
+      "onboard_time": 1686256933,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -155,14 +163,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 277208,
-      "num": 277208,
-      "word": "北大屠夫称大学生就业难关键在父母",
-      "onboard_time": 1686256933,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263751,
       "num": 229357,
       "word": "肖春生佟晓梅结婚预告",
@@ -177,6 +177,14 @@
       "onboard_time": 1686230973,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251336,
+      "num": 251336,
+      "word": "女生在宿舍发现学姐2年前留信",
+      "onboard_time": 1686246796,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 248287,
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173350,
+      "num": 157458,
+      "word": "千万不要动学姐留下的东西",
+      "onboard_time": 1686265400,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168720,
       "num": 168720,
       "word": "张彬彬为还原角色瘦了20斤",
@@ -299,6 +315,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157672,
+      "num": 157672,
+      "word": "肖战梦中的那片海杀青1周年",
+      "onboard_time": 1686234934,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157452,
+      "num": 157452,
+      "word": "跟异性同事相处需要有边界感吗",
+      "onboard_time": 1686265941,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154993,
       "num": 154993,
       "word": "点燃了暑期的爆款剧",
@@ -315,11 +347,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 129839,
-      "num": 129839,
-      "word": "肖战梦中的那片海杀青1周年",
-      "onboard_time": 1686234934,
-      "rank": 38,
+      "raw_hot": 129225,
+      "num": 110984,
+      "word": "梦中的那片海",
+      "onboard_time": 1686265881,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -355,12 +387,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 111453,
+      "num": 111453,
+      "word": "外媒曝Jennie将加入漫威",
+      "onboard_time": 1686265941,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "张颂文谈被AI换脸",
+      "onboard_time": 1686241764,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 107606,
       "num": 107606,
       "word": "你最期待哪方面的生育支持措施",
       "onboard_time": 1686241645,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104365,
+      "num": 104365,
+      "word": "阿布",
+      "onboard_time": 1686265881,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 102830,
@@ -387,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101004,
-      "num": 101004,
-      "word": "女生在宿舍发现学姐2年前留信",
-      "onboard_time": 1686246796,
-      "rank": 16,
-      "category": "社会新闻,教育"
+      "raw_hot": 98271,
+      "num": 98271,
+      "word": "Amber赢到了最后",
+      "onboard_time": 1686245658,
+      "rank": 26,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 94577,
@@ -403,12 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94561,
-      "num": 94561,
-      "word": "张颂文谈被AI换脸",
-      "onboard_time": 1686241764,
-      "rank": 29,
-      "category": "社会新闻,艺人"
+      "raw_hot": 91135,
+      "num": 91135,
+      "word": "广东发布多项措施支持多生育",
+      "onboard_time": 1686243023,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85123,
+      "num": 85123,
+      "word": "肖战演技",
+      "onboard_time": 1686266243,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 82313,
@@ -451,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66073,
-      "num": 66073,
-      "word": "广东发布多项措施支持多生育",
-      "onboard_time": 1686243023,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 64922,
+      "num": 64922,
+      "word": "RNG",
+      "onboard_time": 1686251115,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 63845,
+      "num": 63845,
+      "word": "保姆级去黑头教程",
+      "onboard_time": 1686265400,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 55130,
@@ -465,22 +537,6 @@
       "onboard_time": 1686222812,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 52885,
-      "num": 52885,
-      "word": "Amber赢到了最后",
-      "onboard_time": 1686245658,
-      "rank": 26,
-      "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 51917,
-      "num": 51917,
-      "word": "RNG",
-      "onboard_time": 1686251115,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 37330,
