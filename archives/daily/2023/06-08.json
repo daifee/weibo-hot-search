@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686213213906,
+  "endTime": 1686215793847,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -17,6 +17,14 @@
       "onboard_time": 1686194372,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4302769,
+      "num": 4302769,
+      "word": "高考英语",
+      "onboard_time": 1686213514,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 3656939,
@@ -43,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3265453,
+      "num": 708690,
+      "word": "好想做一次",
+      "onboard_time": 1686210632,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3026668,
       "num": 1218749,
       "word": "中国电信",
@@ -59,12 +75,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2670013,
-      "num": 708690,
-      "word": "好想做一次",
-      "onboard_time": 1686210632,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 2590964,
+      "num": 2590964,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 2228242,
@@ -97,6 +113,14 @@
       "onboard_time": 1686189691,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1832677,
+      "num": 1832677,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1694723,
@@ -163,6 +187,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1283952,
+      "num": 697747,
+      "word": "中国电信回应广东无信号",
+      "onboard_time": 1686212975,
+      "rank": 13,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1276263,
       "num": 1276263,
       "word": "庆余年2",
@@ -225,14 +257,6 @@
       "onboard_time": 1686141273,
       "rank": 0,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 1042146,
-      "num": 1042146,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1035564,
@@ -307,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 851516,
-      "num": 697747,
-      "word": "中国电信回应广东无信号",
-      "onboard_time": 1686212975,
-      "rank": 13,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 821675,
       "num": 821675,
       "word": "陈晓更新小说",
       "onboard_time": 1686183689,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811028,
-      "num": 811028,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 806731,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693492,
+      "num": 639497,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677742,
       "num": 677742,
       "word": "粉丝齐喊China抗议主持人涉港台不当言论",
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 605258,
+      "num": 605258,
+      "word": "通知他们仨了吗",
+      "onboard_time": 1686214832,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 598931,
       "num": 511451,
       "word": "迪丽热巴评论陈紫函",
@@ -433,6 +457,14 @@
       "onboard_time": 1686145774,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526973,
+      "num": 526973,
+      "word": "杂志方怼杨紫恶评",
+      "onboard_time": 1686211174,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 511522,
@@ -473,14 +505,6 @@
       "onboard_time": 1686199719,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 432642,
-      "num": 432642,
-      "word": "杂志方怼杨紫恶评",
-      "onboard_time": 1686211174,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 431663,
@@ -547,20 +571,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386184,
+      "num": 386184,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385616,
       "num": 385616,
       "word": "太阳裁掉保罗",
       "onboard_time": 1686179482,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377830,
-      "num": 337938,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368334,
@@ -593,6 +617,14 @@
       "onboard_time": 1686180504,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363939,
+      "num": 363939,
+      "word": "刘诗诗白鹿侧颜相似度",
+      "onboard_time": 1686214296,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353138,
@@ -635,12 +667,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 328668,
+      "num": 328668,
+      "word": "孙笑川 烫伤",
+      "onboard_time": 1686212616,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 326864,
       "num": 326864,
       "word": "陆景和",
       "onboard_time": 1686196297,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326575,
+      "num": 326575,
+      "word": "Lisa 泰里泰气",
+      "onboard_time": 1686214296,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324282,
@@ -675,12 +723,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 300404,
+      "num": 300404,
+      "word": "中石油胡继勇事件还有哪些疑问需厘清",
+      "onboard_time": 1686213275,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297522,
       "num": 297522,
       "word": "SMTOWN注销将太郎ins",
       "onboard_time": 1686203548,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297204,
+      "num": 297204,
+      "word": "高考日语",
+      "onboard_time": 1686215675,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 296388,
@@ -721,6 +785,14 @@
       "onboard_time": 1686133717,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280678,
+      "num": 688767,
+      "word": "女生拒绝帮助用双膝自信进考场",
+      "onboard_time": 1686211232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277418,
@@ -779,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255172,
+      "num": 255172,
+      "word": "护心直播",
+      "onboard_time": 1686215733,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254075,
       "num": 229446,
       "word": "难怪贾玲要瘦100斤",
@@ -793,6 +873,14 @@
       "onboard_time": 1686196838,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251906,
+      "num": 251906,
+      "word": "这是捅了西瓜子的老窝了",
+      "onboard_time": 1686212375,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 251851,
@@ -860,7 +948,7 @@
     },
     {
       "raw_hot": 235664,
-      "num": 270513,
+      "num": 285600,
       "word": "金毛误入考场被民警请出",
       "onboard_time": 1686206792,
       "rank": 29,
@@ -931,6 +1019,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 216728,
+      "num": 216728,
+      "word": "高考时间",
+      "onboard_time": 1686194671,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 215629,
       "num": 215629,
       "word": "妈妈保留女儿1997年高考准考证",
@@ -963,20 +1059,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209357,
+      "num": 209357,
+      "word": "宋茜屋顶着火到底怎么唱",
+      "onboard_time": 1686211112,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208504,
       "num": 208504,
       "word": "互联网菩萨",
       "onboard_time": 1686191456,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207788,
-      "num": 207788,
-      "word": "高考时间",
-      "onboard_time": 1686194671,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 207206,
@@ -987,20 +1083,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207192,
+      "num": 207192,
+      "word": "原来这些都是seventeen啊",
+      "onboard_time": 1686213216,
+      "rank": 42,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 205892,
       "num": 205892,
       "word": "你知道卖凉菜需要许可吗",
       "onboard_time": 1686187950,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 205406,
-      "num": 205406,
-      "word": "孙笑川 烫伤",
-      "onboard_time": 1686212616,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 202682,
@@ -1025,6 +1121,14 @@
       "onboard_time": 1686192450,
       "rank": 43,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 196589,
+      "num": 196589,
+      "word": "我的跨纬度领导",
+      "onboard_time": 1686215556,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 195707,
@@ -1091,12 +1195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188533,
-      "num": 688767,
-      "word": "女生拒绝帮助用双膝自信进考场",
-      "onboard_time": 1686211232,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 188585,
+      "num": 188585,
+      "word": "上下班反差感有多大",
+      "onboard_time": 1686215254,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 187435,
@@ -1129,14 +1233,6 @@
       "onboard_time": 1686186392,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183559,
-      "num": 183559,
-      "word": "宋茜屋顶着火到底怎么唱",
-      "onboard_time": 1686211112,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 180716,
@@ -1267,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164392,
-      "num": 164392,
-      "word": "这是捅了西瓜子的老窝了",
-      "onboard_time": 1686212375,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162334,
       "num": 521206,
       "word": "考生上吐下泻铁骑送医考前送回",
@@ -1361,14 +1449,6 @@
       "onboard_time": 1686154346,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140092,
-      "num": 140092,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 133005,
@@ -1492,7 +1572,7 @@
     },
     {
       "raw_hot": 98569,
-      "num": 1223987,
+      "num": 1836817,
       "word": "高考第二天",
       "onboard_time": 1686181947,
       "rank": 2,
