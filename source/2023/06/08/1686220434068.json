@@ -1,0 +1,410 @@
+{
+  "runTime": 1686220434068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6794463,
+        "num": 6794463,
+        "word": "高考英语",
+        "onboard_time": 1686213514,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1555929,
+        "num": 4026136,
+        "word": "高考生睡过头外卖小哥将其送到考场",
+        "onboard_time": 1686208053,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 33826,
+        "num": 3410878,
+        "word": "高考第二天",
+        "onboard_time": 1686181947,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3397472,
+        "num": 3397472,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409390,
+        "num": 1797286,
+        "word": "金毛误入考场被民警请出",
+        "onboard_time": 1686206792,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1686882,
+        "num": 1686882,
+        "word": "上海英语 我是吴磊",
+        "onboard_time": 1686216698,
+        "rank": 5,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 234009,
+        "num": 1593659,
+        "word": "张桂梅还穿着那件泛白的黑衬衣",
+        "onboard_time": 1686217775,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1575252,
+        "num": 1575252,
+        "word": "957确认Uzi加入EDG",
+        "onboard_time": 1686217476,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1545013,
+        "num": 1545013,
+        "word": "通知他们仨了吗",
+        "onboard_time": 1686214832,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1254879,
+        "num": 1254879,
+        "word": "李华 两人一组怎么了",
+        "onboard_time": 1686216698,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1059941,
+        "num": 1059941,
+        "word": "牵手门女当事人疑似清空社交账号",
+        "onboard_time": 1686210451,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794419,
+        "num": 794419,
+        "word": "乙卷英语快写哭了",
+        "onboard_time": 1686218975,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 627276,
+        "num": 627276,
+        "word": "leave",
+        "onboard_time": 1686215374,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1019294,
+        "num": 614596,
+        "word": "成都太古里明确禁止未经允许街拍",
+        "onboard_time": 1686204272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37091,
+        "num": 601897,
+        "word": "乌江水位上涨188名高考生乘船赶考",
+        "onboard_time": 1686219574,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600066,
+        "num": 600066,
+        "word": "高考",
+        "onboard_time": 1686179602,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 889145,
+        "num": 598551,
+        "word": "董某某被停职",
+        "onboard_time": 1686194372,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594453,
+        "num": 594453,
+        "word": "柯以敏直播大怒",
+        "onboard_time": 1686204272,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577395,
+        "num": 577395,
+        "word": "刘诗诗白鹿侧颜相似度",
+        "onboard_time": 1686214296,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577254,
+        "num": 577254,
+        "word": "高考日语",
+        "onboard_time": 1686215675,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482105,
+        "num": 482105,
+        "word": "四川一公务员被曝出轨女同事",
+        "onboard_time": 1686219097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453127,
+        "num": 453127,
+        "word": "中国石油大学回应",
+        "onboard_time": 1686192990,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452450,
+        "num": 452450,
+        "word": "吴建豪工作室态度",
+        "onboard_time": 1686208296,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439362,
+        "num": 439362,
+        "word": "中国电信回应广东无信号",
+        "onboard_time": 1686212975,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 437921,
+        "num": 437921,
+        "word": "Lisa露额头",
+        "onboard_time": 1686207213,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424039,
+        "num": 424039,
+        "word": "听力气泡音",
+        "onboard_time": 1686218498,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405502,
+        "num": 405502,
+        "word": "LGD对战JDG",
+        "onboard_time": 1686219338,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390311,
+        "num": 390311,
+        "word": "TFBOYS十周年演唱会招商PPT",
+        "onboard_time": 1686201751,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371795,
+        "num": 371795,
+        "word": "张艺兴起诉B站侵权",
+        "onboard_time": 1686208713,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358393,
+        "num": 358393,
+        "word": "官方通报幼儿园在小便池清洗餐具",
+        "onboard_time": 1686217717,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 351028,
+        "num": 351028,
+        "word": "高考历史",
+        "onboard_time": 1686192271,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348443,
+        "num": 348443,
+        "word": "EDG AD",
+        "onboard_time": 1686180504,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339052,
+        "num": 339052,
+        "word": "杂志方怼杨紫恶评",
+        "onboard_time": 1686211174,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326369,
+        "num": 326369,
+        "word": "薛之谦衡阳",
+        "onboard_time": 1686220414,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312306,
+        "num": 312306,
+        "word": "剧集好想做一次",
+        "onboard_time": 1686210632,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308519,
+        "num": 308519,
+        "word": "中石油胡继勇事件还有哪些疑问需厘清",
+        "onboard_time": 1686213275,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304475,
+        "num": 304475,
+        "word": "高考英语甲卷 难",
+        "onboard_time": 1686216937,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 303693,
+        "num": 303693,
+        "word": "新一卷 我没惹你",
+        "onboard_time": 1686219454,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 283373,
+        "num": 283373,
+        "word": "牵手胡某勇女子同款裙子销量激增",
+        "onboard_time": 1686189691,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266452,
+        "num": 266452,
+        "word": "Lisa 泰里泰气",
+        "onboard_time": 1686214296,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248157,
+        "num": 248157,
+        "word": "孙笑川 烫伤",
+        "onboard_time": 1686212616,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240277,
+        "num": 240277,
+        "word": "鼠头鸭脖食堂意见反馈群曝光",
+        "onboard_time": 1686199119,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221868,
+        "num": 221868,
+        "word": "庆余年2",
+        "onboard_time": 1686194613,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214353,
+        "num": 214353,
+        "word": "长得还行迪丽热巴",
+        "onboard_time": 1686200975,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214293,
+        "num": 214293,
+        "word": "原来这些都是seventeen啊",
+        "onboard_time": 1686213216,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 199789,
+        "num": 199789,
+        "word": "官方回应江西考生迟到37分进考场",
+        "onboard_time": 1686208535,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 182913,
+        "num": 182913,
+        "word": "小鬼回应范丞丞去看自己演出",
+        "onboard_time": 1686215919,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176678,
+        "num": 176678,
+        "word": "网友偶遇宋仲基和妻子牵手逛街",
+        "onboard_time": 1686199898,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165139,
+        "num": 165139,
+        "word": "高考完了可以翻翻大学生的微博",
+        "onboard_time": 1686204511,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162396,
+        "num": 162396,
+        "word": "易烊千玺官宣微博电影之夜",
+        "onboard_time": 1686207392,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好担负起新的文化使命#"
+    }
+  }
+}

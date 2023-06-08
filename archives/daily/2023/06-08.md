@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/08 00:22:25 ~ 2023/06/08 18:18:12
+本榜单时间：2023/06/08 00:22:25 ~ 2023/06/08 18:33:54
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%20EDG%23" target="weibo">
+Uzi EDG（热度：3397472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%23" target="weibo">
 高考物理（热度：3325416）
 </a>
@@ -59,12 +65,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%23" target="weibo">
 中国电信（热度：3026668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Uzi%20EDG%23" target="weibo">
-Uzi EDG（热度：2936358）
 </a>
 </li>
 
@@ -112,7 +112,7 @@ Uzi EDG（热度：2936358）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%8B%B1%E8%AF%AD%20%E6%88%91%E6%98%AF%E5%90%B4%E7%A3%8A%23" target="weibo">
-上海英语 我是吴磊（热度：1653746）
+上海英语 我是吴磊（热度：1686882）
 </a>
 </li>
 
@@ -135,6 +135,12 @@ Lisa露额头（热度：1610694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23" target="weibo">
+957确认Uzi加入EDG（热度：1575252）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88%23" target="weibo">
 巴厘岛命案（热度：1556173）
 </a>
@@ -143,12 +149,6 @@ Lisa露额头（热度：1610694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%9A%E7%9F%A5%E4%BB%96%E4%BB%AC%E4%BB%A8%E4%BA%86%E5%90%97%23" target="weibo">
 通知他们仨了吗（热度：1554498）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23" target="weibo">
-957确认Uzi加入EDG（热度：1505649）
 </a>
 </li>
 
@@ -231,6 +231,12 @@ Lisa露额头（热度：1610694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%96%91%E4%BC%BC%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E8%B4%A6%E5%8F%B7%23" target="weibo">
+牵手门女当事人疑似清空社交账号（热度：1059941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8B%9B%E5%95%86PPT%23" target="weibo">
 TFBOYS十周年演唱会招商PPT（热度：1035564）
 </a>
@@ -279,12 +285,6 @@ TFBOYS十周年演唱会招商PPT（热度：1035564）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%96%91%E4%BC%BC%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E8%B4%A6%E5%8F%B7%23" target="weibo">
-牵手门女当事人疑似清空社交账号（热度：906996）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%A5%E8%AF%AD%23" target="weibo">
 高考日语（热度：895421）
 </a>
@@ -311,6 +311,12 @@ TFBOYS十周年演唱会招商PPT（热度：1035564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%87%E7%BB%BC%23" target="weibo">
 高考文综（热度：800508）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%99%E5%8D%B7%E8%8B%B1%E8%AF%AD%E5%BF%AB%E5%86%99%E5%93%AD%E4%BA%86%23" target="weibo">
+乙卷英语快写哭了（热度：794419）
 </a>
 </li>
 
@@ -347,12 +353,6 @@ TFBOYS十周年演唱会招商PPT（热度：1035564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B6%A6%E6%B3%BD%E5%92%8C%E5%A5%B6%E5%A5%B6%23" target="weibo">
 王润泽和奶奶（热度：720293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%99%E5%8D%B7%E8%8B%B1%E8%AF%AD%E5%BF%AB%E5%86%99%E5%93%AD%E4%BA%86%23" target="weibo">
-乙卷英语快写哭了（热度：697105）
 </a>
 </li>
 
@@ -417,6 +417,12 @@ leave（热度：696926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%90%8C%E4%BA%8B%23" target="weibo">
+四川一公务员被曝出轨女同事（热度：482105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD%E6%89%8B%E5%8A%BF%23" target="weibo">
 虞书欣直播手势（热度：474378）
 </a>
@@ -447,6 +453,12 @@ leave（热度：696926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%8A%9B%E6%B0%94%E6%B3%A1%E9%9F%B3%23" target="weibo">
+听力气泡音（热度：424039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%23" target="weibo">
 广东电信（热度：420393）
 </a>
@@ -471,8 +483,20 @@ leave（热度：696926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23" target="weibo">
+金毛误入考场被民警请出（热度：409390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E5%AE%8B%E6%85%A7%E4%B9%94%E5%90%8C%E6%A1%86%E7%85%A7%23" target="weibo">
 车银优宋慧乔同框照（热度：406726）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LGD%E5%AF%B9%E6%88%98JDG%23" target="weibo">
+LGD对战JDG（热度：405502）
 </a>
 </li>
 
@@ -531,6 +555,12 @@ EDG AD（热度：365066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9C%A8%E5%B0%8F%E4%BE%BF%E6%B1%A0%E6%B8%85%E6%B4%97%E9%A4%90%E5%85%B7%23" target="weibo">
+官方通报幼儿园在小便池清洗餐具（热度：358393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23NBA%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
 NBA总决赛（热度：353138）
 </a>
@@ -555,26 +585,8 @@ NBA总决赛（热度：353138）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9C%A8%E5%B0%8F%E4%BE%BF%E6%B1%A0%E6%B8%85%E6%B4%97%E9%A4%90%E5%85%B7%23" target="weibo">
-官方通报幼儿园在小便池清洗餐具（热度：346255）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%AC%91%E5%B7%9D%20%E7%83%AB%E4%BC%A4%23" target="weibo">
 孙笑川 烫伤（热度：340800）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%8A%9B%E6%B0%94%E6%B3%A1%E9%9F%B3%23" target="weibo">
-听力气泡音（热度：337367）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23" target="weibo">
-金毛误入考场被民警请出（热度：333928）
 </a>
 </li>
 
@@ -593,6 +605,12 @@ NBA总决赛（热度：353138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Lisa%20%E6%B3%B0%E9%87%8C%E6%B3%B0%E6%B0%94%23" target="weibo">
 Lisa 泰里泰气（热度：326575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%A1%A1%E9%98%B3%23" target="weibo">
+薛之谦衡阳（热度：326369）
 </a>
 </li>
 
@@ -617,6 +635,12 @@ Lisa 泰里泰气（热度：326575）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%AE%8C%E4%BA%86%E5%8F%AF%E4%BB%A5%E7%BF%BB%E7%BF%BB%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E5%BE%AE%E5%8D%9A%23" target="weibo">
 高考完了可以翻翻大学生的微博（热度：308679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%20%E6%88%91%E6%B2%A1%E6%83%B9%E4%BD%A0%23" target="weibo">
+新一卷 我没惹你（热度：303693）
 </a>
 </li>
 
@@ -741,12 +765,6 @@ B太 外卖缺斤少两（热度：251851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%90%8C%E4%BA%8B%23" target="weibo">
-四川一公务员被曝出轨女同事（热度：250172）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%8A%8A%E6%B0%B4%E8%8A%B1%E7%A9%BF%E5%9C%A8%E8%BA%AB%E4%B8%8A%23" target="weibo">
 李一桐把水花穿在身上（热度：246261）
 </a>
@@ -785,6 +803,12 @@ B太 外卖缺斤少两（热度：251851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%92%8C%E6%9B%BF%E8%BA%AB%E7%9B%B8%E4%BC%BC%E5%BA%A6%23" target="weibo">
 成毅和替身相似度（热度：235046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%98%E7%A9%BF%E7%9D%80%E9%82%A3%E4%BB%B6%E6%B3%9B%E7%99%BD%E7%9A%84%E9%BB%91%E8%A1%AC%E8%A1%A3%23" target="weibo">
+张桂梅还穿着那件泛白的黑衬衣（热度：234009）
 </a>
 </li>
 
@@ -843,12 +867,6 @@ B太 外卖缺斤少两（热度：251851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23LGD%E5%AF%B9%E6%88%98JDG%23" target="weibo">
-LGD对战JDG（热度：215755）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BF%9D%E7%95%99%E5%A5%B3%E5%84%BF1997%E5%B9%B4%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%23" target="weibo">
 妈妈保留女儿1997年高考准考证（热度：215629）
 </a>
@@ -891,12 +909,6 @@ LGD对战JDG（热度：215755）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%20%E6%88%91%E6%B2%A1%E6%83%B9%E4%BD%A0%23" target="weibo">
-新一卷 我没惹你（热度：205974）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E5%8D%96%E5%87%89%E8%8F%9C%E9%9C%80%E8%A6%81%E8%AE%B8%E5%8F%AF%E5%90%97%23" target="weibo">
 你知道卖凉菜需要许可吗（热度：205892）
 </a>
@@ -911,12 +923,6 @@ LGD对战JDG（热度：215755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%92%8C%E6%9B%BE%E6%AF%85%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
 周深和曾毅都沉默了（热度：200376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%98%E7%A9%BF%E7%9D%80%E9%82%A3%E4%BB%B6%E6%B3%9B%E7%99%BD%E7%9A%84%E9%BB%91%E8%A1%AC%E8%A1%A3%23" target="weibo">
-张桂梅还穿着那件泛白的黑衬衣（热度：199606）
 </a>
 </li>
 
@@ -1367,6 +1373,12 @@ Angelababy迪丽热巴刘亦菲珠宝大片（热度：105808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E9%AB%98%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23" target="weibo">
 30年前高考是什么样的（热度：43613）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%B1%9F%E6%B0%B4%E4%BD%8D%E4%B8%8A%E6%B6%A8188%E5%90%8D%E9%AB%98%E8%80%83%E7%94%9F%E4%B9%98%E8%88%B9%E8%B5%B6%E8%80%83%23" target="weibo">
+乌江水位上涨188名高考生乘船赶考（热度：37091）
 </a>
 </li>
 

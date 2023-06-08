@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686219492632,
+  "endTime": 1686220434068,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3397472,
+      "num": 3397472,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 3325416,
       "num": 3325416,
       "word": "高考物理",
@@ -145,14 +153,6 @@
       "onboard_time": 1686207933,
       "rank": 15,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 2936358,
-      "num": 2936358,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 2931830,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 2161704,
-      "num": 3795894,
+      "num": 4026136,
       "word": "高考生睡过头外卖小哥将其送到考场",
       "onboard_time": 1686208053,
       "rank": 43,
@@ -563,6 +563,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1686882,
+      "num": 1686882,
+      "word": "上海英语 我是吴磊",
+      "onboard_time": 1686216698,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -593,14 +601,6 @@
       "onboard_time": 1686044311,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1653746,
-      "num": 1653746,
-      "word": "上海英语 我是吴磊",
-      "onboard_time": 1686216698,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 1638983,
@@ -683,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1575252,
+      "num": 1575252,
+      "word": "957确认Uzi加入EDG",
+      "onboard_time": 1686217476,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1572951,
       "num": 1572951,
       "word": "这是工资1W以上才需考虑的事情",
@@ -737,14 +745,6 @@
       "onboard_time": 1685970630,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1505649,
-      "num": 1505649,
-      "word": "957确认Uzi加入EDG",
-      "onboard_time": 1686217476,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 1504376,
@@ -1219,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059941,
+      "num": 1059941,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1053947,
       "num": 1342377,
       "word": "双胞胎拿错准考证骁骑5分钟调换",
@@ -1491,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 906996,
-      "num": 774688,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 906117,
       "num": 906117,
       "word": "娜扎方否认高考596分",
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794419,
+      "num": 794419,
+      "word": "乙卷英语快写哭了",
+      "onboard_time": 1686218975,
+      "rank": 14,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 792996,
       "num": 792996,
       "word": "重庆防空警报",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1685950467,
       "rank": 16,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 697105,
-      "num": 697105,
-      "word": "乙卷英语快写哭了",
-      "onboard_time": 1686218975,
-      "rank": 14,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 696926,
@@ -2475,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482105,
+      "num": 482105,
+      "word": "四川一公务员被曝出轨女同事",
+      "onboard_time": 1686219097,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
@@ -2739,6 +2747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 424039,
+      "num": 424039,
+      "word": "听力气泡音",
+      "onboard_time": 1686218498,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 423100,
       "num": 393152,
       "word": "女频和男频最大的区别之一",
@@ -2835,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409390,
+      "num": 1871615,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409281,
       "num": 409281,
       "word": "儿子高考前告别重病妈妈医生善意劝导",
@@ -2889,6 +2913,14 @@
       "onboard_time": 1686185973,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405502,
+      "num": 405502,
+      "word": "LGD对战JDG",
+      "onboard_time": 1686219338,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 405217,
@@ -3227,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358393,
+      "num": 358393,
+      "word": "官方通报幼儿园在小便池清洗餐具",
+      "onboard_time": 1686217717,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "四会住建局回应业主购42套房全打通",
@@ -3355,14 +3395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346255,
-      "num": 346255,
-      "word": "官方通报幼儿园在小便池清洗餐具",
-      "onboard_time": 1686217717,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
@@ -3451,14 +3483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 337367,
-      "num": 337367,
-      "word": "听力气泡音",
-      "onboard_time": 1686218498,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 336518,
       "num": 336518,
       "word": "肖春生被捅时我的心情",
@@ -3489,14 +3513,6 @@
       "onboard_time": 1685986516,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 333928,
-      "num": 1871615,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333541,
@@ -3553,6 +3569,14 @@
       "onboard_time": 1686214296,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326369,
+      "num": 326369,
+      "word": "薛之谦衡阳",
+      "onboard_time": 1686220414,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 325704,
@@ -3745,6 +3769,14 @@
       "onboard_time": 1686031769,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303693,
+      "num": 303693,
+      "word": "新一卷 我没惹你",
+      "onboard_time": 1686219454,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 303378,
@@ -4547,14 +4579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250172,
-      "num": 250172,
-      "word": "四川一公务员被曝出轨女同事",
-      "onboard_time": 1686219097,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250157,
       "num": 250157,
       "word": "金榜题名",
@@ -4905,6 +4929,14 @@
       "onboard_time": 1685985558,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234009,
+      "num": 1593659,
+      "word": "张桂梅还穿着那件泛白的黑衬衣",
+      "onboard_time": 1686217775,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233694,
@@ -5387,14 +5419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215755,
-      "num": 215755,
-      "word": "LGD对战JDG",
-      "onboard_time": 1686219338,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215629,
       "num": 215629,
       "word": "妈妈保留女儿1997年高考准考证",
@@ -5601,14 +5625,6 @@
       "onboard_time": 1686031646,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205974,
-      "num": 205974,
-      "word": "新一卷 我没惹你",
-      "onboard_time": 1686219454,
-      "rank": 42,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 205892,
@@ -5841,14 +5857,6 @@
       "onboard_time": 1686047130,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 199606,
-      "num": 1584157,
-      "word": "张桂梅还穿着那件泛白的黑衬衣",
-      "onboard_time": 1686217775,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198930,
@@ -8292,7 +8300,7 @@
     },
     {
       "raw_hot": 98569,
-      "num": 2862696,
+      "num": 3410878,
       "word": "高考第二天",
       "onboard_time": 1686181947,
       "rank": 2,
@@ -8903,6 +8911,14 @@
       "num": 446920,
       "word": "济南800辆爱心送考车整装待发",
       "onboard_time": 1685944888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37091,
+      "num": 601897,
+      "word": "乌江水位上涨188名高考生乘船赶考",
+      "onboard_time": 1686219574,
       "rank": 14,
       "category": "社会新闻"
     },

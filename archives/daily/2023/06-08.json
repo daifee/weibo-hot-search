@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686219492632,
+  "endTime": 1686220434068,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3397472,
+      "num": 3397472,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 3325416,
       "num": 3325416,
       "word": "高考物理",
@@ -67,14 +75,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 2936358,
-      "num": 2936358,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 2740799,
       "num": 2740799,
       "word": "复旦研究生嫖娼被开除起诉学校被驳",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2161704,
-      "num": 3795894,
+      "num": 4026136,
       "word": "高考生睡过头外卖小哥将其送到考场",
       "onboard_time": 1686208053,
       "rank": 43,
@@ -131,8 +131,8 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 1653746,
-      "num": 1653746,
+      "raw_hot": 1686882,
+      "num": 1686882,
       "word": "上海英语 我是吴磊",
       "onboard_time": 1686216698,
       "rank": 41,
@@ -163,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1575252,
+      "num": 1575252,
+      "word": "957确认Uzi加入EDG",
+      "onboard_time": 1686217476,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -177,14 +185,6 @@
       "onboard_time": 1686214832,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1505649,
-      "num": 1505649,
-      "word": "957确认Uzi加入EDG",
-      "onboard_time": 1686217476,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 1465341,
@@ -291,6 +291,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 1059941,
+      "num": 1059941,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1035564,
       "num": 1035564,
       "word": "TFBOYS十周年演唱会招商PPT",
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 906996,
-      "num": 774688,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 895421,
       "num": 895421,
       "word": "高考日语",
@@ -401,6 +401,14 @@
       "onboard_time": 1686194852,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 794419,
+      "num": 794419,
+      "word": "乙卷英语快写哭了",
+      "onboard_time": 1686218975,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 786898,
@@ -449,14 +457,6 @@
       "onboard_time": 1686189570,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 697105,
-      "num": 697105,
-      "word": "乙卷英语快写哭了",
-      "onboard_time": 1686218975,
-      "rank": 14,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 696926,
@@ -539,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 482105,
+      "num": 482105,
+      "word": "四川一公务员被曝出轨女同事",
+      "onboard_time": 1686219097,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474378,
       "num": 474378,
       "word": "虞书欣直播手势",
@@ -579,6 +587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 424039,
+      "num": 424039,
+      "word": "听力气泡音",
+      "onboard_time": 1686218498,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 420393,
       "num": 420393,
       "word": "广东电信",
@@ -611,12 +627,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 409390,
+      "num": 1871615,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406726,
       "num": 406726,
       "word": "车银优宋慧乔同框照",
       "onboard_time": 1686185973,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405502,
+      "num": 405502,
+      "word": "LGD对战JDG",
+      "onboard_time": 1686219338,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 401547,
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358393,
+      "num": 358393,
+      "word": "官方通报幼儿园在小便池清洗餐具",
+      "onboard_time": 1686217717,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 353138,
       "num": 353138,
       "word": "NBA总决赛",
@@ -723,36 +763,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 346255,
-      "num": 346255,
-      "word": "官方通报幼儿园在小便池清洗餐具",
-      "onboard_time": 1686217717,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 340800,
       "num": 340800,
       "word": "孙笑川 烫伤",
       "onboard_time": 1686212616,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 337367,
-      "num": 337367,
-      "word": "听力气泡音",
-      "onboard_time": 1686218498,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 333928,
-      "num": 1871615,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333541,
@@ -777,6 +793,14 @@
       "onboard_time": 1686214296,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326369,
+      "num": 326369,
+      "word": "薛之谦衡阳",
+      "onboard_time": 1686220414,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 324282,
@@ -809,6 +833,14 @@
       "onboard_time": 1686204511,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 303693,
+      "num": 303693,
+      "word": "新一卷 我没惹你",
+      "onboard_time": 1686219454,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 301773,
@@ -971,14 +1003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250172,
-      "num": 250172,
-      "word": "四川一公务员被曝出轨女同事",
-      "onboard_time": 1686219097,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246261,
       "num": 246261,
       "word": "李一桐把水花穿在身上",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1686149376,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234009,
+      "num": 1593659,
+      "word": "张桂梅还穿着那件泛白的黑衬衣",
+      "onboard_time": 1686217775,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233443,
@@ -1107,14 +1139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 215755,
-      "num": 215755,
-      "word": "LGD对战JDG",
-      "onboard_time": 1686219338,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215629,
       "num": 215629,
       "word": "妈妈保留女儿1997年高考准考证",
@@ -1171,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205974,
-      "num": 205974,
-      "word": "新一卷 我没惹你",
-      "onboard_time": 1686219454,
-      "rank": 42,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 205892,
       "num": 205892,
       "word": "你知道卖凉菜需要许可吗",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1686205170,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199606,
-      "num": 1584157,
-      "word": "张桂梅还穿着那件泛白的黑衬衣",
-      "onboard_time": 1686217775,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197716,
@@ -1676,7 +1684,7 @@
     },
     {
       "raw_hot": 98569,
-      "num": 2862696,
+      "num": 3410878,
       "word": "高考第二天",
       "onboard_time": 1686181947,
       "rank": 2,
@@ -1807,6 +1815,14 @@
       "num": 647450,
       "word": "30年前高考是什么样的",
       "onboard_time": 1686216277,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37091,
+      "num": 601897,
+      "word": "乌江水位上涨188名高考生乘船赶考",
+      "onboard_time": 1686219574,
       "rank": 14,
       "category": "社会新闻"
     },
