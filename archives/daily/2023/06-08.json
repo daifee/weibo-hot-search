@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686227559037,
+  "endTime": 1686228518267,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1130851,
+      "num": 1130851,
+      "word": "易梦玲主动加沈月微信",
+      "onboard_time": 1686222393,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1109352,
       "num": 1109352,
       "word": "演女丑出圈是一种什么体验",
@@ -305,14 +313,6 @@
       "onboard_time": 1686141273,
       "rank": 0,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 1041610,
-      "num": 1041610,
-      "word": "易梦玲主动加沈月微信",
-      "onboard_time": 1686222393,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1035564,
@@ -345,6 +345,14 @@
       "onboard_time": 1686194012,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 972203,
+      "num": 2194916,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 972073,
@@ -387,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 884057,
+      "num": 603318,
+      "word": "女子将俩幼女锁房间月余致其饿死",
+      "onboard_time": 1686222332,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867677,
       "num": 667189,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
@@ -425,6 +441,14 @@
       "onboard_time": 1686218975,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 789853,
+      "num": 686351,
+      "word": "刘诗诗白鹿侧颜相似度",
+      "onboard_time": 1686214296,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 786898,
@@ -491,22 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 686630,
-      "num": 2194916,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686351,
-      "num": 686351,
-      "word": "刘诗诗白鹿侧颜相似度",
-      "onboard_time": 1686214296,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 677742,
       "num": 677742,
       "word": "粉丝齐喊China抗议主持人涉港台不当言论",
@@ -563,14 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 550366,
-      "num": 550366,
-      "word": "女子将俩幼女锁房间月余致其饿死",
-      "onboard_time": 1686222332,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511522,
       "num": 511522,
       "word": "高考700分和存款700万你要哪个",
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470873,
+      "num": 322070,
+      "word": "夫妻收废品为生丈夫去世被发现出轨",
+      "onboard_time": 1686224671,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453868,
       "num": 236550,
       "word": "律师谈国企领导与异性亲密逛街被拍",
@@ -617,14 +625,6 @@
       "onboard_time": 1686199719,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 434920,
-      "num": 303453,
-      "word": "夫妻收废品为生丈夫去世被发现出轨",
-      "onboard_time": 1686224671,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431663,
@@ -867,6 +867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 310925,
+      "num": 310925,
+      "word": "Lisa留刘海的原因",
+      "onboard_time": 1686226769,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308679,
       "num": 308679,
       "word": "高考完了可以翻翻大学生的微博",
@@ -963,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276743,
+      "num": 588889,
+      "word": "医护狂奔6楼10分钟急救高考生",
+      "onboard_time": 1686225630,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274779,
       "num": 274779,
       "word": "EXO将拍摄团综",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1686184951,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255914,
+      "num": 255914,
+      "word": "江西通报考生迟到37分钟仍能进考场",
+      "onboard_time": 1686227851,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 255172,
@@ -1259,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209752,
+      "num": 209752,
+      "word": "22届被数学创 23届被英语创",
+      "onboard_time": 1686225873,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 209357,
       "num": 209357,
       "word": "宋茜屋顶着火到底怎么唱",
@@ -1387,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192345,
+      "num": 192345,
+      "word": "王鹤棣怎么又黑了",
+      "onboard_time": 1686228211,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190065,
       "num": 190065,
       "word": "肖春生姐姐怀孕了",
@@ -1451,12 +1491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183389,
-      "num": 183389,
-      "word": "Lisa留刘海的原因",
-      "onboard_time": 1686226769,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 183222,
+      "num": 183222,
+      "word": "中国人数学好 语言buff",
+      "onboard_time": 1686227550,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 180716,
@@ -1499,28 +1539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177067,
+      "num": 177067,
+      "word": "薛之谦巡演官宣两城空降",
+      "onboard_time": 1686227671,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176775,
       "num": 176775,
       "word": "杨超越白族少女造型",
       "onboard_time": 1686210093,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175069,
-      "num": 554075,
-      "word": "医护狂奔6楼10分钟急救高考生",
-      "onboard_time": 1686225630,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173939,
-      "num": 173939,
-      "word": "22届被数学创 23届被英语创",
-      "onboard_time": 1686225873,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 173935,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1686201992,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166971,
+      "num": 166971,
+      "word": "不同年龄段女性体检建议",
+      "onboard_time": 1686225272,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165946,
@@ -1699,12 +1739,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138793,
-      "num": 138793,
-      "word": "不同年龄段女性体检建议",
-      "onboard_time": 1686225272,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 134298,
+      "num": 134298,
+      "word": "2023高考你遇到了哪些暖心瞬间",
+      "onboard_time": 1686228391,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 134005,
+      "num": 134005,
+      "word": "TFBOYS演唱会流程图",
+      "onboard_time": 1686228451,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 133005,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1686224431,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123515,
-      "num": 123515,
-      "word": "中国人数学好 语言buff",
-      "onboard_time": 1686227550,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 123068,
