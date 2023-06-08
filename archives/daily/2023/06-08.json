@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686230638740,
+  "endTime": 1686231335850,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -107,6 +107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2119706,
+      "num": 514071,
+      "word": "江西通报考生迟到37分钟仍能进考场",
+      "onboard_time": 1686227851,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1927618,
       "num": 1026937,
       "word": "中石油胡继勇被免职",
@@ -129,14 +137,6 @@
       "onboard_time": 1686189691,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1801059,
-      "num": 505863,
-      "word": "江西通报考生迟到37分钟仍能进考场",
-      "onboard_time": 1686227851,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1694723,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1254518,
+      "num": 898216,
+      "word": "女子将俩幼女锁房间月余致其饿死",
+      "onboard_time": 1686222332,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234717,
       "num": 1234717,
       "word": "柯以敏直播大怒",
@@ -289,14 +297,6 @@
       "onboard_time": 1686191729,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1146360,
-      "num": 898216,
-      "word": "女子将俩幼女锁房间月余致其饿死",
-      "onboard_time": 1686222332,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1130851,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896423,
+      "num": 896423,
+      "word": "Lisa留刘海的原因",
+      "onboard_time": 1686226769,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 895421,
       "num": 895421,
       "word": "高考日语",
@@ -417,14 +425,6 @@
       "onboard_time": 1686199898,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 843137,
-      "num": 843137,
-      "word": "Lisa留刘海的原因",
-      "onboard_time": 1686226769,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 821675,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715148,
+      "num": 715148,
+      "word": "TFBOYS演唱会流程图",
+      "onboard_time": 1686228451,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 696926,
       "num": 696926,
       "word": "leave",
@@ -555,20 +563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614325,
+      "num": 614325,
+      "word": "鼠头鸭脖高校学生称又吃出大青虫",
+      "onboard_time": 1686230130,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598931,
       "num": 511451,
       "word": "迪丽热巴评论陈紫函",
       "onboard_time": 1686183150,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 596392,
-      "num": 596392,
-      "word": "TFBOYS演唱会流程图",
-      "onboard_time": 1686228451,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 591736,
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 494569,
+      "num": 494569,
+      "word": "王鹤棣怎么又黑了",
+      "onboard_time": 1686228211,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474378,
       "num": 474378,
       "word": "虞书欣直播手势",
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 470873,
-      "num": 379517,
+      "num": 404722,
       "word": "夫妻收废品为生丈夫去世被发现出轨",
       "onboard_time": 1686224671,
       "rank": 20,
@@ -715,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 404395,
-      "num": 404395,
-      "word": "王鹤棣怎么又黑了",
-      "onboard_time": 1686228211,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 401547,
       "num": 401547,
       "word": "一卷历史 两篇小论文",
@@ -745,6 +753,14 @@
       "onboard_time": 1686139654,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 391692,
+      "num": 391692,
+      "word": "高圆圆吃了我的刀削面",
+      "onboard_time": 1686229470,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 385616,
@@ -971,14 +987,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 285433,
-      "num": 285433,
-      "word": "高圆圆吃了我的刀削面",
-      "onboard_time": 1686229470,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284945,
       "num": 284945,
       "word": "某某",
@@ -1131,20 +1139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242902,
+      "num": 242902,
+      "word": "WBG战胜LNG",
+      "onboard_time": 1686230130,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241824,
       "num": 241824,
       "word": "肖春生退伍",
       "onboard_time": 1686207452,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 239918,
-      "num": 239918,
-      "word": "鼠头鸭脖高校学生称又吃出大青虫",
-      "onboard_time": 1686230130,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238803,
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199887,
+      "num": 199887,
+      "word": "爱奇艺暑期档排播剧集",
+      "onboard_time": 1686230973,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199755,
       "num": 199755,
       "word": "你当年高考英语考多少分",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1686215254,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188245,
-      "num": 188245,
-      "word": "WBG战胜LNG",
-      "onboard_time": 1686230130,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 187435,
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68839,
+      "num": 516321,
+      "word": "城管暖心分享午餐给候考女孩",
+      "onboard_time": 1686229232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67790,
       "num": 166763,
       "word": "解锁千年古镇新玩法",
@@ -2040,14 +2056,6 @@
       "word": "这份高考祝福穿越百年",
       "onboard_time": 1686144156,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49673,
-      "num": 506725,
-      "word": "城管暖心分享午餐给候考女孩",
-      "onboard_time": 1686229232,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
