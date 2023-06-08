@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686249212828,
+  "endTime": 1686251672571,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -17171,6 +17171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101004,
+      "num": 101004,
+      "word": "女生在宿舍发现学姐2年前留信",
+      "onboard_time": 1686246796,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 100984,
       "num": 414591,
       "word": "公交师傅等红灯间隙救了个人",
@@ -17345,14 +17353,6 @@
       "onboard_time": 1686241764,
       "rank": 29,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 94450,
-      "num": 94450,
-      "word": "女生在宿舍发现学姐2年前留信",
-      "onboard_time": 1686246796,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 94171,
@@ -18937,6 +18937,14 @@
       "onboard_time": 1685595629,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20958,
+      "num": 23899,
+      "word": "RNG",
+      "onboard_time": 1686251115,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 20942,

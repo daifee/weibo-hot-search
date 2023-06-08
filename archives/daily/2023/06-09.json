@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686249212828,
+  "endTime": 1686251672571,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101004,
+      "num": 101004,
+      "word": "女生在宿舍发现学姐2年前留信",
+      "onboard_time": 1686246796,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 100609,
       "num": 100609,
       "word": "转学后发现老师也转来了",
@@ -393,14 +401,6 @@
       "onboard_time": 1686241764,
       "rank": 29,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 94450,
-      "num": 94450,
-      "word": "女生在宿舍发现学姐2年前留信",
-      "onboard_time": 1686246796,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 82313,
@@ -481,6 +481,14 @@
       "onboard_time": 1686181947,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20958,
+      "num": 23899,
+      "word": "RNG",
+      "onboard_time": 1686251115,
+      "rank": 47,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
