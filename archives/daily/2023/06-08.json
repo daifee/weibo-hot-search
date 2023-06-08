@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686198036857,
+  "endTime": 1686198875412,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8931743,
-      "num": 8931743,
+      "raw_hot": 9705953,
+      "num": 9705953,
       "word": "董某某被停职",
       "onboard_time": 1686194372,
       "rank": 31,
@@ -115,6 +115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1276263,
+      "num": 1276263,
+      "word": "庆余年2",
+      "onboard_time": 1686194613,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1168432,
       "num": 753527,
       "word": "虞书欣工作室否认恋情",
@@ -163,14 +171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 982888,
-      "num": 982888,
-      "word": "庆余年2",
-      "onboard_time": 1686194613,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 972073,
       "num": 186078,
       "word": "北极鲶鱼",
@@ -185,6 +185,14 @@
       "onboard_time": 1686182790,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872082,
+      "num": 872082,
+      "word": "文综乙卷 写不完",
+      "onboard_time": 1686197561,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 821675,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 598931,
-      "num": 405207,
+      "num": 511451,
       "word": "迪丽热巴评论陈紫函",
       "onboard_time": 1686183150,
       "rank": 22,
@@ -281,6 +289,14 @@
       "onboard_time": 1686145774,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511522,
+      "num": 511522,
+      "word": "高考700分和存款700万你要哪个",
+      "onboard_time": 1686196778,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506525,
@@ -371,14 +387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 357161,
-      "num": 357161,
-      "word": "文综乙卷 写不完",
-      "onboard_time": 1686197561,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 353138,
       "num": 353138,
       "word": "NBA总决赛",
@@ -395,16 +403,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 329543,
-      "num": 329543,
-      "word": "高考700分和存款700万你要哪个",
-      "onboard_time": 1686196778,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 347479,
+      "num": 347479,
+      "word": "张颂文狂飙后首次回深",
+      "onboard_time": 1686195756,
+      "rank": 30,
+      "category": "艺人"
     },
     {
-      "raw_hot": 325174,
-      "num": 325174,
+      "raw_hot": 326864,
+      "num": 326864,
       "word": "陆景和",
       "onboard_time": 1686196297,
       "rank": 26,
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295985,
-      "num": 295985,
-      "word": "张颂文狂飙后首次回深",
-      "onboard_time": 1686195756,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 292319,
+      "num": 292319,
+      "word": "我去夏威夷测二氧化碳",
+      "onboard_time": 1686198100,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 286727,
@@ -457,6 +465,14 @@
       "onboard_time": 1686146853,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 286167,
+      "num": 286167,
+      "word": "江苏人真的奶茶拌饭吃吗",
+      "onboard_time": 1686196539,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 284945,
@@ -571,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229206,
-      "num": 229206,
-      "word": "江苏人真的奶茶拌饭吃吗",
-      "onboard_time": 1686196539,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 225401,
       "num": 225401,
       "word": "黄渤 让观众记住的不是名字写在哪里",
@@ -633,6 +641,14 @@
       "onboard_time": 1686194671,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 206358,
+      "num": 641781,
+      "word": "50岁妈妈三战上岸中国美院",
+      "onboard_time": 1686196838,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205892,
@@ -841,14 +857,6 @@
       "onboard_time": 1686145834,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136086,
-      "num": 626848,
-      "word": "50岁妈妈三战上岸中国美院",
-      "onboard_time": 1686196838,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133005,
