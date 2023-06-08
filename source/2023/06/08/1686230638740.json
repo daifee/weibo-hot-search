@@ -1,0 +1,410 @@
+{
+  "runTime": 1686230638740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2702144,
+        "num": 2702144,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 999742,
+        "num": 999742,
+        "word": "957确认Uzi加入EDG",
+        "onboard_time": 1686217476,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31342,
+        "num": 920906,
+        "word": "高考第二天",
+        "onboard_time": 1686181947,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146360,
+        "num": 898216,
+        "word": "女子将俩幼女锁房间月余致其饿死",
+        "onboard_time": 1686222332,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855289,
+        "num": 855289,
+        "word": "金毛误入考场被民警请出",
+        "onboard_time": 1686206792,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843137,
+        "num": 843137,
+        "word": "Lisa留刘海的原因",
+        "onboard_time": 1686226769,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 827860,
+        "num": 827860,
+        "word": "易梦玲主动加沈月微信",
+        "onboard_time": 1686222393,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 807610,
+        "num": 807610,
+        "word": "成都太古里明确禁止未经允许街拍",
+        "onboard_time": 1686204272,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696650,
+        "num": 696650,
+        "word": "高考英语",
+        "onboard_time": 1686213514,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 596392,
+        "num": 596392,
+        "word": "TFBOYS演唱会流程图",
+        "onboard_time": 1686228451,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1007352,
+        "num": 594684,
+        "word": "四川一公务员被曝出轨女同事",
+        "onboard_time": 1686219097,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700798,
+        "num": 586816,
+        "word": "刘诗诗白鹿侧颜相似度",
+        "onboard_time": 1686214296,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 562888,
+        "num": 562888,
+        "word": "上海英语 我是吴磊",
+        "onboard_time": 1686216698,
+        "rank": 12,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 509092,
+        "num": 509092,
+        "word": "牵手门女当事人疑似清空社交账号",
+        "onboard_time": 1686210451,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49673,
+        "num": 506725,
+        "word": "城管暖心分享午餐给候考女孩",
+        "onboard_time": 1686229232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801059,
+        "num": 505863,
+        "word": "江西通报考生迟到37分钟仍能进考场",
+        "onboard_time": 1686227851,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 504669,
+        "num": 504669,
+        "word": "董某某被停职",
+        "onboard_time": 1686194372,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461815,
+        "num": 461815,
+        "word": "通知他们仨了吗",
+        "onboard_time": 1686214832,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 404395,
+        "num": 404395,
+        "word": "王鹤棣怎么又黑了",
+        "onboard_time": 1686228211,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390762,
+        "num": 390762,
+        "word": "leave",
+        "onboard_time": 1686215374,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379517,
+        "num": 379517,
+        "word": "夫妻收废品为生丈夫去世被发现出轨",
+        "onboard_time": 1686224671,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285433,
+        "num": 285433,
+        "word": "高圆圆吃了我的刀削面",
+        "onboard_time": 1686229470,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277686,
+        "num": 277686,
+        "word": "圣枪哥确认Uzi在EDG基地",
+        "onboard_time": 1686221913,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272217,
+        "num": 272217,
+        "word": "EDG AD",
+        "onboard_time": 1686180504,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265568,
+        "num": 265568,
+        "word": "张艺兴起诉B站侵权",
+        "onboard_time": 1686208713,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 239918,
+        "num": 239918,
+        "word": "鼠头鸭脖高校学生称又吃出大青虫",
+        "onboard_time": 1686230130,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238101,
+        "num": 238101,
+        "word": "中国石油大学回应",
+        "onboard_time": 1686192990,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216766,
+        "num": 216766,
+        "word": "Lisa露额头",
+        "onboard_time": 1686207213,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209146,
+        "num": 209146,
+        "word": "医护狂奔6楼10分钟急救高考生",
+        "onboard_time": 1686225630,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207010,
+        "num": 207010,
+        "word": "中石油胡继勇事件还有哪些疑问需厘清",
+        "onboard_time": 1686213275,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204950,
+        "num": 204950,
+        "word": "22届被数学创 23届被英语创",
+        "onboard_time": 1686225873,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195110,
+        "num": 195110,
+        "word": "高考生睡过头外卖小哥将其送到考场",
+        "onboard_time": 1686208053,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 188245,
+        "num": 188245,
+        "word": "WBG战胜LNG",
+        "onboard_time": 1686230130,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175957,
+        "num": 175957,
+        "word": "官方通报幼儿园在小便池清洗餐具",
+        "onboard_time": 1686217717,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172840,
+        "num": 172840,
+        "word": "LNG对战WBG",
+        "onboard_time": 1686226050,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171382,
+        "num": 171382,
+        "word": "剧集好想做一次",
+        "onboard_time": 1686210632,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169160,
+        "num": 169160,
+        "word": "毛不易说何书桓确实很渣",
+        "onboard_time": 1686223411,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165151,
+        "num": 165151,
+        "word": "追肖战新剧的我belike",
+        "onboard_time": 1686222273,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160184,
+        "num": 160184,
+        "word": "中国人数学好 语言buff",
+        "onboard_time": 1686227550,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158288,
+        "num": 158288,
+        "word": "不同年龄段女性体检建议",
+        "onboard_time": 1686225272,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "薛之谦巡演官宣两城空降",
+        "onboard_time": 1686227671,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156519,
+        "num": 156519,
+        "word": "EDG老板关注Uzi",
+        "onboard_time": 1686222631,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 154216,
+        "word": "高考历史",
+        "onboard_time": 1686192271,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148615,
+        "num": 148615,
+        "word": "柯以敏直播大怒",
+        "onboard_time": 1686204272,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145161,
+        "num": 145161,
+        "word": "吴建豪工作室态度",
+        "onboard_time": 1686208296,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135578,
+        "num": 135578,
+        "word": "孙笑川 烫伤",
+        "onboard_time": 1686212616,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130196,
+        "num": 130196,
+        "word": "陕西文旅厅没收到TFBOYS十周年演唱会申请",
+        "onboard_time": 1686222812,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127489,
+        "num": 127489,
+        "word": "中国传媒大学直播",
+        "onboard_time": 1686221732,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123473,
+        "num": 123473,
+        "word": "种地吧",
+        "onboard_time": 1686228809,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120391,
+        "num": 120391,
+        "word": "乙卷英语快写哭了",
+        "onboard_time": 1686218975,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广电青年信仰的力量#"
+    }
+  }
+}

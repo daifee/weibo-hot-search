@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686228518267,
+  "endTime": 1686230638740,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -129,6 +129,14 @@
       "onboard_time": 1686189691,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1801059,
+      "num": 505863,
+      "word": "江西通报考生迟到37分钟仍能进考场",
+      "onboard_time": 1686227851,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1694723,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1146360,
+      "num": 898216,
+      "word": "女子将俩幼女锁房间月余致其饿死",
+      "onboard_time": 1686222332,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1130851,
       "num": 1130851,
       "word": "易梦玲主动加沈月微信",
@@ -395,20 +411,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 884057,
-      "num": 603318,
-      "word": "女子将俩幼女锁房间月余致其饿死",
-      "onboard_time": 1686222332,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 867677,
       "num": 667189,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
       "onboard_time": 1686199898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843137,
+      "num": 843137,
+      "word": "Lisa留刘海的原因",
+      "onboard_time": 1686226769,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 821675,
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596392,
+      "num": 596392,
+      "word": "TFBOYS演唱会流程图",
+      "onboard_time": 1686228451,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 591736,
       "num": 591736,
       "word": "杂志方怼杨紫恶评",
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 470873,
-      "num": 322070,
+      "num": 379517,
       "word": "夫妻收废品为生丈夫去世被发现出轨",
       "onboard_time": 1686224671,
       "rank": 20,
@@ -689,6 +713,14 @@
       "onboard_time": 1686219338,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404395,
+      "num": 404395,
+      "word": "王鹤棣怎么又黑了",
+      "onboard_time": 1686228211,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401547,
@@ -867,14 +899,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 310925,
-      "num": 310925,
-      "word": "Lisa留刘海的原因",
-      "onboard_time": 1686226769,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 308679,
       "num": 308679,
       "word": "高考完了可以翻翻大学生的微博",
@@ -945,6 +969,14 @@
       "onboard_time": 1686146853,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 285433,
+      "num": 285433,
+      "word": "高圆圆吃了我的刀削面",
+      "onboard_time": 1686229470,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 284945,
@@ -1027,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255914,
-      "num": 255914,
-      "word": "江西通报考生迟到37分钟仍能进考场",
-      "onboard_time": 1686227851,
-      "rank": 25,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 255172,
       "num": 255172,
       "word": "护心直播",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1686207452,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239918,
+      "num": 239918,
+      "word": "鼠头鸭脖高校学生称又吃出大青虫",
+      "onboard_time": 1686230130,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238803,
@@ -1419,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192345,
-      "num": 192345,
-      "word": "王鹤棣怎么又黑了",
-      "onboard_time": 1686228211,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190065,
       "num": 190065,
       "word": "肖春生姐姐怀孕了",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1686215254,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188245,
+      "num": 188245,
+      "word": "WBG战胜LNG",
+      "onboard_time": 1686230130,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 187435,
@@ -1747,14 +1779,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 134005,
-      "num": 134005,
-      "word": "TFBOYS演唱会流程图",
-      "onboard_time": 1686228451,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 133005,
       "num": 133005,
       "word": "班主任给全班请了十年的假",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1686224431,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123473,
+      "num": 123473,
+      "word": "种地吧",
+      "onboard_time": 1686228809,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 123068,
@@ -2011,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49673,
+      "num": 506725,
+      "word": "城管暖心分享午餐给候考女孩",
+      "onboard_time": 1686229232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43613,
       "num": 647450,
       "word": "30年前高考是什么样的",
@@ -2087,6 +2127,9 @@
     },
     {
       "word": "#更好担负起新的文化使命#"
+    },
+    {
+      "word": "#广电青年信仰的力量#"
     }
   ]
 }
