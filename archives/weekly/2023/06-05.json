@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686215793847,
+  "endTime": 1686216814808,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -75,8 +75,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 4302769,
-      "num": 4302769,
+      "raw_hot": 5253330,
+      "num": 5253330,
       "word": "高考英语",
       "onboard_time": 1686213514,
       "rank": 0,
@@ -145,6 +145,14 @@
       "onboard_time": 1686207933,
       "rank": 15,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2936358,
+      "num": 2936358,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 2931830,
@@ -217,14 +225,6 @@
       "onboard_time": 1686119434,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2590964,
-      "num": 2590964,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 2558192,
@@ -451,6 +451,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 1971527,
+      "num": 1971527,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1955577,
       "num": 1955577,
       "word": "甲卷数学 边考边哭",
@@ -505,14 +513,6 @@
       "onboard_time": 1686107741,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1832677,
-      "num": 1832677,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1826995,
@@ -705,6 +705,14 @@
       "onboard_time": 1685922685,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1529576,
+      "num": 1529576,
+      "word": "通知他们仨了吗",
+      "onboard_time": 1686214832,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1522821,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 1283952,
-      "num": 697747,
+      "num": 800068,
       "word": "中国电信回应广东无信号",
       "onboard_time": 1686212975,
       "rank": 13,
@@ -1459,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 906996,
+      "num": 774688,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906117,
       "num": 906117,
       "word": "娜扎方否认高考596分",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1686125072,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 895421,
+      "num": 895421,
+      "word": "高考日语",
+      "onboard_time": 1686215675,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 879069,
@@ -1915,20 +1939,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 696926,
+      "num": 696926,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 694951,
       "num": 694951,
       "word": "第一眼被任敏惊艳到了",
       "onboard_time": 1685938534,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 693492,
-      "num": 639497,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685055,
@@ -2083,14 +2107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 605258,
-      "num": 605258,
-      "word": "通知他们仨了吗",
-      "onboard_time": 1686214832,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 605011,
       "num": 565516,
       "word": "难怪贾玲要瘦100斤",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 591736,
+      "num": 591736,
+      "word": "杂志方怼杨紫恶评",
+      "onboard_time": 1686211174,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 588438,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1686022409,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526973,
-      "num": 526973,
-      "word": "杂志方怼杨紫恶评",
-      "onboard_time": 1686211174,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 521409,
@@ -2521,6 +2537,14 @@
       "onboard_time": 1686054628,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 459951,
+      "num": 459951,
+      "word": "刘诗诗白鹿侧颜相似度",
+      "onboard_time": 1686214296,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459316,
@@ -2907,14 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386184,
-      "num": 386184,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 385616,
       "num": 385616,
       "word": "太阳裁掉保罗",
@@ -3099,14 +3115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363939,
-      "num": 363939,
-      "word": "刘诗诗白鹿侧颜相似度",
-      "onboard_time": 1686214296,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 362989,
       "num": 271671,
       "word": "林一文俊辉约饭",
@@ -3161,6 +3169,14 @@
       "onboard_time": 1686129467,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 359088,
+      "num": 359088,
+      "word": "中石油胡继勇事件还有哪些疑问需厘清",
+      "onboard_time": 1686213275,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357674,
@@ -3347,6 +3363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 340800,
+      "num": 340800,
+      "word": "孙笑川 烫伤",
+      "onboard_time": 1686212616,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 338936,
       "num": 338936,
       "word": "迪丽热巴说安旎得继续努力啊",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1685934929,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328668,
-      "num": 328668,
-      "word": "孙笑川 烫伤",
-      "onboard_time": 1686212616,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 328570,
@@ -3675,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301773,
+      "num": 301773,
+      "word": "这是捅了西瓜子的老窝了",
+      "onboard_time": 1686212375,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301650,
       "num": 287781,
       "word": "后陡门的夏天",
@@ -3689,14 +3713,6 @@
       "onboard_time": 1685981426,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300404,
-      "num": 300404,
-      "word": "中石油胡继勇事件还有哪些疑问需厘清",
-      "onboard_time": 1686213275,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300377,
@@ -3761,14 +3777,6 @@
       "onboard_time": 1685963248,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297204,
-      "num": 297204,
-      "word": "高考日语",
-      "onboard_time": 1686215675,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 296388,
@@ -4387,14 +4395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251906,
-      "num": 251906,
-      "word": "这是捅了西瓜子的老窝了",
-      "onboard_time": 1686212375,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251859,
       "num": 251859,
       "word": "医学生网上挂号提问医生答完退费",
@@ -4841,6 +4841,14 @@
       "onboard_time": 1685985079,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 233443,
+      "num": 233443,
+      "word": "原来这些都是seventeen啊",
+      "onboard_time": 1686213216,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 233253,
@@ -5491,14 +5499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207192,
-      "num": 207192,
-      "word": "原来这些都是seventeen啊",
-      "onboard_time": 1686213216,
-      "rank": 42,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 207006,
       "num": 207006,
       "word": "AL战胜TT",
@@ -5771,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198559,
+      "num": 198559,
+      "word": "上海英语 我是吴磊",
+      "onboard_time": 1686216698,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198479,
       "num": 198479,
       "word": "鞠婧祎歪头",
@@ -5881,6 +5889,14 @@
       "onboard_time": 1686194372,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "李华 两人一组怎么了",
+      "onboard_time": 1686216698,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 195254,
@@ -6217,6 +6233,14 @@
       "onboard_time": 1685939312,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187332,
+      "num": 187332,
+      "word": "小鬼回应范丞丞去看自己演出",
+      "onboard_time": 1686215919,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 187240,
@@ -8188,7 +8212,7 @@
     },
     {
       "raw_hot": 98569,
-      "num": 1836817,
+      "num": 2206411,
       "word": "高考第二天",
       "onboard_time": 1686181947,
       "rank": 2,
@@ -8531,6 +8555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67790,
+      "num": 166763,
+      "word": "解锁千年古镇新玩法",
+      "onboard_time": 1686216338,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66934,
       "num": 4055514,
       "word": "首艘国产大型邮轮爱达魔都号出坞",
@@ -8697,6 +8729,14 @@
       "onboard_time": 1685880687,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 43613,
+      "num": 647450,
+      "word": "30年前高考是什么样的",
+      "onboard_time": 1686216277,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43365,

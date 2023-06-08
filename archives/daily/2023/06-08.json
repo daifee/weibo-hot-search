@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686215793847,
+  "endTime": 1686216814808,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4302769,
-      "num": 4302769,
+      "raw_hot": 5253330,
+      "num": 5253330,
       "word": "高考英语",
       "onboard_time": 1686213514,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2936358,
+      "num": 2936358,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2740799,
       "num": 2740799,
       "word": "复旦研究生嫖娼被开除起诉学校被驳",
@@ -75,20 +83,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2590964,
-      "num": 2590964,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 2228242,
       "num": 576371,
       "word": "与国企领导逛街女子手提包疑为奢侈品",
       "onboard_time": 1686147273,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1971527,
+      "num": 1971527,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1927618,
@@ -113,14 +121,6 @@
       "onboard_time": 1686189691,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1832677,
-      "num": 1832677,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1694723,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1529576,
+      "num": 1529576,
+      "word": "通知他们仨了吗",
+      "onboard_time": 1686214832,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1465341,
       "num": 681973,
       "word": "都来杜去",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1283952,
-      "num": 697747,
+      "num": 800068,
       "word": "中国电信回应广东无信号",
       "onboard_time": 1686212975,
       "rank": 13,
@@ -323,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 906996,
+      "num": 774688,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895421,
+      "num": 895421,
+      "word": "高考日语",
+      "onboard_time": 1686215675,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 867677,
       "num": 667189,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
@@ -403,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 693492,
-      "num": 639497,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 696926,
+      "num": 696926,
+      "word": "leave",
+      "onboard_time": 1686145834,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 677742,
@@ -435,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 605258,
-      "num": 605258,
-      "word": "通知他们仨了吗",
-      "onboard_time": 1686214832,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 598931,
       "num": 511451,
       "word": "迪丽热巴评论陈紫函",
@@ -451,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 591736,
+      "num": 591736,
+      "word": "杂志方怼杨紫恶评",
+      "onboard_time": 1686211174,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 565699,
       "num": 565699,
       "word": "凤凰传奇一个火上辈子一个火下辈子",
       "onboard_time": 1686145774,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526973,
-      "num": 526973,
-      "word": "杂志方怼杨紫恶评",
-      "onboard_time": 1686211174,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 511522,
@@ -489,6 +505,14 @@
       "onboard_time": 1686206735,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459951,
+      "num": 459951,
+      "word": "刘诗诗白鹿侧颜相似度",
+      "onboard_time": 1686214296,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453868,
@@ -571,14 +595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 386184,
-      "num": 386184,
-      "word": "leave",
-      "onboard_time": 1686145834,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 385616,
       "num": 385616,
       "word": "太阳裁掉保罗",
@@ -619,12 +635,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 363939,
-      "num": 363939,
-      "word": "刘诗诗白鹿侧颜相似度",
-      "onboard_time": 1686214296,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 359088,
+      "num": 359088,
+      "word": "中石油胡继勇事件还有哪些疑问需厘清",
+      "onboard_time": 1686213275,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353138,
@@ -659,20 +675,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 340800,
+      "num": 340800,
+      "word": "孙笑川 烫伤",
+      "onboard_time": 1686212616,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 333541,
       "num": 333541,
       "word": "江苏人真的奶茶拌饭吃吗",
       "onboard_time": 1686196539,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 328668,
-      "num": 328668,
-      "word": "孙笑川 烫伤",
-      "onboard_time": 1686212616,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 326864,
@@ -723,12 +739,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 300404,
-      "num": 300404,
-      "word": "中石油胡继勇事件还有哪些疑问需厘清",
-      "onboard_time": 1686213275,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 301773,
+      "num": 301773,
+      "word": "这是捅了西瓜子的老窝了",
+      "onboard_time": 1686212375,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 297522,
@@ -737,14 +753,6 @@
       "onboard_time": 1686203548,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297204,
-      "num": 297204,
-      "word": "高考日语",
-      "onboard_time": 1686215675,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 296388,
@@ -875,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251906,
-      "num": 251906,
-      "word": "这是捅了西瓜子的老窝了",
-      "onboard_time": 1686212375,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251851,
       "num": 251851,
       "word": "B太 外卖缺斤少两",
@@ -961,6 +961,14 @@
       "onboard_time": 1686149376,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233443,
+      "num": 233443,
+      "word": "原来这些都是seventeen啊",
+      "onboard_time": 1686213216,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 233253,
@@ -1083,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207192,
-      "num": 207192,
-      "word": "原来这些都是seventeen啊",
-      "onboard_time": 1686213216,
-      "rank": 42,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 205892,
       "num": 205892,
       "word": "你知道卖凉菜需要许可吗",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1686205170,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198559,
+      "num": 198559,
+      "word": "上海英语 我是吴磊",
+      "onboard_time": 1686216698,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 197716,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1686194372,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "李华 两人一组怎么了",
+      "onboard_time": 1686216698,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 195161,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1686145354,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187332,
+      "num": 187332,
+      "word": "小鬼回应范丞丞去看自己演出",
+      "onboard_time": 1686215919,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 185819,
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 98569,
-      "num": 1836817,
+      "num": 2206411,
       "word": "高考第二天",
       "onboard_time": 1686181947,
       "rank": 2,
@@ -1659,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67790,
+      "num": 166763,
+      "word": "解锁千年古镇新玩法",
+      "onboard_time": 1686216338,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66105,
       "num": 74831,
       "word": "陶昕然用甄嬛传台词祝福高考生",
@@ -1688,6 +1720,14 @@
       "word": "这份高考祝福穿越百年",
       "onboard_time": 1686144156,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43613,
+      "num": 647450,
+      "word": "30年前高考是什么样的",
+      "onboard_time": 1686216277,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
