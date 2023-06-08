@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/08 00:22:25 ~ 2023/06/08 10:54:32
+本榜单时间：2023/06/08 00:22:25 ~ 2023/06/08 11:02:47
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%23" target="weibo">
-高考物理（热度：2842390）
+高考物理（热度：3281590）
 </a>
 </li>
 
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23" target="weibo">
+中国石油大学回应（热度：2104216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23" target="weibo">
 中石油胡继勇被免职（热度：1927618）
 </a>
@@ -45,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E8%83%A1%E6%9F%90%E5%8B%87%E5%A5%B3%E5%AD%90%E5%90%8C%E6%AC%BE%E8%A3%99%E5%AD%90%E9%94%80%E9%87%8F%E6%BF%80%E5%A2%9E%23" target="weibo">
+牵手胡某勇女子同款裙子销量激增（热度：1723378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%81%8C%E8%A3%99%23" target="weibo">
 免职裙（热度：1694723）
 </a>
@@ -52,13 +64,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%23" target="weibo">
-高考历史（热度：1565078）
+高考历史（热度：1624243）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88%23" target="weibo">
-巴厘岛命案（热度：1500308）
+巴厘岛命案（热度：1556173）
 </a>
 </li>
 
@@ -77,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
 高考（热度：1350158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E8%83%A1%E6%9F%90%E5%8B%87%E5%A5%B3%E5%AD%90%E5%90%8C%E6%AC%BE%E8%A3%99%E5%AD%90%E9%94%80%E9%87%8F%E6%BF%80%E5%A2%9E%23" target="weibo">
-牵手胡某勇女子同款裙子销量激增（热度：1200587）
 </a>
 </li>
 
@@ -172,19 +178,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B6%A6%E6%B3%BD%E5%92%8C%E5%A5%B6%E5%A5%B6%23" target="weibo">
-王润泽和奶奶（热度：599187）
+王润泽和奶奶（热度：605228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%84%E8%AE%BA%E9%99%88%E7%B4%AB%E5%87%BD%23" target="weibo">
+迪丽热巴评论陈紫函（热度：569917）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8A%E8%BE%88%E5%AD%90%E4%B8%80%E4%B8%AA%E7%81%AB%E4%B8%8B%E8%BE%88%E5%AD%90%23" target="weibo">
 凤凰传奇一个火上辈子一个火下辈子（热度：565699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%84%E8%AE%BA%E9%99%88%E7%B4%AB%E5%87%BD%23" target="weibo">
-迪丽热巴评论陈紫函（热度：545422）
 </a>
 </li>
 
@@ -243,14 +249,14 @@ EDG AD（热度：365066）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%94%E5%AD%90%E6%98%AF%E9%A5%BF%E7%9D%80%E7%9A%84%23" target="weibo">
-高考时没有一个孔子是饿着的（热度：324282）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A6%82%E8%90%B1%20%E7%88%B1%E4%B8%8A%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
+魏如萱 爱上一个人是什么感觉（热度：347180）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A6%82%E8%90%B1%20%E7%88%B1%E4%B8%8A%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
-魏如萱 爱上一个人是什么感觉（热度：312455）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%94%E5%AD%90%E6%98%AF%E9%A5%BF%E7%9D%80%E7%9A%84%23" target="weibo">
+高考时没有一个孔子是饿着的（热度：324282）
 </a>
 </li>
 
@@ -280,7 +286,7 @@ NBA总决赛（热度：310878）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8E%98%E5%B2%9B%E5%91%BD%E6%A1%88%E7%94%B7%E5%AD%90%E5%92%8C%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%90%8E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23" target="weibo">
-巴厘岛命案男子和母亲最后聊天记录曝光（热度：278681）
+巴厘岛命案男子和母亲最后聊天记录曝光（热度：279505）
 </a>
 </li>
 
@@ -339,6 +345,12 @@ NBA总决赛（热度：310878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8D%B7%E5%8E%86%E5%8F%B2%20%E4%B8%A4%E7%AF%87%E5%B0%8F%E8%AE%BA%E6%96%87%23" target="weibo">
+一卷历史 两篇小论文（热度：234169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%A4%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%88%86%E5%89%A790%E7%94%9F%23" target="weibo">
 有两部以上爆剧90生（热度：233253）
 </a>
@@ -381,14 +393,14 @@ NBA总决赛（热度：310878）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E4%B8%BA%E4%BC%A0%E6%89%BF%E5%9C%B0%E6%96%B9%E6%88%8F37%E5%B2%81%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23" target="weibo">
-女演员为传承地方戏37岁参加高考（热度：195161）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E8%8F%A9%E8%90%A8%23" target="weibo">
+互联网菩萨（热度：199993）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%92%E8%81%94%E7%BD%91%E8%8F%A9%E8%90%A8%23" target="weibo">
-互联网菩萨（热度：195105）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E4%B8%BA%E4%BC%A0%E6%89%BF%E5%9C%B0%E6%96%B9%E6%88%8F37%E5%B2%81%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23" target="weibo">
+女演员为传承地方戏37岁参加高考（热度：195161）
 </a>
 </li>
 
@@ -401,6 +413,12 @@ NBA总决赛（热度：310878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E5%A7%90%E5%A7%90%E6%80%80%E5%AD%95%E4%BA%86%23" target="weibo">
 肖春生姐姐怀孕了（热度：190065）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E5%B0%B1%E5%83%8F%E4%B8%AA%E7%94%B7%E7%94%9F%E6%94%B6%E5%89%B2%E6%9C%BA%23" target="weibo">
+肖春生就像个男生收割机（热度：189432）
 </a>
 </li>
 
@@ -429,6 +447,18 @@ TFBOYS灯牌亮度（热度：177876）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%9B%9E%E5%BA%94%E4%BA%BA%E9%97%B4%E6%AC%B2%E9%9C%B8%23" target="weibo">
+张彬彬回应人间欲霸（热度：172485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91vs%E7%83%AD%E7%81%AB%23" target="weibo">
+掘金vs热火（热度：172025）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23rapper%E6%98%AF%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%94%99%E7%9A%84%E5%B0%B1%E4%B8%9A%E9%80%89%E6%8B%A9%23" target="weibo">
 rapper是一个不错的就业选择（热度：168034）
 </a>
@@ -449,12 +479,6 @@ rapper是一个不错的就业选择（热度：168034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E5%9B%9E%E5%BA%94%E6%BC%94%E5%91%98%E6%8E%92%E5%BA%8F%23" target="weibo">
 封神回应演员排序（热度：165207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%9B%9E%E5%BA%94%E4%BA%BA%E9%97%B4%E6%AC%B2%E9%9C%B8%23" target="weibo">
-张彬彬回应人间欲霸（热度：164952）
 </a>
 </li>
 
@@ -491,12 +515,6 @@ rapper是一个不错的就业选择（热度：168034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%A7%B0%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%E6%98%AF%E4%B8%AA%E4%BA%BA%E8%A1%8C%E4%B8%BA%23" target="weibo">
 公司称领导与异性牵手逛街是个人行为（热度：146687）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91vs%E7%83%AD%E7%81%AB%23" target="weibo">
-掘金vs热火（热度：146451）
 </a>
 </li>
 

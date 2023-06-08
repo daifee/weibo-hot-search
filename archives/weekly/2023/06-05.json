@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686192872547,
+  "endTime": 1686193367068,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3281590,
+      "num": 3281590,
+      "word": "高考物理",
+      "onboard_time": 1686191850,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 3206564,
       "num": 3206564,
       "word": "第一个出考场的考生麻烦你了",
@@ -88,14 +96,6 @@
       "word": "比亚迪押题成功",
       "onboard_time": 1686113859,
       "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2842390,
-      "num": 2842390,
-      "word": "高考物理",
-      "onboard_time": 1686191850,
-      "rank": 0,
       "category": "社会新闻,教育"
     },
     {
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2104216,
+      "num": 2104216,
+      "word": "中国石油大学回应",
+      "onboard_time": 1686192990,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2085497,
       "num": 1175763,
       "word": "鼠鼠我鸭",
@@ -483,6 +491,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1723378,
+      "num": 1592442,
+      "word": "牵手胡某勇女子同款裙子销量激增",
+      "onboard_time": 1686189691,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -521,6 +537,14 @@
       "onboard_time": 1685989754,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1624243,
+      "num": 1624243,
+      "word": "高考历史",
+      "onboard_time": 1686192271,
+      "rank": 3,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1622812,
@@ -587,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1565078,
-      "num": 1565078,
-      "word": "高考历史",
-      "onboard_time": 1686192271,
-      "rank": 3,
-      "category": "社会新闻,教育"
+      "raw_hot": 1556173,
+      "num": 1556173,
+      "word": "巴厘岛命案",
+      "onboard_time": 1686190349,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1531717,
@@ -627,14 +651,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1500308,
-      "num": 1500308,
-      "word": "巴厘岛命案",
-      "onboard_time": 1686190349,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1495553,
       "num": 1007655,
       "word": "林徽因名字 文化版的招娣",
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 1465341,
-      "num": 594161,
+      "num": 635362,
       "word": "都来杜去",
       "onboard_time": 1686179663,
       "rank": 18,
@@ -907,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1200587,
-      "num": 1200587,
-      "word": "牵手胡某勇女子同款裙子销量激增",
-      "onboard_time": 1686189691,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1197139,
       "num": 1197139,
       "word": "乌克兰大坝被炸",
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 1168432,
-      "num": 583772,
+      "num": 622997,
       "word": "虞书欣工作室否认恋情",
       "onboard_time": 1686191729,
       "rank": 12,
@@ -1859,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605228,
+      "num": 605228,
+      "word": "王润泽和奶奶",
+      "onboard_time": 1686189570,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605011,
       "num": 565516,
       "word": "难怪贾玲要瘦100斤",
@@ -1873,14 +1889,6 @@
       "onboard_time": 1685883630,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 599187,
-      "num": 599187,
-      "word": "王润泽和奶奶",
-      "onboard_time": 1686189570,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 596321,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1686111406,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 569917,
+      "num": 377054,
+      "word": "迪丽热巴评论陈紫函",
+      "onboard_time": 1686183150,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 567816,
@@ -1985,14 +2001,6 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 545422,
-      "num": 377054,
-      "word": "迪丽热巴评论陈紫函",
-      "onboard_time": 1686183150,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 544153,
@@ -2939,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347180,
+      "num": 347180,
+      "word": "魏如萱 爱上一个人是什么感觉",
+      "onboard_time": 1686192029,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1686060273,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312455,
-      "num": 312455,
-      "word": "魏如萱 爱上一个人是什么感觉",
-      "onboard_time": 1686192029,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 311544,
@@ -3579,20 +3587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279505,
+      "num": 279505,
+      "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
+      "onboard_time": 1686190471,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278766,
       "num": 278766,
       "word": "全员加速中",
       "onboard_time": 1686011611,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278681,
-      "num": 278681,
-      "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
-      "onboard_time": 1686190471,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277665,
@@ -4313,6 +4321,14 @@
       "onboard_time": 1685985558,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234169,
+      "num": 234169,
+      "word": "一卷历史 两篇小论文",
+      "onboard_time": 1686192930,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 233694,
@@ -5123,6 +5139,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "互联网菩萨",
+      "onboard_time": 1686191456,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199797,
       "num": 199797,
       "word": "高三毕业有必要在校庆祝吗",
@@ -5257,14 +5281,6 @@
       "onboard_time": 1685957669,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 195105,
-      "num": 195105,
-      "word": "互联网菩萨",
-      "onboard_time": 1686191456,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 194480,
@@ -5504,6 +5520,14 @@
       "word": "肖春生发量",
       "onboard_time": 1685936130,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189432,
+      "num": 189432,
+      "word": "肖春生就像个男生收割机",
+      "onboard_time": 1686192751,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -5947,12 +5971,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 172485,
+      "num": 172485,
+      "word": "张彬彬回应人间欲霸",
+      "onboard_time": 1686191372,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172083,
       "num": 163048,
       "word": "朱一龙翻脸比我翻书还快",
       "onboard_time": 1686063752,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172025,
+      "num": 172025,
+      "word": "掘金vs热火",
+      "onboard_time": 1686187471,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 171652,
@@ -6144,14 +6184,6 @@
       "word": "封神回应演员排序",
       "onboard_time": 1686191610,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 164952,
-      "num": 164952,
-      "word": "张彬彬回应人间欲霸",
-      "onboard_time": 1686191372,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -6545,14 +6577,6 @@
       "onboard_time": 1685895386,
       "rank": 33,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 146451,
-      "num": 146451,
-      "word": "掘金vs热火",
-      "onboard_time": 1686187471,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 145192,
@@ -7708,7 +7732,7 @@
     },
     {
       "raw_hot": 69990,
-      "num": 1742200,
+      "num": 2182709,
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 36,
