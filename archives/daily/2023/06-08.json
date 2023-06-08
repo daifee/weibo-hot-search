@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686233717185,
+  "endTime": 1686234805836,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1504799,
+      "num": 1504799,
+      "word": "杨紫赵露思撞衫",
+      "onboard_time": 1686231572,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1465341,
       "num": 681973,
       "word": "都来杜去",
@@ -249,14 +257,6 @@
       "onboard_time": 1686179602,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1339385,
-      "num": 1339385,
-      "word": "杨紫赵露思撞衫",
-      "onboard_time": 1686231572,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1334588,
@@ -443,6 +443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 868923,
+      "num": 868923,
+      "word": "爱奇艺暑期档排播剧集",
+      "onboard_time": 1686230973,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 867677,
       "num": 667189,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
@@ -521,14 +529,6 @@
       "onboard_time": 1686221913,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 757315,
-      "num": 757315,
-      "word": "爱奇艺暑期档排播剧集",
-      "onboard_time": 1686230973,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 745634,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406330,
+      "num": 406330,
+      "word": "街拍事件最新画面曝光",
+      "onboard_time": 1686232772,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405502,
       "num": 405502,
       "word": "LGD对战JDG",
@@ -803,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 369849,
+      "num": 369849,
+      "word": "安徽一高考考点被曝英语听力听不清",
+      "onboard_time": 1686232953,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 368334,
       "num": 368334,
       "word": "梅西决定加盟迈阿密国际",
@@ -849,6 +865,14 @@
       "onboard_time": 1686189570,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352810,
+      "num": 352810,
+      "word": "转学后发现老师也转来了",
+      "onboard_time": 1686232113,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 350533,
@@ -1091,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266860,
-      "num": 266860,
-      "word": "转学后发现老师也转来了",
-      "onboard_time": 1686232113,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265802,
       "num": 265802,
       "word": "终于等到吴青峰唱毕业歌",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1686209554,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 245905,
-      "num": 245905,
-      "word": "安徽一高考考点被曝英语听力听不清",
-      "onboard_time": 1686232953,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 244637,
@@ -1427,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201684,
-      "num": 201684,
-      "word": "街拍事件最新画面曝光",
-      "onboard_time": 1686232772,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200376,
       "num": 200376,
       "word": "周深和曾毅都沉默了",
@@ -1595,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181543,
+      "num": 181543,
+      "word": "成都蓉城",
+      "onboard_time": 1686231692,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180716,
       "num": 180716,
       "word": "摄影师是立功了还是该担责",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1686198878,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179911,
-      "num": 179911,
-      "word": "成都蓉城",
-      "onboard_time": 1686231692,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 179607,
@@ -1891,6 +1891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 131531,
+      "num": 131531,
+      "word": "2023年四大必爆电视剧",
+      "onboard_time": 1686234514,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130487,
       "num": 130487,
       "word": "如果丧尸爆发你觉得哪里最安全",
@@ -1915,6 +1923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 129083,
+      "num": 536344,
+      "word": "59岁阿姨游400米救下失温男孩",
+      "onboard_time": 1686232831,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125893,
       "num": 125893,
       "word": "崔然竣Queencard舞蹈挑战",
@@ -1937,6 +1953,14 @@
       "onboard_time": 1686224431,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123549,
+      "num": 123549,
+      "word": "文俊辉上海到达",
+      "onboard_time": 1686234453,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 123473,
@@ -2152,14 +2176,6 @@
       "word": "这份高考祝福穿越百年",
       "onboard_time": 1686144156,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52547,
-      "num": 536344,
-      "word": "59岁阿姨游400米救下失温男孩",
-      "onboard_time": 1686232831,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

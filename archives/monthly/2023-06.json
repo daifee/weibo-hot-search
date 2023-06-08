@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686233717185,
+  "endTime": 1686234805836,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1275,6 +1275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1504799,
+      "num": 1504799,
+      "word": "杨紫赵露思撞衫",
+      "onboard_time": 1686231572,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1504376,
       "num": 1504376,
       "word": "广东明确停课不停考",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1686038129,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1339385,
-      "num": 1339385,
-      "word": "杨紫赵露思撞衫",
-      "onboard_time": 1686231572,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1334588,
@@ -2811,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 868923,
+      "num": 868923,
+      "word": "爱奇艺暑期档排播剧集",
+      "onboard_time": 1686230973,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 867928,
       "num": 789302,
       "word": "上海迪士尼",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1686114339,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757315,
-      "num": 757315,
-      "word": "爱奇艺暑期档排播剧集",
-      "onboard_time": 1686230973,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 756151,
@@ -5659,6 +5659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406330,
+      "num": 406330,
+      "word": "街拍事件最新画面曝光",
+      "onboard_time": 1686232772,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405502,
       "num": 405502,
       "word": "LGD对战JDG",
@@ -6147,6 +6155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369849,
+      "num": 369849,
+      "word": "安徽一高考考点被曝英语听力听不清",
+      "onboard_time": 1686232953,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 369325,
       "num": 369325,
       "word": "考生走错考场铁骑紧急出动送考",
@@ -6457,6 +6473,14 @@
       "onboard_time": 1685805271,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 352810,
+      "num": 352810,
+      "word": "转学后发现老师也转来了",
+      "onboard_time": 1686232113,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 351741,
@@ -8731,14 +8755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266860,
-      "num": 266860,
-      "word": "转学后发现老师也转来了",
-      "onboard_time": 1686232113,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265955,
       "num": 251293,
       "word": "声生不息 告五人",
@@ -9569,14 +9585,6 @@
       "onboard_time": 1686068785,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245905,
-      "num": 245905,
-      "word": "安徽一高考考点被曝英语听力听不清",
-      "onboard_time": 1686232953,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245669,
@@ -11777,14 +11785,6 @@
       "onboard_time": 1685623469,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201684,
-      "num": 201684,
-      "word": "街拍事件最新画面曝光",
-      "onboard_time": 1686232772,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201563,
@@ -15755,6 +15755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131531,
+      "num": 131531,
+      "word": "2023年四大必爆电视剧",
+      "onboard_time": 1686234514,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131400,
       "num": 152131,
       "word": "被学校抓住的话就一起跑吧",
@@ -15881,6 +15889,14 @@
       "onboard_time": 1686002294,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129083,
+      "num": 536344,
+      "word": "59岁阿姨游400米救下失温男孩",
+      "onboard_time": 1686232831,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129070,
@@ -16129,6 +16145,14 @@
       "onboard_time": 1686224431,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123549,
+      "num": 123549,
+      "word": "文俊辉上海到达",
+      "onboard_time": 1686234453,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 123510,
@@ -18168,14 +18192,6 @@
       "word": "长江金色航道百舸争流好壮美",
       "onboard_time": 1685694989,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52547,
-      "num": 536344,
-      "word": "59岁阿姨游400米救下失温男孩",
-      "onboard_time": 1686232831,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
