@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686208533407,
+  "endTime": 1686209599585,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3476833,
+      "num": 984961,
+      "word": "成都太古里明确禁止未经允许街拍",
+      "onboard_time": 1686204272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3325416,
       "num": 3325416,
       "word": "高考物理",
@@ -160,14 +168,6 @@
       "word": "丫丫",
       "onboard_time": 1686021208,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3018073,
-      "num": 622634,
-      "word": "成都太古里明确禁止未经允许街拍",
-      "onboard_time": 1686204272,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1613072,
+      "num": 1613072,
+      "word": "鼠头鸭脖食堂意见反馈群曝光",
+      "onboard_time": 1686199119,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1610065,
       "num": 423895,
       "word": "女子反问男友8年感情竟不值38万",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1685796210,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1431971,
-      "num": 1431971,
-      "word": "鼠头鸭脖食堂意见反馈群曝光",
-      "onboard_time": 1686199119,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1424602,
@@ -1699,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1234717,
+      "num": 1234717,
+      "word": "柯以敏直播大怒",
+      "onboard_time": 1686204272,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1232669,
       "num": 1232669,
       "word": "金智秀新冠确诊",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1686049890,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218749,
+      "num": 1218749,
+      "word": "中国电信",
+      "onboard_time": 1686207933,
+      "rank": 15,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1215308,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1685801973,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1121995,
-      "num": 1121995,
-      "word": "柯以敏直播大怒",
-      "onboard_time": 1686204272,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118785,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 991331,
+      "num": 991331,
+      "word": "河南考生吐槽统一配备文具不好用",
+      "onboard_time": 1686203131,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 986931,
       "num": 986931,
       "word": "梅西自宣离队",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 954141,
+      "num": 954141,
+      "word": "Lisa露额头",
+      "onboard_time": 1686207213,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 951218,
@@ -2881,14 +2905,6 @@
       "onboard_time": 1686154829,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 805062,
-      "num": 805062,
-      "word": "河南考生吐槽统一配备文具不好用",
-      "onboard_time": 1686203131,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 804554,
@@ -3979,14 +3995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558623,
-      "num": 558623,
-      "word": "中国电信",
-      "onboard_time": 1686207933,
-      "rank": 15,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 557874,
       "num": 282277,
       "word": "唐僧为什么忘记替老龟问寿命",
@@ -4307,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511484,
+      "num": 511484,
+      "word": "吴建豪工作室态度",
+      "onboard_time": 1686208296,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507598,
       "num": 253108,
       "word": "肖战 CHALI",
@@ -4523,14 +4539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 483487,
-      "num": 483487,
-      "word": "Lisa露额头",
-      "onboard_time": 1686207213,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
@@ -4625,6 +4633,14 @@
       "onboard_time": 1686047670,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474378,
+      "num": 474378,
+      "word": "虞书欣直播手势",
+      "onboard_time": 1686206735,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 473764,
@@ -5945,14 +5961,6 @@
       "onboard_time": 1686135218,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362811,
-      "num": 362811,
-      "word": "虞书欣直播手势",
-      "onboard_time": 1686206735,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 362725,
@@ -7699,6 +7707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286715,
+      "num": 286715,
+      "word": "广东电信",
+      "onboard_time": 1686209312,
+      "rank": 26,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 286685,
       "num": 286685,
       "word": "齐司礼",
@@ -8251,6 +8267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269072,
+      "num": 269072,
+      "word": "官方回应江西考生迟到37分进考场",
+      "onboard_time": 1686208535,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 268903,
       "num": 268903,
       "word": "孟子义提携周一围",
@@ -8321,6 +8345,14 @@
       "onboard_time": 1685617466,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267333,
+      "num": 267333,
+      "word": "张艺兴起诉B站侵权",
+      "onboard_time": 1686208713,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 266944,
@@ -9001,6 +9033,14 @@
       "onboard_time": 1685604446,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249967,
+      "num": 249967,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 249290,
@@ -9761,6 +9801,14 @@
       "onboard_time": 1685759670,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231651,
+      "num": 270513,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231296,
@@ -12451,6 +12499,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 185819,
+      "num": 185819,
+      "word": "7月kpop的回归阵容",
+      "onboard_time": 1686208651,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185679,
       "num": 185679,
       "word": "宋祖儿张新成红蓝双人大片",
@@ -13211,14 +13267,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 171464,
-      "num": 244157,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171417,
       "num": 171417,
       "word": "约基奇41分",
@@ -13336,6 +13384,14 @@
       "word": "谁叫了朱一龙老公",
       "onboard_time": 1686050666,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169330,
+      "num": 169330,
+      "word": "朴彩英Lisa大阪街头随拍",
+      "onboard_time": 1686206132,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -13923,14 +13979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158843,
-      "num": 158843,
-      "word": "吴建豪工作室态度",
-      "onboard_time": 1686208296,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158754,
       "num": 1707212,
       "word": "距2023高考还有2天",
@@ -14177,14 +14225,6 @@
       "onboard_time": 1685879727,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153755,
-      "num": 153755,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153520,
@@ -14811,14 +14851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139100,
-      "num": 143286,
-      "word": "朴彩英Lisa大阪街头随拍",
-      "onboard_time": 1686206132,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138507,
       "num": 138507,
       "word": "考生走错考场汉警快骑4分钟送到",
@@ -15387,6 +15419,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 125934,
+      "num": 132398,
+      "word": "单依纯是刘亦菲颜粉",
+      "onboard_time": 1686209495,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125893,
       "num": 125893,
       "word": "崔然竣Queencard舞蹈挑战",
@@ -15473,6 +15513,14 @@
       "onboard_time": 1686113202,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123703,
+      "num": 132316,
+      "word": "李一桐把水花穿在身上",
+      "onboard_time": 1686209554,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 123510,
@@ -16987,6 +17035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74107,
+      "num": 611426,
+      "word": "高考考生两天两次获民警救助",
+      "onboard_time": 1686208413,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73780,
       "num": 450631,
       "word": "小客车侧翻两位白衣大侠迅速救人",
@@ -17433,6 +17489,14 @@
       "onboard_time": 1685698885,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 56670,
+      "num": 1223987,
+      "word": "高考第二天",
+      "onboard_time": 1686181947,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56645,
@@ -17947,14 +18011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23759,
-      "num": 995895,
-      "word": "高考第二天",
-      "onboard_time": 1686181947,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23250,
       "num": 200775,
       "word": "抖音618每个省都好会省",
@@ -18088,14 +18144,6 @@
       "word": "无限画里的童年",
       "onboard_time": 1685633551,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5297,
-      "num": 567214,
-      "word": "高考考生两天两次获民警救助",
-      "onboard_time": 1686208413,
-      "rank": 14,
       "category": "社会新闻"
     }
   ],
