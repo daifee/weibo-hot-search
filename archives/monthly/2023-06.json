@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686242263783,
+  "endTime": 1686244536051,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -16611,6 +16611,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 117366,
+      "num": 94858,
+      "word": "泰国庙里供着皮卡丘",
+      "onboard_time": 1686240628,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 117247,
       "num": 117247,
       "word": "总要拿出时间去自在的朋友身边",
@@ -17315,20 +17323,20 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 94858,
-      "num": 94858,
-      "word": "泰国庙里供着皮卡丘",
-      "onboard_time": 1686240628,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 94648,
       "num": 94648,
       "word": "WWDC2023",
       "onboard_time": 1685985856,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 94561,
+      "num": 94561,
+      "word": "张颂文谈被AI换脸",
+      "onboard_time": 1686241764,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 94171,
@@ -18105,6 +18113,14 @@
       "onboard_time": 1686160034,
       "rank": 39,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 66073,
+      "num": 66073,
+      "word": "广东发布多项措施支持多生育",
+      "onboard_time": 1686243023,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65883,

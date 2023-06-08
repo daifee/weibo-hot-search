@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686242263783,
+  "endTime": 1686244536051,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117366,
+      "num": 94858,
+      "word": "泰国庙里供着皮卡丘",
+      "onboard_time": 1686240628,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 107606,
       "num": 107606,
       "word": "你最期待哪方面的生育支持措施",
@@ -355,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94858,
-      "num": 94858,
-      "word": "泰国庙里供着皮卡丘",
-      "onboard_time": 1686240628,
-      "rank": 44,
-      "category": "旅游"
+      "raw_hot": 100609,
+      "num": 100609,
+      "word": "转学后发现老师也转来了",
+      "onboard_time": 1686232113,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 94577,
@@ -371,12 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86267,
-      "num": 86267,
-      "word": "转学后发现老师也转来了",
-      "onboard_time": 1686232113,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 94561,
+      "num": 94561,
+      "word": "张颂文谈被AI换脸",
+      "onboard_time": 1686241764,
+      "rank": 29,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 82313,
@@ -417,6 +425,22 @@
       "onboard_time": 1686242065,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66073,
+      "num": 66073,
+      "word": "广东发布多项措施支持多生育",
+      "onboard_time": 1686243023,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55130,
+      "num": 55130,
+      "word": "陕西文旅厅没收到TFBOYS十周年演唱会申请",
+      "onboard_time": 1686222812,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 31582,
