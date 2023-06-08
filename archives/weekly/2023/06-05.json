@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686251672571,
+  "endTime": 1686252819601,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -9331,6 +9331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 51917,
+      "num": 51917,
+      "word": "RNG",
+      "onboard_time": 1686251115,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51719,
       "num": 51719,
       "word": "Amber赢到了最后",
@@ -9617,14 +9625,6 @@
       "onboard_time": 1685977292,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20958,
-      "num": 23899,
-      "word": "RNG",
-      "onboard_time": 1686251115,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 20942,

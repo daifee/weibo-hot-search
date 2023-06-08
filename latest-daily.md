@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/09 00:22:22 ~ 2023/06/09 03:14:32
+本榜单时间：2023/06/09 00:22:22 ~ 2023/06/09 03:33:39
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ leave（热度：123165）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%23" target="weibo">
+RNG（热度：51917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Amber%E8%B5%A2%E5%88%B0%E4%BA%86%E6%9C%80%E5%90%8E%23" target="weibo">
 Amber赢到了最后（热度：51719）
 </a>
@@ -371,12 +377,6 @@ Amber赢到了最后（热度：51719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23" target="weibo">
 高考第二天（热度：31582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%23" target="weibo">
-RNG（热度：20958）
 </a>
 </li>
 

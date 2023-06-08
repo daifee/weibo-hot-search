@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686251672571,
+  "endTime": 1686252819601,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -18411,6 +18411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51917,
+      "num": 51917,
+      "word": "RNG",
+      "onboard_time": 1686251115,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51861,
       "num": 1290216,
       "word": "无人机看长江金色航道美如油画",
@@ -18937,14 +18945,6 @@
       "onboard_time": 1685595629,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20958,
-      "num": 23899,
-      "word": "RNG",
-      "onboard_time": 1686251115,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 20942,
