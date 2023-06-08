@@ -1,0 +1,410 @@
+{
+  "runTime": 1686192872547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2842390,
+        "num": 2842390,
+        "word": "高考物理",
+        "onboard_time": 1686191850,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2740799,
+        "num": 2740799,
+        "word": "复旦研究生嫖娼被开除起诉学校被驳",
+        "onboard_time": 1686187111,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 46839,
+        "num": 1742200,
+        "word": "我国成功发射一箭26星",
+        "onboard_time": 1686143972,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1565078,
+        "num": 1565078,
+        "word": "高考历史",
+        "onboard_time": 1686192271,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1500308,
+        "num": 1500308,
+        "word": "巴厘岛命案",
+        "onboard_time": 1686190349,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200587,
+        "num": 1200587,
+        "word": "牵手胡某勇女子同款裙子销量激增",
+        "onboard_time": 1686189691,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153023,
+        "num": 1153023,
+        "word": "高考",
+        "onboard_time": 1686179602,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 784042,
+        "num": 784042,
+        "word": "陈晓更新小说",
+        "onboard_time": 1686183689,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763279,
+        "num": 763279,
+        "word": "演女丑出圈是一种什么体验",
+        "onboard_time": 1686180383,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599187,
+        "num": 599187,
+        "word": "王润泽和奶奶",
+        "onboard_time": 1686189570,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1231328,
+        "num": 594161,
+        "word": "都来杜去",
+        "onboard_time": 1686179663,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1199316,
+        "num": 584694,
+        "word": "中石油胡继勇被免职",
+        "onboard_time": 1686131623,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168432,
+        "num": 583772,
+        "word": "虞书欣工作室否认恋情",
+        "onboard_time": 1686191729,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703230,
+        "num": 573240,
+        "word": "胡锡进 这个人不知让什么冲昏了头脑",
+        "onboard_time": 1686182790,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569458,
+        "num": 569458,
+        "word": "大学生考点摆摊卖9.85与21.1元花束",
+        "onboard_time": 1686154829,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 565699,
+        "num": 565699,
+        "word": "凤凰传奇一个火上辈子一个火下辈子",
+        "onboard_time": 1686145774,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479011,
+        "num": 479011,
+        "word": "粉丝齐喊China抗议主持人涉港台不当言论",
+        "onboard_time": 1686140552,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 473455,
+        "num": 473455,
+        "word": "欧雅若都当妈了",
+        "onboard_time": 1686182248,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373187,
+        "num": 373187,
+        "word": "路人对迪丽热巴的现状分析",
+        "onboard_time": 1686150875,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345121,
+        "num": 345121,
+        "word": "多巴胺情侣装",
+        "onboard_time": 1686151295,
+        "rank": 19,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 545422,
+        "num": 344749,
+        "word": "迪丽热巴评论陈紫函",
+        "onboard_time": 1686183150,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336979,
+        "num": 336979,
+        "word": "贾玲为了新角色要减重100斤",
+        "onboard_time": 1686132698,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537424,
+        "num": 334074,
+        "word": "免职裙",
+        "onboard_time": 1686150274,
+        "rank": 22,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 330154,
+        "num": 330154,
+        "word": "一个人死去了但他不是死于一个瞬间",
+        "onboard_time": 1686148416,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312455,
+        "num": 312455,
+        "word": "魏如萱 爱上一个人是什么感觉",
+        "onboard_time": 1686192029,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308412,
+        "num": 308412,
+        "word": "EDG AD",
+        "onboard_time": 1686180504,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278681,
+        "num": 278681,
+        "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
+        "onboard_time": 1686190471,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278359,
+        "num": 278359,
+        "word": "千万不要长期喝饮料",
+        "onboard_time": 1686186150,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 249594,
+        "word": "NBA总决赛",
+        "onboard_time": 1686189570,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247733,
+        "num": 247733,
+        "word": "车银优宋慧乔同框照",
+        "onboard_time": 1686185973,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225401,
+        "num": 225401,
+        "word": "黄渤 让观众记住的不是名字写在哪里",
+        "onboard_time": 1686189751,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223344,
+        "num": 223344,
+        "word": "姜广涛",
+        "onboard_time": 1686141273,
+        "rank": 31,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 223102,
+        "num": 223102,
+        "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
+        "onboard_time": 1686146316,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216773,
+        "num": 216773,
+        "word": "律师谈国企领导与异性亲密逛街被拍",
+        "onboard_time": 1686151174,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215629,
+        "num": 215629,
+        "word": "妈妈保留女儿1997年高考准考证",
+        "onboard_time": 1686189328,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 214511,
+        "num": 214511,
+        "word": "2023高考查分时间",
+        "onboard_time": 1686189570,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205504,
+        "num": 205504,
+        "word": "高考时没有一个孔子是饿着的",
+        "onboard_time": 1686184591,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198891,
+        "num": 198891,
+        "word": "好友否认虞书欣吴建豪恋情",
+        "onboard_time": 1686179602,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195105,
+        "num": 195105,
+        "word": "互联网菩萨",
+        "onboard_time": 1686191456,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178054,
+        "num": 178054,
+        "word": "熄灯前女高毕业生突然冲出抱住张桂梅",
+        "onboard_time": 1686185850,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 171506,
+        "num": 171506,
+        "word": "梅西决定加盟迈阿密国际",
+        "onboard_time": 1686145535,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170174,
+        "num": 170174,
+        "word": "梅西说在欧洲只想回巴萨",
+        "onboard_time": 1686184651,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168448,
+        "num": 168448,
+        "word": "高考数学",
+        "onboard_time": 1686126154,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168034,
+        "num": 168034,
+        "word": "rapper是一个不错的就业选择",
+        "onboard_time": 1686192450,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 165207,
+        "num": 165207,
+        "word": "封神回应演员排序",
+        "onboard_time": 1686191610,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164952,
+        "num": 164952,
+        "word": "张彬彬回应人间欲霸",
+        "onboard_time": 1686191372,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 162722,
+        "word": "有两部以上爆剧90生",
+        "onboard_time": 1686182126,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147317,
+        "num": 147317,
+        "word": "张艺兴工作室再回应",
+        "onboard_time": 1686151056,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146180,
+        "num": 146180,
+        "word": "掘金vs热火",
+        "onboard_time": 1686187471,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138238,
+        "num": 138238,
+        "word": "代号鸢",
+        "onboard_time": 1686186392,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇担使命不畏艰辛久久为功#"
+    }
+  }
+}
