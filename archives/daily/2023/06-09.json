@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686256435144,
+  "endTime": 1686258986569,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -441,6 +441,14 @@
       "onboard_time": 1686242065,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66130,
+      "num": 26079,
+      "word": "北大屠夫称大学生就业难关键在父母",
+      "onboard_time": 1686256933,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66073,
