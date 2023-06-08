@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686201370275,
+  "endTime": 1686202425376,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1368839,
+      "num": 1368839,
+      "word": "鼠头鸭脖食堂意见反馈群曝光",
+      "onboard_time": 1686199119,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1364235,
       "num": 1364235,
       "word": "高考",
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 902218,
-      "num": 902218,
-      "word": "鼠头鸭脖食堂意见反馈群曝光",
-      "onboard_time": 1686199119,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 821675,
       "num": 821675,
       "word": "陈晓更新小说",
@@ -259,6 +259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 720293,
+      "num": 720293,
+      "word": "王润泽和奶奶",
+      "onboard_time": 1686189570,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677742,
       "num": 677742,
       "word": "粉丝齐喊China抗议主持人涉港台不当言论",
@@ -275,20 +283,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 640056,
+      "num": 640056,
+      "word": "长得还行迪丽热巴",
+      "onboard_time": 1686200975,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619363,
       "num": 286091,
       "word": "梅西中国行门票",
       "onboard_time": 1686201331,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 605228,
-      "num": 605228,
-      "word": "王润泽和奶奶",
-      "onboard_time": 1686189570,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 598931,
@@ -337,6 +345,14 @@
       "onboard_time": 1686199719,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 433562,
+      "num": 433562,
+      "word": "网友偶遇宋仲基和妻子牵手逛街",
+      "onboard_time": 1686199898,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 431663,
@@ -523,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284850,
-      "num": 284850,
-      "word": "网友偶遇宋仲基和妻子牵手逛街",
-      "onboard_time": 1686199898,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277418,
       "num": 277418,
       "word": "梅西说在欧洲只想回巴萨",
@@ -635,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233178,
-      "num": 233178,
-      "word": "长得还行迪丽热巴",
-      "onboard_time": 1686200975,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232226,
       "num": 232226,
       "word": "易烊千玺T锦绣六月刊封面",
@@ -739,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201713,
+      "num": 201713,
+      "word": "EXO将拍摄团综",
+      "onboard_time": 1686202051,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197716,
       "num": 197716,
       "word": "rapper是一个不错的就业选择",
       "onboard_time": 1686192450,
       "rank": 43,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 196740,
+      "num": 196740,
+      "word": "TFBOYS十周年演唱会招商PPT",
+      "onboard_time": 1686201751,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 195304,
@@ -819,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183307,
+      "num": 183307,
+      "word": "2023高考突发事件一览",
+      "onboard_time": 1686201391,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 180588,
       "num": 180588,
       "word": "黄锐说没票怎么去TFBOYS十周年",
@@ -867,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167033,
+      "num": 167033,
+      "word": "一生要强的文科人",
+      "onboard_time": 1686201992,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 165467,
       "num": 165467,
       "word": "马思纯瘦了30斤",
@@ -881,6 +913,14 @@
       "onboard_time": 1686191610,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161459,
+      "num": 521206,
+      "word": "考生上吐下泻铁骑送医考前送回",
+      "onboard_time": 1686200435,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160790,
@@ -929,6 +969,14 @@
       "onboard_time": 1686135276,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143744,
+      "num": 143744,
+      "word": "王一博长空之王年度推荐电影",
+      "onboard_time": 1686202413,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 143623,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1686180743,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72238,
-      "num": 521206,
-      "word": "考生上吐下泻铁骑送医考前送回",
-      "onboard_time": 1686200435,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70605,
