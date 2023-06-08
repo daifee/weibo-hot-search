@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686222900189,
+  "endTime": 1686224017560,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -265,6 +265,14 @@
       "onboard_time": 1685924669,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2458829,
+      "num": 1759983,
+      "word": "四川一公务员被曝出轨女同事",
+      "onboard_time": 1686219097,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2437344,
@@ -563,14 +571,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1759983,
-      "num": 1759983,
-      "word": "四川一公务员被曝出轨女同事",
-      "onboard_time": 1686219097,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1686882,
       "num": 1686882,
       "word": "上海英语 我是吴磊",
@@ -593,6 +593,14 @@
       "onboard_time": 1685959708,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1671845,
+      "num": 1496729,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1670764,
@@ -761,14 +769,6 @@
       "onboard_time": 1686049469,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1496729,
-      "num": 1496729,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1495553,
@@ -2227,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574646,
+      "num": 574646,
+      "word": "圣枪哥确认Uzi在EDG基地",
+      "onboard_time": 1686221913,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 569951,
       "num": 569951,
       "word": "哪个省份作文题目最难",
@@ -2371,6 +2379,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 514299,
+      "num": 2194916,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511522,
       "num": 511522,
       "word": "高考700分和存款700万你要哪个",
@@ -2433,14 +2449,6 @@
       "onboard_time": 1685934929,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497691,
-      "num": 2194916,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495227,
@@ -2819,14 +2827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 415438,
-      "num": 415438,
-      "word": "圣枪哥确认Uzi在EDG基地",
-      "onboard_time": 1686221913,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 415150,
       "num": 415150,
       "word": "权志龙与YG的合约到期",
@@ -3051,6 +3051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382620,
+      "num": 382620,
+      "word": "EDG老板关注Uzi",
+      "onboard_time": 1686222631,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 381363,
       "num": 381363,
       "word": "北京租房提取公积金上限调整为2000元",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1686049827,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359954,
+      "num": 359954,
+      "word": "易梦玲主动加沈月微信",
+      "onboard_time": 1686222393,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359604,
@@ -3947,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293403,
+      "num": 293403,
+      "word": "女子将俩幼女锁房间月余致其饿死",
+      "onboard_time": 1686222332,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292319,
       "num": 292319,
       "word": "我去夏威夷测二氧化碳",
@@ -4265,14 +4289,6 @@
       "onboard_time": 1686099273,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 270148,
-      "num": 270148,
-      "word": "EDG老板关注Uzi",
-      "onboard_time": 1686222631,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 269483,
@@ -4619,14 +4635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249397,
-      "num": 249397,
-      "word": "易梦玲主动加沈月微信",
-      "onboard_time": 1686222393,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 248868,
       "num": 322917,
       "word": "第一个考验交警反应能力的考生出现了",
@@ -4875,6 +4883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238803,
+      "num": 238803,
+      "word": "全自动家庭闯祸机",
+      "onboard_time": 1686223411,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238567,
       "num": 238567,
       "word": "老师攒高三生2千空笔芯做梦想之舟",
@@ -5121,14 +5137,6 @@
       "onboard_time": 1686033866,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226864,
-      "num": 226864,
-      "word": "女子将俩幼女锁房间月余致其饿死",
-      "onboard_time": 1686222332,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226863,
@@ -5451,6 +5459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216155,
+      "num": 216155,
+      "word": "陕西文旅厅没收到TFBOYS十周年演唱会申请",
+      "onboard_time": 1686222812,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216143,
       "num": 216143,
       "word": "王源献唱疯狂元素城主题曲",
@@ -5473,6 +5489,14 @@
       "onboard_time": 1686189328,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 215407,
+      "num": 215407,
+      "word": "毛不易说何书桓确实很渣",
+      "onboard_time": 1686223411,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 214711,
@@ -9011,6 +9035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32888,
+      "num": 705026,
+      "word": "明星同款T1",
+      "onboard_time": 1686222032,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32575,
       "num": 77038,
       "word": "为1291万考生祝福",
@@ -9097,14 +9129,6 @@
       "onboard_time": 1686133657,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 19097,
-      "num": 705026,
-      "word": "明星同款T1",
-      "onboard_time": 1686222032,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18803,
