@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686262551793,
+  "endTime": 1686263610328,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4355,6 +4355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277208,
+      "num": 277208,
+      "word": "北大屠夫称大学生就业难关键在父母",
+      "onboard_time": 1686256933,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276986,
       "num": 276986,
       "word": "江西省教育厅介入鸭脖事件",
@@ -5833,14 +5841,6 @@
       "onboard_time": 1685951009,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209819,
-      "num": 209819,
-      "word": "北大屠夫称大学生就业难关键在父母",
-      "onboard_time": 1686256933,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209752,
@@ -9339,20 +9339,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 52885,
+      "num": 52885,
+      "word": "Amber赢到了最后",
+      "onboard_time": 1686245658,
+      "rank": 26,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 51917,
       "num": 51917,
       "word": "RNG",
       "onboard_time": 1686251115,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51719,
-      "num": 51719,
-      "word": "Amber赢到了最后",
-      "onboard_time": 1686245658,
-      "rank": 26,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 51067,
@@ -9507,6 +9507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37330,
+      "num": 37330,
+      "word": "鞠婧祎花戎女扮男装造型",
+      "onboard_time": 1686260713,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37091,
       "num": 601897,
       "word": "乌江水位上涨188名高考生乘船赶考",
@@ -9584,14 +9592,6 @@
       "word": "朱一龙消失的她特辑",
       "onboard_time": 1686086532,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28008,
-      "num": 28008,
-      "word": "鞠婧祎花戎女扮男装造型",
-      "onboard_time": 1686260713,
-      "rank": 45,
       "category": "影视"
     },
     {

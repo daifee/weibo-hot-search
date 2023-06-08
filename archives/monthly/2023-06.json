@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686262551793,
+  "endTime": 1686263610328,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -8467,6 +8467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277208,
+      "num": 277208,
+      "word": "北大屠夫称大学生就业难关键在父母",
+      "onboard_time": 1686256933,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277194,
       "num": 277194,
       "word": "陈睿回应B站停更潮争议",
@@ -11465,14 +11473,6 @@
       "onboard_time": 1685547628,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209819,
-      "num": 209819,
-      "word": "北大屠夫称大学生就业难关键在父母",
-      "onboard_time": 1686256933,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209752,
@@ -18403,6 +18403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52885,
+      "num": 52885,
+      "word": "Amber赢到了最后",
+      "onboard_time": 1686245658,
+      "rank": 26,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 52152,
       "num": 52152,
       "word": "宝蓝真的很努力在跳了",
@@ -18433,14 +18441,6 @@
       "onboard_time": 1685710832,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51719,
-      "num": 51719,
-      "word": "Amber赢到了最后",
-      "onboard_time": 1686245658,
-      "rank": 26,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 51295,
@@ -18683,6 +18683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37330,
+      "num": 37330,
+      "word": "鞠婧祎花戎女扮男装造型",
+      "onboard_time": 1686260713,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37091,
       "num": 601897,
       "word": "乌江水位上涨188名高考生乘船赶考",
@@ -18864,14 +18872,6 @@
       "word": "北上女二",
       "onboard_time": 1685543072,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28008,
-      "num": 28008,
-      "word": "鞠婧祎花戎女扮男装造型",
-      "onboard_time": 1686260713,
-      "rank": 45,
       "category": "影视"
     },
     {
