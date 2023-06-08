@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686220434068,
+  "endTime": 1686222900189,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -27,6 +27,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 5078213,
+      "num": 5078213,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 3656939,
       "num": 3276314,
       "word": "宿管多次强奸学生聋哑母亲获刑4年",
@@ -41,14 +49,6 @@
       "onboard_time": 1686204272,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3397472,
-      "num": 3397472,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 3325416,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1759983,
+      "num": 1759983,
+      "word": "四川一公务员被曝出轨女同事",
+      "onboard_time": 1686219097,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1694723,
       "num": 541334,
       "word": "免职裙",
@@ -137,6 +145,14 @@
       "onboard_time": 1686216698,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1670764,
+      "num": 1670764,
+      "word": "957确认Uzi加入EDG",
+      "onboard_time": 1686217476,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 1624243,
@@ -163,14 +179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1575252,
-      "num": 1575252,
-      "word": "957确认Uzi加入EDG",
-      "onboard_time": 1686217476,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -185,6 +193,14 @@
       "onboard_time": 1686214832,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1496729,
+      "num": 1496729,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1465341,
@@ -289,14 +305,6 @@
       "onboard_time": 1686141273,
       "rank": 0,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 1059941,
-      "num": 1059941,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1035564,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555427,
+      "num": 555427,
+      "word": "EDG AD",
+      "onboard_time": 1686180504,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 511522,
       "num": 511522,
       "word": "高考700分和存款700万你要哪个",
@@ -539,11 +555,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 482105,
-      "num": 482105,
-      "word": "四川一公务员被曝出轨女同事",
-      "onboard_time": 1686219097,
-      "rank": 38,
+      "raw_hot": 497691,
+      "num": 2194916,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -603,6 +619,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 415438,
+      "num": 415438,
+      "word": "圣枪哥确认Uzi在EDG基地",
+      "onboard_time": 1686221913,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 414327,
       "num": 414327,
       "word": "高考英语甲卷 难",
@@ -625,14 +649,6 @@
       "onboard_time": 1686185850,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 409390,
-      "num": 1871615,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406726,
@@ -705,14 +721,6 @@
       "onboard_time": 1686195756,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365066,
-      "num": 365066,
-      "word": "EDG AD",
-      "onboard_time": 1686180504,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 359088,
@@ -875,6 +883,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 288563,
+      "num": 288563,
+      "word": "LPL",
+      "onboard_time": 1686221313,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286727,
       "num": 286727,
       "word": "林宥嘉巡演八城官宣",
@@ -939,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270148,
+      "num": 270148,
+      "word": "EDG老板关注Uzi",
+      "onboard_time": 1686222631,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269539,
       "num": 211139,
       "word": "官方通报国企领导与女子逛街",
@@ -971,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254098,
+      "num": 1714086,
+      "word": "张桂梅还穿着那件泛白的黑衬衣",
+      "onboard_time": 1686217775,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254075,
       "num": 229446,
       "word": "难怪贾玲要瘦100斤",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1686154527,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249397,
+      "num": 249397,
+      "word": "易梦玲主动加沈月微信",
+      "onboard_time": 1686222393,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246261,
@@ -1059,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234009,
-      "num": 1593659,
-      "word": "张桂梅还穿着那件泛白的黑衬衣",
-      "onboard_time": 1686217775,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233443,
       "num": 233443,
       "word": "原来这些都是seventeen啊",
@@ -1097,6 +1129,22 @@
       "onboard_time": 1686194972,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227691,
+      "num": 227691,
+      "word": "追肖战新剧的我belike",
+      "onboard_time": 1686222273,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226864,
+      "num": 226864,
+      "word": "女子将俩幼女锁房间月余致其饿死",
+      "onboard_time": 1686222332,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225401,
@@ -1163,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213206,
+      "num": 213206,
+      "word": "中国传媒大学直播",
+      "onboard_time": 1686221732,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211046,
       "num": 211046,
       "word": "2023KPL夏季赛大名单",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1686205170,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199755,
+      "num": 199755,
+      "word": "你当年高考英语考多少分",
+      "onboard_time": 1686222032,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197716,
@@ -1849,6 +1913,14 @@
       "onboard_time": 1686151774,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19097,
+      "num": 705026,
+      "word": "明星同款T1",
+      "onboard_time": 1686222032,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14297,

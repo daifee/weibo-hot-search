@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/08 18:33:54
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/08 19:15:00
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%20EDG%23" target="weibo">
+Uzi EDG（热度：5078213）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%92%9E%E8%87%B4%E6%AD%BB%E7%94%B7%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%A4%84%E4%BA%8E%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98%23" target="weibo">
 被撞致死男孩父亲处于崩溃边缘（热度：4395833）
 </a>
@@ -107,12 +113,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E8%A1%97%E6%8B%8D%23" target="weibo">
 成都太古里明确禁止未经允许街拍（热度：3476833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Uzi%20EDG%23" target="weibo">
-Uzi EDG（热度：3397472）
 </a>
 </li>
 
@@ -687,6 +687,12 @@ Angelababy 蒂芙尼（热度：1798701）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%90%8C%E4%BA%8B%23" target="weibo">
+四川一公务员被曝出轨女同事（热度：1759983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
 武汉迪士尼（热度：1745766）
 </a>
@@ -731,6 +737,12 @@ Angelababy 蒂芙尼（热度：1798701）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC%23" target="weibo">
 知情人辟谣被撞小学生父亲坠楼（热度：1677029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23" target="weibo">
+957确认Uzi加入EDG（热度：1670764）
 </a>
 </li>
 
@@ -867,12 +879,6 @@ Lisa露额头（热度：1610694）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23" target="weibo">
-957确认Uzi加入EDG（热度：1575252）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%B7%A5%E8%B5%841W%E4%BB%A5%E4%B8%8A%E6%89%8D%E9%9C%80%E8%80%83%E8%99%91%E7%9A%84%E4%BA%8B%E6%83%85%23" target="weibo">
 这是工资1W以上才需考虑的事情（热度：1572951）
 </a>
@@ -941,6 +947,12 @@ Lisa露额头（热度：1610694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%98%8E%E7%A1%AE%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E8%80%83%23" target="weibo">
 广东明确停课不停考（热度：1504376）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%96%91%E4%BC%BC%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E8%B4%A6%E5%8F%B7%23" target="weibo">
+牵手门女当事人疑似清空社交账号（热度：1496729）
 </a>
 </li>
 
@@ -1643,12 +1655,6 @@ Jennie新剧（热度：1076254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%23" target="weibo">
 胡继勇（热度：1061459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%96%91%E4%BC%BC%E6%B8%85%E7%A9%BA%E7%A4%BE%E4%BA%A4%E8%B4%A6%E5%8F%B7%23" target="weibo">
-牵手门女当事人疑似清空社交账号（热度：1059941）
 </a>
 </li>
 
@@ -3141,6 +3147,12 @@ EXO新歌MV拍摄取消（热度：562251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%20AD%23" target="weibo">
+EDG AD（热度：555427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D70%E5%B2%81%E7%8A%B6%E6%80%81%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
 赵雅芝70岁状态有多绝（热度：553350）
 </a>
@@ -3417,6 +3429,12 @@ TFBOYS团徽三角没有封角（热度：518254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23" target="weibo">
+金毛误入考场被民警请出（热度：497691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE%20%E7%8E%8B%E6%BA%90%23" target="weibo">
 五月天嘉宾 王源（热度：496286）
 </a>
@@ -3509,12 +3527,6 @@ NCT团站休站（热度：486474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23" target="weibo">
 虞书欣工作人员的手机壳（热度：484649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%90%8C%E4%BA%8B%23" target="weibo">
-四川一公务员被曝出轨女同事（热度：482105）
 </a>
 </li>
 
@@ -4047,6 +4059,12 @@ NBA总决赛（热度：418719）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A3%E6%9E%AA%E5%93%A5%E7%A1%AE%E8%AE%A4Uzi%E5%9C%A8EDG%E5%9F%BA%E5%9C%B0%23" target="weibo">
+圣枪哥确认Uzi在EDG基地（热度：415438）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E4%B8%8EYG%E7%9A%84%E5%90%88%E7%BA%A6%E5%88%B0%E6%9C%9F%23" target="weibo">
 权志龙与YG的合约到期（热度：415150）
 </a>
@@ -4103,12 +4121,6 @@ QQ音乐豪华绿钻续费价格上调（热度：411222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23" target="weibo">
 小伙被吸入涵洞口30人紧紧拉回（热度：410058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23" target="weibo">
-金毛误入考场被民警请出（热度：409390）
 </a>
 </li>
 
@@ -4601,12 +4613,6 @@ EDG对战BLG（热度：370620）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E6%95%91%E7%81%AB%23" target="weibo">
 徐志胜救火（热度：365077）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%20AD%23" target="weibo">
-EDG AD（热度：365066）
 </a>
 </li>
 
@@ -5931,6 +5937,12 @@ TFBOYS演唱会最终章（热度：289572）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LPL%23" target="weibo">
+LPL（热度：288563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E9%80%81%E6%88%91%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%E6%98%AF%E6%9D%AF52%E9%A2%97%E7%8F%8D%E7%8F%A0%E7%9A%84%E5%A5%B6%E8%8C%B6%23" target="weibo">
 他送我生日礼物是杯52颗珍珠的奶茶（热度：288392）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS演唱会最终章（热度：289572）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%BB%BA%23" target="weibo">
 二建（热度：286243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Amber%E5%90%AC%E5%88%B0%E8%B0%A2%E5%A8%9C%E7%AC%AC%E4%B8%80%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-Amber听到谢娜第一的反应（热度：286215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%9545%E5%B2%81%E7%A9%BF%E6%A0%A1%E6%9C%8D%E7%8A%B6%E6%80%81%23" target="weibo">
-黄奕45岁穿校服状态（热度：285918）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686220434068,
+  "endTime": 1686222900189,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5078213,
+      "num": 5078213,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 4395833,
       "num": 1141762,
       "word": "被撞致死男孩父亲处于崩溃边缘",
@@ -129,14 +137,6 @@
       "onboard_time": 1686204272,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3397472,
-      "num": 3397472,
-      "word": "Uzi EDG",
-      "onboard_time": 1686211954,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 3325416,
@@ -899,6 +899,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1759983,
+      "num": 1759983,
+      "word": "四川一公务员被曝出轨女同事",
+      "onboard_time": 1686219097,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1745766,
       "num": 1745766,
       "word": "武汉迪士尼",
@@ -961,6 +969,14 @@
       "onboard_time": 1685721031,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1670764,
+      "num": 1670764,
+      "word": "957确认Uzi加入EDG",
+      "onboard_time": 1686217476,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 1663297,
@@ -1139,14 +1155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1575252,
-      "num": 1575252,
-      "word": "957确认Uzi加入EDG",
-      "onboard_time": 1686217476,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1572951,
       "num": 1572951,
       "word": "这是工资1W以上才需考虑的事情",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1686049469,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1496729,
+      "num": 1496729,
+      "word": "牵手门女当事人疑似清空社交账号",
+      "onboard_time": 1686210451,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1495553,
@@ -2176,14 +2192,6 @@
       "word": "胡继勇",
       "onboard_time": 1686114339,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1059941,
-      "num": 1059941,
-      "word": "牵手门女当事人疑似清空社交账号",
-      "onboard_time": 1686210451,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4171,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555427,
+      "num": 555427,
+      "word": "EDG AD",
+      "onboard_time": 1686180504,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 553350,
       "num": 553350,
       "word": "赵雅芝70岁状态有多绝",
@@ -4539,6 +4555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497691,
+      "num": 2194916,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
@@ -4665,14 +4689,6 @@
       "onboard_time": 1686064954,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482105,
-      "num": 482105,
-      "word": "四川一公务员被曝出轨女同事",
-      "onboard_time": 1686219097,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481819,
@@ -5379,6 +5395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415438,
+      "num": 415438,
+      "word": "圣枪哥确认Uzi在EDG基地",
+      "onboard_time": 1686221913,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 415150,
       "num": 415150,
       "word": "权志龙与YG的合约到期",
@@ -5456,14 +5480,6 @@
       "word": "小伙被吸入涵洞口30人紧紧拉回",
       "onboard_time": 1686081192,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409390,
-      "num": 1871615,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -6121,14 +6137,6 @@
       "onboard_time": 1686098431,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365066,
-      "num": 365066,
-      "word": "EDG AD",
-      "onboard_time": 1686180504,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 363434,
@@ -7891,6 +7899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288563,
+      "num": 288563,
+      "word": "LPL",
+      "onboard_time": 1685801130,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288392,
       "num": 237444,
       "word": "他送我生日礼物是杯52颗珍珠的奶茶",
@@ -8483,6 +8499,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 270148,
+      "num": 270148,
+      "word": "EDG老板关注Uzi",
+      "onboard_time": 1686222631,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -8585,14 +8609,6 @@
       "onboard_time": 1685686886,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266308,
-      "num": 266308,
-      "word": "LPL",
-      "onboard_time": 1685801130,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 265955,
@@ -9083,6 +9099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254098,
+      "num": 1714086,
+      "word": "张桂梅还穿着那件泛白的黑衬衣",
+      "onboard_time": 1686217775,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254049,
       "num": 233478,
       "word": "做个不太好说话的人反而可以更轻松",
@@ -9273,6 +9297,14 @@
       "onboard_time": 1685604446,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249397,
+      "num": 249397,
+      "word": "易梦玲主动加沈月微信",
+      "onboard_time": 1686222393,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249290,
@@ -9931,14 +9963,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 234009,
-      "num": 1593659,
-      "word": "张桂梅还穿着那件泛白的黑衬衣",
-      "onboard_time": 1686217775,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233921,
       "num": 173927,
       "word": "金在中去看了金泰妍演唱会",
@@ -10235,6 +10259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227691,
+      "num": 227691,
+      "word": "追肖战新剧的我belike",
+      "onboard_time": 1686222273,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227467,
       "num": 209779,
       "word": "中国说唱 人情世故",
@@ -10273,6 +10305,14 @@
       "onboard_time": 1685634086,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226864,
+      "num": 226864,
+      "word": "女子将俩幼女锁房间月余致其饿死",
+      "onboard_time": 1686222332,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226863,
@@ -10985,6 +11025,14 @@
       "onboard_time": 1686110749,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213206,
+      "num": 213206,
+      "word": "中国传媒大学直播",
+      "onboard_time": 1686221732,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 213100,
@@ -11705,6 +11753,14 @@
       "onboard_time": 1685768250,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199755,
+      "num": 199755,
+      "word": "你当年高考英语考多少分",
+      "onboard_time": 1686222032,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 199709,
@@ -18385,6 +18441,14 @@
       "onboard_time": 1685703632,
       "rank": 39,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 19097,
+      "num": 705026,
+      "word": "明星同款T1",
+      "onboard_time": 1686222032,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19019,
