@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686237435655,
+  "endTime": 1686238429438,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -267,6 +267,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1315421,
+      "num": 565084,
+      "word": "街拍事件最新画面曝光",
+      "onboard_time": 1686232772,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283952,
       "num": 800068,
       "word": "中国电信回应广东无信号",
@@ -353,14 +361,6 @@
       "onboard_time": 1686141273,
       "rank": 0,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 1045230,
-      "num": 539946,
-      "word": "街拍事件最新画面曝光",
-      "onboard_time": 1686232772,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1035564,
@@ -667,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494317,
+      "num": 464563,
+      "word": "安徽一高考考点被曝英语听力听不清",
+      "onboard_time": 1686232953,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 474378,
       "num": 474378,
       "word": "虞书欣直播手势",
@@ -681,14 +689,6 @@
       "onboard_time": 1686224671,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464563,
-      "num": 464563,
-      "word": "安徽一高考考点被曝英语听力听不清",
-      "onboard_time": 1686232953,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 453868,
@@ -827,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 380542,
+      "num": 229356,
+      "word": "她是怎么忍住不用剪刀的",
+      "onboard_time": 1686234812,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368334,
       "num": 368334,
       "word": "梅西决定加盟迈阿密国际",
@@ -913,14 +921,6 @@
       "onboard_time": 1686196539,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 328819,
-      "num": 229356,
-      "word": "她是怎么忍住不用剪刀的",
-      "onboard_time": 1686234812,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 326864,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267048,
+      "num": 267048,
+      "word": "高考结束张桂梅又躲进空教室",
+      "onboard_time": 1686235773,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 265802,
       "num": 265802,
       "word": "终于等到吴青峰唱毕业歌",
@@ -1203,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248815,
+      "num": 248815,
+      "word": "肖战梦中的那片海杀青1周年",
+      "onboard_time": 1686234934,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246261,
       "num": 246261,
       "word": "李一桐把水花穿在身上",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1686140074,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244173,
-      "num": 244173,
-      "word": "肖战梦中的那片海杀青1周年",
-      "onboard_time": 1686234934,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 243562,
@@ -1379,12 +1387,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 216272,
-      "num": 216272,
-      "word": "高考结束张桂梅又躲进空教室",
-      "onboard_time": 1686235773,
+      "raw_hot": 216227,
+      "num": 216227,
+      "word": "徐云",
+      "onboard_time": 1686237571,
       "rank": 31,
-      "category": "社会新闻,教育"
+      "category": "网红"
     },
     {
       "raw_hot": 215629,
@@ -1443,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208884,
+      "num": 208884,
+      "word": "周润发说当演员很辛苦当明星简单很多",
+      "onboard_time": 1686237152,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208504,
       "num": 208504,
       "word": "互联网菩萨",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1686187950,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204947,
+      "num": 204947,
+      "word": "点燃了暑期的爆款剧",
+      "onboard_time": 1686235773,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 202682,
@@ -1505,14 +1529,6 @@
       "onboard_time": 1686215556,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 196206,
-      "num": 196206,
-      "word": "点燃了暑期的爆款剧",
-      "onboard_time": 1686235773,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 195707,
@@ -1883,20 +1899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149736,
+      "num": 149736,
+      "word": "上海外滩偶遇周润发晨跑",
+      "onboard_time": 1686236732,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148774,
       "num": 148774,
       "word": "邓宥希",
       "onboard_time": 1686149914,
       "rank": 29,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 147604,
-      "num": 147604,
-      "word": "上海外滩偶遇周润发晨跑",
-      "onboard_time": 1686236732,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147355,
@@ -1913,14 +1929,6 @@
       "onboard_time": 1686135276,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146479,
-      "num": 143439,
-      "word": "周润发说当演员很辛苦当明星简单很多",
-      "onboard_time": 1686237152,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 143859,
@@ -1971,6 +1979,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 133506,
+      "num": 133506,
+      "word": "文俊辉上海到达",
+      "onboard_time": 1686234453,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133005,
       "num": 133005,
       "word": "班主任给全班请了十年的假",
@@ -2004,7 +2020,7 @@
     },
     {
       "raw_hot": 129236,
-      "num": 370085,
+      "num": 384654,
       "word": "小学生等校车间隙帮工人大叔搬砖",
       "onboard_time": 1686233553,
       "rank": 46,
@@ -2033,14 +2049,6 @@
       "onboard_time": 1686224431,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123549,
-      "num": 123549,
-      "word": "文俊辉上海到达",
-      "onboard_time": 1686234453,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 123473,
@@ -2089,6 +2097,14 @@
       "onboard_time": 1686135218,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109582,
+      "num": 109582,
+      "word": "公诉",
+      "onboard_time": 1686238229,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 108169,
