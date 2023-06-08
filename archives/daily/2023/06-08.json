@@ -1,7 +1,15 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686188831991,
+  "endTime": 1686190221687,
   "band_list": [
+    {
+      "raw_hot": 2648645,
+      "num": 2648645,
+      "word": "复旦研究生嫖娼被开除起诉学校被驳",
+      "onboard_time": 1686187111,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 2228242,
       "num": 576371,
@@ -19,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1913596,
+      "raw_hot": 1920477,
       "num": 410638,
       "word": "董思槿",
       "onboard_time": 1686179784,
@@ -51,19 +59,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1317321,
-      "num": 1317321,
+      "raw_hot": 1350158,
+      "num": 1350158,
       "word": "高考",
       "onboard_time": 1686179602,
       "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1310837,
-      "num": 1310837,
-      "word": "复旦研究生嫖娼被开除起诉学校被驳",
-      "onboard_time": 1686187111,
-      "rank": 1,
       "category": "社会新闻,教育"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 778201,
-      "num": 441527,
+      "num": 460960,
       "word": "路人对迪丽热巴的现状分析",
       "onboard_time": 1686150875,
       "rank": 11,
@@ -171,8 +171,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 484917,
-      "num": 484917,
+      "raw_hot": 495620,
+      "num": 495620,
       "word": "凤凰传奇一个火上辈子一个火下辈子",
       "onboard_time": 1686145774,
       "rank": 9,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374079,
+      "num": 374079,
+      "word": "王润泽和奶奶",
+      "onboard_time": 1686189570,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368334,
       "num": 368334,
       "word": "梅西决定加盟迈阿密国际",
@@ -251,8 +259,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 325788,
-      "num": 325788,
+      "raw_hot": 348269,
+      "num": 348269,
       "word": "千万不要长期喝饮料",
       "onboard_time": 1686186150,
       "rank": 24,
@@ -265,6 +273,30 @@
       "onboard_time": 1686184591,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310878,
+      "num": 310878,
+      "word": "NBA总决赛",
+      "onboard_time": 1686189570,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 306600,
+      "num": 306600,
+      "word": "牵手胡某勇女子同款裙子销量激增",
+      "onboard_time": 1686189691,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296388,
+      "num": 296388,
+      "word": "好友否认虞书欣吴建豪恋情",
+      "onboard_time": 1686179602,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 286375,
@@ -313,14 +345,6 @@
       "onboard_time": 1686142475,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251538,
-      "num": 251538,
-      "word": "好友否认虞书欣吴建豪恋情",
-      "onboard_time": 1686179602,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 250787,
@@ -427,6 +451,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185373,
+      "num": 185373,
+      "word": "代号鸢",
+      "onboard_time": 1686186392,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 181247,
+      "num": 181247,
+      "word": "妈妈保留女儿1997年高考准考证",
+      "onboard_time": 1686189328,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178546,
+      "num": 178546,
+      "word": "黄渤 让观众记住的不是名字写在哪里",
+      "onboard_time": 1686189751,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177876,
       "num": 177876,
       "word": "TFBOYS灯牌亮度",
@@ -435,20 +483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175992,
+      "num": 175992,
+      "word": "2023高考查分时间",
+      "onboard_time": 1686189570,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 173935,
       "num": 173935,
       "word": "胡继勇正接受公司纪委核查",
       "onboard_time": 1686114339,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172186,
-      "num": 172186,
-      "word": "代号鸢",
-      "onboard_time": 1686186392,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 168029,
@@ -601,6 +649,14 @@
       "onboard_time": 1686144872,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116546,
+      "num": 116546,
+      "word": "原来仓鼠的嘴巴这么能塞",
+      "onboard_time": 1686190170,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 111285,
