@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/05 00:21:01 ~ 2023/06/09 01:15:36
+本榜单时间：2023/06/05 00:21:01 ~ 2023/06/09 01:33:25
 </p>
 </blockquote>
 <p>
@@ -1655,6 +1655,12 @@ leave（热度：696926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E8%89%BA%E4%BA%BA%E7%9B%AE%E5%BD%95%E4%B8%AD%E6%B2%A1%E6%9C%89BIGBANG%23" target="weibo">
 YG艺人目录中没有BIGBANG（热度：638400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%23" target="weibo">
+Uzi（热度：635102）
 </a>
 </li>
 

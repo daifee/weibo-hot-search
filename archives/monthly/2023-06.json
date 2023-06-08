@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686244536051,
+  "endTime": 1686245605845,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1685968706,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635102,
+      "num": 635102,
+      "word": "Uzi",
+      "onboard_time": 1686244939,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 632733,

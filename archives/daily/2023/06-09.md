@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/09 00:22:22 ~ 2023/06/09 01:15:36
+本榜单时间：2023/06/09 00:22:22 ~ 2023/06/09 01:33:25
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@ Amber单杀Uzi（热度：924194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23" target="weibo">
 杨紫赵露思撞衫（热度：665807）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%23" target="weibo">
+Uzi（热度：635102）
 </a>
 </li>
 
