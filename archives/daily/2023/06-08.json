@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686205313429,
+  "endTime": 1686206089319,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -27,8 +27,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2946326,
-      "num": 2946326,
+      "raw_hot": 3276314,
+      "num": 3276314,
       "word": "宿管多次强奸学生聋哑母亲获刑4年",
       "onboard_time": 1686203431,
       "rank": 1,
@@ -131,6 +131,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1338053,
+      "num": 534261,
+      "word": "成都太古里明确禁止未经允许街拍",
+      "onboard_time": 1686204272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1276263,
       "num": 1276263,
       "word": "庆余年2",
@@ -179,6 +187,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 1035564,
+      "num": 1035564,
+      "word": "TFBOYS十周年演唱会招商PPT",
+      "onboard_time": 1686201751,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1029690,
       "num": 1029690,
       "word": "欧雅若都当妈了",
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 961725,
-      "num": 961725,
-      "word": "TFBOYS十周年演唱会招商PPT",
-      "onboard_time": 1686201751,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 951218,
       "num": 951218,
       "word": "胡锡进 这个人不知让什么冲昏了头脑",
@@ -227,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 932941,
-      "num": 932941,
+      "raw_hot": 943827,
+      "num": 943827,
       "word": "长得还行迪丽热巴",
       "onboard_time": 1686200975,
       "rank": 37,
@@ -323,14 +331,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 636755,
-      "num": 421210,
-      "word": "成都太古里明确禁止未经允许街拍",
-      "onboard_time": 1686204272,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619363,
       "num": 286091,
       "word": "梅西中国行门票",
@@ -369,6 +369,14 @@
       "onboard_time": 1686126154,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 467953,
+      "num": 467953,
+      "word": "柯以敏直播大怒",
+      "onboard_time": 1686204272,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 453868,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 400433,
-      "num": 276069,
+      "num": 294745,
       "word": "牵手门女主曾晒账单消费超240万",
       "onboard_time": 1686204694,
       "rank": 25,
@@ -441,14 +449,6 @@
       "onboard_time": 1686203131,
       "rank": 18,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 396929,
-      "num": 396929,
-      "word": "柯以敏直播大怒",
-      "onboard_time": 1686204272,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 396037,
@@ -755,6 +755,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 218042,
+      "num": 218042,
+      "word": "2023高考突发事件一览",
+      "onboard_time": 1686201391,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 215629,
       "num": 215629,
       "word": "妈妈保留女儿1997年高考准考证",
@@ -787,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208670,
-      "num": 208670,
-      "word": "2023高考突发事件一览",
-      "onboard_time": 1686201391,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 208504,
       "num": 208504,
       "word": "互联网菩萨",
@@ -809,6 +809,14 @@
       "onboard_time": 1686194671,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 207206,
+      "num": 207206,
+      "word": "花戎",
+      "onboard_time": 1686205111,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 205892,
@@ -827,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200376,
+      "num": 200376,
+      "word": "周深和曾毅都沉默了",
+      "onboard_time": 1686205170,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197716,
       "num": 197716,
       "word": "rapper是一个不错的就业选择",
       "onboard_time": 1686192450,
       "rank": 43,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 195707,
+      "num": 195707,
+      "word": "张艺兴让粉丝投票选应援棒",
+      "onboard_time": 1686205295,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 195304,
@@ -865,6 +889,14 @@
       "onboard_time": 1686140915,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191798,
+      "num": 191798,
+      "word": "杨紫黑长直封面大片",
+      "onboard_time": 1686205591,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190065,
@@ -907,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184878,
+      "num": 184878,
+      "word": "高考完了可以翻翻大学生的微博",
+      "onboard_time": 1686204511,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180588,
       "num": 180588,
       "word": "黄锐说没票怎么去TFBOYS十周年",
@@ -937,14 +977,6 @@
       "onboard_time": 1686191372,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176592,
-      "num": 176592,
-      "word": "高考完了可以翻翻大学生的微博",
-      "onboard_time": 1686204511,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 173935,
@@ -1027,22 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158366,
-      "num": 158366,
-      "word": "花戎",
-      "onboard_time": 1686205111,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 153944,
-      "num": 153944,
-      "word": "周深和曾毅都沉默了",
-      "onboard_time": 1686205170,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150561,
       "num": 150561,
       "word": "柯基每天上班第一件事是去干架",
@@ -1099,14 +1115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140356,
-      "num": 140356,
-      "word": "张艺兴让粉丝投票选应援棒",
-      "onboard_time": 1686205295,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140092,
       "num": 140092,
       "word": "leave",
@@ -1123,6 +1131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 132114,
+      "num": 132114,
+      "word": "考场一字之差交警狂飙送考手开到颤",
+      "onboard_time": 1686206072,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 130487,
       "num": 130487,
       "word": "如果丧尸爆发你觉得哪里最安全",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1686148476,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127589,
+      "num": 469785,
+      "word": "考点执勤多年终于当上了陪考家长",
+      "onboard_time": 1686204031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125893,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1686180443,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 81889,
-      "num": 439892,
-      "word": "考点执勤多年终于当上了陪考家长",
-      "onboard_time": 1686204031,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78231,
