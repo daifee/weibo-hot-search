@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686195209373,
+  "endTime": 1686198036857,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -25,6 +25,22 @@
       "onboard_time": 1686103592,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10155728,
+      "num": 10155728,
+      "word": "中国石油大学回应",
+      "onboard_time": 1686192990,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8931743,
+      "num": 8931743,
+      "word": "董某某被停职",
+      "onboard_time": 1686194372,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8615320,
@@ -57,14 +73,6 @@
       "onboard_time": 1686109729,
       "rank": 3,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 5631883,
-      "num": 5631883,
-      "word": "中国石油大学回应",
-      "onboard_time": 1686192990,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3325416,
@@ -499,14 +507,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 1713485,
-      "num": 511971,
-      "word": "董某某被停职",
-      "onboard_time": 1686194372,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1465341,
-      "num": 635362,
+      "num": 681973,
       "word": "都来杜去",
       "onboard_time": 1686179663,
       "rank": 18,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 1168432,
-      "num": 622997,
+      "num": 753527,
       "word": "虞书欣工作室否认恋情",
       "onboard_time": 1686191729,
       "rank": 12,
@@ -1147,6 +1147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1013701,
+      "num": 1013701,
+      "word": "高考理综",
+      "onboard_time": 1686194012,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1013445,
       "num": 1013445,
       "word": "高铁站台为什么不能打伞",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1686006141,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 982888,
+      "num": 982888,
+      "word": "庆余年2",
+      "onboard_time": 1686194613,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 976003,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1686030325,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 800508,
+      "num": 800508,
+      "word": "高考文综",
+      "onboard_time": 1686194852,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 799329,
@@ -2627,22 +2651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 397176,
-      "num": 397176,
-      "word": "高考文综",
-      "onboard_time": 1686194852,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 393422,
-      "num": 393422,
-      "word": "高考理综",
-      "onboard_time": 1686194012,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 390788,
       "num": 390788,
       "word": "张一山 演盲人",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1686117813,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 384545,
-      "num": 384545,
-      "word": "庆余年2",
-      "onboard_time": 1686194613,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 383085,
@@ -2913,6 +2913,14 @@
       "onboard_time": 1686033328,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357161,
+      "num": 357161,
+      "word": "文综乙卷 写不完",
+      "onboard_time": 1686197561,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 354421,
@@ -3147,6 +3155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329543,
+      "num": 329543,
+      "word": "高考700分和存款700万你要哪个",
+      "onboard_time": 1686196778,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328570,
       "num": 328570,
       "word": "回想去年的红楼梦",
@@ -3184,6 +3200,14 @@
       "word": "查理苏",
       "onboard_time": 1686016287,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 325174,
+      "num": 325174,
+      "word": "陆景和",
+      "onboard_time": 1686196297,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -3463,6 +3487,14 @@
       "num": 295998,
       "word": "李艾说父亲追悼会上我和我妈都没有哭",
       "onboard_time": 1686031587,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 295985,
+      "num": 295985,
+      "word": "张颂文狂飙后首次回深",
+      "onboard_time": 1686195756,
       "rank": 30,
       "category": "艺人"
     },
@@ -4443,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230854,
+      "num": 230854,
+      "word": "桃花坞 论尬的咱就没输过",
+      "onboard_time": 1686194972,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230748,
       "num": 230748,
       "word": "高考那道错题刚刚好让你遇到对的人",
@@ -4473,6 +4513,14 @@
       "onboard_time": 1686115116,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 229206,
+      "num": 229206,
+      "word": "江苏人真的奶茶拌饭吃吗",
+      "onboard_time": 1686196539,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 229020,
@@ -5283,6 +5331,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 197716,
+      "num": 197716,
+      "word": "rapper是一个不错的就业选择",
+      "onboard_time": 1686192450,
+      "rank": 43,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "赵露思陈哲远偷偷藏不住下证",
@@ -5691,6 +5747,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 185679,
+      "num": 185679,
+      "word": "宋祖儿张新成红蓝双人大片",
+      "onboard_time": 1686197502,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185649,
       "num": 185649,
       "word": "NCT将举办大队演唱会",
@@ -6011,14 +6075,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 175124,
-      "num": 175124,
-      "word": "桃花坞 论尬的咱就没输过",
-      "onboard_time": 1686194972,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174870,
       "num": 162278,
       "word": "黑莲花 成毅",
@@ -6185,14 +6241,6 @@
       "onboard_time": 1686108344,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 168034,
-      "num": 168034,
-      "word": "rapper是一个不错的就业选择",
-      "onboard_time": 1686192450,
-      "rank": 43,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 168029,
@@ -6875,6 +6923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136086,
+      "num": 626848,
+      "word": "50岁妈妈三战上岸中国美院",
+      "onboard_time": 1686196838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135127,
       "num": 128143,
       "word": "鹿晗三巡周边预告",
@@ -7148,7 +7204,7 @@
     },
     {
       "raw_hot": 124428,
-      "num": 1713497,
+      "num": 5142519,
       "word": "这份高考祝福穿越百年",
       "onboard_time": 1686144156,
       "rank": 2,
