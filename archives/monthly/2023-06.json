@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686241342985,
+  "endTime": 1686242263783,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3683,6 +3683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 670799,
+      "num": 670799,
+      "word": "她是怎么忍住不用剪刀的",
+      "onboard_time": 1686234812,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 669807,
       "num": 185372,
       "word": "顾成 苏艳",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1685872946,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579558,
-      "num": 258111,
-      "word": "她是怎么忍住不用剪刀的",
-      "onboard_time": 1686234812,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 578621,
@@ -4819,6 +4819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484349,
+      "num": 172919,
+      "word": "肝脏移植前后肤色对比",
+      "onboard_time": 1686239428,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
@@ -5017,14 +5025,6 @@
       "onboard_time": 1686147456,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 462374,
-      "num": 172919,
-      "word": "肝脏移植前后肤色对比",
-      "onboard_time": 1686239428,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461948,
@@ -7161,6 +7161,14 @@
       "onboard_time": 1685778509,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 324722,
+      "num": 324722,
+      "word": "Angelababy张大大有默契但不多",
+      "onboard_time": 1686240449,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 324661,
@@ -10305,14 +10313,6 @@
       "onboard_time": 1686022530,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231745,
-      "num": 231745,
-      "word": "Angelababy张大大有默契但不多",
-      "onboard_time": 1686240449,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 231656,
@@ -17003,6 +17003,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 107606,
+      "num": 107606,
+      "word": "你最期待哪方面的生育支持措施",
+      "onboard_time": 1686241645,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107453,
       "num": 107453,
       "word": "Ella二公第五",
@@ -17849,6 +17857,14 @@
       "onboard_time": 1685588427,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73723,
+      "num": 73723,
+      "word": "周深版玉兔出场主打一个蹦蹦跳跳",
+      "onboard_time": 1686242065,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 73286,

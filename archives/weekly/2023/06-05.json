@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686241342985,
+  "endTime": 1686242263783,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670799,
+      "num": 670799,
+      "word": "她是怎么忍住不用剪刀的",
+      "onboard_time": 1686234812,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1686043349,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 579558,
-      "num": 258111,
-      "word": "她是怎么忍住不用剪刀的",
-      "onboard_time": 1686234812,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 569951,
@@ -2627,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484349,
+      "num": 172919,
+      "word": "肝脏移植前后肤色对比",
+      "onboard_time": 1686239428,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1686147456,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 462374,
-      "num": 172919,
-      "word": "肝脏移植前后肤色对比",
-      "onboard_time": 1686239428,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460478,
@@ -3761,6 +3761,14 @@
       "onboard_time": 1686016287,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324722,
+      "num": 324722,
+      "word": "Angelababy张大大有默契但不多",
+      "onboard_time": 1686240449,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 324661,
@@ -5249,14 +5257,6 @@
       "onboard_time": 1686022530,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231745,
-      "num": 231745,
-      "word": "Angelababy张大大有默契但不多",
-      "onboard_time": 1686240449,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 231474,
@@ -8707,6 +8707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 107606,
+      "num": 107606,
+      "word": "你最期待哪方面的生育支持措施",
+      "onboard_time": 1686241645,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107395,
       "num": 107395,
       "word": "男子承包三餐只为督促妻子多吃点",
@@ -9089,6 +9097,14 @@
       "onboard_time": 1686208413,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73723,
+      "num": 73723,
+      "word": "周深版玉兔出场主打一个蹦蹦跳跳",
+      "onboard_time": 1686242065,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 73224,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686241342985,
+  "endTime": 1686242263783,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1153377,
-      "num": 258642,
+      "num": 324577,
       "word": "鼠头鸭脖高校学生称又吃出大青虫",
       "onboard_time": 1686230130,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 827100,
-      "num": 258507,
+      "num": 324043,
       "word": "四川一公务员被曝出轨女同事",
       "onboard_time": 1686219097,
       "rank": 11,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 783867,
-      "num": 351730,
+      "num": 503003,
       "word": "成都太古里明确禁止未经允许街拍",
       "onboard_time": 1686204272,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670799,
+      "num": 670799,
+      "word": "她是怎么忍住不用剪刀的",
+      "onboard_time": 1686234812,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 665807,
@@ -65,14 +73,6 @@
       "onboard_time": 1686214832,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 579558,
-      "num": 258111,
-      "word": "她是怎么忍住不用剪刀的",
-      "onboard_time": 1686234812,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 570283,
@@ -99,7 +99,7 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 462374,
+      "raw_hot": 484349,
       "num": 172919,
       "word": "肝脏移植前后肤色对比",
       "onboard_time": 1686239428,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324722,
+      "num": 324722,
+      "word": "Angelababy张大大有默契但不多",
+      "onboard_time": 1686240449,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324617,
-      "num": 257968,
+      "num": 261208,
       "word": "牵手门女当事人疑似清空社交账号",
       "onboard_time": 1686210451,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304738,
+      "num": 304738,
+      "word": "安徽一高考考点被曝英语听力听不清",
+      "onboard_time": 1686232953,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 263751,
@@ -145,14 +161,6 @@
       "onboard_time": 1686230973,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257702,
-      "num": 257702,
-      "word": "安徽一高考考点被曝英语听力听不清",
-      "onboard_time": 1686232953,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 248287,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231745,
-      "num": 231745,
-      "word": "Angelababy张大大有默契但不多",
-      "onboard_time": 1686240449,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223422,
       "num": 223422,
       "word": "上海英语 我是吴磊",
@@ -211,20 +211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187337,
+      "num": 187337,
+      "word": "高圆圆吃了我的刀削面",
+      "onboard_time": 1686229470,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185257,
       "num": 185257,
       "word": "EDG AD",
       "onboard_time": 1686180504,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183714,
-      "num": 183714,
-      "word": "高圆圆吃了我的刀削面",
-      "onboard_time": 1686229470,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 183583,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107606,
+      "num": 107606,
+      "word": "你最期待哪方面的生育支持措施",
+      "onboard_time": 1686241645,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102830,
       "num": 102830,
       "word": "刘诗诗白鹿侧颜相似度",
@@ -361,6 +369,14 @@
       "onboard_time": 1686210632,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86267,
+      "num": 86267,
+      "word": "转学后发现老师也转来了",
+      "onboard_time": 1686232113,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 82313,
@@ -395,7 +411,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24319,
+      "raw_hot": 73723,
+      "num": 73723,
+      "word": "周深版玉兔出场主打一个蹦蹦跳跳",
+      "onboard_time": 1686242065,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31582,
       "num": 621885,
       "word": "高考第二天",
       "onboard_time": 1686181947,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#祖国北疆的绿色答卷#"
+    },
+    {
+      "word": "#更好担负起新的文化使命#"
     }
   ]
 }

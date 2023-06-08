@@ -1,0 +1,410 @@
+{
+  "runTime": 1686242263783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895286,
+        "num": 895286,
+        "word": "Amber单杀Uzi",
+        "onboard_time": 1686231453,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 670799,
+        "num": 670799,
+        "word": "她是怎么忍住不用剪刀的",
+        "onboard_time": 1686234812,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31582,
+        "num": 575899,
+        "word": "高考第二天",
+        "onboard_time": 1686181947,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443274,
+        "num": 574923,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 545156,
+        "num": 545156,
+        "word": "高考结束张桂梅又躲进空教室",
+        "onboard_time": 1686235773,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 994847,
+        "num": 539189,
+        "word": "街拍事件最新画面曝光",
+        "onboard_time": 1686232772,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527472,
+        "num": 527472,
+        "word": "杨紫赵露思撞衫",
+        "onboard_time": 1686231572,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509445,
+        "num": 509445,
+        "word": "通知他们仨了吗",
+        "onboard_time": 1686214832,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 728130,
+        "num": 503003,
+        "word": "成都太古里明确禁止未经允许街拍",
+        "onboard_time": 1686204272,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324722,
+        "num": 324722,
+        "word": "Angelababy张大大有默契但不多",
+        "onboard_time": 1686240449,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944806,
+        "num": 324577,
+        "word": "鼠头鸭脖高校学生称又吃出大青虫",
+        "onboard_time": 1686230130,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754215,
+        "num": 324043,
+        "word": "四川一公务员被曝出轨女同事",
+        "onboard_time": 1686219097,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304738,
+        "num": 304738,
+        "word": "安徽一高考考点被曝英语听力听不清",
+        "onboard_time": 1686232953,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 261208,
+        "num": 261208,
+        "word": "牵手门女当事人疑似清空社交账号",
+        "onboard_time": 1686210451,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242934,
+        "num": 242934,
+        "word": "Lisa留刘海的原因",
+        "onboard_time": 1686226769,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478068,
+        "num": 238992,
+        "word": "江西通报考生迟到37分钟仍能进考场",
+        "onboard_time": 1686227851,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 228618,
+        "num": 228618,
+        "word": "徐云",
+        "onboard_time": 1686237571,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212895,
+        "num": 212895,
+        "word": "TFBOYS演唱会流程图",
+        "onboard_time": 1686228451,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187337,
+        "num": 187337,
+        "word": "高圆圆吃了我的刀削面",
+        "onboard_time": 1686229470,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184862,
+        "num": 184862,
+        "word": "上海英语 我是吴磊",
+        "onboard_time": 1686216698,
+        "rank": 19,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 516765,
+        "num": 184237,
+        "word": "女子将俩幼女锁房间月余致其饿死",
+        "onboard_time": 1686222332,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247740,
+        "num": 183748,
+        "word": "肖春生佟晓梅结婚预告",
+        "onboard_time": 1686239308,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181683,
+        "num": 181683,
+        "word": "爱奇艺暑期档排播剧集",
+        "onboard_time": 1686230973,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172468,
+        "num": 172468,
+        "word": "董某某被停职",
+        "onboard_time": 1686194372,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165696,
+        "num": 165696,
+        "word": "EDG AD",
+        "onboard_time": 1686180504,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165601,
+        "num": 165601,
+        "word": "王鹤棣怎么又黑了",
+        "onboard_time": 1686228211,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158048,
+        "num": 158048,
+        "word": "圣枪哥确认Uzi在EDG基地",
+        "onboard_time": 1686221913,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 156341,
+        "word": "不要让肖春生陨落",
+        "onboard_time": 1686239608,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153587,
+        "num": 153587,
+        "word": "周润发说当演员很辛苦当明星简单很多",
+        "onboard_time": 1686237152,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149489,
+        "num": 149489,
+        "word": "易梦玲主动加沈月微信",
+        "onboard_time": 1686222393,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484349,
+        "num": 148290,
+        "word": "肝脏移植前后肤色对比",
+        "onboard_time": 1686239428,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341366,
+        "num": 145562,
+        "word": "李春燕 中石油十大杰出青年",
+        "onboard_time": 1686239668,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142150,
+        "num": 142150,
+        "word": "张彬彬为还原角色瘦了20斤",
+        "onboard_time": 1686238950,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122589,
+        "num": 122589,
+        "word": "2023年四大必爆电视剧",
+        "onboard_time": 1686234514,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120234,
+        "num": 120234,
+        "word": "leave",
+        "onboard_time": 1686215374,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "夫妻收废品为生丈夫去世被发现出轨",
+        "onboard_time": 1686224671,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115605,
+        "num": 115605,
+        "word": "许光汉终于和张钧甯合作了",
+        "onboard_time": 1686235353,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114985,
+        "num": 114985,
+        "word": "高考英语",
+        "onboard_time": 1686213514,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 107914,
+        "num": 107914,
+        "word": "点燃了暑期的爆款剧",
+        "onboard_time": 1686235773,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107606,
+        "num": 107606,
+        "word": "你最期待哪方面的生育支持措施",
+        "onboard_time": 1686241645,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100055,
+        "num": 100055,
+        "word": "肖战梦中的那片海杀青1周年",
+        "onboard_time": 1686234934,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93623,
+        "num": 93623,
+        "word": "刘诗诗白鹿侧颜相似度",
+        "onboard_time": 1686214296,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86267,
+        "num": 86267,
+        "word": "转学后发现老师也转来了",
+        "onboard_time": 1686232113,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85361,
+        "num": 85361,
+        "word": "上海外滩偶遇周润发晨跑",
+        "onboard_time": 1686236732,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84490,
+        "num": 84490,
+        "word": "957确认Uzi加入EDG",
+        "onboard_time": 1686217476,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83018,
+        "num": 83018,
+        "word": "剧集好想做一次",
+        "onboard_time": 1686210632,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80417,
+        "num": 80417,
+        "word": "泰国庙里供着皮卡丘",
+        "onboard_time": 1686240628,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73723,
+        "num": 73723,
+        "word": "周深版玉兔出场主打一个蹦蹦跳跳",
+        "onboard_time": 1686242065,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70767,
+        "num": 70767,
+        "word": "毛不易说何书桓确实很渣",
+        "onboard_time": 1686223411,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64959,
+        "num": 64959,
+        "word": "薛之谦巡演官宣两城空降",
+        "onboard_time": 1686227671,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好担负起新的文化使命#"
+    }
+  }
+}
