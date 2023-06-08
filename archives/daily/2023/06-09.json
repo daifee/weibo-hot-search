@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686245605845,
+  "endTime": 1686248438581,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -25,6 +25,14 @@
       "onboard_time": 1686232772,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011083,
+      "num": 1011083,
+      "word": "Uzi",
+      "onboard_time": 1686244939,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 924194,
@@ -65,14 +73,6 @@
       "onboard_time": 1686231572,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 635102,
-      "num": 635102,
-      "word": "Uzi",
-      "onboard_time": 1686244939,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 622422,
@@ -443,12 +443,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65291,
+      "num": 65291,
+      "word": "女生在宿舍发现学姐2年前留信",
+      "onboard_time": 1686246796,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 55130,
       "num": 55130,
       "word": "陕西文旅厅没收到TFBOYS十周年演唱会申请",
       "onboard_time": 1686222812,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 51719,
+      "word": "Amber赢到了最后",
+      "onboard_time": 1686245658,
+      "rank": 26,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 32519,
+      "num": 32519,
+      "word": "联名款",
+      "onboard_time": 1686247937,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 31582,

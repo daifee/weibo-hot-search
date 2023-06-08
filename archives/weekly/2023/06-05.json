@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686245605845,
+  "endTime": 1686248438581,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011083,
+      "num": 1011083,
+      "word": "Uzi",
+      "onboard_time": 1686244939,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1007209,
       "num": 1007209,
       "word": "谢娜四公 没拉票",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1685968706,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 635102,
-      "num": 635102,
-      "word": "Uzi",
-      "onboard_time": 1686244939,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 630211,
@@ -9251,6 +9251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65291,
+      "num": 65291,
+      "word": "女生在宿舍发现学姐2年前留信",
+      "onboard_time": 1686246796,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 65220,
       "num": 90123,
       "word": "高三毕业生临别给老师送五花肉",
@@ -9321,6 +9329,14 @@
       "onboard_time": 1686114037,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 51719,
+      "word": "Amber赢到了最后",
+      "onboard_time": 1686245658,
+      "rank": 26,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 51067,
@@ -9521,6 +9537,14 @@
       "onboard_time": 1686091337,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32519,
+      "num": 32519,
+      "word": "联名款",
+      "onboard_time": 1686247937,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 30556,
