@@ -1,10 +1,18 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686193367068,
+  "endTime": 1686194471791,
   "band_list": [
     {
-      "raw_hot": 3281590,
-      "num": 3281590,
+      "raw_hot": 4844737,
+      "num": 4844737,
+      "word": "中国石油大学回应",
+      "onboard_time": 1686192990,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3325416,
+      "num": 3325416,
       "word": "高考物理",
       "onboard_time": 1686191850,
       "rank": 0,
@@ -27,14 +35,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2104216,
-      "num": 2104216,
-      "word": "中国石油大学回应",
-      "onboard_time": 1686192990,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1927618,
       "num": 1007006,
       "word": "中石油胡继勇被免职",
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1723378,
+      "raw_hot": 1894148,
       "num": 1592442,
       "word": "牵手胡某勇女子同款裙子销量激增",
       "onboard_time": 1686189691,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821675,
+      "num": 821675,
+      "word": "陈晓更新小说",
+      "onboard_time": 1686183689,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806731,
       "num": 806731,
       "word": "大学生考点摆摊卖9.85与21.1元花束",
@@ -177,14 +185,6 @@
       "onboard_time": 1686132698,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 784042,
-      "num": 784042,
-      "word": "陈晓更新小说",
-      "onboard_time": 1686183689,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 778201,
@@ -227,8 +227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569917,
-      "num": 377054,
+      "raw_hot": 598931,
+      "num": 405207,
       "word": "迪丽热巴评论陈紫函",
       "onboard_time": 1686183150,
       "rank": 22,
@@ -259,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445662,
+      "num": 445662,
+      "word": "一卷物理难不难",
+      "onboard_time": 1686194250,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 431663,
+      "num": 431663,
+      "word": "高校辟谣街拍女子与导师为父女关系",
+      "onboard_time": 1686194250,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 411019,
       "num": 411019,
       "word": "熄灯前女高毕业生突然冲出抱住张桂梅",
@@ -273,6 +289,22 @@
       "onboard_time": 1686185973,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405290,
+      "num": 405290,
+      "word": "魏如萱 爱上一个人是什么感觉",
+      "onboard_time": 1686192029,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401547,
+      "num": 401547,
+      "word": "一卷历史 两篇小论文",
+      "onboard_time": 1686192930,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 396037,
@@ -291,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377015,
+      "num": 240455,
+      "word": "董某某被停职",
+      "onboard_time": 1686194372,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368334,
       "num": 368334,
       "word": "梅西决定加盟迈阿密国际",
@@ -307,20 +347,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 353138,
+      "num": 353138,
+      "word": "NBA总决赛",
+      "onboard_time": 1686189570,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348269,
       "num": 348269,
       "word": "千万不要长期喝饮料",
       "onboard_time": 1686186150,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 347180,
-      "num": 347180,
-      "word": "魏如萱 爱上一个人是什么感觉",
-      "onboard_time": 1686192029,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 324282,
@@ -331,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310878,
-      "num": 310878,
-      "word": "NBA总决赛",
-      "onboard_time": 1686189570,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 316563,
+      "num": 279505,
+      "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
+      "onboard_time": 1686190471,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296388,
@@ -363,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279505,
-      "num": 279505,
-      "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
-      "onboard_time": 1686190471,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277418,
       "num": 277418,
       "word": "梅西说在欧洲只想回巴萨",
@@ -385,6 +417,14 @@
       "onboard_time": 1686131382,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265802,
+      "num": 265802,
+      "word": "终于等到吴青峰唱毕业歌",
+      "onboard_time": 1686193652,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 256109,
@@ -443,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234169,
-      "num": 234169,
-      "word": "一卷历史 两篇小论文",
-      "onboard_time": 1686192930,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 233253,
       "num": 233253,
       "word": "有两部以上爆剧90生",
@@ -499,6 +531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211161,
+      "num": 211161,
+      "word": "高考理综",
+      "onboard_time": 1686194012,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 208504,
+      "num": 208504,
+      "word": "互联网菩萨",
+      "onboard_time": 1686191456,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205892,
       "num": 205892,
       "word": "你知道卖凉菜需要许可吗",
@@ -507,12 +555,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 199993,
-      "num": 199993,
-      "word": "互联网菩萨",
-      "onboard_time": 1686191456,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 200368,
+      "num": 200368,
+      "word": "易烊千玺T锦绣六月刊封面",
+      "onboard_time": 1686193652,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195161,
@@ -563,6 +611,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184789,
+      "num": 184789,
+      "word": "掘金2比1热火",
+      "onboard_time": 1686194372,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179607,
+      "num": 179607,
+      "word": "掘金vs热火",
+      "onboard_time": 1686187471,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177876,
       "num": 177876,
       "word": "TFBOYS灯牌亮度",
@@ -571,28 +635,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173935,
-      "num": 173935,
-      "word": "胡继勇正接受公司纪委核查",
-      "onboard_time": 1686114339,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172485,
-      "num": 172485,
+      "raw_hot": 177122,
+      "num": 177122,
       "word": "张彬彬回应人间欲霸",
       "onboard_time": 1686191372,
       "rank": 45,
       "category": "影视"
     },
     {
-      "raw_hot": 172025,
-      "num": 172025,
-      "word": "掘金vs热火",
-      "onboard_time": 1686187471,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 173935,
+      "num": 173935,
+      "word": "胡继勇正接受公司纪委核查",
+      "onboard_time": 1686114339,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168034,
@@ -868,7 +924,7 @@
     },
     {
       "raw_hot": 69990,
-      "num": 2182709,
+      "num": 2376631,
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 2,
