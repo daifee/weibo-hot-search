@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686206089319,
+  "endTime": 1686208533407,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3656939,
+      "num": 3276314,
+      "word": "宿管多次强奸学生聋哑母亲获刑4年",
+      "onboard_time": 1686203431,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3325416,
       "num": 3325416,
       "word": "高考物理",
@@ -27,11 +35,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 3276314,
-      "num": 3276314,
-      "word": "宿管多次强奸学生聋哑母亲获刑4年",
-      "onboard_time": 1686203431,
-      "rank": 1,
+      "raw_hot": 3018073,
+      "num": 622634,
+      "word": "成都太古里明确禁止未经允许街拍",
+      "onboard_time": 1686204272,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -115,8 +123,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1419536,
-      "num": 1419536,
+      "raw_hot": 1431971,
+      "num": 1431971,
       "word": "鼠头鸭脖食堂意见反馈群曝光",
       "onboard_time": 1686199119,
       "rank": 7,
@@ -129,14 +137,6 @@
       "onboard_time": 1686179602,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1338053,
-      "num": 534261,
-      "word": "成都太古里明确禁止未经允许街拍",
-      "onboard_time": 1686204272,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1276263,
@@ -160,6 +160,14 @@
       "word": "虞书欣工作室否认恋情",
       "onboard_time": 1686191729,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1121995,
+      "num": 1121995,
+      "word": "柯以敏直播大怒",
+      "onboard_time": 1686204272,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 867677,
-      "num": 612045,
+      "num": 619579,
       "word": "网友偶遇宋仲基和妻子牵手逛街",
       "onboard_time": 1686199898,
       "rank": 31,
@@ -265,6 +273,14 @@
       "onboard_time": 1686154829,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 805062,
+      "num": 805062,
+      "word": "河南考生吐槽统一配备文具不好用",
+      "onboard_time": 1686203131,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 800508,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558623,
+      "num": 558623,
+      "word": "中国电信",
+      "onboard_time": 1686207933,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 511522,
       "num": 511522,
       "word": "高考700分和存款700万你要哪个",
@@ -371,12 +395,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 467953,
-      "num": 467953,
-      "word": "柯以敏直播大怒",
-      "onboard_time": 1686204272,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 483487,
+      "num": 483487,
+      "word": "Lisa露额头",
+      "onboard_time": 1686207213,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 453868,
@@ -436,19 +460,11 @@
     },
     {
       "raw_hot": 400433,
-      "num": 294745,
+      "num": 337976,
       "word": "牵手门女主曾晒账单消费超240万",
       "onboard_time": 1686204694,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398309,
-      "num": 398309,
-      "word": "河南考生吐槽统一配备文具不好用",
-      "onboard_time": 1686203131,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 396037,
@@ -491,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362811,
+      "num": 362811,
+      "word": "虞书欣直播手势",
+      "onboard_time": 1686206735,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353138,
       "num": 353138,
       "word": "NBA总决赛",
@@ -513,6 +537,14 @@
       "onboard_time": 1686186150,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348229,
+      "num": 348229,
+      "word": "杨紫黑长直封面大片",
+      "onboard_time": 1686205591,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 333541,
@@ -553,6 +585,14 @@
       "onboard_time": 1686201214,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 308679,
+      "num": 308679,
+      "word": "高考完了可以翻翻大学生的微博",
+      "onboard_time": 1686204511,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 297522,
@@ -617,6 +657,14 @@
       "onboard_time": 1686202051,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274408,
+      "num": 274408,
+      "word": "易烊千玺官宣微博电影之夜",
+      "onboard_time": 1686207392,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 272969,
@@ -688,6 +736,14 @@
       "word": "肖春生带孩子梦回陈情令",
       "onboard_time": 1686147456,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241824,
+      "num": 241824,
+      "word": "肖春生退伍",
+      "onboard_time": 1686207452,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -891,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191798,
-      "num": 191798,
-      "word": "杨紫黑长直封面大片",
-      "onboard_time": 1686205591,
-      "rank": 35,
-      "category": "作品衍生,时尚"
+      "raw_hot": 193010,
+      "num": 193010,
+      "word": "街拍究竟在拍什么",
+      "onboard_time": 1686208110,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190065,
@@ -939,12 +995,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184878,
-      "num": 184878,
-      "word": "高考完了可以翻翻大学生的微博",
-      "onboard_time": 1686204511,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 180716,
+      "num": 180716,
+      "word": "摄影师是立功了还是该担责",
+      "onboard_time": 1686206132,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180588,
@@ -987,12 +1043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171464,
+      "num": 244157,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169671,
       "num": 169671,
       "word": "阿根廷国家队教练组抵达北京",
       "onboard_time": 1686202893,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169660,
+      "num": 469785,
+      "word": "考点执勤多年终于当上了陪考家长",
+      "onboard_time": 1686204031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168029,
@@ -1051,12 +1123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158843,
+      "num": 158843,
+      "word": "吴建豪工作室态度",
+      "onboard_time": 1686208296,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158400,
       "num": 158400,
       "word": "出演新剧是Jennie自己的选择",
       "onboard_time": 1686135515,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153755,
+      "num": 153755,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150561,
@@ -1123,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139100,
+      "num": 143286,
+      "word": "朴彩英Lisa大阪街头随拍",
+      "onboard_time": 1686206132,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133005,
       "num": 133005,
       "word": "班主任给全班请了十年的假",
@@ -1153,14 +1249,6 @@
       "onboard_time": 1686148476,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127589,
-      "num": 469785,
-      "word": "考点执勤多年终于当上了陪考家长",
-      "onboard_time": 1686204031,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125893,
@@ -1371,12 +1459,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23759,
+      "num": 995895,
+      "word": "高考第二天",
+      "onboard_time": 1686181947,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14297,
+      "num": 144347,
+      "word": "保护我们的那片海",
+      "onboard_time": 1686208234,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12740,
       "num": 78358,
       "word": "明天的你请继续加油",
       "onboard_time": 1686167293,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 5297,
+      "num": 567214,
+      "word": "高考考生两天两次获民警救助",
+      "onboard_time": 1686208413,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
