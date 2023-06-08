@@ -1,6 +1,6 @@
 {
   "startTime": 1686154945135,
-  "endTime": 1686231335850,
+  "endTime": 1686233717185,
   "band_list": [
     {
       "raw_hot": 10155728,
@@ -75,6 +75,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2916759,
+      "num": 1142189,
+      "word": "鼠头鸭脖高校学生称又吃出大青虫",
+      "onboard_time": 1686230130,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2740799,
       "num": 2740799,
       "word": "复旦研究生嫖娼被开除起诉学校被驳",
@@ -89,6 +97,14 @@
       "onboard_time": 1686219097,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2230491,
+      "num": 2230491,
+      "word": "Amber单杀Uzi",
+      "onboard_time": 1686231453,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 2228242,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 2119706,
-      "num": 514071,
+      "num": 535651,
       "word": "江西通报考生迟到37分钟仍能进考场",
       "onboard_time": 1686227851,
       "rank": 25,
@@ -233,6 +249,14 @@
       "onboard_time": 1686179602,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1339385,
+      "num": 1339385,
+      "word": "杨紫赵露思撞衫",
+      "onboard_time": 1686231572,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1334588,
@@ -499,6 +523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 757315,
+      "num": 757315,
+      "word": "爱奇艺暑期档排播剧集",
+      "onboard_time": 1686230973,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745634,
       "num": 520787,
       "word": "张艺兴工作室再回应",
@@ -520,6 +552,14 @@
       "word": "王润泽和奶奶",
       "onboard_time": 1686189570,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 717920,
+      "num": 717920,
+      "word": "高圆圆吃了我的刀削面",
+      "onboard_time": 1686229470,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -561,14 +601,6 @@
       "onboard_time": 1686201331,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 614325,
-      "num": 614325,
-      "word": "鼠头鸭脖高校学生称又吃出大青虫",
-      "onboard_time": 1686230130,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598931,
@@ -753,14 +785,6 @@
       "onboard_time": 1686139654,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391692,
-      "num": 391692,
-      "word": "高圆圆吃了我的刀削面",
-      "onboard_time": 1686229470,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 385616,
@@ -995,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284136,
+      "num": 284136,
+      "word": "中传第20届半夏晚会",
+      "onboard_time": 1686232592,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 280678,
       "num": 688767,
       "word": "女生拒绝帮助用双膝自信进考场",
@@ -1035,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273923,
+      "num": 273923,
+      "word": "肖春生的梦碎了",
+      "onboard_time": 1686232172,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272969,
       "num": 272969,
       "word": "花戎直播",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1686131382,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266860,
+      "num": 266860,
+      "word": "转学后发现老师也转来了",
+      "onboard_time": 1686232113,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 265802,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1686209554,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 245905,
+      "num": 245905,
+      "word": "安徽一高考考点被曝英语听力听不清",
+      "onboard_time": 1686232953,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 244637,
@@ -1371,20 +1427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201684,
+      "num": 201684,
+      "word": "街拍事件最新画面曝光",
+      "onboard_time": 1686232772,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200376,
       "num": 200376,
       "word": "周深和曾毅都沉默了",
       "onboard_time": 1686205170,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199887,
-      "num": 199887,
-      "word": "爱奇艺暑期档排播剧集",
-      "onboard_time": 1686230973,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 199755,
@@ -1555,12 +1611,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179911,
+      "num": 179911,
+      "word": "成都蓉城",
+      "onboard_time": 1686231692,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179607,
       "num": 179607,
       "word": "掘金vs热火",
       "onboard_time": 1686187471,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179381,
+      "num": 179381,
+      "word": "赵露思童年照片",
+      "onboard_time": 1686231393,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 177876,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1686210093,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "福建第一位全盲考生笑着走出考场",
+      "onboard_time": 1686233372,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 173935,
@@ -1779,6 +1859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140216,
+      "num": 140216,
+      "word": "无腿女孩出考场后收获阵阵掌声",
+      "onboard_time": 1686233493,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 134298,
       "num": 134298,
       "word": "2023高考你遇到了哪些暖心瞬间",
@@ -1817,6 +1905,14 @@
       "onboard_time": 1686148476,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129236,
+      "num": 129236,
+      "word": "小学生等校车间隙帮工人大叔搬砖",
+      "onboard_time": 1686233553,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125893,
@@ -2056,6 +2152,14 @@
       "word": "这份高考祝福穿越百年",
       "onboard_time": 1686144156,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52547,
+      "num": 536344,
+      "word": "59岁阿姨游400米救下失温男孩",
+      "onboard_time": 1686232831,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
