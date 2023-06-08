@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686216814808,
+  "endTime": 1686219492632,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -75,8 +75,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 5253330,
-      "num": 5253330,
+      "raw_hot": 7463239,
+      "num": 7463239,
       "word": "高考英语",
       "onboard_time": 1686213514,
       "rank": 0,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2161704,
+      "num": 3795894,
+      "word": "高考生睡过头外卖小哥将其送到考场",
+      "onboard_time": 1686208053,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2156186,
       "num": 2156186,
       "word": "高考数学乙卷",
@@ -449,14 +457,6 @@
       "onboard_time": 1686141273,
       "rank": 49,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 1971527,
-      "num": 1971527,
-      "word": "高考生睡过头外卖小哥将其送到考场",
-      "onboard_time": 1686208053,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1955577,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1653746,
+      "num": 1653746,
+      "word": "上海英语 我是吴磊",
+      "onboard_time": 1686216698,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1638983,
       "num": 1638983,
       "word": "Apple Vision Pro 苹果首款头显",
@@ -699,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1554498,
+      "num": 1554498,
+      "word": "通知他们仨了吗",
+      "onboard_time": 1686214832,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
       "onboard_time": 1685922685,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1529576,
-      "num": 1529576,
-      "word": "通知他们仨了吗",
-      "onboard_time": 1686214832,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 1522821,
@@ -729,6 +737,14 @@
       "onboard_time": 1685970630,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1505649,
+      "num": 1505649,
+      "word": "957确认Uzi加入EDG",
+      "onboard_time": 1686217476,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 1504376,
@@ -865,6 +881,14 @@
       "onboard_time": 1686038129,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1334588,
+      "num": 1334588,
+      "word": "李华 两人一组怎么了",
+      "onboard_time": 1686216698,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1332071,
@@ -1939,6 +1963,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 697105,
+      "num": 697105,
+      "word": "乙卷英语快写哭了",
+      "onboard_time": 1686218975,
+      "rank": 14,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 696926,
       "num": 696926,
       "word": "leave",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1685954969,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609795,
+      "num": 609795,
+      "word": "刘诗诗白鹿侧颜相似度",
+      "onboard_time": 1686214296,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 605417,
@@ -2539,14 +2579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 459951,
-      "num": 459951,
-      "word": "刘诗诗白鹿侧颜相似度",
-      "onboard_time": 1686214296,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 459316,
       "num": 459316,
       "word": "肖战抱小朋友",
@@ -2577,6 +2609,14 @@
       "onboard_time": 1685931026,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451413,
+      "num": 451413,
+      "word": "剧集好想做一次",
+      "onboard_time": 1686210632,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 450571,
@@ -2753,6 +2793,14 @@
       "onboard_time": 1686015988,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414327,
+      "num": 414327,
+      "word": "高考英语甲卷 难",
+      "onboard_time": 1686216937,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 413764,
@@ -3307,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346255,
+      "num": 346255,
+      "word": "官方通报幼儿园在小便池清洗餐具",
+      "onboard_time": 1686217717,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
@@ -3395,6 +3451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337367,
+      "num": 337367,
+      "word": "听力气泡音",
+      "onboard_time": 1686218498,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 336518,
       "num": 336518,
       "word": "肖春生被捅时我的心情",
@@ -3425,6 +3489,14 @@
       "onboard_time": 1685986516,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 333928,
+      "num": 1871615,
+      "word": "金毛误入考场被民警请出",
+      "onboard_time": 1686206792,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333541,
@@ -4475,6 +4547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250172,
+      "num": 250172,
+      "word": "四川一公务员被曝出轨女同事",
+      "onboard_time": 1686219097,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250157,
       "num": 250157,
       "word": "金榜题名",
@@ -4809,14 +4889,6 @@
       "onboard_time": 1686037108,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235664,
-      "num": 285600,
-      "word": "金毛误入考场被民警请出",
-      "onboard_time": 1686206792,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234307,
@@ -5315,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215755,
+      "num": 215755,
+      "word": "LGD对战JDG",
+      "onboard_time": 1686219338,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215629,
       "num": 215629,
       "word": "妈妈保留女儿1997年高考准考证",
@@ -5521,6 +5601,14 @@
       "onboard_time": 1686031646,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205974,
+      "num": 205974,
+      "word": "新一卷 我没惹你",
+      "onboard_time": 1686219454,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 205892,
@@ -5755,6 +5843,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199606,
+      "num": 1584157,
+      "word": "张桂梅还穿着那件泛白的黑衬衣",
+      "onboard_time": 1686217775,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198930,
       "num": 198930,
       "word": "很难忘记周深的高考祝福",
@@ -5769,14 +5865,6 @@
       "onboard_time": 1686043589,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198559,
-      "num": 198559,
-      "word": "上海英语 我是吴磊",
-      "onboard_time": 1686216698,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 198479,
@@ -5889,14 +5977,6 @@
       "onboard_time": 1686194372,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195258,
-      "num": 195258,
-      "word": "李华 两人一组怎么了",
-      "onboard_time": 1686216698,
-      "rank": 42,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 195254,
@@ -8212,7 +8292,7 @@
     },
     {
       "raw_hot": 98569,
-      "num": 2206411,
+      "num": 2862696,
       "word": "高考第二天",
       "onboard_time": 1686181947,
       "rank": 2,
