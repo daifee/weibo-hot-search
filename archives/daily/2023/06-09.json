@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686298826833,
+  "endTime": 1686299647167,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2404242,
+      "num": 1097828,
+      "word": "翟欣欣被逮捕",
+      "onboard_time": 1686295649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2361318,
       "num": 2148660,
       "word": "注册不了张z",
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2156659,
-      "num": 1097828,
-      "word": "翟欣欣被逮捕",
-      "onboard_time": 1686295649,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1978362,
       "num": 1978362,
       "word": "怀孕的同事让我给她带冰奶茶",
@@ -75,20 +75,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1740025,
+      "num": 755161,
+      "word": "四川大学",
+      "onboard_time": 1686290430,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1656438,
       "num": 1656438,
       "word": "跑男泰国",
       "onboard_time": 1686277647,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1607550,
-      "num": 755161,
-      "word": "四川大学",
-      "onboard_time": 1686290430,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1564750,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1325756,
-      "num": 613714,
+      "raw_hot": 1351499,
+      "num": 649348,
       "word": "李彩桦回应恋情",
       "onboard_time": 1686296909,
       "rank": 12,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 768800,
+      "num": 768800,
+      "word": "EDG啥时候官宣",
+      "onboard_time": 1686298469,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 753393,
       "num": 727022,
       "word": "目击者证实沈阳一菜市场发生凶杀案",
@@ -387,12 +395,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 619130,
+      "num": 619130,
+      "word": "五个人打不过一个玲花",
+      "onboard_time": 1686296248,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590757,
       "num": 590757,
       "word": "周杰伦海口",
       "onboard_time": 1686281551,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 584808,
+      "num": 584808,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1686297030,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 578846,
@@ -411,22 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559764,
-      "num": 559764,
-      "word": "五个人打不过一个玲花",
-      "onboard_time": 1686296248,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 545741,
-      "num": 545741,
-      "word": "微博电影之夜全阵容",
-      "onboard_time": 1686297030,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 540548,
       "num": 540548,
       "word": "徐怀钰",
@@ -435,8 +443,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532986,
+      "num": 532986,
+      "word": "张云雷",
+      "onboard_time": 1686296670,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 527228,
-      "num": 217950,
+      "num": 459922,
       "word": "EDG 雷蛇",
       "onboard_time": 1686296550,
       "rank": 30,
@@ -449,6 +465,14 @@
       "onboard_time": 1686287253,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495862,
+      "num": 495862,
+      "word": "长沙一公司取消了所有的调休",
+      "onboard_time": 1686298290,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493712,
@@ -467,28 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469065,
-      "num": 413257,
-      "word": "张云雷",
-      "onboard_time": 1686296670,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 441548,
       "num": 441548,
       "word": "Lisa留刘海的原因",
       "onboard_time": 1686226769,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419734,
-      "num": 419734,
-      "word": "EDG啥时候官宣",
-      "onboard_time": 1686298469,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 410332,
@@ -505,6 +513,14 @@
       "onboard_time": 1686289829,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379984,
+      "num": 379984,
+      "word": "鹿晗 抢票",
+      "onboard_time": 1686298951,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 368279,
@@ -947,6 +963,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 220909,
+      "num": 220909,
+      "word": "刘亚仁 人间炼丹炉",
+      "onboard_time": 1686299192,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213146,
       "num": 213146,
       "word": "替叶国华给大家跪一个",
@@ -971,20 +995,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207492,
+      "num": 207492,
+      "word": "苏享茂",
+      "onboard_time": 1686299251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206909,
+      "num": 206909,
+      "word": "易烊千玺上影节预备会议生图",
+      "onboard_time": 1686299310,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200818,
       "num": 200818,
       "word": "苏州河",
       "onboard_time": 1686288393,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199324,
-      "num": 199324,
-      "word": "长沙一公司取消了所有的调休",
-      "onboard_time": 1686298290,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198922,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1686297151,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194357,
+      "num": 194357,
+      "word": "Uzi妻子支持Uzi重回赛场",
+      "onboard_time": 1686298049,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 194252,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1686295649,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182093,
-      "num": 182093,
-      "word": "Uzi妻子支持Uzi重回赛场",
-      "onboard_time": 1686298049,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 180537,
@@ -1395,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149915,
+      "num": 149915,
+      "word": "秋瓷炫为Amber抱不平",
+      "onboard_time": 1686299131,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149080,
       "num": 149080,
       "word": "坏妈妈大结局太好哭了",
@@ -1507,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132254,
+      "num": 132254,
+      "word": "惠英红张小斐牵手",
+      "onboard_time": 1686299611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129225,
       "num": 125469,
       "word": "梦中的那片海",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1686215374,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "90后姑娘带81岁外婆挑战多巴胺女孩",
+      "onboard_time": 1686299611,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121328,
@@ -1659,6 +1715,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 97416,
+      "num": 605432,
+      "word": "学霸捧花接同学一句祝福惊艳了",
+      "onboard_time": 1686297631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94640,
       "num": 119443,
       "word": "狗子只相信自己的屁股",
@@ -1723,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73954,
-      "num": 605432,
-      "word": "学霸捧花接同学一句祝福惊艳了",
-      "onboard_time": 1686297631,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73723,
       "num": 73723,
       "word": "周深版玉兔出场主打一个蹦蹦跳跳",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1686251115,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55909,
+      "num": 220966,
+      "word": "高考后买哪些数码产品更实用",
+      "onboard_time": 1686298951,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 55130,

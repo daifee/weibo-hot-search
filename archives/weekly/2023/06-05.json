@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686298826833,
+  "endTime": 1686299647167,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -331,6 +331,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 2404242,
+      "num": 1097828,
+      "word": "翟欣欣被逮捕",
+      "onboard_time": 1686295649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2401357,
       "num": 1647557,
       "word": "张一山眼球怎么了",
@@ -433,14 +441,6 @@
       "onboard_time": 1686208053,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2156659,
-      "num": 1097828,
-      "word": "翟欣欣被逮捕",
-      "onboard_time": 1686295649,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2156186,
@@ -667,6 +667,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1740025,
+      "num": 755161,
+      "word": "四川大学",
+      "onboard_time": 1686290430,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1686882,
       "num": 1686882,
       "word": "上海英语 我是吴磊",
@@ -776,14 +784,6 @@
       "word": "女子反问男友8年感情竟不值38万",
       "onboard_time": 1685937630,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1607550,
-      "num": 755161,
-      "word": "四川大学",
-      "onboard_time": 1686290430,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1351499,
+      "num": 649348,
+      "word": "李彩桦回应恋情",
+      "onboard_time": 1686296909,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1350459,
       "num": 1350459,
       "word": "2023年高考第一个丢准考证的同学",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1686093503,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1325756,
-      "num": 613714,
-      "word": "李彩桦回应恋情",
-      "onboard_time": 1686296909,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1324313,
@@ -2195,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 768800,
+      "num": 768800,
+      "word": "EDG啥时候官宣",
+      "onboard_time": 1686298469,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 767234,
       "num": 767234,
       "word": "圣枪哥确认Uzi在EDG基地",
@@ -2547,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619130,
+      "num": 619130,
+      "word": "五个人打不过一个玲花",
+      "onboard_time": 1686296248,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616292,
       "num": 616292,
       "word": "薛之谦毛不易官宣音综",
@@ -2643,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584808,
+      "num": 584808,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1686297030,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584751,
       "num": 584751,
       "word": "种地吧感恩音乐会",
@@ -2681,14 +2705,6 @@
       "onboard_time": 1685962107,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559764,
-      "num": 559764,
-      "word": "五个人打不过一个玲花",
-      "onboard_time": 1686296248,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 559589,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 545741,
-      "num": 545741,
-      "word": "微博电影之夜全阵容",
-      "onboard_time": 1686297030,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 544153,
@@ -2803,8 +2811,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532986,
+      "num": 532986,
+      "word": "张云雷",
+      "onboard_time": 1686296670,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 527228,
-      "num": 217950,
+      "num": 459922,
       "word": "EDG 雷蛇",
       "onboard_time": 1686296550,
       "rank": 30,
@@ -2905,6 +2921,14 @@
       "onboard_time": 1685934929,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495862,
+      "num": 495862,
+      "word": "长沙一公司取消了所有的调休",
+      "onboard_time": 1686298290,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495227,
@@ -3073,14 +3097,6 @@
       "onboard_time": 1686224671,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469065,
-      "num": 413257,
-      "word": "张云雷",
-      "onboard_time": 1686296670,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 468823,
@@ -3313,14 +3329,6 @@
       "onboard_time": 1686209312,
       "rank": 26,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 419734,
-      "num": 419734,
-      "word": "EDG啥时候官宣",
-      "onboard_time": 1686298469,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 418002,
@@ -3601,6 +3609,14 @@
       "onboard_time": 1686024210,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 379984,
+      "num": 379984,
+      "word": "鹿晗 抢票",
+      "onboard_time": 1686298951,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 378739,
@@ -6299,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220909,
+      "num": 220909,
+      "word": "刘亚仁 人间炼丹炉",
+      "onboard_time": 1686299192,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220842,
       "num": 220842,
       "word": "帆帆转入TTG",
@@ -6667,6 +6691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 207492,
+      "num": 207492,
+      "word": "苏享茂",
+      "onboard_time": 1686299251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207469,
       "num": 207469,
       "word": "阿根廷中国行开票",
@@ -6689,6 +6721,14 @@
       "onboard_time": 1685974412,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206909,
+      "num": 206909,
+      "word": "易烊千玺上影节预备会议生图",
+      "onboard_time": 1686299310,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 206467,
@@ -6963,14 +7003,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 199324,
-      "num": 199324,
-      "word": "长沙一公司取消了所有的调休",
-      "onboard_time": 1686298290,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198930,
       "num": 198930,
       "word": "很难忘记周深的高考祝福",
@@ -7161,6 +7193,14 @@
       "onboard_time": 1686103353,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194357,
+      "num": 194357,
+      "word": "Uzi妻子支持Uzi重回赛场",
+      "onboard_time": 1686298049,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 194252,
@@ -7729,14 +7769,6 @@
       "onboard_time": 1685977353,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182093,
-      "num": 182093,
-      "word": "Uzi妻子支持Uzi重回赛场",
-      "onboard_time": 1686298049,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 182025,
@@ -8875,6 +8907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149915,
+      "num": 149915,
+      "word": "秋瓷炫为Amber抱不平",
+      "onboard_time": 1686299131,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149736,
       "num": 149736,
       "word": "上海外滩偶遇周润发晨跑",
@@ -9347,6 +9387,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 132254,
+      "num": 132254,
+      "word": "惠英红张小斐牵手",
+      "onboard_time": 1686299611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132114,
       "num": 132114,
       "word": "考场一字之差交警狂飙送考手开到颤",
@@ -9641,6 +9689,14 @@
       "onboard_time": 1685957010,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "90后姑娘带81岁外婆挑战多巴胺女孩",
+      "onboard_time": 1686299611,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121928,
@@ -10091,6 +10147,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 97416,
+      "num": 605432,
+      "word": "学霸捧花接同学一句祝福惊艳了",
+      "onboard_time": 1686297631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97143,
       "num": 97143,
       "word": "肖战珠峰文化旅游节宣传VCR",
@@ -10379,14 +10443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73954,
-      "num": 605432,
-      "word": "学霸捧花接同学一句祝福惊艳了",
-      "onboard_time": 1686297631,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73723,
       "num": 73723,
       "word": "周深版玉兔出场主打一个蹦蹦跳跳",
@@ -10593,6 +10649,14 @@
       "onboard_time": 1686114037,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 55909,
+      "num": 220966,
+      "word": "高考后买哪些数码产品更实用",
+      "onboard_time": 1686298951,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 51067,
