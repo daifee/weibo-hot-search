@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686316835943,
+  "endTime": 1686317610259,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -384,6 +384,14 @@
       "word": "注册不了张z",
       "onboard_time": 1686279571,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2342645,
+      "num": 2342645,
+      "word": "BBC卧底记者扒出经营偷拍视频团伙",
+      "onboard_time": 1686313291,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -987,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1452178,
-      "num": 1452178,
-      "word": "BBC卧底记者扒出经营偷拍视频团伙",
-      "onboard_time": 1686313291,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1451764,
       "num": 782568,
       "word": "南京一高校学生宿舍内被杀害",
@@ -1539,12 +1539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1077252,
+      "num": 1077252,
+      "word": "易烊千玺 评委",
+      "onboard_time": 1686315929,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1076254,
       "num": 533499,
       "word": "Jennie新剧",
       "onboard_time": 1685973571,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1064598,
+      "num": 1064598,
+      "word": "杨幂私服",
+      "onboard_time": 1686313887,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1061459,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1685958029,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1040789,
-      "num": 1040789,
-      "word": "杨幂私服",
-      "onboard_time": 1686313887,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 1040052,
@@ -1835,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 940655,
+      "num": 940655,
+      "word": "无字 乌兹",
+      "onboard_time": 1686311608,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 938004,
       "num": 238776,
       "word": "律师谈国企领导与异性亲密逛街被拍",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1686290850,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 933539,
-      "num": 933539,
-      "word": "无字 乌兹",
-      "onboard_time": 1686311608,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 932367,
@@ -2731,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607260,
+      "num": 607260,
+      "word": "鼠头鸭脖学校门口大量学生取外卖",
+      "onboard_time": 1686313709,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605417,
       "num": 605417,
       "word": "郑业成工作室回应轧戏",
@@ -2987,14 +3003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 532352,
-      "num": 532352,
-      "word": "鼠头鸭脖学校门口大量学生取外卖",
-      "onboard_time": 1686313709,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527228,
       "num": 459922,
       "word": "EDG 雷蛇",
@@ -3156,7 +3164,7 @@
     },
     {
       "raw_hot": 490323,
-      "num": 415131,
+      "num": 418128,
       "word": "倪妮的项链是腕表",
       "onboard_time": 1686313047,
       "rank": 21,
@@ -3995,14 +4003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366076,
-      "num": 366076,
-      "word": "易烊千玺 评委",
-      "onboard_time": 1686315929,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 365077,
       "num": 365077,
       "word": "徐志胜救火",
@@ -4491,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323715,
+      "num": 289853,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323062,
       "num": 323062,
       "word": "王菲那英好甜",
@@ -4963,14 +4971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289853,
-      "num": 289853,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 289755,
       "num": 289755,
       "word": "90后程序员回家卖羊粪月销120万",
@@ -5256,6 +5256,14 @@
       "word": "韩国现在的出生率比战时还低",
       "onboard_time": 1686116494,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274222,
+      "num": 274222,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5841,14 +5849,6 @@
       "onboard_time": 1686275188,
       "rank": 40,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 248365,
-      "num": 248365,
-      "word": "注册不了张z被曝专业是新闻传播",
-      "onboard_time": 1686312326,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248359,
@@ -6891,6 +6891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216540,
+      "num": 187622,
+      "word": "上影节惊喜嘉宾杨紫琼",
+      "onboard_time": 1686316647,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216532,
       "num": 216532,
       "word": "时代少年团跑步姿势",
@@ -7449,14 +7457,6 @@
       "onboard_time": 1686205170,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199806,
-      "num": 178485,
-      "word": "上影节惊喜嘉宾杨紫琼",
-      "onboard_time": 1686316647,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 199797,
@@ -8481,6 +8481,14 @@
       "onboard_time": 1685921302,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177181,
+      "num": 138169,
+      "word": "偶遇王俊凯泸州骑自行车",
+      "onboard_time": 1686315028,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 177122,
@@ -10419,6 +10427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118063,
+      "num": 118063,
+      "word": "环卫工妈妈等儿子高考结束",
+      "onboard_time": 1686316950,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 117917,
       "num": 117917,
       "word": "高考钉子户",
@@ -11411,6 +11427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42250,
+      "num": 1568042,
+      "word": "为中国航天点赞",
+      "onboard_time": 1686316470,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 41371,
       "num": 121315,
       "word": "宋佳想要的品质生活",
@@ -11649,14 +11673,6 @@
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16783,
-      "num": 1504057,
-      "word": "为中国航天点赞",
-      "onboard_time": 1686316470,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 12740,
