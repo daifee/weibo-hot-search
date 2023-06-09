@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686305899193,
+  "endTime": 1686306843051,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1963,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1257373,
+      "num": 1257373,
+      "word": "孟美岐 玉龙县文旅局",
+      "onboard_time": 1686303571,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1255756,
       "num": 1255756,
       "word": "Angelababy回归 跑男收视率",
@@ -2249,14 +2257,6 @@
       "onboard_time": 1685763748,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1160894,
-      "num": 1160894,
-      "word": "孟美岐 玉龙县文旅局",
-      "onboard_time": 1686303571,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1159146,
@@ -3435,6 +3435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 802580,
+      "num": 802580,
+      "word": "EDG啥时候官宣",
+      "onboard_time": 1686298469,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 800508,
       "num": 800508,
       "word": "高考文综",
@@ -3601,14 +3609,6 @@
       "onboard_time": 1686285273,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 768800,
-      "num": 768800,
-      "word": "EDG啥时候官宣",
-      "onboard_time": 1686298469,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 767588,
@@ -4603,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567169,
+      "num": 2201713,
+      "word": "高考结束学生抬着老师冲出考场",
+      "onboard_time": 1686304232,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 565931,
       "num": 565931,
       "word": "压力给到华晨宇站姐",
@@ -5371,6 +5379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475144,
+      "num": 475144,
+      "word": "上海国际电影节",
+      "onboard_time": 1686305069,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474378,
       "num": 474378,
       "word": "虞书欣直播手势",
@@ -5841,14 +5857,6 @@
       "onboard_time": 1685690848,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425916,
-      "num": 2201713,
-      "word": "高考结束学生抬着老师冲出考场",
-      "onboard_time": 1686304232,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 425822,
@@ -6929,14 +6937,6 @@
       "onboard_time": 1686213275,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359044,
-      "num": 266712,
-      "word": "上海国际电影节",
-      "onboard_time": 1686305069,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 358393,
@@ -8491,6 +8491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294365,
+      "num": 282804,
+      "word": "薛之谦 鸟巢",
+      "onboard_time": 1686305489,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294162,
       "num": 294162,
       "word": "薛之谦演唱会拿到张杰荧光棒",
@@ -8913,6 +8921,14 @@
       "onboard_time": 1685779347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282953,
+      "num": 282953,
+      "word": "配享太庙",
+      "onboard_time": 1686302912,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282924,
@@ -9379,6 +9395,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 269798,
+      "num": 269798,
+      "word": "因为名字太好听被公司录用",
+      "onboard_time": 1686301291,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -9555,14 +9579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 264828,
-      "num": 264828,
-      "word": "因为名字太好听被公司录用",
-      "onboard_time": 1686301291,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264691,
       "num": 264691,
       "word": "杨幂对谢依霖说唐宛如你闭嘴",
@@ -9625,6 +9641,14 @@
       "onboard_time": 1686108220,
       "rank": 31,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 263267,
+      "num": 263267,
+      "word": "成毅工作室回应替身事件",
+      "onboard_time": 1686305910,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263231,
@@ -10289,14 +10313,6 @@
       "onboard_time": 1685963667,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248771,
-      "num": 248771,
-      "word": "配享太庙",
-      "onboard_time": 1686302912,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248638,
@@ -11515,6 +11531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225579,
+      "num": 225579,
+      "word": "你比星光美丽全剧杀青",
+      "onboard_time": 1686305728,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225487,
       "num": 225487,
       "word": "上海电影节",
@@ -12123,6 +12147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214713,
+      "num": 1766054,
+      "word": "他懂事的样子让人心疼",
+      "onboard_time": 1686304232,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214711,
       "num": 214711,
       "word": "求职被问婚育状况合理吗",
@@ -12643,14 +12675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204782,
-      "num": 1766054,
-      "word": "他懂事的样子让人心疼",
-      "onboard_time": 1686304232,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204587,
       "num": 204587,
       "word": "多特官宣贝林厄姆加盟皇马",
@@ -12865,14 +12889,6 @@
       "onboard_time": 1685631691,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201417,
-      "num": 201417,
-      "word": "薛之谦 鸟巢",
-      "onboard_time": 1686305489,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 201405,
@@ -13281,14 +13297,6 @@
       "onboard_time": 1686025714,
       "rank": 48,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 195771,
-      "num": 195771,
-      "word": "你比星光美丽全剧杀青",
-      "onboard_time": 1686305728,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 195707,
@@ -15243,6 +15251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "高考生物",
+      "onboard_time": 1686306690,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169296,
       "num": 169296,
       "word": "越长大越不想谈恋爱",
@@ -15769,6 +15785,14 @@
       "onboard_time": 1685869225,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161246,
+      "num": 161246,
+      "word": "学车教练给我取了个日本名",
+      "onboard_time": 1686306028,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 161090,
@@ -16329,6 +16353,14 @@
       "onboard_time": 1685686288,
       "rank": 37,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 152347,
+      "num": 152347,
+      "word": "TES对战TT",
+      "onboard_time": 1686306149,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 152299,
@@ -18435,6 +18467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108893,
+      "num": 1356866,
+      "word": "货车起火冒烟好心男子拎新买灭火器扑灭",
+      "onboard_time": 1686304232,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108663,
       "num": 108663,
       "word": "如果广东停电一天",
@@ -19427,14 +19467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73345,
-      "num": 501032,
-      "word": "货车起火冒烟好心男子拎新买灭火器扑灭",
-      "onboard_time": 1686304232,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73286,
       "num": 73286,
       "word": "白宇帆与藏族足球少年梦幻联动",
@@ -20052,7 +20084,7 @@
     },
     {
       "raw_hot": 46914,
-      "num": 539752,
+      "num": 543395,
       "word": "高考结束南京天空跑来幸运小象",
       "onboard_time": 1686304830,
       "rank": 14,
