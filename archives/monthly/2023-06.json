@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686279458744,
+  "endTime": 1686279960999,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2879207,
+      "num": 2879207,
+      "word": "孩子你配享太庙",
+      "onboard_time": 1686277226,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2800496,
       "num": 698514,
       "word": "赵琦君杨凯雯领证",
@@ -273,14 +281,6 @@
       "onboard_time": 1686110749,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2710522,
-      "num": 2710522,
-      "word": "孩子你配享太庙",
-      "onboard_time": 1686277226,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2685396,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1685603186,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1603610,
+      "num": 1603610,
+      "word": "原来肝脏不好真的会变丑",
+      "onboard_time": 1686278669,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1593980,
@@ -2267,14 +2275,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1092194,
-      "num": 1092194,
-      "word": "原来肝脏不好真的会变丑",
-      "onboard_time": 1686278669,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1086340,
       "num": 982929,
       "word": "四大顶级舞担",
@@ -2732,7 +2732,7 @@
     },
     {
       "raw_hot": 932367,
-      "num": 382570,
+      "num": 402617,
       "word": "没想到耳屎竟然会越掏越多",
       "onboard_time": 1686268106,
       "rank": 20,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1685868747,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926543,
+      "num": 926543,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 925453,
@@ -3817,14 +3825,6 @@
       "onboard_time": 1686235773,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 667598,
-      "num": 667598,
-      "word": "跑男泰国",
-      "onboard_time": 1686277647,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 667281,
@@ -5819,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406873,
+      "num": 406873,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406824,
       "num": 346772,
       "word": "文俊辉要考清华",
@@ -5873,6 +5881,14 @@
       "onboard_time": 1685672786,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403595,
+      "num": 403595,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 403564,
@@ -6089,6 +6105,14 @@
       "onboard_time": 1685873547,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387888,
+      "num": 387888,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 387087,
@@ -7393,14 +7417,6 @@
       "onboard_time": 1685694748,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319075,
-      "num": 319075,
-      "word": "宋雨琦Minnie录制奔跑吧",
-      "onboard_time": 1686278609,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 318718,
@@ -9091,6 +9107,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 263231,
+      "num": 263231,
+      "word": "王鹤棣衣服吊牌没摘",
+      "onboard_time": 1686278189,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263179,
       "num": 212364,
       "word": "肖战梦中的那片海招商全满",
@@ -10041,14 +10065,6 @@
       "onboard_time": 1686092781,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 242580,
-      "num": 242580,
-      "word": "王鹤棣衣服吊牌没摘",
-      "onboard_time": 1686278189,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 242282,
@@ -11987,6 +12003,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 204291,
+      "num": 204291,
+      "word": "薛之谦是陆虎夫妇的爱情保安",
+      "onboard_time": 1686278908,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204271,
       "num": 204271,
       "word": "郭艾伦tatan见面",
@@ -12513,14 +12537,6 @@
       "onboard_time": 1686141693,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196399,
-      "num": 196399,
-      "word": "赖冠霖今年没有参加高考",
-      "onboard_time": 1686279210,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 196205,
@@ -13465,6 +13481,14 @@
       "onboard_time": 1685890897,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185558,
+      "num": 185558,
+      "word": "是妈妈是女儿线下首唱",
+      "onboard_time": 1686279271,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 185477,
@@ -14433,14 +14457,6 @@
       "onboard_time": 1685785349,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168893,
-      "num": 168893,
-      "word": "薛之谦是陆虎夫妇的爱情保安",
-      "onboard_time": 1686278908,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 168743,
@@ -15859,6 +15875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141519,
+      "num": 141519,
+      "word": "米哈游2022年营收273.4亿元",
+      "onboard_time": 1686279509,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141171,
       "num": 1283355,
       "word": "加油高考生",
@@ -15947,20 +15971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139870,
-      "num": 139870,
-      "word": "是妈妈是女儿线下首唱",
-      "onboard_time": 1686279271,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139730,
       "num": 139730,
       "word": "重庆人看完想打人",
       "onboard_time": 1685582308,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139513,
+      "num": 177177,
+      "word": "哪个瞬间让你成为主角",
+      "onboard_time": 1686279571,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 139496,
@@ -19480,6 +19504,14 @@
       "word": "无限画里的童年",
       "onboard_time": 1685633551,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5269,
+      "num": 515762,
+      "word": "男生考完连续两个空翻冲出考场",
+      "onboard_time": 1686279870,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],

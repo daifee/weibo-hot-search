@@ -1,10 +1,10 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686279458744,
+  "endTime": 1686279960999,
   "band_list": [
     {
-      "raw_hot": 2710522,
-      "num": 2710522,
+      "raw_hot": 2879207,
+      "num": 2879207,
       "word": "孩子你配享太庙",
       "onboard_time": 1686277226,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1686275248,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1603610,
+      "num": 1603610,
+      "word": "原来肝脏不好真的会变丑",
+      "onboard_time": 1686278669,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1559620,
@@ -76,19 +84,11 @@
     },
     {
       "raw_hot": 1153377,
-      "num": 723103,
+      "num": 799299,
       "word": "鼠头鸭脖高校学生称又吃出大青虫",
       "onboard_time": 1686230130,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1092194,
-      "num": 1092194,
-      "word": "原来肝脏不好真的会变丑",
-      "onboard_time": 1686278669,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 1084861,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 932367,
-      "num": 382570,
+      "num": 402617,
       "word": "没想到耳屎竟然会越掏越多",
       "onboard_time": 1686268106,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 926543,
+      "num": 926543,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 924194,
@@ -187,14 +195,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 667598,
-      "num": 667598,
-      "word": "跑男泰国",
-      "onboard_time": 1686277647,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 665807,
       "num": 591589,
       "word": "杨紫赵露思撞衫",
@@ -251,6 +251,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 406873,
+      "num": 406873,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403595,
+      "num": 403595,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387888,
+      "num": 387888,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354096,
       "num": 171014,
       "word": "李春燕 中石油十大杰出青年",
@@ -273,14 +297,6 @@
       "onboard_time": 1686210451,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319075,
-      "num": 319075,
-      "word": "宋雨琦Minnie录制奔跑吧",
-      "onboard_time": 1686278609,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 306400,
@@ -321,6 +337,14 @@
       "onboard_time": 1686239308,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263231,
+      "num": 263231,
+      "word": "王鹤棣衣服吊牌没摘",
+      "onboard_time": 1686278189,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259955,
@@ -403,14 +427,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 242580,
-      "num": 242580,
-      "word": "王鹤棣衣服吊牌没摘",
-      "onboard_time": 1686278189,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 241569,
       "num": 241569,
       "word": "二胎宝妈夜间摆摊走出产后抑郁",
@@ -467,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204291,
+      "num": 204291,
+      "word": "薛之谦是陆虎夫妇的爱情保安",
+      "onboard_time": 1686278908,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198333,
       "num": 198333,
       "word": "夫妻收废品为生丈夫去世被发现出轨",
@@ -481,14 +505,6 @@
       "onboard_time": 1686278669,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196399,
-      "num": 196399,
-      "word": "赖冠霖今年没有参加高考",
-      "onboard_time": 1686279210,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 195976,
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185558,
+      "num": 185558,
+      "word": "是妈妈是女儿线下首唱",
+      "onboard_time": 1686279271,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185257,
       "num": 185257,
       "word": "EDG AD",
@@ -593,14 +617,6 @@
       "onboard_time": 1686239608,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168893,
-      "num": 168893,
-      "word": "薛之谦是陆虎夫妇的爱情保安",
-      "onboard_time": 1686278908,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 168720,
@@ -707,12 +723,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 139870,
-      "num": 139870,
-      "word": "是妈妈是女儿线下首唱",
-      "onboard_time": 1686279271,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 141519,
+      "num": 141519,
+      "word": "米哈游2022年营收273.4亿元",
+      "onboard_time": 1686279509,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139513,
+      "num": 177177,
+      "word": "哪个瞬间让你成为主角",
+      "onboard_time": 1686279571,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 137960,
@@ -968,6 +992,14 @@
       "word": "保护我们的那片海",
       "onboard_time": 1686208234,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5269,
+      "num": 515762,
+      "word": "男生考完连续两个空翻冲出考场",
+      "onboard_time": 1686279870,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
