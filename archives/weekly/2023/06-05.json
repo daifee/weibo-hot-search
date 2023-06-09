@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686292493724,
+  "endTime": 1686294966446,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2361318,
+      "num": 2148660,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2335137,
       "num": 2335137,
       "word": "考生喊话取消调休",
@@ -433,14 +441,6 @@
       "onboard_time": 1686129467,
       "rank": 4,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 2148660,
-      "num": 2148660,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2121466,
@@ -851,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1521038,
+      "num": 740828,
+      "word": "四川大学",
+      "onboard_time": 1686290430,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1508871,
       "num": 1095824,
       "word": "她只是长得好看并且很健谈罢了",
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1318415,
+      "num": 1318415,
+      "word": "EXO确定于7月10日回归",
+      "onboard_time": 1686293729,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1302667,
       "num": 1302667,
       "word": "6年前忘带准考证受助考生成交警新同事",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1685889153,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1293012,
+      "num": 1293012,
+      "word": "刘惜君绝了",
+      "onboard_time": 1686288569,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1283952,
@@ -1131,14 +1155,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1271788,
-      "num": 1271788,
-      "word": "刘惜君绝了",
-      "onboard_time": 1686288569,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1264547,
       "num": 1264547,
       "word": "吴倩镜头少原因",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1686107438,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1230442,
+      "num": 1230442,
+      "word": "怀孕的同事让我给她带冰奶茶",
+      "onboard_time": 1686291208,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1223087,
@@ -1435,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1061214,
-      "num": 729950,
-      "word": "四川大学",
-      "onboard_time": 1686290430,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1053947,
       "num": 1342377,
       "word": "双胞胎拿错准考证骁骑5分钟调换",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1686201751,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1033107,
+      "num": 1033107,
+      "word": "张嘉倪喝奶茶边喝边漏",
+      "onboard_time": 1686292170,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1029690,
@@ -2715,6 +2739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 540548,
+      "num": 540548,
+      "word": "徐怀钰",
+      "onboard_time": 1686292589,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537100,
       "num": 537100,
       "word": "张远谈最可惜内娱组合",
@@ -3457,14 +3489,6 @@
       "onboard_time": 1685884349,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388121,
-      "num": 194384,
-      "word": "怀孕的同事让我给她带冰奶茶",
-      "onboard_time": 1686291208,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 387168,
@@ -5419,6 +5443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245950,
+      "num": 245950,
+      "word": "伊能静逆生长",
+      "onboard_time": 1686294092,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245820,
       "num": 245820,
       "word": "23岁护士病逝捐遗体成大体老师",
@@ -5635,6 +5667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239140,
+      "num": 239140,
+      "word": "网暴造成被害人自杀应被提起公诉",
+      "onboard_time": 1686293729,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238803,
       "num": 238803,
       "word": "全自动家庭闯祸机",
@@ -5729,6 +5769,14 @@
       "onboard_time": 1686037108,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234744,
+      "num": 234744,
+      "word": "端午节要调休",
+      "onboard_time": 1686292109,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234307,
@@ -5923,6 +5971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227382,
+      "num": 227382,
+      "word": "你为什么那么讨厌调休",
+      "onboard_time": 1686293729,
+      "rank": 32,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 227309,
       "num": 227309,
       "word": "刘耀文刘宇撞衫",
@@ -6065,6 +6121,14 @@
       "onboard_time": 1686118473,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222786,
+      "num": 222786,
+      "word": "一家5口举女儿偶像立牌接考",
+      "onboard_time": 1686291689,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222299,
@@ -6627,14 +6691,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 203750,
-      "num": 203750,
-      "word": "张嘉倪喝奶茶边喝边漏",
-      "onboard_time": 1686292170,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203503,
       "num": 203503,
       "word": "夏天穿洞洞鞋出门的后果",
@@ -6656,6 +6712,14 @@
       "word": "时代少年团常驻综艺",
       "onboard_time": 1686137135,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202977,
+      "num": 202977,
+      "word": "美依礼芽额饰造型",
+      "onboard_time": 1686291449,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -6801,6 +6865,14 @@
       "onboard_time": 1686047130,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 199185,
+      "num": 199185,
+      "word": "全员加速中猎人真实身份",
+      "onboard_time": 1686294510,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 198930,
@@ -7363,12 +7435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186983,
-      "num": 186983,
-      "word": "端午节要调休",
-      "onboard_time": 1686292109,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 186950,
+      "num": 186950,
+      "word": "山河图 修音",
+      "onboard_time": 1686294510,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186702,
@@ -7440,14 +7512,6 @@
       "word": "家长送孩子高考竟把小女儿忘考场",
       "onboard_time": 1686125012,
       "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 185342,
-      "num": 185342,
-      "word": "一家5口举女儿偶像立牌接考",
-      "onboard_time": 1686291689,
-      "rank": 44,
       "category": "社会新闻,教育"
     },
     {
@@ -8707,6 +8771,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 148042,
+      "num": 148042,
+      "word": "斗罗大陆",
+      "onboard_time": 1686293911,
+      "rank": 44,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "梦中的那片海塑造的女性",
@@ -8833,6 +8905,14 @@
       "onboard_time": 1686183087,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 142818,
+      "num": 142818,
+      "word": "张嘉倪蕾丝打底",
+      "onboard_time": 1686293428,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 142783,
@@ -9003,20 +9083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135592,
+      "num": 135592,
+      "word": "男子学厨26年钻研100多种点心",
+      "onboard_time": 1686294932,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135186,
+      "num": 135186,
+      "word": "浙江免费送五月天演唱会门票",
+      "onboard_time": 1686294030,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135127,
       "num": 128143,
       "word": "鹿晗三巡周边预告",
       "onboard_time": 1685952509,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134953,
-      "num": 134953,
-      "word": "美依礼芽额饰造型",
-      "onboard_time": 1686291449,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 134585,
@@ -10073,6 +10161,14 @@
       "onboard_time": 1685989275,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 79913,
+      "num": 548447,
+      "word": "高考结束后亲友团横幅有点大胆",
+      "onboard_time": 1686294030,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79890,
