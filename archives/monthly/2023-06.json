@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686332029244,
+  "endTime": 1686334837736,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -20171,6 +20171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73236,
+      "num": 73236,
+      "word": "超九成投票网友赞成取消调休",
+      "onboard_time": 1686332718,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73224,
       "num": 483731,
       "word": "星穹铁道1.1",
@@ -20377,6 +20385,14 @@
       "onboard_time": 1686053788,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66896,
+      "num": 66896,
+      "word": "舒淇 猩红女巫",
+      "onboard_time": 1686332898,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 66409,
@@ -20897,6 +20913,14 @@
       "onboard_time": 1685661199,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 40392,
+      "num": 44810,
+      "word": "以闪亮之名",
+      "onboard_time": 1686333800,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 40019,
