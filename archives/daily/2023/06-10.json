@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686350014536,
+  "endTime": 1686352611956,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -43,20 +43,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 973021,
+      "num": 973021,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 749222,
       "num": 749222,
       "word": "美国亚裔高考接近满分被六大名校拒绝",
       "onboard_time": 1686321214,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 671480,
-      "num": 671480,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 629946,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499021,
-      "num": 499021,
+      "raw_hot": 558070,
+      "num": 558070,
       "word": "婴儿接种证被盖死亡证明专用章",
       "onboard_time": 1686315090,
       "rank": 11,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 192335,
-      "num": 107828,
+      "num": 122814,
       "word": "无意间刷到一个没人看的主播",
       "onboard_time": 1686328526,
       "rank": 30,
@@ -289,6 +289,14 @@
       "onboard_time": 1686323912,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163289,
+      "num": 163289,
+      "word": "周深撕了李晨名牌",
+      "onboard_time": 1686321272,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 158189,
@@ -363,19 +371,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131842,
-      "num": 126559,
-      "word": "周深撕了李晨名牌",
-      "onboard_time": 1686321272,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129854,
       "num": 129854,
       "word": "母马深陷泥潭小马驹奔跑回家求助",
       "onboard_time": 1686327448,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129389,
+      "num": 129389,
+      "word": "免职裙不到半天卖出2000多条",
+      "onboard_time": 1686352280,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -385,6 +393,14 @@
       "onboard_time": 1686296909,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115133,
+      "num": 115133,
+      "word": "取消调休能实现吗",
+      "onboard_time": 1686343933,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113254,
@@ -436,11 +452,19 @@
     },
     {
       "raw_hot": 87171,
-      "num": 73236,
+      "num": 79299,
       "word": "超九成投票网友赞成取消调休",
       "onboard_time": 1686332718,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85652,
+      "num": 85652,
+      "word": "贺红玲你把钢笔还回来",
+      "onboard_time": 1686350236,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 84402,
@@ -459,20 +483,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 80109,
-      "num": 56997,
-      "word": "取消调休能实现吗",
-      "onboard_time": 1686343933,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76450,
       "num": 70063,
       "word": "王源易烊千玺工作室出图",
       "onboard_time": 1686311426,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74865,
+      "num": 74865,
+      "word": "抑郁女生带患癌爷爷游中国相互治愈",
+      "onboard_time": 1686352158,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71760,
@@ -483,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63391,
+      "num": 63391,
+      "word": "正美容的柯基发现铲屎官看自己",
+      "onboard_time": 1686351738,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61647,
+      "num": 61647,
+      "word": "我掉下去都不会让他掉下去",
+      "onboard_time": 1686351738,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59239,
       "num": 59239,
       "word": "注册不了张z",
@@ -491,11 +531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50721,
+      "num": 50721,
+      "word": "文化和自然遗产日",
+      "onboard_time": 1686352359,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48634,
       "num": 1096333,
       "word": "3分钟告诉你万物皆可链",
       "onboard_time": 1686316349,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46886,
+      "num": 46886,
+      "word": "女子挣扎瞬间他果断翻出护栏救人",
+      "onboard_time": 1686352477,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

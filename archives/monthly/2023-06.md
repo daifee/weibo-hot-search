@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/10 06:33:34
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/10 07:16:51
 </p>
 </blockquote>
 <p>
@@ -2151,6 +2151,12 @@ AI写高考作文（热度：992848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23" target="weibo">
+长得漂亮但拍照不上镜（热度：973021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23" target="weibo">
 金毛误入考场被民警请出（热度：972203）
 </a>
@@ -3165,12 +3171,6 @@ Lisa脚趾头（热度：679829）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23" target="weibo">
-长得漂亮但拍照不上镜（热度：671480）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84%23" target="weibo">
 她是怎么忍住不用剪刀的（热度：670799）
 </a>
@@ -3639,6 +3639,12 @@ EXO新歌MV拍摄取消（热度：562251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23" target="weibo">
+婴儿接种证被盖死亡证明专用章（热度：558070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%83%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BF%98%E8%AE%B0%E6%9B%BF%E8%80%81%E9%BE%9F%E9%97%AE%E5%AF%BF%E5%91%BD%23" target="weibo">
 唐僧为什么忘记替老龟问寿命（热度：557874）
 </a>
@@ -3977,12 +3983,6 @@ Ella全组鼓励徐怀钰（热度：501880）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A6%BB4%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C%23" target="weibo">
 中国人离4天工作制还有多远（热度：500076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23" target="weibo">
-婴儿接种证被盖死亡证明专用章（热度：499021）
 </a>
 </li>
 
