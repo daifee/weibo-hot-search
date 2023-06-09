@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686291735184,
+  "endTime": 1686292493724,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -11,12 +11,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2681386,
+      "num": 2681386,
+      "word": "江歌妈妈收到大量借款信息",
+      "onboard_time": 1686287430,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2618972,
       "num": 2618972,
       "word": "原来肝脏不好真的会变丑",
       "onboard_time": 1686278669,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2485749,
+      "num": 2485749,
+      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+      "onboard_time": 1686283592,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2335137,
@@ -35,27 +51,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2312022,
-      "num": 2312022,
-      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
-      "onboard_time": 1686283592,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1953212,
-      "num": 1844047,
+      "raw_hot": 2148660,
+      "num": 2148660,
       "word": "注册不了张z",
       "onboard_time": 1686279571,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1793897,
-      "num": 1793897,
-      "word": "江歌妈妈收到大量借款信息",
-      "onboard_time": 1686287430,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1271788,
+      "num": 1271788,
+      "word": "刘惜君绝了",
+      "onboard_time": 1686288569,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1176860,
       "num": 627510,
       "word": "北大屠夫称大学生就业难关键在父母",
@@ -163,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1013854,
-      "num": 1013854,
-      "word": "刘惜君绝了",
-      "onboard_time": 1686288569,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 1061214,
+      "num": 729950,
+      "word": "四川大学",
+      "onboard_time": 1686290430,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947218,
@@ -177,6 +185,14 @@
       "onboard_time": 1686267747,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 937402,
+      "num": 937402,
+      "word": "有人嗑黄子韬和徐志胜吗",
+      "onboard_time": 1686290850,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 932367,
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510764,
-      "num": 510764,
-      "word": "有人嗑黄子韬和徐志胜吗",
-      "onboard_time": 1686290850,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 501880,
       "num": 501880,
       "word": "Ella全组鼓励徐怀钰",
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474667,
-      "num": 474667,
-      "word": "四川大学",
-      "onboard_time": 1686290430,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441548,
       "num": 441548,
       "word": "Lisa留刘海的原因",
@@ -403,8 +403,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374054,
-      "num": 374054,
+      "raw_hot": 388121,
+      "num": 194384,
+      "word": "怀孕的同事让我给她带冰奶茶",
+      "onboard_time": 1686291208,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 387168,
+      "num": 387168,
       "word": "杨紫霍建华或将二搭",
       "onboard_time": 1686289829,
       "rank": 22,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311281,
+      "num": 311281,
+      "word": "BTS",
+      "onboard_time": 1686288928,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309593,
       "num": 309593,
       "word": "王源今天要走两次红毯",
@@ -505,14 +521,6 @@
       "onboard_time": 1686272069,
       "rank": 22,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 285239,
-      "num": 285239,
-      "word": "BTS",
-      "onboard_time": 1686288928,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 281887,
@@ -731,6 +739,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 231946,
+      "num": 231946,
+      "word": "鞠婧祎的眼泪像断了线的珍珠",
+      "onboard_time": 1686289230,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229191,
       "num": 229191,
       "word": "薛之谦是陆虎夫妇的爱情保安",
@@ -763,14 +779,6 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 215383,
-      "num": 215383,
-      "word": "鞠婧祎的眼泪像断了线的珍珠",
-      "onboard_time": 1686289230,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213146,
       "num": 213146,
       "word": "替叶国华给大家跪一个",
@@ -793,6 +801,14 @@
       "onboard_time": 1686266243,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203750,
+      "num": 203750,
+      "word": "张嘉倪喝奶茶边喝边漏",
+      "onboard_time": 1686292170,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200818,
@@ -899,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186983,
+      "num": 186983,
+      "word": "端午节要调休",
+      "onboard_time": 1686292109,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185990,
       "num": 185990,
       "word": "变形金刚7",
       "onboard_time": 1686274950,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185342,
+      "num": 185342,
+      "word": "一家5口举女儿偶像立牌接考",
+      "onboard_time": 1686291689,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 185257,
@@ -947,20 +979,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177964,
-      "num": 177964,
-      "word": "怀孕的同事让我给她带冰奶茶",
-      "onboard_time": 1686291208,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177651,
       "num": 177651,
       "word": "转学后发现老师也转来了",
       "onboard_time": 1686232113,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175383,
+      "num": 175383,
+      "word": "注册不了张z过度维权了吗",
+      "onboard_time": 1686292288,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174657,
@@ -993,6 +1025,14 @@
       "onboard_time": 1686285993,
       "rank": 44,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 168988,
+      "num": 194558,
+      "word": "依法惩治网暴公开征求意见",
+      "onboard_time": 1686292109,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168720,
@@ -1187,14 +1227,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 139520,
-      "num": 139520,
-      "word": "一家5口举女儿偶像立牌接考",
-      "onboard_time": 1686291689,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 139513,
       "num": 282574,
       "word": "哪个瞬间让你成为主角",
@@ -1211,16 +1243,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 131171,
-      "num": 131171,
+      "raw_hot": 134953,
+      "num": 134953,
       "word": "美依礼芽额饰造型",
       "onboard_time": 1686291449,
       "rank": 47,
       "category": "综艺"
     },
     {
-      "raw_hot": 129584,
-      "num": 129584,
+      "raw_hot": 133626,
+      "num": 133626,
       "word": "刘诗诗烟熏妆怼脸拍",
       "onboard_time": 1686291568,
       "rank": 48,
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 115097,
-      "num": 1784352,
+      "num": 2288509,
       "word": "世界上建设难度最高的跨海集群工程",
       "onboard_time": 1686280469,
       "rank": 2,

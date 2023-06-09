@@ -1,0 +1,410 @@
+{
+  "runTime": 1686292493724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2681386,
+        "num": 2681386,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2485749,
+        "num": 2485749,
+        "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+        "onboard_time": 1686283592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39646,
+        "num": 2288509,
+        "word": "世界上建设难度最高的跨海集群工程",
+        "onboard_time": 1686280469,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2148660,
+        "num": 2148660,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271788,
+        "num": 1271788,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1213555,
+        "num": 1213555,
+        "word": "你赞成取消调休吗",
+        "onboard_time": 1686281729,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939292,
+        "num": 939292,
+        "word": "原来肝脏不好真的会变丑",
+        "onboard_time": 1686278669,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 937402,
+        "num": 937402,
+        "word": "有人嗑黄子韬和徐志胜吗",
+        "onboard_time": 1686290850,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 789133,
+        "num": 789133,
+        "word": "井柏然刘雯又合体营业了",
+        "onboard_time": 1686286053,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 777517,
+        "num": 777517,
+        "word": "跑男最后一期录制阵容",
+        "onboard_time": 1686282932,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1061214,
+        "num": 729950,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658942,
+        "num": 658942,
+        "word": "山东政治 好崩溃",
+        "onboard_time": 1686287012,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 544405,
+        "num": 544405,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 507209,
+        "num": 507209,
+        "word": "跑男泰国",
+        "onboard_time": 1686277647,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477921,
+        "num": 477921,
+        "word": "山河图",
+        "onboard_time": 1686285273,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471622,
+        "num": 471622,
+        "word": "宋雨琦Minnie录制奔跑吧",
+        "onboard_time": 1686278609,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465639,
+        "num": 465639,
+        "word": "不知名最美狗nannyQAQ",
+        "onboard_time": 1686283352,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448370,
+        "num": 448370,
+        "word": "孩子你配享太庙",
+        "onboard_time": 1686277226,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415448,
+        "num": 415448,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387168,
+        "num": 387168,
+        "word": "杨紫霍建华或将二搭",
+        "onboard_time": 1686289829,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367043,
+        "num": 367043,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348777,
+        "num": 348777,
+        "word": "赖冠霖今年没有参加高考",
+        "onboard_time": 1686279210,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317739,
+        "num": 317739,
+        "word": "王鹤棣戴耳环了",
+        "onboard_time": 1686275787,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311281,
+        "num": 311281,
+        "word": "BTS",
+        "onboard_time": 1686288928,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283703,
+        "num": 283703,
+        "word": "目击者证实沈阳一菜市场发生凶杀案",
+        "onboard_time": 1686276510,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251108,
+        "num": 251108,
+        "word": "中石油",
+        "onboard_time": 1686286651,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239843,
+        "num": 239843,
+        "word": "Ella全组鼓励徐怀钰",
+        "onboard_time": 1686287253,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231946,
+        "num": 231946,
+        "word": "鞠婧祎的眼泪像断了线的珍珠",
+        "onboard_time": 1686289230,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203750,
+        "num": 203750,
+        "word": "张嘉倪喝奶茶边喝边漏",
+        "onboard_time": 1686292170,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168988,
+        "num": 194558,
+        "word": "依法惩治网暴公开征求意见",
+        "onboard_time": 1686292109,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388121,
+        "num": 194384,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288103,
+        "num": 194193,
+        "word": "翟欣欣涉嫌敲诈勒索已立案侦查",
+        "onboard_time": 1686287370,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193814,
+        "num": 193814,
+        "word": "高考地理",
+        "onboard_time": 1686285273,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189070,
+        "num": 189070,
+        "word": "外媒曝Jennie将加入漫威",
+        "onboard_time": 1686265941,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188530,
+        "num": 188530,
+        "word": "谢娜马甲线好明显",
+        "onboard_time": 1686288151,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 186983,
+        "num": 186983,
+        "word": "端午节要调休",
+        "onboard_time": 1686292109,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186342,
+        "num": 186342,
+        "word": "考生喊话取消调休",
+        "onboard_time": 1686275248,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 185342,
+        "num": 185342,
+        "word": "一家5口举女儿偶像立牌接考",
+        "onboard_time": 1686291689,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175383,
+        "num": 175383,
+        "word": "注册不了张z过度维权了吗",
+        "onboard_time": 1686292288,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172381,
+        "num": 172381,
+        "word": "美依礼芽可爱",
+        "onboard_time": 1686290611,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170365,
+        "num": 170365,
+        "word": "千里万里 适合春晚",
+        "onboard_time": 1686289768,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168918,
+        "num": 168918,
+        "word": "Ella说犯错就该死吗",
+        "onboard_time": 1686288811,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167023,
+        "num": 167023,
+        "word": "没想到耳屎竟然会越掏越多",
+        "onboard_time": 1686268106,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162278,
+        "num": 162278,
+        "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+        "onboard_time": 1686275608,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139916,
+        "num": 139916,
+        "word": "鼠头鸭脖高校学生称又吃出大青虫",
+        "onboard_time": 1686230130,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137065,
+        "num": 137065,
+        "word": "男职工3年不上班工资3千涨到7千",
+        "onboard_time": 1686271469,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 136909,
+        "num": 136909,
+        "word": "苏州河",
+        "onboard_time": 1686288393,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134953,
+        "num": 134953,
+        "word": "美依礼芽额饰造型",
+        "onboard_time": 1686291449,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133626,
+        "num": 133626,
+        "word": "刘诗诗烟熏妆怼脸拍",
+        "onboard_time": 1686291568,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131368,
+        "num": 131368,
+        "word": "肖战的眼泪像断了线的珍珠",
+        "onboard_time": 1686281729,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
+    }
+  }
+}
