@@ -1,0 +1,410 @@
+{
+  "runTime": 1686281732505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3441448,
+        "num": 3441448,
+        "word": "孩子你配享太庙",
+        "onboard_time": 1686277226,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2618972,
+        "num": 2618972,
+        "word": "原来肝脏不好真的会变丑",
+        "onboard_time": 1686278669,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75920,
+        "num": 1784352,
+        "word": "世界上建设难度最高的跨海集群工程",
+        "onboard_time": 1686280469,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499938,
+        "num": 1499938,
+        "word": "跑男泰国",
+        "onboard_time": 1686277647,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1208650,
+        "num": 1208650,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1198786,
+        "num": 1198786,
+        "word": "赖冠霖今年没有参加高考",
+        "onboard_time": 1686279210,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1013934,
+        "num": 1013934,
+        "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+        "onboard_time": 1686275608,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947218,
+        "num": 947218,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 933267,
+        "num": 933267,
+        "word": "男职工3年不上班工资3千涨到7千",
+        "onboard_time": 1686271469,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 727022,
+        "num": 727022,
+        "word": "目击者证实沈阳一菜市场发生凶杀案",
+        "onboard_time": 1686276510,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249423,
+        "num": 699827,
+        "word": "考生喊话取消调休",
+        "onboard_time": 1686275248,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 916667,
+        "num": 691834,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668416,
+        "num": 668416,
+        "word": "鼠头鸭脖高校学生称又吃出大青虫",
+        "onboard_time": 1686230130,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629944,
+        "num": 629944,
+        "word": "外媒曝Jennie将加入漫威",
+        "onboard_time": 1686265941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84787,
+        "num": 624891,
+        "word": "男生考完连续两个空翻冲出考场",
+        "onboard_time": 1686279870,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623544,
+        "num": 623544,
+        "word": "千万不要动学姐留下的东西",
+        "onboard_time": 1686265400,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 475576,
+        "num": 475576,
+        "word": "宋雨琦Minnie录制奔跑吧",
+        "onboard_time": 1686278609,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416891,
+        "num": 416891,
+        "word": "高考第三天",
+        "onboard_time": 1686268829,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 440871,
+        "num": 416290,
+        "word": "王鹤棣戴耳环了",
+        "onboard_time": 1686275787,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410332,
+        "num": 410332,
+        "word": "Angelababy张大大有默契但不多",
+        "onboard_time": 1686240449,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607954,
+        "num": 400698,
+        "word": "没想到耳屎竟然会越掏越多",
+        "onboard_time": 1686268106,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368279,
+        "num": 368279,
+        "word": "奔跑吧泰国",
+        "onboard_time": 1686280710,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338895,
+        "num": 338895,
+        "word": "Amber单杀Uzi",
+        "onboard_time": 1686231453,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 318624,
+        "num": 318624,
+        "word": "王玉雯7天涨粉9万",
+        "onboard_time": 1686266845,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276576,
+        "num": 276576,
+        "word": "杨紫赵露思撞衫",
+        "onboard_time": 1686231572,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59479,
+        "num": 263624,
+        "word": "哪个瞬间让你成为主角",
+        "onboard_time": 1686279571,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261152,
+        "num": 261152,
+        "word": "高考结束张桂梅又躲进空教室",
+        "onboard_time": 1686235773,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 255191,
+        "num": 255191,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245820,
+        "num": 245820,
+        "word": "23岁护士病逝捐遗体成大体老师",
+        "onboard_time": 1686280652,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221562,
+        "num": 221562,
+        "word": "是妈妈是女儿线下首唱",
+        "onboard_time": 1686279271,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150513,
+        "num": 217083,
+        "word": "檀健次阿卡贝拉新歌首唱",
+        "onboard_time": 1686280050,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214383,
+        "num": 214383,
+        "word": "北大屠夫称大学生就业难关键在父母",
+        "onboard_time": 1686256933,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211771,
+        "num": 211771,
+        "word": "肝脏移植前后肤色对比",
+        "onboard_time": 1686239428,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202203,
+        "num": 202203,
+        "word": "王鹤棣衣服吊牌没摘",
+        "onboard_time": 1686278189,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199689,
+        "num": 199689,
+        "word": "薛之谦是陆虎夫妇的爱情保安",
+        "onboard_time": 1686278908,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181279,
+        "num": 181279,
+        "word": "乘风三公",
+        "onboard_time": 1686279991,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180191,
+        "num": 180191,
+        "word": "二胎宝妈夜间摆摊走出产后抑郁",
+        "onboard_time": 1686277289,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179542,
+        "num": 179542,
+        "word": "全员加速中世界观",
+        "onboard_time": 1686278669,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174294,
+        "num": 174294,
+        "word": "街拍事件最新画面曝光",
+        "onboard_time": 1686232772,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172159,
+        "num": 172159,
+        "word": "EDG AD",
+        "onboard_time": 1686180504,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169770,
+        "num": 169770,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165900,
+        "num": 165900,
+        "word": "四川一公务员被曝出轨女同事",
+        "onboard_time": 1686219097,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165862,
+        "num": 165862,
+        "word": "AI太古里街拍",
+        "onboard_time": 1686281070,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165436,
+        "num": 165436,
+        "word": "米哈游2022年营收273.4亿元",
+        "onboard_time": 1686279509,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157229,
+        "num": 160555,
+        "word": "消失的她",
+        "onboard_time": 1686280233,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159236,
+        "num": 159236,
+        "word": "于和伟 吹蜡烛",
+        "onboard_time": 1686274048,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 151924,
+        "num": 151924,
+        "word": "酸奶为什么越卖越贵",
+        "onboard_time": 1686275188,
+        "rank": 46,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 148509,
+        "num": 148509,
+        "word": "王一博 签字笔没水",
+        "onboard_time": 1686281672,
+        "rank": 47,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 145689,
+        "num": 145689,
+        "word": "转学后发现老师也转来了",
+        "onboard_time": 1686232113,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145040,
+        "num": 145040,
+        "word": "周杰伦海口",
+        "onboard_time": 1686281551,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国北疆的绿色答卷#"
+    }
+  }
+}

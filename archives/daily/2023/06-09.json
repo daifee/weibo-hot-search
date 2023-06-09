@@ -1,14 +1,22 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686281087556,
+  "endTime": 1686281732505,
   "band_list": [
     {
-      "raw_hot": 3061960,
-      "num": 3061960,
+      "raw_hot": 3441448,
+      "num": 3441448,
       "word": "孩子你配享太庙",
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2618972,
+      "num": 2618972,
+      "word": "原来肝脏不好真的会变丑",
+      "onboard_time": 1686278669,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 2335137,
@@ -17,14 +25,6 @@
       "onboard_time": 1686275248,
       "rank": 0,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 2216060,
-      "num": 2216060,
-      "word": "原来肝脏不好真的会变丑",
-      "onboard_time": 1686278669,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 1559620,
@@ -41,6 +41,14 @@
       "onboard_time": 1686271469,
       "rank": 0,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1499938,
+      "num": 1499938,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1450673,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1273035,
-      "num": 1273035,
-      "word": "跑男泰国",
-      "onboard_time": 1686277647,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 1198786,
+      "num": 1198786,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1176860,
@@ -107,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 936754,
-      "num": 936754,
+      "raw_hot": 947218,
+      "num": 947218,
       "word": "LBL官宣uzi离队",
       "onboard_time": 1686267747,
       "rank": 5,
@@ -131,12 +139,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 919596,
-      "num": 919596,
-      "word": "赖冠霖今年没有参加高考",
-      "onboard_time": 1686279210,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 916667,
+      "num": 698026,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827100,
@@ -171,11 +179,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 698026,
-      "num": 698026,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
+      "raw_hot": 727022,
+      "num": 727022,
+      "word": "目击者证实沈阳一菜市场发生凶杀案",
+      "onboard_time": 1686276510,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -227,14 +235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 596063,
-      "num": 596063,
-      "word": "目击者证实沈阳一菜市场发生凶杀案",
-      "onboard_time": 1686276510,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570283,
       "num": 298313,
       "word": "女子将俩幼女锁房间月余致其饿死",
@@ -275,6 +275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410332,
+      "num": 410332,
+      "word": "Angelababy张大大有默契但不多",
+      "onboard_time": 1686240449,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 368279,
+      "num": 368279,
+      "word": "奔跑吧泰国",
+      "onboard_time": 1686280710,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354096,
       "num": 171014,
       "word": "李春燕 中石油十大杰出青年",
@@ -283,28 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324722,
-      "num": 324722,
-      "word": "Angelababy张大大有默契但不多",
-      "onboard_time": 1686240449,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324617,
       "num": 261208,
       "word": "牵手门女当事人疑似清空社交账号",
       "onboard_time": 1686210451,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323389,
-      "num": 323389,
-      "word": "奔跑吧泰国",
-      "onboard_time": 1686280710,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 306400,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245820,
+      "num": 245820,
+      "word": "23岁护士病逝捐遗体成大体老师",
+      "onboard_time": 1686280652,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244895,
       "num": 244895,
       "word": "徐云",
@@ -563,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190784,
-      "num": 190784,
-      "word": "23岁护士病逝捐遗体成大体老师",
-      "onboard_time": 1686280652,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189589,
       "num": 189589,
       "word": "盗火者",
@@ -651,12 +651,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169770,
+      "num": 169770,
+      "word": "孤寡老人家中被盗后自杀",
+      "onboard_time": 1686281310,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168720,
       "num": 168720,
       "word": "张彬彬为还原角色瘦了20斤",
       "onboard_time": 1686238950,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165862,
+      "num": 165862,
+      "word": "AI太古里街拍",
+      "onboard_time": 1686281070,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165557,
@@ -673,6 +689,14 @@
       "onboard_time": 1686234514,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165436,
+      "num": 165436,
+      "word": "米哈游2022年营收273.4亿元",
+      "onboard_time": 1686279509,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 163683,
@@ -731,12 +755,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150513,
+      "num": 247570,
+      "word": "檀健次阿卡贝拉新歌首唱",
+      "onboard_time": 1686280050,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149080,
       "num": 149080,
       "word": "坏妈妈大结局太好哭了",
       "onboard_time": 1686267447,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148509,
+      "num": 148509,
+      "word": "王一博 签字笔没水",
+      "onboard_time": 1686281672,
+      "rank": 47,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 146616,
@@ -747,20 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145689,
+      "num": 145689,
+      "word": "转学后发现老师也转来了",
+      "onboard_time": 1686232113,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145040,
+      "num": 145040,
+      "word": "周杰伦海口",
+      "onboard_time": 1686281551,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "高考英语",
       "onboard_time": 1686213514,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 142375,
-      "num": 142375,
-      "word": "米哈游2022年营收273.4亿元",
-      "onboard_time": 1686279509,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 139513,
@@ -779,28 +827,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 134923,
-      "num": 247570,
-      "word": "檀健次阿卡贝拉新歌首唱",
-      "onboard_time": 1686280050,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129225,
       "num": 125469,
       "word": "梦中的那片海",
       "onboard_time": 1686265881,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128656,
-      "num": 128656,
-      "word": "AI太古里街拍",
-      "onboard_time": 1686281070,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123699,
@@ -907,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102505,
-      "num": 102505,
-      "word": "转学后发现老师也转来了",
-      "onboard_time": 1686232113,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101942,
       "num": 101942,
       "word": "毛不易说何书桓确实很渣",
@@ -955,6 +979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 84787,
+      "num": 624891,
+      "word": "男生考完连续两个空翻冲出考场",
+      "onboard_time": 1686279870,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82313,
       "num": 82313,
       "word": "薛之谦巡演官宣两城空降",
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75920,
+      "num": 1784352,
+      "word": "世界上建设难度最高的跨海集群工程",
+      "onboard_time": 1686280469,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73723,
       "num": 73723,
       "word": "周深版玉兔出场主打一个蹦蹦跳跳",
@@ -1001,22 +1041,6 @@
       "onboard_time": 1686251115,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 64910,
-      "num": 542344,
-      "word": "男生考完连续两个空翻冲出考场",
-      "onboard_time": 1686279870,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55666,
-      "num": 1386529,
-      "word": "世界上建设难度最高的跨海集群工程",
-      "onboard_time": 1686280469,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55130,
