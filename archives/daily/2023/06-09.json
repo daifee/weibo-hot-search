@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686309292445,
+  "endTime": 1686310416764,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2402654,
+      "num": 2402654,
+      "word": "四川大学回应女生曝光地铁大叔",
+      "onboard_time": 1686299851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2361318,
       "num": 2148660,
       "word": "注册不了张z",
@@ -80,14 +88,6 @@
       "word": "你赞成取消调休吗",
       "onboard_time": 1686281729,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2166370,
-      "num": 2166370,
-      "word": "四川大学回应女生曝光地铁大叔",
-      "onboard_time": 1686299851,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 945915,
+      "num": 945915,
+      "word": "EDG海报空个位置",
+      "onboard_time": 1686309807,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 937402,
       "num": 937402,
       "word": "有人嗑黄子韬和徐志胜吗",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 796859,
-      "num": 225484,
+      "num": 706986,
       "word": "EDG官宣Thesnake上调一队",
       "onboard_time": 1686307768,
       "rank": 30,
@@ -531,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 555106,
+      "num": 1240624,
+      "word": "出考场考生为躲避采访蛇形走位",
+      "onboard_time": 1686306988,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 540548,
       "num": 540548,
       "word": "徐怀钰",
@@ -569,14 +585,6 @@
       "onboard_time": 1686273331,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490901,
-      "num": 1240624,
-      "word": "出考场考生为躲避采访蛇形走位",
-      "onboard_time": 1686306988,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 483139,
@@ -667,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358301,
+      "num": 358301,
+      "word": "倪妮礼服",
+      "onboard_time": 1686309687,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355067,
       "num": 355067,
       "word": "肖战的眼泪像断了线的珍珠",
@@ -691,12 +707,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349355,
+      "num": 349355,
+      "word": "地铁称女子大叔当时已和解",
+      "onboard_time": 1686309207,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348124,
       "num": 348124,
       "word": "山东化学",
       "onboard_time": 1686302430,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 334855,
+      "num": 334855,
+      "word": "郑业成",
+      "onboard_time": 1686307768,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 329242,
@@ -889,6 +921,14 @@
       "onboard_time": 1686301291,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269518,
+      "num": 269518,
+      "word": "王鹤棣显眼包泰国版",
+      "onboard_time": 1686307889,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 264997,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 233267,
+      "num": 233267,
+      "word": "田柾国金珉奎梦幻联动",
+      "onboard_time": 1686308669,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232914,
       "num": 232914,
       "word": "一家5口举女儿偶像立牌接考",
@@ -1179,28 +1227,12 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 222500,
-      "num": 222500,
-      "word": "田柾国金珉奎梦幻联动",
-      "onboard_time": 1686308669,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218644,
       "num": 182816,
       "word": "浪3没能看到的合作",
       "onboard_time": 1686302612,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215969,
-      "num": 215969,
-      "word": "郑业成",
-      "onboard_time": 1686307768,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 213146,
@@ -1243,12 +1275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204339,
-      "num": 204339,
-      "word": "王鹤棣显眼包泰国版",
-      "onboard_time": 1686307889,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 206278,
+      "num": 188349,
+      "word": "原来迪丽热巴陈紫函合作过古剑奇谭",
+      "onboard_time": 1686309269,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201376,
+      "num": 163330,
+      "word": "倪大红惠英红牵手",
+      "onboard_time": 1686309089,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 200818,
@@ -1619,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162422,
+      "num": 162422,
+      "word": "LCK",
+      "onboard_time": 1686309568,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161246,
       "num": 161246,
       "word": "学车教练给我取了个日本名",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1686235773,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154834,
+      "num": 154834,
+      "word": "朱正廷直播",
+      "onboard_time": 1686310110,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 154234,
@@ -1859,14 +1915,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 137735,
-      "num": 137735,
-      "word": "地铁称女子大叔当时已和解",
-      "onboard_time": 1686309207,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137568,
       "num": 137568,
       "word": "种地吧 治愈精神内耗",
@@ -1900,19 +1948,11 @@
     },
     {
       "raw_hot": 133502,
-      "num": 500856,
+      "num": 556481,
       "word": "高考后买哪些数码产品更实用",
       "onboard_time": 1686298951,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 130266,
-      "num": 130266,
-      "word": "倪大红惠英红牵手",
-      "onboard_time": 1686309089,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 129225,
@@ -1971,14 +2011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119296,
-      "num": 119296,
-      "word": "原来迪丽热巴陈紫函合作过古剑奇谭",
-      "onboard_time": 1686309269,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118767,
       "num": 118767,
       "word": "上海外滩偶遇周润发晨跑",
@@ -1993,6 +2025,14 @@
       "onboard_time": 1686278009,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115746,
+      "num": 115746,
+      "word": "地铁疑似被偷拍应该怎么做",
+      "onboard_time": 1686310348,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115097,
