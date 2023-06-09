@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686334837736,
+  "endTime": 1686335614988,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -11267,6 +11267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87171,
+      "num": 73236,
+      "word": "超九成投票网友赞成取消调休",
+      "onboard_time": 1686332718,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86990,
       "num": 86990,
       "word": "今日全力以赴明日好好庆祝",
@@ -11443,20 +11451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73236,
-      "num": 73236,
-      "word": "超九成投票网友赞成取消调休",
-      "onboard_time": 1686332718,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73224,
       "num": 483731,
       "word": "星穹铁道1.1",
       "onboard_time": 1686139234,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 71760,
+      "num": 71760,
+      "word": "舒淇 猩红女巫",
+      "onboard_time": 1686332898,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 71269,
@@ -11545,14 +11553,6 @@
       "onboard_time": 1686053788,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66896,
-      "num": 66896,
-      "word": "舒淇 猩红女巫",
-      "onboard_time": 1686332898,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 66409,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686334837736,
+  "endTime": 1686335614988,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87171,
+      "num": 73236,
+      "word": "超九成投票网友赞成取消调休",
+      "onboard_time": 1686332718,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84402,
       "num": 84402,
       "word": "蒋依依西施造型",
@@ -459,16 +467,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 73236,
-      "num": 73236,
-      "word": "超九成投票网友赞成取消调休",
-      "onboard_time": 1686332718,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66896,
-      "num": 66896,
+      "raw_hot": 71760,
+      "num": 71760,
       "word": "舒淇 猩红女巫",
       "onboard_time": 1686332898,
       "rank": 25,
