@@ -1,0 +1,410 @@
+{
+  "runTime": 1686276707211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2335137,
+        "num": 2335137,
+        "word": "考生喊话取消调休",
+        "onboard_time": 1686275248,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1500968,
+        "num": 1500968,
+        "word": "男职工3年不上班工资3千涨到7千",
+        "onboard_time": 1686271469,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 20334,
+        "num": 1341117,
+        "word": "保护我们的那片海",
+        "onboard_time": 1686208234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1198182,
+        "num": 1198182,
+        "word": "千万不要动学姐留下的东西",
+        "onboard_time": 1686265400,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1047865,
+        "num": 1047865,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 932941,
+        "num": 932941,
+        "word": "外媒曝Jennie将加入漫威",
+        "onboard_time": 1686265941,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880369,
+        "num": 880369,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 712498,
+        "num": 712498,
+        "word": "肝脏移植前后肤色对比",
+        "onboard_time": 1686239428,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668951,
+        "num": 668951,
+        "word": "高考结束张桂梅又躲进空教室",
+        "onboard_time": 1686235773,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 624533,
+        "num": 624533,
+        "word": "高考第三天",
+        "onboard_time": 1686268829,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 675071,
+        "num": 581102,
+        "word": "鼠头鸭脖高校学生称又吃出大青虫",
+        "onboard_time": 1686230130,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166081,
+        "num": 578298,
+        "word": "北大屠夫称大学生就业难关键在父母",
+        "onboard_time": 1686256933,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625371,
+        "num": 577879,
+        "word": "王玉雯7天涨粉9万",
+        "onboard_time": 1686266845,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524629,
+        "num": 524629,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 476628,
+        "num": 476628,
+        "word": "四川一公务员被曝出轨女同事",
+        "onboard_time": 1686219097,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473800,
+        "num": 473800,
+        "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+        "onboard_time": 1686275608,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609592,
+        "num": 473491,
+        "word": "江西通报考生迟到37分钟仍能进考场",
+        "onboard_time": 1686227851,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 441142,
+        "num": 441142,
+        "word": "宋雨琦回归跑男",
+        "onboard_time": 1686273331,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438768,
+        "num": 438768,
+        "word": "Amber单杀Uzi",
+        "onboard_time": 1686231453,
+        "rank": 18,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 384066,
+        "num": 384066,
+        "word": "街拍事件最新画面曝光",
+        "onboard_time": 1686232772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789334,
+        "num": 382570,
+        "word": "没想到耳屎竟然会越掏越多",
+        "onboard_time": 1686268106,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378755,
+        "num": 378755,
+        "word": "杨紫赵露思撞衫",
+        "onboard_time": 1686231572,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315025,
+        "num": 315025,
+        "word": "王鹤棣戴耳环了",
+        "onboard_time": 1686275787,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306400,
+        "num": 306400,
+        "word": "蛋仔派对",
+        "onboard_time": 1686275666,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255503,
+        "num": 255503,
+        "word": "山东物理",
+        "onboard_time": 1686276268,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 248638,
+        "num": 248638,
+        "word": "酸奶为什么越卖越贵",
+        "onboard_time": 1686275188,
+        "rank": 25,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 248324,
+        "num": 248324,
+        "word": "于和伟 吹蜡烛",
+        "onboard_time": 1686274048,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 247102,
+        "num": 247102,
+        "word": "鞠婧祎直球吻戏",
+        "onboard_time": 1686274048,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238539,
+        "num": 238539,
+        "word": "女子将俩幼女锁房间月余致其饿死",
+        "onboard_time": 1686222332,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154234,
+        "num": 238323,
+        "word": "比亚迪F品牌定名方程豹",
+        "onboard_time": 1686275907,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238277,
+        "num": 238277,
+        "word": "90后程序员回家卖羊粪月销120万",
+        "onboard_time": 1686272069,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 237399,
+        "num": 237399,
+        "word": "官方要求广东电信查明网络中断原因",
+        "onboard_time": 1686271469,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 225100,
+        "num": 225100,
+        "word": "她是怎么忍住不用剪刀的",
+        "onboard_time": 1686234812,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211715,
+        "num": 211715,
+        "word": "医院回应新生儿被遗留大厅",
+        "onboard_time": 1686267145,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192392,
+        "num": 192392,
+        "word": "阿沁vlog更新了",
+        "onboard_time": 1686273388,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 191608,
+        "num": 191608,
+        "word": "王源新电影受刑",
+        "onboard_time": 1686276687,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189210,
+        "num": 189210,
+        "word": "如何看待职工被迫吃空饷",
+        "onboard_time": 1686275428,
+        "rank": 36,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 187483,
+        "num": 187483,
+        "word": "肖战演技",
+        "onboard_time": 1686266243,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185990,
+        "num": 185990,
+        "word": "变形金刚7",
+        "onboard_time": 1686274950,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174657,
+        "num": 174657,
+        "word": "奔跑吧",
+        "onboard_time": 1686276568,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170983,
+        "num": 170983,
+        "word": "河南高考配笔",
+        "onboard_time": 1686268889,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "他用轮椅走出597平方公里无障碍地图",
+        "onboard_time": 1686276330,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160491,
+        "num": 160491,
+        "word": "Angelababy张大大有默契但不多",
+        "onboard_time": 1686240449,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153040,
+        "num": 153040,
+        "word": "阿布",
+        "onboard_time": 1686265881,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 149611,
+        "word": "EDG AD",
+        "onboard_time": 1686180504,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141761,
+        "num": 141761,
+        "word": "跟异性同事相处需要有边界感吗",
+        "onboard_time": 1686265941,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137417,
+        "num": 137417,
+        "word": "鞠婧祎新剧女扮男装被发现",
+        "onboard_time": 1686271350,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130327,
+        "num": 130327,
+        "word": "目击者证实沈阳一菜市场发生凶杀案",
+        "onboard_time": 1686276510,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123529,
+        "num": 123529,
+        "word": "校方回应职工3年不上班工资涨到7千",
+        "onboard_time": 1686275248,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121199,
+        "num": 121199,
+        "word": "田曦薇一周涨粉20万",
+        "onboard_time": 1686270450,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国北疆的绿色答卷#"
+    }
+  }
+}
