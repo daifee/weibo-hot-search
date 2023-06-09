@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686328621163,
+  "endTime": 1686330926296,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -51,8 +51,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 663952,
-      "num": 663952,
+      "raw_hot": 671480,
+      "num": 671480,
       "word": "长得漂亮但拍照不上镜",
       "onboard_time": 1686314429,
       "rank": 7,
@@ -137,6 +137,14 @@
       "onboard_time": 1686320189,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306352,
+      "num": 306352,
+      "word": "照相馆学徒冒死留下南京大屠杀证据",
+      "onboard_time": 1686327625,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303729,
@@ -251,6 +259,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 187266,
+      "num": 107828,
+      "word": "无意间刷到一个没人看的主播",
+      "onboard_time": 1686328526,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175057,
       "num": 175057,
       "word": "沈腾回应好帅",
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157318,
+      "num": 157318,
+      "word": "延长周末的办法",
+      "onboard_time": 1686326968,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 156630,
       "num": 156630,
       "word": "朱一龙等倪妮",
@@ -305,22 +329,6 @@
       "onboard_time": 1686321932,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153696,
-      "num": 153696,
-      "word": "延长周末的办法",
-      "onboard_time": 1686326968,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 152100,
-      "num": 152100,
-      "word": "照相馆学徒冒死留下南京大屠杀证据",
-      "onboard_time": 1686327625,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147075,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112566,
+      "num": 112566,
+      "word": "温流不参与SHINee新专辑活动",
+      "onboard_time": 1686329005,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110106,
       "num": 110106,
       "word": "无字 乌兹",
@@ -411,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86215,
+      "num": 86215,
+      "word": "速度与激情11定档",
+      "onboard_time": 1686330502,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84402,
+      "num": 84402,
+      "word": "蒋依依西施造型",
+      "onboard_time": 1686329543,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82524,
       "num": 82524,
       "word": "高考结束",
       "onboard_time": 1686304470,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 76450,
+      "num": 69630,
+      "word": "王源易烊千玺工作室出图",
+      "onboard_time": 1686311426,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 48634,
