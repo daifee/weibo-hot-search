@@ -1,0 +1,410 @@
+{
+  "runTime": 1686348949929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616350,
+        "num": 616350,
+        "word": "陈露 王萌",
+        "onboard_time": 1686324870,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 248739,
+        "num": 248739,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13942,
+        "num": 202441,
+        "word": "3分钟告诉你万物皆可链",
+        "onboard_time": 1686316349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178003,
+        "num": 178003,
+        "word": "婴儿接种证被盖死亡证明专用章",
+        "onboard_time": 1686315090,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153313,
+        "num": 153313,
+        "word": "美国亚裔高考接近满分被六大名校拒绝",
+        "onboard_time": 1686321214,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 304825,
+        "num": 146616,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130311,
+        "num": 130311,
+        "word": "照相馆学徒冒死留下南京大屠杀证据",
+        "onboard_time": 1686327625,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117136,
+        "num": 117136,
+        "word": "注册不了张z被曝专业是新闻传播",
+        "onboard_time": 1686312326,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110890,
+        "num": 110890,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1686315929,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106756,
+        "num": 106756,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100600,
+        "num": 100600,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91890,
+        "num": 91890,
+        "word": "徐怀钰 东亚偶像体系",
+        "onboard_time": 1686325469,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72973,
+        "num": 72973,
+        "word": "鼠头鸭脖学校门口大量学生取外卖",
+        "onboard_time": 1686313709,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69820,
+        "num": 69820,
+        "word": "00后小伙为救轻生女不幸溺亡",
+        "onboard_time": 1686323731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64493,
+        "num": 64493,
+        "word": "陈露涉嫌敲诈勒索案进入审查起诉阶段",
+        "onboard_time": 1686321573,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 61647,
+        "num": 61647,
+        "word": "倪妮的项链是腕表",
+        "onboard_time": 1686313047,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58922,
+        "num": 58922,
+        "word": "蔡徐坤 泰国人气",
+        "onboard_time": 1686319651,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56251,
+        "num": 56251,
+        "word": "肖春生经受的六次暴击",
+        "onboard_time": 1686321573,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52989,
+        "num": 52989,
+        "word": "倪妮第二套",
+        "onboard_time": 1686319950,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52199,
+        "num": 52199,
+        "word": "胡歌把吴磊抱起来了",
+        "onboard_time": 1686310648,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374571,
+        "num": 52169,
+        "word": "霍尊前女友涉嫌敲诈勒索案已移交检察院",
+        "onboard_time": 1686321691,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 76201,
+        "num": 51853,
+        "word": "无意间刷到一个没人看的主播",
+        "onboard_time": 1686328526,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64730,
+        "num": 50913,
+        "word": "取消调休能实现吗",
+        "onboard_time": 1686343933,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48312,
+        "num": 48312,
+        "word": "周深撕了李晨名牌",
+        "onboard_time": 1686321272,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44275,
+        "num": 44275,
+        "word": "高考生感觉考砸公交司机安慰半小时",
+        "onboard_time": 1686323193,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 42177,
+        "num": 42177,
+        "word": "梦中的那片海",
+        "onboard_time": 1686322892,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41639,
+        "num": 41639,
+        "word": "超九成投票网友赞成取消调休",
+        "onboard_time": 1686332718,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41436,
+        "num": 41436,
+        "word": "朱一龙等倪妮",
+        "onboard_time": 1686314727,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41418,
+        "num": 41418,
+        "word": "欧冠决赛",
+        "onboard_time": 1686323131,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38433,
+        "num": 38433,
+        "word": "胡先煦帅回来了",
+        "onboard_time": 1686323912,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36812,
+        "num": 36812,
+        "word": "孟美岐 玉龙县文旅局",
+        "onboard_time": 1686303571,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36848,
+        "num": 35910,
+        "word": "舒淇 白客",
+        "onboard_time": 1686320189,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34202,
+        "num": 34202,
+        "word": "延长周末的办法",
+        "onboard_time": 1686326968,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 34537,
+        "num": 33621,
+        "word": "舒淇 猩红女巫",
+        "onboard_time": 1686332898,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32080,
+        "num": 32080,
+        "word": "王源易烊千玺工作室出图",
+        "onboard_time": 1686311426,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31098,
+        "num": 31098,
+        "word": "德约科维奇",
+        "onboard_time": 1686318630,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29026,
+        "num": 31096,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28753,
+        "num": 31081,
+        "word": "高考结束",
+        "onboard_time": 1686304470,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 26803,
+        "num": 31066,
+        "word": "速度与激情11定档",
+        "onboard_time": 1686330502,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26082,
+        "num": 31055,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25533,
+        "num": 31048,
+        "word": "法网",
+        "onboard_time": 1686315812,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25366,
+        "num": 31032,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24662,
+        "num": 31022,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24606,
+        "num": 31018,
+        "word": "王子奇王玉雯你给我的喜欢庆功宴",
+        "onboard_time": 1686319892,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23587,
+        "num": 30998,
+        "word": "无字 乌兹",
+        "onboard_time": 1686311608,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23137,
+        "num": 30991,
+        "word": "毕业之前来看演唱会",
+        "onboard_time": 1686337633,
+        "rank": 45,
+        "category": "音乐,情感"
+      },
+      {
+        "raw_hot": 22870,
+        "num": 30982,
+        "word": "李彩桦回应恋情",
+        "onboard_time": 1686296909,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22108,
+        "num": 30968,
+        "word": "大黄蜂死了",
+        "onboard_time": 1686301533,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20300,
+        "num": 30961,
+        "word": "EDG海报空个位置",
+        "onboard_time": 1686309807,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19881,
+        "num": 30943,
+        "word": "温流不参与SHINee新专辑活动",
+        "onboard_time": 1686329005,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
+    }
+  }
+}
