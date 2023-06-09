@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686320134094,
+  "endTime": 1686321235603,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -379,8 +379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2529573,
-      "num": 2529573,
+      "raw_hot": 2531884,
+      "num": 2531884,
       "word": "易烊千玺 评委",
       "onboard_time": 1686315929,
       "rank": 20,
@@ -897,6 +897,14 @@
       "onboard_time": 1686133717,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1898029,
+      "num": 1492390,
+      "word": "杰克辣条 红色刑房",
+      "onboard_time": 1686318269,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1895298,
@@ -1465,14 +1473,6 @@
       "onboard_time": 1686052350,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1492390,
-      "num": 1492390,
-      "word": "杰克辣条 红色刑房",
-      "onboard_time": 1686318269,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1486812,
@@ -3281,6 +3281,14 @@
       "onboard_time": 1685777127,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 840986,
+      "num": 664856,
+      "word": "蔡徐坤 泰国人气",
+      "onboard_time": 1686319651,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 838400,
@@ -6211,6 +6219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411332,
+      "num": 411332,
+      "word": "倪妮第二套",
+      "onboard_time": 1686319950,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411222,
       "num": 261863,
       "word": "QQ音乐豪华绿钻续费价格上调",
@@ -6432,6 +6448,14 @@
       "word": "肖战片场讲冷笑话",
       "onboard_time": 1685614166,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396507,
+      "num": 317378,
+      "word": "王子奇王玉雯你给我的喜欢庆功宴",
+      "onboard_time": 1686319892,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -6665,6 +6689,14 @@
       "onboard_time": 1686024210,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 381320,
+      "num": 309542,
+      "word": "舒淇 白客",
+      "onboard_time": 1686320189,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 380809,
@@ -7908,7 +7940,7 @@
     },
     {
       "raw_hot": 323715,
-      "num": 289853,
+      "num": 305064,
       "word": "长得漂亮但拍照不上镜",
       "onboard_time": 1686314429,
       "rank": 38,
@@ -8609,14 +8641,6 @@
       "onboard_time": 1685804133,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 296584,
-      "num": 296584,
-      "word": "蔡徐坤 泰国人气",
-      "onboard_time": 1686319651,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 296569,
@@ -12659,14 +12683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210143,
-      "num": 153581,
-      "word": "王子奇王玉雯你给我的喜欢庆功宴",
-      "onboard_time": 1686319892,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210141,
       "num": 210141,
       "word": "WE对战UP",
@@ -15403,6 +15419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172861,
+      "num": 172861,
+      "word": "德约科维奇",
+      "onboard_time": 1686065250,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172725,
       "num": 172725,
       "word": "高考生物",
@@ -15793,14 +15817,6 @@
       "onboard_time": 1685668707,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166082,
-      "num": 138606,
-      "word": "倪妮第二套",
-      "onboard_time": 1686319950,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 166025,
@@ -17393,14 +17409,6 @@
       "onboard_time": 1685867008,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139483,
-      "num": 139483,
-      "word": "德约科维奇",
-      "onboard_time": 1686065250,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 139234,
@@ -19235,6 +19243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97512,
+      "num": 116909,
+      "word": "美国亚裔高考接近满分被六大名校拒绝",
+      "onboard_time": 1686321214,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 97416,
       "num": 605432,
       "word": "学霸捧花接同学一句祝福惊艳了",
@@ -20467,6 +20483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51355,
+      "num": 1262676,
+      "word": "3分钟告诉你万物皆可链",
+      "onboard_time": 1686316349,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51295,
       "num": 51295,
       "word": "班主任带着学生做了5年公益",
@@ -20915,6 +20939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26276,
+      "num": 463252,
+      "word": "上海电影节水幕音乐秀",
+      "onboard_time": 1686319230,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26146,
       "num": 452715,
       "word": "师生协力上演教科书式急救",
@@ -21003,14 +21035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21053,
-      "num": 1262676,
-      "word": "3分钟告诉你万物皆可链",
-      "onboard_time": 1686316349,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20942,
       "num": 877301,
       "word": "大牌又双叒联名了",
@@ -21049,14 +21073,6 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15148,
-      "num": 463252,
-      "word": "上海电影节水幕音乐秀",
-      "onboard_time": 1686319230,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 13722,

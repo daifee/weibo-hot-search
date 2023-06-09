@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686320134094,
+  "endTime": 1686321235603,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2529573,
-      "num": 2529573,
+      "raw_hot": 2531884,
+      "num": 2531884,
       "word": "易烊千玺 评委",
       "onboard_time": 1686315929,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1898029,
+      "num": 1492390,
+      "word": "杰克辣条 红色刑房",
+      "onboard_time": 1686318269,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1805536,
       "num": 1805536,
       "word": "胡歌把吴磊抱起来了",
@@ -177,14 +185,6 @@
       "onboard_time": 1686271469,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1492390,
-      "num": 1492390,
-      "word": "杰克辣条 红色刑房",
-      "onboard_time": 1686318269,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1478298,
@@ -409,6 +409,14 @@
       "onboard_time": 1686301709,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 840986,
+      "num": 664856,
+      "word": "蔡徐坤 泰国人气",
+      "onboard_time": 1686319651,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 827100,
@@ -731,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411332,
+      "num": 411332,
+      "word": "倪妮第二套",
+      "onboard_time": 1686319950,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410332,
       "num": 410332,
       "word": "Angelababy张大大有默契但不多",
       "onboard_time": 1686240449,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396507,
+      "num": 317378,
+      "word": "王子奇王玉雯你给我的喜欢庆功宴",
+      "onboard_time": 1686319892,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 387168,
@@ -752,6 +776,14 @@
       "word": "周冬雨造型",
       "onboard_time": 1686311306,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 381320,
+      "num": 309542,
+      "word": "舒淇 白客",
+      "onboard_time": 1686320189,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -811,6 +843,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 338206,
+      "num": 338206,
+      "word": "初级会计",
+      "onboard_time": 1686320129,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 334855,
       "num": 334855,
       "word": "郑业成",
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 323715,
-      "num": 289853,
+      "num": 305064,
       "word": "长得漂亮但拍照不上镜",
       "onboard_time": 1686314429,
       "rank": 38,
@@ -931,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296584,
-      "num": 296584,
-      "word": "蔡徐坤 泰国人气",
-      "onboard_time": 1686319651,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 296569,
       "num": 296569,
       "word": "归途有风 三大vocal",
@@ -961,6 +993,14 @@
       "onboard_time": 1686287370,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290643,
+      "num": 290643,
+      "word": "向往的生活",
+      "onboard_time": 1686320371,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 289755,
@@ -1475,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210143,
-      "num": 153581,
-      "word": "王子奇王玉雯你给我的喜欢庆功宴",
-      "onboard_time": 1686319892,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208947,
       "num": 208947,
       "word": "肖战演技",
@@ -1795,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172861,
+      "num": 172861,
+      "word": "德约科维奇",
+      "onboard_time": 1686318630,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172725,
       "num": 172725,
       "word": "高考生物",
@@ -1849,14 +1889,6 @@
       "onboard_time": 1686305789,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166082,
-      "num": 138606,
-      "word": "倪妮第二套",
-      "onboard_time": 1686319950,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 165862,
@@ -2235,14 +2267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135050,
-      "num": 135050,
-      "word": "德约科维奇",
-      "onboard_time": 1686318630,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133626,
       "num": 133626,
       "word": "刘诗诗烟熏妆怼脸拍",
@@ -2451,6 +2475,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 97512,
+      "num": 116909,
+      "word": "美国亚裔高考接近满分被六大名校拒绝",
+      "onboard_time": 1686321214,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 97416,
       "num": 605432,
       "word": "学霸捧花接同学一句祝福惊艳了",
@@ -2587,6 +2619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 51355,
+      "num": 1262676,
+      "word": "3分钟告诉你万物皆可链",
+      "onboard_time": 1686316349,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46914,
       "num": 543395,
       "word": "高考结束南京天空跑来幸运小象",
@@ -2619,28 +2659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26276,
+      "num": 463252,
+      "word": "上海电影节水幕音乐秀",
+      "onboard_time": 1686319230,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23856,
       "num": 1341117,
       "word": "保护我们的那片海",
       "onboard_time": 1686208234,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21053,
-      "num": 1262676,
-      "word": "3分钟告诉你万物皆可链",
-      "onboard_time": 1686316349,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15148,
-      "num": 463252,
-      "word": "上海电影节水幕音乐秀",
-      "onboard_time": 1686319230,
-      "rank": 14,
-      "category": "影视"
     }
   ],
   "hotgov_list": [

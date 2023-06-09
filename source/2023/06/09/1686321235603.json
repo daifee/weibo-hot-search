@@ -1,0 +1,410 @@
+{
+  "runTime": 1686321235603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2531884,
+        "num": 2531884,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1686315929,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1008043,
+        "num": 1008043,
+        "word": "倪妮礼服",
+        "onboard_time": 1686309687,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51355,
+        "num": 983367,
+        "word": "3分钟告诉你万物皆可链",
+        "onboard_time": 1686316349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981481,
+        "num": 981481,
+        "word": "杨幂私服",
+        "onboard_time": 1686313887,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 920183,
+        "num": 920183,
+        "word": "胡歌把吴磊抱起来了",
+        "onboard_time": 1686310648,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1898029,
+        "num": 908060,
+        "word": "杰克辣条 红色刑房",
+        "onboard_time": 1686318269,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1389985,
+        "num": 888945,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744254,
+        "num": 744254,
+        "word": "王源易烊千玺工作室出图",
+        "onboard_time": 1686311426,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 675194,
+        "num": 675194,
+        "word": "无字 乌兹",
+        "onboard_time": 1686311608,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 674275,
+        "num": 674275,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840986,
+        "num": 664856,
+        "word": "蔡徐坤 泰国人气",
+        "onboard_time": 1686319651,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587376,
+        "num": 587376,
+        "word": "高考结束学生抬着老师冲出考场",
+        "onboard_time": 1686304232,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 455696,
+        "num": 455696,
+        "word": "玉骨遥",
+        "onboard_time": 1686295170,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451096,
+        "num": 451096,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26276,
+        "num": 437238,
+        "word": "上海电影节水幕音乐秀",
+        "onboard_time": 1686319230,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428451,
+        "num": 428451,
+        "word": "五个人打不过一个玲花",
+        "onboard_time": 1686296248,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415125,
+        "num": 415125,
+        "word": "鼠头鸭脖学校门口大量学生取外卖",
+        "onboard_time": 1686313709,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411332,
+        "num": 411332,
+        "word": "倪妮第二套",
+        "onboard_time": 1686319950,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338206,
+        "num": 338206,
+        "word": "初级会计",
+        "onboard_time": 1686320129,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 319659,
+        "num": 319659,
+        "word": "EDG海报空个位置",
+        "onboard_time": 1686309807,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396507,
+        "num": 317378,
+        "word": "王子奇王玉雯你给我的喜欢庆功宴",
+        "onboard_time": 1686319892,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391034,
+        "num": 313297,
+        "word": "大黄蜂死了",
+        "onboard_time": 1686301533,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381320,
+        "num": 309542,
+        "word": "舒淇 白客",
+        "onboard_time": 1686320189,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322572,
+        "num": 305064,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2531005,
+        "num": 297819,
+        "word": "BBC卧底记者扒出经营偷拍视频团伙",
+        "onboard_time": 1686313291,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377694,
+        "num": 295022,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293388,
+        "num": 293388,
+        "word": "倪妮的项链是腕表",
+        "onboard_time": 1686313047,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290643,
+        "num": 290643,
+        "word": "向往的生活",
+        "onboard_time": 1686320371,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243339,
+        "num": 243339,
+        "word": "注册不了张z被曝专业是新闻传播",
+        "onboard_time": 1686312326,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213989,
+        "num": 213989,
+        "word": "高考结束",
+        "onboard_time": 1686304470,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 263049,
+        "num": 211771,
+        "word": "孟美岐 玉龙县文旅局",
+        "onboard_time": 1686303571,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247926,
+        "num": 210540,
+        "word": "肖战说希望肖春生没有让爸爸失望",
+        "onboard_time": 1686315450,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205034,
+        "num": 205034,
+        "word": "翟欣欣被逮捕",
+        "onboard_time": 1686295649,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197729,
+        "num": 197729,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172861,
+        "num": 172861,
+        "word": "德约科维奇",
+        "onboard_time": 1686318630,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241223,
+        "num": 167954,
+        "word": "朱一龙等倪妮",
+        "onboard_time": 1686314727,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223417,
+        "num": 167860,
+        "word": "徐志胜 别磕给大家磕头了",
+        "onboard_time": 1686300870,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215300,
+        "num": 156810,
+        "word": "李彩桦回应恋情",
+        "onboard_time": 1686296909,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143412,
+        "num": 143412,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142020,
+        "num": 142020,
+        "word": "地铁称女子大叔当时已和解",
+        "onboard_time": 1686309207,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209051,
+        "num": 141957,
+        "word": "偶遇王俊凯泸州骑自行车",
+        "onboard_time": 1686315028,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182812,
+        "num": 139808,
+        "word": "周冬雨造型",
+        "onboard_time": 1686311306,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168450,
+        "num": 137332,
+        "word": "肖春生不否认佟晓梅是女朋友",
+        "onboard_time": 1686305309,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132224,
+        "num": 135744,
+        "word": "大连人2比2北京国安",
+        "onboard_time": 1686320013,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167114,
+        "num": 133206,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133095,
+        "num": 133095,
+        "word": "T1 bp太烂了",
+        "onboard_time": 1686315389,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129248,
+        "num": 129248,
+        "word": "EDG啥时候官宣",
+        "onboard_time": 1686298469,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116921,
+        "num": 116921,
+        "word": "法网",
+        "onboard_time": 1686315812,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114696,
+        "num": 116912,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97512,
+        "num": 116909,
+        "word": "美国亚裔高考接近满分被六大名校拒绝",
+        "onboard_time": 1686321214,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记的足迹感受中国生态变迁#"
+    }
+  }
+}
