@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686303213207,
+  "endTime": 1686305899193,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -385,6 +385,14 @@
       "onboard_time": 1685924669,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2485832,
+      "num": 2485832,
+      "word": "高考结束",
+      "onboard_time": 1686304470,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2485749,
@@ -1684,7 +1692,7 @@
     },
     {
       "raw_hot": 1351499,
-      "num": 649348,
+      "num": 859586,
       "word": "李彩桦回应恋情",
       "onboard_time": 1686296909,
       "rank": 12,
@@ -2243,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1160894,
+      "num": 1160894,
+      "word": "孟美岐 玉龙县文旅局",
+      "onboard_time": 1686303571,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159146,
       "num": 1159146,
       "word": "吴倩没有镜头",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1685598504,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1146045,
+      "num": 1146045,
+      "word": "大黄蜂死了",
+      "onboard_time": 1686301533,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 1139383,
@@ -2891,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 928237,
+      "num": 928237,
+      "word": "徐志胜 别磕给大家磕头了",
+      "onboard_time": 1686300870,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 927305,
       "num": 927305,
       "word": "四川乐山高位山体塌方14人遇难",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1686281310,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861719,
+      "num": 861719,
+      "word": "白鹿你不热吗",
+      "onboard_time": 1686301709,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 855032,
@@ -3745,14 +3785,6 @@
       "onboard_time": 1686038847,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 719667,
-      "num": 719667,
-      "word": "徐志胜 别磕给大家磕头了",
-      "onboard_time": 1686300870,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 717920,
@@ -4513,14 +4545,6 @@
       "onboard_time": 1685872946,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580359,
-      "num": 580359,
-      "word": "白鹿你不热吗",
-      "onboard_time": 1686301709,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 578846,
@@ -5556,7 +5580,7 @@
     },
     {
       "raw_hot": 451744,
-      "num": 357873,
+      "num": 367261,
       "word": "ZB1出道撞EXO",
       "onboard_time": 1686300991,
       "rank": 26,
@@ -5819,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425916,
+      "num": 2201713,
+      "word": "高考结束学生抬着老师冲出考场",
+      "onboard_time": 1686304232,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 425822,
       "num": 483681,
       "word": "马斯克再次成世界首富",
@@ -5849,6 +5881,14 @@
       "onboard_time": 1686218498,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 423704,
+      "num": 423704,
+      "word": "肖春生不否认佟晓梅是女朋友",
+      "onboard_time": 1686305309,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 423253,
@@ -6027,6 +6067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412494,
+      "num": 412494,
+      "word": "上海电影节红毯",
+      "onboard_time": 1686303752,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411573,
       "num": 411573,
       "word": "陈宥维",
@@ -6073,14 +6121,6 @@
       "onboard_time": 1685965285,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 408664,
-      "num": 290058,
-      "word": "大黄蜂死了",
-      "onboard_time": 1686301533,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 408392,
@@ -6723,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366407,
+      "num": 269948,
+      "word": "黄奕胸前挂了一圈灯球",
+      "onboard_time": 1686304950,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366340,
       "num": 366340,
       "word": "男老师被骗没毕业鲜花转头暖哭",
@@ -6881,6 +6929,14 @@
       "onboard_time": 1686213275,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359044,
+      "num": 266712,
+      "word": "上海国际电影节",
+      "onboard_time": 1686305069,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 358393,
@@ -9499,6 +9555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 264828,
+      "num": 264828,
+      "word": "因为名字太好听被公司录用",
+      "onboard_time": 1686301291,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264691,
       "num": 264691,
       "word": "杨幂对谢依霖说唐宛如你闭嘴",
@@ -10227,6 +10291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248771,
+      "num": 248771,
+      "word": "配享太庙",
+      "onboard_time": 1686302912,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248638,
       "num": 248638,
       "word": "酸奶为什么越卖越贵",
@@ -10281,14 +10353,6 @@
       "onboard_time": 1686114339,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247336,
-      "num": 247336,
-      "word": "因为名字太好听被公司录用",
-      "onboard_time": 1686301291,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 247102,
@@ -12579,6 +12643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204782,
+      "num": 1766054,
+      "word": "他懂事的样子让人心疼",
+      "onboard_time": 1686304232,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204587,
       "num": 204587,
       "word": "多特官宣贝林厄姆加盟皇马",
@@ -12793,6 +12865,14 @@
       "onboard_time": 1685631691,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201417,
+      "num": 201417,
+      "word": "薛之谦 鸟巢",
+      "onboard_time": 1686305489,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 201405,
@@ -13203,6 +13283,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 195771,
+      "num": 195771,
+      "word": "你比星光美丽全剧杀青",
+      "onboard_time": 1686305728,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195707,
       "num": 195707,
       "word": "张艺兴让粉丝投票选应援棒",
@@ -13489,14 +13577,6 @@
       "onboard_time": 1686019827,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192180,
-      "num": 192180,
-      "word": "配享太庙",
-      "onboard_time": 1686302912,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191943,
@@ -13891,6 +13971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188985,
+      "num": 188985,
+      "word": "张翰文化衫走出国门",
+      "onboard_time": 1686302311,
+      "rank": 49,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 188917,
       "num": 188917,
       "word": "AG转会期",
@@ -13945,6 +14033,14 @@
       "onboard_time": 1685709869,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188578,
+      "num": 188578,
+      "word": "一块能骗过食堂阿姨的姜",
+      "onboard_time": 1686301052,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 187992,
@@ -14305,14 +14401,6 @@
       "onboard_time": 1685614765,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183346,
-      "num": 183346,
-      "word": "一块能骗过食堂阿姨的姜",
-      "onboard_time": 1686301052,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 183293,
@@ -15155,6 +15243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169296,
+      "num": 169296,
+      "word": "越长大越不想谈恋爱",
+      "onboard_time": 1686305430,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169290,
       "num": 169290,
       "word": "变形金刚7首映",
@@ -15273,6 +15369,14 @@
       "onboard_time": 1685587405,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167674,
+      "num": 167674,
+      "word": "专心地毯",
+      "onboard_time": 1686305789,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 167033,
@@ -16875,14 +16979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138515,
-      "num": 138515,
-      "word": "张翰文化衫走出国门",
-      "onboard_time": 1686302311,
-      "rank": 49,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 138507,
       "num": 138507,
       "word": "考生走错考场汉警快骑4分钟送到",
@@ -17604,7 +17700,7 @@
     },
     {
       "raw_hot": 124649,
-      "num": 1847269,
+      "num": 2053293,
       "word": "高考过后最想做的一件事",
       "onboard_time": 1686280291,
       "rank": 2,
@@ -19331,6 +19427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73345,
+      "num": 501032,
+      "word": "货车起火冒烟好心男子拎新买灭火器扑灭",
+      "onboard_time": 1686304232,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73286,
       "num": 73286,
       "word": "白宇帆与藏族足球少年梦幻联动",
@@ -19425,6 +19529,14 @@
       "onboard_time": 1685800829,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71174,
+      "num": 274861,
+      "word": "大爷把感恩看得比钱重",
+      "onboard_time": 1686305309,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 70924,
@@ -19936,6 +20048,14 @@
       "word": "为什么年轻人喜欢早7在淘宝抢菜",
       "onboard_time": 1685962834,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46914,
+      "num": 539752,
+      "word": "高考结束南京天空跑来幸运小象",
+      "onboard_time": 1686304830,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

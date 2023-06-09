@@ -1,0 +1,410 @@
+{
+  "runTime": 1686305899193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2485832,
+        "num": 2485832,
+        "word": "高考结束",
+        "onboard_time": 1686304470,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 425916,
+        "num": 2201713,
+        "word": "高考结束学生抬着老师冲出考场",
+        "onboard_time": 1686304232,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 73310,
+        "num": 2053293,
+        "word": "高考过后最想做的一件事",
+        "onboard_time": 1686280291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2043918,
+        "num": 2043918,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204782,
+        "num": 1766054,
+        "word": "他懂事的样子让人心疼",
+        "onboard_time": 1686304232,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1749912,
+        "num": 1749912,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160894,
+        "num": 1160894,
+        "word": "孟美岐 玉龙县文旅局",
+        "onboard_time": 1686303571,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1146045,
+        "num": 1146045,
+        "word": "大黄蜂死了",
+        "onboard_time": 1686301533,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 928237,
+        "num": 928237,
+        "word": "徐志胜 别磕给大家磕头了",
+        "onboard_time": 1686300870,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 861719,
+        "num": 861719,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859586,
+        "num": 859586,
+        "word": "李彩桦回应恋情",
+        "onboard_time": 1686296909,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651456,
+        "num": 651456,
+        "word": "朴信惠Jennie将合作",
+        "onboard_time": 1686301291,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609860,
+        "num": 609860,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554653,
+        "num": 554653,
+        "word": "EDG啥时候官宣",
+        "onboard_time": 1686298469,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46914,
+        "num": 539752,
+        "word": "高考结束南京天空跑来幸运小象",
+        "onboard_time": 1686304830,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537776,
+        "num": 537776,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73345,
+        "num": 501032,
+        "word": "货车起火冒烟好心男子拎新买灭火器扑灭",
+        "onboard_time": 1686304232,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499994,
+        "num": 499994,
+        "word": "EXO确定于7月10日回归",
+        "onboard_time": 1686293729,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483931,
+        "num": 483931,
+        "word": "五个人打不过一个玲花",
+        "onboard_time": 1686296248,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482373,
+        "num": 482373,
+        "word": "刘亚仁 人间炼丹炉",
+        "onboard_time": 1686299192,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435683,
+        "num": 435683,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428626,
+        "num": 428626,
+        "word": "张嘉倪喝奶茶边喝边漏",
+        "onboard_time": 1686292170,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424699,
+        "num": 424699,
+        "word": "Tabe妻子谈未官宣Uzi",
+        "onboard_time": 1686300211,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423704,
+        "num": 423704,
+        "word": "肖春生不否认佟晓梅是女朋友",
+        "onboard_time": 1686305309,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412494,
+        "num": 412494,
+        "word": "上海电影节红毯",
+        "onboard_time": 1686303752,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392191,
+        "num": 392191,
+        "word": "玉骨遥",
+        "onboard_time": 1686295170,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377722,
+        "num": 377722,
+        "word": "有人嗑黄子韬和徐志胜吗",
+        "onboard_time": 1686290850,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367261,
+        "num": 367261,
+        "word": "ZB1出道撞EXO",
+        "onboard_time": 1686300991,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320868,
+        "num": 320868,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275580,
+        "num": 275580,
+        "word": "山东化学",
+        "onboard_time": 1686302430,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 71174,
+        "num": 274861,
+        "word": "大爷把感恩看得比钱重",
+        "onboard_time": 1686305309,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1043244,
+        "num": 273485,
+        "word": "翟欣欣被逮捕",
+        "onboard_time": 1686295649,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390837,
+        "num": 270760,
+        "word": "你赞成取消调休吗",
+        "onboard_time": 1686281729,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366407,
+        "num": 269948,
+        "word": "黄奕胸前挂了一圈灯球",
+        "onboard_time": 1686304950,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359044,
+        "num": 266712,
+        "word": "上海国际电影节",
+        "onboard_time": 1686305069,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266439,
+        "num": 266439,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264828,
+        "num": 264828,
+        "word": "因为名字太好听被公司录用",
+        "onboard_time": 1686301291,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248771,
+        "num": 248771,
+        "word": "配享太庙",
+        "onboard_time": 1686302912,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245661,
+        "num": 245661,
+        "word": "肖春生把绿萍紫菱的苦全吃了",
+        "onboard_time": 1686300031,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216450,
+        "num": 216450,
+        "word": "赵丽颖 二番",
+        "onboard_time": 1686302071,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209360,
+        "num": 209360,
+        "word": "跑男最后一期录制阵容",
+        "onboard_time": 1686282932,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209027,
+        "num": 209027,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201417,
+        "num": 201417,
+        "word": "薛之谦 鸟巢",
+        "onboard_time": 1686305489,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198575,
+        "num": 198575,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195771,
+        "num": 195771,
+        "word": "你比星光美丽全剧杀青",
+        "onboard_time": 1686305728,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188985,
+        "num": 188985,
+        "word": "张翰文化衫走出国门",
+        "onboard_time": 1686302311,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 188578,
+        "num": 188578,
+        "word": "一块能骗过食堂阿姨的姜",
+        "onboard_time": 1686301052,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172405,
+        "num": 172405,
+        "word": "原来肝脏不好真的会变丑",
+        "onboard_time": 1686278669,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169296,
+        "num": 169296,
+        "word": "越长大越不想谈恋爱",
+        "onboard_time": 1686305430,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167674,
+        "num": 167674,
+        "word": "专心地毯",
+        "onboard_time": 1686305789,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
+    }
+  }
+}
