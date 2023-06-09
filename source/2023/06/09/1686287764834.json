@@ -1,0 +1,410 @@
+{
+  "runTime": 1686287764834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2318582,
+        "num": 2318582,
+        "word": "你赞成取消调休吗",
+        "onboard_time": 1686281729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1646945,
+        "num": 1646945,
+        "word": "原来肝脏不好真的会变丑",
+        "onboard_time": 1686278669,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79136,
+        "num": 1502141,
+        "word": "高考过后最想做的一件事",
+        "onboard_time": 1686280291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1873041,
+        "num": 1491621,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1736827,
+        "num": 1459104,
+        "word": "孩子你配享太庙",
+        "onboard_time": 1686277226,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1401418,
+        "num": 1401418,
+        "word": "跑男泰国",
+        "onboard_time": 1686277647,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1374335,
+        "num": 1374335,
+        "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+        "onboard_time": 1686283592,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360395,
+        "num": 1360395,
+        "word": "赖冠霖今年没有参加高考",
+        "onboard_time": 1686279210,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1168075,
+        "num": 1168075,
+        "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+        "onboard_time": 1686275608,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053745,
+        "num": 1053745,
+        "word": "跑男最后一期录制阵容",
+        "onboard_time": 1686282932,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1538318,
+        "num": 1017883,
+        "word": "考生喊话取消调休",
+        "onboard_time": 1686275248,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 959172,
+        "num": 959172,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 876057,
+        "num": 876057,
+        "word": "不知名最美狗nannyQAQ",
+        "onboard_time": 1686283352,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 803202,
+        "num": 803202,
+        "word": "山东政治 好崩溃",
+        "onboard_time": 1686287012,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 711495,
+        "num": 711495,
+        "word": "山河图",
+        "onboard_time": 1686285273,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685251,
+        "num": 685251,
+        "word": "宋雨琦Minnie录制奔跑吧",
+        "onboard_time": 1686278609,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651878,
+        "num": 651878,
+        "word": "井柏然刘雯又合体营业了",
+        "onboard_time": 1686286053,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 648575,
+        "num": 648575,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618512,
+        "num": 618512,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 567740,
+        "num": 567740,
+        "word": "高考地理",
+        "onboard_time": 1686285273,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 668313,
+        "num": 550982,
+        "word": "目击者证实沈阳一菜市场发生凶杀案",
+        "onboard_time": 1686276510,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483139,
+        "num": 483139,
+        "word": "王鹤棣戴耳环了",
+        "onboard_time": 1686275787,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416174,
+        "num": 416174,
+        "word": "外媒曝Jennie将加入漫威",
+        "onboard_time": 1686265941,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410390,
+        "num": 410390,
+        "word": "Ella全组鼓励徐怀钰",
+        "onboard_time": 1686287253,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403143,
+        "num": 403143,
+        "word": "男职工3年不上班工资3千涨到7千",
+        "onboard_time": 1686271469,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 328381,
+        "num": 328381,
+        "word": "周杰伦海口",
+        "onboard_time": 1686281551,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317073,
+        "num": 317073,
+        "word": "高考第三天",
+        "onboard_time": 1686268829,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 289255,
+        "num": 289255,
+        "word": "没想到耳屎竟然会越掏越多",
+        "onboard_time": 1686268106,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286696,
+        "num": 286696,
+        "word": "归途有风 三大vocal",
+        "onboard_time": 1686286231,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147953,
+        "num": 274819,
+        "word": "高考结束张桂梅又躲进空教室",
+        "onboard_time": 1686235773,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274300,
+        "num": 274300,
+        "word": "高考政治",
+        "onboard_time": 1686285632,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273548,
+        "num": 273548,
+        "word": "中石油",
+        "onboard_time": 1686286651,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264997,
+        "num": 264997,
+        "word": "王一博分享赛车照",
+        "onboard_time": 1686286053,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264417,
+        "num": 264417,
+        "word": "肖战的眼泪像断了线的珍珠",
+        "onboard_time": 1686281729,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218746,
+        "num": 218746,
+        "word": "鼠头鸭脖高校学生称又吃出大青虫",
+        "onboard_time": 1686230130,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256956,
+        "num": 217312,
+        "word": "曹斐然7天涨粉41万",
+        "onboard_time": 1686282450,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211840,
+        "num": 211840,
+        "word": "千万不要动学姐留下的东西",
+        "onboard_time": 1686265400,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211087,
+        "num": 211087,
+        "word": "秋瓷炫三公梦回聂小倩",
+        "onboard_time": 1686285032,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206842,
+        "num": 206842,
+        "word": "护心",
+        "onboard_time": 1686282993,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204501,
+        "num": 204501,
+        "word": "全国荔枝排队上市有多壮观",
+        "onboard_time": 1686283291,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194200,
+        "num": 194200,
+        "word": "翟欣欣涉嫌敲诈勒索已立案侦查",
+        "onboard_time": 1686287370,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189339,
+        "num": 189339,
+        "word": "替叶国华给大家跪一个",
+        "onboard_time": 1686284432,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179491,
+        "num": 179491,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174021,
+        "num": 174021,
+        "word": "乐观的悲观主义者狠狠共情了",
+        "onboard_time": 1686286473,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170759,
+        "num": 170759,
+        "word": "导演被肖战哭戏打动",
+        "onboard_time": 1686285993,
+        "rank": 44,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 164778,
+        "num": 164778,
+        "word": "千万别这样穿防晒衣",
+        "onboard_time": 1686281729,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164485,
+        "num": 164485,
+        "word": "没事别去采耳了",
+        "onboard_time": 1686285216,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162890,
+        "num": 162890,
+        "word": "Uzi EDG",
+        "onboard_time": 1686211954,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153722,
+        "num": 153722,
+        "word": "五代男团的名字都是谁起的",
+        "onboard_time": 1686287611,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153125,
+        "num": 153125,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1686287611,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国北疆的绿色答卷#"
+    }
+  }
+}

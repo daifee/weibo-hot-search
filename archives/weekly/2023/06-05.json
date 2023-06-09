@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686285219287,
+  "endTime": 1686287764834,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2318582,
+      "num": 2318582,
+      "word": "你赞成取消调休吗",
+      "onboard_time": 1686281729,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2273063,
       "num": 2273063,
       "word": "人体最大的器官是什么",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1873041,
+      "num": 1566600,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1872136,
       "num": 1161015,
       "word": "好友称董洁从未埋怨潘粤明",
@@ -617,14 +633,6 @@
       "onboard_time": 1685893707,
       "rank": 10,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1719536,
-      "num": 1566600,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1686882,
@@ -979,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1374335,
+      "num": 1374335,
+      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+      "onboard_time": 1686283592,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1369364,
       "num": 1369364,
       "word": "绝味鸭脖股价下跌",
@@ -1259,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1168075,
+      "num": 1168075,
+      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+      "onboard_time": 1686275608,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1166552,
       "num": 1166552,
       "word": "高考完了不用去打暑期工",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1686102334,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1148258,
-      "num": 1148258,
-      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
-      "onboard_time": 1686275608,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1135346,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1686134376,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1053745,
+      "num": 1053745,
+      "word": "跑男最后一期录制阵容",
+      "onboard_time": 1686282932,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1049141,
@@ -1731,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876057,
+      "num": 876057,
+      "word": "不知名最美狗nannyQAQ",
+      "onboard_time": 1686283352,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 875800,
       "num": 875800,
       "word": "27岁游戏主播抗癌半年后去世",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1686030325,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 803202,
+      "num": 803202,
+      "word": "山东政治 好崩溃",
+      "onboard_time": 1686287012,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 800508,
@@ -2163,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 722543,
-      "num": 722543,
-      "word": "你赞成取消调休吗",
-      "onboard_time": 1686281729,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722149,
       "num": 722149,
       "word": "B太 我可能又被众筹了",
@@ -2216,6 +2248,14 @@
       "word": "芝芙是越南版这就是街舞的队长",
       "onboard_time": 1685931628,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 711495,
+      "num": 711495,
+      "word": "山河图",
+      "onboard_time": 1686285273,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -2323,6 +2363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 651878,
+      "num": 651878,
+      "word": "井柏然刘雯又合体营业了",
+      "onboard_time": 1686286053,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -2369,14 +2417,6 @@
       "onboard_time": 1685968706,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 632126,
-      "num": 632126,
-      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
-      "onboard_time": 1686283592,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 630211,
@@ -2427,27 +2467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 617283,
-      "num": 617283,
-      "word": "不知名最美狗nannyQAQ",
-      "onboard_time": 1686283352,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 616292,
       "num": 616292,
       "word": "薛之谦毛不易官宣音综",
       "onboard_time": 1685933067,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 612600,
-      "num": 612600,
-      "word": "跑男最后一期录制阵容",
-      "onboard_time": 1686282932,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -2561,6 +2585,14 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567740,
+      "num": 567740,
+      "word": "高考地理",
+      "onboard_time": 1686285273,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 562530,
@@ -2835,20 +2867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483139,
+      "num": 483139,
+      "word": "王鹤棣戴耳环了",
+      "onboard_time": 1686275787,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
       "onboard_time": 1686044789,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 481549,
-      "num": 481549,
-      "word": "王鹤棣戴耳环了",
-      "onboard_time": 1686275787,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 479689,
@@ -3217,6 +3249,14 @@
       "onboard_time": 1686185850,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 410390,
+      "num": 410390,
+      "word": "Ella全组鼓励徐怀钰",
+      "onboard_time": 1686287253,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 410332,
@@ -4467,6 +4507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286696,
+      "num": 286696,
+      "word": "归途有风 三大vocal",
+      "onboard_time": 1686286231,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286685,
       "num": 286685,
       "word": "齐司礼",
@@ -4659,6 +4707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274300,
+      "num": 274300,
+      "word": "高考政治",
+      "onboard_time": 1686285632,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 274243,
       "num": 274243,
       "word": "韩国现在的出生率比战时还低",
@@ -4785,6 +4841,14 @@
       "onboard_time": 1686193652,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264997,
+      "num": 264997,
+      "word": "王一博分享赛车照",
+      "onboard_time": 1686286053,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 264951,
@@ -6219,6 +6283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211087,
+      "num": 211087,
+      "word": "秋瓷炫三公梦回聂小倩",
+      "onboard_time": 1686285032,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211046,
       "num": 211046,
       "word": "2023KPL夏季赛大名单",
@@ -6811,6 +6883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194200,
+      "num": 194200,
+      "word": "翟欣欣涉嫌敲诈勒索已立案侦查",
+      "onboard_time": 1686287370,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194139,
       "num": 204406,
       "word": "张桂梅今天的午饭是拌面和果汁",
@@ -7323,14 +7403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183042,
-      "num": 183042,
-      "word": "秋瓷炫三公梦回聂小倩",
-      "onboard_time": 1686285032,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
@@ -7441,6 +7513,14 @@
       "onboard_time": 1686187471,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179491,
+      "num": 179491,
+      "word": "江歌妈妈收到大量借款信息",
+      "onboard_time": 1686287430,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179475,
@@ -7667,6 +7747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174021,
+      "num": 174021,
+      "word": "乐观的悲观主义者狠狠共情了",
+      "onboard_time": 1686286473,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173794,
       "num": 173794,
       "word": "见过肉最多的牛肉面",
@@ -7745,6 +7833,14 @@
       "onboard_time": 1685945966,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170759,
+      "num": 170759,
+      "word": "导演被肖战哭戏打动",
+      "onboard_time": 1686285993,
+      "rank": 44,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 170640,
@@ -7977,6 +8073,14 @@
       "onboard_time": 1686209495,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164485,
+      "num": 164485,
+      "word": "没事别去采耳了",
+      "onboard_time": 1686285216,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164384,
@@ -8307,6 +8411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153722,
+      "num": 153722,
+      "word": "五代男团的名字都是谁起的",
+      "onboard_time": 1686287611,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153551,
       "num": 153551,
       "word": "沈月cos陈小希",
@@ -8321,6 +8433,14 @@
       "onboard_time": 1686013828,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153125,
+      "num": 153125,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1686287611,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 153060,
@@ -9785,6 +9905,14 @@
       "onboard_time": 1686042030,
       "rank": 14,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 79136,
+      "num": 1502141,
+      "word": "高考过后最想做的一件事",
+      "onboard_time": 1686280291,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78472,

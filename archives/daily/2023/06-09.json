@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686285219287,
+  "endTime": 1686287764834,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -27,7 +27,15 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1719536,
+      "raw_hot": 2318582,
+      "num": 2318582,
+      "word": "你赞成取消调休吗",
+      "onboard_time": 1686281729,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1873041,
       "num": 1566600,
       "word": "注册不了张z",
       "onboard_time": 1686279571,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1374335,
+      "num": 1374335,
+      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+      "onboard_time": 1686283592,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1176860,
       "num": 627510,
       "word": "北大屠夫称大学生就业难关键在父母",
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1168075,
+      "num": 1168075,
+      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+      "onboard_time": 1686275608,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1153377,
       "num": 799299,
       "word": "鼠头鸭脖高校学生称又吃出大青虫",
@@ -115,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1148258,
-      "num": 1148258,
-      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
-      "onboard_time": 1686275608,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 1053745,
+      "num": 1053745,
+      "word": "跑男最后一期录制阵容",
+      "onboard_time": 1686282932,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 947218,
@@ -144,6 +168,14 @@
       "word": "Amber单杀Uzi",
       "onboard_time": 1686231453,
       "rank": 0,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 876057,
+      "num": 876057,
+      "word": "不知名最美狗nannyQAQ",
+      "onboard_time": 1686283352,
+      "rank": 15,
       "category": "游戏"
     },
     {
@@ -179,6 +211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 803202,
+      "num": 803202,
+      "word": "山东政治 好崩溃",
+      "onboard_time": 1686287012,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 783867,
       "num": 503003,
       "word": "成都太古里明确禁止未经允许街拍",
@@ -203,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722543,
-      "num": 722543,
-      "word": "你赞成取消调休吗",
-      "onboard_time": 1686281729,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 711495,
+      "num": 711495,
+      "word": "山河图",
+      "onboard_time": 1686285273,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 672706,
@@ -251,12 +291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 632126,
-      "num": 632126,
-      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
-      "onboard_time": 1686283592,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 651878,
+      "num": 651878,
+      "word": "井柏然刘雯又合体营业了",
+      "onboard_time": 1686286053,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 622422,
@@ -265,22 +305,6 @@
       "onboard_time": 1686214832,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 617283,
-      "num": 617283,
-      "word": "不知名最美狗nannyQAQ",
-      "onboard_time": 1686283352,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 612600,
-      "num": 612600,
-      "word": "跑男最后一期录制阵容",
-      "onboard_time": 1686282932,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 590757,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567740,
+      "num": 567740,
+      "word": "高考地理",
+      "onboard_time": 1686285273,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 493712,
       "num": 493712,
       "word": "宋雨琦回归跑男",
@@ -307,8 +339,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 481549,
-      "num": 481549,
+      "raw_hot": 483139,
+      "num": 483139,
       "word": "王鹤棣戴耳环了",
       "onboard_time": 1686275787,
       "rank": 22,
@@ -321,6 +353,14 @@
       "onboard_time": 1686226769,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 410390,
+      "num": 410390,
+      "word": "Ella全组鼓励徐怀钰",
+      "onboard_time": 1686287253,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 410332,
@@ -403,6 +443,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 286696,
+      "num": 286696,
+      "word": "归途有风 三大vocal",
+      "onboard_time": 1686286231,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281887,
       "num": 281887,
       "word": "take two",
@@ -419,12 +467,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274300,
+      "num": 274300,
+      "word": "高考政治",
+      "onboard_time": 1686285632,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 273548,
+      "num": 273548,
+      "word": "中石油",
+      "onboard_time": 1686286651,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271344,
       "num": 271344,
       "word": "乘风三公",
       "onboard_time": 1686279991,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264997,
+      "num": 264997,
+      "word": "王一博分享赛车照",
+      "onboard_time": 1686286053,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 263751,
@@ -635,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211087,
+      "num": 211087,
+      "word": "秋瓷炫三公梦回聂小倩",
+      "onboard_time": 1686285032,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208947,
       "num": 208947,
       "word": "肖战演技",
@@ -673,6 +753,14 @@
       "onboard_time": 1686271350,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194200,
+      "num": 194200,
+      "word": "翟欣欣涉嫌敲诈勒索已立案侦查",
+      "onboard_time": 1686287370,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191608,
@@ -739,20 +827,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183042,
-      "num": 183042,
-      "word": "秋瓷炫三公梦回聂小倩",
-      "onboard_time": 1686285032,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180537,
       "num": 180537,
       "word": "周润发说当演员很辛苦当明星简单很多",
       "onboard_time": 1686237152,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179491,
+      "num": 179491,
+      "word": "江歌妈妈收到大量借款信息",
+      "onboard_time": 1686287430,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179428,
@@ -779,12 +867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174021,
+      "num": 174021,
+      "word": "乐观的悲观主义者狠狠共情了",
+      "onboard_time": 1686286473,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173681,
       "num": 173681,
       "word": "不要让肖春生陨落",
       "onboard_time": 1686239608,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170759,
+      "num": 170759,
+      "word": "导演被肖战哭戏打动",
+      "onboard_time": 1686285993,
+      "rank": 44,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 168720,
@@ -825,6 +929,14 @@
       "onboard_time": 1686279509,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164485,
+      "num": 164485,
+      "word": "没事别去采耳了",
+      "onboard_time": 1686285216,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163683,
@@ -899,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153722,
+      "num": 153722,
+      "word": "五代男团的名字都是谁起的",
+      "onboard_time": 1686287611,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153193,
       "num": 153193,
       "word": "EDG老板关注Uzi",
       "onboard_time": 1686222631,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153125,
+      "num": 153125,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1686287611,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 150513,
@@ -1137,6 +1265,14 @@
       "onboard_time": 1686227671,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79136,
+      "num": 1502141,
+      "word": "高考过后最想做的一件事",
+      "onboard_time": 1686280291,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78659,
