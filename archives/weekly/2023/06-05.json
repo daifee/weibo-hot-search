@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686276707211,
+  "endTime": 1686279458744,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -217,6 +217,14 @@
       "onboard_time": 1686110749,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2710522,
+      "num": 2710522,
+      "word": "孩子你配享太庙",
+      "onboard_time": 1686277226,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2614180,
@@ -899,6 +907,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1437993,
+      "num": 1437993,
+      "word": "千万不要动学姐留下的东西",
+      "onboard_time": 1686265400,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1418847,
       "num": 577351,
       "word": "街拍事件最新画面曝光",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1686222332,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1247506,
-      "num": 1247506,
-      "word": "千万不要动学姐留下的东西",
-      "onboard_time": 1686265400,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 1246292,
@@ -1315,12 +1323,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1092194,
+      "num": 1092194,
+      "word": "原来肝脏不好真的会变丑",
+      "onboard_time": 1686278669,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1086340,
       "num": 982929,
       "word": "四大顶级舞担",
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1084861,
+      "num": 1084861,
+      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+      "onboard_time": 1686275608,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1076254,
@@ -2243,6 +2267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 667598,
+      "num": 667598,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1685936910,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596063,
+      "num": 596063,
+      "word": "目击者证实沈阳一菜市场发生凶杀案",
+      "onboard_time": 1686276510,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593819,
@@ -2787,14 +2827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473800,
-      "num": 473800,
-      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
-      "onboard_time": 1686275608,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473430,
       "num": 473430,
       "word": "王源限定粉发MV",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1686107078,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458848,
+      "num": 458848,
+      "word": "王鹤棣戴耳环了",
+      "onboard_time": 1686275787,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 456775,
@@ -3891,6 +3931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319075,
+      "num": 319075,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316563,
       "num": 281630,
       "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
@@ -3929,14 +3977,6 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315025,
-      "num": 315025,
-      "word": "王鹤棣戴耳环了",
-      "onboard_time": 1686275787,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 314357,
@@ -5235,6 +5275,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242580,
+      "num": 242580,
+      "word": "王鹤棣衣服吊牌没摘",
+      "onboard_time": 1686278189,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242187,
       "num": 242187,
       "word": "朱一龙直播",
@@ -5265,6 +5313,14 @@
       "onboard_time": 1685960008,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241569,
+      "num": 241569,
+      "word": "二胎宝妈夜间摆摊走出产后抑郁",
+      "onboard_time": 1686277289,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241090,
@@ -6459,6 +6515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196857,
+      "num": 196857,
+      "word": "全员加速中世界观",
+      "onboard_time": 1686278669,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196589,
       "num": 196589,
       "word": "我的跨纬度领导",
@@ -6473,6 +6537,14 @@
       "onboard_time": 1686141693,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196399,
+      "num": 196399,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 195962,
@@ -6817,6 +6889,14 @@
       "onboard_time": 1686132698,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189589,
+      "num": 189589,
+      "word": "盗火者",
+      "onboard_time": 1686278609,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 189453,
@@ -7555,6 +7635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "薛之谦是陆虎夫妇的爱情保安",
+      "onboard_time": 1686278908,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "浙江事业单位",
@@ -8243,6 +8331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 143188,
+      "num": 143188,
+      "word": "陈紫函迪丽热巴红白高燃对决",
+      "onboard_time": 1686276989,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142783,
       "num": 142783,
       "word": "狐妖小红娘竹业篇",
@@ -8337,6 +8433,14 @@
       "onboard_time": 1685972970,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139870,
+      "num": 139870,
+      "word": "是妈妈是女儿线下首唱",
+      "onboard_time": 1686279271,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 139483,
@@ -8536,14 +8640,6 @@
       "word": "女儿高考妈妈为爸爸量身缝制旗袍",
       "onboard_time": 1686050309,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130327,
-      "num": 130327,
-      "word": "目击者证实沈阳一菜市场发生凶杀案",
-      "onboard_time": 1686276510,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8879,6 +8975,14 @@
       "num": 117830,
       "word": "微博电影之夜",
       "onboard_time": 1686120214,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117630,
+      "num": 117630,
+      "word": "消失的她终极预告",
+      "onboard_time": 1686278009,
       "rank": 49,
       "category": "影视"
     },

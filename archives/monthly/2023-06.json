@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686276707211,
+  "endTime": 1686279458744,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -273,6 +273,14 @@
       "onboard_time": 1686110749,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2710522,
+      "num": 2710522,
+      "word": "孩子你配享太庙",
+      "onboard_time": 1686277226,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2685396,
@@ -1411,6 +1419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1437993,
+      "num": 1437993,
+      "word": "千万不要动学姐留下的东西",
+      "onboard_time": 1686265400,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1437497,
       "num": 1437497,
       "word": "百度网盘被苹果AppStore下架",
@@ -1843,14 +1859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1247506,
-      "num": 1247506,
-      "word": "千万不要动学姐留下的东西",
-      "onboard_time": 1686265400,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1246292,
       "num": 686444,
       "word": "我出生那天 四海八荒都沉默了",
@@ -2259,12 +2267,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1092194,
+      "num": 1092194,
+      "word": "原来肝脏不好真的会变丑",
+      "onboard_time": 1686278669,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1086340,
       "num": 982929,
       "word": "四大顶级舞担",
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1084861,
+      "num": 1084861,
+      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+      "onboard_time": 1686275608,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1081873,
@@ -3795,6 +3819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 667598,
+      "num": 667598,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 667281,
       "num": 667281,
       "word": "一人说一个奇怪的生理反应",
@@ -4121,6 +4153,14 @@
       "onboard_time": 1685936910,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596063,
+      "num": 596063,
+      "word": "目击者证实沈阳一菜市场发生凶杀案",
+      "onboard_time": 1686276510,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595876,
@@ -5019,14 +5059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473800,
-      "num": 473800,
-      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
-      "onboard_time": 1686275608,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473764,
       "num": 456081,
       "word": "朱一龙杨蓉友情",
@@ -5161,6 +5193,14 @@
       "onboard_time": 1685889696,
       "rank": 17,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 458848,
+      "num": 458848,
+      "word": "王鹤棣戴耳环了",
+      "onboard_time": 1686275787,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 457327,
@@ -7355,6 +7395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319075,
+      "num": 319075,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318718,
       "num": 318718,
       "word": "专家提醒不能靠彩票发财",
@@ -7417,14 +7465,6 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315025,
-      "num": 315025,
-      "word": "王鹤棣戴耳环了",
-      "onboard_time": 1686275787,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 314357,
@@ -10003,6 +10043,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242580,
+      "num": 242580,
+      "word": "王鹤棣衣服吊牌没摘",
+      "onboard_time": 1686278189,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242282,
       "num": 236207,
       "word": "今晚追哪部剧",
@@ -10057,6 +10105,14 @@
       "onboard_time": 1685960008,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241569,
+      "num": 241569,
+      "word": "二胎宝妈夜间摆摊走出产后抑郁",
+      "onboard_time": 1686277289,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241313,
@@ -12411,6 +12467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196857,
+      "num": 196857,
+      "word": "全员加速中世界观",
+      "onboard_time": 1686278669,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "威尔为什么还在",
@@ -12449,6 +12513,14 @@
       "onboard_time": 1686141693,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196399,
+      "num": 196399,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 196205,
@@ -13065,6 +13137,14 @@
       "onboard_time": 1685670568,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189589,
+      "num": 189589,
+      "word": "盗火者",
+      "onboard_time": 1686278609,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 189584,
@@ -14353,6 +14433,14 @@
       "onboard_time": 1685785349,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "薛之谦是陆虎夫妇的爱情保安",
+      "onboard_time": 1686278908,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 168743,
@@ -15691,6 +15779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143188,
+      "num": 143188,
+      "word": "陈紫函迪丽热巴红白高燃对决",
+      "onboard_time": 1686276989,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142981,
       "num": 142981,
       "word": "成人身上有多少块骨头",
@@ -15848,6 +15944,14 @@
       "word": "龚琳娜美依礼芽吃早饭",
       "onboard_time": 1685762308,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139870,
+      "num": 139870,
+      "word": "是妈妈是女儿线下首唱",
+      "onboard_time": 1686279271,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -16265,14 +16369,6 @@
       "onboard_time": 1685614107,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 130327,
-      "num": 130327,
-      "word": "目击者证实沈阳一菜市场发生凶杀案",
-      "onboard_time": 1686276510,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130028,
@@ -16913,6 +17009,14 @@
       "onboard_time": 1685862626,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 117630,
+      "num": 117630,
+      "word": "消失的她终极预告",
+      "onboard_time": 1686278009,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 117391,
