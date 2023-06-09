@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686287764834,
+  "endTime": 1686288815966,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1902556,
+      "num": 1902556,
+      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+      "onboard_time": 1686283592,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1894148,
       "num": 1592442,
       "word": "牵手胡某勇女子同款裙子销量激增",
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 1873041,
-      "num": 1566600,
+      "num": 1844047,
       "word": "注册不了张z",
       "onboard_time": 1686279571,
       "rank": 18,
@@ -987,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1374335,
-      "num": 1374335,
-      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
-      "onboard_time": 1686283592,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1369364,
       "num": 1369364,
       "word": "绝味鸭脖股价下跌",
@@ -1331,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1111510,
+      "num": 1111510,
+      "word": "山东政治 好崩溃",
+      "onboard_time": 1686287012,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1109352,
       "num": 1109352,
       "word": "演女丑出圈是一种什么体验",
@@ -1360,6 +1368,14 @@
       "word": "魏晨差点错过孩子出生第一刻",
       "onboard_time": 1685950890,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1100348,
+      "num": 1100348,
+      "word": "跑男最后一期录制阵容",
+      "onboard_time": 1686282932,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1409,14 +1425,6 @@
       "onboard_time": 1686134376,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1053745,
-      "num": 1053745,
-      "word": "跑男最后一期录制阵容",
-      "onboard_time": 1686282932,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1049141,
@@ -1747,20 +1755,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 891741,
+      "num": 891741,
+      "word": "不知名最美狗nannyQAQ",
+      "onboard_time": 1686283352,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 879069,
       "num": 879069,
       "word": "有刘海的刘浩存",
       "onboard_time": 1685976872,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 876057,
-      "num": 876057,
-      "word": "不知名最美狗nannyQAQ",
-      "onboard_time": 1686283352,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 875800,
@@ -1785,6 +1793,14 @@
       "onboard_time": 1686017846,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 873910,
+      "num": 873910,
+      "word": "井柏然刘雯又合体营业了",
+      "onboard_time": 1686286053,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 870746,
@@ -1979,14 +1995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 803202,
-      "num": 803202,
-      "word": "山东政治 好崩溃",
-      "onboard_time": 1686287012,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 800508,
       "num": 800508,
       "word": "高考文综",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1686100113,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 769206,
+      "num": 769206,
+      "word": "山河图",
+      "onboard_time": 1686285273,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 767234,
@@ -2251,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 711495,
-      "num": 711495,
-      "word": "山河图",
-      "onboard_time": 1686285273,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 710461,
       "num": 710461,
       "word": "高考倒计时",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1686235773,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 651878,
-      "num": 651878,
-      "word": "井柏然刘雯又合体营业了",
-      "onboard_time": 1686286053,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 646982,
@@ -2571,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578846,
+      "num": 578846,
+      "word": "高考地理",
+      "onboard_time": 1686285273,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 569951,
       "num": 569951,
       "word": "哪个省份作文题目最难",
@@ -2585,14 +2593,6 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567740,
-      "num": 567740,
-      "word": "高考地理",
-      "onboard_time": 1686285273,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 562530,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1686022468,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501880,
+      "num": 501880,
+      "word": "Ella全组鼓励徐怀钰",
+      "onboard_time": 1686287253,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 500231,
@@ -3249,14 +3257,6 @@
       "onboard_time": 1686185850,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 410390,
-      "num": 410390,
-      "word": "Ella全组鼓励徐怀钰",
-      "onboard_time": 1686287253,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 410332,
@@ -4067,6 +4067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318833,
+      "num": 318833,
+      "word": "江歌妈妈收到大量借款信息",
+      "onboard_time": 1686287430,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316563,
       "num": 281630,
       "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
@@ -4355,6 +4363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296569,
+      "num": 296569,
+      "word": "归途有风 三大vocal",
+      "onboard_time": 1686286231,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296388,
       "num": 296388,
       "word": "好友否认虞书欣吴建豪恋情",
@@ -4507,14 +4523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286696,
-      "num": 286696,
-      "word": "归途有风 三大vocal",
-      "onboard_time": 1686286231,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286685,
       "num": 286685,
       "word": "齐司礼",
@@ -4585,6 +4593,14 @@
       "onboard_time": 1685973870,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282794,
+      "num": 282794,
+      "word": "翟欣欣涉嫌敲诈勒索已立案侦查",
+      "onboard_time": 1686287370,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281887,
@@ -5497,6 +5513,14 @@
       "onboard_time": 1686092781,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 242728,
+      "num": 242728,
+      "word": "谢娜马甲线好明显",
+      "onboard_time": 1686288151,
+      "rank": 31,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 242187,
@@ -6595,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202298,
+      "num": 202298,
+      "word": "刘惜君绝了",
+      "onboard_time": 1686288569,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201884,
       "num": 176511,
       "word": "佟晓梅怎么会不爱上肖春生",
@@ -6657,6 +6689,14 @@
       "onboard_time": 1685987834,
       "rank": 7,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 200818,
+      "num": 200818,
+      "word": "苏州河",
+      "onboard_time": 1686288393,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 200628,
@@ -6835,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195405,
+      "num": 195405,
+      "word": "五代男团的名字都是谁起的",
+      "onboard_time": 1686287611,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195304,
       "num": 195304,
       "word": "掘金2比1热火",
@@ -6881,14 +6929,6 @@
       "onboard_time": 1686271350,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194200,
-      "num": 194200,
-      "word": "翟欣欣涉嫌敲诈勒索已立案侦查",
-      "onboard_time": 1686287370,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194139,
@@ -7513,14 +7553,6 @@
       "onboard_time": 1686187471,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179491,
-      "num": 179491,
-      "word": "江歌妈妈收到大量借款信息",
-      "onboard_time": 1686287430,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179475,
@@ -8411,14 +8443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153722,
-      "num": 153722,
-      "word": "五代男团的名字都是谁起的",
-      "onboard_time": 1686287611,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153551,
       "num": 153551,
       "word": "沈月cos陈小希",
@@ -8553,6 +8577,14 @@
       "onboard_time": 1686281672,
       "rank": 47,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 148146,
+      "num": 148146,
+      "word": "官方回应考点英语听力设备出故障",
+      "onboard_time": 1686288393,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 147612,
@@ -9611,6 +9643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102324,
+      "num": 1847269,
+      "word": "高考过后最想做的一件事",
+      "onboard_time": 1686280291,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101644,
       "num": 101644,
       "word": "横批 用原来的",
@@ -9905,14 +9945,6 @@
       "onboard_time": 1686042030,
       "rank": 14,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 79136,
-      "num": 1502141,
-      "word": "高考过后最想做的一件事",
-      "onboard_time": 1686280291,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78472,
