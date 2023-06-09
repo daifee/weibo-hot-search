@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686314976237,
+  "endTime": 1686316835943,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -163,6 +163,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1478298,
+      "num": 1478298,
+      "word": "王源易烊千玺工作室出图",
+      "onboard_time": 1686311426,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1452178,
+      "num": 1452178,
+      "word": "BBC卧底记者扒出经营偷拍视频团伙",
+      "onboard_time": 1686313291,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1450673,
       "num": 1450673,
       "word": "Uzi",
@@ -209,14 +225,6 @@
       "onboard_time": 1686288569,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1283314,
-      "num": 1283314,
-      "word": "王源易烊千玺工作室出图",
-      "onboard_time": 1686311426,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1257373,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1040789,
+      "num": 1040789,
+      "word": "杨幂私服",
+      "onboard_time": 1686313887,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1018491,
       "num": 1018491,
       "word": "玉骨遥",
@@ -313,6 +329,14 @@
       "onboard_time": 1686290850,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 933539,
+      "num": 933539,
+      "word": "无字 乌兹",
+      "onboard_time": 1686311608,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 932367,
@@ -595,19 +619,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532352,
+      "num": 532352,
+      "word": "鼠头鸭脖学校门口大量学生取外卖",
+      "onboard_time": 1686313709,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527228,
       "num": 459922,
       "word": "EDG 雷蛇",
       "onboard_time": 1686296550,
       "rank": 30,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 503924,
-      "num": 503924,
-      "word": "无字 乌兹",
-      "onboard_time": 1686311608,
-      "rank": 19,
       "category": "游戏"
     },
     {
@@ -625,6 +649,14 @@
       "onboard_time": 1686273331,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490323,
+      "num": 415131,
+      "word": "倪妮的项链是腕表",
+      "onboard_time": 1686313047,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 483139,
@@ -691,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403985,
-      "num": 297813,
-      "word": "倪妮的项链是腕表",
-      "onboard_time": 1686313047,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 387168,
       "num": 387168,
       "word": "杨紫霍建华或将二搭",
@@ -723,14 +747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 368830,
-      "num": 209015,
-      "word": "杨幂私服",
-      "onboard_time": 1686313887,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368279,
       "num": 368279,
       "word": "奔跑吧泰国",
@@ -744,6 +760,14 @@
       "word": "黄奕胸前挂了一圈灯球",
       "onboard_time": 1686304950,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 366076,
+      "num": 366076,
+      "word": "易烊千玺 评委",
+      "onboard_time": 1686315929,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -787,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334492,
-      "num": 270887,
-      "word": "BBC卧底记者扒出经营偷拍视频团伙",
-      "onboard_time": 1686313291,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329242,
       "num": 329242,
       "word": "成毅工作室回应替身事件",
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 325140,
-      "num": 197771,
+      "num": 253405,
       "word": "朱一龙等倪妮",
       "onboard_time": 1686314727,
       "rank": 30,
@@ -841,6 +857,22 @@
       "onboard_time": 1686292109,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317621,
+      "num": 256408,
+      "word": "肖战说希望肖春生没有让爸爸失望",
+      "onboard_time": 1686315450,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316890,
+      "num": 316890,
+      "word": "T1 bp太烂了",
+      "onboard_time": 1686315389,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 311281,
@@ -905,6 +937,14 @@
       "onboard_time": 1686287370,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289853,
+      "num": 289853,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 289755,
@@ -1107,12 +1147,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 248954,
+      "num": 199284,
+      "word": "路人说黄子韬长得像黄子诚",
+      "onboard_time": 1686316109,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248638,
       "num": 248638,
       "word": "酸奶为什么越卖越贵",
       "onboard_time": 1686275188,
       "rank": 40,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 248365,
+      "num": 248365,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248324,
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215119,
+      "num": 179624,
+      "word": "吴京 杰森斯坦森",
+      "onboard_time": 1686316109,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213146,
       "num": 213146,
       "word": "替叶国华给大家跪一个",
@@ -1369,14 +1433,6 @@
       "onboard_time": 1686285032,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209134,
-      "num": 209134,
-      "word": "鼠头鸭脖学校门口大量学生取外卖",
-      "onboard_time": 1686313709,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208947,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1686288393,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199806,
+      "num": 178485,
+      "word": "上影节惊喜嘉宾杨紫琼",
+      "onboard_time": 1686316647,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 198922,
@@ -1627,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179800,
+      "num": 179800,
+      "word": "法网",
+      "onboard_time": 1686315812,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179428,
       "num": 179428,
       "word": "张桂梅和孩子们在道别时都哭了",
@@ -1689,14 +1761,6 @@
       "onboard_time": 1686300814,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170973,
-      "num": 170973,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 170759,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1686306028,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159810,
-      "num": 168300,
-      "word": "注册不了张z被曝专业是新闻传播",
-      "onboard_time": 1686312326,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158954,
@@ -2129,6 +2185,14 @@
       "onboard_time": 1686265881,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124805,
+      "num": 124805,
+      "word": "王欣瑜晋级法网女双决赛",
+      "onboard_time": 1686315629,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124649,
@@ -2465,6 +2529,22 @@
       "onboard_time": 1686208234,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21053,
+      "num": 238124,
+      "word": "3分钟告诉你万物皆可链",
+      "onboard_time": 1686316349,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16783,
+      "num": 1504057,
+      "word": "为中国航天点赞",
+      "onboard_time": 1686316470,
+      "rank": 2,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [

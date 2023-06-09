@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686314976237,
+  "endTime": 1686316835943,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -963,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1478298,
+      "num": 1478298,
+      "word": "王源易烊千玺工作室出图",
+      "onboard_time": 1686311426,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1474876,
       "num": 1474876,
       "word": "苹果发布会",
@@ -976,6 +984,14 @@
       "word": "都来杜去",
       "onboard_time": 1686179663,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1452178,
+      "num": 1452178,
+      "word": "BBC卧底记者扒出经营偷拍视频团伙",
+      "onboard_time": 1686313291,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1185,14 +1201,6 @@
       "onboard_time": 1686212975,
       "rank": 13,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1283314,
-      "num": 1283314,
-      "word": "王源易烊千玺工作室出图",
-      "onboard_time": 1686311426,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1277714,
@@ -1587,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1040789,
+      "num": 1040789,
+      "word": "杨幂私服",
+      "onboard_time": 1686313887,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1040052,
       "num": 1040052,
       "word": "做拔智齿手术要提前录个音",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1686290850,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 933539,
+      "num": 933539,
+      "word": "无字 乌兹",
+      "onboard_time": 1686311608,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 932367,
@@ -2963,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532352,
+      "num": 532352,
+      "word": "鼠头鸭脖学校门口大量学生取外卖",
+      "onboard_time": 1686313709,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527228,
       "num": 459922,
       "word": "EDG 雷蛇",
@@ -3025,14 +3057,6 @@
       "onboard_time": 1686028649,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 503924,
-      "num": 503924,
-      "word": "无字 乌兹",
-      "onboard_time": 1686311608,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 502244,
@@ -3128,6 +3152,14 @@
       "word": "朱正廷的脸怎么了",
       "onboard_time": 1685937570,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 490323,
+      "num": 415131,
+      "word": "倪妮的项链是腕表",
+      "onboard_time": 1686313047,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -3675,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403985,
-      "num": 297813,
-      "word": "倪妮的项链是腕表",
-      "onboard_time": 1686313047,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403564,
       "num": 403564,
       "word": "山东高考期间高校学生不得请假离校",
@@ -3899,14 +3923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 368830,
-      "num": 209015,
-      "word": "杨幂私服",
-      "onboard_time": 1686313887,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368279,
       "num": 368279,
       "word": "奔跑吧泰国",
@@ -3977,6 +3993,14 @@
       "onboard_time": 1686107503,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366076,
+      "num": 366076,
+      "word": "易烊千玺 评委",
+      "onboard_time": 1686315929,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 365077,
@@ -4347,14 +4371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334492,
-      "num": 270887,
-      "word": "BBC卧底记者扒出经营偷拍视频团伙",
-      "onboard_time": 1686313291,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333541,
       "num": 333541,
       "word": "江苏人真的奶茶拌饭吃吗",
@@ -4452,7 +4468,7 @@
     },
     {
       "raw_hot": 325140,
-      "num": 197771,
+      "num": 253405,
       "word": "朱一龙等倪妮",
       "onboard_time": 1686314727,
       "rank": 30,
@@ -4489,6 +4505,22 @@
       "onboard_time": 1686292109,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317621,
+      "num": 256408,
+      "word": "肖战说希望肖春生没有让爸爸失望",
+      "onboard_time": 1686315450,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316890,
+      "num": 316890,
+      "word": "T1 bp太烂了",
+      "onboard_time": 1686315389,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 316563,
@@ -4929,6 +4961,14 @@
       "onboard_time": 1686062253,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289853,
+      "num": 289853,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 289755,
@@ -5763,6 +5803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248954,
+      "num": 199284,
+      "word": "路人说黄子韬长得像黄子诚",
+      "onboard_time": 1686316109,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248868,
       "num": 322917,
       "word": "第一个考验交警反应能力的考生出现了",
@@ -5793,6 +5841,14 @@
       "onboard_time": 1686275188,
       "rank": 40,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 248365,
+      "num": 248365,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248359,
@@ -6867,6 +6923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 215119,
+      "num": 179624,
+      "word": "吴京 杰森斯坦森",
+      "onboard_time": 1686316109,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214711,
       "num": 214711,
       "word": "求职被问婚育状况合理吗",
@@ -7025,14 +7089,6 @@
       "onboard_time": 1686061891,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209134,
-      "num": 209134,
-      "word": "鼠头鸭脖学校门口大量学生取外卖",
-      "onboard_time": 1686313709,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209102,
@@ -7393,6 +7449,14 @@
       "onboard_time": 1686205170,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199806,
+      "num": 178485,
+      "word": "上影节惊喜嘉宾杨紫琼",
+      "onboard_time": 1686316647,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 199797,
@@ -8299,6 +8363,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 179800,
+      "num": 179800,
+      "word": "法网",
+      "onboard_time": 1686315812,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179607,
       "num": 179607,
       "word": "掘金vs热火",
@@ -8633,14 +8705,6 @@
       "onboard_time": 1685945068,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170973,
-      "num": 170973,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 170874,
@@ -9088,14 +9152,6 @@
       "word": "学生高举字条用监控和老师交流发试卷",
       "onboard_time": 1686052827,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159810,
-      "num": 168300,
-      "word": "注册不了张z被曝专业是新闻传播",
-      "onboard_time": 1686312326,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -10177,6 +10233,14 @@
       "onboard_time": 1686064411,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124805,
+      "num": 124805,
+      "word": "王欣瑜晋级法网女双决赛",
+      "onboard_time": 1686315629,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124735,
@@ -11563,6 +11627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21053,
+      "num": 238124,
+      "word": "3分钟告诉你万物皆可链",
+      "onboard_time": 1686316349,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20942,
       "num": 877301,
       "word": "大牌又双叒联名了",
@@ -11577,6 +11649,14 @@
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16783,
+      "num": 1504057,
+      "word": "为中国航天点赞",
+      "onboard_time": 1686316470,
+      "rank": 2,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 12740,
