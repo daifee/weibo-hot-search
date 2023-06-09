@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686317610259,
+  "endTime": 1686320134094,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -283,6 +283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2726064,
+      "num": 2342645,
+      "word": "BBC卧底记者扒出经营偷拍视频团伙",
+      "onboard_time": 1686313291,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2709339,
       "num": 2709339,
       "word": "长沙一公司取消了所有的调休",
@@ -368,6 +376,14 @@
       "word": "倪妮礼服",
       "onboard_time": 1686309687,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2529573,
+      "num": 2529573,
+      "word": "易烊千玺 评委",
+      "onboard_time": 1686315929,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -488,14 +504,6 @@
       "word": "上四休三",
       "onboard_time": 1685789606,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2342645,
-      "num": 2342645,
-      "word": "BBC卧底记者扒出经营偷拍视频团伙",
-      "onboard_time": 1686313291,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1457,6 +1465,14 @@
       "onboard_time": 1686052350,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1492390,
+      "num": 1492390,
+      "word": "杰克辣条 红色刑房",
+      "onboard_time": 1686318269,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1486812,
@@ -2489,14 +2505,6 @@
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1077252,
-      "num": 1077252,
-      "word": "易烊千玺 评委",
-      "onboard_time": 1686315929,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1076254,
@@ -5292,7 +5300,7 @@
     },
     {
       "raw_hot": 490323,
-      "num": 418128,
+      "num": 433494,
       "word": "倪妮的项链是腕表",
       "onboard_time": 1686313047,
       "rank": 21,
@@ -7852,7 +7860,7 @@
     },
     {
       "raw_hot": 325140,
-      "num": 253405,
+      "num": 285864,
       "word": "朱一龙等倪妮",
       "onboard_time": 1686314727,
       "rank": 30,
@@ -8601,6 +8609,14 @@
       "onboard_time": 1685804133,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 296584,
+      "num": 296584,
+      "word": "蔡徐坤 泰国人气",
+      "onboard_time": 1686319651,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 296569,
@@ -11451,6 +11467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231490,
+      "num": 156048,
+      "word": "偶遇王俊凯泸州骑自行车",
+      "onboard_time": 1686315028,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231399,
       "num": 231399,
       "word": "陕西文旅厅没收到TFBOYS十周年演唱会申请",
@@ -12555,6 +12579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211271,
+      "num": 155139,
+      "word": "上影节红毯最佳造型",
+      "onboard_time": 1686319530,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211103,
       "num": 211103,
       "word": "白敬亭给自己P了个眼镜",
@@ -12624,6 +12656,14 @@
       "word": "鞠婧祎一滴泪哭戏",
       "onboard_time": 1686099573,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210143,
+      "num": 153581,
+      "word": "王子奇王玉雯你给我的喜欢庆功宴",
+      "onboard_time": 1686319892,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -13040,6 +13080,14 @@
       "word": "微博电影之夜阵容",
       "onboard_time": 1685956407,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203226,
+      "num": 143363,
+      "word": "齐溪看胡歌把吴磊抱起来的反应",
+      "onboard_time": 1686314608,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -13657,14 +13705,6 @@
       "onboard_time": 1686187950,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194959,
-      "num": 139313,
-      "word": "齐溪看胡歌把吴磊抱起来的反应",
-      "onboard_time": 1686314608,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 194949,
@@ -15035,6 +15075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178352,
+      "num": 140359,
+      "word": "看完变形金刚 爱上幻影",
+      "onboard_time": 1686318690,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178265,
       "num": 178265,
       "word": "你的名字土是因为哪个字",
@@ -15113,14 +15161,6 @@
       "onboard_time": 1685631931,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177181,
-      "num": 138169,
-      "word": "偶遇王俊凯泸州骑自行车",
-      "onboard_time": 1686315028,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 177122,
@@ -15753,6 +15793,14 @@
       "onboard_time": 1685668707,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166082,
+      "num": 138606,
+      "word": "倪妮第二套",
+      "onboard_time": 1686319950,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 166025,
@@ -16939,6 +16987,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 148235,
+      "num": 148235,
+      "word": "好像拍到了异世界的入口",
+      "onboard_time": 1686318450,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148197,
       "num": 148197,
       "word": "为什么有的家庭一定要生儿子",
@@ -17369,6 +17425,14 @@
       "onboard_time": 1686125914,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 138421,
+      "num": 138421,
+      "word": "大连人2比2北京国安",
+      "onboard_time": 1686320013,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 138401,
@@ -20195,6 +20259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61285,
+      "num": 1568042,
+      "word": "为中国航天点赞",
+      "onboard_time": 1686316470,
+      "rank": 2,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 61053,
       "num": 84460,
       "word": "你唯一有资格过儿童节的是你的脑子",
@@ -20561,14 +20633,6 @@
       "onboard_time": 1686086532,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42250,
-      "num": 1568042,
-      "word": "为中国航天点赞",
-      "onboard_time": 1686316470,
-      "rank": 2,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 41371,
@@ -20940,7 +21004,7 @@
     },
     {
       "raw_hot": 21053,
-      "num": 238124,
+      "num": 1262676,
       "word": "3分钟告诉你万物皆可链",
       "onboard_time": 1686316349,
       "rank": 30,
@@ -20985,6 +21049,14 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15148,
+      "num": 463252,
+      "word": "上海电影节水幕音乐秀",
+      "onboard_time": 1686319230,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 13722,

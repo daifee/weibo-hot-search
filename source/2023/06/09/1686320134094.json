@@ -1,0 +1,410 @@
+{
+  "runTime": 1686320134094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2529573,
+        "num": 2529573,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1686315929,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1492390,
+        "num": 1492390,
+        "word": "杰克辣条 红色刑房",
+        "onboard_time": 1686318269,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 20565,
+        "num": 1262676,
+        "word": "3分钟告诉你万物皆可链",
+        "onboard_time": 1686316349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2726064,
+        "num": 1244448,
+        "word": "BBC卧底记者扒出经营偷拍视频团伙",
+        "onboard_time": 1686313291,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213996,
+        "num": 1213996,
+        "word": "王源易烊千玺工作室出图",
+        "onboard_time": 1686311426,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1362973,
+        "num": 1197090,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151345,
+        "num": 1151345,
+        "word": "倪妮礼服",
+        "onboard_time": 1686309687,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1076935,
+        "num": 1076935,
+        "word": "胡歌把吴磊抱起来了",
+        "onboard_time": 1686310648,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1015298,
+        "num": 1015298,
+        "word": "杨幂私服",
+        "onboard_time": 1686313887,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815466,
+        "num": 815466,
+        "word": "无字 乌兹",
+        "onboard_time": 1686311608,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 539612,
+        "num": 539612,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533891,
+        "num": 533891,
+        "word": "高考结束学生抬着老师冲出考场",
+        "onboard_time": 1686304232,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 471286,
+        "num": 471286,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471228,
+        "num": 471228,
+        "word": "鼠头鸭脖学校门口大量学生取外卖",
+        "onboard_time": 1686313709,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15148,
+        "num": 463252,
+        "word": "上海电影节水幕音乐秀",
+        "onboard_time": 1686319230,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458663,
+        "num": 458663,
+        "word": "大黄蜂死了",
+        "onboard_time": 1686301533,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451186,
+        "num": 451186,
+        "word": "五个人打不过一个玲花",
+        "onboard_time": 1686296248,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433494,
+        "num": 433494,
+        "word": "倪妮的项链是腕表",
+        "onboard_time": 1686313047,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361070,
+        "num": 361070,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351134,
+        "num": 351134,
+        "word": "EDG海报空个位置",
+        "onboard_time": 1686309807,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415436,
+        "num": 339156,
+        "word": "玉骨遥",
+        "onboard_time": 1686295170,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296584,
+        "num": 296584,
+        "word": "蔡徐坤 泰国人气",
+        "onboard_time": 1686319651,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285864,
+        "num": 285864,
+        "word": "朱一龙等倪妮",
+        "onboard_time": 1686314727,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284087,
+        "num": 284087,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232451,
+        "num": 232451,
+        "word": "注册不了张z被曝专业是新闻传播",
+        "onboard_time": 1686312326,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275977,
+        "num": 232240,
+        "word": "孟美岐 玉龙县文旅局",
+        "onboard_time": 1686303571,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248826,
+        "num": 232140,
+        "word": "肖战说希望肖春生没有让爸爸失望",
+        "onboard_time": 1686315450,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231434,
+        "num": 231434,
+        "word": "高考结束",
+        "onboard_time": 1686304470,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 209988,
+        "num": 209988,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157991,
+        "num": 157991,
+        "word": "EDG啥时候官宣",
+        "onboard_time": 1686298469,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238404,
+        "num": 157818,
+        "word": "徐志胜 别磕给大家磕头了",
+        "onboard_time": 1686300870,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231490,
+        "num": 156048,
+        "word": "偶遇王俊凯泸州骑自行车",
+        "onboard_time": 1686315028,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211271,
+        "num": 155139,
+        "word": "上影节红毯最佳造型",
+        "onboard_time": 1686319530,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210143,
+        "num": 153581,
+        "word": "王子奇王玉雯你给我的喜欢庆功宴",
+        "onboard_time": 1686319892,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186534,
+        "num": 151892,
+        "word": "翟欣欣被逮捕",
+        "onboard_time": 1686295649,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204505,
+        "num": 149770,
+        "word": "周冬雨造型",
+        "onboard_time": 1686311306,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61285,
+        "num": 148749,
+        "word": "为中国航天点赞",
+        "onboard_time": 1686316470,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 148235,
+        "num": 148235,
+        "word": "好像拍到了异世界的入口",
+        "onboard_time": 1686318450,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144161,
+        "num": 144161,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143766,
+        "num": 143766,
+        "word": "T1 bp太烂了",
+        "onboard_time": 1686315389,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203226,
+        "num": 143363,
+        "word": "齐溪看胡歌把吴磊抱起来的反应",
+        "onboard_time": 1686314608,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198697,
+        "num": 142309,
+        "word": "李彩桦回应恋情",
+        "onboard_time": 1686296909,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183191,
+        "num": 141928,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178352,
+        "num": 140359,
+        "word": "看完变形金刚 爱上幻影",
+        "onboard_time": 1686318690,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178193,
+        "num": 140008,
+        "word": "朴信惠Jennie将合作",
+        "onboard_time": 1686301291,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166082,
+        "num": 138606,
+        "word": "倪妮第二套",
+        "onboard_time": 1686319950,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138421,
+        "num": 138421,
+        "word": "大连人2比2北京国安",
+        "onboard_time": 1686320013,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135050,
+        "num": 135050,
+        "word": "德约科维奇",
+        "onboard_time": 1686318630,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134687,
+        "num": 134687,
+        "word": "地铁称女子大叔当时已和解",
+        "onboard_time": 1686309207,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131250,
+        "num": 131250,
+        "word": "法网",
+        "onboard_time": 1686315812,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
+    }
+  }
+}
