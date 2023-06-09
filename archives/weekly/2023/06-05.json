@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686281732505,
+  "endTime": 1686285219287,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -619,6 +619,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1719536,
+      "num": 1566600,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1686882,
       "num": 1686882,
       "word": "上海英语 我是吴磊",
@@ -673,6 +681,14 @@
       "onboard_time": 1686044311,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1656438,
+      "num": 1656438,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1638983,
@@ -771,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1564750,
+      "num": 1564750,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -833,14 +857,6 @@
       "onboard_time": 1686271469,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1499938,
-      "num": 1499938,
-      "word": "跑男泰国",
-      "onboard_time": 1686277647,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1495553,
@@ -1187,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1198786,
-      "num": 1198786,
-      "word": "赖冠霖今年没有参加高考",
-      "onboard_time": 1686279210,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1197139,
       "num": 1197139,
       "word": "乌克兰大坝被炸",
@@ -1267,6 +1275,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1148258,
+      "num": 1148258,
+      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+      "onboard_time": 1686275608,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135346,
       "num": 1135346,
       "word": "一样的孩子鲍蕾为什么生两次",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1686117213,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1113942,
-      "num": 1113942,
-      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
-      "onboard_time": 1686275608,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1109352,
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 932367,
-      "num": 402617,
+      "num": 469099,
       "word": "没想到耳屎竟然会越掏越多",
       "onboard_time": 1686268106,
       "rank": 20,
@@ -1664,14 +1672,6 @@
       "word": "日本女团成员灌男粉喝洗洁精",
       "onboard_time": 1685920400,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 916667,
-      "num": 698026,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 864404,
+      "num": 864404,
+      "word": "孤寡老人家中被盗后自杀",
+      "onboard_time": 1686281310,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853657,
       "num": 853657,
       "word": "建议实现一户一曜",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1685967387,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 812342,
+      "num": 812342,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 811524,
@@ -2083,6 +2099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 753393,
+      "num": 727022,
+      "word": "目击者证实沈阳一菜市场发生凶杀案",
+      "onboard_time": 1686276510,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751828,
       "num": 751828,
       "word": "教育部发布2023高考预警",
@@ -2131,20 +2155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 727022,
-      "num": 727022,
-      "word": "目击者证实沈阳一菜市场发生凶杀案",
-      "onboard_time": 1686276510,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 724649,
       "num": 724649,
       "word": "张艺兴起诉B站侵权",
       "onboard_time": 1686208713,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722543,
+      "num": 722543,
+      "word": "你赞成取消调休吗",
+      "onboard_time": 1686281729,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722149,
@@ -2347,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632126,
+      "num": 632126,
+      "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+      "onboard_time": 1686283592,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630211,
       "num": 630211,
       "word": "原来减肥真的和血型有关系",
@@ -2395,11 +2427,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617283,
+      "num": 617283,
+      "word": "不知名最美狗nannyQAQ",
+      "onboard_time": 1686283352,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 616292,
       "num": 616292,
       "word": "薛之谦毛不易官宣音综",
       "onboard_time": 1685933067,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 612600,
+      "num": 612600,
+      "word": "跑男最后一期录制阵容",
+      "onboard_time": 1686282932,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -2465,6 +2513,14 @@
       "onboard_time": 1686211174,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 590757,
+      "num": 590757,
+      "word": "周杰伦海口",
+      "onboard_time": 1686281551,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 588438,
@@ -2787,12 +2843,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 481618,
-      "num": 481618,
-      "word": "宋雨琦Minnie录制奔跑吧",
-      "onboard_time": 1686278609,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 481549,
+      "num": 481549,
+      "word": "王鹤棣戴耳环了",
+      "onboard_time": 1686275787,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 479689,
@@ -2905,14 +2961,6 @@
       "onboard_time": 1686107078,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 458848,
-      "num": 458848,
-      "word": "王鹤棣戴耳环了",
-      "onboard_time": 1686275787,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 456775,
@@ -3611,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355067,
+      "num": 355067,
+      "word": "肖战的眼泪像断了线的珍珠",
+      "onboard_time": 1686281729,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354421,
       "num": 354421,
       "word": "马斯克亲测减肥神药要来了",
@@ -3883,6 +3939,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 327193,
+      "num": 327193,
+      "word": "曹斐然7天涨粉41万",
+      "onboard_time": 1686282450,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327040,
       "num": 327040,
       "word": "吴京杰森斯坦森早在几百年前就说过爱你",
@@ -4049,6 +4113,14 @@
       "onboard_time": 1685947106,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309593,
+      "num": 309593,
+      "word": "王源今天要走两次红毯",
+      "onboard_time": 1686284613,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 309463,
@@ -4467,6 +4539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281887,
+      "num": 281887,
+      "word": "take two",
+      "onboard_time": 1686284613,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280678,
       "num": 688767,
       "word": "女生拒绝帮助用双膝自信进考场",
@@ -4737,6 +4817,14 @@
       "onboard_time": 1686239308,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263469,
+      "num": 263469,
+      "word": "全国荔枝排队上市有多壮观",
+      "onboard_time": 1686283291,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263417,
@@ -5243,6 +5331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245116,
+      "num": 245116,
+      "word": "宋亚轩怎么不放狠话",
+      "onboard_time": 1686284673,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245036,
       "num": 245036,
       "word": "鞠婧祎白鹿相似造型",
@@ -5265,6 +5361,14 @@
       "onboard_time": 1685887474,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244180,
+      "num": 244180,
+      "word": "护心",
+      "onboard_time": 1685954009,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 244143,
@@ -5353,6 +5457,14 @@
       "onboard_time": 1686207452,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241811,
+      "num": 241811,
+      "word": "千万别这样穿防晒衣",
+      "onboard_time": 1686281729,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 241638,
@@ -6065,6 +6177,14 @@
       "onboard_time": 1686221732,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213146,
+      "num": 213146,
+      "word": "替叶国华给大家跪一个",
+      "onboard_time": 1686284432,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 211853,
@@ -7203,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183042,
+      "num": 183042,
+      "word": "秋瓷炫三公梦回聂小倩",
+      "onboard_time": 1686285032,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
@@ -7635,14 +7763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169770,
-      "num": 169770,
-      "word": "孤寡老人家中被盗后自杀",
-      "onboard_time": 1686281310,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169739,
       "num": 169739,
       "word": "每个考生背后都有一群人",
@@ -8027,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158909,
+      "num": 158909,
+      "word": "刘诗诗ELLE沙漠封面",
+      "onboard_time": 1686282153,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158755,
       "num": 158755,
       "word": "周冠宇",
@@ -8089,6 +8217,22 @@
       "onboard_time": 1685947408,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 157129,
+      "num": 157129,
+      "word": "乘风4三公妆造",
+      "onboard_time": 1686283053,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157068,
+      "num": 157068,
+      "word": "肖春生的转折点",
+      "onboard_time": 1686284251,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 156958,
@@ -8291,14 +8435,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 148242,
-      "num": 133829,
-      "word": "护心",
-      "onboard_time": 1685954009,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "梦中的那片海塑造的女性",
@@ -8361,14 +8497,6 @@
       "onboard_time": 1686047130,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145040,
-      "num": 145040,
-      "word": "周杰伦海口",
-      "onboard_time": 1686281551,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 144735,
@@ -9155,6 +9283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115097,
+      "num": 1784352,
+      "word": "世界上建设难度最高的跨海集群工程",
+      "onboard_time": 1686280469,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114926,
       "num": 114926,
       "word": "孩子犯错家长该怎么引导",
@@ -9673,14 +9809,6 @@
       "onboard_time": 1686180743,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 75920,
-      "num": 1784352,
-      "word": "世界上建设难度最高的跨海集群工程",
-      "onboard_time": 1686280469,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74623,
