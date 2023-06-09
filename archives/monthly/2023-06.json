@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686324813404,
+  "endTime": 1686327717856,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -545,6 +545,14 @@
       "onboard_time": 1686281729,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2317965,
+      "num": 2317965,
+      "word": "陈露 王萌",
+      "onboard_time": 1686324870,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2273063,
@@ -2651,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1026596,
+      "num": 1026596,
+      "word": "EDG首发名单",
+      "onboard_time": 1686324510,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1023392,
       "num": 1023392,
       "word": "蔡康永把林志玲问哭",
@@ -3809,6 +3825,14 @@
       "onboard_time": 1686319950,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 749222,
+      "num": 749222,
+      "word": "美国亚裔高考接近满分被六大名校拒绝",
+      "onboard_time": 1686321214,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 746282,
@@ -5059,6 +5083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529403,
+      "num": 529403,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 527494,
       "num": 515360,
       "word": "虞书欣直播",
@@ -5153,14 +5185,6 @@
       "onboard_time": 1686124230,
       "rank": 16,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 517933,
-      "num": 517933,
-      "word": "EDG首发名单",
-      "onboard_time": 1686324510,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 515440,
@@ -5771,14 +5795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451737,
-      "num": 451737,
-      "word": "美国亚裔高考接近满分被六大名校拒绝",
-      "onboard_time": 1686321214,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 451413,
       "num": 451413,
       "word": "剧集好想做一次",
@@ -5921,6 +5937,14 @@
       "onboard_time": 1686232113,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435374,
+      "num": 435374,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435195,
@@ -6209,6 +6233,14 @@
       "onboard_time": 1685949688,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 416977,
+      "num": 416977,
+      "word": "徐怀钰 东亚偶像体系",
+      "onboard_time": 1686325469,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 415150,
@@ -6753,6 +6785,14 @@
       "onboard_time": 1686298951,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379965,
+      "num": 379965,
+      "word": "婴儿接种证被盖死亡证明专用章",
+      "onboard_time": 1686315090,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378739,
@@ -7475,14 +7515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342443,
-      "num": 305064,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 341004,
       "num": 271051,
       "word": "亲生父母殴打虐待10岁孩子致死",
@@ -7865,14 +7897,6 @@
       "onboard_time": 1686007822,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326887,
-      "num": 326887,
-      "word": "注册不了张z被曝专业是新闻传播",
-      "onboard_time": 1686312326,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326864,
@@ -9523,14 +9547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274064,
-      "num": 274064,
-      "word": "婴儿接种证被盖死亡证明专用章",
-      "onboard_time": 1686315090,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273923,
       "num": 273923,
       "word": "肖春生的梦碎了",
@@ -10707,6 +10723,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 246721,
+      "num": 246721,
+      "word": "易烊千玺红毯烫脚",
+      "onboard_time": 1686325289,
+      "rank": 22,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 246658,
       "num": 246658,
       "word": "是妈妈是女儿线下首唱",
@@ -11513,6 +11537,14 @@
       "onboard_time": 1686193652,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 232222,
+      "num": 232222,
+      "word": "00后小伙为救轻生女不幸溺亡",
+      "onboard_time": 1686323731,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232088,
@@ -12684,7 +12716,7 @@
     },
     {
       "raw_hot": 211271,
-      "num": 155139,
+      "num": 348725,
       "word": "上影节红毯最佳造型",
       "onboard_time": 1686319530,
       "rank": 32,
@@ -12905,14 +12937,6 @@
       "onboard_time": 1685951549,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208559,
-      "num": 208559,
-      "word": "00后小伙为救轻生女不幸溺亡",
-      "onboard_time": 1686323731,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208504,
@@ -13281,6 +13305,14 @@
       "onboard_time": 1685836340,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202259,
+      "num": 202259,
+      "word": "高考生感觉考砸公交司机安慰半小时",
+      "onboard_time": 1686323193,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 201884,
@@ -15147,14 +15179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179299,
-      "num": 179299,
-      "word": "高考生感觉考砸公交司机安慰半小时",
-      "onboard_time": 1686323193,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 179072,
       "num": 179072,
       "word": "蔡徐坤戴墨镜出场",
@@ -15449,6 +15473,14 @@
       "onboard_time": 1686107139,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 175057,
+      "num": 175057,
+      "word": "沈腾回应好帅",
+      "onboard_time": 1686326369,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 174617,
@@ -17411,6 +17443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 141918,
+      "num": 141918,
+      "word": "延长周末的办法",
+      "onboard_time": 1686326968,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 141747,
       "num": 141747,
       "word": "这是他第一次见到已满2岁半的儿子",
@@ -17641,6 +17681,14 @@
       "onboard_time": 1685538627,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137436,
+      "num": 129581,
+      "word": "这么多年网播定档",
+      "onboard_time": 1686327506,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 137399,
@@ -18009,6 +18057,14 @@
       "onboard_time": 1685702248,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129854,
+      "num": 129854,
+      "word": "母马深陷泥潭小马驹奔跑回家求助",
+      "onboard_time": 1686327448,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129810,
