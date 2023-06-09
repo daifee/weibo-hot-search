@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686267244146,
+  "endTime": 1686275240306,
   "band_list": [
     {
       "raw_hot": 1559620,
@@ -19,6 +19,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1446118,
+      "num": 1446118,
+      "word": "男职工3年不上班工资3千涨到7千",
+      "onboard_time": 1686271469,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1418847,
       "num": 577351,
       "word": "街拍事件最新画面曝光",
@@ -27,12 +35,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1247506,
+      "num": 1247506,
+      "word": "千万不要动学姐留下的东西",
+      "onboard_time": 1686265400,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1176860,
+      "num": 627510,
+      "word": "北大屠夫称大学生就业难关键在父母",
+      "onboard_time": 1686256933,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1169574,
+      "num": 1169574,
+      "word": "外媒曝Jennie将加入漫威",
+      "onboard_time": 1686265941,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1153377,
-      "num": 324577,
+      "num": 481604,
       "word": "鼠头鸭脖高校学生称又吃出大青虫",
       "onboard_time": 1686230130,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936754,
+      "num": 936754,
+      "word": "LBL官宣uzi离队",
+      "onboard_time": 1686267747,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 932367,
+      "num": 300856,
+      "word": "没想到耳屎竟然会越掏越多",
+      "onboard_time": 1686268106,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 924194,
@@ -44,11 +92,19 @@
     },
     {
       "raw_hot": 827100,
-      "num": 324043,
+      "num": 470878,
       "word": "四川一公务员被曝出轨女同事",
       "onboard_time": 1686219097,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810268,
+      "num": 810268,
+      "word": "高考第三天",
+      "onboard_time": 1686268829,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 783867,
@@ -59,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773096,
+      "num": 773096,
+      "word": "肝脏移植前后肤色对比",
+      "onboard_time": 1686239428,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672706,
-      "num": 257401,
+      "num": 456775,
       "word": "江西通报考生迟到37分钟仍能进考场",
       "onboard_time": 1686227851,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 672438,
+      "num": 474477,
+      "word": "王玉雯7天涨粉9万",
+      "onboard_time": 1686266845,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 670799,
@@ -83,12 +155,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 627510,
-      "num": 627510,
-      "word": "北大屠夫称大学生就业难关键在父母",
-      "onboard_time": 1686256933,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 653943,
+      "num": 653943,
+      "word": "高考结束张桂梅又躲进空教室",
+      "onboard_time": 1686235773,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 622422,
@@ -99,36 +171,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 584039,
-      "num": 584039,
-      "word": "肝脏移植前后肤色对比",
-      "onboard_time": 1686239428,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570283,
-      "num": 230514,
+      "num": 298313,
       "word": "女子将俩幼女锁房间月余致其饿死",
       "onboard_time": 1686222332,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562988,
-      "num": 562988,
-      "word": "高考结束张桂梅又躲进空教室",
-      "onboard_time": 1686235773,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 515513,
-      "num": 515513,
-      "word": "外媒曝Jennie将加入漫威",
-      "onboard_time": 1686265941,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 493712,
+      "num": 493712,
+      "word": "宋雨琦回归跑男",
+      "onboard_time": 1686273331,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 441548,
@@ -145,14 +201,6 @@
       "onboard_time": 1686239668,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334020,
-      "num": 246705,
-      "word": "千万不要动学姐留下的东西",
-      "onboard_time": 1686265400,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 324722,
@@ -179,6 +227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 289755,
+      "num": 289755,
+      "word": "90后程序员回家卖羊粪月销120万",
+      "onboard_time": 1686272069,
+      "rank": 22,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 277847,
       "num": 277847,
       "word": "阿布",
@@ -195,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259955,
+      "num": 259955,
+      "word": "医院回应新生儿被遗留大厅",
+      "onboard_time": 1686267145,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258875,
       "num": 258875,
       "word": "爱奇艺暑期档排播剧集",
@@ -209,6 +273,14 @@
       "onboard_time": 1686246796,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 250410,
+      "num": 182831,
+      "word": "阿沁vlog更新了",
+      "onboard_time": 1686273388,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 248287,
@@ -243,12 +315,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225299,
+      "num": 225299,
+      "word": "河南高考配笔",
+      "onboard_time": 1686268889,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223422,
       "num": 223422,
       "word": "上海英语 我是吴磊",
       "onboard_time": 1686216698,
       "rank": 22,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 215865,
+      "num": 215865,
+      "word": "于和伟 吹蜡烛",
+      "onboard_time": 1686274048,
+      "rank": 25,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 208947,
+      "num": 208947,
+      "word": "肖战演技",
+      "onboard_time": 1686266243,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201817,
+      "num": 201817,
+      "word": "官方要求广东电信查明网络中断原因",
+      "onboard_time": 1686271469,
+      "rank": 27,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 198333,
@@ -259,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196234,
+      "num": 196234,
+      "word": "鞠婧祎直球吻戏",
+      "onboard_time": 1686274048,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195976,
       "num": 195976,
       "word": "王鹤棣怎么又黑了",
       "onboard_time": 1686228211,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194252,
+      "num": 181546,
+      "word": "鞠婧祎新剧女扮男装被发现",
+      "onboard_time": 1686271350,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 187337,
@@ -299,19 +419,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179428,
+      "num": 179428,
+      "word": "张桂梅和孩子们在道别时都哭了",
+      "onboard_time": 1686274287,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173681,
       "num": 173681,
       "word": "不要让肖春生陨落",
       "onboard_time": 1686239608,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169306,
-      "num": 169306,
-      "word": "肖战演技",
-      "onboard_time": 1686266243,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -355,11 +475,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157416,
+      "num": 157416,
+      "word": "田曦薇一周涨粉20万",
+      "onboard_time": 1686270450,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154993,
       "num": 154993,
       "word": "点燃了暑期的爆款剧",
       "onboard_time": 1686235773,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153193,
+      "num": 153193,
+      "word": "EDG老板关注Uzi",
+      "onboard_time": 1686222631,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149080,
+      "num": 149080,
+      "word": "坏妈妈大结局太好哭了",
+      "onboard_time": 1686267447,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -371,12 +515,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 137960,
+      "num": 137960,
+      "word": "泰国庙里供着皮卡丘",
+      "onboard_time": 1686240628,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 132097,
+      "num": 132097,
+      "word": "酸奶为什么越卖越贵",
+      "onboard_time": 1686275188,
+      "rank": 40,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 129225,
       "num": 125469,
       "word": "梦中的那片海",
       "onboard_time": 1686265881,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123699,
+      "num": 123699,
+      "word": "破镜虽不能重圆但可化蝶",
+      "onboard_time": 1686273628,
+      "rank": 41,
+      "category": "情感,情感"
     },
     {
       "raw_hot": 123165,
@@ -403,12 +571,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117366,
-      "num": 100881,
-      "word": "泰国庙里供着皮卡丘",
-      "onboard_time": 1686240628,
-      "rank": 44,
-      "category": "旅游"
+      "raw_hot": 113473,
+      "num": 113473,
+      "word": "变形金刚7",
+      "onboard_time": 1686274950,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 113303,
+      "num": 113303,
+      "word": "易烊千玺满江红获年度推荐电影",
+      "onboard_time": 1686269069,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 112069,
@@ -419,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110488,
+      "num": 110488,
+      "word": "根管治疗的过程",
+      "onboard_time": 1686269008,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 109962,
       "num": 109962,
       "word": "张颂文谈被AI换脸",
@@ -427,20 +611,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 109603,
-      "num": 109603,
-      "word": "医院回应新生儿被遗留大厅",
-      "onboard_time": 1686267145,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107606,
       "num": 107606,
       "word": "你最期待哪方面的生育支持措施",
       "onboard_time": 1686241645,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105404,
+      "num": 105404,
+      "word": "田曦薇海上冲浪",
+      "onboard_time": 1686274169,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 102830,
@@ -465,6 +649,14 @@
       "onboard_time": 1686223411,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101644,
+      "num": 101644,
+      "word": "横批 用原来的",
+      "onboard_time": 1686268408,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 98271,
@@ -571,8 +763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2063,
-      "num": 635801,
+      "raw_hot": 23856,
+      "num": 1179112,
       "word": "保护我们的那片海",
       "onboard_time": 1686208234,
       "rank": 2,
