@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686310416764,
+  "endTime": 1686314009663,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -289,6 +289,14 @@
       "onboard_time": 1685933429,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2543710,
+      "num": 2543710,
+      "word": "倪妮礼服",
+      "onboard_time": 1686309687,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 2511308,
@@ -665,6 +673,14 @@
       "onboard_time": 1686069442,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1805536,
+      "num": 1805536,
+      "word": "胡歌把吴磊抱起来了",
+      "onboard_time": 1686310648,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1798701,
@@ -1264,6 +1280,14 @@
       "word": "TFBOYS为王源下个路口打call",
       "onboard_time": 1686107438,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1230789,
+      "num": 1230789,
+      "word": "王源易烊千玺工作室出图",
+      "onboard_time": 1686311426,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -2547,6 +2571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 667852,
+      "num": 502468,
+      "word": "宋佳张小斐惠英红 新欢旧爱",
+      "onboard_time": 1686313109,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -3443,6 +3475,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 422598,
+      "num": 422598,
+      "word": "地铁称女子大叔当时已和解",
+      "onboard_time": 1686309207,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422570,
       "num": 422570,
       "word": "千万不要惹刚加完班的人",
@@ -3731,6 +3771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382953,
+      "num": 301708,
+      "word": "周冬雨造型",
+      "onboard_time": 1686311306,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382620,
       "num": 382620,
       "word": "EDG老板关注Uzi",
@@ -3987,14 +4035,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 358301,
-      "num": 358301,
-      "word": "倪妮礼服",
-      "onboard_time": 1686309687,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "四会住建局回应业主购42套房全打通",
@@ -4097,14 +4137,6 @@
       "onboard_time": 1686135515,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349355,
-      "num": 349355,
-      "word": "地铁称女子大叔当时已和解",
-      "onboard_time": 1686309207,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348542,
@@ -4291,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334492,
+      "num": 223270,
+      "word": "BBC卧底记者扒出经营偷拍视频团伙",
+      "onboard_time": 1686313291,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333541,
       "num": 333541,
       "word": "江苏人真的奶茶拌饭吃吗",
@@ -4304,6 +4344,14 @@
       "word": "the idol",
       "onboard_time": 1685934929,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332704,
+      "num": 297813,
+      "word": "倪妮的项链是腕表",
+      "onboard_time": 1686313047,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4515,6 +4563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310850,
+      "num": 310850,
+      "word": "无字 乌兹",
+      "onboard_time": 1686311608,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309593,
       "num": 309593,
       "word": "王源今天要走两次红毯",
@@ -4641,6 +4697,14 @@
       "onboard_time": 1686060513,
       "rank": 28,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 301023,
+      "num": 229426,
+      "word": "沈腾秀表 妖娆",
+      "onboard_time": 1686310467,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 300561,
@@ -5427,6 +5491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 256897,
+      "num": 222284,
+      "word": "易烊千玺生图",
+      "onboard_time": 1686311787,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256587,
       "num": 256587,
       "word": "BKPP香港粉丝见面会主持人",
@@ -5665,6 +5737,14 @@
       "onboard_time": 1686063330,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 249522,
+      "num": 218193,
+      "word": "舒淇美得轻松又优雅",
+      "onboard_time": 1686312748,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 248868,
@@ -5987,6 +6067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242134,
+      "num": 197247,
+      "word": "蔡徐坤衬衫上好多狗头",
+      "onboard_time": 1686312928,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241824,
       "num": 241824,
       "word": "肖春生退伍",
@@ -6057,6 +6145,14 @@
       "onboard_time": 1686064829,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238154,
+      "num": 191649,
+      "word": "叶舒华说我要去hybe",
+      "onboard_time": 1686312209,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 238008,
@@ -7016,6 +7112,14 @@
       "word": "原来迪丽热巴陈紫函合作过古剑奇谭",
       "onboard_time": 1686309269,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206171,
+      "num": 190393,
+      "word": "上影节红毯好多人啊",
+      "onboard_time": 1686313468,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -8491,6 +8595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171415,
+      "num": 171415,
+      "word": "杨幂私服",
+      "onboard_time": 1686313887,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171080,
       "num": 171080,
       "word": "古天乐 扫毒3",
@@ -8860,7 +8972,7 @@
     },
     {
       "raw_hot": 162422,
-      "num": 162422,
+      "num": 167833,
       "word": "LCK",
       "onboard_time": 1686309568,
       "rank": 44,
@@ -9947,6 +10059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126645,
+      "num": 466915,
+      "word": "翻转腕表",
+      "onboard_time": 1686312027,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126493,
       "num": 149690,
       "word": "清华有个学生自己的修车摊",
@@ -10073,6 +10193,14 @@
       "onboard_time": 1686228809,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123293,
+      "num": 1248189,
+      "word": "高考考场外的难忘瞬间",
+      "onboard_time": 1686311009,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123138,
@@ -10355,6 +10483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110756,
+      "num": 168492,
+      "word": "鼠头鸭脖学校门口大量学生取外卖",
+      "onboard_time": 1686313709,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110488,
       "num": 110488,
       "word": "根管治疗的过程",
@@ -10449,6 +10585,14 @@
       "onboard_time": 1685882848,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106023,
+      "num": 168300,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105404,
@@ -10601,6 +10745,14 @@
       "onboard_time": 1686128376,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96549,
+      "num": 167482,
+      "word": "拍毕业照还是大学生有想法",
+      "onboard_time": 1686313770,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 95902,
