@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686294966446,
+  "endTime": 1686296019083,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1607550,
+      "num": 755161,
+      "word": "四川大学",
+      "onboard_time": 1686290430,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1592709,
       "num": 242302,
       "word": "蔡徐坤妈妈",
@@ -835,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1552990,
+      "num": 1552990,
+      "word": "EXO确定于7月10日回归",
+      "onboard_time": 1686293729,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -849,14 +865,6 @@
       "onboard_time": 1686055830,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1521038,
-      "num": 740828,
-      "word": "四川大学",
-      "onboard_time": 1686290430,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1508871,
@@ -1019,6 +1027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1367609,
+      "num": 1367609,
+      "word": "怀孕的同事让我给她带冰奶茶",
+      "onboard_time": 1686291208,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1358505,
       "num": 1358505,
       "word": "美依礼芽四公 青鸟",
@@ -1072,14 +1088,6 @@
       "word": "孙俪发文庆祝和邓超结婚十二周年",
       "onboard_time": 1686103292,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1318415,
-      "num": 1318415,
-      "word": "EXO确定于7月10日回归",
-      "onboard_time": 1686293729,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -1201,14 +1209,6 @@
       "onboard_time": 1686107438,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1230442,
-      "num": 1230442,
-      "word": "怀孕的同事让我给她带冰奶茶",
-      "onboard_time": 1686291208,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 1223087,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1053331,
+      "num": 1053331,
+      "word": "张嘉倪喝奶茶边喝边漏",
+      "onboard_time": 1686292170,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1049141,
       "num": 1049141,
       "word": "花儿与少年第五季嘉宾",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1686201751,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1033107,
-      "num": 1033107,
-      "word": "张嘉倪喝奶茶边喝边漏",
-      "onboard_time": 1686292170,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1029690,
@@ -4139,6 +4139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318647,
+      "num": 318647,
+      "word": "端午节要调休",
+      "onboard_time": 1686292109,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316563,
       "num": 281630,
       "word": "巴厘岛命案男子和母亲最后聊天记录曝光",
@@ -4683,6 +4691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281565,
+      "num": 281565,
+      "word": "网暴造成被害人自杀应被提起公诉",
+      "onboard_time": 1686293729,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280678,
       "num": 688767,
       "word": "女生拒绝帮助用双膝自信进考场",
@@ -4707,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280173,
+      "num": 280173,
+      "word": "zb1 kpop",
+      "onboard_time": 1686295709,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "只有宋茜一个人受伤的世界达成了",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1685944048,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279625,
+      "num": 279625,
+      "word": "山河图 修音",
+      "onboard_time": 1686294510,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 278766,
@@ -4851,6 +4883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272059,
+      "num": 272059,
+      "word": "全员加速中猎人真实身份",
+      "onboard_time": 1686294510,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272056,
       "num": 272056,
       "word": "罗云熙李一桐陈瑶聚餐",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1686099273,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 269786,
+      "num": 269786,
+      "word": "玉骨遥",
+      "onboard_time": 1686295170,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 269483,
@@ -5667,14 +5715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239140,
-      "num": 239140,
-      "word": "网暴造成被害人自杀应被提起公诉",
-      "onboard_time": 1686293729,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238803,
       "num": 238803,
       "word": "全自动家庭闯祸机",
@@ -5771,14 +5811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234744,
-      "num": 234744,
-      "word": "端午节要调休",
-      "onboard_time": 1686292109,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234307,
       "num": 234307,
       "word": "刘耀文读秒好准",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1686027871,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232914,
+      "num": 232914,
+      "word": "一家5口举女儿偶像立牌接考",
+      "onboard_time": 1686291689,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 232226,
@@ -6035,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225805,
+      "num": 225805,
+      "word": "美依礼芽额饰造型",
+      "onboard_time": 1686291449,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225724,
       "num": 225724,
       "word": "林俊杰演唱会上海站审批通过",
@@ -6121,14 +6169,6 @@
       "onboard_time": 1686118473,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222786,
-      "num": 222786,
-      "word": "一家5口举女儿偶像立牌接考",
-      "onboard_time": 1686291689,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222299,
@@ -6427,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211188,
+      "num": 211188,
+      "word": "翟欣欣被逮捕",
+      "onboard_time": 1686295649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211087,
       "num": 211087,
       "word": "秋瓷炫三公梦回聂小倩",
@@ -6715,14 +6763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202977,
-      "num": 202977,
-      "word": "美依礼芽额饰造型",
-      "onboard_time": 1686291449,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202682,
       "num": 202682,
       "word": "剧好听的歌开播",
@@ -6865,14 +6905,6 @@
       "onboard_time": 1686047130,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 199185,
-      "num": 199185,
-      "word": "全员加速中猎人真实身份",
-      "onboard_time": 1686294510,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 198930,
@@ -7435,14 +7467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186950,
-      "num": 186950,
-      "word": "山河图 修音",
-      "onboard_time": 1686294510,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186702,
       "num": 186702,
       "word": "Cat重回AG",
@@ -7563,6 +7587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 183888,
+      "num": 183888,
+      "word": "Ella说犯错就该死吗",
+      "onboard_time": 1686288811,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183222,
       "num": 183222,
       "word": "男粉呐喊惊到刘宇",
@@ -7593,6 +7625,14 @@
       "onboard_time": 1686136474,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183005,
+      "num": 183005,
+      "word": "每个学校总有自己的显眼包",
+      "onboard_time": 1686295649,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182829,
@@ -7657,14 +7697,6 @@
       "onboard_time": 1685978190,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180726,
-      "num": 180726,
-      "word": "Ella说犯错就该死吗",
-      "onboard_time": 1686288811,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 180716,
@@ -7753,6 +7785,14 @@
       "onboard_time": 1686126754,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178451,
+      "num": 548447,
+      "word": "高考结束后亲友团横幅有点大胆",
+      "onboard_time": 1686294030,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178145,
@@ -9051,6 +9091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137568,
+      "num": 137568,
+      "word": "种地吧 治愈精神内耗",
+      "onboard_time": 1686295230,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137080,
       "num": 137080,
       "word": "谁说柳州只有螺蛳粉",
@@ -9987,6 +10035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 94640,
+      "num": 119443,
+      "word": "狗子只相信自己的屁股",
+      "onboard_time": 1686295591,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92185,
       "num": 1922766,
       "word": "芒种至农事忙",
@@ -10161,14 +10217,6 @@
       "onboard_time": 1685989275,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 79913,
-      "num": 548447,
-      "word": "高考结束后亲友团横幅有点大胆",
-      "onboard_time": 1686294030,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79890,
