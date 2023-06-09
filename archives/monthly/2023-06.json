@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686323837108,
+  "endTime": 1686324813404,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -5155,6 +5155,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 517933,
+      "num": 517933,
+      "word": "EDG首发名单",
+      "onboard_time": 1686324510,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 515440,
       "num": 515440,
       "word": "金智秀看了都得愣一下",
@@ -5233,6 +5241,14 @@
       "onboard_time": 1686287253,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501794,
+      "num": 501794,
+      "word": "舒淇 白客",
+      "onboard_time": 1686320189,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 500231,
@@ -5627,14 +5643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465688,
-      "num": 465688,
-      "word": "舒淇 白客",
-      "onboard_time": 1686320189,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -5761,6 +5769,14 @@
       "onboard_time": 1686300991,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451737,
+      "num": 451737,
+      "word": "美国亚裔高考接近满分被六大名校拒绝",
+      "onboard_time": 1686321214,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 451413,
@@ -7851,6 +7867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326887,
+      "num": 326887,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326864,
       "num": 326864,
       "word": "陆景和",
@@ -8433,6 +8457,14 @@
       "onboard_time": 1686146492,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303327,
+      "num": 303327,
+      "word": "王源文淇红毯可可爱爱",
+      "onboard_time": 1686322713,
+      "rank": 32,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 303215,
@@ -9483,20 +9515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274222,
-      "num": 274222,
-      "word": "注册不了张z被曝专业是新闻传播",
-      "onboard_time": 1686312326,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274158,
       "num": 274158,
       "word": "肖春生佟晓梅牵手散步路透",
       "onboard_time": 1686106597,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274064,
+      "num": 274064,
+      "word": "婴儿接种证被盖死亡证明专用章",
+      "onboard_time": 1686315090,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273923,
@@ -9913,14 +9945,6 @@
       "onboard_time": 1685691206,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263109,
-      "num": 263109,
-      "word": "美国亚裔高考接近满分被六大名校拒绝",
-      "onboard_time": 1686321214,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 263103,
@@ -10843,14 +10867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244555,
-      "num": 195890,
-      "word": "王源文淇红毯可可爱爱",
-      "onboard_time": 1686322713,
-      "rank": 32,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 244193,
       "num": 188482,
       "word": "乐华家族演唱会有王一博",
@@ -11169,6 +11185,14 @@
       "onboard_time": 1686064829,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238327,
+      "num": 238327,
+      "word": "欧冠决赛",
+      "onboard_time": 1686323131,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 238172,
@@ -11577,6 +11601,14 @@
       "onboard_time": 1686194972,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230788,
+      "num": 230788,
+      "word": "胡先煦帅回来了",
+      "onboard_time": 1686323912,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 230748,
@@ -12012,7 +12044,7 @@
     },
     {
       "raw_hot": 223555,
-      "num": 192133,
+      "num": 211532,
       "word": "周深撕了李晨名牌",
       "onboard_time": 1686321272,
       "rank": 33,
@@ -12875,11 +12907,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208541,
-      "num": 208541,
-      "word": "婴儿接种证被盖死亡证明专用章",
-      "onboard_time": 1686315090,
-      "rank": 29,
+      "raw_hot": 208559,
+      "num": 208559,
+      "word": "00后小伙为救轻生女不幸溺亡",
+      "onboard_time": 1686323731,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13812,7 +13844,7 @@
     },
     {
       "raw_hot": 194260,
-      "num": 161924,
+      "num": 190578,
       "word": "肖春生经受的六次暴击",
       "onboard_time": 1686321573,
       "rank": 43,
@@ -15115,6 +15147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179299,
+      "num": 179299,
+      "word": "高考生感觉考砸公交司机安慰半小时",
+      "onboard_time": 1686323193,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 179072,
       "num": 179072,
       "word": "蔡徐坤戴墨镜出场",
@@ -16035,6 +16075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164476,
+      "num": 164476,
+      "word": "韬志夭夭",
+      "onboard_time": 1686324751,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164384,
       "num": 98862,
       "word": "AppleVisionPro售价",
@@ -16369,14 +16417,6 @@
       "onboard_time": 1685601087,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159127,
-      "num": 159127,
-      "word": "欧冠决赛",
-      "onboard_time": 1686323131,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 159043,
@@ -17955,14 +17995,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 130447,
-      "num": 130447,
-      "word": "高考生感觉考砸公交司机安慰半小时",
-      "onboard_time": 1686323193,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 130028,
       "num": 130028,
       "word": "张雨绮说孟子义独立女性结什么婚",
@@ -18928,14 +18960,6 @@
       "word": "新郎接亲遇送考车队给考生塞红包",
       "onboard_time": 1686128504,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110825,
-      "num": 110825,
-      "word": "00后小伙为救轻生女不幸溺亡",
-      "onboard_time": 1686323731,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
