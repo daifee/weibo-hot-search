@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686327717856,
+  "endTime": 1686328621163,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2445992,
+      "num": 2445992,
+      "word": "陈露 王萌",
+      "onboard_time": 1686324870,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2437344,
       "num": 2437344,
       "word": "任嘉伦押中高考作文题",
@@ -425,14 +433,6 @@
       "onboard_time": 1686281729,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2317965,
-      "num": 2317965,
-      "word": "陈露 王萌",
-      "onboard_time": 1686324870,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2273063,
@@ -2683,6 +2683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 663952,
+      "num": 663952,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -3075,14 +3083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 529403,
-      "num": 529403,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 527228,
       "num": 459922,
       "word": "EDG 雷蛇",
@@ -3195,6 +3195,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 499021,
+      "num": 499021,
+      "word": "婴儿接种证被盖死亡证明专用章",
+      "onboard_time": 1686315090,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498870,
       "num": 498870,
       "word": "吴磊从新疆带馕送给粉丝",
@@ -3248,6 +3256,14 @@
       "word": "宋雨琦回归跑男",
       "onboard_time": 1686273331,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 492820,
+      "num": 416977,
+      "word": "徐怀钰 东亚偶像体系",
+      "onboard_time": 1686325469,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -3675,14 +3691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 416977,
-      "num": 416977,
-      "word": "徐怀钰 东亚偶像体系",
-      "onboard_time": 1686325469,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 415150,
       "num": 415150,
       "word": "权志龙与YG的合约到期",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1686298951,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 379965,
-      "num": 379965,
-      "word": "婴儿接种证被盖死亡证明专用章",
-      "onboard_time": 1686315090,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378739,
@@ -6611,6 +6611,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 229379,
+      "num": 348725,
+      "word": "上影节红毯最佳造型",
+      "onboard_time": 1686319530,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229191,
       "num": 229191,
       "word": "薛之谦是陆虎夫妇的爱情保安",
@@ -7177,14 +7185,6 @@
       "onboard_time": 1685964687,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211271,
-      "num": 348725,
-      "word": "上影节红毯最佳造型",
-      "onboard_time": 1686319530,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 211087,
@@ -9619,6 +9619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153696,
+      "num": 153696,
+      "word": "延长周末的办法",
+      "onboard_time": 1686326968,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 153551,
       "num": 153551,
       "word": "沈月cos陈小希",
@@ -9697,6 +9705,14 @@
       "onboard_time": 1685976810,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152100,
+      "num": 152100,
+      "word": "照相馆学徒冒死留下南京大屠杀证据",
+      "onboard_time": 1686327625,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151937,
@@ -9841,6 +9857,14 @@
       "onboard_time": 1686153869,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147075,
+      "num": 147075,
+      "word": "这么多年网播定档",
+      "onboard_time": 1686327506,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 146653,
@@ -10003,14 +10027,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 141918,
-      "num": 141918,
-      "word": "延长周末的办法",
-      "onboard_time": 1686326968,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 141717,
       "num": 131537,
       "word": "电影封神第一部",
@@ -10129,14 +10145,6 @@
       "onboard_time": 1686295230,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137436,
-      "num": 129581,
-      "word": "这么多年网播定档",
-      "onboard_time": 1686327506,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 137080,

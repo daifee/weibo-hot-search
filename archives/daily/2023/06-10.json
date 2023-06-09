@@ -1,10 +1,10 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686327717856,
+  "endTime": 1686328621163,
   "band_list": [
     {
-      "raw_hot": 2317965,
-      "num": 2317965,
+      "raw_hot": 2445992,
+      "num": 2445992,
       "word": "陈露 王萌",
       "onboard_time": 1686324870,
       "rank": 0,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1272756,
-      "num": 654583,
+      "raw_hot": 1339118,
+      "num": 657142,
       "word": "四川大学回应女生曝光地铁大叔",
       "onboard_time": 1686299851,
       "rank": 5,
@@ -51,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 663952,
+      "num": 663952,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 629946,
       "num": 141224,
       "word": "杨幂私服",
@@ -67,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529403,
-      "num": 529403,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 499021,
+      "num": 499021,
+      "word": "婴儿接种证被盖死亡证明专用章",
+      "onboard_time": 1686315090,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492820,
+      "num": 416977,
+      "word": "徐怀钰 东亚偶像体系",
+      "onboard_time": 1686325469,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 470499,
@@ -88,22 +104,6 @@
       "word": "注册不了张z被曝专业是新闻传播",
       "onboard_time": 1686312326,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416977,
-      "num": 416977,
-      "word": "徐怀钰 东亚偶像体系",
-      "onboard_time": 1686325469,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 379965,
-      "num": 379965,
-      "word": "婴儿接种证被盖死亡证明专用章",
-      "onboard_time": 1686315090,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229379,
+      "num": 348725,
+      "word": "上影节红毯最佳造型",
+      "onboard_time": 1686326427,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226620,
       "num": 226620,
       "word": "孟美岐 玉龙县文旅局",
@@ -267,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166196,
-      "num": 348725,
-      "word": "上影节红毯最佳造型",
-      "onboard_time": 1686326427,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158189,
       "num": 158189,
       "word": "你给我的喜欢",
       "onboard_time": 1686322653,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158036,
+      "num": 158036,
+      "word": "德约科维奇",
+      "onboard_time": 1686318630,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 156630,
@@ -299,16 +307,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141918,
-      "num": 141918,
+      "raw_hot": 153696,
+      "num": 153696,
       "word": "延长周末的办法",
       "onboard_time": 1686326968,
       "rank": 37,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 137436,
-      "num": 129581,
+      "raw_hot": 152100,
+      "num": 152100,
+      "word": "照相馆学徒冒死留下南京大屠杀证据",
+      "onboard_time": 1686327625,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147075,
+      "num": 147075,
       "word": "这么多年网播定档",
       "onboard_time": 1686327506,
       "rank": 40,
@@ -355,11 +371,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125924,
-      "num": 125924,
-      "word": "德约科维奇",
-      "onboard_time": 1686318630,
-      "rank": 45,
+      "raw_hot": 116432,
+      "num": 116432,
+      "word": "李彩桦回应恋情",
+      "onboard_time": 1686296909,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113254,
+      "num": 113254,
+      "word": "法网",
+      "onboard_time": 1686315812,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -379,20 +403,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 95498,
-      "num": 95498,
-      "word": "法网",
-      "onboard_time": 1686315812,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 92871,
-      "num": 92871,
+      "raw_hot": 104159,
+      "num": 104159,
       "word": "四川大学",
       "onboard_time": 1686290430,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82524,
+      "num": 82524,
+      "word": "高考结束",
+      "onboard_time": 1686304470,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 48634,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#跟着总书记的足迹感受中国生态变迁#"
+    },
+    {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
     }
   ]
 }
