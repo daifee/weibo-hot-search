@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686348949929,
+  "endTime": 1686350014536,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -459,6 +459,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 80109,
+      "num": 56997,
+      "word": "取消调休能实现吗",
+      "onboard_time": 1686343933,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76450,
       "num": 70063,
       "word": "王源易烊千玺工作室出图",
@@ -473,14 +481,6 @@
       "onboard_time": 1686332898,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64730,
-      "num": 50913,
-      "word": "取消调休能实现吗",
-      "onboard_time": 1686343933,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59239,
@@ -507,8 +507,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26726,
-      "num": 32651,
+      "raw_hot": 27760,
+      "num": 36183,
       "word": "毕业之前来看演唱会",
       "onboard_time": 1686337633,
       "rank": 40,

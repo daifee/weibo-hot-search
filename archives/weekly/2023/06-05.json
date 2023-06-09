@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686348949929,
+  "endTime": 1686350014536,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -11387,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80109,
+      "num": 56997,
+      "word": "取消调休能实现吗",
+      "onboard_time": 1686343933,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80006,
       "num": 80006,
       "word": "watchOS 10 史努比表盘",
@@ -11609,14 +11617,6 @@
       "onboard_time": 1686251115,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 64730,
-      "num": 50913,
-      "word": "取消调休能实现吗",
-      "onboard_time": 1686343933,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62911,
@@ -11947,20 +11947,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27760,
+      "num": 36183,
+      "word": "毕业之前来看演唱会",
+      "onboard_time": 1686337633,
+      "rank": 40,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 27725,
       "num": 1201585,
       "word": "各地考场门口温暖直拍",
       "onboard_time": 1686125795,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26726,
-      "num": 32651,
-      "word": "毕业之前来看演唱会",
-      "onboard_time": 1686337633,
-      "rank": 40,
-      "category": "音乐,情感"
     },
     {
       "raw_hot": 26276,
