@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686299647167,
+  "endTime": 1686302192586,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -9,6 +9,14 @@
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2702698,
+      "num": 1097828,
+      "word": "翟欣欣被逮捕",
+      "onboard_time": 1686295649,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2681386,
@@ -27,19 +35,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2543935,
+      "num": 2543935,
+      "word": "长沙一公司取消了所有的调休",
+      "onboard_time": 1686298290,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2485749,
       "num": 2485749,
       "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
       "onboard_time": 1686283592,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2404242,
-      "num": 1097828,
-      "word": "翟欣欣被逮捕",
-      "onboard_time": 1686295649,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -64,6 +72,14 @@
       "word": "你赞成取消调休吗",
       "onboard_time": 1686281729,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2030977,
+      "num": 2030977,
+      "word": "四川大学回应女生曝光地铁大叔",
+      "onboard_time": 1686299851,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532377,
+      "num": 532377,
+      "word": "Tabe妻子谈未官宣Uzi",
+      "onboard_time": 1686300211,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 527228,
       "num": 459922,
       "word": "EDG 雷蛇",
@@ -459,20 +483,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 510998,
+      "num": 510998,
+      "word": "刘亚仁 人间炼丹炉",
+      "onboard_time": 1686299192,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501880,
       "num": 501880,
       "word": "Ella全组鼓励徐怀钰",
       "onboard_time": 1686287253,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 495862,
-      "num": 495862,
-      "word": "长沙一公司取消了所有的调休",
-      "onboard_time": 1686298290,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493712,
@@ -491,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467813,
+      "num": 467813,
+      "word": "朴信惠Jennie将合作",
+      "onboard_time": 1686301291,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441548,
       "num": 441548,
       "word": "Lisa留刘海的原因",
       "onboard_time": 1686226769,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 432860,
+      "num": 432860,
+      "word": "徐志胜 别磕给大家磕头了",
+      "onboard_time": 1686300870,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 410332,
@@ -545,6 +585,30 @@
       "onboard_time": 1686239668,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347205,
+      "num": 282803,
+      "word": "白鹿你不热吗",
+      "onboard_time": 1686301709,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343365,
+      "num": 279398,
+      "word": "ZB1出道撞EXO",
+      "onboard_time": 1686300991,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335746,
+      "num": 276723,
+      "word": "肖春生把绿萍紫菱的苦全吃了",
+      "onboard_time": 1686300031,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 327193,
@@ -673,6 +737,14 @@
       "onboard_time": 1686265881,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276529,
+      "num": 243661,
+      "word": "赵丽颖 二番",
+      "onboard_time": 1686302071,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 274300,
@@ -915,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229616,
+      "num": 229616,
+      "word": "大黄蜂死了",
+      "onboard_time": 1686301533,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229191,
       "num": 229191,
       "word": "薛之谦是陆虎夫妇的爱情保安",
@@ -961,14 +1041,6 @@
       "onboard_time": 1686216698,
       "rank": 22,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 220909,
-      "num": 220909,
-      "word": "刘亚仁 人间炼丹炉",
-      "onboard_time": 1686299192,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 213146,
@@ -1171,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182738,
+      "num": 182738,
+      "word": "一块能骗过食堂阿姨的姜",
+      "onboard_time": 1686301052,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180537,
       "num": 180537,
       "word": "周润发说当演员很辛苦当明星简单很多",
@@ -1219,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174909,
+      "num": 174909,
+      "word": "因为名字太好听被公司录用",
+      "onboard_time": 1686301291,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174657,
       "num": 174657,
       "word": "奔跑吧",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1686239608,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172119,
+      "num": 172119,
+      "word": "三公舞台",
+      "onboard_time": 1686300814,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 170759,
@@ -1475,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145444,
+      "num": 145444,
+      "word": "惠英红张小斐牵手",
+      "onboard_time": 1686299611,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "高考英语",
@@ -1547,12 +1651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132254,
-      "num": 132254,
-      "word": "惠英红张小斐牵手",
-      "onboard_time": 1686299611,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 133502,
+      "num": 247918,
+      "word": "高考后买哪些数码产品更实用",
+      "onboard_time": 1686298951,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129225,
@@ -1795,20 +1899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66080,
+      "num": 543653,
+      "word": "肠胃不好的人一定要看",
+      "onboard_time": 1686301291,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64922,
       "num": 64922,
       "word": "RNG",
       "onboard_time": 1686251115,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55909,
-      "num": 220966,
-      "word": "高考后买哪些数码产品更实用",
-      "onboard_time": 1686298951,
-      "rank": 31,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 55130,

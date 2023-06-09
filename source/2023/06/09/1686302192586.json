@@ -1,0 +1,410 @@
+{
+  "runTime": 1686302192586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2543935,
+        "num": 2543935,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2030977,
+        "num": 2030977,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90116,
+        "num": 1527244,
+        "word": "高考过后最想做的一件事",
+        "onboard_time": 1686280291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038052,
+        "num": 1038052,
+        "word": "张嘉倪喝奶茶边喝边漏",
+        "onboard_time": 1686292170,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 870865,
+        "num": 870865,
+        "word": "EXO确定于7月10日回归",
+        "onboard_time": 1686293729,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 797523,
+        "num": 797523,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 753243,
+        "num": 753243,
+        "word": "EDG啥时候官宣",
+        "onboard_time": 1686298469,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 741817,
+        "num": 741817,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617021,
+        "num": 617021,
+        "word": "玉骨遥",
+        "onboard_time": 1686295170,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548452,
+        "num": 548452,
+        "word": "跑男最后一期录制阵容",
+        "onboard_time": 1686282932,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2702698,
+        "num": 547604,
+        "word": "翟欣欣被逮捕",
+        "onboard_time": 1686295649,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1711930,
+        "num": 546752,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117215,
+        "num": 545617,
+        "word": "李彩桦回应恋情",
+        "onboard_time": 1686296909,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002157,
+        "num": 544453,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66080,
+        "num": 543653,
+        "word": "肠胃不好的人一定要看",
+        "onboard_time": 1686301291,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543147,
+        "num": 543147,
+        "word": "五个人打不过一个玲花",
+        "onboard_time": 1686296248,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532377,
+        "num": 532377,
+        "word": "Tabe妻子谈未官宣Uzi",
+        "onboard_time": 1686300211,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 510998,
+        "num": 510998,
+        "word": "刘亚仁 人间炼丹炉",
+        "onboard_time": 1686299192,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506086,
+        "num": 506086,
+        "word": "张云雷",
+        "onboard_time": 1686296670,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 504139,
+        "num": 504139,
+        "word": "有人嗑黄子韬和徐志胜吗",
+        "onboard_time": 1686290850,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478077,
+        "num": 478077,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467813,
+        "num": 467813,
+        "word": "朴信惠Jennie将合作",
+        "onboard_time": 1686301291,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432860,
+        "num": 432860,
+        "word": "徐志胜 别磕给大家磕头了",
+        "onboard_time": 1686300870,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325067,
+        "num": 325067,
+        "word": "EDG 雷蛇",
+        "onboard_time": 1686296550,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284536,
+        "num": 284536,
+        "word": "原来肝脏不好真的会变丑",
+        "onboard_time": 1686278669,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347205,
+        "num": 282803,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343365,
+        "num": 279398,
+        "word": "ZB1出道撞EXO",
+        "onboard_time": 1686300991,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335746,
+        "num": 276723,
+        "word": "肖春生把绿萍紫菱的苦全吃了",
+        "onboard_time": 1686300031,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270648,
+        "num": 270648,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250860,
+        "num": 250860,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492982,
+        "num": 250728,
+        "word": "你赞成取消调休吗",
+        "onboard_time": 1686281729,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133502,
+        "num": 247918,
+        "word": "高考后买哪些数码产品更实用",
+        "onboard_time": 1686298951,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 322523,
+        "num": 245685,
+        "word": "井柏然刘雯又合体营业了",
+        "onboard_time": 1686286053,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 281430,
+        "num": 243908,
+        "word": "微博电影之夜全阵容",
+        "onboard_time": 1686297030,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276529,
+        "num": 243661,
+        "word": "赵丽颖 二番",
+        "onboard_time": 1686302071,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242109,
+        "num": 242109,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1686298531,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229616,
+        "num": 229616,
+        "word": "大黄蜂死了",
+        "onboard_time": 1686301533,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222287,
+        "num": 222287,
+        "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+        "onboard_time": 1686283592,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136062,
+        "num": 197040,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194689,
+        "num": 194689,
+        "word": "目击者证实沈阳一菜市场发生凶杀案",
+        "onboard_time": 1686276510,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214994,
+        "num": 192667,
+        "word": "鹿晗 抢票",
+        "onboard_time": 1686298951,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182738,
+        "num": 182738,
+        "word": "一块能骗过食堂阿姨的姜",
+        "onboard_time": 1686301052,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180248,
+        "num": 180248,
+        "word": "易烊千玺上影节预备会议生图",
+        "onboard_time": 1686299310,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175036,
+        "num": 175036,
+        "word": "Uzi妻子支持Uzi重回赛场",
+        "onboard_time": 1686298049,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174909,
+        "num": 174909,
+        "word": "因为名字太好听被公司录用",
+        "onboard_time": 1686301291,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172119,
+        "num": 172119,
+        "word": "三公舞台",
+        "onboard_time": 1686300814,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166991,
+        "num": 166991,
+        "word": "网暴造成被害人自杀应被提起公诉",
+        "onboard_time": 1686293729,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157252,
+        "num": 157252,
+        "word": "全员加速中猎人真实身份",
+        "onboard_time": 1686294510,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145444,
+        "num": 145444,
+        "word": "惠英红张小斐牵手",
+        "onboard_time": 1686299611,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139685,
+        "num": 139685,
+        "word": "赖冠霖今年没有参加高考",
+        "onboard_time": 1686279210,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国北疆的绿色答卷#"
+    }
+  }
+}
