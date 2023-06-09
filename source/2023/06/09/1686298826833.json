@@ -1,0 +1,410 @@
+{
+  "runTime": 1686298826833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1978362,
+        "num": 1978362,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1295663,
+        "num": 1295663,
+        "word": "EXO确定于7月10日回归",
+        "onboard_time": 1686293729,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124649,
+        "num": 1114766,
+        "word": "高考过后最想做的一件事",
+        "onboard_time": 1686280291,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2156659,
+        "num": 1097828,
+        "word": "翟欣欣被逮捕",
+        "onboard_time": 1686295649,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303942,
+        "num": 1094627,
+        "word": "张嘉倪喝奶茶边喝边漏",
+        "onboard_time": 1686292170,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1057765,
+        "num": 1057765,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1018491,
+        "num": 1018491,
+        "word": "玉骨遥",
+        "onboard_time": 1686295170,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815916,
+        "num": 815916,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684079,
+        "num": 684079,
+        "word": "大叔被疑偷拍自证清白后仍遭女子曝光",
+        "onboard_time": 1686283592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621952,
+        "num": 621952,
+        "word": "跑男最后一期录制阵容",
+        "onboard_time": 1686282932,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1848452,
+        "num": 620782,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388273,
+        "num": 614434,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325756,
+        "num": 613714,
+        "word": "李彩桦回应恋情",
+        "onboard_time": 1686296909,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834848,
+        "num": 607874,
+        "word": "你赞成取消调休吗",
+        "onboard_time": 1686281729,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73954,
+        "num": 605432,
+        "word": "学霸捧花接同学一句祝福惊艳了",
+        "onboard_time": 1686297631,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602953,
+        "num": 602953,
+        "word": "有人嗑黄子韬和徐志胜吗",
+        "onboard_time": 1686290850,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559764,
+        "num": 559764,
+        "word": "五个人打不过一个玲花",
+        "onboard_time": 1686296248,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545741,
+        "num": 545741,
+        "word": "微博电影之夜全阵容",
+        "onboard_time": 1686297030,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480417,
+        "num": 480417,
+        "word": "井柏然刘雯又合体营业了",
+        "onboard_time": 1686286053,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 419734,
+        "num": 419734,
+        "word": "EDG啥时候官宣",
+        "onboard_time": 1686298469,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469065,
+        "num": 413257,
+        "word": "张云雷",
+        "onboard_time": 1686296670,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400409,
+        "num": 400409,
+        "word": "原来肝脏不好真的会变丑",
+        "onboard_time": 1686278669,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388621,
+        "num": 388621,
+        "word": "目击者证实沈阳一菜市场发生凶杀案",
+        "onboard_time": 1686276510,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368571,
+        "num": 368571,
+        "word": "Uzi",
+        "onboard_time": 1686244939,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278508,
+        "num": 278508,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246939,
+        "num": 246939,
+        "word": "徐怀钰",
+        "onboard_time": 1686292589,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243605,
+        "num": 243605,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1686298531,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240568,
+        "num": 240568,
+        "word": "网暴造成被害人自杀应被提起公诉",
+        "onboard_time": 1686293729,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224211,
+        "num": 224211,
+        "word": "zb1 kpop",
+        "onboard_time": 1686295709,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219962,
+        "num": 219962,
+        "word": "全员加速中猎人真实身份",
+        "onboard_time": 1686294510,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527228,
+        "num": 217950,
+        "word": "EDG 雷蛇",
+        "onboard_time": 1686296550,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215802,
+        "num": 215802,
+        "word": "赖冠霖今年没有参加高考",
+        "onboard_time": 1686279210,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213719,
+        "num": 213719,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199324,
+        "num": 199324,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195168,
+        "num": 195168,
+        "word": "大鹏王一博复刻九年前的照片",
+        "onboard_time": 1686297151,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188578,
+        "num": 188578,
+        "word": "不知名最美狗nannyQAQ",
+        "onboard_time": 1686283352,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182093,
+        "num": 182093,
+        "word": "Uzi妻子支持Uzi重回赛场",
+        "onboard_time": 1686298049,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180122,
+        "num": 180122,
+        "word": "张小斐露腰西服裙",
+        "onboard_time": 1686298109,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174365,
+        "num": 174365,
+        "word": "端午节要调休",
+        "onboard_time": 1686292109,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172389,
+        "num": 172389,
+        "word": "山河图 修音",
+        "onboard_time": 1686294510,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167015,
+        "num": 167015,
+        "word": "王鹤棣戴耳环了",
+        "onboard_time": 1686275787,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165433,
+        "num": 165433,
+        "word": "李沁费加罗六月刊封面",
+        "onboard_time": 1686297810,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 347713,
+        "num": 165202,
+        "word": "山东政治 好崩溃",
+        "onboard_time": 1686287012,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163578,
+        "num": 163578,
+        "word": "高考结束后亲友团横幅有点大胆",
+        "onboard_time": 1686294030,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156214,
+        "num": 156214,
+        "word": "美依礼芽额饰造型",
+        "onboard_time": 1686291449,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155916,
+        "num": 155916,
+        "word": "黄子韬在线吃瓜速度",
+        "onboard_time": 1686297330,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 152785,
+        "word": "Ella说犯错就该死吗",
+        "onboard_time": 1686288811,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150205,
+        "num": 150205,
+        "word": "中石油",
+        "onboard_time": 1686286651,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146839,
+        "num": 146839,
+        "word": "外媒曝Jennie将加入漫威",
+        "onboard_time": 1686265941,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138354,
+        "num": 138354,
+        "word": "罗一舟吃辣挑战",
+        "onboard_time": 1686297571,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国北疆的绿色答卷#"
+    }
+  }
+}

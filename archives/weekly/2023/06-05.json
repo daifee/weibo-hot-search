@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686296019083,
+  "endTime": 1686298826833,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -435,6 +435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2156659,
+      "num": 1097828,
+      "word": "翟欣欣被逮捕",
+      "onboard_time": 1686295649,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2156186,
       "num": 2156186,
       "word": "高考数学乙卷",
@@ -537,6 +545,14 @@
       "onboard_time": 1686150274,
       "rank": 13,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1978362,
+      "num": 1978362,
+      "word": "怀孕的同事让我给她带冰奶茶",
+      "onboard_time": 1686291208,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1974074,
@@ -1027,14 +1043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1367609,
-      "num": 1367609,
-      "word": "怀孕的同事让我给她带冰奶茶",
-      "onboard_time": 1686291208,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1358505,
       "num": 1358505,
       "word": "美依礼芽四公 青鸟",
@@ -1075,6 +1083,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1325756,
+      "num": 613714,
+      "word": "李彩桦回应恋情",
+      "onboard_time": 1686296909,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1324313,
       "num": 1324313,
       "word": "保送男生穿旗袍为高考同学加油",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1686103292,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1303942,
+      "num": 1094627,
+      "word": "张嘉倪喝奶茶边喝边漏",
+      "onboard_time": 1686292170,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1302667,
@@ -1467,14 +1491,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1053331,
-      "num": 1053331,
-      "word": "张嘉倪喝奶茶边喝边漏",
-      "onboard_time": 1686292170,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1049141,
       "num": 1049141,
       "word": "花儿与少年第五季嘉宾",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1686146316,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1018491,
+      "num": 1018491,
+      "word": "玉骨遥",
+      "onboard_time": 1686295170,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 1014291,
@@ -2659,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559764,
+      "num": 559764,
+      "word": "五个人打不过一个玲花",
+      "onboard_time": 1686296248,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559589,
       "num": 559589,
       "word": "男子做冷门工作10年带火2个生僻字",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1685953529,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 545741,
+      "num": 545741,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1686297030,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 544153,
@@ -2761,6 +2801,14 @@
       "onboard_time": 1686022409,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527228,
+      "num": 217950,
+      "word": "EDG 雷蛇",
+      "onboard_time": 1686296550,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 521409,
@@ -3027,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469065,
+      "num": 413257,
+      "word": "张云雷",
+      "onboard_time": 1686296670,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468823,
       "num": 468823,
       "word": "种地吧收小麦",
@@ -3257,6 +3313,14 @@
       "onboard_time": 1686209312,
       "rank": 26,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 419734,
+      "num": 419734,
+      "word": "EDG啥时候官宣",
+      "onboard_time": 1686298469,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 418002,
@@ -4931,14 +4995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269786,
-      "num": 269786,
-      "word": "玉骨遥",
-      "onboard_time": 1686295170,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -5601,6 +5657,14 @@
       "onboard_time": 1686105155,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243605,
+      "num": 243605,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1686298531,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 243463,
@@ -6467,14 +6531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211188,
-      "num": 211188,
-      "word": "翟欣欣被逮捕",
-      "onboard_time": 1686295649,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211087,
       "num": 211087,
       "word": "秋瓷炫三公梦回聂小倩",
@@ -6907,6 +6963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199324,
+      "num": 199324,
+      "word": "长沙一公司取消了所有的调休",
+      "onboard_time": 1686298290,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198930,
       "num": 198930,
       "word": "很难忘记周深的高考祝福",
@@ -7064,6 +7128,14 @@
       "word": "微博电影之夜主持人",
       "onboard_time": 1685954789,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195168,
+      "num": 195168,
+      "word": "大鹏王一博复刻九年前的照片",
+      "onboard_time": 1686297151,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -7659,6 +7731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182093,
+      "num": 182093,
+      "word": "Uzi妻子支持Uzi重回赛场",
+      "onboard_time": 1686298049,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182025,
       "num": 182025,
       "word": "蔡徐坤站姐好会拍",
@@ -7721,6 +7801,14 @@
       "onboard_time": 1686099573,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180122,
+      "num": 180122,
+      "word": "张小斐露腰西服裙",
+      "onboard_time": 1686298109,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180041,
@@ -8307,6 +8395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165433,
+      "num": 165433,
+      "word": "李沁费加罗六月刊封面",
+      "onboard_time": 1686297810,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 165207,
       "num": 165207,
       "word": "封神回应演员排序",
@@ -8609,6 +8705,14 @@
       "onboard_time": 1686212795,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155916,
+      "num": 155916,
+      "word": "黄子韬在线吃瓜速度",
+      "onboard_time": 1686297330,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 155780,
@@ -9083,6 +9187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138354,
+      "num": 138354,
+      "word": "罗一舟吃辣挑战",
+      "onboard_time": 1686297571,
+      "rank": 49,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 137960,
       "num": 137960,
       "word": "泰国庙里供着皮卡丘",
@@ -9457,6 +9569,14 @@
       "onboard_time": 1686212434,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 124649,
+      "num": 1847269,
+      "word": "高考过后最想做的一件事",
+      "onboard_time": 1686280291,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124428,
@@ -9915,14 +10035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102324,
-      "num": 1847269,
-      "word": "高考过后最想做的一件事",
-      "onboard_time": 1686280291,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101644,
       "num": 101644,
       "word": "横批 用原来的",
@@ -10263,6 +10375,14 @@
       "num": 611426,
       "word": "高考考生两天两次获民警救助",
       "onboard_time": 1686208413,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73954,
+      "num": 605432,
+      "word": "学霸捧花接同学一句祝福惊艳了",
+      "onboard_time": 1686297631,
       "rank": 14,
       "category": "社会新闻"
     },
