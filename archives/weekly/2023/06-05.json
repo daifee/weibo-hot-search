@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686335614988,
+  "endTime": 1686338000702,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -11947,11 +11947,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26726,
+      "num": 32651,
+      "word": "毕业之前来看演唱会",
+      "onboard_time": 1686337633,
+      "rank": 40,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 26276,
       "num": 463252,
       "word": "上海电影节水幕音乐秀",
       "onboard_time": 1686319230,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26066,
+      "num": 32645,
+      "word": "流浪地球2里藏着巨齿鲨2彩蛋",
+      "onboard_time": 1686336014,
+      "rank": 42,
       "category": "影视"
     },
     {
