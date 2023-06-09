@@ -1,0 +1,410 @@
+{
+  "runTime": 1686353633139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259695,
+        "num": 1259695,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 965554,
+        "num": 965554,
+        "word": "陈露 王萌",
+        "onboard_time": 1686324870,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 35247,
+        "num": 813878,
+        "word": "3分钟告诉你万物皆可链",
+        "onboard_time": 1686316349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769933,
+        "num": 769933,
+        "word": "婴儿接种证被盖死亡证明专用章",
+        "onboard_time": 1686315090,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485804,
+        "num": 485804,
+        "word": "美国亚裔高考接近满分被六大名校拒绝",
+        "onboard_time": 1686321214,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 870010,
+        "num": 421967,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556772,
+        "num": 398846,
+        "word": "免职裙不到半天卖出2000多条",
+        "onboard_time": 1686352280,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315776,
+        "num": 315776,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1686315929,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304938,
+        "num": 304938,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275746,
+        "num": 275746,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239125,
+        "num": 239125,
+        "word": "抑郁女生带患癌爷爷游中国相互治愈",
+        "onboard_time": 1686352158,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225436,
+        "num": 225436,
+        "word": "照相馆学徒冒死留下南京大屠杀证据",
+        "onboard_time": 1686327625,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225113,
+        "num": 225113,
+        "word": "注册不了张z被曝专业是新闻传播",
+        "onboard_time": 1686312326,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192969,
+        "num": 192969,
+        "word": "倪妮第二套",
+        "onboard_time": 1686319950,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174695,
+        "num": 174695,
+        "word": "周深撕了李晨名牌",
+        "onboard_time": 1686321272,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175642,
+        "num": 172055,
+        "word": "舒淇 白客",
+        "onboard_time": 1686320189,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169233,
+        "num": 169233,
+        "word": "鼠头鸭脖学校门口大量学生取外卖",
+        "onboard_time": 1686313709,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168974,
+        "num": 168974,
+        "word": "徐怀钰 东亚偶像体系",
+        "onboard_time": 1686325469,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168180,
+        "num": 168180,
+        "word": "胡歌把吴磊抱起来了",
+        "onboard_time": 1686310648,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162611,
+        "num": 162611,
+        "word": "蔡徐坤 泰国人气",
+        "onboard_time": 1686319651,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534731,
+        "num": 157268,
+        "word": "霍尊前女友涉嫌敲诈勒索案已移交检察院",
+        "onboard_time": 1686321691,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 167782,
+        "num": 157210,
+        "word": "无意间刷到一个没人看的主播",
+        "onboard_time": 1686328526,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143279,
+        "num": 143279,
+        "word": "贺红玲你把钢笔还回来",
+        "onboard_time": 1686350236,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135278,
+        "num": 135278,
+        "word": "陈露涉嫌敲诈勒索案进入审查起诉阶段",
+        "onboard_time": 1686321573,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 123608,
+        "num": 123608,
+        "word": "我掉下去都不会让他掉下去",
+        "onboard_time": 1686351738,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123568,
+        "num": 123568,
+        "word": "取消调休能实现吗",
+        "onboard_time": 1686343933,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114677,
+        "num": 114677,
+        "word": "00后小伙为救轻生女不幸溺亡",
+        "onboard_time": 1686323731,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106000,
+        "num": 106000,
+        "word": "朱一龙等倪妮",
+        "onboard_time": 1686314727,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92279,
+        "num": 92279,
+        "word": "肖春生经受的六次暴击",
+        "onboard_time": 1686321573,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86886,
+        "num": 86886,
+        "word": "欧冠决赛",
+        "onboard_time": 1686323131,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107931,
+        "num": 86350,
+        "word": "正美容的柯基发现铲屎官看自己",
+        "onboard_time": 1686351738,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97425,
+        "num": 85937,
+        "word": "上班和朋友聊天的高频词汇",
+        "onboard_time": 1686351738,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84082,
+        "num": 84082,
+        "word": "孟美岐 玉龙县文旅局",
+        "onboard_time": 1686303571,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78567,
+        "num": 78567,
+        "word": "高考生感觉考砸公交司机安慰半小时",
+        "onboard_time": 1686323193,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77490,
+        "num": 77490,
+        "word": "梦中的那片海 酷云峰值",
+        "onboard_time": 1686321932,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74230,
+        "num": 74230,
+        "word": "鲁德晋级法网决赛",
+        "onboard_time": 1686353197,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73871,
+        "num": 73871,
+        "word": "超九成投票网友赞成取消调休",
+        "onboard_time": 1686332718,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70311,
+        "num": 70311,
+        "word": "延长周末的办法",
+        "onboard_time": 1686326968,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 69158,
+        "num": 69158,
+        "word": "妈妈每天陪7岁渐冻症儿子训练",
+        "onboard_time": 1686351738,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67372,
+        "num": 67372,
+        "word": "倪妮的项链是腕表",
+        "onboard_time": 1686313047,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66357,
+        "num": 66357,
+        "word": "王子奇王玉雯你给我的喜欢庆功宴",
+        "onboard_time": 1686319892,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64860,
+        "num": 64860,
+        "word": "速度与激情11定档",
+        "onboard_time": 1686330502,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61846,
+        "num": 61846,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60451,
+        "num": 60451,
+        "word": "沈腾回应好帅",
+        "onboard_time": 1686326369,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54902,
+        "num": 54902,
+        "word": "德约科维奇",
+        "onboard_time": 1686318630,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55209,
+        "num": 54692,
+        "word": "王源易烊千玺工作室出图",
+        "onboard_time": 1686311426,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54472,
+        "num": 54472,
+        "word": "梦中的那片海",
+        "onboard_time": 1686322892,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53201,
+        "num": 53201,
+        "word": "文化和自然遗产日",
+        "onboard_time": 1686352359,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51028,
+        "num": 52964,
+        "word": "胡先煦帅回来了",
+        "onboard_time": 1686323912,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54408,
+        "num": 52527,
+        "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
+        "onboard_time": 1686351738,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记的足迹感受中国生态变迁#"
+    }
+  }
+}

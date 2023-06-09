@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686352611956,
+  "endTime": 1686353633139,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1283,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1259695,
+      "num": 1259695,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1257373,
       "num": 1257373,
       "word": "孟美岐 玉龙县文旅局",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1686110390,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 973021,
-      "num": 973021,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 972203,
@@ -2377,6 +2377,14 @@
       "onboard_time": 1686100113,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 769933,
+      "num": 769933,
+      "word": "婴儿接种证被盖死亡证明专用章",
+      "onboard_time": 1686315090,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769206,
@@ -2963,20 +2971,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558070,
-      "num": 558070,
-      "word": "婴儿接种证被盖死亡证明专用章",
-      "onboard_time": 1686315090,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557764,
       "num": 557764,
       "word": "Tabe妻子谈未官宣Uzi",
       "onboard_time": 1686300211,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 556772,
+      "num": 398846,
+      "word": "免职裙不到半天卖出2000多条",
+      "onboard_time": 1686352280,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555765,
@@ -6331,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239125,
+      "num": 239125,
+      "word": "抑郁女生带患癌爷爷游中国相互治愈",
+      "onboard_time": 1686352158,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238803,
       "num": 238803,
       "word": "全自动家庭闯祸机",
@@ -7988,7 +8004,7 @@
     },
     {
       "raw_hot": 192335,
-      "num": 122814,
+      "num": 157210,
       "word": "无意间刷到一个没人看的主播",
       "onboard_time": 1686328526,
       "rank": 30,
@@ -9987,6 +10003,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 143279,
+      "num": 143279,
+      "word": "贺红玲你把钢笔还回来",
+      "onboard_time": 1686350236,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142818,
       "num": 142818,
       "word": "张嘉倪蕾丝打底",
@@ -10403,14 +10427,6 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 129389,
-      "num": 129389,
-      "word": "免职裙不到半天卖出2000多条",
-      "onboard_time": 1686352280,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129236,
       "num": 384654,
       "word": "小学生等校车间隙帮工人大叔搬砖",
@@ -10585,6 +10601,22 @@
       "onboard_time": 1686273628,
       "rank": 41,
       "category": "情感,情感"
+    },
+    {
+      "raw_hot": 123608,
+      "num": 123608,
+      "word": "我掉下去都不会让他掉下去",
+      "onboard_time": 1686351738,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123568,
+      "num": 123568,
+      "word": "取消调休能实现吗",
+      "onboard_time": 1686343933,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123529,
@@ -10827,14 +10859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115133,
-      "num": 115133,
-      "word": "取消调休能实现吗",
-      "onboard_time": 1686343933,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115097,
       "num": 2288509,
       "word": "世界上建设难度最高的跨海集群工程",
@@ -10969,6 +10993,14 @@
       "onboard_time": 1686144634,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 107931,
+      "num": 86350,
+      "word": "正美容的柯基发现铲屎官看自己",
+      "onboard_time": 1686351738,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 107606,
@@ -11121,6 +11153,14 @@
       "onboard_time": 1686245658,
       "rank": 26,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 97425,
+      "num": 85937,
+      "word": "上班和朋友聊天的高频词汇",
+      "onboard_time": 1686351738,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 97416,
@@ -11323,14 +11363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85652,
-      "num": 85652,
-      "word": "贺红玲你把钢笔还回来",
-      "onboard_time": 1686350236,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 84787,
       "num": 624891,
       "word": "男生考完连续两个空翻冲出考场",
@@ -11451,20 +11483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74865,
-      "num": 74865,
-      "word": "抑郁女生带患癌爷爷游中国相互治愈",
-      "onboard_time": 1686352158,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74623,
       "num": 148794,
       "word": "高考填志愿你会选汽车专业吗",
       "onboard_time": 1686119434,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 74230,
+      "num": 74230,
+      "word": "鲁德晋级法网决赛",
+      "onboard_time": 1686353197,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 74107,
@@ -11536,6 +11568,14 @@
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69158,
+      "num": 69158,
+      "word": "妈妈每天陪7岁渐冻症儿子训练",
+      "onboard_time": 1686351738,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -11643,14 +11683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 63391,
-      "num": 63391,
-      "word": "正美容的柯基发现铲屎官看自己",
-      "onboard_time": 1686351738,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 62911,
       "num": 62911,
       "word": "爷爷贴心掰烧饼芯给宝宝吃",
@@ -11672,14 +11704,6 @@
       "word": "首艘国产大型邮轮有2500万个零部件",
       "onboard_time": 1685972191,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61647,
-      "num": 61647,
-      "word": "我掉下去都不会让他掉下去",
-      "onboard_time": 1686351738,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -11731,20 +11755,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 54408,
+      "num": 52527,
+      "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
+      "onboard_time": 1686351738,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53201,
+      "num": 53201,
+      "word": "文化和自然遗产日",
+      "onboard_time": 1686352359,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51067,
       "num": 51067,
       "word": "新MacOS Sonoma",
       "onboard_time": 1685988376,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 50721,
-      "num": 50721,
-      "word": "文化和自然遗产日",
-      "onboard_time": 1686352359,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49996,

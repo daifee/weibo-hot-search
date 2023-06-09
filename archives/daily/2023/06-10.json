@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686352611956,
+  "endTime": 1686353633139,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259695,
+      "num": 1259695,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -43,12 +51,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 973021,
-      "num": 973021,
-      "word": "长得漂亮但拍照不上镜",
-      "onboard_time": 1686314429,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 769933,
+      "num": 769933,
+      "word": "婴儿接种证被盖死亡证明专用章",
+      "onboard_time": 1686315090,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 749222,
@@ -75,11 +83,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558070,
-      "num": 558070,
-      "word": "婴儿接种证被盖死亡证明专用章",
-      "onboard_time": 1686315090,
-      "rank": 11,
+      "raw_hot": 556772,
+      "num": 398846,
+      "word": "免职裙不到半天卖出2000多条",
+      "onboard_time": 1686352280,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 239125,
+      "num": 239125,
+      "word": "抑郁女生带患癌爷爷游中国相互治愈",
+      "onboard_time": 1686352158,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232222,
       "num": 232222,
       "word": "00后小伙为救轻生女不幸溺亡",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 192335,
-      "num": 122814,
+      "num": 157210,
       "word": "无意间刷到一个没人看的主播",
       "onboard_time": 1686328526,
       "rank": 30,
@@ -273,6 +289,14 @@
       "onboard_time": 1686326369,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174695,
+      "num": 174695,
+      "word": "周深撕了李晨名牌",
+      "onboard_time": 1686321272,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168859,
@@ -289,14 +313,6 @@
       "onboard_time": 1686323912,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163289,
-      "num": 163289,
-      "word": "周深撕了李晨名牌",
-      "onboard_time": 1686321272,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 158189,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143279,
+      "num": 143279,
+      "word": "贺红玲你把钢笔还回来",
+      "onboard_time": 1686350236,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137259,
       "num": 128934,
       "word": "徐志胜 别磕给大家磕头了",
@@ -379,11 +403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129389,
-      "num": 129389,
-      "word": "免职裙不到半天卖出2000多条",
-      "onboard_time": 1686352280,
-      "rank": 19,
+      "raw_hot": 123608,
+      "num": 123608,
+      "word": "我掉下去都不会让他掉下去",
+      "onboard_time": 1686351738,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123568,
+      "num": 123568,
+      "word": "取消调休能实现吗",
+      "onboard_time": 1686343933,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -393,14 +425,6 @@
       "onboard_time": 1686296909,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115133,
-      "num": 115133,
-      "word": "取消调休能实现吗",
-      "onboard_time": 1686343933,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113254,
@@ -427,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107931,
+      "num": 86350,
+      "word": "正美容的柯基发现铲屎官看自己",
+      "onboard_time": 1686351738,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104549,
       "num": 104549,
       "word": "初级会计",
@@ -451,20 +483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97425,
+      "num": 85937,
+      "word": "上班和朋友聊天的高频词汇",
+      "onboard_time": 1686351738,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87171,
       "num": 79299,
       "word": "超九成投票网友赞成取消调休",
       "onboard_time": 1686332718,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85652,
-      "num": 85652,
-      "word": "贺红玲你把钢笔还回来",
-      "onboard_time": 1686350236,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 84402,
@@ -491,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74865,
-      "num": 74865,
-      "word": "抑郁女生带患癌爷爷游中国相互治愈",
-      "onboard_time": 1686352158,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 74230,
+      "num": 74230,
+      "word": "鲁德晋级法网决赛",
+      "onboard_time": 1686353197,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 71760,
@@ -507,19 +539,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63391,
-      "num": 63391,
-      "word": "正美容的柯基发现铲屎官看自己",
+      "raw_hot": 69158,
+      "num": 69158,
+      "word": "妈妈每天陪7岁渐冻症儿子训练",
       "onboard_time": 1686351738,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 61647,
-      "num": 61647,
-      "word": "我掉下去都不会让他掉下去",
-      "onboard_time": 1686351738,
-      "rank": 36,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -531,8 +555,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50721,
-      "num": 50721,
+      "raw_hot": 54408,
+      "num": 52527,
+      "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
+      "onboard_time": 1686351738,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53201,
+      "num": 53201,
       "word": "文化和自然遗产日",
       "onboard_time": 1686352359,
       "rank": 45,
