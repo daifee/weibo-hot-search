@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686279960999,
+  "endTime": 1686281087556,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3061960,
+      "num": 3061960,
+      "word": "孩子你配享太庙",
+      "onboard_time": 1686277226,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 3044586,
       "num": 3044586,
       "word": "丫丫",
@@ -217,14 +225,6 @@
       "onboard_time": 1686230130,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2879207,
-      "num": 2879207,
-      "word": "孩子你配享太庙",
-      "onboard_time": 1686277226,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2800496,
@@ -489,6 +489,14 @@
       "onboard_time": 1685752465,
       "rank": 0,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2216060,
+      "num": 2216060,
+      "word": "原来肝脏不好真的会变丑",
+      "onboard_time": 1686278669,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 2183531,
@@ -1147,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1603610,
-      "num": 1603610,
-      "word": "原来肝脏不好真的会变丑",
-      "onboard_time": 1686278669,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1593980,
       "num": 627102,
       "word": "半藏森林",
@@ -1787,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1273035,
+      "num": 1273035,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1271963,
       "num": 1271963,
       "word": "黑犬酱就老公被叫河童回应",
@@ -2211,6 +2219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1113942,
+      "num": 1113942,
+      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
+      "onboard_time": 1686275608,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109788,
       "num": 1109788,
       "word": "卡卡 北京",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1084861,
-      "num": 1084861,
-      "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
-      "onboard_time": 1686275608,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081873,
@@ -2747,14 +2755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 926543,
-      "num": 926543,
-      "word": "跑男泰国",
-      "onboard_time": 1686277647,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 925453,
       "num": 925453,
       "word": "地铁站里妈妈含泪掌掴小孩称太委屈",
@@ -2785,6 +2785,14 @@
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 919596,
+      "num": 919596,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 914174,
@@ -3625,6 +3633,14 @@
       "onboard_time": 1685580387,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 698026,
+      "num": 698026,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696926,
@@ -4963,6 +4979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481618,
+      "num": 481618,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481326,
       "num": 481326,
       "word": "TES对战EDG",
@@ -5819,14 +5843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406873,
-      "num": 406873,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406824,
       "num": 346772,
       "word": "文俊辉要考清华",
@@ -5881,14 +5897,6 @@
       "onboard_time": 1685672786,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403595,
-      "num": 403595,
-      "word": "宋雨琦Minnie录制奔跑吧",
-      "onboard_time": 1686278609,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 403564,
@@ -6105,14 +6113,6 @@
       "onboard_time": 1685873547,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387888,
-      "num": 387888,
-      "word": "赖冠霖今年没有参加高考",
-      "onboard_time": 1686279210,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 387087,
@@ -7361,6 +7361,14 @@
       "onboard_time": 1686184591,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323389,
+      "num": 323389,
+      "word": "奔跑吧泰国",
+      "onboard_time": 1686280710,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 323062,
@@ -8843,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271344,
+      "num": 271344,
+      "word": "乘风三公",
+      "onboard_time": 1686279991,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271323,
       "num": 191668,
       "word": "王一栩探班成毅李一桐",
@@ -9851,6 +9867,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 246658,
+      "num": 246658,
+      "word": "是妈妈是女儿线下首唱",
+      "onboard_time": 1686279271,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -10697,6 +10721,14 @@
       "onboard_time": 1685720252,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229191,
+      "num": 229191,
+      "word": "薛之谦是陆虎夫妇的爱情保安",
+      "onboard_time": 1686278908,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 229020,
@@ -12003,14 +12035,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 204291,
-      "num": 204291,
-      "word": "薛之谦是陆虎夫妇的爱情保安",
-      "onboard_time": 1686278908,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204271,
       "num": 204271,
       "word": "郭艾伦tatan见面",
@@ -12987,6 +13011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191064,
+      "num": 191064,
+      "word": "消失的她",
+      "onboard_time": 1686280233,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191054,
       "num": 470121,
       "word": "广东今年唯一全盲高考生走进考场",
@@ -13041,6 +13073,14 @@
       "onboard_time": 1685761890,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190784,
+      "num": 190784,
+      "word": "23岁护士病逝捐遗体成大体老师",
+      "onboard_time": 1686280652,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190745,
@@ -13481,14 +13521,6 @@
       "onboard_time": 1685890897,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185558,
-      "num": 185558,
-      "word": "是妈妈是女儿线下首唱",
-      "onboard_time": 1686279271,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 185477,
@@ -15683,6 +15715,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 146616,
+      "num": 146616,
+      "word": "陈紫函迪丽热巴红白高燃对决",
+      "onboard_time": 1686276989,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146476,
       "num": 146476,
       "word": "梅西回应内马尔",
@@ -15795,14 +15835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143188,
-      "num": 143188,
-      "word": "陈紫函迪丽热巴红白高燃对决",
-      "onboard_time": 1686276989,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142981,
       "num": 142981,
       "word": "成人身上有多少块骨头",
@@ -15851,6 +15883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142375,
+      "num": 142375,
+      "word": "米哈游2022年营收273.4亿元",
+      "onboard_time": 1686279509,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142059,
       "num": 142059,
       "word": "重返高三你愿意吗",
@@ -15873,14 +15913,6 @@
       "onboard_time": 1685951188,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141519,
-      "num": 141519,
-      "word": "米哈游2022年营收273.4亿元",
-      "onboard_time": 1686279509,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 141171,
@@ -15980,7 +16012,7 @@
     },
     {
       "raw_hot": 139513,
-      "num": 177177,
+      "num": 282574,
       "word": "哪个瞬间让你成为主角",
       "onboard_time": 1686279571,
       "rank": 38,
@@ -16169,6 +16201,14 @@
       "onboard_time": 1685952509,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134923,
+      "num": 247570,
+      "word": "檀健次阿卡贝拉新歌首唱",
+      "onboard_time": 1686280050,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 134917,
@@ -16489,6 +16529,14 @@
       "onboard_time": 1685671648,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128656,
+      "num": 128656,
+      "word": "AI太古里街拍",
+      "onboard_time": 1686281070,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128557,
@@ -18635,6 +18683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64910,
+      "num": 542344,
+      "word": "男生考完连续两个空翻冲出考场",
+      "onboard_time": 1686279870,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64820,
       "num": 331663,
       "word": "有被Fiona的蔓延甜到",
@@ -18832,6 +18888,14 @@
       "word": "小麦收割机侧翻10辆越野车免费救援",
       "onboard_time": 1685772087,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55666,
+      "num": 1386529,
+      "word": "世界上建设难度最高的跨海集群工程",
+      "onboard_time": 1686280469,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -19505,14 +19569,6 @@
       "onboard_time": 1685633551,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5269,
-      "num": 515762,
-      "word": "男生考完连续两个空翻冲出考场",
-      "onboard_time": 1686279870,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -19611,6 +19667,9 @@
     },
     {
       "word": "#祖国北疆的绿色答卷#"
+    },
+    {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
     }
   ]
 }

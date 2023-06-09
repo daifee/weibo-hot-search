@@ -1,10 +1,10 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686279960999,
+  "endTime": 1686281087556,
   "band_list": [
     {
-      "raw_hot": 2879207,
-      "num": 2879207,
+      "raw_hot": 3061960,
+      "num": 3061960,
       "word": "孩子你配享太庙",
       "onboard_time": 1686277226,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1603610,
-      "num": 1603610,
+      "raw_hot": 2216060,
+      "num": 2216060,
       "word": "原来肝脏不好真的会变丑",
       "onboard_time": 1686278669,
       "rank": 5,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1273035,
+      "num": 1273035,
+      "word": "跑男泰国",
+      "onboard_time": 1686277647,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1176860,
       "num": 627510,
       "word": "北大屠夫称大学生就业难关键在父母",
@@ -91,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1084861,
-      "num": 1084861,
+      "raw_hot": 1113942,
+      "num": 1113942,
       "word": "小学生付费阅读曾鹏宇淫秽作品家长报警",
       "onboard_time": 1686275608,
       "rank": 15,
@@ -115,20 +123,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 926543,
-      "num": 926543,
-      "word": "跑男泰国",
-      "onboard_time": 1686277647,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 924194,
       "num": 924194,
       "word": "Amber单杀Uzi",
       "onboard_time": 1686231453,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 919596,
+      "num": 919596,
+      "word": "赖冠霖今年没有参加高考",
+      "onboard_time": 1686279210,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 827100,
@@ -160,6 +168,14 @@
       "word": "肝脏移植前后肤色对比",
       "onboard_time": 1686239428,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698026,
+      "num": 698026,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481618,
+      "num": 481618,
+      "word": "宋雨琦Minnie录制奔跑吧",
+      "onboard_time": 1686278609,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458848,
       "num": 458848,
       "word": "王鹤棣戴耳环了",
@@ -249,30 +273,6 @@
       "onboard_time": 1686226769,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 406873,
-      "num": 406873,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403595,
-      "num": 403595,
-      "word": "宋雨琦Minnie录制奔跑吧",
-      "onboard_time": 1686278609,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 387888,
-      "num": 387888,
-      "word": "赖冠霖今年没有参加高考",
-      "onboard_time": 1686279210,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 354096,
@@ -297,6 +297,14 @@
       "onboard_time": 1686210451,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323389,
+      "num": 323389,
+      "word": "奔跑吧泰国",
+      "onboard_time": 1686280710,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 306400,
@@ -329,6 +337,14 @@
       "onboard_time": 1686265881,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271344,
+      "num": 271344,
+      "word": "乘风三公",
+      "onboard_time": 1686279991,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 263751,
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246658,
+      "num": 246658,
+      "word": "是妈妈是女儿线下首唱",
+      "onboard_time": 1686279271,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244895,
       "num": 244895,
       "word": "徐云",
@@ -451,6 +475,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 229191,
+      "num": 229191,
+      "word": "薛之谦是陆虎夫妇的爱情保安",
+      "onboard_time": 1686278908,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227226,
       "num": 227226,
       "word": "跟异性同事相处需要有边界感吗",
@@ -481,14 +513,6 @@
       "onboard_time": 1686266243,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204291,
-      "num": 204291,
-      "word": "薛之谦是陆虎夫妇的爱情保安",
-      "onboard_time": 1686278908,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 198333,
@@ -531,6 +555,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191064,
+      "num": 191064,
+      "word": "消失的她",
+      "onboard_time": 1686280233,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190784,
+      "num": 190784,
+      "word": "23岁护士病逝捐遗体成大体老师",
+      "onboard_time": 1686280652,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189589,
       "num": 189589,
       "word": "盗火者",
@@ -561,14 +601,6 @@
       "onboard_time": 1686274950,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185558,
-      "num": 185558,
-      "word": "是妈妈是女儿线下首唱",
-      "onboard_time": 1686279271,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 185257,
@@ -707,8 +739,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143188,
-      "num": 143188,
+      "raw_hot": 146616,
+      "num": 146616,
       "word": "陈紫函迪丽热巴红白高燃对决",
       "onboard_time": 1686276989,
       "rank": 43,
@@ -723,8 +755,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 141519,
-      "num": 141519,
+      "raw_hot": 142375,
+      "num": 142375,
       "word": "米哈游2022年营收273.4亿元",
       "onboard_time": 1686279509,
       "rank": 46,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 139513,
-      "num": 177177,
+      "num": 282574,
       "word": "哪个瞬间让你成为主角",
       "onboard_time": 1686279571,
       "rank": 38,
@@ -747,12 +779,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134923,
+      "num": 247570,
+      "word": "檀健次阿卡贝拉新歌首唱",
+      "onboard_time": 1686280050,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129225,
       "num": 125469,
       "word": "梦中的那片海",
       "onboard_time": 1686265881,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128656,
+      "num": 128656,
+      "word": "AI太古里街拍",
+      "onboard_time": 1686281070,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123699,
@@ -955,6 +1003,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64910,
+      "num": 542344,
+      "word": "男生考完连续两个空翻冲出考场",
+      "onboard_time": 1686279870,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55666,
+      "num": 1386529,
+      "word": "世界上建设难度最高的跨海集群工程",
+      "onboard_time": 1686280469,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55130,
       "num": 55130,
       "word": "陕西文旅厅没收到TFBOYS十周年演唱会申请",
@@ -993,14 +1057,6 @@
       "onboard_time": 1686208234,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5269,
-      "num": 515762,
-      "word": "男生考完连续两个空翻冲出考场",
-      "onboard_time": 1686279870,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1009,6 +1065,9 @@
     },
     {
       "word": "#更好担负起新的文化使命#"
+    },
+    {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
     }
   ]
 }
