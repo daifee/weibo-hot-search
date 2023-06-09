@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686330926296,
+  "endTime": 1686332029244,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -7987,6 +7987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 192335,
+      "num": 107828,
+      "word": "无意间刷到一个没人看的主播",
+      "onboard_time": 1686328526,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192321,
       "num": 192321,
       "word": "郭碧婷的头发好多",
@@ -8281,14 +8289,6 @@
       "onboard_time": 1686215919,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187266,
-      "num": 107828,
-      "word": "无意间刷到一个没人看的主播",
-      "onboard_time": 1686328526,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 187240,
@@ -11075,6 +11075,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 99615,
+      "num": 99615,
+      "word": "速度与激情11定档",
+      "onboard_time": 1686330502,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98569,
       "num": 3410878,
       "word": "高考第二天",
@@ -11289,14 +11297,6 @@
       "onboard_time": 1685957309,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86215,
-      "num": 86215,
-      "word": "速度与激情11定档",
-      "onboard_time": 1686330502,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 84787,
