@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686314009663,
+  "endTime": 1686314976237,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -211,20 +211,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1283314,
+      "num": 1283314,
+      "word": "王源易烊千玺工作室出图",
+      "onboard_time": 1686311426,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1257373,
       "num": 1257373,
       "word": "孟美岐 玉龙县文旅局",
       "onboard_time": 1686303571,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1230789,
-      "num": 1230789,
-      "word": "王源易烊千玺工作室出图",
-      "onboard_time": 1686311426,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1176860,
@@ -603,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 503924,
+      "num": 503924,
+      "word": "无字 乌兹",
+      "onboard_time": 1686311608,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 501880,
       "num": 501880,
       "word": "Ella全组鼓励徐怀钰",
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403985,
+      "num": 297813,
+      "word": "倪妮的项链是腕表",
+      "onboard_time": 1686313047,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387168,
       "num": 387168,
       "word": "杨紫霍建华或将二搭",
@@ -705,6 +721,14 @@
       "onboard_time": 1686298951,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 368830,
+      "num": 209015,
+      "word": "杨幂私服",
+      "onboard_time": 1686313887,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 368279,
@@ -764,19 +788,11 @@
     },
     {
       "raw_hot": 334492,
-      "num": 223270,
+      "num": 270887,
       "word": "BBC卧底记者扒出经营偷拍视频团伙",
       "onboard_time": 1686313291,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332704,
-      "num": 297813,
-      "word": "倪妮的项链是腕表",
-      "onboard_time": 1686313047,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 329242,
@@ -792,6 +808,14 @@
       "word": "曹斐然7天涨粉41万",
       "onboard_time": 1686282450,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325140,
+      "num": 197771,
+      "word": "朱一龙等倪妮",
+      "onboard_time": 1686314727,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -825,14 +849,6 @@
       "onboard_time": 1686288928,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 310850,
-      "num": 310850,
-      "word": "无字 乌兹",
-      "onboard_time": 1686311608,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 309593,
@@ -963,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 272553,
+      "num": 218193,
+      "word": "舒淇美得轻松又优雅",
+      "onboard_time": 1686312748,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272059,
       "num": 272059,
       "word": "全员加速中猎人真实身份",
@@ -1083,14 +1107,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 249522,
-      "num": 218193,
-      "word": "舒淇美得轻松又优雅",
-      "onboard_time": 1686312748,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248638,
       "num": 248638,
       "word": "酸奶为什么越卖越贵",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1686228451,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248158,
+      "num": 181627,
+      "word": "奔跑吧",
+      "onboard_time": 1686276568,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 247750,
@@ -1347,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "鼠头鸭脖学校门口大量学生取外卖",
+      "onboard_time": 1686313709,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208947,
       "num": 208947,
       "word": "肖战演技",
@@ -1448,6 +1480,14 @@
       "word": "大鹏王一博复刻九年前的照片",
       "onboard_time": 1686297151,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194959,
+      "num": 139313,
+      "word": "齐溪看胡歌把吴磊抱起来的反应",
+      "onboard_time": 1686314608,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1619,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174657,
-      "num": 174657,
-      "word": "奔跑吧",
-      "onboard_time": 1686276568,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174021,
       "num": 174021,
       "word": "乐观的悲观主义者狠狠共情了",
@@ -1659,12 +1691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171415,
-      "num": 171415,
-      "word": "杨幂私服",
-      "onboard_time": 1686313887,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 170973,
+      "num": 170973,
+      "word": "长得漂亮但拍照不上镜",
+      "onboard_time": 1686314429,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 170759,
@@ -1787,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159810,
+      "num": 168300,
+      "word": "注册不了张z被曝专业是新闻传播",
+      "onboard_time": 1686312326,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158954,
       "num": 158954,
       "word": "湖南地理 广东方言",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1686297330,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155068,
+      "num": 466915,
+      "word": "翻转腕表",
+      "onboard_time": 1686312027,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154993,
@@ -2011,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138617,
+      "num": 1360256,
+      "word": "高考考场外的难忘瞬间",
+      "onboard_time": 1686311009,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138354,
       "num": 138354,
       "word": "罗一舟吃辣挑战",
@@ -2075,14 +2131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126645,
-      "num": 466915,
-      "word": "翻转腕表",
-      "onboard_time": 1686312027,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124649,
       "num": 2053293,
       "word": "高考过后最想做的一件事",
@@ -2105,14 +2153,6 @@
       "onboard_time": 1686275248,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 123293,
-      "num": 1248189,
-      "word": "高考考场外的难忘瞬间",
-      "onboard_time": 1686311009,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123165,
@@ -2187,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110756,
-      "num": 168492,
-      "word": "鼠头鸭脖学校门口大量学生取外卖",
-      "onboard_time": 1686313709,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110488,
       "num": 110488,
       "word": "根管治疗的过程",
@@ -2224,14 +2256,6 @@
       "word": "你最期待哪方面的生育支持措施",
       "onboard_time": 1686241645,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106023,
-      "num": 168300,
-      "word": "注册不了张z被曝专业是新闻传播",
-      "onboard_time": 1686312326,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2305,6 +2329,22 @@
       "onboard_time": 1686210632,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93505,
+      "num": 122627,
+      "word": "Gr不敌GW",
+      "onboard_time": 1686314188,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92712,
+      "num": 122439,
+      "word": "至今都无法接受工作后没有寒暑假",
+      "onboard_time": 1686314790,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 88317,
@@ -2436,6 +2476,9 @@
     },
     {
       "word": "#在祖国北疆构筑起万里绿色长城#"
+    },
+    {
+      "word": "#跟着总书记的足迹感受中国生态变迁#"
     }
   ]
 }

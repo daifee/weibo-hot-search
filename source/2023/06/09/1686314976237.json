@@ -1,0 +1,410 @@
+{
+  "runTime": 1686314976237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2396295,
+        "num": 2396295,
+        "word": "倪妮礼服",
+        "onboard_time": 1686309687,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1584976,
+        "num": 1584976,
+        "word": "胡歌把吴磊抱起来了",
+        "onboard_time": 1686310648,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138617,
+        "num": 1360256,
+        "word": "高考考场外的难忘瞬间",
+        "onboard_time": 1686311009,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283314,
+        "num": 1283314,
+        "word": "王源易烊千玺工作室出图",
+        "onboard_time": 1686311426,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873514,
+        "num": 873514,
+        "word": "徐志胜 别磕给大家磕头了",
+        "onboard_time": 1686300870,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1589846,
+        "num": 860356,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827976,
+        "num": 827976,
+        "word": "大黄蜂死了",
+        "onboard_time": 1686301533,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640948,
+        "num": 640948,
+        "word": "EDG海报空个位置",
+        "onboard_time": 1686309807,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 543754,
+        "num": 543754,
+        "word": "长沙一公司取消了所有的调休",
+        "onboard_time": 1686298290,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503924,
+        "num": 503924,
+        "word": "无字 乌兹",
+        "onboard_time": 1686311608,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 657784,
+        "num": 503272,
+        "word": "孟美岐 玉龙县文旅局",
+        "onboard_time": 1686303571,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633241,
+        "num": 488003,
+        "word": "EXO确定于7月10日回归",
+        "onboard_time": 1686293729,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 632476,
+        "num": 486801,
+        "word": "白鹿你不热吗",
+        "onboard_time": 1686301709,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464223,
+        "num": 464223,
+        "word": "高考结束学生抬着老师冲出考场",
+        "onboard_time": 1686304232,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 155068,
+        "num": 398538,
+        "word": "翻转腕表",
+        "onboard_time": 1686312027,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513269,
+        "num": 397595,
+        "word": "宋佳张小斐惠英红 新欢旧爱",
+        "onboard_time": 1686313109,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393566,
+        "num": 393566,
+        "word": "怀孕的同事让我给她带冰奶茶",
+        "onboard_time": 1686291208,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338316,
+        "num": 338316,
+        "word": "地铁称女子大叔当时已和解",
+        "onboard_time": 1686309207,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330188,
+        "num": 330188,
+        "word": "孤寡老人家中被盗后自杀",
+        "onboard_time": 1686281310,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294703,
+        "num": 294703,
+        "word": "高考结束",
+        "onboard_time": 1686304470,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 454784,
+        "num": 286295,
+        "word": "朴信惠Jennie将合作",
+        "onboard_time": 1686301291,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403985,
+        "num": 285400,
+        "word": "倪妮的项链是腕表",
+        "onboard_time": 1686313047,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273312,
+        "num": 273312,
+        "word": "四川大学",
+        "onboard_time": 1686290430,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270887,
+        "num": 270887,
+        "word": "BBC卧底记者扒出经营偷拍视频团伙",
+        "onboard_time": 1686313291,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209134,
+        "num": 209134,
+        "word": "鼠头鸭脖学校门口大量学生取外卖",
+        "onboard_time": 1686313709,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380958,
+        "num": 209102,
+        "word": "刘亚仁 人间炼丹炉",
+        "onboard_time": 1686299192,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368830,
+        "num": 209015,
+        "word": "杨幂私服",
+        "onboard_time": 1686313887,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342960,
+        "num": 208975,
+        "word": "周冬雨造型",
+        "onboard_time": 1686311306,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208855,
+        "num": 208855,
+        "word": "注册不了张z",
+        "onboard_time": 1686279571,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198511,
+        "num": 198511,
+        "word": "EDG啥时候官宣",
+        "onboard_time": 1686298469,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325140,
+        "num": 197771,
+        "word": "朱一龙等倪妮",
+        "onboard_time": 1686314727,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320395,
+        "num": 192928,
+        "word": "五个人打不过一个玲花",
+        "onboard_time": 1686296248,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306300,
+        "num": 189633,
+        "word": "玉骨遥",
+        "onboard_time": 1686295170,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272553,
+        "num": 186745,
+        "word": "舒淇美得轻松又优雅",
+        "onboard_time": 1686312748,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202309,
+        "num": 184707,
+        "word": "翟欣欣被逮捕",
+        "onboard_time": 1686295649,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248158,
+        "num": 181627,
+        "word": "奔跑吧",
+        "onboard_time": 1686314668,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238703,
+        "num": 179325,
+        "word": "易烊千玺生图",
+        "onboard_time": 1686311787,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177291,
+        "num": 177291,
+        "word": "江歌妈妈收到大量借款信息",
+        "onboard_time": 1686287430,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170973,
+        "num": 170973,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159810,
+        "num": 159810,
+        "word": "注册不了张z被曝专业是新闻传播",
+        "onboard_time": 1686312326,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207549,
+        "num": 158839,
+        "word": "叶舒华说我要去hybe",
+        "onboard_time": 1686312209,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207504,
+        "num": 156486,
+        "word": "刘惜君绝了",
+        "onboard_time": 1686288569,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201106,
+        "num": 153731,
+        "word": "沈腾秀表 妖娆",
+        "onboard_time": 1686310467,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150770,
+        "num": 150770,
+        "word": "因为名字太好听被公司录用",
+        "onboard_time": 1686301291,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194959,
+        "num": 139313,
+        "word": "齐溪看胡歌把吴磊抱起来的反应",
+        "onboard_time": 1686314608,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72060,
+        "num": 124151,
+        "word": "LBL官宣uzi离队",
+        "onboard_time": 1686267747,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122811,
+        "num": 122811,
+        "word": "EDG官宣Thesnake上调一队",
+        "onboard_time": 1686307768,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102599,
+        "num": 122769,
+        "word": "出考场考生为躲避采访蛇形走位",
+        "onboard_time": 1686306988,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 93505,
+        "num": 122627,
+        "word": "Gr不敌GW",
+        "onboard_time": 1686314188,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92712,
+        "num": 122439,
+        "word": "至今都无法接受工作后没有寒暑假",
+        "onboard_time": 1686314790,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记的足迹感受中国生态变迁#"
+    }
+  }
+}
