@@ -1,6 +1,6 @@
 {
   "startTime": 1686241342985,
-  "endTime": 1686302192586,
+  "endTime": 1686303213207,
   "band_list": [
     {
       "raw_hot": 3441448,
@@ -9,6 +9,14 @@
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2709339,
+      "num": 2709339,
+      "word": "长沙一公司取消了所有的调休",
+      "onboard_time": 1686298290,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2702698,
@@ -33,14 +41,6 @@
       "onboard_time": 1686278669,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2543935,
-      "num": 2543935,
-      "word": "长沙一公司取消了所有的调休",
-      "onboard_time": 1686298290,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2485749,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2030977,
-      "num": 2030977,
+      "raw_hot": 2166370,
+      "num": 2166370,
       "word": "四川大学回应女生曝光地铁大叔",
       "onboard_time": 1686299851,
       "rank": 1,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823137,
+      "num": 823137,
+      "word": "朴信惠Jennie将合作",
+      "onboard_time": 1686301291,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812342,
       "num": 812342,
       "word": "宋雨琦Minnie录制奔跑吧",
@@ -361,6 +369,14 @@
       "onboard_time": 1686276510,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719667,
+      "num": 719667,
+      "word": "徐志胜 别磕给大家磕头了",
+      "onboard_time": 1686300870,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 672706,
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617228,
+      "num": 617228,
+      "word": "刘亚仁 人间炼丹炉",
+      "onboard_time": 1686299192,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590757,
       "num": 590757,
       "word": "周杰伦海口",
@@ -433,6 +457,14 @@
       "onboard_time": 1686297030,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580359,
+      "num": 580359,
+      "word": "白鹿你不热吗",
+      "onboard_time": 1686301709,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 578846,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557764,
+      "num": 557764,
+      "word": "Tabe妻子谈未官宣Uzi",
+      "onboard_time": 1686300211,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 540548,
       "num": 540548,
       "word": "徐怀钰",
@@ -467,28 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 532377,
-      "num": 532377,
-      "word": "Tabe妻子谈未官宣Uzi",
-      "onboard_time": 1686300211,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 527228,
       "num": 459922,
       "word": "EDG 雷蛇",
       "onboard_time": 1686296550,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 510998,
-      "num": 510998,
-      "word": "刘亚仁 人间炼丹炉",
-      "onboard_time": 1686299192,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 501880,
@@ -515,11 +539,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467813,
-      "num": 467813,
-      "word": "朴信惠Jennie将合作",
-      "onboard_time": 1686301291,
-      "rank": 21,
+      "raw_hot": 451744,
+      "num": 357873,
+      "word": "ZB1出道撞EXO",
+      "onboard_time": 1686300991,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -531,20 +555,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 432860,
-      "num": 432860,
-      "word": "徐志胜 别磕给大家磕头了",
-      "onboard_time": 1686300870,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410332,
       "num": 410332,
       "word": "Angelababy张大大有默契但不多",
       "onboard_time": 1686240449,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408664,
+      "num": 290058,
+      "word": "大黄蜂死了",
+      "onboard_time": 1686301533,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 387168,
@@ -587,28 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347205,
-      "num": 282803,
-      "word": "白鹿你不热吗",
-      "onboard_time": 1686301709,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 343365,
-      "num": 279398,
-      "word": "ZB1出道撞EXO",
-      "onboard_time": 1686300991,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 335746,
+      "raw_hot": 350196,
       "num": 276723,
       "word": "肖春生把绿萍紫菱的苦全吃了",
       "onboard_time": 1686300031,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348124,
+      "num": 348124,
+      "word": "山东化学",
+      "onboard_time": 1686302430,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 327193,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281277,
+      "num": 251056,
+      "word": "赵丽颖 二番",
+      "onboard_time": 1686302071,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280173,
       "num": 280173,
       "word": "zb1 kpop",
@@ -737,14 +761,6 @@
       "onboard_time": 1686265881,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276529,
-      "num": 243661,
-      "word": "赵丽颖 二番",
-      "onboard_time": 1686302071,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 274300,
@@ -827,6 +843,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 254733,
+      "num": 248451,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1686298531,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251336,
       "num": 251336,
       "word": "女生在宿舍发现学姐2年前留信",
@@ -865,6 +889,14 @@
       "onboard_time": 1686228451,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247336,
+      "num": 247336,
+      "word": "因为名字太好听被公司录用",
+      "onboard_time": 1686301291,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 247102,
@@ -923,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243605,
-      "num": 243605,
-      "word": "张杰鸟巢演唱会",
-      "onboard_time": 1686298531,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 242728,
       "num": 242728,
       "word": "谢娜马甲线好明显",
@@ -987,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229616,
-      "num": 229616,
-      "word": "大黄蜂死了",
-      "onboard_time": 1686301533,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229191,
       "num": 229191,
       "word": "薛之谦是陆虎夫妇的爱情保安",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1686216698,
       "rank": 22,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 218644,
+      "num": 182816,
+      "word": "浪3没能看到的合作",
+      "onboard_time": 1686302612,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 213146,
@@ -1163,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192180,
+      "num": 192180,
+      "word": "配享太庙",
+      "onboard_time": 1686302912,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191608,
       "num": 191608,
       "word": "王源新电影受刑",
@@ -1235,20 +1267,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183346,
+      "num": 183346,
+      "word": "一块能骗过食堂阿姨的姜",
+      "onboard_time": 1686301052,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183005,
       "num": 183005,
       "word": "每个学校总有自己的显眼包",
       "onboard_time": 1686295649,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182738,
-      "num": 182738,
-      "word": "一块能骗过食堂阿姨的姜",
-      "onboard_time": 1686301052,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 180537,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1686292288,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174909,
-      "num": 174909,
-      "word": "因为名字太好听被公司录用",
-      "onboard_time": 1686301291,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 174657,
@@ -1443,6 +1467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158461,
+      "num": 582718,
+      "word": "肠胃不好的人一定要看",
+      "onboard_time": 1686301291,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157672,
       "num": 157672,
       "word": "肖战梦中的那片海杀青1周年",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1686287611,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152203,
+      "num": 152203,
+      "word": "比沉浸更沉浸的沉浸式体验",
+      "onboard_time": 1686302250,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 150513,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1686279571,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138515,
+      "num": 138515,
+      "word": "张翰文化衫走出国门",
+      "onboard_time": 1686302311,
+      "rank": 49,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 138354,
@@ -1897,14 +1945,6 @@
       "onboard_time": 1686242065,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66080,
-      "num": 543653,
-      "word": "肠胃不好的人一定要看",
-      "onboard_time": 1686301291,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64922,
