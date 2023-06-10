@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686367027454,
+  "endTime": 1686368016626,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -9,6 +9,14 @@
       "onboard_time": 1686324870,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1592107,
+      "num": 1592107,
+      "word": "梅西到北京了",
+      "onboard_time": 1686364000,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1529336,
@@ -27,12 +35,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1473256,
-      "num": 1473256,
-      "word": "梅西到北京了",
-      "onboard_time": 1686364000,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 1444587,
+      "num": 1444587,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1423263,
@@ -115,11 +123,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 937568,
-      "num": 937568,
-      "word": "大学摘10万斤荔枝请全校免费吃",
-      "onboard_time": 1686364364,
-      "rank": 26,
+      "raw_hot": 919308,
+      "num": 919308,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -131,16 +139,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 849321,
-      "num": 849321,
+      "raw_hot": 855254,
+      "num": 855254,
       "word": "陈鑫海怒怼辱国旅客",
       "onboard_time": 1686363883,
       "rank": 9,
       "category": "艺人"
     },
     {
-      "raw_hot": 797166,
-      "num": 797166,
+      "raw_hot": 844861,
+      "num": 844861,
       "word": "leave女友发文",
       "onboard_time": 1686363807,
       "rank": 15,
@@ -171,8 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 685979,
-      "num": 685979,
+      "raw_hot": 722114,
+      "num": 722114,
       "word": "抑郁女生带患癌爷爷游中国相互治愈",
       "onboard_time": 1686352158,
       "rank": 30,
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580814,
-      "num": 580814,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559009,
       "num": 559009,
       "word": "长沙一公司取消了所有的调休",
       "onboard_time": 1686298290,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534577,
+      "num": 534577,
+      "word": "陶昕然好像安陵容翻身了",
+      "onboard_time": 1686354756,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 512045,
@@ -248,14 +256,6 @@
       "word": "倪妮第二套",
       "onboard_time": 1686319950,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 461370,
-      "num": 461370,
-      "word": "陶昕然好像安陵容翻身了",
-      "onboard_time": 1686354756,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234138,
+      "num": 234138,
+      "word": "约基奇太无解了",
+      "onboard_time": 1686367004,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232222,
       "num": 232222,
       "word": "00后小伙为救轻生女不幸溺亡",
@@ -483,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223984,
+      "num": 223984,
+      "word": "肖春生说姐我回来了",
+      "onboard_time": 1686367253,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221210,
       "num": 221210,
       "word": "普京称乌克兰已开始进攻",
@@ -497,6 +513,14 @@
       "onboard_time": 1686362316,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216607,
+      "num": 216607,
+      "word": "蔡英文与台空军通话疑似传出我是中国空军",
+      "onboard_time": 1686366648,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216068,
@@ -523,11 +547,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211122,
+      "num": 211122,
+      "word": "宫崎骏 选女孩做故事主角",
+      "onboard_time": 1686367529,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210872,
       "num": 210872,
       "word": "鼠头鸭脖学校门口大量学生取外卖",
       "onboard_time": 1686313709,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209017,
+      "num": 209017,
+      "word": "四川阿坝地震",
+      "onboard_time": 1686366884,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -537,6 +577,14 @@
       "onboard_time": 1686323131,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204453,
+      "num": 204453,
+      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
+      "onboard_time": 1686365247,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 202259,
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191522,
+      "num": 209948,
+      "word": "李沁认证肖春生社牛",
+      "onboard_time": 1686367971,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187586,
       "num": 187586,
       "word": "华晨宇 鸟巢演唱会",
@@ -593,6 +649,14 @@
       "onboard_time": 1686358717,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178410,
+      "num": 221373,
+      "word": "WBG和TES露营",
+      "onboard_time": 1686366566,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 175844,
@@ -625,14 +689,6 @@
       "onboard_time": 1686360396,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171370,
-      "num": 171370,
-      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
-      "onboard_time": 1686365247,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 168859,
@@ -699,30 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155361,
-      "num": 155361,
-      "word": "约基奇太无解了",
-      "onboard_time": 1686367004,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 155054,
-      "num": 146745,
-      "word": "WBG和TES露营",
-      "onboard_time": 1686366566,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 149273,
-      "num": 149273,
-      "word": "蔡英文与台空军通话疑似传出我是中国空军",
-      "onboard_time": 1686366648,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147075,
       "num": 147075,
       "word": "这么多年网播定档",
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137276,
+      "num": 137276,
+      "word": "千万别和好闺蜜睡一张床",
+      "onboard_time": 1686367047,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 137259,
       "num": 128934,
       "word": "徐志胜 别磕给大家磕头了",
@@ -763,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135727,
-      "num": 135727,
-      "word": "四川阿坝地震",
-      "onboard_time": 1686366884,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 135088,
+      "num": 135088,
+      "word": "沈腾帅而自知",
+      "onboard_time": 1686365324,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 134701,
@@ -777,14 +817,6 @@
       "onboard_time": 1686351738,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134229,
-      "num": 134229,
-      "word": "沈腾帅而自知",
-      "onboard_time": 1686365324,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 132761,
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 93102,
-      "num": 93102,
+      "num": 1131515,
       "word": "你可以永远相信中国美学",
       "onboard_time": 1686360327,
       "rank": 48,
@@ -1011,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36949,
+      "num": 515054,
+      "word": "高考结束后学生们拉校长举杯庆祝",
+      "onboard_time": 1686366688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27760,
       "num": 36183,
       "word": "毕业之前来看演唱会",
@@ -1027,11 +1067,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8368,
-      "num": 515054,
-      "word": "高考结束后学生们拉校长举杯庆祝",
-      "onboard_time": 1686366688,
-      "rank": 14,
+      "raw_hot": 19357,
+      "num": 382818,
+      "word": "国宝文物讲述何以中国",
+      "onboard_time": 1686367725,
+      "rank": 20,
       "category": "社会新闻"
     }
   ],
