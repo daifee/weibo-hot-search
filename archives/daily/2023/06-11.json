@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686432810459,
+  "endTime": 1686435305839,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178487,
+      "num": 178487,
+      "word": "柯以敏直播奔溃大哭",
+      "onboard_time": 1686432313,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162719,
       "num": 162719,
       "word": "梅西也得熬夜看欧冠",
@@ -459,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109959,
-      "num": 109959,
-      "word": "柯以敏直播奔溃大哭",
-      "onboard_time": 1686432313,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104098,
       "num": 94913,
       "word": "焦迈奇游泳回家巡回演唱会",
@@ -568,6 +568,14 @@
       "word": "蜘蛛侠",
       "onboard_time": 1686426493,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 23958,
+      "num": 28503,
+      "word": "肖春生没见到父亲最后一面",
+      "onboard_time": 1686435194,
+      "rank": 46,
       "category": "影视"
     }
   ],
