@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686378040426,
+  "endTime": 1686378814728,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -17,6 +17,14 @@
       "onboard_time": 1686371685,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1989010,
+      "num": 781227,
+      "word": "牵手门",
+      "onboard_time": 1686372526,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1810436,
@@ -41,14 +49,6 @@
       "onboard_time": 1686364000,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1557080,
-      "num": 781227,
-      "word": "牵手门",
-      "onboard_time": 1686372526,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1529336,
@@ -136,6 +136,14 @@
       "word": "男子性侵13岁女孩被判4年赔2万",
       "onboard_time": 1686361114,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1034231,
+      "num": 1034231,
+      "word": "胖东来荔枝打开全是虫子",
+      "onboard_time": 1686377546,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 652529,
+      "num": 295449,
+      "word": "大学生高考考点卖花反亏一千",
+      "onboard_time": 1686375567,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 637320,
       "num": 637320,
       "word": "Amber又是第一",
@@ -267,15 +283,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 529201,
-      "num": 232066,
-      "word": "大学生高考考点卖花反亏一千",
-      "onboard_time": 1686375567,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 512071,
+      "raw_hot": 527542,
       "num": 252656,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469708,
+      "num": 469708,
+      "word": "下个路口见 最强拉票阵容",
+      "onboard_time": 1686375686,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466731,
       "num": 319642,
       "word": "千万别和好闺蜜睡一张床",
@@ -337,14 +353,6 @@
       "onboard_time": 1686312326,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435051,
-      "num": 435051,
-      "word": "下个路口见 最强拉票阵容",
-      "onboard_time": 1686375686,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 411836,
@@ -387,6 +395,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 365783,
+      "num": 277195,
+      "word": "想去海边好甜",
+      "onboard_time": 1686376944,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360052,
       "num": 360052,
       "word": "胡歌把吴磊抱起来了",
@@ -409,14 +425,6 @@
       "onboard_time": 1686321573,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 344873,
-      "num": 228772,
-      "word": "想去海边好甜",
-      "onboard_time": 1686376944,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 338314,
@@ -563,20 +571,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265834,
+      "num": 265834,
+      "word": "谢娜进步好大",
+      "onboard_time": 1686377788,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264972,
       "num": 264972,
       "word": "倪妮的项链是腕表",
       "onboard_time": 1686313047,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260282,
-      "num": 184793,
-      "word": "胖东来荔枝打开全是虫子",
-      "onboard_time": 1686377546,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259294,
@@ -641,6 +649,14 @@
       "onboard_time": 1686377068,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231239,
+      "num": 231239,
+      "word": "中午睡午觉不是全国统一的吗",
+      "onboard_time": 1686376707,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 229379,
@@ -803,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195906,
+      "num": 195906,
+      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
+      "onboard_time": 1686376765,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 195628,
       "num": 209948,
       "word": "李沁认证肖春生社牛",
@@ -825,14 +849,6 @@
       "onboard_time": 1686374367,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187598,
-      "num": 187598,
-      "word": "中午睡午觉不是全国统一的吗",
-      "onboard_time": 1686376707,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 187591,
@@ -867,19 +883,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184833,
+      "num": 184833,
+      "word": "网友发布牵手门视频被董某某投诉",
+      "onboard_time": 1686376886,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184012,
       "num": 184012,
       "word": "不是谁会写小作文谁就有理",
       "onboard_time": 1686358717,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183174,
-      "num": 183174,
-      "word": "网友发布牵手门视频被董某某投诉",
-      "onboard_time": 1686376886,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -931,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172992,
-      "num": 183533,
-      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
-      "onboard_time": 1686376765,
-      "rank": 33,
-      "category": "艺人,幽默"
+      "raw_hot": 172813,
+      "num": 172813,
+      "word": "杨颖说在这个节目快没朋友了",
+      "onboard_time": 1686377068,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 169217,
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157470,
-      "num": 157470,
-      "word": "谢娜进步好大",
-      "onboard_time": 1686377788,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157318,
       "num": 157318,
       "word": "延长周末的办法",
@@ -1040,14 +1048,6 @@
       "word": "刘耀文张真源验证成功",
       "onboard_time": 1686368447,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 150224,
-      "num": 150224,
-      "word": "杨颖说在这个节目快没朋友了",
-      "onboard_time": 1686377068,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1155,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "马嘉祺还想再练练",
+      "onboard_time": 1686378657,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118872,
       "num": 118872,
       "word": "大学生给同学带芒果拎麻袋不丢人",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1686353679,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111266,
+      "num": 111266,
+      "word": "感谢高考路上为我们付出的人",
+      "onboard_time": 1686378805,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 110477,
@@ -1299,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70040,
+      "num": 284296,
+      "word": "男子偶遇20年前恩人医生下跪感谢",
+      "onboard_time": 1686376825,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69158,
       "num": 69158,
       "word": "妈妈每天陪7岁渐冻症儿子训练",
@@ -1336,14 +1360,6 @@
       "word": "3分钟告诉你万物皆可链",
       "onboard_time": 1686316349,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48547,
-      "num": 230229,
-      "word": "男子偶遇20年前恩人医生下跪感谢",
-      "onboard_time": 1686376825,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
