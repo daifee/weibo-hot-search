@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686388539639,
+  "endTime": 1686389612563,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -163,20 +163,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1148318,
+      "num": 1148318,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1093648,
       "num": 450780,
       "word": "男子性侵13岁女孩被判4年赔2万",
       "onboard_time": 1686361114,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1071103,
-      "num": 1071103,
-      "word": "邪剑仙根本吸不完",
-      "onboard_time": 1686381992,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 1026596,
@@ -203,12 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947398,
+      "num": 947398,
+      "word": "肖战出现在母校晚会宣传片",
+      "onboard_time": 1686386727,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 947342,
       "num": 947342,
       "word": "是淀粉 之前被RNG卡合同了",
       "onboard_time": 1686383370,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 904451,
+      "num": 904451,
+      "word": "奔跑吧泰国路透",
+      "onboard_time": 1686385886,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 870618,
@@ -219,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 864410,
-      "num": 864410,
+      "raw_hot": 864943,
+      "num": 864943,
       "word": "大学生高考考点卖花反亏一千",
       "onboard_time": 1686375567,
       "rank": 12,
@@ -307,22 +323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 689013,
-      "num": 689013,
-      "word": "肖战出现在母校晚会宣传片",
-      "onboard_time": 1686386727,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 683773,
-      "num": 683773,
-      "word": "奔跑吧泰国路透",
-      "onboard_time": 1686385886,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 637320,
       "num": 637320,
       "word": "Amber又是第一",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582855,
+      "num": 582855,
+      "word": "王子奇王玉雯黑白配走红毯",
+      "onboard_time": 1686387447,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559009,
       "num": 559009,
       "word": "长沙一公司取消了所有的调休",
@@ -368,6 +376,14 @@
       "word": "陶昕然好像安陵容翻身了",
       "onboard_time": 1686354756,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 534285,
+      "num": 534285,
+      "word": "张艺凡 小天鹅",
+      "onboard_time": 1686387328,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -385,14 +401,6 @@
       "onboard_time": 1686363284,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508118,
-      "num": 508118,
-      "word": "王子奇王玉雯黑白配走红毯",
-      "onboard_time": 1686387447,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 503531,
@@ -451,6 +459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 448543,
+      "num": 448543,
+      "word": "陈都灵连帽露腰黑裙",
+      "onboard_time": 1686387087,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 435374,
       "num": 435374,
       "word": "注册不了张z被曝专业是新闻传播",
@@ -507,12 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381587,
-      "num": 381587,
-      "word": "陈都灵连帽露腰黑裙",
-      "onboard_time": 1686387087,
-      "rank": 16,
-      "category": "作品衍生,时尚"
+      "raw_hot": 380877,
+      "num": 369038,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 377536,
@@ -537,6 +553,14 @@
       "onboard_time": 1686376944,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364136,
+      "num": 364136,
+      "word": "贺峻霖红毯生图",
+      "onboard_time": 1686388348,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 360052,
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317541,
-      "num": 317541,
-      "word": "张艺凡 小天鹅",
-      "onboard_time": 1686387328,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 316911,
       "num": 267288,
       "word": "中午睡午觉不是全国统一的吗",
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305564,
+      "num": 305564,
+      "word": "王一博转签名笔",
+      "onboard_time": 1686389008,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303729,
       "num": 303729,
       "word": "白鹿你不热吗",
@@ -680,6 +704,14 @@
       "word": "宫崎骏 选女孩做故事主角",
       "onboard_time": 1686367529,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297238,
+      "num": 297238,
+      "word": "在微博电影之夜捡CP",
+      "onboard_time": 1686389247,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -739,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274000,
+      "num": 274000,
+      "word": "养了一只小狗 精神上它在养我",
+      "onboard_time": 1686385766,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273797,
       "num": 273797,
       "word": "肖战肖春生微指数破亿",
@@ -787,20 +827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264146,
-      "num": 264146,
-      "word": "养了一只小狗 精神上它在养我",
-      "onboard_time": 1686385766,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 263111,
       "num": 263111,
       "word": "下个路口见好女团",
       "onboard_time": 1686378987,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262996,
+      "num": 266580,
+      "word": "王鹤棣异域小王子",
+      "onboard_time": 1686387928,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 259294,
@@ -835,11 +875,11 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 246190,
-      "num": 246190,
-      "word": "陈都灵 黑色头巾",
-      "onboard_time": 1686388348,
-      "rank": 36,
+      "raw_hot": 246468,
+      "num": 246468,
+      "word": "承欢记",
+      "onboard_time": 1686388648,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -955,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219336,
+      "num": 219336,
+      "word": "山东地理 无从下笔",
+      "onboard_time": 1686389488,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 219157,
       "num": 219157,
       "word": "吴磊叫胡老师胡歌的表情",
@@ -1019,20 +1067,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212996,
+      "num": 212996,
+      "word": "不奇而玉",
+      "onboard_time": 1686388827,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212030,
+      "num": 212030,
+      "word": "于文文大理石公主",
+      "onboard_time": 1686389008,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210872,
       "num": 210872,
       "word": "鼠头鸭脖学校门口大量学生取外卖",
       "onboard_time": 1686313709,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209642,
-      "num": 209642,
-      "word": "王鹤棣异域小王子",
-      "onboard_time": 1686387928,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 209017,
@@ -1139,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194827,
+      "num": 194827,
+      "word": "汪苏泷签名大帅哥2.0",
+      "onboard_time": 1686388768,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192650,
       "num": 192650,
       "word": "将军舞台",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1686379046,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189511,
-      "num": 189511,
-      "word": "贺峻霖红毯生图",
-      "onboard_time": 1686388348,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 189025,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1686361595,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "逢人就诉苦的毛病要改",
+      "onboard_time": 1686389369,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 186478,
@@ -1292,7 +1356,7 @@
     },
     {
       "raw_hot": 172743,
-      "num": 279687,
+      "num": 280562,
       "word": "奶奶给高考结束的孙子送花",
       "onboard_time": 1686386786,
       "rank": 29,
@@ -1435,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151881,
+      "num": 151881,
+      "word": "跟妈妈一起做同事是啥体验",
+      "onboard_time": 1686387807,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148417,
       "num": 148417,
       "word": "擎天柱流浪地球",
@@ -1497,14 +1569,6 @@
       "onboard_time": 1686343933,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139288,
-      "num": 139288,
-      "word": "跟妈妈一起做同事是啥体验",
-      "onboard_time": 1686387807,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 137259,
@@ -1747,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63369,
+      "num": 543906,
+      "word": "众人抬车救左脚被压的小学女生",
+      "onboard_time": 1686387868,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54408,
       "num": 52527,
       "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
@@ -1795,16 +1867,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34895,
-      "num": 516991,
-      "word": "众人抬车救左脚被压的小学女生",
-      "onboard_time": 1686387868,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29125,
-      "num": 1211644,
+      "raw_hot": 36481,
+      "num": 1306639,
       "word": "高质量发展调研行",
       "onboard_time": 1686387328,
       "rank": 2,
@@ -1861,6 +1925,9 @@
     },
     {
       "word": "#守护文化遗产赓续文明血脉#"
+    },
+    {
+      "word": "#文化和自然遗产冷知识#"
     }
   ]
 }

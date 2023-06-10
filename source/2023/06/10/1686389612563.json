@@ -1,0 +1,410 @@
+{
+  "runTime": 1686389612563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1860779,
+        "num": 1860779,
+        "word": "如何跟路人解释Uzi加入EDG",
+        "onboard_time": 1686386127,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1513625,
+        "num": 1513625,
+        "word": "EDG官宣签约Uzi",
+        "onboard_time": 1686380789,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36481,
+        "num": 1306639,
+        "word": "高质量发展调研行",
+        "onboard_time": 1686387328,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148318,
+        "num": 1148318,
+        "word": "邪剑仙根本吸不完",
+        "onboard_time": 1686381992,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 947398,
+        "num": 947398,
+        "word": "肖战出现在母校晚会宣传片",
+        "onboard_time": 1686386727,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 947341,
+        "num": 947341,
+        "word": "虞书欣Jennie有好多同款",
+        "onboard_time": 1686383491,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 924304,
+        "num": 924304,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1686382771,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 904451,
+        "num": 904451,
+        "word": "奔跑吧泰国路透",
+        "onboard_time": 1686385886,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 867301,
+        "num": 867301,
+        "word": "胖东来荔枝打开全是虫子",
+        "onboard_time": 1686377546,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864943,
+        "num": 864943,
+        "word": "大学生高考考点卖花反亏一千",
+        "onboard_time": 1686375567,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 676002,
+        "num": 676002,
+        "word": "将军Ella居然不是第一",
+        "onboard_time": 1686374367,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582855,
+        "num": 582855,
+        "word": "王子奇王玉雯黑白配走红毯",
+        "onboard_time": 1686387447,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569388,
+        "num": 569388,
+        "word": "是淀粉 之前被RNG卡合同了",
+        "onboard_time": 1686383370,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 556929,
+        "num": 556929,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63369,
+        "num": 543906,
+        "word": "众人抬车救左脚被压的小学女生",
+        "onboard_time": 1686387868,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534285,
+        "num": 534285,
+        "word": "张艺凡 小天鹅",
+        "onboard_time": 1686387328,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510864,
+        "num": 510864,
+        "word": "杨洋 北外",
+        "onboard_time": 1686371685,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464223,
+        "num": 464223,
+        "word": "梅西到北京了",
+        "onboard_time": 1686364000,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448543,
+        "num": 448543,
+        "word": "陈都灵连帽露腰黑裙",
+        "onboard_time": 1686387087,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369588,
+        "num": 369588,
+        "word": "牵手门女主疑5个月支出43万",
+        "onboard_time": 1686365007,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380877,
+        "num": 369038,
+        "word": "陈都灵 黑色头巾",
+        "onboard_time": 1686388348,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364136,
+        "num": 364136,
+        "word": "贺峻霖红毯生图",
+        "onboard_time": 1686388348,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357266,
+        "num": 357266,
+        "word": "千万不要用酒精清洁电脑屏幕",
+        "onboard_time": 1686373827,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345321,
+        "num": 345321,
+        "word": "注册不了张z",
+        "onboard_time": 1686385648,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324817,
+        "num": 324817,
+        "word": "男子性侵13岁女孩被判4年赔2万",
+        "onboard_time": 1686361114,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312253,
+        "num": 312253,
+        "word": "梅西酒店",
+        "onboard_time": 1686382412,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311273,
+        "num": 311273,
+        "word": "Uzi和Meiko再搭档",
+        "onboard_time": 1686381812,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305564,
+        "num": 305564,
+        "word": "王一博转签名笔",
+        "onboard_time": 1686389008,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297238,
+        "num": 297238,
+        "word": "在微博电影之夜捡CP",
+        "onboard_time": 1686389247,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153022,
+        "num": 280562,
+        "word": "奶奶给高考结束的孙子送花",
+        "onboard_time": 1686386786,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274000,
+        "num": 274000,
+        "word": "养了一只小狗 精神上它在养我",
+        "onboard_time": 1686385766,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271278,
+        "num": 271278,
+        "word": "牵手门",
+        "onboard_time": 1686372526,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268200,
+        "num": 268200,
+        "word": "女明星工作室出图",
+        "onboard_time": 1686387328,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262996,
+        "num": 266580,
+        "word": "王鹤棣异域小王子",
+        "onboard_time": 1686387928,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266305,
+        "num": 266305,
+        "word": "杰克辣条疑扬言开红房间直播",
+        "onboard_time": 1686386669,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251853,
+        "num": 251853,
+        "word": "千万别和好闺蜜睡一张床",
+        "onboard_time": 1686367047,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 251790,
+        "num": 251790,
+        "word": "Amber又是第一",
+        "onboard_time": 1686370886,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246468,
+        "num": 246468,
+        "word": "承欢记",
+        "onboard_time": 1686388648,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243351,
+        "num": 243351,
+        "word": "跑男",
+        "onboard_time": 1686385526,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240371,
+        "num": 240371,
+        "word": "梅西签证",
+        "onboard_time": 1686379588,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229611,
+        "num": 229611,
+        "word": "陈鑫海怒怼辱国旅客",
+        "onboard_time": 1686363883,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226344,
+        "num": 226344,
+        "word": "Uzi时隔374天重返LPL",
+        "onboard_time": 1686382291,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225695,
+        "num": 225695,
+        "word": "LPL006号选手Uzi重新连接",
+        "onboard_time": 1686381330,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219336,
+        "num": 219336,
+        "word": "山东地理 无从下笔",
+        "onboard_time": 1686389488,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 212996,
+        "num": 212996,
+        "word": "不奇而玉",
+        "onboard_time": 1686388827,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212030,
+        "num": 212030,
+        "word": "于文文大理石公主",
+        "onboard_time": 1686389008,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194827,
+        "num": 194827,
+        "word": "汪苏泷签名大帅哥2.0",
+        "onboard_time": 1686388768,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187033,
+        "num": 187033,
+        "word": "逢人就诉苦的毛病要改",
+        "onboard_time": 1686389369,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 170094,
+        "num": 170094,
+        "word": "吴磊叫胡老师胡歌的表情",
+        "onboard_time": 1686383251,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151881,
+        "num": 151881,
+        "word": "跟妈妈一起做同事是啥体验",
+        "onboard_time": 1686387807,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化和自然遗产冷知识#"
+    }
+  }
+}
