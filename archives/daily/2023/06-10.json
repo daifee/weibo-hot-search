@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686374146408,
+  "endTime": 1686375223191,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2153690,
-      "num": 2153690,
+      "raw_hot": 2337751,
+      "num": 2337751,
       "word": "杨洋 北外",
       "onboard_time": 1686371685,
       "rank": 0,
@@ -57,6 +57,14 @@
       "onboard_time": 1686315929,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1451897,
+      "num": 781227,
+      "word": "牵手门",
+      "onboard_time": 1686372526,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1423263,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 943459,
+      "num": 943459,
+      "word": "将军Ella居然不是第一",
+      "onboard_time": 1686374367,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 870618,
       "num": 870618,
       "word": "188大帅哥倒地好长一条",
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758042,
-      "num": 758042,
-      "word": "牵手门",
-      "onboard_time": 1686372526,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 749222,
       "num": 749222,
       "word": "美国亚裔高考接近满分被六大名校拒绝",
@@ -219,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 637320,
+      "num": 637320,
+      "word": "Amber又是第一",
+      "onboard_time": 1686370886,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629946,
       "num": 141224,
       "word": "杨幂私服",
@@ -233,14 +249,6 @@
       "onboard_time": 1686362008,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581901,
-      "num": 581901,
-      "word": "Amber又是第一",
-      "onboard_time": 1686370886,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 559009,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336879,
+      "num": 336879,
+      "word": "山东生物",
+      "onboard_time": 1686373287,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 335182,
       "num": 335182,
       "word": "舒淇 白客",
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270472,
+      "num": 252656,
+      "word": "千万不要用酒精清洁电脑屏幕",
+      "onboard_time": 1686373827,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267459,
       "num": 267459,
       "word": "掘金vs热火",
@@ -513,14 +537,6 @@
       "onboard_time": 1686313047,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262267,
-      "num": 262267,
-      "word": "山东生物",
-      "onboard_time": 1686373287,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259294,
@@ -595,6 +611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 227999,
+      "num": 202406,
+      "word": "人民网评梦中的那片海",
+      "onboard_time": 1686374607,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226620,
       "num": 226620,
       "word": "孟美岐 玉龙县文旅局",
@@ -617,6 +641,14 @@
       "onboard_time": 1686357808,
       "rank": 27,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 218586,
+      "num": 218586,
+      "word": "朱一龙为朱珠打call",
+      "onboard_time": 1686374367,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 217218,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207631,
+      "num": 207631,
+      "word": "成年人还在为周边喝奶茶",
+      "onboard_time": 1686373726,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 207304,
       "num": 207304,
       "word": "欧冠决赛",
@@ -723,20 +763,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192650,
+      "num": 192650,
+      "word": "将军舞台",
+      "onboard_time": 1686374206,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189025,
+      "num": 189025,
+      "word": "吴京接谢楠下班回家",
+      "onboard_time": 1686374367,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187591,
+      "num": 187591,
+      "word": "高铁晚点",
+      "onboard_time": 1686369168,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187586,
       "num": 187586,
       "word": "华晨宇 鸟巢演唱会",
       "onboard_time": 1686361595,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187049,
-      "num": 187049,
-      "word": "高铁晚点",
-      "onboard_time": 1686369168,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186478,
@@ -843,22 +899,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 160622,
-      "num": 160622,
-      "word": "成年人还在为周边喝奶茶",
-      "onboard_time": 1686373726,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 159274,
-      "num": 159274,
-      "word": "千万不要用酒精清洁电脑屏幕",
-      "onboard_time": 1686373827,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158189,
       "num": 158189,
       "word": "你给我的喜欢",
@@ -913,6 +953,14 @@
       "onboard_time": 1686368447,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148154,
+      "num": 148154,
+      "word": "网剧独家童话",
+      "onboard_time": 1686374488,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 147075,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1686353722,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117938,
+      "num": 117938,
+      "word": "家长校门口拉横幅庆祝孩子高考结束",
+      "onboard_time": 1686375149,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 116432,
