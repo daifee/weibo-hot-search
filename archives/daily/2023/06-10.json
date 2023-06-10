@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686371602516,
+  "endTime": 1686374146408,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -9,6 +9,22 @@
       "onboard_time": 1686324870,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2153690,
+      "num": 2153690,
+      "word": "杨洋 北外",
+      "onboard_time": 1686371685,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1810436,
+      "num": 919308,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1682616,
@@ -49,14 +65,6 @@
       "onboard_time": 1686321691,
       "rank": 20,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1383404,
-      "num": 919308,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1339118,
@@ -155,8 +163,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 793839,
-      "num": 793839,
+      "raw_hot": 804366,
+      "num": 804366,
       "word": "谁能拒绝情绪稳定的年下男",
       "onboard_time": 1686368126,
       "rank": 8,
@@ -168,6 +176,14 @@
       "word": "婴儿接种证被盖死亡证明专用章",
       "onboard_time": 1686315090,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758042,
+      "num": 758042,
+      "word": "牵手门",
+      "onboard_time": 1686372526,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1686362008,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581901,
+      "num": 581901,
+      "word": "Amber又是第一",
+      "onboard_time": 1686370886,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 559009,
@@ -355,6 +379,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 338314,
+      "num": 338314,
+      "word": "张大大妖娆的动作不像演的",
+      "onboard_time": 1686373406,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335182,
       "num": 335182,
       "word": "舒淇 白客",
@@ -451,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273793,
-      "num": 273793,
-      "word": "Amber又是第一",
-      "onboard_time": 1686370886,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271633,
       "num": 271633,
       "word": "蔡英文与台空军通话疑似传出我是中国空军",
@@ -489,6 +513,14 @@
       "onboard_time": 1686313047,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262267,
+      "num": 262267,
+      "word": "山东生物",
+      "onboard_time": 1686373287,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259294,
@@ -553,6 +585,14 @@
       "onboard_time": 1686326427,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228134,
+      "num": 228134,
+      "word": "斗罗大陆大结局",
+      "onboard_time": 1686366566,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 226620,
@@ -643,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205454,
+      "num": 205454,
+      "word": "黄奕竟然能和张伟丽缠斗一分钟",
+      "onboard_time": 1686369884,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202259,
       "num": 202259,
       "word": "高考生感觉考砸公交司机安慰半小时",
@@ -657,14 +705,6 @@
       "onboard_time": 1686322713,
       "rank": 30,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 198850,
-      "num": 198850,
-      "word": "斗罗大陆大结局",
-      "onboard_time": 1686366566,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 196728,
@@ -691,6 +731,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187049,
+      "num": 187049,
+      "word": "高铁晚点",
+      "onboard_time": 1686369168,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "刘芮麟演的叶国华无法原谅",
+      "onboard_time": 1686372048,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185242,
       "num": 185242,
       "word": "宁静问尹浩宇你在中国那么不火吗",
@@ -713,6 +769,14 @@
       "onboard_time": 1686366566,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176245,
+      "num": 176245,
+      "word": "不虚此行",
+      "onboard_time": 1686372689,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 175844,
@@ -747,16 +811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169630,
-      "num": 169630,
-      "word": "高铁晚点",
-      "onboard_time": 1686369168,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169217,
-      "num": 1131515,
+      "num": 1208817,
       "word": "你可以永远相信中国美学",
       "onboard_time": 1686360327,
       "rank": 48,
@@ -779,20 +835,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162500,
-      "num": 162500,
-      "word": "黄奕竟然能和张伟丽缠斗一分钟",
-      "onboard_time": 1686369884,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162288,
       "num": 162288,
       "word": "高考",
       "onboard_time": 1686369648,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 160622,
+      "num": 160622,
+      "word": "成年人还在为周边喝奶茶",
+      "onboard_time": 1686373726,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 159274,
+      "num": 159274,
+      "word": "千万不要用酒精清洁电脑屏幕",
+      "onboard_time": 1686373827,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158189,
@@ -1167,6 +1231,9 @@
     },
     {
       "word": "#要把官兵冷暖放在心上#"
+    },
+    {
+      "word": "#努力锻造卫国戍边钢铁长城#"
     }
   ]
 }

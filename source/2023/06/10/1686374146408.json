@@ -1,0 +1,410 @@
+{
+  "runTime": 1686374146408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2153690,
+        "num": 2153690,
+        "word": "杨洋 北外",
+        "onboard_time": 1686371685,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1267064,
+        "num": 1267064,
+        "word": "大学摘10万斤荔枝请全校免费吃",
+        "onboard_time": 1686364364,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153613,
+        "num": 1208817,
+        "word": "你可以永远相信中国美学",
+        "onboard_time": 1686360327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177775,
+        "num": 1177775,
+        "word": "梅西到北京了",
+        "onboard_time": 1686364000,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804366,
+        "num": 804366,
+        "word": "谁能拒绝情绪稳定的年下男",
+        "onboard_time": 1686368126,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758042,
+        "num": 758042,
+        "word": "牵手门",
+        "onboard_time": 1686372526,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692806,
+        "num": 692806,
+        "word": "Jennie 复仇者联盟5",
+        "onboard_time": 1686360156,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663897,
+        "num": 663897,
+        "word": "老人突发脑梗发现医生隐瞒未植入支架",
+        "onboard_time": 1686357086,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616505,
+        "num": 616505,
+        "word": "陈鑫海怒怼辱国旅客",
+        "onboard_time": 1686363883,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581901,
+        "num": 581901,
+        "word": "Amber又是第一",
+        "onboard_time": 1686370886,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1810436,
+        "num": 564847,
+        "word": "牵手门女主疑5个月支出43万",
+        "onboard_time": 1686365007,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522941,
+        "num": 522941,
+        "word": "TheShy阿水Rookie去露营了",
+        "onboard_time": 1686368368,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 408776,
+        "num": 408776,
+        "word": "免职裙不到半天卖出2000多条",
+        "onboard_time": 1686352280,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382765,
+        "num": 382765,
+        "word": "陶昕然好像安陵容翻身了",
+        "onboard_time": 1686354756,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338314,
+        "num": 338314,
+        "word": "张大大妖娆的动作不像演的",
+        "onboard_time": 1686373406,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314170,
+        "num": 314170,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310842,
+        "num": 310842,
+        "word": "奔跑吧下期预告有白鹿张凌赫",
+        "onboard_time": 1686363284,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294533,
+        "num": 294533,
+        "word": "188大帅哥倒地好长一条",
+        "onboard_time": 1686358887,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293891,
+        "num": 293891,
+        "word": "袁冰妍涂山雅雅定妆造型视频",
+        "onboard_time": 1686354082,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262267,
+        "num": 262267,
+        "word": "山东生物",
+        "onboard_time": 1686373287,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 920026,
+        "num": 260401,
+        "word": "男子性侵13岁女孩被判4年赔2万",
+        "onboard_time": 1686361114,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453217,
+        "num": 260147,
+        "word": "千万别和好闺蜜睡一张床",
+        "onboard_time": 1686367047,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 264493,
+        "num": 254967,
+        "word": "何瑞贤新剧吻戏好多",
+        "onboard_time": 1686369287,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243465,
+        "num": 243465,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230407,
+        "num": 230407,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1686315929,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228134,
+        "num": 228134,
+        "word": "斗罗大陆大结局",
+        "onboard_time": 1686366566,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 227870,
+        "num": 227870,
+        "word": "leave女友发文",
+        "onboard_time": 1686363807,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216962,
+        "num": 216962,
+        "word": "娜扎说人家巴不得跟我结婚",
+        "onboard_time": 1686354281,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211068,
+        "num": 211068,
+        "word": "陈凯歌推朱一龙拉朱亚文拽黄晓明",
+        "onboard_time": 1686358119,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205454,
+        "num": 205454,
+        "word": "黄奕竟然能和张伟丽缠斗一分钟",
+        "onboard_time": 1686369884,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195618,
+        "num": 195618,
+        "word": "三公",
+        "onboard_time": 1686370488,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189209,
+        "num": 189209,
+        "word": "霍尊前女友涉嫌敲诈勒索案已移交检察院",
+        "onboard_time": 1686321691,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 187049,
+        "num": 187049,
+        "word": "高铁晚点",
+        "onboard_time": 1686369168,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186478,
+        "num": 186478,
+        "word": "刘芮麟演的叶国华无法原谅",
+        "onboard_time": 1686372048,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182932,
+        "num": 182932,
+        "word": "NBA总决赛",
+        "onboard_time": 1686365083,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176245,
+        "num": 176245,
+        "word": "不虚此行",
+        "onboard_time": 1686372689,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176234,
+        "num": 176234,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172902,
+        "num": 172902,
+        "word": "抑郁女生带患癌爷爷游中国相互治愈",
+        "onboard_time": 1686352158,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172250,
+        "num": 172250,
+        "word": "高考生物",
+        "onboard_time": 1686370287,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165303,
+        "num": 165303,
+        "word": "宫崎骏 选女孩做故事主角",
+        "onboard_time": 1686367529,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163328,
+        "num": 163328,
+        "word": "王鹤棣奔跑吧录制愿望是撕名牌",
+        "onboard_time": 1686365247,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160622,
+        "num": 160622,
+        "word": "成年人还在为周边喝奶茶",
+        "onboard_time": 1686373726,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159274,
+        "num": 159274,
+        "word": "千万不要用酒精清洁电脑屏幕",
+        "onboard_time": 1686373827,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152266,
+        "num": 152266,
+        "word": "陈露 王萌",
+        "onboard_time": 1686324870,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 147618,
+        "num": 147618,
+        "word": "蔡英文与台空军通话疑似传出我是中国空军",
+        "onboard_time": 1686366648,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136979,
+        "num": 136979,
+        "word": "李沁认证肖春生社牛",
+        "onboard_time": 1686367971,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136424,
+        "num": 136424,
+        "word": "斗罗大陆",
+        "onboard_time": 1686364244,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129480,
+        "num": 129480,
+        "word": "刘耀文张真源验证成功",
+        "onboard_time": 1686368447,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124316,
+        "num": 129452,
+        "word": "以为便宜却贵得离谱的东西",
+        "onboard_time": 1686359316,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113476,
+        "num": 129365,
+        "word": "男子自曝村副书记妻子出轨书记",
+        "onboard_time": 1686362008,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力锻造卫国戍边钢铁长城#"
+    }
+  }
+}
