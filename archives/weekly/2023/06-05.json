@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686382411829,
+  "endTime": 1686385159577,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1979,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947342,
+      "num": 947342,
+      "word": "是淀粉 之前被RNG卡合同了",
+      "onboard_time": 1686383370,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 947218,
       "num": 947218,
       "word": "LBL官宣uzi离队",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1686283352,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 888670,
+      "num": 888670,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1686382771,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 879069,
@@ -2339,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814415,
+      "num": 814415,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 812983,
       "num": 812983,
       "word": "南昌市监局已介入高校食堂老鼠事件",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1686214296,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 789637,
+      "num": 789637,
+      "word": "虞书欣Jennie有好多同款",
+      "onboard_time": 1686383491,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 778201,
@@ -3316,7 +3348,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 277762,
+      "num": 302901,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -3913,6 +3945,14 @@
       "onboard_time": 1686305309,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423650,
+      "num": 423650,
+      "word": "Uzi时隔374天重返LPL",
+      "onboard_time": 1686382291,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 423100,
@@ -4755,6 +4795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 340799,
+      "num": 304328,
+      "word": "梅西酒店",
+      "onboard_time": 1686382412,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338936,
       "num": 338936,
       "word": "迪丽热巴说安旎得继续努力啊",
@@ -5192,6 +5240,14 @@
       "word": "照相馆学徒冒死留下南京大屠杀证据",
       "onboard_time": 1686327625,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305646,
+      "num": 305646,
+      "word": "胖东来回应顾客买荔枝吃出虫子",
+      "onboard_time": 1686380248,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6099,14 +6155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261109,
-      "num": 261109,
-      "word": "胖东来回应顾客买荔枝吃出虫子",
-      "onboard_time": 1686380248,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260084,
       "num": 260084,
       "word": "杨天真谈高考错失保送北大",
@@ -6827,6 +6875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238650,
+      "num": 238650,
+      "word": "RNG对战OMG",
+      "onboard_time": 1686383010,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238567,
       "num": 238567,
       "word": "老师攒高三生2千空笔芯做梦想之舟",
@@ -7515,6 +7571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219157,
+      "num": 219157,
+      "word": "吴磊叫胡老师胡歌的表情",
+      "onboard_time": 1686383251,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218898,
       "num": 218898,
       "word": "薛之谦宜昌",
@@ -7955,6 +8019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207020,
+      "num": 207020,
+      "word": "Uzi永远的神",
+      "onboard_time": 1686382231,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207006,
       "num": 207006,
       "word": "AL战胜TT",
@@ -8091,6 +8163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204259,
+      "num": 204259,
+      "word": "肖春生被佟晓梅拿捏",
+      "onboard_time": 1686383314,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204257,
       "num": 204257,
       "word": "高三最后一课学生为老师送惊喜",
@@ -8121,14 +8201,6 @@
       "onboard_time": 1686011371,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203494,
-      "num": 203494,
-      "word": "Uzi时隔374天重返LPL",
-      "onboard_time": 1686382291,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 203334,
@@ -9195,6 +9267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 182474,
+      "num": 182474,
+      "word": "肖春生你怎么能瞎说呢",
+      "onboard_time": 1686384750,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182316,
       "num": 182316,
       "word": "王宝强新片选山区孩子当主角",
@@ -9281,14 +9361,6 @@
       "onboard_time": 1686298109,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180060,
-      "num": 180060,
-      "word": "邪剑仙根本吸不完",
-      "onboard_time": 1686381992,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 180041,
@@ -9601,6 +9673,14 @@
       "onboard_time": 1685966666,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174125,
+      "num": 174125,
+      "word": "闪耀暖暖打歌服",
+      "onboard_time": 1686384268,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 174021,
@@ -10531,6 +10611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152114,
+      "num": 152114,
+      "word": "吴倩美依礼芽亲亲",
+      "onboard_time": 1686382531,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151937,
       "num": 151937,
       "word": "苹果Vision Pro梗图",
@@ -10617,6 +10705,14 @@
       "onboard_time": 1686281672,
       "rank": 47,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 148417,
+      "num": 148417,
+      "word": "擎天柱流浪地球",
+      "onboard_time": 1686383549,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 148235,
@@ -10809,6 +10905,14 @@
       "onboard_time": 1686350236,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142959,
+      "num": 142959,
+      "word": "肖奈重回校园",
+      "onboard_time": 1686382472,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142818,
@@ -11177,6 +11281,14 @@
       "onboard_time": 1685895567,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131571,
+      "num": 131571,
+      "word": "阿根廷中国行",
+      "onboard_time": 1686385107,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131153,
@@ -12985,6 +13097,14 @@
       "onboard_time": 1686128439,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 22021,
+      "num": 432235,
+      "word": "孙千冷感美女",
+      "onboard_time": 1686384028,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 21565,
