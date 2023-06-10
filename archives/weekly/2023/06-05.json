@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686386014823,
+  "endTime": 1686388539639,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -633,6 +633,14 @@
       "onboard_time": 1686150274,
       "rank": 13,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1990264,
+      "num": 1990264,
+      "word": "如何跟路人解释Uzi加入EDG",
+      "onboard_time": 1686386127,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1989010,
@@ -1715,20 +1723,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1071103,
+      "num": 1071103,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1061459,
       "num": 1061459,
       "word": "胡继勇",
       "onboard_time": 1686114339,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060535,
-      "num": 1060535,
-      "word": "邪剑仙根本吸不完",
-      "onboard_time": 1686381992,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 1053947,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1686006141,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 982142,
+      "num": 982142,
+      "word": "虞书欣Jennie有好多同款",
+      "onboard_time": 1686383491,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 976003,
@@ -2147,14 +2163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 886285,
-      "num": 886285,
-      "word": "虞书欣Jennie有好多同款",
-      "onboard_time": 1686383491,
-      "rank": 7,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 879069,
       "num": 879069,
       "word": "有刘海的刘浩存",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1686048509,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 864410,
+      "num": 864410,
+      "word": "大学生高考考点卖花反亏一千",
+      "onboard_time": 1686375567,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 864404,
@@ -2787,14 +2803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 708739,
-      "num": 708739,
-      "word": "大学生高考考点卖花反亏一千",
-      "onboard_time": 1686375567,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 708025,
       "num": 708025,
       "word": "汤晶媚任敏我们和好啦",
@@ -2851,6 +2859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 689013,
+      "num": 689013,
+      "word": "肖战出现在母校晚会宣传片",
+      "onboard_time": 1686386727,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685055,
       "num": 685055,
       "word": "于晓光机场给秋瓷炫送花",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1685979748,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 683773,
+      "num": 683773,
+      "word": "奔跑吧泰国路透",
+      "onboard_time": 1686385886,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 682226,
@@ -3348,7 +3372,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 351710,
+      "num": 364974,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1686196778,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508118,
+      "num": 508118,
+      "word": "王子奇王玉雯黑白配走红毯",
+      "onboard_time": 1686387447,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 505985,
@@ -4315,6 +4347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 381587,
+      "num": 381587,
+      "word": "陈都灵连帽露腰黑裙",
+      "onboard_time": 1686387087,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 381363,
       "num": 381363,
       "word": "北京租房提取公积金上限调整为2000元",
@@ -4747,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346666,
+      "num": 346666,
+      "word": "女明星工作室出图",
+      "onboard_time": 1686387328,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
@@ -4971,14 +5019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 326056,
-      "num": 326056,
-      "word": "奔跑吧泰国路透",
-      "onboard_time": 1686385886,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325704,
       "num": 325704,
       "word": "宿舍混住导致女孩被羞辱已轻生",
@@ -5048,6 +5088,14 @@
       "word": "肖战说希望肖春生没有让爸爸失望",
       "onboard_time": 1686315450,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317541,
+      "num": 317541,
+      "word": "张艺凡 小天鹅",
+      "onboard_time": 1686387328,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -6003,6 +6051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270129,
+      "num": 270129,
+      "word": "杰克辣条疑扬言开红房间直播",
+      "onboard_time": 1686386669,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269798,
       "num": 269798,
       "word": "因为名字太好听被公司录用",
@@ -6105,6 +6161,14 @@
       "onboard_time": 1685957068,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264146,
+      "num": 264146,
+      "word": "养了一只小狗 精神上它在养我",
+      "onboard_time": 1686385766,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 263751,
@@ -6617,6 +6681,14 @@
       "onboard_time": 1686209554,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 246190,
+      "num": 246190,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 246116,
@@ -7939,6 +8011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 209642,
+      "num": 209642,
+      "word": "王鹤棣异域小王子",
+      "onboard_time": 1686387928,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209633,
       "num": 209633,
       "word": "光与夜之恋直播",
@@ -8073,14 +8153,6 @@
       "onboard_time": 1686299310,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206801,
-      "num": 206801,
-      "word": "养了一只小狗 精神上它在养我",
-      "onboard_time": 1686385766,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 206467,
@@ -8963,6 +9035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189511,
+      "num": 189511,
+      "word": "贺峻霖红毯生图",
+      "onboard_time": 1686388348,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189453,
       "num": 189453,
       "word": "肖春生发量",
@@ -9777,6 +9857,14 @@
       "onboard_time": 1686377068,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172743,
+      "num": 279687,
+      "word": "奶奶给高考结束的孙子送花",
+      "onboard_time": 1686386786,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172623,
@@ -11089,6 +11177,14 @@
       "onboard_time": 1686343933,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139288,
+      "num": 139288,
+      "word": "跟妈妈一起做同事是啥体验",
+      "onboard_time": 1686387807,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 138617,
@@ -13019,6 +13115,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 34895,
+      "num": 516991,
+      "word": "众人抬车救左脚被压的小学女生",
+      "onboard_time": 1686387868,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34250,
       "num": 49817,
       "word": "上野千鹤子的回信",
@@ -13057,6 +13161,14 @@
       "onboard_time": 1686087793,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29125,
+      "num": 1211644,
+      "word": "高质量发展调研行",
+      "onboard_time": 1686387328,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28906,
@@ -13247,6 +13359,9 @@
     },
     {
       "word": "#努力锻造卫国戍边钢铁长城#"
+    },
+    {
+      "word": "#守护文化遗产赓续文明血脉#"
     }
   ]
 }
