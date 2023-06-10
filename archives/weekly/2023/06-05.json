@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686438968499,
+  "endTime": 1686440036194,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3483,6 +3483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581306,
+      "num": 581306,
+      "word": "珠峰被救女子不付救援费背后",
+      "onboard_time": 1686413310,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
@@ -3497,14 +3505,6 @@
       "onboard_time": 1686285273,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 578567,
-      "num": 578567,
-      "word": "珠峰被救女子不付救援费背后",
-      "onboard_time": 1686413310,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 569951,
@@ -4251,6 +4251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437425,
+      "num": 437425,
+      "word": "柯以敏直播奔溃大哭",
+      "onboard_time": 1686432313,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435374,
       "num": 435374,
       "word": "注册不了张z被曝专业是新闻传播",
@@ -4436,7 +4444,7 @@
     },
     {
       "raw_hot": 413371,
-      "num": 257223,
+      "num": 327014,
       "word": "大半个娱乐圈都在江苏吧",
       "onboard_time": 1686406051,
       "rank": 41,
@@ -5123,14 +5131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350980,
-      "num": 350980,
-      "word": "柯以敏直播奔溃大哭",
-      "onboard_time": 1686432313,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350869,
       "num": 350869,
       "word": "原来无痛针是这么打的",
@@ -5769,6 +5769,14 @@
       "onboard_time": 1686131979,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 307823,
+      "num": 307823,
+      "word": "肖战侯明昊郭俊辰7天涨粉",
+      "onboard_time": 1686438739,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307608,
@@ -8379,6 +8387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219356,
+      "num": 219356,
+      "word": "三星堆遗址再曝重磅消息",
+      "onboard_time": 1686438920,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219191,
       "num": 219191,
       "word": "五月天广州站审批通过",
@@ -8859,6 +8875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207871,
+      "num": 207871,
+      "word": "王一博大鹏送惊叹号",
+      "onboard_time": 1686439160,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207703,
       "num": 249967,
       "word": "高考超燃图鉴",
@@ -9025,14 +9049,6 @@
       "onboard_time": 1685977292,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 204503,
-      "num": 204503,
-      "word": "肖战侯明昊郭俊辰7天涨粉",
-      "onboard_time": 1686438739,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204385,
@@ -11595,6 +11611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152712,
+      "num": 152712,
+      "word": "高考后爸爸搬行李的统一姿势",
+      "onboard_time": 1686415645,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152347,
       "num": 152347,
       "word": "TES对战TT",
@@ -11931,6 +11955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142849,
+      "num": 142849,
+      "word": "曼城三冠王",
+      "onboard_time": 1686432313,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142818,
       "num": 142818,
       "word": "张嘉倪蕾丝打底",
@@ -11945,6 +11977,14 @@
       "onboard_time": 1686048570,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142751,
+      "num": 142751,
+      "word": "和谁相处最自然放松谁就最爱你",
+      "onboard_time": 1686438138,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 142747,
@@ -12315,6 +12355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131593,
+      "num": 131593,
+      "word": "朱一龙片场开沙滩摩托",
+      "onboard_time": 1686438977,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131153,
       "num": 131153,
       "word": "男子为考清华复读14年",
@@ -12459,6 +12507,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127195,
+      "num": 127195,
+      "word": "哈兰德",
+      "onboard_time": 1686438799,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126624,
+      "num": 126624,
+      "word": "女子称挂号等2小时医生一直打电话",
+      "onboard_time": 1686437596,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126493,
       "num": 149690,
       "word": "清华有个学生自己的修车摊",
@@ -12563,14 +12627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124170,
-      "num": 124170,
-      "word": "曼城三冠王",
-      "onboard_time": 1686432313,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124093,
       "num": 124093,
       "word": "吴京沈腾舒淇后台合照",
@@ -12641,14 +12697,6 @@
       "onboard_time": 1686047549,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121136,
-      "num": 121136,
-      "word": "三星堆遗址再曝重磅消息",
-      "onboard_time": 1686438920,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121108,
@@ -13187,6 +13235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100761,
+      "num": 100761,
+      "word": "全班把老师扔进水池寓意集体上岸",
+      "onboard_time": 1686438920,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 100474,
       "num": 100474,
       "word": "三冠王",
@@ -13307,6 +13363,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 95079,
+      "num": 95079,
+      "word": "115元的水电费要了3次",
+      "onboard_time": 1686438977,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94648,
       "num": 94648,
       "word": "WWDC2023",
@@ -13329,14 +13393,6 @@
       "onboard_time": 1686314188,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93122,
-      "num": 93122,
-      "word": "女子称挂号等2小时医生一直打电话",
-      "onboard_time": 1686437596,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92712,
@@ -13371,12 +13427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90677,
-      "num": 91597,
-      "word": "高考后爸爸搬行李的统一姿势",
-      "onboard_time": 1686415645,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 90537,
+      "num": 90537,
+      "word": "梅西只在北京出战",
+      "onboard_time": 1686428113,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 90376,
@@ -13547,14 +13603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80858,
-      "num": 80858,
-      "word": "梅西只在北京出战",
-      "onboard_time": 1686428113,
-      "rank": 44,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 80006,
       "num": 80006,
       "word": "watchOS 10 史努比表盘",
@@ -13569,14 +13617,6 @@
       "onboard_time": 1686042030,
       "rank": 14,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 78861,
-      "num": 78861,
-      "word": "和谁相处最自然放松谁就最爱你",
-      "onboard_time": 1686438138,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 78610,
@@ -13603,20 +13643,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 77867,
+      "num": 77867,
+      "word": "舒淇谢霆锋错位图",
+      "onboard_time": 1686435554,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76551,
       "num": 76551,
       "word": "做了几个月全职女儿后",
       "onboard_time": 1686180743,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74658,
-      "num": 74658,
-      "word": "全班把老师扔进水池寓意集体上岸",
-      "onboard_time": 1686438920,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 74623,
@@ -13728,6 +13768,14 @@
       "word": "我国成功发射一箭26星",
       "onboard_time": 1686143972,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69982,
+      "num": 69982,
+      "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+      "onboard_time": 1686439399,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13883,6 +13931,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 61169,
+      "num": 61169,
+      "word": "肖春生求生欲",
+      "onboard_time": 1686440002,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60021,
       "num": 471776,
       "word": "惠英红给张小斐当站姐",
@@ -13913,14 +13969,6 @@
       "onboard_time": 1686074415,
       "rank": 23,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 58393,
-      "num": 58393,
-      "word": "哈兰德",
-      "onboard_time": 1686438799,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 57912,
@@ -14257,14 +14305,6 @@
       "onboard_time": 1686159197,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33289,
-      "num": 33289,
-      "word": "舒淇谢霆锋错位图",
-      "onboard_time": 1686435554,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 32888,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686438968499,
+  "endTime": 1686440036194,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -115,19 +115,19 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 581306,
+      "num": 581306,
+      "word": "珠峰被救女子不付救援费背后",
+      "onboard_time": 1686413310,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
       "onboard_time": 1686409413,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578567,
-      "num": 578567,
-      "word": "珠峰被救女子不付救援费背后",
-      "onboard_time": 1686413310,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437425,
+      "num": 437425,
+      "word": "柯以敏直播奔溃大哭",
+      "onboard_time": 1686432313,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367161,
       "num": 367161,
       "word": "全靠周也的脸",
@@ -163,20 +171,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350980,
-      "num": 350980,
-      "word": "柯以敏直播奔溃大哭",
-      "onboard_time": 1686432313,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 339452,
       "num": 339452,
       "word": "Ella笑不出来",
       "onboard_time": 1686404191,
       "rank": 16,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 327014,
+      "num": 327014,
+      "word": "大半个娱乐圈都在江苏吧",
+      "onboard_time": 1686406051,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 307823,
+      "num": 307823,
+      "word": "肖战侯明昊郭俊辰7天涨粉",
+      "onboard_time": 1686438739,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307124,
@@ -227,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 277123,
-      "num": 257223,
-      "word": "大半个娱乐圈都在江苏吧",
-      "onboard_time": 1686406051,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265961,
       "num": 265961,
       "word": "Minnie录制奔跑吧造型",
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219356,
+      "num": 219356,
+      "word": "三星堆遗址再曝重磅消息",
+      "onboard_time": 1686438920,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214784,
       "num": 214784,
       "word": "团伙盗墓挖出龙袍网上售卖",
@@ -307,12 +323,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204503,
-      "num": 204503,
-      "word": "肖战侯明昊郭俊辰7天涨粉",
-      "onboard_time": 1686438739,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 207871,
+      "num": 207871,
+      "word": "王一博大鹏送惊叹号",
+      "onboard_time": 1686439160,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 202634,
@@ -395,12 +411,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152712,
+      "num": 152712,
+      "word": "高考后爸爸搬行李的统一姿势",
+      "onboard_time": 1686415645,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "熊孩子真的不分物种",
       "onboard_time": 1686410371,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147338,
+      "num": 147338,
+      "word": "我那么大一个马丽呢",
+      "onboard_time": 1686401671,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142849,
+      "num": 142849,
+      "word": "曼城三冠王",
+      "onboard_time": 1686432313,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142751,
+      "num": 142751,
+      "word": "和谁相处最自然放松谁就最爱你",
+      "onboard_time": 1686438138,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 139695,
@@ -435,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132903,
-      "num": 113264,
-      "word": "我那么大一个马丽呢",
-      "onboard_time": 1686401671,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132814,
       "num": 132814,
       "word": "EDG首发名单",
@@ -451,19 +491,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124170,
-      "num": 124170,
-      "word": "曼城三冠王",
-      "onboard_time": 1686432313,
-      "rank": 9,
+      "raw_hot": 131593,
+      "num": 131593,
+      "word": "朱一龙片场开沙滩摩托",
+      "onboard_time": 1686438977,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127195,
+      "num": 127195,
+      "word": "哈兰德",
+      "onboard_time": 1686438799,
+      "rank": 46,
       "category": "体育"
     },
     {
-      "raw_hot": 121136,
-      "num": 121136,
-      "word": "三星堆遗址再曝重磅消息",
-      "onboard_time": 1686438920,
-      "rank": 18,
+      "raw_hot": 126624,
+      "num": 126624,
+      "word": "女子称挂号等2小时医生一直打电话",
+      "onboard_time": 1686437596,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -491,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100761,
+      "num": 100761,
+      "word": "全班把老师扔进水池寓意集体上岸",
+      "onboard_time": 1686438920,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 100474,
       "num": 100474,
       "word": "三冠王",
@@ -507,20 +563,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93122,
-      "num": 93122,
-      "word": "女子称挂号等2小时医生一直打电话",
-      "onboard_time": 1686437596,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 95079,
+      "num": 95079,
+      "word": "115元的水电费要了3次",
+      "onboard_time": 1686438977,
+      "rank": 36,
+      "category": "幽默"
     },
     {
-      "raw_hot": 90677,
-      "num": 91597,
-      "word": "高考后爸爸搬行李的统一姿势",
-      "onboard_time": 1686415645,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 90537,
+      "num": 90537,
+      "word": "梅西只在北京出战",
+      "onboard_time": 1686428113,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 84488,
@@ -531,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80858,
-      "num": 80858,
-      "word": "梅西只在北京出战",
-      "onboard_time": 1686428113,
-      "rank": 44,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 80182,
       "num": 74796,
       "word": "邓超和王一博说了什么",
@@ -547,20 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78861,
-      "num": 78861,
-      "word": "和谁相处最自然放松谁就最爱你",
-      "onboard_time": 1686438138,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 74658,
-      "num": 74658,
-      "word": "全班把老师扔进水池寓意集体上岸",
-      "onboard_time": 1686438920,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 77867,
+      "num": 77867,
+      "word": "舒淇谢霆锋错位图",
+      "onboard_time": 1686435554,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 73302,
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69982,
+      "num": 69982,
+      "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+      "onboard_time": 1686439399,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62242,
       "num": 62242,
       "word": "张碧晨红毯状态",
@@ -587,12 +635,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58393,
-      "num": 58393,
-      "word": "哈兰德",
-      "onboard_time": 1686438799,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 61169,
+      "num": 61169,
+      "word": "肖春生求生欲",
+      "onboard_time": 1686440002,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 57912,
@@ -648,14 +696,6 @@
       "word": "蜘蛛侠",
       "onboard_time": 1686426493,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 33289,
-      "num": 33289,
-      "word": "舒淇谢霆锋错位图",
-      "onboard_time": 1686435554,
-      "rank": 42,
       "category": "影视"
     }
   ],

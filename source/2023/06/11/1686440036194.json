@@ -1,0 +1,410 @@
+{
+  "runTime": 1686440036194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910022,
+        "num": 910022,
+        "word": "日本突然声称核污水危害健康",
+        "onboard_time": 1686413250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755934,
+        "num": 755934,
+        "word": "哥伦比亚飞机失事 40天野外求生奇迹",
+        "onboard_time": 1686407794,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30518,
+        "num": 607013,
+        "word": "文化和自然遗产冷知识",
+        "onboard_time": 1686406953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581306,
+        "num": 581306,
+        "word": "珠峰被救女子不付救援费背后",
+        "onboard_time": 1686413310,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492756,
+        "num": 492756,
+        "word": "说个故事清朝灭亡才111年",
+        "onboard_time": 1686401132,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 718455,
+        "num": 478033,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 5,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 437425,
+        "num": 437425,
+        "word": "柯以敏直播奔溃大哭",
+        "onboard_time": 1686432313,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421809,
+        "num": 421809,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406880,
+        "num": 406880,
+        "word": "72岁TVB男星将迎娶小36岁女友",
+        "onboard_time": 1686409413,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402807,
+        "num": 402807,
+        "word": "蔡徐坤看郑恺的眼神",
+        "onboard_time": 1686410552,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349898,
+        "num": 349898,
+        "word": "曼城vs国际米兰",
+        "onboard_time": 1686409772,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327014,
+        "num": 327014,
+        "word": "大半个娱乐圈都在江苏吧",
+        "onboard_time": 1686406051,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307823,
+        "num": 307823,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291413,
+        "num": 291413,
+        "word": "沈腾 我真能演子怡老公吗",
+        "onboard_time": 1686404010,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290230,
+        "num": 290230,
+        "word": "吴京贾静雯牵手",
+        "onboard_time": 1686395562,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230490,
+        "num": 230490,
+        "word": "张子枫吊带阔腿裤",
+        "onboard_time": 1686390688,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219356,
+        "num": 219356,
+        "word": "三星堆遗址再曝重磅消息",
+        "onboard_time": 1686438920,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207871,
+        "num": 207871,
+        "word": "王一博大鹏送惊叹号",
+        "onboard_time": 1686439160,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175651,
+        "num": 175651,
+        "word": "团伙盗墓挖出龙袍网上售卖",
+        "onboard_time": 1686415707,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158551,
+        "num": 158551,
+        "word": "幼稚园杀手发歌diss盛宇",
+        "onboard_time": 1686404730,
+        "rank": 19,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 152712,
+        "num": 152712,
+        "word": "高考后爸爸搬行李的统一姿势",
+        "onboard_time": 1686415645,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148280,
+        "num": 148280,
+        "word": "网友曝牵手门女子曾做微商拒退货款",
+        "onboard_time": 1686401132,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147338,
+        "num": 147338,
+        "word": "我那么大一个马丽呢",
+        "onboard_time": 1686401671,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142849,
+        "num": 142849,
+        "word": "曼城三冠王",
+        "onboard_time": 1686438617,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142751,
+        "num": 142751,
+        "word": "和谁相处最自然放松谁就最爱你",
+        "onboard_time": 1686438138,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135097,
+        "num": 135097,
+        "word": "张大仙",
+        "onboard_time": 1686411031,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 131593,
+        "num": 131593,
+        "word": "朱一龙片场开沙滩摩托",
+        "onboard_time": 1686438977,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127195,
+        "num": 127195,
+        "word": "哈兰德",
+        "onboard_time": 1686438799,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126624,
+        "num": 126624,
+        "word": "女子称挂号等2小时医生一直打电话",
+        "onboard_time": 1686437596,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125353,
+        "num": 125353,
+        "word": "卢卡库",
+        "onboard_time": 1686431474,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110968,
+        "num": 110968,
+        "word": "王一博张子枫i人领奖",
+        "onboard_time": 1686405209,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106809,
+        "num": 106809,
+        "word": "易烊千玺哪儿去了",
+        "onboard_time": 1686402450,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103144,
+        "num": 103144,
+        "word": "Ella笑不出来",
+        "onboard_time": 1686404191,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 100761,
+        "num": 100761,
+        "word": "全班把老师扔进水池寓意集体上岸",
+        "onboard_time": 1686438920,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 99685,
+        "num": 99685,
+        "word": "南京暴雨 原来萧敬腾在",
+        "onboard_time": 1686394246,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 97772,
+        "num": 97772,
+        "word": "鼠头鸭脖",
+        "onboard_time": 1686391769,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95079,
+        "num": 95079,
+        "word": "115元的水电费要了3次",
+        "onboard_time": 1686438977,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94188,
+        "num": 94188,
+        "word": "欧阳春晓的沙漏腰到底有用吗",
+        "onboard_time": 1686409111,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90537,
+        "num": 90537,
+        "word": "梅西只在北京出战",
+        "onboard_time": 1686428113,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 80992,
+        "num": 80992,
+        "word": "佟晓梅的两次背叛",
+        "onboard_time": 1686406111,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80214,
+        "num": 80214,
+        "word": "周也为什么不穿紫色这套走红毯",
+        "onboard_time": 1686397721,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77867,
+        "num": 77867,
+        "word": "舒淇谢霆锋错位图",
+        "onboard_time": 1686435554,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75061,
+        "num": 75061,
+        "word": "全靠周也的脸",
+        "onboard_time": 1686389967,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74591,
+        "num": 74591,
+        "word": "王子奇说和王玉雯真没商量",
+        "onboard_time": 1686400129,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71225,
+        "num": 71225,
+        "word": "邓超和王一博说了什么",
+        "onboard_time": 1686399890,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71105,
+        "num": 71105,
+        "word": "曼城",
+        "onboard_time": 1686431353,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69982,
+        "num": 69982,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66973,
+        "num": 66973,
+        "word": "梅西也得熬夜看欧冠",
+        "onboard_time": 1686398571,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63329,
+        "num": 63329,
+        "word": "曼城1比0国际米兰",
+        "onboard_time": 1686431860,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61169,
+        "num": 61169,
+        "word": "肖春生求生欲",
+        "onboard_time": 1686440002,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#加大文物和文化遗产保护力度#"
+    }
+  }
+}
