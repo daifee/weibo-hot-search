@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686365129896,
+  "endTime": 1686365645911,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1339118,
-      "num": 806401,
+      "num": 825751,
       "word": "四川大学回应女生曝光地铁大叔",
       "onboard_time": 1686299851,
       "rank": 5,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 1093648,
-      "num": 384682,
+      "num": 386819,
       "word": "男子性侵13岁女孩被判4年赔2万",
       "onboard_time": 1686361114,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1093534,
+      "num": 1093534,
+      "word": "梅西到北京了",
+      "onboard_time": 1686364000,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1026596,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761216,
+      "num": 761216,
+      "word": "陈鑫海怒怼辱国旅客",
+      "onboard_time": 1686363883,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749222,
       "num": 749222,
       "word": "美国亚裔高考接近满分被六大名校拒绝",
@@ -139,12 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 708950,
-      "num": 708950,
-      "word": "梅西到北京了",
-      "onboard_time": 1686364000,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 715856,
+      "num": 715856,
+      "word": "leave女友发文",
+      "onboard_time": 1686363807,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 685979,
@@ -153,14 +169,6 @@
       "onboard_time": 1686352158,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 642567,
-      "num": 642567,
-      "word": "陈鑫海怒怼辱国旅客",
-      "onboard_time": 1686363883,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 629946,
@@ -187,20 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504235,
+      "num": 504235,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497580,
+      "num": 497580,
+      "word": "斗罗大陆",
+      "onboard_time": 1686364244,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 492820,
       "num": 416977,
       "word": "徐怀钰 东亚偶像体系",
       "onboard_time": 1686325469,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 482463,
-      "num": 482463,
-      "word": "leave女友发文",
-      "onboard_time": 1686363807,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 474887,
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455366,
+      "num": 455366,
+      "word": "奔跑吧下期预告有白鹿张凌赫",
+      "onboard_time": 1686363284,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435374,
       "num": 435374,
       "word": "注册不了张z被曝专业是新闻传播",
@@ -241,22 +265,6 @@
       "onboard_time": 1686351738,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407201,
-      "num": 407201,
-      "word": "奔跑吧下期预告有白鹿张凌赫",
-      "onboard_time": 1686363284,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 390825,
-      "num": 390825,
-      "word": "斗罗大陆",
-      "onboard_time": 1686364244,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 382828,
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268274,
-      "num": 268274,
-      "word": "大学摘10万斤荔枝请全校免费吃",
-      "onboard_time": 1686364364,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267049,
       "num": 304103,
       "word": "蔡徐坤曼谷录制跑男人气好高",
@@ -385,6 +385,14 @@
       "onboard_time": 1686313047,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259294,
+      "num": 259294,
+      "word": "NBA总决赛",
+      "onboard_time": 1686365083,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 248598,
@@ -419,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239073,
+      "num": 239073,
+      "word": "掘金vs热火",
+      "onboard_time": 1686362488,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232222,
       "num": 232222,
       "word": "00后小伙为救轻生女不幸溺亡",
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222801,
-      "num": 222801,
-      "word": "掘金vs热火",
-      "onboard_time": 1686362488,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221210,
       "num": 221210,
       "word": "普京称乌克兰已开始进攻",
@@ -459,20 +467,20 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 217218,
+      "num": 217218,
+      "word": "原来打工真的会变丑",
+      "onboard_time": 1686362316,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216068,
       "num": 216068,
       "word": "大鹏在傻乐什么",
       "onboard_time": 1686360807,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215967,
-      "num": 215967,
-      "word": "原来打工真的会变丑",
-      "onboard_time": 1686362316,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 214626,
@@ -547,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178682,
-      "num": 178682,
+      "raw_hot": 184012,
+      "num": 184012,
       "word": "不是谁会写小作文谁就有理",
       "onboard_time": 1686358717,
       "rank": 31,
@@ -584,6 +592,14 @@
       "word": "鹦鹉被门夹到鼻青脸肿急诊输液",
       "onboard_time": 1686360396,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171569,
+      "num": 171569,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138681,
+      "num": 138681,
+      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
+      "onboard_time": 1686365247,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137259,
       "num": 128934,
       "word": "徐志胜 别磕给大家磕头了",
@@ -763,6 +787,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 110477,
+      "num": 110477,
+      "word": "海底小屋无减压环境生活100天",
+      "onboard_time": 1686365367,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110106,
       "num": 110106,
       "word": "无字 乌兹",
@@ -777,14 +809,6 @@
       "onboard_time": 1686351738,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105133,
-      "num": 105133,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104549,
@@ -803,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102282,
-      "num": 102282,
-      "word": "NBA总决赛",
-      "onboard_time": 1686365083,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 99823,
+      "num": 99823,
+      "word": "沈腾帅而自知",
+      "onboard_time": 1686365324,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 99615,
@@ -953,6 +977,9 @@
     },
     {
       "word": "#在祖国北疆构筑起万里绿色长城#"
+    },
+    {
+      "word": "#首部青少年中轴线微纪录片一脉#"
     }
   ]
 }
