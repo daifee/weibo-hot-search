@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686392242811,
+  "endTime": 1686393222851,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -11,8 +11,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3381207,
-      "num": 3381207,
+      "raw_hot": 3456892,
+      "num": 3456892,
       "word": "江西就鸭脖事件成立联合调查组",
       "onboard_time": 1686390387,
       "rank": 0,
@@ -203,12 +203,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 995812,
+      "num": 995812,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 982142,
       "num": 982142,
       "word": "虞书欣Jennie有好多同款",
       "onboard_time": 1686383491,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 963398,
+      "num": 963398,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 953587,
+      "num": 953587,
+      "word": "沈腾在红毯发彩票",
+      "onboard_time": 1686391469,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 948622,
@@ -227,11 +251,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 911118,
-      "num": 911118,
-      "word": "陈都灵 黑色头巾",
-      "onboard_time": 1686388348,
-      "rank": 36,
+      "raw_hot": 931801,
+      "num": 931801,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -275,20 +299,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 823079,
+      "num": 823079,
+      "word": "张艺凡 小天鹅",
+      "onboard_time": 1686387328,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 808416,
       "num": 808416,
       "word": "LPL006号选手Uzi重新连接",
       "onboard_time": 1686381330,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 805037,
-      "num": 805037,
-      "word": "张艺凡 小天鹅",
-      "onboard_time": 1686387328,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 804366,
@@ -371,11 +395,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 604696,
-      "num": 604696,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
+      "raw_hot": 618141,
+      "num": 618141,
+      "word": "陈都灵造型师哪位",
+      "onboard_time": 1686391349,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -395,20 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 563812,
-      "num": 563812,
-      "word": "沈腾在红毯发彩票",
-      "onboard_time": 1686391469,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 561444,
-      "num": 561444,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 560356,
+      "num": 560356,
+      "word": "鼠头鸭脖",
+      "onboard_time": 1686391769,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559009,
@@ -691,28 +707,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334070,
+      "num": 334070,
+      "word": "谢霆锋真空西装太顶了",
+      "onboard_time": 1686392008,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334059,
       "num": 334059,
       "word": "张小斐露背 飒",
       "onboard_time": 1686390807,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 334034,
-      "num": 334034,
-      "word": "陈都灵造型师哪位",
-      "onboard_time": 1686391349,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 319119,
-      "num": 319119,
-      "word": "鼠头鸭脖",
-      "onboard_time": 1686391769,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318585,
@@ -803,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292877,
+      "num": 292877,
+      "word": "宋雨琦泰国路透",
+      "onboard_time": 1686391587,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290629,
       "num": 290629,
       "word": "薛之谦演唱会深圳",
@@ -857,6 +873,14 @@
       "onboard_time": 1686369287,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274851,
+      "num": 2106094,
+      "word": "奶奶给高考结束的孙子送花",
+      "onboard_time": 1686386786,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274000,
@@ -987,14 +1011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242613,
-      "num": 239485,
-      "word": "宋雨琦泰国路透",
-      "onboard_time": 1686391587,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238650,
       "num": 238650,
       "word": "RNG对战OMG",
@@ -1003,28 +1019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 234237,
-      "num": 234237,
-      "word": "谢霆锋真空西装太顶了",
-      "onboard_time": 1686392008,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234138,
       "num": 234138,
       "word": "约基奇太无解了",
       "onboard_time": 1686367004,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233730,
-      "num": 2106094,
-      "word": "奶奶给高考结束的孙子送花",
-      "onboard_time": 1686386786,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232244,
@@ -1056,6 +1056,14 @@
       "word": "上影节红毯最佳造型",
       "onboard_time": 1686326427,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228303,
+      "num": 228303,
+      "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
+      "onboard_time": 1686392309,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1211,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208507,
+      "num": 1009419,
+      "word": "女子暴雨中徒手疏通下水道口",
+      "onboard_time": 1686390628,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207631,
       "num": 207631,
       "word": "成年人还在为周边喝奶茶",
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206186,
+      "num": 206186,
+      "word": "王玉雯王子奇请四搭",
+      "onboard_time": 1686391047,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205649,
       "num": 205649,
       "word": "wvs con直播",
@@ -1256,14 +1280,6 @@
       "word": "肖春生被佟晓梅拿捏",
       "onboard_time": 1686383314,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 203098,
-      "num": 203098,
-      "word": "王玉雯王子奇请四搭",
-      "onboard_time": 1686391047,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -1627,14 +1643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150756,
-      "num": 852362,
-      "word": "女子暴雨中徒手疏通下水道口",
-      "onboard_time": 1686390628,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148417,
       "num": 148417,
       "word": "擎天柱流浪地球",
@@ -1875,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98547,
+      "num": 975610,
+      "word": "众人抬车救左脚被压的小学女生",
+      "onboard_time": 1686387868,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87171,
       "num": 79299,
       "word": "超九成投票网友赞成取消调休",
@@ -1931,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63369,
-      "num": 543906,
-      "word": "众人抬车救左脚被压的小学女生",
-      "onboard_time": 1686387868,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54408,
       "num": 52527,
       "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
@@ -1988,7 +1996,7 @@
     },
     {
       "raw_hot": 36481,
-      "num": 1306639,
+      "num": 1328708,
       "word": "高质量发展调研行",
       "onboard_time": 1686387328,
       "rank": 2,

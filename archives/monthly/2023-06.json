@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686392242811,
+  "endTime": 1686393222851,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3456892,
+      "num": 3456892,
+      "word": "江西就鸭脖事件成立联合调查组",
+      "onboard_time": 1686390387,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3441448,
       "num": 3441448,
       "word": "孩子你配享太庙",
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3381207,
-      "num": 3381207,
-      "word": "江西就鸭脖事件成立联合调查组",
-      "onboard_time": 1686390387,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3325416,
@@ -2939,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 995812,
+      "num": 995812,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 995780,
       "num": 635886,
       "word": "蔡依林 玫瑰少年",
@@ -3067,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 963398,
+      "num": 963398,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 962741,
       "num": 545406,
       "word": "刘昊然手机很烂应该是他",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 953587,
+      "num": 953587,
+      "word": "沈腾在红毯发彩票",
+      "onboard_time": 1686391469,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 951218,
@@ -3195,6 +3219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 931801,
+      "num": 931801,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 928237,
       "num": 928237,
       "word": "徐志胜 别磕给大家磕头了",
@@ -3249,14 +3281,6 @@
       "onboard_time": 1685574199,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 911118,
-      "num": 911118,
-      "word": "陈都灵 黑色头巾",
-      "onboard_time": 1686388348,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 907427,
@@ -3651,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823079,
+      "num": 823079,
+      "word": "张艺凡 小天鹅",
+      "onboard_time": 1686387328,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 822919,
       "num": 807586,
       "word": "PDD直播弹幕",
@@ -3761,14 +3793,6 @@
       "onboard_time": 1686154829,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 805037,
-      "num": 805037,
-      "word": "张艺凡 小天鹅",
-      "onboard_time": 1686387328,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 804554,
@@ -4763,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618141,
+      "num": 618141,
+      "word": "陈都灵造型师哪位",
+      "onboard_time": 1686391349,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617228,
       "num": 617228,
       "word": "刘亚仁 人间炼丹炉",
@@ -4856,14 +4888,6 @@
       "word": "难怪贾玲要瘦100斤",
       "onboard_time": 1686142475,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 604696,
-      "num": 604696,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -5123,14 +5147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 563812,
-      "num": 563812,
-      "word": "沈腾在红毯发彩票",
-      "onboard_time": 1686391469,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 562530,
       "num": 161714,
       "word": "虞书欣晒和杨超越合照",
@@ -5153,14 +5169,6 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 561444,
-      "num": 561444,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 559589,
@@ -8243,19 +8251,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334070,
+      "num": 334070,
+      "word": "谢霆锋真空西装太顶了",
+      "onboard_time": 1686392008,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334059,
       "num": 334059,
       "word": "张小斐露背 飒",
       "onboard_time": 1686390807,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 334034,
-      "num": 334034,
-      "word": "陈都灵造型师哪位",
-      "onboard_time": 1686391349,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -9435,6 +9443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292877,
+      "num": 292877,
+      "word": "宋雨琦泰国路透",
+      "onboard_time": 1686391587,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292871,
       "num": 274089,
       "word": "赵丽颖儿童节看小时候的画册",
@@ -10144,6 +10160,14 @@
       "word": "花花和大家打招呼",
       "onboard_time": 1685771246,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274851,
+      "num": 2106094,
+      "word": "奶奶给高考结束的孙子送花",
+      "onboard_time": 1686386786,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -11723,14 +11747,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 242613,
-      "num": 239485,
-      "word": "宋雨琦泰国路透",
-      "onboard_time": 1686391587,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242282,
       "num": 236207,
       "word": "今晚追哪部剧",
@@ -12155,14 +12171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234237,
-      "num": 234237,
-      "word": "谢霆锋真空西装太顶了",
-      "onboard_time": 1686392008,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234230,
       "num": 234230,
       "word": "M2 Ultra",
@@ -12193,14 +12201,6 @@
       "onboard_time": 1685776287,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233730,
-      "num": 2106094,
-      "word": "奶奶给高考结束的孙子送花",
-      "onboard_time": 1686386786,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233694,
@@ -12536,6 +12536,14 @@
       "word": "肖战刘芮麟敬礼变装",
       "onboard_time": 1686122914,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228303,
+      "num": 228303,
+      "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
+      "onboard_time": 1686392309,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -13843,6 +13851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208507,
+      "num": 1009419,
+      "word": "女子暴雨中徒手疏通下水道口",
+      "onboard_time": 1686390628,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208504,
       "num": 208504,
       "word": "互联网菩萨",
@@ -14000,6 +14016,14 @@
       "word": "你给我的喜欢",
       "onboard_time": 1686322653,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206186,
+      "num": 206186,
+      "word": "王玉雯王子奇请四搭",
+      "onboard_time": 1686391047,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -14192,14 +14216,6 @@
       "word": "大鹏说王一博热烈哭戏一遍过",
       "onboard_time": 1685699488,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 203098,
-      "num": 203098,
-      "word": "王玉雯王子奇请四搭",
-      "onboard_time": 1686391047,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -18203,14 +18219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150756,
-      "num": 852362,
-      "word": "女子暴雨中徒手疏通下水道口",
-      "onboard_time": 1686390628,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150584,
       "num": 150584,
       "word": "英雄志工作人员为成毅发声",
@@ -20771,6 +20779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98547,
+      "num": 975610,
+      "word": "众人抬车救左脚被压的小学女生",
+      "onboard_time": 1686387868,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98271,
       "num": 98271,
       "word": "Amber赢到了最后",
@@ -21843,14 +21859,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 63369,
-      "num": 543906,
-      "word": "众人抬车救左脚被压的小学女生",
-      "onboard_time": 1686387868,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62911,
       "num": 62911,
       "word": "爷爷贴心掰烧饼芯给宝宝吃",
@@ -22396,7 +22404,7 @@
     },
     {
       "raw_hot": 36481,
-      "num": 1306639,
+      "num": 1328708,
       "word": "高质量发展调研行",
       "onboard_time": 1686387328,
       "rank": 2,
