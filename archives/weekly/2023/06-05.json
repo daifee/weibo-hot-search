@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686396824293,
+  "endTime": 1686400199032,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -497,6 +497,14 @@
       "onboard_time": 1686147273,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2224285,
+      "num": 2224285,
+      "word": "吴京贾静雯牵手",
+      "onboard_time": 1686395562,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 2183531,
@@ -1019,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1549073,
+      "num": 1549073,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -1163,14 +1179,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1438272,
-      "num": 1438272,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1437993,
       "num": 1437993,
       "word": "千万不要动学姐留下的东西",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1686038787,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1358630,
+      "num": 1358630,
+      "word": "minnie",
+      "onboard_time": 1686394166,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1358505,
@@ -1635,6 +1651,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1131874,
+      "num": 1131874,
+      "word": "周也为什么不穿紫色这套走红毯",
+      "onboard_time": 1686397721,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1130851,
       "num": 1130851,
       "word": "易梦玲主动加沈月微信",
@@ -1963,6 +1987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 990061,
+      "num": 990061,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 986019,
       "num": 986019,
       "word": "空姐未讲日语被日本女子辱骂",
@@ -2049,14 +2081,6 @@
       "onboard_time": 1686182790,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 949793,
-      "num": 931801,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 948622,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1685920400,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 914835,
+      "num": 431303,
+      "word": "赵琦君杨凯雯订婚",
+      "onboard_time": 1686396650,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 907427,
@@ -2379,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849215,
+      "num": 675684,
+      "word": "全靠周也的脸",
+      "onboard_time": 1686389967,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 848888,
       "num": 773809,
       "word": "人体最硬的部位是什么",
@@ -2537,14 +2577,6 @@
       "onboard_time": 1686368126,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 803816,
-      "num": 803816,
-      "word": "minnie",
-      "onboard_time": 1686394166,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 802580,
@@ -2987,20 +3019,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675684,
-      "num": 675684,
-      "word": "全靠周也的脸",
-      "onboard_time": 1686389967,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 672438,
       "num": 577879,
       "word": "王玉雯7天涨粉9万",
       "onboard_time": 1686266845,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670966,
+      "num": 412357,
+      "word": "邓超和王一博说了什么",
+      "onboard_time": 1686399890,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 670799,
@@ -3224,14 +3256,6 @@
       "word": "迪丽热巴评论陈紫函",
       "onboard_time": 1686183150,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 598181,
-      "num": 598181,
-      "word": "吴京贾静雯牵手",
-      "onboard_time": 1686395562,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -3681,6 +3705,14 @@
       "onboard_time": 1686232953,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 493751,
+      "num": 305818,
+      "word": "王一博低胸领带",
+      "onboard_time": 1686396929,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 493712,
@@ -4355,6 +4387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 400893,
+      "num": 297993,
+      "word": "华晨宇长沙 抢票",
+      "onboard_time": 1686397970,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400433,
       "num": 337976,
       "word": "牵手门女主曾晒账单消费超240万",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1686122134,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 396766,
-      "num": 396766,
-      "word": "赵琦君杨凯雯订婚",
-      "onboard_time": 1686396650,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 393339,
@@ -4433,6 +4465,14 @@
       "onboard_time": 1686289829,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386189,
+      "num": 386189,
+      "word": "Uzi爆料自己14号上场",
+      "onboard_time": 1686396207,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 385616,
@@ -5067,6 +5107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336080,
+      "num": 336080,
+      "word": "上海暴雨",
+      "onboard_time": 1686397846,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335715,
       "num": 335715,
       "word": "河童",
@@ -5339,6 +5387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314545,
+      "num": 1269622,
+      "word": "这才是学医的意义",
+      "onboard_time": 1686394850,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314357,
       "num": 314357,
       "word": "粉丝曝成毅每天十几小时打戏",
@@ -5377,6 +5433,14 @@
       "onboard_time": 1686060273,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311991,
+      "num": 257644,
+      "word": "蔡徐坤跑男录制送演唱会门票",
+      "onboard_time": 1686399046,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 311544,
@@ -6291,14 +6355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269503,
-      "num": 1269622,
-      "word": "这才是学医的意义",
-      "onboard_time": 1686394850,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269483,
       "num": 269483,
       "word": "人在医院能无知到什么地步",
@@ -6345,14 +6401,6 @@
       "onboard_time": 1686355241,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266791,
-      "num": 266791,
-      "word": "Uzi爆料自己14号上场",
-      "onboard_time": 1686396207,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 266227,
@@ -6553,6 +6601,14 @@
       "onboard_time": 1686113920,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256276,
+      "num": 256276,
+      "word": "梅西也得熬夜看欧冠",
+      "onboard_time": 1686398571,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 256109,
@@ -7033,6 +7089,22 @@
       "onboard_time": 1685887474,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244547,
+      "num": 244547,
+      "word": "王玉雯王子奇请四搭",
+      "onboard_time": 1686391047,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 244516,
+      "num": 206427,
+      "word": "贺峻霖主持",
+      "onboard_time": 1686397486,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 244180,
@@ -8427,6 +8499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206642,
+      "num": 206642,
+      "word": "北京晚霞",
+      "onboard_time": 1686140552,
+      "rank": 44,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 206467,
       "num": 206467,
       "word": "有人问你有没有男朋友该怎么回",
@@ -8456,14 +8536,6 @@
       "word": "你给我的喜欢",
       "onboard_time": 1686322653,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 206186,
-      "num": 206186,
-      "word": "王玉雯王子奇请四搭",
-      "onboard_time": 1686391047,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -8585,6 +8657,14 @@
       "onboard_time": 1686107923,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 203827,
+      "num": 193717,
+      "word": "张信哲济南演唱会",
+      "onboard_time": 1686400007,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 203503,
@@ -9291,6 +9371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190466,
+      "num": 190466,
+      "word": "王子奇说和王玉雯真没商量",
+      "onboard_time": 1686400129,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190211,
       "num": 190211,
       "word": "亢奋",
@@ -9449,14 +9537,6 @@
       "onboard_time": 1686301052,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187992,
-      "num": 187992,
-      "word": "北京晚霞",
-      "onboard_time": 1686140552,
-      "rank": 44,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 187958,
@@ -10001,6 +10081,14 @@
       "onboard_time": 1686227671,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177031,
+      "num": 177031,
+      "word": "Angelababy泰国跑男路透",
+      "onboard_time": 1686400129,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 176959,
@@ -10873,6 +10961,14 @@
       "onboard_time": 1686326968,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 157248,
+      "num": 157248,
+      "word": "斗罗大陆2绝世唐门定档",
+      "onboard_time": 1686400129,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 157201,
@@ -13536,6 +13632,14 @@
       "word": "朱一龙消失的她特辑",
       "onboard_time": 1686086532,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 28659,
+      "num": 379058,
+      "word": "清冷系美人",
+      "onboard_time": 1686398451,
+      "rank": 14,
       "category": "影视"
     },
     {
