@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686425610203,
+  "endTime": 1686428307599,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -139,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361475,
+      "num": 361475,
+      "word": "曼城vs国际米兰",
+      "onboard_time": 1686409772,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339452,
       "num": 339452,
       "word": "Ella笑不出来",
       "onboard_time": 1686404191,
       "rank": 16,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 331405,
-      "num": 331405,
-      "word": "曼城vs国际米兰",
-      "onboard_time": 1686409772,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 307124,
@@ -505,6 +505,14 @@
       "onboard_time": 1686314668,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33400,
+      "num": 33400,
+      "word": "蜘蛛侠",
+      "onboard_time": 1686426493,
+      "rank": 25,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
