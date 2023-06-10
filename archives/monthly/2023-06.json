@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686431634668,
+  "endTime": 1686432810459,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4899,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632052,
+      "num": 503199,
+      "word": "曼城",
+      "onboard_time": 1686431353,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631626,
       "num": 631626,
       "word": "EXO是真的勇",
@@ -5864,14 +5872,6 @@
       "word": "梅西签证",
       "onboard_time": 1686379588,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 503199,
-      "num": 503199,
-      "word": "曼城",
-      "onboard_time": 1686431353,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -15307,6 +15307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196741,
+      "num": 196741,
+      "word": "曼城1比0国际米兰",
+      "onboard_time": 1686431860,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196728,
       "num": 196728,
       "word": "王赫野为GAI做e",
@@ -18563,6 +18571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155877,
+      "num": 144024,
+      "word": "曼城夺得欧冠冠军",
+      "onboard_time": 1686431860,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155780,
       "num": 155780,
       "word": "塞尔达 海拉鲁现代化养鸡场",
@@ -20339,6 +20355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124170,
+      "num": 124170,
+      "word": "曼城三冠王",
+      "onboard_time": 1686432313,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124093,
       "num": 124093,
       "word": "吴京沈腾舒淇后台合照",
@@ -21121,6 +21145,14 @@
       "onboard_time": 1686241764,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 109959,
+      "num": 109959,
+      "word": "柯以敏直播奔溃大哭",
+      "onboard_time": 1686432313,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 109716,
@@ -22947,6 +22979,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 48218,
+      "num": 48218,
+      "word": "梅西只在北京出战",
+      "onboard_time": 1686428113,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 48135,
       "num": 405347,
       "word": "微博电影之夜超聚光时刻",
@@ -23553,14 +23593,6 @@
       "onboard_time": 1685703632,
       "rank": 39,
       "category": "社会新闻,综艺"
-    },
-    {
-      "raw_hot": 19412,
-      "num": 22846,
-      "word": "梅西只在北京出战",
-      "onboard_time": 1686428113,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 19357,
