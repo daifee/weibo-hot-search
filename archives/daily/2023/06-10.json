@@ -1,7 +1,15 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686378814728,
+  "endTime": 1686381269747,
   "band_list": [
+    {
+      "raw_hot": 5850717,
+      "num": 5850717,
+      "word": "EDG官宣签约Uzi",
+      "onboard_time": 1686380789,
+      "rank": 0,
+      "category": "游戏"
+    },
     {
       "raw_hot": 2445992,
       "num": 2445992,
@@ -17,6 +25,14 @@
       "onboard_time": 1686371685,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2253542,
+      "num": 2253542,
+      "word": "胖东来荔枝打开全是虫子",
+      "onboard_time": 1686377546,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1989010,
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034231,
-      "num": 1034231,
-      "word": "胖东来荔枝打开全是虫子",
-      "onboard_time": 1686377546,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 784955,
+      "num": 784955,
+      "word": "Uzi",
+      "onboard_time": 1686365684,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 769933,
       "num": 769933,
       "word": "婴儿接种证被盖死亡证明专用章",
@@ -227,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708739,
+      "num": 708739,
+      "word": "大学生高考考点卖花反亏一千",
+      "onboard_time": 1686375567,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 697959,
       "num": 697959,
       "word": "TheShy阿水Rookie去露营了",
       "onboard_time": 1686368368,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 652529,
-      "num": 295449,
-      "word": "大学生高考考点卖花反亏一千",
-      "onboard_time": 1686375567,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 637320,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 252656,
+      "num": 254737,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -315,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488747,
+      "num": 488747,
+      "word": "下个路口见 最强拉票阵容",
+      "onboard_time": 1686375686,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 478112,
+      "num": 478112,
+      "word": "梅西签证",
+      "onboard_time": 1686379588,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474887,
       "num": 376410,
       "word": "以为便宜却贵得离谱的东西",
@@ -329,14 +361,6 @@
       "onboard_time": 1686319950,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 469708,
-      "num": 469708,
-      "word": "下个路口见 最强拉票阵容",
-      "onboard_time": 1686375686,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 466731,
@@ -411,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359895,
+      "num": 359895,
+      "word": "LBL官宣uzi离队",
+      "onboard_time": 1686267747,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 357939,
       "num": 357939,
       "word": "山东历史 难",
@@ -451,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322327,
-      "num": 322327,
-      "word": "Uzi",
-      "onboard_time": 1686365684,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 307170,
+      "num": 307170,
+      "word": "谢娜进步好大",
+      "onboard_time": 1686377788,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 306812,
@@ -547,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271695,
+      "num": 244905,
+      "word": "中午睡午觉不是全国统一的吗",
+      "onboard_time": 1686376707,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271633,
       "num": 271633,
       "word": "蔡英文与台空军通话疑似传出我是中国空军",
@@ -571,20 +611,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265834,
-      "num": 265834,
-      "word": "谢娜进步好大",
-      "onboard_time": 1686377788,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264972,
       "num": 264972,
       "word": "倪妮的项链是腕表",
       "onboard_time": 1686313047,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263111,
+      "num": 263111,
+      "word": "下个路口见好女团",
+      "onboard_time": 1686378987,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259294,
@@ -651,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231239,
-      "num": 231239,
-      "word": "中午睡午觉不是全国统一的吗",
-      "onboard_time": 1686376707,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229379,
       "num": 348725,
       "word": "上影节红毯最佳造型",
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217899,
+      "num": 217899,
+      "word": "胖东来回应顾客买荔枝吃出虫子",
+      "onboard_time": 1686380248,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217218,
       "num": 217218,
       "word": "原来打工真的会变丑",
@@ -755,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212711,
+      "num": 212711,
+      "word": "荔枝虫",
+      "onboard_time": 1686380008,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210872,
       "num": 210872,
       "word": "鼠头鸭脖学校门口大量学生取外卖",
@@ -787,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206932,
+      "num": 206932,
+      "word": "网友发布牵手门视频被董某某投诉",
+      "onboard_time": 1686376886,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205454,
       "num": 205454,
       "word": "黄奕竟然能和张伟丽缠斗一分钟",
@@ -811,20 +867,20 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 198355,
+      "num": 198355,
+      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
+      "onboard_time": 1686376765,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 196728,
       "num": 196728,
       "word": "王赫野为GAI做e",
       "onboard_time": 1686360209,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195906,
-      "num": 195906,
-      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
-      "onboard_time": 1686376765,
-      "rank": 33,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 195628,
@@ -835,11 +891,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195209,
+      "num": 195209,
+      "word": "三伏定档",
+      "onboard_time": 1686380066,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192650,
       "num": 192650,
       "word": "将军舞台",
       "onboard_time": 1686374206,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191553,
+      "num": 191553,
+      "word": "美依礼芽芝芙吃东西好可爱",
+      "onboard_time": 1686379046,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -875,20 +947,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185937,
+      "num": 185937,
+      "word": "王鹤棣登泰趋",
+      "onboard_time": 1686380849,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185242,
       "num": 185242,
       "word": "宁静问尹浩宇你在中国那么不火吗",
       "onboard_time": 1686358717,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184833,
-      "num": 184833,
-      "word": "网友发布牵手门视频被董某某投诉",
-      "onboard_time": 1686376886,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184012,
@@ -956,7 +1028,7 @@
     },
     {
       "raw_hot": 169217,
-      "num": 1208817,
+      "num": 1492108,
       "word": "你可以永远相信中国美学",
       "onboard_time": 1686360327,
       "rank": 48,
@@ -987,12 +1059,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 161449,
+      "num": 161449,
+      "word": "白敬亭西安",
+      "onboard_time": 1686379167,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161088,
       "num": 161088,
       "word": "鞠婧祎郭俊辰花戎今晚大婚",
       "onboard_time": 1686377307,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158903,
+      "num": 158903,
+      "word": "DYG新人入职企划",
+      "onboard_time": 1686381029,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 158189,
@@ -1147,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128808,
+      "num": 128808,
+      "word": "Amber看到帮唱师姐郑秀妍的反应",
+      "onboard_time": 1686380730,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124093,
       "num": 124093,
       "word": "吴京沈腾舒淇后台合照",
@@ -1184,6 +1280,14 @@
       "word": "李彩桦回应恋情",
       "onboard_time": 1686296909,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114032,
+      "num": 114032,
+      "word": "苏醒你是不是去接机了",
+      "onboard_time": 1686380549,
+      "rank": 48,
       "category": "艺人"
     },
     {
