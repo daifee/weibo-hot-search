@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686404011371,
+  "endTime": 1686406437533,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -113,6 +113,14 @@
       "onboard_time": 1686364000,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1548947,
+      "num": 1548947,
+      "word": "沈腾 我真能演子怡老公吗",
+      "onboard_time": 1686404010,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1529336,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1109587,
+      "num": 1109587,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1093648,
       "num": 450780,
       "word": "男子性侵13岁女孩被判4年赔2万",
@@ -273,14 +289,6 @@
       "onboard_time": 1686386727,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 990061,
-      "num": 990061,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 982142,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 812708,
+      "num": 812708,
+      "word": "幼稚园杀手发歌diss盛宇",
+      "onboard_time": 1686404730,
+      "rank": 6,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 808416,
       "num": 808416,
       "word": "LPL006号选手Uzi重新连接",
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753407,
+      "num": 753407,
+      "word": "说个故事清朝灭亡才111年",
+      "onboard_time": 1686401132,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 749222,
       "num": 749222,
       "word": "美国亚裔高考接近满分被六大名校拒绝",
@@ -449,6 +473,14 @@
       "onboard_time": 1686368368,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 663331,
+      "num": 338597,
+      "word": "Ella笑不出来",
+      "onboard_time": 1686404191,
+      "rank": 15,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 637320,
@@ -529,14 +561,6 @@
       "onboard_time": 1686389488,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 536009,
-      "num": 536009,
-      "word": "说个故事清朝灭亡才111年",
-      "onboard_time": 1686401132,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 534577,
@@ -625,6 +649,14 @@
       "onboard_time": 1686400129,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 481984,
+      "num": 265529,
+      "word": "王一博张子枫i人领奖",
+      "onboard_time": 1686405209,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 474887,
@@ -857,6 +889,14 @@
       "onboard_time": 1686387328,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343325,
+      "num": 343325,
+      "word": "江汉路",
+      "onboard_time": 1686405391,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339115,
@@ -1235,12 +1275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258092,
+      "num": 177596,
+      "word": "大半个娱乐圈都在江苏吧",
+      "onboard_time": 1686406051,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253231,
       "num": 253231,
       "word": "将军",
       "onboard_time": 1686400289,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250871,
+      "num": 177381,
+      "word": "佟晓梅的两次背叛",
+      "onboard_time": 1686406111,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 248598,
@@ -1523,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212148,
+      "num": 177282,
+      "word": "狐妖小红娘",
+      "onboard_time": 1686406229,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212030,
       "num": 212030,
       "word": "于文文大理石公主",
@@ -1643,6 +1707,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 197705,
+      "num": 177207,
+      "word": "请成为我的家人",
+      "onboard_time": 1686405991,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196976,
       "num": 196976,
       "word": "白敬亭西安",
@@ -1712,6 +1784,14 @@
       "word": "贺峻霖张艺凡热聊",
       "onboard_time": 1686395562,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190907,
+      "num": 177094,
+      "word": "张碧晨首唱消失的她主题曲笼",
+      "onboard_time": 1686405872,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -2155,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119556,
+      "num": 176779,
+      "word": "高中男生跳女团舞引全场尖叫",
+      "onboard_time": 1686406111,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 118872,
       "num": 118872,
       "word": "大学生给同学带芒果拎麻袋不丢人",
@@ -2291,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78610,
+      "num": 1265418,
+      "word": "非遗可以有多美",
+      "onboard_time": 1686387147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76450,
       "num": 70063,
       "word": "王源易烊千玺工作室出图",
@@ -2331,14 +2427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60948,
-      "num": 1265418,
-      "word": "非遗可以有多美",
-      "onboard_time": 1686387147,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54408,
       "num": 52527,
       "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
@@ -2369,6 +2457,14 @@
       "onboard_time": 1686394850,
       "rank": 14,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 48135,
+      "num": 338849,
+      "word": "微博电影之夜超聚光时刻",
+      "onboard_time": 1686405629,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 46886,
