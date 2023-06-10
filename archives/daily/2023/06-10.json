@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686361115568,
+  "endTime": 1686362257906,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -36,14 +36,14 @@
     },
     {
       "raw_hot": 1339118,
-      "num": 688911,
+      "num": 724920,
       "word": "四川大学回应女生曝光地铁大叔",
       "onboard_time": 1686299851,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1271183,
+      "raw_hot": 1331780,
       "num": 695066,
       "word": "免职裙不到半天卖出2000多条",
       "onboard_time": 1686352280,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1211115,
+      "num": 1211115,
+      "word": "老人突发脑梗发现医生隐瞒未植入支架",
+      "onboard_time": 1686357086,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -83,12 +91,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 888499,
-      "num": 888499,
-      "word": "老人突发脑梗发现医生隐瞒未植入支架",
-      "onboard_time": 1686357086,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 848243,
+      "num": 848243,
+      "word": "Jennie 复仇者联盟5",
+      "onboard_time": 1686360156,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 769933,
@@ -107,12 +115,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 702621,
-      "num": 702621,
+      "raw_hot": 738778,
+      "num": 738778,
       "word": "陈凯歌推朱一龙拉朱亚文拽黄晓明",
       "onboard_time": 1686358119,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685979,
+      "num": 685979,
+      "word": "抑郁女生带患癌爷爷游中国相互治愈",
+      "onboard_time": 1686352158,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629946,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540956,
+      "num": 320693,
+      "word": "男子性侵13岁女孩被判4年赔2万",
+      "onboard_time": 1686361114,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492820,
       "num": 416977,
       "word": "徐怀钰 东亚偶像体系",
@@ -139,11 +163,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474887,
+      "num": 317015,
+      "word": "以为便宜却贵得离谱的东西",
+      "onboard_time": 1686359316,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 470499,
       "num": 470499,
       "word": "倪妮第二套",
       "onboard_time": 1686319950,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 461370,
+      "num": 461370,
+      "word": "陶昕然好像安陵容翻身了",
+      "onboard_time": 1686354756,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -155,27 +195,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416623,
-      "num": 302529,
-      "word": "以为便宜却贵得离谱的东西",
-      "onboard_time": 1686359316,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 411836,
       "num": 411836,
       "word": "我掉下去都不会让他掉下去",
       "onboard_time": 1686351738,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393047,
-      "num": 393047,
-      "word": "抑郁女生带患癌爷爷游中国相互治愈",
-      "onboard_time": 1686352158,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -203,14 +227,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 370954,
-      "num": 370954,
-      "word": "陶昕然好像安陵容翻身了",
-      "onboard_time": 1686354756,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360052,
       "num": 360052,
       "word": "胡歌把吴磊抱起来了",
@@ -219,12 +235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 349806,
-      "num": 349806,
-      "word": "Jennie 复仇者联盟5",
-      "onboard_time": 1686360156,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 349941,
+      "num": 349941,
+      "word": "188大帅哥倒地好长一条",
+      "onboard_time": 1686358887,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 347384,
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306812,
+      "num": 306812,
+      "word": "买卧铺票可以在线选铺了",
+      "onboard_time": 1686360686,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306352,
       "num": 306352,
       "word": "照相馆学徒冒死留下南京大屠杀证据",
@@ -259,12 +283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287703,
-      "num": 287703,
+      "raw_hot": 293448,
+      "num": 293448,
       "word": "无意间刷到一个没人看的主播",
       "onboard_time": 1686328526,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287831,
+      "num": 287831,
+      "word": "高考历史",
+      "onboard_time": 1686361114,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 267049,
@@ -331,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221210,
+      "num": 221210,
+      "word": "普京称乌克兰已开始进攻",
+      "onboard_time": 1686357808,
+      "rank": 27,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 216068,
       "num": 216068,
       "word": "大鹏在傻乐什么",
@@ -353,14 +393,6 @@
       "onboard_time": 1686291208,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213539,
-      "num": 213539,
-      "word": "买卧铺票可以在线选铺了",
-      "onboard_time": 1686360686,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210872,
@@ -395,19 +427,27 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 199014,
-      "num": 199014,
-      "word": "普京称乌克兰已开始进攻",
-      "onboard_time": 1686357808,
-      "rank": 27,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 196728,
       "num": 196728,
       "word": "王赫野为GAI做e",
       "onboard_time": 1686360209,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187586,
+      "num": 187586,
+      "word": "华晨宇 鸟巢演唱会",
+      "onboard_time": 1686361595,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185242,
+      "num": 185242,
+      "word": "宁静问尹浩宇你在中国那么不火吗",
+      "onboard_time": 1686358717,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -435,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174392,
+      "num": 174392,
+      "word": "鹦鹉被门夹到鼻青脸肿急诊输液",
+      "onboard_time": 1686360396,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168859,
       "num": 168859,
       "word": "EDG海报空个位置",
       "onboard_time": 1686309807,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166365,
-      "num": 166365,
-      "word": "宁静问尹浩宇你在中国那么不火吗",
-      "onboard_time": 1686358717,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 166250,
@@ -515,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149171,
-      "num": 149171,
-      "word": "188大帅哥倒地好长一条",
-      "onboard_time": 1686358887,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 150278,
+      "num": 150278,
+      "word": "男子自曝村副书记妻子出轨书记",
+      "onboard_time": 1686362008,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147075,
@@ -579,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132712,
-      "num": 132712,
-      "word": "鹦鹉被门夹到鼻青脸肿急诊输液",
-      "onboard_time": 1686360396,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129854,
       "num": 129854,
       "word": "母马深陷泥潭小马驹奔跑回家求助",
@@ -595,8 +627,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121374,
-      "num": 121374,
+      "raw_hot": 124093,
+      "num": 124093,
       "word": "吴京沈腾舒淇后台合照",
       "onboard_time": 1686359558,
       "rank": 40,
