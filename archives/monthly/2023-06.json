@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686365645911,
+  "endTime": 1686367027454,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1523,6 +1523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1473256,
+      "num": 1473256,
+      "word": "梅西到北京了",
+      "onboard_time": 1686364000,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1471783,
       "num": 1471783,
       "word": "你觉得椰树直播算擦边吗",
@@ -2363,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1161672,
+      "num": 1161672,
+      "word": "Jennie 复仇者联盟5",
+      "onboard_time": 1686360156,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1159146,
       "num": 1159146,
       "word": "吴倩没有镜头",
@@ -2531,14 +2547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1097615,
-      "num": 1097615,
-      "word": "Jennie 复仇者联盟5",
-      "onboard_time": 1686360156,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1097181,
       "num": 429799,
       "word": "横着亲",
@@ -2556,19 +2564,11 @@
     },
     {
       "raw_hot": 1093648,
-      "num": 386819,
+      "num": 450780,
       "word": "男子性侵13岁女孩被判4年赔2万",
       "onboard_time": 1686361114,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1093534,
-      "num": 1093534,
-      "word": "梅西到北京了",
-      "onboard_time": 1686364000,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1093188,
@@ -3059,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937568,
+      "num": 937568,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937402,
       "num": 937402,
       "word": "有人嗑黄子韬和徐志胜吗",
@@ -3371,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849321,
+      "num": 849321,
+      "word": "陈鑫海怒怼辱国旅客",
+      "onboard_time": 1686363883,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 848888,
       "num": 773809,
       "word": "人体最硬的部位是什么",
@@ -3651,6 +3667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797166,
+      "num": 797166,
+      "word": "leave女友发文",
+      "onboard_time": 1686363807,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 796859,
       "num": 706986,
       "word": "EDG官宣Thesnake上调一队",
@@ -3843,14 +3867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 761216,
-      "num": 761216,
-      "word": "陈鑫海怒怼辱国旅客",
-      "onboard_time": 1686363883,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 758629,
       "num": 758629,
       "word": "胡继勇正接受公司纪委核查",
@@ -4033,14 +4049,6 @@
       "onboard_time": 1686229470,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 715856,
-      "num": 715856,
-      "word": "leave女友发文",
-      "onboard_time": 1686363807,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 715148,
@@ -4835,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580814,
+      "num": 580814,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578846,
       "num": 578846,
       "word": "高考地理",
@@ -5315,6 +5331,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 512045,
+      "num": 512045,
+      "word": "奔跑吧下期预告有白鹿张凌赫",
+      "onboard_time": 1686363284,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511522,
       "num": 511522,
       "word": "高考700分和存款700万你要哪个",
@@ -5361,14 +5385,6 @@
       "onboard_time": 1685759249,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 504235,
-      "num": 504235,
-      "word": "大学摘10万斤荔枝请全校免费吃",
-      "onboard_time": 1686364364,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502975,
@@ -5911,14 +5927,6 @@
       "num": 472375,
       "word": "沈月说得到了失去的八分钟",
       "onboard_time": 1686019049,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 455366,
-      "num": 455366,
-      "word": "奔跑吧下期预告有白鹿张凌赫",
-      "onboard_time": 1686363284,
       "rank": 17,
       "category": "综艺"
     },
@@ -9771,6 +9779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273797,
+      "num": 273797,
+      "word": "肖战肖春生微指数破亿",
+      "onboard_time": 1686366161,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273306,
       "num": 273306,
       "word": "30岁也不过是12岁的大人",
@@ -10001,6 +10017,14 @@
       "onboard_time": 1685719235,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267459,
+      "num": 267459,
+      "word": "掘金vs热火",
+      "onboard_time": 1686187471,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 267414,
@@ -11385,14 +11409,6 @@
       "onboard_time": 1685610511,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239073,
-      "num": 239073,
-      "word": "掘金vs热火",
-      "onboard_time": 1686187471,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 238948,
@@ -13803,6 +13819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198850,
+      "num": 198850,
+      "word": "斗罗大陆大结局",
+      "onboard_time": 1686366566,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198720,
       "num": 198720,
       "word": "天同",
@@ -15931,14 +15955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171569,
-      "num": 171569,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171563,
       "num": 171563,
       "word": "子时当归",
@@ -15953,6 +15969,14 @@
       "onboard_time": 1685934628,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171370,
+      "num": 171370,
+      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
+      "onboard_time": 1686365247,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 171231,
@@ -17027,6 +17051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155361,
+      "num": 155361,
+      "word": "约基奇太无解了",
+      "onboard_time": 1686367004,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155232,
       "num": 155232,
       "word": "当我手机没信号且找不到WiFi时",
@@ -17057,6 +17089,14 @@
       "onboard_time": 1686312027,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155054,
+      "num": 146745,
+      "word": "WBG和TES露营",
+      "onboard_time": 1686366566,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 154979,
@@ -17409,6 +17449,14 @@
       "onboard_time": 1685692588,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149273,
+      "num": 149273,
+      "word": "蔡英文与台空军通话疑似传出我是中国空军",
+      "onboard_time": 1686366648,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149080,
@@ -17923,14 +17971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138681,
-      "num": 138681,
-      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
-      "onboard_time": 1686365247,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138617,
       "num": 1360256,
       "word": "高考考场外的难忘瞬间",
@@ -18083,6 +18123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135727,
+      "num": 135727,
+      "word": "四川阿坝地震",
+      "onboard_time": 1686366884,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135592,
       "num": 135592,
       "word": "男子学厨26年钻研100多种点心",
@@ -18185,6 +18233,14 @@
       "onboard_time": 1686228391,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 134229,
+      "num": 134229,
+      "word": "沈腾帅而自知",
+      "onboard_time": 1686365324,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 133781,
@@ -19769,14 +19825,6 @@
       "onboard_time": 1686180743,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 99823,
-      "num": 99823,
-      "word": "沈腾帅而自知",
-      "onboard_time": 1686365324,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 99615,
@@ -21793,6 +21841,14 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8368,
+      "num": 515054,
+      "word": "高考结束后学生们拉校长举杯庆祝",
+      "onboard_time": 1686366688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5391,
