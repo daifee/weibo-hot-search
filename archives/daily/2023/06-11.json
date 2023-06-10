@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686424386038,
+  "endTime": 1686425610203,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -147,8 +147,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 309460,
-      "num": 309460,
+      "raw_hot": 331405,
+      "num": 331405,
       "word": "曼城vs国际米兰",
       "onboard_time": 1686409772,
       "rank": 23,
@@ -491,8 +491,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38603,
-      "num": 38603,
+      "raw_hot": 38869,
+      "num": 38869,
       "word": "C位烫脚",
       "onboard_time": 1686422356,
       "rank": 32,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686424386038,
+  "endTime": 1686425610203,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -23155,20 +23155,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38869,
+      "num": 38869,
+      "word": "C位烫脚",
+      "onboard_time": 1686422356,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38623,
       "num": 5846826,
       "word": "我的高考回忆",
       "onboard_time": 1686107377,
       "rank": 2,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 38603,
-      "num": 38603,
-      "word": "C位烫脚",
-      "onboard_time": 1686422356,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 37722,
