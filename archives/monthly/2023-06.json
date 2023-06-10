@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686393222851,
+  "endTime": 1686395603035,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1675,6 +1675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1438272,
+      "num": 1438272,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1437993,
       "num": 1437993,
       "word": "千万不要动学姐留下的东西",
@@ -2571,6 +2579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1112474,
+      "num": 1112474,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1111510,
       "num": 1111510,
       "word": "山东政治 好崩溃",
@@ -2699,12 +2715,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1069914,
+      "num": 1069914,
+      "word": "南京暴雨 原来萧敬腾在",
+      "onboard_time": 1686394246,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1061459,
       "num": 1061459,
       "word": "胡继勇",
       "onboard_time": 1686114339,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057443,
+      "num": 1057443,
+      "word": "微博电影之夜内场",
+      "onboard_time": 1686393763,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1053947,
@@ -2939,14 +2971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 995812,
-      "num": 995812,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 995780,
       "num": 635886,
       "word": "蔡依林 玫瑰少年",
@@ -3075,14 +3099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 963398,
-      "num": 963398,
-      "word": "陈都灵 黑色头巾",
-      "onboard_time": 1686388348,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 962741,
       "num": 545406,
       "word": "刘昊然手机很烂应该是他",
@@ -3121,6 +3137,14 @@
       "onboard_time": 1686182790,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 949793,
+      "num": 931801,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 948622,
@@ -3217,14 +3241,6 @@
       "onboard_time": 1686268106,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 931801,
-      "num": 931801,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 928237,
@@ -6675,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417006,
+      "num": 417006,
+      "word": "minnie",
+      "onboard_time": 1686394166,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 417005,
       "num": 267819,
       "word": "住酒店不小心把床睡塌了",
@@ -6873,6 +6897,14 @@
       "onboard_time": 1686219338,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 405274,
+      "num": 405274,
+      "word": "全靠周也的脸",
+      "onboard_time": 1686389967,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 405217,
@@ -7355,6 +7387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 372267,
+      "num": 372267,
+      "word": "EDG对战JDG",
+      "onboard_time": 1686393809,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372260,
       "num": 372260,
       "word": "高考结束考生喊话王嘉尔",
@@ -7369,14 +7409,6 @@
       "onboard_time": 1685880087,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371692,
-      "num": 371692,
-      "word": "全靠周也的脸",
-      "onboard_time": 1686389967,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 371645,
@@ -7737,6 +7769,14 @@
       "onboard_time": 1686281729,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354807,
+      "num": 354807,
+      "word": "南京天气",
+      "onboard_time": 1686393687,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354421,
@@ -8227,6 +8267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335375,
+      "num": 335375,
+      "word": "全员加速中",
+      "onboard_time": 1685771726,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335236,
       "num": 335236,
       "word": "iOS17",
@@ -8640,6 +8688,14 @@
       "word": "荔枝虫",
       "onboard_time": 1686380008,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318045,
+      "num": 1624712,
+      "word": "女子暴雨中徒手疏通下水道口",
+      "onboard_time": 1686390628,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -10017,14 +10073,6 @@
       "onboard_time": 1685602106,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278766,
-      "num": 278766,
-      "word": "全员加速中",
-      "onboard_time": 1685771726,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 278673,
@@ -11939,6 +11987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238726,
+      "num": 238726,
+      "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
+      "onboard_time": 1686392309,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238710,
       "num": 238710,
       "word": "谈一次恋爱被笑话一辈子",
@@ -12523,6 +12579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228734,
+      "num": 228734,
+      "word": "朴宰范这次穿得好多啊",
+      "onboard_time": 1686394602,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228654,
       "num": 228654,
       "word": "北京彩虹",
@@ -12536,14 +12600,6 @@
       "word": "肖战刘芮麟敬礼变装",
       "onboard_time": 1686122914,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228303,
-      "num": 228303,
-      "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
-      "onboard_time": 1686392309,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -13387,6 +13443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216068,
+      "num": 216068,
+      "word": "朱一龙顺毛",
+      "onboard_time": 1686395085,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215863,
       "num": 174294,
       "word": "爸爸妈妈实现了女儿的钢琴梦",
@@ -13849,14 +13913,6 @@
       "onboard_time": 1685951549,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208507,
-      "num": 1009419,
-      "word": "女子暴雨中徒手疏通下水道口",
-      "onboard_time": 1686390628,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208504,
@@ -14699,6 +14755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196637,
+      "num": 196637,
+      "word": "朱一龙想递话筒递成花",
+      "onboard_time": 1686394357,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196589,
       "num": 196589,
       "word": "我的跨纬度领导",
@@ -15227,6 +15291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191081,
+      "num": 191081,
+      "word": "贺峻霖张艺凡热聊",
+      "onboard_time": 1686395562,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191078,
       "num": 191078,
       "word": "OMG对战BLG",
@@ -15409,6 +15481,14 @@
       "onboard_time": 1686132698,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189708,
+      "num": 1080040,
+      "word": "这才是学医的意义",
+      "onboard_time": 1686394850,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189683,
@@ -15675,6 +15755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186739,
+      "num": 186739,
+      "word": "高考结束的我belike",
+      "onboard_time": 1686394481,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186702,
       "num": 186702,
       "word": "Cat重回AG",
@@ -15865,6 +15953,14 @@
       "onboard_time": 1685875828,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184911,
+      "num": 184911,
+      "word": "吴京贾静雯牵手",
+      "onboard_time": 1686395562,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 184808,
@@ -22163,6 +22259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48480,
+      "num": 639678,
+      "word": "直击微博电影之夜现场",
+      "onboard_time": 1686394850,
+      "rank": 14,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 47994,
       "num": 47994,
       "word": "阿娇为陈妍希庆生",
@@ -22404,7 +22508,7 @@
     },
     {
       "raw_hot": 36481,
-      "num": 1328708,
+      "num": 1496877,
       "word": "高质量发展调研行",
       "onboard_time": 1686387328,
       "rank": 2,
@@ -22576,6 +22680,14 @@
       "word": "北上女二",
       "onboard_time": 1685543072,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 28444,
+      "num": 211663,
+      "word": "清冷感妆容好降温",
+      "onboard_time": 1686394850,
+      "rank": 39,
       "category": "影视"
     },
     {

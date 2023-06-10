@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686393222851,
+  "endTime": 1686395603035,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1438272,
+      "num": 1438272,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1423263,
       "num": 300864,
       "word": "霍尊前女友涉嫌敲诈勒索案已移交检察院",
@@ -179,12 +187,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1112474,
+      "num": 1112474,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1093648,
       "num": 450780,
       "word": "男子性侵13岁女孩被判4年赔2万",
       "onboard_time": 1686361114,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069914,
+      "num": 1069914,
+      "word": "南京暴雨 原来萧敬腾在",
+      "onboard_time": 1686394246,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1057443,
+      "num": 1057443,
+      "word": "微博电影之夜内场",
+      "onboard_time": 1686393763,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1026596,
@@ -203,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 995812,
-      "num": 995812,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 982142,
       "num": 982142,
       "word": "虞书欣Jennie有好多同款",
@@ -219,19 +243,19 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 963398,
-      "num": 963398,
-      "word": "陈都灵 黑色头巾",
-      "onboard_time": 1686388348,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 953587,
       "num": 953587,
       "word": "沈腾在红毯发彩票",
       "onboard_time": 1686391469,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 949793,
+      "num": 931801,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -249,14 +273,6 @@
       "onboard_time": 1686383370,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 931801,
-      "num": 931801,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 904451,
@@ -555,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417006,
+      "num": 417006,
+      "word": "minnie",
+      "onboard_time": 1686394166,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 411836,
       "num": 411836,
       "word": "我掉下去都不会让他掉下去",
       "onboard_time": 1686351738,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405274,
+      "num": 405274,
+      "word": "全靠周也的脸",
+      "onboard_time": 1686389967,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 393339,
@@ -595,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372267,
+      "num": 372267,
+      "word": "EDG对战JDG",
+      "onboard_time": 1686393809,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372260,
       "num": 372260,
       "word": "高考结束考生喊话王嘉尔",
       "onboard_time": 1686355118,
       "rank": 14,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 371692,
-      "num": 371692,
-      "word": "全靠周也的脸",
-      "onboard_time": 1686389967,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 365783,
@@ -659,6 +691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 354807,
+      "num": 354807,
+      "word": "南京天气",
+      "onboard_time": 1686393687,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348626,
       "num": 348626,
       "word": "注册不了张z",
@@ -699,6 +739,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 335375,
+      "num": 335375,
+      "word": "全员加速中",
+      "onboard_time": 1686394888,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335182,
       "num": 335182,
       "word": "舒淇 白客",
@@ -728,6 +776,14 @@
       "word": "荔枝虫",
       "onboard_time": 1686380008,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318045,
+      "num": 1624712,
+      "word": "女子暴雨中徒手疏通下水道口",
+      "onboard_time": 1686390628,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238726,
+      "num": 238726,
+      "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
+      "onboard_time": 1686392309,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238650,
       "num": 238650,
       "word": "RNG对战OMG",
@@ -1059,12 +1123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228303,
-      "num": 228303,
-      "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
-      "onboard_time": 1686392309,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 228734,
+      "num": 228734,
+      "word": "朴宰范这次穿得好多啊",
+      "onboard_time": 1686394602,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228134,
@@ -1171,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216068,
+      "num": 216068,
+      "word": "朱一龙顺毛",
+      "onboard_time": 1686395085,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214626,
       "num": 214626,
       "word": "梦中的那片海",
@@ -1216,14 +1288,6 @@
       "word": "四川阿坝地震",
       "onboard_time": 1686366884,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208507,
-      "num": 1009419,
-      "word": "女子暴雨中徒手疏通下水道口",
-      "onboard_time": 1686390628,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1323,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196637,
+      "num": 196637,
+      "word": "朱一龙想递话筒递成花",
+      "onboard_time": 1686394357,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195628,
       "num": 209948,
       "word": "李沁认证肖春生社牛",
@@ -1363,6 +1435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191081,
+      "num": 191081,
+      "word": "贺峻霖张艺凡热聊",
+      "onboard_time": 1686395562,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189708,
+      "num": 1080040,
+      "word": "这才是学医的意义",
+      "onboard_time": 1686394850,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189025,
       "num": 189025,
       "word": "吴京接谢楠下班回家",
@@ -1395,6 +1483,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 186739,
+      "num": 186739,
+      "word": "高考结束的我belike",
+      "onboard_time": 1686394481,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186478,
       "num": 186478,
       "word": "刘芮麟演的叶国华无法原谅",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1686358717,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184911,
+      "num": 184911,
+      "word": "吴京贾静雯牵手",
+      "onboard_time": 1686395562,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 184012,
@@ -1971,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48480,
+      "num": 639678,
+      "word": "直击微博电影之夜现场",
+      "onboard_time": 1686394850,
+      "rank": 14,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 46886,
       "num": 46886,
       "word": "女子挣扎瞬间他果断翻出护栏救人",
@@ -1996,11 +2108,19 @@
     },
     {
       "raw_hot": 36481,
-      "num": 1328708,
+      "num": 1496877,
       "word": "高质量发展调研行",
       "onboard_time": 1686387328,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28444,
+      "num": 211663,
+      "word": "清冷感妆容好降温",
+      "onboard_time": 1686394850,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 27760,
