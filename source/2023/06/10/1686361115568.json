@@ -1,0 +1,410 @@
+{
+  "runTime": 1686361115568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213146,
+        "num": 1213146,
+        "word": "袁冰妍涂山雅雅定妆造型视频",
+        "onboard_time": 1686354082,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 948622,
+        "num": 948622,
+        "word": "娜扎说人家巴不得跟我结婚",
+        "onboard_time": 1686354281,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33406,
+        "num": 906687,
+        "word": "3分钟告诉你万物皆可链",
+        "onboard_time": 1686316349,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888499,
+        "num": 888499,
+        "word": "老人突发脑梗发现医生隐瞒未植入支架",
+        "onboard_time": 1686357086,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702621,
+        "num": 702621,
+        "word": "陈凯歌推朱一龙拉朱亚文拽黄晓明",
+        "onboard_time": 1686358119,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1271183,
+        "num": 695066,
+        "word": "免职裙不到半天卖出2000多条",
+        "onboard_time": 1686352280,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080498,
+        "num": 688911,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673637,
+        "num": 673637,
+        "word": "美国亚裔高考接近满分被六大名校拒绝",
+        "onboard_time": 1686321214,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 624858,
+        "num": 624858,
+        "word": "长得漂亮但拍照不上镜",
+        "onboard_time": 1686314429,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579892,
+        "num": 579892,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1686315929,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1529336,
+        "num": 579720,
+        "word": "向佐一生只为郭碧婷剥虾",
+        "onboard_time": 1686354803,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572515,
+        "num": 572515,
+        "word": "陈露 王萌",
+        "onboard_time": 1686324870,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 411836,
+        "num": 411836,
+        "word": "我掉下去都不会让他掉下去",
+        "onboard_time": 1686351738,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393047,
+        "num": 393047,
+        "word": "抑郁女生带患癌爷爷游中国相互治愈",
+        "onboard_time": 1686352158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372260,
+        "num": 372260,
+        "word": "高考结束考生喊话王嘉尔",
+        "onboard_time": 1686355118,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 370954,
+        "num": 370954,
+        "word": "陶昕然好像安陵容翻身了",
+        "onboard_time": 1686354756,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349806,
+        "num": 349806,
+        "word": "Jennie 复仇者联盟5",
+        "onboard_time": 1686360156,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349041,
+        "num": 349041,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345870,
+        "num": 345870,
+        "word": "婴儿接种证被盖死亡证明专用章",
+        "onboard_time": 1686315090,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267049,
+        "num": 304103,
+        "word": "蔡徐坤曼谷录制跑男人气好高",
+        "onboard_time": 1686355241,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416623,
+        "num": 302529,
+        "word": "以为便宜却贵得离谱的东西",
+        "onboard_time": 1686359316,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382828,
+        "num": 302171,
+        "word": "请假期间男同事查看我电脑",
+        "onboard_time": 1686355000,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300864,
+        "num": 300864,
+        "word": "霍尊前女友涉嫌敲诈勒索案已移交检察院",
+        "onboard_time": 1686321691,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 287703,
+        "num": 287703,
+        "word": "无意间刷到一个没人看的主播",
+        "onboard_time": 1686328526,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227987,
+        "num": 227987,
+        "word": "注册不了张z被曝专业是新闻传播",
+        "onboard_time": 1686312326,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216068,
+        "num": 216068,
+        "word": "大鹏在傻乐什么",
+        "onboard_time": 1686360807,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213539,
+        "num": 213539,
+        "word": "买卧铺票可以在线选铺了",
+        "onboard_time": 1686360686,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199014,
+        "num": 199014,
+        "word": "普京称乌克兰已开始进攻",
+        "onboard_time": 1686357808,
+        "rank": 27,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 196728,
+        "num": 196728,
+        "word": "王赫野为GAI做e",
+        "onboard_time": 1686360209,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175844,
+        "num": 175844,
+        "word": "饺子已经拿下了全山东",
+        "onboard_time": 1686355885,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 166365,
+        "num": 166365,
+        "word": "宁静问尹浩宇你在中国那么不火吗",
+        "onboard_time": 1686358717,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162151,
+        "num": 162151,
+        "word": "不是谁会写小作文谁就有理",
+        "onboard_time": 1686358717,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158133,
+        "num": 158133,
+        "word": "原来狗狗眼中的世界是这样的",
+        "onboard_time": 1686355044,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149171,
+        "num": 149171,
+        "word": "188大帅哥倒地好长一条",
+        "onboard_time": 1686358887,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139312,
+        "num": 139312,
+        "word": "取消调休能实现吗",
+        "onboard_time": 1686343933,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134701,
+        "num": 134701,
+        "word": "上班和朋友聊天的高频词汇",
+        "onboard_time": 1686351738,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134676,
+        "num": 134676,
+        "word": "照相馆学徒冒死留下南京大屠杀证据",
+        "onboard_time": 1686327625,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132712,
+        "num": 132712,
+        "word": "鹦鹉被门夹到鼻青脸肿急诊输液",
+        "onboard_time": 1686360396,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132015,
+        "num": 132015,
+        "word": "徐怀钰 东亚偶像体系",
+        "onboard_time": 1686325469,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129770,
+        "num": 129770,
+        "word": "周深撕了李晨名牌",
+        "onboard_time": 1686321272,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121374,
+        "num": 121374,
+        "word": "吴京沈腾舒淇后台合照",
+        "onboard_time": 1686359558,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118872,
+        "num": 118872,
+        "word": "大学生给同学带芒果拎麻袋不丢人",
+        "onboard_time": 1686353722,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117135,
+        "num": 117135,
+        "word": "00后小伙为救轻生女不幸溺亡",
+        "onboard_time": 1686323731,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116337,
+        "num": 116337,
+        "word": "欧冠决赛",
+        "onboard_time": 1686323131,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112391,
+        "num": 112391,
+        "word": "天官赐福漫画",
+        "onboard_time": 1686353679,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110420,
+        "num": 110420,
+        "word": "陈露涉嫌敲诈勒索案进入审查起诉阶段",
+        "onboard_time": 1686321573,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 110065,
+        "num": 110065,
+        "word": "鼠头鸭脖学校门口大量学生取外卖",
+        "onboard_time": 1686313709,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107723,
+        "num": 107723,
+        "word": "倪妮第二套",
+        "onboard_time": 1686319950,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93102,
+        "num": 93102,
+        "word": "你可以永远相信中国美学",
+        "onboard_time": 1686360327,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97741,
+        "num": 93005,
+        "word": "倪妮的项链是腕表",
+        "onboard_time": 1686313047,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在祖国北疆构筑起万里绿色长城#"
+    }
+  }
+}
