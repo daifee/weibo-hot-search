@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686400199032,
+  "endTime": 1686401153978,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2467998,
+      "num": 2467998,
+      "word": "吴京贾静雯牵手",
+      "onboard_time": 1686395562,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2458829,
       "num": 1759983,
       "word": "四川一公务员被曝出轨女同事",
@@ -617,14 +625,6 @@
       "onboard_time": 1686147273,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2224285,
-      "num": 2224285,
-      "word": "吴京贾静雯牵手",
-      "onboard_time": 1686395562,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 2223234,
@@ -1379,6 +1379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1592995,
+      "num": 1549073,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1592919,
       "num": 1592919,
       "word": "直女发言聊天记录",
@@ -1483,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1549073,
-      "num": 1549073,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1537274,
       "num": 1537274,
       "word": "徐开骋被AI换脸",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1685871806,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1516980,
+      "num": 1516980,
+      "word": "邓超和王一博说了什么",
+      "onboard_time": 1686399890,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1508871,
@@ -3316,7 +3324,7 @@
     },
     {
       "raw_hot": 914835,
-      "num": 431303,
+      "num": 493812,
       "word": "赵琦君杨凯雯订婚",
       "onboard_time": 1686396650,
       "rank": 22,
@@ -4571,14 +4579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 670966,
-      "num": 412357,
-      "word": "邓超和王一博说了什么",
-      "onboard_time": 1686399890,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 670799,
       "num": 670799,
       "word": "她是怎么忍住不用剪刀的",
@@ -5820,7 +5820,7 @@
     },
     {
       "raw_hot": 493751,
-      "num": 305818,
+      "num": 424314,
       "word": "王一博低胸领带",
       "onboard_time": 1686396929,
       "rank": 20,
@@ -6281,6 +6281,14 @@
       "onboard_time": 1685706334,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452018,
+      "num": 320161,
+      "word": "Angelababy泰国跑男路透",
+      "onboard_time": 1686400129,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 451793,
@@ -7244,7 +7252,7 @@
     },
     {
       "raw_hot": 386189,
-      "num": 386189,
+      "num": 450449,
       "word": "Uzi爆料自己14号上场",
       "onboard_time": 1686396207,
       "rank": 29,
@@ -7561,6 +7569,14 @@
       "onboard_time": 1685942608,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367412,
+      "num": 273681,
+      "word": "蔡徐坤跑男录制送演唱会门票",
+      "onboard_time": 1686399046,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 367257,
@@ -8203,6 +8219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339025,
+      "num": 339025,
+      "word": "上海暴雨",
+      "onboard_time": 1686397846,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338936,
       "num": 338936,
       "word": "迪丽热巴说安旎得继续努力啊",
@@ -8313,14 +8337,6 @@
       "onboard_time": 1685845646,
       "rank": 15,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 336080,
-      "num": 336080,
-      "word": "上海暴雨",
-      "onboard_time": 1686397846,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335995,
@@ -8961,14 +8977,6 @@
       "onboard_time": 1685790687,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311991,
-      "num": 257644,
-      "word": "蔡徐坤跑男录制送演唱会门票",
-      "onboard_time": 1686399046,
-      "rank": 27,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 311981,
@@ -9635,6 +9643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291755,
+      "num": 255328,
+      "word": "网友曝牵手门女子曾做微商拒退货款",
+      "onboard_time": 1686401132,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291607,
       "num": 291607,
       "word": "杨紫一周涨粉2万",
@@ -9825,6 +9841,14 @@
       "onboard_time": 1685862806,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286750,
+      "num": 286750,
+      "word": "梅西也得熬夜看欧冠",
+      "onboard_time": 1686398571,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 286727,
@@ -10531,6 +10555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270338,
+      "num": 254531,
+      "word": "王玉雯王子奇请四搭",
+      "onboard_time": 1686391047,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270321,
       "num": 263275,
       "word": "女生生气真的会生病的",
@@ -11155,14 +11187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256276,
-      "num": 256276,
-      "word": "梅西也得熬夜看欧冠",
-      "onboard_time": 1686398571,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256109,
       "num": 256109,
       "word": "当了一辈子电工的爸爸竟是战斗英雄",
@@ -11313,6 +11337,14 @@
       "onboard_time": 1686066748,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253231,
+      "num": 253231,
+      "word": "将军",
+      "onboard_time": 1686400289,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 253018,
@@ -11795,16 +11827,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244547,
-      "num": 244547,
-      "word": "王玉雯王子奇请四搭",
-      "onboard_time": 1686391047,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244516,
-      "num": 206427,
+      "num": 238191,
       "word": "贺峻霖主持",
       "onboard_time": 1686397486,
       "rank": 35,
@@ -12195,6 +12219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237809,
+      "num": 237809,
+      "word": "王子奇说和王玉雯真没商量",
+      "onboard_time": 1686400129,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237784,
+      "num": 255731,
+      "word": "北京晚霞",
+      "onboard_time": 1686140552,
+      "rank": 44,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 237472,
       "num": 237472,
       "word": "上海地铁",
@@ -12539,6 +12579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231787,
+      "num": 231787,
+      "word": "斗罗大陆2绝世唐门定档",
+      "onboard_time": 1686400129,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 231656,
       "num": 231656,
       "word": "侯明昊靠脸起千楼",
@@ -12833,6 +12881,14 @@
       "onboard_time": 1686033866,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227283,
+      "num": 253799,
+      "word": "张信哲济南演唱会",
+      "onboard_time": 1686400007,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 227226,
@@ -13297,6 +13353,14 @@
       "onboard_time": 1685764946,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219375,
+      "num": 219375,
+      "word": "刘诗诗张云龙狐妖小红娘定妆照",
+      "onboard_time": 1686401132,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 219191,
@@ -14155,14 +14219,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 206642,
-      "num": 206642,
-      "word": "北京晚霞",
-      "onboard_time": 1686140552,
-      "rank": 44,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 206528,
       "num": 182788,
       "word": "如果拥有一台穿越机你会做什么",
@@ -14345,14 +14401,6 @@
       "onboard_time": 1686107923,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 203827,
-      "num": 193717,
-      "word": "张信哲济南演唱会",
-      "onboard_time": 1686400007,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 203647,
@@ -15555,14 +15603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190466,
-      "num": 190466,
-      "word": "王子奇说和王玉雯真没商量",
-      "onboard_time": 1686400129,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190211,
       "num": 190211,
       "word": "亢奋",
@@ -16681,14 +16721,6 @@
       "onboard_time": 1686227671,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 177031,
-      "num": 177031,
-      "word": "Angelababy泰国跑男路透",
-      "onboard_time": 1686400129,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 176959,
@@ -18019,14 +18051,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 157248,
-      "num": 157248,
-      "word": "斗罗大陆2绝世唐门定档",
-      "onboard_time": 1686400129,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 157201,
       "num": 157201,
       "word": "学校回应纪律老师砸坏高三学生蛋糕",
@@ -18425,6 +18449,14 @@
       "onboard_time": 1686044789,
       "rank": 41,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 151914,
+      "num": 151914,
+      "word": "说个故事清朝灭亡才111年",
+      "onboard_time": 1686401132,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 151881,
@@ -22555,6 +22587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41196,
+      "num": 464121,
+      "word": "清冷系美人",
+      "onboard_time": 1686398451,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 41152,
       "num": 506663,
       "word": "老人烈日下晕倒多人撑伞守护",
@@ -22848,14 +22888,6 @@
       "word": "北上女二",
       "onboard_time": 1685543072,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28659,
-      "num": 379058,
-      "word": "清冷系美人",
-      "onboard_time": 1686398451,
-      "rank": 14,
       "category": "影视"
     },
     {

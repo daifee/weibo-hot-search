@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686400199032,
+  "endTime": 1686401153978,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -17,6 +17,14 @@
       "onboard_time": 1686390387,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2467998,
+      "num": 2467998,
+      "word": "吴京贾静雯牵手",
+      "onboard_time": 1686395562,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 2445992,
@@ -41,14 +49,6 @@
       "onboard_time": 1686377546,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2224285,
-      "num": 2224285,
-      "word": "吴京贾静雯牵手",
-      "onboard_time": 1686395562,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 1990264,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592995,
+      "num": 1549073,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1592107,
       "num": 1592107,
       "word": "梅西到北京了",
@@ -91,20 +99,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1549073,
-      "num": 1549073,
-      "word": "张子枫吊带阔腿裤",
-      "onboard_time": 1686390688,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1529336,
       "num": 579720,
       "word": "向佐一生只为郭碧婷剥虾",
       "onboard_time": 1686354803,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1516980,
+      "num": 1516980,
+      "word": "邓超和王一博说了什么",
+      "onboard_time": 1686399890,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1476939,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 914835,
-      "num": 431303,
+      "num": 493812,
       "word": "赵琦君杨凯雯订婚",
       "onboard_time": 1686396650,
       "rank": 22,
@@ -427,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 670966,
-      "num": 412357,
-      "word": "邓超和王一博说了什么",
-      "onboard_time": 1686399890,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 637320,
       "num": 637320,
       "word": "Amber又是第一",
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 493751,
-      "num": 305818,
+      "num": 424314,
       "word": "王一博低胸领带",
       "onboard_time": 1686396929,
       "rank": 20,
@@ -601,6 +601,14 @@
       "onboard_time": 1686367047,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 452018,
+      "num": 320161,
+      "word": "Angelababy泰国跑男路透",
+      "onboard_time": 1686400129,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 448543,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 386189,
-      "num": 386189,
+      "num": 450449,
       "word": "Uzi爆料自己14号上场",
       "onboard_time": 1686396207,
       "rank": 29,
@@ -713,6 +721,14 @@
       "onboard_time": 1686355118,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 367412,
+      "num": 273681,
+      "word": "蔡徐坤跑男录制送演唱会门票",
+      "onboard_time": 1686399046,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 365783,
@@ -795,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339025,
+      "num": 339025,
+      "word": "上海暴雨",
+      "onboard_time": 1686397846,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338314,
       "num": 338314,
       "word": "张大大妖娆的动作不像演的",
@@ -809,14 +833,6 @@
       "onboard_time": 1686373287,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 336080,
-      "num": 336080,
-      "word": "上海暴雨",
-      "onboard_time": 1686397846,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335649,
@@ -881,14 +897,6 @@
       "onboard_time": 1686394850,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311991,
-      "num": 257644,
-      "word": "蔡徐坤跑男录制送演唱会门票",
-      "onboard_time": 1686399046,
-      "rank": 27,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 307170,
@@ -971,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291755,
+      "num": 255328,
+      "word": "网友曝牵手门女子曾做微商拒退货款",
+      "onboard_time": 1686401132,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290629,
       "num": 290629,
       "word": "薛之谦演唱会深圳",
@@ -993,6 +1009,14 @@
       "onboard_time": 1686361114,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 286750,
+      "num": 286750,
+      "word": "梅西也得熬夜看欧冠",
+      "onboard_time": 1686398571,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 285068,
@@ -1059,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270338,
+      "num": 254531,
+      "word": "王玉雯王子奇请四搭",
+      "onboard_time": 1686391047,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270129,
       "num": 270129,
       "word": "杰克辣条疑扬言开红房间直播",
@@ -1123,12 +1155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256276,
-      "num": 256276,
-      "word": "梅西也得熬夜看欧冠",
-      "onboard_time": 1686398571,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 253231,
+      "num": 253231,
+      "word": "将军",
+      "onboard_time": 1686400289,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 248598,
@@ -1171,16 +1203,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244547,
-      "num": 244547,
-      "word": "王玉雯王子奇请四搭",
-      "onboard_time": 1686391047,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244516,
-      "num": 206427,
+      "num": 238191,
       "word": "贺峻霖主持",
       "onboard_time": 1686397486,
       "rank": 35,
@@ -1201,6 +1225,22 @@
       "onboard_time": 1686383010,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237809,
+      "num": 237809,
+      "word": "王子奇说和王玉雯真没商量",
+      "onboard_time": 1686400129,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237784,
+      "num": 255731,
+      "word": "北京晚霞",
+      "onboard_time": 1686400007,
+      "rank": 34,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 234138,
@@ -1243,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231787,
+      "num": 231787,
+      "word": "斗罗大陆2绝世唐门定档",
+      "onboard_time": 1686400129,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 229379,
       "num": 348725,
       "word": "上影节红毯最佳造型",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1686374607,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227283,
+      "num": 253799,
+      "word": "张信哲济南演唱会",
+      "onboard_time": 1686400007,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 226620,
@@ -1305,6 +1361,14 @@
       "onboard_time": 1686382231,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219375,
+      "num": 219375,
+      "word": "刘诗诗张云龙狐妖小红娘定妆照",
+      "onboard_time": 1686401132,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 219157,
@@ -1443,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206642,
-      "num": 206642,
-      "word": "北京晚霞",
-      "onboard_time": 1686400007,
-      "rank": 34,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 205649,
       "num": 205649,
       "word": "wvs con直播",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1686383314,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203827,
-      "num": 193717,
-      "word": "张信哲济南演唱会",
-      "onboard_time": 1686400007,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 202259,
@@ -1595,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190466,
-      "num": 190466,
-      "word": "王子奇说和王玉雯真没商量",
-      "onboard_time": 1686400129,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189025,
       "num": 189025,
       "word": "吴京接谢楠下班回家",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1686366566,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177031,
-      "num": 177031,
-      "word": "Angelababy泰国跑男路透",
-      "onboard_time": 1686400129,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 176245,
@@ -1867,14 +1899,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 157248,
-      "num": 157248,
-      "word": "斗罗大陆2绝世唐门定档",
-      "onboard_time": 1686400129,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 156630,
       "num": 156630,
       "word": "朱一龙等倪妮",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1686368447,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151914,
+      "num": 151914,
+      "word": "说个故事清朝灭亡才111年",
+      "onboard_time": 1686401132,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 151881,
@@ -2259,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41196,
+      "num": 464121,
+      "word": "清冷系美人",
+      "onboard_time": 1686398451,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 40392,
       "num": 44810,
       "word": "以闪亮之名",
@@ -2288,14 +2328,6 @@
       "word": "清冷感妆容好降温",
       "onboard_time": 1686394850,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28659,
-      "num": 379058,
-      "word": "清冷系美人",
-      "onboard_time": 1686398451,
-      "rank": 14,
       "category": "影视"
     },
     {
