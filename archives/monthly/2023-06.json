@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686385159577,
+  "endTime": 1686386014823,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177533,
+      "num": 1177533,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1686382771,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1176860,
       "num": 627510,
       "word": "北大屠夫称大学生就业难关键在父母",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1686114339,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060535,
+      "num": 1060535,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 1053947,
@@ -3267,20 +3283,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 888670,
-      "num": 888670,
-      "word": "微博电影之夜红毯",
-      "onboard_time": 1686382771,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 888042,
       "num": 888042,
       "word": "WBG零封JDG",
       "onboard_time": 1685624668,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 886285,
+      "num": 886285,
+      "word": "虞书欣Jennie有好多同款",
+      "onboard_time": 1686383491,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 886142,
@@ -3627,14 +3643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 814415,
-      "num": 814415,
-      "word": "邪剑仙根本吸不完",
-      "onboard_time": 1686381992,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 813062,
       "num": 813062,
       "word": "妃子笑荔枝",
@@ -3809,14 +3817,6 @@
       "onboard_time": 1686214296,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 789637,
-      "num": 789637,
-      "word": "虞书欣Jennie有好多同款",
-      "onboard_time": 1686383491,
-      "rank": 7,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 787851,
@@ -5356,7 +5356,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 302901,
+      "num": 351710,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -5988,7 +5988,7 @@
     },
     {
       "raw_hot": 466731,
-      "num": 319642,
+      "num": 322436,
       "word": "千万别和好闺蜜睡一张床",
       "onboard_time": 1686367047,
       "rank": 48,
@@ -6491,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421994,
+      "num": 421994,
+      "word": "跑男",
+      "onboard_time": 1685709869,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420393,
       "num": 420393,
       "word": "广东电信",
@@ -6897,6 +6905,14 @@
       "onboard_time": 1686370488,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393225,
+      "num": 393225,
+      "word": "梅西酒店",
+      "onboard_time": 1686382412,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 393146,
@@ -7899,14 +7915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 340799,
-      "num": 304328,
-      "word": "梅西酒店",
-      "onboard_time": 1686382412,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 340476,
       "num": 340476,
       "word": "华晨宇问那英在歌坛怎么存活下来的",
@@ -8335,6 +8343,14 @@
       "num": 206715,
       "word": "吴倩给芝芙晒娃",
       "onboard_time": 1685775026,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326056,
+      "num": 326056,
+      "word": "奔跑吧泰国路透",
+      "onboard_time": 1686385886,
       "rank": 22,
       "category": "综艺"
     },
@@ -12843,6 +12859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219691,
+      "num": 219691,
+      "word": "阿根廷中国行",
+      "onboard_time": 1686385107,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219676,
       "num": 174459,
       "word": "黄觉的命也是命",
@@ -12865,6 +12889,14 @@
       "onboard_time": 1686210213,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219430,
+      "num": 219430,
+      "word": "Uzi永远的神",
+      "onboard_time": 1686382231,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 219385,
@@ -13659,14 +13691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207020,
-      "num": 207020,
-      "word": "Uzi永远的神",
-      "onboard_time": 1686382231,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207006,
       "num": 207006,
       "word": "AL战胜TT",
@@ -13697,6 +13721,14 @@
       "onboard_time": 1686299310,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206801,
+      "num": 206801,
+      "word": "养了一只小狗 精神上它在养我",
+      "onboard_time": 1686385766,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 206740,
@@ -14129,6 +14161,14 @@
       "onboard_time": 1686053906,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200532,
+      "num": 200532,
+      "word": "雅加达的风终于吹到了灵石路",
+      "onboard_time": 1686385886,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 200376,
@@ -15259,14 +15299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188584,
-      "num": 188584,
-      "word": "跑男",
-      "onboard_time": 1685709869,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188578,
       "num": 188578,
       "word": "一块能骗过食堂阿姨的姜",
@@ -15400,6 +15432,14 @@
       "word": "刘芮麟演的叶国华无法原谅",
       "onboard_time": 1686372048,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186287,
+      "num": 186287,
+      "word": "肖春生你怎么能瞎说呢",
+      "onboard_time": 1686384750,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -15755,14 +15795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182474,
-      "num": 182474,
-      "word": "肖春生你怎么能瞎说呢",
-      "onboard_time": 1686384750,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182423,
       "num": 164520,
       "word": "蚂蚁居然看不到人",
@@ -15824,6 +15856,14 @@
       "word": "肖春生这个家没了我得散",
       "onboard_time": 1686321632,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181400,
+      "num": 181400,
+      "word": "无名排片",
+      "onboard_time": 1686386006,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -17451,6 +17491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157328,
+      "num": 157328,
+      "word": "吴倩美依礼芽亲亲",
+      "onboard_time": 1686382531,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157318,
       "num": 157318,
       "word": "延长周末的办法",
@@ -17849,14 +17897,6 @@
       "onboard_time": 1685976810,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "吴倩美依礼芽亲亲",
-      "onboard_time": 1686382531,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 151937,
@@ -18945,14 +18985,6 @@
       "onboard_time": 1685895567,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131571,
-      "num": 131571,
-      "word": "阿根廷中国行",
-      "onboard_time": 1686385107,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 131400,

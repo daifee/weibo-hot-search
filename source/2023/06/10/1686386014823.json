@@ -1,0 +1,410 @@
+{
+  "runTime": 1686386014823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3303270,
+        "num": 3303270,
+        "word": "EDG官宣签约Uzi",
+        "onboard_time": 1686380789,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1536311,
+        "num": 1536311,
+        "word": "胖东来荔枝打开全是虫子",
+        "onboard_time": 1686377546,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67710,
+        "num": 1355188,
+        "word": "你可以永远相信中国美学",
+        "onboard_time": 1686360327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177533,
+        "num": 1177533,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1686382771,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1060535,
+        "num": 1060535,
+        "word": "邪剑仙根本吸不完",
+        "onboard_time": 1686381992,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 886285,
+        "num": 886285,
+        "word": "虞书欣Jennie有好多同款",
+        "onboard_time": 1686383491,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 805074,
+        "num": 805074,
+        "word": "是淀粉 之前被RNG卡合同了",
+        "onboard_time": 1686383370,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 747061,
+        "num": 747061,
+        "word": "杨洋 北外",
+        "onboard_time": 1686371685,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690478,
+        "num": 690478,
+        "word": "大学生高考考点卖花反亏一千",
+        "onboard_time": 1686375567,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 660613,
+        "num": 660613,
+        "word": "梅西到北京了",
+        "onboard_time": 1686364000,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 749308,
+        "num": 649125,
+        "word": "牵手门",
+        "onboard_time": 1686372526,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558417,
+        "num": 558417,
+        "word": "将军Ella居然不是第一",
+        "onboard_time": 1686374367,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421994,
+        "num": 421994,
+        "word": "跑男",
+        "onboard_time": 1686385526,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421483,
+        "num": 421483,
+        "word": "LPL006号选手Uzi重新连接",
+        "onboard_time": 1686381330,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10232,
+        "num": 404260,
+        "word": "孙千冷感美女",
+        "onboard_time": 1686384028,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402847,
+        "num": 402847,
+        "word": "Uzi和Meiko再搭档",
+        "onboard_time": 1686381812,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402754,
+        "num": 402754,
+        "word": "牵手门女主疑5个月支出43万",
+        "onboard_time": 1686365007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393225,
+        "num": 393225,
+        "word": "梅西酒店",
+        "onboard_time": 1686382412,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384509,
+        "num": 384509,
+        "word": "Uzi时隔374天重返LPL",
+        "onboard_time": 1686382291,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354799,
+        "num": 354799,
+        "word": "梅西签证",
+        "onboard_time": 1686379588,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425687,
+        "num": 351710,
+        "word": "千万不要用酒精清洁电脑屏幕",
+        "onboard_time": 1686373827,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375332,
+        "num": 340584,
+        "word": "男子性侵13岁女孩被判4年赔2万",
+        "onboard_time": 1686361114,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326056,
+        "num": 326056,
+        "word": "奔跑吧泰国路透",
+        "onboard_time": 1686385886,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322436,
+        "num": 322436,
+        "word": "千万别和好闺蜜睡一张床",
+        "onboard_time": 1686367047,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 302672,
+        "num": 302672,
+        "word": "胖东来回应顾客买荔枝吃出虫子",
+        "onboard_time": 1686380248,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273811,
+        "num": 273811,
+        "word": "Amber又是第一",
+        "onboard_time": 1686370886,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232221,
+        "num": 232221,
+        "word": "陈鑫海怒怼辱国旅客",
+        "onboard_time": 1686363883,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219691,
+        "num": 219691,
+        "word": "阿根廷中国行",
+        "onboard_time": 1686385107,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219430,
+        "num": 219430,
+        "word": "Uzi永远的神",
+        "onboard_time": 1686382231,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101137,
+        "num": 216701,
+        "word": "四川大学回应女生曝光地铁大叔",
+        "onboard_time": 1686299851,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216564,
+        "num": 216564,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208477,
+        "num": 208477,
+        "word": "谢娜进步好大",
+        "onboard_time": 1686377788,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208326,
+        "num": 208326,
+        "word": "吴磊叫胡老师胡歌的表情",
+        "onboard_time": 1686383251,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206801,
+        "num": 206801,
+        "word": "养了一只小狗 精神上它在养我",
+        "onboard_time": 1686385766,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200532,
+        "num": 200532,
+        "word": "雅加达的风终于吹到了灵石路",
+        "onboard_time": 1686385886,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188232,
+        "num": 188232,
+        "word": "荔枝虫",
+        "onboard_time": 1686380008,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186287,
+        "num": 186287,
+        "word": "肖春生你怎么能瞎说呢",
+        "onboard_time": 1686384750,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184724,
+        "num": 184724,
+        "word": "大学摘10万斤荔枝请全校免费吃",
+        "onboard_time": 1686364364,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181400,
+        "num": 181400,
+        "word": "无名排片",
+        "onboard_time": 1686386006,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181156,
+        "num": 181156,
+        "word": "注册不了张z",
+        "onboard_time": 1686385648,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178357,
+        "num": 178357,
+        "word": "中午睡午觉不是全国统一的吗",
+        "onboard_time": 1686376707,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173724,
+        "num": 173724,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1686381872,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170516,
+        "num": 170516,
+        "word": "肖春生被佟晓梅拿捏",
+        "onboard_time": 1686383314,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169950,
+        "num": 169950,
+        "word": "王鹤棣登泰趋",
+        "onboard_time": 1686380849,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165633,
+        "num": 165633,
+        "word": "RNG对战OMG",
+        "onboard_time": 1686383010,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159000,
+        "num": 159000,
+        "word": "谁能拒绝情绪稳定的年下男",
+        "onboard_time": 1686368126,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157328,
+        "num": 157328,
+        "word": "吴倩美依礼芽亲亲",
+        "onboard_time": 1686382531,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154834,
+        "num": 154834,
+        "word": "Jennie 复仇者联盟5",
+        "onboard_time": 1686360156,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "免职裙不到半天卖出2000多条",
+        "onboard_time": 1686352280,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151480,
+        "num": 151480,
+        "word": "白敬亭西安",
+        "onboard_time": 1686379167,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力锻造卫国戍边钢铁长城#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686385159577,
+  "endTime": 1686386014823,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177533,
+      "num": 1177533,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1686382771,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1161672,
       "num": 1161672,
       "word": "Jennie 复仇者联盟5",
@@ -153,6 +161,14 @@
       "onboard_time": 1686361114,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060535,
+      "num": 1060535,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 1026596,
@@ -179,12 +195,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 888670,
-      "num": 888670,
-      "word": "微博电影之夜红毯",
-      "onboard_time": 1686382771,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 886285,
+      "num": 886285,
+      "word": "虞书欣Jennie有好多同款",
+      "onboard_time": 1686383491,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 870618,
@@ -211,14 +227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 814415,
-      "num": 814415,
-      "word": "邪剑仙根本吸不完",
-      "onboard_time": 1686381992,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 808416,
       "num": 808416,
       "word": "LPL006号选手Uzi重新连接",
@@ -233,14 +241,6 @@
       "onboard_time": 1686368126,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 789637,
-      "num": 789637,
-      "word": "虞书欣Jennie有好多同款",
-      "onboard_time": 1686383491,
-      "rank": 7,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 784955,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 302901,
+      "num": 351710,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 466731,
-      "num": 319642,
+      "num": 322436,
       "word": "千万别和好闺蜜睡一张床",
       "onboard_time": 1686367047,
       "rank": 48,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421994,
+      "num": 421994,
+      "word": "跑男",
+      "onboard_time": 1686385526,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411836,
       "num": 411836,
       "word": "我掉下去都不会让他掉下去",
@@ -449,6 +457,14 @@
       "onboard_time": 1686370488,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393225,
+      "num": 393225,
+      "word": "梅西酒店",
+      "onboard_time": 1686382412,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 382828,
@@ -515,14 +531,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 340799,
-      "num": 304328,
-      "word": "梅西酒店",
-      "onboard_time": 1686382412,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338314,
       "num": 338314,
       "word": "张大大妖娆的动作不像演的",
@@ -545,6 +553,14 @@
       "onboard_time": 1686320189,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326056,
+      "num": 326056,
+      "word": "奔跑吧泰国路透",
+      "onboard_time": 1686385886,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 318585,
@@ -843,6 +859,22 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 219691,
+      "num": 219691,
+      "word": "阿根廷中国行",
+      "onboard_time": 1686385107,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 219430,
+      "num": 219430,
+      "word": "Uzi永远的神",
+      "onboard_time": 1686382231,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219157,
       "num": 219157,
       "word": "吴磊叫胡老师胡歌的表情",
@@ -939,20 +971,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207020,
-      "num": 207020,
-      "word": "Uzi永远的神",
-      "onboard_time": 1686382231,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206932,
       "num": 206932,
       "word": "网友发布牵手门视频被董某某投诉",
       "onboard_time": 1686376886,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206801,
+      "num": 206801,
+      "word": "养了一只小狗 精神上它在养我",
+      "onboard_time": 1686385766,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 205454,
@@ -977,6 +1009,14 @@
       "onboard_time": 1686323193,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200532,
+      "num": 200532,
+      "word": "雅加达的风终于吹到了灵石路",
+      "onboard_time": 1686385886,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 199349,
@@ -1067,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186287,
+      "num": 186287,
+      "word": "肖春生你怎么能瞎说呢",
+      "onboard_time": 1686384750,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185242,
       "num": 185242,
       "word": "宁静问尹浩宇你在中国那么不火吗",
@@ -1083,12 +1131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182474,
-      "num": 182474,
-      "word": "肖春生你怎么能瞎说呢",
-      "onboard_time": 1686384750,
-      "rank": 37,
+      "raw_hot": 181400,
+      "num": 181400,
+      "word": "无名排片",
+      "onboard_time": 1686386006,
+      "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181156,
+      "num": 181156,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178410,
@@ -1243,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157328,
+      "num": 157328,
+      "word": "吴倩美依礼芽亲亲",
+      "onboard_time": 1686382531,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157318,
       "num": 157318,
       "word": "延长周末的办法",
@@ -1280,14 +1344,6 @@
       "word": "刘耀文张真源验证成功",
       "onboard_time": 1686368447,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 152114,
-      "num": 152114,
-      "word": "吴倩美依礼芽亲亲",
-      "onboard_time": 1686382531,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1393,14 +1449,6 @@
       "onboard_time": 1686321573,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131571,
-      "num": 131571,
-      "word": "阿根廷中国行",
-      "onboard_time": 1686385107,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 129854,
@@ -1600,14 +1648,6 @@
       "word": "妈妈每天陪7岁渐冻症儿子训练",
       "onboard_time": 1686351738,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59239,
-      "num": 59239,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
