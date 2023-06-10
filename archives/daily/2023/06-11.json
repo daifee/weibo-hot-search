@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686436401415,
+  "endTime": 1686438968499,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578567,
+      "num": 578567,
+      "word": "珠峰被救女子不付救援费背后",
+      "onboard_time": 1686413310,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541772,
       "num": 541772,
       "word": "王一博好贵",
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420164,
-      "num": 377110,
-      "word": "珠峰被救女子不付救援费背后",
-      "onboard_time": 1686413310,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367161,
       "num": 367161,
       "word": "全靠周也的脸",
       "onboard_time": 1686389967,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350980,
+      "num": 350980,
+      "word": "柯以敏直播奔溃大哭",
+      "onboard_time": 1686432313,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 339452,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214784,
+      "num": 214784,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210371,
       "num": 144038,
       "word": "全员加速中",
@@ -291,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204572,
-      "num": 204572,
-      "word": "柯以敏直播奔溃大哭",
-      "onboard_time": 1686432313,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 204503,
+      "num": 204503,
+      "word": "肖战侯明昊郭俊辰7天涨粉",
+      "onboard_time": 1686438739,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202634,
@@ -329,14 +345,6 @@
       "onboard_time": 1686431860,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196630,
-      "num": 196630,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186563,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132903,
+      "num": 113264,
+      "word": "我那么大一个马丽呢",
+      "onboard_time": 1686401671,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132814,
       "num": 132814,
       "word": "EDG首发名单",
@@ -435,20 +451,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125808,
-      "num": 113264,
-      "word": "我那么大一个马丽呢",
-      "onboard_time": 1686401671,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124170,
       "num": 124170,
       "word": "曼城三冠王",
       "onboard_time": 1686432313,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121136,
+      "num": 121136,
+      "word": "三星堆遗址再曝重磅消息",
+      "onboard_time": 1686438920,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112159,
@@ -475,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100474,
+      "num": 100474,
+      "word": "三冠王",
+      "onboard_time": 1686438617,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98058,
       "num": 98058,
       "word": "Uzi爆料自己14号上场",
@@ -483,12 +507,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 89997,
-      "num": 89997,
+      "raw_hot": 93122,
+      "num": 93122,
+      "word": "女子称挂号等2小时医生一直打电话",
+      "onboard_time": 1686437596,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90677,
+      "num": 91597,
       "word": "高考后爸爸搬行李的统一姿势",
       "onboard_time": 1686415645,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84488,
+      "num": 84488,
+      "word": "程潇一晚上哭了4次",
+      "onboard_time": 1686419478,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 80858,
+      "num": 80858,
+      "word": "梅西只在北京出战",
+      "onboard_time": 1686428113,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 80182,
@@ -496,6 +544,38 @@
       "word": "邓超和王一博说了什么",
       "onboard_time": 1686399890,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 78861,
+      "num": 78861,
+      "word": "和谁相处最自然放松谁就最爱你",
+      "onboard_time": 1686438138,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74658,
+      "num": 74658,
+      "word": "全班把老师扔进水池寓意集体上岸",
+      "onboard_time": 1686438920,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 73302,
+      "num": 73302,
+      "word": "罗德里破门",
+      "onboard_time": 1686438858,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72613,
+      "num": 72613,
+      "word": "肖春生没见到父亲最后一面",
+      "onboard_time": 1686435194,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -507,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61431,
-      "num": 61431,
-      "word": "程潇一晚上哭了4次",
-      "onboard_time": 1686419478,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 58393,
+      "num": 58393,
+      "word": "哈兰德",
+      "onboard_time": 1686438799,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 57912,
@@ -531,12 +611,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48218,
-      "num": 48218,
-      "word": "梅西只在北京出战",
-      "onboard_time": 1686428113,
-      "rank": 44,
-      "category": "体育,社会新闻"
+      "raw_hot": 52508,
+      "num": 52508,
+      "word": "德布劳内伤退",
+      "onboard_time": 1686438617,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 45265,
@@ -545,14 +625,6 @@
       "onboard_time": 1686418222,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40767,
-      "num": 40767,
-      "word": "肖春生没见到父亲最后一面",
-      "onboard_time": 1686435194,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 38869,
