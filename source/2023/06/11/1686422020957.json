@@ -1,0 +1,410 @@
+{
+  "runTime": 1686422020957,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 541984,
+        "num": 541984,
+        "word": "哥伦比亚飞机失事 40天野外求生奇迹",
+        "onboard_time": 1686407794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485675,
+        "num": 485675,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17054,
+        "num": 440609,
+        "word": "文化和自然遗产冷知识",
+        "onboard_time": 1686406953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411675,
+        "num": 411675,
+        "word": "日本突然声称核污水危害健康",
+        "onboard_time": 1686413250,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321955,
+        "num": 321955,
+        "word": "蔡徐坤看郑恺的眼神",
+        "onboard_time": 1686410552,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298057,
+        "num": 298057,
+        "word": "珠峰被救女子不付救援费背后",
+        "onboard_time": 1686413310,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281542,
+        "num": 281542,
+        "word": "说个故事清朝灭亡才111年",
+        "onboard_time": 1686401132,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226379,
+        "num": 226379,
+        "word": "幼稚园杀手发歌diss盛宇",
+        "onboard_time": 1686404730,
+        "rank": 7,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 224418,
+        "num": 224418,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 8,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 187560,
+        "num": 187560,
+        "word": "曼城vs国际米兰",
+        "onboard_time": 1686409772,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180227,
+        "num": 180227,
+        "word": "72岁TVB男星将迎娶小36岁女友",
+        "onboard_time": 1686409413,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175473,
+        "num": 175473,
+        "word": "团伙盗墓挖出龙袍网上售卖",
+        "onboard_time": 1686415707,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165920,
+        "num": 165920,
+        "word": "张大仙",
+        "onboard_time": 1686411031,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 121824,
+        "num": 121824,
+        "word": "吴京贾静雯牵手",
+        "onboard_time": 1686395562,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106694,
+        "num": 106694,
+        "word": "张子枫吊带阔腿裤",
+        "onboard_time": 1686390688,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102330,
+        "num": 102330,
+        "word": "Ella笑不出来",
+        "onboard_time": 1686404191,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 102289,
+        "num": 102289,
+        "word": "内马尔回复小朋友私信",
+        "onboard_time": 1686419539,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101734,
+        "num": 101734,
+        "word": "沈腾 我真能演子怡老公吗",
+        "onboard_time": 1686404010,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95840,
+        "num": 95840,
+        "word": "Minnie录制奔跑吧造型",
+        "onboard_time": 1686414028,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95377,
+        "num": 95377,
+        "word": "全靠周也的脸",
+        "onboard_time": 1686389967,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83687,
+        "num": 83687,
+        "word": "鼠头鸭脖",
+        "onboard_time": 1686391769,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79597,
+        "num": 79597,
+        "word": "易烊千玺哪儿去了",
+        "onboard_time": 1686402450,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79210,
+        "num": 79210,
+        "word": "网友曝牵手门女子曾做微商拒退货款",
+        "onboard_time": 1686401132,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78458,
+        "num": 78458,
+        "word": "周也为什么不穿紫色这套走红毯",
+        "onboard_time": 1686397721,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68793,
+        "num": 68793,
+        "word": "王一博张子枫i人领奖",
+        "onboard_time": 1686405209,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66795,
+        "num": 66795,
+        "word": "朴宰范都知道TangoZ了",
+        "onboard_time": 1686408451,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65188,
+        "num": 65188,
+        "word": "大半个娱乐圈都在江苏吧",
+        "onboard_time": 1686406051,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63965,
+        "num": 63965,
+        "word": "梅西也得熬夜看欧冠",
+        "onboard_time": 1686398571,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63646,
+        "num": 63646,
+        "word": "全员加速中",
+        "onboard_time": 1686394888,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62431,
+        "num": 62431,
+        "word": "南京暴雨 原来萧敬腾在",
+        "onboard_time": 1686394246,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 61431,
+        "num": 61431,
+        "word": "程潇一晚上哭了4次",
+        "onboard_time": 1686419478,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59929,
+        "num": 59929,
+        "word": "梁博现场",
+        "onboard_time": 1686412708,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56273,
+        "num": 56273,
+        "word": "王子奇说和王玉雯真没商量",
+        "onboard_time": 1686400129,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56260,
+        "num": 56260,
+        "word": "欧阳春晓的沙漏腰到底有用吗",
+        "onboard_time": 1686409111,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53263,
+        "num": 53263,
+        "word": "胖东来荔枝打开全是虫子",
+        "onboard_time": 1686377546,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54316,
+        "num": 52951,
+        "word": "我那么大一个马丽呢",
+        "onboard_time": 1686401671,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54293,
+        "num": 52659,
+        "word": "邓超和王一博说了什么",
+        "onboard_time": 1686399890,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47814,
+        "num": 52012,
+        "word": "EDG官宣签约Uzi",
+        "onboard_time": 1686380789,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47049,
+        "num": 51269,
+        "word": "TTG九尾 背锅",
+        "onboard_time": 1686402272,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45218,
+        "num": 50976,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53996,
+        "num": 50147,
+        "word": "焦迈奇游泳回家巡回演唱会",
+        "onboard_time": 1686417203,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53531,
+        "num": 49962,
+        "word": "尤长靖广州演唱会",
+        "onboard_time": 1686421277,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49618,
+        "num": 49618,
+        "word": "佟晓梅的两次背叛",
+        "onboard_time": 1686406111,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48943,
+        "num": 48943,
+        "word": "赵琦君杨凯雯订婚",
+        "onboard_time": 1686396650,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48508,
+        "num": 48508,
+        "word": "张碧晨红毯状态",
+        "onboard_time": 1686418521,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47469,
+        "num": 47469,
+        "word": "李荣浩广州演唱会",
+        "onboard_time": 1686412529,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44800,
+        "num": 44800,
+        "word": "Uzi爆料自己14号上场",
+        "onboard_time": 1686396207,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42298,
+        "num": 42298,
+        "word": "邪剑仙根本吸不完",
+        "onboard_time": 1686381992,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37651,
+        "num": 42052,
+        "word": "JDG战胜EDG",
+        "onboard_time": 1686402272,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34093,
+        "num": 41651,
+        "word": "熊孩子真的不分物种",
+        "onboard_time": 1686410371,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把官兵冷暖放在心上#"
+    }
+  }
+}
