@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686375223191,
+  "endTime": 1686378040426,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1557080,
+      "num": 781227,
+      "word": "牵手门",
+      "onboard_time": 1686372526,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -1579,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1451897,
-      "num": 781227,
-      "word": "牵手门",
-      "onboard_time": 1686372526,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1451764,
       "num": 782568,
       "word": "南京一高校学生宿舍内被杀害",
@@ -1697,6 +1697,14 @@
       "onboard_time": 1686132698,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1416530,
+      "num": 1416530,
+      "word": "将军Ella居然不是第一",
+      "onboard_time": 1686374367,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1411897,
@@ -3065,14 +3073,6 @@
       "onboard_time": 1686200975,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 943459,
-      "num": 943459,
-      "word": "将军Ella居然不是第一",
-      "onboard_time": 1686374367,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 940655,
@@ -5283,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529201,
+      "num": 232066,
+      "word": "大学生高考考点卖花反亏一千",
+      "onboard_time": 1686375567,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 527494,
       "num": 515360,
       "word": "虞书欣直播",
@@ -5385,6 +5393,14 @@
       "onboard_time": 1685864190,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 512071,
+      "num": 252656,
+      "word": "千万不要用酒精清洁电脑屏幕",
+      "onboard_time": 1686373827,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512045,
@@ -6193,6 +6209,14 @@
       "onboard_time": 1685665649,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 435051,
+      "num": 435051,
+      "word": "下个路口见 最强拉票阵容",
+      "onboard_time": 1686375686,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 434172,
@@ -7721,6 +7745,14 @@
       "onboard_time": 1685601387,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344873,
+      "num": 228772,
+      "word": "想去海边好甜",
+      "onboard_time": 1686376944,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 344342,
@@ -9555,6 +9587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281527,
+      "num": 225846,
+      "word": "肖战哭戏幕后花絮",
+      "onboard_time": 1686377426,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281277,
       "num": 251056,
       "word": "赵丽颖 二番",
@@ -10027,14 +10067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270472,
-      "num": 252656,
-      "word": "千万不要用酒精清洁电脑屏幕",
-      "onboard_time": 1686373827,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270321,
       "num": 263275,
       "word": "女生生气真的会生病的",
@@ -10433,6 +10465,14 @@
       "onboard_time": 1685632769,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260282,
+      "num": 184793,
+      "word": "胖东来荔枝打开全是虫子",
+      "onboard_time": 1686377546,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260129,
@@ -11929,6 +11969,14 @@
       "onboard_time": 1685700631,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231997,
+      "num": 184713,
+      "word": "河南瓦岗寨乡人民政府院内可以晒粮",
+      "onboard_time": 1686377068,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231946,
@@ -15067,6 +15115,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 187598,
+      "num": 187598,
+      "word": "中午睡午觉不是全国统一的吗",
+      "onboard_time": 1686376707,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187591,
       "num": 187591,
       "word": "高铁晚点",
@@ -15457,6 +15513,14 @@
       "onboard_time": 1686047429,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183174,
+      "num": 183174,
+      "word": "网友发布牵手门视频被董某某投诉",
+      "onboard_time": 1686376886,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183113,
@@ -16121,6 +16185,14 @@
       "onboard_time": 1685933489,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172992,
+      "num": 183533,
+      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
+      "onboard_time": 1686376765,
+      "rank": 33,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 172903,
@@ -16899,6 +16971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161088,
+      "num": 161088,
+      "word": "鞠婧祎郭俊辰花戎今晚大婚",
+      "onboard_time": 1686377307,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160973,
       "num": 160973,
       "word": "王源电影男主角首秀",
@@ -17121,6 +17201,14 @@
       "onboard_time": 1685970569,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157470,
+      "num": 157470,
+      "word": "谢娜进步好大",
+      "onboard_time": 1686377788,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 157416,
@@ -17643,6 +17731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150224,
+      "num": 150224,
+      "word": "杨颖说在这个节目快没朋友了",
+      "onboard_time": 1686377068,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150002,
       "num": 150002,
       "word": "UP战胜FPX",
@@ -18041,6 +18137,22 @@
       "onboard_time": 1686154346,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142301,
+      "num": 142301,
+      "word": "坐个地铁以为走进了漫展",
+      "onboard_time": 1686377186,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142272,
+      "num": 142272,
+      "word": "嵩山音乐节",
+      "onboard_time": 1686377246,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 142059,
@@ -21456,6 +21568,14 @@
       "word": "亲手孵出来的鸸鹋宝宝",
       "onboard_time": 1685813240,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48547,
+      "num": 230229,
+      "word": "男子偶遇20年前恩人医生下跪感谢",
+      "onboard_time": 1686376825,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

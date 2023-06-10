@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686375223191,
+  "endTime": 1686378040426,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1557080,
+      "num": 781227,
+      "word": "牵手门",
+      "onboard_time": 1686372526,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1529336,
       "num": 579720,
       "word": "向佐一生只为郭碧婷剥虾",
@@ -59,20 +67,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1451897,
-      "num": 781227,
-      "word": "牵手门",
-      "onboard_time": 1686372526,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1423263,
       "num": 300864,
       "word": "霍尊前女友涉嫌敲诈勒索案已移交检察院",
       "onboard_time": 1686321691,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1416530,
+      "num": 1416530,
+      "word": "将军Ella居然不是第一",
+      "onboard_time": 1686374367,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1339118,
@@ -144,14 +152,6 @@
       "word": "娜扎说人家巴不得跟我结婚",
       "onboard_time": 1686354281,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 943459,
-      "num": 943459,
-      "word": "将军Ella居然不是第一",
-      "onboard_time": 1686374367,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -267,6 +267,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529201,
+      "num": 232066,
+      "word": "大学生高考考点卖花反亏一千",
+      "onboard_time": 1686375567,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 512071,
+      "num": 252656,
+      "word": "千万不要用酒精清洁电脑屏幕",
+      "onboard_time": 1686373827,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512045,
       "num": 512045,
       "word": "奔跑吧下期预告有白鹿张凌赫",
@@ -321,6 +337,14 @@
       "onboard_time": 1686312326,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435051,
+      "num": 435051,
+      "word": "下个路口见 最强拉票阵容",
+      "onboard_time": 1686375686,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 411836,
@@ -385,6 +409,14 @@
       "onboard_time": 1686321573,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 344873,
+      "num": 228772,
+      "word": "想去海边好甜",
+      "onboard_time": 1686376944,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 338314,
@@ -475,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281527,
+      "num": 225846,
+      "word": "肖战哭戏幕后花絮",
+      "onboard_time": 1686377426,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280068,
       "num": 280068,
       "word": "高考生物",
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270472,
-      "num": 252656,
-      "word": "千万不要用酒精清洁电脑屏幕",
-      "onboard_time": 1686373827,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267459,
       "num": 267459,
       "word": "掘金vs热火",
@@ -537,6 +569,14 @@
       "onboard_time": 1686313047,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260282,
+      "num": 184793,
+      "word": "胖东来荔枝打开全是虫子",
+      "onboard_time": 1686377546,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259294,
@@ -592,6 +632,14 @@
       "word": "00后小伙为救轻生女不幸溺亡",
       "onboard_time": 1686323731,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231997,
+      "num": 184713,
+      "word": "河南瓦岗寨乡人民政府院内可以晒粮",
+      "onboard_time": 1686377068,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -779,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187598,
+      "num": 187598,
+      "word": "中午睡午觉不是全国统一的吗",
+      "onboard_time": 1686376707,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187591,
       "num": 187591,
       "word": "高铁晚点",
@@ -816,6 +872,14 @@
       "word": "不是谁会写小作文谁就有理",
       "onboard_time": 1686358717,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183174,
+      "num": 183174,
+      "word": "网友发布牵手门视频被董某某投诉",
+      "onboard_time": 1686376886,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -867,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172992,
+      "num": 183533,
+      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
+      "onboard_time": 1686376765,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 169217,
       "num": 1208817,
       "word": "你可以永远相信中国美学",
@@ -899,6 +971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 161088,
+      "num": 161088,
+      "word": "鞠婧祎郭俊辰花戎今晚大婚",
+      "onboard_time": 1686377307,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158189,
       "num": 158189,
       "word": "你给我的喜欢",
@@ -921,6 +1001,14 @@
       "onboard_time": 1686318630,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157470,
+      "num": 157470,
+      "word": "谢娜进步好大",
+      "onboard_time": 1686377788,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 157318,
@@ -955,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150224,
+      "num": 150224,
+      "word": "杨颖说在这个节目快没朋友了",
+      "onboard_time": 1686377068,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148154,
       "num": 148154,
       "word": "网剧独家童话",
@@ -977,6 +1073,22 @@
       "onboard_time": 1686350236,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142301,
+      "num": 142301,
+      "word": "坐个地铁以为走进了漫展",
+      "onboard_time": 1686377186,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142272,
+      "num": 142272,
+      "word": "嵩山音乐节",
+      "onboard_time": 1686377246,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 139312,
@@ -1224,6 +1336,14 @@
       "word": "3分钟告诉你万物皆可链",
       "onboard_time": 1686316349,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48547,
+      "num": 230229,
+      "word": "男子偶遇20年前恩人医生下跪感谢",
+      "onboard_time": 1686376825,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
