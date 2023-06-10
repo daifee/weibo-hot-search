@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686406437533,
+  "endTime": 1686407618013,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1788773,
+      "num": 1788773,
+      "word": "沈腾 我真能演子怡老公吗",
+      "onboard_time": 1686404010,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1769043,
       "num": 1769043,
       "word": "网友曝牵手门女子曾做微商拒退货款",
@@ -1051,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1548947,
-      "num": 1548947,
-      "word": "沈腾 我真能演子怡老公吗",
-      "onboard_time": 1686404010,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1531717,
       "num": 1531717,
       "word": "无意识刷手机的危害有多大",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1686052350,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1490869,
+      "num": 1490869,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1478298,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1686287012,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1109587,
-      "num": 1109587,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1109352,
@@ -2995,6 +2995,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 703201,
+      "num": 417083,
+      "word": "王一博张子枫i人领奖",
+      "onboard_time": 1686405209,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700134,
       "num": 700134,
       "word": "梦中的那片海",
@@ -3067,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673239,
+      "num": 371139,
+      "word": "江汉路",
+      "onboard_time": 1686405391,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672438,
       "num": 577879,
       "word": "王玉雯7天涨粉9万",
@@ -3100,7 +3116,7 @@
     },
     {
       "raw_hot": 663331,
-      "num": 338597,
+      "num": 366704,
       "word": "Ella笑不出来",
       "onboard_time": 1686404191,
       "rank": 15,
@@ -3859,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481984,
-      "num": 265529,
-      "word": "王一博张子枫i人领奖",
-      "onboard_time": 1686405209,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
@@ -4179,6 +4187,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 426082,
+      "num": 240525,
+      "word": "狐妖小红娘",
+      "onboard_time": 1686406229,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424870,
       "num": 341264,
       "word": "狗头萝莉摊煎饼",
@@ -4313,6 +4329,22 @@
       "onboard_time": 1686192029,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413371,
+      "num": 239604,
+      "word": "大半个娱乐圈都在江苏吧",
+      "onboard_time": 1686406051,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412980,
+      "num": 412980,
+      "word": "杰克辣条孕妇群里发伪装的虐猫视频",
+      "onboard_time": 1686406473,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412494,
@@ -4939,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354496,
+      "num": 211996,
+      "word": "佟晓梅的两次背叛",
+      "onboard_time": 1686406111,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354421,
       "num": 354421,
       "word": "马斯克亲测减肥神药要来了",
@@ -5107,6 +5147,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 344433,
+      "num": 209711,
+      "word": "微博电影之夜奖项",
+      "onboard_time": 1686406770,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344342,
       "num": 344342,
       "word": "上海高考作文",
@@ -5145,14 +5193,6 @@
       "onboard_time": 1686058652,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 343325,
-      "num": 343325,
-      "word": "江汉路",
-      "onboard_time": 1686405391,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340800,
@@ -6707,14 +6747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258092,
-      "num": 177596,
-      "word": "大半个娱乐圈都在江苏吧",
-      "onboard_time": 1686406051,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257273,
       "num": 257273,
       "word": "BLG战胜EDG",
@@ -6729,6 +6761,14 @@
       "onboard_time": 1686039327,
       "rank": 30,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 257174,
+      "num": 166749,
+      "word": "叶国华把军功还给了肖春生",
+      "onboard_time": 1686404730,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 256961,
@@ -6945,14 +6985,6 @@
       "onboard_time": 1686057753,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250871,
-      "num": 177381,
-      "word": "佟晓梅的两次背叛",
-      "onboard_time": 1686406111,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 250831,
@@ -7401,6 +7433,14 @@
       "onboard_time": 1686277289,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241454,
+      "num": 166064,
+      "word": "章子怡下一部是酱园弄杀夫案",
+      "onboard_time": 1686407553,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 241090,
@@ -8441,14 +8481,6 @@
       "onboard_time": 1686402990,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212148,
-      "num": 177282,
-      "word": "狐妖小红娘",
-      "onboard_time": 1686406229,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 212030,
@@ -12603,6 +12635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114595,
+      "num": 164343,
+      "word": "勒芒24小时耐力赛",
+      "onboard_time": 1686407191,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114250,
       "num": 114250,
       "word": "钢笔还给我爸爸",
@@ -13572,7 +13612,7 @@
     },
     {
       "raw_hot": 48135,
-      "num": 338849,
+      "num": 405347,
       "word": "微博电影之夜超聚光时刻",
       "onboard_time": 1686405629,
       "rank": 14,
@@ -13904,6 +13944,14 @@
       "word": "母亲坚持1948天给高考儿子写信",
       "onboard_time": 1686126213,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24489,
+      "num": 166355,
+      "word": "文化和自然遗产冷知识",
+      "onboard_time": 1686406953,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
