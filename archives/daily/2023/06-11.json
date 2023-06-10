@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686417247490,
+  "endTime": 1686418416147,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 420164,
-      "num": 311577,
+      "num": 377110,
       "word": "珠峰被救女子不付救援费背后",
       "onboard_time": 1686413310,
       "rank": 48,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104098,
+      "num": 94913,
+      "word": "焦迈奇游泳回家巡回演唱会",
+      "onboard_time": 1686417203,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 98058,
       "num": 98058,
       "word": "Uzi爆料自己14号上场",
@@ -419,12 +427,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90589,
-      "num": 89009,
-      "word": "焦迈奇游泳回家巡回演唱会",
-      "onboard_time": 1686417203,
-      "rank": 44,
-      "category": "音乐"
+      "raw_hot": 80182,
+      "num": 74796,
+      "word": "邓超和王一博说了什么",
+      "onboard_time": 1686399890,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 78888,
+      "num": 78888,
+      "word": "高考后爸爸搬行李的统一姿势",
+      "onboard_time": 1686415645,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57912,
@@ -433,6 +449,14 @@
       "onboard_time": 1686406953,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45265,
+      "num": 69395,
+      "word": "厂长回来二级抓下啊",
+      "onboard_time": 1686418222,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
