@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686428307599,
+  "endTime": 1686429219062,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -507,8 +507,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33400,
-      "num": 33400,
+      "raw_hot": 33536,
+      "num": 33536,
       "word": "蜘蛛侠",
       "onboard_time": 1686426493,
       "rank": 25,
