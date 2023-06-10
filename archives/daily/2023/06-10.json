@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686370778348,
+  "endTime": 1686371602516,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -51,6 +51,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1383404,
+      "num": 919308,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1339118,
       "num": 825751,
       "word": "四川大学回应女生曝光地铁大叔",
@@ -73,14 +81,6 @@
       "onboard_time": 1686314429,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1217966,
-      "num": 919308,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1213146,
@@ -155,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 793839,
+      "num": 793839,
+      "word": "谁能拒绝情绪稳定的年下男",
+      "onboard_time": 1686368126,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 769933,
       "num": 769933,
       "word": "婴儿接种证被盖死亡证明专用章",
@@ -187,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630012,
-      "num": 630012,
-      "word": "谁能拒绝情绪稳定的年下男",
-      "onboard_time": 1686368126,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 697959,
+      "num": 697959,
+      "word": "TheShy阿水Rookie去露营了",
+      "onboard_time": 1686368368,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 629946,
@@ -201,14 +209,6 @@
       "onboard_time": 1686313887,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 628153,
-      "num": 628153,
-      "word": "TheShy阿水Rookie去露营了",
-      "onboard_time": 1686368368,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 589756,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466731,
+      "num": 319642,
+      "word": "千万别和好闺蜜睡一张床",
+      "onboard_time": 1686367047,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 435374,
       "num": 435374,
       "word": "注册不了张z被曝专业是新闻传播",
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385905,
-      "num": 280934,
-      "word": "千万别和好闺蜜睡一张床",
-      "onboard_time": 1686367047,
-      "rank": 48,
-      "category": "幽默,情感"
+      "raw_hot": 393339,
+      "num": 393339,
+      "word": "三公",
+      "onboard_time": 1686370488,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 382828,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299069,
+      "num": 299069,
+      "word": "宫崎骏 选女孩做故事主角",
+      "onboard_time": 1686367529,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293448,
       "num": 293448,
       "word": "无意间刷到一个没人看的主播",
@@ -403,20 +419,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 285707,
-      "num": 285707,
-      "word": "宫崎骏 选女孩做故事主角",
-      "onboard_time": 1686367529,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285068,
       "num": 285068,
       "word": "全员加速中首期剧情",
       "onboard_time": 1686364000,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280068,
+      "num": 280068,
+      "word": "高考生物",
+      "onboard_time": 1686370287,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 277495,
+      "num": 277495,
+      "word": "何瑞贤新剧吻戏好多",
+      "onboard_time": 1686369287,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 273797,
@@ -427,20 +451,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273793,
+      "num": 273793,
+      "word": "Amber又是第一",
+      "onboard_time": 1686370886,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271633,
       "num": 271633,
       "word": "蔡英文与台空军通话疑似传出我是中国空军",
       "onboard_time": 1686366648,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268552,
-      "num": 268552,
-      "word": "何瑞贤新剧吻戏好多",
-      "onboard_time": 1686369287,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 267459,
@@ -505,14 +529,6 @@
       "onboard_time": 1686364244,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234906,
-      "num": 234906,
-      "word": "三公",
-      "onboard_time": 1686370488,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 234138,
@@ -659,15 +675,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194205,
-      "num": 194205,
-      "word": "高考生物",
-      "onboard_time": 1686370287,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 191522,
+      "raw_hot": 195628,
       "num": 209948,
       "word": "李沁认证肖春生社牛",
       "onboard_time": 1686367971,
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169630,
+      "num": 169630,
+      "word": "高铁晚点",
+      "onboard_time": 1686369168,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169217,
       "num": 1131515,
       "word": "你可以永远相信中国美学",
@@ -761,6 +777,14 @@
       "onboard_time": 1686323912,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162500,
+      "num": 162500,
+      "word": "黄奕竟然能和张伟丽缠斗一分钟",
+      "onboard_time": 1686369884,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 162288,
@@ -811,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156574,
-      "num": 156574,
-      "word": "黄奕竟然能和张伟丽缠斗一分钟",
-      "onboard_time": 1686369884,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156427,
       "num": 156427,
       "word": "梦中的那片海 酷云峰值",
@@ -833,14 +849,6 @@
       "onboard_time": 1686368447,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148341,
-      "num": 148341,
-      "word": "高铁晚点",
-      "onboard_time": 1686369168,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147075,
@@ -1156,6 +1164,9 @@
     },
     {
       "word": "#首部青少年中轴线微纪录片一脉#"
+    },
+    {
+      "word": "#要把官兵冷暖放在心上#"
     }
   ]
 }
