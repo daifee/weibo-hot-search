@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686414960787,
+  "endTime": 1686417247490,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1963,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1017188,
+      "num": 1017188,
+      "word": "日本突然声称核污水危害健康",
+      "onboard_time": 1686413250,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014291,
       "num": 688529,
       "word": "3499美元的苹果头显值得买吗",
@@ -2331,20 +2339,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 893504,
+      "num": 893504,
+      "word": "蔡徐坤看郑恺的眼神",
+      "onboard_time": 1686410552,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891741,
       "num": 891741,
       "word": "不知名最美狗nannyQAQ",
       "onboard_time": 1686283352,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 880248,
-      "num": 880248,
-      "word": "蔡徐坤看郑恺的眼神",
-      "onboard_time": 1686410552,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 879069,
@@ -3281,14 +3289,6 @@
       "onboard_time": 1685961028,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 619973,
-      "num": 619973,
-      "word": "日本突然声称核污水危害健康",
-      "onboard_time": 1686413250,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619363,
@@ -4345,6 +4345,14 @@
       "onboard_time": 1686209312,
       "rank": 26,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 420164,
+      "num": 311577,
+      "word": "珠峰被救女子不付救援费背后",
+      "onboard_time": 1686413310,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418002,
@@ -6675,14 +6683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268262,
-      "num": 268262,
-      "word": "珠峰被救女子不付救援费背后",
-      "onboard_time": 1686413310,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267459,
       "num": 267459,
       "word": "掘金vs热火",
@@ -6705,6 +6705,14 @@
       "onboard_time": 1686390207,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265961,
+      "num": 265961,
+      "word": "Minnie录制奔跑吧造型",
+      "onboard_time": 1686414028,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 265802,
@@ -6817,14 +6825,6 @@
       "onboard_time": 1686035066,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262203,
-      "num": 262203,
-      "word": "Minnie录制奔跑吧造型",
-      "onboard_time": 1686414028,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 261797,
@@ -11267,6 +11267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158822,
+      "num": 158822,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158755,
       "num": 158755,
       "word": "周冠宇",
@@ -13265,6 +13273,14 @@
       "onboard_time": 1685914212,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90589,
+      "num": 89009,
+      "word": "焦迈奇游泳回家巡回演唱会",
+      "onboard_time": 1686417203,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 90376,

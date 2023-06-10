@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686414960787,
+  "endTime": 1686417247490,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -27,6 +27,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1017188,
+      "num": 1017188,
+      "word": "日本突然声称核污水危害健康",
+      "onboard_time": 1686413250,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998413,
       "num": 581691,
       "word": "杰克辣条孕妇群里发伪装的虐猫视频",
@@ -43,20 +51,20 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 893504,
+      "num": 893504,
+      "word": "蔡徐坤看郑恺的眼神",
+      "onboard_time": 1686410552,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 882940,
       "num": 882940,
       "word": "沈腾 我真能演子怡老公吗",
       "onboard_time": 1686404010,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 880248,
-      "num": 880248,
-      "word": "蔡徐坤看郑恺的眼神",
-      "onboard_time": 1686410552,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 802981,
@@ -73,14 +81,6 @@
       "onboard_time": 1686401132,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 619973,
-      "num": 619973,
-      "word": "日本突然声称核污水危害健康",
-      "onboard_time": 1686413250,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608106,
@@ -120,6 +120,14 @@
       "word": "网友曝牵手门女子曾做微商拒退货款",
       "onboard_time": 1686401132,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420164,
+      "num": 311577,
+      "word": "珠峰被救女子不付救援费背后",
+      "onboard_time": 1686413310,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -195,16 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268262,
-      "num": 268262,
-      "word": "珠峰被救女子不付救援费背后",
-      "onboard_time": 1686413310,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262203,
-      "num": 262203,
+      "raw_hot": 265961,
+      "num": 265961,
       "word": "Minnie录制奔跑吧造型",
       "onboard_time": 1686414028,
       "rank": 44,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158822,
+      "num": 158822,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154187,
       "num": 154187,
       "word": "鼠头鸭脖",
@@ -387,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125808,
+      "num": 113264,
+      "word": "我那么大一个马丽呢",
+      "onboard_time": 1686401671,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112159,
       "num": 132236,
       "word": "JDG战胜EDG",
@@ -401,6 +417,14 @@
       "onboard_time": 1686396207,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90589,
+      "num": 89009,
+      "word": "焦迈奇游泳回家巡回演唱会",
+      "onboard_time": 1686417203,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 57912,
