@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686368016626,
+  "endTime": 1686370778348,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -9,6 +9,14 @@
       "onboard_time": 1686324870,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1682616,
+      "num": 1682616,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1592107,
@@ -33,14 +41,6 @@
       "onboard_time": 1686315929,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1444587,
-      "num": 1444587,
-      "word": "大学摘10万斤荔枝请全校免费吃",
-      "onboard_time": 1686364364,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1423263,
@@ -73,6 +73,14 @@
       "onboard_time": 1686314429,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1217966,
+      "num": 919308,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1213146,
@@ -121,14 +129,6 @@
       "onboard_time": 1686354281,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 919308,
-      "num": 919308,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 870618,
@@ -187,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630012,
+      "num": 630012,
+      "word": "谁能拒绝情绪稳定的年下男",
+      "onboard_time": 1686368126,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629946,
       "num": 141224,
       "word": "杨幂私服",
       "onboard_time": 1686313887,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 628153,
+      "num": 628153,
+      "word": "TheShy阿水Rookie去露营了",
+      "onboard_time": 1686368368,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 589756,
@@ -273,6 +289,14 @@
       "onboard_time": 1686351738,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385905,
+      "num": 280934,
+      "word": "千万别和好闺蜜睡一张床",
+      "onboard_time": 1686367047,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 382828,
@@ -379,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 285707,
+      "num": 285707,
+      "word": "宫崎骏 选女孩做故事主角",
+      "onboard_time": 1686367529,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285068,
       "num": 285068,
       "word": "全员加速中首期剧情",
@@ -392,6 +424,22 @@
       "word": "肖战肖春生微指数破亿",
       "onboard_time": 1686366161,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271633,
+      "num": 271633,
+      "word": "蔡英文与台空军通话疑似传出我是中国空军",
+      "onboard_time": 1686366648,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268552,
+      "num": 268552,
+      "word": "何瑞贤新剧吻戏好多",
+      "onboard_time": 1686369287,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -459,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234906,
+      "num": 234906,
+      "word": "三公",
+      "onboard_time": 1686370488,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234138,
       "num": 234138,
       "word": "约基奇太无解了",
@@ -515,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216607,
-      "num": 216607,
-      "word": "蔡英文与台空军通话疑似传出我是中国空军",
-      "onboard_time": 1686366648,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 216853,
+      "num": 216853,
+      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
+      "onboard_time": 1686365247,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 216068,
@@ -547,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211122,
-      "num": 211122,
-      "word": "宫崎骏 选女孩做故事主角",
-      "onboard_time": 1686367529,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210872,
       "num": 210872,
       "word": "鼠头鸭脖学校门口大量学生取外卖",
@@ -577,14 +625,6 @@
       "onboard_time": 1686323131,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204453,
-      "num": 204453,
-      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
-      "onboard_time": 1686365247,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 202259,
@@ -617,6 +657,14 @@
       "onboard_time": 1686360209,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194205,
+      "num": 194205,
+      "word": "高考生物",
+      "onboard_time": 1686370287,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 191522,
@@ -691,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169217,
+      "num": 1131515,
+      "word": "你可以永远相信中国美学",
+      "onboard_time": 1686360327,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168859,
       "num": 168859,
       "word": "EDG海报空个位置",
@@ -705,6 +761,14 @@
       "onboard_time": 1686323912,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162288,
+      "num": 162288,
+      "word": "高考",
+      "onboard_time": 1686369648,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158189,
@@ -747,12 +811,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156574,
+      "num": 156574,
+      "word": "黄奕竟然能和张伟丽缠斗一分钟",
+      "onboard_time": 1686369884,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156427,
       "num": 156427,
       "word": "梦中的那片海 酷云峰值",
       "onboard_time": 1686321932,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155893,
+      "num": 155893,
+      "word": "刘耀文张真源验证成功",
+      "onboard_time": 1686368447,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148341,
+      "num": 148341,
+      "word": "高铁晚点",
+      "onboard_time": 1686369168,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147075,
@@ -777,14 +865,6 @@
       "onboard_time": 1686343933,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137276,
-      "num": 137276,
-      "word": "千万别和好闺蜜睡一张床",
-      "onboard_time": 1686367047,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 137259,
@@ -929,14 +1009,6 @@
       "onboard_time": 1686330502,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93102,
-      "num": 1131515,
-      "word": "你可以永远相信中国美学",
-      "onboard_time": 1686360327,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87171,

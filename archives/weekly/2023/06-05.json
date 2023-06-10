@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686368016626,
+  "endTime": 1686370778348,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1682616,
+      "num": 1682616,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1682139,
       "num": 1682139,
       "word": "黄旭熙 泡泡",
@@ -1075,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1444587,
-      "num": 1444587,
-      "word": "大学摘10万斤荔枝请全校免费吃",
-      "onboard_time": 1686364364,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1443641,
       "num": 580316,
       "word": "李湘祝贺王诗龄获奖学金",
@@ -1385,6 +1385,14 @@
       "onboard_time": 1686203131,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1217966,
+      "num": 919308,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1214875,
@@ -2008,14 +2016,6 @@
       "word": "日本女团成员灌男粉喝洗洁精",
       "onboard_time": 1685920400,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919308,
-      "num": 919308,
-      "word": "牵手门女主疑5个月支出43万",
-      "onboard_time": 1686365007,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2873,6 +2873,22 @@
       "onboard_time": 1686127112,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 630012,
+      "num": 630012,
+      "word": "谁能拒绝情绪稳定的年下男",
+      "onboard_time": 1686368126,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 628153,
+      "num": 628153,
+      "word": "TheShy阿水Rookie去露营了",
+      "onboard_time": 1686368368,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 627807,
@@ -4081,6 +4097,14 @@
       "onboard_time": 1686289829,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385905,
+      "num": 280934,
+      "word": "千万别和好闺蜜睡一张床",
+      "onboard_time": 1686367047,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 385616,
@@ -5363,6 +5387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285707,
+      "num": 285707,
+      "word": "宫崎骏 选女孩做故事主角",
+      "onboard_time": 1686367529,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285068,
       "num": 285068,
       "word": "全员加速中首期剧情",
@@ -5675,6 +5707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271633,
+      "num": 271633,
+      "word": "蔡英文与台空军通话疑似传出我是中国空军",
+      "onboard_time": 1686366648,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271370,
       "num": 271370,
       "word": "11岁男孩开电动车失控撞死3岁男童",
@@ -5753,6 +5793,14 @@
       "onboard_time": 1685920521,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268552,
+      "num": 268552,
+      "word": "何瑞贤新剧吻戏好多",
+      "onboard_time": 1686369287,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 267459,
@@ -6691,6 +6739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234906,
+      "num": 234906,
+      "word": "三公",
+      "onboard_time": 1686370488,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234307,
       "num": 234307,
       "word": "刘耀文读秒好准",
@@ -7339,6 +7395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216853,
+      "num": 216853,
+      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
+      "onboard_time": 1686365247,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216728,
       "num": 216728,
       "word": "高考时间",
@@ -7353,14 +7417,6 @@
       "onboard_time": 1686026734,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216607,
-      "num": 216607,
-      "word": "蔡英文与台空军通话疑似传出我是中国空军",
-      "onboard_time": 1686366648,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216540,
@@ -7489,14 +7545,6 @@
       "onboard_time": 1685964687,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211122,
-      "num": 211122,
-      "word": "宫崎骏 选女孩做故事主角",
-      "onboard_time": 1686367529,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 211087,
@@ -7769,14 +7817,6 @@
       "onboard_time": 1685977292,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 204453,
-      "num": 204453,
-      "word": "王鹤棣奔跑吧录制愿望是撕名牌",
-      "onboard_time": 1686365247,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 204385,
@@ -8241,6 +8281,14 @@
       "onboard_time": 1686271350,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194205,
+      "num": 194205,
+      "word": "高考生物",
+      "onboard_time": 1686306690,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 194183,
@@ -9275,14 +9323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172725,
-      "num": 172725,
-      "word": "高考生物",
-      "onboard_time": 1686306690,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 172623,
       "num": 172623,
       "word": "蜘蛛侠 面罩怎么装下头发的",
@@ -9417,6 +9457,14 @@
       "onboard_time": 1685957369,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169217,
+      "num": 1131515,
+      "word": "你可以永远相信中国美学",
+      "onboard_time": 1686360327,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169098,
@@ -9939,6 +9987,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 156574,
+      "num": 156574,
+      "word": "黄奕竟然能和张伟丽缠斗一分钟",
+      "onboard_time": 1686369884,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156182,
       "num": 156182,
       "word": "明日方舟",
@@ -9952,6 +10008,14 @@
       "word": "黄子韬在线吃瓜速度",
       "onboard_time": 1686297330,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155893,
+      "num": 155893,
+      "word": "刘耀文张真源验证成功",
+      "onboard_time": 1686368447,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -10193,6 +10257,14 @@
       "onboard_time": 1686281672,
       "rank": 47,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 148341,
+      "num": 148341,
+      "word": "高铁晚点",
+      "onboard_time": 1686369168,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148235,
@@ -10545,14 +10617,6 @@
       "onboard_time": 1686295230,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137276,
-      "num": 137276,
-      "word": "千万别和好闺蜜睡一张床",
-      "onboard_time": 1686367047,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 137080,
@@ -11649,14 +11713,6 @@
       "onboard_time": 1686314188,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93102,
-      "num": 1131515,
-      "word": "你可以永远相信中国美学",
-      "onboard_time": 1686360327,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92712,
