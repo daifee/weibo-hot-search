@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686381269747,
+  "endTime": 1686382411829,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -83,8 +83,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 5850717,
-      "num": 5850717,
+      "raw_hot": 6842168,
+      "num": 6842168,
       "word": "EDG官宣签约Uzi",
       "onboard_time": 1686380789,
       "rank": 0,
@@ -2371,6 +2371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 808416,
+      "num": 808416,
+      "word": "LPL006号选手Uzi重新连接",
+      "onboard_time": 1686381330,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 808200,
       "num": 808200,
       "word": "章若楠观众缘",
@@ -2963,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623366,
+      "num": 623366,
+      "word": "Uzi和Meiko再搭档",
+      "onboard_time": 1686381812,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 622841,
       "num": 449093,
       "word": "张小狮说愿意归还所有资助",
@@ -3300,7 +3316,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 254737,
+      "num": 277762,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -3385,6 +3401,14 @@
       "onboard_time": 1686028649,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503531,
+      "num": 503531,
+      "word": "梅西签证",
+      "onboard_time": 1686379588,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 502244,
@@ -3569,14 +3593,6 @@
       "onboard_time": 1686106958,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 478112,
-      "num": 478112,
-      "word": "梅西签证",
-      "onboard_time": 1686379588,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 476602,
@@ -4955,12 +4971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318585,
+      "num": 318585,
+      "word": "荔枝虫",
+      "onboard_time": 1686380008,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317621,
       "num": 256408,
       "word": "肖战说希望肖春生没有让爸爸失望",
       "onboard_time": 1686315450,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 316911,
+      "num": 267288,
+      "word": "中午睡午觉不是全国统一的吗",
+      "onboard_time": 1686376707,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 316890,
@@ -5459,6 +5491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289941,
+      "num": 289941,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1686381872,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289755,
       "num": 289755,
       "word": "90后程序员回家卖羊粪月销120万",
@@ -5851,14 +5891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271695,
-      "num": 244905,
-      "word": "中午睡午觉不是全国统一的吗",
-      "onboard_time": 1686376707,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271633,
       "num": 271633,
       "word": "蔡英文与台空军通话疑似传出我是中国空军",
@@ -6065,6 +6097,14 @@
       "onboard_time": 1686020188,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261109,
+      "num": 261109,
+      "word": "胖东来回应顾客买荔枝吃出虫子",
+      "onboard_time": 1686380248,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260084,
@@ -6971,6 +7011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 232244,
+      "num": 232244,
+      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
+      "onboard_time": 1686376765,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 232226,
       "num": 232226,
       "word": "易烊千玺T锦绣六月刊封面",
@@ -7523,14 +7571,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 217899,
-      "num": 217899,
-      "word": "胖东来回应顾客买荔枝吃出虫子",
-      "onboard_time": 1686380248,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217849,
       "num": 217849,
       "word": "前生的泪 来世的痣",
@@ -7561,6 +7601,14 @@
       "onboard_time": 1686143555,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217303,
+      "num": 217303,
+      "word": "王鹤棣登泰趋",
+      "onboard_time": 1686380849,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 217218,
@@ -7697,14 +7745,6 @@
       "onboard_time": 1686284432,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212711,
-      "num": 212711,
-      "word": "荔枝虫",
-      "onboard_time": 1686380008,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211853,
@@ -8083,6 +8123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203494,
+      "num": 203494,
+      "word": "Uzi时隔374天重返LPL",
+      "onboard_time": 1686382291,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203334,
       "num": 199796,
       "word": "微博电影之夜阵容",
@@ -8299,14 +8347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198355,
-      "num": 198355,
-      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
-      "onboard_time": 1686376765,
-      "rank": 33,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 198145,
       "num": 198145,
       "word": "罗云熙手写祝福让考生放松心态",
@@ -8337,6 +8377,14 @@
       "onboard_time": 1686138695,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196976,
+      "num": 196976,
+      "word": "白敬亭西安",
+      "onboard_time": 1686379167,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 196857,
@@ -8971,14 +9019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185937,
-      "num": 185937,
-      "word": "王鹤棣登泰趋",
-      "onboard_time": 1686380849,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185890,
       "num": 185890,
       "word": "你当年高考数学多少分",
@@ -9241,6 +9281,14 @@
       "onboard_time": 1686298109,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180060,
+      "num": 180060,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 180041,
@@ -9740,7 +9788,7 @@
     },
     {
       "raw_hot": 169217,
-      "num": 1492108,
+      "num": 1746189,
       "word": "你可以永远相信中国美学",
       "onboard_time": 1686360327,
       "rank": 48,
@@ -9979,6 +10027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164026,
+      "num": 164026,
+      "word": "Amber看到帮唱师姐郑秀妍的反应",
+      "onboard_time": 1686380730,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163794,
       "num": 163794,
       "word": "杨和苏腹肌",
@@ -10075,14 +10131,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 161449,
-      "num": 161449,
-      "word": "白敬亭西安",
-      "onboard_time": 1686379167,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161246,
       "num": 161246,
       "word": "学车教练给我取了个日本名",
@@ -10129,6 +10177,14 @@
       "onboard_time": 1686052827,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159464,
+      "num": 159464,
+      "word": "朱一龙帅到alin了",
+      "onboard_time": 1686381751,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 159322,
@@ -10289,6 +10345,14 @@
       "onboard_time": 1686102214,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156495,
+      "num": 156495,
+      "word": "坐个地铁以为走进了漫展",
+      "onboard_time": 1686377186,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 156182,
@@ -10611,6 +10675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147336,
+      "num": 147336,
+      "word": "周也是怕冷星人",
+      "onboard_time": 1686382111,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147075,
       "num": 147075,
       "word": "这么多年网播定档",
@@ -10777,14 +10849,6 @@
       "onboard_time": 1686154346,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142301,
-      "num": 142301,
-      "word": "坐个地铁以为走进了漫展",
-      "onboard_time": 1686377186,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 142272,
@@ -11217,14 +11281,6 @@
       "onboard_time": 1686041969,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128808,
-      "num": 128808,
-      "word": "Amber看到帮唱师姐郑秀妍的反应",
-      "onboard_time": 1686380730,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 128557,

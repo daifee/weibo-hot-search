@@ -1,10 +1,10 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686381269747,
+  "endTime": 1686382411829,
   "band_list": [
     {
-      "raw_hot": 5850717,
-      "num": 5850717,
+      "raw_hot": 6842168,
+      "num": 6842168,
       "word": "EDG官宣签约Uzi",
       "onboard_time": 1686380789,
       "rank": 0,
@@ -195,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 808416,
+      "num": 808416,
+      "word": "LPL006号选手Uzi重新连接",
+      "onboard_time": 1686381330,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 804366,
       "num": 804366,
       "word": "谁能拒绝情绪稳定的年下男",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623366,
+      "num": 623366,
+      "word": "Uzi和Meiko再搭档",
+      "onboard_time": 1686381812,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 589756,
       "num": 589756,
       "word": "男子自曝村副书记妻子出轨书记",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 527542,
-      "num": 254737,
+      "num": 277762,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 42,
@@ -313,6 +329,14 @@
       "onboard_time": 1686363284,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503531,
+      "num": 503531,
+      "word": "梅西签证",
+      "onboard_time": 1686379588,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 497580,
@@ -337,14 +361,6 @@
       "onboard_time": 1686375686,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478112,
-      "num": 478112,
-      "word": "梅西签证",
-      "onboard_time": 1686379588,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 474887,
@@ -483,6 +499,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318585,
+      "num": 318585,
+      "word": "荔枝虫",
+      "onboard_time": 1686380008,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316911,
+      "num": 267288,
+      "word": "中午睡午觉不是全国统一的吗",
+      "onboard_time": 1686376707,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307170,
       "num": 307170,
       "word": "谢娜进步好大",
@@ -529,6 +561,14 @@
       "onboard_time": 1686328526,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289941,
+      "num": 289941,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1686381872,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 287831,
@@ -579,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271695,
-      "num": 244905,
-      "word": "中午睡午觉不是全国统一的吗",
-      "onboard_time": 1686376707,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271633,
       "num": 271633,
       "word": "蔡英文与台空军通话疑似传出我是中国空军",
@@ -625,6 +657,14 @@
       "onboard_time": 1686378987,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261109,
+      "num": 261109,
+      "word": "胖东来回应顾客买荔枝吃出虫子",
+      "onboard_time": 1686380248,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259294,
@@ -673,6 +713,14 @@
       "onboard_time": 1686367004,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232244,
+      "num": 232244,
+      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
+      "onboard_time": 1686376765,
+      "rank": 33,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 232222,
@@ -747,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217899,
-      "num": 217899,
-      "word": "胖东来回应顾客买荔枝吃出虫子",
-      "onboard_time": 1686380248,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 217303,
+      "num": 217303,
+      "word": "王鹤棣登泰趋",
+      "onboard_time": 1686380849,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 217218,
@@ -793,14 +841,6 @@
       "onboard_time": 1686291208,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 212711,
-      "num": 212711,
-      "word": "荔枝虫",
-      "onboard_time": 1686380008,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210872,
@@ -851,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203494,
+      "num": 203494,
+      "word": "Uzi时隔374天重返LPL",
+      "onboard_time": 1686382291,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202259,
       "num": 202259,
       "word": "高考生感觉考砸公交司机安慰半小时",
@@ -867,12 +915,12 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 198355,
-      "num": 198355,
-      "word": "严浩翔粉丝家长叫严浩翔未来姑爷",
-      "onboard_time": 1686376765,
-      "rank": 33,
-      "category": "艺人,幽默"
+      "raw_hot": 196976,
+      "num": 196976,
+      "word": "白敬亭西安",
+      "onboard_time": 1686379167,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 196728,
@@ -947,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185937,
-      "num": 185937,
-      "word": "王鹤棣登泰趋",
-      "onboard_time": 1686380849,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185242,
       "num": 185242,
       "word": "宁静问尹浩宇你在中国那么不火吗",
@@ -969,6 +1009,14 @@
       "onboard_time": 1686358717,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180060,
+      "num": 180060,
+      "word": "邪剑仙根本吸不完",
+      "onboard_time": 1686381992,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 178410,
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 169217,
-      "num": 1492108,
+      "num": 1746189,
       "word": "你可以永远相信中国美学",
       "onboard_time": 1686360327,
       "rank": 48,
@@ -1051,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164026,
+      "num": 164026,
+      "word": "Amber看到帮唱师姐郑秀妍的反应",
+      "onboard_time": 1686380730,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162288,
       "num": 162288,
       "word": "高考",
@@ -1059,20 +1115,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 161449,
-      "num": 161449,
-      "word": "白敬亭西安",
-      "onboard_time": 1686379167,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161088,
       "num": 161088,
       "word": "鞠婧祎郭俊辰花戎今晚大婚",
       "onboard_time": 1686377307,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159464,
+      "num": 159464,
+      "word": "朱一龙帅到alin了",
+      "onboard_time": 1686381751,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 158903,
@@ -1123,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156495,
+      "num": 156495,
+      "word": "坐个地铁以为走进了漫展",
+      "onboard_time": 1686377186,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156427,
       "num": 156427,
       "word": "梦中的那片海 酷云峰值",
@@ -1147,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147336,
+      "num": 147336,
+      "word": "周也是怕冷星人",
+      "onboard_time": 1686382111,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147075,
       "num": 147075,
       "word": "这么多年网播定档",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1686350236,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142301,
-      "num": 142301,
-      "word": "坐个地铁以为走进了漫展",
-      "onboard_time": 1686377186,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 142272,
@@ -1233,14 +1297,6 @@
       "onboard_time": 1686327448,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128808,
-      "num": 128808,
-      "word": "Amber看到帮唱师姐郑秀妍的反应",
-      "onboard_time": 1686380730,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 124093,
