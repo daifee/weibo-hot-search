@@ -1,0 +1,410 @@
+{
+  "runTime": 1686396824293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2155214,
+        "num": 2155214,
+        "word": "江西就鸭脖事件成立联合调查组",
+        "onboard_time": 1686390387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301084,
+        "num": 1733499,
+        "word": "女子暴雨中徒手疏通下水道口",
+        "onboard_time": 1686390628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22697,
+        "num": 1454334,
+        "word": "高质量发展调研行",
+        "onboard_time": 1686387328,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375607,
+        "num": 1375607,
+        "word": "张子枫吊带阔腿裤",
+        "onboard_time": 1686390688,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269503,
+        "num": 1269622,
+        "word": "这才是学医的意义",
+        "onboard_time": 1686394850,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263127,
+        "num": 1263127,
+        "word": "南京暴雨 原来萧敬腾在",
+        "onboard_time": 1686394246,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 179861,
+        "num": 991277,
+        "word": "奶奶给高考结束的孙子送花",
+        "onboard_time": 1686386786,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964084,
+        "num": 964084,
+        "word": "陈都灵 黑色头巾",
+        "onboard_time": 1686388348,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 929493,
+        "num": 929493,
+        "word": "邪剑仙根本吸不完",
+        "onboard_time": 1686381992,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 928817,
+        "num": 928817,
+        "word": "王一博好贵",
+        "onboard_time": 1686389967,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 803816,
+        "num": 803816,
+        "word": "minnie",
+        "onboard_time": 1686394166,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 745326,
+        "num": 745326,
+        "word": "肖战出现在母校晚会宣传片",
+        "onboard_time": 1686386727,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675684,
+        "num": 675684,
+        "word": "全靠周也的脸",
+        "onboard_time": 1686389967,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630377,
+        "num": 630377,
+        "word": "微博电影之夜直播",
+        "onboard_time": 1686395726,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19501,
+        "num": 624559,
+        "word": "直击微博电影之夜现场",
+        "onboard_time": 1686394850,
+        "rank": 14,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 621094,
+        "num": 621094,
+        "word": "EDG官宣签约Uzi",
+        "onboard_time": 1686380789,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 614356,
+        "num": 614356,
+        "word": "微博电影之夜内场",
+        "onboard_time": 1686393763,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 598181,
+        "num": 598181,
+        "word": "吴京贾静雯牵手",
+        "onboard_time": 1686395562,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506391,
+        "num": 506391,
+        "word": "鼠头鸭脖",
+        "onboard_time": 1686391769,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437921,
+        "num": 437921,
+        "word": "如何跟路人解释Uzi加入EDG",
+        "onboard_time": 1686386127,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427934,
+        "num": 427934,
+        "word": "胖东来荔枝打开全是虫子",
+        "onboard_time": 1686377546,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408747,
+        "num": 408747,
+        "word": "全员加速中",
+        "onboard_time": 1686394888,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396766,
+        "num": 396766,
+        "word": "赵琦君杨凯雯订婚",
+        "onboard_time": 1686396650,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349828,
+        "num": 349828,
+        "word": "EDG对战JDG",
+        "onboard_time": 1686393809,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318450,
+        "num": 341356,
+        "word": "千万不要用酒精清洁电脑屏幕",
+        "onboard_time": 1686373827,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354910,
+        "num": 340038,
+        "word": "张艺凡 小天鹅",
+        "onboard_time": 1686387328,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335649,
+        "num": 335649,
+        "word": "朴宰范这次穿得好多啊",
+        "onboard_time": 1686394602,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322168,
+        "num": 322168,
+        "word": "虞书欣Jennie有好多同款",
+        "onboard_time": 1686383491,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 280505,
+        "num": 280505,
+        "word": "EDG首发名单",
+        "onboard_time": 1686324510,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266791,
+        "num": 266791,
+        "word": "Uzi爆料自己14号上场",
+        "onboard_time": 1686396207,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280769,
+        "num": 266417,
+        "word": "沈腾在红毯发彩票",
+        "onboard_time": 1686391469,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257285,
+        "num": 257285,
+        "word": "千万别和好闺蜜睡一张床",
+        "onboard_time": 1686367047,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 250161,
+        "num": 250161,
+        "word": "男子性侵13岁女孩被判4年赔2万",
+        "onboard_time": 1686361114,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239112,
+        "num": 239112,
+        "word": "梅西到北京了",
+        "onboard_time": 1686364000,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231833,
+        "num": 231833,
+        "word": "微博电影之夜开场表演",
+        "onboard_time": 1686395922,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211382,
+        "num": 211382,
+        "word": "Uzi圣枪哥训练室解说",
+        "onboard_time": 1686396405,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203438,
+        "num": 203438,
+        "word": "邓超婚姻幸福的秘诀 找一个叫孙俪的女人",
+        "onboard_time": 1686392309,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201452,
+        "num": 201452,
+        "word": "陈都灵王玉雯在聊什么",
+        "onboard_time": 1686395682,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201132,
+        "num": 201132,
+        "word": "梅西酒店",
+        "onboard_time": 1686382412,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29883,
+        "num": 199077,
+        "word": "清冷感妆容好降温",
+        "onboard_time": 1686394850,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197915,
+        "num": 197915,
+        "word": "南京天气",
+        "onboard_time": 1686393687,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200453,
+        "num": 195017,
+        "word": "牵手门女主疑5个月支出43万",
+        "onboard_time": 1686365007,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190584,
+        "num": 190584,
+        "word": "冰雹",
+        "onboard_time": 1686396805,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1686382771,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188919,
+        "num": 188919,
+        "word": "紫琅音乐节",
+        "onboard_time": 1686396405,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180968,
+        "num": 180968,
+        "word": "奔跑吧泰国路透",
+        "onboard_time": 1686385886,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179560,
+        "num": 179560,
+        "word": "王子奇王玉雯黑白配走红毯",
+        "onboard_time": 1686387447,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177442,
+        "num": 177442,
+        "word": "大学生高考考点卖花反亏一千",
+        "onboard_time": 1686375567,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176395,
+        "num": 176395,
+        "word": "Uzi和Meiko再搭档",
+        "onboard_time": 1686381812,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176129,
+        "num": 176129,
+        "word": "皓史成双",
+        "onboard_time": 1686390207,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护文化遗产赓续文明血脉#"
+    }
+  }
+}
