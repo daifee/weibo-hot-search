@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686362257906,
+  "endTime": 1686365129896,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1595,12 +1595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1097615,
+      "num": 1097615,
+      "word": "Jennie 复仇者联盟5",
+      "onboard_time": 1686360156,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1095349,
       "num": 929194,
       "word": "董洁首谈离婚风波影响",
       "onboard_time": 1686113620,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1093648,
+      "num": 384682,
+      "word": "男子性侵13岁女孩被判4年赔2万",
+      "onboard_time": 1686361114,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093188,
@@ -2083,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 870618,
+      "num": 870618,
+      "word": "188大帅哥倒地好长一条",
+      "onboard_time": 1686358887,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 868923,
       "num": 868923,
       "word": "爱奇艺暑期档排播剧集",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1686115472,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 848243,
-      "num": 848243,
-      "word": "Jennie 复仇者联盟5",
-      "onboard_time": 1686360156,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 840986,
@@ -2635,6 +2651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 708950,
+      "num": 708950,
+      "word": "梅西到北京了",
+      "onboard_time": 1686364000,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 708025,
       "num": 708025,
       "word": "汤晶媚任敏我们和好啦",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1686194250,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 642567,
+      "num": 642567,
+      "word": "陈鑫海怒怼辱国旅客",
+      "onboard_time": 1686363883,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 641544,
@@ -2963,6 +2995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 589756,
+      "num": 589756,
+      "word": "男子自曝村副书记妻子出轨书记",
+      "onboard_time": 1686362008,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588438,
       "num": 464389,
       "word": "绝大男人婚前婚后的生活都不会有太大变化",
@@ -3121,14 +3161,6 @@
       "onboard_time": 1686032067,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 540956,
-      "num": 320693,
-      "word": "男子性侵13岁女孩被判4年赔2万",
-      "onboard_time": 1686361114,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 540548,
@@ -3387,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482463,
+      "num": 482463,
+      "word": "leave女友发文",
+      "onboard_time": 1686363807,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481819,
       "num": 481819,
       "word": "张云龙狐妖小红娘路透",
@@ -3452,7 +3492,7 @@
     },
     {
       "raw_hot": 474887,
-      "num": 317015,
+      "num": 376410,
       "word": "以为便宜却贵得离谱的东西",
       "onboard_time": 1686359316,
       "rank": 20,
@@ -3883,6 +3923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407201,
+      "num": 407201,
+      "word": "奔跑吧下期预告有白鹿张凌赫",
+      "onboard_time": 1686363284,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406941,
       "num": 406941,
       "word": "印度耗资百亿卢比的大桥又塌了",
@@ -3969,6 +4017,14 @@
       "onboard_time": 1686122134,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 390825,
+      "num": 390825,
+      "word": "斗罗大陆",
+      "onboard_time": 1686293911,
+      "rank": 44,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 390788,
@@ -4315,6 +4371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 357939,
+      "num": 357939,
+      "word": "山东历史 难",
+      "onboard_time": 1686362561,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "四会住建局回应业主购42套房全打通",
@@ -4409,14 +4473,6 @@
       "onboard_time": 1686300031,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349941,
-      "num": 349941,
-      "word": "188大帅哥倒地好长一条",
-      "onboard_time": 1686358887,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 349915,
@@ -5291,6 +5347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285068,
+      "num": 285068,
+      "word": "全员加速中首期剧情",
+      "onboard_time": 1686364000,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284989,
       "num": 284989,
       "word": "古代状元到底是什么水平",
@@ -5665,6 +5729,14 @@
       "onboard_time": 1685920521,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268274,
+      "num": 268274,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267049,
@@ -6273,6 +6345,14 @@
       "onboard_time": 1686116851,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 245343,
+      "num": 245343,
+      "word": "谁教你这么凑单的",
+      "onboard_time": 1686364244,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 245324,
@@ -7011,6 +7091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222801,
+      "num": 222801,
+      "word": "掘金vs热火",
+      "onboard_time": 1686187471,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222299,
       "num": 222299,
       "word": "商家回应点10斤小龙虾出锅后5斤",
@@ -7257,6 +7345,14 @@
       "onboard_time": 1686360807,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215967,
+      "num": 215967,
+      "word": "原来打工真的会变丑",
+      "onboard_time": 1686362316,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 215762,
@@ -8771,14 +8867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179607,
-      "num": 179607,
-      "word": "掘金vs热火",
-      "onboard_time": 1686187471,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179475,
       "num": 179475,
       "word": "高考是人生一次选择但不是唯一",
@@ -8817,6 +8905,14 @@
       "onboard_time": 1686065250,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178682,
+      "num": 178682,
+      "word": "不是谁会写小作文谁就有理",
+      "onboard_time": 1686358717,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178491,
@@ -9539,14 +9635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162151,
-      "num": 162151,
-      "word": "不是谁会写小作文谁就有理",
-      "onboard_time": 1686358717,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "田曦薇羊毛卷雀斑妆",
@@ -9979,14 +10067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150278,
-      "num": 150278,
-      "word": "男子自曝村副书记妻子出轨书记",
-      "onboard_time": 1686362008,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149915,
       "num": 149915,
       "word": "秋瓷炫为Amber抱不平",
@@ -10049,14 +10129,6 @@
       "onboard_time": 1686288393,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 148042,
-      "num": 148042,
-      "word": "斗罗大陆",
-      "onboard_time": 1686293911,
-      "rank": 44,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 147612,
@@ -11265,6 +11337,14 @@
       "onboard_time": 1686274169,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105133,
+      "num": 105133,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104875,

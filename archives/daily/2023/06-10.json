@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686362257906,
+  "endTime": 1686365129896,
   "band_list": [
     {
       "raw_hot": 2445992,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1339118,
-      "num": 724920,
+      "num": 806401,
       "word": "四川大学回应女生曝光地铁大叔",
       "onboard_time": 1686299851,
       "rank": 5,
@@ -75,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1097615,
+      "num": 1097615,
+      "word": "Jennie 复仇者联盟5",
+      "onboard_time": 1686360156,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1093648,
+      "num": 384682,
+      "word": "男子性侵13岁女孩被判4年赔2万",
+      "onboard_time": 1686361114,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -91,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 848243,
-      "num": 848243,
-      "word": "Jennie 复仇者联盟5",
-      "onboard_time": 1686360156,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 870618,
+      "num": 870618,
+      "word": "188大帅哥倒地好长一条",
+      "onboard_time": 1686358887,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 769933,
@@ -123,12 +139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 708950,
+      "num": 708950,
+      "word": "梅西到北京了",
+      "onboard_time": 1686364000,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685979,
       "num": 685979,
       "word": "抑郁女生带患癌爷爷游中国相互治愈",
       "onboard_time": 1686352158,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642567,
+      "num": 642567,
+      "word": "陈鑫海怒怼辱国旅客",
+      "onboard_time": 1686363883,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 629946,
@@ -139,19 +171,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589756,
+      "num": 589756,
+      "word": "男子自曝村副书记妻子出轨书记",
+      "onboard_time": 1686362008,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559009,
       "num": 559009,
       "word": "长沙一公司取消了所有的调休",
       "onboard_time": 1686298290,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540956,
-      "num": 320693,
-      "word": "男子性侵13岁女孩被判4年赔2万",
-      "onboard_time": 1686361114,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -163,8 +195,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482463,
+      "num": 482463,
+      "word": "leave女友发文",
+      "onboard_time": 1686363807,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 474887,
-      "num": 317015,
+      "num": 376410,
       "word": "以为便宜却贵得离谱的东西",
       "onboard_time": 1686359316,
       "rank": 20,
@@ -203,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407201,
+      "num": 407201,
+      "word": "奔跑吧下期预告有白鹿张凌赫",
+      "onboard_time": 1686363284,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 390825,
+      "num": 390825,
+      "word": "斗罗大陆",
+      "onboard_time": 1686364244,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 382828,
       "num": 302171,
       "word": "请假期间男同事查看我电脑",
@@ -235,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 349941,
-      "num": 349941,
-      "word": "188大帅哥倒地好长一条",
-      "onboard_time": 1686358887,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 357939,
+      "num": 357939,
+      "word": "山东历史 难",
+      "onboard_time": 1686362561,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 347384,
@@ -299,6 +355,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 285068,
+      "num": 285068,
+      "word": "全员加速中首期剧情",
+      "onboard_time": 1686364000,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268274,
+      "num": 268274,
+      "word": "大学摘10万斤荔枝请全校免费吃",
+      "onboard_time": 1686364364,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267049,
       "num": 304103,
       "word": "蔡徐坤曼谷录制跑男人气好高",
@@ -339,6 +411,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 245343,
+      "num": 245343,
+      "word": "谁教你这么凑单的",
+      "onboard_time": 1686364244,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232222,
       "num": 232222,
       "word": "00后小伙为救轻生女不幸溺亡",
@@ -363,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222801,
+      "num": 222801,
+      "word": "掘金vs热火",
+      "onboard_time": 1686362488,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221210,
       "num": 221210,
       "word": "普京称乌克兰已开始进攻",
@@ -377,6 +465,14 @@
       "onboard_time": 1686360807,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215967,
+      "num": 215967,
+      "word": "原来打工真的会变丑",
+      "onboard_time": 1686362316,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 214626,
@@ -451,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178682,
+      "num": 178682,
+      "word": "不是谁会写小作文谁就有理",
+      "onboard_time": 1686358717,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175844,
       "num": 175844,
       "word": "饺子已经拿下了全山东",
@@ -499,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162151,
-      "num": 162151,
-      "word": "不是谁会写小作文谁就有理",
-      "onboard_time": 1686358717,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158189,
       "num": 158189,
       "word": "你给我的喜欢",
@@ -553,14 +649,6 @@
       "onboard_time": 1686321932,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150278,
-      "num": 150278,
-      "word": "男子自曝村副书记妻子出轨书记",
-      "onboard_time": 1686362008,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147075,
@@ -691,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105133,
+      "num": 105133,
+      "word": "牵手门女主疑5个月支出43万",
+      "onboard_time": 1686365007,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104549,
       "num": 104549,
       "word": "初级会计",
@@ -705,6 +801,14 @@
       "onboard_time": 1686290430,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102282,
+      "num": 102282,
+      "word": "NBA总决赛",
+      "onboard_time": 1686365083,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 99615,
