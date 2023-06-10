@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686389612563,
+  "endTime": 1686392242811,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -9,6 +9,14 @@
       "onboard_time": 1686380789,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3381207,
+      "num": 3381207,
+      "word": "江西就鸭脖事件成立联合调查组",
+      "onboard_time": 1686390387,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2445992,
@@ -187,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 996771,
+      "num": 947398,
+      "word": "肖战出现在母校晚会宣传片",
+      "onboard_time": 1686386727,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 982142,
       "num": 982142,
       "word": "虞书欣Jennie有好多同款",
@@ -203,20 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 947398,
-      "num": 947398,
-      "word": "肖战出现在母校晚会宣传片",
-      "onboard_time": 1686386727,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 947342,
       "num": 947342,
       "word": "是淀粉 之前被RNG卡合同了",
       "onboard_time": 1686383370,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 911118,
+      "num": 911118,
+      "word": "陈都灵 黑色头巾",
+      "onboard_time": 1686388348,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 904451,
@@ -265,6 +281,14 @@
       "onboard_time": 1686381330,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 805037,
+      "num": 805037,
+      "word": "张艺凡 小天鹅",
+      "onboard_time": 1686387328,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 804366,
@@ -347,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 604696,
+      "num": 604696,
+      "word": "张子枫吊带阔腿裤",
+      "onboard_time": 1686390688,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 589756,
       "num": 589756,
       "word": "男子自曝村副书记妻子出轨书记",
@@ -363,6 +395,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563812,
+      "num": 563812,
+      "word": "沈腾在红毯发彩票",
+      "onboard_time": 1686391469,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 561444,
+      "num": 561444,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559009,
       "num": 559009,
       "word": "长沙一公司取消了所有的调休",
@@ -371,19 +419,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537916,
+      "num": 537916,
+      "word": "山东地理 无从下笔",
+      "onboard_time": 1686389488,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 534577,
       "num": 534577,
       "word": "陶昕然好像安陵容翻身了",
       "onboard_time": 1686354756,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 534285,
-      "num": 534285,
-      "word": "张艺凡 小天鹅",
-      "onboard_time": 1686387328,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -523,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 380877,
-      "num": 369038,
-      "word": "陈都灵 黑色头巾",
-      "onboard_time": 1686388348,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 377536,
       "num": 377536,
       "word": "蔡徐坤 泰国人气",
@@ -547,12 +587,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 371692,
+      "num": 371692,
+      "word": "全靠周也的脸",
+      "onboard_time": 1686389967,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365783,
       "num": 277195,
       "word": "想去海边好甜",
       "onboard_time": 1686376944,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364383,
+      "num": 364383,
+      "word": "王一博转签名笔",
+      "onboard_time": 1686389008,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 364136,
@@ -635,6 +691,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334059,
+      "num": 334059,
+      "word": "张小斐露背 飒",
+      "onboard_time": 1686390807,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334034,
+      "num": 334034,
+      "word": "陈都灵造型师哪位",
+      "onboard_time": 1686391349,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319119,
+      "num": 319119,
+      "word": "鼠头鸭脖",
+      "onboard_time": 1686391769,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318585,
       "num": 318585,
       "word": "荔枝虫",
@@ -683,20 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305564,
-      "num": 305564,
-      "word": "王一博转签名笔",
-      "onboard_time": 1686389008,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 303729,
       "num": 303729,
       "word": "白鹿你不热吗",
       "onboard_time": 1686301709,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302736,
+      "num": 302736,
+      "word": "高考结束",
+      "onboard_time": 1686304470,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299069,
@@ -721,6 +801,14 @@
       "onboard_time": 1686328526,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290629,
+      "num": 290629,
+      "word": "薛之谦演唱会深圳",
+      "onboard_time": 1686389787,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 289941,
@@ -819,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266227,
+      "num": 266227,
+      "word": "皓史成双",
+      "onboard_time": 1686390207,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264972,
       "num": 264972,
       "word": "倪妮的项链是腕表",
@@ -891,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242613,
+      "num": 239485,
+      "word": "宋雨琦泰国路透",
+      "onboard_time": 1686391587,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238650,
       "num": 238650,
       "word": "RNG对战OMG",
@@ -899,12 +1003,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234237,
+      "num": 234237,
+      "word": "谢霆锋真空西装太顶了",
+      "onboard_time": 1686392008,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234138,
       "num": 234138,
       "word": "约基奇太无解了",
       "onboard_time": 1686367004,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233730,
+      "num": 2106094,
+      "word": "奶奶给高考结束的孙子送花",
+      "onboard_time": 1686386786,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232244,
@@ -993,14 +1113,6 @@
       "onboard_time": 1686382231,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219336,
-      "num": 219336,
-      "word": "山东地理 无从下笔",
-      "onboard_time": 1686389488,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 219157,
@@ -1123,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205649,
+      "num": 205649,
+      "word": "wvs con直播",
+      "onboard_time": 1686391948,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205454,
       "num": 205454,
       "word": "黄奕竟然能和张伟丽缠斗一分钟",
@@ -1136,6 +1256,14 @@
       "word": "肖春生被佟晓梅拿捏",
       "onboard_time": 1686383314,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203098,
+      "num": 203098,
+      "word": "王玉雯王子奇请四搭",
+      "onboard_time": 1686391047,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1355,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172743,
-      "num": 280562,
-      "word": "奶奶给高考结束的孙子送花",
-      "onboard_time": 1686386786,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169217,
       "num": 1746189,
       "word": "你可以永远相信中国美学",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1686387807,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150756,
+      "num": 852362,
+      "word": "女子暴雨中徒手疏通下水道口",
+      "onboard_time": 1686390628,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148417,
@@ -1761,14 +1889,6 @@
       "onboard_time": 1686329543,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82524,
-      "num": 82524,
-      "word": "高考结束",
-      "onboard_time": 1686304470,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 76450,
