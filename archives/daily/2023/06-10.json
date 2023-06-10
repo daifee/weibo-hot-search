@@ -1,6 +1,6 @@
 {
   "startTime": 1686327717856,
-  "endTime": 1686403102719,
+  "endTime": 1686404011371,
   "band_list": [
     {
       "raw_hot": 6842168,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1765041,
-      "num": 1765041,
+      "raw_hot": 1769043,
+      "num": 1769043,
       "word": "网友曝牵手门女子曾做微商拒退货款",
       "onboard_time": 1686401132,
       "rank": 33,
@@ -296,6 +296,14 @@
       "word": "沈腾在红毯发彩票",
       "onboard_time": 1686391469,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 950035,
+      "num": 950035,
+      "word": "易烊千玺哪儿去了",
+      "onboard_time": 1686402450,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -523,6 +531,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 536009,
+      "num": 536009,
+      "word": "说个故事清朝灭亡才111年",
+      "onboard_time": 1686401132,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534577,
       "num": 534577,
       "word": "陶昕然好像安陵容翻身了",
@@ -539,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521214,
+      "num": 465230,
+      "word": "刘诗诗张云龙狐妖小红娘定妆照",
+      "onboard_time": 1686401132,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512045,
       "num": 512045,
       "word": "奔跑吧下期预告有白鹿张凌赫",
       "onboard_time": 1686363284,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506592,
+      "num": 506592,
+      "word": "JDG战胜EDG",
+      "onboard_time": 1686402272,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 503531,
@@ -579,19 +611,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 490534,
-      "num": 490534,
-      "word": "JDG战胜EDG",
-      "onboard_time": 1686402272,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 488747,
       "num": 488747,
       "word": "下个路口见 最强拉票阵容",
       "onboard_time": 1686375686,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 486072,
+      "num": 320161,
+      "word": "Angelababy泰国跑男路透",
+      "onboard_time": 1686400129,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -619,36 +651,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 465230,
-      "num": 465230,
-      "word": "刘诗诗张云龙狐妖小红娘定妆照",
-      "onboard_time": 1686401132,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 452018,
-      "num": 320161,
-      "word": "Angelababy泰国跑男路透",
-      "onboard_time": 1686400129,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448543,
       "num": 448543,
       "word": "陈都灵连帽露腰黑裙",
       "onboard_time": 1686387087,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 437640,
-      "num": 318145,
-      "word": "易烊千玺哪儿去了",
-      "onboard_time": 1686402450,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 435374,
@@ -689,14 +697,6 @@
       "onboard_time": 1686394888,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402611,
-      "num": 402611,
-      "word": "说个故事清朝灭亡才111年",
-      "onboard_time": 1686401132,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 400893,
@@ -859,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339115,
+      "num": 273398,
+      "word": "王子奇说和王玉雯真没商量",
+      "onboard_time": 1686400129,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339025,
       "num": 339025,
       "word": "上海暴雨",
@@ -955,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314194,
+      "num": 271624,
+      "word": "我那么大一个马丽呢",
+      "onboard_time": 1686401671,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307170,
       "num": 307170,
       "word": "谢娜进步好大",
@@ -977,14 +993,6 @@
       "onboard_time": 1686327625,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306161,
-      "num": 273398,
-      "word": "王子奇说和王玉雯真没商量",
-      "onboard_time": 1686400129,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 305646,
@@ -1043,12 +1051,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292347,
-      "num": 271624,
-      "word": "我那么大一个马丽呢",
-      "onboard_time": 1686401671,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 292009,
+      "num": 292009,
+      "word": "TTG九尾 背锅",
+      "onboard_time": 1686402272,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 290931,
+      "num": 290931,
+      "word": "梅西也得熬夜看欧冠",
+      "onboard_time": 1686398571,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 290629,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1686361114,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 286750,
-      "num": 286750,
-      "word": "梅西也得熬夜看欧冠",
-      "onboard_time": 1686398571,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 285068,
@@ -1192,6 +1200,14 @@
       "word": "倪妮的项链是腕表",
       "onboard_time": 1686313047,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263921,
+      "num": 215005,
+      "word": "昆山",
+      "onboard_time": 1686403471,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1387,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224639,
-      "num": 224639,
-      "word": "TTG九尾 背锅",
-      "onboard_time": 1686402272,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223984,
       "num": 223984,
       "word": "肖春生说姐我回来了",
@@ -1507,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212150,
+      "num": 171899,
+      "word": "崔杋圭长发扇子舞",
+      "onboard_time": 1686402990,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212030,
       "num": 212030,
       "word": "于文文大理石公主",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1686313709,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209234,
+      "num": 169000,
+      "word": "欧阳靖欧阳娜娜hiphopman舞台",
+      "onboard_time": 1686403770,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 209017,
@@ -2307,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60948,
+      "num": 1265418,
+      "word": "非遗可以有多美",
+      "onboard_time": 1686387147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54408,
       "num": 52527,
       "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
@@ -2344,14 +2376,6 @@
       "word": "女子挣扎瞬间他果断翻出护栏救人",
       "onboard_time": 1686352477,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45979,
-      "num": 1265418,
-      "word": "非遗可以有多美",
-      "onboard_time": 1686387147,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

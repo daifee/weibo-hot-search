@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686403102719,
+  "endTime": 1686404011371,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -795,8 +795,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1765041,
-      "num": 1765041,
+      "raw_hot": 1769043,
+      "num": 1769043,
       "word": "网友曝牵手门女子曾做微商拒退货款",
       "onboard_time": 1686401132,
       "rank": 33,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1686182790,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950035,
+      "num": 950035,
+      "word": "易烊千玺哪儿去了",
+      "onboard_time": 1686402450,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 948622,
@@ -3499,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536009,
+      "num": 536009,
+      "word": "说个故事清朝灭亡才111年",
+      "onboard_time": 1686401132,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534577,
       "num": 534577,
       "word": "陶昕然好像安陵容翻身了",
@@ -3555,6 +3571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 521214,
+      "num": 465230,
+      "word": "刘诗诗张云龙狐妖小红娘定妆照",
+      "onboard_time": 1686401132,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519162,
       "num": 519162,
       "word": "热火 掘金",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1686196778,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506592,
+      "num": 506592,
+      "word": "JDG战胜EDG",
+      "onboard_time": 1686402272,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 505985,
@@ -3747,14 +3779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 490534,
-      "num": 490534,
-      "word": "JDG战胜EDG",
-      "onboard_time": 1686402272,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 490323,
       "num": 474770,
       "word": "倪妮的项链是腕表",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1685945247,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 486072,
+      "num": 320161,
+      "word": "Angelababy泰国跑男路透",
+      "onboard_time": 1686400129,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 484649,
@@ -3923,14 +3955,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 465230,
-      "num": 465230,
-      "word": "刘诗诗张云龙狐妖小红娘定妆照",
-      "onboard_time": 1686401132,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 463507,
       "num": 463507,
       "word": "肖春生带孩子梦回陈情令",
@@ -3977,14 +4001,6 @@
       "onboard_time": 1685931026,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452018,
-      "num": 320161,
-      "word": "Angelababy泰国跑男路透",
-      "onboard_time": 1686400129,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 451744,
@@ -4089,14 +4105,6 @@
       "onboard_time": 1686232113,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437640,
-      "num": 318145,
-      "word": "易烊千玺哪儿去了",
-      "onboard_time": 1686402450,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 435374,
@@ -4409,14 +4417,6 @@
       "onboard_time": 1685948728,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 402611,
-      "num": 402611,
-      "word": "说个故事清朝灭亡才111年",
-      "onboard_time": 1686401132,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 401705,
@@ -5123,6 +5123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 339115,
+      "num": 273398,
+      "word": "王子奇说和王玉雯真没商量",
+      "onboard_time": 1686400129,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339025,
       "num": 339025,
       "word": "上海暴雨",
@@ -5475,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314194,
+      "num": 271624,
+      "word": "我那么大一个马丽呢",
+      "onboard_time": 1686401671,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314158,
       "num": 314158,
       "word": "真的很难被别人PUA",
@@ -5617,14 +5633,6 @@
       "onboard_time": 1686327625,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306161,
-      "num": 273398,
-      "word": "王子奇说和王玉雯真没商量",
-      "onboard_time": 1686400129,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 305646,
@@ -5883,14 +5891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292347,
-      "num": 271624,
-      "word": "我那么大一个马丽呢",
-      "onboard_time": 1686401671,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292319,
       "num": 292319,
       "word": "我去夏威夷测二氧化碳",
@@ -5905,6 +5905,14 @@
       "onboard_time": 1686024451,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292009,
+      "num": 292009,
+      "word": "TTG九尾 背锅",
+      "onboard_time": 1686402272,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 291607,
@@ -5929,6 +5937,14 @@
       "onboard_time": 1685984898,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 290931,
+      "num": 290931,
+      "word": "梅西也得熬夜看欧冠",
+      "onboard_time": 1686398571,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 290643,
@@ -6001,14 +6017,6 @@
       "onboard_time": 1686020247,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286750,
-      "num": 286750,
-      "word": "梅西也得熬夜看欧冠",
-      "onboard_time": 1686398571,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 286727,
@@ -6544,6 +6552,14 @@
       "word": "金莎终于又拍古装剧了",
       "onboard_time": 1685957068,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263921,
+      "num": 215005,
+      "word": "昆山",
+      "onboard_time": 1686403471,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -7923,14 +7939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224639,
-      "num": 224639,
-      "word": "TTG九尾 背锅",
-      "onboard_time": 1686402272,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -8371,6 +8379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212150,
+      "num": 171899,
+      "word": "崔杋圭长发扇子舞",
+      "onboard_time": 1686402990,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212030,
       "num": 212030,
       "word": "于文文大理石公主",
@@ -8505,6 +8521,14 @@
       "onboard_time": 1686061891,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209234,
+      "num": 169000,
+      "word": "欧阳靖欧阳娜娜hiphopman舞台",
+      "onboard_time": 1686403770,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 209102,
@@ -13371,6 +13395,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 60948,
+      "num": 1265418,
+      "word": "非遗可以有多美",
+      "onboard_time": 1686387147,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59434,
       "num": 145213,
       "word": "男子雨天捎带老人获赠甜桃",
@@ -13496,14 +13528,6 @@
       "word": "海派直播首秀带货超千万元",
       "onboard_time": 1686114037,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45979,
-      "num": 1265418,
-      "word": "非遗可以有多美",
-      "onboard_time": 1686387147,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
