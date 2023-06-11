@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686489528295,
+  "endTime": 1686490414095,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1205493,
+      "num": 1205493,
+      "word": "梅西被迫宅在酒店",
+      "onboard_time": 1686485489,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1204581,
       "num": 1080209,
       "word": "鲍蕾晒花絮力证没给贝儿P腿",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1686460888,
       "rank": 26,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1119450,
+      "num": 1119450,
+      "word": "Jennie身体状况",
+      "onboard_time": 1686486811,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1118785,
@@ -2217,14 +2233,6 @@
       "onboard_time": 1686146316,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1018987,
-      "num": 1018987,
-      "word": "Jennie身体状况",
-      "onboard_time": 1686486811,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 1018491,
@@ -3443,6 +3451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 700033,
+      "num": 700033,
+      "word": "李晨晒奔跑吧泰国大合照",
+      "onboard_time": 1686486330,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697959,
       "num": 697959,
       "word": "TheShy阿水Rookie去露营了",
@@ -3697,14 +3713,6 @@
       "onboard_time": 1685961028,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 619952,
-      "num": 619952,
-      "word": "李晨晒奔跑吧泰国大合照",
-      "onboard_time": 1686486330,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 619931,
@@ -4491,14 +4499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 472826,
-      "num": 472826,
-      "word": "梅西被迫宅在酒店",
-      "onboard_time": 1686485489,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 470873,
       "num": 404722,
       "word": "夫妻收废品为生丈夫去世被发现出轨",
@@ -4537,6 +4537,14 @@
       "onboard_time": 1686147456,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461809,
+      "num": 461809,
+      "word": "大叔和儿子称给涉事女子一次机会",
+      "onboard_time": 1686488192,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461349,
@@ -4843,6 +4851,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 419163,
+      "num": 419163,
+      "word": "王玉雯红裙造型",
+      "onboard_time": 1686486992,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 418002,
       "num": 418002,
       "word": "王一博官宣2023微博电影之夜",
@@ -4873,14 +4889,6 @@
       "onboard_time": 1686015988,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414977,
-      "num": 414977,
-      "word": "王玉雯红裙造型",
-      "onboard_time": 1686486992,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 414327,
@@ -5435,6 +5443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365449,
+      "num": 365449,
+      "word": "法网决赛",
+      "onboard_time": 1686490292,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 365440,
+      "num": 362342,
+      "word": "张杰说山东下次见",
+      "onboard_time": 1686489510,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365077,
       "num": 365077,
       "word": "徐志胜救火",
@@ -5537,6 +5561,14 @@
       "onboard_time": 1686217717,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 358089,
+      "num": 358089,
+      "word": "李沁哭戏主动和导演说再来一遍",
+      "onboard_time": 1686488550,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 357939,
@@ -5963,14 +5995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332235,
-      "num": 323401,
-      "word": "李沁哭戏主动和导演说再来一遍",
-      "onboard_time": 1686488550,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329951,
       "num": 329951,
       "word": "蔡徐坤王鹤棣7天涨粉",
@@ -6065,14 +6089,6 @@
       "onboard_time": 1686314727,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324767,
-      "num": 324767,
-      "word": "大叔和儿子称给涉事女子一次机会",
-      "onboard_time": 1686488192,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324661,
@@ -6225,6 +6241,14 @@
       "onboard_time": 1686477088,
       "rank": 26,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 313532,
+      "num": 313532,
+      "word": "贺红玲说肖春生甩了她",
+      "onboard_time": 1686488850,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 313465,
@@ -6464,6 +6488,14 @@
       "word": "李昊首唱你离开了我的夏天",
       "onboard_time": 1686059431,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302676,
+      "num": 302676,
+      "word": "没看出来徐志胜cos的是澹台烬",
+      "onboard_time": 1686487531,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -7643,6 +7675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255596,
+      "num": 255596,
+      "word": "公诉",
+      "onboard_time": 1686238229,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255503,
       "num": 255503,
       "word": "山东物理",
@@ -8091,14 +8131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245912,
-      "num": 245912,
-      "word": "没看出来徐志胜cos的是澹台烬",
-      "onboard_time": 1686487531,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245820,
       "num": 245820,
       "word": "23岁护士病逝捐遗体成大体老师",
@@ -8273,14 +8305,6 @@
       "onboard_time": 1686288151,
       "rank": 31,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 242577,
-      "num": 242577,
-      "word": "贺红玲说肖春生甩了她",
-      "onboard_time": 1686488850,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 242187,
@@ -10035,6 +10059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203627,
+      "num": 203627,
+      "word": "毛不易阅片量",
+      "onboard_time": 1686489751,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203503,
       "num": 203503,
       "word": "夏天穿洞洞鞋出门的后果",
@@ -10065,6 +10097,14 @@
       "onboard_time": 1686137135,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202897,
+      "num": 202897,
+      "word": "叶国华造孽刘芮麟还",
+      "onboard_time": 1686489571,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 202682,
@@ -11083,6 +11123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187341,
+      "num": 187341,
+      "word": "无畏说不退却不放弃",
+      "onboard_time": 1686489510,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187332,
       "num": 187332,
       "word": "小鬼回应范丞丞去看自己演出",
@@ -11667,6 +11715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 176865,
+      "num": 174750,
+      "word": "梦海里的长城竟然是特效",
+      "onboard_time": 1686484826,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176775,
       "num": 176775,
       "word": "杨超越白族少女造型",
@@ -11849,14 +11905,6 @@
       "onboard_time": 1686239608,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173640,
-      "num": 173640,
-      "word": "张杰说山东下次见",
-      "onboard_time": 1686489510,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 173576,
@@ -12265,14 +12313,6 @@
       "onboard_time": 1685882909,
       "rank": 32,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 165554,
-      "num": 165554,
-      "word": "梦海里的长城竟然是特效",
-      "onboard_time": 1686484826,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 165436,
@@ -13027,14 +13067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150376,
-      "num": 150376,
-      "word": "公诉",
-      "onboard_time": 1686238229,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 150357,
       "num": 146831,
       "word": "肖春生直球拒绝暧昧",
@@ -13449,14 +13481,6 @@
       "onboard_time": 1686456089,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140514,
-      "num": 140514,
-      "word": "无畏说不退却不放弃",
-      "onboard_time": 1686489510,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 140216,
@@ -14683,6 +14707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 108973,
+      "num": 1305854,
+      "word": "村超现场有多燃",
+      "onboard_time": 1686488550,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108893,
       "num": 1356866,
       "word": "货车起火冒烟好心男子拎新买灭火器扑灭",
@@ -15419,14 +15451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 68989,
-      "num": 1027589,
-      "word": "村超现场有多燃",
-      "onboard_time": 1686488550,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68839,
       "num": 516321,
       "word": "城管暖心分享午餐给候考女孩",
@@ -15795,6 +15819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44364,
+      "num": 484240,
+      "word": "90花微博电影之夜妆造",
+      "onboard_time": 1686488430,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 44276,
       "num": 57850,
       "word": "梦中的那片海版换乘恋爱",
@@ -16059,14 +16091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26762,
-      "num": 452394,
-      "word": "90花微博电影之夜妆造",
-      "onboard_time": 1686488430,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 26276,
       "num": 463252,
       "word": "上海电影节水幕音乐秀",
@@ -16246,6 +16270,9 @@
     },
     {
       "word": "#建设社会主义文化强国#"
+    },
+    {
+      "word": "#保护好中华民族精神生生不息的根脉#"
     }
   ]
 }

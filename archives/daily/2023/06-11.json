@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686489528295,
+  "endTime": 1686490414095,
   "band_list": [
     {
       "raw_hot": 9118597,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1205493,
+      "num": 1205493,
+      "word": "梅西被迫宅在酒店",
+      "onboard_time": 1686485489,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1196313,
       "num": 1196313,
       "word": "张大仙",
@@ -225,6 +233,14 @@
       "onboard_time": 1686460888,
       "rank": 26,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1119450,
+      "num": 1119450,
+      "word": "Jennie身体状况",
+      "onboard_time": 1686486811,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1105717,
@@ -305,14 +321,6 @@
       "onboard_time": 1686481106,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1018987,
-      "num": 1018987,
-      "word": "Jennie身体状况",
-      "onboard_time": 1686486811,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 1017188,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700033,
+      "num": 700033,
+      "word": "李晨晒奔跑吧泰国大合照",
+      "onboard_time": 1686486330,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673363,
       "num": 673363,
       "word": "奚梦瑶何猷君手牵手出席活动",
@@ -505,14 +521,6 @@
       "onboard_time": 1686401132,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 619952,
-      "num": 619952,
-      "word": "李晨晒奔跑吧泰国大合照",
-      "onboard_time": 1686486330,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 619931,
@@ -579,19 +587,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472826,
-      "num": 472826,
-      "word": "梅西被迫宅在酒店",
-      "onboard_time": 1686485489,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 463692,
       "num": 463692,
       "word": "猴痘",
       "onboard_time": 1686450627,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461809,
+      "num": 461809,
+      "word": "大叔和儿子称给涉事女子一次机会",
+      "onboard_time": 1686488192,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -643,8 +651,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 414977,
-      "num": 414977,
+      "raw_hot": 419163,
+      "num": 419163,
       "word": "王玉雯红裙造型",
       "onboard_time": 1686486992,
       "rank": 33,
@@ -683,12 +691,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365449,
+      "num": 365449,
+      "word": "法网决赛",
+      "onboard_time": 1686490292,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 365440,
+      "num": 362342,
+      "word": "张杰说山东下次见",
+      "onboard_time": 1686489510,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364830,
       "num": 364830,
       "word": "ENHYPEN翻跳Come2Me",
       "onboard_time": 1686480626,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358089,
+      "num": 358089,
+      "word": "李沁哭戏主动和导演说再来一遍",
+      "onboard_time": 1686488550,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 350944,
@@ -715,14 +747,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 332235,
-      "num": 323401,
-      "word": "李沁哭戏主动和导演说再来一遍",
-      "onboard_time": 1686488550,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329951,
       "num": 329951,
       "word": "蔡徐坤王鹤棣7天涨粉",
@@ -731,20 +755,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324767,
-      "num": 324767,
-      "word": "大叔和儿子称给涉事女子一次机会",
-      "onboard_time": 1686488192,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313953,
       "num": 313953,
       "word": "全世界的追星人都一样",
       "onboard_time": 1686477088,
       "rank": 26,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 313532,
+      "num": 313532,
+      "word": "贺红玲说肖春生甩了她",
+      "onboard_time": 1686488850,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 309704,
@@ -801,6 +825,14 @@
       "onboard_time": 1686484826,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302676,
+      "num": 302676,
+      "word": "没看出来徐志胜cos的是澹台烬",
+      "onboard_time": 1686487531,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 299696,
@@ -963,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255596,
+      "num": 255596,
+      "word": "公诉",
+      "onboard_time": 1686489331,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255157,
       "num": 255157,
       "word": "张鑫与熊猫中心领导无亲属关系",
@@ -1011,14 +1051,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 245912,
-      "num": 245912,
-      "word": "没看出来徐志胜cos的是澹台烬",
-      "onboard_time": 1686487531,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243226,
       "num": 243226,
       "word": "当我怀疑酒店有针孔摄像头",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1686469647,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242577,
-      "num": 242577,
-      "word": "贺红玲说肖春生甩了她",
-      "onboard_time": 1686488850,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 240136,
@@ -1291,6 +1315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203627,
+      "num": 203627,
+      "word": "毛不易阅片量",
+      "onboard_time": 1686489751,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202897,
+      "num": 202897,
+      "word": "叶国华造孽刘芮麟还",
+      "onboard_time": 1686489571,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202634,
       "num": 146105,
       "word": "何赛飞杨紫新剧演母女",
@@ -1435,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187341,
+      "num": 187341,
+      "word": "无畏说不退却不放弃",
+      "onboard_time": 1686489510,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186563,
       "num": 186563,
       "word": "邪剑仙根本吸不完",
@@ -1523,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176865,
+      "num": 174750,
+      "word": "梦海里的长城竟然是特效",
+      "onboard_time": 1686484826,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "奥利维拉vs大流士",
@@ -1537,14 +1593,6 @@
       "onboard_time": 1686487951,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173640,
-      "num": 173640,
-      "word": "张杰说山东下次见",
-      "onboard_time": 1686489510,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 173576,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1686440662,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165554,
-      "num": 165554,
-      "word": "梦海里的长城竟然是特效",
-      "onboard_time": 1686484826,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 164481,
@@ -1771,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150376,
-      "num": 150376,
-      "word": "公诉",
-      "onboard_time": 1686489331,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "熊孩子真的不分物种",
@@ -1865,14 +1897,6 @@
       "onboard_time": 1686456089,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140514,
-      "num": 140514,
-      "word": "无畏说不退却不放弃",
-      "onboard_time": 1686489510,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 139695,
@@ -2163,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108973,
+      "num": 1305854,
+      "word": "村超现场有多燃",
+      "onboard_time": 1686488550,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104098,
       "num": 94913,
       "word": "焦迈奇游泳回家巡回演唱会",
@@ -2283,14 +2315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 68989,
-      "num": 1027589,
-      "word": "村超现场有多燃",
-      "onboard_time": 1686488550,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66883,
       "num": 625932,
       "word": "女孩高考后送娃娃给护考交警",
@@ -2387,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44364,
+      "num": 484240,
+      "word": "90花微博电影之夜妆造",
+      "onboard_time": 1686488430,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38869,
       "num": 38869,
       "word": "C位烫脚",
@@ -2408,14 +2440,6 @@
       "word": "蜘蛛侠",
       "onboard_time": 1686426493,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26762,
-      "num": 452394,
-      "word": "90花微博电影之夜妆造",
-      "onboard_time": 1686488430,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -2442,6 +2466,9 @@
     },
     {
       "word": "#建设社会主义文化强国#"
+    },
+    {
+      "word": "#保护好中华民族精神生生不息的根脉#"
     }
   ]
 }
