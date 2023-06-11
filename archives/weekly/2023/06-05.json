@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686460544865,
+  "endTime": 1686461613595,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -875,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1725306,
+      "num": 758875,
+      "word": "北京政法职业学院",
+      "onboard_time": 1686456329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1703166,
       "num": 799964,
       "word": "女性受教育程度越高终身不育率越高",
@@ -961,14 +969,6 @@
       "onboard_time": 1686277647,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1652993,
-      "num": 758875,
-      "word": "北京政法职业学院",
-      "onboard_time": 1686456329,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1650851,
@@ -1323,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1382260,
+      "num": 1382260,
+      "word": "自证未偷拍大叔儿子希望曝光人道歉",
+      "onboard_time": 1686458729,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1369364,
       "num": 1369364,
       "word": "绝味鸭脖股价下跌",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1686092600,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1296447,
+      "num": 1296447,
+      "word": "校园霸凌",
+      "onboard_time": 1686458369,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1294356,
@@ -2203,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 982400,
-      "num": 982400,
-      "word": "自证未偷拍大叔儿子希望曝光人道歉",
-      "onboard_time": 1686458729,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 982142,
       "num": 982142,
       "word": "虞书欣Jennie有好多同款",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1685940992,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 797036,
+      "num": 797036,
+      "word": "范丞丞王鹤棣把白鹿扔水里了",
+      "onboard_time": 1686459089,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 796859,
@@ -3875,14 +3891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 530872,
-      "num": 530872,
-      "word": "范丞丞王鹤棣把白鹿扔水里了",
-      "onboard_time": 1686459089,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 529382,
       "num": 301679,
       "word": "梦中的那片海热度值破29000",
@@ -4185,14 +4193,6 @@
       "onboard_time": 1686275787,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483122,
-      "num": 483122,
-      "word": "校园霸凌",
-      "onboard_time": 1686458369,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481819,
@@ -7227,6 +7227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256990,
+      "num": 256990,
+      "word": "央视网评演员变演贝",
+      "onboard_time": 1686460888,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 256961,
       "num": 256961,
       "word": "后天高考",
@@ -9851,6 +9859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196441,
+      "num": 196441,
+      "word": "杨幂紫色系穿搭",
+      "onboard_time": 1686460708,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195962,
       "num": 195962,
       "word": "高考人数",
@@ -10201,6 +10217,14 @@
       "onboard_time": 1686141813,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191559,
+      "num": 191559,
+      "word": "sana好辣",
+      "onboard_time": 1686461248,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 191553,
@@ -10561,6 +10585,14 @@
       "onboard_time": 1686017128,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186192,
+      "num": 186192,
+      "word": "易烊千玺金爵奖评委见面会",
+      "onboard_time": 1686461188,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 185990,
