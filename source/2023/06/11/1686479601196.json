@@ -1,0 +1,410 @@
+{
+  "runTime": 1686479601196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3705990,
+        "num": 3705990,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 559192,
+        "num": 2306929,
+        "word": "员工不接电话浙江老板果断报警",
+        "onboard_time": 1686470427,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57486,
+        "num": 1757015,
+        "word": "龙舟大赛强强对决好热闹",
+        "onboard_time": 1686474569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1619053,
+        "num": 1619053,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253939,
+        "num": 1505121,
+        "word": "感动全网的高考生计划暑期打工",
+        "onboard_time": 1686475949,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1397398,
+        "num": 1397398,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 189311,
+        "num": 1280318,
+        "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+        "onboard_time": 1686470008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237921,
+        "num": 1237921,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 995634,
+        "num": 995634,
+        "word": "网友评的四大女演贝",
+        "onboard_time": 1686470849,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 892169,
+        "num": 892169,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1168317,
+        "num": 771075,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556765,
+        "num": 556765,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 525606,
+        "num": 525606,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507791,
+        "num": 507791,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19833,
+        "num": 469213,
+        "word": "男子跳河轻生民警绕后方深水区救人",
+        "onboard_time": 1686478167,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449828,
+        "num": 449828,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424115,
+        "num": 424115,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414584,
+        "num": 414584,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413913,
+        "num": 413913,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370869,
+        "num": 370869,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 369383,
+        "num": 369383,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352129,
+        "num": 352129,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332784,
+        "num": 332784,
+        "word": "DK 难评",
+        "onboard_time": 1686470307,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313953,
+        "num": 313953,
+        "word": "全世界的追星人都一样",
+        "onboard_time": 1686477088,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 289489,
+        "num": 289489,
+        "word": "吴宣仪 音乐节",
+        "onboard_time": 1686476427,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282541,
+        "num": 282541,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 25,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 271037,
+        "num": 271037,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 247237,
+        "num": 247237,
+        "word": "男朋友紧张时会摸出学生卡壮胆",
+        "onboard_time": 1686474750,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209644,
+        "num": 209644,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194991,
+        "num": 194991,
+        "word": "LNG辅助",
+        "onboard_time": 1686474029,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186761,
+        "num": 186761,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185077,
+        "num": 185077,
+        "word": "陈伟霆说先虐一下靳时川",
+        "onboard_time": 1686478288,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176315,
+        "num": 176315,
+        "word": "导演带王一博去日本采风",
+        "onboard_time": 1686474569,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171665,
+        "num": 171665,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171620,
+        "num": 171620,
+        "word": "mai 法老",
+        "onboard_time": 1686469887,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170988,
+        "num": 170988,
+        "word": "彩虹",
+        "onboard_time": 1686475588,
+        "rank": 35,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 166848,
+        "num": 166848,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 166103,
+        "word": "彭昱畅说我没事问问许凯吧",
+        "onboard_time": 1686473968,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164218,
+        "num": 164218,
+        "word": "周柯宇cos长珩仙君",
+        "onboard_time": 1686469166,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141444,
+        "num": 141444,
+        "word": "EDG首场对阵T1",
+        "onboard_time": 1686473789,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135322,
+        "num": 135322,
+        "word": "沈月的综艺感",
+        "onboard_time": 1686476188,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130244,
+        "num": 130244,
+        "word": "观众评价电影我爱你",
+        "onboard_time": 1686478888,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129843,
+        "num": 129843,
+        "word": "男粉线下追梅西视频",
+        "onboard_time": 1686477930,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129424,
+        "num": 129424,
+        "word": "宋茜多巴胺发夹",
+        "onboard_time": 1686471689,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126073,
+        "num": 126073,
+        "word": "金泰亨见面会",
+        "onboard_time": 1686472346,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124720,
+        "num": 124720,
+        "word": "当我怀疑酒店有针孔摄像头",
+        "onboard_time": 1686462628,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122409,
+        "num": 122409,
+        "word": "新人坐地铁接亲给乘客发喜糖",
+        "onboard_time": 1686479367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117074,
+        "num": 117074,
+        "word": "LNG战胜FPX",
+        "onboard_time": 1686478527,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114914,
+        "num": 114914,
+        "word": "FPX小老虎",
+        "onboard_time": 1686476729,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111288,
+        "num": 111288,
+        "word": "杨幂新电影预告旁白",
+        "onboard_time": 1686479546,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#加大文物和文化遗产保护力度#"
+    }
+  }
+}
