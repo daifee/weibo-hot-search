@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686448476862,
+  "endTime": 1686449948069,
   "band_list": [
     {
       "raw_hot": 2036619,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1582030,
-      "num": 1582030,
+      "raw_hot": 1684007,
+      "num": 1684007,
       "word": "拍婚纱照发朋友圈被同事教育",
       "onboard_time": 1686442104,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1686411031,
       "rank": 3,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1108278,
+      "num": 1108278,
+      "word": "花戎婚礼变葬礼",
+      "onboard_time": 1686445106,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1039767,
@@ -57,6 +65,14 @@
       "onboard_time": 1686409772,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1032386,
+      "num": 1032386,
+      "word": "老板谈上4休3工作制1个月后效果",
+      "onboard_time": 1686446608,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1029498,
@@ -81,14 +97,6 @@
       "onboard_time": 1686406473,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 939809,
-      "num": 939809,
-      "word": "花戎婚礼变葬礼",
-      "onboard_time": 1686445106,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 916737,
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854433,
+      "num": 854433,
+      "word": "专家称年轻人不想生成本高并非主因",
+      "onboard_time": 1686447448,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802981,
       "num": 636708,
       "word": "吴京贾静雯牵手",
@@ -147,12 +163,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 769724,
-      "num": 769724,
+      "raw_hot": 780772,
+      "num": 780772,
       "word": "法老 幼稚园杀手",
       "onboard_time": 1686440722,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 767779,
+      "num": 767779,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759574,
@@ -168,22 +192,6 @@
       "word": "三星堆遗址再曝重磅消息",
       "onboard_time": 1686438920,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 725009,
-      "num": 725009,
-      "word": "老板谈上4休3工作制1个月后效果",
-      "onboard_time": 1686446608,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 638645,
-      "num": 638645,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 461349,
-      "num": 374059,
+      "num": 417629,
       "word": "63岁保姆上岗1小时烧焦雇主家水壶",
       "onboard_time": 1686439399,
       "rank": 46,
@@ -267,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433920,
+      "num": 433920,
+      "word": "TFBOYS演唱会被写投诉信",
+      "onboard_time": 1686448888,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 417310,
+      "num": 417310,
+      "word": "奚梦瑶何猷君手牵手出席活动",
+      "onboard_time": 1686447867,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374279,
       "num": 374279,
       "word": "萧敬腾方律师声明",
@@ -289,14 +313,6 @@
       "onboard_time": 1686442885,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346425,
-      "num": 346425,
-      "word": "专家称年轻人不想生成本高并非主因",
-      "onboard_time": 1686447448,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339452,
@@ -355,20 +371,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273591,
+      "num": 273591,
+      "word": "广州市监测发现两例猴痘病例",
+      "onboard_time": 1686448948,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269260,
+      "num": 269260,
+      "word": "陈飞宇8秒演一生",
+      "onboard_time": 1686444868,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265961,
       "num": 265961,
       "word": "Minnie录制奔跑吧造型",
       "onboard_time": 1686414028,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265153,
-      "num": 265153,
-      "word": "奚梦瑶何猷君手牵手出席活动",
-      "onboard_time": 1686447867,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 257241,
@@ -419,14 +443,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 235865,
-      "num": 235865,
-      "word": "陈飞宇8秒演一生",
-      "onboard_time": 1686444868,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232932,
       "num": 180362,
       "word": "赵琦君杨凯雯订婚",
@@ -443,20 +459,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 221998,
+      "num": 221998,
+      "word": "妈妈因发不出生活费感到惭愧",
+      "onboard_time": 1686446727,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221531,
       "num": 176304,
       "word": "蔡徐坤范丞丞同框梦回偶像练习生",
       "onboard_time": 1686411270,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215011,
-      "num": 215011,
-      "word": "妈妈因发不出生活费感到惭愧",
-      "onboard_time": 1686446727,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 213471,
@@ -539,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195161,
+      "num": 192039,
+      "word": "肖春生要搞事业了",
+      "onboard_time": 1686449909,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193624,
       "num": 193624,
       "word": "武艺32年来第一次吃毛肚",
@@ -561,6 +585,14 @@
       "onboard_time": 1686446668,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192234,
+      "num": 192234,
+      "word": "感动全网的这对母子暂不接受捐赠",
+      "onboard_time": 1686449308,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190196,
@@ -635,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163440,
+      "num": 163440,
+      "word": "TFBOYS近期活动状态",
+      "onboard_time": 1686449128,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162719,
       "num": 162719,
       "word": "梅西也得熬夜看欧冠",
@@ -649,6 +689,14 @@
       "onboard_time": 1686443548,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157641,
+      "num": 157641,
+      "word": "奔跑吧泰国大合照",
+      "onboard_time": 1686448766,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 155877,
@@ -689,6 +737,14 @@
       "onboard_time": 1686401671,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144003,
+      "num": 144003,
+      "word": "蔡徐坤说跑起来",
+      "onboard_time": 1686449248,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 142849,
@@ -745,6 +801,14 @@
       "onboard_time": 1686438977,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129614,
+      "num": 129614,
+      "word": "不要湿发睡觉",
+      "onboard_time": 1686449669,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 127195,

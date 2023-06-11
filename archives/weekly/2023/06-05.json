@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686448476862,
+  "endTime": 1686449948069,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -867,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1684007,
+      "num": 1684007,
+      "word": "拍婚纱照发朋友圈被同事教育",
+      "onboard_time": 1686442104,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1682616,
       "num": 1682616,
       "word": "大学摘10万斤荔枝请全校免费吃",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1685934030,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1582030,
-      "num": 1582030,
-      "word": "拍婚纱照发朋友圈被同事教育",
-      "onboard_time": 1686442104,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1572951,
@@ -1795,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1108278,
+      "num": 1108278,
+      "word": "花戎婚礼变葬礼",
+      "onboard_time": 1686445106,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1103865,
       "num": 612087,
       "word": "太古里",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1686409772,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1032386,
+      "num": 1032386,
+      "word": "老板谈上4休3工作制1个月后效果",
+      "onboard_time": 1686446608,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1029690,
@@ -2251,14 +2267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 939809,
-      "num": 939809,
-      "word": "花戎婚礼变葬礼",
-      "onboard_time": 1686445106,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 938004,
       "num": 238776,
       "word": "律师谈国企领导与异性亲密逛街被拍",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1686363883,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 854433,
+      "num": 854433,
+      "word": "专家称年轻人不想生成本高并非主因",
+      "onboard_time": 1686447448,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853657,
@@ -2819,6 +2835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 780772,
+      "num": 780772,
+      "word": "法老 幼稚园杀手",
+      "onboard_time": 1686440722,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 778201,
       "num": 460960,
       "word": "路人对迪丽热巴的现状分析",
@@ -2883,20 +2907,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 769724,
-      "num": 769724,
-      "word": "法老 幼稚园杀手",
-      "onboard_time": 1686440722,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 769206,
       "num": 769206,
       "word": "山河图",
       "onboard_time": 1686285273,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767779,
+      "num": 767779,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767234,
@@ -3049,14 +3073,6 @@
       "onboard_time": 1686126453,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 725009,
-      "num": 725009,
-      "word": "老板谈上4休3工作制1个月后效果",
-      "onboard_time": 1686446608,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 724649,
@@ -3321,14 +3337,6 @@
       "onboard_time": 1685973030,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 638645,
-      "num": 638645,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638400,
@@ -4204,7 +4212,7 @@
     },
     {
       "raw_hot": 461349,
-      "num": 374059,
+      "num": 417629,
       "word": "63岁保姆上岗1小时烧焦雇主家水壶",
       "onboard_time": 1686439399,
       "rank": 46,
@@ -4379,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433920,
+      "num": 433920,
+      "word": "TFBOYS演唱会被写投诉信",
+      "onboard_time": 1686448888,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433819,
       "num": 433819,
       "word": "肖春生戴婚戒",
@@ -4505,6 +4521,14 @@
       "onboard_time": 1685926649,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417310,
+      "num": 417310,
+      "word": "奚梦瑶何猷君手牵手出席活动",
+      "onboard_time": 1686447867,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 417005,
@@ -5345,14 +5369,6 @@
       "onboard_time": 1686387328,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 346425,
-      "num": 346425,
-      "word": "专家称年轻人不想生成本高并非主因",
-      "onboard_time": 1686447448,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345929,
@@ -6675,6 +6691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273591,
+      "num": 273591,
+      "word": "广州市监测发现两例猴痘病例",
+      "onboard_time": 1686448948,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273306,
       "num": 273306,
       "word": "30岁也不过是12岁的大人",
@@ -6803,6 +6827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269260,
+      "num": 269260,
+      "word": "陈飞宇8秒演一生",
+      "onboard_time": 1686444868,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268903,
       "num": 268903,
       "word": "孟子义提携周一围",
@@ -6865,14 +6897,6 @@
       "onboard_time": 1686193652,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 265153,
-      "num": 265153,
-      "word": "奚梦瑶何猷君手牵手出席活动",
-      "onboard_time": 1686447867,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 264997,
@@ -7899,14 +7923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235865,
-      "num": 235865,
-      "word": "陈飞宇8秒演一生",
-      "onboard_time": 1686444868,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234307,
       "num": 234307,
       "word": "刘耀文读秒好准",
@@ -8419,6 +8435,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 221998,
+      "num": 221998,
+      "word": "妈妈因发不出生活费感到惭愧",
+      "onboard_time": 1686446727,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221741,
       "num": 221741,
       "word": "张艺兴工作室团队重组",
@@ -8761,14 +8785,6 @@
       "onboard_time": 1686316109,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215011,
-      "num": 215011,
-      "word": "妈妈因发不出生活费感到惭愧",
-      "onboard_time": 1686446727,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 214711,
@@ -9731,6 +9747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195161,
+      "num": 192039,
+      "word": "肖春生要搞事业了",
+      "onboard_time": 1686449909,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194949,
       "num": 194949,
       "word": "你当年选了文科还是理科",
@@ -9897,6 +9921,14 @@
       "onboard_time": 1686019827,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192234,
+      "num": 192234,
+      "word": "感动全网的这对母子暂不接受捐赠",
+      "onboard_time": 1686449308,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191943,
@@ -11395,6 +11427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163440,
+      "num": 163440,
+      "word": "TFBOYS近期活动状态",
+      "onboard_time": 1686449128,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163373,
       "num": 163373,
       "word": "杨紫高考前采访视频",
@@ -11633,6 +11673,14 @@
       "onboard_time": 1685970569,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157641,
+      "num": 157641,
+      "word": "奔跑吧泰国大合照",
+      "onboard_time": 1686448766,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 157460,
@@ -12163,6 +12211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144003,
+      "num": 144003,
+      "word": "蔡徐坤说跑起来",
+      "onboard_time": 1686449248,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143863,
       "num": 143863,
       "word": "女孩和女孩更有约会的感觉",
@@ -12673,6 +12729,14 @@
       "onboard_time": 1686045932,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 129614,
+      "num": 129614,
+      "word": "不要湿发睡觉",
+      "onboard_time": 1686449669,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 129578,
