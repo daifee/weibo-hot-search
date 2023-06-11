@@ -1,0 +1,410 @@
+{
+  "runTime": 1686483219503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2116051,
+        "num": 2116051,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1094681,
+        "num": 2005272,
+        "word": "员工不接电话浙江老板果断报警",
+        "onboard_time": 1686470427,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51307,
+        "num": 1954311,
+        "word": "龙舟大赛强强对决好热闹",
+        "onboard_time": 1686474569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1942417,
+        "num": 1942417,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 267886,
+        "num": 1629236,
+        "word": "女子220斤家人为激励减肥奖6万",
+        "onboard_time": 1686481766,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512658,
+        "num": 1512658,
+        "word": "迪丽热巴蝴蝶骨好明显",
+        "onboard_time": 1686480089,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176534,
+        "num": 1503860,
+        "word": "感动全网的高考生计划暑期打工",
+        "onboard_time": 1686475949,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1502236,
+        "num": 1502236,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235314,
+        "num": 1235314,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1167135,
+        "num": 1167135,
+        "word": "宁艺卓开通微博",
+        "onboard_time": 1686482188,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1258973,
+        "num": 1104841,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022248,
+        "num": 1022248,
+        "word": "王楚钦",
+        "onboard_time": 1686481106,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967757,
+        "num": 967757,
+        "word": "网友评的四大女演贝",
+        "onboard_time": 1686470849,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 855560,
+        "num": 855560,
+        "word": "大叔自证未在地铁偷拍仍遭曝光最新进展",
+        "onboard_time": 1686483207,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57508,
+        "num": 623501,
+        "word": "幼儿高烧昏迷交警接力护送就医",
+        "onboard_time": 1686481225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554277,
+        "num": 554277,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 550646,
+        "num": 550646,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404967,
+        "num": 404967,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396109,
+        "num": 396109,
+        "word": "迪奥",
+        "onboard_time": 1686481527,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 390470,
+        "num": 390470,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384075,
+        "num": 384075,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357995,
+        "num": 357995,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312188,
+        "num": 312188,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 304897,
+        "num": 304897,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294936,
+        "num": 294936,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 24,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 293406,
+        "num": 293406,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 25,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 259982,
+        "num": 259982,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247003,
+        "num": 247003,
+        "word": "全世界的追星人都一样",
+        "onboard_time": 1686477088,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 231624,
+        "num": 231624,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216682,
+        "num": 216682,
+        "word": "没有一顿火锅解决不了的事曝预告",
+        "onboard_time": 1686481766,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201845,
+        "num": 201845,
+        "word": "衢州鹿鸣音乐节",
+        "onboard_time": 1686482486,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179288,
+        "num": 179288,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172448,
+        "num": 172448,
+        "word": "周柯宇cos长珩仙君",
+        "onboard_time": 1686469166,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171237,
+        "num": 171237,
+        "word": "吴宣仪 音乐节",
+        "onboard_time": 1686476427,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162544,
+        "num": 162544,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156486,
+        "num": 156486,
+        "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+        "onboard_time": 1686470008,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156242,
+        "num": 156242,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152163,
+        "num": 152163,
+        "word": "EDG首场对阵T1",
+        "onboard_time": 1686473789,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148424,
+        "num": 148424,
+        "word": "ENHYPEN翻跳Come2Me",
+        "onboard_time": 1686480626,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137637,
+        "num": 137637,
+        "word": "男朋友紧张时会摸出学生卡壮胆",
+        "onboard_time": 1686474750,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 132262,
+        "word": "妈你哭什么呢我看见你高兴",
+        "onboard_time": 1686482426,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131573,
+        "num": 131573,
+        "word": "杨幂新电影预告旁白",
+        "onboard_time": 1686479546,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130226,
+        "num": 130226,
+        "word": "mai 法老",
+        "onboard_time": 1686469887,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127691,
+        "num": 127691,
+        "word": "LNG辅助",
+        "onboard_time": 1686474029,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123918,
+        "num": 123918,
+        "word": "导演带王一博去日本采风",
+        "onboard_time": 1686474569,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120419,
+        "num": 120419,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118806,
+        "num": 118806,
+        "word": "DK 难评",
+        "onboard_time": 1686470307,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113325,
+        "num": 113325,
+        "word": "小鬼说上海我又回来了",
+        "onboard_time": 1686480028,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112239,
+        "num": 112239,
+        "word": "王源客厅狂欢巡演live辑预告",
+        "onboard_time": 1686480626,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109757,
+        "num": 109757,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}
