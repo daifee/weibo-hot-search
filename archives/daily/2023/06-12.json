@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686501345979,
+  "endTime": 1686503640654,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -33,6 +33,14 @@
       "onboard_time": 1686473789,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 910779,
+      "num": 910779,
+      "word": "大叔家属回应被查手机时有地铁车厢照",
+      "onboard_time": 1686500126,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817302,
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426668,
-      "num": 379527,
-      "word": "大叔家属回应被查手机时有地铁车厢照",
-      "onboard_time": 1686500126,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 426258,
+      "num": 426258,
+      "word": "德约科维奇夺大满贯第23冠",
+      "onboard_time": 1686501325,
+      "rank": 37,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 411467,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307877,
+      "num": 220450,
+      "word": "高邮",
+      "onboard_time": 1686499948,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304295,
       "num": 276913,
       "word": "广州南站按摩椅出现大量虫子",
@@ -193,14 +209,6 @@
       "onboard_time": 1686496291,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220450,
-      "num": 220450,
-      "word": "高邮",
-      "onboard_time": 1686499948,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216481,
@@ -267,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196230,
+      "num": 196230,
+      "word": "女乘客空中失聪浙江医生出手了",
+      "onboard_time": 1686499888,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192693,
       "num": 192693,
       "word": "袁姗姗孔雀开屏耳环",
@@ -329,14 +345,6 @@
       "onboard_time": 1686495811,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152565,
-      "num": 152565,
-      "word": "德约科维奇夺大满贯第23冠",
-      "onboard_time": 1686501325,
-      "rank": 37,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 144604,
@@ -411,14 +419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108517,
-      "num": 108517,
-      "word": "女乘客空中失聪浙江医生出手了",
-      "onboard_time": 1686499888,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99496,
       "num": 99496,
       "word": "孙千cos紫萱",
@@ -427,10 +427,42 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93787,
+      "num": 93787,
+      "word": "light",
+      "onboard_time": 1686502880,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 86084,
+      "num": 86084,
+      "word": "孟佳王霏霏10年前vs现在合照",
+      "onboard_time": 1686502523,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59249,
+      "num": 59249,
+      "word": "全世界的追星人都一样",
+      "onboard_time": 1686477088,
+      "rank": 49,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 57926,
       "num": 984188,
       "word": "村超现场有多燃",
       "onboard_time": 1686488550,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9722,
+      "num": 810244,
+      "word": "神舟十号发射成功10周年",
+      "onboard_time": 1686488311,
       "rank": 2,
       "category": "社会新闻"
     }
@@ -441,6 +473,9 @@
     },
     {
       "word": "#2023相约成都大运会#"
+    },
+    {
+      "word": "#建设社会主义文化强国#"
     }
   ]
 }
