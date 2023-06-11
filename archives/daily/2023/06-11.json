@@ -1,7 +1,15 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686454616956,
+  "endTime": 1686457203080,
   "band_list": [
+    {
+      "raw_hot": 2733068,
+      "num": 2733068,
+      "word": "梁田从芒果离职",
+      "onboard_time": 1686454647,
+      "rank": 0,
+      "category": "艺人,科技"
+    },
     {
       "raw_hot": 2142412,
       "num": 2142412,
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1703166,
+      "num": 799964,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1682203,
       "num": 1682203,
       "word": "花戎婚礼变葬礼",
       "onboard_time": 1686445106,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1611334,
-      "num": 799964,
-      "word": "女性受教育程度越高终身不育率越高",
-      "onboard_time": 1686451289,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1331005,
@@ -59,7 +67,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1231200,
+      "raw_hot": 1261534,
       "num": 1231200,
       "word": "唐九洲奶奶",
       "onboard_time": 1686452308,
@@ -89,6 +97,14 @@
       "onboard_time": 1686450208,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1097791,
+      "num": 1097791,
+      "word": "私拆承重墙事件最新通报",
+      "onboard_time": 1686455968,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083023,
@@ -177,6 +193,14 @@
       "onboard_time": 1686404010,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 855604,
+      "num": 855604,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 811874,
@@ -339,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387068,
+      "num": 387068,
+      "word": "北京政法职业学院",
+      "onboard_time": 1686456329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374279,
       "num": 374279,
       "word": "萧敬腾方律师声明",
@@ -353,14 +385,6 @@
       "onboard_time": 1686389967,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 351532,
-      "num": 351532,
-      "word": "你当明星会被扒出什么黑料",
-      "onboard_time": 1686452967,
-      "rank": 26,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 350944,
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294094,
+      "num": 294094,
+      "word": "鹿晗新脏辫造型",
+      "onboard_time": 1686454467,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 293924,
       "num": 293924,
       "word": "南京暴雨 原来萧敬腾在",
@@ -441,6 +473,14 @@
       "onboard_time": 1686452848,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273865,
+      "num": 273865,
+      "word": "肖春生为救佟晓梅站起来了",
+      "onboard_time": 1686456389,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 273591,
@@ -739,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185003,
+      "num": 185003,
+      "word": "贺峻霖鞋跑掉了",
+      "onboard_time": 1686456568,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183408,
       "num": 138294,
       "word": "狐妖小红娘",
@@ -827,6 +875,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160443,
+      "num": 160443,
+      "word": "我的农民爸爸读了我的硕士论文",
+      "onboard_time": 1686456869,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 160214,
+      "num": 160214,
+      "word": "宋亚轩一个梗也没错过",
+      "onboard_time": 1686455488,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158621,
+      "num": 158621,
+      "word": "私拆承重墙5人被采取刑事强制措施",
+      "onboard_time": 1686456507,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158518,
       "num": 158518,
       "word": "男子教室仗义执言遭同学怒怼",
@@ -875,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150100,
-      "num": 150100,
-      "word": "鹿晗新脏辫造型",
-      "onboard_time": 1686454467,
-      "rank": 47,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "熊孩子真的不分物种",
@@ -915,6 +979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141870,
+      "num": 141870,
+      "word": "蜘蛛侠纵横宇宙",
+      "onboard_time": 1686457108,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140557,
+      "num": 140557,
+      "word": "强制爱的男主配得到爱吗",
+      "onboard_time": 1686456089,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139695,
       "num": 139695,
       "word": "江西就鸭脖事件成立联合调查组",
@@ -945,6 +1025,14 @@
       "onboard_time": 1686373827,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133908,
+      "num": 133908,
+      "word": "绘旅人潮汐瓦解",
+      "onboard_time": 1686457166,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 132814,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1686418222,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42602,
+      "num": 587970,
+      "word": "武大靖领跑吉马",
+      "onboard_time": 1686456147,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 38869,

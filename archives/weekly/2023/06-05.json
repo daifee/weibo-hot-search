@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686454616956,
+  "endTime": 1686457203080,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -233,6 +233,14 @@
       "onboard_time": 1686057810,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2733068,
+      "num": 2733068,
+      "word": "梁田从芒果离职",
+      "onboard_time": 1686454647,
+      "rank": 0,
+      "category": "艺人,科技"
     },
     {
       "raw_hot": 2731716,
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1703166,
+      "num": 799964,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1686882,
       "num": 1686882,
       "word": "上海英语 我是吴磊",
@@ -984,14 +1000,6 @@
       "word": "鼠头鸭脖食堂意见反馈群曝光",
       "onboard_time": 1686199119,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1611334,
-      "num": 799964,
-      "word": "女性受教育程度越高终身不育率越高",
-      "onboard_time": 1686451289,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1499,6 +1507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1261534,
+      "num": 1231200,
+      "word": "唐九洲奶奶",
+      "onboard_time": 1686452308,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1259695,
       "num": 1259695,
       "word": "长得漂亮但拍照不上镜",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1686107438,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1231200,
-      "num": 1231200,
-      "word": "唐九洲奶奶",
-      "onboard_time": 1686452308,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 1223087,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1686282932,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1097791,
+      "num": 1097791,
+      "word": "私拆承重墙事件最新通报",
+      "onboard_time": 1686455968,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1095349,
@@ -2569,6 +2585,14 @@
       "onboard_time": 1686301709,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855604,
+      "num": 855604,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 855254,
@@ -4851,6 +4875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387068,
+      "num": 387068,
+      "word": "北京政法职业学院",
+      "onboard_time": 1686456329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386189,
       "num": 450449,
       "word": "Uzi爆料自己14号上场",
@@ -5297,14 +5329,6 @@
       "onboard_time": 1685930246,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351532,
-      "num": 351532,
-      "word": "你当明星会被扒出什么黑料",
-      "onboard_time": 1686452967,
-      "rank": 26,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 350944,
@@ -6243,6 +6267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294094,
+      "num": 294094,
+      "word": "鹿晗新脏辫造型",
+      "onboard_time": 1686454467,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 293786,
       "num": 300053,
       "word": "迪丽热巴金智秀周也江疏影同品牌大片",
@@ -6744,6 +6776,14 @@
       "word": "肖春生的梦碎了",
       "onboard_time": 1686232172,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273865,
+      "num": 273865,
+      "word": "肖春生为救佟晓梅站起来了",
+      "onboard_time": 1686456389,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -10547,6 +10587,14 @@
       "category": "网红,教育"
     },
     {
+      "raw_hot": 185003,
+      "num": 185003,
+      "word": "贺峻霖鞋跑掉了",
+      "onboard_time": 1686456568,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184783,
       "num": 184783,
       "word": "开考半小时前民警为考生办临时身份证",
@@ -11691,6 +11739,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160443,
+      "num": 160443,
+      "word": "我的农民爸爸读了我的硕士论文",
+      "onboard_time": 1686456869,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 160214,
+      "num": 160214,
+      "word": "宋亚轩一个梗也没错过",
+      "onboard_time": 1686455488,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160128,
       "num": 523628,
       "word": "学生高举字条用监控和老师交流发试卷",
@@ -11777,6 +11841,14 @@
       "onboard_time": 1686151774,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158621,
+      "num": 158621,
+      "word": "私拆承重墙5人被采取刑事强制措施",
+      "onboard_time": 1686456507,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158518,
@@ -12155,14 +12227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150100,
-      "num": 150100,
-      "word": "鹿晗新脏辫造型",
-      "onboard_time": 1686454467,
-      "rank": 47,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 149915,
       "num": 149915,
       "word": "秋瓷炫为Amber抱不平",
@@ -12483,6 +12547,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 141870,
+      "num": 141870,
+      "word": "蜘蛛侠纵横宇宙",
+      "onboard_time": 1686457108,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141717,
       "num": 131537,
       "word": "电影封神第一部",
@@ -12512,6 +12584,14 @@
       "word": "玫瑰故事",
       "onboard_time": 1686032067,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140557,
+      "num": 140557,
+      "word": "强制爱的男主配得到爱吗",
+      "onboard_time": 1686456089,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -12713,6 +12793,14 @@
       "onboard_time": 1686228391,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 133908,
+      "num": 133908,
+      "word": "绘旅人潮汐瓦解",
+      "onboard_time": 1686457166,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 133626,
@@ -14625,6 +14713,14 @@
       "onboard_time": 1686397889,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 42602,
+      "num": 587970,
+      "word": "武大靖领跑吉马",
+      "onboard_time": 1686456147,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 41371,
