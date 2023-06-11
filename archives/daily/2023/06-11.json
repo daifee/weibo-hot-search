@@ -1,10 +1,10 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686457203080,
+  "endTime": 1686458024200,
   "band_list": [
     {
-      "raw_hot": 2733068,
-      "num": 2733068,
+      "raw_hot": 2745185,
+      "num": 2745185,
       "word": "梁田从芒果离职",
       "onboard_time": 1686454647,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244769,
+      "num": 1244769,
+      "word": "私拆承重墙事件最新通报",
+      "onboard_time": 1686455968,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1196313,
       "num": 1196313,
       "word": "张大仙",
@@ -99,11 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1097791,
-      "num": 1097791,
-      "word": "私拆承重墙事件最新通报",
-      "onboard_time": 1686455968,
-      "rank": 5,
+      "raw_hot": 1100742,
+      "num": 1100742,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1089843,
+      "num": 729092,
+      "word": "北京政法职业学院",
+      "onboard_time": 1686456329,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1686404010,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 855604,
-      "num": 855604,
-      "word": "你当明星会被扒出什么黑料",
-      "onboard_time": 1686452967,
-      "rank": 26,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 811874,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441638,
+      "num": 441638,
+      "word": "我妈的一比兜让我眼神都清澈了",
+      "onboard_time": 1686457770,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 437425,
       "num": 437425,
       "word": "柯以敏直播奔溃大哭",
@@ -361,14 +377,6 @@
       "onboard_time": 1686454589,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387068,
-      "num": 387068,
-      "word": "北京政法职业学院",
-      "onboard_time": 1686456329,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374279,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304621,
+      "num": 304621,
+      "word": "肖春生为救佟晓梅站起来了",
+      "onboard_time": 1686456389,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299696,
       "num": 293754,
       "word": "肖战出现在母校晚会宣传片",
@@ -475,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273865,
-      "num": 273865,
-      "word": "肖春生为救佟晓梅站起来了",
-      "onboard_time": 1686456389,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 276846,
+      "num": 255902,
+      "word": "我的农民爸爸读了我的硕士论文",
+      "onboard_time": 1686456869,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 273591,
@@ -779,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185240,
+      "num": 185240,
+      "word": "蜘蛛侠纵横宇宙",
+      "onboard_time": 1686457108,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185003,
       "num": 185003,
       "word": "贺峻霖鞋跑掉了",
@@ -809,6 +833,14 @@
       "onboard_time": 1686447448,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176623,
+      "num": 176623,
+      "word": "奥利维拉vs大流士",
+      "onboard_time": 1686457890,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 169837,
@@ -873,14 +905,6 @@
       "onboard_time": 1686398571,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160443,
-      "num": 160443,
-      "word": "我的农民爸爸读了我的硕士论文",
-      "onboard_time": 1686456869,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 160214,
@@ -955,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148978,
+      "num": 148978,
+      "word": "王源终于见到苏大强本人了",
+      "onboard_time": 1686457529,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147338,
       "num": 147338,
       "word": "我那么大一个马丽呢",
@@ -971,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142850,
+      "num": 142850,
+      "word": "绘旅人潮汐瓦解",
+      "onboard_time": 1686457166,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142849,
       "num": 142849,
       "word": "曼城三冠王",
       "onboard_time": 1686432313,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141870,
-      "num": 141870,
-      "word": "蜘蛛侠纵横宇宙",
-      "onboard_time": 1686457108,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 140557,
@@ -1019,20 +1051,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137119,
+      "num": 137119,
+      "word": "皇马球迷为见梅西花1万错订4家酒店",
+      "onboard_time": 1686457647,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134030,
       "num": 134030,
       "word": "千万不要用酒精清洁电脑屏幕",
       "onboard_time": 1686373827,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133908,
-      "num": 133908,
-      "word": "绘旅人潮汐瓦解",
-      "onboard_time": 1686457166,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 132814,
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62166,
+      "num": 587970,
+      "word": "武大靖领跑吉马",
+      "onboard_time": 1686456147,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61812,
       "num": 167809,
       "word": "卡卡带中国小将圆梦欧冠",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1686418222,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 42602,
-      "num": 587970,
-      "word": "武大靖领跑吉马",
-      "onboard_time": 1686456147,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 38869,

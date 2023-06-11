@@ -1,0 +1,410 @@
+{
+  "runTime": 1686458024200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2745185,
+        "num": 2745185,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 0,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 1244769,
+        "num": 1244769,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10521,
+        "num": 1208946,
+        "word": "文化和自然遗产冷知识",
+        "onboard_time": 1686406953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182314,
+        "num": 1182314,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100742,
+        "num": 1100742,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 994969,
+        "num": 994969,
+        "word": "花戎婚礼变葬礼",
+        "onboard_time": 1686445106,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 960457,
+        "num": 960457,
+        "word": "TFBOYS演唱会被写投诉信",
+        "onboard_time": 1686448888,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 885574,
+        "num": 885574,
+        "word": "张凌赫工作室宣布停更一周",
+        "onboard_time": 1686450208,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876946,
+        "num": 876946,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730789,
+        "num": 730789,
+        "word": "老板谈上4休3工作制1个月后效果",
+        "onboard_time": 1686446608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089843,
+        "num": 729092,
+        "word": "北京政法职业学院",
+        "onboard_time": 1686456329,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723399,
+        "num": 723399,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632559,
+        "num": 632559,
+        "word": "法老 幼稚园杀手",
+        "onboard_time": 1686440722,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 617657,
+        "num": 617657,
+        "word": "三星堆遗址再曝重磅消息",
+        "onboard_time": 1686438920,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62166,
+        "num": 502068,
+        "word": "武大靖领跑吉马",
+        "onboard_time": 1686456147,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496758,
+        "num": 496758,
+        "word": "醉汉买瓜因不满沙瓤夺刀捅自己",
+        "onboard_time": 1686440362,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493684,
+        "num": 493684,
+        "word": "拍婚纱照发朋友圈被同事教育",
+        "onboard_time": 1686442104,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464629,
+        "num": 464629,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441638,
+        "num": 441638,
+        "word": "我妈的一比兜让我眼神都清澈了",
+        "onboard_time": 1686457770,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440859,
+        "num": 440859,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1639115,
+        "num": 415168,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359259,
+        "num": 359259,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342116,
+        "num": 342116,
+        "word": "团伙盗墓挖出龙袍网上售卖",
+        "onboard_time": 1686415707,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318247,
+        "num": 318247,
+        "word": "陶昕然说演员想漂亮就不要去演戏",
+        "onboard_time": 1686454589,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304621,
+        "num": 304621,
+        "word": "肖春生为救佟晓梅站起来了",
+        "onboard_time": 1686456389,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296663,
+        "num": 296663,
+        "word": "中铁三局辟谣董事长与女子逛街",
+        "onboard_time": 1686441263,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283184,
+        "num": 283184,
+        "word": "鹿晗新脏辫造型",
+        "onboard_time": 1686454467,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 276863,
+        "num": 276863,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 27,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 265683,
+        "num": 265683,
+        "word": "梅西北京",
+        "onboard_time": 1686452848,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255913,
+        "num": 255913,
+        "word": "72岁TVB男星将迎娶小36岁女友",
+        "onboard_time": 1686409413,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276846,
+        "num": 255902,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 252682,
+        "num": 252682,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229067,
+        "num": 229067,
+        "word": "大半个娱乐圈都在江苏吧",
+        "onboard_time": 1686406051,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227947,
+        "num": 227947,
+        "word": "说个故事清朝灭亡才111年",
+        "onboard_time": 1686401132,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207672,
+        "num": 207672,
+        "word": "蔡徐坤王鹤棣7天涨粉",
+        "onboard_time": 1686450688,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205883,
+        "num": 205883,
+        "word": "萧敬腾方律师声明",
+        "onboard_time": 1686442885,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185240,
+        "num": 185240,
+        "word": "蜘蛛侠纵横宇宙",
+        "onboard_time": 1686457108,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183086,
+        "num": 183086,
+        "word": "姚译添你就宠他吧",
+        "onboard_time": 1686442885,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176623,
+        "num": 176623,
+        "word": "奥利维拉vs大流士",
+        "onboard_time": 1686457890,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165001,
+        "num": 165001,
+        "word": "薛之谦说毛不易话不多但金句频出",
+        "onboard_time": 1686453629,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153318,
+        "num": 153318,
+        "word": "猴痘",
+        "onboard_time": 1686450627,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148978,
+        "num": 148978,
+        "word": "王源终于见到苏大强本人了",
+        "onboard_time": 1686457529,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142850,
+        "num": 142850,
+        "word": "绘旅人潮汐瓦解",
+        "onboard_time": 1686457166,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138741,
+        "num": 138741,
+        "word": "宋亚轩一个梗也没错过",
+        "onboard_time": 1686455488,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138083,
+        "num": 138083,
+        "word": "瞒着父母买过最贵的东西",
+        "onboard_time": 1686451648,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137119,
+        "num": 137119,
+        "word": "皇马球迷为见梅西花1万错订4家酒店",
+        "onboard_time": 1686457647,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132049,
+        "num": 132049,
+        "word": "林志玲",
+        "onboard_time": 1686440783,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130886,
+        "num": 130886,
+        "word": "曼城vs国际米兰",
+        "onboard_time": 1686409772,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130556,
+        "num": 130556,
+        "word": "日本突然声称核污水危害健康",
+        "onboard_time": 1686413250,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128612,
+        "num": 128612,
+        "word": "肖战梦中的那片海即将登陆央一",
+        "onboard_time": 1686450028,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护文化遗产赓续文明血脉#"
+    }
+  }
+}
