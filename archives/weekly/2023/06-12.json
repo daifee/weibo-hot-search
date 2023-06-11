@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686521731991,
+  "endTime": 1686522810331,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82108,
+      "num": 61137,
+      "word": "贺红玲说肖春生甩了她",
+      "onboard_time": 1686488850,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76345,
       "num": 76345,
       "word": "消防员火场废墟中寻回老人存款",
@@ -451,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60804,
+      "num": 60804,
+      "word": "文咏珊4天走5次红毯",
+      "onboard_time": 1686504499,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59249,
       "num": 59249,
       "word": "全世界的追星人都一样",
       "onboard_time": 1686477088,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 58152,
-      "num": 51536,
-      "word": "贺红玲说肖春生甩了她",
-      "onboard_time": 1686488850,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 58013,
@@ -483,16 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56714,
-      "num": 56714,
-      "word": "文咏珊4天走5次红毯",
-      "onboard_time": 1686504499,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41799,
-      "num": 41799,
+      "raw_hot": 48830,
+      "num": 48830,
       "word": "李莎旻子说我丢脸丢到国外去了",
       "onboard_time": 1686506656,
       "rank": 32,
@@ -507,8 +507,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17993,
-      "num": 29887,
+      "raw_hot": 24244,
+      "num": 29478,
+      "word": "高考历史",
+      "onboard_time": 1686361114,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 23027,
+      "num": 31780,
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
@@ -531,7 +539,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 10593,
+      "raw_hot": 12325,
       "num": 810244,
       "word": "神舟十号发射成功10周年",
       "onboard_time": 1686488311,
