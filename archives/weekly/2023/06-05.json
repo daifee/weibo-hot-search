@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686453008285,
+  "endTime": 1686454616956,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1611334,
+      "num": 799964,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1610694,
       "num": 1610694,
       "word": "Lisa露额头",
@@ -1371,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1331005,
+      "num": 1257633,
+      "word": "TFBOYS演唱会被写投诉信",
+      "onboard_time": 1686448888,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1324313,
       "num": 1324313,
       "word": "保送男生穿旗袍为高考同学加油",
@@ -1539,12 +1555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1230523,
-      "num": 1230523,
-      "word": "TFBOYS演唱会被写投诉信",
-      "onboard_time": 1686448888,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 1231200,
+      "num": 1231200,
+      "word": "唐九洲奶奶",
+      "onboard_time": 1686452308,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1223087,
@@ -1819,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105717,
+      "num": 1105717,
+      "word": "张凌赫工作室宣布停更一周",
+      "onboard_time": 1686450208,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1103865,
       "num": 612087,
       "word": "太古里",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1083023,
+      "num": 1083023,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1076297,
@@ -2347,14 +2379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 908606,
-      "num": 908606,
-      "word": "张凌赫工作室宣布停更一周",
-      "onboard_time": 1686450208,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 907427,
       "num": 907427,
       "word": "井柏然刘雯又合体营业了",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1686283352,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 882459,
-      "num": 882459,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 879069,
@@ -2713,6 +2729,14 @@
       "onboard_time": 1686278609,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 811874,
+      "num": 811874,
+      "word": "香港大黄鸭被热爆一只",
+      "onboard_time": 1686450509,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811524,
@@ -3267,14 +3291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 677850,
-      "num": 677850,
-      "word": "香港大黄鸭被热爆一只",
-      "onboard_time": 1686450509,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 673363,
       "num": 673363,
       "word": "奚梦瑶何猷君手牵手出席活动",
@@ -3665,14 +3681,6 @@
       "onboard_time": 1685962107,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 562148,
-      "num": 562148,
-      "word": "女性受教育程度越高终身不育率越高",
-      "onboard_time": 1686451289,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559589,
@@ -4763,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400172,
+      "num": 400172,
+      "word": "陶昕然说演员想漂亮就不要去演戏",
+      "onboard_time": 1686454589,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397660,
       "num": 397660,
       "word": "五条悟",
@@ -4785,14 +4801,6 @@
       "onboard_time": 1686382412,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 392108,
-      "num": 240001,
-      "word": "唐九洲奶奶",
-      "onboard_time": 1686452308,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 390788,
@@ -5289,6 +5297,14 @@
       "onboard_time": 1685930246,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351532,
+      "num": 351532,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 350944,
@@ -6083,14 +6099,6 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 301243,
-      "num": 301243,
-      "word": "你当明星会被扒出什么黑料",
-      "onboard_time": 1686452967,
-      "rank": 26,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 301023,
       "num": 229426,
       "word": "沈腾秀表 妖娆",
@@ -6601,6 +6609,14 @@
       "onboard_time": 1686294510,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "梅西北京",
+      "onboard_time": 1686452848,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 278156,
@@ -8619,6 +8635,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 219658,
+      "num": 214476,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1686453869,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219481,
       "num": 219481,
       "word": "易梦玲说不要雌竞争要雄竞",
@@ -8841,6 +8865,14 @@
       "onboard_time": 1686189328,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 215189,
+      "num": 215189,
+      "word": "薛之谦说毛不易话不多但金句频出",
+      "onboard_time": 1686453629,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 215119,
@@ -11619,14 +11651,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 161396,
-      "num": 161396,
-      "word": "梅西北京",
-      "onboard_time": 1686452848,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161246,
       "num": 161246,
       "word": "学车教练给我取了个日本名",
@@ -11867,6 +11891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156415,
+      "num": 156415,
+      "word": "宁艺卓谈团队精神",
+      "onboard_time": 1686454229,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156182,
       "num": 156182,
       "word": "明日方舟",
@@ -11995,6 +12027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153080,
+      "num": 153080,
+      "word": "洪都拉斯驻华大使馆开馆",
+      "onboard_time": 1686454229,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 153060,
       "num": 153060,
       "word": "多巴胺穿搭 QQ秀",
@@ -12113,6 +12153,14 @@
       "onboard_time": 1685893408,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150100,
+      "num": 150100,
+      "word": "鹿晗新脏辫造型",
+      "onboard_time": 1686454467,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 149915,
@@ -12881,6 +12929,14 @@
       "onboard_time": 1686041969,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128787,
+      "num": 143007,
+      "word": "欧文新球鞋",
+      "onboard_time": 1686454409,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128557,
@@ -14243,6 +14299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66883,
+      "num": 625932,
+      "word": "女孩高考后送娃娃给护考交警",
+      "onboard_time": 1686452967,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66409,
       "num": 1262676,
       "word": "3分钟告诉你万物皆可链",
@@ -14889,14 +14953,6 @@
       "onboard_time": 1686167293,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 5014,
-      "num": 625932,
-      "word": "女孩高考后送娃娃给护考交警",
-      "onboard_time": 1686452967,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

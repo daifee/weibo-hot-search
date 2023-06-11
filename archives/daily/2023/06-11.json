@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686453008285,
+  "endTime": 1686454616956,
   "band_list": [
     {
       "raw_hot": 2142412,
@@ -43,12 +43,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1230523,
-      "num": 1230523,
+      "raw_hot": 1611334,
+      "num": 799964,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1331005,
+      "num": 1257633,
       "word": "TFBOYS演唱会被写投诉信",
       "onboard_time": 1686448888,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1231200,
+      "num": 1231200,
+      "word": "唐九洲奶奶",
+      "onboard_time": 1686452308,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1196313,
@@ -64,6 +80,22 @@
       "word": "专家称年轻人不想生成本高并非主因",
       "onboard_time": 1686447448,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105717,
+      "num": 1105717,
+      "word": "张凌赫工作室宣布停更一周",
+      "onboard_time": 1686450208,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1083023,
+      "num": 1083023,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -123,14 +155,6 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 908606,
-      "num": 908606,
-      "word": "张凌赫工作室宣布停更一周",
-      "onboard_time": 1686450208,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 895839,
       "num": 895839,
       "word": "醉汉买瓜因不满沙瓤夺刀捅自己",
@@ -155,11 +179,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 882459,
-      "num": 882459,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
+      "raw_hot": 811874,
+      "num": 811874,
+      "word": "香港大黄鸭被热爆一只",
+      "onboard_time": 1686450509,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -211,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 677850,
-      "num": 677850,
-      "word": "香港大黄鸭被热爆一只",
-      "onboard_time": 1686450509,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 673363,
       "num": 673363,
       "word": "奚梦瑶何猷君手牵手出席活动",
@@ -264,14 +280,6 @@
       "word": "72岁TVB男星将迎娶小36岁女友",
       "onboard_time": 1686409413,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562148,
-      "num": 562148,
-      "word": "女性受教育程度越高终身不育率越高",
-      "onboard_time": 1686451289,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -323,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392108,
-      "num": 240001,
-      "word": "唐九洲奶奶",
-      "onboard_time": 1686452308,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 400172,
+      "num": 400172,
+      "word": "陶昕然说演员想漂亮就不要去演戏",
+      "onboard_time": 1686454589,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 374279,
@@ -345,6 +353,14 @@
       "onboard_time": 1686389967,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351532,
+      "num": 351532,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 350944,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301243,
-      "num": 301243,
-      "word": "你当明星会被扒出什么黑料",
-      "onboard_time": 1686452967,
-      "rank": 26,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 299696,
       "num": 293754,
       "word": "肖战出现在母校晚会宣传片",
@@ -425,6 +433,14 @@
       "onboard_time": 1686409111,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "梅西北京",
+      "onboard_time": 1686452848,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 273591,
@@ -545,6 +561,22 @@
       "onboard_time": 1686411270,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219658,
+      "num": 214476,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1686453869,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 215189,
+      "num": 215189,
+      "word": "薛之谦说毛不易话不多但金句频出",
+      "onboard_time": 1686453629,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 213471,
@@ -795,20 +827,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161396,
-      "num": 161396,
-      "word": "梅西北京",
-      "onboard_time": 1686452848,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158518,
       "num": 158518,
       "word": "男子教室仗义执言遭同学怒怼",
       "onboard_time": 1686443548,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156415,
+      "num": 156415,
+      "word": "宁艺卓谈团队精神",
+      "onboard_time": 1686454229,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 155877,
@@ -827,12 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153080,
+      "num": 153080,
+      "word": "洪都拉斯驻华大使馆开馆",
+      "onboard_time": 1686454229,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 152712,
       "num": 152712,
       "word": "高考后爸爸搬行李的统一姿势",
       "onboard_time": 1686415645,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150100,
+      "num": 150100,
+      "word": "鹿晗新脏辫造型",
+      "onboard_time": 1686454467,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 149608,
@@ -921,6 +969,14 @@
       "onboard_time": 1686449669,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128787,
+      "num": 143007,
+      "word": "欧文新球鞋",
+      "onboard_time": 1686454409,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 127195,
@@ -1043,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 66883,
+      "num": 625932,
+      "word": "女孩高考后送娃娃给护考交警",
+      "onboard_time": 1686452967,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62242,
       "num": 62242,
       "word": "张碧晨红毯状态",
@@ -1121,14 +1185,6 @@
       "onboard_time": 1686426493,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 5014,
-      "num": 625932,
-      "word": "女孩高考后送娃娃给护考交警",
-      "onboard_time": 1686452967,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
