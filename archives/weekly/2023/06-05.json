@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686476010108,
+  "endTime": 1686478603232,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -97,6 +97,14 @@
       "onboard_time": 1686211954,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3887658,
+      "num": 3887658,
+      "word": "张雨绮致歉",
+      "onboard_time": 1686473789,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3656939,
@@ -497,14 +505,6 @@
       "onboard_time": 1686458369,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2290806,
-      "num": 1559256,
-      "word": "张雨绮致歉",
-      "onboard_time": 1686473789,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 2273063,
@@ -3155,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752783,
+      "num": 2265559,
+      "word": "员工不接电话浙江老板果断报警",
+      "onboard_time": 1686470427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751828,
       "num": 751828,
       "word": "教育部发布2023高考预警",
@@ -3417,6 +3425,14 @@
       "onboard_time": 1685936790,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676737,
+      "num": 623108,
+      "word": "梅西见面会取消",
+      "onboard_time": 1686477088,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 673363,
@@ -4201,14 +4217,6 @@
       "onboard_time": 1686232953,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 493886,
-      "num": 493886,
-      "word": "员工不接电话浙江老板果断报警",
-      "onboard_time": 1686470427,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493751,
@@ -6483,6 +6491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292429,
+      "num": 292429,
+      "word": "吴宣仪 音乐节",
+      "onboard_time": 1686476427,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292319,
       "num": 292319,
       "word": "我去夏威夷测二氧化碳",
@@ -7153,6 +7169,14 @@
       "onboard_time": 1686355241,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266777,
+      "num": 266777,
+      "word": "全世界的追星人都一样",
+      "onboard_time": 1686477088,
+      "rank": 26,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 266227,
@@ -7947,6 +7971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244071,
+      "num": 244071,
+      "word": "男朋友紧张时会摸出学生卡壮胆",
+      "onboard_time": 1686474750,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 243817,
       "num": 243817,
       "word": "粤语是何书桓语录最好的滤镜",
@@ -8713,6 +8745,14 @@
       "onboard_time": 1685979027,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224027,
+      "num": 1663870,
+      "word": "感动全网的高考生计划暑期打工",
+      "onboard_time": 1686475949,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223984,
@@ -10739,6 +10779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187768,
+      "num": 187768,
+      "word": "陈伟霆说先虐一下靳时川",
+      "onboard_time": 1686478288,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187591,
       "num": 187591,
       "word": "高铁晚点",
@@ -11451,6 +11499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174850,
+      "num": 1562922,
+      "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+      "onboard_time": 1686470008,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174617,
       "num": 173135,
       "word": "孟子义公开自己体重",
@@ -11737,6 +11793,14 @@
       "onboard_time": 1685931026,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 168734,
+      "num": 168734,
+      "word": "男粉线下追梅西视频",
+      "onboard_time": 1686477930,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 168720,
@@ -12155,6 +12219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160313,
+      "num": 160313,
+      "word": "FPX小老虎",
+      "onboard_time": 1686476729,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160214,
       "num": 160214,
       "word": "宋亚轩一个梗也没错过",
@@ -12465,14 +12537,6 @@
       "onboard_time": 1686310110,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154701,
-      "num": 154701,
-      "word": "男朋友紧张时会摸出学生卡壮胆",
-      "onboard_time": 1686474750,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 154292,
@@ -12825,14 +12889,6 @@
       "onboard_time": 1685895386,
       "rank": 33,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 145765,
-      "num": 145765,
-      "word": "女子瘫痪后欲轻生丈夫用爱唤回",
-      "onboard_time": 1686470008,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145444,
@@ -13371,6 +13427,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 132689,
+      "num": 132689,
+      "word": "LNG战胜FPX",
+      "onboard_time": 1686478527,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132407,
       "num": 132407,
       "word": "薛之谦宜昌加场",
@@ -13641,14 +13705,6 @@
       "onboard_time": 1685968948,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125433,
-      "num": 125433,
-      "word": "感动全网的高考生计划暑期打工",
-      "onboard_time": 1686475949,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125258,
@@ -15227,6 +15283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 55031,
+      "num": 1839159,
+      "word": "龙舟大赛强强对决好热闹",
+      "onboard_time": 1686474569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54408,
       "num": 52527,
       "word": "考场外等哥哥的萌娃先跟消防员来了波互动",
@@ -15377,14 +15441,6 @@
       "onboard_time": 1686397889,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42051,
-      "num": 1839159,
-      "word": "龙舟大赛强强对决好热闹",
-      "onboard_time": 1686474569,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41371,
@@ -15713,6 +15769,14 @@
       "onboard_time": 1686167293,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8644,
+      "num": 492138,
+      "word": "男子跳河轻生民警绕后方深水区救人",
+      "onboard_time": 1686478167,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
