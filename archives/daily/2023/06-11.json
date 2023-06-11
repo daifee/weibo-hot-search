@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686474912544,
+  "endTime": 1686476010108,
   "band_list": [
     {
       "raw_hot": 2945978,
@@ -19,12 +19,28 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 2474214,
+      "num": 2474214,
+      "word": "张雨绮说699我都买不了袜子",
+      "onboard_time": 1686466886,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2318512,
       "num": 1355892,
       "word": "校园霸凌",
       "onboard_time": 1686458369,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2290806,
+      "num": 1559256,
+      "word": "张雨绮致歉",
+      "onboard_time": 1686473789,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2142412,
@@ -57,14 +73,6 @@
       "onboard_time": 1686407794,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1856904,
-      "num": 1856904,
-      "word": "张雨绮说699我都买不了袜子",
-      "onboard_time": 1686466886,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1769134,
@@ -123,8 +131,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1272869,
-      "num": 1272869,
+      "raw_hot": 1289744,
+      "num": 1289744,
       "word": "网友评的四大女演贝",
       "onboard_time": 1686470849,
       "rank": 29,
@@ -153,14 +161,6 @@
       "onboard_time": 1686455968,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1202048,
-      "num": 1202048,
-      "word": "张雨绮致歉",
-      "onboard_time": 1686473789,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1196313,
@@ -411,20 +411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618958,
+      "num": 618958,
+      "word": "DK 难评",
+      "onboard_time": 1686470307,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 608106,
       "num": 608106,
       "word": "幼稚园杀手发歌diss盛宇",
       "onboard_time": 1686404730,
       "rank": 7,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 605751,
-      "num": 605751,
-      "word": "DK 难评",
-      "onboard_time": 1686470307,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 579821,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549935,
+      "num": 549935,
+      "word": "注册不了张z",
+      "onboard_time": 1686475288,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541772,
       "num": 541772,
       "word": "王一博好贵",
@@ -451,12 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466631,
-      "num": 466631,
+      "raw_hot": 495167,
+      "num": 495167,
       "word": "林志玲谈退出演艺圈",
       "onboard_time": 1686462569,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493886,
+      "num": 493886,
+      "word": "员工不接电话浙江老板果断报警",
+      "onboard_time": 1686470427,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463692,
@@ -472,14 +488,6 @@
       "word": "63岁保姆上岗1小时烧焦雇主家水壶",
       "onboard_time": 1686439399,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450037,
-      "num": 486900,
-      "word": "员工不接电话浙江老板果断报警",
-      "onboard_time": 1686470427,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -827,8 +835,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219924,
-      "num": 219924,
+      "raw_hot": 220452,
+      "num": 220452,
       "word": "郭俊辰吻到青筋暴起",
       "onboard_time": 1686471268,
       "rank": 41,
@@ -865,6 +873,14 @@
       "onboard_time": 1686453629,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214936,
+      "num": 214936,
+      "word": "彩虹",
+      "onboard_time": 1686475588,
+      "rank": 26,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 213471,
@@ -1195,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173038,
+      "num": 173038,
+      "word": "彭昱畅说我没事问问许凯吧",
+      "onboard_time": 1686473968,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169837,
       "num": 169837,
       "word": "BOYHOOD男团状态",
@@ -1227,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166621,
+      "num": 166621,
+      "word": "贾乃亮被岳云鹏砸懵了",
+      "onboard_time": 1686474569,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166284,
       "num": 166284,
       "word": "minnie奔跑吧水上跳tomboy",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1686449128,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163386,
-      "num": 163386,
-      "word": "贾乃亮被岳云鹏砸懵了",
-      "onboard_time": 1686474569,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 162719,
@@ -1331,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154701,
+      "num": 154701,
+      "word": "男朋友紧张时会摸出学生卡壮胆",
+      "onboard_time": 1686474750,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 154187,
       "num": 154187,
       "word": "鼠头鸭脖",
@@ -1387,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148061,
+      "num": 148061,
+      "word": "杨梅爆爆珠冰汤圆",
+      "onboard_time": 1686474987,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147338,
       "num": 147338,
       "word": "我那么大一个马丽呢",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1686470008,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145470,
-      "num": 139097,
-      "word": "彭昱畅说我没事问问许凯吧",
-      "onboard_time": 1686473968,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 144003,
@@ -1595,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125433,
+      "num": 125433,
+      "word": "感动全网的高考生计划暑期打工",
+      "onboard_time": 1686475949,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 125214,
       "num": 125214,
       "word": "打工一周的精神状态be like",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1686402272,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112104,
-      "num": 112104,
-      "word": "男朋友紧张时会摸出学生卡壮胆",
-      "onboard_time": 1686474750,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 111598,
@@ -1899,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42051,
+      "num": 1839159,
+      "word": "龙舟大赛强强对决好热闹",
+      "onboard_time": 1686474569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38869,
       "num": 38869,
       "word": "C位烫脚",
@@ -1921,14 +1961,6 @@
       "onboard_time": 1686426493,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15778,
-      "num": 1839159,
-      "word": "龙舟大赛强强对决好热闹",
-      "onboard_time": 1686474569,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1686476010108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2474214,
+        "num": 2474214,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1876321,
+        "num": 1876321,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 42051,
+        "num": 1571702,
+        "word": "龙舟大赛强强对决好热闹",
+        "onboard_time": 1686474569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2290806,
+        "num": 1559256,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1477015,
+        "num": 1477015,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289744,
+        "num": 1289744,
+        "word": "网友评的四大女演贝",
+        "onboard_time": 1686470849,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 969943,
+        "num": 969943,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786520,
+        "num": 786520,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658978,
+        "num": 658978,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 618958,
+        "num": 618958,
+        "word": "DK 难评",
+        "onboard_time": 1686470307,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 741398,
+        "num": 614810,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587453,
+        "num": 587453,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 549935,
+        "num": 549935,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495167,
+        "num": 495167,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493886,
+        "num": 493886,
+        "word": "员工不接电话浙江老板果断报警",
+        "onboard_time": 1686470427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493192,
+        "num": 493192,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492908,
+        "num": 492908,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486543,
+        "num": 486543,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356526,
+        "num": 356526,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 18,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 344150,
+        "num": 344150,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 362818,
+        "num": 335591,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319081,
+        "num": 319081,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265255,
+        "num": 265255,
+        "word": "LNG辅助",
+        "onboard_time": 1686474029,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240149,
+        "num": 240149,
+        "word": "成龙张艺兴娜扎新片传说预告",
+        "onboard_time": 1686470549,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231851,
+        "num": 231851,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220452,
+        "num": 220452,
+        "word": "郭俊辰吻到青筋暴起",
+        "onboard_time": 1686471268,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214936,
+        "num": 214936,
+        "word": "彩虹",
+        "onboard_time": 1686475588,
+        "rank": 26,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 201507,
+        "num": 201507,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198671,
+        "num": 198671,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197716,
+        "num": 197716,
+        "word": "导演带王一博去日本采风",
+        "onboard_time": 1686474569,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331517,
+        "num": 193154,
+        "word": "校园霸凌",
+        "onboard_time": 1686458369,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198575,
+        "num": 190840,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186312,
+        "num": 186312,
+        "word": "mai 法老",
+        "onboard_time": 1686469887,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173038,
+        "num": 173038,
+        "word": "彭昱畅说我没事问问许凯吧",
+        "onboard_time": 1686473968,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 166621,
+        "word": "贾乃亮被岳云鹏砸懵了",
+        "onboard_time": 1686474569,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164421,
+        "num": 164421,
+        "word": "周柯宇cos长珩仙君",
+        "onboard_time": 1686469166,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164171,
+        "num": 164171,
+        "word": "EDG首场对阵T1",
+        "onboard_time": 1686473789,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163249,
+        "num": 163249,
+        "word": "金泰亨见面会",
+        "onboard_time": 1686472346,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "男朋友紧张时会摸出学生卡壮胆",
+        "onboard_time": 1686474750,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153752,
+        "num": 153752,
+        "word": "孙怡哭了",
+        "onboard_time": 1686469647,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152833,
+        "num": 152833,
+        "word": "当我怀疑酒店有针孔摄像头",
+        "onboard_time": 1686462628,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150565,
+        "num": 150565,
+        "word": "TFBOYS演唱会被写投诉信",
+        "onboard_time": 1686448888,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148061,
+        "num": 148061,
+        "word": "杨梅爆爆珠冰汤圆",
+        "onboard_time": 1686474987,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142721,
+        "num": 142721,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134494,
+        "num": 134494,
+        "word": "袁娅维回应被认错",
+        "onboard_time": 1686472407,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133134,
+        "num": 133134,
+        "word": "张凌赫工作室宣布停更一周",
+        "onboard_time": 1686450208,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130709,
+        "num": 130709,
+        "word": "王鹤棣换人主打一个出其不意",
+        "onboard_time": 1686473669,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128579,
+        "num": 128579,
+        "word": "6月急需一个广西的朋友",
+        "onboard_time": 1686472469,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128128,
+        "num": 128128,
+        "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+        "onboard_time": 1686470008,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125433,
+        "num": 125433,
+        "word": "感动全网的高考生计划暑期打工",
+        "onboard_time": 1686475949,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}

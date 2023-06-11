@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686474912544,
+  "endTime": 1686476010108,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2474214,
+      "num": 2474214,
+      "word": "张雨绮说699我都买不了袜子",
+      "onboard_time": 1686466886,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2467998,
       "num": 2467998,
       "word": "吴京贾静雯牵手",
@@ -489,6 +497,14 @@
       "onboard_time": 1686458369,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2290806,
+      "num": 1559256,
+      "word": "张雨绮致歉",
+      "onboard_time": 1686473789,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2273063,
@@ -809,14 +825,6 @@
       "onboard_time": 1686407794,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1856904,
-      "num": 1856904,
-      "word": "张雨绮说699我都买不了袜子",
-      "onboard_time": 1686466886,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1826995,
@@ -1491,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1289744,
+      "num": 1289744,
+      "word": "网友评的四大女演贝",
+      "onboard_time": 1686470849,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1283952,
       "num": 800068,
       "word": "中国电信回应广东无信号",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1686096633,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1272869,
-      "num": 1272869,
-      "word": "网友评的四大女演贝",
-      "onboard_time": 1686470849,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1271963,
@@ -1697,14 +1705,6 @@
       "onboard_time": 1685927488,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1202048,
-      "num": 1202048,
-      "word": "张雨绮致歉",
-      "onboard_time": 1686473789,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1201069,
@@ -3627,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618958,
+      "num": 618958,
+      "word": "DK 难评",
+      "onboard_time": 1686470307,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 618141,
       "num": 618141,
       "word": "陈都灵造型师哪位",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1686313709,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605751,
-      "num": 605751,
-      "word": "DK 难评",
-      "onboard_time": 1686470307,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 605417,
@@ -4163,6 +4163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495167,
+      "num": 495167,
+      "word": "林志玲谈退出演艺圈",
+      "onboard_time": 1686462569,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494991,
       "num": 494991,
       "word": "王诗龄生图",
@@ -4193,6 +4201,14 @@
       "onboard_time": 1686232953,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 493886,
+      "num": 493886,
+      "word": "员工不接电话浙江老板果断报警",
+      "onboard_time": 1686470427,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493751,
@@ -4403,14 +4419,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 466631,
-      "num": 466631,
-      "word": "林志玲谈退出演艺圈",
-      "onboard_time": 1686462569,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463507,
       "num": 463507,
       "word": "肖春生带孩子梦回陈情令",
@@ -4489,14 +4497,6 @@
       "onboard_time": 1685968227,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 450037,
-      "num": 486900,
-      "word": "员工不接电话浙江老板果断报警",
-      "onboard_time": 1686470427,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448612,
@@ -8867,20 +8867,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220452,
+      "num": 220452,
+      "word": "郭俊辰吻到青筋暴起",
+      "onboard_time": 1686471268,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220252,
       "num": 220252,
       "word": "杭州收费站",
       "onboard_time": 1685939853,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219924,
-      "num": 219924,
-      "word": "郭俊辰吻到青筋暴起",
-      "onboard_time": 1686471268,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 219691,
@@ -9161,6 +9161,14 @@
       "onboard_time": 1686316109,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214936,
+      "num": 214936,
+      "word": "彩虹",
+      "onboard_time": 1686475588,
+      "rank": 26,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 214711,
@@ -11531,6 +11539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173038,
+      "num": 173038,
+      "word": "彭昱畅说我没事问问许凯吧",
+      "onboard_time": 1686473968,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172813,
       "num": 172813,
       "word": "杨颖说在这个节目快没朋友了",
@@ -11819,6 +11835,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 166621,
+      "num": 166621,
+      "word": "贾乃亮被岳云鹏砸懵了",
+      "onboard_time": 1686474569,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166284,
       "num": 166284,
       "word": "minnie奔跑吧水上跳tomboy",
@@ -12001,14 +12025,6 @@
       "onboard_time": 1686449128,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163386,
-      "num": 163386,
-      "word": "贾乃亮被岳云鹏砸懵了",
-      "onboard_time": 1686474569,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 163373,
@@ -12451,6 +12467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154701,
+      "num": 154701,
+      "word": "男朋友紧张时会摸出学生卡壮胆",
+      "onboard_time": 1686474750,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 154292,
       "num": 154292,
       "word": "15寸的MacBook Air",
@@ -12731,6 +12755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148061,
+      "num": 148061,
+      "word": "杨梅爆爆珠冰汤圆",
+      "onboard_time": 1686474987,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "梦中的那片海塑造的女性",
@@ -12801,14 +12833,6 @@
       "onboard_time": 1686470008,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145470,
-      "num": 139097,
-      "word": "彭昱畅说我没事问问许凯吧",
-      "onboard_time": 1686473968,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 145444,
@@ -13619,6 +13643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125433,
+      "num": 125433,
+      "word": "感动全网的高考生计划暑期打工",
+      "onboard_time": 1686475949,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 125258,
       "num": 125258,
       "word": "班主任送高考学子小龙虾帮缓解压力",
@@ -14137,14 +14169,6 @@
       "onboard_time": 1686460348,
       "rank": 49,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 112104,
-      "num": 112104,
-      "word": "男朋友紧张时会摸出学生卡壮胆",
-      "onboard_time": 1686474750,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 112069,
@@ -15355,6 +15379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42051,
+      "num": 1839159,
+      "word": "龙舟大赛强强对决好热闹",
+      "onboard_time": 1686474569,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41371,
       "num": 121315,
       "word": "宋佳想要的品质生活",
@@ -15673,14 +15705,6 @@
       "onboard_time": 1686077774,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15778,
-      "num": 1839159,
-      "word": "龙舟大赛强强对决好热闹",
-      "onboard_time": 1686474569,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12740,
