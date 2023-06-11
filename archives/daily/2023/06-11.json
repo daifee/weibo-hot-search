@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686464446797,
+  "endTime": 1686465245564,
   "band_list": [
     {
       "raw_hot": 2945978,
@@ -35,7 +35,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1893825,
+      "raw_hot": 2028250,
       "num": 1296447,
       "word": "校园霸凌",
       "onboard_time": 1686458369,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1320847,
+      "num": 638187,
+      "word": "四川大学",
+      "onboard_time": 1686459988,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1261534,
       "num": 1231200,
       "word": "唐九洲奶奶",
@@ -121,14 +129,6 @@
       "onboard_time": 1686411031,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1186754,
-      "num": 636917,
-      "word": "四川大学",
-      "onboard_time": 1686459988,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1105717,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999821,
+      "num": 999821,
+      "word": "范丞丞王鹤棣把白鹿扔水里了",
+      "onboard_time": 1686459089,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 998413,
       "num": 581691,
       "word": "杰克辣条孕妇群里发伪装的虐猫视频",
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 924247,
-      "num": 924247,
-      "word": "范丞丞王鹤棣把白鹿扔水里了",
-      "onboard_time": 1686459089,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 916737,
       "num": 844835,
       "word": "牵手门带火的裙子已退货2000件",
       "onboard_time": 1686408152,
       "rank": 5,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 897855,
+      "num": 897855,
+      "word": "央视网评演员变演贝",
+      "onboard_time": 1686460888,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 895839,
@@ -283,14 +291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 765511,
-      "num": 765511,
-      "word": "央视网评演员变演贝",
-      "onboard_time": 1686460888,
-      "rank": 26,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 759574,
       "num": 759574,
       "word": "惠英红 我是宝贝小斐的一日站姐",
@@ -313,6 +313,14 @@
       "onboard_time": 1686438920,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690501,
+      "num": 690501,
+      "word": "都给马思纯p成啥样了",
+      "onboard_time": 1686462028,
+      "rank": 15,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 673363,
@@ -363,28 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541772,
-      "num": 541772,
-      "word": "王一博好贵",
-      "onboard_time": 1686389967,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 528796,
-      "num": 528796,
+      "raw_hot": 555114,
+      "num": 555114,
       "word": "何炅抱起谢娜转圈圈",
       "onboard_time": 1686461847,
       "rank": 13,
       "category": "综艺"
     },
     {
-      "raw_hot": 514439,
-      "num": 514439,
-      "word": "都给马思纯p成啥样了",
-      "onboard_time": 1686462028,
-      "rank": 15,
-      "category": "幽默,艺人"
+      "raw_hot": 541772,
+      "num": 541772,
+      "word": "王一博好贵",
+      "onboard_time": 1686389967,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 463692,
@@ -409,6 +409,14 @@
       "onboard_time": 1686390688,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 447759,
+      "num": 447759,
+      "word": "林志玲谈退出演艺圈",
+      "onboard_time": 1686462569,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 444993,
@@ -459,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364919,
+      "num": 364919,
+      "word": "孟子义 好过得刚",
+      "onboard_time": 1686463586,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350944,
       "num": 350944,
       "word": "姚译添你就宠他吧",
       "onboard_time": 1686442885,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343980,
-      "num": 343980,
-      "word": "林志玲谈退出演艺圈",
-      "onboard_time": 1686462569,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 339452,
@@ -833,14 +841,6 @@
       "onboard_time": 1686406111,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198216,
-      "num": 198216,
-      "word": "孟子义 好过得刚",
-      "onboard_time": 1686463586,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 196741,
@@ -1315,6 +1315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117392,
+      "num": 117392,
+      "word": "倪妮 视觉中国",
+      "onboard_time": 1686464968,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112517,
+      "num": 112517,
+      "word": "女子曝光地铁大叔事件该如何收场",
+      "onboard_time": 1686465149,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112317,
       "num": 112317,
       "word": "你家请保姆会限制年龄吗",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1686417203,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101802,
+      "num": 515851,
+      "word": "8岁男孩帮工人爸爸用挖机拆墙挖土",
+      "onboard_time": 1686463229,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100761,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1686421277,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 53521,
-      "num": 515851,
-      "word": "8岁男孩帮工人爸爸用挖机拆墙挖土",
-      "onboard_time": 1686463229,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52508,

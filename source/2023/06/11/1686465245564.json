@@ -1,0 +1,410 @@
+{
+  "runTime": 1686465245564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2141101,
+        "num": 2141101,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027858,
+        "num": 1027858,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 1,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 8493,
+        "num": 1007388,
+        "word": "文化和自然遗产冷知识",
+        "onboard_time": 1686406953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2028250,
+        "num": 1003621,
+        "word": "校园霸凌",
+        "onboard_time": 1686458369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999821,
+        "num": 999821,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899628,
+        "num": 899628,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 897855,
+        "num": 897855,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 834043,
+        "num": 834043,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701901,
+        "num": 701901,
+        "word": "老板谈上4休3工作制1个月后效果",
+        "onboard_time": 1686446608,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690501,
+        "num": 690501,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 9,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1320847,
+        "num": 638187,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584518,
+        "num": 584518,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555114,
+        "num": 555114,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539037,
+        "num": 539037,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101802,
+        "num": 513194,
+        "word": "8岁男孩帮工人爸爸用挖机拆墙挖土",
+        "onboard_time": 1686463229,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512770,
+        "num": 512770,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480862,
+        "num": 480862,
+        "word": "TFBOYS演唱会被写投诉信",
+        "onboard_time": 1686448888,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 447759,
+        "num": 447759,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431177,
+        "num": 431177,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 384911,
+        "num": 384911,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1198394,
+        "num": 383008,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369892,
+        "num": 369892,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364919,
+        "num": 364919,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329587,
+        "num": 329587,
+        "word": "法老 幼稚园杀手",
+        "onboard_time": 1686440722,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317956,
+        "num": 317956,
+        "word": "花戎婚礼变葬礼",
+        "onboard_time": 1686445106,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237762,
+        "num": 237762,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233843,
+        "num": 233843,
+        "word": "杨幂紫色系穿搭",
+        "onboard_time": 1686460708,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232792,
+        "num": 232792,
+        "word": "当我怀疑酒店有针孔摄像头",
+        "onboard_time": 1686462628,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231158,
+        "num": 231158,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 28,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 199618,
+        "num": 199618,
+        "word": "如何看待免职裙爆单后又遭退货",
+        "onboard_time": 1686456208,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049378,
+        "num": 199501,
+        "word": "北京政法职业学院",
+        "onboard_time": 1686456329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197514,
+        "num": 197514,
+        "word": "拍婚纱照发朋友圈被同事教育",
+        "onboard_time": 1686442104,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194568,
+        "num": 194568,
+        "word": "盛宇詹雯婷诀爱太绝了",
+        "onboard_time": 1686462449,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179014,
+        "num": 179014,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178744,
+        "num": 178744,
+        "word": "张凌赫工作室宣布停更一周",
+        "onboard_time": 1686450208,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172716,
+        "num": 172716,
+        "word": "sana好辣",
+        "onboard_time": 1686461248,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165086,
+        "num": 165086,
+        "word": "乔欣看到武大靖被抓释然了",
+        "onboard_time": 1686461668,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151157,
+        "num": 151157,
+        "word": "上海地铁一女子自称市长孙女辱骂他人",
+        "onboard_time": 1686458488,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143363,
+        "num": 143363,
+        "word": "刘烨",
+        "onboard_time": 1686459029,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135147,
+        "num": 135147,
+        "word": "法老唱亲密爱人",
+        "onboard_time": 1686461968,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134005,
+        "num": 134005,
+        "word": "中铁三局辟谣董事长与女子逛街",
+        "onboard_time": 1686441263,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131048,
+        "num": 131048,
+        "word": "肖春生为救佟晓梅站起来了",
+        "onboard_time": 1686456389,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130474,
+        "num": 130474,
+        "word": "醉汉买瓜因不满沙瓤夺刀捅自己",
+        "onboard_time": 1686440362,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125586,
+        "num": 125586,
+        "word": "00后是有品味的",
+        "onboard_time": 1686464008,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123771,
+        "num": 123771,
+        "word": "易烊千玺金爵奖评委见面会",
+        "onboard_time": 1686461188,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122330,
+        "num": 122330,
+        "word": "梅西北京",
+        "onboard_time": 1686452848,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117392,
+        "num": 117392,
+        "word": "倪妮 视觉中国",
+        "onboard_time": 1686464968,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112517,
+        "num": 112517,
+        "word": "女子曝光地铁大叔事件该如何收场",
+        "onboard_time": 1686465149,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105614,
+        "num": 105614,
+        "word": "逍遥散人 重庆不辣的美食",
+        "onboard_time": 1686458189,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78171,
+        "num": 105450,
+        "word": "皇马球迷为见梅西花1万错订4家酒店",
+        "onboard_time": 1686457647,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加大文物和文化遗产保护力度#"
+    }
+  }
+}
