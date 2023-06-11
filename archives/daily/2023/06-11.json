@@ -1,7 +1,15 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686461613595,
+  "endTime": 1686464446797,
   "band_list": [
+    {
+      "raw_hot": 2945978,
+      "num": 2945978,
+      "word": "自证未偷拍大叔儿子希望曝光人道歉",
+      "onboard_time": 1686458729,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2745185,
       "num": 2745185,
@@ -25,6 +33,14 @@
       "onboard_time": 1686408332,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1893825,
+      "num": 1296447,
+      "word": "校园霸凌",
+      "onboard_time": 1686458369,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1859611,
@@ -67,28 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1382260,
-      "num": 1382260,
-      "word": "自证未偷拍大叔儿子希望曝光人道歉",
-      "onboard_time": 1686458729,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1331005,
       "num": 1257633,
       "word": "TFBOYS演唱会被写投诉信",
       "onboard_time": 1686448888,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1296447,
-      "num": 1296447,
-      "word": "校园霸凌",
-      "onboard_time": 1686458369,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1261534,
@@ -123,6 +123,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1186754,
+      "num": 636917,
+      "word": "四川大学",
+      "onboard_time": 1686459988,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105717,
       "num": 1105717,
       "word": "张凌赫工作室宣布停更一周",
@@ -152,6 +160,14 @@
       "word": "老板谈上4休3工作制1个月后效果",
       "onboard_time": 1686446608,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1053329,
+      "num": 1053329,
+      "word": "香港大黄鸭被热爆一只",
+      "onboard_time": 1686450509,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924247,
+      "num": 924247,
+      "word": "范丞丞王鹤棣把白鹿扔水里了",
+      "onboard_time": 1686459089,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 916737,
       "num": 844835,
       "word": "牵手门带火的裙子已退货2000件",
@@ -227,28 +251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 811874,
-      "num": 811874,
-      "word": "香港大黄鸭被热爆一只",
-      "onboard_time": 1686450509,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 802981,
       "num": 636708,
       "word": "吴京贾静雯牵手",
       "onboard_time": 1686395562,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 797036,
-      "num": 797036,
-      "word": "范丞丞王鹤棣把白鹿扔水里了",
-      "onboard_time": 1686459089,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 784275,
@@ -273,6 +281,14 @@
       "onboard_time": 1686440722,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 765511,
+      "num": 765511,
+      "word": "央视网评演员变演贝",
+      "onboard_time": 1686460888,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 759574,
@@ -355,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528796,
+      "num": 528796,
+      "word": "何炅抱起谢娜转圈圈",
+      "onboard_time": 1686461847,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 514439,
+      "num": 514439,
+      "word": "都给马思纯p成啥样了",
+      "onboard_time": 1686462028,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 463692,
       "num": 463692,
       "word": "猴痘",
@@ -411,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382099,
-      "num": 382099,
-      "word": "四川大学",
-      "onboard_time": 1686459988,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374279,
       "num": 374279,
       "word": "萧敬腾方律师声明",
@@ -441,6 +465,14 @@
       "onboard_time": 1686442885,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343980,
+      "num": 343980,
+      "word": "林志玲谈退出演艺圈",
+      "onboard_time": 1686462569,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 339452,
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271072,
+      "num": 271072,
+      "word": "杨幂紫色系穿搭",
+      "onboard_time": 1686460708,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269260,
       "num": 269260,
       "word": "陈飞宇8秒演一生",
@@ -569,14 +609,6 @@
       "onboard_time": 1686432313,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256990,
-      "num": 256990,
-      "word": "央视网评演员变演贝",
-      "onboard_time": 1686460888,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 256907,
@@ -619,12 +651,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 249963,
+      "num": 249963,
+      "word": "如何看待免职裙爆单后又遭退货",
+      "onboard_time": 1686456208,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240136,
       "num": 240136,
       "word": "当你想离职但又不好意思说",
       "onboard_time": 1686451167,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238092,
+      "num": 238092,
+      "word": "当我怀疑酒店有针孔摄像头",
+      "onboard_time": 1686462628,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 233961,
+      "num": 233961,
+      "word": "盛宇詹雯婷诀爱太绝了",
+      "onboard_time": 1686462449,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 232932,
@@ -747,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203712,
+      "num": 203712,
+      "word": "上海地铁一女子自称市长孙女辱骂他人",
+      "onboard_time": 1686458488,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202634,
       "num": 146105,
       "word": "何赛飞杨紫新剧演母女",
@@ -771,12 +835,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197046,
-      "num": 197046,
-      "word": "上海地铁一女子自称市长孙女辱骂他人",
-      "onboard_time": 1686458488,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 198216,
+      "num": 198216,
+      "word": "孟子义 好过得刚",
+      "onboard_time": 1686463586,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196741,
@@ -785,14 +849,6 @@
       "onboard_time": 1686431860,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196441,
-      "num": 196441,
-      "word": "杨幂紫色系穿搭",
-      "onboard_time": 1686460708,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 195161,
@@ -923,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180847,
+      "num": 180847,
+      "word": "乔欣看到武大靖被抓释然了",
+      "onboard_time": 1686461668,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180605,
       "num": 180605,
       "word": "逍遥散人 重庆不辣的美食",
@@ -1003,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160891,
+      "num": 160891,
+      "word": "这个家不能没有叶芳",
+      "onboard_time": 1686463408,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160214,
       "num": 160214,
       "word": "宋亚轩一个梗也没错过",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1686391769,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153349,
+      "num": 153349,
+      "word": "法老唱亲密爱人",
+      "onboard_time": 1686461968,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 153080,
@@ -1195,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127805,
+      "num": 127805,
+      "word": "00后是有品味的",
+      "onboard_time": 1686464008,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127195,
       "num": 127195,
       "word": "哈兰德",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1686459866,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117811,
+      "num": 117811,
+      "word": "轿车冒烟山东小伙冲上去掰门救人",
+      "onboard_time": 1686463408,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112317,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1686421277,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 53521,
+      "num": 515851,
+      "word": "8岁男孩帮工人爸爸用挖机拆墙挖土",
+      "onboard_time": 1686463229,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52508,
