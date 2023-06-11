@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686494012959,
+  "endTime": 1686496553419,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -5787,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567000,
+      "num": 567000,
+      "word": "薛之谦说我开始找你了梅西",
+      "onboard_time": 1686493533,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 565931,
       "num": 565931,
       "word": "压力给到华晨宇站姐",
@@ -6537,6 +6545,14 @@
       "onboard_time": 1686375686,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488210,
+      "num": 356081,
+      "word": "你一般买多少钱一双的袜子",
+      "onboard_time": 1686492869,
+      "rank": 24,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 488010,
@@ -7419,6 +7435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419810,
+      "num": 364702,
+      "word": "EXO粉丝开始卷起来了",
+      "onboard_time": 1686492211,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419163,
       "num": 419163,
       "word": "王玉雯红裙造型",
@@ -7681,6 +7705,14 @@
       "onboard_time": 1686185973,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406139,
+      "num": 406139,
+      "word": "WBG失误",
+      "onboard_time": 1686494432,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 405502,
@@ -8451,14 +8483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364702,
-      "num": 364702,
-      "word": "EXO粉丝开始卷起来了",
-      "onboard_time": 1686492211,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 364383,
       "num": 364383,
       "word": "王一博转签名笔",
@@ -8883,6 +8907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 347713,
+      "num": 347713,
+      "word": "赵露思刘宇宁或将二搭",
+      "onboard_time": 1686495453,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347591,
       "num": 347591,
       "word": "早睡可以解决80%以上的问题",
@@ -8937,6 +8969,14 @@
       "onboard_time": 1685673328,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345233,
+      "num": 345233,
+      "word": "心动的信号6",
+      "onboard_time": 1686495755,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 345058,
@@ -9139,12 +9179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337604,
-      "num": 337604,
-      "word": "你一般买多少钱一双的袜子",
-      "onboard_time": 1686492869,
-      "rank": 24,
-      "category": "社会议题,情感"
+      "raw_hot": 337798,
+      "num": 337798,
+      "word": "爸爸带女儿跑步200余天孩子变化明显",
+      "onboard_time": 1686495513,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337599,
@@ -10083,6 +10123,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 306508,
+      "num": 306508,
+      "word": "白敬亭日常记录",
+      "onboard_time": 1686495090,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306499,
+      "num": 306499,
+      "word": "工作后唯一放松的时刻 逛超市",
+      "onboard_time": 1686493111,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 306483,
       "num": 306483,
       "word": "肖战刘芮麟来自头发的默契",
@@ -10371,6 +10427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297573,
+      "num": 297573,
+      "word": "TES战胜WBG",
+      "onboard_time": 1686494132,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297522,
       "num": 297522,
       "word": "SMTOWN注销将太郎ins",
@@ -10537,6 +10601,14 @@
       "onboard_time": 1685870728,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 294134,
+      "num": 294134,
+      "word": "肖春生 我本桀骜少年臣",
+      "onboard_time": 1686496291,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 294094,
@@ -11435,6 +11507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273936,
+      "num": 273936,
+      "word": "一巴掌下去眼神都清澈了",
+      "onboard_time": 1686493293,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273923,
       "num": 273923,
       "word": "肖春生的梦碎了",
@@ -11633,14 +11713,6 @@
       "onboard_time": 1686301291,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269543,
-      "num": 269543,
-      "word": "薛之谦说我开始找你了梅西",
-      "onboard_time": 1686493533,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 269518,
@@ -12065,6 +12137,14 @@
       "onboard_time": 1685689046,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261140,
+      "num": 261140,
+      "word": "广州南站按摩椅出现大量虫子",
+      "onboard_time": 1686492450,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261094,
@@ -13291,6 +13371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240675,
+      "num": 240675,
+      "word": "黄明昊赢了游戏输了黄景瑜",
+      "onboard_time": 1686495030,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240437,
       "num": 240437,
       "word": "那天他一下救了三个人",
@@ -13825,6 +13913,14 @@
       "onboard_time": 1686480626,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231714,
+      "num": 231714,
+      "word": "8岁男孩拖着拉杆箱离家好心姐姐一路跟随护送",
+      "onboard_time": 1686496410,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231656,
@@ -14561,14 +14657,6 @@
       "onboard_time": 1685804193,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220454,
-      "num": 220454,
-      "word": "一巴掌下去眼神都清澈了",
-      "onboard_time": 1686493293,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 220452,
@@ -15459,6 +15547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209195,
+      "num": 209195,
+      "word": "贾乃亮是懂取名的",
+      "onboard_time": 1686495991,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209102,
       "num": 209102,
       "word": "胡先煦新片亲谁谁睡着",
@@ -15521,6 +15617,14 @@
       "onboard_time": 1686191456,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208176,
+      "num": 208176,
+      "word": "袁姗姗孔雀开屏耳环",
+      "onboard_time": 1686496531,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208157,
@@ -16641,14 +16745,6 @@
       "onboard_time": 1686452188,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195000,
-      "num": 195000,
-      "word": "工作后唯一放松的时刻 逛超市",
-      "onboard_time": 1686493111,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194949,
@@ -18217,14 +18313,6 @@
       "onboard_time": 1686050129,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 179863,
-      "num": 179863,
-      "word": "广州南站按摩椅出现大量虫子",
-      "onboard_time": 1686492450,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179800,
@@ -25017,6 +25105,14 @@
       "onboard_time": 1685910851,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46294,
+      "num": 436984,
+      "word": "出国务工骗局",
+      "onboard_time": 1686495690,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46188,
