@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686468809673,
+  "endTime": 1686471593988,
   "band_list": [
     {
       "raw_hot": 2945978,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2318512,
-      "num": 1296447,
+      "num": 1355892,
       "word": "校园霸凌",
       "onboard_time": 1686458369,
       "rank": 14,
@@ -83,20 +83,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1545697,
+      "num": 1545697,
+      "word": "张雨绮说699我都买不了袜子",
+      "onboard_time": 1686466886,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1451360,
+      "num": 1451360,
+      "word": "蒋依依希望尽快和平解约",
+      "onboard_time": 1686467367,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1423809,
+      "num": 669593,
+      "word": "四川大学",
+      "onboard_time": 1686459988,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1331005,
       "num": 1257633,
       "word": "TFBOYS演唱会被写投诉信",
       "onboard_time": 1686448888,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1320847,
-      "num": 669593,
-      "word": "四川大学",
-      "onboard_time": 1686459988,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1261534,
@@ -307,14 +323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 771025,
-      "num": 771025,
-      "word": "蒋依依希望尽快和平解约",
-      "onboard_time": 1686467367,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 759574,
       "num": 759574,
       "word": "惠英红 我是宝贝小斐的一日站姐",
@@ -329,14 +337,6 @@
       "onboard_time": 1686456869,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 737687,
-      "num": 737687,
-      "word": "张雨绮说699我都买不了袜子",
-      "onboard_time": 1686466886,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 737295,
@@ -355,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639035,
+      "num": 639035,
+      "word": "成龙张艺兴娜扎新片传说预告",
+      "onboard_time": 1686470549,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632052,
       "num": 503199,
       "word": "曼城",
       "onboard_time": 1686431353,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623628,
+      "num": 623628,
+      "word": "北京政法职业学院发布情况通报",
+      "onboard_time": 1686471268,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 621826,
@@ -521,6 +537,14 @@
       "onboard_time": 1686459029,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308136,
+      "num": 308136,
+      "word": "mai 法老",
+      "onboard_time": 1686469887,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 307124,
@@ -699,12 +723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243000,
+      "num": 243000,
+      "word": "孙怡哭了",
+      "onboard_time": 1686469647,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240136,
       "num": 240136,
       "word": "当你想离职但又不好意思说",
       "onboard_time": 1686451167,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238983,
+      "num": 238983,
+      "word": "DK 难评",
+      "onboard_time": 1686470307,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 233961,
@@ -811,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209886,
+      "num": 486900,
+      "word": "员工不接电话浙江老板果断报警",
+      "onboard_time": 1686470427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208597,
       "num": 142334,
       "word": "李荣浩广州演唱会",
@@ -867,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201821,
+      "num": 201821,
+      "word": "周柯宇cos长珩仙君",
+      "onboard_time": 1686469166,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201198,
       "num": 147206,
       "word": "王子奇说和王玉雯真没商量",
@@ -881,6 +937,14 @@
       "onboard_time": 1686406111,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "网友评的四大女演贝",
+      "onboard_time": 1686470849,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196741,
@@ -928,6 +992,14 @@
       "word": "蔡徐坤把姚译添扔水里了",
       "onboard_time": 1686446668,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193218,
+      "num": 193218,
+      "word": "敖子逸cos徐长卿",
+      "onboard_time": 1686470609,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1057,6 +1129,14 @@
       "onboard_time": 1686457890,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173576,
+      "num": 173576,
+      "word": "电影少年时代定档",
+      "onboard_time": 1686468988,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 169837,
@@ -1219,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149842,
+      "num": 138366,
+      "word": "郭俊辰吻到青筋暴起",
+      "onboard_time": 1686471268,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "熊孩子真的不分物种",
@@ -1249,6 +1337,14 @@
       "onboard_time": 1686449248,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142924,
+      "num": 142924,
+      "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+      "onboard_time": 1686470008,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142850,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1686457647,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136500,
+      "num": 134658,
+      "word": "法老热狗爱人舞台眼泪开关",
+      "onboard_time": 1686471028,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 134030,
@@ -1419,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 116472,
+      "num": 116472,
+      "word": "毕业季班主任带全班看蜘蛛侠",
+      "onboard_time": 1686471387,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115125,
       "num": 115125,
       "word": "严浩翔极限挑战今日剧照",
@@ -1507,12 +1619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95450,
+      "num": 1465143,
+      "word": "我国世界自然遗产数量全球第一",
+      "onboard_time": 1686466588,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95079,
       "num": 95079,
       "word": "115元的水电费要了3次",
       "onboard_time": 1686438977,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93051,
+      "num": 93051,
+      "word": "高考后他们向校内985位抗日英烈告别",
+      "onboard_time": 1686471450,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 90537,
@@ -1576,14 +1704,6 @@
       "word": "高校给毕业生送万斤超甜蜜科研成果",
       "onboard_time": 1686466946,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66065,
-      "num": 946775,
-      "word": "我国世界自然遗产数量全球第一",
-      "onboard_time": 1686466588,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1684,6 +1804,9 @@
     },
     {
       "word": "#加大文物和文化遗产保护力度#"
+    },
+    {
+      "word": "#2023相约成都大运会#"
     }
   ]
 }
