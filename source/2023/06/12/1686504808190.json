@@ -1,0 +1,410 @@
+{
+  "runTime": 1686504808190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747843,
+        "num": 1747843,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 749916,
+        "num": 749916,
+        "word": "大叔家属回应被查手机时有地铁车厢照",
+        "onboard_time": 1686500126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10593,
+        "num": 611922,
+        "word": "神舟十号发射成功10周年",
+        "onboard_time": 1686488311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787467,
+        "num": 599982,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584279,
+        "num": 584279,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 308967,
+        "num": 308967,
+        "word": "薛之谦说我开始找你了梅西",
+        "onboard_time": 1686493533,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 446045,
+        "num": 308556,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 307986,
+        "num": 307986,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 295724,
+        "num": 295724,
+        "word": "德约科维奇夺大满贯第23冠",
+        "onboard_time": 1686501325,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 235274,
+        "num": 235274,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906109,
+        "num": 235221,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277102,
+        "num": 234587,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225391,
+        "num": 225391,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210707,
+        "num": 210707,
+        "word": "爸爸带女儿跑步200余天孩子变化明显",
+        "onboard_time": 1686495513,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186278,
+        "num": 186278,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161763,
+        "num": 161763,
+        "word": "迪丽热巴蝴蝶骨好明显",
+        "onboard_time": 1686480089,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157623,
+        "num": 157623,
+        "word": "EXO团综",
+        "onboard_time": 1686491251,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142881,
+        "num": 142881,
+        "word": "胡锡进说应接受曝光大叔女子的道歉",
+        "onboard_time": 1686491610,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115310,
+        "num": 115310,
+        "word": "心动的信号6",
+        "onboard_time": 1686495755,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112769,
+        "num": 112769,
+        "word": "女乘客空中失聪浙江医生出手了",
+        "onboard_time": 1686499888,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267812,
+        "num": 112014,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109294,
+        "num": 109294,
+        "word": "一巴掌下去眼神都清澈了",
+        "onboard_time": 1686493293,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 104927,
+        "word": "light",
+        "onboard_time": 1686502880,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102799,
+        "num": 102799,
+        "word": "EXO粉丝开始卷起来了",
+        "onboard_time": 1686492211,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100788,
+        "num": 100788,
+        "word": "白桃星座",
+        "onboard_time": 1686494252,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88894,
+        "num": 88894,
+        "word": "孟佳王霏霏10年前vs现在合照",
+        "onboard_time": 1686502523,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88625,
+        "num": 88625,
+        "word": "肖春生 我本桀骜少年臣",
+        "onboard_time": 1686496291,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81950,
+        "num": 81950,
+        "word": "白鹿陈都灵戴了同款耳饰",
+        "onboard_time": 1686485365,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76558,
+        "num": 76558,
+        "word": "袁姗姗孔雀开屏耳环",
+        "onboard_time": 1686496531,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76345,
+        "num": 76345,
+        "word": "消防员火场废墟中寻回老人存款",
+        "onboard_time": 1686504619,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75482,
+        "num": 75482,
+        "word": "WBG失误",
+        "onboard_time": 1686494432,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74694,
+        "num": 74694,
+        "word": "许嵩 音乐节",
+        "onboard_time": 1686491791,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73255,
+        "num": 73255,
+        "word": "玲娜贝儿跳刘宇洗衣舞",
+        "onboard_time": 1686497552,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72947,
+        "num": 72947,
+        "word": "迪丽热巴红毯赶蚊子",
+        "onboard_time": 1686484888,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72771,
+        "num": 72771,
+        "word": "张艺兴给新人送二八大杠自行车",
+        "onboard_time": 1686499647,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71691,
+        "num": 71691,
+        "word": "李晨晒奔跑吧泰国大合照",
+        "onboard_time": 1686486330,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70401,
+        "num": 70401,
+        "word": "白敬亭日常记录",
+        "onboard_time": 1686495090,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69875,
+        "num": 69875,
+        "word": "赵露思刘宇宁或将二搭",
+        "onboard_time": 1686495453,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68907,
+        "num": 68907,
+        "word": "孙千cos紫萱",
+        "onboard_time": 1686493892,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66653,
+        "num": 66653,
+        "word": "你一般买多少钱一双的袜子",
+        "onboard_time": 1686492869,
+        "rank": 39,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 62383,
+        "num": 62383,
+        "word": "郑州打雷",
+        "onboard_time": 1686497310,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61698,
+        "num": 61698,
+        "word": "广州南站按摩椅出现大量虫子",
+        "onboard_time": 1686492450,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58013,
+        "num": 58013,
+        "word": "吴京杰森斯坦森外滩吃饺子",
+        "onboard_time": 1686504258,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57825,
+        "num": 57825,
+        "word": "过了下班时间窗口工作人员还在办理业务",
+        "onboard_time": 1686500485,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53877,
+        "num": 53877,
+        "word": "文咏珊4天走5次红毯",
+        "onboard_time": 1686504499,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53827,
+        "num": 53827,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51922,
+        "num": 51922,
+        "word": "金智秀Jennie同框照",
+        "onboard_time": 1686497429,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 51049,
+        "num": 51049,
+        "word": "贺红玲说肖春生甩了她",
+        "onboard_time": 1686488850,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50958,
+        "num": 50958,
+        "word": "TES战胜WBG",
+        "onboard_time": 1686494132,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50912,
+        "num": 50912,
+        "word": "毛不易阅片量",
+        "onboard_time": 1686489751,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}

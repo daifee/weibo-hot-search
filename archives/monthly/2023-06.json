@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686503640654,
+  "endTime": 1686504808190,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -23371,6 +23371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104927,
+      "num": 104927,
+      "word": "light",
+      "onboard_time": 1686502880,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104875,
       "num": 104875,
       "word": "失眠",
@@ -23771,14 +23779,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 93787,
-      "num": 93787,
-      "word": "light",
-      "onboard_time": 1686502880,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 93714,
       "num": 93714,
       "word": "重返未来1999",
@@ -23931,6 +23931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88894,
+      "num": 88894,
+      "word": "孟佳王霏霏10年前vs现在合照",
+      "onboard_time": 1686502523,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88765,
       "num": 88765,
       "word": "导师说我这份报告是亲子鉴定",
@@ -24041,14 +24049,6 @@
       "onboard_time": 1685575822,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86084,
-      "num": 86084,
-      "word": "孟佳王霏霏10年前vs现在合照",
-      "onboard_time": 1686502523,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 86043,
@@ -24313,6 +24313,14 @@
       "onboard_time": 1685635706,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 76345,
+      "num": 76345,
+      "word": "消防员火场废墟中寻回老人存款",
+      "onboard_time": 1686504619,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76054,
@@ -24971,6 +24979,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 58013,
+      "num": 58013,
+      "word": "吴京杰森斯坦森外滩吃饺子",
+      "onboard_time": 1686504258,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57912,
       "num": 1443114,
       "word": "文化和自然遗产冷知识",
@@ -25049,6 +25065,14 @@
       "onboard_time": 1686351738,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53877,
+      "num": 53877,
+      "word": "文咏珊4天走5次红毯",
+      "onboard_time": 1686504499,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53531,
@@ -25867,19 +25891,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 10593,
+      "num": 810244,
+      "word": "神舟十号发射成功10周年",
+      "onboard_time": 1686488311,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9934,
       "num": 18250,
       "word": "当少先队礼和军礼同框",
       "onboard_time": 1685736972,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9722,
-      "num": 810244,
-      "word": "神舟十号发射成功10周年",
-      "onboard_time": 1686488311,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
