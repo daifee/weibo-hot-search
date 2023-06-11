@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686490414095,
+  "endTime": 1686492850844,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4363,6 +4363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 791845,
+      "num": 791845,
+      "word": "EXO团综",
+      "onboard_time": 1686491251,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 790406,
       "num": 421812,
       "word": "长期喝粥会让胃越来越脆弱",
@@ -6235,6 +6243,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 512837,
+      "num": 512837,
+      "word": "李沁哭戏主动和导演说再来一遍",
+      "onboard_time": 1686488550,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512045,
       "num": 512045,
       "word": "奔跑吧下期预告有白鹿张凌赫",
@@ -6755,6 +6771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470025,
+      "num": 470025,
+      "word": "毛不易阅片量",
+      "onboard_time": 1686489751,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469400,
       "num": 469400,
       "word": "辽宁阜新疑似出现龙卷风",
@@ -7073,6 +7097,14 @@
       "onboard_time": 1685932527,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 440285,
+      "num": 440285,
+      "word": "李宇春舞台",
+      "onboard_time": 1686492270,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 440239,
@@ -7753,6 +7785,14 @@
       "onboard_time": 1686122134,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 397135,
+      "num": 397135,
+      "word": "胡锡进说应接受曝光大叔女子的道歉",
+      "onboard_time": 1686491610,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396671,
@@ -8539,14 +8579,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 358089,
-      "num": 358089,
-      "word": "李沁哭戏主动和导演说再来一遍",
-      "onboard_time": 1686488550,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357939,
       "num": 357939,
       "word": "山东历史 难",
@@ -8737,6 +8769,14 @@
       "onboard_time": 1685888131,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349349,
+      "num": 349349,
+      "word": "Weiwei 886",
+      "onboard_time": 1686492031,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 348960,
@@ -9451,6 +9491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325631,
+      "num": 325631,
+      "word": "梦中的那片海收视破2",
+      "onboard_time": 1686490592,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325520,
       "num": 325520,
       "word": "查理苏",
@@ -9739,20 +9787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313755,
+      "num": 313755,
+      "word": "贺红玲说肖春生甩了她",
+      "onboard_time": 1686488850,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313754,
       "num": 313754,
       "word": "外卖员摔伤同行不顾订单超时伸援手",
       "onboard_time": 1685684191,
       "rank": 15,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 313532,
-      "num": 313532,
-      "word": "贺红玲说肖春生甩了她",
-      "onboard_time": 1686488850,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 313465,
@@ -9833,6 +9881,14 @@
       "onboard_time": 1685947106,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311426,
+      "num": 311426,
+      "word": "许嵩 音乐节",
+      "onboard_time": 1686491791,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 311281,
@@ -10025,6 +10081,14 @@
       "onboard_time": 1686380248,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305293,
+      "num": 305293,
+      "word": "李希侃祝人大学子高考后有个好成绩",
+      "onboard_time": 1686490771,
+      "rank": 27,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 305155,
@@ -11105,6 +11169,14 @@
       "onboard_time": 1686474029,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278847,
+      "num": 254940,
+      "word": "肖春生告白成功",
+      "onboard_time": 1686491010,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 278673,
@@ -13179,6 +13251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240542,
+      "num": 240542,
+      "word": "EXO粉丝开始卷起来了",
+      "onboard_time": 1686492211,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240437,
       "num": 240437,
       "word": "那天他一下救了三个人",
@@ -15083,6 +15163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211783,
+      "num": 211783,
+      "word": "喜欢在车水马龙的地方寻求独处",
+      "onboard_time": 1686492570,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 211772,
       "num": 211772,
       "word": "我那年的高考口号",
@@ -15744,14 +15832,6 @@
       "word": "十个勤天",
       "onboard_time": 1685687906,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203627,
-      "num": 203627,
-      "word": "毛不易阅片量",
-      "onboard_time": 1686489751,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -16585,6 +16665,14 @@
       "onboard_time": 1686143853,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 194027,
+      "num": 194027,
+      "word": "勒芒",
+      "onboard_time": 1686492211,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 193780,
@@ -22315,6 +22403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118682,
+      "num": 1305854,
+      "word": "村超现场有多燃",
+      "onboard_time": 1686488550,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118594,
       "num": 118594,
       "word": "重启天涯直播7天7夜仅带货36万",
@@ -22857,14 +22953,6 @@
       "onboard_time": 1685815459,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108973,
-      "num": 1305854,
-      "word": "村超现场有多燃",
-      "onboard_time": 1686488550,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108893,
@@ -25497,6 +25585,14 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7045,
+      "num": 482551,
+      "word": "小学拍毕业照请护学交警坐c位",
+      "onboard_time": 1686492690,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5391,
