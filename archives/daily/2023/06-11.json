@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686496553419,
+  "endTime": 1686497616707,
   "band_list": [
     {
       "raw_hot": 9118597,
@@ -539,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 629278,
+      "num": 629278,
+      "word": "薛之谦说我开始找你了梅西",
+      "onboard_time": 1686493533,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 621826,
       "num": 621826,
       "word": "说个故事清朝灭亡才111年",
@@ -585,14 +593,6 @@
       "onboard_time": 1686409413,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567000,
-      "num": 567000,
-      "word": "薛之谦说我开始找你了梅西",
-      "onboard_time": 1686493533,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 555114,
@@ -723,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433881,
+      "num": 433881,
+      "word": "心动的信号6",
+      "onboard_time": 1686495755,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419810,
       "num": 364702,
       "word": "EXO粉丝开始卷起来了",
@@ -737,6 +745,14 @@
       "onboard_time": 1686486992,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 409598,
+      "num": 409598,
+      "word": "赵露思刘宇宁或将二搭",
+      "onboard_time": 1686495453,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 406139,
@@ -763,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398296,
+      "num": 398296,
+      "word": "爸爸带女儿跑步200余天孩子变化明显",
+      "onboard_time": 1686495513,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396109,
       "num": 396109,
       "word": "迪奥",
@@ -777,6 +801,14 @@
       "onboard_time": 1686442885,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368492,
+      "num": 368492,
+      "word": "肖春生 我本桀骜少年臣",
+      "onboard_time": 1686496291,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 367161,
@@ -827,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347713,
-      "num": 347713,
-      "word": "赵露思刘宇宁或将二搭",
-      "onboard_time": 1686495453,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 346252,
       "num": 346252,
       "word": "法网女双",
@@ -843,12 +867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345233,
-      "num": 345233,
-      "word": "心动的信号6",
-      "onboard_time": 1686495755,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 345753,
+      "num": 345753,
+      "word": "白敬亭日常记录",
+      "onboard_time": 1686495090,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 339452,
@@ -857,14 +881,6 @@
       "onboard_time": 1686404191,
       "rank": 16,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 337798,
-      "num": 337798,
-      "word": "爸爸带女儿跑步200余天孩子变化明显",
-      "onboard_time": 1686495513,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329951,
@@ -939,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306508,
-      "num": 306508,
-      "word": "白敬亭日常记录",
-      "onboard_time": 1686495090,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306499,
       "num": 306499,
       "word": "工作后唯一放松的时刻 逛超市",
@@ -1011,14 +1019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294134,
-      "num": 294134,
-      "word": "肖春生 我本桀骜少年臣",
-      "onboard_time": 1686496291,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294094,
       "num": 294094,
       "word": "鹿晗新脏辫造型",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1686452848,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278545,
+      "num": 278545,
+      "word": "李健现场",
+      "onboard_time": 1686495811,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 278256,
@@ -1299,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234852,
+      "num": 234852,
+      "word": "袁姗姗孔雀开屏耳环",
+      "onboard_time": 1686496531,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 233961,
       "num": 233961,
       "word": "盛宇詹雯婷诀爱太绝了",
@@ -1451,6 +1467,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 211551,
+      "num": 211551,
+      "word": "郑州打雷",
+      "onboard_time": 1686497310,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210772,
       "num": 210772,
       "word": "导演带王一博去日本采风",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1686412529,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208176,
-      "num": 208176,
-      "word": "袁姗姗孔雀开屏耳环",
-      "onboard_time": 1686496531,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208157,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1686406111,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196775,
+      "num": 196775,
+      "word": "李健慈溪时光classic演唱会",
+      "onboard_time": 1686497129,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 196741,
@@ -1795,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182935,
+      "num": 182935,
+      "word": "金智秀Jennie同框照",
+      "onboard_time": 1686497429,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 180963,
       "num": 180963,
       "word": "朱一龙主打一个酷得严谨",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1686472346,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179442,
+      "num": 179442,
+      "word": "玲娜贝儿跳刘宇洗衣舞",
+      "onboard_time": 1686497552,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 176865,
@@ -2523,6 +2563,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 90266,
+      "num": 436984,
+      "word": "出国务工骗局",
+      "onboard_time": 1686495690,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84488,
       "num": 84488,
       "word": "程潇一晚上哭了4次",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1686438617,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46294,
-      "num": 436984,
-      "word": "出国务工骗局",
-      "onboard_time": 1686495690,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45265,

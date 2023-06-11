@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686496553419,
+  "endTime": 1686497616707,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3699,6 +3699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 629278,
+      "num": 629278,
+      "word": "薛之谦说我开始找你了梅西",
+      "onboard_time": 1686493533,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 627807,
       "num": 627807,
       "word": "菜英俊 再次向当事人道歉",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567000,
-      "num": 567000,
-      "word": "薛之谦说我开始找你了梅西",
-      "onboard_time": 1686493533,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 562530,
@@ -4811,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433881,
+      "num": 433881,
+      "word": "心动的信号6",
+      "onboard_time": 1686495755,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433819,
       "num": 433819,
       "word": "肖春生戴婚戒",
@@ -5035,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409598,
+      "num": 409598,
+      "word": "赵露思刘宇宁或将二搭",
+      "onboard_time": 1686495453,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409281,
       "num": 409281,
       "word": "儿子高考前告别重病妈妈医生善意劝导",
@@ -5185,6 +5201,14 @@
       "onboard_time": 1686491791,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 398296,
+      "num": 398296,
+      "word": "爸爸带女儿跑步200余天孩子变化明显",
+      "onboard_time": 1686495513,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397660,
@@ -5449,6 +5473,14 @@
       "onboard_time": 1685926410,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368492,
+      "num": 368492,
+      "word": "肖春生 我本桀骜少年臣",
+      "onboard_time": 1686496291,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 368279,
@@ -5843,14 +5875,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 347713,
-      "num": 347713,
-      "word": "赵露思刘宇宁或将二搭",
-      "onboard_time": 1686495453,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347348,
       "num": 347348,
       "word": "密室大逃脱",
@@ -5883,20 +5907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345753,
+      "num": 345753,
+      "word": "白敬亭日常记录",
+      "onboard_time": 1686495090,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
       "onboard_time": 1686023367,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 345233,
-      "num": 345233,
-      "word": "心动的信号6",
-      "onboard_time": 1686495755,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 345003,
@@ -6017,14 +6041,6 @@
       "onboard_time": 1686401850,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337798,
-      "num": 337798,
-      "word": "爸爸带女儿跑步200余天孩子变化明显",
-      "onboard_time": 1686495513,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336879,
@@ -6523,14 +6539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306508,
-      "num": 306508,
-      "word": "白敬亭日常记录",
-      "onboard_time": 1686495090,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306499,
       "num": 306499,
       "word": "工作后唯一放松的时刻 逛超市",
@@ -6817,14 +6825,6 @@
       "onboard_time": 1686305489,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 294134,
-      "num": 294134,
-      "word": "肖春生 我本桀骜少年臣",
-      "onboard_time": 1686496291,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 294094,
@@ -7233,6 +7233,14 @@
       "onboard_time": 1686452848,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278545,
+      "num": 278545,
+      "word": "李健现场",
+      "onboard_time": 1686495811,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 278256,
@@ -8739,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234852,
+      "num": 234852,
+      "word": "袁姗姗孔雀开屏耳环",
+      "onboard_time": 1686496531,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 234307,
       "num": 234307,
       "word": "刘耀文读秒好准",
@@ -9803,6 +9819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 211551,
+      "num": 211551,
+      "word": "郑州打雷",
+      "onboard_time": 1686497310,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211511,
       "num": 211511,
       "word": "美国队长4改片名",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1686191456,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208176,
-      "num": 208176,
-      "word": "袁姗姗孔雀开屏耳环",
-      "onboard_time": 1686496531,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208157,
@@ -10617,6 +10633,14 @@
       "onboard_time": 1686278669,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196775,
+      "num": 196775,
+      "word": "李健慈溪时光classic演唱会",
+      "onboard_time": 1686497129,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 196741,
@@ -11635,6 +11659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182935,
+      "num": 182935,
+      "word": "金智秀Jennie同框照",
+      "onboard_time": 1686497429,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 182829,
       "num": 182829,
       "word": "论文胶装完发现多了个冒号",
@@ -11801,6 +11833,14 @@
       "onboard_time": 1686028350,
       "rank": 42,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 179442,
+      "num": 179442,
+      "word": "玲娜贝儿跳刘宇洗衣舞",
+      "onboard_time": 1686497552,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 179428,
@@ -15339,6 +15379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90266,
+      "num": 436984,
+      "word": "出国务工骗局",
+      "onboard_time": 1686495690,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88765,
       "num": 88765,
       "word": "导师说我这份报告是亲子鉴定",
@@ -16041,14 +16089,6 @@
       "onboard_time": 1685910851,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46294,
-      "num": 436984,
-      "word": "出国务工骗局",
-      "onboard_time": 1686495690,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46188,
