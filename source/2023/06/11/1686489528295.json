@@ -1,0 +1,410 @@
+{
+  "runTime": 1686489528295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8207344,
+        "num": 8207344,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1471535,
+        "num": 1471535,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 68989,
+        "num": 1027589,
+        "word": "村超现场有多燃",
+        "onboard_time": 1686488550,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018987,
+        "num": 1018987,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810508,
+        "num": 810508,
+        "word": "迪丽热巴蝴蝶骨好明显",
+        "onboard_time": 1686480089,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 619952,
+        "num": 619952,
+        "word": "李晨晒奔跑吧泰国大合照",
+        "onboard_time": 1686486330,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603819,
+        "num": 603819,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 599667,
+        "num": 599667,
+        "word": "迪丽热巴红毯赶蚊子",
+        "onboard_time": 1686484888,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 563538,
+        "num": 563538,
+        "word": "白鹿陈都灵戴了同款耳饰",
+        "onboard_time": 1686485365,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 472826,
+        "num": 472826,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2243506,
+        "num": 472787,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001787,
+        "num": 470867,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 614993,
+        "num": 470796,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466865,
+        "num": 466865,
+        "word": "宁艺卓开通微博",
+        "onboard_time": 1686482188,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26762,
+        "num": 452394,
+        "word": "90花微博电影之夜妆造",
+        "onboard_time": 1686488430,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 444683,
+        "num": 444683,
+        "word": "女子220斤家人为激励减肥奖6万",
+        "onboard_time": 1686481766,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414977,
+        "num": 414977,
+        "word": "王玉雯红裙造型",
+        "onboard_time": 1686486992,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389761,
+        "num": 389761,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376035,
+        "num": 376035,
+        "word": "员工不接电话浙江老板果断报警",
+        "onboard_time": 1686470427,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324767,
+        "num": 324767,
+        "word": "大叔和儿子称给涉事女子一次机会",
+        "onboard_time": 1686488192,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332235,
+        "num": 323401,
+        "word": "李沁哭戏主动和导演说再来一遍",
+        "onboard_time": 1686488550,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304429,
+        "num": 304429,
+        "word": "顾客自助买凉皮老板快乐收麦子",
+        "onboard_time": 1686484826,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297284,
+        "num": 297284,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291487,
+        "num": 291487,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270639,
+        "num": 270639,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267662,
+        "num": 267662,
+        "word": "张雨绮碎钻文学",
+        "onboard_time": 1686484288,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264837,
+        "num": 264837,
+        "word": "肖战是懂搞笑解说的",
+        "onboard_time": 1686484466,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248950,
+        "num": 248950,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 245912,
+        "num": 245912,
+        "word": "没看出来徐志胜cos的是澹台烬",
+        "onboard_time": 1686487531,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242577,
+        "num": 242577,
+        "word": "贺红玲说肖春生甩了她",
+        "onboard_time": 1686488850,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239409,
+        "num": 239409,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238922,
+        "num": 238922,
+        "word": "长大以后才开始被爱",
+        "onboard_time": 1686483928,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237921,
+        "num": 237921,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 32,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 214171,
+        "num": 214171,
+        "word": "王楚钦",
+        "onboard_time": 1686481106,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201081,
+        "num": 201081,
+        "word": "汉阳被撞学生肇事者父母为厅官系谣言",
+        "onboard_time": 1686484108,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193081,
+        "num": 193081,
+        "word": "王欣瑜夺法网女双冠军",
+        "onboard_time": 1686485850,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189954,
+        "num": 189954,
+        "word": "妈你哭什么呢我看见你高兴",
+        "onboard_time": 1686482426,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185971,
+        "num": 185971,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175012,
+        "num": 175012,
+        "word": "TES对战WBG",
+        "onboard_time": 1686487951,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173640,
+        "num": 173640,
+        "word": "张杰说山东下次见",
+        "onboard_time": 1686489510,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167981,
+        "num": 167981,
+        "word": "迪奥",
+        "onboard_time": 1686481527,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167149,
+        "num": 167149,
+        "word": "宋亚轩对刘耀文说我想吃鱼了老刘",
+        "onboard_time": 1686487771,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165554,
+        "num": 165554,
+        "word": "梦海里的长城竟然是特效",
+        "onboard_time": 1686484826,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163755,
+        "num": 163755,
+        "word": "华晨宇 抢票",
+        "onboard_time": 1686485610,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152568,
+        "num": 152568,
+        "word": "余景天衢州鹿鸣音乐节",
+        "onboard_time": 1686485669,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151086,
+        "num": 151086,
+        "word": "全世界的追星人都一样",
+        "onboard_time": 1686477088,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 150376,
+        "num": 150376,
+        "word": "公诉",
+        "onboard_time": 1686489331,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142512,
+        "num": 142512,
+        "word": "南农偶遇蒲熠星",
+        "onboard_time": 1686487771,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140514,
+        "num": 140514,
+        "word": "无畏说不退却不放弃",
+        "onboard_time": 1686489510,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137671,
+        "num": 137671,
+        "word": "王一博黑西装花领带",
+        "onboard_time": 1686486509,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}

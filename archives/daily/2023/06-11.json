@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686487638457,
+  "endTime": 1686489528295,
   "band_list": [
     {
       "raw_hot": 9118597,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1018987,
+      "num": 1018987,
+      "word": "Jennie身体状况",
+      "onboard_time": 1686486811,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017188,
       "num": 1017188,
       "word": "日本突然声称核污水危害健康",
@@ -499,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 619952,
+      "num": 619952,
+      "word": "李晨晒奔跑吧泰国大合照",
+      "onboard_time": 1686486330,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619931,
       "num": 619931,
       "word": "大半个娱乐圈都在江苏吧",
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472826,
+      "num": 472826,
+      "word": "梅西被迫宅在酒店",
+      "onboard_time": 1686485489,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463692,
       "num": 463692,
       "word": "猴痘",
@@ -619,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414977,
+      "num": 414977,
+      "word": "王玉雯红裙造型",
+      "onboard_time": 1686486992,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 400172,
       "num": 400172,
       "word": "陶昕然说演员想漂亮就不要去演戏",
@@ -633,14 +665,6 @@
       "onboard_time": 1686481527,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 388975,
-      "num": 388975,
-      "word": "Jennie身体状况",
-      "onboard_time": 1686486811,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 374279,
@@ -691,6 +715,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 332235,
+      "num": 323401,
+      "word": "李沁哭戏主动和导演说再来一遍",
+      "onboard_time": 1686488550,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329951,
       "num": 329951,
       "word": "蔡徐坤王鹤棣7天涨粉",
@@ -699,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327400,
-      "num": 243154,
-      "word": "李晨晒奔跑吧泰国大合照",
-      "onboard_time": 1686486330,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 324767,
+      "num": 324767,
+      "word": "大叔和儿子称给涉事女子一次机会",
+      "onboard_time": 1686488192,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313953,
@@ -761,6 +793,14 @@
       "onboard_time": 1686456389,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304429,
+      "num": 505377,
+      "word": "顾客自助买凉皮老板快乐收麦子",
+      "onboard_time": 1686484826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299696,
@@ -859,12 +899,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267662,
+      "num": 267662,
+      "word": "张雨绮碎钻文学",
+      "onboard_time": 1686484288,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265961,
       "num": 265961,
       "word": "Minnie录制奔跑吧造型",
       "onboard_time": 1686414028,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264837,
+      "num": 264837,
+      "word": "肖战是懂搞笑解说的",
+      "onboard_time": 1686484466,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 257728,
@@ -947,20 +1003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249393,
-      "num": 249393,
-      "word": "肖战是懂搞笑解说的",
-      "onboard_time": 1686484466,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247237,
       "num": 247237,
       "word": "男朋友紧张时会摸出学生卡壮胆",
       "onboard_time": 1686474750,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 245912,
+      "num": 245912,
+      "word": "没看出来徐志胜cos的是澹台烬",
+      "onboard_time": 1686487531,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 243226,
@@ -979,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242577,
+      "num": 242577,
+      "word": "贺红玲说肖春生甩了她",
+      "onboard_time": 1686488850,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240136,
       "num": 240136,
       "word": "当你想离职但又不好意思说",
@@ -987,12 +1051,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238477,
-      "num": 238477,
-      "word": "张雨绮碎钻文学",
-      "onboard_time": 1686484288,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 238922,
+      "num": 238922,
+      "word": "长大以后才开始被爱",
+      "onboard_time": 1686483928,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 233961,
@@ -1041,14 +1105,6 @@
       "onboard_time": 1686484108,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223060,
-      "num": 223060,
-      "word": "王玉雯红裙造型",
-      "onboard_time": 1686486992,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221998,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1686412529,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 208410,
-      "num": 208410,
-      "word": "梅西被迫宅在酒店",
-      "onboard_time": 1686485489,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 208157,
@@ -1387,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187691,
-      "num": 505377,
-      "word": "顾客自助买凉皮老板快乐收麦子",
-      "onboard_time": 1686484826,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186563,
       "num": 186563,
       "word": "邪剑仙根本吸不完",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1686466527,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183674,
-      "num": 183674,
-      "word": "长大以后才开始被爱",
-      "onboard_time": 1686483928,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 183408,
@@ -1499,6 +1531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175012,
+      "num": 175012,
+      "word": "TES对战WBG",
+      "onboard_time": 1686487951,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 173640,
+      "num": 173640,
+      "word": "张杰说山东下次见",
+      "onboard_time": 1686489510,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173576,
       "num": 173576,
       "word": "电影少年时代定档",
@@ -1547,6 +1595,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 167149,
+      "num": 167149,
+      "word": "宋亚轩对刘耀文说我想吃鱼了老刘",
+      "onboard_time": 1686487771,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167000,
       "num": 167000,
       "word": "彭冠英睡觉姿势",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1686440662,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165554,
+      "num": 165554,
+      "word": "梦海里的长城竟然是特效",
+      "onboard_time": 1686484826,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 164481,
@@ -1707,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150376,
+      "num": 150376,
+      "word": "公诉",
+      "onboard_time": 1686489331,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "熊孩子真的不分物种",
@@ -1771,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142512,
+      "num": 142512,
+      "word": "南农偶遇蒲熠星",
+      "onboard_time": 1686487771,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142293,
       "num": 142293,
       "word": "6月急需一个广西的朋友",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1686456089,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140514,
+      "num": 140514,
+      "word": "无畏说不退却不放弃",
+      "onboard_time": 1686489510,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139695,
@@ -1873,14 +1961,6 @@
       "onboard_time": 1686373827,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133752,
-      "num": 142633,
-      "word": "梦海里的长城竟然是特效",
-      "onboard_time": 1686484826,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 132814,
@@ -2033,14 +2113,6 @@
       "onboard_time": 1686464968,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 116941,
-      "num": 116941,
-      "word": "没看出来徐志胜cos的是澹台烬",
-      "onboard_time": 1686487531,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115125,
@@ -2211,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68989,
+      "num": 1027589,
+      "word": "村超现场有多燃",
+      "onboard_time": 1686488550,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66883,
       "num": 625932,
       "word": "女孩高考后送娃娃给护考交警",
@@ -2328,6 +2408,14 @@
       "word": "蜘蛛侠",
       "onboard_time": 1686426493,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26762,
+      "num": 452394,
+      "word": "90花微博电影之夜妆造",
+      "onboard_time": 1686488430,
+      "rank": 14,
       "category": "影视"
     },
     {
