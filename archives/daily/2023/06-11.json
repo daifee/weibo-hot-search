@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686465245564,
+  "endTime": 1686467691194,
   "band_list": [
     {
       "raw_hot": 2945978,
@@ -19,6 +19,14 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 2239576,
+      "num": 1296447,
+      "word": "校园霸凌",
+      "onboard_time": 1686458369,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2142412,
       "num": 2142412,
       "word": "拍婚纱照发朋友圈被同事教育",
@@ -33,14 +41,6 @@
       "onboard_time": 1686408332,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2028250,
-      "num": 1296447,
-      "word": "校园霸凌",
-      "onboard_time": 1686458369,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1859611,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1320847,
-      "num": 638187,
+      "num": 669593,
       "word": "四川大学",
       "onboard_time": 1686459988,
       "rank": 36,
@@ -129,6 +129,14 @@
       "onboard_time": 1686411031,
       "rank": 3,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1127422,
+      "num": 1127422,
+      "word": "央视网评演员变演贝",
+      "onboard_time": 1686460888,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1105717,
@@ -219,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 933372,
+      "num": 933372,
+      "word": "都给马思纯p成啥样了",
+      "onboard_time": 1686462028,
+      "rank": 15,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 916737,
       "num": 844835,
       "word": "牵手门带火的裙子已退货2000件",
       "onboard_time": 1686408152,
       "rank": 5,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 897855,
-      "num": 897855,
-      "word": "央视网评演员变演贝",
-      "onboard_time": 1686460888,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 895839,
@@ -257,6 +265,14 @@
       "onboard_time": 1686404010,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 804946,
+      "num": 804946,
+      "word": "孟子义 好过得刚",
+      "onboard_time": 1686463586,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 802981,
@@ -313,14 +329,6 @@
       "onboard_time": 1686438920,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690501,
-      "num": 690501,
-      "word": "都给马思纯p成啥样了",
-      "onboard_time": 1686462028,
-      "rank": 15,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 673363,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466631,
+      "num": 466631,
+      "word": "林志玲谈退出演艺圈",
+      "onboard_time": 1686462569,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463692,
       "num": 463692,
       "word": "猴痘",
@@ -409,14 +425,6 @@
       "onboard_time": 1686390688,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 447759,
-      "num": 447759,
-      "word": "林志玲谈退出演艺圈",
-      "onboard_time": 1686462569,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 444993,
@@ -465,14 +473,6 @@
       "onboard_time": 1686389967,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 364919,
-      "num": 364919,
-      "word": "孟子义 好过得刚",
-      "onboard_time": 1686463586,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 350944,
@@ -667,19 +667,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243226,
+      "num": 243226,
+      "word": "当我怀疑酒店有针孔摄像头",
+      "onboard_time": 1686462628,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 241968,
+      "num": 241968,
+      "word": "张雨绮说699我都买不了袜子",
+      "onboard_time": 1686466886,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240136,
       "num": 240136,
       "word": "当你想离职但又不好意思说",
       "onboard_time": 1686451167,
       "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 238092,
-      "num": 238092,
-      "word": "当我怀疑酒店有针孔摄像头",
-      "onboard_time": 1686462628,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -745,6 +753,14 @@
       "onboard_time": 1686457529,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218161,
+      "num": 218161,
+      "word": "杨幂收到工作室送的花",
+      "onboard_time": 1686465929,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 215189,
@@ -825,6 +841,14 @@
       "onboard_time": 1686411809,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201721,
+      "num": 201721,
+      "word": "张鑫与熊猫中心领导无亲属关系",
+      "onboard_time": 1686466346,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201198,
@@ -955,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184039,
+      "num": 184039,
+      "word": "严浩翔转角遇到爱",
+      "onboard_time": 1686466527,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183408,
       "num": 138294,
       "word": "狐妖小红娘",
@@ -971,20 +1003,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183186,
+      "num": 180847,
+      "word": "乔欣看到武大靖被抓释然了",
+      "onboard_time": 1686461668,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180963,
       "num": 180963,
       "word": "朱一龙主打一个酷得严谨",
       "onboard_time": 1686447448,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180847,
-      "num": 180847,
-      "word": "乔欣看到武大靖被抓释然了",
-      "onboard_time": 1686461668,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 180605,
@@ -1025,6 +1057,22 @@
       "onboard_time": 1686448048,
       "rank": 45,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 167000,
+      "num": 167000,
+      "word": "彭冠英睡觉姿势",
+      "onboard_time": 1686467249,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166927,
+      "num": 166927,
+      "word": "蒋依依希望尽快和平解约",
+      "onboard_time": 1686467367,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 166284,
@@ -1163,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148119,
+      "num": 136525,
+      "word": "林志玲希望大家记得的是黑发的她",
+      "onboard_time": 1686467067,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147338,
       "num": 147338,
       "word": "我那么大一个马丽呢",
@@ -1219,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138794,
+      "num": 136078,
+      "word": "王一博人鱼计划夏天开机",
+      "onboard_time": 1686465388,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137155,
       "num": 137155,
       "word": "EDG官宣签约Uzi",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1686457647,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136075,
+      "num": 136075,
+      "word": "高校回应男子仗义直言遭同学怒怼",
+      "onboard_time": 1686467669,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 134030,
@@ -1361,6 +1433,14 @@
       "onboard_time": 1686417203,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104071,
+      "num": 128428,
+      "word": "中国队伍亮相东京大师赛",
+      "onboard_time": 1686467426,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 101802,
@@ -1515,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49571,
+      "num": 935572,
+      "word": "我国世界自然遗产数量全球第一",
+      "onboard_time": 1686466588,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45265,
       "num": 69395,
       "word": "厂长回来二级抓下啊",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1686314668,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34117,
+      "num": 454857,
+      "word": "高校给毕业生送万斤超甜蜜科研成果",
+      "onboard_time": 1686466946,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33536,

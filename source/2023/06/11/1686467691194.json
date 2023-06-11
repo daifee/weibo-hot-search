@@ -1,0 +1,410 @@
+{
+  "runTime": 1686467691194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1898162,
+        "num": 1898162,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127422,
+        "num": 1127422,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 49571,
+        "num": 935572,
+        "word": "我国世界自然遗产数量全球第一",
+        "onboard_time": 1686466588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2239576,
+        "num": 935169,
+        "word": "校园霸凌",
+        "onboard_time": 1686458369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933372,
+        "num": 933372,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804946,
+        "num": 804946,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766950,
+        "num": 766950,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 6,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 766889,
+        "num": 766889,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727676,
+        "num": 727676,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 681149,
+        "num": 681149,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058803,
+        "num": 669593,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639800,
+        "num": 639800,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622419,
+        "num": 622419,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 466631,
+        "num": 466631,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34117,
+        "num": 454857,
+        "word": "高校给毕业生送万斤超甜蜜科研成果",
+        "onboard_time": 1686466946,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453496,
+        "num": 453496,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336549,
+        "num": 336549,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311577,
+        "num": 311577,
+        "word": "TFBOYS演唱会被写投诉信",
+        "onboard_time": 1686448888,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311219,
+        "num": 311219,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279027,
+        "num": 279027,
+        "word": "老板谈上4休3工作制1个月后效果",
+        "onboard_time": 1686446608,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447361,
+        "num": 277683,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264313,
+        "num": 264313,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263583,
+        "num": 263583,
+        "word": "法老 幼稚园杀手",
+        "onboard_time": 1686440722,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255895,
+        "num": 255895,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248946,
+        "num": 248946,
+        "word": "花戎婚礼变葬礼",
+        "onboard_time": 1686445106,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243226,
+        "num": 243226,
+        "word": "当我怀疑酒店有针孔摄像头",
+        "onboard_time": 1686462628,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241968,
+        "num": 241968,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218268,
+        "num": 218268,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218161,
+        "num": 218161,
+        "word": "杨幂收到工作室送的花",
+        "onboard_time": 1686465929,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201721,
+        "num": 201721,
+        "word": "张鑫与熊猫中心领导无亲属关系",
+        "onboard_time": 1686466346,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900625,
+        "num": 198416,
+        "word": "北京政法职业学院",
+        "onboard_time": 1686456329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194315,
+        "num": 194315,
+        "word": "盛宇詹雯婷诀爱太绝了",
+        "onboard_time": 1686462449,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184039,
+        "num": 184039,
+        "word": "严浩翔转角遇到爱",
+        "onboard_time": 1686466527,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167000,
+        "num": 167000,
+        "word": "彭冠英睡觉姿势",
+        "onboard_time": 1686467249,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183186,
+        "num": 166976,
+        "word": "乔欣看到武大靖被抓释然了",
+        "onboard_time": 1686461668,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166927,
+        "num": 166927,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156872,
+        "num": 156872,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153903,
+        "num": 153903,
+        "word": "拍婚纱照发朋友圈被同事教育",
+        "onboard_time": 1686442104,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141456,
+        "num": 141456,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 38,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 136662,
+        "num": 136662,
+        "word": "上海地铁一女子自称市长孙女辱骂他人",
+        "onboard_time": 1686458488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155579,
+        "num": 136637,
+        "word": "杨幂紫色系穿搭",
+        "onboard_time": 1686460708,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 136525,
+        "word": "林志玲希望大家记得的是黑发的她",
+        "onboard_time": 1686467067,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144168,
+        "num": 136330,
+        "word": "张凌赫工作室宣布停更一周",
+        "onboard_time": 1686450208,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141548,
+        "num": 136193,
+        "word": "sana好辣",
+        "onboard_time": 1686461248,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138794,
+        "num": 136078,
+        "word": "王一博人鱼计划夏天开机",
+        "onboard_time": 1686465388,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136075,
+        "num": 136075,
+        "word": "高校回应男子仗义直言遭同学怒怼",
+        "onboard_time": 1686467669,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132996,
+        "num": 132996,
+        "word": "法老唱亲密爱人",
+        "onboard_time": 1686461968,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127284,
+        "num": 129834,
+        "word": "梅西北京",
+        "onboard_time": 1686452848,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104071,
+        "num": 128428,
+        "word": "中国队伍亮相东京大师赛",
+        "onboard_time": 1686467426,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78289,
+        "num": 128034,
+        "word": "逍遥散人 重庆不辣的美食",
+        "onboard_time": 1686458189,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护文化遗产赓续文明血脉#"
+    }
+  }
+}
