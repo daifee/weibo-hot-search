@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686500440484,
+  "endTime": 1686501345979,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -9,6 +9,14 @@
       "onboard_time": 1686483687,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2443964,
+      "num": 2443964,
+      "word": "曝光大叔女子哭诉学校准备开除她",
+      "onboard_time": 1686497909,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1953799,
@@ -27,16 +35,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1200088,
-      "num": 1200088,
-      "word": "曝光大叔女子哭诉学校准备开除她",
-      "onboard_time": 1686497909,
-      "rank": 1,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 793697,
-      "num": 793697,
+      "raw_hot": 817302,
+      "num": 817302,
       "word": "张雨绮说699我都买不了袜子",
       "onboard_time": 1686466886,
       "rank": 4,
@@ -91,6 +91,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 431132,
+      "num": 384304,
+      "word": "四川大学",
+      "onboard_time": 1686459988,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426668,
+      "num": 379527,
+      "word": "大叔家属回应被查手机时有地铁车厢照",
+      "onboard_time": 1686500126,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411467,
       "num": 411467,
       "word": "梅西见面会取消",
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345913,
-      "num": 345913,
-      "word": "四川大学",
-      "onboard_time": 1686459988,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341771,
       "num": 341771,
       "word": "白桃星座",
@@ -155,19 +163,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304295,
+      "num": 276913,
+      "word": "广州南站按摩椅出现大量虫子",
+      "onboard_time": 1686492450,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294481,
       "num": 294481,
       "word": "胡锡进说应接受曝光大叔女子的道歉",
       "onboard_time": 1686491610,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276913,
-      "num": 276913,
-      "word": "广州南站按摩椅出现大量虫子",
-      "onboard_time": 1686492450,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -185,6 +193,14 @@
       "onboard_time": 1686496291,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220450,
+      "num": 220450,
+      "word": "高邮",
+      "onboard_time": 1686499948,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216481,
@@ -259,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191552,
+      "num": 191552,
+      "word": "法网决赛",
+      "onboard_time": 1686490292,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186711,
       "num": 186711,
       "word": "金智秀Jennie同框照",
@@ -291,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159169,
+      "num": 159169,
+      "word": "张艺兴给新人送二八大杠自行车",
+      "onboard_time": 1686499647,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "李健现场",
@@ -299,11 +331,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152918,
-      "num": 152918,
-      "word": "大叔家属回应被查手机时有地铁车厢照",
-      "onboard_time": 1686500126,
-      "rank": 38,
+      "raw_hot": 152565,
+      "num": 152565,
+      "word": "德约科维奇夺大满贯第23冠",
+      "onboard_time": 1686501325,
+      "rank": 37,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 144604,
+      "num": 144604,
+      "word": "过了下班时间窗口工作人员还在办理业务",
+      "onboard_time": 1686500485,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -315,28 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134671,
-      "num": 134671,
-      "word": "高邮",
-      "onboard_time": 1686499948,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133322,
       "num": 133322,
       "word": "工作后唯一放松的时刻 逛超市",
       "onboard_time": 1686493111,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 132246,
-      "num": 132246,
-      "word": "张艺兴给新人送二八大杠自行车",
-      "onboard_time": 1686499647,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 129594,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99496,
+      "num": 99496,
+      "word": "孙千cos紫萱",
+      "onboard_time": 1686493892,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57926,
       "num": 984188,
       "word": "村超现场有多燃",
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#保护好中华民族精神生生不息的根脉#"
+    },
+    {
+      "word": "#2023相约成都大运会#"
     }
   ]
 }

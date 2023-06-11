@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686500440484,
+  "endTime": 1686501345979,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -521,6 +521,14 @@
       "onboard_time": 1686324870,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2443964,
+      "num": 2443964,
+      "word": "曝光大叔女子哭诉学校准备开除她",
+      "onboard_time": 1686497909,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2437344,
@@ -2561,14 +2569,6 @@
       "onboard_time": 1686048269,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1200088,
-      "num": 1200088,
-      "word": "曝光大叔女子哭诉学校准备开除她",
-      "onboard_time": 1686497909,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1197139,
@@ -7323,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426668,
+      "num": 379527,
+      "word": "大叔家属回应被查手机时有地铁车厢照",
+      "onboard_time": 1686500126,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426082,
       "num": 243465,
       "word": "狐妖小红娘",
@@ -10235,6 +10243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304295,
+      "num": 276913,
+      "word": "广州南站按摩椅出现大量虫子",
+      "onboard_time": 1686492450,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304293,
       "num": 199736,
       "word": "肖春生知道佟晓梅就是书签女孩了",
@@ -11409,14 +11425,6 @@
       "onboard_time": 1685589685,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 276913,
-      "num": 276913,
-      "word": "广州南站按摩椅出现大量虫子",
-      "onboard_time": 1686492450,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276743,
@@ -14689,6 +14697,14 @@
       "onboard_time": 1686471268,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220450,
+      "num": 220450,
+      "word": "高邮",
+      "onboard_time": 1686499948,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220350,
@@ -19883,6 +19899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159169,
+      "num": 159169,
+      "word": "张艺兴给新人送二八大杠自行车",
+      "onboard_time": 1686499647,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "五月天在台上唱你不是真正的快乐",
@@ -20427,14 +20451,6 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 152918,
-      "num": 152918,
-      "word": "大叔家属回应被查手机时有地铁车厢照",
-      "onboard_time": 1686500126,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152886,
       "num": 152886,
       "word": "肖战肖春生的早安语录",
@@ -20449,6 +20465,14 @@
       "onboard_time": 1686415645,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152565,
+      "num": 152565,
+      "word": "德约科维奇夺大满贯第23冠",
+      "onboard_time": 1686501325,
+      "rank": 37,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 152551,
@@ -20945,6 +20969,14 @@
       "onboard_time": 1685955268,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144604,
+      "num": 144604,
+      "word": "过了下班时间窗口工作人员还在办理业务",
+      "onboard_time": 1686500485,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144486,
@@ -21603,14 +21635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134671,
-      "num": 134671,
-      "word": "高邮",
-      "onboard_time": 1686499948,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134585,
       "num": 134585,
       "word": "NameDrop 小天才碰碰交友",
@@ -21761,14 +21785,6 @@
       "onboard_time": 1685618548,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132246,
-      "num": 132246,
-      "word": "张艺兴给新人送二八大杠自行车",
-      "onboard_time": 1686499647,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 132114,
@@ -23537,6 +23553,14 @@
       "onboard_time": 1686330502,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99496,
+      "num": 99496,
+      "word": "孙千cos紫萱",
+      "onboard_time": 1686493892,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 99389,
