@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686492850844,
+  "endTime": 1686494012959,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2843,20 +2843,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1130129,
+      "num": 1130129,
+      "word": "Jennie身体状况",
+      "onboard_time": 1686486811,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127422,
       "num": 1127422,
       "word": "央视网评演员变演贝",
       "onboard_time": 1686460888,
       "rank": 26,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1119450,
-      "num": 1119450,
-      "word": "Jennie身体状况",
-      "onboard_time": 1686486811,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118785,
@@ -4907,6 +4907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 696440,
+      "num": 696440,
+      "word": "胡锡进说应接受曝光大叔女子的道歉",
+      "onboard_time": 1686491610,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696136,
       "num": 592159,
       "word": "中国邮政",
@@ -5337,6 +5345,14 @@
       "onboard_time": 1686127112,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 629619,
+      "num": 629619,
+      "word": "Weiwei 886",
+      "onboard_time": 1686492031,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 627807,
@@ -7771,6 +7787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399041,
+      "num": 399041,
+      "word": "许嵩 音乐节",
+      "onboard_time": 1686491791,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398755,
       "num": 352953,
       "word": "河南人和山东人都别沉默了",
@@ -7785,14 +7809,6 @@
       "onboard_time": 1686122134,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 397135,
-      "num": 397135,
-      "word": "胡锡进说应接受曝光大叔女子的道歉",
-      "onboard_time": 1686491610,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396671,
@@ -8435,6 +8451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364702,
+      "num": 364702,
+      "word": "EXO粉丝开始卷起来了",
+      "onboard_time": 1686492211,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364383,
       "num": 364383,
       "word": "王一博转签名笔",
@@ -8577,6 +8601,14 @@
       "onboard_time": 1686217717,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 358246,
+      "num": 358246,
+      "word": "TES对战WBG",
+      "onboard_time": 1686487951,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 357939,
@@ -8769,14 +8801,6 @@
       "onboard_time": 1685888131,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349349,
-      "num": 349349,
-      "word": "Weiwei 886",
-      "onboard_time": 1686492031,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 348960,
@@ -9115,6 +9139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337604,
+      "num": 337604,
+      "word": "你一般买多少钱一双的袜子",
+      "onboard_time": 1686492869,
+      "rank": 24,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 337599,
       "num": 337599,
       "word": "蔡徐坤与女舞伴热舞",
@@ -9353,6 +9385,14 @@
       "onboard_time": 1685846186,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 329278,
+      "num": 329278,
+      "word": "李希侃祝人大学子高考后有个好成绩",
+      "onboard_time": 1686490771,
+      "rank": 27,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 329242,
@@ -9883,14 +9923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311426,
-      "num": 311426,
-      "word": "许嵩 音乐节",
-      "onboard_time": 1686491791,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 311281,
       "num": 311281,
       "word": "BTS",
@@ -10081,14 +10113,6 @@
       "onboard_time": 1686380248,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305293,
-      "num": 305293,
-      "word": "李希侃祝人大学子高考后有个好成绩",
-      "onboard_time": 1686490771,
-      "rank": 27,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 305155,
@@ -11611,6 +11635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269543,
+      "num": 269543,
+      "word": "薛之谦说我开始找你了梅西",
+      "onboard_time": 1686493533,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 269518,
       "num": 269518,
       "word": "王鹤棣显眼包泰国版",
@@ -11825,6 +11857,14 @@
       "onboard_time": 1685717975,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264959,
+      "num": 264959,
+      "word": "迪丽热巴说这是安旎人生中最重要的公诉",
+      "onboard_time": 1686493052,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 264951,
@@ -13251,14 +13291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240542,
-      "num": 240542,
-      "word": "EXO粉丝开始卷起来了",
-      "onboard_time": 1686492211,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 240437,
       "num": 240437,
       "word": "那天他一下救了三个人",
@@ -14529,6 +14561,14 @@
       "onboard_time": 1685804193,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220454,
+      "num": 220454,
+      "word": "一巴掌下去眼神都清澈了",
+      "onboard_time": 1686493293,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 220452,
@@ -16603,6 +16643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195000,
+      "num": 195000,
+      "word": "工作后唯一放松的时刻 逛超市",
+      "onboard_time": 1686493111,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194949,
       "num": 194949,
       "word": "你当年选了文科还是理科",
@@ -18171,6 +18219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 179863,
+      "num": 179863,
+      "word": "广州南站按摩椅出现大量虫子",
+      "onboard_time": 1686492450,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179800,
       "num": 179800,
       "word": "法网",
@@ -18547,12 +18603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175012,
-      "num": 175012,
-      "word": "TES对战WBG",
-      "onboard_time": 1686487951,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 175049,
+      "num": 175049,
+      "word": "刘恋北京首场live",
+      "onboard_time": 1686493713,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 174617,
@@ -21283,6 +21339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135983,
+      "num": 1305854,
+      "word": "村超现场有多燃",
+      "onboard_time": 1686488550,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135592,
       "num": 135592,
       "word": "男子学厨26年钻研100多种点心",
@@ -22400,14 +22464,6 @@
       "word": "金龟子说8090后不必为长大道歉",
       "onboard_time": 1685599887,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118682,
-      "num": 1305854,
-      "word": "村超现场有多燃",
-      "onboard_time": 1686488550,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -24459,6 +24515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 65125,
+      "num": 497736,
+      "word": "小学拍毕业照请护学交警坐c位",
+      "onboard_time": 1686492690,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64922,
       "num": 64922,
       "word": "RNG",
@@ -25585,14 +25649,6 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 7045,
-      "num": 482551,
-      "word": "小学拍毕业照请护学交警坐c位",
-      "onboard_time": 1686492690,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5391,
