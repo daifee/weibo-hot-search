@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686449948069,
+  "endTime": 1686452606426,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -555,6 +555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2142412,
+      "num": 2142412,
+      "word": "拍婚纱照发朋友圈被同事教育",
+      "onboard_time": 1686442104,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2121466,
       "num": 2121466,
       "word": "业主购42套房全部打通墙体",
@@ -867,20 +875,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1684007,
-      "num": 1684007,
-      "word": "拍婚纱照发朋友圈被同事教育",
-      "onboard_time": 1686442104,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1682616,
       "num": 1682616,
       "word": "大学摘10万斤荔枝请全校免费吃",
       "onboard_time": 1686364364,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1682203,
+      "num": 1682203,
+      "word": "花戎婚礼变葬礼",
+      "onboard_time": 1686445106,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1682139,
@@ -1571,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210287,
+      "num": 1210287,
+      "word": "TFBOYS演唱会被写投诉信",
+      "onboard_time": 1686448888,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1204581,
       "num": 1080209,
       "word": "鲍蕾晒花絮力证没给贝儿P腿",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1686009748,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1183474,
+      "num": 1183474,
+      "word": "专家称年轻人不想生成本高并非主因",
+      "onboard_time": 1686447448,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1177533,
@@ -1795,14 +1819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1108278,
-      "num": 1108278,
-      "word": "花戎婚礼变葬礼",
-      "onboard_time": 1686445106,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1103865,
       "num": 612087,
       "word": "太古里",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1076297,
+      "num": 1076297,
+      "word": "老板谈上4休3工作制1个月后效果",
+      "onboard_time": 1686446608,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1076254,
@@ -1969,14 +1993,6 @@
       "onboard_time": 1686409772,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1032386,
-      "num": 1032386,
-      "word": "老板谈上4休3工作制1个月后效果",
-      "onboard_time": 1686446608,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1029690,
@@ -2531,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 854433,
-      "num": 854433,
-      "word": "专家称年轻人不想生成本高并非主因",
-      "onboard_time": 1686447448,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 853657,
       "num": 853657,
       "word": "建议实现一户一曜",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1686214296,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 786246,
+      "num": 786246,
+      "word": "张凌赫工作室宣布停更一周",
+      "onboard_time": 1686450208,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 784275,
@@ -3307,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643505,
+      "num": 643505,
+      "word": "香港大黄鸭被热爆一只",
+      "onboard_time": 1686450509,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643376,
       "num": 643376,
       "word": "一卷物理难不难",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1686387447,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580468,
+      "num": 580468,
+      "word": "奚梦瑶何猷君手牵手出席活动",
+      "onboard_time": 1686447867,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 579821,
@@ -4387,14 +4419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433920,
-      "num": 433920,
-      "word": "TFBOYS演唱会被写投诉信",
-      "onboard_time": 1686448888,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 433819,
       "num": 433819,
       "word": "肖春生戴婚戒",
@@ -4521,14 +4545,6 @@
       "onboard_time": 1685926649,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417310,
-      "num": 417310,
-      "word": "奚梦瑶何猷君手牵手出席活动",
-      "onboard_time": 1686447867,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 417005,
@@ -4977,6 +4993,14 @@
       "onboard_time": 1685955867,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369587,
+      "num": 369587,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369325,
@@ -5593,6 +5617,14 @@
       "onboard_time": 1685934929,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329951,
+      "num": 329951,
+      "word": "蔡徐坤王鹤棣7天涨粉",
+      "onboard_time": 1686450688,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 329242,
@@ -7787,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240136,
+      "num": 240136,
+      "word": "当你想离职但又不好意思说",
+      "onboard_time": 1686451167,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238803,
       "num": 238803,
       "word": "全自动家庭闯祸机",
@@ -8329,6 +8369,14 @@
       "onboard_time": 1686445406,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 225478,
+      "num": 225478,
+      "word": "瞒着父母买过最贵的东西",
+      "onboard_time": 1686451648,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 225401,
@@ -8931,6 +8979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210550,
+      "num": 210550,
+      "word": "肖战梦中的那片海即将登陆央一",
+      "onboard_time": 1686450028,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210242,
       "num": 210242,
       "word": "鞠婧祎一滴泪哭戏",
@@ -9193,6 +9249,14 @@
       "onboard_time": 1686369884,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205269,
+      "num": 205269,
+      "word": "唐九洲奶奶",
+      "onboard_time": 1686452308,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 205203,
@@ -10123,6 +10187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190048,
+      "num": 190048,
+      "word": "奔跑吧泰国大合照",
+      "onboard_time": 1686448766,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189868,
       "num": 189868,
       "word": "你觉得今年的高考作文难吗",
@@ -10561,6 +10633,14 @@
       "onboard_time": 1686231692,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181409,
+      "num": 181409,
+      "word": "鞠婧祎花戎喜提一个新皮肤",
+      "onboard_time": 1686452188,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 181400,
@@ -11673,14 +11753,6 @@
       "onboard_time": 1685970569,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157641,
-      "num": 157641,
-      "word": "奔跑吧泰国大合照",
-      "onboard_time": 1686448766,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 157460,
@@ -14284,7 +14356,7 @@
     },
     {
       "raw_hot": 57912,
-      "num": 1406490,
+      "num": 1443114,
       "word": "文化和自然遗产冷知识",
       "onboard_time": 1686406953,
       "rank": 44,

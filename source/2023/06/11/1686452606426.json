@@ -1,0 +1,410 @@
+{
+  "runTime": 1686452606426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2142412,
+        "num": 2142412,
+        "word": "拍婚纱照发朋友圈被同事教育",
+        "onboard_time": 1686442104,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1682203,
+        "num": 1682203,
+        "word": "花戎婚礼变葬礼",
+        "onboard_time": 1686445106,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26533,
+        "num": 1443114,
+        "word": "文化和自然遗产冷知识",
+        "onboard_time": 1686406953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210287,
+        "num": 1210287,
+        "word": "TFBOYS演唱会被写投诉信",
+        "onboard_time": 1686448888,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1183474,
+        "num": 1183474,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076297,
+        "num": 1076297,
+        "word": "老板谈上4休3工作制1个月后效果",
+        "onboard_time": 1686446608,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814512,
+        "num": 814512,
+        "word": "中铁三局辟谣董事长与女子逛街",
+        "onboard_time": 1686441263,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786246,
+        "num": 786246,
+        "word": "张凌赫工作室宣布停更一周",
+        "onboard_time": 1686450208,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761406,
+        "num": 761406,
+        "word": "团伙盗墓挖出龙袍网上售卖",
+        "onboard_time": 1686415707,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755469,
+        "num": 755469,
+        "word": "林志玲",
+        "onboard_time": 1686440783,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724555,
+        "num": 724555,
+        "word": "法老 幼稚园杀手",
+        "onboard_time": 1686440722,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 679092,
+        "num": 679092,
+        "word": "醉汉买瓜因不满沙瓤夺刀捅自己",
+        "onboard_time": 1686440362,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643505,
+        "num": 643505,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636527,
+        "num": 636527,
+        "word": "三星堆遗址再曝重磅消息",
+        "onboard_time": 1686438920,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580468,
+        "num": 580468,
+        "word": "奚梦瑶何猷君手牵手出席活动",
+        "onboard_time": 1686447867,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573997,
+        "num": 573997,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 525467,
+        "num": 525467,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474779,
+        "num": 474779,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463692,
+        "num": 463692,
+        "word": "猴痘",
+        "onboard_time": 1686450627,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436363,
+        "num": 436363,
+        "word": "说个故事清朝灭亡才111年",
+        "onboard_time": 1686401132,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390918,
+        "num": 390918,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369587,
+        "num": 369587,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329951,
+        "num": 329951,
+        "word": "蔡徐坤王鹤棣7天涨粉",
+        "onboard_time": 1686450688,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314095,
+        "num": 314095,
+        "word": "72岁TVB男星将迎娶小36岁女友",
+        "onboard_time": 1686409413,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288893,
+        "num": 288893,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 24,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 278763,
+        "num": 278763,
+        "word": "姚译添你就宠他吧",
+        "onboard_time": 1686442885,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274177,
+        "num": 274177,
+        "word": "萧敬腾方律师声明",
+        "onboard_time": 1686442885,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269143,
+        "num": 269143,
+        "word": "大半个娱乐圈都在江苏吧",
+        "onboard_time": 1686406051,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240136,
+        "num": 240136,
+        "word": "当你想离职但又不好意思说",
+        "onboard_time": 1686451167,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239682,
+        "num": 239682,
+        "word": "珠峰被救女子不付救援费背后",
+        "onboard_time": 1686413310,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236976,
+        "num": 236976,
+        "word": "陈飞宇8秒演一生",
+        "onboard_time": 1686444868,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231117,
+        "num": 231117,
+        "word": "吴京贾静雯牵手",
+        "onboard_time": 1686395562,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225478,
+        "num": 225478,
+        "word": "瞒着父母买过最贵的东西",
+        "onboard_time": 1686451648,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224412,
+        "num": 224412,
+        "word": "蔡徐坤看郑恺的眼神",
+        "onboard_time": 1686410552,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "广州市监测发现两例猴痘病例",
+        "onboard_time": 1686448948,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222677,
+        "num": 222677,
+        "word": "日本突然声称核污水危害健康",
+        "onboard_time": 1686413250,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210550,
+        "num": 210550,
+        "word": "肖战梦中的那片海即将登陆央一",
+        "onboard_time": 1686450028,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210212,
+        "num": 210212,
+        "word": "曼城vs国际米兰",
+        "onboard_time": 1686409772,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205269,
+        "num": 205269,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190048,
+        "num": 190048,
+        "word": "奔跑吧泰国大合照",
+        "onboard_time": 1686448766,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186304,
+        "num": 186304,
+        "word": "柯以敏直播崩溃大哭",
+        "onboard_time": 1686432313,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181409,
+        "num": 181409,
+        "word": "鞠婧祎花戎喜提一个新皮肤",
+        "onboard_time": 1686452188,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176841,
+        "word": "哥伦比亚飞机失事 40天野外求生奇迹",
+        "onboard_time": 1686407794,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176112,
+        "num": 176112,
+        "word": "妈妈因发不出生活费感到惭愧",
+        "onboard_time": 1686446727,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168233,
+        "num": 168233,
+        "word": "薛之谦坐路边吃雪糕",
+        "onboard_time": 1686442104,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157335,
+        "num": 157335,
+        "word": "感动全网的这对母子暂不接受捐赠",
+        "onboard_time": 1686449308,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156357,
+        "num": 156357,
+        "word": "从嘴巴看脾胃好不好",
+        "onboard_time": 1686444688,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 154396,
+        "num": 154396,
+        "word": "章若楠雨中分手哭戏",
+        "onboard_time": 1686445888,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129752,
+        "num": 151508,
+        "word": "欧冠",
+        "onboard_time": 1686444449,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 151000,
+        "word": "张大仙",
+        "onboard_time": 1686411031,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护文化遗产赓续文明血脉#"
+    }
+  }
+}
