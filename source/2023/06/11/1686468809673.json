@@ -1,0 +1,410 @@
+{
+  "runTime": 1686468809673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766194,
+        "num": 1766194,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988630,
+        "num": 988630,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 66065,
+        "num": 946775,
+        "word": "我国世界自然遗产数量全球第一",
+        "onboard_time": 1686466588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2318512,
+        "num": 941001,
+        "word": "校园霸凌",
+        "onboard_time": 1686458369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924461,
+        "num": 924461,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814003,
+        "num": 814003,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 791174,
+        "num": 791174,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771025,
+        "num": 771025,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737687,
+        "num": 737687,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659591,
+        "num": 659591,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1145290,
+        "num": 653585,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637334,
+        "num": 637334,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628406,
+        "num": 628406,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 12,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 564221,
+        "num": 564221,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66786,
+        "num": 536274,
+        "word": "高校给毕业生送万斤超甜蜜科研成果",
+        "onboard_time": 1686466946,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521488,
+        "num": 521488,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 458787,
+        "num": 458787,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373807,
+        "num": 373807,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281567,
+        "num": 281567,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255510,
+        "num": 255510,
+        "word": "TFBOYS演唱会被写投诉信",
+        "onboard_time": 1686448888,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331487,
+        "num": 255481,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255157,
+        "num": 255157,
+        "word": "张鑫与熊猫中心领导无亲属关系",
+        "onboard_time": 1686466346,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229123,
+        "num": 229123,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223031,
+        "num": 223031,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220867,
+        "num": 220867,
+        "word": "当我怀疑酒店有针孔摄像头",
+        "onboard_time": 1686462628,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220537,
+        "num": 220537,
+        "word": "法老 幼稚园杀手",
+        "onboard_time": 1686440722,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216835,
+        "num": 216835,
+        "word": "花戎婚礼变葬礼",
+        "onboard_time": 1686445106,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206936,
+        "num": 206936,
+        "word": "高校回应男子仗义直言遭同学怒怼",
+        "onboard_time": 1686467669,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202775,
+        "num": 202775,
+        "word": "老板谈上4休3工作制1个月后效果",
+        "onboard_time": 1686446608,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197097,
+        "num": 197097,
+        "word": "杨幂收到工作室送的花",
+        "onboard_time": 1686465929,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779088,
+        "num": 196572,
+        "word": "北京政法职业学院",
+        "onboard_time": 1686456329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195482,
+        "num": 195482,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191315,
+        "num": 191315,
+        "word": "我的暧昧对象直接变成原告人",
+        "onboard_time": 1686468447,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191568,
+        "num": 179913,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164741,
+        "num": 164741,
+        "word": "彭冠英睡觉姿势",
+        "onboard_time": 1686467249,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160411,
+        "num": 160411,
+        "word": "盛宇詹雯婷诀爱太绝了",
+        "onboard_time": 1686462449,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158546,
+        "num": 158546,
+        "word": "乔欣看到武大靖被抓释然了",
+        "onboard_time": 1686461668,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "拍婚纱照发朋友圈被同事教育",
+        "onboard_time": 1686442104,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 127663,
+        "word": "王一博人鱼计划夏天开机",
+        "onboard_time": 1686465388,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126103,
+        "num": 126103,
+        "word": "sana好辣",
+        "onboard_time": 1686461248,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125280,
+        "num": 125280,
+        "word": "杨幂紫色系穿搭",
+        "onboard_time": 1686460708,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124396,
+        "num": 124396,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 41,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 123099,
+        "num": 123099,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120585,
+        "num": 120585,
+        "word": "你觉得如何防范校园霸凌",
+        "onboard_time": 1686467966,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119997,
+        "num": 119997,
+        "word": "边牧是真的会放羊",
+        "onboard_time": 1686468447,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 118403,
+        "num": 118403,
+        "word": "上海地铁一女子自称市长孙女辱骂他人",
+        "onboard_time": 1686458488,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117491,
+        "num": 117491,
+        "word": "张凌赫工作室宣布停更一周",
+        "onboard_time": 1686450208,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115125,
+        "num": 115125,
+        "word": "严浩翔极限挑战今日剧照",
+        "onboard_time": 1686468628,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115090,
+        "num": 115090,
+        "word": "梅西北京",
+        "onboard_time": 1686452848,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74566,
+        "num": 101499,
+        "word": "逍遥散人 重庆不辣的美食",
+        "onboard_time": 1686458189,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#加大文物和文化遗产保护力度#"
+    }
+  }
+}
