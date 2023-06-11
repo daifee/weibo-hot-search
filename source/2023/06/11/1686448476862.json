@@ -1,0 +1,410 @@
+{
+  "runTime": 1686448476862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769134,
+        "num": 1769134,
+        "word": "中铁三局辟谣董事长与女子逛街",
+        "onboard_time": 1686441263,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582030,
+        "num": 1582030,
+        "word": "拍婚纱照发朋友圈被同事教育",
+        "onboard_time": 1686442104,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38298,
+        "num": 1271974,
+        "word": "文化和自然遗产冷知识",
+        "onboard_time": 1686406953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039767,
+        "num": 1039767,
+        "word": "珠峰被救女子不付救援费背后",
+        "onboard_time": 1686413310,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1029498,
+        "num": 1029498,
+        "word": "林志玲",
+        "onboard_time": 1686440783,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 939809,
+        "num": 939809,
+        "word": "花戎婚礼变葬礼",
+        "onboard_time": 1686445106,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895839,
+        "num": 895839,
+        "word": "醉汉买瓜因不满沙瓤夺刀捅自己",
+        "onboard_time": 1686440362,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783076,
+        "num": 783076,
+        "word": "肖战侯明昊郭俊辰7天涨粉",
+        "onboard_time": 1686438739,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 769724,
+        "num": 769724,
+        "word": "法老 幼稚园杀手",
+        "onboard_time": 1686440722,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 759574,
+        "num": 759574,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 737295,
+        "num": 737295,
+        "word": "三星堆遗址再曝重磅消息",
+        "onboard_time": 1686438920,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725009,
+        "num": 725009,
+        "word": "老板谈上4休3工作制1个月后效果",
+        "onboard_time": 1686446608,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638645,
+        "num": 638645,
+        "word": "团伙盗墓挖出龙袍网上售卖",
+        "onboard_time": 1686415707,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636708,
+        "num": 636708,
+        "word": "吴京贾静雯牵手",
+        "onboard_time": 1686395562,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619931,
+        "num": 619931,
+        "word": "大半个娱乐圈都在江苏吧",
+        "onboard_time": 1686406051,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589513,
+        "num": 589513,
+        "word": "蔡徐坤看郑恺的眼神",
+        "onboard_time": 1686410552,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438165,
+        "num": 438165,
+        "word": "说个故事清朝灭亡才111年",
+        "onboard_time": 1686401132,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464158,
+        "num": 428087,
+        "word": "Angelababy冷脸",
+        "onboard_time": 1686408332,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413891,
+        "num": 413891,
+        "word": "牵手门带火的裙子已退货2000件",
+        "onboard_time": 1686408152,
+        "rank": 18,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 374279,
+        "num": 374279,
+        "word": "萧敬腾方律师声明",
+        "onboard_time": 1686442885,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461349,
+        "num": 374059,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367593,
+        "num": 367593,
+        "word": "72岁TVB男星将迎娶小36岁女友",
+        "onboard_time": 1686409413,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350944,
+        "num": 350944,
+        "word": "姚译添你就宠他吧",
+        "onboard_time": 1686442885,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349201,
+        "num": 349201,
+        "word": "张大仙",
+        "onboard_time": 1686411031,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 346425,
+        "num": 346425,
+        "word": "专家称年轻人不想生成本高并非主因",
+        "onboard_time": 1686447448,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337942,
+        "num": 337942,
+        "word": "曼城vs国际米兰",
+        "onboard_time": 1686409772,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296300,
+        "num": 296300,
+        "word": "日本突然声称核污水危害健康",
+        "onboard_time": 1686413250,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265153,
+        "num": 265153,
+        "word": "奚梦瑶何猷君手牵手出席活动",
+        "onboard_time": 1686447867,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259568,
+        "num": 259568,
+        "word": "哥伦比亚飞机失事 40天野外求生奇迹",
+        "onboard_time": 1686407794,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257241,
+        "num": 257241,
+        "word": "柯以敏直播崩溃大哭",
+        "onboard_time": 1686432313,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256164,
+        "num": 256164,
+        "word": "赌王家族大合照",
+        "onboard_time": 1686445768,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 250825,
+        "num": 250825,
+        "word": "从嘴巴看脾胃好不好",
+        "onboard_time": 1686444688,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 235865,
+        "num": 235865,
+        "word": "陈飞宇8秒演一生",
+        "onboard_time": 1686444868,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225531,
+        "num": 225531,
+        "word": "女生出考场流利背诵劳动法",
+        "onboard_time": 1686445406,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 215011,
+        "num": 215011,
+        "word": "妈妈因发不出生活费感到惭愧",
+        "onboard_time": 1686446727,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213471,
+        "num": 213471,
+        "word": "章若楠雨中分手哭戏",
+        "onboard_time": 1686445888,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205564,
+        "num": 205564,
+        "word": "肖战新剧制片人发文庆祝台网双爆",
+        "onboard_time": 1686446546,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204407,
+        "num": 204407,
+        "word": "薛之谦坐路边吃雪糕",
+        "onboard_time": 1686442104,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193624,
+        "num": 193624,
+        "word": "武艺32年来第一次吃毛肚",
+        "onboard_time": 1686441144,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193576,
+        "num": 193576,
+        "word": "毛不易是赵灵儿派",
+        "onboard_time": 1686440420,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193381,
+        "num": 193381,
+        "word": "蔡徐坤把姚译添扔水里了",
+        "onboard_time": 1686446668,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190196,
+        "num": 190196,
+        "word": "欧冠",
+        "onboard_time": 1686444449,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180963,
+        "num": 180963,
+        "word": "朱一龙主打一个酷得严谨",
+        "onboard_time": 1686447448,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169534,
+        "num": 169534,
+        "word": "吴京听到沈腾要演章子怡老公反应",
+        "onboard_time": 1686440181,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61812,
+        "num": 167809,
+        "word": "卡卡带中国小将圆梦欧冠",
+        "onboard_time": 1686446727,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167502,
+        "num": 167502,
+        "word": "课本里的文章在写我们的一生",
+        "onboard_time": 1686448048,
+        "rank": 45,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 166284,
+        "num": 166284,
+        "word": "minnie奔跑吧水上跳tomboy",
+        "onboard_time": 1686440662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164481,
+        "num": 164481,
+        "word": "和谁相处最自然放松谁就最爱你",
+        "onboard_time": 1686438138,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158518,
+        "num": 158518,
+        "word": "男子教室仗义执言遭同学怒怼",
+        "onboard_time": 1686443548,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147674,
+        "num": 147674,
+        "word": "幼稚园杀手发歌diss盛宇",
+        "onboard_time": 1686404730,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护文化遗产赓续文明血脉#"
+    }
+  }
+}
