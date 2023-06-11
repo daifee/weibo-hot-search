@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686525437384,
+  "endTime": 1686526437404,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1453024,
-      "num": 1453024,
+      "raw_hot": 1792193,
+      "num": 1792193,
       "word": "大叔家属回应被查手机时有地铁车厢照",
       "onboard_time": 1686500126,
       "rank": 38,
@@ -41,6 +41,14 @@
       "onboard_time": 1686473789,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 880234,
+      "num": 880234,
+      "word": "爸爸带女儿跑步200余天孩子变化明显",
+      "onboard_time": 1686495513,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817302,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665381,
+      "num": 290805,
+      "word": "北京政法职业学院发布情况通报",
+      "onboard_time": 1686471268,
+      "rank": 20,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 587268,
       "num": 587268,
       "word": "薛之谦说我开始找你了梅西",
@@ -83,20 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 549155,
-      "num": 549155,
-      "word": "爸爸带女儿跑步200余天孩子变化明显",
-      "onboard_time": 1686495513,
-      "rank": 9,
+      "raw_hot": 481358,
+      "num": 481358,
+      "word": "过了下班时间窗口工作人员还在办理业务",
+      "onboard_time": 1686500485,
+      "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541575,
-      "num": 290805,
-      "word": "北京政法职业学院发布情况通报",
-      "onboard_time": 1686471268,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 431132,
@@ -195,12 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273402,
-      "num": 273402,
-      "word": "过了下班时间窗口工作人员还在办理业务",
-      "onboard_time": 1686500485,
-      "rank": 41,
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "女乘客空中失聪浙江医生出手了",
+      "onboard_time": 1686499888,
+      "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252803,
+      "num": 192693,
+      "word": "袁姗姗孔雀开屏耳环",
+      "onboard_time": 1686496531,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 250179,
@@ -211,28 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247024,
-      "num": 247024,
-      "word": "女乘客空中失聪浙江医生出手了",
-      "onboard_time": 1686499888,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243743,
       "num": 243743,
       "word": "肖春生 我本桀骜少年臣",
       "onboard_time": 1686496291,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219000,
-      "num": 192693,
-      "word": "袁姗姗孔雀开屏耳环",
-      "onboard_time": 1686496531,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216481,
@@ -265,6 +265,14 @@
       "onboard_time": 1686462028,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210215,
+      "num": 146402,
+      "word": "已经没有精力再失恋一次",
+      "onboard_time": 1686524540,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 209079,
@@ -305,6 +313,14 @@
       "onboard_time": 1686490292,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189474,
+      "num": 143376,
+      "word": "EXO正规七辑EXIST",
+      "onboard_time": 1686525983,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 186711,
@@ -363,20 +379,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138943,
-      "num": 130400,
+      "raw_hot": 140933,
+      "num": 140933,
+      "word": "文咏珊4天走5次红毯",
+      "onboard_time": 1686504499,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139224,
+      "num": 139224,
       "word": "贺红玲说肖春生甩了她",
       "onboard_time": 1686488850,
       "rank": 47,
       "category": "影视"
     },
     {
-      "raw_hot": 137663,
-      "num": 137663,
-      "word": "文咏珊4天走5次红毯",
-      "onboard_time": 1686504499,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "如何看待大叔和儿子给涉事女子一次机会",
+      "onboard_time": 1686525380,
+      "rank": 33,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 133322,
@@ -395,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129357,
-      "num": 129357,
-      "word": "已经没有精力再失恋一次",
-      "onboard_time": 1686524540,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125059,
       "num": 125059,
       "word": "李沁哭戏主动和导演说再来一遍",
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123802,
+      "num": 123802,
+      "word": "公司负责人长文回应三休和调休争议",
+      "onboard_time": 1686525741,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122812,
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94871,
-      "num": 94871,
-      "word": "如何看待大叔和儿子给涉事女子一次机会",
-      "onboard_time": 1686525380,
-      "rank": 33,
-      "category": "社会议题,情感"
-    },
-    {
       "raw_hot": 88894,
       "num": 88894,
       "word": "孟佳王霏霏10年前vs现在合照",
@@ -496,6 +512,30 @@
       "word": "消防员火场废墟中寻回老人存款",
       "onboard_time": 1686504619,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75662,
+      "num": 75662,
+      "word": "没看出来徐志胜cos的是澹台烬",
+      "onboard_time": 1686487531,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67416,
+      "num": 67416,
+      "word": "叶国华造孽刘芮麟还",
+      "onboard_time": 1686489571,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 63322,
+      "num": 63322,
+      "word": "轿车发生事故路人合力掰门救人",
+      "onboard_time": 1686526221,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -515,22 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56637,
-      "num": 56637,
-      "word": "叶国华造孽刘芮麟还",
-      "onboard_time": 1686489571,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 56395,
-      "num": 56395,
-      "word": "没看出来徐志胜cos的是澹台烬",
-      "onboard_time": 1686487531,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42657,
       "num": 54120,
       "word": "小学拍毕业照请护学交警坐c位",
@@ -547,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26558,
+      "num": 937255,
+      "word": "神舟十号发射成功10周年",
+      "onboard_time": 1686488311,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24244,
       "num": 29478,
       "word": "高考历史",
       "onboard_time": 1686361114,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 21734,
-      "num": 839327,
-      "word": "神舟十号发射成功10周年",
-      "onboard_time": 1686488311,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14316,
