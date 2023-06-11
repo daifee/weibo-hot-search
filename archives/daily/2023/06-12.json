@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686514605697,
+  "endTime": 1686515626681,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -505,6 +505,14 @@
       "onboard_time": 1686508155,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14316,
+      "num": 15960,
+      "word": "周柏豪安崎唱一事无成",
+      "onboard_time": 1686515112,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 13527,
