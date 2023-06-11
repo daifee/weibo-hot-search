@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686458024200,
+  "endTime": 1686460544865,
   "band_list": [
     {
       "raw_hot": 2745185,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1652993,
+      "num": 758875,
+      "word": "北京政法职业学院",
+      "onboard_time": 1686456329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1331005,
       "num": 1257633,
       "word": "TFBOYS演唱会被写投诉信",
@@ -73,6 +81,14 @@
       "onboard_time": 1686452308,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1247737,
+      "num": 1247737,
+      "word": "专家称年轻人不想生成本高并非主因",
+      "onboard_time": 1686447448,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1244769,
@@ -91,14 +107,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1183474,
-      "num": 1183474,
-      "word": "专家称年轻人不想生成本高并非主因",
-      "onboard_time": 1686447448,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1105717,
       "num": 1105717,
       "word": "张凌赫工作室宣布停更一周",
@@ -113,14 +121,6 @@
       "onboard_time": 1686452967,
       "rank": 26,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1089843,
-      "num": 729092,
-      "word": "北京政法职业学院",
-      "onboard_time": 1686456329,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1083023,
@@ -176,6 +176,14 @@
       "word": "杰克辣条孕妇群里发伪装的虐猫视频",
       "onboard_time": 1686406473,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 982400,
+      "num": 982400,
+      "word": "自证未偷拍大叔儿子希望曝光人道歉",
+      "onboard_time": 1686458729,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 742139,
+      "num": 742139,
+      "word": "我的农民爸爸读了我的硕士论文",
+      "onboard_time": 1686456869,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 737295,
       "num": 737295,
       "word": "三星堆遗址再曝重磅消息",
@@ -321,6 +337,22 @@
       "onboard_time": 1686389967,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 530872,
+      "num": 530872,
+      "word": "范丞丞王鹤棣把白鹿扔水里了",
+      "onboard_time": 1686459089,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 483122,
+      "num": 483122,
+      "word": "校园霸凌",
+      "onboard_time": 1686458369,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463692,
@@ -419,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308351,
+      "num": 308351,
+      "word": "刘烨",
+      "onboard_time": 1686459029,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307124,
       "num": 307124,
       "word": "周也为什么不穿紫色这套走红毯",
@@ -489,14 +529,6 @@
       "onboard_time": 1686452848,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276846,
-      "num": 255902,
-      "word": "我的农民爸爸读了我的硕士论文",
-      "onboard_time": 1686456869,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 273591,
@@ -627,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218780,
+      "num": 218780,
+      "word": "王源终于见到苏大强本人了",
+      "onboard_time": 1686457529,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215189,
       "num": 215189,
       "word": "薛之谦说毛不易话不多但金句频出",
@@ -715,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "上海地铁一女子自称市长孙女辱骂他人",
+      "onboard_time": 1686458488,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196741,
       "num": 196741,
       "word": "曼城1比0国际米兰",
@@ -787,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188923,
+      "num": 188923,
+      "word": "四川大学",
+      "onboard_time": 1686459988,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186563,
       "num": 186563,
       "word": "邪剑仙根本吸不完",
@@ -833,6 +889,14 @@
       "onboard_time": 1686447448,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180605,
+      "num": 180605,
+      "word": "逍遥散人 重庆不辣的美食",
+      "onboard_time": 1686458189,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 176623,
@@ -931,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158476,
+      "num": 158476,
+      "word": "孙珍妮没进组前看到朋友有工作会焦虑",
+      "onboard_time": 1686455069,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156415,
       "num": 156415,
       "word": "宁艺卓谈团队精神",
@@ -977,14 +1049,6 @@
       "onboard_time": 1686410371,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148978,
-      "num": 148978,
-      "word": "王源终于见到苏大强本人了",
-      "onboard_time": 1686457529,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 147338,
@@ -1113,6 +1177,22 @@
       "onboard_time": 1686437596,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125214,
+      "num": 125214,
+      "word": "打工一周的精神状态be like",
+      "onboard_time": 1686459866,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112317,
+      "num": 112317,
+      "word": "你家请保姆会限制年龄吗",
+      "onboard_time": 1686460348,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 112159,
