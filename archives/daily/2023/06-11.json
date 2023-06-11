@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686452606426,
+  "endTime": 1686453008285,
   "band_list": [
     {
       "raw_hot": 2142412,
@@ -43,8 +43,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1210287,
-      "num": 1210287,
+      "raw_hot": 1230523,
+      "num": 1230523,
       "word": "TFBOYS演唱会被写投诉信",
       "onboard_time": 1686448888,
       "rank": 18,
@@ -123,6 +123,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 908606,
+      "num": 908606,
+      "word": "张凌赫工作室宣布停更一周",
+      "onboard_time": 1686450208,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 895839,
       "num": 895839,
       "word": "醉汉买瓜因不满沙瓤夺刀捅自己",
@@ -147,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 882459,
+      "num": 882459,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802981,
       "num": 636708,
       "word": "吴京贾静雯牵手",
       "onboard_time": 1686395562,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 786246,
-      "num": 786246,
-      "word": "张凌赫工作室宣布停更一周",
-      "onboard_time": 1686450208,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 784275,
@@ -187,14 +195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 767779,
-      "num": 767779,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 759574,
       "num": 759574,
       "word": "惠英红 我是宝贝小斐的一日站姐",
@@ -211,12 +211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 643505,
-      "num": 643505,
+      "raw_hot": 677850,
+      "num": 677850,
       "word": "香港大黄鸭被热爆一只",
       "onboard_time": 1686450509,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673363,
+      "num": 673363,
+      "word": "奚梦瑶何猷君手牵手出席活动",
+      "onboard_time": 1686447867,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 632052,
@@ -251,19 +259,19 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 580468,
-      "num": 580468,
-      "word": "奚梦瑶何猷君手牵手出席活动",
-      "onboard_time": 1686447867,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
       "onboard_time": 1686409413,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562148,
+      "num": 562148,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 461349,
-      "num": 417629,
+      "num": 440882,
       "word": "63岁保姆上岗1小时烧焦雇主家水壶",
       "onboard_time": 1686439399,
       "rank": 46,
@@ -315,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392108,
+      "num": 240001,
+      "word": "唐九洲奶奶",
+      "onboard_time": 1686452308,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374279,
       "num": 374279,
       "word": "萧敬腾方律师声明",
       "onboard_time": 1686442885,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369587,
-      "num": 369587,
-      "word": "女性受教育程度越高终身不育率越高",
-      "onboard_time": 1686451289,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367161,
@@ -377,6 +385,14 @@
       "onboard_time": 1686377546,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301243,
+      "num": 301243,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 299696,
@@ -499,20 +515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229425,
+      "num": 229425,
+      "word": "瞒着父母买过最贵的东西",
+      "onboard_time": 1686451648,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225531,
       "num": 225531,
       "word": "女生出考场流利背诵劳动法",
       "onboard_time": 1686445406,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 225478,
-      "num": 225478,
-      "word": "瞒着父母买过最贵的东西",
-      "onboard_time": 1686451648,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 221998,
@@ -579,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205269,
-      "num": 205269,
-      "word": "唐九洲奶奶",
-      "onboard_time": 1686452308,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204407,
       "num": 204407,
       "word": "薛之谦坐路边吃雪糕",
@@ -632,6 +640,14 @@
       "word": "肖春生要搞事业了",
       "onboard_time": 1686449909,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195074,
+      "num": 195074,
+      "word": "鞠婧祎花戎喜提一个新皮肤",
+      "onboard_time": 1686452188,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -707,20 +723,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181409,
-      "num": 181409,
-      "word": "鞠婧祎花戎喜提一个新皮肤",
-      "onboard_time": 1686452188,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180963,
       "num": 180963,
       "word": "朱一龙主打一个酷得严谨",
       "onboard_time": 1686447448,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169837,
+      "num": 169837,
+      "word": "BOYHOOD男团状态",
+      "onboard_time": 1686452610,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 169534,
@@ -755,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164303,
+      "num": 164303,
+      "word": "好兄弟统一拍照姿势",
+      "onboard_time": 1686452610,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163440,
       "num": 163440,
       "word": "TFBOYS近期活动状态",
@@ -768,6 +792,14 @@
       "word": "梅西也得熬夜看欧冠",
       "onboard_time": 1686398571,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161396,
+      "num": 161396,
+      "word": "梅西北京",
+      "onboard_time": 1686452848,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1089,6 +1121,14 @@
       "onboard_time": 1686426493,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 5014,
+      "num": 625932,
+      "word": "女孩高考后送娃娃给护考交警",
+      "onboard_time": 1686452967,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

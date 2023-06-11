@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686452606426,
+  "endTime": 1686453008285,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2331,6 +2331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1230523,
+      "num": 1230523,
+      "word": "TFBOYS演唱会被写投诉信",
+      "onboard_time": 1686448888,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1223087,
       "num": 1223087,
       "word": "动物专家称争议鸭脖大概率为鼠头",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1686357086,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1210287,
-      "num": 1210287,
-      "word": "TFBOYS演唱会被写投诉信",
-      "onboard_time": 1686448888,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 1205084,
@@ -3483,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 908606,
+      "num": 908606,
+      "word": "张凌赫工作室宣布停更一周",
+      "onboard_time": 1686450208,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 907427,
       "num": 907427,
       "word": "井柏然刘雯又合体营业了",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 882459,
+      "num": 882459,
+      "word": "团伙盗墓挖出龙袍网上售卖",
+      "onboard_time": 1686415707,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879069,
@@ -4139,14 +4155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 786246,
-      "num": 786246,
-      "word": "张凌赫工作室宣布停更一周",
-      "onboard_time": 1686450208,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 784275,
       "num": 784275,
       "word": "卢卡库",
@@ -4273,14 +4281,6 @@
       "onboard_time": 1686285273,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767779,
-      "num": 767779,
-      "word": "团伙盗墓挖出龙袍网上售卖",
-      "onboard_time": 1686415707,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 767588,
@@ -4795,6 +4795,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 677850,
+      "num": 677850,
+      "word": "香港大黄鸭被热爆一只",
+      "onboard_time": 1686450509,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676786,
       "num": 676786,
       "word": "刘雅瑟多穿裙子吧",
@@ -4809,6 +4817,14 @@
       "onboard_time": 1685603249,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 673363,
+      "num": 673363,
+      "word": "奚梦瑶何猷君手牵手出席活动",
+      "onboard_time": 1686447867,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 673239,
@@ -4944,14 +4960,6 @@
       "word": "鼠头还是鸭脖怎么就成了罗生门",
       "onboard_time": 1685971528,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643505,
-      "num": 643505,
-      "word": "香港大黄鸭被热爆一只",
-      "onboard_time": 1686450509,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -5411,14 +5419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580468,
-      "num": 580468,
-      "word": "奚梦瑶何猷君手牵手出席活动",
-      "onboard_time": 1686447867,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
@@ -5537,6 +5537,14 @@
       "onboard_time": 1685606668,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 562148,
+      "num": 562148,
+      "word": "女性受教育程度越高终身不育率越高",
+      "onboard_time": 1686451289,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559589,
@@ -6532,7 +6540,7 @@
     },
     {
       "raw_hot": 461349,
-      "num": 417629,
+      "num": 440882,
       "word": "63岁保姆上岗1小时烧焦雇主家水壶",
       "onboard_time": 1686439399,
       "rank": 46,
@@ -7491,6 +7499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392108,
+      "num": 240001,
+      "word": "唐九洲奶奶",
+      "onboard_time": 1686452308,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391957,
       "num": 391957,
       "word": "印度发生列车脱轨相撞事故",
@@ -7897,14 +7913,6 @@
       "onboard_time": 1685955867,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369587,
-      "num": 369587,
-      "word": "女性受教育程度越高终身不育率越高",
-      "onboard_time": 1686451289,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369325,
@@ -9737,6 +9745,14 @@
       "onboard_time": 1686060513,
       "rank": 28,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 301243,
+      "num": 301243,
+      "word": "你当明星会被扒出什么黑料",
+      "onboard_time": 1686452967,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 301023,
@@ -13259,6 +13275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229425,
+      "num": 229425,
+      "word": "瞒着父母买过最贵的东西",
+      "onboard_time": 1686451648,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229379,
       "num": 348725,
       "word": "上影节红毯最佳造型",
@@ -13529,14 +13553,6 @@
       "onboard_time": 1685679270,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225478,
-      "num": 225478,
-      "word": "瞒着父母买过最贵的东西",
-      "onboard_time": 1686451648,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 225401,
@@ -14931,14 +14947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205269,
-      "num": 205269,
-      "word": "唐九洲奶奶",
-      "onboard_time": 1686452308,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205203,
       "num": 205203,
       "word": "邓宥希",
@@ -15792,6 +15800,14 @@
       "word": "肖春生要搞事业了",
       "onboard_time": 1686449909,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195074,
+      "num": 195074,
+      "word": "鞠婧祎花戎喜提一个新皮肤",
+      "onboard_time": 1686452188,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -17139,14 +17155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181409,
-      "num": 181409,
-      "word": "鞠婧祎花戎喜提一个新皮肤",
-      "onboard_time": 1686452188,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181400,
       "num": 181400,
       "word": "无名排片",
@@ -17875,6 +17883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169837,
+      "num": 169837,
+      "word": "BOYHOOD男团状态",
+      "onboard_time": 1686452610,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169777,
       "num": 146965,
       "word": "照亮你能播出来不容易啊",
@@ -18323,6 +18339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164303,
+      "num": 164303,
+      "word": "好兄弟统一拍照姿势",
+      "onboard_time": 1686452610,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164262,
       "num": 164262,
       "word": "韩国海关回应因中国包裹激增爆仓",
@@ -18537,6 +18561,14 @@
       "onboard_time": 1685869225,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161396,
+      "num": 161396,
+      "word": "梅西北京",
+      "onboard_time": 1686452848,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 161246,
@@ -24184,6 +24216,14 @@
       "word": "无限画里的童年",
       "onboard_time": 1685633551,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5014,
+      "num": 625932,
+      "word": "女孩高考后送娃娃给护考交警",
+      "onboard_time": 1686452967,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
