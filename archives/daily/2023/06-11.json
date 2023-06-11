@@ -1,6 +1,6 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686472410524,
+  "endTime": 1686474912544,
   "band_list": [
     {
       "raw_hot": 2945978,
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2096018,
+      "num": 2096018,
+      "word": "北京政法职业学院发布情况通报",
+      "onboard_time": 1686471268,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2036619,
       "num": 2036619,
       "word": "Angelababy冷脸",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1771739,
-      "num": 1771739,
-      "word": "北京政法职业学院发布情况通报",
-      "onboard_time": 1686471268,
-      "rank": 11,
-      "category": "教育,社会新闻"
+      "raw_hot": 1856904,
+      "num": 1856904,
+      "word": "张雨绮说699我都买不了袜子",
+      "onboard_time": 1686466886,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1769134,
@@ -91,14 +99,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1666476,
-      "num": 1666476,
-      "word": "张雨绮说699我都买不了袜子",
-      "onboard_time": 1686466886,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1598822,
       "num": 669593,
       "word": "四川大学",
@@ -123,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1272869,
+      "num": 1272869,
+      "word": "网友评的四大女演贝",
+      "onboard_time": 1686470849,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1261534,
       "num": 1231200,
       "word": "唐九洲奶奶",
@@ -145,6 +153,14 @@
       "onboard_time": 1686455968,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1202048,
+      "num": 1202048,
+      "word": "张雨绮致歉",
+      "onboard_time": 1686473789,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1196313,
@@ -403,6 +419,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 605751,
+      "num": 605751,
+      "word": "DK 难评",
+      "onboard_time": 1686470307,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450037,
+      "num": 486900,
+      "word": "员工不接电话浙江老板果断报警",
+      "onboard_time": 1686470427,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448718,
       "num": 448718,
       "word": "张子枫吊带阔腿裤",
@@ -489,14 +521,6 @@
       "onboard_time": 1686454589,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 395137,
-      "num": 395137,
-      "word": "网友评的四大女演贝",
-      "onboard_time": 1686470849,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374279,
@@ -571,28 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305250,
-      "num": 305250,
-      "word": "DK 难评",
-      "onboard_time": 1686470307,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304621,
       "num": 304621,
       "word": "肖春生为救佟晓梅站起来了",
       "onboard_time": 1686456389,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 303997,
-      "num": 486900,
-      "word": "员工不接电话浙江老板果断报警",
-      "onboard_time": 1686470427,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299696,
@@ -633,6 +641,14 @@
       "onboard_time": 1686409111,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278942,
+      "num": 278942,
+      "word": "LNG辅助",
+      "onboard_time": 1686474029,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 278555,
@@ -811,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219924,
+      "num": 219924,
+      "word": "郭俊辰吻到青筋暴起",
+      "onboard_time": 1686471268,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219658,
       "num": 214476,
       "word": "蔡徐坤演唱会",
@@ -851,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210772,
+      "num": 210772,
+      "word": "导演带王一博去日本采风",
+      "onboard_time": 1686474569,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210550,
       "num": 210550,
       "word": "肖战梦中的那片海即将登陆央一",
@@ -865,6 +897,14 @@
       "onboard_time": 1686394888,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208984,
+      "num": 208984,
+      "word": "EDG首场对阵T1",
+      "onboard_time": 1686473789,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 208597,
@@ -1075,14 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185116,
-      "num": 185116,
-      "word": "郭俊辰吻到青筋暴起",
-      "onboard_time": 1686471268,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185003,
       "num": 185003,
       "word": "贺峻霖鞋跑掉了",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1686458189,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180599,
+      "num": 180599,
+      "word": "金泰亨见面会",
+      "onboard_time": 1686472346,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 176623,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1686449128,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163386,
+      "num": 163386,
+      "word": "贾乃亮被岳云鹏砸懵了",
+      "onboard_time": 1686474569,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 162719,
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150404,
+      "num": 142475,
+      "word": "袁娅维回应被认错",
+      "onboard_time": 1686472407,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "熊孩子真的不分物种",
@@ -1339,12 +1395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145983,
-      "num": 137825,
-      "word": "金泰亨见面会",
-      "onboard_time": 1686472346,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 145765,
+      "num": 145765,
+      "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+      "onboard_time": 1686470008,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145470,
+      "num": 139097,
+      "word": "彭昱畅说我没事问问许凯吧",
+      "onboard_time": 1686473968,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 144003,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1686449248,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142924,
-      "num": 142924,
-      "word": "女子瘫痪后欲轻生丈夫用爱唤回",
-      "onboard_time": 1686470008,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142850,
@@ -1377,6 +1433,14 @@
       "onboard_time": 1686432313,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142293,
+      "num": 142293,
+      "word": "6月急需一个广西的朋友",
+      "onboard_time": 1686472469,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 140557,
@@ -1440,6 +1504,14 @@
       "word": "法老热狗爱人舞台眼泪开关",
       "onboard_time": 1686471028,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135237,
+      "num": 135237,
+      "word": "王鹤棣换人主打一个出其不意",
+      "onboard_time": 1686473669,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1547,6 +1619,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 119598,
+      "num": 119598,
+      "word": "厂长助威EDG",
+      "onboard_time": 1686474088,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117811,
       "num": 117811,
       "word": "轿车冒烟山东小伙冲上去掰门救人",
@@ -1595,12 +1675,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112104,
+      "num": 112104,
+      "word": "男朋友紧张时会摸出学生卡壮胆",
+      "onboard_time": 1686474750,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 111598,
       "num": 111598,
       "word": "内马尔回复小朋友私信",
       "onboard_time": 1686419539,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111485,
+      "num": 111485,
+      "word": "DRX对战DK",
+      "onboard_time": 1686473493,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 104098,
@@ -1825,6 +1921,14 @@
       "onboard_time": 1686426493,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15778,
+      "num": 1839159,
+      "word": "龙舟大赛强强对决好热闹",
+      "onboard_time": 1686474569,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1839,6 +1943,9 @@
     },
     {
       "word": "#2023相约成都大运会#"
+    },
+    {
+      "word": "#建设社会主义文化强国#"
     }
   ]
 }
