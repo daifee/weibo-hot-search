@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686518076512,
+  "endTime": 1686519240138,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -523,19 +523,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 11859,
+      "num": 19317,
+      "word": "小学拍毕业照请护学交警坐c位",
+      "onboard_time": 1686492690,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10593,
       "num": 810244,
       "word": "神舟十号发射成功10周年",
       "onboard_time": 1686488311,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9573,
-      "num": 16823,
-      "word": "小学拍毕业照请护学交警坐c位",
-      "onboard_time": 1686492690,
-      "rank": 39,
       "category": "社会新闻"
     }
   ],
