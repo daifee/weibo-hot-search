@@ -1,7 +1,15 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686483219503,
+  "endTime": 1686486661533,
   "band_list": [
+    {
+      "raw_hot": 8058470,
+      "num": 8058470,
+      "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+      "onboard_time": 1686483687,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3887658,
       "num": 3887658,
@@ -9,6 +17,14 @@
       "onboard_time": 1686473789,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3835740,
+      "num": 3835740,
+      "word": "注册不了张z道歉",
+      "onboard_time": 1686484888,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2945978,
@@ -65,6 +81,14 @@
       "onboard_time": 1686408332,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1978354,
+      "num": 1104841,
+      "word": "注册不了张z",
+      "onboard_time": 1686475288,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1859611,
@@ -137,14 +161,6 @@
       "onboard_time": 1686448888,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1294080,
-      "num": 1104841,
-      "word": "注册不了张z",
-      "onboard_time": 1686475288,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1289744,
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 856867,
+      "num": 856867,
+      "word": "迪丽热巴红毯赶蚊子",
+      "onboard_time": 1686484888,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 855560,
       "num": 855560,
       "word": "大叔自证未在地铁偷拍仍遭曝光最新进展",
@@ -401,6 +425,14 @@
       "onboard_time": 1686440722,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 766333,
+      "num": 1629236,
+      "word": "女子220斤家人为激励减肥奖6万",
+      "onboard_time": 1686481766,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759574,
@@ -483,6 +515,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 598302,
+      "num": 598302,
+      "word": "华晨宇 抢票",
+      "onboard_time": 1686485610,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
@@ -505,6 +545,14 @@
       "onboard_time": 1686389967,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495843,
+      "num": 495843,
+      "word": "白鹿陈都灵戴了同款耳饰",
+      "onboard_time": 1686485365,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 495167,
@@ -563,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436882,
+      "num": 436882,
+      "word": "余景天衢州鹿鸣音乐节",
+      "onboard_time": 1686485669,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400172,
       "num": 400172,
       "word": "陶昕然说演员想漂亮就不要去演戏",
@@ -611,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346252,
+      "num": 346252,
+      "word": "法网女双",
+      "onboard_time": 1686486211,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339452,
       "num": 339452,
       "word": "Ella笑不出来",
@@ -633,6 +697,14 @@
       "onboard_time": 1686477088,
       "rank": 26,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 309704,
+      "num": 309704,
+      "word": "王欣瑜夺法网女双冠军",
+      "onboard_time": 1686485850,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 308351,
@@ -763,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267886,
-      "num": 1629236,
-      "word": "女子220斤家人为激励减肥奖6万",
-      "onboard_time": 1686481766,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265961,
       "num": 265961,
       "word": "Minnie录制奔跑吧造型",
@@ -849,6 +913,14 @@
       "onboard_time": 1686456208,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249393,
+      "num": 249393,
+      "word": "肖战是懂搞笑解说的",
+      "onboard_time": 1686484466,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 247237,
@@ -955,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219565,
+      "num": 219565,
+      "word": "谢淑薇法网女双夺冠",
+      "onboard_time": 1686486391,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218780,
       "num": 218780,
       "word": "王源终于见到苏大强本人了",
@@ -1027,12 +1107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210516,
+      "num": 210516,
+      "word": "张雨绮碎钻文学",
+      "onboard_time": 1686484288,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210371,
       "num": 144038,
       "word": "全员加速中",
       "onboard_time": 1686394888,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209407,
+      "num": 209407,
+      "word": "汉阳被撞学生肇事者父母为厅官系谣言",
+      "onboard_time": 1686484108,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208984,
@@ -1251,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186245,
+      "num": 186245,
+      "word": "王一博黑西装花领带",
+      "onboard_time": 1686486509,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186192,
       "num": 186192,
       "word": "易烊千玺金爵奖评委见面会",
@@ -1331,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177518,
+      "num": 177518,
+      "word": "妈你哭什么呢我看见你高兴",
+      "onboard_time": 1686482426,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "奥利维拉vs大流士",
@@ -1355,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172106,
+      "num": 505377,
+      "word": "顾客自助买凉皮老板快乐收麦子",
+      "onboard_time": 1686484826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169837,
       "num": 169837,
       "word": "BOYHOOD男团状态",
@@ -1369,6 +1489,14 @@
       "onboard_time": 1686440181,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169257,
+      "num": 169257,
+      "word": "梅西被迫宅在酒店",
+      "onboard_time": 1686485489,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 168734,
@@ -1401,6 +1529,14 @@
       "onboard_time": 1686474569,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166604,
+      "num": 166604,
+      "word": "长大以后才开始被爱",
+      "onboard_time": 1686483928,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 166284,
@@ -1675,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136960,
+      "num": 136960,
+      "word": "李晨晒奔跑吧泰国大合照",
+      "onboard_time": 1686486330,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136500,
       "num": 134658,
       "word": "法老热狗爱人舞台眼泪开关",
@@ -1715,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133752,
+      "num": 133752,
+      "word": "梦海里的长城竟然是特效",
+      "onboard_time": 1686484826,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132814,
       "num": 132814,
       "word": "EDG首发名单",
@@ -1729,14 +1881,6 @@
       "onboard_time": 1686478527,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132262,
-      "num": 132262,
-      "word": "妈你哭什么呢我看见你高兴",
-      "onboard_time": 1686482426,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131593,

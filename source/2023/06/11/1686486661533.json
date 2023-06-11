@@ -1,0 +1,410 @@
+{
+  "runTime": 1686486661533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8058470,
+        "num": 8058470,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3835740,
+        "num": 3835740,
+        "word": "注册不了张z道歉",
+        "onboard_time": 1686484888,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41984,
+        "num": 1840702,
+        "word": "龙舟大赛强强对决好热闹",
+        "onboard_time": 1686474569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518455,
+        "num": 1518455,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1400091,
+        "num": 1400091,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071697,
+        "num": 1071697,
+        "word": "迪丽热巴蝴蝶骨好明显",
+        "onboard_time": 1686480089,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1093302,
+        "num": 1054692,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 856867,
+        "num": 856867,
+        "word": "迪丽热巴红毯赶蚊子",
+        "onboard_time": 1686484888,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 770450,
+        "num": 770450,
+        "word": "宁艺卓开通微博",
+        "onboard_time": 1686482188,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766333,
+        "num": 766333,
+        "word": "女子220斤家人为激励减肥奖6万",
+        "onboard_time": 1686481766,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1978354,
+        "num": 763357,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758258,
+        "num": 758258,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598302,
+        "num": 598302,
+        "word": "华晨宇 抢票",
+        "onboard_time": 1686485610,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 561995,
+        "num": 561995,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 172106,
+        "num": 505377,
+        "word": "顾客自助买凉皮老板快乐收麦子",
+        "onboard_time": 1686484826,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496539,
+        "num": 496539,
+        "word": "员工不接电话浙江老板果断报警",
+        "onboard_time": 1686470427,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495843,
+        "num": 495843,
+        "word": "白鹿陈都灵戴了同款耳饰",
+        "onboard_time": 1686485365,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 477395,
+        "num": 477395,
+        "word": "王楚钦",
+        "onboard_time": 1686481106,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436882,
+        "num": 436882,
+        "word": "余景天衢州鹿鸣音乐节",
+        "onboard_time": 1686485669,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406595,
+        "num": 406595,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396926,
+        "num": 396926,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388722,
+        "num": 388722,
+        "word": "迪奥",
+        "onboard_time": 1686481527,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 348840,
+        "num": 348840,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346252,
+        "num": 346252,
+        "word": "法网女双",
+        "onboard_time": 1686486211,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309704,
+        "num": 309704,
+        "word": "王欣瑜夺法网女双冠军",
+        "onboard_time": 1686485850,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307607,
+        "num": 307607,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 25,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 304533,
+        "num": 304533,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298445,
+        "num": 298445,
+        "word": "大叔自证未在地铁偷拍仍遭曝光最新进展",
+        "onboard_time": 1686483207,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289633,
+        "num": 289633,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261453,
+        "num": 261453,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249393,
+        "num": 249393,
+        "word": "肖战是懂搞笑解说的",
+        "onboard_time": 1686484466,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248538,
+        "num": 248538,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 219565,
+        "num": 219565,
+        "word": "谢淑薇法网女双夺冠",
+        "onboard_time": 1686486391,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210516,
+        "num": 210516,
+        "word": "张雨绮碎钻文学",
+        "onboard_time": 1686484288,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209407,
+        "num": 209407,
+        "word": "汉阳被撞学生肇事者父母为厅官系谣言",
+        "onboard_time": 1686484108,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195468,
+        "num": 195468,
+        "word": "全世界的追星人都一样",
+        "onboard_time": 1686477088,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 186245,
+        "num": 186245,
+        "word": "王一博黑西装花领带",
+        "onboard_time": 1686486509,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177518,
+        "num": 177518,
+        "word": "妈你哭什么呢我看见你高兴",
+        "onboard_time": 1686482426,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169851,
+        "num": 169851,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169257,
+        "num": 169257,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166604,
+        "num": 166604,
+        "word": "长大以后才开始被爱",
+        "onboard_time": 1686483928,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161545,
+        "num": 161545,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 149611,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 147334,
+        "num": 147334,
+        "word": "周柯宇cos长珩仙君",
+        "onboard_time": 1686469166,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136960,
+        "num": 136960,
+        "word": "李晨晒奔跑吧泰国大合照",
+        "onboard_time": 1686486330,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133848,
+        "num": 133848,
+        "word": "mai 法老",
+        "onboard_time": 1686469887,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133752,
+        "num": 133752,
+        "word": "梦海里的长城竟然是特效",
+        "onboard_time": 1686484826,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 120785,
+        "word": "导演带王一博去日本采风",
+        "onboard_time": 1686474569,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120526,
+        "num": 120526,
+        "word": "吴宣仪 音乐节",
+        "onboard_time": 1686476427,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116877,
+        "num": 116877,
+        "word": "EDG首场对阵T1",
+        "onboard_time": 1686473789,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}
