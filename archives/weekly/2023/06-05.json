@@ -1,6 +1,6 @@
 {
   "startTime": 1685895661269,
-  "endTime": 1686486661533,
+  "endTime": 1686487638457,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9118597,
+      "num": 9118597,
+      "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+      "onboard_time": 1686483687,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8615320,
       "num": 8615320,
       "word": "中石油胡继勇被免职",
@@ -65,14 +73,6 @@
       "onboard_time": 1686129107,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 8058470,
-      "num": 8058470,
-      "word": "自证未偷拍仍遭曝光涉事女子已道歉",
-      "onboard_time": 1686483687,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7630424,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2644897,
+      "num": 2148660,
+      "word": "注册不了张z",
+      "onboard_time": 1686279571,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2618972,
       "num": 2618972,
       "word": "原来肝脏不好真的会变丑",
@@ -473,14 +481,6 @@
       "onboard_time": 1685942608,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2361318,
-      "num": 2148660,
-      "word": "注册不了张z",
-      "onboard_time": 1686279571,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2337751,
@@ -3555,6 +3555,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 647455,
+      "num": 647455,
+      "word": "白鹿陈都灵戴了同款耳饰",
+      "onboard_time": 1686485365,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 646982,
       "num": 646982,
       "word": "鼠头还是鸭脖怎么就成了罗生门",
@@ -4241,14 +4249,6 @@
       "onboard_time": 1686293911,
       "rank": 44,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 495843,
-      "num": 495843,
-      "word": "白鹿陈都灵戴了同款耳饰",
-      "onboard_time": 1686485365,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 495227,
@@ -5107,6 +5107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 388975,
+      "num": 388975,
+      "word": "Jennie身体状况",
+      "onboard_time": 1686486811,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388483,
       "num": 388483,
       "word": "25岁女孩体重只有60多斤",
@@ -5953,6 +5961,14 @@
       "onboard_time": 1686111885,
       "rank": 28,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 327400,
+      "num": 243154,
+      "word": "李晨晒奔跑吧泰国大合照",
+      "onboard_time": 1686486330,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 327193,
@@ -6971,6 +6987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278256,
+      "num": 278256,
+      "word": "王一博黑西装花领带",
+      "onboard_time": 1686486509,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278156,
       "num": 278156,
       "word": "宁清",
@@ -7465,6 +7489,14 @@
       "onboard_time": 1685933970,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257728,
+      "num": 257728,
+      "word": "谢淑薇法网女双夺冠",
+      "onboard_time": 1686486391,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 257273,
@@ -8315,6 +8347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238477,
+      "num": 238477,
+      "word": "张雨绮碎钻文学",
+      "onboard_time": 1686484288,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238327,
       "num": 238327,
       "word": "欧冠决赛",
@@ -8883,6 +8923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224448,
+      "num": 224448,
+      "word": "汉阳被撞学生肇事者父母为厅官系谣言",
+      "onboard_time": 1686484108,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -8929,6 +8977,14 @@
       "onboard_time": 1686321272,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223060,
+      "num": 223060,
+      "word": "王玉雯红裙造型",
+      "onboard_time": 1686486992,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 222844,
@@ -9081,14 +9137,6 @@
       "onboard_time": 1686453869,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219565,
-      "num": 219565,
-      "word": "谢淑薇法网女双夺冠",
-      "onboard_time": 1686486391,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 219481,
@@ -9531,14 +9579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210516,
-      "num": 210516,
-      "word": "张雨绮碎钻文学",
-      "onboard_time": 1686484288,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210242,
       "num": 210242,
       "word": "鞠婧祎一滴泪哭戏",
@@ -9577,14 +9617,6 @@
       "onboard_time": 1686054328,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209407,
-      "num": 209407,
-      "word": "汉阳被撞学生肇事者父母为厅官系谣言",
-      "onboard_time": 1686484108,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209357,
@@ -9673,6 +9705,22 @@
       "onboard_time": 1686191456,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208410,
+      "num": 208410,
+      "word": "梅西被迫宅在酒店",
+      "onboard_time": 1686485489,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208157,
+      "num": 208157,
+      "word": "妈你哭什么呢我看见你高兴",
+      "onboard_time": 1686482426,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208105,
@@ -10971,6 +11019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187691,
+      "num": 505377,
+      "word": "顾客自助买凉皮老板快乐收麦子",
+      "onboard_time": 1686484826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187591,
       "num": 187591,
       "word": "高铁晚点",
@@ -11049,14 +11105,6 @@
       "onboard_time": 1686017128,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186245,
-      "num": 186245,
-      "word": "王一博黑西装花领带",
-      "onboard_time": 1686486509,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186192,
@@ -11217,6 +11265,14 @@
       "onboard_time": 1686288811,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183674,
+      "num": 183674,
+      "word": "长大以后才开始被爱",
+      "onboard_time": 1686483928,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183222,
@@ -11547,14 +11603,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 177518,
-      "num": 177518,
-      "word": "妈你哭什么呢我看见你高兴",
-      "onboard_time": 1686482426,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177455,
       "num": 177455,
       "word": "长月烬明里究竟谁扛剧",
@@ -11819,14 +11867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172106,
-      "num": 505377,
-      "word": "顾客自助买凉皮老板快乐收麦子",
-      "onboard_time": 1686484826,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172083,
       "num": 163048,
       "word": "朱一龙翻脸比我翻书还快",
@@ -11961,14 +12001,6 @@
       "onboard_time": 1685957369,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169257,
-      "num": 169257,
-      "word": "梅西被迫宅在酒店",
-      "onboard_time": 1686485489,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 169217,
@@ -12113,14 +12145,6 @@
       "onboard_time": 1686474569,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166604,
-      "num": 166604,
-      "word": "长大以后才开始被爱",
-      "onboard_time": 1686483928,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 166284,
@@ -13483,14 +13507,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 136960,
-      "num": 136960,
-      "word": "李晨晒奔跑吧泰国大合照",
-      "onboard_time": 1686486330,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136536,
       "num": 136536,
       "word": "李念三胎",
@@ -13612,7 +13628,7 @@
     },
     {
       "raw_hot": 133752,
-      "num": 133752,
+      "num": 142633,
       "word": "梦海里的长城竟然是特效",
       "onboard_time": 1686484826,
       "rank": 46,
@@ -14235,6 +14251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 119473,
+      "num": 119473,
+      "word": "voguefilm",
+      "onboard_time": 1686487468,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119452,
       "num": 119452,
       "word": "小鬼说上海我又回来了",
@@ -14321,6 +14345,14 @@
       "onboard_time": 1685895806,
       "rank": 36,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 116941,
+      "num": 116941,
+      "word": "没看出来徐志胜cos的是澹台烬",
+      "onboard_time": 1686487531,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 116771,

@@ -1,10 +1,10 @@
 {
   "startTime": 1686414062185,
-  "endTime": 1686486661533,
+  "endTime": 1686487638457,
   "band_list": [
     {
-      "raw_hot": 8058470,
-      "num": 8058470,
+      "raw_hot": 9118597,
+      "num": 9118597,
       "word": "自证未偷拍仍遭曝光涉事女子已道歉",
       "onboard_time": 1686483687,
       "rank": 0,
@@ -41,6 +41,14 @@
       "onboard_time": 1686454647,
       "rank": 0,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 2644897,
+      "num": 1104841,
+      "word": "注册不了张z",
+      "onboard_time": 1686475288,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2474214,
@@ -81,14 +89,6 @@
       "onboard_time": 1686408332,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1978354,
-      "num": 1104841,
-      "word": "注册不了张z",
-      "onboard_time": 1686475288,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1859611,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647455,
+      "num": 647455,
+      "word": "白鹿陈都灵戴了同款耳饰",
+      "onboard_time": 1686485365,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 639035,
       "num": 639035,
       "word": "成龙张艺兴娜扎新片传说预告",
@@ -545,14 +553,6 @@
       "onboard_time": 1686389967,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 495843,
-      "num": 495843,
-      "word": "白鹿陈都灵戴了同款耳饰",
-      "onboard_time": 1686485365,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 495167,
@@ -635,6 +635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 388975,
+      "num": 388975,
+      "word": "Jennie身体状况",
+      "onboard_time": 1686486811,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374279,
       "num": 374279,
       "word": "萧敬腾方律师声明",
@@ -689,6 +697,14 @@
       "onboard_time": 1686450688,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327400,
+      "num": 243154,
+      "word": "李晨晒奔跑吧泰国大合照",
+      "onboard_time": 1686486330,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 313953,
@@ -811,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278256,
+      "num": 278256,
+      "word": "王一博黑西装花领带",
+      "onboard_time": 1686486509,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 273591,
       "num": 273591,
       "word": "广州市监测发现两例猴痘病例",
@@ -841,6 +865,14 @@
       "onboard_time": 1686414028,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257728,
+      "num": 257728,
+      "word": "谢淑薇法网女双夺冠",
+      "onboard_time": 1686486391,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 257241,
@@ -955,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238477,
+      "num": 238477,
+      "word": "张雨绮碎钻文学",
+      "onboard_time": 1686484288,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233961,
       "num": 233961,
       "word": "盛宇詹雯婷诀爱太绝了",
@@ -995,6 +1035,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 224448,
+      "num": 224448,
+      "word": "汉阳被撞学生肇事者父母为厅官系谣言",
+      "onboard_time": 1686484108,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223060,
+      "num": 223060,
+      "word": "王玉雯红裙造型",
+      "onboard_time": 1686486992,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221998,
       "num": 221998,
       "word": "妈妈因发不出生活费感到惭愧",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1686453869,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219565,
-      "num": 219565,
-      "word": "谢淑薇法网女双夺冠",
-      "onboard_time": 1686486391,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 218780,
@@ -1107,28 +1155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210516,
-      "num": 210516,
-      "word": "张雨绮碎钻文学",
-      "onboard_time": 1686484288,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210371,
       "num": 144038,
       "word": "全员加速中",
       "onboard_time": 1686394888,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209407,
-      "num": 209407,
-      "word": "汉阳被撞学生肇事者父母为厅官系谣言",
-      "onboard_time": 1686484108,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208984,
@@ -1145,6 +1177,22 @@
       "onboard_time": 1686412529,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208410,
+      "num": 208410,
+      "word": "梅西被迫宅在酒店",
+      "onboard_time": 1686485489,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208157,
+      "num": 208157,
+      "word": "妈你哭什么呢我看见你高兴",
+      "onboard_time": 1686482426,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208105,
@@ -1339,20 +1387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187691,
+      "num": 505377,
+      "word": "顾客自助买凉皮老板快乐收麦子",
+      "onboard_time": 1686484826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186563,
       "num": 186563,
       "word": "邪剑仙根本吸不完",
       "onboard_time": 1686381992,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186245,
-      "num": 186245,
-      "word": "王一博黑西装花领带",
-      "onboard_time": 1686486509,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186192,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1686466527,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183674,
+      "num": 183674,
+      "word": "长大以后才开始被爱",
+      "onboard_time": 1686483928,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183408,
@@ -1435,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177518,
-      "num": 177518,
-      "word": "妈你哭什么呢我看见你高兴",
-      "onboard_time": 1686482426,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "奥利维拉vs大流士",
@@ -1467,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172106,
-      "num": 505377,
-      "word": "顾客自助买凉皮老板快乐收麦子",
-      "onboard_time": 1686484826,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169837,
       "num": 169837,
       "word": "BOYHOOD男团状态",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1686440181,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169257,
-      "num": 169257,
-      "word": "梅西被迫宅在酒店",
-      "onboard_time": 1686485489,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 168734,
@@ -1529,14 +1561,6 @@
       "onboard_time": 1686474569,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166604,
-      "num": 166604,
-      "word": "长大以后才开始被爱",
-      "onboard_time": 1686483928,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 166284,
@@ -1811,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136960,
-      "num": 136960,
-      "word": "李晨晒奔跑吧泰国大合照",
-      "onboard_time": 1686486330,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136500,
       "num": 134658,
       "word": "法老热狗爱人舞台眼泪开关",
@@ -1860,7 +1876,7 @@
     },
     {
       "raw_hot": 133752,
-      "num": 133752,
+      "num": 142633,
       "word": "梦海里的长城竟然是特效",
       "onboard_time": 1686484826,
       "rank": 46,
@@ -1987,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119473,
+      "num": 119473,
+      "word": "voguefilm",
+      "onboard_time": 1686487468,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119452,
       "num": 119452,
       "word": "小鬼说上海我又回来了",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1686464968,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 116941,
+      "num": 116941,
+      "word": "没看出来徐志胜cos的是澹台烬",
+      "onboard_time": 1686487531,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115125,
