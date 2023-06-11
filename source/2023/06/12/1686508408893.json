@@ -1,0 +1,410 @@
+{
+  "runTime": 1686508408893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 734482,
+        "num": 734482,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 421519,
+        "num": 421519,
+        "word": "大叔家属回应被查手机时有地铁车厢照",
+        "onboard_time": 1686500126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8062,
+        "num": 399645,
+        "word": "神舟十号发射成功10周年",
+        "onboard_time": 1686488311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390265,
+        "num": 390265,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284817,
+        "num": 284817,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 150613,
+        "num": 150613,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 237989,
+        "num": 142016,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133344,
+        "num": 133344,
+        "word": "薛之谦说我开始找你了梅西",
+        "onboard_time": 1686493533,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 125019,
+        "num": 125019,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125398,
+        "num": 110707,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463190,
+        "num": 106433,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180758,
+        "num": 100666,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93983,
+        "num": 93983,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85082,
+        "num": 85082,
+        "word": "胡锡进说应接受曝光大叔女子的道歉",
+        "onboard_time": 1686491610,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84981,
+        "num": 84981,
+        "word": "EXO团综",
+        "onboard_time": 1686491251,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81437,
+        "num": 81437,
+        "word": "女乘客空中失聪浙江医生出手了",
+        "onboard_time": 1686499888,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74743,
+        "num": 74743,
+        "word": "light",
+        "onboard_time": 1686502880,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69792,
+        "num": 69792,
+        "word": "爸爸带女儿跑步200余天孩子变化明显",
+        "onboard_time": 1686495513,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66597,
+        "num": 66597,
+        "word": "迪丽热巴蝴蝶骨好明显",
+        "onboard_time": 1686480089,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64657,
+        "num": 64657,
+        "word": "德约科维奇夺大满贯第23冠",
+        "onboard_time": 1686501325,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 145049,
+        "num": 62914,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 56747,
+        "num": 56747,
+        "word": "EXO粉丝开始卷起来了",
+        "onboard_time": 1686492211,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54340,
+        "num": 54340,
+        "word": "心动的信号6",
+        "onboard_time": 1686495755,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53239,
+        "num": 53239,
+        "word": "一巴掌下去眼神都清澈了",
+        "onboard_time": 1686493293,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51614,
+        "num": 51614,
+        "word": "文咏珊4天走5次红毯",
+        "onboard_time": 1686504499,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50893,
+        "num": 50893,
+        "word": "孟佳王霏霏10年前vs现在合照",
+        "onboard_time": 1686502523,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50674,
+        "num": 50674,
+        "word": "白桃星座",
+        "onboard_time": 1686494252,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48987,
+        "num": 48987,
+        "word": "你一般买多少钱一双的袜子",
+        "onboard_time": 1686492869,
+        "rank": 27,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 46433,
+        "num": 46433,
+        "word": "迪丽热巴红毯赶蚊子",
+        "onboard_time": 1686484888,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44001,
+        "num": 44001,
+        "word": "吴京杰森斯坦森外滩吃饺子",
+        "onboard_time": 1686504258,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43209,
+        "num": 43209,
+        "word": "白鹿陈都灵戴了同款耳饰",
+        "onboard_time": 1686485365,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43100,
+        "num": 43100,
+        "word": "过了下班时间窗口工作人员还在办理业务",
+        "onboard_time": 1686500485,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41799,
+        "num": 41799,
+        "word": "李莎旻子说我丢脸丢到国外去了",
+        "onboard_time": 1686506656,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40696,
+        "num": 40696,
+        "word": "李晨晒奔跑吧泰国大合照",
+        "onboard_time": 1686486330,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40688,
+        "num": 40688,
+        "word": "WBG失误",
+        "onboard_time": 1686494432,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39941,
+        "num": 39941,
+        "word": "袁姗姗孔雀开屏耳环",
+        "onboard_time": 1686496531,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39262,
+        "num": 39262,
+        "word": "白敬亭日常记录",
+        "onboard_time": 1686495090,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39152,
+        "num": 39152,
+        "word": "肖春生 我本桀骜少年臣",
+        "onboard_time": 1686496291,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37614,
+        "num": 37614,
+        "word": "郑州打雷",
+        "onboard_time": 1686497310,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36914,
+        "num": 36914,
+        "word": "孙千cos紫萱",
+        "onboard_time": 1686493892,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34405,
+        "num": 34405,
+        "word": "全世界的追星人都一样",
+        "onboard_time": 1686477088,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 33837,
+        "num": 33837,
+        "word": "贺红玲说肖春生甩了她",
+        "onboard_time": 1686488850,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33309,
+        "num": 33309,
+        "word": "广州南站按摩椅出现大量虫子",
+        "onboard_time": 1686492450,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32590,
+        "num": 32590,
+        "word": "张艺兴给新人送二八大杠自行车",
+        "onboard_time": 1686499647,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31715,
+        "num": 31715,
+        "word": "许嵩 音乐节",
+        "onboard_time": 1686491791,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31516,
+        "num": 31516,
+        "word": "赵露思刘宇宁或将二搭",
+        "onboard_time": 1686495453,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29539,
+        "num": 29539,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28413,
+        "num": 28413,
+        "word": "玲娜贝儿跳刘宇洗衣舞",
+        "onboard_time": 1686497552,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27547,
+        "num": 27547,
+        "word": "TES战胜WBG",
+        "onboard_time": 1686494132,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26741,
+        "num": 27544,
+        "word": "广州南站客服回应按摩椅现虫子",
+        "onboard_time": 1686508155,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好中华民族精神生生不息的根脉#"
+    }
+  }
+}
