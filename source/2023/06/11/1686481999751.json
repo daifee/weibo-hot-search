@@ -1,0 +1,410 @@
+{
+  "runTime": 1686481999751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2410335,
+        "num": 2410335,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1055363,
+        "num": 1934549,
+        "word": "员工不接电话浙江老板果断报警",
+        "onboard_time": 1686470427,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43932,
+        "num": 1832362,
+        "word": "龙舟大赛强强对决好热闹",
+        "onboard_time": 1686474569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1809188,
+        "num": 1809188,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 245538,
+        "num": 1587426,
+        "word": "感动全网的高考生计划暑期打工",
+        "onboard_time": 1686475949,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1584783,
+        "num": 1584783,
+        "word": "自证未偷拍大叔儿子希望曝光人道歉",
+        "onboard_time": 1686458729,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212465,
+        "num": 1301840,
+        "word": "女子瘫痪后欲轻生丈夫用爱唤回",
+        "onboard_time": 1686470008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151489,
+        "num": 1151489,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1121431,
+        "num": 1121431,
+        "word": "迪丽热巴蝴蝶骨好明显",
+        "onboard_time": 1686480089,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1017930,
+        "num": 1017930,
+        "word": "网友评的四大女演贝",
+        "onboard_time": 1686470849,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1294080,
+        "num": 910476,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769697,
+        "num": 769697,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 565229,
+        "num": 565229,
+        "word": "孟子义 好过得刚",
+        "onboard_time": 1686463586,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495243,
+        "num": 495243,
+        "word": "你当明星会被扒出什么黑料",
+        "onboard_time": 1686452967,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 24572,
+        "num": 433129,
+        "word": "幼儿高烧昏迷交警接力护送就医",
+        "onboard_time": 1686481225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420048,
+        "num": 420048,
+        "word": "蒋依依希望尽快和平解约",
+        "onboard_time": 1686467367,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409051,
+        "num": 409051,
+        "word": "四川大学",
+        "onboard_time": 1686459988,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387145,
+        "num": 387145,
+        "word": "林志玲谈退出演艺圈",
+        "onboard_time": 1686462569,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364830,
+        "num": 364830,
+        "word": "ENHYPEN翻跳Come2Me",
+        "onboard_time": 1686480626,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344572,
+        "num": 344572,
+        "word": "都给马思纯p成啥样了",
+        "onboard_time": 1686462028,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335846,
+        "num": 335846,
+        "word": "女性受教育程度越高终身不育率越高",
+        "onboard_time": 1686451289,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325526,
+        "num": 325526,
+        "word": "私拆承重墙事件最新通报",
+        "onboard_time": 1686455968,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304325,
+        "num": 304325,
+        "word": "央视网评演员变演贝",
+        "onboard_time": 1686460888,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 299776,
+        "num": 299776,
+        "word": "全世界的追星人都一样",
+        "onboard_time": 1686477088,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 287209,
+        "num": 287209,
+        "word": "王楚钦",
+        "onboard_time": 1686481106,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286981,
+        "num": 286981,
+        "word": "范丞丞王鹤棣把白鹿扔水里了",
+        "onboard_time": 1686459089,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285334,
+        "num": 285334,
+        "word": "梁田从芒果离职",
+        "onboard_time": 1686454647,
+        "rank": 26,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 246621,
+        "num": 246621,
+        "word": "我的农民爸爸读了我的硕士论文",
+        "onboard_time": 1686456869,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235837,
+        "num": 235837,
+        "word": "吴宣仪 音乐节",
+        "onboard_time": 1686476427,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231727,
+        "num": 231727,
+        "word": "王源客厅狂欢巡演live辑预告",
+        "onboard_time": 1686480626,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194424,
+        "num": 194424,
+        "word": "迪奥",
+        "onboard_time": 1686481527,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186580,
+        "num": 186580,
+        "word": "63岁保姆上岗1小时烧焦雇主家水壶",
+        "onboard_time": 1686439399,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166476,
+        "num": 166476,
+        "word": "男朋友紧张时会摸出学生卡壮胆",
+        "onboard_time": 1686474750,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159462,
+        "num": 159462,
+        "word": "惠英红 我是宝贝小斐的一日站姐",
+        "onboard_time": 1686443368,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149770,
+        "num": 149770,
+        "word": "唐九洲奶奶",
+        "onboard_time": 1686452308,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145183,
+        "num": 145183,
+        "word": "mai 法老",
+        "onboard_time": 1686469887,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143338,
+        "num": 143338,
+        "word": "杨幂新电影预告旁白",
+        "onboard_time": 1686479546,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142475,
+        "num": 142475,
+        "word": "何炅抱起谢娜转圈圈",
+        "onboard_time": 1686461847,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140031,
+        "num": 140031,
+        "word": "周柯宇cos长珩仙君",
+        "onboard_time": 1686469166,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139718,
+        "num": 139718,
+        "word": "导演带王一博去日本采风",
+        "onboard_time": 1686474569,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138875,
+        "num": 138875,
+        "word": "LNG辅助",
+        "onboard_time": 1686474029,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132389,
+        "num": 132389,
+        "word": "EDG首场对阵T1",
+        "onboard_time": 1686473789,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130684,
+        "num": 130684,
+        "word": "DK 难评",
+        "onboard_time": 1686470307,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128837,
+        "num": 128837,
+        "word": "香港大黄鸭被热爆一只",
+        "onboard_time": 1686450509,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127323,
+        "num": 127323,
+        "word": "彩虹",
+        "onboard_time": 1686475588,
+        "rank": 44,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 126519,
+        "num": 126519,
+        "word": "没有一顿火锅解决不了的事曝预告",
+        "onboard_time": 1686481766,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126357,
+        "num": 126357,
+        "word": "沈月的综艺感",
+        "onboard_time": 1686476188,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 119452,
+        "word": "小鬼说上海我又回来了",
+        "onboard_time": 1686480028,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115837,
+        "num": 115837,
+        "word": "女子220斤家人为激励减肥奖6万",
+        "onboard_time": 1686481766,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104825,
+        "num": 114136,
+        "word": "彭昱畅说我没事问问许凯吧",
+        "onboard_time": 1686473968,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}
