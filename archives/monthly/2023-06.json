@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686576812968,
+  "endTime": 1686579356567,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1795,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1522238,
+      "num": 1522238,
+      "word": "李耕耘",
+      "onboard_time": 1686576091,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1517203,
       "num": 1517203,
       "word": "男子为考清华复读14年",
@@ -3275,6 +3283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1075379,
+      "num": 1075379,
+      "word": "Rain 街舞6",
+      "onboard_time": 1686570689,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1070604,
       "num": 1070604,
       "word": "我曾一度认为是超市算错了",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1686113026,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 989327,
-      "num": 989327,
-      "word": "Rain 街舞6",
-      "onboard_time": 1686570689,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 986931,
@@ -5195,6 +5203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 705592,
+      "num": 705592,
+      "word": "奔跑吧Sunnee杨芸晴",
+      "onboard_time": 1686575670,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705499,
       "num": 705499,
       "word": "印度火车相撞已致288人死亡",
@@ -6451,6 +6467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541915,
+      "num": 541915,
+      "word": "企业回应禁止婚外情和出轨",
+      "onboard_time": 1686577292,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541556,
       "num": 541556,
       "word": "孟子义给徐志胜卸妆",
@@ -7033,6 +7057,14 @@
       "onboard_time": 1685848345,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486982,
+      "num": 486982,
+      "word": "白鹿的腿自带高光",
+      "onboard_time": 1686577408,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 486474,
@@ -7827,6 +7859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 424843,
+      "num": 424843,
+      "word": "任敏汤晶媚时间线梳理",
+      "onboard_time": 1686573989,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424377,
       "num": 424377,
       "word": "重庆狼队",
@@ -8089,6 +8129,14 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411329,
+      "num": 411329,
+      "word": "你只是需要早点睡觉",
+      "onboard_time": 1686575250,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 411222,
@@ -9515,6 +9563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346576,
+      "num": 346576,
+      "word": "中新网评川大女生地铁曝光大叔",
+      "onboard_time": 1686576689,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346252,
       "num": 346252,
       "word": "法网女双",
@@ -10305,14 +10361,6 @@
       "onboard_time": 1685881111,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 320096,
-      "num": 320096,
-      "word": "任敏汤晶媚时间线梳理",
-      "onboard_time": 1686573989,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 320070,
@@ -12187,6 +12235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274509,
+      "num": 274509,
+      "word": "小鬼直播",
+      "onboard_time": 1686578250,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274408,
       "num": 274408,
       "word": "易烊千玺官宣微博电影之夜",
@@ -12313,14 +12369,6 @@
       "onboard_time": 1686312748,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272424,
-      "num": 255321,
-      "word": "李耕耘",
-      "onboard_time": 1686576091,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 272218,
@@ -12875,6 +12923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262110,
+      "num": 241713,
+      "word": "我看谁还说猫好",
+      "onboard_time": 1686578911,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261869,
       "num": 261869,
       "word": "隐翅虫 重楼解毒酊",
@@ -13203,6 +13259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255738,
+      "num": 255738,
+      "word": "日本核废水",
+      "onboard_time": 1686574770,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255596,
       "num": 255596,
       "word": "公诉",
@@ -13451,14 +13515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251806,
-      "num": 251806,
-      "word": "日本核废水",
-      "onboard_time": 1686574770,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -13473,6 +13529,14 @@
       "onboard_time": 1685589206,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251612,
+      "num": 251612,
+      "word": "还得是EXO",
+      "onboard_time": 1686571227,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 251336,
@@ -13545,14 +13609,6 @@
       "onboard_time": 1685696548,
       "rank": 41,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 250646,
-      "num": 250646,
-      "word": "还得是EXO",
-      "onboard_time": 1686571227,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 250521,
@@ -14611,14 +14667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233799,
-      "num": 233799,
-      "word": "奔跑吧Sunnee杨芸晴",
-      "onboard_time": 1686575670,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233734,
       "num": 173340,
       "word": "密室大逃脱官微评论区",
@@ -15403,14 +15451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223679,
-      "num": 223679,
-      "word": "你只是需要早点睡觉",
-      "onboard_time": 1686575250,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 223555,
       "num": 211532,
       "word": "周深撕了李晨名牌",
@@ -15473,6 +15513,14 @@
       "onboard_time": 1685966486,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221621,
+      "num": 221621,
+      "word": "蔡徐坤拿了好多奶瓶",
+      "onboard_time": 1686578490,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221535,
@@ -15633,6 +15681,14 @@
       "onboard_time": 1685626772,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219726,
+      "num": 219726,
+      "word": "王子奇王玉雯说四搭演西游记",
+      "onboard_time": 1686577232,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 219719,
@@ -17091,6 +17147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203014,
+      "num": 203014,
+      "word": "千万不要在公司展现其他技能",
+      "onboard_time": 1686574109,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202897,
       "num": 202897,
       "word": "叶国华造孽刘芮麟还",
@@ -17179,6 +17243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202145,
+      "num": 435322,
+      "word": "俩男童凌晨坐巷子路人暖心帮助",
+      "onboard_time": 1686574830,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201884,
       "num": 176511,
       "word": "佟晓梅怎么会不爱上肖春生",
@@ -17217,14 +17289,6 @@
       "onboard_time": 1686554788,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201607,
-      "num": 201607,
-      "word": "千万不要在公司展现其他技能",
-      "onboard_time": 1686574109,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 201563,
@@ -20331,6 +20395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169760,
+      "num": 169760,
+      "word": "肖春生胸肌",
+      "onboard_time": 1686579091,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169739,
       "num": 169739,
       "word": "每个考生背后都有一群人",
@@ -20457,6 +20529,14 @@
       "onboard_time": 1685785349,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168750,
+      "num": 168750,
+      "word": "15寸MacBookAir值得买吗",
+      "onboard_time": 1686577949,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 168743,
@@ -21521,14 +21601,6 @@
       "onboard_time": 1685795128,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156365,
-      "num": 435322,
-      "word": "俩男童凌晨坐巷子路人暖心帮助",
-      "onboard_time": 1686574830,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -22937,6 +23009,14 @@
       "onboard_time": 1686552208,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137264,
+      "num": 137264,
+      "word": "BLG对战AL",
+      "onboard_time": 1686578671,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 137119,
@@ -25291,14 +25371,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 100047,
-      "num": 186032,
-      "word": "中新网评川大女生地铁曝光大叔",
-      "onboard_time": 1686576689,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99916,
       "num": 1204026,
       "word": "汉唐风格的西安国家版本馆大气唯美",
@@ -25513,6 +25585,14 @@
       "onboard_time": 1686295591,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94183,
+      "num": 1306549,
+      "word": "复兴号开进青藏铁路倒计时",
+      "onboard_time": 1686577650,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94171,
@@ -27739,6 +27819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 6157,
+      "num": 521741,
+      "word": "迷路萌娃迷之自信整蒙民警",
+      "onboard_time": 1686579213,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5391,
       "num": 578183,
       "word": "无限画里的童年",
@@ -27882,6 +27970,9 @@
     },
     {
       "word": "#国家助学贷款累计发放超4000亿元#"
+    },
+    {
+      "word": "#习近平同洪都拉斯总统卡斯特罗举行会谈#"
     }
   ]
 }

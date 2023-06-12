@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686576812968,
+  "endTime": 1686579356567,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1522238,
+      "num": 1522238,
+      "word": "李耕耘",
+      "onboard_time": 1686576091,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1507639,
       "num": 1507639,
       "word": "博主因性别称谓发视频曝光空乘",
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1075379,
+      "num": 1075379,
+      "word": "Rain 街舞6",
+      "onboard_time": 1686570689,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1031231,
       "num": 1031231,
       "word": "江歌妈妈将赔偿款全额捐出",
@@ -273,14 +289,6 @@
       "onboard_time": 1686541052,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 989327,
-      "num": 989327,
-      "word": "Rain 街舞6",
-      "onboard_time": 1686570689,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 964196,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705592,
+      "num": 705592,
+      "word": "奔跑吧Sunnee杨芸晴",
+      "onboard_time": 1686575670,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541915,
+      "num": 541915,
+      "word": "企业回应禁止婚外情和出轨",
+      "onboard_time": 1686577292,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522550,
       "num": 332652,
       "word": "原来跷二郎腿还会让脸变大",
@@ -520,6 +544,14 @@
       "word": "Angelababy卷发双马尾",
       "onboard_time": 1686560789,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 486982,
+      "num": 486982,
+      "word": "白鹿的腿自带高光",
+      "onboard_time": 1686577408,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -579,12 +611,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 424843,
+      "num": 424843,
+      "word": "任敏汤晶媚时间线梳理",
+      "onboard_time": 1686573989,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411467,
       "num": 411467,
       "word": "梅西见面会取消",
       "onboard_time": 1686477088,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411329,
+      "num": 411329,
+      "word": "你只是需要早点睡觉",
+      "onboard_time": 1686575250,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 405669,
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346576,
+      "num": 346576,
+      "word": "中新网评川大女生地铁曝光大叔",
+      "onboard_time": 1686576689,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343025,
       "num": 343025,
       "word": "let me in",
@@ -761,14 +817,6 @@
       "onboard_time": 1686539009,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 320096,
-      "num": 320096,
-      "word": "任敏汤晶媚时间线梳理",
-      "onboard_time": 1686573989,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 309209,
@@ -875,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272424,
-      "num": 255321,
-      "word": "李耕耘",
-      "onboard_time": 1686576091,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 274509,
+      "num": 274509,
+      "word": "小鬼直播",
+      "onboard_time": 1686578250,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 270364,
@@ -907,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262110,
+      "num": 241713,
+      "word": "我看谁还说猫好",
+      "onboard_time": 1686578911,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260497,
       "num": 260497,
       "word": "你见过699元的袜子吗",
@@ -931,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255738,
+      "num": 255738,
+      "word": "日本核废水",
+      "onboard_time": 1686574770,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252803,
       "num": 192693,
       "word": "袁姗姗孔雀开屏耳环",
@@ -947,12 +1011,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251806,
-      "num": 251806,
-      "word": "日本核废水",
-      "onboard_time": 1686574770,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 251612,
+      "num": 251612,
+      "word": "还得是EXO",
+      "onboard_time": 1686571227,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 250893,
@@ -960,14 +1024,6 @@
       "word": "SEVENTEEN澳门音乐节",
       "onboard_time": 1686563010,
       "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 250646,
-      "num": 250646,
-      "word": "还得是EXO",
-      "onboard_time": 1686571227,
-      "rank": 28,
       "category": "音乐"
     },
     {
@@ -1059,14 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233799,
-      "num": 233799,
-      "word": "奔跑吧Sunnee杨芸晴",
-      "onboard_time": 1686575670,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233572,
       "num": 233572,
       "word": "薛之谦合肥",
@@ -1091,14 +1139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223679,
-      "num": 223679,
-      "word": "你只是需要早点睡觉",
-      "onboard_time": 1686575250,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 222721,
       "num": 222721,
       "word": "当反断舍离血脉觉醒",
@@ -1115,12 +1155,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221621,
+      "num": 221621,
+      "word": "蔡徐坤拿了好多奶瓶",
+      "onboard_time": 1686578490,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "YG辟谣Jennie加入漫威",
       "onboard_time": 1686560070,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219726,
+      "num": 219726,
+      "word": "王子奇王玉雯说四搭演西游记",
+      "onboard_time": 1686577232,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 219119,
@@ -1275,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203014,
+      "num": 203014,
+      "word": "千万不要在公司展现其他技能",
+      "onboard_time": 1686574109,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202762,
       "num": 202762,
       "word": "亚运征途",
@@ -1291,20 +1355,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202145,
+      "num": 435322,
+      "word": "俩男童凌晨坐巷子路人暖心帮助",
+      "onboard_time": 1686574830,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201648,
       "num": 201648,
       "word": "乐华2023家族演唱会艺人阵容",
       "onboard_time": 1686554788,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201607,
-      "num": 201607,
-      "word": "千万不要在公司展现其他技能",
-      "onboard_time": 1686574109,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 200853,
@@ -1627,12 +1691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169760,
+      "num": 169760,
+      "word": "肖春生胸肌",
+      "onboard_time": 1686579091,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169571,
       "num": 169571,
       "word": "第四届TMEA首波阵容官宣",
       "onboard_time": 1686552389,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168750,
+      "num": 168750,
+      "word": "15寸MacBookAir值得买吗",
+      "onboard_time": 1686577949,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 164823,
@@ -1681,14 +1761,6 @@
       "onboard_time": 1686562052,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156365,
-      "num": 435322,
-      "word": "俩男童凌晨坐巷子路人暖心帮助",
-      "onboard_time": 1686574830,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -1881,6 +1953,14 @@
       "onboard_time": 1686552208,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137264,
+      "num": 137264,
+      "word": "BLG对战AL",
+      "onboard_time": 1686578671,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 137050,
@@ -2203,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100047,
-      "num": 186032,
-      "word": "中新网评川大女生地铁曝光大叔",
-      "onboard_time": 1686576689,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99916,
       "num": 1204026,
       "word": "汉唐风格的西安国家版本馆大气唯美",
@@ -2241,6 +2313,14 @@
       "onboard_time": 1686568948,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94183,
+      "num": 1306549,
+      "word": "复兴号开进青藏铁路倒计时",
+      "onboard_time": 1686577650,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93874,
@@ -2401,6 +2481,14 @@
       "onboard_time": 1686514212,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 6157,
+      "num": 521741,
+      "word": "迷路萌娃迷之自信整蒙民警",
+      "onboard_time": 1686579213,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2418,6 +2506,9 @@
     },
     {
       "word": "#国家助学贷款累计发放超4000亿元#"
+    },
+    {
+      "word": "#习近平同洪都拉斯总统卡斯特罗举行会谈#"
     }
   ]
 }
