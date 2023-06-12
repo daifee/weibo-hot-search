@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686604492369,
+  "endTime": 1686605605511,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24223,
+      "num": 23294,
+      "word": "叶国华不知道肖春生的腿好了",
+      "onboard_time": 1686604152,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24207,
       "num": 36285,
       "word": "钟文泽MacBookAir15评测",
@@ -473,14 +481,6 @@
       "onboard_time": 1686578490,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13397,
-      "num": 16961,
-      "word": "叶国华不知道肖春生的腿好了",
-      "onboard_time": 1686604152,
-      "rank": 48,
-      "category": "影视"
     }
   ],
   "hotgov_list": [

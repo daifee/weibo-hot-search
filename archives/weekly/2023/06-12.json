@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686604492369,
+  "endTime": 1686605605511,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -2699,6 +2699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 24223,
+      "num": 23294,
+      "word": "叶国华不知道肖春生的腿好了",
+      "onboard_time": 1686604152,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23106,
       "num": 511642,
       "word": "2023高考志愿填报十问十答",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1686514212,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13397,
-      "num": 16961,
-      "word": "叶国华不知道肖春生的腿好了",
-      "onboard_time": 1686604152,
-      "rank": 48,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
