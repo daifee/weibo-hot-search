@@ -1,0 +1,410 @@
+{
+  "runTime": 1686612831866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1451284,
+        "num": 1451284,
+        "word": "中国唯一上榜的世界最美图书馆",
+        "onboard_time": 1686584309,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936852,
+        "num": 936852,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110438,
+        "num": 824617,
+        "word": "短途游3小时高铁圈",
+        "onboard_time": 1686577470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811521,
+        "num": 811521,
+        "word": "三子深夜大战不孕不育榴莲",
+        "onboard_time": 1686584788,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 764877,
+        "num": 764877,
+        "word": "余生夫妇vs春晓夫妇",
+        "onboard_time": 1686582391,
+        "rank": 4,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 623083,
+        "num": 623083,
+        "word": "杭州师范大学",
+        "onboard_time": 1686611720,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 600576,
+        "num": 600576,
+        "word": "60岁阿姨健身22年后的样子",
+        "onboard_time": 1686571227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590536,
+        "num": 590536,
+        "word": "企业回应禁止婚外情和出轨",
+        "onboard_time": 1686577292,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404790,
+        "num": 404790,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338481,
+        "num": 338481,
+        "word": "白鹿的腿自带高光",
+        "onboard_time": 1686577408,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1010513,
+        "num": 330645,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723234,
+        "num": 328640,
+        "word": "现代人已经不吃鸡汤了",
+        "onboard_time": 1686610940,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411186,
+        "num": 323827,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309871,
+        "num": 309871,
+        "word": "不孕不育是榴莲最好的福报",
+        "onboard_time": 1686571348,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236874,
+        "num": 236874,
+        "word": "初级会计",
+        "onboard_time": 1686584129,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224115,
+        "num": 224115,
+        "word": "十个勤天去哪了",
+        "onboard_time": 1686581910,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222634,
+        "num": 222634,
+        "word": "各种大蠊已经进军北方",
+        "onboard_time": 1686567450,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178576,
+        "num": 178576,
+        "word": "你只是需要早点睡觉",
+        "onboard_time": 1686575250,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 171026,
+        "num": 171026,
+        "word": "王鹤棣蔡徐坤范丞丞三个校草",
+        "onboard_time": 1686585867,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "中新网评川大女生地铁曝光大叔",
+        "onboard_time": 1686576689,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227062,
+        "num": 164320,
+        "word": "男子赴江西一高校殴打出轨妻子",
+        "onboard_time": 1686580590,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199714,
+        "num": 164278,
+        "word": "官方通报女干部被带去酒局灌酒",
+        "onboard_time": 1686567149,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163288,
+        "num": 163288,
+        "word": "日本核废水",
+        "onboard_time": 1686574770,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163130,
+        "num": 163130,
+        "word": "张彬彬的粉底咋回事",
+        "onboard_time": 1686570389,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149286,
+        "num": 149286,
+        "word": "相亲对象真的好靠谱",
+        "onboard_time": 1686570870,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120878,
+        "num": 120878,
+        "word": "叶国华不知道肖春生的腿好了",
+        "onboard_time": 1686604152,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114755,
+        "num": 114755,
+        "word": "阿信为陈绮贞发长文",
+        "onboard_time": 1686570210,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120851,
+        "num": 114744,
+        "word": "肖春生一首爱情不玲送给贺红玲",
+        "onboard_time": 1686582630,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112105,
+        "num": 112105,
+        "word": "曝光大叔女子道歉后舆论为何未平息",
+        "onboard_time": 1686596953,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109036,
+        "num": 109036,
+        "word": "Twice和once你们不要再打了啦",
+        "onboard_time": 1686611240,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107491,
+        "num": 107491,
+        "word": "年轻人不睡觉的原因找到了",
+        "onboard_time": 1686579751,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105714,
+        "num": 105714,
+        "word": "猫突然入镜被男子推下山崖",
+        "onboard_time": 1686569908,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105679,
+        "num": 105679,
+        "word": "亲密关系最重要的是平衡点",
+        "onboard_time": 1686610940,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101455,
+        "num": 101455,
+        "word": "丧失了喜欢一个人的能力",
+        "onboard_time": 1686580171,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100607,
+        "num": 100607,
+        "word": "梅西直播",
+        "onboard_time": 1686570268,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97789,
+        "num": 97789,
+        "word": "种地吧",
+        "onboard_time": 1686612142,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94671,
+        "num": 94671,
+        "word": "任敏汤晶媚时间线梳理",
+        "onboard_time": 1686573989,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97734,
+        "num": 92487,
+        "word": "李耕耘",
+        "onboard_time": 1686576091,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89360,
+        "num": 89360,
+        "word": "Rain 街舞6",
+        "onboard_time": 1686570689,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84691,
+        "num": 84691,
+        "word": "农妇19年不离不弃唤醒植物人丈夫",
+        "onboard_time": 1686612081,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83457,
+        "num": 83457,
+        "word": "张小斐回应惠英红的新欢旧爱",
+        "onboard_time": 1686573631,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80350,
+        "num": 80350,
+        "word": "陶晶莹 人生路漫漫哪里没猪头",
+        "onboard_time": 1686583109,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78806,
+        "num": 78806,
+        "word": "还得是EXO",
+        "onboard_time": 1686571227,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76566,
+        "num": 76566,
+        "word": "范丞丞拉着Angelababy挥手",
+        "onboard_time": 1686585387,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70951,
+        "num": 70951,
+        "word": "沈月捧花头像",
+        "onboard_time": 1686572007,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67042,
+        "num": 67042,
+        "word": "教资面试",
+        "onboard_time": 1686612684,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66294,
+        "num": 66294,
+        "word": "Lisa老师没收游戏机",
+        "onboard_time": 1686610999,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65531,
+        "num": 65531,
+        "word": "西瓜白粥",
+        "onboard_time": 1686582691,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60195,
+        "num": 60195,
+        "word": "钟文泽MacBookAir15评测",
+        "onboard_time": 1686581671,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 59142,
+        "num": 59142,
+        "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+        "onboard_time": 1686567329,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统卡斯特罗举行会谈#"
+    }
+  }
+}
