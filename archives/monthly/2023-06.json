@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686580431640,
+  "endTime": 1686583058488,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -249,6 +249,14 @@
       "onboard_time": 1686107980,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 3148501,
+      "num": 3148501,
+      "word": "李耕耘",
+      "onboard_time": 1686576091,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 3115180,
@@ -737,14 +745,6 @@
       "onboard_time": 1685752465,
       "rank": 0,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 2199866,
-      "num": 2199866,
-      "word": "李耕耘",
-      "onboard_time": 1686576091,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 2183531,
@@ -5075,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736126,
+      "num": 736126,
+      "word": "企业回应禁止婚外情和出轨",
+      "onboard_time": 1686577292,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "花少 邓恩熙",
@@ -5880,14 +5888,6 @@
       "word": "亲爱的李华以后信要自己写了",
       "onboard_time": 1685954969,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611543,
-      "num": 611543,
-      "word": "企业回应禁止婚外情和出轨",
-      "onboard_time": 1686577292,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -6763,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510977,
+      "num": 510977,
+      "word": "西瓜白粥",
+      "onboard_time": 1686582691,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 507598,
       "num": 253108,
       "word": "肖战 CHALI",
@@ -7088,6 +7096,14 @@
       "word": "Angelababy泰国跑男路透",
       "onboard_time": 1686400129,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 485271,
+      "num": 485271,
+      "word": "十个勤天去哪了",
+      "onboard_time": 1686581910,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -8769,6 +8785,14 @@
       "onboard_time": 1685549369,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377381,
+      "num": 377381,
+      "word": "年轻人不睡觉的原因找到了",
+      "onboard_time": 1686579751,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 377277,
@@ -13555,6 +13579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 251092,
+      "num": 251092,
+      "word": "丧失了喜欢一个人的能力",
+      "onboard_time": 1686580171,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251035,
       "num": 251035,
       "word": "文汇报评肖战李沁梦中的那片海",
@@ -15075,6 +15107,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 228493,
+      "num": 228493,
+      "word": "钟文泽MacBookAir15评测",
+      "onboard_time": 1686581671,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 228339,
       "num": 228339,
       "word": "肖战刘芮麟敬礼变装",
@@ -16435,6 +16475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211094,
+      "num": 211094,
+      "word": "肖春生一首爱情不玲送给贺红玲",
+      "onboard_time": 1686582630,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211088,
       "num": 191738,
       "word": "优酷 护心热度",
@@ -16451,12 +16499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211054,
+      "num": 211054,
+      "word": "男子赴江西一高校殴打出轨妻子",
+      "onboard_time": 1686580590,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211046,
       "num": 211046,
       "word": "2023KPL夏季赛大名单",
       "onboard_time": 1686200497,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210982,
+      "num": 210982,
+      "word": "余生夫妇vs春晓夫妇",
+      "onboard_time": 1686582391,
+      "rank": 35,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 210835,
@@ -16704,6 +16768,14 @@
       "word": "周润发说当演员很辛苦当明星简单很多",
       "onboard_time": 1686237152,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208723,
+      "num": 198387,
+      "word": "奶狗肖春生vs狼狗肖春生",
+      "onboard_time": 1686581191,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -18123,14 +18195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193409,
-      "num": 193409,
-      "word": "丧失了喜欢一个人的能力",
-      "onboard_time": 1686580171,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193381,
       "num": 193381,
       "word": "蔡徐坤把姚译添扔水里了",
@@ -18777,6 +18841,14 @@
       "onboard_time": 1685961387,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "陈绮贞律师声明",
+      "onboard_time": 1686582211,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 189025,
@@ -19875,14 +19947,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 177461,
-      "num": 177461,
-      "word": "年轻人不睡觉的原因找到了",
-      "onboard_time": 1686579751,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177455,
       "num": 177455,
       "word": "长月烬明里究竟谁扛剧",
@@ -20345,6 +20409,14 @@
       "onboard_time": 1685934628,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171414,
+      "num": 171414,
+      "word": "肖战很佩服肖春生永远在坚守自己",
+      "onboard_time": 1686580468,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 171231,
@@ -27049,6 +27121,14 @@
       "onboard_time": 1685639000,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 50813,
+      "num": 509697,
+      "word": "外卖小哥跳河救起老人又继续送单",
+      "onboard_time": 1686582031,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50553,

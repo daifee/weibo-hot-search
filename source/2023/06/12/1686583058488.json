@@ -1,0 +1,410 @@
+{
+  "runTime": 1686583058488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3148501,
+        "num": 3148501,
+        "word": "李耕耘",
+        "onboard_time": 1686576091,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1380815,
+        "num": 1380815,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88950,
+        "num": 1079159,
+        "word": "复兴号开进青藏铁路倒计时",
+        "onboard_time": 1686577650,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958480,
+        "num": 958480,
+        "word": "Rain 街舞6",
+        "onboard_time": 1686570689,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 945312,
+        "num": 945312,
+        "word": "不孕不育是榴莲最好的福报",
+        "onboard_time": 1686571348,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 804297,
+        "num": 804297,
+        "word": "张彬彬的粉底咋回事",
+        "onboard_time": 1686570389,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736126,
+        "num": 736126,
+        "word": "企业回应禁止婚外情和出轨",
+        "onboard_time": 1686577292,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657152,
+        "num": 657152,
+        "word": "女博士毕业丈夫称赞她是全家骄傲",
+        "onboard_time": 1686566009,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564058,
+        "num": 564058,
+        "word": "白鹿的腿自带高光",
+        "onboard_time": 1686577408,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561629,
+        "num": 561629,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1065583,
+        "num": 552028,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538860,
+        "num": 538860,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528163,
+        "num": 528163,
+        "word": "奔跑吧Sunnee杨芸晴",
+        "onboard_time": 1686575670,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510977,
+        "num": 510977,
+        "word": "西瓜白粥",
+        "onboard_time": 1686582691,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50813,
+        "num": 509697,
+        "word": "外卖小哥跳河救起老人又继续送单",
+        "onboard_time": 1686582031,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509608,
+        "num": 509608,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 502458,
+        "num": 502458,
+        "word": "KPOP真的来了",
+        "onboard_time": 1686563669,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498874,
+        "num": 498874,
+        "word": "官方通报女干部被带去酒局灌酒",
+        "onboard_time": 1686567149,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485271,
+        "num": 485271,
+        "word": "十个勤天去哪了",
+        "onboard_time": 1686581910,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409988,
+        "num": 409988,
+        "word": "中新网评川大女生地铁曝光大叔",
+        "onboard_time": 1686576689,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402814,
+        "num": 402814,
+        "word": "你只是需要早点睡觉",
+        "onboard_time": 1686575250,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 377381,
+        "num": 377381,
+        "word": "年轻人不睡觉的原因找到了",
+        "onboard_time": 1686579751,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371970,
+        "num": 371970,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370093,
+        "num": 370093,
+        "word": "沈月捧花头像",
+        "onboard_time": 1686572007,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287123,
+        "num": 287123,
+        "word": "小鬼直播",
+        "onboard_time": 1686578250,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270975,
+        "num": 270975,
+        "word": "又一部炸裂的韩综",
+        "onboard_time": 1686562527,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269032,
+        "num": 269032,
+        "word": "阿信为陈绮贞发长文",
+        "onboard_time": 1686570210,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264124,
+        "num": 264124,
+        "word": "还得是EXO",
+        "onboard_time": 1686571227,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259370,
+        "num": 259370,
+        "word": "应采儿回应把hoho当成女孩养",
+        "onboard_time": 1686561149,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251092,
+        "num": 251092,
+        "word": "丧失了喜欢一个人的能力",
+        "onboard_time": 1686580171,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250825,
+        "num": 250825,
+        "word": "梅西直播",
+        "onboard_time": 1686570268,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228493,
+        "num": 228493,
+        "word": "钟文泽MacBookAir15评测",
+        "onboard_time": 1686581671,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 218373,
+        "num": 218373,
+        "word": "60岁阿姨健身22年后的样子",
+        "onboard_time": 1686571227,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211094,
+        "num": 211094,
+        "word": "肖春生一首爱情不玲送给贺红玲",
+        "onboard_time": 1686582630,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211054,
+        "num": 211054,
+        "word": "男子赴江西一高校殴打出轨妻子",
+        "onboard_time": 1686580590,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210982,
+        "num": 210982,
+        "word": "余生夫妇vs春晓夫妇",
+        "onboard_time": 1686582391,
+        "rank": 35,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 206291,
+        "num": 206291,
+        "word": "蔡徐坤拿了好多奶瓶",
+        "onboard_time": 1686578490,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208723,
+        "num": 198387,
+        "word": "奶狗肖春生vs狼狗肖春生",
+        "onboard_time": 1686581191,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189134,
+        "num": 189134,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189117,
+        "num": 189117,
+        "word": "陈绮贞律师声明",
+        "onboard_time": 1686582211,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184695,
+        "num": 184695,
+        "word": "王子奇王玉雯说四搭演西游记",
+        "onboard_time": 1686577232,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178247,
+        "num": 178247,
+        "word": "EXO专辑",
+        "onboard_time": 1686564627,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171414,
+        "num": 171414,
+        "word": "肖战很佩服肖春生永远在坚守自己",
+        "onboard_time": 1686580468,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172356,
+        "num": 170806,
+        "word": "EXO先行曲MV",
+        "onboard_time": 1686562768,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168746,
+        "num": 168746,
+        "word": "肖春生胸肌",
+        "onboard_time": 1686579091,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161553,
+        "num": 161553,
+        "word": "各种大蠊已经进军北方",
+        "onboard_time": 1686567450,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160738,
+        "num": 160738,
+        "word": "相亲对象真的好靠谱",
+        "onboard_time": 1686570870,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136534,
+        "num": 136534,
+        "word": "日本核废水",
+        "onboard_time": 1686574770,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116521,
+        "num": 136450,
+        "word": "猫突然入镜被男子推下山崖",
+        "onboard_time": 1686569908,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103173,
+        "num": 135861,
+        "word": "千万不要在公司展现其他技能",
+        "onboard_time": 1686574109,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}
