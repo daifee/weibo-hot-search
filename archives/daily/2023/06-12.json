@@ -1,10 +1,10 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686540187566,
+  "endTime": 1686540892030,
   "band_list": [
     {
-      "raw_hot": 4862758,
-      "num": 4862758,
+      "raw_hot": 7888972,
+      "num": 7888972,
       "word": "四川大学称将依规依纪处理",
       "onboard_time": 1686534508,
       "rank": 5,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 680234,
+      "num": 680234,
+      "word": "江歌妈妈将赔偿款全额捐出",
+      "onboard_time": 1686539909,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665381,
       "num": 333298,
       "word": "北京政法职业学院发布情况通报",
@@ -171,16 +179,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 555872,
-      "num": 555872,
+      "raw_hot": 582046,
+      "num": 582046,
       "word": "苏炳添决定不参加世锦赛和亚运会",
       "onboard_time": 1686536968,
       "rank": 13,
       "category": "体育"
     },
     {
-      "raw_hot": 534162,
-      "num": 534162,
+      "raw_hot": 551478,
+      "num": 551478,
       "word": "黄磊给谭松韵遮阳",
       "onboard_time": 1686535827,
       "rank": 23,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266244,
+      "num": 266244,
+      "word": "曝光大叔女子值得同情吗",
+      "onboard_time": 1686537749,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
@@ -363,14 +379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 252696,
-      "num": 252696,
-      "word": "江歌妈妈将赔偿款全额捐出",
-      "onboard_time": 1686539909,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250179,
       "num": 250179,
       "word": "蒋依依希望尽快和平解约",
@@ -387,20 +395,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241781,
-      "num": 241781,
-      "word": "曝光大叔女子值得同情吗",
-      "onboard_time": 1686537749,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219119,
       "num": 219119,
       "word": "EXO正规七辑EXIST",
       "onboard_time": 1686525983,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218271,
+      "num": 218271,
+      "word": "找对风格的李兰迪",
+      "onboard_time": 1686540568,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217888,
+      "num": 217888,
+      "word": "成年人不管多难过都准时上班",
+      "onboard_time": 1686539009,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 217110,
@@ -507,6 +523,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 197600,
+      "num": 197600,
+      "word": "亚运征途参赛名单公布",
+      "onboard_time": 1686540692,
+      "rank": 31,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 196330,
       "num": 196330,
       "word": "WBG失误",
@@ -547,20 +571,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 188748,
+      "num": 188748,
+      "word": "王鹤棣身上的松弛感",
+      "onboard_time": 1686540509,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186711,
       "num": 186711,
       "word": "金智秀Jennie同框照",
       "onboard_time": 1686497429,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 183903,
-      "num": 183903,
-      "word": "成年人不管多难过都准时上班",
-      "onboard_time": 1686539009,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 182479,
@@ -691,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139694,
+      "num": 139694,
+      "word": "如何看待明星说错话",
+      "onboard_time": 1686540812,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 139638,
       "num": 139638,
       "word": "中考",
@@ -713,6 +745,14 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 133666,
+      "num": 133666,
+      "word": "明星带货也要带上常识",
+      "onboard_time": 1686540630,
+      "rank": 48,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 133549,

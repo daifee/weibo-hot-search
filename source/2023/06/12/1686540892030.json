@@ -1,0 +1,410 @@
+{
+  "runTime": 1686540892030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7888972,
+        "num": 7888972,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1560979,
+        "num": 1560979,
+        "word": "李希侃道歉",
+        "onboard_time": 1686535648,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26579,
+        "num": 1057217,
+        "word": "神舟十号发射成功10周年",
+        "onboard_time": 1686488311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1912010,
+        "num": 1050596,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 763242,
+        "num": 763242,
+        "word": "何瑞贤新剧刚怀孕就被陷害流产",
+        "onboard_time": 1686531870,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035803,
+        "num": 759805,
+        "word": "高考结束男朋友牵我的手冲出考场",
+        "onboard_time": 1686531390,
+        "rank": 5,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 747061,
+        "num": 747061,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 680234,
+        "num": 680234,
+        "word": "江歌妈妈将赔偿款全额捐出",
+        "onboard_time": 1686539909,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582046,
+        "num": 582046,
+        "word": "苏炳添决定不参加世锦赛和亚运会",
+        "onboard_time": 1686536968,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551478,
+        "num": 551478,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1118674,
+        "num": 546984,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700074,
+        "num": 543964,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516497,
+        "num": 516497,
+        "word": "入住毛坯房的我在小区出名了",
+        "onboard_time": 1686527006,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514705,
+        "num": 514705,
+        "word": "黄景瑜和极限挑战保安打起来了",
+        "onboard_time": 1686526884,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373871,
+        "num": 373871,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 371400,
+        "num": 371400,
+        "word": "文章包文婧组团带娃逛迪士尼",
+        "onboard_time": 1686529288,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359897,
+        "num": 359897,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357300,
+        "num": 357300,
+        "word": "大叔家属回应被查手机时有地铁车厢照",
+        "onboard_time": 1686500126,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344087,
+        "num": 344087,
+        "word": "蔚来全系车型降价3万元",
+        "onboard_time": 1686537027,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 321229,
+        "num": 321229,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 698857,
+        "num": 304486,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395270,
+        "num": 303176,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336571,
+        "num": 299553,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 284151,
+        "num": 284151,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276752,
+        "num": 276752,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 266244,
+        "num": 266244,
+        "word": "曝光大叔女子值得同情吗",
+        "onboard_time": 1686537749,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250932,
+        "num": 250932,
+        "word": "薛之谦说我开始找你了梅西",
+        "onboard_time": 1686493533,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 247865,
+        "num": 247865,
+        "word": "BBC卧底记者",
+        "onboard_time": 1686535648,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218271,
+        "num": 218271,
+        "word": "找对风格的李兰迪",
+        "onboard_time": 1686540568,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217888,
+        "num": 217888,
+        "word": "成年人不管多难过都准时上班",
+        "onboard_time": 1686539009,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 213883,
+        "num": 213883,
+        "word": "如何看待明星公开炫富",
+        "onboard_time": 1686537448,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 197600,
+        "num": 197600,
+        "word": "亚运征途参赛名单公布",
+        "onboard_time": 1686540692,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 189601,
+        "num": 189601,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 188748,
+        "num": 188748,
+        "word": "王鹤棣身上的松弛感",
+        "onboard_time": 1686540509,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185920,
+        "num": 185920,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184214,
+        "num": 184214,
+        "word": "花戎无妻徒刑",
+        "onboard_time": 1686535466,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171044,
+        "num": 171044,
+        "word": "爸爸带女儿跑步200余天孩子变化明显",
+        "onboard_time": 1686495513,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160487,
+        "num": 160487,
+        "word": "王一博影视剧的原声率",
+        "onboard_time": 1686539428,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159942,
+        "num": 159942,
+        "word": "你见过699元的袜子吗",
+        "onboard_time": 1686531091,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153308,
+        "num": 153308,
+        "word": "高中男生称这个国家有我想保护的人",
+        "onboard_time": 1686536846,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 152830,
+        "num": 152830,
+        "word": "第一次大学毕业赠品还挺多",
+        "onboard_time": 1686539489,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144275,
+        "num": 144275,
+        "word": "EXO正规七辑EXIST",
+        "onboard_time": 1686525983,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143951,
+        "num": 143951,
+        "word": "老板上班写小说算摸鱼吗",
+        "onboard_time": 1686537689,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139720,
+        "num": 139720,
+        "word": "张云雷不热吗",
+        "onboard_time": 1686529468,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139694,
+        "num": 139694,
+        "word": "如何看待明星说错话",
+        "onboard_time": 1686540812,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 139626,
+        "num": 139626,
+        "word": "YG出小分队的方式好炸裂",
+        "onboard_time": 1686534446,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138029,
+        "num": 138029,
+        "word": "内娱莽夫遇上撒娇妲己",
+        "onboard_time": 1686538048,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134087,
+        "num": 134087,
+        "word": "女子雨中3小时救助快递柜中小猫",
+        "onboard_time": 1686534626,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133666,
+        "num": 133666,
+        "word": "明星带货也要带上常识",
+        "onboard_time": 1686540630,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 130675,
+        "num": 133622,
+        "word": "剑网3",
+        "onboard_time": 1686539068,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}
