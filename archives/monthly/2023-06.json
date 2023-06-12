@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686548012363,
+  "endTime": 1686550958697,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -193,6 +193,14 @@
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3409292,
+      "num": 3409292,
+      "word": "五月天退票",
+      "onboard_time": 1686544298,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 3325416,
@@ -987,14 +995,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 1970771,
-      "num": 1970771,
-      "word": "五月天退票",
-      "onboard_time": 1686544298,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1956300,
       "num": 1956300,
       "word": "79岁老人欲取离世儿子41万存款被拒",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1686456329,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1723549,
+      "num": 1723549,
+      "word": "华晨宇长沙退票",
+      "onboard_time": 1686547410,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1722394,
@@ -2539,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1233395,
+      "num": 585826,
+      "word": "何超仪 上次人这么齐还是在殡仪馆",
+      "onboard_time": 1686545674,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1232669,
       "num": 1232669,
       "word": "金智秀新冠确诊",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1686203131,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1217851,
+      "num": 1217851,
+      "word": "博主因性别称谓发视频曝光空乘",
+      "onboard_time": 1686547231,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1215308,
@@ -3499,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 983832,
-      "num": 569604,
-      "word": "何超仪 上次人这么齐还是在殡仪馆",
-      "onboard_time": 1686545674,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 982142,
       "num": 982142,
       "word": "虞书欣Jennie有好多同款",
@@ -4129,6 +4145,14 @@
       "onboard_time": 1685942008,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851473,
+      "num": 851473,
+      "word": "THE9演唱会",
+      "onboard_time": 1686545979,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 849215,
@@ -8779,14 +8803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362915,
-      "num": 362915,
-      "word": "THE9演唱会",
-      "onboard_time": 1686545979,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 362725,
       "num": 362725,
       "word": "卡琳娜发了李龙馥",
@@ -9907,6 +9923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323748,
+      "num": 323748,
+      "word": "吴彦祖近照是P的",
+      "onboard_time": 1686546754,
+      "rank": 45,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 323468,
+      "num": 247304,
+      "word": "北京警方通报男子挟持学生事件",
+      "onboard_time": 1686549512,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323062,
       "num": 323062,
       "word": "王菲那英好甜",
@@ -10723,6 +10755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298589,
+      "num": 208888,
+      "word": "防止肥胖要像猪猪一样吃",
+      "onboard_time": 1686549512,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297769,
       "num": 266420,
       "word": "SMTOWN新男团目前公开成员",
@@ -11065,6 +11105,14 @@
       "onboard_time": 1685868086,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290177,
+      "num": 290177,
+      "word": "乔姐",
+      "onboard_time": 1686548190,
+      "rank": 16,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 289939,
@@ -12219,14 +12267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 265750,
-      "num": 265750,
-      "word": "吴彦祖近照是P的",
-      "onboard_time": 1686546754,
-      "rank": 45,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 265594,
       "num": 265594,
       "word": "英语不好也能在国外生存",
@@ -12457,14 +12497,6 @@
       "onboard_time": 1685786789,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262035,
-      "num": 262035,
-      "word": "博主因性别称谓发视频曝光空乘",
-      "onboard_time": 1686547231,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261869,
@@ -15507,6 +15539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215249,
+      "num": 215249,
+      "word": "王鹤棣跟狗吵架",
+      "onboard_time": 1686548070,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215189,
       "num": 215189,
       "word": "薛之谦说毛不易话不多但金句频出",
@@ -15705,6 +15745,14 @@
       "onboard_time": 1686470008,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212402,
+      "num": 212402,
+      "word": "陈奕迅广州演唱会",
+      "onboard_time": 1686548909,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 212150,
@@ -16113,14 +16161,6 @@
       "onboard_time": 1686105334,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 207668,
-      "num": 207668,
-      "word": "华晨宇长沙退票",
-      "onboard_time": 1686547410,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 207631,
@@ -18099,6 +18139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188012,
+      "num": 188012,
+      "word": "管啸天",
+      "onboard_time": 1686549208,
+      "rank": 33,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 187966,
       "num": 187966,
       "word": "原汁原味",
@@ -18497,6 +18545,14 @@
       "onboard_time": 1685844025,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 184341,
+      "num": 184341,
+      "word": "广东超市里面的蟑螂气球",
+      "onboard_time": 1686550289,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 184039,
@@ -20219,6 +20275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162139,
+      "num": 162139,
+      "word": "肖春生疯狂找存在感",
+      "onboard_time": 1686548312,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "田曦薇羊毛卷雀斑妆",
@@ -21515,6 +21579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144363,
+      "num": 144363,
+      "word": "刘宇喊话刘大锤合作vlog项目",
+      "onboard_time": 1686550349,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "观鹤笔记作者手滑点赞李一桐陈都灵相关",
@@ -22467,6 +22539,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 130904,
+      "num": 130904,
+      "word": "武汉地铁禁止饮食的原因",
+      "onboard_time": 1686549268,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130782,
       "num": 130782,
       "word": "女儿高考妈妈为爸爸量身缝制旗袍",
@@ -22481,6 +22561,14 @@
       "onboard_time": 1685614107,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 130445,
+      "num": 130445,
+      "word": "KPL夏日解锁新姿势",
+      "onboard_time": 1686549628,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 130244,
@@ -23267,6 +23355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119327,
+      "num": 119327,
+      "word": "上班我只做六件事",
+      "onboard_time": 1686550470,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118872,
       "num": 118872,
       "word": "大学生给同学带芒果拎麻袋不丢人",
@@ -23619,6 +23715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113272,
+      "num": 113272,
+      "word": "7岁姐姐勇敢捐骨髓救6岁妹妹",
+      "onboard_time": 1686550048,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112916,
       "num": 112916,
       "word": "儿童节",
@@ -23825,6 +23929,14 @@
       "onboard_time": 1686241764,
       "rank": 29,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 109887,
+      "num": 112250,
+      "word": "文理科班的空气对比",
+      "onboard_time": 1686549268,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109773,

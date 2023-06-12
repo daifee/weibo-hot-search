@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686548012363,
+  "endTime": 1686550958697,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -9,6 +9,14 @@
       "onboard_time": 1686534508,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3409292,
+      "num": 3409292,
+      "word": "五月天退票",
+      "onboard_time": 1686544298,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 2593991,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1970771,
-      "num": 1970771,
-      "word": "五月天退票",
-      "onboard_time": 1686544298,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1864328,
       "num": 1864328,
       "word": "找工作被确诊弱智",
@@ -65,6 +65,14 @@
       "onboard_time": 1686531390,
       "rank": 1,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 1723549,
+      "num": 1723549,
+      "word": "华晨宇长沙退票",
+      "onboard_time": 1686547410,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 1677009,
@@ -107,6 +115,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1233395,
+      "num": 585826,
+      "word": "何超仪 上次人这么齐还是在殡仪馆",
+      "onboard_time": 1686545674,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1217851,
+      "num": 1217851,
+      "word": "博主因性别称谓发视频曝光空乘",
+      "onboard_time": 1686547231,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135240,
       "num": 1135240,
       "word": "很多男人是没有爱情的",
@@ -139,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983832,
-      "num": 569604,
-      "word": "何超仪 上次人这么齐还是在殡仪馆",
-      "onboard_time": 1686545674,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 880234,
       "num": 880234,
       "word": "爸爸带女儿跑步200余天孩子变化明显",
@@ -161,6 +177,14 @@
       "onboard_time": 1686539909,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851473,
+      "num": 851473,
+      "word": "THE9演唱会",
+      "onboard_time": 1686545979,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 817302,
@@ -339,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362915,
-      "num": 362915,
-      "word": "THE9演唱会",
-      "onboard_time": 1686545979,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 359219,
       "num": 313756,
       "word": "剑网3",
@@ -403,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323748,
+      "num": 323748,
+      "word": "吴彦祖近照是P的",
+      "onboard_time": 1686546754,
+      "rank": 45,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 323468,
+      "num": 247304,
+      "word": "北京警方通报男子挟持学生事件",
+      "onboard_time": 1686549512,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321123,
       "num": 321123,
       "word": "成年人不管多难过都准时上班",
@@ -443,12 +475,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 298589,
+      "num": 208888,
+      "word": "防止肥胖要像猪猪一样吃",
+      "onboard_time": 1686549512,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294481,
       "num": 294481,
       "word": "胡锡进说应接受曝光大叔女子的道歉",
       "onboard_time": 1686491610,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290177,
+      "num": 290177,
+      "word": "乔姐",
+      "onboard_time": 1686548190,
+      "rank": 16,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 289831,
@@ -475,28 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265750,
-      "num": 265750,
-      "word": "吴彦祖近照是P的",
-      "onboard_time": 1686546754,
-      "rank": 45,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
       "onboard_time": 1686526464,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262035,
-      "num": 262035,
-      "word": "博主因性别称谓发视频曝光空乘",
-      "onboard_time": 1686547231,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260497,
@@ -595,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215249,
+      "num": 215249,
+      "word": "王鹤棣跟狗吵架",
+      "onboard_time": 1686548070,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214834,
       "num": 214834,
       "word": "如何看待明星公开炫富",
@@ -617,6 +657,14 @@
       "onboard_time": 1686497310,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212402,
+      "num": 212402,
+      "word": "陈奕迅广州演唱会",
+      "onboard_time": 1686548909,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 212017,
@@ -665,14 +713,6 @@
       "onboard_time": 1686484888,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 207668,
-      "num": 207668,
-      "word": "华晨宇长沙退票",
-      "onboard_time": 1686547410,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 202762,
@@ -755,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188012,
+      "num": 188012,
+      "word": "管啸天",
+      "onboard_time": 1686549208,
+      "rank": 33,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 187369,
       "num": 187369,
       "word": "王一博影视剧的原声率",
@@ -769,6 +817,14 @@
       "onboard_time": 1686497429,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 184341,
+      "num": 184341,
+      "word": "广东超市里面的蟑螂气球",
+      "onboard_time": 1686550289,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 181985,
@@ -827,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162139,
+      "num": 162139,
+      "word": "肖春生疯狂找存在感",
+      "onboard_time": 1686548312,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159169,
       "num": 159169,
       "word": "张艺兴给新人送二八大杠自行车",
@@ -873,6 +937,14 @@
       "onboard_time": 1686538048,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144363,
+      "num": 144363,
+      "word": "刘宇喊话刘大锤合作vlog项目",
+      "onboard_time": 1686550349,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143972,
@@ -971,6 +1043,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 130904,
+      "num": 130904,
+      "word": "武汉地铁禁止饮食的原因",
+      "onboard_time": 1686549268,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130445,
+      "num": 130445,
+      "word": "KPL夏日解锁新姿势",
+      "onboard_time": 1686549628,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130050,
       "num": 130050,
       "word": "交警风雨中救助脑出血男子",
@@ -1051,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119327,
+      "num": 119327,
+      "word": "上班我只做六件事",
+      "onboard_time": 1686550470,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118409,
       "num": 137991,
       "word": "谭维维清唱绽放致敬张桂梅",
@@ -1059,12 +1155,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113272,
+      "num": 113272,
+      "word": "7岁姐姐勇敢捐骨髓救6岁妹妹",
+      "onboard_time": 1686550048,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111936,
       "num": 111936,
       "word": "交警车流中小跑救下被撞伤小猫",
       "onboard_time": 1686534687,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109887,
+      "num": 112250,
+      "word": "文理科班的空气对比",
+      "onboard_time": 1686549268,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109773,
