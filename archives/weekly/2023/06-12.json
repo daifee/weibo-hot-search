@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686526437404,
+  "endTime": 1686534454257,
   "band_list": [
     {
       "raw_hot": 2593991,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2443964,
+      "raw_hot": 2512576,
       "num": 2443964,
       "word": "曝光大叔女子哭诉学校准备开除她",
       "onboard_time": 1686497909,
@@ -19,7 +19,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1953799,
+      "raw_hot": 2044972,
       "num": 523173,
       "word": "注册不了张z",
       "onboard_time": 1686475288,
@@ -41,6 +41,38 @@
       "onboard_time": 1686473789,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1344571,
+      "num": 1344571,
+      "word": "黄景瑜和极限挑战保安打起来了",
+      "onboard_time": 1686526884,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1288924,
+      "num": 1288924,
+      "word": "高考结束男朋友牵我的手冲出考场",
+      "onboard_time": 1686531390,
+      "rank": 1,
+      "category": "教育,情感"
+    },
+    {
+      "raw_hot": 1135240,
+      "num": 1135240,
+      "word": "很多男人是没有爱情的",
+      "onboard_time": 1686530310,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1055094,
+      "num": 431182,
+      "word": "何瑞贤新剧刚怀孕就被陷害流产",
+      "onboard_time": 1686531870,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 880234,
@@ -67,12 +99,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 722852,
+      "num": 423821,
+      "word": "文章包文婧组团带娃逛迪士尼",
+      "onboard_time": 1686529288,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715346,
       "num": 715346,
       "word": "Jennie身体状况",
       "onboard_time": 1686486811,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696107,
+      "num": 696107,
+      "word": "入住毛坯房的我在小区出名了",
+      "onboard_time": 1686527006,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 665381,
@@ -97,6 +145,14 @@
       "onboard_time": 1686480089,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 522550,
+      "num": 274348,
+      "word": "原来跷二郎腿还会让脸变大",
+      "onboard_time": 1686527790,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 481358,
@@ -211,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262369,
+      "num": 262369,
+      "word": "租房时带不走的能不买就不买",
+      "onboard_time": 1686526464,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252803,
       "num": 192693,
       "word": "袁姗姗孔雀开屏耳环",
@@ -233,6 +297,22 @@
       "onboard_time": 1686496291,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231140,
+      "num": 231140,
+      "word": "你见过699元的袜子吗",
+      "onboard_time": 1686531091,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219119,
+      "num": 219119,
+      "word": "EXO正规七辑EXIST",
+      "onboard_time": 1686525983,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 216481,
@@ -268,11 +348,19 @@
     },
     {
       "raw_hot": 210215,
-      "num": 146402,
+      "num": 148569,
       "word": "已经没有精力再失恋一次",
       "onboard_time": 1686524540,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209902,
+      "num": 209902,
+      "word": "原来蟑螂是有记忆的",
+      "onboard_time": 1686527066,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 209079,
@@ -281,6 +369,14 @@
       "onboard_time": 1686484888,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200493,
+      "num": 200493,
+      "word": "张云雷不热吗",
+      "onboard_time": 1686529468,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 200157,
@@ -307,20 +403,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192641,
+      "num": 192641,
+      "word": "星空",
+      "onboard_time": 1686533727,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "法网决赛",
       "onboard_time": 1686490292,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189474,
-      "num": 143376,
-      "word": "EXO正规七辑EXIST",
-      "onboard_time": 1686525983,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 186711,
@@ -355,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164823,
+      "num": 164823,
+      "word": "论购买EXO正规七辑的N种好处",
+      "onboard_time": 1686528506,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159169,
       "num": 159169,
       "word": "张艺兴给新人送二八大杠自行车",
@@ -369,6 +473,22 @@
       "onboard_time": 1686495811,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153550,
+      "num": 153550,
+      "word": "肖春生在自己不知道的时候已爱上佟晓梅",
+      "onboard_time": 1686533068,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143972,
+      "num": 143972,
+      "word": "李沁首位年内酷云双剧破2演员",
+      "onboard_time": 1686531029,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 141223,
@@ -403,6 +523,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 133549,
+      "num": 133549,
+      "word": "把情绪分给别人就是在承担风险",
+      "onboard_time": 1686532649,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133322,
       "num": 133322,
       "word": "工作后唯一放松的时刻 逛超市",
@@ -411,12 +539,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131062,
+      "num": 131062,
+      "word": "中考",
+      "onboard_time": 1686531748,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129594,
       "num": 129594,
       "word": "毛不易阅片量",
       "onboard_time": 1686489751,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128806,
+      "num": 128806,
+      "word": "吴京杰森斯坦森外滩吃饺子",
+      "onboard_time": 1686504258,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125059,
@@ -443,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122354,
-      "num": 122354,
-      "word": "吴京杰森斯坦森外滩吃饺子",
-      "onboard_time": 1686504258,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122130,
       "num": 122130,
       "word": "尚雯婕现场真的respect",
       "onboard_time": 1686498808,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121272,
+      "num": 121272,
+      "word": "不是肖春生的腰",
+      "onboard_time": 1686526647,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 120922,
@@ -483,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107808,
+      "num": 107808,
+      "word": "如果周瑜让诸葛亮造一万只弓",
+      "onboard_time": 1686528028,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104927,
       "num": 104927,
       "word": "light",
@@ -491,12 +643,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104317,
+      "num": 104317,
+      "word": "严浩翔先敲黄景瑜后敲黄晓明",
+      "onboard_time": 1686530729,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103188,
+      "num": 103188,
+      "word": "不要为了花时间休息感到内疚",
+      "onboard_time": 1686527969,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99496,
       "num": 99496,
       "word": "孙千cos紫萱",
       "onboard_time": 1686493892,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97425,
+      "num": 97425,
+      "word": "鬼灭之刃锻刀村篇",
+      "onboard_time": 1686527486,
+      "rank": 48,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 95821,
+      "num": 97403,
+      "word": "YG出小分队的方式好炸裂",
+      "onboard_time": 1686534446,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88894,
@@ -572,7 +756,7 @@
     },
     {
       "raw_hot": 26558,
-      "num": 937255,
+      "num": 1149494,
       "word": "神舟十号发射成功10周年",
       "onboard_time": 1686488311,
       "rank": 2,
