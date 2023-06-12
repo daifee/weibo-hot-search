@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686583058488,
+  "endTime": 1686584026678,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -387,6 +387,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 776951,
+      "num": 776951,
+      "word": "十个勤天去哪了",
+      "onboard_time": 1686581910,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761336,
       "num": 390677,
       "word": "女子称试穿裙子撑破无奈351元买下",
@@ -417,6 +425,14 @@
       "onboard_time": 1686577292,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732991,
+      "num": 381623,
+      "word": "初会",
+      "onboard_time": 1686583589,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 722852,
@@ -571,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485271,
-      "num": 485271,
-      "word": "十个勤天去哪了",
-      "onboard_time": 1686581910,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 481358,
       "num": 481358,
       "word": "过了下班时间窗口工作人员还在办理业务",
@@ -593,6 +601,14 @@
       "onboard_time": 1686575970,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458548,
+      "num": 458548,
+      "word": "余生夫妇vs春晓夫妇",
+      "onboard_time": 1686582391,
+      "rank": 35,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 456873,
@@ -843,6 +859,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 312786,
+      "num": 312786,
+      "word": "丧失了喜欢一个人的能力",
+      "onboard_time": 1686580171,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309616,
       "num": 309616,
       "word": "小鬼直播",
@@ -963,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274113,
+      "num": 274113,
+      "word": "男子赴江西一高校殴打出轨妻子",
+      "onboard_time": 1686580590,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270364,
       "num": 270364,
       "word": "才知道实习生工资比我高",
@@ -1051,14 +1083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251092,
-      "num": 251092,
-      "word": "丧失了喜欢一个人的能力",
-      "onboard_time": 1686580171,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 250893,
       "num": 250893,
       "word": "SEVENTEEN澳门音乐节",
@@ -1107,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243434,
+      "num": 243434,
+      "word": "肖春生一首爱情不玲送给贺红玲",
+      "onboard_time": 1686582630,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240360,
       "num": 240360,
       "word": "杨幂演我爱钱",
@@ -1136,6 +1168,14 @@
       "word": "白鹿绿色吊带随拍",
       "onboard_time": 1686565108,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236636,
+      "num": 236636,
+      "word": "陶晶莹 人生路漫漫哪里没猪头",
+      "onboard_time": 1686583109,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1321,30 +1361,6 @@
       "onboard_time": 1686544596,
       "rank": 35,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 211094,
-      "num": 211094,
-      "word": "肖春生一首爱情不玲送给贺红玲",
-      "onboard_time": 1686582630,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211054,
-      "num": 211054,
-      "word": "男子赴江西一高校殴打出轨妻子",
-      "onboard_time": 1686580590,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210982,
-      "num": 210982,
-      "word": "余生夫妇vs春晓夫妇",
-      "onboard_time": 1686582391,
-      "rank": 35,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 210752,
@@ -1547,6 +1563,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 191850,
+      "num": 191850,
+      "word": "陈绮贞律师声明",
+      "onboard_time": 1686582211,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "法网决赛",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1686570870,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189117,
-      "num": 189117,
-      "word": "陈绮贞律师声明",
-      "onboard_time": 1686582211,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 188748,
@@ -2443,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85678,
+      "num": 509697,
+      "word": "外卖小哥跳河救起老人又继续送单",
+      "onboard_time": 1686582031,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76345,
       "num": 76345,
       "word": "消防员火场废墟中寻回老人存款",
@@ -2503,14 +2527,6 @@
       "num": 649668,
       "word": "女子悉心照顾残障弟弟30年",
       "onboard_time": 1686556891,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50813,
-      "num": 509697,
-      "word": "外卖小哥跳河救起老人又继续送单",
-      "onboard_time": 1686582031,
       "rank": 14,
       "category": "社会新闻"
     },
