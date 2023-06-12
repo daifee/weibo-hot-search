@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686561466965,
+  "endTime": 1686562427516,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -91,6 +91,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 1738911,
+      "num": 1738911,
+      "word": "当蚊子吸了一口淤血",
+      "onboard_time": 1686557551,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1677009,
       "num": 1677009,
       "word": "李希侃道歉",
@@ -107,20 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1479543,
+      "raw_hot": 1498397,
       "num": 701620,
       "word": "任权 薛小婉",
       "onboard_time": 1686554369,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1445479,
-      "num": 1445479,
-      "word": "当蚊子吸了一口淤血",
-      "onboard_time": 1686557551,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 1426174,
@@ -227,20 +227,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 901983,
+      "num": 901983,
+      "word": "跑男最后一期录制没有宋雨琦",
+      "onboard_time": 1686557850,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 894642,
+      "num": 650073,
+      "word": "刘大锤回应刘宇喊话",
+      "onboard_time": 1686558990,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 889216,
+      "num": 889216,
+      "word": "贝卢斯科尼去世",
+      "onboard_time": 1686560008,
+      "rank": 9,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 880234,
       "num": 880234,
       "word": "爸爸带女儿跑步200余天孩子变化明显",
       "onboard_time": 1686495513,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 865002,
-      "num": 865002,
-      "word": "跑男最后一期录制没有宋雨琦",
-      "onboard_time": 1686557850,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 851473,
@@ -307,28 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 704373,
-      "num": 704373,
-      "word": "贝卢斯科尼去世",
-      "onboard_time": 1686560008,
-      "rank": 9,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
       "onboard_time": 1686527006,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 650073,
-      "num": 650073,
-      "word": "刘大锤回应刘宇喊话",
-      "onboard_time": 1686558990,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 587268,
@@ -459,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 380193,
+      "num": 380193,
+      "word": "Angelababy卷发双马尾",
+      "onboard_time": 1686560789,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364258,
       "num": 364258,
       "word": "EXO团综",
@@ -505,6 +513,14 @@
       "onboard_time": 1686494252,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 341346,
+      "num": 341346,
+      "word": "应采儿回应把hoho当成女孩养",
+      "onboard_time": 1686561149,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 334492,
@@ -659,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265570,
-      "num": 265570,
-      "word": "Angelababy卷发双马尾",
-      "onboard_time": 1686560789,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
@@ -753,6 +761,14 @@
       "onboard_time": 1686548070,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233572,
+      "num": 233572,
+      "word": "薛之谦合肥",
+      "onboard_time": 1686561028,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 231195,
@@ -915,6 +931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204199,
+      "num": 204199,
+      "word": "TMEA音乐节",
+      "onboard_time": 1686561269,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202762,
       "num": 202762,
       "word": "亚运征途",
@@ -937,6 +961,14 @@
       "onboard_time": 1686554788,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200853,
+      "num": 200853,
+      "word": "蔚来",
+      "onboard_time": 1686561508,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 200461,
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185437,
-      "num": 185437,
-      "word": "应采儿回应把hoho当成女孩养",
-      "onboard_time": 1686561149,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181985,
       "num": 181985,
       "word": "一巴掌下去眼神都清澈了",
@@ -1099,12 +1123,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180600,
-      "num": 180600,
-      "word": "薛之谦合肥",
-      "onboard_time": 1686561028,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 179800,
+      "num": 179800,
+      "word": "朴宰范行苍兰诀月族礼",
+      "onboard_time": 1686561328,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 178280,
@@ -1203,6 +1227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157048,
+      "num": 157048,
+      "word": "对篮球的热爱是不分场地的",
+      "onboard_time": 1686562052,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156359,
+      "num": 156359,
+      "word": "迪丽热巴VOGUEfilm幕后花絮",
+      "onboard_time": 1686559650,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "李健现场",
@@ -1299,20 +1339,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142805,
+      "num": 142805,
+      "word": "let me in",
+      "onboard_time": 1686562410,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142598,
       "num": 142598,
       "word": "萌兰你的绝活被小熊学走了",
       "onboard_time": 1686537509,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141790,
-      "num": 141790,
-      "word": "朴宰范行苍兰诀月族礼",
-      "onboard_time": 1686561328,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 141223,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1686504499,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140005,
+      "num": 140005,
+      "word": "柯文哲妄称若当选将瘫痪大陆高铁",
+      "onboard_time": 1686561450,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 139694,
@@ -1403,14 +1451,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 130619,
-      "num": 130619,
-      "word": "柯文哲妄称若当选将瘫痪大陆高铁",
-      "onboard_time": 1686561450,
-      "rank": 47,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 130445,
       "num": 130445,
       "word": "KPL夏日解锁新姿势",
@@ -1451,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126862,
-      "num": 126862,
-      "word": "TMEA音乐节",
-      "onboard_time": 1686561269,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125059,
       "num": 125059,
       "word": "李沁哭戏主动和导演说再来一遍",
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124519,
+      "num": 124519,
+      "word": "暖心乡村食堂60岁老人1元就餐",
+      "onboard_time": 1686561869,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123802,
@@ -1627,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101127,
+      "num": 582762,
+      "word": "村里办长者食堂提供1元午餐",
+      "onboard_time": 1686560431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99496,
       "num": 99496,
       "word": "孙千cos紫萱",
@@ -1720,14 +1768,6 @@
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38710,
-      "num": 582762,
-      "word": "村里办长者食堂提供1元午餐",
-      "onboard_time": 1686560431,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
