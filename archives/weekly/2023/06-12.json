@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686576110273,
+  "endTime": 1686576812968,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -51,8 +51,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2115090,
-      "num": 2115090,
+      "raw_hot": 2299874,
+      "num": 2299874,
       "word": "不孕不育是榴莲最好的福报",
       "onboard_time": 1686571348,
       "rank": 17,
@@ -243,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131278,
+      "num": 1131278,
+      "word": "张彬彬的粉底咋回事",
+      "onboard_time": 1686570389,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1082710,
       "num": 1082710,
       "word": "应采儿回应把hoho当成女孩养",
       "onboard_time": 1686561149,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1035851,
-      "num": 1035851,
-      "word": "张彬彬的粉底咋回事",
-      "onboard_time": 1686570389,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1031231,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989327,
+      "num": 989327,
+      "word": "Rain 街舞6",
+      "onboard_time": 1686570689,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964196,
       "num": 964196,
       "word": "又一部炸裂的韩综",
@@ -289,14 +297,6 @@
       "onboard_time": 1686549512,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 918161,
-      "num": 918161,
-      "word": "Rain 街舞6",
-      "onboard_time": 1686570689,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 905633,
@@ -419,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649661,
-      "num": 649661,
+      "raw_hot": 653921,
+      "num": 653921,
       "word": "沈月捧花头像",
       "onboard_time": 1686572007,
       "rank": 27,
@@ -483,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 537900,
-      "num": 537900,
+      "raw_hot": 547370,
+      "num": 547370,
       "word": "60岁阿姨健身22年后的样子",
       "onboard_time": 1686571227,
       "rank": 14,
@@ -529,6 +529,14 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463596,
+      "num": 319200,
+      "word": "王一博两部作品入围传媒关注单元",
+      "onboard_time": 1686575970,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 443485,
@@ -625,6 +633,14 @@
       "onboard_time": 1686564627,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361054,
+      "num": 361054,
+      "word": "护心",
+      "onboard_time": 1686575430,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 359219,
@@ -747,6 +763,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 320096,
+      "num": 320096,
+      "word": "任敏汤晶媚时间线梳理",
+      "onboard_time": 1686573989,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309209,
       "num": 309209,
       "word": "ChatGPT做高考试卷和人类有何区别",
@@ -811,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291325,
+      "num": 291325,
+      "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
+      "onboard_time": 1686572068,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289831,
       "num": 289831,
       "word": "纷玩岛",
@@ -843,12 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280091,
-      "num": 280091,
-      "word": "任敏汤晶媚时间线梳理",
-      "onboard_time": 1686573989,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 272424,
+      "num": 255321,
+      "word": "李耕耘",
+      "onboard_time": 1686576091,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 270364,
@@ -915,11 +947,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251558,
-      "num": 251558,
-      "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
-      "onboard_time": 1686572068,
-      "rank": 33,
+      "raw_hot": 251806,
+      "num": 251806,
+      "word": "日本核废水",
+      "onboard_time": 1686574770,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233799,
+      "num": 233799,
+      "word": "奔跑吧Sunnee杨芸晴",
+      "onboard_time": 1686575670,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233572,
       "num": 233572,
       "word": "薛之谦合肥",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223679,
+      "num": 223679,
+      "word": "你只是需要早点睡觉",
+      "onboard_time": 1686575250,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 222721,
@@ -1203,6 +1251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209065,
+      "num": 194084,
+      "word": "肖春生走哪里都是白月光",
+      "onboard_time": 1686575491,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204199,
       "num": 204199,
       "word": "TMEA音乐节",
@@ -1291,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198607,
-      "num": 198607,
-      "word": "王一博两部作品入围传媒关注单元",
-      "onboard_time": 1686575970,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198021,
       "num": 198021,
       "word": "朴灿烈rap",
@@ -1329,14 +1377,6 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193464,
-      "num": 193464,
-      "word": "护心",
-      "onboard_time": 1686575430,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 192665,
@@ -1403,14 +1443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189480,
-      "num": 189480,
-      "word": "肖春生走哪里都是白月光",
-      "onboard_time": 1686575491,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188748,
       "num": 188748,
       "word": "王鹤棣身上的松弛感",
@@ -1420,7 +1452,7 @@
     },
     {
       "raw_hot": 188466,
-      "num": 182458,
+      "num": 185716,
       "word": "曝街舞6嘉宾阵容",
       "onboard_time": 1686574649,
       "rank": 40,
@@ -1459,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187366,
+      "num": 185741,
+      "word": "鹿晗应援物品免费发",
+      "onboard_time": 1686573869,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186711,
       "num": 186711,
       "word": "金智秀Jennie同框照",
@@ -1475,12 +1515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185362,
-      "num": 185362,
-      "word": "日本核废水",
-      "onboard_time": 1686574770,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 185432,
+      "num": 185432,
+      "word": "王栎鑫用山歌唱嘉宾",
+      "onboard_time": 1686576571,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 183393,
@@ -1515,28 +1555,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 178193,
-      "num": 178193,
-      "word": "鹿晗应援物品免费发",
-      "onboard_time": 1686573869,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178013,
       "num": 178013,
       "word": "第一次大学毕业赠品还挺多",
       "onboard_time": 1686539489,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175211,
-      "num": 175211,
-      "word": "你只是需要早点睡觉",
-      "onboard_time": 1686575250,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 174455,
@@ -1593,14 +1617,6 @@
       "onboard_time": 1686491791,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171038,
-      "num": 171038,
-      "word": "奔跑吧Sunnee杨芸晴",
-      "onboard_time": 1686575670,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 170806,
@@ -1665,6 +1681,14 @@
       "onboard_time": 1686562052,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156365,
+      "num": 435322,
+      "word": "俩男童凌晨坐巷子路人暖心帮助",
+      "onboard_time": 1686574830,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -1873,14 +1897,6 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 135782,
-      "num": 135782,
-      "word": "李耕耘",
-      "onboard_time": 1686576091,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 134589,
@@ -2187,6 +2203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100047,
+      "num": 186032,
+      "word": "中新网评川大女生地铁曝光大叔",
+      "onboard_time": 1686576689,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99916,
+      "num": 1204026,
+      "word": "汉唐风格的西安国家版本馆大气唯美",
+      "onboard_time": 1686571769,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99496,
       "num": 99496,
       "word": "孙千cos紫萱",
@@ -2219,28 +2251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89591,
-      "num": 1204026,
-      "word": "汉唐风格的西安国家版本馆大气唯美",
-      "onboard_time": 1686571769,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88894,
       "num": 88894,
       "word": "孟佳王霏霏10年前vs现在合照",
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86883,
-      "num": 435322,
-      "word": "俩男童凌晨坐巷子路人暖心帮助",
-      "onboard_time": 1686574830,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76345,
