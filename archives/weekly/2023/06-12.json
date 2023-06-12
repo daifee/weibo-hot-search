@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686538565428,
+  "endTime": 1686539072506,
   "band_list": [
     {
       "raw_hot": 3888431,
@@ -43,16 +43,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1668656,
-      "num": 1668656,
+      "raw_hot": 1743011,
+      "num": 1743011,
       "word": "高考结束男朋友牵我的手冲出考场",
       "onboard_time": 1686531390,
       "rank": 1,
       "category": "教育,情感"
     },
     {
-      "raw_hot": 1619993,
-      "num": 1619993,
+      "raw_hot": 1672530,
+      "num": 1672530,
       "word": "李希侃道歉",
       "onboard_time": 1686535648,
       "rank": 31,
@@ -115,8 +115,16 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 753231,
+      "num": 333523,
+      "word": "女子称试穿裙子撑破无奈351元买下",
+      "onboard_time": 1686535408,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722852,
-      "num": 487131,
+      "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
       "onboard_time": 1686529288,
       "rank": 13,
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 497355,
-      "num": 333523,
-      "word": "女子称试穿裙子撑破无奈351元买下",
-      "onboard_time": 1686535408,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481358,
       "num": 481358,
       "word": "过了下班时间窗口工作人员还在办理业务",
@@ -187,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440856,
-      "num": 440856,
+      "raw_hot": 443034,
+      "num": 443034,
       "word": "苏炳添决定不参加世锦赛和亚运会",
       "onboard_time": 1686536968,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434002,
+      "num": 434002,
+      "word": "蔚来全系车型降价3万元",
+      "onboard_time": 1686537027,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 431132,
@@ -219,20 +227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407048,
-      "num": 407048,
-      "word": "蔚来全系车型降价3万元",
-      "onboard_time": 1686537027,
-      "rank": 15,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 382678,
       "num": 382678,
       "word": "Weiwei 886",
       "onboard_time": 1686492031,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 365130,
+      "num": 365130,
+      "word": "黄磊给谭松韵遮阳",
+      "onboard_time": 1686535827,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 364258,
@@ -265,14 +273,6 @@
       "onboard_time": 1686535770,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 332449,
-      "num": 332449,
-      "word": "黄磊给谭松韵遮阳",
-      "onboard_time": 1686535827,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 328555,
@@ -323,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277423,
-      "num": 277423,
+      "raw_hot": 286071,
+      "num": 286071,
       "word": "BBC卧底记者",
       "onboard_time": 1686535648,
       "rank": 46,
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241781,
+      "num": 241781,
+      "word": "曝光大叔女子值得同情吗",
+      "onboard_time": 1686537749,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219119,
       "num": 219119,
       "word": "EXO正规七辑EXIST",
@@ -385,14 +393,6 @@
       "onboard_time": 1686527066,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216961,
-      "num": 216961,
-      "word": "曝光大叔女子值得同情吗",
-      "onboard_time": 1686537749,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216481,
@@ -451,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209132,
+      "num": 209132,
+      "word": "如何看待明星公开炫富",
+      "onboard_time": 1686537448,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 209079,
       "num": 209079,
       "word": "迪丽热巴红毯赶蚊子",
@@ -507,8 +515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186841,
-      "num": 186841,
+      "raw_hot": 189975,
+      "num": 189975,
       "word": "高中男生称这个国家有我想保护的人",
       "onboard_time": 1686536846,
       "rank": 31,
@@ -531,8 +539,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175099,
-      "num": 175099,
+      "raw_hot": 181633,
+      "num": 181633,
       "word": "花戎无妻徒刑",
       "onboard_time": 1686535466,
       "rank": 43,
@@ -561,14 +569,6 @@
       "onboard_time": 1686491791,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167828,
-      "num": 167828,
-      "word": "如何看待明星公开炫富",
-      "onboard_time": 1686537448,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 164823,
@@ -683,6 +683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131486,
+      "num": 131486,
+      "word": "内娱莽夫遇上撒娇妲己",
+      "onboard_time": 1686538048,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129594,
       "num": 129594,
       "word": "毛不易阅片量",
@@ -755,14 +763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117207,
-      "num": 117207,
-      "word": "内娱莽夫遇上撒娇妲己",
-      "onboard_time": 1686538048,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111936,
       "num": 111936,
       "word": "交警车流中小跑救下被撞伤小猫",
@@ -811,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101377,
+      "num": 101377,
+      "word": "男子33楼欲轻生保安耐心陪聊20分钟",
+      "onboard_time": 1686538589,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99496,
       "num": 99496,
       "word": "孙千cos紫萱",
@@ -825,6 +833,14 @@
       "onboard_time": 1686527486,
       "rank": 48,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 94915,
+      "num": 94915,
+      "word": "成年人不管多难过都准时上班",
+      "onboard_time": 1686539009,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 88894,
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 31943,
-      "num": 1641760,
+      "num": 1678726,
       "word": "神舟十号发射成功10周年",
       "onboard_time": 1686488311,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1686539072506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3268856,
+        "num": 3268856,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1743011,
+        "num": 1743011,
+        "word": "高考结束男朋友牵我的手冲出考场",
+        "onboard_time": 1686531390,
+        "rank": 1,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 23201,
+        "num": 1678726,
+        "word": "神舟十号发射成功10周年",
+        "onboard_time": 1686488311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1959204,
+        "num": 1678048,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1672530,
+        "num": 1672530,
+        "word": "李希侃道歉",
+        "onboard_time": 1686535648,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 874171,
+        "num": 874171,
+        "word": "何瑞贤新剧刚怀孕就被陷害流产",
+        "onboard_time": 1686531870,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700854,
+        "num": 700854,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611885,
+        "num": 611885,
+        "word": "入住毛坯房的我在小区出名了",
+        "onboard_time": 1686527006,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588677,
+        "num": 588677,
+        "word": "黄景瑜和极限挑战保安打起来了",
+        "onboard_time": 1686526884,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536420,
+        "num": 536420,
+        "word": "张雨绮致歉",
+        "onboard_time": 1686473789,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1150790,
+        "num": 521982,
+        "word": "注册不了张z",
+        "onboard_time": 1686475288,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709280,
+        "num": 519094,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564803,
+        "num": 489324,
+        "word": "文章包文婧组团带娃逛迪士尼",
+        "onboard_time": 1686529288,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443034,
+        "num": 443034,
+        "word": "苏炳添决定不参加世锦赛和亚运会",
+        "onboard_time": 1686536968,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434002,
+        "num": 434002,
+        "word": "蔚来全系车型降价3万元",
+        "onboard_time": 1686537027,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 396008,
+        "num": 396008,
+        "word": "大叔家属回应被查手机时有地铁车厢照",
+        "onboard_time": 1686500126,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392430,
+        "num": 392430,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365130,
+        "num": 365130,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360415,
+        "num": 360415,
+        "word": "梅西见面会取消",
+        "onboard_time": 1686477088,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312753,
+        "num": 312753,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 753231,
+        "num": 310701,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424498,
+        "num": 304032,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413240,
+        "num": 297718,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 359537,
+        "num": 290280,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 23,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 286071,
+        "num": 286071,
+        "word": "BBC卧底记者",
+        "onboard_time": 1686535648,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289127,
+        "num": 267767,
+        "word": "薛之谦说我开始找你了梅西",
+        "onboard_time": 1686493533,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 244966,
+        "num": 244966,
+        "word": "张雨绮说699我都买不了袜子",
+        "onboard_time": 1686466886,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 241781,
+        "num": 241781,
+        "word": "曝光大叔女子值得同情吗",
+        "onboard_time": 1686537749,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216761,
+        "num": 216761,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209132,
+        "num": 209132,
+        "word": "如何看待明星公开炫富",
+        "onboard_time": 1686537448,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 199333,
+        "num": 199333,
+        "word": "爸爸带女儿跑步200余天孩子变化明显",
+        "onboard_time": 1686495513,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189975,
+        "num": 189975,
+        "word": "高中男生称这个国家有我想保护的人",
+        "onboard_time": 1686536846,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189533,
+        "num": 189533,
+        "word": "老板上班写小说算摸鱼吗",
+        "onboard_time": 1686537689,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181633,
+        "num": 181633,
+        "word": "花戎无妻徒刑",
+        "onboard_time": 1686535466,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171654,
+        "num": 171654,
+        "word": "你见过699元的袜子吗",
+        "onboard_time": 1686531091,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162522,
+        "num": 162522,
+        "word": "YG出小分队的方式好炸裂",
+        "onboard_time": 1686534446,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162428,
+        "num": 162428,
+        "word": "EXO正规七辑EXIST",
+        "onboard_time": 1686525983,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151763,
+        "num": 151763,
+        "word": "张云雷不热吗",
+        "onboard_time": 1686529468,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153169,
+        "num": 151752,
+        "word": "EXO团综",
+        "onboard_time": 1686491251,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151678,
+        "num": 151678,
+        "word": "女子雨中3小时救助快递柜中小猫",
+        "onboard_time": 1686534626,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146328,
+        "num": 146328,
+        "word": "肖春生在自己不知道的时候已爱上佟晓梅",
+        "onboard_time": 1686533068,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 135134,
+        "word": "原来蟑螂是有记忆的",
+        "onboard_time": 1686527066,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133572,
+        "num": 133572,
+        "word": "租房时带不走的能不买就不买",
+        "onboard_time": 1686526464,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 131486,
+        "word": "内娱莽夫遇上撒娇妲己",
+        "onboard_time": 1686538048,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111466,
+        "num": 111466,
+        "word": "萌兰你的绝活被小熊学走了",
+        "onboard_time": 1686537509,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109608,
+        "num": 109608,
+        "word": "过了下班时间窗口工作人员还在办理业务",
+        "onboard_time": 1686500485,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108622,
+        "num": 108622,
+        "word": "星空",
+        "onboard_time": 1686533727,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101377,
+        "num": 101377,
+        "word": "男子33楼欲轻生保安耐心陪聊20分钟",
+        "onboard_time": 1686538589,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94915,
+        "num": 94915,
+        "word": "成年人不管多难过都准时上班",
+        "onboard_time": 1686539009,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 92665,
+        "num": 92665,
+        "word": "已经没有精力再失恋一次",
+        "onboard_time": 1686524540,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023相约成都大运会#"
+    }
+  }
+}
