@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686555211752,
+  "endTime": 1686558098460,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -8,6 +8,14 @@
       "word": "四川大学称将依规依纪处理",
       "onboard_time": 1686534508,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5188720,
+      "num": 1163752,
+      "word": "川大回应网传地铁事件女生被开除",
+      "onboard_time": 1686555990,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1686475288,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2020355,
+      "num": 2020355,
+      "word": "韩国演员朴秀莲从楼梯摔落去世",
+      "onboard_time": 1686554189,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1900070,
@@ -89,6 +105,14 @@
       "onboard_time": 1686547231,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1457910,
+      "num": 603780,
+      "word": "任权 薛小婉",
+      "onboard_time": 1686554369,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 1426174,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 1189324,
-      "num": 753282,
+      "num": 1051224,
       "word": "注册不了张z公开道歉为何再惹众怒",
       "onboard_time": 1686552689,
       "rank": 16,
@@ -193,14 +217,6 @@
       "onboard_time": 1686549512,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 948779,
-      "num": 728709,
-      "word": "韩国演员朴秀莲从楼梯摔落去世",
-      "onboard_time": 1686554189,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 880234,
@@ -275,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 612299,
+      "num": 612299,
+      "word": "警方介入调查一女生遭多名学生掌掴",
+      "onboard_time": 1686557250,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587268,
       "num": 587268,
       "word": "薛之谦说我开始找你了梅西",
@@ -337,14 +361,6 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465882,
-      "num": 465882,
-      "word": "任权 薛小婉",
-      "onboard_time": 1686554369,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 434002,
@@ -459,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 334178,
+      "num": 334178,
+      "word": "蔡徐坤白月光学长",
+      "onboard_time": 1686557068,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328555,
       "num": 328555,
       "word": "赵露思刘宇宁或将二搭",
@@ -531,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303837,
+      "num": 303837,
+      "word": "黄仁俊七月封面",
+      "onboard_time": 1686556891,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302652,
       "num": 276002,
       "word": "你对川大最新回应怎么看",
       "onboard_time": 1686544298,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 294790,
+      "num": 294790,
+      "word": "大熊猫洗澡两个半人摁半个负责洗",
+      "onboard_time": 1686554309,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294481,
@@ -579,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267453,
+      "num": 267453,
+      "word": "当蚊子吸了一口淤血",
+      "onboard_time": 1686557551,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
@@ -611,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249713,
+      "num": 249713,
+      "word": "公司说我在9月31号这天旷工了",
+      "onboard_time": 1686555808,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249691,
       "num": 249691,
       "word": "熊猫渝可渝爱好可爱",
@@ -635,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239783,
+      "num": 239783,
+      "word": "谢娜 这几步走得也太帅了吧",
+      "onboard_time": 1686554548,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238786,
       "num": 238786,
       "word": "王鹤棣跟狗吵架",
@@ -649,6 +713,14 @@
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222721,
+      "num": 222721,
+      "word": "当反断舍离血脉觉醒",
+      "onboard_time": 1686557551,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 222674,
@@ -827,14 +899,6 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 197749,
-      "num": 197749,
-      "word": "谢娜 这几步走得也太帅了吧",
-      "onboard_time": 1686554548,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196330,
       "num": 196330,
       "word": "WBG失误",
@@ -857,6 +921,22 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194230,
+      "num": 194230,
+      "word": "跑男最后一期录制没有宋雨琦",
+      "onboard_time": 1686557850,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192665,
+      "num": 192665,
+      "word": "梅西见面会改为线上直播举行",
+      "onboard_time": 1686555687,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 192641,
@@ -923,6 +1003,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 186217,
+      "num": 186217,
+      "word": "腾讯音乐娱乐盛典阵容",
+      "onboard_time": 1686556469,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181985,
       "num": 181985,
       "word": "一巴掌下去眼神都清澈了",
@@ -987,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165330,
+      "num": 165330,
+      "word": "这毕业礼物非送不可吗",
+      "onboard_time": 1686557789,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164823,
       "num": 164823,
       "word": "论购买EXO正规七辑的N种好处",
@@ -1011,19 +1107,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158782,
-      "num": 158782,
-      "word": "大熊猫洗澡两个半人摁半个负责洗",
-      "onboard_time": 1686554309,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "李健现场",
       "onboard_time": 1686495811,
       "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 153171,
+      "num": 153171,
+      "word": "崔叡娜官宣乐华2023家族演唱会",
+      "onboard_time": 1686557129,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -1065,6 +1161,14 @@
       "onboard_time": 1686538048,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146598,
+      "num": 146598,
+      "word": "肖春生我随晓梅成熟稳重",
+      "onboard_time": 1686557969,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 143972,
@@ -1472,6 +1576,14 @@
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40088,
+      "num": 513175,
+      "word": "女子悉心照顾残障弟弟30年",
+      "onboard_time": 1686556891,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1686558098460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2020355,
+        "num": 2020355,
+        "word": "韩国演员朴秀莲从楼梯摔落去世",
+        "onboard_time": 1686554189,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1452716,
+        "num": 1452716,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34167,
+        "num": 1164216,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5188720,
+        "num": 1163752,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109426,
+        "num": 1109426,
+        "word": "任敏性格",
+        "onboard_time": 1686553050,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1159321,
+        "num": 1051224,
+        "word": "注册不了张z公开道歉为何再惹众怒",
+        "onboard_time": 1686552689,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884587,
+        "num": 884587,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 863168,
+        "num": 863168,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700901,
+        "num": 700901,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 612299,
+        "num": 612299,
+        "word": "警方介入调查一女生遭多名学生掌掴",
+        "onboard_time": 1686557250,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1457910,
+        "num": 603780,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 960535,
+        "num": 586032,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730960,
+        "num": 556941,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 708187,
+        "num": 528576,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40088,
+        "num": 513175,
+        "word": "女子悉心照顾残障弟弟30年",
+        "onboard_time": 1686556891,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500642,
+        "num": 500642,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496332,
+        "num": 496332,
+        "word": "胡锡进再评川大女生地铁曝光大叔",
+        "onboard_time": 1686544835,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415822,
+        "num": 415822,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334178,
+        "num": 334178,
+        "word": "蔡徐坤白月光学长",
+        "onboard_time": 1686557068,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310377,
+        "num": 310377,
+        "word": "白敬亭工作室向粉丝道歉",
+        "onboard_time": 1686541052,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481079,
+        "num": 309546,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388756,
+        "num": 308578,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307378,
+        "num": 307378,
+        "word": "喝过的水竟然被蟑螂爬过",
+        "onboard_time": 1686541955,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306181,
+        "num": 306181,
+        "word": "THE9演唱会",
+        "onboard_time": 1686545979,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303837,
+        "num": 303837,
+        "word": "黄仁俊七月封面",
+        "onboard_time": 1686556891,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295126,
+        "num": 295126,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294790,
+        "num": 294790,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290503,
+        "num": 290503,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275237,
+        "num": 275237,
+        "word": "奔跑吧校服路透",
+        "onboard_time": 1686552567,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267453,
+        "num": 267453,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249713,
+        "num": 249713,
+        "word": "公司说我在9月31号这天旷工了",
+        "onboard_time": 1686555808,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239783,
+        "num": 239783,
+        "word": "谢娜 这几步走得也太帅了吧",
+        "onboard_time": 1686554548,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222721,
+        "num": 222721,
+        "word": "当反断舍离血脉觉醒",
+        "onboard_time": 1686557551,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 221078,
+        "num": 221078,
+        "word": "张小斐这组好美",
+        "onboard_time": 1686551848,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196930,
+        "num": 196930,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194230,
+        "num": 194230,
+        "word": "跑男最后一期录制没有宋雨琦",
+        "onboard_time": 1686557850,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192665,
+        "num": 192665,
+        "word": "梅西见面会改为线上直播举行",
+        "onboard_time": 1686555687,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188629,
+        "num": 188629,
+        "word": "乐华2023家族演唱会艺人阵容",
+        "onboard_time": 1686554788,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186217,
+        "num": 186217,
+        "word": "腾讯音乐娱乐盛典阵容",
+        "onboard_time": 1686556469,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185002,
+        "num": 185002,
+        "word": "黄景瑜和极限挑战保安打起来了",
+        "onboard_time": 1686526884,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177144,
+        "num": 177144,
+        "word": "吴彦祖近照是P的",
+        "onboard_time": 1686546754,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 165330,
+        "num": 165330,
+        "word": "这毕业礼物非送不可吗",
+        "onboard_time": 1686557789,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156279,
+        "num": 156279,
+        "word": "广东超市里面的蟑螂气球",
+        "onboard_time": 1686550289,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155244,
+        "num": 155244,
+        "word": "北京警方通报男子挟持学生事件",
+        "onboard_time": 1686549512,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153171,
+        "num": 153171,
+        "word": "崔叡娜官宣乐华2023家族演唱会",
+        "onboard_time": 1686557129,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152334,
+        "num": 152334,
+        "word": "入住毛坯房的我在小区出名了",
+        "onboard_time": 1686527006,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147217,
+        "num": 147217,
+        "word": "江歌妈妈将赔偿款全额捐出",
+        "onboard_time": 1686539909,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146598,
+        "num": 146598,
+        "word": "肖春生我随晓梅成熟稳重",
+        "onboard_time": 1686557969,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76046,
+        "num": 146343,
+        "word": "亚运会",
+        "onboard_time": 1686543155,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46250,
+        "num": 145892,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}
