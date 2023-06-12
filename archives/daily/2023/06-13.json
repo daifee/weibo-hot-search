@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686602023287,
+  "endTime": 1686604492369,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -473,6 +473,14 @@
       "onboard_time": 1686578490,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13397,
+      "num": 16961,
+      "word": "叶国华不知道肖春生的腿好了",
+      "onboard_time": 1686604152,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
