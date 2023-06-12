@@ -1,0 +1,410 @@
+{
+  "runTime": 1686554186866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2140826,
+        "num": 2140826,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1900070,
+        "num": 1900070,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41175,
+        "num": 1300302,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294730,
+        "num": 1294730,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259650,
+        "num": 1259650,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1250507,
+        "num": 1250507,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031231,
+        "num": 1031231,
+        "word": "江歌妈妈将赔偿款全额捐出",
+        "onboard_time": 1686539909,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977868,
+        "num": 977868,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 903881,
+        "num": 903881,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 594628,
+        "num": 594628,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 951775,
+        "num": 585029,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766276,
+        "num": 584256,
+        "word": "胡锡进再评川大女生地铁曝光大叔",
+        "onboard_time": 1686544835,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544892,
+        "num": 544892,
+        "word": "白敬亭工作室向粉丝道歉",
+        "onboard_time": 1686541052,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536078,
+        "num": 536078,
+        "word": "THE9演唱会",
+        "onboard_time": 1686545979,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23396,
+        "num": 526434,
+        "word": "谁带六眼飞鱼奔现梁静茹",
+        "onboard_time": 1686553230,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523721,
+        "num": 523721,
+        "word": "入住毛坯房的我在小区出名了",
+        "onboard_time": 1686527006,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452597,
+        "num": 452597,
+        "word": "注册不了张z公开道歉为何再惹众怒",
+        "onboard_time": 1686552689,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447052,
+        "num": 447052,
+        "word": "任敏性格",
+        "onboard_time": 1686553050,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392513,
+        "num": 392513,
+        "word": "奔跑吧校服路透",
+        "onboard_time": 1686552567,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369642,
+        "num": 369642,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 626873,
+        "num": 358915,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 524032,
+        "num": 358563,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475648,
+        "num": 340083,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393113,
+        "num": 333015,
+        "word": "喝过的水竟然被蟑螂爬过",
+        "onboard_time": 1686541955,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325655,
+        "num": 325655,
+        "word": "张小斐这组好美",
+        "onboard_time": 1686551848,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301410,
+        "num": 301410,
+        "word": "乔姐",
+        "onboard_time": 1686548190,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 281835,
+        "num": 281835,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269574,
+        "num": 269574,
+        "word": "吴彦祖近照是P的",
+        "onboard_time": 1686546754,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 269453,
+        "num": 269453,
+        "word": "广东超市里面的蟑螂气球",
+        "onboard_time": 1686550289,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250212,
+        "num": 250212,
+        "word": "黄景瑜和极限挑战保安打起来了",
+        "onboard_time": 1686526884,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249691,
+        "num": 249691,
+        "word": "熊猫渝可渝爱好可爱",
+        "onboard_time": 1686553409,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244039,
+        "num": 244039,
+        "word": "北京警方通报男子挟持学生事件",
+        "onboard_time": 1686549512,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205005,
+        "num": 205005,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203534,
+        "num": 203534,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200461,
+        "num": 200461,
+        "word": "TMEA",
+        "onboard_time": 1686552508,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194242,
+        "num": 194242,
+        "word": "刘宇喊话刘大锤合作vlog项目",
+        "onboard_time": 1686550349,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178236,
+        "num": 178236,
+        "word": "极限挑战",
+        "onboard_time": 1686553707,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "李希侃道歉",
+        "onboard_time": 1686535648,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174798,
+        "num": 174798,
+        "word": "王鹤棣跟狗吵架",
+        "onboard_time": 1686548070,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169571,
+        "num": 169571,
+        "word": "第四届TMEA首波阵容官宣",
+        "onboard_time": 1686552389,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163690,
+        "num": 163690,
+        "word": "明星带货还能红多久",
+        "onboard_time": 1686551310,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155235,
+        "num": 155235,
+        "word": "陈奕迅广州演唱会",
+        "onboard_time": 1686548909,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150060,
+        "num": 150060,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146388,
+        "num": 146388,
+        "word": "肖春生疯狂找存在感",
+        "onboard_time": 1686548312,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137317,
+        "num": 137317,
+        "word": "马思纯赵今麦李兰迪同品牌拍摄",
+        "onboard_time": 1686552208,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121721,
+        "num": 121721,
+        "word": "高考结束男朋友牵我的手冲出考场",
+        "onboard_time": 1686531390,
+        "rank": 45,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 119279,
+        "num": 119279,
+        "word": "民警徒步18公里将游客背出沙漠",
+        "onboard_time": 1686553168,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108338,
+        "num": 119273,
+        "word": "北极熊结束冬眠后的第一天",
+        "onboard_time": 1686554010,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91537,
+        "num": 119269,
+        "word": "亚运会",
+        "onboard_time": 1686543155,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68578,
+        "num": 119266,
+        "word": "蔚来全系车型降价3万元",
+        "onboard_time": 1686537027,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}

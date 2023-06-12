@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686551738223,
+  "endTime": 1686554186866,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1883827,
-      "num": 1883827,
+      "raw_hot": 1900070,
+      "num": 1900070,
       "word": "华晨宇长沙退票",
       "onboard_time": 1686547410,
       "rank": 31,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1259650,
+      "num": 1259650,
+      "word": "任敏换家人不想要王鹤棣",
+      "onboard_time": 1686541832,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1237328,
       "num": 1237328,
       "word": "何瑞贤新剧刚怀孕就被陷害流产",
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1070855,
-      "num": 1070855,
-      "word": "任敏换家人不想要王鹤棣",
-      "onboard_time": 1686541832,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 1031231,
+      "num": 1031231,
+      "word": "江歌妈妈将赔偿款全额捐出",
+      "onboard_time": 1686539909,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010954,
@@ -163,19 +171,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 903881,
+      "num": 903881,
+      "word": "防止肥胖要像猪猪一样吃",
+      "onboard_time": 1686549512,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 880234,
       "num": 880234,
       "word": "爸爸带女儿跑步200余天孩子变化明显",
       "onboard_time": 1686495513,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 865259,
-      "num": 865259,
-      "word": "江歌妈妈将赔偿款全额捐出",
-      "onboard_time": 1686539909,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 744113,
-      "num": 357534,
+      "num": 358915,
       "word": "北京政法职业学院发布情况通报",
       "onboard_time": 1686471268,
       "rank": 20,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 516095,
-      "num": 276227,
+      "num": 333015,
       "word": "喝过的水竟然被蟑螂爬过",
       "onboard_time": 1686541955,
       "rank": 38,
@@ -305,6 +313,22 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452597,
+      "num": 452597,
+      "word": "注册不了张z公开道歉为何再惹众怒",
+      "onboard_time": 1686552689,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447052,
+      "num": 447052,
+      "word": "任敏性格",
+      "onboard_time": 1686553050,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 434002,
@@ -345,6 +369,14 @@
       "onboard_time": 1686545558,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392513,
+      "num": 392513,
+      "word": "奔跑吧校服路透",
+      "onboard_time": 1686552567,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 382678,
@@ -395,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343040,
-      "num": 343040,
-      "word": "防止肥胖要像猪猪一样吃",
-      "onboard_time": 1686549512,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 341771,
       "num": 341771,
       "word": "白桃星座",
@@ -441,6 +465,14 @@
       "onboard_time": 1686495090,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325655,
+      "num": 325655,
+      "word": "张小斐这组好美",
+      "onboard_time": 1686551848,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 323468,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269453,
+      "num": 269453,
+      "word": "广东超市里面的蟑螂气球",
+      "onboard_time": 1686550289,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
@@ -555,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249691,
+      "num": 249691,
+      "word": "熊猫渝可渝爱好可爱",
+      "onboard_time": 1686553409,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246988,
       "num": 264262,
       "word": "晒出手机里的美食中国",
@@ -585,14 +633,6 @@
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 230057,
-      "num": 197036,
-      "word": "广东超市里面的蟑螂气球",
-      "onboard_time": 1686550289,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 222674,
@@ -739,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200461,
+      "num": 200461,
+      "word": "TMEA",
+      "onboard_time": 1686552508,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200157,
       "num": 200157,
       "word": "玲娜贝儿跳刘宇洗衣舞",
@@ -771,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194242,
+      "num": 194242,
+      "word": "刘宇喊话刘大锤合作vlog项目",
+      "onboard_time": 1686550349,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192641,
       "num": 192641,
       "word": "星空",
@@ -793,14 +849,6 @@
       "onboard_time": 1686536846,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 189815,
-      "num": 189815,
-      "word": "刘宇喊话刘大锤合作vlog项目",
-      "onboard_time": 1686550349,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188748,
@@ -841,6 +889,14 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178236,
+      "num": 178236,
+      "word": "极限挑战",
+      "onboard_time": 1686553707,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178013,
@@ -888,6 +944,14 @@
       "word": "许嵩 音乐节",
       "onboard_time": 1686491791,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 169571,
+      "num": 169571,
+      "word": "第四届TMEA首波阵容官宣",
+      "onboard_time": 1686552389,
+      "rank": 39,
       "category": "音乐"
     },
     {
@@ -1043,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137317,
+      "num": 137317,
+      "word": "马思纯赵今麦李兰迪同品牌拍摄",
+      "onboard_time": 1686552208,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136577,
       "num": 136577,
       "word": "如何看待大叔和儿子给涉事女子一次机会",
@@ -1171,6 +1243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 119279,
+      "num": 119279,
+      "word": "民警徒步18公里将游客背出沙漠",
+      "onboard_time": 1686553168,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118832,
       "num": 118832,
       "word": "周一上班发现办公室塌了",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1686506656,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108338,
+      "num": 119273,
+      "word": "北极熊结束冬眠后的第一天",
+      "onboard_time": 1686554010,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107808,
@@ -1369,6 +1457,14 @@
       "onboard_time": 1686361114,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23396,
+      "num": 526434,
+      "word": "谁带六眼飞鱼奔现梁静茹",
+      "onboard_time": 1686553230,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 23106,
