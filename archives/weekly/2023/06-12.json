@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686554186866,
+  "endTime": 1686555211752,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -107,19 +107,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1324221,
+      "num": 1324221,
+      "word": "任敏换家人不想要王鹤棣",
+      "onboard_time": 1686541832,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1291029,
       "num": 1170132,
       "word": "孟子义好贴贝微微",
       "onboard_time": 1686541533,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1259650,
-      "num": 1259650,
-      "word": "任敏换家人不想要王鹤棣",
-      "onboard_time": 1686541832,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -137,6 +137,22 @@
       "onboard_time": 1686545674,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1195952,
+      "num": 1195952,
+      "word": "任敏性格",
+      "onboard_time": 1686553050,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1189324,
+      "num": 753282,
+      "word": "注册不了张z公开道歉为何再惹众怒",
+      "onboard_time": 1686552689,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135240,
@@ -171,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 903881,
-      "num": 903881,
+      "raw_hot": 949817,
+      "num": 949817,
       "word": "防止肥胖要像猪猪一样吃",
       "onboard_time": 1686549512,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 948779,
+      "num": 728709,
+      "word": "韩国演员朴秀莲从楼梯摔落去世",
+      "onboard_time": 1686554189,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 880234,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 761336,
-      "num": 376784,
+      "num": 390677,
       "word": "女子称试穿裙子撑破无奈351元买下",
       "onboard_time": 1686535408,
       "rank": 23,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 516095,
-      "num": 333015,
+      "num": 367733,
       "word": "喝过的水竟然被蟑螂爬过",
       "onboard_time": 1686541955,
       "rank": 38,
@@ -315,20 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452597,
-      "num": 452597,
-      "word": "注册不了张z公开道歉为何再惹众怒",
-      "onboard_time": 1686552689,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447052,
-      "num": 447052,
-      "word": "任敏性格",
-      "onboard_time": 1686553050,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 465882,
+      "num": 465882,
+      "word": "任权 薛小婉",
+      "onboard_time": 1686554369,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 434002,
@@ -779,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201648,
+      "num": 201648,
+      "word": "乐华2023家族演唱会艺人阵容",
+      "onboard_time": 1686554788,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200461,
       "num": 200461,
       "word": "TMEA",
@@ -801,6 +825,14 @@
       "onboard_time": 1686492869,
       "rank": 30,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 197749,
+      "num": 197749,
+      "word": "谢娜 这几步走得也太帅了吧",
+      "onboard_time": 1686554548,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 196330,
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188331,
+      "num": 188331,
+      "word": "极限挑战",
+      "onboard_time": 1686553707,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188012,
       "num": 188012,
       "word": "管啸天",
@@ -889,14 +929,6 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178236,
-      "num": 178236,
-      "word": "极限挑战",
-      "onboard_time": 1686553707,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 178013,
@@ -977,6 +1009,14 @@
       "onboard_time": 1686499647,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158782,
+      "num": 158782,
+      "word": "大熊猫洗澡两个半人摁半个负责洗",
+      "onboard_time": 1686554309,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155313,
@@ -1435,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32043,
+      "num": 600743,
+      "word": "谁带六眼飞鱼奔现梁静茹",
+      "onboard_time": 1686553230,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 31943,
       "num": 1678726,
       "word": "神舟十号发射成功10周年",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1686361114,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 23396,
-      "num": 526434,
-      "word": "谁带六眼飞鱼奔现梁静茹",
-      "onboard_time": 1686553230,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 23106,
