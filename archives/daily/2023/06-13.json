@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686587864610,
+  "endTime": 1686590073115,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -83,8 +83,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 510261,
-      "num": 510261,
+      "raw_hot": 511083,
+      "num": 511083,
       "word": "中国唯一上榜的世界最美图书馆",
       "onboard_time": 1686584309,
       "rank": 43,
@@ -323,8 +323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128726,
-      "num": 128726,
+      "raw_hot": 131404,
+      "num": 131404,
       "word": "猫突然入镜被男子推下山崖",
       "onboard_time": 1686569908,
       "rank": 45,
@@ -403,7 +403,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 77169,
+      "raw_hot": 78493,
       "num": 1512304,
       "word": "短途游3小时高铁圈",
       "onboard_time": 1686577470,
@@ -417,6 +417,14 @@
       "onboard_time": 1686586708,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49123,
+      "num": 63377,
+      "word": "新时代北京的精气神",
+      "onboard_time": 1686589877,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
