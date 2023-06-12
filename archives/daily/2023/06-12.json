@@ -1,10 +1,10 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686535769957,
+  "endTime": 1686538565428,
   "band_list": [
     {
       "raw_hot": 3888431,
-      "num": 1004830,
+      "num": 3543966,
       "word": "四川大学称将依规依纪处理",
       "onboard_time": 1686534508,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 523173,
+      "num": 534664,
       "word": "注册不了张z",
       "onboard_time": 1686475288,
       "rank": 10,
@@ -43,12 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1656387,
-      "num": 1656387,
+      "raw_hot": 1668656,
+      "num": 1668656,
       "word": "高考结束男朋友牵我的手冲出考场",
       "onboard_time": 1686531390,
       "rank": 1,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 1619993,
+      "num": 1619993,
+      "word": "李希侃道歉",
+      "onboard_time": 1686535648,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1426174,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 722852,
-      "num": 426986,
+      "num": 487131,
       "word": "文章包文婧组团带娃逛迪士尼",
       "onboard_time": 1686529288,
       "rank": 13,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 665381,
-      "num": 301474,
+      "num": 333298,
       "word": "北京政法职业学院发布情况通报",
       "onboard_time": 1686471268,
       "rank": 20,
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 522550,
-      "num": 300889,
+      "num": 332652,
       "word": "原来跷二郎腿还会让脸变大",
       "onboard_time": 1686527790,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497355,
+      "num": 333523,
+      "word": "女子称试穿裙子撑破无奈351元买下",
+      "onboard_time": 1686535408,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481358,
@@ -169,6 +185,14 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440856,
+      "num": 440856,
+      "word": "苏炳添决定不参加世锦赛和亚运会",
+      "onboard_time": 1686536968,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 431132,
@@ -193,6 +217,14 @@
       "onboard_time": 1686477088,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407048,
+      "num": 407048,
+      "word": "蔚来全系车型降价3万元",
+      "onboard_time": 1686537027,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 382678,
@@ -225,6 +257,22 @@
       "onboard_time": 1686494252,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 334492,
+      "num": 334492,
+      "word": "EXO今日公开先行曲LetMeIn",
+      "onboard_time": 1686535770,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 332449,
+      "num": 332449,
+      "word": "黄磊给谭松韵遮阳",
+      "onboard_time": 1686535827,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 328555,
@@ -275,11 +323,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285908,
-      "num": 285908,
-      "word": "女子称试穿裙子撑破无奈351元买下",
-      "onboard_time": 1686535408,
-      "rank": 23,
+      "raw_hot": 277423,
+      "num": 277423,
+      "word": "BBC卧底记者",
+      "onboard_time": 1686535648,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -337,6 +385,14 @@
       "onboard_time": 1686527066,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216961,
+      "num": 216961,
+      "word": "曝光大叔女子值得同情吗",
+      "onboard_time": 1686537749,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216481,
@@ -403,12 +459,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202068,
-      "num": 202068,
-      "word": "李希侃道歉",
-      "onboard_time": 1686535648,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 202254,
+      "num": 202254,
+      "word": "老板上班写小说算摸鱼吗",
+      "onboard_time": 1686537689,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 200157,
@@ -451,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186841,
+      "num": 186841,
+      "word": "高中男生称这个国家有我想保护的人",
+      "onboard_time": 1686536846,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 186711,
       "num": 186711,
       "word": "金智秀Jennie同框照",
@@ -465,6 +529,14 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175099,
+      "num": 175099,
+      "word": "花戎无妻徒刑",
+      "onboard_time": 1686535466,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 174455,
@@ -491,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167828,
+      "num": 167828,
+      "word": "如何看待明星公开炫富",
+      "onboard_time": 1686537448,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 164823,
       "num": 164823,
       "word": "论购买EXO正规七辑的N种好处",
@@ -499,8 +579,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161172,
-      "num": 161172,
+      "raw_hot": 163648,
+      "num": 163648,
       "word": "肖春生在自己不知道的时候已爱上佟晓梅",
       "onboard_time": 1686533068,
       "rank": 33,
@@ -537,6 +617,14 @@
       "onboard_time": 1686531029,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142598,
+      "num": 142598,
+      "word": "萌兰你的绝活被小熊学走了",
+      "onboard_time": 1686537509,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141223,
@@ -659,14 +747,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 120159,
-      "num": 120159,
-      "word": "花戎无妻徒刑",
-      "onboard_time": 1686535466,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "TES战胜WBG",
@@ -675,19 +755,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117207,
+      "num": 117207,
+      "word": "内娱莽夫遇上撒娇妲己",
+      "onboard_time": 1686538048,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111936,
       "num": 111936,
       "word": "交警车流中小跑救下被撞伤小猫",
       "onboard_time": 1686534687,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110858,
-      "num": 110858,
-      "word": "BBC卧底记者",
-      "onboard_time": 1686535648,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -811,19 +891,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31943,
+      "num": 1641760,
+      "word": "神舟十号发射成功10周年",
+      "onboard_time": 1686488311,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26741,
       "num": 29881,
       "word": "广州南站客服回应按摩椅现虫子",
       "onboard_time": 1686508155,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26558,
-      "num": 1149494,
-      "word": "神舟十号发射成功10周年",
-      "onboard_time": 1686488311,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
