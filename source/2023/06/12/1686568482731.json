@@ -1,0 +1,410 @@
+{
+  "runTime": 1686568482731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2677410,
+        "num": 2677410,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663298,
+        "num": 1722880,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15020,
+        "num": 1560481,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1459438,
+        "num": 1459438,
+        "word": "KPOP真的来了",
+        "onboard_time": 1686563669,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256765,
+        "num": 1456933,
+        "word": "女博士毕业丈夫称赞她是全家骄傲",
+        "onboard_time": 1686566009,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454823,
+        "num": 1454823,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120209,
+        "num": 1250859,
+        "word": "暖心乡村食堂60岁老人1元就餐",
+        "onboard_time": 1686561869,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104390,
+        "num": 1104390,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1056064,
+        "num": 1056064,
+        "word": "官方通报女干部被带去酒局灌酒",
+        "onboard_time": 1686567149,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964196,
+        "num": 964196,
+        "word": "又一部炸裂的韩综",
+        "onboard_time": 1686562527,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778251,
+        "num": 778251,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 659847,
+        "num": 659847,
+        "word": "刘大锤回应刘宇喊话",
+        "onboard_time": 1686558990,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610357,
+        "num": 610357,
+        "word": "应采儿回应把hoho当成女孩养",
+        "onboard_time": 1686561149,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525935,
+        "num": 525935,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 474674,
+        "num": 474674,
+        "word": "跑男最后一期录制没有宋雨琦",
+        "onboard_time": 1686557850,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467931,
+        "num": 467931,
+        "word": "贝卢斯科尼去世",
+        "onboard_time": 1686560008,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 465757,
+        "num": 465757,
+        "word": "警方介入调查一女生遭多名学生掌掴",
+        "onboard_time": 1686557250,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445601,
+        "num": 445601,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416613,
+        "num": 416613,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391194,
+        "num": 391194,
+        "word": "EXO先行曲MV",
+        "onboard_time": 1686562768,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324216,
+        "num": 324216,
+        "word": "白鹿王鹤棣坐一起",
+        "onboard_time": 1686567149,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299953,
+        "num": 299953,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298555,
+        "num": 298555,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279636,
+        "num": 279636,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263093,
+        "num": 263093,
+        "word": "才知道实习生工资比我高",
+        "onboard_time": 1686567209,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261416,
+        "num": 261416,
+        "word": "EXO专辑",
+        "onboard_time": 1686564627,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252769,
+        "num": 252769,
+        "word": "王一博甩头",
+        "onboard_time": 1686565768,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239475,
+        "num": 239475,
+        "word": "阿信",
+        "onboard_time": 1686566188,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238751,
+        "num": 238751,
+        "word": "杨幂演我爱钱",
+        "onboard_time": 1686567749,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200161,
+        "num": 200161,
+        "word": "浮光马面裙",
+        "onboard_time": 1686563448,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 233145,
+        "num": 200022,
+        "word": "是哪个seventeen",
+        "onboard_time": 1686565588,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211367,
+        "num": 199563,
+        "word": "各种大蠊已经进军北方",
+        "onboard_time": 1686567450,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 198893,
+        "word": "let me in",
+        "onboard_time": 1686562410,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198170,
+        "num": 198170,
+        "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+        "onboard_time": 1686567329,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191437,
+        "num": 191437,
+        "word": "陈奕迅广州演唱会连开6场",
+        "onboard_time": 1686567509,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185819,
+        "num": 185819,
+        "word": "Angelababy卷发双马尾",
+        "onboard_time": 1686560789,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172928,
+        "num": 172928,
+        "word": "白鹿绿色吊带随拍",
+        "onboard_time": 1686565108,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172235,
+        "num": 172235,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172190,
+        "num": 172190,
+        "word": "猎豹与陪伴犬",
+        "onboard_time": 1686568169,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130774,
+        "num": 164313,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 163148,
+        "word": "SEVENTEEN澳门音乐节",
+        "onboard_time": 1686563010,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159097,
+        "num": 159097,
+        "word": "vcccc",
+        "onboard_time": 1686567028,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151215,
+        "num": 151215,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127576,
+        "num": 127576,
+        "word": "公司说我在9月31号这天旷工了",
+        "onboard_time": 1686555808,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120923,
+        "num": 120923,
+        "word": "野生脑子 大学生专用",
+        "onboard_time": 1686565950,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118467,
+        "num": 118467,
+        "word": "重庆医生离世捐器官救3人",
+        "onboard_time": 1686567990,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 118390,
+        "num": 118390,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117396,
+        "num": 117396,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117061,
+        "num": 117061,
+        "word": "女孩放下美甲师工作回村开收割机",
+        "onboard_time": 1686568470,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112219,
+        "num": 112219,
+        "word": "蔚来",
+        "onboard_time": 1686561508,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}

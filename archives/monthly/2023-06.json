@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686566134078,
+  "endTime": 1686568482731,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 5188720,
-      "num": 1163752,
+      "num": 1454823,
       "word": "川大回应网传地铁事件女生被开除",
       "onboard_time": 1686555990,
       "rank": 3,
@@ -408,6 +408,14 @@
       "word": "江歌妈妈收到大量借款信息",
       "onboard_time": 1686287430,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2677410,
+      "num": 2677410,
+      "word": "韩网红柬埔寨去世尸体被扔水沟",
+      "onboard_time": 1686566249,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1828,7 +1836,7 @@
     },
     {
       "raw_hot": 1498397,
-      "num": 706894,
+      "num": 778251,
       "word": "任权 薛小婉",
       "onboard_time": 1686554369,
       "rank": 18,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1686179663,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1459438,
+      "num": 1459438,
+      "word": "KPOP真的来了",
+      "onboard_time": 1686563669,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 1456021,
@@ -3251,6 +3267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1056064,
+      "num": 1056064,
+      "word": "官方通报女干部被带去酒局灌酒",
+      "onboard_time": 1686567149,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1053947,
       "num": 1342377,
       "word": "双胞胎拿错准考证骁骑5分钟调换",
@@ -3675,6 +3699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 964196,
+      "num": 964196,
+      "word": "又一部炸裂的韩综",
+      "onboard_time": 1686562527,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 963621,
       "num": 323171,
       "word": "张宝儿官宣怀孕",
@@ -4004,7 +4036,7 @@
     },
     {
       "raw_hot": 894642,
-      "num": 656035,
+      "num": 659847,
       "word": "刘大锤回应刘宇喊话",
       "onboard_time": 1686558990,
       "rank": 13,
@@ -4705,14 +4737,6 @@
       "onboard_time": 1685946027,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 777122,
-      "num": 777122,
-      "word": "又一部炸裂的韩综",
-      "onboard_time": 1686562527,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 776880,
@@ -5483,6 +5507,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 663298,
+      "num": 1722880,
+      "word": "大熊猫洗澡两个半人摁半个负责洗",
+      "onboard_time": 1686554309,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661201,
       "num": 661201,
       "word": "8岁摄影师拍李现是被人抱起来的",
@@ -5769,14 +5801,6 @@
       "onboard_time": 1685615487,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 614619,
-      "num": 614619,
-      "word": "KPOP真的来了",
-      "onboard_time": 1686563669,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 612599,
@@ -6129,14 +6153,6 @@
       "onboard_time": 1685667629,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 564640,
-      "num": 1064406,
-      "word": "大熊猫洗澡两个半人摁半个负责洗",
-      "onboard_time": 1686554309,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564004,
@@ -10123,6 +10139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324216,
+      "num": 324216,
+      "word": "白鹿王鹤棣坐一起",
+      "onboard_time": 1686567149,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323468,
       "num": 247304,
       "word": "北京警方通报男子挟持学生事件",
@@ -12627,6 +12651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263093,
+      "num": 263093,
+      "word": "才知道实习生工资比我高",
+      "onboard_time": 1686567209,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262996,
       "num": 266580,
       "word": "王鹤棣异域小王子",
@@ -12947,6 +12979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256765,
+      "num": 1456933,
+      "word": "女博士毕业丈夫称赞她是全家骄傲",
+      "onboard_time": 1686566009,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256600,
       "num": 219153,
       "word": "周也露背裙",
@@ -13201,6 +13241,14 @@
       "onboard_time": 1686496531,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 252769,
+      "num": 252769,
+      "word": "王一博甩头",
+      "onboard_time": 1686565768,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252298,
@@ -14035,6 +14083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239475,
+      "num": 239475,
+      "word": "阿信",
+      "onboard_time": 1685799870,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239142,
       "num": 239142,
       "word": "你最近去过银行网点取钱吗",
@@ -14089,6 +14145,14 @@
       "onboard_time": 1686548070,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238751,
+      "num": 238751,
+      "word": "杨幂演我爱钱",
+      "onboard_time": 1686567749,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 238726,
@@ -14449,6 +14513,14 @@
       "onboard_time": 1686182126,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233145,
+      "num": 221936,
+      "word": "是哪个seventeen",
+      "onboard_time": 1686565588,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 233066,
@@ -15209,14 +15281,6 @@
       "onboard_time": 1686446727,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221936,
-      "num": 221936,
-      "word": "是哪个seventeen",
-      "onboard_time": 1686565588,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 221741,
@@ -16113,6 +16177,14 @@
       "onboard_time": 1686396405,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211367,
+      "num": 199563,
+      "word": "各种大蠊已经进军北方",
+      "onboard_time": 1686567450,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211233,
@@ -17235,6 +17307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198170,
+      "num": 198170,
+      "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+      "onboard_time": 1686567329,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198145,
       "num": 198145,
       "word": "罗云熙手写祝福让考生放松心态",
@@ -18025,6 +18105,14 @@
       "onboard_time": 1686135633,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191437,
+      "num": 191437,
+      "word": "陈奕迅广州演唱会连开6场",
+      "onboard_time": 1686567509,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 191433,
@@ -19859,6 +19947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172190,
+      "num": 172190,
+      "word": "猎豹与陪伴犬",
+      "onboard_time": 1686568169,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172120,
       "num": 172120,
       "word": "肖春生疯狂找存在感",
@@ -19956,7 +20052,7 @@
     },
     {
       "raw_hot": 170806,
-      "num": 984841,
+      "num": 1250859,
       "word": "暖心乡村食堂60岁老人1元就餐",
       "onboard_time": 1686561869,
       "rank": 48,
@@ -20915,6 +21011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159097,
+      "num": 159097,
+      "word": "vcccc",
+      "onboard_time": 1686567028,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159043,
       "num": 206018,
       "word": "中国女排世联赛4连胜",
@@ -21625,14 +21729,6 @@
       "onboard_time": 1686534508,
       "rank": 35,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 151149,
-      "num": 151149,
-      "word": "阿信",
-      "onboard_time": 1685799870,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 150767,
@@ -22649,14 +22745,6 @@
       "onboard_time": 1686118174,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136529,
-      "num": 136529,
-      "word": "王一博甩头",
-      "onboard_time": 1686565768,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 136500,
@@ -23931,6 +24019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118467,
+      "num": 118467,
+      "word": "重庆医生离世捐器官救3人",
+      "onboard_time": 1686567990,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 118409,
       "num": 137991,
       "word": "谭维维清唱绽放致敬张桂梅",
@@ -23953,14 +24049,6 @@
       "onboard_time": 1686316950,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 118023,
-      "num": 375804,
-      "word": "女博士毕业丈夫称赞她是全家骄傲",
-      "onboard_time": 1686566009,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117938,
@@ -24065,6 +24153,14 @@
       "onboard_time": 1686563129,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117061,
+      "num": 117061,
+      "word": "女孩放下美甲师工作回村开收割机",
+      "onboard_time": 1686568470,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116926,
