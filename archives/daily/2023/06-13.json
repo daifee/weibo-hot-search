@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686597203937,
+  "endTime": 1686598413874,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35313,
+      "num": 35313,
+      "word": "曝光大叔女子道歉后舆论为何未平息",
+      "onboard_time": 1686596953,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32853,
       "num": 56537,
       "word": "日本核废水",
@@ -465,14 +473,6 @@
       "onboard_time": 1686578490,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18375,
-      "num": 26882,
-      "word": "曝光大叔女子道歉后舆论为何未平息",
-      "onboard_time": 1686596953,
-      "rank": 45,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
