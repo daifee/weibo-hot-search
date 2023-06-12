@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686562427516,
+  "endTime": 1686565193779,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1498397,
-      "num": 701620,
+      "num": 706894,
       "word": "任权 薛小婉",
       "onboard_time": 1686554369,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1465738,
+      "num": 1051224,
+      "word": "注册不了张z公开道歉为何再惹众怒",
+      "onboard_time": 1686552689,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1426174,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1189324,
-      "num": 1051224,
-      "word": "注册不了张z公开道歉为何再惹众怒",
-      "onboard_time": 1686552689,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1135240,
       "num": 1135240,
       "word": "很多男人是没有爱情的",
@@ -201,6 +201,14 @@
       "onboard_time": 1686544835,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1082710,
+      "num": 1082710,
+      "word": "应采儿回应把hoho当成女孩养",
+      "onboard_time": 1686561149,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1031231,
@@ -227,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 905633,
+      "num": 905633,
+      "word": "贝卢斯科尼去世",
+      "onboard_time": 1686560008,
+      "rank": 9,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 901983,
       "num": 901983,
       "word": "跑男最后一期录制没有宋雨琦",
@@ -236,19 +252,11 @@
     },
     {
       "raw_hot": 894642,
-      "num": 650073,
+      "num": 656035,
       "word": "刘大锤回应刘宇喊话",
       "onboard_time": 1686558990,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 889216,
-      "num": 889216,
-      "word": "贝卢斯科尼去世",
-      "onboard_time": 1686560008,
-      "rank": 9,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 880234,
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 567018,
+      "num": 567018,
+      "word": "EXO先行曲MV",
+      "onboard_time": 1686562768,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 551478,
       "num": 551478,
       "word": "黄磊给谭松韵遮阳",
@@ -385,6 +401,22 @@
       "onboard_time": 1686540630,
       "rank": 48,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 492482,
+      "num": 1064406,
+      "word": "大熊猫洗澡两个半人摁半个负责洗",
+      "onboard_time": 1686554309,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490507,
+      "num": 490507,
+      "word": "Angelababy卷发双马尾",
+      "onboard_time": 1686560789,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 481358,
@@ -427,6 +459,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 416452,
+      "num": 416452,
+      "word": "又一部炸裂的韩综",
+      "onboard_time": 1686562527,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411467,
       "num": 411467,
       "word": "梅西见面会取消",
@@ -459,12 +499,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 380193,
-      "num": 380193,
-      "word": "Angelababy卷发双马尾",
-      "onboard_time": 1686560789,
+      "raw_hot": 366861,
+      "num": 366861,
+      "word": "KPOP真的来了",
+      "onboard_time": 1686563669,
       "rank": 24,
-      "category": "综艺"
+      "category": "音乐"
     },
     {
       "raw_hot": 364258,
@@ -473,6 +513,14 @@
       "onboard_time": 1686491251,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363488,
+      "num": 363488,
+      "word": "EXO专辑",
+      "onboard_time": 1686564627,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 359219,
@@ -507,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343025,
+      "num": 343025,
+      "word": "let me in",
+      "onboard_time": 1686562410,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 341771,
       "num": 341771,
       "word": "白桃星座",
       "onboard_time": 1686494252,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 341346,
-      "num": 341346,
-      "word": "应采儿回应把hoho当成女孩养",
-      "onboard_time": 1686561149,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 334492,
@@ -627,14 +675,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 294790,
-      "num": 294790,
-      "word": "大熊猫洗澡两个半人摁半个负责洗",
-      "onboard_time": 1686554309,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294481,
       "num": 294481,
       "word": "胡锡进说应接受曝光大叔女子的道歉",
@@ -705,6 +745,14 @@
       "onboard_time": 1686496531,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 250893,
+      "num": 250893,
+      "word": "SEVENTEEN澳门音乐节",
+      "onboard_time": 1686563010,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 250179,
@@ -817,6 +865,14 @@
       "onboard_time": 1686540568,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218171,
+      "num": 218171,
+      "word": "浮光马面裙",
+      "onboard_time": 1686563448,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 217110,
@@ -995,6 +1051,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 198021,
+      "num": 198021,
+      "word": "朴灿烈rap",
+      "onboard_time": 1686564691,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196330,
       "num": 196330,
       "word": "WBG失误",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1686536846,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 189881,
+      "num": 189881,
+      "word": "男女生买洗发水的区别",
+      "onboard_time": 1686565049,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 188748,
@@ -1219,6 +1291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161474,
+      "num": 161474,
+      "word": "杨幂复古风搭双马尾",
+      "onboard_time": 1686563789,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161038,
+      "num": 984841,
+      "word": "暖心乡村食堂60岁老人1元就餐",
+      "onboard_time": 1686561869,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159169,
       "num": 159169,
       "word": "张艺兴给新人送二八大杠自行车",
@@ -1339,14 +1427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142805,
-      "num": 142805,
-      "word": "let me in",
-      "onboard_time": 1686562410,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142598,
       "num": 142598,
       "word": "萌兰你的绝活被小熊学走了",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1686504499,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140441,
+      "num": 140441,
+      "word": "白鹿绿色吊带随拍",
+      "onboard_time": 1686565108,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140005,
@@ -1499,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124519,
-      "num": 124519,
-      "word": "暖心乡村食堂60岁老人1元就餐",
-      "onboard_time": 1686561869,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123802,
       "num": 123802,
       "word": "公司负责人长文回应三休和调休争议",
@@ -1547,6 +1627,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 120134,
+      "num": 120134,
+      "word": "习惯一个人和喜欢一个人是两码事",
+      "onboard_time": 1686562768,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "TES战胜WBG",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1686545616,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117213,
+      "num": 117213,
+      "word": "小时候不懂的一边一边系列",
+      "onboard_time": 1686563129,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 113272,
@@ -1672,6 +1768,14 @@
       "word": "村里办长者食堂提供1元午餐",
       "onboard_time": 1686560431,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100343,
+      "num": 921374,
+      "word": "戏曲演员侧台偷师的幸福谁懂啊",
+      "onboard_time": 1686563430,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1771,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35425,
+      "num": 654803,
+      "word": "流浪猫暴雨中被淹男子冒雨救回",
+      "onboard_time": 1686564092,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32043,
       "num": 600743,
       "word": "谁带六眼飞鱼奔现梁静茹",
@@ -1792,6 +1904,14 @@
       "word": "广州南站客服回应按摩椅现虫子",
       "onboard_time": 1686508155,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25952,
+      "num": 161887,
+      "word": "改完收货地址意识到真的毕业了",
+      "onboard_time": 1686564029,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

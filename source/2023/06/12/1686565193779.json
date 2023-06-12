@@ -1,0 +1,410 @@
+{
+  "runTime": 1686565193779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1082710,
+        "num": 1082710,
+        "word": "应采儿回应把hoho当成女孩养",
+        "onboard_time": 1686561149,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492482,
+        "num": 1064406,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23483,
+        "num": 1033629,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1997791,
+        "num": 1014550,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161038,
+        "num": 984841,
+        "word": "暖心乡村食堂60岁老人1元就餐",
+        "onboard_time": 1686561869,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1434533,
+        "num": 964592,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100343,
+        "num": 921374,
+        "word": "戏曲演员侧台偷师的幸福谁懂啊",
+        "onboard_time": 1686563430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905633,
+        "num": 905633,
+        "word": "贝卢斯科尼去世",
+        "onboard_time": 1686560008,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 836380,
+        "num": 836380,
+        "word": "韩国演员朴秀莲从楼梯摔落去世",
+        "onboard_time": 1686554189,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723114,
+        "num": 723114,
+        "word": "跑男最后一期录制没有宋雨琦",
+        "onboard_time": 1686557850,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1370405,
+        "num": 706894,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1118250,
+        "num": 695943,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079385,
+        "num": 685047,
+        "word": "任敏性格",
+        "onboard_time": 1686553050,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762257,
+        "num": 656035,
+        "word": "刘大锤回应刘宇喊话",
+        "onboard_time": 1686558990,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35425,
+        "num": 654803,
+        "word": "流浪猫暴雨中被淹男子冒雨救回",
+        "onboard_time": 1686564092,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638405,
+        "num": 638405,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 638234,
+        "num": 638234,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 614487,
+        "num": 614487,
+        "word": "警方介入调查一女生遭多名学生掌掴",
+        "onboard_time": 1686557250,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567018,
+        "num": 567018,
+        "word": "EXO先行曲MV",
+        "onboard_time": 1686562768,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490507,
+        "num": 490507,
+        "word": "Angelababy卷发双马尾",
+        "onboard_time": 1686560789,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459407,
+        "num": 459407,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459263,
+        "num": 459263,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436385,
+        "num": 436385,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 416452,
+        "num": 416452,
+        "word": "又一部炸裂的韩综",
+        "onboard_time": 1686562527,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366861,
+        "num": 366861,
+        "word": "KPOP真的来了",
+        "onboard_time": 1686563669,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363488,
+        "num": 363488,
+        "word": "EXO专辑",
+        "onboard_time": 1686564627,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343025,
+        "num": 343025,
+        "word": "let me in",
+        "onboard_time": 1686562410,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318561,
+        "num": 318561,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317229,
+        "num": 317229,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267650,
+        "num": 267650,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1465738,
+        "num": 260336,
+        "word": "注册不了张z公开道歉为何再惹众怒",
+        "onboard_time": 1686552689,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250893,
+        "num": 250893,
+        "word": "SEVENTEEN澳门音乐节",
+        "onboard_time": 1686563010,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218171,
+        "num": 218171,
+        "word": "浮光马面裙",
+        "onboard_time": 1686563448,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 198021,
+        "num": 198021,
+        "word": "朴灿烈rap",
+        "onboard_time": 1686564691,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189881,
+        "num": 189881,
+        "word": "男女生买洗发水的区别",
+        "onboard_time": 1686565049,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185278,
+        "num": 185278,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172516,
+        "num": 172516,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162055,
+        "num": 162055,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156788,
+        "num": 161928,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25952,
+        "num": 161887,
+        "word": "改完收货地址意识到真的毕业了",
+        "onboard_time": 1686564029,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161863,
+        "num": 161863,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161474,
+        "num": 161474,
+        "word": "杨幂复古风搭双马尾",
+        "onboard_time": 1686563789,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150402,
+        "num": 150402,
+        "word": "朴宰范行苍兰诀月族礼",
+        "onboard_time": 1686561328,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148950,
+        "num": 148950,
+        "word": "蔚来",
+        "onboard_time": 1686561508,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140566,
+        "num": 140566,
+        "word": "公司说我在9月31号这天旷工了",
+        "onboard_time": 1686555808,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140441,
+        "num": 140441,
+        "word": "白鹿绿色吊带随拍",
+        "onboard_time": 1686565108,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135944,
+        "num": 135944,
+        "word": "YG辟谣Jennie加入漫威",
+        "onboard_time": 1686560070,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124237,
+        "num": 124237,
+        "word": "LESSERAFIM将来广州开线下签售会",
+        "onboard_time": 1686560249,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120134,
+        "num": 120134,
+        "word": "习惯一个人和喜欢一个人是两码事",
+        "onboard_time": 1686562768,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117213,
+        "num": 117213,
+        "word": "小时候不懂的一边一边系列",
+        "onboard_time": 1686563129,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好中华民族精神生生不息的根脉#"
+    }
+  }
+}
