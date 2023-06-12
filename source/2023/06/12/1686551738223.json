@@ -1,0 +1,410 @@
+{
+  "runTime": 1686551738223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3011233,
+        "num": 3011233,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1883827,
+        "num": 1883827,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35799,
+        "num": 1638003,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507639,
+        "num": 1507639,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255165,
+        "num": 1255165,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1607210,
+        "num": 1195892,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070855,
+        "num": 1070855,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894698,
+        "num": 894698,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 807267,
+        "num": 807267,
+        "word": "江歌妈妈将赔偿款全额捐出",
+        "onboard_time": 1686539909,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804843,
+        "num": 804843,
+        "word": "THE9演唱会",
+        "onboard_time": 1686545979,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1198363,
+        "num": 769728,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711498,
+        "num": 711498,
+        "word": "胡锡进再评川大女生地铁曝光大叔",
+        "onboard_time": 1686544835,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663389,
+        "num": 663389,
+        "word": "白敬亭工作室向粉丝道歉",
+        "onboard_time": 1686541052,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471331,
+        "num": 471331,
+        "word": "入住毛坯房的我在小区出名了",
+        "onboard_time": 1686527006,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409610,
+        "num": 409610,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355087,
+        "num": 355087,
+        "word": "吴彦祖近照是P的",
+        "onboard_time": 1686546754,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 343040,
+        "num": 343040,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327768,
+        "num": 327768,
+        "word": "乔姐",
+        "onboard_time": 1686548190,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 275759,
+        "num": 275759,
+        "word": "黄景瑜和极限挑战保安打起来了",
+        "onboard_time": 1686526884,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243462,
+        "num": 243462,
+        "word": "这真的是吴彦祖吗",
+        "onboard_time": 1686545558,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626397,
+        "num": 243396,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 593729,
+        "num": 242629,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446079,
+        "num": 241416,
+        "word": "喝过的水竟然被蟑螂爬过",
+        "onboard_time": 1686541955,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438545,
+        "num": 240975,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304345,
+        "num": 240092,
+        "word": "北京警方通报男子挟持学生事件",
+        "onboard_time": 1686549512,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296664,
+        "num": 239264,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238786,
+        "num": 238786,
+        "word": "王鹤棣跟狗吵架",
+        "onboard_time": 1686548070,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212018,
+        "num": 212018,
+        "word": "李希侃道歉",
+        "onboard_time": 1686535648,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207266,
+        "num": 207266,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197258,
+        "num": 197258,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230057,
+        "num": 197036,
+        "word": "广东超市里面的蟑螂气球",
+        "onboard_time": 1686550289,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196657,
+        "num": 196657,
+        "word": "何瑞贤新剧刚怀孕就被陷害流产",
+        "onboard_time": 1686531870,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189815,
+        "num": 189815,
+        "word": "刘宇喊话刘大锤合作vlog项目",
+        "onboard_time": 1686550349,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189520,
+        "num": 189520,
+        "word": "陈奕迅广州演唱会",
+        "onboard_time": 1686548909,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172377,
+        "num": 172377,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172120,
+        "num": 172120,
+        "word": "肖春生疯狂找存在感",
+        "onboard_time": 1686548312,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171756,
+        "num": 171756,
+        "word": "明星带货还能红多久",
+        "onboard_time": 1686551310,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156971,
+        "num": 156971,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150767,
+        "num": 150767,
+        "word": "武汉地铁禁止饮食的原因",
+        "onboard_time": 1686549268,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149302,
+        "num": 149302,
+        "word": "管啸天",
+        "onboard_time": 1686549208,
+        "rank": 39,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "感动全网妈妈谈对儿子未来期望",
+        "onboard_time": 1686551249,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135771,
+        "num": 135771,
+        "word": "纷玩岛回应五月天退票",
+        "onboard_time": 1686551429,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132515,
+        "num": 132515,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132473,
+        "num": 132473,
+        "word": "高考结束男朋友牵我的手冲出考场",
+        "onboard_time": 1686531390,
+        "rank": 43,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 128341,
+        "num": 128341,
+        "word": "明星带货也要带上常识",
+        "onboard_time": 1686540630,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 118832,
+        "num": 118832,
+        "word": "周一上班发现办公室塌了",
+        "onboard_time": 1686548732,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "上班我只做六件事",
+        "onboard_time": 1686550470,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 105683,
+        "num": 105683,
+        "word": "文章包文婧组团带娃逛迪士尼",
+        "onboard_time": 1686529288,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84481,
+        "num": 105654,
+        "word": "亚运会",
+        "onboard_time": 1686543155,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50455,
+        "num": 105256,
+        "word": "KPL夏日解锁新姿势",
+        "onboard_time": 1686549628,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}

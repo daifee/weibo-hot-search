@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686550958697,
+  "endTime": 1686551738223,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1883827,
+      "num": 1883827,
+      "word": "华晨宇长沙退票",
+      "onboard_time": 1686547410,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1864328,
       "num": 1864328,
       "word": "找工作被确诊弱智",
@@ -67,20 +75,20 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 1723549,
-      "num": 1723549,
-      "word": "华晨宇长沙退票",
-      "onboard_time": 1686547410,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1677009,
       "num": 1677009,
       "word": "李希侃道歉",
       "onboard_time": 1686535648,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1507639,
+      "num": 1507639,
+      "word": "博主因性别称谓发视频曝光空乘",
+      "onboard_time": 1686547231,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1426174,
@@ -116,19 +124,11 @@
     },
     {
       "raw_hot": 1233395,
-      "num": 585826,
+      "num": 769728,
       "word": "何超仪 上次人这么齐还是在殡仪馆",
       "onboard_time": 1686545674,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1217851,
-      "num": 1217851,
-      "word": "博主因性别称谓发视频曝光空乘",
-      "onboard_time": 1686547231,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1135240,
@@ -140,15 +140,15 @@
     },
     {
       "raw_hot": 1133280,
-      "num": 632888,
+      "num": 711498,
       "word": "胡锡进再评川大女生地铁曝光大叔",
       "onboard_time": 1686544835,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1033243,
-      "num": 1033243,
+      "raw_hot": 1070855,
+      "num": 1070855,
       "word": "任敏换家人不想要王鹤棣",
       "onboard_time": 1686541832,
       "rank": 23,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 355087,
+      "num": 355087,
+      "word": "吴彦祖近照是P的",
+      "onboard_time": 1686546754,
+      "rank": 45,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 350451,
       "num": 350451,
       "word": "心动的信号6",
@@ -385,6 +393,14 @@
       "onboard_time": 1686537749,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343040,
+      "num": 343040,
+      "word": "防止肥胖要像猪猪一样吃",
+      "onboard_time": 1686549512,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 341771,
@@ -411,20 +427,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327768,
+      "num": 327768,
+      "word": "乔姐",
+      "onboard_time": 1686548190,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 327756,
       "num": 327756,
       "word": "白敬亭日常记录",
       "onboard_time": 1686495090,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323748,
-      "num": 323748,
-      "word": "吴彦祖近照是P的",
-      "onboard_time": 1686546754,
-      "rank": 45,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 323468,
@@ -475,28 +491,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 298589,
-      "num": 208888,
-      "word": "防止肥胖要像猪猪一样吃",
-      "onboard_time": 1686549512,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 294481,
       "num": 294481,
       "word": "胡锡进说应接受曝光大叔女子的道歉",
       "onboard_time": 1686491610,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290177,
-      "num": 290177,
-      "word": "乔姐",
-      "onboard_time": 1686548190,
-      "rank": 16,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 289831,
@@ -571,12 +571,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238786,
+      "num": 238786,
+      "word": "王鹤棣跟狗吵架",
+      "onboard_time": 1686548070,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231195,
       "num": 231195,
       "word": "离月亮很近的那颗星星叫什么",
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230057,
+      "num": 197036,
+      "word": "广东超市里面的蟑螂气球",
+      "onboard_time": 1686550289,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 222674,
@@ -625,14 +641,6 @@
       "onboard_time": 1686529468,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215249,
-      "num": 215249,
-      "word": "王鹤棣跟狗吵架",
-      "onboard_time": 1686548070,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 214834,
@@ -787,6 +795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 189815,
+      "num": 189815,
+      "word": "刘宇喊话刘大锤合作vlog项目",
+      "onboard_time": 1686550349,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188748,
       "num": 188748,
       "word": "王鹤棣身上的松弛感",
@@ -817,14 +833,6 @@
       "onboard_time": 1686497429,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 184341,
-      "num": 184341,
-      "word": "广东超市里面的蟑螂气球",
-      "onboard_time": 1686550289,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 181985,
@@ -859,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172120,
+      "num": 172120,
+      "word": "肖春生疯狂找存在感",
+      "onboard_time": 1686548312,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171756,
+      "num": 171756,
+      "word": "明星带货还能红多久",
+      "onboard_time": 1686551310,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171557,
       "num": 171557,
       "word": "许嵩 音乐节",
@@ -880,14 +904,6 @@
       "word": "肖春生在自己不知道的时候已爱上佟晓梅",
       "onboard_time": 1686533068,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 162139,
-      "num": 162139,
-      "word": "肖春生疯狂找存在感",
-      "onboard_time": 1686548312,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -931,6 +947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 150767,
+      "num": 150767,
+      "word": "武汉地铁禁止饮食的原因",
+      "onboard_time": 1686549268,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149405,
       "num": 149405,
       "word": "内娱莽夫遇上撒娇妲己",
@@ -939,20 +963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144363,
-      "num": 144363,
-      "word": "刘宇喊话刘大锤合作vlog项目",
-      "onboard_time": 1686550349,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 143972,
       "num": 143972,
       "word": "李沁首位年内酷云双剧破2演员",
       "onboard_time": 1686531029,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143577,
+      "num": 143577,
+      "word": "感动全网妈妈谈对儿子未来期望",
+      "onboard_time": 1686551249,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143083,
@@ -1027,6 +1051,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 135771,
+      "num": 135771,
+      "word": "纷玩岛回应五月天退票",
+      "onboard_time": 1686551429,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133549,
       "num": 133549,
       "word": "把情绪分给别人就是在承担风险",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1686493111,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 130904,
-      "num": 130904,
-      "word": "武汉地铁禁止饮食的原因",
-      "onboard_time": 1686549268,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130445,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1686550470,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 118832,
+      "num": 118832,
+      "word": "周一上班发现办公室塌了",
+      "onboard_time": 1686548732,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 118409,
