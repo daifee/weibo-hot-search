@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686594055672,
+  "endTime": 1686594832116,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -457,6 +457,14 @@
       "onboard_time": 1686581671,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 22095,
+      "num": 32257,
+      "word": "蔡徐坤拿了好多奶瓶",
+      "onboard_time": 1686578490,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
