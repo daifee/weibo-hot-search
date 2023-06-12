@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686584026678,
+  "endTime": 1686586918070,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -249,6 +249,14 @@
       "onboard_time": 1686107980,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 3150204,
+      "num": 3150204,
+      "word": "三子深夜大战不孕不育榴莲",
+      "onboard_time": 1686584788,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3148501,
@@ -1747,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1541496,
+      "num": 1541496,
+      "word": "夸克",
+      "onboard_time": 1686585147,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1540408,
       "num": 1540408,
       "word": "官方通报女干部被带去酒局灌酒",
@@ -3123,6 +3139,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1110952,
+      "num": 1110952,
+      "word": "初级会计",
+      "onboard_time": 1685715095,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1109788,
       "num": 1109788,
       "word": "卡卡 北京",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1686125072,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 896426,
+      "num": 896426,
+      "word": "余生夫妇vs春晓夫妇",
+      "onboard_time": 1686582391,
+      "rank": 35,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 896423,
@@ -5092,7 +5124,7 @@
     },
     {
       "raw_hot": 732991,
-      "num": 381623,
+      "num": 622519,
       "word": "初会",
       "onboard_time": 1686583589,
       "rank": 20,
@@ -7451,14 +7483,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 458548,
-      "num": 458548,
-      "word": "余生夫妇vs春晓夫妇",
-      "onboard_time": 1686582391,
-      "rank": 35,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 457327,
       "num": 457327,
       "word": "约基奇太强了",
@@ -7561,14 +7585,6 @@
       "onboard_time": 1685709272,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 450571,
-      "num": 450571,
-      "word": "初级会计",
-      "onboard_time": 1685715095,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 448612,
@@ -13835,6 +13851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247421,
+      "num": 247421,
+      "word": "王鹤棣蔡徐坤范丞丞三个校草",
+      "onboard_time": 1686585867,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247237,
       "num": 247237,
       "word": "男朋友紧张时会摸出学生卡壮胆",
@@ -18041,6 +18065,14 @@
       "onboard_time": 1686452188,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194977,
+      "num": 194977,
+      "word": "范丞丞拉着Angelababy挥手",
+      "onboard_time": 1686585387,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194949,
@@ -25219,6 +25251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107423,
+      "num": 107423,
+      "word": "中国唯一上榜的世界最美图书馆",
+      "onboard_time": 1686584309,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107395,
       "num": 107395,
       "word": "男子承包三餐只为督促妻子多吃点",
@@ -25745,6 +25785,14 @@
       "onboard_time": 1685616206,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93642,
+      "num": 93642,
+      "word": "你会给朋友发蚊子吗",
+      "onboard_time": 1686586768,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 93505,
@@ -26961,6 +27009,14 @@
       "onboard_time": 1686074415,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 58439,
+      "num": 1512304,
+      "word": "短途游3小时高铁圈",
+      "onboard_time": 1686577470,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57912,
