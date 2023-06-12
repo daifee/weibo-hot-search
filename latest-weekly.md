@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/12 09:47:34
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/12 10:09:29
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A7%B0%E5%B0%86%E4%BE%9D%E8%A7%84%E4%BE%9D%E7%BA%AA%E5%A4%84%E7%90%86%23" target="weibo">
+四川大学称将依规依纪处理（热度：3888431）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%AF%81%E6%9C%AA%E5%81%B7%E6%8B%8D%E4%BB%8D%E9%81%AD%E6%9B%9D%E5%85%89%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
@@ -28,13 +34,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%23" target="weibo">
-注册不了张z（热度：2044972）
+注册不了张z（热度：2078842）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9F%A5%E6%89%8B%E6%9C%BA%E6%97%B6%E6%9C%89%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E7%85%A7%23" target="weibo">
 大叔家属回应被查手机时有地铁车厢照（热度：1792193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%89%B5%E6%88%91%E7%9A%84%E6%89%8B%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA%23" target="weibo">
+高考结束男朋友牵我的手冲出考场（热度：1656387）
 </a>
 </li>
 
@@ -51,20 +63,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%89%B5%E6%88%91%E7%9A%84%E6%89%8B%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA%23" target="weibo">
-高考结束男朋友牵我的手冲出考场（热度：1288924）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23" target="weibo">
+何瑞贤新剧刚怀孕就被陷害流产（热度：1237328）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E7%94%B7%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%E7%9A%84%23" target="weibo">
 很多男人是没有爱情的（热度：1135240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%91%9E%E8%B4%A4%E6%96%B0%E5%89%A7%E5%88%9A%E6%80%80%E5%AD%95%E5%B0%B1%E8%A2%AB%E9%99%B7%E5%AE%B3%E6%B5%81%E4%BA%A7%23" target="weibo">
-何瑞贤新剧刚怀孕就被陷害流产（热度：1055094）
 </a>
 </li>
 
@@ -213,8 +219,20 @@ EXO团综（热度：364258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%AF%95%E7%A9%BF%E8%A3%99%E5%AD%90%E6%92%91%E7%A0%B4%E6%97%A0%E5%A5%88351%E5%85%83%E4%B9%B0%E4%B8%8B%23" target="weibo">
+女子称试穿裙子撑破无奈351元买下（热度：285908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%9F%E6%88%BF%E6%97%B6%E5%B8%A6%E4%B8%8D%E8%B5%B0%E7%9A%84%E8%83%BD%E4%B8%8D%E4%B9%B0%E5%B0%B1%E4%B8%8D%E4%B9%B0%23" target="weibo">
 租房时带不走的能不买就不买（热度：262369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%81%E8%BF%87699%E5%85%83%E7%9A%84%E8%A2%9C%E5%AD%90%E5%90%97%23" target="weibo">
+你见过699元的袜子吗（热度：260497）
 </a>
 </li>
 
@@ -237,20 +255,26 @@ EXO团综（热度：364258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%81%E8%BF%87699%E5%85%83%E7%9A%84%E8%A2%9C%E5%AD%90%E5%90%97%23" target="weibo">
-你见过699元的袜子吗（热度：231140）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E6%AD%A3%E8%A7%84%E4%B8%83%E8%BE%91EXIST%23" target="weibo">
 EXO正规七辑EXIST（热度：219119）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9F%91%E8%9E%82%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84%23" target="weibo">
+原来蟑螂是有记忆的（热度：217110）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E7%B2%89%E4%B8%9D%E5%BC%80%E5%A7%8B%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 EXO粉丝开始卷起来了（热度：216481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E4%B8%8D%E7%83%AD%E5%90%97%23" target="weibo">
+张云雷不热吗（热度：215958）
 </a>
 </li>
 
@@ -279,8 +303,8 @@ EXO粉丝开始卷起来了（热度：216481）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9F%91%E8%9E%82%E6%98%AF%E6%9C%89%E8%AE%B0%E5%BF%86%E7%9A%84%23" target="weibo">
-原来蟑螂是有记忆的（热度：209902）
+<a href="https://s.weibo.com/weibo?q=%23YG%E5%87%BA%E5%B0%8F%E5%88%86%E9%98%9F%E7%9A%84%E6%96%B9%E5%BC%8F%E5%A5%BD%E7%82%B8%E8%A3%82%23" target="weibo">
+YG出小分队的方式好炸裂（热度：209365）
 </a>
 </li>
 
@@ -291,8 +315,8 @@ EXO粉丝开始卷起来了（热度：216481）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E4%B8%8D%E7%83%AD%E5%90%97%23" target="weibo">
-张云雷不热吗（热度：200493）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89%23" target="weibo">
+李希侃道歉（热度：202068）
 </a>
 </li>
 
@@ -345,6 +369,12 @@ WBG失误（热度：196330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9B%A8%E4%B8%AD3%E5%B0%8F%E6%97%B6%E6%95%91%E5%8A%A9%E5%BF%AB%E9%80%92%E6%9F%9C%E4%B8%AD%E5%B0%8F%E7%8C%AB%23" target="weibo">
+女子雨中3小时救助快递柜中小猫（热度：173672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%20%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 许嵩 音乐节（热度：171557）
 </a>
@@ -353,6 +383,12 @@ WBG失误（热度：196330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%BA%E8%B4%AD%E4%B9%B0EXO%E6%AD%A3%E8%A7%84%E4%B8%83%E8%BE%91%E7%9A%84N%E7%A7%8D%E5%A5%BD%E5%A4%84%23" target="weibo">
 论购买EXO正规七辑的N种好处（热度：164823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E5%9C%A8%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%97%B6%E5%80%99%E5%B7%B2%E7%88%B1%E4%B8%8A%E4%BD%9F%E6%99%93%E6%A2%85%23" target="weibo">
+肖春生在自己不知道的时候已爱上佟晓梅（热度：161172）
 </a>
 </li>
 
@@ -369,8 +405,8 @@ WBG失误（热度：196330）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E5%9C%A8%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%97%B6%E5%80%99%E5%B7%B2%E7%88%B1%E4%B8%8A%E4%BD%9F%E6%99%93%E6%A2%85%23" target="weibo">
-肖春生在自己不知道的时候已爱上佟晓梅（热度：153550）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86612%E5%90%8D%E4%B8%AD%E8%80%83%E7%94%9F%E4%B9%98%E8%88%B9%E8%B5%B6%E8%80%83%23" target="weibo">
+重庆612名中考生乘船赶考（热度：151300）
 </a>
 </li>
 
@@ -389,6 +425,12 @@ WBG失误（热度：196330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A4%E5%A4%A9%E8%B5%B05%E6%AC%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
 文咏珊4天走5次红毯（热度：140933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%23" target="weibo">
+中考（热度：139638）
 </a>
 </li>
 
@@ -413,12 +455,6 @@ WBG失误（热度：196330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%90%8E%E5%94%AF%E4%B8%80%E6%94%BE%E6%9D%BE%E7%9A%84%E6%97%B6%E5%88%BB%20%E9%80%9B%E8%B6%85%E5%B8%82%23" target="weibo">
 工作后唯一放松的时刻 逛超市（热度：133322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%23" target="weibo">
-中考（热度：131062）
 </a>
 </li>
 
@@ -471,8 +507,26 @@ WBG失误（热度：196330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E6%97%A0%E5%A6%BB%E5%BE%92%E5%88%91%23" target="weibo">
+花戎无妻徒刑（热度：120159）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E6%88%98%E8%83%9CWBG%23" target="weibo">
 TES战胜WBG（热度：119939）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E8%BD%A6%E6%B5%81%E4%B8%AD%E5%B0%8F%E8%B7%91%E6%95%91%E4%B8%8B%E8%A2%AB%E6%92%9E%E4%BC%A4%E5%B0%8F%E7%8C%AB%23" target="weibo">
+交警车流中小跑救下被撞伤小猫（热度：111936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BBC%E5%8D%A7%E5%BA%95%E8%AE%B0%E8%80%85%23" target="weibo">
+BBC卧底记者（热度：110858）
 </a>
 </li>
 
@@ -515,12 +569,6 @@ light（热度：104927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E9%94%BB%E5%88%80%E6%9D%91%E7%AF%87%23" target="weibo">
 鬼灭之刃锻刀村篇（热度：97425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23YG%E5%87%BA%E5%B0%8F%E5%88%86%E9%98%9F%E7%9A%84%E6%96%B9%E5%BC%8F%E5%A5%BD%E7%82%B8%E8%A3%82%23" target="weibo">
-YG出小分队的方式好炸裂（热度：95821）
 </a>
 </li>
 

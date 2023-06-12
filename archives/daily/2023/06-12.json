@@ -1,7 +1,15 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686534454257,
+  "endTime": 1686535769957,
   "band_list": [
+    {
+      "raw_hot": 3888431,
+      "num": 1004830,
+      "word": "四川大学称将依规依纪处理",
+      "onboard_time": 1686534508,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2593991,
       "num": 963158,
@@ -19,7 +27,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2044972,
+      "raw_hot": 2078842,
       "num": 523173,
       "word": "注册不了张z",
       "onboard_time": 1686475288,
@@ -33,6 +41,14 @@
       "onboard_time": 1686500126,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1656387,
+      "num": 1656387,
+      "word": "高考结束男朋友牵我的手冲出考场",
+      "onboard_time": 1686531390,
+      "rank": 1,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 1426174,
@@ -51,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1288924,
-      "num": 1288924,
-      "word": "高考结束男朋友牵我的手冲出考场",
-      "onboard_time": 1686531390,
-      "rank": 1,
-      "category": "教育,情感"
+      "raw_hot": 1237328,
+      "num": 1237328,
+      "word": "何瑞贤新剧刚怀孕就被陷害流产",
+      "onboard_time": 1686531870,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1135240,
@@ -65,14 +81,6 @@
       "onboard_time": 1686530310,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1055094,
-      "num": 431182,
-      "word": "何瑞贤新剧刚怀孕就被陷害流产",
-      "onboard_time": 1686531870,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 880234,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 722852,
-      "num": 423821,
+      "num": 426986,
       "word": "文章包文婧组团带娃逛迪士尼",
       "onboard_time": 1686529288,
       "rank": 13,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 665381,
-      "num": 290805,
+      "num": 301474,
       "word": "北京政法职业学院发布情况通报",
       "onboard_time": 1686471268,
       "rank": 20,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 522550,
-      "num": 274348,
+      "num": 300889,
       "word": "原来跷二郎腿还会让脸变大",
       "onboard_time": 1686527790,
       "rank": 21,
@@ -267,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285908,
+      "num": 285908,
+      "word": "女子称试穿裙子撑破无奈351元买下",
+      "onboard_time": 1686535408,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
       "onboard_time": 1686526464,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260497,
+      "num": 260497,
+      "word": "你见过699元的袜子吗",
+      "onboard_time": 1686531091,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252803,
@@ -299,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231140,
-      "num": 231140,
-      "word": "你见过699元的袜子吗",
-      "onboard_time": 1686531091,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219119,
       "num": 219119,
       "word": "EXO正规七辑EXIST",
@@ -315,11 +331,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217110,
+      "num": 217110,
+      "word": "原来蟑螂是有记忆的",
+      "onboard_time": 1686527066,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216481,
       "num": 216481,
       "word": "EXO粉丝开始卷起来了",
       "onboard_time": 1686492211,
       "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 215958,
+      "num": 215958,
+      "word": "张云雷不热吗",
+      "onboard_time": 1686529468,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -355,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209902,
-      "num": 209902,
-      "word": "原来蟑螂是有记忆的",
-      "onboard_time": 1686527066,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 209365,
+      "num": 209365,
+      "word": "YG出小分队的方式好炸裂",
+      "onboard_time": 1686534446,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209079,
@@ -371,12 +403,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 200493,
-      "num": 200493,
-      "word": "张云雷不热吗",
-      "onboard_time": 1686529468,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 202068,
+      "num": 202068,
+      "word": "李希侃道歉",
+      "onboard_time": 1686535648,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 200157,
@@ -443,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173672,
+      "num": 173672,
+      "word": "女子雨中3小时救助快递柜中小猫",
+      "onboard_time": 1686534626,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171557,
       "num": 171557,
       "word": "许嵩 音乐节",
@@ -457,6 +497,14 @@
       "onboard_time": 1686528506,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161172,
+      "num": 161172,
+      "word": "肖春生在自己不知道的时候已爱上佟晓梅",
+      "onboard_time": 1686533068,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 159169,
@@ -475,12 +523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153550,
-      "num": 153550,
-      "word": "肖春生在自己不知道的时候已爱上佟晓梅",
-      "onboard_time": 1686533068,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 151300,
+      "num": 151300,
+      "word": "重庆612名中考生乘船赶考",
+      "onboard_time": 1686534508,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 143972,
@@ -505,6 +553,14 @@
       "onboard_time": 1686504499,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139638,
+      "num": 139638,
+      "word": "中考",
+      "onboard_time": 1686531748,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 139224,
@@ -537,14 +593,6 @@
       "onboard_time": 1686493111,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 131062,
-      "num": 131062,
-      "word": "中考",
-      "onboard_time": 1686531748,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 129594,
@@ -611,12 +659,36 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 120159,
+      "num": 120159,
+      "word": "花戎无妻徒刑",
+      "onboard_time": 1686535466,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "TES战胜WBG",
       "onboard_time": 1686494132,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111936,
+      "num": 111936,
+      "word": "交警车流中小跑救下被撞伤小猫",
+      "onboard_time": 1686534687,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110858,
+      "num": 110858,
+      "word": "BBC卧底记者",
+      "onboard_time": 1686535648,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109773,
@@ -673,14 +745,6 @@
       "onboard_time": 1686527486,
       "rank": 48,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 95821,
-      "num": 97403,
-      "word": "YG出小分队的方式好炸裂",
-      "onboard_time": 1686534446,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 88894,
