@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686579356567,
+  "endTime": 1686580431640,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -737,6 +737,14 @@
       "onboard_time": 1685752465,
       "rank": 0,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2199866,
+      "num": 2199866,
+      "word": "李耕耘",
+      "onboard_time": 1686576091,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 2183531,
@@ -1792,14 +1800,6 @@
       "word": "魏如萱马嘉祺 台北文学",
       "onboard_time": 1685802453,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1522238,
-      "num": 1522238,
-      "word": "李耕耘",
-      "onboard_time": 1686576091,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -3256,6 +3256,14 @@
       "word": "应采儿回应把hoho当成女孩养",
       "onboard_time": 1686561149,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1082607,
+      "num": 1082607,
+      "word": "奔跑吧Sunnee杨芸晴",
+      "onboard_time": 1686575670,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -5027,6 +5035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 742318,
+      "num": 1722880,
+      "word": "大熊猫洗澡两个半人摁半个负责洗",
+      "onboard_time": 1686554309,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742139,
       "num": 742139,
       "word": "我的农民爸爸读了我的硕士论文",
@@ -5201,14 +5217,6 @@
       "onboard_time": 1685950467,
       "rank": 16,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 705592,
-      "num": 705592,
-      "word": "奔跑吧Sunnee杨芸晴",
-      "onboard_time": 1686575670,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 705499,
@@ -5563,14 +5571,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 663298,
-      "num": 1722880,
-      "word": "大熊猫洗澡两个半人摁半个负责洗",
-      "onboard_time": 1686554309,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 661201,
       "num": 661201,
       "word": "8岁摄影师拍李现是被人抱起来的",
@@ -5883,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611543,
+      "num": 611543,
+      "word": "企业回应禁止婚外情和出轨",
+      "onboard_time": 1686577292,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608568,
       "num": 608568,
       "word": "你的六一我的六一好像不一样",
@@ -6187,6 +6195,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 568301,
+      "num": 568301,
+      "word": "白鹿的腿自带高光",
+      "onboard_time": 1686577408,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567816,
       "num": 567816,
       "word": "市监局回应反复对比确认是鸭脖",
@@ -6363,6 +6379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551119,
+      "num": 551119,
+      "word": "你只是需要早点睡觉",
+      "onboard_time": 1686575250,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 550814,
       "num": 550814,
       "word": "best道歉",
@@ -6464,14 +6488,6 @@
       "word": "江西4岁女童坠楼昏迷90天后苏醒",
       "onboard_time": 1685674287,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541915,
-      "num": 541915,
-      "word": "企业回应禁止婚外情和出轨",
-      "onboard_time": 1686577292,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -7059,14 +7075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486982,
-      "num": 486982,
-      "word": "白鹿的腿自带高光",
-      "onboard_time": 1686577408,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486474,
       "num": 486474,
       "word": "NCT团站休站",
@@ -7433,6 +7441,14 @@
       "onboard_time": 1685783129,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456873,
+      "num": 456873,
+      "word": "中新网评川大女生地铁曝光大叔",
+      "onboard_time": 1686576689,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456775,
@@ -8129,14 +8145,6 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411329,
-      "num": 411329,
-      "word": "你只是需要早点睡觉",
-      "onboard_time": 1686575250,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 411222,
@@ -9563,14 +9571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346576,
-      "num": 346576,
-      "word": "中新网评川大女生地铁曝光大叔",
-      "onboard_time": 1686576689,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346252,
       "num": 346252,
       "word": "法网女双",
@@ -10681,6 +10681,14 @@
       "onboard_time": 1685704832,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309616,
+      "num": 309616,
+      "word": "小鬼直播",
+      "onboard_time": 1686578250,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 309593,
@@ -12083,6 +12091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 278223,
+      "num": 278223,
+      "word": "还得是EXO",
+      "onboard_time": 1686571227,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 278156,
       "num": 278156,
       "word": "宁清",
@@ -12233,14 +12249,6 @@
       "onboard_time": 1685780427,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274509,
-      "num": 274509,
-      "word": "小鬼直播",
-      "onboard_time": 1686578250,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 274408,
@@ -13227,6 +13235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256518,
+      "num": 256518,
+      "word": "蔡徐坤拿了好多奶瓶",
+      "onboard_time": 1686578490,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256164,
       "num": 256164,
       "word": "赌王家族大合照",
@@ -13529,14 +13545,6 @@
       "onboard_time": 1685589206,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251612,
-      "num": 251612,
-      "word": "还得是EXO",
-      "onboard_time": 1686571227,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 251336,
@@ -15283,6 +15291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225541,
+      "num": 225541,
+      "word": "王子奇王玉雯说四搭演西游记",
+      "onboard_time": 1686577232,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225531,
       "num": 225531,
       "word": "女生出考场流利背诵劳动法",
@@ -15515,14 +15531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221621,
-      "num": 221621,
-      "word": "蔡徐坤拿了好多奶瓶",
-      "onboard_time": 1686578490,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221535,
       "num": 221535,
       "word": "你的童年回忆杀是什么",
@@ -15683,14 +15691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219726,
-      "num": 219726,
-      "word": "王子奇王玉雯说四搭演西游记",
-      "onboard_time": 1686577232,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219719,
       "num": 190217,
       "word": "桃花坞",
@@ -15721,6 +15721,14 @@
       "onboard_time": 1686153031,
       "rank": 30,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 219566,
+      "num": 219566,
+      "word": "侯明昊告别护心plog",
+      "onboard_time": 1686579509,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 219481,
@@ -18115,6 +18123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193409,
+      "num": 193409,
+      "word": "丧失了喜欢一个人的能力",
+      "onboard_time": 1686580171,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193381,
       "num": 193381,
       "word": "蔡徐坤把姚译添扔水里了",
@@ -18739,6 +18755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "相亲对象真的好靠谱",
+      "onboard_time": 1686570870,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189210,
       "num": 189210,
       "word": "如何看待职工被迫吃空饷",
@@ -18841,6 +18865,14 @@
       "onboard_time": 1686301052,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "张彬彬吻戏",
+      "onboard_time": 1686579869,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 188466,
@@ -19363,14 +19395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183393,
-      "num": 183393,
-      "word": "相亲对象真的好靠谱",
-      "onboard_time": 1686570870,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183293,
       "num": 183293,
       "word": "昊也",
@@ -19851,6 +19875,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 177461,
+      "num": 177461,
+      "word": "年轻人不睡觉的原因找到了",
+      "onboard_time": 1686579751,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177455,
       "num": 177455,
       "word": "长月烬明里究竟谁扛剧",
@@ -20219,6 +20251,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 172446,
+      "num": 172446,
+      "word": "肖春生胸肌",
+      "onboard_time": 1686579091,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -20392,14 +20432,6 @@
       "word": "照亮你能播出来不容易啊",
       "onboard_time": 1685794949,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169760,
-      "num": 169760,
-      "word": "肖春生胸肌",
-      "onboard_time": 1686579091,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -23012,7 +23044,7 @@
     },
     {
       "raw_hot": 137264,
-      "num": 137264,
+      "num": 143951,
       "word": "BLG对战AL",
       "onboard_time": 1686578671,
       "rank": 49,
@@ -25227,6 +25259,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 103822,
+      "num": 1306549,
+      "word": "复兴号开进青藏铁路倒计时",
+      "onboard_time": 1686577650,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103639,
       "num": 103639,
       "word": "蜘蛛侠彩蛋",
@@ -25585,14 +25625,6 @@
       "onboard_time": 1686295591,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94183,
-      "num": 1306549,
-      "word": "复兴号开进青藏铁路倒计时",
-      "onboard_time": 1686577650,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94171,
@@ -27315,6 +27347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 38408,
+      "num": 551764,
+      "word": "迷路萌娃迷之自信整蒙民警",
+      "onboard_time": 1686579213,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37722,
       "num": 446920,
       "word": "济南800辆爱心送考车整装待发",
@@ -27817,14 +27857,6 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 6157,
-      "num": 521741,
-      "word": "迷路萌娃迷之自信整蒙民警",
-      "onboard_time": 1686579213,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5391,

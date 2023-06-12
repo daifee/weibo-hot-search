@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686579356567,
+  "endTime": 1686580431640,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -57,6 +57,14 @@
       "onboard_time": 1686571348,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2199866,
+      "num": 2199866,
+      "word": "李耕耘",
+      "onboard_time": 1686576091,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 2078842,
@@ -129,14 +137,6 @@
       "onboard_time": 1686567149,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1522238,
-      "num": 1522238,
-      "word": "李耕耘",
-      "onboard_time": 1686576091,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 1507639,
@@ -264,6 +264,14 @@
       "word": "应采儿回应把hoho当成女孩养",
       "onboard_time": 1686561149,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1082607,
+      "num": 1082607,
+      "word": "奔跑吧Sunnee杨芸晴",
+      "onboard_time": 1686575670,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -395,6 +403,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 742318,
+      "num": 1722880,
+      "word": "大熊猫洗澡两个半人摁半个负责洗",
+      "onboard_time": 1686554309,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722852,
       "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
@@ -411,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 705592,
-      "num": 705592,
-      "word": "奔跑吧Sunnee杨芸晴",
-      "onboard_time": 1686575670,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
@@ -427,20 +435,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 663298,
-      "num": 1722880,
-      "word": "大熊猫洗澡两个半人摁半个负责洗",
-      "onboard_time": 1686554309,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 653921,
       "num": 653921,
       "word": "沈月捧花头像",
       "onboard_time": 1686572007,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611543,
+      "num": 611543,
+      "word": "企业回应禁止婚外情和出轨",
+      "onboard_time": 1686577292,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587268,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568301,
+      "num": 568301,
+      "word": "白鹿的腿自带高光",
+      "onboard_time": 1686577408,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567018,
       "num": 567018,
       "word": "EXO先行曲MV",
@@ -499,19 +515,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551119,
+      "num": 551119,
+      "word": "你只是需要早点睡觉",
+      "onboard_time": 1686575250,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 547370,
       "num": 547370,
       "word": "60岁阿姨健身22年后的样子",
       "onboard_time": 1686571227,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541915,
-      "num": 541915,
-      "word": "企业回应禁止婚外情和出轨",
-      "onboard_time": 1686577292,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -547,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486982,
-      "num": 486982,
-      "word": "白鹿的腿自带高光",
-      "onboard_time": 1686577408,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 481358,
       "num": 481358,
       "word": "过了下班时间窗口工作人员还在办理业务",
@@ -569,6 +577,14 @@
       "onboard_time": 1686575970,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456873,
+      "num": 456873,
+      "word": "中新网评川大女生地铁曝光大叔",
+      "onboard_time": 1686576689,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443485,
@@ -625,14 +641,6 @@
       "onboard_time": 1686477088,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 411329,
-      "num": 411329,
-      "word": "你只是需要早点睡觉",
-      "onboard_time": 1686575250,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 405669,
@@ -723,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346576,
-      "num": 346576,
-      "word": "中新网评川大女生地铁曝光大叔",
-      "onboard_time": 1686576689,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343025,
       "num": 343025,
       "word": "let me in",
@@ -817,6 +817,14 @@
       "onboard_time": 1686539009,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 309616,
+      "num": 309616,
+      "word": "小鬼直播",
+      "onboard_time": 1686578250,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 309209,
@@ -923,12 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274509,
-      "num": 274509,
-      "word": "小鬼直播",
-      "onboard_time": 1686578250,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 278223,
+      "num": 278223,
+      "word": "还得是EXO",
+      "onboard_time": 1686571227,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 270364,
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256518,
+      "num": 256518,
+      "word": "蔡徐坤拿了好多奶瓶",
+      "onboard_time": 1686578490,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255738,
       "num": 255738,
       "word": "日本核废水",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1686565768,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251612,
-      "num": 251612,
-      "word": "还得是EXO",
-      "onboard_time": 1686571227,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 250893,
@@ -1139,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225541,
+      "num": 225541,
+      "word": "王子奇王玉雯说四搭演西游记",
+      "onboard_time": 1686577232,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222721,
       "num": 222721,
       "word": "当反断舍离血脉觉醒",
@@ -1155,14 +1171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221621,
-      "num": 221621,
-      "word": "蔡徐坤拿了好多奶瓶",
-      "onboard_time": 1686578490,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "YG辟谣Jennie加入漫威",
@@ -1171,11 +1179,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219726,
-      "num": 219726,
-      "word": "王子奇王玉雯说四搭演西游记",
-      "onboard_time": 1686577232,
-      "rank": 34,
+      "raw_hot": 219566,
+      "num": 219566,
+      "word": "侯明昊告别护心plog",
+      "onboard_time": 1686579509,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1443,6 +1451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193409,
+      "num": 193409,
+      "word": "丧失了喜欢一个人的能力",
+      "onboard_time": 1686580171,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192665,
       "num": 192665,
       "word": "梅西见面会改为线上直播举行",
@@ -1507,12 +1523,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189243,
+      "num": 189243,
+      "word": "相亲对象真的好靠谱",
+      "onboard_time": 1686570870,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188748,
       "num": 188748,
       "word": "王鹤棣身上的松弛感",
       "onboard_time": 1686540509,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "张彬彬吻戏",
+      "onboard_time": 1686579869,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 188466,
@@ -1587,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183393,
-      "num": 183393,
-      "word": "相亲对象真的好靠谱",
-      "onboard_time": 1686570870,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181985,
       "num": 181985,
       "word": "一巴掌下去眼神都清澈了",
@@ -1627,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177461,
+      "num": 177461,
+      "word": "年轻人不睡觉的原因找到了",
+      "onboard_time": 1686579751,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174455,
       "num": 174455,
       "word": "白鹿陈都灵戴了同款耳饰",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1686534626,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172446,
+      "num": 172446,
+      "word": "肖春生胸肌",
+      "onboard_time": 1686579091,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 172200,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1686561869,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169760,
-      "num": 169760,
-      "word": "肖春生胸肌",
-      "onboard_time": 1686579091,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 169571,
@@ -1956,7 +1988,7 @@
     },
     {
       "raw_hot": 137264,
-      "num": 137264,
+      "num": 143951,
       "word": "BLG对战AL",
       "onboard_time": 1686578671,
       "rank": 49,
@@ -2251,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103822,
+      "num": 1306549,
+      "word": "复兴号开进青藏铁路倒计时",
+      "onboard_time": 1686577650,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103188,
       "num": 103188,
       "word": "不要为了花时间休息感到内疚",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1686568948,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94183,
-      "num": 1306549,
-      "word": "复兴号开进青藏铁路倒计时",
-      "onboard_time": 1686577650,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93874,
@@ -2419,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38408,
+      "num": 551764,
+      "word": "迷路萌娃迷之自信整蒙民警",
+      "onboard_time": 1686579213,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36278,
       "num": 163868,
       "word": "改完收货地址意识到真的毕业了",
@@ -2481,14 +2521,6 @@
       "onboard_time": 1686514212,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 6157,
-      "num": 521741,
-      "word": "迷路萌娃迷之自信整蒙民警",
-      "onboard_time": 1686579213,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
