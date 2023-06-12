@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686540892030,
+  "endTime": 1686543628949,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -32,6 +32,14 @@
       "word": "校内被撞身亡小学生母亲坠楼身亡",
       "onboard_time": 1685700868,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11149108,
+      "num": 11149108,
+      "word": "四川大学称将依规依纪处理",
+      "onboard_time": 1686534508,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1686129107,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 7888972,
-      "num": 7888972,
-      "word": "四川大学称将依规依纪处理",
-      "onboard_time": 1686534508,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7630424,
@@ -1395,8 +1395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1672530,
-      "num": 1672530,
+      "raw_hot": 1677009,
+      "num": 1677009,
       "word": "李希侃道歉",
       "onboard_time": 1686535648,
       "rank": 31,
@@ -2619,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1198958,
+      "num": 541093,
+      "word": "找工作被确诊弱智",
+      "onboard_time": 1686542373,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1197139,
       "num": 1197139,
       "word": "乌克兰大坝被炸",
@@ -3555,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 958053,
+      "num": 958053,
+      "word": "白敬亭工作室向粉丝道歉",
+      "onboard_time": 1686541052,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 955471,
       "num": 955471,
       "word": "专家称不排除二阳后还会有三阳",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1685863948,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 934872,
+      "num": 934872,
+      "word": "孟子义好贴贝微微",
+      "onboard_time": 1686541533,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 933372,
@@ -4161,6 +4185,14 @@
       "onboard_time": 1685854348,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 830625,
+      "num": 830625,
+      "word": "江歌妈妈将赔偿款全额捐出",
+      "onboard_time": 1686539909,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827838,
@@ -5121,14 +5153,6 @@
       "onboard_time": 1685794226,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 680234,
-      "num": 680234,
-      "word": "江歌妈妈将赔偿款全额捐出",
-      "onboard_time": 1686539909,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 680090,
@@ -7003,6 +7027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462734,
+      "num": 325512,
+      "word": "明星带货也要带上常识",
+      "onboard_time": 1686540630,
+      "rank": 48,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 461948,
       "num": 461948,
       "word": "九尾",
@@ -7033,6 +7065,14 @@
       "onboard_time": 1686439399,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461142,
+      "num": 325214,
+      "word": "任敏换家人不想要王鹤棣",
+      "onboard_time": 1686541832,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 460478,
@@ -9011,6 +9051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349584,
+      "num": 349584,
+      "word": "曝光大叔女子值得同情吗",
+      "onboard_time": 1686537749,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348960,
       "num": 302559,
       "word": "奥运冠军王懿律宣布退出国家队",
@@ -10187,6 +10235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309209,
+      "num": 309209,
+      "word": "ChatGPT做高考试卷和人类有何区别",
+      "onboard_time": 1686540931,
+      "rank": 27,
+      "category": "科技,教育"
+    },
+    {
       "raw_hot": 308971,
       "num": 308971,
       "word": "你觉得高考哪科最难",
@@ -11131,6 +11187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286362,
+      "num": 286362,
+      "word": "成年人不管多难过都准时上班",
+      "onboard_time": 1686539009,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 286243,
       "num": 286243,
       "word": "二建",
@@ -12051,14 +12115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266244,
-      "num": 266244,
-      "word": "曝光大叔女子值得同情吗",
-      "onboard_time": 1686537749,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266227,
       "num": 266227,
       "word": "皓史成双",
@@ -12096,6 +12152,14 @@
       "word": "终于等到吴青峰唱毕业歌",
       "onboard_time": 1686193652,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 265716,
+      "num": 265716,
+      "word": "纷玩岛",
+      "onboard_time": 1686541111,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -14283,6 +14347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229544,
+      "num": 229544,
+      "word": "离月亮很近的那颗星星叫什么",
+      "onboard_time": 1686543214,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229425,
       "num": 229425,
       "word": "瞒着父母买过最贵的东西",
@@ -14915,6 +14987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220012,
+      "num": 220012,
+      "word": "亚运会",
+      "onboard_time": 1686543155,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219719,
       "num": 190217,
       "word": "桃花坞",
@@ -15097,14 +15177,6 @@
       "onboard_time": 1686201391,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 217888,
-      "num": 217888,
-      "word": "成年人不管多难过都准时上班",
-      "onboard_time": 1686539009,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 217849,
@@ -15433,6 +15505,14 @@
       "onboard_time": 1686189570,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 214488,
+      "num": 214488,
+      "word": "亚运征途参赛名单公布",
+      "onboard_time": 1686540692,
+      "rank": 31,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 214409,
@@ -16275,6 +16355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "喝过的水竟然被蟑螂爬过",
+      "onboard_time": 1686541955,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203334,
       "num": 199796,
       "word": "微博电影之夜阵容",
@@ -16329,6 +16417,14 @@
       "onboard_time": 1686489571,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202762,
+      "num": 202762,
+      "word": "亚运征途",
+      "onboard_time": 1685602706,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 202682,
@@ -16769,14 +16865,6 @@
       "onboard_time": 1686405991,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197600,
-      "num": 197600,
-      "word": "亚运征途参赛名单公布",
-      "onboard_time": 1686540692,
-      "rank": 31,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 197589,
@@ -20819,6 +20907,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 152448,
+      "num": 152448,
+      "word": "试穿衣服时损坏你会付款买下吗",
+      "onboard_time": 1686542316,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 152347,
       "num": 152347,
       "word": "TES对战TT",
@@ -21539,6 +21635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141262,
+      "num": 323968,
+      "word": "那些年我没读完的红楼梦",
+      "onboard_time": 1686541832,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141171,
       "num": 1283355,
       "word": "加油高考生",
@@ -22057,14 +22161,6 @@
       "onboard_time": 1685622807,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 133666,
-      "num": 133666,
-      "word": "明星带货也要带上常识",
-      "onboard_time": 1686540630,
-      "rank": 48,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 133626,
@@ -24097,14 +24193,6 @@
       "onboard_time": 1686466588,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97869,
-      "num": 105430,
-      "word": "亚运征途",
-      "onboard_time": 1685602706,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 97416,
