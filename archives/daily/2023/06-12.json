@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686558834383,
+  "endTime": 1686561466965,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -107,12 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1457910,
-      "num": 696344,
+      "raw_hot": 1479543,
+      "num": 701620,
       "word": "任权 薛小婉",
       "onboard_time": 1686554369,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1445479,
+      "num": 1445479,
+      "word": "当蚊子吸了一口淤血",
+      "onboard_time": 1686557551,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 1426174,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865002,
+      "num": 865002,
+      "word": "跑男最后一期录制没有宋雨琦",
+      "onboard_time": 1686557850,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 851473,
       "num": 851473,
       "word": "THE9演唱会",
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704373,
+      "num": 704373,
+      "word": "贝卢斯科尼去世",
+      "onboard_time": 1686560008,
+      "rank": 9,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
@@ -299,12 +323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 678754,
-      "num": 678754,
-      "word": "当蚊子吸了一口淤血",
-      "onboard_time": 1686557551,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 650073,
+      "num": 650073,
+      "word": "刘大锤回应刘宇喊话",
+      "onboard_time": 1686558990,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 587268,
@@ -369,6 +393,14 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443485,
+      "num": 307296,
+      "word": "LESSERAFIM将来广州开线下签售会",
+      "onboard_time": 1686560249,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 434002,
@@ -449,14 +481,6 @@
       "onboard_time": 1686546754,
       "rank": 45,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 352688,
-      "num": 352688,
-      "word": "跑男最后一期录制没有宋雨琦",
-      "onboard_time": 1686557850,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 350451,
@@ -635,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265570,
+      "num": 265570,
+      "word": "Angelababy卷发双马尾",
+      "onboard_time": 1686560789,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
@@ -649,6 +681,14 @@
       "onboard_time": 1686531091,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258384,
+      "num": 258384,
+      "word": "杨紫红秀杂志花絮",
+      "onboard_time": 1686560849,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252803,
@@ -739,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220621,
+      "num": 220621,
+      "word": "YG辟谣Jennie加入漫威",
+      "onboard_time": 1686560070,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219119,
       "num": 219119,
       "word": "EXO正规七辑EXIST",
@@ -793,6 +841,14 @@
       "onboard_time": 1686540692,
       "rank": 31,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 214277,
+      "num": 214277,
+      "word": "李承铉听到Lucky会和男生抱抱的反应",
+      "onboard_time": 1686559708,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 213746,
@@ -955,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190595,
+      "num": 190595,
+      "word": "从那以后我再也没有穿过高跟鞋了",
+      "onboard_time": 1686558149,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189975,
       "num": 189975,
       "word": "高中男生称这个国家有我想保护的人",
@@ -1019,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185437,
+      "num": 185437,
+      "word": "应采儿回应把hoho当成女孩养",
+      "onboard_time": 1686561149,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181985,
       "num": 181985,
       "word": "一巴掌下去眼神都清澈了",
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180600,
+      "num": 180600,
+      "word": "薛之谦合肥",
+      "onboard_time": 1686561028,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 178280,
@@ -1179,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148199,
-      "num": 148199,
-      "word": "从那以后我再也没有穿过高跟鞋了",
-      "onboard_time": 1686558149,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147345,
       "num": 147345,
       "word": "原来人是突然就开始工作的",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1686531029,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143634,
+      "num": 143634,
+      "word": "纷玩岛回应五月天退票",
+      "onboard_time": 1686551429,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 143577,
@@ -1225,6 +1305,14 @@
       "onboard_time": 1686537509,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141790,
+      "num": 141790,
+      "word": "朴宰范行苍兰诀月族礼",
+      "onboard_time": 1686561328,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141223,
@@ -1299,14 +1387,6 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 135771,
-      "num": 135771,
-      "word": "纷玩岛回应五月天退票",
-      "onboard_time": 1686551429,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 133549,
       "num": 133549,
       "word": "把情绪分给别人就是在承担风险",
@@ -1321,6 +1401,14 @@
       "onboard_time": 1686493111,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130619,
+      "num": 130619,
+      "word": "柯文哲妄称若当选将瘫痪大陆高铁",
+      "onboard_time": 1686561450,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 130445,
@@ -1353,6 +1441,22 @@
       "onboard_time": 1686504258,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127833,
+      "num": 127833,
+      "word": "女子漂流翻船黑衣男子跳水救人",
+      "onboard_time": 1686560431,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126862,
+      "num": 126862,
+      "word": "TMEA音乐节",
+      "onboard_time": 1686561269,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125059,
@@ -1616,6 +1720,14 @@
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38710,
+      "num": 582762,
+      "word": "村里办长者食堂提供1元午餐",
+      "onboard_time": 1686560431,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

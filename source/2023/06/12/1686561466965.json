@@ -1,0 +1,410 @@
+{
+  "runTime": 1686561466965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1853364,
+        "num": 1853364,
+        "word": "韩国演员朴秀莲从楼梯摔落去世",
+        "onboard_time": 1686554189,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1445479,
+        "num": 1445479,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32547,
+        "num": 1059628,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3440203,
+        "num": 1056869,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008306,
+        "num": 1008306,
+        "word": "任敏性格",
+        "onboard_time": 1686553050,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865002,
+        "num": 865002,
+        "word": "跑男最后一期录制没有宋雨琦",
+        "onboard_time": 1686557850,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827678,
+        "num": 827678,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 757768,
+        "num": 757768,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 704530,
+        "num": 704530,
+        "word": "警方介入调查一女生遭多名学生掌掴",
+        "onboard_time": 1686557250,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704373,
+        "num": 704373,
+        "word": "贝卢斯科尼去世",
+        "onboard_time": 1686560008,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1479543,
+        "num": 701620,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 832507,
+        "num": 693458,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669326,
+        "num": 669326,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 650073,
+        "num": 650073,
+        "word": "刘大锤回应刘宇喊话",
+        "onboard_time": 1686558990,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38710,
+        "num": 582762,
+        "word": "村里办长者食堂提供1元午餐",
+        "onboard_time": 1686560431,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522846,
+        "num": 522846,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508950,
+        "num": 508950,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440194,
+        "num": 440194,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 344969,
+        "num": 344969,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307940,
+        "num": 307940,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443485,
+        "num": 307296,
+        "word": "LESSERAFIM将来广州开线下签售会",
+        "onboard_time": 1686560249,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381611,
+        "num": 304387,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296485,
+        "num": 296485,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269705,
+        "num": 269705,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265570,
+        "num": 265570,
+        "word": "Angelababy卷发双马尾",
+        "onboard_time": 1686560789,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263884,
+        "num": 263884,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258384,
+        "num": 258384,
+        "word": "杨紫红秀杂志花絮",
+        "onboard_time": 1686560849,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227768,
+        "num": 227768,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220621,
+        "num": 220621,
+        "word": "YG辟谣Jennie加入漫威",
+        "onboard_time": 1686560070,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217283,
+        "num": 217283,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130412,
+        "num": 217108,
+        "word": "注册不了张z公开道歉为何再惹众怒",
+        "onboard_time": 1686552689,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214277,
+        "num": 214277,
+        "word": "李承铉听到Lucky会和男生抱抱的反应",
+        "onboard_time": 1686559708,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195528,
+        "num": 195528,
+        "word": "白敬亭工作室向粉丝道歉",
+        "onboard_time": 1686541052,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194997,
+        "num": 194997,
+        "word": "公司说我在9月31号这天旷工了",
+        "onboard_time": 1686555808,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190595,
+        "num": 190595,
+        "word": "从那以后我再也没有穿过高跟鞋了",
+        "onboard_time": 1686558149,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185437,
+        "num": 185437,
+        "word": "应采儿回应把hoho当成女孩养",
+        "onboard_time": 1686561149,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185434,
+        "num": 185434,
+        "word": "胡锡进再评川大女生地铁曝光大叔",
+        "onboard_time": 1686544835,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180600,
+        "num": 180600,
+        "word": "薛之谦合肥",
+        "onboard_time": 1686561028,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177790,
+        "num": 177790,
+        "word": "肖春生我随晓梅成熟稳重",
+        "onboard_time": 1686557969,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164225,
+        "num": 164225,
+        "word": "乐华2023家族演唱会艺人阵容",
+        "onboard_time": 1686554788,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162781,
+        "num": 162781,
+        "word": "奔跑吧校服路透",
+        "onboard_time": 1686552567,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145785,
+        "num": 145785,
+        "word": "华晨宇方回应黄牛扰乱市场",
+        "onboard_time": 1686558629,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 143634,
+        "num": 143634,
+        "word": "纷玩岛回应五月天退票",
+        "onboard_time": 1686551429,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141790,
+        "num": 141790,
+        "word": "朴宰范行苍兰诀月族礼",
+        "onboard_time": 1686561328,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139098,
+        "num": 139098,
+        "word": "梅西见面会改为线上直播举行",
+        "onboard_time": 1686555687,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131710,
+        "num": 131710,
+        "word": "吴彦祖近照是P的",
+        "onboard_time": 1686546754,
+        "rank": 45,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 131530,
+        "num": 131530,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130619,
+        "num": 130619,
+        "word": "柯文哲妄称若当选将瘫痪大陆高铁",
+        "onboard_time": 1686561450,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 127833,
+        "num": 127833,
+        "word": "女子漂流翻船黑衣男子跳水救人",
+        "onboard_time": 1686560431,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126862,
+        "num": 126862,
+        "word": "TMEA音乐节",
+        "onboard_time": 1686561269,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好中华民族精神生生不息的根脉#"
+    }
+  }
+}
