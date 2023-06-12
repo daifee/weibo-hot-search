@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686594832116,
+  "endTime": 1686597203937,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480227,
+      "num": 360419,
+      "word": "任权 薛小婉",
+      "onboard_time": 1686554369,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 451496,
       "num": 451496,
       "word": "当蚊子吸了一口淤血",
@@ -129,14 +137,6 @@
       "onboard_time": 1686570389,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 360419,
-      "num": 360419,
-      "word": "任权 薛小婉",
-      "onboard_time": 1686554369,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 356259,
@@ -465,6 +465,14 @@
       "onboard_time": 1686578490,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18375,
+      "num": 26882,
+      "word": "曝光大叔女子道歉后舆论为何未平息",
+      "onboard_time": 1686596953,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
