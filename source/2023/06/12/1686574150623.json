@@ -1,0 +1,410 @@
+{
+  "runTime": 1686574150623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1532511,
+        "num": 1532511,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202288,
+        "num": 1202288,
+        "word": "梅西直播",
+        "onboard_time": 1686570268,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77528,
+        "num": 1046167,
+        "word": "汉唐风格的西安国家版本馆大气唯美",
+        "onboard_time": 1686571769,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1495723,
+        "num": 1044442,
+        "word": "官方通报女干部被带去酒局灌酒",
+        "onboard_time": 1686567149,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972229,
+        "num": 972229,
+        "word": "不孕不育是榴莲最好的福报",
+        "onboard_time": 1686571348,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 927165,
+        "num": 927165,
+        "word": "张彬彬的粉底咋回事",
+        "onboard_time": 1686570389,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 858866,
+        "num": 858866,
+        "word": "Rain 街舞6",
+        "onboard_time": 1686570689,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 762643,
+        "num": 762643,
+        "word": "女博士毕业丈夫称赞她是全家骄傲",
+        "onboard_time": 1686566009,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760169,
+        "num": 760169,
+        "word": "又一部炸裂的韩综",
+        "onboard_time": 1686562527,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571771,
+        "num": 571771,
+        "word": "阿信为陈绮贞发长文",
+        "onboard_time": 1686570210,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960772,
+        "num": 541672,
+        "word": "KPOP真的来了",
+        "onboard_time": 1686563669,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 919950,
+        "num": 535680,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484920,
+        "num": 484920,
+        "word": "刘大锤回应刘宇喊话",
+        "onboard_time": 1686558990,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431729,
+        "num": 431729,
+        "word": "猫突然入镜被男子推下山崖",
+        "onboard_time": 1686569908,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290565,
+        "num": 425792,
+        "word": "60岁阿姨健身22年后的样子",
+        "onboard_time": 1686571227,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423439,
+        "num": 423439,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417358,
+        "num": 417358,
+        "word": "白鹿王鹤棣坐一起",
+        "onboard_time": 1686567149,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415099,
+        "num": 415099,
+        "word": "沈月捧花头像",
+        "onboard_time": 1686572007,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404053,
+        "num": 404053,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362518,
+        "num": 362518,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334555,
+        "num": 334555,
+        "word": "应采儿回应把hoho当成女孩养",
+        "onboard_time": 1686561149,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325092,
+        "num": 325092,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298462,
+        "num": 298462,
+        "word": "抽奖抽到了赵露思吴磊cp粉",
+        "onboard_time": 1686572790,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272624,
+        "num": 272624,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257145,
+        "num": 257145,
+        "word": "一光伏企业高管慕尼黑下飞机被带走",
+        "onboard_time": 1686570689,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281458,
+        "num": 255505,
+        "word": "EXO先行曲MV",
+        "onboard_time": 1686562768,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264811,
+        "num": 251057,
+        "word": "跑男最后一期录制没有宋雨琦",
+        "onboard_time": 1686557850,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243423,
+        "num": 243423,
+        "word": "各种大蠊已经进军北方",
+        "onboard_time": 1686567450,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238793,
+        "num": 238793,
+        "word": "还得是EXO",
+        "onboard_time": 1686571227,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105527,
+        "num": 224416,
+        "word": "警方介入调查一女生遭多名学生掌掴",
+        "onboard_time": 1686557250,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223602,
+        "num": 223602,
+        "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+        "onboard_time": 1686567329,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "UP战胜TT",
+        "onboard_time": 1686573030,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203745,
+        "num": 203745,
+        "word": "EXO专辑",
+        "onboard_time": 1686564627,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193326,
+        "num": 193326,
+        "word": "肖春生腿好了嘴也好了",
+        "onboard_time": 1686570748,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190683,
+        "num": 190683,
+        "word": "千万不要在公司展现其他技能",
+        "onboard_time": 1686574109,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169254,
+        "num": 169254,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159850,
+        "num": 159850,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158892,
+        "num": 158892,
+        "word": "杨幂演我爱钱",
+        "onboard_time": 1686567749,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154662,
+        "num": 154662,
+        "word": "才知道实习生工资比我高",
+        "onboard_time": 1686567209,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143727,
+        "num": 153406,
+        "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
+        "onboard_time": 1686572068,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158633,
+        "num": 153314,
+        "word": "鹿晗应援物品免费发",
+        "onboard_time": 1686573869,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152546,
+        "num": 152546,
+        "word": "是哪个seventeen",
+        "onboard_time": 1686565588,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150153,
+        "num": 150153,
+        "word": "王皓史策回应是沈腾马丽2.0",
+        "onboard_time": 1686572548,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144764,
+        "num": 144764,
+        "word": "任敏汤晶媚时间线梳理",
+        "onboard_time": 1686573989,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137541,
+        "num": 137541,
+        "word": "相亲对象真的好靠谱",
+        "onboard_time": 1686570870,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137328,
+        "num": 137328,
+        "word": "半次元停服",
+        "onboard_time": 1686570748,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134589,
+        "num": 134589,
+        "word": "钟成虎发文控诉陈绮贞",
+        "onboard_time": 1686573269,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108297,
+        "num": 108297,
+        "word": "北京晚霞",
+        "onboard_time": 1686572369,
+        "rank": 47,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 95516,
+        "num": 108233,
+        "word": "贝卢斯科尼去世",
+        "onboard_time": 1686560008,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 93874,
+        "num": 108151,
+        "word": "该不该为了对象改变工作选择",
+        "onboard_time": 1686574109,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#保护好中华民族精神生生不息的根脉#"
+    }
+  }
+}
