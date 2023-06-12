@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686547018585,
+  "endTime": 1686548012363,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -115,12 +115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1105246,
+      "raw_hot": 1133280,
       "num": 632888,
       "word": "胡锡进再评川大女生地铁曝光大叔",
       "onboard_time": 1686544835,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033243,
+      "num": 1033243,
+      "word": "任敏换家人不想要王鹤棣",
+      "onboard_time": 1686541832,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1010954,
@@ -131,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 948611,
-      "num": 948611,
-      "word": "任敏换家人不想要王鹤棣",
-      "onboard_time": 1686541832,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 983832,
+      "num": 569604,
+      "word": "何超仪 上次人这么齐还是在殡仪馆",
+      "onboard_time": 1686545674,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 880234,
@@ -235,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 569604,
-      "num": 569604,
-      "word": "何超仪 上次人这么齐还是在殡仪馆",
-      "onboard_time": 1686545674,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 551478,
       "num": 551478,
       "word": "黄磊给谭松韵遮阳",
@@ -337,6 +337,14 @@
       "onboard_time": 1686491251,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362915,
+      "num": 362915,
+      "word": "THE9演唱会",
+      "onboard_time": 1686545979,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 359219,
@@ -467,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265750,
+      "num": 265750,
+      "word": "吴彦祖近照是P的",
+      "onboard_time": 1686546754,
+      "rank": 45,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 262369,
       "num": 262369,
       "word": "租房时带不走的能不买就不买",
       "onboard_time": 1686526464,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262035,
+      "num": 262035,
+      "word": "博主因性别称谓发视频曝光空乘",
+      "onboard_time": 1686547231,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260497,
@@ -505,14 +529,6 @@
       "onboard_time": 1686544057,
       "rank": 32,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 243793,
-      "num": 243793,
-      "word": "THE9演唱会",
-      "onboard_time": 1686545979,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 243743,
@@ -649,6 +665,14 @@
       "onboard_time": 1686484888,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207668,
+      "num": 207668,
+      "word": "华晨宇长沙退票",
+      "onboard_time": 1686547410,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 202762,
@@ -889,14 +913,6 @@
       "onboard_time": 1686504499,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139903,
-      "num": 139903,
-      "word": "吴彦祖近照是P的",
-      "onboard_time": 1686546754,
-      "rank": 45,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 139694,

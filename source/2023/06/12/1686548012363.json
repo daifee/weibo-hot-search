@@ -1,0 +1,410 @@
+{
+  "runTime": 1686548012363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7303095,
+        "num": 7303095,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1913511,
+        "num": 1913511,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46433,
+        "num": 1538088,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428853,
+        "num": 1428853,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1033243,
+        "num": 1033243,
+        "word": "任敏换家人不想要王鹤棣",
+        "onboard_time": 1686541832,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1428637,
+        "num": 904168,
+        "word": "曝光大叔女子哭诉学校准备开除她",
+        "onboard_time": 1686497909,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 723656,
+        "num": 723656,
+        "word": "白敬亭工作室向粉丝道歉",
+        "onboard_time": 1686541052,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623488,
+        "num": 623488,
+        "word": "江歌妈妈将赔偿款全额捐出",
+        "onboard_time": 1686539909,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622632,
+        "num": 622632,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580792,
+        "num": 580792,
+        "word": "何瑞贤新剧刚怀孕就被陷害流产",
+        "onboard_time": 1686531870,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1133280,
+        "num": 552179,
+        "word": "胡锡进再评川大女生地铁曝光大叔",
+        "onboard_time": 1686544835,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983832,
+        "num": 537693,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517850,
+        "num": 517850,
+        "word": "李希侃道歉",
+        "onboard_time": 1686535648,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457353,
+        "num": 457353,
+        "word": "入住毛坯房的我在小区出名了",
+        "onboard_time": 1686527006,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416191,
+        "num": 416191,
+        "word": "黄景瑜和极限挑战保安打起来了",
+        "onboard_time": 1686526884,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398680,
+        "num": 398680,
+        "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+        "onboard_time": 1686483687,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384459,
+        "num": 384459,
+        "word": "这真的是吴彦祖吗",
+        "onboard_time": 1686545558,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362915,
+        "num": 362915,
+        "word": "THE9演唱会",
+        "onboard_time": 1686545979,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306043,
+        "num": 306043,
+        "word": "黄磊给谭松韵遮阳",
+        "onboard_time": 1686535827,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271899,
+        "num": 271899,
+        "word": "明星带货也要带上常识",
+        "onboard_time": 1686540630,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 980191,
+        "num": 271786,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631388,
+        "num": 271681,
+        "word": "北京政法职业学院发布情况通报",
+        "onboard_time": 1686471268,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 536045,
+        "num": 271543,
+        "word": "女子称试穿裙子撑破无奈351元买下",
+        "onboard_time": 1686535408,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443066,
+        "num": 271436,
+        "word": "喝过的水竟然被蟑螂爬过",
+        "onboard_time": 1686541955,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312826,
+        "num": 271380,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284266,
+        "num": 271202,
+        "word": "Jennie身体状况",
+        "onboard_time": 1686486811,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271175,
+        "num": 271175,
+        "word": "高考结束男朋友牵我的手冲出考场",
+        "onboard_time": 1686531390,
+        "rank": 26,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 265750,
+        "num": 265750,
+        "word": "吴彦祖近照是P的",
+        "onboard_time": 1686546754,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 262035,
+        "num": 262035,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241337,
+        "num": 241337,
+        "word": "大叔家属回应被查手机时有地铁车厢照",
+        "onboard_time": 1686500126,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216693,
+        "num": 216693,
+        "word": "成年人不管多难过都准时上班",
+        "onboard_time": 1686539009,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 207668,
+        "num": 207668,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200641,
+        "num": 200641,
+        "word": "EXO今日公开先行曲LetMeIn",
+        "onboard_time": 1686535770,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198526,
+        "num": 198526,
+        "word": "BBC卧底记者",
+        "onboard_time": 1686535648,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187946,
+        "num": 187946,
+        "word": "薛之谦说我开始找你了梅西",
+        "onboard_time": 1686493533,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 183131,
+        "num": 183131,
+        "word": "文章包文婧组团带娃逛迪士尼",
+        "onboard_time": 1686529288,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183033,
+        "num": 183033,
+        "word": "Weiwei 886",
+        "onboard_time": 1686492031,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182539,
+        "num": 182539,
+        "word": "王一博GT3赛车初体验",
+        "onboard_time": 1686544596,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 179695,
+        "num": 179695,
+        "word": "ChatGPT做高考试卷和人类有何区别",
+        "onboard_time": 1686540931,
+        "rank": 38,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 177687,
+        "num": 177687,
+        "word": "亚运会",
+        "onboard_time": 1686543155,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168789,
+        "num": 168789,
+        "word": "纷玩岛",
+        "onboard_time": 1686541111,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140959,
+        "num": 140959,
+        "word": "找对风格的李兰迪",
+        "onboard_time": 1686540568,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136027,
+        "num": 136027,
+        "word": "EXO正规七辑EXIST",
+        "onboard_time": 1686525983,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130074,
+        "num": 130074,
+        "word": "梅西被迫宅在酒店",
+        "onboard_time": 1686485489,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 128029,
+        "num": 128029,
+        "word": "佟晓梅的上一秒vs下一秒",
+        "onboard_time": 1686544716,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127021,
+        "num": 127021,
+        "word": "蔚来全系车型降价3万元",
+        "onboard_time": 1686537027,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 117803,
+        "num": 117803,
+        "word": "苏炳添决定不参加世锦赛和亚运会",
+        "onboard_time": 1686536968,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117297,
+        "num": 117297,
+        "word": "你见过699元的袜子吗",
+        "onboard_time": 1686531091,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104211,
+        "num": 104211,
+        "word": "亚运征途参赛名单公布",
+        "onboard_time": 1686540692,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 96287,
+        "num": 96287,
+        "word": "原来真有人这样开演唱会",
+        "onboard_time": 1686541774,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设社会主义文化强国#"
+    }
+  }
+}
