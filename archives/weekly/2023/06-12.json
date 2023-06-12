@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686543628949,
+  "endTime": 1686544445055,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 548896,
+      "num": 677186,
       "word": "注册不了张z",
       "onboard_time": 1686475288,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1864328,
+      "num": 1864328,
+      "word": "找工作被确诊弱智",
+      "onboard_time": 1686542373,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1792193,
@@ -83,12 +91,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1198958,
-      "num": 541093,
-      "word": "找工作被确诊弱智",
-      "onboard_time": 1686542373,
-      "rank": 11,
-      "category": "情感"
+      "raw_hot": 1170132,
+      "num": 1170132,
+      "word": "孟子义好贴贝微微",
+      "onboard_time": 1686541533,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1135240,
@@ -99,20 +107,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 958053,
-      "num": 958053,
+      "raw_hot": 1010954,
+      "num": 1010954,
       "word": "白敬亭工作室向粉丝道歉",
       "onboard_time": 1686541052,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 934872,
-      "num": 934872,
-      "word": "孟子义好贴贝微微",
-      "onboard_time": 1686541533,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 880234,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 830625,
-      "num": 830625,
+      "raw_hot": 865259,
+      "num": 865259,
       "word": "江歌妈妈将赔偿款全额捐出",
       "onboard_time": 1686539909,
       "rank": 25,
@@ -147,12 +147,20 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 753231,
-      "num": 333523,
+      "raw_hot": 761336,
+      "num": 376784,
       "word": "女子称试穿裙子撑破无奈351元买下",
       "onboard_time": 1686535408,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744113,
+      "num": 357534,
+      "word": "北京政法职业学院发布情况通报",
+      "onboard_time": 1686471268,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 722852,
@@ -169,14 +177,6 @@
       "onboard_time": 1686486811,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710598,
-      "num": 333298,
-      "word": "北京政法职业学院发布情况通报",
-      "onboard_time": 1686471268,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 696107,
@@ -204,11 +204,19 @@
     },
     {
       "raw_hot": 582046,
-      "num": 582046,
+      "num": 683098,
       "word": "苏炳添决定不参加世锦赛和亚运会",
       "onboard_time": 1686536968,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558112,
+      "num": 352214,
+      "word": "任敏换家人不想要王鹤棣",
+      "onboard_time": 1686541832,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 551478,
@@ -227,28 +235,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 481358,
-      "num": 481358,
-      "word": "过了下班时间窗口工作人员还在办理业务",
-      "onboard_time": 1686500485,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462734,
-      "num": 325512,
+      "raw_hot": 495431,
+      "num": 332515,
       "word": "明星带货也要带上常识",
       "onboard_time": 1686540630,
       "rank": 48,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 461142,
-      "num": 325214,
-      "word": "任敏换家人不想要王鹤棣",
-      "onboard_time": 1686541832,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 481358,
+      "num": 481358,
+      "word": "过了下班时间窗口工作人员还在办理业务",
+      "onboard_time": 1686500485,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434002,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321123,
+      "num": 321123,
+      "word": "成年人不管多难过都准时上班",
+      "onboard_time": 1686539009,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 309209,
       "num": 309209,
       "word": "ChatGPT做高考试卷和人类有何区别",
@@ -379,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302652,
+      "num": 276002,
+      "word": "你对川大最新回应怎么看",
+      "onboard_time": 1686544298,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 294481,
       "num": 294481,
       "word": "胡锡进说应接受曝光大叔女子的道歉",
       "onboard_time": 1686491610,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289831,
+      "num": 289831,
+      "word": "纷玩岛",
+      "onboard_time": 1686541111,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 287302,
@@ -395,28 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286362,
-      "num": 286362,
-      "word": "成年人不管多难过都准时上班",
-      "onboard_time": 1686539009,
-      "rank": 48,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 286071,
       "num": 286071,
       "word": "BBC卧底记者",
       "onboard_time": 1686535648,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265716,
-      "num": 265716,
-      "word": "纷玩岛",
-      "onboard_time": 1686541111,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 262369,
@@ -451,6 +459,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248959,
+      "num": 248959,
+      "word": "五月天退票",
+      "onboard_time": 1686544298,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 246988,
+      "num": 264262,
+      "word": "晒出手机里的美食中国",
+      "onboard_time": 1686544057,
+      "rank": 32,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 244714,
+      "num": 244714,
+      "word": "喝过的水竟然被蟑螂爬过",
+      "onboard_time": 1686541955,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243743,
       "num": 243743,
       "word": "肖春生 我本桀骜少年臣",
@@ -459,16 +491,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229544,
-      "num": 229544,
+      "raw_hot": 231195,
+      "num": 231195,
       "word": "离月亮很近的那颗星星叫什么",
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
     },
     {
-      "raw_hot": 220012,
-      "num": 220012,
+      "raw_hot": 222674,
+      "num": 222674,
       "word": "亚运会",
       "onboard_time": 1686543155,
       "rank": 35,
@@ -579,14 +611,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203445,
-      "num": 203445,
-      "word": "喝过的水竟然被蟑螂爬过",
-      "onboard_time": 1686541955,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202762,
       "num": 202762,
       "word": "亚运征途",
@@ -667,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187369,
+      "num": 187369,
+      "word": "王一博影视剧的原声率",
+      "onboard_time": 1686539428,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186711,
       "num": 186711,
       "word": "金智秀Jennie同框照",
       "onboard_time": 1686497429,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 182479,
-      "num": 182479,
-      "word": "王一博影视剧的原声率",
-      "onboard_time": 1686539428,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 181985,
@@ -787,20 +811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143083,
+      "num": 323968,
+      "word": "那些年我没读完的红楼梦",
+      "onboard_time": 1686541832,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142598,
       "num": 142598,
       "word": "萌兰你的绝活被小熊学走了",
       "onboard_time": 1686537509,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141262,
-      "num": 323968,
-      "word": "那些年我没读完的红楼梦",
-      "onboard_time": 1686541832,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 141223,
@@ -1107,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 23106,
+      "num": 511642,
+      "word": "2023高考志愿填报十问十答",
+      "onboard_time": 1686544298,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14316,
       "num": 15960,
       "word": "周柏豪安崎唱一事无成",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1686514212,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 1708680,
+      "word": "全国网络普法行江西站",
+      "onboard_time": 1686544418,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
