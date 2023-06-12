@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686568482731,
+  "endTime": 1686569625617,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2803,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182251,
+      "num": 1182251,
+      "word": "官方通报女干部被带去酒局灌酒",
+      "onboard_time": 1686567149,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1177533,
       "num": 1177533,
       "word": "微博电影之夜红毯",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1686393763,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1056064,
-      "num": 1056064,
-      "word": "官方通报女干部被带去酒局灌酒",
-      "onboard_time": 1686567149,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1053947,
@@ -7235,6 +7235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 466218,
+      "num": 466218,
+      "word": "白鹿王鹤棣坐一起",
+      "onboard_time": 1686567149,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463515,
       "num": 463515,
       "word": "卡琳娜 我轻轻地尖叫晕了",
@@ -8291,6 +8299,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 396028,
+      "num": 1456933,
+      "word": "女博士毕业丈夫称赞她是全家骄傲",
+      "onboard_time": 1686566009,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395696,
       "num": 395696,
       "word": "曼城vs曼联",
@@ -8545,6 +8561,14 @@
       "onboard_time": 1686222631,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 382273,
+      "num": 382273,
+      "word": "各种大蠊已经进军北方",
+      "onboard_time": 1686567450,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382269,
@@ -10139,14 +10163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324216,
-      "num": 324216,
-      "word": "白鹿王鹤棣坐一起",
-      "onboard_time": 1686567149,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323468,
       "num": 247304,
       "word": "北京警方通报男子挟持学生事件",
@@ -11129,6 +11145,14 @@
       "onboard_time": 1685935653,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295558,
+      "num": 295558,
+      "word": "阿信",
+      "onboard_time": 1685799870,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 295466,
@@ -12267,6 +12291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270364,
+      "num": 270364,
+      "word": "才知道实习生工资比我高",
+      "onboard_time": 1686567209,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270338,
       "num": 254531,
       "word": "王玉雯王子奇请四搭",
@@ -12651,14 +12683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 263093,
-      "num": 263093,
-      "word": "才知道实习生工资比我高",
-      "onboard_time": 1686567209,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262996,
       "num": 266580,
       "word": "王鹤棣异域小王子",
@@ -12977,14 +13001,6 @@
       "onboard_time": 1686311787,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256765,
-      "num": 1456933,
-      "word": "女博士毕业丈夫称赞她是全家骄傲",
-      "onboard_time": 1686566009,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256600,
@@ -14059,6 +14075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240360,
+      "num": 240360,
+      "word": "杨幂演我爱钱",
+      "onboard_time": 1686567749,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240136,
       "num": 240136,
       "word": "当你想离职但又不好意思说",
@@ -14081,14 +14105,6 @@
       "onboard_time": 1685845167,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239475,
-      "num": 239475,
-      "word": "阿信",
-      "onboard_time": 1685799870,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 239142,
@@ -14145,14 +14161,6 @@
       "onboard_time": 1686548070,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238751,
-      "num": 238751,
-      "word": "杨幂演我爱钱",
-      "onboard_time": 1686567749,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 238726,
@@ -14516,7 +14524,7 @@
     },
     {
       "raw_hot": 233145,
-      "num": 221936,
+      "num": 231474,
       "word": "是哪个seventeen",
       "onboard_time": 1686565588,
       "rank": 34,
@@ -15321,6 +15329,14 @@
       "onboard_time": 1685938413,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221338,
+      "num": 221338,
+      "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+      "onboard_time": 1686567329,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221314,
@@ -16177,14 +16193,6 @@
       "onboard_time": 1686396405,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211367,
-      "num": 199563,
-      "word": "各种大蠊已经进军北方",
-      "onboard_time": 1686567450,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211233,
@@ -17305,14 +17313,6 @@
       "onboard_time": 1685949328,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198170,
-      "num": 198170,
-      "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
-      "onboard_time": 1686567329,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 198145,
@@ -23299,6 +23299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128800,
+      "num": 746267,
+      "word": "重庆医生离世捐器官救3人",
+      "onboard_time": 1686567990,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 128790,
       "num": 128790,
       "word": "掘金半场领先热火17分",
@@ -23369,6 +23377,14 @@
       "onboard_time": 1686464008,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127627,
+      "num": 127627,
+      "word": "贵阳Z纪元山湖音乐节",
+      "onboard_time": 1686569429,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 127571,
@@ -23601,6 +23617,14 @@
       "onboard_time": 1686359558,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123981,
+      "num": 139581,
+      "word": "魔鬼鱼的大规模迁徙",
+      "onboard_time": 1686569367,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123813,
@@ -24017,14 +24041,6 @@
       "onboard_time": 1685845527,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118467,
-      "num": 118467,
-      "word": "重庆医生离世捐器官救3人",
-      "onboard_time": 1686567990,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 118409,
@@ -25200,6 +25216,14 @@
       "word": "115元的水电费要了3次",
       "onboard_time": 1686438977,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95035,
+      "num": 107330,
+      "word": "以为很显眼没想到是显眼包",
+      "onboard_time": 1686568948,
+      "rank": 48,
       "category": "幽默"
     },
     {

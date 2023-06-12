@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686568482731,
+  "endTime": 1686569625617,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182251,
+      "num": 1182251,
+      "word": "官方通报女干部被带去酒局灌酒",
+      "onboard_time": 1686567149,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135240,
       "num": 1135240,
       "word": "很多男人是没有爱情的",
@@ -225,14 +233,6 @@
       "onboard_time": 1686561149,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1056064,
-      "num": 1056064,
-      "word": "官方通报女干部被带去酒局灌酒",
-      "onboard_time": 1686567149,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1031231,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466218,
+      "num": 466218,
+      "word": "白鹿王鹤棣坐一起",
+      "onboard_time": 1686567149,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443485,
       "num": 307296,
       "word": "LESSERAFIM将来广州开线下签售会",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396028,
+      "num": 1456933,
+      "word": "女博士毕业丈夫称赞她是全家骄傲",
+      "onboard_time": 1686566009,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392513,
       "num": 392513,
       "word": "奔跑吧校服路透",
@@ -521,6 +537,14 @@
       "onboard_time": 1686492031,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 382273,
+      "num": 382273,
+      "word": "各种大蠊已经进军北方",
+      "onboard_time": 1686567450,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364258,
@@ -635,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324216,
-      "num": 324216,
-      "word": "白鹿王鹤棣坐一起",
-      "onboard_time": 1686567149,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323468,
       "num": 247304,
       "word": "北京警方通报男子挟持学生事件",
@@ -699,6 +715,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 295558,
+      "num": 295558,
+      "word": "阿信",
+      "onboard_time": 1686566188,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294481,
       "num": 294481,
       "word": "胡锡进说应接受曝光大叔女子的道歉",
@@ -731,20 +755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270364,
+      "num": 270364,
+      "word": "才知道实习生工资比我高",
+      "onboard_time": 1686567209,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269453,
       "num": 269453,
       "word": "广东超市里面的蟑螂气球",
       "onboard_time": 1686550289,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263093,
-      "num": 263093,
-      "word": "才知道实习生工资比我高",
-      "onboard_time": 1686567209,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 262369,
@@ -769,14 +793,6 @@
       "onboard_time": 1686560849,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256765,
-      "num": 1456933,
-      "word": "女博士毕业丈夫称赞她是全家骄傲",
-      "onboard_time": 1686566009,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252803,
@@ -843,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240360,
+      "num": 240360,
+      "word": "杨幂演我爱钱",
+      "onboard_time": 1686567749,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239783,
       "num": 239783,
       "word": "谢娜 这几步走得也太帅了吧",
@@ -851,28 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239475,
-      "num": 239475,
-      "word": "阿信",
-      "onboard_time": 1686566188,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238786,
       "num": 238786,
       "word": "王鹤棣跟狗吵架",
       "onboard_time": 1686548070,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238751,
-      "num": 238751,
-      "word": "杨幂演我爱钱",
-      "onboard_time": 1686567749,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 237599,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 233145,
-      "num": 221936,
+      "num": 231474,
       "word": "是哪个seventeen",
       "onboard_time": 1686565588,
       "rank": 34,
@@ -929,6 +937,14 @@
       "onboard_time": 1686543155,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221338,
+      "num": 221338,
+      "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+      "onboard_time": 1686567329,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 220621,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1686486330,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211367,
-      "num": 199563,
-      "word": "各种大蠊已经进军北方",
-      "onboard_time": 1686567450,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211233,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1686492869,
       "rank": 30,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 198170,
-      "num": 198170,
-      "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
-      "onboard_time": 1686567329,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 198021,
@@ -1691,12 +1691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128800,
+      "num": 746267,
+      "word": "重庆医生离世捐器官救3人",
+      "onboard_time": 1686567990,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "女子漂流翻船黑衣男子跳水救人",
       "onboard_time": 1686560431,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127627,
+      "num": 127627,
+      "word": "贵阳Z纪元山湖音乐节",
+      "onboard_time": 1686569429,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 125438,
@@ -1713,6 +1729,14 @@
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123981,
+      "num": 139581,
+      "word": "魔鬼鱼的大规模迁徙",
+      "onboard_time": 1686569367,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123802,
@@ -1785,14 +1809,6 @@
       "onboard_time": 1686548732,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118467,
-      "num": 118467,
-      "word": "重庆医生离世捐器官救3人",
-      "onboard_time": 1686567990,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 118409,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1686527486,
       "rank": 48,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 95035,
+      "num": 107330,
+      "word": "以为很显眼没想到是显眼包",
+      "onboard_time": 1686568948,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88894,

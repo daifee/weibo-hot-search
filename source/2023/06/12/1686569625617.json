@@ -1,0 +1,410 @@
+{
+  "runTime": 1686569625617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2475561,
+        "num": 2475561,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515848,
+        "num": 1542044,
+        "word": "大熊猫洗澡两个半人摁半个负责洗",
+        "onboard_time": 1686554309,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11499,
+        "num": 1333272,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182251,
+        "num": 1182251,
+        "word": "官方通报女干部被带去酒局灌酒",
+        "onboard_time": 1686567149,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396028,
+        "num": 999813,
+        "word": "女博士毕业丈夫称赞她是全家骄傲",
+        "onboard_time": 1686566009,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846766,
+        "num": 846766,
+        "word": "当蚊子吸了一口淤血",
+        "onboard_time": 1686557551,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128800,
+        "num": 746267,
+        "word": "重庆医生离世捐器官救3人",
+        "onboard_time": 1686567990,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 735437,
+        "num": 735437,
+        "word": "又一部炸裂的韩综",
+        "onboard_time": 1686562527,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1401679,
+        "num": 706787,
+        "word": "KPOP真的来了",
+        "onboard_time": 1686563669,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1340484,
+        "num": 674773,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631479,
+        "num": 631479,
+        "word": "刘大锤回应刘宇喊话",
+        "onboard_time": 1686558990,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586889,
+        "num": 586889,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 532350,
+        "num": 532350,
+        "word": "五月天退票",
+        "onboard_time": 1686544298,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 466218,
+        "num": 466218,
+        "word": "白鹿王鹤棣坐一起",
+        "onboard_time": 1686567149,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413301,
+        "num": 413301,
+        "word": "贝卢斯科尼去世",
+        "onboard_time": 1686560008,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 454262,
+        "num": 412297,
+        "word": "跑男最后一期录制没有宋雨琦",
+        "onboard_time": 1686557850,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396803,
+        "num": 396803,
+        "word": "防止肥胖要像猪猪一样吃",
+        "onboard_time": 1686549512,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382273,
+        "num": 382273,
+        "word": "各种大蠊已经进军北方",
+        "onboard_time": 1686567450,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341824,
+        "num": 341824,
+        "word": "EXO先行曲MV",
+        "onboard_time": 1686562768,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310525,
+        "num": 310525,
+        "word": "何超仪 上次人这么齐还是在殡仪馆",
+        "onboard_time": 1686545674,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304533,
+        "num": 304533,
+        "word": "警方介入调查一女生遭多名学生掌掴",
+        "onboard_time": 1686557250,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295558,
+        "num": 295558,
+        "word": "阿信",
+        "onboard_time": 1686566188,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284532,
+        "num": 284532,
+        "word": "应采儿回应把hoho当成女孩养",
+        "onboard_time": 1686561149,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270364,
+        "num": 270364,
+        "word": "才知道实习生工资比我高",
+        "onboard_time": 1686567209,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269376,
+        "num": 269376,
+        "word": "华晨宇长沙退票",
+        "onboard_time": 1686547410,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257602,
+        "num": 257602,
+        "word": "博主因性别称谓发视频曝光空乘",
+        "onboard_time": 1686547231,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243118,
+        "num": 243118,
+        "word": "四川大学称将依规依纪处理",
+        "onboard_time": 1686534508,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240596,
+        "num": 240596,
+        "word": "王一博甩头",
+        "onboard_time": 1686565768,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240360,
+        "num": 240360,
+        "word": "杨幂演我爱钱",
+        "onboard_time": 1686567749,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235149,
+        "num": 235149,
+        "word": "EXO专辑",
+        "onboard_time": 1686564627,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231474,
+        "num": 231474,
+        "word": "是哪个seventeen",
+        "onboard_time": 1686565588,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221338,
+        "num": 221338,
+        "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
+        "onboard_time": 1686567329,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174495,
+        "num": 174495,
+        "word": "白鹿绿色吊带随拍",
+        "onboard_time": 1686565108,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170507,
+        "num": 170507,
+        "word": "浮光马面裙",
+        "onboard_time": 1686563448,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 154003,
+        "num": 154003,
+        "word": "找工作被确诊弱智",
+        "onboard_time": 1686542373,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149613,
+        "num": 149613,
+        "word": "let me in",
+        "onboard_time": 1686562410,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148563,
+        "num": 148563,
+        "word": "猎豹与陪伴犬",
+        "onboard_time": 1686568169,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147988,
+        "num": 147988,
+        "word": "vcccc",
+        "onboard_time": 1686567028,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143507,
+        "num": 143507,
+        "word": "公司说我在9月31号这天旷工了",
+        "onboard_time": 1686555808,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123981,
+        "num": 139581,
+        "word": "魔鬼鱼的大规模迁徙",
+        "onboard_time": 1686569367,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146294,
+        "num": 137856,
+        "word": "SEVENTEEN澳门音乐节",
+        "onboard_time": 1686563010,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135950,
+        "num": 135950,
+        "word": "孟子义好贴贝微微",
+        "onboard_time": 1686541533,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127627,
+        "num": 127627,
+        "word": "贵阳Z纪元山湖音乐节",
+        "onboard_time": 1686569429,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126948,
+        "num": 126948,
+        "word": "Angelababy卷发双马尾",
+        "onboard_time": 1686560789,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122117,
+        "num": 122117,
+        "word": "很多男人是没有爱情的",
+        "onboard_time": 1686530310,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111722,
+        "num": 111722,
+        "word": "陈奕迅广州演唱会连开6场",
+        "onboard_time": 1686567509,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108236,
+        "num": 108236,
+        "word": "野生脑子 大学生专用",
+        "onboard_time": 1686565950,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97913,
+        "num": 108162,
+        "word": "原来跷二郎腿还会让脸变大",
+        "onboard_time": 1686527790,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95035,
+        "num": 107330,
+        "word": "以为很显眼没想到是显眼包",
+        "onboard_time": 1686568948,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86794,
+        "num": 106562,
+        "word": "蔚来",
+        "onboard_time": 1686561508,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}
