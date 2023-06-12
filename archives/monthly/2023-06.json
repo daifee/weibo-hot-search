@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686586918070,
+  "endTime": 1686587864610,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1043,6 +1043,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 1970284,
+      "num": 1970284,
+      "word": "夸克",
+      "onboard_time": 1686585147,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1956300,
       "num": 1956300,
       "word": "79岁老人欲取离世儿子41万存款被拒",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1686293729,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1541496,
-      "num": 1541496,
-      "word": "夸克",
-      "onboard_time": 1686585147,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1540408,
@@ -6819,6 +6819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 510261,
+      "num": 510261,
+      "word": "中国唯一上榜的世界最美图书馆",
+      "onboard_time": 1686584309,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507598,
       "num": 253108,
       "word": "肖战 CHALI",
@@ -11547,6 +11555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290715,
+      "num": 290715,
+      "word": "王鹤棣蔡徐坤范丞丞三个校草",
+      "onboard_time": 1686585867,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290629,
       "num": 290629,
       "word": "薛之谦演唱会深圳",
@@ -13848,14 +13864,6 @@
       "word": "归途有风 边听边哭",
       "onboard_time": 1686308008,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247421,
-      "num": 247421,
-      "word": "王鹤棣蔡徐坤范丞丞三个校草",
-      "onboard_time": 1686585867,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -17595,6 +17603,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 199773,
+      "num": 199773,
+      "word": "范丞丞拉着Angelababy挥手",
+      "onboard_time": 1686585387,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199760,
       "num": 170739,
       "word": "王嘉尔澳门演唱会官宣",
@@ -18065,14 +18081,6 @@
       "onboard_time": 1686452188,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194977,
-      "num": 194977,
-      "word": "范丞丞拉着Angelababy挥手",
-      "onboard_time": 1686585387,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 194949,
@@ -25251,14 +25259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107423,
-      "num": 107423,
-      "word": "中国唯一上榜的世界最美图书馆",
-      "onboard_time": 1686584309,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107395,
       "num": 107395,
       "word": "男子承包三餐只为督促妻子多吃点",
@@ -25473,6 +25473,14 @@
       "onboard_time": 1686538589,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101327,
+      "num": 101327,
+      "word": "你会给朋友发蚊子吗",
+      "onboard_time": 1686586768,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 101127,
@@ -25785,14 +25793,6 @@
       "onboard_time": 1685616206,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93642,
-      "num": 93642,
-      "word": "你会给朋友发蚊子吗",
-      "onboard_time": 1686586768,
-      "rank": 48,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 93505,
@@ -26307,6 +26307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77169,
+      "num": 1512304,
+      "word": "短途游3小时高铁圈",
+      "onboard_time": 1686577470,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76779,
       "num": 100556,
       "word": "广东人吃杨梅真是脑洞大开",
@@ -26321,6 +26329,14 @@
       "onboard_time": 1686180743,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76486,
+      "num": 81094,
+      "word": "当我怒气冲冲地查完账单",
+      "onboard_time": 1686586708,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76423,
@@ -27009,14 +27025,6 @@
       "onboard_time": 1686074415,
       "rank": 23,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 58439,
-      "num": 1512304,
-      "word": "短途游3小时高铁圈",
-      "onboard_time": 1686577470,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57912,

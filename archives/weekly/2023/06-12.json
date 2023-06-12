@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686586918070,
+  "endTime": 1686587864610,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -91,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1970284,
+      "num": 1970284,
+      "word": "夸克",
+      "onboard_time": 1686585147,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1900070,
       "num": 1900070,
       "word": "华晨宇长沙退票",
@@ -137,14 +145,6 @@
       "onboard_time": 1686535648,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1541496,
-      "num": 1541496,
-      "word": "夸克",
-      "onboard_time": 1686585147,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1540408,
@@ -603,6 +603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 510261,
+      "num": 510261,
+      "word": "中国唯一上榜的世界最美图书馆",
+      "onboard_time": 1686584309,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495431,
       "num": 343692,
       "word": "明星带货也要带上常识",
@@ -971,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290715,
+      "num": 290715,
+      "word": "王鹤棣蔡徐坤范丞丞三个校草",
+      "onboard_time": 1686585867,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289831,
       "num": 289831,
       "word": "纷玩岛",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1686553409,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247421,
-      "num": 247421,
-      "word": "王鹤棣蔡徐坤范丞丞三个校草",
-      "onboard_time": 1686585867,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 246988,
@@ -1531,6 +1539,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 199773,
+      "num": 199773,
+      "word": "范丞丞拉着Angelababy挥手",
+      "onboard_time": 1686585387,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199258,
       "num": 199258,
       "word": "王皓史策回应是沈腾马丽2.0",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1686494432,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194977,
-      "num": 194977,
-      "word": "范丞丞拉着Angelababy挥手",
-      "onboard_time": 1686585387,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 194813,
@@ -2395,14 +2403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107423,
-      "num": 107423,
-      "word": "中国唯一上榜的世界最美图书馆",
-      "onboard_time": 1686584309,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104927,
       "num": 104927,
       "word": "light",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1686538589,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101327,
+      "num": 101327,
+      "word": "你会给朋友发蚊子吗",
+      "onboard_time": 1686586768,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 101127,
@@ -2499,14 +2507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93642,
-      "num": 93642,
-      "word": "你会给朋友发蚊子吗",
-      "onboard_time": 1686586768,
-      "rank": 48,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 88894,
       "num": 88894,
       "word": "孟佳王霏霏10年前vs现在合照",
@@ -2521,6 +2521,22 @@
       "onboard_time": 1686582031,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77169,
+      "num": 1512304,
+      "word": "短途游3小时高铁圈",
+      "onboard_time": 1686577470,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76486,
+      "num": 81094,
+      "word": "当我怒气冲冲地查完账单",
+      "onboard_time": 1686586708,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76345,
@@ -2569,14 +2585,6 @@
       "onboard_time": 1686477088,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 58439,
-      "num": 1512304,
-      "word": "短途游3小时高铁圈",
-      "onboard_time": 1686577470,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57926,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686586918070,
+  "endTime": 1686587864610,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -11,8 +11,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1541496,
-      "num": 1541496,
+      "raw_hot": 1970284,
+      "num": 1970284,
       "word": "夸克",
       "onboard_time": 1686585147,
       "rank": 1,
@@ -43,8 +43,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 936465,
-      "num": 936465,
+      "raw_hot": 983744,
+      "num": 983744,
       "word": "韩网红柬埔寨去世尸体被扔水沟",
       "onboard_time": 1686566249,
       "rank": 5,
@@ -81,6 +81,14 @@
       "onboard_time": 1686583589,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 510261,
+      "num": 510261,
+      "word": "中国唯一上榜的世界最美图书馆",
+      "onboard_time": 1686584309,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483295,
@@ -139,6 +147,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 290715,
+      "num": 290715,
+      "word": "王鹤棣蔡徐坤范丞丞三个校草",
+      "onboard_time": 1686585867,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272951,
       "num": 272951,
       "word": "官方通报女干部被带去酒局灌酒",
@@ -153,14 +169,6 @@
       "onboard_time": 1686563669,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247421,
-      "num": 247421,
-      "word": "王鹤棣蔡徐坤范丞丞三个校草",
-      "onboard_time": 1686585867,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 237756,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199773,
+      "num": 199773,
+      "word": "范丞丞拉着Angelababy挥手",
+      "onboard_time": 1686585387,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198541,
       "num": 198541,
       "word": "沈月捧花头像",
@@ -217,14 +233,6 @@
       "onboard_time": 1686579751,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194977,
-      "num": 194977,
-      "word": "范丞丞拉着Angelababy挥手",
-      "onboard_time": 1686585387,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 188307,
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150417,
+      "num": 150417,
+      "word": "60岁阿姨健身22年后的样子",
+      "onboard_time": 1686571227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148534,
       "num": 148534,
       "word": "奔跑吧Sunnee杨芸晴",
@@ -307,11 +323,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134002,
-      "num": 134002,
-      "word": "60岁阿姨健身22年后的样子",
-      "onboard_time": 1686571227,
-      "rank": 39,
+      "raw_hot": 128726,
+      "num": 128726,
+      "word": "猫突然入镜被男子推下山崖",
+      "onboard_time": 1686569908,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -339,28 +355,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107423,
-      "num": 107423,
-      "word": "中国唯一上榜的世界最美图书馆",
-      "onboard_time": 1686584309,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104892,
       "num": 104892,
       "word": "陈绮贞律师声明",
       "onboard_time": 1686582211,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102743,
-      "num": 102743,
-      "word": "猫突然入镜被男子推下山崖",
-      "onboard_time": 1686569908,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102418,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101327,
+      "num": 101327,
+      "word": "你会给朋友发蚊子吗",
+      "onboard_time": 1686586768,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 101066,
       "num": 101066,
       "word": "大熊猫洗澡两个半人摁半个负责洗",
@@ -379,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93642,
-      "num": 93642,
-      "word": "你会给朋友发蚊子吗",
-      "onboard_time": 1686586768,
-      "rank": 48,
-      "category": "情感,幽默"
+      "raw_hot": 97629,
+      "num": 97629,
+      "word": "任敏汤晶媚时间线梳理",
+      "onboard_time": 1686573989,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93336,
@@ -395,17 +403,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 58439,
+      "raw_hot": 77169,
       "num": 1512304,
       "word": "短途游3小时高铁圈",
       "onboard_time": 1686577470,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76486,
+      "num": 81094,
+      "word": "当我怒气冲冲地查完账单",
+      "onboard_time": 1686586708,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平同洪都拉斯总统卡斯特罗举行会谈#"
+    },
+    {
+      "word": "#高质量发展调研行#"
     }
   ]
 }
