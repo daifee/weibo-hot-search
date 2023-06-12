@@ -1,10 +1,10 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686539072506,
+  "endTime": 1686540187566,
   "band_list": [
     {
-      "raw_hot": 3888431,
-      "num": 3543966,
+      "raw_hot": 4862758,
+      "num": 4862758,
       "word": "四川大学称将依规依纪处理",
       "onboard_time": 1686534508,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 534664,
+      "num": 548896,
       "word": "注册不了张z",
       "onboard_time": 1686475288,
       "rank": 10,
@@ -171,6 +171,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555872,
+      "num": 555872,
+      "word": "苏炳添决定不参加世锦赛和亚运会",
+      "onboard_time": 1686536968,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 534162,
+      "num": 534162,
+      "word": "黄磊给谭松韵遮阳",
+      "onboard_time": 1686535827,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522550,
       "num": 332652,
       "word": "原来跷二郎腿还会让脸变大",
@@ -185,14 +201,6 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443034,
-      "num": 443034,
-      "word": "苏炳添决定不参加世锦赛和亚运会",
-      "onboard_time": 1686536968,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 434002,
@@ -235,20 +243,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 365130,
-      "num": 365130,
-      "word": "黄磊给谭松韵遮阳",
-      "onboard_time": 1686535827,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 364258,
       "num": 364258,
       "word": "EXO团综",
       "onboard_time": 1686491251,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359219,
+      "num": 313756,
+      "word": "剑网3",
+      "onboard_time": 1686539068,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 350451,
@@ -355,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 252696,
+      "num": 252696,
+      "word": "江歌妈妈将赔偿款全额捐出",
+      "onboard_time": 1686539909,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250179,
       "num": 250179,
       "word": "蒋依依希望尽快和平解约",
@@ -411,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214834,
+      "num": 214834,
+      "word": "如何看待明星公开炫富",
+      "onboard_time": 1686537448,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 213746,
       "num": 213746,
       "word": "郑州打雷",
@@ -449,14 +473,6 @@
       "onboard_time": 1686534446,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209132,
-      "num": 209132,
-      "word": "如何看待明星公开炫富",
-      "onboard_time": 1686537448,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 209079,
@@ -499,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194813,
+      "num": 194813,
+      "word": "花戎无妻徒刑",
+      "onboard_time": 1686535466,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192641,
       "num": 192641,
       "word": "星空",
@@ -531,6 +555,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 183903,
+      "num": 183903,
+      "word": "成年人不管多难过都准时上班",
+      "onboard_time": 1686539009,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 182479,
+      "num": 182479,
+      "word": "王一博影视剧的原声率",
+      "onboard_time": 1686539428,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181985,
       "num": 181985,
       "word": "一巴掌下去眼神都清澈了",
@@ -539,12 +579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181633,
-      "num": 181633,
-      "word": "花戎无妻徒刑",
-      "onboard_time": 1686535466,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 178013,
+      "num": 178013,
+      "word": "第一次大学毕业赠品还挺多",
+      "onboard_time": 1686539489,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 174455,
@@ -609,6 +649,14 @@
       "onboard_time": 1686534508,
       "rank": 35,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "内娱莽夫遇上撒娇妲己",
+      "onboard_time": 1686538048,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143972,
@@ -683,12 +731,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 131486,
-      "num": 131486,
-      "word": "内娱莽夫遇上撒娇妲己",
-      "onboard_time": 1686538048,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 130050,
+      "num": 130050,
+      "word": "交警风雨中救助脑出血男子",
+      "onboard_time": 1686539849,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129594,
@@ -833,14 +881,6 @@
       "onboard_time": 1686527486,
       "rank": 48,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 94915,
-      "num": 94915,
-      "word": "成年人不管多难过都准时上班",
-      "onboard_time": 1686539009,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 88894,
