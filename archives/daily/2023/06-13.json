@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686659651100,
+  "endTime": 1686660620396,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -35,6 +35,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2546927,
+      "num": 2546927,
+      "word": "性化幼女的童装不叫穿衣自由",
+      "onboard_time": 1686657027,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2129279,
       "num": 2129279,
       "word": "发小喊了四年终于离职了",
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1918040,
-      "num": 1918040,
-      "word": "性化幼女的童装不叫穿衣自由",
-      "onboard_time": 1686657027,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1819415,
       "num": 1819415,
       "word": "现代人已经不吃鸡汤了",
@@ -83,20 +83,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1771352,
+      "num": 1771352,
+      "word": "笑果旗下公司擅自演出被罚",
+      "onboard_time": 1686656547,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1700934,
       "num": 1700934,
       "word": "刘鑫不服二审判决申请再审",
       "onboard_time": 1686632673,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1606487,
-      "num": 1606487,
-      "word": "笑果旗下公司擅自演出被罚",
-      "onboard_time": 1686656547,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1566687,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1195816,
+      "num": 1195816,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1118116,
       "num": 1118116,
       "word": "为什么夏天都不穿凉鞋了",
@@ -281,14 +289,6 @@
       "onboard_time": 1686649948,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1009410,
-      "num": 1009410,
-      "word": "猫的树好会拍",
-      "onboard_time": 1686657329,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1003756,
@@ -491,6 +491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560537,
+      "num": 560537,
+      "word": "清潭国际高中",
+      "onboard_time": 1686657568,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 531773,
+      "num": 531773,
+      "word": "有刘海的周也",
+      "onboard_time": 1686657630,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502798,
       "num": 361964,
       "word": "林心如首带女儿做公益",
@@ -604,19 +620,11 @@
     },
     {
       "raw_hot": 389182,
-      "num": 253453,
+      "num": 276353,
       "word": "男子杀害妻子及妻弟媳",
       "onboard_time": 1686655947,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384218,
-      "num": 384218,
-      "word": "清潭国际高中",
-      "onboard_time": 1686657568,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 368859,
@@ -721,6 +729,22 @@
       "onboard_time": 1686621389,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315325,
+      "num": 315325,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 314429,
+      "num": 314429,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 301637,
@@ -833,14 +857,6 @@
       "onboard_time": 1686654207,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 266269,
-      "num": 266269,
-      "word": "有刘海的周也",
-      "onboard_time": 1686657630,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 262906,
@@ -1099,12 +1115,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 216341,
+      "num": 216341,
+      "word": "NewJeans换妆造了",
+      "onboard_time": 1686658046,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213894,
       "num": 213894,
       "word": "李沁庆余年2进组路透",
       "onboard_time": 1686650065,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211721,
+      "num": 211721,
+      "word": "和爸爸骑游中国的白血病男孩离世",
+      "onboard_time": 1686657267,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210434,
@@ -1147,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206881,
+      "num": 206881,
+      "word": "肖春生尽力了",
+      "onboard_time": 1686657748,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206716,
       "num": 206716,
       "word": "阿信为陈绮贞发长文",
@@ -1179,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202747,
-      "num": 202747,
-      "word": "NewJeans换妆造了",
-      "onboard_time": 1686658046,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201867,
       "num": 201867,
       "word": "当我飞奔向你",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1686620070,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 199977,
-      "num": 199977,
-      "word": "梅西说不会参加下届世界杯",
-      "onboard_time": 1686659067,
-      "rank": 23,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 199773,
@@ -1267,36 +1291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197212,
-      "num": 197212,
-      "word": "和爸爸骑游中国的白血病男孩离世",
-      "onboard_time": 1686657267,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196553,
-      "num": 196553,
-      "word": "中学回应疑地铁女子高中同学发声",
-      "onboard_time": 1686659008,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 196545,
       "num": 196545,
       "word": "警方回应男子地铁上被俩女子怀疑偷拍",
       "onboard_time": 1686631891,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195380,
-      "num": 195380,
-      "word": "肖春生尽力了",
-      "onboard_time": 1686657748,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 194465,
@@ -1316,7 +1316,7 @@
     },
     {
       "raw_hot": 193716,
-      "num": 160979,
+      "num": 191777,
       "word": "宠物店后台的登记表太好笑了",
       "onboard_time": 1686657748,
       "rank": 30,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1686625888,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 189425,
+      "word": "斗罗2主角的少年感",
+      "onboard_time": 1686660329,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 188389,
@@ -1499,6 +1507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 168824,
+      "num": 168824,
+      "word": "EDG对阵NAVI",
+      "onboard_time": 1686652108,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168072,
       "num": 168072,
       "word": "没想到配上字幕这么好笑",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1686624928,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 157505,
+      "num": 157505,
+      "word": "王源插兜好努力",
+      "onboard_time": 1686660267,
+      "rank": 31,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 156666,
@@ -1755,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143267,
+      "num": 143267,
+      "word": "肖战家人对梦中的那片海的评价",
+      "onboard_time": 1686656846,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143265,
       "num": 143265,
       "word": "陶晶莹 人生路漫漫哪里没猪头",
@@ -1883,12 +1915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130329,
-      "num": 130329,
-      "word": "肖战家人对梦中的那片海的评价",
-      "onboard_time": 1686656846,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 129375,
+      "num": 400974,
+      "word": "好消息学位服上新坏消息我毕业了",
+      "onboard_time": 1686658527,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129337,
@@ -1947,14 +1979,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 123059,
-      "num": 123059,
-      "word": "EDG对阵NAVI",
-      "onboard_time": 1686652108,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121353,
       "num": 121353,
       "word": "杭师大称正在调查后续会通报",
@@ -2003,6 +2027,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118118,
+      "num": 118118,
+      "word": "女排",
+      "onboard_time": 1686660148,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117958,
+      "num": 117958,
+      "word": "10后女孩吵架开始拼妹",
+      "onboard_time": 1686658827,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117571,
       "num": 117571,
       "word": "JDG对战RNG",
@@ -2035,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112337,
+      "num": 112337,
+      "word": "梦中的那片海小惠被家暴",
+      "onboard_time": 1686657805,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112105,
       "num": 112105,
       "word": "曝光大叔女子道歉后舆论为何未平息",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1686642268,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 106474,
+      "num": 106474,
+      "word": "毕业仪式感是学校给的",
+      "onboard_time": 1686660329,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 105679,
@@ -2115,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99929,
-      "num": 99929,
-      "word": "梦中的那片海小惠被家暴",
-      "onboard_time": 1686657805,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 97789,
       "num": 97789,
       "word": "种地吧",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1686562768,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 92532,
-      "num": 92532,
-      "word": "10后女孩吵架开始拼妹",
-      "onboard_time": 1686658827,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 91017,
@@ -2193,14 +2233,6 @@
       "onboard_time": 1686586708,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74206,
-      "num": 364582,
-      "word": "好消息学位服上新坏消息我毕业了",
-      "onboard_time": 1686658527,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67042,
@@ -2283,7 +2315,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25898,
+      "raw_hot": 26467,
       "num": 123811,
       "word": "南北方美食差异有多大",
       "onboard_time": 1686659248,
