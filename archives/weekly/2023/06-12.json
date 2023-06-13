@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686663218668,
+  "endTime": 1686665746570,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -211,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1717899,
+      "num": 1717899,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1700934,
       "num": 1700934,
       "word": "刘鑫不服二审判决申请再审",
@@ -265,14 +273,6 @@
       "onboard_time": 1686640046,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1504213,
-      "num": 1504213,
-      "word": "猫的树好会拍",
-      "onboard_time": 1686657329,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1498397,
@@ -425,6 +425,14 @@
       "onboard_time": 1686553050,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1143747,
+      "num": 1143747,
+      "word": "刘亦菲 不在乎别人的想法",
+      "onboard_time": 1686663987,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1135240,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867728,
+      "num": 867728,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 865286,
       "num": 865286,
       "word": "边伯贤截掉SMTOWN的logo",
@@ -755,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 773048,
-      "num": 773048,
-      "word": "梅西说不会参加下届世界杯",
-      "onboard_time": 1686659067,
-      "rank": 23,
-      "category": "体育,社会新闻"
+      "raw_hot": 769821,
+      "num": 769821,
+      "word": "赵露思造型师换成闵塔鲨了",
+      "onboard_time": 1686642508,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 761336,
@@ -827,20 +843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 701003,
-      "num": 701003,
-      "word": "赵露思造型师换成闵塔鲨了",
-      "onboard_time": 1686642508,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
       "onboard_time": 1686527006,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 694210,
+      "num": 694210,
+      "word": "肖战摸狗被拒绝",
+      "onboard_time": 1686663209,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 692090,
@@ -955,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 562941,
+      "num": 541018,
+      "word": "Jennie曾说自己像老奶奶一样浑身是病",
+      "onboard_time": 1686661468,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560537,
       "num": 560537,
       "word": "清潭国际高中",
@@ -985,14 +1009,6 @@
       "onboard_time": 1686575250,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 541018,
-      "num": 541018,
-      "word": "Jennie曾说自己像老奶奶一样浑身是病",
-      "onboard_time": 1686661468,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 522550,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1686637286,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440598,
+      "num": 440598,
+      "word": "万新村",
+      "onboard_time": 1686665128,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434002,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1686564627,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361384,
+      "num": 361384,
+      "word": "梅西 很高兴来到中国",
+      "onboard_time": 1686662547,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 361054,
@@ -1475,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323070,
+      "num": 323070,
+      "word": "地铁被要微信的大无语事件",
+      "onboard_time": 1686662787,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 321123,
       "num": 321123,
       "word": "成年人不管多难过都准时上班",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1686621389,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314089,
+      "num": 314089,
+      "word": "迪丽热巴龚俊将录制你好星期六",
+      "onboard_time": 1686663209,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 312786,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1686541111,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287770,
+      "num": 287770,
+      "word": "艾欧尼亚排队",
+      "onboard_time": 1686665128,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 287302,
@@ -2035,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241045,
+      "num": 241045,
+      "word": "LPL",
+      "onboard_time": 1686664590,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240360,
       "num": 240360,
       "word": "杨幂演我爱钱",
@@ -2371,6 +2435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212239,
+      "num": 212239,
+      "word": "中国女排vs加拿大女排",
+      "onboard_time": 1686663630,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212017,
       "num": 212017,
       "word": "李晨晒奔跑吧泰国大合照",
@@ -2456,6 +2528,14 @@
       "word": "奶狗肖春生vs狼狗肖春生",
       "onboard_time": 1686581191,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207274,
+      "num": 207274,
+      "word": "闪电侠",
+      "onboard_time": 1686664528,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2563,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201203,
-      "num": 201203,
-      "word": "迪丽热巴龚俊将录制你好星期六",
-      "onboard_time": 1686663209,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200853,
       "num": 200853,
       "word": "蔚来",
@@ -2611,14 +2683,6 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 199881,
-      "num": 199881,
-      "word": "肖战摸狗被拒绝",
-      "onboard_time": 1686663209,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199773,
       "num": 199773,
       "word": "范丞丞拉着Angelababy挥手",
@@ -2651,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198193,
+      "num": 198193,
+      "word": "跑男比耶没告诉沙溢",
+      "onboard_time": 1686664350,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198065,
       "num": 198065,
       "word": "母女3人扶梯摔倒大哥跪地按停",
@@ -2665,6 +2737,14 @@
       "onboard_time": 1686564691,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197736,
+      "num": 197736,
+      "word": "年轻人不爱发朋友圈的原因",
+      "onboard_time": 1686661889,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 196545,
@@ -2833,6 +2913,14 @@
       "onboard_time": 1686660329,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189332,
+      "num": 189332,
+      "word": "Jennie回应演唱会中途离场",
+      "onboard_time": 1686665488,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 189243,
@@ -3147,14 +3235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170321,
-      "num": 170321,
-      "word": "年轻人不爱发朋友圈的原因",
-      "onboard_time": 1686661889,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169571,
       "num": 169571,
       "word": "第四届TMEA首波阵容官宣",
@@ -3329,14 +3409,6 @@
       "onboard_time": 1686658527,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158675,
-      "num": 158675,
-      "word": "梅西 很高兴来到中国",
-      "onboard_time": 1686662547,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 158023,
@@ -3521,6 +3593,14 @@
       "onboard_time": 1686635248,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 148401,
+      "num": 148401,
+      "word": "超凡蜘蛛侠2里的合照",
+      "onboard_time": 1686663569,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 148328,
@@ -3827,6 +3907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133373,
+      "num": 133373,
+      "word": "喜欢人类已经刻在狗狗的基因里了",
+      "onboard_time": 1686664048,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133322,
       "num": 133322,
       "word": "工作后唯一放松的时刻 逛超市",
@@ -3849,14 +3937,6 @@
       "onboard_time": 1686654508,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132129,
-      "num": 132129,
-      "word": "地铁被要微信的大无语事件",
-      "onboard_time": 1686662787,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 131991,
@@ -4620,11 +4700,19 @@
     },
     {
       "raw_hot": 35292,
-      "num": 1135833,
+      "num": 1186819,
       "word": "当夏日美景遇上古诗词",
       "onboard_time": 1686643707,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34972,
+      "num": 457310,
+      "word": "陈坤记忆中的二荆条炒肉",
+      "onboard_time": 1686664831,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 32043,
