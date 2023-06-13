@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686648829268,
+  "endTime": 1686651478179,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -65,6 +65,14 @@
       "onboard_time": 1686610940,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1788972,
+      "num": 1788972,
+      "word": "高考后妹妹得知姐姐已去世一个月",
+      "onboard_time": 1686646407,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1700934,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261029,
+      "num": 1045147,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1118116,
       "num": 1118116,
       "word": "为什么夏天都不穿凉鞋了",
@@ -177,14 +193,6 @@
       "onboard_time": 1686584129,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1084773,
-      "num": 1045147,
-      "word": "刘浩存任敏高中时期自拍照",
-      "onboard_time": 1686644908,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1073295,
@@ -275,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 849620,
+      "num": 849620,
+      "word": "强戒小伙戴着手脚铐领证结婚",
+      "onboard_time": 1686645807,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836068,
       "num": 425025,
       "word": "起床时千万不要立刻叠被子",
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747821,
-      "num": 638837,
-      "word": "高考后妹妹得知姐姐已去世一个月",
-      "onboard_time": 1686646407,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733104,
       "num": 499070,
       "word": "任权 薛小婉",
@@ -329,6 +337,14 @@
       "onboard_time": 1686581910,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 704768,
+      "num": 704768,
+      "word": "杭师大涉事男生发声",
+      "onboard_time": 1686649407,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701003,
@@ -371,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 633192,
+      "num": 763206,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622519,
       "num": 622519,
       "word": "初会",
@@ -385,6 +409,14 @@
       "onboard_time": 1686577292,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587266,
+      "num": 587266,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 579009,
@@ -409,6 +441,14 @@
       "onboard_time": 1686623907,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570382,
+      "num": 570382,
+      "word": "格力主播穿免职裙",
+      "onboard_time": 1686649948,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502798,
@@ -483,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 414892,
-      "num": 414892,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -561,14 +593,6 @@
       "onboard_time": 1686615148,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 349952,
-      "num": 349952,
-      "word": "强戒小伙戴着手脚铐领证结婚",
-      "onboard_time": 1686645807,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349790,
@@ -723,6 +747,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 263237,
+      "num": 263237,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262906,
       "num": 262906,
       "word": "九尾直播",
@@ -745,6 +777,14 @@
       "onboard_time": 1686616468,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 261335,
+      "num": 261335,
+      "word": "312斤女网红在减肥营离世年仅21岁",
+      "onboard_time": 1686650368,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259234,
@@ -819,12 +859,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246341,
-      "num": 246341,
-      "word": "王传君 INFP",
-      "onboard_time": 1686648449,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 249062,
+      "num": 249062,
+      "word": "暑假档必爆剧",
+      "onboard_time": 1686648568,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243080,
+      "num": 243080,
+      "word": "原神万叶",
+      "onboard_time": 1686651027,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 242648,
@@ -857,6 +905,14 @@
       "onboard_time": 1686624689,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236599,
+      "num": 236599,
+      "word": "领导让削个梨",
+      "onboard_time": 1686647666,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 235558,
@@ -1059,12 +1115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198402,
+      "num": 198402,
+      "word": "玛格丽特别放盐",
+      "onboard_time": 1686647186,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198281,
       "num": 198281,
       "word": "年轻人不睡觉的原因找到了",
       "onboard_time": 1686579751,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198259,
+      "num": 198259,
+      "word": "男生发文称被研三学姐偷走4杯喜茶",
+      "onboard_time": 1686650430,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198065,
@@ -1089,14 +1161,6 @@
       "onboard_time": 1686629251,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194386,
-      "num": 194386,
-      "word": "玛格丽特别放盐",
-      "onboard_time": 1686647186,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194064,
@@ -1219,12 +1283,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178108,
+      "num": 178108,
+      "word": "时代少年团戴发带没告诉宋亚轩",
+      "onboard_time": 1686649347,
+      "rank": 30,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 177773,
       "num": 177773,
       "word": "肖战为肖春生由i变e",
       "onboard_time": 1686646167,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177583,
+      "num": 177583,
+      "word": "infp",
+      "onboard_time": 1686651149,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 177347,
@@ -1243,12 +1323,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177146,
+      "num": 177146,
+      "word": "鞠婧祎锁骨窝好明显",
+      "onboard_time": 1686651208,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175592,
       "num": 175592,
       "word": "Amber追竞人的一天",
       "onboard_time": 1686647788,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172900,
+      "num": 726274,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168921,
@@ -1315,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161171,
+      "num": 161171,
+      "word": "让你包粽子没让你绑架粽子",
+      "onboard_time": 1686649769,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159691,
       "num": 159691,
       "word": "尹净汉柏林看秀生图",
@@ -1339,6 +1443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 157020,
+      "num": 157020,
+      "word": "李沁庆余年2进组路透",
+      "onboard_time": 1686650065,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "肖战梦海剧宣路透",
@@ -1353,6 +1465,14 @@
       "onboard_time": 1686638307,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154712,
+      "num": 154712,
+      "word": "王一博到达北京机场路透",
+      "onboard_time": 1686649227,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 153717,
@@ -1443,14 +1563,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 148017,
-      "num": 132421,
-      "word": "暑假档必爆剧",
-      "onboard_time": 1686648568,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "看完这42S练成微笑唇",
@@ -1489,6 +1601,22 @@
       "onboard_time": 1686562527,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142180,
+      "num": 142180,
+      "word": "袁咏仪牵着周润发的手喊帅",
+      "onboard_time": 1686650729,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140941,
+      "num": 140941,
+      "word": "海拔5200米高原官兵过集体生日",
+      "onboard_time": 1686651149,
+      "rank": 44,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 140676,
@@ -1547,28 +1675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129796,
-      "num": 129796,
-      "word": "詹雯婷控告陈建宁反遭起诉",
-      "onboard_time": 1686648629,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129337,
       "num": 129337,
       "word": "教授组团做科普意外成招生简章",
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 129074,
-      "num": 129074,
-      "word": "领导让削个梨",
-      "onboard_time": 1686647666,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 128741,
@@ -1672,14 +1784,6 @@
       "word": "这就是理科生的浪漫啊",
       "onboard_time": 1686621449,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113414,
-      "num": 429667,
-      "word": "男子被困冷库环卫工路过救一命",
-      "onboard_time": 1686646826,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1880,6 +1984,14 @@
       "word": "新时代北京的精气神",
       "onboard_time": 1686589877,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46694,
+      "num": 567887,
+      "word": "小伙用泥塑帮300人复活亲人样貌",
+      "onboard_time": 1686650430,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
