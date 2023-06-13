@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686688422352,
+  "endTime": 1686690882435,
   "band_list": [
     {
       "raw_hot": 1665615,
@@ -451,20 +451,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14450,
-      "num": 21814,
-      "word": "大学生的期末精神状态",
-      "onboard_time": 1686681612,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 13504,
+      "raw_hot": 17869,
       "num": 21769,
       "word": "孙茜好适合红色",
       "onboard_time": 1686686832,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15861,
+      "num": 19677,
+      "word": "古巨基加胡夏微信打开了收款码",
+      "onboard_time": 1686689953,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15181,
+      "num": 21814,
+      "word": "大学生的期末精神状态",
+      "onboard_time": 1686681612,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 13356,
