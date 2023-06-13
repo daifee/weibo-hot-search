@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/14 00:38:02
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/14 01:15:03
 </p>
 </blockquote>
 <p>
@@ -909,6 +909,12 @@ Angelababy卷发双马尾（热度：490507）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
+梦是一种心理上的转码过程（热度：458080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B0%E7%BD%91%E8%AF%84%E5%B7%9D%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%9C%B0%E9%93%81%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%23" target="weibo">
 中新网评川大女生地铁曝光大叔（热度：456873）
 </a>
@@ -1001,12 +1007,6 @@ LESSERAFIM将来广州开线下签售会（热度：443485）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%AD%90%E5%8F%8A%E5%A6%BB%E5%BC%9F%E5%AA%B3%23" target="weibo">
 男子杀害妻子及妻弟媳（热度：389182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
-梦是一种心理上的转码过程（热度：387598）
 </a>
 </li>
 
@@ -3238,7 +3238,7 @@ iG官宣beishang加入（热度：127061）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9F%AD%E6%97%B6%E9%97%B4%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%23" target="weibo">
-高中文化程度短时间掌握了大学课程（热度：123000）
+高中文化程度短时间掌握了大学课程（热度：123264）
 </a>
 </li>
 
@@ -3633,6 +3633,12 @@ Lisa老师没收游戏机（热度：66294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%87%8D%E5%BA%86%E9%81%87%E5%88%B0%E7%94%B5%E6%A2%AF%E6%94%B6%E8%B4%B9%E7%9A%84%E5%88%AB%E9%94%99%E8%BF%87%23" target="weibo">
+在重庆遇到电梯收费的别错过（热度：60140）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E8%BF%BD%E6%98%9F%E4%BA%BA%E9%83%BD%E4%B8%80%E6%A0%B7%23" target="weibo">
 全世界的追星人都一样（热度：59249）
 </a>
@@ -3671,6 +3677,12 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8C%97%E4%BA%AC%E7%9A%84%E7%B2%BE%E6%B0%94%E7%A5%9E%23" target="weibo">
 新时代北京的精气神（热度：49123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23NIP%E5%AF%B9%E6%88%98OMG%23" target="weibo">
+NIP对战OMG（热度：47521）
 </a>
 </li>
 

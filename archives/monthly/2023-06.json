@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686674282042,
+  "endTime": 1686676503392,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -8043,6 +8043,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 458080,
+      "num": 458080,
+      "word": "梦是一种心理上的转码过程",
+      "onboard_time": 1686671725,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 457327,
       "num": 457327,
       "word": "约基奇太强了",
@@ -9249,14 +9257,6 @@
       "onboard_time": 1685873547,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387598,
-      "num": 387598,
-      "word": "梦是一种心理上的转码过程",
-      "onboard_time": 1686671725,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 387168,
@@ -26147,20 +26147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123264,
+      "num": 123264,
+      "word": "高中文化程度短时间掌握了大学课程",
+      "onboard_time": 1686672687,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123138,
       "num": 123138,
       "word": "小学生摊前帮爸爸炒面手法娴熟",
       "onboard_time": 1685975191,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123000,
-      "num": 123000,
-      "word": "高中文化程度短时间掌握了大学课程",
-      "onboard_time": 1686672687,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 122721,
@@ -29139,6 +29139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60140,
+      "num": 60140,
+      "word": "在重庆遇到电梯收费的别错过",
+      "onboard_time": 1686674723,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60021,
       "num": 471776,
       "word": "惠英红给张小斐当站姐",
@@ -29465,6 +29473,14 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47521,
+      "num": 58052,
+      "word": "NIP对战OMG",
+      "onboard_time": 1686676399,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 47271,

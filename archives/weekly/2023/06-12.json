@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686674282042,
+  "endTime": 1686676503392,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1195,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458080,
+      "num": 458080,
+      "word": "梦是一种心理上的转码过程",
+      "onboard_time": 1686671725,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 456873,
       "num": 456873,
       "word": "中新网评川大女生地铁曝光大叔",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1686655947,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387598,
-      "num": 387598,
-      "word": "梦是一种心理上的转码过程",
-      "onboard_time": 1686671725,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 382678,
@@ -4299,8 +4299,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 123000,
-      "num": 123000,
+      "raw_hot": 123264,
+      "num": 123264,
       "word": "高中文化程度短时间掌握了大学课程",
       "onboard_time": 1686672687,
       "rank": 48,
@@ -4827,6 +4827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60140,
+      "num": 60140,
+      "word": "在重庆遇到电梯收费的别错过",
+      "onboard_time": 1686674723,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59249,
       "num": 59249,
       "word": "全世界的追星人都一样",
@@ -4881,6 +4889,14 @@
       "onboard_time": 1686589877,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47521,
+      "num": 58052,
+      "word": "NIP对战OMG",
+      "onboard_time": 1686676399,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 46943,
