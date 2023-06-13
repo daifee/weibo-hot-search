@@ -1,0 +1,410 @@
+{
+  "runTime": 1686624155750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1336050,
+        "num": 1336050,
+        "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+        "onboard_time": 1686621509,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814558,
+        "num": 814558,
+        "word": "朴灿烈 单封",
+        "onboard_time": 1686614549,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103012,
+        "num": 789722,
+        "word": "短途游3小时高铁圈",
+        "onboard_time": 1686577470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785322,
+        "num": 785322,
+        "word": "杜海涛卡点晒照为沈梦辰庆生",
+        "onboard_time": 1686613284,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781426,
+        "num": 781426,
+        "word": "宋雨琦奔跑吧收官合照是P上去的",
+        "onboard_time": 1686620487,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1271210,
+        "num": 746723,
+        "word": "发小喊了四年终于离职了",
+        "onboard_time": 1686615449,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 661688,
+        "num": 661688,
+        "word": "60岁阿姨健身22年后的样子",
+        "onboard_time": 1686571227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596599,
+        "num": 596599,
+        "word": "姆巴佩拒绝与巴黎续约",
+        "onboard_time": 1686615449,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561437,
+        "num": 561437,
+        "word": "现代人已经不吃鸡汤了",
+        "onboard_time": 1686610940,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498848,
+        "num": 498848,
+        "word": "奔跑吧泰国站最惊艳的人",
+        "onboard_time": 1686618151,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1470184,
+        "num": 474175,
+        "word": "成都地铁男子偷拍女生后当面删掉",
+        "onboard_time": 1686618690,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859565,
+        "num": 472319,
+        "word": "杭州师范大学",
+        "onboard_time": 1686611720,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 571187,
+        "num": 468797,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432743,
+        "num": 432743,
+        "word": "不孕不育是榴莲最好的福报",
+        "onboard_time": 1686571348,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 384479,
+        "num": 384479,
+        "word": "三子深夜大战不孕不育榴莲",
+        "onboard_time": 1686584788,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365226,
+        "num": 365226,
+        "word": "白鹿的腿自带高光",
+        "onboard_time": 1686577408,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356589,
+        "num": 356589,
+        "word": "杨紫黄瀛子最新花絮图",
+        "onboard_time": 1686623607,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346597,
+        "num": 346597,
+        "word": "企业回应禁止婚外情和出轨",
+        "onboard_time": 1686577292,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327611,
+        "num": 327611,
+        "word": "NBA总决赛",
+        "onboard_time": 1686619888,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324913,
+        "num": 324913,
+        "word": "肖战菠萝错位图",
+        "onboard_time": 1686616892,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622234,
+        "num": 322800,
+        "word": "全麻手术醒后可以有多社死",
+        "onboard_time": 1686612924,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479529,
+        "num": 321762,
+        "word": "起床时千万不要立刻叠被子",
+        "onboard_time": 1686615268,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466236,
+        "num": 320665,
+        "word": "监控记录了我来姨妈的瞬间",
+        "onboard_time": 1686615808,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318707,
+        "num": 318707,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294387,
+        "num": 294387,
+        "word": "Jennie演唱会中途离场",
+        "onboard_time": 1686623486,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286295,
+        "num": 286295,
+        "word": "任权 薛小婉",
+        "onboard_time": 1686554369,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278544,
+        "num": 278544,
+        "word": "肖战被家人夸演得还不错",
+        "onboard_time": 1686621389,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274470,
+        "num": 274470,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255412,
+        "num": 255412,
+        "word": "没有脚脖子什么体验",
+        "onboard_time": 1686622049,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210104,
+        "num": 238836,
+        "word": "相差61岁婚纱照的背后是一场爱的接力",
+        "onboard_time": 1686622228,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224662,
+        "num": 224662,
+        "word": "赵一博网速",
+        "onboard_time": 1686621928,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224324,
+        "num": 224324,
+        "word": "被误认鞋面装镜头偷拍男子称将起诉",
+        "onboard_time": 1686621747,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221317,
+        "num": 221317,
+        "word": "女生骂男生偷拍变态后称认错人了",
+        "onboard_time": 1686617551,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217881,
+        "num": 217881,
+        "word": "余生夫妇vs春晓夫妇",
+        "onboard_time": 1686582391,
+        "rank": 33,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 208750,
+        "num": 208750,
+        "word": "中国唯一上榜的世界最美图书馆",
+        "onboard_time": 1686584309,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204242,
+        "num": 204242,
+        "word": "成都地铁",
+        "onboard_time": 1686621326,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197006,
+        "num": 197006,
+        "word": "职场上不会拒绝的人有福了",
+        "onboard_time": 1686620070,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 188864,
+        "num": 188864,
+        "word": "猫的疼痛程度",
+        "onboard_time": 1686616711,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 185459,
+        "num": 185459,
+        "word": "梅西",
+        "onboard_time": 1686621867,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184230,
+        "num": 184230,
+        "word": "拥有一个亿能有多痛苦",
+        "onboard_time": 1686624087,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183561,
+        "num": 183561,
+        "word": "迪丽热巴的机场穿搭",
+        "onboard_time": 1686622168,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181126,
+        "num": 181126,
+        "word": "陈晓又更文了",
+        "onboard_time": 1686623907,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180826,
+        "num": 180826,
+        "word": "教体局回应校长与女教师发生肢体冲突",
+        "onboard_time": 1686618510,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178733,
+        "num": 178733,
+        "word": "不仅每天要看见我还要继续给我发工资",
+        "onboard_time": 1686623788,
+        "rank": 43,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 176218,
+        "num": 176218,
+        "word": "RNG sin",
+        "onboard_time": 1686615148,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159231,
+        "num": 159231,
+        "word": "寻找17年给我小狗的阿姨",
+        "onboard_time": 1686622829,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157472,
+        "num": 157472,
+        "word": "原来真有人叫白雪公主",
+        "onboard_time": 1686615209,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156794,
+        "num": 156794,
+        "word": "美脱口秀演员拿马航失联玩梗拒不道歉",
+        "onboard_time": 1686616468,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 150325,
+        "num": 150325,
+        "word": "对父母谎报价格最离谱的一次",
+        "onboard_time": 1686612864,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141168,
+        "num": 141168,
+        "word": "鞠婧祎新剧吻戏好多",
+        "onboard_time": 1686620370,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪都拉斯总统卡斯特罗举行会谈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686621499237,
+  "endTime": 1686624155750,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1470184,
+      "num": 1042877,
+      "word": "成都地铁男子偷拍女生后当面删掉",
+      "onboard_time": 1686618690,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1451284,
       "num": 1451284,
       "word": "中国唯一上榜的世界最美图书馆",
@@ -59,11 +67,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1393000,
-      "num": 1042877,
-      "word": "成都地铁男子偷拍女生后当面删掉",
-      "onboard_time": 1686618690,
-      "rank": 4,
+      "raw_hot": 1336050,
+      "num": 1336050,
+      "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+      "onboard_time": 1686621509,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 781426,
+      "num": 781426,
+      "word": "宋雨琦奔跑吧收官合照是P上去的",
+      "onboard_time": 1686620487,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 752809,
       "num": 752809,
       "word": "60岁阿姨健身22年后的样子",
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498848,
+      "num": 498848,
+      "word": "奔跑吧泰国站最惊艳的人",
+      "onboard_time": 1686618151,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483295,
       "num": 483295,
       "word": "Rain 街舞6",
@@ -235,14 +259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 435816,
-      "num": 350845,
-      "word": "奔跑吧泰国站最惊艳的人",
-      "onboard_time": 1686618151,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392810,
       "num": 392810,
       "word": "张彬彬的粉底咋回事",
@@ -251,12 +267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391255,
-      "num": 391255,
-      "word": "宋雨琦奔跑吧收官合照是P上去的",
-      "onboard_time": 1686620487,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 356589,
+      "num": 356589,
+      "word": "杨紫黄瀛子最新花絮图",
+      "onboard_time": 1686623607,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 356259,
@@ -299,12 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294387,
+      "num": 294387,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290715,
       "num": 290715,
       "word": "王鹤棣蔡徐坤范丞丞三个校草",
       "onboard_time": 1686585867,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274470,
+      "num": 274470,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272951,
@@ -315,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266717,
-      "num": 266717,
-      "word": "男子称在洗浴中心被男性猥亵",
-      "onboard_time": 1686620127,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261437,
       "num": 284127,
       "word": "美脱口秀演员拿马航失联玩梗拒不道歉",
       "onboard_time": 1686616468,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 255412,
+      "num": 255412,
+      "word": "没有脚脖子什么体验",
+      "onboard_time": 1686622049,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 254237,
@@ -387,11 +419,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224662,
+      "num": 224662,
+      "word": "赵一博网速",
+      "onboard_time": 1686621928,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224324,
+      "num": 224324,
+      "word": "被误认鞋面装镜头偷拍男子称将起诉",
+      "onboard_time": 1686621747,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210434,
       "num": 210434,
       "word": "教体局回应校长与女教师发生肢体冲突",
       "onboard_time": 1686618510,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210104,
+      "num": 238836,
+      "word": "相差61岁婚纱照的背后是一场爱的接力",
+      "onboard_time": 1686622228,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -483,6 +539,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185459,
+      "num": 185459,
+      "word": "梅西",
+      "onboard_time": 1686621867,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184230,
+      "num": 184230,
+      "word": "拥有一个亿能有多痛苦",
+      "onboard_time": 1686624087,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 183561,
+      "num": 183561,
+      "word": "迪丽热巴的机场穿搭",
+      "onboard_time": 1686622168,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181126,
+      "num": 181126,
+      "word": "陈晓又更文了",
+      "onboard_time": 1686623907,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178733,
+      "num": 178733,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 177347,
       "num": 177347,
       "word": "奔跑吧收官夕阳大合照",
@@ -505,6 +601,14 @@
       "onboard_time": 1686613225,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159231,
+      "num": 159231,
+      "word": "寻找17年给我小狗的阿姨",
+      "onboard_time": 1686622829,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158817,
