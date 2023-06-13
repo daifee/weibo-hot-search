@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686633350867,
+  "endTime": 1686634425576,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -19,20 +19,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2585659,
+      "num": 2585659,
+      "word": "疑似杭师大女生家属发声",
+      "onboard_time": 1686630213,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2129279,
       "num": 2129279,
       "word": "发小喊了四年终于离职了",
       "onboard_time": 1686615449,
       "rank": 0,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 2075522,
-      "num": 2075522,
-      "word": "疑似杭师大女生家属发声",
-      "onboard_time": 1686630213,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1970284,
@@ -115,20 +115,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1333806,
+      "num": 1333806,
+      "word": "老师打伤学生道歉反被多位家长安慰",
+      "onboard_time": 1686629191,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1321665,
       "num": 567045,
       "word": "川大回应网传地铁事件女生被开除",
       "onboard_time": 1686555990,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1230056,
-      "num": 1230056,
-      "word": "老师打伤学生道歉反被多位家长安慰",
-      "onboard_time": 1686629191,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1110952,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558873,
+      "num": 558873,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498848,
       "num": 498848,
       "word": "奔跑吧泰国站最惊艳的人",
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368859,
+      "num": 368859,
+      "word": "在广东买虾还没到家就熟了",
+      "onboard_time": 1686630573,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -435,12 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315570,
-      "num": 315570,
-      "word": "在广东买虾还没到家就熟了",
-      "onboard_time": 1686630573,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 301637,
+      "num": 339323,
+      "word": "告五人 抢票",
+      "onboard_time": 1686633211,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 296174,
+      "num": 217041,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 290715,
@@ -449,14 +473,6 @@
       "onboard_time": 1686585867,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279604,
-      "num": 279604,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277970,
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242249,
+      "num": 242249,
+      "word": "王鹤棣泰国录制去了20多个站姐",
+      "onboard_time": 1686631354,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237756,
       "num": 237756,
       "word": "丧失了喜欢一个人的能力",
@@ -643,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218906,
+      "num": 218906,
+      "word": "我家最具有女性主义精神的是我女儿",
+      "onboard_time": 1686632733,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210434,
       "num": 210434,
       "word": "教体局回应校长与女教师发生肢体冲突",
@@ -688,14 +720,6 @@
       "word": "开心吧麻花官宣定档",
       "onboard_time": 1686630272,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203392,
-      "num": 203392,
-      "word": "王鹤棣泰国录制去了20多个站姐",
-      "onboard_time": 1686631354,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -779,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193199,
+      "num": 193199,
+      "word": "四川大学",
+      "onboard_time": 1686632968,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193006,
       "num": 193006,
       "word": "热火虽败犹荣",
@@ -835,22 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178631,
-      "num": 178631,
-      "word": "我家最具有女性主义精神的是我女儿",
-      "onboard_time": 1686632733,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 178406,
-      "num": 178406,
-      "word": "告五人 抢票",
-      "onboard_time": 1686633211,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 177347,
       "num": 177347,
       "word": "奔跑吧收官夕阳大合照",
@@ -889,6 +905,14 @@
       "onboard_time": 1686633032,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165987,
+      "num": 165987,
+      "word": "卡琳娜芮娜神级cos",
+      "onboard_time": 1686634286,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 164873,
@@ -939,12 +963,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 156854,
-      "num": 156854,
-      "word": "四川大学",
-      "onboard_time": 1686632968,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 155110,
+      "num": 155110,
+      "word": "肖战梦海剧宣路透",
+      "onboard_time": 1686633930,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 153717,
@@ -1003,12 +1027,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148125,
+      "num": 148125,
+      "word": "仙侠剧最能打的OST",
+      "onboard_time": 1686634168,
+      "rank": 43,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "看完这42S练成微笑唇",
       "onboard_time": 1686632793,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144783,
+      "num": 144783,
+      "word": "为什么夏天都不穿凉鞋了",
+      "onboard_time": 1686634286,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 144059,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1686561149,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138634,
+      "num": 138634,
+      "word": "肖战肖春生蝉联猫眼角色榜冠军",
+      "onboard_time": 1686633392,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 134994,
@@ -1331,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45046,
+      "num": 410613,
+      "word": "老师为百名中考学生绘插图寄语告别",
+      "onboard_time": 1686632432,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36314,
       "num": 36314,
       "word": "HYBE新女团选秀主题曲",
@@ -1355,16 +1411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20032,
-      "num": 410613,
-      "word": "老师为百名中考学生绘插图寄语告别",
-      "onboard_time": 1686632432,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11407,
-      "num": 1375165,
+      "num": 1388343,
       "word": "全国网络普法行江西站",
       "onboard_time": 1686544418,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1686634425576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2585659,
+        "num": 2585659,
+        "word": "疑似杭师大女生家属发声",
+        "onboard_time": 1686630213,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472142,
+        "num": 1472142,
+        "word": "沙溢好像是参加了爸爸去哪儿",
+        "onboard_time": 1686629912,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7443,
+        "num": 1388343,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333806,
+        "num": 1333806,
+        "word": "老师打伤学生道歉反被多位家长安慰",
+        "onboard_time": 1686629191,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1186232,
+        "num": 1186232,
+        "word": "Jennie演唱会中途离场",
+        "onboard_time": 1686623486,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1018253,
+        "num": 1018253,
+        "word": "任豪 人工呼吸怎么不算吻",
+        "onboard_time": 1686630573,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 849236,
+        "num": 849236,
+        "word": "边伯贤截掉SMTOWN的logo",
+        "onboard_time": 1686630272,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626751,
+        "num": 626751,
+        "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+        "onboard_time": 1686621509,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558873,
+        "num": 558873,
+        "word": "刘鑫不服二审判决申请再审",
+        "onboard_time": 1686632673,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554961,
+        "num": 554961,
+        "word": "陈晓又更文了",
+        "onboard_time": 1686623907,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 958277,
+        "num": 552271,
+        "word": "成都地铁男子偷拍女生后当面删掉",
+        "onboard_time": 1686618690,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534800,
+        "num": 534800,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488169,
+        "num": 488169,
+        "word": "发小喊了四年终于离职了",
+        "onboard_time": 1686615449,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 411516,
+        "num": 411516,
+        "word": "姆巴佩拒绝与巴黎续约",
+        "onboard_time": 1686615449,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45046,
+        "num": 402389,
+        "word": "老师为百名中考学生绘插图寄语告别",
+        "onboard_time": 1686632432,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396767,
+        "num": 396767,
+        "word": "宋雨琦奔跑吧收官合照是P上去的",
+        "onboard_time": 1686620487,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368859,
+        "num": 368859,
+        "word": "在广东买虾还没到家就熟了",
+        "onboard_time": 1686630573,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357216,
+        "num": 357216,
+        "word": "朴灿烈 单封",
+        "onboard_time": 1686614549,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354202,
+        "num": 354202,
+        "word": "杭州师范大学",
+        "onboard_time": 1686611720,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 301637,
+        "num": 339323,
+        "word": "告五人 抢票",
+        "onboard_time": 1686633211,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333569,
+        "num": 333569,
+        "word": "起床时千万不要立刻叠被子",
+        "onboard_time": 1686615268,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332011,
+        "num": 332011,
+        "word": "全麻手术醒后可以有多社死",
+        "onboard_time": 1686612924,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278439,
+        "num": 278439,
+        "word": "监控记录了我来姨妈的瞬间",
+        "onboard_time": 1686615808,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249889,
+        "num": 249889,
+        "word": "乐华 黄牛",
+        "onboard_time": 1686631293,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249548,
+        "num": 249548,
+        "word": "韩国的恋爱都是谁在谈呢",
+        "onboard_time": 1686630150,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247804,
+        "num": 247804,
+        "word": "企业回应禁止婚外情和出轨",
+        "onboard_time": 1686577292,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242249,
+        "num": 242249,
+        "word": "王鹤棣泰国录制去了20多个站姐",
+        "onboard_time": 1686631354,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241561,
+        "num": 241561,
+        "word": "三子深夜大战不孕不育榴莲",
+        "onboard_time": 1686584788,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1700593,
+        "num": 241214,
+        "word": "川大女生疑被腾讯解除实习合同",
+        "onboard_time": 1686624928,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 240206,
+        "num": 240206,
+        "word": "白鹿的腿自带高光",
+        "onboard_time": 1686577408,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218906,
+        "num": 218906,
+        "word": "我家最具有女性主义精神的是我女儿",
+        "onboard_time": 1686632733,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296174,
+        "num": 217041,
+        "word": "孟子义没考上军艺的原因",
+        "onboard_time": 1686633688,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212147,
+        "num": 212147,
+        "word": "这居然是小学生的简历",
+        "onboard_time": 1686631113,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200203,
+        "num": 200203,
+        "word": "陈绮贞回应钟成虎",
+        "onboard_time": 1686628412,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193199,
+        "num": 193199,
+        "word": "四川大学",
+        "onboard_time": 1686632968,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192679,
+        "num": 192679,
+        "word": "中国唯一上榜的世界最美图书馆",
+        "onboard_time": 1686584309,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176017,
+        "num": 176017,
+        "word": "NBA总决赛",
+        "onboard_time": 1686619888,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174616,
+        "num": 174616,
+        "word": "山崎贤人怎么变这样了",
+        "onboard_time": 1686630692,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168273,
+        "num": 168273,
+        "word": "警方回应男子地铁上被俩女子怀疑偷拍",
+        "onboard_time": 1686631891,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165987,
+        "num": 165987,
+        "word": "卡琳娜芮娜神级cos",
+        "onboard_time": 1686634286,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163957,
+        "num": 163957,
+        "word": "不孕不育是榴莲最好的福报",
+        "onboard_time": 1686571348,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155110,
+        "num": 155110,
+        "word": "肖战梦海剧宣路透",
+        "onboard_time": 1686633930,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150027,
+        "num": 150027,
+        "word": "不仅每天要看见我还要继续给我发工资",
+        "onboard_time": 1686623788,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 148125,
+        "num": 148125,
+        "word": "仙侠剧最能打的OST",
+        "onboard_time": 1686634168,
+        "rank": 43,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 144783,
+        "num": 144783,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138634,
+        "num": 138634,
+        "word": "肖战肖春生蝉联猫眼角色榜冠军",
+        "onboard_time": 1686633392,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131982,
+        "num": 131982,
+        "word": "赵美延曾帮助校暴受害者",
+        "onboard_time": 1686631474,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 129400,
+        "num": 129400,
+        "word": "杜海涛卡点晒照为沈梦辰庆生",
+        "onboard_time": 1686613284,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123220,
+        "num": 123220,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122552,
+        "num": 122552,
+        "word": "乐华家族演唱会票价",
+        "onboard_time": 1686627990,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    }
+  }
+}
