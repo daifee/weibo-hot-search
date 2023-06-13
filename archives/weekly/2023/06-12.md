@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/14 00:22:30
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/14 00:38:02
 </p>
 </blockquote>
 <p>
@@ -196,7 +196,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
-王鹤棣田曦薇 大奉打更人（热度：1643854）
+王鹤棣田曦薇 大奉打更人（热度：1665615）
 </a>
 </li>
 
@@ -519,6 +519,12 @@ Rain 街舞6（热度：1075379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
+Jennie回应演唱会中途离场（热度：893375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%B7%91%E6%AD%A5200%E4%BD%99%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%8F%98%E5%8C%96%E6%98%8E%E6%98%BE%23" target="weibo">
 爸爸带女儿跑步200余天孩子变化明显（热度：880234）
 </a>
@@ -533,12 +539,6 @@ Rain 街舞6（热度：1075379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%88%AA%E6%8E%89SMTOWN%E7%9A%84logo%23" target="weibo">
 边伯贤截掉SMTOWN的logo（热度：865286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
-Jennie回应演唱会中途离场（热度：858484）
 </a>
 </li>
 
@@ -718,7 +718,7 @@ Jennie身体状况（热度：715346）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
-权志龙又买房了（热度：600839）
+权志龙又买房了（热度：609366）
 </a>
 </li>
 
@@ -1005,6 +1005,12 @@ LESSERAFIM将来广州开线下签售会（热度：443485）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
+梦是一种心理上的转码过程（热度：387598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Weiwei%20886%23" target="weibo">
 Weiwei 886（热度：382678）
 </a>
@@ -1137,6 +1143,12 @@ EDG拿下CN瓦首胜（热度：338214）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%A9%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
+反驳型人格（热度：336983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E4%BB%8A%E6%97%A5%E5%85%AC%E5%BC%80%E5%85%88%E8%A1%8C%E6%9B%B2LetMeIn%23" target="weibo">
 EXO今日公开先行曲LetMeIn（热度：334492）
 </a>
@@ -1223,12 +1235,6 @@ infp（热度：320184）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%23" target="weibo">
 长风渡（热度：319573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%A9%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
-反驳型人格（热度：318682）
 </a>
 </li>
 
@@ -1859,12 +1865,6 @@ YG辟谣Jennie加入漫威（热度：220621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%91%8A%E5%88%AB%E6%8A%A4%E5%BF%83plog%23" target="weibo">
 侯明昊告别护心plog（热度：219566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
-梦是一种心理上的转码过程（热度：219462）
 </a>
 </li>
 
@@ -3237,6 +3237,12 @@ iG官宣beishang加入（热度：127061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9F%AD%E6%97%B6%E9%97%B4%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%23" target="weibo">
+高中文化程度短时间掌握了大学课程（热度：123000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E4%B8%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23" target="weibo">
 员工不接电话浙江老板果断报警（热度：122812）
 </a>
@@ -3539,12 +3545,6 @@ light（热度：104927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%8E%8B%E9%9C%8F%E9%9C%8F10%E5%B9%B4%E5%89%8Dvs%E7%8E%B0%E5%9C%A8%E5%90%88%E7%85%A7%23" target="weibo">
 孟佳王霏霏10年前vs现在合照（热度：88894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9F%AD%E6%97%B6%E9%97%B4%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%23" target="weibo">
-高中文化程度短时间掌握了大学课程（热度：86883）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686673350763,
+  "endTime": 1686674282042,
   "band_list": [
     {
-      "raw_hot": 1643854,
-      "num": 1643854,
+      "raw_hot": 1665615,
+      "num": 1665615,
       "word": "王鹤棣田曦薇 大奉打更人",
       "onboard_time": 1686670050,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 858484,
-      "num": 858484,
+      "raw_hot": 893375,
+      "num": 893375,
       "word": "Jennie回应演唱会中途离场",
       "onboard_time": 1686665488,
       "rank": 1,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600839,
-      "num": 600839,
+      "raw_hot": 609366,
+      "num": 609366,
       "word": "权志龙又买房了",
       "onboard_time": 1686669449,
       "rank": 7,
@@ -99,6 +99,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 387598,
+      "num": 387598,
+      "word": "梦是一种心理上的转码过程",
+      "onboard_time": 1686671725,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 365295,
       "num": 365295,
       "word": "晕车和不晕车的人闻到的气味不一样",
@@ -123,20 +131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336983,
+      "num": 336983,
+      "word": "反驳型人格",
+      "onboard_time": 1686669329,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 323924,
       "num": 323924,
       "word": "杭师大涉事男生发声",
       "onboard_time": 1686649407,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318682,
-      "num": 318682,
-      "word": "反驳型人格",
-      "onboard_time": 1686669329,
-      "rank": 17,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 317283,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219462,
-      "num": 219462,
-      "word": "梦是一种心理上的转码过程",
-      "onboard_time": 1686671725,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 214392,
       "num": 214392,
       "word": "地铁被要微信的大无语事件",
@@ -201,6 +201,14 @@
       "onboard_time": 1686659008,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 196106,
+      "num": 196106,
+      "word": "年轻人不爱发朋友圈的原因",
+      "onboard_time": 1686661889,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 195377,
@@ -233,14 +241,6 @@
       "onboard_time": 1686655947,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184721,
-      "num": 184721,
-      "word": "年轻人不爱发朋友圈的原因",
-      "onboard_time": 1686661889,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 183575,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123000,
+      "num": 123000,
+      "word": "高中文化程度短时间掌握了大学课程",
+      "onboard_time": 1686672687,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119585,
       "num": 109863,
       "word": "NewJeans换妆造了",
@@ -331,6 +339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111162,
+      "num": 111162,
+      "word": "和爸爸骑游中国的白血病男孩离世",
+      "onboard_time": 1686657267,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108242,
       "num": 108242,
       "word": "跑男比耶没告诉沙溢",
@@ -345,14 +361,6 @@
       "onboard_time": 1686672508,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102081,
-      "num": 102081,
-      "word": "和爸爸骑游中国的白血病男孩离世",
-      "onboard_time": 1686657267,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98156,
@@ -379,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86883,
-      "num": 86883,
-      "word": "高中文化程度短时间掌握了大学课程",
-      "onboard_time": 1686672687,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 86310,
+      "num": 86310,
+      "word": "小S支持林志玲回归家庭",
+      "onboard_time": 1686661827,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 85724,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#中国和洪都拉斯联合声明#"
+    },
+    {
+      "word": "#愿中洪关系不断提质升级开新局#"
     }
   ]
 }

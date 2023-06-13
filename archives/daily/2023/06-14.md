@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 00:22:30
+本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 00:38:02
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
-王鹤棣田曦薇 大奉打更人（热度：1643854）
+王鹤棣田曦薇 大奉打更人（热度：1665615）
 </a>
 </li>
 
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
-Jennie回应演唱会中途离场（热度：858484）
+Jennie回应演唱会中途离场（热度：893375）
 </a>
 </li>
 
@@ -58,7 +58,7 @@ Jennie回应演唱会中途离场（热度：858484）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
-权志龙又买房了（热度：600839）
+权志龙又买房了（热度：609366）
 </a>
 </li>
 
@@ -87,6 +87,12 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
+梦是一种心理上的转码过程（热度：387598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%95%E8%BD%A6%E5%92%8C%E4%B8%8D%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E9%97%BB%E5%88%B0%E7%9A%84%E6%B0%94%E5%91%B3%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
 晕车和不晕车的人闻到的气味不一样（热度：365295）
 </a>
@@ -105,14 +111,14 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-杭师大涉事男生发声（热度：323924）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%A9%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
+反驳型人格（热度：336983）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%A9%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
-反驳型人格（热度：318682）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+杭师大涉事男生发声（热度：323924）
 </a>
 </li>
 
@@ -147,12 +153,6 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
-梦是一种心理上的转码过程（热度：219462）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E8%A2%AB%E8%A6%81%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%A4%A7%E6%97%A0%E8%AF%AD%E4%BA%8B%E4%BB%B6%23" target="weibo">
 地铁被要微信的大无语事件（热度：214392）
 </a>
@@ -161,6 +161,12 @@ Uzi首发对战iG（热度：526808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%96%91%E5%9C%B0%E9%93%81%E5%A5%B3%E5%AD%90%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 中学回应疑地铁女子高中同学发声（热度：213038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+年轻人不爱发朋友圈的原因（热度：196106）
 </a>
 </li>
 
@@ -185,12 +191,6 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%A6%BB%E5%AD%90%E5%8F%8A%E5%A6%BB%E5%BC%9F%E5%AA%B3%23" target="weibo">
 男子杀害妻子及妻弟媳（热度：187373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-年轻人不爱发朋友圈的原因（热度：184721）
 </a>
 </li>
 
@@ -249,6 +249,12 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9F%AD%E6%97%B6%E9%97%B4%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%23" target="weibo">
+高中文化程度短时间掌握了大学课程（热度：123000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23NewJeans%E6%8D%A2%E5%A6%86%E9%80%A0%E4%BA%86%23" target="weibo">
 NewJeans换妆造了（热度：119585）
 </a>
@@ -261,6 +267,12 @@ NewJeans换妆造了（热度：119585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%88%B8%E7%88%B8%E9%AA%91%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%99%BD%E8%A1%80%E7%97%85%E7%94%B7%E5%AD%A9%E7%A6%BB%E4%B8%96%23" target="weibo">
+和爸爸骑游中国的白血病男孩离世（热度：111162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%AF%94%E8%80%B6%E6%B2%A1%E5%91%8A%E8%AF%89%E6%B2%99%E6%BA%A2%23" target="weibo">
 跑男比耶没告诉沙溢（热度：108242）
 </a>
@@ -269,12 +281,6 @@ NewJeans换妆造了（热度：119585）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%BC%A0%E6%B7%BC%E6%80%A1%E6%96%B0%E5%89%A7cp%E6%84%9F%23" target="weibo">
 周翊然张淼怡新剧cp感（热度：104659）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%88%B8%E7%88%B8%E9%AA%91%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%99%BD%E8%A1%80%E7%97%85%E7%94%B7%E5%AD%A9%E7%A6%BB%E4%B8%96%23" target="weibo">
-和爸爸骑游中国的白血病男孩离世（热度：102081）
 </a>
 </li>
 
@@ -297,8 +303,8 @@ NewJeans换妆造了（热度：119585）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9F%AD%E6%97%B6%E9%97%B4%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%23" target="weibo">
-高中文化程度短时间掌握了大学课程（热度：86883）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%94%AF%E6%8C%81%E6%9E%97%E5%BF%97%E7%8E%B2%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%23" target="weibo">
+小S支持林志玲回归家庭（热度：86310）
 </a>
 </li>
 
@@ -323,6 +329,12 @@ NewJeans换妆造了（热度：119585）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23%23" target="weibo">
 #中国和洪都拉斯联合声明#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%84%BF%E4%B8%AD%E6%B4%AA%E5%85%B3%E7%B3%BB%E4%B8%8D%E6%96%AD%E6%8F%90%E8%B4%A8%E5%8D%87%E7%BA%A7%E5%BC%80%E6%96%B0%E5%B1%80%23%23" target="weibo">
+#愿中洪关系不断提质升级开新局#
 </a>
 </li>
 

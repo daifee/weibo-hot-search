@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686673350763,
+  "endTime": 1686674282042,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -243,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1643854,
-      "num": 1643854,
+      "raw_hot": 1665615,
+      "num": 1665615,
       "word": "王鹤棣田曦薇 大奉打更人",
       "onboard_time": 1686670050,
       "rank": 31,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 893375,
+      "num": 893375,
+      "word": "Jennie回应演唱会中途离场",
+      "onboard_time": 1686665488,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 880234,
       "num": 880234,
       "word": "爸爸带女儿跑步200余天孩子变化明显",
@@ -697,14 +705,6 @@
       "onboard_time": 1686630272,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 858484,
-      "num": 858484,
-      "word": "Jennie回应演唱会中途离场",
-      "onboard_time": 1686665488,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 851473,
@@ -939,8 +939,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 600839,
-      "num": 600839,
+      "raw_hot": 609366,
+      "num": 609366,
       "word": "权志龙又买房了",
       "onboard_time": 1686669449,
       "rank": 19,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387598,
+      "num": 387598,
+      "word": "梦是一种心理上的转码过程",
+      "onboard_time": 1686671725,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 382678,
       "num": 382678,
       "word": "Weiwei 886",
@@ -1499,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 336983,
+      "num": 336983,
+      "word": "反驳型人格",
+      "onboard_time": 1686669329,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 334492,
       "num": 334492,
       "word": "EXO今日公开先行曲LetMeIn",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1686651808,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318682,
-      "num": 318682,
-      "word": "反驳型人格",
-      "onboard_time": 1686669329,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 316496,
@@ -2465,14 +2473,6 @@
       "onboard_time": 1686579509,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219462,
-      "num": 219462,
-      "word": "梦是一种心理上的转码过程",
-      "onboard_time": 1686671725,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 219119,
@@ -4299,6 +4299,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 123000,
+      "num": 123000,
+      "word": "高中文化程度短时间掌握了大学课程",
+      "onboard_time": 1686672687,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122812,
       "num": 122812,
       "word": "员工不接电话浙江老板果断报警",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86883,
-      "num": 86883,
-      "word": "高中文化程度短时间掌握了大学课程",
-      "onboard_time": 1686672687,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 86132,
