@@ -1,0 +1,410 @@
+{
+  "runTime": 1686630041027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1284226,
+        "num": 1284226,
+        "word": "Jennie演唱会中途离场",
+        "onboard_time": 1686623486,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1176931,
+        "num": 1176931,
+        "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+        "onboard_time": 1686621509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11407,
+        "num": 965482,
+        "word": "全国网络普法行江西站",
+        "onboard_time": 1686544418,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860338,
+        "num": 860338,
+        "word": "不孕不育是榴莲最好的福报",
+        "onboard_time": 1686571348,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 716768,
+        "num": 716768,
+        "word": "NBA总决赛",
+        "onboard_time": 1686619888,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679331,
+        "num": 679331,
+        "word": "发小喊了四年终于离职了",
+        "onboard_time": 1686615449,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 637103,
+        "num": 637103,
+        "word": "宋雨琦奔跑吧收官合照是P上去的",
+        "onboard_time": 1686620487,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556121,
+        "num": 556121,
+        "word": "朴灿烈 单封",
+        "onboard_time": 1686614549,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 553113,
+        "num": 553113,
+        "word": "姆巴佩拒绝与巴黎续约",
+        "onboard_time": 1686615449,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547230,
+        "num": 547230,
+        "word": "陈晓又更文了",
+        "onboard_time": 1686623907,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2683867,
+        "num": 537283,
+        "word": "川大女生疑被腾讯解除实习合同",
+        "onboard_time": 1686624928,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1223490,
+        "num": 523812,
+        "word": "成都地铁男子偷拍女生后当面删掉",
+        "onboard_time": 1686618690,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640544,
+        "num": 512153,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613347,
+        "num": 490499,
+        "word": "杭州师范大学",
+        "onboard_time": 1686611720,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 155749,
+        "num": 482005,
+        "word": "小鸟翩若惊鸿三连跳仙气飘飘",
+        "onboard_time": 1686628831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467854,
+        "num": 467854,
+        "word": "奔跑吧泰国站最惊艳的人",
+        "onboard_time": 1686618151,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442623,
+        "num": 442623,
+        "word": "陈绮贞回应钟成虎",
+        "onboard_time": 1686628412,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409102,
+        "num": 409102,
+        "word": "企业回应禁止婚外情和出轨",
+        "onboard_time": 1686577292,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380917,
+        "num": 380917,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346249,
+        "num": 346249,
+        "word": "白鹿的腿自带高光",
+        "onboard_time": 1686577408,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410342,
+        "num": 345183,
+        "word": "全麻手术醒后可以有多社死",
+        "onboard_time": 1686612924,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400343,
+        "num": 340800,
+        "word": "起床时千万不要立刻叠被子",
+        "onboard_time": 1686615268,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354788,
+        "num": 340242,
+        "word": "监控记录了我来姨妈的瞬间",
+        "onboard_time": 1686615808,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334477,
+        "num": 334477,
+        "word": "三子深夜大战不孕不育榴莲",
+        "onboard_time": 1686584788,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286930,
+        "num": 286930,
+        "word": "约基奇FMVP",
+        "onboard_time": 1686626608,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271738,
+        "num": 271738,
+        "word": "乐华家族演唱会票价",
+        "onboard_time": 1686627990,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269260,
+        "num": 269260,
+        "word": "拥有一个亿能有多痛苦",
+        "onboard_time": 1686624087,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226740,
+        "num": 226740,
+        "word": "不仅每天要看见我还要继续给我发工资",
+        "onboard_time": 1686623788,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 211899,
+        "num": 211899,
+        "word": "沙溢好像是参加了爸爸去哪儿",
+        "onboard_time": 1686629912,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116765,
+        "num": 210067,
+        "word": "相差61岁婚纱照的背后是一场爱的接力",
+        "onboard_time": 1686622228,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209234,
+        "num": 209234,
+        "word": "肖战说自己有点社恐",
+        "onboard_time": 1686625769,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207474,
+        "num": 207474,
+        "word": "穆雷哭了",
+        "onboard_time": 1686629971,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202779,
+        "num": 202779,
+        "word": "光遇",
+        "onboard_time": 1686629732,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197625,
+        "num": 197625,
+        "word": "现代人已经不吃鸡汤了",
+        "onboard_time": 1686610940,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194465,
+        "num": 194465,
+        "word": "魏哲鸣好爱九分裤",
+        "onboard_time": 1686629251,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193562,
+        "num": 193562,
+        "word": "韩网红柬埔寨去世尸体被扔水沟",
+        "onboard_time": 1686566249,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188660,
+        "num": 188660,
+        "word": "女生骂男生偷拍变态后称认错人了",
+        "onboard_time": 1686617551,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186064,
+        "num": 186064,
+        "word": "肖战被家人夸演得还不错",
+        "onboard_time": 1686621389,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184605,
+        "num": 184605,
+        "word": "杨紫黄瀛子最新花絮图",
+        "onboard_time": 1686623607,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184554,
+        "num": 184554,
+        "word": "山崎贤人尹净汉同框",
+        "onboard_time": 1686624689,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184517,
+        "num": 184517,
+        "word": "杜海涛卡点晒照为沈梦辰庆生",
+        "onboard_time": 1686613284,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159891,
+        "num": 159891,
+        "word": "掘金灭火",
+        "onboard_time": 1686625769,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159458,
+        "num": 159458,
+        "word": "赵一博网速",
+        "onboard_time": 1686621928,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154851,
+        "num": 154851,
+        "word": "中国唯一上榜的世界最美图书馆",
+        "onboard_time": 1686584309,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152687,
+        "num": 152687,
+        "word": "老师打伤学生道歉反被多位家长安慰",
+        "onboard_time": 1686629191,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150997,
+        "num": 150997,
+        "word": "母女3人扶梯摔倒大哥跪地按停",
+        "onboard_time": 1686626070,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150919,
+        "num": 150919,
+        "word": "被误认鞋面装镜头偷拍男子称将起诉",
+        "onboard_time": 1686621747,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150534,
+        "num": 150534,
+        "word": "猫的疼痛程度",
+        "onboard_time": 1686616711,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 149635,
+        "num": 149635,
+        "word": "周也在校旧照",
+        "onboard_time": 1686629373,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140676,
+        "num": 140676,
+        "word": "爸爸给女儿梳头40分钟乱似鸡窝",
+        "onboard_time": 1686626369,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}

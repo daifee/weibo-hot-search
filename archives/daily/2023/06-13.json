@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686627233533,
+  "endTime": 1686630041027,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -9,6 +9,14 @@
       "onboard_time": 1686584788,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2683867,
+      "num": 597121,
+      "word": "川大女生疑被腾讯解除实习合同",
+      "onboard_time": 1686624928,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2129279,
@@ -33,14 +41,6 @@
       "onboard_time": 1686621509,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1839430,
-      "num": 597121,
-      "word": "川大女生疑被腾讯解除实习合同",
-      "onboard_time": 1686624928,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1819415,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1284226,
+      "num": 1284226,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1110952,
       "num": 1110952,
       "word": "初级会计",
@@ -155,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 865782,
-      "num": 865782,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
+      "raw_hot": 860338,
+      "num": 860338,
+      "word": "不孕不育是榴莲最好的福报",
+      "onboard_time": 1686571348,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 836068,
@@ -209,14 +217,6 @@
       "onboard_time": 1686581910,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717051,
-      "num": 717051,
-      "word": "不孕不育是榴莲最好的福报",
-      "onboard_time": 1686571348,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 641372,
@@ -313,6 +313,14 @@
       "onboard_time": 1686557551,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 442623,
+      "num": 442623,
+      "word": "陈绮贞回应钟成虎",
+      "onboard_time": 1686628412,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 405989,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271738,
+      "num": 271738,
+      "word": "乐华家族演唱会票价",
+      "onboard_time": 1686627990,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 261437,
       "num": 284127,
       "word": "美脱口秀演员拿马航失联玩梗拒不道歉",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226740,
+      "num": 226740,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 225857,
       "num": 225857,
       "word": "成都地铁",
@@ -531,12 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214723,
-      "num": 214723,
-      "word": "不仅每天要看见我还要继续给我发工资",
-      "onboard_time": 1686623788,
-      "rank": 43,
-      "category": "社会新闻,幽默"
+      "raw_hot": 211899,
+      "num": 211899,
+      "word": "沙溢好像是参加了爸爸去哪儿",
+      "onboard_time": 1686629912,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210434,
@@ -553,6 +577,14 @@
       "onboard_time": 1686622228,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207474,
+      "num": 207474,
+      "word": "穆雷哭了",
+      "onboard_time": 1686629971,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 207094,
@@ -585,6 +617,14 @@
       "onboard_time": 1686620370,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202779,
+      "num": 202779,
+      "word": "光遇",
+      "onboard_time": 1686629732,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 200080,
@@ -625,6 +665,14 @@
       "onboard_time": 1686626070,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194465,
+      "num": 194465,
+      "word": "魏哲鸣好爱九分裤",
+      "onboard_time": 1686629251,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 193006,
@@ -739,6 +787,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 155749,
+      "num": 482005,
+      "word": "小鸟翩若惊鸿三连跳仙气飘飘",
+      "onboard_time": 1686628831,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153717,
       "num": 153717,
       "word": "肖春生一首爱情不玲送给贺红玲",
@@ -755,12 +811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152687,
+      "num": 152687,
+      "word": "老师打伤学生道歉反被多位家长安慰",
+      "onboard_time": 1686629191,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 152666,
       "num": 152666,
       "word": "高考准考证志愿表等尽量别公开晒图",
       "onboard_time": 1686620248,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149635,
+      "num": 149635,
+      "word": "周也在校旧照",
+      "onboard_time": 1686629373,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 149286,
@@ -801,6 +873,14 @@
       "onboard_time": 1686562527,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140676,
+      "num": 140676,
+      "word": "爸爸给女儿梳头40分钟乱似鸡窝",
+      "onboard_time": 1686626369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140436,
@@ -1099,7 +1179,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10291,
+      "raw_hot": 11407,
       "num": 1016104,
       "word": "全国网络普法行江西站",
       "onboard_time": 1686544418,

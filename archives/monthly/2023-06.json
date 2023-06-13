@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686627233533,
+  "endTime": 1686630041027,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -417,6 +417,14 @@
       "onboard_time": 1685704832,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2683867,
+      "num": 597121,
+      "word": "川大女生疑被腾讯解除实习合同",
+      "onboard_time": 1686624928,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2681386,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1685768729,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1839430,
-      "num": 597121,
-      "word": "川大女生疑被腾讯解除实习合同",
-      "onboard_time": 1686624928,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1835059,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1685585607,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1284226,
+      "num": 1284226,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 1283952,
@@ -4353,14 +4361,6 @@
       "onboard_time": 1686048509,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 865782,
-      "num": 865782,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 864943,
@@ -7856,6 +7856,14 @@
       "word": "LESSERAFIM将来广州开线下签售会",
       "onboard_time": 1686560249,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 442623,
+      "num": 442623,
+      "word": "陈绮贞回应钟成虎",
+      "onboard_time": 1686628412,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -12739,6 +12747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271738,
+      "num": 271738,
+      "word": "乐华家族演唱会票价",
+      "onboard_time": 1686627990,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271635,
       "num": 271635,
       "word": "周冠宇",
@@ -15643,6 +15659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226740,
+      "num": 226740,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 226609,
       "num": 226609,
       "word": "当年高考为什么不选清华",
@@ -16619,14 +16643,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 214723,
-      "num": 214723,
-      "word": "不仅每天要看见我还要继续给我发工资",
-      "onboard_time": 1686623788,
-      "rank": 43,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 214711,
       "num": 214711,
       "word": "求职被问婚育状况合理吗",
@@ -16801,6 +16817,14 @@
       "onboard_time": 1686389008,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211899,
+      "num": 211899,
+      "word": "沙溢好像是参加了爸爸去哪儿",
+      "onboard_time": 1686629912,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 211853,
@@ -17249,6 +17273,14 @@
       "onboard_time": 1686299251,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207474,
+      "num": 207474,
+      "word": "穆雷哭了",
+      "onboard_time": 1686629971,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 207469,
@@ -18481,6 +18513,14 @@
       "onboard_time": 1686103353,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194465,
+      "num": 194465,
+      "word": "魏哲鸣好爱九分裤",
+      "onboard_time": 1686629251,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 194357,
@@ -22275,6 +22315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155749,
+      "num": 482005,
+      "word": "小鸟翩若惊鸿三连跳仙气飘飘",
+      "onboard_time": 1686628831,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155499,
       "num": 155499,
       "word": "明星芭莎吃东西大片",
@@ -22515,6 +22563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152687,
+      "num": 152687,
+      "word": "老师打伤学生道歉反被多位家长安慰",
+      "onboard_time": 1686629191,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 152666,
       "num": 152666,
       "word": "高考准考证志愿表等尽量别公开晒图",
@@ -22745,6 +22801,14 @@
       "onboard_time": 1686236732,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149635,
+      "num": 149635,
+      "word": "周也在校旧照",
+      "onboard_time": 1686629373,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 149405,
@@ -23361,6 +23425,14 @@
       "onboard_time": 1685689465,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140676,
+      "num": 140676,
+      "word": "爸爸给女儿梳头40分钟乱似鸡窝",
+      "onboard_time": 1686626369,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140557,
