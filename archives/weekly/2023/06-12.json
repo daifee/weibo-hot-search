@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686684819295,
+  "endTime": 1686687468649,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -5043,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14450,
+      "num": 19167,
+      "word": "大学生的期末精神状态",
+      "onboard_time": 1686681612,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14316,
       "num": 15960,
       "word": "周柏豪安崎唱一事无成",
@@ -5065,6 +5073,14 @@
       "onboard_time": 1686514212,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13504,
+      "num": 19115,
+      "word": "孙茜好适合红色",
+      "onboard_time": 1686686832,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
