@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686690882435,
+  "endTime": 1686692038245,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -30123,6 +30123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24124,
+      "num": 24124,
+      "word": "古巨基加胡夏微信打开了收款码",
+      "onboard_time": 1686689953,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23856,
       "num": 1341117,
       "word": "保护我们的那片海",
@@ -30168,6 +30176,14 @@
       "word": "高叶 常州",
       "onboard_time": 1685822951,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22046,
+      "num": 22046,
+      "word": "孙茜好适合红色",
+      "onboard_time": 1686686832,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -30251,23 +30267,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17869,
-      "num": 21769,
-      "word": "孙茜好适合红色",
-      "onboard_time": 1686686832,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 15861,
-      "num": 19677,
-      "word": "古巨基加胡夏微信打开了收款码",
-      "onboard_time": 1686689953,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15181,
+      "raw_hot": 16444,
       "num": 21814,
       "word": "大学生的期末精神状态",
       "onboard_time": 1686681612,
