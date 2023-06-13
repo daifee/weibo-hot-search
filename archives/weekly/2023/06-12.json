@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686665746570,
+  "endTime": 1686666811340,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1747699,
+      "num": 1747699,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1743011,
       "num": 1743011,
       "word": "高考结束男朋友牵我的手冲出考场",
@@ -211,20 +219,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1717899,
-      "num": 1717899,
-      "word": "猫的树好会拍",
-      "onboard_time": 1686657329,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1700934,
       "num": 1700934,
       "word": "刘鑫不服二审判决申请再审",
       "onboard_time": 1686632673,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1691180,
+      "num": 1143747,
+      "word": "刘亦菲 不在乎别人的想法",
+      "onboard_time": 1686663987,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1677009,
@@ -427,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1143747,
-      "num": 1143747,
-      "word": "刘亦菲 不在乎别人的想法",
-      "onboard_time": 1686663987,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1135240,
       "num": 1135240,
       "word": "很多男人是没有爱情的",
@@ -611,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 919916,
+      "num": 919916,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 905633,
       "num": 905633,
       "word": "贝卢斯科尼去世",
@@ -665,14 +673,6 @@
       "onboard_time": 1686620487,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 867728,
-      "num": 867728,
-      "word": "梅西说不会参加下届世界杯",
-      "onboard_time": 1686659067,
-      "rank": 23,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 865286,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749985,
+      "num": 749985,
+      "word": "肖战摸狗被拒绝",
+      "onboard_time": 1686663209,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 744113,
       "num": 358915,
       "word": "北京政法职业学院发布情况通报",
@@ -849,14 +857,6 @@
       "onboard_time": 1686527006,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 694210,
-      "num": 694210,
-      "word": "肖战摸狗被拒绝",
-      "onboard_time": 1686663209,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 692090,
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 562941,
-      "num": 541018,
+      "num": 552622,
       "word": "Jennie曾说自己像老奶奶一样浑身是病",
       "onboard_time": 1686661468,
       "rank": 20,
@@ -995,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552957,
+      "num": 552957,
+      "word": "万新村",
+      "onboard_time": 1686665128,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551478,
       "num": 551478,
       "word": "黄磊给谭松韵遮阳",
@@ -1007,6 +1015,14 @@
       "num": 551119,
       "word": "你只是需要早点睡觉",
       "onboard_time": 1686575250,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 543393,
+      "num": 323070,
+      "word": "地铁被要微信的大无语事件",
+      "onboard_time": 1686662787,
       "rank": 44,
       "category": "幽默,情感"
     },
@@ -1139,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440598,
-      "num": 440598,
-      "word": "万新村",
-      "onboard_time": 1686665128,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434002,
       "num": 434002,
       "word": "蔚来全系车型降价3万元",
@@ -1275,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 375986,
+      "num": 375986,
+      "word": "梅西 很高兴来到中国",
+      "onboard_time": 1686662547,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1686564627,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 361384,
-      "num": 361384,
-      "word": "梅西 很高兴来到中国",
-      "onboard_time": 1686662547,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 361054,
@@ -1499,20 +1507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324551,
+      "num": 324551,
+      "word": "Jennie回应演唱会中途离场",
+      "onboard_time": 1686665488,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323468,
       "num": 247304,
       "word": "北京警方通报男子挟持学生事件",
       "onboard_time": 1686549512,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323070,
-      "num": 323070,
-      "word": "地铁被要微信的大无语事件",
-      "onboard_time": 1686662787,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 321123,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1686621389,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315455,
+      "num": 315455,
+      "word": "英雄联盟排队",
+      "onboard_time": 1686666027,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 314089,
@@ -1883,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258559,
+      "num": 258559,
+      "word": "年轻人不爱发朋友圈的原因",
+      "onboard_time": 1686661889,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258384,
       "num": 258384,
       "word": "杨紫红秀杂志花絮",
@@ -2171,8 +2195,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 235946,
-      "num": 235946,
+      "raw_hot": 236138,
+      "num": 236138,
       "word": "小S支持林志玲回归家庭",
       "onboard_time": 1686661827,
       "rank": 25,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1686540692,
       "rank": 31,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 214457,
+      "num": 214457,
+      "word": "晕车和不晕车的人闻到的气味不一样",
+      "onboard_time": 1686666270,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 214277,
@@ -2739,14 +2771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197736,
-      "num": 197736,
-      "word": "年轻人不爱发朋友圈的原因",
-      "onboard_time": 1686661889,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196545,
       "num": 196545,
       "word": "警方回应男子地铁上被俩女子怀疑偷拍",
@@ -2875,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191021,
+      "num": 191021,
+      "word": "张杰郑州演唱会要来了",
+      "onboard_time": 1686666510,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190595,
       "num": 190595,
       "word": "从那以后我再也没有穿过高跟鞋了",
@@ -2913,14 +2945,6 @@
       "onboard_time": 1686660329,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 189332,
-      "num": 189332,
-      "word": "Jennie回应演唱会中途离场",
-      "onboard_time": 1686665488,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 189243,
@@ -3051,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185124,
+      "num": 185997,
+      "word": "公诉",
+      "onboard_time": 1686665911,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184983,
       "num": 184983,
       "word": "迪丽热巴的机场穿搭",
@@ -3081,6 +3113,14 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181945,
+      "num": 181945,
+      "word": "老A到底是谁",
+      "onboard_time": 1686666451,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 180684,
@@ -3169,6 +3209,14 @@
       "onboard_time": 1686534626,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172954,
+      "num": 172954,
+      "word": "赵露思综艺",
+      "onboard_time": 1686665911,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 172446,
@@ -3267,6 +3315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 168710,
+      "num": 168710,
+      "word": "MBTI早晚要统治韩国",
+      "onboard_time": 1686663088,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168072,
       "num": 168072,
       "word": "没想到配上字幕这么好笑",
@@ -3337,14 +3393,6 @@
       "onboard_time": 1686533068,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163014,
-      "num": 163014,
-      "word": "MBTI早晚要统治韩国",
-      "onboard_time": 1686663088,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 162653,
@@ -3491,6 +3539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153372,
+      "num": 153372,
+      "word": "超凡蜘蛛侠2里的合照",
+      "onboard_time": 1686663569,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153171,
       "num": 153171,
       "word": "崔叡娜官宣乐华2023家族演唱会",
@@ -3593,14 +3649,6 @@
       "onboard_time": 1686635248,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 148401,
-      "num": 148401,
-      "word": "超凡蜘蛛侠2里的合照",
-      "onboard_time": 1686663569,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 148328,
@@ -3817,6 +3865,14 @@
       "onboard_time": 1686633392,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138027,
+      "num": 138027,
+      "word": "体育课不能跑步的各种理由",
+      "onboard_time": 1686666632,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 137993,
@@ -4651,6 +4707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46943,
+      "num": 530746,
+      "word": "陈坤记忆中的二荆条炒肉",
+      "onboard_time": 1686664831,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46354,
       "num": 347949,
       "word": "北京一退休医生为居民义诊2100小时",
@@ -4705,14 +4769,6 @@
       "onboard_time": 1686643707,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34972,
-      "num": 457310,
-      "word": "陈坤记忆中的二荆条炒肉",
-      "onboard_time": 1686664831,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 32043,
