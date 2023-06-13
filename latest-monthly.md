@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 18:33:51
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 19:14:04
 </p>
 </blockquote>
 <p>
@@ -2787,6 +2787,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+杭师大涉事男生发声（热度：1023354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 王楚钦（热度：1022248）
 </a>
@@ -3165,8 +3171,20 @@ EDG海报空个位置（热度：945915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23" target="weibo">
+312斤女网红在减肥营离世年仅21岁（热度：918997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E6%89%8B%E9%97%A8%E5%B8%A6%E7%81%AB%E7%9A%84%E8%A3%99%E5%AD%90%E5%B7%B2%E9%80%80%E8%B4%A72000%E4%BB%B6%23" target="weibo">
 牵手门带火的裙子已退货2000件（热度：916737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%23" target="weibo">
+房东回应女孩结婚退租时打扫干净房子（热度：915006）
 </a>
 </li>
 
@@ -3179,6 +3197,12 @@ EDG海报空个位置（热度：945915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%85%E7%9A%84%E7%A9%BA%E8%B0%83%E6%98%AF5%E7%BA%A7%E8%83%BD%E8%80%97%23" target="weibo">
 出租房装的空调是5级能耗（热度：914174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP%23" target="weibo">
+王传君 INFP（热度：909408）
 </a>
 </li>
 
@@ -3729,12 +3753,6 @@ EDG官宣Thesnake上调一队（热度：796859）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP%23" target="weibo">
-王传君 INFP（热度：796248）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%99%E5%8D%B7%E8%8B%B1%E8%AF%AD%E5%BF%AB%E5%86%99%E5%93%AD%E4%BA%86%23" target="weibo">
 乙卷英语快写哭了（热度：794419）
 </a>
@@ -3857,12 +3875,6 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%991.2%E4%B8%87%E5%85%83%E6%8B%8D%E4%B8%8B%E5%8D%95%E9%A2%97%E8%8D%94%E6%9E%9D%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
 小伙1.2万元拍下单颗荔枝送女友（热度：774942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-杭师大涉事男生发声（热度：774087）
 </a>
 </li>
 
@@ -4049,6 +4061,12 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E6%8E%A8%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%89%E6%9C%B1%E4%BA%9A%E6%96%87%E6%8B%BD%E9%BB%84%E6%99%93%E6%98%8E%23" target="weibo">
 陈凯歌推朱一龙拉朱亚文拽黄晓明（热度：738778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23" target="weibo">
+詹雯婷控告陈建宁反遭起诉（热度：737738）
 </a>
 </li>
 
@@ -4277,12 +4295,6 @@ leave（热度：696926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BB%A4%E5%A7%BF%20%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%85%B0%E8%8A%B1%23" target="weibo">
 刘令姿 东方小兰花（热度：692090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23" target="weibo">
-詹雯婷控告陈建宁反遭起诉（热度：690784）
 </a>
 </li>
 
@@ -4559,12 +4571,6 @@ Amber又是第一（热度：637320）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E6%8E%A7%E8%AE%B0%E5%BD%95%E4%BA%86%E6%88%91%E6%9D%A5%E5%A7%A8%E5%A6%88%E7%9A%84%E7%9E%AC%E9%97%B4%23" target="weibo">
 监控记录了我来姨妈的瞬间（热度：637198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E7%BB%93%E5%A9%9A%E9%80%80%E7%A7%9F%E6%97%B6%E6%89%93%E6%89%AB%E5%B9%B2%E5%87%80%E6%88%BF%E5%AD%90%23" target="weibo">
-房东回应女孩结婚退租时打扫干净房子（热度：633192）
 </a>
 </li>
 
@@ -5363,12 +5369,6 @@ TFBOYS团徽三角没有封角（热度：518254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E7%9C%8B%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%80%E4%B8%8B%23" target="weibo">
 金智秀看了都得愣一下（热度：515440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23312%E6%96%A4%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E5%87%8F%E8%82%A5%E8%90%A5%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8521%E5%B2%81%23" target="weibo">
-312斤女网红在减肥营离世年仅21岁（热度：515380）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686652431496,
+  "endTime": 1686654844066,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2562443,
-      "num": 817538,
+      "num": 845044,
       "word": "疑地铁事件女子同学称被其校园霸凌",
       "onboard_time": 1686639387,
       "rank": 7,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023354,
+      "num": 1023354,
+      "word": "杭师大涉事男生发声",
+      "onboard_time": 1686649407,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014533,
       "num": 1014533,
       "word": "格力主播穿免职裙",
@@ -545,6 +553,30 @@
       "onboard_time": 1686549512,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 918997,
+      "num": 918997,
+      "word": "312斤女网红在减肥营离世年仅21岁",
+      "onboard_time": 1686650368,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915006,
+      "num": 1253213,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909408,
+      "num": 909408,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 905633,
@@ -651,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 796248,
-      "num": 796248,
-      "word": "王传君 INFP",
-      "onboard_time": 1686648449,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 785216,
       "num": 688773,
       "word": "男子称在洗浴中心被男性猥亵",
@@ -691,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 774087,
-      "num": 774087,
-      "word": "杭师大涉事男生发声",
-      "onboard_time": 1686649407,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 761336,
       "num": 390677,
       "word": "女子称试穿裙子撑破无奈351元买下",
@@ -729,6 +745,14 @@
       "onboard_time": 1686554309,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 737738,
+      "num": 737738,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 736126,
@@ -787,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690784,
-      "num": 690784,
-      "word": "詹雯婷控告陈建宁反遭起诉",
-      "onboard_time": 1686648629,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 668496,
       "num": 668496,
       "word": "杭州师范大学回应",
@@ -825,14 +841,6 @@
       "onboard_time": 1686615808,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 633192,
-      "num": 1014773,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587268,
@@ -945,14 +953,6 @@
       "onboard_time": 1686541955,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 515380,
-      "num": 515380,
-      "word": "312斤女网红在减肥营离世年仅21岁",
-      "onboard_time": 1686650368,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510977,
@@ -1267,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348123,
+      "num": 295909,
+      "word": "男生发文称被研三学姐偷走4杯喜茶",
+      "onboard_time": 1686650430,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345572,
       "num": 345572,
       "word": "后来呢 我们分开了",
@@ -1387,6 +1395,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 319573,
+      "num": 319573,
+      "word": "长风渡",
+      "onboard_time": 1686651808,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316496,
       "num": 316496,
       "word": "肖战被家人夸演得还不错",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1686572127,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295909,
-      "num": 295909,
-      "word": "男生发文称被研三学姐偷走4杯喜茶",
-      "onboard_time": 1686650430,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295558,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1686622049,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255095,
+      "num": 255095,
+      "word": "infp",
+      "onboard_time": 1686651149,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 255046,
@@ -2099,14 +2115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221756,
-      "num": 221756,
-      "word": "infp",
-      "onboard_time": 1686651149,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "YG辟谣Jennie加入漫威",
@@ -2403,14 +2411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201275,
-      "num": 201275,
-      "word": "长风渡",
-      "onboard_time": 1686651808,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200853,
       "num": 200853,
       "word": "蔚来",
@@ -2465,6 +2465,14 @@
       "onboard_time": 1686572548,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199231,
+      "num": 977978,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198402,
@@ -2561,14 +2569,6 @@
       "onboard_time": 1686533727,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192537,
-      "num": 837864,
-      "word": "男子被困冷库环卫工路过救一命",
-      "onboard_time": 1686646826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192106,
@@ -2707,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188154,
+      "num": 188154,
+      "word": "沈月周柯宇牵牵",
+      "onboard_time": 1686651508,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188107,
       "num": 188107,
       "word": "肖春生我随晓梅成熟稳重",
@@ -2779,6 +2787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184870,
+      "num": 184870,
+      "word": "部落冲突",
+      "onboard_time": 1686651630,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183781,
       "num": 514559,
       "word": "小鸟翩若惊鸿三连跳仙气飘飘",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181897,
-      "num": 181897,
-      "word": "部落冲突",
-      "onboard_time": 1686651630,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 180684,
@@ -3059,12 +3067,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161171,
-      "num": 161171,
+      "raw_hot": 161469,
+      "num": 161469,
       "word": "让你包粽子没让你绑架粽子",
       "onboard_time": 1686649769,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161233,
+      "num": 942365,
+      "word": "小伙用泥塑帮300人复活亲人样貌",
+      "onboard_time": 1686650430,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159691,
@@ -3113,14 +3129,6 @@
       "onboard_time": 1686559650,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156148,
-      "num": 153544,
-      "word": "沈月周柯宇牵牵",
-      "onboard_time": 1686651508,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 155313,
@@ -3193,6 +3201,14 @@
       "onboard_time": 1686542316,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 151834,
+      "num": 151834,
+      "word": "教资面试成绩",
+      "onboard_time": 1686654207,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 151300,
@@ -3529,6 +3545,22 @@
       "onboard_time": 1686493111,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 133276,
+      "num": 133276,
+      "word": "刘彰首次个人巡演巴士站开票",
+      "onboard_time": 1686653429,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 132549,
+      "num": 132549,
+      "word": "以前没有导航都是怎么开车的",
+      "onboard_time": 1686654508,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 131991,
@@ -3923,6 +3955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104584,
+      "num": 104584,
+      "word": "花店老板被困冷库环卫大叔闻声施救",
+      "onboard_time": 1686654627,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104317,
       "num": 104317,
       "word": "严浩翔先敲黄景瑜后敲黄晓明",
@@ -4011,14 +4051,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 95412,
-      "num": 567887,
-      "word": "小伙用泥塑帮300人复活亲人样貌",
-      "onboard_time": 1686650430,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95035,
       "num": 107330,
       "word": "以为很显眼没想到是显眼包",
@@ -4105,6 +4137,14 @@
       "onboard_time": 1686487531,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74914,
+      "num": 461425,
+      "word": "原神 艾尔海森万叶复刻",
+      "onboard_time": 1686654029,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 69225,
