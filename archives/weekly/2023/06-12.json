@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686634425576,
+  "endTime": 1686637300156,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1257893,
+      "num": 1257893,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237328,
       "num": 1237328,
       "word": "何瑞贤新剧刚怀孕就被陷害流产",
@@ -425,6 +433,14 @@
       "onboard_time": 1686539909,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023333,
+      "num": 1023333,
+      "word": "为什么夏天都不穿凉鞋了",
+      "onboard_time": 1686634286,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 1010954,
@@ -553,6 +569,14 @@
       "onboard_time": 1686466886,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 813399,
+      "num": 813399,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 812674,
@@ -753,14 +777,6 @@
       "onboard_time": 1686562768,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 558873,
-      "num": 558873,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555618,
@@ -995,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 370218,
+      "num": 370218,
+      "word": "范丞丞 跑男真的没有剧本",
+      "onboard_time": 1686636330,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
@@ -1211,6 +1235,14 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 308755,
+      "num": 308755,
+      "word": "杨幂的特长是美",
+      "onboard_time": 1686636387,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307877,
       "num": 220450,
       "word": "高邮",
@@ -1259,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296174,
-      "num": 217041,
-      "word": "孟子义没考上军艺的原因",
-      "onboard_time": 1686633688,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295558,
       "num": 295558,
       "word": "阿信",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1686491610,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293044,
+      "num": 251697,
+      "word": "沈月初一身高1米33",
+      "onboard_time": 1686637286,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 291325,
@@ -1327,6 +1359,14 @@
       "num": 284289,
       "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
       "onboard_time": 1686567329,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282235,
+      "num": 282235,
+      "word": "王鹤棣泰国录制去了20多个站姐",
+      "onboard_time": 1686631354,
       "rank": 33,
       "category": "综艺"
     },
@@ -1475,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255546,
+      "num": 255546,
+      "word": "姆巴佩去哪",
+      "onboard_time": 1686636509,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255412,
       "num": 255412,
       "word": "没有脚脖子什么体验",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1686617670,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242249,
-      "num": 242249,
-      "word": "王鹤棣泰国录制去了20多个站姐",
-      "onboard_time": 1686631354,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 240360,
@@ -1707,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228038,
+      "num": 228038,
+      "word": "这居然是小学生的简历",
+      "onboard_time": 1686631113,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225857,
       "num": 225857,
       "word": "成都地铁",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1686543155,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221415,
-      "num": 221415,
-      "word": "这居然是小学生的简历",
-      "onboard_time": 1686631113,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 220621,
@@ -2507,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166465,
+      "num": 166465,
+      "word": "往上游再往上游",
+      "onboard_time": 1686636986,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165987,
       "num": 165987,
       "word": "卡琳娜芮娜神级cos",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1686630092,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163764,
+      "num": 163764,
+      "word": "公司背调要不要经过本人同意",
+      "onboard_time": 1686634590,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 163648,
@@ -2737,14 +2793,6 @@
       "onboard_time": 1686632793,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144783,
-      "num": 144783,
-      "word": "为什么夏天都不穿凉鞋了",
-      "onboard_time": 1686634286,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 144059,
@@ -3107,6 +3155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121353,
+      "num": 121353,
+      "word": "杭师大称正在调查后续会通报",
+      "onboard_time": 1686636628,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 121272,
       "num": 121272,
       "word": "不是肖春生的腰",
@@ -3137,6 +3193,14 @@
       "onboard_time": 1686494132,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119445,
+      "num": 119445,
+      "word": "乐华发公告调整开票规则",
+      "onboard_time": 1686637286,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 119327,
@@ -3344,6 +3408,14 @@
       "word": "汉唐风格的西安国家版本馆大气唯美",
       "onboard_time": 1686571769,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99780,
+      "num": 335098,
+      "word": "民警一拥入怀轻生女子说你把我吓死了",
+      "onboard_time": 1686636087,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
