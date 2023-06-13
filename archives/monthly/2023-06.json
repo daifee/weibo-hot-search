@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686647800504,
+  "endTime": 1686648829268,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2562443,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2558192,
       "num": 2558192,
       "word": "高考入场时发现身份证6月6日过期",
@@ -513,14 +521,6 @@
       "onboard_time": 1686315929,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2523495,
-      "num": 817538,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2512576,
@@ -3403,6 +3403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1084773,
+      "num": 1045147,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083023,
       "num": 1083023,
       "word": "团伙盗墓挖出龙袍网上售卖",
@@ -3545,14 +3553,6 @@
       "onboard_time": 1686119252,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1045147,
-      "num": 1045147,
-      "word": "刘浩存任敏高中时期自拍照",
-      "onboard_time": 1686644908,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1045000,
@@ -5292,7 +5292,7 @@
     },
     {
       "raw_hot": 747821,
-      "num": 377280,
+      "num": 638837,
       "word": "高考后妹妹得知姐姐已去世一个月",
       "onboard_time": 1686646407,
       "rank": 11,
@@ -5824,6 +5824,14 @@
       "word": "高考结束张桂梅又躲进空教室",
       "onboard_time": 1686235773,
       "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 668496,
+      "num": 668496,
+      "word": "杭州师范大学回应",
+      "onboard_time": 1686646826,
+      "rank": 9,
       "category": "社会新闻,教育"
     },
     {
@@ -6508,7 +6516,7 @@
     },
     {
       "raw_hot": 573098,
-      "num": 364228,
+      "num": 564623,
       "word": "王大治带妻女看房",
       "onboard_time": 1686643408,
       "rank": 16,
@@ -8475,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414892,
+      "num": 414892,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414327,
       "num": 414327,
       "word": "高考英语甲卷 难",
@@ -9057,14 +9073,6 @@
       "onboard_time": 1686117813,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 383234,
-      "num": 383234,
-      "word": "杭州师范大学回应",
-      "onboard_time": 1686646826,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 383202,
@@ -9675,14 +9683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359141,
-      "num": 359141,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359088,
       "num": 359088,
       "word": "中石油胡继勇事件还有哪些疑问需厘清",
@@ -9907,6 +9907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349952,
+      "num": 349952,
+      "word": "强戒小伙戴着手脚铐领证结婚",
+      "onboard_time": 1686645807,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349915,
       "num": 349915,
       "word": "出演新剧是Jennie自己的选择",
@@ -10067,6 +10075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345572,
+      "num": 345572,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345302,
       "num": 345302,
       "word": "A股",
@@ -10161,14 +10177,6 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341898,
-      "num": 341898,
-      "word": "后来呢 我们分开了",
-      "onboard_time": 1686636986,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 341004,
@@ -11859,6 +11867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294381,
+      "num": 266233,
+      "word": "蔡徐坤多巴胺穿搭",
+      "onboard_time": 1686644969,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 294365,
       "num": 282804,
       "word": "薛之谦 鸟巢",
@@ -13275,14 +13291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266233,
-      "num": 266233,
-      "word": "蔡徐坤多巴胺穿搭",
-      "onboard_time": 1686644969,
-      "rank": 27,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 266227,
       "num": 266227,
       "word": "皓史成双",
@@ -14379,6 +14387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249298,
+      "num": 249298,
+      "word": "建议夏天上班别背双肩包",
+      "onboard_time": 1686644609,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249290,
       "num": 249290,
       "word": "很多中国家庭培养女儿 公婆视角",
@@ -14569,6 +14585,14 @@
       "onboard_time": 1685718092,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246341,
+      "num": 246341,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246261,
@@ -15593,14 +15617,6 @@
       "onboard_time": 1686289230,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231875,
-      "num": 231875,
-      "word": "建议夏天上班别背双肩包",
-      "onboard_time": 1686644609,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 231833,
@@ -19867,6 +19883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188389,
+      "num": 188389,
+      "word": "范丞丞你小子勾引谁",
+      "onboard_time": 1686645206,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188367,
       "num": 165288,
       "word": "花戎产子",
@@ -20057,14 +20081,6 @@
       "onboard_time": 1685776588,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186532,
-      "num": 186532,
-      "word": "强戒小伙戴着手脚铐领证结婚",
-      "onboard_time": 1686645807,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186478,
@@ -20747,6 +20763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179081,
+      "num": 179081,
+      "word": "任贤齐长沙演唱会",
+      "onboard_time": 1686648392,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179072,
       "num": 179072,
       "word": "蔡徐坤戴墨镜出场",
@@ -21075,20 +21099,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 175592,
+      "num": 175592,
+      "word": "Amber追竞人的一天",
+      "onboard_time": 1686647788,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175590,
       "num": 175590,
       "word": "cgv",
       "onboard_time": 1685857827,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175579,
-      "num": 175579,
-      "word": "范丞丞你小子勾引谁",
-      "onboard_time": 1686645206,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 175437,
@@ -21956,7 +21980,7 @@
     },
     {
       "raw_hot": 164847,
-      "num": 159043,
+      "num": 162672,
       "word": "我被投稿了",
       "onboard_time": 1686643348,
       "rank": 34,
@@ -23539,6 +23563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148017,
+      "num": 132421,
+      "word": "暑假档必爆剧",
+      "onboard_time": 1686648568,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147668,
       "num": 111378,
       "word": "王一博东京出发",
@@ -24851,6 +24883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129796,
+      "num": 129796,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129759,
       "num": 129759,
       "word": "中国说唱巅峰对决下期有朴宰范",
@@ -24913,6 +24953,14 @@
       "onboard_time": 1686002294,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129074,
+      "num": 129074,
+      "word": "领导让削个梨",
+      "onboard_time": 1686647666,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 129070,
@@ -25113,6 +25161,14 @@
       "onboard_time": 1685769150,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127061,
+      "num": 127061,
+      "word": "iG官宣beishang加入",
+      "onboard_time": 1686646708,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 126845,
@@ -25569,14 +25625,6 @@
       "onboard_time": 1686001752,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120194,
-      "num": 120194,
-      "word": "Amber追竞人的一天",
-      "onboard_time": 1686647788,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 120187,
@@ -26099,20 +26147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113414,
+      "num": 429667,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113409,
       "num": 113409,
       "word": "外面的世界已经发展成这样了",
       "onboard_time": 1685963367,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113397,
-      "num": 119767,
-      "word": "iG官宣beishang加入",
-      "onboard_time": 1686646708,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 113303,
@@ -28320,14 +28368,6 @@
       "word": "男子雨天捎带老人获赠甜桃",
       "onboard_time": 1686178940,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59226,
-      "num": 366843,
-      "word": "男子被困冷库环卫工路过救一命",
-      "onboard_time": 1686646826,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

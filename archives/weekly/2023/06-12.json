@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686647800504,
+  "endTime": 1686648829268,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -75,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2523495,
+      "raw_hot": 2562443,
       "num": 817538,
       "word": "疑地铁事件女子同学称被其校园霸凌",
       "onboard_time": 1686639387,
@@ -419,6 +419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1084773,
+      "num": 1045147,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1082710,
       "num": 1082710,
       "word": "应采儿回应把hoho当成女孩养",
@@ -473,14 +481,6 @@
       "onboard_time": 1686636330,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1045147,
-      "num": 1045147,
-      "word": "刘浩存任敏高中时期自拍照",
-      "onboard_time": 1686644908,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1031231,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 747821,
-      "num": 377280,
+      "num": 638837,
       "word": "高考后妹妹得知姐姐已去世一个月",
       "onboard_time": 1686646407,
       "rank": 11,
@@ -755,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668496,
+      "num": 668496,
+      "word": "杭州师范大学回应",
+      "onboard_time": 1686646826,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 653921,
       "num": 653921,
       "word": "沈月捧花头像",
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 573098,
-      "num": 364228,
+      "num": 564623,
       "word": "王大治带妻女看房",
       "onboard_time": 1686643408,
       "rank": 16,
@@ -1035,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414892,
+      "num": 414892,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411467,
       "num": 411467,
       "word": "梅西见面会取消",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1686639865,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 383234,
-      "num": 383234,
-      "word": "杭州师范大学回应",
-      "onboard_time": 1686646826,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 382678,
@@ -1163,14 +1171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 359141,
-      "num": 359141,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -1203,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349952,
+      "num": 349952,
+      "word": "强戒小伙戴着手脚铐领证结婚",
+      "onboard_time": 1686645807,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349790,
       "num": 293471,
       "word": "迪丽热巴打羽毛球",
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345572,
+      "num": 345572,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343025,
       "num": 343025,
       "word": "let me in",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341898,
-      "num": 341898,
-      "word": "后来呢 我们分开了",
-      "onboard_time": 1686636986,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 341771,
@@ -1435,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294381,
+      "num": 266233,
+      "word": "蔡徐坤多巴胺穿搭",
+      "onboard_time": 1686644969,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 291325,
       "num": 291325,
       "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1686646826,
       "rank": 22,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 266233,
-      "num": 266233,
-      "word": "蔡徐坤多巴胺穿搭",
-      "onboard_time": 1686644969,
-      "rank": 27,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 262906,
@@ -1779,12 +1787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249298,
+      "num": 249298,
+      "word": "建议夏天上班别背双肩包",
+      "onboard_time": 1686644609,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246988,
       "num": 264262,
       "word": "晒出手机里的美食中国",
       "onboard_time": 1686544057,
       "rank": 32,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 246341,
+      "num": 246341,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243743,
@@ -1905,14 +1929,6 @@
       "onboard_time": 1686565588,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 231875,
-      "num": 231875,
-      "word": "建议夏天上班别背双肩包",
-      "onboard_time": 1686644609,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 231195,
@@ -2563,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188389,
+      "num": 188389,
+      "word": "范丞丞你小子勾引谁",
+      "onboard_time": 1686645206,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188367,
       "num": 165288,
       "word": "花戎产子",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1686497429,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 186532,
-      "num": 186532,
-      "word": "强戒小伙戴着手脚铐领证结婚",
-      "onboard_time": 1686645807,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186217,
@@ -2691,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179081,
+      "num": 179081,
+      "word": "任贤齐长沙演唱会",
+      "onboard_time": 1686648392,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178280,
       "num": 178280,
       "word": "华晨宇方回应黄牛扰乱市场",
@@ -2723,12 +2747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175579,
-      "num": 175579,
-      "word": "范丞丞你小子勾引谁",
-      "onboard_time": 1686645206,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 175592,
+      "num": 175592,
+      "word": "Amber追竞人的一天",
+      "onboard_time": 1686647788,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 174455,
@@ -2868,7 +2892,7 @@
     },
     {
       "raw_hot": 164847,
-      "num": 159043,
+      "num": 162672,
       "word": "我被投稿了",
       "onboard_time": 1686643348,
       "rank": 34,
@@ -3105,6 +3129,14 @@
       "onboard_time": 1686634168,
       "rank": 43,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 148017,
+      "num": 132421,
+      "word": "暑假档必爆剧",
+      "onboard_time": 1686648568,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 147345,
@@ -3363,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129796,
+      "num": 129796,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129594,
       "num": 129594,
       "word": "毛不易阅片量",
@@ -3377,6 +3417,14 @@
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 129074,
+      "num": 129074,
+      "word": "领导让削个梨",
+      "onboard_time": 1686647666,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 128806,
@@ -3433,6 +3481,14 @@
       "onboard_time": 1686577470,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127061,
+      "num": 127061,
+      "word": "iG官宣beishang加入",
+      "onboard_time": 1686646708,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 125438,
@@ -3523,14 +3579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120194,
-      "num": 120194,
-      "word": "Amber追竞人的一天",
-      "onboard_time": 1686647788,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "TES战胜WBG",
@@ -3619,12 +3667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113397,
-      "num": 119767,
-      "word": "iG官宣beishang加入",
-      "onboard_time": 1686646708,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 113414,
+      "num": 429667,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113272,
@@ -3945,14 +3993,6 @@
       "onboard_time": 1686477088,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 59226,
-      "num": 366843,
-      "word": "男子被困冷库环卫工路过救一命",
-      "onboard_time": 1686646826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57926,

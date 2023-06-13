@@ -1,0 +1,410 @@
+{
+  "runTime": 1686648829268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131188,
+        "num": 1131188,
+        "word": "赵露思好美",
+        "onboard_time": 1686640046,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870589,
+        "num": 870589,
+        "word": "范丞丞 跑男真的没有剧本",
+        "onboard_time": 1686636330,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85107,
+        "num": 850830,
+        "word": "边防战士带着全家福巡逻",
+        "onboard_time": 1686643888,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084773,
+        "num": 848038,
+        "word": "刘浩存任敏高中时期自拍照",
+        "onboard_time": 1686644908,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834432,
+        "num": 834432,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 801089,
+        "num": 801089,
+        "word": "张柏芝 好能打的一张脸",
+        "onboard_time": 1686639746,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 668496,
+        "num": 668496,
+        "word": "杭州师范大学回应",
+        "onboard_time": 1686646826,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 666196,
+        "num": 666196,
+        "word": "刘令姿 东方小兰花",
+        "onboard_time": 1686644307,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638837,
+        "num": 638837,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492329,
+        "num": 622271,
+        "word": "疑似杭师大女生家属发声",
+        "onboard_time": 1686630213,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2562443,
+        "num": 620709,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 660502,
+        "num": 620554,
+        "word": "老师打伤学生道歉反被多位家长安慰",
+        "onboard_time": 1686629191,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 618737,
+        "num": 618737,
+        "word": "赵露思造型师换成闵塔鲨了",
+        "onboard_time": 1686642508,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564623,
+        "num": 564623,
+        "word": "王大治带妻女看房",
+        "onboard_time": 1686643408,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113414,
+        "num": 429667,
+        "word": "男子被困冷库环卫工路过救一命",
+        "onboard_time": 1686646826,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414892,
+        "num": 414892,
+        "word": "房东回应女孩结婚退租时打扫干净房子",
+        "onboard_time": 1686644188,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349952,
+        "num": 349952,
+        "word": "强戒小伙戴着手脚铐领证结婚",
+        "onboard_time": 1686645807,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345572,
+        "num": 345572,
+        "word": "后来呢 我们分开了",
+        "onboard_time": 1686636986,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331983,
+        "num": 331983,
+        "word": "刘鑫不服二审判决申请再审",
+        "onboard_time": 1686632673,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251462,
+        "num": 251462,
+        "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+        "onboard_time": 1686621509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304672,
+        "num": 251160,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294381,
+        "num": 251062,
+        "word": "蔡徐坤多巴胺穿搭",
+        "onboard_time": 1686644969,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262379,
+        "num": 250999,
+        "word": "迪丽热巴打羽毛球",
+        "onboard_time": 1686642087,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250557,
+        "num": 250557,
+        "word": "林心如首带女儿做公益",
+        "onboard_time": 1686640706,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249298,
+        "num": 249298,
+        "word": "建议夏天上班别背双肩包",
+        "onboard_time": 1686644609,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246341,
+        "num": 246341,
+        "word": "王传君 INFP",
+        "onboard_time": 1686648449,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233295,
+        "num": 233295,
+        "word": "沈月初一身高1米33",
+        "onboard_time": 1686637286,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201967,
+        "num": 201967,
+        "word": "监控记录了我来姨妈的瞬间",
+        "onboard_time": 1686615808,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189989,
+        "num": 189989,
+        "word": "玛格丽特别放盐",
+        "onboard_time": 1686647186,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188389,
+        "num": 188389,
+        "word": "范丞丞你小子勾引谁",
+        "onboard_time": 1686645206,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179081,
+        "num": 179081,
+        "word": "任贤齐长沙演唱会",
+        "onboard_time": 1686648392,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175592,
+        "num": 175592,
+        "word": "Amber追竞人的一天",
+        "onboard_time": 1686647788,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170822,
+        "num": 170822,
+        "word": "台偶收视率前二十",
+        "onboard_time": 1686639446,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170752,
+        "num": 170752,
+        "word": "边伯贤截掉SMTOWN的logo",
+        "onboard_time": 1686630272,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168997,
+        "num": 168997,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165749,
+        "num": 165749,
+        "word": "孟子义没考上军艺的原因",
+        "onboard_time": 1686633688,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162672,
+        "num": 162672,
+        "word": "我被投稿了",
+        "onboard_time": 1686643348,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161179,
+        "num": 161179,
+        "word": "任豪 人工呼吸怎么不算吻",
+        "onboard_time": 1686630573,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157619,
+        "num": 157619,
+        "word": "杨幂的特长是美",
+        "onboard_time": 1686636387,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140900,
+        "num": 140900,
+        "word": "宝格丽",
+        "onboard_time": 1686639865,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 157235,
+        "num": 139642,
+        "word": "肖战为肖春生由i变e",
+        "onboard_time": 1686646167,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 810261,
+        "num": 138455,
+        "word": "川大女生疑被腾讯解除实习合同",
+        "onboard_time": 1686624928,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151061,
+        "num": 136315,
+        "word": "SMTOWN没有给EXO划分制作中心",
+        "onboard_time": 1686641909,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148085,
+        "num": 133915,
+        "word": "沙溢好像是参加了爸爸去哪儿",
+        "onboard_time": 1686629912,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148017,
+        "num": 132421,
+        "word": "暑假档必爆剧",
+        "onboard_time": 1686648568,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131570,
+        "num": 131570,
+        "word": "杨迪被认成狂飙里的麻子",
+        "onboard_time": 1686638606,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129796,
+        "num": 129796,
+        "word": "詹雯婷控告陈建宁反遭起诉",
+        "onboard_time": 1686648629,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129074,
+        "num": 129074,
+        "word": "领导让削个梨",
+        "onboard_time": 1686647666,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127061,
+        "num": 127061,
+        "word": "iG官宣beishang加入",
+        "onboard_time": 1686646708,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79559,
+        "num": 126762,
+        "word": "更适合中国宝宝方便面的吃法",
+        "onboard_time": 1686644848,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    }
+  }
+}

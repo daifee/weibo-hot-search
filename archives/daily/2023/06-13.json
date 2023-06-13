@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686647800504,
+  "endTime": 1686648829268,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2523495,
+      "raw_hot": 2562443,
       "num": 817538,
       "word": "疑地铁事件女子同学称被其校园霸凌",
       "onboard_time": 1686639387,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1084773,
+      "num": 1045147,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1073295,
       "num": 1073295,
       "word": "杜海涛卡点晒照为沈梦辰庆生",
@@ -209,14 +217,6 @@
       "onboard_time": 1686636330,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1045147,
-      "num": 1045147,
-      "word": "刘浩存任敏高中时期自拍照",
-      "onboard_time": 1686644908,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 983744,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 747821,
-      "num": 377280,
+      "num": 638837,
       "word": "高考后妹妹得知姐姐已去世一个月",
       "onboard_time": 1686646407,
       "rank": 11,
@@ -345,6 +345,14 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668496,
+      "num": 668496,
+      "word": "杭州师范大学回应",
+      "onboard_time": 1686646826,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 641372,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 573098,
-      "num": 364228,
+      "num": 564623,
       "word": "王大治带妻女看房",
       "onboard_time": 1686643408,
       "rank": 16,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414892,
+      "num": 414892,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -515,28 +531,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 383234,
-      "num": 383234,
-      "word": "杭州师范大学回应",
-      "onboard_time": 1686646826,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
       "onboard_time": 1686630573,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 359141,
-      "num": 359141,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356589,
@@ -563,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349952,
+      "num": 349952,
+      "word": "强戒小伙戴着手脚铐领证结婚",
+      "onboard_time": 1686645807,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349790,
       "num": 293471,
       "word": "迪丽热巴打羽毛球",
@@ -571,20 +579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345572,
+      "num": 345572,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 342654,
       "num": 342654,
       "word": "乐华发公告调整开票规则",
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341898,
-      "num": 341898,
-      "word": "后来呢 我们分开了",
-      "onboard_time": 1686636986,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 331249,
@@ -617,6 +625,14 @@
       "onboard_time": 1686633211,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 294381,
+      "num": 266233,
+      "word": "蔡徐坤多巴胺穿搭",
+      "onboard_time": 1686644969,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 290715,
@@ -707,14 +723,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 266233,
-      "num": 266233,
-      "word": "蔡徐坤多巴胺穿搭",
-      "onboard_time": 1686644969,
-      "rank": 27,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 262906,
       "num": 262906,
       "word": "九尾直播",
@@ -803,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249298,
+      "num": 249298,
+      "word": "建议夏天上班别背双肩包",
+      "onboard_time": 1686644609,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246341,
+      "num": 246341,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242648,
       "num": 242648,
       "word": "德国警方回复中国光伏企业高管被带走",
@@ -849,14 +873,6 @@
       "onboard_time": 1686621747,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231875,
-      "num": 231875,
-      "word": "建议夏天上班别背双肩包",
-      "onboard_time": 1686644609,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 229545,
@@ -1131,6 +1147,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 188389,
+      "num": 188389,
+      "word": "范丞丞你小子勾引谁",
+      "onboard_time": 1686645206,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188367,
       "num": 165288,
       "word": "花戎产子",
@@ -1152,14 +1176,6 @@
       "word": "日本核废水",
       "onboard_time": 1686574770,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186532,
-      "num": 186532,
-      "word": "强戒小伙戴着手脚铐领证结婚",
-      "onboard_time": 1686645807,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179081,
+      "num": 179081,
+      "word": "任贤齐长沙演唱会",
+      "onboard_time": 1686648392,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177773,
       "num": 177773,
       "word": "肖战为肖春生由i变e",
@@ -1219,12 +1243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175579,
-      "num": 175579,
-      "word": "范丞丞你小子勾引谁",
-      "onboard_time": 1686645206,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 175592,
+      "num": 175592,
+      "word": "Amber追竞人的一天",
+      "onboard_time": 1686647788,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 168921,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 164847,
-      "num": 159043,
+      "num": 162672,
       "word": "我被投稿了",
       "onboard_time": 1686643348,
       "rank": 34,
@@ -1419,6 +1443,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 148017,
+      "num": 132421,
+      "word": "暑假档必爆剧",
+      "onboard_time": 1686648568,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "看完这42S练成微笑唇",
@@ -1515,12 +1547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129796,
+      "num": 129796,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129337,
       "num": 129337,
       "word": "教授组团做科普意外成招生简章",
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 129074,
+      "num": 129074,
+      "word": "领导让削个梨",
+      "onboard_time": 1686647666,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 128741,
@@ -1547,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127061,
+      "num": 127061,
+      "word": "iG官宣beishang加入",
+      "onboard_time": 1686646708,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123514,
       "num": 123514,
       "word": "大叔与快递小哥合力救下溺水女子",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1686604152,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 120194,
-      "num": 120194,
-      "word": "Amber追竞人的一天",
-      "onboard_time": 1686647788,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 119881,
@@ -1627,12 +1675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113397,
-      "num": 119767,
-      "word": "iG官宣beishang加入",
-      "onboard_time": 1686646708,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 113414,
+      "num": 429667,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113031,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1686581671,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 59226,
-      "num": 366843,
-      "word": "男子被困冷库环卫工路过救一命",
-      "onboard_time": 1686646826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59142,
