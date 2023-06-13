@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686638082638,
+  "endTime": 1686640554262,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -275,6 +275,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1394485,
+      "num": 1394485,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351320,
       "num": 1351320,
       "word": "NBA总决赛",
@@ -315,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1262154,
-      "num": 1262154,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1237328,
       "num": 1237328,
       "word": "何瑞贤新剧刚怀孕就被陷害流产",
@@ -337,6 +337,14 @@
       "onboard_time": 1686545674,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1209808,
+      "num": 1209808,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1202288,
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1004439,
-      "num": 1004439,
-      "word": "孟子义没考上军艺的原因",
-      "onboard_time": 1686633688,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 974128,
       "num": 974128,
       "word": "掘金灭火",
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 861131,
+      "num": 861131,
+      "word": "范丞丞 跑男真的没有剧本",
+      "onboard_time": 1686636330,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 851473,
       "num": 851473,
       "word": "THE9演唱会",
@@ -569,6 +577,14 @@
       "onboard_time": 1686557250,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817538,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 817302,
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442725,
+      "num": 272362,
+      "word": "沈月初一身高1米33",
+      "onboard_time": 1686637286,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434002,
       "num": 434002,
       "word": "蔚来全系车型降价3万元",
@@ -992,14 +1016,6 @@
       "word": "奔跑吧校服路透",
       "onboard_time": 1686552567,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 391949,
-      "num": 391949,
-      "word": "范丞丞 跑男真的没有剧本",
-      "onboard_time": 1686636330,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1107,20 +1123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347889,
-      "num": 271023,
-      "word": "沈月初一身高1米33",
-      "onboard_time": 1686637286,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343025,
       "num": 343025,
       "word": "let me in",
       "onboard_time": 1686562410,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342654,
+      "num": 342654,
+      "word": "乐华发公告调整开票规则",
+      "onboard_time": 1686637286,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 341771,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1686621389,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313877,
+      "num": 313877,
+      "word": "赵露思好美",
+      "onboard_time": 1686640046,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 312786,
@@ -1419,12 +1443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273010,
+      "num": 339821,
+      "word": "民警一拥入怀轻生女子说你把我吓死了",
+      "onboard_time": 1686636087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271738,
       "num": 271738,
       "word": "乐华家族演唱会票价",
       "onboard_time": 1686627990,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271333,
+      "num": 271333,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 270364,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1686550289,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262906,
+      "num": 262906,
+      "word": "九尾直播",
+      "onboard_time": 1686639808,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 262763,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1686553409,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249531,
+      "num": 249531,
+      "word": "怀疑自己被偷拍该如何处理",
+      "onboard_time": 1686638667,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246988,
@@ -1771,6 +1827,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227959,
+      "num": 227959,
+      "word": "是晒出纹身不是晒出纹身",
+      "onboard_time": 1686638667,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226406,
+      "num": 226406,
+      "word": "张柏芝 好能打的一张脸",
+      "onboard_time": 1686639746,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 225857,
       "num": 225857,
       "word": "成都地铁",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1686543155,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222506,
+      "num": 222506,
+      "word": "宝格丽",
+      "onboard_time": 1686639865,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 220621,
@@ -2024,6 +2104,14 @@
       "word": "鞠婧祎新剧吻戏好多",
       "onboard_time": 1686620370,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203262,
+      "num": 203262,
+      "word": "台偶收视率前二十",
+      "onboard_time": 1686639446,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -2379,14 +2467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185741,
-      "num": 185741,
-      "word": "乐华发公告调整开票规则",
-      "onboard_time": 1686637286,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185459,
       "num": 185459,
       "word": "梅西",
@@ -2707,6 +2787,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155081,
+      "num": 155081,
+      "word": "鹭卓空降",
+      "onboard_time": 1686638307,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153983,
+      "num": 153983,
+      "word": "当我飞奔向你",
+      "onboard_time": 1686640406,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153467,
       "num": 153467,
       "word": "电影消失的她",
@@ -2771,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149490,
+      "num": 149490,
+      "word": "研究称家人或正在破坏你的减肥之旅",
+      "onboard_time": 1686639509,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 149405,
       "num": 149405,
       "word": "内娱莽夫遇上撒娇妲己",
@@ -2787,12 +2891,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 148639,
-      "num": 339821,
-      "word": "民警一拥入怀轻生女子说你把我吓死了",
-      "onboard_time": 1686636087,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 148602,
+      "num": 148602,
+      "word": "谈谈川大女生的小作文",
+      "onboard_time": 1686635248,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148328,
@@ -2873,6 +2977,14 @@
       "onboard_time": 1686541832,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "杨迪被认成狂飙里的麻子",
+      "onboard_time": 1686638606,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 142598,
@@ -3081,14 +3193,6 @@
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 129176,
-      "num": 129176,
-      "word": "后来呢 我们分开了",
-      "onboard_time": 1686636986,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 128806,
@@ -3699,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31689,
+      "num": 1112135,
+      "word": "复兴号即将在青藏铁路运营",
+      "onboard_time": 1686625288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26741,
       "num": 29881,
       "word": "广州南站客服回应按摩椅现虫子",
@@ -3713,6 +3825,14 @@
       "onboard_time": 1686593056,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24438,
+      "num": 347318,
+      "word": "北京一退休医生为居民义诊2100小时",
+      "onboard_time": 1686639685,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24244,

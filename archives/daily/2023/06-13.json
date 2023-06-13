@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686638082638,
+  "endTime": 1686640554262,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -107,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1394485,
+      "num": 1394485,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351320,
       "num": 1351320,
       "word": "NBA总决赛",
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1262154,
-      "num": 1262154,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 1209808,
+      "num": 1209808,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1118116,
@@ -169,14 +177,6 @@
       "onboard_time": 1686630573,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1004439,
-      "num": 1004439,
-      "word": "孟子义没考上军艺的原因",
-      "onboard_time": 1686633688,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 983744,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 861131,
+      "num": 861131,
+      "word": "范丞丞 跑男真的没有剧本",
+      "onboard_time": 1686636330,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860338,
       "num": 860338,
       "word": "不孕不育是榴莲最好的福报",
@@ -241,6 +249,14 @@
       "onboard_time": 1686615268,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 817538,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 812674,
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 442725,
+      "num": 272362,
+      "word": "沈月初一身高1米33",
+      "onboard_time": 1686637286,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -417,14 +441,6 @@
       "onboard_time": 1686570389,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 391949,
-      "num": 391949,
-      "word": "范丞丞 跑男真的没有剧本",
-      "onboard_time": 1686636330,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 368859,
@@ -459,12 +475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 347889,
-      "num": 271023,
-      "word": "沈月初一身高1米33",
+      "raw_hot": 342654,
+      "num": 342654,
+      "word": "乐华发公告调整开票规则",
       "onboard_time": 1686637286,
-      "rank": 23,
-      "category": "综艺"
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 331249,
@@ -489,6 +505,14 @@
       "onboard_time": 1686621389,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313877,
+      "num": 313877,
+      "word": "赵露思好美",
+      "onboard_time": 1686640046,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 301637,
@@ -547,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273010,
+      "num": 339821,
+      "word": "民警一拥入怀轻生女子说你把我吓死了",
+      "onboard_time": 1686636087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272951,
       "num": 272951,
       "word": "官方通报女干部被带去酒局灌酒",
@@ -561,6 +593,22 @@
       "onboard_time": 1686627990,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271333,
+      "num": 271333,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 262906,
+      "num": 262906,
+      "word": "九尾直播",
+      "onboard_time": 1686639808,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 262763,
@@ -625,6 +673,14 @@
       "onboard_time": 1686623788,
       "rank": 43,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 249531,
+      "num": 249531,
+      "word": "怀疑自己被偷拍该如何处理",
+      "onboard_time": 1686638667,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242648,
@@ -699,12 +755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227959,
+      "num": 227959,
+      "word": "是晒出纹身不是晒出纹身",
+      "onboard_time": 1686638667,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227062,
       "num": 217665,
       "word": "男子赴江西一高校殴打出轨妻子",
       "onboard_time": 1686580590,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226406,
+      "num": 226406,
+      "word": "张柏芝 好能打的一张脸",
+      "onboard_time": 1686639746,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 225857,
@@ -721,6 +793,14 @@
       "onboard_time": 1686621928,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222506,
+      "num": 222506,
+      "word": "宝格丽",
+      "onboard_time": 1686639865,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 218906,
@@ -784,6 +864,14 @@
       "word": "鞠婧祎新剧吻戏好多",
       "onboard_time": 1686620370,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203262,
+      "num": 203262,
+      "word": "台偶收视率前二十",
+      "onboard_time": 1686639446,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -905,14 +993,6 @@
       "onboard_time": 1686574770,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185741,
-      "num": 185741,
-      "word": "乐华发公告调整开票规则",
-      "onboard_time": 1686637286,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 185459,
@@ -1051,6 +1131,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155081,
+      "num": 155081,
+      "word": "鹭卓空降",
+      "onboard_time": 1686638307,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153983,
+      "num": 153983,
+      "word": "当我飞奔向你",
+      "onboard_time": 1686640406,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153717,
       "num": 153717,
       "word": "肖春生一首爱情不玲送给贺红玲",
@@ -1083,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149490,
+      "num": 149490,
+      "word": "研究称家人或正在破坏你的减肥之旅",
+      "onboard_time": 1686639509,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 149286,
       "num": 149286,
       "word": "相亲对象真的好靠谱",
@@ -1091,12 +1195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148639,
-      "num": 339821,
-      "word": "民警一拥入怀轻生女子说你把我吓死了",
-      "onboard_time": 1686636087,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 148602,
+      "num": 148602,
+      "word": "谈谈川大女生的小作文",
+      "onboard_time": 1686635248,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148534,
@@ -1163,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "杨迪被认成狂飙里的麻子",
+      "onboard_time": 1686638606,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140676,
       "num": 140676,
       "word": "爸爸给女儿梳头40分钟乱似鸡窝",
@@ -1225,14 +1337,6 @@
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 129176,
-      "num": 129176,
-      "word": "后来呢 我们分开了",
-      "onboard_time": 1686636986,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 127723,
@@ -1499,12 +1603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31689,
+      "num": 1112135,
+      "word": "复兴号即将在青藏铁路运营",
+      "onboard_time": 1686625288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25810,
       "num": 36292,
       "word": "侯明昊代拍文学",
       "onboard_time": 1686593056,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24438,
+      "num": 347318,
+      "word": "北京一退休医生为居民义诊2100小时",
+      "onboard_time": 1686639685,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22095,
