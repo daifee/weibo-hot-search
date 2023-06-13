@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686662409320,
+  "endTime": 1686663218668,
   "band_list": [
     {
       "raw_hot": 3250485,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1504213,
+      "num": 1504213,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1492329,
       "num": 1492329,
       "word": "沙溢好像是参加了爸爸去哪儿",
       "onboard_time": 1686629912,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1479221,
-      "num": 1479221,
-      "word": "猫的树好会拍",
-      "onboard_time": 1686657329,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1451284,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773048,
+      "num": 773048,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 752809,
       "num": 752809,
       "word": "60岁阿姨健身22年后的样子",
@@ -467,14 +475,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 620392,
-      "num": 620392,
-      "word": "梅西说不会参加下届世界杯",
-      "onboard_time": 1686659067,
-      "rank": 23,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 590536,
       "num": 590536,
       "word": "企业回应禁止婚外情和出轨",
@@ -515,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541018,
+      "num": 541018,
+      "word": "Jennie曾说自己像老奶奶一样浑身是病",
+      "onboard_time": 1686661468,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502798,
       "num": 361964,
       "word": "林心如首带女儿做公益",
@@ -529,6 +537,14 @@
       "onboard_time": 1686618151,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487724,
+      "num": 487724,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 483295,
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 396563,
-      "num": 396563,
-      "word": "中学回应疑地铁女子高中同学发声",
-      "onboard_time": 1686659008,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 392810,
       "num": 392810,
       "word": "张彬彬的粉底咋回事",
@@ -649,6 +657,14 @@
       "onboard_time": 1686630573,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358361,
+      "num": 358361,
+      "word": "梦海证婚椅",
+      "onboard_time": 1686662430,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 356589,
@@ -745,14 +761,6 @@
       "onboard_time": 1686651808,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319028,
-      "num": 319028,
-      "word": "Jennie曾说自己像老奶奶一样浑身是病",
-      "onboard_time": 1686661468,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 316496,
@@ -923,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257127,
+      "num": 257127,
+      "word": "肖春生佟晓梅疯狂上分",
+      "onboard_time": 1686662009,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255546,
       "num": 255546,
       "word": "姆巴佩去哪",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1686647666,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235946,
+      "num": 235946,
+      "word": "小S支持林志玲回归家庭",
+      "onboard_time": 1686661827,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 235558,
@@ -1187,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207417,
-      "num": 207417,
-      "word": "小S支持林志玲回归家庭",
-      "onboard_time": 1686661827,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207094,
       "num": 207094,
       "word": "中新网评川大女生地铁曝光大叔",
@@ -1219,12 +1235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204914,
-      "num": 204914,
-      "word": "肖春生佟晓梅疯狂上分",
-      "onboard_time": 1686662009,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 204735,
+      "num": 204735,
+      "word": "笑果回应擅自演出被罚",
+      "onboard_time": 1686662309,
+      "rank": 47,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 203477,
@@ -1267,12 +1283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201203,
+      "num": 201203,
+      "word": "迪丽热巴龚俊将录制你好星期六",
+      "onboard_time": 1686663209,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200080,
       "num": 200080,
       "word": "职场上不会拒绝的人有福了",
       "onboard_time": 1686620070,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 199881,
+      "num": 199881,
+      "word": "肖战摸狗被拒绝",
+      "onboard_time": 1686663209,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199773,
@@ -1531,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170321,
+      "num": 170321,
+      "word": "年轻人不爱发朋友圈的原因",
+      "onboard_time": 1686661889,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168921,
       "num": 168921,
       "word": "赵美延曾帮助校暴受害者",
@@ -1603,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163014,
+      "num": 163014,
+      "word": "MBTI早晚要统治韩国",
+      "onboard_time": 1686663088,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162653,
       "num": 162653,
       "word": "寻找17年给我小狗的阿姨",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1686570268,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158675,
+      "num": 158675,
+      "word": "梅西 很高兴来到中国",
+      "onboard_time": 1686662547,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 158023,
@@ -1955,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132129,
+      "num": 132129,
+      "word": "地铁被要微信的大无语事件",
+      "onboard_time": 1686662787,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 131991,
       "num": 131991,
       "word": "民警给猫头鹰幼崽喂饭絮絮叨叨",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1686619528,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 121969,
-      "num": 121969,
-      "word": "年轻人不爱发朋友圈的原因",
-      "onboard_time": 1686661889,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 121353,
@@ -2137,14 +2193,6 @@
       "onboard_time": 1686596953,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111680,
-      "num": 111680,
-      "word": "笑果回应擅自演出被罚",
-      "onboard_time": 1686662309,
-      "rank": 47,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 109036,
@@ -2291,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82734,
+      "num": 490235,
+      "word": "余额宝上线第十年",
+      "onboard_time": 1686661230,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76486,
       "num": 81094,
       "word": "当我怒气冲冲地查完账单",
@@ -2347,14 +2403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49613,
-      "num": 490235,
-      "word": "余额宝上线第十年",
-      "onboard_time": 1686661230,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 49123,
       "num": 63377,
       "word": "新时代北京的精气神",
@@ -2387,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35292,
+      "num": 1135833,
+      "word": "当夏日美景遇上古诗词",
+      "onboard_time": 1686643707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26467,
       "num": 123811,
       "word": "南北方美食差异有多大",
@@ -2409,14 +2465,6 @@
       "onboard_time": 1686578490,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21824,
-      "num": 1135833,
-      "word": "当夏日美景遇上古诗词",
-      "onboard_time": 1686643707,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11407,

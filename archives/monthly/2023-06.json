@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686662409320,
+  "endTime": 1686663218668,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1971,6 +1971,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1504213,
+      "num": 1504213,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1500968,
       "num": 1500968,
       "word": "男职工3年不上班工资3千涨到7千",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1685790448,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1479221,
-      "num": 1479221,
-      "word": "猫的树好会拍",
-      "onboard_time": 1686657329,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1478298,
@@ -5203,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773048,
+      "num": 773048,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 770410,
       "num": 680162,
       "word": "别把医术拍成了法术",
@@ -6235,14 +6243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 620392,
-      "num": 620392,
-      "word": "梅西说不会参加下届世界杯",
-      "onboard_time": 1686659067,
-      "rank": 23,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 619931,
       "num": 619931,
       "word": "大半个娱乐圈都在江苏吧",
@@ -6971,6 +6971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 541018,
+      "num": 541018,
+      "word": "Jennie曾说自己像老奶奶一样浑身是病",
+      "onboard_time": 1686661468,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540548,
       "num": 540548,
       "word": "徐怀钰",
@@ -7529,6 +7537,14 @@
       "onboard_time": 1685717735,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487724,
+      "num": 487724,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 487524,
@@ -8947,14 +8963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396563,
-      "num": 396563,
-      "word": "中学回应疑地铁女子高中同学发声",
-      "onboard_time": 1686659008,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 396109,
       "num": 396109,
       "word": "迪奥",
@@ -9809,6 +9817,14 @@
       "onboard_time": 1686217717,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 358361,
+      "num": 358361,
+      "word": "梦海证婚椅",
+      "onboard_time": 1686662430,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 358246,
@@ -11025,14 +11041,6 @@
       "onboard_time": 1686143555,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319028,
-      "num": 319028,
-      "word": "Jennie曾说自己像老奶奶一样浑身是病",
-      "onboard_time": 1686661468,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 318718,
@@ -13995,6 +14003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257127,
+      "num": 257127,
+      "word": "肖春生佟晓梅疯狂上分",
+      "onboard_time": 1686662009,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257080,
       "num": 257080,
       "word": "王源我有一天来鸟巢",
@@ -15521,6 +15537,14 @@
       "onboard_time": 1685948367,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235946,
+      "num": 235946,
+      "word": "小S支持林志玲回归家庭",
+      "onboard_time": 1686661827,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 235896,
@@ -17883,14 +17907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207417,
-      "num": 207417,
-      "word": "小S支持林志玲回归家庭",
-      "onboard_time": 1686661827,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207317,
       "num": 207317,
       "word": "Jennie曼谷演唱会不划水",
@@ -18075,12 +18091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204914,
-      "num": 204914,
-      "word": "肖春生佟晓梅疯狂上分",
-      "onboard_time": 1686662009,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 204735,
+      "num": 204735,
+      "word": "笑果回应擅自演出被罚",
+      "onboard_time": 1686662309,
+      "rank": 47,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 204587,
@@ -18499,6 +18515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201203,
+      "num": 201203,
+      "word": "迪丽热巴龚俊将录制你好星期六",
+      "onboard_time": 1686663209,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201195,
       "num": 201195,
       "word": "肖战气氛组组长",
@@ -18617,6 +18641,14 @@
       "onboard_time": 1686620070,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 199881,
+      "num": 199881,
+      "word": "肖战摸狗被拒绝",
+      "onboard_time": 1686663209,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199797,
@@ -21747,6 +21779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170321,
+      "num": 170321,
+      "word": "年轻人不爱发朋友圈的原因",
+      "onboard_time": 1686661889,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170112,
       "num": 170112,
       "word": "赵丽颖躲藏有一手",
@@ -22483,6 +22523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 163014,
+      "num": 163014,
+      "word": "MBTI早晚要统治韩国",
+      "onboard_time": 1686663088,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162951,
       "num": 162951,
       "word": "薛之谦演唱会",
@@ -22881,6 +22929,14 @@
       "onboard_time": 1686151774,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158675,
+      "num": 158675,
+      "word": "梅西 很高兴来到中国",
+      "onboard_time": 1686662547,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 158670,
@@ -25131,6 +25187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132129,
+      "num": 132129,
+      "word": "地铁被要微信的大无语事件",
+      "onboard_time": 1686662787,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 132114,
       "num": 132114,
       "word": "考场一字之差交警狂飙送考手开到颤",
@@ -25889,14 +25953,6 @@
       "onboard_time": 1685872887,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121969,
-      "num": 121969,
-      "word": "年轻人不爱发朋友圈的原因",
-      "onboard_time": 1686661889,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 121928,
@@ -26713,14 +26769,6 @@
       "onboard_time": 1686534687,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111680,
-      "num": 111680,
-      "word": "笑果回应擅自演出被罚",
-      "onboard_time": 1686662309,
-      "rank": 47,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 111598,
@@ -28019,6 +28067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82734,
+      "num": 490235,
+      "word": "余额宝上线第十年",
+      "onboard_time": 1686661230,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82592,
       "num": 82592,
       "word": "高考文案",
@@ -29091,14 +29147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49613,
-      "num": 490235,
-      "word": "余额宝上线第十年",
-      "onboard_time": 1686661230,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 49474,
       "num": 1799737,
       "word": "全国网络普法行江西站",
@@ -29483,6 +29531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35292,
+      "num": 1135833,
+      "word": "当夏日美景遇上古诗词",
+      "onboard_time": 1686643707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34937,
       "num": 499444,
       "word": "杀手包",
@@ -29793,14 +29849,6 @@
       "onboard_time": 1686384028,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21824,
-      "num": 1135833,
-      "word": "当夏日美景遇上古诗词",
-      "onboard_time": 1686643707,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21565,
