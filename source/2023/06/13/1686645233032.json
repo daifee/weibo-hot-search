@@ -1,0 +1,410 @@
+{
+  "runTime": 1686645233032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1490249,
+        "num": 1490249,
+        "word": "刘鑫不服二审判决申请再审",
+        "onboard_time": 1686632673,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430851,
+        "num": 1430851,
+        "word": "赵露思好美",
+        "onboard_time": 1686640046,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67866,
+        "num": 1209735,
+        "word": "边防战士带着全家福巡逻",
+        "onboard_time": 1686643888,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031908,
+        "num": 1031908,
+        "word": "张柏芝 好能打的一张脸",
+        "onboard_time": 1686639746,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 946669,
+        "num": 946669,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 920940,
+        "num": 920940,
+        "word": "范丞丞 跑男真的没有剧本",
+        "onboard_time": 1686636330,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701003,
+        "num": 701003,
+        "word": "赵露思造型师换成闵塔鲨了",
+        "onboard_time": 1686642508,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629639,
+        "num": 629639,
+        "word": "疑似杭师大女生家属发声",
+        "onboard_time": 1686630213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528241,
+        "num": 528241,
+        "word": "任豪 人工呼吸怎么不算吻",
+        "onboard_time": 1686630573,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383106,
+        "num": 383106,
+        "word": "宝格丽",
+        "onboard_time": 1686639865,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 2498912,
+        "num": 370272,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 759552,
+        "num": 356438,
+        "word": "老师打伤学生道歉反被多位家长安慰",
+        "onboard_time": 1686629191,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 502798,
+        "num": 349722,
+        "word": "林心如首带女儿做公益",
+        "onboard_time": 1686640706,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468497,
+        "num": 339613,
+        "word": "王大治带妻女看房",
+        "onboard_time": 1686643408,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164746,
+        "num": 318517,
+        "word": "女生摔伤右手后苦练左手完成高考",
+        "onboard_time": 1686643228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438362,
+        "num": 310566,
+        "word": "边伯贤截掉SMTOWN的logo",
+        "onboard_time": 1686630272,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417725,
+        "num": 298904,
+        "word": "孟子义没考上军艺的原因",
+        "onboard_time": 1686633688,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287842,
+        "num": 287842,
+        "word": "陈晓又更文了",
+        "onboard_time": 1686623907,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275633,
+        "num": 275633,
+        "word": "后来呢 我们分开了",
+        "onboard_time": 1686636986,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267995,
+        "num": 267995,
+        "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+        "onboard_time": 1686621509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318740,
+        "num": 266575,
+        "word": "迪丽热巴打羽毛球",
+        "onboard_time": 1686642087,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297452,
+        "num": 264274,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285399,
+        "num": 262597,
+        "word": "刘令姿 东方小兰花",
+        "onboard_time": 1686644307,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241143,
+        "num": 261061,
+        "word": "起床时千万不要立刻叠被子",
+        "onboard_time": 1686615268,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215008,
+        "num": 259146,
+        "word": "监控记录了我来姨妈的瞬间",
+        "onboard_time": 1686615808,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279321,
+        "num": 255624,
+        "word": "台偶收视率前二十",
+        "onboard_time": 1686639446,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255046,
+        "num": 255046,
+        "word": "成毅郑业成英雄志片花",
+        "onboard_time": 1686644008,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254981,
+        "num": 254981,
+        "word": "蔡徐坤多巴胺穿搭",
+        "onboard_time": 1686644969,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 240040,
+        "num": 240040,
+        "word": "沈月初一身高1米33",
+        "onboard_time": 1686637286,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201755,
+        "num": 201755,
+        "word": "房东回应女孩结婚退租时打扫干净房子",
+        "onboard_time": 1686644188,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216769,
+        "num": 200245,
+        "word": "夜神月和L的cp名",
+        "onboard_time": 1686644489,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206245,
+        "num": 198700,
+        "word": "SMTOWN没有给EXO划分制作中心",
+        "onboard_time": 1686641909,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205973,
+        "num": 196428,
+        "word": "沙溢好像是参加了爸爸去哪儿",
+        "onboard_time": 1686629912,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191520,
+        "num": 191520,
+        "word": "杨幂的特长是美",
+        "onboard_time": 1686636387,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166679,
+        "num": 166679,
+        "word": "成都地铁男子偷拍女生后当面删掉",
+        "onboard_time": 1686618690,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172242,
+        "num": 165288,
+        "word": "花戎产子",
+        "onboard_time": 1686641487,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160769,
+        "num": 160769,
+        "word": "建议夏天上班别背双肩包",
+        "onboard_time": 1686644609,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157542,
+        "num": 157542,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148614,
+        "num": 148614,
+        "word": "更适合中国宝宝方便面的吃法",
+        "onboard_time": 1686644848,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146644,
+        "num": 146644,
+        "word": "义乌市教育局通报小学老师体罚学生",
+        "onboard_time": 1686637826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809780,
+        "num": 145942,
+        "word": "川大女生疑被腾讯解除实习合同",
+        "onboard_time": 1686624928,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169419,
+        "num": 144172,
+        "word": "Jennie演唱会中途离场",
+        "onboard_time": 1686623486,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 142027,
+        "word": "杨迪被认成狂飙里的麻子",
+        "onboard_time": 1686638606,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148084,
+        "num": 139033,
+        "word": "刘浩存任敏高中时期自拍照",
+        "onboard_time": 1686644908,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138845,
+        "num": 138845,
+        "word": "三子深夜大战不孕不育榴莲",
+        "onboard_time": 1686584788,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "我被投稿了",
+        "onboard_time": 1686643348,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135809,
+        "num": 135809,
+        "word": "是晒出纹身不是晒出纹身",
+        "onboard_time": 1686638667,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135196,
+        "num": 135196,
+        "word": "王鹤棣泰国录制去了20多个站姐",
+        "onboard_time": 1686631354,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127767,
+        "num": 127767,
+        "word": "在广东买虾还没到家就熟了",
+        "onboard_time": 1686630573,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114266,
+        "num": 114266,
+        "word": "范丞丞你小子勾引谁",
+        "onboard_time": 1686645206,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    }
+  }
+}

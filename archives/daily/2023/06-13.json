@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686644470146,
+  "endTime": 1686645233032,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2222414,
+      "raw_hot": 2498912,
       "num": 817538,
       "word": "疑地铁事件女子同学称被其校园霸凌",
       "onboard_time": 1686639387,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701003,
+      "num": 701003,
+      "word": "赵露思造型师换成闵塔鲨了",
+      "onboard_time": 1686642508,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641372,
       "num": 423197,
       "word": "全麻手术醒后可以有多社死",
@@ -363,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502798,
+      "num": 349722,
+      "word": "林心如首带女儿做公益",
+      "onboard_time": 1686640706,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498848,
       "num": 498848,
       "word": "奔跑吧泰国站最惊艳的人",
       "onboard_time": 1686618151,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490698,
-      "num": 366906,
-      "word": "赵露思造型师换成闵塔鲨了",
-      "onboard_time": 1686642508,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 483295,
@@ -401,6 +409,14 @@
       "onboard_time": 1686616892,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468497,
+      "num": 339613,
+      "word": "王大治带妻女看房",
+      "onboard_time": 1686643408,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 466613,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 349790,
-      "num": 239818,
+      "num": 266575,
       "word": "迪丽热巴打羽毛球",
       "onboard_time": 1686642087,
       "rank": 20,
@@ -539,28 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325173,
-      "num": 325173,
-      "word": "王大治带妻女看房",
-      "onboard_time": 1686643408,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324651,
       "num": 324651,
       "word": "掘金主场球迷大骂裁判",
       "onboard_time": 1686625468,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323282,
-      "num": 323282,
-      "word": "林心如首带女儿做公益",
-      "onboard_time": 1686640706,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 316496,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285399,
+      "num": 262597,
+      "word": "刘令姿 东方小兰花",
+      "onboard_time": 1686644307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282235,
       "num": 282235,
       "word": "王鹤棣泰国录制去了20多个站姐",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 282160,
-      "num": 235679,
+      "num": 255624,
       "word": "台偶收视率前二十",
       "onboard_time": 1686639446,
       "rank": 33,
@@ -705,6 +713,22 @@
       "onboard_time": 1686622049,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255046,
+      "num": 255046,
+      "word": "成毅郑业成英雄志片花",
+      "onboard_time": 1686644008,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254981,
+      "num": 254981,
+      "word": "蔡徐坤多巴胺穿搭",
+      "onboard_time": 1686644969,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 254237,
@@ -859,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216769,
+      "num": 200245,
+      "word": "夜神月和L的cp名",
+      "onboard_time": 1686644489,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210434,
       "num": 210434,
       "word": "教体局回应校长与女教师发生肢体冲突",
@@ -929,6 +961,14 @@
       "onboard_time": 1686640406,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201755,
+      "num": 201755,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201507,
@@ -1035,16 +1075,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 188437,
-      "num": 159240,
-      "word": "成毅郑业成英雄志片花",
-      "onboard_time": 1686644008,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188367,
-      "num": 159169,
+      "num": 165288,
       "word": "花戎产子",
       "onboard_time": 1686641487,
       "rank": 48,
@@ -1163,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164746,
+      "num": 343526,
+      "word": "女生摔伤右手后苦练左手完成高考",
+      "onboard_time": 1686643228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164714,
       "num": 164714,
       "word": "宁艺卓到达青岛说我来啦",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1686622829,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160769,
+      "num": 160769,
+      "word": "建议夏天上班别背双肩包",
+      "onboard_time": 1686644609,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 159691,
@@ -1267,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148614,
+      "num": 148614,
+      "word": "更适合中国宝宝方便面的吃法",
+      "onboard_time": 1686644848,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148602,
       "num": 148602,
       "word": "谈谈川大女生的小作文",
@@ -1299,12 +1355,12 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 145269,
-      "num": 124015,
-      "word": "刘令姿 东方小兰花",
-      "onboard_time": 1686644307,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 148084,
+      "num": 139033,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 144865,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1686562527,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140838,
-      "num": 140838,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140676,
@@ -1499,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114266,
+      "num": 114266,
+      "word": "范丞丞你小子勾引谁",
+      "onboard_time": 1686645206,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114228,
       "num": 114228,
       "word": "这就是理科生的浪漫啊",
@@ -1520,14 +1576,6 @@
       "word": "曝光大叔女子道歉后舆论为何未平息",
       "onboard_time": 1686596953,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109514,
-      "num": 343526,
-      "word": "女生摔伤右手后苦练左手完成高考",
-      "onboard_time": 1686643228,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67866,
+      "num": 1209735,
+      "word": "边防战士带着全家福巡逻",
+      "onboard_time": 1686643888,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67042,
       "num": 67042,
       "word": "教资面试",
@@ -1720,14 +1776,6 @@
       "word": "老师为百名中考学生绘插图寄语告别",
       "onboard_time": 1686632432,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41488,
-      "num": 1069160,
-      "word": "边防战士带着全家福巡逻",
-      "onboard_time": 1686643888,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
