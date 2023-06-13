@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 23:16:57
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 23:34:03
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
+天津河东区一小区发生爆炸（热度：1009956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9B%E5%85%AC%20%E6%B2%A1%E6%8B%89%E7%A5%A8%23" target="weibo">
 谢娜四公 没拉票（热度：1007209）
 </a>
@@ -3999,6 +4005,12 @@ EXO团综（热度：791845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%E9%A6%96%E5%8F%91%E5%AF%B9%E6%88%98iG%23" target="weibo">
+Uzi首发对战iG（热度：759138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%85%AC%E5%8F%B8%E7%BA%AA%E5%A7%94%E6%A0%B8%E6%9F%A5%23" target="weibo">
 胡继勇正接受公司纪委核查（热度：758629）
 </a>
@@ -4187,6 +4199,12 @@ B太 我可能又被众筹了（热度：722149）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AB%E4%B8%AB%E6%9C%89%E4%B8%80%E5%BC%A0%E5%BE%AE%E7%AC%91%E8%84%B8%23" target="weibo">
 原来丫丫有一张微笑脸（热度：720202）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
+Jennie回应演唱会中途离场（热度：720111）
 </a>
 </li>
 
@@ -4491,12 +4509,6 @@ Lisa脚趾头（热度：679829）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
-Jennie回应演唱会中途离场（热度：666465）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80%23" target="weibo">
 幼儿园摆20桌请200孩子吃席庆六一（热度：666332）
 </a>
@@ -4541,6 +4553,12 @@ Jennie小松菜奈热聊（热度：659490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E5%B8%88%E5%88%A0%E5%8D%9A%23" target="weibo">
 杨紫化妆师删博（热度：655398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%95%E8%BD%A6%E5%92%8C%E4%B8%8D%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E9%97%BB%E5%88%B0%E7%9A%84%E6%B0%94%E5%91%B3%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
+晕车和不晕车的人闻到的气味不一样（热度：654923）
 </a>
 </li>
 
@@ -5063,18 +5081,6 @@ EXO先行曲MV（热度：567018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%9B%BE%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%83%8F%E8%80%81%E5%A5%B6%E5%A5%B6%E4%B8%80%E6%A0%B7%E6%B5%91%E8%BA%AB%E6%98%AF%E7%97%85%23" target="weibo">
 Jennie曾说自己像老奶奶一样浑身是病（热度：562941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%95%E8%BD%A6%E5%92%8C%E4%B8%8D%E6%99%95%E8%BD%A6%E7%9A%84%E4%BA%BA%E9%97%BB%E5%88%B0%E7%9A%84%E6%B0%94%E5%91%B3%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
-晕车和不晕车的人闻到的气味不一样（热度：562846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
-天津河东区一小区发生爆炸（热度：562788）
 </a>
 </li>
 
@@ -5937,6 +5943,12 @@ TES对战EDG（热度：481326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BA%8A%E5%92%9A%E5%88%A0%E5%87%8F%E5%89%A7%E6%83%85%23" target="weibo">
+陈伟霆床咚删减剧情（热度：467754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%92%8C%E5%A5%BD%E9%97%BA%E8%9C%9C%E7%9D%A1%E4%B8%80%E5%BC%A0%E5%BA%8A%23" target="weibo">
 千万别和好闺蜜睡一张床（热度：466731）
 </a>
@@ -5951,6 +5963,12 @@ TES对战EDG（热度：481326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%88%B6%E6%AF%8D%E8%B0%8E%E6%8A%A5%E4%BB%B7%E6%A0%BC%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E4%B8%80%E6%AC%A1%23" target="weibo">
 对父母谎报价格最离谱的一次（热度：465748）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%B5%B7%E7%BB%99%E6%88%91%E8%B0%83%E5%88%B0%E7%AC%AC20%E9%9B%8632%E5%88%8617%E7%A7%92%23" target="weibo">
+梦海给我调到第20集32分17秒（热度：465242）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TES对战EDG（热度：481326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2363%E5%B2%81%E4%BF%9D%E5%A7%86%E4%B8%8A%E5%B2%971%E5%B0%8F%E6%97%B6%E7%83%A7%E7%84%A6%E9%9B%87%E4%B8%BB%E5%AE%B6%E6%B0%B4%E5%A3%B6%23" target="weibo">
 63岁保姆上岗1小时烧焦雇主家水壶（热度：461349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
-李宇春 抢票（热度：460478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%B1%E5%B0%8F%E6%9C%8B%E5%8F%8B%23" target="weibo">
-肖战抱小朋友（热度：459316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
-白桃星座（热度：459208）
 </a>
 </li>
 
@@ -6305,6 +6305,12 @@ TES对战EDG（热度：481326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23%23" target="weibo">
 #中国和洪都拉斯联合声明#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%84%BF%E4%B8%AD%E6%B4%AA%E5%85%B3%E7%B3%BB%E4%B8%8D%E6%96%AD%E6%8F%90%E8%B4%A8%E5%8D%87%E7%BA%A7%E5%BC%80%E6%96%B0%E5%B1%80%23%23" target="weibo">
+#愿中洪关系不断提质升级开新局#
 </a>
 </li>
 

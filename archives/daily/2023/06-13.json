@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686669417560,
+  "endTime": 1686670443195,
   "band_list": [
     {
       "raw_hot": 3250485,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009956,
+      "num": 1009956,
+      "word": "天津河东区一小区发生爆炸",
+      "onboard_time": 1686668852,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003756,
       "num": 1003756,
       "word": "312斤女网红在减肥营离世年仅21岁",
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 759138,
+      "num": 759138,
+      "word": "Uzi首发对战iG",
+      "onboard_time": 1686669329,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 752809,
       "num": 752809,
       "word": "60岁阿姨健身22年后的样子",
@@ -441,6 +457,14 @@
       "onboard_time": 1686554369,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 720111,
+      "num": 720111,
+      "word": "Jennie回应演唱会中途离场",
+      "onboard_time": 1686665488,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 718134,
@@ -467,12 +491,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 666465,
-      "num": 666465,
-      "word": "Jennie回应演唱会中途离场",
-      "onboard_time": 1686665488,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 654923,
+      "num": 654923,
+      "word": "晕车和不晕车的人闻到的气味不一样",
+      "onboard_time": 1686666270,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 641372,
@@ -537,22 +561,6 @@
       "onboard_time": 1686661468,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 562846,
-      "num": 562846,
-      "word": "晕车和不晕车的人闻到的气味不一样",
-      "onboard_time": 1686666270,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 562788,
-      "num": 562788,
-      "word": "天津河东区一小区发生爆炸",
-      "onboard_time": 1686668852,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560537,
@@ -627,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467754,
+      "num": 467754,
+      "word": "陈伟霆床咚删减剧情",
+      "onboard_time": 1686668370,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466613,
       "num": 466613,
       "word": "陈绮贞回应钟成虎",
@@ -643,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 465242,
+      "num": 465242,
+      "word": "梦海给我调到第20集32分17秒",
+      "onboard_time": 1686667411,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451496,
       "num": 451496,
       "word": "当蚊子吸了一口淤血",
@@ -657,14 +681,6 @@
       "onboard_time": 1686637286,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434209,
-      "num": 434209,
-      "word": "梦海给我调到第20集32分17秒",
-      "onboard_time": 1686667411,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 405989,
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357272,
+      "num": 357272,
+      "word": "权志龙又买房了",
+      "onboard_time": 1686669449,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -801,6 +825,14 @@
       "onboard_time": 1686661286,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 333197,
+      "num": 333197,
+      "word": "肖春生洞房还穿打底",
+      "onboard_time": 1686668852,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 331249,
@@ -931,6 +963,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 277646,
+      "num": 277646,
+      "word": "谈恋爱一定要找会沟通的",
+      "onboard_time": 1686667713,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 276696,
       "num": 276696,
       "word": "中国女排世联赛5连胜",
@@ -985,14 +1025,6 @@
       "onboard_time": 1686627990,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 268891,
-      "num": 268891,
-      "word": "陈伟霆床咚删减剧情",
-      "onboard_time": 1686668370,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 267230,
@@ -1195,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238748,
-      "num": 238748,
-      "word": "谈恋爱一定要找会沟通的",
-      "onboard_time": 1686667713,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 237756,
       "num": 237756,
       "word": "丧失了喜欢一个人的能力",
@@ -1251,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230115,
-      "num": 230115,
-      "word": "肖春生洞房还穿打底",
-      "onboard_time": 1686668852,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229545,
       "num": 229545,
       "word": "原来真有人叫白雪公主",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1686631113,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228012,
-      "num": 228012,
-      "word": "Uzi首发对战iG",
-      "onboard_time": 1686669329,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 227959,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1686641909,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221619,
+      "num": 221619,
+      "word": "王鹤棣田曦薇 大奉打更人",
+      "onboard_time": 1686670050,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 218906,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1686618510,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210422,
+      "num": 210422,
+      "word": "反驳型人格",
+      "onboard_time": 1686669329,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 210104,
@@ -1611,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189889,
+      "num": 189889,
+      "word": "赵露思综艺",
+      "onboard_time": 1686665911,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189577,
       "num": 189577,
       "word": "博士毕业论文900字致谢母亲",
@@ -1659,12 +1691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187916,
-      "num": 187916,
-      "word": "反驳型人格",
-      "onboard_time": 1686669329,
-      "rank": 41,
-      "category": "情感,幽默"
+      "raw_hot": 187330,
+      "num": 187330,
+      "word": "嵩山音乐节",
+      "onboard_time": 1686669690,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 186790,
@@ -1731,20 +1763,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180346,
+      "num": 180346,
+      "word": "玉骨遥",
+      "onboard_time": 1686670170,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179081,
       "num": 179081,
       "word": "任贤齐长沙演唱会",
       "onboard_time": 1686648392,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178519,
-      "num": 178519,
-      "word": "赵露思综艺",
-      "onboard_time": 1686665911,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 178108,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1686544298,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176984,
+      "num": 176984,
+      "word": "一个问号的威力",
+      "onboard_time": 1686669931,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 175592,
@@ -2204,7 +2244,7 @@
     },
     {
       "raw_hot": 134994,
-      "num": 134994,
+      "num": 833332,
       "word": "20余省已公布高考查分时间",
       "onboard_time": 1686619168,
       "rank": 42,
@@ -2579,6 +2619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72318,
+      "num": 468911,
+      "word": "孙怡陈都灵孙千刘令姿冷感大片",
+      "onboard_time": 1686668432,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67042,
       "num": 67042,
       "word": "教资面试",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1686567329,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58280,
-      "num": 461650,
-      "word": "孙怡陈都灵孙千刘令姿冷感大片",
-      "onboard_time": 1686668432,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 55945,
@@ -2707,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13894,
+      "num": 169330,
+      "word": "蓝天碧水间官兵巡逻画面美如画",
+      "onboard_time": 1686669870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11407,
       "num": 1388343,
       "word": "全国网络普法行江西站",
@@ -2730,6 +2778,9 @@
     },
     {
       "word": "#中国和洪都拉斯联合声明#"
+    },
+    {
+      "word": "#愿中洪关系不断提质升级开新局#"
     }
   ]
 }
