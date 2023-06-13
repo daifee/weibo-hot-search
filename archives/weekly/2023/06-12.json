@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686630041027,
+  "endTime": 1686630835174,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -27,6 +27,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3205943,
+      "num": 597121,
+      "word": "川大女生疑被腾讯解除实习合同",
+      "onboard_time": 1686624928,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 3150204,
       "num": 3150204,
       "word": "三子深夜大战不孕不育榴莲",
@@ -41,14 +49,6 @@
       "onboard_time": 1686576091,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2683867,
-      "num": 597121,
-      "word": "川大女生疑被腾讯解除实习合同",
-      "onboard_time": 1686624928,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2677410,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1445483,
+      "num": 1445483,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1426174,
       "num": 1426174,
       "word": "张雨绮致歉",
@@ -281,14 +289,6 @@
       "onboard_time": 1686541533,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1284226,
-      "num": 1284226,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 1237328,
@@ -505,6 +505,14 @@
       "onboard_time": 1686557250,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822660,
+      "num": 822660,
+      "word": "沙溢好像是参加了爸爸去哪儿",
+      "onboard_time": 1686629912,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 817302,
@@ -803,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466613,
+      "num": 466613,
+      "word": "陈绮贞回应钟成虎",
+      "onboard_time": 1686628412,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465748,
       "num": 354727,
       "word": "对父母谎报价格最离谱的一次",
@@ -832,14 +848,6 @@
       "word": "LESSERAFIM将来广州开线下签售会",
       "onboard_time": 1686560249,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 442623,
-      "num": 442623,
-      "word": "陈绮贞回应钟成虎",
-      "onboard_time": 1686628412,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -995,6 +1003,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 353334,
+      "num": 353334,
+      "word": "边伯贤截掉SMTOWN的logo",
+      "onboard_time": 1686630272,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350792,
       "num": 350792,
       "word": "RNG sin",
@@ -1139,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312064,
+      "num": 312064,
+      "word": "疑似杭师大女生家属发声",
+      "onboard_time": 1686630213,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309616,
       "num": 309616,
       "word": "小鬼直播",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1686556891,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302882,
+      "num": 302882,
+      "word": "任豪 人工呼吸怎么不算吻",
+      "onboard_time": 1686630573,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 302652,
@@ -1427,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250689,
+      "num": 250689,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 250179,
       "num": 250179,
       "word": "蒋依依希望尽快和平解约",
@@ -1579,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230084,
+      "num": 230084,
+      "word": "老师打伤学生道歉反被多位家长安慰",
+      "onboard_time": 1686629191,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 229545,
       "num": 229545,
       "word": "原来真有人叫白雪公主",
@@ -1595,12 +1643,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 226740,
-      "num": 226740,
-      "word": "不仅每天要看见我还要继续给我发工资",
-      "onboard_time": 1686623788,
-      "rank": 43,
-      "category": "社会新闻,幽默"
+      "raw_hot": 228082,
+      "num": 228082,
+      "word": "穆雷哭了",
+      "onboard_time": 1686629971,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 225857,
@@ -1643,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221507,
+      "num": 221507,
+      "word": "韩国的恋爱都是谁在谈呢",
+      "onboard_time": 1686630150,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "YG辟谣Jennie加入漫威",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1686525983,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218919,
+      "num": 218919,
+      "word": "在广东买虾还没到家就熟了",
+      "onboard_time": 1686630573,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 218271,
@@ -1747,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211899,
-      "num": 211899,
-      "word": "沙溢好像是参加了爸爸去哪儿",
-      "onboard_time": 1686629912,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211233,
       "num": 211233,
       "word": "王一博GT3赛车初体验",
@@ -1827,14 +1883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207474,
-      "num": 207474,
-      "word": "穆雷哭了",
-      "onboard_time": 1686629971,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204199,
       "num": 204199,
       "word": "TMEA音乐节",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1686573030,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203477,
+      "num": 203477,
+      "word": "开心吧麻花官宣定档",
+      "onboard_time": 1686630272,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 203380,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194064,
+      "num": 194064,
+      "word": "山崎贤人怎么变这样了",
+      "onboard_time": 1686630692,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 193006,
@@ -2211,6 +2275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183781,
+      "num": 514559,
+      "word": "小鸟翩若惊鸿三连跳仙气飘飘",
+      "onboard_time": 1686628831,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181985,
       "num": 181985,
       "word": "一巴掌下去眼神都清澈了",
@@ -2371,6 +2443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164714,
+      "num": 164714,
+      "word": "宁艺卓到达青岛说我来啦",
+      "onboard_time": 1686630092,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163648,
       "num": 163648,
       "word": "肖春生在自己不知道的时候已爱上佟晓梅",
@@ -2443,14 +2523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155749,
-      "num": 482005,
-      "word": "小鸟翩若惊鸿三连跳仙气飘飘",
-      "onboard_time": 1686628831,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "李健现场",
@@ -2481,14 +2553,6 @@
       "onboard_time": 1686544716,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152687,
-      "num": 152687,
-      "word": "老师打伤学生道歉反被多位家长安慰",
-      "onboard_time": 1686629191,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152666,
@@ -3051,6 +3115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107767,
+      "num": 252855,
+      "word": "小伙托起落水男孩自己却没能上岸",
+      "onboard_time": 1686630452,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 105679,
       "num": 105679,
       "word": "亲密关系最重要的是平衡点",
@@ -3437,6 +3509,9 @@
     },
     {
       "word": "#习近平同洪都拉斯总统卡斯特罗举行会谈#"
+    },
+    {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
     }
   ]
 }
