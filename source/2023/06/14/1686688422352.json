@@ -1,0 +1,410 @@
+{
+  "runTime": 1686688422352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 114877,
+        "num": 114877,
+        "word": "Jennie回应演唱会中途离场",
+        "onboard_time": 1686665488,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97648,
+        "num": 97648,
+        "word": "王鹤棣田曦薇 大奉打更人",
+        "onboard_time": 1686670050,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2016,
+        "num": 71378,
+        "word": "20余省已公布高考查分时间",
+        "onboard_time": 1686619168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63597,
+        "num": 63597,
+        "word": "梦是一种心理上的转码过程",
+        "onboard_time": 1686671725,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 53682,
+        "num": 53682,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47546,
+        "num": 47546,
+        "word": "权志龙又买房了",
+        "onboard_time": 1686669449,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46220,
+        "num": 46220,
+        "word": "笑果旗下公司擅自演出被罚",
+        "onboard_time": 1686656547,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 36758,
+        "num": 36758,
+        "word": "312斤女网红在减肥营离世年仅21岁",
+        "onboard_time": 1686650368,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36280,
+        "num": 36280,
+        "word": "梦海给我调到第20集32分17秒",
+        "onboard_time": 1686667411,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35200,
+        "num": 35200,
+        "word": "Uzi首发对战iG",
+        "onboard_time": 1686669329,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 35194,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 66791,
+        "num": 34995,
+        "word": "天津河东区一小区发生爆炸",
+        "onboard_time": 1686668852,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32761,
+        "num": 32761,
+        "word": "猫的树好会拍",
+        "onboard_time": 1686657329,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38240,
+        "num": 32696,
+        "word": "杭师大涉事男生发声",
+        "onboard_time": 1686649407,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32331,
+        "num": 32331,
+        "word": "万新村",
+        "onboard_time": 1686665128,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30757,
+        "num": 30757,
+        "word": "晕车和不晕车的人闻到的气味不一样",
+        "onboard_time": 1686666270,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37412,
+        "num": 30679,
+        "word": "中学回应疑地铁女子高中同学发声",
+        "onboard_time": 1686659008,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 30325,
+        "num": 30325,
+        "word": "刘亦菲 不在乎别人的想法",
+        "onboard_time": 1686663987,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29733,
+        "num": 29733,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29722,
+        "num": 29722,
+        "word": "肖战摸狗被拒绝",
+        "onboard_time": 1686663209,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34955,
+        "num": 29712,
+        "word": "地铁被要微信的大无语事件",
+        "onboard_time": 1686662787,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 29441,
+        "num": 29441,
+        "word": "陈伟霆床咚删减剧情",
+        "onboard_time": 1686668370,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29379,
+        "num": 29379,
+        "word": "Jennie曾说自己像老奶奶一样浑身是病",
+        "onboard_time": 1686661468,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27688,
+        "num": 27688,
+        "word": "年轻人不爱发朋友圈的原因",
+        "onboard_time": 1686661889,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26007,
+        "num": 26007,
+        "word": "肖春生洞房还穿打底",
+        "onboard_time": 1686668852,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24635,
+        "num": 24635,
+        "word": "和爸爸骑游中国的白血病男孩离世",
+        "onboard_time": 1686657267,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23714,
+        "num": 23714,
+        "word": "反驳型人格",
+        "onboard_time": 1686669329,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 23613,
+        "num": 23613,
+        "word": "两只旅俄大熊猫体重和人气齐升",
+        "onboard_time": 1686675322,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21895,
+        "num": 21895,
+        "word": "沈梦辰 我的故事刚翻到第34页",
+        "onboard_time": 1686677836,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19540,
+        "num": 21891,
+        "word": "男子杀害妻子及妻弟媳",
+        "onboard_time": 1686655947,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19459,
+        "num": 21884,
+        "word": "小S支持林志玲回归家庭",
+        "onboard_time": 1686661827,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18916,
+        "num": 21872,
+        "word": "谈恋爱一定要找会沟通的",
+        "onboard_time": 1686667713,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 17866,
+        "num": 21871,
+        "word": "高中文化程度短时间掌握了大学课程",
+        "onboard_time": 1686672687,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17576,
+        "num": 21861,
+        "word": "玉骨遥",
+        "onboard_time": 1686670170,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16941,
+        "num": 21852,
+        "word": "詹雯婷控告陈建宁反遭起诉",
+        "onboard_time": 1686648629,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16458,
+        "num": 21842,
+        "word": "周翊然少年感",
+        "onboard_time": 1686668010,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15498,
+        "num": 21836,
+        "word": "梅西说不会参加下届世界杯",
+        "onboard_time": 1686659067,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 15355,
+        "num": 21830,
+        "word": "NIP对战OMG",
+        "onboard_time": 1686676399,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14881,
+        "num": 21819,
+        "word": "刘浩存任敏高中时期自拍照",
+        "onboard_time": 1686644908,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14063,
+        "num": 21814,
+        "word": "大学生的期末精神状态",
+        "onboard_time": 1686681612,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13786,
+        "num": 21809,
+        "word": "英雄联盟排队",
+        "onboard_time": 1686666027,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13700,
+        "num": 21795,
+        "word": "老A到底是谁",
+        "onboard_time": 1686666451,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13507,
+        "num": 21793,
+        "word": "有刘海的周也",
+        "onboard_time": 1686657630,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13057,
+        "num": 21782,
+        "word": "李耕耘 虽糙但帅",
+        "onboard_time": 1686670708,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13036,
+        "num": 21772,
+        "word": "赵露思综艺",
+        "onboard_time": 1686665911,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12966,
+        "num": 21769,
+        "word": "孙茜好适合红色",
+        "onboard_time": 1686686832,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12726,
+        "num": 21759,
+        "word": "嵩山音乐节",
+        "onboard_time": 1686669690,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12333,
+        "num": 21754,
+        "word": "赵露思造型师换成闵塔鲨了",
+        "onboard_time": 1686642508,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12087,
+        "num": 21741,
+        "word": "王传君 INFP",
+        "onboard_time": 1686648449,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12024,
+        "num": 21735,
+        "word": "迪丽热巴龚俊将录制你好星期六",
+        "onboard_time": 1686663209,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#愿中洪关系不断提质升级开新局#"
+    }
+  }
+}
