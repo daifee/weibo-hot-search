@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686656013515,
+  "endTime": 1686659651100,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1918040,
+      "num": 1918040,
+      "word": "性化幼女的童装不叫穿衣自由",
+      "onboard_time": 1686657027,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1819415,
       "num": 1819415,
       "word": "现代人已经不吃鸡汤了",
@@ -81,6 +89,14 @@
       "onboard_time": 1686632673,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1606487,
+      "num": 1606487,
+      "word": "笑果旗下公司擅自演出被罚",
+      "onboard_time": 1686656547,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1566687,
@@ -265,6 +281,14 @@
       "onboard_time": 1686649948,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1009410,
+      "num": 1009410,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1003756,
@@ -579,6 +603,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 389182,
+      "num": 253453,
+      "word": "男子杀害妻子及妻弟媳",
+      "onboard_time": 1686655947,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384218,
+      "num": 384218,
+      "word": "清潭国际高中",
+      "onboard_time": 1686657568,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
@@ -785,6 +825,22 @@
       "onboard_time": 1686646826,
       "rank": 22,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 267206,
+      "num": 267206,
+      "word": "教资面试成绩",
+      "onboard_time": 1686654207,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 266269,
+      "num": 266269,
+      "word": "有刘海的周也",
+      "onboard_time": 1686657630,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 262906,
@@ -1123,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202747,
+      "num": 202747,
+      "word": "NewJeans换妆造了",
+      "onboard_time": 1686658046,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201867,
       "num": 201867,
       "word": "当我飞奔向你",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1686620070,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 199977,
+      "num": 199977,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 199773,
@@ -1195,12 +1267,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197212,
+      "num": 197212,
+      "word": "和爸爸骑游中国的白血病男孩离世",
+      "onboard_time": 1686657267,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196553,
+      "num": 196553,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 196545,
       "num": 196545,
       "word": "警方回应男子地铁上被俩女子怀疑偷拍",
       "onboard_time": 1686631891,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195380,
+      "num": 195380,
+      "word": "肖春生尽力了",
+      "onboard_time": 1686657748,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 194465,
@@ -1211,20 +1307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194242,
-      "num": 194242,
-      "word": "教资面试成绩",
-      "onboard_time": 1686654207,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 194064,
       "num": 194064,
       "word": "山崎贤人怎么变这样了",
       "onboard_time": 1686630692,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193716,
+      "num": 160979,
+      "word": "宠物店后台的登记表太好笑了",
+      "onboard_time": 1686657748,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 193199,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1686631474,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 168072,
+      "num": 168072,
+      "word": "没想到配上字幕这么好笑",
+      "onboard_time": 1686658288,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 167204,
@@ -1619,6 +1723,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 146596,
+      "num": 146596,
+      "word": "诸葛亮新皮肤动画",
+      "onboard_time": 1686656547,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "看完这42S练成微笑唇",
@@ -1769,6 +1881,14 @@
       "onboard_time": 1686569908,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130329,
+      "num": 130329,
+      "word": "肖战家人对梦中的那片海的评价",
+      "onboard_time": 1686656846,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 129337,
@@ -1979,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101875,
-      "num": 101875,
-      "word": "男子杀害妻子及妻弟媳",
-      "onboard_time": 1686655947,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101327,
       "num": 101327,
       "word": "你会给朋友发蚊子吗",
@@ -2001,6 +2113,14 @@
       "onboard_time": 1686554309,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99929,
+      "num": 99929,
+      "word": "梦中的那片海小惠被家暴",
+      "onboard_time": 1686657805,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 97789,
@@ -2027,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 92532,
+      "num": 92532,
+      "word": "10后女孩吵架开始拼妹",
+      "onboard_time": 1686658827,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91017,
       "num": 479641,
       "word": "掘金冲击队史第一冠",
@@ -2036,7 +2164,7 @@
     },
     {
       "raw_hot": 86132,
-      "num": 1209735,
+      "num": 1426991,
       "word": "边防战士带着全家福巡逻",
       "onboard_time": 1686643888,
       "rank": 2,
@@ -2065,6 +2193,14 @@
       "onboard_time": 1686586708,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74206,
+      "num": 364582,
+      "word": "好消息学位服上新坏消息我毕业了",
+      "onboard_time": 1686658527,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67042,
@@ -2145,6 +2281,14 @@
       "onboard_time": 1686591555,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25898,
+      "num": 123811,
+      "word": "南北方美食差异有多大",
+      "onboard_time": 1686659248,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25810,

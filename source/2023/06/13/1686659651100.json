@@ -1,0 +1,410 @@
+{
+  "runTime": 1686659651100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1918040,
+        "num": 1918040,
+        "word": "性化幼女的童装不叫穿衣自由",
+        "onboard_time": 1686657027,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606487,
+        "num": 1606487,
+        "word": "笑果旗下公司擅自演出被罚",
+        "onboard_time": 1686656547,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 38112,
+        "num": 1426991,
+        "word": "边防战士带着全家福巡逻",
+        "onboard_time": 1686643888,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308003,
+        "num": 1308003,
+        "word": "房东回应女孩结婚退租时打扫干净房子",
+        "onboard_time": 1686644188,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009410,
+        "num": 1009410,
+        "word": "猫的树好会拍",
+        "onboard_time": 1686657329,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 817252,
+        "num": 817252,
+        "word": "杭师大涉事男生发声",
+        "onboard_time": 1686649407,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774693,
+        "num": 774693,
+        "word": "王传君 INFP",
+        "onboard_time": 1686648449,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 760804,
+        "num": 760804,
+        "word": "312斤女网红在减肥营离世年仅21岁",
+        "onboard_time": 1686650368,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743466,
+        "num": 743466,
+        "word": "詹雯婷控告陈建宁反遭起诉",
+        "onboard_time": 1686648629,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545773,
+        "num": 545773,
+        "word": "赵露思造型师换成闵塔鲨了",
+        "onboard_time": 1686642508,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774861,
+        "num": 540222,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 514903,
+        "num": 514903,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438490,
+        "num": 438490,
+        "word": "张柏芝 好能打的一张脸",
+        "onboard_time": 1686639746,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 384218,
+        "num": 384218,
+        "word": "清潭国际高中",
+        "onboard_time": 1686657568,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74206,
+        "num": 364582,
+        "word": "好消息学位服上新坏消息我毕业了",
+        "onboard_time": 1686658527,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354493,
+        "num": 354493,
+        "word": "赵露思好美",
+        "onboard_time": 1686640046,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343069,
+        "num": 343069,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290274,
+        "num": 290274,
+        "word": "刘浩存任敏高中时期自拍照",
+        "onboard_time": 1686644908,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267206,
+        "num": 267206,
+        "word": "教资面试成绩",
+        "onboard_time": 1686654207,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266269,
+        "num": 266269,
+        "word": "有刘海的周也",
+        "onboard_time": 1686657630,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389182,
+        "num": 253453,
+        "word": "男子杀害妻子及妻弟媳",
+        "onboard_time": 1686655947,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214182,
+        "num": 214182,
+        "word": "男生发文称被研三学姐偷走4杯喜茶",
+        "onboard_time": 1686650430,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202747,
+        "num": 202747,
+        "word": "NewJeans换妆造了",
+        "onboard_time": 1686658046,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "梅西说不会参加下届世界杯",
+        "onboard_time": 1686659067,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 197212,
+        "num": 197212,
+        "word": "和爸爸骑游中国的白血病男孩离世",
+        "onboard_time": 1686657267,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196553,
+        "num": 196553,
+        "word": "中学回应疑地铁女子高中同学发声",
+        "onboard_time": 1686659008,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195380,
+        "num": 195380,
+        "word": "肖春生尽力了",
+        "onboard_time": 1686657748,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189689,
+        "num": 189689,
+        "word": "暑假档必爆剧",
+        "onboard_time": 1686648568,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168072,
+        "num": 168072,
+        "word": "没想到配上字幕这么好笑",
+        "onboard_time": 1686658288,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161411,
+        "num": 161411,
+        "word": "领导让削个梨",
+        "onboard_time": 1686647666,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193716,
+        "num": 160979,
+        "word": "宠物店后台的登记表太好笑了",
+        "onboard_time": 1686657748,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150919,
+        "num": 150919,
+        "word": "老师打伤学生道歉反被多位家长安慰",
+        "onboard_time": 1686629191,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 146596,
+        "num": 146596,
+        "word": "诸葛亮新皮肤动画",
+        "onboard_time": 1686656547,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 145414,
+        "word": "infp",
+        "onboard_time": 1686651149,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142168,
+        "num": 142168,
+        "word": "中国男篮18人名单确定",
+        "onboard_time": 1686655585,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141464,
+        "num": 141464,
+        "word": "长风渡",
+        "onboard_time": 1686651808,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139720,
+        "num": 139720,
+        "word": "迪丽热巴打羽毛球",
+        "onboard_time": 1686642087,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130329,
+        "num": 130329,
+        "word": "肖战家人对梦中的那片海的评价",
+        "onboard_time": 1686656846,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127764,
+        "num": 127764,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25898,
+        "num": 123811,
+        "word": "南北方美食差异有多大",
+        "onboard_time": 1686659248,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244252,
+        "num": 122812,
+        "word": "川大女生疑被腾讯解除实习合同",
+        "onboard_time": 1686624928,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121356,
+        "num": 121356,
+        "word": "蔡徐坤机场帮粉丝捡气球",
+        "onboard_time": 1686655046,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110309,
+        "num": 110309,
+        "word": "范丞丞 跑男真的没有剧本",
+        "onboard_time": 1686636330,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101332,
+        "num": 101332,
+        "word": "JDG对战RNG",
+        "onboard_time": 1686655767,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100771,
+        "num": 100771,
+        "word": "强戒小伙戴着手脚铐领证结婚",
+        "onboard_time": 1686645807,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99929,
+        "num": 99929,
+        "word": "梦中的那片海小惠被家暴",
+        "onboard_time": 1686657805,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96209,
+        "num": 96209,
+        "word": "沈月周柯宇牵牵",
+        "onboard_time": 1686651508,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96091,
+        "num": 96091,
+        "word": "疯狂元素城",
+        "onboard_time": 1686655827,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95552,
+        "num": 95552,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92532,
+        "num": 92532,
+        "word": "10后女孩吵架开始拼妹",
+        "onboard_time": 1686658827,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    }
+  }
+}
