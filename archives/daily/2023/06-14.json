@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686694591421,
+  "endTime": 1686695612986,
   "band_list": [
     {
       "raw_hot": 1665615,
@@ -331,20 +331,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 116174,
+      "num": 116174,
+      "word": "和爸爸骑游中国的白血病男孩离世",
+      "onboard_time": 1686657267,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111292,
       "num": 111292,
       "word": "英雄联盟排队",
       "onboard_time": 1686666027,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111162,
-      "num": 111162,
-      "word": "和爸爸骑游中国的白血病男孩离世",
-      "onboard_time": 1686657267,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108242,
@@ -377,6 +377,14 @@
       "onboard_time": 1686662547,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 91678,
+      "num": 91678,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89288,
@@ -435,20 +443,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52315,
-      "num": 52315,
-      "word": "两只旅俄大熊猫体重和人气齐升",
-      "onboard_time": 1686675322,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35229,
       "num": 35229,
       "word": "古巨基加胡夏微信打开了收款码",
       "onboard_time": 1686689953,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29935,
+      "num": 31584,
+      "word": "孙茜好适合红色",
+      "onboard_time": 1686686832,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27615,
+      "num": 31547,
+      "word": "陈晓再更文",
+      "onboard_time": 1686694393,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 27587,
@@ -459,28 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25846,
-      "num": 25846,
-      "word": "孙茜好适合红色",
-      "onboard_time": 1686686832,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23892,
-      "num": 25846,
+      "num": 31494,
       "word": "大学生的期末精神状态",
       "onboard_time": 1686681612,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16226,
-      "num": 25621,
-      "word": "陈晓再更文",
-      "onboard_time": 1686694393,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 13356,
