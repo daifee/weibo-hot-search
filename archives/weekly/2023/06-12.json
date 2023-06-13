@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686645233032,
+  "endTime": 1686647800504,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -75,19 +75,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2523495,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2512576,
       "num": 2443964,
       "word": "曝光大叔女子哭诉学校准备开除她",
       "onboard_time": 1686497909,
       "rank": 1,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2498912,
-      "num": 817538,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 7,
       "category": "社会新闻,教育"
     },
     {
@@ -467,6 +467,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1058175,
+      "num": 1058175,
+      "word": "范丞丞 跑男真的没有剧本",
+      "onboard_time": 1686636330,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1045147,
+      "num": 1045147,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1031231,
       "num": 1031231,
       "word": "江歌妈妈将赔偿款全额捐出",
@@ -505,14 +521,6 @@
       "onboard_time": 1686549512,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 941110,
-      "num": 941110,
-      "word": "范丞丞 跑男真的没有剧本",
-      "onboard_time": 1686636330,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 905633,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747821,
+      "num": 377280,
+      "word": "高考后妹妹得知姐姐已去世一个月",
+      "onboard_time": 1686646407,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744113,
       "num": 358915,
       "word": "北京政法职业学院发布情况通报",
@@ -731,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 692090,
+      "num": 692090,
+      "word": "刘令姿 东方小兰花",
+      "onboard_time": 1686644307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653921,
       "num": 653921,
       "word": "沈月捧花头像",
@@ -785,6 +809,14 @@
       "onboard_time": 1686625707,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 573098,
+      "num": 364228,
+      "word": "王大治带妻女看房",
+      "onboard_time": 1686643408,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 571771,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 502798,
-      "num": 349722,
+      "num": 361964,
       "word": "林心如首带女儿做公益",
       "onboard_time": 1686640706,
       "rank": 27,
@@ -913,14 +945,6 @@
       "onboard_time": 1686616892,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 468497,
-      "num": 339613,
-      "word": "王大治带妻女看房",
-      "onboard_time": 1686643408,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 466613,
@@ -1067,6 +1091,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 383234,
+      "num": 383234,
+      "word": "杭州师范大学回应",
+      "onboard_time": 1686646826,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 382678,
       "num": 382678,
       "word": "Weiwei 886",
@@ -1131,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 359141,
+      "num": 359141,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -1164,7 +1204,7 @@
     },
     {
       "raw_hot": 349790,
-      "num": 266575,
+      "num": 293471,
       "word": "迪丽热巴打羽毛球",
       "onboard_time": 1686642087,
       "rank": 20,
@@ -1435,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285399,
-      "num": 262597,
-      "word": "刘令姿 东方小兰花",
-      "onboard_time": 1686644307,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284289,
       "num": 284289,
       "word": "第一季的何炅黄磊vs第七季的何炅黄磊",
@@ -1545,6 +1577,22 @@
       "onboard_time": 1686550289,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267230,
+      "num": 267230,
+      "word": "如何看疑似地铁事件女子同学发声",
+      "onboard_time": 1686646826,
+      "rank": 22,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 266233,
+      "num": 266233,
+      "word": "蔡徐坤多巴胺穿搭",
+      "onboard_time": 1686644969,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 262906,
@@ -1657,14 +1705,6 @@
       "onboard_time": 1686644008,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254981,
-      "num": 254981,
-      "word": "蔡徐坤多巴胺穿搭",
-      "onboard_time": 1686644969,
-      "rank": 27,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 254237,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1686565588,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231875,
+      "num": 231875,
+      "word": "建议夏天上班别背双肩包",
+      "onboard_time": 1686644609,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 231195,
@@ -2235,14 +2283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201755,
-      "num": 201755,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201648,
       "num": 201648,
       "word": "乐华2023家族演唱会艺人阵容",
@@ -2363,6 +2403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194386,
+      "num": 194386,
+      "word": "玛格丽特别放盐",
+      "onboard_time": 1686647186,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194242,
       "num": 194242,
       "word": "刘宇喊话刘大锤合作vlog项目",
@@ -2440,6 +2488,14 @@
       "word": "义乌市教育局通报小学老师体罚学生",
       "onboard_time": 1686637826,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191129,
+      "num": 343526,
+      "word": "女生摔伤右手后苦练左手完成高考",
+      "onboard_time": 1686643228,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2563,6 +2619,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 186532,
+      "num": 186532,
+      "word": "强戒小伙戴着手脚铐领证结婚",
+      "onboard_time": 1686645807,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186217,
       "num": 186217,
       "word": "腾讯音乐娱乐盛典阵容",
@@ -2643,11 +2707,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177773,
+      "num": 177773,
+      "word": "肖战为肖春生由i变e",
+      "onboard_time": 1686646167,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177347,
       "num": 177347,
       "word": "奔跑吧收官夕阳大合照",
       "onboard_time": 1686612982,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175579,
+      "num": 175579,
+      "word": "范丞丞你小子勾引谁",
+      "onboard_time": 1686645206,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2803,14 +2883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164746,
-      "num": 343526,
-      "word": "女生摔伤右手后苦练左手完成高考",
-      "onboard_time": 1686643228,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164714,
       "num": 164714,
       "word": "宁艺卓到达青岛说我来啦",
@@ -2841,14 +2913,6 @@
       "onboard_time": 1686563789,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160769,
-      "num": 160769,
-      "word": "建议夏天上班别背双肩包",
-      "onboard_time": 1686644609,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 159691,
@@ -3041,14 +3105,6 @@
       "onboard_time": 1686634168,
       "rank": 43,
       "category": "影视,音乐"
-    },
-    {
-      "raw_hot": 148084,
-      "num": 139033,
-      "word": "刘浩存任敏高中时期自拍照",
-      "onboard_time": 1686644908,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 147345,
@@ -3467,12 +3523,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120194,
+      "num": 120194,
+      "word": "Amber追竞人的一天",
+      "onboard_time": 1686647788,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "TES战胜WBG",
       "onboard_time": 1686494132,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119870,
+      "num": 119870,
+      "word": "好想和朋友一起去看海",
+      "onboard_time": 1686646648,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 119833,
@@ -3539,20 +3611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114266,
-      "num": 114266,
-      "word": "范丞丞你小子勾引谁",
-      "onboard_time": 1686645206,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114228,
       "num": 114228,
       "word": "这就是理科生的浪漫啊",
       "onboard_time": 1686621449,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113397,
+      "num": 119767,
+      "word": "iG官宣beishang加入",
+      "onboard_time": 1686646708,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 113272,
@@ -3771,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86132,
+      "num": 1209735,
+      "word": "边防战士带着全家福巡逻",
+      "onboard_time": 1686643888,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85678,
       "num": 509697,
       "word": "外卖小哥跳河救起老人又继续送单",
@@ -3827,14 +3907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67866,
-      "num": 1209735,
-      "word": "边防战士带着全家福巡逻",
-      "onboard_time": 1686643888,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67416,
       "num": 67416,
       "word": "叶国华造孽刘芮麟还",
@@ -3873,6 +3945,14 @@
       "onboard_time": 1686477088,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 59226,
+      "num": 366843,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57926,
@@ -4056,6 +4136,9 @@
     },
     {
       "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    },
+    {
+      "word": "#中国和洪都拉斯联合声明#"
     }
   ]
 }
