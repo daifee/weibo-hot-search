@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686620469463,
+  "endTime": 1686621499237,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -11,20 +11,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2129279,
+      "num": 2129279,
+      "word": "发小喊了四年终于离职了",
+      "onboard_time": 1686615449,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1970284,
       "num": 1970284,
       "word": "夸克",
       "onboard_time": 1686585147,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1866627,
-      "num": 1866627,
-      "word": "发小喊了四年终于离职了",
-      "onboard_time": 1686615449,
-      "rank": 0,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1819415,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1393000,
+      "num": 1042877,
+      "word": "成都地铁男子偷拍女生后当面删掉",
+      "onboard_time": 1686618690,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1321665,
       "num": 567045,
       "word": "川大回应网传地铁事件女生被开除",
@@ -81,14 +89,6 @@
       "onboard_time": 1686613284,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1042877,
-      "num": 1042877,
-      "word": "成都地铁男子偷拍女生后当面删掉",
-      "onboard_time": 1686618690,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983744,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 752809,
+      "num": 752809,
+      "word": "60岁阿姨健身22年后的样子",
+      "onboard_time": 1686571227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733104,
       "num": 499070,
       "word": "任权 薛小婉",
@@ -145,14 +153,6 @@
       "onboard_time": 1686581910,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 693856,
-      "num": 693856,
-      "word": "60岁阿姨健身22年后的样子",
-      "onboard_time": 1686571227,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 673897,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391255,
+      "num": 391255,
+      "word": "宋雨琦奔跑吧收官合照是P上去的",
+      "onboard_time": 1686620487,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356259,
       "num": 356259,
       "word": "你只是需要早点睡觉",
@@ -267,12 +275,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332428,
+      "num": 332428,
+      "word": "NBA总决赛",
+      "onboard_time": 1686619888,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331249,
       "num": 331249,
       "word": "女生骂男生偷拍变态后称认错人了",
       "onboard_time": 1686617551,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316496,
+      "num": 316496,
+      "word": "肖战被家人夸演得还不错",
+      "onboard_time": 1686621389,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 290715,
@@ -291,20 +315,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271999,
-      "num": 271999,
-      "word": "NBA总决赛",
-      "onboard_time": 1686619888,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 266717,
+      "num": 266717,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 261000,
-      "num": 261000,
+      "raw_hot": 261437,
+      "num": 284127,
       "word": "美脱口秀演员拿马航失联玩梗拒不道歉",
       "onboard_time": 1686616468,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 254237,
+      "num": 254237,
+      "word": "猫的疼痛程度",
+      "onboard_time": 1686616711,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 253086,
@@ -313,14 +345,6 @@
       "onboard_time": 1686563669,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245336,
-      "num": 245336,
-      "word": "猫的疼痛程度",
-      "onboard_time": 1686616711,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 242648,
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209356,
+      "num": 209356,
+      "word": "成都地铁",
+      "onboard_time": 1686621326,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207094,
       "num": 207094,
       "word": "中新网评川大女生地铁曝光大叔",
@@ -393,6 +425,22 @@
       "onboard_time": 1686570210,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203380,
+      "num": 203380,
+      "word": "鞠婧祎新剧吻戏好多",
+      "onboard_time": 1686620370,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200080,
+      "num": 200080,
+      "word": "职场上不会拒绝的人有福了",
+      "onboard_time": 1686620070,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 199773,
@@ -451,8 +499,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162284,
-      "num": 162284,
+      "raw_hot": 164873,
+      "num": 164873,
       "word": "吴青峰为陈绮贞发文",
       "onboard_time": 1686613225,
       "rank": 36,
@@ -473,6 +521,14 @@
       "onboard_time": 1686582630,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152666,
+      "num": 152666,
+      "word": "高考准考证志愿表等尽量别公开晒图",
+      "onboard_time": 1686620248,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 149286,
@@ -497,14 +553,6 @@
       "onboard_time": 1686615268,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148295,
-      "num": 148295,
-      "word": "男子称在洗浴中心被男性猥亵",
-      "onboard_time": 1686620127,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143265,
@@ -539,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137462,
-      "num": 137462,
-      "word": "职场上不会拒绝的人有福了",
-      "onboard_time": 1686620070,
-      "rank": 41,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 134994,
       "num": 134994,
       "word": "20余省已公布高考查分时间",
@@ -561,14 +601,6 @@
       "onboard_time": 1686618391,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132246,
-      "num": 132246,
-      "word": "鞠婧祎新剧吻戏好多",
-      "onboard_time": 1686620370,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 131404,
@@ -595,12 +627,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124729,
-      "num": 124729,
-      "word": "高考准考证志愿表等尽量别公开晒图",
-      "onboard_time": 1686620248,
-      "rank": 47,
-      "category": "教育,社会新闻"
+      "raw_hot": 127624,
+      "num": 1512304,
+      "word": "短途游3小时高铁圈",
+      "onboard_time": 1686577470,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123514,
@@ -635,20 +667,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114228,
+      "num": 114228,
+      "word": "这就是理科生的浪漫啊",
+      "onboard_time": 1686621449,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113031,
       "num": 113031,
       "word": "EXO专辑",
       "onboard_time": 1686564627,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112387,
-      "num": 1512304,
-      "word": "短途游3小时高铁圈",
-      "onboard_time": 1686577470,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112105,
@@ -731,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91017,
+      "num": 479641,
+      "word": "掘金冲击队史第一冠",
+      "onboard_time": 1686618029,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84835,
       "num": 84835,
       "word": "张小斐回应惠英红的新欢旧爱",
@@ -745,14 +785,6 @@
       "onboard_time": 1686612081,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78963,
-      "num": 479641,
-      "word": "掘金冲击队史第一冠",
-      "onboard_time": 1686618029,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 76486,
