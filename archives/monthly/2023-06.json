@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686641615276,
+  "endTime": 1686644470146,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -771,6 +771,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2222414,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2183531,
       "num": 2183531,
       "word": "亲戚小孩毁了我的动漫周边",
@@ -1259,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1847935,
-      "num": 817538,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1841672,
       "num": 1841672,
       "word": "千万不要把水果当饭吃",
@@ -1472,6 +1472,14 @@
       "word": "女性受教育程度越高终身不育率越高",
       "onboard_time": 1686451289,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1700934,
+      "num": 1700934,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1505097,
+      "num": 1505097,
+      "word": "赵露思好美",
+      "onboard_time": 1686640046,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1504799,
       "num": 1504799,
       "word": "杨紫赵露思撞衫",
@@ -2160,14 +2176,6 @@
       "word": "街拍事件最新画面曝光",
       "onboard_time": 1686232772,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1417010,
-      "num": 1417010,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -3473,6 +3481,14 @@
       "onboard_time": 1686630573,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1064802,
+      "num": 1064802,
+      "word": "张柏芝 好能打的一张脸",
+      "onboard_time": 1686639746,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1061459,
@@ -5289,14 +5305,6 @@
       "onboard_time": 1686151056,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 744175,
-      "num": 744175,
-      "word": "赵露思好美",
-      "onboard_time": 1686640046,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 742318,
@@ -7307,6 +7315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490698,
+      "num": 366906,
+      "word": "赵露思造型师换成闵塔鲨了",
+      "onboard_time": 1686642508,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490507,
       "num": 490507,
       "word": "Angelababy卷发双马尾",
@@ -8867,6 +8883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391808,
+      "num": 391808,
+      "word": "宝格丽",
+      "onboard_time": 1686639865,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 391407,
       "num": 391407,
       "word": "best AG",
@@ -9843,6 +9867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349790,
+      "num": 239818,
+      "word": "迪丽热巴打羽毛球",
+      "onboard_time": 1686642087,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349584,
       "num": 349584,
       "word": "曝光大叔女子值得同情吗",
@@ -9945,14 +9977,6 @@
       "onboard_time": 1686112722,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347084,
-      "num": 347084,
-      "word": "张柏芝 好能打的一张脸",
-      "onboard_time": 1686639746,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 346666,
@@ -10081,14 +10105,6 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342319,
-      "num": 342319,
-      "word": "宝格丽",
-      "onboard_time": 1686639865,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 341898,
@@ -10683,6 +10699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325173,
+      "num": 325173,
+      "word": "王大治带妻女看房",
+      "onboard_time": 1686643408,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325140,
       "num": 285864,
       "word": "朱一龙等倪妮",
@@ -10745,6 +10769,14 @@
       "onboard_time": 1686549512,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323282,
+      "num": 323282,
+      "word": "林心如首带女儿做公益",
+      "onboard_time": 1686640706,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 323062,
@@ -12353,6 +12385,14 @@
       "onboard_time": 1686631354,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282160,
+      "num": 235679,
+      "word": "台偶收视率前二十",
+      "onboard_time": 1686639446,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 281887,
@@ -16195,6 +16235,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 222688,
+      "num": 222688,
+      "word": "SMTOWN没有给EXO划分制作中心",
+      "onboard_time": 1686641909,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222674,
       "num": 222674,
       "word": "亚运会",
@@ -16433,14 +16481,6 @@
       "onboard_time": 1686579509,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219501,
-      "num": 219501,
-      "word": "林心如首带女儿做公益",
-      "onboard_time": 1686640706,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 219481,
@@ -17177,14 +17217,6 @@
       "onboard_time": 1686200497,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210904,
-      "num": 210904,
-      "word": "台偶收视率前二十",
-      "onboard_time": 1686639446,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 210835,
@@ -19739,6 +19771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188437,
+      "num": 159240,
+      "word": "成毅郑业成英雄志片花",
+      "onboard_time": 1686644008,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188367,
+      "num": 159169,
+      "word": "花戎产子",
+      "onboard_time": 1686641487,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188107,
       "num": 188107,
       "word": "肖春生我随晓梅成熟稳重",
@@ -21795,6 +21843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164847,
+      "num": 159043,
+      "word": "我被投稿了",
+      "onboard_time": 1686643348,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164823,
       "num": 164823,
       "word": "论购买EXO正规七辑的N种好处",
@@ -23467,6 +23523,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 145269,
+      "num": 124015,
+      "word": "刘令姿 东方小兰花",
+      "onboard_time": 1686644307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145192,
       "num": 381408,
       "word": "为高考拼过的日夜",
@@ -23817,6 +23881,14 @@
       "onboard_time": 1685533888,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140838,
+      "num": 140838,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140829,
@@ -25563,14 +25635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118597,
-      "num": 118597,
-      "word": "花戎产子",
-      "onboard_time": 1686641487,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118594,
       "num": 118594,
       "word": "重启天涯直播7天7夜仅带货36万",
@@ -26179,6 +26243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109514,
+      "num": 343526,
+      "word": "女生摔伤右手后苦练左手完成高考",
+      "onboard_time": 1686643228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109495,
       "num": 109495,
       "word": "M2 Ultra 性能猛兽",
@@ -26345,6 +26417,14 @@
       "onboard_time": 1686069623,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107349,
+      "num": 117788,
+      "word": "杨梅酱鸡翅",
+      "onboard_time": 1686642268,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 106847,
@@ -28569,6 +28649,14 @@
       "onboard_time": 1686397889,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 41488,
+      "num": 1069160,
+      "word": "边防战士带着全家福巡逻",
+      "onboard_time": 1686643888,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41371,

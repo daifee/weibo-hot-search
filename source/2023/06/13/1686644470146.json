@@ -1,0 +1,410 @@
+{
+  "runTime": 1686644470146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1700934,
+        "num": 1700934,
+        "word": "刘鑫不服二审判决申请再审",
+        "onboard_time": 1686632673,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1505097,
+        "num": 1505097,
+        "word": "赵露思好美",
+        "onboard_time": 1686640046,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41488,
+        "num": 1069160,
+        "word": "边防战士带着全家福巡逻",
+        "onboard_time": 1686643888,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064802,
+        "num": 1064802,
+        "word": "张柏芝 好能打的一张脸",
+        "onboard_time": 1686639746,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 991613,
+        "num": 991613,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 796922,
+        "num": 796922,
+        "word": "范丞丞 跑男真的没有剧本",
+        "onboard_time": 1686636330,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707994,
+        "num": 707994,
+        "word": "任豪 人工呼吸怎么不算吻",
+        "onboard_time": 1686630573,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 637172,
+        "num": 637172,
+        "word": "疑似杭师大女生家属发声",
+        "onboard_time": 1686630213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567910,
+        "num": 567910,
+        "word": "孟子义没考上军艺的原因",
+        "onboard_time": 1686633688,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391808,
+        "num": 391808,
+        "word": "宝格丽",
+        "onboard_time": 1686639865,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 2222414,
+        "num": 391524,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 779849,
+        "num": 373621,
+        "word": "老师打伤学生道歉反被多位家长安慰",
+        "onboard_time": 1686629191,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 490698,
+        "num": 366906,
+        "word": "赵露思造型师换成闵塔鲨了",
+        "onboard_time": 1686642508,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481452,
+        "num": 356862,
+        "word": "边伯贤截掉SMTOWN的logo",
+        "onboard_time": 1686630272,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109514,
+        "num": 343526,
+        "word": "女生摔伤右手后苦练左手完成高考",
+        "onboard_time": 1686643228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396687,
+        "num": 332634,
+        "word": "陈晓又更文了",
+        "onboard_time": 1686623907,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325173,
+        "num": 325173,
+        "word": "王大治带妻女看房",
+        "onboard_time": 1686643408,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324038,
+        "num": 324038,
+        "word": "后来呢 我们分开了",
+        "onboard_time": 1686636986,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323282,
+        "num": 323282,
+        "word": "林心如首带女儿做公益",
+        "onboard_time": 1686640706,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240272,
+        "num": 240272,
+        "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+        "onboard_time": 1686621509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349790,
+        "num": 239818,
+        "word": "迪丽热巴打羽毛球",
+        "onboard_time": 1686642087,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322634,
+        "num": 238985,
+        "word": "男子称在洗浴中心被男性猥亵",
+        "onboard_time": 1686620127,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286616,
+        "num": 237872,
+        "word": "起床时千万不要立刻叠被子",
+        "onboard_time": 1686615268,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285483,
+        "num": 237573,
+        "word": "沈月初一身高1米33",
+        "onboard_time": 1686637286,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202653,
+        "num": 236361,
+        "word": "监控记录了我来姨妈的瞬间",
+        "onboard_time": 1686615808,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282160,
+        "num": 235679,
+        "word": "台偶收视率前二十",
+        "onboard_time": 1686639446,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235124,
+        "num": 235124,
+        "word": "沙溢好像是参加了爸爸去哪儿",
+        "onboard_time": 1686629912,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222688,
+        "num": 222688,
+        "word": "SMTOWN没有给EXO划分制作中心",
+        "onboard_time": 1686641909,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159436,
+        "num": 159436,
+        "word": "是晒出纹身不是晒出纹身",
+        "onboard_time": 1686638667,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150254,
+        "num": 159376,
+        "word": "川大回应网传地铁事件女生被开除",
+        "onboard_time": 1686555990,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199293,
+        "num": 159292,
+        "word": "杨幂的特长是美",
+        "onboard_time": 1686636387,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188437,
+        "num": 159240,
+        "word": "成毅郑业成英雄志片花",
+        "onboard_time": 1686644008,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188367,
+        "num": 159169,
+        "word": "花戎产子",
+        "onboard_time": 1686641487,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179485,
+        "num": 159110,
+        "word": "成都地铁男子偷拍女生后当面删掉",
+        "onboard_time": 1686618690,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 159043,
+        "word": "我被投稿了",
+        "onboard_time": 1686643348,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187551,
+        "num": 158914,
+        "word": "Jennie演唱会中途离场",
+        "onboard_time": 1686623486,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158900,
+        "num": 158900,
+        "word": "三子深夜大战不孕不育榴莲",
+        "onboard_time": 1686584788,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158585,
+        "num": 158585,
+        "word": "杨迪被认成狂飙里的麻子",
+        "onboard_time": 1686638606,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140838,
+        "num": 140838,
+        "word": "房东回应女孩结婚退租时打扫干净房子",
+        "onboard_time": 1686644188,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124352,
+        "num": 124352,
+        "word": "义乌市教育局通报小学老师体罚学生",
+        "onboard_time": 1686637826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793993,
+        "num": 124348,
+        "word": "川大女生疑被腾讯解除实习合同",
+        "onboard_time": 1686624928,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 146210,
+        "num": 124243,
+        "word": "乐华发公告调整开票规则",
+        "onboard_time": 1686637286,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145269,
+        "num": 124015,
+        "word": "刘令姿 东方小兰花",
+        "onboard_time": 1686644307,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123520,
+        "num": 123520,
+        "word": "怀疑自己被偷拍该如何处理",
+        "onboard_time": 1686638667,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140433,
+        "num": 121617,
+        "word": "王鹤棣泰国录制去了20多个站姐",
+        "onboard_time": 1686631354,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119594,
+        "num": 119594,
+        "word": "在广东买虾还没到家就熟了",
+        "onboard_time": 1686630573,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 117792,
+        "word": "全麻手术醒后可以有多社死",
+        "onboard_time": 1686612924,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107349,
+        "num": 117788,
+        "word": "杨梅酱鸡翅",
+        "onboard_time": 1686642268,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108510,
+        "num": 117784,
+        "word": "鹭卓空降",
+        "onboard_time": 1686638307,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88010,
+        "num": 117781,
+        "word": "姆巴佩拒绝与巴黎续约",
+        "onboard_time": 1686615449,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    }
+  }
+}

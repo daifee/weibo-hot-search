@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686641615276,
+  "endTime": 1686644470146,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -91,6 +91,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2222414,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2129279,
       "num": 2129279,
       "word": "发小喊了四年终于离职了",
@@ -147,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1847935,
-      "num": 817538,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1819415,
       "num": 1819415,
       "word": "现代人已经不吃鸡汤了",
@@ -185,6 +185,14 @@
       "onboard_time": 1686557551,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1700934,
+      "num": 1700934,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1677009,
@@ -225,6 +233,14 @@
       "onboard_time": 1686547231,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1505097,
+      "num": 1505097,
+      "word": "赵露思好美",
+      "onboard_time": 1686640046,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1498397,
@@ -281,14 +297,6 @@
       "onboard_time": 1686473789,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1417010,
-      "num": 1417010,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1351320,
@@ -449,6 +457,14 @@
       "onboard_time": 1686630573,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1064802,
+      "num": 1064802,
+      "word": "张柏芝 好能打的一张脸",
+      "onboard_time": 1686639746,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1031231,
@@ -649,14 +665,6 @@
       "onboard_time": 1686571227,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744175,
-      "num": 744175,
-      "word": "赵露思好美",
-      "onboard_time": 1686640046,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 744113,
@@ -867,6 +875,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 490698,
+      "num": 366906,
+      "word": "赵露思造型师换成闵塔鲨了",
+      "onboard_time": 1686642508,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490507,
       "num": 490507,
       "word": "Angelababy卷发双马尾",
@@ -1027,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391808,
+      "num": 391808,
+      "word": "宝格丽",
+      "onboard_time": 1686639865,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 382678,
       "num": 382678,
       "word": "Weiwei 886",
@@ -1123,20 +1147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349790,
+      "num": 239818,
+      "word": "迪丽热巴打羽毛球",
+      "onboard_time": 1686642087,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349584,
       "num": 349584,
       "word": "曝光大叔女子值得同情吗",
       "onboard_time": 1686537749,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347084,
-      "num": 347084,
-      "word": "张柏芝 好能打的一张脸",
-      "onboard_time": 1686639746,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 343025,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342319,
-      "num": 342319,
-      "word": "宝格丽",
-      "onboard_time": 1686639865,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 341898,
@@ -1243,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325173,
+      "num": 325173,
+      "word": "王大治带妻女看房",
+      "onboard_time": 1686643408,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324651,
       "num": 324651,
       "word": "掘金主场球迷大骂裁判",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1686549512,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323282,
+      "num": 323282,
+      "word": "林心如首带女儿做公益",
+      "onboard_time": 1686640706,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 321123,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1686631354,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282160,
+      "num": 235679,
+      "word": "台偶收视率前二十",
+      "onboard_time": 1686639446,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 278223,
@@ -1883,6 +1923,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 222688,
+      "num": 222688,
+      "word": "SMTOWN没有给EXO划分制作中心",
+      "onboard_time": 1686641909,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222674,
       "num": 222674,
       "word": "亚运会",
@@ -1905,14 +1953,6 @@
       "onboard_time": 1686579509,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219501,
-      "num": 219501,
-      "word": "林心如首带女儿做公益",
-      "onboard_time": 1686640706,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 219119,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1686544596,
       "rank": 35,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 210904,
-      "num": 210904,
-      "word": "台偶收视率前二十",
-      "onboard_time": 1686639446,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 210752,
@@ -2435,6 +2467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188437,
+      "num": 159240,
+      "word": "成毅郑业成英雄志片花",
+      "onboard_time": 1686644008,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188367,
+      "num": 159169,
+      "word": "花戎产子",
+      "onboard_time": 1686641487,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188331,
       "num": 188331,
       "word": "极限挑战",
@@ -2707,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164847,
+      "num": 159043,
+      "word": "我被投稿了",
+      "onboard_time": 1686643348,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164823,
       "num": 164823,
       "word": "论购买EXO正规七辑的N种好处",
@@ -2939,6 +2995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145269,
+      "num": 124015,
+      "word": "刘令姿 东方小兰花",
+      "onboard_time": 1686644307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "看完这42S练成微笑唇",
@@ -3017,6 +3081,14 @@
       "onboard_time": 1686504499,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140838,
+      "num": 140838,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140676,
@@ -3387,14 +3459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118597,
-      "num": 118597,
-      "word": "花戎产子",
-      "onboard_time": 1686641487,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118409,
       "num": 137991,
       "word": "谭维维清唱绽放致敬张桂梅",
@@ -3475,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109514,
+      "num": 343526,
+      "word": "女生摔伤右手后苦练左手完成高考",
+      "onboard_time": 1686643228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109036,
       "num": 109036,
       "word": "Twice和once你们不要再打了啦",
@@ -3505,6 +3577,14 @@
       "onboard_time": 1686630452,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 107349,
+      "num": 117788,
+      "word": "杨梅酱鸡翅",
+      "onboard_time": 1686642268,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 105679,
@@ -3808,6 +3888,14 @@
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41488,
+      "num": 1069160,
+      "word": "边防战士带着全家福巡逻",
+      "onboard_time": 1686643888,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 15:33:35
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 16:21:10
 </p>
 </blockquote>
 <p>
@@ -591,6 +591,12 @@ Amber单杀Uzi（热度：2230491）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E5%90%8C%E5%AD%A6%E7%A7%B0%E8%A2%AB%E5%85%B6%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
+疑地铁事件女子同学称被其校园霸凌（热度：2222414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E6%88%9A%E5%B0%8F%E5%AD%A9%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%8A%A8%E6%BC%AB%E5%91%A8%E8%BE%B9%23" target="weibo">
 亲戚小孩毁了我的动漫周边（热度：2183531）
 </a>
@@ -957,12 +963,6 @@ Angelababy是靠什么长红多年的（热度：1990762）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E5%90%8C%E5%AD%A6%E7%A7%B0%E8%A2%AB%E5%85%B6%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
-疑地铁事件女子同学称被其校园霸凌（热度：1847935）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%23" target="weibo">
 千万不要把水果当饭吃（热度：1841672）
 </a>
@@ -1115,6 +1115,12 @@ Angelababy 蒂芙尼（热度：1798701）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E5%8F%97%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6%E8%B6%8A%E9%AB%98%E7%BB%88%E8%BA%AB%E4%B8%8D%E8%82%B2%E7%8E%87%E8%B6%8A%E9%AB%98%23" target="weibo">
 女性受教育程度越高终身不育率越高（热度：1703166）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1%23" target="weibo">
+刘鑫不服二审判决申请再审（热度：1700934）
 </a>
 </li>
 
@@ -1449,6 +1455,12 @@ EXO确定于7月10日回归（热度：1552990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E%23" target="weibo">
+赵露思好美（热度：1505097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%92%9E%E8%A1%AB%23" target="weibo">
 杨紫赵露思撞衫（热度：1504799）
 </a>
@@ -1631,12 +1643,6 @@ Jennie演唱会中途离场（热度：1445483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E6%8B%8D%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
 街拍事件最新画面曝光（热度：1418847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%91%AB%E4%B8%8D%E6%9C%8D%E4%BA%8C%E5%AE%A1%E5%88%A4%E5%86%B3%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1%23" target="weibo">
-刘鑫不服二审判决申请再审（热度：1417010）
 </a>
 </li>
 
@@ -2615,6 +2621,12 @@ Rain 街舞6（热度：1075379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%20%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E5%90%BB%23" target="weibo">
 任豪 人工呼吸怎么不算吻（热度：1069582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A5%BD%E8%83%BD%E6%89%93%E7%9A%84%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
+张柏芝 好能打的一张脸（热度：1064802）
 </a>
 </li>
 
@@ -3977,12 +3989,6 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
 张艺兴工作室再回应（热度：745634）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A5%BD%E7%BE%8E%23" target="weibo">
-赵露思好美（热度：744175）
 </a>
 </li>
 
@@ -5493,6 +5499,12 @@ Ella全组鼓励徐怀钰（热度：501880）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23" target="weibo">
+赵露思造型师换成闵塔鲨了（热度：490698）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%8D%B7%E5%8F%91%E5%8F%8C%E9%A9%AC%E5%B0%BE%23" target="weibo">
 Angelababy卷发双马尾（热度：490507）
 </a>
@@ -5999,18 +6011,6 @@ LESSERAFIM将来广州开线下签售会（热度：443485）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E5%BC%A0%E5%BA%97%E7%83%A7%E7%83%A4%E5%80%A1%E8%AE%AE%E9%AB%98%E8%80%83%E5%81%9C%E4%B8%9A%E4%B8%89%E5%A4%A9%23" target="weibo">
 淄博张店烧烤倡议高考停业三天（热度：440670）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E8%88%9E%E5%8F%B0%23" target="weibo">
-李宇春舞台（热度：440285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E5%A4%A7%E4%B8%BA%E9%80%81%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23" target="weibo">
-佟大为送迪丽热巴的生日礼物（热度：440239）
 </a>
 </li>
 

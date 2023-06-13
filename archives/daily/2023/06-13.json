@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686641615276,
+  "endTime": 1686644470146,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2222414,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2129279,
       "num": 2129279,
       "word": "发小喊了四年终于离职了",
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1847935,
-      "num": 817538,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1819415,
       "num": 1819415,
       "word": "现代人已经不吃鸡汤了",
       "onboard_time": 1686610940,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1700934,
+      "num": 1700934,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1566687,
@@ -91,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1505097,
+      "num": 1505097,
+      "word": "赵露思好美",
+      "onboard_time": 1686640046,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1492329,
       "num": 1492329,
       "word": "沙溢好像是参加了爸爸去哪儿",
@@ -113,14 +129,6 @@
       "onboard_time": 1686623486,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1417010,
-      "num": 1417010,
-      "word": "刘鑫不服二审判决申请再审",
-      "onboard_time": 1686632673,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1351320,
@@ -185,6 +193,14 @@
       "onboard_time": 1686630573,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1064802,
+      "num": 1064802,
+      "word": "张柏芝 好能打的一张脸",
+      "onboard_time": 1686639746,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 983744,
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744175,
-      "num": 744175,
-      "word": "赵露思好美",
-      "onboard_time": 1686640046,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 733104,
       "num": 499070,
       "word": "任权 薛小婉",
@@ -361,6 +369,14 @@
       "onboard_time": 1686618151,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490698,
+      "num": 366906,
+      "word": "赵露思造型师换成闵塔鲨了",
+      "onboard_time": 1686642508,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 483295,
@@ -451,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391808,
+      "num": 391808,
+      "word": "宝格丽",
+      "onboard_time": 1686639865,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
@@ -483,12 +507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 347084,
-      "num": 347084,
-      "word": "张柏芝 好能打的一张脸",
-      "onboard_time": 1686639746,
-      "rank": 29,
-      "category": "艺人,时尚"
+      "raw_hot": 349790,
+      "num": 239818,
+      "word": "迪丽热巴打羽毛球",
+      "onboard_time": 1686642087,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 342654,
@@ -497,14 +521,6 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342319,
-      "num": 342319,
-      "word": "宝格丽",
-      "onboard_time": 1686639865,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 341898,
@@ -523,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325173,
+      "num": 325173,
+      "word": "王大治带妻女看房",
+      "onboard_time": 1686643408,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324651,
       "num": 324651,
       "word": "掘金主场球迷大骂裁判",
       "onboard_time": 1686625468,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323282,
+      "num": 323282,
+      "word": "林心如首带女儿做公益",
+      "onboard_time": 1686640706,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 316496,
@@ -561,6 +593,14 @@
       "onboard_time": 1686631354,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282160,
+      "num": 235679,
+      "word": "台偶收视率前二十",
+      "onboard_time": 1686639446,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 277970,
@@ -803,10 +843,10 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219501,
-      "num": 219501,
-      "word": "林心如首带女儿做公益",
-      "onboard_time": 1686640706,
+      "raw_hot": 222688,
+      "num": 222688,
+      "word": "SMTOWN没有给EXO划分制作中心",
+      "onboard_time": 1686641909,
       "rank": 27,
       "category": "艺人"
     },
@@ -817,14 +857,6 @@
       "onboard_time": 1686632733,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210904,
-      "num": 210904,
-      "word": "台偶收视率前二十",
-      "onboard_time": 1686639446,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 210434,
@@ -1003,6 +1035,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 188437,
+      "num": 159240,
+      "word": "成毅郑业成英雄志片花",
+      "onboard_time": 1686644008,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188367,
+      "num": 159169,
+      "word": "花戎产子",
+      "onboard_time": 1686641487,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188307,
       "num": 188307,
       "word": "西瓜白粥",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1686613225,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164847,
+      "num": 159043,
+      "word": "我被投稿了",
+      "onboard_time": 1686643348,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 164714,
@@ -1243,6 +1299,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 145269,
+      "num": 124015,
+      "word": "刘令姿 东方小兰花",
+      "onboard_time": 1686644307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144865,
       "num": 144865,
       "word": "看完这42S练成微笑唇",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1686562527,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140838,
+      "num": 140838,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140676,
@@ -1411,14 +1483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118597,
-      "num": 118597,
-      "word": "花戎产子",
-      "onboard_time": 1686641487,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118133,
       "num": 118133,
       "word": "第一视角给小海獭宝宝洗澡",
@@ -1459,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109514,
+      "num": 343526,
+      "word": "女生摔伤右手后苦练左手完成高考",
+      "onboard_time": 1686643228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109036,
       "num": 109036,
       "word": "Twice和once你们不要再打了啦",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1686630452,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 107349,
+      "num": 117788,
+      "word": "杨梅酱鸡翅",
+      "onboard_time": 1686642268,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 105679,
@@ -1640,6 +1720,14 @@
       "word": "老师为百名中考学生绘插图寄语告别",
       "onboard_time": 1686632432,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41488,
+      "num": 1069160,
+      "word": "边防战士带着全家福巡逻",
+      "onboard_time": 1686643888,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
