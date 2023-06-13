@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/13 23:34:03
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 00:22:30
 </p>
 </blockquote>
 <p>
@@ -1247,6 +1247,12 @@ Angelababy 蒂芙尼（热度：1798701）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%BE%84%E6%B8%85%23" target="weibo">
 黄子韬说我们不需要什么澄清（热度：1645137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
+王鹤棣田曦薇 大奉打更人（热度：1643854）
 </a>
 </li>
 
@@ -3459,6 +3465,12 @@ WBG零封JDG（热度：888042）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
+Jennie回应演唱会中途离场（热度：858484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E8%B5%B6%E8%9A%8A%E5%AD%90%23" target="weibo">
 迪丽热巴红毯赶蚊子（热度：856867）
 </a>
@@ -4203,12 +4215,6 @@ B太 我可能又被众筹了（热度：722149）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
-Jennie回应演唱会中途离场（热度：720111）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E5%90%83%E4%BA%86%E6%88%91%E7%9A%84%E5%88%80%E5%89%8A%E9%9D%A2%23" target="weibo">
 高圆圆吃了我的刀削面（热度：717920）
 </a>
@@ -4839,6 +4845,12 @@ Meiko 暂停（热度：605123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
+权志龙又买房了（热度：600839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%84%E8%AE%BA%E9%99%88%E7%B4%AB%E5%87%BD%23" target="weibo">
 迪丽热巴评论陈紫函（热度：598931）
 </a>
@@ -5463,6 +5475,12 @@ TFBOYS团徽三角没有封角（热度：518254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BA%8A%E5%92%9A%E5%88%A0%E5%87%8F%E5%89%A7%E6%83%85%23" target="weibo">
+陈伟霆床咚删减剧情（热度：514686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%93%AD%E6%88%8F%E4%B8%BB%E5%8A%A8%E5%92%8C%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%86%8D%E6%9D%A5%E4%B8%80%E9%81%8D%23" target="weibo">
 李沁哭戏主动和导演说再来一遍（热度：512837）
 </a>
@@ -5943,12 +5961,6 @@ TES对战EDG（热度：481326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BA%8A%E5%92%9A%E5%88%A0%E5%87%8F%E5%89%A7%E6%83%85%23" target="weibo">
-陈伟霆床咚删减剧情（热度：467754）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%92%8C%E5%A5%BD%E9%97%BA%E8%9C%9C%E7%9D%A1%E4%B8%80%E5%BC%A0%E5%BA%8A%23" target="weibo">
 千万别和好闺蜜睡一张床（热度：466731）
 </a>
@@ -5999,18 +6011,6 @@ TES对战EDG（热度：481326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%87%AA%E9%A9%BE%E4%B8%8A%E7%8F%AD%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%8B%A6%23" target="weibo">
 王栎鑫自驾上班被保安拦（热度：461882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%92%8C%E5%84%BF%E5%AD%90%E7%A7%B0%E7%BB%99%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E4%B8%80%E6%AC%A1%E6%9C%BA%E4%BC%9A%23" target="weibo">
-大叔和儿子称给涉事女子一次机会（热度：461809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2363%E5%B2%81%E4%BF%9D%E5%A7%86%E4%B8%8A%E5%B2%971%E5%B0%8F%E6%97%B6%E7%83%A7%E7%84%A6%E9%9B%87%E4%B8%BB%E5%AE%B6%E6%B0%B4%E5%A3%B6%23" target="weibo">
-63岁保姆上岗1小时烧焦雇主家水壶（热度：461349）
 </a>
 </li>
 

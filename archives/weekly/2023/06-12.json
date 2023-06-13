@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686670443195,
+  "endTime": 1686673350763,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -241,6 +241,14 @@
       "onboard_time": 1686535648,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1643854,
+      "num": 1643854,
+      "word": "王鹤棣田曦薇 大奉打更人",
+      "onboard_time": 1686670050,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1566687,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 858484,
+      "num": 858484,
+      "word": "Jennie回应演唱会中途离场",
+      "onboard_time": 1686665488,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 851473,
       "num": 851473,
       "word": "THE9演唱会",
@@ -859,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 720111,
-      "num": 720111,
-      "word": "Jennie回应演唱会中途离场",
-      "onboard_time": 1686665488,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 715346,
       "num": 715346,
       "word": "Jennie身体状况",
@@ -929,6 +937,14 @@
       "onboard_time": 1686615808,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 600839,
+      "num": 600839,
+      "word": "权志龙又买房了",
+      "onboard_time": 1686669449,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 587268,
@@ -1075,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 514686,
+      "num": 514686,
+      "word": "陈伟霆床咚删减剧情",
+      "onboard_time": 1686668370,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 510977,
       "num": 510977,
       "word": "西瓜白粥",
@@ -1136,14 +1160,6 @@
       "word": "肖战菠萝错位图",
       "onboard_time": 1686616892,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 467754,
-      "num": 467754,
-      "word": "陈伟霆床咚删减剧情",
-      "onboard_time": 1686668370,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1387,14 +1403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357272,
-      "num": 357272,
-      "word": "权志龙又买房了",
-      "onboard_time": 1686669449,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1686651808,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318682,
+      "num": 318682,
+      "word": "反驳型人格",
+      "onboard_time": 1686669329,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 316496,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1686654207,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 264280,
+      "num": 264280,
+      "word": "李耕耘 虽糙但帅",
+      "onboard_time": 1686670708,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 262906,
@@ -2427,14 +2451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221619,
-      "num": 221619,
-      "word": "王鹤棣田曦薇 大奉打更人",
-      "onboard_time": 1686670050,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "YG辟谣Jennie加入漫威",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1686579509,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219462,
+      "num": 219462,
+      "word": "梦是一种心理上的转码过程",
+      "onboard_time": 1686671725,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 219119,
@@ -2601,14 +2625,6 @@
       "onboard_time": 1686618510,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210422,
-      "num": 210422,
-      "word": "反驳型人格",
-      "onboard_time": 1686669329,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 210215,
@@ -2891,6 +2907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195377,
+      "num": 195377,
+      "word": "嵩山音乐节",
+      "onboard_time": 1686669690,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194813,
       "num": 194813,
       "word": "花戎无妻徒刑",
@@ -3153,14 +3177,6 @@
       "onboard_time": 1686573869,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187330,
-      "num": 187330,
-      "word": "嵩山音乐节",
-      "onboard_time": 1686669690,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 186711,
@@ -4052,7 +4068,7 @@
     },
     {
       "raw_hot": 134994,
-      "num": 833332,
+      "num": 848525,
       "word": "20余省已公布高考查分时间",
       "onboard_time": 1686619168,
       "rank": 42,
@@ -4539,6 +4555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104659,
+      "num": 104659,
+      "word": "周翊然张淼怡新剧cp感",
+      "onboard_time": 1686672508,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104584,
       "num": 104584,
       "word": "花店老板被困冷库环卫大叔闻声施救",
@@ -4667,12 +4691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89288,
+      "num": 89288,
+      "word": "梦中的那片海婚恋观",
+      "onboard_time": 1686671847,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88894,
       "num": 88894,
       "word": "孟佳王霏霏10年前vs现在合照",
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86883,
+      "num": 86883,
+      "word": "高中文化程度短时间掌握了大学课程",
+      "onboard_time": 1686672687,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 86132,

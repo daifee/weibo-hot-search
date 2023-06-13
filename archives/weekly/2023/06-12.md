@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/13 23:34:03
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/14 00:22:30
 </p>
 </blockquote>
 <p>
@@ -191,6 +191,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B8%8C%E4%BE%83%E9%81%93%E6%AD%89%23" target="weibo">
 李希侃道歉（热度：1677009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
+王鹤棣田曦薇 大奉打更人（热度：1643854）
 </a>
 </li>
 
@@ -531,6 +537,12 @@ Rain 街舞6（热度：1075379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
+Jennie回应演唱会中途离场（热度：858484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23THE9%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 THE9演唱会（热度：851473）
 </a>
@@ -657,12 +669,6 @@ Uzi首发对战iG（热度：759138）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
-Jennie回应演唱会中途离场（热度：720111）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%23" target="weibo">
 Jennie身体状况（热度：715346）
 </a>
@@ -707,6 +713,12 @@ Jennie身体状况（热度：715346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E6%8E%A7%E8%AE%B0%E5%BD%95%E4%BA%86%E6%88%91%E6%9D%A5%E5%A7%A8%E5%A6%88%E7%9A%84%E7%9E%AC%E9%97%B4%23" target="weibo">
 监控记录了我来姨妈的瞬间（热度：637198）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
+权志龙又买房了（热度：600839）
 </a>
 </li>
 
@@ -819,6 +831,12 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：562941）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BA%8A%E5%92%9A%E5%88%A0%E5%87%8F%E5%89%A7%E6%83%85%23" target="weibo">
+陈伟霆床咚删减剧情（热度：514686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%93%9C%E7%99%BD%E7%B2%A5%23" target="weibo">
 西瓜白粥（热度：510977）
 </a>
@@ -863,12 +881,6 @@ Angelababy卷发双马尾（热度：490507）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%8F%A0%E8%90%9D%E9%94%99%E4%BD%8D%E5%9B%BE%23" target="weibo">
 肖战菠萝错位图（热度：470214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BA%8A%E5%92%9A%E5%88%A0%E5%87%8F%E5%89%A7%E6%83%85%23" target="weibo">
-陈伟霆床咚删减剧情（热度：467754）
 </a>
 </li>
 
@@ -1053,12 +1065,6 @@ EXO专辑（热度：363488）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
-权志龙又买房了（热度：357272）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%BB%84%E7%80%9B%E5%AD%90%E6%9C%80%E6%96%B0%E8%8A%B1%E7%B5%AE%E5%9B%BE%23" target="weibo">
 杨紫黄瀛子最新花絮图（热度：356589）
 </a>
@@ -1217,6 +1223,12 @@ infp（热度：320184）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%23" target="weibo">
 长风渡（热度：319573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%A9%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
+反驳型人格（热度：318682）
 </a>
 </li>
 
@@ -1451,6 +1463,12 @@ BBC卧底记者（热度：286071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9%23" target="weibo">
 教资面试成绩（热度：267206）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%80%95%E8%80%98%20%E8%99%BD%E7%B3%99%E4%BD%86%E5%B8%85%23" target="weibo">
+李耕耘 虽糙但帅（热度：264280）
 </a>
 </li>
 
@@ -1833,12 +1851,6 @@ SMTOWN没有给EXO划分制作中心（热度：222688）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
-王鹤棣田曦薇 大奉打更人（热度：221619）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E8%BE%9F%E8%B0%A3Jennie%E5%8A%A0%E5%85%A5%E6%BC%AB%E5%A8%81%23" target="weibo">
 YG辟谣Jennie加入漫威（热度：220621）
 </a>
@@ -1847,6 +1859,12 @@ YG辟谣Jennie加入漫威（热度：220621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%91%8A%E5%88%AB%E6%8A%A4%E5%BF%83plog%23" target="weibo">
 侯明昊告别护心plog（热度：219566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
+梦是一种心理上的转码过程（热度：219462）
 </a>
 </li>
 
@@ -1961,12 +1979,6 @@ NewJeans换妆造了（热度：216341）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E5%8F%91%E7%94%9F%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%23" target="weibo">
 教体局回应校长与女教师发生肢体冲突（热度：210434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%A9%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
-反驳型人格（热度：210422）
 </a>
 </li>
 
@@ -2181,6 +2193,12 @@ WBG失误（热度：196330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+嵩山音乐节（热度：195377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%88%8E%E6%97%A0%E5%A6%BB%E5%BE%92%E5%88%91%23" target="weibo">
 花戎无妻徒刑（热度：194813）
 </a>
@@ -2375,12 +2393,6 @@ WBG失误（热度：196330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%BA%94%E6%8F%B4%E7%89%A9%E5%93%81%E5%85%8D%E8%B4%B9%E5%8F%91%23" target="weibo">
 鹿晗应援物品免费发（热度：187366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-嵩山音乐节（热度：187330）
 </a>
 </li>
 
@@ -3417,6 +3429,12 @@ light（热度：104927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%BC%A0%E6%B7%BC%E6%80%A1%E6%96%B0%E5%89%A7cp%E6%84%9F%23" target="weibo">
+周翊然张淼怡新剧cp感（热度：104659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BA%97%E8%80%81%E6%9D%BF%E8%A2%AB%E5%9B%B0%E5%86%B7%E5%BA%93%E7%8E%AF%E5%8D%AB%E5%A4%A7%E5%8F%94%E9%97%BB%E5%A3%B0%E6%96%BD%E6%95%91%23" target="weibo">
 花店老板被困冷库环卫大叔闻声施救（热度：104584）
 </a>
@@ -3513,8 +3531,20 @@ light（热度：104927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%E5%A9%9A%E6%81%8B%E8%A7%82%23" target="weibo">
+梦中的那片海婚恋观（热度：89288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%8E%8B%E9%9C%8F%E9%9C%8F10%E5%B9%B4%E5%89%8Dvs%E7%8E%B0%E5%9C%A8%E5%90%88%E7%85%A7%23" target="weibo">
 孟佳王霏霏10年前vs现在合照（热度：88894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9F%AD%E6%97%B6%E9%97%B4%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B%23" target="weibo">
+高中文化程度短时间掌握了大学课程（热度：86883）
 </a>
 </li>
 
