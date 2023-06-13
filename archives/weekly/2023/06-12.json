@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686612831866,
+  "endTime": 1686620469463,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -107,12 +107,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1866627,
+      "num": 1866627,
+      "word": "发小喊了四年终于离职了",
+      "onboard_time": 1686615449,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1864328,
       "num": 1864328,
       "word": "找工作被确诊弱智",
       "onboard_time": 1686542373,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1819415,
+      "num": 1819415,
+      "word": "现代人已经不吃鸡汤了",
+      "onboard_time": 1686610940,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1792193,
@@ -153,6 +169,14 @@
       "onboard_time": 1686567149,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1519409,
+      "num": 623083,
+      "word": "杭州师范大学",
+      "onboard_time": 1686611720,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1507639,
@@ -315,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1073295,
+      "num": 1073295,
+      "word": "杜海涛卡点晒照为沈梦辰庆生",
+      "onboard_time": 1686613284,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1042877,
+      "num": 1042877,
+      "word": "成都地铁男子偷拍女生后当面删掉",
+      "onboard_time": 1686618690,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1031231,
       "num": 1031231,
       "word": "江歌妈妈将赔偿款全额捐出",
@@ -363,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 901439,
+      "num": 901439,
+      "word": "朴灿烈 单封",
+      "onboard_time": 1686614549,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 896426,
       "num": 896426,
       "word": "余生夫妇vs春晓夫妇",
@@ -395,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 836068,
+      "num": 364602,
+      "word": "起床时千万不要立刻叠被子",
+      "onboard_time": 1686615268,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 828140,
       "num": 828140,
       "word": "警方介入调查一女生遭多名学生掌掴",
@@ -409,6 +465,14 @@
       "onboard_time": 1686466886,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 812674,
+      "num": 812674,
+      "word": "姆巴佩拒绝与巴黎续约",
+      "onboard_time": 1686615449,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 784371,
@@ -475,14 +539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 723234,
-      "num": 328640,
-      "word": "现代人已经不吃鸡汤了",
-      "onboard_time": 1686610940,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 722852,
       "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
@@ -507,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 693856,
+      "num": 693856,
+      "word": "60岁阿姨健身22年后的样子",
+      "onboard_time": 1686571227,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653921,
       "num": 653921,
       "word": "沈月捧花头像",
@@ -515,20 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 623083,
-      "num": 623083,
-      "word": "杭州师范大学",
-      "onboard_time": 1686611720,
-      "rank": 42,
-      "category": "社会新闻,教育"
+      "raw_hot": 641372,
+      "num": 362257,
+      "word": "全麻手术醒后可以有多社死",
+      "onboard_time": 1686612924,
+      "rank": 21,
+      "category": "幽默"
     },
     {
-      "raw_hot": 600576,
-      "num": 600576,
-      "word": "60岁阿姨健身22年后的样子",
-      "onboard_time": 1686571227,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 637198,
+      "num": 358770,
+      "word": "监控记录了我来姨妈的瞬间",
+      "onboard_time": 1686615808,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 587268,
@@ -651,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470214,
+      "num": 470214,
+      "word": "肖战菠萝错位图",
+      "onboard_time": 1686616892,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 465748,
+      "num": 354727,
+      "word": "对父母谎报价格最离谱的一次",
+      "onboard_time": 1686612864,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 463596,
       "num": 319200,
       "word": "王一博两部作品入围传媒关注单元",
@@ -673,6 +753,14 @@
       "onboard_time": 1686560249,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435816,
+      "num": 350845,
+      "word": "奔跑吧泰国站最惊艳的人",
+      "onboard_time": 1686618151,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 434002,
@@ -803,6 +891,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 350792,
+      "num": 350792,
+      "word": "RNG sin",
+      "onboard_time": 1686615148,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350451,
       "num": 350451,
       "word": "心动的信号6",
@@ -849,6 +945,14 @@
       "onboard_time": 1686557068,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331249,
+      "num": 331249,
+      "word": "女生骂男生偷拍变态后称认错人了",
+      "onboard_time": 1686617551,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330946,
@@ -1051,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271999,
+      "num": 271999,
+      "word": "NBA总决赛",
+      "onboard_time": 1686619888,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270364,
       "num": 270364,
       "word": "才知道实习生工资比我高",
@@ -1081,6 +1193,14 @@
       "onboard_time": 1686578911,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261000,
+      "num": 261000,
+      "word": "美脱口秀演员拿马航失联玩梗拒不道歉",
+      "onboard_time": 1686616468,
+      "rank": 28,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 260497,
@@ -1179,6 +1299,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 245336,
+      "num": 245336,
+      "word": "猫的疼痛程度",
+      "onboard_time": 1686616711,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 243743,
       "num": 243743,
       "word": "肖春生 我本桀骜少年臣",
@@ -1193,6 +1321,14 @@
       "onboard_time": 1686582630,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242648,
+      "num": 242648,
+      "word": "德国警方回复中国光伏企业高管被带走",
+      "onboard_time": 1686617670,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240360,
@@ -1273,6 +1409,14 @@
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229545,
+      "num": 229545,
+      "word": "原来真有人叫白雪公主",
+      "onboard_time": 1686615209,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 228493,
@@ -1425,6 +1569,14 @@
       "onboard_time": 1686462028,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210434,
+      "num": 210434,
+      "word": "教体局回应校长与女教师发生肢体冲突",
+      "onboard_time": 1686618510,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210215,
@@ -1803,6 +1955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177347,
+      "num": 177347,
+      "word": "奔跑吧收官夕阳大合照",
+      "onboard_time": 1686612982,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174455,
       "num": 174455,
       "word": "白鹿陈都灵戴了同款耳饰",
@@ -1915,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162284,
+      "num": 162284,
+      "word": "吴青峰为陈绮贞发文",
+      "onboard_time": 1686613225,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161474,
       "num": 161474,
       "word": "杨幂复古风搭双马尾",
@@ -2019,6 +2187,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 148328,
+      "num": 148328,
+      "word": "陈伟霆火场吻戏",
+      "onboard_time": 1686615268,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148295,
+      "num": 148295,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147345,
       "num": 147345,
       "word": "原来人是突然就开始工作的",
@@ -2083,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140436,
+      "num": 140436,
+      "word": "周翊然张陆让",
+      "onboard_time": 1686617130,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140005,
       "num": 140005,
       "word": "柯文哲妄称若当选将瘫痪大陆高铁",
@@ -2131,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137462,
+      "num": 137462,
+      "word": "职场上不会拒绝的人有福了",
+      "onboard_time": 1686620070,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 137317,
       "num": 137317,
       "word": "马思纯赵今麦李兰迪同品牌拍摄",
@@ -2161,6 +2361,22 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 134994,
+      "num": 134994,
+      "word": "20余省已公布高考查分时间",
+      "onboard_time": 1686619168,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 134598,
+      "num": 134598,
+      "word": "台湾老兵见家乡变好感慨腰杆挺直了",
+      "onboard_time": 1686618391,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134589,
@@ -2195,6 +2411,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132246,
+      "num": 132246,
+      "word": "鞠婧祎新剧吻戏好多",
+      "onboard_time": 1686620370,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130445,
       "num": 130445,
       "word": "KPL夏日解锁新姿势",
@@ -2217,6 +2441,14 @@
       "onboard_time": 1686489751,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129337,
+      "num": 129337,
+      "word": "教授组团做科普意外成招生简章",
+      "onboard_time": 1686620008,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 128806,
@@ -2243,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "NCTDREAM正规三辑ISTJ",
+      "onboard_time": 1686616772,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127627,
       "num": 127627,
       "word": "贵阳Z纪元山湖音乐节",
@@ -2267,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "高考准考证志愿表等尽量别公开晒图",
+      "onboard_time": 1686620248,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 123981,
       "num": 139581,
       "word": "魔鬼鱼的大规模迁徙",
@@ -2281,6 +2529,14 @@
       "onboard_time": 1686525741,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123514,
+      "num": 123514,
+      "word": "大叔与快递小哥合力救下溺水女子",
+      "onboard_time": 1686619528,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 122812,
@@ -2387,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112387,
+      "num": 1512304,
+      "word": "短途游3小时高铁圈",
+      "onboard_time": 1686577470,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112105,
       "num": 112105,
       "word": "曝光大叔女子道歉后舆论为何未平息",
@@ -2400,14 +2664,6 @@
       "word": "交警车流中小跑救下被撞伤小猫",
       "onboard_time": 1686534687,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110438,
-      "num": 1512304,
-      "word": "短途游3小时高铁圈",
-      "onboard_time": 1686577470,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2601,6 +2857,14 @@
       "onboard_time": 1686612081,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78963,
+      "num": 479641,
+      "word": "掘金冲击队史第一冠",
+      "onboard_time": 1686618029,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 76486,
