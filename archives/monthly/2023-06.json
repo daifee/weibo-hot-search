@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686660620396,
+  "endTime": 1686662409320,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -233,6 +233,14 @@
       "onboard_time": 1686210632,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3250485,
+      "num": 2546927,
+      "word": "性化幼女的童装不叫穿衣自由",
+      "onboard_time": 1686657027,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3236035,
@@ -497,14 +505,6 @@
       "onboard_time": 1686111107,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 2546927,
-      "num": 2546927,
-      "word": "性化幼女的童装不叫穿衣自由",
-      "onboard_time": 1686657027,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2545357,
@@ -873,6 +873,14 @@
       "onboard_time": 1686227851,
       "rank": 25,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2115387,
+      "num": 2115387,
+      "word": "笑果旗下公司擅自演出被罚",
+      "onboard_time": 1686656547,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2112539,
@@ -1385,14 +1393,6 @@
       "onboard_time": 1686500126,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1771352,
-      "num": 1771352,
-      "word": "笑果旗下公司擅自演出被罚",
-      "onboard_time": 1686656547,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1769134,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1685790448,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1479221,
+      "num": 1479221,
+      "word": "猫的树好会拍",
+      "onboard_time": 1686657329,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1478298,
@@ -2969,14 +2977,6 @@
       "onboard_time": 1686553050,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1195816,
-      "num": 1195816,
-      "word": "猫的树好会拍",
-      "onboard_time": 1686657329,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1191166,
@@ -5187,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774375,
+      "num": 774375,
+      "word": "有刘海的周也",
+      "onboard_time": 1686657630,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773096,
       "num": 773096,
       "word": "肝脏移植前后肤色对比",
@@ -6227,6 +6235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 620392,
+      "num": 620392,
+      "word": "梅西说不会参加下届世界杯",
+      "onboard_time": 1686659067,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 619931,
       "num": 619931,
       "word": "大半个娱乐圈都在江苏吧",
@@ -7025,14 +7041,6 @@
       "onboard_time": 1686296670,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 531773,
-      "num": 531773,
-      "word": "有刘海的周也",
-      "onboard_time": 1686657630,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 531758,
@@ -8939,6 +8947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396563,
+      "num": 396563,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 396109,
       "num": 396109,
       "word": "迪奥",
@@ -10395,6 +10411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338214,
+      "num": 338214,
+      "word": "EDG拿下CN瓦首胜",
+      "onboard_time": 1686661286,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 337960,
       "num": 275757,
       "word": "微博电影之夜红毯谁赢了",
@@ -11003,6 +11027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319028,
+      "num": 319028,
+      "word": "Jennie曾说自己像老奶奶一样浑身是病",
+      "onboard_time": 1686661468,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318718,
       "num": 318718,
       "word": "专家提醒不能靠彩票发财",
@@ -11115,14 +11147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315325,
-      "num": 315325,
-      "word": "梅西说不会参加下届世界杯",
-      "onboard_time": 1686659067,
-      "rank": 23,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 315194,
       "num": 315194,
       "word": "光遇",
@@ -11137,14 +11161,6 @@
       "onboard_time": 1686394850,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314429,
-      "num": 314429,
-      "word": "中学回应疑地铁女子高中同学发声",
-      "onboard_time": 1686659008,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 314357,
@@ -13931,6 +13947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257483,
+      "num": 257483,
+      "word": "和爸爸骑游中国的白血病男孩离世",
+      "onboard_time": 1686657267,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257273,
       "num": 257273,
       "word": "BLG战胜EDG",
@@ -14433,6 +14457,14 @@
       "onboard_time": 1686444688,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 250798,
+      "num": 250798,
+      "word": "肖春生尽力了",
+      "onboard_time": 1686657748,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 250787,
@@ -17411,14 +17443,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 211721,
-      "num": 211721,
-      "word": "和爸爸骑游中国的白血病男孩离世",
-      "onboard_time": 1686657267,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211654,
       "num": 211654,
       "word": "只有考研生才知道的梗",
@@ -17859,6 +17883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207417,
+      "num": 207417,
+      "word": "小S支持林志玲回归家庭",
+      "onboard_time": 1686661827,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207317,
       "num": 207317,
       "word": "Jennie曼谷演唱会不划水",
@@ -17920,14 +17952,6 @@
       "word": "易烊千玺上影节预备会议生图",
       "onboard_time": 1686299310,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 206881,
-      "num": 206881,
-      "word": "肖春生尽力了",
-      "onboard_time": 1686657748,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -18048,6 +18072,14 @@
       "word": "点燃了暑期的爆款剧",
       "onboard_time": 1686235773,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204914,
+      "num": 204914,
+      "word": "肖春生佟晓梅疯狂上分",
+      "onboard_time": 1686662009,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -22819,6 +22851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158903,
+      "num": 400974,
+      "word": "好消息学位服上新坏消息我毕业了",
+      "onboard_time": 1686658527,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158881,
       "num": 158881,
       "word": "迪丽热巴台词空耳挑战",
@@ -23619,6 +23659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150071,
+      "num": 150071,
+      "word": "肖战家人对梦中的那片海的评价",
+      "onboard_time": 1686656846,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150002,
       "num": 150002,
       "word": "UP战胜FPX",
@@ -23955,6 +24003,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 145696,
+      "num": 145696,
+      "word": "10后女孩吵架开始拼妹",
+      "onboard_time": 1686658827,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145444,
       "num": 145444,
       "word": "惠英红张小斐牵手",
@@ -24136,14 +24192,6 @@
       "word": "贺红玲你把钢笔还回来",
       "onboard_time": 1686350236,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 143267,
-      "num": 143267,
-      "word": "肖战家人对梦中的那片海的评价",
-      "onboard_time": 1686656846,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -25283,14 +25331,6 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 129375,
-      "num": 400974,
-      "word": "好消息学位服上新坏消息我毕业了",
-      "onboard_time": 1686658527,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129337,
       "num": 129337,
       "word": "教授组团做科普意外成招生简章",
@@ -25377,6 +25417,14 @@
       "onboard_time": 1686640948,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128705,
+      "num": 128705,
+      "word": "梦中的那片海小惠被家暴",
+      "onboard_time": 1686657805,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 128557,
@@ -25843,6 +25891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121969,
+      "num": 121969,
+      "word": "年轻人不爱发朋友圈的原因",
+      "onboard_time": 1686661889,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121928,
       "num": 121928,
       "word": "想看狐妖竹业篇的路透有多难",
@@ -25913,6 +25969,14 @@
       "onboard_time": 1685787086,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120948,
+      "num": 120948,
+      "word": "陈乔恩台偶女王",
+      "onboard_time": 1686660208,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 120922,
@@ -26201,14 +26265,6 @@
       "onboard_time": 1686316950,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 117958,
-      "num": 117958,
-      "word": "10后女孩吵架开始拼妹",
-      "onboard_time": 1686658827,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 117938,
@@ -26611,14 +26667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 112337,
-      "num": 112337,
-      "word": "梦中的那片海小惠被家暴",
-      "onboard_time": 1686657805,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 112317,
       "num": 112317,
       "word": "你家请保姆会限制年龄吗",
@@ -26665,6 +26713,14 @@
       "onboard_time": 1686534687,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111680,
+      "num": 111680,
+      "word": "笑果回应擅自演出被罚",
+      "onboard_time": 1686662309,
+      "rank": 47,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 111598,
@@ -27353,6 +27409,14 @@
       "onboard_time": 1686466588,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97753,
+      "num": 97753,
+      "word": "长大后终于知道了咖啡的味道",
+      "onboard_time": 1686661648,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97416,
@@ -29027,6 +29091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49613,
+      "num": 490235,
+      "word": "余额宝上线第十年",
+      "onboard_time": 1686661230,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49474,
       "num": 1799737,
       "word": "全国网络普法行江西站",
@@ -29721,6 +29793,14 @@
       "onboard_time": 1686384028,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21824,
+      "num": 1135833,
+      "word": "当夏日美景遇上古诗词",
+      "onboard_time": 1686643707,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21565,
