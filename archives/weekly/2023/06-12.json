@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686640554262,
+  "endTime": 1686641615276,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1847935,
+      "num": 817538,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1819415,
       "num": 1819415,
       "word": "现代人已经不吃鸡汤了",
@@ -275,8 +283,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1394485,
-      "num": 1394485,
+      "raw_hot": 1417010,
+      "num": 1417010,
       "word": "刘鑫不服二审判决申请再审",
       "onboard_time": 1686632673,
       "rank": 24,
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1264758,
+      "num": 1264758,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1237328,
       "num": 1237328,
       "word": "何瑞贤新剧刚怀孕就被陷害流产",
@@ -337,14 +353,6 @@
       "onboard_time": 1686545674,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1209808,
-      "num": 1209808,
-      "word": "孟子义没考上军艺的原因",
-      "onboard_time": 1686633688,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1202288,
@@ -483,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 941110,
+      "num": 941110,
+      "word": "范丞丞 跑男真的没有剧本",
+      "onboard_time": 1686636330,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 905633,
       "num": 905633,
       "word": "贝卢斯科尼去世",
@@ -547,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 861131,
-      "num": 861131,
-      "word": "范丞丞 跑男真的没有剧本",
-      "onboard_time": 1686636330,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 851473,
       "num": 851473,
       "word": "THE9演唱会",
@@ -577,14 +585,6 @@
       "onboard_time": 1686557250,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817538,
-      "num": 817538,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 817302,
@@ -649,6 +649,14 @@
       "onboard_time": 1686571227,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744175,
+      "num": 744175,
+      "word": "赵露思好美",
+      "onboard_time": 1686640046,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 744113,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 442725,
-      "num": 272362,
+      "num": 287377,
       "word": "沈月初一身高1米33",
       "onboard_time": 1686637286,
       "rank": 23,
@@ -1123,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347084,
+      "num": 347084,
+      "word": "张柏芝 好能打的一张脸",
+      "onboard_time": 1686639746,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 343025,
       "num": 343025,
       "word": "let me in",
@@ -1137,6 +1153,22 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342319,
+      "num": 342319,
+      "word": "宝格丽",
+      "onboard_time": 1686639865,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 341898,
+      "num": 341898,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 341771,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1686621389,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313877,
-      "num": 313877,
-      "word": "赵露思好美",
-      "onboard_time": 1686640046,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 312786,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1686627990,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 271333,
-      "num": 271333,
-      "word": "后来呢 我们分开了",
-      "onboard_time": 1686636986,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 270364,
@@ -1835,14 +1851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226406,
-      "num": 226406,
-      "word": "张柏芝 好能打的一张脸",
-      "onboard_time": 1686639746,
-      "rank": 29,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 225857,
       "num": 225857,
       "word": "成都地铁",
@@ -1883,14 +1891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222506,
-      "num": 222506,
-      "word": "宝格丽",
-      "onboard_time": 1686639865,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "YG辟谣Jennie加入漫威",
@@ -1905,6 +1905,14 @@
       "onboard_time": 1686579509,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219501,
+      "num": 219501,
+      "word": "林心如首带女儿做公益",
+      "onboard_time": 1686640706,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 219119,
@@ -2011,6 +2019,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 210904,
+      "num": 210904,
+      "word": "台偶收视率前二十",
+      "onboard_time": 1686639446,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210752,
       "num": 210752,
       "word": "都给马思纯p成啥样了",
@@ -2107,14 +2123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203262,
-      "num": 203262,
-      "word": "台偶收视率前二十",
-      "onboard_time": 1686639446,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203014,
       "num": 203014,
       "word": "千万不要在公司展现其他技能",
@@ -2155,12 +2163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201867,
+      "num": 201867,
+      "word": "当我飞奔向你",
+      "onboard_time": 1686640406,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201648,
       "num": 201648,
       "word": "乐华2023家族演唱会艺人阵容",
       "onboard_time": 1686554788,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201507,
+      "num": 201507,
+      "word": "杨迪被认成狂飙里的麻子",
+      "onboard_time": 1686638606,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 200853,
@@ -2795,14 +2819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153983,
-      "num": 153983,
-      "word": "当我飞奔向你",
-      "onboard_time": 1686640406,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 153467,
       "num": 153467,
       "word": "电影消失的她",
@@ -2977,14 +2993,6 @@
       "onboard_time": 1686541832,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142873,
-      "num": 142873,
-      "word": "杨迪被认成狂飙里的麻子",
-      "onboard_time": 1686638606,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 142598,
@@ -3211,6 +3219,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 128741,
+      "num": 128741,
+      "word": "张靓颖新歌潮光高音",
+      "onboard_time": 1686640948,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "女子漂流翻船黑衣男子跳水救人",
@@ -3371,12 +3387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118597,
+      "num": 118597,
+      "word": "花戎产子",
+      "onboard_time": 1686641487,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118409,
       "num": 137991,
       "word": "谭维维清唱绽放致敬张桂梅",
       "onboard_time": 1686545616,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118133,
+      "num": 118133,
+      "word": "第一视角给小海獭宝宝洗澡",
+      "onboard_time": 1686641426,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117213,
@@ -3731,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54962,
+      "num": 1228777,
+      "word": "复兴号即将在青藏铁路运营",
+      "onboard_time": 1686625288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49474,
       "num": 1799737,
       "word": "全国网络普法行江西站",
@@ -3744,6 +3784,14 @@
       "word": "新时代北京的精气神",
       "onboard_time": 1686589877,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46354,
+      "num": 347949,
+      "word": "北京一退休医生为居民义诊2100小时",
+      "onboard_time": 1686639685,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3803,14 +3851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31689,
-      "num": 1112135,
-      "word": "复兴号即将在青藏铁路运营",
-      "onboard_time": 1686625288,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26741,
       "num": 29881,
       "word": "广州南站客服回应按摩椅现虫子",
@@ -3825,14 +3865,6 @@
       "onboard_time": 1686593056,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24438,
-      "num": 347318,
-      "word": "北京一退休医生为居民义诊2100小时",
-      "onboard_time": 1686639685,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24244,
