@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686651478179,
+  "endTime": 1686652431496,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -43,6 +43,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1978253,
+      "num": 1978253,
+      "word": "高考后妹妹得知姐姐已去世一个月",
+      "onboard_time": 1686646407,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1970284,
       "num": 1970284,
       "word": "夸克",
@@ -65,14 +73,6 @@
       "onboard_time": 1686610940,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1788972,
-      "num": 1788972,
-      "word": "高考后妹妹得知姐姐已去世一个月",
-      "onboard_time": 1686646407,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1700934,
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1274445,
+      "num": 1045147,
+      "word": "刘浩存任敏高中时期自拍照",
+      "onboard_time": 1686644908,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1264758,
       "num": 1264758,
       "word": "孟子义没考上军艺的原因",
       "onboard_time": 1686633688,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1261029,
-      "num": 1045147,
-      "word": "刘浩存任敏高中时期自拍照",
-      "onboard_time": 1686644908,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118116,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1065996,
+      "num": 1065996,
+      "word": "强戒小伙戴着手脚铐领证结婚",
+      "onboard_time": 1686645807,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064802,
       "num": 1064802,
       "word": "张柏芝 好能打的一张脸",
@@ -225,6 +233,14 @@
       "onboard_time": 1686636330,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1014533,
+      "num": 1014533,
+      "word": "格力主播穿免职裙",
+      "onboard_time": 1686649948,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 983744,
@@ -283,14 +299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 849620,
-      "num": 849620,
-      "word": "强戒小伙戴着手脚铐领证结婚",
-      "onboard_time": 1686645807,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 836068,
       "num": 425025,
       "word": "起床时千万不要立刻叠被子",
@@ -307,11 +315,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 796248,
+      "num": 796248,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 785216,
       "num": 688773,
       "word": "男子称在洗浴中心被男性猥亵",
       "onboard_time": 1686620127,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774087,
+      "num": 774087,
+      "word": "杭师大涉事男生发声",
+      "onboard_time": 1686649407,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704768,
-      "num": 704768,
-      "word": "杭师大涉事男生发声",
-      "onboard_time": 1686649407,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 701003,
       "num": 701003,
       "word": "赵露思造型师换成闵塔鲨了",
@@ -361,6 +377,14 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690784,
+      "num": 690784,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 668496,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 633192,
-      "num": 763206,
+      "num": 1014773,
       "word": "房东回应女孩结婚退租时打扫干净房子",
       "onboard_time": 1686644188,
       "rank": 38,
@@ -409,14 +433,6 @@
       "onboard_time": 1686577292,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587266,
-      "num": 587266,
-      "word": "王传君 INFP",
-      "onboard_time": 1686648449,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 579009,
@@ -443,11 +459,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 570382,
-      "num": 570382,
-      "word": "格力主播穿免职裙",
-      "onboard_time": 1686649948,
-      "rank": 13,
+      "raw_hot": 515380,
+      "num": 515380,
+      "word": "312斤女网红在减肥营离世年仅21岁",
+      "onboard_time": 1686650368,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 295909,
+      "num": 295909,
+      "word": "男生发文称被研三学姐偷走4杯喜茶",
+      "onboard_time": 1686650430,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294381,
       "num": 266233,
       "word": "蔡徐坤多巴胺穿搭",
@@ -747,14 +771,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 263237,
-      "num": 263237,
-      "word": "詹雯婷控告陈建宁反遭起诉",
-      "onboard_time": 1686648629,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262906,
       "num": 262906,
       "word": "九尾直播",
@@ -779,20 +795,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 261335,
-      "num": 261335,
-      "word": "312斤女网红在减肥营离世年仅21岁",
-      "onboard_time": 1686650368,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259234,
       "num": 259234,
       "word": "杨幂无限流自拍",
       "onboard_time": 1686637587,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259208,
+      "num": 259208,
+      "word": "鞠婧祎锁骨窝好明显",
+      "onboard_time": 1686651208,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255546,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221756,
+      "num": 221756,
+      "word": "infp",
+      "onboard_time": 1686651149,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "我家最具有女性主义精神的是我女儿",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1686644489,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 213894,
+      "num": 213894,
+      "word": "李沁庆余年2进组路透",
+      "onboard_time": 1686650065,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 210434,
@@ -1091,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201275,
+      "num": 201275,
+      "word": "长风渡",
+      "onboard_time": 1686651808,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200080,
       "num": 200080,
       "word": "职场上不会拒绝的人有福了",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1686579751,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198259,
-      "num": 198259,
-      "word": "男生发文称被研三学姐偷走4杯喜茶",
-      "onboard_time": 1686650430,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198065,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1686626250,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192537,
+      "num": 837864,
+      "word": "男子被困冷库环卫工路过救一命",
+      "onboard_time": 1686646826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191181,
@@ -1267,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181897,
+      "num": 181897,
+      "word": "部落冲突",
+      "onboard_time": 1686651630,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180684,
       "num": 180684,
       "word": "公司背调要不要经过本人同意",
@@ -1299,14 +1347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177583,
-      "num": 177583,
-      "word": "infp",
-      "onboard_time": 1686651149,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177347,
       "num": 177347,
       "word": "奔跑吧收官夕阳大合照",
@@ -1323,28 +1363,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177146,
-      "num": 177146,
-      "word": "鞠婧祎锁骨窝好明显",
-      "onboard_time": 1686651208,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 175592,
       "num": 175592,
       "word": "Amber追竞人的一天",
       "onboard_time": 1686647788,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172900,
-      "num": 726274,
-      "word": "男子被困冷库环卫工路过救一命",
-      "onboard_time": 1686646826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168921,
@@ -1443,12 +1467,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 157020,
-      "num": 157020,
-      "word": "李沁庆余年2进组路透",
-      "onboard_time": 1686650065,
+      "raw_hot": 156148,
+      "num": 153544,
+      "word": "沈月周柯宇牵牵",
+      "onboard_time": 1686651508,
       "rank": 38,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 155110,
@@ -1667,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131991,
+      "num": 131991,
+      "word": "民警给猫头鹰幼崽喂饭絮絮叨叨",
+      "onboard_time": 1686651747,
+      "rank": 46,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 131404,
       "num": 131404,
       "word": "猫突然入镜被男子推下山崖",
@@ -1715,12 +1747,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126880,
+      "num": 126880,
+      "word": "想画画的心是拦不住的",
+      "onboard_time": 1686652349,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123514,
       "num": 123514,
       "word": "大叔与快递小哥合力救下溺水女子",
       "onboard_time": 1686619528,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 123059,
+      "num": 123059,
+      "word": "EDG对阵NAVI",
+      "onboard_time": 1686652108,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 121353,
@@ -1883,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95412,
+      "num": 567887,
+      "word": "小伙用泥塑帮300人复活亲人样貌",
+      "onboard_time": 1686650430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93336,
       "num": 93336,
       "word": "EXO先行曲MV",
@@ -1984,14 +2040,6 @@
       "word": "新时代北京的精气神",
       "onboard_time": 1686589877,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46694,
-      "num": 567887,
-      "word": "小伙用泥塑帮300人复活亲人样貌",
-      "onboard_time": 1686650430,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
