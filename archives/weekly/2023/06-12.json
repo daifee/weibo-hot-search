@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686637300156,
+  "endTime": 1686638082638,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -315,8 +315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1257893,
-      "num": 1257893,
+      "raw_hot": 1262154,
+      "num": 1262154,
       "word": "刘鑫不服二审判决申请再审",
       "onboard_time": 1686632673,
       "rank": 24,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1118116,
+      "num": 1118116,
+      "word": "为什么夏天都不穿凉鞋了",
+      "onboard_time": 1686634286,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1110952,
       "num": 1110952,
       "word": "初级会计",
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1023333,
-      "num": 1023333,
-      "word": "为什么夏天都不穿凉鞋了",
-      "onboard_time": 1686634286,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1010954,
       "num": 1010954,
       "word": "白敬亭工作室向粉丝道歉",
       "onboard_time": 1686541052,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1004439,
+      "num": 1004439,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 974128,
@@ -569,14 +577,6 @@
       "onboard_time": 1686466886,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 813399,
-      "num": 813399,
-      "word": "孟子义没考上军艺的原因",
-      "onboard_time": 1686633688,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 812674,
@@ -963,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405865,
+      "num": 405865,
+      "word": "杨幂的特长是美",
+      "onboard_time": 1686636387,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405669,
       "num": 405669,
       "word": "这真的是吴彦祖吗",
@@ -984,6 +992,14 @@
       "word": "奔跑吧校服路透",
       "onboard_time": 1686552567,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391949,
+      "num": 391949,
+      "word": "范丞丞 跑男真的没有剧本",
+      "onboard_time": 1686636330,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1009,14 +1025,6 @@
       "onboard_time": 1686579751,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 370218,
-      "num": 370218,
-      "word": "范丞丞 跑男真的没有剧本",
-      "onboard_time": 1686636330,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 368859,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1686537749,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347889,
+      "num": 271023,
+      "word": "沈月初一身高1米33",
+      "onboard_time": 1686637286,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 343025,
@@ -1235,14 +1251,6 @@
       "category": "科技,教育"
     },
     {
-      "raw_hot": 308755,
-      "num": 308755,
-      "word": "杨幂的特长是美",
-      "onboard_time": 1686636387,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307877,
       "num": 220450,
       "word": "高邮",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1686491610,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293044,
-      "num": 251697,
-      "word": "沈月初一身高1米33",
-      "onboard_time": 1686637286,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 291325,
@@ -1483,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259234,
+      "num": 259234,
+      "word": "杨幂无限流自拍",
+      "onboard_time": 1686637587,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258384,
       "num": 258384,
       "word": "杨紫红秀杂志花絮",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1686554548,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239416,
+      "num": 192971,
+      "word": "往上游再往上游",
+      "onboard_time": 1686636986,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 238786,
@@ -2235,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191181,
+      "num": 191181,
+      "word": "义乌市教育局通报小学老师体罚学生",
+      "onboard_time": 1686637826,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190595,
       "num": 190595,
       "word": "从那以后我再也没有穿过高跟鞋了",
@@ -2355,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185741,
+      "num": 185741,
+      "word": "乐华发公告调整开票规则",
+      "onboard_time": 1686637286,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185459,
       "num": 185459,
       "word": "梅西",
@@ -2392,6 +2424,14 @@
       "word": "一巴掌下去眼神都清澈了",
       "onboard_time": 1686493293,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 180684,
+      "num": 180684,
+      "word": "公司背调要不要经过本人同意",
+      "onboard_time": 1686634590,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -2547,14 +2587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166465,
-      "num": 166465,
-      "word": "往上游再往上游",
-      "onboard_time": 1686636986,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165987,
       "num": 165987,
       "word": "卡琳娜芮娜神级cos",
@@ -2585,14 +2617,6 @@
       "onboard_time": 1686630092,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163764,
-      "num": 163764,
-      "word": "公司背调要不要经过本人同意",
-      "onboard_time": 1686634590,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 163648,
@@ -2761,6 +2785,14 @@
       "onboard_time": 1686570748,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148639,
+      "num": 339821,
+      "word": "民警一拥入怀轻生女子说你把我吓死了",
+      "onboard_time": 1686636087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148328,
@@ -3051,6 +3083,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 129176,
+      "num": 129176,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128806,
       "num": 128806,
       "word": "吴京杰森斯坦森外滩吃饺子",
@@ -3195,12 +3235,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119445,
-      "num": 119445,
-      "word": "乐华发公告调整开票规则",
-      "onboard_time": 1686637286,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 119833,
+      "num": 119833,
+      "word": "周深泰国与粉丝合照",
+      "onboard_time": 1686637228,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119327,
@@ -3408,14 +3448,6 @@
       "word": "汉唐风格的西安国家版本馆大气唯美",
       "onboard_time": 1686571769,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99780,
-      "num": 335098,
-      "word": "民警一拥入怀轻生女子说你把我吓死了",
-      "onboard_time": 1686636087,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

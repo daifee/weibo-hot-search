@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686637300156,
+  "endTime": 1686638082638,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -131,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1257893,
-      "num": 1257893,
+      "raw_hot": 1262154,
+      "num": 1262154,
       "word": "刘鑫不服二审判决申请再审",
       "onboard_time": 1686632673,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1118116,
+      "num": 1118116,
+      "word": "为什么夏天都不穿凉鞋了",
+      "onboard_time": 1686634286,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 1110952,
@@ -163,12 +171,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1023333,
-      "num": 1023333,
-      "word": "为什么夏天都不穿凉鞋了",
-      "onboard_time": 1686634286,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 1004439,
+      "num": 1004439,
+      "word": "孟子义没考上军艺的原因",
+      "onboard_time": 1686633688,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 983744,
@@ -233,14 +241,6 @@
       "onboard_time": 1686615268,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 813399,
-      "num": 813399,
-      "word": "孟子义没考上军艺的原因",
-      "onboard_time": 1686633688,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 812674,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405865,
+      "num": 405865,
+      "word": "杨幂的特长是美",
+      "onboard_time": 1686636387,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404847,
       "num": 404847,
       "word": "巴特勒状态",
@@ -411,8 +419,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370218,
-      "num": 370218,
+      "raw_hot": 391949,
+      "num": 391949,
       "word": "范丞丞 跑男真的没有剧本",
       "onboard_time": 1686636330,
       "rank": 12,
@@ -451,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347889,
+      "num": 271023,
+      "word": "沈月初一身高1米33",
+      "onboard_time": 1686637286,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331249,
       "num": 331249,
       "word": "女生骂男生偷拍变态后称认错人了",
@@ -475,28 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308755,
-      "num": 308755,
-      "word": "杨幂的特长是美",
-      "onboard_time": 1686636387,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301637,
       "num": 339323,
       "word": "告五人 抢票",
       "onboard_time": 1686633211,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 293044,
-      "num": 251697,
-      "word": "沈月初一身高1米33",
-      "onboard_time": 1686637286,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 290715,
@@ -579,6 +579,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 259234,
+      "num": 259234,
+      "word": "杨幂无限流自拍",
+      "onboard_time": 1686637587,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255546,
       "num": 255546,
       "word": "姆巴佩去哪",
@@ -625,6 +633,14 @@
       "onboard_time": 1686617670,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239416,
+      "num": 192971,
+      "word": "往上游再往上游",
+      "onboard_time": 1686636986,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 237756,
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191181,
+      "num": 191181,
+      "word": "义乌市教育局通报小学老师体罚学生",
+      "onboard_time": 1686637826,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189577,
       "num": 189577,
       "word": "博士毕业论文900字致谢母亲",
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185741,
+      "num": 185741,
+      "word": "乐华发公告调整开票规则",
+      "onboard_time": 1686637286,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185459,
       "num": 185459,
       "word": "梅西",
@@ -905,6 +937,14 @@
       "onboard_time": 1686628831,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180684,
+      "num": 180684,
+      "word": "公司背调要不要经过本人同意",
+      "onboard_time": 1686634590,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 177347,
@@ -947,14 +987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166465,
-      "num": 166465,
-      "word": "往上游再往上游",
-      "onboard_time": 1686636986,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165987,
       "num": 165987,
       "word": "卡琳娜芮娜神级cos",
@@ -977,14 +1009,6 @@
       "onboard_time": 1686630092,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163764,
-      "num": 163764,
-      "word": "公司背调要不要经过本人同意",
-      "onboard_time": 1686634590,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 162653,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1686570870,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148639,
+      "num": 339821,
+      "word": "民警一拥入怀轻生女子说你把我吓死了",
+      "onboard_time": 1686636087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148534,
@@ -1195,6 +1227,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 129176,
+      "num": 129176,
+      "word": "后来呢 我们分开了",
+      "onboard_time": 1686636986,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127723,
       "num": 127723,
       "word": "NCTDREAM正规三辑ISTJ",
@@ -1243,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119445,
-      "num": 119445,
-      "word": "乐华发公告调整开票规则",
-      "onboard_time": 1686637286,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 119833,
+      "num": 119833,
+      "word": "周深泰国与粉丝合照",
+      "onboard_time": 1686637228,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115140,
@@ -1336,14 +1376,6 @@
       "word": "大熊猫洗澡两个半人摁半个负责洗",
       "onboard_time": 1686554309,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99780,
-      "num": 335098,
-      "word": "民警一拥入怀轻生女子说你把我吓死了",
-      "onboard_time": 1686636087,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
