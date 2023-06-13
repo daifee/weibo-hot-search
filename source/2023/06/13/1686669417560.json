@@ -1,0 +1,410 @@
+{
+  "runTime": 1686669417560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649522,
+        "num": 1649522,
+        "word": "猫的树好会拍",
+        "onboard_time": 1686657329,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 852291,
+        "num": 852291,
+        "word": "笑果旗下公司擅自演出被罚",
+        "onboard_time": 1686656547,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 21868,
+        "num": 785826,
+        "word": "当夏日美景遇上古诗词",
+        "onboard_time": 1686643707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2199760,
+        "num": 783636,
+        "word": "刘亦菲 不在乎别人的想法",
+        "onboard_time": 1686663987,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778423,
+        "num": 778423,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705912,
+        "num": 705912,
+        "word": "肖战摸狗被拒绝",
+        "onboard_time": 1686663209,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 666465,
+        "num": 666465,
+        "word": "Jennie回应演唱会中途离场",
+        "onboard_time": 1686665488,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 642651,
+        "num": 642651,
+        "word": "梅西说不会参加下届世界杯",
+        "onboard_time": 1686659067,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 575508,
+        "num": 575508,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 562846,
+        "num": 562846,
+        "word": "晕车和不晕车的人闻到的气味不一样",
+        "onboard_time": 1686666270,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 896414,
+        "num": 562819,
+        "word": "杭师大涉事男生发声",
+        "onboard_time": 1686649407,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562788,
+        "num": 562788,
+        "word": "天津河东区一小区发生爆炸",
+        "onboard_time": 1686668852,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492225,
+        "num": 492225,
+        "word": "万新村",
+        "onboard_time": 1686665128,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802836,
+        "num": 476990,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 58280,
+        "num": 461650,
+        "word": "孙怡陈都灵孙千刘令姿冷感大片",
+        "onboard_time": 1686668432,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457370,
+        "num": 457370,
+        "word": "312斤女网红在减肥营离世年仅21岁",
+        "onboard_time": 1686650368,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434209,
+        "num": 434209,
+        "word": "梦海给我调到第20集32分17秒",
+        "onboard_time": 1686667411,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398113,
+        "num": 398113,
+        "word": "王传君 INFP",
+        "onboard_time": 1686648449,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385483,
+        "num": 385483,
+        "word": "赵露思造型师换成闵塔鲨了",
+        "onboard_time": 1686642508,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378059,
+        "num": 378059,
+        "word": "Jennie曾说自己像老奶奶一样浑身是病",
+        "onboard_time": 1686661468,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367471,
+        "num": 367471,
+        "word": "房东回应女孩结婚退租时打扫干净房子",
+        "onboard_time": 1686644188,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328970,
+        "num": 328970,
+        "word": "老A到底是谁",
+        "onboard_time": 1686666451,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326108,
+        "num": 326108,
+        "word": "地铁被要微信的大无语事件",
+        "onboard_time": 1686662787,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 312335,
+        "num": 312335,
+        "word": "周翊然少年感",
+        "onboard_time": 1686668010,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303956,
+        "num": 303956,
+        "word": "中学回应疑地铁女子高中同学发声",
+        "onboard_time": 1686659008,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 296318,
+        "num": 296318,
+        "word": "刘浩存任敏高中时期自拍照",
+        "onboard_time": 1686644908,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276696,
+        "num": 276696,
+        "word": "中国女排世联赛5连胜",
+        "onboard_time": 1686668669,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268891,
+        "num": 268891,
+        "word": "陈伟霆床咚删减剧情",
+        "onboard_time": 1686668370,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248036,
+        "num": 248036,
+        "word": "跳钱塘江救人的外卖小哥找到了",
+        "onboard_time": 1686668911,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245325,
+        "num": 245325,
+        "word": "年轻人不爱发朋友圈的原因",
+        "onboard_time": 1686661889,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243303,
+        "num": 243303,
+        "word": "英雄联盟排队",
+        "onboard_time": 1686666027,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243022,
+        "num": 243022,
+        "word": "赵露思好美",
+        "onboard_time": 1686640046,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238782,
+        "num": 238782,
+        "word": "迪丽热巴龚俊将录制你好星期六",
+        "onboard_time": 1686663209,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238748,
+        "num": 238748,
+        "word": "谈恋爱一定要找会沟通的",
+        "onboard_time": 1686667713,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 230115,
+        "num": 230115,
+        "word": "肖春生洞房还穿打底",
+        "onboard_time": 1686668852,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228012,
+        "num": 228012,
+        "word": "Uzi首发对战iG",
+        "onboard_time": 1686669329,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226510,
+        "num": 226510,
+        "word": "LPL",
+        "onboard_time": 1686664590,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208805,
+        "num": 208805,
+        "word": "梅西 很高兴来到中国",
+        "onboard_time": 1686662547,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 201152,
+        "num": 201152,
+        "word": "跑男比耶没告诉沙溢",
+        "onboard_time": 1686664350,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197060,
+        "num": 197060,
+        "word": "男子杀害妻子及妻弟媳",
+        "onboard_time": 1686655947,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196378,
+        "num": 196378,
+        "word": "和爸爸骑游中国的白血病男孩离世",
+        "onboard_time": 1686657267,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187916,
+        "num": 187916,
+        "word": "反驳型人格",
+        "onboard_time": 1686669329,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 182799,
+        "num": 182799,
+        "word": "玛格丽特别放盐回应",
+        "onboard_time": 1686668432,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178519,
+        "num": 178519,
+        "word": "赵露思综艺",
+        "onboard_time": 1686665911,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175247,
+        "num": 175247,
+        "word": "詹雯婷控告陈建宁反遭起诉",
+        "onboard_time": 1686648629,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159529,
+        "num": 159529,
+        "word": "小S支持林志玲回归家庭",
+        "onboard_time": 1686661827,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155603,
+        "num": 155603,
+        "word": "NewJeans换妆造了",
+        "onboard_time": 1686658046,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150389,
+        "num": 150389,
+        "word": "EDG拿下CN瓦首胜",
+        "onboard_time": 1686661286,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150018,
+        "num": 150018,
+        "word": "闪电侠",
+        "onboard_time": 1686664528,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147447,
+        "num": 147447,
+        "word": "肖春生佟晓梅疯狂上分",
+        "onboard_time": 1686662009,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎洪都拉斯总统#"
+    }
+  }
+}
