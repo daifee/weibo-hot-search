@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686630835174,
+  "endTime": 1686633350867,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -25,6 +25,14 @@
       "onboard_time": 1686615449,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 2075522,
+      "num": 2075522,
+      "word": "疑似杭师大女生家属发声",
+      "onboard_time": 1686630213,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1970284,
@@ -75,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1492329,
+      "num": 1492329,
+      "word": "沙溢好像是参加了爸爸去哪儿",
+      "onboard_time": 1686629912,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1451284,
       "num": 1451284,
       "word": "中国唯一上榜的世界最美图书馆",
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1230056,
+      "num": 1230056,
+      "word": "老师打伤学生道歉反被多位家长安慰",
+      "onboard_time": 1686629191,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1110952,
       "num": 1110952,
       "word": "初级会计",
@@ -121,6 +145,14 @@
       "onboard_time": 1686613284,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1069582,
+      "num": 1069582,
+      "word": "任豪 人工呼吸怎么不算吻",
+      "onboard_time": 1686630573,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 983744,
@@ -163,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 865286,
+      "num": 865286,
+      "word": "边伯贤截掉SMTOWN的logo",
+      "onboard_time": 1686630272,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860338,
       "num": 860338,
       "word": "不孕不育是榴莲最好的福报",
@@ -177,14 +217,6 @@
       "onboard_time": 1686615268,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 822660,
-      "num": 822660,
-      "word": "沙溢好像是参加了爸爸去哪儿",
-      "onboard_time": 1686629912,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 812674,
@@ -371,14 +403,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 353334,
-      "num": 353334,
-      "word": "边伯贤截掉SMTOWN的logo",
-      "onboard_time": 1686630272,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350792,
       "num": 350792,
       "word": "RNG sin",
@@ -411,20 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312064,
-      "num": 312064,
-      "word": "疑似杭师大女生家属发声",
-      "onboard_time": 1686630213,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302882,
-      "num": 302882,
-      "word": "任豪 人工呼吸怎么不算吻",
+      "raw_hot": 315570,
+      "num": 315570,
+      "word": "在广东买虾还没到家就熟了",
       "onboard_time": 1686630573,
-      "rank": 27,
-      "category": "影视"
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 290715,
@@ -435,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279604,
+      "num": 279604,
+      "word": "刘鑫不服二审判决申请再审",
+      "onboard_time": 1686632673,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277970,
       "num": 277970,
       "word": "消失的她全员狠人特辑",
       "onboard_time": 1686624326,
       "rank": 25,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 273848,
+      "num": 273848,
+      "word": "韩国的恋爱都是谁在谈呢",
+      "onboard_time": 1686630150,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 273247,
@@ -472,6 +504,14 @@
       "word": "乐华家族演唱会票价",
       "onboard_time": 1686627990,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 262763,
+      "num": 262763,
+      "word": "乐华 黄牛",
+      "onboard_time": 1686631293,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -555,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230084,
-      "num": 230084,
-      "word": "老师打伤学生道歉反被多位家长安慰",
-      "onboard_time": 1686629191,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 229545,
       "num": 229545,
       "word": "原来真有人叫白雪公主",
@@ -603,19 +635,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221507,
-      "num": 221507,
-      "word": "韩国的恋爱都是谁在谈呢",
-      "onboard_time": 1686630150,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 218919,
-      "num": 218919,
-      "word": "在广东买虾还没到家就熟了",
-      "onboard_time": 1686630573,
-      "rank": 36,
+      "raw_hot": 221415,
+      "num": 221415,
+      "word": "这居然是小学生的简历",
+      "onboard_time": 1686631113,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -664,6 +688,14 @@
       "word": "开心吧麻花官宣定档",
       "onboard_time": 1686630272,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203392,
+      "num": 203392,
+      "word": "王鹤棣泰国录制去了20多个站姐",
+      "onboard_time": 1686631354,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -720,6 +752,14 @@
       "word": "母女3人扶梯摔倒大哥跪地按停",
       "onboard_time": 1686626070,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196545,
+      "num": 196545,
+      "word": "警方回应男子地铁上被俩女子怀疑偷拍",
+      "onboard_time": 1686631891,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -795,6 +835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178631,
+      "num": 178631,
+      "word": "我家最具有女性主义精神的是我女儿",
+      "onboard_time": 1686632733,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178406,
+      "num": 178406,
+      "word": "告五人 抢票",
+      "onboard_time": 1686633211,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177347,
       "num": 177347,
       "word": "奔跑吧收官夕阳大合照",
@@ -811,12 +867,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168921,
+      "num": 168921,
+      "word": "赵美延曾帮助校暴受害者",
+      "onboard_time": 1686631474,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 167204,
       "num": 167204,
       "word": "工位搭子",
       "onboard_time": 1686627148,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166944,
+      "num": 166944,
+      "word": "当妈妈前后的我判若两人",
+      "onboard_time": 1686633032,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 164873,
@@ -865,6 +937,14 @@
       "onboard_time": 1686624928,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 156854,
+      "num": 156854,
+      "word": "四川大学",
+      "onboard_time": 1686632968,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153717,
@@ -921,6 +1001,30 @@
       "onboard_time": 1686615268,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144865,
+      "num": 144865,
+      "word": "看完这42S练成微笑唇",
+      "onboard_time": 1686632793,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144059,
+      "num": 144059,
+      "word": "写下丰富的廉价劳动力 正中工作后自己的眉心",
+      "onboard_time": 1686631891,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143583,
+      "num": 143583,
+      "word": "如何判断是否被偷拍",
+      "onboard_time": 1686632372,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143265,
@@ -1251,8 +1355,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20032,
+      "num": 410613,
+      "word": "老师为百名中考学生绘插图寄语告别",
+      "onboard_time": 1686632432,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11407,
-      "num": 1016104,
+      "num": 1375165,
       "word": "全国网络普法行江西站",
       "onboard_time": 1686544418,
       "rank": 2,
