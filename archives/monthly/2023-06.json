@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686626291040,
+  "endTime": 1686627233533,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1685768729,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1839430,
+      "num": 597121,
+      "word": "川大女生疑被腾讯解除实习合同",
+      "onboard_time": 1686624928,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1835059,
@@ -4347,6 +4355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 865782,
+      "num": 865782,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 864943,
       "num": 864943,
       "word": "大学生高考考点卖花反亏一千",
@@ -4843,14 +4859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 791675,
-      "num": 597121,
-      "word": "川大女生疑被腾讯解除实习合同",
-      "onboard_time": 1686624928,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 790406,
       "num": 421812,
       "word": "长期喝粥会让胃越来越脆弱",
@@ -4872,6 +4880,14 @@
       "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
       "onboard_time": 1685618847,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785216,
+      "num": 688773,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5267,14 +5283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 725274,
-      "num": 725274,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 724649,
       "num": 724649,
       "word": "张艺兴起诉B站侵权",
@@ -5521,14 +5529,6 @@
       "onboard_time": 1685866048,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 688773,
-      "num": 688773,
-      "word": "男子称在洗浴中心被男性猥亵",
-      "onboard_time": 1686620127,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688162,
@@ -8505,6 +8505,14 @@
       "onboard_time": 1686494432,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 405989,
+      "num": 405989,
+      "word": "约基奇FMVP",
+      "onboard_time": 1686626608,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 405669,
@@ -12659,6 +12667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273247,
+      "num": 273247,
+      "word": "肖战说自己有点社恐",
+      "onboard_time": 1686625769,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273053,
       "num": 273053,
       "word": "拥有一个亿能有多痛苦",
@@ -14995,14 +15011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234312,
-      "num": 234312,
-      "word": "肖战说自己有点社恐",
-      "onboard_time": 1686625769,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234307,
       "num": 234307,
       "word": "刘耀文读秒好准",
@@ -16611,6 +16619,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 214723,
+      "num": 214723,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 214711,
       "num": 214711,
       "word": "求职被问婚育状况合理吗",
@@ -16697,14 +16713,6 @@
       "onboard_time": 1685581047,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213325,
-      "num": 213325,
-      "word": "不仅每天要看见我还要继续给我发工资",
-      "onboard_time": 1686623788,
-      "rank": 43,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 213304,
@@ -18099,6 +18107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 198065,
+      "num": 198065,
+      "word": "母女3人扶梯摔倒大哥跪地按停",
+      "onboard_time": 1686626070,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198037,
       "num": 198037,
       "word": "田柾国将solo出道",
@@ -18665,6 +18681,14 @@
       "onboard_time": 1686208110,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193006,
+      "num": 193006,
+      "word": "热火虽败犹荣",
+      "onboard_time": 1686626250,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 192961,
@@ -20523,14 +20547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175913,
-      "num": 175913,
-      "word": "母女3人扶梯摔倒大哥跪地按停",
-      "onboard_time": 1686626070,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175844,
       "num": 175844,
       "word": "饺子已经拿下了全山东",
@@ -21185,6 +21201,14 @@
       "onboard_time": 1686448048,
       "rank": 45,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 167204,
+      "num": 167204,
+      "word": "工位搭子",
+      "onboard_time": 1686627148,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167149,
@@ -22721,14 +22745,6 @@
       "onboard_time": 1686236732,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149523,
-      "num": 149523,
-      "word": "热火虽败犹荣",
-      "onboard_time": 1686626250,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 149405,

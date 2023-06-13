@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686626291040,
+  "endTime": 1686627233533,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -129,6 +129,14 @@
       "onboard_time": 1686542373,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1839430,
+      "num": 597121,
+      "word": "川大女生疑被腾讯解除实习合同",
+      "onboard_time": 1686624928,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1819415,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 865782,
+      "num": 865782,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 851473,
       "num": 851473,
       "word": "THE9演唱会",
@@ -507,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 791675,
-      "num": 597121,
-      "word": "川大女生疑被腾讯解除实习合同",
-      "onboard_time": 1686624928,
-      "rank": 11,
-      "category": "社会新闻,教育"
+      "raw_hot": 785216,
+      "num": 688773,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784371,
@@ -587,14 +603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 725274,
-      "num": 725274,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 722852,
       "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
@@ -617,14 +625,6 @@
       "onboard_time": 1686527006,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 688773,
-      "num": 688773,
-      "word": "男子称在洗浴中心被男性猥亵",
-      "onboard_time": 1686620127,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653921,
@@ -880,6 +880,14 @@
       "word": "梅西见面会取消",
       "onboard_time": 1686477088,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 405989,
+      "num": 405989,
+      "word": "约基奇FMVP",
+      "onboard_time": 1686626608,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1267,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273247,
+      "num": 273247,
+      "word": "肖战说自己有点社恐",
+      "onboard_time": 1686625769,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273053,
       "num": 273053,
       "word": "拥有一个亿能有多痛苦",
@@ -1507,14 +1523,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 234312,
-      "num": 234312,
-      "word": "肖战说自己有点社恐",
-      "onboard_time": 1686625769,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234002,
       "num": 234002,
       "word": "肖春生腿好了嘴也好了",
@@ -1675,6 +1683,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 214723,
+      "num": 214723,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 214488,
       "num": 214488,
       "word": "亚运征途参赛名单公布",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1686497310,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213325,
-      "num": 213325,
-      "word": "不仅每天要看见我还要继续给我发工资",
-      "onboard_time": 1686623788,
-      "rank": 43,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 212402,
@@ -1915,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198065,
+      "num": 198065,
+      "word": "母女3人扶梯摔倒大哥跪地按停",
+      "onboard_time": 1686626070,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198021,
       "num": 198021,
       "word": "朴灿烈rap",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193006,
+      "num": 193006,
+      "word": "热火虽败犹荣",
+      "onboard_time": 1686626250,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 192665,
@@ -2179,14 +2203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175913,
-      "num": 175913,
-      "word": "母女3人扶梯摔倒大哥跪地按停",
-      "onboard_time": 1686626070,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174455,
       "num": 174455,
       "word": "白鹿陈都灵戴了同款耳饰",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1686577949,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 167204,
+      "num": 167204,
+      "word": "工位搭子",
+      "onboard_time": 1686627148,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164873,
@@ -2433,14 +2457,6 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149523,
-      "num": 149523,
-      "word": "热火虽败犹荣",
-      "onboard_time": 1686626250,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 149405,

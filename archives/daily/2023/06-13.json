@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686626291040,
+  "endTime": 1686627233533,
   "band_list": [
     {
       "raw_hot": 3150204,
@@ -33,6 +33,14 @@
       "onboard_time": 1686621509,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1839430,
+      "num": 597121,
+      "word": "川大女生疑被腾讯解除实习合同",
+      "onboard_time": 1686624928,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1819415,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 865782,
+      "num": 865782,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 836068,
       "num": 425025,
       "word": "起床时千万不要立刻叠被子",
@@ -163,12 +179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 791675,
-      "num": 597121,
-      "word": "川大女生疑被腾讯解除实习合同",
-      "onboard_time": 1686624928,
-      "rank": 11,
-      "category": "社会新闻,教育"
+      "raw_hot": 785216,
+      "num": 688773,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752809,
@@ -187,14 +203,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 725274,
-      "num": 725274,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 718134,
       "num": 718134,
       "word": "十个勤天去哪了",
@@ -203,16 +211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688773,
-      "num": 688773,
-      "word": "男子称在洗浴中心被男性猥亵",
-      "onboard_time": 1686620127,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 673897,
-      "num": 673897,
+      "raw_hot": 717051,
+      "num": 717051,
       "word": "不孕不育是榴莲最好的福报",
       "onboard_time": 1686571348,
       "rank": 8,
@@ -315,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405989,
+      "num": 405989,
+      "word": "约基奇FMVP",
+      "onboard_time": 1686626608,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404847,
       "num": 404847,
       "word": "巴特勒状态",
@@ -393,6 +401,14 @@
       "onboard_time": 1686624326,
       "rank": 25,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 273247,
+      "num": 273247,
+      "word": "肖战说自己有点社恐",
+      "onboard_time": 1686625769,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 273053,
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234312,
-      "num": 234312,
-      "word": "肖战说自己有点社恐",
-      "onboard_time": 1686625769,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233857,
       "num": 233857,
       "word": "被误认鞋面装镜头偷拍男子称将起诉",
@@ -523,8 +531,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213325,
-      "num": 213325,
+      "raw_hot": 214723,
+      "num": 214723,
       "word": "不仅每天要看见我还要继续给我发工资",
       "onboard_time": 1686623788,
       "rank": 43,
@@ -611,6 +619,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198065,
+      "num": 198065,
+      "word": "母女3人扶梯摔倒大哥跪地按停",
+      "onboard_time": 1686626070,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193006,
+      "num": 193006,
+      "word": "热火虽败犹荣",
+      "onboard_time": 1686626250,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189577,
       "num": 189577,
       "word": "博士毕业论文900字致谢母亲",
@@ -667,11 +691,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175913,
-      "num": 175913,
-      "word": "母女3人扶梯摔倒大哥跪地按停",
-      "onboard_time": 1686626070,
-      "rank": 42,
+      "raw_hot": 167204,
+      "num": 167204,
+      "word": "工位搭子",
+      "onboard_time": 1686627148,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -737,14 +761,6 @@
       "onboard_time": 1686620248,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 149523,
-      "num": 149523,
-      "word": "热火虽败犹荣",
-      "onboard_time": 1686626250,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 149286,
@@ -1083,7 +1099,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9463,
+      "raw_hot": 10291,
       "num": 1016104,
       "word": "全国网络普法行江西站",
       "onboard_time": 1686544418,
