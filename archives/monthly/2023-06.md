@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 06:33:32
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 07:15:29
 </p>
 </blockquote>
 <p>
@@ -4629,6 +4629,12 @@ Jennie小松菜奈热聊（热度：659490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%E5%8E%BB%E4%B8%96%23" target="weibo">
+张恒远去世（热度：638435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E8%89%BA%E4%BA%BA%E7%9B%AE%E5%BD%95%E4%B8%AD%E6%B2%A1%E6%9C%89BIGBANG%23" target="weibo">
 YG艺人目录中没有BIGBANG（热度：638400）
 </a>
@@ -6005,12 +6011,6 @@ TES对战EDG（热度：481326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%23" target="weibo">
 九尾（热度：461948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E8%87%AA%E9%A9%BE%E4%B8%8A%E7%8F%AD%E8%A2%AB%E4%BF%9D%E5%AE%89%E6%8B%A6%23" target="weibo">
-王栎鑫自驾上班被保安拦（热度：461882）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686695612986,
+  "endTime": 1686698129373,
   "band_list": [
     {
       "raw_hot": 1665615,
@@ -27,7 +27,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 845453,
+      "raw_hot": 849421,
       "num": 845453,
       "word": "天津河东区一小区发生爆炸",
       "onboard_time": 1686668852,
@@ -49,6 +49,14 @@
       "onboard_time": 1686657329,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 638435,
+      "num": 638435,
+      "word": "张恒远去世",
+      "onboard_time": 1686697641,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 636993,
@@ -131,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 345688,
+      "num": 345688,
+      "word": "梦海给我调到第20集32分17秒",
+      "onboard_time": 1686667411,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336983,
       "num": 336983,
       "word": "反驳型人格",
@@ -153,14 +169,6 @@
       "onboard_time": 1686650368,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313673,
-      "num": 313673,
-      "word": "梦海给我调到第20集32分17秒",
-      "onboard_time": 1686667411,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 292814,
@@ -187,20 +195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246322,
+      "num": 246322,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231046,
+      "num": 231046,
+      "word": "张恒远毕夏",
+      "onboard_time": 1686697880,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 214392,
       "num": 214392,
       "word": "地铁被要微信的大无语事件",
       "onboard_time": 1686662787,
       "rank": 24,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 213038,
-      "num": 213038,
-      "word": "中学回应疑地铁女子高中同学发声",
-      "onboard_time": 1686659008,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 196106,
@@ -219,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193966,
+      "num": 193966,
+      "word": "和爸爸骑游中国的白血病男孩离世",
+      "onboard_time": 1686657267,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189253,
       "num": 189253,
       "word": "Jennie曾说自己像老奶奶一样浑身是病",
@@ -233,6 +257,14 @@
       "onboard_time": 1686642508,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188638,
+      "num": 188638,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187373,
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160243,
+      "num": 160243,
+      "word": "光与夜之恋",
+      "onboard_time": 1686697760,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149056,
       "num": 149056,
       "word": "周翊然少年感",
@@ -305,6 +345,14 @@
       "onboard_time": 1686665911,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139698,
+      "num": 102172,
+      "word": "天津两处居民楼爆炸致3人死亡",
+      "onboard_time": 1686697823,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129430,
@@ -331,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 116174,
-      "num": 116174,
-      "word": "和爸爸骑游中国的白血病男孩离世",
-      "onboard_time": 1686657267,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111292,
       "num": 111292,
       "word": "英雄联盟排队",
@@ -353,6 +393,14 @@
       "onboard_time": 1686664350,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106866,
+      "num": 106866,
+      "word": "沈梦辰 我的故事刚翻到第34页",
+      "onboard_time": 1686677836,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 104659,
@@ -379,12 +427,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 91678,
-      "num": 91678,
-      "word": "两只旅俄大熊猫体重和人气齐升",
-      "onboard_time": 1686675322,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 91147,
+      "num": 91147,
+      "word": "小S支持林志玲回归家庭",
+      "onboard_time": 1686661827,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 89288,
@@ -393,14 +441,6 @@
       "onboard_time": 1686671847,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86310,
-      "num": 86310,
-      "word": "小S支持林志玲回归家庭",
-      "onboard_time": 1686661827,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 85724,
@@ -419,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69816,
+      "num": 69816,
+      "word": "陈晓再更文",
+      "onboard_time": 1686694393,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69684,
+      "num": 69684,
+      "word": "原来法定节假日只有11天",
+      "onboard_time": 1686697823,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64454,
       "num": 64454,
       "word": "在重庆遇到电梯收费的别错过",
@@ -435,12 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60809,
-      "num": 60809,
-      "word": "沈梦辰 我的故事刚翻到第34页",
-      "onboard_time": 1686677836,
-      "rank": 25,
+      "raw_hot": 52417,
+      "num": 52417,
+      "word": "孙茜好适合红色",
+      "onboard_time": 1686686832,
+      "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48744,
+      "num": 48744,
+      "word": "男子海中溺水路人接力抢救",
+      "onboard_time": 1686697280,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35229,
@@ -449,22 +513,6 @@
       "onboard_time": 1686689953,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29935,
-      "num": 31584,
-      "word": "孙茜好适合红色",
-      "onboard_time": 1686686832,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27615,
-      "num": 31547,
-      "word": "陈晓再更文",
-      "onboard_time": 1686694393,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 27587,
@@ -481,6 +529,14 @@
       "onboard_time": 1686681612,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19854,
+      "num": 636852,
+      "word": "蓝天碧水间官兵巡逻画面美如画",
+      "onboard_time": 1686669870,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13356,
