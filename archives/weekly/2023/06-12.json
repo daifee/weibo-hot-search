@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686676503392,
+  "endTime": 1686677635765,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -4787,6 +4787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69946,
+      "num": 69946,
+      "word": "NIP对战OMG",
+      "onboard_time": 1686676399,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69225,
       "num": 654803,
       "word": "流浪猫暴雨中被淹男子冒雨救回",
@@ -4819,19 +4827,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 64454,
+      "num": 64454,
+      "word": "在重庆遇到电梯收费的别错过",
+      "onboard_time": 1686674723,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63322,
       "num": 63322,
       "word": "轿车发生事故路人合力掰门救人",
       "onboard_time": 1686526221,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60140,
-      "num": 60140,
-      "word": "在重庆遇到电梯收费的别错过",
-      "onboard_time": 1686674723,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4875,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49648,
+      "num": 49648,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49474,
       "num": 1799737,
       "word": "全国网络普法行江西站",
@@ -4889,14 +4905,6 @@
       "onboard_time": 1686589877,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47521,
-      "num": 58052,
-      "word": "NIP对战OMG",
-      "onboard_time": 1686676399,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 46943,

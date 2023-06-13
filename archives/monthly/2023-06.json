@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686676503392,
+  "endTime": 1686677635765,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -28779,6 +28779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69946,
+      "num": 69946,
+      "word": "NIP对战OMG",
+      "onboard_time": 1686676399,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69901,
       "num": 324643,
       "word": "8090童年游戏怎么做到全国统一的",
@@ -28995,6 +29003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64454,
+      "num": 64454,
+      "word": "在重庆遇到电梯收费的别错过",
+      "onboard_time": 1686674723,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64116,
       "num": 154000,
       "word": "如何看待椰树集团的直播风格",
@@ -29136,14 +29152,6 @@
       "word": "苏艳",
       "onboard_time": 1685662403,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60140,
-      "num": 60140,
-      "word": "在重庆遇到电梯收费的别错过",
-      "onboard_time": 1686674723,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -29435,6 +29443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49648,
+      "num": 49648,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49474,
       "num": 1799737,
       "word": "全国网络普法行江西站",
@@ -29473,14 +29489,6 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47521,
-      "num": 58052,
-      "word": "NIP对战OMG",
-      "onboard_time": 1686676399,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 47271,

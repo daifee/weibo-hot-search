@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686676503392,
+  "endTime": 1686677635765,
   "band_list": [
     {
       "raw_hot": 1665615,
@@ -403,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69946,
+      "num": 69946,
+      "word": "NIP对战OMG",
+      "onboard_time": 1686676399,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 64454,
+      "num": 64454,
+      "word": "在重庆遇到电梯收费的别错过",
+      "onboard_time": 1686674723,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62459,
       "num": 62459,
       "word": "有刘海的周也",
@@ -411,20 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60140,
-      "num": 60140,
-      "word": "在重庆遇到电梯收费的别错过",
-      "onboard_time": 1686674723,
-      "rank": 43,
+      "raw_hot": 49648,
+      "num": 49648,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47521,
-      "num": 58052,
-      "word": "NIP对战OMG",
-      "onboard_time": 1686676399,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 13356,
