@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686654844066,
+  "endTime": 1686656013515,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2355,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1336841,
+      "num": 1336841,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334588,
       "num": 1334588,
       "word": "李华 两人一组怎么了",
@@ -3683,6 +3691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027923,
+      "num": 1027923,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -3809,6 +3825,14 @@
       "onboard_time": 1686139654,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1003756,
+      "num": 1003756,
+      "word": "312斤女网红在减肥营离世年仅21岁",
+      "onboard_time": 1686650368,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003411,
@@ -4211,28 +4235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 918997,
-      "num": 918997,
-      "word": "312斤女网红在减肥营离世年仅21岁",
-      "onboard_time": 1686650368,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 916737,
       "num": 844835,
       "word": "牵手门带火的裙子已退货2000件",
       "onboard_time": 1686408152,
       "rank": 22,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 915006,
-      "num": 1253213,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 914835,
@@ -4249,14 +4257,6 @@
       "onboard_time": 1685574199,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909408,
-      "num": 909408,
-      "word": "王传君 INFP",
-      "onboard_time": 1686648449,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 907427,
@@ -4979,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797891,
+      "num": 797891,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796859,
       "num": 706986,
       "word": "EDG官宣Thesnake上调一队",
@@ -5401,14 +5409,6 @@
       "onboard_time": 1686358119,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 737738,
-      "num": 737738,
-      "word": "詹雯婷控告陈建宁反遭起诉",
-      "onboard_time": 1686648629,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 737295,
@@ -10044,7 +10044,7 @@
     },
     {
       "raw_hot": 348123,
-      "num": 295909,
+      "num": 309279,
       "word": "男生发文称被研三学姐偷走4杯喜茶",
       "onboard_time": 1686650430,
       "rank": 28,
@@ -10921,6 +10921,14 @@
       "onboard_time": 1685881111,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 320184,
+      "num": 320184,
+      "word": "infp",
+      "onboard_time": 1686651149,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 320070,
@@ -14065,14 +14073,6 @@
       "onboard_time": 1686466346,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255095,
-      "num": 255095,
-      "word": "infp",
-      "onboard_time": 1686651149,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 255046,
@@ -17531,6 +17531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209914,
+      "num": 209914,
+      "word": "蔡徐坤机场帮粉丝捡气球",
+      "onboard_time": 1686655046,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209903,
       "num": 209903,
       "word": "张杰狼尾发型",
@@ -18548,7 +18556,7 @@
     },
     {
       "raw_hot": 199231,
-      "num": 977978,
+      "num": 1005610,
       "word": "男子被困冷库环卫工路过救一命",
       "onboard_time": 1686646826,
       "rank": 14,
@@ -19073,6 +19081,14 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194242,
+      "num": 194242,
+      "word": "教资面试成绩",
+      "onboard_time": 1686654207,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 194183,
@@ -22379,6 +22395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162146,
+      "num": 950893,
+      "word": "小伙用泥塑帮300人复活亲人样貌",
+      "onboard_time": 1686650430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162145,
       "num": 162145,
       "word": "那英马嘉祺兰亭序声生不息金曲榜第一",
@@ -22441,14 +22465,6 @@
       "onboard_time": 1686306028,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161233,
-      "num": 942365,
-      "word": "小伙用泥塑帮300人复活亲人样貌",
-      "onboard_time": 1686650430,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161090,
@@ -22881,6 +22897,14 @@
       "onboard_time": 1686102214,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156666,
+      "num": 156666,
+      "word": "中国男篮18人名单确定",
+      "onboard_time": 1686655585,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 156661,
@@ -23353,14 +23377,6 @@
       "onboard_time": 1686387807,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151834,
-      "num": 151834,
-      "word": "教资面试成绩",
-      "onboard_time": 1686654207,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 151581,
@@ -24136,6 +24152,22 @@
       "word": "电影封神第一部",
       "onboard_time": 1685951188,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141596,
+      "num": 568145,
+      "word": "原神 艾尔海森万叶复刻",
+      "onboard_time": 1686654029,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141322,
+      "num": 141322,
+      "word": "疯狂元素城",
+      "onboard_time": 1686655827,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -26099,6 +26131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117571,
+      "num": 117571,
+      "word": "JDG对战RNG",
+      "onboard_time": 1686655767,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117392,
       "num": 117392,
       "word": "倪妮 视觉中国",
@@ -26968,6 +27008,14 @@
       "word": "云南彝良突发洪灾致3人遇难",
       "onboard_time": 1685609668,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101875,
+      "num": 101875,
+      "word": "男子杀害妻子及妻弟媳",
+      "onboard_time": 1686655947,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -27929,14 +27977,6 @@
       "onboard_time": 1685705314,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74914,
-      "num": 461425,
-      "word": "原神 艾尔海森万叶复刻",
-      "onboard_time": 1686654029,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 74623,

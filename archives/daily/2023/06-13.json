@@ -1,6 +1,6 @@
 {
   "startTime": 1686586918070,
-  "endTime": 1686654844066,
+  "endTime": 1686656013515,
   "band_list": [
     {
       "raw_hot": 3205943,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1336841,
+      "num": 1336841,
+      "word": "房东回应女孩结婚退租时打扫干净房子",
+      "onboard_time": 1686644188,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1333806,
       "num": 1333806,
       "word": "老师打伤学生道歉反被多位家长安慰",
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1027923,
+      "num": 1027923,
+      "word": "王传君 INFP",
+      "onboard_time": 1686648449,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1023354,
       "num": 1023354,
       "word": "杭师大涉事男生发声",
@@ -248,6 +264,14 @@
       "word": "格力主播穿免职裙",
       "onboard_time": 1686649948,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003756,
+      "num": 1003756,
+      "word": "312斤女网红在减肥营离世年仅21岁",
+      "onboard_time": 1686650368,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -265,30 +289,6 @@
       "onboard_time": 1686625769,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 918997,
-      "num": 918997,
-      "word": "312斤女网红在减肥营离世年仅21岁",
-      "onboard_time": 1686650368,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915006,
-      "num": 1253213,
-      "word": "房东回应女孩结婚退租时打扫干净房子",
-      "onboard_time": 1686644188,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909408,
-      "num": 909408,
-      "word": "王传君 INFP",
-      "onboard_time": 1686648449,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 901439,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 797891,
+      "num": 797891,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 785216,
       "num": 688773,
       "word": "男子称在洗浴中心被男性猥亵",
@@ -361,14 +369,6 @@
       "onboard_time": 1686571227,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737738,
-      "num": 737738,
-      "word": "詹雯婷控告陈建宁反遭起诉",
-      "onboard_time": 1686648629,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 733104,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 348123,
-      "num": 295909,
+      "num": 309279,
       "word": "男生发文称被研三学姐偷走4杯喜茶",
       "onboard_time": 1686650430,
       "rank": 28,
@@ -657,6 +657,14 @@
       "onboard_time": 1686625468,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320184,
+      "num": 320184,
+      "word": "infp",
+      "onboard_time": 1686651149,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 319573,
@@ -833,14 +841,6 @@
       "onboard_time": 1686622049,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 255095,
-      "num": 255095,
-      "word": "infp",
-      "onboard_time": 1686651149,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 255046,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209914,
+      "num": 209914,
+      "word": "蔡徐坤机场帮粉丝捡气球",
+      "onboard_time": 1686655046,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207094,
       "num": 207094,
       "word": "中新网评川大女生地铁曝光大叔",
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 199231,
-      "num": 977978,
+      "num": 1005610,
       "word": "男子被困冷库环卫工路过救一命",
       "onboard_time": 1686646826,
       "rank": 14,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1686629251,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194242,
+      "num": 194242,
+      "word": "教资面试成绩",
+      "onboard_time": 1686654207,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 194064,
@@ -1443,20 +1459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162146,
+      "num": 950893,
+      "word": "小伙用泥塑帮300人复活亲人样貌",
+      "onboard_time": 1686650430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161469,
       "num": 161469,
       "word": "让你包粽子没让你绑架粽子",
       "onboard_time": 1686649769,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161233,
-      "num": 942365,
-      "word": "小伙用泥塑帮300人复活亲人样貌",
-      "onboard_time": 1686650430,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159691,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1686624928,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 156666,
+      "num": 156666,
+      "word": "中国男篮18人名单确定",
+      "onboard_time": 1686655585,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 155110,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1686620248,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 151834,
-      "num": 151834,
-      "word": "教资面试成绩",
-      "onboard_time": 1686654207,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 149635,
@@ -1648,6 +1664,22 @@
       "word": "袁咏仪牵着周润发的手喊帅",
       "onboard_time": 1686650729,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141596,
+      "num": 568145,
+      "word": "原神 艾尔海森万叶复刻",
+      "onboard_time": 1686654029,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141322,
+      "num": 141322,
+      "word": "疯狂元素城",
+      "onboard_time": 1686655827,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1851,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117571,
+      "num": 117571,
+      "word": "JDG对战RNG",
+      "onboard_time": 1686655767,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115140,
       "num": 115140,
       "word": "小鬼直播",
@@ -1939,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101875,
+      "num": 101875,
+      "word": "男子杀害妻子及妻弟媳",
+      "onboard_time": 1686655947,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101327,
       "num": 101327,
       "word": "你会给朋友发蚊子吗",
@@ -2017,14 +2065,6 @@
       "onboard_time": 1686586708,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74914,
-      "num": 461425,
-      "word": "原神 艾尔海森万叶复刻",
-      "onboard_time": 1686654029,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 67042,
