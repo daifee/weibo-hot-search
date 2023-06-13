@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686698129373,
+  "endTime": 1686699235086,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -737,6 +737,14 @@
       "onboard_time": 1686571348,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2289249,
+      "num": 2289249,
+      "word": "张恒远去世",
+      "onboard_time": 1686697641,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2273063,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1686293729,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1551916,
+      "num": 333247,
+      "word": "张恒远毕夏",
+      "onboard_time": 1686697880,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1540408,
@@ -6155,14 +6171,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 638435,
-      "num": 638435,
-      "word": "张恒远去世",
-      "onboard_time": 1686697641,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 638400,
       "num": 638400,
       "word": "YG艺人目录中没有BIGBANG",
@@ -8584,6 +8592,14 @@
       "word": "千万不要惹刚加完班的人",
       "onboard_time": 1685954547,
       "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 422514,
+      "num": 205842,
+      "word": "员工入职一个半月怀孕了",
+      "onboard_time": 1686698603,
+      "rank": 20,
       "category": "幽默"
     },
     {
@@ -11585,6 +11601,14 @@
       "onboard_time": 1685787327,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308436,
+      "num": 308436,
+      "word": "天津两处居民楼爆炸致3人死亡",
+      "onboard_time": 1686697823,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308351,
@@ -16131,14 +16155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231046,
-      "num": 231046,
-      "word": "张恒远毕夏",
-      "onboard_time": 1686697880,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 230958,
       "num": 230958,
       "word": "Rookie",
@@ -18139,6 +18155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207320,
+      "num": 207320,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207317,
       "num": 207317,
       "word": "Jennie曼谷演唱会不划水",
@@ -18433,6 +18457,14 @@
       "onboard_time": 1685667149,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203996,
+      "num": 203996,
+      "word": "天津大学",
+      "onboard_time": 1686698603,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 203879,
@@ -20377,14 +20409,6 @@
       "onboard_time": 1686107320,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 188638,
-      "num": 188638,
-      "word": "两只旅俄大熊猫体重和人气齐升",
-      "onboard_time": 1686675322,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188626,
@@ -22353,6 +22377,14 @@
       "onboard_time": 1686305789,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167590,
+      "num": 154351,
+      "word": "原来物理防晒胜过所有防晒霜",
+      "onboard_time": 1686698603,
+      "rank": 30,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 167502,
@@ -24331,6 +24363,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 145936,
+      "num": 145936,
+      "word": "原来法定节假日只有11天",
+      "onboard_time": 1686697823,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145696,
       "num": 145696,
       "word": "10后女孩吵架开始拼妹",
@@ -24825,14 +24865,6 @@
       "onboard_time": 1685582308,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139698,
-      "num": 102172,
-      "word": "天津两处居民楼爆炸致3人死亡",
-      "onboard_time": 1686697823,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139694,
@@ -25513,6 +25545,14 @@
       "onboard_time": 1686438977,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131442,
+      "num": 131442,
+      "word": "沈梦辰 我的故事刚翻到第34页",
+      "onboard_time": 1686677836,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 131400,
@@ -26393,6 +26433,14 @@
       "onboard_time": 1686001752,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120197,
+      "num": 120197,
+      "word": "柯以敏 我比那英唱得更好",
+      "onboard_time": 1686699025,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120187,
@@ -27361,14 +27409,6 @@
       "onboard_time": 1686642268,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 106866,
-      "num": 106866,
-      "word": "沈梦辰 我的故事刚翻到第34页",
-      "onboard_time": 1686677836,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 106847,
@@ -28395,6 +28435,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 82591,
+      "num": 82591,
+      "word": "陈晓再更文",
+      "onboard_time": 1686694393,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82464,
       "num": 82464,
       "word": "神十五航天员顺利出舱",
@@ -28835,22 +28883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69816,
-      "num": 69816,
-      "word": "陈晓再更文",
-      "onboard_time": 1686694393,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69684,
-      "num": 69684,
-      "word": "原来法定节假日只有11天",
-      "onboard_time": 1686697823,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 69232,
       "num": 72121,
       "word": "当她单膝跪地那一刻 男友忍不住大笑",
@@ -29211,6 +29243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60137,
+      "num": 60137,
+      "word": "孙茜好适合红色",
+      "onboard_time": 1686686832,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60021,
       "num": 471776,
       "word": "惠英红给张小斐当站姐",
@@ -29417,14 +29457,6 @@
       "onboard_time": 1686438617,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52417,
-      "num": 52417,
-      "word": "孙茜好适合红色",
-      "onboard_time": 1686686832,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 52152,
@@ -29923,6 +29955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35178,
+      "num": 751638,
+      "word": "蓝天碧水间官兵巡逻画面美如画",
+      "onboard_time": 1686669870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34937,
       "num": 499444,
       "word": "杀手包",
@@ -30281,14 +30321,6 @@
       "onboard_time": 1685703632,
       "rank": 39,
       "category": "社会新闻,综艺"
-    },
-    {
-      "raw_hot": 19854,
-      "num": 636852,
-      "word": "蓝天碧水间官兵巡逻画面美如画",
-      "onboard_time": 1686669870,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19833,

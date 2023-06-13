@@ -1,7 +1,15 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686698129373,
+  "endTime": 1686699235086,
   "band_list": [
+    {
+      "raw_hot": 2289249,
+      "num": 2289249,
+      "word": "张恒远去世",
+      "onboard_time": 1686697641,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 1665615,
       "num": 1665615,
@@ -9,6 +17,22 @@
       "onboard_time": 1686670050,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1551916,
+      "num": 333247,
+      "word": "张恒远毕夏",
+      "onboard_time": 1686697880,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1005804,
+      "num": 845453,
+      "word": "天津河东区一小区发生爆炸",
+      "onboard_time": 1686668852,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927326,
@@ -19,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 919431,
+      "num": 522328,
+      "word": "疑地铁事件女子同学称被其校园霸凌",
+      "onboard_time": 1686639387,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 893375,
       "num": 893375,
       "word": "Jennie回应演唱会中途离场",
@@ -27,36 +59,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 849421,
-      "num": 845453,
-      "word": "天津河东区一小区发生爆炸",
-      "onboard_time": 1686668852,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 823986,
-      "num": 522328,
-      "word": "疑地铁事件女子同学称被其校园霸凌",
-      "onboard_time": 1686639387,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 811890,
       "num": 811890,
       "word": "猫的树好会拍",
       "onboard_time": 1686657329,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 638435,
-      "num": 638435,
-      "word": "张恒远去世",
-      "onboard_time": 1686697641,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 636993,
@@ -115,6 +123,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 422514,
+      "num": 205842,
+      "word": "员工入职一个半月怀孕了",
+      "onboard_time": 1686698603,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365295,
       "num": 365295,
       "word": "晕车和不晕车的人闻到的气味不一样",
@@ -171,12 +187,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292814,
+      "raw_hot": 308436,
+      "num": 308436,
+      "word": "天津两处居民楼爆炸致3人死亡",
+      "onboard_time": 1686697823,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295684,
       "num": 269176,
       "word": "肖春生洞房还穿打底",
       "onboard_time": 1686668852,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290754,
+      "num": 290754,
+      "word": "中学回应疑地铁女子高中同学发声",
+      "onboard_time": 1686659008,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 271382,
@@ -195,28 +227,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246322,
-      "num": 246322,
-      "word": "中学回应疑地铁女子高中同学发声",
-      "onboard_time": 1686659008,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 231046,
-      "num": 231046,
-      "word": "张恒远毕夏",
-      "onboard_time": 1686697880,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 214392,
       "num": 214392,
       "word": "地铁被要微信的大无语事件",
       "onboard_time": 1686662787,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 207320,
+      "num": 207320,
+      "word": "两只旅俄大熊猫体重和人气齐升",
+      "onboard_time": 1686675322,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203996,
+      "num": 203996,
+      "word": "天津大学",
+      "onboard_time": 1686698603,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 196106,
@@ -257,14 +289,6 @@
       "onboard_time": 1686642508,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188638,
-      "num": 188638,
-      "word": "两只旅俄大熊猫体重和人气齐升",
-      "onboard_time": 1686675322,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187373,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167590,
+      "num": 154351,
+      "word": "原来物理防晒胜过所有防晒霜",
+      "onboard_time": 1686698603,
+      "rank": 30,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 166378,
       "num": 166378,
       "word": "房东回应女孩结婚退租时打扫干净房子",
@@ -323,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160243,
-      "num": 160243,
+      "raw_hot": 163892,
+      "num": 163892,
       "word": "光与夜之恋",
       "onboard_time": 1686697760,
       "rank": 22,
@@ -347,12 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139698,
-      "num": 102172,
-      "word": "天津两处居民楼爆炸致3人死亡",
+      "raw_hot": 145936,
+      "num": 145936,
+      "word": "原来法定节假日只有11天",
       "onboard_time": 1686697823,
-      "rank": 30,
-      "category": "社会新闻"
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131442,
+      "num": 131442,
+      "word": "沈梦辰 我的故事刚翻到第34页",
+      "onboard_time": 1686677836,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 129430,
@@ -369,6 +409,14 @@
       "onboard_time": 1686672687,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120197,
+      "num": 120197,
+      "word": "柯以敏 我比那英唱得更好",
+      "onboard_time": 1686699025,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119585,
@@ -393,14 +441,6 @@
       "onboard_time": 1686664350,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106866,
-      "num": 106866,
-      "word": "沈梦辰 我的故事刚翻到第34页",
-      "onboard_time": 1686677836,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 104659,
@@ -451,28 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69946,
-      "num": 69946,
-      "word": "NIP对战OMG",
-      "onboard_time": 1686676399,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 69816,
-      "num": 69816,
+      "raw_hot": 82591,
+      "num": 82591,
       "word": "陈晓再更文",
       "onboard_time": 1686694393,
       "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 69684,
-      "num": 69684,
-      "word": "原来法定节假日只有11天",
-      "onboard_time": 1686697823,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 69946,
+      "num": 69946,
+      "word": "NIP对战OMG",
+      "onboard_time": 1686676399,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 64454,
@@ -491,8 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52417,
-      "num": 52417,
+      "raw_hot": 60137,
+      "num": 60137,
       "word": "孙茜好适合红色",
       "onboard_time": 1686686832,
       "rank": 48,
@@ -515,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35178,
+      "num": 751638,
+      "word": "蓝天碧水间官兵巡逻画面美如画",
+      "onboard_time": 1686669870,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27587,
       "num": 30610,
       "word": "从12米高处跳江小哥讲述救人全过程",
@@ -529,14 +569,6 @@
       "onboard_time": 1686681612,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19854,
-      "num": 636852,
-      "word": "蓝天碧水间官兵巡逻画面美如画",
-      "onboard_time": 1686669870,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13356,
