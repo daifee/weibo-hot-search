@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686624155750,
+  "endTime": 1686624677196,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1438425,
+      "num": 1438425,
+      "word": "姑娘要结婚退租时扫干净房子留下喜糖",
+      "onboard_time": 1686621509,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1426174,
       "num": 1426174,
       "word": "张雨绮致歉",
@@ -241,14 +249,6 @@
       "onboard_time": 1686526884,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1336050,
-      "num": 1336050,
-      "word": "姑娘要结婚退租时扫干净房子留下喜糖",
-      "onboard_time": 1686621509,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1324221,
@@ -475,6 +475,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 814694,
+      "num": 814694,
+      "word": "宋雨琦奔跑吧收官合照是P上去的",
+      "onboard_time": 1686620487,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 812674,
       "num": 812674,
       "word": "姆巴佩拒绝与巴黎续约",
@@ -489,14 +497,6 @@
       "onboard_time": 1686566009,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781426,
-      "num": 781426,
-      "word": "宋雨琦奔跑吧收官合照是P上去的",
-      "onboard_time": 1686620487,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 778246,
@@ -867,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 375985,
+      "num": 375985,
+      "word": "NBA总决赛",
+      "onboard_time": 1686619888,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364258,
       "num": 364258,
       "word": "EXO团综",
@@ -880,6 +888,14 @@
       "word": "EXO专辑",
       "onboard_time": 1686564627,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 361134,
+      "num": 361134,
+      "word": "Jennie演唱会中途离场",
+      "onboard_time": 1686623486,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -947,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 342303,
+      "num": 342303,
+      "word": "男子称在洗浴中心被男性猥亵",
+      "onboard_time": 1686620127,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341771,
       "num": 341771,
       "word": "白桃星座",
@@ -969,14 +993,6 @@
       "onboard_time": 1686557068,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332428,
-      "num": 332428,
-      "word": "NBA总决赛",
-      "onboard_time": 1686619888,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 331249,
@@ -1131,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294387,
-      "num": 294387,
-      "word": "Jennie演唱会中途离场",
-      "onboard_time": 1686623486,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 291325,
       "num": 291325,
       "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
@@ -1195,12 +1203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 274470,
-      "num": 274470,
-      "word": "男子称在洗浴中心被男性猥亵",
-      "onboard_time": 1686620127,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 277970,
+      "num": 277970,
+      "word": "消失的她全员狠人特辑",
+      "onboard_time": 1686624326,
+      "rank": 25,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 274113,
@@ -1323,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252235,
+      "num": 252235,
+      "word": "陈晓又更文了",
+      "onboard_time": 1686623907,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250893,
       "num": 250893,
       "word": "SEVENTEEN澳门音乐节",
@@ -1443,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233857,
+      "num": 233857,
+      "word": "被误认鞋面装镜头偷拍男子称将起诉",
+      "onboard_time": 1686621747,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233572,
       "num": 233572,
       "word": "薛之谦合肥",
@@ -1483,6 +1507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 225857,
+      "num": 225857,
+      "word": "成都地铁",
+      "onboard_time": 1686621326,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225541,
       "num": 225541,
       "word": "王子奇王玉雯说四搭演西游记",
@@ -1497,14 +1529,6 @@
       "onboard_time": 1686621928,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224324,
-      "num": 224324,
-      "word": "被误认鞋面装镜头偷拍男子称将起诉",
-      "onboard_time": 1686621747,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222721,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1686560070,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219918,
+      "num": 219918,
+      "word": "拥有一个亿能有多痛苦",
+      "onboard_time": 1686624087,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 219566,
@@ -1611,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213325,
+      "num": 213325,
+      "word": "不仅每天要看见我还要继续给我发工资",
+      "onboard_time": 1686623788,
+      "rank": 43,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 212402,
       "num": 212402,
       "word": "陈奕迅广州演唱会",
@@ -1660,7 +1700,7 @@
     },
     {
       "raw_hot": 210104,
-      "num": 238836,
+      "num": 241930,
       "word": "相差61岁婚纱照的背后是一场爱的接力",
       "onboard_time": 1686622228,
       "rank": 29,
@@ -1673,14 +1713,6 @@
       "onboard_time": 1686534446,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209356,
-      "num": 209356,
-      "word": "成都地铁",
-      "onboard_time": 1686621326,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209079,
@@ -2035,16 +2067,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184230,
-      "num": 184230,
-      "word": "拥有一个亿能有多痛苦",
-      "onboard_time": 1686624087,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 183561,
-      "num": 183561,
+      "raw_hot": 184983,
+      "num": 184983,
       "word": "迪丽热巴的机场穿搭",
       "onboard_time": 1686622168,
       "rank": 40,
@@ -2059,28 +2083,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181126,
-      "num": 181126,
-      "word": "陈晓又更文了",
-      "onboard_time": 1686623907,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179800,
       "num": 179800,
       "word": "朴宰范行苍兰诀月族礼",
       "onboard_time": 1686561328,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178733,
-      "num": 178733,
-      "word": "不仅每天要看见我还要继续给我发工资",
-      "onboard_time": 1686623788,
-      "rank": 43,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 178280,
@@ -2227,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "寻找17年给我小狗的阿姨",
+      "onboard_time": 1686622829,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161474,
       "num": 161474,
       "word": "杨幂复古风搭双马尾",
@@ -2235,12 +2251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159231,
-      "num": 159231,
-      "word": "寻找17年给我小狗的阿姨",
-      "onboard_time": 1686622829,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 159691,
+      "num": 159691,
+      "word": "尹净汉柏林看秀生图",
+      "onboard_time": 1686624209,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 159169,
@@ -2281,6 +2297,14 @@
       "onboard_time": 1686495811,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153467,
+      "num": 153467,
+      "word": "电影消失的她",
+      "onboard_time": 1686624566,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 153171,
