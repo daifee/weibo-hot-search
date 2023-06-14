@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686780962006,
+  "endTime": 1686782017062,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -7409,6 +7409,14 @@
       "onboard_time": 1686679754,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27124,
+      "num": 51953,
+      "word": "檀健次你好星期六",
+      "onboard_time": 1686781696,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 26741,
