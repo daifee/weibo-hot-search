@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686767617141,
+  "endTime": 1686770003544,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -7385,6 +7385,14 @@
       "onboard_time": 1686488311,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31584,
+      "num": 31584,
+      "word": "双蔡双杰",
+      "onboard_time": 1686769514,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 30771,

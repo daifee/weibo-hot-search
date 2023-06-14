@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686767617141,
+  "endTime": 1686770003544,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -465,6 +465,14 @@
       "onboard_time": 1686747688,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31584,
+      "num": 31584,
+      "word": "双蔡双杰",
+      "onboard_time": 1686769514,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 7718,

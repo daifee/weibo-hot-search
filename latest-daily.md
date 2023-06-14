@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/15 00:23:07 ~ 2023/06/15 02:33:37
+本榜单时间：2023/06/15 00:23:07 ~ 2023/06/15 03:13:23
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@ Uzi复出首胜（热度：93021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%23" target="weibo">
 RNG（热度：35859）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%94%A1%E5%8F%8C%E6%9D%B0%23" target="weibo">
+双蔡双杰（热度：31584）
 </a>
 </li>
 
