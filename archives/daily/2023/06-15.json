@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686771230362,
+  "endTime": 1686773849593,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -473,6 +473,14 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15607,
+      "num": 19294,
+      "word": "2023CFPL",
+      "onboard_time": 1686773292,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 7718,
