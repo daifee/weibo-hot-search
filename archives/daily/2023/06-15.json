@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686766841863,
+  "endTime": 1686767617141,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 35859,
-      "num": 35859,
+      "num": 36399,
       "word": "RNG",
       "onboard_time": 1686747688,
       "rank": 46,
