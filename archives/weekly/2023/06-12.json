@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686737878451,
+  "endTime": 1686738822152,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 1004776,
-      "num": 450726,
+      "num": 478995,
       "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
       "onboard_time": 1686719674,
       "rank": 38,
@@ -932,7 +932,7 @@
     },
     {
       "raw_hot": 893674,
-      "num": 690534,
+      "num": 702823,
       "word": "陈仟钰是上戏艺考第一",
       "onboard_time": 1686725069,
       "rank": 13,
@@ -977,6 +977,14 @@
       "onboard_time": 1686630272,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 859200,
+      "num": 859200,
+      "word": "天津大学扣饭事件疑似现场画面曝光",
+      "onboard_time": 1686735507,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 857818,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1686615268,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 832155,
+      "num": 832155,
+      "word": "Uzi首发",
+      "onboard_time": 1686733049,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 828140,
@@ -1291,14 +1307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 618906,
-      "num": 618906,
-      "word": "Uzi首发",
-      "onboard_time": 1686733049,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 609366,
       "num": 609366,
       "word": "权志龙又买房了",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1686625707,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 578399,
+      "num": 2077947,
+      "word": "小伙骑共享单车5000公里到新疆",
+      "onboard_time": 1686736228,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573098,
@@ -1443,20 +1459,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 547815,
+      "num": 547815,
+      "word": "EDG对战iG",
+      "onboard_time": 1686732449,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 543393,
       "num": 326108,
       "word": "地铁被要微信的大无语事件",
       "onboard_time": 1686662787,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 532848,
-      "num": 532848,
-      "word": "EDG对战iG",
-      "onboard_time": 1686732449,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 522550,
@@ -1499,12 +1515,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 511256,
+      "num": 511256,
+      "word": "苏醒有点人脉",
+      "onboard_time": 1686736228,
+      "rank": 23,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 510977,
       "num": 510977,
       "word": "西瓜白粥",
       "onboard_time": 1686582691,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 508861,
+      "num": 508861,
+      "word": "品牌方说赵露思礼服是借的",
+      "onboard_time": 1686737730,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 502798,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1686618151,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496069,
+      "num": 496069,
+      "word": "Ahn 搓澡",
+      "onboard_time": 1686735447,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 495431,
@@ -1699,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411010,
-      "num": 411010,
-      "word": "天津大学扣饭事件疑似现场画面曝光",
-      "onboard_time": 1686735507,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1686625166,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 395550,
-      "num": 395550,
-      "word": "苏醒有点人脉",
-      "onboard_time": 1686736228,
-      "rank": 23,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 392513,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1686717513,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 350951,
-      "num": 1812505,
-      "word": "小伙骑共享单车5000公里到新疆",
-      "onboard_time": 1686736228,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350792,
@@ -2105,14 +2121,6 @@
       "onboard_time": 1686625468,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323761,
-      "num": 323761,
-      "word": "Ahn 搓澡",
-      "onboard_time": 1686735447,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 323468,
@@ -3467,6 +3475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209880,
+      "num": 209880,
+      "word": "肖战李沁梦海对称美学",
+      "onboard_time": 1686737068,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209365,
       "num": 209365,
       "word": "YG出小分队的方式好炸裂",
@@ -3899,14 +3915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192564,
-      "num": 192564,
-      "word": "肖战李沁梦海对称美学",
-      "onboard_time": 1686737068,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192106,
       "num": 192106,
       "word": "北京晚霞",
@@ -4241,6 +4249,14 @@
       "onboard_time": 1686651630,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184154,
+      "num": 184154,
+      "word": "和情绪不稳定的人谈恋爱什么感受",
+      "onboard_time": 1686738809,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 183781,
@@ -4787,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158313,
+      "num": 158313,
+      "word": "杭州见义勇为小伙所获奖励",
+      "onboard_time": 1686738750,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158158,
       "num": 158158,
       "word": "怪不得童话里公主一晚一双舞鞋",
@@ -5121,14 +5145,6 @@
       "onboard_time": 1686558208,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147010,
-      "num": 147010,
-      "word": "品牌方说赵露思礼服是借的",
-      "onboard_time": 1686737730,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146626,
@@ -5553,6 +5569,14 @@
       "onboard_time": 1686653429,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132746,
+      "num": 132746,
+      "word": "世界上有趣的灵魂又少了一个",
+      "onboard_time": 1686738509,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132549,
@@ -6355,6 +6379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64605,
+      "num": 614587,
+      "word": "来活了兄弟四川PK醋王",
+      "onboard_time": 1686737792,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64454,
       "num": 64454,
       "word": "在重庆遇到电梯收费的别错过",
@@ -6528,14 +6560,6 @@
       "word": "古巨基加胡夏微信打开了收款码",
       "onboard_time": 1686689953,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34910,
-      "num": 614587,
-      "word": "来活了兄弟四川PK醋王",
-      "onboard_time": 1686737792,
-      "rank": 14,
       "category": "综艺"
     },
     {
