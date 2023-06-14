@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686706818462,
+  "endTime": 1686707846781,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -12,19 +12,27 @@
     },
     {
       "raw_hot": 2342513,
-      "num": 460284,
+      "num": 627303,
       "word": "张恒远毕夏",
       "onboard_time": 1686697880,
       "rank": 16,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1675616,
-      "num": 1675616,
+      "raw_hot": 1769965,
+      "num": 1769965,
       "word": "黑色素瘤",
       "onboard_time": 1686701731,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1723970,
+      "num": 1723970,
+      "word": "人民日报评地铁偷拍乌龙",
+      "onboard_time": 1686703411,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1665615,
@@ -35,14 +43,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1337960,
-      "num": 1337960,
-      "word": "人民日报评地铁偷拍乌龙",
-      "onboard_time": 1686703411,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1329661,
       "num": 1329661,
       "word": "教资面试成绩",
@@ -51,24 +51,24 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1217891,
-      "num": 456452,
-      "word": "天津大学",
-      "onboard_time": 1686698603,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1179643,
-      "num": 1179643,
+      "raw_hot": 1253314,
+      "num": 1253314,
       "word": "17岁女孩一晚连刷6套卷子后患脑病",
       "onboard_time": 1686702810,
       "rank": 5,
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1217891,
+      "num": 637105,
+      "word": "天津大学",
+      "onboard_time": 1686698603,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1063327,
-      "num": 452610,
+      "num": 618992,
       "word": "薛小婉 任权",
       "onboard_time": 1686699505,
       "rank": 12,
@@ -80,6 +80,14 @@
       "word": "天津河东区一小区发生爆炸",
       "onboard_time": 1686668852,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 984817,
+      "num": 984817,
+      "word": "老伴去世老人挨个敲车窗求带看老房",
+      "onboard_time": 1686703055,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 891545,
+      "num": 612728,
+      "word": "陈冠希偶遇陈小春拍戏",
+      "onboard_time": 1686704435,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 811890,
       "num": 811890,
       "word": "猫的树好会拍",
@@ -115,20 +131,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 739697,
-      "num": 739697,
+      "raw_hot": 764023,
+      "num": 764023,
       "word": "柯以敏 我比那英唱得更好",
       "onboard_time": 1686699025,
       "rank": 35,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 723748,
-      "num": 449631,
-      "word": "陈冠希偶遇陈小春拍戏",
-      "onboard_time": 1686704435,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 707420,
+      "num": 360860,
+      "word": "员工入职一个半月怀孕了",
+      "onboard_time": 1686698603,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 694466,
@@ -139,12 +155,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 694115,
-      "num": 360860,
-      "word": "员工入职一个半月怀孕了",
-      "onboard_time": 1686698603,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 638230,
+      "num": 638230,
+      "word": "张恒远 夜空中最亮的星",
+      "onboard_time": 1686706769,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 636993,
@@ -169,6 +185,14 @@
       "onboard_time": 1686669449,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604759,
+      "num": 604759,
+      "word": "天津爆炸",
+      "onboard_time": 1686702931,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530951,
@@ -203,28 +227,12 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 461259,
-      "num": 461259,
-      "word": "天津爆炸",
-      "onboard_time": 1686702931,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458080,
       "num": 458080,
       "word": "梦是一种心理上的转码过程",
       "onboard_time": 1686671725,
       "rank": 23,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 447759,
-      "num": 447759,
-      "word": "老伴去世老人挨个敲车窗求带看老房",
-      "onboard_time": 1686703055,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443484,
@@ -291,19 +299,19 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 326426,
+      "num": 326426,
+      "word": "特朗普出庭期间被逮捕",
+      "onboard_time": 1686704131,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323924,
       "num": 323924,
       "word": "杭师大涉事男生发声",
       "onboard_time": 1686649407,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318869,
-      "num": 318869,
-      "word": "特朗普出庭期间被逮捕",
-      "onboard_time": 1686704131,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292165,
+      "num": 292165,
+      "word": "人生最糟糕的十年",
+      "onboard_time": 1686704013,
+      "rank": 26,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 290754,
       "num": 290754,
       "word": "中学回应疑地铁女子高中同学发声",
@@ -331,12 +347,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 271720,
-      "num": 271720,
-      "word": "人生最糟糕的十年",
-      "onboard_time": 1686704013,
-      "rank": 26,
-      "category": "情感,幽默"
+      "raw_hot": 278081,
+      "num": 278081,
+      "word": "阴阳师",
+      "onboard_time": 1686706711,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 271382,
@@ -363,20 +379,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253943,
+      "num": 253943,
+      "word": "破镜重圆只有三种可能",
+      "onboard_time": 1686703653,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251300,
       "num": 251300,
       "word": "核废水",
       "onboard_time": 1686701911,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242889,
-      "num": 242889,
-      "word": "破镜重圆只有三种可能",
-      "onboard_time": 1686703653,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 228286,
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207049,
-      "num": 207049,
-      "word": "张恒远 夜空中最亮的星",
-      "onboard_time": 1686706769,
-      "rank": 37,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -457,6 +465,22 @@
       "onboard_time": 1686657267,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192103,
+      "num": 192103,
+      "word": "为什么坐飞机要用结实的旅行箱",
+      "onboard_time": 1686707309,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189800,
+      "num": 189800,
+      "word": "照亮你夫妇同床",
+      "onboard_time": 1686707729,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 189253,
@@ -499,8 +523,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185075,
-      "num": 185075,
+      "raw_hot": 187148,
+      "num": 187148,
       "word": "天津居民楼爆炸案嫌犯已被抓",
       "onboard_time": 1686702692,
       "rank": 40,
@@ -513,6 +537,14 @@
       "onboard_time": 1686648449,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182362,
+      "num": 182362,
+      "word": "杨洋出发米兰时装周路透",
+      "onboard_time": 1686706888,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 180102,
@@ -553,14 +585,6 @@
       "onboard_time": 1686648629,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172489,
-      "num": 172489,
-      "word": "阴阳师",
-      "onboard_time": 1686706711,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 171002,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 68216,
-      "num": 1417444,
+      "num": 1742711,
       "word": "蓝天碧水间官兵巡逻画面美如画",
       "onboard_time": 1686669870,
       "rank": 2,

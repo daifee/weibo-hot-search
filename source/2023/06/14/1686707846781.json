@@ -1,0 +1,410 @@
+{
+  "runTime": 1686707846781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5391517,
+        "num": 5391517,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1769965,
+        "num": 1769965,
+        "word": "黑色素瘤",
+        "onboard_time": 1686701731,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 52376,
+        "num": 1742711,
+        "word": "蓝天碧水间官兵巡逻画面美如画",
+        "onboard_time": 1686669870,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723970,
+        "num": 1723970,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253314,
+        "num": 1253314,
+        "word": "17岁女孩一晚连刷6套卷子后患脑病",
+        "onboard_time": 1686702810,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1094074,
+        "num": 1094074,
+        "word": "教资面试成绩",
+        "onboard_time": 1686705214,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 984817,
+        "num": 984817,
+        "word": "老伴去世老人挨个敲车窗求带看老房",
+        "onboard_time": 1686703055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764023,
+        "num": 764023,
+        "word": "柯以敏 我比那英唱得更好",
+        "onboard_time": 1686699025,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 679302,
+        "num": 679302,
+        "word": "这居然是刘恋",
+        "onboard_time": 1686700949,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 638230,
+        "num": 638230,
+        "word": "张恒远 夜空中最亮的星",
+        "onboard_time": 1686706769,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1025523,
+        "num": 637105,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2170670,
+        "num": 627303,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1011286,
+        "num": 618992,
+        "word": "薛小婉 任权",
+        "onboard_time": 1686699505,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 891545,
+        "num": 612728,
+        "word": "陈冠希偶遇陈小春拍戏",
+        "onboard_time": 1686704435,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604759,
+        "num": 604759,
+        "word": "天津爆炸",
+        "onboard_time": 1686702931,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509760,
+        "num": 509760,
+        "word": "疑地铁事件女子同学称被其校园霸凌",
+        "onboard_time": 1686639387,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 502410,
+        "num": 502410,
+        "word": "王鹤棣田曦薇 大奉打更人",
+        "onboard_time": 1686670050,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405541,
+        "num": 405541,
+        "word": "Jennie回应演唱会中途离场",
+        "onboard_time": 1686665488,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372736,
+        "num": 372736,
+        "word": "笑果旗下公司擅自演出被罚",
+        "onboard_time": 1686656547,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 351066,
+        "num": 351066,
+        "word": "秀智金宇彬二搭",
+        "onboard_time": 1686702870,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 707420,
+        "num": 341333,
+        "word": "员工入职一个半月怀孕了",
+        "onboard_time": 1686698603,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 507307,
+        "num": 337286,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451237,
+        "num": 332403,
+        "word": "原来物理防晒胜过所有防晒霜",
+        "onboard_time": 1686698603,
+        "rank": 22,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 326426,
+        "num": 326426,
+        "word": "特朗普出庭期间被逮捕",
+        "onboard_time": 1686704131,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292165,
+        "num": 292165,
+        "word": "人生最糟糕的十年",
+        "onboard_time": 1686704013,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 278081,
+        "num": 278081,
+        "word": "阴阳师",
+        "onboard_time": 1686706711,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268273,
+        "num": 268273,
+        "word": "权志龙又买房了",
+        "onboard_time": 1686669449,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253943,
+        "num": 253943,
+        "word": "破镜重圆只有三种可能",
+        "onboard_time": 1686703653,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250378,
+        "num": 250378,
+        "word": "为什么胖肉只胖肚子",
+        "onboard_time": 1686699986,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250249,
+        "num": 250249,
+        "word": "刘亦菲 不在乎别人的想法",
+        "onboard_time": 1686663987,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246735,
+        "num": 246735,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245059,
+        "num": 245059,
+        "word": "Uzi首发对战iG",
+        "onboard_time": 1686669329,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240003,
+        "num": 240003,
+        "word": "天津两处居民楼爆炸致3人死亡",
+        "onboard_time": 1686697823,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233855,
+        "num": 233855,
+        "word": "肖春生洞房还穿打底",
+        "onboard_time": 1686668852,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215509,
+        "num": 215509,
+        "word": "警惕别有用心者煽动极化情绪挑动性别对立",
+        "onboard_time": 1686706470,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211065,
+        "num": 211065,
+        "word": "我的原生家庭够我吹一辈子",
+        "onboard_time": 1686701609,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201733,
+        "num": 201733,
+        "word": "核废水",
+        "onboard_time": 1686701911,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192103,
+        "num": 192103,
+        "word": "为什么坐飞机要用结实的旅行箱",
+        "onboard_time": 1686707309,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190764,
+        "num": 190764,
+        "word": "短睡可能是一种天赋",
+        "onboard_time": 1686700166,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189800,
+        "num": 189800,
+        "word": "照亮你夫妇同床",
+        "onboard_time": 1686707729,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 187148,
+        "word": "天津居民楼爆炸案嫌犯已被抓",
+        "onboard_time": 1686702692,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186744,
+        "num": 186744,
+        "word": "电锯人",
+        "onboard_time": 1686705094,
+        "rank": 41,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 174516,
+        "num": 183556,
+        "word": "世界献血者日",
+        "onboard_time": 1686706529,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182362,
+        "num": 182362,
+        "word": "杨洋出发米兰时装周路透",
+        "onboard_time": 1686706888,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179957,
+        "num": 179957,
+        "word": "大奉打更人",
+        "onboard_time": 1686702512,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165422,
+        "num": 165422,
+        "word": "爸爸怕女儿回家难过放下弟弟迎接",
+        "onboard_time": 1686700949,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139062,
+        "num": 139062,
+        "word": "收到梅西球票的爸爸哭了",
+        "onboard_time": 1686704494,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133313,
+        "num": 133313,
+        "word": "猫的树好会拍",
+        "onboard_time": 1686657329,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124368,
+        "num": 124368,
+        "word": "为什么夏天都不穿凉鞋了",
+        "onboard_time": 1686634286,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123318,
+        "num": 123318,
+        "word": "地铁被要微信的大无语事件",
+        "onboard_time": 1686662787,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和洪都拉斯联合声明#"
+    }
+  }
+}

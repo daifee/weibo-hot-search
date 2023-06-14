@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 09:40:18
+本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 09:57:26
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%23" target="weibo">
-黑色素瘤（热度：1675616）
+黑色素瘤（热度：1769965）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23" target="weibo">
+人民日报评地铁偷拍乌龙（热度：1723970）
 </a>
 </li>
 
@@ -39,26 +45,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%B9%8C%E9%BE%99%23" target="weibo">
-人民日报评地铁偷拍乌龙（热度：1337960）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9%23" target="weibo">
 教资面试成绩（热度：1329661）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%23" target="weibo">
-天津大学（热度：1217891）
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23" target="weibo">
+17岁女孩一晚连刷6套卷子后患脑病（热度：1253314）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%80%E6%99%9A%E8%BF%9E%E5%88%B76%E5%A5%97%E5%8D%B7%E5%AD%90%E5%90%8E%E6%82%A3%E8%84%91%E7%97%85%23" target="weibo">
-17岁女孩一晚连刷6套卷子后患脑病（热度：1179643）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%23" target="weibo">
+天津大学（热度：1217891）
 </a>
 </li>
 
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
 天津河东区一小区发生爆炸（热度：1005804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23" target="weibo">
+老伴去世老人挨个敲车窗求带看老房（热度：984817）
 </a>
 </li>
 
@@ -93,6 +99,12 @@ Jennie回应演唱会中途离场（热度：893375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%86%A0%E5%B8%8C%E5%81%B6%E9%81%87%E9%99%88%E5%B0%8F%E6%98%A5%E6%8B%8D%E6%88%8F%23" target="weibo">
+陈冠希偶遇陈小春拍戏（热度：891545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A5%BD%E4%BC%9A%E6%8B%8D%23" target="weibo">
 猫的树好会拍（热度：811890）
 </a>
@@ -100,13 +112,13 @@ Jennie回应演唱会中途离场（热度：893375）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%20%E6%88%91%E6%AF%94%E9%82%A3%E8%8B%B1%E5%94%B1%E5%BE%97%E6%9B%B4%E5%A5%BD%23" target="weibo">
-柯以敏 我比那英唱得更好（热度：739697）
+柯以敏 我比那英唱得更好（热度：764023）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%86%A0%E5%B8%8C%E5%81%B6%E9%81%87%E9%99%88%E5%B0%8F%E6%98%A5%E6%8B%8D%E6%88%8F%23" target="weibo">
-陈冠希偶遇陈小春拍戏（热度：723748）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E6%80%80%E5%AD%95%E4%BA%86%23" target="weibo">
+员工入职一个半月怀孕了（热度：707420）
 </a>
 </li>
 
@@ -117,8 +129,8 @@ Jennie回应演唱会中途离场（热度：893375）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%85%A5%E8%81%8C%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E6%80%80%E5%AD%95%E4%BA%86%23" target="weibo">
-员工入职一个半月怀孕了（热度：694115）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%20%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%23" target="weibo">
+张恒远 夜空中最亮的星（热度：638230）
 </a>
 </li>
 
@@ -137,6 +149,12 @@ Jennie回应演唱会中途离场（热度：893375）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%8F%88%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
 权志龙又买房了（热度：609366）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%23" target="weibo">
+天津爆炸（热度：604759）
 </a>
 </li>
 
@@ -165,20 +183,8 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8%23" target="weibo">
-天津爆炸（热度：461259）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
 梦是一种心理上的转码过程（热度：458080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23" target="weibo">
-老伴去世老人挨个敲车窗求带看老房（热度：447759）
 </a>
 </li>
 
@@ -231,14 +237,14 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-杭师大涉事男生发声（热度：323924）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%BA%AD%E6%9C%9F%E9%97%B4%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
+特朗普出庭期间被逮捕（热度：326426）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%BA%AD%E6%9C%9F%E9%97%B4%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
-特朗普出庭期间被逮捕（热度：318869）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B8%88%E5%A4%A7%E6%B6%89%E4%BA%8B%E7%94%B7%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+杭师大涉事男生发声（热度：323924）
 </a>
 </li>
 
@@ -255,14 +261,20 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E6%9C%80%E7%B3%9F%E7%B3%95%E7%9A%84%E5%8D%81%E5%B9%B4%23" target="weibo">
+人生最糟糕的十年（热度：292165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%96%91%E5%9C%B0%E9%93%81%E5%A5%B3%E5%AD%90%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 中学回应疑地铁女子高中同学发声（热度：290754）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E6%9C%80%E7%B3%9F%E7%B3%95%E7%9A%84%E5%8D%81%E5%B9%B4%23" target="weibo">
-人生最糟糕的十年（热度：271720）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
+阴阳师（热度：278081）
 </a>
 </li>
 
@@ -285,14 +297,14 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%23" target="weibo">
-核废水（热度：251300）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD%23" target="weibo">
+破镜重圆只有三种可能（热度：253943）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD%23" target="weibo">
-破镜重圆只有三种可能（热度：242889）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%23" target="weibo">
+核废水（热度：251300）
 </a>
 </li>
 
@@ -333,12 +345,6 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%81%92%E8%BF%9C%20%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%23" target="weibo">
-张恒远 夜空中最亮的星（热度：207049）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 年轻人不爱发朋友圈的原因（热度：196106）
 </a>
@@ -353,6 +359,18 @@ Uzi首发对战iG（热度：526808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%88%B8%E7%88%B8%E9%AA%91%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%99%BD%E8%A1%80%E7%97%85%E7%94%B7%E5%AD%A9%E7%A6%BB%E4%B8%96%23" target="weibo">
 和爸爸骑游中国的白血病男孩离世（热度：193966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%A6%81%E7%94%A8%E7%BB%93%E5%AE%9E%E7%9A%84%E6%97%85%E8%A1%8C%E7%AE%B1%23" target="weibo">
+为什么坐飞机要用结实的旅行箱（热度：192103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%85%A7%E4%BA%AE%E4%BD%A0%E5%A4%AB%E5%A6%87%E5%90%8C%E5%BA%8A%23" target="weibo">
+照亮你夫妇同床（热度：189800）
 </a>
 </li>
 
@@ -388,13 +406,19 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E8%A2%AB%E6%8A%93%23" target="weibo">
-天津居民楼爆炸案嫌犯已被抓（热度：185075）
+天津居民楼爆炸案嫌犯已被抓（热度：187148）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP%23" target="weibo">
 王传君 INFP（热度：183575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%87%BA%E5%8F%91%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%E8%B7%AF%E9%80%8F%23" target="weibo">
+杨洋出发米兰时装周路透（热度：182362）
 </a>
 </li>
 
@@ -425,12 +449,6 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8E%A7%E5%91%8A%E9%99%88%E5%BB%BA%E5%AE%81%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%AF%89%23" target="weibo">
 詹雯婷控告陈建宁反遭起诉（热度：173560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
-阴阳师（热度：172489）
 </a>
 </li>
 
