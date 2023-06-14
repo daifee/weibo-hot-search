@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686738822152,
+  "endTime": 1686741237113,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1771,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1644073,
+      "num": 1644073,
+      "word": "天津大学扣饭事件疑似现场画面曝光",
+      "onboard_time": 1686735507,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1642963,
       "num": 1596219,
       "word": "顾姓老师已调离华南理工",
@@ -3091,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210660,
+      "num": 1210660,
+      "word": "品牌方说赵露思礼服是借的",
+      "onboard_time": 1686737730,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1205493,
       "num": 1205493,
       "word": "梅西被迫宅在酒店",
@@ -4211,6 +4227,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 981577,
+      "num": 870816,
+      "word": "苏醒有点人脉",
+      "onboard_time": 1686736228,
+      "rank": 23,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 977357,
       "num": 977357,
       "word": "肖战迪丽热巴童话里走出来的王子公主",
@@ -4715,6 +4739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 889430,
+      "num": 889430,
+      "word": "大学上了一半专业没了",
+      "onboard_time": 1686728368,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 888042,
       "num": 888042,
       "word": "WBG零封JDG",
@@ -4819,14 +4851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 868526,
-      "num": 868526,
-      "word": "大学上了一半专业没了",
-      "onboard_time": 1686728368,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 867928,
       "num": 789302,
       "word": "上海迪士尼",
@@ -4881,14 +4905,6 @@
       "onboard_time": 1686301709,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 859200,
-      "num": 859200,
-      "word": "天津大学扣饭事件疑似现场画面曝光",
-      "onboard_time": 1686735507,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 857818,
@@ -7731,28 +7747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511256,
-      "num": 511256,
-      "word": "苏醒有点人脉",
-      "onboard_time": 1686736228,
-      "rank": 23,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 510977,
       "num": 510977,
       "word": "西瓜白粥",
       "onboard_time": 1686582691,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 508861,
-      "num": 508861,
-      "word": "品牌方说赵露思礼服是借的",
-      "onboard_time": 1686737730,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 507598,
@@ -15979,6 +15979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241905,
+      "num": 241905,
+      "word": "苏醒说包工作人员晚饭",
+      "onboard_time": 1686740545,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241824,
       "num": 241824,
       "word": "肖春生退伍",
@@ -17468,7 +17476,7 @@
     },
     {
       "raw_hot": 223897,
-      "num": 1245385,
+      "num": 1319753,
       "word": "老人向镜中自己问话儿子认真回答",
       "onboard_time": 1686733287,
       "rank": 14,
@@ -17665,6 +17673,14 @@
       "onboard_time": 1685593231,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220877,
+      "num": 220877,
+      "word": "恋与制作人",
+      "onboard_time": 1686740787,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 220842,
@@ -20195,6 +20211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195703,
+      "num": 195703,
+      "word": "贝林厄姆正式加盟皇马",
+      "onboard_time": 1686740545,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195628,
       "num": 209948,
       "word": "李沁认证肖春生社牛",
@@ -20681,6 +20705,14 @@
       "onboard_time": 1685713232,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 191872,
+      "num": 191872,
+      "word": "肖春生婚后vs叶国华婚后",
+      "onboard_time": 1686740248,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 191850,
@@ -22859,6 +22891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173696,
+      "num": 173696,
+      "word": "seventeen青岛签售会没有分组",
+      "onboard_time": 1686736889,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173681,
       "num": 173681,
       "word": "不要让肖春生陨落",
@@ -23121,14 +23161,6 @@
       "onboard_time": 1685711912,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169982,
-      "num": 169982,
-      "word": "seventeen青岛签售会没有分组",
-      "onboard_time": 1686736889,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 169886,
@@ -25483,6 +25515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147596,
+      "num": 147596,
+      "word": "Minnie带郑恺跳queencard",
+      "onboard_time": 1686739406,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147557,
       "num": 147557,
       "word": "杭州亚运会100天倒计时",
@@ -27387,6 +27427,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 125640,
+      "num": 125640,
+      "word": "黄永玉遗嘱说让我的骨灰回到大自然",
+      "onboard_time": 1686741027,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125438,
       "num": 125438,
       "word": "习惯一个人和喜欢一个人是两码事",
@@ -27931,6 +27979,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 119292,
+      "num": 119292,
+      "word": "Angelababy撕漫女",
+      "onboard_time": 1686741089,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 119279,
       "num": 119279,
       "word": "民警徒步18公里将游客背出沙漠",
@@ -28235,6 +28291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 115340,
+      "num": 115340,
+      "word": "熊猫宝宝爬树也需要鼓励式教育",
+      "onboard_time": 1686741208,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115309,
       "num": 115309,
       "word": "男生宿舍拍毕业转场视频破防了",
@@ -28353,6 +28417,14 @@
       "onboard_time": 1685612248,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112900,
+      "num": 112900,
+      "word": "苏醒你的笑声吵到我了",
+      "onboard_time": 1686739769,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112894,
@@ -31529,6 +31601,14 @@
       "onboard_time": 1685739912,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30167,
+      "num": 431669,
+      "word": "民警火场中果断破门救出被困老人",
+      "onboard_time": 1686740428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30116,

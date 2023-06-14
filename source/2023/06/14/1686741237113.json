@@ -1,0 +1,410 @@
+{
+  "runTime": 1686741237113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1822898,
+        "num": 1822898,
+        "word": "梅西苏醒合影",
+        "onboard_time": 1686731490,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 478399,
+        "num": 1650924,
+        "word": "小伙骑共享单车5000公里到新疆",
+        "onboard_time": 1686736228,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36975,
+        "num": 1646814,
+        "word": "感谢为爱勇敢伸出手臂的你",
+        "onboard_time": 1686727588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1644073,
+        "num": 1644073,
+        "word": "天津大学扣饭事件疑似现场画面曝光",
+        "onboard_time": 1686735507,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263900,
+        "num": 1592567,
+        "word": "医生去世后手机还一直收到患者消息",
+        "onboard_time": 1686716433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1563757,
+        "num": 1563757,
+        "word": "黄永玉逝世",
+        "onboard_time": 1686735507,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144052,
+        "num": 1319753,
+        "word": "老人向镜中自己问话儿子认真回答",
+        "onboard_time": 1686733287,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210660,
+        "num": 1210660,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1096342,
+        "num": 1096342,
+        "word": "薛之谦还没找到梅西吗",
+        "onboard_time": 1686733708,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889430,
+        "num": 889430,
+        "word": "大学上了一半专业没了",
+        "onboard_time": 1686728368,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 981577,
+        "num": 870816,
+        "word": "苏醒有点人脉",
+        "onboard_time": 1686736228,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 708067,
+        "num": 708067,
+        "word": "德国同学把我的剩饭吃了",
+        "onboard_time": 1686730108,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 673805,
+        "num": 673805,
+        "word": "Jennie道歉评论区",
+        "onboard_time": 1686724947,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467368,
+        "num": 467368,
+        "word": "陈仟钰是上戏艺考第一",
+        "onboard_time": 1686725069,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30167,
+        "num": 431669,
+        "word": "民警火场中果断破门救出被困老人",
+        "onboard_time": 1686740428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425507,
+        "num": 425507,
+        "word": "比Uzi还紧张",
+        "onboard_time": 1686727829,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388262,
+        "num": 388262,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368135,
+        "num": 368135,
+        "word": "EDG对战iG",
+        "onboard_time": 1686732449,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351321,
+        "num": 351321,
+        "word": "Uzi首发",
+        "onboard_time": 1686733049,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306218,
+        "num": 306218,
+        "word": "一批985毕业生选择主动延毕",
+        "onboard_time": 1686725186,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 391977,
+        "num": 305746,
+        "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+        "onboard_time": 1686719674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268526,
+        "num": 268526,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259285,
+        "num": 259285,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256052,
+        "num": 256052,
+        "word": "鞠婧祎回应撞脸歪嘴小猫",
+        "onboard_time": 1686716555,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250463,
+        "num": 250463,
+        "word": "Ella 是谁让你们送我莲花",
+        "onboard_time": 1686723628,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247417,
+        "num": 247417,
+        "word": "任敏跳舞 孙莉",
+        "onboard_time": 1686712829,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243435,
+        "num": 243435,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241905,
+        "num": 241905,
+        "word": "苏醒说包工作人员晚饭",
+        "onboard_time": 1686740545,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224264,
+        "num": 224264,
+        "word": "偷偷藏不住",
+        "onboard_time": 1686739588,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220877,
+        "num": 220877,
+        "word": "恋与制作人",
+        "onboard_time": 1686740787,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219575,
+        "num": 219575,
+        "word": "嵩山音乐节",
+        "onboard_time": 1686737792,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196499,
+        "num": 196499,
+        "word": "肖战李沁梦海对称美学",
+        "onboard_time": 1686737068,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195703,
+        "num": 195703,
+        "word": "贝林厄姆正式加盟皇马",
+        "onboard_time": 1686740545,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191872,
+        "num": 191872,
+        "word": "肖春生婚后vs叶国华婚后",
+        "onboard_time": 1686740248,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188823,
+        "num": 188823,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181929,
+        "num": 181929,
+        "word": "梅西i人本人",
+        "onboard_time": 1686736828,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173696,
+        "num": 173696,
+        "word": "seventeen青岛签售会没有分组",
+        "onboard_time": 1686736889,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170529,
+        "num": 170529,
+        "word": "汪峰 毕夏你要坚强",
+        "onboard_time": 1686712169,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160050,
+        "num": 160050,
+        "word": "刘浩存跳舞vs任敏跳舞",
+        "onboard_time": 1686731068,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 152747,
+        "word": "张艺兴金晨新片改名",
+        "onboard_time": 1686737308,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301505,
+        "num": 150686,
+        "word": "13岁女孩遭性侵怀孕引产后报警",
+        "onboard_time": 1686714873,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147596,
+        "num": 147596,
+        "word": "Minnie带郑恺跳queencard",
+        "onboard_time": 1686739406,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145513,
+        "num": 145513,
+        "word": "和情绪不稳定的人谈恋爱什么感受",
+        "onboard_time": 1686738809,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128024,
+        "num": 128024,
+        "word": "五条悟",
+        "onboard_time": 1686727287,
+        "rank": 43,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 125640,
+        "num": 125640,
+        "word": "黄永玉遗嘱说让我的骨灰回到大自然",
+        "onboard_time": 1686741027,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 125292,
+        "word": "阚清子 叶琳回来啦",
+        "onboard_time": 1686718595,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119292,
+        "num": 119292,
+        "word": "Angelababy撕漫女",
+        "onboard_time": 1686741089,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117407,
+        "num": 117407,
+        "word": "TMEA阵容",
+        "onboard_time": 1686737127,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115340,
+        "num": 115340,
+        "word": "熊猫宝宝爬树也需要鼓励式教育",
+        "onboard_time": 1686741208,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112900,
+        "num": 112900,
+        "word": "苏醒你的笑声吵到我了",
+        "onboard_time": 1686739769,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#100天后杭州亚运会#"
+    }
+  }
+}
