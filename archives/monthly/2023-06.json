@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686723703230,
+  "endTime": 1686724479712,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1443,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1794598,
+      "num": 1794598,
+      "word": "医生去世后手机还一直收到患者消息",
+      "onboard_time": 1686716433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1794101,
       "num": 1370428,
       "word": "柳州",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1685790448,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1486700,
-      "num": 1486700,
-      "word": "医生去世后手机还一直收到患者消息",
-      "onboard_time": 1686716433,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1478298,
@@ -3827,6 +3827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036256,
+      "num": 1036256,
+      "word": "小米回应被印度没收48亿元",
+      "onboard_time": 1686714932,
+      "rank": 23,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1035564,
       "num": 1035564,
       "word": "TFBOYS十周年演唱会招商PPT",
@@ -3913,14 +3921,6 @@
       "onboard_time": 1686481106,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1021287,
-      "num": 1021287,
-      "word": "小米回应被印度没收48亿元",
-      "onboard_time": 1686714932,
-      "rank": 23,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 1021108,
@@ -7219,6 +7219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548895,
+      "num": 548895,
+      "word": "向佐向唐诗逸道歉",
+      "onboard_time": 1686716196,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548589,
       "num": 548589,
       "word": "梦中的那片海有狂飙高晓晨",
@@ -7561,6 +7569,14 @@
       "onboard_time": 1686668370,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 513227,
+      "num": 411362,
+      "word": "Angelababy甜橙蝴蝶妆",
+      "onboard_time": 1686718415,
+      "rank": 27,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 512837,
@@ -9057,14 +9073,6 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411362,
-      "num": 411362,
-      "word": "Angelababy甜橙蝴蝶妆",
-      "onboard_time": 1686718415,
-      "rank": 27,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 411222,
@@ -11209,14 +11217,6 @@
       "onboard_time": 1686666451,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328966,
-      "num": 328966,
-      "word": "向佐向唐诗逸道歉",
-      "onboard_time": 1686716196,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 328570,
@@ -13771,6 +13771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271394,
+      "num": 271394,
+      "word": "怦然3三男争一女",
+      "onboard_time": 1686722548,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271370,
       "num": 271370,
       "word": "11岁男孩开电动车失控撞死3岁男童",
@@ -14329,14 +14337,6 @@
       "onboard_time": 1685620647,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262193,
-      "num": 262193,
-      "word": "怦然3三男争一女",
-      "onboard_time": 1686722548,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 262125,
@@ -16075,6 +16075,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 237642,
+      "num": 237642,
+      "word": "Ella 是谁让你们送我莲花",
+      "onboard_time": 1686723628,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237636,
       "num": 237636,
       "word": "山崎贤人尹净汉同框",
@@ -16953,6 +16961,14 @@
       "onboard_time": 1685634086,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226909,
+      "num": 226909,
+      "word": "出生率",
+      "onboard_time": 1686722849,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226863,
@@ -18883,6 +18899,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 204978,
+      "num": 204978,
+      "word": "杨幂黄明昊跳了flower",
+      "onboard_time": 1686722969,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "点燃了暑期的爆款剧",
@@ -19016,6 +19040,14 @@
       "word": "十个勤天",
       "onboard_time": 1685687906,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203595,
+      "num": 189190,
+      "word": "喜欢你4八个人成了两对半",
+      "onboard_time": 1686722490,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -19913,14 +19945,6 @@
       "onboard_time": 1686377246,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195356,
-      "num": 189190,
-      "word": "喜欢你4八个人成了两对半",
-      "onboard_time": 1686722490,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 195304,
@@ -21379,6 +21403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185667,
+      "num": 185667,
+      "word": "减肥主打一个想象力",
+      "onboard_time": 1686723090,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185649,
       "num": 185649,
       "word": "NCT将举办大队演唱会",
@@ -21955,6 +21987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179653,
+      "num": 179653,
+      "word": "戚薇听到会伤害孩子的反应",
+      "onboard_time": 1686723509,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179475,
       "num": 179475,
       "word": "高考是人生一次选择但不是唯一",
@@ -21977,14 +22017,6 @@
       "onboard_time": 1686231393,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179318,
-      "num": 179318,
-      "word": "杨幂黄明昊跳了flower",
-      "onboard_time": 1686722969,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 179081,
@@ -23331,14 +23363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164501,
-      "num": 164501,
-      "word": "出生率",
-      "onboard_time": 1686722849,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "明天有两部新剧开播",
@@ -23579,14 +23603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162232,
-      "num": 162232,
-      "word": "减肥主打一个想象力",
-      "onboard_time": 1686723090,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162146,
       "num": 950893,
       "word": "小伙用泥塑帮300人复活亲人样貌",
@@ -23785,14 +23801,6 @@
       "onboard_time": 1686624209,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 159662,
-      "num": 159662,
-      "word": "戚薇听到会伤害孩子的反应",
-      "onboard_time": 1686723509,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 159478,
@@ -24515,6 +24523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153044,
+      "num": 153044,
+      "word": "杭州跳桥救人小哥胸椎骨折",
+      "onboard_time": 1686724288,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152989,
       "num": 152989,
       "word": "小岛秀夫 苹果发布会",
@@ -25091,14 +25107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147160,
-      "num": 147160,
-      "word": "Ella 是谁让你们送我莲花",
-      "onboard_time": 1686723628,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147075,
       "num": 147075,
       "word": "这么多年网播定档",
@@ -25521,6 +25529,14 @@
       "onboard_time": 1685951188,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141628,
+      "num": 141628,
+      "word": "王俊凯新片路透",
+      "onboard_time": 1686724108,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141596,
@@ -26977,6 +26993,14 @@
       "onboard_time": 1686144156,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124400,
+      "num": 124400,
+      "word": "狼队对战TTG",
+      "onboard_time": 1686724469,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 124197,
@@ -30891,6 +30915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32545,
+      "num": 164510,
+      "word": "饿了么申请猜答案免单商标",
+      "onboard_time": 1686722969,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 32519,
       "num": 32519,
       "word": "联名款",
@@ -31043,6 +31075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26406,
+      "num": 485263,
+      "word": "乔欣电影之夜vlog",
+      "onboard_time": 1686722429,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26276,
       "num": 463252,
       "word": "上海电影节水幕音乐秀",
@@ -31179,14 +31219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21362,
-      "num": 164510,
-      "word": "饿了么申请猜答案免单商标",
-      "onboard_time": 1686722969,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 21272,
       "num": 151626,
       "word": "儿童节收到来自小朋友的反向祝福",
@@ -31209,14 +31241,6 @@
       "onboard_time": 1685703632,
       "rank": 39,
       "category": "社会新闻,综艺"
-    },
-    {
-      "raw_hot": 19874,
-      "num": 485263,
-      "word": "乔欣电影之夜vlog",
-      "onboard_time": 1686722429,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 19833,
@@ -31470,6 +31494,9 @@
     },
     {
       "word": "#愿中洪关系不断提质升级开新局#"
+    },
+    {
+      "word": "#新时代成就巡礼#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 14:21:43
+本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 14:34:39
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23" target="weibo">
+医生去世后手机还一直收到患者消息（热度：1794598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%23" target="weibo">
 黑色素瘤（热度：1769965）
 </a>
@@ -65,12 +71,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
 王鹤棣田曦薇 大奉打更人（热度：1665615）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23" target="weibo">
-医生去世后手机还一直收到患者消息（热度：1486700）
 </a>
 </li>
 
@@ -130,7 +130,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23" target="weibo">
-小米回应被印度没收48亿元（热度：1021287）
+小米回应被印度没收48亿元（热度：1036256）
 </a>
 </li>
 
@@ -261,6 +261,12 @@ Jennie回应演唱会中途离场（热度：893375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%90%91%E5%94%90%E8%AF%97%E9%80%B8%E9%81%93%E6%AD%89%23" target="weibo">
+向佐向唐诗逸道歉（热度：548895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E6%93%85%E8%87%AA%E6%BC%94%E5%87%BA%E8%A2%AB%E7%BD%9A%23" target="weibo">
 笑果旗下公司擅自演出被罚（热度：548549）
 </a>
@@ -281,6 +287,12 @@ Uzi首发对战iG（热度：526808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%BA%8A%E5%92%9A%E5%88%A0%E5%87%8F%E5%89%A7%E6%83%85%23" target="weibo">
 陈伟霆床咚删减剧情（热度：514686）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%94%9C%E6%A9%99%E8%9D%B4%E8%9D%B6%E5%A6%86%23" target="weibo">
+Angelababy甜橙蝴蝶妆（热度：513227）
 </a>
 </li>
 
@@ -311,12 +323,6 @@ Uzi首发对战iG（热度：526808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%8F%82%E5%8A%A0%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 梅西说不会参加下届世界杯（热度：433542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%94%9C%E6%A9%99%E8%9D%B4%E8%9D%B6%E5%A6%86%23" target="weibo">
-Angelababy甜橙蝴蝶妆（热度：411362）
 </a>
 </li>
 
@@ -371,12 +377,6 @@ Angelababy甜橙蝴蝶妆（热度：411362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A7%A3%E8%AF%BB%E8%82%96%E6%98%A5%E7%94%9F%E5%92%8C%E6%99%93%E6%A2%85%E7%BA%A2%E7%8E%B2%E7%9A%84%E6%84%9F%E6%83%85%23" target="weibo">
 肖战解读肖春生和晓梅红玲的感情（热度：332700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%90%91%E5%94%90%E8%AF%97%E9%80%B8%E9%81%93%E6%AD%89%23" target="weibo">
-向佐向唐诗逸道歉（热度：328966）
 </a>
 </li>
 
@@ -447,6 +447,12 @@ Angelababy甜橙蝴蝶妆（热度：411362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E4%B8%89%E7%94%B7%E4%BA%89%E4%B8%80%E5%A5%B3%23" target="weibo">
+怦然3三男争一女（热度：271394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%BE%E4%BC%9A%E6%B2%9F%E9%80%9A%E7%9A%84%23" target="weibo">
 谈恋爱一定要找会沟通的（热度：271382）
 </a>
@@ -477,12 +483,6 @@ Angelababy甜橙蝴蝶妆（热度：411362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E4%B8%89%E7%94%B7%E4%BA%89%E4%B8%80%E5%A5%B3%23" target="weibo">
-怦然3三男争一女（热度：262193）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%96%E8%82%89%E5%8F%AA%E8%83%96%E8%82%9A%E5%AD%90%23" target="weibo">
 为什么胖肉只胖肚子（热度：261063）
 </a>
@@ -503,6 +503,12 @@ Angelababy甜橙蝴蝶妆（热度：411362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E9%A9%AC%E5%B0%8F%E7%83%A6%23" target="weibo">
 马伯庸 马小烦（热度：246162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Ella%20%E6%98%AF%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%80%81%E6%88%91%E8%8E%B2%E8%8A%B1%23" target="weibo">
+Ella 是谁让你们送我莲花（热度：237642）
 </a>
 </li>
 
@@ -539,6 +545,12 @@ Angelababy甜橙蝴蝶妆（热度：411362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%AE%A3%E4%BC%A0%E9%83%BD%E4%B8%8D%E8%A6%81%E5%B8%B8%E8%AF%86%E5%90%97%23" target="weibo">
 朋友圈宣传都不要常识吗（热度：226943）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%23" target="weibo">
+出生率（热度：226909）
 </a>
 </li>
 
@@ -609,6 +621,18 @@ TT上最火的旅游国家是中国（热度：210597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%BB%84%E6%98%8E%E6%98%8A%E8%B7%B3%E4%BA%86flower%23" target="weibo">
+杨幂黄明昊跳了flower（热度：204978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BD%A04%E5%85%AB%E4%B8%AA%E4%BA%BA%E6%88%90%E4%BA%86%E4%B8%A4%E5%AF%B9%E5%8D%8A%23" target="weibo">
+喜欢你4八个人成了两对半（热度：203595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 年轻人不爱发朋友圈的原因（热度：196106）
 </a>
@@ -617,12 +641,6 @@ TT上最火的旅游国家是中国（热度：210597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 嵩山音乐节（热度：195377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BD%A04%E5%85%AB%E4%B8%AA%E4%BA%BA%E6%88%90%E4%BA%86%E4%B8%A4%E5%AF%B9%E5%8D%8A%23" target="weibo">
-喜欢你4八个人成了两对半（热度：195356）
 </a>
 </li>
 
@@ -705,6 +723,12 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E6%83%B3%E8%B1%A1%E5%8A%9B%23" target="weibo">
+减肥主打一个想象力（热度：185667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%20INFP%23" target="weibo">
 王传君 INFP（热度：183575）
 </a>
@@ -729,8 +753,8 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%BB%84%E6%98%8E%E6%98%8A%E8%B7%B3%E4%BA%86flower%23" target="weibo">
-杨幂黄明昊跳了flower（热度：179318）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%90%AC%E5%88%B0%E4%BC%9A%E4%BC%A4%E5%AE%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+戚薇听到会伤害孩子的反应（热度：179653）
 </a>
 </li>
 
@@ -801,32 +825,14 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%23" target="weibo">
-出生率（热度：164501）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 光与夜之恋（热度：163892）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E6%83%B3%E8%B1%A1%E5%8A%9B%23" target="weibo">
-减肥主打一个想象力（热度：162232）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%E4%B8%8E%E5%8E%9F%E5%8F%91%E7%97%A3%E6%9C%89%E5%85%B3%23" target="weibo">
 部分黑色素瘤与原发痣有关（热度：162133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%90%AC%E5%88%B0%E4%BC%9A%E4%BC%A4%E5%AE%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-戚薇听到会伤害孩子的反应（热度：159662）
 </a>
 </li>
 
@@ -851,6 +857,12 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A5%E5%A4%87%E5%92%8C%E5%88%86%E4%BA%AB%E6%98%AF%E4%B8%A4%E4%BB%B6%E4%BA%8B%23" target="weibo">
 报备和分享是两件事（热度：155940）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%E5%B0%8F%E5%93%A5%E8%83%B8%E6%A4%8E%E9%AA%A8%E6%8A%98%23" target="weibo">
+杭州跳桥救人小哥胸椎骨折（热度：153044）
 </a>
 </li>
 
@@ -897,12 +909,6 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Ella%20%E6%98%AF%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%80%81%E6%88%91%E8%8E%B2%E8%8A%B1%23" target="weibo">
-Ella 是谁让你们送我莲花（热度：147160）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87%E4%B9%9D%E5%B9%B4%23" target="weibo">
 喜欢一个人已经超过九年（热度：146626）
 </a>
@@ -935,6 +941,12 @@ Ella 是谁让你们送我莲花（热度：147160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E6%B5%B7%E5%BB%BA%23" target="weibo">
 茅海建（热度：142702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E7%89%87%E8%B7%AF%E9%80%8F%23" target="weibo">
+王俊凯新片路透（热度：141628）
 </a>
 </li>
 
@@ -977,6 +989,12 @@ Ella 是谁让你们送我莲花（热度：147160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%E5%B0%86%E5%BD%95%E5%88%B6%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
 迪丽热巴龚俊将录制你好星期六（热度：129430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%AF%B9%E6%88%98TTG%23" target="weibo">
+狼队对战TTG（热度：124400）
 </a>
 </li>
 
@@ -1107,8 +1125,20 @@ NIP对战OMG（热度：69946）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E7%94%B3%E8%AF%B7%E7%8C%9C%E7%AD%94%E6%A1%88%E5%85%8D%E5%8D%95%E5%95%86%E6%A0%87%23" target="weibo">
+饿了么申请猜答案免单商标（热度：32545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E12%E7%B1%B3%E9%AB%98%E5%A4%84%E8%B7%B3%E6%B1%9F%E5%B0%8F%E5%93%A5%E8%AE%B2%E8%BF%B0%E6%95%91%E4%BA%BA%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 从12米高处跳江小哥讲述救人全过程（热度：27587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9Cvlog%23" target="weibo">
+乔欣电影之夜vlog（热度：26406）
 </a>
 </li>
 
@@ -1121,18 +1151,6 @@ NIP对战OMG（热度：69946）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%9C%9F%E6%9C%AB%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
 大学生的期末精神状态（热度：23892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E7%94%B3%E8%AF%B7%E7%8C%9C%E7%AD%94%E6%A1%88%E5%85%8D%E5%8D%95%E5%95%86%E6%A0%87%23" target="weibo">
-饿了么申请猜答案免单商标（热度：21362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9Cvlog%23" target="weibo">
-乔欣电影之夜vlog（热度：19874）
 </a>
 </li>
 
@@ -1163,6 +1181,12 @@ NIP对战OMG（热度：69946）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B0%83%E7%A0%94%E8%A1%8C%23%23" target="weibo">
 #高质量发展调研行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E6%97%B6%E4%BB%A3%E6%88%90%E5%B0%B1%E5%B7%A1%E7%A4%BC%23%23" target="weibo">
+#新时代成就巡礼#
 </a>
 </li>
 
