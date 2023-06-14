@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686748810099,
+  "endTime": 1686749621858,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -217,6 +217,14 @@
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3428105,
+      "num": 609313,
+      "word": "宋仲基儿子出生",
+      "onboard_time": 1686748169,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3409292,
@@ -841,14 +849,6 @@
       "onboard_time": 1686377546,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2234758,
-      "num": 609313,
-      "word": "宋仲基儿子出生",
-      "onboard_time": 1686748169,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2230491,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1686217476,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1670701,
+      "num": 1670701,
+      "word": "14岁学生在教室被同学砍杀身亡",
+      "onboard_time": 1686747626,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1665615,
@@ -3456,14 +3464,6 @@
       "word": "杰克辣条孕妇群里发伪装的虐猫视频",
       "onboard_time": 1686406473,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1147344,
-      "num": 1147344,
-      "word": "14岁学生在教室被同学砍杀身亡",
-      "onboard_time": 1686747626,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -10683,6 +10683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 352398,
+      "num": 352398,
+      "word": "罗云熙全白造型",
+      "onboard_time": 1686745108,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 351741,
       "num": 344299,
       "word": "喂119吗我是需要帮忙抓蛇的110",
@@ -11969,14 +11977,6 @@
       "onboard_time": 1685622566,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314214,
-      "num": 314214,
-      "word": "罗云熙全白造型",
-      "onboard_time": 1686745108,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 314194,
@@ -14027,6 +14027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272959,
+      "num": 272959,
+      "word": "吴宣仪狐妖竹业篇路透",
+      "onboard_time": 1686747508,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "儿童节快乐",
@@ -14865,6 +14873,14 @@
       "onboard_time": 1686560849,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258343,
+      "num": 258343,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 258139,
@@ -15891,6 +15907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245265,
+      "num": 245265,
+      "word": "TES对战FPX",
+      "onboard_time": 1686749250,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245116,
       "num": 245116,
       "word": "宋亚轩怎么不放狠话",
@@ -16643,14 +16667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235282,
-      "num": 235282,
-      "word": "吴宣仪狐妖竹业篇路透",
-      "onboard_time": 1686747508,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234847,
       "num": 223223,
       "word": "肖战李沁新剧宿命感",
@@ -17371,6 +17387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226868,
+      "num": 226868,
+      "word": "罗云熙e人",
+      "onboard_time": 1686748770,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226863,
       "num": 226863,
       "word": "ff14",
@@ -17385,6 +17409,14 @@
       "onboard_time": 1686045629,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226232,
+      "num": 226232,
+      "word": "刘芮麟对肖战说抱一丝啦兄弟",
+      "onboard_time": 1686743727,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 226031,
@@ -18523,6 +18555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214051,
+      "num": 214051,
+      "word": "谭松韵碎花小黑裙",
+      "onboard_time": 1686749190,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213942,
       "num": 155336,
       "word": "甄嬛金句台词",
@@ -18729,14 +18769,6 @@
       "onboard_time": 1686544596,
       "rank": 35,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 211171,
-      "num": 211171,
-      "word": "刘芮麟对肖战说抱一丝啦兄弟",
-      "onboard_time": 1686743727,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 211103,
@@ -19355,6 +19387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205623,
+      "num": 205623,
+      "word": "VG让二追三",
+      "onboard_time": 1686749309,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205564,
       "num": 205564,
       "word": "肖战新剧制片人发文庆祝台网双爆",
@@ -19563,16 +19603,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203454,
-      "num": 203454,
-      "word": "福建的蟑螂",
-      "onboard_time": 1686745886,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 203416,
-      "num": 203416,
+      "raw_hot": 203429,
+      "num": 203429,
       "word": "苏醒没有梅西高",
       "onboard_time": 1686742287,
       "rank": 43,
@@ -21640,6 +21672,14 @@
       "word": "花戎产子",
       "onboard_time": 1686641487,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188209,
+      "num": 188209,
+      "word": "陈宏军参加了肖春生佟晓梅的婚礼",
+      "onboard_time": 1686749309,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -24475,6 +24515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159429,
+      "num": 159429,
+      "word": "白羊座为什么更容易吃亏上当",
+      "onboard_time": 1686744088,
+      "rank": 45,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 159322,
       "num": 159322,
       "word": "还记得你高考那天吗",
@@ -25355,6 +25403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151839,
+      "num": 151839,
+      "word": "双宋彻底BE",
+      "onboard_time": 1686749610,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -25833,6 +25889,14 @@
       "onboard_time": 1686327506,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146954,
+      "num": 146954,
+      "word": "XYG",
+      "onboard_time": 1686749610,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146653,
@@ -28115,14 +28179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120220,
-      "num": 128987,
-      "word": "罗云熙e人",
-      "onboard_time": 1686748770,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120187,
       "num": 120187,
       "word": "3岁三胞胎姐妹解锁派出所综窗初体验",
@@ -29459,6 +29515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99779,
+      "num": 1710325,
+      "word": "用一首歌来做毕业告别",
+      "onboard_time": 1686746308,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99615,
       "num": 99615,
       "word": "速度与激情11定档",
@@ -29753,14 +29817,6 @@
       "onboard_time": 1686314790,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 92190,
-      "num": 1407548,
-      "word": "用一首歌来做毕业告别",
-      "onboard_time": 1686746308,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92185,
@@ -30875,6 +30931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64610,
+      "num": 485077,
+      "word": "什么底妆能扛住红毯",
+      "onboard_time": 1686743128,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 64605,
       "num": 614587,
       "word": "来活了兄弟四川PK醋王",
@@ -31553,14 +31617,6 @@
       "onboard_time": 1686397889,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42002,
-      "num": 485077,
-      "word": "什么底妆能扛住红毯",
-      "onboard_time": 1686743128,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 41371,

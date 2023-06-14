@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686748810099,
+  "endTime": 1686749621858,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -15,6 +15,14 @@
       "num": 3569579,
       "word": "汪峰 毕夏你要坚强",
       "onboard_time": 1686712169,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3428105,
+      "num": 609313,
+      "word": "宋仲基儿子出生",
+      "onboard_time": 1686748169,
       "rank": 10,
       "category": "艺人"
     },
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2234758,
-      "num": 609313,
-      "word": "宋仲基儿子出生",
-      "onboard_time": 1686748169,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2214631,
       "num": 2214631,
       "word": "任敏跳舞 孙莉",
@@ -152,6 +152,14 @@
       "word": "天津大学扣饭事件疑似现场画面曝光",
       "onboard_time": 1686735507,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1670701,
+      "num": 1670701,
+      "word": "14岁学生在教室被同学砍杀身亡",
+      "onboard_time": 1686747626,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -289,14 +297,6 @@
       "onboard_time": 1686730108,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1147344,
-      "num": 1147344,
-      "word": "14岁学生在教室被同学砍杀身亡",
-      "onboard_time": 1686747626,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1097871,
@@ -731,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352398,
+      "num": 352398,
+      "word": "罗云熙全白造型",
+      "onboard_time": 1686745108,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 345688,
       "num": 345688,
       "word": "梦海给我调到第20集32分17秒",
@@ -809,14 +817,6 @@
       "onboard_time": 1686650368,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314214,
-      "num": 314214,
-      "word": "罗云熙全白造型",
-      "onboard_time": 1686745108,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 306667,
@@ -899,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272959,
+      "num": 272959,
+      "word": "吴宣仪狐妖竹业篇路透",
+      "onboard_time": 1686747508,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271394,
       "num": 271394,
       "word": "怦然3三男争一女",
@@ -953,6 +961,14 @@
       "onboard_time": 1686699986,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258343,
+      "num": 258343,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 257082,
@@ -1011,6 +1027,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 245265,
+      "num": 245265,
+      "word": "TES对战FPX",
+      "onboard_time": 1686749250,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244438,
       "num": 244438,
       "word": "Uzi采访",
@@ -1067,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235282,
-      "num": 235282,
-      "word": "吴宣仪狐妖竹业篇路透",
-      "onboard_time": 1686747508,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234222,
       "num": 234222,
       "word": "糖尿病为什么盯上了年轻人",
@@ -1121,6 +1137,22 @@
       "onboard_time": 1686713608,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226868,
+      "num": 226868,
+      "word": "罗云熙e人",
+      "onboard_time": 1686748770,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226232,
+      "num": 226232,
+      "word": "刘芮麟对肖战说抱一丝啦兄弟",
+      "onboard_time": 1686743727,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 226031,
@@ -1227,19 +1259,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214051,
+      "num": 214051,
+      "word": "谭松韵碎花小黑裙",
+      "onboard_time": 1686749190,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213658,
       "num": 213658,
       "word": "贺红玲vs金晨",
       "onboard_time": 1686731848,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211171,
-      "num": 211171,
-      "word": "刘芮麟对肖战说抱一丝啦兄弟",
-      "onboard_time": 1686743727,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1307,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205623,
+      "num": 205623,
+      "word": "VG让二追三",
+      "onboard_time": 1686749309,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205054,
       "num": 205054,
       "word": "肖战回应不会骑自行车",
@@ -1331,16 +1371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203454,
-      "num": 203454,
-      "word": "福建的蟑螂",
-      "onboard_time": 1686745886,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 203416,
-      "num": 203416,
+      "raw_hot": 203429,
+      "num": 203429,
       "word": "苏醒没有梅西高",
       "onboard_time": 1686742287,
       "rank": 43,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1686710910,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188209,
+      "num": 188209,
+      "word": "陈宏军参加了肖春生佟晓梅的婚礼",
+      "onboard_time": 1686749309,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 188034,
@@ -1787,6 +1827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159429,
+      "num": 159429,
+      "word": "白羊座为什么更容易吃亏上当",
+      "onboard_time": 1686744088,
+      "rank": 45,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 158981,
       "num": 158981,
       "word": "消防员高温天连续灭火体力不支中暑",
@@ -1867,6 +1915,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 151839,
+      "num": 151839,
+      "word": "双宋彻底BE",
+      "onboard_time": 1686749610,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151080,
       "num": 151080,
       "word": "面试时HR让我填血型",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1686729450,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146954,
+      "num": 146954,
+      "word": "XYG",
+      "onboard_time": 1686749610,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146626,
@@ -2155,14 +2219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 120220,
-      "num": 128987,
-      "word": "罗云熙e人",
-      "onboard_time": 1686748770,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119585,
       "num": 109863,
       "word": "NewJeans换妆造了",
@@ -2243,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99779,
+      "num": 1710325,
+      "word": "用一首歌来做毕业告别",
+      "onboard_time": 1686746308,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98156,
       "num": 98156,
       "word": "万新村",
@@ -2273,14 +2337,6 @@
       "onboard_time": 1686662547,
       "rank": 46,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 92190,
-      "num": 1407548,
-      "word": "用一首歌来做毕业告别",
-      "onboard_time": 1686746308,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91147,
@@ -2363,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64610,
+      "num": 485077,
+      "word": "什么底妆能扛住红毯",
+      "onboard_time": 1686743128,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 64605,
       "num": 614587,
       "word": "来活了兄弟四川PK醋王",
@@ -2417,14 +2481,6 @@
       "onboard_time": 1686697280,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42002,
-      "num": 485077,
-      "word": "什么底妆能扛住红毯",
-      "onboard_time": 1686743128,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 35229,

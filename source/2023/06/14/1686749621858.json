@@ -1,0 +1,410 @@
+{
+  "runTime": 1686749621858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1852745,
+        "num": 1852745,
+        "word": "Uzi哭了",
+        "onboard_time": 1686745048,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2495690,
+        "num": 1775255,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99779,
+        "num": 1710325,
+        "word": "用一首歌来做毕业告别",
+        "onboard_time": 1686746308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1670701,
+        "num": 1670701,
+        "word": "14岁学生在教室被同学砍杀身亡",
+        "onboard_time": 1686747626,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100974,
+        "num": 1100974,
+        "word": "关晓彤第一套vs第二套",
+        "onboard_time": 1686741986,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 960655,
+        "num": 960655,
+        "word": "Angelababy撕漫女",
+        "onboard_time": 1686741089,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 938052,
+        "num": 938052,
+        "word": "美国国务卿布林肯将访华",
+        "onboard_time": 1686746308,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 793708,
+        "num": 793708,
+        "word": "黄永玉逝世",
+        "onboard_time": 1686735507,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689477,
+        "num": 689477,
+        "word": "周三也休公司 上四休三绝不放弃",
+        "onboard_time": 1686745829,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602238,
+        "num": 602238,
+        "word": "薛之谦还没找到梅西吗",
+        "onboard_time": 1686733708,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3428105,
+        "num": 577276,
+        "word": "宋仲基儿子出生",
+        "onboard_time": 1686748169,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548686,
+        "num": 548686,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 542289,
+        "num": 542289,
+        "word": "Jennie道歉评论区",
+        "onboard_time": 1686724947,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 507906,
+        "num": 507906,
+        "word": "梅西苏醒合影",
+        "onboard_time": 1686731490,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 64610,
+        "num": 474510,
+        "word": "什么底妆能扛住红毯",
+        "onboard_time": 1686743128,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 459495,
+        "num": 459495,
+        "word": "陈仟钰是上戏艺考第一",
+        "onboard_time": 1686725069,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352398,
+        "num": 352398,
+        "word": "罗云熙全白造型",
+        "onboard_time": 1686745108,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 325096,
+        "num": 325096,
+        "word": "RNG",
+        "onboard_time": 1686747688,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297670,
+        "num": 297670,
+        "word": "易烊千玺易燃装置聚餐",
+        "onboard_time": 1686741268,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276063,
+        "num": 276063,
+        "word": "大学生脑出血交警咆哮式开道送医",
+        "onboard_time": 1686741628,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882730,
+        "num": 276042,
+        "word": "天津大学扣饭事件疑似现场画面曝光",
+        "onboard_time": 1686735507,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276009,
+        "num": 276009,
+        "word": "一批985毕业生选择主动延毕",
+        "onboard_time": 1686725186,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 272959,
+        "num": 272959,
+        "word": "吴宣仪狐妖竹业篇路透",
+        "onboard_time": 1686747508,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510799,
+        "num": 272346,
+        "word": "德国同学把我的剩饭吃了",
+        "onboard_time": 1686730108,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270683,
+        "num": 270683,
+        "word": "EDG战胜iG",
+        "onboard_time": 1686744088,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258343,
+        "num": 258343,
+        "word": "福建的蟑螂",
+        "onboard_time": 1686745886,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245265,
+        "num": 245265,
+        "word": "TES对战FPX",
+        "onboard_time": 1686749250,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241726,
+        "num": 241726,
+        "word": "大学上了一半专业没了",
+        "onboard_time": 1686728368,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229054,
+        "num": 229054,
+        "word": "Ahn 搓澡",
+        "onboard_time": 1686735447,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226868,
+        "num": 226868,
+        "word": "罗云熙e人",
+        "onboard_time": 1686748770,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226232,
+        "num": 226232,
+        "word": "刘芮麟对肖战说抱一丝啦兄弟",
+        "onboard_time": 1686743727,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215601,
+        "num": 215601,
+        "word": "苏醒有点人脉",
+        "onboard_time": 1686736228,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 214051,
+        "num": 214051,
+        "word": "谭松韵碎花小黑裙",
+        "onboard_time": 1686749190,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205623,
+        "num": 205623,
+        "word": "VG让二追三",
+        "onboard_time": 1686749309,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203429,
+        "num": 203429,
+        "word": "苏醒没有梅西高",
+        "onboard_time": 1686742287,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 198445,
+        "num": 198445,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189963,
+        "num": 189963,
+        "word": "梅西已在中国注册名字商标",
+        "onboard_time": 1686741449,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 188209,
+        "num": 188209,
+        "word": "陈宏军参加了肖春生佟晓梅的婚礼",
+        "onboard_time": 1686749309,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185417,
+        "num": 185417,
+        "word": "厦门VG",
+        "onboard_time": 1686744868,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181983,
+        "num": 181983,
+        "word": "Uzi复出首胜",
+        "onboard_time": 1686744269,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171773,
+        "num": 171773,
+        "word": "肖春生婚后vs叶国华婚后",
+        "onboard_time": 1686740248,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171019,
+        "num": 171019,
+        "word": "VG对战WB",
+        "onboard_time": 1686741508,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168824,
+        "num": 168824,
+        "word": "jiejie状态",
+        "onboard_time": 1686744450,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168704,
+        "num": 168704,
+        "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+        "onboard_time": 1686719674,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161839,
+        "num": 161839,
+        "word": "比Uzi还紧张",
+        "onboard_time": 1686727829,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159429,
+        "num": 159429,
+        "word": "白羊座为什么更容易吃亏上当",
+        "onboard_time": 1686744088,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 152074,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151839,
+        "num": 151839,
+        "word": "双宋彻底BE",
+        "onboard_time": 1686749610,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150454,
+        "num": 150454,
+        "word": "重庆中考政治",
+        "onboard_time": 1686748228,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146954,
+        "num": 146954,
+        "word": "XYG",
+        "onboard_time": 1686749610,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}
