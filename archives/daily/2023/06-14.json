@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686742421065,
+  "endTime": 1686746041473,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2168129,
+      "num": 1749005,
+      "word": "这竟然是肖战本人发的",
+      "onboard_time": 1686743727,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2078480,
       "num": 2006405,
       "word": "13岁女孩遭性侵怀孕引产后报警",
@@ -97,6 +105,14 @@
       "onboard_time": 1686724947,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1851482,
+      "num": 1851482,
+      "word": "EDG战胜iG",
+      "onboard_time": 1686744088,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1794598,
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1475115,
+      "num": 1475115,
+      "word": "Uzi复出首胜",
+      "onboard_time": 1686744269,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1387124,
       "num": 1387124,
       "word": "老伴去世老人挨个敲车窗求带看老房",
@@ -163,20 +187,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1308499,
+      "num": 1308499,
+      "word": "品牌方说赵露思礼服是借的",
+      "onboard_time": 1686737730,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1297006,
       "num": 1194295,
       "word": "向佐向唐诗逸道歉",
       "onboard_time": 1686716196,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1295302,
-      "num": 1295302,
-      "word": "品牌方说赵露思礼服是借的",
-      "onboard_time": 1686737730,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1261605,
@@ -217,6 +241,22 @@
       "onboard_time": 1686712892,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170413,
+      "num": 1170413,
+      "word": "Angelababy撕漫女",
+      "onboard_time": 1686741089,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1169011,
+      "num": 1169011,
+      "word": "关晓彤第一套vs第二套",
+      "onboard_time": 1686741986,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1158012,
@@ -419,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 640071,
+      "num": 1388427,
+      "word": "大学生脑出血交警咆哮式开道送医",
+      "onboard_time": 1686741628,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638230,
       "num": 638230,
       "word": "张恒远 夜空中最亮的星",
@@ -441,6 +489,14 @@
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614709,
+      "num": 614709,
+      "word": "Uzi哭了",
+      "onboard_time": 1686745048,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 609366,
@@ -539,6 +595,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 467365,
+      "num": 467365,
+      "word": "厦门VG",
+      "onboard_time": 1686744868,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 458080,
       "num": 458080,
       "word": "梦是一种心理上的转码过程",
@@ -571,12 +635,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 381748,
+      "num": 381748,
+      "word": "螺蛳粉酿酒",
+      "onboard_time": 1686744989,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 373026,
       "num": 267448,
       "word": "TTG运营",
       "onboard_time": 1686726809,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 365403,
+      "num": 365403,
+      "word": "易烊千玺易燃装置聚餐",
+      "onboard_time": 1686741268,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 365295,
@@ -795,14 +875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270036,
-      "num": 270036,
-      "word": "Angelababy撕漫女",
-      "onboard_time": 1686741089,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 266183,
       "num": 266183,
       "word": "汪峰战队",
@@ -843,12 +915,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256239,
-      "num": 256239,
-      "word": "易烊千玺易燃装置聚餐",
-      "onboard_time": 1686741268,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 255345,
+      "num": 255345,
+      "word": "梅西已在中国注册名字商标",
+      "onboard_time": 1686741449,
+      "rank": 27,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 253943,
@@ -891,6 +963,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 243272,
+      "num": 243272,
+      "word": "神的骑士礼",
+      "onboard_time": 1686745648,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242839,
       "num": 242839,
       "word": "杨幂黄明昊跳了flower",
@@ -931,6 +1011,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 234082,
+      "num": 234082,
+      "word": "jiejie状态",
+      "onboard_time": 1686744450,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231178,
       "num": 231178,
       "word": "那英年轻的时候也是大sai迷",
@@ -961,14 +1049,6 @@
       "onboard_time": 1686713608,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226149,
-      "num": 226149,
-      "word": "梅西已在中国注册名字商标",
-      "onboard_time": 1686741449,
-      "rank": 27,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 226031,
@@ -1043,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215946,
-      "num": 215946,
-      "word": "关晓彤第一套vs第二套",
-      "onboard_time": 1686741986,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 214621,
       "num": 214621,
       "word": "短睡可能是一种天赋",
@@ -1080,6 +1152,14 @@
       "word": "贺红玲vs金晨",
       "onboard_time": 1686731848,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211171,
+      "num": 211171,
+      "word": "刘芮麟对肖战说抱一丝啦兄弟",
+      "onboard_time": 1686743727,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1195,6 +1275,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197552,
+      "num": 206118,
+      "word": "罗云熙全白造型",
+      "onboard_time": 1686745108,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 197212,
+      "num": 197212,
+      "word": "周三也休公司 上四休三绝不放弃",
+      "onboard_time": 1686745829,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1686734367,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "苏醒没有梅西高",
+      "onboard_time": 1686742287,
+      "rank": 43,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 191296,
@@ -1363,14 +1467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183604,
-      "num": 1388427,
-      "word": "大学生脑出血交警咆哮式开道送医",
-      "onboard_time": 1686741628,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183575,
       "num": 183575,
       "word": "王传君 INFP",
@@ -1385,6 +1481,14 @@
       "onboard_time": 1686706888,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181386,
+      "num": 181386,
+      "word": "泽尻英龙华",
+      "onboard_time": 1686742946,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 180102,
@@ -1675,6 +1779,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 150407,
+      "num": 150407,
+      "word": "回学校骂了对自己不好的老师",
+      "onboard_time": 1686742826,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 150051,
       "num": 150051,
       "word": "光与夜之恋二周年",
@@ -1705,14 +1817,6 @@
       "onboard_time": 1686665911,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147886,
-      "num": 147886,
-      "word": "苏醒没有梅西高",
-      "onboard_time": 1686742287,
-      "rank": 43,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 147803,
@@ -1753,6 +1857,14 @@
       "onboard_time": 1686719794,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146575,
+      "num": 146575,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 146001,
@@ -1891,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131568,
+      "num": 540699,
+      "word": "卡粉和浮粉有什么区别",
+      "onboard_time": 1686744029,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131442,
       "num": 131442,
       "word": "沈梦辰 我的故事刚翻到第34页",
@@ -1947,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115968,
+      "num": 115968,
+      "word": "Uzi采访",
+      "onboard_time": 1686746008,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115340,
       "num": 115340,
       "word": "熊猫宝宝爬树也需要鼓励式教育",
@@ -1976,6 +2104,14 @@
       "word": "英雄联盟排队",
       "onboard_time": 1686666027,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 108603,
+      "num": 108603,
+      "word": "VG对战WB",
+      "onboard_time": 1686741508,
+      "rank": 49,
       "category": "游戏"
     },
     {

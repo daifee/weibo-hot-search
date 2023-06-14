@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686742421065,
+  "endTime": 1686746041473,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2168129,
+      "num": 1749005,
+      "word": "这竟然是肖战本人发的",
+      "onboard_time": 1686743727,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2129279,
       "num": 2129279,
       "word": "发小喊了四年终于离职了",
@@ -281,6 +289,14 @@
       "onboard_time": 1686542373,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1851482,
+      "num": 1851482,
+      "word": "EDG战胜iG",
+      "onboard_time": 1686744088,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1819415,
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1475115,
+      "num": 1475115,
+      "word": "Uzi复出首胜",
+      "onboard_time": 1686744269,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1465738,
       "num": 1051224,
       "word": "注册不了张z公开道歉为何再惹众怒",
@@ -539,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1308499,
+      "num": 1308499,
+      "word": "品牌方说赵露思礼服是借的",
+      "onboard_time": 1686737730,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1297006,
       "num": 1194295,
       "word": "向佐向唐诗逸道歉",
       "onboard_time": 1686716196,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1295302,
-      "num": 1295302,
-      "word": "品牌方说赵露思礼服是借的",
-      "onboard_time": 1686737730,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1291029,
@@ -649,6 +673,22 @@
       "onboard_time": 1686712892,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170413,
+      "num": 1170413,
+      "word": "Angelababy撕漫女",
+      "onboard_time": 1686741089,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1169011,
+      "num": 1169011,
+      "word": "关晓彤第一套vs第二套",
+      "onboard_time": 1686741986,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1158012,
@@ -1299,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 640071,
+      "num": 1388427,
+      "word": "大学生脑出血交警咆哮式开道送医",
+      "onboard_time": 1686741628,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638230,
       "num": 638230,
       "word": "张恒远 夜空中最亮的星",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 614709,
+      "num": 614709,
+      "word": "Uzi哭了",
+      "onboard_time": 1686745048,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 609366,
@@ -1611,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467365,
+      "num": 467365,
+      "word": "厦门VG",
+      "onboard_time": 1686744868,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 466613,
       "num": 466613,
       "word": "陈绮贞回应钟成虎",
@@ -1811,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381748,
+      "num": 381748,
+      "word": "螺蛳粉酿酒",
+      "onboard_time": 1686744989,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 377381,
       "num": 377381,
       "word": "年轻人不睡觉的原因找到了",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1686630573,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365403,
+      "num": 365403,
+      "word": "易烊千玺易燃装置聚餐",
+      "onboard_time": 1686741268,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 364258,
@@ -2531,14 +2611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270036,
-      "num": 270036,
-      "word": "Angelababy撕漫女",
-      "onboard_time": 1686741089,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 269453,
       "num": 269453,
       "word": "广东超市里面的蟑螂气球",
@@ -2707,14 +2779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256239,
-      "num": 256239,
-      "word": "易烊千玺易燃装置聚餐",
-      "onboard_time": 1686741268,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255738,
       "num": 255738,
       "word": "日本核废水",
@@ -2737,6 +2801,14 @@
       "onboard_time": 1686622049,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255345,
+      "num": 255345,
+      "word": "梅西已在中国注册名字商标",
+      "onboard_time": 1686741449,
+      "rank": 27,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 255046,
@@ -2915,6 +2987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243272,
+      "num": 243272,
+      "word": "神的骑士礼",
+      "onboard_time": 1686745648,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243080,
       "num": 243080,
       "word": "原神万叶",
@@ -3059,6 +3139,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 234082,
+      "num": 234082,
+      "word": "jiejie状态",
+      "onboard_time": 1686744450,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234002,
       "num": 234002,
       "word": "肖春生腿好了嘴也好了",
@@ -3169,14 +3257,6 @@
       "onboard_time": 1686713608,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226149,
-      "num": 226149,
-      "word": "梅西已在中国注册名字商标",
-      "onboard_time": 1686741449,
-      "rank": 27,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 226031,
@@ -3379,14 +3459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215946,
-      "num": 215946,
-      "word": "关晓彤第一套vs第二套",
-      "onboard_time": 1686741986,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 214834,
       "num": 214834,
       "word": "如何看待明星公开炫富",
@@ -3481,6 +3553,14 @@
       "onboard_time": 1686544596,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 211171,
+      "num": 211171,
+      "word": "刘芮麟对肖战说抱一丝啦兄弟",
+      "onboard_time": 1686743727,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 210752,
@@ -3875,6 +3955,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197552,
+      "num": 206118,
+      "word": "罗云熙全白造型",
+      "onboard_time": 1686745108,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 197212,
+      "num": 197212,
+      "word": "周三也休公司 上四休三绝不放弃",
+      "onboard_time": 1686745829,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196545,
       "num": 196545,
       "word": "警方回应男子地铁上被俩女子怀疑偷拍",
@@ -3993,6 +4089,14 @@
       "onboard_time": 1686533727,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "苏醒没有梅西高",
+      "onboard_time": 1686742287,
+      "rank": 43,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 192106,
@@ -4347,14 +4451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183604,
-      "num": 1388427,
-      "word": "大学生脑出血交警咆哮式开道送医",
-      "onboard_time": 1686741628,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182799,
       "num": 182799,
       "word": "玛格丽特别放盐回应",
@@ -4377,6 +4473,14 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181386,
+      "num": 181386,
+      "word": "泽尻英龙华",
+      "onboard_time": 1686742946,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 180684,
@@ -5107,6 +5211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150407,
+      "num": 150407,
+      "word": "回学校骂了对自己不好的老师",
+      "onboard_time": 1686742826,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 150071,
       "num": 150071,
       "word": "肖战家人对梦中的那片海的评价",
@@ -5203,14 +5315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147886,
-      "num": 147886,
-      "word": "苏醒没有梅西高",
-      "onboard_time": 1686742287,
-      "rank": 43,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 147803,
       "num": 147803,
       "word": "李俊昊林允儿双人画报",
@@ -5265,6 +5369,14 @@
       "onboard_time": 1686656547,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146575,
+      "num": 146575,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 146001,
@@ -5715,6 +5827,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 131568,
+      "num": 540699,
+      "word": "卡粉和浮粉有什么区别",
+      "onboard_time": 1686744029,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131442,
       "num": 131442,
       "word": "沈梦辰 我的故事刚翻到第34页",
@@ -6051,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115968,
+      "num": 115968,
+      "word": "Uzi采访",
+      "onboard_time": 1686746008,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115340,
       "num": 115340,
       "word": "熊猫宝宝爬树也需要鼓励式教育",
@@ -6129,6 +6257,14 @@
       "onboard_time": 1686611240,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108603,
+      "num": 108603,
+      "word": "VG对战WB",
+      "onboard_time": 1686741508,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108338,
