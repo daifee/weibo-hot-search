@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686741237113,
+  "endTime": 1686742421065,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -115,20 +115,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1769688,
+      "num": 1644073,
+      "word": "天津大学扣饭事件疑似现场画面曝光",
+      "onboard_time": 1686735507,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1665615,
       "num": 1665615,
       "word": "王鹤棣田曦薇 大奉打更人",
       "onboard_time": 1686670050,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1644073,
-      "num": 1644073,
-      "word": "天津大学扣饭事件疑似现场画面曝光",
-      "onboard_time": 1686735507,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1577327,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1295302,
+      "num": 1295302,
+      "word": "品牌方说赵露思礼服是借的",
+      "onboard_time": 1686737730,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1261605,
       "num": 1261605,
       "word": "17岁女孩一晚连刷6套卷子后患脑病",
@@ -185,14 +193,6 @@
       "onboard_time": 1686727829,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1210660,
-      "num": 1210660,
-      "word": "品牌方说赵露思礼服是借的",
-      "onboard_time": 1686737730,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1204213,
@@ -257,6 +257,14 @@
       "onboard_time": 1686704435,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1019667,
+      "num": 1019667,
+      "word": "大学上了一半专业没了",
+      "onboard_time": 1686728368,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1005804,
@@ -329,14 +337,6 @@
       "onboard_time": 1686665488,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 889430,
-      "num": 889430,
-      "word": "大学上了一半专业没了",
-      "onboard_time": 1686728368,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 857818,
@@ -795,6 +795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270036,
+      "num": 270036,
+      "word": "Angelababy撕漫女",
+      "onboard_time": 1686741089,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 266183,
       "num": 266183,
       "word": "汪峰战队",
@@ -835,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256239,
+      "num": 256239,
+      "word": "易烊千玺易燃装置聚餐",
+      "onboard_time": 1686741268,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253943,
       "num": 253943,
       "word": "破镜重圆只有三种可能",
@@ -849,6 +865,14 @@
       "onboard_time": 1686737127,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252518,
+      "num": 252518,
+      "word": "苏醒说包工作人员晚饭",
+      "onboard_time": 1686740545,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 251300,
@@ -872,14 +896,6 @@
       "word": "杨幂黄明昊跳了flower",
       "onboard_time": 1686722969,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 241905,
-      "num": 241905,
-      "word": "苏醒说包工作人员晚饭",
-      "onboard_time": 1686740545,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -947,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226149,
+      "num": 226149,
+      "word": "梅西已在中国注册名字商标",
+      "onboard_time": 1686741449,
+      "rank": 27,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 226031,
       "num": 226031,
       "word": "内娱冷门颜霸图鉴",
@@ -980,7 +1004,7 @@
     },
     {
       "raw_hot": 223897,
-      "num": 1319753,
+      "num": 1333207,
       "word": "老人向镜中自己问话儿子认真回答",
       "onboard_time": 1686733287,
       "rank": 14,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1686736828,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215946,
+      "num": 215946,
+      "word": "关晓彤第一套vs第二套",
+      "onboard_time": 1686741986,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214621,
@@ -1155,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198147,
+      "num": 198147,
+      "word": "肖春生自证清白",
+      "onboard_time": 1686741449,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -1195,20 +1235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193490,
+      "num": 191872,
+      "word": "肖春生婚后vs叶国华婚后",
+      "onboard_time": 1686740248,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192702,
       "num": 192702,
       "word": "蒋奇明粉色睡袍",
       "onboard_time": 1686734367,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191872,
-      "num": 191872,
-      "word": "肖春生婚后vs叶国华婚后",
-      "onboard_time": 1686740248,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 191296,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1686738809,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183604,
+      "num": 1388427,
+      "word": "大学生脑出血交警咆哮式开道送医",
+      "onboard_time": 1686741628,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183575,
@@ -1659,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147886,
+      "num": 147886,
+      "word": "苏醒没有梅西高",
+      "onboard_time": 1686742287,
+      "rank": 43,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 147803,
       "num": 147803,
       "word": "李俊昊林允儿双人画报",
@@ -1891,14 +1947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 119292,
-      "num": 119292,
-      "word": "Angelababy撕漫女",
-      "onboard_time": 1686741089,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 115340,
       "num": 115340,
       "word": "熊猫宝宝爬树也需要鼓励式教育",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1686739769,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112375,
+      "num": 122686,
+      "word": "学习路上的绊脚石",
+      "onboard_time": 1686742167,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 111292,
@@ -2027,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72798,
+      "num": 491957,
+      "word": "民警火场中果断破门救出被困老人",
+      "onboard_time": 1686740428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69946,
       "num": 69946,
       "word": "NIP对战OMG",
@@ -2128,14 +2192,6 @@
       "word": "街头公益钢琴流淌的是温情和梦想",
       "onboard_time": 1686710308,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30167,
-      "num": 431669,
-      "word": "民警火场中果断破门救出被困老人",
-      "onboard_time": 1686740428,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
