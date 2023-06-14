@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686717239703,
+  "endTime": 1686719778500,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2078480,
+      "num": 2006405,
+      "word": "13岁女孩遭性侵怀孕引产后报警",
+      "onboard_time": 1686714873,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2020355,
       "num": 2020355,
       "word": "韩国演员朴秀莲从楼梯摔落去世",
       "onboard_time": 1686554189,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2006405,
-      "num": 2006405,
-      "word": "13岁女孩遭性侵怀孕引产后报警",
-      "onboard_time": 1686714873,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1978253,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1119195,
+      "num": 1119195,
+      "word": "医生去世后手机还一直收到患者消息",
+      "onboard_time": 1686716433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118116,
       "num": 1118116,
       "word": "为什么夏天都不穿凉鞋了",
@@ -771,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 938068,
+      "num": 938068,
+      "word": "小米回应被印度没收48亿元",
+      "onboard_time": 1686714932,
+      "rank": 23,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 919916,
       "num": 919916,
       "word": "梅西说不会参加下届世界杯",
@@ -881,6 +897,14 @@
       "onboard_time": 1686545979,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 839863,
+      "num": 512510,
+      "word": "实习生发错信息到工作群",
+      "onboard_time": 1686708388,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 836068,
@@ -1059,28 +1083,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 719272,
-      "num": 719272,
-      "word": "小米回应被印度没收48亿元",
-      "onboard_time": 1686714932,
-      "rank": 23,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 715346,
       "num": 715346,
       "word": "Jennie身体状况",
       "onboard_time": 1686486811,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710848,
-      "num": 512510,
-      "word": "实习生发错信息到工作群",
-      "onboard_time": 1686708388,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 707420,
@@ -1315,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 519441,
+      "num": 450393,
+      "word": "肖战专访",
+      "onboard_time": 1686718292,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516095,
       "num": 367733,
       "word": "喝过的水竟然被蟑螂爬过",
@@ -1387,8 +1403,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479990,
+      "num": 449340,
+      "word": "鞠婧祎回应撞脸歪嘴小猫",
+      "onboard_time": 1686716555,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476763,
-      "num": 391346,
+      "num": 448727,
       "word": "原来物理防晒胜过所有防晒霜",
       "onboard_time": 1686698603,
       "rank": 30,
@@ -1667,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358814,
+      "num": 358814,
+      "word": "Angelababy甜橙蝴蝶妆",
+      "onboard_time": 1686718415,
+      "rank": 27,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 358361,
       "num": 358361,
       "word": "梦海证婚椅",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1686546754,
       "rank": 45,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 355013,
+      "num": 355013,
+      "word": "胡锡进 四川大学面临考验",
+      "onboard_time": 1686717513,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 350792,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1686669329,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 335645,
+      "num": 335645,
+      "word": "警方回应天津大学扣饭事件",
+      "onboard_time": 1686716616,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334492,
@@ -1995,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306667,
+      "num": 306667,
+      "word": "喜欢你我也是",
+      "onboard_time": 1686717879,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304295,
       "num": 276913,
       "word": "广州南站按摩椅出现大量虫子",
@@ -2035,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296561,
+      "num": 296561,
+      "word": "阚清子 叶琳回来啦",
+      "onboard_time": 1686718595,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295558,
       "num": 295558,
       "word": "阿信",
@@ -2057,6 +2121,14 @@
       "onboard_time": 1686644969,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 293950,
+      "num": 293950,
+      "word": "王一博沙漠里唱晴天",
+      "onboard_time": 1686718893,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 292165,
@@ -2603,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242258,
-      "num": 242258,
-      "word": "警方回应天津大学扣饭事件",
-      "onboard_time": 1686716616,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241045,
       "num": 241045,
       "word": "LPL",
@@ -2859,14 +2923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 223838,
-      "num": 223838,
-      "word": "鞠婧祎回应撞脸歪嘴小猫",
-      "onboard_time": 1686716555,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223758,
       "num": 223758,
       "word": "阿那亚虾米音乐节阵容",
@@ -3067,12 +3123,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 211137,
+      "num": 211137,
+      "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+      "onboard_time": 1686719674,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210752,
       "num": 210752,
       "word": "都给马思纯p成啥样了",
       "onboard_time": 1686462028,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210597,
+      "num": 210597,
+      "word": "TT上最火的旅游国家是中国",
+      "onboard_time": 1686716975,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 210434,
@@ -3211,12 +3283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202817,
-      "num": 329546,
-      "word": "医生去世后手机还一直收到患者消息",
-      "onboard_time": 1686716433,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 202858,
+      "num": 202858,
+      "word": "肖战下围棋",
+      "onboard_time": 1686719674,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 202779,
@@ -3371,14 +3443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196965,
-      "num": 196965,
-      "word": "TT上最火的旅游国家是中国",
-      "onboard_time": 1686716975,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 196545,
       "num": 196545,
       "word": "警方回应男子地铁上被俩女子怀疑偷拍",
@@ -3409,6 +3473,14 @@
       "onboard_time": 1686714510,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195033,
+      "num": 195033,
+      "word": "相思令",
+      "onboard_time": 1686719734,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 194813,
@@ -3513,6 +3585,14 @@
       "onboard_time": 1686567509,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191296,
+      "num": 191296,
+      "word": "广末凉子老公",
+      "onboard_time": 1686717576,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 191181,
@@ -4411,6 +4491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149809,
+      "num": 174497,
+      "word": "哪些人容易得黑色素瘤",
+      "onboard_time": 1686719253,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149635,
       "num": 149635,
       "word": "周也在校旧照",
@@ -4505,6 +4593,14 @@
       "onboard_time": 1686558208,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147218,
+      "num": 174034,
+      "word": "原来近亲不能输血",
+      "onboard_time": 1686719194,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 146596,
@@ -4609,6 +4705,14 @@
       "onboard_time": 1686541832,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142702,
+      "num": 173591,
+      "word": "茅海建",
+      "onboard_time": 1686718114,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142598,
@@ -5736,6 +5840,14 @@
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42496,
+      "num": 688183,
+      "word": "交警脱下雨衣一路小跑披在孩子身上",
+      "onboard_time": 1686718834,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
