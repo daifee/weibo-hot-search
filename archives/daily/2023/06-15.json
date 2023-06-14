@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686784694285,
+  "endTime": 1686785654594,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1373496,
-      "num": 496951,
+      "num": 635822,
       "word": "宋仲基儿子出生",
       "onboard_time": 1686748169,
       "rank": 5,
@@ -25,6 +25,14 @@
       "onboard_time": 1686749610,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1039402,
+      "num": 1039402,
+      "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+      "onboard_time": 1686754593,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 978312,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 790834,
-      "num": 790834,
-      "word": "考古女生寄200斤洛阳铲装备吓坏父母",
-      "onboard_time": 1686754593,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 761175,
       "num": 761175,
       "word": "梅西苏醒合影",
@@ -75,12 +75,36 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 651429,
+      "num": 651429,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633623,
       "num": 400757,
       "word": "Jennie道歉评论区",
       "onboard_time": 1686724947,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 598651,
+      "num": 598651,
+      "word": "上海青浦区发生3.1级地震",
+      "onboard_time": 1686784341,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593096,
+      "num": 593096,
+      "word": "常远是离肠癌远一点",
+      "onboard_time": 1686784521,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 511973,
@@ -123,14 +147,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 398695,
-      "num": 398695,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383657,
       "num": 383657,
       "word": "小猫咪独自去玩被猫妈骂了",
@@ -163,20 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258443,
-      "num": 258443,
+      "raw_hot": 265751,
+      "num": 265751,
       "word": "苏醒没有梅西高",
       "onboard_time": 1686742287,
       "rank": 26,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 242413,
-      "num": 235676,
-      "word": "上海青浦区发生3.1级地震",
-      "onboard_time": 1686784341,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234252,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205047,
+      "num": 205047,
+      "word": "家属回应女子被丈夫跨省杀害",
+      "onboard_time": 1686784641,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198229,
       "num": 193001,
       "word": "梦海是肖战李沁的五搭",
@@ -241,6 +257,14 @@
       "onboard_time": 1686759027,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166240,
+      "num": 166240,
+      "word": "宋亚轩刘耀文打羽毛球",
+      "onboard_time": 1686784521,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 164598,
@@ -291,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142854,
-      "num": 142854,
-      "word": "常远是离肠癌远一点",
-      "onboard_time": 1686784521,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141718,
       "num": 141718,
       "word": "唯一一个对肖春生知恩图报的人",
@@ -331,14 +347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124232,
-      "num": 124232,
-      "word": "宋亚轩刘耀文打羽毛球",
-      "onboard_time": 1686784521,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123159,
       "num": 123159,
       "word": "梅西已在中国注册名字商标",
@@ -361,6 +369,22 @@
       "onboard_time": 1686752670,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114596,
+      "num": 114596,
+      "word": "那个好玩的老头儿走了",
+      "onboard_time": 1686784704,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112820,
+      "num": 112820,
+      "word": "当你被爱的时候真的不需要你做什么",
+      "onboard_time": 1686783739,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 111657,
@@ -403,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101252,
+      "num": 101252,
+      "word": "檀健次你好星期六",
+      "onboard_time": 1686781696,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101204,
       "num": 101204,
       "word": "罗云熙全白造型",
       "onboard_time": 1686745108,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 99025,
+      "num": 99025,
+      "word": "美联储",
+      "onboard_time": 1686785424,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 98070,
+      "num": 98070,
+      "word": "男子轻生前打电话称想捐器官被救下",
+      "onboard_time": 1686783680,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97324,
@@ -451,22 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88689,
-      "num": 88689,
-      "word": "檀健次你好星期六",
-      "onboard_time": 1686781696,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88269,
-      "num": 88269,
-      "word": "家属回应女子被丈夫跨省杀害",
-      "onboard_time": 1686784641,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87763,
       "num": 87763,
       "word": "肖春生婚后vs叶国华婚后",
@@ -475,20 +507,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 73507,
-      "num": 73507,
+      "raw_hot": 87686,
+      "num": 87686,
+      "word": "黑熊被卡路边水沟动弹不得",
+      "onboard_time": 1686785244,
+      "rank": 40,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 81408,
+      "num": 81408,
       "word": "山东人说话喜欢用俺",
       "onboard_time": 1686783980,
       "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71696,
-      "num": 71696,
-      "word": "当你被爱的时候真的不需要你做什么",
+      "raw_hot": 79764,
+      "num": 79764,
+      "word": "没下水之前以为就一小水沟",
+      "onboard_time": 1686783439,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73048,
+      "num": 73048,
+      "word": "真的是一点都不往嘴里放啊",
       "onboard_time": 1686783739,
-      "rank": 40,
-      "category": "情感"
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 68429,
@@ -497,14 +545,6 @@
       "onboard_time": 1686763457,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67205,
-      "num": 67205,
-      "word": "男子轻生前打电话称想捐器官被救下",
-      "onboard_time": 1686783680,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64476,
@@ -547,8 +587,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7718,
-      "num": 732205,
+      "raw_hot": 8712,
+      "num": 790437,
       "word": "杭州迎亚运风光片",
       "onboard_time": 1686710488,
       "rank": 2,

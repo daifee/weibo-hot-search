@@ -1,0 +1,410 @@
+{
+  "runTime": 1686785654594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3611992,
+        "num": 3611992,
+        "word": "上海地震",
+        "onboard_time": 1686766515,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039402,
+        "num": 1039402,
+        "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+        "onboard_time": 1686754593,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8712,
+        "num": 790437,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652236,
+        "num": 652236,
+        "word": "韩国摄影师在廉租房生活拍摄3年",
+        "onboard_time": 1686757050,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651429,
+        "num": 651429,
+        "word": "温州近视司机深夜高速上镜片突然脱落",
+        "onboard_time": 1686758726,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765708,
+        "num": 635822,
+        "word": "宋仲基儿子出生",
+        "onboard_time": 1686748169,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598651,
+        "num": 598651,
+        "word": "上海青浦区发生3.1级地震",
+        "onboard_time": 1686784341,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593096,
+        "num": 593096,
+        "word": "常远是离肠癌远一点",
+        "onboard_time": 1686784521,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323424,
+        "num": 323424,
+        "word": "关晓彤第一套vs第二套",
+        "onboard_time": 1686741986,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304691,
+        "num": 304691,
+        "word": "周三也休公司 上四休三绝不放弃",
+        "onboard_time": 1686745829,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724397,
+        "num": 301540,
+        "word": "双宋彻底BE",
+        "onboard_time": 1686749610,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287216,
+        "num": 287216,
+        "word": "S属性大爆发",
+        "onboard_time": 1686750210,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265751,
+        "num": 265751,
+        "word": "苏醒没有梅西高",
+        "onboard_time": 1686742287,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 262443,
+        "num": 262443,
+        "word": "小猫咪独自去玩被猫妈骂了",
+        "onboard_time": 1686752192,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 225955,
+        "num": 225955,
+        "word": "比尔盖茨自2019年以来首次抵达北京",
+        "onboard_time": 1686754292,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221905,
+        "num": 221905,
+        "word": "Jennie道歉评论区",
+        "onboard_time": 1686724947,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219199,
+        "num": 219199,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205047,
+        "num": 205047,
+        "word": "家属回应女子被丈夫跨省杀害",
+        "onboard_time": 1686784641,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 190707,
+        "word": "梅西苏醒合影",
+        "onboard_time": 1686731490,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 184344,
+        "num": 184344,
+        "word": "黄永玉逝世",
+        "onboard_time": 1686735507,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492633,
+        "num": 182883,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180967,
+        "num": 180967,
+        "word": "把内耗变成外耗",
+        "onboard_time": 1686759027,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166240,
+        "num": 166240,
+        "word": "宋亚轩刘耀文打羽毛球",
+        "onboard_time": 1686784521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164366,
+        "num": 164366,
+        "word": "梦海是肖战李沁的五搭",
+        "onboard_time": 1686752011,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147396,
+        "num": 147396,
+        "word": "老中医淄博八大局摆摊义诊",
+        "onboard_time": 1686757767,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146257,
+        "num": 146257,
+        "word": "内娱校花",
+        "onboard_time": 1686750870,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144288,
+        "num": 144288,
+        "word": "发出去之前能不能和脑子商量下",
+        "onboard_time": 1686756569,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138893,
+        "num": 138893,
+        "word": "Uzi哭了",
+        "onboard_time": 1686745048,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138622,
+        "num": 138622,
+        "word": "唯一一个对肖春生知恩图报的人",
+        "onboard_time": 1686750210,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131021,
+        "num": 131021,
+        "word": "丫丫悠闲自在吃竹笋",
+        "onboard_time": 1686753453,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119895,
+        "num": 119895,
+        "word": "Angelababy撕漫女",
+        "onboard_time": 1686741089,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116921,
+        "num": 116921,
+        "word": "河南警察夫妻度蜜月顺便抓3人",
+        "onboard_time": 1686760344,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114596,
+        "num": 114596,
+        "word": "那个好玩的老头儿走了",
+        "onboard_time": 1686784704,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112820,
+        "num": 112820,
+        "word": "当你被爱的时候真的不需要你做什么",
+        "onboard_time": 1686783739,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105914,
+        "num": 105914,
+        "word": "分享一些适合摸鱼背的包包",
+        "onboard_time": 1686757948,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105851,
+        "num": 105851,
+        "word": "白羊座为什么更容易吃亏上当",
+        "onboard_time": 1686744088,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 101252,
+        "num": 101252,
+        "word": "檀健次你好星期六",
+        "onboard_time": 1686781696,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99025,
+        "num": 99025,
+        "word": "美联储",
+        "onboard_time": 1686785424,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98070,
+        "num": 98070,
+        "word": "男子轻生前打电话称想捐器官被救下",
+        "onboard_time": 1686783680,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88522,
+        "num": 88522,
+        "word": "美国国务卿布林肯将访华",
+        "onboard_time": 1686746308,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 87686,
+        "num": 87686,
+        "word": "黑熊被卡路边水沟动弹不得",
+        "onboard_time": 1686785244,
+        "rank": 40,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 85958,
+        "num": 85958,
+        "word": "演员肖战的小心思",
+        "onboard_time": 1686763159,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81408,
+        "num": 81408,
+        "word": "山东人说话喜欢用俺",
+        "onboard_time": 1686783980,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79764,
+        "num": 79764,
+        "word": "没下水之前以为就一小水沟",
+        "onboard_time": 1686783439,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76279,
+        "num": 76279,
+        "word": "虞书欣ins更新照",
+        "onboard_time": 1686761121,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 74308,
+        "num": 74308,
+        "word": "罗云熙全白造型",
+        "onboard_time": 1686745108,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 73048,
+        "num": 73048,
+        "word": "真的是一点都不往嘴里放啊",
+        "onboard_time": 1686783739,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71911,
+        "num": 71911,
+        "word": "杭州跳桥救人小哥受伤免费治疗",
+        "onboard_time": 1686751293,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68188,
+        "num": 71910,
+        "word": "薛之谦还没找到梅西吗",
+        "onboard_time": 1686733708,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66470,
+        "num": 71885,
+        "word": "易烊千玺易燃装置聚餐",
+        "onboard_time": 1686741268,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
