@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686734191673,
+  "endTime": 1686735216330,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -379,6 +379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1511632,
+      "num": 1158256,
+      "word": "薛之谦还没找到梅西吗",
+      "onboard_time": 1686733708,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1507639,
       "num": 1507639,
       "word": "博主因性别称谓发视频曝光空乘",
@@ -627,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1155594,
+      "num": 1155594,
+      "word": "德国同学把我的剩饭吃了",
+      "onboard_time": 1686730108,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1135240,
       "num": 1135240,
       "word": "很多男人是没有爱情的",
@@ -697,14 +713,6 @@
       "onboard_time": 1686613284,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1072563,
-      "num": 1072563,
-      "word": "德国同学把我的剩饭吃了",
-      "onboard_time": 1686730108,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 1069582,
@@ -1195,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 692661,
-      "num": 505336,
-      "word": "薛之谦还没找到梅西吗",
-      "onboard_time": 1686733708,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 692090,
       "num": 692090,
       "word": "刘令姿 东方小兰花",
@@ -1419,6 +1419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 550840,
+      "num": 550840,
+      "word": "Uzi首发",
+      "onboard_time": 1686733049,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 543393,
       "num": 326108,
       "word": "地铁被要微信的大无语事件",
@@ -1619,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438078,
+      "num": 438078,
+      "word": "EDG对战iG",
+      "onboard_time": 1686732449,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 434002,
       "num": 434002,
       "word": "蔚来全系车型降价3万元",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1686545558,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404885,
-      "num": 404885,
-      "word": "Uzi首发",
-      "onboard_time": 1686733049,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 404847,
@@ -1923,6 +1931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 341494,
+      "num": 341494,
+      "word": "扣饭",
+      "onboard_time": 1686734490,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338214,
       "num": 338214,
       "word": "EDG拿下CN瓦首胜",
@@ -2099,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316270,
-      "num": 316270,
-      "word": "EDG对战iG",
-      "onboard_time": 1686732449,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 315455,
       "num": 315455,
       "word": "英雄联盟排队",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1686633211,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300758,
+      "num": 300758,
+      "word": "刘浩存跳舞vs任敏跳舞",
+      "onboard_time": 1686731068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 298145,
@@ -2449,14 +2465,6 @@
       "onboard_time": 1686709949,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 270873,
-      "num": 270873,
-      "word": "刘浩存跳舞vs任敏跳舞",
-      "onboard_time": 1686731068,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 270364,
@@ -3075,6 +3083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226031,
+      "num": 226031,
+      "word": "内娱冷门颜霸图鉴",
+      "onboard_time": 1686731787,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225857,
       "num": 225857,
       "word": "成都地铁",
@@ -3145,14 +3161,6 @@
       "onboard_time": 1686543155,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221949,
-      "num": 221949,
-      "word": "内娱冷门颜霸图鉴",
-      "onboard_time": 1686731787,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221873,
@@ -3299,8 +3307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213544,
-      "num": 213544,
+      "raw_hot": 213658,
+      "num": 213658,
       "word": "贺红玲vs金晨",
       "onboard_time": 1686731848,
       "rank": 34,
@@ -3795,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192702,
+      "num": 192702,
+      "word": "蒋奇明粉色睡袍",
+      "onboard_time": 1686734367,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192665,
       "num": 192665,
       "word": "梅西见面会改为线上直播举行",
@@ -3921,6 +3937,14 @@
       "onboard_time": 1686625888,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189427,
+      "num": 189427,
+      "word": "潘长江张晨光车保罗同框录综艺",
+      "onboard_time": 1686735029,
+      "rank": 35,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 189425,
@@ -4633,6 +4657,14 @@
       "onboard_time": 1686624209,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 159547,
+      "num": 159547,
+      "word": "想Fly了",
+      "onboard_time": 1686734248,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 159169,
@@ -5811,6 +5843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108758,
+      "num": 488334,
+      "word": "老人向镜中自己问话儿子认真回答",
+      "onboard_time": 1686733287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108338,
       "num": 119273,
       "word": "北极熊结束冬眠后的第一天",
@@ -6267,14 +6307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50511,
-      "num": 488334,
-      "word": "老人向镜中自己问话儿子认真回答",
-      "onboard_time": 1686733287,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49474,
       "num": 1799737,
       "word": "全国网络普法行江西站",
@@ -6444,7 +6476,7 @@
     },
     {
       "raw_hot": 25367,
-      "num": 143008,
+      "num": 1160065,
       "word": "感谢为爱勇敢伸出手臂的你",
       "onboard_time": 1686727588,
       "rank": 47,

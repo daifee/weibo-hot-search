@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686734191673,
+  "endTime": 1686735216330,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1511632,
+      "num": 1158256,
+      "word": "薛之谦还没找到梅西吗",
+      "onboard_time": 1686733708,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1387124,
       "num": 1387124,
       "word": "老伴去世老人挨个敲车窗求带看老房",
@@ -195,8 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1072563,
-      "num": 1072563,
+      "raw_hot": 1155594,
+      "num": 1155594,
       "word": "德国同学把我的剩饭吃了",
       "onboard_time": 1686730108,
       "rank": 32,
@@ -355,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 692661,
-      "num": 505336,
-      "word": "薛之谦还没找到梅西吗",
-      "onboard_time": 1686733708,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 662941,
       "num": 662941,
       "word": "鞠婧祎回应撞脸歪嘴小猫",
@@ -417,6 +417,14 @@
       "onboard_time": 1686723628,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 550840,
+      "num": 550840,
+      "word": "Uzi首发",
+      "onboard_time": 1686733049,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 548549,
@@ -491,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438078,
+      "num": 438078,
+      "word": "EDG对战iG",
+      "onboard_time": 1686732449,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 433542,
       "num": 433542,
       "word": "梅西说不会参加下届世界杯",
       "onboard_time": 1686659067,
       "rank": 12,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 404885,
-      "num": 404885,
-      "word": "Uzi首发",
-      "onboard_time": 1686733049,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 373026,
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341494,
+      "num": 341494,
+      "word": "扣饭",
+      "onboard_time": 1686734490,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336983,
       "num": 336983,
       "word": "反驳型人格",
@@ -619,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316270,
-      "num": 316270,
-      "word": "EDG对战iG",
-      "onboard_time": 1686732449,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 306667,
       "num": 306667,
       "word": "喜欢你我也是",
       "onboard_time": 1686717879,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300758,
+      "num": 300758,
+      "word": "刘浩存跳舞vs任敏跳舞",
+      "onboard_time": 1686731068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 295684,
@@ -721,14 +737,6 @@
       "onboard_time": 1686709949,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 270873,
-      "num": 270873,
-      "word": "刘浩存跳舞vs任敏跳舞",
-      "onboard_time": 1686731068,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 266183,
@@ -867,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226031,
+      "num": 226031,
+      "word": "内娱冷门颜霸图鉴",
+      "onboard_time": 1686731787,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225283,
       "num": 225283,
       "word": "教资面试没过",
@@ -889,14 +905,6 @@
       "onboard_time": 1686712530,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221949,
-      "num": 221949,
-      "word": "内娱冷门颜霸图鉴",
-      "onboard_time": 1686731787,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221873,
@@ -931,8 +939,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213544,
-      "num": 213544,
+      "raw_hot": 213658,
+      "num": 213658,
       "word": "贺红玲vs金晨",
       "onboard_time": 1686731848,
       "rank": 34,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192702,
+      "num": 192702,
+      "word": "蒋奇明粉色睡袍",
+      "onboard_time": 1686734367,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191296,
       "num": 191296,
       "word": "广末凉子老公",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1686707729,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189427,
+      "num": 189427,
+      "word": "潘长江张晨光车保罗同框录综艺",
+      "onboard_time": 1686735029,
+      "rank": 35,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 189253,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1686709467,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159547,
+      "num": 159547,
+      "word": "想Fly了",
+      "onboard_time": 1686734248,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 158981,
@@ -1659,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108758,
+      "num": 488334,
+      "word": "老人向镜中自己问话儿子认真回答",
+      "onboard_time": 1686733287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108242,
       "num": 108242,
       "word": "跑男比耶没告诉沙溢",
@@ -1819,14 +1859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50511,
-      "num": 488334,
-      "word": "老人向镜中自己问话儿子认真回答",
-      "onboard_time": 1686733287,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48744,
       "num": 48744,
       "word": "男子海中溺水路人接力抢救",
@@ -1876,7 +1908,7 @@
     },
     {
       "raw_hot": 25367,
-      "num": 143008,
+      "num": 1160065,
       "word": "感谢为爱勇敢伸出手臂的你",
       "onboard_time": 1686727588,
       "rank": 47,

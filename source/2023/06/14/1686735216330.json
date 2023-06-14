@@ -1,0 +1,410 @@
+{
+  "runTime": 1686735216330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2725593,
+        "num": 2725593,
+        "word": "梅西苏醒合影",
+        "onboard_time": 1686731490,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1212338,
+        "num": 1212338,
+        "word": "比Uzi还紧张",
+        "onboard_time": 1686727829,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18722,
+        "num": 1160065,
+        "word": "感谢为爱勇敢伸出手臂的你",
+        "onboard_time": 1686727588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1511632,
+        "num": 1158256,
+        "word": "薛之谦还没找到梅西吗",
+        "onboard_time": 1686733708,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1155594,
+        "num": 1155594,
+        "word": "德国同学把我的剩饭吃了",
+        "onboard_time": 1686730108,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 768877,
+        "num": 768877,
+        "word": "大学上了一半专业没了",
+        "onboard_time": 1686728368,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 740953,
+        "num": 740953,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550840,
+        "num": 550840,
+        "word": "Uzi首发",
+        "onboard_time": 1686733049,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1169460,
+        "num": 548814,
+        "word": "一批985毕业生选择主动延毕",
+        "onboard_time": 1686725186,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 542631,
+        "num": 542631,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1078610,
+        "num": 539026,
+        "word": "Jennie道歉评论区",
+        "onboard_time": 1686724947,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 723663,
+        "num": 538970,
+        "word": "陈仟钰是上戏艺考第一",
+        "onboard_time": 1686725069,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534191,
+        "num": 534191,
+        "word": "Ella 是谁让你们送我莲花",
+        "onboard_time": 1686723628,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509395,
+        "num": 509395,
+        "word": "阚清子 叶琳回来啦",
+        "onboard_time": 1686718595,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108758,
+        "num": 485021,
+        "word": "老人向镜中自己问话儿子认真回答",
+        "onboard_time": 1686733287,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461135,
+        "num": 461135,
+        "word": "13岁女孩遭性侵怀孕引产后报警",
+        "onboard_time": 1686714873,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450029,
+        "num": 450029,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443645,
+        "num": 443645,
+        "word": "任敏跳舞 孙莉",
+        "onboard_time": 1686712829,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438078,
+        "num": 438078,
+        "word": "EDG对战iG",
+        "onboard_time": 1686732449,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401910,
+        "num": 401910,
+        "word": "汪峰 毕夏你要坚强",
+        "onboard_time": 1686712169,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542940,
+        "num": 381577,
+        "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+        "onboard_time": 1686719674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354884,
+        "num": 354884,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341494,
+        "num": 341494,
+        "word": "扣饭",
+        "onboard_time": 1686734490,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323686,
+        "num": 323686,
+        "word": "实习生发错信息到工作群",
+        "onboard_time": 1686708388,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317048,
+        "num": 317048,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300758,
+        "num": 300758,
+        "word": "刘浩存跳舞vs任敏跳舞",
+        "onboard_time": 1686731068,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237682,
+        "num": 237682,
+        "word": "姆巴佩说梅西没得到应有的尊重",
+        "onboard_time": 1686709587,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235288,
+        "num": 235288,
+        "word": "小米回应被印度没收48亿元",
+        "onboard_time": 1686714932,
+        "rank": 27,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 228278,
+        "num": 228278,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216794,
+        "num": 226553,
+        "word": "医生去世后手机还一直收到患者消息",
+        "onboard_time": 1686716433,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226031,
+        "num": 226031,
+        "word": "内娱冷门颜霸图鉴",
+        "onboard_time": 1686731787,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220858,
+        "num": 220858,
+        "word": "鞠婧祎回应撞脸歪嘴小猫",
+        "onboard_time": 1686716555,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213658,
+        "num": 213658,
+        "word": "贺红玲vs金晨",
+        "onboard_time": 1686731848,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199508,
+        "num": 199508,
+        "word": "胡锡进 川大处理该女生应遵循以下考量",
+        "onboard_time": 1686727708,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192702,
+        "num": 192702,
+        "word": "蒋奇明粉色睡袍",
+        "onboard_time": 1686734367,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189427,
+        "num": 189427,
+        "word": "潘长江张晨光车保罗同框录综艺",
+        "onboard_time": 1686735029,
+        "rank": 35,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 189182,
+        "num": 189182,
+        "word": "归期关羽五杀",
+        "onboard_time": 1686733588,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181204,
+        "num": 181204,
+        "word": "俄23岁男子游泳时被鲨鱼活吞",
+        "onboard_time": 1686711629,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 180483,
+        "word": "肖春生鞋不合脚",
+        "onboard_time": 1686729988,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175883,
+        "num": 175883,
+        "word": "康康 k神",
+        "onboard_time": 1686731908,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163194,
+        "num": 163194,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159547,
+        "num": 159547,
+        "word": "想Fly了",
+        "onboard_time": 1686734248,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158270,
+        "num": 158270,
+        "word": "TTG运营",
+        "onboard_time": 1686726809,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147214,
+        "num": 147214,
+        "word": "五条悟",
+        "onboard_time": 1686727287,
+        "rank": 43,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 140979,
+        "num": 140979,
+        "word": "聋哑父母就医6岁女儿成翻译",
+        "onboard_time": 1686729627,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140580,
+        "num": 140580,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137692,
+        "num": 137692,
+        "word": "毕夏发讣告透露张恒远生前心愿",
+        "onboard_time": 1686713369,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 133155,
+        "word": "赵露思 两次宝格丽造型",
+        "onboard_time": 1686713970,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67457,
+        "num": 131745,
+        "word": "每一份献血都是生命的礼物",
+        "onboard_time": 1686727829,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131422,
+        "num": 131422,
+        "word": "狼队对战TTG",
+        "onboard_time": 1686724469,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
