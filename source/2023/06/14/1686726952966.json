@@ -1,0 +1,410 @@
+{
+  "runTime": 1686726952966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578520,
+        "num": 1578520,
+        "word": "出生率",
+        "onboard_time": 1686722849,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114277,
+        "num": 1114277,
+        "word": "医生去世后手机还一直收到患者消息",
+        "onboard_time": 1686716433,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30771,
+        "num": 1098745,
+        "word": "街头公益钢琴流淌的是温情和梦想",
+        "onboard_time": 1686710308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084316,
+        "num": 1084316,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1048462,
+        "num": 1048462,
+        "word": "毕夏发讣告透露张恒远生前心愿",
+        "onboard_time": 1686713369,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1034329,
+        "num": 1034329,
+        "word": "小米回应被印度没收48亿元",
+        "onboard_time": 1686714932,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 848805,
+        "num": 848805,
+        "word": "赵露思 两次宝格丽造型",
+        "onboard_time": 1686713970,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 820769,
+        "num": 820769,
+        "word": "汪峰 毕夏你要坚强",
+        "onboard_time": 1686712169,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797195,
+        "num": 797195,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795634,
+        "num": 795634,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464479,
+        "num": 731154,
+        "word": "Jennie道歉评论区",
+        "onboard_time": 1686724947,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656331,
+        "num": 656331,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614750,
+        "num": 614750,
+        "word": "阚清子 叶琳回来啦",
+        "onboard_time": 1686718595,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598247,
+        "num": 598247,
+        "word": "陈仟钰是上戏艺考第一",
+        "onboard_time": 1686725069,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44678,
+        "num": 538320,
+        "word": "医生的这一个习惯已多次救人",
+        "onboard_time": 1686726029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740643,
+        "num": 524152,
+        "word": "13岁女孩遭性侵怀孕引产后报警",
+        "onboard_time": 1686714873,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488037,
+        "num": 488037,
+        "word": "任敏跳舞 孙莉",
+        "onboard_time": 1686712829,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484648,
+        "num": 484648,
+        "word": "Ella 是谁让你们送我莲花",
+        "onboard_time": 1686723628,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411001,
+        "num": 411001,
+        "word": "一批985毕业生选择主动延毕",
+        "onboard_time": 1686725186,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 332017,
+        "num": 332017,
+        "word": "俄23岁男子游泳时被鲨鱼活吞",
+        "onboard_time": 1686711629,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808299,
+        "num": 331827,
+        "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+        "onboard_time": 1686719674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430951,
+        "num": 331722,
+        "word": "Angelababy甜橙蝴蝶妆",
+        "onboard_time": 1686718415,
+        "rank": 21,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 408301,
+        "num": 331627,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406673,
+        "num": 331406,
+        "word": "实习生发错信息到工作群",
+        "onboard_time": 1686708388,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331248,
+        "num": 331248,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374495,
+        "num": 317734,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366416,
+        "num": 316757,
+        "word": "鞠婧祎回应撞脸歪嘴小猫",
+        "onboard_time": 1686716555,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245432,
+        "num": 245432,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 242839,
+        "num": 242839,
+        "word": "杨幂黄明昊跳了flower",
+        "onboard_time": 1686722969,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235873,
+        "num": 235873,
+        "word": "咒术回战",
+        "onboard_time": 1686724947,
+        "rank": 29,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 373026,
+        "num": 227045,
+        "word": "TTG运营",
+        "onboard_time": 1686726809,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216391,
+        "num": 216391,
+        "word": "一笙 罚单",
+        "onboard_time": 1686726690,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206400,
+        "num": 206400,
+        "word": "怦然3三男争一女",
+        "onboard_time": 1686722548,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204989,
+        "num": 204989,
+        "word": "员工入职一个半月怀孕了",
+        "onboard_time": 1686698603,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203028,
+        "num": 203028,
+        "word": "姆巴佩说梅西没得到应有的尊重",
+        "onboard_time": 1686709587,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196522,
+        "num": 196522,
+        "word": "肖战回应不会骑自行车",
+        "onboard_time": 1686726330,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196040,
+        "num": 196040,
+        "word": "原来物理防晒胜过所有防晒霜",
+        "onboard_time": 1686698603,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 186660,
+        "num": 186660,
+        "word": "SEVENTEEN要来广州开签售会",
+        "onboard_time": 1686716136,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183816,
+        "num": 183816,
+        "word": "薛小婉 任权",
+        "onboard_time": 1686699505,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42480,
+        "num": 178572,
+        "word": "梅西中国首播定在淘宝",
+        "onboard_time": 1686726029,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174993,
+        "num": 174993,
+        "word": "九尾的横幅",
+        "onboard_time": 1686726330,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174991,
+        "num": 174991,
+        "word": "胡锡进 四川大学面临考验",
+        "onboard_time": 1686717513,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164432,
+        "num": 164432,
+        "word": "戚薇听到会伤害孩子的反应",
+        "onboard_time": 1686723509,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158036,
+        "num": 158036,
+        "word": "喜欢你4八个人成了两对半",
+        "onboard_time": 1686722490,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146029,
+        "num": 146029,
+        "word": "张恒远毕夏孩子不满一岁",
+        "onboard_time": 1686724709,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142846,
+        "num": 142846,
+        "word": "我怕我再不跳她就没机会上来了",
+        "onboard_time": 1686720752,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140853,
+        "num": 140853,
+        "word": "紫幻好强",
+        "onboard_time": 1686726029,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137782,
+        "num": 137782,
+        "word": "是否生育是你自己的决定",
+        "onboard_time": 1686726867,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133414,
+        "num": 133414,
+        "word": "糖尿病为什么盯上了年轻人",
+        "onboard_time": 1686720270,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 130794,
+        "num": 130794,
+        "word": "夫妻晒千斤麦子暴雨前邻居组团帮收",
+        "onboard_time": 1686726568,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和洪都拉斯联合声明#"
+    }
+  }
+}
