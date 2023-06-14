@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686753215261,
+  "endTime": 1686755840246,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2043186,
-      "num": 406321,
+      "num": 429964,
       "word": "双宋彻底BE",
       "onboard_time": 1686749610,
       "rank": 47,
@@ -131,7 +131,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1896033,
+      "raw_hot": 1945958,
       "num": 1670701,
       "word": "14岁学生在教室被同学砍杀身亡",
       "onboard_time": 1686747626,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839997,
+      "num": 839997,
+      "word": "S属性大爆发",
+      "onboard_time": 1686750210,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 839863,
       "num": 512510,
       "word": "实习生发错信息到工作群",
@@ -595,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 525242,
-      "num": 525242,
-      "word": "S属性大爆发",
-      "onboard_time": 1686750210,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 519441,
       "num": 450393,
       "word": "肖战专访",
@@ -625,6 +625,14 @@
       "onboard_time": 1686718415,
       "rank": 27,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 504805,
+      "num": 504805,
+      "word": "小猫咪独自去玩被猫妈骂了",
+      "onboard_time": 1686752192,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 496069,
@@ -683,6 +691,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 417775,
+      "num": 291530,
+      "word": "梦海是肖战李沁的五搭",
+      "onboard_time": 1686752011,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401440,
       "num": 324958,
       "word": "肖春生求婚没有戒指",
@@ -739,20 +755,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362181,
-      "num": 291530,
-      "word": "梦海是肖战李沁的五搭",
-      "onboard_time": 1686752011,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 359441,
       "num": 359441,
       "word": "福建的蟑螂",
       "onboard_time": 1686745886,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355795,
+      "num": 303439,
+      "word": "内娱校花",
+      "onboard_time": 1686750870,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 355013,
@@ -779,20 +795,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 347160,
-      "num": 303439,
-      "word": "内娱校花",
-      "onboard_time": 1686750870,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 345688,
       "num": 345688,
       "word": "梦海给我调到第20集32分17秒",
       "onboard_time": 1686667411,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342364,
+      "num": 254059,
+      "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+      "onboard_time": 1686754593,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341494,
@@ -955,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279550,
+      "num": 368577,
+      "word": "杭州跳桥救人小哥受伤免费治疗",
+      "onboard_time": 1686751293,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278081,
       "num": 278081,
       "word": "阴阳师",
@@ -1091,6 +1115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250663,
+      "num": 250663,
+      "word": "肖沐恩 老A",
+      "onboard_time": 1686751113,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250039,
+      "num": 250039,
+      "word": "比尔盖茨自2019年以来首次抵达北京",
+      "onboard_time": 1686754292,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246162,
       "num": 246162,
       "word": "马伯庸 马小烦",
@@ -1219,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226903,
+      "num": 226903,
+      "word": "白羊座为什么更容易吃亏上当",
+      "onboard_time": 1686744088,
+      "rank": 45,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 226868,
       "num": 226868,
       "word": "罗云熙e人",
@@ -1299,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219893,
+      "num": 219893,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1686753750,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216976,
       "num": 216976,
       "word": "如何看待梦中的那片海人物的转变",
@@ -1371,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208953,
+      "num": 208953,
+      "word": "三分野",
+      "onboard_time": 1686752670,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207320,
       "num": 207320,
       "word": "两只旅俄大熊猫体重和人气齐升",
@@ -1417,14 +1481,6 @@
       "onboard_time": 1686749309,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205379,
-      "num": 205379,
-      "word": "小猫咪独自去玩被猫妈骂了",
-      "onboard_time": 1686752192,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 205054,
@@ -1547,14 +1603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192052,
-      "num": 192052,
-      "word": "肖沐恩 老A",
-      "onboard_time": 1686751113,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191296,
       "num": 191296,
       "word": "广末凉子老公",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1686707729,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189641,
-      "num": 189641,
-      "word": "白羊座为什么更容易吃亏上当",
-      "onboard_time": 1686744088,
-      "rank": 45,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 189427,
@@ -1731,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180450,
-      "num": 368577,
-      "word": "杭州跳桥救人小哥受伤免费治疗",
-      "onboard_time": 1686751293,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180102,
       "num": 180102,
       "word": "玉骨遥",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1686722910,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176306,
-      "num": 176306,
-      "word": "三分野",
-      "onboard_time": 1686752670,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 175569,
@@ -1944,6 +1968,14 @@
       "word": "部分黑色素瘤与原发痣有关",
       "onboard_time": 1686709467,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161765,
+      "num": 161765,
+      "word": "我溺水过知道那种绝望",
+      "onboard_time": 1686755553,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2121,6 +2153,14 @@
       "onboard_time": 1686729450,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147314,
+      "num": 147314,
+      "word": "丫丫悠闲自在吃竹笋",
+      "onboard_time": 1686753453,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146954,
@@ -2689,6 +2729,14 @@
       "onboard_time": 1686681612,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22719,
+      "num": 409951,
+      "word": "毕业季女生手工自制学士帽送室友",
+      "onboard_time": 1686754894,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13356,
