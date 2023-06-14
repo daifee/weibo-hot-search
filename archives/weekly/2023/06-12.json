@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686719778500,
+  "endTime": 1686720821488,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1181799,
+      "num": 1181799,
+      "word": "医生去世后手机还一直收到患者消息",
+      "onboard_time": 1686716433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1176858,
       "num": 1176858,
       "word": "北动公布丫丫最新画面",
@@ -585,14 +593,6 @@
       "onboard_time": 1686570389,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1119195,
-      "num": 1119195,
-      "word": "医生去世后手机还一直收到患者消息",
-      "onboard_time": 1686716433,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1118116,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 662941,
+      "num": 662941,
+      "word": "鞠婧祎回应撞脸歪嘴小猫",
+      "onboard_time": 1686716555,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654923,
       "num": 654923,
       "word": "晕车和不晕车的人闻到的气味不一样",
@@ -1403,20 +1411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479990,
-      "num": 449340,
-      "word": "鞠婧祎回应撞脸歪嘴小猫",
-      "onboard_time": 1686716555,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 476763,
       "num": 448727,
       "word": "原来物理防晒胜过所有防晒霜",
       "onboard_time": 1686698603,
       "rank": 30,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 473432,
+      "num": 432573,
+      "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+      "onboard_time": 1686719674,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470214,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1686569908,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431510,
+      "num": 431510,
+      "word": "阚清子 叶琳回来啦",
+      "onboard_time": 1686718595,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 431132,
@@ -1643,6 +1659,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 369585,
+      "num": 369585,
+      "word": "Angelababy甜橙蝴蝶妆",
+      "onboard_time": 1686718415,
+      "rank": 27,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1686539068,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358814,
-      "num": 358814,
-      "word": "Angelababy甜橙蝴蝶妆",
-      "onboard_time": 1686718415,
-      "rank": 27,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 358361,
@@ -2091,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296561,
-      "num": 296561,
-      "word": "阚清子 叶琳回来啦",
-      "onboard_time": 1686718595,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295558,
       "num": 295558,
       "word": "阿信",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1686668669,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275455,
+      "num": 275455,
+      "word": "肖战下围棋",
+      "onboard_time": 1686719674,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 274113,
@@ -2771,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234222,
+      "num": 234222,
+      "word": "糖尿病为什么盯上了年轻人",
+      "onboard_time": 1686720270,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 234002,
       "num": 234002,
       "word": "肖春生腿好了嘴也好了",
@@ -3123,14 +3147,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 211137,
-      "num": 211137,
-      "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
-      "onboard_time": 1686719674,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210752,
       "num": 210752,
       "word": "都给马思纯p成啥样了",
@@ -3235,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206992,
+      "num": 206992,
+      "word": "相思令",
+      "onboard_time": 1686719734,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204735,
       "num": 204735,
       "word": "笑果回应擅自演出被罚",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1686574109,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202858,
-      "num": 202858,
-      "word": "肖战下围棋",
-      "onboard_time": 1686719674,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 202779,
@@ -3473,14 +3489,6 @@
       "onboard_time": 1686714510,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195033,
-      "num": 195033,
-      "word": "相思令",
-      "onboard_time": 1686719734,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 194813,
@@ -3761,6 +3769,14 @@
       "onboard_time": 1686557969,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188015,
+      "num": 188015,
+      "word": "宁艺卓舞台2023黑天鹅造型",
+      "onboard_time": 1686720571,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 188012,
@@ -4153,6 +4169,14 @@
       "onboard_time": 1686658288,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167640,
+      "num": 174034,
+      "word": "原来近亲不能输血",
+      "onboard_time": 1686719194,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 167204,
@@ -4595,10 +4619,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147218,
-      "num": 174034,
-      "word": "原来近亲不能输血",
-      "onboard_time": 1686719194,
+      "raw_hot": 146626,
+      "num": 146626,
+      "word": "喜欢一个人已经超过九年",
+      "onboard_time": 1686719794,
       "rank": 48,
       "category": "情感"
     },
@@ -4696,6 +4720,14 @@
       "word": "感动全网妈妈谈对儿子未来期望",
       "onboard_time": 1686551249,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143392,
+      "num": 143392,
+      "word": "我怕我再不跳她就没机会上来了",
+      "onboard_time": 1686720752,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5635,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80596,
+      "num": 688183,
+      "word": "交警脱下雨衣一路小跑披在孩子身上",
+      "onboard_time": 1686718834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76486,
       "num": 81094,
       "word": "当我怒气冲冲地查完账单",
@@ -5840,14 +5880,6 @@
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42496,
-      "num": 688183,
-      "word": "交警脱下雨衣一路小跑披在孩子身上",
-      "onboard_time": 1686718834,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
