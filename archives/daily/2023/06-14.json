@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686735216330,
+  "endTime": 1686737878451,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -67,6 +67,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2281646,
+      "num": 2281646,
+      "word": "黄永玉逝世",
+      "onboard_time": 1686735507,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2214631,
       "num": 2214631,
       "word": "任敏跳舞 孙莉",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1965915,
-      "num": 731154,
+      "num": 824253,
       "word": "Jennie道歉评论区",
       "onboard_time": 1686724947,
       "rank": 10,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1794598,
-      "num": 1794598,
+      "num": 2366797,
       "word": "医生去世后手机还一直收到患者消息",
       "onboard_time": 1686716433,
       "rank": 29,
@@ -115,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1511632,
-      "num": 1158256,
+      "raw_hot": 1577327,
+      "num": 1577327,
       "word": "薛之谦还没找到梅西吗",
       "onboard_time": 1686733708,
       "rank": 12,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1097871,
+      "num": 1097871,
+      "word": "嵩山音乐节",
+      "onboard_time": 1686669690,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1063327,
       "num": 621321,
       "word": "薛小婉 任权",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 1004776,
-      "num": 432573,
+      "num": 450726,
       "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
       "onboard_time": 1686719674,
       "rank": 38,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 893674,
-      "num": 634969,
+      "num": 690534,
       "word": "陈仟钰是上戏艺考第一",
       "onboard_time": 1686725069,
       "rank": 13,
@@ -289,6 +305,14 @@
       "onboard_time": 1686665488,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 868526,
+      "num": 868526,
+      "word": "大学上了一半专业没了",
+      "onboard_time": 1686728368,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 857818,
@@ -329,14 +353,6 @@
       "onboard_time": 1686657329,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 793034,
-      "num": 793034,
-      "word": "大学上了一半专业没了",
-      "onboard_time": 1686728368,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 764023,
@@ -395,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 618906,
+      "num": 618906,
+      "word": "Uzi首发",
+      "onboard_time": 1686733049,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 609366,
       "num": 609366,
       "word": "权志龙又买房了",
@@ -419,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 550840,
-      "num": 550840,
-      "word": "Uzi首发",
-      "onboard_time": 1686733049,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 548549,
       "num": 548549,
       "word": "笑果旗下公司擅自演出被罚",
       "onboard_time": 1686656547,
       "rank": 8,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 532848,
+      "num": 532848,
+      "word": "EDG对战iG",
+      "onboard_time": 1686732449,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 526808,
@@ -499,20 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438078,
-      "num": 438078,
-      "word": "EDG对战iG",
-      "onboard_time": 1686732449,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 433542,
       "num": 433542,
       "word": "梅西说不会参加下届世界杯",
       "onboard_time": 1686659067,
       "rank": 12,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 411010,
+      "num": 411010,
+      "word": "天津大学扣饭事件疑似现场画面曝光",
+      "onboard_time": 1686735507,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395550,
+      "num": 395550,
+      "word": "苏醒有点人脉",
+      "onboard_time": 1686736228,
+      "rank": 23,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 373026,
@@ -561,6 +593,14 @@
       "onboard_time": 1686634286,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350951,
+      "num": 1812505,
+      "word": "小伙骑共享单车5000公里到新疆",
+      "onboard_time": 1686736228,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345688,
@@ -617,6 +657,14 @@
       "onboard_time": 1686649407,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323761,
+      "num": 323761,
+      "word": "Ahn 搓澡",
+      "onboard_time": 1686735447,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 317574,
@@ -787,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253278,
+      "num": 253278,
+      "word": "TMEA阵容",
+      "onboard_time": 1686737127,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251300,
       "num": 251300,
       "word": "核废水",
@@ -899,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223897,
+      "num": 1245385,
+      "word": "老人向镜中自己问话儿子认真回答",
+      "onboard_time": 1686733287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223758,
       "num": 223758,
       "word": "阿那亚虾米音乐节阵容",
@@ -913,6 +977,14 @@
       "onboard_time": 1686701609,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216792,
+      "num": 216792,
+      "word": "梅西i人本人",
+      "onboard_time": 1686736828,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 214621,
@@ -995,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206161,
+      "num": 206161,
+      "word": "张艺兴金晨新片改名",
+      "onboard_time": 1686737308,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205054,
       "num": 205054,
       "word": "肖战回应不会骑自行车",
@@ -1043,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195377,
-      "num": 195377,
-      "word": "嵩山音乐节",
-      "onboard_time": 1686669690,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195300,
       "num": 195300,
       "word": "余华到底有多少花裤衩",
@@ -1081,6 +1153,14 @@
       "onboard_time": 1686734367,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192564,
+      "num": 192564,
+      "word": "肖战李沁梦海对称美学",
+      "onboard_time": 1686737068,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 191296,
@@ -1307,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169982,
+      "num": 169982,
+      "word": "seventeen青岛签售会没有分组",
+      "onboard_time": 1686736889,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169672,
       "num": 169672,
       "word": "WBG翻盘LGD",
@@ -1427,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156029,
+      "num": 156029,
+      "word": "罗云熙直播",
+      "onboard_time": 1686735569,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155940,
       "num": 155940,
       "word": "报备和分享是两件事",
@@ -1449,6 +1545,14 @@
       "onboard_time": 1686710666,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152023,
+      "num": 152023,
+      "word": "脑瘫女孩得知能去上学开心大笑",
+      "onboard_time": 1686735929,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151080,
@@ -1515,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "品牌方说赵露思礼服是借的",
+      "onboard_time": 1686737730,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146626,
       "num": 146626,
       "word": "喜欢一个人已经超过九年",
@@ -1563,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143353,
+      "num": 143353,
+      "word": "想去华山检修索道还缺人吗",
+      "onboard_time": 1686737490,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142702,
       "num": 173591,
       "word": "茅海建",
@@ -1593,6 +1713,14 @@
       "onboard_time": 1686726029,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138843,
+      "num": 138843,
+      "word": "熊猫血男子献血证塞满了抽屉",
+      "onboard_time": 1686737610,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138468,
@@ -1689,14 +1817,6 @@
       "onboard_time": 1686666027,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108758,
-      "num": 488334,
-      "word": "老人向镜中自己问话儿子认真回答",
-      "onboard_time": 1686733287,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108242,
@@ -1859,6 +1979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54807,
+      "num": 2304255,
+      "word": "感谢为爱勇敢伸出手臂的你",
+      "onboard_time": 1686727588,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48744,
       "num": 48744,
       "word": "男子海中溺水路人接力抢救",
@@ -1872,6 +2000,14 @@
       "word": "古巨基加胡夏微信打开了收款码",
       "onboard_time": 1686689953,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34910,
+      "num": 614587,
+      "word": "来活了兄弟四川PK醋王",
+      "onboard_time": 1686737792,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -1905,14 +2041,6 @@
       "onboard_time": 1686722429,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25367,
-      "num": 1160065,
-      "word": "感谢为爱勇敢伸出手臂的你",
-      "onboard_time": 1686727588,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23892,
