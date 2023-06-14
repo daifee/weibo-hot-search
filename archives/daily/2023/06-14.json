@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686712686299,
+  "endTime": 1686713639110,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -11,20 +11,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 3569579,
+      "num": 3569579,
+      "word": "汪峰 毕夏你要坚强",
+      "onboard_time": 1686712169,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2570381,
       "num": 2570381,
       "word": "人民日报评地铁偷拍乌龙",
       "onboard_time": 1686703411,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2478003,
-      "num": 533147,
-      "word": "汪峰 毕夏你要坚强",
-      "onboard_time": 1686712169,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2342513,
@@ -35,8 +35,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1866423,
-      "num": 517686,
+      "raw_hot": 1953247,
+      "num": 520365,
       "word": "广末凉子承认出轨",
       "onboard_time": 1686710548,
       "rank": 16,
@@ -147,6 +147,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 857818,
+      "num": 857818,
+      "word": "姆巴佩说梅西没得到应有的尊重",
+      "onboard_time": 1686709587,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 822522,
+      "num": 477155,
+      "word": "俄23岁男子游泳时被鲨鱼活吞",
+      "onboard_time": 1686711629,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811890,
       "num": 811890,
       "word": "猫的树好会拍",
@@ -163,14 +179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 730029,
-      "num": 730029,
-      "word": "姆巴佩说梅西没得到应有的尊重",
-      "onboard_time": 1686709587,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 722293,
       "num": 722293,
       "word": "这居然是刘恋",
@@ -179,8 +187,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 707484,
-      "num": 323580,
+      "raw_hot": 710848,
+      "num": 332147,
       "word": "实习生发错信息到工作群",
       "onboard_time": 1686708388,
       "rank": 20,
@@ -275,6 +283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 453835,
+      "num": 453835,
+      "word": "任敏跳舞 孙莉",
+      "onboard_time": 1686712829,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443484,
       "num": 443484,
       "word": "天津两处居民楼爆炸致3人死亡",
@@ -289,6 +305,14 @@
       "onboard_time": 1686659067,
       "rank": 12,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 396563,
+      "num": 396563,
+      "word": "北动公布丫丫最新画面",
+      "onboard_time": 1686712892,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365295,
@@ -347,19 +371,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324184,
-      "num": 324184,
-      "word": "俄23岁男子游泳时被鲨鱼活吞",
-      "onboard_time": 1686711629,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323924,
       "num": 323924,
       "word": "杭师大涉事男生发声",
       "onboard_time": 1686649407,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317574,
+      "num": 317574,
+      "word": "丫丫",
+      "onboard_time": 1686713310,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -467,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247645,
+      "num": 247645,
+      "word": "毕夏发讣告透露张恒远生前心愿",
+      "onboard_time": 1686713369,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236499,
+      "num": 236499,
+      "word": "大叔地铁上喝斥女生强制要求让座",
+      "onboard_time": 1686708928,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230766,
       "num": 230766,
       "word": "梦之海阵容官宣",
@@ -539,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203719,
+      "num": 203719,
+      "word": "四川多名城管疑与摊贩发生冲突",
+      "onboard_time": 1686711089,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -568,14 +616,6 @@
       "word": "和爸爸骑游中国的白血病男孩离世",
       "onboard_time": 1686657267,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193625,
-      "num": 193625,
-      "word": "大叔地铁上喝斥女生强制要求让座",
-      "onboard_time": 1686708928,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -640,14 +680,6 @@
       "word": "天津居民楼爆炸案嫌犯已被抓",
       "onboard_time": 1686702692,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186535,
-      "num": 186535,
-      "word": "四川多名城管疑与摊贩发生冲突",
-      "onboard_time": 1686711089,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -787,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147803,
+      "num": 147803,
+      "word": "李俊昊林允儿双人画报",
+      "onboard_time": 1686711149,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 147557,
       "num": 147557,
       "word": "杭州亚运会100天倒计时",
       "onboard_time": 1686710910,
       "rank": 44,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 146001,
+      "num": 146001,
+      "word": "野挺有趣宣传片",
+      "onboard_time": 1686712712,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145936,
@@ -819,20 +867,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139340,
-      "num": 139340,
-      "word": "李俊昊林允儿双人画报",
-      "onboard_time": 1686711149,
-      "rank": 46,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 138468,
       "num": 138468,
       "word": "詹雯婷方严正声明",
       "onboard_time": 1686710007,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137679,
+      "num": 137679,
+      "word": "三分野今日收官",
+      "onboard_time": 1686713550,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 132527,
@@ -857,6 +905,14 @@
       "onboard_time": 1686677836,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131355,
+      "num": 131355,
+      "word": "朋友圈宣传都不要常识吗",
+      "onboard_time": 1686713608,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 129512,
@@ -915,20 +971,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102587,
+      "num": 2178564,
+      "word": "杭州迎亚运风光片",
+      "onboard_time": 1686710488,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98156,
       "num": 98156,
       "word": "万新村",
       "onboard_time": 1686665128,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97577,
-      "num": 1472078,
-      "word": "杭州迎亚运风光片",
-      "onboard_time": 1686710488,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 92328,
@@ -1065,6 +1121,9 @@
     },
     {
       "word": "#愿中洪关系不断提质升级开新局#"
+    },
+    {
+      "word": "#高质量发展调研行#"
     }
   ]
 }
