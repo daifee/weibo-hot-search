@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686752123662,
+  "endTime": 1686753215261,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2043186,
+      "num": 406321,
+      "word": "双宋彻底BE",
+      "onboard_time": 1686749610,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2020355,
       "num": 2020355,
       "word": "韩国演员朴秀莲从楼梯摔落去世",
@@ -297,14 +305,6 @@
       "onboard_time": 1686547410,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1896350,
-      "num": 367557,
-      "word": "双宋彻底BE",
-      "onboard_time": 1686749610,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 1896033,
@@ -1587,6 +1587,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 525242,
+      "num": 525242,
+      "word": "S属性大爆发",
+      "onboard_time": 1686750210,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 522550,
       "num": 332652,
       "word": "原来跷二郎腿还会让脸变大",
@@ -1995,6 +2003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362181,
+      "num": 291530,
+      "word": "梦海是肖战李沁的五搭",
+      "onboard_time": 1686752011,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361054,
       "num": 361054,
       "word": "护心",
@@ -2099,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347160,
+      "num": 303439,
+      "word": "内娱校花",
+      "onboard_time": 1686750870,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345572,
       "num": 345572,
       "word": "后来呢 我们分开了",
@@ -2195,14 +2219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332285,
-      "num": 332285,
-      "word": "S属性大爆发",
-      "onboard_time": 1686750210,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 331249,
       "num": 331249,
       "word": "女生骂男生偷拍变态后称认错人了",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1686549512,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322634,
+      "num": 274801,
+      "word": "是怎么说服肖战拍视频的",
+      "onboard_time": 1686752011,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 321123,
@@ -2427,14 +2451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303439,
-      "num": 303439,
-      "word": "内娱校花",
-      "onboard_time": 1686750870,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 302652,
       "num": 276002,
       "word": "你对川大最新回应怎么看",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1686499888,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286792,
-      "num": 286792,
-      "word": "梦海是肖战李沁的五搭",
-      "onboard_time": 1686752011,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 286071,
@@ -3891,6 +3899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205379,
+      "num": 205379,
+      "word": "小猫咪独自去玩被猫妈骂了",
+      "onboard_time": 1686752192,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 205054,
       "num": 205054,
       "word": "肖战回应不会骑自行车",
@@ -4283,6 +4299,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 192052,
+      "num": 192052,
+      "word": "肖沐恩 老A",
+      "onboard_time": 1686751113,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191850,
       "num": 191850,
       "word": "陈绮贞律师声明",
@@ -4347,6 +4371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189996,
+      "num": 189996,
+      "word": "遥望科技回应苏醒工作证来源",
+      "onboard_time": 1686752011,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 189975,
       "num": 189975,
       "word": "高中男生称这个国家有我想保护的人",
@@ -4377,6 +4409,14 @@
       "onboard_time": 1686707729,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189641,
+      "num": 189641,
+      "word": "白羊座为什么更容易吃亏上当",
+      "onboard_time": 1686744088,
+      "rank": 45,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 189577,
@@ -4579,14 +4619,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 186248,
-      "num": 186248,
-      "word": "白羊座为什么更容易吃亏上当",
-      "onboard_time": 1686744088,
-      "rank": 45,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 186217,
       "num": 186217,
       "word": "腾讯音乐娱乐盛典阵容",
@@ -4617,14 +4649,6 @@
       "onboard_time": 1686576571,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185278,
-      "num": 185278,
-      "word": "肖沐恩 老A",
-      "onboard_time": 1686751113,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 185124,
@@ -4691,14 +4715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181914,
-      "num": 181914,
-      "word": "是怎么说服肖战拍视频的",
-      "onboard_time": 1686752011,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181386,
       "num": 181386,
       "word": "泽尻英龙华",
@@ -4713,6 +4729,14 @@
       "onboard_time": 1686634590,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180450,
+      "num": 368577,
+      "word": "杭州跳桥救人小哥受伤免费治疗",
+      "onboard_time": 1686751293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180346,
@@ -4817,6 +4841,14 @@
       "onboard_time": 1686722910,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176306,
+      "num": 176306,
+      "word": "三分野",
+      "onboard_time": 1686752670,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 175592,
@@ -5233,14 +5265,6 @@
       "onboard_time": 1686658527,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158393,
-      "num": 158393,
-      "word": "遥望科技回应苏醒工作证来源",
-      "onboard_time": 1686752011,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 158313,
@@ -5851,6 +5875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140532,
+      "num": 140532,
+      "word": "救人的小哥你该得到这些",
+      "onboard_time": 1686753091,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140523,
+      "num": 140523,
+      "word": "大熊猫沉浸式喝奶舔完盆盆舔手手",
+      "onboard_time": 1686752733,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140436,
       "num": 140436,
       "word": "周翊然张陆让",
@@ -6081,6 +6121,14 @@
       "onboard_time": 1686710488,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 132384,
+      "num": 132384,
+      "word": "MTG对战XYG",
+      "onboard_time": 1686753154,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 132362,
@@ -6777,14 +6825,6 @@
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87107,
-      "num": 365748,
-      "word": "杭州跳桥救人小哥受伤免费治疗",
-      "onboard_time": 1686751293,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86132,
