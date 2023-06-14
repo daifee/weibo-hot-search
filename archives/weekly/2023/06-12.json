@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686730874723,
+  "endTime": 1686731615829,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781684,
+      "num": 781684,
+      "word": "大学上了一半专业没了",
+      "onboard_time": 1686728368,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 778246,
       "num": 778246,
       "word": "梅西被迫宅在酒店",
@@ -1155,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 696317,
+      "num": 696317,
+      "word": "比Uzi还紧张",
+      "onboard_time": 1686727829,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 683328,
-      "num": 683328,
-      "word": "大学上了一半专业没了",
-      "onboard_time": 1686728368,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 668496,
@@ -1241,14 +1249,6 @@
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 621573,
-      "num": 621573,
-      "word": "比Uzi还紧张",
-      "onboard_time": 1686727829,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 609366,
@@ -1641,6 +1641,14 @@
       "onboard_time": 1686477088,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407385,
+      "num": 407385,
+      "word": "梅西苏醒合影",
+      "onboard_time": 1686731490,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 405989,
@@ -2051,6 +2059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317997,
+      "num": 217128,
+      "word": "德国同学把我的剩饭吃了",
+      "onboard_time": 1686730108,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "丫丫",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1686704013,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 291882,
+      "num": 291882,
+      "word": "胡锡进 川大处理该女生应遵循以下考量",
+      "onboard_time": 1686727708,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291325,
@@ -2569,14 +2593,6 @@
       "onboard_time": 1686578490,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256366,
-      "num": 256366,
-      "word": "胡锡进 川大处理该女生应遵循以下考量",
-      "onboard_time": 1686727708,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255738,
@@ -3139,14 +3155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217128,
-      "num": 217128,
-      "word": "德国同学把我的剩饭吃了",
-      "onboard_time": 1686730108,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217110,
       "num": 217110,
       "word": "原来蟑螂是有记忆的",
@@ -3579,6 +3587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199252,
+      "num": 199252,
+      "word": "瓦电晋级八强",
+      "onboard_time": 1686730828,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199231,
       "num": 1005610,
       "word": "男子被困冷库环卫工路过救一命",
@@ -3964,7 +3980,7 @@
     },
     {
       "raw_hot": 187241,
-      "num": 171113,
+      "num": 181632,
       "word": "肖春生鞋不合脚",
       "onboard_time": 1686729988,
       "rank": 35,
@@ -4315,12 +4331,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169445,
+      "num": 490380,
+      "word": "聋哑父母就医6岁女儿成翻译",
+      "onboard_time": 1686729627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169149,
       "num": 169149,
       "word": "李大奔 抢票",
       "onboard_time": 1686717034,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168942,
+      "num": 168942,
+      "word": "五条悟",
+      "onboard_time": 1686727287,
+      "rank": 45,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 168921,
@@ -4395,6 +4427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164956,
+      "num": 164956,
+      "word": "遗忘是遗憾最好的归宿",
+      "onboard_time": 1686730349,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164873,
       "num": 164873,
       "word": "吴青峰为陈绮贞发文",
@@ -4443,12 +4483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162827,
+      "num": 162827,
+      "word": "大树",
+      "onboard_time": 1686728549,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 162653,
       "num": 162653,
       "word": "寻找17年给我小狗的阿姨",
       "onboard_time": 1686622829,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162193,
+      "num": 162193,
+      "word": "刘浩存跳舞vs任敏跳舞",
+      "onboard_time": 1686731068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 162146,
@@ -4539,28 +4595,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 157580,
-      "num": 157580,
-      "word": "遗忘是遗憾最好的归宿",
-      "onboard_time": 1686730349,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157505,
       "num": 157505,
       "word": "王源插兜好努力",
       "onboard_time": 1686660267,
       "rank": 31,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 157441,
-      "num": 157441,
-      "word": "五条悟",
-      "onboard_time": 1686727287,
-      "rank": 45,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 157048,
@@ -4601,14 +4641,6 @@
       "onboard_time": 1686724709,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155948,
-      "num": 155948,
-      "word": "大树",
-      "onboard_time": 1686728549,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 155940,
@@ -4721,6 +4753,14 @@
       "onboard_time": 1686534508,
       "rank": 35,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 151080,
+      "num": 151080,
+      "word": "面试时HR让我填血型",
+      "onboard_time": 1686731547,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150767,
@@ -4891,6 +4931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145824,
+      "num": 145824,
+      "word": "狼队对战TTG",
+      "onboard_time": 1686724469,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145696,
       "num": 145696,
       "word": "10后女孩吵架开始拼妹",
@@ -4945,6 +4993,14 @@
       "onboard_time": 1686551429,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143606,
+      "num": 143606,
+      "word": "王曼昱bking瞬间",
+      "onboard_time": 1686731430,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 143583,
@@ -5043,6 +5099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140901,
+      "num": 140901,
+      "word": "杨紫你好星期六上班花式比心",
+      "onboard_time": 1686729208,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140853,
       "num": 140853,
       "word": "紫幻好强",
@@ -5073,14 +5137,6 @@
       "onboard_time": 1686561450,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 140004,
-      "num": 140004,
-      "word": "狼队对战TTG",
-      "onboard_time": 1686724469,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 139694,
@@ -5193,14 +5249,6 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 135621,
-      "num": 135621,
-      "word": "杨紫你好星期六上班花式比心",
-      "onboard_time": 1686729208,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134994,
@@ -5435,14 +5483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126417,
-      "num": 126417,
-      "word": "瓦电晋级八强",
-      "onboard_time": 1686730828,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 125438,
       "num": 125438,
       "word": "习惯一个人和喜欢一个人是两码事",
@@ -5648,14 +5688,6 @@
       "word": "7岁姐姐勇敢捐骨髓救6岁妹妹",
       "onboard_time": 1686550048,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112182,
-      "num": 490380,
-      "word": "聋哑父母就医6岁女儿成翻译",
-      "onboard_time": 1686729627,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -6401,6 +6433,9 @@
     },
     {
       "word": "#新时代成就巡礼#"
+    },
+    {
+      "word": "#100天后杭州亚运会#"
     }
   ]
 }

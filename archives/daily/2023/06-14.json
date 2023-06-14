@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686730874723,
+  "endTime": 1686731615829,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 781684,
+      "num": 781684,
+      "word": "大学上了一半专业没了",
+      "onboard_time": 1686728368,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 764023,
       "num": 764023,
       "word": "柯以敏 我比那英唱得更好",
@@ -323,12 +331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 683328,
-      "num": 683328,
-      "word": "大学上了一半专业没了",
-      "onboard_time": 1686728368,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 696317,
+      "num": 696317,
+      "word": "比Uzi还紧张",
+      "onboard_time": 1686727829,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 662941,
@@ -361,14 +369,6 @@
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 621573,
-      "num": 621573,
-      "word": "比Uzi还紧张",
-      "onboard_time": 1686727829,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 609366,
@@ -475,6 +475,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 407385,
+      "num": 407385,
+      "word": "梅西苏醒合影",
+      "onboard_time": 1686731490,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 373026,
       "num": 267448,
       "word": "TTG运营",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317997,
+      "num": 217128,
+      "word": "德国同学把我的剩饭吃了",
+      "onboard_time": 1686730108,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "丫丫",
@@ -617,6 +633,14 @@
       "onboard_time": 1686704013,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 291882,
+      "num": 291882,
+      "word": "胡锡进 川大处理该女生应遵循以下考量",
+      "onboard_time": 1686727708,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290754,
@@ -705,14 +729,6 @@
       "onboard_time": 1686730108,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256366,
-      "num": 256366,
-      "word": "胡锡进 川大处理该女生应遵循以下考量",
-      "onboard_time": 1686727708,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253943,
@@ -843,14 +859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217128,
-      "num": 217128,
-      "word": "德国同学把我的剩饭吃了",
-      "onboard_time": 1686730108,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214621,
       "num": 214621,
       "word": "短睡可能是一种天赋",
@@ -929,6 +937,14 @@
       "onboard_time": 1686727108,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199252,
+      "num": 199252,
+      "word": "瓦电晋级八强",
+      "onboard_time": 1686730828,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 196106,
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 187241,
-      "num": 171113,
+      "num": 181632,
       "word": "肖春生鞋不合脚",
       "onboard_time": 1686729988,
       "rank": 35,
@@ -1179,12 +1195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169445,
+      "num": 490380,
+      "word": "聋哑父母就医6岁女儿成翻译",
+      "onboard_time": 1686729627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169149,
       "num": 169149,
       "word": "李大奔 抢票",
       "onboard_time": 1686717034,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168942,
+      "num": 168942,
+      "word": "五条悟",
+      "onboard_time": 1686727287,
+      "rank": 45,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 167640,
@@ -1203,12 +1235,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164956,
+      "num": 164956,
+      "word": "遗忘是遗憾最好的归宿",
+      "onboard_time": 1686730349,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163892,
       "num": 163892,
       "word": "光与夜之恋",
       "onboard_time": 1686697760,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162827,
+      "num": 162827,
+      "word": "大树",
+      "onboard_time": 1686728549,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 162193,
+      "num": 162193,
+      "word": "刘浩存跳舞vs任敏跳舞",
+      "onboard_time": 1686731068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 162133,
@@ -1235,22 +1291,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 157580,
-      "num": 157580,
-      "word": "遗忘是遗憾最好的归宿",
-      "onboard_time": 1686730349,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 157441,
-      "num": 157441,
-      "word": "五条悟",
-      "onboard_time": 1686727287,
-      "rank": 45,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 156742,
       "num": 156742,
       "word": "狐妖竹业篇导演",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1686724709,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155948,
-      "num": 155948,
-      "word": "大树",
-      "onboard_time": 1686728549,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 155940,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1686710666,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151080,
+      "num": 151080,
+      "word": "面试时HR让我填血型",
+      "onboard_time": 1686731547,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150051,
@@ -1379,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145824,
+      "num": 145824,
+      "word": "狼队对战TTG",
+      "onboard_time": 1686724469,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145477,
       "num": 145477,
       "word": "95后小伙每天抡15斤大锤学打铁",
@@ -1393,6 +1441,14 @@
       "onboard_time": 1686700226,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143606,
+      "num": 143606,
+      "word": "王曼昱bking瞬间",
+      "onboard_time": 1686731430,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 142702,
@@ -1411,19 +1467,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140901,
+      "num": 140901,
+      "word": "杨紫你好星期六上班花式比心",
+      "onboard_time": 1686729208,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140853,
       "num": 140853,
       "word": "紫幻好强",
       "onboard_time": 1686726029,
       "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 140004,
-      "num": 140004,
-      "word": "狼队对战TTG",
-      "onboard_time": 1686724469,
-      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1449,14 +1505,6 @@
       "onboard_time": 1686713550,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135621,
-      "num": 135621,
-      "word": "杨紫你好星期六上班花式比心",
-      "onboard_time": 1686729208,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 132527,
@@ -1507,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126417,
-      "num": 126417,
-      "word": "瓦电晋级八强",
-      "onboard_time": 1686730828,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 123264,
       "num": 123264,
       "word": "高中文化程度短时间掌握了大学课程",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1686658046,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112182,
-      "num": 490380,
-      "word": "聋哑父母就医6岁女儿成翻译",
-      "onboard_time": 1686729627,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111292,
@@ -1791,6 +1823,9 @@
     },
     {
       "word": "#新时代成就巡礼#"
+    },
+    {
+      "word": "#100天后杭州亚运会#"
     }
   ]
 }
