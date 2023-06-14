@@ -1,0 +1,410 @@
+{
+  "runTime": 1686728015249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2371539,
+        "num": 2371539,
+        "word": "出生率",
+        "onboard_time": 1686722849,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204213,
+        "num": 1204213,
+        "word": "小米回应被印度没收48亿元",
+        "onboard_time": 1686714932,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 27812,
+        "num": 1194781,
+        "word": "每一份献血都是生命的礼物",
+        "onboard_time": 1686727829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1194295,
+        "num": 1194295,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1121890,
+        "num": 1121890,
+        "word": "一批985毕业生选择主动延毕",
+        "onboard_time": 1686725186,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 807408,
+        "num": 807408,
+        "word": "毕夏发讣告透露张恒远生前心愿",
+        "onboard_time": 1686713369,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737757,
+        "num": 737757,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735577,
+        "num": 735577,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662526,
+        "num": 662526,
+        "word": "医生去世后手机还一直收到患者消息",
+        "onboard_time": 1686716433,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638118,
+        "num": 638118,
+        "word": "汪峰 毕夏你要坚强",
+        "onboard_time": 1686712169,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1965915,
+        "num": 636117,
+        "word": "Jennie道歉评论区",
+        "onboard_time": 1686724947,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740335,
+        "num": 634969,
+        "word": "陈仟钰是上戏艺考第一",
+        "onboard_time": 1686725069,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632117,
+        "num": 632117,
+        "word": "阚清子 叶琳回来啦",
+        "onboard_time": 1686718595,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589355,
+        "num": 589355,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97388,
+        "num": 587153,
+        "word": "医生的这一个习惯已多次救人",
+        "onboard_time": 1686726029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610747,
+        "num": 587067,
+        "word": "13岁女孩遭性侵怀孕引产后报警",
+        "onboard_time": 1686714873,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586435,
+        "num": 586435,
+        "word": "赵露思 两次宝格丽造型",
+        "onboard_time": 1686713970,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 551830,
+        "num": 551830,
+        "word": "Ella 是谁让你们送我莲花",
+        "onboard_time": 1686723628,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435125,
+        "num": 435125,
+        "word": "鞠婧祎回应撞脸歪嘴小猫",
+        "onboard_time": 1686716555,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422783,
+        "num": 422783,
+        "word": "俄23岁男子游泳时被鲨鱼活吞",
+        "onboard_time": 1686711629,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742530,
+        "num": 420590,
+        "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+        "onboard_time": 1686719674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387875,
+        "num": 387875,
+        "word": "任敏跳舞 孙莉",
+        "onboard_time": 1686712829,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372481,
+        "num": 372481,
+        "word": "实习生发错信息到工作群",
+        "onboard_time": 1686708388,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354636,
+        "num": 354636,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353462,
+        "num": 353462,
+        "word": "比Uzi还紧张",
+        "onboard_time": 1686727829,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319562,
+        "num": 319562,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318739,
+        "num": 318739,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314023,
+        "num": 314023,
+        "word": "Angelababy甜橙蝴蝶妆",
+        "onboard_time": 1686718415,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 310225,
+        "num": 310225,
+        "word": "姆巴佩说梅西没得到应有的尊重",
+        "onboard_time": 1686709587,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267448,
+        "num": 267448,
+        "word": "TTG运营",
+        "onboard_time": 1686726809,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241144,
+        "num": 241144,
+        "word": "一笙 罚单",
+        "onboard_time": 1686726690,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231433,
+        "num": 231433,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 226190,
+        "num": 226190,
+        "word": "杨幂黄明昊跳了flower",
+        "onboard_time": 1686722969,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218546,
+        "num": 218546,
+        "word": "咒术回战",
+        "onboard_time": 1686724947,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 217262,
+        "num": 217262,
+        "word": "员工入职一个半月怀孕了",
+        "onboard_time": 1686698603,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201759,
+        "num": 201759,
+        "word": "救人外卖小哥获见义勇为奖金3万元",
+        "onboard_time": 1686727108,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193540,
+        "num": 193540,
+        "word": "肖战回应不会骑自行车",
+        "onboard_time": 1686726330,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189060,
+        "num": 189060,
+        "word": "怦然3三男争一女",
+        "onboard_time": 1686722548,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170400,
+        "num": 170400,
+        "word": "胡锡进 川大处理该女生应遵循以下考量",
+        "onboard_time": 1686727708,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65598,
+        "num": 169858,
+        "word": "梅西中国首播定在淘宝",
+        "onboard_time": 1686726029,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169725,
+        "num": 169725,
+        "word": "九尾的横幅",
+        "onboard_time": 1686726330,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168140,
+        "num": 168140,
+        "word": "SEVENTEEN要来广州开签售会",
+        "onboard_time": 1686716136,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166514,
+        "num": 166514,
+        "word": "原来物理防晒胜过所有防晒霜",
+        "onboard_time": 1686698603,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 159111,
+        "num": 159111,
+        "word": "喜欢你4八个人成了两对半",
+        "onboard_time": 1686722490,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158414,
+        "num": 158414,
+        "word": "胡锡进 四川大学面临考验",
+        "onboard_time": 1686717513,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 157441,
+        "num": 157441,
+        "word": "五条悟",
+        "onboard_time": 1686727287,
+        "rank": 45,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 77539,
+        "num": 145989,
+        "word": "一分钟完成身体微体检的好办法",
+        "onboard_time": 1686727770,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25367,
+        "num": 143008,
+        "word": "感谢为爱勇敢伸出手臂的你",
+        "onboard_time": 1686727588,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 142022,
+        "word": "薛小婉 任权",
+        "onboard_time": 1686699505,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140004,
+        "num": 140004,
+        "word": "狼队对战TTG",
+        "onboard_time": 1686724469,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#愿中洪关系不断提质升级开新局#"
+    }
+  }
+}

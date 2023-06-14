@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686726952966,
+  "endTime": 1686728015249,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2371539,
+      "num": 2371539,
+      "word": "出生率",
+      "onboard_time": 1686722849,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2342513,
       "num": 940383,
       "word": "张恒远毕夏",
@@ -217,6 +225,14 @@
       "onboard_time": 1686585147,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1965915,
+      "num": 731154,
+      "word": "Jennie道歉评论区",
+      "onboard_time": 1686724947,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1936298,
@@ -323,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1578520,
-      "num": 1578520,
-      "word": "出生率",
-      "onboard_time": 1686722849,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1566687,
       "num": 1042877,
       "word": "成都地铁男子偷拍女生后当面删掉",
@@ -393,14 +401,6 @@
       "onboard_time": 1686552689,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1464479,
-      "num": 731154,
-      "word": "Jennie道歉评论区",
-      "onboard_time": 1686724947,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1459438,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1204213,
+      "num": 1204213,
+      "word": "小米回应被印度没收48亿元",
+      "onboard_time": 1686714932,
+      "rank": 23,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1202288,
       "num": 1202288,
       "word": "梅西直播",
@@ -561,6 +569,14 @@
       "onboard_time": 1686553050,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1194295,
+      "num": 1194295,
+      "word": "向佐向唐诗逸道歉",
+      "onboard_time": 1686716196,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1184677,
@@ -611,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121890,
+      "num": 1121890,
+      "word": "一批985毕业生选择主动延毕",
+      "onboard_time": 1686725186,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1118116,
       "num": 1118116,
       "word": "为什么夏天都不穿凉鞋了",
@@ -625,14 +649,6 @@
       "onboard_time": 1686584129,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1084316,
-      "num": 1084316,
-      "word": "向佐向唐诗逸道歉",
-      "onboard_time": 1686716196,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 1082710,
@@ -713,14 +729,6 @@
       "onboard_time": 1686636330,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1036256,
-      "num": 1036256,
-      "word": "小米回应被印度没收48亿元",
-      "onboard_time": 1686714932,
-      "rank": 23,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 1031231,
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740335,
+      "num": 634969,
+      "word": "陈仟钰是上戏艺考第一",
+      "onboard_time": 1686725069,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736126,
       "num": 736126,
       "word": "企业回应禁止婚外情和出轨",
@@ -1235,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598247,
-      "num": 598247,
-      "word": "陈仟钰是上戏艺考第一",
-      "onboard_time": 1686725069,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 587268,
       "num": 587268,
       "word": "薛之谦说我开始找你了梅西",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1686665128,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551830,
+      "num": 551830,
+      "word": "Ella 是谁让你们送我莲花",
+      "onboard_time": 1686723628,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 551478,
@@ -1457,14 +1473,6 @@
       "onboard_time": 1686659008,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 484648,
-      "num": 484648,
-      "word": "Ella 是谁让你们送我莲花",
-      "onboard_time": 1686723628,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 481358,
@@ -1619,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411001,
-      "num": 411001,
-      "word": "一批985毕业生选择主动延毕",
-      "onboard_time": 1686725186,
-      "rank": 18,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -1716,7 +1716,7 @@
     },
     {
       "raw_hot": 373026,
-      "num": 227045,
+      "num": 267448,
       "word": "TTG运营",
       "onboard_time": 1686726809,
       "rank": 30,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1686717513,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 353462,
+      "num": 353462,
+      "word": "比Uzi还紧张",
+      "onboard_time": 1686727829,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 350792,
@@ -2755,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241144,
+      "num": 241144,
+      "word": "一笙 罚单",
+      "onboard_time": 1686726690,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241045,
       "num": 241045,
       "word": "LPL",
@@ -3123,14 +3139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216391,
-      "num": 216391,
-      "word": "一笙 罚单",
-      "onboard_time": 1686726690,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 216341,
       "num": 216341,
       "word": "NewJeans换妆造了",
@@ -3441,6 +3449,14 @@
       "onboard_time": 1686640406,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201759,
+      "num": 201759,
+      "word": "救人外卖小哥获见义勇为奖金3万元",
+      "onboard_time": 1686727108,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201648,
@@ -4251,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170400,
+      "num": 170400,
+      "word": "胡锡进 川大处理该女生应遵循以下考量",
+      "onboard_time": 1686727708,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169571,
       "num": 169571,
       "word": "第四届TMEA首波阵容官宣",
@@ -4489,6 +4513,14 @@
       "onboard_time": 1686660267,
       "rank": 31,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 157441,
+      "num": 157441,
+      "word": "五条悟",
+      "onboard_time": 1686727287,
+      "rank": 45,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 157048,
@@ -4987,6 +5019,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 140004,
+      "num": 140004,
+      "word": "狼队对战TTG",
+      "onboard_time": 1686724469,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139694,
       "num": 139694,
       "word": "如何看待明星说错话",
@@ -5345,14 +5385,6 @@
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124400,
-      "num": 124400,
-      "word": "狼队对战TTG",
-      "onboard_time": 1686724469,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 123981,
@@ -5763,6 +5795,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 97388,
+      "num": 587153,
+      "word": "医生的这一个习惯已多次救人",
+      "onboard_time": 1686726029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95035,
       "num": 107330,
       "word": "以为很显眼没想到是显眼包",
@@ -5859,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77539,
+      "num": 145989,
+      "word": "一分钟完成身体微体检的好办法",
+      "onboard_time": 1686727770,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76486,
       "num": 81094,
       "word": "当我怒气冲冲地查完账单",
@@ -5937,6 +5985,14 @@
       "onboard_time": 1686610999,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 65598,
+      "num": 178572,
+      "word": "梅西中国首播定在淘宝",
+      "onboard_time": 1686726029,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 64454,
@@ -6059,28 +6115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44678,
-      "num": 538320,
-      "word": "医生的这一个习惯已多次救人",
-      "onboard_time": 1686726029,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42657,
       "num": 54120,
       "word": "小学拍毕业照请护学交警坐c位",
       "onboard_time": 1686492690,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42480,
-      "num": 178572,
-      "word": "梅西中国首播定在淘宝",
-      "onboard_time": 1686726029,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 38408,
@@ -6155,6 +6195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27812,
+      "num": 1194781,
+      "word": "每一份献血都是生命的礼物",
+      "onboard_time": 1686727829,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27587,
       "num": 30610,
       "word": "从12米高处跳江小哥讲述救人全过程",
@@ -6193,6 +6241,14 @@
       "onboard_time": 1686593056,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25367,
+      "num": 143008,
+      "word": "感谢为爱勇敢伸出手臂的你",
+      "onboard_time": 1686727588,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24244,
