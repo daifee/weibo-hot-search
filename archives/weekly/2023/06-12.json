@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686760719776,
+  "endTime": 1686762890989,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1188,7 +1188,7 @@
     },
     {
       "raw_hot": 791564,
-      "num": 406510,
+      "num": 703953,
       "word": "韩国摄影师在廉租房生活拍摄3年",
       "onboard_time": 1686757050,
       "rank": 11,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385598,
+      "num": 385598,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382678,
       "num": 382678,
       "word": "Weiwei 886",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1686744989,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 380330,
-      "num": 380330,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377381,
@@ -4795,6 +4795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181027,
+      "num": 181027,
+      "word": "把内耗变成外耗",
+      "onboard_time": 1686759027,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180684,
       "num": 180684,
       "word": "公司背调要不要经过本人同意",
@@ -6379,14 +6387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126596,
-      "num": 126596,
-      "word": "把内耗变成外耗",
-      "onboard_time": 1686759027,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125640,
       "num": 125640,
       "word": "黄永玉遗嘱说让我的骨灰回到大自然",
@@ -6641,6 +6641,14 @@
       "onboard_time": 1686534687,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111657,
+      "num": 111657,
+      "word": "虞书欣ins更新照",
+      "onboard_time": 1686761121,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 111484,
@@ -7121,6 +7129,14 @@
       "onboard_time": 1686737792,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64476,
+      "num": 64476,
+      "word": "狼队战胜TTG",
+      "onboard_time": 1686762558,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 64454,

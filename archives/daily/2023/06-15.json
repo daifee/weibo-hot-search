@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686760719776,
+  "endTime": 1686762890989,
   "band_list": [
     {
       "raw_hot": 1373496,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 791564,
-      "num": 406510,
+      "num": 703953,
       "word": "韩国摄影师在廉租房生活拍摄3年",
       "onboard_time": 1686757050,
       "rank": 11,
@@ -107,20 +107,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 385598,
+      "num": 385598,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383657,
       "num": 383657,
       "word": "小猫咪独自去玩被猫妈骂了",
       "onboard_time": 1686752192,
       "rank": 13,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 380330,
-      "num": 380330,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309545,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181027,
+      "num": 181027,
+      "word": "把内耗变成外耗",
+      "onboard_time": 1686759027,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170967,
       "num": 170967,
       "word": "苏醒没有梅西高",
@@ -267,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126596,
-      "num": 126596,
-      "word": "把内耗变成外耗",
-      "onboard_time": 1686759027,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 124760,
+      "num": 124760,
+      "word": "久诚好帅",
+      "onboard_time": 1686751530,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 123159,
@@ -299,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112719,
-      "num": 112719,
-      "word": "久诚好帅",
-      "onboard_time": 1686751530,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 111657,
+      "num": 111657,
+      "word": "虞书欣ins更新照",
+      "onboard_time": 1686761121,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 108219,
@@ -403,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64476,
+      "num": 64476,
+      "word": "狼队战胜TTG",
+      "onboard_time": 1686762558,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 7718,
       "num": 732205,
       "word": "杭州迎亚运风光片",
@@ -417,6 +433,9 @@
     },
     {
       "word": "#新时代成就巡礼#"
+    },
+    {
+      "word": "#高质量发展调研行#"
     }
   ]
 }
