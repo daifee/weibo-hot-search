@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/15 00:23:07 ~ 2023/06/15 06:33:37
+本榜单时间：2023/06/15 00:23:07 ~ 2023/06/15 07:18:14
 </p>
 </blockquote>
 <p>
@@ -106,13 +106,19 @@ Angelababy撕漫女（热度：430455）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23" target="weibo">
-温州近视司机深夜高速上镜片突然脱落（热度：385598）
+温州近视司机深夜高速上镜片突然脱落（热度：398695）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%8B%AC%E8%87%AA%E5%8E%BB%E7%8E%A9%E8%A2%AB%E7%8C%AB%E5%A6%88%E9%AA%82%E4%BA%86%23" target="weibo">
 小猫咪独自去玩被猫妈骂了（热度：383657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%89%E4%B9%9F%E4%BC%91%E5%85%AC%E5%8F%B8%20%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83%23" target="weibo">
+周三也休公司 上四休三绝不放弃（热度：326401）
 </a>
 </li>
 
@@ -129,8 +135,14 @@ Angelababy撕漫女（热度：430455）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%89%E4%B9%9F%E4%BC%91%E5%85%AC%E5%8F%B8%20%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83%23" target="weibo">
-周三也休公司 上四休三绝不放弃（热度：269553）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%B2%A1%E6%9C%89%E6%A2%85%E8%A5%BF%E9%AB%98%23" target="weibo">
+苏醒没有梅西高（热度：258443）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%9D%92%E6%B5%A6%E5%8C%BA%E5%8F%91%E7%94%9F3.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+上海青浦区发生3.1级地震（热度：242413）
 </a>
 </li>
 
@@ -183,14 +195,14 @@ Angelababy撕漫女（热度：430455）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%B2%A1%E6%9C%89%E6%A2%85%E8%A5%BF%E9%AB%98%23" target="weibo">
-苏醒没有梅西高（热度：170967）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E5%A4%A7%E7%A5%9E%E7%89%88%23" target="weibo">
+密室大逃脱大神版（热度：164598）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E5%A4%A7%E7%A5%9E%E7%89%88%23" target="weibo">
-密室大逃脱大神版（热度：164598）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%AD%E5%8C%BB%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E6%91%86%E6%91%8A%E4%B9%89%E8%AF%8A%23" target="weibo">
+老中医淄博八大局摆摊义诊（热度：162908）
 </a>
 </li>
 
@@ -207,20 +219,32 @@ Angelababy撕漫女（热度：430455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%AD%A6%E5%AF%9F%E5%A4%AB%E5%A6%BB%E5%BA%A6%E8%9C%9C%E6%9C%88%E9%A1%BA%E4%BE%BF%E6%8A%933%E4%BA%BA%23" target="weibo">
+河南警察夫妻度蜜月顺便抓3人（热度：146956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%82%A0%E9%97%B2%E8%87%AA%E5%9C%A8%E5%90%83%E7%AB%B9%E7%AC%8B%23" target="weibo">
 丫丫悠闲自在吃竹笋（热度：144961）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23MTG%E5%AF%B9%E6%88%98XYG%23" target="weibo">
-MTG对战XYG（热度：133593）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E8%BF%9C%E6%98%AF%E7%A6%BB%E8%82%A0%E7%99%8C%E8%BF%9C%E4%B8%80%E7%82%B9%23" target="weibo">
+常远是离肠癌远一点（热度：142854）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%AD%A6%E5%AF%9F%E5%A4%AB%E5%A6%BB%E5%BA%A6%E8%9C%9C%E6%9C%88%E9%A1%BA%E4%BE%BF%E6%8A%933%E4%BA%BA%23" target="weibo">
-河南警察夫妻度蜜月顺便抓3人（热度：127836）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E5%AF%B9%E8%82%96%E6%98%A5%E7%94%9F%E7%9F%A5%E6%81%A9%E5%9B%BE%E6%8A%A5%E7%9A%84%E4%BA%BA%23" target="weibo">
+唯一一个对肖春生知恩图报的人（热度：141718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23MTG%E5%AF%B9%E6%88%98XYG%23" target="weibo">
+MTG对战XYG（热度：133593）
 </a>
 </li>
 
@@ -233,6 +257,12 @@ MTG对战XYG（热度：133593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E8%AF%9A%E5%A5%BD%E5%B8%85%23" target="weibo">
 久诚好帅（热度：124760）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%23" target="weibo">
+宋亚轩刘耀文打羽毛球（热度：124232）
 </a>
 </li>
 
@@ -261,8 +291,8 @@ MTG对战XYG（热度：133593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%AD%E5%8C%BB%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E6%91%86%E6%91%8A%E4%B9%89%E8%AF%8A%23" target="weibo">
-老中医淄博八大局摆摊义诊（热度：108219）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E8%82%96%E6%88%98%E7%9A%84%E5%B0%8F%E5%BF%83%E6%80%9D%23" target="weibo">
+演员肖战的小心思（热度：109214）
 </a>
 </li>
 
@@ -291,12 +321,6 @@ MTG对战XYG（热度：133593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E8%82%96%E6%88%98%E7%9A%84%E5%B0%8F%E5%BF%83%E6%80%9D%23" target="weibo">
-演员肖战的小心思（热度：100157）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E9%AB%98%E6%A0%A1%E9%80%81%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E6%9D%AF%E5%A5%B6%E8%8C%B6%23" target="weibo">
 河南一高校送毕业生一万四千杯奶茶（热度：97324）
 </a>
@@ -305,12 +329,6 @@ MTG对战XYG（热度：133593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CiG%23" target="weibo">
 EDG战胜iG（热度：96548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E5%AF%B9%E8%82%96%E6%98%A5%E7%94%9F%E7%9F%A5%E6%81%A9%E5%9B%BE%E6%8A%A5%E7%9A%84%E4%BA%BA%23" target="weibo">
-唯一一个对肖春生知恩图报的人（热度：93967）
 </a>
 </li>
 
@@ -333,14 +351,44 @@ Uzi复出首胜（热度：93021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
+檀健次你好星期六（热度：88689）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E8%B7%A8%E7%9C%81%E6%9D%80%E5%AE%B3%23" target="weibo">
+家属回应女子被丈夫跨省杀害（热度：88269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E5%A9%9A%E5%90%8Evs%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%A9%9A%E5%90%8E%23" target="weibo">
 肖春生婚后vs叶国华婚后（热度：87763）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E8%AF%B4%E8%AF%9D%E5%96%9C%E6%AC%A2%E7%94%A8%E4%BF%BA%23" target="weibo">
+山东人说话喜欢用俺（热度：73507）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E8%A2%AB%E7%88%B1%E7%9A%84%E6%97%B6%E5%80%99%E7%9C%9F%E7%9A%84%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BD%A0%E5%81%9A%E4%BB%80%E4%B9%88%23" target="weibo">
+当你被爱的时候真的不需要你做什么（热度：71696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%98%9F%E7%94%B5%E9%9F%B3%E8%B7%AF%E9%80%8F%23" target="weibo">
 黄子韬马伯骞星电音路透（热度：68429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%BB%E7%94%9F%E5%89%8D%E6%89%93%E7%94%B5%E8%AF%9D%E7%A7%B0%E6%83%B3%E6%8D%90%E5%99%A8%E5%AE%98%E8%A2%AB%E6%95%91%E4%B8%8B%23" target="weibo">
+男子轻生前打电话称想捐器官被救下（热度：67205）
 </a>
 </li>
 
@@ -365,12 +413,6 @@ RNG（热度：35859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%94%A1%E5%8F%8C%E6%9D%B0%23" target="weibo">
 双蔡双杰（热度：31584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-檀健次你好星期六（热度：27124）
 </a>
 </li>
 

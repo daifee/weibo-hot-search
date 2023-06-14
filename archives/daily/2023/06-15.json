@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686782017062,
+  "endTime": 1686784694285,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -123,8 +123,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 385598,
-      "num": 385598,
+      "raw_hot": 398695,
+      "num": 398695,
       "word": "温州近视司机深夜高速上镜片突然脱落",
       "onboard_time": 1686758726,
       "rank": 18,
@@ -137,6 +137,14 @@
       "onboard_time": 1686752192,
       "rank": 13,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 326401,
+      "num": 326401,
+      "word": "周三也休公司 上四休三绝不放弃",
+      "onboard_time": 1686745829,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309545,
@@ -155,11 +163,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269553,
-      "num": 269553,
-      "word": "周三也休公司 上四休三绝不放弃",
-      "onboard_time": 1686745829,
-      "rank": 16,
+      "raw_hot": 258443,
+      "num": 258443,
+      "word": "苏醒没有梅西高",
+      "onboard_time": 1686742287,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 242413,
+      "num": 235676,
+      "word": "上海青浦区发生3.1级地震",
+      "onboard_time": 1686784341,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -227,20 +243,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170967,
-      "num": 170967,
-      "word": "苏醒没有梅西高",
-      "onboard_time": 1686742287,
-      "rank": 26,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 164598,
       "num": 164598,
       "word": "密室大逃脱大神版",
       "onboard_time": 1686753750,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162908,
+      "num": 162908,
+      "word": "老中医淄博八大局摆摊义诊",
+      "onboard_time": 1686757767,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160539,
@@ -259,6 +275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 146956,
+      "num": 146956,
+      "word": "河南警察夫妻度蜜月顺便抓3人",
+      "onboard_time": 1686760344,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144961,
       "num": 144961,
       "word": "丫丫悠闲自在吃竹笋",
@@ -267,20 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142854,
+      "num": 142854,
+      "word": "常远是离肠癌远一点",
+      "onboard_time": 1686784521,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141718,
+      "num": 141718,
+      "word": "唯一一个对肖春生知恩图报的人",
+      "onboard_time": 1686750210,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133593,
       "num": 133593,
       "word": "MTG对战XYG",
       "onboard_time": 1686753154,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127836,
-      "num": 127836,
-      "word": "河南警察夫妻度蜜月顺便抓3人",
-      "onboard_time": 1686760344,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126803,
@@ -297,6 +329,14 @@
       "onboard_time": 1686751530,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124232,
+      "num": 124232,
+      "word": "宋亚轩刘耀文打羽毛球",
+      "onboard_time": 1686784521,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 123159,
@@ -331,12 +371,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 108219,
-      "num": 108219,
-      "word": "老中医淄博八大局摆摊义诊",
-      "onboard_time": 1686757767,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 109214,
+      "num": 109214,
+      "word": "演员肖战的小心思",
+      "onboard_time": 1686763159,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 106271,
@@ -371,14 +411,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 100157,
-      "num": 100157,
-      "word": "演员肖战的小心思",
-      "onboard_time": 1686763159,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 97324,
       "num": 97324,
       "word": "河南一高校送毕业生一万四千杯奶茶",
@@ -393,14 +425,6 @@
       "onboard_time": 1686744088,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93967,
-      "num": 93967,
-      "word": "唯一一个对肖春生知恩图报的人",
-      "onboard_time": 1686750210,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 93653,
@@ -427,6 +451,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88689,
+      "num": 88689,
+      "word": "檀健次你好星期六",
+      "onboard_time": 1686781696,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88269,
+      "num": 88269,
+      "word": "家属回应女子被丈夫跨省杀害",
+      "onboard_time": 1686784641,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87763,
       "num": 87763,
       "word": "肖春生婚后vs叶国华婚后",
@@ -435,12 +475,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73507,
+      "num": 73507,
+      "word": "山东人说话喜欢用俺",
+      "onboard_time": 1686783980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71696,
+      "num": 71696,
+      "word": "当你被爱的时候真的不需要你做什么",
+      "onboard_time": 1686783739,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68429,
       "num": 68429,
       "word": "黄子韬马伯骞星电音路透",
       "onboard_time": 1686763457,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67205,
+      "num": 67205,
+      "word": "男子轻生前打电话称想捐器官被救下",
+      "onboard_time": 1686783680,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64476,
@@ -473,14 +537,6 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27124,
-      "num": 51953,
-      "word": "檀健次你好星期六",
-      "onboard_time": 1686781696,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 15607,

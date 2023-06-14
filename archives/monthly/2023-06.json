@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686782017062,
+  "endTime": 1686784694285,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -9683,6 +9683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398695,
+      "num": 398695,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397660,
       "num": 397660,
       "word": "五条悟",
@@ -9921,14 +9929,6 @@
       "onboard_time": 1686179482,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385598,
-      "num": 385598,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384700,
@@ -15011,6 +15011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258443,
+      "num": 258443,
+      "word": "苏醒没有梅西高",
+      "onboard_time": 1686742287,
+      "rank": 43,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 258384,
       "num": 258384,
       "word": "杨紫红秀杂志花絮",
@@ -16272,6 +16280,14 @@
       "word": "德国警方回复中国光伏企业高管被带走",
       "onboard_time": 1686617670,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242413,
+      "num": 235676,
+      "word": "上海青浦区发生3.1级地震",
+      "onboard_time": 1686784341,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -19777,14 +19793,6 @@
       "onboard_time": 1686630272,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203429,
-      "num": 203429,
-      "word": "苏醒没有梅西高",
-      "onboard_time": 1686742287,
-      "rank": 43,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 203380,
@@ -24435,6 +24443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162908,
+      "num": 162908,
+      "word": "老中医淄博八大局摆摊义诊",
+      "onboard_time": 1686757767,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162717,
       "num": 162717,
       "word": "好多女明星扎双马尾啊",
@@ -26107,6 +26123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146956,
+      "num": 146956,
+      "word": "河南警察夫妻度蜜月顺便抓3人",
+      "onboard_time": 1686760344,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146954,
       "num": 146954,
       "word": "XYG",
@@ -26425,6 +26449,14 @@
       "onboard_time": 1685703214,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142854,
+      "num": 142854,
+      "word": "常远是离肠癌远一点",
+      "onboard_time": 1686784521,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 142850,
@@ -27843,14 +27875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127836,
-      "num": 127836,
-      "word": "河南警察夫妻度蜜月顺便抓3人",
-      "onboard_time": 1686760344,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "女子漂流翻船黑衣男子跳水救人",
@@ -28129,6 +28153,14 @@
       "onboard_time": 1686144156,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124232,
+      "num": 124232,
+      "word": "宋亚轩刘耀文打羽毛球",
+      "onboard_time": 1686784521,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 124197,
@@ -29283,6 +29315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 109214,
+      "num": 109214,
+      "word": "演员肖战的小心思",
+      "onboard_time": 1686763159,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109040,
       "num": 109040,
       "word": "五月天第二十场鸟巢",
@@ -29361,14 +29401,6 @@
       "onboard_time": 1685725523,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108219,
-      "num": 108219,
-      "word": "老中医淄博八大局摆摊义诊",
-      "onboard_time": 1686757767,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108158,
@@ -29777,14 +29809,6 @@
       "onboard_time": 1686563430,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100157,
-      "num": 100157,
-      "word": "演员肖战的小心思",
-      "onboard_time": 1686763159,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 100091,
@@ -30275,6 +30299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88689,
+      "num": 88689,
+      "word": "檀健次你好星期六",
+      "onboard_time": 1686781696,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88440,
       "num": 83220,
       "word": "麦当劳把打错口味的冰淇淋倒回机器",
@@ -30297,6 +30329,14 @@
       "onboard_time": 1686265400,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 88269,
+      "num": 88269,
+      "word": "家属回应女子被丈夫跨省杀害",
+      "onboard_time": 1686784641,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88081,
@@ -30811,6 +30851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73507,
+      "num": 73507,
+      "word": "山东人说话喜欢用俺",
+      "onboard_time": 1686783980,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73302,
       "num": 73302,
       "word": "罗德里破门",
@@ -30913,6 +30961,14 @@
       "onboard_time": 1686332898,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71696,
+      "num": 71696,
+      "word": "当你被爱的时候真的不需要你做什么",
+      "onboard_time": 1686783739,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 71533,
@@ -31113,6 +31169,14 @@
       "onboard_time": 1686216338,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 67205,
+      "num": 67205,
+      "word": "男子轻生前打电话称想捐器官被救下",
+      "onboard_time": 1686783680,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67042,
@@ -32377,14 +32441,6 @@
       "onboard_time": 1686679754,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27124,
-      "num": 51953,
-      "word": "檀健次你好星期六",
-      "onboard_time": 1686781696,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 26741,
