@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686746041473,
+  "endTime": 1686747014568,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -433,6 +433,14 @@
       "onboard_time": 1686298290,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2705612,
+      "num": 1925433,
+      "word": "这竟然是肖战本人发的",
+      "onboard_time": 1686743727,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2702698,
@@ -907,14 +915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2168129,
-      "num": 1749005,
-      "word": "这竟然是肖战本人发的",
-      "onboard_time": 1686743727,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 2161704,
       "num": 4026136,
       "word": "高考生睡过头外卖小哥将其送到考场",
@@ -1025,6 +1025,14 @@
       "onboard_time": 1685932167,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2079978,
+      "num": 2079978,
+      "word": "Uzi哭了",
+      "onboard_time": 1686745048,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 2078971,
@@ -2859,6 +2867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1271226,
+      "num": 1271226,
+      "word": "关晓彤第一套vs第二套",
+      "onboard_time": 1686741986,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1269272,
       "num": 1269272,
       "word": "千万不要觉得成绩已经定型了",
@@ -3337,14 +3353,6 @@
       "onboard_time": 1686265941,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1169011,
-      "num": 1169011,
-      "word": "关晓彤第一套vs第二套",
-      "onboard_time": 1686741986,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1168432,
@@ -5899,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737295,
+      "num": 737295,
+      "word": "美国国务卿布林肯将访华",
+      "onboard_time": 1686746308,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 736126,
       "num": 736126,
       "word": "企业回应禁止婚外情和出轨",
@@ -6507,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645139,
+      "num": 1388427,
+      "word": "大学生脑出血交警咆哮式开道送医",
+      "onboard_time": 1686741628,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643376,
       "num": 643376,
       "word": "一卷物理难不难",
@@ -6544,14 +6568,6 @@
       "word": "律师称街拍对他人造成影响应担责",
       "onboard_time": 1686146735,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 640071,
-      "num": 1388427,
-      "word": "大学生脑出血交警咆哮式开道送医",
-      "onboard_time": 1686741628,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -6793,14 +6809,6 @@
       "onboard_time": 1685615487,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 614709,
-      "num": 614709,
-      "word": "Uzi哭了",
-      "onboard_time": 1686745048,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 612599,
@@ -13403,6 +13411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282323,
+      "num": 282323,
+      "word": "罗云熙全白造型",
+      "onboard_time": 1686745108,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 282235,
       "num": 282235,
       "word": "王鹤棣泰国录制去了20多个站姐",
@@ -15891,6 +15907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244438,
+      "num": 244438,
+      "word": "Uzi采访",
+      "onboard_time": 1686746008,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244193,
       "num": 188482,
       "word": "乐华家族演唱会有王一博",
@@ -16385,6 +16409,14 @@
       "onboard_time": 1685957728,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237881,
+      "num": 237881,
+      "word": "周三也休公司 上四休三绝不放弃",
+      "onboard_time": 1686745829,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237850,
@@ -19483,6 +19515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203416,
+      "num": 203416,
+      "word": "苏醒没有梅西高",
+      "onboard_time": 1686742287,
+      "rank": 43,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 203380,
       "num": 203380,
       "word": "鞠婧祎新剧吻戏好多",
@@ -20147,28 +20187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197552,
-      "num": 206118,
-      "word": "罗云熙全白造型",
-      "onboard_time": 1686745108,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 197499,
       "num": 197499,
       "word": "大屏上的蔡徐坤",
       "onboard_time": 1685798848,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197212,
-      "num": 197212,
-      "word": "周三也休公司 上四休三绝不放弃",
-      "onboard_time": 1686745829,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197166,
@@ -20817,14 +20841,6 @@
       "onboard_time": 1685806949,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192353,
-      "num": 192353,
-      "word": "苏醒没有梅西高",
-      "onboard_time": 1686742287,
-      "rank": 43,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 192321,
@@ -22971,6 +22987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174717,
+      "num": 174717,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174617,
       "num": 173135,
       "word": "孟子义公开自己体重",
@@ -23811,6 +23835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165574,
+      "num": 540699,
+      "word": "卡粉和浮粉有什么区别",
+      "onboard_time": 1686744029,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 165554,
       "num": 165554,
       "word": "狼队对战TTG",
@@ -24337,6 +24369,14 @@
       "onboard_time": 1685699067,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159948,
+      "num": 159948,
+      "word": "果然兴趣才是最好的老师",
+      "onboard_time": 1686746368,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 159894,
@@ -25771,14 +25811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146575,
-      "num": 146575,
-      "word": "福建的蟑螂",
-      "onboard_time": 1686745886,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146476,
       "num": 146476,
       "word": "梅西回应内马尔",
@@ -26987,6 +27019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132903,
+      "num": 132903,
+      "word": "VG对战WB",
+      "onboard_time": 1686741508,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132746,
       "num": 132746,
       "word": "世界上有趣的灵魂又少了一个",
@@ -27097,14 +27137,6 @@
       "onboard_time": 1686438977,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131568,
-      "num": 540699,
-      "word": "卡粉和浮粉有什么区别",
-      "onboard_time": 1686744029,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 131442,
@@ -28435,14 +28467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 115968,
-      "num": 115968,
-      "word": "Uzi采访",
-      "onboard_time": 1686746008,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115753,
       "num": 154825,
       "word": "高考 下雨",
@@ -28731,6 +28755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111484,
+      "num": 124282,
+      "word": "海边景区大叔暴躁劝返不上岸游客",
+      "onboard_time": 1686746728,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111453,
       "num": 257811,
       "word": "当有人说去缅北挣大钱你会怎么做",
@@ -28883,14 +28915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108603,
-      "num": 108603,
-      "word": "VG对战WB",
-      "onboard_time": 1686741508,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108508,
       "num": 108508,
       "word": "高三教师退休前最后一课哽咽寄语考生",
@@ -28985,6 +29009,14 @@
       "onboard_time": 1686528028,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107802,
+      "num": 119939,
+      "word": "被用解谜游戏的方式求婚了",
+      "onboard_time": 1686746967,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 107767,
@@ -31833,6 +31865,14 @@
       "onboard_time": 1686086532,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28788,
+      "num": 1407548,
+      "word": "用一首歌来做毕业告别",
+      "onboard_time": 1686746308,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28689,
