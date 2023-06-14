@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686747014568,
+  "endTime": 1686748810099,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -841,6 +841,14 @@
       "onboard_time": 1686377546,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2234758,
+      "num": 609313,
+      "word": "宋仲基儿子出生",
+      "onboard_time": 1686748169,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2230491,
@@ -3451,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147344,
+      "num": 1147344,
+      "word": "14岁学生在教室被同学砍杀身亡",
+      "onboard_time": 1686747626,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147186,
       "num": 792011,
       "word": "女子退猫被拒后直接把猫摔死",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1686704435,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1062245,
+      "num": 1062245,
+      "word": "美国国务卿布林肯将访华",
+      "onboard_time": 1686746308,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1061459,
@@ -4505,6 +4529,14 @@
       "onboard_time": 1686200975,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 942695,
+      "num": 942695,
+      "word": "周三也休公司 上四休三绝不放弃",
+      "onboard_time": 1686745829,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 940655,
@@ -5905,14 +5937,6 @@
       "onboard_time": 1686438920,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737295,
-      "num": 737295,
-      "word": "美国国务卿布林肯将访华",
-      "onboard_time": 1686746308,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 736126,
@@ -11443,6 +11467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329641,
+      "num": 329641,
+      "word": "RNG",
+      "onboard_time": 1686251115,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329482,
       "num": 329482,
       "word": "Lisa暗夜玫瑰造型",
@@ -11937,6 +11969,14 @@
       "onboard_time": 1685622566,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314214,
+      "num": 314214,
+      "word": "罗云熙全白造型",
+      "onboard_time": 1686745108,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 314194,
@@ -13409,14 +13449,6 @@
       "onboard_time": 1685692767,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282323,
-      "num": 282323,
-      "word": "罗云熙全白造型",
-      "onboard_time": 1686745108,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 282235,
@@ -15939,6 +15971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243847,
+      "num": 243847,
+      "word": "VG对战WB",
+      "onboard_time": 1686741508,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243817,
       "num": 243817,
       "word": "粤语是何书桓语录最好的滤镜",
@@ -16411,14 +16451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237881,
-      "num": 237881,
-      "word": "周三也休公司 上四休三绝不放弃",
-      "onboard_time": 1686745829,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237850,
       "num": 204821,
       "word": "浙江12岁高马尾男孩坐拥千万粉丝",
@@ -16609,6 +16641,14 @@
       "onboard_time": 1685783129,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235282,
+      "num": 235282,
+      "word": "吴宣仪狐妖竹业篇路透",
+      "onboard_time": 1686747508,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 234847,
@@ -18155,6 +18195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216976,
+      "num": 216976,
+      "word": "如何看待梦中的那片海人物的转变",
+      "onboard_time": 1686747928,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216966,
       "num": 188873,
       "word": "梦中的那片海 酷云峰值",
@@ -19513,6 +19561,14 @@
       "onboard_time": 1686630272,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203454,
+      "num": 203454,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 203416,
@@ -21515,6 +21571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 188628,
+      "num": 188628,
+      "word": "重庆中考政治",
+      "onboard_time": 1686748228,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 188626,
       "num": 160518,
       "word": "张艺兴街边开儿童车",
@@ -22985,14 +23049,6 @@
       "onboard_time": 1686714211,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174717,
-      "num": 174717,
-      "word": "福建的蟑螂",
-      "onboard_time": 1686745886,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 174617,
@@ -26195,6 +26251,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 141912,
+      "num": 141912,
+      "word": "罗云熙照片不发会过期",
+      "onboard_time": 1686747446,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141747,
       "num": 141747,
       "word": "这是他第一次见到已满2岁半的儿子",
@@ -27019,14 +27083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132903,
-      "num": 132903,
-      "word": "VG对战WB",
-      "onboard_time": 1686741508,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 132746,
       "num": 132746,
       "word": "世界上有趣的灵魂又少了一个",
@@ -27113,6 +27169,14 @@
       "onboard_time": 1686120752,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132064,
+      "num": 132064,
+      "word": "贺峻霖中传期末汇演",
+      "onboard_time": 1686747806,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 131991,
@@ -28049,6 +28113,14 @@
       "onboard_time": 1686001752,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120220,
+      "num": 128987,
+      "word": "罗云熙e人",
+      "onboard_time": 1686748770,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120187,
@@ -29683,6 +29755,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 92190,
+      "num": 1407548,
+      "word": "用一首歌来做毕业告别",
+      "onboard_time": 1686746308,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92185,
       "num": 1922766,
       "word": "芒种至农事忙",
@@ -30779,14 +30859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64922,
-      "num": 64922,
-      "word": "RNG",
-      "onboard_time": 1686251115,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 64820,
       "num": 331663,
       "word": "有被Fiona的蔓延甜到",
@@ -31483,6 +31555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42002,
+      "num": 485077,
+      "word": "什么底妆能扛住红毯",
+      "onboard_time": 1686743128,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 41371,
       "num": 121315,
       "word": "宋佳想要的品质生活",
@@ -31865,14 +31945,6 @@
       "onboard_time": 1686086532,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28788,
-      "num": 1407548,
-      "word": "用一首歌来做毕业告别",
-      "onboard_time": 1686746308,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28689,
