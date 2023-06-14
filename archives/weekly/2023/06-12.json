@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686759787411,
+  "endTime": 1686760719776,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1187,6 +1187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791564,
+      "num": 406510,
+      "word": "韩国摄影师在廉租房生活拍摄3年",
+      "onboard_time": 1686757050,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790834,
+      "num": 790834,
+      "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+      "onboard_time": 1686754593,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785216,
       "num": 688773,
       "word": "男子称在洗浴中心被男性猥亵",
@@ -1307,14 +1323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 724552,
-      "num": 724552,
-      "word": "考古女生寄200斤洛阳铲装备吓坏父母",
-      "onboard_time": 1686754593,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722852,
       "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1686698603,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 699207,
-      "num": 406510,
-      "word": "韩国摄影师在廉租房生活拍摄3年",
-      "onboard_time": 1686757050,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 696107,
@@ -1969,6 +1969,14 @@
       "onboard_time": 1686744989,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 380330,
+      "num": 380330,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377381,
@@ -3403,14 +3411,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 230879,
-      "num": 230879,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230766,
       "num": 230766,
       "word": "梦之海阵容官宣",
@@ -3731,6 +3731,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 214813,
+      "num": 214813,
+      "word": "许嵩新歌只有你",
+      "onboard_time": 1686758427,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214621,
       "num": 214621,
       "word": "短睡可能是一种天赋",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1686737308,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206047,
+      "num": 206047,
+      "word": "发出去之前能不能和脑子商量下",
+      "onboard_time": 1686756569,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 205623,
@@ -4779,14 +4795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181072,
-      "num": 181072,
-      "word": "许嵩新歌只有你",
-      "onboard_time": 1686758427,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 180684,
       "num": 180684,
       "word": "公司背调要不要经过本人同意",
@@ -4801,14 +4809,6 @@
       "onboard_time": 1686670170,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180129,
-      "num": 180129,
-      "word": "发出去之前能不能和脑子商量下",
-      "onboard_time": 1686756569,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 180102,
@@ -6147,6 +6147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133593,
+      "num": 133593,
+      "word": "MTG对战XYG",
+      "onboard_time": 1686753154,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133549,
       "num": 133549,
       "word": "把情绪分给别人就是在承担风险",
@@ -6201,14 +6209,6 @@
       "onboard_time": 1686710488,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 132384,
-      "num": 132384,
-      "word": "MTG对战XYG",
-      "onboard_time": 1686753154,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 132362,
@@ -6323,6 +6323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127836,
+      "num": 127836,
+      "word": "河南警察夫妻度蜜月顺便抓3人",
+      "onboard_time": 1686760344,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "女子漂流翻船黑衣男子跳水救人",
@@ -6369,6 +6377,14 @@
       "onboard_time": 1686652349,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126596,
+      "num": 126596,
+      "word": "把内耗变成外耗",
+      "onboard_time": 1686759027,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 125640,
@@ -6667,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108219,
+      "num": 108219,
+      "word": "老中医淄博八大局摆摊义诊",
+      "onboard_time": 1686757767,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107808,
       "num": 107808,
       "word": "如果周瑜让诸葛亮造一万只弓",
@@ -6827,14 +6851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98027,
-      "num": 98027,
-      "word": "把内耗变成外耗",
-      "onboard_time": 1686759027,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97789,
       "num": 97789,
       "word": "种地吧",
@@ -6867,12 +6883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97158,
-      "num": 97158,
-      "word": "老中医淄博八大局摆摊义诊",
-      "onboard_time": 1686757767,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 97324,
+      "num": 97324,
+      "word": "河南一高校送毕业生一万四千杯奶茶",
+      "onboard_time": 1686758607,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 95581,
@@ -6899,6 +6915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92731,
+      "num": 92731,
+      "word": "文俊辉的愿望实现了",
+      "onboard_time": 1686759625,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 91017,
       "num": 479641,
       "word": "掘金冲击队史第一冠",
@@ -6921,14 +6945,6 @@
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88311,
-      "num": 88311,
-      "word": "河南一高校送毕业生一万四千杯奶茶",
-      "onboard_time": 1686758607,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 86132,
@@ -6977,14 +6993,6 @@
       "onboard_time": 1686694393,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81536,
-      "num": 85959,
-      "word": "文俊辉的愿望实现了",
-      "onboard_time": 1686759625,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 80596,

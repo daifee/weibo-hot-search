@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686759787411,
+  "endTime": 1686760719776,
   "band_list": [
     {
       "raw_hot": 1373496,
@@ -35,28 +35,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 761175,
-      "num": 761175,
-      "word": "梅西苏醒合影",
-      "onboard_time": 1686731490,
-      "rank": 1,
-      "category": "体育,艺人"
+      "raw_hot": 791564,
+      "num": 406510,
+      "word": "韩国摄影师在廉租房生活拍摄3年",
+      "onboard_time": 1686757050,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 724552,
-      "num": 724552,
+      "raw_hot": 790834,
+      "num": 790834,
       "word": "考古女生寄200斤洛阳铲装备吓坏父母",
       "onboard_time": 1686754593,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699207,
-      "num": 406510,
-      "word": "韩国摄影师在廉租房生活拍摄3年",
-      "onboard_time": 1686757050,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 761175,
+      "num": 761175,
+      "word": "梅西苏醒合影",
+      "onboard_time": 1686731490,
+      "rank": 1,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 633623,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449403,
-      "num": 449403,
+      "raw_hot": 509425,
+      "num": 509425,
       "word": "S属性大爆发",
       "onboard_time": 1686750210,
       "rank": 6,
@@ -115,6 +115,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 380330,
+      "num": 380330,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309545,
       "num": 309545,
       "word": "比尔盖茨自2019年以来首次抵达北京",
@@ -147,12 +155,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230879,
-      "num": 230879,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 214813,
+      "num": 214813,
+      "word": "许嵩新歌只有你",
+      "onboard_time": 1686758427,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 211564,
@@ -160,6 +168,14 @@
       "word": "福建的蟑螂",
       "onboard_time": 1686745886,
       "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 206047,
+      "num": 206047,
+      "word": "发出去之前能不能和脑子商量下",
+      "onboard_time": 1686756569,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -185,22 +201,6 @@
       "onboard_time": 1686741268,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181072,
-      "num": 181072,
-      "word": "许嵩新歌只有你",
-      "onboard_time": 1686758427,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 180129,
-      "num": 180129,
-      "word": "发出去之前能不能和脑子商量下",
-      "onboard_time": 1686756569,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 170967,
@@ -243,12 +243,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133593,
+      "num": 133593,
+      "word": "MTG对战XYG",
+      "onboard_time": 1686753154,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127836,
+      "num": 127836,
+      "word": "河南警察夫妻度蜜月顺便抓3人",
+      "onboard_time": 1686760344,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126803,
       "num": 126803,
       "word": "陈仟钰是上戏艺考第一",
       "onboard_time": 1686725069,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126596,
+      "num": 126596,
+      "word": "把内耗变成外耗",
+      "onboard_time": 1686759027,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 123159,
@@ -283,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108219,
+      "num": 108219,
+      "word": "老中医淄博八大局摆摊义诊",
+      "onboard_time": 1686757767,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106271,
       "num": 106271,
       "word": "谭松韵碎花小黑裙",
@@ -315,20 +347,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 98027,
-      "num": 98027,
-      "word": "把内耗变成外耗",
-      "onboard_time": 1686759027,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 97158,
-      "num": 97158,
-      "word": "老中医淄博八大局摆摊义诊",
-      "onboard_time": 1686757767,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 97324,
+      "num": 97324,
+      "word": "河南一高校送毕业生一万四千杯奶茶",
+      "onboard_time": 1686758607,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 96548,
@@ -363,12 +387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88311,
-      "num": 88311,
-      "word": "河南一高校送毕业生一万四千杯奶茶",
-      "onboard_time": 1686758607,
-      "rank": 46,
-      "category": "社会新闻,教育"
+      "raw_hot": 92731,
+      "num": 92731,
+      "word": "文俊辉的愿望实现了",
+      "onboard_time": 1686759625,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 87763,
@@ -379,23 +403,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 83468,
-      "num": 86961,
-      "word": "MTG对战XYG",
-      "onboard_time": 1686753154,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 81536,
-      "num": 85959,
-      "word": "文俊辉的愿望实现了",
-      "onboard_time": 1686759625,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 6112,
+      "raw_hot": 7718,
       "num": 732205,
       "word": "杭州迎亚运风光片",
       "onboard_time": 1686710488,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同巴勒斯坦总统举行会谈#"
+    },
+    {
+      "word": "#新时代成就巡礼#"
     }
   ]
 }
