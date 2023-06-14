@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 21:33:41
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 22:15:23
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23" target="weibo">
+宋仲基儿子出生（热度：3944632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89%23" target="weibo">
 张雨绮致歉（热度：3887658）
 </a>
@@ -173,12 +179,6 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23" target="weibo">
 孩子你配享太庙（热度：3441448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23" target="weibo">
-宋仲基儿子出生（热度：3428105）
 </a>
 </li>
 
@@ -1017,6 +1017,18 @@ Jennie道歉评论区（热度：1965915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%AE%8B%E5%BD%BB%E5%BA%95BE%23" target="weibo">
+双宋彻底BE（热度：1896350）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%95%99%E5%AE%A4%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
+14岁学生在教室被同学砍杀身亡（热度：1896033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E4%B8%8E%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%9B%85%E8%81%8A%E5%A4%A9%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%85%8D%E8%81%8C%23" target="weibo">
 柳州与女子不雅聊天公职人员被免职（热度：1895298）
 </a>
@@ -1325,12 +1337,6 @@ Angelababy 蒂芙尼（热度：1798701）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23957%E7%A1%AE%E8%AE%A4Uzi%E5%8A%A0%E5%85%A5EDG%23" target="weibo">
 957确认Uzi加入EDG（热度：1670764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%95%99%E5%AE%A4%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%A0%8D%E6%9D%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
-14岁学生在教室被同学砍杀身亡（热度：1670701）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ella全组鼓励徐怀钰（热度：501880）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE%20%E7%8E%8B%E6%BA%90%23" target="weibo">
 五月天嘉宾 王源（热度：496286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Ahn%20%E6%90%93%E6%BE%A1%23" target="weibo">
-Ahn 搓澡（热度：496069）
 </a>
 </li>
 

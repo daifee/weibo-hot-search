@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686749621858,
+  "endTime": 1686752123662,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -27,18 +27,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3569579,
-      "num": 3569579,
-      "word": "汪峰 毕夏你要坚强",
-      "onboard_time": 1686712169,
+      "raw_hot": 3944632,
+      "num": 609313,
+      "word": "宋仲基儿子出生",
+      "onboard_time": 1686748169,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 3428105,
-      "num": 609313,
-      "word": "宋仲基儿子出生",
-      "onboard_time": 1686748169,
+      "raw_hot": 3569579,
+      "num": 3569579,
+      "word": "汪峰 毕夏你要坚强",
+      "onboard_time": 1686712169,
       "rank": 10,
       "category": "艺人"
     },
@@ -299,6 +299,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1896350,
+      "num": 367557,
+      "word": "双宋彻底BE",
+      "onboard_time": 1686749610,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1896033,
+      "num": 1670701,
+      "word": "14岁学生在教室被同学砍杀身亡",
+      "onboard_time": 1686747626,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1864328,
       "num": 1864328,
       "word": "找工作被确诊弱智",
@@ -393,14 +409,6 @@
       "onboard_time": 1686535648,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1670701,
-      "num": 1670701,
-      "word": "14岁学生在教室被同学砍杀身亡",
-      "onboard_time": 1686747626,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1665615,
@@ -1867,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401440,
+      "num": 324958,
+      "word": "肖春生求婚没有戒指",
+      "onboard_time": 1686750572,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392513,
       "num": 392513,
       "word": "奔跑吧校服路透",
@@ -1985,6 +2001,14 @@
       "onboard_time": 1686575430,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359441,
+      "num": 359441,
+      "word": "福建的蟑螂",
+      "onboard_time": 1686745886,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 359219,
@@ -2171,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332285,
+      "num": 332285,
+      "word": "S属性大爆发",
+      "onboard_time": 1686750210,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331249,
       "num": 331249,
       "word": "女生骂男生偷拍变态后称认错人了",
@@ -2225,6 +2257,14 @@
       "onboard_time": 1686495090,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326609,
+      "num": 326609,
+      "word": "久诚好帅",
+      "onboard_time": 1686751530,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 326426,
@@ -2307,6 +2347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314491,
+      "num": 314491,
+      "word": "谭松韵碎花小黑裙",
+      "onboard_time": 1686749190,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 314089,
       "num": 314089,
       "word": "迪丽热巴龚俊将录制你好星期六",
@@ -2376,6 +2424,14 @@
       "word": "黄仁俊七月封面",
       "onboard_time": 1686556891,
       "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303439,
+      "num": 303439,
+      "word": "内娱校花",
+      "onboard_time": 1686750870,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -2497,6 +2553,14 @@
       "onboard_time": 1686499888,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286792,
+      "num": 286792,
+      "word": "梦海是肖战李沁的五搭",
+      "onboard_time": 1686752011,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 286071,
@@ -2667,6 +2731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269703,
+      "num": 226940,
+      "word": "职场无效沟通",
+      "onboard_time": 1686751827,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 269453,
       "num": 269453,
       "word": "广东超市里面的蟑螂气球",
@@ -2793,14 +2865,6 @@
       "onboard_time": 1686560849,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258343,
-      "num": 258343,
-      "word": "福建的蟑螂",
-      "onboard_time": 1686745886,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 257483,
@@ -3339,6 +3403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227840,
+      "num": 227840,
+      "word": "唯一一个对肖春生知恩图报的人",
+      "onboard_time": 1686750210,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226943,
       "num": 226943,
       "word": "朋友圈宣传都不要常识吗",
@@ -3609,14 +3681,6 @@
       "onboard_time": 1686729627,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214051,
-      "num": 214051,
-      "word": "谭松韵碎花小黑裙",
-      "onboard_time": 1686749190,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213894,
@@ -4179,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193003,
+      "num": 193003,
+      "word": "女生吹散蒲公英后看到戒指被表白",
+      "onboard_time": 1686751711,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192702,
       "num": 192702,
       "word": "蒋奇明粉色睡袍",
@@ -4363,6 +4435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 188497,
+      "num": 188497,
+      "word": "陈宏军参加了肖春生佟晓梅的婚礼",
+      "onboard_time": 1686749309,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188475,
       "num": 188475,
       "word": "张彬彬吻戏",
@@ -4411,14 +4491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188209,
-      "num": 188209,
-      "word": "陈宏军参加了肖春生佟晓梅的婚礼",
-      "onboard_time": 1686749309,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188154,
       "num": 188154,
       "word": "沈月周柯宇牵牵",
@@ -4457,6 +4529,14 @@
       "onboard_time": 1686549208,
       "rank": 33,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 187921,
+      "num": 195227,
+      "word": "斗罗大陆2绝世唐门终极预告",
+      "onboard_time": 1686750930,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 187369,
@@ -4499,6 +4579,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 186248,
+      "num": 186248,
+      "word": "白羊座为什么更容易吃亏上当",
+      "onboard_time": 1686744088,
+      "rank": 45,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 186217,
       "num": 186217,
       "word": "腾讯音乐娱乐盛典阵容",
@@ -4529,6 +4617,14 @@
       "onboard_time": 1686576571,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185278,
+      "num": 185278,
+      "word": "肖沐恩 老A",
+      "onboard_time": 1686751113,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 185124,
@@ -4593,6 +4689,14 @@
       "onboard_time": 1686493293,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181914,
+      "num": 181914,
+      "word": "是怎么说服肖战拍视频的",
+      "onboard_time": 1686752011,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 181386,
@@ -5099,14 +5203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159429,
-      "num": 159429,
-      "word": "白羊座为什么更容易吃亏上当",
-      "onboard_time": 1686744088,
-      "rank": 45,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 159169,
       "num": 159169,
       "word": "张艺兴给新人送二八大杠自行车",
@@ -5137,6 +5233,14 @@
       "onboard_time": 1686658527,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158393,
+      "num": 158393,
+      "word": "遥望科技回应苏醒工作证来源",
+      "onboard_time": 1686752011,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 158313,
@@ -5329,14 +5433,6 @@
       "onboard_time": 1686735929,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 151839,
-      "num": 151839,
-      "word": "双宋彻底BE",
-      "onboard_time": 1686749610,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 151300,
@@ -5659,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142379,
+      "num": 142379,
+      "word": "小学生校门口扎堆义卖自种蔬菜",
+      "onboard_time": 1686750930,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 142180,
       "num": 142180,
       "word": "袁咏仪牵着周润发的手喊帅",
@@ -5667,8 +5771,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141912,
-      "num": 141912,
+      "raw_hot": 142167,
+      "num": 142167,
       "word": "罗云熙照片不发会过期",
       "onboard_time": 1686747446,
       "rank": 44,
@@ -5873,6 +5977,14 @@
       "onboard_time": 1686558149,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137042,
+      "num": 137042,
+      "word": "跳钱塘江救人的外卖小哥奖励超8万",
+      "onboard_time": 1686751950,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136577,
@@ -6665,6 +6777,14 @@
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87107,
+      "num": 365748,
+      "word": "杭州跳桥救人小哥受伤免费治疗",
+      "onboard_time": 1686751293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86132,
