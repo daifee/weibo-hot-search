@@ -1,0 +1,410 @@
+{
+  "runTime": 1686717239703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2495203,
+        "num": 2495203,
+        "word": "汪峰 毕夏你要坚强",
+        "onboard_time": 1686712169,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2214631,
+        "num": 2214631,
+        "word": "任敏跳舞 孙莉",
+        "onboard_time": 1686712829,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89000,
+        "num": 2016637,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2006405,
+        "num": 2006405,
+        "word": "13岁女孩遭性侵怀孕引产后报警",
+        "onboard_time": 1686714873,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1858089,
+        "num": 1858089,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1829799,
+        "num": 1829799,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387124,
+        "num": 1387124,
+        "word": "老伴去世老人挨个敲车窗求带看老房",
+        "onboard_time": 1686703055,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184677,
+        "num": 1184677,
+        "word": "毕夏发讣告透露张恒远生前心愿",
+        "onboard_time": 1686713369,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1176858,
+        "num": 1176858,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960904,
+        "num": 960904,
+        "word": "赵露思 两次宝格丽造型",
+        "onboard_time": 1686713970,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2461752,
+        "num": 952159,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1347499,
+        "num": 940383,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911344,
+        "num": 911344,
+        "word": "向佐新片打戏误伤唐诗逸",
+        "onboard_time": 1686708450,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 857070,
+        "num": 857070,
+        "word": "俄23岁男子游泳时被鲨鱼活吞",
+        "onboard_time": 1686711629,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58206,
+        "num": 810899,
+        "word": "人生没有模板",
+        "onboard_time": 1686715231,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 903926,
+        "num": 796132,
+        "word": "SEVENTEEN要来广州开签售会",
+        "onboard_time": 1686716136,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769102,
+        "num": 769102,
+        "word": "姆巴佩说梅西没得到应有的尊重",
+        "onboard_time": 1686709587,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748247,
+        "num": 748247,
+        "word": "陈冠希偶遇陈小春拍戏",
+        "onboard_time": 1686704435,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 719272,
+        "num": 719272,
+        "word": "小米回应被印度没收48亿元",
+        "onboard_time": 1686714932,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 513309,
+        "num": 513309,
+        "word": "17岁女孩一晚连刷6套卷子后患脑病",
+        "onboard_time": 1686702810,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 656714,
+        "num": 512510,
+        "word": "实习生发错信息到工作群",
+        "onboard_time": 1686708388,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 636001,
+        "num": 510218,
+        "word": "薛小婉 任权",
+        "onboard_time": 1686699505,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 587915,
+        "num": 508666,
+        "word": "员工入职一个半月怀孕了",
+        "onboard_time": 1686698603,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517483,
+        "num": 508181,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506626,
+        "num": 506626,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 439314,
+        "num": 439314,
+        "word": "一直娱",
+        "onboard_time": 1686715412,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391346,
+        "num": 391346,
+        "word": "原来物理防晒胜过所有防晒霜",
+        "onboard_time": 1686698603,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 362896,
+        "num": 362896,
+        "word": "柯以敏 我比那英唱得更好",
+        "onboard_time": 1686699025,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332700,
+        "num": 332700,
+        "word": "肖战解读肖春生和晓梅红玲的感情",
+        "onboard_time": 1686716616,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202817,
+        "num": 329546,
+        "word": "医生去世后手机还一直收到患者消息",
+        "onboard_time": 1686716433,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328966,
+        "num": 328966,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257168,
+        "num": 257168,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254596,
+        "num": 254596,
+        "word": "刘亦菲 不在乎别人的想法",
+        "onboard_time": 1686663987,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246162,
+        "num": 246162,
+        "word": "马伯庸 马小烦",
+        "onboard_time": 1686716794,
+        "rank": 33,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 242258,
+        "num": 242258,
+        "word": "警方回应天津大学扣饭事件",
+        "onboard_time": 1686716616,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225838,
+        "num": 225838,
+        "word": "王鹤棣田曦薇 大奉打更人",
+        "onboard_time": 1686670050,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223838,
+        "num": 223838,
+        "word": "鞠婧祎回应撞脸歪嘴小猫",
+        "onboard_time": 1686716555,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210075,
+        "num": 210075,
+        "word": "那英年轻的时候也是大sai迷",
+        "onboard_time": 1686714452,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 196965,
+        "num": 196965,
+        "word": "TT上最火的旅游国家是中国",
+        "onboard_time": 1686716975,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195300,
+        "num": 195300,
+        "word": "余华到底有多少花裤衩",
+        "onboard_time": 1686714510,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187238,
+        "num": 187238,
+        "word": "朋友圈宣传都不要常识吗",
+        "onboard_time": 1686713608,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186995,
+        "num": 186995,
+        "word": "为什么坐飞机要用结实的旅行箱",
+        "onboard_time": 1686707309,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186843,
+        "num": 186843,
+        "word": "丫丫",
+        "onboard_time": 1686713310,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180812,
+        "num": 180812,
+        "word": "四川多名城管疑与摊贩发生冲突",
+        "onboard_time": 1686711089,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180102,
+        "num": 180102,
+        "word": "汪涵梁田杨迪为沈梦辰庆生",
+        "onboard_time": 1686715832,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174985,
+        "num": 174985,
+        "word": "闵塔鲨 女明星造型",
+        "onboard_time": 1686714211,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170575,
+        "num": 170575,
+        "word": "Jennie回应演唱会中途离场",
+        "onboard_time": 1686665488,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169149,
+        "num": 169149,
+        "word": "李大奔 抢票",
+        "onboard_time": 1686717034,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168239,
+        "num": 168239,
+        "word": "天津爆炸",
+        "onboard_time": 1686702931,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158158,
+        "num": 158158,
+        "word": "怪不得童话里公主一晚一双舞鞋",
+        "onboard_time": 1686716794,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和洪都拉斯联合声明#"
+    }
+  }
+}

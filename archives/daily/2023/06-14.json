@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686716437565,
+  "endTime": 1686717239703,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -27,28 +27,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2342513,
-      "num": 795181,
-      "word": "张恒远毕夏",
-      "onboard_time": 1686697880,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2269770,
-      "num": 836355,
+      "raw_hot": 2461752,
+      "num": 952159,
       "word": "广末凉子承认出轨",
       "onboard_time": 1686710548,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 2071074,
-      "num": 2071074,
+      "raw_hot": 2342513,
+      "num": 940383,
+      "word": "张恒远毕夏",
+      "onboard_time": 1686697880,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2214631,
+      "num": 2214631,
       "word": "任敏跳舞 孙莉",
       "onboard_time": 1686712829,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2006405,
+      "num": 2006405,
+      "word": "13岁女孩遭性侵怀孕引产后报警",
+      "onboard_time": 1686714873,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1769965,
@@ -67,8 +75,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1353112,
-      "num": 1353112,
+      "raw_hot": 1387124,
+      "num": 1387124,
       "word": "老伴去世老人挨个敲车窗求带看老房",
       "onboard_time": 1686703055,
       "rank": 14,
@@ -99,11 +107,19 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1169399,
-      "num": 1169399,
-      "word": "13岁女孩遭性侵怀孕引产后报警",
-      "onboard_time": 1686714873,
-      "rank": 6,
+      "raw_hot": 1184677,
+      "num": 1184677,
+      "word": "毕夏发讣告透露张恒远生前心愿",
+      "onboard_time": 1686713369,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1176858,
+      "num": 1176858,
+      "word": "北动公布丫丫最新画面",
+      "onboard_time": 1686712892,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -113,22 +129,6 @@
       "onboard_time": 1686708450,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1099185,
-      "num": 1099185,
-      "word": "毕夏发讣告透露张恒远生前心愿",
-      "onboard_time": 1686713369,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1080789,
-      "num": 1080789,
-      "word": "北动公布丫丫最新画面",
-      "onboard_time": 1686712892,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1063327,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960904,
+      "num": 960904,
+      "word": "赵露思 两次宝格丽造型",
+      "onboard_time": 1686713970,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 927326,
       "num": 848017,
       "word": "刘亦菲 不在乎别人的想法",
@@ -171,20 +179,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 903926,
+      "num": 796132,
+      "word": "SEVENTEEN要来广州开签售会",
+      "onboard_time": 1686716136,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 893375,
       "num": 893375,
       "word": "Jennie回应演唱会中途离场",
       "onboard_time": 1686665488,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 868716,
-      "num": 663261,
-      "word": "赵露思 两次宝格丽造型",
-      "onboard_time": 1686713970,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 857818,
@@ -195,8 +203,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 822522,
-      "num": 655950,
+      "raw_hot": 857070,
+      "num": 857070,
       "word": "俄23岁男子游泳时被鲨鱼活吞",
       "onboard_time": 1686711629,
       "rank": 19,
@@ -227,8 +235,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 719272,
+      "num": 719272,
+      "word": "小米回应被印度没收48亿元",
+      "onboard_time": 1686714932,
+      "rank": 23,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 710848,
-      "num": 501029,
+      "num": 512510,
       "word": "实习生发错信息到工作群",
       "onboard_time": 1686708388,
       "rank": 20,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 625449,
-      "num": 468850,
+      "num": 508181,
       "word": "被领导偷看了微信聊天记录",
       "onboard_time": 1686701552,
       "rank": 21,
@@ -281,14 +297,6 @@
       "onboard_time": 1686702931,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558387,
-      "num": 281883,
-      "word": "SEVENTEEN要来广州开签售会",
-      "onboard_time": 1686716136,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 548549,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 476763,
-      "num": 374679,
+      "num": 391346,
       "word": "原来物理防晒胜过所有防晒霜",
       "onboard_time": 1686698603,
       "rank": 30,
@@ -339,28 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439314,
+      "num": 439314,
+      "word": "一直娱",
+      "onboard_time": 1686715412,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433542,
       "num": 433542,
       "word": "梅西说不会参加下届世界杯",
       "onboard_time": 1686659067,
       "rank": 12,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 414310,
-      "num": 414310,
-      "word": "小米回应被印度没收48亿元",
-      "onboard_time": 1686714932,
-      "rank": 23,
-      "category": "科技,财经"
-    },
-    {
-      "raw_hot": 399608,
-      "num": 399608,
-      "word": "一直娱",
-      "onboard_time": 1686715412,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 365295,
@@ -409,6 +409,22 @@
       "onboard_time": 1686669329,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 332700,
+      "num": 332700,
+      "word": "肖战解读肖春生和晓梅红玲的感情",
+      "onboard_time": 1686716616,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 328966,
+      "num": 328966,
+      "word": "向佐向唐诗逸道歉",
+      "onboard_time": 1686716196,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 326426,
@@ -539,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246162,
+      "num": 246162,
+      "word": "马伯庸 马小烦",
+      "onboard_time": 1686716794,
+      "rank": 33,
+      "category": "网红,情感"
+    },
+    {
+      "raw_hot": 242258,
+      "num": 242258,
+      "word": "警方回应天津大学扣饭事件",
+      "onboard_time": 1686716616,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236499,
       "num": 236499,
       "word": "大叔地铁上喝斥女生强制要求让座",
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223838,
+      "num": 223838,
+      "word": "鞠婧祎回应撞脸歪嘴小猫",
+      "onboard_time": 1686716555,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223758,
       "num": 223758,
       "word": "阿那亚虾米音乐节阵容",
@@ -643,6 +683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202817,
+      "num": 329546,
+      "word": "医生去世后手机还一直收到患者消息",
+      "onboard_time": 1686716433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196965,
+      "num": 196965,
+      "word": "TT上最火的旅游国家是中国",
+      "onboard_time": 1686716975,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -657,6 +713,14 @@
       "onboard_time": 1686669690,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195300,
+      "num": 195300,
+      "word": "余华到底有多少花裤衩",
+      "onboard_time": 1686714510,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194703,
@@ -755,20 +819,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 180881,
-      "num": 180881,
-      "word": "向佐向唐诗逸道歉",
-      "onboard_time": 1686716196,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180102,
       "num": 180102,
       "word": "玉骨遥",
       "onboard_time": 1686670170,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180102,
+      "num": 180102,
+      "word": "汪涵梁田杨迪为沈梦辰庆生",
+      "onboard_time": 1686715832,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 178110,
@@ -795,28 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173560,
-      "num": 173560,
-      "word": "詹雯婷控告陈建宁反遭起诉",
-      "onboard_time": 1686648629,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 173298,
-      "num": 173298,
+      "raw_hot": 174985,
+      "num": 174985,
       "word": "闵塔鲨 女明星造型",
       "onboard_time": 1686714211,
       "rank": 39,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171314,
-      "num": 171314,
-      "word": "余华到底有多少花裤衩",
-      "onboard_time": 1686714510,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 173560,
+      "num": 173560,
+      "word": "詹雯婷控告陈建宁反遭起诉",
+      "onboard_time": 1686648629,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 171002,
@@ -835,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169149,
+      "num": 169149,
+      "word": "李大奔 抢票",
+      "onboard_time": 1686717034,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166378,
       "num": 166378,
       "word": "房东回应女孩结婚退租时打扫干净房子",
@@ -851,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162876,
-      "num": 162876,
-      "word": "汪涵梁田杨迪为沈梦辰庆生",
-      "onboard_time": 1686715832,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162133,
       "num": 162133,
       "word": "部分黑色素瘤与原发痣有关",
@@ -873,6 +929,14 @@
       "onboard_time": 1686706171,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158158,
+      "num": 158158,
+      "word": "怪不得童话里公主一晚一双舞鞋",
+      "onboard_time": 1686716794,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 156742,
@@ -1163,20 +1227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58206,
+      "num": 810899,
+      "word": "人生没有模板",
+      "onboard_time": 1686715231,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48744,
       "num": 48744,
       "word": "男子海中溺水路人接力抢救",
       "onboard_time": 1686697280,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41046,
-      "num": 665368,
-      "word": "人生没有模板",
-      "onboard_time": 1686715231,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 35229,
