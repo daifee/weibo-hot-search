@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686711033046,
+  "endTime": 1686712686299,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2570381,
+      "num": 2570381,
+      "word": "人民日报评地铁偷拍乌龙",
+      "onboard_time": 1686703411,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2562443,
       "num": 845044,
       "word": "疑地铁事件女子同学称被其校园霸凌",
@@ -107,12 +115,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2462373,
-      "num": 2462373,
-      "word": "人民日报评地铁偷拍乌龙",
-      "onboard_time": 1686703411,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 2478003,
+      "num": 533147,
+      "word": "汪峰 毕夏你要坚强",
+      "onboard_time": 1686712169,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2342513,
@@ -201,6 +209,14 @@
       "onboard_time": 1686547410,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1866423,
+      "num": 517686,
+      "word": "广末凉子承认出轨",
+      "onboard_time": 1686710548,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1864328,
@@ -459,8 +475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1253314,
-      "num": 1253314,
+      "raw_hot": 1261605,
+      "num": 1261605,
       "word": "17岁女孩一晚连刷6套卷子后患脑病",
       "onboard_time": 1686702810,
       "rank": 5,
@@ -505,6 +521,14 @@
       "onboard_time": 1686703055,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1158012,
+      "num": 1158012,
+      "word": "向佐新片打戏误伤唐诗逸",
+      "onboard_time": 1686708450,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1135240,
@@ -705,14 +729,6 @@
       "onboard_time": 1686549512,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 939858,
-      "num": 939858,
-      "word": "向佐新片打戏误伤唐诗逸",
-      "onboard_time": 1686708450,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 919916,
@@ -963,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 730029,
+      "num": 730029,
+      "word": "姆巴佩说梅西没得到应有的尊重",
+      "onboard_time": 1686709587,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722852,
       "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
@@ -987,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707484,
+      "num": 323580,
+      "word": "实习生发错信息到工作群",
+      "onboard_time": 1686708388,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 707420,
       "num": 360860,
       "word": "员工入职一个半月怀孕了",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687936,
-      "num": 316435,
-      "word": "实习生发错信息到工作群",
-      "onboard_time": 1686708388,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 668496,
@@ -1491,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384735,
-      "num": 384735,
-      "word": "广末凉子承认出轨",
-      "onboard_time": 1686710548,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382678,
       "num": 382678,
       "word": "Weiwei 886",
@@ -1731,14 +1747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329149,
-      "num": 329149,
-      "word": "姆巴佩说梅西没得到应有的尊重",
-      "onboard_time": 1686709587,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328970,
       "num": 328970,
       "word": "老A到底是谁",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1686625468,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324184,
+      "num": 324184,
+      "word": "俄23岁男子游泳时被鲨鱼活吞",
+      "onboard_time": 1686711629,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323468,
@@ -2153,6 +2169,14 @@
       "onboard_time": 1686646826,
       "rank": 22,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 266183,
+      "num": 266183,
+      "word": "汪峰战队",
+      "onboard_time": 1686708987,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 264280,
@@ -2707,6 +2731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223758,
+      "num": 223758,
+      "word": "阿那亚虾米音乐节阵容",
+      "onboard_time": 1686712530,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222721,
       "num": 222721,
       "word": "当反断舍离血脉觉醒",
@@ -2753,14 +2785,6 @@
       "onboard_time": 1686579509,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219463,
-      "num": 219463,
-      "word": "汪峰战队",
-      "onboard_time": 1686708987,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 219119,
@@ -3547,6 +3571,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 186535,
+      "num": 186535,
+      "word": "四川多名城管疑与摊贩发生冲突",
+      "onboard_time": 1686711089,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186217,
       "num": 186217,
       "word": "腾讯音乐娱乐盛典阵容",
@@ -4171,6 +4203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150051,
+      "num": 150051,
+      "word": "光与夜之恋二周年",
+      "onboard_time": 1686711748,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149635,
       "num": 149635,
       "word": "周也在校旧照",
@@ -4281,6 +4321,14 @@
       "onboard_time": 1686658827,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145477,
+      "num": 145477,
+      "word": "95后小伙每天抡15斤大锤学打铁",
+      "onboard_time": 1686712289,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144865,
@@ -4443,6 +4491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139340,
+      "num": 139340,
+      "word": "李俊昊林允儿双人画报",
+      "onboard_time": 1686711149,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 139224,
       "num": 139224,
       "word": "贺红玲说肖春生甩了她",
@@ -4601,6 +4657,14 @@
       "onboard_time": 1686710488,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 132362,
+      "num": 132362,
+      "word": "陈祥榕生前床铺上摆上了一盒喜糖",
+      "onboard_time": 1686711448,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131991,
@@ -5147,6 +5211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97577,
+      "num": 1472078,
+      "word": "杭州迎亚运风光片",
+      "onboard_time": 1686710488,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97425,
       "num": 97425,
       "word": "鬼灭之刃锻刀村篇",
@@ -5193,14 +5265,6 @@
       "onboard_time": 1686502523,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86930,
-      "num": 1472078,
-      "word": "杭州迎亚运风光片",
-      "onboard_time": 1686710488,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 86132,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686711033046,
+  "endTime": 1686712686299,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -11,12 +11,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2462373,
-      "num": 2462373,
+      "raw_hot": 2570381,
+      "num": 2570381,
       "word": "人民日报评地铁偷拍乌龙",
       "onboard_time": 1686703411,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2478003,
+      "num": 533147,
+      "word": "汪峰 毕夏你要坚强",
+      "onboard_time": 1686712169,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2342513,
@@ -25,6 +33,14 @@
       "onboard_time": 1686697880,
       "rank": 16,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1866423,
+      "num": 517686,
+      "word": "广末凉子承认出轨",
+      "onboard_time": 1686710548,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1769965,
@@ -59,8 +75,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1253314,
-      "num": 1253314,
+      "raw_hot": 1261605,
+      "num": 1261605,
       "word": "17岁女孩一晚连刷6套卷子后患脑病",
       "onboard_time": 1686702810,
       "rank": 5,
@@ -73,6 +89,14 @@
       "onboard_time": 1686703055,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1158012,
+      "num": 1158012,
+      "word": "向佐新片打戏误伤唐诗逸",
+      "onboard_time": 1686708450,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1063327,
@@ -97,14 +121,6 @@
       "onboard_time": 1686668852,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 939858,
-      "num": 939858,
-      "word": "向佐新片打戏误伤唐诗逸",
-      "onboard_time": 1686708450,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 927326,
@@ -147,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 730029,
+      "num": 730029,
+      "word": "姆巴佩说梅西没得到应有的尊重",
+      "onboard_time": 1686709587,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722293,
       "num": 722293,
       "word": "这居然是刘恋",
@@ -155,18 +179,18 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 707420,
-      "num": 360860,
-      "word": "员工入职一个半月怀孕了",
-      "onboard_time": 1686698603,
+      "raw_hot": 707484,
+      "num": 323580,
+      "word": "实习生发错信息到工作群",
+      "onboard_time": 1686708388,
       "rank": 20,
       "category": "幽默"
     },
     {
-      "raw_hot": 687936,
-      "num": 316435,
-      "word": "实习生发错信息到工作群",
-      "onboard_time": 1686708388,
+      "raw_hot": 707420,
+      "num": 360860,
+      "word": "员工入职一个半月怀孕了",
+      "onboard_time": 1686698603,
       "rank": 20,
       "category": "幽默"
     },
@@ -211,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530951,
-      "num": 530951,
+      "raw_hot": 548549,
+      "num": 548549,
       "word": "笑果旗下公司擅自演出被罚",
       "onboard_time": 1686656547,
       "rank": 8,
@@ -267,14 +291,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 384735,
-      "num": 384735,
-      "word": "广末凉子承认出轨",
-      "onboard_time": 1686710548,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365295,
       "num": 365295,
       "word": "晕车和不晕车的人闻到的气味不一样",
@@ -323,19 +339,19 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 329149,
-      "num": 329149,
-      "word": "姆巴佩说梅西没得到应有的尊重",
-      "onboard_time": 1686709587,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326426,
       "num": 326426,
       "word": "特朗普出庭期间被逮捕",
       "onboard_time": 1686704131,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324184,
+      "num": 324184,
+      "word": "俄23岁男子游泳时被鲨鱼活吞",
+      "onboard_time": 1686711629,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -401,6 +417,14 @@
       "onboard_time": 1686709949,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 266183,
+      "num": 266183,
+      "word": "汪峰战队",
+      "onboard_time": 1686708987,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 264280,
@@ -475,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223758,
+      "num": 223758,
+      "word": "阿那亚虾米音乐节阵容",
+      "onboard_time": 1686712530,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221873,
       "num": 221873,
       "word": "我的原生家庭够我吹一辈子",
       "onboard_time": 1686701609,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219463,
-      "num": 219463,
-      "word": "汪峰战队",
-      "onboard_time": 1686708987,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 214621,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186535,
+      "num": 186535,
+      "word": "四川多名城管疑与摊贩发生冲突",
+      "onboard_time": 1686711089,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183575,
       "num": 183575,
       "word": "王传君 INFP",
@@ -731,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150051,
+      "num": 150051,
+      "word": "光与夜之恋二周年",
+      "onboard_time": 1686711748,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149056,
       "num": 149056,
       "word": "周翊然少年感",
@@ -763,12 +803,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145477,
+      "num": 145477,
+      "word": "95后小伙每天抡15斤大锤学打铁",
+      "onboard_time": 1686712289,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144097,
       "num": 144097,
       "word": "日食记 长沙宝藏馆子",
       "onboard_time": 1686700226,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139340,
+      "num": 139340,
+      "word": "李俊昊林允儿双人画报",
+      "onboard_time": 1686711149,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 138468,
@@ -785,6 +841,14 @@
       "onboard_time": 1686710488,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 132362,
+      "num": 132362,
+      "word": "陈祥榕生前床铺上摆上了一盒喜糖",
+      "onboard_time": 1686711448,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131442,
@@ -859,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97577,
+      "num": 1472078,
+      "word": "杭州迎亚运风光片",
+      "onboard_time": 1686710488,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92328,
       "num": 92328,
       "word": "梅西 很高兴来到中国",
@@ -881,14 +953,6 @@
       "onboard_time": 1686671847,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86930,
-      "num": 1472078,
-      "word": "杭州迎亚运风光片",
-      "onboard_time": 1686710488,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 85724,
