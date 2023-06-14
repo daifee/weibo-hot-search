@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686710504501,
+  "endTime": 1686711033046,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2411,6 +2411,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1347020,
+      "num": 637105,
+      "word": "天津大学",
+      "onboard_time": 1686698603,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1346601,
       "num": 1125848,
       "word": "车银优肿么了",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1685592628,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1311578,
-      "num": 637105,
-      "word": "天津大学",
-      "onboard_time": 1686698603,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1310336,
@@ -3195,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1161934,
+      "num": 1161934,
+      "word": "老伴去世老人挨个敲车窗求带看老房",
+      "onboard_time": 1686703055,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1161672,
       "num": 1161672,
       "word": "Jennie 复仇者联盟5",
@@ -3249,14 +3257,6 @@
       "onboard_time": 1685598504,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1146682,
-      "num": 1146682,
-      "word": "老伴去世老人挨个敲车窗求带看老房",
-      "onboard_time": 1686703055,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1146045,
@@ -3635,6 +3635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1062866,
+      "num": 612728,
+      "word": "陈冠希偶遇陈小春拍戏",
+      "onboard_time": 1686704435,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1061459,
       "num": 1061459,
       "word": "胡继勇",
@@ -3769,14 +3777,6 @@
       "onboard_time": 1686409772,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1034185,
-      "num": 612728,
-      "word": "陈冠希偶遇陈小春拍戏",
-      "onboard_time": 1686704435,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1031231,
@@ -4265,6 +4265,14 @@
       "onboard_time": 1686311608,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 939858,
+      "num": 939858,
+      "word": "向佐新片打戏误伤唐诗逸",
+      "onboard_time": 1686708450,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 938912,
@@ -5195,14 +5203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785802,
-      "num": 785802,
-      "word": "向佐新片打戏误伤唐诗逸",
-      "onboard_time": 1686708450,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 785216,
       "num": 688773,
       "word": "男子称在洗浴中心被男性猥亵",
@@ -5659,6 +5659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722293,
+      "num": 722293,
+      "word": "这居然是刘恋",
+      "onboard_time": 1686700949,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 722158,
       "num": 722158,
       "word": "那英送何炅的衣服竟然是童装",
@@ -5705,14 +5713,6 @@
       "onboard_time": 1686229470,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 716775,
-      "num": 716775,
-      "word": "这居然是刘恋",
-      "onboard_time": 1686700949,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 715148,
@@ -5923,6 +5923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 687936,
+      "num": 316435,
+      "word": "实习生发错信息到工作群",
+      "onboard_time": 1686708388,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 685055,
       "num": 685055,
       "word": "于晓光机场给秋瓷炫送花",
@@ -6033,14 +6041,6 @@
       "onboard_time": 1685603249,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 674818,
-      "num": 316435,
-      "word": "实习生发错信息到工作群",
-      "onboard_time": 1686708388,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 673363,
@@ -9451,6 +9451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384735,
+      "num": 384735,
+      "word": "广末凉子承认出轨",
+      "onboard_time": 1686710548,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384700,
       "num": 384700,
       "word": "首位走出考场的考生喊话马化腾",
@@ -11033,6 +11041,14 @@
       "onboard_time": 1686305910,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329149,
+      "num": 329149,
+      "word": "姆巴佩说梅西没得到应有的尊重",
+      "onboard_time": 1686709587,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 328970,
@@ -14067,6 +14083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262859,
+      "num": 262859,
+      "word": "为什么坐飞机要用结实的旅行箱",
+      "onboard_time": 1686707309,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262763,
       "num": 262763,
       "word": "乐华 黄牛",
@@ -14867,14 +14891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250902,
-      "num": 250902,
-      "word": "为什么坐飞机要用结实的旅行箱",
-      "onboard_time": 1686707309,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250893,
       "num": 250893,
       "word": "SEVENTEEN澳门音乐节",
@@ -15457,14 +15473,6 @@
       "onboard_time": 1685610028,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242949,
-      "num": 225801,
-      "word": "姆巴佩说梅西没得到应有的尊重",
-      "onboard_time": 1686709587,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 242902,
@@ -16843,6 +16851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225283,
+      "num": 225283,
+      "word": "教资面试没过",
+      "onboard_time": 1686710788,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 225147,
       "num": 225147,
       "word": "肖春生和顾一野的成长时间线分析",
@@ -17265,6 +17281,14 @@
       "onboard_time": 1686210213,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219463,
+      "num": 219463,
+      "word": "汪峰战队",
+      "onboard_time": 1686708987,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 219430,
@@ -18843,14 +18867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202565,
-      "num": 202565,
-      "word": "汪峰战队",
-      "onboard_time": 1686708987,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202445,
       "num": 202445,
       "word": "郭敬明40岁了",
@@ -19707,6 +19723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194703,
+      "num": 194703,
+      "word": "王鹤棣听到粉丝喊老公上错车",
+      "onboard_time": 1686709827,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 194480,
       "num": 194480,
       "word": "enhypen回归预告",
@@ -19817,6 +19841,14 @@
       "onboard_time": 1685756671,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 193625,
+      "num": 193625,
+      "word": "大叔地铁上喝斥女生强制要求让座",
+      "onboard_time": 1686708928,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193624,
@@ -20705,6 +20737,14 @@
       "onboard_time": 1686574649,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188449,
+      "num": 188449,
+      "word": "第四届TMEA全阵容官宣",
+      "onboard_time": 1686710910,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188389,
@@ -21739,14 +21779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178196,
-      "num": 178196,
-      "word": "王鹤棣听到粉丝喊老公上错车",
-      "onboard_time": 1686709827,
-      "rank": 38,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 178145,
       "num": 178145,
       "word": "你会用手机的护眼模式吗",
@@ -21825,14 +21857,6 @@
       "onboard_time": 1686055468,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 177578,
-      "num": 177578,
-      "word": "大叔地铁上喝斥女生强制要求让座",
-      "onboard_time": 1686708928,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177455,
@@ -23211,6 +23235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162133,
+      "num": 162133,
+      "word": "部分黑色素瘤与原发痣有关",
+      "onboard_time": 1686709467,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "田曦薇羊毛卷雀斑妆",
@@ -23449,14 +23481,6 @@
       "onboard_time": 1686567028,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 159067,
-      "num": 159067,
-      "word": "部分黑色素瘤与原发痣有关",
-      "onboard_time": 1686709467,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159043,
@@ -24131,6 +24155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152709,
+      "num": 152709,
+      "word": "西安为进地铁如厕者发免费进出卡",
+      "onboard_time": 1686710666,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152666,
       "num": 152666,
       "word": "高考准考证志愿表等尽量别公开晒图",
@@ -24609,6 +24641,14 @@
       "onboard_time": 1685901674,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147557,
+      "num": 147557,
+      "word": "杭州亚运会100天倒计时",
+      "onboard_time": 1686710910,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 147500,
@@ -25283,6 +25323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 138468,
+      "num": 138468,
+      "word": "詹雯婷方严正声明",
+      "onboard_time": 1686710007,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138421,
       "num": 138421,
       "word": "大连人2比2北京国安",
@@ -25811,6 +25859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132527,
+      "num": 132527,
+      "word": "杭州亚运会筹办情况发布会",
+      "onboard_time": 1686710488,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 132352,
       "num": 132352,
       "word": "高考前被AI的回答鼓励到了",
@@ -25857,14 +25913,6 @@
       "onboard_time": 1686651747,
       "rank": 46,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 131916,
-      "num": 131916,
-      "word": "詹雯婷方严正声明",
-      "onboard_time": 1686710007,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 131791,
@@ -26049,6 +26097,14 @@
       "onboard_time": 1686052288,
       "rank": 47,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "隐藏在原生家庭最可怕的东西",
+      "onboard_time": 1686709949,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129337,
@@ -26339,14 +26395,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 126130,
-      "num": 126130,
-      "word": "杭州亚运会筹办情况发布会",
-      "onboard_time": 1686710488,
-      "rank": 48,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 125893,
       "num": 125893,
       "word": "崔然竣Queencard舞蹈挑战",
@@ -26369,14 +26417,6 @@
       "onboard_time": 1685863829,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 125587,
-      "num": 125587,
-      "word": "隐藏在原生家庭最可怕的东西",
-      "onboard_time": 1686709949,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 125438,
@@ -28579,6 +28619,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 86930,
+      "num": 1472078,
+      "word": "杭州迎亚运风光片",
+      "onboard_time": 1686710488,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86473,
       "num": 86473,
       "word": "起底叶音工作室",
@@ -29065,14 +29113,6 @@
       "onboard_time": 1685607205,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73218,
-      "num": 1472078,
-      "word": "杭州迎亚运风光片",
-      "onboard_time": 1686710488,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 72847,

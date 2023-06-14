@@ -1,0 +1,410 @@
+{
+  "runTime": 1686711033046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2415242,
+        "num": 2415242,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2393682,
+        "num": 2393682,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86930,
+        "num": 1254596,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1230659,
+        "num": 1230659,
+        "word": "黑色素瘤",
+        "onboard_time": 1686701731,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1161934,
+        "num": 1161934,
+        "word": "老伴去世老人挨个敲车窗求带看老房",
+        "onboard_time": 1686703055,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939858,
+        "num": 939858,
+        "word": "向佐新片打戏误伤唐诗逸",
+        "onboard_time": 1686708450,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 780155,
+        "num": 780155,
+        "word": "17岁女孩一晚连刷6套卷子后患脑病",
+        "onboard_time": 1686702810,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 722293,
+        "num": 722293,
+        "word": "这居然是刘恋",
+        "onboard_time": 1686700949,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 613309,
+        "num": 613309,
+        "word": "柯以敏 我比那英唱得更好",
+        "onboard_time": 1686699025,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 586626,
+        "num": 586626,
+        "word": "教资面试成绩",
+        "onboard_time": 1686705214,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1787602,
+        "num": 575065,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1347020,
+        "num": 550298,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1062866,
+        "num": 527377,
+        "word": "陈冠希偶遇陈小春拍戏",
+        "onboard_time": 1686704435,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 805624,
+        "num": 507686,
+        "word": "薛小婉 任权",
+        "onboard_time": 1686699505,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 497368,
+        "num": 497368,
+        "word": "笑果旗下公司擅自演出被罚",
+        "onboard_time": 1686656547,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 420245,
+        "num": 420245,
+        "word": "天津爆炸",
+        "onboard_time": 1686702931,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384735,
+        "num": 384735,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360402,
+        "num": 360402,
+        "word": "王鹤棣田曦薇 大奉打更人",
+        "onboard_time": 1686670050,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329149,
+        "num": 329149,
+        "word": "姆巴佩说梅西没得到应有的尊重",
+        "onboard_time": 1686709587,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315025,
+        "num": 315025,
+        "word": "Jennie回应演唱会中途离场",
+        "onboard_time": 1686665488,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 687936,
+        "num": 314257,
+        "word": "实习生发错信息到工作群",
+        "onboard_time": 1686708388,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 608515,
+        "num": 313213,
+        "word": "员工入职一个半月怀孕了",
+        "onboard_time": 1686698603,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461486,
+        "num": 312771,
+        "word": "原来物理防晒胜过所有防晒霜",
+        "onboard_time": 1686698603,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 449676,
+        "num": 311655,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310872,
+        "num": 310872,
+        "word": "特朗普出庭期间被逮捕",
+        "onboard_time": 1686704131,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302807,
+        "num": 302807,
+        "word": "张恒远 夜空中最亮的星",
+        "onboard_time": 1686706769,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287298,
+        "num": 287298,
+        "word": "刘亦菲 不在乎别人的想法",
+        "onboard_time": 1686663987,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267183,
+        "num": 267183,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266058,
+        "num": 266058,
+        "word": "教资认定",
+        "onboard_time": 1686709949,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262859,
+        "num": 262859,
+        "word": "为什么坐飞机要用结实的旅行箱",
+        "onboard_time": 1686707309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225283,
+        "num": 225283,
+        "word": "教资面试没过",
+        "onboard_time": 1686710788,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 219463,
+        "num": 219463,
+        "word": "汪峰战队",
+        "onboard_time": 1686708987,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216806,
+        "num": 216806,
+        "word": "梦之海阵容官宣",
+        "onboard_time": 1686708388,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213784,
+        "num": 213784,
+        "word": "警惕别有用心者煽动极化情绪挑动性别对立",
+        "onboard_time": 1686706470,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211833,
+        "num": 211833,
+        "word": "秀智金宇彬二搭",
+        "onboard_time": 1686702870,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194703,
+        "num": 194703,
+        "word": "王鹤棣听到粉丝喊老公上错车",
+        "onboard_time": 1686709827,
+        "rank": 35,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 193818,
+        "num": 193818,
+        "word": "权志龙又买房了",
+        "onboard_time": 1686669449,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193625,
+        "num": 193625,
+        "word": "大叔地铁上喝斥女生强制要求让座",
+        "onboard_time": 1686708928,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188449,
+        "num": 188449,
+        "word": "第四届TMEA全阵容官宣",
+        "onboard_time": 1686710910,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179556,
+        "num": 179556,
+        "word": "Uzi首发对战iG",
+        "onboard_time": 1686669329,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178326,
+        "num": 178326,
+        "word": "破镜重圆只有三种可能",
+        "onboard_time": 1686703653,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169769,
+        "num": 169769,
+        "word": "人生最糟糕的十年",
+        "onboard_time": 1686704013,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 162133,
+        "num": 162133,
+        "word": "部分黑色素瘤与原发痣有关",
+        "onboard_time": 1686709467,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152709,
+        "num": 152709,
+        "word": "西安为进地铁如厕者发免费进出卡",
+        "onboard_time": 1686710666,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147557,
+        "num": 147557,
+        "word": "杭州亚运会100天倒计时",
+        "onboard_time": 1686710910,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 138468,
+        "num": 138468,
+        "word": "詹雯婷方严正声明",
+        "onboard_time": 1686710007,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133420,
+        "num": 133420,
+        "word": "为什么胖肉只胖肚子",
+        "onboard_time": 1686699986,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132527,
+        "num": 132527,
+        "word": "杭州亚运会筹办情况发布会",
+        "onboard_time": 1686710488,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 132371,
+        "num": 132371,
+        "word": "天津居民楼爆炸案嫌犯已被抓",
+        "onboard_time": 1686702692,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129512,
+        "num": 129512,
+        "word": "隐藏在原生家庭最可怕的东西",
+        "onboard_time": 1686709949,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#愿中洪关系不断提质升级开新局#"
+    }
+  }
+}

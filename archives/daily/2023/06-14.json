@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686710504501,
+  "endTime": 1686711033046,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -43,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1347020,
+      "num": 637105,
+      "word": "天津大学",
+      "onboard_time": 1686698603,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1329661,
       "num": 1329661,
       "word": "教资面试成绩",
       "onboard_time": 1686705214,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1311578,
-      "num": 637105,
-      "word": "天津大学",
-      "onboard_time": 1686698603,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1253314,
@@ -67,8 +67,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1146682,
-      "num": 1146682,
+      "raw_hot": 1161934,
+      "num": 1161934,
       "word": "老伴去世老人挨个敲车窗求带看老房",
       "onboard_time": 1686703055,
       "rank": 14,
@@ -83,7 +83,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1034185,
+      "raw_hot": 1062866,
       "num": 612728,
       "word": "陈冠希偶遇陈小春拍戏",
       "onboard_time": 1686704435,
@@ -97,6 +97,14 @@
       "onboard_time": 1686668852,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939858,
+      "num": 939858,
+      "word": "向佐新片打戏误伤唐诗逸",
+      "onboard_time": 1686708450,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 927326,
@@ -131,14 +139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 785802,
-      "num": 785802,
-      "word": "向佐新片打戏误伤唐诗逸",
-      "onboard_time": 1686708450,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 764023,
       "num": 764023,
       "word": "柯以敏 我比那英唱得更好",
@@ -147,8 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 716775,
-      "num": 716775,
+      "raw_hot": 722293,
+      "num": 722293,
       "word": "这居然是刘恋",
       "onboard_time": 1686700949,
       "rank": 7,
@@ -163,7 +163,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 674818,
+      "raw_hot": 687936,
       "num": 316435,
       "word": "实习生发错信息到工作群",
       "onboard_time": 1686708388,
@@ -267,6 +267,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 384735,
+      "num": 384735,
+      "word": "广末凉子承认出轨",
+      "onboard_time": 1686710548,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365295,
       "num": 365295,
       "word": "晕车和不晕车的人闻到的气味不一样",
@@ -313,6 +321,14 @@
       "onboard_time": 1686669329,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 329149,
+      "num": 329149,
+      "word": "姆巴佩说梅西没得到应有的尊重",
+      "onboard_time": 1686709587,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 326426,
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262859,
+      "num": 262859,
+      "word": "为什么坐飞机要用结实的旅行箱",
+      "onboard_time": 1686707309,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261063,
       "num": 261063,
       "word": "为什么胖肉只胖肚子",
@@ -419,22 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250902,
-      "num": 250902,
-      "word": "为什么坐飞机要用结实的旅行箱",
-      "onboard_time": 1686707309,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242949,
-      "num": 225801,
-      "word": "姆巴佩说梅西没得到应有的尊重",
-      "onboard_time": 1686709587,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230766,
       "num": 230766,
       "word": "梦之海阵容官宣",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225283,
+      "num": 225283,
+      "word": "教资面试没过",
+      "onboard_time": 1686710788,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 225129,
       "num": 225129,
       "word": "世界献血者日",
@@ -465,6 +481,14 @@
       "onboard_time": 1686701609,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219463,
+      "num": 219463,
+      "word": "汪峰战队",
+      "onboard_time": 1686708987,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 214621,
@@ -491,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202565,
-      "num": 202565,
-      "word": "汪峰战队",
-      "onboard_time": 1686708987,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -515,11 +531,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194703,
+      "num": 194703,
+      "word": "王鹤棣听到粉丝喊老公上错车",
+      "onboard_time": 1686709827,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 193966,
       "num": 193966,
       "word": "和爸爸骑游中国的白血病男孩离世",
       "onboard_time": 1686657267,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193625,
+      "num": 193625,
+      "word": "大叔地铁上喝斥女生强制要求让座",
+      "onboard_time": 1686708928,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -553,6 +585,14 @@
       "onboard_time": 1686705094,
       "rank": 38,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 188449,
+      "num": 188449,
+      "word": "第四届TMEA全阵容官宣",
+      "onboard_time": 1686710910,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187373,
@@ -603,28 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178196,
-      "num": 178196,
-      "word": "王鹤棣听到粉丝喊老公上错车",
-      "onboard_time": 1686709827,
-      "rank": 38,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 178110,
       "num": 178110,
       "word": "收到梅西球票的爸爸哭了",
       "onboard_time": 1686704494,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177578,
-      "num": 177578,
-      "word": "大叔地铁上喝斥女生强制要求让座",
-      "onboard_time": 1686708928,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175569,
@@ -675,8 +699,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159067,
-      "num": 159067,
+      "raw_hot": 162133,
+      "num": 162133,
       "word": "部分黑色素瘤与原发痣有关",
       "onboard_time": 1686709467,
       "rank": 41,
@@ -699,6 +723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 152709,
+      "num": 152709,
+      "word": "西安为进地铁如厕者发免费进出卡",
+      "onboard_time": 1686710666,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149056,
       "num": 149056,
       "word": "周翊然少年感",
@@ -713,6 +745,14 @@
       "onboard_time": 1686665911,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147557,
+      "num": 147557,
+      "word": "杭州亚运会100天倒计时",
+      "onboard_time": 1686710910,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 145936,
@@ -731,12 +771,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131916,
-      "num": 131916,
+      "raw_hot": 138468,
+      "num": 138468,
       "word": "詹雯婷方严正声明",
       "onboard_time": 1686710007,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132527,
+      "num": 132527,
+      "word": "杭州亚运会筹办情况发布会",
+      "onboard_time": 1686710488,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 131442,
@@ -747,28 +795,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "隐藏在原生家庭最可怕的东西",
+      "onboard_time": 1686709949,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129430,
       "num": 111134,
       "word": "迪丽热巴龚俊将录制你好星期六",
       "onboard_time": 1686663209,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126130,
-      "num": 126130,
-      "word": "杭州亚运会筹办情况发布会",
-      "onboard_time": 1686710488,
-      "rank": 48,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 125587,
-      "num": 125587,
-      "word": "隐藏在原生家庭最可怕的东西",
-      "onboard_time": 1686709949,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 123264,
@@ -843,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86930,
+      "num": 1472078,
+      "word": "杭州迎亚运风光片",
+      "onboard_time": 1686710488,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85724,
       "num": 85724,
       "word": "川大回应网传地铁事件女生被开除",
@@ -857,14 +905,6 @@
       "onboard_time": 1686694393,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73218,
-      "num": 1472078,
-      "word": "杭州迎亚运风光片",
-      "onboard_time": 1686710488,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 69946,
