@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686731615829,
+  "endTime": 1686734191673,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -17,6 +17,14 @@
       "onboard_time": 1686712169,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2967400,
+      "num": 2967400,
+      "word": "梅西苏醒合影",
+      "onboard_time": 1686731490,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2570381,
@@ -147,6 +155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1241502,
+      "num": 1241502,
+      "word": "比Uzi还紧张",
+      "onboard_time": 1686727829,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1204213,
       "num": 1204213,
       "word": "小米回应被印度没收48亿元",
@@ -177,6 +193,14 @@
       "onboard_time": 1686708450,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1072563,
+      "num": 1072563,
+      "word": "德国同学把我的剩饭吃了",
+      "onboard_time": 1686730108,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 1063327,
@@ -299,8 +323,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 781684,
-      "num": 781684,
+      "raw_hot": 793034,
+      "num": 793034,
       "word": "大学上了一半专业没了",
       "onboard_time": 1686728368,
       "rank": 7,
@@ -331,12 +355,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 696317,
-      "num": 696317,
-      "word": "比Uzi还紧张",
-      "onboard_time": 1686727829,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 692661,
+      "num": 505336,
+      "word": "薛之谦还没找到梅西吗",
+      "onboard_time": 1686733708,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 662941,
@@ -387,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551830,
-      "num": 551830,
+      "raw_hot": 571795,
+      "num": 571795,
       "word": "Ella 是谁让你们送我莲花",
       "onboard_time": 1686723628,
       "rank": 48,
@@ -475,12 +499,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 407385,
-      "num": 407385,
-      "word": "梅西苏醒合影",
-      "onboard_time": 1686731490,
-      "rank": 18,
-      "category": "体育,艺人"
+      "raw_hot": 404885,
+      "num": 404885,
+      "word": "Uzi首发",
+      "onboard_time": 1686733049,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 373026,
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317997,
-      "num": 217128,
-      "word": "德国同学把我的剩饭吃了",
-      "onboard_time": 1686730108,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "丫丫",
@@ -601,6 +617,14 @@
       "onboard_time": 1686650368,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316270,
+      "num": 316270,
+      "word": "EDG对战iG",
+      "onboard_time": 1686732449,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 306667,
@@ -651,6 +675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283408,
+      "num": 283408,
+      "word": "归期关羽五杀",
+      "onboard_time": 1686733588,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278081,
       "num": 278081,
       "word": "阴阳师",
@@ -689,6 +721,14 @@
       "onboard_time": 1686709949,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270873,
+      "num": 270873,
+      "word": "刘浩存跳舞vs任敏跳舞",
+      "onboard_time": 1686731068,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 266183,
@@ -851,6 +891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221949,
+      "num": 221949,
+      "word": "内娱冷门颜霸图鉴",
+      "onboard_time": 1686731787,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221873,
       "num": 221873,
       "word": "我的原生家庭够我吹一辈子",
@@ -875,12 +923,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 214199,
+      "num": 490380,
+      "word": "聋哑父母就医6岁女儿成翻译",
+      "onboard_time": 1686729627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213544,
+      "num": 213544,
+      "word": "贺红玲vs金晨",
+      "onboard_time": 1686731848,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210597,
       "num": 210597,
       "word": "TT上最火的旅游国家是中国",
       "onboard_time": 1686716975,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "康康 k神",
+      "onboard_time": 1686731908,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 207320,
@@ -921,6 +993,14 @@
       "onboard_time": 1686726330,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204690,
+      "num": 204690,
+      "word": "肖春生鞋不合脚",
+      "onboard_time": 1686729988,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 203595,
@@ -1035,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188034,
+      "num": 188034,
+      "word": "重庆狼队",
+      "onboard_time": 1686732387,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188015,
       "num": 188015,
       "word": "宁艺卓舞台2023黑天鹅造型",
@@ -1056,14 +1144,6 @@
       "word": "大奉打更人",
       "onboard_time": 1686702512,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 187241,
-      "num": 181632,
-      "word": "肖春生鞋不合脚",
-      "onboard_time": 1686729988,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -1147,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175234,
+      "num": 175234,
+      "word": "五条悟",
+      "onboard_time": 1686727287,
+      "rank": 45,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 175033,
       "num": 175033,
       "word": "刘浩存任敏高中时期自拍照",
@@ -1195,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169445,
-      "num": 490380,
-      "word": "聋哑父母就医6岁女儿成翻译",
-      "onboard_time": 1686729627,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 169672,
+      "num": 169672,
+      "word": "WBG翻盘LGD",
+      "onboard_time": 1686732149,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 169149,
@@ -1211,19 +1299,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168942,
-      "num": 168942,
-      "word": "五条悟",
-      "onboard_time": 1686727287,
-      "rank": 45,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 167640,
       "num": 174034,
       "word": "原来近亲不能输血",
       "onboard_time": 1686719194,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166754,
+      "num": 166754,
+      "word": "世界失去蚊子会变得更好",
+      "onboard_time": 1686733648,
+      "rank": 44,
       "category": "情感"
     },
     {
@@ -1233,6 +1321,14 @@
       "onboard_time": 1686644188,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165554,
+      "num": 165554,
+      "word": "狼队对战TTG",
+      "onboard_time": 1686724469,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 164956,
@@ -1257,14 +1353,6 @@
       "onboard_time": 1686728549,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 162193,
-      "num": 162193,
-      "word": "刘浩存跳舞vs任敏跳舞",
-      "onboard_time": 1686731068,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 162133,
@@ -1417,14 +1505,6 @@
       "onboard_time": 1686697823,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145824,
-      "num": 145824,
-      "word": "狼队对战TTG",
-      "onboard_time": 1686724469,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 145477,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1686715231,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50511,
+      "num": 488334,
+      "word": "老人向镜中自己问话儿子认真回答",
+      "onboard_time": 1686733287,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48744,
