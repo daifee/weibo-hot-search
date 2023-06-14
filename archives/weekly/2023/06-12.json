@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686764013305,
+  "endTime": 1686766841863,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -24,6 +24,14 @@
       "word": "川大回应网传地铁事件女生被开除",
       "onboard_time": 1686555990,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4933869,
+      "num": 4933869,
+      "word": "上海地震",
+      "onboard_time": 1686766515,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1153,6 +1161,14 @@
       "onboard_time": 1686733049,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 829620,
+      "num": 829620,
+      "word": "上海",
+      "onboard_time": 1686766515,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828140,
@@ -7169,6 +7185,14 @@
       "onboard_time": 1686526221,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60648,
+      "num": 60648,
+      "word": "内娱镜头下的宁艺卓",
+      "onboard_time": 1686764415,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60137,
