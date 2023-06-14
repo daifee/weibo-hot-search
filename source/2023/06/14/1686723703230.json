@@ -1,0 +1,410 @@
+{
+  "runTime": 1686723703230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486700,
+        "num": 1486700,
+        "word": "医生去世后手机还一直收到患者消息",
+        "onboard_time": 1686716433,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337140,
+        "num": 1337140,
+        "word": "汪峰 毕夏你要坚强",
+        "onboard_time": 1686712169,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38789,
+        "num": 1210650,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1105097,
+        "num": 1105097,
+        "word": "张恒远去世",
+        "onboard_time": 1686697641,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022357,
+        "num": 1022357,
+        "word": "人民日报评地铁偷拍乌龙",
+        "onboard_time": 1686703411,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021287,
+        "num": 1021287,
+        "word": "小米回应被印度没收48亿元",
+        "onboard_time": 1686714932,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1012539,
+        "num": 1012539,
+        "word": "毕夏发讣告透露张恒远生前心愿",
+        "onboard_time": 1686713369,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873099,
+        "num": 873099,
+        "word": "赵露思 两次宝格丽造型",
+        "onboard_time": 1686713970,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 842078,
+        "num": 842078,
+        "word": "北动公布丫丫最新画面",
+        "onboard_time": 1686712892,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841811,
+        "num": 841811,
+        "word": "阚清子 叶琳回来啦",
+        "onboard_time": 1686718595,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704534,
+        "num": 704534,
+        "word": "任敏跳舞 孙莉",
+        "onboard_time": 1686712829,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612924,
+        "num": 612924,
+        "word": "张恒远毕夏",
+        "onboard_time": 1686697880,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575027,
+        "num": 575027,
+        "word": "广末凉子承认出轨",
+        "onboard_time": 1686710548,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543255,
+        "num": 543255,
+        "word": "俄23岁男子游泳时被鲨鱼活吞",
+        "onboard_time": 1686711629,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19874,
+        "num": 485263,
+        "word": "乔欣电影之夜vlog",
+        "onboard_time": 1686722429,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979171,
+        "num": 485061,
+        "word": "13岁女孩遭性侵怀孕引产后报警",
+        "onboard_time": 1686714873,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461954,
+        "num": 461954,
+        "word": "鞠婧祎回应撞脸歪嘴小猫",
+        "onboard_time": 1686716555,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411362,
+        "num": 411362,
+        "word": "Angelababy甜橙蝴蝶妆",
+        "onboard_time": 1686718415,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 322315,
+        "num": 322315,
+        "word": "天津大学",
+        "onboard_time": 1686698603,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 290088,
+        "num": 290088,
+        "word": "姆巴佩说梅西没得到应有的尊重",
+        "onboard_time": 1686709587,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1004776,
+        "num": 287946,
+        "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+        "onboard_time": 1686719674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559724,
+        "num": 283023,
+        "word": "实习生发错信息到工作群",
+        "onboard_time": 1686708388,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363750,
+        "num": 279603,
+        "word": "被领导偷看了微信聊天记录",
+        "onboard_time": 1686701552,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313906,
+        "num": 275873,
+        "word": "向佐向唐诗逸道歉",
+        "onboard_time": 1686716196,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305464,
+        "num": 274492,
+        "word": "原来物理防晒胜过所有防晒霜",
+        "onboard_time": 1686698603,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 298798,
+        "num": 270622,
+        "word": "胡锡进 四川大学面临考验",
+        "onboard_time": 1686717513,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 293493,
+        "num": 263959,
+        "word": "薛小婉 任权",
+        "onboard_time": 1686699505,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263425,
+        "num": 263425,
+        "word": "SEVENTEEN要来广州开签售会",
+        "onboard_time": 1686716136,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262193,
+        "num": 262193,
+        "word": "怦然3三男争一女",
+        "onboard_time": 1686722548,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250403,
+        "num": 250403,
+        "word": "员工入职一个半月怀孕了",
+        "onboard_time": 1686698603,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228634,
+        "num": 228634,
+        "word": "柯以敏 我比那英唱得更好",
+        "onboard_time": 1686699025,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207281,
+        "num": 207281,
+        "word": "我怕我再不跳她就没机会上来了",
+        "onboard_time": 1686720752,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201302,
+        "num": 201302,
+        "word": "向佐新片打戏误伤唐诗逸",
+        "onboard_time": 1686708450,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197255,
+        "num": 197255,
+        "word": "喜欢你我也是",
+        "onboard_time": 1686717879,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193129,
+        "num": 193129,
+        "word": "警方回应天津大学扣饭事件",
+        "onboard_time": 1686716616,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195356,
+        "num": 189190,
+        "word": "喜欢你4八个人成了两对半",
+        "onboard_time": 1686722490,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181298,
+        "num": 181298,
+        "word": "刘亦菲 不在乎别人的想法",
+        "onboard_time": 1686663987,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179318,
+        "num": 179318,
+        "word": "杨幂黄明昊跳了flower",
+        "onboard_time": 1686722969,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176592,
+        "num": 176592,
+        "word": "这些懒东西是来报恩的吧",
+        "onboard_time": 1686722910,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171851,
+        "num": 171851,
+        "word": "老伴去世老人挨个敲车窗求带看老房",
+        "onboard_time": 1686703055,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168585,
+        "num": 168585,
+        "word": "肖战下围棋",
+        "onboard_time": 1686719674,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167963,
+        "num": 167963,
+        "word": "17岁女孩一晚连刷6套卷子后患脑病",
+        "onboard_time": 1686702810,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 21362,
+        "num": 164510,
+        "word": "饿了么申请猜答案免单商标",
+        "onboard_time": 1686722969,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164501,
+        "num": 164501,
+        "word": "出生率",
+        "onboard_time": 1686722849,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162232,
+        "num": 162232,
+        "word": "减肥主打一个想象力",
+        "onboard_time": 1686723090,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159662,
+        "num": 159662,
+        "word": "戚薇听到会伤害孩子的反应",
+        "onboard_time": 1686723509,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151804,
+        "num": 151804,
+        "word": "高考后妹妹得知姐姐已去世一个月",
+        "onboard_time": 1686646407,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148025,
+        "num": 148025,
+        "word": "宁艺卓舞台2023黑天鹅造型",
+        "onboard_time": 1686720571,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147160,
+        "num": 147160,
+        "word": "Ella 是谁让你们送我莲花",
+        "onboard_time": 1686723628,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142032,
+        "num": 142032,
+        "word": "糖尿病为什么盯上了年轻人",
+        "onboard_time": 1686720270,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 13:33:41
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/14 14:21:43
 </p>
 </blockquote>
 <p>
@@ -1593,6 +1593,12 @@ EXO确定于7月10日回归（热度：1552990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23" target="weibo">
+医生去世后手机还一直收到患者消息（热度：1486700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23" target="weibo">
 王源易烊千玺工作室出图（热度：1478298）
 </a>
@@ -2373,12 +2379,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23" target="weibo">
-医生去世后手机还一直收到患者消息（热度：1181799）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
 微博电影之夜红毯（热度：1177533）
 </a>
@@ -2949,6 +2949,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23" target="weibo">
+小米回应被印度没收48亿元（热度：1021287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E5%9B%A0%E5%9C%A8%E5%87%89%E7%9A%AE%E6%94%BE%E9%BB%84%E7%93%9C%E4%B8%9D%E8%A2%AB%E7%BD%9A%23" target="weibo">
 多家餐饮店因在凉皮放黄瓜丝被罚（热度：1021108）
 </a>
@@ -3023,6 +3029,12 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E4%B8%8D%E8%A6%81%E5%86%8D%E7%98%A6%E4%BA%86%23" target="weibo">
 杨颖不要再瘦了（热度：1005394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%865976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E7%9A%84%E7%94%B7%E5%AD%90%E9%A2%86%E5%A5%96%E6%97%B6%E5%93%86%E5%97%A6%E4%BA%86%23" target="weibo">
+中了5976万彩票大奖的男子领奖时哆嗦了（热度：1004776）
 </a>
 </li>
 
@@ -3269,12 +3281,6 @@ EDG海报空个位置（热度：945915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E7%AF%87%E8%AE%BA%E6%96%87%E7%8E%B0%E5%90%8C%E4%B8%80%E5%88%92%E7%97%95%E9%92%A2%E5%B0%BA%E9%81%AD%E6%92%A4%E7%A8%BF%23" target="weibo">
 4篇论文现同一划痕钢尺遭撤稿（热度：938912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23" target="weibo">
-小米回应被印度没收48亿元（热度：938068）
 </a>
 </li>
 
@@ -3683,6 +3689,12 @@ THE9演唱会（热度：851473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23leave%E5%A5%B3%E5%8F%8B%E5%8F%91%E6%96%87%23" target="weibo">
 leave女友发文（热度：844861）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%8F%B6%E7%90%B3%E5%9B%9E%E6%9D%A5%E5%95%A6%23" target="weibo">
+阚清子 叶琳回来啦（热度：841811）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Angelababy泰国跑男路透（热度：486072）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98EDG%23" target="weibo">
 TES对战EDG（热度：481326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-林俊杰广州演唱会（热度：479689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E4%B8%8E%E8%8B%8F%E6%9F%90%E6%9B%BE%E5%85%B1%E5%90%8C%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%23" target="weibo">
-顾姓老师与苏某曾共同发明专利（热度：479655）
 </a>
 </li>
 

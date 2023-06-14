@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686720821488,
+  "endTime": 1686723703230,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2107,6 +2107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1486700,
+      "num": 1486700,
+      "word": "医生去世后手机还一直收到患者消息",
+      "onboard_time": 1686716433,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1478298,
       "num": 1478298,
       "word": "王源易烊千玺工作室出图",
@@ -3147,14 +3155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1181799,
-      "num": 1181799,
-      "word": "医生去世后手机还一直收到患者消息",
-      "onboard_time": 1686716433,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1177533,
       "num": 1177533,
       "word": "微博电影之夜红毯",
@@ -3915,6 +3915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1021287,
+      "num": 1021287,
+      "word": "小米回应被印度没收48亿元",
+      "onboard_time": 1686714932,
+      "rank": 23,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1021108,
       "num": 1021108,
       "word": "多家餐饮店因在凉皮放黄瓜丝被罚",
@@ -4017,6 +4025,14 @@
       "onboard_time": 1686139654,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1004776,
+      "num": 432573,
+      "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
+      "onboard_time": 1686719674,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1003756,
@@ -4345,14 +4361,6 @@
       "onboard_time": 1685769449,
       "rank": 15,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 938068,
-      "num": 938068,
-      "word": "小米回应被印度没收48亿元",
-      "onboard_time": 1686714932,
-      "rank": 23,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 938004,
@@ -4897,6 +4905,14 @@
       "onboard_time": 1686363807,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 841811,
+      "num": 841811,
+      "word": "阚清子 叶琳回来啦",
+      "onboard_time": 1686718595,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 840986,
@@ -8107,14 +8123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473432,
-      "num": 432573,
-      "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
-      "onboard_time": 1686719674,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473430,
       "num": 473430,
       "word": "王源限定粉发MV",
@@ -8699,14 +8707,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 431510,
-      "num": 431510,
-      "word": "阚清子 叶琳回来啦",
-      "onboard_time": 1686718595,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431141,
       "num": 264475,
       "word": "嵯峨皮肤",
@@ -9057,6 +9057,14 @@
       "onboard_time": 1685597069,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411362,
+      "num": 411362,
+      "word": "Angelababy甜橙蝴蝶妆",
+      "onboard_time": 1686718415,
+      "rank": 27,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 411222,
@@ -9889,14 +9897,6 @@
       "onboard_time": 1685955867,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369585,
-      "num": 369585,
-      "word": "Angelababy甜橙蝴蝶妆",
-      "onboard_time": 1686718415,
-      "rank": 27,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 369325,
@@ -14331,6 +14331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262193,
+      "num": 262193,
+      "word": "怦然3三男争一女",
+      "onboard_time": 1686722548,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262125,
       "num": 214476,
       "word": "蔡徐坤演唱会",
@@ -18675,6 +18683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "我怕我再不跳她就没机会上来了",
+      "onboard_time": 1686720752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207274,
       "num": 207274,
       "word": "闪电侠",
@@ -19897,6 +19913,14 @@
       "onboard_time": 1686377246,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195356,
+      "num": 189190,
+      "word": "喜欢你4八个人成了两对半",
+      "onboard_time": 1686722490,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 195304,
@@ -21955,6 +21979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179318,
+      "num": 179318,
+      "word": "杨幂黄明昊跳了flower",
+      "onboard_time": 1686722969,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179081,
       "num": 179081,
       "word": "任贤齐长沙演唱会",
@@ -22225,6 +22257,14 @@
       "onboard_time": 1686457890,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176592,
+      "num": 176592,
+      "word": "这些懒东西是来报恩的吧",
+      "onboard_time": 1686722910,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 176475,
@@ -23291,6 +23331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164501,
+      "num": 164501,
+      "word": "出生率",
+      "onboard_time": 1686722849,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "明天有两部新剧开播",
@@ -23531,6 +23579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162232,
+      "num": 162232,
+      "word": "减肥主打一个想象力",
+      "onboard_time": 1686723090,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162146,
       "num": 950893,
       "word": "小伙用泥塑帮300人复活亲人样貌",
@@ -23729,6 +23785,14 @@
       "onboard_time": 1686624209,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 159662,
+      "num": 159662,
+      "word": "戚薇听到会伤害孩子的反应",
+      "onboard_time": 1686723509,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 159478,
@@ -25027,6 +25091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147160,
+      "num": 147160,
+      "word": "Ella 是谁让你们送我莲花",
+      "onboard_time": 1686723628,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147075,
       "num": 147075,
       "word": "这么多年网播定档",
@@ -25272,14 +25344,6 @@
       "word": "感动全网妈妈谈对儿子未来期望",
       "onboard_time": 1686551249,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143392,
-      "num": 143392,
-      "word": "我怕我再不跳她就没机会上来了",
-      "onboard_time": 1686720752,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -31115,6 +31179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21362,
+      "num": 164510,
+      "word": "饿了么申请猜答案免单商标",
+      "onboard_time": 1686722969,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 21272,
       "num": 151626,
       "word": "儿童节收到来自小朋友的反向祝福",
@@ -31137,6 +31209,14 @@
       "onboard_time": 1685703632,
       "rank": 39,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 19874,
+      "num": 485263,
+      "word": "乔欣电影之夜vlog",
+      "onboard_time": 1686722429,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 19833,

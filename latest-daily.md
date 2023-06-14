@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 13:33:41
+本榜单时间：2023/06/14 00:22:30 ~ 2023/06/14 14:21:43
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23" target="weibo">
+医生去世后手机还一直收到患者消息（热度：1486700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E5%8E%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%8C%A8%E4%B8%AA%E6%95%B2%E8%BD%A6%E7%AA%97%E6%B1%82%E5%B8%A6%E7%9C%8B%E8%80%81%E6%88%BF%23" target="weibo">
 老伴去世老人挨个敲车窗求带看老房（热度：1387124）
 </a>
@@ -99,12 +105,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96%E5%90%8E%E6%89%8B%E6%9C%BA%E8%BF%98%E4%B8%80%E7%9B%B4%E6%94%B6%E5%88%B0%E6%82%A3%E8%80%85%E6%B6%88%E6%81%AF%23" target="weibo">
-医生去世后手机还一直收到患者消息（热度：1181799）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%8A%A8%E5%85%AC%E5%B8%83%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23" target="weibo">
 北动公布丫丫最新画面（热度：1176858）
 </a>
@@ -129,20 +129,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23" target="weibo">
+小米回应被印度没收48亿元（热度：1021287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
 天津河东区一小区发生爆炸（热度：1005804）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%B8%A4%E6%AC%A1%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%80%A0%E5%9E%8B%23" target="weibo">
-赵露思 两次宝格丽造型（热度：960904）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%865976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E7%9A%84%E7%94%B7%E5%AD%90%E9%A2%86%E5%A5%96%E6%97%B6%E5%93%86%E5%97%A6%E4%BA%86%23" target="weibo">
+中了5976万彩票大奖的男子领奖时哆嗦了（热度：1004776）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B2%A1%E6%94%B648%E4%BA%BF%E5%85%83%23" target="weibo">
-小米回应被印度没收48亿元（热度：938068）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E4%B8%A4%E6%AC%A1%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%80%A0%E5%9E%8B%23" target="weibo">
+赵露思 两次宝格丽造型（热度：960904）
 </a>
 </li>
 
@@ -179,6 +185,12 @@ Jennie回应演唱会中途离场（热度：893375）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%8423%E5%B2%81%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E8%A2%AB%E9%B2%A8%E9%B1%BC%E6%B4%BB%E5%90%9E%23" target="weibo">
 俄23岁男子游泳时被鲨鱼活吞（热度：857070）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%8F%B6%E7%90%B3%E5%9B%9E%E6%9D%A5%E5%95%A6%23" target="weibo">
+阚清子 叶琳回来啦（热度：841811）
 </a>
 </li>
 
@@ -279,12 +291,6 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%865976%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E7%9A%84%E7%94%B7%E5%AD%90%E9%A2%86%E5%A5%96%E6%97%B6%E5%93%86%E5%97%A6%E4%BA%86%23" target="weibo">
-中了5976万彩票大奖的男子领奖时哆嗦了（热度：473432）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%83%E7%90%86%E4%B8%8A%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BF%87%E7%A8%8B%23" target="weibo">
 梦是一种心理上的转码过程（热度：458080）
 </a>
@@ -309,14 +315,8 @@ Uzi首发对战iG（热度：526808）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%8F%B6%E7%90%B3%E5%9B%9E%E6%9D%A5%E5%95%A6%23" target="weibo">
-阚清子 叶琳回来啦（热度：431510）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%94%9C%E6%A9%99%E8%9D%B4%E8%9D%B6%E5%A6%86%23" target="weibo">
-Angelababy甜橙蝴蝶妆（热度：369585）
+Angelababy甜橙蝴蝶妆（热度：411362）
 </a>
 </li>
 
@@ -477,6 +477,12 @@ Angelababy甜橙蝴蝶妆（热度：369585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E4%B8%89%E7%94%B7%E4%BA%89%E4%B8%80%E5%A5%B3%23" target="weibo">
+怦然3三男争一女（热度：262193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%96%E8%82%89%E5%8F%AA%E8%83%96%E8%82%9A%E5%AD%90%23" target="weibo">
 为什么胖肉只胖肚子（热度：261063）
 </a>
@@ -585,6 +591,12 @@ TT上最火的旅游国家是中国（热度：210597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%80%95%E6%88%91%E5%86%8D%E4%B8%8D%E8%B7%B3%E5%A5%B9%E5%B0%B1%E6%B2%A1%E6%9C%BA%E4%BC%9A%E4%B8%8A%E6%9D%A5%E4%BA%86%23" target="weibo">
+我怕我再不跳她就没机会上来了（热度：207281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%9A%E5%90%8D%E5%9F%8E%E7%AE%A1%E7%96%91%E4%B8%8E%E6%91%8A%E8%B4%A9%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23" target="weibo">
 四川多名城管疑与摊贩发生冲突（热度：207027）
 </a>
@@ -605,6 +617,12 @@ TT上最火的旅游国家是中国（热度：210597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 嵩山音乐节（热度：195377）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%BD%A04%E5%85%AB%E4%B8%AA%E4%BA%BA%E6%88%90%E4%BA%86%E4%B8%A4%E5%AF%B9%E5%8D%8A%23" target="weibo">
+喜欢你4八个人成了两对半（热度：195356）
 </a>
 </li>
 
@@ -711,8 +729,20 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%BB%84%E6%98%8E%E6%98%8A%E8%B7%B3%E4%BA%86flower%23" target="weibo">
+杨幂黄明昊跳了flower（热度：179318）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E6%A2%85%E8%A5%BF%E7%90%83%E7%A5%A8%E7%9A%84%E7%88%B8%E7%88%B8%E5%93%AD%E4%BA%86%23" target="weibo">
 收到梅西球票的爸爸哭了（热度：178110）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E6%87%92%E4%B8%9C%E8%A5%BF%E6%98%AF%E6%9D%A5%E6%8A%A5%E6%81%A9%E7%9A%84%E5%90%A7%23" target="weibo">
+这些懒东西是来报恩的吧（热度：176592）
 </a>
 </li>
 
@@ -771,14 +801,32 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%23" target="weibo">
+出生率（热度：164501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 光与夜之恋（热度：163892）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E6%83%B3%E8%B1%A1%E5%8A%9B%23" target="weibo">
+减肥主打一个想象力（热度：162232）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%E4%B8%8E%E5%8E%9F%E5%8F%91%E7%97%A3%E6%9C%89%E5%85%B3%23" target="weibo">
 部分黑色素瘤与原发痣有关（热度：162133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%90%AC%E5%88%B0%E4%BC%9A%E4%BC%A4%E5%AE%B3%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+戚薇听到会伤害孩子的反应（热度：159662）
 </a>
 </li>
 
@@ -849,6 +897,12 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Ella%20%E6%98%AF%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%80%81%E6%88%91%E8%8E%B2%E8%8A%B1%23" target="weibo">
+Ella 是谁让你们送我莲花（热度：147160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87%E4%B9%9D%E5%B9%B4%23" target="weibo">
 喜欢一个人已经超过九年（热度：146626）
 </a>
@@ -875,12 +929,6 @@ Jennie曾说自己像老奶奶一样浑身是病（热度：189253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%A3%9F%E8%AE%B0%20%E9%95%BF%E6%B2%99%E5%AE%9D%E8%97%8F%E9%A6%86%E5%AD%90%23" target="weibo">
 日食记 长沙宝藏馆子（热度：144097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%80%95%E6%88%91%E5%86%8D%E4%B8%8D%E8%B7%B3%E5%A5%B9%E5%B0%B1%E6%B2%A1%E6%9C%BA%E4%BC%9A%E4%B8%8A%E6%9D%A5%E4%BA%86%23" target="weibo">
-我怕我再不跳她就没机会上来了（热度：143392）
 </a>
 </li>
 
@@ -1073,6 +1121,18 @@ NIP对战OMG（热度：69946）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%9C%9F%E6%9C%AB%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
 大学生的期末精神状态（热度：23892）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E7%94%B3%E8%AF%B7%E7%8C%9C%E7%AD%94%E6%A1%88%E5%85%8D%E5%8D%95%E5%95%86%E6%A0%87%23" target="weibo">
+饿了么申请猜答案免单商标（热度：21362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9Cvlog%23" target="weibo">
+乔欣电影之夜vlog（热度：19874）
 </a>
 </li>
 
