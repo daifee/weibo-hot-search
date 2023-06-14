@@ -1,6 +1,6 @@
 {
   "startTime": 1686673350763,
-  "endTime": 1686707846781,
+  "endTime": 1686710504501,
   "band_list": [
     {
       "raw_hot": 6292850,
@@ -11,8 +11,16 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2462373,
+      "num": 2462373,
+      "word": "人民日报评地铁偷拍乌龙",
+      "onboard_time": 1686703411,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2342513,
-      "num": 627303,
+      "num": 655514,
       "word": "张恒远毕夏",
       "onboard_time": 1686697880,
       "rank": 16,
@@ -25,14 +33,6 @@
       "onboard_time": 1686701731,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1723970,
-      "num": 1723970,
-      "word": "人民日报评地铁偷拍乌龙",
-      "onboard_time": 1686703411,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1665615,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1311578,
+      "num": 637105,
+      "word": "天津大学",
+      "onboard_time": 1686698603,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1253314,
       "num": 1253314,
       "word": "17岁女孩一晚连刷6套卷子后患脑病",
@@ -59,12 +67,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1217891,
-      "num": 637105,
-      "word": "天津大学",
-      "onboard_time": 1686698603,
-      "rank": 22,
-      "category": "社会新闻,教育"
+      "raw_hot": 1146682,
+      "num": 1146682,
+      "word": "老伴去世老人挨个敲车窗求带看老房",
+      "onboard_time": 1686703055,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1063327,
@@ -75,19 +83,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1034185,
+      "num": 612728,
+      "word": "陈冠希偶遇陈小春拍戏",
+      "onboard_time": 1686704435,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1005804,
       "num": 845453,
       "word": "天津河东区一小区发生爆炸",
       "onboard_time": 1686668852,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 984817,
-      "num": 984817,
-      "word": "老伴去世老人挨个敲车窗求带看老房",
-      "onboard_time": 1686703055,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -115,19 +123,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 891545,
-      "num": 612728,
-      "word": "陈冠希偶遇陈小春拍戏",
-      "onboard_time": 1686704435,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 811890,
       "num": 811890,
       "word": "猫的树好会拍",
       "onboard_time": 1686657329,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 785802,
+      "num": 785802,
+      "word": "向佐新片打戏误伤唐诗逸",
+      "onboard_time": 1686708450,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 716775,
+      "num": 716775,
+      "word": "这居然是刘恋",
+      "onboard_time": 1686700949,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 707420,
       "num": 360860,
       "word": "员工入职一个半月怀孕了",
@@ -147,12 +163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 694466,
-      "num": 694466,
-      "word": "这居然是刘恋",
-      "onboard_time": 1686700949,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 674818,
+      "num": 316435,
+      "word": "实习生发错信息到工作群",
+      "onboard_time": 1686708388,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 638230,
@@ -363,6 +379,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 271213,
+      "num": 271213,
+      "word": "教资认定",
+      "onboard_time": 1686709949,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264280,
       "num": 264280,
       "word": "李耕耘 虽糙但帅",
@@ -393,6 +417,30 @@
       "onboard_time": 1686701911,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250902,
+      "num": 250902,
+      "word": "为什么坐飞机要用结实的旅行箱",
+      "onboard_time": 1686707309,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242949,
+      "num": 225801,
+      "word": "姆巴佩说梅西没得到应有的尊重",
+      "onboard_time": 1686709587,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230766,
+      "num": 230766,
+      "word": "梦之海阵容官宣",
+      "onboard_time": 1686708388,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 228286,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202565,
+      "num": 202565,
+      "word": "汪峰战队",
+      "onboard_time": 1686708987,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196106,
       "num": 196106,
       "word": "年轻人不爱发朋友圈的原因",
@@ -464,14 +520,6 @@
       "word": "和爸爸骑游中国的白血病男孩离世",
       "onboard_time": 1686657267,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192103,
-      "num": 192103,
-      "word": "为什么坐飞机要用结实的旅行箱",
-      "onboard_time": 1686707309,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -555,12 +603,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178196,
+      "num": 178196,
+      "word": "王鹤棣听到粉丝喊老公上错车",
+      "onboard_time": 1686709827,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 178110,
       "num": 178110,
       "word": "收到梅西球票的爸爸哭了",
       "onboard_time": 1686704494,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177578,
+      "num": 177578,
+      "word": "大叔地铁上喝斥女生强制要求让座",
+      "onboard_time": 1686708928,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175569,
@@ -611,12 +675,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159067,
+      "num": 159067,
+      "word": "部分黑色素瘤与原发痣有关",
+      "onboard_time": 1686709467,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158981,
       "num": 158981,
       "word": "消防员高温天连续灭火体力不支中暑",
       "onboard_time": 1686706171,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155940,
+      "num": 155940,
+      "word": "报备和分享是两件事",
+      "onboard_time": 1686708748,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 149056,
@@ -651,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131916,
+      "num": 131916,
+      "word": "詹雯婷方严正声明",
+      "onboard_time": 1686710007,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131442,
       "num": 131442,
       "word": "沈梦辰 我的故事刚翻到第34页",
@@ -665,6 +753,22 @@
       "onboard_time": 1686663209,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126130,
+      "num": 126130,
+      "word": "杭州亚运会筹办情况发布会",
+      "onboard_time": 1686710488,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 125587,
+      "num": 125587,
+      "word": "隐藏在原生家庭最可怕的东西",
+      "onboard_time": 1686709949,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 123264,
@@ -755,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73218,
+      "num": 1472078,
+      "word": "杭州迎亚运风光片",
+      "onboard_time": 1686710488,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69946,
       "num": 69946,
       "word": "NIP对战OMG",
@@ -816,6 +928,14 @@
       "word": "从12米高处跳江小哥讲述救人全过程",
       "onboard_time": 1686679754,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24009,
+      "num": 193083,
+      "word": "街头公益钢琴流淌的是温情和梦想",
+      "onboard_time": 1686710308,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
