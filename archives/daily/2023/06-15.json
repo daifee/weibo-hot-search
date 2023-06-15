@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686825284793,
+  "endTime": 1686827649078,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1049700,
+      "num": 911393,
+      "word": "过度打扮的女友和随意的男友",
+      "onboard_time": 1686818427,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1039402,
       "num": 1039402,
       "word": "考古女生寄200斤洛阳铲装备吓坏父母",
@@ -249,14 +257,6 @@
       "onboard_time": 1686800906,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 911393,
-      "num": 911393,
-      "word": "过度打扮的女友和随意的男友",
-      "onboard_time": 1686818427,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 910998,
@@ -491,6 +491,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 546209,
+      "num": 546209,
+      "word": "梅西今晚离开北京",
+      "onboard_time": 1686822265,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 530163,
+      "num": 530163,
+      "word": "张小斐说现在的红毯生图非常生",
+      "onboard_time": 1686824365,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 511973,
       "num": 511973,
       "word": "黄永玉逝世",
@@ -507,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 483119,
+      "num": 483119,
+      "word": "梅西首发",
+      "onboard_time": 1686826769,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480041,
       "num": 480041,
       "word": "徐志胜会说话就多说点",
@@ -520,6 +544,14 @@
       "word": "家属回应女子被丈夫跨省杀害",
       "onboard_time": 1686784641,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454038,
+      "num": 454038,
+      "word": "一周工作1小时及以上属于就业",
+      "onboard_time": 1686822807,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -569,14 +601,6 @@
       "onboard_time": 1686798087,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390593,
-      "num": 390593,
-      "word": "梅西今晚离开北京",
-      "onboard_time": 1686822265,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 384257,
@@ -675,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319594,
+      "num": 319594,
+      "word": "妈妈得了阿尔兹海默症 爸爸就是特效药",
+      "onboard_time": 1686822265,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318403,
       "num": 318403,
       "word": "卖荷花的爷爷剥开了盛夏",
@@ -683,19 +715,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315139,
+      "num": 315139,
+      "word": "长风渡",
+      "onboard_time": 1686824546,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309545,
       "num": 309545,
       "word": "比尔盖茨自2019年以来首次抵达北京",
       "onboard_time": 1686754292,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308764,
-      "num": 308764,
-      "word": "一周工作1小时及以上属于就业",
-      "onboard_time": 1686822807,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -707,8 +739,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295382,
-      "num": 295382,
+      "raw_hot": 298249,
+      "num": 298249,
       "word": "梅西球迷",
       "onboard_time": 1686822628,
       "rank": 25,
@@ -811,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269287,
-      "num": 269287,
-      "word": "妈妈得了阿尔兹海默症 爸爸就是特效药",
-      "onboard_time": 1686822265,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268013,
       "num": 268013,
       "word": "李一桐又剪短发了",
@@ -891,12 +915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239643,
-      "num": 239643,
-      "word": "长风渡",
-      "onboard_time": 1686824546,
+      "raw_hot": 242409,
+      "num": 242409,
+      "word": "刘诗诗肩颈线",
+      "onboard_time": 1686826827,
       "rank": 28,
-      "category": "影视"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239537,
@@ -913,6 +937,22 @@
       "onboard_time": 1686792688,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235202,
+      "num": 235202,
+      "word": "自己供自己上了四年的大学",
+      "onboard_time": 1686827425,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 234602,
+      "num": 234602,
+      "word": "女博士后实名举报任职教师老公家暴",
+      "onboard_time": 1686827066,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 234252,
@@ -972,7 +1012,7 @@
     },
     {
       "raw_hot": 226976,
-      "num": 230223,
+      "num": 237075,
       "word": "梅西寄语热爱足球的中国少年",
       "onboard_time": 1686819328,
       "rank": 28,
@@ -1003,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221090,
+      "num": 221090,
+      "word": "工体现场",
+      "onboard_time": 1686826045,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217579,
       "num": 217579,
       "word": "严浩翔学跳泰国舞",
@@ -1027,20 +1075,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 217061,
+      "num": 217061,
+      "word": "辛芷蕾一人分饰二十角",
+      "onboard_time": 1686822929,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215960,
       "num": 165996,
       "word": "坐爸爸的车往返医院仅收起步价",
       "onboard_time": 1686808706,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215094,
-      "num": 215094,
-      "word": "张小斐说现在的红毯生图非常生",
-      "onboard_time": 1686824365,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214813,
@@ -1057,6 +1105,22 @@
       "onboard_time": 1686805468,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 213583,
+      "num": 213583,
+      "word": "祖坟也得休息休息",
+      "onboard_time": 1686825149,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213440,
+      "num": 213440,
+      "word": "孙怡搂江疏影腰睡觉",
+      "onboard_time": 1686826287,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 213351,
@@ -1123,6 +1187,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 204648,
+      "num": 204648,
+      "word": "金在中公司开业SMTOWN送花篮",
+      "onboard_time": 1686827367,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203305,
       "num": 203305,
       "word": "闪耀暖暖甄嬛传",
@@ -1147,19 +1219,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201226,
-      "num": 201226,
-      "word": "辛芷蕾一人分饰二十角",
-      "onboard_time": 1686822929,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199394,
       "num": 199394,
       "word": "全网找寻京A8852",
       "onboard_time": 1686790590,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199337,
+      "num": 300491,
+      "word": "9岁娃深夜捡瓶子男子塞钱催快回家",
+      "onboard_time": 1686826646,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1265,14 +1337,6 @@
       "onboard_time": 1686817167,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191568,
-      "num": 191568,
-      "word": "祖坟也得休息休息",
-      "onboard_time": 1686825149,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 190270,
@@ -1419,6 +1483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 166608,
+      "num": 752561,
+      "word": "儿子火场救人后爸爸又跳河救人",
+      "onboard_time": 1686824907,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166240,
       "num": 166240,
       "word": "宋亚轩刘耀文打羽毛球",
@@ -1473,14 +1545,6 @@
       "onboard_time": 1686809607,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161751,
-      "num": 752561,
-      "word": "儿子火场救人后爸爸又跳河救人",
-      "onboard_time": 1686824907,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161200,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1686819448,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 151451,
+      "num": 145530,
+      "word": "薛之谦新歌预告照",
+      "onboard_time": 1686827306,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 150323,
@@ -1691,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139865,
+      "num": 139865,
+      "word": "办公室总有一种魔力",
+      "onboard_time": 1686827425,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 139525,
       "num": 139525,
       "word": "杜富国负伤雷场种的茶被命名富国茶",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1686795927,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134474,
+      "num": 134474,
+      "word": "AL上野",
+      "onboard_time": 1686827547,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 133609,
@@ -2315,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43373,
+      "num": 1020717,
+      "word": "用漫画圆戍边英雄未实现的心愿",
+      "onboard_time": 1686816388,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35859,
       "num": 36399,
       "word": "RNG",
@@ -2339,12 +2435,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 25014,
-      "num": 1020717,
-      "word": "用漫画圆戍边英雄未实现的心愿",
-      "onboard_time": 1686816388,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 29260,
+      "num": 383714,
+      "word": "周也说自己摔的跟头自己爬起来",
+      "onboard_time": 1686826827,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 19496,
@@ -2352,6 +2448,14 @@
       "word": "杭州迎亚运风光片",
       "onboard_time": 1686710488,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17288,
+      "num": 183644,
+      "word": "拍拍乐请网友看亚运比赛",
+      "onboard_time": 1686826827,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
