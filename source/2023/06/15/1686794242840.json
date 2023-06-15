@@ -1,0 +1,410 @@
+{
+  "runTime": 1686794242840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1808067,
+        "num": 1808067,
+        "word": "迪士尼回应女子穿联名汉服被拦",
+        "onboard_time": 1686786927,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1462565,
+        "num": 1462565,
+        "word": "上海地震",
+        "onboard_time": 1686766515,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18579,
+        "num": 1183858,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997805,
+        "num": 997805,
+        "word": "鱼头星星回来了",
+        "onboard_time": 1686787590,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 946933,
+        "num": 946933,
+        "word": "上厕所时千万不要蹲在马桶上",
+        "onboard_time": 1686786927,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 910094,
+        "num": 910094,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788970,
+        "num": 788970,
+        "word": "S属性大爆发",
+        "onboard_time": 1686750210,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 759936,
+        "num": 759936,
+        "word": "杨幂卷发军装路透",
+        "onboard_time": 1686786265,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672049,
+        "num": 672049,
+        "word": "蒋依依毕业照",
+        "onboard_time": 1686788433,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667086,
+        "num": 667086,
+        "word": "温州近视司机深夜高速上镜片突然脱落",
+        "onboard_time": 1686758726,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238098,
+        "num": 646592,
+        "word": "河北师大混入女浴室男子被控制",
+        "onboard_time": 1686790472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829100,
+        "num": 645244,
+        "word": "张杰谢娜带女儿上早教",
+        "onboard_time": 1686786566,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623401,
+        "num": 623401,
+        "word": "宋仲基儿子出生",
+        "onboard_time": 1686748169,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494239,
+        "num": 494239,
+        "word": "韩国摄影师在廉租房生活拍摄3年",
+        "onboard_time": 1686757050,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441913,
+        "num": 441913,
+        "word": "家属回应女子被丈夫跨省杀害",
+        "onboard_time": 1686784641,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402154,
+        "num": 402154,
+        "word": "双宋彻底BE",
+        "onboard_time": 1686749610,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321972,
+        "num": 321972,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304471,
+        "num": 304471,
+        "word": "关晓彤第一套vs第二套",
+        "onboard_time": 1686741986,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269882,
+        "num": 269882,
+        "word": "杭州蓝色钱江纵火案房源以2360万元网签",
+        "onboard_time": 1686792088,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266245,
+        "num": 266245,
+        "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+        "onboard_time": 1686754593,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481067,
+        "num": 258792,
+        "word": "常远是离肠癌远一点",
+        "onboard_time": 1686784521,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451431,
+        "num": 254542,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364531,
+        "num": 248740,
+        "word": "亚运会",
+        "onboard_time": 1686793169,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348985,
+        "num": 237743,
+        "word": "妈妈对我俄罗斯男友的称呼",
+        "onboard_time": 1686786506,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289169,
+        "num": 232287,
+        "word": "幸好肖春生留了底",
+        "onboard_time": 1686792806,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225845,
+        "num": 225845,
+        "word": "社会的边角料却是家里的顶梁柱",
+        "onboard_time": 1686792806,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218203,
+        "num": 218203,
+        "word": "陈都灵说演员不是非得演女一男一",
+        "onboard_time": 1686792208,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197743,
+        "num": 197743,
+        "word": "接下来1个月浙江人的水果C位",
+        "onboard_time": 1686793348,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 196739,
+        "num": 196739,
+        "word": "恩佐 小蜘蛛",
+        "onboard_time": 1686791189,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183429,
+        "num": 183429,
+        "word": "全网找寻京A8852",
+        "onboard_time": 1686790590,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178236,
+        "num": 178236,
+        "word": "那个好玩的老头儿走了",
+        "onboard_time": 1686784704,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176237,
+        "num": 176237,
+        "word": "上海青浦区发生3.1级地震",
+        "onboard_time": 1686784341,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174053,
+        "num": 174053,
+        "word": "张晚意说我是杨紫她哥",
+        "onboard_time": 1686793887,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159435,
+        "num": 159435,
+        "word": "男子赶集买毛蛋到家全变鸭子",
+        "onboard_time": 1686793708,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155436,
+        "num": 155436,
+        "word": "同龄人的朋友圈和我的朋友圈",
+        "onboard_time": 1686787949,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149828,
+        "num": 149828,
+        "word": "你知道迪士尼有着装规定吗",
+        "onboard_time": 1686792927,
+        "rank": 35,
+        "category": "社会议题,旅游"
+      },
+      {
+        "raw_hot": 147083,
+        "num": 147083,
+        "word": "Uzi 回到赛场的感觉真好",
+        "onboard_time": 1686790229,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141367,
+        "num": 141367,
+        "word": "时代少年团录歌",
+        "onboard_time": 1686792806,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140430,
+        "num": 140430,
+        "word": "花戎第二次大婚命案",
+        "onboard_time": 1686789569,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139987,
+        "num": 139987,
+        "word": "派出所打开大门变身晒粮场",
+        "onboard_time": 1686794007,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131409,
+        "num": 131409,
+        "word": "100天后杭州亚运会",
+        "onboard_time": 1686792688,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130805,
+        "num": 130805,
+        "word": "端午还没到阿姨采艾草就掉洞里了",
+        "onboard_time": 1686791909,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130663,
+        "num": 130663,
+        "word": "父亲住院女子将奶奶送养老院遭非议",
+        "onboard_time": 1686790472,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129231,
+        "num": 129231,
+        "word": "福建交警通报货车撞轿车致5死",
+        "onboard_time": 1686786385,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126584,
+        "num": 126584,
+        "word": "梅西苏醒合影",
+        "onboard_time": 1686731490,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 125076,
+        "num": 125076,
+        "word": "麻烦大家帮我P成中国背景",
+        "onboard_time": 1686793948,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123473,
+        "num": 123473,
+        "word": "贺峻霖超话在掉落Q版贺峻霖",
+        "onboard_time": 1686793948,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 123163,
+        "word": "内娱校花",
+        "onboard_time": 1686750870,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116701,
+        "num": 116701,
+        "word": "杭州亚运火种采集仪式",
+        "onboard_time": 1686792447,
+        "rank": 48,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 106848,
+        "num": 106848,
+        "word": "苏醒没有梅西高",
+        "onboard_time": 1686742287,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}

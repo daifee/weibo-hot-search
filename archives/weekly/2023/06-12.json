@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686793098341,
+  "endTime": 1686794242840,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -675,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1238098,
+      "num": 646592,
+      "word": "河北师大混入女浴室男子被控制",
+      "onboard_time": 1686790472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237328,
       "num": 1237328,
       "word": "何瑞贤新剧刚怀孕就被陷害流产",
@@ -955,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1008819,
-      "num": 593095,
-      "word": "河北师大混入女浴室男子被控制",
-      "onboard_time": 1686790472,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1004776,
       "num": 478995,
       "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
@@ -979,20 +979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 997805,
+      "num": 997805,
+      "word": "鱼头星星回来了",
+      "onboard_time": 1686787590,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 981577,
       "num": 870816,
       "word": "苏醒有点人脉",
       "onboard_time": 1686736228,
       "rank": 23,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 980721,
-      "num": 980721,
-      "word": "鱼头星星回来了",
-      "onboard_time": 1686787590,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 974128,
@@ -1027,8 +1027,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 944390,
-      "num": 944390,
+      "raw_hot": 946933,
+      "num": 946933,
       "word": "上厕所时千万不要蹲在马桶上",
       "onboard_time": 1686786927,
       "rank": 4,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1686659067,
       "rank": 23,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 910094,
+      "num": 910094,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 905633,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1686766515,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829100,
+      "num": 645244,
+      "word": "张杰谢娜带女儿上早教",
+      "onboard_time": 1686786566,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 828140,
@@ -1435,12 +1451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672049,
+      "num": 672049,
+      "word": "蒋依依毕业照",
+      "onboard_time": 1686788433,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668496,
       "num": 668496,
       "word": "杭州师范大学回应",
       "onboard_time": 1686646826,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 667086,
+      "num": 667086,
+      "word": "温州近视司机深夜高速上镜片突然脱落",
+      "onboard_time": 1686758726,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662941,
@@ -1465,22 +1497,6 @@
       "onboard_time": 1686572007,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 651429,
-      "num": 651429,
-      "word": "温州近视司机深夜高速上镜片突然脱落",
-      "onboard_time": 1686758726,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649050,
-      "num": 649050,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 645139,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 621143,
-      "num": 621143,
-      "word": "蒋依依毕业照",
-      "onboard_time": 1686788433,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 609366,
@@ -1899,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454449,
-      "num": 454449,
-      "word": "张杰谢娜带女儿上早教",
-      "onboard_time": 1686786566,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443485,
       "num": 307296,
       "word": "LESSERAFIM将来广州开线下签售会",
@@ -2129,6 +2129,14 @@
       "onboard_time": 1686741268,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364531,
+      "num": 248740,
+      "word": "亚运会",
+      "onboard_time": 1686543155,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 364258,
@@ -2715,6 +2723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289169,
+      "num": 232287,
+      "word": "幸好肖春生留了底",
+      "onboard_time": 1686792806,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287770,
       "num": 287770,
       "word": "艾欧尼亚排队",
@@ -2899,6 +2915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269882,
+      "num": 269882,
+      "word": "杭州蓝色钱江纵火案房源以2360万元网签",
+      "onboard_time": 1686792088,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269703,
       "num": 226940,
       "word": "职场无效沟通",
@@ -3008,14 +3032,6 @@
       "word": "你见过699元的袜子吗",
       "onboard_time": 1686531091,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259446,
-      "num": 259446,
-      "word": "杭州蓝色钱江纵火案房源以2360万元网签",
-      "onboard_time": 1686792088,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3675,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225845,
+      "num": 225845,
+      "word": "社会的边角料却是家里的顶梁柱",
+      "onboard_time": 1686792806,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225541,
       "num": 225541,
       "word": "王子奇王玉雯说四搭演西游记",
@@ -3747,14 +3771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222674,
-      "num": 222674,
-      "word": "亚运会",
-      "onboard_time": 1686543155,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221873,
       "num": 221873,
       "word": "我的原生家庭够我吹一辈子",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1686540568,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218203,
+      "num": 218203,
+      "word": "陈都灵说演员不是非得演女一男一",
+      "onboard_time": 1686792208,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 217110,
@@ -4088,14 +4112,6 @@
       "word": "奶狗肖春生vs狼狗肖春生",
       "onboard_time": 1686581191,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208587,
-      "num": 208587,
-      "word": "幸好肖春生留了底",
-      "onboard_time": 1686792806,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -4435,6 +4451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197743,
+      "num": 197743,
+      "word": "接下来1个月浙江人的水果C位",
+      "onboard_time": 1686793348,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 196545,
       "num": 196545,
       "word": "警方回应男子地铁上被俩女子怀疑偷拍",
@@ -4457,14 +4481,6 @@
       "onboard_time": 1686740545,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195540,
-      "num": 195540,
-      "word": "社会的边角料却是家里的顶梁柱",
-      "onboard_time": 1686792806,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 195300,
@@ -5163,6 +5179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174053,
+      "num": 174053,
+      "word": "张晚意说我是杨紫她哥",
+      "onboard_time": 1686793887,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173696,
       "num": 173696,
       "word": "seventeen青岛签售会没有分组",
@@ -5563,6 +5587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159435,
+      "num": 159435,
+      "word": "男子赶集买毛蛋到家全变鸭子",
+      "onboard_time": 1686793708,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159169,
       "num": 159169,
       "word": "张艺兴给新人送二八大杠自行车",
@@ -5833,14 +5865,6 @@
       "onboard_time": 1686757948,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 150093,
-      "num": 150093,
-      "word": "陈都灵说演员不是非得演女一男一",
-      "onboard_time": 1686792208,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 150071,
@@ -6275,6 +6299,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 139987,
+      "num": 139987,
+      "word": "派出所打开大门变身晒粮场",
+      "onboard_time": 1686794007,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139694,
       "num": 139694,
       "word": "如何看待明星说错话",
@@ -6683,6 +6715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125076,
+      "num": 125076,
+      "word": "麻烦大家帮我P成中国背景",
+      "onboard_time": 1686793948,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125059,
       "num": 125059,
       "word": "李沁哭戏主动和导演说再来一遍",
@@ -6713,6 +6753,14 @@
       "onboard_time": 1686619528,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 123473,
+      "num": 123473,
+      "word": "贺峻霖超话在掉落Q版贺峻霖",
+      "onboard_time": 1686793948,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 123264,
