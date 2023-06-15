@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686818024391,
+  "endTime": 1686820589719,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -59,12 +59,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1856178,
+      "num": 1856178,
+      "word": "肯德基广告文案",
+      "onboard_time": 1686816868,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1636685,
       "num": 1636685,
       "word": "杨丽萍孔雀舞中舞者造型被指不雅",
       "onboard_time": 1686802349,
       "rank": 26,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1577625,
+      "num": 462262,
+      "word": "六公主",
+      "onboard_time": 1686817288,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1531824,
@@ -137,6 +153,14 @@
       "onboard_time": 1686749610,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1188404,
+      "num": 1188404,
+      "word": "杨颖代言丸美3年2400万",
+      "onboard_time": 1686816208,
+      "rank": 19,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 1159664,
@@ -307,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789675,
-      "num": 789675,
-      "word": "杨颖代言丸美3年2400万",
-      "onboard_time": 1686816208,
-      "rank": 19,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 788970,
       "num": 788970,
       "word": "S属性大爆发",
@@ -337,6 +353,14 @@
       "onboard_time": 1686731490,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 739250,
+      "num": 739250,
+      "word": "想减肥少吃冰",
+      "onboard_time": 1686815188,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 738239,
@@ -379,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 639789,
-      "num": 639789,
-      "word": "想减肥少吃冰",
-      "onboard_time": 1686815188,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 633623,
       "num": 400757,
       "word": "Jennie道歉评论区",
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585855,
+      "num": 207376,
+      "word": "过度打扮的女友和随意的男友",
+      "onboard_time": 1686818427,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 563110,
       "num": 528888,
       "word": "佟晓梅爸妈演我嗑cp",
@@ -433,14 +457,6 @@
       "onboard_time": 1686798566,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 536504,
-      "num": 536504,
-      "word": "肯德基广告文案",
-      "onboard_time": 1686816868,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511973,
@@ -499,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 401698,
+      "num": 401698,
+      "word": "芭比确认引进",
+      "onboard_time": 1686818607,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400985,
       "num": 400985,
       "word": "鞠婧祎吻戏嘴角上扬",
@@ -539,12 +563,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351611,
+      "num": 351611,
+      "word": "Angelababy黄景瑜 百年灵",
+      "onboard_time": 1686819387,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 341634,
+      "num": 326019,
+      "word": "迪丽热巴转手绢",
+      "onboard_time": 1686819328,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338273,
       "num": 338273,
       "word": "四川省长称帮一把没找到工作的孩子",
       "onboard_time": 1686814045,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337839,
+      "num": 337839,
+      "word": "芭比",
+      "onboard_time": 1686818969,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 334552,
@@ -569,6 +617,14 @@
       "onboard_time": 1686745829,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324355,
+      "num": 324355,
+      "word": "主动辞职可以领取失业金吗",
+      "onboard_time": 1686814949,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 323405,
@@ -643,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279795,
+      "num": 279795,
+      "word": "南宁一公司招实习生月薪300元被骂",
+      "onboard_time": 1686815188,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275255,
       "num": 275255,
       "word": "薛之谦还没找到梅西吗",
@@ -675,14 +739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 270501,
-      "num": 270501,
-      "word": "六公主",
-      "onboard_time": 1686817288,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269882,
       "num": 269882,
       "word": "杭州蓝色钱江纵火案房源以2360万元网签",
@@ -705,14 +761,6 @@
       "onboard_time": 1686742287,
       "rank": 26,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 262171,
-      "num": 262171,
-      "word": "南宁一公司招实习生月薪300元被骂",
-      "onboard_time": 1686815188,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261894,
@@ -763,8 +811,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239537,
+      "num": 239537,
+      "word": "杨丽萍回应舞剧孔雀演员造型",
+      "onboard_time": 1686819387,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236704,
-      "num": 1325946,
+      "num": 1348475,
       "word": "100天后杭州亚运会",
       "onboard_time": 1686792688,
       "rank": 24,
@@ -793,14 +849,6 @@
       "onboard_time": 1686809967,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230196,
-      "num": 230196,
-      "word": "主动辞职可以领取失业金吗",
-      "onboard_time": 1686814949,
-      "rank": 25,
-      "category": "社会议题"
     },
     {
       "raw_hot": 228287,
@@ -841,6 +889,14 @@
       "onboard_time": 1686812725,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219922,
+      "num": 219922,
+      "word": "梅西寄语热爱足球的中国少年",
+      "onboard_time": 1686819328,
+      "rank": 28,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 217579,
@@ -995,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193183,
+      "num": 193183,
+      "word": "工体",
+      "onboard_time": 1686815608,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193037,
       "num": 193037,
       "word": "蔡徐坤双蜡像揭幕",
@@ -1057,6 +1121,22 @@
       "onboard_time": 1686812125,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186264,
+      "num": 186264,
+      "word": "照亮你院长跳楼",
+      "onboard_time": 1686817828,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185502,
+      "num": 185502,
+      "word": "蒋依依粉丝破一千万",
+      "onboard_time": 1686815969,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 185404,
@@ -1243,12 +1323,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 153239,
-      "num": 153239,
-      "word": "工体",
-      "onboard_time": 1686815608,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 152866,
+      "num": 152866,
+      "word": "被小狗的脚脚可爱到了",
+      "onboard_time": 1686819448,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150323,
@@ -1323,14 +1403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145250,
-      "num": 145250,
-      "word": "蒋依依粉丝破一千万",
-      "onboard_time": 1686815969,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144961,
       "num": 144961,
       "word": "丫丫悠闲自在吃竹笋",
@@ -1379,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139525,
+      "num": 139525,
+      "word": "杜富国负伤雷场种的茶被命名富国茶",
+      "onboard_time": 1686819806,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "麻烦大家帮我P成中国背景",
@@ -1387,20 +1467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137832,
+      "num": 137832,
+      "word": "王鹤棣听到粉丝喊亲一个的反应",
+      "onboard_time": 1686820047,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137290,
       "num": 137290,
       "word": "新娘回应结婚退租打扫房间留喜糖",
       "onboard_time": 1686814286,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136864,
-      "num": 136864,
-      "word": "照亮你院长跳楼",
-      "onboard_time": 1686817828,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 136591,
@@ -1449,6 +1529,14 @@
       "onboard_time": 1686812907,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128975,
+      "num": 128975,
+      "word": "半夜狗狗一直在叹气",
+      "onboard_time": 1686819686,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 128488,
@@ -1555,12 +1643,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 120874,
+      "num": 120874,
+      "word": "93岁奶奶为自己葬礼准备的视频",
+      "onboard_time": 1686820467,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120084,
       "num": 120084,
       "word": "沈月 梗王",
       "onboard_time": 1686809306,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120040,
+      "num": 120040,
+      "word": "00后女生邀陌生人拍照记录毕业旅行",
+      "onboard_time": 1686819571,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 119781,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1686816928,
       "rank": 45,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 118256,
+      "num": 118256,
+      "word": "那些被学习耽误的画家",
+      "onboard_time": 1686819866,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 117480,
@@ -1713,6 +1825,14 @@
       "onboard_time": 1686796765,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104805,
+      "num": 104805,
+      "word": "爸妈成了我和男朋友的cp粉头",
+      "onboard_time": 1686818247,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 102857,
@@ -1953,6 +2073,14 @@
       "onboard_time": 1686773292,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11705,
+      "num": 396741,
+      "word": "57岁保姆手掌作画7年成民间画家",
+      "onboard_time": 1686820105,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

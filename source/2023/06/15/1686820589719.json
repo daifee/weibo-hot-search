@@ -1,0 +1,410 @@
+{
+  "runTime": 1686820589719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900168,
+        "num": 1900168,
+        "word": "快乐大本营",
+        "onboard_time": 1686813986,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1856178,
+        "num": 1856178,
+        "word": "肯德基广告文案",
+        "onboard_time": 1686816868,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37826,
+        "num": 1348475,
+        "word": "100天后杭州亚运会",
+        "onboard_time": 1686792688,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1188404,
+        "num": 1188404,
+        "word": "杨颖代言丸美3年2400万",
+        "onboard_time": 1686816208,
+        "rank": 3,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 876105,
+        "num": 876105,
+        "word": "面试三句话让一屋子考官沉默了",
+        "onboard_time": 1686811286,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 788388,
+        "num": 788388,
+        "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
+        "onboard_time": 1686810207,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 739250,
+        "num": 739250,
+        "word": "想减肥少吃冰",
+        "onboard_time": 1686815188,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 604443,
+        "num": 604443,
+        "word": "杨丽萍孔雀舞中舞者造型被指不雅",
+        "onboard_time": 1686802349,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 502094,
+        "num": 502094,
+        "word": "谢娜再去已是嘉宾",
+        "onboard_time": 1686808227,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470017,
+        "num": 470017,
+        "word": "吴京口中的淄博烧烤",
+        "onboard_time": 1686804332,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1577625,
+        "num": 462262,
+        "word": "六公主",
+        "onboard_time": 1686817288,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1097714,
+        "num": 434732,
+        "word": "年赚7位数小三分离师是什么职业",
+        "onboard_time": 1686811404,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886051,
+        "num": 426984,
+        "word": "我国总共600多万青年人失业",
+        "onboard_time": 1686804691,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401698,
+        "num": 401698,
+        "word": "芭比确认引进",
+        "onboard_time": 1686818607,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11705,
+        "num": 396741,
+        "word": "57岁保姆手掌作画7年成民间画家",
+        "onboard_time": 1686820105,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394455,
+        "num": 394455,
+        "word": "同学说我不去椰树可惜了",
+        "onboard_time": 1686800906,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351611,
+        "num": 351611,
+        "word": "Angelababy黄景瑜 百年灵",
+        "onboard_time": 1686819387,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 351323,
+        "num": 351323,
+        "word": "郭富城方媛牵手看赛马",
+        "onboard_time": 1686801688,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337839,
+        "num": 337839,
+        "word": "芭比",
+        "onboard_time": 1686818969,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327206,
+        "num": 327206,
+        "word": "徐志胜会说话就多说点",
+        "onboard_time": 1686813806,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472084,
+        "num": 326446,
+        "word": "郑州大学南校区",
+        "onboard_time": 1686812967,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 341945,
+        "num": 326160,
+        "word": "上班上到爸妈求我辞职",
+        "onboard_time": 1686798208,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 341634,
+        "num": 326019,
+        "word": "迪丽热巴转手绢",
+        "onboard_time": 1686819328,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325502,
+        "num": 325502,
+        "word": "Lisa一身反骨",
+        "onboard_time": 1686812665,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324355,
+        "num": 324355,
+        "word": "主动辞职可以领取失业金吗",
+        "onboard_time": 1686814949,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 279795,
+        "num": 279795,
+        "word": "南宁一公司招实习生月薪300元被骂",
+        "onboard_time": 1686815188,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254927,
+        "num": 254927,
+        "word": "女学霸边读研边兼职3年赚17万",
+        "onboard_time": 1686799166,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239537,
+        "num": 239537,
+        "word": "杨丽萍回应舞剧孔雀演员造型",
+        "onboard_time": 1686819387,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219922,
+        "num": 219922,
+        "word": "梅西寄语热爱足球的中国少年",
+        "onboard_time": 1686819328,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 216072,
+        "num": 216072,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585855,
+        "num": 207376,
+        "word": "过度打扮的女友和随意的男友",
+        "onboard_time": 1686818427,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 193183,
+        "num": 193183,
+        "word": "工体",
+        "onboard_time": 1686815608,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186264,
+        "num": 186264,
+        "word": "照亮你院长跳楼",
+        "onboard_time": 1686817828,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185502,
+        "num": 185502,
+        "word": "蒋依依粉丝破一千万",
+        "onboard_time": 1686815969,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 185220,
+        "word": "四川省长称帮一把没找到工作的孩子",
+        "onboard_time": 1686814045,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "扣饭事件校方在和学生家长沟通处理",
+        "onboard_time": 1686814167,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154281,
+        "num": 154281,
+        "word": "蔡徐坤专辑",
+        "onboard_time": 1686817409,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152866,
+        "num": 152866,
+        "word": "被小狗的脚脚可爱到了",
+        "onboard_time": 1686819448,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148489,
+        "num": 148489,
+        "word": "澳门音乐节 退款",
+        "onboard_time": 1686796346,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140991,
+        "num": 140991,
+        "word": "肖春生你这都不亲",
+        "onboard_time": 1686808286,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139996,
+        "num": 139996,
+        "word": "肖战含冰水拍戏",
+        "onboard_time": 1686813086,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139525,
+        "num": 139525,
+        "word": "杜富国负伤雷场种的茶被命名富国茶",
+        "onboard_time": 1686819806,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137832,
+        "num": 137832,
+        "word": "王鹤棣听到粉丝喊亲一个的反应",
+        "onboard_time": 1686820047,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128975,
+        "num": 128975,
+        "word": "半夜狗狗一直在叹气",
+        "onboard_time": 1686819686,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 124267,
+        "num": 124267,
+        "word": "李一桐又剪短发了",
+        "onboard_time": 1686811286,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120874,
+        "num": 120874,
+        "word": "93岁奶奶为自己葬礼准备的视频",
+        "onboard_time": 1686820467,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120040,
+        "num": 120040,
+        "word": "00后女生邀陌生人拍照记录毕业旅行",
+        "onboard_time": 1686819571,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 118256,
+        "word": "那些被学习耽误的画家",
+        "onboard_time": 1686819866,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117559,
+        "num": 117559,
+        "word": "一只翻肚子睡觉的猫鲨",
+        "onboard_time": 1686808468,
+        "rank": 48,
+        "category": "自然,幽默"
+      },
+      {
+        "raw_hot": 104805,
+        "num": 104805,
+        "word": "爸妈成了我和男朋友的cp粉头",
+        "onboard_time": 1686818247,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴勒斯坦总统举行会谈#"
+    }
+  }
+}

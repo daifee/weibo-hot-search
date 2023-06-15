@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686818024391,
+  "endTime": 1686820589719,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1856178,
+      "num": 1856178,
+      "word": "肯德基广告文案",
+      "onboard_time": 1686816868,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1851482,
       "num": 1851482,
       "word": "EDG战胜iG",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1685754870,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1577625,
+      "num": 462262,
+      "word": "六公主",
+      "onboard_time": 1686817288,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1577327,
@@ -3385,6 +3401,14 @@
       "onboard_time": 1685883630,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1188404,
+      "num": 1188404,
+      "word": "杨颖代言丸美3年2400万",
+      "onboard_time": 1686816208,
+      "rank": 19,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 1184677,
@@ -5811,14 +5835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 789675,
-      "num": 789675,
-      "word": "杨颖代言丸美3年2400万",
-      "onboard_time": 1686816208,
-      "rank": 19,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 787983,
       "num": 787983,
       "word": "赵丽颖 陌森",
@@ -6225,6 +6241,14 @@
       "onboard_time": 1686095909,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 739250,
+      "num": 739250,
+      "word": "想减肥少吃冰",
+      "onboard_time": 1686815188,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 738778,
@@ -6939,14 +6963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 639789,
-      "num": 639789,
-      "word": "想减肥少吃冰",
-      "onboard_time": 1686815188,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 639035,
       "num": 639035,
       "word": "成龙张艺兴娜扎新片传说预告",
@@ -7417,6 +7433,14 @@
       "onboard_time": 1685626290,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 585855,
+      "num": 207376,
+      "word": "过度打扮的女友和随意的男友",
+      "onboard_time": 1686818427,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 585795,
@@ -7993,14 +8017,6 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 536504,
-      "num": 536504,
-      "word": "肯德基广告文案",
-      "onboard_time": 1686816868,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534577,
@@ -9987,6 +10003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401698,
+      "num": 401698,
+      "word": "芭比确认引进",
+      "onboard_time": 1686818607,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401547,
       "num": 401547,
       "word": "一卷历史 两篇小论文",
@@ -11195,6 +11219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351611,
+      "num": 351611,
+      "word": "Angelababy黄景瑜 百年灵",
+      "onboard_time": 1686819387,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "百度贴吧回应女子婚纱照被盗孙吧",
@@ -11523,6 +11555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341634,
+      "num": 326019,
+      "word": "迪丽热巴转手绢",
+      "onboard_time": 1686819328,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341494,
       "num": 341494,
       "word": "扣饭",
@@ -11681,6 +11721,14 @@
       "onboard_time": 1685754269,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337839,
+      "num": 337839,
+      "word": "芭比",
+      "onboard_time": 1686818969,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 337599,
@@ -12249,6 +12297,14 @@
       "onboard_time": 1685675069,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324355,
+      "num": 324355,
+      "word": "主动辞职可以领取失业金吗",
+      "onboard_time": 1686814949,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 324315,
@@ -14203,6 +14259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279795,
+      "num": 279795,
+      "word": "南宁一公司招实习生月薪300元被骂",
+      "onboard_time": 1686815188,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279705,
       "num": 279705,
       "word": "杭州一客车碰撞收费站起火4人死亡",
@@ -14819,14 +14883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270501,
-      "num": 270501,
-      "word": "六公主",
-      "onboard_time": 1686817288,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 270364,
       "num": 270364,
       "word": "才知道实习生工资比我高",
@@ -15353,14 +15409,6 @@
       "onboard_time": 1685620647,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262171,
-      "num": 262171,
-      "word": "南宁一公司招实习生月薪300元被骂",
-      "onboard_time": 1686815188,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262125,
@@ -17067,6 +17115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239537,
+      "num": 239537,
+      "word": "杨丽萍回应舞剧孔雀演员造型",
+      "onboard_time": 1686819387,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239416,
       "num": 192971,
       "word": "往上游再往上游",
@@ -17308,7 +17364,7 @@
     },
     {
       "raw_hot": 236704,
-      "num": 1325946,
+      "num": 1348475,
       "word": "100天后杭州亚运会",
       "onboard_time": 1686792688,
       "rank": 24,
@@ -17857,14 +17913,6 @@
       "onboard_time": 1685764289,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230196,
-      "num": 230196,
-      "word": "主动辞职可以领取失业金吗",
-      "onboard_time": 1686814949,
-      "rank": 25,
-      "category": "社会议题"
     },
     {
       "raw_hot": 230096,
@@ -18769,6 +18817,14 @@
       "onboard_time": 1685626772,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219922,
+      "num": 219922,
+      "word": "梅西寄语热爱足球的中国少年",
+      "onboard_time": 1686819328,
+      "rank": 28,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 219893,
@@ -21763,6 +21819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193183,
+      "num": 193183,
+      "word": "工体",
+      "onboard_time": 1686815608,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193112,
       "num": 193112,
       "word": "Spotify流媒10亿KPOP艺人",
@@ -22931,6 +22995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186264,
+      "num": 186264,
+      "word": "照亮你院长跳楼",
+      "onboard_time": 1686817828,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186253,
       "num": 186253,
       "word": "高考祝福",
@@ -23049,6 +23121,14 @@
       "onboard_time": 1685890897,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185502,
+      "num": 185502,
+      "word": "蒋依依粉丝破一千万",
+      "onboard_time": 1686815969,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 185477,
@@ -26395,14 +26475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153239,
-      "num": 153239,
-      "word": "工体",
-      "onboard_time": 1686815608,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153171,
       "num": 153171,
       "word": "崔叡娜官宣乐华2023家族演唱会",
@@ -26465,6 +26537,14 @@
       "onboard_time": 1686104736,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152866,
+      "num": 152866,
+      "word": "被小狗的脚脚可爱到了",
+      "onboard_time": 1686819448,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152819,
@@ -27243,14 +27323,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 145250,
-      "num": 145250,
-      "word": "蒋依依粉丝破一千万",
-      "onboard_time": 1686815969,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145192,
       "num": 381408,
       "word": "为高考拼过的日夜",
@@ -27859,6 +27931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139525,
+      "num": 139525,
+      "word": "杜富国负伤雷场种的茶被命名富国茶",
+      "onboard_time": 1686819806,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139513,
       "num": 282574,
       "word": "哪个瞬间让你成为主角",
@@ -28027,6 +28107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137832,
+      "num": 137832,
+      "word": "王鹤棣听到粉丝喊亲一个的反应",
+      "onboard_time": 1686820047,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137782,
       "num": 137782,
       "word": "是否生育是你自己的决定",
@@ -28161,14 +28249,6 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136864,
-      "num": 136864,
-      "word": "照亮你院长跳楼",
-      "onboard_time": 1686817828,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 136591,
@@ -28891,6 +28971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128975,
+      "num": 128975,
+      "word": "半夜狗狗一直在叹气",
+      "onboard_time": 1686819686,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 128916,
       "num": 128916,
       "word": "邓为 云秀行",
@@ -29603,6 +29691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120874,
+      "num": 120874,
+      "word": "93岁奶奶为自己葬礼准备的视频",
+      "onboard_time": 1686820467,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120765,
       "num": 120765,
       "word": "马嘉祺还想再练练",
@@ -29665,6 +29761,14 @@
       "onboard_time": 1686809306,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120040,
+      "num": 120040,
+      "word": "00后女生邀陌生人拍照记录毕业旅行",
+      "onboard_time": 1686819571,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 119997,
@@ -29865,6 +29969,14 @@
       "onboard_time": 1686816928,
       "rank": 45,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 118256,
+      "num": 118256,
+      "word": "那些被学习耽误的画家",
+      "onboard_time": 1686819866,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 118148,
@@ -30857,6 +30969,14 @@
       "onboard_time": 1686093321,
       "rank": 48,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 104805,
+      "num": 104805,
+      "word": "爸妈成了我和男朋友的cp粉头",
+      "onboard_time": 1686818247,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104740,
@@ -34057,6 +34177,14 @@
       "onboard_time": 1686167293,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 11705,
+      "num": 396741,
+      "word": "57岁保姆手掌作画7年成民间画家",
+      "onboard_time": 1686820105,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9934,
