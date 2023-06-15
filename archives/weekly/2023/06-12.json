@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686836139038,
+  "endTime": 1686838527082,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -105,6 +105,14 @@
       "onboard_time": 1686808227,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2749756,
+      "num": 2749756,
+      "word": "阿根廷2比0",
+      "onboard_time": 1686836550,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2705612,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 2103908,
-      "num": 722230,
+      "num": 780792,
       "word": "六公主",
       "onboard_time": 1686817288,
       "rank": 19,
@@ -489,6 +497,14 @@
       "onboard_time": 1686632673,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1692122,
+      "num": 1692122,
+      "word": "杨紫羊毛卷",
+      "onboard_time": 1686835465,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1677009,
@@ -995,6 +1011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1103197,
+      "num": 1103197,
+      "word": "梅西过人好牛",
+      "onboard_time": 1686837268,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1097871,
       "num": 1097871,
       "word": "嵩山音乐节",
@@ -1259,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923060,
+      "num": 781426,
+      "word": "青2黄一鸣生女",
+      "onboard_time": 1686836550,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 919916,
       "num": 919916,
       "word": "梅西说不会参加下届世界杯",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1686545979,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 846805,
+      "num": 846805,
+      "word": "梅西球迷",
+      "onboard_time": 1686822628,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 841811,
@@ -2483,14 +2523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 406518,
-      "num": 406518,
-      "word": "梅西球迷",
-      "onboard_time": 1686822628,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -2811,14 +2843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345099,
-      "num": 345099,
-      "word": "杨紫羊毛卷",
-      "onboard_time": 1686835465,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 343025,
       "num": 343025,
       "word": "let me in",
@@ -3041,6 +3065,14 @@
       "onboard_time": 1686814949,
       "rank": 25,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 323895,
+      "num": 323895,
+      "word": "高考结束发现被妈妈骗了",
+      "onboard_time": 1686835948,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 323468,
@@ -3275,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298695,
+      "num": 298695,
+      "word": "刘诗诗项链耳环好多葫芦",
+      "onboard_time": 1686836009,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 298145,
       "num": 298145,
       "word": "护心做到了有始有终",
@@ -3321,6 +3361,14 @@
       "onboard_time": 1686718893,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293432,
+      "num": 293432,
+      "word": "司机 你怎么知道我绕路的",
+      "onboard_time": 1686834447,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 292165,
@@ -3689,6 +3737,14 @@
       "onboard_time": 1686670708,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263750,
+      "num": 263750,
+      "word": "易烊千玺亮相金爵奖颁奖典礼",
+      "onboard_time": 1686836667,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 262906,
@@ -4379,6 +4435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231517,
+      "num": 231517,
+      "word": "zerobaseone",
+      "onboard_time": 1686835647,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231195,
       "num": 231195,
       "word": "离月亮很近的那颗星星叫什么",
@@ -4433,6 +4497,14 @@
       "onboard_time": 1686825086,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228500,
+      "num": 228500,
+      "word": "武汉商学院",
+      "onboard_time": 1686838050,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228493,
@@ -4635,14 +4707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223709,
-      "num": 223709,
-      "word": "高考结束发现被妈妈骗了",
-      "onboard_time": 1686835948,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223191,
       "num": 223191,
       "word": "一诺首次缺席首发",
@@ -4665,6 +4729,14 @@
       "onboard_time": 1686641909,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221951,
+      "num": 221951,
+      "word": "女儿突遭恶犬袭击男子抬臂拼力抵挡",
+      "onboard_time": 1686835948,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221873,
@@ -4987,14 +5059,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 210485,
-      "num": 210485,
-      "word": "zerobaseone",
-      "onboard_time": 1686835647,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210434,
       "num": 210434,
       "word": "教体局回应校长与女教师发生肢体冲突",
@@ -5105,14 +5169,6 @@
       "onboard_time": 1686822807,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207976,
-      "num": 198003,
-      "word": "司机 你怎么知道我绕路的",
-      "onboard_time": 1686834447,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 207320,
@@ -5249,14 +5305,6 @@
       "onboard_time": 1686573030,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204137,
-      "num": 204137,
-      "word": "刘诗诗项链耳环好多葫芦",
-      "onboard_time": 1686836009,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 203595,
@@ -6499,6 +6547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172203,
+      "num": 172203,
+      "word": "张真源晒照为贺峻霖庆生",
+      "onboard_time": 1686837147,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172200,
       "num": 172200,
       "word": "这毕业礼物非送不可吗",
@@ -6633,6 +6689,14 @@
       "onboard_time": 1686577949,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 168729,
+      "num": 168729,
+      "word": "阿根廷直播",
+      "onboard_time": 1686833247,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 168710,
@@ -6945,6 +7009,14 @@
       "onboard_time": 1686793708,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159250,
+      "num": 159250,
+      "word": "北京警方发布梅西球赛观赛提示",
+      "onboard_time": 1686815489,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 159169,
@@ -7691,14 +7763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141913,
-      "num": 141913,
-      "word": "女儿突遭恶犬袭击男子抬臂拼力抵挡",
-      "onboard_time": 1686835948,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141628,
       "num": 141628,
       "word": "王俊凯新片路透",
@@ -7945,14 +8009,6 @@
       "onboard_time": 1686572307,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137399,
-      "num": 137399,
-      "word": "阿根廷直播",
-      "onboard_time": 1686833247,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 137387,
@@ -8257,14 +8313,6 @@
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 128980,
-      "num": 128980,
-      "word": "北京警方发布梅西球赛观赛提示",
-      "onboard_time": 1686815489,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128975,
@@ -9603,6 +9651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48292,
+      "num": 1706027,
+      "word": "130秒飞阅杭州亚运会场馆",
+      "onboard_time": 1686835407,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48236,
       "num": 452397,
       "word": "今晚我们都是梅西",
@@ -9769,14 +9825,6 @@
       "onboard_time": 1686679754,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26791,
-      "num": 1544066,
-      "word": "130秒飞阅杭州亚运会场馆",
-      "onboard_time": 1686835407,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 26741,
