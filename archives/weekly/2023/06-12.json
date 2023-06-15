@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686849348705,
+  "endTime": 1686850407066,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -9699,6 +9699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68790,
+      "num": 68790,
+      "word": "第一次感觉老头背心好帅",
+      "onboard_time": 1686847941,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68429,
       "num": 68429,
       "word": "黄子韬马伯骞星电音路透",
@@ -9737,14 +9745,6 @@
       "onboard_time": 1686610999,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65803,
-      "num": 65803,
-      "word": "第一次感觉老头背心好帅",
-      "onboard_time": 1686847941,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65598,
