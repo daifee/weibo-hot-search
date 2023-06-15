@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686820589719,
+  "endTime": 1686821714990,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -593,6 +593,14 @@
       "onboard_time": 1686315929,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2521682,
+      "num": 1856178,
+      "word": "肯德基广告文案",
+      "onboard_time": 1686816868,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2512576,
@@ -1491,12 +1499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1856178,
-      "num": 1856178,
-      "word": "肯德基广告文案",
-      "onboard_time": 1686816868,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 1857417,
+      "num": 516660,
+      "word": "六公主",
+      "onboard_time": 1686817288,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 1851482,
@@ -2057,14 +2065,6 @@
       "onboard_time": 1685754870,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1577625,
-      "num": 462262,
-      "word": "六公主",
-      "onboard_time": 1686817288,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 1577327,
@@ -4643,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956653,
+      "num": 956653,
+      "word": "Angelababy黄景瑜 百年灵",
+      "onboard_time": 1686819387,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 955471,
       "num": 955471,
       "word": "专家称不排除二阳后还会有三阳",
@@ -4899,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911393,
+      "num": 911393,
+      "word": "过度打扮的女友和随意的男友",
+      "onboard_time": 1686818427,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 910998,
       "num": 386998,
       "word": "中1000万和挣1000万哪个概率更大",
@@ -5067,6 +5083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 888221,
+      "num": 888221,
+      "word": "面试三句话让一屋子考官沉默了",
+      "onboard_time": 1686811286,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 888042,
       "num": 888042,
       "word": "WBG零封JDG",
@@ -5089,14 +5113,6 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 881534,
-      "num": 881534,
-      "word": "面试三句话让一屋子考官沉默了",
-      "onboard_time": 1686811286,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 880234,
@@ -7433,14 +7449,6 @@
       "onboard_time": 1685626290,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 585855,
-      "num": 207376,
-      "word": "过度打扮的女友和随意的男友",
-      "onboard_time": 1686818427,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 585795,
@@ -11219,14 +11227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351611,
-      "num": 351611,
-      "word": "Angelababy黄景瑜 百年灵",
-      "onboard_time": 1686819387,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 350994,
       "num": 350994,
       "word": "百度贴吧回应女子婚纱照被盗孙吧",
@@ -13473,6 +13473,14 @@
       "onboard_time": 1685761469,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294941,
+      "num": 294941,
+      "word": "被七彩盐湖治愈了",
+      "onboard_time": 1686821308,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 294381,
@@ -18211,6 +18219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226976,
+      "num": 226976,
+      "word": "梅西寄语热爱足球的中国少年",
+      "onboard_time": 1686819328,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 226943,
       "num": 226943,
       "word": "朋友圈宣传都不要常识吗",
@@ -18817,14 +18833,6 @@
       "onboard_time": 1685626772,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219922,
-      "num": 219922,
-      "word": "梅西寄语热爱足球的中国少年",
-      "onboard_time": 1686819328,
-      "rank": 28,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 219893,
@@ -19521,6 +19529,14 @@
       "onboard_time": 1685581047,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213351,
+      "num": 213351,
+      "word": "照亮你院长跳楼",
+      "onboard_time": 1686817828,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 213304,
@@ -20273,6 +20289,14 @@
       "onboard_time": 1686322653,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206231,
+      "num": 206231,
+      "word": "卖杏老人儿子望偷拿女子澄清或道歉",
+      "onboard_time": 1686821188,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206171,
@@ -21529,6 +21553,14 @@
       "onboard_time": 1685954789,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195225,
+      "num": 195225,
+      "word": "朱一龙倪妮VOGUEfilm短片预告",
+      "onboard_time": 1686821067,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195209,
@@ -22992,14 +23024,6 @@
       "word": "肖春生你怎么能瞎说呢",
       "onboard_time": 1686384750,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 186264,
-      "num": 186264,
-      "word": "照亮你院长跳楼",
-      "onboard_time": 1686817828,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -25113,6 +25137,14 @@
       "onboard_time": 1685615248,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165663,
+      "num": 165663,
+      "word": "李佳琦预告",
+      "onboard_time": 1686821006,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 165574,
@@ -28179,6 +28211,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 137387,
+      "num": 137387,
+      "word": "93岁奶奶为自己葬礼准备的视频",
+      "onboard_time": 1686820467,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137317,
       "num": 137317,
       "word": "马思纯赵今麦李兰迪同品牌拍摄",
@@ -28249,6 +28289,14 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136808,
+      "num": 136808,
+      "word": "宁艺卓一字肩黑色公主裙",
+      "onboard_time": 1686821188,
+      "rank": 40,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 136591,
@@ -29619,6 +29667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121383,
+      "num": 121383,
+      "word": "Hero对战DYG",
+      "onboard_time": 1686820708,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121353,
       "num": 121353,
       "word": "杭师大称正在调查后续会通报",
@@ -29689,14 +29745,6 @@
       "onboard_time": 1685948426,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120874,
-      "num": 120874,
-      "word": "93岁奶奶为自己葬礼准备的视频",
-      "onboard_time": 1686820467,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 120765,
@@ -33323,6 +33371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47338,
+      "num": 419948,
+      "word": "57岁保姆手掌作画7年成民间画家",
+      "onboard_time": 1686820105,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47271,
       "num": 47271,
       "word": "宋祖儿特别出演热烈",
@@ -34177,14 +34233,6 @@
       "onboard_time": 1686167293,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 11705,
-      "num": 396741,
-      "word": "57岁保姆手掌作画7年成民间画家",
-      "onboard_time": 1686820105,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9934,
