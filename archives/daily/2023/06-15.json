@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686806162104,
+  "endTime": 1686807229937,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -27,20 +27,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1636685,
+      "num": 1636685,
+      "word": "杨丽萍孔雀舞中舞者造型被指不雅",
+      "onboard_time": 1686802349,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1531824,
       "num": 1531824,
       "word": "House脱口秀演出剧院被罚10万",
       "onboard_time": 1686799290,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1515127,
-      "num": 1515127,
-      "word": "杨丽萍孔雀舞中舞者造型被指不雅",
-      "onboard_time": 1686802349,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1426410,
@@ -81,6 +81,14 @@
       "onboard_time": 1686790472,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237520,
+      "num": 1237520,
+      "word": "吴京口中的淄博烧烤",
+      "onboard_time": 1686804332,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1233028,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 916761,
-      "num": 480299,
+      "num": 907786,
       "word": "同学说我不去椰树可惜了",
       "onboard_time": 1686800906,
       "rank": 30,
@@ -153,6 +161,14 @@
       "onboard_time": 1686800127,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 910421,
+      "num": 910421,
+      "word": "女子在行政大厅厕所捡到婴儿",
+      "onboard_time": 1686803730,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 878545,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 865783,
-      "num": 518318,
+      "num": 593430,
       "word": "郭富城方媛牵手看赛马",
       "onboard_time": 1686801688,
       "rank": 19,
@@ -267,11 +283,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 710002,
-      "num": 710002,
-      "word": "女子在行政大厅厕所捡到婴儿",
-      "onboard_time": 1686803730,
-      "rank": 6,
+      "raw_hot": 710655,
+      "num": 710655,
+      "word": "我国总共600多万青年人失业",
+      "onboard_time": 1686804691,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675261,
+      "num": 675261,
+      "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
+      "onboard_time": 1686805888,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480573,
-      "num": 480573,
-      "word": "吴京口中的淄博烧烤",
-      "onboard_time": 1686804332,
-      "rank": 9,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 455500,
       "num": 455500,
       "word": "家属回应女子被丈夫跨省杀害",
@@ -377,14 +393,6 @@
       "onboard_time": 1686798087,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 389929,
-      "num": 389929,
-      "word": "我国总共600多万青年人失业",
-      "onboard_time": 1686804691,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384257,
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228287,
+      "num": 228287,
+      "word": "为什么建议把一件事做到极致",
+      "onboard_time": 1686806547,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228109,
       "num": 228109,
       "word": "单身才能睡个好觉",
@@ -609,6 +625,14 @@
       "onboard_time": 1686792806,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225200,
+      "num": 225200,
+      "word": "谢娜录制你好星期六路透",
+      "onboard_time": 1686805948,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 217164,
@@ -739,20 +763,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192708,
-      "num": 192708,
-      "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
-      "onboard_time": 1686805888,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191941,
       "num": 191941,
       "word": "易烊千玺易燃装置聚餐",
       "onboard_time": 1686741268,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190270,
+      "num": 190270,
+      "word": "吃完西瓜感觉自己像榨汁机",
+      "onboard_time": 1686806967,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 189614,
@@ -769,6 +793,14 @@
       "onboard_time": 1686792927,
       "rank": 33,
       "category": "社会议题,旅游"
+    },
+    {
+      "raw_hot": 187101,
+      "num": 187101,
+      "word": "电影我爱你",
+      "onboard_time": 1686806667,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 185404,
@@ -809,14 +841,6 @@
       "onboard_time": 1686792806,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 177726,
-      "num": 177726,
-      "word": "谢娜录制你好星期六路透",
-      "onboard_time": 1686805948,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 176911,
@@ -939,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148175,
+      "num": 148175,
+      "word": "新型不孝",
+      "onboard_time": 1686806908,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146956,
       "num": 146956,
       "word": "河南警察夫妻度蜜月顺便抓3人",
@@ -953,6 +985,14 @@
       "onboard_time": 1686753453,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144160,
+      "num": 144160,
+      "word": "王宝强说演不过这些素人小演员",
+      "onboard_time": 1686806667,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 142439,
@@ -977,6 +1017,14 @@
       "onboard_time": 1686750210,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141231,
+      "num": 164708,
+      "word": "种地吧",
+      "onboard_time": 1686804389,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 139987,
@@ -1019,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132926,
-      "num": 164708,
-      "word": "种地吧",
-      "onboard_time": 1686804389,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128488,
       "num": 128488,
       "word": "生气小狗滤镜",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1686725069,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125327,
+      "num": 125327,
+      "word": "上海地震瞬间男子第一时间护住妻子",
+      "onboard_time": 1686806248,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124760,
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 102213,
-      "num": 1169574,
+      "num": 1212108,
       "word": "相约2023杭州亚运会",
       "onboard_time": 1686799767,
       "rank": 2,
@@ -1347,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34368,
+      "num": 556454,
+      "word": "浙江七旬义工离世留下精神宝箱",
+      "onboard_time": 1686805289,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31584,
       "num": 31584,
       "word": "双蔡双杰",
@@ -1360,14 +1416,6 @@
       "word": "杭州迎亚运风光片",
       "onboard_time": 1686710488,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18631,
-      "num": 479934,
-      "word": "浙江七旬义工离世留下精神宝箱",
-      "onboard_time": 1686805289,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
