@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686846108446,
+  "endTime": 1686847016242,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -923,6 +923,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2219766,
+      "num": 2219766,
+      "word": "薛之谦 再见啦梅西",
+      "onboard_time": 1686844705,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2214631,
       "num": 2214631,
       "word": "任敏跳舞 孙莉",
@@ -1411,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1926048,
+      "num": 966146,
+      "word": "冰清玉洁近况",
+      "onboard_time": 1686844348,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1921024,
       "num": 1366266,
       "word": "22届在骂 23届崩溃 24届焦虑",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1685849424,
       "rank": 23,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1886062,
-      "num": 837597,
-      "word": "冰清玉洁近况",
-      "onboard_time": 1686844348,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1881190,
@@ -3697,14 +3705,6 @@
       "onboard_time": 1686708450,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1155965,
-      "num": 498758,
-      "word": "薛之谦 再见啦梅西",
-      "onboard_time": 1686844705,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1155594,
@@ -13027,6 +13027,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 313674,
+      "num": 313674,
+      "word": "扣饭事件学院称不清楚女生是否精神异常",
+      "onboard_time": 1686843269,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 313465,
       "num": 247543,
       "word": "戴上Vision Pro的我",
@@ -14537,14 +14545,6 @@
       "onboard_time": 1685692767,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282860,
-      "num": 282860,
-      "word": "扣饭事件学院称不清楚女生是否精神异常",
-      "onboard_time": 1686843269,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 282235,
@@ -32059,6 +32059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102899,
+      "num": 102899,
+      "word": "网剧花戎",
+      "onboard_time": 1686846805,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102672,
       "num": 136668,
       "word": "上班摸鱼的猫",
@@ -32569,6 +32577,14 @@
       "onboard_time": 1686314790,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 92708,
+      "num": 92708,
+      "word": "lun8",
+      "onboard_time": 1686846983,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 92185,

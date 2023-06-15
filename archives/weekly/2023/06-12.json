@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686846108446,
+  "endTime": 1686847016242,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2219766,
+      "num": 2219766,
+      "word": "薛之谦 再见啦梅西",
+      "onboard_time": 1686844705,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2214631,
       "num": 2214631,
       "word": "任敏跳舞 孙莉",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1926048,
+      "num": 966146,
+      "word": "冰清玉洁近况",
+      "onboard_time": 1686844348,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1900070,
       "num": 1900070,
       "word": "华晨宇长沙退票",
@@ -425,14 +441,6 @@
       "onboard_time": 1686843686,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1886062,
-      "num": 837597,
-      "word": "冰清玉洁近况",
-      "onboard_time": 1686844348,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1867922,
@@ -985,14 +993,6 @@
       "onboard_time": 1686708450,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1155965,
-      "num": 498758,
-      "word": "薛之谦 再见啦梅西",
-      "onboard_time": 1686844705,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1155594,
@@ -3299,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313674,
+      "num": 313674,
+      "word": "扣饭事件学院称不清楚女生是否精神异常",
+      "onboard_time": 1686843269,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 312786,
       "num": 312786,
       "word": "丧失了喜欢一个人的能力",
@@ -3609,14 +3617,6 @@
       "onboard_time": 1686733588,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282860,
-      "num": 282860,
-      "word": "扣饭事件学院称不清楚女生是否精神异常",
-      "onboard_time": 1686843269,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 282235,
@@ -9251,6 +9251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102899,
+      "num": 102899,
+      "word": "网剧花戎",
+      "onboard_time": 1686846805,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102587,
       "num": 2178564,
       "word": "杭州迎亚运风光片",
@@ -9431,6 +9439,14 @@
       "num": 92731,
       "word": "文俊辉的愿望实现了",
       "onboard_time": 1686759625,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 92708,
+      "num": 92708,
+      "word": "lun8",
+      "onboard_time": 1686846983,
       "rank": 49,
       "category": "音乐"
     },

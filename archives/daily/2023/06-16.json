@@ -1,7 +1,23 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686846108446,
+  "endTime": 1686847016242,
   "band_list": [
+    {
+      "raw_hot": 2219766,
+      "num": 2219766,
+      "word": "薛之谦 再见啦梅西",
+      "onboard_time": 1686844705,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1926048,
+      "num": 966146,
+      "word": "冰清玉洁近况",
+      "onboard_time": 1686844348,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1890120,
       "num": 868728,
@@ -11,16 +27,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1886062,
-      "num": 837597,
-      "word": "冰清玉洁近况",
-      "onboard_time": 1686844348,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1328544,
-      "num": 782496,
+      "raw_hot": 1349192,
+      "num": 878430,
       "word": "球迷冲进球场抱梅西",
       "onboard_time": 1686838888,
       "rank": 5,
@@ -33,14 +41,6 @@
       "onboard_time": 1686831921,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1155965,
-      "num": 498758,
-      "word": "薛之谦 再见啦梅西",
-      "onboard_time": 1686844705,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 957258,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 691126,
-      "num": 494036,
+      "num": 551924,
       "word": "青2黄一鸣生女",
       "onboard_time": 1686836550,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 683523,
-      "num": 484204,
+      "num": 577410,
       "word": "六公主",
       "onboard_time": 1686817288,
       "rank": 12,
@@ -139,8 +139,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305999,
-      "num": 305999,
+      "raw_hot": 313674,
+      "num": 313674,
+      "word": "扣饭事件学院称不清楚女生是否精神异常",
+      "onboard_time": 1686843269,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 311505,
+      "num": 311505,
       "word": "阿根廷vs澳大利亚",
       "onboard_time": 1686828983,
       "rank": 17,
@@ -161,14 +169,6 @@
       "onboard_time": 1686824365,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 282860,
-      "num": 282860,
-      "word": "扣饭事件学院称不清楚女生是否精神异常",
-      "onboard_time": 1686843269,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 263296,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229849,
+      "num": 229849,
+      "word": "校方回应地铁事件女子在科技作品署名",
+      "onboard_time": 1686827844,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228609,
       "num": 228609,
       "word": "孟子义说曾舜晞我谈没谈你不知道吗",
@@ -209,14 +217,6 @@
       "onboard_time": 1686845308,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224345,
-      "num": 224345,
-      "word": "校方回应地铁事件女子在科技作品署名",
-      "onboard_time": 1686827844,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 215240,
@@ -395,8 +395,32 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102899,
+      "num": 102899,
+      "word": "网剧花戎",
+      "onboard_time": 1686846805,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 98368,
+      "num": 98368,
+      "word": "电视剧公诉",
+      "onboard_time": 1686841949,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 92708,
+      "num": 92708,
+      "word": "lun8",
+      "onboard_time": 1686846983,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 81310,
-      "num": 945355,
+      "num": 1012553,
       "word": "杭州亚运会奖牌亮相",
       "onboard_time": 1686832585,
       "rank": 2,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#我国成功发射一箭41星刷新纪录#"
+    },
+    {
+      "word": "#杭州亚运会开幕日是秋分也是丰收节#"
     }
   ]
 }
