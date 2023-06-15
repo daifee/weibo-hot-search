@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686860271985,
+  "endTime": 1686861224189,
   "band_list": [
     {
       "raw_hot": 2219766,
@@ -497,6 +497,14 @@
       "onboard_time": 1686859274,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14774,
+      "num": 15775,
+      "word": "两代小龙女心中的少年都是过儿",
+      "onboard_time": 1686860591,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
