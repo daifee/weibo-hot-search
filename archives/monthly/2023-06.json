@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686842253699,
+  "endTime": 1686843215291,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4739,6 +4739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 955866,
+      "num": 955866,
+      "word": "朱珠浪姐结束后去HEC上学了",
+      "onboard_time": 1686838825,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 955471,
       "num": 955471,
       "word": "专家称不排除二阳后还会有三阳",
@@ -5193,14 +5201,6 @@
       "onboard_time": 1685624848,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 884865,
-      "num": 884865,
-      "word": "朱珠浪姐结束后去HEC上学了",
-      "onboard_time": 1686838825,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 880234,
@@ -7740,7 +7740,7 @@
     },
     {
       "raw_hot": 572469,
-      "num": 287549,
+      "num": 289238,
       "word": "校方回应地铁事件女子在科技作品署名",
       "onboard_time": 1686827844,
       "rank": 22,
@@ -8417,6 +8417,14 @@
       "onboard_time": 1686668370,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 514187,
+      "num": 514187,
+      "word": "球踢爆了",
+      "onboard_time": 1686839729,
+      "rank": 19,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 513227,
@@ -9531,14 +9539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439092,
-      "num": 439092,
-      "word": "球踢爆了",
-      "onboard_time": 1686839729,
-      "rank": 19,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 438904,
       "num": 438904,
       "word": "甲卷理综 容易",
@@ -9972,7 +9972,7 @@
     },
     {
       "raw_hot": 414938,
-      "num": 286582,
+      "num": 355690,
       "word": "梅西引力",
       "onboard_time": 1686840751,
       "rank": 30,
@@ -10257,6 +10257,14 @@
       "onboard_time": 1685948728,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 402321,
+      "num": 402321,
+      "word": "ZB1回归概念预告",
+      "onboard_time": 1686842728,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 401980,
@@ -12163,6 +12171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334113,
+      "num": 334113,
+      "word": "电视剧公诉",
+      "onboard_time": 1686841949,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334070,
       "num": 334070,
       "word": "谢霆锋真空西装太顶了",
@@ -12299,6 +12315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330332,
+      "num": 330332,
+      "word": "一位韩国爸爸带女儿去夜店",
+      "onboard_time": 1686840932,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330080,
       "num": 330080,
       "word": "浙江多所小学美术本印有涉黄二维码",
@@ -12417,14 +12441,6 @@
       "onboard_time": 1686282450,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327076,
-      "num": 327076,
-      "word": "一位韩国爸爸带女儿去夜店",
-      "onboard_time": 1686840932,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 327040,
@@ -12689,6 +12705,14 @@
       "onboard_time": 1686539009,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 320465,
+      "num": 320465,
+      "word": "薛之谦新歌崇拜",
+      "onboard_time": 1686842251,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 320412,
@@ -13081,6 +13105,14 @@
       "onboard_time": 1686288928,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 310174,
+      "num": 310174,
+      "word": "武汉商学院",
+      "onboard_time": 1686838050,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309860,
@@ -13521,14 +13553,6 @@
       "onboard_time": 1686828387,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301273,
-      "num": 301273,
-      "word": "武汉商学院",
-      "onboard_time": 1686838050,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301023,
@@ -14651,6 +14675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279596,
+      "num": 279596,
+      "word": "孟子义说曾舜晞我谈没谈你不知道吗",
+      "onboard_time": 1686840211,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279318,
       "num": 279318,
       "word": "OMG战胜WBG",
@@ -15305,14 +15337,6 @@
       "onboard_time": 1686751827,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 269671,
-      "num": 269671,
-      "word": "孟子义说曾舜晞我谈没谈你不知道吗",
-      "onboard_time": 1686840211,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 269518,
@@ -17217,14 +17241,6 @@
       "onboard_time": 1685953469,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 243451,
-      "num": 243451,
-      "word": "电视剧公诉",
-      "onboard_time": 1686841949,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 243434,
@@ -25091,6 +25107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172300,
+      "num": 172300,
+      "word": "保姆阿姨7平米出租房里的画家梦",
+      "onboard_time": 1686843030,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172278,
       "num": 167351,
       "word": "美依礼芽晒自己画的眼妆",
@@ -26297,6 +26321,14 @@
       "onboard_time": 1686649769,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161454,
+      "num": 161454,
+      "word": "谢娜曾三去三留快乐大本营",
+      "onboard_time": 1686842966,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 161246,

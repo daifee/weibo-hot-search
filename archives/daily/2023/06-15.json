@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686842253699,
+  "endTime": 1686843215291,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -323,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 955866,
+      "num": 955866,
+      "word": "朱珠浪姐结束后去HEC上学了",
+      "onboard_time": 1686838825,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 946933,
       "num": 946933,
       "word": "上厕所时千万不要蹲在马桶上",
@@ -361,14 +369,6 @@
       "onboard_time": 1686811286,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 884865,
-      "num": 884865,
-      "word": "朱珠浪姐结束后去HEC上学了",
-      "onboard_time": 1686838825,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 878545,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 572469,
-      "num": 287549,
+      "num": 289238,
       "word": "校方回应地铁事件女子在科技作品署名",
       "onboard_time": 1686827844,
       "rank": 22,
@@ -657,6 +657,14 @@
       "onboard_time": 1686822265,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 514187,
+      "num": 514187,
+      "word": "球踢爆了",
+      "onboard_time": 1686839729,
+      "rank": 19,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 511973,
@@ -731,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439092,
-      "num": 439092,
-      "word": "球踢爆了",
-      "onboard_time": 1686839729,
-      "rank": 19,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 430733,
       "num": 430733,
       "word": "品牌方说赵露思礼服是借的",
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 414938,
-      "num": 286582,
+      "num": 355690,
       "word": "梅西引力",
       "onboard_time": 1686840751,
       "rank": 30,
@@ -793,6 +793,14 @@
       "onboard_time": 1686826827,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 402321,
+      "num": 402321,
+      "word": "ZB1回归概念预告",
+      "onboard_time": 1686842728,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 401698,
@@ -891,8 +899,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327076,
-      "num": 327076,
+      "raw_hot": 334113,
+      "num": 334113,
+      "word": "电视剧公诉",
+      "onboard_time": 1686841949,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330332,
+      "num": 330332,
       "word": "一位韩国爸爸带女儿去夜店",
       "onboard_time": 1686840932,
       "rank": 25,
@@ -947,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320465,
+      "num": 320465,
+      "word": "薛之谦新歌崇拜",
+      "onboard_time": 1686842251,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 319594,
       "num": 319594,
       "word": "妈妈得了阿尔兹海默症 爸爸就是特效药",
@@ -979,6 +1003,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 310174,
+      "num": 310174,
+      "word": "武汉商学院",
+      "onboard_time": 1686838050,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309610,
       "num": 273108,
       "word": "肖春生的菠萝头长大了",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1686828387,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301273,
-      "num": 301273,
-      "word": "武汉商学院",
-      "onboard_time": 1686838050,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300973,
@@ -1091,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279596,
+      "num": 279596,
+      "word": "孟子义说曾舜晞我谈没谈你不知道吗",
+      "onboard_time": 1686840211,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275255,
       "num": 275255,
       "word": "薛之谦还没找到梅西吗",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1686792088,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269671,
-      "num": 269671,
-      "word": "孟子义说曾舜晞我谈没谈你不知道吗",
-      "onboard_time": 1686840211,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 268013,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1686800486,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243451,
-      "num": 243451,
-      "word": "电视剧公诉",
-      "onboard_time": 1686841949,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 243193,
@@ -1899,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172300,
+      "num": 172300,
+      "word": "保姆阿姨7平米出租房里的画家梦",
+      "onboard_time": 1686843030,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172203,
       "num": 172203,
       "word": "张真源晒照为贺峻霖庆生",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1686809607,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161454,
+      "num": 161454,
+      "word": "谢娜曾三去三留快乐大本营",
+      "onboard_time": 1686842966,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 161200,
@@ -2923,20 +2955,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69534,
+      "num": 523035,
+      "word": "阿根廷中国行",
+      "onboard_time": 1686841228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68429,
       "num": 68429,
       "word": "黄子韬马伯骞星电音路透",
       "onboard_time": 1686763457,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67452,
-      "num": 523035,
-      "word": "阿根廷中国行",
-      "onboard_time": 1686841228,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64476,
