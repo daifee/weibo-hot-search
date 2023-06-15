@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686785654594,
+  "endTime": 1686793098341,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 3944632,
-      "num": 661865,
+      "num": 786396,
       "word": "宋仲基儿子出生",
       "onboard_time": 1686748169,
       "rank": 10,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1685880146,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1867922,
+      "num": 1867922,
+      "word": "迪士尼回应女子穿联名汉服被拦",
+      "onboard_time": 1686786927,
+      "rank": 0,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1864328,
@@ -4211,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008819,
+      "num": 593095,
+      "word": "河北师大混入女浴室男子被控制",
+      "onboard_time": 1686790472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1007209,
       "num": 1007209,
       "word": "谢娜四公 没拉票",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1686736228,
       "rank": 23,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 980721,
+      "num": 980721,
+      "word": "鱼头星星回来了",
+      "onboard_time": 1686787590,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 977357,
@@ -4545,6 +4569,14 @@
       "onboard_time": 1686309807,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 944390,
+      "num": 944390,
+      "word": "上厕所时千万不要蹲在马桶上",
+      "onboard_time": 1686786927,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 943827,
@@ -5419,6 +5451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 809948,
+      "num": 809948,
+      "word": "杨幂卷发军装路透",
+      "onboard_time": 1686786265,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 808416,
       "num": 808416,
       "word": "LPL006号选手Uzi重新连接",
@@ -6091,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716933,
+      "num": 593096,
+      "word": "常远是离肠癌远一点",
+      "onboard_time": 1686784521,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715148,
       "num": 715148,
       "word": "TFBOYS演唱会流程图",
@@ -6587,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649050,
+      "num": 649050,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647455,
       "num": 647455,
       "word": "白鹿陈都灵戴了同款耳饰",
@@ -6815,6 +6871,14 @@
       "num": 622045,
       "word": "赵丽颖迪士尼",
       "onboard_time": 1685699128,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 621143,
+      "num": 621143,
+      "word": "蒋依依毕业照",
+      "onboard_time": 1686788433,
       "rank": 9,
       "category": "艺人"
     },
@@ -7057,14 +7121,6 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 593096,
-      "num": 593096,
-      "word": "常远是离肠癌远一点",
-      "onboard_time": 1686784521,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 591736,
@@ -8715,6 +8771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455500,
+      "num": 455500,
+      "word": "家属回应女子被丈夫跨省杀害",
+      "onboard_time": 1686784641,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454449,
+      "num": 454449,
+      "word": "张杰谢娜带女儿上早教",
+      "onboard_time": 1686786566,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454259,
       "num": 454259,
       "word": "原来高清的五月天长这样",
@@ -9953,6 +10025,14 @@
       "onboard_time": 1686117813,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 384257,
+      "num": 252758,
+      "word": "妈妈对我俄罗斯男友的称呼",
+      "onboard_time": 1686786506,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 383202,
@@ -14979,6 +15059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259446,
+      "num": 259446,
+      "word": "杭州蓝色钱江纵火案房源以2360万元网签",
+      "onboard_time": 1686792088,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259435,
       "num": 259435,
       "word": "如果丧尸爆发你觉得哪里最安全",
@@ -15752,6 +15840,14 @@
       "word": "怀疑自己被偷拍该如何处理",
       "onboard_time": 1686638667,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249443,
+      "num": 249443,
+      "word": "那个好玩的老头儿走了",
+      "onboard_time": 1686784704,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -16739,6 +16835,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 236704,
+      "num": 236704,
+      "word": "100天后杭州亚运会",
+      "onboard_time": 1686792688,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236636,
       "num": 236636,
       "word": "陶晶莹 人生路漫漫哪里没猪头",
@@ -17585,6 +17689,14 @@
       "onboard_time": 1686042868,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226762,
+      "num": 226762,
+      "word": "肖春生对兄弟轰轰烈烈代价不屑",
+      "onboard_time": 1686792267,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 226609,
@@ -19195,6 +19307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209585,
+      "num": 209585,
+      "word": "恩佐 小蜘蛛",
+      "onboard_time": 1686791189,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209365,
       "num": 209365,
       "word": "YG出小分队的方式好炸裂",
@@ -19313,6 +19433,14 @@
       "onboard_time": 1686412529,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208587,
+      "num": 208587,
+      "word": "幸好肖春生留了底",
+      "onboard_time": 1686792806,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 208504,
@@ -19635,20 +19763,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205047,
-      "num": 205047,
-      "word": "家属回应女子被丈夫跨省杀害",
-      "onboard_time": 1686784641,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "点燃了暑期的爆款剧",
       "onboard_time": 1686235773,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204797,
+      "num": 204797,
+      "word": "杭州亚运火种采集仪式",
+      "onboard_time": 1686792447,
+      "rank": 29,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 204735,
@@ -20283,6 +20411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199394,
+      "num": 199394,
+      "word": "全网找寻京A8852",
+      "onboard_time": 1686790590,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199258,
       "num": 199258,
       "word": "王皓史策回应是沈腾马丽2.0",
@@ -20441,6 +20577,14 @@
       "onboard_time": 1685611707,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197879,
+      "num": 197879,
+      "word": "同龄人的朋友圈和我的朋友圈",
+      "onboard_time": 1686787949,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 197750,
@@ -20673,6 +20817,14 @@
       "onboard_time": 1686367971,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195540,
+      "num": 195540,
+      "word": "社会的边角料却是家里的顶梁柱",
+      "onboard_time": 1686792806,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 195536,
@@ -21705,6 +21857,14 @@
       "onboard_time": 1686660329,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189402,
+      "num": 189402,
+      "word": "你知道迪士尼有着装规定吗",
+      "onboard_time": 1686792927,
+      "rank": 33,
+      "category": "社会议题,旅游"
     },
     {
       "raw_hot": 189311,
@@ -22923,6 +23083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178650,
+      "num": 178650,
+      "word": "时代少年团录歌",
+      "onboard_time": 1686792806,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178512,
       "num": 117397,
       "word": "热烈追梦版预告",
@@ -23608,6 +23776,14 @@
       "word": "爸爸怕女儿回家难过放下弟弟迎接",
       "onboard_time": 1686700949,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170875,
+      "num": 170875,
+      "word": "父亲住院女子将奶奶送养老院遭非议",
+      "onboard_time": 1686790472,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -24627,6 +24803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161200,
+      "num": 161200,
+      "word": "花戎第二次大婚命案",
+      "onboard_time": 1686789569,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161090,
       "num": 126297,
       "word": "吴磊用的什么防晒",
@@ -24681,6 +24865,14 @@
       "onboard_time": 1685762910,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160680,
+      "num": 160680,
+      "word": "Uzi 回到赛场的感觉真好",
+      "onboard_time": 1686790229,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 160670,
@@ -24897,6 +25089,14 @@
       "onboard_time": 1685753549,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158759,
+      "num": 158759,
+      "word": "福建交警通报货车撞轿车致5死",
+      "onboard_time": 1686786385,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158754,
@@ -25795,6 +25995,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 150093,
+      "num": 150093,
+      "word": "陈都灵说演员不是非得演女一男一",
+      "onboard_time": 1686792208,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150071,
       "num": 150071,
       "word": "肖战家人对梦中的那片海的评价",
@@ -25825,6 +26033,14 @@
       "onboard_time": 1686719253,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149786,
+      "num": 149786,
+      "word": "这股妖风都吹到芭提雅了",
+      "onboard_time": 1686791308,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 149736,
@@ -27113,6 +27329,14 @@
       "onboard_time": 1685835740,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136591,
+      "num": 136591,
+      "word": "端午还没到阿姨采艾草就掉洞里了",
+      "onboard_time": 1686791909,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136577,
@@ -28547,6 +28771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119781,
+      "num": 119781,
+      "word": "95后男生白天拉货晚上写歌",
+      "onboard_time": 1686791668,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 119618,
       "num": 119618,
       "word": "NIP对战TES",
@@ -28976,14 +29208,6 @@
       "word": "孩子犯错家长该怎么引导",
       "onboard_time": 1686043167,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114596,
-      "num": 114596,
-      "word": "那个好玩的老头儿走了",
-      "onboard_time": 1686784704,
-      "rank": 32,
       "category": "社会新闻"
     },
     {

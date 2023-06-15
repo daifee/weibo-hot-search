@@ -1,0 +1,410 @@
+{
+  "runTime": 1686793098341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1867922,
+        "num": 1867922,
+        "word": "迪士尼回应女子穿联名汉服被拦",
+        "onboard_time": 1686786927,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1848657,
+        "num": 1848657,
+        "word": "上海地震",
+        "onboard_time": 1686766515,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19126,
+        "num": 1363694,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 980721,
+        "num": 980721,
+        "word": "鱼头星星回来了",
+        "onboard_time": 1686787590,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944390,
+        "num": 944390,
+        "word": "上厕所时千万不要蹲在马桶上",
+        "onboard_time": 1686786927,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 809948,
+        "num": 809948,
+        "word": "杨幂卷发军装路透",
+        "onboard_time": 1686786265,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 786396,
+        "num": 786396,
+        "word": "宋仲基儿子出生",
+        "onboard_time": 1686748169,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746404,
+        "num": 746404,
+        "word": "S属性大爆发",
+        "onboard_time": 1686750210,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 649050,
+        "num": 649050,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621143,
+        "num": 621143,
+        "word": "蒋依依毕业照",
+        "onboard_time": 1686788433,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1008819,
+        "num": 593095,
+        "word": "河北师大混入女浴室男子被控制",
+        "onboard_time": 1686790472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563856,
+        "num": 563856,
+        "word": "韩国摄影师在廉租房生活拍摄3年",
+        "onboard_time": 1686757050,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516442,
+        "num": 516442,
+        "word": "温州近视司机深夜高速上镜片突然脱落",
+        "onboard_time": 1686758726,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455500,
+        "num": 455500,
+        "word": "家属回应女子被丈夫跨省杀害",
+        "onboard_time": 1686784641,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454449,
+        "num": 454449,
+        "word": "张杰谢娜带女儿上早教",
+        "onboard_time": 1686786566,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407865,
+        "num": 407865,
+        "word": "双宋彻底BE",
+        "onboard_time": 1686749610,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356410,
+        "num": 356410,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317627,
+        "num": 317627,
+        "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+        "onboard_time": 1686754593,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312235,
+        "num": 312235,
+        "word": "关晓彤第一套vs第二套",
+        "onboard_time": 1686741986,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259446,
+        "num": 259446,
+        "word": "杭州蓝色钱江纵火案房源以2360万元网签",
+        "onboard_time": 1686792088,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716933,
+        "num": 254870,
+        "word": "常远是离肠癌远一点",
+        "onboard_time": 1686784521,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467376,
+        "num": 252830,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384257,
+        "num": 252758,
+        "word": "妈妈对我俄罗斯男友的称呼",
+        "onboard_time": 1686786506,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249443,
+        "num": 249443,
+        "word": "那个好玩的老头儿走了",
+        "onboard_time": 1686784704,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236704,
+        "num": 236704,
+        "word": "100天后杭州亚运会",
+        "onboard_time": 1686792688,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226762,
+        "num": 226762,
+        "word": "肖春生对兄弟轰轰烈烈代价不屑",
+        "onboard_time": 1686792267,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226635,
+        "num": 226635,
+        "word": "上海青浦区发生3.1级地震",
+        "onboard_time": 1686784341,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209585,
+        "num": 209585,
+        "word": "恩佐 小蜘蛛",
+        "onboard_time": 1686791189,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208587,
+        "num": 208587,
+        "word": "幸好肖春生留了底",
+        "onboard_time": 1686792806,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204797,
+        "num": 204797,
+        "word": "杭州亚运火种采集仪式",
+        "onboard_time": 1686792447,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 199394,
+        "num": 199394,
+        "word": "全网找寻京A8852",
+        "onboard_time": 1686790590,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197879,
+        "num": 197879,
+        "word": "同龄人的朋友圈和我的朋友圈",
+        "onboard_time": 1686787949,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195540,
+        "num": 195540,
+        "word": "社会的边角料却是家里的顶梁柱",
+        "onboard_time": 1686792806,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189402,
+        "num": 189402,
+        "word": "你知道迪士尼有着装规定吗",
+        "onboard_time": 1686792927,
+        "rank": 33,
+        "category": "社会议题,旅游"
+      },
+      {
+        "raw_hot": 178650,
+        "num": 178650,
+        "word": "时代少年团录歌",
+        "onboard_time": 1686792806,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170875,
+        "num": 170875,
+        "word": "父亲住院女子将奶奶送养老院遭非议",
+        "onboard_time": 1686790472,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163170,
+        "num": 163170,
+        "word": "内娱校花",
+        "onboard_time": 1686750870,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161200,
+        "num": 161200,
+        "word": "花戎第二次大婚命案",
+        "onboard_time": 1686789569,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160680,
+        "num": 160680,
+        "word": "Uzi 回到赛场的感觉真好",
+        "onboard_time": 1686790229,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158759,
+        "num": 158759,
+        "word": "福建交警通报货车撞轿车致5死",
+        "onboard_time": 1686786385,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150093,
+        "num": 150093,
+        "word": "陈都灵说演员不是非得演女一男一",
+        "onboard_time": 1686792208,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149786,
+        "num": 149786,
+        "word": "这股妖风都吹到芭提雅了",
+        "onboard_time": 1686791308,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148174,
+        "num": 148174,
+        "word": "周三也休公司 上四休三绝不放弃",
+        "onboard_time": 1686745829,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143593,
+        "num": 143593,
+        "word": "丫丫悠闲自在吃竹笋",
+        "onboard_time": 1686753453,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143327,
+        "num": 143327,
+        "word": "苏醒没有梅西高",
+        "onboard_time": 1686742287,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 136591,
+        "num": 136591,
+        "word": "端午还没到阿姨采艾草就掉洞里了",
+        "onboard_time": 1686791909,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132812,
+        "num": 132812,
+        "word": "把内耗变成外耗",
+        "onboard_time": 1686759027,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127969,
+        "num": 127969,
+        "word": "梦海是肖战李沁的五搭",
+        "onboard_time": 1686752011,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125201,
+        "num": 125201,
+        "word": "梅西苏醒合影",
+        "onboard_time": 1686731490,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 119781,
+        "num": 119781,
+        "word": "95后男生白天拉货晚上写歌",
+        "onboard_time": 1686791668,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展调研行#"
+    }
+  }
+}
