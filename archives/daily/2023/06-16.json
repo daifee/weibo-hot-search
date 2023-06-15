@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686868402394,
+  "endTime": 1686871041193,
   "band_list": [
     {
       "raw_hot": 2219766,
@@ -171,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 287423,
+      "num": 287423,
+      "word": "奶奶遭电诈被孙子带到派出所",
+      "onboard_time": 1686845127,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263296,
       "num": 263296,
       "word": "卖杏老人儿子望偷拿女子澄清或道歉",
@@ -185,6 +193,14 @@
       "onboard_time": 1686832045,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247448,
+      "num": 247448,
+      "word": "张踩铃 当一个混血被双语幼儿园拒收",
+      "onboard_time": 1686831023,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 246898,
@@ -251,12 +267,20 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 189473,
-      "num": 189473,
-      "word": "张踩铃 当一个混血被双语幼儿园拒收",
-      "onboard_time": 1686831023,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 193193,
+      "num": 193193,
+      "word": "第一次感觉老头背心好帅",
+      "onboard_time": 1686847941,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190039,
+      "num": 190039,
+      "word": "52岁大叔以身试险1小时劝退10多名游客",
+      "onboard_time": 1686870199,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185894,
@@ -264,6 +288,14 @@
       "word": "自己供自己上了四年的大学",
       "onboard_time": 1686827425,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 184502,
+      "num": 184502,
+      "word": "你睡觉到底有多晚",
+      "onboard_time": 1686870500,
+      "rank": 16,
       "category": "情感"
     },
     {
@@ -289,14 +321,6 @@
       "onboard_time": 1686842728,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159139,
-      "num": 159139,
-      "word": "奶奶遭电诈被孙子带到派出所",
-      "onboard_time": 1686845127,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156044,
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135018,
-      "num": 135018,
-      "word": "第一次感觉老头背心好帅",
-      "onboard_time": 1686847941,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132122,
       "num": 132122,
       "word": "谢娜再去已是嘉宾",
@@ -385,6 +401,14 @@
       "onboard_time": 1686848300,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 126082,
+      "num": 126082,
+      "word": "关晓彤25岁身材管理",
+      "onboard_time": 1686870620,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 125963,
@@ -419,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "肖战央视专访",
+      "onboard_time": 1686831566,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112141,
+      "num": 112141,
+      "word": "六旬大爷抢座失败直接坐女子腿上",
+      "onboard_time": 1686847342,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107949,
       "num": 107949,
       "word": "下次见面可能是在谁的婚礼上吧",
@@ -443,20 +483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93301,
-      "num": 93301,
-      "word": "六旬大爷抢座失败直接坐女子腿上",
-      "onboard_time": 1686847342,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92708,
       "num": 92708,
       "word": "lun8",
       "onboard_time": 1686846983,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 81898,
+      "num": 81898,
+      "word": "两代小龙女心中的少年都是过儿",
+      "onboard_time": 1686860591,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 81310,
@@ -467,28 +507,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78165,
-      "num": 78165,
-      "word": "肖战央视专访",
-      "onboard_time": 1686831566,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 67041,
+      "num": 67041,
+      "word": "此刻他的肩膀是女孩最大的豁达",
+      "onboard_time": 1686870199,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 40514,
-      "num": 40514,
+      "raw_hot": 63598,
+      "num": 63598,
       "word": "陈妍希说陈晓眼神里的纯净一直都在",
       "onboard_time": 1686856815,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 37506,
-      "num": 34754,
-      "word": "两代小龙女心中的少年都是过儿",
-      "onboard_time": 1686860591,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 56785,
+      "num": 56785,
+      "word": "淄博城管和商贩相处有多融洽",
+      "onboard_time": 1686870199,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27230,
