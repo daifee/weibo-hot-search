@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686838527082,
+  "endTime": 1686839608769,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -241,6 +241,14 @@
       "onboard_time": 1686544298,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3398465,
+      "num": 1897346,
+      "word": "球迷冲进球场抱梅西",
+      "onboard_time": 1686838888,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 3325416,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 2103908,
-      "num": 780792,
+      "num": 807120,
       "word": "六公主",
       "onboard_time": 1686817288,
       "rank": 19,
@@ -1467,6 +1475,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1887853,
+      "num": 1887853,
+      "word": "杨紫羊毛卷",
+      "onboard_time": 1686835465,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1881190,
       "num": 821641,
       "word": "爆剧最多的女演员",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1686632673,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1692122,
-      "num": 1692122,
-      "word": "杨紫羊毛卷",
-      "onboard_time": 1686835465,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1686882,
@@ -3523,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1179979,
+      "num": 1179979,
+      "word": "梅西过人好牛",
+      "onboard_time": 1686837268,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1177533,
       "num": 1177533,
       "word": "微博电影之夜红毯",
@@ -3915,14 +3931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1103197,
-      "num": 1103197,
-      "word": "梅西过人好牛",
-      "onboard_time": 1686837268,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1102131,
       "num": 1102131,
       "word": "魏晨差点错过孩子出生第一刻",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1685920581,
       "rank": 26,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1039791,
+      "num": 810797,
+      "word": "青2黄一鸣生女",
+      "onboard_time": 1686836550,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1039767,
@@ -4929,14 +4945,6 @@
       "onboard_time": 1685718693,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 923060,
-      "num": 781426,
-      "word": "青2黄一鸣生女",
-      "onboard_time": 1686836550,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 921878,
@@ -12307,6 +12315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328804,
+      "num": 328804,
+      "word": "朱珠浪姐结束后去HEC上学了",
+      "onboard_time": 1686838825,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328570,
       "num": 328570,
       "word": "回想去年的红楼梦",
@@ -12809,6 +12825,14 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315014,
+      "num": 315014,
+      "word": "刘诗诗项链耳环好多葫芦",
+      "onboard_time": 1686836009,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 314545,
@@ -13459,6 +13483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300973,
+      "num": 300973,
+      "word": "司机 你怎么知道我绕路的",
+      "onboard_time": 1686834447,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300942,
       "num": 255638,
       "word": "吉克隽逸童年照肤色",
@@ -13561,14 +13593,6 @@
       "onboard_time": 1686148476,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298695,
-      "num": 298695,
-      "word": "刘诗诗项链耳环好多葫芦",
-      "onboard_time": 1686836009,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 298145,
@@ -13833,14 +13857,6 @@
       "onboard_time": 1686328526,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 293432,
-      "num": 293432,
-      "word": "司机 你怎么知道我绕路的",
-      "onboard_time": 1686834447,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 292877,
@@ -15585,6 +15601,14 @@
       "onboard_time": 1686836667,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263657,
+      "num": 263657,
+      "word": "梅西寄语热爱足球的中国少年",
+      "onboard_time": 1686819328,
+      "rank": 28,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 263469,
@@ -18139,6 +18163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231588,
+      "num": 231588,
+      "word": "武汉商学院",
+      "onboard_time": 1686838050,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231517,
       "num": 231517,
       "word": "zerobaseone",
@@ -18379,14 +18411,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 228500,
-      "num": 228500,
-      "word": "武汉商学院",
-      "onboard_time": 1686838050,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228493,
       "num": 228493,
       "word": "钟文泽MacBookAir15评测",
@@ -18585,14 +18609,6 @@
       "onboard_time": 1686265941,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226976,
-      "num": 237075,
-      "word": "梅西寄语热爱足球的中国少年",
-      "onboard_time": 1686819328,
-      "rank": 28,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 226943,
@@ -19313,6 +19329,14 @@
       "onboard_time": 1686383251,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219152,
+      "num": 219152,
+      "word": "DK这个家没Deft不行",
+      "onboard_time": 1686838825,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 219119,
@@ -26939,6 +26963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155468,
+      "num": 155468,
+      "word": "这种勺子真的有存在的必要吗",
+      "onboard_time": 1686838767,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155232,
       "num": 155232,
       "word": "当我手机没信号且找不到WiFi时",
@@ -34108,7 +34140,7 @@
     },
     {
       "raw_hot": 48292,
-      "num": 1706027,
+      "num": 1905437,
       "word": "130秒飞阅杭州亚运会场馆",
       "onboard_time": 1686835407,
       "rank": 2,

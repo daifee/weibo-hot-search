@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686838527082,
+  "endTime": 1686839608769,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -9,6 +9,14 @@
       "onboard_time": 1686766515,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3398465,
+      "num": 1897346,
+      "word": "球迷冲进球场抱梅西",
+      "onboard_time": 1686838888,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2801822,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2103908,
-      "num": 780792,
+      "num": 807120,
       "word": "六公主",
       "onboard_time": 1686817288,
       "rank": 19,
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1887853,
+      "num": 1887853,
+      "word": "杨紫羊毛卷",
+      "onboard_time": 1686835465,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1867922,
       "num": 1867922,
       "word": "迪士尼回应女子穿联名汉服被拦",
       "onboard_time": 1686786927,
       "rank": 0,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1692122,
-      "num": 1692122,
-      "word": "杨紫羊毛卷",
-      "onboard_time": 1686835465,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1640280,
@@ -235,6 +243,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 1179979,
+      "num": 1179979,
+      "word": "梅西过人好牛",
+      "onboard_time": 1686837268,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1159664,
       "num": 1159664,
       "word": "澳门音乐节 退款",
@@ -251,20 +267,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1103197,
-      "num": 1103197,
-      "word": "梅西过人好牛",
-      "onboard_time": 1686837268,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1054537,
       "num": 957320,
       "word": "我国总共600多万青年人失业",
       "onboard_time": 1686804691,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039791,
+      "num": 810797,
+      "word": "青2黄一鸣生女",
+      "onboard_time": 1686836550,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1039402,
@@ -313,14 +329,6 @@
       "onboard_time": 1686786927,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 923060,
-      "num": 781426,
-      "word": "青2黄一鸣生女",
-      "onboard_time": 1686836550,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 916761,
@@ -843,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328804,
+      "num": 328804,
+      "word": "朱珠浪姐结束后去HEC上学了",
+      "onboard_time": 1686838825,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327026,
       "num": 327026,
       "word": "告五人深圳抢票",
@@ -907,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315014,
+      "num": 315014,
+      "word": "刘诗诗项链耳环好多葫芦",
+      "onboard_time": 1686836009,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 309610,
       "num": 273108,
       "word": "肖春生的菠萝头长大了",
@@ -939,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300973,
+      "num": 300973,
+      "word": "司机 你怎么知道我绕路的",
+      "onboard_time": 1686834447,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300933,
       "num": 300933,
       "word": "中生代戏霸女演员",
@@ -947,28 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298695,
-      "num": 298695,
-      "word": "刘诗诗项链耳环好多葫芦",
-      "onboard_time": 1686836009,
-      "rank": 33,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 294941,
       "num": 294941,
       "word": "被七彩盐湖治愈了",
       "onboard_time": 1686821308,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 293432,
-      "num": 293432,
-      "word": "司机 你怎么知道我绕路的",
-      "onboard_time": 1686834447,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 289703,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1686836667,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263657,
+      "num": 263657,
+      "word": "梅西寄语热爱足球的中国少年",
+      "onboard_time": 1686819328,
+      "rank": 28,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 262851,
@@ -1211,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231588,
+      "num": 231588,
+      "word": "武汉商学院",
+      "onboard_time": 1686838050,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231517,
       "num": 231517,
       "word": "zerobaseone",
@@ -1243,14 +1275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228500,
-      "num": 228500,
-      "word": "武汉商学院",
-      "onboard_time": 1686838050,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228287,
       "num": 228287,
       "word": "为什么建议把一件事做到极致",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1686794666,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226976,
-      "num": 237075,
-      "word": "梅西寄语热爱足球的中国少年",
-      "onboard_time": 1686819328,
-      "rank": 28,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 226762,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1686826045,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219152,
+      "num": 219152,
+      "word": "DK这个家没Deft不行",
+      "onboard_time": 1686838825,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 217579,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1686823046,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155468,
+      "num": 155468,
+      "word": "这种勺子真的有存在的必要吗",
+      "onboard_time": 1686838767,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 154167,
@@ -2860,7 +2892,7 @@
     },
     {
       "raw_hot": 48292,
-      "num": 1706027,
+      "num": 1905437,
       "word": "130秒飞阅杭州亚运会场馆",
       "onboard_time": 1686835407,
       "rank": 2,
