@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686817234114,
+  "endTime": 1686818024391,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1978553,
+      "num": 1978553,
+      "word": "快乐大本营",
+      "onboard_time": 1686813986,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1867922,
       "num": 1867922,
       "word": "迪士尼回应女子穿联名汉服被拦",
@@ -73,14 +81,6 @@
       "onboard_time": 1686795326,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1412691,
-      "num": 1412691,
-      "word": "快乐大本营",
-      "onboard_time": 1686813986,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1408178,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789675,
+      "num": 789675,
+      "word": "杨颖代言丸美3年2400万",
+      "onboard_time": 1686816208,
+      "rank": 19,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 788970,
       "num": 788970,
       "word": "S属性大爆发",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639789,
+      "num": 639789,
+      "word": "想减肥少吃冰",
+      "onboard_time": 1686815188,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 633623,
       "num": 400757,
       "word": "Jennie道歉评论区",
@@ -385,6 +401,14 @@
       "onboard_time": 1686805948,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 605782,
+      "num": 188492,
+      "word": "蔡徐坤专辑",
+      "onboard_time": 1686817409,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 598651,
@@ -409,6 +433,14 @@
       "onboard_time": 1686798566,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 536504,
+      "num": 536504,
+      "word": "肯德基广告文案",
+      "onboard_time": 1686816868,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511973,
@@ -507,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357249,
-      "num": 357249,
-      "word": "想减肥少吃冰",
-      "onboard_time": 1686815188,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 338273,
       "num": 338273,
       "word": "四川省长称帮一把没找到工作的孩子",
@@ -611,14 +635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283081,
-      "num": 283081,
-      "word": "杨颖代言丸美3年2400万",
-      "onboard_time": 1686816208,
-      "rank": 19,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 281750,
       "num": 281750,
       "word": "肖战醉酒哭戏",
@@ -659,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270501,
+      "num": 270501,
+      "word": "六公主",
+      "onboard_time": 1686817288,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269882,
       "num": 269882,
       "word": "杭州蓝色钱江纵火案房源以2360万元网签",
@@ -681,6 +705,14 @@
       "onboard_time": 1686742287,
       "rank": 26,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 262171,
+      "num": 262171,
+      "word": "南宁一公司招实习生月薪300元被骂",
+      "onboard_time": 1686815188,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261894,
@@ -707,20 +739,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249521,
-      "num": 249521,
-      "word": "南宁一公司招实习生月薪300元被骂",
-      "onboard_time": 1686815188,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249443,
       "num": 249443,
       "word": "那个好玩的老头儿走了",
       "onboard_time": 1686784704,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248060,
+      "num": 248060,
+      "word": "AG战胜TES",
+      "onboard_time": 1686817167,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 243855,
@@ -737,14 +769,6 @@
       "onboard_time": 1686792688,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235210,
-      "num": 235210,
-      "word": "肯德基广告文案",
-      "onboard_time": 1686816868,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234252,
@@ -769,6 +793,14 @@
       "onboard_time": 1686809967,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230196,
+      "num": 230196,
+      "word": "主动辞职可以领取失业金吗",
+      "onboard_time": 1686814949,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 228287,
@@ -809,14 +841,6 @@
       "onboard_time": 1686812725,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221314,
-      "num": 221314,
-      "word": "主动辞职可以领取失业金吗",
-      "onboard_time": 1686814949,
-      "rank": 25,
-      "category": "社会议题"
     },
     {
       "raw_hot": 217579,
@@ -865,14 +889,6 @@
       "onboard_time": 1686745886,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210273,
-      "num": 210273,
-      "word": "AG战胜TES",
-      "onboard_time": 1686817167,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 209585,
@@ -995,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191773,
+      "num": 191773,
+      "word": "AG夏季赛开门红",
+      "onboard_time": 1686817167,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190270,
       "num": 190270,
       "word": "吃完西瓜感觉自己像榨汁机",
@@ -1051,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182906,
+      "num": 182906,
+      "word": "扣饭事件校方在和学生家长沟通处理",
+      "onboard_time": 1686814167,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182420,
       "num": 182420,
       "word": "一碗多巴胺",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1686792806,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178488,
-      "num": 178488,
-      "word": "AG夏季赛开门红",
-      "onboard_time": 1686817167,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 176911,
@@ -1203,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157206,
-      "num": 157206,
-      "word": "扣饭事件校方在和学生家长沟通处理",
-      "onboard_time": 1686814167,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155868,
       "num": 159436,
       "word": "牧民以天为幕拍蓝底证件照",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1686809905,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 153239,
+      "num": 153239,
+      "word": "工体",
+      "onboard_time": 1686815608,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 150323,
@@ -1267,14 +1291,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 148931,
-      "num": 148931,
-      "word": "工体",
-      "onboard_time": 1686815608,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148795,
       "num": 148795,
       "word": "支教老师期满离开学生含泪告别",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1686812846,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145250,
+      "num": 145250,
+      "word": "蒋依依粉丝破一千万",
+      "onboard_time": 1686815969,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 144961,
@@ -1371,12 +1395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136864,
+      "num": 136864,
+      "word": "照亮你院长跳楼",
+      "onboard_time": 1686817828,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136591,
       "num": 136591,
       "word": "端午还没到阿姨采艾草就掉洞里了",
       "onboard_time": 1686791909,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136249,
+      "num": 136249,
+      "word": "闫桉危险派对荷尔蒙",
+      "onboard_time": 1686816928,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 135338,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1686725069,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125980,
-      "num": 125980,
-      "word": "闫桉危险派对荷尔蒙",
-      "onboard_time": 1686816928,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 125327,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1686751113,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122049,
+      "num": 122049,
+      "word": "周末出片大会第二场今日播出",
+      "onboard_time": 1686817766,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121575,
@@ -1715,6 +1755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 100817,
+      "num": 102663,
+      "word": "你的工作时长打败了百分之多少的人",
+      "onboard_time": 1686817409,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 100353,
       "num": 100353,
       "word": "上海地震监控视频",
@@ -1851,20 +1899,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60870,
+      "num": 428588,
+      "word": "小学生机智识破电信诈骗带奶奶报案",
+      "onboard_time": 1686816087,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60648,
       "num": 60648,
       "word": "内娱镜头下的宁艺卓",
       "onboard_time": 1686764415,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41763,
-      "num": 360242,
-      "word": "小学生机智识破电信诈骗带奶奶报案",
-      "onboard_time": 1686816087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35859,
@@ -1922,6 +1970,9 @@
     },
     {
       "word": "#中巴建立战略伙伴关系#"
+    },
+    {
+      "word": "#统筹好经济发展和生态环境保护建设的关系#"
     }
   ]
 }
