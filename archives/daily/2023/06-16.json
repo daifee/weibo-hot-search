@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686871041193,
+  "endTime": 1686872024459,
   "band_list": [
     {
       "raw_hot": 2219766,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664067,
+      "num": 664067,
+      "word": "52岁大叔以身试险1小时劝退10多名游客",
+      "onboard_time": 1686870199,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632507,
       "num": 632507,
       "word": "球踢爆了",
@@ -129,6 +137,22 @@
       "onboard_time": 1686842251,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 360843,
+      "num": 360843,
+      "word": "你睡觉到底有多晚",
+      "onboard_time": 1686870500,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 338287,
+      "num": 338287,
+      "word": "关晓彤25岁身材管理",
+      "onboard_time": 1686870620,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 318155,
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261681,
+      "num": 261681,
+      "word": "第一次感觉老头背心好帅",
+      "onboard_time": 1686847941,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250856,
       "num": 250856,
       "word": "梅西穿中文球衣",
@@ -211,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243007,
+      "num": 149622,
+      "word": "头发居然可以扎进肉里",
+      "onboard_time": 1686871822,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229849,
       "num": 229849,
       "word": "校方回应地铁事件女子在科技作品署名",
@@ -233,6 +273,22 @@
       "onboard_time": 1686845308,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221465,
+      "num": 148625,
+      "word": "肖春生佟晓梅情侣头像",
+      "onboard_time": 1686871160,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220132,
+      "num": 183832,
+      "word": "男生中考忘涂机读卡妈妈大哭",
+      "onboard_time": 1686871884,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 215240,
@@ -267,22 +323,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 193193,
-      "num": 193193,
-      "word": "第一次感觉老头背心好帅",
-      "onboard_time": 1686847941,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190039,
-      "num": 190039,
-      "word": "52岁大叔以身试险1小时劝退10多名游客",
-      "onboard_time": 1686870199,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185894,
       "num": 185894,
       "word": "自己供自己上了四年的大学",
@@ -291,12 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184502,
-      "num": 184502,
-      "word": "你睡觉到底有多晚",
-      "onboard_time": 1686870500,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 182893,
+      "num": 182893,
+      "word": "过度打扮的女友和随意的男友",
+      "onboard_time": 1686818427,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 176306,
@@ -363,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151351,
-      "num": 151351,
-      "word": "过度打扮的女友和随意的男友",
-      "onboard_time": 1686818427,
-      "rank": 42,
-      "category": "情感,幽默"
+      "raw_hot": 151478,
+      "num": 151478,
+      "word": "贺红玲被肖春生佟晓梅包围了",
+      "onboard_time": 1686871222,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 151035,
@@ -387,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134682,
+      "num": 134682,
+      "word": "年入7万在江苏难不难",
+      "onboard_time": 1686871822,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 134460,
+      "num": 134460,
+      "word": "黄晓明生图",
+      "onboard_time": 1686871704,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132122,
       "num": 132122,
       "word": "谢娜再去已是嘉宾",
@@ -395,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131583,
+      "num": 131583,
+      "word": "陈宏军叶芳离婚",
+      "onboard_time": 1686871762,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127318,
       "num": 127318,
       "word": "梅西谈卡塔尔世界杯首战输给沙特",
       "onboard_time": 1686848300,
       "rank": 29,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 126082,
-      "num": 126082,
-      "word": "关晓彤25岁身材管理",
-      "onboard_time": 1686870620,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 125963,
@@ -425,6 +481,14 @@
       "onboard_time": 1686847581,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122654,
+      "num": 122654,
+      "word": "六旬大爷抢座失败直接坐女子腿上",
+      "onboard_time": 1686847342,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121001,
@@ -451,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112141,
-      "num": 112141,
-      "word": "六旬大爷抢座失败直接坐女子腿上",
-      "onboard_time": 1686847342,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107949,
       "num": 107949,
       "word": "下次见面可能是在谁的婚礼上吧",
@@ -473,6 +529,14 @@
       "onboard_time": 1686846805,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101649,
+      "num": 101649,
+      "word": "董思成去看了梅西比赛",
+      "onboard_time": 1686871343,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 98368,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/16 07:17:21
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/16 07:33:44
 </p>
 </blockquote>
 <p>
@@ -5283,6 +5283,12 @@ EXO还回归吗（热度：666139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2352%E5%B2%81%E5%A4%A7%E5%8F%94%E4%BB%A5%E8%BA%AB%E8%AF%95%E9%99%A91%E5%B0%8F%E6%97%B6%E5%8A%9D%E9%80%8010%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%23" target="weibo">
+52岁大叔以身试险1小时劝退10多名游客（热度：664067）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Ella%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5%23" target="weibo">
 Ella笑不出来（热度：663331）
 </a>
@@ -6005,12 +6011,6 @@ QQ发不了图片（热度：556429）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9D%90%E4%B8%80%E8%B5%B7%23" target="weibo">
 白鹿王鹤棣坐一起（热度：555618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%20AD%23" target="weibo">
-EDG AD（热度：555427）
 </a>
 </li>
 
