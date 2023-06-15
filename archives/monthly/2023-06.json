@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686797421229,
+  "endTime": 1686799095484,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1088,6 +1088,14 @@
       "word": "江歌妈妈 捐出全部赔偿不是冲动",
       "onboard_time": 1685949269,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2062552,
+      "num": 2062552,
+      "word": "包丽案被告人一审被判3年2个月",
+      "onboard_time": 1686796406,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3251,6 +3259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1197697,
+      "num": 1197697,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1197139,
       "num": 1197139,
       "word": "乌克兰大坝被炸",
@@ -3473,14 +3489,6 @@
       "onboard_time": 1686730108,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1154091,
-      "num": 1154091,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1149512,
@@ -4048,6 +4056,14 @@
       "word": "四川大学 答辩",
       "onboard_time": 1685669667,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035700,
+      "num": 618677,
+      "word": "自称被地铁事件女子霸凌者愿配合调查",
+      "onboard_time": 1686795326,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -5635,6 +5651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 789745,
+      "num": 789745,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 787851,
       "num": 787851,
       "word": "弟弟故意输掉比赛守护坐轮椅姐姐",
@@ -6067,12 +6091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735025,
+      "num": 735025,
+      "word": "RNG老板澄清Uzi退役谣言",
+      "onboard_time": 1686794367,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 732991,
       "num": 622519,
       "word": "初会",
       "onboard_time": 1686583589,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 732161,
+      "num": 548337,
+      "word": "湖北一男生被室友连捅多刀杀害",
+      "onboard_time": 1686797187,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728868,
@@ -6475,14 +6515,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 678090,
-      "num": 678090,
-      "word": "包丽案被告人一审被判3年2个月",
-      "onboard_time": 1686796406,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 676786,
       "num": 676786,
       "word": "刘雅瑟多穿裙子吧",
@@ -6649,14 +6681,6 @@
       "onboard_time": 1685628095,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 658258,
-      "num": 658258,
-      "word": "RNG老板澄清Uzi退役谣言",
-      "onboard_time": 1686794367,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 655398,
@@ -6953,14 +6977,6 @@
       "onboard_time": 1686470307,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 618677,
-      "num": 618677,
-      "word": "自称被地铁事件女子霸凌者愿配合调查",
-      "onboard_time": 1686795326,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618141,
@@ -7433,6 +7449,14 @@
       "onboard_time": 1685842406,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 563110,
+      "num": 528888,
+      "word": "佟晓梅爸妈演我嗑cp",
+      "onboard_time": 1686797969,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 562941,
@@ -8091,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502618,
+      "num": 268856,
+      "word": "QQ发不了图片",
+      "onboard_time": 1686798566,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 502244,
       "num": 502244,
       "word": "北京动物园",
@@ -8401,6 +8433,14 @@
       "onboard_time": 1686064954,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483464,
+      "num": 483464,
+      "word": "赵丽颖 陌森",
+      "onboard_time": 1686798627,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 483139,
@@ -9529,6 +9569,14 @@
       "onboard_time": 1686185850,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 410487,
+      "num": 290839,
+      "word": "上班上到爸妈求我辞职",
+      "onboard_time": 1686798208,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 410332,
@@ -12379,14 +12427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311818,
-      "num": 311818,
-      "word": "澳门音乐节 退款",
-      "onboard_time": 1686796346,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 311706,
       "num": 311706,
       "word": "长月烬明三位主演的后续",
@@ -12929,6 +12969,14 @@
       "onboard_time": 1685624189,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298803,
+      "num": 298803,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298730,
@@ -13505,6 +13553,14 @@
       "onboard_time": 1685577507,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287013,
+      "num": 280569,
+      "word": "贺峻霖新歌",
+      "onboard_time": 1686798267,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 286973,
@@ -14177,6 +14233,14 @@
       "onboard_time": 1685780427,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274420,
+      "num": 274420,
+      "word": "牟林翰需赔偿包丽母亲73万余元",
+      "onboard_time": 1686798087,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274408,
@@ -15291,6 +15355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257138,
+      "num": 276804,
+      "word": "长相思什么时候抬上来",
+      "onboard_time": 1686798208,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257127,
       "num": 257127,
       "word": "肖春生佟晓梅疯狂上分",
@@ -15521,14 +15593,6 @@
       "onboard_time": 1685590048,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 254376,
-      "num": 254376,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254373,
@@ -18171,6 +18235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221536,
+      "num": 221536,
+      "word": "赵丽颖肖战墨镜大片",
+      "onboard_time": 1686798506,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221535,
       "num": 221535,
       "word": "你的童年回忆杀是什么",
@@ -18609,6 +18681,14 @@
       "onboard_time": 1686362316,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217164,
+      "num": 187369,
+      "word": "日本护肤品还能用吗",
+      "onboard_time": 1686796229,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 217110,
@@ -21635,6 +21715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190992,
+      "num": 190992,
+      "word": "鞠婧祎吻戏嘴角上扬",
+      "onboard_time": 1686798087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "尤长靖 祝福所有考生破浪逐新",
@@ -22249,14 +22337,6 @@
       "onboard_time": 1686539428,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187369,
-      "num": 187369,
-      "word": "日本护肤品还能用吗",
-      "onboard_time": 1686796229,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 187366,
@@ -23395,6 +23475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 176911,
+      "num": 176911,
+      "word": "以闪亮之名",
+      "onboard_time": 1686333800,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176865,
       "num": 174750,
       "word": "梦海里的长城竟然是特效",
@@ -23857,14 +23945,6 @@
       "onboard_time": 1686580468,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171331,
-      "num": 171331,
-      "word": "湖北一男生被室友连捅多刀杀害",
-      "onboard_time": 1686797187,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171231,
@@ -24651,6 +24731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164041,
+      "num": 164041,
+      "word": "交警拦没戴头盔男子竟有意外发现",
+      "onboard_time": 1686797247,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164026,
       "num": 164026,
       "word": "Amber看到帮唱师姐郑秀妍的反应",
@@ -24801,6 +24889,14 @@
       "onboard_time": 1686309568,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162357,
+      "num": 162357,
+      "word": "绵绵星球",
+      "onboard_time": 1686797667,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162334,
@@ -26931,6 +27027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 141901,
+      "num": 141901,
+      "word": "TangoZ街头随拍",
+      "onboard_time": 1686798865,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141747,
       "num": 141747,
       "word": "这是他第一次见到已满2岁半的儿子",
@@ -28227,6 +28331,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 128488,
+      "num": 128488,
+      "word": "生气小狗滤镜",
+      "onboard_time": 1686797548,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128384,
       "num": 128384,
       "word": "知识改变了你的命运",
@@ -28320,14 +28432,6 @@
       "word": "4岁男童路过纪念碑跑着上前敬礼",
       "onboard_time": 1685678427,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127363,
-      "num": 127363,
-      "word": "交警拦没戴头盔男子竟有意外发现",
-      "onboard_time": 1686797247,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -32507,14 +32611,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 40392,
-      "num": 44810,
-      "word": "以闪亮之名",
-      "onboard_time": 1686333800,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 40170,
       "num": 409951,
       "word": "毕业季女生手工自制学士帽送室友",
@@ -33351,6 +33447,9 @@
     },
     {
       "word": "#习近平同巴勒斯坦总统举行会谈#"
+    },
+    {
+      "word": "#杭州亚运会开幕日是秋分也是丰收节#"
     }
   ]
 }
