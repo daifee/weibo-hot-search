@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686857620237,
+  "endTime": 1686860271985,
   "band_list": [
     {
       "raw_hot": 2219766,
@@ -475,8 +475,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24546,
-      "num": 24546,
+      "raw_hot": 26434,
+      "num": 26434,
       "word": "陈妍希说陈晓眼神里的纯净一直都在",
       "onboard_time": 1686856815,
       "rank": 39,
@@ -489,6 +489,14 @@
       "onboard_time": 1686850457,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14938,
+      "num": 17569,
+      "word": "防晒",
+      "onboard_time": 1686859274,
+      "rank": 48,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
