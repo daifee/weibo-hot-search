@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686867354752,
+  "endTime": 1686868402394,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -7195,6 +7195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159139,
+      "num": 159139,
+      "word": "奶奶遭电诈被孙子带到派出所",
+      "onboard_time": 1686845127,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159097,
       "num": 159097,
       "word": "vcccc",
@@ -7609,14 +7617,6 @@
       "onboard_time": 1686570748,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 149297,
-      "num": 149297,
-      "word": "奶奶遭电诈被孙子带到派出所",
-      "onboard_time": 1686845127,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149231,
@@ -8305,6 +8305,14 @@
       "onboard_time": 1686833544,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135018,
+      "num": 135018,
+      "word": "第一次感觉老头背心好帅",
+      "onboard_time": 1686847941,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134994,
@@ -9587,14 +9595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81201,
-      "num": 81201,
-      "word": "第一次感觉老头背心好帅",
-      "onboard_time": 1686847941,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80596,
       "num": 688183,
       "word": "交警脱下雨衣一路小跑披在孩子身上",
@@ -9979,6 +9979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40514,
+      "num": 40514,
+      "word": "陈妍希说陈晓眼神里的纯净一直都在",
+      "onboard_time": 1686856815,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40170,
       "num": 409951,
       "word": "毕业季女生手工自制学士帽送室友",
@@ -9993,6 +10001,14 @@
       "onboard_time": 1686579213,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37506,
+      "num": 34754,
+      "word": "两代小龙女心中的少年都是过儿",
+      "onboard_time": 1686860591,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 36314,
@@ -10024,14 +10040,6 @@
       "word": "古巨基加胡夏微信打开了收款码",
       "onboard_time": 1686689953,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34754,
-      "num": 34754,
-      "word": "两代小龙女心中的少年都是过儿",
-      "onboard_time": 1686860591,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -10081,14 +10089,6 @@
       "onboard_time": 1686710308,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30380,
-      "num": 30380,
-      "word": "陈妍希说陈晓眼神里的纯净一直都在",
-      "onboard_time": 1686856815,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 27587,
