@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686854013042,
+  "endTime": 1686856357318,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -10145,6 +10145,14 @@
       "onboard_time": 1686826827,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20252,
+      "num": 24466,
+      "word": "电影孤注一掷定档",
+      "onboard_time": 1686850457,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 15607,

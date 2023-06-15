@@ -1,0 +1,410 @@
+{
+  "runTime": 1686856357318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 421779,
+        "num": 421779,
+        "word": "薛之谦 再见啦梅西",
+        "onboard_time": 1686844705,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172806,
+        "num": 172806,
+        "word": "海底捞回应8块钱生菜仅2片",
+        "onboard_time": 1686831921,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 11796,
+        "num": 132947,
+        "word": "杭州亚运会奖牌亮相",
+        "onboard_time": 1686832585,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295303,
+        "num": 121190,
+        "word": "冰清玉洁近况",
+        "onboard_time": 1686844348,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177621,
+        "num": 115721,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102133,
+        "num": 102133,
+        "word": "朱珠浪姐结束后去HEC上学了",
+        "onboard_time": 1686838825,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90196,
+        "num": 90196,
+        "word": "苏醒见完梅西偶遇来迟的薛之谦",
+        "onboard_time": 1686830783,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 86510,
+        "word": "阿根廷2比0",
+        "onboard_time": 1686836550,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81511,
+        "num": 81511,
+        "word": "杨紫羊毛卷",
+        "onboard_time": 1686835465,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 71412,
+        "num": 71412,
+        "word": "梅西81秒进球",
+        "onboard_time": 1686831085,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122727,
+        "num": 68690,
+        "word": "六公主",
+        "onboard_time": 1686817288,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73903,
+        "num": 67318,
+        "word": "青2黄一鸣生女",
+        "onboard_time": 1686836550,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64441,
+        "num": 64441,
+        "word": "薛之谦新歌崇拜",
+        "onboard_time": 1686842251,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60205,
+        "num": 60205,
+        "word": "梅西穿中文球衣",
+        "onboard_time": 1686832045,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56597,
+        "num": 56597,
+        "word": "快乐大本营",
+        "onboard_time": 1686813986,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53485,
+        "num": 53485,
+        "word": "张小斐说现在的红毯生图非常生",
+        "onboard_time": 1686824365,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 52411,
+        "num": 52411,
+        "word": "球踢爆了",
+        "onboard_time": 1686839729,
+        "rank": 16,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 52110,
+        "num": 52110,
+        "word": "阿根廷vs澳大利亚",
+        "onboard_time": 1686828983,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47800,
+        "num": 47800,
+        "word": "梅西过人好牛",
+        "onboard_time": 1686837268,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45674,
+        "num": 45674,
+        "word": "梅西谈卡塔尔世界杯首战输给沙特",
+        "onboard_time": 1686848300,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 57837,
+        "num": 45014,
+        "word": "校方回应地铁事件女子在科技作品署名",
+        "onboard_time": 1686827844,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 53152,
+        "num": 44753,
+        "word": "一位韩国爸爸带女儿去夜店",
+        "onboard_time": 1686840932,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50841,
+        "num": 44221,
+        "word": "高考结束发现被妈妈骗了",
+        "onboard_time": 1686835948,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42577,
+        "num": 42577,
+        "word": "第一次感觉老头背心好帅",
+        "onboard_time": 1686847941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42414,
+        "num": 42414,
+        "word": "薛之谦演唱会抢票",
+        "onboard_time": 1686822807,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41914,
+        "num": 41914,
+        "word": "扣饭事件学院称不清楚女生是否精神异常",
+        "onboard_time": 1686843269,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 40202,
+        "num": 40202,
+        "word": "过度打扮的女友和随意的男友",
+        "onboard_time": 1686818427,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 39881,
+        "num": 39881,
+        "word": "lofter",
+        "onboard_time": 1686843686,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36571,
+        "num": 36571,
+        "word": "奶奶遭电诈被孙子带到派出所",
+        "onboard_time": 1686845127,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34872,
+        "num": 34872,
+        "word": "张踩铃 当一个混血被双语幼儿园拒收",
+        "onboard_time": 1686831023,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34698,
+        "num": 34698,
+        "word": "孟子义说曾舜晞我谈没谈你不知道吗",
+        "onboard_time": 1686840211,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33873,
+        "num": 33873,
+        "word": "苏醒 我离梅西好远",
+        "onboard_time": 1686834267,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 31921,
+        "num": 31921,
+        "word": "快乐大本营主持人现状",
+        "onboard_time": 1686847581,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31168,
+        "num": 31168,
+        "word": "嵩山音乐节 退票",
+        "onboard_time": 1686834207,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31144,
+        "num": 31144,
+        "word": "贾乃亮黄景瑜评论区互怼",
+        "onboard_time": 1686829943,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30613,
+        "num": 30613,
+        "word": "梅西引力",
+        "onboard_time": 1686840751,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30397,
+        "num": 30397,
+        "word": "梅西今晚离开北京",
+        "onboard_time": 1686822265,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28958,
+        "num": 28958,
+        "word": "成毅坐轮椅直播",
+        "onboard_time": 1686832886,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28656,
+        "num": 28656,
+        "word": "ZB1回归概念预告",
+        "onboard_time": 1686842728,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28641,
+        "num": 28641,
+        "word": "肖战央视专访",
+        "onboard_time": 1686831566,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25878,
+        "num": 25878,
+        "word": "卖杏老人儿子望偷拿女子澄清或道歉",
+        "onboard_time": 1686821188,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25776,
+        "num": 25776,
+        "word": "谢娜曾三去三留快乐大本营",
+        "onboard_time": 1686842966,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25746,
+        "num": 25746,
+        "word": "杨颖代言丸美3年2400万",
+        "onboard_time": 1686816208,
+        "rank": 42,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 25174,
+        "num": 25174,
+        "word": "钟辰乐发色",
+        "onboard_time": 1686845308,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25089,
+        "num": 25089,
+        "word": "肖春生的菠萝头长大了",
+        "onboard_time": 1686835826,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24787,
+        "num": 24787,
+        "word": "面试三句话让一屋子考官沉默了",
+        "onboard_time": 1686811286,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 24606,
+        "num": 24606,
+        "word": "六旬大爷抢座失败直接坐女子腿上",
+        "onboard_time": 1686847342,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23211,
+        "num": 24568,
+        "word": "下次见面可能是在谁的婚礼上吧",
+        "onboard_time": 1686848600,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 23197,
+        "num": 24506,
+        "word": "自己供自己上了四年的大学",
+        "onboard_time": 1686827425,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20252,
+        "num": 24466,
+        "word": "电影孤注一掷定档",
+        "onboard_time": 1686850457,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国成功发射一箭41星刷新纪录#"
+    }
+  }
+}
