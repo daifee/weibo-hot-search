@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686794242840,
+  "endTime": 1686796875593,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -811,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1097075,
+      "num": 1097075,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1082710,
       "num": 1082710,
       "word": "应采儿回应把hoho当成女孩养",
@@ -1043,20 +1051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928540,
+      "num": 928540,
+      "word": "张晚意说我是杨紫她哥",
+      "onboard_time": 1686793887,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 919916,
       "num": 919916,
       "word": "梅西说不会参加下届世界杯",
       "onboard_time": 1686659067,
       "rank": 23,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 910094,
-      "num": 910094,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 905633,
@@ -1427,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709439,
+      "num": 709439,
+      "word": "蒋依依毕业照",
+      "onboard_time": 1686788433,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 707420,
       "num": 509116,
       "word": "员工入职一个半月怀孕了",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 672049,
-      "num": 672049,
-      "word": "蒋依依毕业照",
-      "onboard_time": 1686788433,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 668496,
@@ -1531,6 +1539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 635205,
+      "num": 635205,
+      "word": "RNG老板澄清Uzi退役谣言",
+      "onboard_time": 1686794367,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 625449,
       "num": 508181,
       "word": "被领导偷看了微信聊天记录",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1686669449,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 605141,
+      "num": 605141,
+      "word": "自称被地铁事件女子霸凌者愿配合调查",
+      "onboard_time": 1686795326,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604759,
@@ -2056,6 +2080,14 @@
       "word": "男子杀害妻子及妻弟媳",
       "onboard_time": 1686655947,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388377,
+      "num": 388377,
+      "word": "包丽案被告人一审被判3年2个月",
+      "onboard_time": 1686796406,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2787,6 +2819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278238,
+      "num": 278238,
+      "word": "张艺兴金晨对手戏",
+      "onboard_time": 1686796707,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278223,
       "num": 278223,
       "word": "还得是EXO",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1686751827,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 269617,
+      "num": 269617,
+      "word": "闪耀暖暖",
+      "onboard_time": 1686796406,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 269453,
@@ -3451,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237296,
+      "num": 237296,
+      "word": "陈都灵说演员不是非得演女一男一",
+      "onboard_time": 1686792208,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237117,
       "num": 237117,
       "word": "咒术回战",
@@ -3601,6 +3657,14 @@
       "onboard_time": 1686706470,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228109,
+      "num": 228109,
+      "word": "单身才能睡个好觉",
+      "onboard_time": 1686794666,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 228082,
@@ -3833,14 +3897,6 @@
       "onboard_time": 1686540568,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218203,
-      "num": 218203,
-      "word": "陈都灵说演员不是非得演女一男一",
-      "onboard_time": 1686792208,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 217110,
@@ -4209,6 +4265,14 @@
       "onboard_time": 1686729988,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204421,
+      "num": 204421,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 204199,
@@ -5179,14 +5243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174053,
-      "num": 174053,
-      "word": "张晚意说我是杨紫她哥",
-      "onboard_time": 1686793887,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 173696,
       "num": 173696,
       "word": "seventeen青岛签售会没有分组",
@@ -5467,6 +5523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163830,
+      "num": 163830,
+      "word": "一碗多巴胺",
+      "onboard_time": 1686796047,
+      "rank": 34,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 163648,
       "num": 163648,
       "word": "肖春生在自己不知道的时候已爱上佟晓梅",
@@ -5529,6 +5593,14 @@
       "onboard_time": 1686753453,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161536,
+      "num": 161536,
+      "word": "日本护肤品还能用吗",
+      "onboard_time": 1686796229,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 161474,
@@ -6323,6 +6395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "麻烦大家帮我P成中国背景",
+      "onboard_time": 1686793948,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139224,
       "num": 139224,
       "word": "贺红玲说肖春生甩了她",
@@ -6441,6 +6521,14 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 135338,
+      "num": 135338,
+      "word": "胡海泉新歌走向光明未来",
+      "onboard_time": 1686795927,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 134994,
@@ -6715,14 +6803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125076,
-      "num": 125076,
-      "word": "麻烦大家帮我P成中国背景",
-      "onboard_time": 1686793948,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125059,
       "num": 125059,
       "word": "李沁哭戏主动和导演说再来一遍",
@@ -6923,6 +7003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116872,
+      "num": 116872,
+      "word": "爱欲太强就意味着失去自我",
+      "onboard_time": 1686795265,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115340,
       "num": 115340,
       "word": "熊猫宝宝爬树也需要鼓励式教育",
@@ -7035,6 +7123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108368,
+      "num": 108368,
+      "word": "求迪丽热巴安旎心理阴影面积",
+      "onboard_time": 1686795145,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108338,
       "num": 119273,
       "word": "北极熊结束冬眠后的第一天",
@@ -7089,6 +7185,14 @@
       "onboard_time": 1686610940,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 104955,
+      "num": 104955,
+      "word": "男子连续23年无偿献出3个成人血量",
+      "onboard_time": 1686796765,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104927,
@@ -7176,6 +7280,14 @@
       "word": "村里办长者食堂提供1元午餐",
       "onboard_time": 1686560431,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100353,
+      "num": 100353,
+      "word": "上海地震监控视频",
+      "onboard_time": 1686795265,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

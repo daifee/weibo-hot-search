@@ -1,0 +1,410 @@
+{
+  "runTime": 1686796875593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257885,
+        "num": 1257885,
+        "word": "上海地震",
+        "onboard_time": 1686766515,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097075,
+        "num": 1097075,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19006,
+        "num": 1018292,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 970621,
+        "num": 970621,
+        "word": "鱼头星星回来了",
+        "onboard_time": 1686787590,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928540,
+        "num": 928540,
+        "word": "张晚意说我是杨紫她哥",
+        "onboard_time": 1686793887,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 924004,
+        "num": 924004,
+        "word": "迪士尼回应女子穿联名汉服被拦",
+        "onboard_time": 1686786927,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 812474,
+        "num": 812474,
+        "word": "上厕所时千万不要蹲在马桶上",
+        "onboard_time": 1686786927,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 779593,
+        "num": 779593,
+        "word": "S属性大爆发",
+        "onboard_time": 1686750210,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 709439,
+        "num": 709439,
+        "word": "蒋依依毕业照",
+        "onboard_time": 1686788433,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644046,
+        "num": 644046,
+        "word": "杨幂卷发军装路透",
+        "onboard_time": 1686786265,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1004301,
+        "num": 642005,
+        "word": "河北师大混入女浴室男子被控制",
+        "onboard_time": 1686790472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635205,
+        "num": 635205,
+        "word": "RNG老板澄清Uzi退役谣言",
+        "onboard_time": 1686794367,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 605141,
+        "num": 605141,
+        "word": "自称被地铁事件女子霸凌者愿配合调查",
+        "onboard_time": 1686795326,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554403,
+        "num": 554403,
+        "word": "张杰谢娜带女儿上早教",
+        "onboard_time": 1686786566,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547103,
+        "num": 547103,
+        "word": "温州近视司机深夜高速上镜片突然脱落",
+        "onboard_time": 1686758726,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489457,
+        "num": 489457,
+        "word": "韩国摄影师在廉租房生活拍摄3年",
+        "onboard_time": 1686757050,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388377,
+        "num": 388377,
+        "word": "包丽案被告人一审被判3年2个月",
+        "onboard_time": 1686796406,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387557,
+        "num": 387557,
+        "word": "宋仲基儿子出生",
+        "onboard_time": 1686748169,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331789,
+        "num": 331789,
+        "word": "家属回应女子被丈夫跨省杀害",
+        "onboard_time": 1686784641,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271778,
+        "num": 323033,
+        "word": "关晓彤第一套vs第二套",
+        "onboard_time": 1686741986,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 408414,
+        "num": 322861,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356683,
+        "num": 322666,
+        "word": "常远是离肠癌远一点",
+        "onboard_time": 1686784521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321949,
+        "num": 321949,
+        "word": "双宋彻底BE",
+        "onboard_time": 1686749610,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278238,
+        "num": 278238,
+        "word": "张艺兴金晨对手戏",
+        "onboard_time": 1686796707,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269617,
+        "num": 269617,
+        "word": "闪耀暖暖",
+        "onboard_time": 1686796406,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237296,
+        "num": 237296,
+        "word": "陈都灵说演员不是非得演女一男一",
+        "onboard_time": 1686792208,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228109,
+        "num": 228109,
+        "word": "单身才能睡个好觉",
+        "onboard_time": 1686794666,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224217,
+        "num": 224217,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207350,
+        "num": 207350,
+        "word": "杭州蓝色钱江纵火案房源以2360万元网签",
+        "onboard_time": 1686792088,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204421,
+        "num": 204421,
+        "word": "澳门音乐节 退款",
+        "onboard_time": 1686796346,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193847,
+        "num": 193847,
+        "word": "全网找寻京A8852",
+        "onboard_time": 1686790590,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169404,
+        "num": 169404,
+        "word": "妈妈对我俄罗斯男友的称呼",
+        "onboard_time": 1686786506,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168745,
+        "num": 168745,
+        "word": "考古女生寄200斤洛阳铲装备吓坏父母",
+        "onboard_time": 1686754593,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164707,
+        "num": 164707,
+        "word": "幸好肖春生留了底",
+        "onboard_time": 1686792806,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163830,
+        "num": 163830,
+        "word": "一碗多巴胺",
+        "onboard_time": 1686796047,
+        "rank": 34,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 161536,
+        "num": 161536,
+        "word": "日本护肤品还能用吗",
+        "onboard_time": 1686796229,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145168,
+        "num": 145168,
+        "word": "恩佐 小蜘蛛",
+        "onboard_time": 1686791189,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144509,
+        "num": 144509,
+        "word": "接下来1个月浙江人的水果C位",
+        "onboard_time": 1686793348,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "麻烦大家帮我P成中国背景",
+        "onboard_time": 1686793948,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135338,
+        "num": 135338,
+        "word": "胡海泉新歌走向光明未来",
+        "onboard_time": 1686795927,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132349,
+        "num": 132349,
+        "word": "男子赶集买毛蛋到家全变鸭子",
+        "onboard_time": 1686793708,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129004,
+        "num": 129004,
+        "word": "社会的边角料却是家里的顶梁柱",
+        "onboard_time": 1686792806,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122562,
+        "num": 122562,
+        "word": "上海青浦区发生3.1级地震",
+        "onboard_time": 1686784341,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122243,
+        "num": 122243,
+        "word": "同龄人的朋友圈和我的朋友圈",
+        "onboard_time": 1686787949,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116872,
+        "num": 116872,
+        "word": "爱欲太强就意味着失去自我",
+        "onboard_time": 1686795265,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "求迪丽热巴安旎心理阴影面积",
+        "onboard_time": 1686795145,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107983,
+        "num": 107983,
+        "word": "端午还没到阿姨采艾草就掉洞里了",
+        "onboard_time": 1686791909,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105318,
+        "num": 105318,
+        "word": "内娱校花",
+        "onboard_time": 1686750870,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104955,
+        "num": 104955,
+        "word": "男子连续23年无偿献出3个成人血量",
+        "onboard_time": 1686796765,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100353,
+        "num": 100353,
+        "word": "上海地震监控视频",
+        "onboard_time": 1686795265,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴勒斯坦总统举行会谈#"
+    }
+  }
+}
