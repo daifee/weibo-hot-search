@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686799095484,
+  "endTime": 1686800020481,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -27,6 +27,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1386021,
+      "num": 1386021,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1373496,
       "num": 786396,
       "word": "宋仲基儿子出生",
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1197697,
-      "num": 1197697,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1039402,
       "num": 1039402,
       "word": "考古女生寄200斤洛阳铲装备吓坏父母",
@@ -81,6 +81,14 @@
       "onboard_time": 1686793887,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1005865,
+      "num": 1005865,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 997805,
@@ -115,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 862258,
+      "num": 615860,
+      "word": "湖北一男生被室友连捅多刀杀害",
+      "onboard_time": 1686797187,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829620,
       "num": 829620,
       "word": "上海",
@@ -147,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789745,
-      "num": 789745,
-      "word": "澳门音乐节 退款",
-      "onboard_time": 1686796346,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 788970,
       "num": 788970,
       "word": "S属性大爆发",
       "onboard_time": 1686750210,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 787983,
+      "num": 787983,
+      "word": "赵丽颖 陌森",
+      "onboard_time": 1686798627,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 761175,
@@ -187,20 +203,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 732161,
-      "num": 548337,
-      "word": "湖北一男生被室友连捅多刀杀害",
-      "onboard_time": 1686797187,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 716933,
       "num": 593096,
       "word": "常远是离肠癌远一点",
       "onboard_time": 1686784521,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681214,
+      "num": 290839,
+      "word": "上班上到爸妈求我辞职",
+      "onboard_time": 1686798208,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 667086,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593224,
+      "num": 593224,
+      "word": "House脱口秀演出剧院被罚10万",
+      "onboard_time": 1686799290,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563110,
       "num": 528888,
       "word": "佟晓梅爸妈演我嗑cp",
@@ -235,15 +259,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 511973,
-      "num": 511973,
-      "word": "黄永玉逝世",
-      "onboard_time": 1686735507,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502618,
+      "raw_hot": 556429,
       "num": 268856,
       "word": "QQ发不了图片",
       "onboard_time": 1686798566,
@@ -251,12 +267,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 483464,
-      "num": 483464,
-      "word": "赵丽颖 陌森",
-      "onboard_time": 1686798627,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 511973,
+      "num": 511973,
+      "word": "黄永玉逝世",
+      "onboard_time": 1686735507,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455500,
@@ -291,14 +307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 410487,
-      "num": 290839,
-      "word": "上班上到爸妈求我辞职",
-      "onboard_time": 1686798208,
-      "rank": 22,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 384257,
       "num": 252758,
       "word": "妈妈对我俄罗斯男友的称呼",
@@ -313,6 +321,14 @@
       "onboard_time": 1686752192,
       "rank": 13,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 377099,
+      "num": 298803,
+      "word": "包丽",
+      "onboard_time": 1686798267,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364531,
@@ -339,19 +355,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323405,
+      "num": 278288,
+      "word": "赵丽颖肖战墨镜大片",
+      "onboard_time": 1686798506,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309545,
       "num": 309545,
       "word": "比尔盖茨自2019年以来首次抵达北京",
       "onboard_time": 1686754292,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298803,
-      "num": 298803,
-      "word": "包丽",
-      "onboard_time": 1686798267,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -475,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221536,
-      "num": 221536,
-      "word": "赵丽颖肖战墨镜大片",
-      "onboard_time": 1686798506,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217164,
       "num": 187369,
       "word": "日本护肤品还能用吗",
@@ -531,6 +539,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 201248,
+      "num": 169905,
+      "word": "TangoZ街头随拍",
+      "onboard_time": 1686798865,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199394,
       "num": 199394,
       "word": "全网找寻京A8852",
@@ -563,6 +579,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 194085,
+      "num": 190992,
+      "word": "鞠婧祎吻戏嘴角上扬",
+      "onboard_time": 1686798087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193564,
       "num": 193564,
       "word": "内娱校花",
@@ -577,14 +601,6 @@
       "onboard_time": 1686741268,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190992,
-      "num": 190992,
-      "word": "鞠婧祎吻戏嘴角上扬",
-      "onboard_time": 1686798087,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 189614,
@@ -763,20 +779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141901,
-      "num": 141901,
-      "word": "TangoZ街头随拍",
-      "onboard_time": 1686798865,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141718,
       "num": 141718,
       "word": "唯一一个对肖春生知恩图报的人",
       "onboard_time": 1686750210,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141387,
+      "num": 572278,
+      "word": "女学霸边读研边兼职3年赚17万",
+      "onboard_time": 1686799166,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139987,
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 124341,
-      "num": 124341,
+      "num": 167966,
       "word": "永远不忘清澈的爱",
       "onboard_time": 1686797127,
       "rank": 43,
@@ -881,6 +897,14 @@
       "onboard_time": 1686791668,
       "rank": 49,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 117421,
+      "num": 117421,
+      "word": "芝芙在迪士尼庆生",
+      "onboard_time": 1686799408,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116872,
@@ -1123,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20804,
+      "num": 882568,
+      "word": "相约2023杭州亚运会",
+      "onboard_time": 1686799767,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19496,
       "num": 1363694,
       "word": "杭州迎亚运风光片",
@@ -1151,6 +1183,9 @@
     },
     {
       "word": "#杭州亚运会开幕日是秋分也是丰收节#"
+    },
+    {
+      "word": "#中巴建立战略伙伴关系#"
     }
   ]
 }

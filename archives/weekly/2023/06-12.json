@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686799095484,
+  "endTime": 1686800020481,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1386021,
+      "num": 1386021,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351320,
       "num": 1351320,
       "word": "NBA总决赛",
@@ -721,14 +729,6 @@
       "onboard_time": 1686570268,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1197697,
-      "num": 1197697,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1195952,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1005865,
+      "num": 1005865,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1004776,
       "num": 478995,
       "word": "中了5976万彩票大奖的男子领奖时哆嗦了",
@@ -1171,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862258,
+      "num": 615860,
+      "word": "湖北一男生被室友连捅多刀杀害",
+      "onboard_time": 1686797187,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857818,
       "num": 857818,
       "word": "姆巴佩说梅西没得到应有的尊重",
@@ -1299,12 +1315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789745,
-      "num": 789745,
-      "word": "澳门音乐节 退款",
-      "onboard_time": 1686796346,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 787983,
+      "num": 787983,
+      "word": "赵丽颖 陌森",
+      "onboard_time": 1686798627,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 785216,
@@ -1443,14 +1459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 732161,
-      "num": 548337,
-      "word": "湖北一男生被室友连捅多刀杀害",
-      "onboard_time": 1686797187,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722852,
       "num": 489324,
       "word": "文章包文婧组团带娃逛迪士尼",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681214,
+      "num": 290839,
+      "word": "上班上到爸妈求我辞职",
+      "onboard_time": 1686798208,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 668496,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1686784341,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593224,
+      "num": 593224,
+      "word": "House脱口秀演出剧院被罚10万",
+      "onboard_time": 1686799290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 587268,
@@ -1723,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556429,
+      "num": 268856,
+      "word": "QQ发不了图片",
+      "onboard_time": 1686798566,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 555618,
       "num": 555618,
       "word": "白鹿王鹤棣坐一起",
@@ -1835,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502618,
-      "num": 268856,
-      "word": "QQ发不了图片",
-      "onboard_time": 1686798566,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 498848,
       "num": 498848,
       "word": "奔跑吧泰国站最惊艳的人",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1686659008,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 483464,
-      "num": 483464,
-      "word": "赵丽颖 陌森",
-      "onboard_time": 1686798627,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 481358,
@@ -2067,14 +2083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410487,
-      "num": 290839,
-      "word": "上班上到爸妈求我辞职",
-      "onboard_time": 1686798208,
-      "rank": 22,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 405989,
       "num": 405989,
       "word": "约基奇FMVP",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1686579751,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377099,
+      "num": 298803,
+      "word": "包丽",
+      "onboard_time": 1686798267,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375986,
@@ -2555,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323405,
+      "num": 278288,
+      "word": "赵丽颖肖战墨镜大片",
+      "onboard_time": 1686798506,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322634,
       "num": 274801,
       "word": "是怎么说服肖战拍视频的",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1686731068,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298803,
-      "num": 298803,
-      "word": "包丽",
-      "onboard_time": 1686798267,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298145,
@@ -3923,14 +3939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221536,
-      "num": 221536,
-      "word": "赵丽颖肖战墨镜大片",
-      "onboard_time": 1686798506,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220877,
       "num": 220877,
       "word": "恋与制作人",
@@ -4475,6 +4483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201248,
+      "num": 169905,
+      "word": "TangoZ街头随拍",
+      "onboard_time": 1686798865,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201152,
       "num": 201152,
       "word": "跑男比耶没告诉沙溢",
@@ -4675,6 +4691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194085,
+      "num": 190992,
+      "word": "鞠婧祎吻戏嘴角上扬",
+      "onboard_time": 1686798087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194064,
       "num": 194064,
       "word": "山崎贤人怎么变这样了",
@@ -4801,14 +4825,6 @@
       "onboard_time": 1686666510,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190992,
-      "num": 190992,
-      "word": "鞠婧祎吻戏嘴角上扬",
-      "onboard_time": 1686798087,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 190595,
@@ -6395,14 +6411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141901,
-      "num": 141901,
-      "word": "TangoZ街头随拍",
-      "onboard_time": 1686798865,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141628,
       "num": 141628,
       "word": "王俊凯新片路透",
@@ -6417,6 +6425,14 @@
       "onboard_time": 1686654029,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141387,
+      "num": 572278,
+      "word": "女学霸边读研边兼职3年赚17万",
+      "onboard_time": 1686799166,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141322,
@@ -6956,7 +6972,7 @@
     },
     {
       "raw_hot": 124341,
-      "num": 124341,
+      "num": 167966,
       "word": "永远不忘清澈的爱",
       "onboard_time": 1686797127,
       "rank": 43,
@@ -7137,6 +7153,14 @@
       "onboard_time": 1686655767,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117421,
+      "num": 117421,
+      "word": "芝芙在迪士尼庆生",
+      "onboard_time": 1686799408,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117213,
@@ -8107,6 +8131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20804,
+      "num": 882568,
+      "word": "相约2023杭州亚运会",
+      "onboard_time": 1686799767,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15607,
       "num": 19294,
       "word": "2023CFPL",
@@ -8170,6 +8202,9 @@
     },
     {
       "word": "#杭州亚运会开幕日是秋分也是丰收节#"
+    },
+    {
+      "word": "#中巴建立战略伙伴关系#"
     }
   ]
 }

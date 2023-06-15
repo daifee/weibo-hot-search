@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686799095484,
+  "endTime": 1686800020481,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2507,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1386021,
+      "num": 1386021,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1380628,
       "num": 1380628,
       "word": "边伯贤金珉锡金钟大与SMTOWN解约",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1686048269,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1197697,
-      "num": 1197697,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1197139,
@@ -4267,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1005865,
+      "num": 1005865,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1005394,
       "num": 1005394,
       "word": "杨颖不要再瘦了",
@@ -5067,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862258,
+      "num": 615860,
+      "word": "湖北一男生被室友连捅多刀杀害",
+      "onboard_time": 1686797187,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861719,
       "num": 861719,
       "word": "白鹿你不热吗",
@@ -5651,12 +5667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 789745,
-      "num": 789745,
-      "word": "澳门音乐节 退款",
-      "onboard_time": 1686796346,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 787983,
+      "num": 787983,
+      "word": "赵丽颖 陌森",
+      "onboard_time": 1686798627,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 787851,
@@ -6107,14 +6123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 732161,
-      "num": 548337,
-      "word": "湖北一男生被室友连捅多刀杀害",
-      "onboard_time": 1686797187,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "花少 邓恩熙",
@@ -6473,6 +6481,14 @@
       "onboard_time": 1685794226,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 681214,
+      "num": 290839,
+      "word": "上班上到爸妈求我辞职",
+      "onboard_time": 1686798208,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 680090,
@@ -7179,6 +7195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 593224,
+      "num": 593224,
+      "word": "House脱口秀演出剧院被罚10万",
+      "onboard_time": 1686799290,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591736,
       "num": 591736,
       "word": "杂志方怼杨紫恶评",
@@ -7537,6 +7561,14 @@
       "onboard_time": 1685871026,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556429,
+      "num": 268856,
+      "word": "QQ发不了图片",
+      "onboard_time": 1686798566,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 555765,
@@ -8115,14 +8147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502618,
-      "num": 268856,
-      "word": "QQ发不了图片",
-      "onboard_time": 1686798566,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 502244,
       "num": 502244,
       "word": "北京动物园",
@@ -8433,14 +8457,6 @@
       "onboard_time": 1686064954,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483464,
-      "num": 483464,
-      "word": "赵丽颖 陌森",
-      "onboard_time": 1686798627,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 483139,
@@ -9571,14 +9587,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 410487,
-      "num": 290839,
-      "word": "上班上到爸妈求我辞职",
-      "onboard_time": 1686798208,
-      "rank": 22,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 410332,
       "num": 410332,
       "word": "Angelababy张大大有默契但不多",
@@ -10273,6 +10281,14 @@
       "onboard_time": 1685583746,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 377099,
+      "num": 298803,
+      "word": "包丽",
+      "onboard_time": 1685945789,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375986,
@@ -12043,6 +12059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323405,
+      "num": 278288,
+      "word": "赵丽颖肖战墨镜大片",
+      "onboard_time": 1686798506,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323062,
       "num": 323062,
       "word": "王菲那英好甜",
@@ -12969,14 +12993,6 @@
       "onboard_time": 1685624189,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298803,
-      "num": 298803,
-      "word": "包丽",
-      "onboard_time": 1685945789,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298730,
@@ -18235,14 +18251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221536,
-      "num": 221536,
-      "word": "赵丽颖肖战墨镜大片",
-      "onboard_time": 1686798506,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221535,
       "num": 221535,
       "word": "你的童年回忆杀是什么",
@@ -20387,6 +20395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201248,
+      "num": 169905,
+      "word": "TangoZ街头随拍",
+      "onboard_time": 1686798865,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201195,
       "num": 201195,
       "word": "肖战气氛组组长",
@@ -21187,6 +21203,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 194085,
+      "num": 190992,
+      "word": "鞠婧祎吻戏嘴角上扬",
+      "onboard_time": 1686798087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194064,
       "num": 194064,
       "word": "山崎贤人怎么变这样了",
@@ -21713,14 +21737,6 @@
       "onboard_time": 1686666510,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190992,
-      "num": 190992,
-      "word": "鞠婧祎吻戏嘴角上扬",
-      "onboard_time": 1686798087,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 190957,
@@ -27027,14 +27043,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 141901,
-      "num": 141901,
-      "word": "TangoZ街头随拍",
-      "onboard_time": 1686798865,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141747,
       "num": 141747,
       "word": "这是他第一次见到已满2岁半的儿子",
@@ -27065,6 +27073,14 @@
       "onboard_time": 1686654029,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141387,
+      "num": 572278,
+      "word": "女学霸边读研边兼职3年赚17万",
+      "onboard_time": 1686799166,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141322,
@@ -28652,7 +28668,7 @@
     },
     {
       "raw_hot": 124341,
-      "num": 124341,
+      "num": 167966,
       "word": "永远不忘清澈的爱",
       "onboard_time": 1686797127,
       "rank": 43,
@@ -29281,6 +29297,14 @@
       "onboard_time": 1686655767,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117421,
+      "num": 117421,
+      "word": "芝芙在迪士尼庆生",
+      "onboard_time": 1686799408,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117392,
@@ -33171,6 +33195,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 20804,
+      "num": 882568,
+      "word": "相约2023杭州亚运会",
+      "onboard_time": 1686799767,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19970,
       "num": 139868,
       "word": "青年派选手亮相淘宝直播",
@@ -33450,6 +33482,9 @@
     },
     {
       "word": "#杭州亚运会开幕日是秋分也是丰收节#"
+    },
+    {
+      "word": "#中巴建立战略伙伴关系#"
     }
   ]
 }

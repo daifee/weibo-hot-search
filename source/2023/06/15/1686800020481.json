@@ -1,0 +1,410 @@
+{
+  "runTime": 1686800020481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386021,
+        "num": 1386021,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005865,
+        "num": 1005865,
+        "word": "澳门音乐节 退款",
+        "onboard_time": 1686796346,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20804,
+        "num": 882568,
+        "word": "相约2023杭州亚运会",
+        "onboard_time": 1686799767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861009,
+        "num": 861009,
+        "word": "张晚意说我是杨紫她哥",
+        "onboard_time": 1686793887,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 834818,
+        "num": 834818,
+        "word": "鱼头星星回来了",
+        "onboard_time": 1686787590,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1865434,
+        "num": 824704,
+        "word": "包丽案被告人一审被判3年2个月",
+        "onboard_time": 1686796406,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787983,
+        "num": 787983,
+        "word": "赵丽颖 陌森",
+        "onboard_time": 1686798627,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 691211,
+        "num": 691211,
+        "word": "上海地震",
+        "onboard_time": 1686766515,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685616,
+        "num": 685616,
+        "word": "RNG老板澄清Uzi退役谣言",
+        "onboard_time": 1686794367,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640235,
+        "num": 640235,
+        "word": "上厕所时千万不要蹲在马桶上",
+        "onboard_time": 1686786927,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 885301,
+        "num": 624780,
+        "word": "河北师大混入女浴室男子被控制",
+        "onboard_time": 1686790472,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862258,
+        "num": 615860,
+        "word": "湖北一男生被室友连捅多刀杀害",
+        "onboard_time": 1686797187,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740267,
+        "num": 607106,
+        "word": "自称被地铁事件女子霸凌者愿配合调查",
+        "onboard_time": 1686795326,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593224,
+        "num": 593224,
+        "word": "House脱口秀演出剧院被罚10万",
+        "onboard_time": 1686799290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141387,
+        "num": 572278,
+        "word": "女学霸边读研边兼职3年赚17万",
+        "onboard_time": 1686799166,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557989,
+        "num": 557989,
+        "word": "杨幂卷发军装路透",
+        "onboard_time": 1686786265,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 512242,
+        "num": 512242,
+        "word": "蒋依依毕业照",
+        "onboard_time": 1686788433,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394194,
+        "num": 394194,
+        "word": "迪士尼回应女子穿联名汉服被拦",
+        "onboard_time": 1686786927,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 290039,
+        "num": 290039,
+        "word": "宋仲基儿子出生",
+        "onboard_time": 1686748169,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279456,
+        "num": 279456,
+        "word": "张杰谢娜带女儿上早教",
+        "onboard_time": 1686786566,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681214,
+        "num": 279139,
+        "word": "上班上到爸妈求我辞职",
+        "onboard_time": 1686798208,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 476202,
+        "num": 278831,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377099,
+        "num": 278758,
+        "word": "包丽",
+        "onboard_time": 1686798267,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323405,
+        "num": 278288,
+        "word": "赵丽颖肖战墨镜大片",
+        "onboard_time": 1686798506,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278129,
+        "num": 278129,
+        "word": "双宋彻底BE",
+        "onboard_time": 1686749610,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273089,
+        "num": 273089,
+        "word": "常远是离肠癌远一点",
+        "onboard_time": 1686784521,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271530,
+        "num": 271530,
+        "word": "关晓彤第一套vs第二套",
+        "onboard_time": 1686741986,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222300,
+        "num": 222300,
+        "word": "长相思什么时候抬上来",
+        "onboard_time": 1686798208,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219482,
+        "num": 219482,
+        "word": "S属性大爆发",
+        "onboard_time": 1686750210,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175496,
+        "num": 175496,
+        "word": "温州近视司机深夜高速上镜片突然脱落",
+        "onboard_time": 1686758726,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556429,
+        "num": 175129,
+        "word": "QQ发不了图片",
+        "onboard_time": 1686798566,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 238363,
+        "num": 171757,
+        "word": "牟林翰需赔偿包丽母亲73万余元",
+        "onboard_time": 1686798087,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201248,
+        "num": 169905,
+        "word": "TangoZ街头随拍",
+        "onboard_time": 1686798865,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67988,
+        "num": 167966,
+        "word": "永远不忘清澈的爱",
+        "onboard_time": 1686797127,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194085,
+        "num": 167177,
+        "word": "鞠婧祎吻戏嘴角上扬",
+        "onboard_time": 1686798087,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184909,
+        "num": 165095,
+        "word": "品牌方说赵露思礼服是借的",
+        "onboard_time": 1686737730,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183383,
+        "num": 162789,
+        "word": "陈都灵说演员不是非得演女一男一",
+        "onboard_time": 1686792208,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162241,
+        "num": 162241,
+        "word": "单身才能睡个好觉",
+        "onboard_time": 1686794666,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160824,
+        "num": 160824,
+        "word": "张艺兴金晨对手戏",
+        "onboard_time": 1686796707,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152860,
+        "num": 152860,
+        "word": "恩佐 小蜘蛛",
+        "onboard_time": 1686791189,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157936,
+        "num": 152814,
+        "word": "贺峻霖新歌",
+        "onboard_time": 1686798267,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149765,
+        "num": 152224,
+        "word": "家属回应女子被丈夫跨省杀害",
+        "onboard_time": 1686784641,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152066,
+        "num": 152066,
+        "word": "佟晓梅爸妈演我嗑cp",
+        "onboard_time": 1686797969,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149998,
+        "num": 149998,
+        "word": "韩国摄影师在廉租房生活拍摄3年",
+        "onboard_time": 1686757050,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138783,
+        "num": 138783,
+        "word": "凤凰传奇要进军电音届了",
+        "onboard_time": 1686797187,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138630,
+        "num": 138630,
+        "word": "交警拦没戴头盔男子竟有意外发现",
+        "onboard_time": 1686797247,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124421,
+        "num": 124421,
+        "word": "生气小狗滤镜",
+        "onboard_time": 1686797548,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119047,
+        "num": 119047,
+        "word": "全网找寻京A8852",
+        "onboard_time": 1686790590,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15131,
+        "num": 118040,
+        "word": "杭州迎亚运风光片",
+        "onboard_time": 1686710488,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117421,
+        "num": 117421,
+        "word": "芝芙在迪士尼庆生",
+        "onboard_time": 1686799408,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴建立战略伙伴关系#"
+    }
+  }
+}
