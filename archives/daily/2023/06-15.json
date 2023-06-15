@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686807229937,
+  "endTime": 1686810128485,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -27,6 +27,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1681141,
+      "num": 1110350,
+      "word": "新型不孝",
+      "onboard_time": 1686806908,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1636685,
       "num": 1636685,
       "word": "杨丽萍孔雀舞中舞者造型被指不雅",
@@ -48,6 +56,14 @@
       "word": "自称被地铁事件女子霸凌者愿配合调查",
       "onboard_time": 1686795326,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408178,
+      "num": 675261,
+      "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
+      "onboard_time": 1686805888,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -107,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1103448,
+      "num": 1103448,
+      "word": "谢娜再去已是嘉宾",
+      "onboard_time": 1686808227,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1039402,
       "num": 1039402,
       "word": "考古女生寄200斤洛阳铲装备吓坏父母",
@@ -137,6 +161,14 @@
       "onboard_time": 1686743727,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 957320,
+      "num": 957320,
+      "word": "我国总共600多万青年人失业",
+      "onboard_time": 1686804691,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946933,
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 865783,
-      "num": 593430,
+      "num": 599788,
       "word": "郭富城方媛牵手看赛马",
       "onboard_time": 1686801688,
       "rank": 19,
@@ -283,22 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 710655,
-      "num": 710655,
-      "word": "我国总共600多万青年人失业",
-      "onboard_time": 1686804691,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 675261,
-      "num": 675261,
-      "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
-      "onboard_time": 1686805888,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 667086,
       "num": 667086,
       "word": "温州近视司机深夜高速上镜片突然脱落",
@@ -313,6 +329,14 @@
       "onboard_time": 1686724947,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 632755,
+      "num": 632755,
+      "word": "谢娜录制你好星期六路透",
+      "onboard_time": 1686805948,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 598651,
@@ -531,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270897,
+      "num": 166183,
+      "word": "一只翻肚子睡觉的猫鲨",
+      "onboard_time": 1686808468,
+      "rank": 30,
+      "category": "自然,幽默"
+    },
+    {
       "raw_hot": 269882,
       "num": 269882,
       "word": "杭州蓝色钱江纵火案房源以2360万元网签",
@@ -547,6 +579,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 261894,
+      "num": 261894,
+      "word": "迪丽热巴3D眼镜大片",
+      "onboard_time": 1686809009,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257138,
       "num": 276804,
       "word": "长相思什么时候抬上来",
@@ -561,6 +601,14 @@
       "onboard_time": 1686784704,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247540,
+      "num": 247540,
+      "word": "肖春生你这都不亲",
+      "onboard_time": 1686808286,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 243855,
@@ -627,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225200,
-      "num": 225200,
-      "word": "谢娜录制你好星期六路透",
-      "onboard_time": 1686805948,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217164,
       "num": 187369,
       "word": "日本护肤品还能用吗",
       "onboard_time": 1686796229,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 216532,
+      "num": 216532,
+      "word": "中生代戏霸女演员",
+      "onboard_time": 1686807447,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 214813,
@@ -795,6 +843,14 @@
       "category": "社会议题,旅游"
     },
     {
+      "raw_hot": 187217,
+      "num": 165996,
+      "word": "坐爸爸的车往返医院仅收起步价",
+      "onboard_time": 1686808706,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187101,
       "num": 187101,
       "word": "电影我爱你",
@@ -851,6 +907,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171775,
+      "num": 171775,
+      "word": "张杰巡演南京合肥加场",
+      "onboard_time": 1686809967,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 171290,
+      "num": 164773,
+      "word": "种地吧",
+      "onboard_time": 1686804389,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "父亲住院女子将奶奶送养老院遭非议",
@@ -889,6 +961,14 @@
       "onboard_time": 1686797667,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162164,
+      "num": 162164,
+      "word": "重返未来1999",
+      "onboard_time": 1686809607,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 161200,
@@ -963,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148175,
-      "num": 148175,
-      "word": "新型不孝",
-      "onboard_time": 1686806908,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146956,
       "num": 146956,
       "word": "河南警察夫妻度蜜月顺便抓3人",
@@ -1017,14 +1089,6 @@
       "onboard_time": 1686750210,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141231,
-      "num": 164708,
-      "word": "种地吧",
-      "onboard_time": 1686804389,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 139987,
@@ -1139,12 +1203,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122051,
+      "num": 122051,
+      "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
+      "onboard_time": 1686809905,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 119781,
       "num": 119781,
       "word": "95后男生白天拉货晚上写歌",
       "onboard_time": 1686791668,
       "rank": 49,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 118216,
+      "num": 118216,
+      "word": "沈月 梗王",
+      "onboard_time": 1686809306,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117480,
+      "num": 117480,
+      "word": "广东正宗的煲仔饭",
+      "onboard_time": 1686809787,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 116872,
@@ -1169,6 +1257,14 @@
       "onboard_time": 1686783739,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112530,
+      "num": 112530,
+      "word": "谢娜Amber杀马特造型",
+      "onboard_time": 1686809547,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 111657,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1686796765,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102930,
+      "num": 111586,
+      "word": "宋雨琦用古筝演奏Queencard",
+      "onboard_time": 1686809547,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102857,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686807229937,
+  "endTime": 1686810128485,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1681141,
+      "num": 1110350,
+      "word": "新型不孝",
+      "onboard_time": 1686806908,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1677009,
       "num": 1677009,
       "word": "李希侃道歉",
@@ -577,6 +585,14 @@
       "onboard_time": 1686473789,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1408178,
+      "num": 675261,
+      "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
+      "onboard_time": 1686805888,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1392735,
@@ -867,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1103448,
+      "num": 1103448,
+      "word": "谢娜再去已是嘉宾",
+      "onboard_time": 1686808227,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1097871,
       "num": 1097871,
       "word": "嵩山音乐节",
@@ -1091,6 +1115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 957320,
+      "num": 957320,
+      "word": "我国总共600多万青年人失业",
+      "onboard_time": 1686804691,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949817,
       "num": 949817,
       "word": "防止肥胖要像猪猪一样吃",
@@ -1236,7 +1268,7 @@
     },
     {
       "raw_hot": 865783,
-      "num": 593430,
+      "num": 599788,
       "word": "郭富城方媛牵手看赛马",
       "onboard_time": 1686801688,
       "rank": 19,
@@ -1563,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 710655,
-      "num": 710655,
-      "word": "我国总共600多万青年人失业",
-      "onboard_time": 1686804691,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707420,
       "num": 509116,
       "word": "员工入职一个半月怀孕了",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 675261,
-      "num": 675261,
-      "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
-      "onboard_time": 1686805888,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 668496,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1686615808,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 632755,
+      "num": 632755,
+      "word": "谢娜录制你好星期六路透",
+      "onboard_time": 1686805948,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 625449,
@@ -3163,6 +3187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270897,
+      "num": 166183,
+      "word": "一只翻肚子睡觉的猫鲨",
+      "onboard_time": 1686808468,
+      "rank": 30,
+      "category": "自然,幽默"
+    },
+    {
       "raw_hot": 270364,
       "num": 270364,
       "word": "才知道实习生工资比我高",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1686578911,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261894,
+      "num": 261894,
+      "word": "迪丽热巴3D眼镜大片",
+      "onboard_time": 1686809009,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261437,
@@ -3561,6 +3601,14 @@
       "onboard_time": 1686668911,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247540,
+      "num": 247540,
+      "word": "肖春生你这都不亲",
+      "onboard_time": 1686808286,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 246988,
@@ -4011,14 +4059,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 225200,
-      "num": 225200,
-      "word": "谢娜录制你好星期六路透",
-      "onboard_time": 1686805948,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225129,
       "num": 225129,
       "word": "世界献血者日",
@@ -4177,6 +4217,14 @@
       "onboard_time": 1686644489,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 216532,
+      "num": 216532,
+      "word": "中生代戏霸女演员",
+      "onboard_time": 1686807447,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 216481,
@@ -5251,6 +5299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187217,
+      "num": 165996,
+      "word": "坐爸爸的车往返医院仅收起步价",
+      "onboard_time": 1686808706,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187148,
       "num": 187148,
       "word": "天津居民楼爆炸案嫌犯已被抓",
@@ -5627,6 +5683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171775,
+      "num": 171775,
+      "word": "张杰巡演南京合肥加场",
+      "onboard_time": 1686809967,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171756,
       "num": 171756,
       "word": "明星带货还能红多久",
@@ -5649,6 +5713,14 @@
       "onboard_time": 1686580468,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171290,
+      "num": 164773,
+      "word": "种地吧",
+      "onboard_time": 1686612142,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 171002,
@@ -5897,6 +5969,14 @@
       "onboard_time": 1686797667,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162164,
+      "num": 162164,
+      "word": "重返未来1999",
+      "onboard_time": 1686809607,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 162146,
@@ -6371,14 +6451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148175,
-      "num": 148175,
-      "word": "新型不孝",
-      "onboard_time": 1686806908,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148125,
       "num": 148125,
       "word": "仙侠剧最能打的OST",
@@ -6665,14 +6737,6 @@
       "onboard_time": 1686655827,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141231,
-      "num": 164708,
-      "word": "种地吧",
-      "onboard_time": 1686612142,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 141223,
@@ -7283,6 +7347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122051,
+      "num": 122051,
+      "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
+      "onboard_time": 1686809905,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 121353,
       "num": 121353,
       "word": "杭师大称正在调查后续会通报",
@@ -7387,6 +7459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118216,
+      "num": 118216,
+      "word": "沈月 梗王",
+      "onboard_time": 1686809306,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118133,
       "num": 118133,
       "word": "第一视角给小海獭宝宝洗澡",
@@ -7401,6 +7481,14 @@
       "onboard_time": 1686655767,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117480,
+      "num": 117480,
+      "word": "广东正宗的煲仔饭",
+      "onboard_time": 1686809787,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 117213,
@@ -7465,6 +7553,14 @@
       "onboard_time": 1686783739,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112530,
+      "num": 112530,
+      "word": "谢娜Amber杀马特造型",
+      "onboard_time": 1686809547,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 112375,
@@ -7657,6 +7753,14 @@
       "onboard_time": 1686527969,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102930,
+      "num": 111586,
+      "word": "宋雨琦用古筝演奏Queencard",
+      "onboard_time": 1686809547,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102587,
