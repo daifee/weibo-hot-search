@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686843215291,
+  "endTime": 1686846108446,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1475,12 +1475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1890120,
+      "num": 868728,
+      "word": "lofter",
+      "onboard_time": 1686843686,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1889821,
       "num": 1889821,
       "word": "我的脸被隐翅虫毁容了",
       "onboard_time": 1685849424,
       "rank": 23,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1886062,
+      "num": 837597,
+      "word": "冰清玉洁近况",
+      "onboard_time": 1686844348,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1881190,
@@ -3681,6 +3697,14 @@
       "onboard_time": 1686708450,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1155965,
+      "num": 498758,
+      "word": "薛之谦 再见啦梅西",
+      "onboard_time": 1686844705,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1155594,
@@ -7203,6 +7227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632507,
+      "num": 632507,
+      "word": "球踢爆了",
+      "onboard_time": 1686839729,
+      "rank": 19,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 632052,
       "num": 503199,
       "word": "曼城",
@@ -8417,14 +8449,6 @@
       "onboard_time": 1686668370,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 514187,
-      "num": 514187,
-      "word": "球踢爆了",
-      "onboard_time": 1686839729,
-      "rank": 19,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 513227,
@@ -10595,6 +10619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386806,
+      "num": 330332,
+      "word": "一位韩国爸爸带女儿去夜店",
+      "onboard_time": 1686840932,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386189,
       "num": 450449,
       "word": "Uzi爆料自己14号上场",
@@ -10801,6 +10833,14 @@
       "onboard_time": 1686662547,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 375492,
+      "num": 375492,
+      "word": "薛之谦新歌崇拜",
+      "onboard_time": 1686842251,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 374320,
@@ -12315,14 +12355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330332,
-      "num": 330332,
-      "word": "一位韩国爸爸带女儿去夜店",
-      "onboard_time": 1686840932,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 330080,
       "num": 330080,
       "word": "浙江多所小学美术本印有涉黄二维码",
@@ -12705,14 +12737,6 @@
       "onboard_time": 1686539009,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 320465,
-      "num": 320465,
-      "word": "薛之谦新歌崇拜",
-      "onboard_time": 1686842251,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 320412,
@@ -14513,6 +14537,14 @@
       "onboard_time": 1685692767,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282860,
+      "num": 282860,
+      "word": "扣饭事件学院称不清楚女生是否精神异常",
+      "onboard_time": 1686843269,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 282235,
@@ -18977,6 +19009,14 @@
       "onboard_time": 1686621928,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224469,
+      "num": 224469,
+      "word": "钟辰乐发色",
+      "onboard_time": 1686845308,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 224448,
@@ -27235,6 +27275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153499,
+      "num": 153499,
+      "word": "民警上门嘶吼诈骗犯保住母女17万",
+      "onboard_time": 1686845548,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153467,
       "num": 153467,
       "word": "电影消失的她",
@@ -27721,6 +27769,14 @@
       "onboard_time": 1685692588,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149297,
+      "num": 149297,
+      "word": "奶奶遭电诈被孙子带到派出所",
+      "onboard_time": 1686845127,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149231,
