@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686833485795,
+  "endTime": 1686835337000,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -83,6 +83,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1718109,
+      "num": 1718109,
+      "word": "海底捞回应8块钱生菜仅2片",
+      "onboard_time": 1686831921,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1640280,
       "num": 1640280,
       "word": "阿根廷vs澳大利亚",
@@ -121,6 +129,14 @@
       "onboard_time": 1686799290,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1531341,
+      "num": 1531341,
+      "word": "自己供自己上了四年的大学",
+      "onboard_time": 1686827425,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1426410,
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1027757,
-      "num": 1027757,
-      "word": "自己供自己上了四年的大学",
-      "onboard_time": 1686827425,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1011203,
       "num": 1011203,
       "word": "张晚意说我是杨紫她哥",
@@ -347,8 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 834951,
-      "num": 834951,
+      "raw_hot": 836539,
+      "num": 836539,
       "word": "贾乃亮黄景瑜评论区互怼",
       "onboard_time": 1686829943,
       "rank": 4,
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 657426,
-      "num": 410631,
-      "word": "海底捞回应8块钱生菜仅2片",
-      "onboard_time": 1686831921,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 643646,
       "num": 1225964,
       "word": "上海阿姨每天极限通勤去菜场修表",
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583105,
+      "num": 583105,
+      "word": "张踩铃 当一个混血被双语幼儿园拒收",
+      "onboard_time": 1686831023,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572469,
       "num": 287549,
       "word": "校方回应地铁事件女子在科技作品署名",
@@ -545,6 +553,14 @@
       "onboard_time": 1686797969,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 559804,
+      "num": 559804,
+      "word": "成毅坐轮椅直播",
+      "onboard_time": 1686832886,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 559290,
@@ -571,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 516707,
+      "num": 198105,
+      "word": "苏醒 我离梅西好远",
+      "onboard_time": 1686834267,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 511973,
       "num": 511973,
       "word": "黄永玉逝世",
@@ -595,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471428,
-      "num": 395647,
-      "word": "张踩铃 当一个混血被双语幼儿园拒收",
-      "onboard_time": 1686831023,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 464026,
+      "num": 464026,
+      "word": "阿根廷半场1比0澳大利亚",
+      "onboard_time": 1686833966,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 455500,
@@ -649,6 +673,14 @@
       "onboard_time": 1686802529,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417793,
+      "num": 417793,
+      "word": "吉克隽逸和妈妈视频连线看梅西",
+      "onboard_time": 1686834148,
+      "rank": 11,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 412218,
@@ -715,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362266,
+      "num": 362266,
+      "word": "肖战央视专访",
+      "onboard_time": 1686831566,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357743,
       "num": 357743,
       "word": "梅西球迷",
@@ -755,20 +795,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327672,
+      "num": 327672,
+      "word": "嵩山音乐节 退票",
+      "onboard_time": 1686834207,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327026,
       "num": 327026,
       "word": "告五人深圳抢票",
       "onboard_time": 1686812967,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326804,
-      "num": 326804,
-      "word": "肖战央视专访",
-      "onboard_time": 1686831566,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 326401,
@@ -1011,14 +1051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244912,
-      "num": 244912,
-      "word": "成毅坐轮椅直播",
-      "onboard_time": 1686832886,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244601,
       "num": 244601,
       "word": "这才是裹床单界的天花板",
@@ -1251,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213219,
+      "num": 213219,
+      "word": "618",
+      "onboard_time": 1686834686,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 211564,
       "num": 211564,
       "word": "福建的蟑螂",
@@ -1267,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208802,
+      "num": 208802,
+      "word": "京东",
+      "onboard_time": 1686834566,
+      "rank": 27,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 208641,
       "num": 208641,
       "word": "薛之谦演唱会抢票",
       "onboard_time": 1686822807,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207976,
+      "num": 198003,
+      "word": "司机 你怎么知道我绕路的",
+      "onboard_time": 1686834447,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 206658,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1686803370,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201492,
+      "num": 201492,
+      "word": "关晓彤影版红楼梦贾元春",
+      "onboard_time": 1686830604,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 201333,
@@ -1476,7 +1540,7 @@
     },
     {
       "raw_hot": 190216,
-      "num": 186877,
+      "num": 1547018,
       "word": "杭州亚运会奖牌亮相",
       "onboard_time": 1686832585,
       "rank": 30,
@@ -1489,6 +1553,14 @@
       "onboard_time": 1686797187,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189516,
+      "num": 189516,
+      "word": "花傲天直播",
+      "onboard_time": 1686834326,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 189402,
@@ -1521,14 +1593,6 @@
       "onboard_time": 1686812125,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186903,
-      "num": 186903,
-      "word": "关晓彤影版红楼梦贾元春",
-      "onboard_time": 1686830604,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 186694,
@@ -1627,8 +1691,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174000,
-      "num": 174000,
+      "raw_hot": 175189,
+      "num": 175189,
       "word": "权顺荣说SEVENTEEN将10月回归",
       "onboard_time": 1686832523,
       "rank": 34,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1686793708,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159041,
+      "num": 159041,
+      "word": "严浩翔灰色透视装",
+      "onboard_time": 1686833966,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 158809,
@@ -1907,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142766,
+      "num": 142766,
+      "word": "羊群的老大你要勇敢呀",
+      "onboard_time": 1686834805,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142499,
       "num": 142499,
       "word": "杭州亚运最想看的中国选手",
@@ -2049,6 +2129,14 @@
       "onboard_time": 1686795927,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135099,
+      "num": 135099,
+      "word": "工体草皮太滑了",
+      "onboard_time": 1686833544,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 134474,
@@ -2681,6 +2769,14 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29918,
+      "num": 414149,
+      "word": "今晚我们都是梅西",
+      "onboard_time": 1686834026,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20349,

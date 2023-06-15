@@ -1,0 +1,410 @@
+{
+  "runTime": 1686835337000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881127,
+        "num": 1881127,
+        "word": "梅西81秒进球",
+        "onboard_time": 1686831085,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1718109,
+        "num": 1718109,
+        "word": "海底捞回应8块钱生菜仅2片",
+        "onboard_time": 1686831921,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 66306,
+        "num": 1547018,
+        "word": "杭州亚运会奖牌亮相",
+        "onboard_time": 1686832585,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1531341,
+        "num": 1531341,
+        "word": "自己供自己上了四年的大学",
+        "onboard_time": 1686827425,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1247439,
+        "num": 1247439,
+        "word": "苏醒见完梅西偶遇来迟的薛之谦",
+        "onboard_time": 1686830783,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 836539,
+        "num": 836539,
+        "word": "贾乃亮黄景瑜评论区互怼",
+        "onboard_time": 1686829943,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583105,
+        "num": 583105,
+        "word": "张踩铃 当一个混血被双语幼儿园拒收",
+        "onboard_time": 1686831023,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 559804,
+        "num": 559804,
+        "word": "成毅坐轮椅直播",
+        "onboard_time": 1686832886,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509216,
+        "num": 509216,
+        "word": "阿根廷vs澳大利亚",
+        "onboard_time": 1686828983,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464026,
+        "num": 464026,
+        "word": "阿根廷半场1比0澳大利亚",
+        "onboard_time": 1686833966,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751536,
+        "num": 457650,
+        "word": "六公主",
+        "onboard_time": 1686817288,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417793,
+        "num": 417793,
+        "word": "吉克隽逸和妈妈视频连线看梅西",
+        "onboard_time": 1686834148,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 414400,
+        "num": 414400,
+        "word": "张小斐说现在的红毯生图非常生",
+        "onboard_time": 1686824365,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414368,
+        "num": 414368,
+        "word": "快乐大本营",
+        "onboard_time": 1686813986,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29918,
+        "num": 414149,
+        "word": "今晚我们都是梅西",
+        "onboard_time": 1686834026,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414064,
+        "num": 414064,
+        "word": "卖杏老人儿子望偷拿女子澄清或道歉",
+        "onboard_time": 1686821188,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393882,
+        "num": 393882,
+        "word": "梅西穿中文球衣",
+        "onboard_time": 1686832045,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362266,
+        "num": 362266,
+        "word": "肖战央视专访",
+        "onboard_time": 1686831566,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30525,
+        "num": 329750,
+        "word": "用漫画圆戍边英雄未实现的心愿",
+        "onboard_time": 1686816388,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327672,
+        "num": 327672,
+        "word": "嵩山音乐节 退票",
+        "onboard_time": 1686834207,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307279,
+        "num": 307279,
+        "word": "梅西球迷",
+        "onboard_time": 1686822628,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301591,
+        "num": 301591,
+        "word": "刘诗诗肩颈线",
+        "onboard_time": 1686826827,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 301342,
+        "num": 301342,
+        "word": "过度打扮的女友和随意的男友",
+        "onboard_time": 1686818427,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 283679,
+        "num": 283679,
+        "word": "梅西今晚离开北京",
+        "onboard_time": 1686822265,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281496,
+        "num": 281496,
+        "word": "谢娜再去已是嘉宾",
+        "onboard_time": 1686808227,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216954,
+        "num": 216954,
+        "word": "校方回应地铁事件女子在科技作品署名",
+        "onboard_time": 1686827844,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 213219,
+        "num": 213219,
+        "word": "618",
+        "onboard_time": 1686834686,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 208802,
+        "num": 208802,
+        "word": "京东",
+        "onboard_time": 1686834566,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 201492,
+        "num": 201492,
+        "word": "关晓彤影版红楼梦贾元春",
+        "onboard_time": 1686830604,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198184,
+        "num": 198184,
+        "word": "五月天武汉",
+        "onboard_time": 1686831745,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 516707,
+        "num": 198105,
+        "word": "苏醒 我离梅西好远",
+        "onboard_time": 1686834267,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 207976,
+        "num": 198003,
+        "word": "司机 你怎么知道我绕路的",
+        "onboard_time": 1686834447,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196467,
+        "num": 196467,
+        "word": "金在中公司开业SMTOWN送花篮",
+        "onboard_time": 1686827367,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194546,
+        "num": 194546,
+        "word": "杨颖代言丸美3年2400万",
+        "onboard_time": 1686816208,
+        "rank": 33,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 189516,
+        "num": 189516,
+        "word": "花傲天直播",
+        "onboard_time": 1686834326,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175324,
+        "num": 175324,
+        "word": "上班上到爸妈求我辞职",
+        "onboard_time": 1686798208,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 175189,
+        "num": 175189,
+        "word": "权顺荣说SEVENTEEN将10月回归",
+        "onboard_time": 1686832523,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172766,
+        "num": 172766,
+        "word": "面试三句话让一屋子考官沉默了",
+        "onboard_time": 1686811286,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 164424,
+        "num": 164424,
+        "word": "薛之谦演唱会抢票",
+        "onboard_time": 1686822807,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159041,
+        "num": 159041,
+        "word": "严浩翔灰色透视装",
+        "onboard_time": 1686833966,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 155318,
+        "num": 155318,
+        "word": "年赚7位数小三分离师是什么职业",
+        "onboard_time": 1686811404,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151028,
+        "num": 151028,
+        "word": "长风渡",
+        "onboard_time": 1686824546,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142766,
+        "num": 142766,
+        "word": "羊群的老大你要勇敢呀",
+        "onboard_time": 1686834805,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139087,
+        "num": 139087,
+        "word": "姚琛爬火山遇地震",
+        "onboard_time": 1686829405,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135099,
+        "num": 135099,
+        "word": "工体草皮太滑了",
+        "onboard_time": 1686833544,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100669,
+        "num": 127263,
+        "word": "梅西寄语热爱足球的中国少年",
+        "onboard_time": 1686819328,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 126126,
+        "num": 126126,
+        "word": "项南不会是个骗子吧",
+        "onboard_time": 1686832342,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116348,
+        "num": 116348,
+        "word": "阿根廷直播",
+        "onboard_time": 1686833247,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115940,
+        "num": 115940,
+        "word": "BKPP 嵩山音乐节",
+        "onboard_time": 1686825086,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111575,
+        "num": 111575,
+        "word": "Lisa一身反骨",
+        "onboard_time": 1686812665,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴建立战略伙伴关系#"
+    }
+  }
+}
