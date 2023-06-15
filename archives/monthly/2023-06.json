@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686856357318,
+  "endTime": 1686857620237,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -35073,6 +35073,14 @@
       "onboard_time": 1686126213,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24546,
+      "num": 24546,
+      "word": "陈妍希说陈晓眼神里的纯净一直都在",
+      "onboard_time": 1686856815,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 24151,
