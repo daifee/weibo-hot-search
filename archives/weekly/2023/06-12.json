@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686835337000,
+  "endTime": 1686836139038,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2045658,
+      "num": 2045658,
+      "word": "海底捞回应8块钱生菜仅2片",
+      "onboard_time": 1686831921,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2043186,
       "num": 471529,
       "word": "双宋彻底BE",
@@ -475,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1718109,
-      "num": 1718109,
-      "word": "海底捞回应8块钱生菜仅2片",
-      "onboard_time": 1686831921,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1700934,
       "num": 1700934,
       "word": "刘鑫不服二审判决申请再审",
@@ -555,6 +555,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1543993,
+      "num": 1543993,
+      "word": "自己供自己上了四年的大学",
+      "onboard_time": 1686827425,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1540408,
       "num": 1540408,
       "word": "官方通报女干部被带去酒局灌酒",
@@ -569,14 +577,6 @@
       "onboard_time": 1686799290,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1531341,
-      "num": 1531341,
-      "word": "自己供自己上了四年的大学",
-      "onboard_time": 1686827425,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1519409,
@@ -1611,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766944,
+      "num": 766944,
+      "word": "成毅坐轮椅直播",
+      "onboard_time": 1686832886,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764023,
       "num": 764023,
       "word": "柯以敏 我比那英唱得更好",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1686788433,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736658,
+      "num": 736658,
+      "word": "苏醒 我离梅西好远",
+      "onboard_time": 1686834267,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 736126,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1686758726,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664726,
+      "num": 664726,
+      "word": "阿根廷半场1比0澳大利亚",
+      "onboard_time": 1686833966,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 662941,
@@ -2035,14 +2059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 559804,
-      "num": 559804,
-      "word": "成毅坐轮椅直播",
-      "onboard_time": 1686832886,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559290,
       "num": 559290,
       "word": "张小斐说现在的红毯生图非常生",
@@ -2139,14 +2155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 516707,
-      "num": 198105,
-      "word": "苏醒 我离梅西好远",
-      "onboard_time": 1686834267,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 516095,
       "num": 367733,
       "word": "喝过的水竟然被蟑螂爬过",
@@ -2235,6 +2243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 487205,
+      "num": 487205,
+      "word": "嵩山音乐节 退票",
+      "onboard_time": 1686834207,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 481358,
       "num": 481358,
       "word": "过了下班时间窗口工作人员还在办理业务",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1686698603,
       "rank": 30,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 476617,
+      "num": 476617,
+      "word": "贺峻霖唱唯一",
+      "onboard_time": 1686836009,
+      "rank": 13,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 470214,
@@ -2297,14 +2321,6 @@
       "onboard_time": 1686667411,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464026,
-      "num": 464026,
-      "word": "阿根廷半场1比0澳大利亚",
-      "onboard_time": 1686833966,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 463596,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1686826827,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 406518,
+      "num": 406518,
+      "word": "梅西球迷",
+      "onboard_time": 1686822628,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 405989,
@@ -2699,14 +2723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357743,
-      "num": 357743,
-      "word": "梅西球迷",
-      "onboard_time": 1686822628,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1686636986,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 345099,
+      "num": 345099,
+      "word": "杨紫羊毛卷",
+      "onboard_time": 1686835465,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 343025,
@@ -2971,14 +2995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327672,
-      "num": 327672,
-      "word": "嵩山音乐节 退票",
-      "onboard_time": 1686834207,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 327026,
       "num": 327026,
       "word": "告五人深圳抢票",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1686578250,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309610,
+      "num": 273108,
+      "word": "肖春生的菠萝头长大了",
+      "onboard_time": 1686835826,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 309545,
@@ -3779,6 +3803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257660,
+      "num": 257660,
+      "word": "618",
+      "onboard_time": 1686834686,
+      "rank": 26,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 257483,
       "num": 257483,
       "word": "和爸爸骑游中国的白血病男孩离世",
@@ -4113,6 +4145,14 @@
       "onboard_time": 1686745648,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243193,
+      "num": 243193,
+      "word": "贺峻霖直播",
+      "onboard_time": 1686835526,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 243080,
@@ -4595,6 +4635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223709,
+      "num": 223709,
+      "word": "高考结束发现被妈妈骗了",
+      "onboard_time": 1686835948,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223191,
       "num": 223191,
       "word": "一诺首次缺席首发",
@@ -4891,14 +4939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213219,
-      "num": 213219,
-      "word": "618",
-      "onboard_time": 1686834686,
-      "rank": 26,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 212402,
       "num": 212402,
       "word": "陈奕迅广州演唱会",
@@ -4945,6 +4985,14 @@
       "onboard_time": 1686716975,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 210485,
+      "num": 210485,
+      "word": "zerobaseone",
+      "onboard_time": 1686835647,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210434,
@@ -5201,6 +5249,14 @@
       "onboard_time": 1686573030,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204137,
+      "num": 204137,
+      "word": "刘诗诗项链耳环好多葫芦",
+      "onboard_time": 1686836009,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 203595,
@@ -5489,6 +5545,14 @@
       "onboard_time": 1686793348,
       "rank": 27,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 197688,
+      "num": 197688,
+      "word": "少爷和我 老板和我",
+      "onboard_time": 1686835526,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 196545,
@@ -7627,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141913,
+      "num": 141913,
+      "word": "女儿突遭恶犬袭击男子抬臂拼力抵挡",
+      "onboard_time": 1686835948,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141628,
       "num": 141628,
       "word": "王俊凯新片路透",
@@ -7945,6 +8017,14 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 136269,
+      "num": 136269,
+      "word": "DRG对战KSG",
+      "onboard_time": 1686835826,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 136249,
@@ -8305,6 +8385,14 @@
       "onboard_time": 1686806248,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125148,
+      "num": 125148,
+      "word": "闺蜜在我心里永远18岁",
+      "onboard_time": 1686835886,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 125118,
@@ -9515,6 +9603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48236,
+      "num": 452397,
+      "word": "今晚我们都是梅西",
+      "onboard_time": 1686834026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47338,
       "num": 419948,
       "word": "57岁保姆手掌作画7年成民间画家",
@@ -9667,20 +9763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29918,
-      "num": 414149,
-      "word": "今晚我们都是梅西",
-      "onboard_time": 1686834026,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27587,
       "num": 30610,
       "word": "从12米高处跳江小哥讲述救人全过程",
       "onboard_time": 1686679754,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26791,
+      "num": 1544066,
+      "word": "130秒飞阅杭州亚运会场馆",
+      "onboard_time": 1686835407,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 26741,
