@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686810128485,
+  "endTime": 1686810910374,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2051934,
+      "num": 1110350,
+      "word": "新型不孝",
+      "onboard_time": 1686806908,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2043186,
       "num": 471529,
       "word": "双宋彻底BE",
@@ -1659,6 +1667,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 1742164,
+      "num": 1742164,
+      "word": "谢娜再去已是嘉宾",
+      "onboard_time": 1686808227,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1740025,
       "num": 755161,
       "word": "四川大学",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1685933189,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1681141,
-      "num": 1110350,
-      "word": "新型不孝",
-      "onboard_time": 1686806908,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 1680275,
@@ -3787,14 +3795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1103448,
-      "num": 1103448,
-      "word": "谢娜再去已是嘉宾",
-      "onboard_time": 1686808227,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1102131,
       "num": 1102131,
       "word": "魏晨差点错过孩子出生第一刻",
@@ -5148,7 +5148,7 @@
     },
     {
       "raw_hot": 865783,
-      "num": 599788,
+      "num": 613318,
       "word": "郭富城方媛牵手看赛马",
       "onboard_time": 1686801688,
       "rank": 19,
@@ -13035,6 +13035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300933,
+      "num": 300933,
+      "word": "中生代戏霸女演员",
+      "onboard_time": 1686807447,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300758,
       "num": 300758,
       "word": "刘浩存跳舞vs任敏跳舞",
@@ -15987,6 +15995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251653,
+      "num": 251653,
+      "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
+      "onboard_time": 1686810207,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 251336,
       "num": 251336,
       "word": "女生在宿舍发现学姐2年前留信",
@@ -17635,6 +17651,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 231031,
+      "num": 231031,
+      "word": "张杰巡演南京合肥加场",
+      "onboard_time": 1686809967,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230958,
       "num": 230958,
       "word": "Rookie",
@@ -18987,14 +19011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216532,
-      "num": 216532,
-      "word": "中生代戏霸女演员",
-      "onboard_time": 1686807447,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216364,
       "num": 187688,
       "word": "731部队新罪证首次公开",
@@ -19041,6 +19057,14 @@
       "onboard_time": 1686395085,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215960,
+      "num": 165996,
+      "word": "坐爸爸的车往返医院仅收起步价",
+      "onboard_time": 1686808706,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 215958,
@@ -22627,14 +22651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187217,
-      "num": 165996,
-      "word": "坐爸爸的车往返医院仅收起步价",
-      "onboard_time": 1686808706,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187148,
       "num": 187148,
       "word": "天津居民楼爆炸案嫌犯已被抓",
@@ -24169,14 +24185,6 @@
       "onboard_time": 1686063752,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171775,
-      "num": 171775,
-      "word": "张杰巡演南京合肥加场",
-      "onboard_time": 1686809967,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 171756,
@@ -26097,6 +26105,14 @@
       "onboard_time": 1686275907,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154167,
+      "num": 154167,
+      "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
+      "onboard_time": 1686809905,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 154068,
@@ -28139,6 +28155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133609,
+      "num": 133609,
+      "word": "谢娜Amber杀马特造型",
+      "onboard_time": 1686809547,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133593,
       "num": 133593,
       "word": "MTG对战XYG",
@@ -29147,14 +29171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122051,
-      "num": 122051,
-      "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
-      "onboard_time": 1686809905,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 121928,
       "num": 121928,
       "word": "想看狐妖竹业篇的路透有多难",
@@ -29313,6 +29329,14 @@
       "onboard_time": 1685583626,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "沈月 梗王",
+      "onboard_time": 1686809306,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 119997,
@@ -29505,14 +29529,6 @@
       "onboard_time": 1686545616,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 118216,
-      "num": 118216,
-      "word": "沈月 梗王",
-      "onboard_time": 1686809306,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 118148,
@@ -29947,14 +29963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112530,
-      "num": 112530,
-      "word": "谢娜Amber杀马特造型",
-      "onboard_time": 1686809547,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112517,
       "num": 112517,
       "word": "女子曝光地铁大叔事件该如何收场",
@@ -30115,6 +30123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110991,
+      "num": 110991,
+      "word": "阿根廷队啥都能颠",
+      "onboard_time": 1686810688,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110749,
       "num": 951960,
       "word": "迎接神十五乘组回家",
@@ -30225,6 +30241,14 @@
       "onboard_time": 1686304232,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108720,
+      "num": 111586,
+      "word": "宋雨琦用古筝演奏Queencard",
+      "onboard_time": 1686809547,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108663,
@@ -30579,14 +30603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102930,
-      "num": 111586,
-      "word": "宋雨琦用古筝演奏Queencard",
-      "onboard_time": 1686809547,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102672,
       "num": 136668,
       "word": "上班摸鱼的猫",
@@ -30633,6 +30649,14 @@
       "onboard_time": 1686799767,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102117,
+      "num": 108713,
+      "word": "当校园爱情偶像剧照进现实",
+      "onboard_time": 1686810325,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101802,

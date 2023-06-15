@@ -1,0 +1,410 @@
+{
+  "runTime": 1686810910374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1742164,
+        "num": 1742164,
+        "word": "谢娜再去已是嘉宾",
+        "onboard_time": 1686808227,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1100292,
+        "num": 1100292,
+        "word": "杨丽萍孔雀舞中舞者造型被指不雅",
+        "onboard_time": 1686802349,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 61896,
+        "num": 1029085,
+        "word": "相约2023杭州亚运会",
+        "onboard_time": 1686799767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2051934,
+        "num": 1015611,
+        "word": "新型不孝",
+        "onboard_time": 1686806908,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 989278,
+        "num": 989278,
+        "word": "女学霸边读研边兼职3年赚17万",
+        "onboard_time": 1686799166,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987629,
+        "num": 987629,
+        "word": "吴京口中的淄博烧烤",
+        "onboard_time": 1686804332,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835623,
+        "num": 835623,
+        "word": "我国总共600多万青年人失业",
+        "onboard_time": 1686804691,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644301,
+        "num": 644301,
+        "word": "同学说我不去椰树可惜了",
+        "onboard_time": 1686800906,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 630243,
+        "num": 630243,
+        "word": "谢娜录制你好星期六路透",
+        "onboard_time": 1686805948,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614305,
+        "num": 614305,
+        "word": "澳门音乐节 退款",
+        "onboard_time": 1686796346,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 907751,
+        "num": 614257,
+        "word": "13岁女孩遭强奸怀孕报案近3年嫌疑人未受审",
+        "onboard_time": 1686805888,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613318,
+        "num": 613318,
+        "word": "郭富城方媛牵手看赛马",
+        "onboard_time": 1686801688,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458798,
+        "num": 458798,
+        "word": "河北师大混入女浴室男子被控制",
+        "onboard_time": 1686790472,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416536,
+        "num": 416536,
+        "word": "House脱口秀演出剧院被罚10万",
+        "onboard_time": 1686799290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367249,
+        "num": 367249,
+        "word": "杨幂卷发军装路透",
+        "onboard_time": 1686786265,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342343,
+        "num": 342343,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303266,
+        "num": 303266,
+        "word": "蒋依依毕业照",
+        "onboard_time": 1686788433,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300933,
+        "num": 300933,
+        "word": "中生代戏霸女演员",
+        "onboard_time": 1686807447,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291131,
+        "num": 291131,
+        "word": "RNG老板澄清Uzi退役谣言",
+        "onboard_time": 1686794367,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251653,
+        "num": 251653,
+        "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
+        "onboard_time": 1686810207,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 578770,
+        "num": 248735,
+        "word": "女子在行政大厅厕所捡到婴儿",
+        "onboard_time": 1686803730,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540228,
+        "num": 244795,
+        "word": "自称被地铁事件女子霸凌者愿配合调查",
+        "onboard_time": 1686795326,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393820,
+        "num": 237783,
+        "word": "上班上到爸妈求我辞职",
+        "onboard_time": 1686798208,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 271935,
+        "num": 233084,
+        "word": "这竟然是肖战本人发的",
+        "onboard_time": 1686743727,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231031,
+        "num": 231031,
+        "word": "张杰巡演南京合肥加场",
+        "onboard_time": 1686809967,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236672,
+        "num": 221710,
+        "word": "肖春生你这都不亲",
+        "onboard_time": 1686808286,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199066,
+        "num": 199066,
+        "word": "鱼头星星回来了",
+        "onboard_time": 1686787590,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 177308,
+        "word": "上厕所时千万不要蹲在马桶上",
+        "onboard_time": 1686786927,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170628,
+        "num": 170628,
+        "word": "迪士尼回应女子穿联名汉服被拦",
+        "onboard_time": 1686786927,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 167149,
+        "num": 167149,
+        "word": "迪丽热巴3D眼镜大片",
+        "onboard_time": 1686809009,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256877,
+        "num": 163824,
+        "word": "一只翻肚子睡觉的猫鲨",
+        "onboard_time": 1686808468,
+        "rank": 30,
+        "category": "自然,幽默"
+      },
+      {
+        "raw_hot": 215960,
+        "num": 161025,
+        "word": "坐爸爸的车往返医院仅收起步价",
+        "onboard_time": 1686808706,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156525,
+        "num": 156525,
+        "word": "以为耳朵就长这个形状",
+        "onboard_time": 1686803611,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154167,
+        "num": 154167,
+        "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
+        "onboard_time": 1686809905,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153669,
+        "num": 153669,
+        "word": "重返未来1999",
+        "onboard_time": 1686809607,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149449,
+        "num": 149449,
+        "word": "鞠婧祎吻戏嘴角上扬",
+        "onboard_time": 1686798087,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148030,
+        "num": 148030,
+        "word": "种地吧",
+        "onboard_time": 1686804389,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142202,
+        "num": 142202,
+        "word": "上海地震",
+        "onboard_time": 1686766515,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133609,
+        "num": 133609,
+        "word": "谢娜Amber杀马特造型",
+        "onboard_time": 1686809547,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128239,
+        "num": 128239,
+        "word": "常远是离肠癌远一点",
+        "onboard_time": 1686784521,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127910,
+        "num": 127910,
+        "word": "张杰谢娜带女儿上早教",
+        "onboard_time": 1686786566,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127764,
+        "num": 127764,
+        "word": "QQ发不了图片",
+        "onboard_time": 1686798566,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126918,
+        "num": 126918,
+        "word": "不要低估运动对容貌的影响",
+        "onboard_time": 1686800486,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125437,
+        "num": 125437,
+        "word": "张晚意说我是杨紫她哥",
+        "onboard_time": 1686793887,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120084,
+        "num": 120084,
+        "word": "沈月 梗王",
+        "onboard_time": 1686809306,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113130,
+        "num": 113130,
+        "word": "广东正宗的煲仔饭",
+        "onboard_time": 1686809787,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112212,
+        "num": 112212,
+        "word": "卖荷花的爷爷剥开了盛夏",
+        "onboard_time": 1686801389,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110991,
+        "num": 110991,
+        "word": "阿根廷队啥都能颠",
+        "onboard_time": 1686810688,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108720,
+        "num": 108720,
+        "word": "宋雨琦用古筝演奏Queencard",
+        "onboard_time": 1686809547,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102117,
+        "num": 108713,
+        "word": "当校园爱情偶像剧照进现实",
+        "onboard_time": 1686810325,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕日是秋分也是丰收节#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686810128485,
+  "endTime": 1686810910374,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2051934,
+      "num": 1110350,
+      "word": "新型不孝",
+      "onboard_time": 1686806908,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1867922,
       "num": 1867922,
       "word": "迪士尼回应女子穿联名汉服被拦",
@@ -27,12 +35,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1681141,
-      "num": 1110350,
-      "word": "新型不孝",
-      "onboard_time": 1686806908,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 1742164,
+      "num": 1742164,
+      "word": "谢娜再去已是嘉宾",
+      "onboard_time": 1686808227,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1636685,
@@ -121,14 +129,6 @@
       "onboard_time": 1686796346,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1103448,
-      "num": 1103448,
-      "word": "谢娜再去已是嘉宾",
-      "onboard_time": 1686808227,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1039402,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 865783,
-      "num": 599788,
+      "num": 613318,
       "word": "郭富城方媛牵手看赛马",
       "onboard_time": 1686801688,
       "rank": 19,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300933,
+      "num": 300933,
+      "word": "中生代戏霸女演员",
+      "onboard_time": 1686807447,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289169,
       "num": 232287,
       "word": "幸好肖春生留了底",
@@ -595,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251653,
+      "num": 251653,
+      "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
+      "onboard_time": 1686810207,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 249443,
       "num": 249443,
       "word": "那个好玩的老头儿走了",
@@ -643,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231031,
+      "num": 231031,
+      "word": "张杰巡演南京合肥加场",
+      "onboard_time": 1686809967,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228287,
       "num": 228287,
       "word": "为什么建议把一件事做到极致",
@@ -683,12 +707,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 216532,
-      "num": 216532,
-      "word": "中生代戏霸女演员",
-      "onboard_time": 1686807447,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 215960,
+      "num": 165996,
+      "word": "坐爸爸的车往返医院仅收起步价",
+      "onboard_time": 1686808706,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 214813,
@@ -843,14 +867,6 @@
       "category": "社会议题,旅游"
     },
     {
-      "raw_hot": 187217,
-      "num": 165996,
-      "word": "坐爸爸的车往返医院仅收起步价",
-      "onboard_time": 1686808706,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187101,
       "num": 187101,
       "word": "电影我爱你",
@@ -905,14 +921,6 @@
       "onboard_time": 1686797907,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171775,
-      "num": 171775,
-      "word": "张杰巡演南京合肥加场",
-      "onboard_time": 1686809967,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 171290,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1686786385,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154167,
+      "num": 154167,
+      "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
+      "onboard_time": 1686809905,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150323,
@@ -1123,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133609,
+      "num": 133609,
+      "word": "谢娜Amber杀马特造型",
+      "onboard_time": 1686809547,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133593,
       "num": 133593,
       "word": "MTG对战XYG",
@@ -1203,12 +1227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122051,
-      "num": 122051,
-      "word": "跳桥救人小哥说上大学的机会比5万块奖励更好",
-      "onboard_time": 1686809905,
-      "rank": 42,
-      "category": "社会新闻,教育"
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "沈月 梗王",
+      "onboard_time": 1686809306,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 119781,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1686791668,
       "rank": 49,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 118216,
-      "num": 118216,
-      "word": "沈月 梗王",
-      "onboard_time": 1686809306,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 117480,
@@ -1259,14 +1275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112530,
-      "num": 112530,
-      "word": "谢娜Amber杀马特造型",
-      "onboard_time": 1686809547,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111657,
       "num": 111657,
       "word": "虞书欣ins更新照",
@@ -1275,12 +1283,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 110991,
+      "num": 110991,
+      "word": "阿根廷队啥都能颠",
+      "onboard_time": 1686810688,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109214,
       "num": 109214,
       "word": "演员肖战的小心思",
       "onboard_time": 1686763159,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108720,
+      "num": 111586,
+      "word": "宋雨琦用古筝演奏Queencard",
+      "onboard_time": 1686809547,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108368,
@@ -1315,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102930,
-      "num": 111586,
-      "word": "宋雨琦用古筝演奏Queencard",
-      "onboard_time": 1686809547,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102857,
       "num": 102857,
       "word": "杭州跳桥救人小哥受伤免费治疗",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1686799767,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102117,
+      "num": 108713,
+      "word": "当校园爱情偶像剧照进现实",
+      "onboard_time": 1686810325,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101252,
