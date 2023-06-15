@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686828825095,
+  "endTime": 1686832433942,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -67,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1970078,
+      "num": 1970078,
+      "word": "梅西81秒进球",
+      "onboard_time": 1686831085,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1867922,
       "num": 1867922,
       "word": "迪士尼回应女子穿联名汉服被拦",
       "onboard_time": 1686786927,
       "rank": 0,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1640280,
+      "num": 1640280,
+      "word": "阿根廷vs澳大利亚",
+      "onboard_time": 1686828983,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1636685,
@@ -89,6 +105,14 @@
       "onboard_time": 1686819387,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1562089,
+      "num": 1562089,
+      "word": "苏醒见完梅西偶遇来迟的薛之谦",
+      "onboard_time": 1686830783,
+      "rank": 3,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1531824,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703144,
+      "num": 703144,
+      "word": "贾乃亮黄景瑜评论区互怼",
+      "onboard_time": 1686829943,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667086,
       "num": 667086,
       "word": "温州近视司机深夜高速上镜片突然脱落",
@@ -481,6 +513,22 @@
       "onboard_time": 1686784341,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597942,
+      "num": 597942,
+      "word": "自己供自己上了四年的大学",
+      "onboard_time": 1686827425,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 572469,
+      "num": 286013,
+      "word": "校方回应地铁事件女子在科技作品署名",
+      "onboard_time": 1686827844,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 563110,
@@ -553,6 +601,14 @@
       "onboard_time": 1686822807,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451390,
+      "num": 451390,
+      "word": "梅西穿中文球衣",
+      "onboard_time": 1686832045,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 430733,
@@ -640,6 +696,14 @@
       "word": "亚运会",
       "onboard_time": 1686793169,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 354380,
+      "num": 354380,
+      "word": "梅西球迷",
+      "onboard_time": 1686822628,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -739,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309371,
+      "num": 181417,
+      "word": "张踩铃 当一个混血被双语幼儿园拒收",
+      "onboard_time": 1686831023,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307759,
       "num": 307759,
       "word": "金在中公司开业SMTOWN送花篮",
@@ -761,14 +833,6 @@
       "onboard_time": 1686807447,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298249,
-      "num": 298249,
-      "word": "梅西球迷",
-      "onboard_time": 1686822628,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 294941,
@@ -809,14 +873,6 @@
       "onboard_time": 1686796406,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286013,
-      "num": 286013,
-      "word": "校方回应地铁事件女子在科技作品署名",
-      "onboard_time": 1686827844,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 281750,
@@ -915,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253553,
+      "num": 253553,
+      "word": "肖战央视专访",
+      "onboard_time": 1686831566,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249443,
       "num": 249443,
       "word": "那个好玩的老头儿走了",
@@ -969,14 +1033,6 @@
       "onboard_time": 1686792688,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235202,
-      "num": 235202,
-      "word": "自己供自己上了四年的大学",
-      "onboard_time": 1686827425,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 234602,
@@ -1081,6 +1137,22 @@
       "onboard_time": 1686812725,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222635,
+      "num": 181133,
+      "word": "海底捞回应8块钱生菜仅2片",
+      "onboard_time": 1686831921,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 221216,
+      "num": 221216,
+      "word": "五月天武汉",
+      "onboard_time": 1686831745,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 221090,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1686824187,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206453,
+      "num": 206453,
+      "word": "DYG战胜Hero",
+      "onboard_time": 1686831505,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 206047,
@@ -1419,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186037,
+      "num": 186037,
+      "word": "关晓彤影版红楼梦贾元春",
+      "onboard_time": 1686830604,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185502,
       "num": 185502,
       "word": "蒋依依粉丝破一千万",
@@ -1475,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180783,
+      "num": 180783,
+      "word": "姚琛爬火山遇地震",
+      "onboard_time": 1686829405,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178650,
       "num": 178650,
       "word": "时代少年团录歌",
@@ -1507,12 +1603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168184,
+      "num": 168184,
+      "word": "项南不会是个骗子吧",
+      "onboard_time": 1686832342,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168103,
       "num": 168103,
       "word": "学霸小伙走出考场救了个人",
       "onboard_time": 1686812607,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 166474,
+      "num": 166474,
+      "word": "卢洋洋新剧开机",
+      "onboard_time": 1686830604,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 166240,
@@ -1923,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128980,
+      "num": 128980,
+      "word": "北京警方发布梅西球赛观赛提示",
+      "onboard_time": 1686815489,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128975,
       "num": 128975,
       "word": "半夜狗狗一直在叹气",
@@ -1969,6 +2089,14 @@
       "onboard_time": 1686751530,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124519,
+      "num": 124519,
+      "word": "蔚来ET5",
+      "onboard_time": 1686830842,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 124357,
@@ -2105,14 +2233,6 @@
       "onboard_time": 1686810925,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115353,
-      "num": 113508,
-      "word": "北京警方发布梅西球赛观赛提示",
-      "onboard_time": 1686815489,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 114998,
@@ -2395,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76875,
+      "num": 346888,
+      "word": "蔚来ET5旅行版价格公布",
+      "onboard_time": 1686831265,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73363,
       "num": 430280,
       "word": "陈飞宇说非常敬畏演员这个职业",
@@ -2460,11 +2588,19 @@
     },
     {
       "raw_hot": 43373,
-      "num": 1020717,
+      "num": 1571235,
       "word": "用漫画圆戍边英雄未实现的心愿",
       "onboard_time": 1686816388,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37370,
+      "num": 354830,
+      "word": "陈凯歌说朱一龙演志愿军动了真情",
+      "onboard_time": 1686830424,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 35859,
