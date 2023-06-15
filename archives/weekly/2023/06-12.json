@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686796875593,
+  "endTime": 1686797421229,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1238098,
-      "num": 646592,
+      "num": 648947,
       "word": "河北师大混入女浴室男子被控制",
       "onboard_time": 1686790472,
       "rank": 10,
@@ -763,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1154091,
+      "num": 1154091,
+      "word": "巴黎治鼠患失败",
+      "onboard_time": 1686790229,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135240,
       "num": 1135240,
       "word": "很多男人是没有爱情的",
@@ -809,14 +817,6 @@
       "onboard_time": 1686669690,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1097075,
-      "num": 1097075,
-      "word": "巴黎治鼠患失败",
-      "onboard_time": 1686790229,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1082710,
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011203,
+      "num": 1011203,
+      "word": "张晚意说我是杨紫她哥",
+      "onboard_time": 1686793887,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1010954,
       "num": 1010954,
       "word": "白敬亭工作室向粉丝道歉",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1686745829,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 928540,
-      "num": 928540,
-      "word": "张晚意说我是杨紫她哥",
-      "onboard_time": 1686793887,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 919916,
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738239,
+      "num": 738239,
+      "word": "蒋依依毕业照",
+      "onboard_time": 1686788433,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736126,
       "num": 736126,
       "word": "企业回应禁止婚外情和出轨",
@@ -1435,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 709439,
-      "num": 709439,
-      "word": "蒋依依毕业照",
-      "onboard_time": 1686788433,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 707420,
       "num": 509116,
       "word": "员工入职一个半月怀孕了",
@@ -1467,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 678090,
+      "num": 678090,
+      "word": "包丽案被告人一审被判3年2个月",
+      "onboard_time": 1686796406,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668496,
       "num": 668496,
       "word": "杭州师范大学回应",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1686716555,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 658258,
+      "num": 658258,
+      "word": "RNG老板澄清Uzi退役谣言",
+      "onboard_time": 1686794367,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 654923,
@@ -1539,14 +1555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 635205,
-      "num": 635205,
-      "word": "RNG老板澄清Uzi退役谣言",
-      "onboard_time": 1686794367,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 625449,
       "num": 508181,
       "word": "被领导偷看了微信聊天记录",
@@ -1555,20 +1563,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 618677,
+      "num": 618677,
+      "word": "自称被地铁事件女子霸凌者愿配合调查",
+      "onboard_time": 1686795326,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609366,
       "num": 609366,
       "word": "权志龙又买房了",
       "onboard_time": 1686669449,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 605141,
-      "num": 605141,
-      "word": "自称被地铁事件女子霸凌者愿配合调查",
-      "onboard_time": 1686795326,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604759,
@@ -2083,14 +2091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388377,
-      "num": 388377,
-      "word": "包丽案被告人一审被判3年2个月",
-      "onboard_time": 1686796406,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384257,
       "num": 252758,
       "word": "妈妈对我俄罗斯男友的称呼",
@@ -2371,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334552,
+      "num": 334552,
+      "word": "张艺兴金晨对手戏",
+      "onboard_time": 1686796707,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334492,
       "num": 334492,
       "word": "EXO今日公开先行曲LetMeIn",
@@ -2587,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311818,
+      "num": 311818,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309616,
       "num": 309616,
       "word": "小鬼直播",
@@ -2779,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286645,
+      "num": 286645,
+      "word": "闪耀暖暖",
+      "onboard_time": 1686796406,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286071,
       "num": 286071,
       "word": "BBC卧底记者",
@@ -2816,14 +2840,6 @@
       "word": "台偶收视率前二十",
       "onboard_time": 1686639446,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 278238,
-      "num": 278238,
-      "word": "张艺兴金晨对手戏",
-      "onboard_time": 1686796707,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -2889,6 +2905,14 @@
       "onboard_time": 1686630150,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273549,
+      "num": 273549,
+      "word": "陈都灵说演员不是非得演女一男一",
+      "onboard_time": 1686792208,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 273247,
@@ -2969,14 +2993,6 @@
       "onboard_time": 1686751827,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 269617,
-      "num": 269617,
-      "word": "闪耀暖暖",
-      "onboard_time": 1686796406,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 269453,
@@ -3497,14 +3513,6 @@
       "onboard_time": 1686565108,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237296,
-      "num": 237296,
-      "word": "陈都灵说演员不是非得演女一男一",
-      "onboard_time": 1686792208,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 237117,
@@ -4267,14 +4275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204421,
-      "num": 204421,
-      "word": "澳门音乐节 退款",
-      "onboard_time": 1686796346,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204199,
       "num": 204199,
       "word": "TMEA音乐节",
@@ -4763,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189614,
+      "num": 189614,
+      "word": "凤凰传奇要进军电音届了",
+      "onboard_time": 1686797187,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189577,
       "num": 189577,
       "word": "博士毕业论文900字致谢母亲",
@@ -4939,6 +4947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187369,
+      "num": 187369,
+      "word": "日本护肤品还能用吗",
+      "onboard_time": 1686796229,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 187366,
       "num": 185741,
       "word": "鹿晗应援物品免费发",
@@ -5049,6 +5065,14 @@
       "onboard_time": 1686668432,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182420,
+      "num": 182420,
+      "word": "一碗多巴胺",
+      "onboard_time": 1686796047,
+      "rank": 34,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 182362,
@@ -5315,6 +5339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171331,
+      "num": 171331,
+      "word": "湖北一男生被室友连捅多刀杀害",
+      "onboard_time": 1686797187,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171002,
       "num": 171002,
       "word": "爸爸怕女儿回家难过放下弟弟迎接",
@@ -5523,14 +5555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163830,
-      "num": 163830,
-      "word": "一碗多巴胺",
-      "onboard_time": 1686796047,
-      "rank": 34,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 163648,
       "num": 163648,
       "word": "肖春生在自己不知道的时候已爱上佟晓梅",
@@ -5593,14 +5617,6 @@
       "onboard_time": 1686753453,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161536,
-      "num": 161536,
-      "word": "日本护肤品还能用吗",
-      "onboard_time": 1686796229,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 161474,
@@ -5977,6 +5993,14 @@
       "onboard_time": 1686629373,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149560,
+      "num": 149560,
+      "word": "重返未来雷米特杯失窃案",
+      "onboard_time": 1686796887,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 149490,
@@ -6771,6 +6795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127363,
+      "num": 127363,
+      "word": "交警拦没戴头盔男子竟有意外发现",
+      "onboard_time": 1686797247,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127061,
       "num": 127061,
       "word": "iG官宣beishang加入",
@@ -6809,6 +6841,14 @@
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124341,
+      "num": 124341,
+      "word": "永远不忘清澈的爱",
+      "onboard_time": 1686797127,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123981,
