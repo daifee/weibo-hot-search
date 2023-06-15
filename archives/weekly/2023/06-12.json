@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686810910374,
+  "endTime": 1686813390613,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -99,6 +99,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 2801822,
+      "num": 2801822,
+      "word": "谢娜再去已是嘉宾",
+      "onboard_time": 1686808227,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2705612,
       "num": 1925433,
       "word": "这竟然是肖战本人发的",
@@ -187,6 +195,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2323139,
+      "num": 1110350,
+      "word": "新型不孝",
+      "onboard_time": 1686806908,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2299874,
       "num": 2299874,
       "word": "不孕不育是榴莲最好的福报",
@@ -265,14 +281,6 @@
       "onboard_time": 1686796406,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2051934,
-      "num": 1110350,
-      "word": "新型不孝",
-      "onboard_time": 1686806908,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 2043186,
@@ -417,14 +425,6 @@
       "onboard_time": 1686531390,
       "rank": 1,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 1742164,
-      "num": 1742164,
-      "word": "谢娜再去已是嘉宾",
-      "onboard_time": 1686808227,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1738911,
@@ -961,6 +961,14 @@
       "onboard_time": 1686699505,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1063208,
+      "num": 1063208,
+      "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
+      "onboard_time": 1686810207,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1062866,
@@ -2403,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357229,
+      "num": 357229,
+      "word": "年赚7位数小三分离师是什么职业",
+      "onboard_time": 1686811404,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356589,
       "num": 356589,
       "word": "杨紫黄瀛子最新花絮图",
@@ -2523,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338484,
+      "num": 168021,
+      "word": "面试三句话让一屋子考官沉默了",
+      "onboard_time": 1686811286,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 338214,
       "num": 338214,
       "word": "EDG拿下CN瓦首胜",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1686495090,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327026,
+      "num": 327026,
+      "word": "告五人深圳抢票",
+      "onboard_time": 1686812967,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 326609,
@@ -2963,6 +2995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289703,
+      "num": 289703,
+      "word": "一只翻肚子睡觉的猫鲨",
+      "onboard_time": 1686808468,
+      "rank": 30,
+      "category": "自然,幽默"
+    },
+    {
       "raw_hot": 289169,
       "num": 232287,
       "word": "幸好肖春生留了底",
@@ -3195,14 +3235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270897,
-      "num": 166183,
-      "word": "一只翻肚子睡觉的猫鲨",
-      "onboard_time": 1686808468,
-      "rank": 30,
-      "category": "自然,幽默"
-    },
-    {
       "raw_hot": 270364,
       "num": 270364,
       "word": "才知道实习生工资比我高",
@@ -3233,6 +3265,14 @@
       "onboard_time": 1686550289,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268013,
+      "num": 268013,
+      "word": "李一桐又剪短发了",
+      "onboard_time": 1686811286,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 267230,
@@ -3459,6 +3499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254722,
+      "num": 254722,
+      "word": "肖春生你这都不亲",
+      "onboard_time": 1686808286,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254237,
       "num": 254237,
       "word": "猫的疼痛程度",
@@ -3473,6 +3521,14 @@
       "onboard_time": 1686703653,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253337,
+      "num": 253337,
+      "word": "Lisa一身反骨",
+      "onboard_time": 1686812665,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 253278,
@@ -3505,14 +3561,6 @@
       "onboard_time": 1686740545,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251653,
-      "num": 251653,
-      "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
-      "onboard_time": 1686810207,
-      "rank": 19,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 251300,
@@ -3617,14 +3665,6 @@
       "onboard_time": 1686668911,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247540,
-      "num": 247540,
-      "word": "肖春生你这都不亲",
-      "onboard_time": 1686808286,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 246988,
@@ -4123,6 +4163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223191,
+      "num": 223191,
+      "word": "一诺首次缺席首发",
+      "onboard_time": 1686812725,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222721,
       "num": 222721,
       "word": "当反断舍离血脉觉醒",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1686540568,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217579,
+      "num": 217579,
+      "word": "严浩翔学跳泰国舞",
+      "onboard_time": 1686812725,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 217164,
@@ -4963,6 +5019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193037,
+      "num": 193037,
+      "word": "蔡徐坤双蜡像揭幕",
+      "onboard_time": 1686812305,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 193006,
       "num": 193006,
       "word": "热火虽败犹荣",
@@ -5427,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183000,
+      "num": 183000,
+      "word": "你选择先读书还是先赚钱",
+      "onboard_time": 1686812967,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182799,
       "num": 182799,
       "word": "玛格丽特别放盐回应",
@@ -5819,12 +5891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168103,
+      "num": 168103,
+      "word": "学霸小伙走出考场救了个人",
+      "onboard_time": 1686812607,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 168072,
       "num": 168072,
       "word": "没想到配上字幕这么好笑",
       "onboard_time": 1686658288,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167913,
+      "num": 167913,
+      "word": "端午节放假两天还要补班的公司",
+      "onboard_time": 1686812125,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167640,
@@ -6139,6 +6227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158153,
+      "num": 157638,
+      "word": "肖战含冰水拍戏",
+      "onboard_time": 1686813086,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158023,
       "num": 158023,
       "word": "河北地质大学温暖回应环卫工儿子",
@@ -6209,6 +6305,14 @@
       "onboard_time": 1686708748,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 155868,
+      "num": 159436,
+      "word": "牧民以天为幕拍蓝底证件照",
+      "onboard_time": 1686812305,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 155313,
@@ -6443,6 +6547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 149231,
+      "num": 149231,
+      "word": "WE亚运征途",
+      "onboard_time": 1686811888,
+      "rank": 37,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 148614,
       "num": 148614,
       "word": "更适合中国宝宝方便面的吃法",
@@ -6553,6 +6665,14 @@
       "onboard_time": 1686656547,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146275,
+      "num": 146275,
+      "word": "是谁教你们这么打广告的",
+      "onboard_time": 1686812846,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 146001,
@@ -7139,6 +7259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130639,
+      "num": 130639,
+      "word": "王鹤棣盖章自己是笨蛋BKING",
+      "onboard_time": 1686812907,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130445,
       "num": 130445,
       "word": "KPL夏日解锁新姿势",
@@ -7297,6 +7425,22 @@
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124690,
+      "num": 124690,
+      "word": "蛋糕师每一口都咬在意想不到的位置",
+      "onboard_time": 1686811766,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 124357,
+      "num": 124357,
+      "word": "小伙伴被卡萌娃机智用电话手表报警",
+      "onboard_time": 1686812486,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124341,
@@ -7529,6 +7673,14 @@
       "onboard_time": 1686795265,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116390,
+      "num": 116390,
+      "word": "消失的她",
+      "onboard_time": 1686810925,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 115340,
@@ -8329,6 +8481,14 @@
       "onboard_time": 1686664831,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46920,
+      "num": 309847,
+      "word": "显眼包宿舍把全寝奖状贴门口炫耀",
+      "onboard_time": 1686812486,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46354,
