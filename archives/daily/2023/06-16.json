@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686863729204,
+  "endTime": 1686864813015,
   "band_list": [
     {
       "raw_hot": 2219766,
@@ -483,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23323,
+      "num": 23323,
+      "word": "两代小龙女心中的少年都是过儿",
+      "onboard_time": 1686860591,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20252,
       "num": 24466,
       "word": "电影孤注一掷定档",
       "onboard_time": 1686850457,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20141,
-      "num": 20141,
-      "word": "两代小龙女心中的少年都是过儿",
-      "onboard_time": 1686860591,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14938,
