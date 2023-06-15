@@ -1,0 +1,410 @@
+{
+  "runTime": 1686828825095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 757023,
+        "num": 757023,
+        "word": "梅西首发",
+        "onboard_time": 1686826769,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492426,
+        "num": 754421,
+        "word": "上海阿姨每天极限通勤去菜场修表",
+        "onboard_time": 1686822628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32209,
+        "num": 738910,
+        "word": "用漫画圆戍边英雄未实现的心愿",
+        "onboard_time": 1686816388,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220666,
+        "num": 737917,
+        "word": "过度打扮的女友和随意的男友",
+        "onboard_time": 1686818427,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 226155,
+        "num": 729313,
+        "word": "儿子火场救人后爸爸又跳河救人",
+        "onboard_time": 1686824907,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818367,
+        "num": 714671,
+        "word": "卖杏老人儿子望偷拿女子澄清或道歉",
+        "onboard_time": 1686821188,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711502,
+        "num": 711502,
+        "word": "面试三句话让一屋子考官沉默了",
+        "onboard_time": 1686811286,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 611229,
+        "num": 611229,
+        "word": "快乐大本营",
+        "onboard_time": 1686813986,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474685,
+        "num": 474685,
+        "word": "梅西今晚离开北京",
+        "onboard_time": 1686822265,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 456177,
+        "word": "央视主播谈外卖小哥跳江救人",
+        "onboard_time": 1686828504,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028141,
+        "num": 450493,
+        "word": "六公主",
+        "onboard_time": 1686817288,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438344,
+        "num": 438344,
+        "word": "我国总共600多万青年人失业",
+        "onboard_time": 1686804691,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411434,
+        "num": 411434,
+        "word": "刘诗诗肩颈线",
+        "onboard_time": 1686826827,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394864,
+        "num": 394864,
+        "word": "张小斐说现在的红毯生图非常生",
+        "onboard_time": 1686824365,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49708,
+        "num": 393893,
+        "word": "周也说自己摔的跟头自己爬起来",
+        "onboard_time": 1686826827,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393876,
+        "num": 393876,
+        "word": "一周工作1小时及以上属于就业",
+        "onboard_time": 1686822807,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365611,
+        "num": 365611,
+        "word": "吴京口中的淄博烧烤",
+        "onboard_time": 1686804332,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307759,
+        "num": 307759,
+        "word": "金在中公司开业SMTOWN送花篮",
+        "onboard_time": 1686827367,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301462,
+        "num": 301462,
+        "word": "阿根廷vs澳大利亚首发",
+        "onboard_time": 1686828387,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287208,
+        "num": 287208,
+        "word": "酒吧擅自邀请涉毒艺人孙兴被罚5万",
+        "onboard_time": 1686810207,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 307637,
+        "num": 286765,
+        "word": "杨颖代言丸美3年2400万",
+        "onboard_time": 1686816208,
+        "rank": 20,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 286266,
+        "num": 286266,
+        "word": "上班上到爸妈求我辞职",
+        "onboard_time": 1686798208,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 286013,
+        "num": 286013,
+        "word": "校方回应地铁事件女子在科技作品署名",
+        "onboard_time": 1686827844,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 272682,
+        "num": 272682,
+        "word": "长风渡",
+        "onboard_time": 1686824546,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268065,
+        "num": 268065,
+        "word": "梅西球迷",
+        "onboard_time": 1686822628,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260475,
+        "num": 260475,
+        "word": "谢娜再去已是嘉宾",
+        "onboard_time": 1686808227,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253908,
+        "num": 253908,
+        "word": "Lisa一身反骨",
+        "onboard_time": 1686812665,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247257,
+        "num": 247257,
+        "word": "杨丽萍孔雀舞中舞者造型被指不雅",
+        "onboard_time": 1686802349,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 240603,
+        "num": 240603,
+        "word": "孙怡搂江疏影腰睡觉",
+        "onboard_time": 1686826287,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236001,
+        "num": 236001,
+        "word": "妈妈得了阿尔兹海默症 爸爸就是特效药",
+        "onboard_time": 1686822265,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233143,
+        "num": 233143,
+        "word": "自己供自己上了四年的大学",
+        "onboard_time": 1686827425,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217364,
+        "num": 217364,
+        "word": "工体现场",
+        "onboard_time": 1686826045,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214356,
+        "num": 214356,
+        "word": "年赚7位数小三分离师是什么职业",
+        "onboard_time": 1686811404,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113327,
+        "num": 202071,
+        "word": "9岁娃深夜捡瓶子男子塞钱催快回家",
+        "onboard_time": 1686826646,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201789,
+        "num": 201789,
+        "word": "祖坟也得休息休息",
+        "onboard_time": 1686825149,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184548,
+        "num": 184548,
+        "word": "辛芷蕾一人分饰二十角",
+        "onboard_time": 1686822929,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176029,
+        "num": 176029,
+        "word": "BKPP 嵩山音乐节",
+        "onboard_time": 1686825086,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173635,
+        "num": 173635,
+        "word": "嵩山音乐节",
+        "onboard_time": 1686825206,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165323,
+        "num": 165323,
+        "word": "女博士后实名举报任职教师老公家暴",
+        "onboard_time": 1686827066,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 20349,
+        "num": 155383,
+        "word": "拍拍乐请网友看亚运比赛",
+        "onboard_time": 1686826827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151604,
+        "num": 151604,
+        "word": "女学霸边读研边兼职3年赚17万",
+        "onboard_time": 1686799166,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150808,
+        "num": 150808,
+        "word": "薛之谦演唱会抢票",
+        "onboard_time": 1686822807,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147289,
+        "num": 147289,
+        "word": "牟林翰",
+        "onboard_time": 1686822567,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143875,
+        "num": 143875,
+        "word": "南宁一公司招实习生月薪300元被骂",
+        "onboard_time": 1686815188,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143305,
+        "num": 143305,
+        "word": "卫生纸上的两道印是干嘛用的",
+        "onboard_time": 1686821787,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142499,
+        "num": 142499,
+        "word": "杭州亚运最想看的中国选手",
+        "onboard_time": 1686828565,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137927,
+        "num": 137927,
+        "word": "以闪亮之名翩鸿赋雪",
+        "onboard_time": 1686828745,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135445,
+        "num": 135445,
+        "word": "没遇过双向暗恋 但体验到双向社死",
+        "onboard_time": 1686828745,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132217,
+        "num": 132217,
+        "word": "徐志胜会说话就多说点",
+        "onboard_time": 1686813806,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129659,
+        "num": 129659,
+        "word": "巴黎治鼠患失败",
+        "onboard_time": 1686790229,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴勒斯坦总统举行会谈#"
+    }
+  }
+}

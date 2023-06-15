@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686827649078,
+  "endTime": 1686828825095,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1220666,
+      "num": 911393,
+      "word": "过度打扮的女友和随意的男友",
+      "onboard_time": 1686818427,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1188404,
       "num": 1188404,
       "word": "杨颖代言丸美3年2400万",
@@ -193,14 +201,6 @@
       "onboard_time": 1686804691,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1049700,
-      "num": 911393,
-      "word": "过度打扮的女友和随意的男友",
-      "onboard_time": 1686818427,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1039402,
@@ -387,6 +387,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 757023,
+      "num": 757023,
+      "word": "梅西首发",
+      "onboard_time": 1686826769,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 739250,
       "num": 739250,
       "word": "想减肥少吃冰",
@@ -523,14 +531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 483119,
-      "num": 483119,
-      "word": "梅西首发",
-      "onboard_time": 1686826769,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 480041,
       "num": 480041,
       "word": "徐志胜会说话就多说点",
@@ -584,6 +584,14 @@
       "word": "关晓彤第一套vs第二套",
       "onboard_time": 1686741986,
       "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 411434,
+      "num": 411434,
+      "word": "刘诗诗肩颈线",
+      "onboard_time": 1686826827,
+      "rank": 28,
       "category": "作品衍生,时尚"
     },
     {
@@ -731,6 +739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307759,
+      "num": 307759,
+      "word": "金在中公司开业SMTOWN送花篮",
+      "onboard_time": 1686827367,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301462,
+      "num": 301462,
+      "word": "阿根廷vs澳大利亚首发",
+      "onboard_time": 1686828387,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300933,
       "num": 300933,
       "word": "中生代戏霸女演员",
@@ -785,6 +809,14 @@
       "onboard_time": 1686796406,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286013,
+      "num": 286013,
+      "word": "校方回应地铁事件女子在科技作品署名",
+      "onboard_time": 1686827844,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 281750,
@@ -915,12 +947,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242409,
-      "num": 242409,
-      "word": "刘诗诗肩颈线",
-      "onboard_time": 1686826827,
-      "rank": 28,
-      "category": "作品衍生,时尚"
+      "raw_hot": 240603,
+      "num": 240603,
+      "word": "孙怡搂江疏影腰睡觉",
+      "onboard_time": 1686826287,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 239537,
@@ -1027,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226155,
+      "num": 752561,
+      "word": "儿子火场救人后爸爸又跳河救人",
+      "onboard_time": 1686824907,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225845,
       "num": 225845,
       "word": "社会的边角料却是家里的顶梁柱",
@@ -1107,20 +1147,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 214351,
+      "num": 456177,
+      "word": "央视主播谈外卖小哥跳江救人",
+      "onboard_time": 1686828504,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213583,
       "num": 213583,
       "word": "祖坟也得休息休息",
       "onboard_time": 1686825149,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213440,
-      "num": 213440,
-      "word": "孙怡搂江疏影腰睡觉",
-      "onboard_time": 1686826287,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 213351,
@@ -1185,14 +1225,6 @@
       "onboard_time": 1686792447,
       "rank": 29,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 204648,
-      "num": 204648,
-      "word": "金在中公司开业SMTOWN送花篮",
-      "onboard_time": 1686827367,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 203305,
@@ -1483,14 +1515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 166608,
-      "num": 752561,
-      "word": "儿子火场救人后爸爸又跳河救人",
-      "onboard_time": 1686824907,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166240,
       "num": 166240,
       "word": "宋亚轩刘耀文打羽毛球",
@@ -1731,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142499,
+      "num": 142499,
+      "word": "杭州亚运最想看的中国选手",
+      "onboard_time": 1686828565,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142439,
       "num": 142439,
       "word": "如何看玛格丽特别放盐再发文",
@@ -1795,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137927,
+      "num": 137927,
+      "word": "以闪亮之名翩鸿赋雪",
+      "onboard_time": 1686828745,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137832,
       "num": 137832,
       "word": "王鹤棣听到粉丝喊亲一个的反应",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1686816928,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135445,
+      "num": 135445,
+      "word": "没遇过双向暗恋 但体验到双向社死",
+      "onboard_time": 1686828745,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135338,
@@ -2395,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49708,
+      "num": 393893,
+      "word": "周也说自己摔的跟头自己爬起来",
+      "onboard_time": 1686826827,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47338,
       "num": 419948,
       "word": "57岁保姆手掌作画7年成民间画家",
@@ -2435,12 +2491,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 29260,
-      "num": 383714,
-      "word": "周也说自己摔的跟头自己爬起来",
+      "raw_hot": 20349,
+      "num": 183644,
+      "word": "拍拍乐请网友看亚运比赛",
       "onboard_time": 1686826827,
-      "rank": 14,
-      "category": "影视"
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19496,
@@ -2448,14 +2504,6 @@
       "word": "杭州迎亚运风光片",
       "onboard_time": 1686710488,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17288,
-      "num": 183644,
-      "word": "拍拍乐请网友看亚运比赛",
-      "onboard_time": 1686826827,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
