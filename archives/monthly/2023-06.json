@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686832433942,
+  "endTime": 1686833485795,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -971,6 +971,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2153673,
+      "num": 2153673,
+      "word": "梅西81秒进球",
+      "onboard_time": 1686831085,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2142412,
       "num": 2142412,
       "word": "拍婚纱照发朋友圈被同事教育",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1686585147,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1970078,
-      "num": 1970078,
-      "word": "梅西81秒进球",
-      "onboard_time": 1686831085,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1965915,
@@ -4283,6 +4283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1027757,
+      "num": 1027757,
+      "word": "自己供自己上了四年的大学",
+      "onboard_time": 1686827425,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -5499,6 +5507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834951,
+      "num": 834951,
+      "word": "贾乃亮黄景瑜评论区互怼",
+      "onboard_time": 1686829943,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833816,
       "num": 833816,
       "word": "蔡徐坤说叫我坤就可以了",
@@ -6547,14 +6563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 703144,
-      "num": 703144,
-      "word": "贾乃亮黄景瑜评论区互怼",
-      "onboard_time": 1686829943,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 700134,
       "num": 700134,
       "word": "梦中的那片海",
@@ -6937,6 +6945,14 @@
       "onboard_time": 1685628095,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657426,
+      "num": 410631,
+      "word": "海底捞回应8块钱生菜仅2片",
+      "onboard_time": 1686831921,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 655398,
@@ -7411,14 +7427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 597942,
-      "num": 597942,
-      "word": "自己供自己上了四年的大学",
-      "onboard_time": 1686827425,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 596321,
       "num": 596321,
       "word": "黄旭熙是救了李成洙的命吗",
@@ -7644,7 +7652,7 @@
     },
     {
       "raw_hot": 572469,
-      "num": 286013,
+      "num": 287549,
       "word": "校方回应地铁事件女子在科技作品署名",
       "onboard_time": 1686827844,
       "rank": 22,
@@ -7801,6 +7809,14 @@
       "onboard_time": 1686012691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559290,
+      "num": 559290,
+      "word": "张小斐说现在的红毯生图非常生",
+      "onboard_time": 1686824365,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 557874,
@@ -8153,14 +8169,6 @@
       "onboard_time": 1685545351,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530163,
-      "num": 530163,
-      "word": "张小斐说现在的红毯生图非常生",
-      "onboard_time": 1686824365,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 529382,
@@ -8921,6 +8929,14 @@
       "onboard_time": 1686105876,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471428,
+      "num": 395647,
+      "word": "张踩铃 当一个混血被双语幼儿园拒收",
+      "onboard_time": 1686831023,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 471013,
@@ -11187,6 +11203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 357743,
+      "num": 357743,
+      "word": "梅西球迷",
+      "onboard_time": 1686822628,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "四会住建局回应业主购42套房全打通",
@@ -11281,14 +11305,6 @@
       "onboard_time": 1685923767,
       "rank": 16,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 354380,
-      "num": 354380,
-      "word": "梅西球迷",
-      "onboard_time": 1686822628,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 354096,
@@ -12307,6 +12323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326804,
+      "num": 326804,
+      "word": "肖战央视专访",
+      "onboard_time": 1686831566,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326609,
       "num": 326609,
       "word": "久诚好帅",
@@ -12953,14 +12977,6 @@
       "onboard_time": 1686101313,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309371,
-      "num": 181417,
-      "word": "张踩铃 当一个混血被双语幼儿园拒收",
-      "onboard_time": 1686831023,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 309209,
@@ -16211,14 +16227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253553,
-      "num": 253553,
-      "word": "肖战央视专访",
-      "onboard_time": 1686831566,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253390,
       "num": 641781,
       "word": "50岁妈妈三战上岸中国美院",
@@ -16889,6 +16897,14 @@
       "onboard_time": 1685859089,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244912,
+      "num": 244912,
+      "word": "成毅坐轮椅直播",
+      "onboard_time": 1686832886,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 244895,
@@ -18841,14 +18857,6 @@
       "onboard_time": 1686641909,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222635,
-      "num": 181133,
-      "word": "海底捞回应8块钱生菜仅2片",
-      "onboard_time": 1686831921,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 222299,
@@ -22307,6 +22315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191971,
+      "num": 191971,
+      "word": "恩佐助攻梅西",
+      "onboard_time": 1686833187,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191943,
       "num": 191943,
       "word": "酒托",
@@ -22665,6 +22681,14 @@
       "onboard_time": 1686806967,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190216,
+      "num": 186877,
+      "word": "杭州亚运会奖牌亮相",
+      "onboard_time": 1686832585,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 190211,
@@ -23299,6 +23323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186903,
+      "num": 186903,
+      "word": "关晓彤影版红楼梦贾元春",
+      "onboard_time": 1686830604,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186739,
       "num": 186739,
       "word": "高考结束的我belike",
@@ -23321,6 +23353,14 @@
       "onboard_time": 1686124712,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186694,
+      "num": 186694,
+      "word": "项南不会是个骗子吧",
+      "onboard_time": 1686832342,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 186646,
@@ -23385,14 +23425,6 @@
       "onboard_time": 1685650032,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 186037,
-      "num": 186037,
-      "word": "关晓彤影版红楼梦贾元春",
-      "onboard_time": 1686830604,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 185999,
@@ -24043,6 +24075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180420,
+      "num": 180420,
+      "word": "湖北随县博爱特校性侵案调查",
+      "onboard_time": 1686832763,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "雷佳音时尚芭莎大片像屁崩了",
@@ -24659,6 +24699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174000,
+      "num": 174000,
+      "word": "权顺荣说SEVENTEEN将10月回归",
+      "onboard_time": 1686832523,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173986,
       "num": 173986,
       "word": "OMG对战WBG",
@@ -25201,14 +25249,6 @@
       "onboard_time": 1686108344,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 168184,
-      "num": 168184,
-      "word": "项南不会是个骗子吧",
-      "onboard_time": 1686832342,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 168179,
@@ -28635,6 +28675,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 137399,
+      "num": 137399,
+      "word": "阿根廷直播",
+      "onboard_time": 1686833247,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137387,
       "num": 137387,
       "word": "93岁奶奶为自己葬礼准备的视频",
@@ -30321,6 +30369,14 @@
       "onboard_time": 1686637228,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119803,
+      "num": 119803,
+      "word": "猫猫的狗狗骑士",
+      "onboard_time": 1686833127,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 119781,
@@ -32603,6 +32659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80539,
+      "num": 368920,
+      "word": "蔚来ET5旅行版价格公布",
+      "onboard_time": 1686831265,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80006,
       "num": 80006,
       "word": "watchOS 10 史努比表盘",
@@ -32689,14 +32753,6 @@
       "onboard_time": 1685599586,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76875,
-      "num": 346888,
-      "word": "蔚来ET5旅行版价格公布",
-      "onboard_time": 1686831265,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 76779,
@@ -33987,6 +34043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43985,
+      "num": 378772,
+      "word": "陈凯歌说朱一龙演志愿军动了真情",
+      "onboard_time": 1686830424,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43613,
       "num": 647450,
       "word": "30年前高考是什么样的",
@@ -34129,14 +34193,6 @@
       "onboard_time": 1685944888,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37370,
-      "num": 354830,
-      "word": "陈凯歌说朱一龙演志愿军动了真情",
-      "onboard_time": 1686830424,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 37330,
