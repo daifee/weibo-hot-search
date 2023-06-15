@@ -1,6 +1,6 @@
 {
   "startTime": 1686759787411,
-  "endTime": 1686800020481,
+  "endTime": 1686802848034,
   "band_list": [
     {
       "raw_hot": 4933869,
@@ -25,6 +25,14 @@
       "onboard_time": 1686786927,
       "rank": 0,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1443573,
+      "num": 1443573,
+      "word": "House脱口秀演出剧院被罚10万",
+      "onboard_time": 1686799290,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1386021,
@@ -59,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159664,
+      "num": 1159664,
+      "word": "澳门音乐节 退款",
+      "onboard_time": 1686796346,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1086599,
+      "num": 1086599,
+      "word": "女学霸边读研边兼职3年赚17万",
+      "onboard_time": 1686799166,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1039402,
       "num": 1039402,
       "word": "考古女生寄200斤洛阳铲装备吓坏父母",
@@ -81,14 +105,6 @@
       "onboard_time": 1686793887,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1005865,
-      "num": 1005865,
-      "word": "澳门音乐节 退款",
-      "onboard_time": 1686796346,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 997805,
@@ -115,20 +131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 878545,
+      "num": 615860,
+      "word": "湖北一男生被室友连捅多刀杀害",
+      "onboard_time": 1686797187,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872857,
       "num": 872857,
       "word": "Uzi哭了",
       "onboard_time": 1686745048,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 862258,
-      "num": 615860,
-      "word": "湖北一男生被室友连捅多刀杀害",
-      "onboard_time": 1686797187,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829620,
@@ -153,6 +169,14 @@
       "onboard_time": 1686786265,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 799995,
+      "num": 308108,
+      "word": "上班上到爸妈求我辞职",
+      "onboard_time": 1686798208,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 791564,
@@ -211,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 681214,
-      "num": 290839,
-      "word": "上班上到爸妈求我辞职",
-      "onboard_time": 1686798208,
-      "rank": 22,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 667086,
       "num": 667086,
       "word": "温州近视司机深夜高速上镜片突然脱落",
@@ -235,20 +251,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 613871,
+      "num": 241314,
+      "word": "同学说我不去椰树可惜了",
+      "onboard_time": 1686800906,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 598651,
       "num": 598651,
       "word": "上海青浦区发生3.1级地震",
       "onboard_time": 1686784341,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593224,
-      "num": 593224,
-      "word": "House脱口秀演出剧院被罚10万",
-      "onboard_time": 1686799290,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 563110,
@@ -273,6 +289,14 @@
       "onboard_time": 1686735507,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470678,
+      "num": 300789,
+      "word": "中1000万和挣1000万哪个概率更大",
+      "onboard_time": 1686800127,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 455500,
@@ -323,6 +347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 377848,
+      "num": 377848,
+      "word": "鞠婧祎吻戏嘴角上扬",
+      "onboard_time": 1686798087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377099,
       "num": 298803,
       "word": "包丽",
@@ -347,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332513,
+      "num": 332513,
+      "word": "段磊怎么没了",
+      "onboard_time": 1686802529,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326401,
       "num": 326401,
       "word": "周三也休公司 上四休三绝不放弃",
@@ -361,6 +401,14 @@
       "onboard_time": 1686798506,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314381,
+      "num": 314381,
+      "word": "郭富城方媛牵手看赛马",
+      "onboard_time": 1686801688,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 309545,
@@ -451,12 +499,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243944,
+      "num": 243944,
+      "word": "杨丽萍孔雀舞中舞者造型被指不雅",
+      "onboard_time": 1686802349,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 243855,
+      "num": 243855,
+      "word": "不要低估运动对容貌的影响",
+      "onboard_time": 1686800486,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 243273,
+      "num": 243273,
+      "word": "卖荷花的爷爷剥开了盛夏",
+      "onboard_time": 1686801389,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236704,
       "num": 236704,
       "word": "100天后杭州亚运会",
       "onboard_time": 1686792688,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235667,
+      "num": 235667,
+      "word": "肖战醉酒哭戏",
+      "onboard_time": 1686802168,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 234252,
@@ -579,14 +659,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 194085,
-      "num": 190992,
-      "word": "鞠婧祎吻戏嘴角上扬",
-      "onboard_time": 1686798087,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193564,
       "num": 193564,
       "word": "内娱校花",
@@ -625,6 +697,14 @@
       "onboard_time": 1686796047,
       "rank": 34,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 182399,
+      "num": 182399,
+      "word": "交警拦没戴头盔男子竟有意外发现",
+      "onboard_time": 1686797247,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181027,
@@ -675,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164041,
-      "num": 164041,
-      "word": "交警拦没戴头盔男子竟有意外发现",
-      "onboard_time": 1686797247,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162908,
       "num": 162908,
       "word": "老中医淄博八大局摆摊义诊",
@@ -705,6 +777,14 @@
       "onboard_time": 1686789569,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161134,
+      "num": 161134,
+      "word": "穿凉鞋配袜子被同事说奇葩",
+      "onboard_time": 1686801868,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 160680,
@@ -737,6 +817,14 @@
       "onboard_time": 1686786385,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154954,
+      "num": 154954,
+      "word": "杨紫特意打开车窗收粉丝的信",
+      "onboard_time": 1686800186,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150123,
@@ -779,20 +867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142439,
+      "num": 142439,
+      "word": "如何看玛格丽特别放盐再发文",
+      "onboard_time": 1686802288,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141718,
       "num": 141718,
       "word": "唯一一个对肖春生知恩图报的人",
       "onboard_time": 1686750210,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141387,
-      "num": 572278,
-      "word": "女学霸边读研边兼职3年赚17万",
-      "onboard_time": 1686799166,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139987,
@@ -833,6 +921,14 @@
       "onboard_time": 1686753154,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132267,
+      "num": 141708,
+      "word": "不是花太明显是爱意太明显",
+      "onboard_time": 1686802048,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128488,
@@ -883,6 +979,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 122782,
+      "num": 141517,
+      "word": "芝芙在迪士尼庆生",
+      "onboard_time": 1686799408,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122573,
       "num": 122573,
       "word": "肖沐恩 老A",
@@ -897,14 +1001,6 @@
       "onboard_time": 1686791668,
       "rank": 49,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 117421,
-      "num": 117421,
-      "word": "芝芙在迪士尼庆生",
-      "onboard_time": 1686799408,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116872,
@@ -1001,6 +1097,14 @@
       "onboard_time": 1686745108,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 100381,
+      "num": 1122994,
+      "word": "相约2023杭州亚运会",
+      "onboard_time": 1686799767,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100353,
@@ -1131,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53363,
+      "num": 388499,
+      "word": "外卖员突发心梗倒地警民接力抢救",
+      "onboard_time": 1686801632,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35859,
       "num": 36399,
       "word": "RNG",
@@ -1145,14 +1257,6 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20804,
-      "num": 882568,
-      "word": "相约2023杭州亚运会",
-      "onboard_time": 1686799767,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19496,
