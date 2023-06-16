@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686950072738,
+  "endTime": 1686951224212,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -12595,6 +12595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47014,
+      "num": 28670,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46943,
       "num": 530746,
       "word": "陈坤记忆中的二荆条炒肉",
@@ -12785,14 +12793,6 @@
       "onboard_time": 1686884434,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 27735,
-      "num": 27735,
-      "word": "村民鸡窝中发现鸟皇后",
-      "onboard_time": 1686949152,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27587,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686950072738,
+  "endTime": 1686951224212,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47014,
+      "num": 28670,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41737,
       "num": 46239,
       "word": "千万不要强行睁眼打喷嚏",
@@ -457,14 +465,6 @@
       "onboard_time": 1686920609,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27735,
-      "num": 27735,
-      "word": "村民鸡窝中发现鸟皇后",
-      "onboard_time": 1686949152,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12567,
