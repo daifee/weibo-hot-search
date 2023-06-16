@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686883332551,
+  "endTime": 1686883858601,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10005491,
+      "num": 10005491,
+      "word": "TFBOYS十年之约演唱会官宣",
+      "onboard_time": 1686882328,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 6292850,
       "num": 6292850,
       "word": "张恒远去世",
       "onboard_time": 1686697641,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 6136229,
-      "num": 6136229,
-      "word": "TFBOYS十年之约演唱会官宣",
-      "onboard_time": 1686882328,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 5188720,
@@ -587,6 +587,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1603752,
+      "num": 1603752,
+      "word": "快乐大本营最后一期未播预告",
+      "onboard_time": 1686876749,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1577327,
       "num": 1577327,
       "word": "薛之谦还没找到梅西吗",
@@ -649,14 +657,6 @@
       "onboard_time": 1686611720,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1508299,
-      "num": 1508299,
-      "word": "快乐大本营最后一期未播预告",
-      "onboard_time": 1686876749,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1507639,
@@ -1027,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1158507,
+      "num": 440335,
+      "word": "向佐郭碧婷为二胎儿子办周岁宴",
+      "onboard_time": 1686881127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158012,
       "num": 1158012,
       "word": "向佐新片打戏误伤唐诗逸",
@@ -1067,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1125227,
-      "num": 440335,
-      "word": "向佐郭碧婷为二胎儿子办周岁宴",
-      "onboard_time": 1686881127,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1118116,
       "num": 1118116,
       "word": "为什么夏天都不穿凉鞋了",
@@ -1097,6 +1097,14 @@
       "onboard_time": 1686584129,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1101693,
+      "num": 1101693,
+      "word": "袁弘 搞到梅西to签",
+      "onboard_time": 1686879329,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1097871,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1686699505,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1063132,
-      "num": 1063132,
-      "word": "袁弘 搞到梅西to签",
-      "onboard_time": 1686879329,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1062866,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1686811286,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 880553,
+      "num": 880553,
+      "word": "私人山庄遭网红闯入并渲染成鬼屋",
+      "onboard_time": 1686880708,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880234,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1686486811,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 713784,
-      "num": 713784,
-      "word": "私人山庄遭网红闯入并渲染成鬼屋",
-      "onboard_time": 1686880708,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 707420,
@@ -3299,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327114,
+      "num": 234460,
+      "word": "王一博情绪主题视频",
+      "onboard_time": 1686882990,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327026,
       "num": 327026,
       "word": "告五人深圳抢票",
@@ -3587,14 +3595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303116,
-      "num": 213584,
-      "word": "王一博情绪主题视频",
-      "onboard_time": 1686882990,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302652,
       "num": 276002,
       "word": "你对川大最新回应怎么看",
@@ -3848,6 +3848,14 @@
       "word": "肖战醉酒哭戏",
       "onboard_time": 1686802168,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281302,
+      "num": 281302,
+      "word": "迪丽热巴冷脸vs笑脸",
+      "onboard_time": 1686883051,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4211,6 +4219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258966,
+      "num": 258966,
+      "word": "为啥理发店没有女理发师",
+      "onboard_time": 1686882689,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258559,
       "num": 258559,
       "word": "年轻人不爱发朋友圈的原因",
@@ -4427,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250026,
+      "num": 250026,
+      "word": "戳爷问怎么接近黄铉辰",
+      "onboard_time": 1686881187,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 249713,
       "num": 249713,
       "word": "公司说我在9月31号这天旷工了",
@@ -4561,6 +4585,14 @@
       "onboard_time": 1686496291,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243714,
+      "num": 243714,
+      "word": "主人真的很宠它 它也是真的很蠢",
+      "onboard_time": 1686880048,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 243434,
@@ -4883,14 +4915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 229319,
-      "num": 229319,
-      "word": "主人真的很宠它 它也是真的很蠢",
-      "onboard_time": 1686880048,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 228493,
       "num": 228493,
       "word": "钟文泽MacBookAir15评测",
@@ -5067,6 +5091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224558,
+      "num": 224558,
+      "word": "梦中的那片海时光偕行版海报",
+      "onboard_time": 1686883412,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224469,
       "num": 224469,
       "word": "钟辰乐发色",
@@ -5121,6 +5153,14 @@
       "onboard_time": 1686641909,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222624,
+      "num": 222624,
+      "word": "我当不了站姐的原因",
+      "onboard_time": 1686880828,
+      "rank": 37,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 221951,
@@ -5379,14 +5419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214319,
-      "num": 214319,
-      "word": "戳爷问怎么接近黄铉辰",
-      "onboard_time": 1686881187,
-      "rank": 28,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 214277,
       "num": 214277,
       "word": "李承铉听到Lucky会和男生抱抱的反应",
@@ -5401,6 +5433,14 @@
       "onboard_time": 1686729627,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213948,
+      "num": 213948,
+      "word": "孩子进屋就锁门是什么心理",
+      "onboard_time": 1686883412,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 213935,
@@ -5627,6 +5667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207056,
+      "num": 207056,
+      "word": "对你来说月薪1万够花吗",
+      "onboard_time": 1686883412,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 207027,
       "num": 207027,
       "word": "四川多名城管疑与摊贩发生冲突",
@@ -5819,6 +5867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202064,
+      "num": 202064,
+      "word": "肖战李沁冬日拾光大片",
+      "onboard_time": 1686883713,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201867,
       "num": 201867,
       "word": "当我飞奔向你",
@@ -5931,14 +5987,6 @@
       "category": "社会议题,情感"
     },
     {
-      "raw_hot": 199804,
-      "num": 199804,
-      "word": "为啥理发店没有女理发师",
-      "onboard_time": 1686882689,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199773,
       "num": 199773,
       "word": "范丞丞拉着Angelababy挥手",
@@ -6019,14 +6067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198123,
-      "num": 198123,
-      "word": "迪丽热巴冷脸vs笑脸",
-      "onboard_time": 1686883051,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198065,
       "num": 198065,
       "word": "母女3人扶梯摔倒大哥跪地按停",
@@ -6081,6 +6121,14 @@
       "onboard_time": 1686494432,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196001,
+      "num": 196001,
+      "word": "猪小肠做的苦肠肉粽",
+      "onboard_time": 1686883713,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 195703,
@@ -6587,12 +6635,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 187810,
-      "num": 187810,
-      "word": "我当不了站姐的原因",
-      "onboard_time": 1686880828,
-      "rank": 37,
-      "category": "幽默,作品衍生"
+      "raw_hot": 187551,
+      "num": 187551,
+      "word": "严浩翔换新发型",
+      "onboard_time": 1686882808,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 187369,
@@ -6609,6 +6657,14 @@
       "onboard_time": 1686573869,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187310,
+      "num": 187310,
+      "word": "向往的生活",
+      "onboard_time": 1686882389,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 187271,
@@ -6849,6 +6905,14 @@
       "onboard_time": 1686634590,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180595,
+      "num": 396404,
+      "word": "蛋仔派对一周年",
+      "onboard_time": 1686880828,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 180420,
@@ -7411,14 +7475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164137,
-      "num": 164137,
-      "word": "向往的生活",
-      "onboard_time": 1686882389,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163892,
       "num": 163892,
       "word": "光与夜之恋",
@@ -7513,6 +7569,14 @@
       "onboard_time": 1686753453,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161545,
+      "num": 161545,
+      "word": "带着微博去都市",
+      "onboard_time": 1686883593,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 161474,
@@ -7689,14 +7753,6 @@
       "onboard_time": 1686660267,
       "rank": 31,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 157477,
-      "num": 396404,
-      "word": "蛋仔派对一周年",
-      "onboard_time": 1686880828,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 157048,
@@ -8193,14 +8249,6 @@
       "onboard_time": 1686812846,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146009,
-      "num": 146009,
-      "word": "严浩翔换新发型",
-      "onboard_time": 1686882808,
-      "rank": 46,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 146001,

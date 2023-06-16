@@ -1,0 +1,410 @@
+{
+  "runTime": 1686883858601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10005491,
+        "num": 10005491,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1603752,
+        "num": 1603752,
+        "word": "快乐大本营最后一期未播预告",
+        "onboard_time": 1686876749,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61959,
+        "num": 1351204,
+        "word": "杭州亚运会奖牌亮相",
+        "onboard_time": 1686832585,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1193909,
+        "num": 1193909,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1101693,
+        "num": 1101693,
+        "word": "袁弘 搞到梅西to签",
+        "onboard_time": 1686879329,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 880553,
+        "num": 880553,
+        "word": "私人山庄遭网红闯入并渲染成鬼屋",
+        "onboard_time": 1686880708,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838979,
+        "num": 838979,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832269,
+        "num": 832269,
+        "word": "网友爆料宁艺卓是孟美岐导师",
+        "onboard_time": 1686876091,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 753161,
+        "num": 753161,
+        "word": "黄晓明生图",
+        "onboard_time": 1686871704,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418643,
+        "num": 418643,
+        "word": "关晓彤25岁身材管理",
+        "onboard_time": 1686870620,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1158507,
+        "num": 418402,
+        "word": "向佐郭碧婷为二胎儿子办周岁宴",
+        "onboard_time": 1686881127,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414491,
+        "num": 414491,
+        "word": "原来X光下的婴儿小手长这样",
+        "onboard_time": 1686875007,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406858,
+        "num": 406858,
+        "word": "女生摆摊卖鸡脚边卖边吃",
+        "onboard_time": 1686873207,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395850,
+        "num": 395850,
+        "word": "陈宏军叶芳离婚",
+        "onboard_time": 1686871762,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180595,
+        "num": 385701,
+        "word": "蛋仔派对一周年",
+        "onboard_time": 1686880828,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378882,
+        "num": 378882,
+        "word": "头发居然可以扎进肉里",
+        "onboard_time": 1686871822,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366516,
+        "num": 366516,
+        "word": "苏醒见完梅西偶遇来迟的薛之谦",
+        "onboard_time": 1686830783,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 350645,
+        "num": 350645,
+        "word": "冰清玉洁近况",
+        "onboard_time": 1686844348,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348013,
+        "num": 348013,
+        "word": "52岁大叔以身试险1小时劝退10多名游客",
+        "onboard_time": 1686870199,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319067,
+        "num": 319067,
+        "word": "古偶四大白发",
+        "onboard_time": 1686877468,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 611309,
+        "num": 318727,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424622,
+        "num": 318165,
+        "word": "考公上岸后被同学删了微信",
+        "onboard_time": 1686875007,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305190,
+        "num": 305190,
+        "word": "薛之谦 再见啦梅西",
+        "onboard_time": 1686844705,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281302,
+        "num": 281302,
+        "word": "迪丽热巴冷脸vs笑脸",
+        "onboard_time": 1686883051,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258966,
+        "num": 258966,
+        "word": "为啥理发店没有女理发师",
+        "onboard_time": 1686882689,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257676,
+        "num": 257676,
+        "word": "连那英都接不住的场子",
+        "onboard_time": 1686873506,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250026,
+        "num": 250026,
+        "word": "戳爷问怎么接近黄铉辰",
+        "onboard_time": 1686881187,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 249739,
+        "num": 249739,
+        "word": "阿根廷2比0",
+        "onboard_time": 1686836550,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243714,
+        "num": 243714,
+        "word": "主人真的很宠它 它也是真的很蠢",
+        "onboard_time": 1686880048,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237055,
+        "num": 237055,
+        "word": "冲进球场抱梅西球迷面临什么处罚",
+        "onboard_time": 1686875128,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 327114,
+        "num": 234460,
+        "word": "王一博情绪主题视频",
+        "onboard_time": 1686882990,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224558,
+        "num": 224558,
+        "word": "梦中的那片海时光偕行版海报",
+        "onboard_time": 1686883412,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222624,
+        "num": 222624,
+        "word": "我当不了站姐的原因",
+        "onboard_time": 1686880828,
+        "rank": 32,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 213948,
+        "num": 213948,
+        "word": "孩子进屋就锁门是什么心理",
+        "onboard_time": 1686883412,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209947,
+        "num": 209947,
+        "word": "研一和研三读文献时的区别",
+        "onboard_time": 1686875007,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207056,
+        "num": 207056,
+        "word": "对你来说月薪1万够花吗",
+        "onboard_time": 1686883412,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 204058,
+        "num": 204058,
+        "word": "贺红玲给肖春生佟晓梅随礼",
+        "onboard_time": 1686881907,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203280,
+        "num": 203280,
+        "word": "毕业搬家才知道生活费都去哪了",
+        "onboard_time": 1686880349,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202064,
+        "num": 202064,
+        "word": "肖战李沁冬日拾光大片",
+        "onboard_time": 1686883713,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196001,
+        "num": 196001,
+        "word": "猪小肠做的苦肠肉粽",
+        "onboard_time": 1686883713,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192467,
+        "num": 192467,
+        "word": "50岁阿姨疑遭20岁快递员猥亵",
+        "onboard_time": 1686877650,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192399,
+        "num": 192399,
+        "word": "梅西过人好牛",
+        "onboard_time": 1686837268,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189436,
+        "num": 189436,
+        "word": "男生中考忘涂机读卡妈妈大哭",
+        "onboard_time": 1686871884,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187551,
+        "num": 187551,
+        "word": "严浩翔换新发型",
+        "onboard_time": 1686882808,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 187310,
+        "num": 187310,
+        "word": "向往的生活",
+        "onboard_time": 1686882389,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179127,
+        "num": 179127,
+        "word": "海底捞回应8块钱生菜仅2片",
+        "onboard_time": 1686831921,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 175359,
+        "num": 175359,
+        "word": "熬夜给身体带来的损伤几乎是不可逆的",
+        "onboard_time": 1686878969,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165506,
+        "num": 165506,
+        "word": "好多明星去看了梅西比赛",
+        "onboard_time": 1686882990,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 161545,
+        "num": 161545,
+        "word": "带着微博去都市",
+        "onboard_time": 1686883593,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156880,
+        "num": 156880,
+        "word": "六公主",
+        "onboard_time": 1686817288,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#统筹好经济发展和生态环境保护建设的关系#"
+    }
+  }
+}

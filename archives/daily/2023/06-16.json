@@ -1,10 +1,10 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686883332551,
+  "endTime": 1686883858601,
   "band_list": [
     {
-      "raw_hot": 6136229,
-      "num": 6136229,
+      "raw_hot": 10005491,
+      "num": 10005491,
       "word": "TFBOYS十年之约演唱会官宣",
       "onboard_time": 1686882328,
       "rank": 0,
@@ -43,8 +43,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1508299,
-      "num": 1508299,
+      "raw_hot": 1603752,
+      "num": 1603752,
       "word": "快乐大本营最后一期未播预告",
       "onboard_time": 1686876749,
       "rank": 3,
@@ -83,7 +83,7 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1125227,
+      "raw_hot": 1158507,
       "num": 440335,
       "word": "向佐郭碧婷为二胎儿子办周岁宴",
       "onboard_time": 1686881127,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1063132,
-      "num": 1063132,
+      "raw_hot": 1101693,
+      "num": 1101693,
       "word": "袁弘 搞到梅西to签",
       "onboard_time": 1686879329,
       "rank": 30,
@@ -113,6 +113,14 @@
       "onboard_time": 1686830783,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 880553,
+      "num": 880553,
+      "word": "私人山庄遭网红闯入并渲染成鬼屋",
+      "onboard_time": 1686880708,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746200,
@@ -137,14 +145,6 @@
       "onboard_time": 1686838825,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 713784,
-      "num": 713784,
-      "word": "私人山庄遭网红闯入并渲染成鬼屋",
-      "onboard_time": 1686880708,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 691126,
@@ -307,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327114,
+      "num": 234460,
+      "word": "王一博情绪主题视频",
+      "onboard_time": 1686882990,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324675,
       "num": 324675,
       "word": "古偶四大白发",
@@ -337,14 +345,6 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303116,
-      "num": 213584,
-      "word": "王一博情绪主题视频",
-      "onboard_time": 1686882990,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 301391,
@@ -379,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281302,
+      "num": 281302,
+      "word": "迪丽热巴冷脸vs笑脸",
+      "onboard_time": 1686883051,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273283,
       "num": 273283,
       "word": "研一和研三读文献时的区别",
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258966,
+      "num": 258966,
+      "word": "为啥理发店没有女理发师",
+      "onboard_time": 1686882689,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250856,
       "num": 250856,
       "word": "梅西穿中文球衣",
       "onboard_time": 1686832045,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250026,
+      "num": 250026,
+      "word": "戳爷问怎么接近黄铉辰",
+      "onboard_time": 1686881187,
+      "rank": 28,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 247448,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243714,
+      "num": 243714,
+      "word": "主人真的很宠它 它也是真的很蠢",
+      "onboard_time": 1686880048,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 239284,
       "num": 239284,
       "word": "冲进球场抱梅西球迷回应",
@@ -449,14 +481,6 @@
       "onboard_time": 1686827844,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 229319,
-      "num": 229319,
-      "word": "主人真的很宠它 它也是真的很蠢",
-      "onboard_time": 1686880048,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 228609,
@@ -475,12 +499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224558,
+      "num": 224558,
+      "word": "梦中的那片海时光偕行版海报",
+      "onboard_time": 1686883412,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224469,
       "num": 224469,
       "word": "钟辰乐发色",
       "onboard_time": 1686845308,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222624,
+      "num": 222624,
+      "word": "我当不了站姐的原因",
+      "onboard_time": 1686880828,
+      "rank": 37,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 221465,
@@ -515,12 +555,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214319,
-      "num": 214319,
-      "word": "戳爷问怎么接近黄铉辰",
-      "onboard_time": 1686881187,
-      "rank": 28,
-      "category": "艺人,幽默"
+      "raw_hot": 213948,
+      "num": 213948,
+      "word": "孩子进屋就锁门是什么心理",
+      "onboard_time": 1686883412,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 213935,
@@ -529,6 +569,14 @@
       "onboard_time": 1686881907,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207056,
+      "num": 207056,
+      "word": "对你来说月薪1万够花吗",
+      "onboard_time": 1686883412,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 206977,
@@ -547,19 +595,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202064,
+      "num": 202064,
+      "word": "肖战李沁冬日拾光大片",
+      "onboard_time": 1686883713,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201436,
       "num": 201436,
       "word": "可以回复任何内容的中文",
       "onboard_time": 1686877410,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 199804,
-      "num": 199804,
-      "word": "为啥理发店没有女理发师",
-      "onboard_time": 1686882689,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -571,12 +619,12 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 198123,
-      "num": 198123,
-      "word": "迪丽热巴冷脸vs笑脸",
-      "onboard_time": 1686883051,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 196001,
+      "num": 196001,
+      "word": "猪小肠做的苦肠肉粽",
+      "onboard_time": 1686883713,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 194614,
@@ -595,12 +643,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 187810,
-      "num": 187810,
-      "word": "我当不了站姐的原因",
-      "onboard_time": 1686880828,
-      "rank": 37,
-      "category": "幽默,作品衍生"
+      "raw_hot": 187551,
+      "num": 187551,
+      "word": "严浩翔换新发型",
+      "onboard_time": 1686882808,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 187310,
+      "num": 187310,
+      "word": "向往的生活",
+      "onboard_time": 1686882389,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185894,
@@ -633,6 +689,14 @@
       "onboard_time": 1686877949,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180595,
+      "num": 396404,
+      "word": "蛋仔派对一周年",
+      "onboard_time": 1686880828,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 178029,
@@ -707,20 +771,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 164137,
-      "num": 164137,
-      "word": "向往的生活",
-      "onboard_time": 1686882389,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157477,
-      "num": 396404,
-      "word": "蛋仔派对一周年",
-      "onboard_time": 1686880828,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 161545,
+      "num": 161545,
+      "word": "带着微博去都市",
+      "onboard_time": 1686883593,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 156044,
@@ -793,14 +849,6 @@
       "onboard_time": 1686838050,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146009,
-      "num": 146009,
-      "word": "严浩翔换新发型",
-      "onboard_time": 1686882808,
-      "rank": 46,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135498,
