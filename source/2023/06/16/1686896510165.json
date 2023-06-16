@@ -1,0 +1,410 @@
+{
+  "runTime": 1686896510165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904114,
+        "num": 1904114,
+        "word": "吴倩退出乘风",
+        "onboard_time": 1686889777,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1846054,
+        "num": 1846054,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87522,
+        "num": 1468738,
+        "word": "杭州亚运形象宣传片弄潮",
+        "onboard_time": 1686889295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1330711,
+        "num": 1330711,
+        "word": "TFBOYS公式照",
+        "onboard_time": 1686892591,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1275971,
+        "num": 1275971,
+        "word": "感觉这三个名字排在一起是上辈子的事",
+        "onboard_time": 1686884914,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1242168,
+        "num": 1242168,
+        "word": "新闻学教授怒怼张雪峰",
+        "onboard_time": 1686891515,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1159355,
+        "num": 1159355,
+        "word": "张元英穿了中国粉丝送的裙子",
+        "onboard_time": 1686891336,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 968624,
+        "num": 968624,
+        "word": "私人山庄遭网红闯入并渲染成鬼屋",
+        "onboard_time": 1686880708,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677210,
+        "num": 677210,
+        "word": "袁弘 搞到梅西to签",
+        "onboard_time": 1686879329,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 655080,
+        "num": 655080,
+        "word": "苏翊鸣发文回应保送清华大学",
+        "onboard_time": 1686884914,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 815345,
+        "num": 634424,
+        "word": "黄晓明油过没丑过",
+        "onboard_time": 1686888333,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 804048,
+        "num": 633504,
+        "word": "王俊凯王源易烊千玺转发十年之约演唱会",
+        "onboard_time": 1686884135,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546006,
+        "num": 546006,
+        "word": "原来X光下的婴儿小手长这样",
+        "onboard_time": 1686875007,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 543198,
+        "num": 543198,
+        "word": "我老了追易烊千玺的样子",
+        "onboard_time": 1686884192,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31248,
+        "num": 520244,
+        "word": "48岁女医生辞世捐器官救3人",
+        "onboard_time": 1686895227,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510496,
+        "num": 510496,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486072,
+        "num": 486072,
+        "word": "这次真的通知了他们仨",
+        "onboard_time": 1686884013,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443680,
+        "num": 443680,
+        "word": "邓典果结婚",
+        "onboard_time": 1686892471,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414161,
+        "num": 414161,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277171,
+        "num": 277171,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 539871,
+        "num": 277113,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436770,
+        "num": 276852,
+        "word": "向佐郭碧婷为二胎儿子办周岁宴",
+        "onboard_time": 1686881127,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368957,
+        "num": 276406,
+        "word": "李飞赚不完根本赚不完",
+        "onboard_time": 1686893970,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357396,
+        "num": 276183,
+        "word": "Angelababy秀身材",
+        "onboard_time": 1686893791,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333094,
+        "num": 275914,
+        "word": "考公上岸后被同学删了微信",
+        "onboard_time": 1686875007,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338644,
+        "num": 275787,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335680,
+        "num": 275563,
+        "word": "肖战李沁梦海吻戏",
+        "onboard_time": 1686895709,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329846,
+        "num": 275211,
+        "word": "郑秀妍没帮唱Amber",
+        "onboard_time": 1686893849,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275102,
+        "num": 275102,
+        "word": "交警买网红青蛙小青蛙不让付钱",
+        "onboard_time": 1686887617,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264236,
+        "num": 264236,
+        "word": "女儿高考完提出3个要求妈妈崩溃",
+        "onboard_time": 1686892293,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428358,
+        "num": 262594,
+        "word": "人体含水量最多的器官",
+        "onboard_time": 1686895829,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 368701,
+        "num": 253068,
+        "word": "这些软件到底是谁在用",
+        "onboard_time": 1686896188,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 315822,
+        "num": 251304,
+        "word": "王一博片场和导演讨论角色发型",
+        "onboard_time": 1686896248,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324557,
+        "num": 241883,
+        "word": "时代峰峻",
+        "onboard_time": 1686884732,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239060,
+        "num": 239060,
+        "word": "美64岁大学教授和牧羊犬发生性行为",
+        "onboard_time": 1686895768,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313861,
+        "num": 237931,
+        "word": "李飞P图不严谨啊",
+        "onboard_time": 1686895768,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295047,
+        "num": 236639,
+        "word": "刘诗诗罗云熙 白日提灯",
+        "onboard_time": 1686893791,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234435,
+        "num": 234435,
+        "word": "高校一干部不正当男女关系被抓现行",
+        "onboard_time": 1686894389,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216001,
+        "num": 216001,
+        "word": "周五下班的我",
+        "onboard_time": 1686896369,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 183667,
+        "word": "Uzi获得亚洲荣誉选手",
+        "onboard_time": 1686893191,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284754,
+        "num": 183543,
+        "word": "吴优淘汰谢娜大哭",
+        "onboard_time": 1686894629,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253766,
+        "num": 182223,
+        "word": "TFBOYS快闪活动",
+        "onboard_time": 1686893733,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220129,
+        "num": 180747,
+        "word": "杨和苏去婚礼走错地方",
+        "onboard_time": 1686895169,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218068,
+        "num": 179804,
+        "word": "连那英都接不住的场子",
+        "onboard_time": 1686873506,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215469,
+        "num": 177568,
+        "word": "美依礼芽个人喜爱度第一",
+        "onboard_time": 1686892414,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177270,
+        "num": 177270,
+        "word": "比尔盖茨",
+        "onboard_time": 1686887375,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 162225,
+        "num": 162225,
+        "word": "拥有好运体质是什么体验",
+        "onboard_time": 1686895948,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158003,
+        "num": 158003,
+        "word": "女生摆摊卖鸡脚边卖边吃",
+        "onboard_time": 1686873207,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147647,
+        "num": 147647,
+        "word": "女童吞下上百颗磁力珠肠道如鱼籽",
+        "onboard_time": 1686891454,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146465,
+        "num": 146465,
+        "word": "薛之谦 再见啦梅西",
+        "onboard_time": 1686844705,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持用马克思主义观察时代解读时代引领时代#"
+    }
+  }
+}

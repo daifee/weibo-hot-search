@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686893618354,
+  "endTime": 1686896510165,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2955,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1330711,
+      "num": 1330711,
+      "word": "TFBOYS公式照",
+      "onboard_time": 1686892591,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1329661,
       "num": 1329661,
       "word": "教资面试成绩",
@@ -3353,6 +3361,14 @@
       "onboard_time": 1686041848,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1242168,
+      "num": 1242168,
+      "word": "新闻学教授怒怼张雪峰",
+      "onboard_time": 1686891515,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 1241502,
@@ -3801,6 +3817,14 @@
       "onboard_time": 1686796346,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1159355,
+      "num": 1159355,
+      "word": "张元英穿了中国粉丝送的裙子",
+      "onboard_time": 1686891336,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1159146,
@@ -5219,14 +5243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 904540,
-      "num": 684808,
-      "word": "张元英穿了中国粉丝送的裙子",
-      "onboard_time": 1686891336,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 904451,
       "num": 904451,
       "word": "奔跑吧泰国路透",
@@ -5897,14 +5913,6 @@
       "onboard_time": 1686463586,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 813206,
-      "num": 813206,
-      "word": "新闻学教授怒怼张雪峰",
-      "onboard_time": 1686891515,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 813062,
@@ -9299,14 +9307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471593,
-      "num": 284618,
-      "word": "TFBOYS公式照",
-      "onboard_time": 1686892591,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 471013,
       "num": 445484,
       "word": "徐明浩直播",
@@ -9739,6 +9739,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 443680,
+      "num": 443680,
+      "word": "邓典果结婚",
+      "onboard_time": 1686892471,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443485,
       "num": 307296,
       "word": "LESSERAFIM将来广州开线下签售会",
@@ -9955,14 +9963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429147,
-      "num": 269024,
-      "word": "邓典果结婚",
-      "onboard_time": 1686892471,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428979,
       "num": 428979,
       "word": "少爷和我再合体",
@@ -9985,6 +9985,14 @@
       "onboard_time": 1685587765,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428358,
+      "num": 262594,
+      "word": "人体含水量最多的器官",
+      "onboard_time": 1686895829,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 427749,
@@ -11339,12 +11347,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368957,
+      "num": 276406,
+      "word": "李飞赚不完根本赚不完",
+      "onboard_time": 1686893970,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368859,
       "num": 368859,
       "word": "在广东买虾还没到家就熟了",
       "onboard_time": 1686630573,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368701,
+      "num": 253068,
+      "word": "这些软件到底是谁在用",
+      "onboard_time": 1686896188,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 368492,
@@ -11745,6 +11769,14 @@
       "onboard_time": 1685863527,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357396,
+      "num": 276183,
+      "word": "Angelababy秀身材",
+      "onboard_time": 1686893791,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 357053,
@@ -12379,6 +12411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338644,
+      "num": 275787,
+      "word": "Jennie去爬山了",
+      "onboard_time": 1686895948,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338634,
       "num": 338634,
       "word": "金龟子问当年的小朋友还好吗",
@@ -12513,6 +12553,14 @@
       "onboard_time": 1686034947,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 335680,
+      "num": 275563,
+      "word": "肖战李沁梦海吻戏",
+      "onboard_time": 1686895709,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 335649,
@@ -12745,6 +12793,14 @@
       "onboard_time": 1686450688,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329846,
+      "num": 275211,
+      "word": "郑秀妍没帮唱Amber",
+      "onboard_time": 1686893849,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 329641,
@@ -13291,6 +13347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 315822,
+      "num": 251304,
+      "word": "王一博片场和导演讨论角色发型",
+      "onboard_time": 1686896248,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315548,
       "num": 315548,
       "word": "肖战看到毛线球两眼放光",
@@ -13409,6 +13473,14 @@
       "onboard_time": 1685855607,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313861,
+      "num": 237931,
+      "word": "李飞P图不严谨啊",
+      "onboard_time": 1686895768,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313755,
@@ -14315,6 +14387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295047,
+      "num": 236639,
+      "word": "刘诗诗罗云熙 白日提灯",
+      "onboard_time": 1686893791,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294941,
       "num": 294941,
       "word": "被七彩盐湖治愈了",
@@ -14875,6 +14955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284754,
+      "num": 183543,
+      "word": "吴优淘汰谢娜大哭",
+      "onboard_time": 1686894629,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284698,
       "num": 284698,
       "word": "刘宇又不是去参加高考",
@@ -15337,6 +15425,14 @@
       "onboard_time": 1685673928,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 277171,
+      "num": 277171,
+      "word": "梅西回应到中国大部分时间待在酒店",
+      "onboard_time": 1686892591,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 277026,
@@ -16987,6 +17083,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 253766,
+      "num": 182223,
+      "word": "TFBOYS快闪活动",
+      "onboard_time": 1686893733,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253733,
       "num": 253733,
       "word": "不要在APP上给我推荐可能认识的人了",
@@ -18195,6 +18299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239060,
+      "num": 239060,
+      "word": "美64岁大学教授和牧羊犬发生性行为",
+      "onboard_time": 1686895768,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238948,
       "num": 226762,
       "word": "偶遇给自己销户的大叔",
@@ -18561,6 +18673,14 @@
       "onboard_time": 1685720849,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234435,
+      "num": 234435,
+      "word": "高校一干部不正当男女关系被抓现行",
+      "onboard_time": 1686894389,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234307,
@@ -20003,6 +20123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220129,
+      "num": 180747,
+      "word": "杨和苏去婚礼走错地方",
+      "onboard_time": 1686895169,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220041,
       "num": 220041,
       "word": "闪电侠",
@@ -20489,6 +20617,14 @@
       "onboard_time": 1686395085,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216001,
+      "num": 216001,
+      "word": "周五下班的我",
+      "onboard_time": 1686896369,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 215960,
@@ -22305,14 +22441,6 @@
       "onboard_time": 1685785284,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200160,
-      "num": 200160,
-      "word": "梅西回应到中国大部分时间待在酒店",
-      "onboard_time": 1686892591,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 200157,
@@ -27201,6 +27329,14 @@
       "onboard_time": 1686124053,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162225,
+      "num": 162225,
+      "word": "拥有好运体质是什么体验",
+      "onboard_time": 1686895948,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 162164,
@@ -35905,6 +36041,14 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31248,
+      "num": 520244,
+      "word": "48岁女医生辞世捐器官救3人",
+      "onboard_time": 1686895227,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30928,
