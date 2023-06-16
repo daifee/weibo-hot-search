@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686885497892,
+  "endTime": 1686886430231,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1957518,
+      "num": 1957518,
+      "word": "王俊凯王源易烊千玺转发十年之约演唱会",
+      "onboard_time": 1686884135,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1926048,
       "num": 966146,
       "word": "冰清玉洁近况",
@@ -43,11 +51,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1667137,
-      "num": 1667137,
-      "word": "王俊凯王源易烊千玺转发十年之约演唱会",
-      "onboard_time": 1686884135,
-      "rank": 1,
+      "raw_hot": 1706747,
+      "num": 1706747,
+      "word": "这次真的通知了他们仨",
+      "onboard_time": 1686884013,
+      "rank": 11,
       "category": "音乐"
     },
     {
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 1330962,
-      "num": 646930,
+      "num": 742942,
       "word": "向佐郭碧婷为二胎儿子办周岁宴",
       "onboard_time": 1686881127,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1272408,
+      "num": 1272408,
+      "word": "我老了追易烊千玺的样子",
+      "onboard_time": 1686884192,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1247195,
@@ -107,20 +123,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 993047,
+      "num": 993047,
+      "word": "私人山庄遭网红闯入并渲染成鬼屋",
+      "onboard_time": 1686880708,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987949,
       "num": 987949,
       "word": "黄晓明生图",
       "onboard_time": 1686871704,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 982733,
-      "num": 982733,
-      "word": "私人山庄遭网红闯入并渲染成鬼屋",
-      "onboard_time": 1686880708,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 957258,
@@ -131,8 +147,24 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 934736,
+      "num": 737236,
+      "word": "时代峰峻",
+      "onboard_time": 1686884732,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 876518,
+      "num": 729316,
+      "word": "感觉这三个名字排在一起是上辈子的事",
+      "onboard_time": 1686884914,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746200,
-      "num": 348556,
+      "num": 407081,
       "word": "女导游穿紧身裤被质疑是色情营销",
       "onboard_time": 1686877650,
       "rank": 20,
@@ -153,6 +185,14 @@
       "onboard_time": 1686838825,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 716513,
+      "num": 716513,
+      "word": "苏翊鸣发文回应保送清华大学",
+      "onboard_time": 1686884914,
+      "rank": 16,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 691126,
@@ -195,16 +235,8 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 584414,
-      "num": 584414,
-      "word": "这次真的通知了他们仨",
-      "onboard_time": 1686884013,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 582306,
-      "num": 321412,
+      "num": 367600,
       "word": "考公上岸后被同学删了微信",
       "onboard_time": 1686875007,
       "rank": 21,
@@ -227,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 504755,
-      "num": 504755,
-      "word": "我老了追易烊千玺的样子",
-      "onboard_time": 1686884192,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 509482,
+      "num": 406702,
+      "word": "TFBOYS要出新歌了吗",
+      "onboard_time": 1686885274,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 490606,
@@ -241,14 +273,6 @@
       "onboard_time": 1686871762,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 459508,
-      "num": 451815,
-      "word": "感觉这三个名字排在一起是上辈子的事",
-      "onboard_time": 1686884914,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 454494,
@@ -265,14 +289,6 @@
       "onboard_time": 1686829943,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 439088,
-      "num": 439088,
-      "word": "苏翊鸣发文回应保送清华大学",
-      "onboard_time": 1686884914,
-      "rank": 16,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 425791,
@@ -299,12 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413149,
-      "num": 413149,
-      "word": "时代峰峻",
-      "onboard_time": 1686884732,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 407238,
+      "num": 407238,
+      "word": "高校回应干部不正当男女关系被抓现行",
+      "onboard_time": 1686885333,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 404800,
+      "num": 404800,
+      "word": "乘风帮唱师姐官宣",
+      "onboard_time": 1686884794,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 388734,
@@ -355,28 +379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351291,
+      "num": 351291,
+      "word": "民警为查毒品剥开32吨洋葱",
+      "onboard_time": 1686885274,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348716,
+      "num": 348716,
+      "word": "TFBOYS十周年联名",
+      "onboard_time": 1686885994,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345862,
       "num": 294497,
       "word": "一家人凑不出个会聊天的",
       "onboard_time": 1686880349,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 338418,
-      "num": 338418,
-      "word": "高校回应干部不正当男女关系被抓现行",
-      "onboard_time": 1686885333,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 335778,
-      "num": 335778,
-      "word": "TFBOYS要出新歌了吗",
-      "onboard_time": 1686885274,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 327114,
@@ -443,19 +467,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 294943,
-      "num": 294943,
-      "word": "民警为查毒品剥开32吨洋葱",
-      "onboard_time": 1686885274,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292256,
-      "num": 277537,
-      "word": "乘风帮唱师姐官宣",
-      "onboard_time": 1686884794,
-      "rank": 32,
+      "raw_hot": 295207,
+      "num": 295207,
+      "word": "乘风三公赛后真人秀",
+      "onboard_time": 1686885333,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -523,6 +539,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 248225,
+      "num": 242376,
+      "word": "TFBOYS是你的青春吗",
+      "onboard_time": 1686885812,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247448,
       "num": 247448,
       "word": "张踩铃 当一个混血被双语幼儿园拒收",
@@ -555,8 +579,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 239395,
-      "num": 239395,
+      "raw_hot": 242709,
+      "num": 242709,
       "word": "我当不了站姐的原因",
       "onboard_time": 1686880828,
       "rank": 37,
@@ -569,6 +593,14 @@
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233295,
+      "num": 233295,
+      "word": "对你来说月薪1万够花吗",
+      "onboard_time": 1686883412,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 229849,
@@ -593,6 +625,14 @@
       "onboard_time": 1686880468,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225174,
+      "num": 225174,
+      "word": "范丞丞晒一片菜叶生日面",
+      "onboard_time": 1686884794,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 224558,
@@ -627,20 +667,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220977,
-      "num": 220977,
-      "word": "对你来说月薪1万够花吗",
-      "onboard_time": 1686883412,
-      "rank": 35,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "熬夜给身体带来的损伤几乎是不可逆的",
       "onboard_time": 1686878969,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220041,
+      "num": 220041,
+      "word": "闪电侠",
+      "onboard_time": 1686885753,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 215240,
@@ -691,12 +731,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204929,
-      "num": 204929,
-      "word": "乘风三公赛后真人秀",
-      "onboard_time": 1686885333,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 203704,
+      "num": 203704,
+      "word": "五月天演唱会",
+      "onboard_time": 1686886056,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 201436,
@@ -747,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193202,
+      "num": 193202,
+      "word": "92岁抗美援朝老兵捐献遗体和眼角膜",
+      "onboard_time": 1686886112,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190201,
       "num": 190201,
       "word": "刘惜君远远看到梅西很开心",
@@ -787,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184362,
+      "num": 184362,
+      "word": "瞒着所有人中过最大的奖",
+      "onboard_time": 1686886112,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182893,
       "num": 182893,
       "word": "过度打扮的女友和随意的男友",
@@ -817,6 +873,14 @@
       "onboard_time": 1686880828,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179553,
+      "num": 179553,
+      "word": "闺蜜从来没给我朋友圈点过赞",
+      "onboard_time": 1686885994,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 178029,
@@ -1092,7 +1156,7 @@
     },
     {
       "raw_hot": 84144,
-      "num": 1418654,
+      "num": 1822617,
       "word": "杭州亚运会奖牌亮相",
       "onboard_time": 1686832585,
       "rank": 2,
@@ -1131,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29914,
+      "num": 232396,
+      "word": "烟台让世界微醺",
+      "onboard_time": 1686884434,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 27230,
       "num": 27230,
       "word": "电影孤注一掷定档",
@@ -1139,20 +1211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21988,
-      "num": 221400,
-      "word": "烟台让世界微醺",
-      "onboard_time": 1686884434,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 14938,
       "num": 17569,
       "word": "防晒",
       "onboard_time": 1686859274,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13994,
+      "num": 672136,
+      "word": "86岁和74岁的他们合力救起落水老太",
+      "onboard_time": 1686886232,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1167,6 +1239,9 @@
     },
     {
       "word": "#中巴建立战略伙伴关系#"
+    },
+    {
+      "word": "#坚持用马克思主义观察时代解读时代引领时代#"
     }
   ]
 }
