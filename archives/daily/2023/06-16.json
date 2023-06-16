@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686899729717,
+  "endTime": 1686900808128,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2219212,
+      "num": 2219212,
+      "word": "到底是谁惹了六公主",
+      "onboard_time": 1686896849,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1957518,
       "num": 1957518,
       "word": "王俊凯王源易烊千玺转发十年之约演唱会",
@@ -75,12 +83,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1729879,
-      "num": 1729879,
-      "word": "到底是谁惹了六公主",
-      "onboard_time": 1686896849,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 1680251,
+      "num": 1680251,
+      "word": "李飞P图不严谨啊",
+      "onboard_time": 1686895768,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1603752,
@@ -97,14 +105,6 @@
       "onboard_time": 1686884192,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1476780,
-      "num": 1476780,
-      "word": "李飞P图不严谨啊",
-      "onboard_time": 1686895768,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1420784,
@@ -219,6 +219,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1065658,
+      "num": 1065658,
+      "word": "吴倩方晒出院记录",
+      "onboard_time": 1686899367,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1018000,
+      "num": 1018000,
+      "word": "偷偷藏不住定档",
+      "onboard_time": 1686898769,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 993047,
       "num": 993047,
       "word": "私人山庄遭网红闯入并渲染成鬼屋",
@@ -241,6 +257,14 @@
       "onboard_time": 1686830783,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 823736,
+      "num": 356365,
+      "word": "就差杨幂了",
+      "onboard_time": 1686897689,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 762880,
@@ -289,14 +313,6 @@
       "onboard_time": 1686817288,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 672512,
-      "num": 315880,
-      "word": "就差杨幂了",
-      "onboard_time": 1686897689,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 664067,
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329073,
+      "num": 329073,
+      "word": "梅西回应到中国大部分时间待在酒店",
+      "onboard_time": 1686892591,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 327114,
       "num": 234460,
       "word": "王一博情绪主题视频",
@@ -617,6 +641,14 @@
       "onboard_time": 1686884554,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319942,
+      "num": 319942,
+      "word": "高校一干部不正当男女关系被抓现行",
+      "onboard_time": 1686894389,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318155,
@@ -643,14 +675,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 313640,
-      "num": 313640,
-      "word": "高校一干部不正当男女关系被抓现行",
-      "onboard_time": 1686894389,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311781,
       "num": 311781,
       "word": "女童吞下上百颗磁力珠肠道如鱼籽",
@@ -665,14 +689,6 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305118,
-      "num": 250440,
-      "word": "偷偷藏不住定档",
-      "onboard_time": 1686898769,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 301665,
@@ -737,14 +753,6 @@
       "onboard_time": 1686894629,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277569,
-      "num": 277569,
-      "word": "梅西回应到中国大部分时间待在酒店",
-      "onboard_time": 1686892591,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 277457,
@@ -817,14 +825,6 @@
       "onboard_time": 1686892414,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255078,
-      "num": 203797,
-      "word": "吴倩方晒出院记录",
-      "onboard_time": 1686899367,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 253766,
@@ -937,6 +937,14 @@
       "onboard_time": 1686892591,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236785,
+      "num": 203114,
+      "word": "TFBOYS13年vs23年",
+      "onboard_time": 1686899728,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 235885,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1686834207,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204567,
+      "num": 204567,
+      "word": "6女生写信控诉上大一研究生性剥削",
+      "onboard_time": 1686899970,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 203704,
@@ -1731,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67391,
+      "num": 323911,
+      "word": "父亲去世34年82岁儿子仍在给他写信",
+      "onboard_time": 1686898890,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67041,
       "num": 67041,
       "word": "此刻他的肩膀是女孩最大的豁达",
@@ -1787,14 +1811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23266,
-      "num": 318718,
-      "word": "父亲去世34年82岁儿子仍在给他写信",
-      "onboard_time": 1686898890,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14938,
       "num": 17569,
       "word": "防晒",
@@ -1834,6 +1850,9 @@
     },
     {
       "word": "#坚持用马克思主义观察时代解读时代引领时代#"
+    },
+    {
+      "word": "#习近平会见比尔盖茨#"
     }
   ]
 }
