@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686954802390,
+  "endTime": 1686957406092,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 263692,
-      "num": 171964,
+      "num": 221640,
       "word": "国外一女士住酒店遭遇撬门",
       "onboard_time": 1686930989,
       "rank": 30,
@@ -219,6 +219,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195983,
+      "num": 195983,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 185949,
+      "num": 91366,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184076,
       "num": 171920,
       "word": "林俊杰现场绝了",
@@ -233,14 +249,6 @@
       "onboard_time": 1686930089,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172377,
-      "num": 172377,
-      "word": "当丈夫说妻子在家啥也不干",
-      "onboard_time": 1686918868,
-      "rank": 14,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 171904,
@@ -355,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131968,
-      "num": 58446,
-      "word": "村民鸡窝中发现鸟皇后",
-      "onboard_time": 1686949152,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110674,
       "num": 154438,
       "word": "国足4比0战胜缅甸队",
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74001,
+      "num": 74001,
+      "word": "肖春生好懂佟晓梅",
+      "onboard_time": 1686956898,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70055,
       "num": 68525,
       "word": "马思唯和法老见面没",
@@ -419,6 +427,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 63812,
+      "num": 128288,
+      "word": "两千三的工资面了三轮",
+      "onboard_time": 1686908548,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62263,
+      "num": 62263,
+      "word": "绝交视频是肖战拉着刘芮麟崔航拍的",
+      "onboard_time": 1686956958,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 62135,
       "num": 144864,
       "word": "秦皇岛夜市有多好吃",
@@ -427,12 +451,44 @@
       "category": "美食,旅游"
     },
     {
-      "raw_hot": 56064,
-      "num": 128288,
-      "word": "两千三的工资面了三轮",
-      "onboard_time": 1686908548,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 55442,
+      "num": 49217,
+      "word": "肖春生问叶国华孩子几岁了",
+      "onboard_time": 1686919228,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 53018,
+      "num": 51753,
+      "word": "张靓颖的马甲线",
+      "onboard_time": 1686938598,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 49237,
+      "num": 49237,
+      "word": "男子带68岁父亲第一次走出农村",
+      "onboard_time": 1686956778,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47771,
+      "num": 47771,
+      "word": "王宝强八角笼中首波口碑",
+      "onboard_time": 1686957319,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 46892,
+      "num": 47771,
+      "word": "过上了小说里的生活",
+      "onboard_time": 1686956838,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 41737,
@@ -451,12 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 32692,
-      "num": 51753,
-      "word": "张靓颖的马甲线",
-      "onboard_time": 1686938598,
-      "rank": 44,
-      "category": "艺人,时尚"
+      "raw_hot": 32976,
+      "num": 47749,
+      "word": "江苏一供电所开放院子给农民晒麦",
+      "onboard_time": 1686957378,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27755,
@@ -467,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12567,
+      "raw_hot": 16058,
       "num": 525675,
       "word": "硬核科技铺就万桥飞架新坦途",
       "onboard_time": 1686919467,

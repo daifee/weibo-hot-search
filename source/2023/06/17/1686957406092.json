@@ -1,0 +1,410 @@
+{
+  "runTime": 1686957406092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1220498,
+        "num": 1220498,
+        "word": "谢娜李维嘉吴昕录制新综艺",
+        "onboard_time": 1686928411,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443252,
+        "num": 443252,
+        "word": "你见过最完美的户型",
+        "onboard_time": 1686927329,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16058,
+        "num": 414025,
+        "word": "硬核科技铺就万桥飞架新坦途",
+        "onboard_time": 1686919467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860870,
+        "num": 389761,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620952,
+        "num": 329714,
+        "word": "陈乔恩被青蛙求婚",
+        "onboard_time": 1686927389,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461471,
+        "num": 308746,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286003,
+        "num": 286003,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221640,
+        "num": 221640,
+        "word": "国外一女士住酒店遭遇撬门",
+        "onboard_time": 1686930989,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208546,
+        "num": 208546,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 8,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 195983,
+        "num": 195983,
+        "word": "当丈夫说妻子在家啥也不干",
+        "onboard_time": 1686918868,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 230671,
+        "num": 193487,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190267,
+        "num": 190267,
+        "word": "秋瓷炫 我不是不要脸",
+        "onboard_time": 1686922169,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182030,
+        "num": 182030,
+        "word": "孕妇高铁上突然生产众人接力救援",
+        "onboard_time": 1686932067,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153377,
+        "num": 153377,
+        "word": "小伙回应在国外将五星红旗解开",
+        "onboard_time": 1686930089,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142908,
+        "num": 142908,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136905,
+        "num": 136905,
+        "word": "无穷小亮在旅途中拍到的震撼景色",
+        "onboard_time": 1686922048,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104753,
+        "num": 104753,
+        "word": "当我出门忘关16度的空调",
+        "onboard_time": 1686909329,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104031,
+        "num": 104031,
+        "word": "柳智敏 艺人没时间是骗人的",
+        "onboard_time": 1686923009,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101892,
+        "num": 101892,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 92473,
+        "num": 92473,
+        "word": "山西煤矿3死1伤事故监控曝光",
+        "onboard_time": 1686926251,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239382,
+        "num": 92365,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185949,
+        "num": 91366,
+        "word": "村民鸡窝中发现鸟皇后",
+        "onboard_time": 1686949152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155045,
+        "num": 91248,
+        "word": "原来近视是需要忌口的",
+        "onboard_time": 1686916768,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121928,
+        "num": 90402,
+        "word": "符合这几点你该离职了",
+        "onboard_time": 1686929371,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120495,
+        "num": 90058,
+        "word": "袁姗姗一字肩高开叉礼服",
+        "onboard_time": 1686926671,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99177,
+        "num": 89116,
+        "word": "黄宗泽再认下去就不礼貌了",
+        "onboard_time": 1686929309,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88938,
+        "num": 88938,
+        "word": "冲进球场男子被行拘",
+        "onboard_time": 1686913527,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 85792,
+        "num": 85792,
+        "word": "一定要睡个好觉的原因",
+        "onboard_time": 1686923249,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 83727,
+        "num": 83727,
+        "word": "王一博再戴麦穗胸针",
+        "onboard_time": 1686917127,
+        "rank": 28,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 80194,
+        "num": 80194,
+        "word": "偷偷藏不住换滤镜了",
+        "onboard_time": 1686923910,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74001,
+        "num": 74001,
+        "word": "肖春生好懂佟晓梅",
+        "onboard_time": 1686956898,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73722,
+        "num": 73722,
+        "word": "王一博抓金雨",
+        "onboard_time": 1686927630,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66367,
+        "num": 66367,
+        "word": "重庆潼南现千年巨型乌木",
+        "onboard_time": 1686928650,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64404,
+        "num": 64404,
+        "word": "临期食品为什么受欢迎",
+        "onboard_time": 1686929729,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64264,
+        "num": 64264,
+        "word": "TFBOYS演唱会投票",
+        "onboard_time": 1686917848,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63812,
+        "num": 63812,
+        "word": "两千三的工资面了三轮",
+        "onboard_time": 1686908548,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62923,
+        "num": 62923,
+        "word": "马伯骞并非难哄桑延选角",
+        "onboard_time": 1686921090,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62263,
+        "num": 62263,
+        "word": "绝交视频是肖战拉着刘芮麟崔航拍的",
+        "onboard_time": 1686956958,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49237,
+        "num": 49237,
+        "word": "男子带68岁父亲第一次走出农村",
+        "onboard_time": 1686956778,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55442,
+        "num": 49217,
+        "word": "肖春生问叶国华孩子几岁了",
+        "onboard_time": 1686919228,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53457,
+        "num": 49040,
+        "word": "赵雅芝为王一博颁奖",
+        "onboard_time": 1686928952,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53018,
+        "num": 48858,
+        "word": "张靓颖的马甲线",
+        "onboard_time": 1686938598,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 52911,
+        "num": 48781,
+        "word": "向太",
+        "onboard_time": 1686912267,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48723,
+        "num": 48723,
+        "word": "国足4比0战胜缅甸队",
+        "onboard_time": 1686920068,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47771,
+        "num": 47771,
+        "word": "王宝强八角笼中首波口碑",
+        "onboard_time": 1686957319,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46892,
+        "num": 47771,
+        "word": "过上了小说里的生活",
+        "onboard_time": 1686956838,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46135,
+        "num": 47765,
+        "word": "程潇 再热就不礼貌了",
+        "onboard_time": 1686935719,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42523,
+        "num": 47761,
+        "word": "恋爱里的落差感",
+        "onboard_time": 1686929010,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 34706,
+        "num": 47754,
+        "word": "穿袜子千万别穿洞洞鞋",
+        "onboard_time": 1686914609,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32976,
+        "num": 47749,
+        "word": "江苏一供电所开放院子给农民晒麦",
+        "onboard_time": 1686957378,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比尔盖茨#"
+    }
+  }
+}
