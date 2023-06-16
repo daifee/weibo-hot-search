@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686918837938,
+  "endTime": 1686919809409,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3974526,
+      "num": 772212,
+      "word": "迪丽热巴真发了100多张自拍",
+      "onboard_time": 1686916707,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3944632,
       "num": 786396,
       "word": "宋仲基儿子出生",
@@ -209,14 +217,6 @@
       "onboard_time": 1686484888,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3820111,
-      "num": 772212,
-      "word": "迪丽热巴真发了100多张自拍",
-      "onboard_time": 1686916707,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 3656939,
@@ -4739,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1011773,
+      "num": 317081,
+      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+      "onboard_time": 1686918148,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1011203,
       "num": 1011203,
       "word": "张晚意说我是杨紫她哥",
@@ -6257,6 +6265,14 @@
       "onboard_time": 1685933128,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792802,
+      "num": 287576,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 792254,
@@ -8083,14 +8099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580708,
-      "num": 287576,
-      "word": "曝一高校女寝空调限时男寝全天使用",
-      "onboard_time": 1686914609,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
@@ -8153,6 +8161,14 @@
       "onboard_time": 1685795487,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575089,
+      "num": 244791,
+      "word": "原来近视是需要忌口的",
+      "onboard_time": 1686916768,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 573709,
@@ -8707,14 +8723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 527903,
-      "num": 297418,
-      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
-      "onboard_time": 1686918148,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527542,
       "num": 364974,
       "word": "千万不要用酒精清洁电脑屏幕",
@@ -9041,14 +9049,6 @@
       "onboard_time": 1686104011,
       "rank": 15,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 498999,
-      "num": 244791,
-      "word": "原来近视是需要忌口的",
-      "onboard_time": 1686916768,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 498870,
@@ -10908,7 +10908,7 @@
     },
     {
       "raw_hot": 399908,
-      "num": 306145,
+      "num": 334641,
       "word": "EDG赛前海报",
       "onboard_time": 1686915206,
       "rank": 30,
@@ -10985,6 +10985,14 @@
       "onboard_time": 1686909329,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394578,
+      "num": 255804,
+      "word": "TFBOYS演唱会投票",
+      "onboard_time": 1686917848,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 393775,
@@ -12297,6 +12305,14 @@
       "onboard_time": 1686885994,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348673,
+      "num": 218778,
+      "word": "肖春生问叶国华孩子几岁了",
+      "onboard_time": 1686919228,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 348542,
@@ -13867,14 +13883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311002,
-      "num": 167375,
-      "word": "TFBOYS演唱会投票",
-      "onboard_time": 1686917848,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 310174,
       "num": 310174,
       "word": "武汉商学院",
@@ -15337,6 +15345,14 @@
       "onboard_time": 1686302912,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282938,
+      "num": 205795,
+      "word": "难哄",
+      "onboard_time": 1686916287,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 282924,
@@ -17035,14 +17051,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 257652,
-      "num": 160680,
-      "word": "难哄",
-      "onboard_time": 1686916287,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257634,
       "num": 241348,
       "word": "美依礼芽个人喜爱度第一",
@@ -17641,6 +17649,14 @@
       "onboard_time": 1686444688,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 250807,
+      "num": 250807,
+      "word": "为暗恋对象做了200页PPT",
+      "onboard_time": 1686917426,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 250798,
@@ -19033,6 +19049,14 @@
       "onboard_time": 1686827066,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 234590,
+      "num": 144900,
+      "word": "杨洋红西装苏感",
+      "onboard_time": 1686919527,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 234503,
@@ -21187,6 +21211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214687,
+      "num": 142561,
+      "word": "梦海主演周末齐聚央视",
+      "onboard_time": 1686918688,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214621,
       "num": 214621,
       "word": "短睡可能是一种天赋",
@@ -21923,6 +21955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207911,
+      "num": 145034,
+      "word": "法老抢到捧花",
+      "onboard_time": 1686915385,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207871,
       "num": 207871,
       "word": "王一博大鹏送惊叹号",
@@ -22521,14 +22561,6 @@
       "onboard_time": 1686200975,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202657,
-      "num": 145034,
-      "word": "法老抢到捧花",
-      "onboard_time": 1686915385,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 202634,
@@ -25963,6 +25995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180239,
+      "num": 180239,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 180228,
       "num": 180228,
       "word": "e人到底能e到什么程度",
@@ -26497,6 +26537,14 @@
       "onboard_time": 1686026491,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175637,
+      "num": 126783,
+      "word": "放学等我广播剧",
+      "onboard_time": 1686919108,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 175592,
@@ -27177,14 +27225,6 @@
       "onboard_time": 1686631474,
       "rank": 41,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 168827,
-      "num": 168827,
-      "word": "为暗恋对象做了200页PPT",
-      "onboard_time": 1686917426,
-      "rank": 24,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 168824,
@@ -30001,14 +30041,6 @@
       "onboard_time": 1685847566,
       "rank": 41,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 145316,
-      "num": 131667,
-      "word": "梦海主演周末齐聚央视",
-      "onboard_time": 1686918688,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 145192,
@@ -34587,6 +34619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93894,
+      "num": 117908,
+      "word": "长期不社交什么体验",
+      "onboard_time": 1686917426,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93874,
       "num": 108151,
       "word": "该不该为了对象改变工作选择",
@@ -37449,6 +37489,14 @@
       "onboard_time": 1686887855,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11354,
+      "num": 662251,
+      "word": "硬核科技铺就万桥飞架新坦途",
+      "onboard_time": 1686919467,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9934,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686918837938,
+  "endTime": 1686919809409,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -19,7 +19,7 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 3820111,
+      "raw_hot": 3974526,
       "num": 772212,
       "word": "迪丽热巴真发了100多张自拍",
       "onboard_time": 1686916707,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011773,
+      "num": 317081,
+      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+      "onboard_time": 1686918148,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 993047,
       "num": 993047,
       "word": "私人山庄遭网红闯入并渲染成鬼屋",
@@ -360,6 +368,14 @@
       "word": "6女生写信控诉上大一研究生性剥削",
       "onboard_time": 1686899970,
       "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 792802,
+      "num": 287576,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
       "category": "社会新闻,教育"
     },
     {
@@ -467,14 +483,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 580708,
-      "num": 287576,
-      "word": "曝一高校女寝空调限时男寝全天使用",
-      "onboard_time": 1686914609,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 579699,
       "num": 579699,
       "word": "宁安如梦",
@@ -489,6 +497,14 @@
       "onboard_time": 1686892471,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575089,
+      "num": 244791,
+      "word": "原来近视是需要忌口的",
+      "onboard_time": 1686916768,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 540300,
@@ -507,28 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 527903,
-      "num": 297418,
-      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
-      "onboard_time": 1686918148,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 509482,
       "num": 406702,
       "word": "TFBOYS要出新歌了吗",
       "onboard_time": 1686885274,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 498999,
-      "num": 244791,
-      "word": "原来近视是需要忌口的",
-      "onboard_time": 1686916768,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 490606,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 399908,
-      "num": 306145,
+      "num": 334641,
       "word": "EDG赛前海报",
       "onboard_time": 1686915206,
       "rank": 30,
@@ -665,6 +665,14 @@
       "onboard_time": 1686909329,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394578,
+      "num": 255804,
+      "word": "TFBOYS演唱会投票",
+      "onboard_time": 1686917848,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 388734,
@@ -779,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348673,
+      "num": 218778,
+      "word": "肖春生问叶国华孩子几岁了",
+      "onboard_time": 1686919228,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345862,
       "num": 294497,
       "word": "一家人凑不出个会聊天的",
@@ -891,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311002,
-      "num": 167375,
-      "word": "TFBOYS演唱会投票",
-      "onboard_time": 1686917848,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 302362,
       "num": 302362,
       "word": "深圳地铁14号线",
@@ -977,6 +985,14 @@
       "onboard_time": 1686894629,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282938,
+      "num": 205795,
+      "word": "难哄",
+      "onboard_time": 1686916287,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 277457,
@@ -1107,14 +1123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 257652,
-      "num": 160680,
-      "word": "难哄",
-      "onboard_time": 1686916287,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257634,
       "num": 241348,
       "word": "美依礼芽个人喜爱度第一",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1686832045,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250807,
+      "num": 250807,
+      "word": "为暗恋对象做了200页PPT",
+      "onboard_time": 1686917426,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 250026,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1686914368,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234590,
+      "num": 144900,
+      "word": "杨洋红西装苏感",
+      "onboard_time": 1686919527,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 231582,
@@ -1467,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214687,
+      "num": 142561,
+      "word": "梦海主演周末齐聚央视",
+      "onboard_time": 1686918688,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214057,
       "num": 214057,
       "word": "黄晓明提问比尔盖茨",
@@ -1507,6 +1539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207911,
+      "num": 145034,
+      "word": "法老抢到捧花",
+      "onboard_time": 1686915385,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206977,
       "num": 206977,
       "word": "张大大直播间网友倒立洗头",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1686892293,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202657,
-      "num": 145034,
-      "word": "法老抢到捧花",
-      "onboard_time": 1686915385,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 201937,
@@ -1843,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182642,
+      "num": 138725,
+      "word": "奔跑吧",
+      "onboard_time": 1686917365,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181988,
       "num": 181988,
       "word": "黄晓明的P图技术",
@@ -1867,12 +1907,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180538,
-      "num": 138725,
-      "word": "奔跑吧",
-      "onboard_time": 1686917365,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 180239,
+      "num": 180239,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 179713,
@@ -1939,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175637,
+      "num": 126783,
+      "word": "放学等我广播剧",
+      "onboard_time": 1686919108,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175334,
       "num": 175334,
       "word": "薛之谦演唱会抢票",
@@ -2001,14 +2049,6 @@
       "onboard_time": 1686910708,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168827,
-      "num": 168827,
-      "word": "为暗恋对象做了200页PPT",
-      "onboard_time": 1686917426,
-      "rank": 24,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 167482,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1686918268,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145316,
-      "num": 131667,
-      "word": "梦海主演周末齐聚央视",
-      "onboard_time": 1686918688,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 144243,
@@ -2539,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93894,
+      "num": 117908,
+      "word": "长期不社交什么体验",
+      "onboard_time": 1686917426,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92708,
       "num": 92708,
       "word": "lun8",
@@ -2697,6 +2737,14 @@
       "onboard_time": 1686887855,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11354,
+      "num": 662251,
+      "word": "硬核科技铺就万桥飞架新坦途",
+      "onboard_time": 1686919467,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

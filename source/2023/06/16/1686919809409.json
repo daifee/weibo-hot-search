@@ -1,0 +1,410 @@
+{
+  "runTime": 1686919809409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901342,
+        "num": 1173616,
+        "word": "黄晓明和宋慧乔演过情侣",
+        "onboard_time": 1686909266,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 805169,
+        "num": 805169,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11354,
+        "num": 662251,
+        "word": "硬核科技铺就万桥飞架新坦途",
+        "onboard_time": 1686919467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3974526,
+        "num": 650467,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1869769,
+        "num": 643561,
+        "word": "冲进球场男子被行拘",
+        "onboard_time": 1686913527,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 632993,
+        "num": 632993,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468807,
+        "num": 468807,
+        "word": "嗯哼 追星成功太开心啦",
+        "onboard_time": 1686902309,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451165,
+        "num": 451165,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 7,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 334641,
+        "num": 334641,
+        "word": "EDG赛前海报",
+        "onboard_time": 1686915206,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330365,
+        "num": 330365,
+        "word": "洗碗工收到工资给老板500元感谢",
+        "onboard_time": 1686911369,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178022,
+        "num": 325460,
+        "word": "向太",
+        "onboard_time": 1686912267,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1011773,
+        "num": 317081,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829403,
+        "num": 306992,
+        "word": "上海大学一男生疑对多名女生精神控制",
+        "onboard_time": 1686910708,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 429010,
+        "num": 298406,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85634,
+        "num": 287358,
+        "word": "拼门的快乐谁懂啊",
+        "onboard_time": 1686911609,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792802,
+        "num": 271165,
+        "word": "曝一高校女寝空调限时男寝全天使用",
+        "onboard_time": 1686914609,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 421726,
+        "num": 262978,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256910,
+        "num": 256910,
+        "word": "国足vs缅甸",
+        "onboard_time": 1686909088,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394578,
+        "num": 255804,
+        "word": "TFBOYS演唱会投票",
+        "onboard_time": 1686917848,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250807,
+        "num": 250807,
+        "word": "为暗恋对象做了200页PPT",
+        "onboard_time": 1686917426,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 660455,
+        "num": 244868,
+        "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+        "onboard_time": 1686908847,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575089,
+        "num": 239489,
+        "word": "原来近视是需要忌口的",
+        "onboard_time": 1686916768,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370771,
+        "num": 234536,
+        "word": "龚俊金晨一起吃烤肉",
+        "onboard_time": 1686912988,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367487,
+        "num": 222719,
+        "word": "王一博再戴麦穗胸针",
+        "onboard_time": 1686917127,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221673,
+        "num": 221673,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 348673,
+        "num": 218778,
+        "word": "肖春生问叶国华孩子几岁了",
+        "onboard_time": 1686919228,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332009,
+        "num": 214614,
+        "word": "李莎旻子发两千字长文告别乘风",
+        "onboard_time": 1686911187,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303932,
+        "num": 206764,
+        "word": "偷偷藏不住定档",
+        "onboard_time": 1686898769,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282938,
+        "num": 205795,
+        "word": "难哄",
+        "onboard_time": 1686916287,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201747,
+        "num": 201747,
+        "word": "穿袜子千万别穿洞洞鞋",
+        "onboard_time": 1686914609,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263884,
+        "num": 200356,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247950,
+        "num": 190833,
+        "word": "李飞P图不严谨啊",
+        "onboard_time": 1686895768,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180239,
+        "num": 180239,
+        "word": "当丈夫说妻子在家啥也不干",
+        "onboard_time": 1686918868,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151865,
+        "num": 151865,
+        "word": "两千三的工资面了三轮",
+        "onboard_time": 1686908548,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148328,
+        "num": 148328,
+        "word": "当我出门忘关16度的空调",
+        "onboard_time": 1686909329,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234590,
+        "num": 144900,
+        "word": "杨洋红西装苏感",
+        "onboard_time": 1686919527,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214687,
+        "num": 142561,
+        "word": "梦海主演周末齐聚央视",
+        "onboard_time": 1686918688,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207911,
+        "num": 141486,
+        "word": "法老抢到捧花",
+        "onboard_time": 1686915385,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138046,
+        "num": 138046,
+        "word": "全球最知名的连体双胞胎",
+        "onboard_time": 1686914368,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131672,
+        "num": 131672,
+        "word": "LNG海报",
+        "onboard_time": 1686911248,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37148,
+        "num": 131050,
+        "word": "杭州亚运村内部功能区首次公开亮相",
+        "onboard_time": 1686905308,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190065,
+        "num": 129786,
+        "word": "梦海最大尺度",
+        "onboard_time": 1686913588,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182642,
+        "num": 128445,
+        "word": "奔跑吧",
+        "onboard_time": 1686917365,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175637,
+        "num": 126783,
+        "word": "放学等我广播剧",
+        "onboard_time": 1686919108,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174085,
+        "num": 125443,
+        "word": "花戎结局",
+        "onboard_time": 1686917848,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124586,
+        "num": 124586,
+        "word": "深圳地铁14号线",
+        "onboard_time": 1686913948,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118064,
+        "num": 118064,
+        "word": "00后奶爸抱双胞胎毕业获校长随礼",
+        "onboard_time": 1686915328,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112280,
+        "num": 118021,
+        "word": "学习了新的骂人方式",
+        "onboard_time": 1686918568,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93894,
+        "num": 117908,
+        "word": "长期不社交什么体验",
+        "onboard_time": 1686917426,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87407,
+        "num": 117795,
+        "word": "6女生写信控诉上大一研究生性剥削",
+        "onboard_time": 1686899970,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    }
+  }
+}
