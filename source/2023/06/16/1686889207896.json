@@ -1,0 +1,410 @@
+{
+  "runTime": 1686889207896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9292786,
+        "num": 9292786,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3503599,
+        "num": 3503599,
+        "word": "这次真的通知了他们仨",
+        "onboard_time": 1686884013,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43847,
+        "num": 2693972,
+        "word": "博士乘组在轨工作画面",
+        "onboard_time": 1686888877,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1900363,
+        "num": 1900363,
+        "word": "感觉这三个名字排在一起是上辈子的事",
+        "onboard_time": 1686884914,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1485107,
+        "num": 1485107,
+        "word": "我老了追易烊千玺的样子",
+        "onboard_time": 1686884192,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1166933,
+        "num": 1166933,
+        "word": "苏翊鸣发文回应保送清华大学",
+        "onboard_time": 1686884914,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1161607,
+        "num": 1161607,
+        "word": "时代峰峻",
+        "onboard_time": 1686884732,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 980680,
+        "num": 980680,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 950456,
+        "num": 950456,
+        "word": "私人山庄遭网红闯入并渲染成鬼屋",
+        "onboard_time": 1686880708,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880262,
+        "num": 880262,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1118198,
+        "num": 871265,
+        "word": "王俊凯王源易烊千玺转发十年之约演唱会",
+        "onboard_time": 1686884135,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1010845,
+        "num": 848127,
+        "word": "向佐郭碧婷为二胎儿子办周岁宴",
+        "onboard_time": 1686881127,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744770,
+        "num": 744770,
+        "word": "袁弘 搞到梅西to签",
+        "onboard_time": 1686879329,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 699975,
+        "num": 699975,
+        "word": "快乐大本营最后一期未播预告",
+        "onboard_time": 1686876749,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477776,
+        "num": 477776,
+        "word": "原来X光下的婴儿小手长这样",
+        "onboard_time": 1686875007,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 676558,
+        "num": 476039,
+        "word": "黄晓明生图",
+        "onboard_time": 1686871704,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448635,
+        "num": 448635,
+        "word": "网友爆料宁艺卓是孟美岐导师",
+        "onboard_time": 1686876091,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389950,
+        "num": 389950,
+        "word": "高校回应干部不正当男女关系被抓现行",
+        "onboard_time": 1686885333,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376762,
+        "num": 376762,
+        "word": "对你来说月薪1万够花吗",
+        "onboard_time": 1686883412,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 335009,
+        "num": 335009,
+        "word": "女生摆摊卖鸡脚边卖边吃",
+        "onboard_time": 1686873207,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683056,
+        "num": 334325,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483547,
+        "num": 331322,
+        "word": "考公上岸后被同学删了微信",
+        "onboard_time": 1686875007,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458287,
+        "num": 330323,
+        "word": "鹿晗演唱会重庆站定档",
+        "onboard_time": 1686888513,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399066,
+        "num": 326411,
+        "word": "乘风帮唱师姐官宣",
+        "onboard_time": 1686884794,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325848,
+        "num": 325848,
+        "word": "时光2定档",
+        "onboard_time": 1686888813,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 393610,
+        "num": 325826,
+        "word": "TFBOYS要出新歌了吗",
+        "onboard_time": 1686885274,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384378,
+        "num": 325654,
+        "word": "黄晓明油过没丑过",
+        "onboard_time": 1686888333,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366387,
+        "num": 325412,
+        "word": "TFBOYS的数字浪漫",
+        "onboard_time": 1686888155,
+        "rank": 27,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 364214,
+        "num": 325327,
+        "word": "连那英都接不住的场子",
+        "onboard_time": 1686873506,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325194,
+        "num": 325194,
+        "word": "交警买网红青蛙小青蛙不让付钱",
+        "onboard_time": 1686887617,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329258,
+        "num": 318672,
+        "word": "TFBOYS十周年联名",
+        "onboard_time": 1686885994,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307855,
+        "num": 307855,
+        "word": "薛之谦 再见啦梅西",
+        "onboard_time": 1686844705,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298392,
+        "num": 298392,
+        "word": "民警为查毒品剥开32吨洋葱",
+        "onboard_time": 1686885274,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269857,
+        "num": 269857,
+        "word": "冰清玉洁近况",
+        "onboard_time": 1686844348,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252603,
+        "num": 252603,
+        "word": "你晚上一般睡多久",
+        "onboard_time": 1686887855,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262844,
+        "num": 252490,
+        "word": "四叶草过年了",
+        "onboard_time": 1686886533,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43459,
+        "num": 251929,
+        "word": "杭州亚运会奖牌亮相",
+        "onboard_time": 1686832585,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251400,
+        "num": 251400,
+        "word": "关晓彤25岁身材管理",
+        "onboard_time": 1686870620,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246063,
+        "num": 246063,
+        "word": "苏醒见完梅西偶遇来迟的薛之谦",
+        "onboard_time": 1686830783,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 222934,
+        "num": 222934,
+        "word": "阿根廷2比0",
+        "onboard_time": 1686836550,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249408,
+        "num": 222365,
+        "word": "迪丽热巴冷脸vs笑脸",
+        "onboard_time": 1686883051,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240379,
+        "num": 221677,
+        "word": "TFBOYS十年前出道形象片",
+        "onboard_time": 1686886592,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239625,
+        "num": 221630,
+        "word": "陈宏军叶芳离婚",
+        "onboard_time": 1686871762,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220830,
+        "num": 220830,
+        "word": "头发居然可以扎进肉里",
+        "onboard_time": 1686871822,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235885,
+        "num": 209127,
+        "word": "肖战李沁冬日拾光大片",
+        "onboard_time": 1686883713,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222732,
+        "num": 205916,
+        "word": "范丞丞晒一片菜叶生日面",
+        "onboard_time": 1686884794,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193952,
+        "num": 193952,
+        "word": "比尔盖茨",
+        "onboard_time": 1686887375,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 190072,
+        "word": "52岁大叔以身试险1小时劝退10多名游客",
+        "onboard_time": 1686870199,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178735,
+        "num": 178735,
+        "word": "你会用公厕的纸巾吗",
+        "onboard_time": 1686886592,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 11738,
+        "num": 169923,
+        "word": "陈瑜元气打工人",
+        "onboard_time": 1686887855,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持用马克思主义观察时代解读时代引领时代#"
+    }
+  }
+}

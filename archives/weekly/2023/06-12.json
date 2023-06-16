@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686886430231,
+  "endTime": 1686889207896,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -57,6 +57,14 @@
       "onboard_time": 1686712169,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3503599,
+      "num": 3503599,
+      "word": "这次真的通知了他们仨",
+      "onboard_time": 1686884013,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 3409292,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1900363,
+      "num": 1900363,
+      "word": "感觉这三个名字排在一起是上辈子的事",
+      "onboard_time": 1686884914,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1900070,
       "num": 1900070,
       "word": "华晨宇长沙退票",
@@ -553,14 +569,6 @@
       "onboard_time": 1686557551,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1706747,
-      "num": 1706747,
-      "word": "这次真的通知了他们仨",
-      "onboard_time": 1686884013,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1700934,
@@ -707,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1485107,
+      "num": 1485107,
+      "word": "我老了追易烊千玺的样子",
+      "onboard_time": 1686884192,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1475115,
       "num": 1475115,
       "word": "Uzi复出首胜",
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 1330962,
-      "num": 742942,
+      "num": 848127,
       "word": "向佐郭碧婷为二胎儿子办周岁宴",
       "onboard_time": 1686881127,
       "rank": 10,
@@ -897,14 +913,6 @@
       "onboard_time": 1686644908,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272408,
-      "num": 1272408,
-      "word": "我老了追易烊千玺的样子",
-      "onboard_time": 1686884192,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1271226,
@@ -1049,6 +1057,22 @@
       "onboard_time": 1686741089,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1166933,
+      "num": 1166933,
+      "word": "苏翊鸣发文回应保送清华大学",
+      "onboard_time": 1686884914,
+      "rank": 16,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1161607,
+      "num": 1161607,
+      "word": "时代峰峻",
+      "onboard_time": 1686884732,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 1159664,
@@ -1427,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 934736,
-      "num": 737236,
-      "word": "时代峰峻",
-      "onboard_time": 1686884732,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 919916,
       "num": 919916,
       "word": "梅西说不会参加下届世界杯",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1686797187,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876518,
-      "num": 729316,
-      "word": "感觉这三个名字排在一起是上辈子的事",
-      "onboard_time": 1686884914,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 865783,
@@ -1969,14 +1977,6 @@
       "onboard_time": 1686784521,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716513,
-      "num": 716513,
-      "word": "苏翊鸣发文回应保送清华大学",
-      "onboard_time": 1686884914,
-      "rank": 16,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 715346,
@@ -2603,6 +2603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458287,
+      "num": 330323,
+      "word": "鹿晗演唱会重庆站定档",
+      "onboard_time": 1686888513,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 458080,
       "num": 458080,
       "word": "梦是一种心理上的转码过程",
@@ -2907,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 384378,
+      "num": 325654,
+      "word": "黄晓明油过没丑过",
+      "onboard_time": 1686888333,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384257,
       "num": 252758,
       "word": "妈妈对我俄罗斯男友的称呼",
@@ -2971,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376762,
+      "num": 376762,
+      "word": "对你来说月薪1万够花吗",
+      "onboard_time": 1686883412,
+      "rank": 35,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 375986,
       "num": 375986,
       "word": "梅西 很高兴来到中国",
@@ -3001,6 +3025,14 @@
       "onboard_time": 1686630573,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 366387,
+      "num": 325412,
+      "word": "TFBOYS的数字浪漫",
+      "onboard_time": 1686888155,
+      "rank": 27,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 365403,
@@ -3435,12 +3467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325848,
+      "num": 325848,
+      "word": "时光2定档",
+      "onboard_time": 1686888813,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 325655,
       "num": 325655,
       "word": "张小斐这组好美",
       "onboard_time": 1686551848,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325194,
+      "num": 325194,
+      "word": "交警买网红青蛙小青蛙不让付钱",
+      "onboard_time": 1686887617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324675,
@@ -4243,6 +4291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262844,
+      "num": 252490,
+      "word": "四叶草过年了",
+      "onboard_time": 1686886533,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262763,
       "num": 262763,
       "word": "乐华 黄牛",
@@ -4489,6 +4545,14 @@
       "onboard_time": 1686565768,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252603,
+      "num": 252603,
+      "word": "你晚上一般睡多久",
+      "onboard_time": 1686887855,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 252518,
@@ -4787,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240379,
+      "num": 221677,
+      "word": "TFBOYS十年前出道形象片",
+      "onboard_time": 1686886592,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240360,
       "num": 240360,
       "word": "杨幂演我爱钱",
@@ -4907,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235885,
+      "num": 223534,
+      "word": "肖战李沁冬日拾光大片",
+      "onboard_time": 1686883713,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 234602,
       "num": 234602,
       "word": "女博士后实名举报任职教师老公家暴",
@@ -4953,14 +5033,6 @@
       "onboard_time": 1686561028,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233295,
-      "num": 233295,
-      "word": "对你来说月薪1万够花吗",
-      "onboard_time": 1686883412,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 233145,
@@ -5265,14 +5337,6 @@
       "onboard_time": 1686712530,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223534,
-      "num": 223534,
-      "word": "肖战李沁冬日拾光大片",
-      "onboard_time": 1686883713,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223191,
@@ -6347,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "比尔盖茨",
+      "onboard_time": 1686887375,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 193903,
       "num": 193903,
       "word": "偷西安老人杏子的团伙被抓获",
@@ -7137,6 +7209,14 @@
       "onboard_time": 1686648392,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178735,
+      "num": 178735,
+      "word": "你会用公厕的纸巾吗",
+      "onboard_time": 1686886592,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 178650,
@@ -10675,6 +10755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43847,
+      "num": 2693972,
+      "word": "博士乘组在轨工作画面",
+      "onboard_time": 1686888877,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43373,
       "num": 1571235,
       "word": "用漫画圆戍边英雄未实现的心愿",
@@ -10921,6 +11009,14 @@
       "onboard_time": 1686823225,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11738,
+      "num": 169923,
+      "word": "陈瑜元气打工人",
+      "onboard_time": 1686887855,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

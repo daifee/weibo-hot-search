@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686886430231,
+  "endTime": 1686889207896,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -217,6 +217,14 @@
       "onboard_time": 1686712169,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3503599,
+      "num": 3503599,
+      "word": "这次真的通知了他们仨",
+      "onboard_time": 1686884013,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 3476833,
@@ -1483,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1900363,
+      "num": 1900363,
+      "word": "感觉这三个名字排在一起是上辈子的事",
+      "onboard_time": 1686884914,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1900070,
       "num": 1900070,
       "word": "华晨宇长沙退票",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1706747,
-      "num": 1706747,
-      "word": "这次真的通知了他们仨",
-      "onboard_time": 1686884013,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 1703166,
@@ -2443,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1485107,
+      "num": 1485107,
+      "word": "我老了追易烊千玺的样子",
+      "onboard_time": 1686884192,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1478298,
       "num": 1478298,
       "word": "王源易烊千玺工作室出图",
@@ -2924,7 +2940,7 @@
     },
     {
       "raw_hot": 1330962,
-      "num": 742942,
+      "num": 848127,
       "word": "向佐郭碧婷为二胎儿子办周岁宴",
       "onboard_time": 1686881127,
       "rank": 10,
@@ -3153,14 +3169,6 @@
       "onboard_time": 1685873726,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1272408,
-      "num": 1272408,
-      "word": "我老了追易烊千玺的样子",
-      "onboard_time": 1686884192,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1271963,
@@ -3731,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1166933,
+      "num": 1166933,
+      "word": "苏翊鸣发文回应保送清华大学",
+      "onboard_time": 1686884914,
+      "rank": 16,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1166552,
       "num": 1166552,
       "word": "高考完了不用去打暑期工",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1686360156,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1161607,
+      "num": 1161607,
+      "word": "时代峰峻",
+      "onboard_time": 1686884732,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 1159664,
@@ -5019,14 +5043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 934736,
-      "num": 737236,
-      "word": "时代峰峻",
-      "onboard_time": 1686884732,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 933372,
       "num": 933372,
       "word": "都给马思纯p成啥样了",
@@ -5361,14 +5377,6 @@
       "onboard_time": 1686797187,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876518,
-      "num": 729316,
-      "word": "感觉这三个名字排在一起是上辈子的事",
-      "onboard_time": 1686884914,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 875800,
@@ -6705,14 +6713,6 @@
       "onboard_time": 1686784521,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716513,
-      "num": 716513,
-      "word": "苏翊鸣发文回应保送清华大学",
-      "onboard_time": 1686884914,
-      "rank": 16,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 715148,
@@ -9451,6 +9451,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 458287,
+      "num": 330323,
+      "word": "鹿晗演唱会重庆站定档",
+      "onboard_time": 1686888513,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 458080,
       "num": 458080,
       "word": "梦是一种心理上的转码过程",
@@ -10875,6 +10883,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 384378,
+      "num": 325654,
+      "word": "黄晓明油过没丑过",
+      "onboard_time": 1686888333,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384257,
       "num": 252758,
       "word": "妈妈对我俄罗斯男友的称呼",
@@ -11065,6 +11081,14 @@
       "onboard_time": 1685945789,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376762,
+      "num": 376762,
+      "word": "对你来说月薪1万够花吗",
+      "onboard_time": 1686883412,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 375986,
@@ -11321,6 +11345,14 @@
       "onboard_time": 1686304950,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366387,
+      "num": 325412,
+      "word": "TFBOYS的数字浪漫",
+      "onboard_time": 1686888155,
+      "rank": 27,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 366340,
@@ -12851,6 +12883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325848,
+      "num": 325848,
+      "word": "时光2定档",
+      "onboard_time": 1686888813,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 325704,
       "num": 325704,
       "word": "宿舍混住导致女孩被羞辱已轻生",
@@ -12881,6 +12921,14 @@
       "onboard_time": 1686016287,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 325194,
+      "num": 325194,
+      "word": "交警买网红青蛙小青蛙不让付钱",
+      "onboard_time": 1686887617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325140,
@@ -16139,6 +16187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262844,
+      "num": 252490,
+      "word": "四叶草过年了",
+      "onboard_time": 1686886533,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262763,
       "num": 262763,
       "word": "乐华 黄牛",
@@ -16905,6 +16961,14 @@
       "onboard_time": 1686565768,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252603,
+      "num": 252603,
+      "word": "你晚上一般睡多久",
+      "onboard_time": 1686887855,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 252518,
@@ -17947,6 +18011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240379,
+      "num": 221677,
+      "word": "TFBOYS十年前出道形象片",
+      "onboard_time": 1686886592,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240360,
       "num": 240360,
       "word": "杨幂演我爱钱",
@@ -18323,6 +18395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235885,
+      "num": 223534,
+      "word": "肖战李沁冬日拾光大片",
+      "onboard_time": 1686883713,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 235624,
       "num": 201561,
       "word": "摊爸谢可寅AnsrJ 流浪地球",
@@ -18497,14 +18577,6 @@
       "onboard_time": 1685803173,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233295,
-      "num": 233295,
-      "word": "对你来说月薪1万够花吗",
-      "onboard_time": 1686883412,
-      "rank": 35,
-      "category": "社会议题"
     },
     {
       "raw_hot": 233267,
@@ -19529,14 +19601,6 @@
       "onboard_time": 1686321272,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223534,
-      "num": 223534,
-      "word": "肖战李沁冬日拾光大片",
-      "onboard_time": 1686883713,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223191,
@@ -22851,6 +22915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "比尔盖茨",
+      "onboard_time": 1686887375,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 193903,
       "num": 193903,
       "word": "偷西安老人杏子的团伙被抓获",
@@ -25137,6 +25209,14 @@
       "onboard_time": 1686065250,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178735,
+      "num": 178735,
+      "word": "你会用公厕的纸巾吗",
+      "onboard_time": 1686886592,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 178650,
@@ -35235,6 +35315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43847,
+      "num": 2693972,
+      "word": "博士乘组在轨工作画面",
+      "onboard_time": 1686888877,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43613,
       "num": 647450,
       "word": "30年前高考是什么样的",
@@ -36009,6 +36097,14 @@
       "onboard_time": 1686167293,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 11738,
+      "num": 169923,
+      "word": "陈瑜元气打工人",
+      "onboard_time": 1686887855,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 9934,
