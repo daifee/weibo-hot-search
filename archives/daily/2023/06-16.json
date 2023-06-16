@@ -1,7 +1,15 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686872024459,
+  "endTime": 1686879614852,
   "band_list": [
+    {
+      "raw_hot": 2262890,
+      "num": 2262890,
+      "word": "离职时我把工资告诉了同事",
+      "onboard_time": 1686874947,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 2219766,
       "num": 2219766,
@@ -27,12 +35,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1420784,
+      "num": 1420784,
+      "word": "头发居然可以扎进肉里",
+      "onboard_time": 1686871822,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1349192,
-      "num": 878430,
+      "num": 980089,
       "word": "球迷冲进球场抱梅西",
       "onboard_time": 1686838888,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1264943,
+      "num": 1264943,
+      "word": "快乐大本营最后一期未播预告",
+      "onboard_time": 1686876749,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1233911,
+      "num": 1233911,
+      "word": "网友爆料宁艺卓是孟美岐导师",
+      "onboard_time": 1686876091,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1205566,
@@ -43,12 +75,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 987949,
+      "num": 987949,
+      "word": "黄晓明生图",
+      "onboard_time": 1686871704,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 957258,
       "num": 957258,
       "word": "苏醒见完梅西偶遇来迟的薛之谦",
       "onboard_time": 1686830783,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 745560,
+      "num": 745560,
+      "word": "关晓彤25岁身材管理",
+      "onboard_time": 1686870620,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 737212,
@@ -75,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665303,
+      "num": 321579,
+      "word": "女导游穿紧身裤被质疑是色情营销",
+      "onboard_time": 1686877650,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664067,
       "num": 664067,
       "word": "52岁大叔以身试险1小时劝退10多名游客",
@@ -91,6 +147,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 631714,
+      "num": 631714,
+      "word": "原来X光下的婴儿小手长这样",
+      "onboard_time": 1686875007,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 581731,
       "num": 581731,
       "word": "杨紫羊毛卷",
@@ -99,12 +163,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 556133,
+      "num": 321412,
+      "word": "考公上岸后被同学删了微信",
+      "onboard_time": 1686875007,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 532065,
       "num": 532065,
       "word": "阿根廷2比0",
       "onboard_time": 1686836550,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 490606,
+      "num": 490606,
+      "word": "陈宏军叶芳离婚",
+      "onboard_time": 1686871762,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 452310,
+      "num": 452310,
+      "word": "女生摆摊卖鸡脚边卖边吃",
+      "onboard_time": 1686873207,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450646,
@@ -123,12 +211,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422591,
+      "num": 321342,
+      "word": "男生中考忘涂机读卡妈妈大哭",
+      "onboard_time": 1686871884,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 415292,
+      "num": 415292,
+      "word": "连那英都接不住的场子",
+      "onboard_time": 1686873506,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386806,
       "num": 291677,
       "word": "一位韩国爸爸带女儿去夜店",
       "onboard_time": 1686840932,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381205,
+      "num": 381205,
+      "word": "冲进球场抱梅西球迷面临什么处罚",
+      "onboard_time": 1686875128,
+      "rank": 16,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 379982,
+      "num": 379982,
+      "word": "年入7万在江苏难不难",
+      "onboard_time": 1686871822,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 375492,
@@ -145,14 +265,6 @@
       "onboard_time": 1686870500,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 338287,
-      "num": 338287,
-      "word": "关晓彤25岁身材管理",
-      "onboard_time": 1686870620,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 318155,
@@ -203,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273283,
+      "num": 273283,
+      "word": "研一和研三读文献时的区别",
+      "onboard_time": 1686875007,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 265957,
+      "num": 204878,
+      "word": "袁弘 搞到梅西to签",
+      "onboard_time": 1686879329,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 263296,
       "num": 263296,
       "word": "卖杏老人儿子望偷拿女子澄清或道歉",
@@ -217,6 +345,14 @@
       "onboard_time": 1686847941,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250957,
+      "num": 250957,
+      "word": "古偶四大白发",
+      "onboard_time": 1686877468,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250856,
@@ -243,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243007,
-      "num": 149622,
-      "word": "头发居然可以扎进肉里",
-      "onboard_time": 1686871822,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 245579,
+      "num": 245579,
+      "word": "50岁阿姨疑遭20岁快递员猥亵",
+      "onboard_time": 1686877650,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229849,
@@ -257,6 +393,14 @@
       "onboard_time": 1686827844,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 229530,
+      "num": 229530,
+      "word": "冲进球场抱梅西球迷回应",
+      "onboard_time": 1686878609,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 228609,
@@ -283,12 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220132,
-      "num": 183832,
-      "word": "男生中考忘涂机读卡妈妈大哭",
-      "onboard_time": 1686871884,
-      "rank": 20,
-      "category": "社会新闻,教育"
+      "raw_hot": 220742,
+      "num": 220742,
+      "word": "熬夜给身体带来的损伤几乎是不可逆的",
+      "onboard_time": 1686878969,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215240,
@@ -307,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206977,
+      "num": 206977,
+      "word": "张大大直播间网友倒立洗头",
+      "onboard_time": 1686878549,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204946,
       "num": 204946,
       "word": "嵩山音乐节 退票",
@@ -315,12 +467,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201436,
+      "num": 201436,
+      "word": "可以回复任何内容的中文",
+      "onboard_time": 1686877410,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198378,
       "num": 198378,
       "word": "杨颖代言丸美3年2400万",
       "onboard_time": 1686816208,
       "rank": 31,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 190201,
+      "num": 190201,
+      "word": "刘惜君远远看到梅西很开心",
+      "onboard_time": 1686875368,
+      "rank": 33,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 185894,
@@ -339,6 +507,30 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 181988,
+      "num": 181988,
+      "word": "黄晓明的P图技术",
+      "onboard_time": 1686876928,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180901,
+      "num": 180901,
+      "word": "易烊千玺打招呼姿势",
+      "onboard_time": 1686877949,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178029,
+      "num": 172607,
+      "word": "办完离职还要等下班才能走",
+      "onboard_time": 1686877528,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176306,
       "num": 176306,
       "word": "年赚7位数小三分离师是什么职业",
@@ -355,11 +547,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173956,
+      "num": 173956,
+      "word": "安保公司回应球迷冲进球场抱梅西",
+      "onboard_time": 1686878250,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 173491,
+      "num": 173491,
+      "word": "NCT dream",
+      "onboard_time": 1686878250,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173271,
       "num": 173271,
       "word": "ZB1回归概念预告",
       "onboard_time": 1686842728,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171379,
+      "num": 171379,
+      "word": "吴宣仪晒和刘诗诗比耶合照",
+      "onboard_time": 1686874348,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -419,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150076,
+      "num": 150076,
+      "word": "范丞丞23岁了",
+      "onboard_time": 1686872485,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146386,
       "num": 146386,
       "word": "武汉商学院",
@@ -427,19 +651,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134682,
-      "num": 134682,
-      "word": "年入7万在江苏难不难",
-      "onboard_time": 1686871822,
-      "rank": 34,
-      "category": "财经,社会新闻"
+      "raw_hot": 136528,
+      "num": 136528,
+      "word": "狗子晚上不回家和狗友出去玩",
+      "onboard_time": 1686879208,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 134460,
-      "num": 134460,
-      "word": "黄晓明生图",
-      "onboard_time": 1686871704,
-      "rank": 35,
+      "raw_hot": 135498,
+      "num": 135498,
+      "word": "阿娇阿Sa给容祖儿庆生",
+      "onboard_time": 1686879508,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -449,14 +673,6 @@
       "onboard_time": 1686808227,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131583,
-      "num": 131583,
-      "word": "陈宏军叶芳离婚",
-      "onboard_time": 1686871762,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 127318,
@@ -555,20 +771,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84144,
+      "num": 1337771,
+      "word": "杭州亚运会奖牌亮相",
+      "onboard_time": 1686832585,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81898,
       "num": 81898,
       "word": "两代小龙女心中的少年都是过儿",
       "onboard_time": 1686860591,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81310,
-      "num": 1012553,
-      "word": "杭州亚运会奖牌亮相",
-      "onboard_time": 1686832585,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 67041,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1686879614852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2262890,
+        "num": 2262890,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1420784,
+        "num": 1420784,
+        "word": "头发居然可以扎进肉里",
+        "onboard_time": 1686871822,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84144,
+        "num": 1337771,
+        "word": "杭州亚运会奖牌亮相",
+        "onboard_time": 1686832585,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1264943,
+        "num": 1264943,
+        "word": "快乐大本营最后一期未播预告",
+        "onboard_time": 1686876749,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1233911,
+        "num": 1233911,
+        "word": "网友爆料宁艺卓是孟美岐导师",
+        "onboard_time": 1686876091,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 987949,
+        "num": 987949,
+        "word": "黄晓明生图",
+        "onboard_time": 1686871704,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 980089,
+        "num": 980089,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745560,
+        "num": 745560,
+        "word": "关晓彤25岁身材管理",
+        "onboard_time": 1686870620,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637029,
+        "num": 637029,
+        "word": "52岁大叔以身试险1小时劝退10多名游客",
+        "onboard_time": 1686870199,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631714,
+        "num": 631714,
+        "word": "原来X光下的婴儿小手长这样",
+        "onboard_time": 1686875007,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 519202,
+        "num": 519202,
+        "word": "薛之谦 再见啦梅西",
+        "onboard_time": 1686844705,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511213,
+        "num": 511213,
+        "word": "冰清玉洁近况",
+        "onboard_time": 1686844348,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490606,
+        "num": 490606,
+        "word": "陈宏军叶芳离婚",
+        "onboard_time": 1686871762,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481997,
+        "num": 481997,
+        "word": "苏醒见完梅西偶遇来迟的薛之谦",
+        "onboard_time": 1686830783,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 452310,
+        "num": 452310,
+        "word": "女生摆摊卖鸡脚边卖边吃",
+        "onboard_time": 1686873207,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415292,
+        "num": 415292,
+        "word": "连那英都接不住的场子",
+        "onboard_time": 1686873506,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381205,
+        "num": 381205,
+        "word": "冲进球场抱梅西球迷面临什么处罚",
+        "onboard_time": 1686875128,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 379982,
+        "num": 379982,
+        "word": "年入7万在江苏难不难",
+        "onboard_time": 1686871822,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 355078,
+        "num": 355078,
+        "word": "朱珠浪姐结束后去HEC上学了",
+        "onboard_time": 1686838825,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321832,
+        "num": 321832,
+        "word": "海底捞回应8块钱生菜仅2片",
+        "onboard_time": 1686831921,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 665303,
+        "num": 321579,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556133,
+        "num": 321412,
+        "word": "考公上岸后被同学删了微信",
+        "onboard_time": 1686875007,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422591,
+        "num": 321342,
+        "word": "男生中考忘涂机读卡妈妈大哭",
+        "onboard_time": 1686871884,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 321205,
+        "num": 321205,
+        "word": "阿根廷2比0",
+        "onboard_time": 1686836550,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273283,
+        "num": 273283,
+        "word": "研一和研三读文献时的区别",
+        "onboard_time": 1686875007,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250957,
+        "num": 250957,
+        "word": "古偶四大白发",
+        "onboard_time": 1686877468,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245579,
+        "num": 245579,
+        "word": "50岁阿姨疑遭20岁快递员猥亵",
+        "onboard_time": 1686877650,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229530,
+        "num": 229530,
+        "word": "冲进球场抱梅西球迷回应",
+        "onboard_time": 1686878609,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220742,
+        "num": 220742,
+        "word": "熬夜给身体带来的损伤几乎是不可逆的",
+        "onboard_time": 1686878969,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206977,
+        "num": 206977,
+        "word": "张大大直播间网友倒立洗头",
+        "onboard_time": 1686878549,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265957,
+        "num": 204878,
+        "word": "袁弘 搞到梅西to签",
+        "onboard_time": 1686879329,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 201436,
+        "num": 201436,
+        "word": "可以回复任何内容的中文",
+        "onboard_time": 1686877410,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193973,
+        "num": 193973,
+        "word": "梅西81秒进球",
+        "onboard_time": 1686831085,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190201,
+        "num": 190201,
+        "word": "刘惜君远远看到梅西很开心",
+        "onboard_time": 1686875368,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 188416,
+        "num": 188416,
+        "word": "第一次感觉老头背心好帅",
+        "onboard_time": 1686847941,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185021,
+        "num": 185021,
+        "word": "梅西过人好牛",
+        "onboard_time": 1686837268,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182319,
+        "num": 182319,
+        "word": "六公主",
+        "onboard_time": 1686817288,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181988,
+        "num": 181988,
+        "word": "黄晓明的P图技术",
+        "onboard_time": 1686876928,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180901,
+        "num": 180901,
+        "word": "易烊千玺打招呼姿势",
+        "onboard_time": 1686877949,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173956,
+        "num": 173956,
+        "word": "安保公司回应球迷冲进球场抱梅西",
+        "onboard_time": 1686878250,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 173491,
+        "word": "NCT dream",
+        "onboard_time": 1686878250,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178029,
+        "num": 172607,
+        "word": "办完离职还要等下班才能走",
+        "onboard_time": 1686877528,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171379,
+        "num": 171379,
+        "word": "吴宣仪晒和刘诗诗比耶合照",
+        "onboard_time": 1686874348,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159988,
+        "num": 159988,
+        "word": "张小斐说现在的红毯生图非常生",
+        "onboard_time": 1686824365,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156768,
+        "num": 156768,
+        "word": "阿根廷vs澳大利亚",
+        "onboard_time": 1686828983,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152245,
+        "num": 152245,
+        "word": "你睡觉到底有多晚",
+        "onboard_time": 1686870500,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150737,
+        "num": 150737,
+        "word": "杨紫羊毛卷",
+        "onboard_time": 1686835465,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150076,
+        "num": 150076,
+        "word": "范丞丞23岁了",
+        "onboard_time": 1686872485,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136528,
+        "num": 136528,
+        "word": "狗子晚上不回家和狗友出去玩",
+        "onboard_time": 1686879208,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135498,
+        "num": 135498,
+        "word": "阿娇阿Sa给容祖儿庆生",
+        "onboard_time": 1686879508,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会开幕日是秋分也是丰收节#"
+    }
+  }
+}
