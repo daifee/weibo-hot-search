@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686935687058,
+  "endTime": 1686936834568,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -12059,6 +12059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91982,
+      "num": 86945,
+      "word": "程潇 再热就不礼貌了",
+      "onboard_time": 1686935719,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91017,
       "num": 479641,
       "word": "掘金冲击队史第一冠",
@@ -12267,6 +12275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70055,
+      "num": 68525,
+      "word": "马思唯和法老见面没",
+      "onboard_time": 1686935540,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69946,
       "num": 69946,
       "word": "NIP对战OMG",
@@ -12361,14 +12377,6 @@
       "onboard_time": 1686726029,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65300,
-      "num": 68525,
-      "word": "马思唯和法老见面没",
-      "onboard_time": 1686935540,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 64610,
