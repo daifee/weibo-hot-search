@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686914041903,
+  "endTime": 1686915228805,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -9,6 +9,14 @@
       "onboard_time": 1686882328,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 4416366,
+      "num": 5332733,
+      "word": "冲进球场男子被行拘",
+      "onboard_time": 1686913527,
+      "rank": 3,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 3503599,
@@ -227,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1167480,
-      "num": 1167480,
-      "word": "冲进球场男子被行拘",
-      "onboard_time": 1686913527,
-      "rank": 3,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 1166933,
       "num": 1166933,
       "word": "苏翊鸣发文回应保送清华大学",
@@ -323,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 847518,
+      "num": 1375854,
+      "word": "洗碗工收到工资给老板500元感谢",
+      "onboard_time": 1686911369,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823736,
       "num": 419948,
       "word": "就差杨幂了",
@@ -344,14 +352,6 @@
       "word": "女导游穿紧身裤被质疑是色情营销",
       "onboard_time": 1686877650,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747428,
-      "num": 1200256,
-      "word": "洗碗工收到工资给老板500元感谢",
-      "onboard_time": 1686911369,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -515,12 +515,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453692,
+      "num": 398535,
+      "word": "李莎旻子发两千字长文告别乘风",
+      "onboard_time": 1686911187,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450646,
       "num": 450646,
       "word": "贾乃亮黄景瑜评论区互怼",
       "onboard_time": 1686829943,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433004,
+      "num": 398314,
+      "word": "向太",
+      "onboard_time": 1686912267,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431240,
+      "num": 398039,
+      "word": "花戎",
+      "onboard_time": 1686914368,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 427749,
@@ -579,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399908,
+      "num": 285241,
+      "word": "EDG赛前海报",
+      "onboard_time": 1686915206,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 395000,
       "num": 340766,
       "word": "当我出门忘关16度的空调",
@@ -609,14 +641,6 @@
       "onboard_time": 1686840932,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 382956,
-      "num": 382956,
-      "word": "李莎旻子发两千字长文告别乘风",
-      "onboard_time": 1686911187,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 381205,
@@ -673,14 +697,6 @@
       "onboard_time": 1686896188,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 362511,
-      "num": 362511,
-      "word": "向太",
-      "onboard_time": 1686912267,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 360843,
@@ -779,11 +795,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319936,
+      "num": 307667,
+      "word": "龚俊金晨一起吃烤肉",
+      "onboard_time": 1686912988,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318155,
       "num": 318155,
       "word": "梅西过人好牛",
       "onboard_time": 1686837268,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 316566,
+      "num": 316566,
+      "word": "国足vs缅甸",
+      "onboard_time": 1686909088,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -819,12 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303310,
-      "num": 303310,
-      "word": "国足vs缅甸",
-      "onboard_time": 1686909088,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 302362,
+      "num": 302362,
+      "word": "深圳地铁14号线",
+      "onboard_time": 1686913948,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301665,
@@ -833,6 +865,14 @@
       "onboard_time": 1686893131,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301435,
+      "num": 301435,
+      "word": "穿袜子千万别穿洞洞鞋",
+      "onboard_time": 1686914609,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 301391,
@@ -873,6 +913,14 @@
       "onboard_time": 1686845127,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285544,
+      "num": 285544,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 285185,
@@ -921,6 +969,14 @@
       "onboard_time": 1686875007,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273069,
+      "num": 273069,
+      "word": "梦海最大尺度",
+      "onboard_time": 1686913588,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 271542,
@@ -1163,6 +1219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 234822,
+      "num": 234822,
+      "word": "全球最知名的连体双胞胎",
+      "onboard_time": 1686914368,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229918,
       "num": 229918,
       "word": "店老板回应帮被尾随女子解围",
@@ -1385,14 +1449,6 @@
       "onboard_time": 1686898108,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208660,
-      "num": 208660,
-      "word": "龚俊金晨一起吃烤肉",
-      "onboard_time": 1686912988,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 206977,
@@ -1643,6 +1699,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 188518,
+      "num": 188518,
+      "word": "李宇春演唱会",
+      "onboard_time": 1686915206,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187585,
       "num": 187585,
       "word": "ZB1开通微博",
@@ -1843,14 +1907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171787,
-      "num": 171787,
-      "word": "梦海最大尺度",
-      "onboard_time": 1686913588,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171379,
       "num": 171379,
       "word": "吴宣仪晒和刘诗诗比耶合照",
@@ -2011,6 +2067,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153188,
+      "num": 153188,
+      "word": "购买煎饼狗子的流程",
+      "onboard_time": 1686914368,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 152524,
+      "num": 152524,
+      "word": "黄瓜做成了我吃不起的样子",
+      "onboard_time": 1686912327,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151478,
       "num": 151478,
       "word": "贺红玲被肖春生佟晓梅包围了",
@@ -2027,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151254,
-      "num": 151254,
-      "word": "黄瓜做成了我吃不起的样子",
-      "onboard_time": 1686912327,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151035,
       "num": 148292,
       "word": "梅西今晚离开北京",
@@ -2049,14 +2113,6 @@
       "onboard_time": 1686872485,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149988,
-      "num": 149988,
-      "word": "深圳地铁14号线",
-      "onboard_time": 1686913948,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147481,
@@ -2211,10 +2267,34 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119408,
+      "num": 119408,
+      "word": "谁能管管买票这件事",
+      "onboard_time": 1686915085,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119141,
       "num": 149109,
       "word": "北京农村大妈说唱和美家乡",
       "onboard_time": 1686899669,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119054,
+      "num": 119054,
+      "word": "给海象做牙齿检查",
+      "onboard_time": 1686914906,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118262,
+      "num": 118262,
+      "word": "跳桥救人小哥被故乡授予张家界好人",
+      "onboard_time": 1686914307,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2339,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82939,
+      "num": 487973,
+      "word": "3车连撞爆炸小伙冲进火场拽出司机",
+      "onboard_time": 1686913288,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81898,
       "num": 81898,
       "word": "两代小龙女心中的少年都是过儿",
@@ -2435,14 +2523,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 27309,
-      "num": 487973,
-      "word": "3车连撞爆炸小伙冲进火场拽出司机",
-      "onboard_time": 1686913288,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27230,
       "num": 27230,
       "word": "电影孤注一掷定档",
@@ -2501,6 +2581,9 @@
     },
     {
       "word": "#习近平会见比尔盖茨#"
+    },
+    {
+      "word": "#中方愿同世界各国开展广泛科技创新合作#"
     }
   ]
 }
