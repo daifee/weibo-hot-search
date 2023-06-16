@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/16 21:33:40
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/16 22:15:10
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ EXO确定于7月10日回归（热度：1552990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8%23" target="weibo">
+曝一高校女寝空调限时男寝全天使用（热度：1536068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23House%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87%23" target="weibo">
 House脱口秀演出剧院被罚10万（热度：1531824）
 </a>
@@ -1829,6 +1835,12 @@ House脱口秀演出剧院被罚10万（热度：1531824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%8F%AA%E6%98%AF%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%B9%B6%E4%B8%94%E5%BE%88%E5%81%A5%E8%B0%88%E7%BD%A2%E4%BA%86%23" target="weibo">
 她只是长得好看并且很健谈罢了（热度：1508871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%20%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%A6%81%E8%84%B8%23" target="weibo">
+秋瓷炫 我不是不要脸（热度：1508307）
 </a>
 </li>
 
@@ -3677,12 +3689,6 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
 AI写高考作文（热度：992848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%80%E9%AB%98%E6%A0%A1%E5%A5%B3%E5%AF%9D%E7%A9%BA%E8%B0%83%E9%99%90%E6%97%B6%E7%94%B7%E5%AF%9D%E5%85%A8%E5%A4%A9%E4%BD%BF%E7%94%A8%23" target="weibo">
-曝一高校女寝空调限时男寝全天使用（热度：990750）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Meiko 暂停（热度：605123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B5%B7%E5%8F%A3%23" target="weibo">
 周杰伦海口（热度：590757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%87%AA%E6%9B%9D%E6%9D%91%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E4%B9%A6%E8%AE%B0%23" target="weibo">
-男子自曝村副书记妻子出轨书记（热度：589756）
 </a>
 </li>
 

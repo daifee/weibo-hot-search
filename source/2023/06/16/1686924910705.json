@@ -1,0 +1,410 @@
+{
+  "runTime": 1686924910705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 638096,
+        "num": 952640,
+        "word": "黄晓明和宋慧乔演过情侣",
+        "onboard_time": 1686909266,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 923473,
+        "num": 923473,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33344,
+        "num": 869788,
+        "word": "杭州亚运村内部功能区首次公开亮相",
+        "onboard_time": 1686905308,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2263932,
+        "num": 767119,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1508307,
+        "num": 657165,
+        "word": "秋瓷炫 我不是不要脸",
+        "onboard_time": 1686922169,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1025485,
+        "num": 600256,
+        "word": "冲进球场男子被行拘",
+        "onboard_time": 1686913527,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 544005,
+        "num": 544005,
+        "word": "柳智敏 艺人没时间是骗人的",
+        "onboard_time": 1686923009,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403172,
+        "num": 403172,
+        "word": "国足4比0战胜缅甸队",
+        "onboard_time": 1686920068,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351073,
+        "num": 351073,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 8,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 247781,
+        "num": 350861,
+        "word": "为暗恋对象做了200页PPT",
+        "onboard_time": 1686917426,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1081071,
+        "num": 350676,
+        "word": "向太",
+        "onboard_time": 1686912267,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1021175,
+        "num": 350305,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1536068,
+        "num": 350101,
+        "word": "曝一高校女寝空调限时男寝全天使用",
+        "onboard_time": 1686914609,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 477058,
+        "num": 349895,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31370,
+        "num": 349753,
+        "word": "汪汪队立大功吓退涉嫌跟踪的男子",
+        "onboard_time": 1686924030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765423,
+        "num": 349502,
+        "word": "上海大学一男生疑对多名女生精神控制",
+        "onboard_time": 1686910708,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 475490,
+        "num": 349038,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438979,
+        "num": 348867,
+        "word": "难哄",
+        "onboard_time": 1686916287,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357696,
+        "num": 348471,
+        "word": "当丈夫说妻子在家啥也不干",
+        "onboard_time": 1686918868,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 268634,
+        "num": 348255,
+        "word": "乘地铁被冤枉偷拍的成都男子再发声",
+        "onboard_time": 1686923189,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591735,
+        "num": 348134,
+        "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+        "onboard_time": 1686908847,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436578,
+        "num": 347794,
+        "word": "偷偷藏不住换滤镜了",
+        "onboard_time": 1686923910,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421031,
+        "num": 347684,
+        "word": "原来近视是需要忌口的",
+        "onboard_time": 1686916768,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411899,
+        "num": 347264,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390829,
+        "num": 347005,
+        "word": "内娱还会有第二个TFBOYS吗",
+        "onboard_time": 1686919828,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346906,
+        "num": 346906,
+        "word": "吴青峰起风了大合唱",
+        "onboard_time": 1686923671,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374125,
+        "num": 336428,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294296,
+        "num": 294296,
+        "word": "王一博再戴麦穗胸针",
+        "onboard_time": 1686917127,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187181,
+        "num": 187181,
+        "word": "一定要睡个好觉的原因",
+        "onboard_time": 1686923249,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186034,
+        "num": 186034,
+        "word": "男装周",
+        "onboard_time": 1686923729,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 280404,
+        "num": 186009,
+        "word": "TFBOYS演唱会投票",
+        "onboard_time": 1686917848,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271676,
+        "num": 185950,
+        "word": "肖春生问叶国华孩子几岁了",
+        "onboard_time": 1686919228,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184758,
+        "num": 184758,
+        "word": "EDG赛前海报",
+        "onboard_time": 1686915206,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182505,
+        "num": 182505,
+        "word": "中国女排vs保加利亚女排",
+        "onboard_time": 1686920609,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178119,
+        "num": 178119,
+        "word": "无穷小亮在旅途中拍到的震撼景色",
+        "onboard_time": 1686922048,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 269697,
+        "num": 177679,
+        "word": "王一博首个电影男主角荣誉",
+        "onboard_time": 1686920248,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257309,
+        "num": 177624,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177140,
+        "num": 177140,
+        "word": "穿袜子千万别穿洞洞鞋",
+        "onboard_time": 1686914609,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176642,
+        "num": 176642,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 143316,
+        "num": 176528,
+        "word": "当我出门忘关16度的空调",
+        "onboard_time": 1686909329,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244175,
+        "num": 176161,
+        "word": "aespa演唱会",
+        "onboard_time": 1686921869,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242959,
+        "num": 175983,
+        "word": "杨紫回复杨迪都是一家的",
+        "onboard_time": 1686922830,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227867,
+        "num": 175628,
+        "word": "肖战想让自己简单一点",
+        "onboard_time": 1686923189,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211972,
+        "num": 175350,
+        "word": "偷偷藏不住定档",
+        "onboard_time": 1686898769,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200118,
+        "num": 175061,
+        "word": "法老抢到捧花",
+        "onboard_time": 1686915385,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191013,
+        "num": 174779,
+        "word": "马伯骞并非难哄桑延选角",
+        "onboard_time": 1686921090,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126565,
+        "num": 174723,
+        "word": "LNG海报",
+        "onboard_time": 1686911248,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 174406,
+        "word": "少耶和我",
+        "onboard_time": 1686922530,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 122015,
+        "num": 174075,
+        "word": "球迷冲球场不应该被吹捧",
+        "onboard_time": 1686924510,
+        "rank": 48,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 117633,
+        "num": 173902,
+        "word": "袁隆平推广到非洲的杂交稻收割了",
+        "onboard_time": 1686920429,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686922420043,
+  "endTime": 1686924910705,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -128,6 +128,22 @@
       "word": "快乐大本营最后一期未播预告",
       "onboard_time": 1686876749,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1536068,
+      "num": 350101,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1508307,
+      "num": 657165,
+      "word": "秋瓷炫 我不是不要脸",
+      "onboard_time": 1686922169,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 1157828,
-      "num": 334513,
+      "num": 350305,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 12,
@@ -321,14 +337,6 @@
       "onboard_time": 1686880708,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 990750,
-      "num": 319560,
-      "word": "曝一高校女寝空调限时男寝全天使用",
-      "onboard_time": 1686914609,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 987949,
@@ -508,11 +516,19 @@
     },
     {
       "raw_hot": 575089,
-      "num": 244791,
+      "num": 347684,
       "word": "原来近视是需要忌口的",
       "onboard_time": 1686916768,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 544005,
+      "num": 544005,
+      "word": "柳智敏 艺人没时间是骗人的",
+      "onboard_time": 1686923009,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 540300,
@@ -596,10 +612,18 @@
     },
     {
       "raw_hot": 439922,
-      "num": 276533,
+      "num": 294296,
       "word": "王一博再戴麦穗胸针",
       "onboard_time": 1686917127,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 436578,
+      "num": 347794,
+      "word": "偷偷藏不住换滤镜了",
+      "onboard_time": 1686923910,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411899,
+      "num": 347264,
+      "word": "白鹿张凌赫",
+      "onboard_time": 1686924450,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410746,
       "num": 378077,
       "word": "TFBOYS的数字浪漫",
@@ -675,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403172,
+      "num": 403172,
+      "word": "国足4比0战胜缅甸队",
+      "onboard_time": 1686920068,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399908,
       "num": 334641,
       "word": "EDG赛前海报",
@@ -683,20 +723,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 399557,
-      "num": 399557,
-      "word": "国足4比0战胜缅甸队",
-      "onboard_time": 1686920068,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395000,
       "num": 340766,
       "word": "当我出门忘关16度的空调",
       "onboard_time": 1686909329,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 390829,
+      "num": 347005,
+      "word": "内娱还会有第二个TFBOYS吗",
+      "onboard_time": 1686919828,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 388734,
@@ -787,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 360593,
-      "num": 212768,
-      "word": "内娱还会有第二个TFBOYS吗",
-      "onboard_time": 1686919828,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 357696,
+      "num": 348471,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 357396,
@@ -825,6 +865,14 @@
       "onboard_time": 1686919228,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346906,
+      "num": 346906,
+      "word": "吴青峰起风了大合唱",
+      "onboard_time": 1686923671,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 345862,
@@ -897,14 +945,6 @@
       "onboard_time": 1686884554,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 320547,
-      "num": 184318,
-      "word": "秋瓷炫 我不是不要脸",
-      "onboard_time": 1686922169,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 319942,
@@ -1099,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268634,
+      "num": 348255,
+      "word": "乘地铁被冤枉偷拍的成都男子再发声",
+      "onboard_time": 1686923189,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267975,
       "num": 267975,
       "word": "周杰伦上海演唱会已过审",
@@ -1188,7 +1236,7 @@
     },
     {
       "raw_hot": 255560,
-      "num": 174197,
+      "num": 176161,
       "word": "aespa演唱会",
       "onboard_time": 1686921869,
       "rank": 31,
@@ -1307,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242959,
+      "num": 175983,
+      "word": "杨紫回复杨迪都是一家的",
+      "onboard_time": 1686922830,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242709,
       "num": 242709,
       "word": "我当不了站姐的原因",
@@ -1348,7 +1404,7 @@
     },
     {
       "raw_hot": 235615,
-      "num": 166818,
+      "num": 175061,
       "word": "法老抢到捧花",
       "onboard_time": 1686915385,
       "rank": 35,
@@ -1419,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227867,
+      "num": 175628,
+      "word": "肖战想让自己简单一点",
+      "onboard_time": 1686923189,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227295,
       "num": 227295,
       "word": "比尔盖茨",
@@ -1444,7 +1508,7 @@
     },
     {
       "raw_hot": 225965,
-      "num": 172085,
+      "num": 178119,
       "word": "无穷小亮在旅途中拍到的震撼景色",
       "onboard_time": 1686922048,
       "rank": 36,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1686896609,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223302,
-      "num": 180239,
-      "word": "当丈夫说妻子在家啥也不干",
-      "onboard_time": 1686918868,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 221465,
@@ -1636,7 +1692,7 @@
     },
     {
       "raw_hot": 209081,
-      "num": 156507,
+      "num": 174779,
       "word": "马伯骞并非难哄桑延选角",
       "onboard_time": 1686921090,
       "rank": 44,
@@ -1947,12 +2003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187181,
+      "num": 187181,
+      "word": "一定要睡个好觉的原因",
+      "onboard_time": 1686923249,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 186265,
       "num": 186265,
       "word": "今夕是何年",
       "onboard_time": 1686885093,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186034,
+      "num": 186034,
+      "word": "男装周",
+      "onboard_time": 1686923729,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 185894,
@@ -2523,6 +2595,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 125622,
+      "num": 174406,
+      "word": "少耶和我",
+      "onboard_time": 1686922530,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 122671,
       "num": 122671,
       "word": "快乐大本营主持人现状",
@@ -2537,6 +2617,14 @@
       "onboard_time": 1686847342,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122015,
+      "num": 174075,
+      "word": "球迷冲球场不应该被吹捧",
+      "onboard_time": 1686924510,
+      "rank": 48,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 121001,
@@ -2592,6 +2680,14 @@
       "word": "拼门的快乐谁懂啊",
       "onboard_time": 1686911609,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117633,
+      "num": 291082,
+      "word": "袁隆平推广到非洲的杂交稻收割了",
+      "onboard_time": 1686920429,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2747,14 +2843,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 68215,
-      "num": 291082,
-      "word": "袁隆平推广到非洲的杂交稻收割了",
-      "onboard_time": 1686920429,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67391,
       "num": 323911,
       "word": "父亲去世34年82岁儿子仍在给他写信",
@@ -2823,6 +2911,14 @@
       "num": 522777,
       "word": "48岁女医生辞世捐器官救3人",
       "onboard_time": 1686895227,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31370,
+      "num": 349753,
+      "word": "汪汪队立大功吓退涉嫌跟踪的男子",
+      "onboard_time": 1686924030,
       "rank": 14,
       "category": "社会新闻"
     },
