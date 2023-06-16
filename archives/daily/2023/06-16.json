@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686908025183,
+  "endTime": 1686910676779,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1390924,
+      "num": 1144319,
+      "word": "郭碧婷穿衣风格向太化",
+      "onboard_time": 1686905730,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1349192,
       "num": 980089,
       "word": "球迷冲进球场抱梅西",
@@ -243,6 +251,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1113082,
+      "num": 1113082,
+      "word": "杜江问梅西嗯哼的签名照是真迹吗",
+      "onboard_time": 1686906508,
+      "rank": 14,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 1101693,
       "num": 1101693,
       "word": "袁弘 搞到梅西to签",
@@ -275,22 +291,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 954346,
-      "num": 954346,
-      "word": "杜江问梅西嗯哼的签名照是真迹吗",
-      "onboard_time": 1686906508,
-      "rank": 14,
-      "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 921984,
-      "num": 573094,
-      "word": "郭碧婷穿衣风格向太化",
-      "onboard_time": 1686905730,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 823736,
       "num": 419948,
       "word": "就差杨幂了",
@@ -299,20 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804046,
+      "num": 804046,
+      "word": "6女生写信控诉上大一研究生性剥削",
+      "onboard_time": 1686899970,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 796169,
+      "num": 796169,
+      "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+      "onboard_time": 1686908847,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762880,
       "num": 420648,
       "word": "女导游穿紧身裤被质疑是色情营销",
       "onboard_time": 1686877650,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752798,
-      "num": 545268,
-      "word": "6女生写信控诉上大一研究生性剥削",
-      "onboard_time": 1686899970,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 745560,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 714068,
-      "num": 714068,
+      "num": 1136655,
       "word": "交警买网红青蛙小青蛙不让付钱",
       "onboard_time": 1686887617,
       "rank": 29,
@@ -387,6 +395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 585062,
+      "num": 208027,
+      "word": "两千三的工资面了三轮",
+      "onboard_time": 1686908548,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 582306,
       "num": 380002,
       "word": "考公上岸后被同学删了微信",
@@ -409,6 +425,14 @@
       "onboard_time": 1686892471,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540300,
+      "num": 1154652,
+      "word": "孙女辞职带患癌爷爷4年花10万游9省",
+      "onboard_time": 1686904948,
+      "rank": 19,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 532065,
@@ -515,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401345,
+      "num": 200983,
+      "word": "宁安如梦",
+      "onboard_time": 1686909624,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388734,
       "num": 347338,
       "word": "迪丽热巴冷脸vs笑脸",
@@ -595,6 +627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 360991,
+      "num": 171755,
+      "word": "当我出门忘关16度的空调",
+      "onboard_time": 1686909329,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360843,
       "num": 360843,
       "word": "你睡觉到底有多晚",
@@ -657,6 +697,14 @@
       "onboard_time": 1686893849,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328385,
+      "num": 165122,
+      "word": "黄晓明和宋慧乔演过情侣",
+      "onboard_time": 1686909266,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 327114,
@@ -801,6 +849,14 @@
       "onboard_time": 1686889538,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276740,
+      "num": 1118551,
+      "word": "民警帮忙找到4万现金大娘豪气请吃饭",
+      "onboard_time": 1686909568,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274260,
@@ -995,14 +1051,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 241947,
-      "num": 241947,
-      "word": "孙女辞职带患癌爷爷4年花10万游9省",
-      "onboard_time": 1686904948,
-      "rank": 19,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 239882,
       "num": 239882,
       "word": "Uzi获得亚洲荣誉选手",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239261,
+      "num": 192455,
+      "word": "JonyJ巡演官宣",
+      "onboard_time": 1686909689,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 236896,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1686907107,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225863,
+      "num": 190288,
+      "word": "还以为肖战夹着皮包",
+      "onboard_time": 1686908667,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225174,
@@ -1571,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178909,
+      "num": 178909,
+      "word": "公司端午节发了200元红包",
+      "onboard_time": 1686908307,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178735,
       "num": 196210,
       "word": "你会用公厕的纸巾吗",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1686899488,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172573,
+      "num": 172573,
+      "word": "国足vs缅甸",
+      "onboard_time": 1686909088,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 171379,
@@ -1819,12 +1899,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "这点小事跟人命比起来没什么",
+      "onboard_time": 1686910288,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142245,
+      "num": 142245,
+      "word": "哈基米学",
+      "onboard_time": 1686910047,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139809,
       "num": 139809,
       "word": "谁是大多数",
       "onboard_time": 1686907588,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138329,
+      "num": 138329,
+      "word": "周杰伦海口演唱会",
+      "onboard_time": 1686910288,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 137574,
@@ -1963,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111021,
+      "num": 124840,
+      "word": "明天考四六级",
+      "onboard_time": 1686908786,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107949,
       "num": 107949,
       "word": "下次见面可能是在谁的婚礼上吧",
@@ -2075,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63597,
+      "num": 1311832,
+      "word": "杭州亚运村内部功能区首次公开亮相",
+      "onboard_time": 1686905308,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62042,
       "num": 136140,
       "word": "全国首个公益小店微电影播出",
@@ -2089,14 +2209,6 @@
       "onboard_time": 1686870199,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53684,
-      "num": 1311832,
-      "word": "杭州亚运村内部功能区首次公开亮相",
-      "onboard_time": 1686905308,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 43847,
