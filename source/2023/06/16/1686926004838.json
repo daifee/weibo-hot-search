@@ -1,0 +1,410 @@
+{
+  "runTime": 1686926004838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 964682,
+        "num": 964682,
+        "word": "柳智敏 艺人没时间是骗人的",
+        "onboard_time": 1686923009,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840596,
+        "num": 840596,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32120,
+        "num": 762025,
+        "word": "杭州亚运村内部功能区首次公开亮相",
+        "onboard_time": 1686905308,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2176358,
+        "num": 735057,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1556161,
+        "num": 631736,
+        "word": "秋瓷炫 我不是不要脸",
+        "onboard_time": 1686922169,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1415150,
+        "num": 487010,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 920460,
+        "num": 453702,
+        "word": "冲进球场男子被行拘",
+        "onboard_time": 1686913527,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 370064,
+        "num": 370064,
+        "word": "当丈夫说妻子在家啥也不干",
+        "onboard_time": 1686918868,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 365700,
+        "num": 365700,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 8,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 321729,
+        "num": 321729,
+        "word": "国足4比0战胜缅甸队",
+        "onboard_time": 1686920068,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012566,
+        "num": 321303,
+        "word": "向太",
+        "onboard_time": 1686912267,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 951841,
+        "num": 320024,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761573,
+        "num": 318912,
+        "word": "上海大学一男生疑对多名女生精神控制",
+        "onboard_time": 1686910708,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 584789,
+        "num": 317624,
+        "word": "偷偷藏不住换滤镜了",
+        "onboard_time": 1686923910,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96676,
+        "num": 317126,
+        "word": "汪汪队立大功吓退涉嫌跟踪的男子",
+        "onboard_time": 1686924030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505070,
+        "num": 315757,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484055,
+        "num": 314198,
+        "word": "黄晓明和宋慧乔演过情侣",
+        "onboard_time": 1686909266,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195630,
+        "num": 313291,
+        "word": "为暗恋对象做了200页PPT",
+        "onboard_time": 1686917426,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 405392,
+        "num": 312950,
+        "word": "乘地铁被冤枉偷拍的成都男子再发声",
+        "onboard_time": 1686923189,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425977,
+        "num": 311602,
+        "word": "曝一高校女寝空调限时男寝全天使用",
+        "onboard_time": 1686914609,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 452733,
+        "num": 309826,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369069,
+        "num": 309338,
+        "word": "原来近视是需要忌口的",
+        "onboard_time": 1686916768,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 652086,
+        "num": 307721,
+        "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+        "onboard_time": 1686908847,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352140,
+        "num": 307334,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213421,
+        "num": 306178,
+        "word": "一定要睡个好觉的原因",
+        "onboard_time": 1686923249,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 305485,
+        "num": 305485,
+        "word": "内娱还会有第二个TFBOYS吗",
+        "onboard_time": 1686919828,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287079,
+        "num": 287079,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276513,
+        "num": 276513,
+        "word": "王一博再戴麦穗胸针",
+        "onboard_time": 1686917127,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 271243,
+        "word": "无穷小亮在旅途中拍到的震撼景色",
+        "onboard_time": 1686922048,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191397,
+        "num": 270087,
+        "word": "EDG赛前海报",
+        "onboard_time": 1686915206,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269343,
+        "num": 269343,
+        "word": "TFBOYS演唱会投票",
+        "onboard_time": 1686917848,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268611,
+        "num": 268611,
+        "word": "杨紫回复杨迪都是一家的",
+        "onboard_time": 1686922830,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261461,
+        "num": 261461,
+        "word": "难哄",
+        "onboard_time": 1686916287,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188772,
+        "num": 188772,
+        "word": "穿袜子千万别穿洞洞鞋",
+        "onboard_time": 1686914609,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183190,
+        "num": 183190,
+        "word": "RW对战eStar",
+        "onboard_time": 1686925292,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249097,
+        "num": 182909,
+        "word": "肖春生问叶国华孩子几岁了",
+        "onboard_time": 1686919228,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248490,
+        "num": 182632,
+        "word": "王一博首个电影男主角荣誉",
+        "onboard_time": 1686920248,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167749,
+        "num": 182451,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 149249,
+        "num": 181925,
+        "word": "当我出门忘关16度的空调",
+        "onboard_time": 1686909329,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140102,
+        "num": 181582,
+        "word": "少耶和我",
+        "onboard_time": 1686922530,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 226940,
+        "num": 181136,
+        "word": "永远22毕业歌会",
+        "onboard_time": 1686924927,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219719,
+        "num": 181024,
+        "word": "aespa演唱会",
+        "onboard_time": 1686921869,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212146,
+        "num": 180422,
+        "word": "肖战想让自己简单一点",
+        "onboard_time": 1686923189,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201558,
+        "num": 180235,
+        "word": "吴青峰起风了大合唱",
+        "onboard_time": 1686923671,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207647,
+        "num": 180061,
+        "word": "肖春生佟晓梅终于结婚了",
+        "onboard_time": 1686921269,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195032,
+        "num": 179634,
+        "word": "马伯骞并非难哄桑延选角",
+        "onboard_time": 1686921090,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136393,
+        "num": 179076,
+        "word": "中国女排vs保加利亚女排",
+        "onboard_time": 1686920609,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129828,
+        "num": 178947,
+        "word": "姐姐的血脉压制",
+        "onboard_time": 1686925531,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119803,
+        "num": 178472,
+        "word": "这是怎么解开的",
+        "onboard_time": 1686925891,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119091,
+        "num": 178313,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比尔盖茨#"
+    }
+  }
+}
