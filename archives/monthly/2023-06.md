@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/16 12:20:07
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/16 12:33:34
 </p>
 </blockquote>
 <p>
@@ -5541,6 +5541,12 @@ Amber又是第一（热度：637320）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%B2%B9%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23" target="weibo">
+黄晓明油过没丑过（热度：632622）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%9C%A8%E4%BB%99%E4%BE%A0%E5%89%A7%E9%87%8C%E6%90%9E%E7%BB%BF%E5%8C%96%E7%9A%84%E7%A5%9E%E4%BB%99%23" target="weibo">
 第一次见在仙侠剧里搞绿化的神仙（热度：632511）
 </a>
@@ -6005,12 +6011,6 @@ Ella 是谁让你们送我莲花（热度：571795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%8F%8D%E5%A4%8D%E5%AF%B9%E6%AF%94%E7%A1%AE%E8%AE%A4%E6%98%AF%E9%B8%AD%E8%84%96%23" target="weibo">
 市监局回应反复对比确认是鸭脖（热度：567816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EXO%E5%85%88%E8%A1%8C%E6%9B%B2MV%23" target="weibo">
-EXO先行曲MV（热度：567018）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686889207896,
+  "endTime": 1686890014970,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 1330962,
-      "num": 848127,
+      "num": 900618,
       "word": "向佐郭碧婷为二胎儿子办周岁宴",
       "onboard_time": 1686881127,
       "rank": 10,
@@ -2123,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632622,
+      "num": 495815,
+      "word": "黄晓明油过没丑过",
+      "onboard_time": 1686888333,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632507,
       "num": 632507,
       "word": "球踢爆了",
@@ -2196,7 +2204,7 @@
     },
     {
       "raw_hot": 582306,
-      "num": 367600,
+      "num": 380002,
       "word": "考公上岸后被同学删了微信",
       "onboard_time": 1686875007,
       "rank": 21,
@@ -2377,6 +2385,14 @@
       "onboard_time": 1686822265,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 545969,
+      "num": 380156,
+      "word": "吴倩退出乘风",
+      "onboard_time": 1686889777,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 543393,
@@ -2715,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427749,
+      "num": 427749,
+      "word": "时光2定档",
+      "onboard_time": 1686888813,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 426258,
       "num": 426258,
       "word": "德约科维奇夺大满贯第23冠",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1686826827,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 410746,
+      "num": 378077,
+      "word": "TFBOYS的数字浪漫",
+      "onboard_time": 1686888155,
+      "rank": 27,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 407238,
@@ -2915,14 +2947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 384378,
-      "num": 325654,
-      "word": "黄晓明油过没丑过",
-      "onboard_time": 1686888333,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 384257,
       "num": 252758,
       "word": "妈妈对我俄罗斯男友的称呼",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1686871822,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 379500,
+      "num": 379500,
+      "word": "交警买网红青蛙小青蛙不让付钱",
+      "onboard_time": 1686887617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377381,
@@ -3025,14 +3057,6 @@
       "onboard_time": 1686630573,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 366387,
-      "num": 325412,
-      "word": "TFBOYS的数字浪漫",
-      "onboard_time": 1686888155,
-      "rank": 27,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 365403,
@@ -3467,28 +3491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325848,
-      "num": 325848,
-      "word": "时光2定档",
-      "onboard_time": 1686888813,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 325655,
       "num": 325655,
       "word": "张小斐这组好美",
       "onboard_time": 1686551848,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325194,
-      "num": 325194,
-      "word": "交警买网红青蛙小青蛙不让付钱",
-      "onboard_time": 1686887617,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324675,
@@ -4059,6 +4067,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 277457,
+      "num": 277457,
+      "word": "离职要不要收回份子钱",
+      "onboard_time": 1686889538,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276696,
       "num": 276696,
       "word": "中国女排世联赛5连胜",
@@ -4292,7 +4308,7 @@
     },
     {
       "raw_hot": 262844,
-      "num": 252490,
+      "num": 253994,
       "word": "四叶草过年了",
       "onboard_time": 1686886533,
       "rank": 35,
@@ -4385,6 +4401,14 @@
       "onboard_time": 1686882689,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258865,
+      "num": 258865,
+      "word": "TFBOYS十年前出道形象片",
+      "onboard_time": 1686886592,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 258559,
@@ -4849,14 +4873,6 @@
       "onboard_time": 1686826287,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240379,
-      "num": 221677,
-      "word": "TFBOYS十年前出道形象片",
-      "onboard_time": 1686886592,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 240360,
@@ -5467,6 +5483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218580,
+      "num": 218580,
+      "word": "被李健这段话治愈了恋爱焦虑",
+      "onboard_time": 1686889657,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "薛之谦演唱会抢票",
@@ -5851,6 +5875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207870,
+      "num": 207870,
+      "word": "比尔盖茨",
+      "onboard_time": 1686887375,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 207320,
       "num": 207320,
       "word": "两只旅俄大熊猫体重和人气齐升",
@@ -6064,6 +6096,14 @@
       "word": "俩男童凌晨坐巷子路人暖心帮助",
       "onboard_time": 1686574830,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201937,
+      "num": 201937,
+      "word": "中国水中大熊猫外网火了",
+      "onboard_time": 1686886712,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6409,14 +6449,6 @@
       "onboard_time": 1686630692,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193952,
-      "num": 193952,
-      "word": "比尔盖茨",
-      "onboard_time": 1686887375,
-      "rank": 46,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 193903,
@@ -7212,7 +7244,7 @@
     },
     {
       "raw_hot": 178735,
-      "num": 178735,
+      "num": 196210,
       "word": "你会用公厕的纸巾吗",
       "onboard_time": 1686886592,
       "rank": 48,
@@ -10488,6 +10520,14 @@
       "word": "蓝天碧水间官兵巡逻画面美如画",
       "onboard_time": 1686669870,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67766,
+      "num": 2163330,
+      "word": "杭州亚运形象宣传片弄潮",
+      "onboard_time": 1686889295,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686889207896,
+  "endTime": 1686890014970,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1330962,
-      "num": 848127,
+      "num": 900618,
       "word": "向佐郭碧婷为二胎儿子办周岁宴",
       "onboard_time": 1686881127,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 632622,
+      "num": 495815,
+      "word": "黄晓明油过没丑过",
+      "onboard_time": 1686888333,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632507,
       "num": 632507,
       "word": "球踢爆了",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 582306,
-      "num": 367600,
+      "num": 380002,
       "word": "考公上岸后被同学删了微信",
       "onboard_time": 1686875007,
       "rank": 21,
@@ -249,6 +257,14 @@
       "onboard_time": 1686835465,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 545969,
+      "num": 380156,
+      "word": "吴倩退出乘风",
+      "onboard_time": 1686889777,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 532065,
@@ -299,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427749,
+      "num": 427749,
+      "word": "时光2定档",
+      "onboard_time": 1686888813,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 425791,
       "num": 425791,
       "word": "梅西81秒进球",
@@ -321,6 +345,14 @@
       "onboard_time": 1686873506,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410746,
+      "num": 378077,
+      "word": "TFBOYS的数字浪漫",
+      "onboard_time": 1686888155,
+      "rank": 27,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 407238,
@@ -355,14 +387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 384378,
-      "num": 325654,
-      "word": "黄晓明油过没丑过",
-      "onboard_time": 1686888333,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 381205,
       "num": 381205,
       "word": "冲进球场抱梅西球迷面临什么处罚",
@@ -379,6 +403,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 379500,
+      "num": 379500,
+      "word": "交警买网红青蛙小青蛙不让付钱",
+      "onboard_time": 1686887617,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376762,
       "num": 376762,
       "word": "对你来说月薪1万够花吗",
@@ -393,14 +425,6 @@
       "onboard_time": 1686842251,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 366387,
-      "num": 325412,
-      "word": "TFBOYS的数字浪漫",
-      "onboard_time": 1686888155,
-      "rank": 27,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 360843,
@@ -441,22 +465,6 @@
       "onboard_time": 1686882990,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325848,
-      "num": 325848,
-      "word": "时光2定档",
-      "onboard_time": 1686888813,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 325194,
-      "num": 325194,
-      "word": "交警买网红青蛙小青蛙不让付钱",
-      "onboard_time": 1686887617,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324675,
@@ -539,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277457,
+      "num": 277457,
+      "word": "离职要不要收回份子钱",
+      "onboard_time": 1686889538,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273283,
       "num": 273283,
       "word": "研一和研三读文献时的区别",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 262844,
-      "num": 252490,
+      "num": 253994,
       "word": "四叶草过年了",
       "onboard_time": 1686886533,
       "rank": 35,
@@ -577,6 +593,14 @@
       "onboard_time": 1686882689,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258865,
+      "num": 258865,
+      "word": "TFBOYS十年前出道形象片",
+      "onboard_time": 1686886592,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 252603,
@@ -649,14 +673,6 @@
       "onboard_time": 1686880828,
       "rank": 37,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 240379,
-      "num": 221677,
-      "word": "TFBOYS十年前出道形象片",
-      "onboard_time": 1686886592,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 239284,
@@ -747,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218580,
+      "num": 218580,
+      "word": "被李健这段话治愈了恋爱焦虑",
+      "onboard_time": 1686889657,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215240,
       "num": 215240,
       "word": "苏醒 我离梅西好远",
@@ -779,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207870,
+      "num": 207870,
+      "word": "比尔盖茨",
+      "onboard_time": 1686887375,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 206977,
       "num": 206977,
       "word": "张大大直播间网友倒立洗头",
@@ -801,6 +833,14 @@
       "onboard_time": 1686886056,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201937,
+      "num": 201937,
+      "word": "中国水中大熊猫外网火了",
+      "onboard_time": 1686886712,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201436,
@@ -849,14 +889,6 @@
       "onboard_time": 1686879687,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193952,
-      "num": 193952,
-      "word": "比尔盖茨",
-      "onboard_time": 1686887375,
-      "rank": 46,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 193202,
@@ -956,7 +988,7 @@
     },
     {
       "raw_hot": 178735,
-      "num": 178735,
+      "num": 196210,
       "word": "你会用公厕的纸巾吗",
       "onboard_time": 1686886592,
       "rank": 48,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1686860591,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67766,
+      "num": 2163330,
+      "word": "杭州亚运形象宣传片弄潮",
+      "onboard_time": 1686889295,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67041,
