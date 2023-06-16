@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686919809409,
+  "endTime": 1686921623660,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1128761,
+      "num": 317081,
+      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+      "onboard_time": 1686918148,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1113142,
       "num": 488282,
       "word": "人体含水量最多的器官",
@@ -305,14 +313,6 @@
       "onboard_time": 1686908847,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1011773,
-      "num": 317081,
-      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
-      "onboard_time": 1686918148,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 993047,
@@ -347,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 899529,
+      "num": 287576,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 847518,
       "num": 1375854,
       "word": "洗碗工收到工资给老板500元感谢",
@@ -368,14 +376,6 @@
       "word": "6女生写信控诉上大一研究生性剥削",
       "onboard_time": 1686899970,
       "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 792802,
-      "num": 287576,
-      "word": "曝一高校女寝空调限时男寝全天使用",
-      "onboard_time": 1686914609,
-      "rank": 29,
       "category": "社会新闻,教育"
     },
     {
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578483,
+      "num": 578483,
+      "word": "难哄",
+      "onboard_time": 1686916287,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575089,
       "num": 244791,
       "word": "原来近视是需要忌口的",
@@ -537,6 +545,14 @@
       "onboard_time": 1686871762,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490582,
+      "num": 255804,
+      "word": "TFBOYS演唱会投票",
+      "onboard_time": 1686917848,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 458287,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413091,
+      "num": 276533,
+      "word": "王一博再戴麦穗胸针",
+      "onboard_time": 1686917127,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410746,
       "num": 378077,
       "word": "TFBOYS的数字浪漫",
@@ -643,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403150,
-      "num": 276533,
-      "word": "王一博再戴麦穗胸针",
-      "onboard_time": 1686917127,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 399908,
       "num": 334641,
       "word": "EDG赛前海报",
@@ -665,14 +681,6 @@
       "onboard_time": 1686909329,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 394578,
-      "num": 255804,
-      "word": "TFBOYS演唱会投票",
-      "onboard_time": 1686917848,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 388734,
@@ -755,6 +763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 361898,
+      "num": 361898,
+      "word": "为暗恋对象做了200页PPT",
+      "onboard_time": 1686917426,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 360843,
       "num": 360843,
       "word": "你睡觉到底有多晚",
@@ -816,6 +832,14 @@
       "word": "肖战李沁梦海吻戏",
       "onboard_time": 1686895709,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333171,
+      "num": 225251,
+      "word": "王一博首个电影男主角荣誉",
+      "onboard_time": 1686920248,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -939,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300694,
+      "num": 300694,
+      "word": "国足4比0战胜缅甸队",
+      "onboard_time": 1686920068,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297648,
       "num": 297648,
       "word": "张小斐说现在的红毯生图非常生",
       "onboard_time": 1686824365,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 297216,
+      "num": 212768,
+      "word": "内娱还会有第二个TFBOYS吗",
+      "onboard_time": 1686919828,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 295207,
@@ -985,14 +1025,6 @@
       "onboard_time": 1686894629,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282938,
-      "num": 205795,
-      "word": "难哄",
-      "onboard_time": 1686916287,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 277457,
@@ -1083,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263882,
+      "num": 263882,
+      "word": "中国女排vs保加利亚女排",
+      "onboard_time": 1686920609,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263296,
       "num": 263296,
       "word": "卖杏老人儿子望偷拿女子澄清或道歉",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1686832045,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250807,
-      "num": 250807,
-      "word": "为暗恋对象做了200页PPT",
-      "onboard_time": 1686917426,
-      "rank": 24,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 250026,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1686883713,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 235615,
+      "num": 166818,
+      "word": "法老抢到捧花",
+      "onboard_time": 1686915385,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 234822,
@@ -1539,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207911,
-      "num": 145034,
-      "word": "法老抢到捧花",
-      "onboard_time": 1686915385,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206977,
       "num": 206977,
       "word": "张大大直播间网友倒立洗头",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1686886056,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203274,
+      "num": 156540,
+      "word": "芭比内地定档",
+      "onboard_time": 1686921090,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 202989,
@@ -1627,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199455,
+      "num": 180239,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 198580,
       "num": 130345,
       "word": "华晨宇演唱会神树开场名场面",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1686816208,
       "rank": 31,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 198246,
+      "num": 156523,
+      "word": "肖春生佟晓梅终于结婚了",
+      "onboard_time": 1686921269,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 197720,
@@ -1787,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190552,
+      "num": 156521,
+      "word": "李马克剪头发了",
+      "onboard_time": 1686921569,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190201,
       "num": 190201,
       "word": "刘惜君远远看到梅西很开心",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1686882808,
       "rank": 46,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 187492,
+      "num": 156507,
+      "word": "马伯骞并非难哄桑延选角",
+      "onboard_time": 1686921090,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 187310,
@@ -1905,14 +1977,6 @@
       "onboard_time": 1686880828,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180239,
-      "num": 180239,
-      "word": "当丈夫说妻子在家啥也不干",
-      "onboard_time": 1686918868,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 179713,
@@ -2203,6 +2267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 152713,
+      "num": 156490,
+      "word": "k4",
+      "onboard_time": 1686920371,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152524,
       "num": 152524,
       "word": "黄瓜做成了我吃不起的样子",
@@ -2329,6 +2401,14 @@
       "onboard_time": 1686879508,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134565,
+      "num": 156572,
+      "word": "骆歆身在艾欧尼亚心在德玛",
+      "onboard_time": 1686921388,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 132122,
@@ -2499,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112138,
+      "num": 156466,
+      "word": "郑智退役仪式",
+      "onboard_time": 1686920668,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112121,
       "num": 126158,
       "word": "入职新人找我借钱怎么拒绝",
@@ -2572,7 +2660,7 @@
     },
     {
       "raw_hot": 93894,
-      "num": 117908,
+      "num": 156446,
       "word": "长期不社交什么体验",
       "onboard_time": 1686917426,
       "rank": 48,
@@ -2691,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36413,
+      "num": 267470,
+      "word": "袁隆平推广到非洲的杂交稻收割了",
+      "onboard_time": 1686920429,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29914,
       "num": 232396,
       "word": "烟台让世界微醺",
@@ -2768,6 +2864,9 @@
     },
     {
       "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    },
+    {
+      "word": "#世界互联网大会数字文明尼山对话#"
     }
   ]
 }
