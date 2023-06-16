@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686910676779,
+  "endTime": 1686911635749,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 1390924,
-      "num": 1144319,
+      "num": 1335063,
       "word": "郭碧婷穿衣风格向太化",
       "onboard_time": 1686905730,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1375017,
+      "num": 1375017,
+      "word": "杜江问梅西嗯哼的签名照是真迹吗",
+      "onboard_time": 1686906508,
+      "rank": 14,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 1349192,
@@ -251,20 +259,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1113082,
-      "num": 1113082,
-      "word": "杜江问梅西嗯哼的签名照是真迹吗",
-      "onboard_time": 1686906508,
-      "rank": 14,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 1101693,
       "num": 1101693,
       "word": "袁弘 搞到梅西to签",
       "onboard_time": 1686879329,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1068496,
+      "num": 796169,
+      "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+      "onboard_time": 1686908847,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993047,
@@ -291,6 +299,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 949850,
+      "num": 772816,
+      "word": "黄晓明和宋慧乔演过情侣",
+      "onboard_time": 1686909266,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 823736,
       "num": 419948,
       "word": "就差杨幂了",
@@ -305,14 +321,6 @@
       "onboard_time": 1686899970,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 796169,
-      "num": 796169,
-      "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
-      "onboard_time": 1686908847,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 762880,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 714068,
-      "num": 1136655,
+      "num": 1189398,
       "word": "交警买网红青蛙小青蛙不让付钱",
       "onboard_time": 1686887617,
       "rank": 29,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661407,
+      "num": 301104,
+      "word": "两千三的工资面了三轮",
+      "onboard_time": 1686908548,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 643427,
       "num": 643427,
       "word": "原来X光下的婴儿小手长这样",
@@ -395,14 +411,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 585062,
-      "num": 208027,
-      "word": "两千三的工资面了三轮",
-      "onboard_time": 1686908548,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 582306,
       "num": 380002,
       "word": "考公上岸后被同学删了微信",
@@ -419,6 +427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 579699,
+      "num": 579699,
+      "word": "宁安如梦",
+      "onboard_time": 1686909624,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578859,
       "num": 518330,
       "word": "邓典果结婚",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 540300,
-      "num": 1154652,
+      "num": 1353059,
       "word": "孙女辞职带患癌爷爷4年花10万游9省",
       "onboard_time": 1686904948,
       "rank": 19,
@@ -539,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401345,
-      "num": 200983,
-      "word": "宁安如梦",
-      "onboard_time": 1686909624,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 395000,
+      "num": 197149,
+      "word": "当我出门忘关16度的空调",
+      "onboard_time": 1686909329,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 388734,
@@ -627,12 +643,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 360991,
-      "num": 171755,
-      "word": "当我出门忘关16度的空调",
-      "onboard_time": 1686909329,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 363378,
+      "num": 264639,
+      "word": "李莎旻子发两千字长文告别乘风",
+      "onboard_time": 1686911187,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 360843,
@@ -697,14 +713,6 @@
       "onboard_time": 1686893849,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328385,
-      "num": 165122,
-      "word": "黄晓明和宋慧乔演过情侣",
-      "onboard_time": 1686909266,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 327114,
@@ -777,6 +785,14 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306713,
+      "num": 306713,
+      "word": "上海大学一男生疑对多名女生精神控制",
+      "onboard_time": 1686910708,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 301665,
@@ -1027,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244855,
+      "num": 244855,
+      "word": "JonyJ巡演官宣",
+      "onboard_time": 1686909689,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243714,
       "num": 243714,
       "word": "主人真的很宠它 它也是真的很蠢",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239261,
-      "num": 192455,
-      "word": "JonyJ巡演官宣",
-      "onboard_time": 1686909689,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 236896,
@@ -1387,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199909,
+      "num": 195261,
+      "word": "周杰伦上海演唱会已过审",
+      "onboard_time": 1686910829,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198580,
       "num": 130345,
       "word": "华晨宇演唱会神树开场名场面",
@@ -1395,12 +1419,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198425,
+      "num": 192893,
+      "word": "猪猪侠英文名的来源",
+      "onboard_time": 1686910949,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198378,
       "num": 198378,
       "word": "杨颖代言丸美3年2400万",
       "onboard_time": 1686816208,
       "rank": 31,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 197720,
+      "num": 197720,
+      "word": "终于分清了学士服上的领子",
+      "onboard_time": 1686910829,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 197302,
@@ -1587,12 +1627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183876,
+      "num": 183876,
+      "word": "LNG海报",
+      "onboard_time": 1686911248,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182893,
       "num": 182893,
       "word": "过度打扮的女友和随意的男友",
       "onboard_time": 1686818427,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 182175,
+      "num": 182175,
+      "word": "国足vs缅甸",
+      "onboard_time": 1686909088,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 181988,
@@ -1699,6 +1755,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 173722,
+      "num": 173722,
+      "word": "洗碗工收到工资给老板500元感谢",
+      "onboard_time": 1686911369,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173491,
       "num": 173491,
       "word": "NCT dream",
@@ -1723,14 +1787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172573,
-      "num": 172573,
-      "word": "国足vs缅甸",
-      "onboard_time": 1686909088,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171379,
       "num": 171379,
       "word": "吴宣仪晒和刘诗诗比耶合照",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1686882990,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 169862,
+      "num": 169862,
+      "word": "丁程鑫严浩翔表情失控",
+      "onboard_time": 1686910708,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 167333,
@@ -1867,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151290,
+      "num": 151290,
+      "word": "人社局回应一公司月薪300招实习生",
+      "onboard_time": 1686911248,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151035,
       "num": 148292,
       "word": "梅西今晚离开北京",
@@ -1897,6 +1969,14 @@
       "onboard_time": 1686838050,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144243,
+      "num": 144243,
+      "word": "没点文化都看不懂朋友圈了",
+      "onboard_time": 1686911248,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 143160,
@@ -2091,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101958,
+      "num": 133453,
+      "word": "拼门的快乐谁懂啊",
+      "onboard_time": 1686911609,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101649,
       "num": 101649,
       "word": "董思成去看了梅西比赛",
@@ -2188,7 +2276,7 @@
     },
     {
       "raw_hot": 63597,
-      "num": 1311832,
+      "num": 1335323,
       "word": "杭州亚运村内部功能区首次公开亮相",
       "onboard_time": 1686905308,
       "rank": 2,

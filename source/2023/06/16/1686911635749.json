@@ -1,0 +1,410 @@
+{
+  "runTime": 1686911635749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375017,
+        "num": 1375017,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 0,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 403985,
+        "num": 1353059,
+        "word": "孙女辞职带患癌爷爷4年花10万游9省",
+        "onboard_time": 1686904948,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 49457,
+        "num": 1335323,
+        "word": "杭州亚运村内部功能区首次公开亮相",
+        "onboard_time": 1686905308,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1335063,
+        "num": 1335063,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384997,
+        "num": 1189398,
+        "word": "交警买网红青蛙小青蛙不让付钱",
+        "onboard_time": 1686887617,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051289,
+        "num": 1051289,
+        "word": "偷偷藏不住定档",
+        "onboard_time": 1686898769,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245897,
+        "num": 949463,
+        "word": "民警帮忙找到4万现金大娘豪气请吃饭",
+        "onboard_time": 1686909568,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934902,
+        "num": 934902,
+        "word": "嗯哼 追星成功太开心啦",
+        "onboard_time": 1686902309,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860726,
+        "num": 860726,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824533,
+        "num": 824533,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1068496,
+        "num": 794753,
+        "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+        "onboard_time": 1686908847,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949850,
+        "num": 772816,
+        "word": "黄晓明和宋慧乔演过情侣",
+        "onboard_time": 1686909266,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742746,
+        "num": 742746,
+        "word": "TFBOYS公式照",
+        "onboard_time": 1686892591,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 700408,
+        "num": 700408,
+        "word": "李飞P图不严谨啊",
+        "onboard_time": 1686895768,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 684042,
+        "num": 684042,
+        "word": "6女生写信控诉上大一研究生性剥削",
+        "onboard_time": 1686899970,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 598437,
+        "num": 598437,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579699,
+        "num": 579699,
+        "word": "宁安如梦",
+        "onboard_time": 1686909624,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541060,
+        "num": 541060,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332114,
+        "num": 332114,
+        "word": "新闻学教授怒怼张雪峰",
+        "onboard_time": 1686891515,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306713,
+        "num": 306713,
+        "word": "上海大学一男生疑对多名女生精神控制",
+        "onboard_time": 1686910708,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 661407,
+        "num": 301104,
+        "word": "两千三的工资面了三轮",
+        "onboard_time": 1686908548,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436352,
+        "num": 290338,
+        "word": "人体含水量最多的器官",
+        "onboard_time": 1686895829,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 422033,
+        "num": 277119,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363378,
+        "num": 264639,
+        "word": "李莎旻子发两千字长文告别乘风",
+        "onboard_time": 1686911187,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358750,
+        "num": 256559,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244855,
+        "num": 244855,
+        "word": "JonyJ巡演官宣",
+        "onboard_time": 1686909689,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220628,
+        "num": 220628,
+        "word": "我老了追易烊千玺的样子",
+        "onboard_time": 1686884192,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215294,
+        "num": 215294,
+        "word": "就差杨幂了",
+        "onboard_time": 1686897689,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208495,
+        "num": 208495,
+        "word": "邓典果结婚",
+        "onboard_time": 1686892471,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197720,
+        "num": 197720,
+        "word": "终于分清了学士服上的领子",
+        "onboard_time": 1686910829,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395000,
+        "num": 197149,
+        "word": "当我出门忘关16度的空调",
+        "onboard_time": 1686909329,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199909,
+        "num": 195261,
+        "word": "周杰伦上海演唱会已过审",
+        "onboard_time": 1686910829,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200402,
+        "num": 194670,
+        "word": "张元英穿了中国粉丝送的裙子",
+        "onboard_time": 1686891336,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192904,
+        "num": 192904,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198425,
+        "num": 192893,
+        "word": "猪猪侠英文名的来源",
+        "onboard_time": 1686910949,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185699,
+        "num": 185699,
+        "word": "还以为肖战夹着皮包",
+        "onboard_time": 1686908667,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183876,
+        "num": 183876,
+        "word": "LNG海报",
+        "onboard_time": 1686911248,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182175,
+        "num": 182175,
+        "word": "国足vs缅甸",
+        "onboard_time": 1686909088,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174821,
+        "num": 174821,
+        "word": "鹿晗北京站出座位了",
+        "onboard_time": 1686905730,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173722,
+        "num": 173722,
+        "word": "洗碗工收到工资给老板500元感谢",
+        "onboard_time": 1686911369,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169862,
+        "num": 169862,
+        "word": "丁程鑫严浩翔表情失控",
+        "onboard_time": 1686910708,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158424,
+        "num": 158424,
+        "word": "公司端午节发了200元红包",
+        "onboard_time": 1686908307,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156229,
+        "num": 156229,
+        "word": "吴倩退出乘风",
+        "onboard_time": 1686889777,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151290,
+        "num": 151290,
+        "word": "人社局回应一公司月薪300招实习生",
+        "onboard_time": 1686911248,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149529,
+        "num": 149529,
+        "word": "杨和苏去婚礼走错地方",
+        "onboard_time": 1686895169,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144243,
+        "num": 144243,
+        "word": "没点文化都看不懂朋友圈了",
+        "onboard_time": 1686911248,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138480,
+        "num": 138480,
+        "word": "向佐郭碧婷为二胎儿子办周岁宴",
+        "onboard_time": 1686881127,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136413,
+        "num": 136413,
+        "word": "郑秀妍没帮唱Amber",
+        "onboard_time": 1686893849,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124715,
+        "num": 135336,
+        "word": "女儿高考完提出3个要求妈妈崩溃",
+        "onboard_time": 1686892293,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101958,
+        "num": 133453,
+        "word": "拼门的快乐谁懂啊",
+        "onboard_time": 1686911609,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国成功发射一箭41星刷新纪录#"
+    }
+  }
+}
