@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686911635749,
+  "endTime": 1686914041903,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -883,8 +883,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1375017,
-      "num": 1375017,
+      "raw_hot": 1383848,
+      "num": 1383848,
       "word": "杜江问梅西嗯哼的签名照是真迹吗",
       "onboard_time": 1686906508,
       "rank": 14,
@@ -1163,6 +1163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1167480,
+      "num": 1167480,
+      "word": "冲进球场男子被行拘",
+      "onboard_time": 1686913527,
+      "rank": 3,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1166933,
       "num": 1166933,
       "word": "苏翊鸣发文回应保送清华大学",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1686730108,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1146770,
+      "num": 1146770,
+      "word": "黄晓明和宋慧乔演过情侣",
+      "onboard_time": 1686909266,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1135240,
@@ -1555,14 +1571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 949850,
-      "num": 772816,
-      "word": "黄晓明和宋慧乔演过情侣",
-      "onboard_time": 1686909266,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 949817,
       "num": 949817,
       "word": "防止肥胖要像猪猪一样吃",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1686558990,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 893788,
+      "num": 490328,
+      "word": "上海大学一男生疑对多名女生精神控制",
+      "onboard_time": 1686910708,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 893674,
@@ -2027,6 +2043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 747428,
+      "num": 1200256,
+      "word": "洗碗工收到工资给老板500元感谢",
+      "onboard_time": 1686911369,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745560,
       "num": 745560,
       "word": "关晓彤25岁身材管理",
@@ -2171,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676219,
+      "num": 473058,
+      "word": "两千三的工资面了三轮",
+      "onboard_time": 1686908548,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 668496,
       "num": 668496,
       "word": "杭州师范大学回应",
@@ -2209,14 +2241,6 @@
       "onboard_time": 1686716555,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 661407,
-      "num": 301104,
-      "word": "两千三的工资面了三轮",
-      "onboard_time": 1686908548,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 654923,
@@ -3092,7 +3116,7 @@
     },
     {
       "raw_hot": 395000,
-      "num": 197149,
+      "num": 340766,
       "word": "当我出门忘关16度的空调",
       "onboard_time": 1686909329,
       "rank": 30,
@@ -3153,6 +3177,14 @@
       "onboard_time": 1686786506,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 382956,
+      "num": 382956,
+      "word": "李莎旻子发两千字长文告别乘风",
+      "onboard_time": 1686911187,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 382678,
@@ -3315,12 +3347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363378,
-      "num": 264639,
-      "word": "李莎旻子发两千字长文告别乘风",
-      "onboard_time": 1686911187,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 362511,
+      "num": 362511,
+      "word": "向太",
+      "onboard_time": 1686912267,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 362266,
@@ -4011,14 +4043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306713,
-      "num": 306713,
-      "word": "上海大学一男生疑对多名女生精神控制",
-      "onboard_time": 1686910708,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 306667,
       "num": 306667,
       "word": "喜欢你我也是",
@@ -4041,6 +4065,14 @@
       "onboard_time": 1686556891,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303310,
+      "num": 303310,
+      "word": "国足vs缅甸",
+      "onboard_time": 1686909088,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 302652,
@@ -4507,6 +4539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271542,
+      "num": 271542,
+      "word": "LNG海报",
+      "onboard_time": 1686911248,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271394,
       "num": 271394,
       "word": "怦然3三男争一女",
@@ -4569,6 +4609,14 @@
       "onboard_time": 1686811286,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267975,
+      "num": 267975,
+      "word": "周杰伦上海演唱会已过审",
+      "onboard_time": 1686910829,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 267625,
@@ -5065,6 +5113,14 @@
       "onboard_time": 1686648568,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248941,
+      "num": 305720,
+      "word": "第五人格",
+      "onboard_time": 1686912928,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 248617,
@@ -6403,6 +6459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208660,
+      "num": 208660,
+      "word": "龚俊金晨一起吃烤肉",
+      "onboard_time": 1686912988,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207320,
       "num": 207320,
       "word": "两只旅俄大熊猫体重和人气齐升",
@@ -6643,6 +6707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201807,
+      "num": 201807,
+      "word": "蔡徐坤香港演唱会倒计时",
+      "onboard_time": 1686913166,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201773,
       "num": 201773,
       "word": "东方神起 TMEA",
@@ -6769,14 +6841,6 @@
       "onboard_time": 1686492869,
       "rank": 30,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 199909,
-      "num": 195261,
-      "word": "周杰伦上海演唱会已过审",
-      "onboard_time": 1686910829,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 199773,
@@ -7555,6 +7619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 187585,
+      "num": 187585,
+      "word": "ZB1开通微博",
+      "onboard_time": 1686912748,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187551,
       "num": 187551,
       "word": "严浩翔换新发型",
@@ -7739,14 +7811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183876,
-      "num": 183876,
-      "word": "LNG海报",
-      "onboard_time": 1686911248,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183781,
       "num": 514559,
       "word": "小鸟翩若惊鸿三连跳仙气飘飘",
@@ -7769,6 +7833,14 @@
       "onboard_time": 1686814167,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182810,
+      "num": 182810,
+      "word": "我宣布他研究出了蟑螂药",
+      "onboard_time": 1686912626,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 182799,
@@ -7801,14 +7873,6 @@
       "onboard_time": 1686706888,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 182175,
-      "num": 182175,
-      "word": "国足vs缅甸",
-      "onboard_time": 1686909088,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 181988,
@@ -8115,14 +8179,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 173722,
-      "num": 173722,
-      "word": "洗碗工收到工资给老板500元感谢",
-      "onboard_time": 1686911369,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173696,
       "num": 173696,
       "word": "seventeen青岛签售会没有分组",
@@ -8200,6 +8256,14 @@
       "word": "肖春生疯狂找存在感",
       "onboard_time": 1686548312,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171787,
+      "num": 171787,
+      "word": "梦海最大尺度",
+      "onboard_time": 1686913588,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -8387,6 +8451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167482,
+      "num": 167482,
+      "word": "看起来有点大病的朋友圈文案",
+      "onboard_time": 1686913766,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 167333,
       "num": 177922,
       "word": "公司的下午茶能有多炸裂",
@@ -8449,6 +8521,14 @@
       "onboard_time": 1686634286,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165903,
+      "num": 165903,
+      "word": "小时候不懂为什么会有边放水边加水的数学题",
+      "onboard_time": 1686912626,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 165785,
@@ -8907,6 +8987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155335,
+      "num": 155335,
+      "word": "跳槽新公司结果被辞退了",
+      "onboard_time": 1686912507,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 155313,
       "num": 155313,
       "word": "李健现场",
@@ -9083,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151254,
+      "num": 151254,
+      "word": "黄瓜做成了我吃不起的样子",
+      "onboard_time": 1686912327,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151080,
       "num": 151080,
       "word": "面试时HR让我填血型",
@@ -9145,6 +9241,14 @@
       "onboard_time": 1686711748,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149988,
+      "num": 149988,
+      "word": "深圳地铁14号线",
+      "onboard_time": 1686913948,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149809,
@@ -10619,6 +10723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118060,
+      "num": 486648,
+      "word": "拼门的快乐谁懂啊",
+      "onboard_time": 1686911609,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117571,
       "num": 117571,
       "word": "JDG对战RNG",
@@ -11017,14 +11129,6 @@
       "onboard_time": 1686810325,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101958,
-      "num": 133453,
-      "word": "拼门的快乐谁懂啊",
-      "onboard_time": 1686911609,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101649,
@@ -11912,6 +12016,14 @@
       "word": "从12米高处跳江小哥讲述救人全过程",
       "onboard_time": 1686679754,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27309,
+      "num": 487973,
+      "word": "3车连撞爆炸小伙冲进火场拽出司机",
+      "onboard_time": 1686913288,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
