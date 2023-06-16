@@ -1,0 +1,410 @@
+{
+  "runTime": 1686928631040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1150174,
+        "num": 1150174,
+        "word": "柳智敏 艺人没时间是骗人的",
+        "onboard_time": 1686923009,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759027,
+        "num": 759027,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26663,
+        "num": 696276,
+        "word": "杭州亚运村内部功能区首次公开亮相",
+        "onboard_time": 1686905308,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1872299,
+        "num": 640033,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1579112,
+        "num": 535578,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1570309,
+        "num": 476617,
+        "word": "秋瓷炫 我不是不要脸",
+        "onboard_time": 1686922169,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385378,
+        "num": 385378,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 6,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 312711,
+        "num": 312711,
+        "word": "山西煤矿3死1伤事故监控曝光",
+        "onboard_time": 1686926251,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301731,
+        "num": 301731,
+        "word": "当丈夫说妻子在家啥也不干",
+        "onboard_time": 1686918868,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 270067,
+        "num": 301682,
+        "word": "无穷小亮在旅途中拍到的震撼景色",
+        "onboard_time": 1686922048,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1270148,
+        "num": 301395,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 983032,
+        "num": 301230,
+        "word": "陈乔恩被青蛙求婚",
+        "onboard_time": 1686927389,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634046,
+        "num": 301002,
+        "word": "冲进球场男子被行拘",
+        "onboard_time": 1686913527,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 618907,
+        "num": 300811,
+        "word": "向太",
+        "onboard_time": 1686912267,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236996,
+        "num": 300565,
+        "word": "当我出门忘关16度的空调",
+        "onboard_time": 1686909329,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202560,
+        "num": 300283,
+        "word": "国足4比0战胜缅甸队",
+        "onboard_time": 1686920068,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511112,
+        "num": 300176,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488086,
+        "num": 299787,
+        "word": "偷偷藏不住换滤镜了",
+        "onboard_time": 1686923910,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177785,
+        "num": 299531,
+        "word": "EDG赛前海报",
+        "onboard_time": 1686915206,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165983,
+        "num": 299513,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 460060,
+        "num": 299275,
+        "word": "原来近视是需要忌口的",
+        "onboard_time": 1686916768,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425528,
+        "num": 298886,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 400094,
+        "num": 298829,
+        "word": "林俊杰现场绝了",
+        "onboard_time": 1686926070,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329555,
+        "num": 298595,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206592,
+        "num": 298347,
+        "word": "一定要睡个好觉的原因",
+        "onboard_time": 1686923249,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 371455,
+        "num": 298098,
+        "word": "袁姗姗一字肩高开叉礼服",
+        "onboard_time": 1686926671,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315748,
+        "num": 297838,
+        "word": "谢娜李维嘉吴昕录制新综艺",
+        "onboard_time": 1686928411,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301750,
+        "num": 297623,
+        "word": "黄晓明和宋慧乔演过情侣",
+        "onboard_time": 1686909266,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162592,
+        "num": 297373,
+        "word": "穿袜子千万别穿洞洞鞋",
+        "onboard_time": 1686914609,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127914,
+        "num": 297096,
+        "word": "汪汪队立大功吓退涉嫌跟踪的男子",
+        "onboard_time": 1686924030,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390662,
+        "num": 296986,
+        "word": "乘地铁被冤枉偷拍的成都男子再发声",
+        "onboard_time": 1686923189,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314241,
+        "num": 296651,
+        "word": "你见过最完美的户型",
+        "onboard_time": 1686927329,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296647,
+        "num": 296647,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 746654,
+        "num": 294940,
+        "word": "曝一高校女寝空调限时男寝全天使用",
+        "onboard_time": 1686914609,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 284311,
+        "num": 284311,
+        "word": "什刹海f3重聚",
+        "onboard_time": 1686928112,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272187,
+        "num": 272187,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257108,
+        "num": 257108,
+        "word": "梁洁两套生日写真反差感",
+        "onboard_time": 1686928290,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245903,
+        "num": 245903,
+        "word": "王一博再戴麦穗胸针",
+        "onboard_time": 1686917127,
+        "rank": 37,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 235189,
+        "word": "景枫",
+        "onboard_time": 1686926851,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108611,
+        "num": 235088,
+        "word": "龙之子花海",
+        "onboard_time": 1686926970,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235033,
+        "num": 235033,
+        "word": "TFBOYS演唱会投票",
+        "onboard_time": 1686917848,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233500,
+        "num": 233500,
+        "word": "王一博抓金雨",
+        "onboard_time": 1686927630,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217133,
+        "num": 217133,
+        "word": "林俊杰好久不见",
+        "onboard_time": 1686927151,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216428,
+        "num": 216428,
+        "word": "嗯哼 追星成功太开心啦",
+        "onboard_time": 1686902309,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198798,
+        "num": 198798,
+        "word": "肖春生问叶国华孩子几岁了",
+        "onboard_time": 1686919228,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197823,
+        "num": 197823,
+        "word": "杨紫回复杨迪都是一家的",
+        "onboard_time": 1686922830,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 192741,
+        "word": "内娱还会有第二个TFBOYS吗",
+        "onboard_time": 1686919828,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108140,
+        "num": 190440,
+        "word": "少耶和我",
+        "onboard_time": 1686922530,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 295986,
+        "num": 187808,
+        "word": "天津大学扣饭事件后烤鸭饭窗口排长队",
+        "onboard_time": 1686908847,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104040,
+        "num": 187310,
+        "word": "山东落实停工令设休息亭",
+        "onboard_time": 1686928290,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    }
+  }
+}
