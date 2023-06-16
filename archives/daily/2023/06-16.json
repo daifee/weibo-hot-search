@@ -1,10 +1,10 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686879614852,
+  "endTime": 1686880618348,
   "band_list": [
     {
-      "raw_hot": 2262890,
-      "num": 2262890,
+      "raw_hot": 2281870,
+      "num": 2281870,
       "word": "离职时我把工资告诉了同事",
       "onboard_time": 1686874947,
       "rank": 0,
@@ -35,6 +35,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1508299,
+      "num": 1508299,
+      "word": "快乐大本营最后一期未播预告",
+      "onboard_time": 1686876749,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1420784,
       "num": 1420784,
       "word": "头发居然可以扎进肉里",
@@ -51,16 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1264943,
-      "num": 1264943,
-      "word": "快乐大本营最后一期未播预告",
-      "onboard_time": 1686876749,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1233911,
-      "num": 1233911,
+      "raw_hot": 1247195,
+      "num": 1247195,
       "word": "网友爆料宁艺卓是孟美岐导师",
       "onboard_time": 1686876091,
       "rank": 4,
@@ -89,6 +89,14 @@
       "onboard_time": 1686830783,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 746200,
+      "num": 321579,
+      "word": "女导游穿紧身裤被质疑是色情营销",
+      "onboard_time": 1686877650,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745560,
@@ -123,12 +131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 665303,
-      "num": 321579,
-      "word": "女导游穿紧身裤被质疑是色情营销",
-      "onboard_time": 1686877650,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 682767,
+      "num": 682767,
+      "word": "袁弘 搞到梅西to签",
+      "onboard_time": 1686879329,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 664067,
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643427,
+      "num": 643427,
+      "word": "原来X光下的婴儿小手长这样",
+      "onboard_time": 1686875007,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632507,
       "num": 632507,
       "word": "球踢爆了",
       "onboard_time": 1686839729,
       "rank": 7,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 631714,
-      "num": 631714,
-      "word": "原来X光下的婴儿小手长这样",
-      "onboard_time": 1686875007,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 581731,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345862,
+      "num": 294497,
+      "word": "一家人凑不出个会聊天的",
+      "onboard_time": 1686880349,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318155,
       "num": 318155,
       "word": "梅西过人好牛",
@@ -289,6 +305,14 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303976,
+      "num": 303976,
+      "word": "古偶四大白发",
+      "onboard_time": 1686877468,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 301391,
@@ -315,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285185,
+      "num": 285185,
+      "word": "毕业搬家才知道生活费都去哪了",
+      "onboard_time": 1686880349,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273283,
       "num": 273283,
       "word": "研一和研三读文献时的区别",
       "onboard_time": 1686875007,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265957,
-      "num": 204878,
-      "word": "袁弘 搞到梅西to签",
-      "onboard_time": 1686879329,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 263296,
@@ -345,14 +369,6 @@
       "onboard_time": 1686847941,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250957,
-      "num": 250957,
-      "word": "古偶四大白发",
-      "onboard_time": 1686877468,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250856,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239284,
+      "num": 239284,
+      "word": "冲进球场抱梅西球迷回应",
+      "onboard_time": 1686878609,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229849,
       "num": 229849,
       "word": "校方回应地铁事件女子在科技作品署名",
@@ -395,20 +419,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 229530,
-      "num": 229530,
-      "word": "冲进球场抱梅西球迷回应",
-      "onboard_time": 1686878609,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228609,
       "num": 228609,
       "word": "孟子义说曾舜晞我谈没谈你不知道吗",
       "onboard_time": 1686840211,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227286,
+      "num": 227286,
+      "word": "夏天来姨妈能有多痛苦",
+      "onboard_time": 1686880468,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 224469,
@@ -451,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212909,
+      "num": 212909,
+      "word": "主人真的很宠它 它也是真的很蠢",
+      "onboard_time": 1686880048,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206977,
       "num": 206977,
       "word": "张大大直播间网友倒立洗头",
@@ -481,6 +513,14 @@
       "onboard_time": 1686816208,
       "rank": 31,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 194614,
+      "num": 194614,
+      "word": "岳云鹏说我跟白敬亭最像P上去的",
+      "onboard_time": 1686879687,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190201,
@@ -529,6 +569,14 @@
       "onboard_time": 1686877528,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176763,
+      "num": 176763,
+      "word": "狗子晚上不回家和狗友出去玩",
+      "onboard_time": 1686879208,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176306,
@@ -648,14 +696,6 @@
       "word": "武汉商学院",
       "onboard_time": 1686838050,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136528,
-      "num": 136528,
-      "word": "狗子晚上不回家和狗友出去玩",
-      "onboard_time": 1686879208,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

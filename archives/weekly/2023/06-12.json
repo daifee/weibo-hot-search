@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686879614852,
+  "endTime": 1686880618348,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -235,20 +235,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2281870,
+      "num": 2281870,
+      "word": "离职时我把工资告诉了同事",
+      "onboard_time": 1686874947,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2281646,
       "num": 2281646,
       "word": "黄永玉逝世",
       "onboard_time": 1686735507,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2262890,
-      "num": 2262890,
-      "word": "离职时我把工资告诉了同事",
-      "onboard_time": 1686874947,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 2219766,
@@ -643,6 +643,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1508299,
+      "num": 1508299,
+      "word": "快乐大本营最后一期未播预告",
+      "onboard_time": 1686876749,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1507639,
       "num": 1507639,
       "word": "博主因性别称谓发视频曝光空乘",
@@ -867,14 +875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1264943,
-      "num": 1264943,
-      "word": "快乐大本营最后一期未播预告",
-      "onboard_time": 1686876749,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1264758,
       "num": 1264758,
       "word": "孟子义没考上军艺的原因",
@@ -889,6 +889,14 @@
       "onboard_time": 1686702810,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1247195,
+      "num": 1247195,
+      "word": "网友爆料宁艺卓是孟美岐导师",
+      "onboard_time": 1686876091,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1241502,
@@ -921,14 +929,6 @@
       "onboard_time": 1686531870,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1233911,
-      "num": 1233911,
-      "word": "网友爆料宁艺卓是孟美岐导师",
-      "onboard_time": 1686876091,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1233395,
@@ -1787,6 +1787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 746200,
+      "num": 321579,
+      "word": "女导游穿紧身裤被质疑是色情营销",
+      "onboard_time": 1686877650,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745560,
       "num": 745560,
       "word": "关晓彤25岁身材管理",
@@ -1923,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682767,
+      "num": 682767,
+      "word": "袁弘 搞到梅西to签",
+      "onboard_time": 1686879329,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 668496,
       "num": 668496,
       "word": "杭州师范大学回应",
@@ -1936,14 +1952,6 @@
       "word": "温州近视司机深夜高速上镜片突然脱落",
       "onboard_time": 1686758726,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665303,
-      "num": 321579,
-      "word": "女导游穿紧身裤被质疑是色情营销",
-      "onboard_time": 1686877650,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2003,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643427,
+      "num": 643427,
+      "word": "原来X光下的婴儿小手长这样",
+      "onboard_time": 1686875007,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641372,
       "num": 423197,
       "word": "全麻手术醒后可以有多社死",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1686839729,
       "rank": 19,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 631714,
-      "num": 631714,
-      "word": "原来X光下的婴儿小手长这样",
-      "onboard_time": 1686875007,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 625449,
@@ -3067,6 +3075,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 345862,
+      "num": 294497,
+      "word": "一家人凑不出个会聊天的",
+      "onboard_time": 1686880349,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345572,
       "num": 345572,
       "word": "后来呢 我们分开了",
@@ -3531,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303976,
+      "num": 303976,
+      "word": "古偶四大白发",
+      "onboard_time": 1686877468,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303837,
       "num": 303837,
       "word": "黄仁俊七月封面",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1686535648,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285185,
+      "num": 285185,
+      "word": "毕业搬家才知道生活费都去哪了",
+      "onboard_time": 1686880349,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 284289,
@@ -4009,14 +4041,6 @@
       "onboard_time": 1686708987,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265957,
-      "num": 204878,
-      "word": "袁弘 搞到梅西to签",
-      "onboard_time": 1686879329,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 265751,
@@ -4331,14 +4355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250957,
-      "num": 250957,
-      "word": "古偶四大白发",
-      "onboard_time": 1686877468,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 250893,
       "num": 250893,
       "word": "SEVENTEEN澳门音乐节",
@@ -4619,6 +4635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239284,
+      "num": 239284,
+      "word": "冲进球场抱梅西球迷回应",
+      "onboard_time": 1686878609,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238786,
       "num": 238786,
       "word": "王鹤棣跟狗吵架",
@@ -4819,14 +4843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229530,
-      "num": 229530,
-      "word": "冲进球场抱梅西球迷回应",
-      "onboard_time": 1686878609,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229384,
       "num": 229384,
       "word": "BKPP 嵩山音乐节",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1686750210,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227286,
+      "num": 227286,
+      "word": "夏天来姨妈能有多痛苦",
+      "onboard_time": 1686880468,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 226943,
@@ -5369,6 +5393,14 @@
       "onboard_time": 1686817828,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212909,
+      "num": 212909,
+      "word": "主人真的很宠它 它也是真的很蠢",
+      "onboard_time": 1686880048,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 212402,
@@ -6025,6 +6057,14 @@
       "onboard_time": 1686709827,
       "rank": 38,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 194614,
+      "num": 194614,
+      "word": "岳云鹏说我跟白敬亭最像P上去的",
+      "onboard_time": 1686879687,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 194465,
@@ -6865,6 +6905,14 @@
       "onboard_time": 1686797907,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176763,
+      "num": 176763,
+      "word": "狗子晚上不回家和狗友出去玩",
+      "onboard_time": 1686879208,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176592,
@@ -8553,14 +8601,6 @@
       "onboard_time": 1686525380,
       "rank": 33,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 136528,
-      "num": 136528,
-      "word": "狗子晚上不回家和狗友出去玩",
-      "onboard_time": 1686879208,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136269,
