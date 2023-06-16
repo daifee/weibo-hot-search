@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/17 04:33:38
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/17 05:14:32
 </p>
 </blockquote>
 <p>
@@ -9599,6 +9599,12 @@ HYBE新女团选秀主题曲（热度：36314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E8%AE%A9%E4%B8%96%E7%95%8C%E5%BE%AE%E9%86%BA%23" target="weibo">
 烟台让世界微醺（热度：29914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23" target="weibo">
+村民鸡窝中发现鸟皇后（热度：27735）
 </a>
 </li>
 

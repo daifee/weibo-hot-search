@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686947618790,
+  "endTime": 1686950072738,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -37665,6 +37665,14 @@
       "onboard_time": 1686337633,
       "rank": 40,
       "category": "音乐,情感"
+    },
+    {
+      "raw_hot": 27735,
+      "num": 27735,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27725,
