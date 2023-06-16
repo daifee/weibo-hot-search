@@ -1,10 +1,10 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686883858601,
+  "endTime": 1686885497892,
   "band_list": [
     {
-      "raw_hot": 10005491,
-      "num": 10005491,
+      "raw_hot": 10053896,
+      "num": 10053896,
       "word": "TFBOYS十年之约演唱会官宣",
       "onboard_time": 1686882328,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1667137,
+      "num": 1667137,
+      "word": "王俊凯王源易烊千玺转发十年之约演唱会",
+      "onboard_time": 1686884135,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1603752,
       "num": 1603752,
       "word": "快乐大本营最后一期未播预告",
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1330962,
+      "num": 646930,
+      "word": "向佐郭碧婷为二胎儿子办周岁宴",
+      "onboard_time": 1686881127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1247195,
       "num": 1247195,
       "word": "网友爆料宁艺卓是孟美岐导师",
@@ -81,14 +97,6 @@
       "onboard_time": 1686831921,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1158507,
-      "num": 440335,
-      "word": "向佐郭碧婷为二胎儿子办周岁宴",
-      "onboard_time": 1686881127,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1101693,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 982733,
+      "num": 982733,
+      "word": "私人山庄遭网红闯入并渲染成鬼屋",
+      "onboard_time": 1686880708,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957258,
       "num": 957258,
       "word": "苏醒见完梅西偶遇来迟的薛之谦",
@@ -115,16 +131,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 880553,
-      "num": 880553,
-      "word": "私人山庄遭网红闯入并渲染成鬼屋",
-      "onboard_time": 1686880708,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 746200,
-      "num": 321579,
+      "num": 348556,
       "word": "女导游穿紧身裤被质疑是色情营销",
       "onboard_time": 1686877650,
       "rank": 20,
@@ -187,6 +195,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 584414,
+      "num": 584414,
+      "word": "这次真的通知了他们仨",
+      "onboard_time": 1686884013,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 582306,
       "num": 321412,
       "word": "考公上岸后被同学删了微信",
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 504755,
+      "num": 504755,
+      "word": "我老了追易烊千玺的样子",
+      "onboard_time": 1686884192,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 490606,
       "num": 490606,
       "word": "陈宏军叶芳离婚",
@@ -219,8 +243,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452310,
-      "num": 452310,
+      "raw_hot": 459508,
+      "num": 451815,
+      "word": "感觉这三个名字排在一起是上辈子的事",
+      "onboard_time": 1686884914,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454494,
+      "num": 454494,
       "word": "女生摆摊卖鸡脚边卖边吃",
       "onboard_time": 1686873207,
       "rank": 14,
@@ -233,6 +265,14 @@
       "onboard_time": 1686829943,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439088,
+      "num": 439088,
+      "word": "苏翊鸣发文回应保送清华大学",
+      "onboard_time": 1686884914,
+      "rank": 16,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 425791,
@@ -257,6 +297,22 @@
       "onboard_time": 1686873506,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413149,
+      "num": 413149,
+      "word": "时代峰峻",
+      "onboard_time": 1686884732,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 388734,
+      "num": 347338,
+      "word": "迪丽热巴冷脸vs笑脸",
+      "onboard_time": 1686883051,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 386806,
@@ -307,6 +363,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338418,
+      "num": 338418,
+      "word": "高校回应干部不正当男女关系被抓现行",
+      "onboard_time": 1686885333,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 335778,
+      "num": 335778,
+      "word": "TFBOYS要出新歌了吗",
+      "onboard_time": 1686885274,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327114,
       "num": 234460,
       "word": "王一博情绪主题视频",
@@ -321,6 +393,14 @@
       "onboard_time": 1686877468,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322777,
+      "num": 322777,
+      "word": "五月天杭州",
+      "onboard_time": 1686884554,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 318155,
@@ -363,6 +443,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 294943,
+      "num": 294943,
+      "word": "民警为查毒品剥开32吨洋葱",
+      "onboard_time": 1686885274,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292256,
+      "num": 277537,
+      "word": "乘风帮唱师姐官宣",
+      "onboard_time": 1686884794,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287423,
       "num": 287423,
       "word": "奶奶遭电诈被孙子带到派出所",
@@ -377,14 +473,6 @@
       "onboard_time": 1686880349,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281302,
-      "num": 281302,
-      "word": "迪丽热巴冷脸vs笑脸",
-      "onboard_time": 1686883051,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 273283,
@@ -467,6 +555,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 239395,
+      "num": 239395,
+      "word": "我当不了站姐的原因",
+      "onboard_time": 1686880828,
+      "rank": 37,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 239284,
       "num": 239284,
       "word": "冲进球场抱梅西球迷回应",
@@ -515,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222624,
-      "num": 222624,
-      "word": "我当不了站姐的原因",
-      "onboard_time": 1686880828,
-      "rank": 37,
-      "category": "幽默,作品衍生"
+      "raw_hot": 223534,
+      "num": 223534,
+      "word": "肖战李沁冬日拾光大片",
+      "onboard_time": 1686883713,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221465,
@@ -529,6 +625,14 @@
       "onboard_time": 1686871160,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220977,
+      "num": 220977,
+      "word": "对你来说月薪1万够花吗",
+      "onboard_time": 1686883412,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 220742,
@@ -571,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207056,
-      "num": 207056,
-      "word": "对你来说月薪1万够花吗",
-      "onboard_time": 1686883412,
-      "rank": 35,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 206977,
       "num": 206977,
       "word": "张大大直播间网友倒立洗头",
@@ -595,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202064,
-      "num": 202064,
-      "word": "肖战李沁冬日拾光大片",
-      "onboard_time": 1686883713,
-      "rank": 38,
-      "category": "作品衍生,时尚"
+      "raw_hot": 204929,
+      "num": 204929,
+      "word": "乘风三公赛后真人秀",
+      "onboard_time": 1686885333,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 201436,
@@ -611,12 +707,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201040,
+      "num": 201040,
+      "word": "宋丹丹邀桃花坞成员大聚会",
+      "onboard_time": 1686884493,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198378,
       "num": 198378,
       "word": "杨颖代言丸美3年2400万",
       "onboard_time": 1686816208,
       "rank": 31,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 196759,
+      "num": 196759,
+      "word": "陈伟霆推车吻删减剧情",
+      "onboard_time": 1686884612,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 196001,
@@ -657,6 +769,14 @@
       "onboard_time": 1686882389,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186265,
+      "num": 186265,
+      "word": "今夕是何年",
+      "onboard_time": 1686885093,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 185894,
@@ -1017,6 +1137,14 @@
       "onboard_time": 1686850457,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21988,
+      "num": 221400,
+      "word": "烟台让世界微醺",
+      "onboard_time": 1686884434,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 14938,
