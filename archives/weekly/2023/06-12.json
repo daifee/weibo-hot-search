@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686896510165,
+  "endTime": 1686897281611,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1747,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 819976,
+      "num": 643053,
+      "word": "Jennie去爬山了",
+      "onboard_time": 1686895948,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817302,
       "num": 817302,
       "word": "张雨绮说699我都买不了袜子",
@@ -2275,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 578859,
+      "num": 518330,
+      "word": "邓典果结婚",
+      "onboard_time": 1686892471,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578399,
       "num": 2077947,
       "word": "小伙骑共享单车5000公里到新疆",
@@ -2507,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502668,
+      "num": 359256,
+      "word": "李飞P图不严谨啊",
+      "onboard_time": 1686895768,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 500300,
       "num": 500300,
       "word": "李现出发米兰",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1686560789,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488282,
+      "num": 488282,
+      "word": "人体含水量最多的器官",
+      "onboard_time": 1686895829,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 487724,
@@ -2715,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 443680,
-      "num": 443680,
-      "word": "邓典果结婚",
-      "onboard_time": 1686892471,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443485,
       "num": 307296,
       "word": "LESSERAFIM将来广州开线下签售会",
@@ -2777,14 +2801,6 @@
       "onboard_time": 1686459988,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428358,
-      "num": 262594,
-      "word": "人体含水量最多的器官",
-      "onboard_time": 1686895829,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 427749,
@@ -3100,7 +3116,7 @@
     },
     {
       "raw_hot": 368957,
-      "num": 276406,
+      "num": 323626,
       "word": "李飞赚不完根本赚不完",
       "onboard_time": 1686893970,
       "rank": 22,
@@ -3212,7 +3228,7 @@
     },
     {
       "raw_hot": 357396,
-      "num": 276183,
+      "num": 323318,
       "word": "Angelababy秀身材",
       "onboard_time": 1686893791,
       "rank": 23,
@@ -3387,12 +3403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338644,
-      "num": 275787,
-      "word": "Jennie去爬山了",
-      "onboard_time": 1686895948,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 340289,
+      "num": 340289,
+      "word": "美64岁大学教授和牧羊犬发生性行为",
+      "onboard_time": 1686895768,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338273,
@@ -3763,14 +3779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313861,
-      "num": 237931,
-      "word": "李飞P图不严谨啊",
-      "onboard_time": 1686895768,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 313674,
       "num": 313674,
       "word": "扣饭事件学院称不清楚女生是否精神异常",
@@ -4124,7 +4132,7 @@
     },
     {
       "raw_hot": 284754,
-      "num": 183543,
+      "num": 228242,
       "word": "吴优淘汰谢娜大哭",
       "onboard_time": 1686894629,
       "rank": 40,
@@ -4724,7 +4732,7 @@
     },
     {
       "raw_hot": 253766,
-      "num": 182223,
+      "num": 228915,
       "word": "TFBOYS快闪活动",
       "onboard_time": 1686893733,
       "rank": 41,
@@ -4987,6 +4995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243370,
+      "num": 229279,
+      "word": "杨和苏去婚礼走错地方",
+      "onboard_time": 1686895169,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243272,
       "num": 243272,
       "word": "神的骑士礼",
@@ -5105,14 +5121,6 @@
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239060,
-      "num": 239060,
-      "word": "美64岁大学教授和牧羊犬发生性行为",
-      "onboard_time": 1686895768,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238786,
@@ -5427,6 +5435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227295,
+      "num": 227295,
+      "word": "比尔盖茨",
+      "onboard_time": 1686887375,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 227286,
       "num": 227286,
       "word": "夏天来姨妈能有多痛苦",
@@ -5563,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224411,
+      "num": 221332,
+      "word": "曾可妮一只眼睛翻白眼",
+      "onboard_time": 1686896609,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224264,
       "num": 224264,
       "word": "偷偷藏不住",
@@ -5667,14 +5691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220129,
-      "num": 180747,
-      "word": "杨和苏去婚礼走错地方",
-      "onboard_time": 1686895169,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220041,
       "num": 220041,
       "word": "闪电侠",
@@ -5745,6 +5761,22 @@
       "onboard_time": 1686540568,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218267,
+      "num": 218267,
+      "word": "青鸟",
+      "onboard_time": 1686896970,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217685,
+      "num": 214694,
+      "word": "到底是谁惹了六公主",
+      "onboard_time": 1686896849,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 217579,
@@ -5865,6 +5897,14 @@
       "onboard_time": 1686758427,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214704,
+      "num": 214704,
+      "word": "被Uzi的评论区整破防了",
+      "onboard_time": 1686896609,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 214621,
@@ -5995,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211530,
+      "num": 211530,
+      "word": "伍佰的一半",
+      "onboard_time": 1686896970,
+      "rank": 45,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 211233,
       "num": 211233,
       "word": "王一博GT3赛车初体验",
@@ -6121,14 +6169,6 @@
       "onboard_time": 1686581191,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207870,
-      "num": 207870,
-      "word": "比尔盖茨",
-      "onboard_time": 1686887375,
-      "rank": 46,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 207320,
@@ -11155,6 +11195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38037,
+      "num": 522777,
+      "word": "48岁女医生辞世捐器官救3人",
+      "onboard_time": 1686895227,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36314,
       "num": 36314,
       "word": "HYBE新女团选秀主题曲",
@@ -11225,14 +11273,6 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31248,
-      "num": 520244,
-      "word": "48岁女医生辞世捐器官救3人",
-      "onboard_time": 1686895227,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30771,
