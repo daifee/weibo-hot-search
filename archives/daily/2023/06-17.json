@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686953753960,
+  "endTime": 1686954802390,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131968,
+      "num": 58446,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110674,
       "num": 154438,
       "word": "国足4比0战胜缅甸队",
@@ -385,14 +393,6 @@
       "onboard_time": 1686935719,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79583,
-      "num": 43412,
-      "word": "村民鸡窝中发现鸟皇后",
-      "onboard_time": 1686949152,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74193,
@@ -443,20 +443,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37632,
+      "num": 46055,
+      "word": "蔡徐坤专辑",
+      "onboard_time": 1686817409,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32692,
       "num": 51753,
       "word": "张靓颖的马甲线",
       "onboard_time": 1686938598,
       "rank": 44,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 28751,
-      "num": 46055,
-      "word": "蔡徐坤专辑",
-      "onboard_time": 1686817409,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 27755,
