@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686921623660,
+  "endTime": 1686922420043,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1227,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1157828,
+      "num": 334513,
+      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+      "onboard_time": 1686918148,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1155594,
       "num": 1155594,
       "word": "德国同学把我的剩饭吃了",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1686570389,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1128761,
-      "num": 317081,
-      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
-      "onboard_time": 1686918148,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118116,
@@ -1547,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990750,
+      "num": 319560,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 987949,
       "num": 987949,
       "word": "黄晓明生图",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1686614549,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 899529,
-      "num": 287576,
-      "word": "曝一高校女寝空调限时男寝全天使用",
-      "onboard_time": 1686914609,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 896426,
@@ -2363,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 610115,
+      "num": 610115,
+      "word": "难哄",
+      "onboard_time": 1686916287,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 609366,
       "num": 609366,
       "word": "权志龙又买房了",
@@ -2465,14 +2473,6 @@
       "onboard_time": 1686892471,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578483,
-      "num": 578483,
-      "word": "难哄",
-      "onboard_time": 1686916287,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 578399,
@@ -2979,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439922,
+      "num": 276533,
+      "word": "王一博再戴麦穗胸针",
+      "onboard_time": 1686917127,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439314,
       "num": 439314,
       "word": "一直娱",
@@ -3091,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 413091,
-      "num": 276533,
-      "word": "王一博再戴麦穗胸针",
-      "onboard_time": 1686917127,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411467,
       "num": 411467,
       "word": "梅西见面会取消",
@@ -3129,6 +3129,14 @@
       "onboard_time": 1686885333,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 407136,
+      "num": 407136,
+      "word": "为暗恋对象做了200页PPT",
+      "onboard_time": 1686917426,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 405989,
@@ -3209,6 +3217,14 @@
       "onboard_time": 1686915206,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 399557,
+      "num": 399557,
+      "word": "国足4比0战胜缅甸队",
+      "onboard_time": 1686920068,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 395000,
@@ -3443,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361898,
-      "num": 361898,
-      "word": "为暗恋对象做了200页PPT",
-      "onboard_time": 1686917426,
-      "rank": 24,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 361054,
       "num": 361054,
       "word": "护心",
@@ -3465,6 +3473,14 @@
       "onboard_time": 1686870500,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 360593,
+      "num": 212768,
+      "word": "内娱还会有第二个TFBOYS吗",
+      "onboard_time": 1686919828,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 359441,
@@ -3843,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327283,
+      "num": 191262,
+      "word": "肖春生佟晓梅终于结婚了",
+      "onboard_time": 1686921269,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327114,
       "num": 234460,
       "word": "王一博情绪主题视频",
@@ -3961,6 +3985,14 @@
       "onboard_time": 1686539009,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 320547,
+      "num": 184318,
+      "word": "秋瓷炫 我不是不要脸",
+      "onboard_time": 1686922169,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 320184,
@@ -4251,28 +4283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300694,
-      "num": 300694,
-      "word": "国足4比0战胜缅甸队",
-      "onboard_time": 1686920068,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298145,
       "num": 298145,
       "word": "护心做到了有始有终",
       "onboard_time": 1686572127,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297216,
-      "num": 212768,
-      "word": "内娱还会有第二个TFBOYS吗",
-      "onboard_time": 1686919828,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 295558,
@@ -5059,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255560,
+      "num": 174197,
+      "word": "aespa演唱会",
+      "onboard_time": 1686921869,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255546,
       "num": 255546,
       "word": "姆巴佩去哪",
@@ -5201,6 +5225,14 @@
       "onboard_time": 1686751113,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250637,
+      "num": 173342,
+      "word": "小朋友上幼儿园演我上班",
+      "onboard_time": 1686922289,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 250179,
@@ -5795,6 +5827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228668,
+      "num": 196169,
+      "word": "骆歆身在艾欧尼亚心在德玛",
+      "onboard_time": 1686921388,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228493,
       "num": 228493,
       "word": "钟文泽MacBookAir15评测",
@@ -5947,6 +5987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225965,
+      "num": 172085,
+      "word": "无穷小亮在旅途中拍到的震撼景色",
+      "onboard_time": 1686922048,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 225863,
       "num": 190288,
       "word": "还以为肖战夹着皮包",
@@ -6057,6 +6105,14 @@
       "onboard_time": 1686712530,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223302,
+      "num": 180239,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 223191,
@@ -6611,6 +6667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209081,
+      "num": 156507,
+      "word": "马伯骞并非难哄桑延选角",
+      "onboard_time": 1686921090,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209079,
       "num": 209079,
       "word": "迪丽热巴红毯赶蚊子",
@@ -6753,6 +6817,14 @@
       "onboard_time": 1686792447,
       "rank": 29,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 204757,
+      "num": 154582,
+      "word": "重启人生登陆内地黄金档",
+      "onboard_time": 1686921750,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 204735,
@@ -7043,14 +7115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199455,
-      "num": 180239,
-      "word": "当丈夫说妻子在家啥也不干",
-      "onboard_time": 1686918868,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 199394,
       "num": 199394,
       "word": "全网找寻京A8852",
@@ -7131,12 +7195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198246,
-      "num": 156523,
-      "word": "肖春生佟晓梅终于结婚了",
-      "onboard_time": 1686921269,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 198174,
+      "num": 156521,
+      "word": "李马克剪头发了",
+      "onboard_time": 1686921569,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 198147,
@@ -7571,14 +7635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190552,
-      "num": 156521,
-      "word": "李马克剪头发了",
-      "onboard_time": 1686921569,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190270,
       "num": 190270,
       "word": "吃完西瓜感觉自己像榨汁机",
@@ -7857,14 +7913,6 @@
       "onboard_time": 1686882808,
       "rank": 46,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 187492,
-      "num": 156507,
-      "word": "马伯骞并非难哄桑延选角",
-      "onboard_time": 1686921090,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 187369,
@@ -10347,14 +10395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134565,
-      "num": 156572,
-      "word": "骆歆身在艾欧尼亚心在德玛",
-      "onboard_time": 1686921388,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134474,
       "num": 134474,
       "word": "AL上野",
@@ -11635,18 +11675,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95035,
-      "num": 107330,
-      "word": "以为很显眼没想到是显眼包",
-      "onboard_time": 1686568948,
+      "raw_hot": 95572,
+      "num": 156446,
+      "word": "长期不社交什么体验",
+      "onboard_time": 1686917426,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 93894,
-      "num": 156446,
-      "word": "长期不社交什么体验",
-      "onboard_time": 1686917426,
+      "raw_hot": 95035,
+      "num": 107330,
+      "word": "以为很显眼没想到是显眼包",
+      "onboard_time": 1686568948,
       "rank": 48,
       "category": "幽默"
     },
@@ -11928,6 +11968,14 @@
       "word": "蓝天碧水间官兵巡逻画面美如画",
       "onboard_time": 1686669870,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68215,
+      "num": 291082,
+      "word": "袁隆平推广到非洲的杂交稻收割了",
+      "onboard_time": 1686920429,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -12271,14 +12319,6 @@
       "num": 522777,
       "word": "48岁女医生辞世捐器官救3人",
       "onboard_time": 1686895227,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36413,
-      "num": 267470,
-      "word": "袁隆平推广到非洲的杂交稻收割了",
-      "onboard_time": 1686920429,
       "rank": 14,
       "category": "社会新闻"
     },
