@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686906979306,
+  "endTime": 1686908025183,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1396175,
+      "num": 1256102,
+      "word": "嗯哼 追星成功太开心啦",
+      "onboard_time": 1686902309,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1349192,
       "num": 980089,
       "word": "球迷冲进球场抱梅西",
@@ -177,14 +185,6 @@
       "onboard_time": 1686898769,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1256102,
-      "num": 1256102,
-      "word": "嗯哼 追星成功太开心啦",
-      "onboard_time": 1686902309,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1247195,
@@ -275,6 +275,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 954346,
+      "num": 954346,
+      "word": "杜江问梅西嗯哼的签名照是真迹吗",
+      "onboard_time": 1686906508,
+      "rank": 14,
+      "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 921984,
+      "num": 573094,
+      "word": "郭碧婷穿衣风格向太化",
+      "onboard_time": 1686905730,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823736,
       "num": 419948,
       "word": "就差杨幂了",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 752798,
-      "num": 427338,
+      "num": 545268,
       "word": "6女生写信控诉上大一研究生性剥削",
       "onboard_time": 1686899970,
       "rank": 28,
@@ -497,14 +513,6 @@
       "onboard_time": 1686884794,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401401,
-      "num": 299571,
-      "word": "郭碧婷穿衣风格向太化",
-      "onboard_time": 1686905730,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 388734,
@@ -737,14 +745,6 @@
       "onboard_time": 1686813986,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301240,
-      "num": 301240,
-      "word": "杜江问梅西嗯哼的签名照是真迹吗",
-      "onboard_time": 1686906508,
-      "rank": 14,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 297648,
@@ -995,6 +995,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 241947,
+      "num": 241947,
+      "word": "孙女辞职带患癌爷爷4年花10万游9省",
+      "onboard_time": 1686904948,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 239882,
       "num": 239882,
       "word": "Uzi获得亚洲荣誉选手",
@@ -1059,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227726,
-      "num": 227726,
-      "word": "孙女辞职带患癌爷爷4年花10万游9省",
-      "onboard_time": 1686904948,
-      "rank": 19,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 227295,
       "num": 227295,
       "word": "比尔盖茨",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1686880468,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226578,
+      "num": 198198,
+      "word": "和神仙公司续签了5年合同",
+      "onboard_time": 1686907107,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 225174,
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 217328,
-      "num": 179731,
+      "num": 180152,
       "word": "唐嫣演出古代才女的竹韵风骨",
       "onboard_time": 1686903088,
       "rank": 40,
@@ -1299,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201362,
+      "num": 201362,
+      "word": "EDG惜败欧洲第一TL",
+      "onboard_time": 1686906568,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201040,
       "num": 201040,
       "word": "宋丹丹邀桃花坞成员大聚会",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1686905308,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196868,
+      "num": 196868,
+      "word": "TES战胜LGD",
+      "onboard_time": 1686907288,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 196759,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1686875368,
       "rank": 33,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 189159,
-      "num": 189159,
-      "word": "EDG惜败欧洲第一TL",
-      "onboard_time": 1686906568,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 187551,
@@ -1659,6 +1675,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 166265,
+      "num": 166265,
+      "word": "voba",
+      "onboard_time": 1686907288,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "赶时间的人也有诗和远方",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1686883593,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 157005,
+      "num": 157005,
+      "word": "女子举牌烈日下站6小时求复婚",
+      "onboard_time": 1686907647,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156044,
@@ -1787,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139809,
+      "num": 139809,
+      "word": "谁是大多数",
+      "onboard_time": 1686907588,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137574,
       "num": 221856,
       "word": "他用一颗糖丸让国人难以忘怀",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1686848300,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 126538,
+      "num": 126538,
+      "word": "张雪峰称选专业要选适合自己的",
+      "onboard_time": 1686908008,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125963,
@@ -2043,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53684,
+      "num": 1311832,
+      "word": "杭州亚运村内部功能区首次公开亮相",
+      "onboard_time": 1686905308,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43847,
       "num": 2693972,
       "word": "博士乘组在轨工作画面",
@@ -2081,14 +2137,6 @@
       "onboard_time": 1686850457,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23839,
-      "num": 1311832,
-      "word": "杭州亚运村内部功能区首次公开亮相",
-      "onboard_time": 1686905308,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 23555,
