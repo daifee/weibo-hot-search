@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686880618348,
+  "endTime": 1686883332551,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -17,6 +17,14 @@
       "onboard_time": 1686697641,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 6136229,
+      "num": 6136229,
+      "word": "TFBOYS十年之约演唱会官宣",
+      "onboard_time": 1686882328,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 5188720,
@@ -1059,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1125227,
+      "num": 440335,
+      "word": "向佐郭碧婷为二胎儿子办周岁宴",
+      "onboard_time": 1686881127,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1118116,
       "num": 1118116,
       "word": "为什么夏天都不穿凉鞋了",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1686699505,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1063132,
+      "num": 1063132,
+      "word": "袁弘 搞到梅西to签",
+      "onboard_time": 1686879329,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1062866,
@@ -1907,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713784,
+      "num": 713784,
+      "word": "私人山庄遭网红闯入并渲染成鬼屋",
+      "onboard_time": 1686880708,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707420,
       "num": 509116,
       "word": "员工入职一个半月怀孕了",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 682767,
-      "num": 682767,
-      "word": "袁弘 搞到梅西to签",
-      "onboard_time": 1686879329,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 668496,
@@ -2123,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 582306,
+      "num": 321412,
+      "word": "考公上岸后被同学删了微信",
+      "onboard_time": 1686875007,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 582046,
       "num": 683098,
       "word": "苏炳添决定不参加世锦赛和亚运会",
@@ -2241,14 +2273,6 @@
       "onboard_time": 1686798566,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 556133,
-      "num": 321412,
-      "word": "考公上岸后被同学删了微信",
-      "onboard_time": 1686875007,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 555618,
@@ -3315,6 +3339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324675,
+      "num": 324675,
+      "word": "古偶四大白发",
+      "onboard_time": 1686877468,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324651,
       "num": 324651,
       "word": "掘金主场球迷大骂裁判",
@@ -3547,20 +3579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303976,
-      "num": 303976,
-      "word": "古偶四大白发",
-      "onboard_time": 1686877468,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303837,
       "num": 303837,
       "word": "黄仁俊七月封面",
       "onboard_time": 1686556891,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303116,
+      "num": 213584,
+      "word": "王一博情绪主题视频",
+      "onboard_time": 1686882990,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 302652,
@@ -4851,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229319,
+      "num": 229319,
+      "word": "主人真的很宠它 它也是真的很蠢",
+      "onboard_time": 1686880048,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 228493,
       "num": 228493,
       "word": "钟文泽MacBookAir15评测",
@@ -5339,6 +5379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214319,
+      "num": 214319,
+      "word": "戳爷问怎么接近黄铉辰",
+      "onboard_time": 1686881187,
+      "rank": 28,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 214277,
       "num": 214277,
       "word": "李承铉听到Lucky会和男生抱抱的反应",
@@ -5353,6 +5401,14 @@
       "onboard_time": 1686729627,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213935,
+      "num": 213935,
+      "word": "贺红玲给肖春生佟晓梅随礼",
+      "onboard_time": 1686881907,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 213894,
@@ -5393,14 +5449,6 @@
       "onboard_time": 1686817828,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212909,
-      "num": 212909,
-      "word": "主人真的很宠它 它也是真的很蠢",
-      "onboard_time": 1686880048,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 212402,
@@ -5883,6 +5931,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 199804,
+      "num": 199804,
+      "word": "为啥理发店没有女理发师",
+      "onboard_time": 1686882689,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199773,
       "num": 199773,
       "word": "范丞丞拉着Angelababy挥手",
@@ -5960,6 +6016,14 @@
       "word": "肖春生自证清白",
       "onboard_time": 1686741449,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198123,
+      "num": 198123,
+      "word": "迪丽热巴冷脸vs笑脸",
+      "onboard_time": 1686883051,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -6521,6 +6585,14 @@
       "onboard_time": 1686750930,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 187810,
+      "num": 187810,
+      "word": "我当不了站姐的原因",
+      "onboard_time": 1686880828,
+      "rank": 37,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 187369,
@@ -7131,6 +7203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170197,
+      "num": 170197,
+      "word": "好多明星去看了梅西比赛",
+      "onboard_time": 1686882990,
+      "rank": 39,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 169672,
       "num": 169672,
       "word": "WBG翻盘LGD",
@@ -7328,6 +7408,14 @@
       "word": "宁艺卓到达青岛说我来啦",
       "onboard_time": 1686630092,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164137,
+      "num": 164137,
+      "word": "向往的生活",
+      "onboard_time": 1686882389,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -7601,6 +7689,14 @@
       "onboard_time": 1686660267,
       "rank": 31,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 157477,
+      "num": 396404,
+      "word": "蛋仔派对一周年",
+      "onboard_time": 1686880828,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 157048,
@@ -8097,6 +8193,14 @@
       "onboard_time": 1686812846,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146009,
+      "num": 146009,
+      "word": "严浩翔换新发型",
+      "onboard_time": 1686882808,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 146001,
@@ -8849,6 +8953,14 @@
       "onboard_time": 1686620008,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 129268,
+      "num": 129268,
+      "word": "摄影师记录下的被豹子发现后",
+      "onboard_time": 1686882928,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128975,
