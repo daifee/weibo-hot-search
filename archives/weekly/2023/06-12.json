@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686892557655,
+  "endTime": 1686893618354,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1507,6 +1507,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 904540,
+      "num": 684808,
+      "word": "张元英穿了中国粉丝送的裙子",
+      "onboard_time": 1686891336,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903926,
       "num": 796132,
       "word": "SEVENTEEN要来广州开签售会",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1686466886,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 813206,
+      "num": 813206,
+      "word": "新闻学教授怒怼张雪峰",
+      "onboard_time": 1686891515,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 812674,
@@ -2587,6 +2603,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 471593,
+      "num": 284618,
+      "word": "TFBOYS公式照",
+      "onboard_time": 1686892591,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470214,
       "num": 470214,
       "word": "肖战菠萝错位图",
@@ -2659,14 +2683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455736,
-      "num": 311852,
-      "word": "张元英穿了中国粉丝送的裙子",
-      "onboard_time": 1686891336,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 455500,
       "num": 455500,
       "word": "家属回应女子被丈夫跨省杀害",
@@ -2697,14 +2713,6 @@
       "onboard_time": 1686832045,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 450069,
-      "num": 450069,
-      "word": "新闻学教授怒怼张雪峰",
-      "onboard_time": 1686891515,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 443485,
@@ -2761,6 +2769,14 @@
       "onboard_time": 1686459988,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429147,
+      "num": 269024,
+      "word": "邓典果结婚",
+      "onboard_time": 1686892471,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 427749,
@@ -3331,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341434,
+      "num": 272886,
+      "word": "女儿高考完提出3个要求妈妈崩溃",
+      "onboard_time": 1686892293,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338273,
       "num": 338273,
       "word": "四川省长称帮一把没找到工作的孩子",
@@ -3793,6 +3817,14 @@
       "onboard_time": 1686544298,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 301665,
+      "num": 259634,
+      "word": "夏日入侵企画",
+      "onboard_time": 1686893131,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 301637,
@@ -4323,14 +4355,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 263450,
-      "num": 263450,
-      "word": "女儿高考完提出3个要求妈妈崩溃",
-      "onboard_time": 1686892293,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262906,
       "num": 262906,
       "word": "九尾直播",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1686834686,
       "rank": 26,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 257634,
+      "num": 241348,
+      "word": "美依礼芽个人喜爱度第一",
+      "onboard_time": 1686892414,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 257483,
@@ -4931,6 +4963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239882,
+      "num": 239882,
+      "word": "Uzi获得亚洲荣誉选手",
+      "onboard_time": 1686893191,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239783,
       "num": 239783,
       "word": "谢娜 这几步走得也太帅了吧",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1686724947,
       "rank": 29,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 236896,
+      "num": 209992,
+      "word": "杨颖cos卖崽青蛙",
+      "onboard_time": 1686892591,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 236704,
@@ -6099,14 +6147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203560,
-      "num": 203560,
-      "word": "邓典果结婚",
-      "onboard_time": 1686892471,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203477,
       "num": 203477,
       "word": "开心吧麻花官宣定档",
@@ -6283,6 +6323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200160,
+      "num": 200160,
+      "word": "梅西回应到中国大部分时间待在酒店",
+      "onboard_time": 1686892591,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 200157,
       "num": 200157,
       "word": "玲娜贝儿跳刘宇洗衣舞",
@@ -6371,14 +6419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199037,
-      "num": 199037,
-      "word": "美依礼芽个人喜爱度第一",
-      "onboard_time": 1686892414,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198402,
       "num": 198402,
       "word": "玛格丽特别放盐",
@@ -6451,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196459,
+      "num": 193227,
+      "word": "大张伟不知道王者荣耀",
+      "onboard_time": 1686888454,
+      "rank": 41,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 196330,
       "num": 196330,
       "word": "WBG失误",
@@ -6489,6 +6537,14 @@
       "onboard_time": 1686821067,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194913,
+      "num": 194913,
+      "word": "民警连雪豹也敢救",
+      "onboard_time": 1686893372,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194813,
@@ -6675,6 +6731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191602,
+      "num": 191602,
+      "word": "警方上门调解儿媳穿短裤被打事件",
+      "onboard_time": 1686892650,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "法网决赛",
@@ -6697,6 +6761,14 @@
       "onboard_time": 1686717576,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191182,
+      "num": 191182,
+      "word": "疯狂元素城",
+      "onboard_time": 1686655827,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 191181,
@@ -7153,6 +7225,14 @@
       "onboard_time": 1686886112,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184311,
+      "num": 184311,
+      "word": "雪豹被卡围栏民警先投喂再救豹",
+      "onboard_time": 1686893191,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184154,
@@ -7745,6 +7825,14 @@
       "onboard_time": 1686719194,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167333,
+      "num": 177922,
+      "word": "公司的下午茶能有多炸裂",
+      "onboard_time": 1686892712,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 167204,
@@ -8849,14 +8937,6 @@
       "onboard_time": 1686654029,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141322,
-      "num": 141322,
-      "word": "疯狂元素城",
-      "onboard_time": 1686655827,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 141223,

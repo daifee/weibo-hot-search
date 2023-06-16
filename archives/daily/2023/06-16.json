@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686892557655,
+  "endTime": 1686893618354,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -187,6 +187,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 904540,
+      "num": 684808,
+      "word": "张元英穿了中国粉丝送的裙子",
+      "onboard_time": 1686891336,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 813206,
+      "num": 813206,
+      "word": "新闻学教授怒怼张雪峰",
+      "onboard_time": 1686891515,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 762880,
       "num": 407081,
       "word": "女导游穿紧身裤被质疑是色情营销",
@@ -307,20 +323,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471593,
+      "num": 284618,
+      "word": "TFBOYS公式照",
+      "onboard_time": 1686892591,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 458287,
       "num": 330323,
       "word": "鹿晗演唱会重庆站定档",
       "onboard_time": 1686888513,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 455736,
-      "num": 311852,
-      "word": "张元英穿了中国粉丝送的裙子",
-      "onboard_time": 1686891336,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 454494,
@@ -339,12 +355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 450069,
-      "num": 450069,
-      "word": "新闻学教授怒怼张雪峰",
-      "onboard_time": 1686891515,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 429147,
+      "num": 269024,
+      "word": "邓典果结婚",
+      "onboard_time": 1686892471,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 427749,
@@ -483,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 341434,
+      "num": 272886,
+      "word": "女儿高考完提出3个要求妈妈崩溃",
+      "onboard_time": 1686892293,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327114,
       "num": 234460,
       "word": "王一博情绪主题视频",
@@ -537,6 +561,14 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301665,
+      "num": 259634,
+      "word": "夏日入侵企画",
+      "onboard_time": 1686893131,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 301391,
@@ -603,14 +635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 263450,
-      "num": 263450,
-      "word": "女儿高考完提出3个要求妈妈崩溃",
-      "onboard_time": 1686892293,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263296,
       "num": 263296,
       "word": "卖杏老人儿子望偷拿女子澄清或道歉",
@@ -649,6 +673,14 @@
       "onboard_time": 1686886592,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 257634,
+      "num": 241348,
+      "word": "美依礼芽个人喜爱度第一",
+      "onboard_time": 1686892414,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 252603,
@@ -723,12 +755,28 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 239882,
+      "num": 239882,
+      "word": "Uzi获得亚洲荣誉选手",
+      "onboard_time": 1686893191,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239284,
       "num": 239284,
       "word": "冲进球场抱梅西球迷回应",
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236896,
+      "num": 209992,
+      "word": "杨颖cos卖崽青蛙",
+      "onboard_time": 1686892591,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 235885,
@@ -899,14 +947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203560,
-      "num": 203560,
-      "word": "邓典果结婚",
-      "onboard_time": 1686892471,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202989,
       "num": 202989,
       "word": "野挺有趣今日开播",
@@ -939,12 +979,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199037,
-      "num": 199037,
-      "word": "美依礼芽个人喜爱度第一",
-      "onboard_time": 1686892414,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 200160,
+      "num": 200160,
+      "word": "梅西回应到中国大部分时间待在酒店",
+      "onboard_time": 1686892591,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 198378,
@@ -963,12 +1003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196459,
+      "num": 193227,
+      "word": "大张伟不知道王者荣耀",
+      "onboard_time": 1686888454,
+      "rank": 41,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 196001,
       "num": 196001,
       "word": "猪小肠做的苦肠肉粽",
       "onboard_time": 1686883713,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194913,
+      "num": 194913,
+      "word": "民警连雪豹也敢救",
+      "onboard_time": 1686893372,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194614,
@@ -991,6 +1047,22 @@
       "num": 199114,
       "word": "雪鹰领主今日定档",
       "onboard_time": 1686891515,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191602,
+      "num": 191602,
+      "word": "警方上门调解儿媳穿短裤被打事件",
+      "onboard_time": 1686892650,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191182,
+      "num": 191182,
+      "word": "疯狂元素城",
+      "onboard_time": 1686893310,
       "rank": 43,
       "category": "影视"
     },
@@ -1041,6 +1113,14 @@
       "onboard_time": 1686886112,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184311,
+      "num": 184311,
+      "word": "雪豹被卡围栏民警先投喂再救豹",
+      "onboard_time": 1686893191,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182893,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1686882990,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 167333,
+      "num": 177922,
+      "word": "公司的下午茶能有多炸裂",
+      "onboard_time": 1686892712,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 165785,
