@@ -1,0 +1,410 @@
+{
+  "runTime": 1686906979306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1948501,
+        "num": 1948501,
+        "word": "梅西回应到中国大部分时间待在酒店",
+        "onboard_time": 1686892591,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1447639,
+        "num": 1447639,
+        "word": "吴倩方晒出院记录",
+        "onboard_time": 1686899367,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23839,
+        "num": 1311832,
+        "word": "杭州亚运村内部功能区首次公开亮相",
+        "onboard_time": 1686905308,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1274887,
+        "num": 1274887,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1256102,
+        "num": 1256102,
+        "word": "嗯哼 追星成功太开心啦",
+        "onboard_time": 1686902309,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1222029,
+        "num": 1222029,
+        "word": "偷偷藏不住定档",
+        "onboard_time": 1686898769,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1086414,
+        "num": 1086414,
+        "word": "李飞P图不严谨啊",
+        "onboard_time": 1686895768,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 795521,
+        "num": 795521,
+        "word": "新闻学教授怒怼张雪峰",
+        "onboard_time": 1686891515,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 617723,
+        "num": 617723,
+        "word": "交警买网红青蛙小青蛙不让付钱",
+        "onboard_time": 1686887617,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362848,
+        "num": 362848,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 839536,
+        "num": 360399,
+        "word": "Jennie去爬山了",
+        "onboard_time": 1686895948,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796574,
+        "num": 344781,
+        "word": "TFBOYS公式照",
+        "onboard_time": 1686892591,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 698405,
+        "num": 329508,
+        "word": "6女生写信控诉上大一研究生性剥削",
+        "onboard_time": 1686899970,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 652863,
+        "num": 315764,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301240,
+        "num": 301240,
+        "word": "杜江问梅西嗯哼的签名照是真迹吗",
+        "onboard_time": 1686906508,
+        "rank": 14,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 401401,
+        "num": 299571,
+        "word": "郭碧婷穿衣风格向太化",
+        "onboard_time": 1686905730,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267625,
+        "num": 267625,
+        "word": "凌晨被室友在宿舍群里艾特",
+        "onboard_time": 1686899128,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366964,
+        "num": 267241,
+        "word": "向佐郭碧婷为二胎儿子办周岁宴",
+        "onboard_time": 1686881127,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265889,
+        "num": 265889,
+        "word": "EDG康康五杀",
+        "onboard_time": 1686904649,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227726,
+        "num": 227726,
+        "word": "孙女辞职带患癌爷爷4年花10万游9省",
+        "onboard_time": 1686904948,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 154063,
+        "num": 227486,
+        "word": "阿玛尼粉底液",
+        "onboard_time": 1686904770,
+        "rank": 20,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 623433,
+        "num": 226416,
+        "word": "人体含水量最多的器官",
+        "onboard_time": 1686895829,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 532095,
+        "num": 224046,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377766,
+        "num": 223586,
+        "word": "洞洞鞋的正确洗脚方法",
+        "onboard_time": 1686905730,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137574,
+        "num": 221856,
+        "word": "他用一颗糖丸让国人难以忘怀",
+        "onboard_time": 1686905730,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347043,
+        "num": 221275,
+        "word": "我老了追易烊千玺的样子",
+        "onboard_time": 1686884192,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290055,
+        "num": 219445,
+        "word": "邓典果结婚",
+        "onboard_time": 1686892471,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283184,
+        "num": 218459,
+        "word": "就差杨幂了",
+        "onboard_time": 1686897689,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270468,
+        "num": 217620,
+        "word": "鹿晗北京站出座位了",
+        "onboard_time": 1686905730,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256993,
+        "num": 215696,
+        "word": "张元英穿了中国粉丝送的裙子",
+        "onboard_time": 1686891336,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240968,
+        "num": 214880,
+        "word": "Angelababy欧阳娜娜金靖上海夜骑",
+        "onboard_time": 1686903510,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214057,
+        "num": 214057,
+        "word": "黄晓明提问比尔盖茨",
+        "onboard_time": 1686906207,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 201773,
+        "num": 201773,
+        "word": "东方神起 TMEA",
+        "onboard_time": 1686905969,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209486,
+        "num": 201219,
+        "word": "黄晓明油过没丑过",
+        "onboard_time": 1686888333,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200580,
+        "num": 200580,
+        "word": "高校一干部不正当男女关系被抓现行",
+        "onboard_time": 1686894389,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197302,
+        "num": 197302,
+        "word": "刘雅瑟喝水vs张嘉倪喝水",
+        "onboard_time": 1686905308,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194135,
+        "num": 194135,
+        "word": "偷偷藏不住",
+        "onboard_time": 1686905489,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194034,
+        "num": 194034,
+        "word": "没十年功力都做不出这火锅",
+        "onboard_time": 1686906027,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191040,
+        "num": 191040,
+        "word": "小孩子的创作力无需训练",
+        "onboard_time": 1686906089,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23555,
+        "num": 189465,
+        "word": "618直播闪降节爆款降到底",
+        "onboard_time": 1686906027,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189159,
+        "num": 189159,
+        "word": "EDG惜败欧洲第一TL",
+        "onboard_time": 1686906568,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188074,
+        "num": 188074,
+        "word": "吴倩退出乘风",
+        "onboard_time": 1686889777,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187723,
+        "num": 187723,
+        "word": "女儿高考完提出3个要求妈妈崩溃",
+        "onboard_time": 1686892293,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185133,
+        "num": 185133,
+        "word": "TFBOYS13年vs23年",
+        "onboard_time": 1686899728,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181400,
+        "num": 181400,
+        "word": "杨和苏去婚礼走错地方",
+        "onboard_time": 1686895169,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173245,
+        "num": 181066,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180889,
+        "num": 180889,
+        "word": "赵露思马伯骞新剧演兄妹",
+        "onboard_time": 1686903990,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179731,
+        "num": 179731,
+        "word": "唐嫣演出古代才女的竹韵风骨",
+        "onboard_time": 1686903088,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175794,
+        "num": 175794,
+        "word": "一看就很山西的喵片",
+        "onboard_time": 1686906327,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164182,
+        "num": 164182,
+        "word": "考科目二因为没开空调挂了",
+        "onboard_time": 1686903689,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比尔盖茨#"
+    }
+  }
+}
