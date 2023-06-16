@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686903635649,
+  "endTime": 1686904417029,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3035,6 +3035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1316286,
+      "num": 1316286,
+      "word": "偷偷藏不住定档",
+      "onboard_time": 1686898769,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1312984,
       "num": 1102461,
       "word": "杨幂IP地址在香港",
@@ -3049,14 +3057,6 @@
       "onboard_time": 1685800650,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1308607,
-      "num": 1308607,
-      "word": "偷偷藏不住定档",
-      "onboard_time": 1686898769,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 1308571,
@@ -4417,6 +4417,14 @@
       "onboard_time": 1686119252,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1046640,
+      "num": 1046640,
+      "word": "梅西回应到中国大部分时间待在酒店",
+      "onboard_time": 1686892591,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1045000,
@@ -6947,14 +6955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 697346,
-      "num": 697346,
-      "word": "梅西回应到中国大部分时间待在酒店",
-      "onboard_time": 1686892591,
-      "rank": 38,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 696926,
       "num": 696926,
       "word": "leave",
@@ -8537,6 +8537,14 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535715,
+      "num": 382110,
+      "word": "嗯哼 追星成功太开心啦",
+      "onboard_time": 1686902309,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 534577,
@@ -12113,14 +12121,6 @@
       "onboard_time": 1686885994,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348677,
-      "num": 348677,
-      "word": "嗯哼 追星成功太开心啦",
-      "onboard_time": 1686902309,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 348542,
@@ -16227,6 +16227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265233,
+      "num": 172148,
+      "word": "Angelababy欧阳娜娜金靖上海夜骑",
+      "onboard_time": 1686903510,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265187,
       "num": 265187,
       "word": "女子为拍照打卡被卷入海中不幸身亡",
@@ -18017,6 +18025,14 @@
       "onboard_time": 1686895169,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243370,
+      "num": 421627,
+      "word": "凌晨被室友在宿舍群里艾特",
+      "onboard_time": 1686899128,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 243272,
@@ -20523,6 +20539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217328,
+      "num": 133796,
+      "word": "唐嫣演出古代才女的竹韵风骨",
+      "onboard_time": 1686903088,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217303,
       "num": 217303,
       "word": "王鹤棣登泰趋",
@@ -21137,14 +21161,6 @@
       "onboard_time": 1686093624,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 211755,
-      "num": 133796,
-      "word": "唐嫣演出古代才女的竹韵风骨",
-      "onboard_time": 1686903088,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 211654,
@@ -22891,14 +22907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197374,
-      "num": 123501,
-      "word": "Angelababy欧阳娜娜金靖上海夜骑",
-      "onboard_time": 1686903510,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197166,
       "num": 197166,
       "word": "狼队选手发博告别1.0",
@@ -23105,6 +23113,14 @@
       "onboard_time": 1686740545,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195647,
+      "num": 129828,
+      "word": "赵露思马伯骞新剧演兄妹",
+      "onboard_time": 1686903990,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 195628,
@@ -23841,6 +23857,14 @@
       "onboard_time": 1686717576,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191192,
+      "num": 191192,
+      "word": "考科目二因为没开空调挂了",
+      "onboard_time": 1686903689,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 191189,
@@ -26299,6 +26323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172630,
+      "num": 172630,
+      "word": "结婚后工资要各花各的吗",
+      "onboard_time": 1686899488,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172623,
       "num": 172623,
       "word": "蜘蛛侠 面罩怎么装下头发的",
@@ -26401,14 +26433,6 @@
       "onboard_time": 1686122914,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171643,
-      "num": 171643,
-      "word": "结婚后工资要各花各的吗",
-      "onboard_time": 1686899488,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 171563,
@@ -26641,14 +26665,6 @@
       "onboard_time": 1686050666,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169353,
-      "num": 421627,
-      "word": "凌晨被室友在宿舍群里艾特",
-      "onboard_time": 1686899128,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 169330,
@@ -30931,6 +30947,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 131811,
+      "num": 131811,
+      "word": "分心驾驶致5死案家属质疑气囊全未弹",
+      "onboard_time": 1686904050,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131791,
       "num": 131791,
       "word": "周雨彤进组半熟男女",
@@ -31089,6 +31113,14 @@
       "onboard_time": 1686069982,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129761,
+      "num": 129761,
+      "word": "把自己重新养一遍",
+      "onboard_time": 1686903807,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129759,
@@ -32747,6 +32779,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 112121,
+      "num": 126158,
+      "word": "入职新人找我借钱怎么拒绝",
+      "onboard_time": 1686904050,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112105,
       "num": 112105,
       "word": "曝光大叔女子道歉后舆论为何未平息",
@@ -33537,6 +33577,14 @@
       "onboard_time": 1685816835,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100528,
+      "num": 125391,
+      "word": "学霸已经答题显眼包还在斗舞",
+      "onboard_time": 1686904408,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100474,
@@ -34899,6 +34947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69360,
+      "num": 428141,
+      "word": "送给爸爸的健康礼物",
+      "onboard_time": 1686901108,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 69232,
       "num": 72121,
       "word": "当她单膝跪地那一刻 男友忍不住大笑",
@@ -35227,6 +35283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62042,
+      "num": 136140,
+      "word": "全国首个公益小店微电影播出",
+      "onboard_time": 1686902430,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61812,
       "num": 167809,
       "word": "卡卡带中国小将圆梦欧冠",
@@ -35449,14 +35513,6 @@
       "onboard_time": 1685959288,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56878,
-      "num": 428141,
-      "word": "送给爸爸的健康礼物",
-      "onboard_time": 1686901108,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 56872,
@@ -35963,6 +36019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 40511,
+      "num": 425496,
+      "word": "想体验何穗的一天",
+      "onboard_time": 1686899849,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40170,
       "num": 409951,
       "word": "毕业季女生手工自制学士帽送室友",
@@ -36065,14 +36129,6 @@
       "onboard_time": 1686219574,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37047,
-      "num": 425496,
-      "word": "想体验何穗的一天",
-      "onboard_time": 1686899849,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 36949,
@@ -36264,14 +36320,6 @@
       "word": "中国航天员太空会师名场面再现",
       "onboard_time": 1685537908,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31668,
-      "num": 136140,
-      "word": "全国首个公益小店微电影播出",
-      "onboard_time": 1686902430,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
