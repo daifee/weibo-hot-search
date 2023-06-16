@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686915228805,
+  "endTime": 1686918837938,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -17,6 +17,14 @@
       "onboard_time": 1686913527,
       "rank": 3,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 3820111,
+      "num": 772212,
+      "word": "迪丽热巴真发了100多张自拍",
+      "onboard_time": 1686916707,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3503599,
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1238980,
+      "num": 398314,
+      "word": "向太",
+      "onboard_time": 1686912267,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1205566,
       "num": 1205566,
       "word": "海底捞回应8块钱生菜仅2片",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 1146770,
-      "num": 1146770,
+      "num": 1274804,
       "word": "黄晓明和宋慧乔演过情侣",
       "onboard_time": 1686909266,
       "rank": 31,
@@ -315,7 +331,7 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 893788,
+      "raw_hot": 904403,
       "num": 490328,
       "word": "上海大学一男生疑对多名女生精神控制",
       "onboard_time": 1686910708,
@@ -451,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 580708,
+      "num": 287576,
+      "word": "曝一高校女寝空调限时男寝全天使用",
+      "onboard_time": 1686914609,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 579699,
       "num": 579699,
       "word": "宁安如梦",
@@ -483,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527903,
+      "num": 297418,
+      "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+      "onboard_time": 1686918148,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509482,
       "num": 406702,
       "word": "TFBOYS要出新歌了吗",
       "onboard_time": 1686885274,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 498999,
+      "num": 244791,
+      "word": "原来近视是需要忌口的",
+      "onboard_time": 1686916768,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 490606,
@@ -531,12 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 433004,
-      "num": 398314,
-      "word": "向太",
-      "onboard_time": 1686912267,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 442180,
+      "num": 307667,
+      "word": "龚俊金晨一起吃烤肉",
+      "onboard_time": 1686912988,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 431240,
@@ -603,8 +643,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403150,
+      "num": 276533,
+      "word": "王一博再戴麦穗胸针",
+      "onboard_time": 1686917127,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399908,
-      "num": 285241,
+      "num": 306145,
       "word": "EDG赛前海报",
       "onboard_time": 1686915206,
       "rank": 30,
@@ -795,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319936,
-      "num": 307667,
-      "word": "龚俊金晨一起吃烤肉",
-      "onboard_time": 1686912988,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318155,
       "num": 318155,
       "word": "梅西过人好牛",
@@ -849,6 +889,14 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311002,
+      "num": 167375,
+      "word": "TFBOYS演唱会投票",
+      "onboard_time": 1686917848,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 302362,
@@ -913,14 +961,6 @@
       "onboard_time": 1686845127,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285544,
-      "num": 285544,
-      "word": "曝一高校女寝空调限时男寝全天使用",
-      "onboard_time": 1686914609,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 285185,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1686886592,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 257652,
+      "num": 160680,
+      "word": "难哄",
+      "onboard_time": 1686916287,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 257634,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1686914368,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231582,
+      "num": 160475,
+      "word": "花戎结局",
+      "onboard_time": 1686917848,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 229918,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1686892293,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202657,
+      "num": 145034,
+      "word": "法老抢到捧花",
+      "onboard_time": 1686915385,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 201937,
@@ -1803,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180538,
+      "num": 138725,
+      "word": "奔跑吧",
+      "onboard_time": 1686917365,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179713,
       "num": 119016,
       "word": "孟子义失恋找郭麒麟哭诉",
@@ -1931,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168827,
+      "num": 168827,
+      "word": "为暗恋对象做了200页PPT",
+      "onboard_time": 1686917426,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 167482,
       "num": 167482,
       "word": "看起来有点大病的朋友圈文案",
@@ -1993,6 +2073,14 @@
       "onboard_time": 1686883593,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160008,
+      "num": 160008,
+      "word": "00后奶爸抱双胞胎毕业获校长随礼",
+      "onboard_time": 1686915328,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157005,
@@ -2131,11 +2219,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146296,
+      "num": 146296,
+      "word": "在跳蚤市场买过最离谱的东西",
+      "onboard_time": 1686918268,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145316,
+      "num": 131667,
+      "word": "梦海主演周末齐聚央视",
+      "onboard_time": 1686918688,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144243,
       "num": 144243,
       "word": "没点文化都看不懂朋友圈了",
       "onboard_time": 1686911248,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143629,
+      "num": 143629,
+      "word": "学习了新的骂人方式",
+      "onboard_time": 1686918568,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -2203,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130646,
+      "num": 130646,
+      "word": "许红豆真是人间清醒",
+      "onboard_time": 1686918809,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129761,
       "num": 129761,
       "word": "把自己重新养一遍",
@@ -2225,6 +2345,14 @@
       "onboard_time": 1686848300,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 126911,
+      "num": 126911,
+      "word": "听听毕业生的心里话",
+      "onboard_time": 1686917907,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 126538,
@@ -2264,6 +2392,14 @@
       "word": "肖春生的菠萝头长大了",
       "onboard_time": 1686835826,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119909,
+      "num": 119909,
+      "word": "第20届电影频道传媒关注单元",
+      "onboard_time": 1686917365,
+      "rank": 49,
       "category": "影视"
     },
     {
