@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686957406092,
+  "endTime": 1686958441597,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -8907,6 +8907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518919,
+      "num": 518919,
+      "word": "你见过最完美的户型",
+      "onboard_time": 1686927329,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518254,
       "num": 518254,
       "word": "TFBOYS团徽三角没有封角",
@@ -9489,14 +9497,6 @@
       "onboard_time": 1686698603,
       "rank": 30,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 476663,
-      "num": 476663,
-      "word": "你见过最完美的户型",
-      "onboard_time": 1686927329,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 476617,
@@ -30107,6 +30107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148297,
+      "num": 103653,
+      "word": "王宝强八角笼中首波口碑",
+      "onboard_time": 1686957319,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148276,
       "num": 172001,
       "word": "临期食品为什么受欢迎",
@@ -30865,6 +30873,14 @@
       "onboard_time": 1686654029,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141241,
+      "num": 102763,
+      "word": "绝交视频是肖战拉着刘芮麟崔航拍的",
+      "onboard_time": 1686956958,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 141171,
@@ -32361,6 +32377,14 @@
       "onboard_time": 1685923047,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128126,
+      "num": 101585,
+      "word": "水哥家的生态系统有多惊人",
+      "onboard_time": 1686957439,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 127920,
@@ -34371,6 +34395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107280,
+      "num": 94628,
+      "word": "肖春生好懂佟晓梅",
+      "onboard_time": 1686956898,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "蜗牛是如何跨越沟壑的",
@@ -34513,6 +34545,14 @@
       "onboard_time": 1685643554,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104139,
+      "num": 104139,
+      "word": "男子带68岁父亲第一次走出农村",
+      "onboard_time": 1686956778,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104098,
@@ -34921,6 +34961,14 @@
       "onboard_time": 1686783680,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97890,
+      "num": 94304,
+      "word": "还是那个王一博",
+      "onboard_time": 1686957620,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 97753,
@@ -35859,6 +35907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75520,
+      "num": 75520,
+      "word": "过上了小说里的生活",
+      "onboard_time": 1686956838,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75169,
       "num": 238321,
       "word": "千万网友点赞宁波志愿奶奶",
@@ -35905,14 +35961,6 @@
       "onboard_time": 1686208413,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74001,
-      "num": 74001,
-      "word": "肖春生好懂佟晓梅",
-      "onboard_time": 1686956898,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 73780,
@@ -36267,6 +36315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67903,
+      "num": 67903,
+      "word": "徐志胜说话少是因为黄子韬不在",
+      "onboard_time": 1686958280,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67790,
       "num": 166763,
       "word": "解锁千年古镇新玩法",
@@ -36497,14 +36553,6 @@
       "onboard_time": 1686179359,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62263,
-      "num": 62263,
-      "word": "绝交视频是肖战拉着刘芮麟崔航拍的",
-      "onboard_time": 1686956958,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 62242,
@@ -36763,6 +36811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57005,
+      "num": 57005,
+      "word": "江苏一供电所开放院子给农民晒麦",
+      "onboard_time": 1686957378,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56872,
       "num": 942047,
       "word": "为2023届高考生祈福",
@@ -36817,6 +36873,14 @@
       "onboard_time": 1685699010,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55426,
+      "num": 55426,
+      "word": "钟辰乐泡泡",
+      "onboard_time": 1686958401,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 54962,
@@ -36931,6 +36995,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 51102,
+      "num": 55348,
+      "word": "跳桥救人小哥值得这些奖励",
+      "onboard_time": 1686958161,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51067,
       "num": 51067,
       "word": "新MacOS Sonoma",
@@ -36995,14 +37067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49237,
-      "num": 49237,
-      "word": "男子带68岁父亲第一次走出农村",
-      "onboard_time": 1686956778,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49123,
       "num": 63377,
       "word": "新时代北京的精气神",
@@ -37059,14 +37123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47771,
-      "num": 47771,
-      "word": "王宝强八角笼中首波口碑",
-      "onboard_time": 1686957319,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 47338,
       "num": 419948,
       "word": "57岁保姆手掌作画7年成民间画家",
@@ -37105,14 +37161,6 @@
       "onboard_time": 1686304830,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46892,
-      "num": 47771,
-      "word": "过上了小说里的生活",
-      "onboard_time": 1686956838,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 46886,
@@ -37547,14 +37595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32976,
-      "num": 47749,
-      "word": "江苏一供电所开放院子给农民晒麦",
-      "onboard_time": 1686957378,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32888,
       "num": 705026,
       "word": "明星同款T1",
@@ -37947,6 +37987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19381,
+      "num": 662251,
+      "word": "硬核科技铺就万桥飞架新坦途",
+      "onboard_time": 1686919467,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19357,
       "num": 382818,
       "word": "国宝文物讲述何以中国",
@@ -37977,14 +38025,6 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16058,
-      "num": 662251,
-      "word": "硬核科技铺就万桥飞架新坦途",
-      "onboard_time": 1686919467,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15607,

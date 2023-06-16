@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686957406092,
+  "endTime": 1686958441597,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476663,
-      "num": 476663,
+      "raw_hot": 518919,
+      "num": 518919,
       "word": "你见过最完美的户型",
       "onboard_time": 1686927329,
       "rank": 1,
@@ -211,20 +211,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203346,
+      "num": 203346,
+      "word": "当丈夫说妻子在家啥也不干",
+      "onboard_time": 1686918868,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 196295,
       "num": 171952,
       "word": "TFBOYS演唱会投票",
       "onboard_time": 1686917848,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195983,
-      "num": 195983,
-      "word": "当丈夫说妻子在家啥也不干",
-      "onboard_time": 1686918868,
-      "rank": 14,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 185949,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148297,
+      "num": 103653,
+      "word": "王宝强八角笼中首波口碑",
+      "onboard_time": 1686957319,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148276,
       "num": 172001,
       "word": "临期食品为什么受欢迎",
@@ -339,6 +347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 141241,
+      "num": 102763,
+      "word": "绝交视频是肖战拉着刘芮麟崔航拍的",
+      "onboard_time": 1686956958,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136628,
       "num": 145534,
       "word": "马伯骞并非难哄桑延选角",
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128126,
+      "num": 101585,
+      "word": "水哥家的生态系统有多惊人",
+      "onboard_time": 1686957439,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110674,
       "num": 154438,
       "word": "国足4比0战胜缅甸队",
@@ -379,12 +403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107280,
+      "num": 94628,
+      "word": "肖春生好懂佟晓梅",
+      "onboard_time": 1686956898,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104139,
+      "num": 104139,
+      "word": "男子带68岁父亲第一次走出农村",
+      "onboard_time": 1686956778,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103641,
       "num": 145224,
       "word": "恋爱里的落差感",
       "onboard_time": 1686929010,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 97890,
+      "num": 94304,
+      "word": "还是那个王一博",
+      "onboard_time": 1686957620,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 91982,
@@ -395,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75520,
+      "num": 75520,
+      "word": "过上了小说里的生活",
+      "onboard_time": 1686956838,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74193,
       "num": 145024,
       "word": "重庆潼南现千年巨型乌木",
       "onboard_time": 1686928650,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74001,
-      "num": 74001,
-      "word": "肖春生好懂佟晓梅",
-      "onboard_time": 1686956898,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 70055,
@@ -419,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69962,
+      "num": 69962,
+      "word": "肖春生问叶国华孩子几岁了",
+      "onboard_time": 1686919228,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68939,
       "num": 145067,
       "word": "少耶和我",
       "onboard_time": 1686922530,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 67903,
+      "num": 67903,
+      "word": "徐志胜说话少是因为黄子韬不在",
+      "onboard_time": 1686958280,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 63812,
@@ -435,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62263,
-      "num": 62263,
-      "word": "绝交视频是肖战拉着刘芮麟崔航拍的",
-      "onboard_time": 1686956958,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 62135,
       "num": 144864,
       "word": "秦皇岛夜市有多好吃",
@@ -451,12 +507,20 @@
       "category": "美食,旅游"
     },
     {
-      "raw_hot": 55442,
-      "num": 49217,
-      "word": "肖春生问叶国华孩子几岁了",
-      "onboard_time": 1686919228,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 57005,
+      "num": 57005,
+      "word": "江苏一供电所开放院子给农民晒麦",
+      "onboard_time": 1686957378,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55426,
+      "num": 55426,
+      "word": "钟辰乐泡泡",
+      "onboard_time": 1686958401,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 53018,
@@ -467,28 +531,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 49237,
-      "num": 49237,
-      "word": "男子带68岁父亲第一次走出农村",
-      "onboard_time": 1686956778,
-      "rank": 38,
+      "raw_hot": 51102,
+      "num": 55348,
+      "word": "跳桥救人小哥值得这些奖励",
+      "onboard_time": 1686958161,
+      "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47771,
-      "num": 47771,
-      "word": "王宝强八角笼中首波口碑",
-      "onboard_time": 1686957319,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46892,
-      "num": 47771,
-      "word": "过上了小说里的生活",
-      "onboard_time": 1686956838,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 41737,
@@ -507,14 +555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 32976,
-      "num": 47749,
-      "word": "江苏一供电所开放院子给农民晒麦",
-      "onboard_time": 1686957378,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27755,
       "num": 51909,
       "word": "中国女排vs保加利亚女排",
@@ -523,7 +563,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16058,
+      "raw_hot": 19381,
       "num": 525675,
       "word": "硬核科技铺就万桥飞架新坦途",
       "onboard_time": 1686919467,
