@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686939628123,
+  "endTime": 1686940412868,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -37209,6 +37209,14 @@
       "onboard_time": 1686397889,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 41737,
+      "num": 46239,
+      "word": "千万不要强行睁眼打喷嚏",
+      "onboard_time": 1686940094,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 41371,

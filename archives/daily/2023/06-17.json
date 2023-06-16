@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686939628123,
+  "endTime": 1686940412868,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -427,12 +427,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41737,
+      "num": 46239,
+      "word": "千万不要强行睁眼打喷嚏",
+      "onboard_time": 1686940094,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32692,
       "num": 51753,
       "word": "张靓颖的马甲线",
       "onboard_time": 1686938598,
       "rank": 44,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 28751,
+      "num": 46055,
+      "word": "蔡徐坤专辑",
+      "onboard_time": 1686817409,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 27755,

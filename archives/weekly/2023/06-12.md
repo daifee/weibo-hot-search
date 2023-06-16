@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/17 02:20:28
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/17 02:33:32
 </p>
 </blockquote>
 <p>
@@ -9497,6 +9497,12 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%8B%8D%E6%AF%95%E4%B8%9A%E7%85%A7%E8%AF%B7%E6%8A%A4%E5%AD%A6%E4%BA%A4%E8%AD%A6%E5%9D%90c%E4%BD%8D%23" target="weibo">
 小学拍毕业照请护学交警坐c位（热度：42657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%BC%BA%E8%A1%8C%E7%9D%81%E7%9C%BC%E6%89%93%E5%96%B7%E5%9A%8F%23" target="weibo">
+千万不要强行睁眼打喷嚏（热度：41737）
 </a>
 </li>
 
