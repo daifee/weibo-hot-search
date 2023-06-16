@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686890014970,
+  "endTime": 1686892557655,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -17,6 +17,14 @@
       "onboard_time": 1686884013,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2307891,
+      "num": 2307891,
+      "word": "吴倩退出乘风",
+      "onboard_time": 1686889777,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2281870,
@@ -123,6 +131,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1184029,
+      "num": 1184029,
+      "word": "黄晓明油过没丑过",
+      "onboard_time": 1686888333,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1166933,
       "num": 1166933,
       "word": "苏翊鸣发文回应保送清华大学",
@@ -171,7 +187,7 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 746200,
+      "raw_hot": 762880,
       "num": 407081,
       "word": "女导游穿紧身裤被质疑是色情营销",
       "onboard_time": 1686877650,
@@ -193,6 +209,14 @@
       "onboard_time": 1686838825,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 714068,
+      "num": 714068,
+      "word": "交警买网红青蛙小青蛙不让付钱",
+      "onboard_time": 1686887617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 691126,
@@ -227,20 +251,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 632622,
-      "num": 495815,
-      "word": "黄晓明油过没丑过",
-      "onboard_time": 1686888333,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 632507,
       "num": 632507,
       "word": "球踢爆了",
       "onboard_time": 1686839729,
       "rank": 7,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 591969,
+      "num": 591969,
+      "word": "迪丽热巴藏蓝色风衣搭白T",
+      "onboard_time": 1686892293,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 582306,
@@ -257,14 +281,6 @@
       "onboard_time": 1686835465,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 545969,
-      "num": 380156,
-      "word": "吴倩退出乘风",
-      "onboard_time": 1686889777,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 532065,
@@ -299,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 455736,
+      "num": 311852,
+      "word": "张元英穿了中国粉丝送的裙子",
+      "onboard_time": 1686891336,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454494,
       "num": 454494,
       "word": "女生摆摊卖鸡脚边卖边吃",
@@ -313,6 +337,14 @@
       "onboard_time": 1686829943,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450069,
+      "num": 450069,
+      "word": "新闻学教授怒怼张雪峰",
+      "onboard_time": 1686891515,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 427749,
@@ -403,14 +435,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 379500,
-      "num": 379500,
-      "word": "交警买网红青蛙小青蛙不让付钱",
-      "onboard_time": 1686887617,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376762,
       "num": 376762,
       "word": "对你来说月薪1万够花吗",
@@ -499,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 311781,
+      "num": 311781,
+      "word": "女童吞下上百颗磁力珠肠道如鱼籽",
+      "onboard_time": 1686891454,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311505,
       "num": 311505,
       "word": "阿根廷vs澳大利亚",
@@ -555,12 +587,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274260,
+      "num": 264450,
+      "word": "肖战谈出道八年感悟",
+      "onboard_time": 1686891575,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273283,
       "num": 273283,
       "word": "研一和研三读文献时的区别",
       "onboard_time": 1686875007,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263450,
+      "num": 263450,
+      "word": "女儿高考完提出3个要求妈妈崩溃",
+      "onboard_time": 1686892293,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263296,
@@ -691,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 229918,
+      "num": 229918,
+      "word": "店老板回应帮被尾随女子解围",
+      "onboard_time": 1686892173,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229849,
       "num": 229849,
       "word": "校方回应地铁事件女子在科技作品署名",
@@ -705,6 +761,14 @@
       "onboard_time": 1686840211,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228476,
+      "num": 228476,
+      "word": "54岁外卖员用4000首诗爱着这个世界",
+      "onboard_time": 1686891454,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227286,
@@ -835,6 +899,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203560,
+      "num": 203560,
+      "word": "邓典果结婚",
+      "onboard_time": 1686892471,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202989,
+      "num": 202989,
+      "word": "野挺有趣今日开播",
+      "onboard_time": 1686892293,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201937,
       "num": 201937,
       "word": "中国水中大熊猫外网火了",
@@ -857,6 +937,14 @@
       "onboard_time": 1686884493,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199037,
+      "num": 199037,
+      "word": "美依礼芽个人喜爱度第一",
+      "onboard_time": 1686892414,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 198378,
@@ -897,6 +985,14 @@
       "onboard_time": 1686886112,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191793,
+      "num": 199114,
+      "word": "雪鹰领主今日定档",
+      "onboard_time": 1686891515,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 190201,
@@ -1065,6 +1161,14 @@
       "onboard_time": 1686882990,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 165785,
+      "num": 165785,
+      "word": "赶时间的人也有诗和远方",
+      "onboard_time": 1686891274,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161545,
@@ -1251,6 +1355,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 101523,
+      "num": 2239402,
+      "word": "杭州亚运形象宣传片弄潮",
+      "onboard_time": 1686889295,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98368,
       "num": 98368,
       "word": "电视剧公诉",
@@ -1281,14 +1393,6 @@
       "onboard_time": 1686860591,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67766,
-      "num": 2163330,
-      "word": "杭州亚运形象宣传片弄潮",
-      "onboard_time": 1686889295,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67041,

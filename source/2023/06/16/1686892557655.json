@@ -1,0 +1,410 @@
+{
+  "runTime": 1686892557655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6570102,
+        "num": 6570102,
+        "word": "TFBOYS十年之约演唱会官宣",
+        "onboard_time": 1686882328,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2307891,
+        "num": 2307891,
+        "word": "吴倩退出乘风",
+        "onboard_time": 1686889777,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101523,
+        "num": 2239402,
+        "word": "杭州亚运形象宣传片弄潮",
+        "onboard_time": 1686889295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2183833,
+        "num": 2183833,
+        "word": "这次真的通知了他们仨",
+        "onboard_time": 1686884013,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1367669,
+        "num": 1367669,
+        "word": "感觉这三个名字排在一起是上辈子的事",
+        "onboard_time": 1686884914,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1184029,
+        "num": 1184029,
+        "word": "黄晓明油过没丑过",
+        "onboard_time": 1686888333,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 956009,
+        "num": 956009,
+        "word": "苏翊鸣发文回应保送清华大学",
+        "onboard_time": 1686884914,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 921920,
+        "num": 921920,
+        "word": "球迷冲进球场抱梅西",
+        "onboard_time": 1686838888,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771568,
+        "num": 771568,
+        "word": "离职时我把工资告诉了同事",
+        "onboard_time": 1686874947,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 723874,
+        "num": 723874,
+        "word": "私人山庄遭网红闯入并渲染成鬼屋",
+        "onboard_time": 1686880708,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914655,
+        "num": 719951,
+        "word": "向佐郭碧婷为二胎儿子办周岁宴",
+        "onboard_time": 1686881127,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863379,
+        "num": 718473,
+        "word": "我老了追易烊千玺的样子",
+        "onboard_time": 1686884192,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714068,
+        "num": 714068,
+        "word": "交警买网红青蛙小青蛙不让付钱",
+        "onboard_time": 1686887617,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697491,
+        "num": 697491,
+        "word": "时代峰峻",
+        "onboard_time": 1686884732,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 582913,
+        "num": 661415,
+        "word": "袁弘 搞到梅西to签",
+        "onboard_time": 1686879329,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 651993,
+        "num": 651993,
+        "word": "王俊凯王源易烊千玺转发十年之约演唱会",
+        "onboard_time": 1686884135,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 591969,
+        "num": 591969,
+        "word": "迪丽热巴藏蓝色风衣搭白T",
+        "onboard_time": 1686892293,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 470159,
+        "num": 470159,
+        "word": "原来X光下的婴儿小手长这样",
+        "onboard_time": 1686875007,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450069,
+        "num": 450069,
+        "word": "新闻学教授怒怼张雪峰",
+        "onboard_time": 1686891515,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311898,
+        "num": 311898,
+        "word": "女生摆摊卖鸡脚边卖边吃",
+        "onboard_time": 1686873207,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762880,
+        "num": 311884,
+        "word": "女导游穿紧身裤被质疑是色情营销",
+        "onboard_time": 1686877650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583361,
+        "num": 311878,
+        "word": "黄晓明生图",
+        "onboard_time": 1686871704,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455736,
+        "num": 311852,
+        "word": "张元英穿了中国粉丝送的裙子",
+        "onboard_time": 1686891336,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428995,
+        "num": 311847,
+        "word": "考公上岸后被同学删了微信",
+        "onboard_time": 1686875007,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295501,
+        "num": 311816,
+        "word": "高校回应干部不正当男女关系被抓现行",
+        "onboard_time": 1686885333,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 399392,
+        "num": 311810,
+        "word": "快乐大本营最后一期未播预告",
+        "onboard_time": 1686876749,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361566,
+        "num": 311786,
+        "word": "网友爆料宁艺卓是孟美岐导师",
+        "onboard_time": 1686876091,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311781,
+        "num": 311781,
+        "word": "女童吞下上百颗磁力珠肠道如鱼籽",
+        "onboard_time": 1686891454,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308302,
+        "num": 308302,
+        "word": "TFBOYS的数字浪漫",
+        "onboard_time": 1686888155,
+        "rank": 28,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 264594,
+        "num": 264594,
+        "word": "薛之谦 再见啦梅西",
+        "onboard_time": 1686844705,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278517,
+        "num": 264561,
+        "word": "连那英都接不住的场子",
+        "onboard_time": 1686873506,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274260,
+        "num": 264450,
+        "word": "肖战谈出道八年感悟",
+        "onboard_time": 1686891575,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264017,
+        "num": 264017,
+        "word": "冰清玉洁近况",
+        "onboard_time": 1686844348,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263450,
+        "num": 263450,
+        "word": "女儿高考完提出3个要求妈妈崩溃",
+        "onboard_time": 1686892293,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248134,
+        "num": 248134,
+        "word": "乘风帮唱师姐官宣",
+        "onboard_time": 1686884794,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229918,
+        "num": 229918,
+        "word": "店老板回应帮被尾随女子解围",
+        "onboard_time": 1686892173,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228476,
+        "num": 228476,
+        "word": "54岁外卖员用4000首诗爱着这个世界",
+        "onboard_time": 1686891454,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219434,
+        "num": 219434,
+        "word": "头发居然可以扎进肉里",
+        "onboard_time": 1686871822,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216489,
+        "num": 216489,
+        "word": "TFBOYS十周年联名",
+        "onboard_time": 1686885994,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211430,
+        "num": 211430,
+        "word": "对你来说月薪1万够花吗",
+        "onboard_time": 1686883412,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 203560,
+        "num": 203560,
+        "word": "邓典果结婚",
+        "onboard_time": 1686892471,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202989,
+        "num": 202989,
+        "word": "野挺有趣今日开播",
+        "onboard_time": 1686892293,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201082,
+        "num": 201082,
+        "word": "TFBOYS十年前出道形象片",
+        "onboard_time": 1686886592,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191793,
+        "num": 199114,
+        "word": "雪鹰领主今日定档",
+        "onboard_time": 1686891515,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199037,
+        "num": 199037,
+        "word": "美依礼芽个人喜爱度第一",
+        "onboard_time": 1686892414,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195807,
+        "num": 195807,
+        "word": "比尔盖茨",
+        "onboard_time": 1686887375,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 181980,
+        "num": 181980,
+        "word": "四叶草过年了",
+        "onboard_time": 1686886533,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175136,
+        "num": 175136,
+        "word": "迪丽热巴冷脸vs笑脸",
+        "onboard_time": 1686883051,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165785,
+        "num": 165785,
+        "word": "赶时间的人也有诗和远方",
+        "onboard_time": 1686891274,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162772,
+        "num": 162772,
+        "word": "阿根廷2比0",
+        "onboard_time": 1686836550,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持用马克思主义观察时代解读时代引领时代#"
+    }
+  }
+}

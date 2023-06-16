@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686890014970,
+  "endTime": 1686892557655,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -241,6 +241,14 @@
       "onboard_time": 1686806908,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2307891,
+      "num": 2307891,
+      "word": "吴倩退出乘风",
+      "onboard_time": 1686889777,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2299874,
@@ -1035,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1184029,
+      "num": 1184029,
+      "word": "黄晓明油过没丑过",
+      "onboard_time": 1686888333,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1179979,
       "num": 1179979,
       "word": "梅西过人好牛",
@@ -1827,6 +1843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 762880,
+      "num": 407081,
+      "word": "女导游穿紧身裤被质疑是色情营销",
+      "onboard_time": 1686877650,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761336,
       "num": 390677,
       "word": "女子称试穿裙子撑破无奈351元买下",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1686663209,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 746200,
-      "num": 407081,
-      "word": "女导游穿紧身裤被质疑是色情营销",
-      "onboard_time": 1686877650,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745560,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1686486811,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 714068,
+      "num": 714068,
+      "word": "交警买网红青蛙小青蛙不让付钱",
+      "onboard_time": 1686887617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707420,
@@ -2123,14 +2147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 632622,
-      "num": 495815,
-      "word": "黄晓明油过没丑过",
-      "onboard_time": 1686888333,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 632507,
       "num": 632507,
       "word": "球踢爆了",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1686784341,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591969,
+      "num": 591969,
+      "word": "迪丽热巴藏蓝色风衣搭白T",
+      "onboard_time": 1686892293,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 587268,
@@ -2385,14 +2409,6 @@
       "onboard_time": 1686822265,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 545969,
-      "num": 380156,
-      "word": "吴倩退出乘风",
-      "onboard_time": 1686889777,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 543393,
@@ -2643,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455736,
+      "num": 311852,
+      "word": "张元英穿了中国粉丝送的裙子",
+      "onboard_time": 1686891336,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455500,
       "num": 455500,
       "word": "家属回应女子被丈夫跨省杀害",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1686832045,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450069,
+      "num": 450069,
+      "word": "新闻学教授怒怼张雪峰",
+      "onboard_time": 1686891515,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 443485,
@@ -2993,14 +3025,6 @@
       "onboard_time": 1686871822,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 379500,
-      "num": 379500,
-      "word": "交警买网红青蛙小青蛙不让付钱",
-      "onboard_time": 1686887617,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377381,
@@ -3675,6 +3699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311781,
+      "num": 311781,
+      "word": "女童吞下上百颗磁力珠肠道如鱼籽",
+      "onboard_time": 1686891454,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310174,
       "num": 310174,
       "word": "武汉商学院",
@@ -4099,6 +4131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274260,
+      "num": 264450,
+      "word": "肖战谈出道八年感悟",
+      "onboard_time": 1686891575,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274113,
       "num": 274113,
       "word": "男子赴江西一高校殴打出轨妻子",
@@ -4281,6 +4321,14 @@
       "onboard_time": 1686819328,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 263450,
+      "num": 263450,
+      "word": "女儿高考完提出3个要求妈妈崩溃",
+      "onboard_time": 1686892293,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262906,
@@ -5115,6 +5163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229918,
+      "num": 229918,
+      "word": "店老板回应帮被尾随女子解围",
+      "onboard_time": 1686892173,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229545,
       "num": 229545,
       "word": "原来真有人叫白雪公主",
@@ -5137,6 +5193,14 @@
       "onboard_time": 1686581671,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 228476,
+      "num": 228476,
+      "word": "54岁外卖员用4000首诗爱着这个世界",
+      "onboard_time": 1686891454,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228287,
@@ -6035,6 +6099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203560,
+      "num": 203560,
+      "word": "邓典果结婚",
+      "onboard_time": 1686892471,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203477,
       "num": 203477,
       "word": "开心吧麻花官宣定档",
@@ -6065,6 +6137,14 @@
       "onboard_time": 1686574109,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202989,
+      "num": 202989,
+      "word": "野挺有趣今日开播",
+      "onboard_time": 1686892293,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 202779,
@@ -6289,6 +6369,14 @@
       "onboard_time": 1686646826,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199037,
+      "num": 199037,
+      "word": "美依礼芽个人喜爱度第一",
+      "onboard_time": 1686892414,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 198402,
@@ -6569,6 +6657,14 @@
       "onboard_time": 1686582211,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191793,
+      "num": 199114,
+      "word": "雪鹰领主今日定档",
+      "onboard_time": 1686891515,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 191773,
@@ -7697,6 +7793,14 @@
       "onboard_time": 1686634286,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165785,
+      "num": 165785,
+      "word": "赶时间的人也有诗和远方",
+      "onboard_time": 1686891274,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165663,
@@ -10115,6 +10219,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 101523,
+      "num": 2239402,
+      "word": "杭州亚运形象宣传片弄潮",
+      "onboard_time": 1686889295,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101377,
       "num": 101377,
       "word": "男子33楼欲轻生保安耐心陪聊20分钟",
@@ -10520,14 +10632,6 @@
       "word": "蓝天碧水间官兵巡逻画面美如画",
       "onboard_time": 1686669870,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67766,
-      "num": 2163330,
-      "word": "杭州亚运形象宣传片弄潮",
-      "onboard_time": 1686889295,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
