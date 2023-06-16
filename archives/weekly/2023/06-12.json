@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686928631040,
+  "endTime": 1686929629197,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -321,6 +321,14 @@
       "onboard_time": 1686663987,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2194248,
+      "num": 2194248,
+      "word": "陈乔恩被青蛙求婚",
+      "onboard_time": 1686927389,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2153673,
@@ -1587,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983032,
-      "num": 301230,
-      "word": "陈乔恩被青蛙求婚",
-      "onboard_time": 1686927389,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 981577,
       "num": 870816,
       "word": "苏醒有点人脉",
@@ -1633,6 +1633,14 @@
       "onboard_time": 1686838825,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 955565,
+      "num": 307798,
+      "word": "谢娜李维嘉吴昕录制新综艺",
+      "onboard_time": 1686928411,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 949817,
@@ -3268,7 +3276,7 @@
     },
     {
       "raw_hot": 400094,
-      "num": 298829,
+      "num": 298868,
       "word": "林俊杰现场绝了",
       "onboard_time": 1686926070,
       "rank": 22,
@@ -3452,7 +3460,7 @@
     },
     {
       "raw_hot": 371455,
-      "num": 298098,
+      "num": 299435,
       "word": "袁姗姗一字肩高开叉礼服",
       "onboard_time": 1686926671,
       "rank": 25,
@@ -3619,6 +3627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 354269,
+      "num": 354269,
+      "word": "山西煤矿3死1伤事故监控曝光",
+      "onboard_time": 1686926251,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352398,
       "num": 352398,
       "word": "罗云熙全白造型",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1686636986,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343880,
+      "num": 299657,
+      "word": "赵雅芝为王一博颁奖",
+      "onboard_time": 1686928952,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 343025,
@@ -4139,14 +4163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315748,
-      "num": 297838,
-      "word": "谢娜李维嘉吴昕录制新综艺",
-      "onboard_time": 1686928411,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315455,
       "num": 315455,
       "word": "英雄联盟排队",
@@ -4203,14 +4219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312711,
-      "num": 312711,
-      "word": "山西煤矿3死1伤事故监控曝光",
-      "onboard_time": 1686926251,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312335,
       "num": 312335,
       "word": "周翊然少年感",
@@ -4257,6 +4265,14 @@
       "onboard_time": 1686754292,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309465,
+      "num": 309465,
+      "word": "无穷小亮在旅途中拍到的震撼景色",
+      "onboard_time": 1686922048,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 309209,
@@ -4843,14 +4859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270067,
-      "num": 301682,
-      "word": "无穷小亮在旅途中拍到的震撼景色",
-      "onboard_time": 1686922048,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 269882,
       "num": 269882,
       "word": "杭州蓝色钱江纵火案房源以2360万元网签",
@@ -4945,6 +4953,14 @@
       "onboard_time": 1686903510,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265069,
+      "num": 265069,
+      "word": "王一博抓金雨",
+      "onboard_time": 1686927630,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 264280,
@@ -5651,6 +5667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240307,
+      "num": 231741,
+      "word": "电影八角笼中",
+      "onboard_time": 1686926729,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239882,
       "num": 239882,
       "word": "Uzi获得亚洲荣誉选手",
@@ -5859,14 +5883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233500,
-      "num": 233500,
-      "word": "王一博抓金雨",
-      "onboard_time": 1686927630,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233145,
       "num": 231474,
       "word": "是哪个seventeen",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1686892173,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229828,
+      "num": 229828,
+      "word": "黄宗泽再认下去就不礼貌了",
+      "onboard_time": 1686929309,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 229545,
@@ -6921,6 +6945,14 @@
       "onboard_time": 1686831505,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206187,
+      "num": 206187,
+      "word": "t5",
+      "onboard_time": 1686929427,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 206161,
@@ -10252,7 +10284,7 @@
     },
     {
       "raw_hot": 140102,
-      "num": 190440,
+      "num": 208782,
       "word": "少耶和我",
       "onboard_time": 1686922530,
       "rank": 47,
@@ -10635,6 +10667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133207,
+      "num": 287228,
+      "word": "景枫",
+      "onboard_time": 1686926851,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132746,
       "num": 132746,
       "word": "世界上有趣的灵魂又少了一个",
@@ -10915,14 +10955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125663,
-      "num": 235189,
-      "word": "景枫",
-      "onboard_time": 1686926851,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125640,
       "num": 125640,
       "word": "黄永玉遗嘱说让我的骨灰回到大自然",
@@ -11033,6 +11065,14 @@
       "onboard_time": 1686672687,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122856,
+      "num": 232817,
+      "word": "符合这几点你该离职了",
+      "onboard_time": 1686929371,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 122812,
@@ -11707,6 +11747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103334,
+      "num": 303450,
+      "word": "重庆潼南现千年巨型乌木",
+      "onboard_time": 1686928650,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103188,
       "num": 103188,
       "word": "不要为了花时间休息感到内疚",
@@ -11745,6 +11793,14 @@
       "onboard_time": 1686810325,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101728,
+      "num": 183441,
+      "word": "恋爱里的落差感",
+      "onboard_time": 1686929010,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 101649,

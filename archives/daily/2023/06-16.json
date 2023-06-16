@@ -1,6 +1,6 @@
 {
   "startTime": 1686846108446,
-  "endTime": 1686928631040,
+  "endTime": 1686929629197,
   "band_list": [
     {
       "raw_hot": 10053896,
@@ -65,6 +65,14 @@
       "onboard_time": 1686844705,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2194248,
+      "num": 2194248,
+      "word": "陈乔恩被青蛙求婚",
+      "onboard_time": 1686927389,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1962532,
@@ -363,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983032,
-      "num": 301230,
-      "word": "陈乔恩被青蛙求婚",
-      "onboard_time": 1686927389,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 957258,
       "num": 957258,
       "word": "苏醒见完梅西偶遇来迟的薛之谦",
       "onboard_time": 1686830783,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 955565,
+      "num": 307798,
+      "word": "谢娜李维嘉吴昕录制新综艺",
+      "onboard_time": 1686928411,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 904403,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 400094,
-      "num": 298829,
+      "num": 298868,
       "word": "林俊杰现场绝了",
       "onboard_time": 1686926070,
       "rank": 22,
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 371455,
-      "num": 298098,
+      "num": 299435,
       "word": "袁姗姗一字肩高开叉礼服",
       "onboard_time": 1686926671,
       "rank": 25,
@@ -875,6 +883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 354269,
+      "num": 354269,
+      "word": "山西煤矿3死1伤事故监控曝光",
+      "onboard_time": 1686926251,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351291,
       "num": 351291,
       "word": "民警为查毒品剥开32吨洋葱",
@@ -913,6 +929,14 @@
       "onboard_time": 1686880349,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343880,
+      "num": 299657,
+      "word": "赵雅芝为王一博颁奖",
+      "onboard_time": 1686928952,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 341434,
@@ -1011,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315748,
-      "num": 297838,
-      "word": "谢娜李维嘉吴昕录制新综艺",
-      "onboard_time": 1686928411,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314241,
       "num": 296651,
       "word": "你见过最完美的户型",
@@ -1035,14 +1051,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 312711,
-      "num": 312711,
-      "word": "山西煤矿3死1伤事故监控曝光",
-      "onboard_time": 1686926251,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311781,
       "num": 311781,
       "word": "女童吞下上百颗磁力珠肠道如鱼籽",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1686828983,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309465,
+      "num": 309465,
+      "word": "无穷小亮在旅途中拍到的震撼景色",
+      "onboard_time": 1686922048,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 302362,
@@ -1203,14 +1219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270067,
-      "num": 301682,
-      "word": "无穷小亮在旅途中拍到的震撼景色",
-      "onboard_time": 1686922048,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 268611,
       "num": 268611,
       "word": "杨紫回复杨迪都是一家的",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1686903510,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265069,
+      "num": 265069,
+      "word": "王一博抓金雨",
+      "onboard_time": 1686927630,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 263882,
@@ -1443,6 +1459,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 240307,
+      "num": 231741,
+      "word": "电影八角笼中",
+      "onboard_time": 1686926729,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239882,
       "num": 239882,
       "word": "Uzi获得亚洲荣誉选手",
@@ -1499,14 +1523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233500,
-      "num": 233500,
-      "word": "王一博抓金雨",
-      "onboard_time": 1686927630,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231582,
       "num": 160475,
       "word": "花戎结局",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1686827844,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 229828,
+      "num": 229828,
+      "word": "黄宗泽再认下去就不礼貌了",
+      "onboard_time": 1686929309,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 228668,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1686878549,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206187,
+      "num": 206187,
+      "word": "t5",
+      "onboard_time": 1686929427,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 204946,
@@ -2588,7 +2620,7 @@
     },
     {
       "raw_hot": 140102,
-      "num": 190440,
+      "num": 208782,
       "word": "少耶和我",
       "onboard_time": 1686922530,
       "rank": 47,
@@ -2625,6 +2657,14 @@
       "onboard_time": 1686879508,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133207,
+      "num": 287228,
+      "word": "景枫",
+      "onboard_time": 1686926851,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132122,
@@ -2715,12 +2755,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 125663,
-      "num": 235189,
-      "word": "景枫",
-      "onboard_time": 1686926851,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 122856,
+      "num": 232817,
+      "word": "符合这几点你该离职了",
+      "onboard_time": 1686929371,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 122671,
@@ -2891,12 +2931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103334,
+      "num": 303450,
+      "word": "重庆潼南现千年巨型乌木",
+      "onboard_time": 1686928650,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102899,
       "num": 102899,
       "word": "网剧花戎",
       "onboard_time": 1686846805,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101728,
+      "num": 183441,
+      "word": "恋爱里的落差感",
+      "onboard_time": 1686929010,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 101649,
