@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686951224212,
+  "endTime": 1686953753960,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -35723,6 +35723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79583,
+      "num": 43412,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79551,
       "num": 119770,
       "word": "是谁在回忆高中",
@@ -37033,14 +37041,6 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 47014,
-      "num": 28670,
-      "word": "村民鸡窝中发现鸟皇后",
-      "onboard_time": 1686949152,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46997,

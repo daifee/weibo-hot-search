@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686951224212,
+  "endTime": 1686953753960,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79583,
+      "num": 43412,
+      "word": "村民鸡窝中发现鸟皇后",
+      "onboard_time": 1686949152,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74193,
       "num": 145024,
       "word": "重庆潼南现千年巨型乌木",
@@ -425,14 +433,6 @@
       "onboard_time": 1686908548,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47014,
-      "num": 28670,
-      "word": "村民鸡窝中发现鸟皇后",
-      "onboard_time": 1686949152,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41737,

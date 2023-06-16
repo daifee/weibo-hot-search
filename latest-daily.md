@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/17 00:21:49 ~ 2023/06/17 05:33:44
+本榜单时间：2023/06/17 00:21:49 ~ 2023/06/17 06:15:53
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@ EDG赛前海报（热度：134809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23" target="weibo">
+村民鸡窝中发现鸟皇后（热度：79583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%BD%BC%E5%8D%97%E7%8E%B0%E5%8D%83%E5%B9%B4%E5%B7%A8%E5%9E%8B%E4%B9%8C%E6%9C%A8%23" target="weibo">
 重庆潼南现千年巨型乌木（热度：74193）
 </a>
@@ -329,12 +335,6 @@ EDG赛前海报（热度：134809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%8D%83%E4%B8%89%E7%9A%84%E5%B7%A5%E8%B5%84%E9%9D%A2%E4%BA%86%E4%B8%89%E8%BD%AE%23" target="weibo">
 两千三的工资面了三轮（热度：56064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23" target="weibo">
-村民鸡窝中发现鸟皇后（热度：47014）
 </a>
 </li>
 

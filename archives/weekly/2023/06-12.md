@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/17 05:33:44
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/17 06:15:53
 </p>
 </blockquote>
 <p>
@@ -9171,6 +9171,12 @@ lun8（热度：92708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23" target="weibo">
+村民鸡窝中发现鸟皇后（热度：79583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%86%E9%92%9F%E5%AE%8C%E6%88%90%E8%BA%AB%E4%BD%93%E5%BE%AE%E4%BD%93%E6%A3%80%E7%9A%84%E5%A5%BD%E5%8A%9E%E6%B3%95%23" target="weibo">
 一分钟完成身体微体检的好办法（热度：77539）
 </a>
@@ -9455,12 +9461,6 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2357%E5%B2%81%E4%BF%9D%E5%A7%86%E6%89%8B%E6%8E%8C%E4%BD%9C%E7%94%BB7%E5%B9%B4%E6%88%90%E6%B0%91%E9%97%B4%E7%94%BB%E5%AE%B6%23" target="weibo">
 57岁保姆手掌作画7年成民间画家（热度：47338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23" target="weibo">
-村民鸡窝中发现鸟皇后（热度：47014）
 </a>
 </li>
 
