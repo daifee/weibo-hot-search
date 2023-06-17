@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687005019011,
+  "endTime": 1687005971587,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -99,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1824408,
+      "num": 1824408,
+      "word": "黄渤上半身vs下半身",
+      "onboard_time": 1687001667,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1823987,
       "num": 695296,
       "word": "迪丽热巴真发了100多张自拍",
       "onboard_time": 1686916707,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1763073,
-      "num": 1763073,
-      "word": "黄渤上半身vs下半身",
-      "onboard_time": 1687001667,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1717802,
@@ -251,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1161099,
+      "num": 1085331,
+      "word": "童瑶抹胸上挂了68把钥匙",
+      "onboard_time": 1687001068,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1126606,
       "num": 1126606,
       "word": "为何鼠头曾被认定为鸭脖",
@@ -265,14 +273,6 @@
       "onboard_time": 1686984392,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1085331,
-      "num": 1085331,
-      "word": "童瑶抹胸上挂了68把钥匙",
-      "onboard_time": 1687001068,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1064617,
@@ -491,6 +491,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 599609,
+      "num": 279768,
+      "word": "帮男朋友洗6年没有洗过的脏辫",
+      "onboard_time": 1687004370,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 551817,
       "num": 551817,
       "word": "王宝强八角笼中首波口碑",
@@ -651,6 +659,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 411578,
+      "num": 411578,
+      "word": "憋屈了13年的猫猫终于翻身了",
+      "onboard_time": 1687003291,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399824,
       "num": 399824,
       "word": "六公主连播易烊千玺主演电影",
@@ -729,14 +745,6 @@
       "onboard_time": 1686971727,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 362889,
-      "num": 362889,
-      "word": "憋屈了13年的猫猫终于翻身了",
-      "onboard_time": 1687003291,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 361361,
@@ -819,20 +827,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329004,
+      "num": 329004,
+      "word": "AG对战WB",
+      "onboard_time": 1687005327,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 325223,
       "num": 291810,
       "word": "室友给了假的考试重点",
       "onboard_time": 1686979417,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322031,
-      "num": 279768,
-      "word": "帮男朋友洗6年没有洗过的脏辫",
-      "onboard_time": 1687004370,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 313755,
@@ -953,6 +961,14 @@
       "onboard_time": 1686985169,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281599,
+      "num": 281599,
+      "word": "肖战李沁央八频道宣传片",
+      "onboard_time": 1687005268,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 280156,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1686974313,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 245395,
+      "num": 245395,
+      "word": "阴阳师",
+      "onboard_time": 1687005691,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 244467,
@@ -1523,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189891,
+      "num": 189891,
+      "word": "火星哥演唱会",
+      "onboard_time": 1687005327,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189759,
       "num": 189759,
       "word": "恋爱脑犯了就来看看",
@@ -1627,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183175,
+      "num": 183175,
+      "word": "中国人骨子里的盖被基因",
+      "onboard_time": 1687002390,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181846,
       "num": 181846,
       "word": "安踏 欧文",
@@ -1667,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179221,
-      "num": 179221,
-      "word": "中国人骨子里的盖被基因",
-      "onboard_time": 1687002390,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176036,
       "num": 176036,
       "word": "手机屏保是你生活的意义吗",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1686992906,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174056,
+      "num": 158890,
+      "word": "高瀚宇假扮猎人好搞笑",
+      "onboard_time": 1687005750,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 171904,
@@ -2027,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149259,
+      "num": 149259,
+      "word": "新式神寻森小鹿男",
+      "onboard_time": 1687005807,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148325,
       "num": 148325,
       "word": "拍照姿势是从小和吉祥物学的",
@@ -2065,6 +2113,14 @@
       "onboard_time": 1686996630,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 145679,
@@ -2195,14 +2251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138013,
-      "num": 138013,
-      "word": "威尔妹妹",
-      "onboard_time": 1687004970,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137577,
       "num": 137577,
       "word": "谁给了他自信",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1686989846,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 133833,
+      "num": 133833,
+      "word": "WBG状态好猛",
+      "onboard_time": 1687005268,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 128482,
@@ -2592,6 +2648,14 @@
       "word": "中学老师从10余米高桥跳河救起轻生女子",
       "onboard_time": 1686981693,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54803,
+      "num": 813031,
+      "word": "今天致敬每一位中国治沙人",
+      "onboard_time": 1687005028,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

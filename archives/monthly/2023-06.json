@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687005019011,
+  "endTime": 1687005971587,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1811,6 +1811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1824408,
+      "num": 1824408,
+      "word": "黄渤上半身vs下半身",
+      "onboard_time": 1687001667,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1820130,
       "num": 1820130,
       "word": "海天品牌回应蚝油内疑发现生蚝",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1686401132,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1763073,
-      "num": 1763073,
-      "word": "黄渤上半身vs下半身",
-      "onboard_time": 1687001667,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1762985,
@@ -4179,6 +4179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1161099,
+      "num": 1085331,
+      "word": "童瑶抹胸上挂了68把钥匙",
+      "onboard_time": 1687001068,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1159664,
       "num": 1159664,
       "word": "澳门音乐节 退款",
@@ -4593,14 +4601,6 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1085331,
-      "num": 1085331,
-      "word": "童瑶抹胸上挂了68把钥匙",
-      "onboard_time": 1687001068,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1083023,
@@ -8379,6 +8379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599609,
+      "num": 279768,
+      "word": "帮男朋友洗6年没有洗过的脏辫",
+      "onboard_time": 1687004370,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 598931,
       "num": 511451,
       "word": "迪丽热巴评论陈紫函",
@@ -11219,6 +11227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411578,
+      "num": 411578,
+      "word": "憋屈了13年的猫猫终于翻身了",
+      "onboard_time": 1687003291,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411573,
       "num": 411573,
       "word": "陈宥维",
@@ -12619,14 +12635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362889,
-      "num": 362889,
-      "word": "憋屈了13年的猫猫终于翻身了",
-      "onboard_time": 1687003291,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 362725,
       "num": 362725,
       "word": "卡琳娜发了李龙馥",
@@ -13947,6 +13955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329004,
+      "num": 329004,
+      "word": "AG对战WB",
+      "onboard_time": 1687005327,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328970,
       "num": 328970,
       "word": "老A到底是谁",
@@ -14297,14 +14313,6 @@
       "onboard_time": 1686752011,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 322031,
-      "num": 279768,
-      "word": "帮男朋友洗6年没有洗过的脏辫",
-      "onboard_time": 1687004370,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 321734,
@@ -16392,6 +16400,14 @@
       "word": "肖战醉酒哭戏",
       "onboard_time": 1686802168,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 281599,
+      "num": 281599,
+      "word": "肖战李沁央八频道宣传片",
+      "onboard_time": 1687005268,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -26203,6 +26219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 189891,
+      "num": 189891,
+      "word": "火星哥演唱会",
+      "onboard_time": 1687005327,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189889,
       "num": 189889,
       "word": "赵露思综艺",
@@ -27371,6 +27395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183175,
+      "num": 183175,
+      "word": "中国人骨子里的盖被基因",
+      "onboard_time": 1687002390,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183113,
       "num": 163346,
       "word": "乐华2023家族演唱会全阵容公布",
@@ -27849,14 +27881,6 @@
       "onboard_time": 1686231393,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179221,
-      "num": 179221,
-      "word": "中国人骨子里的盖被基因",
-      "onboard_time": 1687002390,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 179081,
@@ -28441,6 +28465,14 @@
       "onboard_time": 1686992906,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174056,
+      "num": 158890,
+      "word": "高瀚宇假扮猎人好搞笑",
+      "onboard_time": 1687005750,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 174021,
@@ -31683,6 +31715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149259,
+      "num": 149259,
+      "word": "新式神寻森小鹿男",
+      "onboard_time": 1687005807,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "WE亚运征途",
@@ -32105,6 +32145,14 @@
       "onboard_time": 1686996630,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 145696,
@@ -33083,14 +33131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138013,
-      "num": 138013,
-      "word": "威尔妹妹",
-      "onboard_time": 1687004970,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137993,
       "num": 137993,
       "word": "原来真有人这样开演唱会",
@@ -33593,6 +33633,14 @@
       "onboard_time": 1686989846,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 133833,
+      "num": 133833,
+      "word": "WBG状态好猛",
+      "onboard_time": 1687005268,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 133781,
@@ -38920,6 +38968,14 @@
       "word": "感谢为爱勇敢伸出手臂的你",
       "onboard_time": 1686727588,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54803,
+      "num": 813031,
+      "word": "今天致敬每一位中国治沙人",
+      "onboard_time": 1687005028,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
