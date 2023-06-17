@@ -1,0 +1,410 @@
+{
+  "runTime": 1687033020223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 183177,
+        "num": 183177,
+        "word": "榜一大哥是我爸",
+        "onboard_time": 1687013073,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105568,
+        "num": 105568,
+        "word": "萧敬腾方报警检测自证清白",
+        "onboard_time": 1687010012,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15569,
+        "num": 90041,
+        "word": "哪个瞬间你发现爸爸不再年轻",
+        "onboard_time": 1687015292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84469,
+        "num": 84469,
+        "word": "一颗老鼠头为何要省级调查组才能查清",
+        "onboard_time": 1686983369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77969,
+        "num": 77969,
+        "word": "jkl",
+        "onboard_time": 1687015532,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60876,
+        "num": 60876,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 59256,
+        "num": 59256,
+        "word": "憋屈了13年的猫猫终于翻身了",
+        "onboard_time": 1687003291,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57495,
+        "num": 57495,
+        "word": "端午公司发了3颗荔枝",
+        "onboard_time": 1687012650,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55417,
+        "num": 55417,
+        "word": "Jennie是前一天爬山太累了吗",
+        "onboard_time": 1686985169,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50864,
+        "num": 54722,
+        "word": "西工大一班级全员34人参与重大科研",
+        "onboard_time": 1687018469,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 85219,
+        "num": 54641,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54270,
+        "num": 54270,
+        "word": "谢娜 她她她",
+        "onboard_time": 1687010250,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47629,
+        "num": 47629,
+        "word": "张远演唱会有男粉戴头纱",
+        "onboard_time": 1687014933,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44389,
+        "num": 44389,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43448,
+        "num": 43448,
+        "word": "黄渤上半身vs下半身",
+        "onboard_time": 1687001667,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42854,
+        "num": 42854,
+        "word": "胡歌大鹏影帝双黄蛋",
+        "onboard_time": 1687006109,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40874,
+        "num": 40874,
+        "word": "建议棣欣引力别看",
+        "onboard_time": 1687009950,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40085,
+        "num": 40085,
+        "word": "解说毛毛",
+        "onboard_time": 1687011632,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38874,
+        "num": 38874,
+        "word": "美国32岁男子让3个儿子站成一排枪杀",
+        "onboard_time": 1687001909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38460,
+        "num": 38460,
+        "word": "zb1",
+        "onboard_time": 1687025896,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123858,
+        "num": 37867,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69269,
+        "num": 37432,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44007,
+        "num": 37411,
+        "word": "我有一栋楼 是要偷你什么东西",
+        "onboard_time": 1687006352,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36931,
+        "num": 36931,
+        "word": "TES 从业者也需要提升专业能力",
+        "onboard_time": 1687011993,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36333,
+        "num": 36333,
+        "word": "这猫是不是有点过于巨大了",
+        "onboard_time": 1687014393,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35603,
+        "num": 35603,
+        "word": "突然明白了儿子为什么想回老家",
+        "onboard_time": 1687015831,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 31368,
+        "num": 31368,
+        "word": "王一博黄渤跳舞",
+        "onboard_time": 1687011993,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29955,
+        "num": 29955,
+        "word": "六级",
+        "onboard_time": 1686993868,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28943,
+        "num": 29853,
+        "word": "张小斐嘴上说不热身体却很诚实",
+        "onboard_time": 1687030034,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28509,
+        "num": 29380,
+        "word": "范丞丞音乐节",
+        "onboard_time": 1687012052,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27953,
+        "num": 29207,
+        "word": "去油版偷偷藏不住",
+        "onboard_time": 1687008330,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26088,
+        "num": 28812,
+        "word": "王一博让不出去的C位",
+        "onboard_time": 1687000230,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25953,
+        "num": 28657,
+        "word": "LNG战胜EDG",
+        "onboard_time": 1687007132,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25463,
+        "num": 28312,
+        "word": "有些衣服穿着穿着就变成睡衣了",
+        "onboard_time": 1687017870,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24720,
+        "num": 28022,
+        "word": "黑莲花 改名永夜星河",
+        "onboard_time": 1687010970,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24427,
+        "num": 27747,
+        "word": "芝芙不热吗",
+        "onboard_time": 1687016789,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24243,
+        "num": 27165,
+        "word": "古巨基看了蔡徐坤演唱会",
+        "onboard_time": 1687012774,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23328,
+        "num": 26894,
+        "word": "陈绮贞音乐节",
+        "onboard_time": 1687011452,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23246,
+        "num": 26767,
+        "word": "梦海再现知否金句",
+        "onboard_time": 1687012471,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22640,
+        "num": 26275,
+        "word": "谢娜说男生都会喜欢朱珠",
+        "onboard_time": 1687008811,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21817,
+        "num": 25942,
+        "word": "杨幂盘发梦回晴川",
+        "onboard_time": 1686989906,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21792,
+        "num": 25784,
+        "word": "电影一闪一闪亮晶晶",
+        "onboard_time": 1687016131,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21309,
+        "num": 25498,
+        "word": "中国文化在外国街头杀疯了",
+        "onboard_time": 1687012774,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20804,
+        "num": 25167,
+        "word": "长风渡定档",
+        "onboard_time": 1686987809,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20035,
+        "num": 24707,
+        "word": "杨幂杨紫的同款高跟鞋",
+        "onboard_time": 1687014213,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19447,
+        "num": 24578,
+        "word": "kpop爱豆整形模板脸",
+        "onboard_time": 1687016490,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 17405,
+        "num": 24321,
+        "word": "Uzi",
+        "onboard_time": 1687008090,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17323,
+        "num": 23900,
+        "word": "想念朱婷",
+        "onboard_time": 1687018650,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17215,
+        "num": 23427,
+        "word": "我也想被杨幂投喂",
+        "onboard_time": 1687012954,
+        "rank": 48,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 11956,
+        "num": 23336,
+        "word": "六级答案",
+        "onboard_time": 1686995014,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}

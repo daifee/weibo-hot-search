@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687030420680,
+  "endTime": 1687033020223,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -15505,6 +15505,14 @@
       "onboard_time": 1686884434,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 28943,
+      "num": 29853,
+      "word": "张小斐嘴上说不热身体却很诚实",
+      "onboard_time": 1687030034,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 28323,
