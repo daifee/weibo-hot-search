@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686993352165,
+  "endTime": 1686994415678,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2171,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1644454,
+      "num": 632911,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1642963,
       "num": 1596219,
       "word": "顾姓老师已调离华南理工",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1686623486,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1445113,
-      "num": 632911,
-      "word": "鼠头事件学生可10倍索赔",
-      "onboard_time": 1686988167,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1443641,
@@ -4411,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107234,
+      "num": 1107234,
+      "word": "六级",
+      "onboard_time": 1686993868,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1105717,
       "num": 1105717,
       "word": "张凌赫工作室宣布停更一周",
@@ -5409,6 +5417,14 @@
       "onboard_time": 1686745829,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 942338,
+      "num": 942338,
+      "word": "黑莲花 虞书欣丁禹兮",
+      "onboard_time": 1686992307,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 940655,
@@ -7891,6 +7907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 636561,
+      "num": 327828,
+      "word": "女子买1根牛肉干店员偷塞进5根的量",
+      "onboard_time": 1686990148,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632755,
       "num": 632755,
       "word": "谢娜录制你好星期六路透",
@@ -8097,14 +8121,6 @@
       "onboard_time": 1685933067,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 616006,
-      "num": 315974,
-      "word": "女子买1根牛肉干店员偷塞进5根的量",
-      "onboard_time": 1686990148,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615740,
@@ -9249,6 +9265,14 @@
       "onboard_time": 1686927329,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 518885,
+      "num": 518885,
+      "word": "沙溢演白敬亭爹",
+      "onboard_time": 1686991647,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 518254,
@@ -10547,6 +10571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 436631,
+      "num": 436631,
+      "word": "小S澄清叶舒华双面人争议",
+      "onboard_time": 1686992367,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435501,
       "num": 435501,
       "word": "原著里的桑延vs剧版里的桑延",
@@ -11577,14 +11609,6 @@
       "onboard_time": 1686552567,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392242,
-      "num": 392242,
-      "word": "黑莲花 虞书欣丁禹兮",
-      "onboard_time": 1686992307,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 391957,
@@ -13225,14 +13249,6 @@
       "onboard_time": 1686892293,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341264,
-      "num": 341264,
-      "word": "沙溢演白敬亭爹",
-      "onboard_time": 1686991647,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 341004,
@@ -14889,14 +14905,6 @@
       "onboard_time": 1685765607,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304708,
-      "num": 304708,
-      "word": "小S澄清叶舒华双面人争议",
-      "onboard_time": 1686992367,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 304621,
@@ -18617,6 +18625,14 @@
       "onboard_time": 1686922289,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250617,
+      "num": 250617,
+      "word": "公务员上岸后周围人的态度",
+      "onboard_time": 1686993149,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 250549,
@@ -23697,14 +23713,6 @@
       "onboard_time": 1685708972,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203052,
-      "num": 203052,
-      "word": "公务员上岸后周围人的态度",
-      "onboard_time": 1686993149,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 203014,
@@ -30795,6 +30803,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 153064,
+      "num": 153064,
+      "word": "真的白轶补贴",
+      "onboard_time": 1686994351,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153060,
       "num": 153060,
       "word": "多巴胺穿搭 QQ秀",
@@ -31019,6 +31035,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 151730,
+      "num": 151730,
+      "word": "就差宁安如梦了",
+      "onboard_time": 1686993690,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -31091,6 +31115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 151081,
+      "num": 151081,
+      "word": "内地对艺人是不是太好了",
+      "onboard_time": 1686993508,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151080,
       "num": 151080,
       "word": "面试时HR让我填血型",
@@ -31105,6 +31137,14 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150753,
+      "num": 150753,
+      "word": "秦岚44岁身材管理",
+      "onboard_time": 1686993267,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 150584,
@@ -32523,6 +32563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "白敬亭有两首OST",
+      "onboard_time": 1686991528,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "麻烦大家帮我P成中国背景",
@@ -32880,6 +32928,14 @@
       "word": "井胧追星张杰成功",
       "onboard_time": 1685835740,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 136740,
+      "num": 136740,
+      "word": "李荣浩西安演唱会",
+      "onboard_time": 1686993750,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -33843,6 +33899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127888,
+      "num": 523431,
+      "word": "妈妈仨月疯狂减重20斤割肝救女",
+      "onboard_time": 1686992428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "女子漂流翻船黑衣男子跳水救人",
@@ -33985,14 +34049,6 @@
       "onboard_time": 1686437596,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126600,
-      "num": 126600,
-      "word": "白敬亭有两首OST",
-      "onboard_time": 1686991528,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 126538,
@@ -34193,14 +34249,6 @@
       "onboard_time": 1686144156,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124414,
-      "num": 124414,
-      "word": "秦岚44岁身材管理",
-      "onboard_time": 1686993267,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 124357,
@@ -38019,14 +38067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65616,
-      "num": 392256,
-      "word": "妈妈仨月疯狂减重20斤割肝救女",
-      "onboard_time": 1686992428,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65598,
       "num": 178572,
       "word": "梅西中国首播定在淘宝",
@@ -39371,6 +39411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28323,
+      "num": 1371820,
+      "word": "夏日消费热起来助推经济火起来",
+      "onboard_time": 1686976651,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27760,
       "num": 36183,
       "word": "毕业之前来看演唱会",
@@ -39512,14 +39560,6 @@
       "word": "618直播闪降节爆款降到底",
       "onboard_time": 1686906027,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23328,
-      "num": 1371820,
-      "word": "夏日消费热起来助推经济火起来",
-      "onboard_time": 1686976651,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
