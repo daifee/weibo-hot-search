@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686989975971,
+  "endTime": 1686990830710,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2789248,
+      "num": 2789248,
+      "word": "一颗老鼠头为何要省级调查组才能查清",
+      "onboard_time": 1686983369,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2771105,
       "num": 2771105,
       "word": "新高考一卷数学 大题难",
@@ -801,14 +809,6 @@
       "onboard_time": 1686115357,
       "rank": 36,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 2432215,
-      "num": 2432215,
-      "word": "一颗老鼠头为何要省级调查组才能查清",
-      "onboard_time": 1686983369,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2426572,
@@ -3779,6 +3779,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1219910,
+      "num": 632911,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1215308,
       "num": 1215308,
       "word": "宋茜做错了什么",
@@ -6580,7 +6588,7 @@
     },
     {
       "raw_hot": 785496,
-      "num": 475612,
+      "num": 569076,
       "word": "向华强说以后珠宝都给郭碧婷",
       "onboard_time": 1686986188,
       "rank": 17,
@@ -7739,20 +7747,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 654327,
+      "num": 654327,
+      "word": "杨幂盘发梦回晴川",
+      "onboard_time": 1686989906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 653921,
       "num": 653921,
       "word": "沈月捧花头像",
       "onboard_time": 1686572007,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 652818,
-      "num": 468756,
-      "word": "鼠头事件学生可10倍索赔",
-      "onboard_time": 1686988167,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 647455,
@@ -10355,6 +10363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446706,
+      "num": 446706,
+      "word": "掌中宝",
+      "onboard_time": 1686986667,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446123,
       "num": 342334,
       "word": "Kpop男友照",
@@ -10947,14 +10963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417337,
-      "num": 417337,
-      "word": "杨幂盘发梦回晴川",
-      "onboard_time": 1686989906,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 417227,
       "num": 417227,
       "word": "阚清子",
@@ -11265,14 +11273,6 @@
       "onboard_time": 1686923189,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405222,
-      "num": 405222,
-      "word": "掌中宝",
-      "onboard_time": 1686986667,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 405217,
@@ -15745,6 +15745,22 @@
       "onboard_time": 1685801130,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288557,
+      "num": 288557,
+      "word": "iG对战OMG",
+      "onboard_time": 1686989906,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 288514,
+      "num": 288514,
+      "word": "女子买1根牛肉干店员偷塞进5根的量",
+      "onboard_time": 1686990148,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288392,
@@ -20347,14 +20363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231193,
-      "num": 231193,
-      "word": "iG对战OMG",
-      "onboard_time": 1686989906,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 231178,
       "num": 231178,
       "word": "那英年轻的时候也是大sai迷",
@@ -20895,6 +20903,14 @@
       "num": 226232,
       "word": "刘芮麟对肖战说抱一丝啦兄弟",
       "onboard_time": 1686743727,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226186,
+      "num": 226186,
+      "word": "肖蓓蓓就是给肖战送信的女孩",
+      "onboard_time": 1686987388,
       "rank": 32,
       "category": "影视"
     },
@@ -22595,6 +22611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211374,
+      "num": 211374,
+      "word": "书粉的命也是命啊",
+      "onboard_time": 1686988648,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211233,
       "num": 211233,
       "word": "王一博GT3赛车初体验",
@@ -23393,6 +23417,14 @@
       "onboard_time": 1686729988,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204592,
+      "num": 204592,
+      "word": "天津中考",
+      "onboard_time": 1686990209,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 204587,
@@ -24379,6 +24411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197763,
+      "num": 197763,
+      "word": "任嘉伦李兰迪 流水迢迢",
+      "onboard_time": 1686989307,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197750,
       "num": 197750,
       "word": "熊孩子真的不分物种",
@@ -24441,14 +24481,6 @@
       "onboard_time": 1685798848,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197461,
-      "num": 197461,
-      "word": "肖蓓蓓就是给肖战送信的女孩",
-      "onboard_time": 1686987388,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 197312,
@@ -27171,6 +27203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181162,
+      "num": 181162,
+      "word": "TFBOYS十周年联名立体书",
+      "onboard_time": 1686989189,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181027,
       "num": 181027,
       "word": "把内耗变成外耗",
@@ -27761,14 +27801,6 @@
       "onboard_time": 1685711554,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176381,
-      "num": 176381,
-      "word": "书粉的命也是命啊",
-      "onboard_time": 1686988648,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 176347,
@@ -28755,6 +28787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167617,
+      "num": 167617,
+      "word": "长风渡定档海报",
+      "onboard_time": 1686990690,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167502,
       "num": 167502,
       "word": "课本里的文章在写我们的一生",
@@ -28945,14 +28985,6 @@
       "onboard_time": 1685668707,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166100,
-      "num": 166100,
-      "word": "TFBOYS十周年联名立体书",
-      "onboard_time": 1686989189,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 166025,
@@ -29201,6 +29233,14 @@
       "onboard_time": 1685992393,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 164320,
+      "num": 164320,
+      "word": "肖春生静静看贺红玲表演",
+      "onboard_time": 1686987688,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 164303,
@@ -29545,14 +29585,6 @@
       "onboard_time": 1686753453,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161647,
-      "num": 161647,
-      "word": "任嘉伦李兰迪 流水迢迢",
-      "onboard_time": 1686989307,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 161545,
@@ -30763,6 +30795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152678,
+      "num": 152678,
+      "word": "王一博热烈队服",
+      "onboard_time": 1686989787,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152666,
       "num": 152666,
       "word": "高考准考证志愿表等尽量别公开晒图",
@@ -31611,14 +31651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145546,
-      "num": 145546,
-      "word": "肖春生静静看贺红玲表演",
-      "onboard_time": 1686987688,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145477,
       "num": 145477,
       "word": "95后小伙每天抡15斤大锤学打铁",
@@ -31905,6 +31937,14 @@
       "onboard_time": 1686969806,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142869,
+      "num": 142869,
+      "word": "110和119神同步的一扑太帅了",
+      "onboard_time": 1686990328,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142850,
@@ -32241,6 +32281,14 @@
       "onboard_time": 1686617130,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140348,
+      "num": 140348,
+      "word": "海南警方高能禁毒短剧",
+      "onboard_time": 1686990747,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140216,
@@ -33019,6 +33067,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 133958,
+      "num": 133958,
+      "word": "高校请近300名毕业生吃龙虾宴",
+      "onboard_time": 1686989846,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 133781,
       "num": 133781,
       "word": "选择成为幼稚的大人",
@@ -33539,14 +33595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129171,
-      "num": 128395,
-      "word": "王一博热烈队服",
-      "onboard_time": 1686989787,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129070,
       "num": 129070,
       "word": "观众称花千元在演唱会上看柱子",
@@ -33816,14 +33864,6 @@
       "word": "听听毕业生的心里话",
       "onboard_time": 1686917907,
       "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 126888,
-      "num": 126888,
-      "word": "高校请近300名毕业生吃龙虾宴",
-      "onboard_time": 1686989846,
-      "rank": 49,
       "category": "社会新闻,教育"
     },
     {
@@ -37851,6 +37891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65767,
+      "num": 541421,
+      "word": "温州小伙7年拍出绝美短片献礼杭州亚运",
+      "onboard_time": 1686988888,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65719,
       "num": 1319459,
       "word": "打卡中国",
@@ -38993,14 +39041,6 @@
       "onboard_time": 1686689953,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35166,
-      "num": 470751,
-      "word": "温州小伙7年拍出绝美短片献礼杭州亚运",
-      "onboard_time": 1686988888,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34937,
