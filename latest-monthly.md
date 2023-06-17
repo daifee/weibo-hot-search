@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 06:33:41
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 07:16:50
 </p>
 </blockquote>
 <p>
@@ -4857,6 +4857,12 @@ PDD直播弹幕（热度：822919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
+父亲节（热度：813659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%83%E5%AD%90%E7%AC%91%E8%8D%94%E6%9E%9D%23" target="weibo">
 妃子笑荔枝（热度：813062）
 </a>
@@ -6005,12 +6011,6 @@ Jennie小松菜奈热聊（热度：659490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E5%A5%BD%E9%9A%BE%23" target="weibo">
 六级听力好难（热度：648312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%99%88%E9%83%BD%E7%81%B5%E6%88%B4%E4%BA%86%E5%90%8C%E6%AC%BE%E8%80%B3%E9%A5%B0%23" target="weibo">
-白鹿陈都灵戴了同款耳饰（热度：647455）
 </a>
 </li>
 

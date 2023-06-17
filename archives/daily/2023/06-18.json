@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687041221372,
+  "endTime": 1687043810809,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -25,6 +25,14 @@
       "onboard_time": 1687015532,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 813659,
+      "num": 813659,
+      "word": "父亲节",
+      "onboard_time": 1687043058,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784996,
@@ -403,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85997,
+      "num": 85997,
+      "word": "母亲节vs父亲节",
+      "onboard_time": 1687042815,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81693,
       "num": 79908,
       "word": "zb1",
@@ -427,11 +443,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76264,
+      "num": 76264,
+      "word": "感谢鲁U3G833",
+      "onboard_time": 1687042815,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74952,
       "num": 74940,
       "word": "王一博让不出去的C位",
       "onboard_time": 1687000230,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 72546,
+      "num": 72546,
+      "word": "肖战的肌肉隔着衣服都能看到",
+      "onboard_time": 1687036512,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -443,12 +475,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57857,
-      "num": 45950,
-      "word": "肖战的肌肉隔着衣服都能看到",
-      "onboard_time": 1687036512,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 61537,
+      "num": 61537,
+      "word": "天津中考数学创新题",
+      "onboard_time": 1687038853,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 57381,
+      "num": 57381,
+      "word": "孙悟空是更适合中国宝宝的超级英雄",
+      "onboard_time": 1687042276,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 56296,
+      "num": 56296,
+      "word": "毕业典礼开启雨刷器模式",
+      "onboard_time": 1687043417,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 52494,
+      "num": 52494,
+      "word": "消防员火场救人后抱出吓傻狗子",
+      "onboard_time": 1687042815,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50757,
@@ -459,28 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47344,
+      "num": 47344,
+      "word": "妈妈请允许我把最后心跳献给祖国人民",
+      "onboard_time": 1687042815,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 45593,
+      "num": 430274,
+      "word": "哪个瞬间你发现爸爸不再年轻",
+      "onboard_time": 1687015292,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40811,
       "num": 40811,
       "word": "周柏豪佛山演唱会",
       "onboard_time": 1687023559,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34187,
-      "num": 37894,
-      "word": "天津中考数学创新题",
-      "onboard_time": 1687038853,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 33085,
-      "num": 284035,
-      "word": "哪个瞬间你发现爸爸不再年轻",
-      "onboard_time": 1687015292,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30385,
