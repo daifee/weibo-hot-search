@@ -1,9 +1,9 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686978949709,
+  "endTime": 1686980023840,
   "band_list": [
     {
-      "raw_hot": 9587177,
+      "raw_hot": 10116638,
       "num": 10837177,
       "word": "联合调查组认定饭菜中异物是鼠头",
       "onboard_time": 1686976651,
@@ -41,6 +41,14 @@
       "onboard_time": 1686959242,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2526642,
+      "num": 2526642,
+      "word": "鼠头异物被涉事食堂事发当日丢弃",
+      "onboard_time": 1686977313,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2019476,
@@ -99,14 +107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1517777,
-      "num": 1517777,
-      "word": "鼠头异物被涉事食堂事发当日丢弃",
-      "onboard_time": 1686977313,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1417518,
       "num": 1417518,
       "word": "迪丽热巴照片有热带鱼表情",
@@ -137,6 +137,14 @@
       "onboard_time": 1686962304,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1126606,
+      "num": 1126606,
+      "word": "为何鼠头曾被认定为鸭脖",
+      "onboard_time": 1686977674,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 997381,
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837070,
+      "num": 837070,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 758728,
       "num": 584899,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747405,
+      "num": 747405,
+      "word": "鼠头鸭脖事件院校删除此前声明",
+      "onboard_time": 1686979896,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 724886,
@@ -203,14 +227,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 715888,
-      "num": 715888,
-      "word": "备孕前千万记得拔智齿",
-      "onboard_time": 1686975450,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 703890,
       "num": 703890,
       "word": "床垫上的保护膜到底用不用撕",
@@ -225,6 +241,22 @@
       "onboard_time": 1686929309,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629769,
+      "num": 629769,
+      "word": "买洞洞鞋后这辈子就定型了",
+      "onboard_time": 1686978874,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 598836,
+      "num": 598836,
+      "word": "指鼠为鸭",
+      "onboard_time": 1686979958,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562918,
@@ -265,14 +297,6 @@
       "onboard_time": 1686957439,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524323,
-      "num": 524323,
-      "word": "为何鼠头曾被认定为鸭脖",
-      "onboard_time": 1686977674,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521020,
@@ -347,8 +371,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 405800,
-      "num": 405800,
+      "raw_hot": 435501,
+      "num": 435501,
       "word": "原著里的桑延vs剧版里的桑延",
       "onboard_time": 1686975869,
       "rank": 32,
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345246,
+      "num": 345246,
+      "word": "四级难了 六级就不许了哦",
+      "onboard_time": 1686976891,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 340202,
       "num": 172515,
       "word": "吴倩方晒出院记录",
@@ -467,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325223,
+      "num": 291810,
+      "word": "室友给了假的考试重点",
+      "onboard_time": 1686979417,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313755,
       "num": 313755,
       "word": "我的大腿和男朋友的大腿",
@@ -483,28 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310990,
-      "num": 310990,
-      "word": "四级难了 六级就不许了哦",
-      "onboard_time": 1686976891,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 306926,
       "num": 172144,
       "word": "女导游穿紧身裤被质疑是色情营销",
       "onboard_time": 1686877650,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302794,
-      "num": 302794,
-      "word": "买洞洞鞋后这辈子就定型了",
-      "onboard_time": 1686978874,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 292592,
@@ -521,6 +545,14 @@
       "onboard_time": 1686926251,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281927,
+      "num": 281927,
+      "word": "还以为杨紫关晓彤在吵架",
+      "onboard_time": 1686978874,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 274669,
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232445,
+      "num": 232445,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230805,
       "num": 230805,
       "word": "姜思达卖女装",
@@ -683,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225779,
-      "num": 225779,
-      "word": "还以为杨紫关晓彤在吵架",
-      "onboard_time": 1686978874,
-      "rank": 42,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 223385,
       "num": 172061,
       "word": "袁姗姗一字肩高开叉礼服",
@@ -705,6 +737,14 @@
       "onboard_time": 1686971429,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 222041,
+      "num": 222041,
+      "word": "银狼",
+      "onboard_time": 1686978635,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 222029,
@@ -731,20 +771,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 211810,
+      "num": 211810,
+      "word": "如何看待鼠头鸭脖事件调查结果",
+      "onboard_time": 1686979896,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 211484,
       "num": 216848,
       "word": "街道社区卫生服务中心打错宫颈癌疫苗",
       "onboard_time": 1686974193,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209592,
-      "num": 209592,
-      "word": "银狼",
-      "onboard_time": 1686978635,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 208699,
@@ -803,12 +843,36 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 197902,
+      "num": 197902,
+      "word": "小猪妖和狼大人是这样认识的",
+      "onboard_time": 1686979114,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197312,
+      "num": 197312,
+      "word": "肖春生转戒指",
+      "onboard_time": 1686979114,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196295,
       "num": 171952,
       "word": "TFBOYS演唱会投票",
       "onboard_time": 1686917848,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196283,
+      "num": 196283,
+      "word": "四公",
+      "onboard_time": 1686978996,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 192543,
@@ -1427,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67729,
+      "num": 612229,
+      "word": "学生毕业典礼激情说唱我的祖国燃爆全场",
+      "onboard_time": 1686978035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63812,
       "num": 128288,
       "word": "两千三的工资面了三轮",
@@ -1504,14 +1576,6 @@
       "word": "奋进中国大江澎湃",
       "onboard_time": 1686976955,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36012,
-      "num": 529787,
-      "word": "学生毕业典礼激情说唱我的祖国燃爆全场",
-      "onboard_time": 1686978035,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

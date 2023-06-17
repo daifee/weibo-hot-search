@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686978949709,
+  "endTime": 1686980023840,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10116638,
+      "num": 10837177,
+      "word": "联合调查组认定饭菜中异物是鼠头",
+      "onboard_time": 1686976651,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10053896,
       "num": 10053896,
       "word": "TFBOYS十年之约演唱会官宣",
       "onboard_time": 1686882328,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 9587177,
-      "num": 10837177,
-      "word": "联合调查组认定饭菜中异物是鼠头",
-      "onboard_time": 1686976651,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7308190,
@@ -249,6 +249,14 @@
       "onboard_time": 1686639387,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2526642,
+      "num": 2526642,
+      "word": "鼠头异物被涉事食堂事发当日丢弃",
+      "onboard_time": 1686977313,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2521682,
@@ -851,14 +859,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1517777,
-      "num": 1517777,
-      "word": "鼠头异物被涉事食堂事发当日丢弃",
-      "onboard_time": 1686977313,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1507639,
       "num": 1507639,
       "word": "博主因性别称谓发视频曝光空乘",
@@ -1433,6 +1433,14 @@
       "onboard_time": 1686570389,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1126606,
+      "num": 1126606,
+      "word": "为何鼠头曾被认定为鸭脖",
+      "onboard_time": 1686977674,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1118116,
@@ -2027,6 +2035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 837070,
+      "num": 837070,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 836539,
       "num": 836539,
       "word": "贾乃亮黄景瑜评论区互怼",
@@ -2267,6 +2283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 747405,
+      "num": 747405,
+      "word": "鼠头鸭脖事件院校删除此前声明",
+      "onboard_time": 1686979896,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 745560,
       "num": 745560,
       "word": "关晓彤25岁身材管理",
@@ -2377,14 +2401,6 @@
       "onboard_time": 1686964107,
       "rank": 19,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 715888,
-      "num": 715888,
-      "word": "备孕前千万记得拔智齿",
-      "onboard_time": 1686975450,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 715346,
@@ -2571,6 +2587,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 629769,
+      "num": 629769,
+      "word": "买洞洞鞋后这辈子就定型了",
+      "onboard_time": 1686978874,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 625449,
       "num": 508181,
       "word": "被领导偷看了微信聊天记录",
@@ -2608,6 +2632,14 @@
       "word": "天津爆炸",
       "onboard_time": 1686702931,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598836,
+      "num": 598836,
+      "word": "指鼠为鸭",
+      "onboard_time": 1686979958,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2913,14 +2945,6 @@
       "onboard_time": 1686957439,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524323,
-      "num": 524323,
-      "word": "为何鼠头曾被认定为鸭脖",
-      "onboard_time": 1686977674,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522550,
@@ -3323,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435501,
+      "num": 435501,
+      "word": "原著里的桑延vs剧版里的桑延",
+      "onboard_time": 1686975869,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434002,
       "num": 434002,
       "word": "蔚来全系车型降价3万元",
@@ -3481,14 +3513,6 @@
       "onboard_time": 1686636387,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405800,
-      "num": 405800,
-      "word": "原著里的桑延vs剧版里的桑延",
-      "onboard_time": 1686975869,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 405669,
@@ -4083,6 +4107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345246,
+      "num": 345246,
+      "word": "四级难了 六级就不许了哦",
+      "onboard_time": 1686976891,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 343880,
       "num": 299657,
       "word": "赵雅芝为王一博颁奖",
@@ -4379,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325223,
+      "num": 291810,
+      "word": "室友给了假的考试重点",
+      "onboard_time": 1686979417,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324675,
       "num": 324675,
       "word": "古偶四大白发",
@@ -4603,14 +4643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310990,
-      "num": 310990,
-      "word": "四级难了 六级就不许了哦",
-      "onboard_time": 1686976891,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 310174,
       "num": 310174,
       "word": "武汉商学院",
@@ -4697,14 +4729,6 @@
       "onboard_time": 1686556891,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302794,
-      "num": 302794,
-      "word": "买洞洞鞋后这辈子就定型了",
-      "onboard_time": 1686978874,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 302652,
@@ -5017,6 +5041,14 @@
       "onboard_time": 1686639446,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281927,
+      "num": 281927,
+      "word": "还以为杨紫关晓彤在吵架",
+      "onboard_time": 1686978874,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 281750,
@@ -6395,6 +6427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232445,
+      "num": 232445,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231930,
       "num": 231930,
       "word": "张惠妹上海抢票",
@@ -6691,14 +6731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225779,
-      "num": 225779,
-      "word": "还以为杨紫关晓彤在吵架",
-      "onboard_time": 1686978874,
-      "rank": 42,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 225541,
       "num": 225541,
       "word": "王子奇王玉雯说四搭演西游记",
@@ -6817,6 +6849,14 @@
       "onboard_time": 1686971429,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 222041,
+      "num": 222041,
+      "word": "银狼",
+      "onboard_time": 1686978635,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 222029,
@@ -7283,6 +7323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211810,
+      "num": 211810,
+      "word": "如何看待鼠头鸭脖事件调查结果",
+      "onboard_time": 1686979896,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 211530,
       "num": 211530,
       "word": "伍佰的一半",
@@ -7369,14 +7417,6 @@
       "onboard_time": 1686737068,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209592,
-      "num": 209592,
-      "word": "银狼",
-      "onboard_time": 1686978635,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 209585,
@@ -8011,6 +8051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197902,
+      "num": 197902,
+      "word": "小猪妖和狼大人是这样认识的",
+      "onboard_time": 1686979114,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197879,
       "num": 197879,
       "word": "同龄人的朋友圈和我的朋友圈",
@@ -8041,6 +8089,14 @@
       "onboard_time": 1686835526,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197312,
+      "num": 197312,
+      "word": "肖春生转戒指",
+      "onboard_time": 1686979114,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 197302,
@@ -8089,6 +8145,14 @@
       "onboard_time": 1686494432,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196283,
+      "num": 196283,
+      "word": "四公",
+      "onboard_time": 1686978996,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 196001,
@@ -13323,6 +13387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67729,
+      "num": 612229,
+      "word": "学生毕业典礼激情说唱我的祖国燃爆全场",
+      "onboard_time": 1686978035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67416,
       "num": 67416,
       "word": "叶国华造孽刘芮麟还",
@@ -13744,14 +13816,6 @@
       "word": "改完收货地址意识到真的毕业了",
       "onboard_time": 1686564029,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36012,
-      "num": 529787,
-      "word": "学生毕业典礼激情说唱我的祖国燃爆全场",
-      "onboard_time": 1686978035,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
