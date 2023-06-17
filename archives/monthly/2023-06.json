@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687000428786,
+  "endTime": 1687001630480,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -811,6 +811,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2439959,
+      "num": 2357212,
+      "word": "绝味鸭脖称终于沉冤得雪",
+      "onboard_time": 1686998729,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2437344,
       "num": 2437344,
       "word": "任嘉伦押中高考作文题",
@@ -880,14 +888,6 @@
       "word": "上四休三",
       "onboard_time": 1685789606,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2357212,
-      "num": 2357212,
-      "word": "绝味鸭脖称终于沉冤得雪",
-      "onboard_time": 1686998729,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2475,6 +2475,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1556452,
+      "num": 1556452,
+      "word": "Angelababy 求求了给我脚趾p个美甲",
+      "onboard_time": 1686999089,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -3929,14 +3937,6 @@
       "onboard_time": 1686057090,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1197126,
-      "num": 1197126,
-      "word": "Angelababy 求求了给我脚趾p个美甲",
-      "onboard_time": 1686999089,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1196313,
@@ -6779,6 +6779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773182,
+      "num": 773182,
+      "word": "迪丽热巴 剪睫毛",
+      "onboard_time": 1686998067,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 773096,
       "num": 773096,
       "word": "肝脏移植前后肤色对比",
@@ -6865,14 +6873,6 @@
       "onboard_time": 1686832886,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 766438,
-      "num": 460069,
-      "word": "迪丽热巴 剪睫毛",
-      "onboard_time": 1686998067,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 766333,
@@ -8513,6 +8513,14 @@
       "onboard_time": 1685673807,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 584047,
+      "num": 584047,
+      "word": "王一博让不出去的C位",
+      "onboard_time": 1687000230,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 583105,
@@ -13691,6 +13699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 333409,
+      "num": 333409,
+      "word": "江苏一酒店被征用后遭损毁至今交还不能",
+      "onboard_time": 1686999749,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333216,
       "num": 333216,
       "word": "侯媛丽",
@@ -15187,6 +15203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301317,
+      "num": 301317,
+      "word": "童瑶抹胸上挂了68把钥匙",
+      "onboard_time": 1687001068,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 301023,
       "num": 229426,
       "word": "沈腾秀表 妖娆",
@@ -15633,6 +15657,14 @@
       "onboard_time": 1685683951,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292732,
+      "num": 292732,
+      "word": "千万不要和楼下店老板混得熟",
+      "onboard_time": 1687000470,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 292592,
@@ -16712,14 +16744,6 @@
       "word": "花花和大家打招呼",
       "onboard_time": 1685771246,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275286,
-      "num": 275286,
-      "word": "江苏一酒店被征用后遭损毁至今交还不能",
-      "onboard_time": 1686999749,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -19947,6 +19971,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 237683,
+      "num": 237683,
+      "word": "蔡徐坤香港演唱会",
+      "onboard_time": 1687001369,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237636,
       "num": 237636,
       "word": "山崎贤人尹净汉同框",
@@ -20449,6 +20481,14 @@
       "onboard_time": 1685700631,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232008,
+      "num": 232008,
+      "word": "小狗没想到居然装了监控",
+      "onboard_time": 1687000349,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 231997,
@@ -22009,6 +22049,14 @@
       "onboard_time": 1686021929,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218400,
+      "num": 218400,
+      "word": "王一博要是被绑架了就眨眨眼",
+      "onboard_time": 1687001247,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 218302,
@@ -23847,14 +23895,6 @@
       "num": 156540,
       "word": "芭比内地定档",
       "onboard_time": 1686921090,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 203273,
-      "num": 203273,
-      "word": "王一博让不出去的C位",
-      "onboard_time": 1687000230,
       "rank": 41,
       "category": "影视"
     },
@@ -26225,14 +26265,6 @@
       "onboard_time": 1686792927,
       "rank": 33,
       "category": "社会议题,旅游"
-    },
-    {
-      "raw_hot": 189399,
-      "num": 188275,
-      "word": "小狗没想到居然装了监控",
-      "onboard_time": 1687000349,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 189311,
@@ -28643,6 +28675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170863,
+      "num": 167753,
+      "word": "杨千嬅厦门演唱会",
+      "onboard_time": 1687001488,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170838,
       "num": 178564,
       "word": "中国女排获得两连胜",
@@ -28753,6 +28793,14 @@
       "onboard_time": 1685794949,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169767,
+      "num": 169767,
+      "word": "拼多多真不拿我当外人",
+      "onboard_time": 1687001189,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169739,

@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687000428786,
+  "endTime": 1687001630480,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2357212,
+      "raw_hot": 2439959,
       "num": 2357212,
       "word": "绝味鸭脖称终于沉冤得雪",
       "onboard_time": 1686998729,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1556452,
+      "num": 1556452,
+      "word": "Angelababy 求求了给我脚趾p个美甲",
+      "onboard_time": 1686999089,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1547476,
       "num": 1547476,
       "word": "四级答案",
@@ -233,14 +241,6 @@
       "onboard_time": 1686962304,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1197126,
-      "num": 1197126,
-      "word": "Angelababy 求求了给我脚趾p个美甲",
-      "onboard_time": 1686999089,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1126606,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773182,
+      "num": 773182,
+      "word": "迪丽热巴 剪睫毛",
+      "onboard_time": 1686998067,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 772058,
       "num": 772058,
       "word": "六级翻译",
@@ -336,14 +344,6 @@
       "word": "网友评选上半年烂剧之王",
       "onboard_time": 1686979595,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 766438,
-      "num": 460069,
-      "word": "迪丽热巴 剪睫毛",
-      "onboard_time": 1686998067,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -457,6 +457,14 @@
       "onboard_time": 1686978874,
       "rank": 42,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 584047,
+      "num": 584047,
+      "word": "王一博让不出去的C位",
+      "onboard_time": 1687000230,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 551817,
@@ -739,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333409,
+      "num": 333409,
+      "word": "江苏一酒店被征用后遭损毁至今交还不能",
+      "onboard_time": 1686999749,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330083,
       "num": 330083,
       "word": "星穹铁道被黑了",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301317,
+      "num": 301317,
+      "word": "童瑶抹胸上挂了68把钥匙",
+      "onboard_time": 1687001068,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 297802,
       "num": 297802,
       "word": "上海电影节闭幕红毯",
@@ -809,6 +833,14 @@
       "onboard_time": 1686982052,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292732,
+      "num": 292732,
+      "word": "千万不要和楼下店老板混得熟",
+      "onboard_time": 1687000470,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 292592,
@@ -873,14 +905,6 @@
       "onboard_time": 1686993508,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275286,
-      "num": 275286,
-      "word": "江苏一酒店被征用后遭损毁至今交还不能",
-      "onboard_time": 1686999749,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274669,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237683,
+      "num": 237683,
+      "word": "蔡徐坤香港演唱会",
+      "onboard_time": 1687001369,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235638,
       "num": 235638,
       "word": "六级预测",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1686967167,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232008,
+      "num": 232008,
+      "word": "小狗没想到居然装了监控",
+      "onboard_time": 1687000349,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 231864,
@@ -1187,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218400,
+      "num": 218400,
+      "word": "王一博要是被绑架了就眨眨眼",
+      "onboard_time": 1687001247,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216634,
       "num": 216634,
       "word": "四级听力",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1686918868,
       "rank": 14,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 203273,
-      "num": 203273,
-      "word": "王一博让不出去的C位",
-      "onboard_time": 1687000230,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 202889,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1686975811,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 189399,
-      "num": 188275,
-      "word": "小狗没想到居然装了监控",
-      "onboard_time": 1687000349,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 188669,
@@ -1587,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170863,
+      "num": 167753,
+      "word": "杨千嬅厦门演唱会",
+      "onboard_time": 1687001488,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170756,
       "num": 170756,
       "word": "不要在马路中间吵架",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1686982472,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169767,
+      "num": 169767,
+      "word": "拼多多真不拿我当外人",
+      "onboard_time": 1687001189,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169598,
