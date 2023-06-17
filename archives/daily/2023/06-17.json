@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687008830003,
+  "endTime": 1687011240525,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1243186,
+      "num": 1243186,
+      "word": "萧敬腾方报警检测自证清白",
+      "onboard_time": 1687010012,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1196530,
       "num": 1196530,
       "word": "帮男朋友洗6年没有洗过的脏辫",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784906,
+      "num": 784906,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 773182,
       "num": 773182,
       "word": "迪丽热巴 剪睫毛",
@@ -377,14 +393,6 @@
       "onboard_time": 1686972630,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 767289,
-      "num": 767289,
-      "word": "网友评选上半年烂剧之王",
-      "onboard_time": 1686979595,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 758728,
@@ -441,6 +449,14 @@
       "onboard_time": 1686959002,
       "rank": 5,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 700020,
+      "num": 265153,
+      "word": "女子住酒店赤身躺床男子刷卡进入",
+      "onboard_time": 1687009410,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695253,
@@ -523,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 591770,
+      "num": 199158,
+      "word": "中国女排世联赛首败",
+      "onboard_time": 1687011151,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551817,
       "num": 551817,
       "word": "王宝强八角笼中首波口碑",
@@ -587,6 +611,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516322,
+      "num": 311524,
+      "word": "去油版偷偷藏不住",
+      "onboard_time": 1687008330,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 516312,
+      "num": 300827,
+      "word": "建议棣欣引力别看",
+      "onboard_time": 1687009950,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498954,
       "num": 498954,
       "word": "TFBOYS是巡演吗",
@@ -617,6 +657,22 @@
       "onboard_time": 1686896849,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470618,
+      "num": 470618,
+      "word": "Uzi",
+      "onboard_time": 1687008090,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 468233,
+      "num": 198910,
+      "word": "女生称没穿内衣取外卖被骑手骚扰",
+      "onboard_time": 1687009830,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467909,
@@ -692,19 +748,11 @@
     },
     {
       "raw_hot": 401853,
-      "num": 206949,
+      "num": 239573,
       "word": "我有一栋楼 是要偷你什么东西",
       "onboard_time": 1687006352,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 400014,
-      "num": 400014,
-      "word": "Uzi",
-      "onboard_time": 1687008090,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 399824,
@@ -731,11 +779,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 384042,
+      "num": 246467,
+      "word": "理想发布会",
+      "onboard_time": 1687010672,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 382879,
       "num": 382879,
       "word": "王一博真的有听汪涵说的话",
       "onboard_time": 1686971969,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 382514,
+      "num": 228213,
+      "word": "谢娜说男生都会喜欢朱珠",
+      "onboard_time": 1687008811,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -785,6 +849,14 @@
       "onboard_time": 1686989128,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356205,
+      "num": 211048,
+      "word": "谢娜 她她她",
+      "onboard_time": 1687010250,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 351577,
@@ -985,6 +1057,14 @@
       "onboard_time": 1686926251,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289260,
+      "num": 198058,
+      "word": "梦中的那片海收视率",
+      "onboard_time": 1687008871,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 288557,
@@ -1355,12 +1435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224677,
-      "num": 162704,
-      "word": "去油版偷偷藏不住",
-      "onboard_time": 1687008330,
+      "raw_hot": 223770,
+      "num": 197711,
+      "word": "WE亚运征途全胜",
+      "onboard_time": 1687010790,
       "rank": 37,
-      "category": "影视"
+      "category": "游戏"
     },
     {
       "raw_hot": 223385,
@@ -1403,6 +1483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220463,
+      "num": 161911,
+      "word": "李宇春演唱会上给李荣浩打电话",
+      "onboard_time": 1687010672,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219581,
       "num": 219581,
       "word": "书粉的命也是命啊",
@@ -1427,6 +1515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216256,
+      "num": 159838,
+      "word": "黑莲花 改名永夜星河",
+      "onboard_time": 1687010970,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216160,
       "num": 216160,
       "word": "这才是毕业生最想听到的祝福",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1686992849,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213387,
+      "num": 155666,
+      "word": "长风渡",
+      "onboard_time": 1687009712,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 211810,
@@ -1465,6 +1569,14 @@
       "onboard_time": 1686932067,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208354,
+      "num": 151691,
+      "word": "肖战谈付宁导演",
+      "onboard_time": 1687010970,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 207020,
@@ -1875,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168835,
-      "num": 148884,
-      "word": "谢娜说男生都会喜欢朱珠",
-      "onboard_time": 1687008811,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167638,
       "num": 167638,
       "word": "梁洁少女感",
@@ -2243,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143951,
+      "num": 143951,
+      "word": "代驾凌晨冒雨推车男子热心捎回城",
+      "onboard_time": 1687010970,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143839,
       "num": 156097,
       "word": "一定要睡个好觉的原因",
@@ -2289,6 +2401,14 @@
       "onboard_time": 1686956958,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140880,
+      "num": 140880,
+      "word": "金白开知道自己赚这么多吗",
+      "onboard_time": 1687010191,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 140348,
@@ -2401,6 +2521,14 @@
       "onboard_time": 1687005268,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129367,
+      "num": 140868,
+      "word": "狗头萝莉 长发发型合集",
+      "onboard_time": 1687011151,
+      "rank": 49,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 128482,
