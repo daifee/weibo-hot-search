@@ -1,0 +1,410 @@
+{
+  "runTime": 1686998008088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7457731,
+        "num": 7457731,
+        "word": "六级",
+        "onboard_time": 1686993868,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526091,
+        "num": 4346230,
+        "word": "中考生家长喊话广场舞大妈秒撤",
+        "onboard_time": 1686995434,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 16813,
+        "num": 2946449,
+        "word": "夏日消费热起来助推经济火起来",
+        "onboard_time": 1686976651,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1729892,
+        "num": 1729892,
+        "word": "六级答案",
+        "onboard_time": 1686995014,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252588,
+        "num": 1550194,
+        "word": "妈妈仨月疯狂减重20斤割肝救女",
+        "onboard_time": 1686992428,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1528991,
+        "num": 1528991,
+        "word": "杨幂盘发梦回晴川",
+        "onboard_time": 1686989906,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160632,
+        "num": 1372339,
+        "word": "香港明星足球队喊话贵州村超",
+        "onboard_time": 1686996511,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1298578,
+        "num": 1298578,
+        "word": "杨幂露背了",
+        "onboard_time": 1686994470,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1148578,
+        "num": 1148578,
+        "word": "一颗老鼠头为何要省级调查组才能查清",
+        "onboard_time": 1686983369,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021296,
+        "num": 1021296,
+        "word": "黑莲花 虞书欣丁禹兮",
+        "onboard_time": 1686992307,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 779242,
+        "num": 779242,
+        "word": "长风渡定档",
+        "onboard_time": 1686987809,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689439,
+        "num": 689439,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 661272,
+        "num": 661272,
+        "word": "六级翻译 无从下手",
+        "onboard_time": 1686997830,
+        "rank": 12,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 656486,
+        "num": 656486,
+        "word": "Jennie是前一天爬山太累了吗",
+        "onboard_time": 1686985169,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46845,
+        "num": 654674,
+        "word": "辅警散步途中突遇火情翻墙救火",
+        "onboard_time": 1686996094,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653203,
+        "num": 653203,
+        "word": "鼠头异物被涉事食堂事发当日丢弃",
+        "onboard_time": 1686977313,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641326,
+        "num": 641326,
+        "word": "小S澄清叶舒华双面人争议",
+        "onboard_time": 1686992367,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622907,
+        "num": 622907,
+        "word": "沙溢演白敬亭爹",
+        "onboard_time": 1686991647,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502771,
+        "num": 502771,
+        "word": "郑业成 希望大家不要效仿我的错误行为",
+        "onboard_time": 1686984392,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501199,
+        "num": 501199,
+        "word": "六级阅读",
+        "onboard_time": 1686995496,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1703600,
+        "num": 495927,
+        "word": "鼠头事件学生可10倍索赔",
+        "onboard_time": 1686988167,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 485361,
+        "num": 485361,
+        "word": "六级听力好难",
+        "onboard_time": 1686996569,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 427038,
+        "num": 427038,
+        "word": "六级翻译",
+        "onboard_time": 1686995434,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 418386,
+        "num": 418386,
+        "word": "女子买1根牛肉干店员偷塞进5根的量",
+        "onboard_time": 1686990148,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410096,
+        "num": 410096,
+        "word": "向华强说以后珠宝都给郭碧婷",
+        "onboard_time": 1686986188,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408128,
+        "num": 408128,
+        "word": "四级",
+        "onboard_time": 1686973533,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403794,
+        "num": 403794,
+        "word": "买洞洞鞋后这辈子就定型了",
+        "onboard_time": 1686978874,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295555,
+        "num": 295555,
+        "word": "网友评选上半年烂剧之王",
+        "onboard_time": 1686979595,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277193,
+        "num": 277193,
+        "word": "七彩猫",
+        "onboard_time": 1686996273,
+        "rank": 28,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 275688,
+        "num": 275688,
+        "word": "内地对艺人是不是太好了",
+        "onboard_time": 1686993508,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1637648,
+        "num": 271570,
+        "word": "轮到看大学生四六级笑话了",
+        "onboard_time": 1686997710,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267307,
+        "num": 267307,
+        "word": "伊能静儿子跳舞好好看",
+        "onboard_time": 1686983612,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266894,
+        "num": 266894,
+        "word": "TFBOYS十周年联名立体书",
+        "onboard_time": 1686989189,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245953,
+        "num": 245953,
+        "word": "公务员上岸后周围人的态度",
+        "onboard_time": 1686993149,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242254,
+        "num": 242254,
+        "word": "哇唧唧哇新人连续三天高温室外快闪",
+        "onboard_time": 1686991949,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237997,
+        "num": 237997,
+        "word": "还以为杨紫关晓彤在吵架",
+        "onboard_time": 1686978874,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 228102,
+        "num": 228102,
+        "word": "真的白轶补贴",
+        "onboard_time": 1686994351,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226248,
+        "num": 226248,
+        "word": "六级作文",
+        "onboard_time": 1686995855,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221030,
+        "num": 221030,
+        "word": "陈宏军居然出轨了",
+        "onboard_time": 1686975330,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219514,
+        "num": 219514,
+        "word": "联合调查组认定饭菜中异物是鼠头",
+        "onboard_time": 1686976651,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206694,
+        "num": 206694,
+        "word": "谭松韵终于来录毛雪汪了",
+        "onboard_time": 1686992849,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126351,
+        "num": 205332,
+        "word": "看丫丫吃饭被香迷糊了",
+        "onboard_time": 1686997412,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205243,
+        "num": 205243,
+        "word": "胡锡进 希望鼠头鸭脖为全社会敲响警钟",
+        "onboard_time": 1686985169,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192042,
+        "num": 192042,
+        "word": "肖蓓蓓就是给肖战送信的女孩",
+        "onboard_time": 1686987388,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188383,
+        "num": 188383,
+        "word": "全员加速中",
+        "onboard_time": 1686997771,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187148,
+        "num": 187148,
+        "word": "就差宁安如梦了",
+        "onboard_time": 1686993690,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163168,
+        "num": 183903,
+        "word": "KSG对战TTG",
+        "onboard_time": 1686996511,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 181662,
+        "word": "秦岚44岁身材管理",
+        "onboard_time": 1686993267,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116886,
+        "num": 181379,
+        "word": "RA对战WBG",
+        "onboard_time": 1686997889,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116588,
+        "num": 180167,
+        "word": "荔枝鸡翅",
+        "onboard_time": 1686996630,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}
