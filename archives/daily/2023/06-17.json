@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687005971587,
+  "endTime": 1687007892971,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -115,7 +115,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1717802,
+      "raw_hot": 1808213,
+      "num": 1808213,
+      "word": "胡歌大鹏影帝双黄蛋",
+      "onboard_time": 1687006109,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1779279,
       "num": 1556452,
       "word": "Angelababy 求求了给我脚趾p个美甲",
       "onboard_time": 1686999089,
@@ -251,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1196530,
+      "num": 1196530,
+      "word": "帮男朋友洗6年没有洗过的脏辫",
+      "onboard_time": 1687004370,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1161099,
       "num": 1085331,
       "word": "童瑶抹胸上挂了68把钥匙",
@@ -329,6 +345,14 @@
       "onboard_time": 1686966627,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806573,
+      "num": 806573,
+      "word": "LNG战胜EDG",
+      "onboard_time": 1687007132,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 785496,
@@ -491,12 +515,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 599609,
-      "num": 279768,
-      "word": "帮男朋友洗6年没有洗过的脏辫",
-      "onboard_time": 1687004370,
-      "rank": 30,
-      "category": "幽默,情感"
+      "raw_hot": 601657,
+      "num": 601657,
+      "word": "LNG对战EDG",
+      "onboard_time": 1687002268,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 551817,
@@ -659,8 +683,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 411578,
-      "num": 411578,
+      "raw_hot": 414640,
+      "num": 414640,
       "word": "憋屈了13年的猫猫终于翻身了",
       "onboard_time": 1687003291,
       "rank": 19,
@@ -673,14 +697,6 @@
       "onboard_time": 1686970347,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394696,
-      "num": 394696,
-      "word": "LNG对战EDG",
-      "onboard_time": 1687002268,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 394238,
@@ -787,6 +803,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 340579,
+      "num": 179288,
+      "word": "我有一栋楼 是要偷你什么东西",
+      "onboard_time": 1687006352,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340202,
       "num": 172515,
       "word": "吴倩方晒出院记录",
@@ -801,6 +825,14 @@
       "onboard_time": 1686959062,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 337008,
+      "num": 337008,
+      "word": "中国女排vs波兰女排",
+      "onboard_time": 1687006833,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 335488,
@@ -1179,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241450,
+      "num": 241450,
+      "word": "MVP不给gala",
+      "onboard_time": 1687003950,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238486,
       "num": 238486,
       "word": "贾静雯老公pick秋瓷炫",
@@ -1283,14 +1323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225422,
-      "num": 225422,
-      "word": "MVP不给gala",
-      "onboard_time": 1687003950,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223385,
       "num": 172061,
       "word": "袁姗姗一字肩高开叉礼服",
@@ -1347,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216966,
+      "num": 175203,
+      "word": "上海电影节获奖名单",
+      "onboard_time": 1687006531,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216634,
       "num": 216634,
       "word": "四级听力",
@@ -1368,6 +1408,14 @@
       "word": "谭松韵终于来录毛雪汪了",
       "onboard_time": 1686992849,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212829,
+      "num": 173595,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1707,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176822,
+      "num": 158641,
+      "word": "金爵奖",
+      "onboard_time": 1687007730,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176036,
       "num": 176036,
       "word": "手机屏保是你生活的意义吗",
@@ -1723,20 +1779,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175169,
+      "num": 158890,
+      "word": "高瀚宇假扮猎人好搞笑",
+      "onboard_time": 1687005750,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174075,
       "num": 174075,
       "word": "广州龙舟",
       "onboard_time": 1686992906,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174056,
-      "num": 158890,
-      "word": "高瀚宇假扮猎人好搞笑",
-      "onboard_time": 1687005750,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 171904,
@@ -2115,14 +2171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145913,
-      "num": 145913,
-      "word": "威尔妹妹",
-      "onboard_time": 1687004970,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145679,
       "num": 329425,
       "word": "大叔顶高温拿毛巾帮共享单车座降温",
@@ -2403,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115186,
+      "num": 129056,
+      "word": "蜗牛 上海中考",
+      "onboard_time": 1687007610,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110674,
       "num": 154438,
       "word": "国足4比0战胜缅甸队",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1686957620,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97829,
+      "num": 1240073,
+      "word": "今天致敬每一位中国治沙人",
+      "onboard_time": 1687005028,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93709,
@@ -2651,14 +2715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54803,
-      "num": 813031,
-      "word": "今天致敬每一位中国治沙人",
-      "onboard_time": 1687005028,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53018,
       "num": 51753,
       "word": "张靓颖的马甲线",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1686940094,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40585,
+      "num": 164993,
+      "word": "王鹤棣在淘宝618凑满减",
+      "onboard_time": 1687006833,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 37632,
@@ -2759,6 +2823,9 @@
     },
     {
       "word": "#中国的绿色版图不断扩大#"
+    },
+    {
+      "word": "#中国有约#"
     }
   ]
 }
