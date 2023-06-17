@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686980023840,
+  "endTime": 1686982852789,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -811,6 +811,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1549915,
+      "num": 1549915,
+      "word": "买洞洞鞋后这辈子就定型了",
+      "onboard_time": 1686978874,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1547476,
       "num": 1547476,
       "word": "四级答案",
@@ -961,6 +969,14 @@
       "onboard_time": 1686871822,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1417562,
+      "num": 667235,
+      "word": "指鼠为鸭",
+      "onboard_time": 1686979958,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1417518,
@@ -2587,20 +2603,20 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 629769,
-      "num": 629769,
-      "word": "买洞洞鞋后这辈子就定型了",
-      "onboard_time": 1686978874,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 625449,
       "num": 508181,
       "word": "被领导偷看了微信聊天记录",
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 619960,
+      "num": 619960,
+      "word": "还以为杨紫关晓彤在吵架",
+      "onboard_time": 1686978874,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 610115,
@@ -2632,14 +2648,6 @@
       "word": "天津爆炸",
       "onboard_time": 1686702931,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598836,
-      "num": 598836,
-      "word": "指鼠为鸭",
-      "onboard_time": 1686979958,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2929,6 +2937,14 @@
       "onboard_time": 1686904948,
       "rank": 19,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 536529,
+      "num": 536529,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 531781,
@@ -3387,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430438,
+      "num": 430438,
+      "word": "偶像剧独爆小生",
+      "onboard_time": 1686980974,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427749,
       "num": 427749,
       "word": "时光2定档",
@@ -3817,6 +3841,14 @@
       "onboard_time": 1686726809,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 372752,
+      "num": 372752,
+      "word": "郑业成往车窗外乱丢烟头",
+      "onboard_time": 1686981693,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 371455,
@@ -5027,6 +5059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282641,
+      "num": 282641,
+      "word": "女子骑车手扶帽子头部着地身亡",
+      "onboard_time": 1686982174,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282235,
       "num": 282235,
       "word": "王鹤棣泰国录制去了20多个站姐",
@@ -5043,19 +5083,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281927,
-      "num": 281927,
-      "word": "还以为杨紫关晓彤在吵架",
-      "onboard_time": 1686978874,
-      "rank": 42,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 281750,
       "num": 281750,
       "word": "肖战醉酒哭戏",
       "onboard_time": 1686802168,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280156,
+      "num": 280156,
+      "word": "当我飞奔向你",
+      "onboard_time": 1686640406,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -5699,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256140,
+      "num": 256140,
+      "word": "江西工业职业技术学院",
+      "onboard_time": 1686979775,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255738,
       "num": 255738,
       "word": "日本核废水",
@@ -5729,6 +5777,14 @@
       "onboard_time": 1686622049,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255359,
+      "num": 255359,
+      "word": "谢娜捍卫张颂文歌手身份",
+      "onboard_time": 1686982052,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 255345,
@@ -6243,6 +6299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238486,
+      "num": 238486,
+      "word": "贾静雯老公pick秋瓷炫",
+      "onboard_time": 1686982231,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237636,
       "num": 237636,
       "word": "山崎贤人尹净汉同框",
@@ -6425,14 +6489,6 @@
       "onboard_time": 1686565588,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232445,
-      "num": 232445,
-      "word": "网友评选上半年烂剧之王",
-      "onboard_time": 1686979595,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 231930,
@@ -7771,14 +7827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201867,
-      "num": 201867,
-      "word": "当我飞奔向你",
-      "onboard_time": 1686640406,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201807,
       "num": 201807,
       "word": "蔡徐坤香港演唱会倒计时",
@@ -7857,6 +7905,14 @@
       "onboard_time": 1686798865,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201153,
+      "num": 201153,
+      "word": "公司业务下滑后",
+      "onboard_time": 1686981811,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 201152,
@@ -8401,6 +8457,14 @@
       "onboard_time": 1686817167,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191711,
+      "num": 191711,
+      "word": "与凤行",
+      "onboard_time": 1686981151,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 191602,
@@ -9611,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170249,
+      "num": 170249,
+      "word": "YG新出小分队没有唱rap的",
+      "onboard_time": 1686982472,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170197,
       "num": 170197,
       "word": "好多明星去看了梅西比赛",
@@ -10137,6 +10209,14 @@
       "onboard_time": 1686815489,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159200,
+      "num": 159200,
+      "word": "何炅说终于轮到有人照顾我了",
+      "onboard_time": 1686982593,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 159169,
@@ -12099,6 +12179,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 121974,
+      "num": 155136,
+      "word": "EDG",
+      "onboard_time": 1686980853,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121575,
       "num": 121575,
       "word": "欧阳娜娜捧花照",
@@ -13123,6 +13211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88683,
+      "num": 154245,
+      "word": "柳州胜利夜市",
+      "onboard_time": 1686982052,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88052,
       "num": 456578,
       "word": "外卖员突发心梗倒地警民接力抢救",
@@ -13843,6 +13939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34292,
+      "num": 527395,
+      "word": "中学老师从10余米高桥跳河救起轻生女子",
+      "onboard_time": 1686981693,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32545,
       "num": 164510,
       "word": "饿了么申请猜答案免单商标",
@@ -14103,6 +14207,9 @@
     },
     {
       "word": "#世界互联网大会数字文明尼山对话#"
+    },
+    {
+      "word": "#国家好民族好两岸同胞才会好#"
     }
   ]
 }

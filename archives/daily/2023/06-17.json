@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686980023840,
+  "endTime": 1686982852789,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -99,12 +99,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1549915,
+      "num": 1549915,
+      "word": "买洞洞鞋后这辈子就定型了",
+      "onboard_time": 1686978874,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1547476,
       "num": 1547476,
       "word": "四级答案",
       "onboard_time": 1686972991,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1417562,
+      "num": 667235,
+      "word": "指鼠为鸭",
+      "onboard_time": 1686979958,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1417518,
@@ -243,20 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 629769,
-      "num": 629769,
-      "word": "买洞洞鞋后这辈子就定型了",
+      "raw_hot": 619960,
+      "num": 619960,
+      "word": "还以为杨紫关晓彤在吵架",
       "onboard_time": 1686978874,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 598836,
-      "num": 598836,
-      "word": "指鼠为鸭",
-      "onboard_time": 1686979958,
-      "rank": 15,
-      "category": "社会新闻"
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 562918,
@@ -281,6 +289,14 @@
       "onboard_time": 1686923009,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536529,
+      "num": 536529,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 531781,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430438,
+      "num": 430438,
+      "word": "偶像剧独爆小生",
+      "onboard_time": 1686980974,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399824,
       "num": 399824,
       "word": "六公主连播易烊千玺主演电影",
@@ -433,6 +457,14 @@
       "onboard_time": 1686969749,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372752,
+      "num": 372752,
+      "word": "郑业成往车窗外乱丢烟头",
+      "onboard_time": 1686981693,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 365125,
@@ -547,12 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281927,
-      "num": 281927,
-      "word": "还以为杨紫关晓彤在吵架",
-      "onboard_time": 1686978874,
-      "rank": 42,
-      "category": "幽默,艺人"
+      "raw_hot": 282641,
+      "num": 282641,
+      "word": "女子骑车手扶帽子头部着地身亡",
+      "onboard_time": 1686982174,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280156,
+      "num": 280156,
+      "word": "当我飞奔向你",
+      "onboard_time": 1686982294,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 274669,
@@ -627,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256140,
+      "num": 256140,
+      "word": "江西工业职业技术学院",
+      "onboard_time": 1686979775,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255643,
       "num": 255643,
       "word": "梅西球迷",
       "onboard_time": 1686975570,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255359,
+      "num": 255359,
+      "word": "谢娜捍卫张颂文歌手身份",
+      "onboard_time": 1686982052,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 252530,
@@ -667,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238486,
+      "num": 238486,
+      "word": "贾静雯老公pick秋瓷炫",
+      "onboard_time": 1686982231,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235638,
       "num": 235638,
       "word": "六级预测",
@@ -697,14 +761,6 @@
       "onboard_time": 1686967167,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232445,
-      "num": 232445,
-      "word": "网友评选上半年烂剧之王",
-      "onboard_time": 1686979595,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 230805,
@@ -827,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201153,
+      "num": 201153,
+      "word": "公司业务下滑后",
+      "onboard_time": 1686981811,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200161,
       "num": 200161,
       "word": "四个月大的萌兰",
@@ -881,6 +945,14 @@
       "onboard_time": 1686968967,
       "rank": 46,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 191711,
+      "num": 191711,
+      "word": "与凤行",
+      "onboard_time": 1686981151,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 189759,
@@ -1003,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170249,
+      "num": 170249,
+      "word": "YG新出小分队没有唱rap的",
+      "onboard_time": 1686982472,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169598,
       "num": 169598,
       "word": "江苏一高校送毕业生2米大蛋糕",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1686975869,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159200,
+      "num": 159200,
+      "word": "何炅说终于轮到有人照顾我了",
+      "onboard_time": 1686982593,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 159188,
@@ -1283,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121974,
+      "num": 155136,
+      "word": "EDG",
+      "onboard_time": 1686980853,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119955,
       "num": 159427,
       "word": "我国荒漠化防治成绩单来了",
@@ -1425,6 +1521,14 @@
       "onboard_time": 1686964826,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 88683,
+      "num": 154245,
+      "word": "柳州胜利夜市",
+      "onboard_time": 1686982052,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 80350,
@@ -1579,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34292,
+      "num": 527395,
+      "word": "中学老师从10余米高桥跳河救起轻生女子",
+      "onboard_time": 1686981693,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27755,
       "num": 51909,
       "word": "中国女排vs保加利亚女排",
@@ -1601,6 +1713,9 @@
     },
     {
       "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    },
+    {
+      "word": "#国家好民族好两岸同胞才会好#"
     }
   ]
 }
