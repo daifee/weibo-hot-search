@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687001630480,
+  "endTime": 1687005019011,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1915,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1763073,
+      "num": 1763073,
+      "word": "黄渤上半身vs下半身",
+      "onboard_time": 1687001667,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1762985,
       "num": 1762985,
       "word": "孩子烫伤9天才送医院爸爸拒绝手术",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1685883570,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1717802,
+      "num": 1556452,
+      "word": "Angelababy 求求了给我脚趾p个美甲",
+      "onboard_time": 1686999089,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1708029,
@@ -2473,14 +2489,6 @@
       "onboard_time": 1686830783,
       "rank": 3,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1556452,
-      "num": 1556452,
-      "word": "Angelababy 求求了给我脚趾p个美甲",
-      "onboard_time": 1686999089,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1556173,
@@ -4585,6 +4593,14 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1085331,
+      "num": 1085331,
+      "word": "童瑶抹胸上挂了68把钥匙",
+      "onboard_time": 1687001068,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1083023,
@@ -7211,6 +7227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722463,
+      "num": 722463,
+      "word": "美国32岁男子让3个儿子站成一排枪杀",
+      "onboard_time": 1687001909,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722293,
       "num": 722293,
       "word": "这居然是刘恋",
@@ -7713,6 +7737,14 @@
       "onboard_time": 1686646826,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 667969,
+      "num": 667969,
+      "word": "王一博让不出去的C位",
+      "onboard_time": 1687000230,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 667852,
@@ -8513,14 +8545,6 @@
       "onboard_time": 1685673807,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 584047,
-      "num": 584047,
-      "word": "王一博让不出去的C位",
-      "onboard_time": 1687000230,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 583105,
@@ -10883,6 +10907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 424085,
+      "num": 424085,
+      "word": "拼多多真不拿我当外人",
+      "onboard_time": 1687001189,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424039,
       "num": 424039,
       "word": "听力气泡音",
@@ -11641,6 +11673,14 @@
       "onboard_time": 1686909329,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394696,
+      "num": 394696,
+      "word": "LNG对战EDG",
+      "onboard_time": 1687002268,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 393775,
@@ -12579,6 +12619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362889,
+      "num": 362889,
+      "word": "憋屈了13年的猫猫终于翻身了",
+      "onboard_time": 1687003291,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362725,
       "num": 362725,
       "word": "卡琳娜发了李龙馥",
@@ -13321,6 +13369,14 @@
       "onboard_time": 1686637286,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342405,
+      "num": 342405,
+      "word": "蔡徐坤黑色美甲",
+      "onboard_time": 1687002931,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 341634,
@@ -14243,6 +14299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322031,
+      "num": 279768,
+      "word": "帮男朋友洗6年没有洗过的脏辫",
+      "onboard_time": 1687004370,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "手工耿 适合中国宝宝体质的林克",
@@ -15019,6 +15083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304482,
+      "num": 304482,
+      "word": "杨幂赵丽颖刘亦菲杨颖撑伞神图",
+      "onboard_time": 1687002150,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304459,
       "num": 280360,
       "word": "学术妲己的危害",
@@ -15089,6 +15161,14 @@
       "onboard_time": 1686146492,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303333,
+      "num": 303333,
+      "word": "宋雨琦弹吉他唱歌 自由又热烈",
+      "onboard_time": 1687003950,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 303327,
@@ -15201,14 +15281,6 @@
       "onboard_time": 1686914609,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301317,
-      "num": 301317,
-      "word": "童瑶抹胸上挂了68把钥匙",
-      "onboard_time": 1687001068,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301023,
@@ -18267,6 +18339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256458,
+      "num": 256458,
+      "word": "青岛海滩上都是巧克力大爷",
+      "onboard_time": 1687004069,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256186,
       "num": 256186,
       "word": "超载25倍沥青货车侧翻母子被埋身亡",
@@ -21297,6 +21377,14 @@
       "onboard_time": 1685679270,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225422,
+      "num": 225422,
+      "word": "MVP不给gala",
+      "onboard_time": 1687003950,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 225401,
@@ -27763,6 +27851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179221,
+      "num": 179221,
+      "word": "中国人骨子里的盖被基因",
+      "onboard_time": 1687002390,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179081,
       "num": 179081,
       "word": "任贤齐长沙演唱会",
@@ -28793,14 +28889,6 @@
       "onboard_time": 1685794949,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169767,
-      "num": 169767,
-      "word": "拼多多真不拿我当外人",
-      "onboard_time": 1687001189,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169739,
@@ -31459,6 +31547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150241,
+      "num": 150241,
+      "word": "鼠头事件影响你吃鸭脖了吗",
+      "onboard_time": 1687003469,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150123,
       "num": 137009,
       "word": "分享一些适合摸鱼背的包包",
@@ -32987,6 +33083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138013,
+      "num": 138013,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137993,
       "num": 137993,
       "word": "原来真有人这样开演唱会",
@@ -33256,6 +33360,14 @@
       "word": "高校食堂吃出老鼠头还是鸭脖",
       "onboard_time": 1686051148,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136017,
+      "num": 136017,
+      "word": "和田突发融雪性洪水消防转移多名群众",
+      "onboard_time": 1687004908,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -40065,6 +40177,14 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8408,
+      "num": 1087678,
+      "word": "推动电子医保就医全流程应用",
+      "onboard_time": 1687004970,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5391,
