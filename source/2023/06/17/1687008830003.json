@@ -1,0 +1,410 @@
+{
+  "runTime": 1687008830003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2801019,
+        "num": 2801019,
+        "word": "胡歌大鹏影帝双黄蛋",
+        "onboard_time": 1687006109,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1217637,
+        "num": 1217637,
+        "word": "黄渤上半身vs下半身",
+        "onboard_time": 1687001667,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97201,
+        "num": 1154837,
+        "word": "今天致敬每一位中国治沙人",
+        "onboard_time": 1687005028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1755292,
+        "num": 1154390,
+        "word": "Angelababy 求求了给我脚趾p个美甲",
+        "onboard_time": 1686999089,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1145550,
+        "num": 1145550,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 805165,
+        "num": 805165,
+        "word": "LNG战胜EDG",
+        "onboard_time": 1687007132,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 799433,
+        "num": 799433,
+        "word": "一颗老鼠头为何要省级调查组才能查清",
+        "onboard_time": 1686983369,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778043,
+        "num": 778043,
+        "word": "长风渡定档",
+        "onboard_time": 1686987809,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749414,
+        "num": 749414,
+        "word": "黑莲花 虞书欣丁禹兮",
+        "onboard_time": 1686992307,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688239,
+        "num": 688239,
+        "word": "六级",
+        "onboard_time": 1686993868,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 932317,
+        "num": 631365,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569501,
+        "num": 569501,
+        "word": "网友评选上半年烂剧之王",
+        "onboard_time": 1686979595,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551201,
+        "num": 551201,
+        "word": "迪丽热巴 剪睫毛",
+        "onboard_time": 1686998067,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546893,
+        "num": 546893,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 464696,
+        "num": 464696,
+        "word": "美国32岁男子让3个儿子站成一排枪杀",
+        "onboard_time": 1687001909,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760262,
+        "num": 458435,
+        "word": "杨幂露背了",
+        "onboard_time": 1686994470,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 401804,
+        "num": 401804,
+        "word": "憋屈了13年的猫猫终于翻身了",
+        "onboard_time": 1687003291,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400014,
+        "num": 400014,
+        "word": "Uzi",
+        "onboard_time": 1687008090,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361171,
+        "num": 361171,
+        "word": "王一博让不出去的C位",
+        "onboard_time": 1687000230,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279256,
+        "num": 346344,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345269,
+        "num": 345269,
+        "word": "杨幂盘发梦回晴川",
+        "onboard_time": 1686989906,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299816,
+        "num": 299816,
+        "word": "伊能静儿子跳舞好好看",
+        "onboard_time": 1686983612,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290995,
+        "num": 290995,
+        "word": "鼠头事件学生可10倍索赔",
+        "onboard_time": 1686988167,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 260965,
+        "num": 260965,
+        "word": "六级答案",
+        "onboard_time": 1686995014,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243288,
+        "num": 243288,
+        "word": "中国女排vs波兰女排",
+        "onboard_time": 1687006833,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292546,
+        "num": 239652,
+        "word": "金爵奖",
+        "onboard_time": 1687007730,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292560,
+        "num": 228023,
+        "word": "蔡徐坤黑色美甲",
+        "onboard_time": 1687002931,
+        "rank": 26,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 280882,
+        "num": 218940,
+        "word": "肖战李沁央八频道宣传片",
+        "onboard_time": 1687005268,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272472,
+        "num": 217202,
+        "word": "Jennie是前一天爬山太累了吗",
+        "onboard_time": 1686985169,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210418,
+        "num": 210418,
+        "word": "MVP不给gala",
+        "onboard_time": 1687003950,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401853,
+        "num": 206949,
+        "word": "我有一栋楼 是要偷你什么东西",
+        "onboard_time": 1687006352,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269245,
+        "num": 202649,
+        "word": "向华强说以后珠宝都给郭碧婷",
+        "onboard_time": 1686986188,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255343,
+        "num": 199133,
+        "word": "小S澄清叶舒华双面人争议",
+        "onboard_time": 1686992367,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "中国人骨子里的盖被基因",
+        "onboard_time": 1687002390,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167151,
+        "num": 167151,
+        "word": "95后小伙揭幕临期食品内幕",
+        "onboard_time": 1687008449,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 240300,
+        "num": 164006,
+        "word": "威尔妹妹",
+        "onboard_time": 1687004970,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234787,
+        "num": 163936,
+        "word": "上海电影节获奖名单",
+        "onboard_time": 1687006531,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224677,
+        "num": 162704,
+        "word": "去油版偷偷藏不住",
+        "onboard_time": 1687008330,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160699,
+        "num": 160699,
+        "word": "蜗牛 上海中考",
+        "onboard_time": 1687007610,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53155,
+        "num": 159842,
+        "word": "王鹤棣在淘宝618凑满减",
+        "onboard_time": 1687006833,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 221306,
+        "num": 159742,
+        "word": "杨幂赵丽颖刘亦菲杨颖撑伞神图",
+        "onboard_time": 1687002150,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159577,
+        "num": 159577,
+        "word": "买洞洞鞋后这辈子就定型了",
+        "onboard_time": 1686978874,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151074,
+        "num": 151074,
+        "word": "六级听力好难",
+        "onboard_time": 1686996569,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178469,
+        "num": 150408,
+        "word": "高瀚宇假扮猎人好搞笑",
+        "onboard_time": 1687005750,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168835,
+        "num": 148884,
+        "word": "谢娜说男生都会喜欢朱珠",
+        "onboard_time": 1687008811,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162196,
+        "num": 147672,
+        "word": "王一博要是被绑架了就眨眨眼",
+        "onboard_time": 1687001247,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144156,
+        "num": 144156,
+        "word": "LNG对战EDG",
+        "onboard_time": 1687002268,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139178,
+        "num": 139178,
+        "word": "江苏一酒店被征用后遭损毁至今交还不能",
+        "onboard_time": 1686999749,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125431,
+        "num": 125431,
+        "word": "90后北京姑娘投身抽粪工作12年",
+        "onboard_time": 1687008569,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108362,
+        "num": 125197,
+        "word": "AG对战WB",
+        "onboard_time": 1687005327,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家好民族好两岸同胞才会好#"
+    }
+  }
+}

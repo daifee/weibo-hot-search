@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687007892971,
+  "endTime": 1687008830003,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -465,6 +465,14 @@
       "onboard_time": 1686808227,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2801019,
+      "num": 2801019,
+      "word": "胡歌大鹏影帝双黄蛋",
+      "onboard_time": 1687006109,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2800496,
@@ -1849,14 +1857,6 @@
       "onboard_time": 1686365007,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1808213,
-      "num": 1808213,
-      "word": "胡歌大鹏影帝双黄蛋",
-      "onboard_time": 1687006109,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1805536,
@@ -11547,6 +11547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401853,
+      "num": 206949,
+      "word": "我有一栋楼 是要偷你什么东西",
+      "onboard_time": 1687006352,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 401705,
       "num": 401705,
       "word": "鞠婧祎凤凰造型反差",
@@ -13441,14 +13449,6 @@
       "onboard_time": 1686212616,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 340579,
-      "num": 179288,
-      "word": "我有一栋楼 是要偷你什么东西",
-      "onboard_time": 1687006352,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 340476,
@@ -15785,6 +15785,14 @@
       "onboard_time": 1686977855,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292546,
+      "num": 239652,
+      "word": "金爵奖",
+      "onboard_time": 1687007730,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 292429,
@@ -19891,6 +19899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240300,
+      "num": 173595,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240136,
       "num": 240136,
       "word": "当你想离职但又不好意思说",
@@ -20345,6 +20361,14 @@
       "onboard_time": 1686914368,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234787,
+      "num": 175203,
+      "word": "上海电影节获奖名单",
+      "onboard_time": 1687006531,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 234785,
@@ -21539,6 +21563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224677,
+      "num": 162704,
+      "word": "去油版偷偷藏不住",
+      "onboard_time": 1687008330,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224669,
       "num": 224669,
       "word": "肖战说谢谢淇哥",
@@ -22379,14 +22411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216966,
-      "num": 175203,
-      "word": "上海电影节获奖名单",
-      "onboard_time": 1687006531,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216871,
       "num": 216871,
       "word": "侯明昊七年前试镜视频",
@@ -22921,14 +22945,6 @@
       "onboard_time": 1686388827,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212829,
-      "num": 173595,
-      "word": "威尔妹妹",
-      "onboard_time": 1687004970,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 212737,
@@ -25939,6 +25955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191287,
+      "num": 191287,
+      "word": "中国人骨子里的盖被基因",
+      "onboard_time": 1687002390,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191192,
       "num": 191192,
       "word": "考科目二因为没开空调挂了",
@@ -27443,14 +27467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183175,
-      "num": 183175,
-      "word": "中国人骨子里的盖被基因",
-      "onboard_time": 1687002390,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183113,
       "num": 163346,
       "word": "乐华2023家族演唱会全阵容公布",
@@ -28019,6 +28035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178469,
+      "num": 158890,
+      "word": "高瀚宇假扮猎人好搞笑",
+      "onboard_time": 1687005750,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178451,
       "num": 548447,
       "word": "高考结束后亲友团横幅有点大胆",
@@ -28227,14 +28251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176822,
-      "num": 158641,
-      "word": "金爵奖",
-      "onboard_time": 1687007730,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176775,
       "num": 176775,
       "word": "杨超越白族少女造型",
@@ -28433,14 +28449,6 @@
       "onboard_time": 1686832523,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175169,
-      "num": 158890,
-      "word": "高瀚宇假扮猎人好搞笑",
-      "onboard_time": 1687005750,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 175135,
@@ -29139,6 +29147,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 168835,
+      "num": 148884,
+      "word": "谢娜说男生都会喜欢朱珠",
+      "onboard_time": 1687008811,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168824,
       "num": 168824,
       "word": "EDG对阵NAVI",
@@ -29353,6 +29369,14 @@
       "onboard_time": 1686627148,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167151,
+      "num": 167151,
+      "word": "95后小伙揭幕临期食品内幕",
+      "onboard_time": 1687008449,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 167149,
@@ -30209,6 +30233,14 @@
       "onboard_time": 1686227431,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160699,
+      "num": 160699,
+      "word": "蜗牛 上海中考",
+      "onboard_time": 1687007610,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 160686,
@@ -34587,6 +34619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125431,
+      "num": 125431,
+      "word": "90后北京姑娘投身抽粪工作12年",
+      "onboard_time": 1687008569,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125327,
       "num": 125327,
       "word": "上海地震瞬间男子第一时间护住妻子",
@@ -35753,14 +35793,6 @@
       "onboard_time": 1685680113,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115186,
-      "num": 129056,
-      "word": "蜗牛 上海中考",
-      "onboard_time": 1687007610,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 115125,
@@ -39075,6 +39107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53155,
+      "num": 164993,
+      "word": "王鹤棣在淘宝618凑满减",
+      "onboard_time": 1687006833,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 53122,
       "num": 1239034,
       "word": "长江金色航道百舸争流好壮美",
@@ -39505,14 +39545,6 @@
       "onboard_time": 1685661199,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 40585,
-      "num": 164993,
-      "word": "王鹤棣在淘宝618凑满减",
-      "onboard_time": 1687006833,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 40511,

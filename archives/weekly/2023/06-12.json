@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687007892971,
+  "endTime": 1687008830003,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -193,6 +193,14 @@
       "onboard_time": 1686808227,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2801019,
+      "num": 2801019,
+      "word": "胡歌大鹏影帝双黄蛋",
+      "onboard_time": 1687006109,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2789248,
@@ -673,14 +681,6 @@
       "onboard_time": 1686610940,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1808213,
-      "num": 1808213,
-      "word": "胡歌大鹏影帝双黄蛋",
-      "onboard_time": 1687006109,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1794598,
@@ -3875,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401853,
+      "num": 206949,
+      "word": "我有一栋楼 是要偷你什么东西",
+      "onboard_time": 1687006352,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 401698,
       "num": 401698,
       "word": "芭比确认引进",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1686926070,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400014,
+      "num": 400014,
+      "word": "Uzi",
+      "onboard_time": 1687008090,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 399908,
@@ -4505,14 +4521,6 @@
       "onboard_time": 1686892293,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340579,
-      "num": 179288,
-      "word": "我有一栋楼 是要偷你什么东西",
-      "onboard_time": 1687006352,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 339557,
@@ -5297,6 +5305,14 @@
       "onboard_time": 1686977855,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292546,
+      "num": 239652,
+      "word": "金爵奖",
+      "onboard_time": 1687007730,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 292165,
@@ -6739,6 +6755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240300,
+      "num": 173595,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239882,
       "num": 239882,
       "word": "Uzi获得亚洲荣誉选手",
@@ -6913,6 +6937,14 @@
       "onboard_time": 1686914368,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234787,
+      "num": 175203,
+      "word": "上海电影节获奖名单",
+      "onboard_time": 1687006531,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 234602,
@@ -7355,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224677,
+      "num": 162704,
+      "word": "去油版偷偷藏不住",
+      "onboard_time": 1687008330,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224662,
       "num": 224662,
       "word": "赵一博网速",
@@ -7691,14 +7731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216966,
-      "num": 175203,
-      "word": "上海电影节获奖名单",
-      "onboard_time": 1687006531,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216792,
       "num": 216792,
       "word": "梅西i人本人",
@@ -7929,14 +7961,6 @@
       "onboard_time": 1686817828,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212829,
-      "num": 173595,
-      "word": "威尔妹妹",
-      "onboard_time": 1687004970,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 212402,
@@ -9131,6 +9155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191287,
+      "num": 191287,
+      "word": "中国人骨子里的盖被基因",
+      "onboard_time": 1687002390,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191192,
       "num": 191192,
       "word": "考科目二因为没开空调挂了",
@@ -9771,14 +9803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183175,
-      "num": 183175,
-      "word": "中国人骨子里的盖被基因",
-      "onboard_time": 1687002390,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183000,
       "num": 183000,
       "word": "你选择先读书还是先赚钱",
@@ -10035,6 +10059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178469,
+      "num": 158890,
+      "word": "高瀚宇假扮猎人好搞笑",
+      "onboard_time": 1687005750,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178280,
       "num": 178280,
       "word": "华晨宇方回应黄牛扰乱市场",
@@ -10107,14 +10139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176822,
-      "num": 158641,
-      "word": "金爵奖",
-      "onboard_time": 1687007730,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176763,
       "num": 176763,
       "word": "狗子晚上不回家和狗友出去玩",
@@ -10185,14 +10209,6 @@
       "onboard_time": 1686832523,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175169,
-      "num": 158890,
-      "word": "高瀚宇假扮猎人好搞笑",
-      "onboard_time": 1687005750,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 174993,
@@ -10499,6 +10515,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 168835,
+      "num": 148884,
+      "word": "谢娜说男生都会喜欢朱珠",
+      "onboard_time": 1687008811,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168824,
       "num": 168824,
       "word": "EDG对阵NAVI",
@@ -10609,6 +10633,14 @@
       "onboard_time": 1686627148,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167151,
+      "num": 167151,
+      "word": "95后小伙揭幕临期食品内幕",
+      "onboard_time": 1687008449,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 167077,
@@ -10953,6 +10985,14 @@
       "onboard_time": 1686789569,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160699,
+      "num": 160699,
+      "word": "蜗牛 上海中考",
+      "onboard_time": 1687007610,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 160680,
@@ -13035,6 +13075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125431,
+      "num": 125431,
+      "word": "90后北京姑娘投身抽粪工作12年",
+      "onboard_time": 1687008569,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125327,
       "num": 125327,
       "word": "上海地震瞬间男子第一时间护住妻子",
@@ -13529,14 +13577,6 @@
       "onboard_time": 1686741208,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115186,
-      "num": 129056,
-      "word": "蜗牛 上海中考",
-      "onboard_time": 1687007610,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 114228,
@@ -14779,6 +14819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53155,
+      "num": 164993,
+      "word": "王鹤棣在淘宝618凑满减",
+      "onboard_time": 1687006833,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 53018,
       "num": 51753,
       "word": "张靓颖的马甲线",
@@ -14929,14 +14977,6 @@
       "onboard_time": 1686940094,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40585,
-      "num": 164993,
-      "word": "王鹤棣在淘宝618凑满减",
-      "onboard_time": 1687006833,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 40511,

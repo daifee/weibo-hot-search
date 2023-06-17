@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687007892971,
+  "endTime": 1687008830003,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -49,6 +49,14 @@
       "onboard_time": 1686959242,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2801019,
+      "num": 2801019,
+      "word": "胡歌大鹏影帝双黄蛋",
+      "onboard_time": 1687006109,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2789248,
@@ -113,14 +121,6 @@
       "onboard_time": 1686916707,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1808213,
-      "num": 1808213,
-      "word": "胡歌大鹏影帝双黄蛋",
-      "onboard_time": 1687006109,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1779279,
@@ -691,6 +691,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 401853,
+      "num": 206949,
+      "word": "我有一栋楼 是要偷你什么东西",
+      "onboard_time": 1687006352,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 400014,
+      "num": 400014,
+      "word": "Uzi",
+      "onboard_time": 1687008090,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 399824,
       "num": 399824,
       "word": "六公主连播易烊千玺主演电影",
@@ -801,14 +817,6 @@
       "onboard_time": 1687002931,
       "rank": 22,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 340579,
-      "num": 179288,
-      "word": "我有一栋楼 是要偷你什么东西",
-      "onboard_time": 1687006352,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 340202,
@@ -961,6 +969,14 @@
       "onboard_time": 1686977855,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292546,
+      "num": 239652,
+      "word": "金爵奖",
+      "onboard_time": 1687007730,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 292486,
@@ -1219,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240300,
+      "num": 173595,
+      "word": "威尔妹妹",
+      "onboard_time": 1687004970,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238486,
       "num": 238486,
       "word": "贾静雯老公pick秋瓷炫",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1686912267,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234787,
+      "num": 175203,
+      "word": "上海电影节获奖名单",
+      "onboard_time": 1687006531,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 234726,
@@ -1323,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224677,
+      "num": 162704,
+      "word": "去油版偷偷藏不住",
+      "onboard_time": 1687008330,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223385,
       "num": 172061,
       "word": "袁姗姗一字肩高开叉礼服",
@@ -1379,14 +1419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216966,
-      "num": 175203,
-      "word": "上海电影节获奖名单",
-      "onboard_time": 1687006531,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216634,
       "num": 216634,
       "word": "四级听力",
@@ -1408,14 +1440,6 @@
       "word": "谭松韵终于来录毛雪汪了",
       "onboard_time": 1686992849,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 212829,
-      "num": 173595,
-      "word": "威尔妹妹",
-      "onboard_time": 1687004970,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1595,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191287,
+      "num": 191287,
+      "word": "中国人骨子里的盖被基因",
+      "onboard_time": 1687002390,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189891,
       "num": 189891,
       "word": "火星哥演唱会",
@@ -1707,14 +1739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183175,
-      "num": 183175,
-      "word": "中国人骨子里的盖被基因",
-      "onboard_time": 1687002390,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181846,
       "num": 181846,
       "word": "安踏 欧文",
@@ -1755,12 +1779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176822,
-      "num": 158641,
-      "word": "金爵奖",
-      "onboard_time": 1687007730,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 178469,
+      "num": 158890,
+      "word": "高瀚宇假扮猎人好搞笑",
+      "onboard_time": 1687005750,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 176036,
@@ -1776,14 +1800,6 @@
       "word": "张凌赫在奔跑吧喂白鹿吃东西",
       "onboard_time": 1686962606,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175169,
-      "num": 158890,
-      "word": "高瀚宇假扮猎人好搞笑",
-      "onboard_time": 1687005750,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1859,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168835,
+      "num": 148884,
+      "word": "谢娜说男生都会喜欢朱珠",
+      "onboard_time": 1687008811,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167638,
       "num": 167638,
       "word": "梁洁少女感",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1686988948,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167151,
+      "num": 167151,
+      "word": "95后小伙揭幕临期食品内幕",
+      "onboard_time": 1687008449,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 167077,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1686909266,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160699,
+      "num": 160699,
+      "word": "蜗牛 上海中考",
+      "onboard_time": 1687007610,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 159888,
@@ -2387,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125431,
+      "num": 125431,
+      "word": "90后北京姑娘投身抽粪工作12年",
+      "onboard_time": 1687008569,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124625,
       "num": 124625,
       "word": "千万别在美容院暴露自己有钱",
@@ -2449,14 +2497,6 @@
       "onboard_time": 1686966387,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115186,
-      "num": 129056,
-      "word": "蜗牛 上海中考",
-      "onboard_time": 1687007610,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 110674,
@@ -2715,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53155,
+      "num": 164993,
+      "word": "王鹤棣在淘宝618凑满减",
+      "onboard_time": 1687006833,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 53018,
       "num": 51753,
       "word": "张靓颖的马甲线",
@@ -2753,14 +2801,6 @@
       "onboard_time": 1686940094,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40585,
-      "num": 164993,
-      "word": "王鹤棣在淘宝618凑满减",
-      "onboard_time": 1687006833,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 37632,
