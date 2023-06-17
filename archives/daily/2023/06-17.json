@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686990830710,
+  "endTime": 1686993352165,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1686346,
+      "num": 1371726,
+      "word": "杨幂盘发梦回晴川",
+      "onboard_time": 1686989906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1663832,
       "num": 676348,
       "word": "杨洋 新郎",
@@ -129,6 +137,14 @@
       "onboard_time": 1686972991,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1445113,
+      "num": 632911,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1417562,
@@ -177,14 +193,6 @@
       "onboard_time": 1686962304,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1219910,
-      "num": 632911,
-      "word": "鼠头事件学生可10倍索赔",
-      "onboard_time": 1686988167,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1126606,
@@ -315,20 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 654327,
-      "num": 654327,
-      "word": "杨幂盘发梦回晴川",
-      "onboard_time": 1686989906,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 625724,
       "num": 625724,
       "word": "还以为杨紫关晓彤在吵架",
       "onboard_time": 1686978874,
       "rank": 42,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 616006,
+      "num": 315974,
+      "word": "女子买1根牛肉干店员偷塞进5根的量",
+      "onboard_time": 1686990148,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562918,
@@ -507,6 +515,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 392242,
+      "num": 392242,
+      "word": "黑莲花 虞书欣丁禹兮",
+      "onboard_time": 1686992307,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382879,
       "num": 382879,
       "word": "王一博真的有听汪涵说的话",
@@ -587,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 341264,
+      "num": 341264,
+      "word": "沙溢演白敬亭爹",
+      "onboard_time": 1686991647,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340202,
       "num": 172515,
       "word": "吴倩方晒出院记录",
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304708,
+      "num": 304708,
+      "word": "小S澄清叶舒华双面人争议",
+      "onboard_time": 1686992367,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293050,
       "num": 293050,
       "word": "谢娜捍卫张颂文歌手身份",
@@ -691,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 288514,
-      "num": 288514,
-      "word": "女子买1根牛肉干店员偷塞进5根的量",
-      "onboard_time": 1686990148,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288384,
       "num": 288384,
       "word": "江西工业职业技术学院",
@@ -713,6 +737,14 @@
       "onboard_time": 1686985169,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284742,
+      "num": 284742,
+      "word": "TFBOYS十周年联名立体书",
+      "onboard_time": 1686989189,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 280156,
@@ -923,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222759,
+      "num": 222759,
+      "word": "任嘉伦李兰迪 流水迢迢",
+      "onboard_time": 1686989307,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222411,
       "num": 222411,
       "word": "张小强教授称新闻专业能文能武",
@@ -947,6 +987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 219581,
+      "num": 219581,
+      "word": "书粉的命也是命啊",
+      "onboard_time": 1686988648,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216634,
       "num": 216634,
       "word": "四级听力",
@@ -961,6 +1009,14 @@
       "onboard_time": 1686978816,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 215017,
+      "num": 215017,
+      "word": "谭松韵终于来录毛雪汪了",
+      "onboard_time": 1686992849,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 211810,
@@ -979,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211374,
-      "num": 211374,
-      "word": "书粉的命也是命啊",
-      "onboard_time": 1686988648,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208699,
       "num": 208699,
       "word": "孕妇高铁上突然生产众人接力救援",
       "onboard_time": 1686932067,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207020,
+      "num": 207020,
+      "word": "暑假档来了",
+      "onboard_time": 1686991410,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 206942,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1686918868,
       "rank": 14,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 203052,
+      "num": 203052,
+      "word": "公务员上岸后周围人的态度",
+      "onboard_time": 1686993149,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 202889,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1686979114,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197763,
-      "num": 197763,
-      "word": "任嘉伦李兰迪 流水迢迢",
-      "onboard_time": 1686989307,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 197312,
@@ -1235,6 +1291,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 181390,
+      "num": 181390,
+      "word": "WBG获胜",
+      "onboard_time": 1686991889,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181321,
       "num": 182260,
       "word": "肖春生是懂齐天的",
@@ -1243,20 +1307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181162,
-      "num": 181162,
-      "word": "TFBOYS十周年联名立体书",
-      "onboard_time": 1686989189,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 180177,
       "num": 180177,
       "word": "小伙回应在国外将五星红旗解开",
       "onboard_time": 1686930089,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176931,
+      "num": 176931,
+      "word": "哇唧唧哇新人连续三天高温室外快闪",
+      "onboard_time": 1686991949,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 176036,
@@ -1273,6 +1337,14 @@
       "onboard_time": 1686962606,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174075,
+      "num": 174075,
+      "word": "广州龙舟",
+      "onboard_time": 1686992906,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171904,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1686961765,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167637,
+      "num": 167637,
+      "word": "有文化确实挺可怕的",
+      "onboard_time": 1686990929,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 167617,
@@ -1515,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152615,
+      "num": 152615,
+      "word": "王一博笑脸vs冷脸",
+      "onboard_time": 1686992010,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152607,
       "num": 152607,
       "word": "金毛丢失1年后自行回家暴瘦20斤",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1686986010,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 151086,
+      "num": 151086,
+      "word": "老师穿长裙印满V字为中考生加油",
+      "onboard_time": 1686992189,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 149688,
@@ -1747,12 +1843,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126600,
+      "num": 126600,
+      "word": "白敬亭有两首OST",
+      "onboard_time": 1686991528,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124625,
       "num": 124625,
       "word": "千万别在美容院暴露自己有钱",
       "onboard_time": 1686960804,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124414,
+      "num": 124414,
+      "word": "秦岚44岁身材管理",
+      "onboard_time": 1686993267,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 119955,
@@ -1995,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65616,
+      "num": 392256,
+      "word": "妈妈仨月疯狂减重20斤割肝救女",
+      "onboard_time": 1686992428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63812,
       "num": 128288,
       "word": "两千三的工资面了三轮",
@@ -2089,6 +2209,14 @@
       "onboard_time": 1686920609,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23328,
+      "num": 1371820,
+      "word": "夏日消费热起来助推经济火起来",
+      "onboard_time": 1686976651,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19381,
