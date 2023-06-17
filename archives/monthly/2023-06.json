@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687033020223,
+  "endTime": 1687034019800,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -40251,6 +40251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30947,
+      "num": 30947,
+      "word": "张小斐嘴上说不热身体却很诚实",
+      "onboard_time": 1687030034,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30928,
       "num": 1048401,
       "word": "中国好书六一专榜",
@@ -40321,14 +40329,6 @@
       "onboard_time": 1686394850,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28943,
-      "num": 29853,
-      "word": "张小斐嘴上说不热身体却很诚实",
-      "onboard_time": 1687030034,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 28906,
