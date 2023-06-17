@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686966781318,
+  "endTime": 1686969443397,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -675,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1641773,
+      "num": 521926,
+      "word": "杨洋 新郎",
+      "onboard_time": 1686963385,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1640280,
       "num": 1640280,
       "word": "阿根廷vs澳大利亚",
@@ -785,14 +793,6 @@
       "onboard_time": 1686611720,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1510936,
-      "num": 521926,
-      "word": "杨洋 新郎",
-      "onboard_time": 1686963385,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1507639,
@@ -1059,6 +1059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1297013,
+      "num": 1297013,
+      "word": "同事付费坐我老公的车上下班",
+      "onboard_time": 1686962304,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1297006,
       "num": 1194295,
       "word": "向佐向唐诗逸道歉",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1686702810,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1252240,
-      "num": 1252240,
-      "word": "同事付费坐我老公的车上下班",
-      "onboard_time": 1686962304,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1247195,
@@ -1691,7 +1691,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 922127,
+      "raw_hot": 929461,
       "num": 521519,
       "word": "马云在东京教书",
       "onboard_time": 1686963506,
@@ -1937,6 +1937,14 @@
       "onboard_time": 1686733049,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 830971,
+      "num": 417985,
+      "word": "男子健身房内去世前向私教求救",
+      "onboard_time": 1686966627,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830576,
@@ -2259,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716917,
+      "num": 716917,
+      "word": "月薪几万运营总监只会管鸡毛蒜皮",
+      "onboard_time": 1686964107,
+      "rank": 19,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 715346,
       "num": 715346,
       "word": "Jennie身体状况",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1686701552,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 617943,
+      "num": 251655,
+      "word": "张雪峰 我离被人搞不远了",
+      "onboard_time": 1686968367,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 610115,
@@ -2659,14 +2683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 561385,
-      "num": 521285,
-      "word": "月薪几万运营总监只会管鸡毛蒜皮",
-      "onboard_time": 1686964107,
-      "rank": 19,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 560537,
       "num": 560537,
       "word": "清潭国际高中",
@@ -2796,7 +2812,7 @@
     },
     {
       "raw_hot": 519476,
-      "num": 171829,
+      "num": 408338,
       "word": "主播为粉丝取快递内藏毒品被判无期",
       "onboard_time": 1686962964,
       "rank": 30,
@@ -3100,7 +3116,7 @@
     },
     {
       "raw_hot": 448484,
-      "num": 169999,
+      "num": 388092,
       "word": "当妈妈以为孩子会随自己的小体型时",
       "onboard_time": 1686961465,
       "rank": 31,
@@ -3225,6 +3241,14 @@
       "onboard_time": 1686802529,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419613,
+      "num": 419613,
+      "word": "四六级",
+      "onboard_time": 1686959242,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 417793,
@@ -3401,6 +3425,14 @@
       "onboard_time": 1686915206,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 397977,
+      "num": 397977,
+      "word": "TFBOYS是巡演吗",
+      "onboard_time": 1686965486,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 395000,
@@ -4067,6 +4099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328969,
+      "num": 328969,
+      "word": "迪丽热巴照片有热带鱼表情",
+      "onboard_time": 1686968607,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328555,
       "num": 328555,
       "word": "赵露思刘宇宁或将二搭",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1686651149,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319992,
+      "num": 319992,
+      "word": "林志玲泳装",
+      "onboard_time": 1686968548,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 319942,
@@ -4611,14 +4659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291824,
-      "num": 285298,
-      "word": "TFBOYS是巡演吗",
-      "onboard_time": 1686965486,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 291325,
       "num": 291325,
       "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
@@ -4657,14 +4697,6 @@
       "onboard_time": 1686808468,
       "rank": 30,
       "category": "自然,幽默"
-    },
-    {
-      "raw_hot": 289400,
-      "num": 289400,
-      "word": "四六级",
-      "onboard_time": 1686959242,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 289169,
@@ -4865,6 +4897,14 @@
       "onboard_time": 1686719674,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274669,
+      "num": 274669,
+      "word": "是大奶茶不是大来叉",
+      "onboard_time": 1686968548,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 274420,
@@ -5491,6 +5531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252530,
+      "num": 252530,
+      "word": "肖战蔡徐坤赵露思微博开屏",
+      "onboard_time": 1686966028,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252518,
       "num": 252518,
       "word": "苏醒说包工作人员晚饭",
@@ -5897,6 +5945,14 @@
       "onboard_time": 1686548070,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238210,
+      "num": 238210,
+      "word": "超载25倍沥青货车侧翻母子被埋身亡",
+      "onboard_time": 1686966627,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237636,
@@ -7067,11 +7123,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208627,
-      "num": 169158,
-      "word": "超载25倍沥青货车侧翻母子被埋身亡",
-      "onboard_time": 1686966627,
-      "rank": 32,
+      "raw_hot": 208323,
+      "num": 208323,
+      "word": "140元一根演唱会荧光棒成本仅10元",
+      "onboard_time": 1686967167,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -7233,14 +7289,6 @@
       "onboard_time": 1686886056,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203695,
-      "num": 167782,
-      "word": "肖战蔡徐坤赵露思微博开屏",
-      "onboard_time": 1686966028,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 203595,
@@ -7465,6 +7513,14 @@
       "onboard_time": 1686552508,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "四个月大的萌兰",
+      "onboard_time": 1686968305,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200157,
@@ -7785,14 +7841,6 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194086,
-      "num": 164611,
-      "word": "男子健身房内去世前向私教求救",
-      "onboard_time": 1686966627,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194064,
@@ -8411,6 +8459,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 185955,
+      "num": 185955,
+      "word": "TFBOYS团粉喝什么",
+      "onboard_time": 1686967947,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185949,
       "num": 91366,
       "word": "村民鸡窝中发现鸟皇后",
@@ -8505,6 +8561,14 @@
       "onboard_time": 1686738809,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184069,
+      "num": 184069,
+      "word": "梦海刀刀致命",
+      "onboard_time": 1686968427,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 183781,
@@ -9563,6 +9627,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 159864,
+      "num": 159864,
+      "word": "吴昕看起来好乖啊",
+      "onboard_time": 1686966028,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159691,
       "num": 159691,
       "word": "尹净汉柏林看秀生图",
@@ -9769,6 +9841,14 @@
       "onboard_time": 1686838767,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155348,
+      "num": 155348,
+      "word": "21岁的肖春生VS43岁的肖春生",
+      "onboard_time": 1686969147,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 155335,
@@ -10435,14 +10515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142704,
-      "num": 142704,
-      "word": "吴昕看起来好乖啊",
-      "onboard_time": 1686966028,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142702,
       "num": 173591,
       "word": "茅海建",
@@ -10465,6 +10537,14 @@
       "onboard_time": 1686828565,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142468,
+      "num": 142468,
+      "word": "人民教师跳10余米高桥救人",
+      "onboard_time": 1686969208,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142439,
@@ -10715,6 +10795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138570,
+      "num": 138570,
+      "word": "宋亚轩刘耀文张真源躲猎人",
+      "onboard_time": 1686968066,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138468,
       "num": 138468,
       "word": "詹雯婷方严正声明",
@@ -10777,6 +10865,14 @@
       "onboard_time": 1686713550,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137577,
+      "num": 137577,
+      "word": "谁给了他自信",
+      "onboard_time": 1686968907,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 137574,
@@ -10889,6 +10985,14 @@
       "onboard_time": 1686828745,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135356,
+      "num": 135356,
+      "word": "斗罗大陆2",
+      "onboard_time": 1686968967,
+      "rank": 46,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 135338,
@@ -12329,6 +12433,14 @@
       "onboard_time": 1686785424,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98682,
+      "num": 251671,
+      "word": "株洲推搡驾驶员辅警被辞退",
+      "onboard_time": 1686967526,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98070,
