@@ -1,0 +1,410 @@
+{
+  "runTime": 1686987212279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2197147,
+        "num": 2197147,
+        "word": "买洞洞鞋后这辈子就定型了",
+        "onboard_time": 1686978874,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1630377,
+        "num": 1630377,
+        "word": "联合调查组认定饭菜中异物是鼠头",
+        "onboard_time": 1686976651,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18499,
+        "num": 1296596,
+        "word": "奋进中国大江澎湃",
+        "onboard_time": 1686976955,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141604,
+        "num": 1141604,
+        "word": "Jennie是前一天爬山太累了吗",
+        "onboard_time": 1686985169,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739706,
+        "num": 739706,
+        "word": "备孕前千万记得拔智齿",
+        "onboard_time": 1686975450,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 807468,
+        "num": 733673,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 717125,
+        "num": 717125,
+        "word": "迪丽热巴照片有热带鱼表情",
+        "onboard_time": 1686968607,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673588,
+        "num": 673588,
+        "word": "网友评选上半年烂剧之王",
+        "onboard_time": 1686979595,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602749,
+        "num": 602749,
+        "word": "还以为杨紫关晓彤在吵架",
+        "onboard_time": 1686978874,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 554830,
+        "num": 554830,
+        "word": "陈宏军居然出轨了",
+        "onboard_time": 1686975330,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1468954,
+        "num": 551336,
+        "word": "顶格处罚鼠头鸭脖涉事企业",
+        "onboard_time": 1686977132,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1096182,
+        "num": 549796,
+        "word": "郑业成 希望大家不要效仿我的错误行为",
+        "onboard_time": 1686984392,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544010,
+        "num": 544010,
+        "word": "四级",
+        "onboard_time": 1686973533,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1117962,
+        "num": 539026,
+        "word": "一颗老鼠头为何要省级调查组才能查清",
+        "onboard_time": 1686983369,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90216,
+        "num": 534386,
+        "word": "70名考生坐船乘风破浪抵达考场",
+        "onboard_time": 1686985227,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533674,
+        "num": 533674,
+        "word": "伊能静儿子跳舞好好看",
+        "onboard_time": 1686983612,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779970,
+        "num": 474611,
+        "word": "鼠头异物被涉事食堂事发当日丢弃",
+        "onboard_time": 1686977313,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359844,
+        "num": 359844,
+        "word": "向华强说以后珠宝都给郭碧婷",
+        "onboard_time": 1686986188,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354169,
+        "num": 354169,
+        "word": "王宝强八角笼中首波口碑",
+        "onboard_time": 1686957319,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419542,
+        "num": 351419,
+        "word": "鼠身去哪了",
+        "onboard_time": 1686985706,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344279,
+        "num": 344279,
+        "word": "马云在东京教书",
+        "onboard_time": 1686963506,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 296070,
+        "num": 296070,
+        "word": "男子受托帮接小孩未接上致孩子溺亡",
+        "onboard_time": 1686971607,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286728,
+        "num": 286728,
+        "word": "胡锡进 希望鼠头鸭脖为全社会敲响警钟",
+        "onboard_time": 1686985169,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281043,
+        "num": 281043,
+        "word": "女子骑车手扶帽子头部着地身亡",
+        "onboard_time": 1686982174,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274058,
+        "num": 274058,
+        "word": "月薪几万运营总监只会管鸡毛蒜皮",
+        "onboard_time": 1686964107,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 267938,
+        "num": 267938,
+        "word": "杨洋 新郎",
+        "onboard_time": 1686963385,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255005,
+        "num": 255005,
+        "word": "男子健身房内去世前向私教求救",
+        "onboard_time": 1686966627,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247180,
+        "num": 247180,
+        "word": "掌中宝",
+        "onboard_time": 1686986667,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239611,
+        "num": 239611,
+        "word": "鼠头鸭脖事件院校删除此前声明",
+        "onboard_time": 1686979896,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236911,
+        "num": 236911,
+        "word": "郑业成往车窗外乱丢烟头",
+        "onboard_time": 1686981693,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 233575,
+        "num": 233575,
+        "word": "公司的下午茶一个人4块钱",
+        "onboard_time": 1686985648,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209753,
+        "num": 209753,
+        "word": "偶像剧独爆小生",
+        "onboard_time": 1686980974,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594170,
+        "num": 209140,
+        "word": "指鼠为鸭",
+        "onboard_time": 1686979958,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204040,
+        "num": 204040,
+        "word": "床垫上的保护膜到底用不用撕",
+        "onboard_time": 1686959002,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200936,
+        "num": 200936,
+        "word": "陈冠希晒照祝欧阳娜娜生日快乐",
+        "onboard_time": 1686959965,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 198571,
+        "word": "四级答案",
+        "onboard_time": 1686972991,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185086,
+        "num": 185086,
+        "word": "叶国华叶芳是龙凤胎",
+        "onboard_time": 1686984569,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183593,
+        "num": 183593,
+        "word": "40度",
+        "onboard_time": 1686986128,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 173131,
+        "num": 173131,
+        "word": "谢娜捍卫张颂文歌手身份",
+        "onboard_time": 1686982052,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163146,
+        "num": 163146,
+        "word": "杨紫承欢记白西装",
+        "onboard_time": 1686984212,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163050,
+        "num": 163050,
+        "word": "陈雨菲",
+        "onboard_time": 1686985469,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157962,
+        "num": 157962,
+        "word": "怎么没有后浪",
+        "onboard_time": 1686986848,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157482,
+        "num": 157482,
+        "word": "没得到回应就是答案",
+        "onboard_time": 1686986066,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152983,
+        "num": 152983,
+        "word": "原著里的桑延vs剧版里的桑延",
+        "onboard_time": 1686975869,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150580,
+        "num": 150580,
+        "word": "江西工业职业技术学院",
+        "onboard_time": 1686979775,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148657,
+        "num": 148657,
+        "word": "林志玲后面是刘宪华",
+        "onboard_time": 1686983671,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140008,
+        "num": 140008,
+        "word": "蔡徐坤天气预报",
+        "onboard_time": 1686985648,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135614,
+        "num": 135614,
+        "word": "曾黎赵露思来现代演母女了",
+        "onboard_time": 1686982889,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127462,
+        "num": 127462,
+        "word": "如何看待学生爆料后视频澄清是鸭脖",
+        "onboard_time": 1686985706,
+        "rank": 48,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 108276,
+        "num": 126701,
+        "word": "DYG对战XYG",
+        "onboard_time": 1686985529,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}
