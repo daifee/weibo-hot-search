@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686987212279,
+  "endTime": 1686989975971,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -48,6 +48,14 @@
       "word": "鼠头异物被涉事食堂事发当日丢弃",
       "onboard_time": 1686977313,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2432215,
+      "num": 2432215,
+      "word": "一颗老鼠头为何要省级调查组才能查清",
+      "onboard_time": 1686983369,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1610746,
+      "num": 1610746,
+      "word": "长风渡定档",
+      "onboard_time": 1686987809,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1592108,
       "num": 1152859,
       "word": "陈乔恩被青蛙求婚",
@@ -139,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1402398,
+      "num": 1402398,
+      "word": "Jennie是前一天爬山太累了吗",
+      "onboard_time": 1686985169,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1336936,
       "num": 1336936,
       "word": "陈宏军居然出轨了",
@@ -153,22 +177,6 @@
       "onboard_time": 1686962304,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1199054,
-      "num": 584453,
-      "word": "一颗老鼠头为何要省级调查组才能查清",
-      "onboard_time": 1686983369,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1141604,
-      "num": 1141604,
-      "word": "Jennie是前一天爬山太累了吗",
-      "onboard_time": 1686985169,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1126606,
@@ -193,6 +201,14 @@
       "onboard_time": 1686924450,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 967256,
+      "num": 967256,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 929461,
@@ -227,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 837070,
-      "num": 837070,
-      "word": "备孕前千万记得拔智齿",
-      "onboard_time": 1686975450,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 785496,
+      "num": 475612,
+      "word": "向华强说以后珠宝都给郭碧婷",
+      "onboard_time": 1686986188,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 767289,
@@ -289,6 +305,14 @@
       "onboard_time": 1686929309,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652818,
+      "num": 468756,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 625724,
@@ -451,6 +475,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 417337,
+      "num": 417337,
+      "word": "杨幂盘发梦回晴川",
+      "onboard_time": 1686989906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405222,
+      "num": 405222,
+      "word": "掌中宝",
+      "onboard_time": 1686986667,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399824,
       "num": 399824,
       "word": "六公主连播易烊千玺主演电影",
@@ -515,11 +555,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 359844,
-      "num": 359844,
-      "word": "向华强说以后珠宝都给郭碧婷",
-      "onboard_time": 1686986188,
-      "rank": 17,
+      "raw_hot": 361361,
+      "num": 361361,
+      "word": "迪丽热巴开拍前花絮",
+      "onboard_time": 1686989128,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -731,6 +771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 259072,
+      "num": 259072,
+      "word": "公司的下午茶一个人4块钱",
+      "onboard_time": 1686985648,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256186,
       "num": 256186,
       "word": "超载25倍沥青货车侧翻母子被埋身亡",
@@ -769,14 +817,6 @@
       "onboard_time": 1686974313,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 247180,
-      "num": 247180,
-      "word": "掌中宝",
-      "onboard_time": 1686986667,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 244467,
@@ -819,20 +859,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 233575,
-      "num": 233575,
-      "word": "公司的下午茶一个人4块钱",
-      "onboard_time": 1686985648,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233555,
       "num": 233555,
       "word": "140元一根演唱会荧光棒成本仅10元",
       "onboard_time": 1686967167,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231193,
+      "num": 231193,
+      "word": "iG对战OMG",
+      "onboard_time": 1686989906,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 230805,
@@ -1011,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197461,
+      "num": 197461,
+      "word": "肖蓓蓓就是给肖战送信的女孩",
+      "onboard_time": 1686987388,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197312,
       "num": 197312,
       "word": "肖春生转戒指",
@@ -1051,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "当以为卡里应该还有一千多",
+      "onboard_time": 1686987986,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189759,
       "num": 189759,
       "word": "恋爱脑犯了就来看看",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1686984569,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186322,
+      "num": 186322,
+      "word": "武汉音乐节",
+      "onboard_time": 1686989607,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 185955,
@@ -1155,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176381,
+      "num": 176381,
+      "word": "书粉的命也是命啊",
+      "onboard_time": 1686988648,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176036,
       "num": 176036,
       "word": "手机屏保是你生活的意义吗",
@@ -1235,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167417,
+      "num": 167417,
+      "word": "17岁女孩拿金饰换钱店主拒收",
+      "onboard_time": 1686988948,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166682,
       "num": 166682,
       "word": "被高校老师的毕业寄语整破防了",
@@ -1259,12 +1339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166100,
+      "num": 166100,
+      "word": "TFBOYS十周年联名立体书",
+      "onboard_time": 1686989189,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164270,
       "num": 159881,
       "word": "宁安如梦超前营业",
       "onboard_time": 1686931107,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164165,
+      "num": 164165,
+      "word": "杨紫承欢记白西装",
+      "onboard_time": 1686984212,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 163791,
@@ -1275,10 +1371,10 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163146,
-      "num": 163146,
-      "word": "杨紫承欢记白西装",
-      "onboard_time": 1686984212,
+      "raw_hot": 161647,
+      "num": 161647,
+      "word": "任嘉伦李兰迪 流水迢迢",
+      "onboard_time": 1686989307,
       "rank": 39,
       "category": "影视"
     },
@@ -1379,6 +1475,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 152607,
+      "num": 152607,
+      "word": "金毛丢失1年后自行回家暴瘦20斤",
+      "onboard_time": 1686988406,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151884,
       "num": 146683,
       "word": "赵雅芝为王一博颁奖",
@@ -1459,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145546,
+      "num": 145546,
+      "word": "肖春生静静看贺红玲表演",
+      "onboard_time": 1686987688,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144663,
       "num": 163648,
       "word": "穿袜子千万别穿洞洞鞋",
@@ -1523,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138452,
+      "num": 138452,
+      "word": "KSG苏州主场落地",
+      "onboard_time": 1686989666,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137577,
       "num": 137577,
       "word": "谁给了他自信",
@@ -1555,12 +1675,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129171,
+      "num": 128395,
+      "word": "王一博热烈队服",
+      "onboard_time": 1686989787,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 128482,
+      "num": 128482,
+      "word": "蔡徐坤应援灯提前亮了",
+      "onboard_time": 1686987748,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127895,
       "num": 122155,
       "word": "杨洋男粉 我的神来啦",
       "onboard_time": 1686962787,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "高校请近300名毕业生吃龙虾宴",
+      "onboard_time": 1686989846,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124625,
@@ -1888,6 +2032,14 @@
       "word": "奋进中国大江澎湃",
       "onboard_time": 1686976955,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35166,
+      "num": 470751,
+      "word": "温州小伙7年拍出绝美短片献礼杭州亚运",
+      "onboard_time": 1686988888,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

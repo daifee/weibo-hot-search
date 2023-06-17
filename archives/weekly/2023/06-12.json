@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686987212279,
+  "endTime": 1686989975971,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -281,6 +281,14 @@
       "onboard_time": 1686710548,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2432215,
+      "num": 2432215,
+      "word": "一颗老鼠头为何要省级调查组才能查清",
+      "onboard_time": 1686983369,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2371539,
@@ -763,6 +771,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1610746,
+      "num": 1610746,
+      "word": "长风渡定档",
+      "onboard_time": 1686987809,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1603752,
       "num": 1603752,
       "word": "快乐大本营最后一期未播预告",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1686805888,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1402398,
+      "num": 1402398,
+      "word": "Jennie是前一天爬山太累了吗",
+      "onboard_time": 1686985169,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1396175,
@@ -1307,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1199054,
-      "num": 584453,
-      "word": "一颗老鼠头为何要省级调查组才能查清",
-      "onboard_time": 1686983369,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1195952,
       "num": 1195952,
       "word": "任敏性格",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1686909266,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1141604,
-      "num": 1141604,
-      "word": "Jennie是前一天爬山太累了吗",
-      "onboard_time": 1686985169,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1135240,
@@ -1779,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 967256,
+      "num": 967256,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 964196,
       "num": 964196,
       "word": "又一部炸裂的韩综",
@@ -2075,14 +2091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 837070,
-      "num": 837070,
-      "word": "备孕前千万记得拔智齿",
-      "onboard_time": 1686975450,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 836539,
       "num": 836539,
       "word": "贾乃亮黄景瑜评论区互怼",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1686798627,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 785496,
+      "num": 475612,
+      "word": "向华强说以后珠宝都给郭碧婷",
+      "onboard_time": 1686986188,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 785216,
@@ -2569,6 +2585,14 @@
       "onboard_time": 1686572007,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 652818,
+      "num": 468756,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 645139,
@@ -3515,6 +3539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417337,
+      "num": 417337,
+      "word": "杨幂盘发梦回晴川",
+      "onboard_time": 1686989906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415292,
       "num": 415292,
       "word": "连那英都接不住的场子",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1686923189,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405222,
+      "num": 405222,
+      "word": "掌中宝",
+      "onboard_time": 1686986667,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 404847,
@@ -3987,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361361,
+      "num": 361361,
+      "word": "迪丽热巴开拍前花絮",
+      "onboard_time": 1686989128,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361054,
       "num": 361054,
       "word": "护心",
@@ -4001,14 +4049,6 @@
       "onboard_time": 1686870500,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 359844,
-      "num": 359844,
-      "word": "向华强说以后珠宝都给郭碧婷",
-      "onboard_time": 1686986188,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 359441,
@@ -5699,6 +5739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259072,
+      "num": 259072,
+      "word": "公司的下午茶一个人4块钱",
+      "onboard_time": 1686985648,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258966,
       "num": 258966,
       "word": "为啥理发店没有女理发师",
@@ -6105,14 +6153,6 @@
       "onboard_time": 1686668911,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247180,
-      "num": 247180,
-      "word": "掌中宝",
-      "onboard_time": 1686986667,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 246988,
@@ -6531,14 +6571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233575,
-      "num": 233575,
-      "word": "公司的下午茶一个人4块钱",
-      "onboard_time": 1686985648,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233572,
       "num": 233572,
       "word": "薛之谦合肥",
@@ -6593,6 +6625,14 @@
       "onboard_time": 1686543214,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231193,
+      "num": 231193,
+      "word": "iG对战OMG",
+      "onboard_time": 1686989906,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 231178,
@@ -8243,6 +8283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197461,
+      "num": 197461,
+      "word": "肖蓓蓓就是给肖战送信的女孩",
+      "onboard_time": 1686987388,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197312,
       "num": 197312,
       "word": "肖春生转戒指",
@@ -8577,6 +8625,14 @@
       "onboard_time": 1686490292,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "当以为卡里应该还有一千多",
+      "onboard_time": 1686987986,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 191437,
@@ -9025,6 +9081,14 @@
       "onboard_time": 1686832342,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186322,
+      "num": 186322,
+      "word": "武汉音乐节",
+      "onboard_time": 1686989607,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 186265,
@@ -9531,6 +9595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176381,
+      "num": 176381,
+      "word": "书粉的命也是命啊",
+      "onboard_time": 1686988648,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176036,
       "num": 176036,
       "word": "手机屏保是你生活的意义吗",
@@ -9947,6 +10019,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 167417,
+      "num": 167417,
+      "word": "17岁女孩拿金饰换钱店主拒收",
+      "onboard_time": 1686988948,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167333,
       "num": 177922,
       "word": "公司的下午茶能有多炸裂",
@@ -10025,6 +10105,14 @@
       "onboard_time": 1686784521,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166100,
+      "num": 166100,
+      "word": "TFBOYS十周年联名立体书",
+      "onboard_time": 1686989189,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 165987,
@@ -10123,6 +10211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164165,
+      "num": 164165,
+      "word": "杨紫承欢记白西装",
+      "onboard_time": 1686984212,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163892,
       "num": 163892,
       "word": "光与夜之恋",
@@ -10152,14 +10248,6 @@
       "word": "肖春生在自己不知道的时候已爱上佟晓梅",
       "onboard_time": 1686533068,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 163146,
-      "num": 163146,
-      "word": "杨紫承欢记白西装",
-      "onboard_time": 1686984212,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -10249,6 +10337,14 @@
       "onboard_time": 1686753453,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161647,
+      "num": 161647,
+      "word": "任嘉伦李兰迪 流水迢迢",
+      "onboard_time": 1686989307,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 161545,
@@ -10755,6 +10851,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 152607,
+      "num": 152607,
+      "word": "金毛丢失1年后自行回家暴瘦20斤",
+      "onboard_time": 1686988406,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152524,
       "num": 152524,
       "word": "黄瓜做成了我吃不起的样子",
@@ -11169,6 +11273,14 @@
       "onboard_time": 1686961825,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145546,
+      "num": 145546,
+      "word": "肖春生静静看贺红玲表演",
+      "onboard_time": 1686987688,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 145477,
@@ -11619,6 +11731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138452,
+      "num": 138452,
+      "word": "KSG苏州主场落地",
+      "onboard_time": 1686989666,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138329,
       "num": 138329,
       "word": "周杰伦海口演唱会",
@@ -12067,6 +12187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129171,
+      "num": 128395,
+      "word": "王一博热烈队服",
+      "onboard_time": 1686989787,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128975,
       "num": 128975,
       "word": "半夜狗狗一直在叹气",
@@ -12113,6 +12241,14 @@
       "onboard_time": 1686797548,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128482,
+      "num": 128482,
+      "word": "蔡徐坤应援灯提前亮了",
+      "onboard_time": 1686987748,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 127914,
@@ -12184,6 +12320,14 @@
       "word": "听听毕业生的心里话",
       "onboard_time": 1686917907,
       "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 126888,
+      "num": 126888,
+      "word": "高校请近300名毕业生吃龙虾宴",
+      "onboard_time": 1686989846,
+      "rank": 49,
       "category": "社会新闻,教育"
     },
     {
@@ -14137,6 +14281,14 @@
       "onboard_time": 1686689953,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35166,
+      "num": 470751,
+      "word": "温州小伙7年拍出绝美短片献礼杭州亚运",
+      "onboard_time": 1686988888,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34368,
