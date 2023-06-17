@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686994415678,
+  "endTime": 1686997028602,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -113,6 +113,14 @@
       "onboard_time": 1686109729,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 7600071,
+      "num": 7600071,
+      "word": "六级",
+      "onboard_time": 1686993868,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 7463239,
@@ -1075,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2188516,
+      "num": 2188516,
+      "word": "六级答案",
+      "onboard_time": 1686995014,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2183531,
       "num": 2183531,
       "word": "亲戚小孩毁了我的动漫周边",
@@ -2019,8 +2035,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1686661,
+      "num": 632911,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1686346,
-      "num": 1371726,
+      "num": 1452243,
       "word": "杨幂盘发梦回晴川",
       "onboard_time": 1686989906,
       "rank": 18,
@@ -2169,14 +2193,6 @@
       "onboard_time": 1685710112,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1644454,
-      "num": 632911,
-      "word": "鼠头事件学生可10倍索赔",
-      "onboard_time": 1686988167,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1642963,
@@ -4291,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1131669,
+      "num": 1131669,
+      "word": "杨幂露背了",
+      "onboard_time": 1686994470,
+      "rank": 7,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1131278,
       "num": 1131278,
       "word": "张彬彬的粉底咋回事",
@@ -4409,14 +4433,6 @@
       "onboard_time": 1686180383,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1107234,
-      "num": 1107234,
-      "word": "六级",
-      "onboard_time": 1686993868,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 1105717,
@@ -4649,6 +4665,14 @@
       "onboard_time": 1686639746,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1064617,
+      "num": 1064617,
+      "word": "黑莲花 虞书欣丁禹兮",
+      "onboard_time": 1686992307,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1063327,
@@ -5417,14 +5441,6 @@
       "onboard_time": 1686745829,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 942338,
-      "num": 942338,
-      "word": "黑莲花 虞书欣丁禹兮",
-      "onboard_time": 1686992307,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 940655,
@@ -6747,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772058,
+      "num": 772058,
+      "word": "六级翻译",
+      "onboard_time": 1686972630,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 770410,
       "num": 680162,
       "word": "别把医术拍成了法术",
@@ -7275,6 +7299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713719,
+      "num": 713719,
+      "word": "沙溢演白敬亭爹",
+      "onboard_time": 1686991647,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 710463,
       "num": 710463,
       "word": "陈伟霆亲到耳朵红了",
@@ -7611,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672009,
+      "num": 672009,
+      "word": "小S澄清叶舒华双面人争议",
+      "onboard_time": 1686992367,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670799,
       "num": 670799,
       "word": "她是怎么忍住不用剪刀的",
@@ -7779,6 +7819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648312,
+      "num": 648312,
+      "word": "六级听力好难",
+      "onboard_time": 1686996569,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 647455,
       "num": 647455,
       "word": "白鹿陈都灵戴了同款耳饰",
@@ -7908,7 +7956,7 @@
     },
     {
       "raw_hot": 636561,
-      "num": 327828,
+      "num": 513245,
       "word": "女子买1根牛肉干店员偷塞进5根的量",
       "onboard_time": 1686990148,
       "rank": 24,
@@ -7993,6 +8041,14 @@
       "onboard_time": 1686493533,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 628568,
+      "num": 628568,
+      "word": "六级阅读",
+      "onboard_time": 1686995496,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 627807,
@@ -8667,14 +8723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 562918,
-      "num": 562918,
-      "word": "六级翻译",
-      "onboard_time": 1686972630,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 562530,
       "num": 161714,
       "word": "虞书欣晒和杨超越合照",
@@ -9265,14 +9313,6 @@
       "onboard_time": 1686927329,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 518885,
-      "num": 518885,
-      "word": "沙溢演白敬亭爹",
-      "onboard_time": 1686991647,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 518254,
@@ -10571,14 +10611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 436631,
-      "num": 436631,
-      "word": "小S澄清叶舒华双面人争议",
-      "onboard_time": 1686992367,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435501,
       "num": 435501,
       "word": "原著里的桑延vs剧版里的桑延",
@@ -11793,6 +11825,14 @@
       "onboard_time": 1686117813,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 384651,
+      "num": 384651,
+      "word": "六级作文",
+      "onboard_time": 1686995855,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 384257,
@@ -15443,6 +15483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294250,
+      "num": 294250,
+      "word": "TFBOYS十周年联名立体书",
+      "onboard_time": 1686989189,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294162,
       "num": 294162,
       "word": "薛之谦演唱会拿到张杰荧光棒",
@@ -16025,14 +16073,6 @@
       "onboard_time": 1686894629,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284742,
-      "num": 284742,
-      "word": "TFBOYS十周年联名立体书",
-      "onboard_time": 1686989189,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 284698,
@@ -16651,6 +16691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274397,
+      "num": 2343164,
+      "word": "中考生家长喊话广场舞大妈秒撤",
+      "onboard_time": 1686995434,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 274367,
       "num": 274367,
       "word": "女子考科三系错安全带考官面如死灰",
@@ -17035,6 +17083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270125,
+      "num": 1736565,
+      "word": "妈妈仨月疯狂减重20斤割肝救女",
+      "onboard_time": 1686992428,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269882,
       "num": 269882,
       "word": "杭州蓝色钱江纵火案房源以2360万元网签",
@@ -17401,6 +17457,14 @@
       "onboard_time": 1686484466,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264724,
+      "num": 264724,
+      "word": "内地对艺人是不是太好了",
+      "onboard_time": 1686993508,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 264691,
@@ -18233,6 +18297,14 @@
       "onboard_time": 1686644008,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254856,
+      "num": 254856,
+      "word": "KSG对战TTG",
+      "onboard_time": 1686996511,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 254733,
@@ -20129,6 +20201,14 @@
       "onboard_time": 1686621747,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233809,
+      "num": 233809,
+      "word": "七彩猫",
+      "onboard_time": 1686996273,
+      "rank": 36,
+      "category": "网红,动漫"
     },
     {
       "raw_hot": 233734,
@@ -23283,6 +23363,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 206739,
+      "num": 206739,
+      "word": "哇唧唧哇新人连续三天高温室外快闪",
+      "onboard_time": 1686991949,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206658,
       "num": 206658,
       "word": "父母不同意和对象毕业旅行",
@@ -24792,6 +24880,14 @@
       "word": "李沁认证肖春生社牛",
       "onboard_time": 1686367971,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195592,
+      "num": 195592,
+      "word": "秦岚44岁身材管理",
+      "onboard_time": 1686993267,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -27219,6 +27315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181718,
+      "num": 181718,
+      "word": "就差宁安如梦了",
+      "onboard_time": 1686993690,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181687,
       "num": 159481,
       "word": "肖春生这个家没了我得散",
@@ -27793,14 +27897,6 @@
       "onboard_time": 1686024992,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 176931,
-      "num": 176931,
-      "word": "哇唧唧哇新人连续三天高温室外快闪",
-      "onboard_time": 1686991949,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 176911,
@@ -28931,6 +29027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167077,
+      "num": 393778,
+      "word": "香港明星足球队喊话贵州村超",
+      "onboard_time": 1686996511,
+      "rank": 25,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 167033,
       "num": 167033,
       "word": "一生要强的文科人",
@@ -29649,6 +29753,14 @@
       "onboard_time": 1686118829,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 161869,
+      "num": 161869,
+      "word": "真的白轶补贴",
+      "onboard_time": 1686994351,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 161765,
@@ -30803,14 +30915,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 153064,
-      "num": 153064,
-      "word": "真的白轶补贴",
-      "onboard_time": 1686994351,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 153060,
       "num": 153060,
       "word": "多巴胺穿搭 QQ秀",
@@ -31035,14 +31139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 151730,
-      "num": 151730,
-      "word": "就差宁安如梦了",
-      "onboard_time": 1686993690,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151581,
       "num": 151581,
       "word": "张彬彬直播",
@@ -31115,14 +31211,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 151081,
-      "num": 151081,
-      "word": "内地对艺人是不是太好了",
-      "onboard_time": 1686993508,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151080,
       "num": 151080,
       "word": "面试时HR让我填血型",
@@ -31137,14 +31225,6 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150753,
-      "num": 150753,
-      "word": "秦岚44岁身材管理",
-      "onboard_time": 1686993267,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 150584,
@@ -31769,6 +31849,14 @@
       "onboard_time": 1686697823,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 161197,
+      "word": "荔枝鸡翅",
+      "onboard_time": 1686996630,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 145696,
@@ -32433,6 +32521,14 @@
       "onboard_time": 1686233493,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 140215,
+      "num": 643372,
+      "word": "点亮网络文明之光",
+      "onboard_time": 1686994953,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140110,
@@ -33897,14 +33993,6 @@
       "onboard_time": 1686962787,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127888,
-      "num": 523431,
-      "word": "妈妈仨月疯狂减重20斤割肝救女",
-      "onboard_time": 1686992428,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127833,
@@ -39412,7 +39500,7 @@
     },
     {
       "raw_hot": 28323,
-      "num": 1371820,
+      "num": 2232726,
       "word": "夏日消费热起来助推经济火起来",
       "onboard_time": 1686976651,
       "rank": 2,
@@ -39481,6 +39569,14 @@
       "onboard_time": 1686319230,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26176,
+      "num": 648389,
+      "word": "辅警散步途中突遇火情翻墙救火",
+      "onboard_time": 1686996094,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26146,

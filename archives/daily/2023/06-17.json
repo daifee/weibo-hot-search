@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686994415678,
+  "endTime": 1686997028602,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -9,6 +9,14 @@
       "onboard_time": 1686976651,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7600071,
+      "num": 7600071,
+      "word": "六级",
+      "onboard_time": 1686993868,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 7308190,
@@ -67,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2188516,
+      "num": 2188516,
+      "word": "六级答案",
+      "onboard_time": 1686995014,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2019476,
       "num": 2019476,
       "word": "谢娜李维嘉吴昕录制新综艺",
@@ -99,8 +115,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1686661,
+      "num": 632911,
+      "word": "鼠头事件学生可10倍索赔",
+      "onboard_time": 1686988167,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1686346,
-      "num": 1371726,
+      "num": 1452243,
       "word": "杨幂盘发梦回晴川",
       "onboard_time": 1686989906,
       "rank": 18,
@@ -113,14 +137,6 @@
       "onboard_time": 1686963385,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1644454,
-      "num": 632911,
-      "word": "鼠头事件学生可10倍索赔",
-      "onboard_time": 1686988167,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1610746,
@@ -195,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1131669,
+      "num": 1131669,
+      "word": "杨幂露背了",
+      "onboard_time": 1686994470,
+      "rank": 7,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1126606,
       "num": 1126606,
       "word": "为何鼠头曾被认定为鸭脖",
@@ -203,20 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107234,
-      "num": 1107234,
-      "word": "六级",
-      "onboard_time": 1686993868,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1096182,
       "num": 625106,
       "word": "郑业成 希望大家不要效仿我的错误行为",
       "onboard_time": 1686984392,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1064617,
+      "num": 1064617,
+      "word": "黑莲花 虞书欣丁禹兮",
+      "onboard_time": 1686992307,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 997381,
@@ -233,14 +257,6 @@
       "onboard_time": 1686975450,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 942338,
-      "num": 942338,
-      "word": "黑莲花 虞书欣丁禹兮",
-      "onboard_time": 1686992307,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 929461,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772058,
+      "num": 772058,
+      "word": "六级翻译",
+      "onboard_time": 1686972630,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 767289,
       "num": 767289,
       "word": "网友评选上半年烂剧之王",
@@ -323,6 +347,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 713719,
+      "num": 713719,
+      "word": "沙溢演白敬亭爹",
+      "onboard_time": 1686991647,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703890,
       "num": 703890,
       "word": "床垫上的保护膜到底用不用撕",
@@ -339,12 +371,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672009,
+      "num": 672009,
+      "word": "小S澄清叶舒华双面人争议",
+      "onboard_time": 1686992367,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 648312,
+      "num": 648312,
+      "word": "六级听力好难",
+      "onboard_time": 1686996569,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 636561,
-      "num": 327828,
+      "num": 513245,
       "word": "女子买1根牛肉干店员偷塞进5根的量",
       "onboard_time": 1686990148,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628568,
+      "num": 628568,
+      "word": "六级阅读",
+      "onboard_time": 1686995496,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 625724,
@@ -353,14 +409,6 @@
       "onboard_time": 1686978874,
       "rank": 42,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 562918,
-      "num": 562918,
-      "word": "六级翻译",
-      "onboard_time": 1686972630,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 551817,
@@ -427,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 518885,
-      "num": 518885,
-      "word": "沙溢演白敬亭爹",
-      "onboard_time": 1686991647,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 498954,
       "num": 498954,
       "word": "TFBOYS是巡演吗",
@@ -499,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436631,
-      "num": 436631,
-      "word": "小S澄清叶舒华双面人争议",
-      "onboard_time": 1686992367,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435501,
       "num": 435501,
       "word": "原著里的桑延vs剧版里的桑延",
@@ -545,6 +577,14 @@
       "onboard_time": 1686906508,
       "rank": 7,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 384651,
+      "num": 384651,
+      "word": "六级作文",
+      "onboard_time": 1686995855,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 382879,
@@ -699,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294250,
+      "num": 294250,
+      "word": "TFBOYS十周年联名立体书",
+      "onboard_time": 1686989189,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293050,
       "num": 293050,
       "word": "谢娜捍卫张颂文歌手身份",
@@ -747,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284742,
-      "num": 284742,
-      "word": "TFBOYS十周年联名立体书",
-      "onboard_time": 1686989189,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 280156,
       "num": 280156,
       "word": "当我飞奔向你",
@@ -771,12 +811,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274397,
+      "num": 2343164,
+      "word": "中考生家长喊话广场舞大妈秒撤",
+      "onboard_time": 1686995434,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 273340,
       "num": 273340,
       "word": "浪姐四公用了R1SE的青鸟",
       "onboard_time": 1686976469,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270125,
+      "num": 1736565,
+      "word": "妈妈仨月疯狂减重20斤割肝救女",
+      "onboard_time": 1686992428,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268804,
@@ -793,6 +849,14 @@
       "onboard_time": 1686978398,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 264724,
+      "num": 264724,
+      "word": "内地对艺人是不是太好了",
+      "onboard_time": 1686993508,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 264533,
@@ -849,6 +913,14 @@
       "onboard_time": 1686975570,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254856,
+      "num": 254856,
+      "word": "KSG对战TTG",
+      "onboard_time": 1686996511,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 252530,
@@ -921,6 +993,14 @@
       "onboard_time": 1686922048,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 233809,
+      "num": 233809,
+      "word": "七彩猫",
+      "onboard_time": 1686996273,
+      "rank": 36,
+      "category": "网红,动漫"
     },
     {
       "raw_hot": 233555,
@@ -1083,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206739,
+      "num": 206739,
+      "word": "哇唧唧哇新人连续三天高温室外快闪",
+      "onboard_time": 1686991949,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204592,
       "num": 204592,
       "word": "天津中考",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1686978996,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195592,
+      "num": 195592,
+      "word": "秦岚44岁身材管理",
+      "onboard_time": 1686993267,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 192543,
@@ -1299,6 +1395,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 181718,
+      "num": 181718,
+      "word": "就差宁安如梦了",
+      "onboard_time": 1686993690,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181390,
       "num": 181390,
       "word": "WBG获胜",
@@ -1321,14 +1425,6 @@
       "onboard_time": 1686930089,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176931,
-      "num": 176931,
-      "word": "哇唧唧哇新人连续三天高温室外快闪",
-      "onboard_time": 1686991949,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 176036,
@@ -1443,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167077,
+      "num": 393778,
+      "word": "香港明星足球队喊话贵州村超",
+      "onboard_time": 1686996511,
+      "rank": 25,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 166682,
       "num": 166682,
       "word": "被高校老师的毕业寄语整破防了",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1686986066,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161869,
+      "num": 161869,
+      "word": "真的白轶补贴",
+      "onboard_time": 1686994351,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 161078,
@@ -1595,14 +1707,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 153064,
-      "num": 153064,
-      "word": "真的白轶补贴",
-      "onboard_time": 1686994351,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152678,
       "num": 152678,
       "word": "王一博热烈队服",
@@ -1643,36 +1747,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 151730,
-      "num": 151730,
-      "word": "就差宁安如梦了",
-      "onboard_time": 1686993690,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151086,
       "num": 151086,
       "word": "老师穿长裙印满V字为中考生加油",
       "onboard_time": 1686992189,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 151081,
-      "num": 151081,
-      "word": "内地对艺人是不是太好了",
-      "onboard_time": 1686993508,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 150753,
-      "num": 150753,
-      "word": "秦岚44岁身材管理",
-      "onboard_time": 1686993267,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 149688,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1686972812,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 161197,
+      "word": "荔枝鸡翅",
+      "onboard_time": 1686996630,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 145643,
@@ -1800,6 +1888,14 @@
       "word": "海南警方高能禁毒短剧",
       "onboard_time": 1686990747,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140215,
+      "num": 643372,
+      "word": "点亮网络文明之光",
+      "onboard_time": 1686994953,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1897,14 +1993,6 @@
       "onboard_time": 1686962787,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127888,
-      "num": 523431,
-      "word": "妈妈仨月疯狂减重20斤割肝救女",
-      "onboard_time": 1686992428,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124625,
@@ -2244,7 +2332,7 @@
     },
     {
       "raw_hot": 28323,
-      "num": 1371820,
+      "num": 2232726,
       "word": "夏日消费热起来助推经济火起来",
       "onboard_time": 1686976651,
       "rank": 2,
@@ -2257,6 +2345,14 @@
       "onboard_time": 1686920609,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26176,
+      "num": 648389,
+      "word": "辅警散步途中突遇火情翻墙救火",
+      "onboard_time": 1686996094,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19381,
