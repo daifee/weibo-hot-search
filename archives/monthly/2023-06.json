@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687016058720,
+  "endTime": 1687019755415,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -6051,6 +6051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 857119,
+      "num": 857119,
+      "word": "jkl",
+      "onboard_time": 1687015532,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 857070,
       "num": 857070,
       "word": "俄23岁男子游泳时被鲨鱼活吞",
@@ -6273,6 +6281,14 @@
       "onboard_time": 1685777245,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 835189,
+      "num": 835189,
+      "word": "榜一大哥是我爸",
+      "onboard_time": 1687013073,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 833816,
@@ -6720,6 +6736,14 @@
       "word": "男子称在洗浴中心被男性猥亵",
       "onboard_time": 1686620127,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784996,
+      "num": 388694,
+      "word": "女生称没穿内衣取外卖被骑手骚扰",
+      "onboard_time": 1687009830,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7203,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737123,
+      "num": 737123,
+      "word": "端午公司发了3颗荔枝",
+      "onboard_time": 1687012650,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 736658,
       "num": 736658,
       "word": "苏醒 我离梅西好远",
@@ -7331,14 +7363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719024,
-      "num": 388694,
-      "word": "女生称没穿内衣取外卖被骑手骚扰",
-      "onboard_time": 1687009830,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 717920,
       "num": 717920,
       "word": "高圆圆吃了我的刀削面",
@@ -7385,14 +7409,6 @@
       "onboard_time": 1686887617,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714060,
-      "num": 714060,
-      "word": "榜一大哥是我爸",
-      "onboard_time": 1687013073,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 713825,
@@ -8865,14 +8881,6 @@
       "onboard_time": 1685636187,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565525,
-      "num": 565525,
-      "word": "端午公司发了3颗荔枝",
-      "onboard_time": 1687012650,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 564661,
@@ -12587,6 +12595,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 367392,
+      "num": 367392,
+      "word": "芝芙不热吗",
+      "onboard_time": 1687016789,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367257,
       "num": 367257,
       "word": "官方回应江西考生迟到37分进考场",
@@ -14635,14 +14651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 316841,
-      "num": 316841,
-      "word": "jkl",
-      "onboard_time": 1687015532,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 316566,
       "num": 316566,
       "word": "国足vs缅甸",
@@ -14712,6 +14720,14 @@
       "word": "没认出岳云鹏",
       "onboard_time": 1685780728,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315230,
+      "num": 259864,
+      "word": "电影一闪一闪亮晶晶",
+      "onboard_time": 1687016131,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -20195,6 +20211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238860,
+      "num": 229982,
+      "word": "kpop爱豆整形模板脸",
+      "onboard_time": 1687016490,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 238848,
       "num": 238848,
       "word": "杨幂龚俊或将合唱狐妖OST",
@@ -21923,6 +21947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222771,
+      "num": 222771,
+      "word": "突然明白了儿子为什么想回老家",
+      "onboard_time": 1687015831,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 222759,
       "num": 222759,
       "word": "任嘉伦李兰迪 流水迢迢",
@@ -22897,6 +22929,14 @@
       "onboard_time": 1686475588,
       "rank": 26,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 214900,
+      "num": 269934,
+      "word": "想念朱婷",
+      "onboard_time": 1687018650,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 214834,
@@ -25201,14 +25241,6 @@
       "onboard_time": 1685887713,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197154,
-      "num": 197154,
-      "word": "突然明白了儿子为什么想回老家",
-      "onboard_time": 1687015831,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 197084,
@@ -30251,6 +30283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162656,
+      "num": 162656,
+      "word": "看到姐姐们 不害怕变老了",
+      "onboard_time": 1687016308,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 162653,
       "num": 162653,
       "word": "寻找17年给我小狗的阿姨",
@@ -30753,6 +30793,14 @@
       "onboard_time": 1686289169,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 158910,
+      "num": 158910,
+      "word": "有些衣服穿着穿着就变成睡衣了",
+      "onboard_time": 1687017870,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 158909,
@@ -32515,6 +32563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145545,
+      "num": 145545,
+      "word": "余佳运今晚嘉宾是欧阳娜娜",
+      "onboard_time": 1687015052,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145477,
       "num": 145477,
       "word": "95后小伙每天抡15斤大锤学打铁",
@@ -34273,6 +34329,14 @@
       "onboard_time": 1686438977,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131495,
+      "num": 131495,
+      "word": "西工大一班级全员34人参与重大科研",
+      "onboard_time": 1687018469,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 131442,
@@ -39499,6 +39563,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 50757,
+      "num": 1074908,
+      "word": "卫星视角看中国治沙奇迹",
+      "onboard_time": 1687015473,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50553,
       "num": 81557,
       "word": "人际关系第一原则",
@@ -40465,14 +40537,6 @@
       "onboard_time": 1686133657,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 20645,
-      "num": 1074908,
-      "word": "卫星视角看中国治沙奇迹",
-      "onboard_time": 1687015473,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20349,

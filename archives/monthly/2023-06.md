@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/17 23:34:18
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 00:35:55
 </p>
 </blockquote>
 <p>
@@ -4551,6 +4551,12 @@ WBG零封JDG（热度：888042）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23jkl%23" target="weibo">
+jkl（热度：857119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%8423%E5%B2%81%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E6%97%B6%E8%A2%AB%E9%B2%A8%E9%B1%BC%E6%B4%BB%E5%90%9E%23" target="weibo">
 俄23岁男子游泳时被鲨鱼活吞（热度：857070）
 </a>
@@ -4715,6 +4721,12 @@ SMTOWN曾用EXO威胁边伯贤（热度：837729）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%9C%A8%E8%B0%88%E5%90%97%23" target="weibo">
 陈伟霆章若楠真的没在谈吗（热度：835405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
+榜一大哥是我爸（热度：835189）
 </a>
 </li>
 
@@ -5051,6 +5063,12 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9C%A8%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%E8%A2%AB%E7%94%B7%E6%80%A7%E7%8C%A5%E4%BA%B5%23" target="weibo">
 男子称在洗浴中心被男性猥亵（热度：785216）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0%23" target="weibo">
+女生称没穿内衣取外卖被骑手骚扰（热度：784996）
 </a>
 </li>
 
@@ -5415,6 +5433,12 @@ Uzi首发对战iG（热度：759138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%85%AC%E5%8F%B8%E5%8F%91%E4%BA%863%E9%A2%97%E8%8D%94%E6%9E%9D%23" target="weibo">
+端午公司发了3颗荔枝（热度：737123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%20%E6%88%91%E7%A6%BB%E6%A2%85%E8%A5%BF%E5%A5%BD%E8%BF%9C%23" target="weibo">
 苏醒 我离梅西好远（热度：736658）
 </a>
@@ -5511,12 +5535,6 @@ Lisa一身反骨（热度：719494）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B2%A1%E7%A9%BF%E5%86%85%E8%A1%A3%E5%8F%96%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%91%E6%89%8B%E9%AA%9A%E6%89%B0%23" target="weibo">
-女生称没穿内衣取外卖被骑手骚扰（热度：719024）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E5%90%83%E4%BA%86%E6%88%91%E7%9A%84%E5%88%80%E5%89%8A%E9%9D%A2%23" target="weibo">
 高圆圆吃了我的刀削面（热度：717920）
 </a>
@@ -5549,12 +5567,6 @@ TFBOYS演唱会流程图（热度：715148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B9%B0%E7%BD%91%E7%BA%A2%E9%9D%92%E8%9B%99%E5%B0%8F%E9%9D%92%E8%9B%99%E4%B8%8D%E8%AE%A9%E4%BB%98%E9%92%B1%23" target="weibo">
 交警买网红青蛙小青蛙不让付钱（热度：714068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
-榜一大哥是我爸（热度：714060）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Jennie小松菜奈热聊（热度：659490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%99%88%E9%83%BD%E7%81%B5%E6%88%B4%E4%BA%86%E5%90%8C%E6%AC%BE%E8%80%B3%E9%A5%B0%23" target="weibo">
 白鹿陈都灵戴了同款耳饰（热度：647455）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E8%BF%98%E6%98%AF%E9%B8%AD%E8%84%96%E6%80%8E%E4%B9%88%E5%B0%B1%E6%88%90%E4%BA%86%E7%BD%97%E7%94%9F%E9%97%A8%23" target="weibo">
-鼠头还是鸭脖怎么就成了罗生门（热度：646982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%84%91%E5%87%BA%E8%A1%80%E4%BA%A4%E8%AD%A6%E5%92%86%E5%93%AE%E5%BC%8F%E5%BC%80%E9%81%93%E9%80%81%E5%8C%BB%23" target="weibo">
-大学生脑出血交警咆哮式开道送医（热度：645139）
 </a>
 </li>
 
