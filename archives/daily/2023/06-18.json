@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687034019800,
+  "endTime": 1687036444748,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -451,8 +451,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30947,
-      "num": 30947,
+      "raw_hot": 39213,
+      "num": 39213,
       "word": "张小斐嘴上说不热身体却很诚实",
       "onboard_time": 1687030034,
       "rank": 28,
@@ -473,6 +473,14 @@
       "onboard_time": 1687015292,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8792,
+      "num": 22104,
+      "word": "不要挑衅重庆的外卖商家",
+      "onboard_time": 1687036393,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

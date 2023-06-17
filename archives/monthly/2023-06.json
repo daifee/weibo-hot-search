@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687034019800,
+  "endTime": 1687036444748,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -39971,6 +39971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39213,
+      "num": 39213,
+      "word": "张小斐嘴上说不热身体却很诚实",
+      "onboard_time": 1687030034,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39135,
       "num": 39135,
       "word": "不应该丧失对感情的信心",
@@ -40249,14 +40257,6 @@
       "onboard_time": 1686769514,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 30947,
-      "num": 30947,
-      "word": "张小斐嘴上说不热身体却很诚实",
-      "onboard_time": 1687030034,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 30928,
@@ -40737,6 +40737,14 @@
       "onboard_time": 1685737992,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8792,
+      "num": 22104,
+      "word": "不要挑衅重庆的外卖商家",
+      "onboard_time": 1687036393,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 5391,
