@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686965768087,
+  "endTime": 1686966781318,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -635,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1702217,
+      "num": 1702217,
+      "word": "舅舅私自处置孤女百万遗产被判赔130万",
+      "onboard_time": 1686962304,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1700934,
       "num": 1700934,
       "word": "刘鑫不服二审判决申请再审",
@@ -689,14 +697,6 @@
       "onboard_time": 1686876749,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1603445,
-      "num": 1603445,
-      "word": "舅舅私自处置孤女百万遗产被判赔130万",
-      "onboard_time": 1686962304,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1579112,
@@ -785,6 +785,14 @@
       "onboard_time": 1686611720,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1510936,
+      "num": 521926,
+      "word": "杨洋 新郎",
+      "onboard_time": 1686963385,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1507639,
@@ -905,14 +913,6 @@
       "onboard_time": 1686805888,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1404118,
-      "num": 477481,
-      "word": "杨洋 新郎",
-      "onboard_time": 1686963385,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1396175,
@@ -1092,7 +1092,7 @@
     },
     {
       "raw_hot": 1270148,
-      "num": 360984,
+      "num": 452994,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 12,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1686702810,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1252240,
+      "num": 1252240,
+      "word": "同事付费坐我老公的车上下班",
+      "onboard_time": 1686962304,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1247195,
@@ -1201,14 +1209,6 @@
       "onboard_time": 1686553050,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1193928,
-      "num": 1193928,
-      "word": "同事付费坐我老公的车上下班",
-      "onboard_time": 1686962304,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1188404,
@@ -1691,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922127,
+      "num": 521519,
+      "word": "马云在东京教书",
+      "onboard_time": 1686963506,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 919916,
       "num": 919916,
       "word": "梅西说不会参加下届世界杯",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1686665488,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 889931,
-      "num": 477374,
-      "word": "马云在东京教书",
-      "onboard_time": 1686963506,
-      "rank": 11,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 888221,
@@ -2283,6 +2283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 703890,
+      "num": 703890,
+      "word": "床垫上的保护膜到底用不用撕",
+      "onboard_time": 1686959002,
+      "rank": 5,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 696107,
       "num": 696107,
       "word": "入住毛坯房的我在小区出名了",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1686644307,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 676256,
-      "num": 676256,
-      "word": "床垫上的保护膜到底用不用撕",
-      "onboard_time": 1686959002,
-      "rank": 5,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 676219,
@@ -2659,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561385,
+      "num": 521285,
+      "word": "月薪几万运营总监只会管鸡毛蒜皮",
+      "onboard_time": 1686964107,
+      "rank": 19,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 560537,
       "num": 560537,
       "word": "清潭国际高中",
@@ -2763,12 +2771,36 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 524351,
+      "num": 524351,
+      "word": "水哥家的生态系统有多惊人",
+      "onboard_time": 1686957439,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522550,
       "num": 332652,
       "word": "原来跷二郎腿还会让脸变大",
       "onboard_time": 1686527790,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 521020,
+      "num": 521020,
+      "word": "陈冠希晒照祝欧阳娜娜生日快乐",
+      "onboard_time": 1686959965,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519476,
+      "num": 171829,
+      "word": "主播为粉丝取快递内藏毒品被判无期",
+      "onboard_time": 1686962964,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519441,
@@ -2793,14 +2825,6 @@
       "onboard_time": 1686541955,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 514702,
-      "num": 477335,
-      "word": "陈冠希晒照祝欧阳娜娜生日快乐",
-      "onboard_time": 1686959965,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 514686,
@@ -2907,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488100,
+      "num": 522286,
+      "word": "文旅部回应演唱会门票实名制",
+      "onboard_time": 1686960626,
+      "rank": 9,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 487724,
       "num": 487724,
       "word": "中学回应疑地铁女子高中同学发声",
@@ -2923,14 +2955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 481490,
-      "num": 481490,
-      "word": "水哥家的生态系统有多惊人",
-      "onboard_time": 1686957439,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 481358,
       "num": 481358,
       "word": "过了下班时间窗口工作人员还在办理业务",
@@ -2945,22 +2969,6 @@
       "onboard_time": 1686813806,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478593,
-      "num": 167688,
-      "word": "主播为粉丝取快递内藏毒品被判无期",
-      "onboard_time": 1686962964,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477629,
-      "num": 477629,
-      "word": "文旅部回应演唱会门票实名制",
-      "onboard_time": 1686960626,
-      "rank": 9,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 476763,
@@ -3089,6 +3097,14 @@
       "onboard_time": 1686832045,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448484,
+      "num": 169999,
+      "word": "当妈妈以为孩子会随自己的小体型时",
+      "onboard_time": 1686961465,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 443485,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1686752011,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417093,
-      "num": 167682,
-      "word": "当妈妈以为孩子会随自己的小体型时",
-      "onboard_time": 1686961465,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 415292,
@@ -4283,14 +4291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315463,
-      "num": 315463,
-      "word": "月薪几万运营总监只会管鸡毛蒜皮",
-      "onboard_time": 1686964107,
-      "rank": 19,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 315455,
       "num": 315455,
       "word": "英雄联盟排队",
@@ -4337,6 +4337,14 @@
       "onboard_time": 1686843269,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 313604,
+      "num": 302549,
+      "word": "佟晓梅不幸感染肺炎",
+      "onboard_time": 1686959603,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 312786,
@@ -4457,14 +4465,6 @@
       "onboard_time": 1686544298,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 302549,
-      "num": 302549,
-      "word": "佟晓梅不幸感染肺炎",
-      "onboard_time": 1686959603,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 302362,
@@ -4611,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291824,
+      "num": 285298,
+      "word": "TFBOYS是巡演吗",
+      "onboard_time": 1686965486,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291325,
       "num": 291325,
       "word": "污蔑偷拍事件背后需正视女性安全感缺乏问题",
@@ -4649,6 +4657,14 @@
       "onboard_time": 1686808468,
       "rank": 30,
       "category": "自然,幽默"
+    },
+    {
+      "raw_hot": 289400,
+      "num": 289400,
+      "word": "四六级",
+      "onboard_time": 1686959242,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 289169,
@@ -4713,14 +4729,6 @@
       "onboard_time": 1686880349,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284758,
-      "num": 284758,
-      "word": "四六级",
-      "onboard_time": 1686959242,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 284754,
@@ -7059,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208627,
+      "num": 169158,
+      "word": "超载25倍沥青货车侧翻母子被埋身亡",
+      "onboard_time": 1686966627,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207320,
       "num": 207320,
       "word": "两只旅俄大熊猫体重和人气齐升",
@@ -7219,6 +7235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203695,
+      "num": 167782,
+      "word": "肖战蔡徐坤赵露思微博开屏",
+      "onboard_time": 1686966028,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203595,
       "num": 189190,
       "word": "喜欢你4八个人成了两对半",
@@ -7273,6 +7297,14 @@
       "onboard_time": 1686892293,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202889,
+      "num": 166441,
+      "word": "日警察喊求助外籍女子回中国去",
+      "onboard_time": 1686966627,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202779,
@@ -7753,6 +7785,14 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194086,
+      "num": 164611,
+      "word": "男子健身房内去世前向私教求救",
+      "onboard_time": 1686966627,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194064,
@@ -8563,6 +8603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181846,
+      "num": 181846,
+      "word": "安踏 欧文",
+      "onboard_time": 1686961403,
+      "rank": 26,
+      "category": "财经,体育"
+    },
+    {
       "raw_hot": 181386,
       "num": 181386,
       "word": "泽尻英龙华",
@@ -8673,14 +8721,6 @@
       "onboard_time": 1686885994,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179424,
-      "num": 179424,
-      "word": "安踏 欧文",
-      "onboard_time": 1686961403,
-      "rank": 26,
-      "category": "财经,体育"
     },
     {
       "raw_hot": 179081,
@@ -8800,6 +8840,14 @@
       "word": "这些懒东西是来报恩的吧",
       "onboard_time": 1686722910,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176036,
+      "num": 176036,
+      "word": "手机屏保是你生活的意义吗",
+      "onboard_time": 1686966268,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -9635,14 +9683,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 157175,
-      "num": 157175,
-      "word": "TFBOYS是巡演吗",
-      "onboard_time": 1686965486,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 157048,
       "num": 157048,
       "word": "对篮球的热爱是不分场地的",
@@ -10393,6 +10433,14 @@
       "onboard_time": 1686834805,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142704,
+      "num": 142704,
+      "word": "吴昕看起来好乖啊",
+      "onboard_time": 1686966028,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142702,
@@ -11499,6 +11547,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 119955,
+      "num": 159427,
+      "word": "我国荒漠化防治成绩单来了",
+      "onboard_time": 1686965846,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 119939,
       "num": 119939,
       "word": "TES战胜WBG",
@@ -11577,6 +11633,14 @@
       "onboard_time": 1686553168,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119237,
+      "num": 119237,
+      "word": "今年的夏天有多热",
+      "onboard_time": 1686966446,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 119141,
@@ -11713,6 +11777,14 @@
       "onboard_time": 1686810925,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115374,
+      "num": 167944,
+      "word": "林场60余年把沙漠治理成绿洲",
+      "onboard_time": 1686966387,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115340,
@@ -12161,6 +12233,14 @@
       "onboard_time": 1686586768,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 101304,
+      "num": 101304,
+      "word": "莫兰特发布长文道歉",
+      "onboard_time": 1686966147,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 101252,
