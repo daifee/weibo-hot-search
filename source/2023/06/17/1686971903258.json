@@ -1,0 +1,410 @@
+{
+  "runTime": 1686971903258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3210137,
+        "num": 3210137,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1022411,
+        "num": 1022411,
+        "word": "同事付费坐我老公的车上下班",
+        "onboard_time": 1686962304,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6264,
+        "num": 967840,
+        "word": "硬核科技铺就万桥飞架新坦途",
+        "onboard_time": 1686919467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964004,
+        "num": 964004,
+        "word": "迪丽热巴照片有热带鱼表情",
+        "onboard_time": 1686968607,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913290,
+        "num": 913290,
+        "word": "舅舅私自处置孤女百万遗产被判赔130万",
+        "onboard_time": 1686962304,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881148,
+        "num": 881148,
+        "word": "男子健身房内去世前向私教求救",
+        "onboard_time": 1686966627,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878881,
+        "num": 878881,
+        "word": "林志玲泳装",
+        "onboard_time": 1686968548,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 703974,
+        "num": 703974,
+        "word": "四六级",
+        "onboard_time": 1686959242,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 577302,
+        "num": 577302,
+        "word": "床垫上的保护膜到底用不用撕",
+        "onboard_time": 1686959002,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 564800,
+        "num": 564800,
+        "word": "月薪几万运营总监只会管鸡毛蒜皮",
+        "onboard_time": 1686964107,
+        "rank": 9,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1144773,
+        "num": 563298,
+        "word": "杨洋 新郎",
+        "onboard_time": 1686963385,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 771118,
+        "num": 557030,
+        "word": "马云在东京教书",
+        "onboard_time": 1686963506,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 565962,
+        "num": 556316,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541318,
+        "num": 541318,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498954,
+        "num": 498954,
+        "word": "TFBOYS是巡演吗",
+        "onboard_time": 1686965486,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 465912,
+        "num": 465912,
+        "word": "陈冠希晒照祝欧阳娜娜生日快乐",
+        "onboard_time": 1686959965,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413121,
+        "num": 413121,
+        "word": "王宝强八角笼中首波口碑",
+        "onboard_time": 1686957319,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380050,
+        "num": 380050,
+        "word": "张雪峰新闻学之争你支持谁",
+        "onboard_time": 1686970705,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368163,
+        "num": 368163,
+        "word": "主播为粉丝取快递内藏毒品被判无期",
+        "onboard_time": 1686962964,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358621,
+        "num": 358621,
+        "word": "当妈妈以为孩子会随自己的小体型时",
+        "onboard_time": 1686961465,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 352816,
+        "num": 352816,
+        "word": "水哥家的生态系统有多惊人",
+        "onboard_time": 1686957439,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349436,
+        "num": 349436,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282028,
+        "num": 282028,
+        "word": "六公主连播易烊千玺主演电影",
+        "onboard_time": 1686970347,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279378,
+        "num": 279378,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240857,
+        "num": 240857,
+        "word": "超载25倍沥青货车侧翻母子被埋身亡",
+        "onboard_time": 1686966627,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241562,
+        "num": 238010,
+        "word": "秋瓷炫 我不是不要脸",
+        "onboard_time": 1686922169,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234638,
+        "num": 234638,
+        "word": "谢娜李维嘉吴昕录制新综艺",
+        "onboard_time": 1686928411,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230805,
+        "num": 230805,
+        "word": "姜思达卖女装",
+        "onboard_time": 1686969688,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224988,
+        "num": 224988,
+        "word": "我的大腿和男朋友的大腿",
+        "onboard_time": 1686959062,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82519,
+        "num": 222595,
+        "word": "云南人的粽子里装着彩虹",
+        "onboard_time": 1686969806,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 491416,
+        "num": 222574,
+        "word": "肖战李沁再回那片海",
+        "onboard_time": 1686971548,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222411,
+        "num": 222411,
+        "word": "张小强教授称新闻专业能文能武",
+        "onboard_time": 1686971429,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 215311,
+        "num": 215311,
+        "word": "陈乔恩被青蛙求婚",
+        "onboard_time": 1686927389,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214259,
+        "num": 214259,
+        "word": "男朋友今天早上提醒我化妆",
+        "onboard_time": 1686971727,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209603,
+        "num": 209603,
+        "word": "四级作文",
+        "onboard_time": 1686971487,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192543,
+        "num": 192543,
+        "word": "斗罗大陆2",
+        "onboard_time": 1686968967,
+        "rank": 35,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 188979,
+        "num": 188979,
+        "word": "你见过最完美的户型",
+        "onboard_time": 1686927329,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177967,
+        "num": 177967,
+        "word": "肖战蔡徐坤赵露思微博开屏",
+        "onboard_time": 1686966028,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176803,
+        "num": 176803,
+        "word": "四个月大的萌兰",
+        "onboard_time": 1686968305,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169598,
+        "num": 169598,
+        "word": "江苏一高校送毕业生2米大蛋糕",
+        "onboard_time": 1686971008,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168856,
+        "num": 168856,
+        "word": "140元一根演唱会荧光棒成本仅10元",
+        "onboard_time": 1686967167,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166261,
+        "num": 166261,
+        "word": "吴昕看起来好乖啊",
+        "onboard_time": 1686966028,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163612,
+        "num": 163612,
+        "word": "男子受托帮接小孩未接上致孩子溺亡",
+        "onboard_time": 1686971607,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153983,
+        "num": 153983,
+        "word": "21岁的肖春生VS43岁的肖春生",
+        "onboard_time": 1686969147,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150746,
+        "num": 150746,
+        "word": "我那显眼包谢娜",
+        "onboard_time": 1686970948,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161244,
+        "num": 150704,
+        "word": "贾静雯不知道黄晓明的明句梗",
+        "onboard_time": 1686962304,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150103,
+        "num": 150103,
+        "word": "我的猫把孩子生到洗衣机了",
+        "onboard_time": 1686959062,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148167,
+        "num": 148167,
+        "word": "TFBOYS团粉喝什么",
+        "onboard_time": 1686967947,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 145874,
+        "word": "男子怀抱婴儿遇查车被按倒在地",
+        "onboard_time": 1686970486,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142526,
+        "num": 142526,
+        "word": "上海中考",
+        "onboard_time": 1686971669,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    }
+  }
+}

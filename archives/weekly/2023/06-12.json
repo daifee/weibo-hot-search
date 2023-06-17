@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686969975505,
+  "endTime": 1686971903258,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -105,6 +105,14 @@
       "onboard_time": 1686657027,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3210137,
+      "num": 3210137,
+      "word": "张雪峰 我离被人搞不远了",
+      "onboard_time": 1686968367,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 3205943,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 1663832,
-      "num": 521926,
+      "num": 563298,
       "word": "杨洋 新郎",
       "onboard_time": 1686963385,
       "rank": 10,
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 1270148,
-      "num": 478099,
+      "num": 556316,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 12,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1686531870,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1236392,
-      "num": 480429,
-      "word": "张雪峰 我离被人搞不远了",
-      "onboard_time": 1686968367,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 1233395,
@@ -1659,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964004,
+      "num": 964004,
+      "word": "迪丽热巴照片有热带鱼表情",
+      "onboard_time": 1686968607,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 960904,
       "num": 960904,
       "word": "赵露思 两次宝格丽造型",
@@ -1700,7 +1708,7 @@
     },
     {
       "raw_hot": 929461,
-      "num": 521519,
+      "num": 557030,
       "word": "马云在东京教书",
       "onboard_time": 1686963506,
       "rank": 11,
@@ -1819,6 +1827,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 881148,
+      "num": 881148,
+      "word": "男子健身房内去世前向私教求救",
+      "onboard_time": 1686966627,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880234,
       "num": 880234,
       "word": "爸爸带女儿跑步200余天孩子变化明显",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1686620487,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 878881,
+      "num": 878881,
+      "word": "林志玲泳装",
+      "onboard_time": 1686968548,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 878545,
@@ -1945,14 +1969,6 @@
       "onboard_time": 1686733049,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 830971,
-      "num": 803592,
-      "word": "男子健身房内去世前向私教求救",
-      "onboard_time": 1686966627,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830576,
@@ -2305,6 +2321,14 @@
       "onboard_time": 1686698603,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 703974,
+      "num": 703974,
+      "word": "四六级",
+      "onboard_time": 1686959242,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 703890,
@@ -2747,14 +2771,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 548612,
-      "num": 478241,
-      "word": "林志玲泳装",
-      "onboard_time": 1686968548,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 547815,
       "num": 547815,
       "word": "EDG对战iG",
@@ -2907,20 +2923,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 498954,
+      "num": 498954,
+      "word": "TFBOYS是巡演吗",
+      "onboard_time": 1686965486,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 498848,
       "num": 498848,
       "word": "奔跑吧泰国站最惊艳的人",
       "onboard_time": 1686618151,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 497659,
-      "num": 497659,
-      "word": "迪丽热巴照片有热带鱼表情",
-      "onboard_time": 1686968607,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 496069,
@@ -2937,6 +2953,14 @@
       "onboard_time": 1686540630,
       "rank": 48,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 491416,
+      "num": 222574,
+      "word": "肖战李沁再回那片海",
+      "onboard_time": 1686971548,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 490606,
@@ -3033,14 +3057,6 @@
       "onboard_time": 1686744868,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 466740,
-      "num": 466740,
-      "word": "TFBOYS是巡演吗",
-      "onboard_time": 1686965486,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 466613,
@@ -3265,14 +3281,6 @@
       "onboard_time": 1686802529,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419613,
-      "num": 419613,
-      "word": "四六级",
-      "onboard_time": 1686959242,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 417793,
@@ -3561,6 +3569,14 @@
       "onboard_time": 1686959062,
       "rank": 14,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 380050,
+      "num": 380050,
+      "word": "张雪峰新闻学之争你支持谁",
+      "onboard_time": 1686970705,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379982,
@@ -4816,6 +4832,14 @@
       "word": "台偶收视率前二十",
       "onboard_time": 1686639446,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282028,
+      "num": 282028,
+      "word": "六公主连播易烊千玺主演电影",
+      "onboard_time": 1686970347,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -6179,6 +6203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230805,
+      "num": 230805,
+      "word": "姜思达卖女装",
+      "onboard_time": 1686969688,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230766,
       "num": 230766,
       "word": "梦之海阵容官宣",
@@ -6531,6 +6563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222411,
+      "num": 222411,
+      "word": "张小强教授称新闻专业能文能武",
+      "onboard_time": 1686971429,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 221951,
       "num": 221951,
       "word": "女儿突遭恶犬袭击男子抬臂拼力抵挡",
@@ -6867,6 +6907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214259,
+      "num": 214259,
+      "word": "男朋友今天早上提醒我化妆",
+      "onboard_time": 1686971727,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 214199,
       "num": 490380,
       "word": "聋哑父母就医6岁女儿成翻译",
@@ -7049,6 +7097,14 @@
       "onboard_time": 1686737068,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209603,
+      "num": 209603,
+      "word": "四级作文",
+      "onboard_time": 1686971487,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 209585,
@@ -7969,6 +8025,14 @@
       "onboard_time": 1686533727,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192543,
+      "num": 192543,
+      "word": "斗罗大陆2",
+      "onboard_time": 1686968967,
+      "rank": 46,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 192106,
@@ -8963,14 +9027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175393,
-      "num": 175393,
-      "word": "斗罗大陆2",
-      "onboard_time": 1686968967,
-      "rank": 46,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 175234,
       "num": 175234,
       "word": "五条悟",
@@ -9211,6 +9267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169598,
+      "num": 169598,
+      "word": "江苏一高校送毕业生2米大蛋糕",
+      "onboard_time": 1686971008,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169571,
       "num": 169571,
       "word": "第四届TMEA首波阵容官宣",
@@ -9355,6 +9419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166261,
+      "num": 166261,
+      "word": "吴昕看起来好乖啊",
+      "onboard_time": 1686966028,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166240,
       "num": 166240,
       "word": "宋亚轩刘耀文打羽毛球",
@@ -9481,6 +9553,14 @@
       "onboard_time": 1686533068,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163612,
+      "num": 163612,
+      "word": "男子受托帮接小孩未接上致孩子溺亡",
+      "onboard_time": 1686971607,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162908,
@@ -9649,14 +9729,6 @@
       "onboard_time": 1686822929,
       "rank": 44,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 159864,
-      "num": 159864,
-      "word": "吴昕看起来好乖啊",
-      "onboard_time": 1686966028,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 159691,
@@ -9939,14 +10011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153497,
-      "num": 153497,
-      "word": "姜思达卖女装",
-      "onboard_time": 1686969688,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153467,
       "num": 153467,
       "word": "电影消失的她",
@@ -10097,6 +10161,14 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150746,
+      "num": 150746,
+      "word": "我那显眼包谢娜",
+      "onboard_time": 1686970948,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 150407,
@@ -10395,6 +10467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145874,
+      "num": 145874,
+      "word": "男子怀抱婴儿遇查车被按倒在地",
+      "onboard_time": 1686970486,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145696,
       "num": 145696,
       "word": "10后女孩吵架开始拼妹",
@@ -10532,7 +10612,7 @@
     },
     {
       "raw_hot": 142879,
-      "num": 181192,
+      "num": 222595,
       "word": "云南人的粽子里装着彩虹",
       "onboard_time": 1686969806,
       "rank": 34,
@@ -10561,6 +10641,14 @@
       "onboard_time": 1686537509,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142526,
+      "num": 142526,
+      "word": "上海中考",
+      "onboard_time": 1686971669,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 142499,
