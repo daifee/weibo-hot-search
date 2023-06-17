@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687036444748,
+  "endTime": 1687037609117,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43765,
+      "num": 41682,
+      "word": "张小斐嘴上说不热身体却很诚实",
+      "onboard_time": 1687030034,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40811,
       "num": 40811,
       "word": "周柏豪佛山演唱会",
@@ -451,20 +459,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39213,
-      "num": 39213,
-      "word": "张小斐嘴上说不热身体却很诚实",
-      "onboard_time": 1687030034,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30385,
       "num": 40779,
       "word": "成源",
       "onboard_time": 1687026555,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22774,
+      "num": 30019,
+      "word": "肖战的肌肉隔着衣服都能看到",
+      "onboard_time": 1687036512,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 18819,
