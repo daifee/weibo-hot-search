@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687023236543,
+  "endTime": 1687025976276,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -15288,6 +15288,14 @@
       "word": "陈坤记忆中的二荆条炒肉",
       "onboard_time": 1686664831,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46857,
+      "num": 46857,
+      "word": "zb1",
+      "onboard_time": 1687025896,
+      "rank": 44,
       "category": "艺人"
     },
     {

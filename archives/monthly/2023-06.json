@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687023236543,
+  "endTime": 1687025976276,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -39721,6 +39721,14 @@
       "onboard_time": 1686352477,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46857,
+      "num": 46857,
+      "word": "zb1",
+      "onboard_time": 1687025896,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 46845,
