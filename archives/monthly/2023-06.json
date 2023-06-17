@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687026827365,
+  "endTime": 1687029191670,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -38203,6 +38203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81693,
+      "num": 79908,
+      "word": "zb1",
+      "onboard_time": 1687025896,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81440,
       "num": 354654,
       "word": "57岁北漂阿姨白天当保洁晚上做画家",
@@ -38785,14 +38793,6 @@
       "onboard_time": 1686763457,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68329,
-      "num": 68329,
-      "word": "zb1",
-      "onboard_time": 1687025896,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 68216,
@@ -40611,6 +40611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18819,
+      "num": 284035,
+      "word": "哪个瞬间你发现爸爸不再年轻",
+      "onboard_time": 1687015292,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18803,
       "num": 33918,
       "word": "光与夜之恋周年庆",
@@ -40656,14 +40664,6 @@
       "word": "86岁和74岁的他们合力救起落水老太",
       "onboard_time": 1686886232,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13941,
-      "num": 284035,
-      "word": "哪个瞬间你发现爸爸不再年轻",
-      "onboard_time": 1687015292,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
