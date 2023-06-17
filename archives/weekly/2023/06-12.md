@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/18 00:35:55
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/18 01:13:58
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ Rain 街舞6（热度：1075379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
+榜一大哥是我爸（热度：932415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6%23" target="weibo">
 马云在东京教书（热度：929461）
 </a>
@@ -1679,12 +1685,6 @@ S属性大爆发（热度：839997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%8A%E6%97%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%AB%8B%E5%88%BB%E5%8F%A0%E8%A2%AB%E5%AD%90%23" target="weibo">
 起床时千万不要立刻叠被子（热度：836068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
-榜一大哥是我爸（热度：835189）
 </a>
 </li>
 
@@ -8049,6 +8049,12 @@ NCT dream（热度：173491）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23" target="weibo">
+西工大一班级全员34人参与重大科研（热度：170847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E5%BF%83%E4%B9%A1%E6%9D%91%E9%A3%9F%E5%A0%8260%E5%B2%81%E8%80%81%E4%BA%BA1%E5%85%83%E5%B0%B1%E9%A4%90%23" target="weibo">
 暖心乡村食堂60岁老人1元就餐（热度：170806）
 </a>
@@ -9875,12 +9881,6 @@ MTG对战XYG（热度：133593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E5%BF%83%E9%A9%BE%E9%A9%B6%E8%87%B45%E6%AD%BB%E6%A1%88%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%B0%94%E5%9B%8A%E5%85%A8%E6%9C%AA%E5%BC%B9%23" target="weibo">
 分心驾驶致5死案家属质疑气囊全未弹（热度：131811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23" target="weibo">
-西工大一班级全员34人参与重大科研（热度：131495）
 </a>
 </li>
 

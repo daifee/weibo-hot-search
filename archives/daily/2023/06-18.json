@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687019755415,
+  "endTime": 1687022038492,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932415,
+      "num": 932415,
+      "word": "榜一大哥是我爸",
+      "onboard_time": 1687013073,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 857119,
       "num": 857119,
       "word": "jkl",
       "onboard_time": 1687015532,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 835189,
-      "num": 835189,
-      "word": "榜一大哥是我爸",
-      "onboard_time": 1687013073,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 784996,
@@ -83,8 +83,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 487561,
-      "num": 487561,
+      "raw_hot": 523534,
+      "num": 523534,
       "word": "一颗老鼠头为何要省级调查组才能查清",
       "onboard_time": 1686983369,
       "rank": 8,
@@ -283,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170847,
+      "num": 170847,
+      "word": "西工大一班级全员34人参与重大科研",
+      "onboard_time": 1687018469,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 166340,
       "num": 166340,
       "word": "中国文化在外国街头杀疯了",
@@ -355,14 +363,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 131495,
-      "num": 131495,
-      "word": "西工大一班级全员34人参与重大科研",
-      "onboard_time": 1687018469,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 126236,
       "num": 126236,
       "word": "憋屈了13年的猫猫终于翻身了",
@@ -371,8 +371,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112977,
-      "num": 112977,
+      "raw_hot": 118151,
+      "num": 118151,
       "word": "TES 从业者也需要提升专业能力",
       "onboard_time": 1687011993,
       "rank": 47,
@@ -387,12 +387,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91145,
+      "num": 91145,
+      "word": "陈绮贞音乐节",
+      "onboard_time": 1687011452,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89734,
       "num": 112975,
       "word": "LNG战胜EDG",
       "onboard_time": 1687007132,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76953,
+      "num": 87330,
+      "word": "长风渡定档",
+      "onboard_time": 1686987809,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 76702,
+      "num": 87182,
+      "word": "谢娜说男生都会喜欢朱珠",
+      "onboard_time": 1687008811,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 50757,

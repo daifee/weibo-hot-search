@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 00:35:55
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 01:13:58
 </p>
 </blockquote>
 <p>
@@ -4179,6 +4179,12 @@ EDG海报空个位置（热度：945915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
+榜一大哥是我爸（热度：932415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%80%B3%E5%B1%8E%E7%AB%9F%E7%84%B6%E4%BC%9A%E8%B6%8A%E6%8E%8F%E8%B6%8A%E5%A4%9A%23" target="weibo">
 没想到耳屎竟然会越掏越多（热度：932367）
 </a>
@@ -4721,12 +4727,6 @@ SMTOWN曾用EXO威胁边伯贤（热度：837729）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%9C%A8%E8%B0%88%E5%90%97%23" target="weibo">
 陈伟霆章若楠真的没在谈吗（热度：835405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
-榜一大哥是我爸（热度：835189）
 </a>
 </li>
 
