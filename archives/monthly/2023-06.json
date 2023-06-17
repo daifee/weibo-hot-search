@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686976421954,
+  "endTime": 1686978949709,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -64,6 +64,14 @@
       "word": "董某某被停职",
       "onboard_time": 1686194372,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9587177,
+      "num": 10837177,
+      "word": "联合调查组认定饭菜中异物是鼠头",
+      "onboard_time": 1686976651,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1686277226,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3416735,
+      "num": 3416735,
+      "word": "顶格处罚鼠头鸭脖涉事企业",
+      "onboard_time": 1686977132,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 3409292,
@@ -2068,7 +2084,7 @@
     },
     {
       "raw_hot": 1663832,
-      "num": 643336,
+      "num": 676348,
       "word": "杨洋 新郎",
       "onboard_time": 1686963385,
       "rank": 10,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1686611720,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1517777,
+      "num": 1517777,
+      "word": "鼠头异物被涉事食堂事发当日丢弃",
+      "onboard_time": 1686977313,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1517203,
@@ -3073,6 +3097,14 @@
       "onboard_time": 1686526884,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1336936,
+      "num": 1336936,
+      "word": "陈宏军居然出轨了",
+      "onboard_time": 1686975330,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1336841,
@@ -7083,6 +7115,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 715888,
+      "num": 715888,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 715148,
       "num": 715148,
       "word": "TFBOYS演唱会流程图",
@@ -7593,14 +7633,6 @@
       "onboard_time": 1685597668,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659904,
-      "num": 659904,
-      "word": "陈宏军居然出轨了",
-      "onboard_time": 1686975330,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 659490,
@@ -8923,6 +8955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 531781,
+      "num": 531781,
+      "word": "江西高校饭菜中异物不是鸭脖",
+      "onboard_time": 1686977313,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531758,
       "num": 531758,
       "word": "虞书欣 杨天真",
@@ -8985,6 +9025,14 @@
       "onboard_time": 1686957439,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524323,
+      "num": 524323,
+      "word": "为何鼠头曾被认定为鸭脖",
+      "onboard_time": 1686977674,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523126,
@@ -9873,6 +9921,14 @@
       "onboard_time": 1685674226,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467909,
+      "num": 426688,
+      "word": "已婚同事非要把她哥介绍给我",
+      "onboard_time": 1686974852,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 467365,
@@ -11049,6 +11105,14 @@
       "onboard_time": 1686636387,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405800,
+      "num": 405800,
+      "word": "原著里的桑延vs剧版里的桑延",
+      "onboard_time": 1686975869,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 405669,
@@ -13467,6 +13531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330083,
+      "num": 330083,
+      "word": "星穹铁道被黑了",
+      "onboard_time": 1686977796,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330080,
       "num": 330080,
       "word": "浙江多所小学美术本印有涉黄二维码",
@@ -14339,6 +14411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310990,
+      "num": 310990,
+      "word": "四级难了 六级就不许了哦",
+      "onboard_time": 1686976891,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 310174,
       "num": 310174,
       "word": "武汉商学院",
@@ -14729,6 +14809,14 @@
       "onboard_time": 1685692107,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 302794,
+      "num": 302794,
+      "word": "买洞洞鞋后这辈子就定型了",
+      "onboard_time": 1686978874,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 302676,
@@ -15241,6 +15329,14 @@
       "onboard_time": 1685683951,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292592,
+      "num": 292592,
+      "word": "江西通报高校鸭脖事件处理情况",
+      "onboard_time": 1686977855,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292429,
@@ -16419,6 +16515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273340,
+      "num": 273340,
+      "word": "浪姐四公用了R1SE的青鸟",
+      "onboard_time": 1686976469,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273306,
       "num": 273306,
       "word": "30岁也不过是12岁的大人",
@@ -16787,6 +16891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268804,
+      "num": 268804,
+      "word": "江西已吊销涉事食堂许可证",
+      "onboard_time": 1686977555,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268734,
       "num": 268734,
       "word": "伊布宣布退役",
@@ -16841,6 +16953,14 @@
       "onboard_time": 1686910829,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267746,
+      "num": 267746,
+      "word": "凌晨两点男同学和室友表白",
+      "onboard_time": 1686978398,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 267662,
@@ -18283,14 +18403,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 250404,
-      "num": 250404,
-      "word": "备孕前千万记得拔智齿",
-      "onboard_time": 1686975450,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 250157,
       "num": 250157,
       "word": "金榜题名",
@@ -19595,6 +19707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 235638,
+      "num": 235638,
+      "word": "六级预测",
+      "onboard_time": 1686978759,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 235624,
       "num": 201561,
       "word": "摊爸谢可寅AnsrJ 流浪地球",
@@ -19641,14 +19761,6 @@
       "onboard_time": 1685763869,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234645,
-      "num": 234645,
-      "word": "原著里的桑延vs剧版里的桑延",
-      "onboard_time": 1686975869,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 234602,
@@ -20649,6 +20761,14 @@
       "onboard_time": 1686291449,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225779,
+      "num": 225779,
+      "word": "还以为杨紫关晓彤在吵架",
+      "onboard_time": 1686978874,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 225724,
@@ -21707,6 +21827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216160,
+      "num": 216160,
+      "word": "这才是毕业生最想听到的祝福",
+      "onboard_time": 1686978816,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 216143,
       "num": 216143,
       "word": "王源献唱疯狂元素城主题曲",
@@ -22488,6 +22616,14 @@
       "word": "光与夜之恋直播",
       "onboard_time": 1686054328,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209592,
+      "num": 209592,
+      "word": "银狼",
+      "onboard_time": 1686978635,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -25049,14 +25185,6 @@
       "onboard_time": 1686717576,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191217,
-      "num": 191217,
-      "word": "已婚同事非要把她哥介绍给我",
-      "onboard_time": 1686974852,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 191192,
@@ -38259,6 +38387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37126,
+      "num": 3657010,
+      "word": "奋进中国大江澎湃",
+      "onboard_time": 1686976955,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37091,
       "num": 601897,
       "word": "乌江水位上涨188名高考生乘船赶考",
@@ -38304,6 +38440,14 @@
       "word": "改完收货地址意识到真的毕业了",
       "onboard_time": 1686564029,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36012,
+      "num": 529787,
+      "word": "学生毕业典礼激情说唱我的祖国燃爆全场",
+      "onboard_time": 1686978035,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

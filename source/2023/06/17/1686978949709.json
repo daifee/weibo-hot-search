@@ -1,0 +1,410 @@
+{
+  "runTime": 1686978949709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9587177,
+        "num": 10837177,
+        "word": "联合调查组认定饭菜中异物是鼠头",
+        "onboard_time": 1686976651,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4987297,
+        "num": 4987297,
+        "word": "四级",
+        "onboard_time": 1686973533,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37126,
+        "num": 3657010,
+        "word": "奋进中国大江澎湃",
+        "onboard_time": 1686976955,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3416735,
+        "num": 3416735,
+        "word": "顶格处罚鼠头鸭脖涉事企业",
+        "onboard_time": 1686977132,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1517777,
+        "num": 1517777,
+        "word": "鼠头异物被涉事食堂事发当日丢弃",
+        "onboard_time": 1686977313,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803757,
+        "num": 1467785,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1336936,
+        "num": 1336936,
+        "word": "陈宏军居然出轨了",
+        "onboard_time": 1686975330,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1150791,
+        "num": 1150791,
+        "word": "迪丽热巴照片有热带鱼表情",
+        "onboard_time": 1686968607,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907387,
+        "num": 907387,
+        "word": "男子受托帮接小孩未接上致孩子溺亡",
+        "onboard_time": 1686971607,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780391,
+        "num": 780391,
+        "word": "男子健身房内去世前向私教求救",
+        "onboard_time": 1686966627,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715888,
+        "num": 715888,
+        "word": "备孕前千万记得拔智齿",
+        "onboard_time": 1686975450,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 689125,
+        "num": 689125,
+        "word": "四级答案",
+        "onboard_time": 1686972991,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 676348,
+        "num": 676348,
+        "word": "杨洋 新郎",
+        "onboard_time": 1686963385,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 531781,
+        "num": 531781,
+        "word": "江西高校饭菜中异物不是鸭脖",
+        "onboard_time": 1686977313,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36012,
+        "num": 529787,
+        "word": "学生毕业典礼激情说唱我的祖国燃爆全场",
+        "onboard_time": 1686978035,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529676,
+        "num": 529676,
+        "word": "四级翻译 难",
+        "onboard_time": 1686973351,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 524323,
+        "num": 524323,
+        "word": "为何鼠头曾被认定为鸭脖",
+        "onboard_time": 1686977674,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497032,
+        "num": 497032,
+        "word": "马云在东京教书",
+        "onboard_time": 1686963506,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 441800,
+        "num": 441800,
+        "word": "四级作文",
+        "onboard_time": 1686971487,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 429875,
+        "num": 429875,
+        "word": "同事付费坐我老公的车上下班",
+        "onboard_time": 1686962304,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467909,
+        "num": 426688,
+        "word": "已婚同事非要把她哥介绍给我",
+        "onboard_time": 1686974852,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 421348,
+        "num": 421348,
+        "word": "月薪几万运营总监只会管鸡毛蒜皮",
+        "onboard_time": 1686964107,
+        "rank": 21,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 405800,
+        "num": 405800,
+        "word": "原著里的桑延vs剧版里的桑延",
+        "onboard_time": 1686975869,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391642,
+        "num": 391642,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331385,
+        "num": 331385,
+        "word": "陈冠希晒照祝欧阳娜娜生日快乐",
+        "onboard_time": 1686959965,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330083,
+        "num": 330083,
+        "word": "星穹铁道被黑了",
+        "onboard_time": 1686977796,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313530,
+        "num": 313530,
+        "word": "六级翻译",
+        "onboard_time": 1686972630,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 312335,
+        "num": 312335,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310990,
+        "num": 310990,
+        "word": "四级难了 六级就不许了哦",
+        "onboard_time": 1686976891,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302794,
+        "num": 302794,
+        "word": "买洞洞鞋后这辈子就定型了",
+        "onboard_time": 1686978874,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294063,
+        "num": 294063,
+        "word": "床垫上的保护膜到底用不用撕",
+        "onboard_time": 1686959002,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 292592,
+        "num": 292592,
+        "word": "江西通报高校鸭脖事件处理情况",
+        "onboard_time": 1686977855,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278643,
+        "num": 278643,
+        "word": "王一博真的有听汪涵说的话",
+        "onboard_time": 1686971969,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273340,
+        "num": 273340,
+        "word": "浪姐四公用了R1SE的青鸟",
+        "onboard_time": 1686976469,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268804,
+        "num": 268804,
+        "word": "江西已吊销涉事食堂许可证",
+        "onboard_time": 1686977555,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267746,
+        "num": 267746,
+        "word": "凌晨两点男同学和室友表白",
+        "onboard_time": 1686978398,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266768,
+        "num": 266768,
+        "word": "六公主连播易烊千玺主演电影",
+        "onboard_time": 1686970347,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252526,
+        "num": 252526,
+        "word": "TFBOYS是巡演吗",
+        "onboard_time": 1686965486,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235638,
+        "num": 235638,
+        "word": "六级预测",
+        "onboard_time": 1686978759,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 670749,
+        "num": 234603,
+        "word": "林志玲泳装",
+        "onboard_time": 1686968548,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233462,
+        "num": 233462,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230707,
+        "num": 230707,
+        "word": "水哥家的生态系统有多惊人",
+        "onboard_time": 1686957439,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225779,
+        "num": 225779,
+        "word": "还以为杨紫关晓彤在吵架",
+        "onboard_time": 1686978874,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 224287,
+        "num": 224287,
+        "word": "舅舅私自处置孤女百万遗产被判赔130万",
+        "onboard_time": 1686962304,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218573,
+        "num": 218573,
+        "word": "135名中考生身份证被洪水冲走",
+        "onboard_time": 1686975272,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216160,
+        "num": 216160,
+        "word": "这才是毕业生最想听到的祝福",
+        "onboard_time": 1686978816,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 209696,
+        "num": 209696,
+        "word": "四级阅读",
+        "onboard_time": 1686975152,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209592,
+        "num": 209592,
+        "word": "银狼",
+        "onboard_time": 1686978635,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208712,
+        "num": 208712,
+        "word": "140元一根演唱会荧光棒成本仅10元",
+        "onboard_time": 1686967167,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208429,
+        "num": 208429,
+        "word": "你见过最完美的户型",
+        "onboard_time": 1686927329,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比尔盖茨#"
+    }
+  }
+}
