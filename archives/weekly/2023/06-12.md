@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/18 07:16:50
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/18 07:33:37
 </p>
 </blockquote>
 <p>
@@ -1341,6 +1341,12 @@ Rain 街舞6（热度：1075379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
+父亲节（热度：1034806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23" target="weibo">
 江歌妈妈将赔偿款全额捐出（热度：1031231）
 </a>
@@ -1733,12 +1739,6 @@ Uzi首发（热度：832155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4699%E6%88%91%E9%83%BD%E4%B9%B0%E4%B8%8D%E4%BA%86%E8%A2%9C%E5%AD%90%23" target="weibo">
 张雨绮说699我都买不了袜子（热度：817302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
-父亲节（热度：813659）
 </a>
 </li>
 
@@ -4047,6 +4047,12 @@ ChatGPT做高考试卷和人类有何区别（热度：309209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
+父亲节快乐（热度：300232）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%BF%83%E5%81%9A%E5%88%B0%E4%BA%86%E6%9C%89%E5%A7%8B%E6%9C%89%E7%BB%88%23" target="weibo">
 护心做到了有始有终（热度：298145）
 </a>
@@ -4715,6 +4721,12 @@ Angelababy欧阳娜娜金靖上海夜骑（热度：265233）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%8B%AC%E8%85%BF%E5%8F%B8%E6%9C%BA%E8%B7%91%E8%B4%A7%E8%BF%90%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%23" target="weibo">
 90后独腿司机跑货运月入过万（热度：260391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8E%BB%E8%94%A1PD%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23" target="weibo">
+虞书欣去蔡PD演唱会了（热度：260127）
 </a>
 </li>
 
@@ -6461,6 +6473,12 @@ VG让二追三（热度：205623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E9%9E%8B%E4%B8%8D%E5%90%88%E8%84%9A%23" target="weibo">
 肖春生鞋不合脚（热度：204690）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23" target="weibo">
+蔡徐坤虞书欣甘比母女合影（热度：204622）
 </a>
 </li>
 
@@ -8349,6 +8367,12 @@ voba（热度：166265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23" target="weibo">
+感谢鲁U3G833（热度：164493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E9%9D%99%E9%9D%99%E7%9C%8B%E8%B4%BA%E7%BA%A2%E7%8E%B2%E8%A1%A8%E6%BC%94%23" target="weibo">
 肖春生静静看贺红玲表演（热度：164320）
 </a>
@@ -9147,6 +9171,12 @@ XYG（热度：146954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82vs%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
+母亲节vs父亲节（热度：146726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87%E4%B9%9D%E5%B9%B4%23" target="weibo">
 喜欢一个人已经超过九年（热度：146626）
 </a>
@@ -9875,6 +9905,12 @@ MTG对战XYG（热度：133593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%B8%AD%E4%BC%A0%E6%9C%9F%E6%9C%AB%E6%B1%87%E6%BC%94%23" target="weibo">
 贺峻霖中传期末汇演（热度：132064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%81%B7%E6%8B%BF%E9%9B%B6%E9%A3%9F%E6%8A%95%E5%96%82%E4%B8%81%E7%A8%8B%E9%91%AB%23" target="weibo">
+王鹤棣偷拿零食投喂丁程鑫（热度：132027）
 </a>
 </li>
 
@@ -10779,6 +10815,12 @@ light（热度：104927）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%BC%E6%A1%8C%E5%90%83%E9%A5%AD%23" target="weibo">
+不要轻易和陌生人拼桌吃饭（热度：101932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%80%9D%E6%88%90%E5%8E%BB%E7%9C%8B%E4%BA%86%E6%A2%85%E8%A5%BF%E6%AF%94%E8%B5%9B%23" target="weibo">
 董思成去看了梅西比赛（热度：101649）
 </a>
@@ -10965,6 +11007,12 @@ lun8（热度：92708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B7%E5%85%81%E8%AE%B8%E6%88%91%E6%8A%8A%E6%9C%80%E5%90%8E%E5%BF%83%E8%B7%B3%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
+妈妈请允许我把最后心跳献给祖国人民（热度：92531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%20%E5%86%8D%E7%83%AD%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23" target="weibo">
 程潇 再热就不礼貌了（热度：91982）
 </a>
@@ -11037,12 +11085,6 @@ lun8（热度：92708）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82vs%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
-母亲节vs父亲节（热度：85997）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%B7%B3%E6%B2%B3%E6%95%91%E8%B5%B7%E8%80%81%E4%BA%BA%E5%8F%88%E7%BB%A7%E7%BB%AD%E9%80%81%E5%8D%95%23" target="weibo">
 外卖小哥跳河救起老人又继续送单（热度：85678）
 </a>
@@ -11063,6 +11105,12 @@ lun8（热度：92708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A6%8719%E5%B9%B4%E4%B8%8D%E7%A6%BB%E4%B8%8D%E5%BC%83%E5%94%A4%E9%86%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB%23" target="weibo">
 农妇19年不离不弃唤醒植物人丈夫（热度：84691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23" target="weibo">
+孙悟空是更适合中国宝宝的超级英雄（热度：84578）
 </a>
 </li>
 
@@ -11127,6 +11175,12 @@ zb1（热度：81693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E8%82%8C%E8%82%89%E9%9A%94%E7%9D%80%E8%A1%A3%E6%9C%8D%E9%83%BD%E8%83%BD%E7%9C%8B%E5%88%B0%23" target="weibo">
+肖战的肌肉隔着衣服都能看到（热度：78429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%86%E9%92%9F%E5%AE%8C%E6%88%90%E8%BA%AB%E4%BD%93%E5%BE%AE%E4%BD%93%E6%A3%80%E7%9A%84%E5%A5%BD%E5%8A%9E%E6%B3%95%23" target="weibo">
 一分钟完成身体微体检的好办法（热度：77539）
 </a>
@@ -11141,12 +11195,6 @@ zb1（热度：81693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E5%BA%9F%E5%A2%9F%E4%B8%AD%E5%AF%BB%E5%9B%9E%E8%80%81%E4%BA%BA%E5%AD%98%E6%AC%BE%23" target="weibo">
 消防员火场废墟中寻回老人存款（热度：76345）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23" target="weibo">
-感谢鲁U3G833（热度：76264）
 </a>
 </li>
 
@@ -11181,14 +11229,14 @@ zb1（热度：81693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E8%82%8C%E8%82%89%E9%9A%94%E7%9D%80%E8%A1%A3%E6%9C%8D%E9%83%BD%E8%83%BD%E7%9C%8B%E5%88%B0%23" target="weibo">
-肖战的肌肉隔着衣服都能看到（热度：72546）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%99%88%E9%83%BD%E7%81%B5%E5%AD%99%E5%8D%83%E5%88%98%E4%BB%A4%E5%A7%BF%E5%86%B7%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
+孙怡陈都灵孙千刘令姿冷感大片（热度：72318）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%99%88%E9%83%BD%E7%81%B5%E5%AD%99%E5%8D%83%E5%88%98%E4%BB%A4%E5%A7%BF%E5%86%B7%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
-孙怡陈都灵孙千刘令姿冷感大片（热度：72318）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E6%95%91%E4%BA%BA%E5%90%8E%E6%8A%B1%E5%87%BA%E5%90%93%E5%82%BB%E7%8B%97%E5%AD%90%23" target="weibo">
+消防员火场救人后抱出吓傻狗子（热度：71707）
 </a>
 </li>
 
@@ -11343,6 +11391,18 @@ Lisa老师没收游戏机（热度：66294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%BC%80%E5%90%AF%E9%9B%A8%E5%88%B7%E5%99%A8%E6%A8%A1%E5%BC%8F%23" target="weibo">
+毕业典礼开启雨刷器模式（热度：62648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E5%88%9B%E6%96%B0%E9%A2%98%23" target="weibo">
+天津中考数学创新题（热度：62214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B%E5%A4%9C%E5%B8%82%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23" target="weibo">
 秦皇岛夜市有多好吃（热度：62135）
 </a>
@@ -11351,12 +11411,6 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%85%AC%E7%9B%8A%E5%B0%8F%E5%BA%97%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%92%AD%E5%87%BA%23" target="weibo">
 全国首个公益小店微电影播出（热度：62042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E5%88%9B%E6%96%B0%E9%A2%98%23" target="weibo">
-天津中考数学创新题（热度：61537）
 </a>
 </li>
 
@@ -11385,6 +11439,18 @@ Lisa老师没收游戏机（热度：66294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%80%E8%B7%83%E8%80%8C%E4%B8%8B%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%23" target="weibo">
+中学老师一跃而下跳桥救人（热度：58996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23" target="weibo">
+哪个瞬间你发现爸爸不再年轻（热度：58404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E6%B2%A1%E6%9C%89%E6%A8%A1%E6%9D%BF%23" target="weibo">
 人生没有模板（热度：58206）
 </a>
@@ -11403,12 +11469,6 @@ Lisa老师没收游戏机（热度：66294）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23" target="weibo">
-孙悟空是更适合中国宝宝的超级英雄（热度：57381）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E4%BE%9B%E7%94%B5%E6%89%80%E5%BC%80%E6%94%BE%E9%99%A2%E5%AD%90%E7%BB%99%E5%86%9C%E6%B0%91%E6%99%92%E9%BA%A6%23" target="weibo">
 江苏一供电所开放院子给农民晒麦（热度：57005）
 </a>
@@ -11417,12 +11477,6 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E5%9F%8E%E7%AE%A1%E5%92%8C%E5%95%86%E8%B4%A9%E7%9B%B8%E5%A4%84%E6%9C%89%E5%A4%9A%E8%9E%8D%E6%B4%BD%23" target="weibo">
 淄博城管和商贩相处有多融洽（热度：56785）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%BC%80%E5%90%AF%E9%9B%A8%E5%88%B7%E5%99%A8%E6%A8%A1%E5%BC%8F%23" target="weibo">
-毕业典礼开启雨刷器模式（热度：56296）
 </a>
 </li>
 
@@ -11465,12 +11519,6 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%9A%84%E9%A9%AC%E7%94%B2%E7%BA%BF%23" target="weibo">
 张靓颖的马甲线（热度：53018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E6%95%91%E4%BA%BA%E5%90%8E%E6%8A%B1%E5%87%BA%E5%90%93%E5%82%BB%E7%8B%97%E5%AD%90%23" target="weibo">
-消防员火场救人后抱出吓傻狗子（热度：52494）
 </a>
 </li>
 
@@ -11529,12 +11577,6 @@ Lisa老师没收游戏机（热度：66294）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B7%E5%85%81%E8%AE%B8%E6%88%91%E6%8A%8A%E6%9C%80%E5%90%8E%E5%BF%83%E8%B7%B3%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
-妈妈请允许我把最后心跳献给祖国人民（热度：47344）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2357%E5%B2%81%E4%BF%9D%E5%A7%86%E6%89%8B%E6%8E%8C%E4%BD%9C%E7%94%BB7%E5%B9%B4%E6%88%90%E6%B0%91%E9%97%B4%E7%94%BB%E5%AE%B6%23" target="weibo">
 57岁保姆手掌作画7年成民间画家（热度：47338）
 </a>
@@ -11555,12 +11597,6 @@ Lisa老师没收游戏机（热度：66294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E9%80%80%E4%BC%91%E5%8C%BB%E7%94%9F%E4%B8%BA%E5%B1%85%E6%B0%91%E4%B9%89%E8%AF%8A2100%E5%B0%8F%E6%97%B6%23" target="weibo">
 北京一退休医生为居民义诊2100小时（热度：46354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23" target="weibo">
-哪个瞬间你发现爸爸不再年轻（热度：45593）
 </a>
 </li>
 

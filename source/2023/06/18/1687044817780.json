@@ -1,0 +1,410 @@
+{
+  "runTime": 1687044817780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1034806,
+        "num": 1034806,
+        "word": "父亲节",
+        "onboard_time": 1687043058,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593427,
+        "num": 593427,
+        "word": "端午公司发了3颗荔枝",
+        "onboard_time": 1687012650,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58404,
+        "num": 575323,
+        "word": "哪个瞬间你发现爸爸不再年轻",
+        "onboard_time": 1687015292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560729,
+        "num": 560729,
+        "word": "榜一大哥是我爸",
+        "onboard_time": 1687013073,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364509,
+        "num": 364509,
+        "word": "萧敬腾方报警检测自证清白",
+        "onboard_time": 1687010012,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304579,
+        "num": 304579,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 300232,
+        "num": 300232,
+        "word": "父亲节快乐",
+        "onboard_time": 1687043957,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256357,
+        "num": 256357,
+        "word": "谢娜 她她她",
+        "onboard_time": 1687010250,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246485,
+        "num": 246485,
+        "word": "胡歌大鹏影帝双黄蛋",
+        "onboard_time": 1687006109,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191797,
+        "num": 191797,
+        "word": "西工大一班级全员34人参与重大科研",
+        "onboard_time": 1687018469,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 452655,
+        "num": 184264,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204622,
+        "num": 179580,
+        "word": "蔡徐坤虞书欣甘比母女合影",
+        "onboard_time": 1687043898,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 171478,
+        "num": 171478,
+        "word": "黄渤上半身vs下半身",
+        "onboard_time": 1687001667,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164493,
+        "num": 164493,
+        "word": "感谢鲁U3G833",
+        "onboard_time": 1687042815,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146726,
+        "num": 146726,
+        "word": "母亲节vs父亲节",
+        "onboard_time": 1687042815,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144027,
+        "num": 144027,
+        "word": "Jennie是前一天爬山太累了吗",
+        "onboard_time": 1686985169,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135516,
+        "num": 135516,
+        "word": "梦海再现知否金句",
+        "onboard_time": 1687012471,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134061,
+        "num": 134061,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "美国32岁男子让3个儿子站成一排枪杀",
+        "onboard_time": 1687001909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109835,
+        "num": 109835,
+        "word": "jkl",
+        "onboard_time": 1687015532,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 530505,
+        "num": 107886,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260127,
+        "num": 106977,
+        "word": "虞书欣去蔡PD演唱会了",
+        "onboard_time": 1687044076,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226608,
+        "num": 104579,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140979,
+        "num": 101205,
+        "word": "我有一栋楼 是要偷你什么东西",
+        "onboard_time": 1687006352,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132027,
+        "num": 98222,
+        "word": "王鹤棣偷拿零食投喂丁程鑫",
+        "onboard_time": 1687044137,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120890,
+        "num": 97111,
+        "word": "突然明白了儿子为什么想回老家",
+        "onboard_time": 1687015831,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 113737,
+        "num": 93512,
+        "word": "这猫是不是有点过于巨大了",
+        "onboard_time": 1687014393,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92531,
+        "num": 92531,
+        "word": "妈妈请允许我把最后心跳献给祖国人民",
+        "onboard_time": 1687042815,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 90444,
+        "num": 90444,
+        "word": "憋屈了13年的猫猫终于翻身了",
+        "onboard_time": 1687003291,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58996,
+        "num": 89194,
+        "word": "中学老师一跃而下跳桥救人",
+        "onboard_time": 1687044499,
+        "rank": 29,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 101932,
+        "num": 88996,
+        "word": "不要轻易和陌生人拼桌吃饭",
+        "onboard_time": 1687044800,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88357,
+        "num": 88357,
+        "word": "建议棣欣引力别看",
+        "onboard_time": 1687009950,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87060,
+        "num": 87060,
+        "word": "王一博黄渤跳舞",
+        "onboard_time": 1687011993,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84578,
+        "num": 84578,
+        "word": "孙悟空是更适合中国宝宝的超级英雄",
+        "onboard_time": 1687042276,
+        "rank": 33,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 84510,
+        "num": 84510,
+        "word": "杨幂杨紫的同款高跟鞋",
+        "onboard_time": 1687014213,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81742,
+        "num": 81742,
+        "word": "618",
+        "onboard_time": 1687044377,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81605,
+        "num": 81605,
+        "word": "黑莲花 改名永夜星河",
+        "onboard_time": 1687010970,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78429,
+        "num": 78429,
+        "word": "肖战的肌肉隔着衣服都能看到",
+        "onboard_time": 1687036512,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307230,
+        "num": 78310,
+        "word": "一颗老鼠头为何要省级调查组才能查清",
+        "onboard_time": 1686983369,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77359,
+        "num": 77359,
+        "word": "去油版偷偷藏不住",
+        "onboard_time": 1687008330,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77289,
+        "num": 77289,
+        "word": "王一博让不出去的C位",
+        "onboard_time": 1687000230,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72527,
+        "num": 72527,
+        "word": "谢娜说男生都会喜欢朱珠",
+        "onboard_time": 1687008811,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71707,
+        "num": 71707,
+        "word": "消防员火场救人后抱出吓傻狗子",
+        "onboard_time": 1687042815,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69760,
+        "num": 69760,
+        "word": "解说毛毛",
+        "onboard_time": 1687011632,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68794,
+        "num": 68794,
+        "word": "中国文化在外国街头杀疯了",
+        "onboard_time": 1687012774,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67322,
+        "num": 67322,
+        "word": "张远演唱会有男粉戴头纱",
+        "onboard_time": 1687014933,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62648,
+        "num": 62648,
+        "word": "毕业典礼开启雨刷器模式",
+        "onboard_time": 1687043417,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 62214,
+        "num": 62214,
+        "word": "天津中考数学创新题",
+        "onboard_time": 1687038853,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52290,
+        "num": 52290,
+        "word": "电影一闪一闪亮晶晶",
+        "onboard_time": 1687016131,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47319,
+        "num": 52254,
+        "word": "想念朱婷",
+        "onboard_time": 1687018650,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家好民族好两岸同胞才会好#"
+    }
+  }
+}

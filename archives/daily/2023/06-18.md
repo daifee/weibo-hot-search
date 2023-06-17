@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/18 00:35:55 ~ 2023/06/18 07:16:50
+本榜单时间：2023/06/18 00:35:55 ~ 2023/06/18 07:33:37
 </p>
 </blockquote>
 <p>
@@ -21,6 +21,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
+父亲节（热度：1034806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%98%AF%E6%88%91%E7%88%B8%23" target="weibo">
 榜一大哥是我爸（热度：932415）
 </a>
@@ -29,12 +35,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23jkl%23" target="weibo">
 jkl（热度：857119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
-父亲节（热度：813659）
 </a>
 </li>
 
@@ -135,6 +135,12 @@ Jennie是前一天爬山太累了吗（热度：367377）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
+父亲节快乐（热度：300232）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%90%8C%E6%AC%BE%E9%AB%98%E8%B7%9F%E9%9E%8B%23" target="weibo">
 杨幂杨紫的同款高跟鞋（热度：274277）
 </a>
@@ -143,6 +149,12 @@ Jennie是前一天爬山太累了吗（热度：367377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E6%AF%9B%E6%AF%9B%23" target="weibo">
 解说毛毛（热度：271141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8E%BB%E8%94%A1PD%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23" target="weibo">
+虞书欣去蔡PD演唱会了（热度：260127）
 </a>
 </li>
 
@@ -201,6 +213,12 @@ kpop爱豆整形模板脸（热度：238860）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%98%E6%AF%94%E6%AF%8D%E5%A5%B3%E5%90%88%E5%BD%B1%23" target="weibo">
+蔡徐坤虞书欣甘比母女合影（热度：204622）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%B2%B9%E7%89%88%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23" target="weibo">
 去油版偷偷藏不住（热度：185739）
 </a>
@@ -249,6 +267,12 @@ kpop爱豆整形模板脸（热度：238860）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23" target="weibo">
+感谢鲁U3G833（热度：164493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%23" target="weibo">
 Uzi（热度：164351）
 </a>
@@ -279,6 +303,12 @@ Uzi（热度：164351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82vs%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
+母亲节vs父亲节（热度：146726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E4%BD%B3%E8%BF%90%E4%BB%8A%E6%99%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%23" target="weibo">
 余佳运今晚嘉宾是欧阳娜娜（热度：145545）
 </a>
@@ -287,6 +317,12 @@ Uzi（热度：164351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%9F%E6%83%B3%E8%A2%AB%E6%9D%A8%E5%B9%82%E6%8A%95%E5%96%82%23" target="weibo">
 我也想被杨幂投喂（热度：140687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%81%B7%E6%8B%BF%E9%9B%B6%E9%A3%9F%E6%8A%95%E5%96%82%E4%B8%81%E7%A8%8B%E9%91%AB%23" target="weibo">
+王鹤棣偷拿零食投喂丁程鑫（热度：132027）
 </a>
 </li>
 
@@ -309,6 +345,18 @@ TES 从业者也需要提升专业能力（热度：118151）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%BC%E6%A1%8C%E5%90%83%E9%A5%AD%23" target="weibo">
+不要轻易和陌生人拼桌吃饭（热度：101932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B7%E5%85%81%E8%AE%B8%E6%88%91%E6%8A%8A%E6%9C%80%E5%90%8E%E5%BF%83%E8%B7%B3%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
+妈妈请允许我把最后心跳献给祖国人民（热度：92531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BB%AE%E8%B4%9E%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 陈绮贞音乐节（热度：91145）
 </a>
@@ -321,14 +369,32 @@ LNG战胜EDG（热度：89734）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82vs%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
-母亲节vs父亲节（热度：85997）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23" target="weibo">
+孙悟空是更适合中国宝宝的超级英雄（热度：84578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23618%23" target="weibo">
+618（热度：81742）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23zb1%23" target="weibo">
 zb1（热度：81693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E8%82%8C%E8%82%89%E9%9A%94%E7%9D%80%E8%A1%A3%E6%9C%8D%E9%83%BD%E8%83%BD%E7%9C%8B%E5%88%B0%23" target="weibo">
+肖战的肌肉隔着衣服都能看到（热度：78429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D%23" target="weibo">
+王一博让不出去的C位（热度：77289）
 </a>
 </li>
 
@@ -345,20 +411,8 @@ zb1（热度：81693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E9%B2%81U3G833%23" target="weibo">
-感谢鲁U3G833（热度：76264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AE%A9%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84C%E4%BD%8D%23" target="weibo">
-王一博让不出去的C位（热度：74952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E8%82%8C%E8%82%89%E9%9A%94%E7%9D%80%E8%A1%A3%E6%9C%8D%E9%83%BD%E8%83%BD%E7%9C%8B%E5%88%B0%23" target="weibo">
-肖战的肌肉隔着衣服都能看到（热度：72546）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E6%95%91%E4%BA%BA%E5%90%8E%E6%8A%B1%E5%87%BA%E5%90%93%E5%82%BB%E7%8B%97%E5%AD%90%23" target="weibo">
+消防员火场救人后抱出吓傻狗子（热度：71707）
 </a>
 </li>
 
@@ -369,44 +423,32 @@ zb1（热度：81693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E5%88%9B%E6%96%B0%E9%A2%98%23" target="weibo">
-天津中考数学创新题（热度：61537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%9F%E7%A9%BA%E6%98%AF%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23" target="weibo">
-孙悟空是更适合中国宝宝的超级英雄（热度：57381）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%BC%80%E5%90%AF%E9%9B%A8%E5%88%B7%E5%99%A8%E6%A8%A1%E5%BC%8F%23" target="weibo">
-毕业典礼开启雨刷器模式（热度：56296）
+毕业典礼开启雨刷器模式（热度：62648）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E6%95%91%E4%BA%BA%E5%90%8E%E6%8A%B1%E5%87%BA%E5%90%93%E5%82%BB%E7%8B%97%E5%AD%90%23" target="weibo">
-消防员火场救人后抱出吓傻狗子（热度：52494）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A6%E5%88%9B%E6%96%B0%E9%A2%98%23" target="weibo">
+天津中考数学创新题（热度：62214）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%80%E8%B7%83%E8%80%8C%E4%B8%8B%E8%B7%B3%E6%A1%A5%E6%95%91%E4%BA%BA%23" target="weibo">
+中学老师一跃而下跳桥救人（热度：58996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23" target="weibo">
+哪个瞬间你发现爸爸不再年轻（热度：58404）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23" target="weibo">
 卫星视角看中国治沙奇迹（热度：50757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B7%E5%85%81%E8%AE%B8%E6%88%91%E6%8A%8A%E6%9C%80%E5%90%8E%E5%BF%83%E8%B7%B3%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
-妈妈请允许我把最后心跳献给祖国人民（热度：47344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E4%BD%A0%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%23" target="weibo">
-哪个瞬间你发现爸爸不再年轻（热度：45593）
 </a>
 </li>
 

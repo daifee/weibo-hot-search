@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687043810809,
+  "endTime": 1687044817780,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -9,6 +9,14 @@
       "onboard_time": 1687010012,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1034806,
+      "num": 1034806,
+      "word": "父亲节",
+      "onboard_time": 1687043058,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932415,
@@ -25,14 +33,6 @@
       "onboard_time": 1687015532,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 813659,
-      "num": 813659,
-      "word": "父亲节",
-      "onboard_time": 1687043058,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784996,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300232,
+      "num": 300232,
+      "word": "父亲节快乐",
+      "onboard_time": 1687043957,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274277,
       "num": 251429,
       "word": "杨幂杨紫的同款高跟鞋",
@@ -177,6 +185,14 @@
       "onboard_time": 1687011632,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260127,
+      "num": 106977,
+      "word": "虞书欣去蔡PD演唱会了",
+      "onboard_time": 1687044076,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 253524,
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204622,
+      "num": 179580,
+      "word": "蔡徐坤虞书欣甘比母女合影",
+      "onboard_time": 1687043898,
+      "rank": 11,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 185739,
       "num": 185739,
       "word": "去油版偷偷藏不住",
@@ -315,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164493,
+      "num": 164493,
+      "word": "感谢鲁U3G833",
+      "onboard_time": 1687042815,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164351,
       "num": 164351,
       "word": "Uzi",
@@ -355,6 +387,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 146726,
+      "num": 146726,
+      "word": "母亲节vs父亲节",
+      "onboard_time": 1687042815,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145545,
       "num": 145545,
       "word": "余佳运今晚嘉宾是欧阳娜娜",
@@ -369,6 +409,14 @@
       "onboard_time": 1687012954,
       "rank": 44,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 132027,
+      "num": 98222,
+      "word": "王鹤棣偷拿零食投喂丁程鑫",
+      "onboard_time": 1687044137,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 126236,
@@ -395,6 +443,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101932,
+      "num": 88996,
+      "word": "不要轻易和陌生人拼桌吃饭",
+      "onboard_time": 1687044800,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92531,
+      "num": 92531,
+      "word": "妈妈请允许我把最后心跳献给祖国人民",
+      "onboard_time": 1687042815,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 91145,
       "num": 91145,
       "word": "陈绮贞音乐节",
@@ -411,12 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 85997,
-      "num": 85997,
-      "word": "母亲节vs父亲节",
-      "onboard_time": 1687042815,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 84578,
+      "num": 84578,
+      "word": "孙悟空是更适合中国宝宝的超级英雄",
+      "onboard_time": 1687042276,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 81742,
+      "num": 81742,
+      "word": "618",
+      "onboard_time": 1687044377,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 81693,
@@ -425,6 +497,22 @@
       "onboard_time": 1687025896,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78429,
+      "num": 78429,
+      "word": "肖战的肌肉隔着衣服都能看到",
+      "onboard_time": 1687036512,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 77289,
+      "num": 77289,
+      "word": "王一博让不出去的C位",
+      "onboard_time": 1687000230,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 76953,
@@ -443,28 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76264,
-      "num": 76264,
-      "word": "感谢鲁U3G833",
+      "raw_hot": 71707,
+      "num": 71707,
+      "word": "消防员火场救人后抱出吓傻狗子",
       "onboard_time": 1687042815,
-      "rank": 26,
+      "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74952,
-      "num": 74940,
-      "word": "王一博让不出去的C位",
-      "onboard_time": 1687000230,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 72546,
-      "num": 72546,
-      "word": "肖战的肌肉隔着衣服都能看到",
-      "onboard_time": 1687036512,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 68987,
@@ -475,35 +547,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61537,
-      "num": 61537,
-      "word": "天津中考数学创新题",
-      "onboard_time": 1687038853,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 57381,
-      "num": 57381,
-      "word": "孙悟空是更适合中国宝宝的超级英雄",
-      "onboard_time": 1687042276,
-      "rank": 37,
-      "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 56296,
-      "num": 56296,
+      "raw_hot": 62648,
+      "num": 62648,
       "word": "毕业典礼开启雨刷器模式",
       "onboard_time": 1687043417,
       "rank": 39,
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 52494,
-      "num": 52494,
-      "word": "消防员火场救人后抱出吓傻狗子",
-      "onboard_time": 1687042815,
-      "rank": 41,
+      "raw_hot": 62214,
+      "num": 62214,
+      "word": "天津中考数学创新题",
+      "onboard_time": 1687038853,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 58996,
+      "num": 89194,
+      "word": "中学老师一跃而下跳桥救人",
+      "onboard_time": 1687044499,
+      "rank": 29,
+      "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 58404,
+      "num": 575323,
+      "word": "哪个瞬间你发现爸爸不再年轻",
+      "onboard_time": 1687015292,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -511,22 +583,6 @@
       "num": 842808,
       "word": "卫星视角看中国治沙奇迹",
       "onboard_time": 1687015473,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47344,
-      "num": 47344,
-      "word": "妈妈请允许我把最后心跳献给祖国人民",
-      "onboard_time": 1687042815,
-      "rank": 44,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 45593,
-      "num": 430274,
-      "word": "哪个瞬间你发现爸爸不再年轻",
-      "onboard_time": 1687015292,
       "rank": 2,
       "category": "社会新闻"
     },
