@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686983615905,
+  "endTime": 1686986103660,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1727561,
+      "num": 1727561,
+      "word": "买洞洞鞋后这辈子就定型了",
+      "onboard_time": 1686978874,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1708029,
       "num": 1708029,
       "word": "四级作文",
@@ -97,14 +105,6 @@
       "onboard_time": 1686927389,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1549915,
-      "num": 1549915,
-      "word": "买洞洞鞋后这辈子就定型了",
-      "onboard_time": 1686978874,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 1547476,
@@ -153,6 +153,14 @@
       "onboard_time": 1686962304,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1199054,
+      "num": 584453,
+      "word": "一颗老鼠头为何要省级调查组才能查清",
+      "onboard_time": 1686983369,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1126606,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 767289,
+      "num": 767289,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 758728,
       "num": 584899,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
@@ -259,20 +275,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 619960,
-      "num": 619960,
+      "raw_hot": 650882,
+      "num": 625106,
+      "word": "郑业成 希望大家不要效仿我的错误行为",
+      "onboard_time": 1686984392,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 625724,
+      "num": 625724,
       "word": "还以为杨紫关晓彤在吵架",
       "onboard_time": 1686978874,
       "rank": 42,
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 602988,
-      "num": 602988,
-      "word": "网友评选上半年烂剧之王",
-      "onboard_time": 1686979595,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 624769,
+      "num": 624769,
+      "word": "Jennie是前一天爬山太累了吗",
+      "onboard_time": 1686985169,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 562918,
@@ -337,6 +361,14 @@
       "onboard_time": 1686927329,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 514261,
+      "num": 514261,
+      "word": "伊能静儿子跳舞好好看",
+      "onboard_time": 1686983612,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 498954,
@@ -537,14 +569,6 @@
       "onboard_time": 1686979417,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 319647,
-      "num": 319647,
-      "word": "一颗老鼠头为何要省级调查组才能查清",
-      "onboard_time": 1686983369,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313755,
@@ -763,6 +787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 234614,
+      "num": 206216,
+      "word": "胡锡进 希望鼠头鸭脖为全社会敲响警钟",
+      "onboard_time": 1686985169,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233555,
       "num": 233555,
       "word": "140元一根演唱会荧光棒成本仅10元",
@@ -801,6 +833,14 @@
       "onboard_time": 1686926671,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222794,
+      "num": 222794,
+      "word": "鼠身去哪了",
+      "onboard_time": 1686985706,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222411,
@@ -867,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206942,
+      "num": 206942,
+      "word": "DYG对战XYG",
+      "onboard_time": 1686985529,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206756,
       "num": 172023,
       "word": "电影八角笼中",
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199921,
+      "num": 199921,
+      "word": "陈雨菲",
+      "onboard_time": 1686985469,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199235,
       "num": 199235,
       "word": "胡锡进谈冲进球场男子被行拘",
@@ -955,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194111,
+      "num": 194111,
+      "word": "公司的下午茶一个人4块钱",
+      "onboard_time": 1686985648,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192543,
       "num": 192543,
       "word": "斗罗大陆2",
@@ -977,6 +1041,22 @@
       "onboard_time": 1686975811,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 188272,
+      "num": 188272,
+      "word": "蔡徐坤天气预报",
+      "onboard_time": 1686985648,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188046,
+      "num": 188046,
+      "word": "叶国华叶芳是龙凤胎",
+      "onboard_time": 1686984569,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 185955,
@@ -1139,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166500,
+      "num": 166500,
+      "word": "林志玲后面是刘宪华",
+      "onboard_time": 1686983671,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166261,
       "num": 166261,
       "word": "吴昕看起来好乖啊",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1686931107,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163791,
+      "num": 163791,
+      "word": "没得到回应就是答案",
+      "onboard_time": 1686986066,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 161078,
@@ -1195,6 +1291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158768,
+      "num": 158768,
+      "word": "家可以常回但不能久待",
+      "onboard_time": 1686984812,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156840,
+      "num": 156840,
+      "word": "当代年轻人娱乐方式变迁",
+      "onboard_time": 1686985889,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 155992,
       "num": 155992,
       "word": "我那显眼包谢娜",
@@ -1211,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153893,
+      "num": 153893,
+      "word": "如何看待学生爆料后视频澄清是鸭脖",
+      "onboard_time": 1686985706,
+      "rank": 47,
+      "category": "社会议题,教育"
+    },
+    {
       "raw_hot": 153144,
       "num": 153144,
       "word": "王一博再戴麦穗胸针",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1686928952,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151785,
+      "num": 151785,
+      "word": "中考结束高中保安大叔高情商喊话",
+      "onboard_time": 1686986010,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149688,
@@ -1641,6 +1769,14 @@
       "onboard_time": 1686930751,
       "rank": 49,
       "category": "美食,旅游"
+    },
+    {
+      "raw_hot": 60031,
+      "num": 524897,
+      "word": "70名考生坐船乘风破浪抵达考场",
+      "onboard_time": 1686985227,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57005,
