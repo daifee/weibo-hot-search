@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687011240525,
+  "endTime": 1687012414226,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -81,6 +81,14 @@
       "onboard_time": 1686998729,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2435197,
+      "num": 2435197,
+      "word": "萧敬腾方报警检测自证清白",
+      "onboard_time": 1687010012,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2197147,
@@ -257,14 +265,6 @@
       "onboard_time": 1686962304,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1243186,
-      "num": 1243186,
-      "word": "萧敬腾方报警检测自证清白",
-      "onboard_time": 1687010012,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1196530,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 700020,
-      "num": 265153,
+      "num": 274765,
       "word": "女子住酒店赤身躺床男子刷卡进入",
       "onboard_time": 1687009410,
       "rank": 20,
@@ -464,6 +464,14 @@
       "word": "黄宗泽再认下去就不礼貌了",
       "onboard_time": 1686929309,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 694616,
+      "num": 391586,
+      "word": "建议棣欣引力别看",
+      "onboard_time": 1687009950,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -539,12 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 592258,
+      "num": 287144,
+      "word": "女生称没穿内衣取外卖被骑手骚扰",
+      "onboard_time": 1687009830,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591770,
-      "num": 199158,
+      "num": 292061,
       "word": "中国女排世联赛首败",
       "onboard_time": 1687011151,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554407,
+      "num": 351908,
+      "word": "去油版偷偷藏不住",
+      "onboard_time": 1687008330,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 551817,
@@ -611,22 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516322,
-      "num": 311524,
-      "word": "去油版偷偷藏不住",
-      "onboard_time": 1687008330,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 516312,
-      "num": 300827,
-      "word": "建议棣欣引力别看",
-      "onboard_time": 1687009950,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498954,
       "num": 498954,
       "word": "TFBOYS是巡演吗",
@@ -665,14 +673,6 @@
       "onboard_time": 1687008090,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 468233,
-      "num": 198910,
-      "word": "女生称没穿内衣取外卖被骑手骚扰",
-      "onboard_time": 1687009830,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467909,
@@ -747,8 +747,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 404042,
+      "num": 244673,
+      "word": "黑莲花 改名永夜星河",
+      "onboard_time": 1687010970,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 403915,
+      "num": 229425,
+      "word": "谢娜 她她她",
+      "onboard_time": 1687010250,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401853,
-      "num": 239573,
+      "num": 252927,
       "word": "我有一栋楼 是要偷你什么东西",
       "onboard_time": 1687006352,
       "rank": 30,
@@ -851,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356205,
-      "num": 211048,
-      "word": "谢娜 她她她",
-      "onboard_time": 1687010250,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 351924,
+      "num": 351924,
+      "word": "解说毛毛",
+      "onboard_time": 1687011632,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 351577,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 289260,
-      "num": 198058,
+      "num": 204874,
       "word": "梦中的那片海收视率",
       "onboard_time": 1687008871,
       "rank": 35,
@@ -1211,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258581,
+      "num": 200384,
+      "word": "范丞丞音乐节",
+      "onboard_time": 1687012052,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256458,
       "num": 256458,
       "word": "青岛海滩上都是巧克力大爷",
@@ -1283,12 +1307,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 245793,
+      "num": 180234,
+      "word": "王一博黄渤跳舞",
+      "onboard_time": 1687011993,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245395,
       "num": 245395,
       "word": "阴阳师",
       "onboard_time": 1687005691,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245148,
+      "num": 179742,
+      "word": "陈绮贞音乐节",
+      "onboard_time": 1687011452,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 244467,
@@ -1515,14 +1555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 216256,
-      "num": 159838,
-      "word": "黑莲花 改名永夜星河",
-      "onboard_time": 1687010970,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216160,
       "num": 216160,
       "word": "这才是毕业生最想听到的祝福",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1686992849,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214456,
+      "num": 206827,
+      "word": "TES 从业者也需要提升专业能力",
+      "onboard_time": 1687011993,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 213387,
@@ -1883,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180776,
+      "num": 180776,
+      "word": "理想MEGA",
+      "onboard_time": 1687011271,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 180177,
       "num": 180177,
       "word": "小伙回应在国外将五星红旗解开",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1687005750,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176522,
+      "num": 176522,
+      "word": "狗头萝莉 长发发型合集",
+      "onboard_time": 1687011151,
+      "rank": 49,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 176036,
@@ -2523,14 +2579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129367,
-      "num": 140868,
-      "word": "狗头萝莉 长发发型合集",
-      "onboard_time": 1687011151,
-      "rank": 49,
-      "category": "时尚,幽默"
-    },
-    {
       "raw_hot": 128482,
       "num": 128482,
       "word": "蔡徐坤应援灯提前亮了",
@@ -2971,8 +3019,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8408,
-      "num": 1087678,
+      "raw_hot": 17087,
+      "num": 1250487,
       "word": "推动电子医保就医全流程应用",
       "onboard_time": 1687004970,
       "rank": 2,

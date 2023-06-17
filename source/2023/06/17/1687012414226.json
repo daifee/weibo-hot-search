@@ -1,0 +1,410 @@
+{
+  "runTime": 1687012414226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2435197,
+        "num": 2435197,
+        "word": "萧敬腾方报警检测自证清白",
+        "onboard_time": 1687010012,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1820493,
+        "num": 1820493,
+        "word": "胡歌大鹏影帝双黄蛋",
+        "onboard_time": 1687006109,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17087,
+        "num": 1250487,
+        "word": "推动电子医保就医全流程应用",
+        "onboard_time": 1687004970,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038855,
+        "num": 1038855,
+        "word": "Angelababy 求求了给我脚趾p个美甲",
+        "onboard_time": 1686999089,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1027819,
+        "num": 1027819,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 998723,
+        "num": 998723,
+        "word": "黄渤上半身vs下半身",
+        "onboard_time": 1687001667,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 904117,
+        "num": 904117,
+        "word": "一颗老鼠头为何要省级调查组才能查清",
+        "onboard_time": 1686983369,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840052,
+        "num": 840052,
+        "word": "长风渡定档",
+        "onboard_time": 1686987809,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 616965,
+        "num": 616965,
+        "word": "六级",
+        "onboard_time": 1686993868,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426631,
+        "num": 426631,
+        "word": "Uzi",
+        "onboard_time": 1687008090,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1054977,
+        "num": 411556,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694616,
+        "num": 391586,
+        "word": "建议棣欣引力别看",
+        "onboard_time": 1687009950,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670130,
+        "num": 387936,
+        "word": "黑莲花 虞书欣丁禹兮",
+        "onboard_time": 1686992307,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584402,
+        "num": 361509,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 351924,
+        "num": 351924,
+        "word": "解说毛毛",
+        "onboard_time": 1687011632,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 554407,
+        "num": 351908,
+        "word": "去油版偷偷藏不住",
+        "onboard_time": 1687008330,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529048,
+        "num": 351773,
+        "word": "网友评选上半年烂剧之王",
+        "onboard_time": 1686979595,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351121,
+        "num": 351121,
+        "word": "美国32岁男子让3个儿子站成一排枪杀",
+        "onboard_time": 1687001909,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297858,
+        "num": 297858,
+        "word": "憋屈了13年的猫猫终于翻身了",
+        "onboard_time": 1687003291,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292061,
+        "num": 292061,
+        "word": "中国女排世联赛首败",
+        "onboard_time": 1687011151,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592258,
+        "num": 287144,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500217,
+        "num": 274765,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439195,
+        "num": 270676,
+        "word": "杨幂露背了",
+        "onboard_time": 1686994470,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 406589,
+        "num": 263644,
+        "word": "迪丽热巴 剪睫毛",
+        "onboard_time": 1686998067,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357730,
+        "num": 252927,
+        "word": "我有一栋楼 是要偷你什么东西",
+        "onboard_time": 1687006352,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404042,
+        "num": 244673,
+        "word": "黑莲花 改名永夜星河",
+        "onboard_time": 1687010970,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403915,
+        "num": 229425,
+        "word": "谢娜 她她她",
+        "onboard_time": 1687010250,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337338,
+        "num": 222863,
+        "word": "Jennie是前一天爬山太累了吗",
+        "onboard_time": 1686985169,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310206,
+        "num": 215356,
+        "word": "鼠头事件学生可10倍索赔",
+        "onboard_time": 1686988167,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210898,
+        "num": 210898,
+        "word": "LNG战胜EDG",
+        "onboard_time": 1687007132,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327148,
+        "num": 210061,
+        "word": "王一博让不出去的C位",
+        "onboard_time": 1687000230,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326744,
+        "num": 209627,
+        "word": "杨幂盘发梦回晴川",
+        "onboard_time": 1686989906,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326435,
+        "num": 208409,
+        "word": "谢娜说男生都会喜欢朱珠",
+        "onboard_time": 1687008811,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214456,
+        "num": 206827,
+        "word": "TES 从业者也需要提升专业能力",
+        "onboard_time": 1687011993,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206407,
+        "num": 206407,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271342,
+        "num": 204874,
+        "word": "梦中的那片海收视率",
+        "onboard_time": 1687008871,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271310,
+        "num": 202462,
+        "word": "伊能静儿子跳舞好好看",
+        "onboard_time": 1686983612,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258581,
+        "num": 200384,
+        "word": "范丞丞音乐节",
+        "onboard_time": 1687012052,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180776,
+        "num": 180776,
+        "word": "理想MEGA",
+        "onboard_time": 1687011271,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180300,
+        "num": 180300,
+        "word": "六级答案",
+        "onboard_time": 1686995014,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245793,
+        "num": 180234,
+        "word": "王一博黄渤跳舞",
+        "onboard_time": 1687011993,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245148,
+        "num": 179742,
+        "word": "陈绮贞音乐节",
+        "onboard_time": 1687011452,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201063,
+        "num": 179374,
+        "word": "向华强说以后珠宝都给郭碧婷",
+        "onboard_time": 1686986188,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49258,
+        "num": 178899,
+        "word": "今天致敬每一位中国治沙人",
+        "onboard_time": 1687005028,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175007,
+        "num": 178363,
+        "word": "理想发布会",
+        "onboard_time": 1687010672,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192954,
+        "num": 177922,
+        "word": "小S澄清叶舒华双面人争议",
+        "onboard_time": 1686992367,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177806,
+        "num": 177806,
+        "word": "买洞洞鞋后这辈子就定型了",
+        "onboard_time": 1686978874,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176522,
+        "num": 176522,
+        "word": "狗头萝莉 长发发型合集",
+        "onboard_time": 1687011151,
+        "rank": 47,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 173317,
+        "num": 173317,
+        "word": "中国女排vs波兰女排",
+        "onboard_time": 1687006833,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116664,
+        "num": 171826,
+        "word": "WE亚运征途全胜",
+        "onboard_time": 1687010790,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国有约#"
+    }
+  }
+}
