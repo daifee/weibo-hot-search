@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686982852789,
+  "endTime": 1686983615905,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -2651,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602988,
+      "num": 602988,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 598651,
       "num": 598651,
       "word": "上海青浦区发生3.1级地震",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1686904948,
       "rank": 19,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 536529,
-      "num": 536529,
-      "word": "网友评选上半年烂剧之王",
-      "onboard_time": 1686979595,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 531781,
@@ -3315,6 +3315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 445497,
+      "num": 445497,
+      "word": "偶像剧独爆小生",
+      "onboard_time": 1686980974,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443485,
       "num": 307296,
       "word": "LESSERAFIM将来广州开线下签售会",
@@ -3403,14 +3411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430438,
-      "num": 430438,
-      "word": "偶像剧独爆小生",
-      "onboard_time": 1686980974,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 427749,
       "num": 427749,
       "word": "时光2定档",
@@ -3449,6 +3449,14 @@
       "onboard_time": 1686802529,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419081,
+      "num": 419081,
+      "word": "郑业成往车窗外乱丢烟头",
+      "onboard_time": 1686981693,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 417793,
@@ -3841,14 +3849,6 @@
       "onboard_time": 1686726809,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 372752,
-      "num": 372752,
-      "word": "郑业成往车窗外乱丢烟头",
-      "onboard_time": 1686981693,
-      "rank": 21,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 371455,
@@ -4539,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319647,
+      "num": 319647,
+      "word": "一颗老鼠头为何要省级调查组才能查清",
+      "onboard_time": 1686983369,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319594,
       "num": 319594,
       "word": "妈妈得了阿尔兹海默症 爸爸就是特效药",
@@ -4747,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306272,
+      "num": 306272,
+      "word": "女子骑车手扶帽子头部着地身亡",
+      "onboard_time": 1686982174,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304295,
       "num": 276913,
       "word": "广州南站按摩椅出现大量虫子",
@@ -4899,6 +4915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293050,
+      "num": 293050,
+      "word": "谢娜捍卫张颂文歌手身份",
+      "onboard_time": 1686982052,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292592,
       "num": 292592,
       "word": "江西通报高校鸭脖事件处理情况",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1686792806,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288384,
+      "num": 288384,
+      "word": "江西工业职业技术学院",
+      "onboard_time": 1686979775,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287770,
@@ -5057,14 +5089,6 @@
       "onboard_time": 1686733588,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282641,
-      "num": 282641,
-      "word": "女子骑车手扶帽子头部着地身亡",
-      "onboard_time": 1686982174,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282235,
@@ -5739,14 +5763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256140,
-      "num": 256140,
-      "word": "江西工业职业技术学院",
-      "onboard_time": 1686979775,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255738,
       "num": 255738,
       "word": "日本核废水",
@@ -5777,14 +5793,6 @@
       "onboard_time": 1686622049,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 255359,
-      "num": 255359,
-      "word": "谢娜捍卫张颂文歌手身份",
-      "onboard_time": 1686982052,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 255345,
@@ -6585,6 +6593,14 @@
       "onboard_time": 1686825086,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229289,
+      "num": 229289,
+      "word": "曾黎赵露思来现代演母女了",
+      "onboard_time": 1686982889,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 228668,
@@ -8419,6 +8435,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 192371,
+      "num": 192371,
+      "word": "与凤行",
+      "onboard_time": 1686981151,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192106,
       "num": 192106,
       "word": "北京晚霞",
@@ -8457,14 +8481,6 @@
       "onboard_time": 1686817167,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191711,
-      "num": 191711,
-      "word": "与凤行",
-      "onboard_time": 1686981151,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 191602,
@@ -9675,6 +9691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170382,
+      "num": 170382,
+      "word": "何炅说终于轮到有人照顾我了",
+      "onboard_time": 1686982593,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170249,
       "num": 170249,
       "word": "YG新出小分队没有唱rap的",
@@ -9849,6 +9873,14 @@
       "onboard_time": 1686733648,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166682,
+      "num": 166682,
+      "word": "被高校老师的毕业寄语整破防了",
+      "onboard_time": 1686983071,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166474,
@@ -10209,14 +10241,6 @@
       "onboard_time": 1686815489,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159200,
-      "num": 159200,
-      "word": "何炅说终于轮到有人照顾我了",
-      "onboard_time": 1686982593,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 159169,
@@ -11331,6 +11355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 139827,
+      "num": 161179,
+      "word": "EDG",
+      "onboard_time": 1686980853,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139809,
       "num": 139809,
       "word": "谁是大多数",
@@ -12177,14 +12209,6 @@
       "onboard_time": 1686924510,
       "rank": 48,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 121974,
-      "num": 155136,
-      "word": "EDG",
-      "onboard_time": 1686980853,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 121575,
@@ -13212,7 +13236,7 @@
     },
     {
       "raw_hot": 88683,
-      "num": 154245,
+      "num": 159407,
       "word": "柳州胜利夜市",
       "onboard_time": 1686982052,
       "rank": 49,
@@ -13699,6 +13723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55023,
+      "num": 527395,
+      "word": "中学老师从10余米高桥跳河救起轻生女子",
+      "onboard_time": 1686981693,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54962,
       "num": 1228777,
       "word": "复兴号即将在青藏铁路运营",
@@ -13935,14 +13967,6 @@
       "num": 556454,
       "word": "浙江七旬义工离世留下精神宝箱",
       "onboard_time": 1686805289,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34292,
-      "num": 527395,
-      "word": "中学老师从10余米高桥跳河救起轻生女子",
-      "onboard_time": 1686981693,
       "rank": 14,
       "category": "社会新闻"
     },

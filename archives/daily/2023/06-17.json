@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686982852789,
+  "endTime": 1686983615905,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -267,6 +267,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 602988,
+      "num": 602988,
+      "word": "网友评选上半年烂剧之王",
+      "onboard_time": 1686979595,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 562918,
       "num": 562918,
       "word": "六级翻译",
@@ -289,14 +297,6 @@
       "onboard_time": 1686923009,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536529,
-      "num": 536529,
-      "word": "网友评选上半年烂剧之王",
-      "onboard_time": 1686979595,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 531781,
@@ -387,6 +387,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 445497,
+      "num": 445497,
+      "word": "偶像剧独爆小生",
+      "onboard_time": 1686980974,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435501,
       "num": 435501,
       "word": "原著里的桑延vs剧版里的桑延",
@@ -395,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430438,
-      "num": 430438,
-      "word": "偶像剧独爆小生",
-      "onboard_time": 1686980974,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 419081,
+      "num": 419081,
+      "word": "郑业成往车窗外乱丢烟头",
+      "onboard_time": 1686981693,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 399824,
@@ -457,14 +465,6 @@
       "onboard_time": 1686969749,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372752,
-      "num": 372752,
-      "word": "郑业成往车窗外乱丢烟头",
-      "onboard_time": 1686981693,
-      "rank": 21,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 365125,
@@ -539,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319647,
+      "num": 319647,
+      "word": "一颗老鼠头为何要省级调查组才能查清",
+      "onboard_time": 1686983369,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313755,
       "num": 313755,
       "word": "我的大腿和男朋友的大腿",
@@ -563,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306272,
+      "num": 306272,
+      "word": "女子骑车手扶帽子头部着地身亡",
+      "onboard_time": 1686982174,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293050,
+      "num": 293050,
+      "word": "谢娜捍卫张颂文歌手身份",
+      "onboard_time": 1686982052,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292592,
       "num": 292592,
       "word": "江西通报高校鸭脖事件处理情况",
@@ -579,11 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282641,
-      "num": 282641,
-      "word": "女子骑车手扶帽子头部着地身亡",
-      "onboard_time": 1686982174,
-      "rank": 28,
+      "raw_hot": 288384,
+      "num": 288384,
+      "word": "江西工业职业技术学院",
+      "onboard_time": 1686979775,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -667,28 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256140,
-      "num": 256140,
-      "word": "江西工业职业技术学院",
-      "onboard_time": 1686979775,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255643,
       "num": 255643,
       "word": "梅西球迷",
       "onboard_time": 1686975570,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255359,
-      "num": 255359,
-      "word": "谢娜捍卫张颂文歌手身份",
-      "onboard_time": 1686982052,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 252530,
@@ -769,6 +777,14 @@
       "onboard_time": 1686969688,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229289,
+      "num": 229289,
+      "word": "曾黎赵露思来现代演母女了",
+      "onboard_time": 1686982889,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 226831,
@@ -947,8 +963,8 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 191711,
-      "num": 191711,
+      "raw_hot": 192371,
+      "num": 192371,
       "word": "与凤行",
       "onboard_time": 1686981151,
       "rank": 41,
@@ -1075,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170382,
+      "num": 170382,
+      "word": "何炅说终于轮到有人照顾我了",
+      "onboard_time": 1686982593,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170249,
       "num": 170249,
       "word": "YG新出小分队没有唱rap的",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1686961765,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166682,
+      "num": 166682,
+      "word": "被高校老师的毕业寄语整破防了",
+      "onboard_time": 1686983071,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166261,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1686975869,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159200,
-      "num": 159200,
-      "word": "何炅说终于轮到有人照顾我了",
-      "onboard_time": 1686982593,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 159188,
@@ -1315,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139827,
+      "num": 161179,
+      "word": "EDG",
+      "onboard_time": 1686980853,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138570,
       "num": 138570,
       "word": "宋亚轩刘耀文张真源躲猎人",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1686960804,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121974,
-      "num": 155136,
-      "word": "EDG",
-      "onboard_time": 1686980853,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 119955,
@@ -1524,7 +1548,7 @@
     },
     {
       "raw_hot": 88683,
-      "num": 154245,
+      "num": 159407,
       "word": "柳州胜利夜市",
       "onboard_time": 1686982052,
       "rank": 49,
@@ -1635,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55023,
+      "num": 527395,
+      "word": "中学老师从10余米高桥跳河救起轻生女子",
+      "onboard_time": 1686981693,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53018,
       "num": 51753,
       "word": "张靓颖的马甲线",
@@ -1680,14 +1712,6 @@
       "word": "奋进中国大江澎湃",
       "onboard_time": 1686976955,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34292,
-      "num": 527395,
-      "word": "中学老师从10余米高桥跳河救起轻生女子",
-      "onboard_time": 1686981693,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

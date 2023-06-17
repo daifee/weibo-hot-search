@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/17 00:21:49 ~ 2023/06/17 14:20:52
+本榜单时间：2023/06/17 00:21:49 ~ 2023/06/17 14:33:35
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E9%80%89%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%82%E5%89%A7%E4%B9%8B%E7%8E%8B%23" target="weibo">
+网友评选上半年烂剧之王（热度：602988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%23" target="weibo">
 六级翻译（热度：562918）
 </a>
@@ -227,12 +233,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%20%E8%89%BA%E4%BA%BA%E6%B2%A1%E6%97%B6%E9%97%B4%E6%98%AF%E9%AA%97%E4%BA%BA%E7%9A%84%23" target="weibo">
 柳智敏 艺人没时间是骗人的（热度：547769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%84%E9%80%89%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%82%E5%89%A7%E4%B9%8B%E7%8E%8B%23" target="weibo">
-网友评选上半年烂剧之王（热度：536529）
 </a>
 </li>
 
@@ -303,14 +303,20 @@ TFBOYS是巡演吗（热度：498954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E5%89%A7%E7%8B%AC%E7%88%86%E5%B0%8F%E7%94%9F%23" target="weibo">
+偶像剧独爆小生（热度：445497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E8%91%97%E9%87%8C%E7%9A%84%E6%A1%91%E5%BB%B6vs%E5%89%A7%E7%89%88%E9%87%8C%E7%9A%84%E6%A1%91%E5%BB%B6%23" target="weibo">
 原著里的桑延vs剧版里的桑延（热度：435501）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E5%89%A7%E7%8B%AC%E7%88%86%E5%B0%8F%E7%94%9F%23" target="weibo">
-偶像剧独爆小生（热度：430438）
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
+郑业成往车窗外乱丢烟头（热度：419081）
 </a>
 </li>
 
@@ -353,12 +359,6 @@ TFBOYS是巡演吗（热度：498954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%B8%80%E5%85%AC%E5%8F%B8%E7%AB%AF%E5%8D%88%E8%BF%9E%E6%94%BE4%E5%A4%A9%E5%81%87%E4%B8%8D%E8%B0%83%E4%BC%91%23" target="weibo">
 中山一公司端午连放4天假不调休（热度：376339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%9A%E6%88%90%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B9%B1%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
-郑业成往车窗外乱丢烟头（热度：372752）
 </a>
 </li>
 
@@ -417,6 +417,12 @@ TFBOYS是巡演吗（热度：498954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23" target="weibo">
+一颗老鼠头为何要省级调查组才能查清（热度：319647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A4%A7%E8%85%BF%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%A4%A7%E8%85%BF%23" target="weibo">
 我的大腿和男朋友的大腿（热度：313755）
 </a>
@@ -435,6 +441,18 @@ TFBOYS是巡演吗（热度：498954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1%23" target="weibo">
+女子骑车手扶帽子头部着地身亡（热度：306272）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%8D%8D%E5%8D%AB%E5%BC%A0%E9%A2%82%E6%96%87%E6%AD%8C%E6%89%8B%E8%BA%AB%E4%BB%BD%23" target="weibo">
+谢娜捍卫张颂文歌手身份（热度：293050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E9%AB%98%E6%A0%A1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%23" target="weibo">
 江西通报高校鸭脖事件处理情况（热度：292592）
 </a>
@@ -447,8 +465,8 @@ TFBOYS是巡演吗（热度：498954）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%89%8B%E6%89%B6%E5%B8%BD%E5%AD%90%E5%A4%B4%E9%83%A8%E7%9D%80%E5%9C%B0%E8%BA%AB%E4%BA%A1%23" target="weibo">
-女子骑车手扶帽子头部着地身亡（热度：282641）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%23" target="weibo">
+江西工业职业技术学院（热度：288384）
 </a>
 </li>
 
@@ -513,20 +531,8 @@ TFBOYS是巡演吗（热度：498954）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%23" target="weibo">
-江西工业职业技术学院（热度：256140）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%23" target="weibo">
 梅西球迷（热度：255643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%8D%8D%E5%8D%AB%E5%BC%A0%E9%A2%82%E6%96%87%E6%AD%8C%E6%89%8B%E8%BA%AB%E4%BB%BD%23" target="weibo">
-谢娜捍卫张颂文歌手身份（热度：255359）
 </a>
 </li>
 
@@ -587,6 +593,12 @@ TFBOYS是巡演吗（热度：498954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%80%9D%E8%BE%BE%E5%8D%96%E5%A5%B3%E8%A3%85%23" target="weibo">
 姜思达卖女装（热度：230805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9D%A5%E7%8E%B0%E4%BB%A3%E6%BC%94%E6%AF%8D%E5%A5%B3%E4%BA%86%23" target="weibo">
+曾黎赵露思来现代演母女了（热度：229289）
 </a>
 </li>
 
@@ -724,7 +736,7 @@ TFBOYS演唱会投票（热度：196295）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%23" target="weibo">
-与凤行（热度：191711）
+与凤行（热度：192371）
 </a>
 </li>
 
@@ -819,6 +831,12 @@ LNG（热度：183527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%BB%88%E4%BA%8E%E8%BD%AE%E5%88%B0%E6%9C%89%E4%BA%BA%E7%85%A7%E9%A1%BE%E6%88%91%E4%BA%86%23" target="weibo">
+何炅说终于轮到有人照顾我了（热度：170382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E6%96%B0%E5%87%BA%E5%B0%8F%E5%88%86%E9%98%9F%E6%B2%A1%E6%9C%89%E5%94%B1rap%E7%9A%84%23" target="weibo">
 YG新出小分队没有唱rap的（热度：170249）
 </a>
@@ -839,6 +857,12 @@ YG新出小分队没有唱rap的（热度：170249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%B4%81%E5%B0%91%E5%A5%B3%E6%84%9F%23" target="weibo">
 梁洁少女感（热度：167638）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E7%9A%84%E6%AF%95%E4%B8%9A%E5%AF%84%E8%AF%AD%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
+被高校老师的毕业寄语整破防了（热度：166682）
 </a>
 </li>
 
@@ -869,12 +893,6 @@ YG新出小分队没有唱rap的（热度：170249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E4%B9%9F%E4%B8%8D%E6%98%AF%E7%AA%81%E7%84%B6%E4%B8%8B%E5%B1%B1%E7%9A%84%23" target="weibo">
 太阳也不是突然下山的（热度：159444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%BB%88%E4%BA%8E%E8%BD%AE%E5%88%B0%E6%9C%89%E4%BA%BA%E7%85%A7%E9%A1%BE%E6%88%91%E4%BA%86%23" target="weibo">
-何炅说终于轮到有人照顾我了（热度：159200）
 </a>
 </li>
 
@@ -999,6 +1017,12 @@ Jennie去爬山了（热度：146911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%23" target="weibo">
+EDG（热度：139827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%88%98%E8%80%80%E6%96%87%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%BA%B2%E7%8C%8E%E4%BA%BA%23" target="weibo">
 宋亚轩刘耀文张真源躲猎人（热度：138570）
 </a>
@@ -1037,12 +1061,6 @@ EDG赛前海报（热度：134809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E7%BE%8E%E5%AE%B9%E9%99%A2%E6%9A%B4%E9%9C%B2%E8%87%AA%E5%B7%B1%E6%9C%89%E9%92%B1%23" target="weibo">
 千万别在美容院暴露自己有钱（热度：124625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%23" target="weibo">
-EDG（热度：121974）
 </a>
 </li>
 
@@ -1239,6 +1257,12 @@ EDG（热度：121974）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E4%BB%8E10%E4%BD%99%E7%B1%B3%E9%AB%98%E6%A1%A5%E8%B7%B3%E6%B2%B3%E6%95%91%E8%B5%B7%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23" target="weibo">
+中学老师从10余米高桥跳河救起轻生女子（热度：55023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%9A%84%E9%A9%AC%E7%94%B2%E7%BA%BF%23" target="weibo">
 张靓颖的马甲线（热度：53018）
 </a>
@@ -1271,12 +1295,6 @@ EDG（热度：121974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%B1%9F%E6%BE%8E%E6%B9%83%23" target="weibo">
 奋进中国大江澎湃（热度：37126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E4%BB%8E10%E4%BD%99%E7%B1%B3%E9%AB%98%E6%A1%A5%E8%B7%B3%E6%B2%B3%E6%95%91%E8%B5%B7%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23" target="weibo">
-中学老师从10余米高桥跳河救起轻生女子（热度：34292）
 </a>
 </li>
 
