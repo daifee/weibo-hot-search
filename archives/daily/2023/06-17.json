@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1687014951905,
+  "endTime": 1687016058720,
   "band_list": [
     {
       "raw_hot": 10116638,
@@ -475,6 +475,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 703080,
+      "num": 703080,
+      "word": "谢娜 她她她",
+      "onboard_time": 1687010250,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700020,
       "num": 372797,
       "word": "女子住酒店赤身躺床男子刷卡进入",
@@ -547,14 +555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 628114,
-      "num": 628114,
-      "word": "谢娜 她她她",
-      "onboard_time": 1687010250,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 627147,
       "num": 4346230,
       "word": "中考生家长喊话广场舞大妈秒撤",
@@ -585,6 +585,14 @@
       "onboard_time": 1687011151,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 565525,
+      "num": 565525,
+      "word": "端午公司发了3颗荔枝",
+      "onboard_time": 1687012650,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 554407,
@@ -803,14 +811,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 393246,
-      "num": 393246,
-      "word": "端午公司发了3颗荔枝",
-      "onboard_time": 1687012650,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 384651,
       "num": 384651,
       "word": "六级作文",
@@ -889,6 +889,14 @@
       "onboard_time": 1686971727,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 365042,
+      "num": 305823,
+      "word": "杨幂杨紫的同款高跟鞋",
+      "onboard_time": 1687014213,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 361361,
@@ -971,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332170,
+      "num": 296362,
+      "word": "张远演唱会有男粉戴头纱",
+      "onboard_time": 1687014933,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330083,
       "num": 330083,
       "word": "星穹铁道被黑了",
@@ -995,8 +1011,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316841,
+      "num": 316841,
+      "word": "jkl",
+      "onboard_time": 1687015532,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315977,
-      "num": 236035,
+      "num": 291505,
       "word": "范丞丞音乐节",
       "onboard_time": 1687012052,
       "rank": 37,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1686959603,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309529,
+      "num": 309529,
+      "word": "中国文化在外国街头杀疯了",
+      "onboard_time": 1687012774,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 306926,
@@ -1115,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290853,
+      "num": 290853,
+      "word": "梦海再现知否金句",
+      "onboard_time": 1687012471,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289260,
       "num": 204874,
       "word": "梦中的那片海收视率",
@@ -1147,28 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282203,
-      "num": 234113,
-      "word": "梦海再现知否金句",
-      "onboard_time": 1687012471,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281599,
       "num": 281599,
       "word": "肖战李沁央八频道宣传片",
       "onboard_time": 1687005268,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281201,
-      "num": 233280,
-      "word": "杨幂杨紫的同款高跟鞋",
-      "onboard_time": 1687014213,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 280156,
@@ -1467,14 +1491,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 234375,
-      "num": 234375,
-      "word": "中国文化在外国街头杀疯了",
-      "onboard_time": 1687012774,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233555,
       "num": 233555,
       "word": "140元一根演唱会荧光棒成本仅10元",
@@ -1683,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207575,
+      "num": 192387,
+      "word": "毛不易琅琊榜OST舞台",
+      "onboard_time": 1687015532,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207020,
       "num": 207020,
       "word": "暑假档来了",
@@ -1771,6 +1795,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 198890,
+      "num": 191533,
+      "word": "网友给TFBOYS选的十周年歌单",
+      "onboard_time": 1687014031,
+      "rank": 43,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 197902,
       "num": 197902,
       "word": "小猪妖和狼大人是这样认识的",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1686979114,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197154,
+      "num": 197154,
+      "word": "突然明白了儿子为什么想回老家",
+      "onboard_time": 1687015831,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 196295,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1686993267,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195549,
-      "num": 195549,
-      "word": "张远演唱会有男粉戴头纱",
-      "onboard_time": 1687014933,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 192543,
@@ -1907,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186806,
+      "num": 185089,
+      "word": "罗云熙夸袁娅维太会唱了",
+      "onboard_time": 1687015473,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186322,
       "num": 186322,
       "word": "武汉音乐节",
@@ -1987,20 +2027,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181359,
+      "num": 214010,
+      "word": "狗头萝莉 长发发型合集",
+      "onboard_time": 1687011151,
+      "rank": 49,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 181321,
       "num": 182260,
       "word": "肖春生是懂齐天的",
       "onboard_time": 1686975690,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180857,
-      "num": 214010,
-      "word": "狗头萝莉 长发发型合集",
-      "onboard_time": 1687011151,
-      "rank": 49,
-      "category": "时尚,幽默"
     },
     {
       "raw_hot": 180776,
@@ -2571,6 +2611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138946,
+      "num": 180994,
+      "word": "手工批量生产的巧克力脆皮雪糕",
+      "onboard_time": 1687015831,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138570,
       "num": 138570,
       "word": "宋亚轩刘耀文张真源躲猎人",
@@ -2883,6 +2931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 86120,
+      "num": 571165,
+      "word": "淄博偶遇赵继伟",
+      "onboard_time": 1687014031,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80350,
       "num": 80350,
       "word": "姑娘14层楼顶欲轻生消防和民警飞扑救回",
@@ -2960,14 +3016,6 @@
       "word": "推动电子医保就医全流程应用",
       "onboard_time": 1687004970,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65985,
-      "num": 571165,
-      "word": "淄博偶遇赵继伟",
-      "onboard_time": 1687014031,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3097,6 +3145,14 @@
       "onboard_time": 1686920609,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20645,
+      "num": 1074908,
+      "word": "卫星视角看中国治沙奇迹",
+      "onboard_time": 1687015473,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19381,
