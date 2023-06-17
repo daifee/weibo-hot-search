@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686975588800,
+  "endTime": 1686976421954,
   "band_list": [
     {
       "raw_hot": 7308190,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1663832,
-      "num": 591350,
+      "num": 643336,
       "word": "杨洋 新郎",
       "onboard_time": 1686963385,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 911127,
+      "num": 911127,
+      "word": "男子受托帮接小孩未接上致孩子溺亡",
+      "onboard_time": 1686971607,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900578,
       "num": 900578,
       "word": "林志玲泳装",
@@ -177,6 +185,14 @@
       "onboard_time": 1686929309,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 659904,
+      "num": 659904,
+      "word": "陈宏军居然出轨了",
+      "onboard_time": 1686975330,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 562918,
@@ -275,14 +291,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 425117,
-      "num": 425117,
-      "word": "男子受托帮接小孩未接上致孩子溺亡",
-      "onboard_time": 1686971607,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399824,
       "num": 399824,
       "word": "六公主连播易烊千玺主演电影",
@@ -299,8 +307,8 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 381275,
-      "num": 381275,
+      "raw_hot": 382879,
+      "num": 382879,
       "word": "王一博真的有听汪涵说的话",
       "onboard_time": 1686971969,
       "rank": 33,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 365125,
-      "num": 302698,
+      "num": 320038,
       "word": "男朋友今天早上提醒我化妆",
       "onboard_time": 1686971727,
       "rank": 33,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255643,
+      "num": 255643,
+      "word": "梅西球迷",
+      "onboard_time": 1686975570,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252530,
       "num": 252530,
       "word": "肖战蔡徐坤赵露思微博开屏",
@@ -481,6 +497,14 @@
       "onboard_time": 1686962304,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250404,
+      "num": 250404,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 249900,
@@ -515,6 +539,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 234645,
+      "num": 234645,
+      "word": "原著里的桑延vs剧版里的桑延",
+      "onboard_time": 1686975869,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233555,
+      "num": 233555,
+      "word": "140元一根演唱会荧光棒成本仅10元",
+      "onboard_time": 1686967167,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230805,
       "num": 230805,
       "word": "姜思达卖女装",
@@ -531,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223826,
-      "num": 223826,
-      "word": "140元一根演唱会荧光棒成本仅10元",
-      "onboard_time": 1686967167,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223385,
       "num": 172061,
       "word": "袁姗姗一字肩高开叉礼服",
@@ -547,19 +579,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 222554,
-      "num": 222554,
-      "word": "备孕前千万记得拔智齿",
-      "onboard_time": 1686975450,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222411,
       "num": 222411,
       "word": "张小强教授称新闻专业能文能武",
       "onboard_time": 1686971429,
       "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 222029,
+      "num": 260764,
+      "word": "135名中考生身份证被洪水冲走",
+      "onboard_time": 1686975272,
+      "rank": 29,
       "category": "社会新闻,教育"
     },
     {
@@ -651,12 +683,20 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 188118,
-      "num": 188118,
-      "word": "陈宏军居然出轨了",
-      "onboard_time": 1686975330,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 191217,
+      "num": 191217,
+      "word": "已婚同事非要把她哥介绍给我",
+      "onboard_time": 1686974852,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189759,
+      "num": 189759,
+      "word": "恋爱脑犯了就来看看",
+      "onboard_time": 1686975811,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 185955,
@@ -691,12 +731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181904,
-      "num": 181904,
-      "word": "已婚同事非要把她哥介绍给我",
-      "onboard_time": 1686974852,
-      "rank": 41,
-      "category": "情感,幽默"
+      "raw_hot": 183527,
+      "num": 183527,
+      "word": "LNG",
+      "onboard_time": 1686973171,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 181846,
@@ -707,20 +747,28 @@
       "category": "财经,体育"
     },
     {
+      "raw_hot": 181752,
+      "num": 181752,
+      "word": "想感谢父母时总是刚喊出爸妈就哭了",
+      "onboard_time": 1686976110,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 181321,
+      "num": 182260,
+      "word": "肖春生是懂齐天的",
+      "onboard_time": 1686975690,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180177,
       "num": 180177,
       "word": "小伙回应在国外将五星红旗解开",
       "onboard_time": 1686930089,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178580,
-      "num": 178580,
-      "word": "LNG",
-      "onboard_time": 1686973171,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 176036,
@@ -755,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170756,
+      "num": 170756,
+      "word": "不要在马路中间吵架",
+      "onboard_time": 1686976291,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169598,
       "num": 169598,
       "word": "江苏一高校送毕业生2米大蛋糕",
@@ -787,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165168,
-      "num": 165168,
-      "word": "梅西球迷",
-      "onboard_time": 1686975570,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164270,
       "num": 159881,
       "word": "宁安如梦超前营业",
@@ -819,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159444,
+      "num": 159444,
+      "word": "太阳也不是突然下山的",
+      "onboard_time": 1686975869,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159188,
       "num": 172302,
       "word": "梅西回应到中国大部分时间待在酒店",
@@ -833,14 +889,6 @@
       "onboard_time": 1686970486,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158848,
-      "num": 260764,
-      "word": "135名中考生身份证被洪水冲走",
-      "onboard_time": 1686975272,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 155992,
@@ -889,6 +937,14 @@
       "onboard_time": 1686964708,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148325,
+      "num": 148325,
+      "word": "拍照姿势是从小和吉祥物学的",
+      "onboard_time": 1686975031,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 148276,

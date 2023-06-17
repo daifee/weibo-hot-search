@@ -1,0 +1,410 @@
+{
+  "runTime": 1686976421954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7242383,
+        "num": 7242383,
+        "word": "四级",
+        "onboard_time": 1686973533,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1366758,
+        "num": 1366758,
+        "word": "四级作文",
+        "onboard_time": 1686971487,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5008,
+        "num": 1281920,
+        "word": "硬核科技铺就万桥飞架新坦途",
+        "onboard_time": 1686919467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249527,
+        "num": 1249527,
+        "word": "迪丽热巴照片有热带鱼表情",
+        "onboard_time": 1686968607,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1177267,
+        "num": 1177267,
+        "word": "四级翻译 难",
+        "onboard_time": 1686973351,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2098301,
+        "num": 1176025,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1155350,
+        "num": 1155350,
+        "word": "四级答案",
+        "onboard_time": 1686972991,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 911127,
+        "num": 911127,
+        "word": "男子受托帮接小孩未接上致孩子溺亡",
+        "onboard_time": 1686971607,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719813,
+        "num": 719813,
+        "word": "男子健身房内去世前向私教求救",
+        "onboard_time": 1686966627,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659904,
+        "num": 659904,
+        "word": "陈宏军居然出轨了",
+        "onboard_time": 1686975330,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854555,
+        "num": 643336,
+        "word": "杨洋 新郎",
+        "onboard_time": 1686963385,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 616266,
+        "num": 616266,
+        "word": "月薪几万运营总监只会管鸡毛蒜皮",
+        "onboard_time": 1686964107,
+        "rank": 11,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 548973,
+        "num": 548973,
+        "word": "同事付费坐我老公的车上下班",
+        "onboard_time": 1686962304,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 545771,
+        "num": 545771,
+        "word": "六级翻译",
+        "onboard_time": 1686972630,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 536170,
+        "num": 536170,
+        "word": "马云在东京教书",
+        "onboard_time": 1686963506,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 468765,
+        "num": 468765,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395272,
+        "num": 395272,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393117,
+        "num": 393117,
+        "word": "六公主连播易烊千玺主演电影",
+        "onboard_time": 1686970347,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382879,
+        "num": 382879,
+        "word": "王一博真的有听汪涵说的话",
+        "onboard_time": 1686971969,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372283,
+        "num": 372283,
+        "word": "舅舅私自处置孤女百万遗产被判赔130万",
+        "onboard_time": 1686962304,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732759,
+        "num": 369830,
+        "word": "林志玲泳装",
+        "onboard_time": 1686968548,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337906,
+        "num": 337906,
+        "word": "陈冠希晒照祝欧阳娜娜生日快乐",
+        "onboard_time": 1686959965,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320187,
+        "num": 320187,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320038,
+        "num": 320038,
+        "word": "男朋友今天早上提醒我化妆",
+        "onboard_time": 1686971727,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 318370,
+        "num": 318370,
+        "word": "TFBOYS是巡演吗",
+        "onboard_time": 1686965486,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291002,
+        "num": 291002,
+        "word": "床垫上的保护膜到底用不用撕",
+        "onboard_time": 1686959002,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 280148,
+        "num": 280148,
+        "word": "四六级",
+        "onboard_time": 1686959242,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255643,
+        "num": 255643,
+        "word": "梅西球迷",
+        "onboard_time": 1686975570,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250404,
+        "num": 250404,
+        "word": "备孕前千万记得拔智齿",
+        "onboard_time": 1686975450,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222029,
+        "num": 250326,
+        "word": "135名中考生身份证被洪水冲走",
+        "onboard_time": 1686975272,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250284,
+        "num": 250284,
+        "word": "四级阅读",
+        "onboard_time": 1686975152,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235632,
+        "num": 235632,
+        "word": "王宝强八角笼中首波口碑",
+        "onboard_time": 1686957319,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234645,
+        "num": 234645,
+        "word": "原著里的桑延vs剧版里的桑延",
+        "onboard_time": 1686975869,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233555,
+        "num": 233555,
+        "word": "140元一根演唱会荧光棒成本仅10元",
+        "onboard_time": 1686967167,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224847,
+        "num": 224847,
+        "word": "当妈妈以为孩子会随自己的小体型时",
+        "onboard_time": 1686961465,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210649,
+        "num": 210649,
+        "word": "李梦",
+        "onboard_time": 1686972207,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197678,
+        "num": 197678,
+        "word": "你觉得四级哪项最难",
+        "onboard_time": 1686975152,
+        "rank": 36,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 196491,
+        "num": 196491,
+        "word": "你见过最完美的户型",
+        "onboard_time": 1686927329,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195565,
+        "num": 195565,
+        "word": "谢娜李维嘉吴昕录制新综艺",
+        "onboard_time": 1686928411,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191449,
+        "num": 191449,
+        "word": "肖战李沁再回那片海",
+        "onboard_time": 1686971548,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191217,
+        "num": 191217,
+        "word": "已婚同事非要把她哥介绍给我",
+        "onboard_time": 1686974852,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 189759,
+        "num": 189759,
+        "word": "恋爱脑犯了就来看看",
+        "onboard_time": 1686975811,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 187221,
+        "num": 187221,
+        "word": "四级听力",
+        "onboard_time": 1686973471,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183799,
+        "num": 183799,
+        "word": "张雪峰新闻学之争你支持谁",
+        "onboard_time": 1686970705,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183527,
+        "num": 183527,
+        "word": "LNG",
+        "onboard_time": 1686973171,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181321,
+        "num": 182260,
+        "word": "肖春生是懂齐天的",
+        "onboard_time": 1686975690,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181752,
+        "num": 181752,
+        "word": "想感谢父母时总是刚喊出爸妈就哭了",
+        "onboard_time": 1686976110,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 170756,
+        "num": 170756,
+        "word": "不要在马路中间吵架",
+        "onboard_time": 1686976291,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159444,
+        "num": 159444,
+        "word": "太阳也不是突然下山的",
+        "onboard_time": 1686975869,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148325,
+        "num": 148325,
+        "word": "拍照姿势是从小和吉祥物学的",
+        "onboard_time": 1686975031,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见比尔盖茨#"
+    }
+  }
+}
