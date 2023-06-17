@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687025976276,
+  "endTime": 1687026827365,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -38787,6 +38787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68329,
+      "num": 68329,
+      "word": "zb1",
+      "onboard_time": 1687025896,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68216,
       "num": 1742711,
       "word": "蓝天碧水间官兵巡逻画面美如画",
@@ -39723,14 +39731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46857,
-      "num": 46857,
-      "word": "zb1",
-      "onboard_time": 1687025896,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46845,
       "num": 654674,
       "word": "辅警散步途中突遇火情翻墙救火",
@@ -39921,6 +39921,14 @@
       "onboard_time": 1685661199,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 40811,
+      "num": 40811,
+      "word": "周柏豪佛山演唱会",
+      "onboard_time": 1687023559,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 40511,
@@ -40273,6 +40281,14 @@
       "onboard_time": 1686087793,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30385,
+      "num": 40779,
+      "word": "成源",
+      "onboard_time": 1687026555,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30302,
@@ -40640,6 +40656,14 @@
       "word": "86岁和74岁的他们合力救起落水老太",
       "onboard_time": 1686886232,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13941,
+      "num": 284035,
+      "word": "哪个瞬间你发现爸爸不再年轻",
+      "onboard_time": 1687015292,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
