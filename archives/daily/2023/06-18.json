@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687022038492,
+  "endTime": 1687023236543,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251773,
+      "num": 251773,
+      "word": "西工大一班级全员34人参与重大科研",
+      "onboard_time": 1687018469,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 250900,
       "num": 250900,
       "word": "女子住酒店赤身躺床男子刷卡进入",
@@ -281,14 +289,6 @@
       "onboard_time": 1687012774,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170847,
-      "num": 170847,
-      "word": "西工大一班级全员34人参与重大科研",
-      "onboard_time": 1687018469,
-      "rank": 45,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166340,
@@ -417,6 +417,14 @@
       "onboard_time": 1687008811,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74952,
+      "num": 74940,
+      "word": "王一博让不出去的C位",
+      "onboard_time": 1687000230,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 50757,

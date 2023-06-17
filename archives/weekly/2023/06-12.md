@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/12 00:20:40 ~ 2023/06/18 01:13:58
+本榜单时间：2023/06/12 00:20:40 ~ 2023/06/18 01:33:56
 </p>
 </blockquote>
 <p>
@@ -4935,6 +4935,12 @@ TMEA阵容（热度：253278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23" target="weibo">
+西工大一班级全员34人参与重大科研（热度：251773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%23" target="weibo">
 核废水（热度：251300）
 </a>
@@ -8045,12 +8051,6 @@ NCT dream（热度：173491）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E5%8E%A6%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 杨千嬅厦门演唱会（热度：170863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E7%8F%AD%E7%BA%A7%E5%85%A8%E5%91%9834%E4%BA%BA%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E7%A7%91%E7%A0%94%23" target="weibo">
-西工大一班级全员34人参与重大科研（热度：170847）
 </a>
 </li>
 
