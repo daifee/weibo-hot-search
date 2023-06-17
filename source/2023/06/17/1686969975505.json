@@ -1,0 +1,410 @@
+{
+  "runTime": 1686969975505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421238,
+        "num": 1421238,
+        "word": "舅舅私自处置孤女百万遗产被判赔130万",
+        "onboard_time": 1686962304,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008727,
+        "num": 1008727,
+        "word": "同事付费坐我老公的车上下班",
+        "onboard_time": 1686962304,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9899,
+        "num": 895236,
+        "word": "硬核科技铺就万桥飞架新坦途",
+        "onboard_time": 1686919467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803592,
+        "num": 803592,
+        "word": "男子健身房内去世前向私教求救",
+        "onboard_time": 1686966627,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677787,
+        "num": 677787,
+        "word": "月薪几万运营总监只会管鸡毛蒜皮",
+        "onboard_time": 1686964107,
+        "rank": 4,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 637089,
+        "num": 637089,
+        "word": "床垫上的保护膜到底用不用撕",
+        "onboard_time": 1686959002,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 613742,
+        "num": 613742,
+        "word": "迪丽热巴真发了100多张自拍",
+        "onboard_time": 1686916707,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 513060,
+        "num": 513060,
+        "word": "秋瓷炫 我不是不要脸",
+        "onboard_time": 1686922169,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497659,
+        "num": 497659,
+        "word": "迪丽热巴照片有热带鱼表情",
+        "onboard_time": 1686968607,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481491,
+        "num": 481491,
+        "word": "王宝强八角笼中首波口碑",
+        "onboard_time": 1686957319,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1663832,
+        "num": 481195,
+        "word": "杨洋 新郎",
+        "onboard_time": 1686963385,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1236392,
+        "num": 480429,
+        "word": "张雪峰 我离被人搞不远了",
+        "onboard_time": 1686968367,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 871420,
+        "num": 479377,
+        "word": "马云在东京教书",
+        "onboard_time": 1686963506,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 548612,
+        "num": 478241,
+        "word": "林志玲泳装",
+        "onboard_time": 1686968548,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478099,
+        "num": 478099,
+        "word": "宋仲基 成为父亲和丈夫会失去很多工作",
+        "onboard_time": 1686918148,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468298,
+        "num": 468298,
+        "word": "陈冠希晒照祝欧阳娜娜生日快乐",
+        "onboard_time": 1686959965,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466740,
+        "num": 466740,
+        "word": "TFBOYS是巡演吗",
+        "onboard_time": 1686965486,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 421799,
+        "num": 421799,
+        "word": "主播为粉丝取快递内藏毒品被判无期",
+        "onboard_time": 1686962964,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420142,
+        "num": 420142,
+        "word": "水哥家的生态系统有多惊人",
+        "onboard_time": 1686957439,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418879,
+        "num": 418879,
+        "word": "四六级",
+        "onboard_time": 1686959242,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401511,
+        "num": 401511,
+        "word": "白鹿张凌赫",
+        "onboard_time": 1686924450,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376339,
+        "num": 376339,
+        "word": "中山一公司端午连放4天假不调休",
+        "onboard_time": 1686969749,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364613,
+        "num": 364613,
+        "word": "当妈妈以为孩子会随自己的小体型时",
+        "onboard_time": 1686961465,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 300665,
+        "num": 300665,
+        "word": "我的大腿和男朋友的大腿",
+        "onboard_time": 1686959062,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298775,
+        "num": 298775,
+        "word": "陈乔恩被青蛙求婚",
+        "onboard_time": 1686927389,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256186,
+        "num": 256186,
+        "word": "超载25倍沥青货车侧翻母子被埋身亡",
+        "onboard_time": 1686966627,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257889,
+        "num": 251504,
+        "word": "谢娜李维嘉吴昕录制新综艺",
+        "onboard_time": 1686928411,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243831,
+        "num": 243831,
+        "word": "你见过最完美的户型",
+        "onboard_time": 1686927329,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237657,
+        "num": 237657,
+        "word": "到底是谁惹了六公主",
+        "onboard_time": 1686896849,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222672,
+        "num": 222672,
+        "word": "肖战蔡徐坤赵露思微博开屏",
+        "onboard_time": 1686966028,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201996,
+        "num": 201996,
+        "word": "21岁的肖春生VS43岁的肖春生",
+        "onboard_time": 1686969147,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195861,
+        "num": 195861,
+        "word": "140元一根演唱会荧光棒成本仅10元",
+        "onboard_time": 1686967167,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195291,
+        "num": 195291,
+        "word": "我的猫把孩子生到洗衣机了",
+        "onboard_time": 1686959062,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186721,
+        "num": 186721,
+        "word": "佟晓梅不幸感染肺炎",
+        "onboard_time": 1686959603,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142879,
+        "num": 181192,
+        "word": "云南人的粽子里装着彩虹",
+        "onboard_time": 1686969806,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179792,
+        "num": 179792,
+        "word": "贾静雯不知道黄晓明的明句梗",
+        "onboard_time": 1686962304,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177427,
+        "num": 177427,
+        "word": "TFBOYS团粉喝什么",
+        "onboard_time": 1686967947,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175393,
+        "num": 175393,
+        "word": "斗罗大陆2",
+        "onboard_time": 1686968967,
+        "rank": 37,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 168856,
+        "num": 168856,
+        "word": "黄宗泽再认下去就不礼貌了",
+        "onboard_time": 1686929309,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156832,
+        "num": 156832,
+        "word": "吴昕看起来好乖啊",
+        "onboard_time": 1686966028,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153497,
+        "num": 153497,
+        "word": "姜思达卖女装",
+        "onboard_time": 1686969688,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148324,
+        "num": 148324,
+        "word": "四个月大的萌兰",
+        "onboard_time": 1686968305,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145018,
+        "num": 146547,
+        "word": "是大奶茶不是大来叉",
+        "onboard_time": 1686968548,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146522,
+        "num": 146522,
+        "word": "文旅部回应演唱会门票实名制",
+        "onboard_time": 1686960626,
+        "rank": 43,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 139444,
+        "num": 139444,
+        "word": "梦海刀刀致命",
+        "onboard_time": 1686968427,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138897,
+        "num": 138897,
+        "word": "人民教师跳10余米高桥救人",
+        "onboard_time": 1686969208,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130713,
+        "num": 130713,
+        "word": "手机屏保是你生活的意义吗",
+        "onboard_time": 1686966268,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118744,
+        "num": 118744,
+        "word": "热化了",
+        "onboard_time": 1686969567,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117775,
+        "num": 117775,
+        "word": "日警察喊求助外籍女子回中国去",
+        "onboard_time": 1686966627,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116359,
+        "num": 116359,
+        "word": "符合这几点你该离职了",
+        "onboard_time": 1686929371,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方愿同世界各国开展广泛科技创新合作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686969443397,
+  "endTime": 1686969975505,
   "band_list": [
     {
       "raw_hot": 2019476,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1641773,
+      "raw_hot": 1663832,
       "num": 521926,
       "word": "杨洋 新郎",
       "onboard_time": 1686963385,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1236392,
+      "num": 480429,
+      "word": "张雪峰 我离被人搞不远了",
+      "onboard_time": 1686968367,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 997381,
       "num": 502378,
       "word": "白鹿张凌赫",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 830971,
-      "num": 417985,
+      "num": 803592,
       "word": "男子健身房内去世前向私教求救",
       "onboard_time": 1686966627,
       "rank": 36,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 758728,
-      "num": 452994,
+      "num": 478099,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 10,
@@ -115,20 +123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 617943,
-      "num": 251655,
-      "word": "张雪峰 我离被人搞不远了",
-      "onboard_time": 1686968367,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 551817,
       "num": 551817,
       "word": "王宝强八角笼中首波口碑",
       "onboard_time": 1686957319,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 548612,
+      "num": 478241,
+      "word": "林志玲泳装",
+      "onboard_time": 1686968548,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 547769,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 519476,
-      "num": 408338,
+      "num": 421799,
       "word": "主播为粉丝取快递内藏毒品被判无期",
       "onboard_time": 1686962964,
       "rank": 30,
@@ -169,6 +177,14 @@
       "onboard_time": 1686927329,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497659,
+      "num": 497659,
+      "word": "迪丽热巴照片有热带鱼表情",
+      "onboard_time": 1686968607,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 488100,
@@ -187,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466740,
+      "num": 466740,
+      "word": "TFBOYS是巡演吗",
+      "onboard_time": 1686965486,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448484,
       "num": 388092,
       "word": "当妈妈以为孩子会随自己的小体型时",
@@ -203,14 +227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 397977,
-      "num": 397977,
-      "word": "TFBOYS是巡演吗",
-      "onboard_time": 1686965486,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 394238,
       "num": 394238,
       "word": "杜江问梅西嗯哼的签名照是真迹吗",
@@ -225,6 +241,14 @@
       "onboard_time": 1686959062,
       "rank": 14,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 376339,
+      "num": 376339,
+      "word": "中山一公司端午连放4天假不调休",
+      "onboard_time": 1686969749,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351577,
@@ -265,22 +289,6 @@
       "onboard_time": 1686916768,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 328969,
-      "num": 328969,
-      "word": "迪丽热巴照片有热带鱼表情",
-      "onboard_time": 1686968607,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 319992,
-      "num": 319992,
-      "word": "林志玲泳装",
-      "onboard_time": 1686968548,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313755,
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256186,
+      "num": 256186,
+      "word": "超载25倍沥青货车侧翻母子被埋身亡",
+      "onboard_time": 1686966627,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252530,
       "num": 252530,
       "word": "肖战蔡徐坤赵露思微博开屏",
@@ -361,14 +377,6 @@
       "onboard_time": 1686962304,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238210,
-      "num": 238210,
-      "word": "超载25倍沥青货车侧翻母子被埋身亡",
-      "onboard_time": 1686966627,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234920,
@@ -441,6 +449,14 @@
       "onboard_time": 1686966627,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201996,
+      "num": 201996,
+      "word": "21岁的肖春生VS43岁的肖春生",
+      "onboard_time": 1686969147,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 200161,
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175393,
+      "num": 175393,
+      "word": "斗罗大陆2",
+      "onboard_time": 1686968967,
+      "rank": 46,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 171904,
       "num": 171904,
       "word": "王一博抓金雨",
@@ -595,12 +619,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "21岁的肖春生VS43岁的肖春生",
-      "onboard_time": 1686969147,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 153497,
+      "num": 153497,
+      "word": "姜思达卖女装",
+      "onboard_time": 1686969688,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153144,
@@ -675,6 +699,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 142879,
+      "num": 181192,
+      "word": "云南人的粽子里装着彩虹",
+      "onboard_time": 1686969806,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142468,
       "num": 142468,
       "word": "人民教师跳10余米高桥救人",
@@ -713,14 +745,6 @@
       "onboard_time": 1686921090,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135356,
-      "num": 135356,
-      "word": "斗罗大陆2",
-      "onboard_time": 1686968967,
-      "rank": 46,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 134809,
@@ -769,6 +793,14 @@
       "onboard_time": 1686966446,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118744,
+      "num": 118744,
+      "word": "热化了",
+      "onboard_time": 1686969567,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118400,

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1686969443397,
+  "endTime": 1686969975505,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2035,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1663832,
+      "num": 521926,
+      "word": "杨洋 新郎",
+      "onboard_time": 1686963385,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1663297,
       "num": 1663297,
       "word": "肖战台词",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1685696908,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1641773,
-      "num": 521926,
-      "word": "杨洋 新郎",
-      "onboard_time": 1686963385,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1640280,
@@ -3364,7 +3364,7 @@
     },
     {
       "raw_hot": 1270148,
-      "num": 452994,
+      "num": 478099,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 12,
@@ -3585,6 +3585,14 @@
       "onboard_time": 1686531870,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1236392,
+      "num": 480429,
+      "word": "张雪峰 我离被人搞不远了",
+      "onboard_time": 1686968367,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 1235314,
@@ -6004,7 +6012,7 @@
     },
     {
       "raw_hot": 830971,
-      "num": 417985,
+      "num": 803592,
       "word": "男子健身房内去世前向私教求救",
       "onboard_time": 1686966627,
       "rank": 36,
@@ -7867,14 +7875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 617943,
-      "num": 251655,
-      "word": "张雪峰 我离被人搞不远了",
-      "onboard_time": 1686968367,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 617228,
       "num": 617228,
       "word": "刘亚仁 人间炼丹炉",
@@ -8635,6 +8635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548612,
+      "num": 478241,
+      "word": "林志玲泳装",
+      "onboard_time": 1686968548,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 548589,
       "num": 548589,
       "word": "梦中的那片海有狂飙高晓晨",
@@ -8980,7 +8988,7 @@
     },
     {
       "raw_hot": 519476,
-      "num": 408338,
+      "num": 421799,
       "word": "主播为粉丝取快递内藏毒品被判无期",
       "onboard_time": 1686962964,
       "rank": 30,
@@ -9241,6 +9249,14 @@
       "onboard_time": 1685710010,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497659,
+      "num": 497659,
+      "word": "迪丽热巴照片有热带鱼表情",
+      "onboard_time": 1686968607,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 497580,
@@ -9785,6 +9801,14 @@
       "onboard_time": 1686744868,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 466740,
+      "num": 466740,
+      "word": "TFBOYS是巡演吗",
+      "onboard_time": 1686965486,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 466731,
@@ -11171,14 +11195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397977,
-      "num": 397977,
-      "word": "TFBOYS是巡演吗",
-      "onboard_time": 1686965486,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 397660,
       "num": 397660,
       "word": "五条悟",
@@ -11681,6 +11697,14 @@
       "onboard_time": 1686883412,
       "rank": 35,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 376339,
+      "num": 376339,
+      "word": "中山一公司端午连放4天假不调休",
+      "onboard_time": 1686969749,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375986,
@@ -13403,14 +13427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328969,
-      "num": 328969,
-      "word": "迪丽热巴照片有热带鱼表情",
-      "onboard_time": 1686968607,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328570,
       "num": 328570,
       "word": "回想去年的红楼梦",
@@ -13793,14 +13809,6 @@
       "onboard_time": 1685802691,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 319992,
-      "num": 319992,
-      "word": "林志玲泳装",
-      "onboard_time": 1686968548,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 319942,
@@ -17619,6 +17627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256186,
+      "num": 256186,
+      "word": "超载25倍沥青货车侧翻母子被埋身亡",
+      "onboard_time": 1686966627,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256164,
       "num": 256164,
       "word": "赌王家族大合照",
@@ -19209,14 +19225,6 @@
       "onboard_time": 1686323131,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238210,
-      "num": 238210,
-      "word": "超载25倍沥青货车侧翻母子被埋身亡",
-      "onboard_time": 1686966627,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238172,
@@ -23177,6 +23185,14 @@
       "onboard_time": 1686574830,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201996,
+      "num": 201996,
+      "word": "21岁的肖春生VS43岁的肖春生",
+      "onboard_time": 1686969147,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 201937,
@@ -27203,6 +27219,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 175393,
+      "num": 175393,
+      "word": "斗罗大陆2",
+      "onboard_time": 1686968967,
+      "rank": 46,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 175383,
       "num": 175383,
       "word": "注册不了张z过度维权了吗",
@@ -29571,14 +29595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "21岁的肖春生VS43岁的肖春生",
-      "onboard_time": 1686969147,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155335,
       "num": 155335,
       "word": "跳槽新公司结果被辞退了",
@@ -29769,6 +29785,14 @@
       "onboard_time": 1686845548,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153497,
+      "num": 153497,
+      "word": "姜思达卖女装",
+      "onboard_time": 1686969688,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153467,
@@ -31011,6 +31035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142879,
+      "num": 181192,
+      "word": "云南人的粽子里装着彩虹",
+      "onboard_time": 1686969806,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142850,
       "num": 142850,
       "word": "绘旅人潮汐瓦解",
@@ -31929,14 +31961,6 @@
       "onboard_time": 1685707112,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135356,
-      "num": 135356,
-      "word": "斗罗大陆2",
-      "onboard_time": 1686968967,
-      "rank": 46,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 135338,
@@ -33761,6 +33785,14 @@
       "onboard_time": 1685844085,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 118744,
+      "num": 118744,
+      "word": "热化了",
+      "onboard_time": 1686969567,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118687,

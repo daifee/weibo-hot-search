@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1686969443397,
+  "endTime": 1686969975505,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -675,7 +675,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1641773,
+      "raw_hot": 1663832,
       "num": 521926,
       "word": "杨洋 新郎",
       "onboard_time": 1686963385,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 1270148,
-      "num": 452994,
+      "num": 478099,
       "word": "宋仲基 成为父亲和丈夫会失去很多工作",
       "onboard_time": 1686918148,
       "rank": 12,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1686531870,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1236392,
+      "num": 480429,
+      "word": "张雪峰 我离被人搞不远了",
+      "onboard_time": 1686968367,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 1233395,
@@ -1940,7 +1948,7 @@
     },
     {
       "raw_hot": 830971,
-      "num": 417985,
+      "num": 803592,
       "word": "男子健身房内去世前向私教求救",
       "onboard_time": 1686966627,
       "rank": 36,
@@ -2467,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 617943,
-      "num": 251655,
-      "word": "张雪峰 我离被人搞不远了",
-      "onboard_time": 1686968367,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 610115,
       "num": 610115,
       "word": "难哄",
@@ -2747,6 +2747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 548612,
+      "num": 478241,
+      "word": "林志玲泳装",
+      "onboard_time": 1686968548,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 547815,
       "num": 547815,
       "word": "EDG对战iG",
@@ -2812,7 +2820,7 @@
     },
     {
       "raw_hot": 519476,
-      "num": 408338,
+      "num": 421799,
       "word": "主播为粉丝取快递内藏毒品被判无期",
       "onboard_time": 1686962964,
       "rank": 30,
@@ -2905,6 +2913,14 @@
       "onboard_time": 1686618151,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497659,
+      "num": 497659,
+      "word": "迪丽热巴照片有热带鱼表情",
+      "onboard_time": 1686968607,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 496069,
@@ -3017,6 +3033,14 @@
       "onboard_time": 1686744868,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 466740,
+      "num": 466740,
+      "word": "TFBOYS是巡演吗",
+      "onboard_time": 1686965486,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 466613,
@@ -3427,14 +3451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 397977,
-      "num": 397977,
-      "word": "TFBOYS是巡演吗",
-      "onboard_time": 1686965486,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 395000,
       "num": 340766,
       "word": "当我出门忘关16度的空调",
@@ -3585,6 +3601,14 @@
       "onboard_time": 1686883412,
       "rank": 35,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 376339,
+      "num": 376339,
+      "word": "中山一公司端午连放4天假不调休",
+      "onboard_time": 1686969749,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375986,
@@ -4099,14 +4123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328969,
-      "num": 328969,
-      "word": "迪丽热巴照片有热带鱼表情",
-      "onboard_time": 1686968607,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328555,
       "num": 328555,
       "word": "赵露思刘宇宁或将二搭",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1686651149,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 319992,
-      "num": 319992,
-      "word": "林志玲泳装",
-      "onboard_time": 1686968548,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 319942,
@@ -5419,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256186,
+      "num": 256186,
+      "word": "超载25倍沥青货车侧翻母子被埋身亡",
+      "onboard_time": 1686966627,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255738,
       "num": 255738,
       "word": "日本核废水",
@@ -5945,14 +5961,6 @@
       "onboard_time": 1686548070,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238210,
-      "num": 238210,
-      "word": "超载25倍沥青货车侧翻母子被埋身亡",
-      "onboard_time": 1686966627,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237636,
@@ -7385,6 +7393,14 @@
       "onboard_time": 1686574830,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201996,
+      "num": 201996,
+      "word": "21岁的肖春生VS43岁的肖春生",
+      "onboard_time": 1686969147,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 201937,
@@ -8947,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175393,
+      "num": 175393,
+      "word": "斗罗大陆2",
+      "onboard_time": 1686968967,
+      "rank": 46,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 175234,
       "num": 175234,
       "word": "五条悟",
@@ -9843,14 +9867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "21岁的肖春生VS43岁的肖春生",
-      "onboard_time": 1686969147,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155335,
       "num": 155335,
       "word": "跳槽新公司结果被辞退了",
@@ -9921,6 +9937,14 @@
       "onboard_time": 1686845548,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153497,
+      "num": 153497,
+      "word": "姜思达卖女装",
+      "onboard_time": 1686969688,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153467,
@@ -10507,6 +10531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142879,
+      "num": 181192,
+      "word": "云南人的粽子里装着彩虹",
+      "onboard_time": 1686969806,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142766,
       "num": 142766,
       "word": "羊群的老大你要勇敢呀",
@@ -10985,14 +11017,6 @@
       "onboard_time": 1686828745,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135356,
-      "num": 135356,
-      "word": "斗罗大陆2",
-      "onboard_time": 1686968967,
-      "rank": 46,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 135338,
@@ -11769,6 +11793,14 @@
       "onboard_time": 1686548732,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118744,
+      "num": 118744,
+      "word": "热化了",
+      "onboard_time": 1686969567,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118409,
