@@ -1,7 +1,15 @@
 {
   "startTime": 1686932509019,
-  "endTime": 1686972819696,
+  "endTime": 1686975588800,
   "band_list": [
+    {
+      "raw_hot": 7308190,
+      "num": 7308190,
+      "word": "四级",
+      "onboard_time": 1686973533,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 4066523,
       "num": 4066523,
@@ -35,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1708029,
+      "num": 1708029,
+      "word": "四级作文",
+      "onboard_time": 1686971487,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1702217,
       "num": 1702217,
       "word": "舅舅私自处置孤女百万遗产被判赔130万",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1663832,
-      "num": 589832,
+      "num": 591350,
       "word": "杨洋 新郎",
       "onboard_time": 1686963385,
       "rank": 10,
@@ -59,12 +75,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1547476,
+      "num": 1547476,
+      "word": "四级答案",
+      "onboard_time": 1686972991,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1417518,
       "num": 1417518,
       "word": "迪丽热巴照片有热带鱼表情",
       "onboard_time": 1686968607,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1415831,
+      "num": 1415831,
+      "word": "四级翻译 难",
+      "onboard_time": 1686973351,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1297013,
@@ -81,14 +113,6 @@
       "onboard_time": 1686924450,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 969824,
-      "num": 969824,
-      "word": "四级作文",
-      "onboard_time": 1686971487,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 929461,
@@ -153,6 +177,14 @@
       "onboard_time": 1686929309,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562918,
+      "num": 562918,
+      "word": "六级翻译",
+      "onboard_time": 1686972630,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 551817,
@@ -243,12 +275,44 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 425117,
+      "num": 425117,
+      "word": "男子受托帮接小孩未接上致孩子溺亡",
+      "onboard_time": 1686971607,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399824,
+      "num": 399824,
+      "word": "六公主连播易烊千玺主演电影",
+      "onboard_time": 1686970347,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394238,
       "num": 394238,
       "word": "杜江问梅西嗯哼的签名照是真迹吗",
       "onboard_time": 1686906508,
       "rank": 7,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 381275,
+      "num": 381275,
+      "word": "王一博真的有听汪涵说的话",
+      "onboard_time": 1686971969,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 380810,
+      "num": 380810,
+      "word": "你觉得四级哪项最难",
+      "onboard_time": 1686975152,
+      "rank": 21,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 380061,
@@ -267,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379706,
-      "num": 379706,
-      "word": "六公主连播易烊千玺主演电影",
-      "onboard_time": 1686970347,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376339,
       "num": 376339,
       "word": "中山一公司端午连放4天假不调休",
@@ -284,7 +340,7 @@
     },
     {
       "raw_hot": 365125,
-      "num": 214259,
+      "num": 302698,
       "word": "男朋友今天早上提醒我化妆",
       "onboard_time": 1686971727,
       "rank": 33,
@@ -395,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259254,
+      "num": 259254,
+      "word": "四级阅读",
+      "onboard_time": 1686975152,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256186,
       "num": 256186,
       "word": "超载25倍沥青货车侧翻母子被埋身亡",
@@ -419,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249900,
+      "num": 249900,
+      "word": "四级翻译考了教育",
+      "onboard_time": 1686974313,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244467,
       "num": 244467,
       "word": "李梦",
       "onboard_time": 1686972207,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241295,
-      "num": 241295,
-      "word": "男子受托帮接小孩未接上致孩子溺亡",
-      "onboard_time": 1686971607,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234920,
@@ -467,12 +531,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223826,
+      "num": 223826,
+      "word": "140元一根演唱会荧光棒成本仅10元",
+      "onboard_time": 1686967167,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223385,
       "num": 172061,
       "word": "袁姗姗一字肩高开叉礼服",
       "onboard_time": 1686926671,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222554,
+      "num": 222554,
+      "word": "备孕前千万记得拔智齿",
+      "onboard_time": 1686975450,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 222411,
@@ -483,19 +563,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 216634,
+      "num": 216634,
+      "word": "四级听力",
+      "onboard_time": 1686973471,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 211484,
+      "num": 216848,
+      "word": "街道社区卫生服务中心打错宫颈癌疫苗",
+      "onboard_time": 1686974193,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208699,
       "num": 208699,
       "word": "孕妇高铁上突然生产众人接力救援",
       "onboard_time": 1686932067,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208323,
-      "num": 208323,
-      "word": "140元一根演唱会荧光棒成本仅10元",
-      "onboard_time": 1686967167,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -505,22 +593,6 @@
       "onboard_time": 1686926729,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205067,
-      "num": 205067,
-      "word": "六级翻译",
-      "onboard_time": 1686972630,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 204295,
-      "num": 204295,
-      "word": "王一博真的有听汪涵说的话",
-      "onboard_time": 1686971969,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 203346,
@@ -579,6 +651,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 188118,
+      "num": 188118,
+      "word": "陈宏军居然出轨了",
+      "onboard_time": 1686975330,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185955,
       "num": 185955,
       "word": "TFBOYS团粉喝什么",
@@ -611,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181904,
+      "num": 181904,
+      "word": "已婚同事非要把她哥介绍给我",
+      "onboard_time": 1686974852,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 181846,
       "num": 181846,
       "word": "安踏 欧文",
@@ -625,6 +713,14 @@
       "onboard_time": 1686930089,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178580,
+      "num": 178580,
+      "word": "LNG",
+      "onboard_time": 1686973171,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 176036,
@@ -691,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165168,
+      "num": 165168,
+      "word": "梅西球迷",
+      "onboard_time": 1686975570,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164270,
       "num": 159881,
       "word": "宁安如梦超前营业",
@@ -731,20 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158848,
+      "num": 260764,
+      "word": "135名中考生身份证被洪水冲走",
+      "onboard_time": 1686975272,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 155992,
+      "num": 155992,
+      "word": "我那显眼包谢娜",
+      "onboard_time": 1686970948,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155438,
       "num": 155438,
       "word": "腾讯游戏公布端午未成年人限玩时间",
       "onboard_time": 1686971969,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154637,
-      "num": 154637,
-      "word": "我那显眼包谢娜",
-      "onboard_time": 1686970948,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 153144,
@@ -1212,7 +1324,7 @@
     },
     {
       "raw_hot": 19381,
-      "num": 1568640,
+      "num": 1579561,
       "word": "硬核科技铺就万桥飞架新坦途",
       "onboard_time": 1686919467,
       "rank": 2,
