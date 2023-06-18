@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 11:33:35
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 12:19:34
 </p>
 </blockquote>
 <p>
@@ -1329,6 +1329,12 @@ lofter（热度：1890120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C%23" target="weibo">
+孟美岐演唱会门票两天还没卖完（热度：1870272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B8%85%E6%81%8B%E7%88%B1%23" target="weibo">
 清清恋爱（热度：1869828）
 </a>
@@ -1755,6 +1761,12 @@ Apple Vision Pro 苹果首款头显（热度：1638983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E5%8F%98%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%96%B9%E5%B0%86%E8%A2%AB%E8%BF%BD%E8%B4%A3%23" target="weibo">
+鼠头变鸭脖事件校方市场监管方将被追责（热度：1618448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
 成都七中一学生被开除（热度：1613516）
 </a>
@@ -2129,6 +2141,12 @@ Uzi复出首胜（热度：1475115）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KPOP%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23" target="weibo">
 KPOP真的来了（热度：1459438）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E8%B7%9F%E4%BD%A0%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86%E5%8D%83%E4%B8%87%E5%88%AB%E8%AF%B4%E6%B2%A1%E4%BA%8B%E4%B8%8D%E8%BE%9B%E8%8B%A6%23" target="weibo">
+领导跟你说辛苦了千万别说没事不辛苦（热度：1456610）
 </a>
 </li>
 
@@ -2753,12 +2771,6 @@ EXO是我们公司非常珍惜的艺人（热度：1267506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E6%AC%BE%23" target="weibo">
 退款（热度：1265552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E5%8F%98%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%96%B9%E5%B0%86%E8%A2%AB%E8%BF%BD%E8%B4%A3%23" target="weibo">
-鼠头变鸭脖事件校方市场监管方将被追责（热度：1265105）
 </a>
 </li>
 
@@ -3765,6 +3777,12 @@ TFBOYS十周年演唱会招商PPT（热度：1035564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23" target="weibo">
+薛之谦听谈到赵英俊强忍着眼泪（热度：1029111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%80%E4%BC%A6%E7%A5%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23" target="weibo">
 盛一伦祝迪丽热巴生日快乐（热度：1028327）
 </a>
@@ -3821,12 +3839,6 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%23" target="weibo">
 玉骨遥（热度：1018491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%AC%E8%B0%88%E5%88%B0%E8%B5%B5%E8%8B%B1%E4%BF%8A%E5%BC%BA%E5%BF%8D%E7%9D%80%E7%9C%BC%E6%B3%AA%23" target="weibo">
-薛之谦听谈到赵英俊强忍着眼泪（热度：1017713）
 </a>
 </li>
 
@@ -4491,6 +4503,12 @@ WBG零封JDG（热度：888042）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99%23" target="weibo">
+在我25岁时爸爸给我了一套房子的钥匙（热度：885911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%86%85%E5%8E%BB%E4%B8%96%E5%89%8D%E5%90%91%E7%A7%81%E6%95%99%E6%B1%82%E6%95%91%23" target="weibo">
 男子健身房内去世前向私教求救（热度：881148）
 </a>
@@ -4739,12 +4757,6 @@ S属性大爆发（热度：839997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%8F%91%E9%94%99%E4%BF%A1%E6%81%AF%E5%88%B0%E5%B7%A5%E4%BD%9C%E7%BE%A4%23" target="weibo">
 实习生发错信息到工作群（热度：839863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99%23" target="weibo">
-在我25岁时爸爸给我了一套房子的钥匙（热度：838449）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Lisa脚趾头（热度：679829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E8%BF%98%E5%9B%9E%E5%BD%92%E5%90%97%23" target="weibo">
 EXO还回归吗（热度：666139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8D%8A%E5%9C%BA1%E6%AF%940%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23" target="weibo">
-阿根廷半场1比0澳大利亚（热度：664726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%98%AFTFBOYS%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23" target="weibo">
-阿信是TFBOYS端水大师（热度：664463）
 </a>
 </li>
 
