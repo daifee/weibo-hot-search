@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687106201649,
+  "endTime": 1687108447455,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -17419,6 +17419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283647,
+      "num": 283647,
+      "word": "虞书欣丁禹兮 永夜星河",
+      "onboard_time": 1687104869,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283555,
       "num": 283555,
       "word": "第一次见YG公关部这么迅速",
@@ -18201,6 +18209,14 @@
       "onboard_time": 1686036569,
       "rank": 48,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 273018,
+      "num": 273018,
+      "word": "白轶补贴情头",
+      "onboard_time": 1687105886,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 273010,
@@ -24393,14 +24409,6 @@
       "onboard_time": 1686700166,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 214571,
-      "num": 214571,
-      "word": "虞书欣丁禹兮 永夜星河",
-      "onboard_time": 1687104869,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 214519,
@@ -33955,14 +33963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150613,
-      "num": 148459,
-      "word": "白轶补贴情头",
-      "onboard_time": 1687105886,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 150584,
       "num": 150584,
       "word": "英雄志工作人员为成毅发声",
@@ -41177,6 +41177,14 @@
       "onboard_time": 1685691086,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71849,
+      "num": 71849,
+      "word": "刘若英北京演唱会",
+      "onboard_time": 1687106726,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 71760,

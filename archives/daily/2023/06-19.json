@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687106201649,
+  "endTime": 1687108447455,
   "band_list": [
     {
       "raw_hot": 1327949,
@@ -171,12 +171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283647,
+      "num": 283647,
+      "word": "虞书欣丁禹兮 永夜星河",
+      "onboard_time": 1687104869,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279862,
       "num": 279862,
       "word": "李荣浩去了杨丞琳演唱会",
       "onboard_time": 1687100975,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273018,
+      "num": 273018,
+      "word": "白轶补贴情头",
+      "onboard_time": 1687105886,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 253035,
@@ -257,14 +273,6 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214571,
-      "num": 214571,
-      "word": "虞书欣丁禹兮 永夜星河",
-      "onboard_time": 1687104869,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 202693,
@@ -355,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150613,
-      "num": 148459,
-      "word": "白轶补贴情头",
-      "onboard_time": 1687105886,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143876,
       "num": 143876,
       "word": "等会这是猫最后一条命了",
@@ -403,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91469,
+      "num": 91469,
+      "word": "歌手演唱会价格一览",
+      "onboard_time": 1687088006,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89917,
       "num": 120857,
       "word": "广工总冠军",
@@ -411,12 +419,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89814,
+      "num": 89814,
+      "word": "千万不要在这里装洞洞鞋鞋花",
+      "onboard_time": 1687095030,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83345,
       "num": 120886,
       "word": "男子以身试险提醒别下黄河游泳",
       "onboard_time": 1687106186,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73252,
+      "num": 73252,
+      "word": "武汉暴雨",
+      "onboard_time": 1687097429,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71849,
+      "num": 71849,
+      "word": "刘若英北京演唱会",
+      "onboard_time": 1687106726,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 59530,
