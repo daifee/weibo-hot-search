@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687066414721,
+  "endTime": 1687069260846,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -787,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1734930,
+      "num": 1734930,
+      "word": "小猪崽紫",
+      "onboard_time": 1687065387,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1708029,
       "num": 1708029,
       "word": "四级作文",
@@ -987,20 +995,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1538879,
+      "num": 1538879,
+      "word": "孟美岐演唱会票价",
+      "onboard_time": 1687060887,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1536068,
       "num": 350101,
       "word": "曝一高校女寝空调限时男寝全天使用",
       "onboard_time": 1686914609,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1535599,
-      "num": 1361651,
-      "word": "孟美岐演唱会票价",
-      "onboard_time": 1687060887,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 1531824,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1686712892,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172793,
+      "num": 1172793,
+      "word": "白敬亭上小号夸自己",
+      "onboard_time": 1687067605,
+      "rank": 4,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 1170413,
@@ -2883,6 +2899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 673731,
+      "num": 585176,
+      "word": "偷偷藏不住OST阵容",
+      "onboard_time": 1687064728,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 672009,
       "num": 672009,
       "word": "小S澄清叶舒华双面人争议",
@@ -2979,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644494,
+      "num": 644494,
+      "word": "百果园回应女子团购西瓜被嘲讽",
+      "onboard_time": 1687047083,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643646,
       "num": 1225964,
       "word": "上海阿姨每天极限通勤去菜场修表",
@@ -3041,14 +3073,6 @@
       "onboard_time": 1686839729,
       "rank": 19,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 631760,
-      "num": 631760,
-      "word": "百果园回应女子团购西瓜被嘲讽",
-      "onboard_time": 1687047083,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628568,
@@ -3635,14 +3659,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 495166,
-      "num": 495166,
-      "word": "偷偷藏不住OST阵容",
-      "onboard_time": 1687064728,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 491416,
       "num": 236149,
       "word": "肖战李沁再回那片海",
@@ -3827,6 +3843,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 457017,
+      "num": 457017,
+      "word": "邓紫棋感染新冠",
+      "onboard_time": 1687068387,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 456873,
       "num": 456873,
       "word": "中新网评川大女生地铁曝光大叔",
@@ -3865,14 +3889,6 @@
       "onboard_time": 1686911187,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 453588,
-      "num": 453588,
-      "word": "小猪崽紫",
-      "onboard_time": 1687065387,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 451390,
@@ -3929,6 +3945,14 @@
       "onboard_time": 1686637286,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442350,
+      "num": 442350,
+      "word": "粉丝偷梅西袜子",
+      "onboard_time": 1687067668,
+      "rank": 12,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 442180,
@@ -5467,6 +5491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313889,
+      "num": 277370,
+      "word": "曾黎赵丽颖新剧演师徒",
+      "onboard_time": 1687065747,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313755,
       "num": 313755,
       "word": "我的大腿和男朋友的大腿",
@@ -5649,6 +5681,14 @@
       "onboard_time": 1687003950,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302773,
+      "num": 302773,
+      "word": "康康哭了",
+      "onboard_time": 1687068568,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 302652,
@@ -6169,14 +6209,6 @@
       "onboard_time": 1686889538,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277370,
-      "num": 277370,
-      "word": "曾黎赵丽颖新剧演师徒",
-      "onboard_time": 1687065747,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 277193,
@@ -7235,6 +7267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244961,
+      "num": 244961,
+      "word": "我主动说去领证男朋友的反应",
+      "onboard_time": 1687068506,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244855,
       "num": 244855,
       "word": "JonyJ巡演官宣",
@@ -7723,6 +7763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232814,
+      "num": 232814,
+      "word": "江西工职院回应鼠头相关疑问",
+      "onboard_time": 1687068326,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232008,
       "num": 232008,
       "word": "小狗没想到居然装了监控",
@@ -8185,6 +8233,14 @@
       "onboard_time": 1686712530,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223249,
+      "num": 223249,
+      "word": "蔡徐坤推镜杀",
+      "onboard_time": 1687069046,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 223191,
@@ -11827,6 +11883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164532,
+      "num": 164532,
+      "word": "浙江宣传评广州地铁事件",
+      "onboard_time": 1687065987,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164493,
       "num": 164493,
       "word": "感谢鲁U3G833",
@@ -12915,14 +12979,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 147406,
-      "num": 147406,
-      "word": "浙江宣传评广州地铁事件",
-      "onboard_time": 1687065987,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147385,
       "num": 147385,
       "word": "写论文的大学生",
@@ -13129,6 +13185,14 @@
       "onboard_time": 1687010970,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143893,
+      "num": 143893,
+      "word": "孙俪解决邓超疑问的方式",
+      "onboard_time": 1687067545,
+      "rank": 48,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 143634,

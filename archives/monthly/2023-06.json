@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687066414721,
+  "endTime": 1687069260846,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2043,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1734930,
+      "num": 1734930,
+      "word": "小猪崽紫",
+      "onboard_time": 1687065387,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1725306,
       "num": 758875,
       "word": "北京政法职业学院",
@@ -2603,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1538879,
+      "num": 1538879,
+      "word": "孟美岐演唱会票价",
+      "onboard_time": 1687060887,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1537274,
       "num": 1537274,
       "word": "徐开骋被AI换脸",
@@ -2617,14 +2633,6 @@
       "onboard_time": 1686914609,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1535599,
-      "num": 1361651,
-      "word": "孟美岐演唱会票价",
-      "onboard_time": 1687060887,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 1531824,
@@ -4177,6 +4185,14 @@
       "onboard_time": 1686006260,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172793,
+      "num": 1172793,
+      "word": "白敬亭上小号夸自己",
+      "onboard_time": 1687067605,
+      "rank": 4,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 1172134,
@@ -7907,6 +7923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 673731,
+      "num": 585176,
+      "word": "偷偷藏不住OST阵容",
+      "onboard_time": 1687064728,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673363,
       "num": 673363,
       "word": "奚梦瑶何猷君手牵手出席活动",
@@ -8155,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644494,
+      "num": 644494,
+      "word": "百果园回应女子团购西瓜被嘲讽",
+      "onboard_time": 1687047083,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643646,
       "num": 1225964,
       "word": "上海阿姨每天极限通勤去菜场修表",
@@ -8305,14 +8337,6 @@
       "onboard_time": 1686431353,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 631760,
-      "num": 631760,
-      "word": "百果园回应女子团购西瓜被嘲讽",
-      "onboard_time": 1687047083,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 631626,
@@ -10011,14 +10035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495166,
-      "num": 495166,
-      "word": "偷偷藏不住OST阵容",
-      "onboard_time": 1687064728,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 494569,
       "num": 494569,
       "word": "王鹤棣怎么又黑了",
@@ -10675,6 +10691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457017,
+      "num": 457017,
+      "word": "邓紫棋感染新冠",
+      "onboard_time": 1687068387,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 457010,
       "num": 283891,
       "word": "王东被换脸",
@@ -10745,14 +10769,6 @@
       "onboard_time": 1686911187,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 453588,
-      "num": 453588,
-      "word": "小猪崽紫",
-      "onboard_time": 1687065387,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 453090,
@@ -10945,6 +10961,14 @@
       "onboard_time": 1686637286,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442350,
+      "num": 442350,
+      "word": "粉丝偷梅西袜子",
+      "onboard_time": 1687067668,
+      "rank": 12,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 442180,
@@ -15139,6 +15163,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 313889,
+      "num": 277370,
+      "word": "曾黎赵丽颖新剧演师徒",
+      "onboard_time": 1687065747,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313866,
       "num": 313866,
       "word": "刘耀文全员加速中路透",
@@ -15737,6 +15769,14 @@
       "onboard_time": 1685692107,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 302773,
+      "num": 302773,
+      "word": "康康哭了",
+      "onboard_time": 1687068568,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 302676,
@@ -17321,14 +17361,6 @@
       "onboard_time": 1686184651,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277370,
-      "num": 277370,
-      "word": "曾黎赵丽颖新剧演师徒",
-      "onboard_time": 1687065747,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 277349,
@@ -20075,6 +20107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244961,
+      "num": 244961,
+      "word": "我主动说去领证男朋友的反应",
+      "onboard_time": 1687068506,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244895,
       "num": 244895,
       "word": "徐云",
@@ -21275,6 +21315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232814,
+      "num": 232814,
+      "word": "江西工职院回应鼠头相关疑问",
+      "onboard_time": 1687068326,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232632,
       "num": 232632,
       "word": "神舟十五号",
@@ -22409,6 +22457,14 @@
       "onboard_time": 1686321272,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223249,
+      "num": 223249,
+      "word": "蔡徐坤推镜杀",
+      "onboard_time": 1687069046,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 223191,
@@ -30731,6 +30787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164532,
+      "num": 164532,
+      "word": "浙江宣传评广州地铁事件",
+      "onboard_time": 1687065987,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164517,
       "num": 164517,
       "word": "单依纯是刘亦菲颜粉",
@@ -33155,14 +33219,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 147406,
-      "num": 147406,
-      "word": "浙江宣传评广州地铁事件",
-      "onboard_time": 1687065987,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147385,
       "num": 147385,
       "word": "写论文的大学生",
@@ -33497,6 +33553,14 @@
       "onboard_time": 1687010970,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143893,
+      "num": 143893,
+      "word": "孙俪解决邓超疑问的方式",
+      "onboard_time": 1687067545,
+      "rank": 48,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 143863,
