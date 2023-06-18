@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687079742682,
+  "endTime": 1687080818034,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1337,6 +1337,14 @@
       "onboard_time": 1685949269,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2062889,
+      "num": 2062889,
+      "word": "大四男生实习薪资1万4妈妈仰天大笑",
+      "onboard_time": 1687076488,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2062552,
@@ -2873,14 +2881,6 @@
       "onboard_time": 1686563669,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1458219,
-      "num": 1458219,
-      "word": "大四男生实习薪资1万4妈妈仰天大笑",
-      "onboard_time": 1687076488,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1456021,
@@ -4497,6 +4497,14 @@
       "onboard_time": 1686397721,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1131520,
+      "num": 1131520,
+      "word": "霸王茶姬",
+      "onboard_time": 1687078286,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 1131278,
@@ -6723,6 +6731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 808656,
+      "num": 644140,
+      "word": "公司回应发通知停聘川大毕业生",
+      "onboard_time": 1687071149,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 808416,
       "num": 808416,
       "word": "LPL006号选手Uzi重新连接",
@@ -7891,14 +7907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 693100,
-      "num": 627388,
-      "word": "公司回应发通知停聘川大毕业生",
-      "onboard_time": 1687071149,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 692090,
       "num": 692090,
       "word": "刘令姿 东方小兰花",
@@ -8259,6 +8267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649511,
+      "num": 649511,
+      "word": "高铁上情侣想换座我拒绝了",
+      "onboard_time": 1687077626,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 648312,
       "num": 648312,
       "word": "六级听力好难",
@@ -8584,6 +8600,14 @@
       "word": "大半个娱乐圈都在江苏吧",
       "onboard_time": 1686406051,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 619876,
+      "num": 619876,
+      "word": "真情侣",
+      "onboard_time": 1687077146,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -9177,14 +9201,6 @@
       "onboard_time": 1685940872,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567623,
-      "num": 567623,
-      "word": "真情侣",
-      "onboard_time": 1687077146,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 567018,
@@ -11931,14 +11947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405971,
-      "num": 405971,
-      "word": "高铁上情侣想换座我拒绝了",
-      "onboard_time": 1687077626,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405865,
       "num": 405865,
       "word": "杨幂的特长是美",
@@ -14323,6 +14331,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 335136,
+      "num": 335136,
+      "word": "鞠婧祎29岁身材管理",
+      "onboard_time": 1687079666,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334855,
       "num": 334855,
       "word": "郑业成",
@@ -16236,7 +16252,7 @@
     },
     {
       "raw_hot": 297034,
-      "num": 264116,
+      "num": 266004,
       "word": "长风渡守山河预告",
       "onboard_time": 1687069887,
       "rank": 31,
@@ -17737,14 +17753,6 @@
       "onboard_time": 1686232172,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273903,
-      "num": 273903,
-      "word": "霸王茶姬",
-      "onboard_time": 1687078286,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 273848,
@@ -20361,6 +20369,14 @@
       "onboard_time": 1686026973,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243909,
+      "num": 243909,
+      "word": "蔡徐坤美甲上有字",
+      "onboard_time": 1687076607,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 243855,
@@ -23011,14 +23027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219860,
-      "num": 219860,
-      "word": "蔡徐坤美甲上有字",
-      "onboard_time": 1687076607,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219719,
       "num": 190217,
       "word": "桃花坞",
@@ -23073,6 +23081,14 @@
       "onboard_time": 1686210213,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219438,
+      "num": 219438,
+      "word": "电影热烈首波口碑",
+      "onboard_time": 1687079607,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 219430,
@@ -24537,6 +24553,14 @@
       "onboard_time": 1686469166,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208034,
+      "num": 196628,
+      "word": "张杰链条背带",
+      "onboard_time": 1687080448,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 207871,
@@ -26531,6 +26555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194189,
+      "num": 194189,
+      "word": "夫妻结婚生子后才知彼此是兄妹",
+      "onboard_time": 1687077988,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194183,
       "num": 194183,
       "word": "千里万里 适合春晚",
@@ -27529,6 +27561,14 @@
       "onboard_time": 1686625888,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189542,
+      "num": 189542,
+      "word": "赵露思拉陈哲远口罩",
+      "onboard_time": 1687080629,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 189516,
@@ -28585,14 +28625,6 @@
       "onboard_time": 1686986128,
       "rank": 37,
       "category": "自然"
-    },
-    {
-      "raw_hot": 183591,
-      "num": 183591,
-      "word": "鞠婧祎29岁身材管理",
-      "onboard_time": 1687079666,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 183527,
@@ -29675,14 +29707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175565,
-      "num": 175565,
-      "word": "夫妻结婚生子后才知彼此是兄妹",
-      "onboard_time": 1687077988,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175437,
       "num": 142132,
       "word": "迪丽热巴拍出一个爱心",
@@ -29785,6 +29809,14 @@
       "onboard_time": 1686233372,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 174380,
+      "num": 127986,
+      "word": "你被梦海里的哪句台词打动了",
+      "onboard_time": 1687080387,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 174345,
@@ -32875,6 +32907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152028,
+      "num": 150720,
+      "word": "张杰演唱会到中场黄牛仍加价售卖",
+      "onboard_time": 1687075647,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152023,
       "num": 152023,
       "word": "脑瘫女孩得知能去上学开心大笑",
@@ -33011,12 +33051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150720,
-      "num": 150720,
-      "word": "张杰演唱会到中场黄牛仍加价售卖",
-      "onboard_time": 1687075647,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 150752,
+      "num": 126984,
+      "word": "梦海大结局终于不刀了",
+      "onboard_time": 1687080807,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 150584,
@@ -35147,14 +35187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135314,
-      "num": 135314,
-      "word": "电影热烈首波口碑",
-      "onboard_time": 1687079607,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135237,
       "num": 135237,
       "word": "王鹤棣换人主打一个出其不意",
@@ -35923,6 +35955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128619,
+      "num": 128619,
+      "word": "延边大学美食节Love Scenario",
+      "onboard_time": 1687079727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128557,
       "num": 128557,
       "word": "佛学院学生玩密室遇到吓人的念经",
@@ -36539,6 +36579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "张雪峰 朋友对报考新传的建议",
+      "onboard_time": 1687080387,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123138,
       "num": 123138,
       "word": "小学生摊前帮爸爸炒面手法娴熟",
@@ -36633,14 +36681,6 @@
       "onboard_time": 1686924510,
       "rank": 48,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 121936,
-      "num": 121936,
-      "word": "延边大学美食节Love Scenario",
-      "onboard_time": 1687079727,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121928,
@@ -39364,7 +39404,7 @@
     },
     {
       "raw_hot": 86188,
-      "num": 1127554,
+      "num": 1131484,
       "word": "世界最高坝启动大坝浇筑",
       "onboard_time": 1687074748,
       "rank": 2,

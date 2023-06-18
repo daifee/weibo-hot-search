@@ -1,0 +1,410 @@
+{
+  "runTime": 1687080818034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2062889,
+        "num": 2062889,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1131520,
+        "num": 1131520,
+        "word": "霸王茶姬",
+        "onboard_time": 1687078286,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66276,
+        "num": 1131484,
+        "word": "世界最高坝启动大坝浇筑",
+        "onboard_time": 1687074748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131461,
+        "num": 1131461,
+        "word": "东航客服回应胡兵50万积分被清零",
+        "onboard_time": 1687074867,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1038050,
+        "num": 1038050,
+        "word": "女朋友说她拍到我出轨了",
+        "onboard_time": 1687073788,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 791362,
+        "num": 791362,
+        "word": "香港名媛蔡天凤葬礼今日举行",
+        "onboard_time": 1687073306,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753138,
+        "num": 753138,
+        "word": "肖战看到宝宝的反应",
+        "onboard_time": 1687075168,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751421,
+        "num": 751421,
+        "word": "这背影居然是蔡少芬",
+        "onboard_time": 1687074447,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747583,
+        "num": 747583,
+        "word": "教育局回应奔驰在操场倒车险撞人",
+        "onboard_time": 1687070605,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649511,
+        "num": 649511,
+        "word": "高铁上情侣想换座我拒绝了",
+        "onboard_time": 1687077626,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 808656,
+        "num": 644140,
+        "word": "公司回应发通知停聘川大毕业生",
+        "onboard_time": 1687071149,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 635316,
+        "num": 635316,
+        "word": "宋佳居然这么高",
+        "onboard_time": 1687069650,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619876,
+        "num": 619876,
+        "word": "真情侣",
+        "onboard_time": 1687077146,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503555,
+        "num": 503555,
+        "word": "孟子义问郭麒麟认不认识德云社",
+        "onboard_time": 1687073966,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479425,
+        "num": 479425,
+        "word": "邓紫棋感染新冠",
+        "onboard_time": 1687068387,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439834,
+        "num": 439834,
+        "word": "领导跟你说辛苦了千万别说没事不辛苦",
+        "onboard_time": 1687058968,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422904,
+        "num": 422904,
+        "word": "康康哭了",
+        "onboard_time": 1687068568,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417208,
+        "num": 417208,
+        "word": "白敬亭上小号夸自己",
+        "onboard_time": 1687067605,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390238,
+        "num": 390238,
+        "word": "小猪崽紫",
+        "onboard_time": 1687065387,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335136,
+        "num": 335136,
+        "word": "鞠婧祎29岁身材管理",
+        "onboard_time": 1687079666,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401417,
+        "num": 328164,
+        "word": "被录取了因体检不合格被刷",
+        "onboard_time": 1687061247,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 318809,
+        "num": 318809,
+        "word": "孟美岐演唱会票价",
+        "onboard_time": 1687060887,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266004,
+        "num": 266004,
+        "word": "长风渡守山河预告",
+        "onboard_time": 1687069887,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213989,
+        "num": 255920,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248826,
+        "num": 248826,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243909,
+        "num": 243909,
+        "word": "蔡徐坤美甲上有字",
+        "onboard_time": 1687076607,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219438,
+        "num": 219438,
+        "word": "电影热烈首波口碑",
+        "onboard_time": 1687079607,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211416,
+        "num": 211416,
+        "word": "鲨我别用Victoria刀",
+        "onboard_time": 1687075769,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207186,
+        "num": 207186,
+        "word": "狮子座真的很喜欢纯爱",
+        "onboard_time": 1687075406,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 198065,
+        "num": 198065,
+        "word": "上海中考数学",
+        "onboard_time": 1687078889,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 208034,
+        "num": 196628,
+        "word": "张杰链条背带",
+        "onboard_time": 1687080448,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194189,
+        "num": 194189,
+        "word": "夫妻结婚生子后才知彼此是兄妹",
+        "onboard_time": 1687077988,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189542,
+        "num": 189542,
+        "word": "赵露思拉陈哲远口罩",
+        "onboard_time": 1687080629,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189490,
+        "num": 189490,
+        "word": "广末凉子丈夫道歉",
+        "onboard_time": 1687074266,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161858,
+        "num": 161858,
+        "word": "中美外长会谈正式开始",
+        "onboard_time": 1687071867,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180763,
+        "num": 157966,
+        "word": "向往的生活",
+        "onboard_time": 1687071328,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175343,
+        "num": 147493,
+        "word": "杨紫牛骏峰同框路透",
+        "onboard_time": 1687074807,
+        "rank": 36,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 134435,
+        "word": "Doinb想加入EDG",
+        "onboard_time": 1687071988,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128619,
+        "num": 128619,
+        "word": "延边大学美食节Love Scenario",
+        "onboard_time": 1687079727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128097,
+        "num": 128097,
+        "word": "南京Hero",
+        "onboard_time": 1687079249,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174380,
+        "num": 127986,
+        "word": "你被梦海里的哪句台词打动了",
+        "onboard_time": 1687080387,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167313,
+        "num": 127699,
+        "word": "孟美岐演唱会门票两天还没卖完",
+        "onboard_time": 1687058247,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155214,
+        "num": 127549,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1687077449,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152028,
+        "num": 127226,
+        "word": "张杰演唱会到中场黄牛仍加价售卖",
+        "onboard_time": 1687075647,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150752,
+        "num": 126984,
+        "word": "梦海大结局终于不刀了",
+        "onboard_time": 1687080807,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126976,
+        "num": 126976,
+        "word": "白轶补贴",
+        "onboard_time": 1687071087,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126521,
+        "num": 126521,
+        "word": "布林肯访华",
+        "onboard_time": 1687062387,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123156,
+        "num": 123156,
+        "word": "张雪峰 朋友对报考新传的建议",
+        "onboard_time": 1687080387,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115098,
+        "num": 115098,
+        "word": "以前接电话vs现在接电话",
+        "onboard_time": 1687077385,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111531,
+        "num": 111531,
+        "word": "热射病",
+        "onboard_time": 1687077208,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国智慧中国行#"
+    }
+  }
+}
