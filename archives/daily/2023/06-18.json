@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687094330994,
+  "endTime": 1687095221354,
   "band_list": [
     {
       "raw_hot": 2275255,
@@ -283,6 +283,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 904617,
+      "num": 904617,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 885911,
       "num": 885911,
       "word": "在我25岁时爸爸给我了一套房子的钥匙",
@@ -353,14 +361,6 @@
       "onboard_time": 1687086748,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 758716,
-      "num": 758716,
-      "word": "朴彩英四年前的发量vs现在的",
-      "onboard_time": 1687091249,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 756426,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637206,
+      "num": 617569,
+      "word": "黄渤新片6岁儿子颜值",
+      "onboard_time": 1687084588,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 631869,
       "num": 631869,
       "word": "孟子义问郭麒麟认不认识德云社",
@@ -465,14 +473,6 @@
       "onboard_time": 1687065267,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 617569,
-      "num": 617569,
-      "word": "黄渤新片6岁儿子颜值",
-      "onboard_time": 1687084588,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 589092,
@@ -731,12 +731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349865,
+      "num": 267867,
+      "word": "叶芳有新男友了",
+      "onboard_time": 1687092867,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349774,
       "num": 349774,
       "word": "牛仔裤里的小兜是干嘛用的",
       "onboard_time": 1687054825,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348190,
+      "num": 348190,
+      "word": "想提离职结果被公司辞退了",
+      "onboard_time": 1687088006,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 346290,
@@ -753,6 +769,14 @@
       "onboard_time": 1687091128,
       "rank": 21,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 342001,
+      "num": 250382,
+      "word": "肖春生老了也是个帅老头",
+      "onboard_time": 1687095030,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 336001,
@@ -779,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325060,
-      "num": 325060,
-      "word": "想提离职结果被公司辞退了",
-      "onboard_time": 1687088006,
-      "rank": 38,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 315230,
       "num": 259864,
       "word": "电影一闪一闪亮晶晶",
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313702,
+      "num": 313702,
+      "word": "收到请回复谢谢",
+      "onboard_time": 1687090769,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310172,
       "num": 310172,
       "word": "陈哲远偷吃沈月的饭",
@@ -833,14 +857,6 @@
       "onboard_time": 1687071328,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302792,
-      "num": 267867,
-      "word": "叶芳有新男友了",
-      "onboard_time": 1687092867,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 300232,
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 286074,
-      "num": 217376,
+      "num": 226155,
       "word": "孟美岐后援会称北京演唱会一切照常",
       "onboard_time": 1687091909,
       "rank": 34,
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 266902,
-      "num": 219447,
+      "num": 257639,
       "word": "大四会羡慕大一但研三不会羡慕研一",
       "onboard_time": 1687090531,
       "rank": 31,
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 259574,
-      "num": 210141,
+      "num": 224931,
       "word": "两个小朋友吵完架的不同状态",
       "onboard_time": 1687093949,
       "rank": 31,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1687052125,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249026,
+      "num": 249026,
+      "word": "千万不要在这里装洞洞鞋鞋花",
+      "onboard_time": 1687095030,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 244819,
@@ -1147,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235334,
-      "num": 235334,
-      "word": "收到请回复谢谢",
-      "onboard_time": 1687090769,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 232856,
       "num": 232856,
       "word": "RNG对战TES",
@@ -1211,6 +1227,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 227556,
+      "num": 227556,
+      "word": "中国女排vs意大利女排",
+      "onboard_time": 1687094191,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226997,
       "num": 226997,
       "word": "杨幂盘发梦回晴川",
@@ -1235,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224877,
+      "num": 224877,
+      "word": "李现米兰男装周",
+      "onboard_time": 1687094550,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 224665,
       "num": 224665,
       "word": "米兰男装周",
       "onboard_time": 1687090647,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 224239,
+      "num": 224239,
+      "word": "告五人",
+      "onboard_time": 1687094608,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 223847,
@@ -1323,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215801,
+      "num": 205899,
+      "word": "梦海最大的遗憾是没有第二部",
+      "onboard_time": 1687091189,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214900,
       "num": 269934,
       "word": "想念朱婷",
@@ -1371,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210193,
-      "num": 210193,
-      "word": "中国女排vs意大利女排",
-      "onboard_time": 1687094191,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208807,
       "num": 208807,
       "word": "京东",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1687064968,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205899,
-      "num": 205899,
-      "word": "梦海最大的遗憾是没有第二部",
-      "onboard_time": 1687091189,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 205023,
@@ -1440,6 +1472,14 @@
       "word": "男朋友冷战后给我打钱",
       "onboard_time": 1687054048,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203184,
+      "num": 203184,
+      "word": "真的别再关灯玩手机了",
+      "onboard_time": 1687094731,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -1475,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+      "onboard_time": 1687087045,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199432,
       "num": 199432,
       "word": "南京Hero",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1687053567,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 198045,
-      "num": 198045,
-      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
-      "onboard_time": 1687087045,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196858,
@@ -1595,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186465,
+      "num": 167887,
+      "word": "王鹤棣许七安",
+      "onboard_time": 1687094850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186200,
       "num": 186200,
       "word": "秦岚新剧今日开播",
@@ -1648,6 +1696,22 @@
       "word": "端午节公司发了红皮粽子",
       "onboard_time": 1687063470,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182307,
+      "num": 167612,
+      "word": "赵今麦素颜合影",
+      "onboard_time": 1687094309,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182014,
+      "num": 182014,
+      "word": "小狗真的生气了",
+      "onboard_time": 1687092751,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1763,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173060,
+      "num": 167297,
+      "word": "李现坂口健太郎同框热聊",
+      "onboard_time": 1687095150,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173021,
       "num": 173021,
       "word": "与凤行编剧也是九鹭非香",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1687077449,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168111,
+      "num": 168111,
+      "word": "Ruler卡莎",
+      "onboard_time": 1687092988,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 166896,
@@ -1947,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156251,
+      "num": 156251,
+      "word": "太瘦去医院应该挂什么科",
+      "onboard_time": 1687092751,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156110,
       "num": 156109,
       "word": "罗大佑马嘉祺跨时空合唱",
@@ -2019,14 +2107,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 151363,
-      "num": 151363,
-      "word": "Ruler卡莎",
-      "onboard_time": 1687092988,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151246,
       "num": 151246,
       "word": "瘦子说有人给他老婆发私信",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1687054709,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150278,
+      "num": 150278,
+      "word": "年轻人唯一有点把握的就是自己的单身",
+      "onboard_time": 1687093710,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 149053,
@@ -2073,6 +2161,14 @@
       "onboard_time": 1687085668,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147646,
+      "num": 147646,
+      "word": "在高中就相爱了",
+      "onboard_time": 1687095090,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 147001,
@@ -2171,22 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141576,
-      "num": 141576,
-      "word": "太瘦去医院应该挂什么科",
-      "onboard_time": 1687092751,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 141502,
-      "num": 141502,
-      "word": "年轻人唯一有点把握的就是自己的单身",
-      "onboard_time": 1687093710,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 141351,
       "num": 141351,
       "word": "填报高考志愿优先考虑什么",
@@ -2283,14 +2363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129898,
-      "num": 129898,
-      "word": "小狗真的生气了",
-      "onboard_time": 1687092751,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129805,
       "num": 129805,
       "word": "周翊然张淼怡新剧倍速发展",
@@ -2361,14 +2433,6 @@
       "onboard_time": 1687003291,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125772,
-      "num": 125772,
-      "word": "赵今麦素颜合影",
-      "onboard_time": 1687094309,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 125706,
@@ -2520,6 +2584,14 @@
       "word": "世界最高坝启动大坝浇筑",
       "onboard_time": 1687074748,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85311,
+      "num": 353611,
+      "word": "考生给执勤3天交警硬核送饮料",
+      "onboard_time": 1687093227,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2696,14 +2768,6 @@
       "word": "干涸了半个世纪的青土湖如何复活",
       "onboard_time": 1687074567,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43297,
-      "num": 345179,
-      "word": "考生给执勤3天交警硬核送饮料",
-      "onboard_time": 1687093227,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
