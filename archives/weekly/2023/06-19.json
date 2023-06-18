@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687124012960,
+  "endTime": 1687126512989,
   "band_list": [
     {
       "raw_hot": 1327949,
@@ -459,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 66528,
+      "num": 66528,
+      "word": "胡可三演白敬亭丈母娘",
+      "onboard_time": 1687123391,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59530,
       "num": 1001808,
       "word": "中国制造究竟有多牛",
@@ -483,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41570,
+      "num": 41570,
+      "word": "内蒙古城管执法中队负责人出轨女下属",
+      "onboard_time": 1687125373,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36007,
       "num": 38966,
       "word": "叶世安柳玉茹",
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23107,
+      "num": 30903,
+      "word": "如何婉转的告诉他已经上课了",
+      "onboard_time": 1687125014,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 22018,
@@ -499,15 +523,15 @@
       "category": "网红"
     },
     {
-      "raw_hot": 19082,
-      "num": 19371,
-      "word": "胡可三演白敬亭丈母娘",
-      "onboard_time": 1687123391,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 21010,
+      "num": 30903,
+      "word": "李现松弛感",
+      "onboard_time": 1687125854,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 7822,
+      "raw_hot": 9629,
       "num": 253921,
       "word": "三夏农忙正当时",
       "onboard_time": 1687097788,
