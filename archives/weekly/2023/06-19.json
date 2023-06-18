@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687126512989,
+  "endTime": 1687127611794,
   "band_list": [
     {
       "raw_hot": 1327949,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286104,
+      "num": 286104,
+      "word": "真的别再关灯玩手机了",
+      "onboard_time": 1687094731,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283647,
       "num": 283647,
       "word": "虞书欣丁禹兮 永夜星河",
@@ -209,14 +217,6 @@
       "onboard_time": 1687103968,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243539,
-      "num": 243539,
-      "word": "真的别再关灯玩手机了",
-      "onboard_time": 1687094731,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 240557,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145973,
+      "num": 145973,
+      "word": "胡可三演白敬亭丈母娘",
+      "onboard_time": 1687123391,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143876,
       "num": 143876,
       "word": "等会这是猫最后一条命了",
@@ -401,6 +409,14 @@
       "onboard_time": 1687099411,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103340,
+      "num": 103340,
+      "word": "内蒙古城管执法中队负责人出轨女下属",
+      "onboard_time": 1687125373,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91469,
@@ -459,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 66528,
-      "num": 66528,
-      "word": "胡可三演白敬亭丈母娘",
-      "onboard_time": 1687123391,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 59530,
       "num": 1001808,
       "word": "中国制造究竟有多牛",
@@ -491,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41570,
-      "num": 41570,
-      "word": "内蒙古城管执法中队负责人出轨女下属",
-      "onboard_time": 1687125373,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 50751,
+      "num": 49130,
+      "word": "如何婉转的告诉他已经上课了",
+      "onboard_time": 1687125014,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 38822,
+      "num": 38822,
+      "word": "李现松弛感",
+      "onboard_time": 1687125854,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 36007,
@@ -507,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23107,
-      "num": 30903,
-      "word": "如何婉转的告诉他已经上课了",
-      "onboard_time": 1687125014,
-      "rank": 44,
-      "category": "幽默,情感"
+      "raw_hot": 26871,
+      "num": 37068,
+      "word": "杨紫长春活动vlog",
+      "onboard_time": 1687124593,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 22018,
@@ -523,16 +539,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 21010,
-      "num": 30903,
-      "word": "李现松弛感",
-      "onboard_time": 1687125854,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 9629,
-      "num": 253921,
+      "raw_hot": 12918,
+      "num": 289231,
       "word": "三夏农忙正当时",
       "onboard_time": 1687097788,
       "rank": 2,
