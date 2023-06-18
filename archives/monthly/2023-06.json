@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687092465315,
+  "endTime": 1687094330994,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4475,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1146458,
+      "num": 356619,
+      "word": "地铁回应男子赤裸上身将女子压身下",
+      "onboard_time": 1687092751,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1146045,
       "num": 1146045,
       "word": "大黄蜂死了",
@@ -7323,6 +7331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 758716,
+      "num": 758716,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 758629,
       "num": 758629,
       "word": "胡继勇正接受公司纪委核查",
@@ -7849,6 +7865,14 @@
       "onboard_time": 1687010250,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 701237,
+      "num": 701237,
+      "word": "歌手演唱会价格一览",
+      "onboard_time": 1687088006,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 700134,
@@ -9977,14 +10001,6 @@
       "onboard_time": 1686668370,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 513333,
-      "num": 513333,
-      "word": "歌手演唱会价格一览",
-      "onboard_time": 1687088006,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 513227,
@@ -12961,6 +12977,14 @@
       "onboard_time": 1686355118,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 372120,
+      "num": 271287,
+      "word": "Lisa去看gidle演唱会了",
+      "onboard_time": 1687092207,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 372009,
@@ -16011,6 +16035,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 302792,
+      "num": 267867,
+      "word": "叶芳有新男友了",
+      "onboard_time": 1687092867,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302676,
       "num": 302676,
       "word": "没看出来徐志胜cos的是澹台烬",
@@ -17033,6 +17065,14 @@
       "onboard_time": 1685687607,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286074,
+      "num": 217376,
+      "word": "孟美岐后援会称北京演唱会一切照常",
+      "onboard_time": 1687091909,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 286071,
@@ -18195,14 +18235,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 269681,
-      "num": 269681,
-      "word": "朴彩英四年前的发量vs现在的",
-      "onboard_time": 1687091249,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 269518,
       "num": 269518,
       "word": "王鹤棣显眼包泰国版",
@@ -18404,7 +18436,7 @@
     },
     {
       "raw_hot": 266902,
-      "num": 214395,
+      "num": 219447,
       "word": "大四会羡慕大一但研三不会羡慕研一",
       "onboard_time": 1687090531,
       "rank": 31,
@@ -19009,6 +19041,14 @@
       "onboard_time": 1687068326,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259574,
+      "num": 210141,
+      "word": "两个小朋友吵完架的不同状态",
+      "onboard_time": 1687093949,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 259435,
@@ -21435,6 +21475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235334,
+      "num": 235334,
+      "word": "收到请回复谢谢",
+      "onboard_time": 1687090769,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234847,
       "num": 223223,
       "word": "肖战李沁新剧宿命感",
@@ -22681,6 +22729,14 @@
       "onboard_time": 1685867128,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225048,
+      "num": 208138,
+      "word": "陈立农 怀念小时候跟爸爸一起钓鱼",
+      "onboard_time": 1687093888,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 224886,
@@ -24251,6 +24307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212176,
+      "num": 212176,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1687092867,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212150,
       "num": 171899,
       "word": "崔杋圭长发扇子舞",
@@ -24473,6 +24537,14 @@
       "onboard_time": 1686524540,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210193,
+      "num": 210193,
+      "word": "中国女排vs意大利女排",
+      "onboard_time": 1687094191,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210141,
@@ -26019,14 +26091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199484,
-      "num": 199484,
-      "word": "孟美岐后援会称北京演唱会一切照常",
-      "onboard_time": 1687091909,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199432,
       "num": 199432,
       "word": "南京Hero",
@@ -26264,6 +26328,14 @@
       "word": "母女3人扶梯摔倒大哥跪地按停",
       "onboard_time": 1686626070,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198045,
+      "num": 198045,
+      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+      "onboard_time": 1687087045,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -29819,14 +29891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177002,
-      "num": 177002,
-      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
-      "onboard_time": 1687087045,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176984,
       "num": 176984,
       "word": "一个问号的威力",
@@ -30955,14 +31019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167834,
-      "num": 167834,
-      "word": "收到请回复谢谢",
-      "onboard_time": 1687090769,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167802,
       "num": 167802,
       "word": "如何看待校方称食堂饭菜中异物为鸭脖",
@@ -32001,14 +32057,6 @@
       "onboard_time": 1687007610,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 160693,
-      "num": 160693,
-      "word": "Lisa去看gidle演唱会了",
-      "onboard_time": 1687092207,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 160686,
@@ -33403,6 +33451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151363,
+      "num": 151363,
+      "word": "Ruler卡莎",
+      "onboard_time": 1687092988,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151339,
       "num": 141286,
       "word": "白鹿双马尾童年照",
@@ -34753,6 +34809,22 @@
       "onboard_time": 1686654029,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141576,
+      "num": 141576,
+      "word": "太瘦去医院应该挂什么科",
+      "onboard_time": 1687092751,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141502,
+      "num": 141502,
+      "word": "年轻人唯一有点把握的就是自己的单身",
+      "onboard_time": 1687093710,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 141351,
@@ -36227,6 +36299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129898,
+      "num": 129898,
+      "word": "小狗真的生气了",
+      "onboard_time": 1687092751,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129854,
       "num": 129854,
       "word": "母马深陷泥潭小马驹奔跑回家求助",
@@ -36753,6 +36833,14 @@
       "onboard_time": 1685968948,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125772,
+      "num": 125772,
+      "word": "赵今麦素颜合影",
+      "onboard_time": 1687094309,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 125732,
@@ -41937,6 +42025,14 @@
       "onboard_time": 1686086532,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 43297,
+      "num": 345179,
+      "word": "考生给执勤3天交警硬核送饮料",
+      "onboard_time": 1687093227,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42892,
