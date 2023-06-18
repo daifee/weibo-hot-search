@@ -1,0 +1,410 @@
+{
+  "runTime": 1687053190902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554138,
+        "num": 1554138,
+        "word": "父亲节",
+        "onboard_time": 1687043058,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112669,
+        "num": 1112669,
+        "word": "胡兵50万积分被东航清零",
+        "onboard_time": 1687050326,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78521,
+        "num": 1087696,
+        "word": "哪个瞬间你发现爸爸不再年轻",
+        "onboard_time": 1687015292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522055,
+        "num": 1085953,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687048884,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1068237,
+        "num": 1068237,
+        "word": "蔡徐坤虞书欣甘比母女合影",
+        "onboard_time": 1687043898,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1027753,
+        "num": 1027753,
+        "word": "半个奢侈品圈都在李宇春演唱会",
+        "onboard_time": 1687046601,
+        "rank": 5,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 835899,
+        "num": 835899,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604812,
+        "num": 604812,
+        "word": "百果园回应女子团购西瓜被嘲讽",
+        "onboard_time": 1687047083,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540117,
+        "num": 540117,
+        "word": "女子为保护儿子连刺丈夫3刀判无罪",
+        "onboard_time": 1687046963,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374222,
+        "num": 410961,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 873720,
+        "num": 410385,
+        "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+        "onboard_time": 1687049067,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595860,
+        "num": 410257,
+        "word": "在韩国比较吃香的中国女演员",
+        "onboard_time": 1687045761,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409797,
+        "num": 409797,
+        "word": "谢娜 她她她",
+        "onboard_time": 1687010250,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745863,
+        "num": 404817,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393149,
+        "num": 393149,
+        "word": "三体",
+        "onboard_time": 1687050024,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145482,
+        "num": 355342,
+        "word": "距拼多多今年618结束仅剩196天",
+        "onboard_time": 1687052125,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354007,
+        "num": 354007,
+        "word": "男子低血糖饿晕商户们霸总式投喂",
+        "onboard_time": 1687045941,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333728,
+        "num": 333728,
+        "word": "父亲节祝福",
+        "onboard_time": 1687049905,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323042,
+        "num": 323042,
+        "word": "端午公司发了3颗荔枝",
+        "onboard_time": 1687012650,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277351,
+        "num": 277351,
+        "word": "布林肯",
+        "onboard_time": 1687046122,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 577624,
+        "num": 277067,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557548,
+        "num": 276010,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538516,
+        "num": 274832,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375429,
+        "num": 274238,
+        "word": "不提穷字但一听就很穷的话",
+        "onboard_time": 1687049965,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273851,
+        "num": 273851,
+        "word": "榜一大哥是我爸",
+        "onboard_time": 1687013073,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265904,
+        "num": 265904,
+        "word": "萧敬腾方报警检测自证清白",
+        "onboard_time": 1687010012,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255596,
+        "num": 255596,
+        "word": "蔡徐坤演唱会",
+        "onboard_time": 1687051525,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237958,
+        "num": 237958,
+        "word": "海豹为了救人把整个家族都找过来",
+        "onboard_time": 1687047205,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228734,
+        "num": 228734,
+        "word": "林允儿韩剧播出",
+        "onboard_time": 1687050927,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222556,
+        "num": 222556,
+        "word": "请不要再提示我这个密码太弱了",
+        "onboard_time": 1687050024,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201099,
+        "num": 201099,
+        "word": "球迷冲进球场抱C罗",
+        "onboard_time": 1687050986,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181327,
+        "num": 181327,
+        "word": "e人与i人拍照时的区别",
+        "onboard_time": 1687047445,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179746,
+        "num": 179746,
+        "word": "粽子也有显眼包了",
+        "onboard_time": 1687050087,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159163,
+        "num": 159163,
+        "word": "因为什么删了喜欢的人",
+        "onboard_time": 1687049965,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153707,
+        "num": 153707,
+        "word": "去医院急症要自己交空调费",
+        "onboard_time": 1687051587,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143621,
+        "num": 143621,
+        "word": "这猫是不是有点过于巨大了",
+        "onboard_time": 1687014393,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142338,
+        "num": 142338,
+        "word": "浪漫医生金师傅",
+        "onboard_time": 1687052306,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127246,
+        "num": 127246,
+        "word": "六公主给胡歌红毯配仙一BGM",
+        "onboard_time": 1687050145,
+        "rank": 37,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 125189,
+        "num": 125189,
+        "word": "母亲节vs父亲节",
+        "onboard_time": 1687042815,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50272,
+        "num": 121766,
+        "word": "遭遇火灾如何安全快速逃生",
+        "onboard_time": 1687051707,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121363,
+        "num": 121363,
+        "word": "央美学生毕设将课桌翻转变秋千",
+        "onboard_time": 1687047205,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116862,
+        "num": 116862,
+        "word": "王鹤棣偷拿零食投喂丁程鑫",
+        "onboard_time": 1687044137,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110562,
+        "num": 110562,
+        "word": "这就是无缝转场天花板吗",
+        "onboard_time": 1687052367,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109248,
+        "num": 109248,
+        "word": "宁艺卓泳装随拍",
+        "onboard_time": 1687051647,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 76019,
+        "num": 108211,
+        "word": "宝宝见到爸爸1秒变脸",
+        "onboard_time": 1687048586,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107225,
+        "num": 107225,
+        "word": "黑莲花 改名永夜星河",
+        "onboard_time": 1687010970,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104757,
+        "num": 104757,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103289,
+        "num": 103289,
+        "word": "陈妍希带妈妈去看杨丞琳演唱会",
+        "onboard_time": 1687049726,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93341,
+        "num": 103273,
+        "word": "jkl",
+        "onboard_time": 1687015532,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85310,
+        "num": 103248,
+        "word": "官方邀请彭清林到淳安亚运分村疗养",
+        "onboard_time": 1687051946,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}

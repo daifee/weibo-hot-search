@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687044817780,
+  "endTime": 1687053190902,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -915,6 +915,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1554138,
+      "num": 1554138,
+      "word": "父亲节",
+      "onboard_time": 1687043058,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1547476,
       "num": 1547476,
       "word": "四级答案",
@@ -953,6 +961,14 @@
       "onboard_time": 1686799290,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1522055,
+      "num": 1085953,
+      "word": "秦岚王阳吻戏",
+      "onboard_time": 1687048884,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1519409,
@@ -1611,6 +1627,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1112669,
+      "num": 1112669,
+      "word": "胡兵50万积分被东航清零",
+      "onboard_time": 1687050326,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110952,
       "num": 1110952,
       "word": "初级会计",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1686908847,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1068237,
+      "num": 1068237,
+      "word": "蔡徐坤虞书欣甘比母女合影",
+      "onboard_time": 1687043898,
+      "rank": 11,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1065996,
@@ -1771,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034806,
-      "num": 1034806,
-      "word": "父亲节",
-      "onboard_time": 1687043058,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031231,
       "num": 1031231,
       "word": "江歌妈妈将赔偿款全额捐出",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1686648449,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1027753,
+      "num": 1027753,
+      "word": "半个奢侈品圈都在李宇春演唱会",
+      "onboard_time": 1687046601,
+      "rank": 5,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 1023354,
@@ -2139,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 873720,
+      "num": 410385,
+      "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+      "onboard_time": 1687049067,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865783,
       "num": 613318,
       "word": "郭富城方媛牵手看赛马",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1686615268,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 835899,
+      "num": 835899,
+      "word": "白敬亭宋轶今晚见",
+      "onboard_time": 1687048586,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 832155,
@@ -2971,6 +3019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 604812,
+      "num": 604812,
+      "word": "百果园回应女子团购西瓜被嘲讽",
+      "onboard_time": 1687047083,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604759,
       "num": 604759,
       "word": "天津爆炸",
@@ -2993,6 +3049,14 @@
       "onboard_time": 1686784341,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595860,
+      "num": 410257,
+      "word": "在韩国比较吃香的中国女演员",
+      "onboard_time": 1687045761,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 591969,
@@ -3089,6 +3153,14 @@
       "onboard_time": 1686736228,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577624,
+      "num": 277067,
+      "word": "入职后发现顶替怀孕同事工作",
+      "onboard_time": 1687045821,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 575089,
@@ -3281,6 +3353,14 @@
       "onboard_time": 1686904948,
       "rank": 19,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 540117,
+      "num": 540117,
+      "word": "女子为保护儿子连刺丈夫3刀判无罪",
+      "onboard_time": 1687046963,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533674,
@@ -4051,6 +4131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393149,
+      "num": 393149,
+      "word": "三体",
+      "onboard_time": 1687050024,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392513,
       "num": 392513,
       "word": "奔跑吧校服路透",
@@ -4265,6 +4353,14 @@
       "onboard_time": 1686842251,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 375429,
+      "num": 274238,
+      "word": "不提穷字但一听就很穷的话",
+      "onboard_time": 1687049965,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 373026,
@@ -4488,6 +4584,14 @@
       "word": "山西煤矿3死1伤事故监控曝光",
       "onboard_time": 1686926251,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354007,
+      "num": 354007,
+      "word": "男子低血糖饿晕商户们霸总式投喂",
+      "onboard_time": 1687045941,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -4761,6 +4865,14 @@
       "onboard_time": 1686841949,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333728,
+      "num": 333728,
+      "word": "父亲节祝福",
+      "onboard_time": 1687049905,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333409,
@@ -5803,6 +5915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277351,
+      "num": 277351,
+      "word": "布林肯",
+      "onboard_time": 1687046122,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 277193,
       "num": 277193,
       "word": "七彩猫",
@@ -6451,6 +6571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255596,
+      "num": 255596,
+      "word": "蔡徐坤演唱会",
+      "onboard_time": 1687051525,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255560,
       "num": 181024,
       "word": "aespa演唱会",
@@ -7075,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237958,
+      "num": 237958,
+      "word": "海豹为了救人把整个家族都找过来",
+      "onboard_time": 1687047205,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237683,
       "num": 237683,
       "word": "蔡徐坤香港演唱会",
@@ -7400,6 +7536,14 @@
       "word": "曾黎赵露思来现代演母女了",
       "onboard_time": 1686982889,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228734,
+      "num": 228734,
+      "word": "林允儿韩剧播出",
+      "onboard_time": 1687050927,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -7753,6 +7897,14 @@
       "onboard_time": 1686641909,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222556,
+      "num": 222556,
+      "word": "请不要再提示我这个密码太弱了",
+      "onboard_time": 1687050024,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 222411,
@@ -8619,14 +8771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204622,
-      "num": 179580,
-      "word": "蔡徐坤虞书欣甘比母女合影",
-      "onboard_time": 1687043898,
-      "rank": 11,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 204592,
       "num": 204592,
       "word": "天津中考",
@@ -8865,6 +9009,14 @@
       "onboard_time": 1686664350,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201099,
+      "num": 201099,
+      "word": "球迷冲进球场抱C罗",
+      "onboard_time": 1687050986,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 201040,
@@ -10251,6 +10403,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 181327,
+      "num": 181327,
+      "word": "e人与i人拍照时的区别",
+      "onboard_time": 1687047445,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181321,
       "num": 182260,
       "word": "肖春生是懂齐天的",
@@ -10345,6 +10505,14 @@
       "onboard_time": 1686561328,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179746,
+      "num": 179746,
+      "word": "粽子也有显眼包了",
+      "onboard_time": 1687050087,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 179713,
@@ -11435,6 +11603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159163,
+      "num": 159163,
+      "word": "因为什么删了喜欢的人",
+      "onboard_time": 1687049965,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159097,
       "num": 159097,
       "word": "vcccc",
@@ -11729,6 +11905,14 @@
       "onboard_time": 1686899488,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153707,
+      "num": 153707,
+      "word": "去医院急症要自己交空调费",
+      "onboard_time": 1687051587,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 153499,
@@ -12315,6 +12499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145482,
+      "num": 355342,
+      "word": "距拼多多今年618结束仅剩196天",
+      "onboard_time": 1687052125,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145477,
       "num": 145477,
       "word": "95后小伙每天抡15斤大锤学打铁",
@@ -12521,6 +12713,14 @@
       "onboard_time": 1686750930,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 142338,
+      "num": 142338,
+      "word": "浪漫医生金师傅",
+      "onboard_time": 1687052306,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 142255,
@@ -13196,7 +13396,7 @@
     },
     {
       "raw_hot": 132027,
-      "num": 98222,
+      "num": 116862,
       "word": "王鹤棣偷拿零食投喂丁程鑫",
       "onboard_time": 1687044137,
       "rank": 24,
@@ -13425,6 +13625,14 @@
       "onboard_time": 1686848300,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 127246,
+      "num": 127246,
+      "word": "六公主给胡歌红毯配仙一BGM",
+      "onboard_time": 1687050145,
+      "rank": 37,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 127061,
@@ -13665,6 +13873,14 @@
       "onboard_time": 1686820708,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121363,
+      "num": 121363,
+      "word": "央美学生毕设将课桌翻转变秋千",
+      "onboard_time": 1687047205,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 121353,
@@ -14115,6 +14331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110562,
+      "num": 110562,
+      "word": "这就是无缝转场天花板吗",
+      "onboard_time": 1687052367,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110245,
       "num": 110245,
       "word": "辛芷蕾话剧",
@@ -14137,6 +14361,14 @@
       "onboard_time": 1686506656,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109248,
+      "num": 109248,
+      "word": "宁艺卓泳装随拍",
+      "onboard_time": 1687051647,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 109214,
@@ -14361,6 +14593,14 @@
       "onboard_time": 1686928650,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103289,
+      "num": 103289,
+      "word": "陈妍希带妈妈去看杨丞琳演唱会",
+      "onboard_time": 1687049726,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 103188,
@@ -14771,6 +15011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85310,
+      "num": 103248,
+      "word": "官方邀请彭清林到淳安亚运分村疗养",
+      "onboard_time": 1687051946,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 85125,
       "num": 312178,
       "word": "显眼包宿舍把全寝奖状贴门口炫耀",
@@ -14883,6 +15131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78521,
+      "num": 1087696,
+      "word": "哪个瞬间你发现爸爸不再年轻",
+      "onboard_time": 1687015292,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78429,
       "num": 78429,
       "word": "肖战的肌肉隔着衣服都能看到",
@@ -14912,6 +15168,14 @@
       "word": "消防员火场废墟中寻回老人存款",
       "onboard_time": 1686504619,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76019,
+      "num": 108211,
+      "word": "宝宝见到爸爸1秒变脸",
+      "onboard_time": 1687048586,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -15243,14 +15507,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 58404,
-      "num": 575323,
-      "word": "哪个瞬间你发现爸爸不再年轻",
-      "onboard_time": 1687015292,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58206,
       "num": 810899,
       "word": "人生没有模板",
@@ -15368,6 +15624,14 @@
       "word": "卫星视角看中国治沙奇迹",
       "onboard_time": 1687015473,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50272,
+      "num": 121766,
+      "word": "遭遇火灾如何安全快速逃生",
+      "onboard_time": 1687051707,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
