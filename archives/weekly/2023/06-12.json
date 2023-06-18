@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687091483686,
+  "endTime": 1687092465315,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2015131,
+      "num": 600851,
+      "word": "专家称月入3000就算中等收入群体",
+      "onboard_time": 1687085549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1978553,
       "num": 1978553,
       "word": "快乐大本营",
@@ -795,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1744436,
-      "num": 600851,
-      "word": "专家称月入3000就算中等收入群体",
-      "onboard_time": 1687085549,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1743011,
       "num": 1743011,
       "word": "高考结束男朋友牵我的手冲出考场",
@@ -1003,6 +1003,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1559286,
+      "num": 1559286,
+      "word": "白敬亭宋轶对视没有技巧全是感情",
+      "onboard_time": 1687087287,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1554138,
       "num": 1554138,
       "word": "父亲节",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1686623486,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1431235,
-      "num": 1431235,
-      "word": "白敬亭宋轶对视没有技巧全是感情",
-      "onboard_time": 1687087287,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 1426410,
@@ -3795,6 +3795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513333,
+      "num": 513333,
+      "word": "歌手演唱会价格一览",
+      "onboard_time": 1687088006,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 513227,
       "num": 411362,
       "word": "Angelababy甜橙蝴蝶妆",
@@ -4843,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365619,
+      "num": 365619,
+      "word": "南宁地铁",
+      "onboard_time": 1687088188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365403,
       "num": 365403,
       "word": "易烊千玺易燃装置聚餐",
@@ -4865,14 +4881,6 @@
       "onboard_time": 1687014213,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364938,
-      "num": 364938,
-      "word": "南宁地铁",
-      "onboard_time": 1687088188,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364531,
@@ -4993,14 +5001,6 @@
       "onboard_time": 1686750870,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 355451,
-      "num": 355451,
-      "word": "歌手演唱会价格一览",
-      "onboard_time": 1687088006,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 355087,
@@ -5531,6 +5531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325060,
+      "num": 325060,
+      "word": "想提离职结果被公司辞退了",
+      "onboard_time": 1687088006,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 324675,
       "num": 324675,
       "word": "古偶四大白发",
@@ -6001,14 +6009,6 @@
       "onboard_time": 1687043957,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298400,
-      "num": 298400,
-      "word": "想提离职结果被公司辞退了",
-      "onboard_time": 1687088006,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 298145,
@@ -6691,6 +6691,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 269681,
+      "num": 269681,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269453,
       "num": 269453,
       "word": "广东超市里面的蟑螂气球",
@@ -6756,7 +6764,7 @@
     },
     {
       "raw_hot": 266902,
-      "num": 188112,
+      "num": 214395,
       "word": "大四会羡慕大一但研三不会羡慕研一",
       "onboard_time": 1687090531,
       "rank": 31,
@@ -6889,6 +6897,14 @@
       "onboard_time": 1686631293,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262594,
+      "num": 262594,
+      "word": "曾黎好高产啊",
+      "onboard_time": 1687087167,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 262397,
@@ -7051,6 +7067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258522,
+      "num": 258522,
+      "word": "泰迪踢掉主人长了2年的肾结石",
+      "onboard_time": 1687084349,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258384,
       "num": 258384,
       "word": "杨紫红秀杂志花絮",
@@ -7123,12 +7147,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256600,
-      "num": 256600,
-      "word": "泰迪踢掉主人长了2年的肾结石",
-      "onboard_time": 1687084349,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 256519,
+      "num": 256519,
+      "word": "JDG对战BLG",
+      "onboard_time": 1687090109,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 256518,
@@ -7329,14 +7353,6 @@
       "onboard_time": 1687018469,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 251639,
-      "num": 251639,
-      "word": "曾黎好高产啊",
-      "onboard_time": 1687087167,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 251300,
@@ -8859,6 +8875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219073,
+      "num": 219073,
+      "word": "贺红玲爱过叶国华吗",
+      "onboard_time": 1687091067,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218906,
       "num": 218906,
       "word": "我家最具有女性主义精神的是我女儿",
@@ -9195,6 +9219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213633,
+      "num": 213633,
+      "word": "李现米兰人气",
+      "onboard_time": 1687091668,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213583,
       "num": 213583,
       "word": "祖坟也得休息休息",
@@ -9419,8 +9451,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208802,
-      "num": 208802,
+      "raw_hot": 208807,
+      "num": 208807,
       "word": "京东",
       "onboard_time": 1686834566,
       "rank": 27,
@@ -9576,6 +9608,14 @@
       "word": "肖战含冰水拍戏",
       "onboard_time": 1686813086,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205899,
+      "num": 205899,
+      "word": "梦海最大的遗憾是没有第二部",
+      "onboard_time": 1687091189,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -9955,14 +9995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200235,
-      "num": 200235,
-      "word": "贺红玲爱过叶国华吗",
-      "onboard_time": 1687091067,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200161,
       "num": 200161,
       "word": "四个月大的萌兰",
@@ -10009,6 +10041,14 @@
       "onboard_time": 1686585387,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199484,
+      "num": 199484,
+      "word": "孟美岐后援会称北京演唱会一切照常",
+      "onboard_time": 1687091909,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 199432,
@@ -10777,6 +10817,14 @@
       "onboard_time": 1686975811,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 189676,
+      "num": 437296,
+      "word": "本科毕业当天她给母校捐了10万元",
+      "onboard_time": 1687089688,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189614,
@@ -11707,6 +11755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177002,
+      "num": 177002,
+      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+      "onboard_time": 1687087045,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176984,
       "num": 176984,
       "word": "一个问号的威力",
@@ -12227,6 +12283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167834,
+      "num": 167834,
+      "word": "收到请回复谢谢",
+      "onboard_time": 1687090769,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167640,
       "num": 174034,
       "word": "原来近亲不能输血",
@@ -12603,14 +12667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162653,
-      "num": 162653,
-      "word": "JDG对战BLG",
-      "onboard_time": 1687090109,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162357,
       "num": 162357,
       "word": "绵绵星球",
@@ -12729,6 +12785,14 @@
       "onboard_time": 1687007610,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160693,
+      "num": 160693,
+      "word": "Lisa去看gidle演唱会了",
+      "onboard_time": 1687092207,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 160680,
@@ -13715,6 +13779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147001,
+      "num": 147001,
+      "word": "宋亚轩变脸",
+      "onboard_time": 1687089267,
+      "rank": 43,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 146956,
       "num": 146956,
       "word": "河南警察夫妻度蜜月顺便抓3人",
@@ -13865,14 +13937,6 @@
       "onboard_time": 1686632793,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144748,
-      "num": 144748,
-      "word": "朴彩英四年前的发量vs现在的",
-      "onboard_time": 1687091249,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144243,
@@ -14627,6 +14691,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 136541,
+      "num": 136541,
+      "word": "蔡少芬回应我是美女芬",
+      "onboard_time": 1687089087,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136269,
       "num": 136269,
       "word": "DRG对战KSG",
@@ -14737,14 +14809,6 @@
       "onboard_time": 1686827547,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134238,
-      "num": 134238,
-      "word": "蔡少芬回应我是美女芬",
-      "onboard_time": 1687089087,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 133958,
@@ -15259,20 +15323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125062,
-      "num": 125062,
-      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
-      "onboard_time": 1687087045,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125059,
       "num": 125059,
       "word": "李沁哭戏主动和导演说再来一遍",
       "onboard_time": 1686488550,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124907,
+      "num": 124907,
+      "word": "我需要王鹤棣这样的朋友",
+      "onboard_time": 1687092449,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 124625,
@@ -15675,14 +15739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117896,
-      "num": 437296,
-      "word": "本科毕业当天她给母校捐了10万元",
-      "onboard_time": 1687089688,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117633,
       "num": 291082,
       "word": "袁隆平推广到非洲的杂交稻收割了",
@@ -15769,14 +15825,6 @@
       "onboard_time": 1686741208,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115147,
-      "num": 115147,
-      "word": "收到请回复谢谢",
-      "onboard_time": 1687090769,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 114228,
@@ -16153,6 +16201,14 @@
       "onboard_time": 1686928290,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103925,
+      "num": 103925,
+      "word": "福建人吃的是田鼠干",
+      "onboard_time": 1687092329,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 103822,
@@ -17363,6 +17419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44945,
+      "num": 1194092,
+      "word": "干涸了半个世纪的青土湖如何复活",
+      "onboard_time": 1687074567,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43985,
       "num": 378772,
       "word": "陈凯歌说朱一龙演志愿军动了真情",
@@ -17472,14 +17536,6 @@
       "word": "改完收货地址意识到真的毕业了",
       "onboard_time": 1686564029,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36173,
-      "num": 1194092,
-      "word": "干涸了半个世纪的青土湖如何复活",
-      "onboard_time": 1687074567,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
