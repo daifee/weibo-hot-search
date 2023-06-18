@@ -1,7 +1,15 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687054439792,
+  "endTime": 1687056904264,
   "band_list": [
+    {
+      "raw_hot": 1818817,
+      "num": 1818817,
+      "word": "胡兵50万积分被东航清零",
+      "onboard_time": 1687050326,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1601858,
       "num": 1601858,
@@ -19,14 +27,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1549131,
-      "num": 1549131,
-      "word": "胡兵50万积分被东航清零",
-      "onboard_time": 1687050326,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1522055,
       "num": 1252197,
       "word": "秦岚王阳吻戏",
@@ -35,23 +35,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1206655,
-      "num": 1206655,
+      "raw_hot": 1277248,
+      "num": 1277248,
       "word": "半个奢侈品圈都在李宇春演唱会",
       "onboard_time": 1687046601,
       "rank": 5,
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 1120649,
-      "num": 1120649,
-      "word": "蔡徐坤虞书欣甘比母女合影",
-      "onboard_time": 1687043898,
-      "rank": 11,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1091786,
+      "raw_hot": 1248939,
       "num": 485529,
       "word": "鼠头变鸭脖事件校方市场监管方将被追责",
       "onboard_time": 1687049067,
@@ -59,12 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 973039,
-      "num": 973039,
+      "raw_hot": 1142064,
+      "num": 1142064,
+      "word": "蔡徐坤虞书欣甘比母女合影",
+      "onboard_time": 1687043898,
+      "rank": 11,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 995902,
+      "num": 995902,
       "word": "白敬亭宋轶今晚见",
       "onboard_time": 1687048586,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 940238,
+      "num": 346967,
+      "word": "薛之谦听谈到赵英俊强忍着眼泪",
+      "onboard_time": 1687053505,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 932415,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 784996,
-      "num": 274832,
+      "num": 301524,
       "word": "女生称没穿内衣取外卖被骑手骚扰",
       "onboard_time": 1687009830,
       "rank": 20,
@@ -107,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 704432,
+      "num": 346441,
+      "word": "女生称洗澡后发现酒店房间有摄像头",
+      "onboard_time": 1687054167,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640943,
       "num": 640943,
       "word": "胡歌大鹏影帝双黄蛋",
@@ -115,7 +131,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 607777,
+      "raw_hot": 630338,
+      "num": 630338,
+      "word": "百果园回应女子团购西瓜被嘲讽",
+      "onboard_time": 1687047083,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619510,
       "num": 484034,
       "word": "在韩国比较吃香的中国女演员",
       "onboard_time": 1687045761,
@@ -123,16 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 604812,
-      "num": 604812,
-      "word": "百果园回应女子团购西瓜被嘲讽",
-      "onboard_time": 1687047083,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579137,
-      "num": 277067,
+      "num": 302301,
       "word": "入职后发现顶替怀孕同事工作",
       "onboard_time": 1687045821,
       "rank": 20,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520596,
+      "num": 341708,
+      "word": "在我25岁时爸爸给我了一套房子的钥匙",
+      "onboard_time": 1687054407,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 407613,
       "num": 274238,
       "word": "不提穷字但一听就很穷的话",
@@ -209,6 +233,14 @@
       "onboard_time": 1687050024,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377483,
+      "num": 360126,
+      "word": "童瑶抹胸上挂了68把钥匙",
+      "onboard_time": 1687001068,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 376170,
@@ -243,14 +275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360126,
-      "num": 360126,
-      "word": "童瑶抹胸上挂了68把钥匙",
-      "onboard_time": 1687001068,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 354007,
       "num": 354007,
       "word": "男子低血糖饿晕商户们霸总式投喂",
@@ -265,6 +289,14 @@
       "onboard_time": 1686994470,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 339272,
+      "num": 339272,
+      "word": "承欢记开机",
+      "onboard_time": 1687056087,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 335437,
@@ -291,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296953,
+      "num": 296953,
+      "word": "牛仔裤里的小兜是干嘛用的",
+      "onboard_time": 1687054825,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 296526,
+      "num": 296526,
+      "word": "陈哲远偷吃沈月的饭",
+      "onboard_time": 1687056626,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290410,
       "num": 290410,
       "word": "布林肯",
@@ -300,7 +348,7 @@
     },
     {
       "raw_hot": 277665,
-      "num": 266015,
+      "num": 268265,
       "word": "曾经的老板娘向我投了简历",
       "onboard_time": 1687053265,
       "rank": 24,
@@ -321,14 +369,6 @@
       "onboard_time": 1687011632,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 269563,
-      "num": 269563,
-      "word": "薛之谦听谈到赵英俊强忍着眼泪",
-      "onboard_time": 1687053505,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 262397,
@@ -467,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203324,
+      "num": 203324,
+      "word": "男朋友冷战后给我打钱",
+      "onboard_time": 1687054048,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198296,
       "num": 198296,
       "word": "有些人大半夜不想放下手机的样子",
@@ -539,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174514,
+      "num": 174514,
+      "word": "万妮达巡演官宣",
+      "onboard_time": 1687056206,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173094,
       "num": 165477,
       "word": "王一博黄渤跳舞",
@@ -579,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164667,
-      "num": 164667,
-      "word": "男朋友冷战后给我打钱",
-      "onboard_time": 1687054048,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164493,
       "num": 164493,
       "word": "感谢鲁U3G833",
@@ -609,6 +657,14 @@
       "onboard_time": 1687016308,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 159025,
+      "num": 159025,
+      "word": "TFBOYS十周年粉丝线下音乐会",
+      "onboard_time": 1687055067,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 158910,
@@ -635,12 +691,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149179,
-      "num": 149179,
-      "word": "女生称洗澡后发现酒店房间有摄像头",
-      "onboard_time": 1687054167,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 150423,
+      "num": 150423,
+      "word": "肖战谈梦海对自己的意义",
+      "onboard_time": 1687054709,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 148296,
@@ -675,12 +731,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141421,
-      "num": 141421,
-      "word": "在我25岁时爸爸给我了一套房子的钥匙",
-      "onboard_time": 1687054407,
-      "rank": 43,
-      "category": "情感,社会新闻"
+      "raw_hot": 142024,
+      "num": 142024,
+      "word": "山东华测集团",
+      "onboard_time": 1687056446,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 141945,
+      "num": 141945,
+      "word": "上海暴雨",
+      "onboard_time": 1687053805,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141351,
@@ -699,12 +763,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 136914,
-      "num": 136914,
-      "word": "上海暴雨",
-      "onboard_time": 1687053805,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 137304,
+      "num": 137304,
+      "word": "儿童牙科工作的治疗犬",
+      "onboard_time": 1687055966,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132027,
@@ -713,6 +777,14 @@
       "onboard_time": 1687044137,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127707,
+      "num": 127707,
+      "word": "家里不养闲猫",
+      "onboard_time": 1687055246,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 127246,
@@ -737,6 +809,14 @@
       "onboard_time": 1687047205,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 119470,
+      "num": 150031,
+      "word": "从医23年她换了一种方式守护患者",
+      "onboard_time": 1687056807,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 118151,
@@ -897,6 +977,14 @@
       "onboard_time": 1687042815,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70616,
+      "num": 127320,
+      "word": "甲亢哥见到C罗下跪膜拜",
+      "onboard_time": 1687056565,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 68987,
