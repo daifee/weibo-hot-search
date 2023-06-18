@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687077216317,
+  "endTime": 1687079742682,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1107,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1458219,
+      "num": 1458219,
+      "word": "大四男生实习薪资1万4妈妈仰天大笑",
+      "onboard_time": 1687076488,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1451284,
       "num": 1451284,
       "word": "中国唯一上榜的世界最美图书馆",
@@ -1739,6 +1747,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1100536,
+      "num": 1100536,
+      "word": "女朋友说她拍到我出轨了",
+      "onboard_time": 1687073788,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1097871,
       "num": 1097871,
       "word": "嵩山音乐节",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1686639746,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1064758,
-      "num": 1064758,
-      "word": "女朋友说她拍到我出轨了",
-      "onboard_time": 1687073788,
-      "rank": 6,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1064617,
@@ -2523,6 +2531,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 802075,
+      "num": 802075,
+      "word": "肖战看到宝宝的反应",
+      "onboard_time": 1687075168,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 799995,
       "num": 385019,
       "word": "上班上到爸妈求我辞职",
@@ -2972,7 +2988,7 @@
     },
     {
       "raw_hot": 693100,
-      "num": 617315,
+      "num": 627388,
       "word": "公司回应发通知停聘川大毕业生",
       "onboard_time": 1687071149,
       "rank": 31,
@@ -3163,6 +3179,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 631869,
+      "num": 631869,
+      "word": "孟子义问郭麒麟认不认识德云社",
+      "onboard_time": 1687073966,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628568,
       "num": 628568,
       "word": "六级阅读",
@@ -3347,14 +3371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 579417,
-      "num": 579417,
-      "word": "肖战看到宝宝的反应",
-      "onboard_time": 1687075168,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 579137,
       "num": 412373,
       "word": "入职后发现顶替怀孕同事工作",
@@ -3441,6 +3457,14 @@
       "onboard_time": 1686577408,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567623,
+      "num": 567623,
+      "word": "真情侣",
+      "onboard_time": 1687077146,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 567018,
@@ -4251,14 +4275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 411281,
-      "num": 411281,
-      "word": "孟子义问郭麒麟认不认识德云社",
-      "onboard_time": 1687073966,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410746,
       "num": 378077,
       "word": "TFBOYS的数字浪漫",
@@ -4297,6 +4313,14 @@
       "onboard_time": 1686626608,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405971,
+      "num": 405971,
+      "word": "高铁上情侣想换座我拒绝了",
+      "onboard_time": 1687077626,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 405865,
@@ -6395,6 +6419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273903,
+      "num": 273903,
+      "word": "霸王茶姬",
+      "onboard_time": 1687078286,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 273848,
       "num": 273848,
       "word": "韩国的恋爱都是谁在谈呢",
@@ -6619,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265919,
+      "num": 265919,
+      "word": "上海中考数学",
+      "onboard_time": 1687078889,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 265889,
       "num": 265889,
       "word": "EDG康康五杀",
@@ -6737,6 +6777,14 @@
       "onboard_time": 1687053567,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262374,
+      "num": 262374,
+      "word": "鲨我别用Victoria刀",
+      "onboard_time": 1687075769,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 262369,
@@ -7739,14 +7787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236585,
-      "num": 219499,
-      "word": "鲨我别用Victoria刀",
-      "onboard_time": 1687075769,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236499,
       "num": 236499,
       "word": "大叔地铁上喝斥女生强制要求让座",
@@ -8155,6 +8195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227596,
+      "num": 227596,
+      "word": "狮子座真的很喜欢纯爱",
+      "onboard_time": 1687075406,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 227295,
       "num": 227295,
       "word": "比尔盖茨",
@@ -8545,6 +8593,14 @@
       "onboard_time": 1686753750,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219860,
+      "num": 219860,
+      "word": "蔡徐坤美甲上有字",
+      "onboard_time": 1687076607,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 219581,
@@ -9179,14 +9235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208111,
-      "num": 208111,
-      "word": "大四男生实习薪资1万4妈妈仰天大笑",
-      "onboard_time": 1687076488,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 207575,
       "num": 192387,
       "word": "毛不易琅琊榜OST舞台",
@@ -9707,20 +9755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199432,
+      "num": 199432,
+      "word": "南京Hero",
+      "onboard_time": 1687079249,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199394,
       "num": 199394,
       "word": "全网找寻京A8852",
       "onboard_time": 1686790590,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199363,
-      "num": 199363,
-      "word": "狮子座真的很喜欢纯爱",
-      "onboard_time": 1687075406,
-      "rank": 31,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 199337,
@@ -10427,14 +10475,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 189689,
-      "num": 189689,
-      "word": "蔡徐坤美甲上有字",
-      "onboard_time": 1687076607,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189614,
       "num": 189614,
       "word": "凤凰传奇要进军电音届了",
@@ -10963,6 +11003,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 183591,
+      "num": 183591,
+      "word": "鞠婧祎29岁身材管理",
+      "onboard_time": 1687079666,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183527,
       "num": 183527,
       "word": "LNG",
@@ -11433,6 +11481,14 @@
       "onboard_time": 1686962606,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175565,
+      "num": 175565,
+      "word": "夫妻结婚生子后才知彼此是兄妹",
+      "onboard_time": 1687077988,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175234,
@@ -12211,6 +12267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162354,
+      "num": 162354,
+      "word": "第一位打铁花的女性",
+      "onboard_time": 1687078829,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162225,
       "num": 162225,
       "word": "拥有好运体质是什么体验",
@@ -12385,6 +12449,14 @@
       "onboard_time": 1686815489,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159192,
+      "num": 159192,
+      "word": "周杰伦上海演唱会",
+      "onboard_time": 1687077449,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 159169,
@@ -12955,6 +13027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150720,
+      "num": 150720,
+      "word": "张杰演唱会到中场黄牛仍加价售卖",
+      "onboard_time": 1687075647,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150423,
       "num": 150423,
       "word": "肖战谈梦海对自己的意义",
@@ -13043,14 +13123,6 @@
       "category": "社会新闻,动漫"
     },
     {
-      "raw_hot": 149663,
-      "num": 149663,
-      "word": "张杰演唱会到中场黄牛仍加价售卖",
-      "onboard_time": 1687075647,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149635,
       "num": 149635,
       "word": "周也在校旧照",
@@ -13113,6 +13185,14 @@
       "onboard_time": 1686811888,
       "rank": 37,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 149053,
+      "num": 149053,
+      "word": "中南财大毕业生捐出近5万奖学金",
+      "onboard_time": 1687078286,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148795,
@@ -14091,6 +14171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136753,
+      "num": 136753,
+      "word": "张真源量身高",
+      "onboard_time": 1687078468,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136740,
       "num": 136740,
       "word": "李荣浩西安演唱会",
@@ -14161,6 +14249,14 @@
       "onboard_time": 1686795927,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135314,
+      "num": 135314,
+      "word": "电影热烈首波口碑",
+      "onboard_time": 1687079607,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 135099,
@@ -14451,14 +14547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129066,
-      "num": 129066,
-      "word": "真情侣",
-      "onboard_time": 1687077146,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 128975,
       "num": 128975,
       "word": "半夜狗狗一直在叹气",
@@ -14603,6 +14691,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 127186,
+      "num": 127186,
+      "word": "热射病",
+      "onboard_time": 1687077208,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127061,
       "num": 127061,
       "word": "iG官宣beishang加入",
@@ -14649,6 +14745,14 @@
       "onboard_time": 1686997412,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125706,
+      "num": 125706,
+      "word": "以前接电话vs现在接电话",
+      "onboard_time": 1687077385,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125640,
@@ -14833,6 +14937,14 @@
       "onboard_time": 1686924510,
       "rank": 48,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 121936,
+      "num": 121936,
+      "word": "延边大学美食节Love Scenario",
+      "onboard_time": 1687079727,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121575,
@@ -15987,6 +16099,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 86188,
+      "num": 1127554,
+      "word": "世界最高坝启动大坝浇筑",
+      "onboard_time": 1687074748,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86132,
       "num": 1426991,
       "word": "边防战士带着全家福巡逻",
@@ -16081,14 +16201,6 @@
       "onboard_time": 1686694393,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82131,
-      "num": 1127554,
-      "word": "世界最高坝启动大坝浇筑",
-      "onboard_time": 1687074748,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81898,
