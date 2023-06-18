@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687073603343,
+  "endTime": 1687076376960,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -83,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1452725,
+      "num": 1452725,
+      "word": "东航客服回应胡兵50万积分被清零",
+      "onboard_time": 1687074867,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1420357,
       "num": 1420357,
       "word": "白敬亭上小号夸自己",
       "onboard_time": 1687067605,
       "rank": 4,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 1357454,
+      "num": 1357454,
+      "word": "教育局回应奔驰在操场倒车险撞人",
+      "onboard_time": 1687070605,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1277248,
@@ -163,6 +179,22 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 873550,
+      "num": 873550,
+      "word": "香港名媛蔡天凤葬礼今日举行",
+      "onboard_time": 1687073306,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862275,
+      "num": 862275,
+      "word": "女朋友说她拍到我出轨了",
+      "onboard_time": 1687073788,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 861809,
       "num": 386195,
       "word": "被录取了因体检不合格被刷",
@@ -195,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764054,
-      "num": 764054,
-      "word": "教育局回应奔驰在操场倒车险撞人",
-      "onboard_time": 1687070605,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 775499,
+      "num": 775499,
+      "word": "这背影居然是蔡少芬",
+      "onboard_time": 1687074447,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 756426,
@@ -257,6 +289,14 @@
       "onboard_time": 1687047083,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693100,
+      "num": 617315,
+      "word": "公司回应发通知停聘川大毕业生",
+      "onboard_time": 1687071149,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 673731,
@@ -379,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495592,
-      "num": 495592,
-      "word": "公司回应发通知停聘川大毕业生",
-      "onboard_time": 1687071149,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 489324,
       "num": 489324,
       "word": "看不懂pros and cons",
       "onboard_time": 1687058968,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 483828,
+      "num": 483828,
+      "word": "肖战看到宝宝的反应",
+      "onboard_time": 1687075168,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 434906,
@@ -555,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 325421,
+      "num": 325421,
+      "word": "广末凉子丈夫道歉",
+      "onboard_time": 1687074266,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315230,
       "num": 259864,
       "word": "电影一闪一闪亮晶晶",
@@ -665,6 +713,14 @@
       "onboard_time": 1687053567,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260383,
+      "num": 260383,
+      "word": "孟子义问郭麒麟认不认识德云社",
+      "onboard_time": 1687073966,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 260127,
@@ -795,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229708,
+      "num": 229708,
+      "word": "白轶补贴",
+      "onboard_time": 1687071087,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228734,
       "num": 228734,
       "word": "林允儿韩剧播出",
@@ -907,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208367,
-      "num": 208367,
-      "word": "白轶补贴",
-      "onboard_time": 1687071087,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206640,
       "num": 206640,
       "word": "EDG生死战",
@@ -963,6 +1019,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 199363,
+      "num": 199363,
+      "word": "狮子座真的很喜欢纯爱",
+      "onboard_time": 1687075406,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 198296,
       "num": 198296,
       "word": "有些人大半夜不想放下手机的样子",
@@ -985,6 +1049,14 @@
       "onboard_time": 1687062687,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192789,
+      "num": 192789,
+      "word": "鲨我别用Victoria刀",
+      "onboard_time": 1687075769,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 191793,
@@ -1075,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179986,
+      "num": 179986,
+      "word": "广末凉子",
+      "onboard_time": 1687075706,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179746,
       "num": 179746,
       "word": "粽子也有显眼包了",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1687059867,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178506,
+      "num": 178506,
+      "word": "杨紫牛骏峰同框路透",
+      "onboard_time": 1687074807,
+      "rank": 35,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 177399,
@@ -1120,6 +1208,14 @@
       "word": "王一博黄渤跳舞",
       "onboard_time": 1687011993,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173021,
+      "num": 173021,
+      "word": "与凤行编剧也是九鹭非香",
+      "onboard_time": 1687074867,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1219,19 +1315,19 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 159578,
-      "num": 159578,
-      "word": "香港名媛蔡天凤葬礼今日举行",
-      "onboard_time": 1687073306,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "有些衣服穿着穿着就变成睡衣了",
       "onboard_time": 1687017870,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158250,
+      "num": 230461,
+      "word": "被这个工作搭子整破防了",
+      "onboard_time": 1687074507,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -1291,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149663,
+      "num": 149663,
+      "word": "张杰演唱会到中场黄牛仍加价售卖",
+      "onboard_time": 1687075647,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148725,
       "num": 148725,
       "word": "汤晶媚说孟子义敖瑞鹏穿的是情侣服",
@@ -1329,6 +1433,22 @@
       "onboard_time": 1687015052,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145094,
+      "num": 145094,
+      "word": "中小学校园内该禁车吗",
+      "onboard_time": 1687075947,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 143581,
+      "num": 143581,
+      "word": "瘦子说有人给他老婆发私信",
+      "onboard_time": 1687075827,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 143509,
@@ -1403,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128381,
+      "num": 128381,
+      "word": "如何消灭蟑螂",
+      "onboard_time": 1687075348,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127707,
       "num": 127707,
       "word": "家里不养闲猫",
@@ -1425,6 +1553,14 @@
       "onboard_time": 1687050145,
       "rank": 37,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 126455,
+      "num": 126455,
+      "word": "极简人是怎么省钱的",
+      "onboard_time": 1687076247,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 126236,
@@ -1616,6 +1752,14 @@
       "word": "宝宝见到爸爸1秒变脸",
       "onboard_time": 1687048586,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72260,
+      "num": 1113198,
+      "word": "世界最高坝启动大坝浇筑",
+      "onboard_time": 1687074748,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
