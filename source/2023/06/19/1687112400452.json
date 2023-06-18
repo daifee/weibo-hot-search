@@ -1,0 +1,410 @@
+{
+  "runTime": 1687112400452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 400961,
+        "num": 400961,
+        "word": "989大学",
+        "onboard_time": 1687098270,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254169,
+        "num": 254169,
+        "word": "建议魏大勋别看",
+        "onboard_time": 1687101451,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 5760,
+        "num": 253921,
+        "word": "三夏农忙正当时",
+        "onboard_time": 1687097788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253810,
+        "num": 253810,
+        "word": "厦大新闻学教授谈张雪峰言论",
+        "onboard_time": 1687099411,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221102,
+        "num": 221102,
+        "word": "白敬亭宋轶对视没有技巧全是感情",
+        "onboard_time": 1687087287,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205421,
+        "num": 205421,
+        "word": "Jennie在舞台上走神",
+        "onboard_time": 1687097852,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192014,
+        "num": 192014,
+        "word": "迪丽热巴手滑进了梦海直播间",
+        "onboard_time": 1687089148,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 188712,
+        "num": 188712,
+        "word": "真的别再关灯玩手机了",
+        "onboard_time": 1687094731,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183061,
+        "num": 183061,
+        "word": "白轶补贴情头",
+        "onboard_time": 1687105886,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178329,
+        "num": 178329,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148201,
+        "num": 148201,
+        "word": "女朋友说她拍到我出轨了",
+        "onboard_time": 1687073788,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 142742,
+        "num": 142742,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134622,
+        "num": 134622,
+        "word": "长风渡首播反馈",
+        "onboard_time": 1687100132,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130624,
+        "num": 130624,
+        "word": "朴彩英四年前的发量vs现在的",
+        "onboard_time": 1687091249,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122363,
+        "num": 122363,
+        "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+        "onboard_time": 1687099651,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121711,
+        "num": 121711,
+        "word": "高铁上情侣想换座我拒绝了",
+        "onboard_time": 1687077626,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116201,
+        "num": 116201,
+        "word": "鞠婧祎29岁身材管理",
+        "onboard_time": 1687079666,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106926,
+        "num": 106926,
+        "word": "白桃星座",
+        "onboard_time": 1687104028,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 104769,
+        "num": 104769,
+        "word": "东航客服回应胡兵50万积分被清零",
+        "onboard_time": 1687074867,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 19409,
+        "num": 104139,
+        "word": "中国制造究竟有多牛",
+        "onboard_time": 1687097970,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104088,
+        "num": 104088,
+        "word": "长风渡",
+        "onboard_time": 1687086748,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103506,
+        "num": 103506,
+        "word": "虞书欣丁禹兮 永夜星河",
+        "onboard_time": 1687104869,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91804,
+        "num": 91804,
+        "word": "鬼灭之刃",
+        "onboard_time": 1687096828,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77600,
+        "num": 77600,
+        "word": "王阳好会亲",
+        "onboard_time": 1687099411,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74313,
+        "num": 74313,
+        "word": "清华大学vs广东工大",
+        "onboard_time": 1687095331,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69481,
+        "num": 69481,
+        "word": "相亲中的聊天记录",
+        "onboard_time": 1687097429,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 69413,
+        "num": 69413,
+        "word": "这背影居然是蔡少芬",
+        "onboard_time": 1687074447,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68568,
+        "num": 68568,
+        "word": "千万不要在这里装洞洞鞋鞋花",
+        "onboard_time": 1687095030,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65340,
+        "num": 65340,
+        "word": "歌手演唱会价格一览",
+        "onboard_time": 1687088006,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63154,
+        "num": 63154,
+        "word": "一个人爱你的最高形式",
+        "onboard_time": 1687101750,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60369,
+        "num": 60369,
+        "word": "游客称玛雅海滩水公园泳池现卫生巾",
+        "onboard_time": 1687104928,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60327,
+        "num": 60327,
+        "word": "五月天告五人",
+        "onboard_time": 1687109598,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55057,
+        "num": 55057,
+        "word": "布林肯",
+        "onboard_time": 1687100132,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 54717,
+        "num": 54717,
+        "word": "想提离职结果被公司辞退了",
+        "onboard_time": 1687088006,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 52634,
+        "num": 52634,
+        "word": "今年将出道的Kpop爱豆",
+        "onboard_time": 1687109956,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51734,
+        "num": 51734,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1687102592,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51421,
+        "num": 51421,
+        "word": "中美外长会谈结束",
+        "onboard_time": 1687100491,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 49366,
+        "num": 49366,
+        "word": "田曦薇大奉打更人",
+        "onboard_time": 1687102889,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49130,
+        "num": 49130,
+        "word": "等会这是猫最后一条命了",
+        "onboard_time": 1687103189,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48985,
+        "num": 48985,
+        "word": "18岁出考场vs23岁出考场",
+        "onboard_time": 1687101333,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 48677,
+        "num": 48677,
+        "word": "有点担心与凤行剧情了",
+        "onboard_time": 1687097550,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48001,
+        "num": 48001,
+        "word": "黑莲花攻略手册 永夜星河",
+        "onboard_time": 1687101570,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46668,
+        "num": 46668,
+        "word": "武汉暴雨",
+        "onboard_time": 1687097429,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44896,
+        "num": 44896,
+        "word": "Dream一个肖战李沁六搭",
+        "onboard_time": 1687100550,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41716,
+        "num": 41716,
+        "word": "五月天嘉宾",
+        "onboard_time": 1687098511,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40982,
+        "num": 40982,
+        "word": "李荣浩去了杨丞琳演唱会",
+        "onboard_time": 1687100975,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39137,
+        "num": 39137,
+        "word": "王鹤棣许七安",
+        "onboard_time": 1687094850,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36007,
+        "num": 38966,
+        "word": "叶世安柳玉茹",
+        "onboard_time": 1687099054,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34092,
+        "num": 38170,
+        "word": "朱婷",
+        "onboard_time": 1687103968,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32905,
+        "num": 37667,
+        "word": "王俊凯说何炅黄磊背影好孤独",
+        "onboard_time": 1687084709,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共享民族复兴伟大荣光#"
+    }
+  }
+}

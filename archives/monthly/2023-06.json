@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687109614676,
+  "endTime": 1687112400452,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -41867,6 +41867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60327,
+      "num": 60327,
+      "word": "五月天告五人",
+      "onboard_time": 1687109598,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 60137,
       "num": 60137,
       "word": "孙茜好适合红色",
@@ -42155,12 +42163,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 52955,
-      "num": 52955,
-      "word": "五月天告五人",
-      "onboard_time": 1687109598,
-      "rank": 49,
-      "category": "音乐"
+      "raw_hot": 52634,
+      "num": 52634,
+      "word": "今年将出道的Kpop爱豆",
+      "onboard_time": 1687109956,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 52508,
@@ -42785,6 +42793,14 @@
       "onboard_time": 1686564029,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36007,
+      "num": 38966,
+      "word": "叶世安柳玉茹",
+      "onboard_time": 1687099054,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 35981,
@@ -43433,6 +43449,14 @@
       "onboard_time": 1687036393,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5760,
+      "num": 253921,
+      "word": "三夏农忙正当时",
+      "onboard_time": 1687097788,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5391,
