@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687072510659,
+  "endTime": 1687073603343,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -107,6 +107,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1062099,
+      "num": 1062099,
+      "word": "宋佳居然这么高",
+      "onboard_time": 1687069650,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1029111,
       "num": 1029111,
       "word": "薛之谦听谈到赵英俊强忍着眼泪",
@@ -140,19 +148,11 @@
     },
     {
       "raw_hot": 918563,
-      "num": 541834,
+      "num": 598139,
       "word": "粉丝偷梅西袜子",
       "onboard_time": 1687067668,
       "rank": 12,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 910794,
-      "num": 910794,
-      "word": "宋佳居然这么高",
-      "onboard_time": 1687069650,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 885911,
@@ -179,11 +179,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 805855,
+      "num": 598595,
+      "word": "乐华",
+      "onboard_time": 1687071207,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784996,
       "num": 372076,
       "word": "女生称没穿内衣取外卖被骑手骚扰",
       "onboard_time": 1687009830,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764054,
+      "num": 764054,
+      "word": "教育局回应奔驰在操场倒车险撞人",
+      "onboard_time": 1687070605,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 589092,
+      "num": 589092,
+      "word": "中美外长会谈正式开始",
+      "onboard_time": 1687071867,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 587104,
       "num": 587104,
       "word": "偷偷藏不住暗恋成真预告",
@@ -315,14 +339,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 554208,
-      "num": 535825,
-      "word": "中美外长会谈正式开始",
-      "onboard_time": 1687071867,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 545797,
       "num": 545797,
       "word": "父亲节祝福",
@@ -337,14 +353,6 @@
       "onboard_time": 1687046963,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535243,
-      "num": 535243,
-      "word": "乐华",
-      "onboard_time": 1687071207,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 534304,
@@ -369,6 +377,14 @@
       "onboard_time": 1686983369,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495592,
+      "num": 495592,
+      "word": "公司回应发通知停聘川大毕业生",
+      "onboard_time": 1687071149,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 489324,
@@ -491,14 +507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 367200,
-      "num": 367200,
-      "word": "教育局回应奔驰在操场倒车险撞人",
-      "onboard_time": 1687070605,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354743,
       "num": 354743,
       "word": "网文作家拒绝魔改亲自导演",
@@ -601,14 +609,6 @@
       "onboard_time": 1687069887,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292713,
-      "num": 204848,
-      "word": "公司回应发通知停聘川大毕业生",
-      "onboard_time": 1687071149,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 287781,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242304,
+      "num": 242304,
+      "word": "陈雨菲夺赛季首冠",
+      "onboard_time": 1687073367,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238860,
       "num": 229982,
       "word": "kpop爱豆整形模板脸",
@@ -769,6 +777,14 @@
       "onboard_time": 1687058486,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232832,
+      "num": 232832,
+      "word": "Doinb想加入EDG",
+      "onboard_time": 1687071988,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 232359,
@@ -867,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214748,
+      "num": 214748,
+      "word": "向往的生活",
+      "onboard_time": 1687071328,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212390,
       "num": 272976,
       "word": "西湖偶遇卖花郎送荷花",
@@ -937,14 +961,6 @@
       "onboard_time": 1687057347,
       "rank": 45,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 199229,
-      "num": 199229,
-      "word": "向往的生活",
-      "onboard_time": 1687071328,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 198296,
@@ -1139,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171158,
-      "num": 171158,
-      "word": "Doinb想加入EDG",
-      "onboard_time": 1687071988,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166896,
       "num": 166896,
       "word": "因为什么删了喜欢的人",
@@ -1211,6 +1219,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 159578,
+      "num": 159578,
+      "word": "香港名媛蔡天凤葬礼今日举行",
+      "onboard_time": 1687073306,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "有些衣服穿着穿着就变成睡衣了",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1687054709,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148725,
+      "num": 148725,
+      "word": "汤晶媚说孟子义敖瑞鹏穿的是情侣服",
+      "onboard_time": 1687072828,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 148296,
@@ -1635,6 +1659,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 51027,
+      "num": 500305,
+      "word": "婴儿高烧40度昏迷交警紧急开道送医",
+      "onboard_time": 1687071629,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50757,
       "num": 842808,
       "word": "卫星视角看中国治沙奇迹",
@@ -1673,14 +1705,6 @@
       "onboard_time": 1687026555,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21856,
-      "num": 476305,
-      "word": "婴儿高烧40度昏迷交警紧急开道送医",
-      "onboard_time": 1687071629,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8792,

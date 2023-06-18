@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 15:15:10
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 15:33:23
 </p>
 </blockquote>
 <p>
@@ -3657,6 +3657,12 @@ Rain 街舞6（热度：1075379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23" target="weibo">
+宋佳居然这么高（热度：1062099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E7%BB%A7%E5%8B%87%23" target="weibo">
 胡继勇（热度：1061459）
 </a>
@@ -4371,12 +4377,6 @@ EDG海报空个位置（热度：945915）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E9%AB%98%23" target="weibo">
-宋佳居然这么高（热度：910794）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%A1%8C%E6%94%BF%E5%A4%A7%E5%8E%85%E5%8E%95%E6%89%80%E6%8D%A1%E5%88%B0%E5%A9%B4%E5%84%BF%23" target="weibo">
 女子在行政大厅厕所捡到婴儿（热度：910421）
 </a>
@@ -5049,6 +5049,12 @@ LNG战胜EDG（热度：806573）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%23" target="weibo">
+乐华（热度：805855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%AA%E4%BD%8D%20%E7%83%AB%E6%89%8B%23" target="weibo">
 番位 烫手（热度：804554）
 </a>
@@ -5357,6 +5363,12 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E6%99%B6%E5%AA%9A%E5%92%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%AF%B4%E4%BA%86%E4%BB%BB%E6%95%8F%E7%9A%84%E6%83%B3%E6%B3%95%23" target="weibo">
 汤晶媚和每个人都说了任敏的想法（热度：765690）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%94%E9%A9%B0%E5%9C%A8%E6%93%8D%E5%9C%BA%E5%80%92%E8%BD%A6%E9%99%A9%E6%92%9E%E4%BA%BA%23" target="weibo">
+教育局回应奔驰在操场倒车险撞人（热度：764054）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Lisa脚趾头（热度：679829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B1%89%E8%B7%AF%23" target="weibo">
 江汉路（热度：673239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF7%E5%A4%A9%E6%B6%A8%E7%B2%899%E4%B8%87%23" target="weibo">
-王玉雯7天涨粉9万（热度：672438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%BE%84%E6%B8%85%E5%8F%B6%E8%88%92%E5%8D%8E%E5%8F%8C%E9%9D%A2%E4%BA%BA%E4%BA%89%E8%AE%AE%23" target="weibo">
-小S澄清叶舒华双面人争议（热度：672009）
 </a>
 </li>
 

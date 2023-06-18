@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687072510659,
+  "endTime": 1687073603343,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1835,6 +1835,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1062099,
+      "num": 1062099,
+      "word": "宋佳居然这么高",
+      "onboard_time": 1687069650,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1058175,
       "num": 1058175,
       "word": "范丞丞 跑男真的没有剧本",
@@ -2100,7 +2108,7 @@
     },
     {
       "raw_hot": 918563,
-      "num": 541834,
+      "num": 598139,
       "word": "粉丝偷梅西袜子",
       "onboard_time": 1687067668,
       "rank": 12,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1686800127,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 910794,
-      "num": 910794,
-      "word": "宋佳居然这么高",
-      "onboard_time": 1687069650,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 910421,
@@ -2475,6 +2475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 805855,
+      "num": 598595,
+      "word": "乐华",
+      "onboard_time": 1687071207,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804046,
       "num": 804046,
       "word": "6女生写信控诉上大一研究生性剥削",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1686832886,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764054,
+      "num": 764054,
+      "word": "教育局回应奔驰在操场倒车险撞人",
+      "onboard_time": 1687070605,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 764023,
@@ -3219,6 +3235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 589092,
+      "num": 589092,
+      "word": "中美外长会谈正式开始",
+      "onboard_time": 1687071867,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 587268,
       "num": 587268,
       "word": "薛之谦说我开始找你了梅西",
@@ -3435,14 +3459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554208,
-      "num": 535825,
-      "word": "中美外长会谈正式开始",
-      "onboard_time": 1687071867,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 552957,
       "num": 552957,
       "word": "万新村",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1687046963,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535243,
-      "num": 535243,
-      "word": "乐华",
-      "onboard_time": 1687071207,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 533674,
@@ -3697,6 +3705,14 @@
       "onboard_time": 1686735447,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 495592,
+      "num": 495592,
+      "word": "公司回应发通知停聘川大毕业生",
+      "onboard_time": 1687071149,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 495431,
@@ -4673,14 +4689,6 @@
       "onboard_time": 1687016789,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367200,
-      "num": 367200,
-      "word": "教育局回应奔驰在操场倒车险撞人",
-      "onboard_time": 1687070605,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365403,
@@ -5913,14 +5921,6 @@
       "onboard_time": 1687000470,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292713,
-      "num": 204848,
-      "word": "公司回应发通知停聘川大毕业生",
-      "onboard_time": 1687071149,
-      "rank": 31,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 292592,
@@ -7467,6 +7467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242304,
+      "num": 242304,
+      "word": "陈雨菲夺赛季首冠",
+      "onboard_time": 1687073367,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242254,
       "num": 242254,
       "word": "哇唧唧哇新人连续三天高温室外快闪",
@@ -7817,6 +7825,14 @@
       "onboard_time": 1686565588,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232832,
+      "num": 232832,
+      "word": "Doinb想加入EDG",
+      "onboard_time": 1687071988,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 232008,
@@ -8713,6 +8729,14 @@
       "onboard_time": 1686758427,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214748,
+      "num": 214748,
+      "word": "向往的生活",
+      "onboard_time": 1686882389,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 214704,
@@ -9665,14 +9689,6 @@
       "onboard_time": 1686646826,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199229,
-      "num": 199229,
-      "word": "向往的生活",
-      "onboard_time": 1686882389,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 198890,
@@ -11531,14 +11547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171158,
-      "num": 171158,
-      "word": "Doinb想加入EDG",
-      "onboard_time": 1687071988,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171064,
       "num": 171064,
       "word": "王一博的手",
@@ -12233,6 +12241,14 @@
       "onboard_time": 1686624209,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 159578,
+      "num": 159578,
+      "word": "香港名媛蔡天凤葬礼今日举行",
+      "onboard_time": 1687073306,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159547,
@@ -12969,6 +12985,14 @@
       "onboard_time": 1686814229,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148725,
+      "num": 148725,
+      "word": "汤晶媚说孟子义敖瑞鹏穿的是情侣服",
+      "onboard_time": 1687072828,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 148614,
@@ -16403,6 +16427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51027,
+      "num": 500305,
+      "word": "婴儿高烧40度昏迷交警紧急开道送医",
+      "onboard_time": 1687071629,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51014,
       "num": 163639,
       "word": "用四川话教熊猫滑滑梯它能听懂吗",
@@ -16791,14 +16823,6 @@
       "num": 511642,
       "word": "2023高考志愿填报十问十答",
       "onboard_time": 1686544298,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21856,
-      "num": 476305,
-      "word": "婴儿高烧40度昏迷交警紧急开道送医",
-      "onboard_time": 1687071629,
       "rank": 14,
       "category": "社会新闻"
     },
