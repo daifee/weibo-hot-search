@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/18 00:35:55 ~ 2023/06/18 10:55:04
+本榜单时间：2023/06/18 00:35:55 ~ 2023/06/18 11:03:09
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23" target="weibo">
-胡兵50万积分被东航清零（热度：1818817）
+胡兵50万积分被东航清零（热度：1934437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%9B%9B%23" target="weibo">
+专四（热度：1635108）
 </a>
 </li>
 
@@ -46,7 +52,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E5%8F%98%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%A0%A1%E6%96%B9%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%96%B9%E5%B0%86%E8%A2%AB%E8%BF%BD%E8%B4%A3%23" target="weibo">
-鼠头变鸭脖事件校方市场监管方将被追责（热度：1248939）
+鼠头变鸭脖事件校方市场监管方将被追责（热度：1265105）
 </a>
 </li>
 
@@ -100,7 +106,7 @@ jkl（热度：857119）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
-女生称洗澡后发现酒店房间有摄像头（热度：704432）
+女生称洗澡后发现酒店房间有摄像头（热度：724299）
 </a>
 </li>
 
@@ -112,7 +118,7 @@ jkl（热度：857119）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9B%A2%E8%B4%AD%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%23" target="weibo">
-百果园回应女子团购西瓜被嘲讽（热度：630338）
+百果园回应女子团购西瓜被嘲讽（热度：631760）
 </a>
 </li>
 
@@ -135,6 +141,12 @@ jkl（热度：857119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99%23" target="weibo">
+在我25岁时爸爸给我了一套房子的钥匙（热度：576766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%B5%A4%E8%BA%AB%E8%BA%BA%E5%BA%8A%E7%94%B7%E5%AD%90%E5%88%B7%E5%8D%A1%E8%BF%9B%E5%85%A5%23" target="weibo">
 女子住酒店赤身躺床男子刷卡进入（热度：557548）
 </a>
@@ -143,6 +155,12 @@ jkl（热度：857119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%20%E6%B1%82%E6%B1%82%E4%BA%86%E7%BB%99%E6%88%91%E8%84%9A%E8%B6%BEp%E4%B8%AA%E7%BE%8E%E7%94%B2%23" target="weibo">
 Angelababy 求求了给我脚趾p个美甲（热度：555288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E5%BC%80%E6%9C%BA%23" target="weibo">
+承欢记开机（热度：543911）
 </a>
 </li>
 
@@ -161,12 +179,6 @@ Angelababy 求求了给我脚趾p个美甲（热度：555288）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23" target="weibo">
 一颗老鼠头为何要省级调查组才能查清（热度：523534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%88%9125%E5%B2%81%E6%97%B6%E7%88%B8%E7%88%B8%E7%BB%99%E6%88%91%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%92%A5%E5%8C%99%23" target="weibo">
-在我25岁时爸爸给我了一套房子的钥匙（热度：520596）
 </a>
 </li>
 
@@ -190,7 +202,7 @@ Angelababy 求求了给我脚趾p个美甲（热度：555288）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%8A%B9%E8%83%B8%E4%B8%8A%E6%8C%82%E4%BA%8668%E6%8A%8A%E9%92%A5%E5%8C%99%23" target="weibo">
-童瑶抹胸上挂了68把钥匙（热度：377483）
+童瑶抹胸上挂了68把钥匙（热度：384333）
 </a>
 </li>
 
@@ -231,14 +243,14 @@ Jennie是前一天爬山太累了吗（热度：367377）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E5%BC%80%E6%9C%BA%23" target="weibo">
-承欢记开机（热度：339272）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%23" target="weibo">
+六级（热度：335437）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%23" target="weibo">
-六级（热度：335437）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E9%87%8C%E7%9A%84%E5%B0%8F%E5%85%9C%E6%98%AF%E5%B9%B2%E5%98%9B%E7%94%A8%E7%9A%84%23" target="weibo">
+牛仔裤里的小兜是干嘛用的（热度：318324）
 </a>
 </li>
 
@@ -255,12 +267,6 @@ Jennie是前一天爬山太累了吗（热度：367377）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E9%87%8C%E7%9A%84%E5%B0%8F%E5%85%9C%E6%98%AF%E5%B9%B2%E5%98%9B%E7%94%A8%E7%9A%84%23" target="weibo">
-牛仔裤里的小兜是干嘛用的（热度：296953）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%81%B7%E5%90%83%E6%B2%88%E6%9C%88%E7%9A%84%E9%A5%AD%23" target="weibo">
 陈哲远偷吃沈月的饭（热度：296526）
 </a>
@@ -268,7 +274,7 @@ Jennie是前一天爬山太累了吗（热度：367377）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%23" target="weibo">
-布林肯（热度：290410）
+布林肯（热度：296436）
 </a>
 </li>
 
@@ -453,6 +459,12 @@ e人与i人拍照时的区别（热度：181327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%8D%8E%E6%B5%8B%E9%9B%86%E5%9B%A2%23" target="weibo">
+山东华测集团（热度：176251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%A6%AE%E8%BE%BE%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%23" target="weibo">
 万妮达巡演官宣（热度：174514）
 </a>
@@ -531,6 +543,12 @@ TFBOYS十周年粉丝线下音乐会（热度：159025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%80%80%E7%9A%84%E5%A5%B9%23" target="weibo">
+闪耀的她（热度：152269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E6%A2%A6%E6%B5%B7%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
 肖战谈梦海对自己的意义（热度：150423）
 </a>
@@ -561,12 +579,6 @@ TFBOYS十周年粉丝线下音乐会（热度：159025）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%8D%8E%E6%B5%8B%E9%9B%86%E5%9B%A2%23" target="weibo">
-山东华测集团（热度：142024）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23" target="weibo">
 上海暴雨（热度：141945）
 </a>
@@ -587,6 +599,12 @@ TFBOYS十周年粉丝线下音乐会（热度：159025）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%89%99%E7%A7%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%B2%BB%E7%96%97%E7%8A%AC%23" target="weibo">
 儿童牙科工作的治疗犬（热度：137304）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%90%8C%E5%85%B0%E5%92%8C%E8%8A%B1%E8%8A%B1%E7%9A%84%E7%88%B8%E6%AF%94%E9%83%BD%E6%98%AF%E7%BE%8E%E5%85%B0%23" target="weibo">
+原来萌兰和花花的爸比都是美兰（热度：135031）
 </a>
 </li>
 
@@ -622,7 +640,7 @@ TFBOYS十周年粉丝线下音乐会（热度：159025）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%8C%BB23%E5%B9%B4%E5%A5%B9%E6%8D%A2%E4%BA%86%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%AE%88%E6%8A%A4%E6%82%A3%E8%80%85%23" target="weibo">
-从医23年她换了一种方式守护患者（热度：119470）
+从医23年她换了一种方式守护患者（热度：119490）
 </a>
 </li>
 
@@ -659,6 +677,12 @@ TES 从业者也需要提升专业能力（热度：118151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%BC%E6%A1%8C%E5%90%83%E9%A5%AD%23" target="weibo">
 不要轻易和陌生人拼桌吃饭（热度：101932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%A7%81%E5%88%B0C%E7%BD%97%E4%B8%8B%E8%B7%AA%E8%86%9C%E6%8B%9C%23" target="weibo">
+甲亢哥见到C罗下跪膜拜（热度：97817）
 </a>
 </li>
 
@@ -747,12 +771,6 @@ zb1（热度：81693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%A7%81%E5%88%B0C%E7%BD%97%E4%B8%8B%E8%B7%AA%E8%86%9C%E6%8B%9C%23" target="weibo">
-甲亢哥见到C罗下跪膜拜（热度：70616）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%98%B4%E4%B8%8A%E8%AF%B4%E4%B8%8D%E7%83%AD%E8%BA%AB%E4%BD%93%E5%8D%B4%E5%BE%88%E8%AF%9A%E5%AE%9E%23" target="weibo">
 张小斐嘴上说不热身体却很诚实（热度：68987）
 </a>
@@ -801,6 +819,12 @@ zb1（热度：81693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6%23" target="weibo">
+中国有约（热度：9995）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E6%8C%91%E8%A1%85%E9%87%8D%E5%BA%86%E7%9A%84%E5%A4%96%E5%8D%96%E5%95%86%E5%AE%B6%23" target="weibo">
 不要挑衅重庆的外卖商家（热度：8792）
 </a>
@@ -821,6 +845,12 @@ zb1（热度：81693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E7%89%88%E5%9B%BE%E4%B8%8D%E6%96%AD%E6%89%A9%E5%A4%A7%23%23" target="weibo">
 #中国的绿色版图不断扩大#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%88%B6%E4%BA%B2%E7%9A%84%E5%8F%AE%E5%92%9B%23%23" target="weibo">
+#父亲的叮咛#
 </a>
 </li>
 
