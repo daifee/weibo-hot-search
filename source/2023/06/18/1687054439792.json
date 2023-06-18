@@ -1,0 +1,410 @@
+{
+  "runTime": 1687054439792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1549131,
+        "num": 1549131,
+        "word": "胡兵50万积分被东航清零",
+        "onboard_time": 1687050326,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1263859,
+        "num": 1263859,
+        "word": "父亲节",
+        "onboard_time": 1687043058,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83796,
+        "num": 1257011,
+        "word": "哪个瞬间你发现爸爸不再年轻",
+        "onboard_time": 1687015292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252197,
+        "num": 1252197,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687048884,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1206655,
+        "num": 1206655,
+        "word": "半个奢侈品圈都在李宇春演唱会",
+        "onboard_time": 1687046601,
+        "rank": 4,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 1120649,
+        "num": 1120649,
+        "word": "蔡徐坤虞书欣甘比母女合影",
+        "onboard_time": 1687043898,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 973039,
+        "num": 973039,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524549,
+        "num": 524549,
+        "word": "百果园回应女子团购西瓜被嘲讽",
+        "onboard_time": 1687047083,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487605,
+        "num": 487605,
+        "word": "女子为保护儿子连刺丈夫3刀判无罪",
+        "onboard_time": 1687046963,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380149,
+        "num": 487457,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1091786,
+        "num": 485529,
+        "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+        "onboard_time": 1687049067,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607777,
+        "num": 484034,
+        "word": "在韩国比较吃香的中国女演员",
+        "onboard_time": 1687045761,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222688,
+        "num": 482206,
+        "word": "距拼多多今年618结束仅剩196天",
+        "onboard_time": 1687052125,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578268,
+        "num": 481339,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480437,
+        "num": 480437,
+        "word": "谢娜 她她她",
+        "onboard_time": 1687010250,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393586,
+        "num": 393586,
+        "word": "三体",
+        "onboard_time": 1687050024,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371503,
+        "num": 371503,
+        "word": "父亲节祝福",
+        "onboard_time": 1687049905,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332024,
+        "num": 332024,
+        "word": "端午公司发了3颗荔枝",
+        "onboard_time": 1687012650,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290410,
+        "num": 290410,
+        "word": "布林肯",
+        "onboard_time": 1687046122,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 269563,
+        "num": 269563,
+        "word": "薛之谦听谈到赵英俊强忍着眼泪",
+        "onboard_time": 1687053505,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579137,
+        "num": 269057,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 493524,
+        "num": 268209,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407613,
+        "num": 267580,
+        "word": "不提穷字但一听就很穷的话",
+        "onboard_time": 1687049965,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371010,
+        "num": 267102,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277665,
+        "num": 266015,
+        "word": "曾经的老板娘向我投了简历",
+        "onboard_time": 1687053265,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265715,
+        "num": 265715,
+        "word": "榜一大哥是我爸",
+        "onboard_time": 1687013073,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220861,
+        "num": 220861,
+        "word": "林允儿韩剧播出",
+        "onboard_time": 1687050927,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219123,
+        "num": 219123,
+        "word": "父亲节礼物",
+        "onboard_time": 1687053385,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210937,
+        "num": 210937,
+        "word": "萧敬腾方报警检测自证清白",
+        "onboard_time": 1687010012,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210759,
+        "num": 210759,
+        "word": "球迷冲进球场抱C罗",
+        "onboard_time": 1687050986,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262397,
+        "num": 210748,
+        "word": "男朋友的头发可是情侣共同财产",
+        "onboard_time": 1687053567,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210082,
+        "num": 210082,
+        "word": "男子低血糖饿晕商户们霸总式投喂",
+        "onboard_time": 1687045941,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201894,
+        "num": 201894,
+        "word": "海豹为了救人把整个家族都找过来",
+        "onboard_time": 1687047205,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200137,
+        "num": 200137,
+        "word": "请不要再提示我这个密码太弱了",
+        "onboard_time": 1687050024,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198296,
+        "num": 198296,
+        "word": "有些人大半夜不想放下手机的样子",
+        "onboard_time": 1687053567,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 196237,
+        "num": 196237,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186200,
+        "num": 186200,
+        "word": "秦岚新剧今日开播",
+        "onboard_time": 1687053325,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177399,
+        "num": 177399,
+        "word": "临汾地震",
+        "onboard_time": 1687053805,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166896,
+        "num": 166896,
+        "word": "因为什么删了喜欢的人",
+        "onboard_time": 1687049965,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164667,
+        "num": 164667,
+        "word": "男朋友冷战后给我打钱",
+        "onboard_time": 1687054048,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152643,
+        "num": 152643,
+        "word": "e人与i人拍照时的区别",
+        "onboard_time": 1687047445,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149179,
+        "num": 149179,
+        "word": "女生称洗澡后发现酒店房间有摄像头",
+        "onboard_time": 1687054167,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 142349,
+        "word": "浪漫医生金师傅",
+        "onboard_time": 1687052306,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141421,
+        "num": 141421,
+        "word": "在我25岁时爸爸给我了一套房子的钥匙",
+        "onboard_time": 1687054407,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 141351,
+        "num": 141351,
+        "word": "填报高考志愿优先考虑什么",
+        "onboard_time": 1687053926,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140213,
+        "num": 140213,
+        "word": "粽子也有显眼包了",
+        "onboard_time": 1687050087,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136914,
+        "num": 136914,
+        "word": "上海暴雨",
+        "onboard_time": 1687053805,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136472,
+        "num": 136472,
+        "word": "这猫是不是有点过于巨大了",
+        "onboard_time": 1687014393,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86496,
+        "num": 136151,
+        "word": "jkl",
+        "onboard_time": 1687015532,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72918,
+        "num": 135815,
+        "word": "解说毛毛",
+        "onboard_time": 1687011632,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687053190902,
+  "endTime": 1687054439792,
   "band_list": [
     {
       "raw_hot": 1601858,
@@ -19,36 +19,52 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1522055,
-      "num": 1085953,
-      "word": "秦岚王阳吻戏",
-      "onboard_time": 1687048884,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1112669,
-      "num": 1112669,
+      "raw_hot": 1549131,
+      "num": 1549131,
       "word": "胡兵50万积分被东航清零",
       "onboard_time": 1687050326,
       "rank": 1,
       "category": "艺人"
     },
     {
-      "raw_hot": 1068237,
-      "num": 1068237,
+      "raw_hot": 1522055,
+      "num": 1252197,
+      "word": "秦岚王阳吻戏",
+      "onboard_time": 1687048884,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1206655,
+      "num": 1206655,
+      "word": "半个奢侈品圈都在李宇春演唱会",
+      "onboard_time": 1687046601,
+      "rank": 5,
+      "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 1120649,
+      "num": 1120649,
       "word": "蔡徐坤虞书欣甘比母女合影",
       "onboard_time": 1687043898,
       "rank": 11,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1027753,
-      "num": 1027753,
-      "word": "半个奢侈品圈都在李宇春演唱会",
-      "onboard_time": 1687046601,
-      "rank": 5,
-      "category": "音乐,时尚"
+      "raw_hot": 1091786,
+      "num": 485529,
+      "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+      "onboard_time": 1687049067,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973039,
+      "num": 973039,
+      "word": "白敬亭宋轶今晚见",
+      "onboard_time": 1687048586,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 932415,
@@ -59,28 +75,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 873720,
-      "num": 410385,
-      "word": "鼠头变鸭脖事件校方市场监管方将被追责",
-      "onboard_time": 1687049067,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 857119,
       "num": 857119,
       "word": "jkl",
       "onboard_time": 1687015532,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 835899,
-      "num": 835899,
-      "word": "白敬亭宋轶今晚见",
-      "onboard_time": 1687048586,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 784996,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 745863,
-      "num": 433898,
+      "num": 481339,
       "word": "绝味鸭脖称终于沉冤得雪",
       "onboard_time": 1686998729,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607777,
+      "num": 484034,
+      "word": "在韩国比较吃香的中国女演员",
+      "onboard_time": 1687045761,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 604812,
       "num": 604812,
       "word": "百果园回应女子团购西瓜被嘲讽",
@@ -123,15 +131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595860,
-      "num": 410257,
-      "word": "在韩国比较吃香的中国女演员",
-      "onboard_time": 1687045761,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 577624,
+      "raw_hot": 579137,
       "num": 277067,
       "word": "入职后发现顶替怀孕同事工作",
       "onboard_time": 1687045821,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407613,
+      "num": 274238,
+      "word": "不提穷字但一听就很穷的话",
+      "onboard_time": 1687049965,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 398192,
       "num": 398192,
       "word": "黄渤上半身vs下半身",
@@ -195,8 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393149,
-      "num": 393149,
+      "raw_hot": 393586,
+      "num": 393586,
       "word": "三体",
       "onboard_time": 1687050024,
       "rank": 14,
@@ -211,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375429,
-      "num": 274238,
-      "word": "不提穷字但一听就很穷的话",
-      "onboard_time": 1687049965,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 371503,
+      "num": 371503,
+      "word": "父亲节祝福",
+      "onboard_time": 1687049905,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367392,
@@ -267,14 +275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 333728,
-      "num": 333728,
-      "word": "父亲节祝福",
-      "onboard_time": 1687049905,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315230,
       "num": 259864,
       "word": "电影一闪一闪亮晶晶",
@@ -291,12 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277351,
-      "num": 277351,
+      "raw_hot": 290410,
+      "num": 290410,
       "word": "布林肯",
       "onboard_time": 1687046122,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 277665,
+      "num": 266015,
+      "word": "曾经的老板娘向我投了简历",
+      "onboard_time": 1687053265,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 274277,
@@ -313,6 +321,22 @@
       "onboard_time": 1687011632,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269563,
+      "num": 269563,
+      "word": "薛之谦听谈到赵英俊强忍着眼泪",
+      "onboard_time": 1687053505,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262397,
+      "num": 210748,
+      "word": "男朋友的头发可是情侣共同财产",
+      "onboard_time": 1687053567,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 260127,
@@ -395,6 +419,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 222688,
+      "num": 482206,
+      "word": "距拼多多今年618结束仅剩196天",
+      "onboard_time": 1687052125,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222556,
       "num": 222556,
       "word": "请不要再提示我这个密码太弱了",
@@ -411,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219123,
+      "num": 219123,
+      "word": "父亲节礼物",
+      "onboard_time": 1687053385,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214900,
       "num": 269934,
       "word": "想念朱婷",
@@ -419,12 +459,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201099,
-      "num": 201099,
+      "raw_hot": 210759,
+      "num": 210759,
       "word": "球迷冲进球场抱C罗",
       "onboard_time": 1687050986,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198296,
+      "num": 198296,
+      "word": "有些人大半夜不想放下手机的样子",
+      "onboard_time": 1687053567,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 186200,
+      "num": 186200,
+      "word": "秦岚新剧今日开播",
+      "onboard_time": 1687053325,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 185739,
@@ -475,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177399,
+      "num": 177399,
+      "word": "临汾地震",
+      "onboard_time": 1687053805,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173094,
       "num": 165477,
       "word": "王一博黄渤跳舞",
@@ -491,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166896,
+      "num": 166896,
+      "word": "因为什么删了喜欢的人",
+      "onboard_time": 1687049965,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166340,
       "num": 166340,
       "word": "中国文化在外国街头杀疯了",
@@ -505,6 +577,14 @@
       "onboard_time": 1687012471,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164667,
+      "num": 164667,
+      "word": "男朋友冷战后给我打钱",
+      "onboard_time": 1687054048,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 164493,
@@ -531,14 +611,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 159163,
-      "num": 159163,
-      "word": "因为什么删了喜欢的人",
-      "onboard_time": 1687049965,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "有些衣服穿着穿着就变成睡衣了",
@@ -561,6 +633,14 @@
       "onboard_time": 1687051587,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149179,
+      "num": 149179,
+      "word": "女生称洗澡后发现酒店房间有摄像头",
+      "onboard_time": 1687054167,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148296,
@@ -587,20 +667,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145482,
-      "num": 355342,
-      "word": "距拼多多今年618结束仅剩196天",
-      "onboard_time": 1687052125,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142338,
-      "num": 142338,
+      "raw_hot": 142349,
+      "num": 142349,
       "word": "浪漫医生金师傅",
       "onboard_time": 1687052306,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141421,
+      "num": 141421,
+      "word": "在我25岁时爸爸给我了一套房子的钥匙",
+      "onboard_time": 1687054407,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 141351,
+      "num": 141351,
+      "word": "填报高考志愿优先考虑什么",
+      "onboard_time": 1687053926,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 140687,
@@ -609,6 +697,14 @@
       "onboard_time": 1687012954,
       "rank": 44,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 136914,
+      "num": 136914,
+      "word": "上海暴雨",
+      "onboard_time": 1687053805,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132027,
@@ -731,6 +827,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 83796,
+      "num": 1257011,
+      "word": "哪个瞬间你发现爸爸不再年轻",
+      "onboard_time": 1687015292,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81742,
       "num": 81742,
       "word": "618",
@@ -745,14 +849,6 @@
       "onboard_time": 1687025896,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78521,
-      "num": 1087696,
-      "word": "哪个瞬间你发现爸爸不再年轻",
-      "onboard_time": 1687015292,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78429,
