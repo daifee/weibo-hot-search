@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687112400452,
+  "endTime": 1687113226462,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -41355,6 +41355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69022,
+      "num": 69022,
+      "word": "五月天告五人",
+      "onboard_time": 1687109598,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68987,
       "num": 68987,
       "word": "张小斐嘴上说不热身体却很诚实",
@@ -41865,14 +41873,6 @@
       "onboard_time": 1685662403,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60327,
-      "num": 60327,
-      "word": "五月天告五人",
-      "onboard_time": 1687109598,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 60137,
@@ -43451,7 +43451,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 5760,
+      "raw_hot": 6885,
       "num": 253921,
       "word": "三夏农忙正当时",
       "onboard_time": 1687097788,
