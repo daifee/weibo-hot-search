@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687097667552,
+  "endTime": 1687098810865,
   "band_list": [
     {
       "raw_hot": 2275255,
@@ -17,6 +17,14 @@
       "onboard_time": 1687058247,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2137052,
+      "num": 2137052,
+      "word": "清华大学vs广东工大",
+      "onboard_time": 1687095331,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2087448,
@@ -73,14 +81,6 @@
       "onboard_time": 1687057167,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1798090,
-      "num": 1798090,
-      "word": "清华大学vs广东工大",
-      "onboard_time": 1687095331,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1734930,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938104,
+      "num": 938104,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 932415,
       "num": 932415,
       "word": "榜一大哥是我爸",
@@ -297,14 +305,6 @@
       "onboard_time": 1687067668,
       "rank": 12,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 904617,
-      "num": 904617,
-      "word": "朴彩英四年前的发量vs现在的",
-      "onboard_time": 1687091249,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 885911,
@@ -627,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420494,
+      "num": 420494,
+      "word": "王鹤棣许七安",
+      "onboard_time": 1687094850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419027,
       "num": 419027,
       "word": "专四 难",
@@ -643,12 +651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 403146,
-      "num": 281348,
-      "word": "王鹤棣许七安",
-      "onboard_time": 1687094850,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 402786,
+      "num": 314089,
+      "word": "Jennie在舞台上走神",
+      "onboard_time": 1687097852,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 398192,
@@ -811,6 +819,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 340605,
+      "num": 222189,
+      "word": "相亲中的聊天记录",
+      "onboard_time": 1687097429,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 336001,
       "num": 336001,
       "word": "杨紫许凯的cp感",
@@ -833,6 +849,14 @@
       "onboard_time": 1687074266,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320268,
+      "num": 232840,
+      "word": "长风渡节奏",
+      "onboard_time": 1687096656,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 315230,
@@ -875,20 +899,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 306072,
+      "num": 227767,
+      "word": "有点担心与凤行剧情了",
+      "onboard_time": 1687097550,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304644,
       "num": 304644,
       "word": "向往的生活",
       "onboard_time": 1687071328,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300796,
-      "num": 224767,
-      "word": "长风渡节奏",
-      "onboard_time": 1687096656,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 300232,
@@ -905,6 +929,14 @@
       "onboard_time": 1687096230,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292405,
+      "num": 224766,
+      "word": "gidle演唱会",
+      "onboard_time": 1687097670,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 287781,
@@ -929,6 +961,14 @@
       "onboard_time": 1687091909,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282707,
+      "num": 282707,
+      "word": "989大学",
+      "onboard_time": 1687098270,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 281607,
@@ -1067,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256170,
+      "num": 256170,
+      "word": "真的别再关灯玩手机了",
+      "onboard_time": 1687094731,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255793,
       "num": 222039,
       "word": "梦中的那片海热度值破30000",
@@ -1115,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250840,
+      "num": 214984,
+      "word": "顾九思vs尹峥",
+      "onboard_time": 1687097852,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250656,
       "num": 250656,
       "word": "人民检察院正式批捕孙准浩",
@@ -1123,12 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250377,
-      "num": 222189,
-      "word": "相亲中的聊天记录",
-      "onboard_time": 1687097429,
-      "rank": 34,
-      "category": "情感,幽默"
+      "raw_hot": 250370,
+      "num": 212954,
+      "word": "五月天嘉宾",
+      "onboard_time": 1687098511,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 249935,
@@ -1243,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233590,
+      "num": 233590,
+      "word": "鬼灭之刃",
+      "onboard_time": 1687096828,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 232856,
       "num": 232856,
       "word": "RNG对战TES",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1687006352,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230442,
+      "num": 187868,
+      "word": "肖春生用真心换到了真心",
+      "onboard_time": 1687097131,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 229882,
@@ -1515,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211994,
+      "num": 211994,
+      "word": "易建联 恭喜广工创造历史",
+      "onboard_time": 1687098450,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210759,
       "num": 210759,
       "word": "球迷冲进球场抱C罗",
@@ -1529,14 +1609,6 @@
       "onboard_time": 1687091969,
       "rank": 32,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 208196,
-      "num": 208196,
-      "word": "真的别再关灯玩手机了",
-      "onboard_time": 1687094731,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 208034,
@@ -1555,14 +1627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205083,
-      "num": 184385,
-      "word": "有点担心与凤行剧情了",
-      "onboard_time": 1687097550,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205023,
       "num": 205023,
       "word": "TFBOYS十周年粉丝线下音乐会",
@@ -1577,14 +1641,6 @@
       "onboard_time": 1687080387,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 204363,
-      "num": 184164,
-      "word": "肖春生用真心换到了真心",
-      "onboard_time": 1687097131,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 203598,
@@ -1803,18 +1859,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182791,
-      "num": 182791,
-      "word": "鬼灭之刃",
-      "onboard_time": 1687096828,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 181846,
       "num": 222963,
       "word": "美国32岁男子让3个儿子站成一排枪杀",
       "onboard_time": 1687001909,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181543,
+      "num": 223878,
+      "word": "你怎么知道学生给我买奶茶了",
+      "onboard_time": 1687097852,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -2083,6 +2139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 161262,
+      "num": 161262,
+      "word": "武汉暴雨",
+      "onboard_time": 1687097429,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160583,
       "num": 160583,
       "word": "高铁晚点",
@@ -2113,14 +2177,6 @@
       "onboard_time": 1687074507,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158127,
-      "num": 158127,
-      "word": "武汉暴雨",
-      "onboard_time": 1687097429,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156367,
@@ -2273,6 +2329,14 @@
       "onboard_time": 1687095090,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147134,
+      "num": 160577,
+      "word": "当主人不让猫咪看电视太近时",
+      "onboard_time": 1687098630,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 147001,
@@ -2803,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69931,
+      "num": 1244590,
+      "word": "中国制造究竟有多牛",
+      "onboard_time": 1687097970,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68987,
       "num": 68987,
       "word": "张小斐嘴上说不热身体却很诚实",
@@ -2935,6 +3007,9 @@
     },
     {
       "word": "#中国智慧中国行#"
+    },
+    {
+      "word": "#共享民族复兴伟大荣光#"
     }
   ]
 }
