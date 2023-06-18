@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/19 00:20:59
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/19 00:36:41
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
-厦大新闻学教授谈张雪峰言论（热度：939166）
+厦大新闻学教授谈张雪峰言论（热度：998050）
 </a>
 </li>
 
@@ -87,6 +87,12 @@ Jennie在舞台上走神（热度：684386）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23" target="weibo">
+女儿考满分农民工父亲买了只烧鸡庆祝（热度：476329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23" target="weibo">
 女朋友说她拍到我出轨了（热度：421556）
 </a>
@@ -99,20 +105,26 @@ Jennie在舞台上走神（热度：684386）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BA%B2%E4%B8%AD%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
+相亲中的聊天记录（热度：380856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%85%E4%BE%A3%E6%83%B3%E6%8D%A2%E5%BA%A7%E6%88%91%E6%8B%92%E7%BB%9D%E4%BA%86%23" target="weibo">
 高铁上情侣想换座我拒绝了（热度：369312）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BA%B2%E4%B8%AD%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
-相亲中的聊天记录（热度：354288）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23" target="weibo">
+东航客服回应胡兵50万积分被清零（热度：352719）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23" target="weibo">
-东航客服回应胡兵50万积分被清零（热度：352719）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
+白桃星座（热度：340706）
 </a>
 </li>
 
@@ -135,26 +147,14 @@ Jennie在舞台上走神（热度：684386）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%80%83%E6%BB%A1%E5%88%86%E5%86%9C%E6%B0%91%E5%B7%A5%E7%88%B6%E4%BA%B2%E4%B9%B0%E4%BA%86%E5%8F%AA%E7%83%A7%E9%B8%A1%E5%BA%86%E7%A5%9D%23" target="weibo">
-女儿考满分农民工父亲买了只烧鸡庆祝（热度：269905）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E5%A5%BD%E4%BC%9A%E4%BA%B2%23" target="weibo">
 王阳好会亲（热度：253035）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
-白桃星座（热度：250666）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%23" target="weibo">
-朱婷（热度：245288）
+朱婷（热度：245989）
 </a>
 </li>
 
@@ -207,6 +207,12 @@ Dream一个肖战李沁六搭（热度：234979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%20%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%23" target="weibo">
+虞书欣丁禹兮 永夜星河（热度：214571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E4%BD%95%E7%82%85%E9%BB%84%E7%A3%8A%E8%83%8C%E5%BD%B1%E5%A5%BD%E5%AD%A4%E7%8B%AC%23" target="weibo">
 王俊凯说何炅黄磊背影好孤独（热度：202693）
 </a>
@@ -243,6 +249,12 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E7%8E%9B%E9%9B%85%E6%B5%B7%E6%BB%A9%E6%B0%B4%E5%85%AC%E5%9B%AD%E6%B3%B3%E6%B1%A0%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
+游客称玛雅海滩水公园泳池现卫生巾（热度：180140）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%83%85%E4%BE%A3%23" target="weibo">
 真情侣（热度：177156）
 </a>
@@ -250,19 +262,13 @@ CCTV8剧说很好看（热度：184425）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-陈奕迅演唱会（热度：160588）
+陈奕迅演唱会（热度：176106）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E6%8F%90%E7%A6%BB%E8%81%8C%E7%BB%93%E6%9E%9C%E8%A2%AB%E5%85%AC%E5%8F%B8%E8%BE%9E%E9%80%80%E4%BA%86%23" target="weibo">
-想提离职结果被公司辞退了（热度：159946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%20%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%23" target="weibo">
-虞书欣丁禹兮 永夜星河（热度：156765）
+想提离职结果被公司辞退了（热度：173510）
 </a>
 </li>
 
@@ -273,20 +279,32 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AE%B8%E4%B8%83%E5%AE%89%23" target="weibo">
-王鹤棣许七安（热度：136984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%87%BA%E8%80%83%E5%9C%BAvs23%E5%B2%81%E5%87%BA%E8%80%83%E5%9C%BA%23" target="weibo">
-18岁出考场vs23岁出考场（热度：136095）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%BD%B6%E8%A1%A5%E8%B4%B4%E6%83%85%E5%A4%B4%23" target="weibo">
+白轶补贴情头（热度：150613）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E4%BC%9A%E8%BF%99%E6%98%AF%E7%8C%AB%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E5%91%BD%E4%BA%86%23" target="weibo">
-等会这是猫最后一条命了（热度：132820）
+等会这是猫最后一条命了（热度：143876）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%87%BA%E8%80%83%E5%9C%BAvs23%E5%B2%81%E5%87%BA%E8%80%83%E5%9C%BA%23" target="weibo">
+18岁出考场vs23岁出考场（热度：143430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AE%B8%E4%B8%83%E5%AE%89%23" target="weibo">
+王鹤棣许七安（热度：141494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E7%BA%B8%E5%B8%81%E4%B8%8A%E5%8D%B0%E7%9D%80%E8%A2%81%E8%80%81%E7%9A%84%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%23" target="weibo">
+这个国家的纸币上印着袁老的杂交水稻（热度：125651）
 </a>
 </li>
 
@@ -303,8 +321,8 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E7%8E%9B%E9%9B%85%E6%B5%B7%E6%BB%A9%E6%B0%B4%E5%85%AC%E5%9B%AD%E6%B3%B3%E6%B1%A0%E7%8E%B0%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
-游客称玛雅海滩水公园泳池现卫生巾（热度：83268）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%A5%E8%BA%AB%E8%AF%95%E9%99%A9%E6%8F%90%E9%86%92%E5%88%AB%E4%B8%8B%E9%BB%84%E6%B2%B3%E6%B8%B8%E6%B3%B3%23" target="weibo">
+男子以身试险提醒别下黄河游泳（热度：83345）
 </a>
 </li>
 

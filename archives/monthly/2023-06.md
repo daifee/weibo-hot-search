@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 00:20:59
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 00:36:41
 </p>
 </blockquote>
 <p>
@@ -4083,6 +4083,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
+厦大新闻学教授谈张雪峰言论（热度：998050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B1%BC%E5%A4%B4%E6%98%9F%E6%98%9F%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 鱼头星星回来了（热度：997805）
 </a>
@@ -4355,12 +4361,6 @@ EDG海报空个位置（热度：945915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9%23" target="weibo">
 无字 乌兹（热度：940655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
-厦大新闻学教授谈张雪峰言论（热度：939166）
 </a>
 </li>
 

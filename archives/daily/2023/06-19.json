@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687105259145,
+  "endTime": 1687106201649,
   "band_list": [
     {
       "raw_hot": 1327949,
@@ -19,8 +19,8 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 939166,
-      "num": 939166,
+      "raw_hot": 998050,
+      "num": 998050,
       "word": "厦大新闻学教授谈张雪峰言论",
       "onboard_time": 1687099411,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476329,
+      "num": 476329,
+      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+      "onboard_time": 1687099651,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 421556,
       "num": 421556,
       "word": "女朋友说她拍到我出轨了",
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380856,
+      "num": 380856,
+      "word": "相亲中的聊天记录",
+      "onboard_time": 1687097429,
+      "rank": 16,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 369312,
       "num": 369312,
       "word": "高铁上情侣想换座我拒绝了",
@@ -123,20 +139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 354288,
-      "num": 354288,
-      "word": "相亲中的聊天记录",
-      "onboard_time": 1687097429,
-      "rank": 16,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 352719,
       "num": 352719,
       "word": "东航客服回应胡兵50万积分被清零",
       "onboard_time": 1687074867,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 340706,
+      "num": 340706,
+      "word": "白桃星座",
+      "onboard_time": 1687104028,
+      "rank": 23,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 318082,
@@ -163,14 +179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269905,
-      "num": 269905,
-      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
-      "onboard_time": 1687099651,
-      "rank": 21,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 253035,
       "num": 253035,
       "word": "王阳好会亲",
@@ -179,16 +187,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250666,
-      "num": 250666,
-      "word": "白桃星座",
-      "onboard_time": 1687104028,
-      "rank": 23,
-      "category": "情感,网红"
-    },
-    {
-      "raw_hot": 245288,
-      "num": 245288,
+      "raw_hot": 245989,
+      "num": 245989,
       "word": "朱婷",
       "onboard_time": 1687103968,
       "rank": 24,
@@ -259,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214571,
+      "num": 214571,
+      "word": "虞书欣丁禹兮 永夜星河",
+      "onboard_time": 1687104869,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202693,
       "num": 202693,
       "word": "王俊凯说何炅黄磊背影好孤独",
@@ -307,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180140,
+      "num": 180140,
+      "word": "游客称玛雅海滩水公园泳池现卫生巾",
+      "onboard_time": 1687104928,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177156,
       "num": 159492,
       "word": "真情侣",
@@ -315,28 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160588,
-      "num": 158776,
+      "raw_hot": 176106,
+      "num": 176106,
       "word": "陈奕迅演唱会",
       "onboard_time": 1687102592,
       "rank": 41,
       "category": "音乐"
     },
     {
-      "raw_hot": 159946,
-      "num": 159946,
+      "raw_hot": 173510,
+      "num": 173510,
       "word": "想提离职结果被公司辞退了",
       "onboard_time": 1687088006,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 156765,
-      "num": 156765,
-      "word": "虞书欣丁禹兮 永夜星河",
-      "onboard_time": 1687104869,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 151333,
@@ -347,28 +355,44 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136984,
-      "num": 136984,
-      "word": "王鹤棣许七安",
-      "onboard_time": 1687094850,
-      "rank": 44,
+      "raw_hot": 150613,
+      "num": 148459,
+      "word": "白轶补贴情头",
+      "onboard_time": 1687105886,
+      "rank": 40,
       "category": "影视"
     },
     {
-      "raw_hot": 136095,
-      "num": 136095,
+      "raw_hot": 143876,
+      "num": 143876,
+      "word": "等会这是猫最后一条命了",
+      "onboard_time": 1687103189,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 143430,
+      "num": 143430,
       "word": "18岁出考场vs23岁出考场",
       "onboard_time": 1687101333,
       "rank": 45,
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 132820,
-      "num": 132820,
-      "word": "等会这是猫最后一条命了",
-      "onboard_time": 1687103189,
-      "rank": 46,
-      "category": "幽默,情感"
+      "raw_hot": 141494,
+      "num": 141494,
+      "word": "王鹤棣许七安",
+      "onboard_time": 1687094850,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "这个国家的纸币上印着袁老的杂交水稻",
+      "onboard_time": 1687105765,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120992,
@@ -387,10 +411,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83268,
-      "num": 120772,
-      "word": "游客称玛雅海滩水公园泳池现卫生巾",
-      "onboard_time": 1687104928,
+      "raw_hot": 83345,
+      "num": 120886,
+      "word": "男子以身试险提醒别下黄河游泳",
+      "onboard_time": 1687106186,
       "rank": 49,
       "category": "社会新闻"
     },

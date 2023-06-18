@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687105259145,
+  "endTime": 1687106201649,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -5427,6 +5427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 998050,
+      "num": 998050,
+      "word": "厦大新闻学教授谈张雪峰言论",
+      "onboard_time": 1687099411,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997805,
       "num": 997805,
       "word": "鱼头星星回来了",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1686311608,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 939166,
-      "num": 939166,
-      "word": "厦大新闻学教授谈张雪峰言论",
-      "onboard_time": 1687099411,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 938912,
@@ -20635,6 +20635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245989,
+      "num": 245989,
+      "word": "朱婷",
+      "onboard_time": 1687103968,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245955,
       "num": 245955,
       "word": "印度蛛",
@@ -20705,14 +20713,6 @@
       "onboard_time": 1685932708,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245288,
-      "num": 245288,
-      "word": "朱婷",
-      "onboard_time": 1687103968,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 245265,
@@ -24393,6 +24393,14 @@
       "onboard_time": 1686700166,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 214571,
+      "num": 214571,
+      "word": "虞书欣丁禹兮 永夜星河",
+      "onboard_time": 1687104869,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 214519,
@@ -29851,6 +29859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180140,
+      "num": 180140,
+      "word": "游客称玛雅海滩水公园泳池现卫生巾",
+      "onboard_time": 1687104928,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180122,
       "num": 180122,
       "word": "张小斐露腰西服裙",
@@ -30417,6 +30433,14 @@
       "onboard_time": 1687061847,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 176106,
+      "num": 176106,
+      "word": "陈奕迅演唱会",
+      "onboard_time": 1687102592,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 176101,
@@ -32499,14 +32523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160588,
-      "num": 158776,
-      "word": "陈奕迅演唱会",
-      "onboard_time": 1687102592,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160313,
       "num": 160313,
       "word": "FPX小老虎",
@@ -33065,14 +33081,6 @@
       "onboard_time": 1686985889,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 156765,
-      "num": 156765,
-      "word": "虞书欣丁禹兮 永夜星河",
-      "onboard_time": 1687104869,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 156742,
@@ -33945,6 +33953,14 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150613,
+      "num": 148459,
+      "word": "白轶补贴情头",
+      "onboard_time": 1687105886,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 150584,
@@ -34865,6 +34881,14 @@
       "onboard_time": 1687010970,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143876,
+      "num": 143876,
+      "word": "等会这是猫最后一条命了",
+      "onboard_time": 1687103189,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 143863,
@@ -36467,14 +36491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132820,
-      "num": 132820,
-      "word": "等会这是猫最后一条命了",
-      "onboard_time": 1687103189,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 132746,
       "num": 132746,
       "word": "世界上有趣的灵魂又少了一个",
@@ -37297,6 +37313,14 @@
       "onboard_time": 1687077385,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "这个国家的纸币上印着袁老的杂交水稻",
+      "onboard_time": 1687105765,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125640,
@@ -40643,20 +40667,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83345,
+      "num": 120886,
+      "word": "男子以身试险提醒别下黄河游泳",
+      "onboard_time": 1687106186,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83269,
       "num": 83269,
       "word": "Vision Pro 迪士尼",
       "onboard_time": 1685991314,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 83268,
-      "num": 120772,
-      "word": "游客称玛雅海滩水公园泳池现卫生巾",
-      "onboard_time": 1687104928,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83026,
