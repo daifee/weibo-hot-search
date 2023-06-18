@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687130221301,
+  "endTime": 1687131232680,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -6235,6 +6235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876600,
+      "num": 876600,
+      "word": "真的别再关灯玩手机了",
+      "onboard_time": 1687094731,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 875800,
       "num": 875800,
       "word": "27岁游戏主播抗癌半年后去世",
@@ -7560,6 +7568,14 @@
       "word": "高考各科时间表",
       "onboard_time": 1686095909,
       "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 740159,
+      "num": 740159,
+      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+      "onboard_time": 1687099651,
+      "rank": 13,
       "category": "社会新闻,教育"
     },
     {
@@ -9747,14 +9763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541462,
-      "num": 541462,
-      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
-      "onboard_time": 1687099651,
-      "rank": 13,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 541388,
       "num": 541388,
       "word": "四川一男子当街持刀捅伤女子后自杀",
@@ -11265,14 +11273,6 @@
       "onboard_time": 1686980974,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444763,
-      "num": 444763,
-      "word": "真的别再关灯玩手机了",
-      "onboard_time": 1687094731,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 443920,
@@ -16419,6 +16419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298249,
+      "num": 298249,
+      "word": "女子房子两年没住被邻居用衣柜封死",
+      "onboard_time": 1687130123,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298145,
       "num": 298145,
       "word": "护心做到了有始有终",
@@ -17291,6 +17299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285563,
+      "num": 285563,
+      "word": "内蒙古城管执法中队负责人出轨女下属",
+      "onboard_time": 1687125373,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285238,
       "num": 285238,
       "word": "EXO成员未来活动计划",
@@ -18121,6 +18137,14 @@
       "onboard_time": 1686630150,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273829,
+      "num": 273829,
+      "word": "胡可三演白敬亭丈母娘",
+      "onboard_time": 1687123391,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 273797,
@@ -19795,14 +19819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254953,
-      "num": 254953,
-      "word": "胡可三演白敬亭丈母娘",
-      "onboard_time": 1687123391,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254856,
       "num": 254856,
       "word": "KSG对战TTG",
@@ -20241,14 +20257,6 @@
       "onboard_time": 1686922289,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250637,
-      "num": 250637,
-      "word": "内蒙古城管执法中队负责人出轨女下属",
-      "onboard_time": 1687125373,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250617,
@@ -26561,6 +26569,14 @@
       "onboard_time": 1685800709,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199013,
+      "num": 199013,
+      "word": "肖战 人生可不止这一片什刹海",
+      "onboard_time": 1687130661,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 198930,
@@ -36731,6 +36747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130611,
+      "num": 130611,
+      "word": "你会请三休八拼长假吗",
+      "onboard_time": 1687129399,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130499,
       "num": 132214,
       "word": "百度网盘回应从苹果AppStore下架",
@@ -37923,6 +37947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120078,
+      "num": 120078,
+      "word": "如何婉转的告诉他已经上课了",
+      "onboard_time": 1687125014,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 120040,
       "num": 120040,
       "word": "00后女生邀陌生人拍照记录毕业旅行",
@@ -38427,14 +38459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116852,
-      "num": 97950,
-      "word": "如何婉转的告诉他已经上课了",
-      "onboard_time": 1687125014,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 116771,
       "num": 303803,
       "word": "可以养胃的三种常见食物",
@@ -38641,6 +38665,14 @@
       "onboard_time": 1686380549,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113982,
+      "num": 113982,
+      "word": "ITZY回归预告",
+      "onboard_time": 1687130180,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 113916,
@@ -38995,12 +39027,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 110072,
-      "num": 110072,
-      "word": "你会请三休八拼长假吗",
-      "onboard_time": 1687129399,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 110158,
+      "num": 110158,
+      "word": "西班牙夺得欧国联冠军",
+      "onboard_time": 1687130843,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 109962,
@@ -39387,6 +39419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104741,
+      "num": 104741,
+      "word": "化学老师跳下10米高桥救起轻生女子",
+      "onboard_time": 1687130782,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 104740,
       "num": 1242505,
       "word": "祝福2023高考生",
@@ -39553,6 +39593,14 @@
       "onboard_time": 1686846805,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102711,
+      "num": 102711,
+      "word": "五月天告五人",
+      "onboard_time": 1687109598,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 102672,
@@ -40105,6 +40153,14 @@
       "onboard_time": 1685618003,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94011,
+      "num": 94011,
+      "word": "梦中的那片海央视剧照",
+      "onboard_time": 1687129039,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 93874,
@@ -40795,14 +40851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81441,
-      "num": 81441,
-      "word": "五月天告五人",
-      "onboard_time": 1687109598,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 81440,
       "num": 354654,
       "word": "57岁北漂阿姨白天当保洁晚上做画家",
@@ -40881,6 +40929,14 @@
       "onboard_time": 1685607747,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79177,
+      "num": 79177,
+      "word": "李现松弛感",
+      "onboard_time": 1687125854,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 78610,
@@ -41009,14 +41065,6 @@
       "onboard_time": 1687048586,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76008,
-      "num": 76008,
-      "word": "梦中的那片海央视剧照",
-      "onboard_time": 1687129039,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 75708,
@@ -41289,14 +41337,6 @@
       "onboard_time": 1686305309,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 71116,
-      "num": 71116,
-      "word": "李现松弛感",
-      "onboard_time": 1687125854,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 70924,
@@ -42105,14 +42145,6 @@
       "onboard_time": 1685699010,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55455,
-      "num": 55455,
-      "word": "ITZY回归预告",
-      "onboard_time": 1687130180,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 55426,
@@ -42987,6 +43019,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 32390,
+      "num": 864387,
+      "word": "三夏农忙正当时",
+      "onboard_time": 1687097788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32043,
       "num": 600743,
       "word": "谁带六眼飞鱼奔现梁静茹",
@@ -43233,14 +43273,6 @@
       "onboard_time": 1685694809,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 24638,
-      "num": 565029,
-      "word": "三夏农忙正当时",
-      "onboard_time": 1687097788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24627,
