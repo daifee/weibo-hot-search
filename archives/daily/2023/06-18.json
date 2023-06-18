@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687084399946,
+  "endTime": 1687086795189,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1587916,
-      "num": 613987,
+      "num": 675488,
       "word": "鞠婧祎29岁身材管理",
       "onboard_time": 1687079666,
       "rank": 33,
@@ -156,11 +156,19 @@
     },
     {
       "raw_hot": 1097598,
-      "num": 644140,
+      "num": 663919,
       "word": "公司回应发通知停聘川大毕业生",
       "onboard_time": 1687071149,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1075444,
+      "num": 1075444,
+      "word": "为什么阴干的衣服那么臭",
+      "onboard_time": 1687082128,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1062099,
@@ -235,14 +243,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 869874,
-      "num": 869874,
-      "word": "为什么阴干的衣服那么臭",
-      "onboard_time": 1687082128,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 861809,
       "num": 386195,
       "word": "被录取了因体检不合格被刷",
@@ -289,6 +289,14 @@
       "onboard_time": 1687074447,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 761019,
+      "num": 658792,
+      "word": "四川大学",
+      "onboard_time": 1687084106,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756426,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688350,
+      "num": 688350,
+      "word": "真情侣",
+      "onboard_time": 1687077146,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673731,
       "num": 585176,
       "word": "偷偷藏不住OST阵容",
@@ -371,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 619876,
-      "num": 619876,
-      "word": "真情侣",
-      "onboard_time": 1687077146,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 619510,
       "num": 568951,
       "word": "在韩国比较吃香的中国女演员",
@@ -393,6 +401,14 @@
       "onboard_time": 1687065267,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 617569,
+      "num": 617569,
+      "word": "黄渤新片6岁儿子颜值",
+      "onboard_time": 1687084588,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 589092,
@@ -483,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497432,
+      "num": 497432,
+      "word": "长风渡守山河预告",
+      "onboard_time": 1687069887,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489324,
       "num": 489324,
       "word": "看不懂pros and cons",
       "onboard_time": 1687058968,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 449077,
+      "num": 449077,
+      "word": "王俊凯说何炅黄磊背影好孤独",
+      "onboard_time": 1687084709,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 434906,
@@ -505,6 +537,14 @@
       "onboard_time": 1687064548,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429182,
+      "num": 429182,
+      "word": "专家称月入3000就算中等收入群体",
+      "onboard_time": 1687085549,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419027,
@@ -561,14 +601,6 @@
       "onboard_time": 1687064127,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 376575,
-      "num": 347995,
-      "word": "长风渡守山河预告",
-      "onboard_time": 1687069887,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 376170,
@@ -707,6 +739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 304644,
+      "num": 304644,
+      "word": "向往的生活",
+      "onboard_time": 1687071328,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300232,
       "num": 300232,
       "word": "父亲节快乐",
@@ -763,14 +803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266808,
-      "num": 266808,
-      "word": "向往的生活",
-      "onboard_time": 1687071328,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265919,
       "num": 265919,
       "word": "上海中考数学",
@@ -808,6 +840,14 @@
       "word": "江西工职院回应鼠头相关疑问",
       "onboard_time": 1687068326,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256600,
+      "num": 256600,
+      "word": "泰迪踢掉主人长了2年的肾结石",
+      "onboard_time": 1687084349,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -905,6 +945,14 @@
       "onboard_time": 1687073367,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239217,
+      "num": 239217,
+      "word": "向往的生活下期是王俊凯",
+      "onboard_time": 1687084408,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 238860,
@@ -1067,12 +1115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216239,
+      "num": 209196,
+      "word": "手指水母挑战升级版",
+      "onboard_time": 1687086566,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214900,
       "num": 269934,
       "word": "想念朱婷",
       "onboard_time": 1687018650,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212982,
+      "num": 212982,
+      "word": "BLACKPINK新歌或将7月2日上线",
+      "onboard_time": 1687083449,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 212390,
@@ -1121,6 +1185,14 @@
       "onboard_time": 1687080387,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 203598,
+      "num": 203598,
+      "word": "刘宇音乐节表演LeftRight",
+      "onboard_time": 1687085668,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 203324,
@@ -1203,6 +1275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192169,
+      "num": 192169,
+      "word": "kpop撕漫男爱豆",
+      "onboard_time": 1687084048,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191794,
+      "num": 811438,
+      "word": "男子贴小广告70后民警狂追千米",
+      "onboard_time": 1687085967,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191793,
       "num": 191793,
       "word": "闪耀的她",
@@ -1273,6 +1361,22 @@
       "onboard_time": 1687063470,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183209,
+      "num": 183209,
+      "word": "长风渡",
+      "onboard_time": 1687086748,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182331,
+      "num": 182331,
+      "word": "杨紫你好星期六旗袍造型",
+      "onboard_time": 1687085246,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 181846,
@@ -1347,14 +1451,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 175926,
-      "num": 175926,
-      "word": "四川大学",
-      "onboard_time": 1687084106,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174514,
       "num": 174514,
       "word": "万妮达巡演官宣",
@@ -1371,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173859,
-      "num": 173859,
-      "word": "BLACKPINK新歌或将7月2日上线",
-      "onboard_time": 1687083449,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 174239,
+      "num": 684303,
+      "word": "原来你是这样的老爸",
+      "onboard_time": 1687086446,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173094,
@@ -1499,14 +1595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163006,
-      "num": 163006,
-      "word": "kpop撕漫男爱豆",
-      "onboard_time": 1687084048,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162972,
       "num": 162972,
       "word": "从上班背的包看上班时间",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1687082848,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 160583,
+      "num": 160583,
+      "word": "高铁晚点",
+      "onboard_time": 1687085908,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159931,
@@ -1667,6 +1763,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 147689,
+      "num": 147689,
+      "word": "AG战胜VG",
+      "onboard_time": 1687085668,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146826,
       "num": 146826,
       "word": "大山女孩父亲节收到爸爸反向惊喜",
@@ -1731,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142210,
+      "num": 142210,
+      "word": "五月天杭州",
+      "onboard_time": 1687085246,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141945,
       "num": 141945,
       "word": "上海暴雨",
@@ -1787,14 +1899,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 137048,
-      "num": 137048,
-      "word": "泰迪踢掉主人长了2年的肾结石",
-      "onboard_time": 1687084349,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136753,
       "num": 136753,
       "word": "张真源量身高",
@@ -1809,6 +1913,14 @@
       "onboard_time": 1687083147,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135367,
+      "num": 135367,
+      "word": "白敬亭顾九思读书演我",
+      "onboard_time": 1687086508,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 132027,
@@ -1921,6 +2033,14 @@
       "onboard_time": 1687062687,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 135278,
+      "word": "AG完美运营节奏",
+      "onboard_time": 1687085368,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 110562,
@@ -2201,6 +2321,14 @@
       "onboard_time": 1687026555,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21426,
+      "num": 621847,
+      "word": "男子开85公里回家给71岁父亲过节",
+      "onboard_time": 1687086088,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8792,

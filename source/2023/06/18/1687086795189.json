@@ -1,0 +1,410 @@
+{
+  "runTime": 1687086795189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464639,
+        "num": 1464639,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1075444,
+        "num": 1075444,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49968,
+        "num": 1013368,
+        "word": "世界最高坝启动大坝浇筑",
+        "onboard_time": 1687074748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978997,
+        "num": 978997,
+        "word": "高铁上情侣想换座我拒绝了",
+        "onboard_time": 1687077626,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191794,
+        "num": 811438,
+        "word": "男子贴小广告70后民警狂追千米",
+        "onboard_time": 1687085967,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810973,
+        "num": 810973,
+        "word": "东航客服回应胡兵50万积分被清零",
+        "onboard_time": 1687074867,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 785464,
+        "num": 785464,
+        "word": "女朋友说她拍到我出轨了",
+        "onboard_time": 1687073788,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 727375,
+        "num": 727375,
+        "word": "这背影居然是蔡少芬",
+        "onboard_time": 1687074447,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688350,
+        "num": 688350,
+        "word": "真情侣",
+        "onboard_time": 1687077146,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174239,
+        "num": 684303,
+        "word": "原来你是这样的老爸",
+        "onboard_time": 1687086446,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527250,
+        "num": 675488,
+        "word": "鞠婧祎29岁身材管理",
+        "onboard_time": 1687079666,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793223,
+        "num": 663919,
+        "word": "公司回应发通知停聘川大毕业生",
+        "onboard_time": 1687071149,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 761019,
+        "num": 658792,
+        "word": "四川大学",
+        "onboard_time": 1687084106,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651942,
+        "num": 651942,
+        "word": "香港名媛蔡天凤葬礼今日举行",
+        "onboard_time": 1687073306,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21426,
+        "num": 621847,
+        "word": "男子开85公里回家给71岁父亲过节",
+        "onboard_time": 1687086088,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617569,
+        "num": 617569,
+        "word": "黄渤新片6岁儿子颜值",
+        "onboard_time": 1687084588,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552494,
+        "num": 552494,
+        "word": "孟子义问郭麒麟认不认识德云社",
+        "onboard_time": 1687073966,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497432,
+        "num": 497432,
+        "word": "长风渡守山河预告",
+        "onboard_time": 1687069887,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449077,
+        "num": 449077,
+        "word": "王俊凯说何炅黄磊背影好孤独",
+        "onboard_time": 1687084709,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429182,
+        "num": 429182,
+        "word": "专家称月入3000就算中等收入群体",
+        "onboard_time": 1687085549,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332518,
+        "num": 332518,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304644,
+        "num": 304644,
+        "word": "向往的生活",
+        "onboard_time": 1687071328,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271142,
+        "num": 271142,
+        "word": "邓紫棋感染新冠",
+        "onboard_time": 1687068387,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161977,
+        "num": 257501,
+        "word": "女孩涂鸦楼梯把爸爸感动哭",
+        "onboard_time": 1687083266,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256600,
+        "num": 256600,
+        "word": "泰迪踢掉主人长了2年的肾结石",
+        "onboard_time": 1687084349,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239217,
+        "num": 239217,
+        "word": "向往的生活下期是王俊凯",
+        "onboard_time": 1687084408,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237934,
+        "num": 237934,
+        "word": "大奉打更人",
+        "onboard_time": 1687082128,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229225,
+        "num": 229225,
+        "word": "宋佳居然这么高",
+        "onboard_time": 1687069650,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212982,
+        "num": 212982,
+        "word": "BLACKPINK新歌或将7月2日上线",
+        "onboard_time": 1687083449,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173715,
+        "num": 209995,
+        "word": "中美外长会谈正式开始",
+        "onboard_time": 1687071867,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 216239,
+        "num": 209196,
+        "word": "手指水母挑战升级版",
+        "onboard_time": 1687086566,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208184,
+        "num": 208184,
+        "word": "白敬亭上小号夸自己",
+        "onboard_time": 1687067605,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203598,
+        "num": 203598,
+        "word": "刘宇音乐节表演LeftRight",
+        "onboard_time": 1687085668,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200596,
+        "num": 200596,
+        "word": "被录取了因体检不合格被刷",
+        "onboard_time": 1687061247,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199252,
+        "num": 199252,
+        "word": "狮子座真的很喜欢纯爱",
+        "onboard_time": 1687075406,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 192169,
+        "num": 192169,
+        "word": "kpop撕漫男爱豆",
+        "onboard_time": 1687084048,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183209,
+        "num": 183209,
+        "word": "长风渡",
+        "onboard_time": 1687086748,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182331,
+        "num": 182331,
+        "word": "杨紫你好星期六旗袍造型",
+        "onboard_time": 1687085246,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178818,
+        "num": 178818,
+        "word": "张雪峰 朋友对报考新传的建议",
+        "onboard_time": 1687080387,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171042,
+        "num": 171042,
+        "word": "梦海大结局终于不刀了",
+        "onboard_time": 1687080807,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170934,
+        "num": 170934,
+        "word": "赵露思拉陈哲远口罩",
+        "onboard_time": 1687080629,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160583,
+        "num": 160583,
+        "word": "高铁晚点",
+        "onboard_time": 1687085908,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153557,
+        "num": 153557,
+        "word": "孟美岐演唱会票价",
+        "onboard_time": 1687060887,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151125,
+        "num": 151125,
+        "word": "肖战看到宝宝的反应",
+        "onboard_time": 1687075168,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149733,
+        "num": 149733,
+        "word": "小猪崽紫",
+        "onboard_time": 1687065387,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147689,
+        "num": 147689,
+        "word": "AG战胜VG",
+        "onboard_time": 1687085668,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142210,
+        "num": 142210,
+        "word": "五月天杭州",
+        "onboard_time": 1687085246,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "白敬亭顾九思读书演我",
+        "onboard_time": 1687086508,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114110,
+        "num": 135278,
+        "word": "AG完美运营节奏",
+        "onboard_time": 1687085368,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95921,
+        "num": 134391,
+        "word": "RNG对战TES",
+        "onboard_time": 1687082606,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国智慧中国行#"
+    }
+  }
+}
