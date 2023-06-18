@@ -1,0 +1,410 @@
+{
+  "runTime": 1687058476560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920854,
+        "num": 1920854,
+        "word": "专四",
+        "onboard_time": 1687057167,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1688631,
+        "num": 1688631,
+        "word": "胡兵50万积分被东航清零",
+        "onboard_time": 1687050326,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37271,
+        "num": 1207399,
+        "word": "中国有约",
+        "onboard_time": 1687057167,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017713,
+        "num": 1017713,
+        "word": "薛之谦听谈到赵英俊强忍着眼泪",
+        "onboard_time": 1687053505,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 961607,
+        "num": 961607,
+        "word": "承欢记开机",
+        "onboard_time": 1687056087,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 947768,
+        "num": 947768,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687048884,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 924131,
+        "num": 924131,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 858410,
+        "num": 858410,
+        "word": "父亲节",
+        "onboard_time": 1687043058,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718050,
+        "num": 718050,
+        "word": "在我25岁时爸爸给我了一套房子的钥匙",
+        "onboard_time": 1687054407,
+        "rank": 8,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 689469,
+        "num": 689469,
+        "word": "女生称洗澡后发现酒店房间有摄像头",
+        "onboard_time": 1687054167,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196128,
+        "num": 618538,
+        "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+        "onboard_time": 1687049067,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887684,
+        "num": 611935,
+        "word": "蔡徐坤虞书欣甘比母女合影",
+        "onboard_time": 1687043898,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 829119,
+        "num": 609541,
+        "word": "半个奢侈品圈都在李宇春演唱会",
+        "onboard_time": 1687046601,
+        "rank": 12,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 515058,
+        "num": 515058,
+        "word": "百果园回应女子团购西瓜被嘲讽",
+        "onboard_time": 1687047083,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172410,
+        "num": 509363,
+        "word": "距拼多多今年618结束仅剩196天",
+        "onboard_time": 1687052125,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509085,
+        "num": 509085,
+        "word": "在韩国比较吃香的中国女演员",
+        "onboard_time": 1687045761,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408474,
+        "num": 408474,
+        "word": "谢娜 她她她",
+        "onboard_time": 1687010250,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373111,
+        "num": 373111,
+        "word": "女子为保护儿子连刺丈夫3刀判无罪",
+        "onboard_time": 1687046963,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364958,
+        "num": 364958,
+        "word": "父亲节祝福",
+        "onboard_time": 1687049905,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349774,
+        "num": 349774,
+        "word": "牛仔裤里的小兜是干嘛用的",
+        "onboard_time": 1687054825,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464743,
+        "num": 343360,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365994,
+        "num": 340326,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363214,
+        "num": 332961,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325133,
+        "num": 325133,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 310531,
+        "num": 310531,
+        "word": "童瑶抹胸上挂了68把钥匙",
+        "onboard_time": 1687001068,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310172,
+        "num": 310172,
+        "word": "陈哲远偷吃沈月的饭",
+        "onboard_time": 1687056626,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286471,
+        "num": 286471,
+        "word": "我和婚姻的战斗剧照故事感",
+        "onboard_time": 1687057885,
+        "rank": 26,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 280709,
+        "num": 280709,
+        "word": "专四答案",
+        "onboard_time": 1687057766,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 280053,
+        "num": 280053,
+        "word": "布林肯",
+        "onboard_time": 1687046122,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 252920,
+        "num": 252920,
+        "word": "三体",
+        "onboard_time": 1687050024,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233035,
+        "num": 233035,
+        "word": "端午公司发了3颗荔枝",
+        "onboard_time": 1687012650,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223847,
+        "num": 223847,
+        "word": "专四作文",
+        "onboard_time": 1687057407,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 220930,
+        "num": 220930,
+        "word": "山东华测集团",
+        "onboard_time": 1687056446,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 211260,
+        "num": 211260,
+        "word": "曾经的老板娘向我投了简历",
+        "onboard_time": 1687053265,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203140,
+        "num": 203140,
+        "word": "人民检察院正式批捕孙准浩",
+        "onboard_time": 1687057766,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203004,
+        "num": 203004,
+        "word": "TFBOYS十周年粉丝线下音乐会",
+        "onboard_time": 1687055067,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202294,
+        "num": 202294,
+        "word": "原来萌兰和花花的爸比都是美兰",
+        "onboard_time": 1687057347,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 193651,
+        "num": 193651,
+        "word": "孟美岐演唱会门票两天还没卖完",
+        "onboard_time": 1687058247,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191793,
+        "num": 191793,
+        "word": "闪耀的她",
+        "onboard_time": 1687057347,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185504,
+        "num": 185504,
+        "word": "榜一大哥是我爸",
+        "onboard_time": 1687013073,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173226,
+        "num": 173226,
+        "word": "林允儿韩剧播出",
+        "onboard_time": 1687050927,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166331,
+        "num": 166331,
+        "word": "官方通报买1根牛肉干被偷塞5根称重",
+        "onboard_time": 1687057708,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157054,
+        "num": 157054,
+        "word": "球迷冲进球场抱C罗",
+        "onboard_time": 1687050986,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155140,
+        "num": 155140,
+        "word": "长风渡放个预告吧",
+        "onboard_time": 1687057526,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151778,
+        "num": 151778,
+        "word": "不提穷字但一听就很穷的话",
+        "onboard_time": 1687049965,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144913,
+        "num": 144913,
+        "word": "绝味鸭脖称终于沉冤得雪",
+        "onboard_time": 1686998729,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139293,
+        "num": 139293,
+        "word": "萧敬腾方报警检测自证清白",
+        "onboard_time": 1687010012,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137965,
+        "num": 137965,
+        "word": "叶舒华演唱会神图",
+        "onboard_time": 1687057647,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136360,
+        "num": 136360,
+        "word": "请不要再提示我这个密码太弱了",
+        "onboard_time": 1687050024,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127173,
+        "num": 127173,
+        "word": "西湖偶遇卖花郎送荷花",
+        "onboard_time": 1687058426,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#父亲的叮咛#"
+    }
+  }
+}

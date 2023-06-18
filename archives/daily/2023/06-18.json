@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687057389801,
+  "endTime": 1687058476560,
   "band_list": [
     {
       "raw_hot": 1934437,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1635108,
-      "num": 1635108,
+      "raw_hot": 1920854,
+      "num": 1920854,
       "word": "专四",
       "onboard_time": 1687057167,
       "rank": 1,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1265105,
-      "num": 618349,
+      "num": 618538,
       "word": "鼠头变鸭脖事件校方市场监管方将被追责",
       "onboard_time": 1687049067,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1017713,
+      "num": 1017713,
+      "word": "薛之谦听谈到赵英俊强忍着眼泪",
+      "onboard_time": 1687053505,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 995902,
       "num": 995902,
       "word": "白敬亭宋轶今晚见",
@@ -75,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 940238,
-      "num": 600214,
-      "word": "薛之谦听谈到赵英俊强忍着眼泪",
-      "onboard_time": 1687053505,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 961607,
+      "num": 961607,
+      "word": "承欢记开机",
+      "onboard_time": 1687056087,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 932415,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 784996,
-      "num": 327078,
+      "num": 343360,
       "word": "女生称没穿内衣取外卖被骑手骚扰",
       "onboard_time": 1687009830,
       "rank": 20,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718050,
+      "num": 718050,
+      "word": "在我25岁时爸爸给我了一套房子的钥匙",
+      "onboard_time": 1687054407,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 640943,
       "num": 640943,
       "word": "胡歌大鹏影帝双黄蛋",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 579137,
-      "num": 338092,
+      "num": 340326,
       "word": "入职后发现顶替怀孕同事工作",
       "onboard_time": 1687045821,
       "rank": 20,
@@ -171,16 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 576766,
-      "num": 576766,
-      "word": "在我25岁时爸爸给我了一套房子的钥匙",
-      "onboard_time": 1687054407,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 557548,
-      "num": 329091,
+      "num": 332961,
       "word": "女子住酒店赤身躺床男子刷卡进入",
       "onboard_time": 1687009410,
       "rank": 23,
@@ -193,14 +201,6 @@
       "onboard_time": 1686999089,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 543911,
-      "num": 543911,
-      "word": "承欢记开机",
-      "onboard_time": 1687056087,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 540117,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349774,
+      "num": 349774,
+      "word": "牛仔裤里的小兜是干嘛用的",
+      "onboard_time": 1687054825,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346290,
       "num": 346290,
       "word": "杨幂露背了",
@@ -315,20 +323,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 318324,
-      "num": 318324,
-      "word": "牛仔裤里的小兜是干嘛用的",
-      "onboard_time": 1687054825,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 315230,
       "num": 259864,
       "word": "电影一闪一闪亮晶晶",
       "onboard_time": 1687016131,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310172,
+      "num": 310172,
+      "word": "陈哲远偷吃沈月的饭",
+      "onboard_time": 1687056626,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 300232,
@@ -339,20 +347,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296526,
-      "num": 296526,
-      "word": "陈哲远偷吃沈月的饭",
-      "onboard_time": 1687056626,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 296436,
       "num": 296436,
       "word": "布林肯",
       "onboard_time": 1687046122,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 286471,
+      "num": 286471,
+      "word": "我和婚姻的战斗剧照故事感",
+      "onboard_time": 1687057885,
+      "rank": 26,
+      "category": "影视,情感"
+    },
+    {
+      "raw_hot": 280709,
+      "num": 280709,
+      "word": "专四答案",
+      "onboard_time": 1687057766,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 277665,
@@ -459,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223847,
+      "num": 223847,
+      "word": "专四作文",
+      "onboard_time": 1687057407,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222771,
       "num": 222771,
       "word": "突然明白了儿子为什么想回老家",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 222688,
-      "num": 482206,
+      "num": 509363,
       "word": "距拼多多今年618结束仅剩196天",
       "onboard_time": 1687052125,
       "rank": 15,
@@ -481,6 +505,14 @@
       "onboard_time": 1687050024,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220930,
+      "num": 220930,
+      "word": "山东华测集团",
+      "onboard_time": 1687056446,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 219474,
@@ -523,12 +555,52 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203140,
+      "num": 203140,
+      "word": "人民检察院正式批捕孙准浩",
+      "onboard_time": 1687057766,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203004,
+      "num": 203004,
+      "word": "TFBOYS十周年粉丝线下音乐会",
+      "onboard_time": 1687055067,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202294,
+      "num": 202294,
+      "word": "原来萌兰和花花的爸比都是美兰",
+      "onboard_time": 1687057347,
+      "rank": 45,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 198296,
       "num": 198296,
       "word": "有些人大半夜不想放下手机的样子",
       "onboard_time": 1687053567,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "孟美岐演唱会门票两天还没卖完",
+      "onboard_time": 1687058247,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 191793,
+      "num": 191793,
+      "word": "闪耀的她",
+      "onboard_time": 1687057347,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 186200,
@@ -595,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176251,
-      "num": 176251,
-      "word": "山东华测集团",
-      "onboard_time": 1687056446,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 174514,
       "num": 174514,
       "word": "万妮达巡演官宣",
@@ -643,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166331,
+      "num": 166331,
+      "word": "官方通报买1根牛肉干被偷塞5根称重",
+      "onboard_time": 1687057708,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165898,
       "num": 158751,
       "word": "梦海再现知否金句",
@@ -675,14 +747,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 159025,
-      "num": 159025,
-      "word": "TFBOYS十周年粉丝线下音乐会",
-      "onboard_time": 1687055067,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "有些衣服穿着穿着就变成睡衣了",
@@ -699,20 +763,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "长风渡放个预告吧",
+      "onboard_time": 1687057526,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153707,
       "num": 153707,
       "word": "去医院急症要自己交空调费",
       "onboard_time": 1687051587,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152269,
-      "num": 152269,
-      "word": "闪耀的她",
-      "onboard_time": 1687057347,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 150423,
@@ -779,20 +843,20 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "叶舒华演唱会神图",
+      "onboard_time": 1687057647,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137304,
       "num": 137304,
       "word": "儿童牙科工作的治疗犬",
       "onboard_time": 1687055966,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 135031,
-      "num": 135031,
-      "word": "原来萌兰和花花的爸比都是美兰",
-      "onboard_time": 1687057347,
-      "rank": 45,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 132027,
@@ -817,6 +881,14 @@
       "onboard_time": 1687050145,
       "rank": 37,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 127173,
+      "num": 127173,
+      "word": "西湖偶遇卖花郎送荷花",
+      "onboard_time": 1687058426,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 126236,
@@ -1067,20 +1139,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37271,
+      "num": 1333652,
+      "word": "中国有约",
+      "onboard_time": 1687057167,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30385,
       "num": 40779,
       "word": "成源",
       "onboard_time": 1687026555,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9995,
-      "num": 1333652,
-      "word": "中国有约",
-      "onboard_time": 1687057167,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8792,

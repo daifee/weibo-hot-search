@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687057389801,
+  "endTime": 1687058476560,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1920854,
+      "num": 1920854,
+      "word": "专四",
+      "onboard_time": 1687057167,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1900363,
       "num": 1900363,
       "word": "感觉这三个名字排在一起是上辈子的事",
@@ -857,14 +865,6 @@
       "onboard_time": 1686802349,
       "rank": 26,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1635108,
-      "num": 1635108,
-      "word": "专四",
-      "onboard_time": 1687057167,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1610746,
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 1265105,
-      "num": 618349,
+      "num": 618538,
       "word": "鼠头变鸭脖事件校方市场监管方将被追责",
       "onboard_time": 1687049067,
       "rank": 10,
@@ -1859,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1017713,
+      "num": 1017713,
+      "word": "薛之谦听谈到赵英俊强忍着眼泪",
+      "onboard_time": 1687053505,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014533,
       "num": 1014533,
       "word": "格力主播穿免职裙",
@@ -1979,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 961607,
+      "num": 961607,
+      "word": "承欢记开机",
+      "onboard_time": 1687056087,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960904,
       "num": 960904,
       "word": "赵露思 两次宝格丽造型",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1686745829,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 940238,
-      "num": 600214,
-      "word": "薛之谦听谈到赵英俊强忍着眼泪",
-      "onboard_time": 1687053505,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 932415,
@@ -2715,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718050,
+      "num": 718050,
+      "word": "在我25岁时爸爸给我了一套房子的钥匙",
+      "onboard_time": 1687054407,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 716933,
       "num": 593096,
       "word": "常远是离肠癌远一点",
@@ -3156,7 +3172,7 @@
     },
     {
       "raw_hot": 579137,
-      "num": 338092,
+      "num": 340326,
       "word": "入职后发现顶替怀孕同事工作",
       "onboard_time": 1687045821,
       "rank": 20,
@@ -3185,14 +3201,6 @@
       "onboard_time": 1686736228,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576766,
-      "num": 576766,
-      "word": "在我25岁时爸爸给我了一套房子的钥匙",
-      "onboard_time": 1687054407,
-      "rank": 43,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 575089,
@@ -3369,14 +3377,6 @@
       "onboard_time": 1686822265,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 543911,
-      "num": 543911,
-      "word": "承欢记开机",
-      "onboard_time": 1687056087,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 543393,
@@ -4683,6 +4683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349774,
+      "num": 349774,
+      "word": "牛仔裤里的小兜是干嘛用的",
+      "onboard_time": 1687054825,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 349584,
       "num": 349584,
       "word": "曝光大叔女子值得同情吗",
@@ -5211,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318324,
-      "num": 318324,
-      "word": "牛仔裤里的小兜是干嘛用的",
-      "onboard_time": 1687054825,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "丫丫",
@@ -5353,6 +5353,14 @@
       "onboard_time": 1686838050,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310172,
+      "num": 310172,
+      "word": "陈哲远偷吃沈月的饭",
+      "onboard_time": 1687056626,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 309616,
@@ -5569,14 +5577,6 @@
       "onboard_time": 1687012774,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296526,
-      "num": 296526,
-      "word": "陈哲远偷吃沈月的饭",
-      "onboard_time": 1687056626,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 296436,
@@ -5827,6 +5827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286471,
+      "num": 286471,
+      "word": "我和婚姻的战斗剧照故事感",
+      "onboard_time": 1687057885,
+      "rank": 26,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 286071,
       "num": 286071,
       "word": "BBC卧底记者",
@@ -5905,6 +5913,14 @@
       "onboard_time": 1687005268,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280709,
+      "num": 280709,
+      "word": "专四答案",
+      "onboard_time": 1687057766,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 280156,
@@ -7915,6 +7931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223847,
+      "num": 223847,
+      "word": "专四作文",
+      "onboard_time": 1687057407,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 223770,
       "num": 197711,
       "word": "WE亚运征途全胜",
@@ -7972,7 +7996,7 @@
     },
     {
       "raw_hot": 222688,
-      "num": 482206,
+      "num": 509363,
       "word": "距拼多多今年618结束仅剩196天",
       "onboard_time": 1687052125,
       "rank": 15,
@@ -8041,6 +8065,14 @@
       "onboard_time": 1686826045,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220930,
+      "num": 220930,
+      "word": "山东华测集团",
+      "onboard_time": 1687056446,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 220877,
@@ -8947,12 +8979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203140,
+      "num": 203140,
+      "word": "人民检察院正式批捕孙准浩",
+      "onboard_time": 1687057766,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203014,
       "num": 203014,
       "word": "千万不要在公司展现其他技能",
       "onboard_time": 1686574109,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203004,
+      "num": 203004,
+      "word": "TFBOYS十周年粉丝线下音乐会",
+      "onboard_time": 1687055067,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 202989,
@@ -8985,6 +9033,14 @@
       "onboard_time": 1686543155,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202294,
+      "num": 202294,
+      "word": "原来萌兰和花花的爸比都是美兰",
+      "onboard_time": 1687057347,
+      "rank": 45,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 202254,
@@ -9563,6 +9619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "孟美岐演唱会门票两天还没卖完",
+      "onboard_time": 1687058247,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193490,
       "num": 191872,
       "word": "肖春生婚后vs叶国华婚后",
@@ -9680,6 +9744,14 @@
       "word": "雪鹰领主今日定档",
       "onboard_time": 1686891515,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191793,
+      "num": 191793,
+      "word": "闪耀的她",
+      "onboard_time": 1687057347,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -10787,14 +10859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176251,
-      "num": 176251,
-      "word": "山东华测集团",
-      "onboard_time": 1687056446,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 176036,
       "num": 176036,
       "word": "手机屏保是你生活的意义吗",
@@ -11339,6 +11403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166331,
+      "num": 166331,
+      "word": "官方通报买1根牛肉干被偷塞5根称重",
+      "onboard_time": 1687057708,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166265,
       "num": 166265,
       "word": "voba",
@@ -11763,14 +11835,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 159025,
-      "num": 159025,
-      "word": "TFBOYS十周年粉丝线下音乐会",
-      "onboard_time": 1687055067,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 158981,
       "num": 158981,
       "word": "消防员高温天连续灭火体力不支中暑",
@@ -11995,6 +12059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "长风渡放个预告吧",
+      "onboard_time": 1687057526,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155110,
       "num": 155110,
       "word": "肖战梦海剧宣路透",
@@ -12185,14 +12257,6 @@
       "onboard_time": 1686542316,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 152269,
-      "num": 152269,
-      "word": "闪耀的她",
-      "onboard_time": 1687057347,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 152023,
@@ -13219,6 +13283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "叶舒华演唱会神图",
+      "onboard_time": 1687057647,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137927,
       "num": 137927,
       "word": "以闪亮之名翩鸿赋雪",
@@ -13409,14 +13481,6 @@
       "onboard_time": 1686833544,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135031,
-      "num": 135031,
-      "word": "原来萌兰和花花的爸比都是美兰",
-      "onboard_time": 1687057347,
-      "rank": 45,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 134994,
@@ -13825,6 +13889,14 @@
       "onboard_time": 1687050145,
       "rank": 37,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 127173,
+      "num": 127173,
+      "word": "西湖偶遇卖花郎送荷花",
+      "onboard_time": 1687058426,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 127061,
@@ -16011,6 +16083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37271,
+      "num": 1333652,
+      "word": "中国有约",
+      "onboard_time": 1687057167,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37126,
       "num": 3657010,
       "word": "奋进中国大江澎湃",
@@ -16273,14 +16353,6 @@
       "onboard_time": 1686887855,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9995,
-      "num": 1333652,
-      "word": "中国有约",
-      "onboard_time": 1687057167,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8792,
