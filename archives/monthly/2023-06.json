@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687095221354,
+  "endTime": 1687097667552,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1491,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1990288,
+      "num": 1990288,
+      "word": "广工总冠军",
+      "onboard_time": 1687095331,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1990264,
       "num": 1990264,
       "word": "如何跟路人解释Uzi加入EDG",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1686107980,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1798090,
+      "num": 1798090,
+      "word": "清华大学vs广东工大",
+      "onboard_time": 1687095331,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1794598,
@@ -7595,6 +7611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 731221,
+      "num": 731221,
+      "word": "肖春生老了也是个帅老头",
+      "onboard_time": 1687095030,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 728868,
       "num": 728868,
       "word": "花少 邓恩熙",
@@ -8339,6 +8363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656312,
+      "num": 656312,
+      "word": "黄渤新片6岁儿子颜值",
+      "onboard_time": 1687084588,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 655398,
       "num": 655398,
       "word": "杨紫化妆师删博",
@@ -8489,14 +8521,6 @@
       "onboard_time": 1686370886,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 637206,
-      "num": 617569,
-      "word": "黄渤新片6岁儿子颜值",
-      "onboard_time": 1687084588,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 637198,
@@ -10049,6 +10073,14 @@
       "onboard_time": 1686885274,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 508824,
+      "num": 508824,
+      "word": "收到请回复谢谢",
+      "onboard_time": 1687090769,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 507598,
@@ -12131,6 +12163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403146,
+      "num": 281348,
+      "word": "王鹤棣许七安",
+      "onboard_time": 1687094850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402321,
       "num": 402321,
       "word": "ZB1回归概念预告",
@@ -14147,14 +14187,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 342001,
-      "num": 250382,
-      "word": "肖春生老了也是个帅老头",
-      "onboard_time": 1687095030,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 341634,
       "num": 326019,
       "word": "迪丽热巴转手绢",
@@ -15483,14 +15515,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 313702,
-      "num": 313702,
-      "word": "收到请回复谢谢",
-      "onboard_time": 1687090769,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 313674,
       "num": 313674,
       "word": "扣饭事件学院称不清楚女生是否精神异常",
@@ -16179,6 +16203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300796,
+      "num": 224767,
+      "word": "长风渡节奏",
+      "onboard_time": 1687096656,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300758,
       "num": 300758,
       "word": "刘浩存跳舞vs任敏跳舞",
@@ -16257,6 +16289,14 @@
       "onboard_time": 1685925090,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298836,
+      "num": 224130,
+      "word": "刘宇宁折腰",
+      "onboard_time": 1687096230,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 298809,
@@ -17321,6 +17361,14 @@
       "onboard_time": 1686802168,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281607,
+      "num": 281607,
+      "word": "陈国豪FMVP",
+      "onboard_time": 1687096049,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 281599,
@@ -19443,6 +19491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255793,
+      "num": 222039,
+      "word": "梦中的那片海热度值破30000",
+      "onboard_time": 1687096351,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255738,
       "num": 255738,
       "word": "日本核废水",
@@ -20000,6 +20056,14 @@
       "word": "阿沁vlog更新了",
       "onboard_time": 1686273388,
       "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 250377,
+      "num": 222189,
+      "word": "相亲中的聊天记录",
+      "onboard_time": 1687097429,
+      "rank": 34,
       "category": "情感,幽默"
     },
     {
@@ -21211,6 +21275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238163,
+      "num": 224239,
+      "word": "告五人",
+      "onboard_time": 1687094608,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238154,
       "num": 191649,
       "word": "叶舒华说我要去hybe",
@@ -22083,6 +22155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229882,
+      "num": 229882,
+      "word": "CUBAL",
+      "onboard_time": 1687095931,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229708,
       "num": 229708,
       "word": "白轶补贴",
@@ -22563,6 +22643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226086,
+      "num": 226086,
+      "word": "小狗真的生气了",
+      "onboard_time": 1687092751,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226031,
       "num": 226031,
       "word": "内娱冷门颜霸图鉴",
@@ -22859,14 +22947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224239,
-      "num": 224239,
-      "word": "告五人",
-      "onboard_time": 1687094608,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 224194,
       "num": 224194,
       "word": "蒋欣是懂回复的",
@@ -22969,6 +23049,14 @@
       "onboard_time": 1687069046,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 223193,
+      "num": 223193,
+      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+      "onboard_time": 1687087045,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223191,
@@ -24331,6 +24419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212403,
+      "num": 185802,
+      "word": "赵今麦素颜合影",
+      "onboard_time": 1687094309,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212402,
       "num": 212402,
       "word": "陈奕迅广州演唱会",
@@ -24883,6 +24979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208196,
+      "num": 208196,
+      "word": "真的别再关灯玩手机了",
+      "onboard_time": 1687094731,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208157,
       "num": 208157,
       "word": "妈你哭什么呢我看见你高兴",
@@ -25259,6 +25363,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 205083,
+      "num": 184385,
+      "word": "有点担心与凤行剧情了",
+      "onboard_time": 1687097550,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205054,
       "num": 205054,
       "word": "肖战回应不会骑自行车",
@@ -25369,6 +25481,14 @@
       "onboard_time": 1686103171,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 204363,
+      "num": 184164,
+      "word": "肖春生用真心换到了真心",
+      "onboard_time": 1687097131,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 204271,
@@ -25529,14 +25649,6 @@
       "onboard_time": 1686314608,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203184,
-      "num": 203184,
-      "word": "真的别再关灯玩手机了",
-      "onboard_time": 1687094731,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 203117,
@@ -26033,14 +26145,6 @@
       "onboard_time": 1685609126,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 200284,
-      "num": 200284,
-      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
-      "onboard_time": 1687087045,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200269,
@@ -28571,14 +28675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186465,
-      "num": 167887,
-      "word": "王鹤棣许七安",
-      "onboard_time": 1687094850,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186322,
       "num": 186322,
       "word": "武汉音乐节",
@@ -29187,6 +29283,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 182791,
+      "num": 182791,
+      "word": "鬼灭之刃",
+      "onboard_time": 1687096828,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182557,
       "num": 172452,
       "word": "张馨予从小到大颜值变化",
@@ -29235,14 +29339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182307,
-      "num": 167612,
-      "word": "赵今麦素颜合影",
-      "onboard_time": 1687094309,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182134,
       "num": 182134,
       "word": "福建一彩民中得1.5亿大奖",
@@ -29257,14 +29353,6 @@
       "onboard_time": 1685942189,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 182014,
-      "num": 182014,
-      "word": "小狗真的生气了",
-      "onboard_time": 1687092751,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 181988,
@@ -32577,6 +32665,14 @@
       "onboard_time": 1686355044,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158127,
+      "num": 158127,
+      "word": "武汉暴雨",
+      "onboard_time": 1687097429,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158023,
@@ -36625,6 +36721,14 @@
       "onboard_time": 1687075348,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128282,
+      "num": 143068,
+      "word": "女喜剧演员",
+      "onboard_time": 1687097612,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128244,
@@ -42020,7 +42124,7 @@
     },
     {
       "raw_hot": 44945,
-      "num": 1194092,
+      "num": 1631977,
       "word": "干涸了半个世纪的青土湖如何复活",
       "onboard_time": 1687074567,
       "rank": 2,

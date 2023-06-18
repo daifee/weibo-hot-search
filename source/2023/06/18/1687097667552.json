@@ -1,0 +1,410 @@
+{
+  "runTime": 1687097667552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1990288,
+        "num": 1990288,
+        "word": "广工总冠军",
+        "onboard_time": 1687095331,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1798090,
+        "num": 1798090,
+        "word": "清华大学vs广东工大",
+        "onboard_time": 1687095331,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26846,
+        "num": 1631977,
+        "word": "干涸了半个世纪的青土湖如何复活",
+        "onboard_time": 1687074567,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1623888,
+        "num": 1623888,
+        "word": "迪丽热巴手滑进了梦海直播间",
+        "onboard_time": 1687089148,
+        "rank": 3,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 1212095,
+        "num": 1212095,
+        "word": "白敬亭宋轶对视没有技巧全是感情",
+        "onboard_time": 1687087287,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 869334,
+        "num": 869334,
+        "word": "朴彩英四年前的发量vs现在的",
+        "onboard_time": 1687091249,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 731221,
+        "num": 731221,
+        "word": "肖春生老了也是个帅老头",
+        "onboard_time": 1687095030,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679790,
+        "num": 679790,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656312,
+        "num": 656312,
+        "word": "黄渤新片6岁儿子颜值",
+        "onboard_time": 1687084588,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631120,
+        "num": 631120,
+        "word": "高铁上情侣想换座我拒绝了",
+        "onboard_time": 1687077626,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 686692,
+        "num": 614468,
+        "word": "鞠婧祎29岁身材管理",
+        "onboard_time": 1687079666,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652829,
+        "num": 596874,
+        "word": "王俊凯说何炅黄磊背影好孤独",
+        "onboard_time": 1687084709,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508824,
+        "num": 508824,
+        "word": "收到请回复谢谢",
+        "onboard_time": 1687090769,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 487320,
+        "num": 487320,
+        "word": "邓紫棋感染新冠",
+        "onboard_time": 1687068387,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466583,
+        "num": 466583,
+        "word": "长风渡",
+        "onboard_time": 1687086748,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465281,
+        "num": 465281,
+        "word": "歌手演唱会价格一览",
+        "onboard_time": 1687088006,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459306,
+        "num": 459306,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 417680,
+        "num": 417680,
+        "word": "东航客服回应胡兵50万积分被清零",
+        "onboard_time": 1687074867,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 401214,
+        "num": 401214,
+        "word": "女朋友说她拍到我出轨了",
+        "onboard_time": 1687073788,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 281607,
+        "num": 281607,
+        "word": "陈国豪FMVP",
+        "onboard_time": 1687096049,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403146,
+        "num": 281348,
+        "word": "王鹤棣许七安",
+        "onboard_time": 1687094850,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365097,
+        "num": 277318,
+        "word": "真情侣",
+        "onboard_time": 1687077146,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269883,
+        "num": 269883,
+        "word": "想提离职结果被公司辞退了",
+        "onboard_time": 1687088006,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 229882,
+        "num": 229882,
+        "word": "CUBAL",
+        "onboard_time": 1687095931,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226086,
+        "num": 226086,
+        "word": "小狗真的生气了",
+        "onboard_time": 1687092751,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300796,
+        "num": 224767,
+        "word": "长风渡节奏",
+        "onboard_time": 1687096656,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298836,
+        "num": 224130,
+        "word": "刘宇宁折腰",
+        "onboard_time": 1687096230,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291171,
+        "num": 223668,
+        "word": "叶芳有新男友了",
+        "onboard_time": 1687092867,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223193,
+        "num": 223193,
+        "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+        "onboard_time": 1687087045,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97579,
+        "num": 223127,
+        "word": "中美外长会谈正式开始",
+        "onboard_time": 1687071867,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 351065,
+        "num": 222879,
+        "word": "四川大学",
+        "onboard_time": 1687084106,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274973,
+        "num": 222689,
+        "word": "孟子义问郭麒麟认不认识德云社",
+        "onboard_time": 1687073966,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267243,
+        "num": 222600,
+        "word": "这背影居然是蔡少芬",
+        "onboard_time": 1687074447,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257488,
+        "num": 222325,
+        "word": "Lisa去看gidle演唱会了",
+        "onboard_time": 1687092207,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250377,
+        "num": 222189,
+        "word": "相亲中的聊天记录",
+        "onboard_time": 1687097429,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 255793,
+        "num": 222039,
+        "word": "梦中的那片海热度值破30000",
+        "onboard_time": 1687096351,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238163,
+        "num": 221800,
+        "word": "告五人",
+        "onboard_time": 1687094608,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221732,
+        "num": 221732,
+        "word": "孟美岐后援会称北京演唱会一切照常",
+        "onboard_time": 1687091909,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208196,
+        "num": 208196,
+        "word": "真的别再关灯玩手机了",
+        "onboard_time": 1687094731,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186591,
+        "num": 186591,
+        "word": "大四会羡慕大一但研三不会羡慕研一",
+        "onboard_time": 1687090531,
+        "rank": 39,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 212516,
+        "num": 185995,
+        "word": "梦中的那片海",
+        "onboard_time": 1687096351,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212403,
+        "num": 185802,
+        "word": "赵今麦素颜合影",
+        "onboard_time": 1687094309,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205083,
+        "num": 184385,
+        "word": "有点担心与凤行剧情了",
+        "onboard_time": 1687097550,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204363,
+        "num": 184164,
+        "word": "肖春生用真心换到了真心",
+        "onboard_time": 1687097131,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159509,
+        "num": 182814,
+        "word": "泰迪踢掉主人长了2年的肾结石",
+        "onboard_time": 1687084349,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182791,
+        "num": 182791,
+        "word": "鬼灭之刃",
+        "onboard_time": 1687096828,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169155,
+        "num": 169155,
+        "word": "千万不要在这里装洞洞鞋鞋花",
+        "onboard_time": 1687095030,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158127,
+        "num": 158127,
+        "word": "武汉暴雨",
+        "onboard_time": 1687097429,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 143068,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1687094191,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128282,
+        "num": 143068,
+        "word": "女喜剧演员",
+        "onboard_time": 1687097612,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#父亲的叮咛#"
+    }
+  }
+}
