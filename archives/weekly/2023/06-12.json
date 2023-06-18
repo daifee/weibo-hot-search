@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687098810865,
+  "endTime": 1687101373457,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -1851,6 +1851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1096279,
+      "num": 1096279,
+      "word": "989大学",
+      "onboard_time": 1687098270,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1096182,
       "num": 625106,
       "word": "郑业成 希望大家不要效仿我的错误行为",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1686575670,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1082098,
+      "num": 1082098,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1075379,
@@ -2225,14 +2241,6 @@
       "onboard_time": 1686745829,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938104,
-      "num": 938104,
-      "word": "朴彩英四年前的发量vs现在的",
-      "onboard_time": 1687091249,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 932415,
@@ -2673,6 +2681,14 @@
       "onboard_time": 1686648629,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 796316,
+      "num": 796316,
+      "word": "Jennie在舞台上走神",
+      "onboard_time": 1687097852,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 791564,
@@ -3331,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631352,
+      "num": 631352,
+      "word": "相亲中的聊天记录",
+      "onboard_time": 1687097429,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 628568,
       "num": 628568,
       "word": "六级阅读",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1686916287,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 610044,
+      "num": 610044,
+      "word": "厦大新闻学教授谈张雪峰言论",
+      "onboard_time": 1687099411,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609366,
@@ -4019,6 +4051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481104,
+      "num": 481104,
+      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+      "onboard_time": 1687099651,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 480982,
+      "num": 480982,
+      "word": "Dream一个肖战李沁六搭",
+      "onboard_time": 1687100550,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480041,
       "num": 480041,
       "word": "徐志胜会说话就多说点",
@@ -4105,6 +4153,14 @@
       "onboard_time": 1686575970,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460632,
+      "num": 460632,
+      "word": "布林肯",
+      "onboard_time": 1687046122,
+      "rank": 19,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 458287,
@@ -4305,6 +4361,14 @@
       "onboard_time": 1686501325,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 425534,
+      "num": 425534,
+      "word": "CCTV8剧说很好看",
+      "onboard_time": 1687099590,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 424843,
@@ -4513,14 +4577,6 @@
       "onboard_time": 1686920068,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402786,
-      "num": 314089,
-      "word": "Jennie在舞台上走神",
-      "onboard_time": 1687097852,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 402321,
@@ -4793,6 +4849,14 @@
       "onboard_time": 1686798267,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376952,
+      "num": 376952,
+      "word": "长风渡首播反馈",
+      "onboard_time": 1687100132,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 376941,
@@ -5323,14 +5387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340605,
-      "num": 222189,
-      "word": "相亲中的聊天记录",
-      "onboard_time": 1687097429,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 339557,
       "num": 339557,
       "word": "这就是我不敢去看中医的原因",
@@ -5700,7 +5756,7 @@
     },
     {
       "raw_hot": 320268,
-      "num": 232840,
+      "num": 233023,
       "word": "长风渡节奏",
       "onboard_time": 1687096656,
       "rank": 25,
@@ -5939,14 +5995,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 309246,
-      "num": 309246,
-      "word": "布林肯",
-      "onboard_time": 1687046122,
-      "rank": 19,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 309209,
       "num": 309209,
       "word": "ChatGPT做高考试卷和人类有何区别",
@@ -5988,7 +6036,7 @@
     },
     {
       "raw_hot": 306072,
-      "num": 227767,
+      "num": 280901,
       "word": "有点担心与凤行剧情了",
       "onboard_time": 1687097550,
       "rank": 42,
@@ -6145,6 +6193,22 @@
       "onboard_time": 1687012774,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296806,
+      "num": 291564,
+      "word": "肖战李沁梦海热度破30000",
+      "onboard_time": 1687099411,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295769,
+      "num": 295769,
+      "word": "真的别再关灯玩手机了",
+      "onboard_time": 1687094731,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 295558,
@@ -6467,14 +6531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282707,
-      "num": 282707,
-      "word": "989大学",
-      "onboard_time": 1687098270,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282235,
       "num": 282235,
       "word": "王鹤棣泰国录制去了20多个站姐",
@@ -6651,6 +6707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274505,
+      "num": 274505,
+      "word": "肖战为电影增重",
+      "onboard_time": 1687100612,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274420,
       "num": 274420,
       "word": "牟林翰需赔偿包丽母亲73万余元",
@@ -6673,6 +6737,14 @@
       "onboard_time": 1686580590,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273987,
+      "num": 250127,
+      "word": "五月天嘉宾",
+      "onboard_time": 1687098511,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 273848,
@@ -6937,6 +7009,14 @@
       "onboard_time": 1686742287,
       "rank": 43,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 265739,
+      "num": 291800,
+      "word": "南宁",
+      "onboard_time": 1687099469,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265233,
@@ -7331,14 +7411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256170,
-      "num": 256170,
-      "word": "真的别再关灯玩手机了",
-      "onboard_time": 1687094731,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255793,
       "num": 222039,
       "word": "梦中的那片海热度值破30000",
@@ -7603,12 +7675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250370,
-      "num": 212954,
-      "word": "五月天嘉宾",
-      "onboard_time": 1687098511,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 250319,
+      "num": 250319,
+      "word": "中美外长会谈结束",
+      "onboard_time": 1687100491,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 250179,
@@ -7835,6 +7907,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 243944,
+      "num": 243944,
+      "word": "鬼灭之刃",
+      "onboard_time": 1687096828,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 243909,
       "num": 243909,
       "word": "蔡徐坤美甲上有字",
@@ -8001,6 +8081,14 @@
       "onboard_time": 1686826287,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240400,
+      "num": 233041,
+      "word": "王阳好会亲",
+      "onboard_time": 1687099411,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 240360,
@@ -8307,14 +8395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233590,
-      "num": 233590,
-      "word": "鬼灭之刃",
-      "onboard_time": 1687096828,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 233572,
       "num": 233572,
       "word": "薛之谦合肥",
@@ -8441,6 +8521,14 @@
       "onboard_time": 1686708388,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230535,
+      "num": 234851,
+      "word": "女排联赛",
+      "onboard_time": 1687100975,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 230442,
@@ -9699,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209514,
+      "num": 209514,
+      "word": "李荣浩去了杨丞琳演唱会",
+      "onboard_time": 1687100975,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209365,
       "num": 209365,
       "word": "YG出小分队的方式好炸裂",
@@ -10545,6 +10641,14 @@
       "onboard_time": 1686905308,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197088,
+      "num": 197088,
+      "word": "戚薇直播送薛之谦演唱会门票",
+      "onboard_time": 1687100911,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 196868,
@@ -11979,6 +12083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178427,
+      "num": 178427,
+      "word": "lgdnbw",
+      "onboard_time": 1687100792,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178280,
       "num": 178280,
       "word": "华晨宇方回应黄牛扰乱市场",
@@ -12081,6 +12193,14 @@
       "onboard_time": 1687090048,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176322,
+      "num": 176322,
+      "word": "养猫千万别开电蚊香",
+      "onboard_time": 1687100550,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 176135,
@@ -12985,6 +13105,14 @@
       "onboard_time": 1686895948,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162178,
+      "num": 162178,
+      "word": "18岁出考场vs23岁出考场",
+      "onboard_time": 1687101333,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 162164,
@@ -16883,6 +17011,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 92262,
+      "num": 1244590,
+      "word": "中国制造究竟有多牛",
+      "onboard_time": 1687097970,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91982,
       "num": 86945,
       "word": "程潇 再热就不礼貌了",
@@ -17251,14 +17387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69931,
-      "num": 1244590,
-      "word": "中国制造究竟有多牛",
-      "onboard_time": 1687097970,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69534,
       "num": 523035,
       "word": "阿根廷中国行",
@@ -17489,6 +17617,14 @@
       "onboard_time": 1686902430,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60989,
+      "num": 233045,
+      "word": "赵继伟灌篮高手舞蹈",
+      "onboard_time": 1687100431,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 60870,
@@ -17895,6 +18031,14 @@
       "num": 556454,
       "word": "浙江七旬义工离世留下精神宝箱",
       "onboard_time": 1686805289,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34181,
+      "num": 481023,
+      "word": "北京一村民连续27年义务捡垃圾",
+      "onboard_time": 1687100431,
       "rank": 14,
       "category": "社会新闻"
     },
