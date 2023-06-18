@@ -1,0 +1,410 @@
+{
+  "runTime": 1687062822723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932853,
+        "num": 1932853,
+        "word": "孟美岐演唱会门票两天还没卖完",
+        "onboard_time": 1687058247,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1638929,
+        "num": 1638929,
+        "word": "领导跟你说辛苦了千万别说没事不辛苦",
+        "onboard_time": 1687058968,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28109,
+        "num": 1069112,
+        "word": "中国有约",
+        "onboard_time": 1687057167,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058123,
+        "num": 1058123,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687048884,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 940437,
+        "num": 940437,
+        "word": "薛之谦听谈到赵英俊强忍着眼泪",
+        "onboard_time": 1687053505,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 931263,
+        "num": 931263,
+        "word": "孟美岐演唱会票价",
+        "onboard_time": 1687060887,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 774492,
+        "num": 774492,
+        "word": "专四",
+        "onboard_time": 1687057167,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 736236,
+        "num": 736236,
+        "word": "在我25岁时爸爸给我了一套房子的钥匙",
+        "onboard_time": 1687054407,
+        "rank": 7,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 692105,
+        "num": 692105,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600167,
+        "num": 600167,
+        "word": "父亲节",
+        "onboard_time": 1687043058,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633823,
+        "num": 582679,
+        "word": "蔡徐坤虞书欣甘比母女合影",
+        "onboard_time": 1687043898,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 554813,
+        "num": 554813,
+        "word": "承欢记开机",
+        "onboard_time": 1687056087,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 709035,
+        "num": 553805,
+        "word": "胡兵50万积分被东航清零",
+        "onboard_time": 1687050326,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545797,
+        "num": 545797,
+        "word": "父亲节祝福",
+        "onboard_time": 1687049905,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494652,
+        "num": 494652,
+        "word": "百果园回应女子团购西瓜被嘲讽",
+        "onboard_time": 1687047083,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1476969,
+        "num": 487026,
+        "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+        "onboard_time": 1687049067,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465332,
+        "num": 465332,
+        "word": "女生称洗澡后发现酒店房间有摄像头",
+        "onboard_time": 1687054167,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415540,
+        "num": 415540,
+        "word": "半个奢侈品圈都在李宇春演唱会",
+        "onboard_time": 1687046601,
+        "rank": 17,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 395659,
+        "num": 395659,
+        "word": "布林肯访华",
+        "onboard_time": 1687062387,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 388793,
+        "num": 388793,
+        "word": "看不懂pros and cons",
+        "onboard_time": 1687058968,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 612620,
+        "num": 386195,
+        "word": "被录取了因体检不合格被刷",
+        "onboard_time": 1687061247,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 379010,
+        "num": 379010,
+        "word": "室友在我的护发素里掺了脱毛膏",
+        "onboard_time": 1687059867,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373891,
+        "num": 373891,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1687060288,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372076,
+        "num": 372076,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363962,
+        "num": 363962,
+        "word": "美国国务卿布林肯抵达北京",
+        "onboard_time": 1687060768,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 333503,
+        "num": 333503,
+        "word": "网文作家拒绝魔改亲自导演",
+        "onboard_time": 1687060887,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332869,
+        "num": 332869,
+        "word": "在韩国比较吃香的中国女演员",
+        "onboard_time": 1687045761,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324373,
+        "num": 324373,
+        "word": "与凤行首发剧照",
+        "onboard_time": 1687059867,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320276,
+        "num": 320276,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316794,
+        "num": 316794,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 266712,
+        "num": 266712,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236200,
+        "num": 236200,
+        "word": "广州大雨",
+        "onboard_time": 1687062448,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221393,
+        "num": 221393,
+        "word": "人民检察院正式批捕孙准浩",
+        "onboard_time": 1687057766,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219188,
+        "num": 219188,
+        "word": "陈哲远偷吃沈月的饭",
+        "onboard_time": 1687056626,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217695,
+        "num": 217695,
+        "word": "苏醒妈妈不平衡了",
+        "onboard_time": 1687062207,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205113,
+        "num": 205113,
+        "word": "专四 难",
+        "onboard_time": 1687059148,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194112,
+        "num": 194112,
+        "word": "鼠头鸭脖事件越真实越权威",
+        "onboard_time": 1687062687,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191542,
+        "num": 191542,
+        "word": "距拼多多今年618结束仅剩196天",
+        "onboard_time": 1687052125,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191449,
+        "num": 191449,
+        "word": "布林肯",
+        "onboard_time": 1687046122,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 177231,
+        "num": 177231,
+        "word": "当事人回应帮接小孩未接上致孩子溺亡",
+        "onboard_time": 1687059867,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173633,
+        "num": 173633,
+        "word": "专四答案",
+        "onboard_time": 1687057766,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 171292,
+        "num": 171292,
+        "word": "这弟弟真能处",
+        "onboard_time": 1687062509,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151233,
+        "num": 151233,
+        "word": "山东华测集团",
+        "onboard_time": 1687056446,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 149430,
+        "num": 149430,
+        "word": "三体",
+        "onboard_time": 1687050024,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113686,
+        "num": 149041,
+        "word": "西湖偶遇卖花郎送荷花",
+        "onboard_time": 1687058426,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 148831,
+        "num": 148831,
+        "word": "90后父亲5年为儿子做3辆车",
+        "onboard_time": 1687061669,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146826,
+        "num": 146826,
+        "word": "大山女孩父亲节收到爸爸反向惊喜",
+        "onboard_time": 1687062809,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145856,
+        "num": 145856,
+        "word": "牛仔裤里的小兜是干嘛用的",
+        "onboard_time": 1687054825,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144127,
+        "num": 144127,
+        "word": "毕业典礼看一场哭一场",
+        "onboard_time": 1687061847,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116495,
+        "num": 143886,
+        "word": "酱油荔枝",
+        "onboard_time": 1687062687,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}

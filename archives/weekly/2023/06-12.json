@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687061974525,
+  "endTime": 1687062822723,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1932853,
+      "num": 1932853,
+      "word": "孟美岐演唱会门票两天还没卖完",
+      "onboard_time": 1687058247,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1926048,
       "num": 966146,
       "word": "冰清玉洁近况",
@@ -665,14 +673,6 @@
       "onboard_time": 1686843686,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1870272,
-      "num": 1870272,
-      "word": "孟美岐演唱会门票两天还没卖完",
-      "onboard_time": 1687058247,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 1867922,
@@ -857,6 +857,14 @@
       "onboard_time": 1686828983,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1638929,
+      "num": 1638929,
+      "word": "领导跟你说辛苦了千万别说没事不辛苦",
+      "onboard_time": 1687058968,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1637648,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1686563669,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1456610,
-      "num": 1456610,
-      "word": "领导跟你说辛苦了千万别说没事不辛苦",
-      "onboard_time": 1687058968,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1451284,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1687013073,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 931263,
+      "num": 931263,
+      "word": "孟美岐演唱会票价",
+      "onboard_time": 1687060887,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 929461,
@@ -3067,6 +3075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612620,
+      "num": 386195,
+      "word": "被录取了因体检不合格被刷",
+      "onboard_time": 1687061247,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 610115,
       "num": 610115,
       "word": "难哄",
@@ -3259,14 +3275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 571520,
-      "num": 571520,
-      "word": "孟美岐演唱会票价",
-      "onboard_time": 1687060887,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 570712,
       "num": 570712,
       "word": "陈晓又更文了",
@@ -3401,6 +3409,14 @@
       "onboard_time": 1686822265,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 545797,
+      "num": 545797,
+      "word": "父亲节祝福",
+      "onboard_time": 1687049905,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543393,
@@ -3955,14 +3971,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 425656,
-      "num": 425656,
-      "word": "父亲节祝福",
-      "onboard_time": 1687049905,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424843,
       "num": 424843,
       "word": "任敏汤晶媚时间线梳理",
@@ -4227,6 +4235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395659,
+      "num": 395659,
+      "word": "布林肯访华",
+      "onboard_time": 1687062387,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 395000,
       "num": 340766,
       "word": "当我出门忘关16度的空调",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1686871822,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 379010,
+      "num": 379010,
+      "word": "室友在我的护发素里掺了脱毛膏",
+      "onboard_time": 1687059867,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 377766,
@@ -4649,14 +4673,6 @@
       "onboard_time": 1686662430,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358264,
-      "num": 358264,
-      "word": "室友在我的护发素里掺了脱毛膏",
-      "onboard_time": 1687059867,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 357396,
@@ -4992,6 +5008,14 @@
       "word": "电视剧公诉",
       "onboard_time": 1686841949,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 333503,
+      "num": 333503,
+      "word": "网文作家拒绝魔改亲自导演",
+      "onboard_time": 1687060887,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5657,14 +5681,6 @@
       "onboard_time": 1687012774,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296507,
-      "num": 296507,
-      "word": "被录取了因体检不合格被刷",
-      "onboard_time": 1687061247,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 295558,
@@ -6579,14 +6595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 259785,
-      "num": 259785,
-      "word": "网文作家拒绝魔改亲自导演",
-      "onboard_time": 1687060887,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259254,
       "num": 259254,
       "word": "四级阅读",
@@ -7483,6 +7491,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 236200,
+      "num": 236200,
+      "word": "广州大雨",
+      "onboard_time": 1687062448,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236138,
       "num": 236138,
       "word": "小S支持林志玲回归家庭",
@@ -8321,6 +8337,14 @@
       "onboard_time": 1686896970,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217695,
+      "num": 217695,
+      "word": "苏醒妈妈不平衡了",
+      "onboard_time": 1687062207,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 217579,
@@ -9689,6 +9713,14 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194112,
+      "num": 194112,
+      "word": "鼠头鸭脖事件越真实越权威",
+      "onboard_time": 1687062687,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194064,
@@ -11217,6 +11249,14 @@
       "onboard_time": 1686874348,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171292,
+      "num": 171292,
+      "word": "这弟弟真能处",
+      "onboard_time": 1687062509,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 171290,
@@ -12785,6 +12825,14 @@
       "onboard_time": 1686749610,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146826,
+      "num": 146826,
+      "word": "大山女孩父亲节收到爸爸反向惊喜",
+      "onboard_time": 1687062809,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146726,
@@ -14609,6 +14657,14 @@
       "onboard_time": 1686795265,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116495,
+      "num": 143886,
+      "word": "酱油荔枝",
+      "onboard_time": 1687062687,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 116390,
