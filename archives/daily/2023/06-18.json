@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687076376960,
+  "endTime": 1687077216317,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -83,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1452725,
-      "num": 1452725,
+      "raw_hot": 1487957,
+      "num": 1487957,
       "word": "东航客服回应胡兵50万积分被清零",
       "onboard_time": 1687074867,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1064758,
+      "num": 1064758,
+      "word": "女朋友说她拍到我出轨了",
+      "onboard_time": 1687073788,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1062099,
       "num": 1062099,
       "word": "宋佳居然这么高",
@@ -145,6 +153,14 @@
       "onboard_time": 1687048586,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 962512,
+      "num": 962512,
+      "word": "香港名媛蔡天凤葬礼今日举行",
+      "onboard_time": 1687073306,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 961607,
@@ -177,22 +193,6 @@
       "onboard_time": 1687054407,
       "rank": 43,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 873550,
-      "num": 873550,
-      "word": "香港名媛蔡天凤葬礼今日举行",
-      "onboard_time": 1687073306,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862275,
-      "num": 862275,
-      "word": "女朋友说她拍到我出轨了",
-      "onboard_time": 1687073788,
-      "rank": 6,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 861809,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579417,
+      "num": 579417,
+      "word": "肖战看到宝宝的反应",
+      "onboard_time": 1687075168,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579137,
       "num": 412373,
       "word": "入职后发现顶替怀孕同事工作",
@@ -427,14 +435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 483828,
-      "num": 483828,
-      "word": "肖战看到宝宝的反应",
-      "onboard_time": 1687075168,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 434906,
       "num": 379010,
       "word": "室友在我的护发素里掺了脱毛膏",
@@ -457,6 +457,14 @@
       "onboard_time": 1687059148,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 411281,
+      "num": 411281,
+      "word": "孟子义问郭麒麟认不认识德云社",
+      "onboard_time": 1687073966,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 407613,
@@ -715,14 +723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260383,
-      "num": 260383,
-      "word": "孟子义问郭麒麟认不认识德云社",
-      "onboard_time": 1687073966,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260127,
       "num": 106977,
       "word": "虞书欣去蔡PD演唱会了",
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244327,
+      "num": 244327,
+      "word": "杨紫牛骏峰同框路透",
+      "onboard_time": 1687074807,
+      "rank": 35,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 243662,
       "num": 243662,
       "word": "苏醒妈妈不平衡了",
@@ -817,6 +825,14 @@
       "onboard_time": 1687047205,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236585,
+      "num": 219499,
+      "word": "鲨我别用Victoria刀",
+      "onboard_time": 1687075769,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 236200,
@@ -971,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208111,
+      "num": 208111,
+      "word": "大四男生实习薪资1万4妈妈仰天大笑",
+      "onboard_time": 1687076488,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 206640,
       "num": 206640,
       "word": "EDG生死战",
@@ -1051,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192789,
-      "num": 192789,
-      "word": "鲨我别用Victoria刀",
-      "onboard_time": 1687075769,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191793,
       "num": 191793,
       "word": "闪耀的她",
       "onboard_time": 1687057347,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189689,
+      "num": 189689,
+      "word": "蔡徐坤美甲上有字",
+      "onboard_time": 1687076607,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 187540,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1687059867,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178506,
-      "num": 178506,
-      "word": "杨紫牛骏峰同框路透",
-      "onboard_time": 1687074807,
-      "rank": 35,
-      "category": "影视,时尚"
     },
     {
       "raw_hot": 177399,
@@ -1339,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156101,
+      "num": 156101,
+      "word": "会呼吸的地面",
+      "onboard_time": 1687076846,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155742,
       "num": 155742,
       "word": "想见你韩版预告",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1687060768,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 151246,
+      "num": 151246,
+      "word": "瘦子说有人给他老婆发私信",
+      "onboard_time": 1687075827,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 150423,
@@ -1443,12 +1475,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 143581,
-      "num": 143581,
-      "word": "瘦子说有人给他老婆发私信",
-      "onboard_time": 1687075827,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 144035,
+      "num": 144035,
+      "word": "用be美学打开长风渡",
+      "onboard_time": 1687076667,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 143509,
@@ -1499,6 +1531,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 140107,
+      "num": 140107,
+      "word": "白敬亭问改啥名呢",
+      "onboard_time": 1687076727,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137965,
       "num": 137965,
       "word": "叶舒华演唱会神图",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1687044137,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129066,
+      "num": 129066,
+      "word": "真情侣",
+      "onboard_time": 1687077146,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 128381,
@@ -1699,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82131,
+      "num": 1127554,
+      "word": "世界最高坝启动大坝浇筑",
+      "onboard_time": 1687074748,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81742,
       "num": 81742,
       "word": "618",
@@ -1752,14 +1808,6 @@
       "word": "宝宝见到爸爸1秒变脸",
       "onboard_time": 1687048586,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72260,
-      "num": 1113198,
-      "word": "世界最高坝启动大坝浇筑",
-      "onboard_time": 1687074748,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1868,6 +1916,9 @@
     },
     {
       "word": "#父亲的叮咛#"
+    },
+    {
+      "word": "#中国智慧中国行#"
     }
   ]
 }

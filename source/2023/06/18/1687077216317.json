@@ -1,0 +1,410 @@
+{
+  "runTime": 1687077216317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1487957,
+        "num": 1487957,
+        "word": "东航客服回应胡兵50万积分被清零",
+        "onboard_time": 1687074867,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1320805,
+        "num": 1320805,
+        "word": "教育局回应奔驰在操场倒车险撞人",
+        "onboard_time": 1687070605,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82131,
+        "num": 1127554,
+        "word": "世界最高坝启动大坝浇筑",
+        "onboard_time": 1687074748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064758,
+        "num": 1064758,
+        "word": "女朋友说她拍到我出轨了",
+        "onboard_time": 1687073788,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1059908,
+        "num": 1059908,
+        "word": "白敬亭上小号夸自己",
+        "onboard_time": 1687067605,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962512,
+        "num": 962512,
+        "word": "香港名媛蔡天凤葬礼今日举行",
+        "onboard_time": 1687073306,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837176,
+        "num": 837176,
+        "word": "宋佳居然这么高",
+        "onboard_time": 1687069650,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 752004,
+        "num": 752004,
+        "word": "这背影居然是蔡少芬",
+        "onboard_time": 1687074447,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606452,
+        "num": 606452,
+        "word": "孟美岐演唱会票价",
+        "onboard_time": 1687060887,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 599844,
+        "num": 599844,
+        "word": "领导跟你说辛苦了千万别说没事不辛苦",
+        "onboard_time": 1687058968,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612456,
+        "num": 594360,
+        "word": "公司回应发通知停聘川大毕业生",
+        "onboard_time": 1687071149,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 579417,
+        "num": 579417,
+        "word": "肖战看到宝宝的反应",
+        "onboard_time": 1687075168,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572030,
+        "num": 572030,
+        "word": "邓紫棋感染新冠",
+        "onboard_time": 1687068387,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538717,
+        "num": 538717,
+        "word": "小猪崽紫",
+        "onboard_time": 1687065387,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483532,
+        "num": 483532,
+        "word": "在我25岁时爸爸给我了一套房子的钥匙",
+        "onboard_time": 1687054407,
+        "rank": 14,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 430338,
+        "num": 430338,
+        "word": "康康哭了",
+        "onboard_time": 1687068568,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 411281,
+        "num": 411281,
+        "word": "孟子义问郭麒麟认不认识德云社",
+        "onboard_time": 1687073966,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376934,
+        "num": 376934,
+        "word": "乐华",
+        "onboard_time": 1687071207,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323334,
+        "num": 323334,
+        "word": "中美外长会谈正式开始",
+        "onboard_time": 1687071867,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 312599,
+        "num": 312599,
+        "word": "广末凉子丈夫道歉",
+        "onboard_time": 1687074266,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470479,
+        "num": 301407,
+        "word": "被录取了因体检不合格被刷",
+        "onboard_time": 1687061247,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 279742,
+        "num": 279742,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244327,
+        "num": 244327,
+        "word": "杨紫牛骏峰同框路透",
+        "onboard_time": 1687074807,
+        "rank": 22,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 244088,
+        "num": 244088,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221150,
+        "num": 221150,
+        "word": "Doinb想加入EDG",
+        "onboard_time": 1687071988,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236585,
+        "num": 219499,
+        "word": "鲨我别用Victoria刀",
+        "onboard_time": 1687075769,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217450,
+        "num": 217450,
+        "word": "室友在我的护发素里掺了脱毛膏",
+        "onboard_time": 1687059867,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216896,
+        "num": 216896,
+        "word": "孟美岐演唱会门票两天还没卖完",
+        "onboard_time": 1687058247,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208111,
+        "num": 208111,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205063,
+        "num": 205063,
+        "word": "长风渡守山河预告",
+        "onboard_time": 1687069887,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194062,
+        "num": 194062,
+        "word": "狮子座真的很喜欢纯爱",
+        "onboard_time": 1687075406,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 189689,
+        "num": 189689,
+        "word": "蔡徐坤美甲上有字",
+        "onboard_time": 1687076607,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 185842,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185542,
+        "num": 185542,
+        "word": "粉丝偷梅西袜子",
+        "onboard_time": 1687067668,
+        "rank": 33,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 177101,
+        "num": 177101,
+        "word": "白轶补贴",
+        "onboard_time": 1687071087,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170031,
+        "num": 170031,
+        "word": "专四",
+        "onboard_time": 1687057167,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165282,
+        "num": 165282,
+        "word": "胡兵50万积分被东航清零",
+        "onboard_time": 1687050326,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159981,
+        "num": 159981,
+        "word": "与凤行编剧也是九鹭非香",
+        "onboard_time": 1687074867,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156101,
+        "num": 156101,
+        "word": "会呼吸的地面",
+        "onboard_time": 1687076846,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151246,
+        "num": 151246,
+        "word": "瘦子说有人给他老婆发私信",
+        "onboard_time": 1687075827,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149491,
+        "num": 149491,
+        "word": "布林肯访华",
+        "onboard_time": 1687062387,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 147962,
+        "num": 147962,
+        "word": "张杰演唱会到中场黄牛仍加价售卖",
+        "onboard_time": 1687075647,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144035,
+        "num": 144035,
+        "word": "用be美学打开长风渡",
+        "onboard_time": 1687076667,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140981,
+        "num": 140981,
+        "word": "被这个工作搭子整破防了",
+        "onboard_time": 1687074507,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140107,
+        "num": 140107,
+        "word": "白敬亭问改啥名呢",
+        "onboard_time": 1687076727,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132135,
+        "num": 132135,
+        "word": "薛之谦听谈到赵英俊强忍着眼泪",
+        "onboard_time": 1687053505,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131648,
+        "num": 131648,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "父亲节祝福",
+        "onboard_time": 1687049905,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129066,
+        "num": 129066,
+        "word": "真情侣",
+        "onboard_time": 1687077146,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 128393,
+        "word": "美国国务卿布林肯抵达北京",
+        "onboard_time": 1687060768,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国智慧中国行#"
+    }
+  }
+}
