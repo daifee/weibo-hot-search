@@ -1,0 +1,410 @@
+{
+  "runTime": 1687083438287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1830604,
+        "num": 1830604,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1741597,
+        "num": 1741597,
+        "word": "霸王茶姬",
+        "onboard_time": 1687078286,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65451,
+        "num": 1323453,
+        "word": "世界最高坝启动大坝浇筑",
+        "onboard_time": 1687074748,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950850,
+        "num": 950850,
+        "word": "高铁上情侣想换座我拒绝了",
+        "onboard_time": 1687077626,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97091,
+        "num": 894071,
+        "word": "护学爷爷要退休了",
+        "onboard_time": 1687081048,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842442,
+        "num": 842442,
+        "word": "东航客服回应胡兵50万积分被清零",
+        "onboard_time": 1687074867,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 692111,
+        "num": 692111,
+        "word": "这背影居然是蔡少芬",
+        "onboard_time": 1687074447,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668175,
+        "num": 668175,
+        "word": "女朋友说她拍到我出轨了",
+        "onboard_time": 1687073788,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 629454,
+        "num": 629454,
+        "word": "香港名媛蔡天凤葬礼今日举行",
+        "onboard_time": 1687073306,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590817,
+        "num": 590817,
+        "word": "教育局回应奔驰在操场倒车险撞人",
+        "onboard_time": 1687070605,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522625,
+        "num": 579094,
+        "word": "鞠婧祎29岁身材管理",
+        "onboard_time": 1687079666,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1062292,
+        "num": 574143,
+        "word": "公司回应发通知停聘川大毕业生",
+        "onboard_time": 1687071149,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 545935,
+        "num": 545935,
+        "word": "真情侣",
+        "onboard_time": 1687077146,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500199,
+        "num": 500199,
+        "word": "孟子义问郭麒麟认不认识德云社",
+        "onboard_time": 1687073966,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20450,
+        "num": 491120,
+        "word": "大学班主任哽咽送别毕业生",
+        "onboard_time": 1687082426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490342,
+        "num": 490342,
+        "word": "宋佳居然这么高",
+        "onboard_time": 1687069650,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490187,
+        "num": 490187,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351561,
+        "num": 351561,
+        "word": "邓紫棋感染新冠",
+        "onboard_time": 1687068387,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347995,
+        "num": 347995,
+        "word": "长风渡守山河预告",
+        "onboard_time": 1687069887,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63258,
+        "num": 315990,
+        "word": "最酷的老爸",
+        "onboard_time": 1687081470,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 372459,
+        "num": 313605,
+        "word": "被录取了因体检不合格被刷",
+        "onboard_time": 1687061247,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 94463,
+        "num": 294306,
+        "word": "女孩涂鸦楼梯把爸爸感动哭",
+        "onboard_time": 1687083266,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293981,
+        "num": 293981,
+        "word": "肖战看到宝宝的反应",
+        "onboard_time": 1687075168,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267479,
+        "num": 267479,
+        "word": "白敬亭上小号夸自己",
+        "onboard_time": 1687067605,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259305,
+        "num": 259305,
+        "word": "小猪崽紫",
+        "onboard_time": 1687065387,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244819,
+        "num": 244819,
+        "word": "赵露思拉陈哲远口罩",
+        "onboard_time": 1687080629,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233636,
+        "num": 233636,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232856,
+        "num": 232856,
+        "word": "RNG对战TES",
+        "onboard_time": 1687082606,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230791,
+        "num": 230791,
+        "word": "领导跟你说辛苦了千万别说没事不辛苦",
+        "onboard_time": 1687058968,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220544,
+        "num": 220544,
+        "word": "向往的生活",
+        "onboard_time": 1687071328,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211866,
+        "num": 211866,
+        "word": "蔡徐坤美甲上有字",
+        "onboard_time": 1687076607,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206823,
+        "num": 206823,
+        "word": "大奉打更人",
+        "onboard_time": 1687082128,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204585,
+        "num": 204585,
+        "word": "孟美岐演唱会票价",
+        "onboard_time": 1687060887,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202556,
+        "num": 202556,
+        "word": "狮子座真的很喜欢纯爱",
+        "onboard_time": 1687075406,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 198869,
+        "num": 198869,
+        "word": "夫妻结婚生子后才知彼此是兄妹",
+        "onboard_time": 1687077988,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186756,
+        "num": 186756,
+        "word": "梦海大结局终于不刀了",
+        "onboard_time": 1687080807,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181605,
+        "num": 181605,
+        "word": "张雪峰 朋友对报考新传的建议",
+        "onboard_time": 1687080387,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176270,
+        "num": 176270,
+        "word": "中美外长会谈正式开始",
+        "onboard_time": 1687071867,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171203,
+        "num": 171203,
+        "word": "康康哭了",
+        "onboard_time": 1687068568,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168249,
+        "num": 168249,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1687077449,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163733,
+        "num": 163733,
+        "word": "河南一服务区菜盆中惊现老鼠",
+        "onboard_time": 1687082726,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162972,
+        "num": 162972,
+        "word": "从上班背的包看上班时间",
+        "onboard_time": 1687082968,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162936,
+        "num": 162936,
+        "word": "AG对战VG",
+        "onboard_time": 1687082968,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158433,
+        "num": 158433,
+        "word": "江西某中学学生疑似被老师要求弃考",
+        "onboard_time": 1687082848,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148965,
+        "num": 148965,
+        "word": "上海中考数学",
+        "onboard_time": 1687078889,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 145705,
+        "word": "广末凉子丈夫道歉",
+        "onboard_time": 1687074266,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140112,
+        "num": 140112,
+        "word": "Doinb想加入EDG",
+        "onboard_time": 1687071988,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135750,
+        "num": 135750,
+        "word": "牛牛没有摩托车了可怎么办",
+        "onboard_time": 1687083147,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128724,
+        "num": 128724,
+        "word": "布林肯访华",
+        "onboard_time": 1687062387,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 117065,
+        "num": 128601,
+        "word": "鲨我别用Victoria刀",
+        "onboard_time": 1687075769,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国智慧中国行#"
+    }
+  }
+}
