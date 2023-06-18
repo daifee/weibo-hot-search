@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687069260846,
+  "endTime": 1687070020678,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1420357,
+      "num": 1420357,
+      "word": "白敬亭上小号夸自己",
+      "onboard_time": 1687067605,
+      "rank": 4,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1277248,
       "num": 1277248,
       "word": "半个奢侈品圈都在李宇春演唱会",
       "onboard_time": 1687046601,
       "rank": 5,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 1172793,
-      "num": 1172793,
-      "word": "白敬亭上小号夸自己",
-      "onboard_time": 1687067605,
-      "rank": 4,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1142064,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756426,
+      "num": 756426,
+      "word": "邓紫棋感染新冠",
+      "onboard_time": 1687068387,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 745863,
       "num": 481339,
       "word": "绝味鸭脖称终于沉冤得雪",
@@ -203,20 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720983,
+      "num": 720983,
+      "word": "百果园回应女子团购西瓜被嘲讽",
+      "onboard_time": 1687047083,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687879,
+      "num": 540297,
+      "word": "粉丝偷梅西袜子",
+      "onboard_time": 1687067668,
+      "rank": 12,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 673731,
       "num": 585176,
       "word": "偷偷藏不住OST阵容",
       "onboard_time": 1687064728,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 644494,
-      "num": 644494,
-      "word": "百果园回应女子团购西瓜被嘲讽",
-      "onboard_time": 1687047083,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640943,
@@ -315,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 528822,
+      "num": 528822,
+      "word": "康康哭了",
+      "onboard_time": 1687068568,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 523534,
       "num": 523534,
       "word": "一颗老鼠头为何要省级调查组才能查清",
@@ -329,22 +353,6 @@
       "onboard_time": 1687058968,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 457017,
-      "num": 457017,
-      "word": "邓紫棋感染新冠",
-      "onboard_time": 1687068387,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 442350,
-      "num": 442350,
-      "word": "粉丝偷梅西袜子",
-      "onboard_time": 1687067668,
-      "rank": 12,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 434906,
@@ -547,20 +555,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 302773,
-      "num": 302773,
-      "word": "康康哭了",
-      "onboard_time": 1687068568,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 300232,
       "num": 300232,
       "word": "父亲节快乐",
       "onboard_time": 1687043957,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297034,
+      "num": 206110,
+      "word": "长风渡守山河预告",
+      "onboard_time": 1687069887,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 286471,
@@ -601,6 +609,14 @@
       "onboard_time": 1687011632,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265912,
+      "num": 244961,
+      "word": "我主动说去领证男朋友的反应",
+      "onboard_time": 1687068506,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 262397,
@@ -667,20 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244961,
-      "num": 244961,
-      "word": "我主动说去领证男朋友的反应",
-      "onboard_time": 1687068506,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 243662,
       "num": 243662,
       "word": "苏醒妈妈不平衡了",
       "onboard_time": 1687062207,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240961,
+      "num": 240961,
+      "word": "江西工职院回应鼠头相关疑问",
+      "onboard_time": 1687068326,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238860,
@@ -712,14 +728,6 @@
       "word": "给狗子洗澡洗一半去找沐浴露",
       "onboard_time": 1687058486,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232814,
-      "num": 232814,
-      "word": "江西工职院回应鼠头相关疑问",
-      "onboard_time": 1687068326,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -867,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202706,
+      "num": 202706,
+      "word": "宋佳居然这么高",
+      "onboard_time": 1687069650,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202294,
       "num": 202294,
       "word": "原来萌兰和花花的爸比都是美兰",
@@ -905,6 +921,14 @@
       "onboard_time": 1687057347,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187540,
+      "num": 187540,
+      "word": "Hero对战RW",
+      "onboard_time": 1687070006,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 186200,
@@ -1011,6 +1035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 175329,
+      "num": 175329,
+      "word": "孙俪解决邓超疑问的方式",
+      "onboard_time": 1687067545,
+      "rank": 48,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 174514,
       "num": 174514,
       "word": "万妮达巡演官宣",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1687062509,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171234,
+      "num": 171234,
+      "word": "浙江宣传评广州地铁事件",
+      "onboard_time": 1687065987,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166896,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1687012471,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164532,
-      "num": 164532,
-      "word": "浙江宣传评广州地铁事件",
-      "onboard_time": 1687065987,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164493,
@@ -1211,12 +1243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143893,
-      "num": 143893,
-      "word": "孙俪解决邓超疑问的方式",
-      "onboard_time": 1687067545,
-      "rank": 48,
-      "category": "艺人,幽默"
+      "raw_hot": 142689,
+      "num": 142689,
+      "word": "最全人体穴道图有空自己捏捏吧",
+      "onboard_time": 1687069527,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142349,
@@ -1540,7 +1572,7 @@
     },
     {
       "raw_hot": 41258,
-      "num": 1370542,
+      "num": 1435059,
       "word": "中国有约",
       "onboard_time": 1687057167,
       "rank": 2,
