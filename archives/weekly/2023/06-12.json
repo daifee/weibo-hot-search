@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687088022981,
+  "endTime": 1687091483686,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -385,6 +385,14 @@
       "onboard_time": 1686735507,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2275255,
+      "num": 2275255,
+      "word": "迪丽热巴手滑进了梦海直播间",
+      "onboard_time": 1687089148,
+      "rank": 0,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 2250283,
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1744436,
+      "num": 600851,
+      "word": "专家称月入3000就算中等收入群体",
+      "onboard_time": 1687085549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1743011,
       "num": 1743011,
       "word": "高考结束男朋友牵我的手冲出考场",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1686623486,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1431235,
+      "num": 1431235,
+      "word": "白敬亭宋轶对视没有技巧全是感情",
+      "onboard_time": 1687087287,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1426410,
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 1203630,
-      "num": 938013,
+      "num": 1141176,
       "word": "王俊凯说何炅黄磊背影好孤独",
       "onboard_time": 1687084709,
       "rank": 18,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1686708450,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1156101,
+      "num": 1156101,
+      "word": "为什么阴干的衣服那么臭",
+      "onboard_time": 1687082128,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1155594,
@@ -1817,14 +1849,6 @@
       "onboard_time": 1686575670,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1075444,
-      "num": 1075444,
-      "word": "为什么阴干的衣服那么臭",
-      "onboard_time": 1687082128,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1075379,
@@ -3347,14 +3371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 600851,
-      "num": 600851,
-      "word": "专家称月入3000就算中等收入群体",
-      "onboard_time": 1687085549,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598651,
       "num": 598651,
       "word": "上海青浦区发生3.1级地震",
@@ -4851,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364938,
+      "num": 364938,
+      "word": "南宁地铁",
+      "onboard_time": 1687088188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364531,
       "num": 248740,
       "word": "亚运会",
@@ -4896,6 +4920,14 @@
       "word": "迪丽热巴开拍前花絮",
       "onboard_time": 1686989128,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 361213,
+      "num": 361213,
+      "word": "李现米兰街拍",
+      "onboard_time": 1687090287,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -4961,6 +4993,14 @@
       "onboard_time": 1686750870,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 355451,
+      "num": 355451,
+      "word": "歌手演唱会价格一览",
+      "onboard_time": 1687088006,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 355087,
@@ -5129,6 +5169,14 @@
       "onboard_time": 1686928952,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343487,
+      "num": 343487,
+      "word": "Prada直播",
+      "onboard_time": 1687091128,
+      "rank": 21,
+      "category": "时尚"
     },
     {
       "raw_hot": 343025,
@@ -5955,6 +6003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298400,
+      "num": 298400,
+      "word": "想提离职结果被公司辞退了",
+      "onboard_time": 1687088006,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 298145,
       "num": 298145,
       "word": "护心做到了有始有终",
@@ -6201,14 +6257,6 @@
       "onboard_time": 1686499888,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287102,
-      "num": 265719,
-      "word": "白敬亭宋轶对视没有技巧全是感情",
-      "onboard_time": 1687087287,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 287013,
@@ -6705,6 +6753,14 @@
       "onboard_time": 1686646826,
       "rank": 22,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 266902,
+      "num": 188112,
+      "word": "大四会羡慕大一但研三不会羡慕研一",
+      "onboard_time": 1687090531,
+      "rank": 31,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 266183,
@@ -7275,6 +7331,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 251639,
+      "num": 251639,
+      "word": "曾黎好高产啊",
+      "onboard_time": 1687087167,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251300,
       "num": 251300,
       "word": "核废水",
@@ -7721,6 +7785,14 @@
       "onboard_time": 1686664590,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241023,
+      "num": 199471,
+      "word": "白敬亭宋轶",
+      "onboard_time": 1687089809,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 240603,
@@ -8483,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224665,
+      "num": 224665,
+      "word": "米兰男装周",
+      "onboard_time": 1687090647,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 224662,
       "num": 224662,
       "word": "赵一博网速",
@@ -8777,14 +8857,6 @@
       "onboard_time": 1686525983,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219082,
-      "num": 219082,
-      "word": "曾黎好高产啊",
-      "onboard_time": 1687087167,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 218906,
@@ -9883,6 +9955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200235,
+      "num": 200235,
+      "word": "贺红玲爱过叶国华吗",
+      "onboard_time": 1687091067,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200161,
       "num": 200161,
       "word": "四个月大的萌兰",
@@ -10001,6 +10081,14 @@
       "onboard_time": 1686646826,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198908,
+      "num": 184626,
+      "word": "宋轶新剧提刀训夫名场面",
+      "onboard_time": 1687090887,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 198890,
@@ -10147,6 +10235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196858,
+      "num": 183316,
+      "word": "迪丽热巴说老A竟在我身边",
+      "onboard_time": 1687088968,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196759,
       "num": 196759,
       "word": "陈伟霆推车吻删减剧情",
@@ -10201,6 +10297,14 @@
       "onboard_time": 1686740545,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195701,
+      "num": 195701,
+      "word": "半年减重60斤网红猝死",
+      "onboard_time": 1687088968,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195647,
@@ -11635,6 +11739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176392,
+      "num": 176392,
+      "word": "梦海收官我们一起走到70岁",
+      "onboard_time": 1687090048,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176135,
       "num": 176135,
       "word": "毕业典礼看一场哭一场",
@@ -12491,6 +12603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "JDG对战BLG",
+      "onboard_time": 1687090109,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162357,
       "num": 162357,
       "word": "绵绵星球",
@@ -13291,14 +13411,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 150928,
-      "num": 150928,
-      "word": "歌手演唱会价格一览",
-      "onboard_time": 1687088006,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150767,
       "num": 150767,
       "word": "武汉地铁禁止饮食的原因",
@@ -13417,14 +13529,6 @@
       "onboard_time": 1686796887,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149521,
-      "num": 156112,
-      "word": "想提离职结果被公司辞退了",
-      "onboard_time": 1687088006,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 149490,
@@ -13761,6 +13865,14 @@
       "onboard_time": 1686632793,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144748,
+      "num": 144748,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144243,
@@ -14627,6 +14739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134238,
+      "num": 134238,
+      "word": "蔡少芬回应我是美女芬",
+      "onboard_time": 1687089087,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133958,
       "num": 133958,
       "word": "高校请近300名毕业生吃龙虾宴",
@@ -14825,6 +14945,14 @@
       "onboard_time": 1686925531,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129805,
+      "num": 129805,
+      "word": "周翊然张淼怡新剧倍速发展",
+      "onboard_time": 1687090048,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 129761,
@@ -15129,6 +15257,14 @@
       "onboard_time": 1686815489,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125062,
+      "num": 125062,
+      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+      "onboard_time": 1687087045,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125059,
@@ -15539,6 +15675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117896,
+      "num": 437296,
+      "word": "本科毕业当天她给母校捐了10万元",
+      "onboard_time": 1687089688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117633,
       "num": 291082,
       "word": "袁隆平推广到非洲的杂交稻收割了",
@@ -15625,6 +15769,14 @@
       "onboard_time": 1686741208,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115147,
+      "num": 115147,
+      "word": "收到请回复谢谢",
+      "onboard_time": 1687090769,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114228,
@@ -17320,6 +17472,14 @@
       "word": "改完收货地址意识到真的毕业了",
       "onboard_time": 1686564029,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36173,
+      "num": 1194092,
+      "word": "干涸了半个世纪的青土湖如何复活",
+      "onboard_time": 1687074567,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

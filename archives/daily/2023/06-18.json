@@ -1,7 +1,15 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687088022981,
+  "endTime": 1687091483686,
   "band_list": [
+    {
+      "raw_hot": 2275255,
+      "num": 2275255,
+      "word": "迪丽热巴手滑进了梦海直播间",
+      "onboard_time": 1687089148,
+      "rank": 0,
+      "category": "影视,幽默"
+    },
     {
       "raw_hot": 2250283,
       "num": 2250283,
@@ -49,6 +57,14 @@
       "onboard_time": 1687057167,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1744436,
+      "num": 600851,
+      "word": "专家称月入3000就算中等收入群体",
+      "onboard_time": 1687085549,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1734930,
@@ -115,6 +131,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1431235,
+      "num": 1431235,
+      "word": "白敬亭宋轶对视没有技巧全是感情",
+      "onboard_time": 1687087287,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1420357,
       "num": 1420357,
       "word": "白敬亭上小号夸自己",
@@ -140,11 +164,19 @@
     },
     {
       "raw_hot": 1203630,
-      "num": 938013,
+      "num": 1141176,
       "word": "王俊凯说何炅黄磊背影好孤独",
       "onboard_time": 1687084709,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1156101,
+      "num": 1156101,
+      "word": "为什么阴干的衣服那么臭",
+      "onboard_time": 1687082128,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1142064,
@@ -169,14 +201,6 @@
       "onboard_time": 1687071149,
       "rank": 31,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1075444,
-      "num": 1075444,
-      "word": "为什么阴干的衣服那么臭",
-      "onboard_time": 1687082128,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1062099,
@@ -427,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 600851,
-      "num": 600851,
-      "word": "专家称月入3000就算中等收入群体",
-      "onboard_time": 1687085549,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589092,
       "num": 589092,
       "word": "中美外长会谈正式开始",
@@ -651,6 +667,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364938,
+      "num": 364938,
+      "word": "南宁地铁",
+      "onboard_time": 1687088188,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361213,
+      "num": 361213,
+      "word": "李现米兰街拍",
+      "onboard_time": 1687090287,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 355451,
+      "num": 355451,
+      "word": "歌手演唱会价格一览",
+      "onboard_time": 1687088006,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354743,
       "num": 354743,
       "word": "网文作家拒绝魔改亲自导演",
@@ -681,6 +721,14 @@
       "onboard_time": 1686994470,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 343487,
+      "num": 343487,
+      "word": "Prada直播",
+      "onboard_time": 1687091128,
+      "rank": 21,
+      "category": "时尚"
     },
     {
       "raw_hot": 336001,
@@ -763,20 +811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298400,
+      "num": 298400,
+      "word": "想提离职结果被公司辞退了",
+      "onboard_time": 1687088006,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 287781,
       "num": 287781,
       "word": "我主动说去领证男朋友的反应",
       "onboard_time": 1687068506,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 287102,
-      "num": 265719,
-      "word": "白敬亭宋轶对视没有技巧全是感情",
-      "onboard_time": 1687087287,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 286471,
@@ -825,6 +873,14 @@
       "onboard_time": 1687011632,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266902,
+      "num": 188112,
+      "word": "大四会羡慕大一但研三不会羡慕研一",
+      "onboard_time": 1687090531,
+      "rank": 31,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 265919,
@@ -915,6 +971,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 251639,
+      "num": 251639,
+      "word": "曾黎好高产啊",
+      "onboard_time": 1687087167,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251014,
       "num": 924693,
       "word": "宝宝首次戴人工耳蜗听声音后大哭",
@@ -977,6 +1041,14 @@
       "onboard_time": 1687073367,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241023,
+      "num": 199471,
+      "word": "白敬亭宋轶",
+      "onboard_time": 1687089809,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 239217,
@@ -1091,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224665,
+      "num": 224665,
+      "word": "米兰男装周",
+      "onboard_time": 1687090647,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 223847,
       "num": 223847,
       "word": "专四作文",
@@ -1153,14 +1233,6 @@
       "onboard_time": 1687053385,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219082,
-      "num": 219082,
-      "word": "曾黎好高产啊",
-      "onboard_time": 1687087167,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 216239,
@@ -1283,12 +1355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200235,
+      "num": 200235,
+      "word": "贺红玲爱过叶国华吗",
+      "onboard_time": 1687091067,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199432,
       "num": 199432,
       "word": "南京Hero",
       "onboard_time": 1687079249,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198908,
+      "num": 184626,
+      "word": "宋轶新剧提刀训夫名场面",
+      "onboard_time": 1687090887,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 198869,
@@ -1305,6 +1393,22 @@
       "onboard_time": 1687053567,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 196858,
+      "num": 183316,
+      "word": "迪丽热巴说老A竟在我身边",
+      "onboard_time": 1687088968,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195701,
+      "num": 195701,
+      "word": "半年减重60斤网红猝死",
+      "onboard_time": 1687088968,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195095,
@@ -1475,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176392,
+      "num": 176392,
+      "word": "梦海收官我们一起走到70岁",
+      "onboard_time": 1687090048,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176135,
       "num": 176135,
       "word": "毕业典礼看一场哭一场",
@@ -1643,6 +1755,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "JDG对战BLG",
+      "onboard_time": 1687090109,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162354,
       "num": 162354,
       "word": "第一位打铁花的女性",
@@ -1779,28 +1899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150928,
-      "num": 150928,
-      "word": "歌手演唱会价格一览",
-      "onboard_time": 1687088006,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150423,
       "num": 150423,
       "word": "肖战谈梦海对自己的意义",
       "onboard_time": 1687054709,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149521,
-      "num": 156112,
-      "word": "想提离职结果被公司辞退了",
-      "onboard_time": 1687088006,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 149053,
@@ -1865,6 +1969,14 @@
       "onboard_time": 1687075947,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 144748,
+      "num": 144748,
+      "word": "朴彩英四年前的发量vs现在的",
+      "onboard_time": 1687091249,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144035,
@@ -2003,12 +2115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134238,
+      "num": 134238,
+      "word": "蔡少芬回应我是美女芬",
+      "onboard_time": 1687089087,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132027,
       "num": 116862,
       "word": "王鹤棣偷拿零食投喂丁程鑫",
       "onboard_time": 1687044137,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129805,
+      "num": 129805,
+      "word": "周翊然张淼怡新剧倍速发展",
+      "onboard_time": 1687090048,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 128619,
@@ -2083,6 +2211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 125062,
+      "num": 125062,
+      "word": "小女孩撞翻麻辣烫被烫伤家长索赔400",
+      "onboard_time": 1687087045,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121363,
       "num": 121363,
       "word": "央美学生毕设将课桌翻转变秋千",
@@ -2107,12 +2243,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117896,
+      "num": 437296,
+      "word": "本科毕业当天她给母校捐了10万元",
+      "onboard_time": 1687089688,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116495,
       "num": 143886,
       "word": "酱油荔枝",
       "onboard_time": 1687062687,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115147,
+      "num": 115147,
+      "word": "收到请回复谢谢",
+      "onboard_time": 1687090769,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114110,
@@ -2393,6 +2545,14 @@
       "onboard_time": 1687023559,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36173,
+      "num": 1194092,
+      "word": "干涸了半个世纪的青土湖如何复活",
+      "onboard_time": 1687074567,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32695,
