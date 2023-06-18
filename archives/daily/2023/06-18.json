@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687083438287,
+  "endTime": 1687084399946,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -9,6 +9,14 @@
       "onboard_time": 1687058247,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2087448,
+      "num": 2087448,
+      "word": "霸王茶姬",
+      "onboard_time": 1687078286,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 2062889,
@@ -43,14 +51,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1741597,
-      "num": 1741597,
-      "word": "霸王茶姬",
-      "onboard_time": 1687078286,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1734930,
       "num": 1734930,
       "word": "小猪崽紫",
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1587916,
+      "num": 613987,
+      "word": "鞠婧祎29岁身材管理",
+      "onboard_time": 1687079666,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1554138,
       "num": 1554138,
       "word": "父亲节",
@@ -89,14 +97,6 @@
       "onboard_time": 1687060887,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1522625,
-      "num": 579094,
-      "word": "鞠婧祎29岁身材管理",
-      "onboard_time": 1687079666,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 1522055,
@@ -155,7 +155,7 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 1062292,
+      "raw_hot": 1097598,
       "num": 644140,
       "word": "公司回应发通知停聘川大毕业生",
       "onboard_time": 1687071149,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 989202,
+      "num": 989202,
+      "word": "高铁上情侣想换座我拒绝了",
+      "onboard_time": 1687077626,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 962512,
       "num": 962512,
       "word": "香港名媛蔡天凤葬礼今日举行",
@@ -201,14 +209,6 @@
       "onboard_time": 1687056087,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 950850,
-      "num": 950850,
-      "word": "高铁上情侣想换座我拒绝了",
-      "onboard_time": 1687077626,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 932415,
@@ -233,6 +233,14 @@
       "onboard_time": 1687054407,
       "rank": 43,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 869874,
+      "num": 869874,
+      "word": "为什么阴干的衣服那么臭",
+      "onboard_time": 1687082128,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 861809,
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490187,
-      "num": 490187,
-      "word": "为什么阴干的衣服那么臭",
-      "onboard_time": 1687082128,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 489324,
       "num": 489324,
       "word": "看不懂pros and cons",
@@ -563,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376575,
+      "num": 347995,
+      "word": "长风渡守山河预告",
+      "onboard_time": 1687069887,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376170,
       "num": 376170,
       "word": "建议棣欣引力别看",
@@ -625,14 +633,6 @@
       "onboard_time": 1687054825,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 347995,
-      "num": 347995,
-      "word": "长风渡守山河预告",
-      "onboard_time": 1687069887,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 346290,
@@ -763,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266808,
+      "num": 266808,
+      "word": "向往的生活",
+      "onboard_time": 1687071328,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265919,
       "num": 265919,
       "word": "上海中考数学",
@@ -817,6 +825,14 @@
       "onboard_time": 1687051525,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255144,
+      "num": 255144,
+      "word": "大奉打更人",
+      "onboard_time": 1687082128,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 253524,
@@ -1027,14 +1043,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 220544,
-      "num": 220544,
-      "word": "向往的生活",
-      "onboard_time": 1687071328,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219474,
       "num": 219474,
       "word": "黑莲花 改名永夜星河",
@@ -1091,14 +1099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206823,
-      "num": 206823,
-      "word": "大奉打更人",
-      "onboard_time": 1687082128,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206640,
       "num": 206640,
       "word": "EDG生死战",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1687055067,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204600,
+      "num": 204600,
+      "word": "张雪峰 朋友对报考新传的建议",
+      "onboard_time": 1687080387,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 203324,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1687057347,
       "rank": 45,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 202270,
+      "num": 202270,
+      "word": "梦海大结局终于不刀了",
+      "onboard_time": 1687080807,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 199432,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1687070006,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186756,
-      "num": 186756,
-      "word": "梦海大结局终于不刀了",
-      "onboard_time": 1687080807,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 186200,
@@ -1275,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181605,
-      "num": 181605,
-      "word": "张雪峰 朋友对报考新传的建议",
-      "onboard_time": 1687080387,
-      "rank": 47,
-      "category": "教育"
+      "raw_hot": 181420,
+      "num": 888122,
+      "word": "女孩涂鸦楼梯把爸爸感动哭",
+      "onboard_time": 1687083266,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181327,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1687047445,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180898,
+      "num": 180898,
+      "word": "AG对战VG",
+      "onboard_time": 1687082968,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 179986,
@@ -1331,6 +1347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 175926,
+      "num": 175926,
+      "word": "四川大学",
+      "onboard_time": 1687084106,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174514,
       "num": 174514,
       "word": "万妮达巡演官宣",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1687080387,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173859,
+      "num": 173859,
+      "word": "BLACKPINK新歌或将7月2日上线",
+      "onboard_time": 1687083449,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 173094,
@@ -1467,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163006,
+      "num": 163006,
+      "word": "kpop撕漫男爱豆",
+      "onboard_time": 1687084048,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162972,
       "num": 162972,
       "word": "从上班背的包看上班时间",
       "onboard_time": 1687082968,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162936,
-      "num": 162936,
-      "word": "AG对战VG",
-      "onboard_time": 1687082968,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 162656,
@@ -1499,20 +1531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162342,
+      "num": 162342,
+      "word": "江西某中学学生疑似被老师要求弃考",
+      "onboard_time": 1687082848,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 159931,
+      "num": 159931,
+      "word": "马嘉祺宋亚轩张真源ie分明",
+      "onboard_time": 1687083449,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158910,
       "num": 158910,
       "word": "有些衣服穿着穿着就变成睡衣了",
       "onboard_time": 1687017870,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158433,
-      "num": 158433,
-      "word": "江西某中学学生疑似被老师要求弃考",
-      "onboard_time": 1687082848,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 158250,
@@ -1723,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139526,
+      "num": 139526,
+      "word": "吃个粽子还挺费铁丝的",
+      "onboard_time": 1687082968,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137965,
       "num": 137965,
       "word": "叶舒华演唱会神图",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1687055966,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137048,
+      "num": 137048,
+      "word": "泰迪踢掉主人长了2年的肾结石",
+      "onboard_time": 1687084349,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136753,
@@ -1923,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94463,
-      "num": 294306,
-      "word": "女孩涂鸦楼梯把爸爸感动哭",
-      "onboard_time": 1687083266,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92531,
       "num": 92531,
       "word": "妈妈请允许我把最后心跳献给祖国人民",
@@ -1984,6 +2032,14 @@
       "word": "哪个瞬间你发现爸爸不再年轻",
       "onboard_time": 1687015292,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83026,
+      "num": 825845,
+      "word": "我要给父亲打101分",
+      "onboard_time": 1687083628,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2131,20 +2187,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32695,
+      "num": 535695,
+      "word": "大学班主任哽咽送别毕业生",
+      "onboard_time": 1687082426,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30385,
       "num": 40779,
       "word": "成源",
       "onboard_time": 1687026555,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20450,
-      "num": 491120,
-      "word": "大学班主任哽咽送别毕业生",
-      "onboard_time": 1687082426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8792,
