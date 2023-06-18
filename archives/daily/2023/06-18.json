@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687070020678,
+  "endTime": 1687072510659,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -139,6 +139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 918563,
+      "num": 541834,
+      "word": "粉丝偷梅西袜子",
+      "onboard_time": 1687067668,
+      "rank": 12,
+      "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 910794,
+      "num": 910794,
+      "word": "宋佳居然这么高",
+      "onboard_time": 1687069650,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 885911,
       "num": 885911,
       "word": "在我25岁时爸爸给我了一套房子的钥匙",
@@ -203,6 +219,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 728215,
+      "num": 728215,
+      "word": "康康哭了",
+      "onboard_time": 1687068568,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 724299,
       "num": 724299,
       "word": "女生称洗澡后发现酒店房间有摄像头",
@@ -217,14 +241,6 @@
       "onboard_time": 1687047083,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687879,
-      "num": 540297,
-      "word": "粉丝偷梅西袜子",
-      "onboard_time": 1687067668,
-      "rank": 12,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 673731,
@@ -299,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 554208,
+      "num": 535825,
+      "word": "中美外长会谈正式开始",
+      "onboard_time": 1687071867,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 545797,
       "num": 545797,
       "word": "父亲节祝福",
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535243,
+      "num": 535243,
+      "word": "乐华",
+      "onboard_time": 1687071207,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534304,
       "num": 534304,
       "word": "帮男朋友洗6年没有洗过的脏辫",
@@ -329,14 +361,6 @@
       "onboard_time": 1687060288,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 528822,
-      "num": 528822,
-      "word": "康康哭了",
-      "onboard_time": 1687068568,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 523534,
@@ -467,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 367200,
+      "num": 367200,
+      "word": "教育局回应奔驰在操场倒车险撞人",
+      "onboard_time": 1687070605,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354743,
       "num": 354743,
       "word": "网文作家拒绝魔改亲自导演",
@@ -564,11 +596,27 @@
     },
     {
       "raw_hot": 297034,
-      "num": 206110,
+      "num": 264116,
       "word": "长风渡守山河预告",
       "onboard_time": 1687069887,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292713,
+      "num": 204848,
+      "word": "公司回应发通知停聘川大毕业生",
+      "onboard_time": 1687071149,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 287781,
+      "num": 287781,
+      "word": "我主动说去领证男朋友的反应",
+      "onboard_time": 1687068506,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 286471,
@@ -611,14 +659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 265912,
-      "num": 244961,
-      "word": "我主动说去领证男朋友的反应",
-      "onboard_time": 1687068506,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262397,
       "num": 210748,
       "word": "男朋友的头发可是情侣共同财产",
@@ -633,6 +673,14 @@
       "onboard_time": 1687044076,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259596,
+      "num": 289863,
+      "word": "江西工职院回应鼠头相关疑问",
+      "onboard_time": 1687068326,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256314,
@@ -689,14 +737,6 @@
       "onboard_time": 1687062207,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240961,
-      "num": 240961,
-      "word": "江西工职院回应鼠头相关疑问",
-      "onboard_time": 1687068326,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238860,
@@ -843,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208367,
+      "num": 208367,
+      "word": "白轶补贴",
+      "onboard_time": 1687071087,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206640,
       "num": 206640,
       "word": "EDG生死战",
@@ -867,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203067,
+      "num": 203067,
+      "word": "孙俪解决邓超疑问的方式",
+      "onboard_time": 1687067545,
+      "rank": 48,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 202868,
       "num": 202868,
       "word": "时空中的绘旅人",
@@ -875,20 +931,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202706,
-      "num": 202706,
-      "word": "宋佳居然这么高",
-      "onboard_time": 1687069650,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202294,
       "num": 202294,
       "word": "原来萌兰和花花的爸比都是美兰",
       "onboard_time": 1687057347,
       "rank": 45,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 199229,
+      "num": 199229,
+      "word": "向往的生活",
+      "onboard_time": 1687071328,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 198296,
@@ -1035,14 +1091,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 175329,
-      "num": 175329,
-      "word": "孙俪解决邓超疑问的方式",
-      "onboard_time": 1687067545,
-      "rank": 48,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 174514,
       "num": 174514,
       "word": "万妮达巡演官宣",
@@ -1067,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171637,
+      "num": 171637,
+      "word": "老人独自去看海公交司机默默陪一路",
+      "onboard_time": 1687071268,
+      "rank": 40,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 171292,
       "num": 171292,
       "word": "这弟弟真能处",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1687065987,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171158,
+      "num": 171158,
+      "word": "Doinb想加入EDG",
+      "onboard_time": 1687071988,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 166896,
@@ -1243,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143509,
+      "num": 143509,
+      "word": "有人用满头白发换你意气风发",
+      "onboard_time": 1687072045,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 142689,
       "num": 142689,
       "word": "最全人体穴道图有空自己捏捏吧",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1687055246,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 127657,
+      "num": 127657,
+      "word": "宋茜说刚出道时曾累到吃着饭睡着",
+      "onboard_time": 1687072468,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 127246,
@@ -1593,6 +1673,14 @@
       "onboard_time": 1687026555,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21856,
+      "num": 476305,
+      "word": "婴儿高烧40度昏迷交警紧急开道送医",
+      "onboard_time": 1687071629,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8792,
