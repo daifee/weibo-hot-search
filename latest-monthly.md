@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 23:16:13
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 23:33:46
 </p>
 </blockquote>
 <p>
@@ -4989,6 +4989,12 @@ Uzi首发（热度：832155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23" target="weibo">
+Jennie在舞台上走神（热度：829002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%80%E5%A5%B3%E7%94%9F%E9%81%AD%E5%A4%9A%E5%90%8D%E5%AD%A6%E7%94%9F%E6%8E%8C%E6%8E%B4%23" target="weibo">
 警方介入调查一女生遭多名学生掌掴（热度：828140）
 </a>
@@ -5243,12 +5249,6 @@ EDG啥时候官宣（热度：802580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3Thesnake%E4%B8%8A%E8%B0%83%E4%B8%80%E9%98%9F%23" target="weibo">
 EDG官宣Thesnake上调一队（热度：796859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B5%B0%E7%A5%9E%23" target="weibo">
-Jennie在舞台上走神（热度：796316）
 </a>
 </li>
 
@@ -5949,6 +5949,12 @@ TFBOYS演唱会流程图（热度：715148）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
+厦大新闻学教授谈张雪峰言论（热度：700160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23" target="weibo">
 梦中的那片海（热度：700134）
 </a>
@@ -6005,12 +6011,6 @@ leave（热度：696926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E4%B8%BA%E4%BD%99%E4%BD%B3%E8%BF%90%E4%B8%8D%E5%86%8D%E5%BD%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E8%AF%84%E5%A7%94%23" target="weibo">
 五月天因为余佳运不再当音乐节目评委（热度：695598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A3%81%E5%B8%A6%E5%91%98%E5%B7%A5%E5%8E%BB%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%A2%E5%BB%BA%23" target="weibo">
-总裁带员工去蔡徐坤演唱会团建（热度：695559）
 </a>
 </li>
 

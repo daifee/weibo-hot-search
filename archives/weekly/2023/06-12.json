@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687101373457,
+  "endTime": 1687102426904,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 829002,
+      "num": 829002,
+      "word": "Jennie在舞台上走神",
+      "onboard_time": 1687097852,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 828140,
       "num": 828140,
       "word": "警方介入调查一女生遭多名学生掌掴",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1686648629,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 796316,
-      "num": 796316,
-      "word": "Jennie在舞台上走神",
-      "onboard_time": 1687097852,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 791564,
@@ -3115,6 +3115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 700160,
+      "num": 700160,
+      "word": "厦大新闻学教授谈张雪峰言论",
+      "onboard_time": 1687099411,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700020,
       "num": 391433,
       "word": "女子住酒店赤身躺床男子刷卡进入",
@@ -3409,14 +3417,6 @@
       "onboard_time": 1686916287,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610044,
-      "num": 610044,
-      "word": "厦大新闻学教授谈张雪峰言论",
-      "onboard_time": 1687099411,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609366,
@@ -3771,6 +3771,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 541462,
+      "num": 541462,
+      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+      "onboard_time": 1687099651,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 540300,
       "num": 1353059,
       "word": "孙女辞职带患癌爷爷4年花10万游9省",
@@ -4035,6 +4043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 486576,
+      "num": 486576,
+      "word": "布林肯",
+      "onboard_time": 1687046122,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 482666,
       "num": 482666,
       "word": "黑莲花 改名永夜星河",
@@ -4049,14 +4065,6 @@
       "onboard_time": 1686500485,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481104,
-      "num": 481104,
-      "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
-      "onboard_time": 1687099651,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 480982,
@@ -4153,14 +4161,6 @@
       "onboard_time": 1686575970,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 460632,
-      "num": 460632,
-      "word": "布林肯",
-      "onboard_time": 1687046122,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 458287,
@@ -4473,6 +4473,14 @@
       "onboard_time": 1687003291,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 414160,
+      "num": 414160,
+      "word": "90后县城婚礼摄影师出片高级感十足",
+      "onboard_time": 1687102350,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411467,
@@ -5313,6 +5321,14 @@
       "onboard_time": 1686976891,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 344241,
+      "num": 344241,
+      "word": "肖战为电影增重",
+      "onboard_time": 1687100612,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 343880,
@@ -6203,6 +6219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296381,
+      "num": 296381,
+      "word": "中美外长会谈结束",
+      "onboard_time": 1687100491,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 295769,
       "num": 295769,
       "word": "真的别再关灯玩手机了",
@@ -6435,6 +6459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287400,
+      "num": 287400,
+      "word": "鬼灭之刃",
+      "onboard_time": 1687096828,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 287302,
       "num": 287302,
       "word": "女乘客空中失聪浙江医生出手了",
@@ -6473,6 +6505,14 @@
       "onboard_time": 1687057885,
       "rank": 26,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 286397,
+      "num": 286397,
+      "word": "五月天嘉宾",
+      "onboard_time": 1687098511,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 286074,
@@ -6529,6 +6569,14 @@
       "onboard_time": 1686733588,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282243,
+      "num": 282243,
+      "word": "建议魏大勋别看",
+      "onboard_time": 1687101451,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 282235,
@@ -6635,6 +6683,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 277856,
+      "num": 277856,
+      "word": "李荣浩去了杨丞琳演唱会",
+      "onboard_time": 1687100975,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277665,
       "num": 268265,
       "word": "曾经的老板娘向我投了简历",
@@ -6707,14 +6763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 274505,
-      "num": 274505,
-      "word": "肖战为电影增重",
-      "onboard_time": 1687100612,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274420,
       "num": 274420,
       "word": "牟林翰需赔偿包丽母亲73万余元",
@@ -6737,14 +6785,6 @@
       "onboard_time": 1686580590,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273987,
-      "num": 250127,
-      "word": "五月天嘉宾",
-      "onboard_time": 1687098511,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 273848,
@@ -6905,6 +6945,14 @@
       "onboard_time": 1686751827,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 269639,
+      "num": 269639,
+      "word": "一个人爱你的最高形式",
+      "onboard_time": 1687101750,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 269453,
@@ -7113,6 +7161,14 @@
       "onboard_time": 1686631293,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262663,
+      "num": 262663,
+      "word": "王阳好会亲",
+      "onboard_time": 1687099411,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 262594,
@@ -7369,6 +7425,14 @@
       "onboard_time": 1686730108,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256824,
+      "num": 256824,
+      "word": "黑莲花攻略手册 永夜星河",
+      "onboard_time": 1687101570,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 256519,
@@ -7675,14 +7739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250319,
-      "num": 250319,
-      "word": "中美外长会谈结束",
-      "onboard_time": 1687100491,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 250179,
       "num": 250179,
       "word": "蒋依依希望尽快和平解约",
@@ -7907,14 +7963,6 @@
       "category": "影视,时尚"
     },
     {
-      "raw_hot": 243944,
-      "num": 243944,
-      "word": "鬼灭之刃",
-      "onboard_time": 1687096828,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 243909,
       "num": 243909,
       "word": "蔡徐坤美甲上有字",
@@ -8081,14 +8129,6 @@
       "onboard_time": 1686826287,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240400,
-      "num": 233041,
-      "word": "王阳好会亲",
-      "onboard_time": 1687099411,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 240360,
@@ -9011,6 +9051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222953,
+      "num": 222953,
+      "word": "18岁出考场vs23岁出考场",
+      "onboard_time": 1687101333,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222771,
       "num": 222771,
       "word": "突然明白了儿子为什么想回老家",
@@ -9785,14 +9833,6 @@
       "onboard_time": 1686791189,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209514,
-      "num": 209514,
-      "word": "李荣浩去了杨丞琳演唱会",
-      "onboard_time": 1687100975,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 209365,
@@ -12875,6 +12915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165939,
+      "num": 165939,
+      "word": "海豚好像在跳舞",
+      "onboard_time": 1687102231,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165903,
       "num": 165903,
       "word": "小时候不懂为什么会有边放水边加水的数学题",
@@ -13105,14 +13153,6 @@
       "onboard_time": 1686895948,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162178,
-      "num": 162178,
-      "word": "18岁出考场vs23岁出考场",
-      "onboard_time": 1687101333,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 162164,
@@ -17331,6 +17371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74542,
+      "num": 485863,
+      "word": "北京一村民连续27年义务捡垃圾",
+      "onboard_time": 1687100431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73363,
       "num": 430280,
       "word": "陈飞宇说非常敬畏演员这个职业",
@@ -17620,7 +17668,7 @@
     },
     {
       "raw_hot": 60989,
-      "num": 233045,
+      "num": 252662,
       "word": "赵继伟灌篮高手舞蹈",
       "onboard_time": 1687100431,
       "rank": 39,
@@ -18031,14 +18079,6 @@
       "num": 556454,
       "word": "浙江七旬义工离世留下精神宝箱",
       "onboard_time": 1686805289,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34181,
-      "num": 481023,
-      "word": "北京一村民连续27年义务捡垃圾",
-      "onboard_time": 1687100431,
       "rank": 14,
       "category": "社会新闻"
     },
