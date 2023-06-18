@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687065374364,
+  "endTime": 1687066414721,
   "band_list": [
     {
       "raw_hot": 2250283,
@@ -9,6 +9,14 @@
       "onboard_time": 1687058247,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1936534,
+      "num": 1638929,
+      "word": "领导跟你说辛苦了千万别说没事不辛苦",
+      "onboard_time": 1687058968,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1934437,
@@ -25,14 +33,6 @@
       "onboard_time": 1687057167,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1638929,
-      "num": 1638929,
-      "word": "领导跟你说辛苦了千万别说没事不辛苦",
-      "onboard_time": 1687058968,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1618448,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1535599,
+      "num": 1361651,
+      "word": "孟美岐演唱会票价",
+      "onboard_time": 1687060887,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1522055,
       "num": 1252197,
       "word": "秦岚王阳吻戏",
       "onboard_time": 1687048884,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1361651,
-      "num": 1361651,
-      "word": "孟美岐演唱会票价",
-      "onboard_time": 1687060887,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 1277248,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 619059,
+      "num": 619059,
+      "word": "EDG淘汰世界冠军LOUD",
+      "onboard_time": 1687065267,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 587104,
       "num": 587104,
       "word": "偷偷藏不住暗恋成真预告",
@@ -291,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495166,
+      "num": 495166,
+      "word": "偷偷藏不住OST阵容",
+      "onboard_time": 1687064728,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489324,
       "num": 489324,
       "word": "看不懂pros and cons",
       "onboard_time": 1687058968,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 453588,
+      "num": 453588,
+      "word": "小猪崽紫",
+      "onboard_time": 1687065387,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 434906,
@@ -507,14 +531,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 285560,
-      "num": 285560,
-      "word": "偷偷藏不住OST阵容",
-      "onboard_time": 1687064728,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280709,
       "num": 280709,
       "word": "专四答案",
@@ -529,6 +545,14 @@
       "onboard_time": 1687053265,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277370,
+      "num": 277370,
+      "word": "曾黎赵丽颖新剧演师徒",
+      "onboard_time": 1687065747,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 274277,
@@ -577,14 +601,6 @@
       "onboard_time": 1687051525,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254027,
-      "num": 254027,
-      "word": "EDG淘汰世界冠军LOUD",
-      "onboard_time": 1687065267,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 253524,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1687014031,
       "rank": 42,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 147406,
+      "num": 147406,
+      "word": "浙江宣传评广州地铁事件",
+      "onboard_time": 1687065987,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146826,

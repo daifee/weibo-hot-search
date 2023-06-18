@@ -1,0 +1,410 @@
+{
+  "runTime": 1687066414721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840353,
+        "num": 1840353,
+        "word": "孟美岐演唱会门票两天还没卖完",
+        "onboard_time": 1687058247,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 925654,
+        "num": 925654,
+        "word": "薛之谦听谈到赵英俊强忍着眼泪",
+        "onboard_time": 1687053505,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21989,
+        "num": 910369,
+        "word": "中国有约",
+        "onboard_time": 1687057167,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1936534,
+        "num": 832389,
+        "word": "领导跟你说辛苦了千万别说没事不辛苦",
+        "onboard_time": 1687058968,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535599,
+        "num": 785994,
+        "word": "孟美岐演唱会票价",
+        "onboard_time": 1687060887,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 951093,
+        "num": 741703,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687048884,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 725666,
+        "num": 725666,
+        "word": "在我25岁时爸爸给我了一套房子的钥匙",
+        "onboard_time": 1687054407,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 693159,
+        "num": 693159,
+        "word": "布林肯访华",
+        "onboard_time": 1687062387,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 619059,
+        "num": 619059,
+        "word": "EDG淘汰世界冠军LOUD",
+        "onboard_time": 1687065267,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 540444,
+        "num": 540444,
+        "word": "百果园回应女子团购西瓜被嘲讽",
+        "onboard_time": 1687047083,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495166,
+        "num": 495166,
+        "word": "偷偷藏不住OST阵容",
+        "onboard_time": 1687064728,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453588,
+        "num": 453588,
+        "word": "小猪崽紫",
+        "onboard_time": 1687065387,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447222,
+        "num": 447222,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1687060288,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428568,
+        "num": 428568,
+        "word": "专四",
+        "onboard_time": 1687057167,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423804,
+        "num": 423804,
+        "word": "蔡徐坤虞书欣甘比母女合影",
+        "onboard_time": 1687043898,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406344,
+        "num": 406344,
+        "word": "白敬亭宋轶今晚见",
+        "onboard_time": 1687048586,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365036,
+        "num": 365036,
+        "word": "父亲节祝福",
+        "onboard_time": 1687049905,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350208,
+        "num": 350208,
+        "word": "父亲节",
+        "onboard_time": 1687043058,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346293,
+        "num": 346293,
+        "word": "半个奢侈品圈都在李宇春演唱会",
+        "onboard_time": 1687046601,
+        "rank": 18,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 309256,
+        "num": 346019,
+        "word": "帮男朋友洗6年没有洗过的脏辫",
+        "onboard_time": 1687004370,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 821264,
+        "num": 345833,
+        "word": "被录取了因体检不合格被刷",
+        "onboard_time": 1687061247,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 608744,
+        "num": 345537,
+        "word": "鼠头变鸭脖事件校方市场监管方将被追责",
+        "onboard_time": 1687049067,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503427,
+        "num": 345383,
+        "word": "女生称洗澡后发现酒店房间有摄像头",
+        "onboard_time": 1687054167,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399459,
+        "num": 344900,
+        "word": "室友在我的护发素里掺了脱毛膏",
+        "onboard_time": 1687059867,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344851,
+        "num": 344851,
+        "word": "偷偷藏不住暗恋成真预告",
+        "onboard_time": 1687064307,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376576,
+        "num": 341572,
+        "word": "女子住酒店赤身躺床男子刷卡进入",
+        "onboard_time": 1687009410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309346,
+        "num": 309346,
+        "word": "女生称没穿内衣取外卖被骑手骚扰",
+        "onboard_time": 1687009830,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307212,
+        "num": 307212,
+        "word": "张杰父亲节晒女儿打鼓视频",
+        "onboard_time": 1687063168,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294284,
+        "num": 294284,
+        "word": "杨紫许凯的cp感",
+        "onboard_time": 1687062989,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285393,
+        "num": 285393,
+        "word": "入职后发现顶替怀孕同事工作",
+        "onboard_time": 1687045821,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541239,
+        "num": 285159,
+        "word": "胡兵50万积分被东航清零",
+        "onboard_time": 1687050326,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277370,
+        "num": 277370,
+        "word": "曾黎赵丽颖新剧演师徒",
+        "onboard_time": 1687065747,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259713,
+        "num": 259713,
+        "word": "网文作家拒绝魔改亲自导演",
+        "onboard_time": 1687060887,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245109,
+        "num": 245109,
+        "word": "在韩国比较吃香的中国女演员",
+        "onboard_time": 1687045761,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213448,
+        "num": 213448,
+        "word": "美国国务卿布林肯抵达北京",
+        "onboard_time": 1687060768,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 211809,
+        "num": 211809,
+        "word": "专四答案",
+        "onboard_time": 1687057766,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 211295,
+        "word": "苏醒妈妈不平衡了",
+        "onboard_time": 1687062207,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210345,
+        "num": 210345,
+        "word": "与凤行首发剧照",
+        "onboard_time": 1687059867,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206932,
+        "num": 206932,
+        "word": "ChaelusForever01 去世",
+        "onboard_time": 1687064307,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196547,
+        "num": 196547,
+        "word": "专四 难",
+        "onboard_time": 1687059148,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204802,
+        "num": 194482,
+        "word": "承欢记开机",
+        "onboard_time": 1687056087,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180699,
+        "num": 180699,
+        "word": "看不懂pros and cons",
+        "onboard_time": 1687058968,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174847,
+        "num": 174847,
+        "word": "EDG对阵LOUD",
+        "onboard_time": 1687064968,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173939,
+        "num": 173939,
+        "word": "人民检察院正式批捕孙准浩",
+        "onboard_time": 1687057766,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155474,
+        "num": 155474,
+        "word": "陈哲远偷吃沈月的饭",
+        "onboard_time": 1687056626,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147406,
+        "num": 147406,
+        "word": "浙江宣传评广州地铁事件",
+        "onboard_time": 1687065987,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141578,
+        "num": 141578,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1687064548,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140102,
+        "num": 140102,
+        "word": "肖战说肖春生最大的遗憾是错过父亲",
+        "onboard_time": 1687064427,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139050,
+        "num": 139050,
+        "word": "马正阳配音叶瑄",
+        "onboard_time": 1687064127,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132851,
+        "num": 132851,
+        "word": "端午节公司发了红皮粽子",
+        "onboard_time": 1687063470,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的绿色版图不断扩大#"
+    }
+  }
+}

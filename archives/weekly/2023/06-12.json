@@ -1,6 +1,6 @@
 {
   "startTime": 1686500440484,
-  "endTime": 1687065374364,
+  "endTime": 1687066414721,
   "band_list": [
     {
       "raw_hot": 11149108,
@@ -619,6 +619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1936534,
+      "num": 1638929,
+      "word": "领导跟你说辛苦了千万别说没事不辛苦",
+      "onboard_time": 1687058968,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1936298,
       "num": 1936298,
       "word": "姑娘要结婚退租时扫干净房子留下喜糖",
@@ -859,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1638929,
-      "num": 1638929,
-      "word": "领导跟你说辛苦了千万别说没事不辛苦",
-      "onboard_time": 1687058968,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1637648,
       "num": 952112,
       "word": "轮到看大学生四六级笑话了",
@@ -993,6 +993,14 @@
       "onboard_time": 1686914609,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1535599,
+      "num": 1361651,
+      "word": "孟美岐演唱会票价",
+      "onboard_time": 1687060887,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1531824,
@@ -1217,14 +1225,6 @@
       "onboard_time": 1686906508,
       "rank": 14,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1361651,
-      "num": 1361651,
-      "word": "孟美岐演唱会票价",
-      "onboard_time": 1687060887,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 1351320,
@@ -3091,6 +3091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 619059,
+      "num": 619059,
+      "word": "EDG淘汰世界冠军LOUD",
+      "onboard_time": 1687065267,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 610115,
       "num": 610115,
       "word": "难哄",
@@ -3627,6 +3635,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 495166,
+      "num": 495166,
+      "word": "偷偷藏不住OST阵容",
+      "onboard_time": 1687064728,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491416,
       "num": 236149,
       "word": "肖战李沁再回那片海",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1686911187,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453588,
+      "num": 453588,
+      "word": "小猪崽紫",
+      "onboard_time": 1687065387,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 451390,
@@ -5987,14 +6011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285560,
-      "num": 285560,
-      "word": "偷偷藏不住OST阵容",
-      "onboard_time": 1687064728,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285185,
       "num": 285185,
       "word": "毕业搬家才知道生活费都去哪了",
@@ -6153,6 +6169,14 @@
       "onboard_time": 1686889538,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277370,
+      "num": 277370,
+      "word": "曾黎赵丽颖新剧演师徒",
+      "onboard_time": 1687065747,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 277193,
@@ -6889,14 +6913,6 @@
       "onboard_time": 1686616711,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 254027,
-      "num": 254027,
-      "word": "EDG淘汰世界冠军LOUD",
-      "onboard_time": 1687065267,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 253955,
@@ -12897,6 +12913,14 @@
       "onboard_time": 1686898408,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 147406,
+      "num": 147406,
+      "word": "浙江宣传评广州地铁事件",
+      "onboard_time": 1687065987,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147385,
