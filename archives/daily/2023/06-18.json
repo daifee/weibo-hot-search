@@ -1,6 +1,6 @@
 {
   "startTime": 1687019755415,
-  "endTime": 1687058476560,
+  "endTime": 1687059215338,
   "band_list": [
     {
       "raw_hot": 1934437,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1265105,
-      "num": 618538,
+      "num": 769088,
       "word": "鼠头变鸭脖事件校方市场监管方将被追责",
       "onboard_time": 1687049067,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 838449,
+      "num": 838449,
+      "word": "在我25岁时爸爸给我了一套房子的钥匙",
+      "onboard_time": 1687054407,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 784996,
       "num": 343360,
       "word": "女生称没穿内衣取外卖被骑手骚扰",
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 718050,
-      "num": 718050,
-      "word": "在我25岁时爸爸给我了一套房子的钥匙",
-      "onboard_time": 1687054407,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 640943,
       "num": 640943,
       "word": "胡歌大鹏影帝双黄蛋",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 579137,
-      "num": 340326,
+      "num": 412373,
       "word": "入职后发现顶替怀孕同事工作",
       "onboard_time": 1687045821,
       "rank": 20,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 557548,
-      "num": 332961,
+      "num": 391433,
       "word": "女子住酒店赤身躺床男子刷卡进入",
       "onboard_time": 1687009410,
       "rank": 23,
@@ -225,6 +225,38 @@
       "onboard_time": 1686983369,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515194,
+      "num": 515194,
+      "word": "孟美岐演唱会门票两天还没卖完",
+      "onboard_time": 1687058247,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 467561,
+      "num": 467561,
+      "word": "看不懂pros and cons",
+      "onboard_time": 1687058968,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 425656,
+      "num": 425656,
+      "word": "父亲节祝福",
+      "onboard_time": 1687049905,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419027,
+      "num": 419027,
+      "word": "专四 难",
+      "onboard_time": 1687059148,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 407613,
@@ -265,14 +297,6 @@
       "onboard_time": 1687009950,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371503,
-      "num": 371503,
-      "word": "父亲节祝福",
-      "onboard_time": 1687049905,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367392,
@@ -339,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309246,
+      "num": 309246,
+      "word": "布林肯",
+      "onboard_time": 1687046122,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 300232,
       "num": 300232,
       "word": "父亲节快乐",
       "onboard_time": 1687043957,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296436,
-      "num": 296436,
-      "word": "布林肯",
-      "onboard_time": 1687046122,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 286471,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235425,
+      "num": 235425,
+      "word": "给狗子洗澡洗一半去找沐浴露",
+      "onboard_time": 1687058486,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232359,
       "num": 232359,
       "word": "我有一栋楼 是要偷你什么东西",
@@ -475,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224569,
+      "num": 224569,
+      "word": "人民检察院正式批捕孙准浩",
+      "onboard_time": 1687057766,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223847,
       "num": 223847,
       "word": "专四作文",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 222688,
-      "num": 509363,
+      "num": 516800,
       "word": "距拼多多今年618结束仅剩196天",
       "onboard_time": 1687052125,
       "rank": 15,
@@ -513,6 +553,14 @@
       "onboard_time": 1687056446,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 219938,
+      "num": 219938,
+      "word": "领导跟你说辛苦了千万别说没事不辛苦",
+      "onboard_time": 1687058968,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219474,
@@ -539,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212390,
+      "num": 258215,
+      "word": "西湖偶遇卖花郎送荷花",
+      "onboard_time": 1687058426,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 210759,
       "num": 210759,
       "word": "球迷冲进球场抱C罗",
@@ -547,28 +603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205023,
+      "num": 205023,
+      "word": "TFBOYS十周年粉丝线下音乐会",
+      "onboard_time": 1687055067,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203324,
       "num": 203324,
       "word": "男朋友冷战后给我打钱",
       "onboard_time": 1687054048,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203140,
-      "num": 203140,
-      "word": "人民检察院正式批捕孙准浩",
-      "onboard_time": 1687057766,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203004,
-      "num": 203004,
-      "word": "TFBOYS十周年粉丝线下音乐会",
-      "onboard_time": 1687055067,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 202294,
@@ -587,14 +635,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 193651,
-      "num": 193651,
-      "word": "孟美岐演唱会门票两天还没卖完",
-      "onboard_time": 1687058247,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 191793,
       "num": 191793,
       "word": "闪耀的她",
@@ -609,6 +649,14 @@
       "onboard_time": 1687053325,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186114,
+      "num": 186114,
+      "word": "新传老师谈新闻专业报考争论",
+      "onboard_time": 1687058606,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185739,
@@ -763,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155742,
+      "num": 155742,
+      "word": "想见你韩版预告",
+      "onboard_time": 1687058786,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155140,
       "num": 155140,
       "word": "长风渡放个预告吧",
@@ -881,14 +937,6 @@
       "onboard_time": 1687050145,
       "rank": 37,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 127173,
-      "num": 127173,
-      "word": "西湖偶遇卖花郎送荷花",
-      "onboard_time": 1687058426,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 126236,
@@ -1131,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41258,
+      "num": 1333652,
+      "word": "中国有约",
+      "onboard_time": 1687057167,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40811,
       "num": 40811,
       "word": "周柏豪佛山演唱会",
       "onboard_time": 1687023559,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37271,
-      "num": 1333652,
-      "word": "中国有约",
-      "onboard_time": 1687057167,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30385,
