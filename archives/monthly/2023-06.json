@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687062822723,
+  "endTime": 1687065374364,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2250283,
+      "num": 2250283,
+      "word": "孟美岐演唱会门票两天还没卖完",
+      "onboard_time": 1687058247,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2230491,
       "num": 2230491,
       "word": "Amber单杀Uzi",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1687050326,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1932853,
-      "num": 1932853,
-      "word": "孟美岐演唱会门票两天还没卖完",
-      "onboard_time": 1687058247,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 1928089,
@@ -3209,6 +3209,14 @@
       "onboard_time": 1685672128,
       "rank": 4,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1361651,
+      "num": 1361651,
+      "word": "孟美岐演唱会票价",
+      "onboard_time": 1687060887,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1358630,
@@ -5667,14 +5675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 931263,
-      "num": 931263,
-      "word": "孟美岐演唱会票价",
-      "onboard_time": 1687060887,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 929461,
       "num": 587949,
       "word": "马云在东京教书",
@@ -6153,6 +6153,14 @@
       "onboard_time": 1686281310,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861809,
+      "num": 386195,
+      "word": "被录取了因体检不合格被刷",
+      "onboard_time": 1687061247,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 861719,
@@ -7387,6 +7395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728442,
+      "num": 728442,
+      "word": "布林肯访华",
+      "onboard_time": 1687062387,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 726387,
       "num": 1615343,
       "word": "女子为帮装空调丈夫拉安全绳拒绝减肥",
@@ -8499,14 +8515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 612620,
-      "num": 386195,
-      "word": "被录取了因体检不合格被刷",
-      "onboard_time": 1687061247,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 612599,
       "num": 612599,
       "word": "王鹤棣要去泰国录跑男",
@@ -8745,6 +8753,14 @@
       "onboard_time": 1686015807,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587104,
+      "num": 587104,
+      "word": "偷偷藏不住暗恋成真预告",
+      "onboard_time": 1687064307,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 587046,
@@ -11035,6 +11051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 434906,
+      "num": 379010,
+      "word": "室友在我的护发素里掺了脱毛膏",
+      "onboard_time": 1687059867,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 434172,
       "num": 434172,
       "word": "六一儿童节",
@@ -11081,6 +11105,14 @@
       "onboard_time": 1686107320,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 432138,
+      "num": 348302,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1685851827,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 431729,
@@ -12003,14 +12035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395659,
-      "num": 395659,
-      "word": "布林肯访华",
-      "onboard_time": 1687062387,
-      "rank": 18,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 395612,
       "num": 395612,
       "word": "椰树审美",
@@ -12475,14 +12499,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 379010,
-      "num": 379010,
-      "word": "室友在我的护发素里掺了脱毛膏",
-      "onboard_time": 1687059867,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 378739,
       "num": 378739,
       "word": "李泰容solo曲SHALALA",
@@ -12547,6 +12563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376941,
+      "num": 376941,
+      "word": "马正阳配音叶瑄",
+      "onboard_time": 1687064127,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 376762,
       "num": 376762,
       "word": "对你来说月薪1万够花吗",
@@ -12592,6 +12616,14 @@
       "word": "萧敬腾方律师声明",
       "onboard_time": 1686442885,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 374212,
+      "num": 333755,
+      "word": "张杰父亲节晒女儿打鼓视频",
+      "onboard_time": 1687063168,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -13307,6 +13339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354743,
+      "num": 354743,
+      "word": "网文作家拒绝魔改亲自导演",
+      "onboard_time": 1687060887,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354421,
       "num": 354421,
       "word": "马斯克亲测减肥神药要来了",
@@ -13529,14 +13569,6 @@
       "onboard_time": 1686036386,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348302,
-      "num": 348302,
-      "word": "五十公里桃花坞",
-      "onboard_time": 1685851827,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 348269,
@@ -14051,6 +14083,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 336001,
+      "num": 336001,
+      "word": "杨紫许凯的cp感",
+      "onboard_time": 1687062989,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335995,
       "num": 335995,
       "word": "后浪越来越狗血了",
@@ -14177,14 +14217,6 @@
       "onboard_time": 1686196539,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 333503,
-      "num": 333503,
-      "word": "网文作家拒绝魔改亲自导演",
-      "onboard_time": 1687060887,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 333409,
@@ -14993,6 +15025,14 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315136,
+      "num": 315136,
+      "word": "肖战说肖春生最大的遗憾是错过父亲",
+      "onboard_time": 1687064427,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 315014,
@@ -16705,6 +16745,14 @@
       "onboard_time": 1685804552,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285560,
+      "num": 285560,
+      "word": "偷偷藏不住OST阵容",
+      "onboard_time": 1687064728,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 285238,
@@ -18923,6 +18971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256314,
+      "num": 256314,
+      "word": "EDG对阵LOUD",
+      "onboard_time": 1687064968,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256186,
       "num": 256186,
       "word": "超载25倍沥青货车侧翻母子被埋身亡",
@@ -19145,6 +19201,14 @@
       "onboard_time": 1685946448,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254027,
+      "num": 254027,
+      "word": "EDG淘汰世界冠军LOUD",
+      "onboard_time": 1687065267,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 253955,
@@ -20113,6 +20177,14 @@
       "onboard_time": 1686880048,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 243662,
+      "num": 243662,
+      "word": "苏醒妈妈不平衡了",
+      "onboard_time": 1687062207,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 243463,
@@ -21635,6 +21707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228444,
+      "num": 228444,
+      "word": "ChaelusForever01 去世",
+      "onboard_time": 1687064307,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228339,
       "num": 228339,
       "word": "肖战刘芮麟敬礼变装",
@@ -22945,14 +23025,6 @@
       "onboard_time": 1685550029,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217695,
-      "num": 217695,
-      "word": "苏醒妈妈不平衡了",
-      "onboard_time": 1687062207,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 217579,
@@ -24387,6 +24459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206640,
+      "num": 206640,
+      "word": "EDG生死战",
+      "onboard_time": 1687064968,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206528,
       "num": 182788,
       "word": "如果拥有一台穿越机你会做什么",
@@ -24857,6 +24937,14 @@
       "onboard_time": 1686966627,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202868,
+      "num": 202868,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1687064427,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 202762,
@@ -28169,6 +28257,14 @@
       "onboard_time": 1685599407,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183806,
+      "num": 183806,
+      "word": "端午节公司发了红皮粽子",
+      "onboard_time": 1687063470,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 183781,
@@ -40772,7 +40868,7 @@
     },
     {
       "raw_hot": 41258,
-      "num": 1333652,
+      "num": 1370542,
       "word": "中国有约",
       "onboard_time": 1687057167,
       "rank": 2,

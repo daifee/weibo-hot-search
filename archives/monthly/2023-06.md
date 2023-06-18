@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 12:33:42
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/18 13:16:14
 </p>
 </blockquote>
 <p>
@@ -795,6 +795,12 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C%23" target="weibo">
+孟美岐演唱会门票两天还没卖完（热度：2250283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23" target="weibo">
 Amber单杀Uzi（热度：2230491）
 </a>
@@ -1223,12 +1229,6 @@ Jennie道歉评论区（热度：1965915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E4%B8%9C%E8%88%AA%E6%B8%85%E9%9B%B6%23" target="weibo">
 胡兵50万积分被东航清零（热度：1934437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%B8%A4%E5%A4%A9%E8%BF%98%E6%B2%A1%E5%8D%96%E5%AE%8C%23" target="weibo">
-孟美岐演唱会门票两天还没卖完（热度：1932853）
 </a>
 </li>
 
@@ -2417,6 +2417,12 @@ Jennie是前一天爬山太累了吗（热度：1402398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%9D%90%E5%88%AB%E4%BA%BA%E7%9A%84%E7%83%AD%E5%87%B3%E5%AD%90%23" target="weibo">
 为什么不能坐别人的热凳子（热度：1362230）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%23" target="weibo">
+孟美岐演唱会票价（热度：1361651）
 </a>
 </li>
 
@@ -4263,12 +4269,6 @@ EDG海报空个位置（热度：945915）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%23" target="weibo">
-孟美岐演唱会票价（热度：931263）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%95%99%E4%B9%A6%23" target="weibo">
 马云在东京教书（热度：929461）
 </a>
@@ -4625,6 +4625,12 @@ WBG零封JDG（热度：888042）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%97%E5%90%8E%E8%87%AA%E6%9D%80%23" target="weibo">
 孤寡老人家中被盗后自杀（热度：864404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BD%95%E5%8F%96%E4%BA%86%E5%9B%A0%E4%BD%93%E6%A3%80%E4%B8%8D%E5%90%88%E6%A0%BC%E8%A2%AB%E5%88%B7%23" target="weibo">
+被录取了因体检不合格被刷（热度：861809）
 </a>
 </li>
 
@@ -5553,6 +5559,12 @@ RNG老板澄清Uzi退役谣言（热度：735025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E%23" target="weibo">
+布林肯访华（热度：728442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%B8%AE%E8%A3%85%E7%A9%BA%E8%B0%83%E4%B8%88%E5%A4%AB%E6%8B%89%E5%AE%89%E5%85%A8%E7%BB%B3%E6%8B%92%E7%BB%9D%E5%87%8F%E8%82%A5%23" target="weibo">
 女子为帮装空调丈夫拉安全绳拒绝减肥（热度：726387）
 </a>
@@ -5999,18 +6011,6 @@ Lisa脚趾头（热度：679829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E8%BF%91%E8%A7%86%E5%8F%B8%E6%9C%BA%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F%E4%B8%8A%E9%95%9C%E7%89%87%E7%AA%81%E7%84%B6%E8%84%B1%E8%90%BD%23" target="weibo">
 温州近视司机深夜高速上镜片突然脱落（热度：667086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E4%BA%A7%E5%90%8E%E9%A6%96%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%23" target="weibo">
-程晓玥产后首晒全家福（热度：666497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%91%8620%E6%A1%8C%E8%AF%B7200%E5%AD%A9%E5%AD%90%E5%90%83%E5%B8%AD%E5%BA%86%E5%85%AD%E4%B8%80%23" target="weibo">
-幼儿园摆20桌请200孩子吃席庆六一（热度：666332）
 </a>
 </li>
 
