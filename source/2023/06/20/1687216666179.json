@@ -1,0 +1,410 @@
+{
+  "runTime": 1687216666179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 718407,
+        "num": 718407,
+        "word": "你现在网购还常用淘宝吗",
+        "onboard_time": 1687186363,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604463,
+        "num": 604463,
+        "word": "马云指出淘宝天猫未来三个方向",
+        "onboard_time": 1687180119,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 31854,
+        "num": 582219,
+        "word": "杭州亚运奖牌上的湖山长什么样",
+        "onboard_time": 1687180837,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565280,
+        "num": 565280,
+        "word": "杭州一企业月薪1万2半年只招到两人",
+        "onboard_time": 1687185043,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 449962,
+        "num": 449962,
+        "word": "蔡徐坤评论区回复粉丝",
+        "onboard_time": 1687187205,
+        "rank": 4,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1592338,
+        "num": 432793,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322734,
+        "num": 322734,
+        "word": "庆余年2官宣阵容",
+        "onboard_time": 1687169980,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312844,
+        "num": 312844,
+        "word": "朱一龙爸爸",
+        "onboard_time": 1687176338,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272419,
+        "num": 272419,
+        "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+        "onboard_time": 1687180541,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259544,
+        "num": 259544,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1582587,
+        "num": 255925,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285836,
+        "num": 240226,
+        "word": "胡锡进 川大那名女生的事该有结果了",
+        "onboard_time": 1687175319,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213014,
+        "num": 213014,
+        "word": "小学班主任课间1分钟能处理多少事",
+        "onboard_time": 1687187500,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386900,
+        "num": 212011,
+        "word": "唐老师",
+        "onboard_time": 1687189000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209492,
+        "num": 209492,
+        "word": "网友拍到的龙吸水",
+        "onboard_time": 1687183544,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713135,
+        "num": 199408,
+        "word": "黄景瑜工作室回应不实传闻",
+        "onboard_time": 1687216462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 993428,
+        "num": 195416,
+        "word": "陶晶莹称希望黄子佼好好度过",
+        "onboard_time": 1687192706,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185636,
+        "num": 185636,
+        "word": "女子称母亲到派出所接受询问后死亡",
+        "onboard_time": 1687178922,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "五星红旗被捆绑酒店连说10句对不起",
+        "onboard_time": 1687174061,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713667,
+        "num": 156784,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453810,
+        "num": 153432,
+        "word": "黄景瑜说和前任是亲人也是朋友",
+        "onboard_time": 1687216523,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334169,
+        "num": 153075,
+        "word": "结婚五年面相都变了",
+        "onboard_time": 1687161587,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 207618,
+        "num": 149913,
+        "word": "澳大利亚一男子持刀入室抢劫被奸杀",
+        "onboard_time": 1687179581,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183366,
+        "num": 145746,
+        "word": "Jennie新剧预告又跳舞了",
+        "onboard_time": 1687192349,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144702,
+        "num": 144702,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178062,
+        "num": 143605,
+        "word": "唐梓结婚",
+        "onboard_time": 1687171960,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139611,
+        "num": 139611,
+        "word": "庆余年2官宣毛晓彤",
+        "onboard_time": 1687190916,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138934,
+        "num": 138934,
+        "word": "伊能静陪儿子逛街",
+        "onboard_time": 1687187801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127528,
+        "num": 127528,
+        "word": "赵敏周芷若同框了",
+        "onboard_time": 1687183482,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127333,
+        "num": 127333,
+        "word": "一听啤酒惹怒半个美国",
+        "onboard_time": 1687187561,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121496,
+        "num": 121496,
+        "word": "黄子佼拿刀割自己",
+        "onboard_time": 1687157623,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119453,
+        "num": 119453,
+        "word": "上帝要开空调了",
+        "onboard_time": 1687192824,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 119292,
+        "num": 119292,
+        "word": "流水迢迢官宣任嘉伦李兰迪",
+        "onboard_time": 1687212496,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105758,
+        "num": 105758,
+        "word": "公园里不套大鹅改套大爷了",
+        "onboard_time": 1687215680,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98158,
+        "num": 98158,
+        "word": "调查称53.7%年轻人存款不足10万",
+        "onboard_time": 1687160626,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 108479,
+        "num": 90421,
+        "word": "庆余年叶灵儿",
+        "onboard_time": 1687171002,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106951,
+        "num": 90115,
+        "word": "朱一龙说曾掉到陈思诚家水池",
+        "onboard_time": 1687189835,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103076,
+        "num": 86576,
+        "word": "景甜冯绍峰新剧cp海报",
+        "onboard_time": 1687212015,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78558,
+        "num": 78558,
+        "word": "布林肯结束访华",
+        "onboard_time": 1687188456,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 75544,
+        "num": 75544,
+        "word": "张踩铃 父与子完全不在一个世界",
+        "onboard_time": 1687185769,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101337,
+        "num": 74963,
+        "word": "范晓萱",
+        "onboard_time": 1687154381,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100076,
+        "num": 74945,
+        "word": "倪妮的珍珠首饰",
+        "onboard_time": 1687191450,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95244,
+        "num": 74544,
+        "word": "刘宇宁宋祖儿折腰对手戏",
+        "onboard_time": 1687213936,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73597,
+        "num": 73597,
+        "word": "厦门体育中心回应演唱会场地脏",
+        "onboard_time": 1687197678,
+        "rank": 43,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 84948,
+        "num": 73596,
+        "word": "余景天新男团OneNEleven",
+        "onboard_time": 1687196897,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69252,
+        "num": 73580,
+        "word": "在一起很久后必须分开的情况",
+        "onboard_time": 1687182461,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63003,
+        "num": 73573,
+        "word": "你太用力了所以走不远",
+        "onboard_time": 1687168002,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56746,
+        "num": 73566,
+        "word": "雨季进山千万要关注天气变化",
+        "onboard_time": 1687216643,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56384,
+        "num": 73552,
+        "word": "怎么斗得过几十年的逆子",
+        "onboard_time": 1687207392,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51658,
+        "num": 73537,
+        "word": "千年盐湖美成胭脂盒",
+        "onboard_time": 1687216043,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国国务卿布林肯#"
+    }
+  }
+}

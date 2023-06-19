@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687214011686,
+  "endTime": 1687216666179,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -683,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 713135,
+      "num": 199408,
+      "word": "黄景瑜工作室回应不实传闻",
+      "onboard_time": 1687216462,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690409,
       "num": 690409,
       "word": "王阳用口红在秦岚脸上留号码",
@@ -755,8 +763,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 579209,
-      "num": 572568,
+      "raw_hot": 604463,
+      "num": 604463,
       "word": "马云指出淘宝天猫未来三个方向",
       "onboard_time": 1687180119,
       "rank": 49,
@@ -777,6 +785,14 @@
       "onboard_time": 1687178922,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565280,
+      "num": 565280,
+      "word": "杭州一企业月薪1万2半年只招到两人",
+      "onboard_time": 1687185043,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 555536,
@@ -801,14 +817,6 @@
       "onboard_time": 1687150171,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517527,
-      "num": 517527,
-      "word": "杭州一企业月薪1万2半年只招到两人",
-      "onboard_time": 1687185043,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 517021,
@@ -913,6 +921,14 @@
       "onboard_time": 1687147711,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 453810,
+      "num": 153432,
+      "word": "黄景瑜说和前任是亲人也是朋友",
+      "onboard_time": 1687216523,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 451706,
@@ -1859,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213014,
+      "num": 295062,
+      "word": "小学班主任课间1分钟能处理多少事",
+      "onboard_time": 1687187500,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212974,
       "num": 212974,
       "word": "电影第八个嫌疑人定档",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1687130661,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197242,
-      "num": 295062,
-      "word": "小学班主任课间1分钟能处理多少事",
-      "onboard_time": 1687187500,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196457,
@@ -2643,6 +2659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 119292,
+      "num": 119292,
+      "word": "流水迢迢官宣任嘉伦李兰迪",
+      "onboard_time": 1687212496,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115814,
       "num": 115814,
       "word": "王一博黄渤大鹏岳云鹏动漫图",
@@ -2691,6 +2715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105758,
+      "num": 105758,
+      "word": "公园里不套大鹅改套大爷了",
+      "onboard_time": 1687215680,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103076,
+      "num": 86576,
+      "word": "景甜冯绍峰新剧cp海报",
+      "onboard_time": 1687212015,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102711,
       "num": 102711,
       "word": "五月天告五人",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1687196897,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95244,
+      "num": 74544,
+      "word": "刘宇宁宋祖儿折腰对手戏",
+      "onboard_time": 1687213936,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 94135,
@@ -2763,20 +2811,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 77555,
-      "num": 77555,
-      "word": "景甜冯绍峰新剧cp海报",
-      "onboard_time": 1687212015,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 77082,
       "num": 276163,
       "word": "NIP对战WE",
       "onboard_time": 1687171180,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73597,
+      "num": 73597,
+      "word": "厦门体育中心回应演唱会场地脏",
+      "onboard_time": 1687197678,
+      "rank": 49,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 73490,
@@ -2835,20 +2883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57398,
-      "num": 57398,
-      "word": "厦门体育中心回应演唱会场地脏",
-      "onboard_time": 1687197678,
-      "rank": 49,
-      "category": "社会新闻,音乐"
+      "raw_hot": 56746,
+      "num": 73566,
+      "word": "雨季进山千万要关注天气变化",
+      "onboard_time": 1687216643,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 57293,
-      "num": 57293,
-      "word": "流水迢迢官宣任嘉伦李兰迪",
-      "onboard_time": 1687212496,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 56384,
+      "num": 73552,
+      "word": "怎么斗得过几十年的逆子",
+      "onboard_time": 1687207392,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 55269,
@@ -2873,6 +2921,14 @@
       "onboard_time": 1687109956,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51658,
+      "num": 73537,
+      "word": "千年盐湖美成胭脂盒",
+      "onboard_time": 1687216043,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 49203,
@@ -2955,15 +3011,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33578,
-      "num": 43209,
-      "word": "怎么斗得过几十年的逆子",
-      "onboard_time": 1687207392,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 30119,
+      "raw_hot": 31854,
       "num": 1070224,
       "word": "杭州亚运奖牌上的湖山长什么样",
       "onboard_time": 1687180837,
