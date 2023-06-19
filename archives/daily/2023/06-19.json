@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687185215563,
+  "endTime": 1687187901729,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -81,6 +81,14 @@
       "onboard_time": 1687155523,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3002695,
+      "num": 538748,
+      "word": "黄子佼已苏醒",
+      "onboard_time": 1687183306,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 2938900,
@@ -217,14 +225,6 @@
       "onboard_time": 1687140267,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2009748,
-      "num": 538748,
-      "word": "黄子佼已苏醒",
-      "onboard_time": 1687183306,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1860594,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777392,
+      "num": 777392,
+      "word": "赵敏周芷若同框了",
+      "onboard_time": 1687183482,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 763544,
       "num": 2040682,
       "word": "哈工大的这张毕业车票让人破防了",
@@ -673,14 +681,6 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 647696,
-      "num": 518221,
-      "word": "赵敏周芷若同框了",
-      "onboard_time": 1687183482,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 630791,
@@ -835,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479301,
+      "num": 296332,
+      "word": "你现在网购还常用淘宝吗",
+      "onboard_time": 1687186363,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474916,
+      "num": 558904,
+      "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+      "onboard_time": 1687180541,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466451,
       "num": 526591,
       "word": "澳大利亚一男子持刀入室抢劫被奸杀",
@@ -849,6 +865,14 @@
       "onboard_time": 1687172320,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465701,
+      "num": 363362,
+      "word": "杭州一企业月薪1万2半年只招到两人",
+      "onboard_time": 1687185043,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 464523,
@@ -896,6 +920,22 @@
       "word": "赵丽颖新剧自称本王",
       "onboard_time": 1687165722,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 434537,
+      "num": 290925,
+      "word": "南海归墟",
+      "onboard_time": 1687186182,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432631,
+      "num": 288614,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1687186965,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1019,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390988,
+      "num": 390988,
+      "word": "感觉自己花钱买了个工作",
+      "onboard_time": 1687186903,
+      "rank": 9,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 388246,
       "num": 374619,
       "word": "郑钧吐槽刘芸新剧角色",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1687086748,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 373776,
-      "num": 558904,
-      "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
-      "onboard_time": 1687180541,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 369312,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1687150112,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345497,
+      "num": 376053,
+      "word": "网友拍到的龙吸水",
+      "onboard_time": 1687183544,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344366,
@@ -1195,20 +1243,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305862,
-      "num": 376053,
-      "word": "网友拍到的龙吸水",
-      "onboard_time": 1687183544,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305813,
       "num": 359247,
       "word": "狗狗被陌生男子下药后拼命爬回家",
       "onboard_time": 1687145366,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304495,
+      "num": 231389,
+      "word": "蔡徐坤评论区回复粉丝",
+      "onboard_time": 1687187205,
+      "rank": 41,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 303549,
@@ -1265,6 +1313,22 @@
       "onboard_time": 1687162907,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288916,
+      "num": 217882,
+      "word": "新的言冰云是人世间里的周楠",
+      "onboard_time": 1687185641,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286314,
+      "num": 286314,
+      "word": "张踩铃 父与子完全不在一个世界",
+      "onboard_time": 1687185769,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 285563,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1687137567,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260359,
+      "num": 340096,
+      "word": "公司发了400端午过节费",
+      "onboard_time": 1687184988,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 257424,
@@ -1593,14 +1665,6 @@
       "onboard_time": 1687100550,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233775,
-      "num": 340096,
-      "word": "公司发了400端午过节费",
-      "onboard_time": 1687184988,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 233508,
@@ -1809,6 +1873,14 @@
       "onboard_time": 1687130661,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197242,
+      "num": 295062,
+      "word": "小学班主任课间1分钟能处理多少事",
+      "onboard_time": 1687187500,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196457,
@@ -2171,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152871,
+      "num": 214358,
+      "word": "女子雨中脱鞋给光脚拾荒老人穿上",
+      "onboard_time": 1687187205,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152580,
       "num": 152580,
       "word": "与凤行战意将起海报",
@@ -2291,12 +2371,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141778,
+      "num": 213770,
+      "word": "小男孩自带板凳在地铁上写作业",
+      "onboard_time": 1687187381,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141494,
       "num": 141494,
       "word": "王鹤棣许七安",
       "onboard_time": 1687094850,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140814,
+      "num": 213230,
+      "word": "一听啤酒惹怒半个美国",
+      "onboard_time": 1687187561,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139932,
