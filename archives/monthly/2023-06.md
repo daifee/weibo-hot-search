@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 09:57:56
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 10:44:14
 </p>
 </blockquote>
 <p>
@@ -533,6 +533,12 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%96%B9%E6%8A%A5%E8%AD%A6%E6%A3%80%E6%B5%8B%E8%87%AA%E8%AF%81%E6%B8%85%E7%99%BD%23" target="weibo">
 萧敬腾方报警检测自证清白（热度：2554559）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23" target="weibo">
+本周仅上4天班（热度：2548840）
 </a>
 </li>
 
@@ -1179,12 +1185,6 @@ Angelababy是靠什么长红多年的（热度：1990762）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23" target="weibo">
-本周仅上4天班（热度：1976527）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%B9%BF%E6%B6%9B%23" target="weibo">
 姜广涛（热度：1974074）
 </a>
@@ -1433,6 +1433,12 @@ EDG战胜iG（热度：1851482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E4%B8%80%E5%8D%8A%E9%AA%A8%E6%8A%98%E4%BA%86%23" target="weibo">
 程潇跳一半骨折了（热度：1841242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9A%97%E7%A4%BA%E5%88%9D%E4%B8%89%E5%AD%A6%E7%94%9F%E5%BC%83%E8%80%83%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
+班主任暗示初三学生弃考情况属实（热度：1838011）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS演唱会流程图（热度：715148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9%23" target="weibo">
 谢娜 她她她（热度：703080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%80%E8%A7%88%23" target="weibo">
-歌手演唱会价格一览（热度：701237）
 </a>
 </li>
 

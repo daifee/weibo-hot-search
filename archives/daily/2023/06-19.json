@@ -1,10 +1,10 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687139876706,
+  "endTime": 1687142654913,
   "band_list": [
     {
-      "raw_hot": 1976527,
-      "num": 1976527,
+      "raw_hot": 2548840,
+      "num": 2548840,
       "word": "本周仅上4天班",
       "onboard_time": 1687136851,
       "rank": 1,
@@ -17,6 +17,14 @@
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1838011,
+      "num": 1838011,
+      "word": "班主任暗示初三学生弃考情况属实",
+      "onboard_time": 1687140267,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1327949,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649845,
+      "num": 649845,
+      "word": "化学老师跳下10米高桥救起轻生女子",
+      "onboard_time": 1687130782,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 630791,
       "num": 630791,
       "word": "清华大学vs广东工大",
@@ -155,20 +171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 630746,
+      "num": 401473,
+      "word": "千万不要在教资体检时穿裙子",
+      "onboard_time": 1687137807,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 621210,
       "num": 621210,
       "word": "Jennie金泰亨都去看了火星哥演唱会",
       "onboard_time": 1687133788,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 575045,
-      "num": 401473,
-      "word": "千万不要在教资体检时穿裙子",
-      "onboard_time": 1687137807,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 555536,
@@ -203,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 428524,
-      "num": 428524,
-      "word": "化学老师跳下10米高桥救起轻生女子",
-      "onboard_time": 1687130782,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 423282,
       "num": 423282,
       "word": "香港的辣度细分有多严谨",
@@ -235,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400735,
+      "num": 400735,
+      "word": "鹅厂2023大剧片单",
+      "onboard_time": 1687141226,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 394082,
+      "num": 394082,
+      "word": "星宇",
+      "onboard_time": 1687137330,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 391628,
       "num": 391628,
       "word": "这背影居然是蔡少芬",
@@ -257,6 +281,22 @@
       "onboard_time": 1687077626,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 361775,
+      "num": 361775,
+      "word": "妹子抗争五年德国终于答应归还文物",
+      "onboard_time": 1687140088,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361530,
+      "num": 361530,
+      "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
+      "onboard_time": 1687141947,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 352719,
@@ -289,6 +329,14 @@
       "onboard_time": 1687086748,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293927,
+      "num": 293927,
+      "word": "幼师拍小朋友房车钱视频引争议",
+      "onboard_time": 1687141407,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285563,
@@ -331,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274782,
+      "num": 274782,
+      "word": "蔡依林UglyBeauty演唱会官宣",
+      "onboard_time": 1687142368,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273829,
       "num": 273829,
       "word": "胡可三演白敬亭丈母娘",
@@ -345,6 +401,14 @@
       "onboard_time": 1687136430,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264164,
+      "num": 264164,
+      "word": "高端局女大佬来新手局了",
+      "onboard_time": 1687141107,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 260546,
@@ -371,20 +435,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251806,
+      "num": 251806,
+      "word": "端午假期你打算出游吗",
+      "onboard_time": 1687141587,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245989,
       "num": 245989,
       "word": "朱婷",
       "onboard_time": 1687103968,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243465,
-      "num": 243465,
-      "word": "星宇",
-      "onboard_time": 1687137330,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 240557,
@@ -401,6 +465,14 @@
       "onboard_time": 1687100612,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238889,
+      "num": 238889,
+      "word": "王毅布林肯会面",
+      "onboard_time": 1687140206,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238765,
@@ -449,6 +521,14 @@
       "onboard_time": 1687084588,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220455,
+      "num": 220455,
+      "word": "蔡徐坤hugme开场",
+      "onboard_time": 1687139427,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 218268,
@@ -507,12 +587,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191584,
+      "num": 191584,
+      "word": "偷偷藏不住",
+      "onboard_time": 1687141466,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "中美外长会谈结束",
       "onboard_time": 1687100491,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "长风渡招商",
+      "onboard_time": 1687140566,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 188347,
@@ -603,12 +699,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164623,
-      "num": 164623,
-      "word": "蔡徐坤hugme开场",
-      "onboard_time": 1687139427,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 169212,
+      "num": 169212,
+      "word": "塞尔达地图",
+      "onboard_time": 1687139907,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 167742,
+      "num": 167742,
+      "word": "下班没提醒同事关空调被罚钱",
+      "onboard_time": 1687142248,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 165803,
+      "num": 165803,
+      "word": "沙溢胡可演亲家",
+      "onboard_time": 1687142307,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 162950,
@@ -649,6 +761,22 @@
       "onboard_time": 1687132106,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148042,
+      "num": 148042,
+      "word": "鱼群刻意与鲨鱼保持距离",
+      "onboard_time": 1687142248,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 147994,
+      "num": 147994,
+      "word": "与凤行战意将起海报",
+      "onboard_time": 1687142486,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 147132,
@@ -707,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139295,
+      "num": 139295,
+      "word": "aespa的四种风格",
+      "onboard_time": 1687139666,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138494,
       "num": 138494,
       "word": "父亲远行前为不让母亲干活插了秧打了药",
@@ -753,14 +889,6 @@
       "onboard_time": 1687105765,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122019,
-      "num": 122019,
-      "word": "aespa的四种风格",
-      "onboard_time": 1687139666,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120992,

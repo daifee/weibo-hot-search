@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687139876706,
+  "endTime": 1687142654913,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -697,6 +697,14 @@
       "onboard_time": 1687010012,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2548840,
+      "num": 2548840,
+      "word": "本周仅上4天班",
+      "onboard_time": 1687136851,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2545357,
@@ -1555,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1976527,
-      "num": 1976527,
-      "word": "本周仅上4天班",
-      "onboard_time": 1687136851,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1974074,
       "num": 1974074,
       "word": "姜广涛",
@@ -1897,6 +1897,14 @@
       "onboard_time": 1685768729,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1838011,
+      "num": 1838011,
+      "word": "班主任暗示初三学生弃考情况属实",
+      "onboard_time": 1687140267,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1835059,
@@ -8515,6 +8523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649845,
+      "num": 649845,
+      "word": "化学老师跳下10米高桥救起轻生女子",
+      "onboard_time": 1687130782,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 648312,
       "num": 648312,
       "word": "六级听力好难",
@@ -8721,6 +8737,14 @@
       "onboard_time": 1687097429,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 630746,
+      "num": 401473,
+      "word": "千万不要在教资体检时穿裙子",
+      "onboard_time": 1687137807,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 630377,
@@ -9369,14 +9393,6 @@
       "onboard_time": 1686916768,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 575045,
-      "num": 401473,
-      "word": "千万不要在教资体检时穿裙子",
-      "onboard_time": 1687137807,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 573709,
@@ -11659,14 +11675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 428524,
-      "num": 428524,
-      "word": "化学老师跳下10米高桥救起轻生女子",
-      "onboard_time": 1687130782,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 427749,
       "num": 427749,
       "word": "时光2定档",
@@ -12451,6 +12459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400735,
+      "num": 400735,
+      "word": "鹅厂2023大剧片单",
+      "onboard_time": 1687141226,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400668,
       "num": 400668,
       "word": "学校回应小学生将螺丝刀插进同学背部",
@@ -12569,6 +12585,14 @@
       "onboard_time": 1686909329,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394082,
+      "num": 394082,
+      "word": "星宇",
+      "onboard_time": 1687137330,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 393775,
@@ -13641,6 +13665,22 @@
       "onboard_time": 1686132219,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 361775,
+      "num": 361775,
+      "word": "妹子抗争五年德国终于答应归还文物",
+      "onboard_time": 1687140088,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361530,
+      "num": 361530,
+      "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
+      "onboard_time": 1687141947,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 361361,
@@ -16819,6 +16859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293927,
+      "num": 293927,
+      "word": "幼师拍小朋友房车钱视频引争议",
+      "onboard_time": 1687141407,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293786,
       "num": 300053,
       "word": "迪丽热巴金智秀周也江疏影同品牌大片",
@@ -18131,6 +18179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274782,
+      "num": 274782,
+      "word": "蔡依林UglyBeauty演唱会官宣",
+      "onboard_time": 1687142368,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274779,
       "num": 274779,
       "word": "EXO将拍摄团综",
@@ -19025,6 +19081,14 @@
       "onboard_time": 1686670708,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264164,
+      "num": 264164,
+      "word": "高端局女大佬来新手局了",
+      "onboard_time": 1687141107,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 264035,
@@ -20235,6 +20299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251806,
+      "num": 251806,
+      "word": "端午假期你打算出游吗",
+      "onboard_time": 1687141587,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251784,
       "num": 229386,
       "word": "聊天记录",
@@ -21083,14 +21155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243465,
-      "num": 243465,
-      "word": "星宇",
-      "onboard_time": 1687137330,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243463,
       "num": 243463,
       "word": "六千的喜宴7成是预制菜或只要一千多",
@@ -21561,6 +21625,14 @@
       "onboard_time": 1686483928,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238889,
+      "num": 238889,
+      "word": "王毅布林肯会面",
+      "onboard_time": 1687140206,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238860,
@@ -23784,6 +23856,14 @@
       "word": "李宇春演唱会上给李荣浩打电话",
       "onboard_time": 1687010672,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 220455,
+      "num": 220455,
+      "word": "蔡徐坤hugme开场",
+      "onboard_time": 1687139427,
+      "rank": 34,
       "category": "音乐"
     },
     {
@@ -28491,6 +28571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "长风渡招商",
+      "onboard_time": 1687140566,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189759,
       "num": 189759,
       "word": "恋爱脑犯了就来看看",
@@ -31507,6 +31595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169212,
+      "num": 169212,
+      "word": "塞尔达地图",
+      "onboard_time": 1687139907,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169149,
       "num": 169149,
       "word": "李大奔 抢票",
@@ -31697,6 +31793,14 @@
       "onboard_time": 1685880447,
       "rank": 28,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 167742,
+      "num": 167742,
+      "word": "下班没提醒同事关空调被罚钱",
+      "onboard_time": 1687142248,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 167722,
@@ -32051,6 +32155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165803,
+      "num": 165803,
+      "word": "沙溢胡可演亲家",
+      "onboard_time": 1687142307,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "赶时间的人也有诗和远方",
@@ -32177,14 +32289,6 @@
       "onboard_time": 1686630092,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164623,
-      "num": 164623,
-      "word": "蔡徐坤hugme开场",
-      "onboard_time": 1687139427,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 164566,
@@ -34707,6 +34811,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148042,
+      "num": 148042,
+      "word": "鱼群刻意与鲨鱼保持距离",
+      "onboard_time": 1687142248,
+      "rank": 47,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 147994,
+      "num": 147994,
+      "word": "与凤行战意将起海报",
+      "onboard_time": 1687142486,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147803,
       "num": 147803,
       "word": "李俊昊林允儿双人画报",
@@ -35929,6 +36049,14 @@
       "onboard_time": 1686343933,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139295,
+      "num": 139295,
+      "word": "aespa的四种风格",
+      "onboard_time": 1687139666,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139254,
@@ -38041,14 +38169,6 @@
       "onboard_time": 1686817766,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122019,
-      "num": 122019,
-      "word": "aespa的四种风格",
-      "onboard_time": 1687139666,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 122015,
