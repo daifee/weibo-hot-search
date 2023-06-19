@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687169924904,
+  "endTime": 1687170913636,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4203869,
-      "num": 854211,
+      "num": 873375,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2380646,
+      "num": 2380646,
+      "word": "庆余年",
+      "onboard_time": 1687167704,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2356097,
       "num": 718782,
       "word": "每个月工资8000但闲的发慌",
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2145292,
-      "num": 2145292,
-      "word": "庆余年",
-      "onboard_time": 1687167704,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2105201,
       "num": 2105201,
       "word": "班主任暗示初三学生弃考情况属实",
@@ -161,6 +161,14 @@
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1776597,
+      "num": 549170,
+      "word": "葛斯齐 曝光内容百分之九十五相符",
+      "onboard_time": 1687170880,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1737623,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1230117,
+      "num": 1230117,
+      "word": "霍建华复出后首部作品",
+      "onboard_time": 1687167463,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1162999,
       "num": 610204,
       "word": "女子房子两年没住被邻居用衣柜封死",
@@ -257,14 +273,6 @@
       "onboard_time": 1687160626,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1138980,
-      "num": 1138980,
-      "word": "霍建华复出后首部作品",
-      "onboard_time": 1687167463,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1123579,
@@ -331,12 +339,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 953728,
+      "num": 953728,
+      "word": "庆余年2官宣阵容",
+      "onboard_time": 1687169980,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 950232,
       "num": 950232,
       "word": "石矶娘娘来了也穿不了",
       "onboard_time": 1687164284,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 937127,
+      "num": 937127,
+      "word": "肖战骄阳伴我双平台播出",
+      "onboard_time": 1687168182,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 927985,
@@ -387,12 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 860346,
-      "num": 860346,
-      "word": "肖战骄阳伴我双平台播出",
-      "onboard_time": 1687168182,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 863869,
+      "num": 339457,
+      "word": "应采儿陈小春假装不认识Jasper",
+      "onboard_time": 1687168480,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 854276,
@@ -467,14 +491,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 737964,
-      "num": 275144,
-      "word": "应采儿陈小春假装不认识Jasper",
-      "onboard_time": 1687168480,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 721825,
       "num": 658978,
       "word": "白敬亭吃醋不像演的",
@@ -545,6 +561,14 @@
       "onboard_time": 1687137807,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 626537,
+      "num": 339157,
+      "word": "庆余年2好多美女",
+      "onboard_time": 1687170461,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 621210,
@@ -827,6 +851,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 348966,
+      "num": 338535,
+      "word": "雅思四个9的越南人",
+      "onboard_time": 1687169980,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346894,
       "num": 346894,
       "word": "与凤行预告",
@@ -985,6 +1017,14 @@
       "onboard_time": 1687105886,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280493,
+      "num": 339984,
+      "word": "你太用力了所以走不远",
+      "onboard_time": 1687168002,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 279877,
@@ -1171,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244350,
-      "num": 265902,
-      "word": "你太用力了所以走不远",
-      "onboard_time": 1687168002,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240557,
       "num": 240557,
       "word": "田曦薇大奉打更人",
@@ -1307,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220388,
+      "num": 338421,
+      "word": "不到10天浙江母女先后确诊这种癌",
+      "onboard_time": 1687167403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218296,
       "num": 218296,
       "word": "雨刮器和方向盘在忙什么",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213898,
-      "num": 265815,
-      "word": "不到10天浙江母女先后确诊这种癌",
-      "onboard_time": 1687167403,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212974,
@@ -1436,7 +1468,7 @@
     },
     {
       "raw_hot": 196457,
-      "num": 265016,
+      "num": 337976,
       "word": "王者荣耀",
       "onboard_time": 1687167342,
       "rank": 39,
@@ -1772,7 +1804,7 @@
     },
     {
       "raw_hot": 144108,
-      "num": 263734,
+      "num": 295802,
       "word": "八条腿各忙各的",
       "onboard_time": 1687169742,
       "rank": 48,
@@ -1875,12 +1907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132811,
+      "num": 295258,
+      "word": "存多少钱才有底气裸辞",
+      "onboard_time": 1687170580,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 132773,
       "num": 329411,
       "word": "针织届的大厨",
       "onboard_time": 1687165899,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 130966,
+      "num": 1059703,
+      "word": "恐高辅警11楼救下轻生男子",
+      "onboard_time": 1687169080,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130611,
@@ -2011,14 +2059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 90211,
-      "num": 1059703,
-      "word": "恐高辅警11楼救下轻生男子",
-      "onboard_time": 1687169080,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89917,
       "num": 120857,
       "word": "广工总冠军",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1687115713,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 21360,
+      "num": 626306,
+      "word": "男童深夜独自乘车司机果断报警",
+      "onboard_time": 1687170340,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2162,6 +2210,9 @@
     },
     {
       "word": "#三北防护林启动建设45年#"
+    },
+    {
+      "word": "#习近平会见布林肯#"
     }
   ]
 }
