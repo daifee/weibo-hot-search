@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687144689472,
+  "endTime": 1687145632978,
   "band_list": [
     {
       "raw_hot": 2596648,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2077480,
-      "num": 2077480,
+      "raw_hot": 2105201,
+      "num": 2105201,
       "word": "班主任暗示初三学生弃考情况属实",
       "onboard_time": 1687140267,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1687098270,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181889,
+      "num": 1181889,
+      "word": "马思纯扇巴掌戏被打到闭眼",
+      "onboard_time": 1687143268,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1162999,
@@ -83,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 868372,
+      "num": 868372,
+      "word": "沙溢胡可情头",
+      "onboard_time": 1687142728,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -107,19 +123,19 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 796660,
-      "num": 796660,
-      "word": "沙溢胡可情头",
-      "onboard_time": 1687142728,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 783781,
       "num": 783781,
       "word": "为什么阴干的衣服那么臭",
       "onboard_time": 1687082128,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747276,
+      "num": 747276,
+      "word": "幼师拍小朋友房车钱视频引争议",
+      "onboard_time": 1687141407,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 655681,
+      "num": 655681,
+      "word": "南京小龙虾卖100块一只值吗",
+      "onboard_time": 1687142910,
+      "rank": 38,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 649845,
       "num": 649845,
       "word": "化学老师跳下10米高桥救起轻生女子",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 630746,
-      "num": 401473,
+      "num": 447490,
       "word": "千万不要在教资体检时穿裙子",
       "onboard_time": 1687137807,
       "rank": 20,
@@ -195,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 576375,
+      "num": 576375,
+      "word": "大四男生实习薪资1万4妈妈仰天大笑",
+      "onboard_time": 1687076488,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -203,20 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542680,
-      "num": 542680,
-      "word": "幼师拍小朋友房车钱视频引争议",
-      "onboard_time": 1687141407,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526610,
-      "num": 517308,
-      "word": "马思纯扇巴掌戏被打到闭眼",
-      "onboard_time": 1687143268,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 522665,
+      "num": 522665,
+      "word": "为什么推荐6月21日提离职",
+      "onboard_time": 1687144288,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 514645,
@@ -227,20 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495466,
-      "num": 495466,
-      "word": "大四男生实习薪资1万4妈妈仰天大笑",
-      "onboard_time": 1687076488,
-      "rank": 11,
-      "category": "社会新闻,教育"
+      "raw_hot": 511422,
+      "num": 511422,
+      "word": "张杰演唱会现场喊话黄牛",
+      "onboard_time": 1687144466,
+      "rank": 37,
+      "category": "音乐"
     },
     {
-      "raw_hot": 493461,
-      "num": 493461,
-      "word": "南京小龙虾卖100块一只值吗",
-      "onboard_time": 1687142910,
-      "rank": 38,
-      "category": "社会新闻,美食"
+      "raw_hot": 510802,
+      "num": 510802,
+      "word": "妹子抗争五年德国终于答应归还文物",
+      "onboard_time": 1687140088,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491959,
@@ -257,14 +281,6 @@
       "onboard_time": 1687135350,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 466410,
-      "num": 466410,
-      "word": "妹子抗争五年德国终于答应归还文物",
-      "onboard_time": 1687140088,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423282,
@@ -291,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410379,
+      "num": 410379,
+      "word": "折腰首发群像海报",
+      "onboard_time": 1687145550,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 407350,
       "num": 407350,
       "word": "女孩撞上食客被烫伤食客有责任吗",
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 394082,
-      "num": 394082,
+      "num": 449582,
       "word": "星宇",
       "onboard_time": 1687137330,
       "rank": 34,
@@ -353,6 +377,14 @@
       "onboard_time": 1687104028,
       "rank": 23,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 329830,
+      "num": 329830,
+      "word": "长相思",
+      "onboard_time": 1687144709,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 318082,
@@ -435,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268913,
+      "num": 268913,
+      "word": "十年前当了蔡依林甲方",
+      "onboard_time": 1687144466,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266501,
       "num": 266501,
       "word": "中餐厅路透",
@@ -475,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252469,
+      "num": 252469,
+      "word": "Newjeans将回归",
+      "onboard_time": 1687145069,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251806,
       "num": 251806,
       "word": "端午假期你打算出游吗",
@@ -483,11 +531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248790,
-      "num": 248790,
-      "word": "为什么推荐6月21日提离职",
-      "onboard_time": 1687144288,
-      "rank": 25,
+      "raw_hot": 248934,
+      "num": 248934,
+      "word": "工作没找到还劝退了一个",
+      "onboard_time": 1687144947,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -507,11 +555,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239968,
+      "num": 239968,
+      "word": "汪苏泷赵露思新歌藏不住了",
+      "onboard_time": 1687144588,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239818,
       "num": 239818,
       "word": "肖战为电影增重",
       "onboard_time": 1687100612,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 239240,
+      "num": 239240,
+      "word": "白玉兰",
+      "onboard_time": 1687144947,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -563,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232941,
+      "num": 250610,
+      "word": "狗狗被陌生男子下药后拼命爬回家",
+      "onboard_time": 1687145366,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229971,
       "num": 229971,
       "word": "黄渤新片6岁儿子颜值",
@@ -595,12 +667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213929,
-      "num": 212910,
-      "word": "十年前当了蔡依林甲方",
-      "onboard_time": 1687144466,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 214345,
+      "num": 181371,
+      "word": "顾漫马甲",
+      "onboard_time": 1687145366,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 212974,
@@ -609,14 +681,6 @@
       "onboard_time": 1687143988,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211562,
-      "num": 211562,
-      "word": "汪苏泷赵露思新歌藏不住了",
-      "onboard_time": 1687144588,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 211019,
@@ -651,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200892,
-      "num": 200892,
-      "word": "张杰演唱会现场喊话黄牛",
-      "onboard_time": 1687144466,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199013,
       "num": 199013,
       "word": "肖战 人生可不止这一片什刹海",
       "onboard_time": 1687130661,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198560,
+      "num": 198560,
+      "word": "美国珍珠鳖放生太湖",
+      "onboard_time": 1687143027,
+      "rank": 48,
+      "category": "自然"
     },
     {
       "raw_hot": 194488,
@@ -721,14 +785,6 @@
       "onboard_time": 1687099590,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184041,
-      "num": 184041,
-      "word": "美国珍珠鳖放生太湖",
-      "onboard_time": 1687143027,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 183906,
@@ -1148,7 +1204,7 @@
     },
     {
       "raw_hot": 42647,
-      "num": 1402157,
+      "num": 1455677,
       "word": "三夏农忙正当时",
       "onboard_time": 1687097788,
       "rank": 2,

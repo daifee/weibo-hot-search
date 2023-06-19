@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 11:18:09
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 11:33:52
 </p>
 </blockquote>
 <p>
@@ -969,6 +969,12 @@ Angelababy冷脸（热度：2172017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9A%97%E7%A4%BA%E5%88%9D%E4%B8%89%E5%AD%A6%E7%94%9F%E5%BC%83%E8%80%83%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
+班主任暗示初三学生弃考情况属实（热度：2105201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%23" target="weibo">
 六公主（热度：2103908）
 </a>
@@ -1019,12 +1025,6 @@ Uzi哭了（热度：2079978）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%80%A7%E4%BE%B5%E6%80%80%E5%AD%95%E5%BC%95%E4%BA%A7%E5%90%8E%E6%8A%A5%E8%AD%A6%23" target="weibo">
 13岁女孩遭性侵怀孕引产后报警（热度：2078480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9A%97%E7%A4%BA%E5%88%9D%E4%B8%89%E5%AD%A6%E7%94%9F%E5%BC%83%E8%80%83%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
-班主任暗示初三学生弃考情况属实（热度：2077480）
 </a>
 </li>
 
@@ -3213,6 +3213,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%E8%A2%AB%E6%89%93%E5%88%B0%E9%97%AD%E7%9C%BC%23" target="weibo">
+马思纯扇巴掌戏被打到闭眼（热度：1181889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%87%E4%BA%BA%E5%A5%BD%E7%89%9B%23" target="weibo">
 梅西过人好牛（热度：1179979）
 </a>
@@ -4773,6 +4779,12 @@ WBG零封JDG（热度：888042）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%83%85%E5%A4%B4%23" target="weibo">
+沙溢胡可情头（热度：868372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
 上海迪士尼（热度：867928）
 </a>
@@ -5313,12 +5325,6 @@ EDG官宣Thesnake上调一队（热度：796859）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%83%85%E5%A4%B4%23" target="weibo">
-沙溢胡可情头（热度：796660）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%99%E5%8D%B7%E8%8B%B1%E8%AF%AD%E5%BF%AB%E5%86%99%E5%93%AD%E4%BA%86%23" target="weibo">
 乙卷英语快写哭了（热度：794419）
 </a>
@@ -5703,6 +5709,12 @@ Uzi首发对战iG（热度：759138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E6%8B%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%BF%E8%BD%A6%E9%92%B1%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+幼师拍小朋友房车钱视频引争议（热度：747276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%23" target="weibo">
 中石油（热度：746282）
 </a>
@@ -5999,18 +6011,6 @@ TFBOYS演唱会流程图（热度：715148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4288%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 印度火车相撞已致288人死亡（热度：705499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%8A%E5%9E%AB%E4%B8%8A%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%86%9C%E5%88%B0%E5%BA%95%E7%94%A8%E4%B8%8D%E7%94%A8%E6%92%95%23" target="weibo">
-床垫上的保护膜到底用不用撕（热度：703890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BC%A0%E5%AD%90%E6%9E%ABi%E4%BA%BA%E9%A2%86%E5%A5%96%23" target="weibo">
-王一博张子枫i人领奖（热度：703201）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687145632978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105201,
+        "num": 2105201,
+        "word": "班主任暗示初三学生弃考情况属实",
+        "onboard_time": 1687140267,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1744530,
+        "num": 1744530,
+        "word": "本周仅上4天班",
+        "onboard_time": 1687136851,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26738,
+        "num": 1455677,
+        "word": "三夏农忙正当时",
+        "onboard_time": 1687097788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181889,
+        "num": 1181889,
+        "word": "马思纯扇巴掌戏被打到闭眼",
+        "onboard_time": 1687143268,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 868372,
+        "num": 868372,
+        "word": "沙溢胡可情头",
+        "onboard_time": 1687142728,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 747276,
+        "num": 747276,
+        "word": "幼师拍小朋友房车钱视频引争议",
+        "onboard_time": 1687141407,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655681,
+        "num": 655681,
+        "word": "南京小龙虾卖100块一只值吗",
+        "onboard_time": 1687142910,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 653098,
+        "num": 653098,
+        "word": "王阳用口红在秦岚脸上留号码",
+        "onboard_time": 1687134028,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602443,
+        "num": 602443,
+        "word": "白敬亭想改的名字都被注册了",
+        "onboard_time": 1687135109,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585437,
+        "num": 585437,
+        "word": "肖战赵丽颖正剧苗子",
+        "onboard_time": 1687133967,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576375,
+        "num": 576375,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 565368,
+        "num": 565368,
+        "word": "一天之内拒绝了30个学生请假",
+        "onboard_time": 1687133730,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559757,
+        "num": 559757,
+        "word": "鹿晗金色脏辫",
+        "onboard_time": 1687133847,
+        "rank": 12,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 522665,
+        "num": 522665,
+        "word": "为什么推荐6月21日提离职",
+        "onboard_time": 1687144288,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511422,
+        "num": 511422,
+        "word": "张杰演唱会现场喊话黄牛",
+        "onboard_time": 1687144466,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510802,
+        "num": 510802,
+        "word": "妹子抗争五年德国终于答应归还文物",
+        "onboard_time": 1687140088,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498503,
+        "num": 498503,
+        "word": "鹅厂2023大剧片单",
+        "onboard_time": 1687141226,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468917,
+        "num": 468917,
+        "word": "Jennie在舞台上走神",
+        "onboard_time": 1687097852,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354466,
+        "num": 449582,
+        "word": "星宇",
+        "onboard_time": 1687137330,
+        "rank": 18,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 398214,
+        "num": 447733,
+        "word": "Jennie金泰亨都去看了火星哥演唱会",
+        "onboard_time": 1687133788,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 447490,
+        "num": 447490,
+        "word": "千万不要在教资体检时穿裙子",
+        "onboard_time": 1687137807,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410379,
+        "num": 410379,
+        "word": "折腰首发群像海报",
+        "onboard_time": 1687145550,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334758,
+        "num": 334758,
+        "word": "化学老师跳下10米高桥救起轻生女子",
+        "onboard_time": 1687130782,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 329830,
+        "num": 329830,
+        "word": "长相思",
+        "onboard_time": 1687144709,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299522,
+        "num": 299522,
+        "word": "女子房子两年没住被邻居用衣柜封死",
+        "onboard_time": 1687130123,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310551,
+        "num": 299410,
+        "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
+        "onboard_time": 1687141947,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298439,
+        "num": 298439,
+        "word": "柴犬看了都想回日本",
+        "onboard_time": 1687135350,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268913,
+        "num": 268913,
+        "word": "十年前当了蔡依林甲方",
+        "onboard_time": 1687144466,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252469,
+        "num": 252469,
+        "word": "Newjeans将回归",
+        "onboard_time": 1687145069,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232941,
+        "num": 250610,
+        "word": "狗狗被陌生男子下药后拼命爬回家",
+        "onboard_time": 1687145366,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248934,
+        "num": 248934,
+        "word": "工作没找到还劝退了一个",
+        "onboard_time": 1687144947,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243479,
+        "num": 243479,
+        "word": "高端局女大佬来新手局了",
+        "onboard_time": 1687141107,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239968,
+        "num": 239968,
+        "word": "汪苏泷赵露思新歌藏不住了",
+        "onboard_time": 1687144588,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239240,
+        "num": 239240,
+        "word": "白玉兰",
+        "onboard_time": 1687144947,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237427,
+        "num": 237427,
+        "word": "白敬亭宋轶对视没有技巧全是感情",
+        "onboard_time": 1687087287,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232492,
+        "num": 232492,
+        "word": "989大学",
+        "onboard_time": 1687098270,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222286,
+        "num": 222286,
+        "word": "蔡徐坤hugme开场",
+        "onboard_time": 1687139427,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198560,
+        "num": 198560,
+        "word": "美国珍珠鳖放生太湖",
+        "onboard_time": 1687143027,
+        "rank": 37,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 194087,
+        "num": 194087,
+        "word": "南宁地铁推倒女站务员男子已被行拘",
+        "onboard_time": 1687135888,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181840,
+        "num": 181840,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214345,
+        "num": 181371,
+        "word": "顾漫马甲",
+        "onboard_time": 1687145366,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203381,
+        "num": 180280,
+        "word": "蔡依林UglyBeauty演唱会官宣",
+        "onboard_time": 1687142368,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189469,
+        "num": 179861,
+        "word": "NewJeans新专辑GetUp",
+        "onboard_time": 1687142966,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179150,
+        "num": 179150,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687141466,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173848,
+        "num": 173848,
+        "word": "王毅布林肯会面",
+        "onboard_time": 1687140206,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170930,
+        "num": 170930,
+        "word": "中餐厅路透",
+        "onboard_time": 1687136430,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170004,
+        "num": 170004,
+        "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+        "onboard_time": 1687099651,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167449,
+        "num": 167449,
+        "word": "第28届上海电视节今日开幕",
+        "onboard_time": 1687144288,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160194,
+        "num": 160194,
+        "word": "单身不要跟父母出去参加婚礼",
+        "onboard_time": 1687143746,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 136196,
+        "num": 159648,
+        "word": "塞尔达地图",
+        "onboard_time": 1687139907,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共享民族复兴伟大荣光#"
+    }
+  }
+}
