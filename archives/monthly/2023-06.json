@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687209344574,
+  "endTime": 1687210435410,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -45515,6 +45515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27170,
+      "num": 27170,
+      "word": "怎么斗得过几十年的逆子",
+      "onboard_time": 1687207392,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26871,
       "num": 37068,
       "word": "杨紫长春活动vlog",
@@ -45659,6 +45667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22913,
+      "num": 26014,
+      "word": "天行健",
+      "onboard_time": 1687207931,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 22077,
       "num": 28235,
       "word": "高叶 常州",
@@ -45681,14 +45697,6 @@
       "onboard_time": 1685977292,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21429,
-      "num": 22466,
-      "word": "怎么斗得过几十年的逆子",
-      "onboard_time": 1687207392,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 21360,
@@ -45753,14 +45761,6 @@
       "onboard_time": 1686367725,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19077,
-      "num": 22423,
-      "word": "天行健",
-      "onboard_time": 1687207931,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 19019,
