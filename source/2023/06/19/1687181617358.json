@@ -1,0 +1,410 @@
+{
+  "runTime": 1687181617358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2165983,
+        "num": 2165983,
+        "word": "朱一龙爸爸",
+        "onboard_time": 1687176338,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1582297,
+        "num": 1582297,
+        "word": "庆余年2官宣阵容",
+        "onboard_time": 1687169980,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32847,
+        "num": 866531,
+        "word": "高质量发展调研行",
+        "onboard_time": 1687173400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802875,
+        "num": 802875,
+        "word": "五星红旗被捆绑酒店连说10句对不起",
+        "onboard_time": 1687174061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720176,
+        "num": 720176,
+        "word": "王源回应妈妈进不去自己的演唱会",
+        "onboard_time": 1687175257,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3017967,
+        "num": 709523,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662941,
+        "num": 662941,
+        "word": "调查称53.7%年轻人存款不足10万",
+        "onboard_time": 1687160626,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 599819,
+        "num": 599819,
+        "word": "霍建华复出后首部作品",
+        "onboard_time": 1687167463,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565401,
+        "num": 565401,
+        "word": "女子称母亲到派出所接受询问后死亡",
+        "onboard_time": 1687178922,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395570,
+        "num": 564915,
+        "word": "石矶娘娘来了也穿不了",
+        "onboard_time": 1687164284,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3476729,
+        "num": 561849,
+        "word": "只要你吸毒就会被发现",
+        "onboard_time": 1687177657,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398012,
+        "num": 559366,
+        "word": "黄子佼曝大小S吸毒",
+        "onboard_time": 1687152148,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499857,
+        "num": 554744,
+        "word": "胡锡进 川大那名女生的事该有结果了",
+        "onboard_time": 1687175319,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2379220,
+        "num": 553314,
+        "word": "吴宗宪曝黄子佼曾要求女生脱衣验身",
+        "onboard_time": 1687176519,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351490,
+        "num": 550938,
+        "word": "女幼师给幼儿喂避孕药",
+        "onboard_time": 1687181021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031868,
+        "num": 546185,
+        "word": "唐梓结婚",
+        "onboard_time": 1687171960,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2192633,
+        "num": 545095,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266669,
+        "num": 542656,
+        "word": "演唱会座位脏",
+        "onboard_time": 1687160150,
+        "rank": 17,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 245080,
+        "num": 540090,
+        "word": "周雨结婚",
+        "onboard_time": 1687179219,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1210079,
+        "num": 535124,
+        "word": "贾静雯方否认曾追求黄子佼",
+        "onboard_time": 1687175018,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016341,
+        "num": 533578,
+        "word": "黄子佼拿刀割自己",
+        "onboard_time": 1687157623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849332,
+        "num": 530487,
+        "word": "庆余年叶灵儿",
+        "onboard_time": 1687171002,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39102,
+        "num": 529053,
+        "word": "别克E4这价格只想交个朋友",
+        "onboard_time": 1687180478,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526418,
+        "num": 526418,
+        "word": "倪妮被文咏珊撩到脸红",
+        "onboard_time": 1687180837,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 691476,
+        "num": 514657,
+        "word": "结婚五年面相都变了",
+        "onboard_time": 1687161587,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 633435,
+        "num": 510162,
+        "word": "腾讯变汪峰",
+        "onboard_time": 1687166201,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556458,
+        "num": 506534,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501227,
+        "num": 501227,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466451,
+        "num": 466451,
+        "word": "澳大利亚一男子持刀入室抢劫被奸杀",
+        "onboard_time": 1687179581,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149398,
+        "num": 423264,
+        "word": "布林肯访华",
+        "onboard_time": 1687163147,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 402589,
+        "num": 402589,
+        "word": "范晓萱",
+        "onboard_time": 1687154381,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365128,
+        "num": 365128,
+        "word": "长风渡婚礼",
+        "onboard_time": 1687177958,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362966,
+        "num": 362966,
+        "word": "肖战点赞比心视频",
+        "onboard_time": 1687178018,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240712,
+        "num": 240712,
+        "word": "马云的非公开会议",
+        "onboard_time": 1687178741,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073663,
+        "num": 233051,
+        "word": "黄子佼最新情况",
+        "onboard_time": 1687180780,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 357436,
+        "num": 230682,
+        "word": "张晚意今天官宣了三部剧",
+        "onboard_time": 1687162186,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334700,
+        "num": 227925,
+        "word": "周俊伟",
+        "onboard_time": 1687159848,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223732,
+        "num": 223732,
+        "word": "马云指出淘宝天猫未来三个方向",
+        "onboard_time": 1687180119,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 187426,
+        "num": 223516,
+        "word": "相亲对象讨厌的老师是我爸",
+        "onboard_time": 1687177778,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 170695,
+        "num": 223234,
+        "word": "你太用力了所以走不远",
+        "onboard_time": 1687168002,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332320,
+        "num": 223090,
+        "word": "虞书欣王鹤棣 二搭",
+        "onboard_time": 1687155162,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329086,
+        "num": 222796,
+        "word": "庆余年2好多美女",
+        "onboard_time": 1687170461,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311662,
+        "num": 222613,
+        "word": "徐梦洁加入壹心娱乐",
+        "onboard_time": 1687173938,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309200,
+        "num": 222307,
+        "word": "长风渡",
+        "onboard_time": 1687170880,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306594,
+        "num": 222041,
+        "word": "庆余年",
+        "onboard_time": 1687167704,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273817,
+        "num": 221778,
+        "word": "本次白玉兰不排除有双黄蛋",
+        "onboard_time": 1687181505,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160243,
+        "num": 221430,
+        "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
+        "onboard_time": 1687146929,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150893,
+        "num": 221213,
+        "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+        "onboard_time": 1687180541,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144707,
+        "num": 220797,
+        "word": "道长也被传染了",
+        "onboard_time": 1687178559,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124628,
+        "num": 220659,
+        "word": "苏州下雨",
+        "onboard_time": 1687180060,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国国务卿布林肯#"
+    }
+  }
+}
