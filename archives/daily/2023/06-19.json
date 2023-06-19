@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687173303684,
+  "endTime": 1687174403887,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2320521,
-      "num": 671616,
+      "num": 705294,
       "word": "葛斯齐 曝光内容百分之九十五相符",
       "onboard_time": 1687170880,
       "rank": 17,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2141755,
+      "num": 2141755,
+      "word": "林志颖",
+      "onboard_time": 1687171660,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2105201,
       "num": 2105201,
       "word": "班主任暗示初三学生弃考情况属实",
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1879838,
+      "num": 1879838,
+      "word": "庆余年2官宣阵容",
+      "onboard_time": 1687169980,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1860594,
       "num": 1860594,
       "word": "一天之内拒绝了30个学生请假",
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1816988,
-      "num": 1816988,
-      "word": "林志颖",
-      "onboard_time": 1687171660,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1737623,
@@ -192,14 +200,6 @@
       "word": "腾讯变汪峰",
       "onboard_time": 1687166201,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1705678,
-      "num": 1705678,
-      "word": "庆余年2官宣阵容",
-      "onboard_time": 1687169980,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -289,6 +289,14 @@
       "onboard_time": 1687130123,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161505,
+      "num": 1161505,
+      "word": "庆余年叶灵儿",
+      "onboard_time": 1687171002,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 1144710,
@@ -473,14 +481,6 @@
       "onboard_time": 1687142910,
       "rank": 38,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 794403,
-      "num": 281255,
-      "word": "庆余年叶灵儿",
-      "onboard_time": 1687171002,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 783781,
@@ -691,6 +691,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 487923,
+      "num": 257592,
+      "word": "徐梦洁加入壹心娱乐",
+      "onboard_time": 1687173938,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 466353,
+      "num": 277673,
+      "word": "刘亦菲大女主",
+      "onboard_time": 1687172320,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464523,
       "num": 464523,
       "word": "张杰送工作票给场外粉丝",
@@ -739,11 +755,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430050,
-      "num": 277673,
-      "word": "刘亦菲大女主",
-      "onboard_time": 1687172320,
-      "rank": 44,
+      "raw_hot": 425591,
+      "num": 256912,
+      "word": "王鹤棣田曦薇合作新剧",
+      "onboard_time": 1687173637,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -795,8 +811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404862,
-      "num": 404862,
+      "raw_hot": 405482,
+      "num": 405482,
       "word": "雅思四个9的越南人",
       "onboard_time": 1687169980,
       "rank": 35,
@@ -889,6 +905,14 @@
       "onboard_time": 1687074867,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 350413,
+      "num": 1706399,
+      "word": "男子长城藏时间胶囊12年多人留纸条",
+      "onboard_time": 1687171780,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346894,
@@ -995,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292284,
+      "num": 339984,
+      "word": "你太用力了所以走不远",
+      "onboard_time": 1687168002,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292268,
       "num": 292268,
       "word": "高端局女大佬来新手局了",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1687162907,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285898,
-      "num": 339984,
-      "word": "你太用力了所以走不远",
-      "onboard_time": 1687168002,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 285563,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1687138107,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277314,
-      "num": 1706399,
-      "word": "男子长城藏时间胶囊12年多人留纸条",
-      "onboard_time": 1687171780,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274782,
@@ -1539,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195012,
+      "num": 279238,
+      "word": "方媛送别蔡天凤画面曝光",
+      "onboard_time": 1687171237,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 194488,
       "num": 191584,
       "word": "偷偷藏不住",
@@ -1579,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188559,
-      "num": 279238,
-      "word": "方媛送别蔡天凤画面曝光",
-      "onboard_time": 1687171237,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 188347,
       "num": 188347,
       "word": "有点担心与凤行剧情了",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1687099590,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184275,
+      "num": 277034,
+      "word": "大麦网拒退票遭海量投诉",
+      "onboard_time": 1687172383,
+      "rank": 46,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 183906,
@@ -1731,6 +1755,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 172708,
+      "num": 255794,
+      "word": "上班第一天就被开除什么体验",
+      "onboard_time": 1687174360,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171328,
       "num": 171328,
       "word": "下班没提醒同事关空调被罚钱",
@@ -1771,6 +1803,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 164097,
+      "num": 255600,
+      "word": "infp无法撼动的精神领域",
+      "onboard_time": 1687174179,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 162950,
       "num": 162950,
       "word": "做家政的妈妈经常捡东西回来",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1687159791,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161393,
-      "num": 277034,
-      "word": "大麦网拒退票遭海量投诉",
-      "onboard_time": 1687172383,
-      "rank": 46,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 160544,
@@ -2163,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81515,
+      "num": 633782,
+      "word": "化学老师跳下10米高桥救人后续来了",
+      "onboard_time": 1687172440,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79177,
       "num": 79177,
       "word": "李现松弛感",
@@ -2259,20 +2299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41107,
-      "num": 605954,
-      "word": "化学老师跳下10米高桥救人后续来了",
-      "onboard_time": 1687172440,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36007,
       "num": 38966,
       "word": "叶世安柳玉茹",
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30579,
+      "num": 1927446,
+      "word": "高质量发展调研行",
+      "onboard_time": 1687173400,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26871,
