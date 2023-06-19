@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687145632978,
+  "endTime": 1687148434391,
   "band_list": [
     {
       "raw_hot": 2596648,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1613811,
+      "num": 1613811,
+      "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
+      "onboard_time": 1687146929,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1327949,
       "num": 1327949,
       "word": "989大学",
@@ -35,11 +43,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1181889,
-      "num": 1181889,
+      "raw_hot": 1316008,
+      "num": 1316008,
       "word": "马思纯扇巴掌戏被打到闭眼",
       "onboard_time": 1687143268,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1293958,
+      "num": 1293958,
+      "word": "大四男生实习薪资1万4妈妈仰天大笑",
+      "onboard_time": 1687076488,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1272409,
+      "num": 1272409,
+      "word": "顾漫马甲",
+      "onboard_time": 1687145366,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -59,12 +83,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1063635,
+      "num": 1063635,
+      "word": "猎罪图鉴2来了",
+      "onboard_time": 1687146988,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1039079,
       "num": 1039079,
       "word": "肖战赵丽颖正剧苗子",
       "onboard_time": 1687133967,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1032139,
+      "num": 1032139,
+      "word": "为什么推荐6月21日提离职",
+      "onboard_time": 1687144288,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 998050,
@@ -81,6 +121,14 @@
       "onboard_time": 1687135888,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893639,
+      "num": 893639,
+      "word": "张杰演唱会现场喊话黄牛",
+      "onboard_time": 1687144466,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 876600,
@@ -121,6 +169,14 @@
       "onboard_time": 1687133847,
       "rank": 6,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 801847,
+      "num": 801847,
+      "word": "南京小龙虾卖100块一只值吗",
+      "onboard_time": 1687142910,
+      "rank": 38,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 783781,
@@ -179,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 655681,
-      "num": 655681,
-      "word": "南京小龙虾卖100块一只值吗",
-      "onboard_time": 1687142910,
-      "rank": 38,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 649845,
       "num": 649845,
       "word": "化学老师跳下10米高桥救起轻生女子",
@@ -219,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 576375,
-      "num": 576375,
-      "word": "大四男生实习薪资1万4妈妈仰天大笑",
-      "onboard_time": 1687076488,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -235,28 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522665,
-      "num": 522665,
-      "word": "为什么推荐6月21日提离职",
-      "onboard_time": 1687144288,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 514645,
       "num": 514645,
       "word": "鹅厂2023大剧片单",
       "onboard_time": 1687141226,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 511422,
-      "num": 511422,
-      "word": "张杰演唱会现场喊话黄牛",
-      "onboard_time": 1687144466,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 510802,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396251,
+      "num": 396251,
+      "word": "十年前当了蔡依林甲方",
+      "onboard_time": 1687144466,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 394082,
       "num": 449582,
       "word": "星宇",
@@ -355,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368901,
+      "num": 337319,
+      "word": "长相思谁是杨紫的新郎",
+      "onboard_time": 1687147349,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361530,
       "num": 361530,
       "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
@@ -371,6 +411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 344196,
+      "num": 335625,
+      "word": "肖战腹肌好明显",
+      "onboard_time": 1687147349,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340706,
       "num": 340706,
       "word": "白桃星座",
@@ -379,7 +427,15 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 329830,
+      "raw_hot": 337845,
+      "num": 337845,
+      "word": "专八",
+      "onboard_time": 1687148132,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 330503,
       "num": 329830,
       "word": "长相思",
       "onboard_time": 1687144709,
@@ -417,6 +473,14 @@
       "onboard_time": 1687125373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284552,
+      "num": 284552,
+      "word": "郑钧吐槽刘芸新剧角色",
+      "onboard_time": 1687147529,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 283647,
@@ -467,12 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268913,
-      "num": 268913,
-      "word": "十年前当了蔡依林甲方",
-      "onboard_time": 1687144466,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 267288,
+      "num": 267288,
+      "word": "坐飞机发现前男友的座位在旁边",
+      "onboard_time": 1687147711,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 266501,
@@ -489,6 +553,14 @@
       "onboard_time": 1687143746,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 262547,
+      "num": 262547,
+      "word": "狗狗被陌生男子下药后拼命爬回家",
+      "onboard_time": 1687145366,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260546,
@@ -512,6 +584,14 @@
       "word": "王阳好会亲",
       "onboard_time": 1687099411,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 252903,
+      "num": 252903,
+      "word": "张晚意任敏 锦绣安宁",
+      "onboard_time": 1687146809,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -545,6 +625,14 @@
       "onboard_time": 1687103968,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245673,
+      "num": 245673,
+      "word": "白敬亭吃醋不像演的",
+      "onboard_time": 1687147049,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 240557,
@@ -611,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235520,
+      "num": 235520,
+      "word": "林志颖活动照",
+      "onboard_time": 1687148011,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234979,
       "num": 234979,
       "word": "Dream一个肖战李沁六搭",
@@ -627,12 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232941,
-      "num": 250610,
-      "word": "狗狗被陌生男子下药后拼命爬回家",
-      "onboard_time": 1687145366,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 230574,
+      "num": 184605,
+      "word": "折腰",
+      "onboard_time": 1687145789,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 229971,
@@ -667,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214345,
-      "num": 181371,
-      "word": "顾漫马甲",
-      "onboard_time": 1687145366,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212974,
       "num": 212974,
       "word": "电影第八个嫌疑人定档",
@@ -707,6 +795,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 205315,
+      "num": 205315,
+      "word": "美国珍珠鳖放生太湖",
+      "onboard_time": 1687143027,
+      "rank": 48,
+      "category": "自然"
+    },
+    {
       "raw_hot": 202693,
       "num": 202693,
       "word": "王俊凯说何炅黄磊背影好孤独",
@@ -721,14 +817,6 @@
       "onboard_time": 1687130661,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198560,
-      "num": 198560,
-      "word": "美国珍珠鳖放生太湖",
-      "onboard_time": 1687143027,
-      "rank": 48,
-      "category": "自然"
     },
     {
       "raw_hot": 194488,
@@ -777,6 +865,14 @@
       "onboard_time": 1687099469,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184699,
+      "num": 184699,
+      "word": "好多明星出发时装周",
+      "onboard_time": 1687147590,
+      "rank": 39,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 184425,
@@ -843,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175512,
+      "num": 175512,
+      "word": "刘若英广州抢票",
+      "onboard_time": 1687147829,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174178,
       "num": 174178,
       "word": "梁静茹重庆",
@@ -865,6 +969,14 @@
       "onboard_time": 1687142248,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170772,
+      "num": 170772,
+      "word": "因为口癖是老公社死了",
+      "onboard_time": 1687147711,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 170275,
