@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687166276942,
+  "endTime": 1687167225386,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -16,6 +16,14 @@
       "word": "黄子佼承认性骚扰",
       "onboard_time": 1687151191,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7571356,
+      "num": 7571356,
+      "word": "大S工作室回应吸毒指控",
+      "onboard_time": 1687166502,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2160551,
+      "num": 717817,
+      "word": "吴宗宪称将起诉黄子佼",
+      "onboard_time": 1687163026,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2105201,
       "num": 2105201,
       "word": "班主任暗示初三学生弃考情况属实",
@@ -137,14 +153,6 @@
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1825276,
-      "num": 717817,
-      "word": "吴宗宪称将起诉黄子佼",
-      "onboard_time": 1687163026,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 1737623,
@@ -411,6 +419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 722642,
+      "num": 722642,
+      "word": "石矶娘娘来了也穿不了",
+      "onboard_time": 1687164284,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 721825,
       "num": 658978,
       "word": "白敬亭吃醋不像演的",
@@ -449,6 +465,14 @@
       "onboard_time": 1687097852,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 677688,
+      "num": 445590,
+      "word": "腾讯变汪峰",
+      "onboard_time": 1687166201,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 662084,
@@ -499,7 +523,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 574708,
+      "raw_hot": 577141,
       "num": 574708,
       "word": "萧敬腾",
       "onboard_time": 1687161707,
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435544,
+      "num": 435544,
+      "word": "赵丽颖新剧自称本王",
+      "onboard_time": 1687165722,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432169,
       "num": 432169,
       "word": "肖战腹肌好明显",
@@ -667,28 +699,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 398812,
-      "num": 398812,
-      "word": "赵丽颖新剧自称本王",
-      "onboard_time": 1687165722,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 396251,
       "num": 396251,
       "word": "十年前当了蔡依林甲方",
       "onboard_time": 1687144466,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 395197,
-      "num": 652517,
-      "word": "石矶娘娘来了也穿不了",
-      "onboard_time": 1687164284,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 394082,
@@ -729,14 +745,6 @@
       "onboard_time": 1687077626,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 368423,
-      "num": 368423,
-      "word": "腾讯变汪峰",
-      "onboard_time": 1687166201,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 361530,
@@ -785,6 +793,14 @@
       "onboard_time": 1687104028,
       "rank": 23,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 337434,
+      "num": 337434,
+      "word": "玫瑰故事",
+      "onboard_time": 1687166381,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 330503,
@@ -1155,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235187,
+      "num": 441553,
+      "word": "喜欢把手插进米里的原因",
+      "onboard_time": 1687166201,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234979,
       "num": 234979,
       "word": "Dream一个肖战李沁六搭",
@@ -1323,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195958,
-      "num": 441553,
-      "word": "喜欢把手插进米里的原因",
-      "onboard_time": 1687166201,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195841,
       "num": 195841,
       "word": "宋妍霏高瀚宇吻戏",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1687152752,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179091,
+      "num": 428759,
+      "word": "这就是我瘦不下来的原因",
+      "onboard_time": 1687166381,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 178369,
@@ -1747,6 +1771,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 132527,
+      "num": 298970,
+      "word": "老父亲手机被女儿没收离家出走",
+      "onboard_time": 1687166141,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130611,
       "num": 130611,
       "word": "你会请三休八拼长假吗",
@@ -1923,6 +1955,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 62876,
+      "num": 1255638,
+      "word": "夏日中国每一帧都是限定壁纸",
+      "onboard_time": 1687150653,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59530,
       "num": 1001808,
       "word": "中国制造究竟有多牛",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1687158045,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 47142,
-      "num": 1255638,
-      "word": "夏日中国每一帧都是限定壁纸",
-      "onboard_time": 1687150653,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42647,

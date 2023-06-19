@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687166276942,
+  "endTime": 1687167225386,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -137,6 +137,14 @@
       "onboard_time": 1686993868,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7571356,
+      "num": 7571356,
+      "word": "大S工作室回应吸毒指控",
+      "onboard_time": 1687166502,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 7463239,
@@ -1291,6 +1299,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2160551,
+      "num": 717817,
+      "word": "吴宗宪称将起诉黄子佼",
+      "onboard_time": 1687163026,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2156186,
       "num": 2156186,
       "word": "高考数学乙卷",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1686109552,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1825276,
-      "num": 717817,
-      "word": "吴宗宪称将起诉黄子佼",
-      "onboard_time": 1687163026,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 1824408,
@@ -8059,6 +8067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722642,
+      "num": 722642,
+      "word": "石矶娘娘来了也穿不了",
+      "onboard_time": 1687164284,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 722463,
       "num": 722463,
       "word": "美国32岁男子让3个儿子站成一排枪杀",
@@ -8553,6 +8569,14 @@
       "onboard_time": 1685864308,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 677688,
+      "num": 445590,
+      "word": "腾讯变汪峰",
+      "onboard_time": 1687166201,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 676786,
@@ -9691,20 +9715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577141,
+      "num": 574708,
+      "word": "萧敬腾",
+      "onboard_time": 1687161707,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575089,
       "num": 347684,
       "word": "原来近视是需要忌口的",
       "onboard_time": 1686916768,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 574708,
-      "num": 574708,
-      "word": "萧敬腾",
-      "onboard_time": 1687161707,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 573709,
@@ -11883,6 +11907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 435544,
+      "num": 435544,
+      "word": "赵丽颖新剧自称本王",
+      "onboard_time": 1687165722,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435501,
       "num": 435501,
       "word": "原著里的桑延vs剧版里的桑延",
@@ -12939,14 +12971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398812,
-      "num": 398812,
-      "word": "赵丽颖新剧自称本王",
-      "onboard_time": 1687165722,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398755,
       "num": 352953,
       "word": "河南人和山东人都别沉默了",
@@ -13001,14 +13025,6 @@
       "onboard_time": 1685845587,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395197,
-      "num": 652517,
-      "word": "石矶娘娘来了也穿不了",
-      "onboard_time": 1687164284,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 395000,
@@ -13824,14 +13840,6 @@
       "word": "肖春生 我本桀骜少年臣",
       "onboard_time": 1686496291,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368423,
-      "num": 368423,
-      "word": "腾讯变汪峰",
-      "onboard_time": 1687166201,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -15105,6 +15113,14 @@
       "onboard_time": 1685604867,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337434,
+      "num": 337434,
+      "word": "玫瑰故事",
+      "onboard_time": 1685627913,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 337088,
@@ -22691,6 +22707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235187,
+      "num": 441553,
+      "word": "喜欢把手插进米里的原因",
+      "onboard_time": 1687166201,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234847,
       "num": 223223,
       "word": "肖战李沁新剧宿命感",
@@ -25257,14 +25281,6 @@
       "onboard_time": 1686189328,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 215531,
-      "num": 199515,
-      "word": "玫瑰故事",
-      "onboard_time": 1685627913,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 215501,
@@ -28065,14 +28081,6 @@
       "onboard_time": 1686098853,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 195958,
-      "num": 441553,
-      "word": "喜欢把手插进米里的原因",
-      "onboard_time": 1687166201,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 195864,
@@ -31105,6 +31113,14 @@
       "onboard_time": 1687152752,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179091,
+      "num": 428759,
+      "word": "这就是我瘦不下来的原因",
+      "onboard_time": 1687166381,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 179081,
@@ -37867,6 +37883,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 132527,
+      "num": 298970,
+      "word": "老父亲手机被女儿没收离家出走",
+      "onboard_time": 1687166141,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132362,
       "num": 132362,
       "word": "陈祥榕生前床铺上摆上了一盒喜糖",
@@ -43147,6 +43171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62876,
+      "num": 1255638,
+      "word": "夏日中国每一帧都是限定壁纸",
+      "onboard_time": 1687150653,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62648,
       "num": 62648,
       "word": "毕业典礼开启雨刷器模式",
@@ -43841,14 +43873,6 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 47142,
-      "num": 1255638,
-      "word": "夏日中国每一帧都是限定壁纸",
-      "onboard_time": 1687150653,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46997,
