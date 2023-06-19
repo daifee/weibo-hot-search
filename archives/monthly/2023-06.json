@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687155769860,
+  "endTime": 1687156547666,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -11,8 +11,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 15039850,
-      "num": 15039850,
+      "raw_hot": 15371387,
+      "num": 15371387,
       "word": "黄子佼曝大小S吸毒",
       "onboard_time": 1687152148,
       "rank": 3,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2892320,
+      "num": 439390,
+      "word": "范晓萱",
+      "onboard_time": 1687154381,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2841549,
       "num": 2841549,
       "word": "四六级",
@@ -841,14 +849,6 @@
       "onboard_time": 1686466886,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2471786,
-      "num": 438588,
-      "word": "范晓萱",
-      "onboard_time": 1687154381,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2467998,
@@ -3315,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1387575,
+      "num": 412001,
+      "word": "阿雅",
+      "onboard_time": 1687155523,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1387281,
       "num": 588001,
       "word": "宋昕冉追星迪丽热巴成功",
@@ -3403,8 +3411,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1359289,
-      "num": 1359289,
+      "raw_hot": 1360776,
+      "num": 1360776,
       "word": "张小斐首部女主电视剧",
       "onboard_time": 1687152451,
       "rank": 39,
@@ -3961,6 +3969,14 @@
       "onboard_time": 1685751085,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1255692,
+      "num": 1255692,
+      "word": "拍一部爆一部的演员",
+      "onboard_time": 1687153112,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1254518,
@@ -4955,14 +4971,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1087704,
-      "num": 1087704,
-      "word": "拍一部爆一部的演员",
-      "onboard_time": 1687153112,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1086340,
       "num": 982929,
       "word": "四大顶级舞担",
@@ -5145,6 +5153,14 @@
       "onboard_time": 1686393763,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1054901,
+      "num": 1054901,
+      "word": "警方确认女子房子被邻居打通使用",
+      "onboard_time": 1687151550,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1054537,
@@ -6051,6 +6067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 923690,
+      "num": 923690,
+      "word": "虞书欣王鹤棣 二搭",
+      "onboard_time": 1687155162,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 921878,
       "num": 921878,
       "word": "张子豪 淘汰",
@@ -6539,14 +6563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 861345,
-      "num": 861345,
-      "word": "警方确认女子房子被邻居打通使用",
-      "onboard_time": 1687151550,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 857818,
       "num": 857818,
       "word": "姆巴佩说梅西没得到应有的尊重",
@@ -6817,6 +6833,14 @@
       "onboard_time": 1686733049,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 831771,
+      "num": 759444,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 830576,
@@ -7577,14 +7601,6 @@
       "onboard_time": 1686443368,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 759444,
-      "num": 759444,
-      "word": "Jennie巡演翻白眼",
-      "onboard_time": 1687153414,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 759138,
@@ -11867,14 +11883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429159,
-      "num": 429159,
-      "word": "虞书欣王鹤棣 二搭",
-      "onboard_time": 1687155162,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 428979,
       "num": 428979,
       "word": "少爷和我再合体",
@@ -13937,14 +13945,6 @@
       "onboard_time": 1686989128,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361253,
-      "num": 361253,
-      "word": "阿雅",
-      "onboard_time": 1687155523,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 361213,
@@ -19699,6 +19699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261621,
+      "num": 261621,
+      "word": "00后女孩辞职开馒头店一个卖五六块",
+      "onboard_time": 1687153718,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261437,
       "num": 284127,
       "word": "美脱口秀演员拿马航失联玩梗拒不道歉",
@@ -20664,14 +20672,6 @@
       "word": "端午假期你打算出游吗",
       "onboard_time": 1687141587,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251790,
-      "num": 251790,
-      "word": "00后女孩辞职开馒头店一个卖五六块",
-      "onboard_time": 1687153718,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -24601,6 +24601,14 @@
       "onboard_time": 1685762068,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218095,
+      "num": 218095,
+      "word": "言承旭林依晨合作新剧",
+      "onboard_time": 1687156181,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 218093,
@@ -29899,6 +29907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185360,
+      "num": 185360,
+      "word": "迪丽热巴嘉人NOW夏季刊封面",
+      "onboard_time": 1687155943,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185337,
       "num": 185337,
       "word": "田曦薇新剧妆容",
@@ -32457,6 +32473,14 @@
       "onboard_time": 1686467249,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166983,
+      "num": 166983,
+      "word": "腾讯今天物料好多",
+      "onboard_time": 1687155822,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 166971,
@@ -41051,6 +41075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96465,
+      "num": 434596,
+      "word": "湖南女孩从中职生逆袭到博士",
+      "onboard_time": 1687155523,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96443,
       "num": 96443,
       "word": "皇马官宣阿扎尔离队",
@@ -42763,6 +42795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63300,
+      "num": 197087,
+      "word": "今夏饿了么免单6月21日开启",
+      "onboard_time": 1687154440,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 63258,
       "num": 315990,
       "word": "最酷的老爸",
@@ -43145,14 +43185,6 @@
       "onboard_time": 1686958401,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55402,
-      "num": 197087,
-      "word": "今夏饿了么免单6月21日开启",
-      "onboard_time": 1687154440,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 55060,
@@ -44288,14 +44320,6 @@
       "word": "聚焦全国高考",
       "onboard_time": 1685914272,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23917,
-      "num": 434596,
-      "word": "湖南女孩从中职生逆袭到博士",
-      "onboard_time": 1687155523,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

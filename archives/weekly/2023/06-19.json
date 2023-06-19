@@ -1,10 +1,10 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687155769860,
+  "endTime": 1687156547666,
   "band_list": [
     {
-      "raw_hot": 15039850,
-      "num": 15039850,
+      "raw_hot": 15371387,
+      "num": 15371387,
       "word": "黄子佼曝大小S吸毒",
       "onboard_time": 1687152148,
       "rank": 3,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2892320,
+      "num": 439390,
+      "word": "范晓萱",
+      "onboard_time": 1687154381,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2596648,
       "num": 2596648,
       "word": "本周仅上4天班",
       "onboard_time": 1687136851,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2471786,
-      "num": 438588,
-      "word": "范晓萱",
-      "onboard_time": 1687154381,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2168535,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1387575,
+      "num": 412001,
+      "word": "阿雅",
+      "onboard_time": 1687155523,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1371172,
       "num": 1371172,
       "word": "顾漫马甲",
@@ -99,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1359289,
-      "num": 1359289,
+      "raw_hot": 1360776,
+      "num": 1360776,
       "word": "张小斐首部女主电视剧",
       "onboard_time": 1687152451,
       "rank": 39,
@@ -123,6 +131,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1255692,
+      "num": 1255692,
+      "word": "拍一部爆一部的演员",
+      "onboard_time": 1687153112,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1162999,
       "num": 610204,
       "word": "女子房子两年没住被邻居用衣柜封死",
@@ -131,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1087704,
-      "num": 1087704,
-      "word": "拍一部爆一部的演员",
-      "onboard_time": 1687153112,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1071290,
       "num": 1071290,
       "word": "迪丽热巴手滑进了梦海直播间",
       "onboard_time": 1687089148,
       "rank": 1,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 1054901,
+      "num": 1054901,
+      "word": "警方确认女子房子被邻居打通使用",
+      "onboard_time": 1687151550,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051409,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923690,
+      "num": 923690,
+      "word": "虞书欣王鹤棣 二搭",
+      "onboard_time": 1687155162,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 893639,
       "num": 893639,
       "word": "张杰演唱会现场喊话黄牛",
@@ -211,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 861345,
-      "num": 861345,
-      "word": "警方确认女子房子被邻居打通使用",
-      "onboard_time": 1687151550,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -243,6 +259,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 831771,
+      "num": 759444,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 801847,
       "num": 801847,
       "word": "南京小龙虾卖100块一只值吗",
@@ -257,14 +281,6 @@
       "onboard_time": 1687082128,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 759444,
-      "num": 759444,
-      "word": "Jennie巡演翻白眼",
-      "onboard_time": 1687153414,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 747276,
@@ -435,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429159,
-      "num": 429159,
-      "word": "虞书欣王鹤棣 二搭",
-      "onboard_time": 1687155162,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 423282,
       "num": 423282,
       "word": "香港的辣度细分有多严谨",
@@ -545,14 +553,6 @@
       "onboard_time": 1687141947,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361253,
-      "num": 361253,
-      "word": "阿雅",
-      "onboard_time": 1687155523,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 354722,
@@ -747,6 +747,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 261621,
+      "num": 261621,
+      "word": "00后女孩辞职开馒头店一个卖五六块",
+      "onboard_time": 1687153718,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260546,
       "num": 260546,
       "word": "孟子义回应王鹤棣太红了疏远他",
@@ -800,14 +808,6 @@
       "word": "端午假期你打算出游吗",
       "onboard_time": 1687141587,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251790,
-      "num": 251790,
-      "word": "00后女孩辞职开馒头店一个卖五六块",
-      "onboard_time": 1687153718,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -945,6 +945,14 @@
       "onboard_time": 1687133730,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218095,
+      "num": 218095,
+      "word": "言承旭林依晨合作新剧",
+      "onboard_time": 1687156181,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 218093,
@@ -1099,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185360,
+      "num": 185360,
+      "word": "迪丽热巴嘉人NOW夏季刊封面",
+      "onboard_time": 1687155943,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184699,
       "num": 184699,
       "word": "好多明星出发时装周",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1687142789,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166983,
+      "num": 166983,
+      "word": "腾讯今天物料好多",
+      "onboard_time": 1687155822,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 165915,
@@ -1491,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96465,
+      "num": 434596,
+      "word": "湖南女孩从中职生逆袭到博士",
+      "onboard_time": 1687155523,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94011,
       "num": 94011,
       "word": "梦中的那片海央视剧照",
@@ -1555,20 +1587,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 63300,
+      "num": 197087,
+      "word": "今夏饿了么免单6月21日开启",
+      "onboard_time": 1687154440,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 59530,
       "num": 1001808,
       "word": "中国制造究竟有多牛",
       "onboard_time": 1687097970,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55402,
-      "num": 197087,
-      "word": "今夏饿了么免单6月21日开启",
-      "onboard_time": 1687154440,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 55060,
@@ -1609,14 +1641,6 @@
       "onboard_time": 1687124593,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23917,
-      "num": 434596,
-      "word": "湖南女孩从中职生逆袭到博士",
-      "onboard_time": 1687155523,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22018,
