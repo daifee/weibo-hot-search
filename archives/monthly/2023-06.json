@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687138829346,
+  "endTime": 1687139876706,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1555,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1976527,
+      "num": 1976527,
+      "word": "本周仅上4天班",
+      "onboard_time": 1687136851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1974074,
       "num": 1974074,
       "word": "姜广涛",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1686311426,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1477483,
-      "num": 1477483,
-      "word": "本周仅上4天班",
-      "onboard_time": 1687136851,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1475115,
@@ -5523,6 +5523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 989038,
+      "num": 989038,
+      "word": "南宁地铁推倒女站务员男子已被行拘",
+      "onboard_time": 1687135888,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987949,
       "num": 987949,
       "word": "黄晓明生图",
@@ -5729,14 +5737,6 @@
       "onboard_time": 1686007764,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 954406,
-      "num": 954406,
-      "word": "南宁地铁推倒女站务员男子已被行拘",
-      "onboard_time": 1687135888,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 953587,
@@ -6523,6 +6523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848278,
+      "num": 848278,
+      "word": "白敬亭想改的名字都被注册了",
+      "onboard_time": 1687135109,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 847518,
       "num": 1375854,
       "word": "洗碗工收到工资给老板500元感谢",
@@ -6808,14 +6816,6 @@
       "word": "全世界都在等你们分手",
       "onboard_time": 1685882550,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 820192,
-      "num": 820192,
-      "word": "白敬亭想改的名字都被注册了",
-      "onboard_time": 1687135109,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -8139,6 +8139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690409,
+      "num": 690409,
+      "word": "王阳用口红在秦岚脸上留号码",
+      "onboard_time": 1687134028,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688162,
       "num": 688162,
       "word": "张艺兴 买票请认准官方票务平台",
@@ -8827,6 +8835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621210,
+      "num": 621210,
+      "word": "Jennie金泰亨都去看了火星哥演唱会",
+      "onboard_time": 1687133788,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 620487,
       "num": 620487,
       "word": "空降",
@@ -8897,14 +8913,6 @@
       "onboard_time": 1686299192,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616375,
-      "num": 616375,
-      "word": "Jennie金泰亨都去看了火星哥演唱会",
-      "onboard_time": 1687133788,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 616292,
@@ -8993,14 +9001,6 @@
       "onboard_time": 1686817409,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 605595,
-      "num": 605595,
-      "word": "王阳用口红在秦岚脸上留号码",
-      "onboard_time": 1687134028,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 605417,
@@ -9369,6 +9369,14 @@
       "onboard_time": 1686916768,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 575045,
+      "num": 401473,
+      "word": "千万不要在教资体检时穿裙子",
+      "onboard_time": 1687137807,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 573709,
@@ -10443,14 +10451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495074,
-      "num": 401473,
-      "word": "千万不要在教资体检时穿裙子",
-      "onboard_time": 1687137807,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 494569,
       "num": 494569,
       "word": "王鹤棣怎么又黑了",
@@ -10553,6 +10553,14 @@
       "onboard_time": 1686313047,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490117,
+      "num": 490117,
+      "word": "柴犬看了都想回日本",
+      "onboard_time": 1687135350,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 489324,
@@ -11065,14 +11073,6 @@
       "onboard_time": 1686488192,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461639,
-      "num": 461639,
-      "word": "柴犬看了都想回日本",
-      "onboard_time": 1687135350,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 461349,
@@ -18819,6 +18819,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 266501,
+      "num": 266501,
+      "word": "中餐厅路透",
+      "onboard_time": 1687136430,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266227,
       "num": 266227,
       "word": "皓史成双",
@@ -19345,6 +19353,14 @@
       "onboard_time": 1686929371,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260546,
+      "num": 260546,
+      "word": "孟子义回应王鹤棣太红了疏远他",
+      "onboard_time": 1687137567,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 260497,
@@ -20739,14 +20755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246462,
-      "num": 246462,
-      "word": "孟子义回应王鹤棣太红了疏远他",
-      "onboard_time": 1687137567,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246412,
       "num": 246412,
       "word": "cbx",
@@ -21073,6 +21081,14 @@
       "onboard_time": 1687062207,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243465,
+      "num": 243465,
+      "word": "星宇",
+      "onboard_time": 1687137330,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 243463,
@@ -24107,14 +24123,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 217975,
-      "num": 217975,
-      "word": "中餐厅路透",
-      "onboard_time": 1687136430,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217849,
       "num": 217849,
       "word": "前生的泪 来世的痣",
@@ -25755,6 +25763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205637,
+      "num": 205637,
+      "word": "独腿爸爸收获第一个父亲节礼物",
+      "onboard_time": 1687139427,
+      "rank": 29,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 205623,
       "num": 205623,
       "word": "VG让二追三",
@@ -26400,14 +26416,6 @@
       "word": "EDG惜败欧洲第一TL",
       "onboard_time": 1686906568,
       "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 201349,
-      "num": 201349,
-      "word": "星宇",
-      "onboard_time": 1687137330,
-      "rank": 34,
       "category": "游戏"
     },
     {
@@ -32171,6 +32179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164623,
+      "num": 164623,
+      "word": "蔡徐坤hugme开场",
+      "onboard_time": 1687139427,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164566,
       "num": 1078990,
       "word": "14岁少年捡到4岁娃帮忙找妈妈",
@@ -35995,6 +36011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 138494,
+      "num": 138494,
+      "word": "父亲远行前为不让母亲干活插了秧打了药",
+      "onboard_time": 1687138829,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138468,
       "num": 138468,
       "word": "詹雯婷方严正声明",
@@ -37555,6 +37579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126494,
+      "num": 126494,
+      "word": "深刻感受到被爱着的瞬间",
+      "onboard_time": 1687139546,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126493,
       "num": 149690,
       "word": "清华有个学生自己的修车摊",
@@ -38009,6 +38041,14 @@
       "onboard_time": 1686817766,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122019,
+      "num": 122019,
+      "word": "aespa的四种风格",
+      "onboard_time": 1687139666,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122015,
@@ -38809,6 +38849,14 @@
       "onboard_time": 1685802812,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 115814,
+      "num": 115814,
+      "word": "王一博黄渤大鹏岳云鹏动漫图",
+      "onboard_time": 1687139789,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 115753,

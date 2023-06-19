@@ -1,7 +1,15 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687138829346,
+  "endTime": 1687139876706,
   "band_list": [
+    {
+      "raw_hot": 1976527,
+      "num": 1976527,
+      "word": "本周仅上4天班",
+      "onboard_time": 1687136851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1860594,
       "num": 1860594,
@@ -9,14 +17,6 @@
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1477483,
-      "num": 1477483,
-      "word": "本周仅上4天班",
-      "onboard_time": 1687136851,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1327949,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 954406,
-      "num": 954406,
+      "raw_hot": 989038,
+      "num": 989038,
       "word": "南宁地铁推倒女站务员男子已被行拘",
       "onboard_time": 1687135888,
       "rank": 4,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 848278,
+      "num": 848278,
+      "word": "白敬亭想改的名字都被注册了",
+      "onboard_time": 1687135109,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 838407,
       "num": 838407,
       "word": "鹿晗金色脏辫",
       "onboard_time": 1687133847,
       "rank": 6,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 820192,
-      "num": 820192,
-      "word": "白敬亭想改的名字都被注册了",
-      "onboard_time": 1687135109,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 783781,
@@ -120,6 +120,14 @@
       "word": "建议魏大勋别看",
       "onboard_time": 1687101451,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 690409,
+      "num": 690409,
+      "word": "王阳用口红在秦岚脸上留号码",
+      "onboard_time": 1687134028,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -147,20 +155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 616375,
-      "num": 616375,
+      "raw_hot": 621210,
+      "num": 621210,
       "word": "Jennie金泰亨都去看了火星哥演唱会",
       "onboard_time": 1687133788,
       "rank": 8,
       "category": "音乐"
     },
     {
-      "raw_hot": 605595,
-      "num": 605595,
-      "word": "王阳用口红在秦岚脸上留号码",
-      "onboard_time": 1687134028,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 575045,
+      "num": 401473,
+      "word": "千万不要在教资体检时穿裙子",
+      "onboard_time": 1687137807,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 555536,
@@ -179,14 +187,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 495074,
-      "num": 401473,
-      "word": "千万不要在教资体检时穿裙子",
-      "onboard_time": 1687137807,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 491959,
       "num": 491959,
       "word": "朴彩英四年前的发量vs现在的",
@@ -195,8 +195,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 461639,
-      "num": 461639,
+      "raw_hot": 490117,
+      "num": 490117,
       "word": "柴犬看了都想回日本",
       "onboard_time": 1687135350,
       "rank": 15,
@@ -339,6 +339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266501,
+      "num": 266501,
+      "word": "中餐厅路透",
+      "onboard_time": 1687136430,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260546,
+      "num": 260546,
+      "word": "孟子义回应王鹤棣太红了疏远他",
+      "onboard_time": 1687137567,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -355,20 +371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246462,
-      "num": 246462,
-      "word": "孟子义回应王鹤棣太红了疏远他",
-      "onboard_time": 1687137567,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245989,
       "num": 245989,
       "word": "朱婷",
       "onboard_time": 1687103968,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243465,
+      "num": 243465,
+      "word": "星宇",
+      "onboard_time": 1687137330,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 240557,
@@ -443,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217975,
-      "num": 217975,
-      "word": "中餐厅路透",
-      "onboard_time": 1687136430,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217250,
       "num": 217250,
       "word": "一个人爱你的最高形式",
@@ -475,20 +483,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205637,
+      "num": 205637,
+      "word": "独腿爸爸收获第一个父亲节礼物",
+      "onboard_time": 1687139427,
+      "rank": 29,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 202693,
       "num": 202693,
       "word": "王俊凯说何炅黄磊背影好孤独",
       "onboard_time": 1687084709,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201349,
-      "num": 201349,
-      "word": "星宇",
-      "onboard_time": 1687137330,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 199013,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164623,
+      "num": 164623,
+      "word": "蔡徐坤hugme开场",
+      "onboard_time": 1687139427,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162950,
       "num": 162950,
       "word": "做家政的妈妈经常捡东西回来",
@@ -667,6 +683,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 141945,
+      "num": 141945,
+      "word": "上海中考",
+      "onboard_time": 1687138708,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141494,
       "num": 141494,
       "word": "王鹤棣许七安",
@@ -681,6 +705,14 @@
       "onboard_time": 1687138408,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138494,
+      "num": 138494,
+      "word": "父亲远行前为不让母亲干活插了秧打了药",
+      "onboard_time": 1687138829,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137282,
@@ -699,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133026,
-      "num": 133026,
-      "word": "上海中考",
-      "onboard_time": 1687138708,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 130611,
       "num": 130611,
       "word": "你会请三休八拼长假吗",
@@ -715,12 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126494,
+      "num": 126494,
+      "word": "深刻感受到被爱着的瞬间",
+      "onboard_time": 1687139546,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125651,
       "num": 125651,
       "word": "这个国家的纸币上印着袁老的杂交水稻",
       "onboard_time": 1687105765,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122019,
+      "num": 122019,
+      "word": "aespa的四种风格",
+      "onboard_time": 1687139666,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120992,
@@ -737,6 +777,14 @@
       "onboard_time": 1687125014,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 115814,
+      "num": 115814,
+      "word": "王一博黄渤大鹏岳云鹏动漫图",
+      "onboard_time": 1687139789,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 113982,

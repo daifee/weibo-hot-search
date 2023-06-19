@@ -1,0 +1,410 @@
+{
+  "runTime": 1687139876706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1976527,
+        "num": 1976527,
+        "word": "本周仅上4天班",
+        "onboard_time": 1687136851,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1466032,
+        "num": 1466032,
+        "word": "一天之内拒绝了30个学生请假",
+        "onboard_time": 1687133730,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39259,
+        "num": 1163393,
+        "word": "三夏农忙正当时",
+        "onboard_time": 1687097788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989038,
+        "num": 989038,
+        "word": "南宁地铁推倒女站务员男子已被行拘",
+        "onboard_time": 1687135888,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929318,
+        "num": 929318,
+        "word": "肖战赵丽颖正剧苗子",
+        "onboard_time": 1687133967,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 848278,
+        "num": 848278,
+        "word": "白敬亭想改的名字都被注册了",
+        "onboard_time": 1687135109,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690409,
+        "num": 690409,
+        "word": "王阳用口红在秦岚脸上留号码",
+        "onboard_time": 1687134028,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683908,
+        "num": 683908,
+        "word": "厦大新闻学教授谈张雪峰言论",
+        "onboard_time": 1687099411,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672322,
+        "num": 672322,
+        "word": "鹿晗金色脏辫",
+        "onboard_time": 1687133847,
+        "rank": 8,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 621210,
+        "num": 621210,
+        "word": "Jennie金泰亨都去看了火星哥演唱会",
+        "onboard_time": 1687133788,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 512794,
+        "num": 512794,
+        "word": "白敬亭宋轶对视没有技巧全是感情",
+        "onboard_time": 1687087287,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490117,
+        "num": 490117,
+        "word": "柴犬看了都想回日本",
+        "onboard_time": 1687135350,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412685,
+        "num": 412685,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 407348,
+        "num": 407348,
+        "word": "化学老师跳下10米高桥救起轻生女子",
+        "onboard_time": 1687130782,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 400179,
+        "num": 400179,
+        "word": "香港的辣度细分有多严谨",
+        "onboard_time": 1687134332,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1098410,
+        "num": 399604,
+        "word": "女子房子两年没住被邻居用衣柜封死",
+        "onboard_time": 1687130123,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397947,
+        "num": 397947,
+        "word": "长风渡首播反馈",
+        "onboard_time": 1687100132,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394014,
+        "num": 394014,
+        "word": "真的别再关灯玩手机了",
+        "onboard_time": 1687094731,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353163,
+        "num": 353163,
+        "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+        "onboard_time": 1687099651,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348294,
+        "num": 348294,
+        "word": "Jennie在舞台上走神",
+        "onboard_time": 1687097852,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 575045,
+        "num": 337151,
+        "word": "千万不要在教资体检时穿裙子",
+        "onboard_time": 1687137807,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324679,
+        "num": 324679,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266501,
+        "num": 266501,
+        "word": "中餐厅路透",
+        "onboard_time": 1687136430,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260546,
+        "num": 260546,
+        "word": "孟子义回应王鹤棣太红了疏远他",
+        "onboard_time": 1687137567,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258171,
+        "num": 258171,
+        "word": "建议魏大勋别看",
+        "onboard_time": 1687101451,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243465,
+        "num": 243465,
+        "word": "星宇",
+        "onboard_time": 1687137330,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227411,
+        "num": 227411,
+        "word": "白敬亭跟剧方争取的愿如长风OST",
+        "onboard_time": 1687136190,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244685,
+        "num": 226679,
+        "word": "女孩撞上食客被烫伤食客有责任吗",
+        "onboard_time": 1687131926,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215716,
+        "num": 215716,
+        "word": "肖春生对贺红玲真的只是一种情绪",
+        "onboard_time": 1687136851,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205637,
+        "num": 205637,
+        "word": "独腿爸爸收获第一个父亲节礼物",
+        "onboard_time": 1687139427,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 204053,
+        "num": 204053,
+        "word": "迪丽热巴手滑进了梦海直播间",
+        "onboard_time": 1687089148,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 194415,
+        "num": 194415,
+        "word": "小猫的床有点过于豪华了",
+        "onboard_time": 1687137270,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198813,
+        "num": 194196,
+        "word": "迪丽热巴赵昕互关",
+        "onboard_time": 1687133788,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184427,
+        "num": 184427,
+        "word": "989大学",
+        "onboard_time": 1687098270,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164623,
+        "num": 164623,
+        "word": "蔡徐坤hugme开场",
+        "onboard_time": 1687139427,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161840,
+        "num": 161840,
+        "word": "毕业后被好多同学删除了好友",
+        "onboard_time": 1687133730,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147454,
+        "num": 147454,
+        "word": "包工头用伦敦腔飙英语惊艳众人",
+        "onboard_time": 1687137687,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147242,
+        "num": 147242,
+        "word": "梦海能成为肖战的养老剧吗",
+        "onboard_time": 1687133967,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143209,
+        "num": 143209,
+        "word": "没想到刚转正就被公司辞退了",
+        "onboard_time": 1687136549,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141945,
+        "num": 141945,
+        "word": "上海中考",
+        "onboard_time": 1687138708,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141316,
+        "num": 141316,
+        "word": "中美外长会谈结束",
+        "onboard_time": 1687100491,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138494,
+        "num": 138494,
+        "word": "父亲远行前为不让母亲干活插了秧打了药",
+        "onboard_time": 1687138829,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137142,
+        "num": 137142,
+        "word": "中美关系处在建交以来的最低谷",
+        "onboard_time": 1687132106,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135752,
+        "num": 135752,
+        "word": "布林肯",
+        "onboard_time": 1687100132,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 133471,
+        "num": 133471,
+        "word": "宋亚轩美式证件照",
+        "onboard_time": 1687138408,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128021,
+        "num": 128021,
+        "word": "花580元买梅西比赛门票被称幸运儿",
+        "onboard_time": 1687132706,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126494,
+        "num": 126494,
+        "word": "深刻感受到被爱着的瞬间",
+        "onboard_time": 1687139546,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122875,
+        "num": 122875,
+        "word": "你心中的年代剧TOP1",
+        "onboard_time": 1687138107,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "aespa的四种风格",
+        "onboard_time": 1687139666,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115814,
+        "num": 115814,
+        "word": "王一博黄渤大鹏岳云鹏动漫图",
+        "onboard_time": 1687139789,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#父亲的叮咛#"
+    }
+  }
+}
