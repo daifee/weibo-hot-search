@@ -1,0 +1,410 @@
+{
+  "runTime": 1687185215563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554590,
+        "num": 1554590,
+        "word": "朱一龙爸爸",
+        "onboard_time": 1687176338,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1120215,
+        "num": 1120215,
+        "word": "庆余年2官宣阵容",
+        "onboard_time": 1687169980,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32694,
+        "num": 880147,
+        "word": "高质量发展调研行",
+        "onboard_time": 1687173400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807821,
+        "num": 807821,
+        "word": "王源回应妈妈进不去自己的演唱会",
+        "onboard_time": 1687175257,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 639957,
+        "num": 639957,
+        "word": "调查称53.7%年轻人存款不足10万",
+        "onboard_time": 1687160626,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 3935658,
+        "num": 637967,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572568,
+        "num": 572568,
+        "word": "马云指出淘宝天猫未来三个方向",
+        "onboard_time": 1687180119,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 568315,
+        "num": 568315,
+        "word": "张晚意今天官宣了三部剧",
+        "onboard_time": 1687162186,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309467,
+        "num": 568131,
+        "word": "女子称母亲到派出所接受询问后死亡",
+        "onboard_time": 1687178922,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298583,
+        "num": 563328,
+        "word": "五星红旗被捆绑酒店连说10句对不起",
+        "onboard_time": 1687174061,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11677809,
+        "num": 563215,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373776,
+        "num": 558904,
+        "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+        "onboard_time": 1687180541,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326949,
+        "num": 556268,
+        "word": "胡锡进 川大那名女生的事该有结果了",
+        "onboard_time": 1687175319,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2345345,
+        "num": 553728,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42086,
+        "num": 552307,
+        "word": "轮椅老人坐公交司机乘客抢着帮忙",
+        "onboard_time": 1687183244,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501070,
+        "num": 550010,
+        "word": "黄子佼曝大小S吸毒",
+        "onboard_time": 1687152148,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2153786,
+        "num": 547918,
+        "word": "只要你吸毒就会被发现",
+        "onboard_time": 1687177657,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276542,
+        "num": 544310,
+        "word": "石矶娘娘来了也穿不了",
+        "onboard_time": 1687164284,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245825,
+        "num": 541185,
+        "word": "周雨结婚",
+        "onboard_time": 1687179219,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2009748,
+        "num": 538748,
+        "word": "黄子佼已苏醒",
+        "onboard_time": 1687183306,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999257,
+        "num": 537237,
+        "word": "黄子佼拿刀割自己",
+        "onboard_time": 1687157623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902528,
+        "num": 534934,
+        "word": "腾讯变汪峰",
+        "onboard_time": 1687166201,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1971848,
+        "num": 531912,
+        "word": "吴宗宪曝黄子佼曾要求女生脱衣验身",
+        "onboard_time": 1687176519,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612201,
+        "num": 529167,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459828,
+        "num": 526591,
+        "word": "澳大利亚一男子持刀入室抢劫被奸杀",
+        "onboard_time": 1687179581,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885904,
+        "num": 523961,
+        "word": "庆余年叶灵儿",
+        "onboard_time": 1687171002,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712848,
+        "num": 522214,
+        "word": "唐梓结婚",
+        "onboard_time": 1687171960,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 647696,
+        "num": 518221,
+        "word": "赵敏周芷若同框了",
+        "onboard_time": 1687183482,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578124,
+        "num": 516996,
+        "word": "范晓萱",
+        "onboard_time": 1687154381,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128956,
+        "num": 514133,
+        "word": "布林肯访华",
+        "onboard_time": 1687163147,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 513186,
+        "num": 513186,
+        "word": "倪妮被文咏珊撩到脸红",
+        "onboard_time": 1687180837,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462021,
+        "num": 462021,
+        "word": "周俊伟",
+        "onboard_time": 1687159848,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450939,
+        "num": 450939,
+        "word": "结婚五年面相都变了",
+        "onboard_time": 1687161587,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 344366,
+        "num": 402486,
+        "word": "你是一具受潮的木乃伊",
+        "onboard_time": 1687184147,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 305862,
+        "num": 376053,
+        "word": "网友拍到的龙吸水",
+        "onboard_time": 1687183544,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374278,
+        "num": 374278,
+        "word": "长风渡",
+        "onboard_time": 1687170880,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365241,
+        "num": 365241,
+        "word": "霍建华复出后首部作品",
+        "onboard_time": 1687167463,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364593,
+        "num": 364593,
+        "word": "虞书欣王鹤棣 二搭",
+        "onboard_time": 1687155162,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251752,
+        "num": 341063,
+        "word": "我们小狗最看重朋友了",
+        "onboard_time": 1687184387,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233775,
+        "num": 340096,
+        "word": "公司发了400端午过节费",
+        "onboard_time": 1687184988,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339449,
+        "num": 339449,
+        "word": "肖战点赞比心视频",
+        "onboard_time": 1687178018,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308193,
+        "num": 308193,
+        "word": "肖战和肖春生的异同点",
+        "onboard_time": 1687184023,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 333391,
+        "num": 300944,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292585,
+        "num": 292585,
+        "word": "本次白玉兰不排除有双黄蛋",
+        "onboard_time": 1687181505,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286332,
+        "num": 286332,
+        "word": "长风渡婚礼",
+        "onboard_time": 1687177958,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193298,
+        "num": 193298,
+        "word": "在一起很久后必须分开的情况",
+        "onboard_time": 1687182461,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191800,
+        "num": 191800,
+        "word": "你太用力了所以走不远",
+        "onboard_time": 1687168002,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190909,
+        "num": 190909,
+        "word": "印尼vs阿根廷",
+        "onboard_time": 1687181679,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177928,
+        "num": 190784,
+        "word": "山东一市机关单位免费开放停车场",
+        "onboard_time": 1687184685,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172854,
+        "num": 190651,
+        "word": "11岁男孩带妈妈火场教科书式自救",
+        "onboard_time": 1687185168,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
