@@ -1,0 +1,410 @@
+{
+  "runTime": 1687179112687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1995711,
+        "num": 1995711,
+        "word": "庆余年2官宣阵容",
+        "onboard_time": 1687169980,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1258123,
+        "num": 1258123,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38848,
+        "num": 1174318,
+        "word": "高质量发展调研行",
+        "onboard_time": 1687173400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165891,
+        "num": 1165891,
+        "word": "朱一龙爸爸",
+        "onboard_time": 1687176338,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1071296,
+        "num": 1071296,
+        "word": "五星红旗被捆绑酒店连说10句对不起",
+        "onboard_time": 1687174061,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3003329,
+        "num": 1069304,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701056,
+        "num": 701056,
+        "word": "霍建华复出后首部作品",
+        "onboard_time": 1687167463,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700091,
+        "num": 700091,
+        "word": "调查称53.7%年轻人存款不足10万",
+        "onboard_time": 1687160626,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 471570,
+        "num": 471570,
+        "word": "石矶娘娘来了也穿不了",
+        "onboard_time": 1687164284,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298263,
+        "num": 471135,
+        "word": "演唱会座位脏",
+        "onboard_time": 1687160150,
+        "rank": 9,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 3464101,
+        "num": 469013,
+        "word": "吴宗宪曝黄子佼曾要求女生脱衣验身",
+        "onboard_time": 1687176519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796362,
+        "num": 466595,
+        "word": "胡锡进 川大那名女生的事该有结果了",
+        "onboard_time": 1687175319,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229105,
+        "num": 463852,
+        "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
+        "onboard_time": 1687146929,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2425442,
+        "num": 460859,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39180,
+        "num": 459314,
+        "word": "男子雨天蹲路中间民警暖心开导",
+        "onboard_time": 1687176099,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413973,
+        "num": 456221,
+        "word": "黄子佼曝大小S吸毒",
+        "onboard_time": 1687152148,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638095,
+        "num": 453729,
+        "word": "王源回应妈妈进不去自己的演唱会",
+        "onboard_time": 1687175257,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1858665,
+        "num": 452423,
+        "word": "只要你吸毒就会被发现",
+        "onboard_time": 1687177657,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499877,
+        "num": 449040,
+        "word": "肖战的言冰云vs吴幸键的言冰云",
+        "onboard_time": 1687174718,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194933,
+        "num": 448226,
+        "word": "雅思四个9的越南人",
+        "onboard_time": 1687169980,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1595455,
+        "num": 445107,
+        "word": "贾静雯方否认曾追求黄子佼",
+        "onboard_time": 1687175018,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1406631,
+        "num": 441442,
+        "word": "唐梓结婚",
+        "onboard_time": 1687171960,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 649246,
+        "num": 440821,
+        "word": "结婚五年面相都变了",
+        "onboard_time": 1687161587,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 485106,
+        "num": 437583,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221982,
+        "num": 435839,
+        "word": "你太用力了所以走不远",
+        "onboard_time": 1687168002,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1346767,
+        "num": 433476,
+        "word": "黄子佼拿刀割自己",
+        "onboard_time": 1687157623,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1282172,
+        "num": 430082,
+        "word": "庆余年叶灵儿",
+        "onboard_time": 1687171002,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 944855,
+        "num": 427651,
+        "word": "黄子佼承认性骚扰",
+        "onboard_time": 1687151191,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214263,
+        "num": 426600,
+        "word": "相亲对象讨厌的老师是我爸",
+        "onboard_time": 1687177778,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 172746,
+        "num": 424840,
+        "word": "布林肯访华",
+        "onboard_time": 1687163147,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 675363,
+        "num": 421117,
+        "word": "腾讯变汪峰",
+        "onboard_time": 1687166201,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106491,
+        "num": 418659,
+        "word": "开心麻花拍了部新电影",
+        "onboard_time": 1687176937,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483132,
+        "num": 416708,
+        "word": "徐梦洁加入壹心娱乐",
+        "onboard_time": 1687173938,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415681,
+        "num": 415681,
+        "word": "长风渡婚礼",
+        "onboard_time": 1687177958,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385996,
+        "num": 385996,
+        "word": "庆余年",
+        "onboard_time": 1687167704,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385090,
+        "num": 385090,
+        "word": "范晓萱",
+        "onboard_time": 1687154381,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187926,
+        "num": 382275,
+        "word": "女子称母亲到派出所接受询问后死亡",
+        "onboard_time": 1687178922,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187614,
+        "num": 381736,
+        "word": "道长也被传染了",
+        "onboard_time": 1687178559,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182702,
+        "num": 377745,
+        "word": "男子长城藏时间胶囊12年多人留纸条",
+        "onboard_time": 1687171780,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179920,
+        "num": 375000,
+        "word": "马云的非公开会议",
+        "onboard_time": 1687178741,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373724,
+        "num": 373724,
+        "word": "三体2官宣",
+        "onboard_time": 1687175139,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373502,
+        "num": 373502,
+        "word": "张晚意今天官宣了三部剧",
+        "onboard_time": 1687162186,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357709,
+        "num": 357709,
+        "word": "周俊伟",
+        "onboard_time": 1687159848,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339758,
+        "num": 339758,
+        "word": "庆余年2好多美女",
+        "onboard_time": 1687170461,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327569,
+        "num": 327569,
+        "word": "虞书欣王鹤棣 二搭",
+        "onboard_time": 1687155162,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162808,
+        "num": 325352,
+        "word": "毕业时我给同学发了互删微信",
+        "onboard_time": 1687171600,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153382,
+        "num": 322946,
+        "word": "哈工大的这张毕业车票让人破防了",
+        "onboard_time": 1687168303,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 315932,
+        "word": "婴儿车滚落瞬间休假消防员眼疾手快一把抓住",
+        "onboard_time": 1687178800,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139452,
+        "num": 314070,
+        "word": "大麦网拒退票遭海量投诉",
+        "onboard_time": 1687172383,
+        "rank": 48,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 82940,
+        "num": 306772,
+        "word": "王者荣耀",
+        "onboard_time": 1687167342,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国国务卿布林肯#"
+    }
+  }
+}
