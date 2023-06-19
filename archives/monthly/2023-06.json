@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687210435410,
+  "endTime": 1687212980030,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -44827,6 +44827,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 45293,
+      "num": 45293,
+      "word": "景甜冯绍峰新剧cp海报",
+      "onboard_time": 1687212015,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 45265,
       "num": 69395,
       "word": "厂长回来二级抓下啊",
@@ -45041,6 +45049,14 @@
       "onboard_time": 1686139473,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39455,
+      "num": 39455,
+      "word": "天行健",
+      "onboard_time": 1687207931,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 39253,
@@ -45475,6 +45491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28093,
+      "num": 39431,
+      "word": "怎么斗得过几十年的逆子",
+      "onboard_time": 1687207392,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27760,
       "num": 36183,
       "word": "毕业之前来看演唱会",
@@ -45513,14 +45537,6 @@
       "onboard_time": 1686850457,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27170,
-      "num": 27170,
-      "word": "怎么斗得过几十年的逆子",
-      "onboard_time": 1687207392,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 26871,
@@ -45665,14 +45681,6 @@
       "onboard_time": 1686544298,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22913,
-      "num": 26014,
-      "word": "天行健",
-      "onboard_time": 1687207931,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 22077,
