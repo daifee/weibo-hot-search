@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687198882235,
+  "endTime": 1687199636534,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -45115,6 +45115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37491,
+      "num": 37491,
+      "word": "NCTDREAM新歌空降",
+      "onboard_time": 1687196119,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 37330,
       "num": 37330,
       "word": "鞠婧祎花戎女扮男装造型",
@@ -45185,6 +45193,14 @@
       "onboard_time": 1685865688,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35957,
+      "num": 49294,
+      "word": "厦门体育中心回应演唱会场地脏",
+      "onboard_time": 1687197678,
+      "rank": 49,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 35652,
@@ -45569,14 +45585,6 @@
       "onboard_time": 1686126213,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24350,
-      "num": 49294,
-      "word": "厦门体育中心回应演唱会场地脏",
-      "onboard_time": 1687197678,
-      "rank": 49,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 24151,

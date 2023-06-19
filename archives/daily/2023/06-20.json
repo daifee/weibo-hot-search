@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687198882235,
+  "endTime": 1687199636534,
   "band_list": [
     {
       "raw_hot": 3783594,
@@ -451,20 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37491,
+      "num": 37491,
+      "word": "NCTDREAM新歌空降",
+      "onboard_time": 1687196119,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 35957,
+      "num": 49294,
+      "word": "厦门体育中心回应演唱会场地脏",
+      "onboard_time": 1687197678,
+      "rank": 49,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 30119,
       "num": 733887,
       "word": "杭州亚运奖牌上的湖山长什么样",
       "onboard_time": 1687180837,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24350,
-      "num": 49294,
-      "word": "厦门体育中心回应演唱会场地脏",
-      "onboard_time": 1687197678,
-      "rank": 49,
-      "category": "社会新闻,音乐"
     }
   ],
   "hotgov_list": [
