@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/20 00:22:13 ~ 2023/06/20 02:33:56
+本榜单时间：2023/06/20 00:22:13 ~ 2023/06/20 03:13:21
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ Jennie新剧预告又跳舞了（热度：300101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E8%84%8F%23" target="weibo">
+厦门体育中心回应演唱会场地脏（热度：57398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9Ahugme%E8%88%9E%E5%8F%B0%23" target="weibo">
 蔡徐坤香港演唱会hugme舞台（热度：55269）
 </a>
@@ -353,12 +359,6 @@ Jennie新剧预告又跳舞了（热度：300101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NCTDREAM%E6%96%B0%E6%AD%8C%E7%A9%BA%E9%99%8D%23" target="weibo">
 NCTDREAM新歌空降（热度：37491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E8%84%8F%23" target="weibo">
-厦门体育中心回应演唱会场地脏（热度：35957）
 </a>
 </li>
 

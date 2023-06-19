@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687199636534,
+  "endTime": 1687202001405,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -2827,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57398,
+      "num": 57398,
+      "word": "厦门体育中心回应演唱会场地脏",
+      "onboard_time": 1687197678,
+      "rank": 49,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 55269,
       "num": 55269,
       "word": "蔡徐坤香港演唱会hugme舞台",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35957,
-      "num": 49294,
-      "word": "厦门体育中心回应演唱会场地脏",
-      "onboard_time": 1687197678,
-      "rank": 49,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 30119,
