@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687163704412,
+  "endTime": 1687166276942,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 2938900,
-      "num": 440372,
+      "num": 623171,
       "word": "黄子佼被送往医院",
       "onboard_time": 1687154381,
       "rank": 11,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1685789606,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2356097,
+      "num": 718782,
+      "word": "每个月工资8000但闲的发慌",
+      "onboard_time": 1687163147,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 2342513,
@@ -2449,6 +2457,14 @@
       "onboard_time": 1686277647,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1655173,
+      "num": 1655173,
+      "word": "张晚意今天官宣了三部剧",
+      "onboard_time": 1687162186,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 1650851,
@@ -4827,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123579,
+      "num": 1123579,
+      "word": "演唱会座位脏",
+      "onboard_time": 1687160150,
+      "rank": 8,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 1118785,
       "num": 1118785,
       "word": "本周狗屎运最旺的星座",
@@ -5057,14 +5081,6 @@
       "onboard_time": 1686039627,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1084927,
-      "num": 1084927,
-      "word": "演唱会座位脏",
-      "onboard_time": 1687160150,
-      "rank": 8,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1083023,
@@ -5779,6 +5795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977262,
+      "num": 717682,
+      "word": "结婚五年面相都变了",
+      "onboard_time": 1687161587,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 976898,
       "num": 950441,
       "word": "赵露思是曾黎的人形挂件吧",
@@ -6027,14 +6051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 943552,
-      "num": 694712,
-      "word": "张晚意今天官宣了三部剧",
-      "onboard_time": 1687162186,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 942695,
       "num": 942695,
       "word": "周三也休公司 上四休三绝不放弃",
@@ -6257,6 +6273,14 @@
       "onboard_time": 1686208296,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 906409,
+      "num": 906409,
+      "word": "布林肯",
+      "onboard_time": 1687046122,
+      "rank": 19,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 906117,
@@ -7265,14 +7289,6 @@
       "onboard_time": 1687142910,
       "rank": 38,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 801233,
-      "num": 717682,
-      "word": "结婚五年面相都变了",
-      "onboard_time": 1687161587,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 800508,
@@ -9235,6 +9251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612860,
+      "num": 612860,
+      "word": "邓科 大奉打更人",
+      "onboard_time": 1687163984,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 612599,
       "num": 612599,
       "word": "王鹤棣要去泰国录跑男",
@@ -9675,6 +9699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 574708,
+      "num": 574708,
+      "word": "萧敬腾",
+      "onboard_time": 1687161707,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573709,
       "num": 573709,
       "word": "鞠婧祎反手一个大比兜",
@@ -9808,14 +9840,6 @@
       "word": "Jennie曾说自己像老奶奶一样浑身是病",
       "onboard_time": 1686661468,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 562901,
-      "num": 551594,
-      "word": "萧敬腾",
-      "onboard_time": 1687161707,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -10691,6 +10715,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 498994,
+      "num": 498994,
+      "word": "折腰预告",
+      "onboard_time": 1687164945,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498954,
       "num": 498954,
       "word": "TFBOYS是巡演吗",
@@ -10993,14 +11025,6 @@
       "onboard_time": 1685848345,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486576,
-      "num": 718626,
-      "word": "布林肯",
-      "onboard_time": 1687046122,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 486474,
@@ -11779,6 +11803,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 441090,
+      "num": 441090,
+      "word": "崔秀彬ins",
+      "onboard_time": 1687160867,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440670,
       "num": 440670,
       "word": "淄博张店烧烤倡议高考停业三天",
@@ -12363,14 +12395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 416311,
-      "num": 416311,
-      "word": "崔秀彬ins",
-      "onboard_time": 1687160867,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 415898,
       "num": 332246,
       "word": "NewJeans新专辑GetUp",
@@ -12779,14 +12803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 402353,
-      "num": 718782,
-      "word": "每个月工资8000但闲的发慌",
-      "onboard_time": 1687163147,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 402321,
       "num": 402321,
       "word": "ZB1回归概念预告",
@@ -12923,6 +12939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398812,
+      "num": 398812,
+      "word": "赵丽颖新剧自称本王",
+      "onboard_time": 1687165722,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398755,
       "num": 352953,
       "word": "河南人和山东人都别沉默了",
@@ -12977,6 +13001,14 @@
       "onboard_time": 1685845587,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395197,
+      "num": 652517,
+      "word": "石矶娘娘来了也穿不了",
+      "onboard_time": 1687164284,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 395000,
@@ -13795,6 +13827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368423,
+      "num": 368423,
+      "word": "腾讯变汪峰",
+      "onboard_time": 1687166201,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368279,
       "num": 368279,
       "word": "奔跑吧泰国",
@@ -14316,7 +14356,7 @@
     },
     {
       "raw_hot": 355006,
-      "num": 228730,
+      "num": 441092,
       "word": "原来真的有人发际线连着眉毛",
       "onboard_time": 1687157623,
       "rank": 33,
@@ -28027,6 +28067,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 195958,
+      "num": 441553,
+      "word": "喜欢把手插进米里的原因",
+      "onboard_time": 1687166201,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195864,
       "num": 195864,
       "word": "超走心的高考过来人分享",
@@ -36187,6 +36235,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 143452,
+      "num": 332365,
+      "word": "周一哪有不疯的",
+      "onboard_time": 1687165421,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143353,
       "num": 143353,
       "word": "想去华山检修索道还缺人吗",
@@ -36905,6 +36961,14 @@
       "onboard_time": 1686465388,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138661,
+      "num": 719204,
+      "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
+      "onboard_time": 1687161644,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138634,
@@ -37753,6 +37817,14 @@
       "onboard_time": 1685771308,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132773,
+      "num": 329411,
+      "word": "针织届的大厨",
+      "onboard_time": 1687165899,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132746,
@@ -39488,14 +39560,6 @@
       "word": "重启天涯直播7天7夜仅带货36万",
       "onboard_time": 1685845527,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118505,
-      "num": 719204,
-      "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
-      "onboard_time": 1687161644,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -43777,6 +43841,14 @@
       "onboard_time": 1685816656,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 47142,
+      "num": 1255638,
+      "word": "夏日中国每一帧都是限定壁纸",
+      "onboard_time": 1687150653,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46997,
