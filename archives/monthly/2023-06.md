@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 07:33:52
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 09:40:29
 </p>
 </blockquote>
 <p>
@@ -1401,6 +1401,12 @@ lofter（热度：1890120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%8B%92%E7%BB%9D%E4%BA%8630%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%23" target="weibo">
+一天之内拒绝了30个学生请假（热度：1860594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%2040%E5%A4%A9%E9%87%8E%E5%A4%96%E6%B1%82%E7%94%9F%E5%A5%87%E8%BF%B9%23" target="weibo">
 哥伦比亚飞机失事 40天野外求生奇迹（热度：1859611）
 </a>
@@ -2177,6 +2183,12 @@ House脱口秀演出剧院被罚10万（热度：1531824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23" target="weibo">
 王源易烊千玺工作室出图（热度：1478298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23" target="weibo">
+本周仅上4天班（热度：1477483）
 </a>
 </li>
 
@@ -3291,6 +3303,12 @@ Angelababy撕漫女（热度：1170413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E4%B8%A4%E5%B9%B4%E6%B2%A1%E4%BD%8F%E8%A2%AB%E9%82%BB%E5%B1%85%E7%94%A8%E8%A1%A3%E6%9F%9C%E5%B0%81%E6%AD%BB%23" target="weibo">
+女子房子两年没住被邻居用衣柜封死（热度：1162999）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%20%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5%23" target="weibo">
 Jennie 复仇者联盟5（热度：1161672）
 </a>
@@ -3861,6 +3879,12 @@ ChatGPT高三考试仅物理得零分（热度：1044269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%AD%A3%E5%89%A7%E8%8B%97%E5%AD%90%23" target="weibo">
+肖战赵丽颖正剧苗子（热度：1039079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%BC%81%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%BC%82%E6%80%A7%E9%80%9B%E8%A1%97%23" target="weibo">
 中央巡视组回应国企领导与异性逛街（热度：1039055）
 </a>
@@ -4283,6 +4307,12 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23" target="weibo">
 明天高考（热度：954532）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E6%8E%A8%E5%80%92%E5%A5%B3%E7%AB%99%E5%8A%A1%E5%91%98%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
+南宁地铁推倒女站务员男子已被行拘（热度：954406）
 </a>
 </li>
 
@@ -4923,6 +4953,12 @@ S属性大爆发（热度：839997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%87%91%E8%89%B2%E8%84%8F%E8%BE%AB%23" target="weibo">
+鹿晗金色脏辫（热度：838407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%AD%E5%9C%A3%E5%A9%86%20%E6%9D%B0%E5%85%8B%E8%BE%A3%E6%9D%A1%23" target="weibo">
 鸭圣婆 杰克辣条（热度：838400）
 </a>
@@ -5081,6 +5117,12 @@ PDD直播弹幕（热度：822919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AD%89%E4%BD%A0%E4%BB%AC%E5%88%86%E6%89%8B%23" target="weibo">
 全世界都在等你们分手（热度：821233）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E6%94%B9%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%BA%86%23" target="weibo">
+白敬亭想改的名字都被注册了（热度：820192）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ TFBOYS演唱会流程图（热度：715148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%80%E8%A7%88%23" target="weibo">
 歌手演唱会价格一览（热度：701237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23" target="weibo">
-梦中的那片海（热度：700134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E6%99%92%E5%A5%94%E8%B7%91%E5%90%A7%E6%B3%B0%E5%9B%BD%E5%A4%A7%E5%90%88%E7%85%A7%23" target="weibo">
-李晨晒奔跑吧泰国大合照（热度：700033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%B5%A4%E8%BA%AB%E8%BA%BA%E5%BA%8A%E7%94%B7%E5%AD%90%E5%88%B7%E5%8D%A1%E8%BF%9B%E5%85%A5%23" target="weibo">
-女子住酒店赤身躺床男子刷卡进入（热度：700020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%23" target="weibo">
-假性亲密关系（热度：698316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TheShy%E9%98%BF%E6%B0%B4Rookie%E5%8E%BB%E9%9C%B2%E8%90%A5%E4%BA%86%23" target="weibo">
-TheShy阿水Rookie去露营了（热度：697959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23leave%23" target="weibo">
-leave（热度：696926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E5%BA%94%E6%8E%A5%E5%8F%97%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E7%9A%84%E9%81%93%E6%AD%89%23" target="weibo">
-胡锡进说应接受曝光大叔女子的道歉（热度：696440）
 </a>
 </li>
 

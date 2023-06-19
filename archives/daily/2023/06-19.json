@@ -1,7 +1,23 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687131232680,
+  "endTime": 1687138829346,
   "band_list": [
+    {
+      "raw_hot": 1860594,
+      "num": 1860594,
+      "word": "一天之内拒绝了30个学生请假",
+      "onboard_time": 1687133730,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1477483,
+      "num": 1477483,
+      "word": "本周仅上4天班",
+      "onboard_time": 1687136851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1327949,
       "num": 1327949,
@@ -9,6 +25,14 @@
       "onboard_time": 1687098270,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1162999,
+      "num": 610204,
+      "word": "女子房子两年没住被邻居用衣柜封死",
+      "onboard_time": 1687130123,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1071290,
@@ -19,11 +43,27 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1039079,
+      "num": 1039079,
+      "word": "肖战赵丽颖正剧苗子",
+      "onboard_time": 1687133967,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 998050,
       "num": 998050,
       "word": "厦大新闻学教授谈张雪峰言论",
       "onboard_time": 1687099411,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954406,
+      "num": 954406,
+      "word": "南宁地铁推倒女站务员男子已被行拘",
+      "onboard_time": 1687135888,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -40,6 +80,22 @@
       "word": "白敬亭宋轶对视没有技巧全是感情",
       "onboard_time": 1687087287,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 838407,
+      "num": 838407,
+      "word": "鹿晗金色脏辫",
+      "onboard_time": 1687133847,
+      "rank": 6,
+      "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 820192,
+      "num": 820192,
+      "word": "白敬亭想改的名字都被注册了",
+      "onboard_time": 1687135109,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -91,6 +147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616375,
+      "num": 616375,
+      "word": "Jennie金泰亨都去看了火星哥演唱会",
+      "onboard_time": 1687133788,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 605595,
+      "num": 605595,
+      "word": "王阳用口红在秦岚脸上留号码",
+      "onboard_time": 1687134028,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -107,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 495074,
+      "num": 401473,
+      "word": "千万不要在教资体检时穿裙子",
+      "onboard_time": 1687137807,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491959,
       "num": 491959,
       "word": "朴彩英四年前的发量vs现在的",
@@ -115,12 +195,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 461639,
+      "num": 461639,
+      "word": "柴犬看了都想回日本",
+      "onboard_time": 1687135350,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 428524,
+      "num": 428524,
+      "word": "化学老师跳下10米高桥救起轻生女子",
+      "onboard_time": 1687130782,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 423282,
+      "num": 423282,
+      "word": "香港的辣度细分有多严谨",
+      "onboard_time": 1687134332,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421556,
       "num": 421556,
       "word": "女朋友说她拍到我出轨了",
       "onboard_time": 1687073788,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 407350,
+      "num": 407350,
+      "word": "女孩撞上食客被烫伤食客有责任吗",
+      "onboard_time": 1687131926,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391628,
@@ -179,14 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298249,
-      "num": 298249,
-      "word": "女子房子两年没住被邻居用衣柜封死",
-      "onboard_time": 1687130123,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285563,
       "num": 285563,
       "word": "内蒙古城管执法中队负责人出轨女下属",
@@ -219,11 +323,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279539,
+      "num": 279539,
+      "word": "你心中的年代剧TOP1",
+      "onboard_time": 1687138107,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273829,
       "num": 273829,
       "word": "胡可三演白敬亭丈母娘",
       "onboard_time": 1687123391,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257424,
+      "num": 257424,
+      "word": "白敬亭跟剧方争取的愿如长风OST",
+      "onboard_time": 1687136190,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -233,6 +353,14 @@
       "onboard_time": 1687099411,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246462,
+      "num": 246462,
+      "word": "孟子义回应王鹤棣太红了疏远他",
+      "onboard_time": 1687137567,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 245989,
@@ -255,6 +383,14 @@
       "num": 239818,
       "word": "肖战为电影增重",
       "onboard_time": 1687100612,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238765,
+      "num": 238765,
+      "word": "迪丽热巴赵昕互关",
+      "onboard_time": 1687133788,
       "rank": 27,
       "category": "影视"
     },
@@ -283,12 +419,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233508,
+      "num": 233508,
+      "word": "肖春生对贺红玲真的只是一种情绪",
+      "onboard_time": 1687136851,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229971,
       "num": 229971,
       "word": "黄渤新片6岁儿子颜值",
       "onboard_time": 1687084588,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218268,
+      "num": 218268,
+      "word": "毕业后被好多同学删除了好友",
+      "onboard_time": 1687133730,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 217975,
+      "num": 217975,
+      "word": "中餐厅路透",
+      "onboard_time": 1687136430,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 217250,
@@ -307,12 +467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208266,
+      "num": 208266,
+      "word": "小猫的床有点过于豪华了",
+      "onboard_time": 1687137270,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202693,
       "num": 202693,
       "word": "王俊凯说何炅黄磊背影好孤独",
       "onboard_time": 1687084709,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201349,
+      "num": 201349,
+      "word": "星宇",
+      "onboard_time": 1687137330,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 199013,
@@ -371,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178369,
+      "num": 178369,
+      "word": "花580元买梅西比赛门票被称幸运儿",
+      "onboard_time": 1687132706,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177156,
       "num": 159492,
       "word": "真情侣",
@@ -387,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176072,
+      "num": 176072,
+      "word": "梦海能成为肖战的养老剧吗",
+      "onboard_time": 1687133967,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173510,
       "num": 173510,
       "word": "想提离职结果被公司辞退了",
@@ -395,12 +587,68 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 170275,
+      "num": 170275,
+      "word": "包工头用伦敦腔飙英语惊艳众人",
+      "onboard_time": 1687137687,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162950,
+      "num": 162950,
+      "word": "做家政的妈妈经常捡东西回来",
+      "onboard_time": 1687133730,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 155520,
+      "num": 155520,
+      "word": "一代目绿娃成功戴上了一顶帽子",
+      "onboard_time": 1687138107,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 154121,
+      "num": 154121,
+      "word": "新闻学专业真的是天坑专业吗",
+      "onboard_time": 1687138227,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151333,
       "num": 151333,
       "word": "肖战李沁梦海热度破30000",
       "onboard_time": 1687099411,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150826,
+      "num": 150826,
+      "word": "中美关系处在建交以来的最低谷",
+      "onboard_time": 1687132106,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147132,
+      "num": 147132,
+      "word": "离谱的高情商问答",
+      "onboard_time": 1687137749,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 145463,
+      "num": 145463,
+      "word": "没想到刚转正就被公司辞退了",
+      "onboard_time": 1687136549,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 143876,
@@ -425,6 +673,38 @@
       "onboard_time": 1687094850,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139932,
+      "num": 139932,
+      "word": "宋亚轩美式证件照",
+      "onboard_time": 1687138408,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137282,
+      "num": 137282,
+      "word": "不勇敢的人永远不快乐",
+      "onboard_time": 1687138048,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136990,
+      "num": 136990,
+      "word": "原来酒店不止可以接地气",
+      "onboard_time": 1687137270,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133026,
+      "num": 133026,
+      "word": "上海中考",
+      "onboard_time": 1687138708,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 130611,
@@ -473,14 +753,6 @@
       "onboard_time": 1687130843,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104741,
-      "num": 104741,
-      "word": "化学老师跳下10米高桥救起轻生女子",
-      "onboard_time": 1687130782,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 102711,
@@ -571,20 +843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42647,
+      "num": 1191499,
+      "word": "三夏农忙正当时",
+      "onboard_time": 1687097788,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36007,
       "num": 38966,
       "word": "叶世安柳玉茹",
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32390,
-      "num": 864387,
-      "word": "三夏农忙正当时",
-      "onboard_time": 1687097788,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26871,
