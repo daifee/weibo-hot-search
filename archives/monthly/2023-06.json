@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687181617358,
+  "endTime": 1687184192858,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -33,6 +33,14 @@
       "onboard_time": 1686103592,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12100652,
+      "num": 480815,
+      "word": "小S和舞蹈老师视频",
+      "onboard_time": 1687181860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 11929165,
@@ -544,6 +552,14 @@
       "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
       "onboard_time": 1687146929,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2895884,
+      "num": 550938,
+      "word": "女幼师给幼儿喂避孕药",
+      "onboard_time": 1687181021,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2945,6 +2961,14 @@
       "onboard_time": 1686914609,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1535967,
+      "num": 475862,
+      "word": "世纪大和解是演的吗",
+      "onboard_time": 1687181860,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1531824,
@@ -9819,6 +9843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579209,
+      "num": 480169,
+      "word": "马云指出淘宝天猫未来三个方向",
+      "onboard_time": 1687180119,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 579137,
       "num": 412373,
       "word": "入职后发现顶替怀孕同事工作",
@@ -11753,6 +11785,14 @@
       "onboard_time": 1686019049,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456056,
+      "num": 456056,
+      "word": "赵敏周芷若同框了",
+      "onboard_time": 1687183482,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 455500,
@@ -14715,14 +14755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351490,
-      "num": 550938,
-      "word": "女幼师给幼儿喂避孕药",
-      "onboard_time": 1687181021,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351291,
       "num": 351291,
       "word": "民警为查毒品剥开32吨洋葱",
@@ -15201,6 +15233,14 @@
       "onboard_time": 1686892293,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341013,
+      "num": 341013,
+      "word": "肖战和肖春生的异同点",
+      "onboard_time": 1687184023,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 341004,
@@ -15761,6 +15801,14 @@
       "onboard_time": 1686251115,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 329597,
+      "num": 329597,
+      "word": "本次白玉兰不排除有双黄蛋",
+      "onboard_time": 1687181505,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 329482,
@@ -18595,6 +18643,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 280701,
+      "num": 344023,
+      "word": "你是一具受潮的木乃伊",
+      "onboard_time": 1687184147,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 280678,
       "num": 688767,
       "word": "女生拒绝帮助用双膝自信进考场",
@@ -19168,14 +19224,6 @@
       "word": "胡可三演白敬亭丈母娘",
       "onboard_time": 1687123391,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 273817,
-      "num": 221778,
-      "word": "本次白玉兰不排除有双黄蛋",
-      "onboard_time": 1687181505,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -20547,6 +20595,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 257868,
+      "num": 477292,
+      "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+      "onboard_time": 1687180541,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257728,
       "num": 257728,
       "word": "谢淑薇法网女双夺冠",
@@ -20889,6 +20945,14 @@
       "onboard_time": 1686741449,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 255210,
+      "num": 540090,
+      "word": "周雨结婚",
+      "onboard_time": 1687179219,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 255203,
@@ -21937,14 +22001,6 @@
       "onboard_time": 1686284673,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245080,
-      "num": 540090,
-      "word": "周雨结婚",
-      "onboard_time": 1687179219,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 245036,
@@ -24131,6 +24187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226525,
+      "num": 343245,
+      "word": "这水龙头有毛病吧",
+      "onboard_time": 1687183727,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226232,
       "num": 226232,
       "word": "刘芮麟对肖战说抱一丝啦兄弟",
@@ -24553,14 +24617,6 @@
       "onboard_time": 1686712530,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223732,
-      "num": 285645,
-      "word": "马云指出淘宝天猫未来三个方向",
-      "onboard_time": 1687180119,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 223555,
@@ -25281,6 +25337,14 @@
       "onboard_time": 1685550029,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217620,
+      "num": 342593,
+      "word": "网友拍到的龙吸水",
+      "onboard_time": 1687183544,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217579,
@@ -32435,6 +32499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172149,
+      "num": 314020,
+      "word": "在一起很久后必须分开的情况",
+      "onboard_time": 1687182461,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172120,
       "num": 172120,
       "word": "肖春生疯狂找存在感",
@@ -34555,6 +34627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158269,
+      "num": 309529,
+      "word": "被爱意包围的小狗",
+      "onboard_time": 1687183544,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 158250,
       "num": 230461,
       "word": "被这个工作搭子整破防了",
@@ -34713,6 +34793,14 @@
       "onboard_time": 1686907647,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156965,
+      "num": 303677,
+      "word": "印尼vs阿根廷",
+      "onboard_time": 1687181679,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 156958,
@@ -35617,14 +35705,6 @@
       "onboard_time": 1686731547,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 150893,
-      "num": 221213,
-      "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
-      "onboard_time": 1687180541,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 150826,
@@ -44699,6 +44779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39194,
+      "num": 1927446,
+      "word": "高质量发展调研行",
+      "onboard_time": 1686387328,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39180,
       "num": 459314,
       "word": "男子雨天蹲路中间民警暖心开导",
@@ -44729,14 +44817,6 @@
       "onboard_time": 1686422356,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38848,
-      "num": 1927446,
-      "word": "高质量发展调研行",
-      "onboard_time": 1686387328,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38623,
@@ -45329,6 +45409,14 @@
       "onboard_time": 1686133657,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 20910,
+      "num": 479130,
+      "word": "轮椅老人坐公交司机乘客抢着帮忙",
+      "onboard_time": 1687183244,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20349,
