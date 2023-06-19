@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687159007835,
+  "endTime": 1687160012188,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -219,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4172706,
-      "num": 287123,
+      "raw_hot": 4203869,
+      "num": 356127,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3329149,
+      "num": 412001,
+      "word": "阿雅",
+      "onboard_time": 1687155523,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3325416,
       "num": 3325416,
       "word": "高考物理",
@@ -409,14 +417,6 @@
       "onboard_time": 1686624928,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 3171899,
-      "num": 412001,
-      "word": "阿雅",
-      "onboard_time": 1687155523,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3150204,
@@ -491,6 +491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2918923,
+      "num": 439390,
+      "word": "范晓萱",
+      "onboard_time": 1687154381,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2916759,
       "num": 1142189,
       "word": "鼠头鸭脖高校学生称又吃出大青虫",
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2892320,
-      "num": 439390,
-      "word": "范晓萱",
-      "onboard_time": 1687154381,
-      "rank": 12,
-      "category": "社会新闻,艺人"
+      "raw_hot": 2848581,
+      "num": 308344,
+      "word": "阿雅否认吸毒",
+      "onboard_time": 1687159370,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2841549,
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2565538,
+      "num": 280886,
+      "word": "张兰直播",
+      "onboard_time": 1687157323,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2562443,
       "num": 845044,
       "word": "疑地铁事件女子同学称被其校园霸凌",
@@ -859,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2481609,
-      "num": 280886,
-      "word": "张兰直播",
-      "onboard_time": 1687157323,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2474214,
       "num": 2474214,
       "word": "张雨绮说699我都买不了袜子",
@@ -969,6 +977,14 @@
       "onboard_time": 1685720731,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2381307,
+      "num": 238916,
+      "word": "大小S经纪人否认黄子佼指控",
+      "onboard_time": 1687158167,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2371539,
@@ -2635,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1585999,
+      "num": 1585999,
+      "word": "虞书欣王鹤棣 二搭",
+      "onboard_time": 1687155162,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1580905,
       "num": 1580905,
       "word": "陈采尼 抄",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1687048884,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1520424,
-      "num": 237498,
-      "word": "大小S经纪人否认黄子佼指控",
-      "onboard_time": 1687158167,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1519409,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1685800650,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1308709,
-      "num": 1308709,
-      "word": "虞书欣王鹤棣 二搭",
-      "onboard_time": 1687155162,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1308571,
@@ -4865,6 +4873,14 @@
       "onboard_time": 1686180383,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1106037,
+      "num": 236388,
+      "word": "黄子佼老婆",
+      "onboard_time": 1687157744,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1105717,
@@ -6587,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 861450,
+      "num": 861450,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 857818,
       "num": 857818,
       "word": "姆巴佩说梅西没得到应有的尊重",
@@ -6857,14 +6881,6 @@
       "onboard_time": 1686733049,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 831771,
-      "num": 759444,
-      "word": "Jennie巡演翻白眼",
-      "onboard_time": 1687153414,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 830576,
@@ -7321,14 +7337,6 @@
       "onboard_time": 1685618847,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785932,
-      "num": 230893,
-      "word": "黄子佼老婆",
-      "onboard_time": 1687157744,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 785496,
@@ -10467,6 +10475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 509184,
+      "num": 228541,
+      "word": "周俊伟",
+      "onboard_time": 1687159848,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508824,
       "num": 508824,
       "word": "收到请回复谢谢",
@@ -10521,6 +10537,14 @@
       "onboard_time": 1685759249,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 504628,
+      "num": 227341,
+      "word": "周深美依礼芽终于合作上了",
+      "onboard_time": 1687157080,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 503531,
@@ -10649,14 +10673,6 @@
       "onboard_time": 1687069887,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497370,
-      "num": 224897,
-      "word": "周深美依礼芽终于合作上了",
-      "onboard_time": 1687157080,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 496286,
@@ -12075,6 +12091,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 422696,
+      "num": 422696,
+      "word": "客户让高中女儿多看招聘网",
+      "onboard_time": 1687155162,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 422663,
       "num": 422663,
       "word": "春花厌 侯明昊",
@@ -12496,14 +12520,6 @@
       "word": "不提穷字但一听就很穷的话",
       "onboard_time": 1687049965,
       "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 407566,
-      "num": 362156,
-      "word": "客户让高中女儿多看招聘网",
-      "onboard_time": 1687155162,
-      "rank": 19,
       "category": "幽默"
     },
     {
@@ -14212,7 +14228,7 @@
     },
     {
       "raw_hot": 355006,
-      "num": 220727,
+      "num": 221012,
       "word": "原来真的有人发际线连着眉毛",
       "onboard_time": 1687157623,
       "rank": 33,
@@ -15731,6 +15747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321986,
+      "num": 207007,
+      "word": "偷偷藏不住连更10天",
+      "onboard_time": 1687159308,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321734,
       "num": 321734,
       "word": "手工耿 适合中国宝宝体质的林克",
@@ -16648,6 +16672,14 @@
       "word": "新一卷 我没惹你",
       "onboard_time": 1686219454,
       "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 303549,
+      "num": 303549,
+      "word": "初中生早课犯困老师空1节课让休息",
+      "onboard_time": 1687159070,
+      "rank": 17,
       "category": "教育,社会新闻"
     },
     {
@@ -21993,6 +22025,14 @@
       "onboard_time": 1687004970,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240204,
+      "num": 240204,
+      "word": "蟑螂飞到耳朵里还咬出血",
+      "onboard_time": 1687159425,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 240136,
@@ -28811,6 +28851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191085,
+      "num": 191085,
+      "word": "星宇道歉",
+      "onboard_time": 1687159667,
+      "rank": 46,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 191081,
       "num": 191081,
       "word": "贺峻霖张艺凡热聊",
@@ -33401,6 +33449,14 @@
       "onboard_time": 1686883593,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161490,
+      "num": 161490,
+      "word": "绘图寻亲男子一有空就去看妈妈",
+      "onboard_time": 1687159791,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161474,
@@ -43523,6 +43579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49203,
+      "num": 315284,
+      "word": "和章子怡一起不设限",
+      "onboard_time": 1687158045,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 49123,
       "num": 63377,
       "word": "新时代北京的精气神",
@@ -44393,14 +44457,6 @@
       "onboard_time": 1685694809,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 25273,
-      "num": 282097,
-      "word": "和章子怡一起不设限",
-      "onboard_time": 1687158045,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 24627,

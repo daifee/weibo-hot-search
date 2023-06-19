@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687159007835,
+  "endTime": 1687160012188,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4172706,
-      "num": 287123,
+      "raw_hot": 4203869,
+      "num": 356127,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
@@ -35,7 +35,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3171899,
+      "raw_hot": 3329149,
       "num": 412001,
       "word": "阿雅",
       "onboard_time": 1687155523,
@@ -51,6 +51,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2918923,
+      "num": 439390,
+      "word": "范晓萱",
+      "onboard_time": 1687154381,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2897039,
       "num": 2897039,
       "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2892320,
-      "num": 439390,
-      "word": "范晓萱",
-      "onboard_time": 1687154381,
-      "rank": 12,
-      "category": "社会新闻,艺人"
+      "raw_hot": 2848581,
+      "num": 308344,
+      "word": "阿雅否认吸毒",
+      "onboard_time": 1687159370,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2596648,
@@ -75,11 +83,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2481609,
+      "raw_hot": 2565538,
       "num": 280886,
       "word": "张兰直播",
       "onboard_time": 1687157323,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2381307,
+      "num": 238916,
+      "word": "大小S经纪人否认黄子佼指控",
+      "onboard_time": 1687158167,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -107,12 +123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1520424,
-      "num": 237498,
-      "word": "大小S经纪人否认黄子佼指控",
-      "onboard_time": 1687158167,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 1585999,
+      "num": 1585999,
+      "word": "虞书欣王鹤棣 二搭",
+      "onboard_time": 1687155162,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1399891,
@@ -147,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1308709,
-      "num": 1308709,
-      "word": "虞书欣王鹤棣 二搭",
-      "onboard_time": 1687155162,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1293958,
       "num": 1293958,
       "word": "大四男生实习薪资1万4妈妈仰天大笑",
@@ -177,6 +185,14 @@
       "onboard_time": 1687130123,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1106037,
+      "num": 236388,
+      "word": "黄子佼老婆",
+      "onboard_time": 1687157744,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1071290,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 861450,
+      "num": 861450,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -283,28 +307,12 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 831771,
-      "num": 759444,
-      "word": "Jennie巡演翻白眼",
-      "onboard_time": 1687153414,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 801847,
       "num": 801847,
       "word": "南京小龙虾卖100块一只值吗",
       "onboard_time": 1687142910,
       "rank": 38,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 785932,
-      "num": 230893,
-      "word": "黄子佼老婆",
-      "onboard_time": 1687157744,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 783781,
@@ -435,8 +443,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 497370,
-      "num": 224897,
+      "raw_hot": 509184,
+      "num": 228541,
+      "word": "周俊伟",
+      "onboard_time": 1687159848,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 504628,
+      "num": 227341,
       "word": "周深美依礼芽终于合作上了",
       "onboard_time": 1687157080,
       "rank": 30,
@@ -499,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 422696,
+      "num": 422696,
+      "word": "客户让高中女儿多看招聘网",
+      "onboard_time": 1687155162,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421556,
       "num": 421556,
       "word": "女朋友说她拍到我出轨了",
@@ -521,14 +545,6 @@
       "onboard_time": 1687145550,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407566,
-      "num": 362156,
-      "word": "客户让高中女儿多看招聘网",
-      "onboard_time": 1687155162,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 407350,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 355006,
-      "num": 220727,
+      "num": 221012,
       "word": "原来真的有人发际线连着眉毛",
       "onboard_time": 1687157623,
       "rank": 33,
@@ -643,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321986,
+      "num": 207007,
+      "word": "偷偷藏不住连更10天",
+      "onboard_time": 1687159308,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318082,
       "num": 318082,
       "word": "布林肯",
@@ -665,6 +689,14 @@
       "onboard_time": 1687145366,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303549,
+      "num": 303549,
+      "word": "初中生早课犯困老师空1节课让休息",
+      "onboard_time": 1687159070,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 302770,
@@ -923,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240204,
+      "num": 240204,
+      "word": "蟑螂飞到耳朵里还咬出血",
+      "onboard_time": 1687159425,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239968,
       "num": 239968,
       "word": "汪苏泷赵露思新歌藏不住了",
@@ -1163,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191085,
+      "num": 191085,
+      "word": "星宇道歉",
+      "onboard_time": 1687159667,
+      "rank": 46,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "中美外长会谈结束",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1687133730,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161490,
+      "num": 161490,
+      "word": "绘图寻亲男子一有空就去看妈妈",
+      "onboard_time": 1687159791,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158354,
@@ -1707,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49203,
+      "num": 315284,
+      "word": "和章子怡一起不设限",
+      "onboard_time": 1687158045,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42647,
       "num": 1738864,
       "word": "三夏农忙正当时",
@@ -1729,14 +1793,6 @@
       "onboard_time": 1687124593,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25273,
-      "num": 282097,
-      "word": "和章子怡一起不设限",
-      "onboard_time": 1687158045,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 22018,
