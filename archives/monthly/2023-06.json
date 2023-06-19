@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687216666179,
+  "endTime": 1687217622609,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -577,6 +577,14 @@
       "onboard_time": 1686959242,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2835483,
+      "num": 272767,
+      "word": "黄景瑜工作室回应不实传闻",
+      "onboard_time": 1687216462,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2801822,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1686365007,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1806649,
+      "num": 264475,
+      "word": "黄景瑜说和前任是亲人也是朋友",
+      "onboard_time": 1687216523,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1805536,
@@ -8243,6 +8259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 731395,
+      "num": 731395,
+      "word": "马云指出淘宝天猫未来三个方向",
+      "onboard_time": 1687180119,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 731221,
       "num": 731221,
       "word": "肖春生老了也是个帅老头",
@@ -8473,14 +8497,6 @@
       "onboard_time": 1686991647,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 713135,
-      "num": 199408,
-      "word": "黄景瑜工作室回应不实传闻",
-      "onboard_time": 1687216462,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 710463,
@@ -9625,14 +9641,6 @@
       "onboard_time": 1686702931,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604463,
-      "num": 604463,
-      "word": "马云指出淘宝天猫未来三个方向",
-      "onboard_time": 1687180119,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 603842,
@@ -11897,14 +11905,6 @@
       "onboard_time": 1686822807,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453810,
-      "num": 153432,
-      "word": "黄景瑜说和前任是亲人也是朋友",
-      "onboard_time": 1687216523,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 453692,
@@ -27939,6 +27939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201087,
+      "num": 130211,
+      "word": "公园里不套大鹅改套大爷了",
+      "onboard_time": 1687215680,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201040,
       "num": 201040,
       "word": "宋丹丹邀桃花坞成员大聚会",
@@ -40923,6 +40931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113272,
+      "num": 100140,
+      "word": "景甜冯绍峰新剧cp海报",
+      "onboard_time": 1687212015,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112916,
       "num": 112916,
       "word": "儿童节",
@@ -41563,14 +41579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105758,
-      "num": 105758,
-      "word": "公园里不套大鹅改套大爷了",
-      "onboard_time": 1687215680,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105679,
       "num": 105679,
       "word": "亲密关系最重要的是平衡点",
@@ -41793,14 +41801,6 @@
       "onboard_time": 1686527969,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103076,
-      "num": 86576,
-      "word": "景甜冯绍峰新剧cp海报",
-      "onboard_time": 1687212015,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 102899,
@@ -42188,7 +42188,7 @@
     },
     {
       "raw_hot": 97549,
-      "num": 79711,
+      "num": 90049,
       "word": "余景天新男团OneNEleven",
       "onboard_time": 1687196897,
       "rank": 21,
@@ -42299,6 +42299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96257,
+      "num": 96257,
+      "word": "刘宇宁宋祖儿折腰对手戏",
+      "onboard_time": 1687213936,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95902,
       "num": 95902,
       "word": "2条丝巾变古装",
@@ -42329,14 +42337,6 @@
       "onboard_time": 1685606487,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95244,
-      "num": 74544,
-      "word": "刘宇宁宋祖儿折腰对手戏",
-      "onboard_time": 1687213936,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 95137,
@@ -43283,6 +43283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76441,
+      "num": 76441,
+      "word": "杨紫小花耳环",
+      "onboard_time": 1687213577,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76423,
       "num": 86023,
       "word": "高三毕业生齐喊班主任王妈",
@@ -43769,6 +43777,14 @@
       "onboard_time": 1686763457,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 68229,
+      "num": 68229,
+      "word": "买西瓜前为啥要拍一拍",
+      "onboard_time": 1687217485,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 68216,
@@ -45307,6 +45323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35394,
+      "num": 1070224,
+      "word": "杭州亚运奖牌上的湖山长什么样",
+      "onboard_time": 1687180837,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35292,
       "num": 1186819,
       "word": "当夏日美景遇上古诗词",
@@ -45433,14 +45457,6 @@
       "onboard_time": 1685548527,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31854,
-      "num": 1070224,
-      "word": "杭州亚运奖牌上的湖山长什么样",
-      "onboard_time": 1687180837,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 31783,

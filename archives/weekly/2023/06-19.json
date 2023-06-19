@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687216666179,
+  "endTime": 1687217622609,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2835483,
+      "num": 272767,
+      "word": "黄景瑜工作室回应不实传闻",
+      "onboard_time": 1687216462,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2780606,
       "num": 719055,
       "word": "周俊伟",
@@ -241,6 +249,14 @@
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1806649,
+      "num": 264475,
+      "word": "黄景瑜说和前任是亲人也是朋友",
+      "onboard_time": 1687216523,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1737623,
@@ -659,6 +675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 731395,
+      "num": 731395,
+      "word": "马云指出淘宝天猫未来三个方向",
+      "onboard_time": 1687180119,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 721825,
       "num": 658978,
       "word": "白敬亭吃醋不像演的",
@@ -681,14 +705,6 @@
       "onboard_time": 1687101451,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 713135,
-      "num": 199408,
-      "word": "黄景瑜工作室回应不实传闻",
-      "onboard_time": 1687216462,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 690409,
@@ -761,14 +777,6 @@
       "onboard_time": 1687163984,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 604463,
-      "num": 604463,
-      "word": "马云指出淘宝天猫未来三个方向",
-      "onboard_time": 1687180119,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 577141,
@@ -921,14 +929,6 @@
       "onboard_time": 1687147711,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 453810,
-      "num": 153432,
-      "word": "黄景瑜说和前任是亲人也是朋友",
-      "onboard_time": 1687216523,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 451706,
@@ -1971,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201087,
+      "num": 130211,
+      "word": "公园里不套大鹅改套大爷了",
+      "onboard_time": 1687215680,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199013,
       "num": 199013,
       "word": "肖战 人生可不止这一片什刹海",
@@ -2699,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113272,
+      "num": 100140,
+      "word": "景甜冯绍峰新剧cp海报",
+      "onboard_time": 1687212015,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110158,
       "num": 110158,
       "word": "西班牙夺得欧国联冠军",
@@ -2715,22 +2731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105758,
-      "num": 105758,
-      "word": "公园里不套大鹅改套大爷了",
-      "onboard_time": 1687215680,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103076,
-      "num": 86576,
-      "word": "景甜冯绍峰新剧cp海报",
-      "onboard_time": 1687212015,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102711,
       "num": 102711,
       "word": "五月天告五人",
@@ -2740,15 +2740,15 @@
     },
     {
       "raw_hot": 97549,
-      "num": 79711,
+      "num": 90049,
       "word": "余景天新男团OneNEleven",
       "onboard_time": 1687196897,
       "rank": 21,
       "category": "音乐"
     },
     {
-      "raw_hot": 95244,
-      "num": 74544,
+      "raw_hot": 96257,
+      "num": 96257,
       "word": "刘宇宁宋祖儿折腰对手戏",
       "onboard_time": 1687213936,
       "rank": 42,
@@ -2819,6 +2819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76441,
+      "num": 76441,
+      "word": "杨紫小花耳环",
+      "onboard_time": 1687213577,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 73597,
       "num": 73597,
       "word": "厦门体育中心回应演唱会场地脏",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1687150653,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68229,
+      "num": 68229,
+      "word": "买西瓜前为啥要拍一拍",
+      "onboard_time": 1687217485,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 65097,
@@ -3011,7 +3027,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31854,
+      "raw_hot": 35394,
       "num": 1070224,
       "word": "杭州亚运奖牌上的湖山长什么样",
       "onboard_time": 1687180837,
