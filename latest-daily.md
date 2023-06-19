@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/20 00:22:13 ~ 2023/06/20 01:14:54
+本榜单时间：2023/06/20 00:22:13 ~ 2023/06/20 01:33:42
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ Jennie新剧预告又跳舞了（热度：300101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%A7%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%81%8F%E5%BF%83%23" target="weibo">
+邓科被吐槽偏心（热度：73490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E7%BB%93%E5%A9%9A%23" target="weibo">
 周雨结婚（热度：72957）
 </a>
@@ -328,7 +334,7 @@ Jennie新剧预告又跳舞了（热度：300101）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A4%AA%E7%94%A8%E5%8A%9B%E4%BA%86%E6%89%80%E4%BB%A5%E8%B5%B0%E4%B8%8D%E8%BF%9C%23" target="weibo">
-你太用力了所以走不远（热度：69664）
+你太用力了所以走不远（热度：70298）
 </a>
 </li>
 

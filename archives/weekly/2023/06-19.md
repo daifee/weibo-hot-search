@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/20 01:14:54
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/20 01:33:42
 </p>
 </blockquote>
 <p>
@@ -2081,6 +2081,12 @@ U17（热度：113338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NIP%E5%AF%B9%E6%88%98WE%23" target="weibo">
 NIP对战WE（热度：77082）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%A7%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%81%8F%E5%BF%83%23" target="weibo">
+邓科被吐槽偏心（热度：73490）
 </a>
 </li>
 

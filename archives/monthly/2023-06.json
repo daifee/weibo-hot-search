@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687194894783,
+  "endTime": 1687196022669,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -43361,6 +43361,14 @@
       "onboard_time": 1686242065,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73490,
+      "num": 73490,
+      "word": "邓科被吐槽偏心",
+      "onboard_time": 1687185465,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 73363,

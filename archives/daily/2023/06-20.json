@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687194894783,
+  "endTime": 1687196022669,
   "band_list": [
     {
       "raw_hot": 3783594,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73490,
+      "num": 73490,
+      "word": "邓科被吐槽偏心",
+      "onboard_time": 1687185465,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 72957,
       "num": 197991,
       "word": "周雨结婚",
@@ -419,7 +427,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69664,
+      "raw_hot": 70298,
       "num": 176049,
       "word": "你太用力了所以走不远",
       "onboard_time": 1687168002,
