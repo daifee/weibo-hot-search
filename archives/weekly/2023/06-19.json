@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687196022669,
+  "endTime": 1687198882235,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -2699,6 +2699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97549,
+      "num": 79711,
+      "word": "余景天新男团OneNEleven",
+      "onboard_time": 1687196897,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 94135,
       "num": 1289923,
       "word": "女孩遇大叔舞龙热情喊话再来一次",
@@ -2819,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55269,
+      "num": 55269,
+      "word": "蔡徐坤香港演唱会hugme舞台",
+      "onboard_time": 1687197378,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 55060,
       "num": 55060,
       "word": "不同镜头下的布林肯访华",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1687124593,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24350,
+      "num": 49294,
+      "word": "厦门体育中心回应演唱会场地脏",
+      "onboard_time": 1687197678,
+      "rank": 49,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 22018,
