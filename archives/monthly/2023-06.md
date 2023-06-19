@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 15:33:32
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/19 16:22:13
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%23" target="weibo">
+阿雅否认吸毒（热度：3454123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BD%A0%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23" target="weibo">
 孩子你配享太庙（热度：3441448）
 </a>
@@ -399,12 +405,6 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%9B%85%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%23" target="weibo">
-阿雅否认吸毒（热度：2848581）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%23" target="weibo">
 四六级（热度：2841549）
 </a>
@@ -437,6 +437,12 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23" target="weibo">
 一颗老鼠头为何要省级调查组才能查清（热度：2789248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BF%8A%E4%BC%9F%23" target="weibo">
+周俊伟（热度：2780606）
 </a>
 </li>
 
@@ -1667,6 +1673,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%9A%8A%E5%AD%90%E5%90%B8%E4%BA%86%E4%B8%80%E5%8F%A3%E6%B7%A4%E8%A1%80%23" target="weibo">
 当蚊子吸了一口淤血（热度：1738911）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E8%80%81%E5%A9%86%23" target="weibo">
+黄子佼老婆（热度：1737623）
 </a>
 </li>
 
@@ -3669,12 +3681,6 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E8%80%81%E5%A9%86%23" target="weibo">
-黄子佼老婆（热度：1106037）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4%E4%B8%80%E5%91%A8%23" target="weibo">
 张凌赫工作室宣布停更一周（热度：1105717）
 </a>
@@ -3773,6 +3779,12 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%95%B0%E5%AD%A6%20%E5%88%9B%E9%A3%9E%E6%88%91%E4%BA%86%23" target="weibo">
 天津数学 创飞我了（热度：1093188）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23" target="weibo">
+警方确认女子房子被邻居打通使用（热度：1092740）
 </a>
 </li>
 
@@ -3911,12 +3923,6 @@ Rain 街舞6（热度：1075379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23" target="weibo">
 微博电影之夜内场（热度：1057443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%AD%90%E6%88%BF%E5%AD%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%89%93%E9%80%9A%E4%BD%BF%E7%94%A8%23" target="weibo">
-警方确认女子房子被邻居打通使用（热度：1054901）
 </a>
 </li>
 
@@ -4575,6 +4581,12 @@ EDG海报空个位置（热度：945915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%B7%A1%E6%BC%94%E7%BF%BB%E7%99%BD%E7%9C%BC%23" target="weibo">
+Jennie巡演翻白眼（热度：927985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B1%E9%AB%98%E4%BD%8D%E5%B1%B1%E4%BD%93%E5%A1%8C%E6%96%B914%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 四川乐山高位山体塌方14人遇难（热度：927305）
 </a>
@@ -4965,12 +4977,6 @@ WBG零封JDG（热度：888042）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%B7%A1%E6%BC%94%E7%BF%BB%E7%99%BD%E7%9C%BC%23" target="weibo">
-Jennie巡演翻白眼（热度：861450）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E6%A2%85%E8%A5%BF%E6%B2%A1%E5%BE%97%E5%88%B0%E5%BA%94%E6%9C%89%E7%9A%84%E5%B0%8A%E9%87%8D%23" target="weibo">
 姆巴佩说梅西没得到应有的尊重（热度：857818）
 </a>
@@ -5085,8 +5091,20 @@ leave女友发文（热度：844861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9F%91%E8%9E%82%E9%A3%9E%E5%88%B0%E8%80%B3%E6%9C%B5%E9%87%8C%E8%BF%98%E5%92%AC%E5%87%BA%E8%A1%80%23" target="weibo">
+蟑螂飞到耳朵里还咬出血（热度：843847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%8F%B6%E7%90%B3%E5%9B%9E%E6%9D%A5%E5%95%A6%23" target="weibo">
 阚清子 叶琳回来啦（热度：841811）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E8%84%8F%23" target="weibo">
+演唱会座位脏（热度：841657）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ RNG老板澄清Uzi退役谣言（热度：735025）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
 女生称洗澡后发现酒店房间有摄像头（热度：724299）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%AB%A0%E5%8C%85%E6%96%87%E5%A9%A7%E7%BB%84%E5%9B%A2%E5%B8%A6%E5%A8%83%E9%80%9B%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
-文章包文婧组团带娃逛迪士尼（热度：722852）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD32%E5%B2%81%E7%94%B7%E5%AD%90%E8%AE%A93%E4%B8%AA%E5%84%BF%E5%AD%90%E7%AB%99%E6%88%90%E4%B8%80%E6%8E%92%E6%9E%AA%E6%9D%80%23" target="weibo">
-美国32岁男子让3个儿子站成一排枪杀（热度：722463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E6%81%8B%23" target="weibo">
-这居然是刘恋（热度：722293）
 </a>
 </li>
 

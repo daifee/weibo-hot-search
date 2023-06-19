@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687160012188,
+  "endTime": 1687162933455,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 4203869,
-      "num": 356127,
+      "num": 630060,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1687152391,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3454123,
+      "num": 584705,
+      "word": "阿雅否认吸毒",
+      "onboard_time": 1687159370,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 3329149,
@@ -67,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2848581,
-      "num": 308344,
-      "word": "阿雅否认吸毒",
-      "onboard_time": 1687159370,
-      "rank": 16,
+      "raw_hot": 2780606,
+      "num": 391740,
+      "word": "周俊伟",
+      "onboard_time": 1687159848,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 2381307,
-      "num": 238916,
+      "num": 280029,
       "word": "大小S经纪人否认黄子佼指控",
       "onboard_time": 1687158167,
       "rank": 21,
@@ -121,6 +129,14 @@
       "onboard_time": 1687133730,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1737623,
+      "num": 246364,
+      "word": "黄子佼老婆",
+      "onboard_time": 1687157744,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1585999,
@@ -187,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1106037,
-      "num": 236388,
-      "word": "黄子佼老婆",
-      "onboard_time": 1687157744,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 1092740,
+      "num": 1092740,
+      "word": "警方确认女子房子被邻居打通使用",
+      "onboard_time": 1687151550,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1071290,
@@ -201,14 +217,6 @@
       "onboard_time": 1687089148,
       "rank": 1,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 1054901,
-      "num": 1054901,
-      "word": "警方确认女子房子被邻居打通使用",
-      "onboard_time": 1687151550,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1051409,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927985,
+      "num": 927985,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 893639,
       "num": 893639,
       "word": "张杰演唱会现场喊话黄牛",
@@ -275,14 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 861450,
-      "num": 861450,
-      "word": "Jennie巡演翻白眼",
-      "onboard_time": 1687153414,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -297,6 +305,22 @@
       "onboard_time": 1687135109,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 843847,
+      "num": 270739,
+      "word": "蟑螂飞到耳朵里还咬出血",
+      "onboard_time": 1687159425,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 841657,
+      "num": 841657,
+      "word": "演唱会座位脏",
+      "onboard_time": 1687160150,
+      "rank": 8,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 838407,
@@ -371,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 670440,
+      "num": 670440,
+      "word": "星宇道歉",
+      "onboard_time": 1687159667,
+      "rank": 46,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 662084,
       "num": 662084,
       "word": "长风渡首播反馈",
@@ -411,12 +443,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 562901,
+      "num": 223466,
+      "word": "萧敬腾",
+      "onboard_time": 1687161707,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
       "onboard_time": 1687079666,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 535693,
+      "num": 535693,
+      "word": "调查称53.7%年轻人存款不足10万",
+      "onboard_time": 1687160626,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 523462,
@@ -443,20 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 509184,
-      "num": 228541,
-      "word": "周俊伟",
-      "onboard_time": 1687159848,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 504628,
       "num": 227341,
       "word": "周深美依礼芽终于合作上了",
       "onboard_time": 1687157080,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 501385,
+      "num": 220113,
+      "word": "张晚意今天官宣了三部剧",
+      "onboard_time": 1687162186,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 491959,
@@ -473,6 +521,14 @@
       "onboard_time": 1687135350,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 471112,
+      "num": 262639,
+      "word": "结婚五年面相都变了",
+      "onboard_time": 1687161587,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 464523,
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404840,
+      "num": 259366,
+      "word": "长得不漂亮但拍照上镜",
+      "onboard_time": 1687160926,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396251,
       "num": 396251,
       "word": "十年前当了蔡依林甲方",
@@ -587,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382413,
+      "num": 216936,
+      "word": "崔秀彬ins",
+      "onboard_time": 1687160867,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380856,
       "num": 380856,
       "word": "相亲中的聊天记录",
@@ -612,7 +684,7 @@
     },
     {
       "raw_hot": 355006,
-      "num": 221012,
+      "num": 221206,
       "word": "原来真的有人发际线连着眉毛",
       "onboard_time": 1687157623,
       "rank": 33,
@@ -660,7 +732,7 @@
     },
     {
       "raw_hot": 321986,
-      "num": 207007,
+      "num": 216098,
       "word": "偷偷藏不住连更10天",
       "onboard_time": 1687159308,
       "rank": 41,
@@ -736,6 +808,14 @@
       "word": "陈伟霆刘雅瑟新剧官宣",
       "onboard_time": 1687154077,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289239,
+      "num": 215221,
+      "word": "与凤行配音",
+      "onboard_time": 1687162907,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -953,14 +1033,6 @@
       "onboard_time": 1687102889,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240204,
-      "num": 240204,
-      "word": "蟑螂飞到耳朵里还咬出血",
-      "onboard_time": 1687159425,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 239968,
@@ -1201,14 +1273,6 @@
       "onboard_time": 1687142307,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191085,
-      "num": 191085,
-      "word": "星宇道歉",
-      "onboard_time": 1687159667,
-      "rank": 46,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 190957,
@@ -1571,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134935,
+      "num": 214422,
+      "word": "孩子帮忙干活时摔碎杯子妈妈秒安慰",
+      "onboard_time": 1687162608,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130611,
       "num": 130611,
       "word": "你会请三休八拼长假吗",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1687139789,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115054,
+      "num": 213401,
+      "word": "学猫咪走路被发现的边牧",
+      "onboard_time": 1687160571,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 113982,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1687106726,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67759,
+      "num": 406656,
+      "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
+      "onboard_time": 1687161644,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65097,
