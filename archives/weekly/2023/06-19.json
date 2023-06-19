@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687162933455,
+  "endTime": 1687163704412,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -20,10 +20,18 @@
     },
     {
       "raw_hot": 4203869,
-      "num": 630060,
+      "num": 769112,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3547277,
+      "num": 790244,
+      "word": "阿雅否认吸毒",
+      "onboard_time": 1687159370,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -35,16 +43,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3454123,
-      "num": 584705,
-      "word": "阿雅否认吸毒",
-      "onboard_time": 1687159370,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 3329149,
-      "num": 412001,
+      "num": 539019,
       "word": "阿雅",
       "onboard_time": 1687155523,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2918923,
-      "num": 439390,
+      "num": 718061,
       "word": "范晓萱",
       "onboard_time": 1687154381,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2780606,
-      "num": 391740,
+      "num": 719055,
       "word": "周俊伟",
       "onboard_time": 1687159848,
       "rank": 32,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2565538,
-      "num": 280886,
+      "num": 611805,
       "word": "张兰直播",
       "onboard_time": 1687157323,
       "rank": 16,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2381307,
-      "num": 280029,
+      "num": 718882,
       "word": "大小S经纪人否认黄子佼指控",
       "onboard_time": 1687158167,
       "rank": 21,
@@ -131,8 +131,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1825276,
+      "num": 717817,
+      "word": "吴宗宪称将起诉黄子佼",
+      "onboard_time": 1687163026,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1737623,
-      "num": 246364,
+      "num": 714302,
       "word": "黄子佼老婆",
       "onboard_time": 1687157744,
       "rank": 26,
@@ -203,12 +211,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1092740,
-      "num": 1092740,
+      "raw_hot": 1144710,
+      "num": 1144710,
+      "word": "调查称53.7%年轻人存款不足10万",
+      "onboard_time": 1687160626,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1111590,
+      "num": 1111590,
       "word": "警方确认女子房子被邻居打通使用",
       "onboard_time": 1687151550,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1084927,
+      "num": 1084927,
+      "word": "演唱会座位脏",
+      "onboard_time": 1687160150,
+      "rank": 8,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 1071290,
@@ -249,6 +273,14 @@
       "onboard_time": 1687135888,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943552,
+      "num": 694712,
+      "word": "张晚意今天官宣了三部剧",
+      "onboard_time": 1687162186,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 927985,
@@ -308,19 +340,11 @@
     },
     {
       "raw_hot": 843847,
-      "num": 270739,
+      "num": 717646,
       "word": "蟑螂飞到耳朵里还咬出血",
       "onboard_time": 1687159425,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 841657,
-      "num": 841657,
-      "word": "演唱会座位脏",
-      "onboard_time": 1687160150,
-      "rank": 8,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 838407,
@@ -337,6 +361,14 @@
       "onboard_time": 1687142910,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 801233,
+      "num": 717682,
+      "word": "结婚五年面相都变了",
+      "onboard_time": 1687161587,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 783781,
@@ -371,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 719352,
+      "num": 719352,
+      "word": "星宇道歉",
+      "onboard_time": 1687159667,
+      "rank": 46,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 718915,
       "num": 718915,
       "word": "建议魏大勋别看",
@@ -393,14 +433,6 @@
       "onboard_time": 1687097852,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 670440,
-      "num": 670440,
-      "word": "星宇道歉",
-      "onboard_time": 1687159667,
-      "rank": 46,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 662084,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 630746,
-      "num": 447490,
+      "num": 541224,
       "word": "千万不要在教资体检时穿裙子",
       "onboard_time": 1687137807,
       "rank": 20,
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 562901,
-      "num": 223466,
+      "num": 551594,
       "word": "萧敬腾",
       "onboard_time": 1687161707,
       "rank": 32,
@@ -457,14 +489,6 @@
       "onboard_time": 1687079666,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535693,
-      "num": 535693,
-      "word": "调查称53.7%年轻人存款不足10万",
-      "onboard_time": 1687160626,
-      "rank": 13,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 523462,
@@ -492,19 +516,11 @@
     },
     {
       "raw_hot": 504628,
-      "num": 227341,
+      "num": 241511,
       "word": "周深美依礼芽终于合作上了",
       "onboard_time": 1687157080,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 501385,
-      "num": 220113,
-      "word": "张晚意今天官宣了三部剧",
-      "onboard_time": 1687162186,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 491959,
@@ -523,14 +539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 471112,
-      "num": 262639,
-      "word": "结婚五年面相都变了",
-      "onboard_time": 1687161587,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 464523,
       "num": 464523,
       "word": "张杰送工作票给场外粉丝",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 455495,
-      "num": 391148,
+      "num": 644028,
       "word": "因为口癖是老公社死了",
       "onboard_time": 1687147711,
       "rank": 47,
@@ -587,6 +595,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 416311,
+      "num": 416311,
+      "word": "崔秀彬ins",
+      "onboard_time": 1687160867,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415898,
       "num": 332246,
       "word": "NewJeans新专辑GetUp",
@@ -612,11 +628,27 @@
     },
     {
       "raw_hot": 404840,
-      "num": 259366,
+      "num": 662249,
       "word": "长得不漂亮但拍照上镜",
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 402353,
+      "num": 718782,
+      "word": "每个月工资8000但闲的发慌",
+      "onboard_time": 1687163147,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 396519,
+      "num": 718626,
+      "word": "布林肯",
+      "onboard_time": 1687100132,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 396251,
@@ -651,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382413,
-      "num": 216936,
-      "word": "崔秀彬ins",
-      "onboard_time": 1687160867,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380856,
       "num": 380856,
       "word": "相亲中的聊天记录",
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 355006,
-      "num": 221206,
+      "num": 228730,
       "word": "原来真的有人发际线连着眉毛",
       "onboard_time": 1687157623,
       "rank": 33,
@@ -731,20 +755,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321986,
-      "num": 216098,
+      "raw_hot": 324331,
+      "num": 241721,
       "word": "偷偷藏不住连更10天",
       "onboard_time": 1687159308,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 318082,
-      "num": 318082,
-      "word": "布林肯",
-      "onboard_time": 1687100132,
-      "rank": 18,
-      "category": "国内要闻"
+      "raw_hot": 310144,
+      "num": 237889,
+      "word": "吴谨言把QQ秀穿身上了",
+      "onboard_time": 1687162968,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 308716,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1687150532,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218296,
+      "num": 218296,
+      "word": "雨刮器和方向盘在忙什么",
+      "onboard_time": 1687163507,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 218268,
@@ -1707,6 +1739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 118505,
+      "num": 719204,
+      "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
+      "onboard_time": 1687161644,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115814,
       "num": 115814,
       "word": "王一博黄渤大鹏岳云鹏动漫图",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1687106726,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 67759,
-      "num": 406656,
-      "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
-      "onboard_time": 1687161644,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65097,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687163704412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11228403,
+        "num": 11228403,
+        "word": "黄子佼曝大小S吸毒",
+        "onboard_time": 1687152148,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1435438,
+        "num": 1435438,
+        "word": "虞书欣王鹤棣 二搭",
+        "onboard_time": 1687155162,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74071,
+        "num": 1284466,
+        "word": "国内首座跨海高速铁路桥大片",
+        "onboard_time": 1687150772,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144710,
+        "num": 1144710,
+        "word": "调查称53.7%年轻人存款不足10万",
+        "onboard_time": 1687160626,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1111590,
+        "num": 1111590,
+        "word": "警方确认女子房子被邻居打通使用",
+        "onboard_time": 1687151550,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084927,
+        "num": 1084927,
+        "word": "演唱会座位脏",
+        "onboard_time": 1687160150,
+        "rank": 5,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 1040725,
+        "num": 1040725,
+        "word": "拍一部爆一部的演员",
+        "onboard_time": 1687153112,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 984416,
+        "num": 984416,
+        "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
+        "onboard_time": 1687146929,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881711,
+        "num": 881711,
+        "word": "张小斐首部女主电视剧",
+        "onboard_time": 1687152451,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 836135,
+        "num": 836135,
+        "word": "Jennie巡演翻白眼",
+        "onboard_time": 1687153414,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3547277,
+        "num": 790244,
+        "word": "阿雅否认吸毒",
+        "onboard_time": 1687159370,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3492960,
+        "num": 785663,
+        "word": "黄子佼承认性骚扰",
+        "onboard_time": 1687151191,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3492569,
+        "num": 769112,
+        "word": "黄子佼拿刀割自己",
+        "onboard_time": 1687157623,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719352,
+        "num": 719352,
+        "word": "星宇道歉",
+        "onboard_time": 1687159667,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 118505,
+        "num": 719204,
+        "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
+        "onboard_time": 1687161644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2517244,
+        "num": 719055,
+        "word": "周俊伟",
+        "onboard_time": 1687159848,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1920070,
+        "num": 718882,
+        "word": "大小S经纪人否认黄子佼指控",
+        "onboard_time": 1687158167,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402353,
+        "num": 718782,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396519,
+        "num": 718626,
+        "word": "布林肯",
+        "onboard_time": 1687163147,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 321521,
+        "num": 718379,
+        "word": "幼师拍小朋友房车钱视频引争议",
+        "onboard_time": 1687141407,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1909811,
+        "num": 718185,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1836574,
+        "num": 718061,
+        "word": "范晓萱",
+        "onboard_time": 1687154381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1825276,
+        "num": 717817,
+        "word": "吴宗宪称将起诉黄子佼",
+        "onboard_time": 1687163026,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801233,
+        "num": 717682,
+        "word": "结婚五年面相都变了",
+        "onboard_time": 1687161587,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 717646,
+        "num": 717646,
+        "word": "蟑螂飞到耳朵里还咬出血",
+        "onboard_time": 1687159425,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1488435,
+        "num": 714302,
+        "word": "黄子佼老婆",
+        "onboard_time": 1687157744,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 943552,
+        "num": 694712,
+        "word": "张晚意今天官宣了三部剧",
+        "onboard_time": 1687162186,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330837,
+        "num": 662249,
+        "word": "长得不漂亮但拍照上镜",
+        "onboard_time": 1687160926,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314322,
+        "num": 644028,
+        "word": "因为口癖是老公社死了",
+        "onboard_time": 1687147711,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 212595,
+        "num": 625279,
+        "word": "班主任暗示初三学生弃考情况属实",
+        "onboard_time": 1687140267,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624611,
+        "num": 624611,
+        "word": "猎罪图鉴2来了",
+        "onboard_time": 1687146988,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1553062,
+        "num": 611805,
+        "word": "张兰直播",
+        "onboard_time": 1687157323,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554294,
+        "num": 554294,
+        "word": "马思纯扇巴掌戏被打到闭眼",
+        "onboard_time": 1687143268,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551594,
+        "num": 551594,
+        "word": "萧敬腾",
+        "onboard_time": 1687161707,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270148,
+        "num": 541224,
+        "word": "千万不要在教资体检时穿裙子",
+        "onboard_time": 1687137807,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539019,
+        "num": 539019,
+        "word": "阿雅",
+        "onboard_time": 1687155523,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416311,
+        "num": 416311,
+        "word": "崔秀彬ins",
+        "onboard_time": 1687160867,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389984,
+        "num": 389984,
+        "word": "白敬亭吃醋不像演的",
+        "onboard_time": 1687147049,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253344,
+        "num": 253344,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 244210,
+        "num": 244210,
+        "word": "南京小龙虾卖100块一只值吗",
+        "onboard_time": 1687142910,
+        "rank": 39,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 356047,
+        "num": 242630,
+        "word": "张杰演唱会现场喊话黄牛",
+        "onboard_time": 1687144466,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324331,
+        "num": 241721,
+        "word": "偷偷藏不住连更10天",
+        "onboard_time": 1687159308,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315884,
+        "num": 241511,
+        "word": "周深美依礼芽终于合作上了",
+        "onboard_time": 1687157080,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239579,
+        "num": 239579,
+        "word": "客户让高中女儿多看招聘网",
+        "onboard_time": 1687155162,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310144,
+        "num": 237889,
+        "word": "吴谨言把QQ秀穿身上了",
+        "onboard_time": 1687162968,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228730,
+        "num": 228730,
+        "word": "原来真的有人发际线连着眉毛",
+        "onboard_time": 1687157623,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218296,
+        "num": 218296,
+        "word": "雨刮器和方向盘在忙什么",
+        "onboard_time": 1687163507,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166908,
+        "num": 217437,
+        "word": "专八",
+        "onboard_time": 1687148132,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162223,
+        "num": 216755,
+        "word": "一天之内拒绝了30个学生请假",
+        "onboard_time": 1687133730,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92432,
+        "num": 215697,
+        "word": "星宇",
+        "onboard_time": 1687137330,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#三北防护林启动建设45年#"
+    }
+  }
+}
