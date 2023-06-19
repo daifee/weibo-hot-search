@@ -1,22 +1,38 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687152817363,
+  "endTime": 1687155769860,
   "band_list": [
     {
-      "raw_hot": 6853612,
-      "num": 6853612,
+      "raw_hot": 15039850,
+      "num": 15039850,
+      "word": "黄子佼曝大小S吸毒",
+      "onboard_time": 1687152148,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10010294,
+      "num": 10010294,
       "word": "黄子佼承认性骚扰",
       "onboard_time": 1687151191,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 3823216,
-      "num": 1135855,
-      "word": "黄子佼曝大小S吸毒",
-      "onboard_time": 1687152148,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 3494475,
+      "num": 757581,
+      "word": "黄子佼信息炸裂",
+      "onboard_time": 1687152391,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2938900,
+      "num": 440372,
+      "word": "黄子佼被送往医院",
+      "onboard_time": 1687154381,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2897039,
@@ -33,6 +49,14 @@
       "onboard_time": 1687136851,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2471786,
+      "num": 438588,
+      "word": "范晓萱",
+      "onboard_time": 1687154381,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2168535,
@@ -75,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1359289,
+      "num": 1359289,
+      "word": "张小斐首部女主电视剧",
+      "onboard_time": 1687152451,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1327949,
       "num": 1327949,
       "word": "989大学",
@@ -97,6 +129,14 @@
       "onboard_time": 1687130123,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087704,
+      "num": 1087704,
+      "word": "拍一部爆一部的演员",
+      "onboard_time": 1687153112,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1071290,
@@ -171,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 861345,
+      "num": 861345,
+      "word": "警方确认女子房子被邻居打通使用",
+      "onboard_time": 1687151550,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -211,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757581,
-      "num": 757581,
-      "word": "黄子佼信息炸裂",
-      "onboard_time": 1687152391,
-      "rank": 7,
-      "category": "社会新闻,艺人"
+      "raw_hot": 759444,
+      "num": 759444,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 747276,
@@ -387,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429159,
+      "num": 429159,
+      "word": "虞书欣王鹤棣 二搭",
+      "onboard_time": 1687155162,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423282,
       "num": 423282,
       "word": "香港的辣度细分有多严谨",
@@ -475,12 +531,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362156,
+      "num": 362156,
+      "word": "客户让高中女儿多看招聘网",
+      "onboard_time": 1687155162,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361530,
       "num": 361530,
       "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
       "onboard_time": 1687141947,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361253,
+      "num": 361253,
+      "word": "阿雅",
+      "onboard_time": 1687155523,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 354722,
@@ -523,20 +595,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319126,
-      "num": 319126,
-      "word": "警方确认女子房子被邻居打通使用",
-      "onboard_time": 1687151550,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318082,
       "num": 318082,
       "word": "布林肯",
       "onboard_time": 1687100132,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 308716,
+      "num": 308716,
+      "word": "肖战赵昕合照",
+      "onboard_time": 1687149454,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 305813,
@@ -579,11 +651,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286456,
-      "num": 286456,
-      "word": "肖战赵昕合照",
-      "onboard_time": 1687149454,
-      "rank": 35,
+      "raw_hot": 289659,
+      "num": 289659,
+      "word": "陈伟霆刘雅瑟新剧官宣",
+      "onboard_time": 1687154077,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -728,6 +800,14 @@
       "word": "端午假期你打算出游吗",
       "onboard_time": 1687141587,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251790,
+      "num": 251790,
+      "word": "00后女孩辞职开馒头店一个卖五六块",
+      "onboard_time": 1687153718,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -891,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211091,
-      "num": 211091,
-      "word": "张小斐首部女主电视剧",
-      "onboard_time": 1687152451,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211019,
       "num": 211019,
       "word": "千万不要在这里装洞洞鞋鞋花",
@@ -945,6 +1017,14 @@
       "onboard_time": 1687084709,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202535,
+      "num": 202535,
+      "word": "北京WB",
+      "onboard_time": 1687152332,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 199013,
@@ -1051,12 +1131,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180491,
-      "num": 180491,
-      "word": "北京WB",
-      "onboard_time": 1687152332,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 180767,
+      "num": 180767,
+      "word": "男子地铁上疑指责女孩穿着暴露引争执",
+      "onboard_time": 1687154982,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180140,
@@ -1177,6 +1257,14 @@
       "onboard_time": 1687133730,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158354,
+      "num": 158354,
+      "word": "郁可唯上海",
+      "onboard_time": 1687154740,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 155520,
@@ -1323,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130368,
+      "num": 3913363,
+      "word": "国内首座跨海高速铁路桥大片",
+      "onboard_time": 1687150772,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129653,
       "num": 190898,
       "word": "比尔加盟太阳",
@@ -1419,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86926,
-      "num": 1149599,
-      "word": "国内首座跨海高速铁路桥大片",
-      "onboard_time": 1687150772,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83345,
       "num": 120886,
       "word": "男子以身试险提醒别下黄河游泳",
@@ -1475,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55402,
+      "num": 197087,
+      "word": "今夏饿了么免单6月21日开启",
+      "onboard_time": 1687154440,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 55060,
       "num": 55060,
       "word": "不同镜头下的布林肯访华",
@@ -1513,6 +1609,14 @@
       "onboard_time": 1687124593,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23917,
+      "num": 434596,
+      "word": "湖南女孩从中职生逆袭到博士",
+      "onboard_time": 1687155523,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22018,

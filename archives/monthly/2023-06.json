@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687152817363,
+  "endTime": 1687155769860,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -9,6 +9,14 @@
       "onboard_time": 1686126154,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15039850,
+      "num": 15039850,
+      "word": "黄子佼曝大小S吸毒",
+      "onboard_time": 1687152148,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 14552118,
@@ -65,6 +73,14 @@
       "onboard_time": 1686882328,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 10010294,
+      "num": 10010294,
+      "word": "黄子佼承认性骚扰",
+      "onboard_time": 1687151191,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 9705953,
@@ -137,14 +153,6 @@
       "onboard_time": 1686973533,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6853612,
-      "num": 6853612,
-      "word": "黄子佼承认性骚扰",
-      "onboard_time": 1687151191,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 6842168,
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3823216,
-      "num": 1135855,
-      "word": "黄子佼曝大小S吸毒",
-      "onboard_time": 1687152148,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 3656939,
       "num": 3276314,
       "word": "宿管多次强奸学生聋哑母亲获刑4年",
@@ -289,6 +289,14 @@
       "onboard_time": 1686884013,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3494475,
+      "num": 757581,
+      "word": "黄子佼信息炸裂",
+      "onboard_time": 1687152391,
+      "rank": 7,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3476833,
@@ -449,6 +457,14 @@
       "onboard_time": 1686458729,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2938900,
+      "num": 440372,
+      "word": "黄子佼被送往医院",
+      "onboard_time": 1687154381,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2931830,
@@ -825,6 +841,14 @@
       "onboard_time": 1686466886,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2471786,
+      "num": 438588,
+      "word": "范晓萱",
+      "onboard_time": 1687154381,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2467998,
@@ -3379,6 +3403,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1359289,
+      "num": 1359289,
+      "word": "张小斐首部女主电视剧",
+      "onboard_time": 1687152451,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1358630,
       "num": 1358630,
       "word": "minnie",
@@ -4921,6 +4953,14 @@
       "onboard_time": 1686133297,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1087704,
+      "num": 1087704,
+      "word": "拍一部爆一部的演员",
+      "onboard_time": 1687153112,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1086340,
@@ -6499,6 +6539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 861345,
+      "num": 861345,
+      "word": "警方确认女子房子被邻居打通使用",
+      "onboard_time": 1687151550,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857818,
       "num": 857818,
       "word": "姆巴佩说梅西没得到应有的尊重",
@@ -7531,6 +7579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 759444,
+      "num": 759444,
+      "word": "Jennie巡演翻白眼",
+      "onboard_time": 1687153414,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 759138,
       "num": 759138,
       "word": "Uzi首发对战iG",
@@ -7545,14 +7601,6 @@
       "onboard_time": 1686114339,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757581,
-      "num": 757581,
-      "word": "黄子佼信息炸裂",
-      "onboard_time": 1687152391,
-      "rank": 7,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 757023,
@@ -11819,6 +11867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429159,
+      "num": 429159,
+      "word": "虞书欣王鹤棣 二搭",
+      "onboard_time": 1687155162,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428979,
       "num": 428979,
       "word": "少爷和我再合体",
@@ -13859,6 +13915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 362156,
+      "num": 362156,
+      "word": "客户让高中女儿多看招聘网",
+      "onboard_time": 1687155162,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361530,
       "num": 361530,
       "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
@@ -13873,6 +13937,14 @@
       "onboard_time": 1686989128,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361253,
+      "num": 361253,
+      "word": "阿雅",
+      "onboard_time": 1687155523,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 361213,
@@ -15691,14 +15763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319126,
-      "num": 319126,
-      "word": "警方确认女子房子被邻居打通使用",
-      "onboard_time": 1687151550,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318718,
       "num": 318718,
       "word": "专家提醒不能靠彩票发财",
@@ -16233,6 +16297,14 @@
       "onboard_time": 1685965888,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 308716,
+      "num": 308716,
+      "word": "肖战赵昕合照",
+      "onboard_time": 1687149454,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 308679,
@@ -17403,6 +17475,14 @@
       "category": "自然,幽默"
     },
     {
+      "raw_hot": 289659,
+      "num": 289659,
+      "word": "陈伟霆刘雅瑟新剧官宣",
+      "onboard_time": 1687154077,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289572,
       "num": 289572,
       "word": "TFBOYS演唱会最终章",
@@ -17625,14 +17705,6 @@
       "onboard_time": 1687057885,
       "rank": 26,
       "category": "影视,情感"
-    },
-    {
-      "raw_hot": 286456,
-      "num": 286456,
-      "word": "肖战赵昕合照",
-      "onboard_time": 1687149454,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 286397,
@@ -20592,6 +20664,14 @@
       "word": "端午假期你打算出游吗",
       "onboard_time": 1687141587,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251790,
+      "num": 251790,
+      "word": "00后女孩辞职开馒头店一个卖五六块",
+      "onboard_time": 1687153718,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -25435,14 +25515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211091,
-      "num": 211091,
-      "word": "张小斐首部女主电视剧",
-      "onboard_time": 1687152451,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211088,
       "num": 191738,
       "word": "优酷 护心热度",
@@ -26641,6 +26713,14 @@
       "onboard_time": 1685978729,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202535,
+      "num": 202535,
+      "word": "北京WB",
+      "onboard_time": 1687152332,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 202445,
@@ -30483,6 +30563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180767,
+      "num": 180767,
+      "word": "男子地铁上疑指责女孩穿着暴露引争执",
+      "onboard_time": 1687154982,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180716,
       "num": 180716,
       "word": "摄影师是立功了还是该担责",
@@ -30545,14 +30633,6 @@
       "onboard_time": 1686198878,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180491,
-      "num": 180491,
-      "word": "北京WB",
-      "onboard_time": 1687152332,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 180420,
@@ -33705,6 +33785,14 @@
       "onboard_time": 1686301291,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158354,
+      "num": 158354,
+      "word": "郁可唯上海",
+      "onboard_time": 1687154740,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 158313,
@@ -37643,6 +37731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130368,
+      "num": 3913363,
+      "word": "国内首座跨海高速铁路桥大片",
+      "onboard_time": 1687150772,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130244,
       "num": 130244,
       "word": "观众评价电影我爱你",
@@ -41419,14 +41515,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 86926,
-      "num": 1149599,
-      "word": "国内首座跨海高速铁路桥大片",
-      "onboard_time": 1687150772,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86473,
       "num": 86473,
       "word": "起底叶音工作室",
@@ -43059,6 +43147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55402,
+      "num": 197087,
+      "word": "今夏饿了么免单6月21日开启",
+      "onboard_time": 1687154440,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 55060,
       "num": 55060,
       "word": "不同镜头下的布林肯访华",
@@ -44192,6 +44288,14 @@
       "word": "聚焦全国高考",
       "onboard_time": 1685914272,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23917,
+      "num": 434596,
+      "word": "湖南女孩从中职生逆袭到博士",
+      "onboard_time": 1687155523,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
