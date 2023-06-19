@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687192646075,
+  "endTime": 1687194894783,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4992,6 +4992,14 @@
       "word": "Jennie身体状况",
       "onboard_time": 1686486811,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1128959,
+      "num": 419516,
+      "word": "陶晶莹称希望黄子佼好好度过",
+      "onboard_time": 1687192706,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -17467,6 +17475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300101,
+      "num": 300101,
+      "word": "Jennie新剧预告又跳舞了",
+      "onboard_time": 1687192349,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300024,
       "num": 300024,
       "word": "邓超孙俪工作室一起招聘",
@@ -26883,14 +26899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207360,
-      "num": 207360,
-      "word": "Jennie新剧预告又跳舞了",
-      "onboard_time": 1687192349,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207320,
       "num": 207320,
       "word": "两只旅俄大熊猫体重和人气齐升",
@@ -33737,6 +33745,14 @@
       "onboard_time": 1685769150,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165496,
+      "num": 162202,
+      "word": "上帝要开空调了",
+      "onboard_time": 1687192824,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 165436,

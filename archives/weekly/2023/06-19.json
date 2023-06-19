@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687192646075,
+  "endTime": 1687194894783,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -401,6 +401,14 @@
       "onboard_time": 1687160626,
       "rank": 13,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1128959,
+      "num": 419516,
+      "word": "陶晶莹称希望黄子佼好好度过",
+      "onboard_time": 1687192706,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1123579,
@@ -1291,6 +1299,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 300101,
+      "num": 300101,
+      "word": "Jennie新剧预告又跳舞了",
+      "onboard_time": 1687192349,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293887,
       "num": 293887,
       "word": "蔡徐坤hugme开场",
@@ -1875,14 +1891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207360,
-      "num": 207360,
-      "word": "Jennie新剧预告又跳舞了",
-      "onboard_time": 1687192349,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205637,
       "num": 205637,
       "word": "独腿爸爸收获第一个父亲节礼物",
@@ -2256,6 +2264,14 @@
       "word": "入职前一晚被鸽了",
       "onboard_time": 1687143087,
       "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165496,
+      "num": 162202,
+      "word": "上帝要开空调了",
+      "onboard_time": 1687192824,
+      "rank": 23,
       "category": "幽默,情感"
     },
     {
