@@ -1,0 +1,410 @@
+{
+  "runTime": 1687214011686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 558485,
+        "num": 558485,
+        "word": "你现在网购还常用淘宝吗",
+        "onboard_time": 1687186363,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211966,
+        "num": 211966,
+        "word": "朱一龙爸爸",
+        "onboard_time": 1687176338,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16163,
+        "num": 204414,
+        "word": "杭州亚运奖牌上的湖山长什么样",
+        "onboard_time": 1687180837,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203076,
+        "num": 203076,
+        "word": "蔡徐坤评论区回复粉丝",
+        "onboard_time": 1687187205,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 201427,
+        "num": 201427,
+        "word": "杭州一企业月薪1万2半年只招到两人",
+        "onboard_time": 1687185043,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 813443,
+        "num": 201171,
+        "word": "陶晶莹称希望黄子佼好好度过",
+        "onboard_time": 1687192706,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180910,
+        "num": 180910,
+        "word": "马云指出淘宝天猫未来三个方向",
+        "onboard_time": 1687180119,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 145602,
+        "num": 145602,
+        "word": "庆余年2官宣阵容",
+        "onboard_time": 1687169980,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134596,
+        "num": 134596,
+        "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+        "onboard_time": 1687180541,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105139,
+        "num": 105139,
+        "word": "网友拍到的龙吸水",
+        "onboard_time": 1687183544,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876284,
+        "num": 102603,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113189,
+        "num": 98781,
+        "word": "女子称母亲到派出所接受询问后死亡",
+        "onboard_time": 1687178922,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90007,
+        "num": 90007,
+        "word": "五星红旗被捆绑酒店连说10句对不起",
+        "onboard_time": 1687174061,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550920,
+        "num": 89786,
+        "word": "唐老师",
+        "onboard_time": 1687189000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89042,
+        "num": 89042,
+        "word": "胡锡进 川大那名女生的事该有结果了",
+        "onboard_time": 1687175319,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91877,
+        "num": 88599,
+        "word": "黄子佼拿刀割自己",
+        "onboard_time": 1687157623,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546924,
+        "num": 88447,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86329,
+        "num": 86329,
+        "word": "Jennie新剧预告又跳舞了",
+        "onboard_time": 1687192349,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79134,
+        "num": 79134,
+        "word": "小学班主任课间1分钟能处理多少事",
+        "onboard_time": 1687187500,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375172,
+        "num": 78996,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118574,
+        "num": 78908,
+        "word": "澳大利亚一男子持刀入室抢劫被奸杀",
+        "onboard_time": 1687179581,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96148,
+        "num": 78710,
+        "word": "结婚五年面相都变了",
+        "onboard_time": 1687161587,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 80540,
+        "num": 78618,
+        "word": "赵敏周芷若同框了",
+        "onboard_time": 1687183482,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80290,
+        "num": 78519,
+        "word": "庆余年2官宣毛晓彤",
+        "onboard_time": 1687190916,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78386,
+        "num": 78386,
+        "word": "一听啤酒惹怒半个美国",
+        "onboard_time": 1687187561,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77555,
+        "num": 77555,
+        "word": "景甜冯绍峰新剧cp海报",
+        "onboard_time": 1687212015,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74116,
+        "num": 74116,
+        "word": "朱一龙说曾掉到陈思诚家水池",
+        "onboard_time": 1687189835,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72046,
+        "num": 72046,
+        "word": "伊能静陪儿子逛街",
+        "onboard_time": 1687187801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65027,
+        "num": 65027,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58659,
+        "num": 63973,
+        "word": "布林肯结束访华",
+        "onboard_time": 1687188456,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 63545,
+        "num": 63545,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60355,
+        "num": 60355,
+        "word": "范晓萱",
+        "onboard_time": 1687154381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57293,
+        "num": 57293,
+        "word": "流水迢迢官宣任嘉伦李兰迪",
+        "onboard_time": 1687212496,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55414,
+        "num": 55414,
+        "word": "调查称53.7%年轻人存款不足10万",
+        "onboard_time": 1687160626,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 50558,
+        "num": 50558,
+        "word": "上帝要开空调了",
+        "onboard_time": 1687192824,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 51973,
+        "num": 49468,
+        "word": "倪妮的珍珠首饰",
+        "onboard_time": 1687191450,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47087,
+        "num": 47087,
+        "word": "唐梓结婚",
+        "onboard_time": 1687171960,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47022,
+        "num": 47022,
+        "word": "张踩铃 父与子完全不在一个世界",
+        "onboard_time": 1687185769,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39099,
+        "num": 46380,
+        "word": "厦门体育中心回应演唱会场地脏",
+        "onboard_time": 1687197678,
+        "rank": 38,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 35154,
+        "num": 46214,
+        "word": "你太用力了所以走不远",
+        "onboard_time": 1687168002,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46089,
+        "num": 46089,
+        "word": "天行健",
+        "onboard_time": 1687207931,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45826,
+        "num": 45826,
+        "word": "余景天新男团OneNEleven",
+        "onboard_time": 1687196897,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44640,
+        "num": 44640,
+        "word": "周俊伟",
+        "onboard_time": 1687159848,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43642,
+        "num": 43642,
+        "word": "庆余年叶灵儿",
+        "onboard_time": 1687171002,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35053,
+        "num": 43500,
+        "word": "在一起很久后必须分开的情况",
+        "onboard_time": 1687182461,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37388,
+        "num": 43375,
+        "word": "流水迢迢",
+        "onboard_time": 1687213335,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33578,
+        "num": 43209,
+        "word": "怎么斗得过几十年的逆子",
+        "onboard_time": 1687207392,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27068,
+        "num": 43161,
+        "word": "你是一具受潮的木乃伊",
+        "onboard_time": 1687184147,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 26509,
+        "num": 42930,
+        "word": "感觉自己花钱买了个工作",
+        "onboard_time": 1687186903,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 23260,
+        "num": 42711,
+        "word": "石矶娘娘来了也穿不了",
+        "onboard_time": 1687164284,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
