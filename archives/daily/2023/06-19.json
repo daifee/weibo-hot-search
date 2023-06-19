@@ -1,12 +1,20 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687167225386,
+  "endTime": 1687169924904,
   "band_list": [
     {
       "raw_hot": 15371387,
       "num": 15371387,
       "word": "黄子佼曝大小S吸毒",
       "onboard_time": 1687152148,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11167136,
+      "num": 7571356,
+      "word": "大S工作室回应吸毒指控",
+      "onboard_time": 1687166502,
       "rank": 3,
       "category": "艺人"
     },
@@ -19,16 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7571356,
-      "num": 7571356,
-      "word": "大S工作室回应吸毒指控",
-      "onboard_time": 1687166502,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 4203869,
-      "num": 769112,
+      "num": 854211,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3494475,
-      "num": 757581,
+      "num": 846659,
       "word": "黄子佼信息炸裂",
       "onboard_time": 1687152391,
       "rank": 7,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2145292,
+      "num": 2145292,
+      "word": "庆余年",
+      "onboard_time": 1687167704,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2105201,
       "num": 2105201,
       "word": "班主任暗示初三学生弃考情况属实",
@@ -161,6 +169,14 @@
       "onboard_time": 1687157744,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1720020,
+      "num": 596269,
+      "word": "腾讯变汪峰",
+      "onboard_time": 1687166201,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 1655173,
@@ -243,6 +259,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1138980,
+      "num": 1138980,
+      "word": "霍建华复出后首部作品",
+      "onboard_time": 1687167463,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1123579,
       "num": 1123579,
       "word": "演唱会座位脏",
@@ -307,6 +331,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 950232,
+      "num": 950232,
+      "word": "石矶娘娘来了也穿不了",
+      "onboard_time": 1687164284,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 927985,
       "num": 927985,
       "word": "Jennie巡演翻白眼",
@@ -352,6 +384,14 @@
       "word": "沙溢胡可情头",
       "onboard_time": 1687142728,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 860346,
+      "num": 860346,
+      "word": "肖战骄阳伴我双平台播出",
+      "onboard_time": 1687168182,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -403,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763544,
+      "num": 2040682,
+      "word": "哈工大的这张毕业车票让人破防了",
+      "onboard_time": 1687168303,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747276,
       "num": 747276,
       "word": "幼师拍小朋友房车钱视频引争议",
@@ -419,12 +467,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 722642,
-      "num": 722642,
-      "word": "石矶娘娘来了也穿不了",
-      "onboard_time": 1687164284,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 737964,
+      "num": 275144,
+      "word": "应采儿陈小春假装不认识Jasper",
+      "onboard_time": 1687168480,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 721825,
@@ -465,14 +513,6 @@
       "onboard_time": 1687097852,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 677688,
-      "num": 445590,
-      "word": "腾讯变汪峰",
-      "onboard_time": 1687166201,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 662084,
@@ -561,6 +601,14 @@
       "onboard_time": 1687141226,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505061,
+      "num": 505061,
+      "word": "布林肯访华",
+      "onboard_time": 1687163147,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 504628,
@@ -787,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341625,
+      "num": 264635,
+      "word": "很想很想你",
+      "onboard_time": 1687169742,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340706,
       "num": 340706,
       "word": "白桃星座",
@@ -817,6 +873,14 @@
       "onboard_time": 1687159308,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321595,
+      "num": 280842,
+      "word": "公司说不养没用的人",
+      "onboard_time": 1687169201,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 310144,
@@ -1107,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244350,
+      "num": 265902,
+      "word": "你太用力了所以走不远",
+      "onboard_time": 1687168002,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240557,
       "num": 240557,
       "word": "田曦薇大奉打更人",
@@ -1275,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213898,
+      "num": 265815,
+      "word": "不到10天浙江母女先后确诊这种癌",
+      "onboard_time": 1687167403,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212974,
       "num": 212974,
       "word": "电影第八个嫌疑人定档",
@@ -1315,6 +1395,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 205302,
+      "num": 265142,
+      "word": "当你的合租室友带音箱洗澡",
+      "onboard_time": 1687168664,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202799,
       "num": 202799,
       "word": "赵昕原来演过这么多戏",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1687130661,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196457,
+      "num": 265016,
+      "word": "王者荣耀",
+      "onboard_time": 1687167342,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 195841,
@@ -1595,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160544,
+      "num": 298970,
+      "word": "老父亲手机被女儿没收离家出走",
+      "onboard_time": 1687166141,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158354,
       "num": 158354,
       "word": "郁可唯上海",
@@ -1665,6 +1769,14 @@
       "onboard_time": 1687136549,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144108,
+      "num": 263734,
+      "word": "八条腿各忙各的",
+      "onboard_time": 1687169742,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 143876,
@@ -1771,14 +1883,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 132527,
-      "num": 298970,
-      "word": "老父亲手机被女儿没收离家出走",
-      "onboard_time": 1687166141,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130611,
       "num": 130611,
       "word": "你会请三休八拼长假吗",
@@ -1883,6 +1987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94135,
+      "num": 1289923,
+      "word": "女孩遇大叔舞龙热情喊话再来一次",
+      "onboard_time": 1687167342,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94011,
       "num": 94011,
       "word": "梦中的那片海央视剧照",
@@ -1897,6 +2009,14 @@
       "onboard_time": 1687088006,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90211,
+      "num": 1059703,
+      "word": "恐高辅警11楼救下轻生男子",
+      "onboard_time": 1687169080,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89917,
@@ -1939,6 +2059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 71775,
+      "num": 1786513,
+      "word": "夏日中国每一帧都是限定壁纸",
+      "onboard_time": 1687150653,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65097,
       "num": 519446,
       "word": "特种兵式毕业有多酷",
@@ -1953,14 +2081,6 @@
       "onboard_time": 1687154440,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 62876,
-      "num": 1255638,
-      "word": "夏日中国每一帧都是限定壁纸",
-      "onboard_time": 1687150653,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59530,
