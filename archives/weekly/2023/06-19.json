@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687187901729,
+  "endTime": 1687188832981,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 3002695,
-      "num": 538748,
+      "num": 570611,
       "word": "黄子佼已苏醒",
       "onboard_time": 1687183306,
       "rank": 19,
@@ -836,11 +836,19 @@
     },
     {
       "raw_hot": 479301,
-      "num": 296332,
+      "num": 390403,
       "word": "你现在网购还常用淘宝吗",
       "onboard_time": 1687186363,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476212,
+      "num": 476212,
+      "word": "杭州一企业月薪1万2半年只招到两人",
+      "onboard_time": 1687185043,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 474916,
@@ -865,14 +873,6 @@
       "onboard_time": 1687172320,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 465701,
-      "num": 363362,
-      "word": "杭州一企业月薪1万2半年只招到两人",
-      "onboard_time": 1687185043,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 464523,
@@ -907,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 446097,
+      "num": 288614,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1687186965,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441090,
       "num": 441090,
       "word": "崔秀彬ins",
@@ -931,20 +939,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432631,
-      "num": 288614,
-      "word": "黑莲花攻略手册",
-      "onboard_time": 1687186965,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 432169,
       "num": 432169,
       "word": "肖战腹肌好明显",
       "onboard_time": 1687147349,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426775,
+      "num": 381210,
+      "word": "网友拍到的龙吸水",
+      "onboard_time": 1687183544,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425591,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398230,
+      "num": 234330,
+      "word": "蔡徐坤评论区回复粉丝",
+      "onboard_time": 1687187205,
+      "rank": 41,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 396251,
@@ -1147,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345497,
-      "num": 376053,
-      "word": "网友拍到的龙吸水",
-      "onboard_time": 1687183544,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344366,
       "num": 402486,
       "word": "你是一具受潮的木乃伊",
@@ -1227,6 +1235,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320891,
+      "num": 286314,
+      "word": "张踩铃 父与子完全不在一个世界",
+      "onboard_time": 1687185769,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 318468,
+      "num": 198876,
+      "word": "伊能静陪儿子逛街",
+      "onboard_time": 1687187801,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310144,
       "num": 237889,
       "word": "吴谨言把QQ秀穿身上了",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1687145366,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304495,
-      "num": 231389,
-      "word": "蔡徐坤评论区回复粉丝",
-      "onboard_time": 1687187205,
-      "rank": 41,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 303549,
@@ -1323,12 +1339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286314,
-      "num": 286314,
-      "word": "张踩铃 父与子完全不在一个世界",
-      "onboard_time": 1687185769,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 287395,
+      "num": 198361,
+      "word": "顾九思给柳玉茹下跪",
+      "onboard_time": 1687188339,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 285563,
@@ -1787,12 +1803,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 213138,
+      "num": 197007,
+      "word": "洛子商出场",
+      "onboard_time": 1687188820,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212974,
       "num": 212974,
       "word": "电影第八个嫌疑人定档",
       "onboard_time": 1687143988,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 213230,
+      "word": "一听啤酒惹怒半个美国",
+      "onboard_time": 1687187561,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211019,
@@ -2387,14 +2419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140814,
-      "num": 213230,
-      "word": "一听啤酒惹怒半个美国",
-      "onboard_time": 1687187561,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139932,
       "num": 139932,
       "word": "宋亚轩美式证件照",
@@ -2449,6 +2473,14 @@
       "onboard_time": 1687162608,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134293,
+      "num": 196011,
+      "word": "布林肯结束访华",
+      "onboard_time": 1687188456,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 132811,
@@ -2787,6 +2819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28368,
+      "num": 1070224,
+      "word": "杭州亚运奖牌上的湖山长什么样",
+      "onboard_time": 1687180837,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26871,
       "num": 37068,
       "word": "杨紫长春活动vlog",
@@ -2817,14 +2857,6 @@
       "onboard_time": 1687173101,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11087,
-      "num": 1070224,
-      "word": "杭州亚运奖牌上的湖山长什么样",
-      "onboard_time": 1687180837,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
