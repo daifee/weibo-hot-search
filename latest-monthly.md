@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 00:22:13
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 00:37:26
 </p>
 </blockquote>
 <p>
@@ -2529,6 +2529,12 @@ Jennie演唱会中途离场（热度：1445483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%BD%91%E8%B4%AD%E8%BF%98%E5%B8%B8%E7%94%A8%E6%B7%98%E5%AE%9D%E5%90%97%23" target="weibo">
+你现在网购还常用淘宝吗（热度：1426534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E8%A2%AB%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E9%9C%B8%E5%87%8C%E8%80%85%E6%84%BF%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%23" target="weibo">
 自称被地铁事件女子霸凌者愿配合调查（热度：1426410）
 </a>
@@ -2663,12 +2669,6 @@ Jennie是前一天爬山太累了吗（热度：1402398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E5%90%91%E5%A4%AA%E5%8C%96%23" target="weibo">
 郭碧婷穿衣风格向太化（热度：1390924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%BD%91%E8%B4%AD%E8%BF%98%E5%B8%B8%E7%94%A8%E6%B7%98%E5%AE%9D%E5%90%97%23" target="weibo">
-你现在网购还常用淘宝吗（热度：1387508）
 </a>
 </li>
 

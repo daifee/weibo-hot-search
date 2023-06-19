@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687191733472,
+  "endTime": 1687192646075,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2444504,
-      "num": 288536,
+      "num": 295381,
       "word": "唐老师",
       "onboard_time": 1687189000,
       "rank": 13,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1426534,
+      "num": 1426534,
+      "word": "你现在网购还常用淘宝吗",
+      "onboard_time": 1687186363,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1424711,
       "num": 546185,
       "word": "唐梓结婚",
@@ -313,14 +321,6 @@
       "onboard_time": 1687143268,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1387508,
-      "num": 1387508,
-      "word": "你现在网购还常用淘宝吗",
-      "onboard_time": 1687186363,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1371172,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 1015531,
-      "num": 704058,
+      "num": 726095,
       "word": "蔡徐坤评论区回复粉丝",
       "onboard_time": 1687187205,
       "rank": 41,
@@ -1411,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274949,
+      "num": 274949,
+      "word": "庆余年2官宣毛晓彤",
+      "onboard_time": 1687190916,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274782,
       "num": 274782,
       "word": "蔡依林UglyBeauty演唱会官宣",
@@ -1507,14 +1515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260351,
-      "num": 260351,
-      "word": "庆余年2官宣毛晓彤",
-      "onboard_time": 1687190916,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -1529,6 +1529,14 @@
       "onboard_time": 1687178741,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256159,
+      "num": 256159,
+      "word": "倪妮的珍珠首饰",
+      "onboard_time": 1687191450,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 255210,
@@ -1731,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230584,
-      "num": 230584,
-      "word": "倪妮的珍珠首饰",
-      "onboard_time": 1687191450,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230574,
       "num": 184605,
       "word": "折腰",
@@ -1873,6 +1873,14 @@
       "onboard_time": 1687137270,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207360,
+      "num": 207360,
+      "word": "Jennie新剧预告又跳舞了",
+      "onboard_time": 1687192349,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 205637,
@@ -2203,6 +2211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171811,
+      "num": 294525,
+      "word": "布林肯结束访华",
+      "onboard_time": 1687188456,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 171328,
       "num": 171328,
       "word": "下班没提醒同事关空调被罚钱",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1687137687,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169548,
-      "num": 283126,
-      "word": "布林肯结束访华",
-      "onboard_time": 1687188456,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 169212,
@@ -2859,7 +2867,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 29245,
+      "raw_hot": 30119,
       "num": 1070224,
       "word": "杭州亚运奖牌上的湖山长什么样",
       "onboard_time": 1687180837,
