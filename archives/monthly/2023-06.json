@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687142654913,
+  "endTime": 1687143172107,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2596648,
+      "num": 2596648,
+      "word": "本周仅上4天班",
+      "onboard_time": 1687136851,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2585659,
       "num": 2585659,
       "word": "疑似杭师大女生家属发声",
@@ -697,14 +705,6 @@
       "onboard_time": 1687010012,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2548840,
-      "num": 2548840,
-      "word": "本周仅上4天班",
-      "onboard_time": 1687136851,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2545357,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1982220,
+      "num": 1982220,
+      "word": "班主任暗示初三学生弃考情况属实",
+      "onboard_time": 1687140267,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1978553,
       "num": 1978553,
       "word": "快乐大本营",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1685768729,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1838011,
-      "num": 1838011,
-      "word": "班主任暗示初三学生弃考情况属实",
-      "onboard_time": 1687140267,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1835059,
@@ -10187,6 +10187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514645,
+      "num": 514645,
+      "word": "鹅厂2023大剧片单",
+      "onboard_time": 1687141226,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513227,
       "num": 411362,
       "word": "Angelababy甜橙蝴蝶妆",
@@ -12003,6 +12011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415898,
+      "num": 332246,
+      "word": "NewJeans新专辑GetUp",
+      "onboard_time": 1687142966,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415292,
       "num": 415292,
       "word": "连那英都接不住的场子",
@@ -12209,6 +12225,14 @@
       "onboard_time": 1687049965,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 407464,
+      "num": 407464,
+      "word": "妹子抗争五年德国终于答应归还文物",
+      "onboard_time": 1687140088,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407350,
@@ -12457,14 +12481,6 @@
       "onboard_time": 1686397970,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400735,
-      "num": 400735,
-      "word": "鹅厂2023大剧片单",
-      "onboard_time": 1687141226,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 400668,
@@ -13427,6 +13443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367390,
+      "num": 367390,
+      "word": "沙溢胡可情头",
+      "onboard_time": 1687142728,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367257,
       "num": 367257,
       "word": "官方回应江西考生迟到37分进考场",
@@ -13665,14 +13689,6 @@
       "onboard_time": 1686132219,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 361775,
-      "num": 361775,
-      "word": "妹子抗争五年德国终于答应归还文物",
-      "onboard_time": 1687140088,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361530,
@@ -14329,6 +14345,14 @@
       "onboard_time": 1685673328,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345074,
+      "num": 345074,
+      "word": "幼师拍小朋友房车钱视频引争议",
+      "onboard_time": 1687141407,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345058,
@@ -16859,14 +16883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293927,
-      "num": 293927,
-      "word": "幼师拍小朋友房车钱视频引争议",
-      "onboard_time": 1687141407,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293786,
       "num": 300053,
       "word": "迪丽热巴金智秀周也江疏影同品牌大片",
@@ -16977,6 +16993,14 @@
       "onboard_time": 1686198100,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 292268,
+      "num": 292268,
+      "word": "高端局女大佬来新手局了",
+      "onboard_time": 1687141107,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 292247,
@@ -19081,14 +19105,6 @@
       "onboard_time": 1686670708,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264164,
-      "num": 264164,
-      "word": "高端局女大佬来新手局了",
-      "onboard_time": 1687141107,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 264035,
@@ -27571,6 +27587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194361,
+      "num": 194361,
+      "word": "沙溢胡可演亲家",
+      "onboard_time": 1687142307,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194357,
       "num": 194357,
       "word": "Uzi妻子支持Uzi重回赛场",
@@ -28889,6 +28913,14 @@
       "onboard_time": 1686710910,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188436,
+      "num": 188436,
+      "word": "南京小龙虾卖100块一只值吗",
+      "onboard_time": 1687142910,
+      "rank": 38,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 188389,
@@ -31291,6 +31323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171328,
+      "num": 171328,
+      "word": "下班没提醒同事关空调被罚钱",
+      "onboard_time": 1687142248,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171292,
       "num": 171292,
       "word": "这弟弟真能处",
@@ -31795,14 +31835,6 @@
       "category": "社会议题,教育"
     },
     {
-      "raw_hot": 167742,
-      "num": 167742,
-      "word": "下班没提醒同事关空调被罚钱",
-      "onboard_time": 1687142248,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167722,
       "num": 167722,
       "word": "白鹿换头像参加粉丝六一团建",
@@ -31872,6 +31904,14 @@
       "word": "17岁女孩拿金饰换钱店主拒收",
       "onboard_time": 1686988948,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167381,
+      "num": 167381,
+      "word": "渝爱太萌了吧",
+      "onboard_time": 1687142789,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -32131,6 +32171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165915,
+      "num": 165915,
+      "word": "入职前一晚被鸽了",
+      "onboard_time": 1687143087,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 165903,
       "num": 165903,
       "word": "小时候不懂为什么会有边放水边加水的数学题",
@@ -32153,14 +32201,6 @@
       "onboard_time": 1686281070,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165803,
-      "num": 165803,
-      "word": "沙溢胡可演亲家",
-      "onboard_time": 1687142307,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 165785,
@@ -34115,6 +34155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152580,
+      "num": 152580,
+      "word": "与凤行战意将起海报",
+      "onboard_time": 1687142486,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152551,
       "num": 152551,
       "word": "儿童节礼物",
@@ -34715,6 +34763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148371,
+      "num": 148371,
+      "word": "美国珍珠鳖放生太湖",
+      "onboard_time": 1687143027,
+      "rank": 48,
+      "category": "自然"
+    },
+    {
       "raw_hot": 148328,
       "num": 148328,
       "word": "陈伟霆火场吻戏",
@@ -34817,14 +34873,6 @@
       "onboard_time": 1687142248,
       "rank": 47,
       "category": "自然"
-    },
-    {
-      "raw_hot": 147994,
-      "num": 147994,
-      "word": "与凤行战意将起海报",
-      "onboard_time": 1687142486,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 147803,
@@ -42113,6 +42161,14 @@
       "onboard_time": 1686492690,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65031,
+      "num": 148313,
+      "word": "特种兵式毕业有多酷",
+      "onboard_time": 1687143087,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 64820,

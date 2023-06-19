@@ -1,0 +1,410 @@
+{
+  "runTime": 1687143172107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2596648,
+        "num": 2596648,
+        "word": "本周仅上4天班",
+        "onboard_time": 1687136851,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1982220,
+        "num": 1982220,
+        "word": "班主任暗示初三学生弃考情况属实",
+        "onboard_time": 1687140267,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28587,
+        "num": 1124759,
+        "word": "三夏农忙正当时",
+        "onboard_time": 1687097788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746664,
+        "num": 746664,
+        "word": "一天之内拒绝了30个学生请假",
+        "onboard_time": 1687133730,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 723503,
+        "num": 723503,
+        "word": "肖战赵丽颖正剧苗子",
+        "onboard_time": 1687133967,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711517,
+        "num": 711517,
+        "word": "白敬亭想改的名字都被注册了",
+        "onboard_time": 1687135109,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 636320,
+        "num": 636320,
+        "word": "王阳用口红在秦岚脸上留号码",
+        "onboard_time": 1687134028,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612946,
+        "num": 612946,
+        "word": "化学老师跳下10米高桥救起轻生女子",
+        "onboard_time": 1687130782,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 607562,
+        "num": 607562,
+        "word": "鹿晗金色脏辫",
+        "onboard_time": 1687133847,
+        "rank": 8,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 556220,
+        "num": 556220,
+        "word": "Jennie金泰亨都去看了火星哥演唱会",
+        "onboard_time": 1687133788,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 514645,
+        "num": 514645,
+        "word": "鹅厂2023大剧片单",
+        "onboard_time": 1687141226,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460645,
+        "num": 460645,
+        "word": "柴犬看了都想回日本",
+        "onboard_time": 1687135350,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428594,
+        "num": 428594,
+        "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
+        "onboard_time": 1687099651,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 407464,
+        "num": 407464,
+        "word": "妹子抗争五年德国终于答应归还文物",
+        "onboard_time": 1687140088,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384214,
+        "num": 384214,
+        "word": "星宇",
+        "onboard_time": 1687137330,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 383532,
+        "num": 383532,
+        "word": "南宁地铁推倒女站务员男子已被行拘",
+        "onboard_time": 1687135888,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367390,
+        "num": 367390,
+        "word": "沙溢胡可情头",
+        "onboard_time": 1687142728,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351668,
+        "num": 351668,
+        "word": "Jennie在舞台上走神",
+        "onboard_time": 1687097852,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345074,
+        "num": 345074,
+        "word": "幼师拍小朋友房车钱视频引争议",
+        "onboard_time": 1687141407,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343144,
+        "num": 343144,
+        "word": "为什么阴干的衣服那么臭",
+        "onboard_time": 1687082128,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612962,
+        "num": 335239,
+        "word": "千万不要在教资体检时穿裙子",
+        "onboard_time": 1687137807,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463110,
+        "num": 333017,
+        "word": "女子房子两年没住被邻居用衣柜封死",
+        "onboard_time": 1687130123,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415898,
+        "num": 332246,
+        "word": "NewJeans新专辑GetUp",
+        "onboard_time": 1687142966,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325270,
+        "num": 325270,
+        "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
+        "onboard_time": 1687141947,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297744,
+        "num": 297744,
+        "word": "白敬亭宋轶对视没有技巧全是感情",
+        "onboard_time": 1687087287,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292268,
+        "num": 292268,
+        "word": "高端局女大佬来新手局了",
+        "onboard_time": 1687141107,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257663,
+        "num": 257663,
+        "word": "真的别再关灯玩手机了",
+        "onboard_time": 1687094731,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252782,
+        "num": 252782,
+        "word": "白敬亭跟剧方争取的愿如长风OST",
+        "onboard_time": 1687136190,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240611,
+        "num": 240611,
+        "word": "中餐厅路透",
+        "onboard_time": 1687136430,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230861,
+        "num": 230861,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 229071,
+        "num": 229071,
+        "word": "蔡依林UglyBeauty演唱会官宣",
+        "onboard_time": 1687142368,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217194,
+        "num": 217194,
+        "word": "王毅布林肯会面",
+        "onboard_time": 1687140206,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210902,
+        "num": 210902,
+        "word": "建议魏大勋别看",
+        "onboard_time": 1687101451,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209368,
+        "num": 209368,
+        "word": "厦大新闻学教授谈张雪峰言论",
+        "onboard_time": 1687099411,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198237,
+        "num": 198237,
+        "word": "989大学",
+        "onboard_time": 1687098270,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194361,
+        "num": 194361,
+        "word": "沙溢胡可演亲家",
+        "onboard_time": 1687142307,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193327,
+        "num": 193327,
+        "word": "肖春生对贺红玲真的只是一种情绪",
+        "onboard_time": 1687136851,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "蔡徐坤hugme开场",
+        "onboard_time": 1687139427,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188436,
+        "num": 188436,
+        "word": "南京小龙虾卖100块一只值吗",
+        "onboard_time": 1687142910,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 175995,
+        "num": 175995,
+        "word": "孟子义回应王鹤棣太红了疏远他",
+        "onboard_time": 1687137567,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171328,
+        "num": 171328,
+        "word": "下班没提醒同事关空调被罚钱",
+        "onboard_time": 1687142248,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167381,
+        "num": 167381,
+        "word": "渝爱太萌了吧",
+        "onboard_time": 1687142789,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165915,
+        "num": 165915,
+        "word": "入职前一晚被鸽了",
+        "onboard_time": 1687143087,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162883,
+        "num": 162883,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687141466,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160971,
+        "num": 160971,
+        "word": "塞尔达地图",
+        "onboard_time": 1687139907,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159772,
+        "num": 159772,
+        "word": "小猫的床有点过于豪华了",
+        "onboard_time": 1687137270,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154387,
+        "num": 154387,
+        "word": "包工头用伦敦腔飙英语惊艳众人",
+        "onboard_time": 1687137687,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152580,
+        "num": 152580,
+        "word": "与凤行战意将起海报",
+        "onboard_time": 1687142486,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148371,
+        "num": 148371,
+        "word": "美国珍珠鳖放生太湖",
+        "onboard_time": 1687143027,
+        "rank": 48,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 65031,
+        "num": 148313,
+        "word": "特种兵式毕业有多酷",
+        "onboard_time": 1687143087,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#父亲的叮咛#"
+    }
+  }
+}

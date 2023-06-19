@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/19 10:44:14
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/19 10:52:52
 </p>
 </blockquote>
 <p>
@@ -16,19 +16,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%BB%85%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23" target="weibo">
-本周仅上4天班（热度：2548840）
+本周仅上4天班（热度：2596648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9A%97%E7%A4%BA%E5%88%9D%E4%B8%89%E5%AD%A6%E7%94%9F%E5%BC%83%E8%80%83%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
+班主任暗示初三学生弃考情况属实（热度：1982220）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E4%B9%8B%E5%86%85%E6%8B%92%E7%BB%9D%E4%BA%8630%E4%B8%AA%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%23" target="weibo">
 一天之内拒绝了30个学生请假（热度：1860594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9A%97%E7%A4%BA%E5%88%9D%E4%B8%89%E5%AD%A6%E7%94%9F%E5%BC%83%E8%80%83%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23" target="weibo">
-班主任暗示初三学生弃考情况属实（热度：1838011）
 </a>
 </li>
 
@@ -159,6 +159,12 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E5%8E%822023%E5%A4%A7%E5%89%A7%E7%89%87%E5%8D%95%23" target="weibo">
+鹅厂2023大剧片单（热度：514645）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%AE%9E%E4%B9%A0%E8%96%AA%E8%B5%841%E4%B8%874%E5%A6%88%E5%A6%88%E4%BB%B0%E5%A4%A9%E5%A4%A7%E7%AC%91%23" target="weibo">
 大四男生实习薪资1万4妈妈仰天大笑（热度：495466）
 </a>
@@ -189,14 +195,20 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23" target="weibo">
-女孩撞上食客被烫伤食客有责任吗（热度：407350）
+<a href="https://s.weibo.com/weibo?q=%23NewJeans%E6%96%B0%E4%B8%93%E8%BE%91GetUp%23" target="weibo">
+NewJeans新专辑GetUp（热度：415898）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E5%8E%822023%E5%A4%A7%E5%89%A7%E7%89%87%E5%8D%95%23" target="weibo">
-鹅厂2023大剧片单（热度：400735）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%AD%90%E6%8A%97%E4%BA%89%E4%BA%94%E5%B9%B4%E5%BE%B7%E5%9B%BD%E7%BB%88%E4%BA%8E%E7%AD%94%E5%BA%94%E5%BD%92%E8%BF%98%E6%96%87%E7%89%A9%23" target="weibo">
+妹子抗争五年德国终于答应归还文物（热度：407464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%92%9E%E4%B8%8A%E9%A3%9F%E5%AE%A2%E8%A2%AB%E7%83%AB%E4%BC%A4%E9%A3%9F%E5%AE%A2%E6%9C%89%E8%B4%A3%E4%BB%BB%E5%90%97%23" target="weibo">
+女孩撞上食客被烫伤食客有责任吗（热度：407350）
 </a>
 </li>
 
@@ -225,8 +237,8 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%AD%90%E6%8A%97%E4%BA%89%E4%BA%94%E5%B9%B4%E5%BE%B7%E5%9B%BD%E7%BB%88%E4%BA%8E%E7%AD%94%E5%BA%94%E5%BD%92%E8%BF%98%E6%96%87%E7%89%A9%23" target="weibo">
-妹子抗争五年德国终于答应归还文物（热度：361775）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%83%85%E5%A4%B4%23" target="weibo">
+沙溢胡可情头（热度：367390）
 </a>
 </li>
 
@@ -239,6 +251,12 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%83%A1%E5%85%B550%E4%B8%87%E7%A7%AF%E5%88%86%E8%A2%AB%E6%B8%85%E9%9B%B6%23" target="weibo">
 东航客服回应胡兵50万积分被清零（热度：352719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E6%8B%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%BF%E8%BD%A6%E9%92%B1%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+幼师拍小朋友房车钱视频引争议（热度：345074）
 </a>
 </li>
 
@@ -261,8 +279,8 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E6%8B%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%BF%E8%BD%A6%E9%92%B1%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-幼师拍小朋友房车钱视频引争议（热度：293927）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%AB%AF%E5%B1%80%E5%A5%B3%E5%A4%A7%E4%BD%AC%E6%9D%A5%E6%96%B0%E6%89%8B%E5%B1%80%E4%BA%86%23" target="weibo">
+高端局女大佬来新手局了（热度：292268）
 </a>
 </li>
 
@@ -311,12 +329,6 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%E8%B7%AF%E9%80%8F%23" target="weibo">
 中餐厅路透（热度：266501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%AB%AF%E5%B1%80%E5%A5%B3%E5%A4%A7%E4%BD%AC%E6%9D%A5%E6%96%B0%E6%89%8B%E5%B1%80%E4%BA%86%23" target="weibo">
-高端局女大佬来新手局了（热度：264164）
 </a>
 </li>
 
@@ -453,6 +465,12 @@ Dream一个肖战李沁六搭（热度：234979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%BC%94%E4%BA%B2%E5%AE%B6%23" target="weibo">
+沙溢胡可演亲家（热度：194361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%23" target="weibo">
 偷偷藏不住（热度：191584）
 </a>
@@ -467,6 +485,12 @@ Dream一个肖战李沁六搭（热度：234979）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E6%8B%9B%E5%95%86%23" target="weibo">
 长风渡招商（热度：189790）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%B0%8F%E9%BE%99%E8%99%BE%E5%8D%96100%E5%9D%97%E4%B8%80%E5%8F%AA%E5%80%BC%E5%90%97%23" target="weibo">
+南京小龙虾卖100块一只值吗（热度：188436）
 </a>
 </li>
 
@@ -531,6 +555,12 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E7%8F%AD%E6%B2%A1%E6%8F%90%E9%86%92%E5%90%8C%E4%BA%8B%E5%85%B3%E7%A9%BA%E8%B0%83%E8%A2%AB%E7%BD%9A%E9%92%B1%23" target="weibo">
+下班没提醒同事关空调被罚钱（热度：171328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%B7%A5%E5%A4%B4%E7%94%A8%E4%BC%A6%E6%95%A6%E8%85%94%E9%A3%99%E8%8B%B1%E8%AF%AD%E6%83%8A%E8%89%B3%E4%BC%97%E4%BA%BA%23" target="weibo">
 包工头用伦敦腔飙英语惊艳众人（热度：170275）
 </a>
@@ -543,14 +573,14 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E7%8F%AD%E6%B2%A1%E6%8F%90%E9%86%92%E5%90%8C%E4%BA%8B%E5%85%B3%E7%A9%BA%E8%B0%83%E8%A2%AB%E7%BD%9A%E9%92%B1%23" target="weibo">
-下班没提醒同事关空调被罚钱（热度：167742）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%9D%E7%88%B1%E5%A4%AA%E8%90%8C%E4%BA%86%E5%90%A7%23" target="weibo">
+渝爱太萌了吧（热度：167381）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E6%BC%94%E4%BA%B2%E5%AE%B6%23" target="weibo">
-沙溢胡可演亲家（热度：165803）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E5%89%8D%E4%B8%80%E6%99%9A%E8%A2%AB%E9%B8%BD%E4%BA%86%23" target="weibo">
+入职前一晚被鸽了（热度：165915）
 </a>
 </li>
 
@@ -573,6 +603,12 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%E6%88%98%E6%84%8F%E5%B0%86%E8%B5%B7%E6%B5%B7%E6%8A%A5%23" target="weibo">
+与凤行战意将起海报（热度：152580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%8E%E6%B2%81%E6%A2%A6%E6%B5%B7%E7%83%AD%E5%BA%A6%E7%A0%B430000%23" target="weibo">
 肖战李沁梦海热度破30000（热度：151333）
 </a>
@@ -585,14 +621,14 @@ CCTV8剧说很好看（热度：184425）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B1%BC%E7%BE%A4%E5%88%BB%E6%84%8F%E4%B8%8E%E9%B2%A8%E9%B1%BC%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB%23" target="weibo">
-鱼群刻意与鲨鱼保持距离（热度：148042）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%8F%8D%E7%8F%A0%E9%B3%96%E6%94%BE%E7%94%9F%E5%A4%AA%E6%B9%96%23" target="weibo">
+美国珍珠鳖放生太湖（热度：148371）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%E6%88%98%E6%84%8F%E5%B0%86%E8%B5%B7%E6%B5%B7%E6%8A%A5%23" target="weibo">
-与凤行战意将起海报（热度：147994）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B1%BC%E7%BE%A4%E5%88%BB%E6%84%8F%E4%B8%8E%E9%B2%A8%E9%B1%BC%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB%23" target="weibo">
+鱼群刻意与鲨鱼保持距离（热度：148042）
 </a>
 </li>
 
@@ -755,6 +791,12 @@ ITZY回归预告（热度：113982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 刘若英北京演唱会（热度：71849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E6%AF%95%E4%B8%9A%E6%9C%89%E5%A4%9A%E9%85%B7%23" target="weibo">
+特种兵式毕业有多酷（热度：65031）
 </a>
 </li>
 
