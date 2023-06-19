@@ -1,0 +1,410 @@
+{
+  "runTime": 1687149280997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2897039,
+        "num": 2897039,
+        "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
+        "onboard_time": 1687146929,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2168535,
+        "num": 2168535,
+        "word": "猎罪图鉴2来了",
+        "onboard_time": 1687146988,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20695,
+        "num": 1738864,
+        "word": "三夏农忙正当时",
+        "onboard_time": 1687097788,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1399891,
+        "num": 1399891,
+        "word": "马思纯扇巴掌戏被打到闭眼",
+        "onboard_time": 1687143268,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1371172,
+        "num": 1371172,
+        "word": "顾漫马甲",
+        "onboard_time": 1687145366,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1212255,
+        "num": 1212255,
+        "word": "大四男生实习薪资1万4妈妈仰天大笑",
+        "onboard_time": 1687076488,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1185291,
+        "num": 1185291,
+        "word": "班主任暗示初三学生弃考情况属实",
+        "onboard_time": 1687140267,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051409,
+        "num": 1051409,
+        "word": "为什么推荐6月21日提离职",
+        "onboard_time": 1687144288,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 875727,
+        "num": 875727,
+        "word": "张杰演唱会现场喊话黄牛",
+        "onboard_time": 1687144466,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 712581,
+        "num": 712581,
+        "word": "本周仅上4天班",
+        "onboard_time": 1687136851,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695184,
+        "num": 695184,
+        "word": "南京小龙虾卖100块一只值吗",
+        "onboard_time": 1687142910,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 664720,
+        "num": 664720,
+        "word": "沙溢胡可情头",
+        "onboard_time": 1687142728,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660038,
+        "num": 660038,
+        "word": "幼师拍小朋友房车钱视频引争议",
+        "onboard_time": 1687141407,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604185,
+        "num": 604185,
+        "word": "Jennie在舞台上走神",
+        "onboard_time": 1687097852,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 570747,
+        "num": 570747,
+        "word": "长相思谁是杨紫的新郎",
+        "onboard_time": 1687147349,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531939,
+        "num": 531939,
+        "word": "肖战赵丽颖正剧苗子",
+        "onboard_time": 1687133967,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517021,
+        "num": 517021,
+        "word": "妹子抗争五年德国终于答应归还文物",
+        "onboard_time": 1687140088,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475214,
+        "num": 475214,
+        "word": "白敬亭想改的名字都被注册了",
+        "onboard_time": 1687135109,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451706,
+        "num": 451706,
+        "word": "专八",
+        "onboard_time": 1687148132,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 432169,
+        "num": 432169,
+        "word": "肖战腹肌好明显",
+        "onboard_time": 1687147349,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556991,
+        "num": 431848,
+        "word": "千万不要在教资体检时穿裙子",
+        "onboard_time": 1687137807,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429009,
+        "num": 429009,
+        "word": "鹿晗金色脏辫",
+        "onboard_time": 1687133847,
+        "rank": 21,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 414167,
+        "num": 414167,
+        "word": "白敬亭吃醋不像演的",
+        "onboard_time": 1687147049,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399247,
+        "num": 399247,
+        "word": "化学老师跳下10米高桥救起轻生女子",
+        "onboard_time": 1687130782,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 385173,
+        "num": 385173,
+        "word": "一天之内拒绝了30个学生请假",
+        "onboard_time": 1687133730,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405140,
+        "num": 382641,
+        "word": "王阳用口红在秦岚脸上留号码",
+        "onboard_time": 1687134028,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379053,
+        "num": 379053,
+        "word": "十年前当了蔡依林甲方",
+        "onboard_time": 1687144466,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388246,
+        "num": 374619,
+        "word": "郑钧吐槽刘芸新剧角色",
+        "onboard_time": 1687147529,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366059,
+        "num": 366059,
+        "word": "鹅厂2023大剧片单",
+        "onboard_time": 1687141226,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305813,
+        "num": 359247,
+        "word": "狗狗被陌生男子下药后拼命爬回家",
+        "onboard_time": 1687145366,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354722,
+        "num": 354722,
+        "word": "猎罪图鉴2求原班人马",
+        "onboard_time": 1687148852,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347021,
+        "num": 347021,
+        "word": "Jennie金泰亨都去看了火星哥演唱会",
+        "onboard_time": 1687133788,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297647,
+        "num": 297647,
+        "word": "星宇",
+        "onboard_time": 1687137330,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 292648,
+        "num": 292648,
+        "word": "女子房子两年没住被邻居用衣柜封死",
+        "onboard_time": 1687130123,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289825,
+        "num": 289825,
+        "word": "林志颖活动照",
+        "onboard_time": 1687148011,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271420,
+        "num": 271420,
+        "word": "宋祖儿刘宇宁身高差cp感",
+        "onboard_time": 1687148733,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250253,
+        "num": 250253,
+        "word": "坐飞机发现前男友的座位在旁边",
+        "onboard_time": 1687147711,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248735,
+        "num": 248735,
+        "word": "南宁地铁推倒女站务员男子已被行拘",
+        "onboard_time": 1687135888,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221531,
+        "num": 221531,
+        "word": "因为口癖是老公社死了",
+        "onboard_time": 1687147711,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 194175,
+        "num": 194175,
+        "word": "美国珍珠鳖放生太湖",
+        "onboard_time": 1687143027,
+        "rank": 39,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 242336,
+        "num": 192216,
+        "word": "张晚意任敏 锦绣安宁",
+        "onboard_time": 1687146809,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241384,
+        "num": 190922,
+        "word": "长相思",
+        "onboard_time": 1687144709,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223587,
+        "num": 187516,
+        "word": "蔡徐坤hugme开场",
+        "onboard_time": 1687139427,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231916,
+        "num": 183088,
+        "word": "杨紫小夭",
+        "onboard_time": 1687149032,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223350,
+        "num": 179887,
+        "word": "防弹少年团今年全员入伍",
+        "onboard_time": 1687148613,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219662,
+        "num": 179191,
+        "word": "白玉兰",
+        "onboard_time": 1687144947,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176249,
+        "num": 176249,
+        "word": "王毅布林肯会面",
+        "onboard_time": 1687140206,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174265,
+        "num": 174265,
+        "word": "989大学",
+        "onboard_time": 1687098270,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143967,
+        "num": 173525,
+        "word": "单身不要跟父母出去参加婚礼",
+        "onboard_time": 1687143746,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 109896,
+        "num": 171135,
+        "word": "好多明星出发时装周",
+        "onboard_time": 1687147590,
+        "rank": 49,
+        "category": "时尚,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共享民族复兴伟大荣光#"
+    }
+  }
+}

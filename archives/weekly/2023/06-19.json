@@ -1,7 +1,15 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687148434391,
+  "endTime": 1687149280997,
   "band_list": [
+    {
+      "raw_hot": 2897039,
+      "num": 2897039,
+      "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
+      "onboard_time": 1687146929,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2596648,
       "num": 2596648,
@@ -9,6 +17,14 @@
       "onboard_time": 1687136851,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2168535,
+      "num": 2168535,
+      "word": "猎罪图鉴2来了",
+      "onboard_time": 1687146988,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 2105201,
@@ -27,12 +43,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1613811,
-      "num": 1613811,
-      "word": "鼠头鸭脖涉事母公司经营700多个高校食堂",
-      "onboard_time": 1687146929,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1399891,
+      "num": 1399891,
+      "word": "马思纯扇巴掌戏被打到闭眼",
+      "onboard_time": 1687143268,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1371172,
+      "num": 1371172,
+      "word": "顾漫马甲",
+      "onboard_time": 1687145366,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1327949,
@@ -43,28 +67,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1316008,
-      "num": 1316008,
-      "word": "马思纯扇巴掌戏被打到闭眼",
-      "onboard_time": 1687143268,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1293958,
       "num": 1293958,
       "word": "大四男生实习薪资1万4妈妈仰天大笑",
       "onboard_time": 1687076488,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1272409,
-      "num": 1272409,
-      "word": "顾漫马甲",
-      "onboard_time": 1687145366,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 1162999,
@@ -83,12 +91,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 1063635,
-      "num": 1063635,
-      "word": "猎罪图鉴2来了",
-      "onboard_time": 1687146988,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 1051409,
+      "num": 1051409,
+      "word": "为什么推荐6月21日提离职",
+      "onboard_time": 1687144288,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1039079,
@@ -97,14 +105,6 @@
       "onboard_time": 1687133967,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1032139,
-      "num": 1032139,
-      "word": "为什么推荐6月21日提离职",
-      "onboard_time": 1687144288,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 998050,
@@ -267,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 570747,
+      "num": 570747,
+      "word": "长相思谁是杨紫的新郎",
+      "onboard_time": 1687147349,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -275,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517021,
+      "num": 517021,
+      "word": "妹子抗争五年德国终于答应归还文物",
+      "onboard_time": 1687140088,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514645,
       "num": 514645,
       "word": "鹅厂2023大剧片单",
       "onboard_time": 1687141226,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 510802,
-      "num": 510802,
-      "word": "妹子抗争五年德国终于答应归还文物",
-      "onboard_time": 1687140088,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491959,
@@ -305,6 +313,22 @@
       "onboard_time": 1687135350,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451706,
+      "num": 451706,
+      "word": "专八",
+      "onboard_time": 1687148132,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 432169,
+      "num": 432169,
+      "word": "肖战腹肌好明显",
+      "onboard_time": 1687147349,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 423282,
@@ -329,6 +353,14 @@
       "onboard_time": 1687142966,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 414167,
+      "num": 414167,
+      "word": "白敬亭吃醋不像演的",
+      "onboard_time": 1687147049,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 410379,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388246,
+      "num": 374619,
+      "word": "郑钧吐槽刘芸新剧角色",
+      "onboard_time": 1687147529,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380856,
       "num": 380856,
       "word": "相亲中的聊天记录",
@@ -387,20 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 368901,
-      "num": 337319,
-      "word": "长相思谁是杨紫的新郎",
-      "onboard_time": 1687147349,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 361530,
       "num": 361530,
       "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
       "onboard_time": 1687141947,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354722,
+      "num": 354722,
+      "word": "猎罪图鉴2求原班人马",
+      "onboard_time": 1687148852,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 352719,
@@ -411,28 +451,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 344196,
-      "num": 335625,
-      "word": "肖战腹肌好明显",
-      "onboard_time": 1687147349,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340706,
       "num": 340706,
       "word": "白桃星座",
       "onboard_time": 1687104028,
       "rank": 23,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 337845,
-      "num": 337845,
-      "word": "专八",
-      "onboard_time": 1687148132,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 330503,
@@ -451,6 +475,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 305813,
+      "num": 359247,
+      "word": "狗狗被陌生男子下药后拼命爬回家",
+      "onboard_time": 1687145366,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302770,
       "num": 302770,
       "word": "长风渡",
@@ -467,20 +499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289825,
+      "num": 289825,
+      "word": "林志颖活动照",
+      "onboard_time": 1687148011,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285563,
       "num": 285563,
       "word": "内蒙古城管执法中队负责人出轨女下属",
       "onboard_time": 1687125373,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284552,
-      "num": 284552,
-      "word": "郑钧吐槽刘芸新剧角色",
-      "onboard_time": 1687147529,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 283647,
@@ -531,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271420,
+      "num": 271420,
+      "word": "宋祖儿刘宇宁身高差cp感",
+      "onboard_time": 1687148733,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267288,
       "num": 267288,
       "word": "坐飞机发现前男友的座位在旁边",
@@ -553,14 +593,6 @@
       "onboard_time": 1687143746,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 262547,
-      "num": 262547,
-      "word": "狗狗被陌生男子下药后拼命爬回家",
-      "onboard_time": 1687145366,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260546,
@@ -627,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245673,
-      "num": 245673,
-      "word": "白敬亭吃醋不像演的",
-      "onboard_time": 1687147049,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240557,
       "num": 240557,
       "word": "田曦薇大奉打更人",
@@ -699,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235520,
-      "num": 235520,
-      "word": "林志颖活动照",
-      "onboard_time": 1687148011,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234979,
       "num": 234979,
       "word": "Dream一个肖战李沁六搭",
@@ -720,6 +736,14 @@
       "word": "肖春生对贺红玲真的只是一种情绪",
       "onboard_time": 1687136851,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231916,
+      "num": 183088,
+      "word": "杨紫小夭",
+      "onboard_time": 1687149032,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -745,6 +769,22 @@
       "onboard_time": 1687139427,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223350,
+      "num": 179887,
+      "word": "防弹少年团今年全员入伍",
+      "onboard_time": 1687148613,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221531,
+      "num": 221531,
+      "word": "因为口癖是老公社死了",
+      "onboard_time": 1687147711,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 218268,
@@ -969,14 +1009,6 @@
       "onboard_time": 1687142248,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170772,
-      "num": 170772,
-      "word": "因为口癖是老公社死了",
-      "onboard_time": 1687147711,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 170275,
@@ -1316,7 +1348,7 @@
     },
     {
       "raw_hot": 42647,
-      "num": 1455677,
+      "num": 1738864,
       "word": "三夏农忙正当时",
       "onboard_time": 1687097788,
       "rank": 2,
