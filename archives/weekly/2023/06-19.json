@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687207047981,
+  "endTime": 1687209344574,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -2955,12 +2955,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 21429,
+      "num": 22466,
+      "word": "怎么斗得过几十年的逆子",
+      "onboard_time": 1687207392,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21360,
       "num": 626306,
       "word": "男童深夜独自乘车司机果断报警",
       "onboard_time": 1687170340,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19077,
+      "num": 22423,
+      "word": "天行健",
+      "onboard_time": 1687207931,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 15927,

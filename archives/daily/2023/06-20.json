@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687207047981,
+  "endTime": 1687209344574,
   "band_list": [
     {
       "raw_hot": 3783594,
@@ -480,6 +480,22 @@
       "word": "吴幸键官宣出演言冰云",
       "onboard_time": 1687202413,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 21429,
+      "num": 22466,
+      "word": "怎么斗得过几十年的逆子",
+      "onboard_time": 1687207392,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19077,
+      "num": 22423,
+      "word": "天行健",
+      "onboard_time": 1687207931,
+      "rank": 42,
       "category": "影视"
     }
   ],
