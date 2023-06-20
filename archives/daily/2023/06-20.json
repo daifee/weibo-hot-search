@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687267207710,
+  "endTime": 1687268030816,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2164992,
-      "num": 2164992,
+      "raw_hot": 2204741,
+      "num": 2204741,
       "word": "关闭朋友圈半年后的变化",
       "onboard_time": 1687261291,
       "rank": 1,
@@ -345,6 +345,14 @@
       "onboard_time": 1687192706,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125302,
+      "num": 1125302,
+      "word": "南京已经没有大厂了",
+      "onboard_time": 1687265791,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 1116613,
@@ -627,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 548803,
-      "num": 255569,
-      "word": "南京已经没有大厂了",
-      "onboard_time": 1687265791,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 549063,
+      "num": 549063,
+      "word": "长风渡第9集封神",
+      "onboard_time": 1687267591,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 547585,
@@ -673,6 +681,14 @@
       "onboard_time": 1687227451,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 528334,
+      "num": 528334,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524475,
@@ -739,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 443321,
+      "num": 443321,
+      "word": "张小狮 这一系列畸形的爱到底有多可怕",
+      "onboard_time": 1687265131,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 437163,
       "num": 437163,
       "word": "黄子佼多个代言暂停合作",
@@ -763,14 +787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 413667,
-      "num": 413667,
-      "word": "张小狮 这一系列畸形的爱到底有多可怕",
-      "onboard_time": 1687265131,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 412458,
       "num": 412458,
       "word": "网友吐槽中餐厅7工作人员",
@@ -787,8 +803,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 395719,
-      "num": 328783,
+      "raw_hot": 396875,
+      "num": 347612,
       "word": "虞书欣白色吊带透视裙",
       "onboard_time": 1687265670,
       "rank": 22,
@@ -891,6 +907,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 355169,
+      "num": 340772,
+      "word": "白敬亭发了粉丝修的图",
+      "onboard_time": 1687266571,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354615,
       "num": 294839,
       "word": "黄子佼拿刀割自己",
@@ -955,6 +979,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 341400,
+      "num": 341400,
+      "word": "张雪峰名场面",
+      "onboard_time": 1687262854,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341046,
       "num": 341046,
       "word": "为什么很少看见男生喝奶茶",
@@ -984,14 +1016,6 @@
       "word": "胡锡进 川大那名女生的事该有结果了",
       "onboard_time": 1687175319,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330290,
-      "num": 330290,
-      "word": "张雪峰名场面",
-      "onboard_time": 1687262854,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318895,
+      "num": 289706,
+      "word": "段嘉许好帅",
+      "onboard_time": 1687267414,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312272,
       "num": 505618,
       "word": "现在面试水都不给了",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1687225711,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 311047,
+      "num": 311047,
+      "word": "没有不喜欢妈妈但却无法交流",
+      "onboard_time": 1687263029,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 308676,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1687251153,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300858,
-      "num": 300858,
-      "word": "没有不喜欢妈妈但却无法交流",
-      "onboard_time": 1687263029,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 299069,
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280000,
+      "num": 280000,
+      "word": "狂飙2023同人年增量第一",
+      "onboard_time": 1687264832,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278397,
       "num": 278397,
       "word": "桃花坞导演回应孟子义镜头少",
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271173,
+      "num": 249452,
+      "word": "难哄",
+      "onboard_time": 1687263331,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270407,
       "num": 270407,
       "word": "当你的闺蜜当了小学老师",
@@ -1259,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268398,
+      "num": 236615,
+      "word": "桑稚一直都是赵露思",
+      "onboard_time": 1687265312,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264299,
       "num": 264299,
       "word": "女心理师江苏卫视定档",
@@ -1267,11 +1323,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263438,
-      "num": 249452,
-      "word": "难哄",
-      "onboard_time": 1687263331,
-      "rank": 31,
+      "raw_hot": 263410,
+      "num": 242774,
+      "word": "桑稚长得好快",
+      "onboard_time": 1687266151,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1297,30 +1353,6 @@
       "onboard_time": 1687227149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259174,
-      "num": 244861,
-      "word": "狂飙2023同人年增量第一",
-      "onboard_time": 1687264832,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 258226,
-      "num": 242774,
-      "word": "桑稚长得好快",
-      "onboard_time": 1687266151,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 256721,
-      "num": 256721,
-      "word": "今起恢复台湾地区番荔枝输入大陆",
-      "onboard_time": 1687264470,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256159,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1687226492,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253840,
-      "num": 236615,
-      "word": "桑稚一直都是赵露思",
-      "onboard_time": 1687265312,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 253426,
@@ -1675,14 +1699,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 204739,
-      "num": 189652,
-      "word": "白敬亭发了粉丝修的图",
-      "onboard_time": 1687266571,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204550,
       "num": 204550,
       "word": "霍建华复出后首部作品",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1687237958,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 199475,
+      "num": 162687,
+      "word": "刘芸戏里老公vs戏外老公",
+      "onboard_time": 1687266453,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 199374,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1687258352,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175932,
+      "num": 175932,
+      "word": "武磊进球",
+      "onboard_time": 1687267591,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 175651,
@@ -2307,6 +2339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 142626,
+      "num": 142626,
+      "word": "济南地铁设强弱冷车厢",
+      "onboard_time": 1687268015,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139634,
       "num": 139634,
       "word": "这到时候按水费算还是电费算",
@@ -2451,6 +2491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96415,
+      "num": 532915,
+      "word": "两轮为何成为年轻人代步神器",
+      "onboard_time": 1687266030,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 96257,
       "num": 96257,
       "word": "刘宇宁宋祖儿折腰对手戏",
@@ -2537,14 +2585,6 @@
       "onboard_time": 1687255290,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59084,
-      "num": 418589,
-      "word": "两轮为何成为年轻人代步神器",
-      "onboard_time": 1687266030,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 56746,

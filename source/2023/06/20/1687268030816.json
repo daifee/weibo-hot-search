@@ -1,0 +1,410 @@
+{
+  "runTime": 1687268030816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2204741,
+        "num": 2204741,
+        "word": "关闭朋友圈半年后的变化",
+        "onboard_time": 1687261291,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1749976,
+        "num": 1749976,
+        "word": "霍启刚患上睡眠窒息症",
+        "onboard_time": 1687261829,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17290,
+        "num": 1437993,
+        "word": "试验二十五号卫星成功发射",
+        "onboard_time": 1687247974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410300,
+        "num": 1410300,
+        "word": "偷偷藏不住受众群体",
+        "onboard_time": 1687259429,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1125302,
+        "num": 1125302,
+        "word": "南京已经没有大厂了",
+        "onboard_time": 1687265791,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1203645,
+        "num": 1102207,
+        "word": "警方通报广州一出租屋发现3具尸体",
+        "onboard_time": 1687265371,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961053,
+        "num": 961053,
+        "word": "金晨的嘴怎么了",
+        "onboard_time": 1687251091,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 864936,
+        "num": 864936,
+        "word": "陈情令",
+        "onboard_time": 1687245751,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618346,
+        "num": 618346,
+        "word": "内蒙古新井煤矿事故失联者全部遇难",
+        "onboard_time": 1687263271,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538549,
+        "num": 573800,
+        "word": "杨幂撑伞",
+        "onboard_time": 1687249772,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1421434,
+        "num": 573337,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1319949,
+        "num": 572218,
+        "word": "已经be但又很火的cp",
+        "onboard_time": 1687257453,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555799,
+        "num": 555799,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549063,
+        "num": 549063,
+        "word": "长风渡第9集封神",
+        "onboard_time": 1687267591,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96415,
+        "num": 532915,
+        "word": "两轮为何成为年轻人代步神器",
+        "onboard_time": 1687266030,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 531955,
+        "num": 531955,
+        "word": "S家的拖鞋之谜",
+        "onboard_time": 1687251934,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528334,
+        "num": 528334,
+        "word": "今起恢复台湾地区番荔枝输入大陆",
+        "onboard_time": 1687264470,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443321,
+        "num": 443321,
+        "word": "张小狮 这一系列畸形的爱到底有多可怕",
+        "onboard_time": 1687265131,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 511704,
+        "num": 434554,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 385487,
+        "num": 385487,
+        "word": "孙笑川辟谣去世",
+        "onboard_time": 1687253074,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 740737,
+        "num": 377932,
+        "word": "肚子瘦不下来的真正原因",
+        "onboard_time": 1687260753,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638993,
+        "num": 372747,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436585,
+        "num": 353525,
+        "word": "宋轶素颜照",
+        "onboard_time": 1687251333,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396875,
+        "num": 347612,
+        "word": "虞书欣白色吊带透视裙",
+        "onboard_time": 1687265670,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341400,
+        "num": 341400,
+        "word": "张雪峰名场面",
+        "onboard_time": 1687262854,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355169,
+        "num": 340772,
+        "word": "白敬亭发了粉丝修的图",
+        "onboard_time": 1687266571,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324092,
+        "num": 324092,
+        "word": "欧阳娜娜的长安第一美人",
+        "onboard_time": 1687244670,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311398,
+        "num": 311398,
+        "word": "在医院ICU住了四年得多少钱",
+        "onboard_time": 1687244969,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311047,
+        "num": 311047,
+        "word": "没有不喜欢妈妈但却无法交流",
+        "onboard_time": 1687263029,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292561,
+        "num": 292561,
+        "word": "爱尔眼科王勇不接受艾芬道歉",
+        "onboard_time": 1687259790,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318895,
+        "num": 289706,
+        "word": "段嘉许好帅",
+        "onboard_time": 1687267414,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292943,
+        "num": 288072,
+        "word": "炎亚纶评论了崔秀彬ins",
+        "onboard_time": 1687250011,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 304117,
+        "num": 284939,
+        "word": "马伯骞这段不像演的",
+        "onboard_time": 1687264229,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280000,
+        "num": 280000,
+        "word": "狂飙2023同人年增量第一",
+        "onboard_time": 1687264832,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230004,
+        "num": 230004,
+        "word": "官方回应公职人员吸毒被查后仍在岗",
+        "onboard_time": 1687258053,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271173,
+        "num": 229400,
+        "word": "难哄",
+        "onboard_time": 1687263331,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268398,
+        "num": 227772,
+        "word": "桑稚一直都是赵露思",
+        "onboard_time": 1687265312,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223330,
+        "num": 223330,
+        "word": "迪士尼回应暴雨天能否退票",
+        "onboard_time": 1687263570,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 178845,
+        "num": 178845,
+        "word": "吴宗宪 这辈子最痛恨吸毒的人",
+        "onboard_time": 1687249533,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 175932,
+        "num": 175932,
+        "word": "武磊进球",
+        "onboard_time": 1687267591,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263410,
+        "num": 174434,
+        "word": "桑稚长得好快",
+        "onboard_time": 1687266151,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223372,
+        "num": 169621,
+        "word": "王鹤棣手机壳后面塞红包",
+        "onboard_time": 1687264112,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222864,
+        "num": 168493,
+        "word": "秦岚腰臀比",
+        "onboard_time": 1687246531,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178903,
+        "num": 165797,
+        "word": "白敬亭没接住棍子的反应",
+        "onboard_time": 1687266871,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199475,
+        "num": 162687,
+        "word": "刘芸戏里老公vs戏外老公",
+        "onboard_time": 1687266453,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160092,
+        "num": 160092,
+        "word": "我国个人住房贷款余额38.94万亿元",
+        "onboard_time": 1687259192,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 148247,
+        "num": 148247,
+        "word": "吸毒前后真实的变化",
+        "onboard_time": 1687241192,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 142626,
+        "num": 142626,
+        "word": "济南地铁设强弱冷车厢",
+        "onboard_time": 1687268015,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132661,
+        "num": 132661,
+        "word": "温州男子发给好友63部淫秽视频后自首",
+        "onboard_time": 1687248632,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106137,
+        "num": 132616,
+        "word": "FPX对战iG",
+        "onboard_time": 1687266331,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}
