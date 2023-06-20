@@ -1,0 +1,410 @@
+{
+  "runTime": 1687229221897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1621192,
+        "num": 1621192,
+        "word": "小红书回应女幼师疑给幼儿喂避孕药",
+        "onboard_time": 1687219531,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1366294,
+        "num": 1366294,
+        "word": "中国26岁女生在马代被酒店管家性侵",
+        "onboard_time": 1687227690,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24295,
+        "num": 1136798,
+        "word": "杭州亚运奖牌上的湖山长什么样",
+        "onboard_time": 1687180837,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2679577,
+        "num": 1133196,
+        "word": "黄子佼爱徒Lulu发声",
+        "onboard_time": 1687226730,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1127883,
+        "num": 1127883,
+        "word": "杨迪说陈妍希的家像样板房",
+        "onboard_time": 1687224393,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930921,
+        "num": 930921,
+        "word": "张歆艺 不是所有演艺界的人都是坏人",
+        "onboard_time": 1687221455,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893269,
+        "num": 893269,
+        "word": "高考查分遇上端午假期",
+        "onboard_time": 1687220492,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 802891,
+        "num": 802891,
+        "word": "官方通报嫌疑人自首时在派出所身亡",
+        "onboard_time": 1687222055,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735888,
+        "num": 735888,
+        "word": "庆余年2官宣毛晓彤",
+        "onboard_time": 1687190916,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660404,
+        "num": 660404,
+        "word": "马云指出淘宝天猫未来三个方向",
+        "onboard_time": 1687180119,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1178376,
+        "num": 655792,
+        "word": "台湾艺人宥胜被控性骚扰后致歉",
+        "onboard_time": 1687222774,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1142632,
+        "num": 654526,
+        "word": "王雨馨 从未发声声讨过景瑜任何",
+        "onboard_time": 1687225829,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648354,
+        "num": 648354,
+        "word": "蔡徐坤评论区回复粉丝",
+        "onboard_time": 1687187205,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1139092,
+        "num": 625956,
+        "word": "黄景瑜说和前任是亲人也是朋友",
+        "onboard_time": 1687216523,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928337,
+        "num": 616897,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550491,
+        "num": 550491,
+        "word": "白鹿请助理看五月天演唱会",
+        "onboard_time": 1687219953,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387109,
+        "num": 387109,
+        "word": "幼师给幼儿喂避孕药面临什么法律责任",
+        "onboard_time": 1687225054,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587900,
+        "num": 373727,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337620,
+        "num": 337620,
+        "word": "网上很火但是你不懂的梗",
+        "onboard_time": 1687228049,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268339,
+        "num": 268339,
+        "word": "降息",
+        "onboard_time": 1687227872,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 659659,
+        "num": 267697,
+        "word": "谭松韵直角肩",
+        "onboard_time": 1687221755,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 498501,
+        "num": 267373,
+        "word": "书粉剧粉都满意的选角",
+        "onboard_time": 1687227451,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428352,
+        "num": 266312,
+        "word": "妈妈在单位被大声训斥",
+        "onboard_time": 1687220553,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420276,
+        "num": 265658,
+        "word": "舍友暗示我别化妆见她朋友",
+        "onboard_time": 1687219470,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368289,
+        "num": 264489,
+        "word": "面试官问针掉海里怎么拿回来",
+        "onboard_time": 1687227091,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372294,
+        "num": 263237,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305197,
+        "num": 262847,
+        "word": "黄子佼性骚扰事件时间线",
+        "onboard_time": 1687225592,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278350,
+        "num": 261545,
+        "word": "韩玖诺版叶灵儿",
+        "onboard_time": 1687218929,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261290,
+        "num": 261290,
+        "word": "门诊的药袋都开始内卷了",
+        "onboard_time": 1687218082,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255171,
+        "num": 255171,
+        "word": "化妆去上班同事以为我要离职",
+        "onboard_time": 1687227149,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1115548,
+        "num": 254765,
+        "word": "你还在等待川大女生处理结果吗",
+        "onboard_time": 1687219531,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239929,
+        "num": 239929,
+        "word": "俄罗斯外派员工疫情之后第一次回来述职",
+        "onboard_time": 1687226492,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220158,
+        "num": 220158,
+        "word": "杭州一企业月薪1万2半年只招到两人",
+        "onboard_time": 1687185043,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 217183,
+        "num": 217183,
+        "word": "6月LPR报价下调",
+        "onboard_time": 1687225711,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207320,
+        "num": 207320,
+        "word": "王者荣耀宝格丽联名皮肤",
+        "onboard_time": 1687229012,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199258,
+        "num": 199258,
+        "word": "熬夜工作vs熬夜看小说",
+        "onboard_time": 1687220492,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198633,
+        "num": 198633,
+        "word": "你现在网购还常用淘宝吗",
+        "onboard_time": 1687186363,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197936,
+        "num": 197936,
+        "word": "汪苏泷巡演抢票",
+        "onboard_time": 1687228291,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192070,
+        "num": 192070,
+        "word": "黄景瑜工作室回应不实传闻",
+        "onboard_time": 1687216462,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190599,
+        "num": 190599,
+        "word": "大学两年宿舍的关系变化",
+        "onboard_time": 1687228412,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185804,
+        "num": 185804,
+        "word": "广东通报一中学生遭校暴被逼下跪",
+        "onboard_time": 1687222715,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184695,
+        "num": 184695,
+        "word": "上甘岭阵容官宣",
+        "onboard_time": 1687227091,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170253,
+        "num": 170253,
+        "word": "3500的工资24小时待命",
+        "onboard_time": 1687218082,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168087,
+        "num": 168087,
+        "word": "女心理师江苏卫视定档",
+        "onboard_time": 1687229072,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163727,
+        "num": 163727,
+        "word": "庆余年2",
+        "onboard_time": 1687218148,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160803,
+        "num": 160803,
+        "word": "对经济复苏要有信心更要多些耐心",
+        "onboard_time": 1687228651,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 151351,
+        "num": 151351,
+        "word": "广东荔枝价格跌至5年来最低",
+        "onboard_time": 1687226790,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 150057,
+        "num": 150057,
+        "word": "Jennie新剧预告又跳舞了",
+        "onboard_time": 1687192349,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146532,
+        "num": 146532,
+        "word": "LPR",
+        "onboard_time": 1687224272,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146518,
+        "num": 146518,
+        "word": "入职第一天都下班了他们还不走",
+        "onboard_time": 1687225054,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国国务卿布林肯#"
+    }
+  }
+}
