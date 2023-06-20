@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687296834409,
+  "endTime": 1687299347382,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -475,20 +475,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41115,
+      "num": 41115,
+      "word": "考古王菲以前的微博",
+      "onboard_time": 1687291512,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33125,
-      "num": 31436,
+      "num": 36139,
       "word": "顾九思终究是个局外人",
       "onboard_time": 1687287675,
       "rank": 40,
       "category": "影视"
     },
     {
-      "raw_hot": 32055,
-      "num": 32055,
-      "word": "考古王菲以前的微博",
-      "onboard_time": 1687291512,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 26361,
+      "num": 36106,
+      "word": "演我最后一天冲刺",
+      "onboard_time": 1687298475,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 12289,
