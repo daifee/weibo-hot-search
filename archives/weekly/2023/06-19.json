@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687253640453,
+  "endTime": 1687256305610,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2843211,
+      "num": 779970,
+      "word": "小S曾在party后漂头发眉毛",
+      "onboard_time": 1687253792,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2835483,
       "num": 334198,
       "word": "黄景瑜工作室回应不实传闻",
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2149183,
+      "num": 1528967,
+      "word": "金晨的嘴怎么了",
+      "onboard_time": 1687251091,
+      "rank": 22,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 2141755,
       "num": 2141755,
       "word": "林志颖",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 1743982,
-      "num": 617569,
+      "num": 1175507,
       "word": "吴宗宪 这辈子最痛恨吸毒的人",
       "onboard_time": 1687249533,
       "rank": 11,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 1646749,
-      "num": 574114,
+      "num": 766738,
       "word": "炎亚纶评论了崔秀彬ins",
       "onboard_time": 1687250011,
       "rank": 49,
@@ -449,14 +465,6 @@
       "onboard_time": 1687174718,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1488423,
-      "num": 1488423,
-      "word": "金晨的嘴怎么了",
-      "onboard_time": 1687251091,
-      "rank": 22,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1472333,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995442,
+      "num": 995442,
+      "word": "宋轶素颜照",
+      "onboard_time": 1687251333,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 989038,
       "num": 989038,
       "word": "南宁地铁推倒女站务员男子已被行拘",
@@ -793,6 +809,14 @@
       "onboard_time": 1687249233,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 933848,
+      "num": 632889,
+      "word": "S家的拖鞋之谜",
+      "onboard_time": 1687251934,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 927985,
@@ -971,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749564,
-      "num": 570662,
-      "word": "宋轶素颜照",
-      "onboard_time": 1687251333,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 747276,
       "num": 747276,
       "word": "幼师拍小朋友房车钱视频引争议",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1687190916,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 722729,
+      "num": 722729,
+      "word": "孙笑川辟谣去世",
+      "onboard_time": 1687253074,
+      "rank": 45,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 721825,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1687219953,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 664741,
-      "num": 556774,
-      "word": "S家的拖鞋之谜",
-      "onboard_time": 1687251934,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 662084,
@@ -1603,6 +1619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 393578,
+      "num": 393578,
+      "word": "马伯骞偷偷藏不住演技",
+      "onboard_time": 1687250672,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391767,
       "num": 391767,
       "word": "偷偷藏不住",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1687086748,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371985,
+      "num": 371985,
+      "word": "KPOP是该倒闭的行业吗",
+      "onboard_time": 1687251812,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 369312,
@@ -1779,12 +1811,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 347614,
-      "num": 347614,
-      "word": "KPOP是该倒闭的行业吗",
-      "onboard_time": 1687251812,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 347877,
+      "num": 1779492,
+      "word": "上传走失家人照片最快3秒寻回",
+      "onboard_time": 1687254633,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347110,
@@ -1995,20 +2027,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 301069,
+      "num": 301069,
+      "word": "桑稚说桑延是她爸爸",
+      "onboard_time": 1687251153,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293887,
       "num": 293887,
       "word": "蔡徐坤hugme开场",
       "onboard_time": 1687139427,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 293335,
-      "num": 293335,
-      "word": "马伯骞偷偷藏不住演技",
-      "onboard_time": 1687250672,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 292284,
@@ -2083,6 +2115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 287543,
+      "num": 356429,
+      "word": "喜欢榴莲和大肠的都沉默了",
+      "onboard_time": 1687255353,
+      "rank": 24,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 287395,
       "num": 243602,
       "word": "顾九思给柳玉茹下跪",
@@ -2152,14 +2192,6 @@
       "word": "你心中的年代剧TOP1",
       "onboard_time": 1687138107,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 279062,
-      "num": 279062,
-      "word": "桑稚说桑延是她爸爸",
-      "onboard_time": 1687251153,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -2241,6 +2273,14 @@
       "onboard_time": 1687236037,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269670,
+      "num": 1255647,
+      "word": "学生帽穗丢了老师无实物拨穗",
+      "onboard_time": 1687251392,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 269067,
@@ -2329,6 +2369,14 @@
       "onboard_time": 1687184988,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259781,
+      "num": 259781,
+      "word": "轰6K 群发短信",
+      "onboard_time": 1687253493,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 259526,
@@ -2723,6 +2771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228254,
+      "num": 228254,
+      "word": "金珉奎尹净汉车银优蔡亨源聚餐",
+      "onboard_time": 1687256073,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227439,
       "num": 227439,
       "word": "偷偷藏不住预告",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1687150532,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223814,
+      "num": 223814,
+      "word": "喻言护照被狗咬了",
+      "onboard_time": 1687256011,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 223766,
@@ -3035,6 +3099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198643,
+      "num": 559366,
+      "word": "重庆一高校本科毕业生发5篇sci",
+      "onboard_time": 1687252111,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197787,
       "num": 197787,
       "word": "老板为了我班都不上了",
@@ -3147,12 +3219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191797,
-      "num": 191797,
-      "word": "孙笑川辟谣去世",
-      "onboard_time": 1687253074,
-      "rank": 45,
-      "category": "游戏,网红"
+      "raw_hot": 192232,
+      "num": 192232,
+      "word": "浙江人接下去一个月的主食",
+      "onboard_time": 1687255953,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 190957,
@@ -3259,14 +3331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185301,
-      "num": 292101,
-      "word": "学生帽穗丢了老师无实物拨穗",
-      "onboard_time": 1687251392,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 184699,
       "num": 184699,
       "word": "好多明星出发时装周",
@@ -3304,6 +3368,14 @@
       "word": "五月天嘉宾",
       "onboard_time": 1687098511,
       "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 182716,
+      "num": 182716,
+      "word": "鹿晗荧光棒使用方法",
+      "onboard_time": 1687255590,
+      "rank": 45,
       "category": "音乐"
     },
     {
@@ -3393,6 +3465,14 @@
       "onboard_time": 1687133967,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175651,
+      "num": 175651,
+      "word": "萨摩耶都这么爱看热闹吗",
+      "onboard_time": 1687256252,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 175512,
@@ -3611,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164021,
+      "num": 1138547,
+      "word": "学校摆近千桌饭菜请师生吃席迎端午",
+      "onboard_time": 1687255172,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 163629,
       "num": 163629,
       "word": "是好朋友的周末定档",
@@ -3785,14 +3873,6 @@
       "onboard_time": 1687132106,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150345,
-      "num": 150345,
-      "word": "轰6K 群发短信",
-      "onboard_time": 1687253493,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 149143,
@@ -4080,14 +4160,6 @@
       "word": "这个国家的纸币上印着袁老的杂交水稻",
       "onboard_time": 1687105765,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124211,
-      "num": 559366,
-      "word": "重庆一高校本科毕业生发5篇sci",
-      "onboard_time": 1687252111,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4521,6 +4593,14 @@
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 32671,
+      "num": 663415,
+      "word": "猫咪不慎落水路人合力施救",
+      "onboard_time": 1687255290,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27428,
