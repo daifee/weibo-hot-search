@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687275229632,
+  "endTime": 1687278120689,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -6011,6 +6011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1024870,
+      "num": 1024870,
+      "word": "马伯骞问爱马仕是什么",
+      "onboard_time": 1687275221,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1024603,
       "num": 1024603,
       "word": "降息",
@@ -11091,6 +11099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538418,
+      "num": 538418,
+      "word": "女生自费30万拍作品拒绝领三等奖",
+      "onboard_time": 1687274675,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537916,
       "num": 537916,
       "word": "山东地理 无从下笔",
@@ -15251,6 +15267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363460,
+      "num": 355162,
+      "word": "朋友圈发什么最让你反感",
+      "onboard_time": 1687273655,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363434,
       "num": 363434,
       "word": "就喜欢纯爱",
@@ -17099,6 +17123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324823,
+      "num": 286356,
+      "word": "白敬亭宋轶对戏氛围感",
+      "onboard_time": 1687273475,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324675,
       "num": 324675,
       "word": "古偶四大白发",
@@ -17305,6 +17337,14 @@
       "onboard_time": 1686651149,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320131,
+      "num": 210715,
+      "word": "种地吧 根本补不完",
+      "onboard_time": 1687277612,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 320070,
@@ -18305,6 +18345,14 @@
       "onboard_time": 1685576184,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302052,
+      "num": 217392,
+      "word": "突然摆烂的小熊猫",
+      "onboard_time": 1687275578,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 301987,
@@ -19475,14 +19523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 286356,
-      "num": 286356,
-      "word": "白敬亭宋轶对戏氛围感",
-      "onboard_time": 1687273475,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286351,
       "num": 286351,
       "word": "EDG惜败亚太第一PRX",
@@ -19737,14 +19777,6 @@
       "onboard_time": 1685779347,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282971,
-      "num": 355162,
-      "word": "朋友圈发什么最让你反感",
-      "onboard_time": 1687273655,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 282953,
@@ -20608,14 +20640,6 @@
       "word": "儿童节快乐",
       "onboard_time": 1685575040,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272745,
-      "num": 272745,
-      "word": "女生自费30万拍作品拒绝领三等奖",
-      "onboard_time": 1687274675,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -24835,6 +24859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233215,
+      "num": 257821,
+      "word": "下班4小时都能做些什么",
+      "onboard_time": 1687272817,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233145,
       "num": 231474,
       "word": "是哪个seventeen",
@@ -25257,6 +25289,14 @@
       "onboard_time": 1685764289,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230322,
+      "num": 230322,
+      "word": "毕业季让消费观崩塌",
+      "onboard_time": 1687275280,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 230292,
@@ -28467,14 +28507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 207200,
-      "num": 257821,
-      "word": "下班4小时都能做些什么",
-      "onboard_time": 1687272817,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207075,
       "num": 207075,
       "word": "CCTV6 诛仙",
@@ -28569,6 +28601,14 @@
       "onboard_time": 1685668768,
       "rank": 26,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 206722,
+      "num": 180437,
+      "word": "时代少年团T恤造型",
+      "onboard_time": 1687277016,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206658,
@@ -30097,6 +30137,14 @@
       "onboard_time": 1685798848,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197377,
+      "num": 160579,
+      "word": "鞠婧祎演我背课文",
+      "onboard_time": 1687277434,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 197312,
@@ -38195,6 +38243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149619,
+      "num": 161596,
+      "word": "短短几天被救三次的麋鹿",
+      "onboard_time": 1687277257,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149560,
       "num": 149560,
       "word": "重返未来雷米特杯失窃案",
@@ -42499,6 +42555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118790,
+      "num": 159353,
+      "word": "为什么越来越多应届生回县城考公",
+      "onboard_time": 1687277792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 118769,
       "num": 118769,
       "word": "监控里听到妈妈声音后的小狗",
@@ -43385,6 +43449,14 @@
       "onboard_time": 1687130843,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110106,
+      "num": 159171,
+      "word": "现在的无人机表演真的太帅了",
+      "onboard_time": 1687277257,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109962,
