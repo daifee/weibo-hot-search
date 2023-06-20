@@ -1,0 +1,410 @@
+{
+  "runTime": 1687245338600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1589803,
+        "num": 1589803,
+        "word": "张艺兴工作室公开招聘",
+        "onboard_time": 1687237177,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1416687,
+        "num": 1416687,
+        "word": "吸毒前后真实的变化",
+        "onboard_time": 1687241192,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 89893,
+        "num": 916971,
+        "word": "这些古诗词同样适合送给毕业生",
+        "onboard_time": 1687231650,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817307,
+        "num": 817307,
+        "word": "男子表白失败扔花大喊她是女同",
+        "onboard_time": 1687230989,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801525,
+        "num": 801525,
+        "word": "房贷",
+        "onboard_time": 1687230032,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2810808,
+        "num": 798890,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 747618,
+        "num": 747618,
+        "word": "小鬼往车窗外丢烟头",
+        "onboard_time": 1687233094,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736096,
+        "num": 736096,
+        "word": "阿里集团换帅",
+        "onboard_time": 1687236099,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 518913,
+        "num": 518913,
+        "word": "宋轶回应没唱OST",
+        "onboard_time": 1687233632,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501589,
+        "num": 501589,
+        "word": "李凯尔已获得中国国籍",
+        "onboard_time": 1687231471,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3044338,
+        "num": 481130,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829695,
+        "num": 480946,
+        "word": "医护人员称黄子佼无法开口说话",
+        "onboard_time": 1687235137,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455416,
+        "num": 455416,
+        "word": "逆水寒 开放了生孩子的功能",
+        "onboard_time": 1687244071,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451486,
+        "num": 451486,
+        "word": "网传岳阳一母亲杀死16岁女儿",
+        "onboard_time": 1687232371,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43835,
+        "num": 449465,
+        "word": "61岁煎饼大爷出租屋创作绝美国画",
+        "onboard_time": 1687244428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742910,
+        "num": 449433,
+        "word": "黄子佼出院",
+        "onboard_time": 1687242629,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449220,
+        "num": 449220,
+        "word": "网上很火但是你不懂的梗",
+        "onboard_time": 1687228049,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411588,
+        "num": 411588,
+        "word": "男子造谣冒充女幼师给幼儿喂药被刑拘",
+        "onboard_time": 1687231830,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702319,
+        "num": 409917,
+        "word": "吴宗宪回应黄子佼",
+        "onboard_time": 1687241133,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407060,
+        "num": 407060,
+        "word": "欧阳娜娜的长安第一美人",
+        "onboard_time": 1687244670,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1072983,
+        "num": 407058,
+        "word": "川大再回应地铁偷拍事件",
+        "onboard_time": 1687235679,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582512,
+        "num": 406928,
+        "word": "为什么伴娘一定要未婚才行",
+        "onboard_time": 1687232792,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 482903,
+        "num": 406841,
+        "word": "面试搭子居然是公司副总",
+        "onboard_time": 1687240352,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406725,
+        "num": 406725,
+        "word": "中国26岁女生在马代被酒店管家性侵",
+        "onboard_time": 1687227690,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401303,
+        "num": 401303,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390653,
+        "num": 390653,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341046,
+        "num": 341046,
+        "word": "为什么很少看见男生喝奶茶",
+        "onboard_time": 1687242270,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339978,
+        "num": 339978,
+        "word": "谭松韵回应直角肩",
+        "onboard_time": 1687229669,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 288001,
+        "num": 288001,
+        "word": "100万房贷30年减少2.1万",
+        "onboard_time": 1687239515,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202592,
+        "num": 270168,
+        "word": "我国自研视景系统首次试飞成功",
+        "onboard_time": 1687245089,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263253,
+        "num": 263253,
+        "word": "王一博热烈哭戏",
+        "onboard_time": 1687238614,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260288,
+        "num": 260288,
+        "word": "王雨馨 从未发声声讨过景瑜任何",
+        "onboard_time": 1687225829,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259270,
+        "num": 259270,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687244428,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254178,
+        "num": 254178,
+        "word": "网友吐槽中餐厅7工作人员",
+        "onboard_time": 1687236580,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252851,
+        "num": 252851,
+        "word": "在医院ICU住了四年得多少钱",
+        "onboard_time": 1687244969,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252203,
+        "num": 252203,
+        "word": "孙笑川",
+        "onboard_time": 1687240114,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243095,
+        "num": 243095,
+        "word": "王启年你何德何能",
+        "onboard_time": 1687244309,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234519,
+        "num": 234519,
+        "word": "蔡徐坤新加坡演唱会官宣",
+        "onboard_time": 1687242210,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223766,
+        "num": 223766,
+        "word": "因为一份外卖女朋友要跟我分手",
+        "onboard_time": 1687243469,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213632,
+        "num": 213632,
+        "word": "舍友暗示我别化妆见她朋友",
+        "onboard_time": 1687219470,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211157,
+        "num": 211157,
+        "word": "女生打扮成观音参加期末考试",
+        "onboard_time": 1687245089,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187726,
+        "num": 187726,
+        "word": "原来脂肪肝是可逆的",
+        "onboard_time": 1687243951,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187382,
+        "num": 187382,
+        "word": "妈妈在单位被大声训斥",
+        "onboard_time": 1687220553,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175440,
+        "num": 175440,
+        "word": "黄景瑜说和前任是亲人也是朋友",
+        "onboard_time": 1687216523,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173802,
+        "num": 173802,
+        "word": "官方通报嫌疑人自首时在派出所身亡",
+        "onboard_time": 1687222055,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171265,
+        "num": 171265,
+        "word": "周深好像去学校招聘的企业领导",
+        "onboard_time": 1687241492,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170769,
+        "num": 170769,
+        "word": "小鬼为乱丢烟头道歉",
+        "onboard_time": 1687239153,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170503,
+        "num": 170503,
+        "word": "东大星空投影10787位毕业生名字",
+        "onboard_time": 1687245028,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 166097,
+        "num": 166097,
+        "word": "偷偷藏不住预告",
+        "onboard_time": 1687241012,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153866,
+        "num": 153866,
+        "word": "蔡徐坤演唱会花絮",
+        "onboard_time": 1687235679,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#三北工程绿色奇迹如何发生#"
+    }
+  }
+}
