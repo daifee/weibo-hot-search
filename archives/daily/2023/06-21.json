@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687285192355,
+  "endTime": 1687286011700,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -451,8 +451,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53539,
-      "num": 53179,
+      "raw_hot": 67364,
+      "num": 67364,
       "word": "虞书欣被小男孩夸好漂亮",
       "onboard_time": 1687284798,
       "rank": 42,
@@ -465,6 +465,14 @@
       "onboard_time": 1687263570,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 42158,
+      "num": 44762,
+      "word": "宋亚轩胸肌好明显",
+      "onboard_time": 1687271014,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12289,
