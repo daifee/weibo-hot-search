@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687242167532,
+  "endTime": 1687242951937,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2389223,
-      "num": 1389057,
+      "num": 1459377,
       "word": "医护人员称黄子佼无法开口说话",
       "onboard_time": 1687235137,
       "rank": 15,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1488717,
+      "num": 1488717,
+      "word": "张艺兴工作室公开招聘",
+      "onboard_time": 1687237177,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1472333,
       "num": 1472333,
       "word": "谭松韵回应直角肩",
@@ -155,20 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1360352,
+      "raw_hot": 1417231,
       "num": 660039,
       "word": "川大再回应地铁偷拍事件",
       "onboard_time": 1687235679,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1353861,
-      "num": 1353861,
-      "word": "张艺兴工作室公开招聘",
-      "onboard_time": 1687237177,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1341178,
@@ -307,6 +307,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 709776,
+      "num": 548615,
+      "word": "吴宗宪回应黄子佼",
+      "onboard_time": 1687241133,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703384,
       "num": 703384,
       "word": "庆余年2官宣阵容",
@@ -347,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 609246,
-      "num": 548615,
-      "word": "吴宗宪回应黄子佼",
-      "onboard_time": 1687241133,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 606819,
       "num": 606819,
       "word": "网上很火但是你不懂的梗",
       "onboard_time": 1687228049,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 597788,
+      "num": 532950,
+      "word": "黄子佼出院",
+      "onboard_time": 1687242629,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 569676,
@@ -457,6 +465,14 @@
       "onboard_time": 1687236580,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410435,
+      "num": 410435,
+      "word": "面试搭子居然是公司副总",
+      "onboard_time": 1687240352,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 407403,
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346923,
+      "num": 346923,
+      "word": "蔡徐坤新加坡演唱会官宣",
+      "onboard_time": 1687242210,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 344234,
       "num": 289474,
       "word": "王一博骑电动车",
@@ -587,12 +611,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 335924,
-      "num": 335924,
+      "raw_hot": 336090,
+      "num": 365815,
       "word": "孙笑川",
       "onboard_time": 1687240114,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333296,
+      "num": 333296,
+      "word": "为什么很少看见男生喝奶茶",
+      "onboard_time": 1687242270,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 333071,
@@ -667,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290684,
-      "num": 290684,
-      "word": "面试搭子居然是公司副总",
-      "onboard_time": 1687240352,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288652,
       "num": 288652,
       "word": "熬夜工作vs熬夜看小说",
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279630,
+      "num": 279630,
+      "word": "吸毒前后真实的变化",
+      "onboard_time": 1687241192,
+      "rank": 39,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 278397,
       "num": 278397,
       "word": "桃花坞导演回应孟子义镜头少",
@@ -729,6 +761,14 @@
       "onboard_time": 1687238133,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271721,
+      "num": 271721,
+      "word": "100万房贷30年减少2.1万",
+      "onboard_time": 1687239515,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 271332,
@@ -769,14 +809,6 @@
       "onboard_time": 1687227149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 257938,
-      "num": 257938,
-      "word": "100万房贷30年减少2.1万",
-      "onboard_time": 1687239515,
-      "rank": 28,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 256159,
@@ -865,6 +897,14 @@
       "onboard_time": 1687188339,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242950,
+      "num": 242950,
+      "word": "原来端午节在唐代这么潮",
+      "onboard_time": 1687242210,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240752,
@@ -1075,8 +1115,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 191372,
-      "num": 191372,
+      "raw_hot": 195197,
+      "num": 195197,
       "word": "王一博热烈哭戏",
       "onboard_time": 1687238614,
       "rank": 43,
@@ -1115,8 +1155,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 177751,
-      "num": 177751,
+      "raw_hot": 179606,
+      "num": 179606,
       "word": "周深好像去学校招聘的企业领导",
       "onboard_time": 1687241492,
       "rank": 38,
@@ -1131,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173273,
+      "num": 173273,
+      "word": "现在坐地铁就是单位间实力的较量",
+      "onboard_time": 1687242690,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171811,
       "num": 294525,
       "word": "布林肯结束访华",
@@ -1139,12 +1187,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 170751,
-      "num": 170751,
-      "word": "吸毒前后真实的变化",
-      "onboard_time": 1687241192,
-      "rank": 39,
-      "category": "社会新闻,情感"
+      "raw_hot": 168292,
+      "num": 168292,
+      "word": "25岁女孩做全职儿女每月领4千生活费",
+      "onboard_time": 1687241672,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168271,
@@ -1251,6 +1299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154137,
+      "num": 154137,
+      "word": "吴泳铭出任阿里集团CEO",
+      "onboard_time": 1687241851,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 153813,
       "num": 153813,
       "word": "两只失明小猫独特又可爱的交流方式",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1687239515,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153707,
-      "num": 153707,
-      "word": "吴泳铭出任阿里集团CEO",
-      "onboard_time": 1687241851,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 151498,
@@ -1387,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102826,
+      "num": 293748,
+      "word": "百岁抗美援朝老战士再唱志愿军战歌",
+      "onboard_time": 1687242390,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97549,
       "num": 90049,
       "word": "余景天新男团OneNEleven",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1687213936,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79793,
+      "num": 590361,
+      "word": "父子双双被困金沙江路人出手相救",
+      "onboard_time": 1687240895,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76441,
@@ -1497,14 +1561,6 @@
       "onboard_time": 1687180837,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49157,
-      "num": 590361,
-      "word": "父子双双被困金沙江路人出手相救",
-      "onboard_time": 1687240895,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46089,
