@@ -1,0 +1,410 @@
+{
+  "runTime": 1687264504764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833165,
+        "num": 1833165,
+        "word": "偷偷藏不住受众群体",
+        "onboard_time": 1687259429,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1734551,
+        "num": 1734551,
+        "word": "关闭朋友圈半年后的变化",
+        "onboard_time": 1687261291,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 49322,
+        "num": 1636935,
+        "word": "他们是战巡南海绕岛巡航的空中铁拳",
+        "onboard_time": 1687248152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558779,
+        "num": 1558779,
+        "word": "霍启刚患上睡眠窒息症",
+        "onboard_time": 1687261829,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208275,
+        "num": 1208275,
+        "word": "肚子瘦不下来的真正原因",
+        "onboard_time": 1687260753,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908919,
+        "num": 908919,
+        "word": "陈情令",
+        "onboard_time": 1687245751,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 809086,
+        "num": 809086,
+        "word": "金晨的嘴怎么了",
+        "onboard_time": 1687251091,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 737045,
+        "num": 737045,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 733307,
+        "num": 733307,
+        "word": "内蒙古新井煤矿事故失联者全部遇难",
+        "onboard_time": 1687263271,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717970,
+        "num": 717970,
+        "word": "宋轶素颜照",
+        "onboard_time": 1687251333,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1571699,
+        "num": 707450,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1513235,
+        "num": 703917,
+        "word": "已经be但又很火的cp",
+        "onboard_time": 1687257453,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 689338,
+        "num": 689338,
+        "word": "官方回应公职人员吸毒被查后仍在岗",
+        "onboard_time": 1687258053,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625686,
+        "num": 625686,
+        "word": "爱尔眼科王勇不接受艾芬道歉",
+        "onboard_time": 1687259790,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73891,
+        "num": 611506,
+        "word": "高铁为带娃乘客暖心提供哄睡神器",
+        "onboard_time": 1687262432,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604130,
+        "num": 604130,
+        "word": "S家的拖鞋之谜",
+        "onboard_time": 1687251934,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542435,
+        "num": 542435,
+        "word": "孙笑川辟谣去世",
+        "onboard_time": 1687253074,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 507684,
+        "num": 507684,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498948,
+        "num": 498948,
+        "word": "杨幂撑伞",
+        "onboard_time": 1687249772,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465463,
+        "num": 465463,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 376865,
+        "num": 376865,
+        "word": "同事说全款买房的人是傻子",
+        "onboard_time": 1687249233,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355651,
+        "num": 355651,
+        "word": "欧阳娜娜的长安第一美人",
+        "onboard_time": 1687244670,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346677,
+        "num": 346677,
+        "word": "炎亚纶评论了崔秀彬ins",
+        "onboard_time": 1687250011,
+        "rank": 22,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 332526,
+        "num": 332526,
+        "word": "在医院ICU住了四年得多少钱",
+        "onboard_time": 1687244969,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287217,
+        "num": 287217,
+        "word": "我国个人住房贷款余额38.94万亿元",
+        "onboard_time": 1687259192,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 296448,
+        "num": 286045,
+        "word": "今晚看这三部剧",
+        "onboard_time": 1687259308,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268617,
+        "num": 268617,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687244428,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246580,
+        "num": 246580,
+        "word": "没有不喜欢妈妈但却无法交流",
+        "onboard_time": 1687263029,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233271,
+        "num": 233271,
+        "word": "吴宗宪 这辈子最痛恨吸毒的人",
+        "onboard_time": 1687249533,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 230865,
+        "num": 230865,
+        "word": "马伯骞偷偷藏不住演技",
+        "onboard_time": 1687250672,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299069,
+        "num": 230624,
+        "word": "迪士尼回应暴雨天能否退票",
+        "onboard_time": 1687263570,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 219183,
+        "num": 219183,
+        "word": "难哄",
+        "onboard_time": 1687263331,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218457,
+        "num": 218457,
+        "word": "秦岚腰臀比",
+        "onboard_time": 1687246531,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215519,
+        "num": 215519,
+        "word": "吸毒前后真实的变化",
+        "onboard_time": 1687241192,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 208968,
+        "num": 208968,
+        "word": "这就是猫咪怪兽吧",
+        "onboard_time": 1687263510,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198448,
+        "num": 198448,
+        "word": "再见了迪丽热巴安旎",
+        "onboard_time": 1687259611,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181251,
+        "num": 181251,
+        "word": "马伯骞这段不像演的",
+        "onboard_time": 1687264229,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169537,
+        "num": 169537,
+        "word": "南洋女儿情",
+        "onboard_time": 1687262672,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162298,
+        "num": 162298,
+        "word": "张雪峰名场面",
+        "onboard_time": 1687262854,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153437,
+        "num": 153437,
+        "word": "UP战胜RA",
+        "onboard_time": 1687263151,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167919,
+        "num": 150798,
+        "word": "王鹤棣手机壳后面塞红包",
+        "onboard_time": 1687264112,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160999,
+        "num": 150047,
+        "word": "中餐厅7",
+        "onboard_time": 1687261712,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140777,
+        "num": 140777,
+        "word": "王一博代表作投票",
+        "onboard_time": 1687256790,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138451,
+        "num": 138451,
+        "word": "EDG惜败亚太第一PRX",
+        "onboard_time": 1687257332,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136550,
+        "num": 136550,
+        "word": "桑延变成搞笑男",
+        "onboard_time": 1687258832,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135390,
+        "num": 135390,
+        "word": "喻言护照被狗咬了",
+        "onboard_time": 1687256011,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 127844,
+        "word": "比亚迪",
+        "onboard_time": 1687260150,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 110118,
+        "num": 127838,
+        "word": "男子表白失败扔花大喊她是女同",
+        "onboard_time": 1687230989,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89286,
+        "num": 127834,
+        "word": "温州男子发给好友63部淫秽视频后自首",
+        "onboard_time": 1687248632,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87367,
+        "num": 127828,
+        "word": "今起恢复台湾地区番荔枝输入大陆",
+        "onboard_time": 1687264470,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}

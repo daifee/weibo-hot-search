@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687260832338,
+  "endTime": 1687264504764,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2243,6 +2243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1833165,
+      "num": 1833165,
+      "word": "偷偷藏不住受众群体",
+      "onboard_time": 1687259429,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1827953,
       "num": 1827953,
       "word": "明星谴责虐待动物者却遭曝光个人信息",
@@ -2473,6 +2481,14 @@
       "onboard_time": 1687065387,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1734551,
+      "num": 1734551,
+      "word": "关闭朋友圈半年后的变化",
+      "onboard_time": 1687261291,
+      "rank": 1,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1725306,
@@ -3051,6 +3067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1558779,
+      "num": 1558779,
+      "word": "霍启刚患上睡眠窒息症",
+      "onboard_time": 1687261829,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1685871806,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1513235,
+      "num": 717586,
+      "word": "已经be但又很火的cp",
+      "onboard_time": 1687257453,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1512658,
@@ -4648,6 +4680,14 @@
       "word": "老人突发脑梗发现医生隐瞒未植入支架",
       "onboard_time": 1686357086,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1208275,
+      "num": 1208275,
+      "word": "肚子瘦不下来的真正原因",
+      "onboard_time": 1687260753,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -7579,14 +7619,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 826560,
-      "num": 717586,
-      "word": "已经be但又很火的cp",
-      "onboard_time": 1687257453,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 826537,
       "num": 826537,
       "word": "多次感染对身体的危害有多大",
@@ -8625,6 +8657,14 @@
       "onboard_time": 1686794367,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 733307,
+      "num": 733307,
+      "word": "内蒙古新井煤矿事故失联者全部遇难",
+      "onboard_time": 1687263271,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732991,
@@ -9817,6 +9857,14 @@
       "onboard_time": 1686978874,
       "rank": 42,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 625686,
+      "num": 625686,
+      "word": "爱尔眼科王勇不接受艾芬道歉",
+      "onboard_time": 1687259790,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625449,
@@ -12289,14 +12337,6 @@
       "onboard_time": 1685694510,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461841,
-      "num": 308116,
-      "word": "偷偷藏不住受众群体",
-      "onboard_time": 1687259429,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 461809,
@@ -18283,6 +18323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299069,
+      "num": 230624,
+      "word": "迪士尼回应暴雨天能否退票",
+      "onboard_time": 1687263570,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 298999,
       "num": 298999,
       "word": "王祖贤齐秦庾澄庆早期合照",
@@ -19137,6 +19185,14 @@
       "onboard_time": 1686499888,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287217,
+      "num": 287217,
+      "word": "我国个人住房贷款余额38.94万亿元",
+      "onboard_time": 1687259192,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 287121,
@@ -20857,14 +20913,6 @@
       "onboard_time": 1686708987,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266085,
-      "num": 266085,
-      "word": "爱尔眼科王勇不接受艾芬道歉",
-      "onboard_time": 1687259790,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265961,
@@ -22977,6 +23025,14 @@
       "onboard_time": 1686279271,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246580,
+      "num": 246580,
+      "word": "没有不喜欢妈妈但却无法交流",
+      "onboard_time": 1687263029,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 246468,
@@ -27915,6 +27971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208968,
+      "num": 208968,
+      "word": "这就是猫咪怪兽吧",
+      "onboard_time": 1687263510,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208947,
       "num": 208947,
       "word": "肖战演技",
@@ -28361,14 +28425,6 @@
       "onboard_time": 1686446546,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205543,
-      "num": 205543,
-      "word": "我国个人住房贷款余额38.94万亿元",
-      "onboard_time": 1687259192,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 205485,
@@ -32835,6 +32891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181251,
+      "num": 181251,
+      "word": "马伯骞这段不像演的",
+      "onboard_time": 1687264229,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181238,
       "num": 181238,
       "word": "到底谁在喜欢黄旭熙",
@@ -34539,6 +34603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169537,
+      "num": 169537,
+      "word": "南洋女儿情",
+      "onboard_time": 1687262672,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169534,
       "num": 169534,
       "word": "吴京听到沈腾要演章子怡老公反应",
@@ -34793,6 +34865,14 @@
       "onboard_time": 1686154289,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167919,
+      "num": 150798,
+      "word": "王鹤棣手机壳后面塞红包",
+      "onboard_time": 1687264112,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167802,
@@ -35755,6 +35835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162298,
+      "num": 162298,
+      "word": "张雪峰名场面",
+      "onboard_time": 1687262854,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162256,
       "num": 162256,
       "word": "杨紫最近好多封面",
@@ -35929,6 +36017,14 @@
       "onboard_time": 1686377307,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160999,
+      "num": 150047,
+      "word": "中餐厅7",
+      "onboard_time": 1687261712,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 160973,
@@ -37121,6 +37217,14 @@
       "onboard_time": 1686624566,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153437,
+      "num": 153437,
+      "word": "UP战胜RA",
+      "onboard_time": 1687263151,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 153403,
@@ -44419,6 +44523,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 87367,
+      "num": 127828,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87171,
       "num": 79299,
       "word": "超九成投票网友赞成取消调休",
@@ -45079,6 +45191,14 @@
       "num": 611426,
       "word": "高考考生两天两次获民警救助",
       "onboard_time": 1686208413,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73891,
+      "num": 611506,
+      "word": "高铁为带娃乘客暖心提供哄睡神器",
+      "onboard_time": 1687262432,
       "rank": 14,
       "category": "社会新闻"
     },

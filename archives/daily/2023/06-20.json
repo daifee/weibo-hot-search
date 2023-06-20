@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687260832338,
+  "endTime": 1687264504764,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1833165,
+      "num": 1833165,
+      "word": "偷偷藏不住受众群体",
+      "onboard_time": 1687259429,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1809194,
       "num": 1809194,
       "word": "房贷",
@@ -161,6 +169,14 @@
       "onboard_time": 1687249533,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1734551,
+      "num": 1734551,
+      "word": "关闭朋友圈半年后的变化",
+      "onboard_time": 1687261291,
+      "rank": 1,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1722551,
@@ -195,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1558779,
+      "num": 1558779,
+      "word": "霍启刚患上睡眠窒息症",
+      "onboard_time": 1687261829,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1533112,
       "num": 1533112,
       "word": "阿里集团换帅",
       "onboard_time": 1687236099,
       "rank": 7,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1513235,
+      "num": 717586,
+      "word": "已经be但又很火的cp",
+      "onboard_time": 1687257453,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1508617,
@@ -256,6 +288,14 @@
       "word": "在医院ICU住了四年得多少钱",
       "onboard_time": 1687244969,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1208275,
+      "num": 1208275,
+      "word": "肚子瘦不下来的真正原因",
+      "onboard_time": 1687260753,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -411,14 +451,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 826560,
-      "num": 717586,
-      "word": "已经be但又很火的cp",
-      "onboard_time": 1687257453,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 822136,
       "num": 822136,
       "word": "孙笑川辟谣去世",
@@ -465,6 +497,14 @@
       "onboard_time": 1687190916,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733307,
+      "num": 733307,
+      "word": "内蒙古新井煤矿事故失联者全部遇难",
+      "onboard_time": 1687263271,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712931,
@@ -537,6 +577,14 @@
       "onboard_time": 1687233632,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 625686,
+      "num": 625686,
+      "word": "爱尔眼科王勇不接受艾芬道歉",
+      "onboard_time": 1687259790,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606819,
@@ -649,14 +697,6 @@
       "onboard_time": 1687240352,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 461841,
-      "num": 308116,
-      "word": "偷偷藏不住受众群体",
-      "onboard_time": 1687259429,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 460130,
@@ -995,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299069,
+      "num": 230624,
+      "word": "迪士尼回应暴雨天能否退票",
+      "onboard_time": 1687263570,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 297613,
       "num": 276111,
       "word": "伊能静陪儿子逛街",
@@ -1032,6 +1080,14 @@
       "word": "100万房贷30年减少2.1万",
       "onboard_time": 1687239515,
       "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 287217,
+      "num": 287217,
+      "word": "我国个人住房贷款余额38.94万亿元",
+      "onboard_time": 1687259192,
+      "rank": 46,
       "category": "财经,社会新闻"
     },
     {
@@ -1129,14 +1185,6 @@
       "onboard_time": 1687234957,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266085,
-      "num": 266085,
-      "word": "爱尔眼科王勇不接受艾芬道歉",
-      "onboard_time": 1687259790,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264299,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1687219773,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246580,
+      "num": 246580,
+      "word": "没有不喜欢妈妈但却无法交流",
+      "onboard_time": 1687263029,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 246467,
@@ -1451,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219183,
+      "num": 219183,
+      "word": "难哄",
+      "onboard_time": 1687263331,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216129,
       "num": 216129,
       "word": "终于懂边放水边加水的数学题了",
@@ -1491,20 +1555,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208968,
+      "num": 208968,
+      "word": "这就是猫咪怪兽吧",
+      "onboard_time": 1687263510,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208215,
       "num": 208215,
       "word": "戚薇 不敢着职业装上下班了",
       "onboard_time": 1687246171,
       "rank": 48,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 205543,
-      "num": 205543,
-      "word": "我国个人住房贷款余额38.94万亿元",
-      "onboard_time": 1687259192,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 204550,
@@ -1731,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181251,
+      "num": 181251,
+      "word": "马伯骞这段不像演的",
+      "onboard_time": 1687264229,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180242,
       "num": 180242,
       "word": "全国3072所高校全名单",
@@ -1835,12 +1907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169537,
+      "num": 169537,
+      "word": "南洋女儿情",
+      "onboard_time": 1687262672,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168292,
       "num": 168292,
       "word": "25岁女孩做全职儿女每月领4千生活费",
       "onboard_time": 1687241672,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167919,
+      "num": 150798,
+      "word": "王鹤棣手机壳后面塞红包",
+      "onboard_time": 1687264112,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167419,
@@ -1939,6 +2027,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162298,
+      "num": 162298,
+      "word": "张雪峰名场面",
+      "onboard_time": 1687262854,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160999,
+      "num": 150047,
+      "word": "中餐厅7",
+      "onboard_time": 1687261712,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160803,
       "num": 160803,
       "word": "对经济复苏要有信心更要多些耐心",
@@ -2017,6 +2121,14 @@
       "onboard_time": 1687248214,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 153437,
+      "num": 153437,
+      "word": "UP战胜RA",
+      "onboard_time": 1687263151,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 153356,
@@ -2211,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87367,
+      "num": 127828,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79793,
       "num": 590361,
       "word": "父子双双被困金沙江路人出手相救",
@@ -2225,6 +2345,14 @@
       "onboard_time": 1687213577,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73891,
+      "num": 611506,
+      "word": "高铁为带娃乘客暖心提供哄睡神器",
+      "onboard_time": 1687262432,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73597,

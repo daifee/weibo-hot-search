@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687260832338,
+  "endTime": 1687264504764,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1833165,
+      "num": 1833165,
+      "word": "偷偷藏不住受众群体",
+      "onboard_time": 1687259429,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1809194,
       "num": 1809194,
       "word": "房贷",
@@ -377,6 +385,14 @@
       "onboard_time": 1687157744,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1734551,
+      "num": 1734551,
+      "word": "关闭朋友圈半年后的变化",
+      "onboard_time": 1687261291,
+      "rank": 1,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 1722551,
@@ -435,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1558779,
+      "num": 1558779,
+      "word": "霍启刚患上睡眠窒息症",
+      "onboard_time": 1687261829,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1535967,
       "num": 475862,
       "word": "世纪大和解是演的吗",
@@ -449,6 +473,14 @@
       "onboard_time": 1687236099,
       "rank": 7,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1513235,
+      "num": 717586,
+      "word": "已经be但又很火的cp",
+      "onboard_time": 1687257453,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1508617,
@@ -593,6 +625,14 @@
       "onboard_time": 1687167463,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1208275,
+      "num": 1208275,
+      "word": "肚子瘦不下来的真正原因",
+      "onboard_time": 1687260753,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1199875,
@@ -939,14 +979,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 826560,
-      "num": 717586,
-      "word": "已经be但又很火的cp",
-      "onboard_time": 1687257453,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 822136,
       "num": 822136,
       "word": "孙笑川辟谣去世",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1687190916,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733307,
+      "num": 733307,
+      "word": "内蒙古新井煤矿事故失联者全部遇难",
+      "onboard_time": 1687263271,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 721825,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1687170461,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 625686,
+      "num": 625686,
+      "word": "爱尔眼科王勇不接受艾芬道歉",
+      "onboard_time": 1687259790,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621210,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1687151850,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 461841,
-      "num": 308116,
-      "word": "偷偷藏不住受众群体",
-      "onboard_time": 1687259429,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 460130,
@@ -2099,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299069,
+      "num": 230624,
+      "word": "迪士尼回应暴雨天能否退票",
+      "onboard_time": 1687263570,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 295646,
       "num": 281676,
       "word": "桑延变成搞笑男",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1687188339,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287217,
+      "num": 287217,
+      "word": "我国个人住房贷款余额38.94万亿元",
+      "onboard_time": 1687259192,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 286351,
@@ -2385,14 +2441,6 @@
       "onboard_time": 1687136430,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266085,
-      "num": 266085,
-      "word": "爱尔眼科王勇不接受艾芬道歉",
-      "onboard_time": 1687259790,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264299,
@@ -2624,6 +2672,14 @@
       "word": "苏州下雨",
       "onboard_time": 1687180060,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 246580,
+      "num": 246580,
+      "word": "没有不喜欢妈妈但却无法交流",
+      "onboard_time": 1687263029,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -2955,6 +3011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219183,
+      "num": 219183,
+      "word": "难哄",
+      "onboard_time": 1687263331,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218296,
       "num": 218296,
       "word": "雨刮器和方向盘在忙什么",
@@ -3075,6 +3139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208968,
+      "num": 208968,
+      "word": "这就是猫咪怪兽吧",
+      "onboard_time": 1687263510,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208266,
       "num": 208266,
       "word": "小猫的床有点过于豪华了",
@@ -3097,14 +3169,6 @@
       "onboard_time": 1687139427,
       "rank": 29,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 205543,
-      "num": 205543,
-      "word": "我国个人住房贷款余额38.94万亿元",
-      "onboard_time": 1687259192,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 205315,
@@ -3507,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181251,
+      "num": 181251,
+      "word": "马伯骞这段不像演的",
+      "onboard_time": 1687264229,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180242,
       "num": 180242,
       "word": "全国3072所高校全名单",
@@ -3739,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169537,
+      "num": 169537,
+      "word": "南洋女儿情",
+      "onboard_time": 1687262672,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169212,
       "num": 170351,
       "word": "塞尔达地图",
@@ -3753,6 +3833,14 @@
       "onboard_time": 1687241672,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167919,
+      "num": 150798,
+      "word": "王鹤棣手机壳后面塞红包",
+      "onboard_time": 1687264112,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167419,
@@ -3875,12 +3963,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162298,
+      "num": 162298,
+      "word": "张雪峰名场面",
+      "onboard_time": 1687262854,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161490,
       "num": 161490,
       "word": "绘图寻亲男子一有空就去看妈妈",
       "onboard_time": 1687159791,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160999,
+      "num": 150047,
+      "word": "中餐厅7",
+      "onboard_time": 1687261712,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 160803,
@@ -3985,6 +4089,14 @@
       "onboard_time": 1687248214,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 153437,
+      "num": 153437,
+      "word": "UP战胜RA",
+      "onboard_time": 1687263151,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 153356,
@@ -4507,6 +4619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87367,
+      "num": 127828,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83345,
       "num": 120886,
       "word": "男子以身试险提醒别下黄河游泳",
@@ -4553,6 +4673,14 @@
       "onboard_time": 1687213577,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73891,
+      "num": 611506,
+      "word": "高铁为带娃乘客暖心提供哄睡神器",
+      "onboard_time": 1687262432,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73597,
