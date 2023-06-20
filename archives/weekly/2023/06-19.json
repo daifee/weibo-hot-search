@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687238182317,
+  "endTime": 1687239219549,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2389223,
+      "num": 1389057,
+      "word": "医护人员称黄子佼无法开口说话",
+      "onboard_time": 1687235137,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2381307,
       "num": 718882,
       "word": "大小S经纪人否认黄子佼指控",
@@ -291,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2033744,
-      "num": 1235230,
-      "word": "医护人员称黄子佼无法开口说话",
-      "onboard_time": 1687235137,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1973649,
       "num": 1643388,
       "word": "小鬼往车窗外丢烟头",
@@ -369,6 +369,14 @@
       "onboard_time": 1687181860,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1533112,
+      "num": 1533112,
+      "word": "阿里集团换帅",
+      "onboard_time": 1687236099,
+      "rank": 7,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1508617,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 1298895,
-      "num": 641935,
+      "num": 660039,
       "word": "川大再回应地铁偷拍事件",
       "onboard_time": 1687235679,
       "rank": 12,
@@ -513,14 +521,6 @@
       "onboard_time": 1687222055,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1183729,
-      "num": 1183729,
-      "word": "阿里集团换帅",
-      "onboard_time": 1687236099,
-      "rank": 7,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1162999,
@@ -963,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 631853,
+      "num": 631853,
+      "word": "宋轶回应没唱OST",
+      "onboard_time": 1687233632,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 630791,
       "num": 630791,
       "word": "清华大学vs广东工大",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1687228049,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 588941,
-      "num": 588941,
-      "word": "宋轶回应没唱OST",
-      "onboard_time": 1687233632,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 577141,
@@ -1075,20 +1075,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524475,
+      "num": 499096,
+      "word": "妈妈在单位被大声训斥",
+      "onboard_time": 1687220553,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 523462,
       "num": 523462,
       "word": "国泰航空将在内地招聘机舱服务员",
       "onboard_time": 1687150171,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520801,
-      "num": 499096,
-      "word": "妈妈在单位被大声训斥",
-      "onboard_time": 1687220553,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 520395,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1687151850,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 457960,
+      "num": 396843,
+      "word": "张艺兴工作室公开招聘",
+      "onboard_time": 1687237177,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 455495,
@@ -1643,20 +1651,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326369,
-      "num": 326369,
-      "word": "张艺兴工作室公开招聘",
-      "onboard_time": 1687237177,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324331,
       "num": 241721,
       "word": "偷偷藏不住连更10天",
       "onboard_time": 1687159308,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324047,
+      "num": 324047,
+      "word": "男子当爹后满眼全是妻子",
+      "onboard_time": 1687238914,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 322310,
+      "num": 322310,
+      "word": "律师称黄子佼或将免受处罚",
+      "onboard_time": 1687238554,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 321595,
@@ -1907,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272375,
+      "num": 272375,
+      "word": "肖战为肖春生设计小动作",
+      "onboard_time": 1687238133,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272372,
       "num": 193365,
       "word": "陷入我们的热恋",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1687179219,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254708,
+      "num": 254708,
+      "word": "长风渡热度",
+      "onboard_time": 1687237237,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 254401,
@@ -2283,14 +2315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233867,
-      "num": 233867,
-      "word": "长风渡热度",
-      "onboard_time": 1687237237,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233508,
       "num": 233508,
       "word": "肖春生对贺红玲真的只是一种情绪",
@@ -2377,6 +2401,14 @@
       "onboard_time": 1687225531,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 220765,
+      "num": 220765,
+      "word": "淄博书法大师3万字微楷被女子划破",
+      "onboard_time": 1687238675,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220388,
@@ -2497,14 +2529,6 @@
       "onboard_time": 1687095030,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209324,
-      "num": 209324,
-      "word": "肖战为肖春生设计小动作",
-      "onboard_time": 1687238133,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 208266,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1687182461,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191372,
+      "num": 191372,
+      "word": "王一博热烈哭戏",
+      "onboard_time": 1687238614,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 190957,
@@ -2977,6 +3009,14 @@
       "onboard_time": 1687139907,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168271,
+      "num": 168271,
+      "word": "小鬼为乱丢烟头道歉",
+      "onboard_time": 1687239153,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 167419,

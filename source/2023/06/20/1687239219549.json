@@ -1,0 +1,410 @@
+{
+  "runTime": 1687239219549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2220649,
+        "num": 2220649,
+        "word": "男子造谣冒充女幼师给幼儿喂药被刑拘",
+        "onboard_time": 1687231830,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533112,
+        "num": 1533112,
+        "word": "阿里集团换帅",
+        "onboard_time": 1687236099,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 120332,
+        "num": 1390419,
+        "word": "这些古诗词同样适合送给毕业生",
+        "onboard_time": 1687231650,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2389223,
+        "num": 1389057,
+        "word": "医护人员称黄子佼无法开口说话",
+        "onboard_time": 1687235137,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1387646,
+        "num": 1387646,
+        "word": "小鬼往车窗外丢烟头",
+        "onboard_time": 1687233094,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1223451,
+        "num": 1223451,
+        "word": "房贷",
+        "onboard_time": 1687230032,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1026939,
+        "num": 1026939,
+        "word": "谭松韵回应直角肩",
+        "onboard_time": 1687229669,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 957253,
+        "num": 957253,
+        "word": "中国26岁女生在马代被酒店管家性侵",
+        "onboard_time": 1687227690,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716545,
+        "num": 716545,
+        "word": "网传岳阳一母亲杀死16岁女儿",
+        "onboard_time": 1687232371,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682702,
+        "num": 682702,
+        "word": "李凯尔已获得中国国籍",
+        "onboard_time": 1687231471,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4046002,
+        "num": 673517,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1093753,
+        "num": 669774,
+        "word": "黄子佼爱徒Lulu发声",
+        "onboard_time": 1687226730,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033303,
+        "num": 660039,
+        "word": "川大再回应地铁偷拍事件",
+        "onboard_time": 1687235679,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956186,
+        "num": 648560,
+        "word": "王雨馨 从未发声声讨过景瑜任何",
+        "onboard_time": 1687225829,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905551,
+        "num": 637609,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631853,
+        "num": 631853,
+        "word": "宋轶回应没唱OST",
+        "onboard_time": 1687233632,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535761,
+        "num": 535761,
+        "word": "网上很火但是你不懂的梗",
+        "onboard_time": 1687228049,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504949,
+        "num": 504949,
+        "word": "黄景瑜说和前任是亲人也是朋友",
+        "onboard_time": 1687216523,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496622,
+        "num": 496622,
+        "word": "白鹿请助理看五月天演唱会",
+        "onboard_time": 1687219953,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 431772,
+        "num": 431772,
+        "word": "男子表白失败扔花大喊她是女同",
+        "onboard_time": 1687230989,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643548,
+        "num": 422636,
+        "word": "为什么伴娘一定要未婚才行",
+        "onboard_time": 1687232792,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 524475,
+        "num": 411044,
+        "word": "妈妈在单位被大声训斥",
+        "onboard_time": 1687220553,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457960,
+        "num": 396843,
+        "word": "张艺兴工作室公开招聘",
+        "onboard_time": 1687237177,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364047,
+        "num": 364047,
+        "word": "网友吐槽中餐厅7工作人员",
+        "onboard_time": 1687236580,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330203,
+        "num": 330203,
+        "word": "官方通报嫌疑人自首时在派出所身亡",
+        "onboard_time": 1687222055,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349385,
+        "num": 328498,
+        "word": "折腰男主人设",
+        "onboard_time": 1687234355,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336305,
+        "num": 327936,
+        "word": "蔡徐坤评论区回复粉丝",
+        "onboard_time": 1687187205,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 324047,
+        "num": 324047,
+        "word": "男子当爹后满眼全是妻子",
+        "onboard_time": 1687238914,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 322310,
+        "num": 322310,
+        "word": "律师称黄子佼或将免受处罚",
+        "onboard_time": 1687238554,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157504,
+        "num": 319944,
+        "word": "高考查分遇上端午假期",
+        "onboard_time": 1687220492,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 318663,
+        "num": 318663,
+        "word": "蔡徐坤演唱会花絮",
+        "onboard_time": 1687235679,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272375,
+        "num": 272375,
+        "word": "肖战为肖春生设计小动作",
+        "onboard_time": 1687238133,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264192,
+        "num": 264192,
+        "word": "真正的离职都是不打招呼的",
+        "onboard_time": 1687236878,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261876,
+        "num": 261876,
+        "word": "桃花坞导演回应孟子义镜头少",
+        "onboard_time": 1687236459,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258038,
+        "num": 258038,
+        "word": "舍友暗示我别化妆见她朋友",
+        "onboard_time": 1687219470,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254708,
+        "num": 254708,
+        "word": "长风渡热度",
+        "onboard_time": 1687237237,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236181,
+        "num": 236181,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220765,
+        "num": 220765,
+        "word": "淄博书法大师3万字微楷被女子划破",
+        "onboard_time": 1687238675,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214622,
+        "num": 214622,
+        "word": "当你的闺蜜当了小学老师",
+        "onboard_time": 1687236037,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197856,
+        "num": 197856,
+        "word": "门诊的药袋都开始内卷了",
+        "onboard_time": 1687218082,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204710,
+        "num": 197372,
+        "word": "潘粤明新剧真的瘦了",
+        "onboard_time": 1687234957,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196846,
+        "num": 196846,
+        "word": "蔡崇信任阿里巴巴董事会主席",
+        "onboard_time": 1687237958,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 746927,
+        "num": 196485,
+        "word": "张歆艺 不是所有演艺界的人都是坏人",
+        "onboard_time": 1687221455,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191372,
+        "num": 191372,
+        "word": "王一博热烈哭戏",
+        "onboard_time": 1687238614,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181704,
+        "num": 181704,
+        "word": "王者荣耀宝格丽联名皮肤",
+        "onboard_time": 1687229012,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174286,
+        "num": 174286,
+        "word": "庆余年2官宣毛晓彤",
+        "onboard_time": 1687190916,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173759,
+        "num": 173759,
+        "word": "小红书回应女幼师疑给幼儿喂避孕药",
+        "onboard_time": 1687219531,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 171963,
+        "num": 171963,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1687237472,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170104,
+        "num": 170104,
+        "word": "老板为了我班都不上了",
+        "onboard_time": 1687238133,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 168271,
+        "word": "小鬼为乱丢烟头道歉",
+        "onboard_time": 1687239153,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 13:16:22
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 13:33:39
 </p>
 </blockquote>
 <p>
@@ -825,6 +825,12 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
+医护人员称黄子佼无法开口说话（热度：2389223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B0%8FS%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%90%A6%E8%AE%A4%E9%BB%84%E5%AD%90%E4%BD%BC%E6%8C%87%E6%8E%A7%23" target="weibo">
 大小S经纪人否认黄子佼指控（热度：2381307）
 </a>
@@ -1301,12 +1307,6 @@ Uzi哭了（热度：2079978）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E9%BD%90%E5%96%8AChina%E6%8A%97%E8%AE%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%B6%89%E6%B8%AF%E5%8F%B0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23" target="weibo">
 粉丝齐喊China抗议主持人涉港台不当言论（热度：2036378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
-医护人员称黄子佼无法开口说话（热度：2033744）
 </a>
 </li>
 
@@ -2309,6 +2309,12 @@ EXO确定于7月10日回归（热度：1552990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%BA%AA%E5%A4%A7%E5%92%8C%E8%A7%A3%E6%98%AF%E6%BC%94%E7%9A%84%E5%90%97%23" target="weibo">
 世纪大和解是演的吗（热度：1535967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23" target="weibo">
+阿里集团换帅（热度：1533112）
 </a>
 </li>
 
@@ -3551,12 +3557,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%BB%BC%E4%B9%99%E5%8D%B7%20%E5%86%99%E4%B8%8D%E5%AE%8C%23" target="weibo">
 文综乙卷 写不完（热度：1183861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23" target="weibo">
-阿里集团换帅（热度：1183729）
 </a>
 </li>
 
