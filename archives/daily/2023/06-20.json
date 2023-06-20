@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687249279780,
+  "endTime": 1687250039356,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2810808,
-      "num": 1092699,
+      "num": 1159541,
       "word": "台警方称不会侦办大小S被控吸毒",
       "onboard_time": 1687243951,
       "rank": 5,
@@ -137,6 +137,14 @@
       "onboard_time": 1687152391,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1743982,
+      "num": 617569,
+      "word": "吴宗宪 这辈子最痛恨吸毒的人",
+      "onboard_time": 1687249533,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1722551,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1183746,
+      "num": 1183746,
+      "word": "在医院ICU住了四年得多少钱",
+      "onboard_time": 1687244969,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1160250,
       "num": 938919,
       "word": "王雨馨 从未发声声讨过景瑜任何",
@@ -275,8 +291,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 999879,
-      "num": 999879,
+      "raw_hot": 1012806,
+      "num": 1012806,
       "word": "秦岚腰臀比",
       "onboard_time": 1687246531,
       "rank": 6,
@@ -323,6 +339,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 829366,
+      "num": 614235,
+      "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
+      "onboard_time": 1687246891,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829175,
       "num": 829175,
       "word": "马云指出淘宝天猫未来三个方向",
@@ -336,14 +360,6 @@
       "word": "男子表白失败扔花大喊她是女同",
       "onboard_time": 1687230989,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770635,
-      "num": 770635,
-      "word": "在医院ICU住了四年得多少钱",
-      "onboard_time": 1687244969,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -377,14 +393,6 @@
       "onboard_time": 1687185043,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 712345,
-      "num": 609257,
-      "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
-      "onboard_time": 1687246891,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 709776,
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 633141,
+      "num": 633141,
+      "word": "高圆圆贾静雯双生封面大片",
+      "onboard_time": 1687245812,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 631853,
       "num": 631853,
       "word": "宋轶回应没唱OST",
@@ -435,20 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 615997,
-      "num": 615997,
-      "word": "高圆圆贾静雯双生封面大片",
-      "onboard_time": 1687245812,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 606819,
       "num": 606819,
       "word": "网上很火但是你不懂的梗",
       "onboard_time": 1687228049,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 582010,
+      "num": 582010,
+      "word": "心疼桑稚",
+      "onboard_time": 1687246770,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 569676,
@@ -465,14 +481,6 @@
       "onboard_time": 1687171660,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546691,
-      "num": 546691,
-      "word": "心疼桑稚",
-      "onboard_time": 1687246770,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 543490,
@@ -523,20 +531,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457283,
+      "num": 457283,
+      "word": "宋轶扛剧能力",
+      "onboard_time": 1687246832,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443407,
       "num": 338599,
       "word": "每个月工资8000但闲的发慌",
       "onboard_time": 1687163147,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 439479,
-      "num": 337723,
-      "word": "宋轶扛剧能力",
-      "onboard_time": 1687246832,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 437163,
@@ -577,6 +585,14 @@
       "onboard_time": 1687234355,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400739,
+      "num": 400739,
+      "word": "杨幂撑伞",
+      "onboard_time": 1687249772,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 391767,
@@ -625,6 +641,14 @@
       "onboard_time": 1687227091,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 363705,
+      "num": 261788,
+      "word": "温州男子发给好友63部淫秽视频后自首",
+      "onboard_time": 1687248632,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362962,
@@ -795,20 +819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302493,
+      "num": 302493,
+      "word": "同事说全款买房的人是傻子",
+      "onboard_time": 1687249233,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297613,
       "num": 276111,
       "word": "伊能静陪儿子逛街",
       "onboard_time": 1687187801,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291171,
-      "num": 253996,
-      "word": "温州男子发给好友63部淫秽视频后自首",
-      "onboard_time": 1687248632,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288652,
@@ -865,6 +889,14 @@
       "onboard_time": 1687189835,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275511,
+      "num": 275511,
+      "word": "两周拿了6个offer",
+      "onboard_time": 1687249291,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 272375,
@@ -1027,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241594,
+      "num": 241594,
+      "word": "EDG对阵PRX",
+      "onboard_time": 1687247432,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240752,
       "num": 240752,
       "word": "张杰演唱会抢票",
       "onboard_time": 1687237472,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240169,
+      "num": 240169,
+      "word": "田曦薇咬嘴唇",
+      "onboard_time": 1687248513,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 239686,
@@ -1081,14 +1129,6 @@
       "onboard_time": 1687234296,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229135,
-      "num": 229135,
-      "word": "田曦薇咬嘴唇",
-      "onboard_time": 1687248513,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 227439,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1687230271,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218860,
-      "num": 218860,
-      "word": "EDG对阵PRX",
-      "onboard_time": 1687247432,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 216129,
@@ -1219,8 +1251,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201279,
+      "num": 201279,
+      "word": "雍和宫服从调剂式许愿",
+      "onboard_time": 1687249830,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200498,
-      "num": 254601,
+      "num": 262205,
       "word": "00后军人手脚并用连救5人",
       "onboard_time": 1687248394,
       "rank": 29,
@@ -1419,20 +1459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170720,
-      "num": 170720,
-      "word": "同事说全款买房的人是傻子",
-      "onboard_time": 1687249233,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170503,
       "num": 170503,
       "word": "东大星空投影10787位毕业生名字",
       "onboard_time": 1687245028,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169780,
+      "num": 169780,
+      "word": "嘉兴小伙求婚时突然走人却被女友夸赞",
+      "onboard_time": 1687250011,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168292,
@@ -1587,6 +1627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 153067,
+      "num": 153067,
+      "word": "炎亚纶评论了崔秀彬ins",
+      "onboard_time": 1687250011,
+      "rank": 49,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 151498,
       "num": 239451,
       "word": "跳桥救人小哥仍处在骨折急性期",
@@ -1683,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116139,
+      "num": 546829,
+      "word": "校长带老师到患病女生家中拨穗",
+      "onboard_time": 1687248034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113272,
       "num": 100140,
       "word": "景甜冯绍峰新剧cp海报",
@@ -1755,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76019,
+      "num": 1641617,
+      "word": "他们是战巡南海绕岛巡航的空中铁拳",
+      "onboard_time": 1687248152,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73597,
       "num": 73597,
       "word": "厦门体育中心回应演唱会场地脏",
@@ -1787,14 +1851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71494,
-      "num": 546829,
-      "word": "校长带老师到患病女生家中拨穗",
-      "onboard_time": 1687248034,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68229,
       "num": 68229,
       "word": "买西瓜前为啥要拍一拍",
@@ -1825,14 +1881,6 @@
       "onboard_time": 1687197378,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 52964,
-      "num": 1641617,
-      "word": "他们是战巡南海绕岛巡航的空中铁拳",
-      "onboard_time": 1687248152,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51658,
@@ -1892,6 +1940,9 @@
     },
     {
       "word": "#三北工程绿色奇迹如何发生#"
+    },
+    {
+      "word": "#中美关系和合为贵#"
     }
   ]
 }

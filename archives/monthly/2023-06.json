@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687249279780,
+  "endTime": 1687250039356,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 2810808,
-      "num": 1092699,
+      "num": 1159541,
       "word": "台警方称不会侦办大小S被控吸毒",
       "onboard_time": 1687243951,
       "rank": 5,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1685758169,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1743982,
+      "num": 617569,
+      "word": "吴宗宪 这辈子最痛恨吸毒的人",
+      "onboard_time": 1687249533,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1743011,
@@ -4771,6 +4779,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1183746,
+      "num": 1183746,
+      "word": "在医院ICU住了四年得多少钱",
+      "onboard_time": 1687244969,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1183499,
       "num": 951690,
       "word": "不用再说HeySiri了",
@@ -5963,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012806,
+      "num": 1012806,
+      "word": "秦岚腰臀比",
+      "onboard_time": 1687246531,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1012196,
       "num": 926519,
       "word": "孟子义锐评任敏汤晶媚乐队事件",
@@ -6041,14 +6065,6 @@
       "onboard_time": 1686012511,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 999879,
-      "num": 999879,
-      "word": "秦岚腰臀比",
-      "onboard_time": 1687246531,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 999821,
@@ -7443,6 +7459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829366,
+      "num": 614235,
+      "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
+      "onboard_time": 1687246891,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829175,
       "num": 829175,
       "word": "马云指出淘宝天猫未来三个方向",
@@ -8097,14 +8121,6 @@
       "onboard_time": 1686143555,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 770635,
-      "num": 770635,
-      "word": "在医院ICU住了四年得多少钱",
-      "onboard_time": 1687244969,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770410,
@@ -8777,14 +8793,6 @@
       "onboard_time": 1687185043,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 712345,
-      "num": 609257,
-      "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
-      "onboard_time": 1687246891,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 710463,
@@ -9563,6 +9571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 633141,
+      "num": 633141,
+      "word": "高圆圆贾静雯双生封面大片",
+      "onboard_time": 1687245812,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 632755,
       "num": 632755,
       "word": "谢娜录制你好星期六路透",
@@ -9849,14 +9865,6 @@
       "onboard_time": 1685933067,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 615997,
-      "num": 615997,
-      "word": "高圆圆贾静雯双生封面大片",
-      "onboard_time": 1687245812,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 615740,
@@ -10233,6 +10241,14 @@
       "onboard_time": 1686536968,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582010,
+      "num": 582010,
+      "word": "心疼桑稚",
+      "onboard_time": 1687246770,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 581836,
@@ -10713,14 +10729,6 @@
       "onboard_time": 1686732449,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 546691,
-      "num": 546691,
-      "word": "心疼桑稚",
-      "onboard_time": 1687246770,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 546377,
@@ -12227,6 +12235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457283,
+      "num": 457283,
+      "word": "宋轶扛剧能力",
+      "onboard_time": 1687246832,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457010,
       "num": 283891,
       "word": "王东被换脸",
@@ -12584,14 +12600,6 @@
       "word": "王一博再戴麦穗胸针",
       "onboard_time": 1686917127,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 439479,
-      "num": 337723,
-      "word": "宋轶扛剧能力",
-      "onboard_time": 1687246832,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -13721,6 +13729,14 @@
       "onboard_time": 1686397970,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 400739,
+      "num": 400739,
+      "word": "杨幂撑伞",
+      "onboard_time": 1687249772,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400668,
@@ -14921,6 +14937,14 @@
       "onboard_time": 1686702870,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363705,
+      "num": 261788,
+      "word": "温州男子发给好友63部淫秽视频后自首",
+      "onboard_time": 1687248632,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363488,
@@ -17907,6 +17931,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 302493,
+      "num": 302493,
+      "word": "同事说全款买房的人是傻子",
+      "onboard_time": 1687249233,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302362,
       "num": 302362,
       "word": "深圳地铁14号线",
@@ -18593,14 +18625,6 @@
       "onboard_time": 1686015507,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291171,
-      "num": 253996,
-      "word": "温州男子发给好友63部淫秽视频后自首",
-      "onboard_time": 1687248632,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291164,
@@ -19817,6 +19841,14 @@
       "onboard_time": 1687189835,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275511,
+      "num": 275511,
+      "word": "两周拿了6个offer",
+      "onboard_time": 1687249291,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 275455,
@@ -23307,6 +23339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241594,
+      "num": 241594,
+      "word": "EDG对阵PRX",
+      "onboard_time": 1687247432,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241569,
       "num": 241569,
       "word": "二胎宝妈夜间摆摊走出产后抑郁",
@@ -23464,6 +23504,14 @@
       "word": "威尔妹妹",
       "onboard_time": 1687004970,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240169,
+      "num": 240169,
+      "word": "田曦薇咬嘴唇",
+      "onboard_time": 1687248513,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -24752,14 +24800,6 @@
       "word": "薛之谦是陆虎夫妇的爱情保安",
       "onboard_time": 1686278908,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 229135,
-      "num": 229135,
-      "word": "田曦薇咬嘴唇",
-      "onboard_time": 1687248513,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -26161,14 +26201,6 @@
       "onboard_time": 1685958808,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218860,
-      "num": 218860,
-      "word": "EDG对阵PRX",
-      "onboard_time": 1687247432,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 218838,
@@ -28763,6 +28795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201279,
+      "num": 201279,
+      "word": "雍和宫服从调剂式许愿",
+      "onboard_time": 1687249830,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201276,
       "num": 201276,
       "word": "全员加速中11点06官宣的原因",
@@ -28876,7 +28916,7 @@
     },
     {
       "raw_hot": 200498,
-      "num": 254601,
+      "num": 262205,
       "word": "00后军人手脚并用连救5人",
       "onboard_time": 1687248394,
       "rank": 29,
@@ -33987,14 +34027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 170720,
-      "num": 170720,
-      "word": "同事说全款买房的人是傻子",
-      "onboard_time": 1687249233,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170675,
       "num": 170675,
       "word": "如何判断一个医院怎么样",
@@ -34073,6 +34105,14 @@
       "onboard_time": 1686452610,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169780,
+      "num": 169780,
+      "word": "嘉兴小伙求婚时突然走人却被女友夸赞",
+      "onboard_time": 1687250011,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169777,
@@ -36761,6 +36801,14 @@
       "onboard_time": 1686454229,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 153067,
+      "num": 153067,
+      "word": "炎亚纶评论了崔秀彬ins",
+      "onboard_time": 1687250011,
+      "rank": 49,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 153060,
@@ -41891,6 +41939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116139,
+      "num": 546829,
+      "word": "校长带老师到患病女生家中拨穗",
+      "onboard_time": 1687248034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116084,
       "num": 116084,
       "word": "你会尝试多巴胺穿搭吗",
@@ -44547,6 +44603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76019,
+      "num": 1641617,
+      "word": "他们是战巡南海绕岛巡航的空中铁拳",
+      "onboard_time": 1687248152,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75708,
       "num": 355267,
       "word": "smart新车上市",
@@ -44808,14 +44872,6 @@
       "word": "四川木里山火被扑灭",
       "onboard_time": 1685786008,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71494,
-      "num": 546829,
-      "word": "校长带老师到患病女生家中拨穗",
-      "onboard_time": 1687248034,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -45809,14 +45865,6 @@
       "onboard_time": 1686938598,
       "rank": 44,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 52964,
-      "num": 1641617,
-      "word": "他们是战巡南海绕岛巡航的空中铁拳",
-      "onboard_time": 1687248152,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52634,
@@ -47443,6 +47491,9 @@
     },
     {
       "word": "#三北工程绿色奇迹如何发生#"
+    },
+    {
+      "word": "#中美关系和合为贵#"
     }
   ]
 }
