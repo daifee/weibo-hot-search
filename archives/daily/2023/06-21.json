@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687303074505,
+  "endTime": 1687304022439,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -83,6 +83,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746337,
+      "num": 746337,
+      "word": "关闭朋友圈半年后的变化",
+      "onboard_time": 1687261291,
+      "rank": 3,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 665359,
+      "num": 665359,
+      "word": "夏至",
+      "onboard_time": 1687302503,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655518,
+      "num": 655518,
+      "word": "南京已经没有大厂了",
+      "onboard_time": 1687265791,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 645980,
       "num": 560031,
       "word": "陈情令",
@@ -91,12 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 626285,
-      "num": 626285,
-      "word": "关闭朋友圈半年后的变化",
-      "onboard_time": 1687261291,
-      "rank": 3,
-      "category": "幽默,情感"
+      "raw_hot": 639090,
+      "num": 639090,
+      "word": "男孩称后背痒植物人父亲用尽全力抬手",
+      "onboard_time": 1687302863,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568587,
@@ -129,22 +153,6 @@
       "onboard_time": 1687265371,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468782,
-      "num": 468782,
-      "word": "夏至",
-      "onboard_time": 1687302503,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467531,
-      "num": 467531,
-      "word": "南京已经没有大厂了",
-      "onboard_time": 1687265791,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 448086,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237421,
+      "num": 209714,
+      "word": "公诉",
+      "onboard_time": 1687303042,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233215,
       "num": 189395,
       "word": "下班4小时都能做些什么",
@@ -347,20 +363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199390,
+      "num": 230072,
+      "word": "为什么越来越多应届生回县城考公",
+      "onboard_time": 1687277792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 197377,
       "num": 164665,
       "word": "鞠婧祎演我背课文",
       "onboard_time": 1687277434,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195187,
-      "num": 230072,
-      "word": "为什么越来越多应届生回县城考公",
-      "onboard_time": 1687277792,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 189322,
@@ -385,6 +401,14 @@
       "onboard_time": 1687265670,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168416,
+      "num": 139454,
+      "word": "你会选择回县城考公考编吗",
+      "onboard_time": 1687303224,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 166293,
@@ -427,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125098,
+      "num": 125098,
+      "word": "这粽子我一次能吃一二十个",
+      "onboard_time": 1687303823,
+      "rank": 32,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 121409,
       "num": 159550,
       "word": "孙笑川辟谣去世",
@@ -435,8 +467,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 114115,
-      "num": 114115,
+      "raw_hot": 118415,
+      "num": 118415,
       "word": "越接近液体的食物越容易欺骗大脑",
       "onboard_time": 1687282341,
       "rank": 49,
@@ -451,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109194,
-      "num": 109194,
-      "word": "男孩称后背痒植物人父亲用尽全力抬手",
-      "onboard_time": 1687302863,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 110103,
+      "num": 110103,
+      "word": "防晒口罩是智商税吗",
+      "onboard_time": 1687304005,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 103631,
@@ -467,24 +499,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83353,
-      "num": 83353,
-      "word": "宋亚轩胸肌好明显",
-      "onboard_time": 1687271014,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 81458,
-      "num": 81458,
+      "raw_hot": 91948,
+      "num": 91948,
       "word": "顾九思终究是个局外人",
       "onboard_time": 1687287675,
       "rank": 40,
       "category": "影视"
     },
     {
+      "raw_hot": 86451,
+      "num": 86451,
+      "word": "宋亚轩胸肌好明显",
+      "onboard_time": 1687271014,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80527,
-      "num": 80527,
+      "num": 80933,
       "word": "考古王菲以前的微博",
       "onboard_time": 1687291512,
       "rank": 44,
@@ -499,20 +531,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 65038,
-      "num": 65038,
-      "word": "公诉",
-      "onboard_time": 1687303042,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 52084,
       "num": 82465,
       "word": "迪士尼回应暴雨天能否退票",
       "onboard_time": 1687263570,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 27557,
+      "num": 659894,
+      "word": "夏日中国尽显生态之美",
+      "onboard_time": 1687270775,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26361,
@@ -527,14 +559,6 @@
       "num": 747531,
       "word": "我国自研视景系统首次试飞成功",
       "onboard_time": 1687245089,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11493,
-      "num": 467859,
-      "word": "夏日中国尽显生态之美",
-      "onboard_time": 1687270775,
       "rank": 2,
       "category": "社会新闻"
     }

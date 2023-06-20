@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687303074505,
+  "endTime": 1687304022439,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -1243,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 665359,
+      "num": 665359,
+      "word": "夏至",
+      "onboard_time": 1687302503,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664431,
       "num": 664431,
       "word": "爱尔眼科王勇不接受艾芬道歉",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 639090,
+      "num": 639090,
+      "word": "男孩称后背痒植物人父亲用尽全力抬手",
+      "onboard_time": 1687302863,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634631,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1687180541,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 468782,
-      "num": 468782,
-      "word": "夏至",
-      "onboard_time": 1687302503,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466451,
@@ -3139,6 +3147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237421,
+      "num": 209714,
+      "word": "公诉",
+      "onboard_time": 1687303042,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237076,
       "num": 237076,
       "word": "女生打扮成观音参加期末考试",
@@ -3667,6 +3683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199390,
+      "num": 230072,
+      "word": "为什么越来越多应届生回县城考公",
+      "onboard_time": 1687277792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199207,
       "num": 199207,
       "word": "光遇",
@@ -3801,14 +3825,6 @@
       "onboard_time": 1687226790,
       "rank": 42,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 195187,
-      "num": 230072,
-      "word": "为什么越来越多应届生回县城考公",
-      "onboard_time": 1687277792,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 195012,
@@ -4273,6 +4289,14 @@
       "onboard_time": 1687139907,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168416,
+      "num": 139454,
+      "word": "你会选择回县城考公考编吗",
+      "onboard_time": 1687303224,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 168292,
@@ -4931,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125098,
+      "num": 125098,
+      "word": "这粽子我一次能吃一二十个",
+      "onboard_time": 1687303823,
+      "rank": 32,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 124062,
       "num": 192991,
       "word": "Steam",
@@ -4963,6 +4995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118415,
+      "num": 118415,
+      "word": "越接近液体的食物越容易欺骗大脑",
+      "onboard_time": 1687282341,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118113,
       "num": 118113,
       "word": "我10分钟内可以有这两种状态",
@@ -4993,14 +5033,6 @@
       "onboard_time": 1687160571,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 114115,
-      "num": 114115,
-      "word": "越接近液体的食物越容易欺骗大脑",
-      "onboard_time": 1687282341,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113982,
@@ -5043,19 +5075,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110103,
+      "num": 110103,
+      "word": "防晒口罩是智商税吗",
+      "onboard_time": 1687304005,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109773,
       "num": 425218,
       "word": "开心麻花拍了部新电影",
       "onboard_time": 1687176937,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109194,
-      "num": 109194,
-      "word": "男孩称后背痒植物人父亲用尽全力抬手",
-      "onboard_time": 1687302863,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5131,6 +5163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91948,
+      "num": 91948,
+      "word": "顾九思终究是个局外人",
+      "onboard_time": 1687287675,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91469,
       "num": 91469,
       "word": "歌手演唱会价格一览",
@@ -5179,16 +5219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81458,
-      "num": 81458,
-      "word": "顾九思终究是个局外人",
-      "onboard_time": 1687287675,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 80527,
-      "num": 80527,
+      "num": 80933,
       "word": "考古王菲以前的微博",
       "onboard_time": 1687291512,
       "rank": 44,
@@ -5297,14 +5329,6 @@
       "onboard_time": 1687143087,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 65038,
-      "num": 65038,
-      "word": "公诉",
-      "onboard_time": 1687303042,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 63300,
@@ -5467,6 +5491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27557,
+      "num": 659894,
+      "word": "夏日中国尽显生态之美",
+      "onboard_time": 1687270775,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27428,
       "num": 27428,
       "word": "吴幸键官宣出演言冰云",
@@ -5527,14 +5559,6 @@
       "num": 1713407,
       "word": "发现最美铁路",
       "onboard_time": 1687173101,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11493,
-      "num": 467859,
-      "word": "夏日中国尽显生态之美",
-      "onboard_time": 1687270775,
       "rank": 2,
       "category": "社会新闻"
     }
