@@ -1,0 +1,410 @@
+{
+  "runTime": 1687288400640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 211499,
+        "num": 211499,
+        "word": "马伯骞问爱马仕是什么",
+        "onboard_time": 1687275221,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155175,
+        "num": 155175,
+        "word": "种地吧 根本补不完",
+        "onboard_time": 1687277612,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2449,
+        "num": 152774,
+        "word": "我国自研视景系统首次试飞成功",
+        "onboard_time": 1687245089,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "关闭朋友圈半年后的变化",
+        "onboard_time": 1687261291,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114411,
+        "num": 114411,
+        "word": "长风渡第9集封神",
+        "onboard_time": 1687267591,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137663,
+        "num": 112315,
+        "word": "陈情令",
+        "onboard_time": 1687245751,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105203,
+        "num": 105203,
+        "word": "南京已经没有大厂了",
+        "onboard_time": 1687265791,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104440,
+        "num": 104440,
+        "word": "女生自费30万拍作品拒绝领三等奖",
+        "onboard_time": 1687274675,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96293,
+        "num": 96293,
+        "word": "金晨的嘴怎么了",
+        "onboard_time": 1687251091,
+        "rank": 8,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 78803,
+        "num": 78803,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 748445,
+        "num": 78049,
+        "word": "炎亚纶承认与未成年发生关系",
+        "onboard_time": 1687274137,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109038,
+        "num": 76919,
+        "word": "兄妹从29楼通风管道坠入地下室身亡",
+        "onboard_time": 1687274076,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151890,
+        "num": 75851,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252243,
+        "num": 74848,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83480,
+        "num": 73568,
+        "word": "警方通报广州一出租屋发现3具尸体",
+        "onboard_time": 1687265371,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143317,
+        "num": 73077,
+        "word": "Jennie的衣服",
+        "onboard_time": 1687270473,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72225,
+        "num": 72225,
+        "word": "偷偷藏不住受众群体",
+        "onboard_time": 1687259429,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68460,
+        "num": 68460,
+        "word": "突然摆烂的小熊猫",
+        "onboard_time": 1687275578,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66100,
+        "num": 66100,
+        "word": "霍启刚患上睡眠窒息症",
+        "onboard_time": 1687261829,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48426,
+        "num": 57075,
+        "word": "短短几天被救三次的麋鹿",
+        "onboard_time": 1687277257,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148367,
+        "num": 56598,
+        "word": "炎亚纶评论了崔秀彬ins",
+        "onboard_time": 1687250011,
+        "rank": 20,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 55731,
+        "num": 55731,
+        "word": "朋友圈发什么最让你反感",
+        "onboard_time": 1687273655,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55605,
+        "num": 55605,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55443,
+        "num": 55443,
+        "word": "今起恢复台湾地区番荔枝输入大陆",
+        "onboard_time": 1687264470,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53060,
+        "num": 53060,
+        "word": "越接近液体的食物越容易欺骗大脑",
+        "onboard_time": 1687282341,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52404,
+        "num": 52404,
+        "word": "马伯骞才是全剧最不尴尬的人",
+        "onboard_time": 1687278992,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52370,
+        "num": 52370,
+        "word": "已经be但又很火的cp",
+        "onboard_time": 1687257453,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51305,
+        "num": 51305,
+        "word": "虞书欣被小男孩夸好漂亮",
+        "onboard_time": 1687284798,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47130,
+        "num": 48906,
+        "word": "应届大学生就业重心继续下沉",
+        "onboard_time": 1687269995,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40538,
+        "num": 47852,
+        "word": "为什么越来越多应届生回县城考公",
+        "onboard_time": 1687277792,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 47765,
+        "num": 47765,
+        "word": "大张伟自信快乐的原因",
+        "onboard_time": 1687278628,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47681,
+        "num": 47681,
+        "word": "张小狮 这一系列畸形的爱到底有多可怕",
+        "onboard_time": 1687265131,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41050,
+        "num": 41050,
+        "word": "白敬亭发了粉丝修的图",
+        "onboard_time": 1687266571,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39090,
+        "num": 39090,
+        "word": "吴宗宪 这辈子最痛恨吸毒的人",
+        "onboard_time": 1687249533,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 34231,
+        "num": 34231,
+        "word": "什么专业缺女生",
+        "onboard_time": 1687270536,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35280,
+        "num": 33967,
+        "word": "桑稚的阿母vs程少商的阿母",
+        "onboard_time": 1687268676,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39240,
+        "num": 33494,
+        "word": "S家的拖鞋之谜",
+        "onboard_time": 1687251934,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32794,
+        "num": 32794,
+        "word": "肚子瘦不下来的真正原因",
+        "onboard_time": 1687260753,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32457,
+        "num": 32457,
+        "word": "鼠鼠小手开花啦",
+        "onboard_time": 1687278809,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30959,
+        "num": 31513,
+        "word": "毕业季让消费观崩塌",
+        "onboard_time": 1687275280,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33125,
+        "num": 31436,
+        "word": "顾九思终究是个局外人",
+        "onboard_time": 1687287675,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31256,
+        "num": 31256,
+        "word": "李坤城儿子宣布与林靖恩和解",
+        "onboard_time": 1687269216,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31182,
+        "num": 31182,
+        "word": "宋亚轩胸肌好明显",
+        "onboard_time": 1687271014,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28799,
+        "num": 31169,
+        "word": "宋轶素颜照",
+        "onboard_time": 1687251333,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28147,
+        "num": 31152,
+        "word": "我国个人住房贷款余额38.94万亿元",
+        "onboard_time": 1687259192,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 26979,
+        "num": 31142,
+        "word": "孙怡地铁拍照",
+        "onboard_time": 1687278332,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26809,
+        "num": 31132,
+        "word": "下班4小时都能做些什么",
+        "onboard_time": 1687272817,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24798,
+        "num": 31115,
+        "word": "染头发染出凶案现场",
+        "onboard_time": 1687271014,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21609,
+        "num": 31094,
+        "word": "孙笑川辟谣去世",
+        "onboard_time": 1687253074,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 20243,
+        "num": 31080,
+        "word": "119的一场雨救了120头中暑生猪",
+        "onboard_time": 1687276537,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#试验二十五号卫星成功发射#"
+    }
+  }
+}

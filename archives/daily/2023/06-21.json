@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687286011700,
+  "endTime": 1687288400640,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -473,6 +473,14 @@
       "onboard_time": 1687271014,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33125,
+      "num": 31436,
+      "word": "顾九思终究是个局外人",
+      "onboard_time": 1687287675,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 12289,
