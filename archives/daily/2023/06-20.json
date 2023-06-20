@@ -1,10 +1,10 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687268030816,
+  "endTime": 1687270527175,
   "band_list": [
     {
       "raw_hot": 4518444,
-      "num": 942748,
+      "num": 966244,
       "word": "炎亚纶聊天记录",
       "onboard_time": 1687233275,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2896612,
+      "num": 2005816,
+      "word": "南京已经没有大厂了",
+      "onboard_time": 1687265791,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2894480,
       "num": 2000664,
       "word": "黄子佼爱徒Lulu发声",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2843211,
-      "num": 811711,
+      "num": 975612,
       "word": "小S曾在party后漂头发眉毛",
       "onboard_time": 1687253792,
       "rank": 10,
@@ -89,6 +97,14 @@
       "onboard_time": 1687189000,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2399602,
+      "num": 2399602,
+      "word": "长风渡第9集封神",
+      "onboard_time": 1687267591,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 2389223,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 1513235,
-      "num": 717586,
+      "num": 971928,
       "word": "已经be但又很火的cp",
       "onboard_time": 1687257453,
       "rank": 22,
@@ -249,6 +265,14 @@
       "onboard_time": 1687221455,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1484910,
+      "num": 1484910,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1472333,
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1125302,
-      "num": 1125302,
-      "word": "南京已经没有大厂了",
-      "onboard_time": 1687265791,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1116613,
       "num": 571790,
       "word": "你还在等待川大女生处理结果吗",
@@ -393,6 +409,14 @@
       "onboard_time": 1687249772,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 984408,
+      "num": 984408,
+      "word": "白敬亭发了粉丝修的图",
+      "onboard_time": 1687266571,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 983044,
@@ -619,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580986,
+      "num": 580986,
+      "word": "段嘉许好帅",
+      "onboard_time": 1687267414,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571277,
       "num": 571277,
       "word": "5岁女孩被东航飞行员撞倒碾压身亡",
@@ -635,20 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 549063,
-      "num": 549063,
-      "word": "长风渡第9集封神",
-      "onboard_time": 1687267591,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 547585,
       "num": 547585,
       "word": "林志颖",
       "onboard_time": 1687171660,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546536,
+      "num": 546536,
+      "word": "张小狮 这一系列畸形的爱到底有多可怕",
+      "onboard_time": 1687265131,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 543490,
@@ -681,14 +713,6 @@
       "onboard_time": 1687227451,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 528334,
-      "num": 528334,
-      "word": "今起恢复台湾地区番荔枝输入大陆",
-      "onboard_time": 1687264470,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 524475,
@@ -731,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 466003,
+      "num": 339281,
+      "word": "李坤城儿子宣布与林靖恩和解",
+      "onboard_time": 1687269216,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460130,
       "num": 414405,
       "word": "偷偷藏不住",
@@ -753,14 +785,6 @@
       "onboard_time": 1687163147,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 443321,
-      "num": 443321,
-      "word": "张小狮 这一系列畸形的爱到底有多可怕",
-      "onboard_time": 1687265131,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 437163,
@@ -859,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370544,
+      "num": 370544,
+      "word": "上野千鹤子对话李银河",
+      "onboard_time": 1687270114,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 368289,
       "num": 320798,
       "word": "面试官问针掉海里怎么拿回来",
@@ -905,14 +937,6 @@
       "onboard_time": 1687255353,
       "rank": 24,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 355169,
-      "num": 340772,
-      "word": "白敬亭发了粉丝修的图",
-      "onboard_time": 1687266571,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 354615,
@@ -1051,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318895,
-      "num": 289706,
-      "word": "段嘉许好帅",
-      "onboard_time": 1687267414,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312272,
       "num": 505618,
       "word": "现在面试水都不给了",
@@ -1099,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303595,
+      "num": 222535,
+      "word": "桑稚的阿母vs程少商的阿母",
+      "onboard_time": 1687268676,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302551,
       "num": 278000,
       "word": "范晓萱",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 299069,
-      "num": 239668,
+      "num": 241737,
       "word": "迪士尼回应暴雨天能否退票",
       "onboard_time": 1687263570,
       "rank": 30,
@@ -1312,6 +1336,14 @@
       "word": "桑稚一直都是赵露思",
       "onboard_time": 1687265312,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 266700,
+      "num": 189215,
+      "word": "袁冰妍为肖燕新剧打call",
+      "onboard_time": 1687269757,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1691,12 +1723,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208418,
+      "num": 181139,
+      "word": "年下发疯年上纵容",
+      "onboard_time": 1687266151,
+      "rank": 45,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 208215,
       "num": 208215,
       "word": "戚薇 不敢着职业装上下班了",
       "onboard_time": 1687246171,
       "rank": 48,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 205649,
+      "num": 205649,
+      "word": "武磊进球",
+      "onboard_time": 1687267591,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 204550,
@@ -1835,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196537,
+      "num": 196537,
+      "word": "粽子",
+      "onboard_time": 1687270355,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196423,
       "num": 196423,
       "word": "邓科的与凤行vs折腰",
@@ -1856,6 +1912,14 @@
       "word": "小问题水",
       "onboard_time": 1687235437,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196067,
+      "num": 196067,
+      "word": "女子放下儿子捡起3岁走失女童",
+      "onboard_time": 1687269515,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1883,12 +1947,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193804,
-      "num": 179007,
-      "word": "年下发疯年上纵容",
-      "onboard_time": 1687266151,
-      "rank": 45,
-      "category": "艺人,情感"
+      "raw_hot": 193882,
+      "num": 181131,
+      "word": "Jennie的衣服",
+      "onboard_time": 1687270473,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190599,
@@ -1905,6 +1969,14 @@
       "onboard_time": 1687248214,
       "rank": 42,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 189228,
+      "num": 189228,
+      "word": "国足2比0巴勒斯坦",
+      "onboard_time": 1687269455,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 188778,
@@ -1985,14 +2057,6 @@
       "onboard_time": 1687258352,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175932,
-      "num": 175932,
-      "word": "武磊进球",
-      "onboard_time": 1687267591,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 175651,
@@ -2347,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141725,
+      "num": 532915,
+      "word": "两轮为何成为年轻人代步神器",
+      "onboard_time": 1687266030,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 139634,
       "num": 139634,
       "word": "这到时候按水费算还是电费算",
@@ -2489,14 +2561,6 @@
       "onboard_time": 1687185769,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96415,
-      "num": 532915,
-      "word": "两轮为何成为年轻人代步神器",
-      "onboard_time": 1687266030,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 96257,
@@ -2651,6 +2715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32214,
+      "num": 606695,
+      "word": "被杭州地铁毕业快乐广播戳到",
+      "onboard_time": 1687269695,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27428,
       "num": 27428,
       "word": "吴幸键官宣出演言冰云",
@@ -2660,7 +2732,7 @@
     },
     {
       "raw_hot": 18326,
-      "num": 1637734,
+      "num": 1681047,
       "word": "试验二十五号卫星成功发射",
       "onboard_time": 1687247974,
       "rank": 2,
