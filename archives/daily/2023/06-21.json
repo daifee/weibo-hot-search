@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687300414753,
+  "endTime": 1687303074505,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -131,8 +131,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450149,
-      "num": 450149,
+      "raw_hot": 468782,
+      "num": 468782,
+      "word": "夏至",
+      "onboard_time": 1687302503,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467531,
+      "num": 467531,
       "word": "南京已经没有大厂了",
       "onboard_time": 1687265791,
       "rank": 8,
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195187,
+      "num": 230072,
+      "word": "为什么越来越多应届生回县城考公",
+      "onboard_time": 1687277792,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 189322,
       "num": 189322,
       "word": "应届大学生就业重心继续下沉",
@@ -361,14 +377,6 @@
       "onboard_time": 1687251934,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178572,
-      "num": 230072,
-      "word": "为什么越来越多应届生回县城考公",
-      "onboard_time": 1687277792,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176528,
@@ -411,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126955,
+      "num": 126955,
+      "word": "大张伟自信快乐的原因",
+      "onboard_time": 1687278628,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121409,
       "num": 159550,
       "word": "孙笑川辟谣去世",
@@ -419,11 +435,27 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 114115,
+      "num": 114115,
+      "word": "越接近液体的食物越容易欺骗大脑",
+      "onboard_time": 1687282341,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110106,
       "num": 159171,
       "word": "现在的无人机表演真的太帅了",
       "onboard_time": 1687277257,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109194,
+      "num": 109194,
+      "word": "男孩称后背痒植物人父亲用尽全力抬手",
+      "onboard_time": 1687302863,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -435,20 +467,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94249,
-      "num": 94249,
-      "word": "越接近液体的食物越容易欺骗大脑",
-      "onboard_time": 1687282341,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 83353,
+      "num": 83353,
+      "word": "宋亚轩胸肌好明显",
+      "onboard_time": 1687271014,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 85578,
-      "num": 80658,
-      "word": "大张伟自信快乐的原因",
-      "onboard_time": 1687278628,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 81458,
+      "num": 81458,
+      "word": "顾九思终究是个局外人",
+      "onboard_time": 1687287675,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 80527,
+      "num": 80527,
+      "word": "考古王菲以前的微博",
+      "onboard_time": 1687291512,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 67364,
@@ -459,36 +499,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 65038,
+      "num": 65038,
+      "word": "公诉",
+      "onboard_time": 1687303042,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52084,
       "num": 82465,
       "word": "迪士尼回应暴雨天能否退票",
       "onboard_time": 1687263570,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 48464,
-      "num": 48464,
-      "word": "考古王菲以前的微博",
-      "onboard_time": 1687291512,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 43429,
-      "num": 48440,
-      "word": "宋亚轩胸肌好明显",
-      "onboard_time": 1687271014,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39437,
-      "num": 48422,
-      "word": "顾九思终究是个局外人",
-      "onboard_time": 1687287675,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 26361,
@@ -503,6 +527,14 @@
       "num": 747531,
       "word": "我国自研视景系统首次试飞成功",
       "onboard_time": 1687245089,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11493,
+      "num": 467859,
+      "word": "夏日中国尽显生态之美",
+      "onboard_time": 1687270775,
       "rank": 2,
       "category": "社会新闻"
     }
