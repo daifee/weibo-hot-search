@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687265505482,
+  "endTime": 1687267207710,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1916457,
+      "num": 1916457,
+      "word": "霍启刚患上睡眠窒息症",
+      "onboard_time": 1687261829,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1860594,
       "num": 1860594,
       "word": "一天之内拒绝了30个学生请假",
@@ -377,14 +385,6 @@
       "onboard_time": 1687230032,
       "rank": 18,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1791280,
-      "num": 1791280,
-      "word": "霍启刚患上睡眠窒息症",
-      "onboard_time": 1687261829,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1743982,
@@ -473,6 +473,14 @@
       "onboard_time": 1687236099,
       "rank": 7,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1515466,
+      "num": 1515466,
+      "word": "警方通报广州一出租屋发现3具尸体",
+      "onboard_time": 1687265371,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1513235,
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548803,
+      "num": 255569,
+      "word": "南京已经没有大厂了",
+      "onboard_time": 1687265791,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 543490,
       "num": 543490,
       "word": "蔡徐坤演唱会花絮",
@@ -1659,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413667,
+      "num": 413667,
+      "word": "张小狮 这一系列畸形的爱到底有多可怕",
+      "onboard_time": 1687265131,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 412458,
       "num": 412458,
       "word": "网友吐槽中餐厅7工作人员",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1687144466,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 395719,
+      "num": 328783,
+      "word": "虞书欣白色吊带透视裙",
+      "onboard_time": 1687265670,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 394082,
@@ -2019,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330290,
+      "num": 330290,
+      "word": "张雪峰名场面",
+      "onboard_time": 1687262854,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329597,
       "num": 329597,
       "word": "本次白玉兰不排除有双黄蛋",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1687185769,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320457,
+      "num": 293355,
+      "word": "马伯骞这段不像演的",
+      "onboard_time": 1687264229,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 318468,
@@ -2139,8 +2187,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300858,
+      "num": 300858,
+      "word": "没有不喜欢妈妈但却无法交流",
+      "onboard_time": 1687263029,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299069,
-      "num": 230624,
+      "num": 239668,
       "word": "迪士尼回应暴雨天能否退票",
       "onboard_time": 1687263570,
       "rank": 30,
@@ -2475,6 +2531,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 263438,
+      "num": 249452,
+      "word": "难哄",
+      "onboard_time": 1687263331,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263253,
       "num": 263253,
       "word": "王一博热烈哭戏",
@@ -2531,12 +2595,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259174,
+      "num": 244861,
+      "word": "狂飙2023同人年增量第一",
+      "onboard_time": 1687264832,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258226,
+      "num": 242774,
+      "word": "桑稚长得好快",
+      "onboard_time": 1687266151,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
       "onboard_time": 1687136190,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256721,
+      "num": 256721,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256283,
@@ -2593,6 +2681,14 @@
       "onboard_time": 1687148613,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253840,
+      "num": 236615,
+      "word": "桑稚一直都是赵露思",
+      "onboard_time": 1687265312,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 253426,
@@ -2675,14 +2771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247126,
-      "num": 247126,
-      "word": "难哄",
-      "onboard_time": 1687263331,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246866,
       "num": 246866,
       "word": "500万的全奖offer我拒绝了",
@@ -2696,14 +2784,6 @@
       "word": "苏州下雨",
       "onboard_time": 1687180060,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 246818,
-      "num": 293116,
-      "word": "没有不喜欢妈妈但却无法交流",
-      "onboard_time": 1687263029,
-      "rank": 27,
       "category": "情感"
     },
     {
@@ -2731,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243646,
-      "num": 253535,
-      "word": "张雪峰名场面",
-      "onboard_time": 1687262854,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243095,
       "num": 243095,
       "word": "王启年你何德何能",
@@ -2761,14 +2833,6 @@
       "onboard_time": 1687253074,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 241608,
-      "num": 241608,
-      "word": "马伯骞这段不像演的",
-      "onboard_time": 1687264229,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 241594,
@@ -2899,14 +2963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233870,
-      "num": 233870,
-      "word": "狂飙2023同人年增量第一",
-      "onboard_time": 1687264832,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233508,
       "num": 233508,
       "word": "肖春生对贺红玲真的只是一种情绪",
@@ -2937,14 +2993,6 @@
       "onboard_time": 1687255953,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232151,
-      "num": 248068,
-      "word": "警方通报广州一出租屋发现3具尸体",
-      "onboard_time": 1687265371,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231916,
@@ -2987,12 +3035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229118,
-      "num": 205913,
-      "word": "张小狮 这一系列畸形的爱到底有多可怕",
-      "onboard_time": 1687265131,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 228374,
+      "num": 228374,
+      "word": "王鹤棣手机壳后面塞红包",
+      "onboard_time": 1687264112,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 228254,
@@ -3243,6 +3291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204739,
+      "num": 189652,
+      "word": "白敬亭发了粉丝修的图",
+      "onboard_time": 1687266571,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204528,
       "num": 204528,
       "word": "两个人同频共振才能走得长远",
@@ -3363,14 +3419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197573,
-      "num": 179387,
-      "word": "王鹤棣手机壳后面塞红包",
-      "onboard_time": 1687264112,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196948,
       "num": 196948,
       "word": "幼儿园手工作业的天花板",
@@ -3383,6 +3431,14 @@
       "num": 170714,
       "word": "偷偷藏不住更新",
       "onboard_time": 1687259251,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196731,
+      "num": 183553,
+      "word": "白敬亭没接住棍子的反应",
+      "onboard_time": 1687266871,
       "rank": 44,
       "category": "影视"
     },
@@ -3475,6 +3531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193804,
+      "num": 179007,
+      "word": "年下发疯年上纵容",
+      "onboard_time": 1687266151,
+      "rank": 45,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 193298,
       "num": 314020,
       "word": "在一起很久后必须分开的情况",
@@ -3561,6 +3625,14 @@
       "onboard_time": 1687099469,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187751,
+      "num": 187751,
+      "word": "FPX对战iG",
+      "onboard_time": 1687266331,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 187726,
@@ -4025,14 +4097,6 @@
       "onboard_time": 1687133730,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162814,
-      "num": 162814,
-      "word": "今起恢复台湾地区番荔枝输入大陆",
-      "onboard_time": 1687264470,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161490,
@@ -4547,6 +4611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118113,
+      "num": 118113,
+      "word": "我10分钟内可以有这两种状态",
+      "onboard_time": 1687266630,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116139,
       "num": 546829,
       "word": "校长带老师到患病女生家中拨穗",
@@ -4827,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59084,
+      "num": 418589,
+      "word": "两轮为何成为年轻人代步神器",
+      "onboard_time": 1687266030,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 56746,
       "num": 73566,
       "word": "雨季进山千万要关注天气变化",
@@ -4992,6 +5072,14 @@
       "word": "男童深夜独自乘车司机果断报警",
       "onboard_time": 1687170340,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18326,
+      "num": 1637734,
+      "word": "试验二十五号卫星成功发射",
+      "onboard_time": 1687247974,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
