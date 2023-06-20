@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 12:33:59
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 13:16:22
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ Uzi哭了（热度：2079978）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
+医护人员称黄子佼无法开口说话（热度：2033744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BC%94%E5%91%98%E6%9C%B4%E7%A7%80%E8%8E%B2%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E8%90%BD%E5%8E%BB%E4%B8%96%23" target="weibo">
 韩国演员朴秀莲从楼梯摔落去世（热度：2020355）
 </a>
@@ -1397,6 +1403,12 @@ Angelababy是靠什么长红多年的（热度：1990762）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%B9%BF%E6%B6%9B%23" target="weibo">
 姜广涛（热度：1974074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
+小鬼往车窗外丢烟头（热度：1973649）
 </a>
 </li>
 
@@ -1997,12 +2009,6 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%BE%84%E6%B8%85%23" target="weibo">
 黄子韬说我们不需要什么澄清（热度：1645137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
-小鬼往车窗外丢烟头（热度：1643388）
 </a>
 </li>
 
@@ -3051,6 +3057,12 @@ Jennie去爬山了（热度：1318773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%86%8D%E5%9B%9E%E5%BA%94%E5%9C%B0%E9%93%81%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%23" target="weibo">
+川大再回应地铁偷拍事件（热度：1298895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E4%BB%98%E8%B4%B9%E5%9D%90%E6%88%91%E8%80%81%E5%85%AC%E7%9A%84%E8%BD%A6%E4%B8%8A%E4%B8%8B%E7%8F%AD%23" target="weibo">
 同事付费坐我老公的车上下班（热度：1297013）
 </a>
@@ -3539,6 +3551,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%BB%BC%E4%B9%99%E5%8D%B7%20%E5%86%99%E4%B8%8D%E5%AE%8C%23" target="weibo">
 文综乙卷 写不完（热度：1183861）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%9B%86%E5%9B%A2%E6%8D%A2%E5%B8%85%23" target="weibo">
+阿里集团换帅（热度：1183729）
 </a>
 </li>
 
@@ -5397,12 +5415,6 @@ THE9演唱会（热度：851473）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
-医护人员称黄子佼无法开口说话（热度：847618）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%A2%97%E5%B7%A5%E6%94%B6%E5%88%B0%E5%B7%A5%E8%B5%84%E7%BB%99%E8%80%81%E6%9D%BF500%E5%85%83%E6%84%9F%E8%B0%A2%23" target="weibo">
 洗碗工收到工资给老板500元感谢（热度：847518）
 </a>
@@ -5999,18 +6011,6 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%88%98%E6%B5%B7%E7%9A%84%E5%91%A8%E4%B9%9F%23" target="weibo">
 有刘海的周也（热度：774375）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%89%AA%E7%9D%AB%E6%AF%9B%23" target="weibo">
-迪丽热巴 剪睫毛（热度：773182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94%23" target="weibo">
-肝脏移植前后肤色对比（热度：773096）
 </a>
 </li>
 
