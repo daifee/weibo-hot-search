@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 12:20:32
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 12:33:59
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
+炎亚纶聊天记录（热度：4518444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B2%E8%BF%9B%E7%90%83%E5%9C%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
 冲进球场男子被行拘（热度：4416366）
 </a>
@@ -185,12 +191,6 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%92%9E%E8%87%B4%E6%AD%BB%E7%94%B7%E5%AD%A9%E7%88%B6%E4%BA%B2%E5%A4%84%E4%BA%8E%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98%23" target="weibo">
 被撞致死男孩父亲处于崩溃边缘（热度：4395833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
-炎亚纶聊天记录（热度：4325570）
 </a>
 </li>
 
@@ -233,6 +233,12 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%E9%81%93%E6%AD%89%23" target="weibo">
 注册不了张z道歉（热度：3835740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%86%92%E5%85%85%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E8%8D%AF%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子造谣冒充女幼师给幼儿喂药被刑拘（热度：3828767）
 </a>
 </li>
 
@@ -305,12 +311,6 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8%23" target="weibo">
 五月天退票（热度：3409292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%86%92%E5%85%85%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E8%8D%AF%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-男子造谣冒充女幼师给幼儿喂药被刑拘（热度：3399993）
 </a>
 </li>
 
@@ -2001,6 +2001,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
+小鬼往车窗外丢烟头（热度：1643388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%A7%93%E8%80%81%E5%B8%88%E5%B7%B2%E8%B0%83%E7%A6%BB%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%23" target="weibo">
 顾姓老师已调离华南理工（热度：1642963）
 </a>
@@ -2465,6 +2471,12 @@ Uzi复出首胜（热度：1475115）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 苹果发布会（热度：1474876）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23" target="weibo">
+谭松韵回应直角肩（热度：1472333）
 </a>
 </li>
 
@@ -4011,6 +4023,12 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%23" target="weibo">
+蔡徐坤评论区回复粉丝（热度：1096044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%B4%81%E9%A6%96%E8%B0%88%E7%A6%BB%E5%A9%9A%E9%A3%8E%E6%B3%A2%E5%BD%B1%E5%93%8D%23" target="weibo">
 董洁首谈离婚风波影响（热度：1095349）
 </a>
@@ -4067,12 +4085,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23" target="weibo">
 二三十了还觉得自己是个小孩正常吗（热度：1081873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23" target="weibo">
-谭松韵回应直角肩（热度：1078779）
 </a>
 </li>
 
@@ -4395,12 +4407,6 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%23" target="weibo">
-蔡徐坤评论区回复粉丝（热度：1015531）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%8D%E8%81%8C%E8%A3%99%23" target="weibo">
 格力主播穿免职裙（热度：1014533）
 </a>
@@ -4617,12 +4623,6 @@ AI写高考作文（热度：992848）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
-小鬼往车窗外丢烟头（热度：976081）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%9B%9E%E5%BD%92%E8%B7%91%E7%94%B7%23" target="weibo">
 蔡徐坤 回归跑男（热度：976003）
 </a>
@@ -4809,6 +4809,12 @@ EDG海报空个位置（热度：945915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E5%B0%94%E5%B7%B2%E8%8E%B7%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%23" target="weibo">
+李凯尔已获得中国国籍（热度：943381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%89%E4%B9%9F%E4%BC%91%E5%85%AC%E5%8F%B8%20%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83%23" target="weibo">
 周三也休公司 上四休三绝不放弃（热度：942695）
 </a>
@@ -4967,6 +4973,12 @@ Jennie巡演翻白眼（热度：927985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD1000%E4%B8%87%E5%92%8C%E6%8C%A31000%E4%B8%87%E5%93%AA%E4%B8%AA%E6%A6%82%E7%8E%87%E6%9B%B4%E5%A4%A7%23" target="weibo">
 中1000万和挣1000万哪个概率更大（热度：910998）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%B4%E5%A8%98%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9C%AA%E5%A9%9A%E6%89%8D%E8%A1%8C%23" target="weibo">
+为什么伴娘一定要未婚才行（热度：910495）
 </a>
 </li>
 
@@ -5381,6 +5393,12 @@ THE9演唱会（热度：851473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E6%94%B9%E7%9A%84%E5%90%8D%E5%AD%97%E9%83%BD%E8%A2%AB%E6%B3%A8%E5%86%8C%E4%BA%86%23" target="weibo">
 白敬亭想改的名字都被注册了（热度：848278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
+医护人员称黄子佼无法开口说话（热度：847618）
 </a>
 </li>
 
@@ -5895,12 +5913,6 @@ EXO团综（热度：791845）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E5%B0%94%E5%B7%B2%E8%8E%B7%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%23" target="weibo">
-李凯尔已获得中国国籍（热度：783869）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BE%AF%E6%98%8E%E6%98%8A%E9%83%AD%E4%BF%8A%E8%BE%B07%E5%A4%A9%E6%B6%A8%E7%B2%89%23" target="weibo">
 肖战侯明昊郭俊辰7天涨粉（热度：783076）
 </a>
@@ -5939,6 +5951,12 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%95%8F%E5%91%A8%E8%8A%B7%E8%8B%A5%E5%90%8C%E6%A1%86%E4%BA%86%23" target="weibo">
 赵敏周芷若同框了（热度：777392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A1%A8%E7%99%BD%E5%A4%B1%E8%B4%A5%E6%89%94%E8%8A%B1%E5%A4%A7%E5%96%8A%E5%A5%B9%E6%98%AF%E5%A5%B3%E5%90%8C%23" target="weibo">
+男子表白失败扔花大喊她是女同（热度：777327）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%9D%E8%84%8F%E7%A7%BB%E6%A4%8D%E5%89%8D%E5%90%8E%E8%82%A4%E8%89%B2%E5%AF%B9%E6%AF%94%23" target="weibo">
 肝脏移植前后肤色对比（热度：773096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E7%BF%BB%E8%AF%91%23" target="weibo">
-六级翻译（热度：772058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%23" target="weibo">
-长风渡（热度：771000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23" target="weibo">
-别把医术拍成了法术（热度：770410）
 </a>
 </li>
 

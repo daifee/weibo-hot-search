@@ -1,30 +1,30 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687234832454,
+  "endTime": 1687235639564,
   "band_list": [
     {
-      "raw_hot": 4325570,
-      "num": 776693,
+      "raw_hot": 4518444,
+      "num": 942748,
       "word": "炎亚纶聊天记录",
       "onboard_time": 1687233275,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 3783594,
-      "num": 772134,
-      "word": "小S和舞蹈老师视频",
-      "onboard_time": 1687181860,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3399993,
-      "num": 3399993,
+      "raw_hot": 3828767,
+      "num": 3828767,
       "word": "男子造谣冒充女幼师给幼儿喂药被刑拘",
       "onboard_time": 1687231830,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3783594,
+      "num": 940925,
+      "word": "小S和舞蹈老师视频",
+      "onboard_time": 1687181860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2894480,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1643388,
+      "num": 1643388,
+      "word": "小鬼往车窗外丢烟头",
+      "onboard_time": 1687233094,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1553704,
       "num": 1553704,
       "word": "房贷",
@@ -113,6 +121,14 @@
       "onboard_time": 1687221455,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1472333,
+      "num": 1472333,
+      "word": "谭松韵回应直角肩",
+      "onboard_time": 1687229669,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1426534,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 1160250,
-      "num": 775968,
+      "num": 938919,
       "word": "王雨馨 从未发声声讨过景瑜任何",
       "onboard_time": 1687225829,
       "rank": 24,
@@ -171,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1078779,
-      "num": 1078779,
-      "word": "谭松韵回应直角肩",
-      "onboard_time": 1687229669,
-      "rank": 31,
-      "category": "艺人,时尚"
+      "raw_hot": 1096044,
+      "num": 1096044,
+      "word": "蔡徐坤评论区回复粉丝",
+      "onboard_time": 1687187205,
+      "rank": 3,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1024603,
@@ -187,28 +203,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1015531,
-      "num": 931079,
-      "word": "蔡徐坤评论区回复粉丝",
-      "onboard_time": 1687187205,
-      "rank": 3,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 983044,
       "num": 983044,
       "word": "高考查分遇上端午假期",
       "onboard_time": 1687220492,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 976081,
-      "num": 976081,
-      "word": "小鬼往车窗外丢烟头",
-      "onboard_time": 1687233094,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 952840,
@@ -219,6 +219,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 943381,
+      "num": 943381,
+      "word": "李凯尔已获得中国国籍",
+      "onboard_time": 1687231471,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 910495,
+      "num": 510581,
+      "word": "为什么伴娘一定要未婚才行",
+      "onboard_time": 1687232792,
+      "rank": 20,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 847618,
+      "num": 755563,
+      "word": "医护人员称黄子佼无法开口说话",
+      "onboard_time": 1687235137,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829175,
       "num": 829175,
       "word": "马云指出淘宝天猫未来三个方向",
@@ -227,20 +251,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 783869,
-      "num": 783869,
-      "word": "李凯尔已获得中国国籍",
-      "onboard_time": 1687231471,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 777327,
+      "num": 777327,
+      "word": "男子表白失败扔花大喊她是女同",
+      "onboard_time": 1687230989,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 760786,
-      "num": 501053,
-      "word": "为什么伴娘一定要未婚才行",
-      "onboard_time": 1687232792,
-      "rank": 20,
-      "category": "情感,社会新闻"
+      "raw_hot": 752217,
+      "num": 752217,
+      "word": "网传岳阳一母亲杀死16岁女儿",
+      "onboard_time": 1687232371,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735888,
@@ -291,12 +315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 601228,
-      "num": 601228,
-      "word": "网传岳阳一母亲杀死16岁女儿",
-      "onboard_time": 1687232371,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 606819,
+      "num": 606819,
+      "word": "网上很火但是你不懂的梗",
+      "onboard_time": 1687228049,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 569676,
@@ -323,14 +347,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 534376,
-      "num": 534376,
-      "word": "网上很火但是你不懂的梗",
-      "onboard_time": 1687228049,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 529723,
       "num": 529723,
       "word": "书粉剧粉都满意的选角",
@@ -355,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 488254,
-      "num": 488254,
-      "word": "男子表白失败扔花大喊她是女同",
-      "onboard_time": 1687230989,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443407,
       "num": 338599,
       "word": "每个月工资8000但闲的发慌",
@@ -385,6 +393,14 @@
       "onboard_time": 1687229012,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 423553,
+      "num": 423553,
+      "word": "宋轶回应没唱OST",
+      "onboard_time": 1687233632,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 417804,
@@ -427,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 366353,
-      "num": 366353,
-      "word": "宋轶回应没唱OST",
-      "onboard_time": 1687233632,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362962,
       "num": 294648,
       "word": "黑莲花攻略手册",
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353607,
+      "num": 353607,
+      "word": "马尔代夫",
+      "onboard_time": 1687234836,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349622,
       "num": 349622,
       "word": "警方通报网传女幼师疑给幼儿喂避孕药",
@@ -481,6 +497,14 @@
       "onboard_time": 1687215680,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346018,
+      "num": 346018,
+      "word": "折腰男主人设",
+      "onboard_time": 1687234355,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 344234,
@@ -529,6 +553,14 @@
       "onboard_time": 1687225711,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 308676,
+      "num": 308676,
+      "word": "梦中的那片海定档北京卫视",
+      "onboard_time": 1687235078,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 304431,
@@ -731,6 +763,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226915,
+      "num": 226915,
+      "word": "潘粤明新剧真的瘦了",
+      "onboard_time": 1687234957,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222850,
+      "num": 222850,
+      "word": "上海大爷相亲称每月给30万零花钱",
+      "onboard_time": 1687233153,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221945,
       "num": 221945,
       "word": "虞书欣王鹤棣 二搭",
@@ -795,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199207,
+      "num": 199207,
+      "word": "光遇",
+      "onboard_time": 1687235017,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196560,
       "num": 216047,
       "word": "汪苏泷演唱会北京站秒罄",
@@ -819,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196289,
+      "num": 196289,
+      "word": "小问题水",
+      "onboard_time": 1687235437,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195627,
       "num": 195627,
       "word": "上甘岭阵容官宣",
@@ -833,14 +897,6 @@
       "onboard_time": 1687226790,
       "rank": 42,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 195345,
-      "num": 215908,
-      "word": "折腰男主人设",
-      "onboard_time": 1687234355,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 190599,
@@ -859,11 +915,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185543,
-      "num": 216243,
-      "word": "上海大爷相亲称每月给30万零花钱",
-      "onboard_time": 1687233153,
-      "rank": 38,
+      "raw_hot": 186681,
+      "num": 215511,
+      "word": "雷军现身武大毕业典礼",
+      "onboard_time": 1687234778,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -947,20 +1003,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162884,
-      "num": 215511,
-      "word": "雷军现身武大毕业典礼",
-      "onboard_time": 1687234778,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160803,
       "num": 160803,
       "word": "对经济复苏要有信心更要多些耐心",
       "onboard_time": 1687228651,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 160105,
+      "num": 171680,
+      "word": "师范女生大学4年志愿服务867小时",
+      "onboard_time": 1687235259,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 158757,
@@ -1019,8 +1075,16 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 137590,
+      "num": 2002460,
+      "word": "这些古诗词同样适合送给毕业生",
+      "onboard_time": 1687231650,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135835,
-      "num": 496096,
+      "num": 755990,
       "word": "2023年最有仪式感的毕业",
       "onboard_time": 1687231229,
       "rank": 19,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1687164284,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111685,
-      "num": 2002460,
-      "word": "这些古诗词同样适合送给毕业生",
-      "onboard_time": 1687231650,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97549,
