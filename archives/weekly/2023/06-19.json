@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687224917852,
+  "endTime": 1687225932430,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 12100652,
-      "num": 563215,
+      "num": 568647,
       "word": "小S和舞蹈老师视频",
       "onboard_time": 1687181860,
       "rank": 10,
@@ -315,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1508617,
+      "num": 993793,
+      "word": "张歆艺 不是所有演艺界的人都是坏人",
+      "onboard_time": 1687221455,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1499877,
       "num": 1127404,
       "word": "肖战的言冰云vs吴幸键的言冰云",
       "onboard_time": 1687174718,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1468635,
-      "num": 918234,
-      "word": "张歆艺 不是所有演艺界的人都是坏人",
-      "onboard_time": 1687221455,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1426534,
@@ -387,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1321886,
+      "num": 987626,
+      "word": "台湾艺人宥胜被控性骚扰后致歉",
+      "onboard_time": 1687222774,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1321563,
       "num": 1161505,
       "word": "庆余年叶灵儿",
       "onboard_time": 1687171002,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1318303,
-      "num": 612486,
-      "word": "台湾艺人宥胜被控性骚扰后致歉",
-      "onboard_time": 1687222774,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1293958,
@@ -539,6 +539,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 971702,
+      "num": 971702,
+      "word": "高考查分遇上端午假期",
+      "onboard_time": 1687220492,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 950232,
       "num": 950232,
       "word": "石矶娘娘来了也穿不了",
@@ -619,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 856543,
-      "num": 856543,
-      "word": "高考查分遇上端午假期",
-      "onboard_time": 1687220492,
-      "rank": 4,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -667,8 +667,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 817789,
-      "num": 570086,
+      "raw_hot": 820526,
+      "num": 571790,
       "word": "你还在等待川大女生处理结果吗",
       "onboard_time": 1687219531,
       "rank": 12,
@@ -681,6 +681,14 @@
       "onboard_time": 1687142910,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 798836,
+      "num": 798836,
+      "word": "杨迪说陈妍希的家像样板房",
+      "onboard_time": 1687224393,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 796362,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569676,
+      "num": 390923,
+      "word": "黄子佼性骚扰事件时间线",
+      "onboard_time": 1687225592,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565401,
       "num": 568131,
       "word": "女子称母亲到派出所接受询问后死亡",
@@ -1003,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 459546,
+      "num": 326427,
+      "word": "妈妈在单位被大声训斥",
+      "onboard_time": 1687220553,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 455495,
       "num": 644028,
       "word": "因为口癖是老公社死了",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1687175139,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 424474,
-      "num": 337381,
-      "word": "杨迪说陈妍希的家像样板房",
-      "onboard_time": 1687224393,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 423282,
@@ -1211,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384346,
+      "num": 332513,
+      "word": "门诊的药袋都开始内卷了",
+      "onboard_time": 1687218082,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380856,
       "num": 380856,
       "word": "相亲中的聊天记录",
@@ -1235,12 +1259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369212,
-      "num": 332513,
-      "word": "门诊的药袋都开始内卷了",
-      "onboard_time": 1687218082,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 364974,
+      "num": 316498,
+      "word": "王雨馨 从未发声声讨过景瑜任何",
+      "onboard_time": 1687225829,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 361530,
@@ -1315,6 +1339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 344234,
+      "num": 289474,
+      "word": "王一博骑电动车",
+      "onboard_time": 1687224751,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341625,
       "num": 264635,
       "word": "很想很想你",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1687166381,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332686,
+      "num": 332686,
+      "word": "幼师给幼儿喂避孕药面临什么法律责任",
+      "onboard_time": 1687225054,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330503,
@@ -1395,20 +1435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312259,
+      "num": 312259,
+      "word": "6月LPR报价下调",
+      "onboard_time": 1687225711,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310144,
       "num": 237889,
       "word": "吴谨言把QQ秀穿身上了",
       "onboard_time": 1687162968,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 310076,
-      "num": 310076,
-      "word": "妈妈在单位被大声训斥",
-      "onboard_time": 1687220553,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 308716,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1687125373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284701,
+      "num": 284701,
+      "word": "入职第一天都下班了他们还不走",
+      "onboard_time": 1687225054,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 283647,
@@ -1659,14 +1707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260094,
-      "num": 289474,
-      "word": "王一博骑电动车",
-      "onboard_time": 1687224751,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1687191450,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256119,
+      "num": 256119,
+      "word": "3500的工资24小时待命",
+      "onboard_time": 1687218082,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 255210,
@@ -1747,6 +1795,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 250967,
+      "num": 250967,
+      "word": "LPR",
+      "onboard_time": 1687224272,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 248934,
       "num": 248934,
       "word": "工作没找到还劝退了一个",
@@ -1779,20 +1835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244905,
+      "num": 345295,
+      "word": "广东通报一中学生遭校暴被逼下跪",
+      "onboard_time": 1687222715,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 244382,
       "num": 220309,
       "word": "男子地铁上疑指责女孩穿着暴露引争执",
       "onboard_time": 1687154982,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242533,
-      "num": 242533,
-      "word": "3500的工资24小时待命",
-      "onboard_time": 1687218082,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 240557,
@@ -1907,14 +1963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231865,
-      "num": 345295,
-      "word": "广东通报一中学生遭校暴被逼下跪",
-      "onboard_time": 1687222715,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 230574,
       "num": 184605,
       "word": "折腰",
@@ -1931,14 +1979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227074,
-      "num": 227074,
-      "word": "LPR",
-      "onboard_time": 1687224272,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 226525,
       "num": 343245,
       "word": "这水龙头有毛病吧",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1687150532,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221888,
+      "num": 221888,
+      "word": "高校毕业典礼一首不说再见燃爆全场",
+      "onboard_time": 1687225531,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221106,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216129,
+      "num": 216129,
+      "word": "终于懂边放水边加水的数学题了",
+      "onboard_time": 1687225054,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 215936,
@@ -2219,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188778,
+      "num": 188778,
+      "word": "海拔4000米的雪山发现一只猫",
+      "onboard_time": 1687218082,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188347,
       "num": 188347,
       "word": "有点担心与凤行剧情了",
@@ -2233,14 +2297,6 @@
       "onboard_time": 1687099469,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185660,
-      "num": 185660,
-      "word": "海拔4000米的雪山发现一只猫",
-      "onboard_time": 1687218082,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 185360,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1687098511,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180242,
+      "num": 180242,
+      "word": "全国3072所高校全名单",
+      "onboard_time": 1687225231,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180140,
@@ -2451,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166014,
+      "num": 166014,
+      "word": "孟子义的背",
+      "onboard_time": 1687222953,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165915,
       "num": 165915,
       "word": "入职前一晚被鸽了",
@@ -2539,20 +2611,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 154819,
+      "num": 154819,
+      "word": "庆余年2",
+      "onboard_time": 1687218148,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154121,
       "num": 154121,
       "word": "新闻学专业真的是天坑专业吗",
       "onboard_time": 1687138227,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153894,
-      "num": 153894,
-      "word": "孟子义的背",
-      "onboard_time": 1687222953,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 152871,
@@ -2704,14 +2776,6 @@
       "word": "王鹤棣许七安",
       "onboard_time": 1687094850,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 141168,
-      "num": 139893,
-      "word": "庆余年2",
-      "onboard_time": 1687218148,
-      "rank": 46,
       "category": "影视"
     },
     {

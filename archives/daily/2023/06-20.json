@@ -1,10 +1,10 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687224917852,
+  "endTime": 1687225932430,
   "band_list": [
     {
       "raw_hot": 3783594,
-      "num": 497835,
+      "num": 568647,
       "word": "小S和舞蹈老师视频",
       "onboard_time": 1687181860,
       "rank": 10,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1468635,
-      "num": 918234,
+      "raw_hot": 1508617,
+      "num": 993793,
       "word": "张歆艺 不是所有演艺界的人都是坏人",
       "onboard_time": 1687221455,
       "rank": 3,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1318303,
-      "num": 612486,
+      "raw_hot": 1321886,
+      "num": 987626,
       "word": "台湾艺人宥胜被控性骚扰后致歉",
       "onboard_time": 1687222774,
       "rank": 11,
@@ -115,20 +115,20 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 971702,
+      "num": 971702,
+      "word": "高考查分遇上端午假期",
+      "onboard_time": 1687220492,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 952840,
       "num": 952840,
       "word": "朱一龙爸爸",
       "onboard_time": 1687176338,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 856543,
-      "num": 856543,
-      "word": "高考查分遇上端午假期",
-      "onboard_time": 1687220492,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 829175,
@@ -139,12 +139,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 817789,
-      "num": 570086,
+      "raw_hot": 820526,
+      "num": 571790,
       "word": "你还在等待川大女生处理结果吗",
       "onboard_time": 1687219531,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798836,
+      "num": 798836,
+      "word": "杨迪说陈妍希的家像样板房",
+      "onboard_time": 1687224393,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 712931,
@@ -187,6 +195,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 569676,
+      "num": 390923,
+      "word": "黄子佼性骚扰事件时间线",
+      "onboard_time": 1687225592,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 547585,
+      "num": 547585,
+      "word": "林志颖",
+      "onboard_time": 1687171660,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535043,
       "num": 295049,
       "word": "唐梓结婚",
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459546,
+      "num": 326427,
+      "word": "妈妈在单位被大声训斥",
+      "onboard_time": 1687220553,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443407,
       "num": 338599,
       "word": "每个月工资8000但闲的发慌",
@@ -211,28 +243,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434928,
-      "num": 434928,
-      "word": "林志颖",
-      "onboard_time": 1687171660,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 424474,
-      "num": 337381,
-      "word": "杨迪说陈妍希的家像样板房",
-      "onboard_time": 1687224393,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 369212,
+      "raw_hot": 384346,
       "num": 332513,
       "word": "门诊的药袋都开始内卷了",
       "onboard_time": 1687218082,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 364974,
+      "num": 316498,
+      "word": "王雨馨 从未发声声讨过景瑜任何",
+      "onboard_time": 1687225829,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 362962,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344234,
+      "num": 289474,
+      "word": "王一博骑电动车",
+      "onboard_time": 1687224751,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343209,
       "num": 294420,
       "word": "结婚五年面相都变了",
@@ -288,6 +320,14 @@
       "word": "胡锡进 川大那名女生的事该有结果了",
       "onboard_time": 1687175319,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332686,
+      "num": 332686,
+      "word": "幼师给幼儿喂避孕药面临什么法律责任",
+      "onboard_time": 1687225054,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -307,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310076,
-      "num": 310076,
-      "word": "妈妈在单位被大声训斥",
-      "onboard_time": 1687220553,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 312259,
+      "num": 312259,
+      "word": "6月LPR报价下调",
+      "onboard_time": 1687225711,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 304431,
@@ -355,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284701,
+      "num": 284701,
+      "word": "入职第一天都下班了他们还不走",
+      "onboard_time": 1687225054,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275546,
       "num": 275546,
       "word": "朱一龙说曾掉到陈思诚家水池",
@@ -363,20 +411,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260094,
-      "num": 289474,
-      "word": "王一博骑电动车",
-      "onboard_time": 1687224751,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256159,
       "num": 256159,
       "word": "倪妮的珍珠首饰",
       "onboard_time": 1687191450,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256119,
+      "num": 256119,
+      "word": "3500的工资24小时待命",
+      "onboard_time": 1687218082,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 250967,
+      "num": 250967,
+      "word": "LPR",
+      "onboard_time": 1687224272,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 248573,
@@ -403,20 +459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244905,
+      "num": 345295,
+      "word": "广东通报一中学生遭校暴被逼下跪",
+      "onboard_time": 1687222715,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 243602,
       "num": 243602,
       "word": "顾九思给柳玉茹下跪",
       "onboard_time": 1687188339,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242533,
-      "num": 242533,
-      "word": "3500的工资24小时待命",
-      "onboard_time": 1687218082,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 239686,
@@ -435,22 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231865,
-      "num": 345295,
-      "word": "广东通报一中学生遭校暴被逼下跪",
-      "onboard_time": 1687222715,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 227074,
-      "num": 227074,
-      "word": "LPR",
-      "onboard_time": 1687224272,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 221945,
       "num": 221945,
       "word": "虞书欣王鹤棣 二搭",
@@ -459,12 +499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221888,
+      "num": 221888,
+      "word": "高校毕业典礼一首不说再见燃爆全场",
+      "onboard_time": 1687225531,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 221106,
       "num": 221106,
       "word": "谭松韵直角肩",
       "onboard_time": 1687221755,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 216129,
+      "num": 216129,
+      "word": "终于懂边放水边加水的数学题了",
+      "onboard_time": 1687225054,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 215248,
@@ -499,12 +555,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185660,
-      "num": 185660,
+      "raw_hot": 188778,
+      "num": 188778,
       "word": "海拔4000米的雪山发现一只猫",
       "onboard_time": 1687218082,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180242,
+      "num": 180242,
+      "word": "全国3072所高校全名单",
+      "onboard_time": 1687225231,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 171811,
@@ -521,6 +585,14 @@
       "onboard_time": 1687224091,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166014,
+      "num": 166014,
+      "word": "孟子义的背",
+      "onboard_time": 1687222953,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 165496,
@@ -563,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153894,
-      "num": 153894,
-      "word": "孟子义的背",
-      "onboard_time": 1687222953,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 154819,
+      "num": 154819,
+      "word": "庆余年2",
+      "onboard_time": 1687218148,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 147885,
@@ -601,14 +673,6 @@
       "onboard_time": 1687186903,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 141168,
-      "num": 139893,
-      "word": "庆余年2",
-      "onboard_time": 1687218148,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 129420,
@@ -772,7 +836,7 @@
     },
     {
       "raw_hot": 49906,
-      "num": 939416,
+      "num": 1012436,
       "word": "杭州亚运奖牌上的湖山长什么样",
       "onboard_time": 1687180837,
       "rank": 2,
