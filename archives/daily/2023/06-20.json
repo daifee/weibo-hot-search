@@ -1,18 +1,34 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687232054782,
+  "endTime": 1687234832454,
   "band_list": [
     {
+      "raw_hot": 4325570,
+      "num": 776693,
+      "word": "炎亚纶聊天记录",
+      "onboard_time": 1687233275,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3783594,
-      "num": 762152,
+      "num": 772134,
       "word": "小S和舞蹈老师视频",
       "onboard_time": 1687181860,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 3399993,
+      "num": 3399993,
+      "word": "男子造谣冒充女幼师给幼儿喂药被刑拘",
+      "onboard_time": 1687231830,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2894480,
-      "num": 1352525,
+      "num": 2000664,
       "word": "黄子佼爱徒Lulu发声",
       "onboard_time": 1687226730,
       "rank": 3,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1553704,
+      "num": 1553704,
+      "word": "房贷",
+      "onboard_time": 1687230032,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1508617,
       "num": 1223957,
       "word": "张歆艺 不是所有演艺界的人都是坏人",
@@ -139,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1127892,
-      "num": 1127892,
-      "word": "房贷",
-      "onboard_time": 1687230032,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1116613,
       "num": 571790,
       "word": "你还在等待川大女生处理结果吗",
       "onboard_time": 1687219531,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1078779,
+      "num": 1078779,
+      "word": "谭松韵回应直角肩",
+      "onboard_time": 1687229669,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1024603,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 1015531,
-      "num": 726095,
+      "num": 931079,
       "word": "蔡徐坤评论区回复粉丝",
       "onboard_time": 1687187205,
       "rank": 3,
@@ -177,6 +201,14 @@
       "onboard_time": 1687220492,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 976081,
+      "num": 976081,
+      "word": "小鬼往车窗外丢烟头",
+      "onboard_time": 1687233094,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 952840,
@@ -193,6 +225,22 @@
       "onboard_time": 1687180119,
       "rank": 7,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 783869,
+      "num": 783869,
+      "word": "李凯尔已获得中国国籍",
+      "onboard_time": 1687231471,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 760786,
+      "num": 501053,
+      "word": "为什么伴娘一定要未婚才行",
+      "onboard_time": 1687232792,
+      "rank": 20,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 735888,
@@ -236,11 +284,19 @@
     },
     {
       "raw_hot": 634631,
-      "num": 343232,
+      "num": 348844,
       "word": "舍友暗示我别化妆见她朋友",
       "onboard_time": 1687219470,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 601228,
+      "num": 601228,
+      "word": "网传岳阳一母亲杀死16岁女儿",
+      "onboard_time": 1687232371,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569676,
@@ -267,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 534376,
+      "num": 534376,
+      "word": "网上很火但是你不懂的梗",
+      "onboard_time": 1687228049,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529723,
       "num": 529723,
       "word": "书粉剧粉都满意的选角",
@@ -283,20 +347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 483311,
-      "num": 483311,
-      "word": "网上很火但是你不懂的梗",
-      "onboard_time": 1687228049,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 483143,
-      "num": 483143,
+      "raw_hot": 513170,
+      "num": 499096,
       "word": "妈妈在单位被大声训斥",
       "onboard_time": 1687220553,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488254,
+      "num": 488254,
+      "word": "男子表白失败扔花大喊她是女同",
+      "onboard_time": 1687230989,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443407,
@@ -305,6 +369,14 @@
       "onboard_time": 1687163147,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437163,
+      "num": 437163,
+      "word": "黄子佼多个代言暂停合作",
+      "onboard_time": 1687233873,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 423836,
@@ -331,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386139,
+      "num": 275598,
+      "word": "陈文茜谈黄子佼",
+      "onboard_time": 1687232371,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384346,
       "num": 332513,
       "word": "门诊的药袋都开始内卷了",
@@ -339,20 +419,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 371889,
-      "num": 371889,
-      "word": "谭松韵回应直角肩",
-      "onboard_time": 1687229669,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 368289,
       "num": 320798,
       "word": "面试官问针掉海里怎么拿回来",
       "onboard_time": 1687227091,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 366353,
+      "num": 366353,
+      "word": "宋轶回应没唱OST",
+      "onboard_time": 1687233632,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 362962,
@@ -377,14 +457,6 @@
       "onboard_time": 1687157623,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354597,
-      "num": 354597,
-      "word": "李凯尔已获得中国国籍",
-      "onboard_time": 1687231471,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 349622,
@@ -425,14 +497,6 @@
       "onboard_time": 1687161587,
       "rank": 23,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 342921,
-      "num": 342921,
-      "word": "男子表白失败扔花大喊她是女同",
-      "onboard_time": 1687230989,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333071,
@@ -513,6 +577,14 @@
       "onboard_time": 1687225054,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284189,
+      "num": 284189,
+      "word": "中餐厅",
+      "onboard_time": 1687232972,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 275546,
@@ -651,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230628,
+      "num": 230628,
+      "word": "公诉全员告别角色",
+      "onboard_time": 1687234296,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221945,
       "num": 221945,
       "word": "虞书欣王鹤棣 二搭",
@@ -715,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196560,
+      "num": 216047,
+      "word": "汪苏泷演唱会北京站秒罄",
+      "onboard_time": 1687233934,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196423,
       "num": 196423,
       "word": "邓科的与凤行vs折腰",
@@ -740,19 +828,19 @@
     },
     {
       "raw_hot": 195585,
-      "num": 195585,
+      "num": 215334,
       "word": "广东荔枝价格跌至5年来最低",
       "onboard_time": 1687226790,
       "rank": 42,
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 191882,
-      "num": 191882,
-      "word": "男子造谣冒充女幼师给幼儿喂药被刑拘",
-      "onboard_time": 1687231830,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 195345,
+      "num": 215908,
+      "word": "折腰男主人设",
+      "onboard_time": 1687234355,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 190599,
@@ -769,6 +857,14 @@
       "onboard_time": 1687218082,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185543,
+      "num": 216243,
+      "word": "上海大爷相亲称每月给30万零花钱",
+      "onboard_time": 1687233153,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180242,
@@ -851,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162884,
+      "num": 215511,
+      "word": "雷军现身武大毕业典礼",
+      "onboard_time": 1687234778,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160803,
       "num": 160803,
       "word": "对经济复苏要有信心更要多些耐心",
@@ -865,6 +969,14 @@
       "onboard_time": 1687174061,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156217,
+      "num": 215267,
+      "word": "密子君  重庆的烧烤也开卷了",
+      "onboard_time": 1687233754,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 153813,
@@ -969,6 +1081,14 @@
       "onboard_time": 1687164284,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111685,
+      "num": 2002460,
+      "word": "这些古诗词同样适合送给毕业生",
+      "onboard_time": 1687231650,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97549,
@@ -1113,14 +1233,6 @@
       "onboard_time": 1687202413,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24457,
-      "num": 1366673,
-      "word": "这些古诗词同样适合送给毕业生",
-      "onboard_time": 1687231650,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

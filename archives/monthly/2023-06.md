@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 11:34:14
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/20 12:20:32
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
+炎亚纶聊天记录（热度：4325570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E6%8B%BF%E5%88%80%E5%89%B2%E8%87%AA%E5%B7%B1%23" target="weibo">
 黄子佼拿刀割自己（热度：4203869）
 </a>
@@ -299,6 +305,12 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%80%E7%A5%A8%23" target="weibo">
 五月天退票（热度：3409292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E5%86%92%E5%85%85%E5%A5%B3%E5%B9%BC%E5%B8%88%E7%BB%99%E5%B9%BC%E5%84%BF%E5%96%82%E8%8D%AF%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子造谣冒充女幼师给幼儿喂药被刑拘（热度：3399993）
 </a>
 </li>
 
@@ -2235,6 +2247,12 @@ Angelababy黄景瑜 百年灵（热度：1565691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%23" target="weibo">
+房贷（热度：1553704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E7%A1%AE%E5%AE%9A%E4%BA%8E7%E6%9C%8810%E6%97%A5%E5%9B%9E%E5%BD%92%23" target="weibo">
 EXO确定于7月10日回归（热度：1552990）
 </a>
@@ -3825,12 +3843,6 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E8%B4%B7%23" target="weibo">
-房贷（热度：1127892）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%BC%94%E5%91%98%E5%8F%98%E6%BC%94%E8%B4%9D%23" target="weibo">
 央视网评演员变演贝（热度：1127422）
 </a>
@@ -4055,6 +4067,12 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23" target="weibo">
 二三十了还觉得自己是个小孩正常吗（热度：1081873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E7%9B%B4%E8%A7%92%E8%82%A9%23" target="weibo">
+谭松韵回应直角肩（热度：1078779）
 </a>
 </li>
 
@@ -4595,6 +4613,12 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%98%AF%E6%9B%BE%E9%BB%8E%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%8C%82%E4%BB%B6%E5%90%A7%23" target="weibo">
 赵露思是曾黎的人形挂件吧（热度：976898）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E5%BE%80%E8%BD%A6%E7%AA%97%E5%A4%96%E4%B8%A2%E7%83%9F%E5%A4%B4%23" target="weibo">
+小鬼往车窗外丢烟头（热度：976081）
 </a>
 </li>
 
@@ -5871,6 +5895,12 @@ EXO团综（热度：791845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E5%B0%94%E5%B7%B2%E8%8E%B7%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%23" target="weibo">
+李凯尔已获得中国国籍（热度：783869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BE%AF%E6%98%8E%E6%98%8A%E9%83%AD%E4%BF%8A%E8%BE%B07%E5%A4%A9%E6%B6%A8%E7%B2%89%23" target="weibo">
 肖战侯明昊郭俊辰7天涨粉（热度：783076）
 </a>
@@ -5981,36 +6011,6 @@ EXO团综（热度：791845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E5%8C%BB%E6%9C%AF%E6%8B%8D%E6%88%90%E4%BA%86%E6%B3%95%E6%9C%AF%23" target="weibo">
 别把医术拍成了法术（热度：770410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%8E%8F%E8%80%B3%E6%9C%B5%E4%BA%86%23" target="weibo">
-千万不要用小拇指掏耳朵了（热度：770330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%A7%8D%E8%AF%81%E8%A2%AB%E7%9B%96%E6%AD%BB%E4%BA%A1%E8%AF%81%E6%98%8E%E4%B8%93%E7%94%A8%E7%AB%A0%23" target="weibo">
-婴儿接种证被盖死亡证明专用章（热度：769933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%80%A0%E5%9E%8B%E5%B8%88%E6%8D%A2%E6%88%90%E9%97%B5%E5%A1%94%E9%B2%A8%E4%BA%86%23" target="weibo">
-赵露思造型师换成闵塔鲨了（热度：769821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E5%9B%BE%23" target="weibo">
-山河图（热度：769206）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%BA%A6%E7%B2%92%E8%82%BF%23" target="weibo">
-华晨宇麦粒肿（热度：767588）
 </a>
 </li>
 
