@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687259656491,
+  "endTime": 1687260832338,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -939,6 +939,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 826560,
+      "num": 717586,
+      "word": "已经be但又很火的cp",
+      "onboard_time": 1687257453,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 822136,
       "num": 822136,
       "word": "孙笑川辟谣去世",
@@ -952,6 +960,14 @@
       "word": "男子表白失败扔花大喊她是女同",
       "onboard_time": 1687230989,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805181,
+      "num": 805181,
+      "word": "官方回应公职人员吸毒被查后仍在岗",
+      "onboard_time": 1687258053,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571277,
+      "num": 571277,
+      "word": "5岁女孩被东航飞行员撞倒碾压身亡",
+      "onboard_time": 1687260209,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569676,
       "num": 390923,
       "word": "黄子佼性骚扰事件时间线",
@@ -1315,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513249,
+      "num": 354602,
+      "word": "再见了迪丽热巴安旎",
+      "onboard_time": 1687259611,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505061,
       "num": 514133,
       "word": "布林肯访华",
@@ -1336,6 +1368,14 @@
       "word": "折腰预告",
       "onboard_time": 1687164945,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 494993,
+      "num": 318218,
+      "word": "今晚看这三部剧",
+      "onboard_time": 1687259308,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1403,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 461841,
+      "num": 308116,
+      "word": "偷偷藏不住受众群体",
+      "onboard_time": 1687259429,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460130,
       "num": 414405,
       "word": "偷偷藏不住",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1687160867,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 439710,
-      "num": 439710,
-      "word": "官方回应公职人员吸毒被查后仍在岗",
-      "onboard_time": 1687258053,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 437163,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1687097429,
       "rank": 16,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 376057,
-      "num": 337632,
-      "word": "已经be但又很火的cp",
-      "onboard_time": 1687257453,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374278,
@@ -2163,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286351,
+      "num": 286351,
+      "word": "EDG惜败亚太第一PRX",
+      "onboard_time": 1687257332,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285563,
       "num": 285563,
       "word": "内蒙古城管执法中队负责人出轨女下属",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1687136430,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266085,
+      "num": 266085,
+      "word": "爱尔眼科王勇不接受艾芬道歉",
+      "onboard_time": 1687259790,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264299,
@@ -2547,14 +2595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 250930,
-      "num": 250930,
-      "word": "今晚看这三部剧",
-      "onboard_time": 1687259308,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249497,
       "num": 249497,
       "word": "办公室里怎么称呼比自己大的人",
@@ -2667,14 +2707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240042,
-      "num": 240042,
-      "word": "EDG惜败亚太第一PRX",
-      "onboard_time": 1687257332,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 239968,
       "num": 239968,
       "word": "汪苏泷赵露思新歌藏不住了",
@@ -2785,6 +2817,14 @@
       "onboard_time": 1687158949,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232292,
+      "num": 1146917,
+      "word": "湖南师徒无畏跳江救回丽水女子",
+      "onboard_time": 1687256672,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 232258,
@@ -2971,14 +3011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215909,
-      "num": 1146917,
-      "word": "湖南师徒无畏跳江救回丽水女子",
-      "onboard_time": 1687256672,
-      "rank": 6,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 214263,
       "num": 426600,
       "word": "相亲对象讨厌的老师是我爸",
@@ -2988,7 +3020,7 @@
     },
     {
       "raw_hot": 213998,
-      "num": 182903,
+      "num": 199133,
       "word": "陈情令为什么爆火",
       "onboard_time": 1687257033,
       "rank": 42,
@@ -3067,12 +3099,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 205562,
-      "num": 171799,
-      "word": "偷偷藏不住受众群体",
-      "onboard_time": 1687259429,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 205543,
+      "num": 205543,
+      "word": "我国个人住房贷款余额38.94万亿元",
+      "onboard_time": 1687259192,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 205315,
@@ -3097,14 +3129,6 @@
       "onboard_time": 1687246052,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203007,
-      "num": 170829,
-      "word": "再见了迪丽热巴安旎",
-      "onboard_time": 1687259611,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 202936,
@@ -3307,20 +3331,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 194673,
+      "num": 194673,
+      "word": "鹿晗荧光棒使用方法",
+      "onboard_time": 1687255590,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194361,
       "num": 194361,
       "word": "沙溢胡可演亲家",
       "onboard_time": 1687142307,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193370,
-      "num": 182716,
-      "word": "鹿晗荧光棒使用方法",
-      "onboard_time": 1687255590,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 193298,
@@ -3707,14 +3731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169803,
-      "num": 169803,
-      "word": "我国个人住房贷款余额38.94万亿元",
-      "onboard_time": 1687259192,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 169780,
       "num": 169780,
       "word": "嘉兴小伙求婚时突然走人却被女友夸赞",
@@ -3785,6 +3801,14 @@
       "onboard_time": 1687192824,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165259,
+      "num": 165259,
+      "word": "比亚迪",
+      "onboard_time": 1687260150,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 164787,
@@ -4172,7 +4196,7 @@
     },
     {
       "raw_hot": 137621,
-      "num": 137621,
+      "num": 165154,
       "word": "入职后发现下班时间不一样",
       "onboard_time": 1687257870,
       "rank": 49,
@@ -4779,20 +4803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17401,
+      "num": 199512,
+      "word": "618进入冲刺阶段",
+      "onboard_time": 1687258832,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 15927,
       "num": 1713407,
       "word": "发现最美铁路",
       "onboard_time": 1687173101,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14659,
-      "num": 172998,
-      "word": "618进入冲刺阶段",
-      "onboard_time": 1687258832,
-      "rank": 39,
-      "category": "科技,社会新闻"
     }
   ],
   "hotgov_list": [
