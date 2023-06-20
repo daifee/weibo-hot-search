@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687279091472,
+  "endTime": 1687281319150,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -1091,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785843,
+      "num": 785843,
+      "word": "种地吧 根本补不完",
+      "onboard_time": 1687277612,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783781,
       "num": 783781,
       "word": "为什么阴干的衣服那么臭",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1687218929,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 517295,
-      "num": 517295,
-      "word": "种地吧 根本补不完",
-      "onboard_time": 1687277612,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 517021,
@@ -2297,6 +2297,14 @@
       "onboard_time": 1687162968,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 310086,
+      "num": 247935,
+      "word": "马伯骞才是全剧最不尴尬的人",
+      "onboard_time": 1687278992,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 308716,
@@ -3337,6 +3345,14 @@
       "onboard_time": 1687230271,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218954,
+      "num": 171672,
+      "word": "种地吧",
+      "onboard_time": 1687280185,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 218296,
@@ -4433,14 +4449,6 @@
       "onboard_time": 1687235259,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 158397,
-      "num": 158397,
-      "word": "马伯骞才是全剧最不尴尬的人",
-      "onboard_time": 1687278992,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 158354,

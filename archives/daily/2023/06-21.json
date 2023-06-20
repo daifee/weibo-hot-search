@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687279091472,
+  "endTime": 1687281319150,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 785843,
+      "num": 785843,
+      "word": "种地吧 根本补不完",
+      "onboard_time": 1687277612,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747072,
       "num": 237575,
       "word": "今起恢复台湾地区番荔枝输入大陆",
@@ -113,14 +121,6 @@
       "onboard_time": 1687274675,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517295,
-      "num": 517295,
-      "word": "种地吧 根本补不完",
-      "onboard_time": 1687277612,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 480853,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310086,
+      "num": 247935,
+      "word": "马伯骞才是全剧最不尴尬的人",
+      "onboard_time": 1687278992,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276520,
       "num": 228668,
       "word": "李坤城儿子宣布与林靖恩和解",
@@ -273,6 +281,14 @@
       "onboard_time": 1687272817,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218954,
+      "num": 171672,
+      "word": "种地吧",
+      "onboard_time": 1687280185,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 213131,
@@ -387,14 +403,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 158397,
-      "num": 158397,
-      "word": "马伯骞才是全剧最不尴尬的人",
-      "onboard_time": 1687278992,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 128903,
       "num": 161182,
       "word": "染头发染出凶案现场",
@@ -425,6 +433,14 @@
       "onboard_time": 1687276537,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52084,
+      "num": 82465,
+      "word": "迪士尼回应暴雨天能否退票",
+      "onboard_time": 1687263570,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 12289,
