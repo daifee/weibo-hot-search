@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687299347382,
+  "endTime": 1687300414753,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -5355,6 +5355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48464,
+      "num": 48464,
+      "word": "考古王菲以前的微博",
+      "onboard_time": 1687291512,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46089,
       "num": 46089,
       "word": "天行健",
@@ -5387,12 +5395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41115,
-      "num": 41115,
-      "word": "考古王菲以前的微博",
-      "onboard_time": 1687291512,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 39437,
+      "num": 48422,
+      "word": "顾九思终究是个局外人",
+      "onboard_time": 1687287675,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 39194,
@@ -5432,14 +5440,6 @@
       "word": "叶世安柳玉茹",
       "onboard_time": 1687099054,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 33125,
-      "num": 36139,
-      "word": "顾九思终究是个局外人",
-      "onboard_time": 1687287675,
-      "rank": 40,
       "category": "影视"
     },
     {

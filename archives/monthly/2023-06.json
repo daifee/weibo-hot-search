@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687299347382,
+  "endTime": 1687300414753,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -47115,6 +47115,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 48464,
+      "num": 48464,
+      "word": "考古王菲以前的微博",
+      "onboard_time": 1687291512,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48292,
       "num": 1905437,
       "word": "130秒飞阅杭州亚运会场馆",
@@ -47427,14 +47435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41115,
-      "num": 41115,
-      "word": "考古王菲以前的微博",
-      "onboard_time": 1687291512,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41028,
       "num": 41028,
       "word": "亲耳聆听了一场大女人发言",
@@ -47481,6 +47481,14 @@
       "onboard_time": 1686139473,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39437,
+      "num": 48422,
+      "word": "顾九思终究是个局外人",
+      "onboard_time": 1687287675,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 39253,
@@ -47721,14 +47729,6 @@
       "onboard_time": 1685779226,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 33125,
-      "num": 36139,
-      "word": "顾九思终究是个局外人",
-      "onboard_time": 1687287675,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 33111,
