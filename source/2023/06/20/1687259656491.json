@@ -1,0 +1,410 @@
+{
+  "runTime": 1687259656491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564109,
+        "num": 1564109,
+        "word": "陈情令",
+        "onboard_time": 1687245751,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531532,
+        "num": 1552899,
+        "word": "上传走失家人照片最快3秒寻回",
+        "onboard_time": 1687254633,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68285,
+        "num": 1548652,
+        "word": "他们是战巡南海绕岛巡航的空中铁拳",
+        "onboard_time": 1687248152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546025,
+        "num": 1546025,
+        "word": "金晨的嘴怎么了",
+        "onboard_time": 1687251091,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 236428,
+        "num": 1239637,
+        "word": "学生帽穗丢了老师无实物拨穗",
+        "onboard_time": 1687251392,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1157466,
+        "num": 1157466,
+        "word": "宋轶素颜照",
+        "onboard_time": 1687251333,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215909,
+        "num": 1146917,
+        "word": "湖南师徒无畏跳江救回丽水女子",
+        "onboard_time": 1687256672,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1140904,
+        "num": 1140904,
+        "word": "吴宗宪 这辈子最痛恨吸毒的人",
+        "onboard_time": 1687249533,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 765695,
+        "num": 765695,
+        "word": "孙笑川辟谣去世",
+        "onboard_time": 1687253074,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 439710,
+        "num": 439710,
+        "word": "官方回应公职人员吸毒被查后仍在岗",
+        "onboard_time": 1687258053,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2613812,
+        "num": 436962,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820335,
+        "num": 435014,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 794677,
+        "num": 429525,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743050,
+        "num": 426350,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 788428,
+        "num": 425520,
+        "word": "炎亚纶评论了崔秀彬ins",
+        "onboard_time": 1687250011,
+        "rank": 14,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 638362,
+        "num": 421372,
+        "word": "杨幂撑伞",
+        "onboard_time": 1687249772,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 646563,
+        "num": 417442,
+        "word": "S家的拖鞋之谜",
+        "onboard_time": 1687251934,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460130,
+        "num": 414405,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687244428,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411835,
+        "num": 411835,
+        "word": "吸毒前后真实的变化",
+        "onboard_time": 1687241192,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 343095,
+        "num": 343095,
+        "word": "两周拿了6个offer",
+        "onboard_time": 1687249291,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1015442,
+        "num": 342518,
+        "word": "在医院ICU住了四年得多少钱",
+        "onboard_time": 1687244969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535358,
+        "num": 340272,
+        "word": "同事说全款买房的人是傻子",
+        "onboard_time": 1687249233,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376057,
+        "num": 337632,
+        "word": "已经be但又很火的cp",
+        "onboard_time": 1687257453,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353654,
+        "num": 333800,
+        "word": "秦岚腰臀比",
+        "onboard_time": 1687246531,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333116,
+        "num": 333116,
+        "word": "男子表白失败扔花大喊她是女同",
+        "onboard_time": 1687230989,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335450,
+        "num": 330743,
+        "word": "欧阳娜娜的长安第一美人",
+        "onboard_time": 1687244670,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295899,
+        "num": 295899,
+        "word": "马伯骞偷偷藏不住演技",
+        "onboard_time": 1687250672,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283819,
+        "num": 283819,
+        "word": "轰6K 群发短信",
+        "onboard_time": 1687253493,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 295646,
+        "num": 281676,
+        "word": "桑延变成搞笑男",
+        "onboard_time": 1687258832,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252186,
+        "num": 277726,
+        "word": "喜欢榴莲和大肠的都沉默了",
+        "onboard_time": 1687255353,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 275173,
+        "num": 275173,
+        "word": "王一博代表作投票",
+        "onboard_time": 1687256790,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253810,
+        "num": 253810,
+        "word": "KPOP是该倒闭的行业吗",
+        "onboard_time": 1687251812,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250930,
+        "num": 250930,
+        "word": "今晚看这三部剧",
+        "onboard_time": 1687259308,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246324,
+        "num": 246324,
+        "word": "喻言护照被狗咬了",
+        "onboard_time": 1687256011,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240042,
+        "num": 240042,
+        "word": "EDG惜败亚太第一PRX",
+        "onboard_time": 1687257332,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241784,
+        "num": 234435,
+        "word": "医护人员称黄子佼无法开口说话",
+        "onboard_time": 1687235137,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219858,
+        "num": 219858,
+        "word": "浙江人接下去一个月的主食",
+        "onboard_time": 1687255953,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176809,
+        "num": 176809,
+        "word": "北京的云像漫画",
+        "onboard_time": 1687258352,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173310,
+        "num": 173310,
+        "word": "很高兴你能来也不遗憾你离开",
+        "onboard_time": 1687258654,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14659,
+        "num": 172998,
+        "word": "618进入冲刺阶段",
+        "onboard_time": 1687258832,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 213998,
+        "num": 172576,
+        "word": "陈情令为什么爆火",
+        "onboard_time": 1687257033,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206599,
+        "num": 171823,
+        "word": "梦中的那片海央卫轮番播出",
+        "onboard_time": 1687257093,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205562,
+        "num": 171799,
+        "word": "偷偷藏不住受众群体",
+        "onboard_time": 1687259429,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203007,
+        "num": 170829,
+        "word": "再见了迪丽热巴安旎",
+        "onboard_time": 1687259611,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196906,
+        "num": 170714,
+        "word": "偷偷藏不住更新",
+        "onboard_time": 1687259251,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193370,
+        "num": 170177,
+        "word": "鹿晗荧光棒使用方法",
+        "onboard_time": 1687255590,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169803,
+        "num": 169803,
+        "word": "我国个人住房贷款余额38.94万亿元",
+        "onboard_time": 1687259192,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 154301,
+        "num": 154301,
+        "word": "网传岳阳一母亲杀死16岁女儿",
+        "onboard_time": 1687232371,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147280,
+        "num": 147280,
+        "word": "现在面试水都不给了",
+        "onboard_time": 1687251271,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 137621,
+        "word": "入职后发现下班时间不一样",
+        "onboard_time": 1687257870,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}
