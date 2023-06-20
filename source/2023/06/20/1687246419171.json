@@ -1,0 +1,410 @@
+{
+  "runTime": 1687246419171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2079119,
+        "num": 2079119,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1722551,
+        "num": 1722551,
+        "word": "吸毒前后真实的变化",
+        "onboard_time": 1687241192,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 79708,
+        "num": 1439330,
+        "word": "这些古诗词同样适合送给毕业生",
+        "onboard_time": 1687231650,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307025,
+        "num": 1307025,
+        "word": "张艺兴工作室公开招聘",
+        "onboard_time": 1687237177,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952379,
+        "num": 952379,
+        "word": "欧阳娜娜的长安第一美人",
+        "onboard_time": 1687244670,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2495741,
+        "num": 915718,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 864293,
+        "num": 864293,
+        "word": "逆水寒 开放了生孩子的功能",
+        "onboard_time": 1687244071,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 749743,
+        "num": 749743,
+        "word": "男子表白失败扔花大喊她是女同",
+        "onboard_time": 1687230989,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714948,
+        "num": 714948,
+        "word": "阿里集团换帅",
+        "onboard_time": 1687236099,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 570668,
+        "num": 570668,
+        "word": "小鬼往车窗外丢烟头",
+        "onboard_time": 1687233094,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2704536,
+        "num": 552482,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700204,
+        "num": 546149,
+        "word": "医护人员称黄子佼无法开口说话",
+        "onboard_time": 1687235137,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521274,
+        "num": 521274,
+        "word": "房贷",
+        "onboard_time": 1687230032,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 501843,
+        "num": 501843,
+        "word": "李凯尔已获得中国国籍",
+        "onboard_time": 1687231471,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91122,
+        "num": 475510,
+        "word": "61岁煎饼大爷出租屋创作绝美国画",
+        "onboard_time": 1687244428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650200,
+        "num": 465609,
+        "word": "黄子佼出院",
+        "onboard_time": 1687242629,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507007,
+        "num": 459074,
+        "word": "陈情令",
+        "onboard_time": 1687245751,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451420,
+        "num": 451420,
+        "word": "宋轶回应没唱OST",
+        "onboard_time": 1687233632,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563729,
+        "num": 450953,
+        "word": "吴宗宪回应黄子佼",
+        "onboard_time": 1687241133,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439368,
+        "num": 439368,
+        "word": "中国26岁女生在马代被酒店管家性侵",
+        "onboard_time": 1687227690,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878291,
+        "num": 439013,
+        "word": "川大再回应地铁偷拍事件",
+        "onboard_time": 1687235679,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520555,
+        "num": 437258,
+        "word": "为什么伴娘一定要未婚才行",
+        "onboard_time": 1687232792,
+        "rank": 21,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 433837,
+        "num": 433837,
+        "word": "面试搭子居然是公司副总",
+        "onboard_time": 1687240352,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424450,
+        "num": 424450,
+        "word": "网传岳阳一母亲杀死16岁女儿",
+        "onboard_time": 1687232371,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391767,
+        "num": 391767,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687244428,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344876,
+        "num": 344876,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339244,
+        "num": 339244,
+        "word": "网上很火但是你不懂的梗",
+        "onboard_time": 1687228049,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321701,
+        "num": 321701,
+        "word": "为什么很少看见男生喝奶茶",
+        "onboard_time": 1687242270,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277707,
+        "num": 277707,
+        "word": "谭松韵回应直角肩",
+        "onboard_time": 1687229669,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 275631,
+        "num": 275631,
+        "word": "妈妈在单位被大声训斥",
+        "onboard_time": 1687220553,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373104,
+        "num": 274526,
+        "word": "在医院ICU住了四年得多少钱",
+        "onboard_time": 1687244969,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272791,
+        "num": 272791,
+        "word": "男子造谣冒充女幼师给幼儿喂药被刑拘",
+        "onboard_time": 1687231830,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255794,
+        "num": 255794,
+        "word": "王一博热烈哭戏",
+        "onboard_time": 1687238614,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242045,
+        "num": 242045,
+        "word": "王启年你何德何能",
+        "onboard_time": 1687244309,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152462,
+        "num": 241631,
+        "word": "我国自研视景系统首次试飞成功",
+        "onboard_time": 1687245089,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241421,
+        "num": 241421,
+        "word": "孙笑川",
+        "onboard_time": 1687240114,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 237076,
+        "num": 237076,
+        "word": "女生打扮成观音参加期末考试",
+        "onboard_time": 1687245089,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218304,
+        "num": 218304,
+        "word": "高圆圆贾静雯双生封面大片",
+        "onboard_time": 1687245812,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212359,
+        "num": 212359,
+        "word": "100万房贷30年减少2.1万",
+        "onboard_time": 1687239515,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210517,
+        "num": 210517,
+        "word": "舍友暗示我别化妆见她朋友",
+        "onboard_time": 1687219470,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206708,
+        "num": 206708,
+        "word": "网友吐槽中餐厅7工作人员",
+        "onboard_time": 1687236580,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204528,
+        "num": 204528,
+        "word": "两个人同频共振才能走得长远",
+        "onboard_time": 1687246052,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204271,
+        "num": 204271,
+        "word": "王雨馨 从未发声声讨过景瑜任何",
+        "onboard_time": 1687225829,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202936,
+        "num": 202936,
+        "word": "向佐陈冠希合体",
+        "onboard_time": 1687245512,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200592,
+        "num": 200592,
+        "word": "因为一份外卖女朋友要跟我分手",
+        "onboard_time": 1687243469,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196701,
+        "num": 196701,
+        "word": "蔡徐坤新加坡演唱会官宣",
+        "onboard_time": 1687242210,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185352,
+        "num": 185352,
+        "word": "戚薇这是真吵啊",
+        "onboard_time": 1687245871,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180924,
+        "num": 180924,
+        "word": "原来脂肪肝是可逆的",
+        "onboard_time": 1687243951,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183140,
+        "num": 175524,
+        "word": "戚薇 不敢着职业装上下班了",
+        "onboard_time": 1687246171,
+        "rank": 48,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 166744,
+        "num": 166744,
+        "word": "罕见病女孩在家人照顾下学会哭和笑",
+        "onboard_time": 1687246350,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三北工程绿色奇迹如何发生#"
+    }
+  }
+}
