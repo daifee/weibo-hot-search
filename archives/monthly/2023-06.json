@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687292255630,
+  "endTime": 1687293231318,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -48075,6 +48075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23317,
+      "num": 23317,
+      "word": "考古王菲以前的微博",
+      "onboard_time": 1687291512,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23250,
       "num": 200775,
       "word": "抖音618每个省都好会省",
@@ -48153,14 +48161,6 @@
       "onboard_time": 1686826827,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20186,
-      "num": 22838,
-      "word": "考古王菲以前的微博",
-      "onboard_time": 1687291512,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 19970,
