@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687256305610,
+  "endTime": 1687257273276,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 2843211,
-      "num": 779970,
+      "num": 811711,
       "word": "小S曾在party后漂头发眉毛",
       "onboard_time": 1687253792,
       "rank": 10,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1646749,
-      "num": 766738,
+      "num": 781195,
       "word": "炎亚纶评论了崔秀彬ins",
       "onboard_time": 1687250011,
       "rank": 49,
@@ -707,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1047509,
+      "num": 1047509,
+      "word": "宋轶素颜照",
+      "onboard_time": 1687251333,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1039079,
       "num": 1039079,
       "word": "肖战赵丽颖正剧苗子",
@@ -737,14 +745,6 @@
       "onboard_time": 1687099411,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 995442,
-      "num": 995442,
-      "word": "宋轶素颜照",
-      "onboard_time": 1687251333,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 989038,
@@ -939,6 +939,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 822136,
+      "num": 822136,
+      "word": "孙笑川辟谣去世",
+      "onboard_time": 1687253074,
+      "rank": 45,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 817307,
       "num": 817307,
       "word": "男子表白失败扔花大喊她是女同",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1687190916,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 722729,
-      "num": 722729,
-      "word": "孙笑川辟谣去世",
-      "onboard_time": 1687253074,
-      "rank": 45,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 721825,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1687235679,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 532892,
+      "num": 1779492,
+      "word": "上传走失家人照片最快3秒寻回",
+      "onboard_time": 1687254633,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529723,
@@ -1755,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357553,
+      "num": 357553,
+      "word": "喜欢榴莲和大肠的都沉默了",
+      "onboard_time": 1687255353,
+      "rank": 24,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 355006,
       "num": 441092,
       "word": "原来真的有人发际线连着眉毛",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1687192349,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 347877,
-      "num": 1779492,
-      "word": "上传走失家人照片最快3秒寻回",
-      "onboard_time": 1687254633,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347110,
@@ -2027,6 +2035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 301285,
+      "num": 301285,
+      "word": "轰6K 群发短信",
+      "onboard_time": 1687253493,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 301069,
       "num": 301069,
       "word": "桑稚说桑延是她爸爸",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1687239515,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 287543,
-      "num": 356429,
-      "word": "喜欢榴莲和大肠的都沉默了",
-      "onboard_time": 1687255353,
-      "rank": 24,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 287395,
@@ -2371,14 +2379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259781,
-      "num": 259781,
-      "word": "轰6K 群发短信",
-      "onboard_time": 1687253493,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 259526,
       "num": 255171,
       "word": "化妆去上班同事以为我要离职",
@@ -2448,6 +2448,14 @@
       "word": "防弹少年团今年全员入伍",
       "onboard_time": 1687148613,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253426,
+      "num": 253426,
+      "word": "喻言护照被狗咬了",
+      "onboard_time": 1687256011,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2667,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238554,
+      "num": 238554,
+      "word": "王一博代表作投票",
+      "onboard_time": 1687256790,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238227,
       "num": 238227,
       "word": "鬼灭之刃",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1687158949,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232258,
+      "num": 232258,
+      "word": "浙江人接下去一个月的主食",
+      "onboard_time": 1687255953,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 231916,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1687150532,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223814,
-      "num": 223814,
-      "word": "喻言护照被狗咬了",
-      "onboard_time": 1687256011,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 223766,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1687095030,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209618,
+      "num": 209618,
+      "word": "梦中的那片海央卫轮番播出",
+      "onboard_time": 1687257093,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 208266,
@@ -3219,14 +3243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192232,
-      "num": 192232,
-      "word": "浙江人接下去一个月的主食",
-      "onboard_time": 1687255953,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "中美外长会谈结束",
@@ -3355,6 +3371,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 184073,
+      "num": 174995,
+      "word": "台娱版黑暗荣耀",
+      "onboard_time": 1687256371,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183906,
       "num": 183906,
       "word": "第28届上海电视节今日开幕",
@@ -3369,6 +3393,14 @@
       "onboard_time": 1687098511,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182903,
+      "num": 182903,
+      "word": "陈情令为什么爆火",
+      "onboard_time": 1687257033,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 182716,
@@ -3715,6 +3747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163490,
+      "num": 1047640,
+      "word": "湖南师徒无畏跳江救回丽水女子",
+      "onboard_time": 1687256672,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 162950,
       "num": 162950,
       "word": "做家政的妈妈经常捡东西回来",
@@ -3745,6 +3785,14 @@
       "onboard_time": 1687166141,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160270,
+      "num": 160270,
+      "word": "赵露思粉色手机壳",
+      "onboard_time": 1687253973,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 160105,
@@ -4435,6 +4483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67678,
+      "num": 663415,
+      "word": "猫咪不慎落水路人合力施救",
+      "onboard_time": 1687255290,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65097,
       "num": 519446,
       "word": "特种兵式毕业有多酷",
@@ -4593,14 +4649,6 @@
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32671,
-      "num": 663415,
-      "word": "猫咪不慎落水路人合力施救",
-      "onboard_time": 1687255290,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27428,

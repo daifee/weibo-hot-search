@@ -1,0 +1,410 @@
+{
+  "runTime": 1687257273276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1801257,
+        "num": 1801257,
+        "word": "陈情令",
+        "onboard_time": 1687245751,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532892,
+        "num": 1701712,
+        "word": "上传走失家人照片最快3秒寻回",
+        "onboard_time": 1687254633,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67192,
+        "num": 1549830,
+        "word": "他们是战巡南海绕岛巡航的空中铁拳",
+        "onboard_time": 1687248152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2015450,
+        "num": 1343531,
+        "word": "金晨的嘴怎么了",
+        "onboard_time": 1687251091,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 246130,
+        "num": 1190930,
+        "word": "学生帽穗丢了老师无实物拨穗",
+        "onboard_time": 1687251392,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1048017,
+        "num": 1048017,
+        "word": "吴宗宪 这辈子最痛恨吸毒的人",
+        "onboard_time": 1687249533,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 163490,
+        "num": 1047640,
+        "word": "湖南师徒无畏跳江救回丽水女子",
+        "onboard_time": 1687256672,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1047509,
+        "num": 1047509,
+        "word": "宋轶素颜照",
+        "onboard_time": 1687251333,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881952,
+        "num": 881952,
+        "word": "王一博改代表作",
+        "onboard_time": 1687244969,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822136,
+        "num": 822136,
+        "word": "孙笑川辟谣去世",
+        "onboard_time": 1687253074,
+        "rank": 9,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 2599619,
+        "num": 811711,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1299892,
+        "num": 781195,
+        "word": "炎亚纶评论了崔秀彬ins",
+        "onboard_time": 1687250011,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 732666,
+        "num": 732666,
+        "word": "杨幂撑伞",
+        "onboard_time": 1687249772,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 921173,
+        "num": 610912,
+        "word": "炎亚纶聊天记录",
+        "onboard_time": 1687233275,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67678,
+        "num": 484359,
+        "word": "猫咪不慎落水路人合力施救",
+        "onboard_time": 1687255290,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920116,
+        "num": 474505,
+        "word": "S家的拖鞋之谜",
+        "onboard_time": 1687251934,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456539,
+        "num": 456539,
+        "word": "两周拿了6个offer",
+        "onboard_time": 1687249291,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450167,
+        "num": 450167,
+        "word": "吸毒前后真实的变化",
+        "onboard_time": 1687241192,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 807360,
+        "num": 446098,
+        "word": "台警方称不会侦办大小S被控吸毒",
+        "onboard_time": 1687243951,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 441151,
+        "num": 441151,
+        "word": "秦岚腰臀比",
+        "onboard_time": 1687246531,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1048518,
+        "num": 436266,
+        "word": "在医院ICU住了四年得多少钱",
+        "onboard_time": 1687244969,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512185,
+        "num": 408981,
+        "word": "同事说全款买房的人是傻子",
+        "onboard_time": 1687249233,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357553,
+        "num": 357553,
+        "word": "喜欢榴莲和大肠的都沉默了",
+        "onboard_time": 1687255353,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 355637,
+        "num": 355637,
+        "word": "马伯骞偷偷藏不住演技",
+        "onboard_time": 1687250672,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345660,
+        "num": 345660,
+        "word": "KPOP是该倒闭的行业吗",
+        "onboard_time": 1687251812,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338101,
+        "num": 338101,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687244428,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329411,
+        "num": 329411,
+        "word": "欧阳娜娜的长安第一美人",
+        "onboard_time": 1687244670,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301285,
+        "num": 301285,
+        "word": "轰6K 群发短信",
+        "onboard_time": 1687253493,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 297535,
+        "num": 297535,
+        "word": "男子表白失败扔花大喊她是女同",
+        "onboard_time": 1687230989,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280334,
+        "num": 280334,
+        "word": "桑稚说桑延是她爸爸",
+        "onboard_time": 1687251153,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254982,
+        "num": 254982,
+        "word": "现在面试水都不给了",
+        "onboard_time": 1687251271,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253426,
+        "num": 253426,
+        "word": "喻言护照被狗咬了",
+        "onboard_time": 1687256011,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246204,
+        "num": 246204,
+        "word": "权志龙发际线",
+        "onboard_time": 1687252655,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238554,
+        "num": 238554,
+        "word": "王一博代表作投票",
+        "onboard_time": 1687256790,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232258,
+        "num": 232258,
+        "word": "浙江人接下去一个月的主食",
+        "onboard_time": 1687255953,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221940,
+        "num": 221940,
+        "word": "阿里集团换帅",
+        "onboard_time": 1687236099,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 217039,
+        "num": 217039,
+        "word": "陈情令的长尾效应",
+        "onboard_time": 1687251751,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209618,
+        "num": 209618,
+        "word": "梦中的那片海央卫轮番播出",
+        "onboard_time": 1687257093,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203305,
+        "num": 203305,
+        "word": "网传岳阳一母亲杀死16岁女儿",
+        "onboard_time": 1687232371,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190038,
+        "num": 190038,
+        "word": "EDG对阵PRX",
+        "onboard_time": 1687247432,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208155,
+        "num": 186725,
+        "word": "金珉奎尹净汉车银优蔡亨源聚餐",
+        "onboard_time": 1687256073,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195604,
+        "num": 184906,
+        "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
+        "onboard_time": 1687246891,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182903,
+        "num": 182903,
+        "word": "陈情令为什么爆火",
+        "onboard_time": 1687257033,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178203,
+        "num": 178203,
+        "word": "家人说我工作后变冷漠了",
+        "onboard_time": 1687250491,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175831,
+        "num": 175831,
+        "word": "为什么伴娘一定要未婚才行",
+        "onboard_time": 1687232792,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 184073,
+        "num": 174995,
+        "word": "台娱版黑暗荣耀",
+        "onboard_time": 1687256371,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169697,
+        "num": 169697,
+        "word": "温州男子发给好友63部淫秽视频后自首",
+        "onboard_time": 1687248632,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 168003,
+        "word": "中国26岁女生在马代被酒店管家性侵",
+        "onboard_time": 1687227690,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160270,
+        "num": 160270,
+        "word": "赵露思粉色手机壳",
+        "onboard_time": 1687253973,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159608,
+        "num": 159608,
+        "word": "重庆一高校本科毕业生发5篇sci",
+        "onboard_time": 1687252111,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}
