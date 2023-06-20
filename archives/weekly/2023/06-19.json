@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687217622609,
+  "endTime": 1687224917852,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2835483,
-      "num": 272767,
+      "num": 334198,
       "word": "黄景瑜工作室回应不实传闻",
       "onboard_time": 1687216462,
       "rank": 15,
@@ -153,6 +153,14 @@
       "onboard_time": 1687157323,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2489215,
+      "num": 2489215,
+      "word": "小红书回应女幼师疑给幼儿喂避孕药",
+      "onboard_time": 1687219531,
+      "rank": 0,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2444504,
@@ -192,6 +200,14 @@
       "word": "葛斯齐 曝光内容百分之九十五相符",
       "onboard_time": 1687170880,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2260185,
+      "num": 627610,
+      "word": "黄景瑜说和前任是亲人也是朋友",
+      "onboard_time": 1687216523,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -251,14 +267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1806649,
-      "num": 264475,
-      "word": "黄景瑜说和前任是亲人也是朋友",
-      "onboard_time": 1687216523,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1737623,
       "num": 714302,
       "word": "黄子佼老婆",
@@ -313,6 +321,14 @@
       "onboard_time": 1687174718,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1468635,
+      "num": 918234,
+      "word": "张歆艺 不是所有演艺界的人都是坏人",
+      "onboard_time": 1687221455,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1426534,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1318303,
+      "num": 612486,
+      "word": "台湾艺人宥胜被控性骚扰后致歉",
+      "onboard_time": 1687222774,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1293958,
       "num": 1293958,
       "word": "大四男生实习薪资1万4妈妈仰天大笑",
@@ -401,6 +425,14 @@
       "onboard_time": 1687167463,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1199875,
+      "num": 1199875,
+      "word": "官方通报嫌疑人自首时在派出所身亡",
+      "onboard_time": 1687222055,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1162999,
@@ -587,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 856543,
+      "num": 856543,
+      "word": "高考查分遇上端午假期",
+      "onboard_time": 1687220492,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -617,6 +657,22 @@
       "onboard_time": 1687133847,
       "rank": 6,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 829175,
+      "num": 829175,
+      "word": "马云指出淘宝天猫未来三个方向",
+      "onboard_time": 1687180119,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 817789,
+      "num": 570086,
+      "word": "你还在等待川大女生处理结果吗",
+      "onboard_time": 1687219531,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801847,
@@ -675,14 +731,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 731395,
-      "num": 731395,
-      "word": "马云指出淘宝天猫未来三个方向",
-      "onboard_time": 1687180119,
-      "rank": 49,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 721825,
       "num": 658978,
       "word": "白敬亭吃醋不像演的",
@@ -707,6 +755,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 712931,
+      "num": 712931,
+      "word": "杭州一企业月薪1万2半年只招到两人",
+      "onboard_time": 1687185043,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 703155,
+      "num": 703155,
+      "word": "庆余年2官宣毛晓彤",
+      "onboard_time": 1687190916,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690409,
       "num": 690409,
       "word": "王阳用口红在秦岚脸上留号码",
@@ -720,6 +784,14 @@
       "word": "Jennie在舞台上走神",
       "onboard_time": 1687097852,
       "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 672446,
+      "num": 672446,
+      "word": "白鹿请助理看五月天演唱会",
+      "onboard_time": 1687219953,
+      "rank": 9,
       "category": "音乐"
     },
     {
@@ -737,6 +809,14 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 634631,
+      "num": 343232,
+      "word": "舍友暗示我别化妆见她朋友",
+      "onboard_time": 1687219470,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 630791,
@@ -795,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565280,
-      "num": 565280,
-      "word": "杭州一企业月薪1万2半年只招到两人",
-      "onboard_time": 1687185043,
-      "rank": 11,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -825,6 +897,14 @@
       "onboard_time": 1687150171,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520395,
+      "num": 520395,
+      "word": "韩玖诺版叶灵儿",
+      "onboard_time": 1687218929,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 517021,
@@ -1011,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424474,
+      "num": 337381,
+      "word": "杨迪说陈妍希的家像样板房",
+      "onboard_time": 1687224393,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423282,
       "num": 423282,
       "word": "香港的辣度细分有多严谨",
@@ -1147,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369212,
+      "num": 332513,
+      "word": "门诊的药袋都开始内卷了",
+      "onboard_time": 1687218082,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361530,
       "num": 361530,
       "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
@@ -1184,6 +1280,22 @@
       "word": "男子长城藏时间胶囊12年多人留纸条",
       "onboard_time": 1687171780,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349228,
+      "num": 325492,
+      "word": "Jennie新剧预告又跳舞了",
+      "onboard_time": 1687192349,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347110,
+      "num": 347110,
+      "word": "公园里不套大鹅改套大爷了",
+      "onboard_time": 1687215680,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1291,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310076,
+      "num": 310076,
+      "word": "妈妈在单位被大声训斥",
+      "onboard_time": 1687220553,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308716,
       "num": 308716,
       "word": "肖战赵昕合照",
@@ -1313,14 +1433,6 @@
       "onboard_time": 1687159070,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 300101,
-      "num": 300101,
-      "word": "Jennie新剧预告又跳舞了",
-      "onboard_time": 1687192349,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 293887,
@@ -1377,6 +1489,14 @@
       "onboard_time": 1687185641,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288652,
+      "num": 288652,
+      "word": "熬夜工作vs熬夜看小说",
+      "onboard_time": 1687220492,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 287395,
@@ -1440,14 +1560,6 @@
       "word": "朱一龙说曾掉到陈思诚家水池",
       "onboard_time": 1687189835,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 274949,
-      "num": 274949,
-      "word": "庆余年2官宣毛晓彤",
-      "onboard_time": 1687190916,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1547,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260094,
+      "num": 289474,
+      "word": "王一博骑电动车",
+      "onboard_time": 1687224751,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -1635,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246866,
+      "num": 246866,
+      "word": "500万的全奖offer我拒绝了",
+      "onboard_time": 1687219773,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246844,
       "num": 370055,
       "word": "苏州下雨",
@@ -1657,6 +1785,14 @@
       "onboard_time": 1687154982,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242533,
+      "num": 242533,
+      "word": "3500的工资24小时待命",
+      "onboard_time": 1687218082,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 240557,
@@ -1771,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231865,
+      "num": 345295,
+      "word": "广东通报一中学生遭校暴被逼下跪",
+      "onboard_time": 1687222715,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 230574,
       "num": 184605,
       "word": "折腰",
@@ -1787,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227074,
+      "num": 227074,
+      "word": "LPR",
+      "onboard_time": 1687224272,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226525,
       "num": 343245,
       "word": "这水龙头有毛病吧",
@@ -1801,6 +1953,14 @@
       "onboard_time": 1687150532,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221106,
+      "num": 221106,
+      "word": "谭松韵直角肩",
+      "onboard_time": 1687221755,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 220388,
@@ -1971,14 +2131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201087,
-      "num": 130211,
-      "word": "公园里不套大鹅改套大爷了",
-      "onboard_time": 1687215680,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199013,
       "num": 199013,
       "word": "肖战 人生可不止这一片什刹海",
@@ -2081,6 +2233,14 @@
       "onboard_time": 1687099469,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185660,
+      "num": 185660,
+      "word": "海拔4000米的雪山发现一只猫",
+      "onboard_time": 1687218082,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 185360,
@@ -2275,6 +2435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167419,
+      "num": 167419,
+      "word": "直觉告诉她这里有个被困的鸟宝宝",
+      "onboard_time": 1687224091,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167381,
       "num": 167381,
       "word": "渝爱太萌了吧",
@@ -2299,12 +2467,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 164787,
+      "num": 164787,
+      "word": "白敬亭要抓紧时间学舞了",
+      "onboard_time": 1687222414,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164097,
       "num": 255600,
       "word": "infp无法撼动的精神领域",
       "onboard_time": 1687174179,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 163501,
+      "num": 163501,
+      "word": "人际交往的最高段位",
+      "onboard_time": 1687219470,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 162950,
@@ -2361,6 +2545,14 @@
       "onboard_time": 1687138227,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153894,
+      "num": 153894,
+      "word": "孟子义的背",
+      "onboard_time": 1687222953,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 152871,
@@ -2435,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146807,
+      "num": 146807,
+      "word": "男孩吐槽妈妈把窗帘换成了地图",
+      "onboard_time": 1687220856,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 145891,
       "num": 346800,
       "word": "比亚迪发布会",
@@ -2504,6 +2704,14 @@
       "word": "王鹤棣许七安",
       "onboard_time": 1687094850,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141168,
+      "num": 139893,
+      "word": "庆余年2",
+      "onboard_time": 1687218148,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -2625,6 +2833,14 @@
       "onboard_time": 1687188940,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127252,
+      "num": 127252,
+      "word": "中考",
+      "onboard_time": 1687223732,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 126494,
@@ -2947,6 +3163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 49906,
+      "num": 1070224,
+      "word": "杭州亚运奖牌上的湖山长什么样",
+      "onboard_time": 1687180837,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49203,
       "num": 315284,
       "word": "和章子怡一起不设限",
@@ -3025,14 +3249,6 @@
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35394,
-      "num": 1070224,
-      "word": "杭州亚运奖牌上的湖山长什么样",
-      "onboard_time": 1687180837,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 27428,

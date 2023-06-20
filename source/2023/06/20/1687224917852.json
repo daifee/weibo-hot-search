@@ -1,0 +1,410 @@
+{
+  "runTime": 1687224917852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2489215,
+        "num": 2489215,
+        "word": "小红书回应女幼师疑给幼儿喂避孕药",
+        "onboard_time": 1687219531,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1199875,
+        "num": 1199875,
+        "word": "官方通报嫌疑人自首时在派出所身亡",
+        "onboard_time": 1687222055,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49906,
+        "num": 939416,
+        "word": "杭州亚运奖牌上的湖山长什么样",
+        "onboard_time": 1687180837,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1468635,
+        "num": 918234,
+        "word": "张歆艺 不是所有演艺界的人都是坏人",
+        "onboard_time": 1687221455,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856543,
+        "num": 856543,
+        "word": "高考查分遇上端午假期",
+        "onboard_time": 1687220492,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1377718,
+        "num": 855877,
+        "word": "大S工作室回应吸毒指控",
+        "onboard_time": 1687166502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829175,
+        "num": 829175,
+        "word": "马云指出淘宝天猫未来三个方向",
+        "onboard_time": 1687180119,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 712931,
+        "num": 712931,
+        "word": "杭州一企业月薪1万2半年只招到两人",
+        "onboard_time": 1687185043,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 703155,
+        "num": 703155,
+        "word": "庆余年2官宣毛晓彤",
+        "onboard_time": 1687190916,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 672446,
+        "num": 672446,
+        "word": "白鹿请助理看五月天演唱会",
+        "onboard_time": 1687219953,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2260185,
+        "num": 627610,
+        "word": "黄景瑜说和前任是亲人也是朋友",
+        "onboard_time": 1687216523,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1318303,
+        "num": 612486,
+        "word": "台湾艺人宥胜被控性骚扰后致歉",
+        "onboard_time": 1687222774,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 817789,
+        "num": 570086,
+        "word": "你还在等待川大女生处理结果吗",
+        "onboard_time": 1687219531,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520395,
+        "num": 520395,
+        "word": "韩玖诺版叶灵儿",
+        "onboard_time": 1687218929,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1278497,
+        "num": 497835,
+        "word": "小S和舞蹈老师视频",
+        "onboard_time": 1687181860,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434928,
+        "num": 434928,
+        "word": "林志颖",
+        "onboard_time": 1687171660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411567,
+        "num": 411567,
+        "word": "你现在网购还常用淘宝吗",
+        "onboard_time": 1687186363,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470113,
+        "num": 382703,
+        "word": "黄子佼信息炸裂",
+        "onboard_time": 1687152391,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347110,
+        "num": 347110,
+        "word": "公园里不套大鹅改套大爷了",
+        "onboard_time": 1687215680,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231865,
+        "num": 345295,
+        "word": "广东通报一中学生遭校暴被逼下跪",
+        "onboard_time": 1687222715,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 634631,
+        "num": 343232,
+        "word": "舍友暗示我别化妆见她朋友",
+        "onboard_time": 1687219470,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 448500,
+        "num": 339999,
+        "word": "陶晶莹称希望黄子佼好好度过",
+        "onboard_time": 1687192706,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443407,
+        "num": 338599,
+        "word": "每个月工资8000但闲的发慌",
+        "onboard_time": 1687163147,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424474,
+        "num": 337381,
+        "word": "杨迪说陈妍希的家像样板房",
+        "onboard_time": 1687224393,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389988,
+        "num": 334198,
+        "word": "黄景瑜工作室回应不实传闻",
+        "onboard_time": 1687216462,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369212,
+        "num": 332513,
+        "word": "门诊的药袋都开始内卷了",
+        "onboard_time": 1687218082,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362910,
+        "num": 329774,
+        "word": "蔡徐坤评论区回复粉丝",
+        "onboard_time": 1687187205,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 349228,
+        "num": 325492,
+        "word": "Jennie新剧预告又跳舞了",
+        "onboard_time": 1687192349,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325312,
+        "num": 325312,
+        "word": "澳大利亚一男子持刀入室抢劫被奸杀",
+        "onboard_time": 1687179581,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310076,
+        "num": 310076,
+        "word": "妈妈在单位被大声训斥",
+        "onboard_time": 1687220553,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260094,
+        "num": 289474,
+        "word": "王一博骑电动车",
+        "onboard_time": 1687224751,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288652,
+        "num": 288652,
+        "word": "熬夜工作vs熬夜看小说",
+        "onboard_time": 1687220492,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272773,
+        "num": 272773,
+        "word": "朱一龙爸爸",
+        "onboard_time": 1687176338,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246866,
+        "num": 246866,
+        "word": "500万的全奖offer我拒绝了",
+        "onboard_time": 1687219773,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242533,
+        "num": 242533,
+        "word": "3500的工资24小时待命",
+        "onboard_time": 1687218082,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227074,
+        "num": 227074,
+        "word": "LPR",
+        "onboard_time": 1687224272,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221106,
+        "num": 221106,
+        "word": "谭松韵直角肩",
+        "onboard_time": 1687221755,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 196209,
+        "num": 196209,
+        "word": "网友拍到的龙吸水",
+        "onboard_time": 1687183544,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185660,
+        "num": 185660,
+        "word": "海拔4000米的雪山发现一只猫",
+        "onboard_time": 1687218082,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167419,
+        "num": 167419,
+        "word": "直觉告诉她这里有个被困的鸟宝宝",
+        "onboard_time": 1687224091,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164787,
+        "num": 164787,
+        "word": "白敬亭要抓紧时间学舞了",
+        "onboard_time": 1687222414,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163501,
+        "num": 163501,
+        "word": "人际交往的最高段位",
+        "onboard_time": 1687219470,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153894,
+        "num": 153894,
+        "word": "孟子义的背",
+        "onboard_time": 1687222953,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149462,
+        "num": 149462,
+        "word": "庆余年2官宣阵容",
+        "onboard_time": 1687169980,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146807,
+        "num": 146807,
+        "word": "男孩吐槽妈妈把窗帘换成了地图",
+        "onboard_time": 1687220856,
+        "rank": 44,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 139905,
+        "num": 139905,
+        "word": "朱一龙说曾掉到陈思诚家水池",
+        "onboard_time": 1687189835,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141168,
+        "num": 139893,
+        "word": "庆余年2",
+        "onboard_time": 1687218148,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139711,
+        "num": 139711,
+        "word": "经常锻炼与不锻炼的人大腿肌肉的对比",
+        "onboard_time": 1687180541,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127252,
+        "num": 127252,
+        "word": "中考",
+        "onboard_time": 1687223732,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123161,
+        "num": 123161,
+        "word": "布林肯",
+        "onboard_time": 1687217605,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见布林肯#"
+    }
+  }
+}
