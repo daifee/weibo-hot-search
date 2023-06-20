@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687239219549,
+  "endTime": 1687242167532,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1809194,
+      "num": 1809194,
+      "word": "房贷",
+      "onboard_time": 1687230032,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1771941,
       "num": 855877,
       "word": "大S工作室回应吸毒指控",
@@ -113,14 +121,6 @@
       "onboard_time": 1687183306,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1553704,
-      "num": 1553704,
-      "word": "房贷",
-      "onboard_time": 1687230032,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1533112,
@@ -155,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1360352,
+      "num": 660039,
+      "word": "川大再回应地铁偷拍事件",
+      "onboard_time": 1687235679,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1353861,
+      "num": 1353861,
+      "word": "张艺兴工作室公开招聘",
+      "onboard_time": 1687237177,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1341178,
       "num": 1341178,
       "word": "杨迪说陈妍希的家像样板房",
@@ -169,14 +185,6 @@
       "onboard_time": 1687222774,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1298895,
-      "num": 660039,
-      "word": "川大再回应地铁偷拍事件",
-      "onboard_time": 1687235679,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1199875,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609246,
+      "num": 548615,
+      "word": "吴宗宪回应黄子佼",
+      "onboard_time": 1687241133,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606819,
       "num": 606819,
       "word": "网上很火但是你不懂的梗",
@@ -403,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 457960,
-      "num": 396843,
-      "word": "张艺兴工作室公开招聘",
-      "onboard_time": 1687237177,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443407,
       "num": 338599,
       "word": "每个月工资8000但闲的发慌",
@@ -443,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412458,
+      "num": 412458,
+      "word": "网友吐槽中餐厅7工作人员",
+      "onboard_time": 1687236580,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407403,
       "num": 407403,
       "word": "折腰男主人设",
@@ -451,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 390634,
-      "num": 390634,
-      "word": "网友吐槽中餐厅7工作人员",
-      "onboard_time": 1687236580,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 391431,
+      "num": 391431,
+      "word": "律师称黄子佼或将免受处罚",
+      "onboard_time": 1687238554,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 387109,
@@ -571,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 335924,
+      "num": 335924,
+      "word": "孙笑川",
+      "onboard_time": 1687240114,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333071,
       "num": 295590,
       "word": "胡锡进 川大那名女生的事该有结果了",
@@ -601,14 +625,6 @@
       "onboard_time": 1687238914,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 322310,
-      "num": 322310,
-      "word": "律师称黄子佼或将免受处罚",
-      "onboard_time": 1687238554,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 312259,
@@ -649,6 +665,14 @@
       "onboard_time": 1687187801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290684,
+      "num": 290684,
+      "word": "面试搭子居然是公司副总",
+      "onboard_time": 1687240352,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 288652,
@@ -745,6 +769,14 @@
       "onboard_time": 1687227149,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257938,
+      "num": 257938,
+      "word": "100万房贷30年减少2.1万",
+      "onboard_time": 1687239515,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 256159,
@@ -880,6 +912,14 @@
       "word": "公诉全员告别角色",
       "onboard_time": 1687234296,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 227439,
+      "num": 227439,
+      "word": "偷偷藏不住预告",
+      "onboard_time": 1687241012,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1075,6 +1115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 177751,
+      "num": 177751,
+      "word": "周深好像去学校招聘的企业领导",
+      "onboard_time": 1687241492,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174806,
       "num": 174806,
       "word": "谁教你这么做猫的",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1687188456,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 170751,
+      "num": 170751,
+      "word": "吸毒前后真实的变化",
+      "onboard_time": 1687241192,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 168271,
@@ -1147,6 +1203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 163629,
+      "num": 163629,
+      "word": "是好朋友的周末定档",
+      "onboard_time": 1687240834,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163501,
       "num": 163501,
       "word": "人际交往的最高段位",
@@ -1193,6 +1257,30 @@
       "onboard_time": 1687227576,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153708,
+      "num": 153708,
+      "word": "长相思",
+      "onboard_time": 1687239515,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153707,
+      "num": 153707,
+      "word": "吴泳铭出任阿里集团CEO",
+      "onboard_time": 1687241851,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 151498,
+      "num": 239451,
+      "word": "跳桥救人小哥仍处在骨折急性期",
+      "onboard_time": 1687241730,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147885,
@@ -1409,6 +1497,14 @@
       "onboard_time": 1687180837,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49157,
+      "num": 590361,
+      "word": "父子双双被困金沙江路人出手相救",
+      "onboard_time": 1687240895,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46089,
