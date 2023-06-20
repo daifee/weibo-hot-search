@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687270527175,
+  "endTime": 1687271606950,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -91,20 +91,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2472260,
+      "num": 2472260,
+      "word": "长风渡第9集封神",
+      "onboard_time": 1687267591,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2444504,
       "num": 295381,
       "word": "唐老师",
       "onboard_time": 1687189000,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2399602,
-      "num": 2399602,
-      "word": "长风渡第9集封神",
-      "onboard_time": 1687267591,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 2389223,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1589784,
+      "num": 1589784,
+      "word": "今起恢复台湾地区番荔枝输入大陆",
+      "onboard_time": 1687264470,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1533112,
       "num": 1533112,
       "word": "阿里集团换帅",
@@ -265,14 +273,6 @@
       "onboard_time": 1687221455,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1484910,
-      "num": 1484910,
-      "word": "今起恢复台湾地区番荔枝输入大陆",
-      "onboard_time": 1687264470,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1472333,
@@ -321,6 +321,14 @@
       "onboard_time": 1687244969,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1285323,
+      "num": 1285323,
+      "word": "白敬亭发了粉丝修的图",
+      "onboard_time": 1687266571,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 1208275,
@@ -409,14 +417,6 @@
       "onboard_time": 1687249772,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 984408,
-      "num": 984408,
-      "word": "白敬亭发了粉丝修的图",
-      "onboard_time": 1687266571,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 983044,
@@ -521,6 +521,14 @@
       "onboard_time": 1687258053,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754602,
+      "num": 754602,
+      "word": "Jennie的衣服",
+      "onboard_time": 1687270473,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 752217,
@@ -691,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 537880,
+      "num": 537880,
+      "word": "李坤城儿子宣布与林靖恩和解",
+      "onboard_time": 1687269216,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535043,
       "num": 295049,
       "word": "唐梓结婚",
@@ -753,14 +769,6 @@
       "onboard_time": 1687240352,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 466003,
-      "num": 339281,
-      "word": "李坤城儿子宣布与林靖恩和解",
-      "onboard_time": 1687269216,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 460130,
@@ -1075,6 +1083,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315789,
+      "num": 258641,
+      "word": "桑稚的阿母vs程少商的阿母",
+      "onboard_time": 1687268676,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315225,
+      "num": 237492,
+      "word": "袁冰妍为肖燕新剧打call",
+      "onboard_time": 1687269757,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312272,
       "num": 505618,
       "word": "现在面试水都不给了",
@@ -1099,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310662,
+      "num": 310662,
+      "word": "女子放下儿子捡起3岁走失女童",
+      "onboard_time": 1687269515,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308676,
       "num": 308676,
       "word": "梦中的那片海定档北京卫视",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1687180541,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303595,
-      "num": 222535,
-      "word": "桑稚的阿母vs程少商的阿母",
-      "onboard_time": 1687268676,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 302551,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1687258832,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292581,
+      "num": 292581,
+      "word": "什么专业缺女生",
+      "onboard_time": 1687270536,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 292264,
@@ -1339,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266700,
-      "num": 189215,
-      "word": "袁冰妍为肖燕新剧打call",
-      "onboard_time": 1687269757,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264299,
       "num": 264299,
       "word": "女心理师江苏卫视定档",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1687224272,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249770,
+      "num": 249770,
+      "word": "染头发染出凶案现场",
+      "onboard_time": 1687271014,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 249497,
@@ -1603,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229461,
+      "num": 229461,
+      "word": "粽子",
+      "onboard_time": 1687270355,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228374,
       "num": 228374,
       "word": "王鹤棣手机壳后面塞红包",
@@ -1739,6 +1779,22 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 206158,
+      "num": 195648,
+      "word": "赵露思看陈哲远vs看马伯骞",
+      "onboard_time": 1687271555,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205864,
+      "num": 199962,
+      "word": "顾九思茹前茹后两幅面孔",
+      "onboard_time": 1687270894,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205649,
       "num": 205649,
       "word": "武磊进球",
@@ -1772,7 +1828,7 @@
     },
     {
       "raw_hot": 202592,
-      "num": 270168,
+      "num": 1426017,
       "word": "我国自研视景系统首次试飞成功",
       "onboard_time": 1687245089,
       "rank": 29,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1687248394,
       "rank": 29,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 199950,
+      "num": 199950,
+      "word": "应届大学生就业重心继续下沉",
+      "onboard_time": 1687269995,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199878,
@@ -1883,14 +1947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196537,
-      "num": 196537,
-      "word": "粽子",
-      "onboard_time": 1687270355,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196423,
       "num": 196423,
       "word": "邓科的与凤行vs折腰",
@@ -1912,14 +1968,6 @@
       "word": "小问题水",
       "onboard_time": 1687235437,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196067,
-      "num": 196067,
-      "word": "女子放下儿子捡起3岁走失女童",
-      "onboard_time": 1687269515,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1945,14 +1993,6 @@
       "onboard_time": 1687255590,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193882,
-      "num": 181131,
-      "word": "Jennie的衣服",
-      "onboard_time": 1687270473,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190599,
@@ -2443,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137457,
+      "num": 137457,
+      "word": "见过杀伤力最大的警示牌",
+      "onboard_time": 1687270894,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135835,
       "num": 755990,
       "word": "2023年最有仪式感的毕业",
@@ -2587,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89668,
+      "num": 789517,
+      "word": "被杭州地铁毕业快乐广播戳到",
+      "onboard_time": 1687269695,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79793,
       "num": 590361,
       "word": "父子双双被困金沙江路人出手相救",
@@ -2713,14 +2769,6 @@
       "onboard_time": 1687213335,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32214,
-      "num": 606695,
-      "word": "被杭州地铁毕业快乐广播戳到",
-      "onboard_time": 1687269695,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27428,
