@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687271606950,
+  "endTime": 1687274238999,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -48,6 +48,14 @@
       "word": "黄子佼爱徒Lulu发声",
       "onboard_time": 1687226730,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2870055,
+      "num": 693660,
+      "word": "炎亚纶承认与未成年发生关系",
+      "onboard_time": 1687274137,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1357981,
+      "num": 888333,
+      "word": "Jennie的衣服",
+      "onboard_time": 1687270473,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1341178,
       "num": 1341178,
       "word": "杨迪说陈妍希的家像样板房",
@@ -521,14 +537,6 @@
       "onboard_time": 1687258053,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 754602,
-      "num": 754602,
-      "word": "Jennie的衣服",
-      "onboard_time": 1687270473,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 752217,
@@ -883,12 +891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377412,
+      "num": 377412,
+      "word": "什么专业缺女生",
+      "onboard_time": 1687270536,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 371985,
       "num": 371985,
       "word": "KPOP是该倒闭的行业吗",
       "onboard_time": 1687251812,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370970,
+      "num": 370970,
+      "word": "桑稚的阿母vs程少商的阿母",
+      "onboard_time": 1687268676,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 370544,
@@ -1075,19 +1099,19 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 321990,
+      "num": 358369,
+      "word": "女子放下儿子捡起3岁走失女童",
+      "onboard_time": 1687269515,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320457,
       "num": 293355,
       "word": "马伯骞这段不像演的",
       "onboard_time": 1687264229,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 315789,
-      "num": 258641,
-      "word": "桑稚的阿母vs程少商的阿母",
-      "onboard_time": 1687268676,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1121,14 +1145,6 @@
       "onboard_time": 1687263029,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 310662,
-      "num": 310662,
-      "word": "女子放下儿子捡起3岁走失女童",
-      "onboard_time": 1687269515,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308676,
@@ -1179,6 +1195,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 298041,
+      "num": 356173,
+      "word": "应届大学生就业重心继续下沉",
+      "onboard_time": 1687269995,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297613,
       "num": 276111,
       "word": "伊能静陪儿子逛街",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1687258832,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292581,
-      "num": 292581,
-      "word": "什么专业缺女生",
-      "onboard_time": 1687270536,
-      "rank": 28,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 292264,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1687225054,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284672,
+      "num": 243683,
+      "word": "赵露思看陈哲远vs看马伯骞",
+      "onboard_time": 1687271555,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 284189,
@@ -1347,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270276,
+      "num": 195879,
+      "word": "偷偷藏不住配音",
+      "onboard_time": 1687272096,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269670,
       "num": 1255647,
       "word": "学生帽穗丢了老师无实物拨穗",
@@ -1368,6 +1400,14 @@
       "word": "桑稚一直都是赵露思",
       "onboard_time": 1687265312,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265218,
+      "num": 195710,
+      "word": "白敬亭宋轶对戏氛围感",
+      "onboard_time": 1687273475,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1393,6 +1433,14 @@
       "onboard_time": 1687238614,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261627,
+      "num": 355162,
+      "word": "朋友圈发什么最让你反感",
+      "onboard_time": 1687273655,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 261373,
@@ -1507,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245598,
+      "num": 245598,
+      "word": "兄妹从29楼通风管道坠入地下室身亡",
+      "onboard_time": 1687274076,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244905,
       "num": 345295,
       "word": "广东通报一中学生遭校暴被逼下跪",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1687184147,
       "rank": 15,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 238371,
+      "num": 238371,
+      "word": "女儿减肥妈妈专门包迷你粽子",
+      "onboard_time": 1687272758,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237076,
@@ -1755,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209105,
+      "num": 195458,
+      "word": "宋亚轩胸肌好明显",
+      "onboard_time": 1687271014,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208968,
       "num": 208968,
       "word": "这就是猫咪怪兽吧",
@@ -1777,14 +1849,6 @@
       "onboard_time": 1687246171,
       "rank": 48,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 206158,
-      "num": 195648,
-      "word": "赵露思看陈哲远vs看马伯骞",
-      "onboard_time": 1687271555,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 205864,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1687248394,
       "rank": 29,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 199950,
-      "num": 199950,
-      "word": "应届大学生就业重心继续下沉",
-      "onboard_time": 1687269995,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199878,
@@ -2089,6 +2145,14 @@
       "onboard_time": 1687241492,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179574,
+      "num": 179574,
+      "word": "女子瞒丈夫借网贷帮朋友后被拉黑",
+      "onboard_time": 1687272216,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176809,
@@ -2769,6 +2833,14 @@
       "onboard_time": 1687213335,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 30472,
+      "num": 649497,
+      "word": "兄弟俩送围裙感谢食堂阿姨打饭手不抖",
+      "onboard_time": 1687273235,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27428,
