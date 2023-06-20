@@ -1,6 +1,6 @@
 {
   "startTime": 1687191733472,
-  "endTime": 1687246419171,
+  "endTime": 1687249279780,
   "band_list": [
     {
       "raw_hot": 4518444,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3592180,
+      "num": 3592180,
+      "word": "王一博改代表作",
+      "onboard_time": 1687244969,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2894480,
       "num": 2000664,
       "word": "黄子佼爱徒Lulu发声",
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 2810808,
-      "num": 915718,
+      "num": 1092699,
       "word": "台警方称不会侦办大小S被控吸毒",
       "onboard_time": 1687243951,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2568811,
+      "num": 2568811,
+      "word": "陈情令",
+      "onboard_time": 1687245751,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 2489215,
@@ -88,14 +104,6 @@
       "word": "黄景瑜说和前任是亲人也是朋友",
       "onboard_time": 1687216523,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2079119,
-      "num": 2079119,
-      "word": "王一博改代表作",
-      "onboard_time": 1687244969,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1146242,
+      "num": 1146242,
+      "word": "逆水寒 开放了生孩子的功能",
+      "onboard_time": 1687244071,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1128959,
       "num": 419516,
       "word": "陶晶莹称希望黄子佼好好度过",
@@ -257,6 +273,14 @@
       "onboard_time": 1687227872,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 999879,
+      "num": 999879,
+      "word": "秦岚腰臀比",
+      "onboard_time": 1687246531,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 983044,
@@ -299,14 +323,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 864293,
-      "num": 864293,
-      "word": "逆水寒 开放了生孩子的功能",
-      "onboard_time": 1687244071,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 829175,
       "num": 829175,
       "word": "马云指出淘宝天猫未来三个方向",
@@ -320,6 +336,14 @@
       "word": "男子表白失败扔花大喊她是女同",
       "onboard_time": 1687230989,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770635,
+      "num": 770635,
+      "word": "在医院ICU住了四年得多少钱",
+      "onboard_time": 1687244969,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1687185043,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 712345,
+      "num": 609257,
+      "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
+      "onboard_time": 1687246891,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 709776,
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 615997,
+      "num": 615997,
+      "word": "高圆圆贾静雯双生封面大片",
+      "onboard_time": 1687245812,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 606819,
       "num": 606819,
       "word": "网上很火但是你不懂的梗",
@@ -425,6 +465,14 @@
       "onboard_time": 1687171660,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546691,
+      "num": 546691,
+      "word": "心疼桑稚",
+      "onboard_time": 1687246770,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 543490,
@@ -467,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 507007,
-      "num": 459074,
-      "word": "陈情令",
-      "onboard_time": 1687245751,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 482903,
       "num": 433837,
       "word": "面试搭子居然是公司副总",
@@ -489,6 +529,14 @@
       "onboard_time": 1687163147,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 439479,
+      "num": 337723,
+      "word": "宋轶扛剧能力",
+      "onboard_time": 1687246832,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 437163,
@@ -569,14 +617,6 @@
       "onboard_time": 1687218082,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 373104,
-      "num": 274526,
-      "word": "在医院ICU住了四年得多少钱",
-      "onboard_time": 1687244969,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368289,
@@ -761,6 +801,14 @@
       "onboard_time": 1687187801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291171,
+      "num": 253996,
+      "word": "温州男子发给好友63部淫秽视频后自首",
+      "onboard_time": 1687248632,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288652,
@@ -1035,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229135,
+      "num": 229135,
+      "word": "田曦薇咬嘴唇",
+      "onboard_time": 1687248513,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227439,
       "num": 227439,
       "word": "偷偷藏不住预告",
@@ -1091,12 +1147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218304,
-      "num": 218304,
-      "word": "高圆圆贾静雯双生封面大片",
-      "onboard_time": 1687245812,
+      "raw_hot": 218860,
+      "num": 218860,
+      "word": "EDG对阵PRX",
+      "onboard_time": 1687247432,
       "rank": 37,
-      "category": "作品衍生,时尚"
+      "category": "游戏"
     },
     {
       "raw_hot": 216129,
@@ -1121,6 +1177,14 @@
       "onboard_time": 1687187500,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208215,
+      "num": 208215,
+      "word": "戚薇 不敢着职业装上下班了",
+      "onboard_time": 1687246171,
+      "rank": 48,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 204550,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1687245089,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200498,
+      "num": 254601,
+      "word": "00后军人手脚并用连救5人",
+      "onboard_time": 1687248394,
+      "rank": 29,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 199878,
@@ -1243,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190518,
+      "num": 190518,
+      "word": "全世界的人追星都一个样",
+      "onboard_time": 1687248214,
+      "rank": 42,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 188778,
       "num": 188778,
       "word": "海拔4000米的雪山发现一只猫",
@@ -1275,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183140,
-      "num": 175524,
-      "word": "戚薇 不敢着职业装上下班了",
-      "onboard_time": 1687246171,
-      "rank": 48,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 180242,
       "num": 180242,
       "word": "全国3072所高校全名单",
@@ -1307,6 +1379,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174336,
+      "num": 174336,
+      "word": "处女座的恋爱误区",
+      "onboard_time": 1687248994,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 174244,
+      "num": 174244,
+      "word": "女生毕业将学校流浪猫带回家",
+      "onboard_time": 1687248152,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173273,
       "num": 173273,
       "word": "现在坐地铁就是单位间实力的较量",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1687239153,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170720,
+      "num": 170720,
+      "word": "同事说全款买房的人是傻子",
+      "onboard_time": 1687249233,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 170503,
@@ -1403,6 +1499,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 164071,
+      "num": 164071,
+      "word": "民警买奶茶顺手抓了3名嫌疑人",
+      "onboard_time": 1687248994,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163629,
       "num": 163629,
       "word": "是好朋友的周末定档",
@@ -1473,6 +1577,14 @@
       "onboard_time": 1687239515,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153626,
+      "num": 153626,
+      "word": "一小学每天将多余饭菜赠环卫工",
+      "onboard_time": 1687248214,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151498,
@@ -1675,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71494,
+      "num": 546829,
+      "word": "校长带老师到患病女生家中拨穗",
+      "onboard_time": 1687248034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68229,
       "num": 68229,
       "word": "买西瓜前为啥要拍一拍",
@@ -1705,6 +1825,14 @@
       "onboard_time": 1687197378,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 52964,
+      "num": 1641617,
+      "word": "他们是战巡南海绕岛巡航的空中铁拳",
+      "onboard_time": 1687248152,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51658,
