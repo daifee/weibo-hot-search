@@ -1,7 +1,15 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687321231120,
+  "endTime": 1687322041406,
   "band_list": [
+    {
+      "raw_hot": 9806383,
+      "num": 9806383,
+      "word": "炎亚纶现身邱耀乐记者会",
+      "onboard_time": 1687321238,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 8979593,
       "num": 446632,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1262079,
-      "num": 385068,
+      "num": 484229,
       "word": "妹妹公积金比我一个月工资还高",
       "onboard_time": 1687305629,
       "rank": 20,
@@ -169,6 +177,14 @@
       "onboard_time": 1687267591,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 889480,
+      "num": 889480,
+      "word": "NONO被曝性骚扰",
+      "onboard_time": 1687320877,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 885019,
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594253,
+      "num": 594253,
+      "word": "男子捡余额3.7万手机主动还失主",
+      "onboard_time": 1687309533,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585955,
       "num": 585955,
       "word": "杨和苏 三冠王",
@@ -339,16 +363,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 511973,
-      "num": 511973,
-      "word": "男子捡余额3.7万手机主动还失主",
-      "onboard_time": 1687309533,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499342,
-      "num": 380824,
+      "num": 413268,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
       "rank": 23,
@@ -363,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487204,
+      "num": 487204,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480853,
       "num": 434755,
       "word": "警方通报广州一出租屋发现3具尸体",
       "onboard_time": 1687265371,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478132,
+      "num": 478132,
+      "word": "为什么大家都不爱穿船袜了",
+      "onboard_time": 1687320758,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 448086,
@@ -411,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 415710,
+      "num": 377778,
+      "word": "黑莲花作者再发长文回应选角",
+      "onboard_time": 1687321120,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408503,
       "num": 408503,
       "word": "台警方称不会侦办大小S被控吸毒",
@@ -435,11 +475,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390407,
-      "num": 390407,
-      "word": "河北科技大学",
-      "onboard_time": 1687320633,
-      "rank": 19,
+      "raw_hot": 388462,
+      "num": 388462,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -459,20 +499,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 367517,
+      "num": 367517,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 363460,
       "num": 236463,
       "word": "朋友圈发什么最让你反感",
       "onboard_time": 1687273655,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 358776,
-      "num": 358776,
-      "word": "NONO被曝性骚扰",
-      "onboard_time": 1687320877,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 356561,
@@ -507,20 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342867,
-      "num": 342867,
-      "word": "为什么大家都不爱穿船袜了",
-      "onboard_time": 1687320758,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 332759,
       "num": 324152,
       "word": "赵露思到底是配音还是原声",
       "onboard_time": 1687312050,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332680,
+      "num": 332680,
+      "word": "周杰伦海口7米快递是啥",
+      "onboard_time": 1687320154,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 325978,
@@ -595,14 +635,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 304355,
-      "num": 304355,
-      "word": "周杰伦海口7米快递是啥",
-      "onboard_time": 1687320154,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 301983,
       "num": 320762,
       "word": "留了六年的头发被小孩剪了",
@@ -617,14 +649,6 @@
       "onboard_time": 1687314030,
       "rank": 16,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 287075,
-      "num": 287075,
-      "word": "你的工资可以打听几次",
-      "onboard_time": 1687320758,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 283359,
@@ -835,27 +859,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224689,
-      "num": 224689,
-      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
-      "onboard_time": 1687320937,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222787,
       "num": 164660,
       "word": "张萌新剧有钱有娃老公不回家",
       "onboard_time": 1687313132,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 220642,
-      "num": 220642,
-      "word": "黑莲花作者再发长文回应选角",
-      "onboard_time": 1687321120,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -891,12 +899,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210959,
-      "num": 210959,
+      "raw_hot": 211169,
+      "num": 211169,
       "word": "女子地铁站怒喊大叔猥亵阿姨",
       "onboard_time": 1687320699,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210018,
+      "num": 210018,
+      "word": "和肖战一起光盘行动",
+      "onboard_time": 1687321721,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 206722,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111233,
+      "num": 176435,
+      "word": "原神",
+      "onboard_time": 1687321840,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110106,
       "num": 159171,
       "word": "现在的无人机表演真的太帅了",
@@ -1203,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67894,
+      "num": 524580,
+      "word": "架在水上的高铁好似闯入天空之镜",
+      "onboard_time": 1687320034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67364,
       "num": 67364,
       "word": "虞书欣被小男孩夸好漂亮",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1687263570,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 42872,
-      "num": 524580,
-      "word": "架在水上的高铁好似闯入天空之镜",
-      "onboard_time": 1687320034,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41554,
