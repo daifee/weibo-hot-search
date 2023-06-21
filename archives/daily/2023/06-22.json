@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687378672210,
+  "endTime": 1687379631499,
   "band_list": [
     {
       "raw_hot": 1830478,
@@ -459,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62651,
+      "num": 62651,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52417,
       "num": 753748,
       "word": "2022十大最美农村路",
       "onboard_time": 1687359219,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47528,
-      "num": 47528,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 35757,
