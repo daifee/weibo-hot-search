@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687372411165,
+  "endTime": 1687374820152,
   "band_list": [
     {
       "raw_hot": 1830478,
@@ -463,6 +463,22 @@
       "num": 753748,
       "word": "2022十大最美农村路",
       "onboard_time": 1687359219,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29681,
+      "num": 31675,
+      "word": "马代酒店称涉事管家当日离职",
+      "onboard_time": 1687374015,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9813,
+      "num": 117098,
+      "word": "赛龙舟原来这么燃",
+      "onboard_time": 1687359035,
       "rank": 2,
       "category": "社会新闻"
     }
