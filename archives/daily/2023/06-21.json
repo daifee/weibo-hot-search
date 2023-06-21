@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687356924259,
+  "endTime": 1687358011361,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -99,12 +99,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2157958,
-      "num": 2157958,
+      "raw_hot": 2294572,
+      "num": 2294572,
       "word": "自曝被性侵女子提醒女生谨慎独自出国",
       "onboard_time": 1687353334,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2133044,
+      "num": 333685,
+      "word": "炎亚纶带了6位工作人员1位保镖",
+      "onboard_time": 1687356456,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1893816,
@@ -203,12 +211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1467901,
-      "num": 333685,
-      "word": "炎亚纶带了6位工作人员1位保镖",
-      "onboard_time": 1687356456,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 1462326,
+      "num": 1462326,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 1379841,
@@ -233,14 +241,6 @@
       "onboard_time": 1687314987,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1279085,
-      "num": 1279085,
-      "word": "消失的她",
-      "onboard_time": 1687332636,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 1262079,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 761679,
+      "num": 577261,
+      "word": "男子举报局长与其妻子有不正当关系",
+      "onboard_time": 1687351534,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747072,
       "num": 349273,
       "word": "今起恢复台湾地区番荔枝输入大陆",
@@ -611,14 +619,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 689781,
-      "num": 577261,
-      "word": "男子举报局长与其妻子有不正当关系",
-      "onboard_time": 1687351534,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 684177,
       "num": 684177,
       "word": "杨颖金靖是一个学校的",
@@ -675,6 +675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 610030,
+      "num": 456939,
+      "word": "怦然3男二坐铁锅里给女一道歉",
+      "onboard_time": 1687357537,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607877,
       "num": 607877,
       "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579730,
+      "num": 579730,
+      "word": "孙亦航",
+      "onboard_time": 1687357118,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572134,
       "num": 572134,
       "word": "优酷2023现偶天花板",
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 556561,
-      "num": 491128,
+      "num": 520112,
       "word": "女生1次备7天菜下班5分钟吃上晚饭",
       "onboard_time": 1687353693,
       "rank": 12,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434760,
+      "num": 434760,
+      "word": "偷偷藏不住哥和哥哥的区别",
+      "onboard_time": 1687354416,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434123,
       "num": 434123,
       "word": "冲进球场拥抱梅西小伙拘留期满获释",
@@ -952,6 +976,14 @@
       "word": "张凌赫马伯骞相似造型",
       "onboard_time": 1687343675,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 426186,
+      "num": 316584,
+      "word": "倪妮说文咏珊让我整个人都麻了",
+      "onboard_time": 1687355495,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1043,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389848,
+      "num": 389848,
+      "word": "陈哲远回复网友",
+      "onboard_time": 1687354174,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388603,
       "num": 352369,
       "word": "大学生网购毒品掺进奶茶给室友喝",
@@ -1064,14 +1104,6 @@
       "word": "刘芮麟谈与肖战合作",
       "onboard_time": 1687325800,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 377399,
-      "num": 377399,
-      "word": "陈哲远回复网友",
-      "onboard_time": 1687354174,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1123,14 +1155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 356244,
-      "num": 356244,
-      "word": "偷偷藏不住哥和哥哥的区别",
-      "onboard_time": 1687354416,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355174,
       "num": 355174,
       "word": "5人观光泰坦尼克残骸时失踪",
@@ -1171,20 +1195,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344981,
-      "num": 316584,
-      "word": "倪妮说文咏珊让我整个人都麻了",
-      "onboard_time": 1687355495,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339789,
       "num": 339789,
       "word": "NONO宣布停止演艺工作",
       "onboard_time": 1687335819,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338273,
+      "num": 288649,
+      "word": "黄子韬多巴胺穿搭",
+      "onboard_time": 1687355679,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 336897,
@@ -1427,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283527,
+      "num": 283527,
+      "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
+      "onboard_time": 1687355858,
+      "rank": 33,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 283359,
       "num": 277807,
       "word": "赵露思桑稚梦回嫋嫋",
@@ -1539,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263833,
-      "num": 263833,
-      "word": "黄子韬多巴胺穿搭",
-      "onboard_time": 1687355679,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 263267,
       "num": 263267,
       "word": "端午节快乐",
@@ -1619,19 +1643,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250756,
-      "num": 250756,
-      "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
-      "onboard_time": 1687355858,
-      "rank": 33,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 249941,
       "num": 249941,
       "word": "折腰",
       "onboard_time": 1687326040,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248644,
+      "num": 236344,
+      "word": "虞书欣张凌赫云之羽夏至海报",
+      "onboard_time": 1687356456,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1827,19 +1851,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226400,
+      "num": 226400,
+      "word": "社牛妈是养不出来社恐娃的",
+      "onboard_time": 1687354116,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224980,
       "num": 224980,
       "word": "大熊猫 突然好累",
       "onboard_time": 1687339779,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 224390,
-      "num": 224390,
-      "word": "社牛妈是养不出来社恐娃的",
-      "onboard_time": 1687354116,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -1857,6 +1881,14 @@
       "onboard_time": 1687351715,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219523,
+      "num": 219523,
+      "word": "桑稚牛奶过敏",
+      "onboard_time": 1687356217,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 218954,
@@ -1947,12 +1979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206867,
-      "num": 206867,
-      "word": "虞书欣张凌赫云之羽夏至海报",
-      "onboard_time": 1687356456,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 208764,
+      "num": 208764,
+      "word": "没想到随手一填威力这么大",
+      "onboard_time": 1687357599,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 206722,
@@ -2017,14 +2049,6 @@
       "onboard_time": 1687335456,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201148,
-      "num": 201148,
-      "word": "桑稚牛奶过敏",
-      "onboard_time": 1687356217,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 199390,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1687312350,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152869,
+      "num": 152869,
+      "word": "投资自己",
+      "onboard_time": 1687357235,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 147193,
