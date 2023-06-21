@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687379631499,
+  "endTime": 1687382176083,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -47763,6 +47763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78481,
+      "num": 78481,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 78472,
       "num": 78472,
       "word": "鼠头受害股",
@@ -48721,14 +48729,6 @@
       "onboard_time": 1686179359,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62651,
-      "num": 62651,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 62648,
@@ -50659,6 +50659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12999,
+      "num": 117098,
+      "word": "赛龙舟原来这么燃",
+      "onboard_time": 1687359035,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12740,
       "num": 78358,
       "word": "明天的你请继续加油",
@@ -50673,14 +50681,6 @@
       "onboard_time": 1686887855,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11447,
-      "num": 117098,
-      "word": "赛龙舟原来这么燃",
-      "onboard_time": 1687359035,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9934,

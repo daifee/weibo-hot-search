@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687379631499,
+  "endTime": 1687382176083,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -7563,6 +7563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78481,
+      "num": 78481,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 77082,
       "num": 276163,
       "word": "NIP对战WE",
@@ -7697,14 +7705,6 @@
       "onboard_time": 1687154440,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 62651,
-      "num": 62651,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 61014,
@@ -7971,7 +7971,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11447,
+      "raw_hot": 12999,
       "num": 117098,
       "word": "赛龙舟原来这么燃",
       "onboard_time": 1687359035,

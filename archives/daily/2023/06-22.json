@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687379631499,
+  "endTime": 1687382176083,
   "band_list": [
     {
       "raw_hot": 1830478,
@@ -451,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78481,
+      "num": 78481,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76641,
       "num": 90717,
       "word": "你工作时选择自己做饭还是点外卖",
       "onboard_time": 1687366286,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62651,
-      "num": 62651,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 52417,
@@ -483,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11447,
+      "raw_hot": 12999,
       "num": 117098,
       "word": "赛龙舟原来这么燃",
       "onboard_time": 1687359035,
