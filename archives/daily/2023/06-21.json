@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687354418197,
+  "endTime": 1687356924259,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -99,6 +99,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2157958,
+      "num": 2157958,
+      "word": "自曝被性侵女子提醒女生谨慎独自出国",
+      "onboard_time": 1687353334,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1893816,
       "num": 545225,
       "word": "鞠婧祎炎亚纶的剧还能播吗",
@@ -195,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1467901,
+      "num": 333685,
+      "word": "炎亚纶带了6位工作人员1位保镖",
+      "onboard_time": 1687356456,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1379841,
       "num": 1379841,
       "word": "女子房门被封事件堵门邻居已离世",
@@ -217,6 +233,14 @@
       "onboard_time": 1687314987,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1279085,
+      "num": 1279085,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 1262079,
@@ -329,6 +353,14 @@
       "onboard_time": 1687329335,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1019858,
+      "num": 1019858,
+      "word": "我只是gap了一年",
+      "onboard_time": 1687354056,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 1017879,
@@ -579,12 +611,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 688577,
-      "num": 688577,
-      "word": "消失的她",
-      "onboard_time": 1687332636,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 689781,
+      "num": 577261,
+      "word": "男子举报局长与其妻子有不正当关系",
+      "onboard_time": 1687351534,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684177,
@@ -667,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589297,
+      "num": 322645,
+      "word": "女子将农药倒入父亲止咳糖浆内被公诉",
+      "onboard_time": 1687354894,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585955,
       "num": 585955,
       "word": "杨和苏 三冠王",
@@ -675,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 577261,
-      "num": 577261,
-      "word": "男子举报局长与其妻子有不正当关系",
-      "onboard_time": 1687351534,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 572134,
       "num": 572134,
       "word": "优酷2023现偶天花板",
       "onboard_time": 1687316913,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 556561,
+      "num": 491128,
+      "word": "女生1次备7天菜下班5分钟吃上晚饭",
+      "onboard_time": 1687353693,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553268,
@@ -803,12 +843,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459084,
-      "num": 459084,
-      "word": "女生1次备7天菜下班5分钟吃上晚饭",
-      "onboard_time": 1687353693,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 459489,
+      "num": 459489,
+      "word": "迪丽热巴的珍珠泪",
+      "onboard_time": 1687352795,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 457219,
@@ -873,6 +913,14 @@
       "onboard_time": 1687330415,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434123,
+      "num": 434123,
+      "word": "冲进球场拥抱梅西小伙拘留期满获释",
+      "onboard_time": 1687353213,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 428487,
@@ -963,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409091,
-      "num": 409091,
-      "word": "自曝被性侵女子提醒女生谨慎独自出国",
-      "onboard_time": 1687353334,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408503,
       "num": 408503,
       "word": "台警方称不会侦办大小S被控吸毒",
@@ -1027,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377399,
+      "num": 377399,
+      "word": "陈哲远回复网友",
+      "onboard_time": 1687354174,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375727,
       "num": 235599,
       "word": "已经be但又很火的cp",
@@ -1075,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 356244,
+      "num": 356244,
+      "word": "偷偷藏不住哥和哥哥的区别",
+      "onboard_time": 1687354416,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355174,
       "num": 355174,
       "word": "5人观光泰坦尼克残骸时失踪",
@@ -1112,6 +1168,14 @@
       "word": "云边有个小卖部",
       "onboard_time": 1687313610,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344981,
+      "num": 316584,
+      "word": "倪妮说文咏珊让我整个人都麻了",
+      "onboard_time": 1687355495,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1163,28 +1227,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327268,
-      "num": 327268,
-      "word": "迪丽热巴的珍珠泪",
-      "onboard_time": 1687352795,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 325978,
       "num": 229123,
       "word": "王一博改代表作",
       "onboard_time": 1687244969,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325845,
-      "num": 325845,
-      "word": "冲进球场拥抱梅西小伙拘留期满获释",
-      "onboard_time": 1687353213,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 324823,
@@ -1283,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309485,
+      "num": 309485,
+      "word": "因为一杯奶茶分手了",
+      "onboard_time": 1687351899,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 309149,
       "num": 314063,
       "word": "西南大学校长呼吁外卖别随意给差评",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1687341398,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295847,
-      "num": 295847,
-      "word": "因为一杯奶茶分手了",
-      "onboard_time": 1687351899,
-      "rank": 22,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 295270,
@@ -1411,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276485,
-      "num": 276485,
-      "word": "我只是gap了一年",
-      "onboard_time": 1687354056,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 275100,
       "num": 215418,
       "word": "白敬亭发了粉丝修的图",
@@ -1475,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268825,
+      "num": 266752,
+      "word": "Bin 我鳄鱼玩得还行吧",
+      "onboard_time": 1687355737,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266685,
       "num": 266685,
       "word": "长春超市里含爸量好高",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1687347875,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "黄子韬多巴胺穿搭",
+      "onboard_time": 1687355679,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263267,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1687309234,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250756,
+      "num": 250756,
+      "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
+      "onboard_time": 1687355858,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 249941,
@@ -1707,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235046,
+      "num": 235046,
+      "word": "宠物医患关系也紧张",
+      "onboard_time": 1687356336,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233215,
       "num": 189395,
       "word": "下班4小时都能做些什么",
@@ -1763,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224390,
+      "num": 224390,
+      "word": "社牛妈是养不出来社恐娃的",
+      "onboard_time": 1687354116,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222787,
       "num": 164660,
       "word": "张萌新剧有钱有娃老公不回家",
@@ -1777,14 +1857,6 @@
       "onboard_time": 1687351715,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220971,
-      "num": 220971,
-      "word": "社牛妈是养不出来社恐娃的",
-      "onboard_time": 1687354116,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 218954,
@@ -1875,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206867,
+      "num": 206867,
+      "word": "虞书欣张凌赫云之羽夏至海报",
+      "onboard_time": 1687356456,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206722,
       "num": 180437,
       "word": "时代少年团T恤造型",
@@ -1939,10 +2019,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199706,
-      "num": 199706,
-      "word": "陈哲远回复网友",
-      "onboard_time": 1687354174,
+      "raw_hot": 201148,
+      "num": 201148,
+      "word": "桑稚牛奶过敏",
+      "onboard_time": 1687356217,
       "rank": 41,
       "category": "影视"
     },
@@ -2555,7 +2635,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 31619,
+      "raw_hot": 32228,
       "num": 1494879,
       "word": "航拍中国感受盛夏之美",
       "onboard_time": 1687336300,

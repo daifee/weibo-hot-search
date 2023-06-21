@@ -1,0 +1,410 @@
+{
+  "runTime": 1687356924259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2157958,
+        "num": 2157958,
+        "word": "自曝被性侵女子提醒女生谨慎独自出国",
+        "onboard_time": 1687353334,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1655069,
+        "num": 1655069,
+        "word": "邓亚萍拒绝158元一斤的车厘子",
+        "onboard_time": 1687350394,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32228,
+        "num": 1369671,
+        "word": "航拍中国感受盛夏之美",
+        "onboard_time": 1687336300,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320855,
+        "num": 1320855,
+        "word": "科目二我考了负725分",
+        "onboard_time": 1687350394,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1279085,
+        "num": 1279085,
+        "word": "消失的她",
+        "onboard_time": 1687332636,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1019858,
+        "num": 1019858,
+        "word": "我只是gap了一年",
+        "onboard_time": 1687354056,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 950923,
+        "num": 950923,
+        "word": "陈建斌的命也是命",
+        "onboard_time": 1687348535,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 665945,
+        "num": 665945,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 515131,
+        "num": 515131,
+        "word": "江浙沪已婚女士的共同点",
+        "onboard_time": 1687344994,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 689781,
+        "num": 501572,
+        "word": "男子举报局长与其妻子有不正当关系",
+        "onboard_time": 1687351534,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2596675,
+        "num": 491932,
+        "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
+        "onboard_time": 1687344873,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556561,
+        "num": 491128,
+        "word": "女生1次备7天菜下班5分钟吃上晚饭",
+        "onboard_time": 1687353693,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459489,
+        "num": 459489,
+        "word": "迪丽热巴的珍珠泪",
+        "onboard_time": 1687352795,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2317653,
+        "num": 449606,
+        "word": "警方将侦办炎亚纶事件",
+        "onboard_time": 1687346135,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434123,
+        "num": 434123,
+        "word": "冲进球场拥抱梅西小伙拘留期满获释",
+        "onboard_time": 1687353213,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 405918,
+        "num": 405918,
+        "word": "我点的奶茶被领导捎了上来",
+        "onboard_time": 1687349014,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377399,
+        "num": 377399,
+        "word": "陈哲远回复网友",
+        "onboard_time": 1687354174,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370671,
+        "num": 370671,
+        "word": "四川一中考生查出874分7门满分",
+        "onboard_time": 1687348955,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 356244,
+        "num": 356244,
+        "word": "偷偷藏不住哥和哥哥的区别",
+        "onboard_time": 1687354416,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334525,
+        "num": 334525,
+        "word": "拜登儿子认罪",
+        "onboard_time": 1687335698,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467901,
+        "num": 333685,
+        "word": "炎亚纶带了6位工作人员1位保镖",
+        "onboard_time": 1687356456,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589297,
+        "num": 322645,
+        "word": "女子将农药倒入父亲止咳糖浆内被公诉",
+        "onboard_time": 1687354894,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344981,
+        "num": 316584,
+        "word": "倪妮说文咏珊让我整个人都麻了",
+        "onboard_time": 1687355495,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1387863,
+        "num": 310707,
+        "word": "炎亚纶竟然还化了妆",
+        "onboard_time": 1687334561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309485,
+        "num": 309485,
+        "word": "因为一杯奶茶分手了",
+        "onboard_time": 1687351899,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 298339,
+        "num": 298339,
+        "word": "我被Excel骂了",
+        "onboard_time": 1687351052,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 900031,
+        "num": 290510,
+        "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+        "onboard_time": 1687326161,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269228,
+        "num": 269228,
+        "word": "邓超多巴胺穿搭",
+        "onboard_time": 1687330415,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269040,
+        "num": 269040,
+        "word": "LPL 暂停",
+        "onboard_time": 1687348173,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267871,
+        "num": 267871,
+        "word": "何同学挑战深圳开飞机到广州",
+        "onboard_time": 1687353875,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 268825,
+        "num": 266752,
+        "word": "Bin 我鳄鱼玩得还行吧",
+        "onboard_time": 1687355737,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263833,
+        "num": 263833,
+        "word": "黄子韬多巴胺穿搭",
+        "onboard_time": 1687355679,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260754,
+        "num": 260754,
+        "word": "第一次看到熊猫皱眉",
+        "onboard_time": 1687350513,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 250756,
+        "num": 250756,
+        "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
+        "onboard_time": 1687355858,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 235046,
+        "num": 235046,
+        "word": "宠物医患关系也紧张",
+        "onboard_time": 1687356336,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224390,
+        "num": 224390,
+        "word": "社牛妈是养不出来社恐娃的",
+        "onboard_time": 1687354116,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216333,
+        "num": 216333,
+        "word": "川大地铁事件涉事学生被留校留党察看",
+        "onboard_time": 1687336659,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 214700,
+        "num": 214700,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209430,
+        "num": 209430,
+        "word": "iG与Beishang解约",
+        "onboard_time": 1687344334,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 393257,
+        "num": 208936,
+        "word": "庆余年导演说演员应该杜绝文盲",
+        "onboard_time": 1687344034,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206867,
+        "num": 206867,
+        "word": "虞书欣张凌赫云之羽夏至海报",
+        "onboard_time": 1687356456,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201148,
+        "num": 201148,
+        "word": "桑稚牛奶过敏",
+        "onboard_time": 1687356217,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199325,
+        "num": 199325,
+        "word": "杨紫慢镜头视频",
+        "onboard_time": 1687352737,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197430,
+        "num": 197430,
+        "word": "桑稚用刮皮刀切西瓜",
+        "onboard_time": 1687349494,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186385,
+        "num": 186385,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180895,
+        "num": 180895,
+        "word": "BLG零封LNG",
+        "onboard_time": 1687352976,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180412,
+        "num": 180412,
+        "word": "张萌这次演抓出轨",
+        "onboard_time": 1687350154,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177140,
+        "num": 177140,
+        "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+        "onboard_time": 1687329696,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 175831,
+        "num": 175831,
+        "word": "为什么女生的衣服越做越短",
+        "onboard_time": 1687345056,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163941,
+        "num": 166242,
+        "word": "公司裁员把HR裁崩溃了",
+        "onboard_time": 1687344994,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#三夏农忙正当时#"
+    }
+  }
+}
