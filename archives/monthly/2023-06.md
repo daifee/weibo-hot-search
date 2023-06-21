@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 00:21:59
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 00:38:40
 </p>
 </blockquote>
 <p>
@@ -2505,6 +2505,12 @@ EXO确定于7月10日回归（热度：1552990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
+深圳一女子洗澡时因触电身亡（热度：1545519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E4%BE%9B%E8%87%AA%E5%B7%B1%E4%B8%8A%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%AD%A6%23" target="weibo">
 自己供自己上了四年的大学（热度：1543993）
 </a>
@@ -2981,12 +2987,6 @@ Jennie是前一天爬山太累了吗（热度：1402398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9D%91%E8%80%83%E5%87%BA300%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F6%E4%B8%AA%E5%8C%97%E5%A4%A7%23" target="weibo">
 一个村考出300多大学生6个北大（热度：1400611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
-深圳一女子洗澡时因触电身亡（热度：1400351）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 00:21:59
+本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 00:38:40
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
-深圳一女子洗澡时因触电身亡（热度：1400351）
+深圳一女子洗澡时因触电身亡（热度：1545519）
 </a>
 </li>
 
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86%23" target="weibo">
+暑假太可怕了（热度：756625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%88%91%E8%80%83%E4%BA%86%E8%B4%9F725%E5%88%86%23" target="weibo">
 科目二我考了负725分（热度：749942）
 </a>
@@ -63,32 +69,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23" target="weibo">
+炎亚纶心理素质（热度：670286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23" target="weibo">
 消失的她（热度：656767）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%BF%83%E7%90%86%E7%B4%A0%E8%B4%A8%23" target="weibo">
-炎亚纶心理素质（热度：550668）
+<a href="https://s.weibo.com/weibo?q=%23zb1%E9%A6%96%E6%97%A50%E4%B8%AD%E8%BE%93%23" target="weibo">
+zb1首日0中输（热度：613834）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86%23" target="weibo">
-暑假太可怕了（热度：535236）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%87%8C%E5%A5%A5%23" target="weibo">
+马里奥（热度：563688）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD%23" target="weibo">
 清潭国际高中（热度：507214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%87%8C%E5%A5%A5%23" target="weibo">
-马里奥（热度：487821）
 </a>
 </li>
 
@@ -106,7 +112,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23" target="weibo">
-女生1次备7天菜下班5分钟吃上晚饭（热度：446355）
+女生1次备7天菜下班5分钟吃上晚饭（热度：447884）
 </a>
 </li>
 
@@ -117,8 +123,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23zb1%E9%A6%96%E6%97%A50%E4%B8%AD%E8%BE%93%23" target="weibo">
-zb1首日0中输（热度：389519）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%88%B0%E5%BA%95%E6%BC%94%E6%88%8F%E8%BF%98%E6%98%AF%E8%AF%B4%E5%94%B1%E5%95%8A%23" target="weibo">
+马伯骞到底演戏还是说唱啊（热度：396601）
 </a>
 </li>
 
@@ -189,6 +195,12 @@ zb1首日0中输（热度：389519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+嵩山音乐节（热度：252347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E5%A5%BD%E6%94%B9%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 有两件事不好改回来了（热度：250981）
 </a>
@@ -197,6 +209,12 @@ zb1首日0中输（热度：389519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%9C%80%E5%A4%A7%E4%B8%8B%E6%BD%9C%E6%B7%B1%E5%BA%A61300%E7%B1%B3%E5%B7%A6%E5%8F%B3%23" target="weibo">
 泰坦号最大下潜深度1300米左右（热度：248434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%AF%B9%E5%BC%A0%E6%9F%90%E7%9A%84%E8%B0%83%E6%9F%A5%E6%98%BE%E5%BE%97%E5%A4%B1%E7%84%A6%E4%B8%94%E7%A2%8E%E7%89%87%E5%8C%96%23" target="weibo">
+川大对张某的调查显得失焦且碎片化（热度：245720）
 </a>
 </li>
 
@@ -213,20 +231,14 @@ goingseventeen因制作问题延迟播出（热度：243832）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%88%B0%E5%BA%95%E6%BC%94%E6%88%8F%E8%BF%98%E6%98%AF%E8%AF%B4%E5%94%B1%E5%95%8A%23" target="weibo">
-马伯骞到底演戏还是说唱啊（热度：233112）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E7%BE%8E%E4%B8%BD%E6%B5%99%E6%B1%9F%23" target="weibo">
+种地吧 美丽浙江（热度：233151）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%20%E6%9A%82%E5%81%9C%23" target="weibo">
 LPL 暂停（热度：219387）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E7%BE%8E%E4%B8%BD%E6%B5%99%E6%B1%9F%23" target="weibo">
-种地吧 美丽浙江（热度：212864）
 </a>
 </li>
 
@@ -239,12 +251,6 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%88%86%E6%89%8B%E4%BA%86%23" target="weibo">
 因为一杯奶茶分手了（热度：209531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-嵩山音乐节（热度：197109）
 </a>
 </li>
 
@@ -275,6 +281,12 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2354%E5%B2%81%E9%98%BF%E5%A7%A8%E6%8B%8D%E7%9F%AD%E8%A7%86%E9%A2%91%E5%85%A8%E6%9D%91%E5%82%AC%E6%9B%B4%23" target="weibo">
 54岁阿姨拍短视频全村催更（热度：180483）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E8%A1%8C%E5%AE%9A%E6%A1%A3%23" target="weibo">
+少年行定档（热度：177471）
 </a>
 </li>
 

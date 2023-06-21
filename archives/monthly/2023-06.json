@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687364519434,
+  "endTime": 1687365520896,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3323,6 +3323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1545519,
+      "num": 753013,
+      "word": "深圳一女子洗澡时因触电身亡",
+      "onboard_time": 1687361256,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1543993,
       "num": 1543993,
       "word": "自己供自己上了四年的大学",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1685954430,
       "rank": 15,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1400351,
-      "num": 739303,
-      "word": "深圳一女子洗澡时因触电身亡",
-      "onboard_time": 1687361256,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1400184,
@@ -8955,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 756625,
+      "num": 756625,
+      "word": "暑假太可怕了",
+      "onboard_time": 1687362933,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 756426,
       "num": 756426,
       "word": "邓紫棋感染新冠",
@@ -9979,6 +9987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670286,
+      "num": 345263,
+      "word": "炎亚纶心理素质",
+      "onboard_time": 1687362156,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669807,
       "num": 185372,
       "word": "顾成 苏艳",
@@ -10673,6 +10689,14 @@
       "onboard_time": 1685615487,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 613834,
+      "num": 613834,
+      "word": "zb1首日0中输",
+      "onboard_time": 1687363300,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 612928,
@@ -11371,6 +11395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 563688,
+      "num": 563688,
+      "word": "马里奥",
+      "onboard_time": 1687362098,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 563110,
       "num": 528888,
       "word": "佟晓梅爸妈演我嗑cp",
@@ -11577,14 +11609,6 @@
       "onboard_time": 1685961628,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 550668,
-      "num": 345263,
-      "word": "炎亚纶心理素质",
-      "onboard_time": 1687362156,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 550399,
@@ -11833,14 +11857,6 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535236,
-      "num": 535236,
-      "word": "暑假太可怕了",
-      "onboard_time": 1687362933,
-      "rank": 8,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 534577,
@@ -12721,14 +12737,6 @@
       "onboard_time": 1687173938,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487821,
-      "num": 487821,
-      "word": "马里奥",
-      "onboard_time": 1687362098,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 487724,
@@ -15091,6 +15099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396601,
+      "num": 396601,
+      "word": "马伯骞到底演戏还是说唱啊",
+      "onboard_time": 1687364072,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396251,
       "num": 396251,
       "word": "十年前当了蔡依林甲方",
@@ -15321,14 +15337,6 @@
       "onboard_time": 1685790028,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389519,
-      "num": 389519,
-      "word": "zb1首日0中输",
-      "onboard_time": 1687363300,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 389182,
@@ -24907,6 +24915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245720,
+      "num": 245720,
+      "word": "川大对张某的调查显得失焦且碎片化",
+      "onboard_time": 1687365092,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 245669,
       "num": 245669,
       "word": "坏妈妈",
@@ -26483,20 +26499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233151,
+      "num": 233151,
+      "word": "种地吧 美丽浙江",
+      "onboard_time": 1687363712,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233145,
       "num": 231474,
       "word": "是哪个seventeen",
       "onboard_time": 1686565588,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233112,
-      "num": 233112,
-      "word": "马伯骞到底演戏还是说唱啊",
-      "onboard_time": 1687364072,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 233069,
@@ -29497,14 +29513,6 @@
       "onboard_time": 1687334018,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212864,
-      "num": 212864,
-      "word": "种地吧 美丽浙江",
-      "onboard_time": 1687363712,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 212737,
@@ -35841,6 +35849,14 @@
       "onboard_time": 1686055468,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 177471,
+      "num": 177471,
+      "word": "少年行定档",
+      "onboard_time": 1687364851,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 177455,
