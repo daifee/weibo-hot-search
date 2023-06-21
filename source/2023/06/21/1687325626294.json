@@ -1,0 +1,410 @@
+{
+  "runTime": 1687325626294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12410748,
+        "num": 12410748,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1564668,
+        "num": 1564668,
+        "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+        "onboard_time": 1687320937,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11459,
+        "num": 1166040,
+        "word": "夏日中国尽显生态之美",
+        "onboard_time": 1687270775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117934,
+        "num": 1117934,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 945569,
+        "num": 945569,
+        "word": "肖战 蒙牛",
+        "onboard_time": 1687323045,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 930026,
+        "num": 930026,
+        "word": "王一博穿的居然是羽绒服",
+        "onboard_time": 1687323708,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728354,
+        "num": 728354,
+        "word": "赵丽颖张碧晨合体上综艺",
+        "onboard_time": 1687319796,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511263,
+        "num": 511263,
+        "word": "几十块的婚纱和几万块一样洁白",
+        "onboard_time": 1687313132,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 499719,
+        "num": 499719,
+        "word": "女子房门被封事件堵门邻居已离世",
+        "onboard_time": 1687310194,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631368,
+        "num": 497170,
+        "word": "炎亚纶崩溃痛哭",
+        "onboard_time": 1687323466,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739461,
+        "num": 494528,
+        "word": "河北科技大学",
+        "onboard_time": 1687320633,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489548,
+        "num": 489548,
+        "word": "12306",
+        "onboard_time": 1687315953,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450777,
+        "num": 450777,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 441467,
+        "num": 441467,
+        "word": "长风渡上星了",
+        "onboard_time": 1687317872,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74621,
+        "num": 437961,
+        "word": "6岁男孩成世界最年轻魔方大师",
+        "onboard_time": 1687323644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435017,
+        "num": 435017,
+        "word": "何炅黄磊这一集更难向外网解释了吧",
+        "onboard_time": 1687314987,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415355,
+        "num": 415355,
+        "word": "严敏又做说唱综艺了",
+        "onboard_time": 1687322744,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406941,
+        "num": 406941,
+        "word": "韩安冉首次回应四婚",
+        "onboard_time": 1687307673,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 9483783,
+        "num": 406071,
+        "word": "炎亚纶现身邱耀乐记者会",
+        "onboard_time": 1687321238,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350827,
+        "num": 350827,
+        "word": "萧煌奇回应不是盲人",
+        "onboard_time": 1687309114,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1389401,
+        "num": 350578,
+        "word": "NONO被曝性骚扰",
+        "onboard_time": 1687320877,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836975,
+        "num": 347446,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466831,
+        "num": 342948,
+        "word": "为什么大家都不爱穿船袜了",
+        "onboard_time": 1687320758,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461950,
+        "num": 339804,
+        "word": "为什么妲己总喂纣王吃葡萄",
+        "onboard_time": 1687322329,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424116,
+        "num": 338140,
+        "word": "你的工资可以打听几次",
+        "onboard_time": 1687320758,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 336897,
+        "num": 336897,
+        "word": "你每月有多少公积金",
+        "onboard_time": 1687323045,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336556,
+        "num": 336556,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332522,
+        "num": 332522,
+        "word": "酒店经理见老太开房神色慌张立即报警",
+        "onboard_time": 1687306590,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315172,
+        "num": 315172,
+        "word": "杨和苏 三冠王",
+        "onboard_time": 1687312296,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309622,
+        "num": 309622,
+        "word": "全国现有吸毒人员112.4万",
+        "onboard_time": 1687324423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303714,
+        "num": 303714,
+        "word": "周杰伦海口7米快递是啥",
+        "onboard_time": 1687320154,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278066,
+        "num": 278066,
+        "word": "男子捡余额3.7万手机主动还失主",
+        "onboard_time": 1687309533,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277252,
+        "num": 277252,
+        "word": "种地吧 根本补不完",
+        "onboard_time": 1687277612,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250843,
+        "num": 250843,
+        "word": "柳智敏我的英雄学院",
+        "onboard_time": 1687304669,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243647,
+        "num": 243647,
+        "word": "男孩称后背痒植物人父亲用尽全力抬手",
+        "onboard_time": 1687302863,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238578,
+        "num": 238578,
+        "word": "第一次看男朋友的浏览器",
+        "onboard_time": 1687306470,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232751,
+        "num": 232751,
+        "word": "于文文魔方视界巡回演唱会",
+        "onboard_time": 1687325383,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227499,
+        "num": 227499,
+        "word": "陈建斌多巴胺穿搭",
+        "onboard_time": 1687304485,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217402,
+        "num": 217402,
+        "word": "云边有个小卖部",
+        "onboard_time": 1687313610,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206557,
+        "num": 206557,
+        "word": "女孩毕设展陌生人添上3颗珍珠",
+        "onboard_time": 1687323167,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198455,
+        "num": 198455,
+        "word": "王俊凯做客向往的生活",
+        "onboard_time": 1687318233,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197362,
+        "num": 197362,
+        "word": "学校给考研二战同学准备的岗位",
+        "onboard_time": 1687319316,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194227,
+        "num": 194227,
+        "word": "派克特没夺冠",
+        "onboard_time": 1687314270,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192331,
+        "num": 192331,
+        "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+        "onboard_time": 1687310671,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190441,
+        "num": 190441,
+        "word": "优酷2023现偶天花板",
+        "onboard_time": 1687316913,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180209,
+        "num": 180209,
+        "word": "竹已",
+        "onboard_time": 1687317573,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178821,
+        "num": 178821,
+        "word": "代号鸢",
+        "onboard_time": 1687323764,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159792,
+        "num": 178808,
+        "word": "原神",
+        "onboard_time": 1687321840,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159209,
+        "num": 178078,
+        "word": "怦然心动20岁",
+        "onboard_time": 1687322984,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145251,
+        "num": 177374,
+        "word": "饿了么免单",
+        "onboard_time": 1687317694,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}

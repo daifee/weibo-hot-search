@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687324621117,
+  "endTime": 1687325626294,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -67,12 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1631368,
+      "num": 1087907,
+      "word": "炎亚纶崩溃痛哭",
+      "onboard_time": 1687323466,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1621934,
       "num": 342009,
       "word": "炎亚纶本名叫吴庚霖",
       "onboard_time": 1687306590,
       "rank": 13,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1564668,
+      "num": 1564668,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1557708,
@@ -89,14 +105,6 @@
       "onboard_time": 1687306590,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1455567,
-      "num": 1087907,
-      "word": "炎亚纶崩溃痛哭",
-      "onboard_time": 1687323466,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1379841,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1002150,
-      "num": 1002150,
-      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
-      "onboard_time": 1687320937,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 993823,
       "num": 993823,
       "word": "12306",
@@ -209,6 +209,22 @@
       "onboard_time": 1687267591,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 945569,
+      "num": 945569,
+      "word": "肖战 蒙牛",
+      "onboard_time": 1687323045,
+      "rank": 11,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 930026,
+      "num": 930026,
+      "word": "王一博穿的居然是羽绒服",
+      "onboard_time": 1687323708,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 885019,
@@ -299,20 +315,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 739461,
+      "num": 581902,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720544,
       "num": 568587,
       "word": "金晨的嘴怎么了",
       "onboard_time": 1687251091,
       "rank": 4,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 718519,
-      "num": 581902,
-      "word": "河北科技大学",
-      "onboard_time": 1687320633,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684177,
@@ -339,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635904,
-      "num": 581890,
-      "word": "肖战 蒙牛",
-      "onboard_time": 1687323045,
-      "rank": 11,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 607877,
       "num": 607877,
       "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
@@ -369,14 +377,6 @@
       "onboard_time": 1687312296,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 580446,
-      "num": 580446,
-      "word": "王一博穿的居然是羽绒服",
-      "onboard_time": 1687323708,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 572134,
@@ -491,12 +491,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424116,
+      "num": 367517,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 415710,
       "num": 377778,
       "word": "黑莲花作者再发长文回应选角",
       "onboard_time": 1687321120,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415355,
+      "num": 415355,
+      "word": "严敏又做说唱综艺了",
+      "onboard_time": 1687322744,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 408503,
@@ -521,22 +537,6 @@
       "onboard_time": 1687315112,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391378,
-      "num": 367517,
-      "word": "你的工资可以打听几次",
-      "onboard_time": 1687320758,
-      "rank": 31,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 385284,
-      "num": 346232,
-      "word": "严敏又做说唱综艺了",
-      "onboard_time": 1687322744,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 375727,
@@ -593,6 +593,14 @@
       "onboard_time": 1687313610,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336897,
+      "num": 336897,
+      "word": "你每月有多少公积金",
+      "onboard_time": 1687323045,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332759,
@@ -675,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309622,
+      "num": 309622,
+      "word": "全国现有吸毒人员112.4万",
+      "onboard_time": 1687324423,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309149,
       "num": 314063,
       "word": "西南大学校长呼吁外卖别随意给差评",
@@ -753,14 +769,6 @@
       "onboard_time": 1687265131,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 273677,
-      "num": 273677,
-      "word": "你每月有多少公积金",
-      "onboard_time": 1687323045,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273586,
@@ -897,6 +905,14 @@
       "onboard_time": 1687272817,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232751,
+      "num": 232751,
+      "word": "于文文魔方视界巡回演唱会",
+      "onboard_time": 1687325383,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 231851,
@@ -1100,7 +1116,7 @@
     },
     {
       "raw_hot": 174475,
-      "num": 176435,
+      "num": 178808,
       "word": "原神",
       "onboard_time": 1687321840,
       "rank": 48,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1687259192,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 159209,
+      "num": 178078,
+      "word": "怦然心动20岁",
+      "onboard_time": 1687322984,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 158910,
@@ -1299,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74621,
+      "num": 541839,
+      "word": "6岁男孩成世界最年轻魔方大师",
+      "onboard_time": 1687323644,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67894,
       "num": 524580,
       "word": "架在水上的高铁好似闯入天空之镜",
@@ -1328,14 +1360,6 @@
       "word": "夏日中国尽显生态之美",
       "onboard_time": 1687270775,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40726,
-      "num": 541839,
-      "word": "6岁男孩成世界最年轻魔方大师",
-      "onboard_time": 1687323644,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
