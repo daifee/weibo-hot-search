@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687346052349,
+  "endTime": 1687347208342,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -15,6 +15,14 @@
       "num": 9806383,
       "word": "炎亚纶现身邱耀乐记者会",
       "onboard_time": 1687321238,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9595653,
+      "num": 9595653,
+      "word": "警方将侦办炎亚纶事件",
+      "onboard_time": 1687346135,
       "rank": 0,
       "category": "艺人"
     },
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 6223000,
-      "num": 791985,
+      "num": 1112136,
       "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
       "onboard_time": 1687344873,
       "rank": 5,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 908559,
+      "num": 908559,
+      "word": "江浙沪已婚女士的共同点",
+      "onboard_time": 1687344994,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 900124,
       "num": 2889872,
       "word": "青岛1米88大长腿交警回应走红",
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732798,
+      "num": 365912,
+      "word": "公司裁员把HR裁崩溃了",
+      "onboard_time": 1687344994,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 720544,
       "num": 568587,
       "word": "金晨的嘴怎么了",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 676459,
-      "num": 563366,
+      "num": 655978,
       "word": "iG与Beishang解约",
       "onboard_time": 1687344334,
       "rank": 10,
@@ -553,14 +577,6 @@
       "onboard_time": 1687340558,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 610084,
-      "num": 610084,
-      "word": "江浙沪已婚女士的共同点",
-      "onboard_time": 1687344994,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 607877,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 569445,
+      "num": 569445,
+      "word": "庆余年导演说演员应该杜绝文盲",
+      "onboard_time": 1687344034,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543068,
       "num": 478132,
       "word": "为什么大家都不爱穿船袜了",
@@ -608,14 +632,6 @@
       "word": "偷偷藏不住受众群体",
       "onboard_time": 1687259429,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 538873,
-      "num": 538873,
-      "word": "庆余年导演说演员应该杜绝文盲",
-      "onboard_time": 1687344034,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -655,14 +671,6 @@
       "num": 413268,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 499172,
-      "num": 363065,
-      "word": "公司裁员把HR裁崩溃了",
-      "onboard_time": 1687344994,
       "rank": 23,
       "category": "幽默"
     },
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427810,
+      "num": 427810,
+      "word": "张凌赫马伯骞相似造型",
+      "onboard_time": 1687343675,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425198,
       "num": 344672,
       "word": "TaylorSwift巡演官宣亚洲场次",
@@ -841,14 +857,6 @@
       "onboard_time": 1687341634,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412717,
-      "num": 412717,
-      "word": "张凌赫马伯骞相似造型",
-      "onboard_time": 1687343675,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 408503,
@@ -920,6 +928,14 @@
       "word": "突然摆烂的小熊猫",
       "onboard_time": 1687275578,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 369875,
+      "num": 369875,
+      "word": "为什么女生的衣服越做越短",
+      "onboard_time": 1687345056,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -1145,14 +1161,6 @@
       "onboard_time": 1687335576,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306354,
-      "num": 306354,
-      "word": "为什么女生的衣服越做越短",
-      "onboard_time": 1687345056,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 301983,
@@ -1795,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181925,
+      "num": 181925,
+      "word": "有多久没和爸妈出去旅游了",
+      "onboard_time": 1687346854,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181878,
       "num": 181878,
       "word": "江映蓉现身重庆一高校毕业典礼",
@@ -1979,6 +1995,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 156744,
+      "num": 1235610,
+      "word": "兵马俑的衣着有近20种色调",
+      "onboard_time": 1687343558,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155373,
       "num": 155373,
       "word": "为什么穿洞洞鞋不能坐扶梯",
@@ -2008,14 +2032,6 @@
       "word": "师生为做实验请同学帮炫3百斤李子",
       "onboard_time": 1687338042,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129234,
-      "num": 816154,
-      "word": "兵马俑的衣着有近20种色调",
-      "onboard_time": 1687343558,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2059,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115960,
+      "num": 145137,
+      "word": "WBG对战TT",
+      "onboard_time": 1687347036,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110106,
       "num": 159171,
       "word": "现在的无人机表演真的太帅了",
@@ -2100,10 +2124,18 @@
     },
     {
       "raw_hot": 98279,
-      "num": 1598850,
+      "num": 1772322,
       "word": "90岁老战士与90后飞行员同框",
       "onboard_time": 1687336414,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96375,
+      "num": 983740,
+      "word": "网红长沙大屏循环播放禁毒宣言",
+      "onboard_time": 1687343315,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2129,14 +2161,6 @@
       "onboard_time": 1687271014,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 84038,
-      "num": 741207,
-      "word": "网红长沙大屏循环播放禁毒宣言",
-      "onboard_time": 1687343315,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81512,

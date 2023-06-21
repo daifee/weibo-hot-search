@@ -1,0 +1,410 @@
+{
+  "runTime": 1687347208342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9595653,
+        "num": 9595653,
+        "word": "警方将侦办炎亚纶事件",
+        "onboard_time": 1687346135,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543997,
+        "num": 2635005,
+        "word": "青岛1米88大长腿交警回应走红",
+        "onboard_time": 1687326823,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55544,
+        "num": 1772322,
+        "word": "90岁老战士与90后飞行员同框",
+        "onboard_time": 1687336414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1695905,
+        "num": 1695905,
+        "word": "川大地铁事件涉事学生被留校留党察看",
+        "onboard_time": 1687336659,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 1235610,
+        "word": "兵马俑的衣着有近20种色调",
+        "onboard_time": 1687343558,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3978020,
+        "num": 1112136,
+        "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
+        "onboard_time": 1687344873,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96375,
+        "num": 983740,
+        "word": "网红长沙大屏循环播放禁毒宣言",
+        "onboard_time": 1687343315,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908559,
+        "num": 908559,
+        "word": "江浙沪已婚女士的共同点",
+        "onboard_time": 1687344994,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 877753,
+        "num": 877753,
+        "word": "丫丫",
+        "onboard_time": 1687337498,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658267,
+        "num": 658267,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1549421,
+        "num": 657936,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655978,
+        "num": 655978,
+        "word": "iG与Beishang解约",
+        "onboard_time": 1687344334,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 569445,
+        "num": 569445,
+        "word": "庆余年导演说演员应该杜绝文盲",
+        "onboard_time": 1687344034,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487625,
+        "num": 487625,
+        "word": "拜登儿子认罪",
+        "onboard_time": 1687335698,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52675,
+        "num": 433752,
+        "word": "环卫工冒雨将市民10双鞋收到屋檐下",
+        "onboard_time": 1687345233,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427810,
+        "num": 427810,
+        "word": "张凌赫马伯骞相似造型",
+        "onboard_time": 1687343675,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417873,
+        "num": 417873,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 381063,
+        "num": 381063,
+        "word": "陈意涵晒照否认恋情",
+        "onboard_time": 1687342654,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370384,
+        "num": 370384,
+        "word": "白敬亭和父母都追过赘婿",
+        "onboard_time": 1687339419,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369875,
+        "num": 369875,
+        "word": "为什么女生的衣服越做越短",
+        "onboard_time": 1687345056,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1386623,
+        "num": 369380,
+        "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+        "onboard_time": 1687326161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1313382,
+        "num": 367989,
+        "word": "炎亚纶竟然还化了妆",
+        "onboard_time": 1687334561,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732798,
+        "num": 365912,
+        "word": "公司裁员把HR裁崩溃了",
+        "onboard_time": 1687344994,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359771,
+        "num": 359771,
+        "word": "河南大学",
+        "onboard_time": 1687340558,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 354151,
+        "num": 354151,
+        "word": "白敬亭请正面回答",
+        "onboard_time": 1687342595,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339446,
+        "num": 339446,
+        "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+        "onboard_time": 1687329696,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 330387,
+        "num": 330387,
+        "word": "虞书欣田曦薇cp名",
+        "onboard_time": 1687340675,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571950,
+        "num": 324312,
+        "word": "炎亚纶邱耀乐曾经的聊天记录",
+        "onboard_time": 1687331018,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314030,
+        "num": 314030,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310442,
+        "num": 310442,
+        "word": "全国现有吸毒人员112.4万",
+        "onboard_time": 1687324423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290009,
+        "num": 290009,
+        "word": "胡锡进称川大女生应感恩学校给机会",
+        "onboard_time": 1687341758,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287022,
+        "num": 287022,
+        "word": "我爱你",
+        "onboard_time": 1687341157,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277521,
+        "num": 277521,
+        "word": "给流浪猫寄罐头被老太太吃了",
+        "onboard_time": 1687338103,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275296,
+        "num": 275296,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274804,
+        "num": 274804,
+        "word": "一直娱",
+        "onboard_time": 1687341634,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243693,
+        "num": 243693,
+        "word": "丫丫肉眼可见圆滚滚起来了",
+        "onboard_time": 1687339779,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242446,
+        "num": 242446,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218533,
+        "num": 218533,
+        "word": "临死前身体会发生的100种奇怪反应",
+        "onboard_time": 1687331377,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 217821,
+        "num": 217821,
+        "word": "大学生网购毒品掺进奶茶给室友喝",
+        "onboard_time": 1687339238,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216327,
+        "num": 216327,
+        "word": "Uzi戴红眼镜",
+        "onboard_time": 1687341398,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214364,
+        "num": 214364,
+        "word": "谁提极乐净土肖战和谁急",
+        "onboard_time": 1687331796,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186933,
+        "num": 186933,
+        "word": "白敬亭宋轶摸头杀",
+        "onboard_time": 1687341095,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181925,
+        "num": 181925,
+        "word": "有多久没和爸妈出去旅游了",
+        "onboard_time": 1687346854,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169361,
+        "num": 169361,
+        "word": "赵丽颖张碧晨合体上综艺",
+        "onboard_time": 1687319796,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162307,
+        "num": 162307,
+        "word": "邓超多巴胺穿搭",
+        "onboard_time": 1687330415,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161758,
+        "num": 161758,
+        "word": "猫咪被救下主人却说不要了",
+        "onboard_time": 1687338638,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155430,
+        "num": 155430,
+        "word": "惠英红向多位圈中好友说我爱你",
+        "onboard_time": 1687328145,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145932,
+        "num": 145932,
+        "word": "杭州一男子在绿化带内迷路四天三夜",
+        "onboard_time": 1687331856,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115960,
+        "num": 145137,
+        "word": "WBG对战TT",
+        "onboard_time": 1687347036,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150035,
+        "num": 144290,
+        "word": "惠英红 怎么好像在官宣什么",
+        "onboard_time": 1687340017,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#三夏农忙正当时#"
+    }
+  }
+}
