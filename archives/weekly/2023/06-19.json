@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687351878859,
+  "endTime": 1687353634283,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -859,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1263276,
+      "num": 1263276,
+      "word": "科目二我考了负725分",
+      "onboard_time": 1687350394,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1262079,
       "num": 484229,
       "word": "妹妹公积金比我一个月工资还高",
@@ -1147,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 997069,
+      "num": 997069,
+      "word": "陈建斌的命也是命",
+      "onboard_time": 1687348535,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 993823,
       "num": 993823,
       "word": "12306",
@@ -1331,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 866190,
+      "num": 866190,
+      "word": "我点的奶茶被领导捎了上来",
+      "onboard_time": 1687349014,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 863869,
       "num": 339457,
       "word": "应采儿陈小春假装不认识Jasper",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1687263271,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859033,
-      "num": 859033,
-      "word": "陈建斌的命也是命",
-      "onboard_time": 1687348535,
-      "rank": 13,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 858175,
@@ -1419,14 +1435,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 828006,
-      "num": 828006,
-      "word": "我点的奶茶被领导捎了上来",
-      "onboard_time": 1687349014,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 825258,
       "num": 467868,
       "word": "萧煌奇",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1687230989,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811056,
+      "num": 811056,
+      "word": "邓亚萍拒绝158元一斤的车厘子",
+      "onboard_time": 1687350394,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 808840,
@@ -1483,20 +1499,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 797410,
+      "num": 429808,
+      "word": "我被Excel骂了",
+      "onboard_time": 1687351052,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 796362,
       "num": 556268,
       "word": "胡锡进 川大那名女生的事该有结果了",
       "onboard_time": 1687175319,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795610,
-      "num": 795610,
-      "word": "邓亚萍拒绝158元一斤的车厘子",
-      "onboard_time": 1687350394,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 788372,
@@ -1747,12 +1763,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 653129,
+      "num": 543636,
+      "word": "张萌这次演抓出轨",
+      "onboard_time": 1687350154,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 649845,
       "num": 649845,
       "word": "化学老师跳下10米高桥救起轻生女子",
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 639970,
+      "num": 639970,
+      "word": "四川一中考生查出874分7门满分",
+      "onboard_time": 1687348955,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 634631,
@@ -1825,14 +1857,6 @@
       "onboard_time": 1687163984,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610415,
-      "num": 610415,
-      "word": "四川一中考生查出874分7门满分",
-      "onboard_time": 1687348955,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 607877,
@@ -1953,14 +1977,6 @@
       "onboard_time": 1687265131,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 543636,
-      "num": 543636,
-      "word": "张萌这次演抓出轨",
-      "onboard_time": 1687350154,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 543490,
@@ -2147,14 +2163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 493221,
-      "num": 493221,
-      "word": "科目二我考了负725分",
-      "onboard_time": 1687350394,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 491959,
       "num": 491959,
       "word": "朴彩英四年前的发量vs现在的",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1687270536,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 455525,
+      "num": 455525,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 455495,
@@ -2449,14 +2465,6 @@
       "onboard_time": 1687307250,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 424993,
-      "num": 424993,
-      "word": "我被Excel骂了",
-      "onboard_time": 1687351052,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 424647,
@@ -2819,6 +2827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368263,
+      "num": 368263,
+      "word": "桑稚用刮皮刀切西瓜",
+      "onboard_time": 1687349494,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363705,
       "num": 308330,
       "word": "温州男子发给好友63部淫秽视频后自首",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1687255353,
       "rank": 24,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 357214,
+      "num": 357214,
+      "word": "男子举报局长与其妻子有不正当关系",
+      "onboard_time": 1687351534,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356561,
@@ -3163,14 +3187,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 322398,
-      "num": 322398,
-      "word": "消失的她",
-      "onboard_time": 1687332636,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321990,
       "num": 358369,
       "word": "女子放下儿子捡起3岁走失女童",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1687187801,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317206,
+      "num": 274279,
+      "word": "还是头回吃这么花里胡哨的瓜",
+      "onboard_time": 1687352915,
+      "rank": 21,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 316715,
@@ -3379,14 +3403,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 301802,
-      "num": 301802,
-      "word": "桑稚用刮皮刀切西瓜",
-      "onboard_time": 1687349494,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301285,
       "num": 301285,
       "word": "轰6K 群发短信",
@@ -3457,6 +3473,22 @@
       "onboard_time": 1687139427,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292872,
+      "num": 258113,
+      "word": "BLG零封LNG",
+      "onboard_time": 1687352976,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 292644,
+      "num": 272716,
+      "word": "因为一杯奶茶分手了",
+      "onboard_time": 1687351899,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 292503,
@@ -3539,11 +3571,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288401,
-      "num": 288401,
-      "word": "男子举报局长与其妻子有不正当关系",
-      "onboard_time": 1687351534,
-      "rank": 26,
+      "raw_hot": 288331,
+      "num": 267539,
+      "word": "男孩卑躬屈膝式玩手机1米8变1米3",
+      "onboard_time": 1687352795,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3681,6 +3713,14 @@
       "onboard_time": 1687236459,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277986,
+      "num": 277986,
+      "word": "迪丽热巴的珍珠泪",
+      "onboard_time": 1687352795,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277563,
@@ -3851,6 +3891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267509,
+      "num": 267509,
+      "word": "第一次看到熊猫皱眉",
+      "onboard_time": 1687350513,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 267288,
       "num": 267288,
       "word": "坐飞机发现前男友的座位在旁边",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1687227149,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 257801,
-      "num": 257801,
-      "word": "第一次看到熊猫皱眉",
-      "onboard_time": 1687350513,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 257424,
@@ -4209,6 +4249,14 @@
       "onboard_time": 1687180060,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246277,
+      "num": 258394,
+      "word": "自曝被性侵女子提醒女生谨慎独自出国",
+      "onboard_time": 1687353334,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245989,
@@ -4683,6 +4731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223739,
+      "num": 223739,
+      "word": "冲进球场拥抱梅西小伙拘留期满获释",
+      "onboard_time": 1687353213,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 222850,
       "num": 222850,
       "word": "上海大爷相亲称每月给30万零花钱",
@@ -4875,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212747,
+      "num": 212747,
+      "word": "杨紫慢镜头视频",
+      "onboard_time": 1687352737,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212509,
       "num": 212509,
       "word": "EDG战胜AL",
@@ -4897,6 +4961,14 @@
       "onboard_time": 1687277257,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211781,
+      "num": 211781,
+      "word": "BLG战胜LNG",
+      "onboard_time": 1687352556,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 211650,
@@ -6171,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158540,
+      "num": 159292,
+      "word": "浙江机关开放会议阅读健身等场地资源",
+      "onboard_time": 1687353397,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158354,
       "num": 158354,
       "word": "郁可唯上海",
@@ -7387,6 +7467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26015,
+      "num": 1117561,
+      "word": "航拍中国感受盛夏之美",
+      "onboard_time": 1687336300,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22018,
       "num": 22018,
       "word": "七彩猫",
@@ -7423,14 +7511,6 @@
       "num": 1713407,
       "word": "发现最美铁路",
       "onboard_time": 1687173101,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15696,
-      "num": 1117561,
-      "word": "航拍中国感受盛夏之美",
-      "onboard_time": 1687336300,
       "rank": 2,
       "category": "社会新闻"
     }
