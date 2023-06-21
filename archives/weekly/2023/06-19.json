@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687374820152,
+  "endTime": 1687376016894,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -7883,19 +7883,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35757,
+      "num": 35757,
+      "word": "马代酒店称涉事管家当日离职",
+      "onboard_time": 1687374015,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32228,
       "num": 1494879,
       "word": "航拍中国感受盛夏之美",
       "onboard_time": 1687336300,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29681,
-      "num": 31675,
-      "word": "马代酒店称涉事管家当日离职",
-      "onboard_time": 1687374015,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -7963,7 +7963,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9813,
+      "raw_hot": 11367,
       "num": 117098,
       "word": "赛龙舟原来这么燃",
       "onboard_time": 1687359035,
