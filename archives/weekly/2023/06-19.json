@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687365520896,
+  "endTime": 1687367706754,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -1091,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1087024,
+      "num": 1087024,
+      "word": "暑假太可怕了",
+      "onboard_time": 1687362933,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1071743,
       "num": 384110,
       "word": "炎亚纶左耳钉的故事",
@@ -1635,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 756625,
-      "num": 756625,
-      "word": "暑假太可怕了",
-      "onboard_time": 1687362933,
-      "rank": 8,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 752217,
       "num": 752217,
       "word": "网传岳阳一母亲杀死16岁女儿",
@@ -1771,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709313,
+      "num": 533853,
+      "word": "炎亚纶心理素质",
+      "onboard_time": 1687362156,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703294,
       "num": 703294,
       "word": "两周拿了6个offer",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1687219953,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 670286,
-      "num": 345263,
-      "word": "炎亚纶心理素质",
-      "onboard_time": 1687362156,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 665359,
@@ -2123,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 552202,
+      "num": 552202,
+      "word": "马伯骞到底演戏还是说唱啊",
+      "onboard_time": 1687364072,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 546536,
       "num": 546536,
       "word": "张小狮 这一系列畸形的爱到底有多可怕",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1687140088,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515482,
+      "num": 515482,
+      "word": "川大对张某的调查显得失焦且碎片化",
+      "onboard_time": 1687365092,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 514645,
@@ -2849,14 +2865,6 @@
       "onboard_time": 1687265670,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396601,
-      "num": 396601,
-      "word": "马伯骞到底演戏还是说唱啊",
-      "onboard_time": 1687364072,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 396251,
@@ -4539,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245720,
-      "num": 245720,
-      "word": "川大对张某的调查显得失焦且碎片化",
-      "onboard_time": 1687365092,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 245223,
       "num": 245223,
       "word": "这群男人在干嘛啊",
@@ -5281,6 +5281,14 @@
       "onboard_time": 1687338459,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212504,
+      "num": 212504,
+      "word": "少年行定档",
+      "onboard_time": 1687364851,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 212430,
@@ -6115,14 +6123,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 177471,
-      "num": 177471,
-      "word": "少年行定档",
-      "onboard_time": 1687364851,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177156,
       "num": 159492,
       "word": "真情侣",
@@ -6923,6 +6923,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 143724,
+      "num": 143724,
+      "word": "鞠婧祎侧脸vs正脸",
+      "onboard_time": 1687367066,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143452,
       "num": 332365,
       "word": "周一哪有不疯的",
@@ -7553,6 +7561,14 @@
       "onboard_time": 1687171180,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76641,
+      "num": 90717,
+      "word": "你工作时选择自己做饭还是点外卖",
+      "onboard_time": 1687366286,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76441,

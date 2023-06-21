@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687365520896,
+  "endTime": 1687367706754,
   "band_list": [
     {
       "raw_hot": 1830478,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1087024,
+      "num": 1087024,
+      "word": "暑假太可怕了",
+      "onboard_time": 1687362933,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 961193,
       "num": 751613,
       "word": "孙亦航",
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 756625,
-      "num": 756625,
-      "word": "暑假太可怕了",
-      "onboard_time": 1687362933,
-      "rank": 8,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 749942,
       "num": 749942,
       "word": "科目二我考了负725分",
@@ -75,8 +75,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 670286,
-      "num": 345263,
+      "raw_hot": 709313,
+      "num": 533853,
       "word": "炎亚纶心理素质",
       "onboard_time": 1687362156,
       "rank": 21,
@@ -105,6 +105,22 @@
       "onboard_time": 1687362098,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 552202,
+      "num": 552202,
+      "word": "马伯骞到底演戏还是说唱啊",
+      "onboard_time": 1687364072,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515482,
+      "num": 515482,
+      "word": "川大对张某的调查显得失焦且碎片化",
+      "onboard_time": 1687365092,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 507214,
@@ -145,14 +161,6 @@
       "onboard_time": 1687350394,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396601,
-      "num": 396601,
-      "word": "马伯骞到底演戏还是说唱啊",
-      "onboard_time": 1687364072,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 384007,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245720,
-      "num": 245720,
-      "word": "川大对张某的调查显得失焦且碎片化",
-      "onboard_time": 1687365092,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 243832,
       "num": 243832,
       "word": "goingseventeen因制作问题延迟播出",
@@ -305,6 +305,14 @@
       "onboard_time": 1687348173,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212504,
+      "num": 212504,
+      "word": "少年行定档",
+      "onboard_time": 1687364851,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 210524,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177471,
-      "num": 177471,
-      "word": "少年行定档",
-      "onboard_time": 1687364851,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164481,
       "num": 164481,
       "word": "这群男人在干嘛啊",
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143724,
+      "num": 143724,
+      "word": "鞠婧祎侧脸vs正脸",
+      "onboard_time": 1687367066,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140687,
       "num": 140687,
       "word": "那一刻它好像也有自己的家了",
@@ -411,6 +419,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92540,
+      "num": 92540,
+      "word": "官方通报网传大学生涉嫌卖淫800次",
+      "onboard_time": 1687334676,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 85967,
+      "num": 91115,
+      "word": "川大地铁事件涉事学生被留校留党察看",
+      "onboard_time": 1687336659,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 82942,
+      "num": 90787,
+      "word": "陈哲远回复网友",
+      "onboard_time": 1687354174,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 76641,
+      "num": 90717,
+      "word": "你工作时选择自己做饭还是点外卖",
+      "onboard_time": 1687366286,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52417,
       "num": 753748,
       "word": "2022十大最美农村路",
@@ -422,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#奋进中国大江澎湃#"
+    },
+    {
+      "word": "#三夏农忙正当时#"
     }
   ]
 }
