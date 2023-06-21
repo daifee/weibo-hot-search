@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687358011361,
+  "endTime": 1687360629012,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1267,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2355131,
+      "num": 818086,
+      "word": "炎亚纶带了6位工作人员1位保镖",
+      "onboard_time": 1687356456,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2342513,
       "num": 940383,
       "word": "张恒远毕夏",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1687169980,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2133044,
-      "num": 333685,
-      "word": "炎亚纶带了6位工作人员1位保镖",
-      "onboard_time": 1687356456,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2129279,
@@ -3673,6 +3673,14 @@
       "onboard_time": 1686280233,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1459549,
+      "num": 947936,
+      "word": "孙亦航",
+      "onboard_time": 1687357118,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1459438,
@@ -7475,6 +7483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 887462,
+      "num": 585761,
+      "word": "飞轮海当年人气排名",
+      "onboard_time": 1687360177,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886142,
       "num": 886142,
       "word": "刘亦菲林志颖20年前合照",
@@ -9387,6 +9403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718676,
+      "num": 718676,
+      "word": "怦然3男二坐铁锅里给女一道歉",
+      "onboard_time": 1687357537,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 717920,
       "num": 717920,
       "word": "高圆圆吃了我的刀削面",
@@ -10627,6 +10651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612928,
+      "num": 612928,
+      "word": "女生1次备7天菜下班5分钟吃上晚饭",
+      "onboard_time": 1687353693,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612860,
       "num": 612860,
       "word": "邓科 大奉打更人",
@@ -10657,14 +10689,6 @@
       "onboard_time": 1686916287,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610030,
-      "num": 456939,
-      "word": "怦然3男二坐铁锅里给女一道歉",
-      "onboard_time": 1687357537,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 609366,
@@ -10908,7 +10932,7 @@
     },
     {
       "raw_hot": 589297,
-      "num": 322645,
+      "num": 323975,
       "word": "女子将农药倒入父亲止咳糖浆内被公诉",
       "onboard_time": 1687354894,
       "rank": 21,
@@ -11073,14 +11097,6 @@
       "onboard_time": 1686409413,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579730,
-      "num": 579730,
-      "word": "孙亦航",
-      "onboard_time": 1687357118,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 579699,
@@ -11409,14 +11425,6 @@
       "onboard_time": 1685871026,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 556561,
-      "num": 520112,
-      "word": "女生1次备7天菜下班5分钟吃上晚饭",
-      "onboard_time": 1687353693,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556429,
@@ -11785,6 +11793,14 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534704,
+      "num": 534704,
+      "word": "长风渡开虐",
+      "onboard_time": 1687358677,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 534577,
@@ -12481,6 +12497,14 @@
       "onboard_time": 1686232953,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 493889,
+      "num": 352463,
+      "word": "倪妮说文咏珊让我整个人都麻了",
+      "onboard_time": 1687355495,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 493751,
@@ -13427,6 +13451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 448705,
+      "num": 352075,
+      "word": "任天堂",
+      "onboard_time": 1687358980,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 448612,
       "num": 448612,
       "word": "山河令",
@@ -13457,6 +13489,14 @@
       "onboard_time": 1686961465,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 447988,
+      "num": 447988,
+      "word": "黄子韬多巴胺穿搭",
+      "onboard_time": 1687355679,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 447799,
@@ -13977,14 +14017,6 @@
       "onboard_time": 1686501325,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 426186,
-      "num": 316584,
-      "word": "倪妮说文咏珊让我整个人都麻了",
-      "onboard_time": 1687355495,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 426082,
@@ -14833,6 +14865,14 @@
       "onboard_time": 1686842728,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402216,
+      "num": 402216,
+      "word": "泰坦尼克号",
+      "onboard_time": 1687359219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401980,
@@ -17395,14 +17435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338273,
-      "num": 288649,
-      "word": "黄子韬多巴胺穿搭",
-      "onboard_time": 1687355679,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 338214,
       "num": 338214,
       "word": "EDG拿下CN瓦首胜",
@@ -17457,6 +17489,14 @@
       "onboard_time": 1685627913,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337236,
+      "num": 337236,
+      "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
+      "onboard_time": 1687355858,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 337088,
@@ -20947,14 +20987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283527,
-      "num": 283527,
-      "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
-      "onboard_time": 1687355858,
-      "rank": 33,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 283408,
       "num": 283408,
       "word": "归期关羽五杀",
@@ -21945,6 +21977,14 @@
       "onboard_time": 1687334258,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271926,
+      "num": 271926,
+      "word": "虞书欣张凌赫云之羽夏至海报",
+      "onboard_time": 1687356456,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 271738,
@@ -24483,14 +24523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248644,
-      "num": 236344,
-      "word": "虞书欣张凌赫云之羽夏至海报",
-      "onboard_time": 1687356456,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248638,
       "num": 248638,
       "word": "酸奶为什么越卖越贵",
@@ -24833,6 +24865,14 @@
       "onboard_time": 1686749250,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245223,
+      "num": 245223,
+      "word": "这群男人在干嘛啊",
+      "onboard_time": 1687358198,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 245148,
@@ -27379,6 +27419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226031,
+      "num": 226031,
+      "word": "54岁阿姨拍短视频全村催更",
+      "onboard_time": 1687360236,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "柯南最新话",
@@ -28184,6 +28232,14 @@
       "word": "杭州收费站",
       "onboard_time": 1685939853,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220212,
+      "num": 220212,
+      "word": "端午海报上的龙舟",
+      "onboard_time": 1687360117,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -30371,6 +30427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205815,
+      "num": 205815,
+      "word": "毕导 实际上的毕业",
+      "onboard_time": 1687359576,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205649,
       "num": 205649,
       "word": "wvs con直播",
@@ -31827,6 +31891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197498,
+      "num": 197498,
+      "word": "猫中仙女",
+      "onboard_time": 1687360357,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197377,
       "num": 164665,
       "word": "鞠婧祎演我背课文",
@@ -32355,6 +32427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194772,
+      "num": 194772,
+      "word": "有两件事不好改回来了",
+      "onboard_time": 1687360117,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194703,
       "num": 194703,
       "word": "王鹤棣听到粉丝喊老公上错车",
@@ -32433,6 +32513,14 @@
       "onboard_time": 1686550349,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194195,
+      "num": 246295,
+      "word": "丫丫又有新画面了",
+      "onboard_time": 1687358919,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194183,
@@ -33425,6 +33513,14 @@
       "onboard_time": 1686132698,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189812,
+      "num": 189812,
+      "word": "赵露思屏幕里的陈哲远",
+      "onboard_time": 1687359818,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 189800,
@@ -34787,6 +34883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183020,
+      "num": 183020,
+      "word": "炎亚纶开始掉代言",
+      "onboard_time": 1687360416,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183005,
       "num": 183005,
       "word": "每个学校总有自己的显眼包",
@@ -36137,6 +36241,14 @@
       "onboard_time": 1687086446,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174185,
+      "num": 174185,
+      "word": "门口那个气球人偶都没你能摇",
+      "onboard_time": 1687360598,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 174178,
@@ -48168,6 +48280,14 @@
       "word": "猫咪不慎落水路人合力施救",
       "onboard_time": 1687255290,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67615,
+      "num": 1001133,
+      "word": "2022十大最美农村路",
+      "onboard_time": 1687359219,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

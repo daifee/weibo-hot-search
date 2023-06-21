@@ -1,0 +1,410 @@
+{
+  "runTime": 1687360629012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2001954,
+        "num": 2001954,
+        "word": "自曝被性侵女子提醒女生谨慎独自出国",
+        "onboard_time": 1687353334,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348422,
+        "num": 1348422,
+        "word": "消失的她",
+        "onboard_time": 1687332636,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67615,
+        "num": 1001133,
+        "word": "2022十大最美农村路",
+        "onboard_time": 1687359219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1459549,
+        "num": 947936,
+        "word": "孙亦航",
+        "onboard_time": 1687357118,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836572,
+        "num": 836572,
+        "word": "科目二我考了负725分",
+        "onboard_time": 1687350394,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2355131,
+        "num": 818086,
+        "word": "炎亚纶带了6位工作人员1位保镖",
+        "onboard_time": 1687356456,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725065,
+        "num": 725065,
+        "word": "陈建斌的命也是命",
+        "onboard_time": 1687348535,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 718676,
+        "num": 718676,
+        "word": "怦然3男二坐铁锅里给女一道歉",
+        "onboard_time": 1687357537,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645344,
+        "num": 645344,
+        "word": "我只是gap了一年",
+        "onboard_time": 1687354056,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 612928,
+        "num": 612928,
+        "word": "女生1次备7天菜下班5分钟吃上晚饭",
+        "onboard_time": 1687353693,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887462,
+        "num": 585761,
+        "word": "飞轮海当年人气排名",
+        "onboard_time": 1687360177,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646992,
+        "num": 572550,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 534704,
+        "num": 534704,
+        "word": "长风渡开虐",
+        "onboard_time": 1687358677,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447988,
+        "num": 447988,
+        "word": "黄子韬多巴胺穿搭",
+        "onboard_time": 1687355679,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402216,
+        "num": 402216,
+        "word": "泰坦尼克号",
+        "onboard_time": 1687359219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445823,
+        "num": 400302,
+        "word": "邓亚萍拒绝158元一斤的车厘子",
+        "onboard_time": 1687350394,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428886,
+        "num": 399229,
+        "word": "偷偷藏不住哥和哥哥的区别",
+        "onboard_time": 1687354416,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385634,
+        "num": 385634,
+        "word": "男子举报局长与其妻子有不正当关系",
+        "onboard_time": 1687351534,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370102,
+        "num": 370102,
+        "word": "江浙沪已婚女士的共同点",
+        "onboard_time": 1687344994,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356958,
+        "num": 356958,
+        "word": "清潭国际高中",
+        "onboard_time": 1687359874,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493889,
+        "num": 352463,
+        "word": "倪妮说文咏珊让我整个人都麻了",
+        "onboard_time": 1687355495,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448705,
+        "num": 352075,
+        "word": "任天堂",
+        "onboard_time": 1687358980,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337236,
+        "num": 337236,
+        "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
+        "onboard_time": 1687355858,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 328787,
+        "num": 328787,
+        "word": "我点的奶茶被领导捎了上来",
+        "onboard_time": 1687349014,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323975,
+        "num": 323975,
+        "word": "女子将农药倒入父亲止咳糖浆内被公诉",
+        "onboard_time": 1687354894,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378852,
+        "num": 313958,
+        "word": "炎亚纶今日新歌活着没什么大不了",
+        "onboard_time": 1687339477,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291762,
+        "num": 291762,
+        "word": "迪丽热巴的珍珠泪",
+        "onboard_time": 1687352795,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271926,
+        "num": 271926,
+        "word": "虞书欣张凌赫云之羽夏至海报",
+        "onboard_time": 1687356456,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267157,
+        "num": 267157,
+        "word": "因为一杯奶茶分手了",
+        "onboard_time": 1687351899,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 265434,
+        "num": 265434,
+        "word": "冲进球场拥抱梅西小伙拘留期满获释",
+        "onboard_time": 1687353213,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 265131,
+        "num": 265131,
+        "word": "陈哲远回复网友",
+        "onboard_time": 1687354174,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257252,
+        "num": 257252,
+        "word": "LPL 暂停",
+        "onboard_time": 1687348173,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253563,
+        "num": 253563,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194195,
+        "num": 246295,
+        "word": "丫丫又有新画面了",
+        "onboard_time": 1687358919,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245223,
+        "num": 245223,
+        "word": "这群男人在干嘛啊",
+        "onboard_time": 1687358198,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244495,
+        "num": 244495,
+        "word": "四川一中考生查出874分7门满分",
+        "onboard_time": 1687348955,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229646,
+        "num": 229646,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226031,
+        "num": 226031,
+        "word": "54岁阿姨拍短视频全村催更",
+        "onboard_time": 1687360236,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220212,
+        "num": 220212,
+        "word": "端午海报上的龙舟",
+        "onboard_time": 1687360117,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217524,
+        "num": 217524,
+        "word": "公司裁员把HR裁崩溃了",
+        "onboard_time": 1687344994,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205815,
+        "num": 205815,
+        "word": "毕导 实际上的毕业",
+        "onboard_time": 1687359576,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197498,
+        "num": 197498,
+        "word": "猫中仙女",
+        "onboard_time": 1687360357,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194772,
+        "num": 194772,
+        "word": "有两件事不好改回来了",
+        "onboard_time": 1687360117,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 190471,
+        "num": 190471,
+        "word": "Bin 我鳄鱼玩得还行吧",
+        "onboard_time": 1687355737,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189812,
+        "num": 189812,
+        "word": "赵露思屏幕里的陈哲远",
+        "onboard_time": 1687359818,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183020,
+        "num": 183020,
+        "word": "炎亚纶开始掉代言",
+        "onboard_time": 1687360416,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182277,
+        "num": 182277,
+        "word": "第一次看到熊猫皱眉",
+        "onboard_time": 1687350513,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 174185,
+        "num": 174185,
+        "word": "门口那个气球人偶都没你能摇",
+        "onboard_time": 1687360598,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173995,
+        "num": 173995,
+        "word": "社牛妈是养不出来社恐娃的",
+        "onboard_time": 1687354116,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171962,
+        "num": 171962,
+        "word": "桑稚牛奶过敏",
+        "onboard_time": 1687356217,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#感知端午魅力传承爱国情怀#"
+    }
+  }
+}
