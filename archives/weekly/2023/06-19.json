@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687304022439,
+  "endTime": 1687311415930,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1826472,
+      "num": 1826472,
+      "word": "陈建斌多巴胺穿搭",
+      "onboard_time": 1687304485,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1809194,
       "num": 1809194,
       "word": "房贷",
@@ -467,6 +475,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1621934,
+      "num": 342009,
+      "word": "炎亚纶本名叫吴庚霖",
+      "onboard_time": 1687306590,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1589803,
       "num": 1589803,
       "word": "张艺兴工作室公开招聘",
@@ -505,6 +521,14 @@
       "onboard_time": 1687236099,
       "rank": 7,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1525975,
+      "num": 1525975,
+      "word": "酒店经理见老太开房神色慌张立即报警",
+      "onboard_time": 1687306590,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1515466,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1299025,
+      "num": 1299025,
+      "word": "萧煌奇回应不是盲人",
+      "onboard_time": 1687309114,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1293958,
       "num": 1293958,
       "word": "大四男生实习薪资1万4妈妈仰天大笑",
@@ -673,6 +705,22 @@
       "onboard_time": 1687153112,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1262079,
+      "num": 326265,
+      "word": "妹妹公积金比我一个月工资还高",
+      "onboard_time": 1687305629,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1255258,
+      "num": 347395,
+      "word": "韩安冉首次回应四婚",
+      "onboard_time": 1687307673,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1230117,
@@ -785,6 +833,14 @@
       "onboard_time": 1687187205,
       "rank": 41,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1088979,
+      "num": 339330,
+      "word": "女子房门被封事件堵门邻居已离世",
+      "onboard_time": 1687310194,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1071296,
@@ -947,6 +1003,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 910239,
+      "num": 334299,
+      "word": "邱耀乐将开记者会对决炎亚纶",
+      "onboard_time": 1687311270,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 906409,
       "num": 906409,
       "word": "布林肯",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1687180119,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 825258,
+      "num": 331482,
+      "word": "萧煌奇",
+      "onboard_time": 1687304669,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 822136,
@@ -1219,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 702864,
+      "num": 702864,
+      "word": "偷偷藏不住首播评价",
+      "onboard_time": 1687309715,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690409,
       "num": 690409,
       "word": "王阳用口红在秦岚脸上留号码",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1687228049,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 584454,
+      "num": 308570,
+      "word": "杨颖金靖是一个学校的",
+      "onboard_time": 1687308755,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 582010,
@@ -1547,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497143,
+      "num": 317213,
+      "word": "第一次看男朋友的浏览器",
+      "onboard_time": 1687306470,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494993,
       "num": 318218,
       "word": "今晚看这三部剧",
@@ -1683,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438963,
+      "num": 305498,
+      "word": "姐弟恋相差17岁结婚走红",
+      "onboard_time": 1687310612,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437163,
       "num": 437163,
       "word": "黄子佼多个代言暂停合作",
@@ -1715,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428254,
+      "num": 428254,
+      "word": "一席之地 冠军",
+      "onboard_time": 1687305387,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426775,
       "num": 381210,
       "word": "网友拍到的龙吸水",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1687173637,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425198,
+      "num": 344672,
+      "word": "TaylorSwift巡演官宣亚洲场次",
+      "onboard_time": 1687307250,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 424647,
@@ -2035,6 +2155,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 356561,
+      "num": 303679,
+      "word": "领导也没想到整个部门都离职",
+      "onboard_time": 1687304847,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355006,
       "num": 441092,
       "word": "原来真的有人发际线连着眉毛",
@@ -2209,6 +2337,14 @@
       "onboard_time": 1687181505,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328488,
+      "num": 328488,
+      "word": "男子捡余额3.7万手机主动还失主",
+      "onboard_time": 1687309533,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324823,
@@ -2739,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264763,
+      "num": 264763,
+      "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+      "onboard_time": 1687310671,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264299,
       "num": 264299,
       "word": "女心理师江苏卫视定档",
@@ -2787,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261470,
+      "num": 261470,
+      "word": "防晒口罩是智商税吗",
+      "onboard_time": 1687304005,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261373,
       "num": 261373,
       "word": "薛之谦青岛",
@@ -2817,6 +2969,14 @@
       "onboard_time": 1687227149,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257862,
+      "num": 257862,
+      "word": "柳智敏我的英雄学院",
+      "onboard_time": 1687304669,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 257424,
@@ -2889,6 +3049,14 @@
       "onboard_time": 1687256011,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253393,
+      "num": 253393,
+      "word": "室友搬走后把镜子砸碎了",
+      "onboard_time": 1687309234,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 253035,
@@ -3251,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230685,
+      "num": 230685,
+      "word": "这粽子我一次能吃一二十个",
+      "onboard_time": 1687303823,
+      "rank": 32,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 230628,
       "num": 230628,
       "word": "公诉全员告别角色",
@@ -3291,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228283,
+      "num": 228283,
+      "word": "什么专业好考公务员",
+      "onboard_time": 1687308634,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228254,
       "num": 228254,
       "word": "金珉奎尹净汉车银优蔡亨源聚餐",
@@ -3305,6 +3489,14 @@
       "onboard_time": 1687241012,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227392,
+      "num": 227392,
+      "word": "代号鸢周瑜",
+      "onboard_time": 1687310493,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 226525,
@@ -3432,6 +3624,14 @@
       "word": "毕业时我给同学发了互删微信",
       "onboard_time": 1687171600,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 214745,
+      "num": 214745,
+      "word": "被男朋友挤走了工作机会",
+      "onboard_time": 1687305569,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -3651,6 +3851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201434,
+      "num": 201434,
+      "word": "C罗绝杀冰岛",
+      "onboard_time": 1687305510,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201279,
       "num": 201279,
       "word": "雍和宫服从调剂式许愿",
@@ -3769,6 +3977,14 @@
       "onboard_time": 1687233934,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196546,
+      "num": 196546,
+      "word": "离职一年收到前司发的工资",
+      "onboard_time": 1687306772,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 196457,
@@ -3963,6 +4179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187540,
+      "num": 187540,
+      "word": "被一个冰柜秀了两次",
+      "onboard_time": 1687310012,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186681,
       "num": 215511,
       "word": "雷军现身武大毕业典礼",
@@ -4001,6 +4225,14 @@
       "onboard_time": 1687099590,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184400,
+      "num": 184400,
+      "word": "如果你撞到这个叔叔",
+      "onboard_time": 1687311213,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 184275,
@@ -4115,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177089,
+      "num": 177089,
+      "word": "连雕像都没有穿衣自由了",
+      "onboard_time": 1687309470,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176809,
       "num": 176809,
       "word": "北京的云像漫画",
@@ -4208,6 +4448,14 @@
       "word": "现在坐地铁就是单位间实力的较量",
       "onboard_time": 1687242690,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172910,
+      "num": 172910,
+      "word": "建议下雨天就不要穿拖鞋了",
+      "onboard_time": 1687304847,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -4499,6 +4747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158123,
+      "num": 158123,
+      "word": "更适合中国宝宝体质的女团舞",
+      "onboard_time": 1687311391,
+      "rank": 48,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 156217,
       "num": 215267,
       "word": "密子君  重庆的烧烤也开卷了",
@@ -4521,6 +4777,14 @@
       "onboard_time": 1687138107,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "为什么穿洞洞鞋不能坐扶梯",
+      "onboard_time": 1687305329,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 154137,
@@ -4955,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125098,
-      "num": 125098,
-      "word": "这粽子我一次能吃一二十个",
-      "onboard_time": 1687303823,
-      "rank": 32,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 124062,
       "num": 192991,
       "word": "Steam",
@@ -5073,14 +5329,6 @@
       "onboard_time": 1687277257,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110103,
-      "num": 110103,
-      "word": "防晒口罩是智商税吗",
-      "onboard_time": 1687304005,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 109773,
@@ -5451,6 +5699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41554,
+      "num": 1376289,
+      "word": "夏日中国尽显生态之美",
+      "onboard_time": 1687270775,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39194,
       "num": 1927446,
       "word": "高质量发展调研行",
@@ -5489,14 +5745,6 @@
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27557,
-      "num": 659894,
-      "word": "夏日中国尽显生态之美",
-      "onboard_time": 1687270775,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27428,

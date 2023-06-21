@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687304022439,
+  "endTime": 1687311415930,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -11,12 +11,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1826472,
+      "num": 1826472,
+      "word": "陈建斌多巴胺穿搭",
+      "onboard_time": 1687304485,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1686912,
       "num": 445307,
       "word": "炎亚纶聊天记录",
       "onboard_time": 1687233275,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1621934,
+      "num": 342009,
+      "word": "炎亚纶本名叫吴庚霖",
+      "onboard_time": 1687306590,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1525975,
+      "num": 1525975,
+      "word": "酒店经理见老太开房神色慌张立即报警",
+      "onboard_time": 1687306590,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1299025,
+      "num": 1299025,
+      "word": "萧煌奇回应不是盲人",
+      "onboard_time": 1687309114,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1262079,
+      "num": 326265,
+      "word": "妹妹公积金比我一个月工资还高",
+      "onboard_time": 1687305629,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1255258,
+      "num": 347395,
+      "word": "韩安冉首次回应四婚",
+      "onboard_time": 1687307673,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1101596,
@@ -27,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1088979,
+      "num": 339330,
+      "word": "女子房门被封事件堵门邻居已离世",
+      "onboard_time": 1687310194,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077335,
       "num": 445889,
       "word": "小S曾在party后漂头发眉毛",
@@ -35,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 986093,
+      "num": 655518,
+      "word": "南京已经没有大厂了",
+      "onboard_time": 1687265791,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 969493,
       "num": 969493,
       "word": "长风渡第9集封神",
       "onboard_time": 1687267591,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 910239,
+      "num": 334299,
+      "word": "邱耀乐将开记者会对决炎亚纶",
+      "onboard_time": 1687311270,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 879435,
@@ -59,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 825258,
+      "num": 331482,
+      "word": "萧煌奇",
+      "onboard_time": 1687304669,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 785843,
       "num": 785843,
       "word": "种地吧 根本补不完",
@@ -68,7 +148,7 @@
     },
     {
       "raw_hot": 747072,
-      "num": 237575,
+      "num": 315496,
       "word": "今起恢复台湾地区番荔枝输入大陆",
       "onboard_time": 1687264470,
       "rank": 20,
@@ -91,20 +171,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 720544,
+      "num": 568587,
+      "word": "金晨的嘴怎么了",
+      "onboard_time": 1687251091,
+      "rank": 4,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 702864,
+      "num": 702864,
+      "word": "偷偷藏不住首播评价",
+      "onboard_time": 1687309715,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 665359,
       "num": 665359,
       "word": "夏至",
       "onboard_time": 1687302503,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655518,
-      "num": 655518,
-      "word": "南京已经没有大厂了",
-      "onboard_time": 1687265791,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 645980,
@@ -123,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568587,
-      "num": 568587,
-      "word": "金晨的嘴怎么了",
-      "onboard_time": 1687251091,
-      "rank": 4,
-      "category": "艺人,幽默"
+      "raw_hot": 584454,
+      "num": 308570,
+      "word": "杨颖金靖是一个学校的",
+      "onboard_time": 1687308755,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 541533,
@@ -147,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497143,
+      "num": 317213,
+      "word": "第一次看男朋友的浏览器",
+      "onboard_time": 1687306470,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 480853,
       "num": 434755,
       "word": "警方通报广州一出租屋发现3具尸体",
@@ -161,6 +257,30 @@
       "onboard_time": 1687261829,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438963,
+      "num": 305498,
+      "word": "姐弟恋相差17岁结婚走红",
+      "onboard_time": 1687310612,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428254,
+      "num": 428254,
+      "word": "一席之地 冠军",
+      "onboard_time": 1687305387,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425198,
+      "num": 344672,
+      "word": "TaylorSwift巡演官宣亚洲场次",
+      "onboard_time": 1687307250,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 408503,
@@ -193,6 +313,22 @@
       "onboard_time": 1687273655,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356561,
+      "num": 303679,
+      "word": "领导也没想到整个部门都离职",
+      "onboard_time": 1687304847,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 328488,
+      "num": 328488,
+      "word": "男子捡余额3.7万手机主动还失主",
+      "onboard_time": 1687309533,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325978,
@@ -251,6 +387,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 264763,
+      "num": 264763,
+      "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+      "onboard_time": 1687310671,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 261470,
+      "num": 261470,
+      "word": "防晒口罩是智商税吗",
+      "onboard_time": 1687304005,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 257862,
+      "num": 257862,
+      "word": "柳智敏我的英雄学院",
+      "onboard_time": 1687304669,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256373,
       "num": 230638,
       "word": "吴宗宪 这辈子最痛恨吸毒的人",
@@ -273,6 +433,14 @@
       "onboard_time": 1687270536,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 253393,
+      "num": 253393,
+      "word": "室友搬走后把镜子砸碎了",
+      "onboard_time": 1687309234,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 238425,
@@ -307,12 +475,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230685,
+      "num": 230685,
+      "word": "这粽子我一次能吃一二十个",
+      "onboard_time": 1687303823,
+      "rank": 32,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 228283,
+      "num": 228283,
+      "word": "什么专业好考公务员",
+      "onboard_time": 1687308634,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 227392,
+      "num": 227392,
+      "word": "代号鸢周瑜",
+      "onboard_time": 1687310493,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218954,
       "num": 171672,
       "word": "种地吧",
       "onboard_time": 1687280185,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214745,
+      "num": 214745,
+      "word": "被男朋友挤走了工作机会",
+      "onboard_time": 1687305569,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 213131,
@@ -363,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201434,
+      "num": 201434,
+      "word": "C罗绝杀冰岛",
+      "onboard_time": 1687305510,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199390,
       "num": 230072,
       "word": "为什么越来越多应届生回县城考公",
@@ -377,6 +585,14 @@
       "onboard_time": 1687277434,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196546,
+      "num": 196546,
+      "word": "离职一年收到前司发的工资",
+      "onboard_time": 1687306772,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 189322,
@@ -395,12 +611,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187540,
+      "num": 187540,
+      "word": "被一个冰柜秀了两次",
+      "onboard_time": 1687310012,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184400,
+      "num": 184400,
+      "word": "如果你撞到这个叔叔",
+      "onboard_time": 1687311213,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 177089,
+      "num": 177089,
+      "word": "连雕像都没有穿衣自由了",
+      "onboard_time": 1687309470,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176528,
       "num": 159744,
       "word": "虞书欣白色吊带透视裙",
       "onboard_time": 1687265670,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172910,
+      "num": 172910,
+      "word": "建议下雨天就不要穿拖鞋了",
+      "onboard_time": 1687304847,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 168416,
@@ -435,6 +683,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 158123,
+      "num": 158123,
+      "word": "更适合中国宝宝体质的女团舞",
+      "onboard_time": 1687311391,
+      "rank": 48,
+      "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "为什么穿洞洞鞋不能坐扶梯",
+      "onboard_time": 1687305329,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128903,
       "num": 161182,
       "word": "染头发染出凶案现场",
@@ -449,14 +713,6 @@
       "onboard_time": 1687278628,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 125098,
-      "num": 125098,
-      "word": "这粽子我一次能吃一二十个",
-      "onboard_time": 1687303823,
-      "rank": 32,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 121409,
@@ -481,14 +737,6 @@
       "onboard_time": 1687277257,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110103,
-      "num": 110103,
-      "word": "防晒口罩是智商税吗",
-      "onboard_time": 1687304005,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 103631,
@@ -539,8 +787,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 27557,
-      "num": 659894,
+      "raw_hot": 41554,
+      "num": 1376289,
       "word": "夏日中国尽显生态之美",
       "onboard_time": 1687270775,
       "rank": 2,
