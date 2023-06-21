@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687353634283,
+  "endTime": 1687354418197,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -531,6 +531,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1740255,
+      "num": 1740255,
+      "word": "邓亚萍拒绝158元一斤的车厘子",
+      "onboard_time": 1687350394,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1737623,
       "num": 714302,
       "word": "黄子佼老婆",
@@ -553,6 +561,14 @@
       "onboard_time": 1687166201,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1666583,
+      "num": 1666583,
+      "word": "科目二我考了负725分",
+      "onboard_time": 1687350394,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 1658049,
@@ -859,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1263276,
-      "num": 1263276,
-      "word": "科目二我考了负725分",
-      "onboard_time": 1687350394,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1262079,
       "num": 484229,
       "word": "妹妹公积金比我一个月工资还高",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1687151550,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109048,
+      "num": 1109048,
+      "word": "陈建斌的命也是命",
+      "onboard_time": 1687348535,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1103299,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1687099411,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 997069,
-      "num": 997069,
-      "word": "陈建斌的命也是命",
-      "onboard_time": 1687348535,
-      "rank": 13,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 993823,
@@ -1459,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 811056,
-      "num": 811056,
-      "word": "邓亚萍拒绝158元一斤的车厘子",
-      "onboard_time": 1687350394,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 808840,
       "num": 808840,
       "word": "几十块的婚纱和几万块一样洁白",
@@ -1481,6 +1481,14 @@
       "onboard_time": 1687258053,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804504,
+      "num": 804504,
+      "word": "四川一中考生查出874分7门满分",
+      "onboard_time": 1687348955,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 802357,
@@ -1500,7 +1508,7 @@
     },
     {
       "raw_hot": 797410,
-      "num": 429808,
+      "num": 579267,
       "word": "我被Excel骂了",
       "onboard_time": 1687351052,
       "rank": 16,
@@ -1691,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688577,
+      "num": 688577,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 684386,
       "num": 684386,
       "word": "Jennie在舞台上走神",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 639970,
-      "num": 639970,
-      "word": "四川一中考生查出874分7门满分",
-      "onboard_time": 1687348955,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 634631,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1687267414,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 577261,
+      "num": 577261,
+      "word": "男子举报局长与其妻子有不正当关系",
+      "onboard_time": 1687351534,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577141,
@@ -2259,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459084,
+      "num": 459084,
+      "word": "女生1次备7天菜下班5分钟吃上晚饭",
+      "onboard_time": 1687353693,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457283,
       "num": 457283,
       "word": "宋轶扛剧能力",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1687270536,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 455525,
-      "num": 455525,
-      "word": "消失的她",
-      "onboard_time": 1687332636,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 455495,
@@ -2595,6 +2611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409091,
+      "num": 409091,
+      "word": "自曝被性侵女子提醒女生谨慎独自出国",
+      "onboard_time": 1687353334,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407403,
       "num": 407403,
       "word": "折腰男主人设",
@@ -2883,14 +2907,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 357214,
-      "num": 357214,
-      "word": "男子举报局长与其妻子有不正当关系",
-      "onboard_time": 1687351534,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356561,
       "num": 303679,
       "word": "领导也没想到整个部门都离职",
@@ -3161,6 +3177,22 @@
       "onboard_time": 1687181505,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327268,
+      "num": 327268,
+      "word": "迪丽热巴的珍珠泪",
+      "onboard_time": 1687352795,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325845,
+      "num": 325845,
+      "word": "冲进球场拥抱梅西小伙拘留期满获释",
+      "onboard_time": 1687353213,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 324823,
@@ -3435,12 +3467,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 299016,
+      "num": 299016,
+      "word": "第一次看到熊猫皱眉",
+      "onboard_time": 1687350513,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 297168,
       "num": 297168,
       "word": "Uzi戴红眼镜",
       "onboard_time": 1687341398,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295847,
+      "num": 295847,
+      "word": "因为一杯奶茶分手了",
+      "onboard_time": 1687351899,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 295646,
@@ -3476,19 +3524,11 @@
     },
     {
       "raw_hot": 292872,
-      "num": 258113,
+      "num": 263887,
       "word": "BLG零封LNG",
       "onboard_time": 1687352976,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292644,
-      "num": 272716,
-      "word": "因为一杯奶茶分手了",
-      "onboard_time": 1687351899,
-      "rank": 22,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 292503,
@@ -3715,14 +3755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277986,
-      "num": 277986,
-      "word": "迪丽热巴的珍珠泪",
-      "onboard_time": 1687352795,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 277563,
       "num": 277563,
       "word": "彭昱畅卷发",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1687264531,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276485,
+      "num": 276485,
+      "word": "我只是gap了一年",
+      "onboard_time": 1687354056,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 275546,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1687317815,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273539,
+      "num": 273539,
+      "word": "何同学挑战深圳开飞机到广州",
+      "onboard_time": 1687353875,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 272375,
@@ -3889,14 +3937,6 @@
       "onboard_time": 1687265312,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267509,
-      "num": 267509,
-      "word": "第一次看到熊猫皱眉",
-      "onboard_time": 1687350513,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 267288,
@@ -4251,14 +4291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 246277,
-      "num": 258394,
-      "word": "自曝被性侵女子提醒女生谨慎独自出国",
-      "onboard_time": 1687353334,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245989,
       "num": 245989,
       "word": "朱婷",
@@ -4417,6 +4449,14 @@
       "onboard_time": 1687317936,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238602,
+      "num": 238602,
+      "word": "杨紫慢镜头视频",
+      "onboard_time": 1687352737,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238469,
@@ -4731,14 +4771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223739,
-      "num": 223739,
-      "word": "冲进球场拥抱梅西小伙拘留期满获释",
-      "onboard_time": 1687353213,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 222850,
       "num": 222850,
       "word": "上海大爷相亲称每月给30万零花钱",
@@ -4769,6 +4801,14 @@
       "onboard_time": 1687225531,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 220971,
+      "num": 220971,
+      "word": "社牛妈是养不出来社恐娃的",
+      "onboard_time": 1687354116,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 220765,
@@ -4929,14 +4969,6 @@
       "onboard_time": 1687334018,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212747,
-      "num": 212747,
-      "word": "杨紫慢镜头视频",
-      "onboard_time": 1687352737,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212509,
@@ -5201,6 +5233,14 @@
       "onboard_time": 1687237958,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 199706,
+      "num": 199706,
+      "word": "陈哲远回复网友",
+      "onboard_time": 1687354174,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 199475,
@@ -6459,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147193,
+      "num": 147193,
+      "word": "这只德牧讲义气但不多",
+      "onboard_time": 1687353938,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147132,
       "num": 147132,
       "word": "离谱的高情商问答",
@@ -7443,6 +7491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 31619,
+      "num": 1494879,
+      "word": "航拍中国感受盛夏之美",
+      "onboard_time": 1687336300,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27428,
       "num": 27428,
       "word": "吴幸键官宣出演言冰云",
@@ -7465,14 +7521,6 @@
       "onboard_time": 1687298475,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26015,
-      "num": 1117561,
-      "word": "航拍中国感受盛夏之美",
-      "onboard_time": 1687336300,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22018,
