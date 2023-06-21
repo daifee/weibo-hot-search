@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687343696499,
+  "endTime": 1687346052349,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -32,6 +32,14 @@
       "word": "炎亚纶承认与未成年发生关系",
       "onboard_time": 1687274137,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6223000,
+      "num": 791985,
+      "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
+      "onboard_time": 1687344873,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676459,
+      "num": 563366,
+      "word": "iG与Beishang解约",
+      "onboard_time": 1687344334,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 665359,
       "num": 665359,
       "word": "夏至",
@@ -537,6 +553,14 @@
       "onboard_time": 1687340558,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 610084,
+      "num": 610084,
+      "word": "江浙沪已婚女士的共同点",
+      "onboard_time": 1687344994,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 607877,
@@ -587,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 538873,
+      "num": 538873,
+      "word": "庆余年导演说演员应该杜绝文盲",
+      "onboard_time": 1687344034,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 538418,
       "num": 538418,
       "word": "女生自费30万拍作品拒绝领三等奖",
@@ -623,6 +655,14 @@
       "num": 413268,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 499172,
+      "num": 363065,
+      "word": "公司裁员把HR裁崩溃了",
+      "onboard_time": 1687344994,
       "rank": 23,
       "category": "幽默"
     },
@@ -673,6 +713,14 @@
       "onboard_time": 1687338103,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 455030,
+      "num": 455030,
+      "word": "白敬亭请正面回答",
+      "onboard_time": 1687342595,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 448086,
@@ -795,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412717,
+      "num": 412717,
+      "word": "张凌赫马伯骞相似造型",
+      "onboard_time": 1687343675,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408503,
       "num": 408503,
       "word": "台警方称不会侦办大小S被控吸毒",
@@ -907,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352178,
-      "num": 352178,
-      "word": "白敬亭请正面回答",
-      "onboard_time": 1687342595,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347385,
       "num": 300116,
       "word": "林宥嘉演唱会抢票",
@@ -961,6 +1009,14 @@
       "onboard_time": 1687341758,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333977,
+      "num": 333977,
+      "word": "我爱你",
+      "onboard_time": 1687341157,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 332759,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1687330957,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315247,
+      "num": 315247,
+      "word": "希望你们永远不懂什么意思",
+      "onboard_time": 1687345415,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 314465,
@@ -1083,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306354,
+      "num": 306354,
+      "word": "为什么女生的衣服越做越短",
+      "onboard_time": 1687345056,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301983,
       "num": 320762,
       "word": "留了六年的头发被小孩剪了",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1687314030,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 297168,
+      "num": 297168,
+      "word": "Uzi戴红眼镜",
+      "onboard_time": 1687341398,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 295270,
@@ -1121,14 +1201,6 @@
       "onboard_time": 1687337317,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292001,
-      "num": 292001,
-      "word": "我爱你",
-      "onboard_time": 1687341157,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 283359,
@@ -1233,14 +1305,6 @@
       "onboard_time": 1687329096,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258235,
-      "num": 258235,
-      "word": "Uzi戴红眼镜",
-      "onboard_time": 1687341398,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 256889,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1687337075,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235497,
+      "num": 235497,
+      "word": "果然互怼的才是真朋友",
+      "onboard_time": 1687345056,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 233215,
@@ -1659,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189141,
+      "num": 449638,
+      "word": "妈妈旅游路过帮女儿打扫到凌晨",
+      "onboard_time": 1687341634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189074,
       "num": 164116,
       "word": "S家的拖鞋之谜",
@@ -1721,14 +1801,6 @@
       "onboard_time": 1687331074,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 178609,
-      "num": 178609,
-      "word": "张凌赫马伯骞相似造型",
-      "onboard_time": 1687343675,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 177089,
@@ -1916,7 +1988,7 @@
     },
     {
       "raw_hot": 154206,
-      "num": 154206,
+      "num": 470949,
       "word": "环卫工冒雨将市民10双鞋收到屋檐下",
       "onboard_time": 1687328437,
       "rank": 48,
@@ -1931,19 +2003,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152298,
-      "num": 449638,
-      "word": "妈妈旅游路过帮女儿打扫到凌晨",
-      "onboard_time": 1687341634,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132742,
       "num": 426886,
       "word": "师生为做实验请同学帮炫3百斤李子",
       "onboard_time": 1687338042,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129234,
+      "num": 816154,
+      "word": "兵马俑的衣着有近20种色调",
+      "onboard_time": 1687343558,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2060,7 +2132,7 @@
     },
     {
       "raw_hot": 84038,
-      "num": 357926,
+      "num": 741207,
       "word": "网红长沙大屏循环播放禁毒宣言",
       "onboard_time": 1687343315,
       "rank": 23,
@@ -2081,14 +2153,6 @@
       "onboard_time": 1687291512,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76552,
-      "num": 337918,
-      "word": "兵马俑的衣着有近20种色调",
-      "onboard_time": 1687343558,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74621,
