@@ -1,0 +1,410 @@
+{
+  "runTime": 1687318434301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2247834,
+        "num": 2247834,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1379841,
+        "num": 1379841,
+        "word": "女子房门被封事件堵门邻居已离世",
+        "onboard_time": 1687310194,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26041,
+        "num": 1074974,
+        "word": "夏日中国尽显生态之美",
+        "onboard_time": 1687270775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055856,
+        "num": 1055856,
+        "word": "饿了么免单",
+        "onboard_time": 1687317694,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1055180,
+        "num": 1055180,
+        "word": "何炅黄磊这一集更难向外网解释了吧",
+        "onboard_time": 1687314987,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 993823,
+        "num": 993823,
+        "word": "12306",
+        "onboard_time": 1687315953,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761018,
+        "num": 761018,
+        "word": "几十块的婚纱和几万块一样洁白",
+        "onboard_time": 1687313132,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551096,
+        "num": 551096,
+        "word": "陈建斌多巴胺穿搭",
+        "onboard_time": 1687304485,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540694,
+        "num": 540694,
+        "word": "杨和苏 三冠王",
+        "onboard_time": 1687312296,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529272,
+        "num": 529272,
+        "word": "酒店经理见老太开房神色慌张立即报警",
+        "onboard_time": 1687306590,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1756519,
+        "num": 524486,
+        "word": "邱耀乐将开记者会对决炎亚纶",
+        "onboard_time": 1687311270,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651871,
+        "num": 519419,
+        "word": "韩安冉首次回应四婚",
+        "onboard_time": 1687307673,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1303124,
+        "num": 509041,
+        "word": "鞠婧祎炎亚纶的剧还能播吗",
+        "onboard_time": 1687312891,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490882,
+        "num": 490882,
+        "word": "别让东亚病夫招牌被毒品拼回来",
+        "onboard_time": 1687312471,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460708,
+        "num": 460708,
+        "word": "偷偷藏不住首播评价",
+        "onboard_time": 1687309715,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431303,
+        "num": 431303,
+        "word": "萧煌奇回应不是盲人",
+        "onboard_time": 1687309114,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430003,
+        "num": 430003,
+        "word": "男子捡余额3.7万手机主动还失主",
+        "onboard_time": 1687309533,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406816,
+        "num": 406816,
+        "word": "王一博清爽男高",
+        "onboard_time": 1687314749,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401720,
+        "num": 401720,
+        "word": "竹已",
+        "onboard_time": 1687317573,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320080,
+        "num": 320080,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 774326,
+        "num": 319357,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440620,
+        "num": 318111,
+        "word": "第一次看男朋友的浏览器",
+        "onboard_time": 1687306470,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406287,
+        "num": 316698,
+        "word": "优酷2023现偶天花板",
+        "onboard_time": 1687316913,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363233,
+        "num": 315940,
+        "word": "长风渡上星了",
+        "onboard_time": 1687317872,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314872,
+        "num": 314872,
+        "word": "男孩称后背痒植物人父亲用尽全力抬手",
+        "onboard_time": 1687302863,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352330,
+        "num": 312726,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318711,
+        "num": 311534,
+        "word": "派克特没夺冠",
+        "onboard_time": 1687314270,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309149,
+        "num": 309149,
+        "word": "西南大学校长呼吁外卖别随意给差评",
+        "onboard_time": 1687316854,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 306601,
+        "num": 306601,
+        "word": "伍佰演唱会抢票",
+        "onboard_time": 1687317275,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298125,
+        "num": 298125,
+        "word": "云边有个小卖部",
+        "onboard_time": 1687313610,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296726,
+        "num": 296726,
+        "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+        "onboard_time": 1687310671,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290748,
+        "num": 290748,
+        "word": "王俊凯做客向往的生活",
+        "onboard_time": 1687318233,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279646,
+        "num": 279646,
+        "word": "5人观光泰坦尼克残骸时失踪",
+        "onboard_time": 1687314569,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238691,
+        "num": 278564,
+        "word": "学医很难吗",
+        "onboard_time": 1687317936,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237484,
+        "num": 277893,
+        "word": "姐弟恋相差17岁结婚走红",
+        "onboard_time": 1687310612,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283359,
+        "num": 277807,
+        "word": "赵露思桑稚梦回嫋嫋",
+        "onboard_time": 1687317154,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277563,
+        "num": 277563,
+        "word": "彭昱畅卷发",
+        "onboard_time": 1687315351,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273586,
+        "num": 273586,
+        "word": "梦海收官战报",
+        "onboard_time": 1687317815,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268359,
+        "num": 268359,
+        "word": "种地吧 根本补不完",
+        "onboard_time": 1687277612,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228488,
+        "num": 228488,
+        "word": "小伙给虎鲸搓澡搓到反光掉色",
+        "onboard_time": 1687316251,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248655,
+        "num": 228092,
+        "word": "柳智敏我的英雄学院",
+        "onboard_time": 1687304669,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248162,
+        "num": 224981,
+        "word": "赵露思到底是配音还是原声",
+        "onboard_time": 1687312050,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215096,
+        "num": 215096,
+        "word": "12岁男孩误操作电动车撞死5岁男童",
+        "onboard_time": 1687315112,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 204301,
+        "word": "今起恢复台湾地区番荔枝输入大陆",
+        "onboard_time": 1687264470,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208308,
+        "num": 202155,
+        "word": "留了六年的头发被小孩剪了",
+        "onboard_time": 1687315533,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238897,
+        "num": 194921,
+        "word": "TaylorSwift巡演官宣亚洲场次",
+        "onboard_time": 1687307250,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167570,
+        "num": 193589,
+        "word": "官方通报焦作师专食堂烤鱼现蛆虫",
+        "onboard_time": 1687317514,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163911,
+        "num": 188491,
+        "word": "你的负面情绪是在反应你的需求",
+        "onboard_time": 1687318055,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131630,
+        "num": 181489,
+        "word": "南京已经没有大厂了",
+        "onboard_time": 1687265791,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86387,
+        "num": 176946,
+        "word": "C罗绝杀冰岛",
+        "onboard_time": 1687305510,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#试验二十五号卫星成功发射#"
+    }
+  }
+}

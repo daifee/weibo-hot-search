@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687317480370,
+  "endTime": 1687318434301,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 4158055,
-      "num": 502406,
+      "num": 524486,
       "word": "邱耀乐将开记者会对决炎亚纶",
       "onboard_time": 1687311270,
       "rank": 16,
@@ -1371,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2247834,
+      "num": 2247834,
+      "word": "偷偷藏不住作者才20岁",
+      "onboard_time": 1687314210,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2230491,
       "num": 2230491,
       "word": "Amber单杀Uzi",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1685579429,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1827179,
-      "num": 1827179,
-      "word": "偷偷藏不住作者才20岁",
-      "onboard_time": 1687314210,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1826995,
@@ -3883,6 +3883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1379841,
+      "num": 1379841,
+      "word": "女子房门被封事件堵门邻居已离世",
+      "onboard_time": 1687310194,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1375823,
       "num": 480524,
       "word": "李湘王岳伦带王诗龄逛街",
@@ -3972,7 +3980,7 @@
     },
     {
       "raw_hot": 1354013,
-      "num": 452887,
+      "num": 509041,
       "word": "鞠婧祎炎亚纶的剧还能播吗",
       "onboard_time": 1687312891,
       "rank": 13,
@@ -4580,7 +4588,7 @@
     },
     {
       "raw_hot": 1255258,
-      "num": 498010,
+      "num": 519419,
       "word": "韩安冉首次回应四婚",
       "onboard_time": 1687307673,
       "rank": 11,
@@ -5651,14 +5659,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1095488,
-      "num": 1095488,
-      "word": "女子房门被封事件堵门邻居已离世",
-      "onboard_time": 1687310194,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1095349,
       "num": 929194,
       "word": "董洁首谈离婚风波影响",
@@ -5889,6 +5889,22 @@
       "onboard_time": 1686393763,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1055856,
+      "num": 1055856,
+      "word": "饿了么免单",
+      "onboard_time": 1687317694,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1055180,
+      "num": 1055180,
+      "word": "何炅黄磊这一集更难向外网解释了吧",
+      "onboard_time": 1687314987,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 1054537,
@@ -6369,6 +6385,14 @@
       "onboard_time": 1685971768,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 993823,
+      "num": 993823,
+      "word": "12306",
+      "onboard_time": 1687315953,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993047,
@@ -6896,14 +6920,6 @@
       "word": "张子豪 淘汰",
       "onboard_time": 1685853927,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 921004,
-      "num": 921004,
-      "word": "何炅黄磊这一集更难向外网解释了吧",
-      "onboard_time": 1687314987,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -9321,14 +9337,6 @@
       "onboard_time": 1685888971,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 694620,
-      "num": 694620,
-      "word": "12306",
-      "onboard_time": 1687315953,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694616,
@@ -12043,6 +12051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 490882,
+      "num": 490882,
+      "word": "别让东亚病夫招牌被毒品拼回来",
+      "onboard_time": 1687312471,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490606,
       "num": 490606,
       "word": "陈宏军叶芳离婚",
@@ -12425,14 +12441,6 @@
       "onboard_time": 1685783487,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473434,
-      "num": 473434,
-      "word": "别让东亚病夫招牌被毒品拼回来",
-      "onboard_time": 1687312471,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473430,
@@ -14035,6 +14043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406816,
+      "num": 406816,
+      "word": "王一博清爽男高",
+      "onboard_time": 1687314749,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406754,
       "num": 406754,
       "word": "各地高考作文你擅长哪一篇",
@@ -14051,12 +14067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406277,
-      "num": 336405,
-      "word": "王一博清爽男高",
-      "onboard_time": 1687314749,
+      "raw_hot": 406287,
+      "num": 316698,
+      "word": "优酷2023现偶天花板",
+      "onboard_time": 1687316913,
       "rank": 30,
-      "category": "艺人"
+      "category": "影视"
     },
     {
       "raw_hot": 406139,
@@ -14201,6 +14217,14 @@
       "onboard_time": 1687006352,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401720,
+      "num": 401720,
+      "word": "竹已",
+      "onboard_time": 1687317573,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 401705,
@@ -15537,6 +15561,14 @@
       "onboard_time": 1685845886,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 363233,
+      "num": 315940,
+      "word": "长风渡上星了",
+      "onboard_time": 1687317872,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 362917,
@@ -17635,6 +17667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320080,
+      "num": 320080,
+      "word": "中山大学录取通知书内有云南普洱茶",
+      "onboard_time": 1687317213,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 320070,
       "num": 320070,
       "word": "TES战胜EDG",
@@ -18249,6 +18289,14 @@
       "onboard_time": 1686540931,
       "rank": 27,
       "category": "科技,教育"
+    },
+    {
+      "raw_hot": 309149,
+      "num": 314063,
+      "word": "西南大学校长呼吁外卖别随意给差评",
+      "onboard_time": 1687316854,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 308971,
@@ -19163,14 +19211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294185,
-      "num": 294185,
-      "word": "优酷2023现偶天花板",
-      "onboard_time": 1687316913,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294162,
       "num": 294162,
       "word": "薛之谦演唱会拿到张杰荧光棒",
@@ -19425,6 +19465,14 @@
       "onboard_time": 1687012471,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290748,
+      "num": 290748,
+      "word": "王俊凯做客向往的生活",
+      "onboard_time": 1687318233,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 290715,
@@ -20083,6 +20131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283359,
+      "num": 277807,
+      "word": "赵露思桑稚梦回嫋嫋",
+      "onboard_time": 1687317154,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283326,
       "num": 283326,
       "word": "白轶补贴情头",
@@ -20515,6 +20571,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 277563,
+      "num": 277563,
+      "word": "彭昱畅卷发",
+      "onboard_time": 1687315351,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277495,
       "num": 277495,
       "word": "何瑞贤新剧吻戏好多",
@@ -20849,6 +20913,14 @@
       "onboard_time": 1686448948,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273586,
+      "num": 273586,
+      "word": "梦海收官战报",
+      "onboard_time": 1687317815,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 273549,
@@ -22161,14 +22233,6 @@
       "onboard_time": 1686267145,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259764,
-      "num": 259764,
-      "word": "彭昱畅卷发",
-      "onboard_time": 1687315351,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 259666,
@@ -24635,6 +24699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238691,
+      "num": 278564,
+      "word": "学医很难吗",
+      "onboard_time": 1687317936,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238650,
       "num": 238650,
       "word": "RNG对战OMG",
@@ -25281,14 +25353,6 @@
       "onboard_time": 1686027871,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232968,
-      "num": 314063,
-      "word": "西南大学校长呼吁外卖别随意给差评",
-      "onboard_time": 1687316854,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 232922,
@@ -33787,14 +33851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181141,
-      "num": 181141,
-      "word": "中山大学录取通知书内有云南普洱茶",
-      "onboard_time": 1687317213,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 181027,
       "num": 181027,
       "word": "把内耗变成外耗",
@@ -35851,6 +35907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167570,
+      "num": 193589,
+      "word": "官方通报焦作师专食堂烤鱼现蛆虫",
+      "onboard_time": 1687317514,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167502,
       "num": 167502,
       "word": "课本里的文章在写我们的一生",
@@ -36529,6 +36593,14 @@
       "onboard_time": 1687255172,
       "rank": 6,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 163911,
+      "num": 188491,
+      "word": "你的负面情绪是在反应你的需求",
+      "onboard_time": 1687318055,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 163837,
