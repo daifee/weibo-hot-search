@@ -1,0 +1,410 @@
+{
+  "runTime": 1687315120456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1070000,
+        "num": 1070000,
+        "word": "女子房门被封事件堵门邻居已离世",
+        "onboard_time": 1687310194,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861503,
+        "num": 861503,
+        "word": "偷偷藏不住首播评价",
+        "onboard_time": 1687309715,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30723,
+        "num": 826117,
+        "word": "夏日中国尽显生态之美",
+        "onboard_time": 1687270775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792013,
+        "num": 792013,
+        "word": "陈建斌多巴胺穿搭",
+        "onboard_time": 1687304485,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612001,
+        "num": 612001,
+        "word": "萧煌奇回应不是盲人",
+        "onboard_time": 1687309114,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607877,
+        "num": 607877,
+        "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+        "onboard_time": 1687310671,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605269,
+        "num": 605269,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 558854,
+        "num": 558854,
+        "word": "酒店经理见老太开房神色慌张立即报警",
+        "onboard_time": 1687306590,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453628,
+        "num": 453628,
+        "word": "男孩称后背痒植物人父亲用尽全力抬手",
+        "onboard_time": 1687302863,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331987,
+        "num": 331987,
+        "word": "男子捡余额3.7万手机主动还失主",
+        "onboard_time": 1687309533,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3176570,
+        "num": 327973,
+        "word": "邱耀乐将开记者会对决炎亚纶",
+        "onboard_time": 1687311270,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743165,
+        "num": 325917,
+        "word": "韩安冉首次回应四婚",
+        "onboard_time": 1687307673,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 525402,
+        "num": 319315,
+        "word": "杨和苏 三冠王",
+        "onboard_time": 1687312296,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1063947,
+        "num": 313273,
+        "word": "鞠婧祎炎亚纶的剧还能播吗",
+        "onboard_time": 1687312891,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571750,
+        "num": 310815,
+        "word": "几十块的婚纱和几万块一样洁白",
+        "onboard_time": 1687313132,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469851,
+        "num": 306074,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301905,
+        "num": 301905,
+        "word": "女孩攒奖学金毕业当天给母校捐10万",
+        "onboard_time": 1687314030,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276793,
+        "num": 276793,
+        "word": "南京已经没有大厂了",
+        "onboard_time": 1687265791,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266435,
+        "num": 266435,
+        "word": "兄妹从29楼通风管道坠入地下室身亡",
+        "onboard_time": 1687274076,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265465,
+        "num": 265465,
+        "word": "别让东亚病夫招牌被毒品拼回来",
+        "onboard_time": 1687312471,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2844978,
+        "num": 263100,
+        "word": "炎亚纶承认与未成年发生关系",
+        "onboard_time": 1687274137,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917031,
+        "num": 261132,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478638,
+        "num": 256885,
+        "word": "今起恢复台湾地区番荔枝输入大陆",
+        "onboard_time": 1687264470,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366432,
+        "num": 250945,
+        "word": "金晨的嘴怎么了",
+        "onboard_time": 1687251091,
+        "rank": 23,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 356033,
+        "num": 246874,
+        "word": "第一次看男朋友的浏览器",
+        "onboard_time": 1687306470,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332759,
+        "num": 242862,
+        "word": "赵露思到底是配音还是原声",
+        "onboard_time": 1687312050,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321996,
+        "num": 240376,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319050,
+        "num": 237225,
+        "word": "TaylorSwift巡演官宣亚洲场次",
+        "onboard_time": 1687307250,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271793,
+        "num": 232880,
+        "word": "姐弟恋相差17岁结婚走红",
+        "onboard_time": 1687310612,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231098,
+        "num": 231098,
+        "word": "关闭朋友圈半年后的变化",
+        "onboard_time": 1687261291,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 313297,
+        "num": 230293,
+        "word": "王一博清爽男高",
+        "onboard_time": 1687314749,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311447,
+        "num": 219739,
+        "word": "王嘉尔的胸肌隔着衣服都能看到",
+        "onboard_time": 1687311932,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 310826,
+        "num": 217313,
+        "word": "云边有个小卖部",
+        "onboard_time": 1687313610,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206069,
+        "num": 206069,
+        "word": "5人观光泰坦尼克残骸时失踪",
+        "onboard_time": 1687314569,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198646,
+        "num": 198646,
+        "word": "什么专业好考公务员",
+        "onboard_time": 1687308634,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 300760,
+        "num": 198016,
+        "word": "种地吧 根本补不完",
+        "onboard_time": 1687277612,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267362,
+        "num": 197632,
+        "word": "萧煌奇",
+        "onboard_time": 1687304669,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265351,
+        "num": 197525,
+        "word": "派克特没夺冠",
+        "onboard_time": 1687314270,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196846,
+        "num": 196846,
+        "word": "夏至",
+        "onboard_time": 1687302503,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167848,
+        "num": 167848,
+        "word": "刑侦利剑守护平安",
+        "onboard_time": 1687313850,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245105,
+        "num": 165925,
+        "word": "柳智敏我的英雄学院",
+        "onboard_time": 1687304669,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222787,
+        "num": 164660,
+        "word": "张萌新剧有钱有娃老公不回家",
+        "onboard_time": 1687313132,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215233,
+        "num": 162571,
+        "word": "何炅黄磊这一集更难向外网解释了吧",
+        "onboard_time": 1687314987,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211294,
+        "num": 159072,
+        "word": "一席之地 冠军",
+        "onboard_time": 1687305387,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157509,
+        "num": 157509,
+        "word": "萌兰一组图告诉你什么是高智商",
+        "onboard_time": 1687313968,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145214,
+        "num": 145214,
+        "word": "12岁男孩误操作电动车撞死5岁男童",
+        "onboard_time": 1687315112,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136303,
+        "num": 136303,
+        "word": "女生自费30万拍作品拒绝领三等奖",
+        "onboard_time": 1687274675,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133313,
+        "num": 133313,
+        "word": "领导也没想到整个部门都离职",
+        "onboard_time": 1687304847,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128047,
+        "num": 128047,
+        "word": "C罗绝杀冰岛",
+        "onboard_time": 1687305510,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95075,
+        "num": 128007,
+        "word": "阴阳师",
+        "onboard_time": 1687314450,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#试验二十五号卫星成功发射#"
+    }
+  }
+}
