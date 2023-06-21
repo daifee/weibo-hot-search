@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687315655968,
+  "endTime": 1687317480370,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -17,6 +17,14 @@
       "onboard_time": 1687311270,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1827179,
+      "num": 1827179,
+      "word": "偷偷藏不住作者才20岁",
+      "onboard_time": 1687314210,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1826472,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1354013,
+      "num": 452887,
+      "word": "鞠婧祎炎亚纶的剧还能播吗",
+      "onboard_time": 1687312891,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1299025,
       "num": 1299025,
       "word": "萧煌奇回应不是盲人",
@@ -75,14 +91,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1197228,
-      "num": 357581,
-      "word": "鞠婧祎炎亚纶的剧还能播吗",
-      "onboard_time": 1687312891,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1101596,
       "num": 1101596,
       "word": "马伯骞问爱马仕是什么",
@@ -91,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1088979,
-      "num": 1080883,
+      "raw_hot": 1095488,
+      "num": 1095488,
       "word": "女子房门被封事件堵门邻居已离世",
       "onboard_time": 1687310194,
       "rank": 14,
@@ -105,14 +113,6 @@
       "onboard_time": 1687253792,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1035090,
-      "num": 1035090,
-      "word": "偷偷藏不住作者才20岁",
-      "onboard_time": 1687314210,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1009559,
@@ -137,6 +137,14 @@
       "onboard_time": 1687267591,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 921004,
+      "num": 921004,
+      "word": "何炅黄磊这一集更难向外网解释了吧",
+      "onboard_time": 1687314987,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 879435,
@@ -169,6 +177,14 @@
       "onboard_time": 1687304669,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 808840,
+      "num": 808840,
+      "word": "几十块的婚纱和几万块一样洁白",
+      "onboard_time": 1687313132,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 785843,
@@ -211,6 +227,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 694620,
+      "num": 694620,
+      "word": "12306",
+      "onboard_time": 1687315953,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684177,
       "num": 684177,
       "word": "杨颖金靖是一个学校的",
@@ -243,16 +267,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 575810,
-      "num": 356456,
-      "word": "几十块的婚纱和几万块一样洁白",
-      "onboard_time": 1687313132,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 543439,
-      "num": 355417,
+      "raw_hot": 585955,
+      "num": 585955,
       "word": "杨和苏 三冠王",
       "onboard_time": 1687312296,
       "rank": 37,
@@ -296,6 +312,14 @@
       "word": "警方通报广州一出租屋发现3具尸体",
       "onboard_time": 1687265371,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473434,
+      "num": 473434,
+      "word": "别让东亚病夫招牌被毒品拼回来",
+      "onboard_time": 1687312471,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -347,12 +371,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 400822,
-      "num": 347397,
-      "word": "何炅黄磊这一集更难向外网解释了吧",
-      "onboard_time": 1687314987,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 406277,
+      "num": 336405,
+      "word": "王一博清爽男高",
+      "onboard_time": 1687314749,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 398750,
@@ -395,6 +419,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355174,
+      "num": 355174,
+      "word": "5人观光泰坦尼克残骸时失踪",
+      "onboard_time": 1687314569,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347048,
+      "num": 319458,
+      "word": "派克特没夺冠",
+      "onboard_time": 1687314270,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347010,
       "num": 347010,
       "word": "云边有个小卖部",
@@ -427,20 +467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322729,
-      "num": 322729,
-      "word": "王一博清爽男高",
-      "onboard_time": 1687314749,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 321508,
+      "num": 309098,
+      "word": "伍佰演唱会抢票",
+      "onboard_time": 1687317275,
+      "rank": 26,
+      "category": "音乐"
     },
     {
-      "raw_hot": 319458,
-      "num": 319458,
-      "word": "派克特没夺冠",
-      "onboard_time": 1687314270,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 316838,
+      "num": 308669,
+      "word": "偷偷藏不住",
+      "onboard_time": 1687317032,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 313611,
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 311447,
-      "num": 219739,
+      "num": 237998,
       "word": "王嘉尔的胸肌隔着衣服都能看到",
       "onboard_time": 1687311932,
       "rank": 39,
@@ -483,12 +523,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 290493,
-      "num": 355852,
-      "word": "别让东亚病夫招牌被毒品拼回来",
-      "onboard_time": 1687312471,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 294185,
+      "num": 294185,
+      "word": "优酷2023现偶天花板",
+      "onboard_time": 1687316913,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 276520,
@@ -516,19 +556,11 @@
     },
     {
       "raw_hot": 270955,
-      "num": 257862,
+      "num": 259683,
       "word": "柳智敏我的英雄学院",
       "onboard_time": 1687304669,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270064,
-      "num": 353586,
-      "word": "5人观光泰坦尼克残骸时失踪",
-      "onboard_time": 1687314569,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261470,
@@ -537,6 +569,14 @@
       "onboard_time": 1687304005,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259764,
+      "num": 259764,
+      "word": "彭昱畅卷发",
+      "onboard_time": 1687315351,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 256373,
@@ -569,6 +609,22 @@
       "onboard_time": 1687309234,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248508,
+      "num": 248508,
+      "word": "雪鹰领主",
+      "onboard_time": 1687316073,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242262,
+      "num": 242262,
+      "word": "电影热烈夏至海报",
+      "onboard_time": 1687316734,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 238425,
@@ -617,6 +673,22 @@
       "onboard_time": 1687272817,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232968,
+      "num": 314063,
+      "word": "西南大学校长呼吁外卖别随意给差评",
+      "onboard_time": 1687316854,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 231851,
+      "num": 285415,
+      "word": "小伙给虎鲸搓澡搓到反光掉色",
+      "onboard_time": 1687316251,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230685,
@@ -763,12 +835,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184677,
-      "num": 157773,
-      "word": "彭昱畅卷发",
-      "onboard_time": 1687315351,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 184447,
+      "num": 184447,
+      "word": "怪盗基德生日",
+      "onboard_time": 1687316613,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 181141,
+      "num": 181141,
+      "word": "中山大学录取通知书内有云南普洱茶",
+      "onboard_time": 1687317213,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 177089,

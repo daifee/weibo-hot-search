@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687315655968,
+  "endTime": 1687317480370,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1827179,
+      "num": 1827179,
+      "word": "偷偷藏不住作者才20岁",
+      "onboard_time": 1687314210,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1826472,
       "num": 1826472,
       "word": "陈建斌多巴胺穿搭",
@@ -635,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1354013,
+      "num": 452887,
+      "word": "鞠婧祎炎亚纶的剧还能播吗",
+      "onboard_time": 1687312891,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1347501,
       "num": 429631,
       "word": "黄子佼最新情况",
@@ -755,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1197228,
-      "num": 357581,
-      "word": "鞠婧祎炎亚纶的剧还能播吗",
-      "onboard_time": 1687312891,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1162999,
       "num": 610204,
       "word": "女子房子两年没住被邻居用衣柜封死",
@@ -851,8 +859,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1088979,
-      "num": 1080883,
+      "raw_hot": 1095488,
+      "num": 1095488,
       "word": "女子房门被封事件堵门邻居已离世",
       "onboard_time": 1687310194,
       "rank": 14,
@@ -896,14 +904,6 @@
       "word": "肖战赵丽颖正剧苗子",
       "onboard_time": 1687133967,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1035090,
-      "num": 1035090,
-      "word": "偷偷藏不住作者才20岁",
-      "onboard_time": 1687314210,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -1017,6 +1017,14 @@
       "onboard_time": 1687153414,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 921004,
+      "num": 921004,
+      "word": "何炅黄磊这一集更难向外网解释了吧",
+      "onboard_time": 1687314987,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 918293,
@@ -1171,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808840,
+      "num": 808840,
+      "word": "几十块的婚纱和几万块一样洁白",
+      "onboard_time": 1687313132,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 805181,
       "num": 805181,
       "word": "官方回应公职人员吸毒被查后仍在岗",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1687249291,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 694620,
+      "num": 694620,
+      "word": "12306",
+      "onboard_time": 1687315953,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690409,
@@ -1475,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 585955,
+      "num": 585955,
+      "word": "杨和苏 三冠王",
+      "onboard_time": 1687312296,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582010,
       "num": 582010,
       "word": "心疼桑稚",
@@ -1497,14 +1529,6 @@
       "onboard_time": 1687161707,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575810,
-      "num": 356456,
-      "word": "几十块的婚纱和几万块一样洁白",
-      "onboard_time": 1687313132,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 571277,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1687235679,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 543439,
-      "num": 355417,
-      "word": "杨和苏 三冠王",
-      "onboard_time": 1687312296,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 538418,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1687180541,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 473434,
+      "num": 473434,
+      "word": "别让东亚病夫招牌被毒品拼回来",
+      "onboard_time": 1687312471,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466451,
@@ -2003,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406277,
+      "num": 336405,
+      "word": "王一博清爽男高",
+      "onboard_time": 1687314749,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405482,
       "num": 448226,
       "word": "雅思四个9的越南人",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 400822,
-      "num": 347397,
-      "word": "何炅黄磊这一集更难向外网解释了吧",
-      "onboard_time": 1687314987,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 398750,
@@ -2235,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355174,
+      "num": 355174,
+      "word": "5人观光泰坦尼克残骸时失踪",
+      "onboard_time": 1687314569,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355006,
       "num": 441092,
       "word": "原来真的有人发际线连着眉毛",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1687215680,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347048,
+      "num": 319458,
+      "word": "派克特没夺冠",
+      "onboard_time": 1687314270,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 347010,
@@ -2451,14 +2491,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 322729,
-      "num": 322729,
-      "word": "王一博清爽男高",
-      "onboard_time": 1687314749,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321990,
       "num": 358369,
       "word": "女子放下儿子捡起3岁走失女童",
@@ -2475,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321508,
+      "num": 309098,
+      "word": "伍佰演唱会抢票",
+      "onboard_time": 1687317275,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320891,
       "num": 286314,
       "word": "张踩铃 父与子完全不在一个世界",
@@ -2489,14 +2529,6 @@
       "onboard_time": 1687264229,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319458,
-      "num": 319458,
-      "word": "派克特没夺冠",
-      "onboard_time": 1687314270,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 318468,
@@ -2532,7 +2564,7 @@
     },
     {
       "raw_hot": 311447,
-      "num": 219739,
+      "num": 237998,
       "word": "王嘉尔的胸肌隔着衣服都能看到",
       "onboard_time": 1687311932,
       "rank": 39,
@@ -2651,6 +2683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294185,
+      "num": 294185,
+      "word": "优酷2023现偶天花板",
+      "onboard_time": 1687316913,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293887,
       "num": 293887,
       "word": "蔡徐坤hugme开场",
@@ -2689,14 +2729,6 @@
       "onboard_time": 1687252655,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290493,
-      "num": 355852,
-      "word": "别让东亚病夫招牌被毒品拼回来",
-      "onboard_time": 1687312471,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289825,
@@ -2948,7 +2980,7 @@
     },
     {
       "raw_hot": 270955,
-      "num": 257862,
+      "num": 259683,
       "word": "柳智敏我的英雄学院",
       "onboard_time": 1687304669,
       "rank": 32,
@@ -2969,14 +3001,6 @@
       "onboard_time": 1687272096,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270064,
-      "num": 353586,
-      "word": "5人观光泰坦尼克残骸时失踪",
-      "onboard_time": 1687314569,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269670,
@@ -3097,6 +3121,14 @@
       "onboard_time": 1687184988,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259764,
+      "num": 259764,
+      "word": "彭昱畅卷发",
+      "onboard_time": 1687315351,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 259526,
@@ -3267,6 +3299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248508,
+      "num": 248508,
+      "word": "雪鹰领主",
+      "onboard_time": 1687316073,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246866,
       "num": 246866,
       "word": "500万的全奖offer我拒绝了",
@@ -3329,6 +3369,14 @@
       "onboard_time": 1687253074,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 242262,
+      "num": 242262,
+      "word": "电影热烈夏至海报",
+      "onboard_time": 1687316734,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 241594,
@@ -3523,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232968,
+      "num": 314063,
+      "word": "西南大学校长呼吁外卖别随意给差评",
+      "onboard_time": 1687316854,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 232449,
       "num": 232449,
       "word": "宋亚轩胸肌好明显",
@@ -3553,6 +3609,14 @@
       "onboard_time": 1687149032,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231851,
+      "num": 285415,
+      "word": "小伙给虎鲸搓澡搓到反光掉色",
+      "onboard_time": 1687316251,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231495,
@@ -4363,12 +4427,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 184677,
-      "num": 157773,
-      "word": "彭昱畅卷发",
-      "onboard_time": 1687315351,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 184447,
+      "num": 184447,
+      "word": "怪盗基德生日",
+      "onboard_time": 1687316613,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 184425,
@@ -4409,6 +4473,14 @@
       "onboard_time": 1687098511,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181141,
+      "num": 181141,
+      "word": "中山大学录取通知书内有云南普洱茶",
+      "onboard_time": 1687317213,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180242,
