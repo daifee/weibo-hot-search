@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687382176083,
+  "endTime": 1687383219229,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -47019,6 +47019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91760,
+      "num": 91760,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91531,
       "num": 161549,
       "word": "住在阁楼的贵族设计师",
@@ -47761,14 +47769,6 @@
       "onboard_time": 1686387147,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78481,
-      "num": 78481,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 78472,
@@ -50603,6 +50603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15540,
+      "num": 117098,
+      "word": "赛龙舟原来这么燃",
+      "onboard_time": 1687359035,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14938,
       "num": 17569,
       "word": "防晒",
@@ -50656,14 +50664,6 @@
       "word": "这波天猫AI创意太会玩了",
       "onboard_time": 1686823225,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12999,
-      "num": 117098,
-      "word": "赛龙舟原来这么燃",
-      "onboard_time": 1687359035,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

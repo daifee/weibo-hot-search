@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 05:16:16
+本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 05:33:39
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ LPL 暂停（热度：219387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E5%8C%96%E9%97%AE%E9%A2%98%23" target="weibo">
+肖战不担心表演同质化问题（热度：91760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%23" target="weibo">
 川大地铁事件涉事学生被留校留党察看（热度：85967）
 </a>
@@ -347,12 +353,6 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%B6%E5%87%AF%E5%AE%A3%E5%B8%83%E4%B8%8B%E6%9E%B6%E4%B8%8E%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C%23" target="weibo">
 刘家凯宣布下架与炎亚纶合作新歌（热度：80104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B4%A8%E5%8C%96%E9%97%AE%E9%A2%98%23" target="weibo">
-肖战不担心表演同质化问题（热度：78481）
 </a>
 </li>
 
@@ -376,7 +376,7 @@ LPL 暂停（热度：219387）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%BE%99%E8%88%9F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%87%83%23" target="weibo">
-赛龙舟原来这么燃（热度：12999）
+赛龙舟原来这么燃（热度：15540）
 </a>
 </li>
 
