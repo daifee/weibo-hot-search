@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687336412292,
+  "endTime": 1687338997716,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -57,6 +57,14 @@
       "onboard_time": 1687151191,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8975473,
+      "num": 10225473,
+      "word": "川大地铁事件涉事学生被留校留党察看",
+      "onboard_time": 1687336659,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 4518444,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 2455386,
-      "num": 386728,
+      "num": 594782,
       "word": "炎亚纶邱耀乐曾经的聊天记录",
       "onboard_time": 1687331018,
       "rank": 26,
@@ -425,6 +433,14 @@
       "onboard_time": 1687233094,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1931034,
+      "num": 1931034,
+      "word": "四川大学称张某保研不违规",
+      "onboard_time": 1687337921,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1916457,
@@ -1019,6 +1035,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1027120,
+      "num": 1027120,
+      "word": "官方通报网传大学生涉嫌卖淫800次",
+      "onboard_time": 1687334676,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1025517,
+      "num": 1025517,
+      "word": "四川大学",
+      "onboard_time": 1687336958,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024603,
       "num": 1024603,
       "word": "降息",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1687249772,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1017879,
+      "num": 1017879,
+      "word": "拜登儿子认罪",
+      "onboard_time": 1687335698,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1009559,
@@ -1571,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673162,
+      "num": 673162,
+      "word": "丫丫",
+      "onboard_time": 1687337498,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672446,
       "num": 672446,
       "word": "白鹿请助理看五月天演唱会",
@@ -1771,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563273,
+      "num": 563273,
+      "word": "Uzi",
+      "onboard_time": 1687337680,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1687218929,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 518822,
-      "num": 518822,
-      "word": "官方通报网传大学生涉嫌卖淫800次",
-      "onboard_time": 1687334676,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 517021,
@@ -2065,6 +2113,14 @@
       "onboard_time": 1687246832,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457219,
+      "num": 237695,
+      "word": "给流浪猫寄罐头被老太太吃了",
+      "onboard_time": 1687338103,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 456070,
@@ -2403,14 +2459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394193,
-      "num": 394193,
-      "word": "拜登儿子认罪",
-      "onboard_time": 1687335698,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394082,
       "num": 449582,
       "word": "星宇",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1687273655,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361857,
+      "num": 236578,
+      "word": "如何看待川大处罚结果",
+      "onboard_time": 1687338459,
+      "rank": 31,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 361530,
@@ -2787,6 +2843,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 339789,
+      "num": 339789,
+      "word": "NONO宣布停止演艺工作",
+      "onboard_time": 1687335819,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337434,
       "num": 337434,
       "word": "玫瑰故事",
@@ -2913,14 +2977,6 @@
       "onboard_time": 1687264229,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319757,
-      "num": 319757,
-      "word": "NONO宣布停止演艺工作",
-      "onboard_time": 1687335819,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 318468,
@@ -3107,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295270,
+      "num": 295270,
+      "word": "丫丫吃新鲜竹子好香甜",
+      "onboard_time": 1687337197,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294732,
       "num": 294732,
       "word": "EDG对战AL",
@@ -3289,6 +3353,14 @@
       "onboard_time": 1687304669,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280149,
+      "num": 280149,
+      "word": "邻居点外卖填我家的地址",
+      "onboard_time": 1687337317,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 280000,
@@ -4051,6 +4123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235454,
+      "num": 235454,
+      "word": "猫咪被救下主人却说不要了",
+      "onboard_time": 1687338638,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235421,
       "num": 235421,
       "word": "张勇职位变动专职阿里云",
@@ -4417,6 +4497,14 @@
       "onboard_time": 1687334018,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212509,
+      "num": 212509,
+      "word": "EDG战胜AL",
+      "onboard_time": 1687338459,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 212430,
@@ -4859,6 +4947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194420,
+      "num": 194420,
+      "word": "迪丽热巴眼中含泪",
+      "onboard_time": 1687337075,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194361,
       "num": 194361,
       "word": "沙溢胡可演亲家",
@@ -4945,6 +5041,14 @@
       "onboard_time": 1687264590,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 188490,
+      "num": 188490,
+      "word": "每天写日报的公司到底是为什么",
+      "onboard_time": 1687337017,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 188347,
@@ -5659,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157242,
+      "num": 157242,
+      "word": "父母的言传身教",
+      "onboard_time": 1687338939,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 156217,
       "num": 215267,
       "word": "密子君  重庆的烧烤也开卷了",
@@ -6315,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98279,
+      "num": 1250444,
+      "word": "90岁老战士与90后飞行员同框",
+      "onboard_time": 1687336414,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97549,
       "num": 90049,
       "word": "余景天新男团OneNEleven",
@@ -6576,6 +6696,14 @@
       "word": "中国制造究竟有多牛",
       "onboard_time": 1687097970,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59132,
+      "num": 424859,
+      "word": "师生为做实验请同学帮炫3百斤李子",
+      "onboard_time": 1687338042,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

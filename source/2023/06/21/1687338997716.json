@@ -1,0 +1,410 @@
+{
+  "runTime": 1687338997716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8975473,
+        "num": 10225473,
+        "word": "川大地铁事件涉事学生被留校留党察看",
+        "onboard_time": 1687336659,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1931034,
+        "num": 1931034,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 98279,
+        "num": 1250444,
+        "word": "90岁老战士与90后飞行员同框",
+        "onboard_time": 1687336414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027120,
+        "num": 1027120,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1025517,
+        "num": 1025517,
+        "word": "四川大学",
+        "onboard_time": 1687336958,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017879,
+        "num": 1017879,
+        "word": "拜登儿子认罪",
+        "onboard_time": 1687335698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691797,
+        "num": 691797,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673162,
+        "num": 673162,
+        "word": "丫丫",
+        "onboard_time": 1687337498,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642319,
+        "num": 642319,
+        "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+        "onboard_time": 1687329696,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 620240,
+        "num": 620240,
+        "word": "谁提极乐净土肖战和谁急",
+        "onboard_time": 1687331796,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2436351,
+        "num": 594782,
+        "word": "炎亚纶邱耀乐曾经的聊天记录",
+        "onboard_time": 1687331018,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563273,
+        "num": 563273,
+        "word": "Uzi",
+        "onboard_time": 1687337680,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469438,
+        "num": 469438,
+        "word": "临死前身体会发生的100种奇怪反应",
+        "onboard_time": 1687331377,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 446754,
+        "num": 446754,
+        "word": "青岛1米88大长腿交警回应走红",
+        "onboard_time": 1687326823,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59132,
+        "num": 424859,
+        "word": "师生为做实验请同学帮炫3百斤李子",
+        "onboard_time": 1687338042,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412845,
+        "num": 412845,
+        "word": "全国现有吸毒人员112.4万",
+        "onboard_time": 1687324423,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390230,
+        "num": 390230,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370123,
+        "num": 370123,
+        "word": "女子对双眼皮手术不满意要求枪毙医生",
+        "onboard_time": 1687329335,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339789,
+        "num": 339789,
+        "word": "NONO宣布停止演艺工作",
+        "onboard_time": 1687335819,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320123,
+        "num": 320123,
+        "word": "赵露思的路人盘",
+        "onboard_time": 1687334018,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1966315,
+        "num": 316405,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1853562,
+        "num": 315167,
+        "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+        "onboard_time": 1687326161,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1173693,
+        "num": 307968,
+        "word": "炎亚纶竟然还化了妆",
+        "onboard_time": 1687334561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588624,
+        "num": 307560,
+        "word": "炎亚纶左耳钉的故事",
+        "onboard_time": 1687328497,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427685,
+        "num": 299595,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356247,
+        "num": 296288,
+        "word": "娜扎回复许凯",
+        "onboard_time": 1687335576,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295270,
+        "num": 295270,
+        "word": "丫丫吃新鲜竹子好香甜",
+        "onboard_time": 1687337197,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282969,
+        "num": 282969,
+        "word": "邓超多巴胺穿搭",
+        "onboard_time": 1687330415,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280149,
+        "num": 280149,
+        "word": "邻居点外卖填我家的地址",
+        "onboard_time": 1687337317,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238016,
+        "num": 238016,
+        "word": "杭州一男子在绿化带内迷路四天三夜",
+        "onboard_time": 1687331856,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457219,
+        "num": 237695,
+        "word": "给流浪猫寄罐头被老太太吃了",
+        "onboard_time": 1687338103,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361857,
+        "num": 236578,
+        "word": "如何看待川大处罚结果",
+        "onboard_time": 1687338459,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235454,
+        "num": 235454,
+        "word": "猫咪被救下主人却说不要了",
+        "onboard_time": 1687338638,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223521,
+        "num": 223521,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 220459,
+        "num": 220459,
+        "word": "林俊杰宋仲基合照",
+        "onboard_time": 1687334258,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216060,
+        "num": 216060,
+        "word": "NONO被曝性骚扰",
+        "onboard_time": 1687320877,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213269,
+        "num": 213269,
+        "word": "赵丽颖张碧晨合体上综艺",
+        "onboard_time": 1687319796,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212509,
+        "num": 212509,
+        "word": "EDG战胜AL",
+        "onboard_time": 1687338459,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205654,
+        "num": 205654,
+        "word": "惠英红向多位圈中好友说我爱你",
+        "onboard_time": 1687328145,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200714,
+        "num": 200714,
+        "word": "工资低的可以放心gap",
+        "onboard_time": 1687330835,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194420,
+        "num": 194420,
+        "word": "迪丽热巴眼中含泪",
+        "onboard_time": 1687337075,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190311,
+        "num": 190311,
+        "word": "EDG对战AL",
+        "onboard_time": 1687332579,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188490,
+        "num": 188490,
+        "word": "每天写日报的公司到底是为什么",
+        "onboard_time": 1687337017,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181801,
+        "num": 181801,
+        "word": "张踩玲 我知道拿铁为什么不说英语了",
+        "onboard_time": 1687332821,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181416,
+        "num": 181416,
+        "word": "河北科技大学",
+        "onboard_time": 1687320633,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181058,
+        "num": 181058,
+        "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+        "onboard_time": 1687320937,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176287,
+        "num": 176287,
+        "word": "白敬亭无袖背影",
+        "onboard_time": 1687335576,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169722,
+        "num": 169722,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163081,
+        "num": 163081,
+        "word": "消失的她",
+        "onboard_time": 1687332636,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157242,
+        "num": 157242,
+        "word": "父母的言传身教",
+        "onboard_time": 1687338939,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#三夏农忙正当时#"
+    }
+  }
+}
