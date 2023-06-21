@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687331822380,
+  "endTime": 1687332832104,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1871999,
+      "num": 1871999,
+      "word": "白敬亭谈和宋轶合作",
+      "onboard_time": 1687328561,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1860594,
       "num": 1860594,
       "word": "一天之内拒绝了30个学生请假",
@@ -489,14 +497,6 @@
       "onboard_time": 1687241192,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1720752,
-      "num": 1720752,
-      "word": "白敬亭谈和宋轶合作",
-      "onboard_time": 1687328561,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1720020,
@@ -931,6 +931,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1071743,
+      "num": 384110,
+      "word": "炎亚纶左耳钉的故事",
+      "onboard_time": 1687328497,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1071296,
       "num": 1071296,
       "word": "五星红旗被捆绑酒店连说10句对不起",
@@ -985,6 +993,14 @@
       "onboard_time": 1687227872,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1024113,
+      "num": 1024113,
+      "word": "女子对双眼皮手术不满意要求枪毙医生",
+      "onboard_time": 1687329335,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1022119,
@@ -1195,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 866503,
+      "num": 316036,
+      "word": "炎亚纶邱耀乐曾经的聊天记录",
+      "onboard_time": 1687331018,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863869,
       "num": 339457,
       "word": "应采儿陈小春假装不认识Jasper",
@@ -1323,12 +1347,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 799727,
-      "num": 384110,
-      "word": "炎亚纶左耳钉的故事",
-      "onboard_time": 1687328497,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 799151,
+      "num": 799151,
+      "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+      "onboard_time": 1687329696,
+      "rank": 11,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 796362,
@@ -1400,14 +1424,6 @@
       "word": "兄妹从29楼通风管道坠入地下室身亡",
       "onboard_time": 1687274076,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743556,
-      "num": 743556,
-      "word": "女子对双眼皮手术不满意要求枪毙医生",
-      "onboard_time": 1687329335,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1635,14 +1651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 615924,
-      "num": 506920,
-      "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
-      "onboard_time": 1687329696,
-      "rank": 11,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 612860,
       "num": 612860,
       "word": "邓科 大奉打更人",
@@ -1803,14 +1811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 528351,
-      "num": 268797,
-      "word": "炎亚纶邱耀乐曾经的聊天记录",
-      "onboard_time": 1687331018,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 526418,
       "num": 526418,
       "word": "倪妮被文咏珊撩到脸红",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1687259308,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493605,
+      "num": 319944,
+      "word": "工资低的可以放心gap",
+      "onboard_time": 1687330835,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 491959,
@@ -2091,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434883,
+      "num": 434883,
+      "word": "邓超多巴胺穿搭",
+      "onboard_time": 1687330415,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434537,
       "num": 290925,
       "word": "南海归墟",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1687147349,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429047,
-      "num": 295612,
-      "word": "工资低的可以放心gap",
-      "onboard_time": 1687330835,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 428254,
@@ -2339,14 +2347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394195,
-      "num": 394195,
-      "word": "邓超多巴胺穿搭",
-      "onboard_time": 1687330415,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394082,
       "num": 449582,
       "word": "星宇",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1687325800,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374382,
+      "num": 374382,
+      "word": "谁提极乐净土肖战和谁急",
+      "onboard_time": 1687331796,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 374278,
@@ -2561,6 +2569,14 @@
       "onboard_time": 1687148852,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353892,
+      "num": 353892,
+      "word": "杨幂开心但是很热",
+      "onboard_time": 1687331254,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 353607,
@@ -2755,6 +2771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 331451,
+      "num": 331451,
+      "word": "杭州一男子在绿化带内迷路四天三夜",
+      "onboard_time": 1687331856,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330503,
       "num": 329830,
       "word": "长相思",
@@ -2907,6 +2931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310126,
+      "num": 252255,
+      "word": "临死前身体会发生的100种奇怪反应",
+      "onboard_time": 1687331377,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 310086,
       "num": 247935,
       "word": "马伯骞才是全剧最不尴尬的人",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1687258832,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294732,
+      "num": 294732,
+      "word": "EDG对战AL",
+      "onboard_time": 1687332579,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 293887,
@@ -3491,14 +3531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259176,
-      "num": 238894,
-      "word": "临死前身体会发生的100种奇怪反应",
-      "onboard_time": 1687331377,
-      "rank": 32,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -3771,6 +3803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241330,
+      "num": 241330,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240752,
       "num": 240752,
       "word": "张杰演唱会抢票",
@@ -4033,14 +4073,6 @@
       "onboard_time": 1687231291,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231155,
-      "num": 231155,
-      "word": "杨幂开心但是很热",
-      "onboard_time": 1687331254,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 230685,
@@ -4387,6 +4419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206443,
+      "num": 206443,
+      "word": "剑修专业",
+      "onboard_time": 1687332217,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205864,
       "num": 199962,
       "word": "顾九思茹前茹后两幅面孔",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1687246052,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204314,
+      "num": 204314,
+      "word": "李秀满成立个人新公司",
+      "onboard_time": 1687331377,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 202936,
@@ -4601,14 +4649,6 @@
       "onboard_time": 1687259251,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196887,
-      "num": 176223,
-      "word": "李秀满成立个人新公司",
-      "onboard_time": 1687331377,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 196731,
@@ -4905,6 +4945,14 @@
       "onboard_time": 1687256371,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184002,
+      "num": 184002,
+      "word": "11岁藏族女孩在成都重获新声",
+      "onboard_time": 1687332098,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183906,
@@ -5339,14 +5387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164361,
-      "num": 164361,
-      "word": "谁提极乐净土肖战和谁急",
-      "onboard_time": 1687331796,
-      "rank": 44,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 164097,
       "num": 255600,
       "word": "infp无法撼动的精神领域",
@@ -5467,6 +5507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "2位女生穿汉服配饰云肩参加博士毕业典礼",
+      "onboard_time": 1687332217,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158354,
       "num": 158354,
       "word": "郁可唯上海",
@@ -5577,6 +5625,14 @@
       "onboard_time": 1687263151,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153394,
+      "num": 153394,
+      "word": "张踩玲 我知道拿铁为什么不说英语了",
+      "onboard_time": 1687332821,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 153356,
@@ -6147,6 +6203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99149,
+      "num": 204638,
+      "word": "哪类人不建议吃布洛芬止痛",
+      "onboard_time": 1687330835,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97549,
       "num": 90049,
       "word": "余景天新男团OneNEleven",
@@ -6379,6 +6443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 63503,
+      "num": 429941,
+      "word": "女子落水4名钓友完美配合救人",
+      "onboard_time": 1687330835,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63300,
       "num": 197087,
       "word": "今夏饿了么免单6月21日开启",
@@ -6392,14 +6464,6 @@
       "word": "中国制造究竟有多牛",
       "onboard_time": 1687097970,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58154,
-      "num": 181027,
-      "word": "哪类人不建议吃布洛芬止痛",
-      "onboard_time": 1687330835,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6561,14 +6625,6 @@
       "onboard_time": 1687099054,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 30179,
-      "num": 429941,
-      "word": "女子落水4名钓友完美配合救人",
-      "onboard_time": 1687330835,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27428,

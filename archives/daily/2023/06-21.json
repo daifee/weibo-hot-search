@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687331822380,
+  "endTime": 1687332832104,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -59,20 +59,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1871999,
+      "num": 1871999,
+      "word": "白敬亭谈和宋轶合作",
+      "onboard_time": 1687328561,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1826472,
       "num": 1826472,
       "word": "陈建斌多巴胺穿搭",
       "onboard_time": 1687304485,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1720752,
-      "num": 1720752,
-      "word": "白敬亭谈和宋轶合作",
-      "onboard_time": 1687328561,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1686912,
@@ -179,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1071743,
+      "num": 384110,
+      "word": "炎亚纶左耳钉的故事",
+      "onboard_time": 1687328497,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055856,
       "num": 1055856,
       "word": "饿了么免单",
       "onboard_time": 1687317694,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1024113,
+      "num": 1024113,
+      "word": "女子对双眼皮手术不满意要求枪毙医生",
+      "onboard_time": 1687329335,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1009559,
@@ -267,6 +283,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 866503,
+      "num": 316036,
+      "word": "炎亚纶邱耀乐曾经的聊天记录",
+      "onboard_time": 1687331018,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860255,
       "num": 418300,
       "word": "Jennie的衣服",
@@ -307,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799727,
-      "num": 384110,
-      "word": "炎亚纶左耳钉的故事",
-      "onboard_time": 1687328497,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 799151,
+      "num": 799151,
+      "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+      "onboard_time": 1687329696,
+      "rank": 11,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 788372,
@@ -353,14 +377,6 @@
       "onboard_time": 1687261291,
       "rank": 3,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 743556,
-      "num": 743556,
-      "word": "女子对双眼皮手术不满意要求枪毙医生",
-      "onboard_time": 1687329335,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 739461,
@@ -419,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 615924,
-      "num": 506920,
-      "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
-      "onboard_time": 1687329696,
-      "rank": 11,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 607877,
       "num": 607877,
       "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528351,
-      "num": 268797,
-      "word": "炎亚纶邱耀乐曾经的聊天记录",
-      "onboard_time": 1687331018,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 520668,
       "num": 520668,
       "word": "竹已",
@@ -511,6 +511,14 @@
       "num": 413268,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 493605,
+      "num": 319944,
+      "word": "工资低的可以放心gap",
+      "onboard_time": 1687330835,
       "rank": 23,
       "category": "幽默"
     },
@@ -555,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429047,
-      "num": 295612,
-      "word": "工资低的可以放心gap",
-      "onboard_time": 1687330835,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 434883,
+      "num": 434883,
+      "word": "邓超多巴胺穿搭",
+      "onboard_time": 1687330415,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 428254,
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394195,
-      "num": 394195,
-      "word": "邓超多巴胺穿搭",
-      "onboard_time": 1687330415,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378373,
       "num": 378373,
       "word": "刘芮麟谈与肖战合作",
@@ -673,6 +673,14 @@
       "onboard_time": 1687257453,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374382,
+      "num": 374382,
+      "word": "谁提极乐净土肖战和谁急",
+      "onboard_time": 1687331796,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 373884,
@@ -705,6 +713,14 @@
       "onboard_time": 1687314569,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353892,
+      "num": 353892,
+      "word": "杨幂开心但是很热",
+      "onboard_time": 1687331254,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 347385,
@@ -753,6 +769,14 @@
       "onboard_time": 1687320154,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331451,
+      "num": 331451,
+      "word": "杭州一男子在绿化带内迷路四天三夜",
+      "onboard_time": 1687331856,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325978,
@@ -819,6 +843,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 310126,
+      "num": 252255,
+      "word": "临死前身体会发生的100种奇怪反应",
+      "onboard_time": 1687331377,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 310086,
       "num": 247935,
       "word": "马伯骞才是全剧最不尴尬的人",
@@ -849,6 +881,14 @@
       "onboard_time": 1687314030,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 294732,
+      "num": 294732,
+      "word": "EDG对战AL",
+      "onboard_time": 1687332579,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 283359,
@@ -931,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259176,
-      "num": 238894,
-      "word": "临死前身体会发生的100种奇怪反应",
-      "onboard_time": 1687331377,
-      "rank": 32,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 256889,
       "num": 256889,
       "word": "学校给考研二战同学准备的岗位",
@@ -1008,6 +1040,14 @@
       "word": "电影热烈夏至海报",
       "onboard_time": 1687316734,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241330,
+      "num": 241330,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1099,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231155,
-      "num": 231155,
-      "word": "杨幂开心但是很热",
-      "onboard_time": 1687331254,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230685,
       "num": 230685,
       "word": "这粽子我一次能吃一二十个",
@@ -1187,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206443,
+      "num": 206443,
+      "word": "剑修专业",
+      "onboard_time": 1687332217,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206157,
       "num": 161157,
       "word": "秦岚腰臀比",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1687271555,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204314,
+      "num": 204314,
+      "word": "李秀满成立个人新公司",
+      "onboard_time": 1687331377,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 202476,
@@ -1241,14 +1289,6 @@
       "onboard_time": 1687277434,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196887,
-      "num": 176223,
-      "word": "李秀满成立个人新公司",
-      "onboard_time": 1687331377,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 196546,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1687316613,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 184002,
+      "num": 184002,
+      "word": "11岁藏族女孩在成都重获新声",
+      "onboard_time": 1687332098,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181878,
@@ -1387,14 +1435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164361,
-      "num": 164361,
-      "word": "谁提极乐净土肖战和谁急",
-      "onboard_time": 1687331796,
-      "rank": 44,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 163911,
       "num": 188491,
       "word": "你的负面情绪是在反应你的需求",
@@ -1435,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "2位女生穿汉服配饰云肩参加博士毕业典礼",
+      "onboard_time": 1687332217,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158123,
       "num": 158123,
       "word": "更适合中国宝宝体质的女团舞",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1687328437,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153394,
+      "num": 153394,
+      "word": "张踩玲 我知道拿铁为什么不说英语了",
+      "onboard_time": 1687332821,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 153195,
@@ -1539,6 +1595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99149,
+      "num": 204638,
+      "word": "哪类人不建议吃布洛芬止痛",
+      "onboard_time": 1687330835,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "顾九思终究是个局外人",
@@ -1595,11 +1659,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 58154,
-      "num": 181027,
-      "word": "哪类人不建议吃布洛芬止痛",
+      "raw_hot": 63503,
+      "num": 429941,
+      "word": "女子落水4名钓友完美配合救人",
       "onboard_time": 1687330835,
-      "rank": 39,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1624,14 +1688,6 @@
       "word": "夏日中国尽显生态之美",
       "onboard_time": 1687270775,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30179,
-      "num": 429941,
-      "word": "女子落水4名钓友完美配合救人",
-      "onboard_time": 1687330835,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
