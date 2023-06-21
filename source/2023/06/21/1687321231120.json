@@ -1,0 +1,410 @@
+{
+  "runTime": 1687321231120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2533564,
+        "num": 2533564,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1281297,
+        "num": 1281297,
+        "word": "何炅黄磊这一集更难向外网解释了吧",
+        "onboard_time": 1687314987,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 1273071,
+        "word": "夏日中国尽显生态之美",
+        "onboard_time": 1687270775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267520,
+        "num": 1267520,
+        "word": "女子房门被封事件堵门邻居已离世",
+        "onboard_time": 1687310194,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003583,
+        "num": 1003583,
+        "word": "赵丽颖张碧晨合体上综艺",
+        "onboard_time": 1687319796,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885019,
+        "num": 885019,
+        "word": "长风渡上星了",
+        "onboard_time": 1687317872,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788372,
+        "num": 788372,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 738453,
+        "num": 738453,
+        "word": "几十块的婚纱和几万块一样洁白",
+        "onboard_time": 1687313132,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 711101,
+        "num": 711101,
+        "word": "饿了么免单",
+        "onboard_time": 1687317694,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 572134,
+        "num": 572134,
+        "word": "优酷2023现偶天花板",
+        "onboard_time": 1687316913,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3218452,
+        "num": 568366,
+        "word": "邱耀乐将开记者会对决炎亚纶",
+        "onboard_time": 1687311270,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977055,
+        "num": 556439,
+        "word": "12306",
+        "onboard_time": 1687315953,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1893816,
+        "num": 545225,
+        "word": "鞠婧祎炎亚纶的剧还能播吗",
+        "onboard_time": 1687312891,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 776156,
+        "num": 535286,
+        "word": "韩安冉首次回应四婚",
+        "onboard_time": 1687307673,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42872,
+        "num": 524580,
+        "word": "架在水上的高铁好似闯入天空之镜",
+        "onboard_time": 1687320034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520668,
+        "num": 520668,
+        "word": "竹已",
+        "onboard_time": 1687317573,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479819,
+        "num": 479819,
+        "word": "杨和苏 三冠王",
+        "onboard_time": 1687312296,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418344,
+        "num": 418344,
+        "word": "萧煌奇回应不是盲人",
+        "onboard_time": 1687309114,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399504,
+        "num": 399504,
+        "word": "男子捡余额3.7万手机主动还失主",
+        "onboard_time": 1687309533,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390407,
+        "num": 390407,
+        "word": "河北科技大学",
+        "onboard_time": 1687320633,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761591,
+        "num": 385068,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438837,
+        "num": 380824,
+        "word": "第一次看男朋友的浏览器",
+        "onboard_time": 1687306470,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398725,
+        "num": 373456,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358776,
+        "num": 358776,
+        "word": "NONO被曝性骚扰",
+        "onboard_time": 1687320877,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342867,
+        "num": 342867,
+        "word": "为什么大家都不爱穿船袜了",
+        "onboard_time": 1687320758,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358560,
+        "num": 341913,
+        "word": "陈建斌多巴胺穿搭",
+        "onboard_time": 1687304485,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321483,
+        "num": 321483,
+        "word": "王一博清爽男高",
+        "onboard_time": 1687314749,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313349,
+        "num": 313349,
+        "word": "王俊凯做客向往的生活",
+        "onboard_time": 1687318233,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300015,
+        "num": 309031,
+        "word": "酒店经理见老太开房神色慌张立即报警",
+        "onboard_time": 1687306590,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306203,
+        "num": 306203,
+        "word": "云边有个小卖部",
+        "onboard_time": 1687313610,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304355,
+        "num": 304355,
+        "word": "周杰伦海口7米快递是啥",
+        "onboard_time": 1687320154,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287075,
+        "num": 287075,
+        "word": "你的工资可以打听几次",
+        "onboard_time": 1687320758,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 280993,
+        "num": 280993,
+        "word": "柳智敏我的英雄学院",
+        "onboard_time": 1687304669,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270122,
+        "num": 270122,
+        "word": "西南大学校长呼吁外卖别随意给差评",
+        "onboard_time": 1687316854,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 256889,
+        "num": 256889,
+        "word": "学校给考研二战同学准备的岗位",
+        "onboard_time": 1687319316,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274106,
+        "num": 256426,
+        "word": "TaylorSwift巡演官宣亚洲场次",
+        "onboard_time": 1687307250,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250157,
+        "num": 250157,
+        "word": "别让东亚病夫招牌被毒品拼回来",
+        "onboard_time": 1687312471,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246674,
+        "num": 246674,
+        "word": "种地吧 根本补不完",
+        "onboard_time": 1687277612,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240160,
+        "num": 240160,
+        "word": "偷偷藏不住说哥哥的频率",
+        "onboard_time": 1687315591,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224689,
+        "num": 224689,
+        "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+        "onboard_time": 1687320937,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224998,
+        "num": 223557,
+        "word": "派克特没夺冠",
+        "onboard_time": 1687314270,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221347,
+        "num": 221347,
+        "word": "5人观光泰坦尼克残骸时失踪",
+        "onboard_time": 1687314569,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220642,
+        "num": 220642,
+        "word": "黑莲花作者再发长文回应选角",
+        "onboard_time": 1687321120,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219563,
+        "num": 219563,
+        "word": "男孩称后背痒植物人父亲用尽全力抬手",
+        "onboard_time": 1687302863,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212664,
+        "num": 212664,
+        "word": "赵露思桑稚梦回嫋嫋",
+        "onboard_time": 1687317154,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210959,
+        "num": 210959,
+        "word": "女子地铁站怒喊大叔猥亵阿姨",
+        "onboard_time": 1687320699,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206508,
+        "num": 206508,
+        "word": "姐弟恋相差17岁结婚走红",
+        "onboard_time": 1687310612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197389,
+        "num": 197389,
+        "word": "小S曾在party后漂头发眉毛",
+        "onboard_time": 1687253792,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117780,
+        "num": 197304,
+        "word": "C罗绝杀冰岛",
+        "onboard_time": 1687305510,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105825,
+        "num": 197192,
+        "word": "南京已经没有大厂了",
+        "onboard_time": 1687265791,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}

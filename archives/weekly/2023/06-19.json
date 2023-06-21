@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687318434301,
+  "endTime": 1687321231120,
   "band_list": [
     {
       "raw_hot": 15371387,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4158055,
-      "num": 524486,
+      "num": 568366,
       "word": "邱耀乐将开记者会对决炎亚纶",
       "onboard_time": 1687311270,
       "rank": 16,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2533564,
+      "num": 2533564,
+      "word": "偷偷藏不住作者才20岁",
+      "onboard_time": 1687314210,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2489215,
       "num": 2489215,
       "word": "小红书回应女幼师疑给幼儿喂避孕药",
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2247834,
-      "num": 2247834,
-      "word": "偷偷藏不住作者才20岁",
-      "onboard_time": 1687314210,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2204741,
       "num": 2204741,
       "word": "关闭朋友圈半年后的变化",
@@ -401,6 +401,14 @@
       "onboard_time": 1687261829,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1893816,
+      "num": 545225,
+      "word": "鞠婧祎炎亚纶的剧还能播吗",
+      "onboard_time": 1687312891,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1860594,
@@ -651,14 +659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1354013,
-      "num": 509041,
-      "word": "鞠婧祎炎亚纶的剧还能播吗",
-      "onboard_time": 1687312891,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1347501,
       "num": 429631,
       "word": "黄子佼最新情况",
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1281297,
+      "num": 1281297,
+      "word": "何炅黄磊这一集更难向外网解释了吧",
+      "onboard_time": 1687314987,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1263592,
       "num": 1263592,
       "word": "拍一部爆一部的演员",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 1262079,
-      "num": 350270,
+      "num": 385068,
       "word": "妹妹公积金比我一个月工资还高",
       "onboard_time": 1687305629,
       "rank": 20,
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 1255258,
-      "num": 519419,
+      "num": 535286,
       "word": "韩安冉首次回应四婚",
       "onboard_time": 1687307673,
       "rank": 11,
@@ -899,14 +907,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1055180,
-      "num": 1055180,
-      "word": "何炅黄磊这一集更难向外网解释了吧",
-      "onboard_time": 1687314987,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1051409,
       "num": 1051409,
       "word": "为什么推荐6月21日提离职",
@@ -945,6 +945,14 @@
       "onboard_time": 1687309715,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1003583,
+      "num": 1003583,
+      "word": "赵丽颖张碧晨合体上综艺",
+      "onboard_time": 1687319796,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 998050,
@@ -1080,6 +1088,14 @@
       "word": "长相思谁是杨紫的新郎",
       "onboard_time": 1687147349,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 885019,
+      "num": 885019,
+      "word": "长风渡上星了",
+      "onboard_time": 1687317872,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1225,6 +1241,14 @@
       "onboard_time": 1687175319,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788372,
+      "num": 788372,
+      "word": "中山大学录取通知书内有云南普洱茶",
+      "onboard_time": 1687317213,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 785843,
@@ -1539,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572134,
+      "num": 572134,
+      "word": "优酷2023现偶天花板",
+      "onboard_time": 1687316913,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571277,
       "num": 571277,
       "word": "5岁女孩被东航飞行员撞倒碾压身亡",
@@ -1643,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520668,
+      "num": 520668,
+      "word": "竹已",
+      "onboard_time": 1687317573,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520395,
       "num": 520395,
       "word": "韩玖诺版叶灵儿",
@@ -1700,7 +1740,7 @@
     },
     {
       "raw_hot": 499342,
-      "num": 348612,
+      "num": 380824,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
       "rank": 23,
@@ -2043,14 +2083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406287,
-      "num": 316698,
-      "word": "优酷2023现偶天花板",
-      "onboard_time": 1687316913,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405482,
       "num": 448226,
       "word": "雅思四个9的越南人",
@@ -2065,14 +2097,6 @@
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 401720,
-      "num": 401720,
-      "word": "竹已",
-      "onboard_time": 1687317573,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 398750,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1687186903,
       "rank": 9,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 390407,
+      "num": 390407,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388246,
@@ -2251,19 +2283,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 363233,
-      "num": 315940,
-      "word": "长风渡上星了",
-      "onboard_time": 1687317872,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 361530,
       "num": 361530,
       "word": "边伯贤金珉锡金钟大将维持SMTOWN合约",
       "onboard_time": 1687141947,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358776,
+      "num": 358776,
+      "word": "NONO被曝性骚扰",
+      "onboard_time": 1687320877,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2409,6 +2441,14 @@
       "onboard_time": 1687224751,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342867,
+      "num": 342867,
+      "word": "为什么大家都不爱穿船袜了",
+      "onboard_time": 1687320758,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 341625,
@@ -2563,14 +2603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320080,
-      "num": 320080,
-      "word": "中山大学录取通知书内有云南普洱茶",
-      "onboard_time": 1687317213,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 318468,
       "num": 276111,
       "word": "伊能静陪儿子逛街",
@@ -2585,6 +2617,14 @@
       "onboard_time": 1687269757,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313349,
+      "num": 313349,
+      "word": "王俊凯做客向往的生活",
+      "onboard_time": 1687318233,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 312272,
@@ -2665,6 +2705,14 @@
       "onboard_time": 1687145366,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304355,
+      "num": 304355,
+      "word": "周杰伦海口7米快递是啥",
+      "onboard_time": 1687320154,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 303549,
@@ -2771,14 +2819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290748,
-      "num": 290748,
-      "word": "王俊凯做客向往的生活",
-      "onboard_time": 1687318233,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289825,
       "num": 289825,
       "word": "林志颖活动照",
@@ -2843,6 +2883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 287075,
+      "num": 287075,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 286351,
       "num": 286351,
       "word": "EDG惜败亚太第一PRX",
@@ -2905,6 +2953,14 @@
       "onboard_time": 1687105886,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280993,
+      "num": 280993,
+      "word": "柳智敏我的英雄学院",
+      "onboard_time": 1687304669,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 280000,
@@ -3049,14 +3105,6 @@
       "onboard_time": 1687263331,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270955,
-      "num": 259683,
-      "word": "柳智敏我的英雄学院",
-      "onboard_time": 1687304669,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 270407,
@@ -3209,6 +3257,14 @@
       "onboard_time": 1687136190,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256889,
+      "num": 256889,
+      "word": "学校给考研二战同学准备的岗位",
+      "onboard_time": 1687319316,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 256283,
@@ -3473,6 +3529,14 @@
       "onboard_time": 1687248513,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240160,
+      "num": 240160,
+      "word": "偷偷藏不住说哥哥的频率",
+      "onboard_time": 1687315591,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 239968,
@@ -3779,6 +3843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224689,
+      "num": 224689,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223766,
       "num": 223766,
       "word": "因为一份外卖女朋友要跟我分手",
@@ -3817,6 +3889,14 @@
       "onboard_time": 1687238675,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220642,
+      "num": 220642,
+      "word": "黑莲花作者再发长文回应选角",
+      "onboard_time": 1687321120,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 220388,
@@ -3977,6 +4057,14 @@
       "onboard_time": 1687095030,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210959,
+      "num": 210959,
+      "word": "女子地铁站怒喊大叔猥亵阿姨",
+      "onboard_time": 1687320699,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209618,
@@ -5291,14 +5379,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 143725,
-      "num": 143725,
-      "word": "偷偷藏不住说哥哥的频率",
-      "onboard_time": 1687315591,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143452,
       "num": 332365,
       "word": "周一哪有不疯的",
@@ -6024,6 +6104,14 @@
       "word": "别克E4这价格只想交个朋友",
       "onboard_time": 1687180478,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42872,
+      "num": 524580,
+      "word": "架在水上的高铁好似闯入天空之镜",
+      "onboard_time": 1687320034,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

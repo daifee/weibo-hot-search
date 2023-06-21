@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687318434301,
+  "endTime": 1687321231120,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 4158055,
-      "num": 524486,
+      "num": 568366,
       "word": "邱耀乐将开记者会对决炎亚纶",
       "onboard_time": 1687311270,
       "rank": 16,
@@ -947,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2533564,
+      "num": 2533564,
+      "word": "偷偷藏不住作者才20岁",
+      "onboard_time": 1687314210,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2531884,
       "num": 2531884,
       "word": "易烊千玺 评委",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1687058247,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2247834,
-      "num": 2247834,
-      "word": "偷偷藏不住作者才20岁",
-      "onboard_time": 1687314210,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 2230491,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1686189691,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1893816,
+      "num": 545225,
+      "word": "鞠婧祎炎亚纶的剧还能播吗",
+      "onboard_time": 1687312891,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1890120,
@@ -3979,14 +3987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1354013,
-      "num": 509041,
-      "word": "鞠婧祎炎亚纶的剧还能播吗",
-      "onboard_time": 1687312891,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1351499,
       "num": 859586,
       "word": "李彩桦回应恋情",
@@ -4379,6 +4379,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1281297,
+      "num": 1281297,
+      "word": "何炅黄磊这一集更难向外网解释了吧",
+      "onboard_time": 1687314987,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1277714,
       "num": 1277714,
       "word": "shanji",
@@ -4540,7 +4548,7 @@
     },
     {
       "raw_hot": 1262079,
-      "num": 350270,
+      "num": 385068,
       "word": "妹妹公积金比我一个月工资还高",
       "onboard_time": 1687305629,
       "rank": 20,
@@ -4588,7 +4596,7 @@
     },
     {
       "raw_hot": 1255258,
-      "num": 519419,
+      "num": 535286,
       "word": "韩安冉首次回应四婚",
       "onboard_time": 1687307673,
       "rank": 11,
@@ -5899,14 +5907,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1055180,
-      "num": 1055180,
-      "word": "何炅黄磊这一集更难向外网解释了吧",
-      "onboard_time": 1687314987,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1054537,
       "num": 957320,
       "word": "我国总共600多万青年人失业",
@@ -6297,6 +6297,14 @@
       "onboard_time": 1686650368,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003583,
+      "num": 1003583,
+      "word": "赵丽颖张碧晨合体上综艺",
+      "onboard_time": 1687319796,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003411,
@@ -7241,6 +7249,14 @@
       "onboard_time": 1687054407,
       "rank": 43,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 885019,
+      "num": 885019,
+      "word": "长风渡上星了",
+      "onboard_time": 1687317872,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 881148,
@@ -8233,6 +8249,14 @@
       "onboard_time": 1686214296,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 788372,
+      "num": 788372,
+      "word": "中山大学录取通知书内有云南普洱茶",
+      "onboard_time": 1687317213,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 787983,
@@ -10763,6 +10787,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 572134,
+      "num": 572134,
+      "word": "优酷2023现偶天花板",
+      "onboard_time": 1687316913,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571795,
       "num": 571795,
       "word": "Ella 是谁让你们送我莲花",
@@ -11555,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520668,
+      "num": 520668,
+      "word": "竹已",
+      "onboard_time": 1687317573,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520395,
       "num": 520395,
       "word": "韩玖诺版叶灵儿",
@@ -11860,7 +11900,7 @@
     },
     {
       "raw_hot": 499342,
-      "num": 348612,
+      "num": 380824,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
       "rank": 23,
@@ -14067,14 +14107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406287,
-      "num": 316698,
-      "word": "优酷2023现偶天花板",
-      "onboard_time": 1687316913,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 406139,
       "num": 406139,
       "word": "WBG失误",
@@ -14217,14 +14249,6 @@
       "onboard_time": 1687006352,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 401720,
-      "num": 401720,
-      "word": "竹已",
-      "onboard_time": 1687317573,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 401705,
@@ -14569,6 +14593,14 @@
       "onboard_time": 1685722109,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 390407,
+      "num": 390407,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389779,
@@ -15563,14 +15595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 363233,
-      "num": 315940,
-      "word": "长风渡上星了",
-      "onboard_time": 1687317872,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362917,
       "num": 362917,
       "word": "无穷小亮谈鼠头鸭脖",
@@ -15737,6 +15761,14 @@
       "onboard_time": 1686213275,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358776,
+      "num": 358776,
+      "word": "NONO被曝性骚扰",
+      "onboard_time": 1687320877,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 358636,
@@ -16505,6 +16537,14 @@
       "onboard_time": 1686562410,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342867,
+      "num": 342867,
+      "word": "为什么大家都不爱穿船袜了",
+      "onboard_time": 1687320758,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 342654,
@@ -17667,14 +17707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320080,
-      "num": 320080,
-      "word": "中山大学录取通知书内有云南普洱茶",
-      "onboard_time": 1687317213,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 320070,
       "num": 320070,
       "word": "TES战胜EDG",
@@ -18049,6 +18081,14 @@
       "onboard_time": 1685603726,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313349,
+      "num": 313349,
+      "word": "王俊凯做客向往的生活",
+      "onboard_time": 1687318233,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 312786,
@@ -18569,6 +18609,14 @@
       "onboard_time": 1686484826,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304355,
+      "num": 304355,
+      "word": "周杰伦海口7米快递是啥",
+      "onboard_time": 1687320154,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 304295,
@@ -19467,14 +19515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290748,
-      "num": 290748,
-      "word": "王俊凯做客向往的生活",
-      "onboard_time": 1687318233,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290715,
       "num": 290715,
       "word": "王鹤棣蔡徐坤范丞丞三个校草",
@@ -19793,6 +19833,14 @@
       "onboard_time": 1685577507,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287075,
+      "num": 287075,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 287013,
@@ -20265,6 +20313,14 @@
       "onboard_time": 1685803770,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280993,
+      "num": 280993,
+      "word": "柳智敏我的英雄学院",
+      "onboard_time": 1687304669,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 280709,
@@ -21201,14 +21257,6 @@
       "onboard_time": 1686047911,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 270955,
-      "num": 259683,
-      "word": "柳智敏我的英雄学院",
-      "onboard_time": 1687304669,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 270799,
@@ -22553,6 +22601,14 @@
       "onboard_time": 1686311787,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256889,
+      "num": 256889,
+      "word": "学校给考研二战同学准备的岗位",
+      "onboard_time": 1687319316,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 256824,
@@ -24513,6 +24569,14 @@
       "onboard_time": 1687248513,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240160,
+      "num": 240160,
+      "word": "偷偷藏不住说哥哥的频率",
+      "onboard_time": 1687315591,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 240136,
@@ -26595,6 +26659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224689,
+      "num": 224689,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224669,
       "num": 224669,
       "word": "肖战说谢谢淇哥",
@@ -27089,6 +27161,14 @@
       "onboard_time": 1685843666,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220642,
+      "num": 220642,
+      "word": "黑莲花作者再发长文回应选角",
+      "onboard_time": 1687321120,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 220621,
@@ -28489,6 +28569,14 @@
       "onboard_time": 1686200497,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210959,
+      "num": 210959,
+      "word": "女子地铁站怒喊大叔猥亵阿姨",
+      "onboard_time": 1687320699,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210835,
@@ -39731,14 +39819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143725,
-      "num": 143725,
-      "word": "偷偷藏不住说哥哥的频率",
-      "onboard_time": 1687315591,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143634,
       "num": 143634,
       "word": "纷玩岛回应五月天退票",
@@ -48001,6 +48081,14 @@
       "onboard_time": 1686397889,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 42872,
+      "num": 524580,
+      "word": "架在水上的高铁好似闯入天空之镜",
+      "onboard_time": 1687320034,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42647,
