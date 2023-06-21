@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687368823953,
+  "endTime": 1687371648034,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -47691,6 +47691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80104,
+      "num": 80104,
+      "word": "刘家凯宣布下架与炎亚纶合作新歌",
+      "onboard_time": 1687368383,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80006,
       "num": 80006,
       "word": "watchOS 10 史努比表盘",
@@ -47873,14 +47881,6 @@
       "onboard_time": 1686504619,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76083,
-      "num": 76083,
-      "word": "刘家凯宣布下架与炎亚纶合作新歌",
-      "onboard_time": 1687368383,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 76054,

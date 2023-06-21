@@ -1,0 +1,410 @@
+{
+  "runTime": 1687371648034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456781,
+        "num": 456781,
+        "word": "川大对张某的调查显得失焦且碎片化",
+        "onboard_time": 1687365092,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 287861,
+        "num": 287861,
+        "word": "暑假太可怕了",
+        "onboard_time": 1687362933,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 16542,
+        "num": 245842,
+        "word": "2022十大最美农村路",
+        "onboard_time": 1687359219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357115,
+        "num": 234923,
+        "word": "深圳一女子洗澡时因触电身亡",
+        "onboard_time": 1687361256,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221566,
+        "num": 221566,
+        "word": "女生1次备7天菜下班5分钟吃上晚饭",
+        "onboard_time": 1687353693,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375121,
+        "num": 206103,
+        "word": "炎亚纶心理素质",
+        "onboard_time": 1687362156,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190034,
+        "num": 190034,
+        "word": "马伯骞到底演戏还是说唱啊",
+        "onboard_time": 1687364072,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171201,
+        "num": 171201,
+        "word": "zb1首日0中输",
+        "onboard_time": 1687363300,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165003,
+        "num": 165003,
+        "word": "我只是gap了一年",
+        "onboard_time": 1687354056,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164384,
+        "num": 164384,
+        "word": "孙亦航",
+        "onboard_time": 1687357118,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238124,
+        "num": 159833,
+        "word": "飞轮海当年人气排名",
+        "onboard_time": 1687360177,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149957,
+        "num": 149957,
+        "word": "自曝被性侵女子提醒女生谨慎独自出国",
+        "onboard_time": 1687353334,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136211,
+        "num": 136211,
+        "word": "鞠婧祎侧脸vs正脸",
+        "onboard_time": 1687367066,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129549,
+        "num": 129549,
+        "word": "泰坦号最大下潜深度1300米左右",
+        "onboard_time": 1687361735,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129183,
+        "num": 129183,
+        "word": "终极三国",
+        "onboard_time": 1687363172,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112215,
+        "num": 112215,
+        "word": "四川一中考生查出874分7门满分",
+        "onboard_time": 1687348955,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 100996,
+        "num": 100996,
+        "word": "清潭国际高中",
+        "onboard_time": 1687359874,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95581,
+        "num": 95581,
+        "word": "任天堂",
+        "onboard_time": 1687358980,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94698,
+        "num": 94698,
+        "word": "邓亚萍拒绝158元一斤的车厘子",
+        "onboard_time": 1687350394,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88446,
+        "num": 88446,
+        "word": "江浙沪已婚女士的共同点",
+        "onboard_time": 1687344994,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252875,
+        "num": 88365,
+        "word": "怀孕和生产后可以领的三笔钱",
+        "onboard_time": 1687361256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131086,
+        "num": 88282,
+        "word": "炎亚纶今日新歌活着没什么大不了",
+        "onboard_time": 1687339477,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102089,
+        "num": 88129,
+        "word": "因为一杯奶茶分手了",
+        "onboard_time": 1687351899,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 98380,
+        "num": 88089,
+        "word": "倪妮说文咏珊让我整个人都麻了",
+        "onboard_time": 1687355495,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97239,
+        "num": 87933,
+        "word": "女子将农药倒入父亲止咳糖浆内被公诉",
+        "onboard_time": 1687354894,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87912,
+        "num": 87912,
+        "word": "这就是传说中的校草脸吧",
+        "onboard_time": 1687360714,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84833,
+        "num": 84833,
+        "word": "长风渡开虐",
+        "onboard_time": 1687358677,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80383,
+        "num": 80383,
+        "word": "偷偷藏不住哥和哥哥的区别",
+        "onboard_time": 1687354416,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80104,
+        "num": 80104,
+        "word": "刘家凯宣布下架与炎亚纶合作新歌",
+        "onboard_time": 1687368383,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60419,
+        "num": 77820,
+        "word": "川大地铁事件涉事学生被留校留党察看",
+        "onboard_time": 1687336659,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77174,
+        "num": 77174,
+        "word": "LPL 暂停",
+        "onboard_time": 1687348173,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73453,
+        "num": 73453,
+        "word": "少年行定档",
+        "onboard_time": 1687364851,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75441,
+        "num": 73433,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 72890,
+        "num": 72890,
+        "word": "消失的她",
+        "onboard_time": 1687332636,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68335,
+        "num": 68335,
+        "word": "公司裁员把HR裁崩溃了",
+        "onboard_time": 1687344994,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67928,
+        "num": 67928,
+        "word": "科目二我考了负725分",
+        "onboard_time": 1687350394,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64082,
+        "num": 64082,
+        "word": "马里奥",
+        "onboard_time": 1687362098,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63199,
+        "num": 63199,
+        "word": "炎亚纶开始掉代言",
+        "onboard_time": 1687360416,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62214,
+        "num": 62214,
+        "word": "你工作时选择自己做饭还是点外卖",
+        "onboard_time": 1687366286,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62021,
+        "num": 62021,
+        "word": "猫中仙女",
+        "onboard_time": 1687360357,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58151,
+        "num": 58151,
+        "word": "有两件事不好改回来了",
+        "onboard_time": 1687360117,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 56402,
+        "num": 56402,
+        "word": "男子举报局长与其妻子有不正当关系",
+        "onboard_time": 1687351534,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56109,
+        "num": 56109,
+        "word": "嵩山音乐节",
+        "onboard_time": 1687364252,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53082,
+        "num": 53082,
+        "word": "怦然3男二坐铁锅里给女一道歉",
+        "onboard_time": 1687357537,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53051,
+        "num": 53051,
+        "word": "泰坦尼克号",
+        "onboard_time": 1687359219,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51598,
+        "num": 51598,
+        "word": "种地吧 美丽浙江",
+        "onboard_time": 1687363712,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49906,
+        "num": 49906,
+        "word": "陈哲远回复网友",
+        "onboard_time": 1687354174,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46832,
+        "num": 46832,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 43191,
+        "num": 46829,
+        "word": "迪丽热巴的珍珠泪",
+        "onboard_time": 1687352795,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40673,
+        "num": 46822,
+        "word": "黄子韬多巴胺穿搭",
+        "onboard_time": 1687355679,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#三夏农忙正当时#"
+    }
+  }
+}
