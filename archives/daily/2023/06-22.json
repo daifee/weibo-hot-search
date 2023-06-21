@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687386829314,
+  "endTime": 1687389434510,
   "band_list": [
     {
       "raw_hot": 1830478,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766908,
+      "num": 766908,
+      "word": "川大对张某的调查显得失焦且碎片化",
+      "onboard_time": 1687365092,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 749942,
       "num": 749942,
       "word": "科目二我考了负725分",
@@ -75,7 +83,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 709313,
+      "raw_hot": 720320,
       "num": 533853,
       "word": "炎亚纶心理素质",
       "onboard_time": 1687362156,
@@ -89,14 +97,6 @@
       "onboard_time": 1687332636,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 642015,
-      "num": 642015,
-      "word": "川大对张某的调查显得失焦且碎片化",
-      "onboard_time": 1687365092,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 613834,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430353,
+      "num": 430353,
+      "word": "端午节",
+      "onboard_time": 1687388720,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400595,
       "num": 400595,
       "word": "邓亚萍拒绝158元一斤的车厘子",
@@ -201,6 +209,14 @@
       "onboard_time": 1687339477,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313553,
+      "num": 140199,
+      "word": "炎亚纶被撤销台湾十大杰出青年资格",
+      "onboard_time": 1687388479,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 310184,
@@ -251,12 +267,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259480,
+      "num": 259480,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259297,
+      "num": 259297,
+      "word": "宝妈为4岁女儿吃饭健康带锅碗旅游",
+      "onboard_time": 1687384574,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252347,
       "num": 236083,
       "word": "嵩山音乐节",
       "onboard_time": 1687364252,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251376,
+      "num": 251376,
+      "word": "端午安康",
+      "onboard_time": 1687388601,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250981,
@@ -313,14 +353,6 @@
       "onboard_time": 1687364851,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211853,
-      "num": 211853,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 210524,
@@ -411,12 +443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142101,
-      "num": 114952,
-      "word": "宝妈为4岁女儿吃饭健康带锅碗旅游",
-      "onboard_time": 1687384574,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 145129,
+      "num": 145129,
+      "word": "Angelababy七年前vs七年后",
+      "onboard_time": 1687388840,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140687,
@@ -435,8 +467,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 92540,
-      "num": 92540,
+      "raw_hot": 101026,
+      "num": 101026,
+      "word": "北京大爷不想让孩子要孩子",
+      "onboard_time": 1687388899,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99745,
+      "num": 99745,
       "word": "官方通报网传大学生涉嫌卖淫800次",
       "onboard_time": 1687334676,
       "rank": 46,
@@ -475,26 +515,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52417,
-      "num": 753748,
-      "word": "2022十大最美农村路",
-      "onboard_time": 1687359219,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41870,
-      "num": 41870,
+      "raw_hot": 60945,
+      "num": 60945,
       "word": "马代酒店称涉事管家当日离职",
       "onboard_time": 1687374015,
       "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28391,
-      "num": 249851,
+      "raw_hot": 53606,
+      "num": 470465,
       "word": "赛龙舟原来这么燃",
       "onboard_time": 1687359035,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52417,
+      "num": 753748,
+      "word": "2022十大最美农村路",
+      "onboard_time": 1687359219,
       "rank": 2,
       "category": "社会新闻"
     }
