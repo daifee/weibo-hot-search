@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687311415930,
+  "endTime": 1687312403390,
   "band_list": [
     {
       "raw_hot": 8979593,
@@ -8,6 +8,14 @@
       "word": "炎亚纶承认与未成年发生关系",
       "onboard_time": 1687274137,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4158055,
+      "num": 502406,
+      "word": "邱耀乐将开记者会对决炎亚纶",
+      "onboard_time": 1687311270,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1255258,
-      "num": 347395,
+      "num": 498010,
       "word": "韩安冉首次回应四婚",
       "onboard_time": 1687307673,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1088979,
-      "num": 339330,
+      "num": 894156,
       "word": "女子房门被封事件堵门邻居已离世",
       "onboard_time": 1687310194,
       "rank": 14,
@@ -89,6 +97,14 @@
       "onboard_time": 1687253792,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1009559,
+      "num": 1009559,
+      "word": "偷偷藏不住首播评价",
+      "onboard_time": 1687309715,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 986093,
@@ -107,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 910239,
-      "num": 334299,
-      "word": "邱耀乐将开记者会对决炎亚纶",
-      "onboard_time": 1687311270,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 879435,
       "num": 423391,
       "word": "炎亚纶评论了崔秀彬ins",
@@ -131,8 +139,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 858175,
+      "num": 858175,
+      "word": "男孩称后背痒植物人父亲用尽全力抬手",
+      "onboard_time": 1687302863,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825258,
-      "num": 331482,
+      "num": 467868,
       "word": "萧煌奇",
       "onboard_time": 1687304669,
       "rank": 17,
@@ -179,12 +195,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 702864,
-      "num": 702864,
-      "word": "偷偷藏不住首播评价",
-      "onboard_time": 1687309715,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 684177,
+      "num": 684177,
+      "word": "杨颖金靖是一个学校的",
+      "onboard_time": 1687308755,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 665359,
@@ -203,22 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639090,
-      "num": 639090,
-      "word": "男孩称后背痒植物人父亲用尽全力抬手",
-      "onboard_time": 1687302863,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584454,
-      "num": 308570,
-      "word": "杨颖金靖是一个学校的",
-      "onboard_time": 1687308755,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 541533,
       "num": 541533,
       "word": "偷偷藏不住受众群体",
@@ -235,7 +235,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497143,
+      "raw_hot": 511973,
+      "num": 511973,
+      "word": "男子捡余额3.7万手机主动还失主",
+      "onboard_time": 1687309533,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499342,
       "num": 317213,
       "word": "第一次看男朋友的浏览器",
       "onboard_time": 1687306470,
@@ -249,6 +257,14 @@
       "onboard_time": 1687265371,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463712,
+      "num": 463712,
+      "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+      "onboard_time": 1687310671,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 448086,
@@ -273,6 +289,14 @@
       "onboard_time": 1687305387,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428110,
+      "num": 243637,
+      "word": "电影云边有个小卖部官宣开机",
+      "onboard_time": 1687311691,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 425198,
@@ -321,14 +345,6 @@
       "onboard_time": 1687304847,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 328488,
-      "num": 328488,
-      "word": "男子捡余额3.7万手机主动还失主",
-      "onboard_time": 1687309533,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325978,
@@ -387,12 +403,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 264763,
-      "num": 264763,
-      "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
-      "onboard_time": 1687310671,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 270955,
+      "num": 257862,
+      "word": "柳智敏我的英雄学院",
+      "onboard_time": 1687304669,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 261470,
@@ -401,14 +417,6 @@
       "onboard_time": 1687304005,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257862,
-      "num": 257862,
-      "word": "柳智敏我的英雄学院",
-      "onboard_time": 1687304669,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 256373,
@@ -459,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238195,
+      "num": 238195,
+      "word": "什么专业好考公务员",
+      "onboard_time": 1687308634,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 237421,
       "num": 209714,
       "word": "公诉",
       "onboard_time": 1687303042,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236234,
+      "num": 236234,
+      "word": "如果你撞到这个叔叔",
+      "onboard_time": 1687311213,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 233215,
@@ -483,14 +507,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 228283,
-      "num": 228283,
-      "word": "什么专业好考公务员",
-      "onboard_time": 1687308634,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 227392,
       "num": 227392,
       "word": "代号鸢周瑜",
@@ -499,11 +515,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225747,
+      "num": 213067,
+      "word": "赵露思到底是配音还是原声",
+      "onboard_time": 1687312050,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218954,
       "num": 171672,
       "word": "种地吧",
       "onboard_time": 1687280185,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215473,
+      "num": 215473,
+      "word": "杨和苏 三冠王",
+      "onboard_time": 1687312296,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -553,6 +585,14 @@
       "onboard_time": 1687271555,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202996,
+      "num": 202996,
+      "word": "王嘉尔的胸肌隔着衣服都能看到",
+      "onboard_time": 1687311932,
+      "rank": 39,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 202476,
@@ -619,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184400,
-      "num": 184400,
-      "word": "如果你撞到这个叔叔",
-      "onboard_time": 1687311213,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177089,
       "num": 177089,
       "word": "连雕像都没有穿衣自由了",
@@ -659,6 +691,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 167277,
+      "num": 167277,
+      "word": "白敬亭与粉丝合影",
+      "onboard_time": 1687311570,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166293,
       "num": 160032,
       "word": "在医院ICU住了四年得多少钱",
@@ -683,6 +723,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 158910,
+      "num": 158910,
+      "word": "这是纹的祖师爷啊",
+      "onboard_time": 1687311872,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158123,
       "num": 158123,
       "word": "更适合中国宝宝体质的女团舞",
@@ -697,6 +745,14 @@
       "onboard_time": 1687305329,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153195,
+      "num": 153195,
+      "word": "第五人格",
+      "onboard_time": 1687312350,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128903,

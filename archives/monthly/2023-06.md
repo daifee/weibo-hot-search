@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/21 09:36:55
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/21 09:53:23
 </p>
 </blockquote>
 <p>
@@ -203,6 +203,12 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E6%8B%BF%E5%88%80%E5%89%B2%E8%87%AA%E5%B7%B1%23" target="weibo">
 黄子佼拿刀割自己（热度：4203869）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%B0%86%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E5%AF%B9%E5%86%B3%E7%82%8E%E4%BA%9A%E7%BA%B6%23" target="weibo">
+邱耀乐将开记者会对决炎亚纶（热度：4158055）
 </a>
 </li>
 
@@ -4677,6 +4683,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7%23" target="weibo">
+偷偷藏不住首播评价（热度：1009559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9B%E5%85%AC%20%E6%B2%A1%E6%8B%89%E7%A5%A8%23" target="weibo">
 谢娜四公 没拉票（热度：1007209）
 </a>
@@ -5229,12 +5241,6 @@ Jennie巡演翻白眼（热度：927985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%B0%86%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E5%AF%B9%E5%86%B3%E7%82%8E%E4%BA%9A%E7%BA%B6%23" target="weibo">
-邱耀乐将开记者会对决炎亚纶（热度：910239）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E5%8F%88%E5%90%88%E4%BD%93%E8%90%A5%E4%B8%9A%E4%BA%86%23" target="weibo">
 井柏然刘雯又合体营业了（热度：907427）
 </a>
@@ -5555,6 +5561,12 @@ WBG零封JDG（热度：888042）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%A0%E4%B8%8D%E7%83%AD%E5%90%97%23" target="weibo">
 白鹿你不热吗（热度：861719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23" target="weibo">
+男孩称后背痒植物人父亲用尽全力抬手（热度：858175）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LPL006号选手Uzi重新连接（热度：808416）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LNG%E6%88%98%E8%83%9CEDG%23" target="weibo">
 LNG战胜EDG（热度：806573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%23" target="weibo">
-乐华（热度：805855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%B8%E6%AF%92%E8%A2%AB%E6%9F%A5%E5%90%8E%E4%BB%8D%E5%9C%A8%E5%B2%97%23" target="weibo">
-官方回应公职人员吸毒被查后仍在岗（热度：805181）
 </a>
 </li>
 
