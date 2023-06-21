@@ -1,0 +1,410 @@
+{
+  "runTime": 1687324621117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15562142,
+        "num": 15562142,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1271033,
+        "num": 1271033,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16091,
+        "num": 1100669,
+        "word": "夏日中国尽显生态之美",
+        "onboard_time": 1687270775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455567,
+        "num": 1087907,
+        "word": "炎亚纶崩溃痛哭",
+        "onboard_time": 1687323466,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002150,
+        "num": 1002150,
+        "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+        "onboard_time": 1687320937,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12583395,
+        "num": 924562,
+        "word": "炎亚纶现身邱耀乐记者会",
+        "onboard_time": 1687321238,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785581,
+        "num": 785581,
+        "word": "赵丽颖张碧晨合体上综艺",
+        "onboard_time": 1687319796,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646265,
+        "num": 646265,
+        "word": "何炅黄磊这一集更难向外网解释了吧",
+        "onboard_time": 1687314987,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592164,
+        "num": 592164,
+        "word": "女子房门被封事件堵门邻居已离世",
+        "onboard_time": 1687310194,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582026,
+        "num": 582026,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 718519,
+        "num": 581902,
+        "word": "河北科技大学",
+        "onboard_time": 1687320633,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635904,
+        "num": 581890,
+        "word": "肖战 蒙牛",
+        "onboard_time": 1687323045,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 580446,
+        "num": 580446,
+        "word": "王一博穿的居然是羽绒服",
+        "onboard_time": 1687323708,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569410,
+        "num": 569410,
+        "word": "12306",
+        "onboard_time": 1687315953,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40726,
+        "num": 541839,
+        "word": "6岁男孩成世界最年轻魔方大师",
+        "onboard_time": 1687323644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540041,
+        "num": 540041,
+        "word": "几十块的婚纱和几万块一样洁白",
+        "onboard_time": 1687313132,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 538863,
+        "num": 538863,
+        "word": "长风渡上星了",
+        "onboard_time": 1687317872,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447519,
+        "num": 447519,
+        "word": "韩安冉首次回应四婚",
+        "onboard_time": 1687307673,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 349389,
+        "num": 349389,
+        "word": "酒店经理见老太开房神色慌张立即报警",
+        "onboard_time": 1687306590,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1557708,
+        "num": 349074,
+        "word": "NONO被曝性骚扰",
+        "onboard_time": 1687320877,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805396,
+        "num": 348511,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 543068,
+        "num": 347975,
+        "word": "为什么大家都不爱穿船袜了",
+        "onboard_time": 1687320758,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464298,
+        "num": 347233,
+        "word": "为什么妲己总喂纣王吃葡萄",
+        "onboard_time": 1687322329,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391378,
+        "num": 346780,
+        "word": "你的工资可以打听几次",
+        "onboard_time": 1687320758,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 385284,
+        "num": 346232,
+        "word": "严敏又做说唱综艺了",
+        "onboard_time": 1687322744,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362373,
+        "num": 345829,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317589,
+        "num": 345248,
+        "word": "男子捡余额3.7万手机主动还失主",
+        "onboard_time": 1687309533,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344706,
+        "num": 344706,
+        "word": "杨和苏 三冠王",
+        "onboard_time": 1687312296,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325372,
+        "num": 325372,
+        "word": "第一次看男朋友的浏览器",
+        "onboard_time": 1687306470,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324614,
+        "num": 324614,
+        "word": "萧煌奇回应不是盲人",
+        "onboard_time": 1687309114,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319687,
+        "num": 319687,
+        "word": "周杰伦海口7米快递是啥",
+        "onboard_time": 1687320154,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298860,
+        "num": 298860,
+        "word": "女孩毕设展陌生人添上3颗珍珠",
+        "onboard_time": 1687323167,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273677,
+        "num": 273677,
+        "word": "你每月有多少公积金",
+        "onboard_time": 1687323045,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260488,
+        "num": 260488,
+        "word": "王俊凯做客向往的生活",
+        "onboard_time": 1687318233,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260161,
+        "num": 260161,
+        "word": "种地吧 根本补不完",
+        "onboard_time": 1687277612,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258588,
+        "num": 258588,
+        "word": "柳智敏我的英雄学院",
+        "onboard_time": 1687304669,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254438,
+        "num": 254438,
+        "word": "优酷2023现偶天花板",
+        "onboard_time": 1687316913,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249283,
+        "num": 249283,
+        "word": "竹已",
+        "onboard_time": 1687317573,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245065,
+        "num": 245065,
+        "word": "陈建斌多巴胺穿搭",
+        "onboard_time": 1687304485,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212958,
+        "num": 212958,
+        "word": "男孩称后背痒植物人父亲用尽全力抬手",
+        "onboard_time": 1687302863,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234739,
+        "num": 211935,
+        "word": "云边有个小卖部",
+        "onboard_time": 1687313610,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209723,
+        "num": 209723,
+        "word": "饿了么免单",
+        "onboard_time": 1687317694,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205778,
+        "num": 205778,
+        "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
+        "onboard_time": 1687310671,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194147,
+        "num": 194147,
+        "word": "王一博清爽男高",
+        "onboard_time": 1687314749,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190088,
+        "num": 190088,
+        "word": "代号鸢",
+        "onboard_time": 1687323764,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 802864,
+        "num": 190049,
+        "word": "鞠婧祎炎亚纶的剧还能播吗",
+        "onboard_time": 1687312891,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189619,
+        "num": 189619,
+        "word": "派克特没夺冠",
+        "onboard_time": 1687314270,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174475,
+        "num": 174475,
+        "word": "原神",
+        "onboard_time": 1687321840,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174360,
+        "num": 174360,
+        "word": "TaylorSwift巡演官宣亚洲场次",
+        "onboard_time": 1687307250,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165197,
+        "num": 173804,
+        "word": "学校给考研二战同学准备的岗位",
+        "onboard_time": 1687319316,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系和合为贵#"
+    }
+  }
+}

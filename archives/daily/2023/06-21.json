@@ -1,9 +1,17 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687322041406,
+  "endTime": 1687324621117,
   "band_list": [
     {
-      "raw_hot": 9806383,
+      "raw_hot": 15562142,
+      "num": 15562142,
+      "word": "邱耀乐不接受炎亚纶道歉",
+      "onboard_time": 1687322744,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12583395,
       "num": 9806383,
       "word": "炎亚纶现身邱耀乐记者会",
       "onboard_time": 1687321238,
@@ -67,12 +75,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1557708,
+      "num": 889480,
+      "word": "NONO被曝性骚扰",
+      "onboard_time": 1687320877,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1525975,
       "num": 1525975,
       "word": "酒店经理见老太开房神色慌张立即报警",
       "onboard_time": 1687306590,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1455567,
+      "num": 1087907,
+      "word": "炎亚纶崩溃痛哭",
+      "onboard_time": 1687323466,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1379841,
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1002150,
+      "num": 1002150,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993823,
       "num": 993823,
       "word": "12306",
@@ -177,14 +209,6 @@
       "onboard_time": 1687267591,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 889480,
-      "num": 889480,
-      "word": "NONO被曝性骚扰",
-      "onboard_time": 1687320877,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 885019,
@@ -283,6 +307,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 718519,
+      "num": 581902,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684177,
       "num": 684177,
       "word": "杨颖金靖是一个学校的",
@@ -305,6 +337,14 @@
       "onboard_time": 1687245751,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635904,
+      "num": 581890,
+      "word": "肖战 蒙牛",
+      "onboard_time": 1687323045,
+      "rank": 11,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 607877,
@@ -331,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580446,
+      "num": 580446,
+      "word": "王一博穿的居然是羽绒服",
+      "onboard_time": 1687323708,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572134,
       "num": 572134,
       "word": "优酷2023现偶天花板",
       "onboard_time": 1687316913,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543068,
+      "num": 478132,
+      "word": "为什么大家都不爱穿船袜了",
+      "onboard_time": 1687320758,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 541533,
@@ -379,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487204,
-      "num": 487204,
-      "word": "河北科技大学",
-      "onboard_time": 1687320633,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480853,
       "num": 434755,
       "word": "警方通报广州一出租屋发现3具尸体",
@@ -395,11 +443,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478132,
-      "num": 478132,
-      "word": "为什么大家都不爱穿船袜了",
-      "onboard_time": 1687320758,
-      "rank": 24,
+      "raw_hot": 464298,
+      "num": 347233,
+      "word": "为什么妲己总喂纣王吃葡萄",
+      "onboard_time": 1687322329,
+      "rank": 22,
       "category": "幽默"
     },
     {
@@ -475,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388462,
-      "num": 388462,
-      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
-      "onboard_time": 1687320937,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 391378,
+      "num": 367517,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 385284,
+      "num": 346232,
+      "word": "严敏又做说唱综艺了",
+      "onboard_time": 1687322744,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 375727,
@@ -497,14 +553,6 @@
       "onboard_time": 1687275578,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 367517,
-      "num": 367517,
-      "word": "你的工资可以打听几次",
-      "onboard_time": 1687320758,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 363460,
@@ -651,6 +699,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 298860,
+      "num": 298860,
+      "word": "女孩毕设展陌生人添上3颗珍珠",
+      "onboard_time": 1687323167,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283359,
       "num": 277807,
       "word": "赵露思桑稚梦回嫋嫋",
@@ -697,6 +753,14 @@
       "onboard_time": 1687265131,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 273677,
+      "num": 273677,
+      "word": "你每月有多少公积金",
+      "onboard_time": 1687323045,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273586,
@@ -979,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190088,
+      "num": 190088,
+      "word": "代号鸢",
+      "onboard_time": 1687323764,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189322,
       "num": 189322,
       "word": "应届大学生就业重心继续下沉",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1687265670,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174475,
+      "num": 176435,
+      "word": "原神",
+      "onboard_time": 1687321840,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 172910,
@@ -1171,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111233,
-      "num": 176435,
-      "word": "原神",
-      "onboard_time": 1687321840,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110106,
       "num": 159171,
       "word": "现在的无人机表演真的太帅了",
@@ -1256,6 +1328,14 @@
       "word": "夏日中国尽显生态之美",
       "onboard_time": 1687270775,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40726,
+      "num": 541839,
+      "word": "6岁男孩成世界最年轻魔方大师",
+      "onboard_time": 1687323644,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

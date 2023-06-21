@@ -1,13 +1,29 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687322041406,
+  "endTime": 1687324621117,
   "band_list": [
+    {
+      "raw_hot": 15562142,
+      "num": 15562142,
+      "word": "邱耀乐不接受炎亚纶道歉",
+      "onboard_time": 1687322744,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 15371387,
       "num": 15371387,
       "word": "黄子佼曝大小S吸毒",
       "onboard_time": 1687152148,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12583395,
+      "num": 9806383,
+      "word": "炎亚纶现身邱耀乐记者会",
+      "onboard_time": 1687321238,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -40,14 +56,6 @@
       "word": "黄子佼承认性骚扰",
       "onboard_time": 1687151191,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 9806383,
-      "num": 9806383,
-      "word": "炎亚纶现身邱耀乐记者会",
-      "onboard_time": 1687321238,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -539,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1557708,
+      "num": 889480,
+      "word": "NONO被曝性骚扰",
+      "onboard_time": 1687320877,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1535967,
       "num": 475862,
       "word": "世纪大和解是演的吗",
@@ -601,6 +617,14 @@
       "onboard_time": 1687229669,
       "rank": 31,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1455567,
+      "num": 1087907,
+      "word": "炎亚纶崩溃痛哭",
+      "onboard_time": 1687323466,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1426534,
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1002150,
+      "num": 1002150,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998050,
       "num": 998050,
       "word": "厦大新闻学教授谈张雪峰言论",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1687147349,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 889480,
-      "num": 889480,
-      "word": "NONO被曝性骚扰",
-      "onboard_time": 1687320877,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 885019,
@@ -1371,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718519,
+      "num": 581902,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712931,
       "num": 712931,
       "word": "杭州一企业月薪1万2半年只招到两人",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 635904,
+      "num": 581890,
+      "word": "肖战 蒙牛",
+      "onboard_time": 1687323045,
+      "rank": 11,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 634631,
@@ -1579,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580446,
+      "num": 580446,
+      "word": "王一博穿的居然是羽绒服",
+      "onboard_time": 1687323708,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577141,
       "num": 574708,
       "word": "萧敬腾",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1687235679,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 543068,
+      "num": 478132,
+      "word": "为什么大家都不爱穿船袜了",
+      "onboard_time": 1687320758,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 538418,
@@ -1811,27 +1867,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487204,
-      "num": 487204,
-      "word": "河北科技大学",
-      "onboard_time": 1687320633,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482903,
       "num": 433837,
       "word": "面试搭子居然是公司副总",
       "onboard_time": 1687240352,
       "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 478132,
-      "num": 478132,
-      "word": "为什么大家都不爱穿船袜了",
-      "onboard_time": 1687320758,
-      "rank": 24,
       "category": "幽默"
     },
     {
@@ -1865,6 +1905,14 @@
       "onboard_time": 1687151850,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 464298,
+      "num": 347233,
+      "word": "为什么妲己总喂纣王吃葡萄",
+      "onboard_time": 1687322329,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 460130,
@@ -2195,20 +2243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391378,
+      "num": 367517,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 390988,
       "num": 390988,
       "word": "感觉自己花钱买了个工作",
       "onboard_time": 1687186903,
       "rank": 9,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 388462,
-      "num": 388462,
-      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
-      "onboard_time": 1687320937,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388246,
@@ -2233,6 +2281,14 @@
       "onboard_time": 1687232371,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385284,
+      "num": 346232,
+      "word": "严敏又做说唱综艺了",
+      "onboard_time": 1687322744,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 385131,
@@ -2305,14 +2361,6 @@
       "onboard_time": 1687227091,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 367517,
-      "num": 367517,
-      "word": "你的工资可以打听几次",
-      "onboard_time": 1687320758,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 363705,
@@ -2803,6 +2851,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 298860,
+      "num": 298860,
+      "word": "女孩毕设展陌生人添上3颗珍珠",
+      "onboard_time": 1687323167,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295646,
       "num": 281676,
       "word": "桑延变成搞笑男",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1687123391,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273677,
+      "num": 273677,
+      "word": "你每月有多少公积金",
+      "onboard_time": 1687323045,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273586,
@@ -4483,6 +4547,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 190088,
+      "num": 190088,
+      "word": "代号鸢",
+      "onboard_time": 1687323764,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "长风渡招商",
@@ -4777,6 +4849,14 @@
       "onboard_time": 1687231532,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174475,
+      "num": 176435,
+      "word": "原神",
+      "onboard_time": 1687321840,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 174336,
@@ -5747,14 +5827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 111233,
-      "num": 176435,
-      "word": "原神",
-      "onboard_time": 1687321840,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110158,
       "num": 110158,
       "word": "西班牙夺得欧国联冠军",
@@ -6160,6 +6232,14 @@
       "word": "夏日中国尽显生态之美",
       "onboard_time": 1687270775,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40726,
+      "num": 541839,
+      "word": "6岁男孩成世界最年轻魔方大师",
+      "onboard_time": 1687323644,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

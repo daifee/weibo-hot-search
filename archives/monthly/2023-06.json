@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687322041406,
+  "endTime": 1687324621117,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -9,6 +9,14 @@
       "onboard_time": 1686126154,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15562142,
+      "num": 15562142,
+      "word": "邱耀乐不接受炎亚纶道歉",
+      "onboard_time": 1687322744,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 15371387,
@@ -33,6 +41,14 @@
       "onboard_time": 1686103592,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12583395,
+      "num": 9806383,
+      "word": "炎亚纶现身邱耀乐记者会",
+      "onboard_time": 1687321238,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 12100652,
@@ -104,14 +120,6 @@
       "word": "黄子佼承认性骚扰",
       "onboard_time": 1687151191,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 9806383,
-      "num": 9806383,
-      "word": "炎亚纶现身邱耀乐记者会",
-      "onboard_time": 1687321238,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -3155,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1557708,
+      "num": 889480,
+      "word": "NONO被曝性骚扰",
+      "onboard_time": 1687320877,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1556173,
       "num": 1556173,
       "word": "巴厘岛命案",
@@ -3545,6 +3561,14 @@
       "onboard_time": 1685792546,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1455567,
+      "num": 1087907,
+      "word": "炎亚纶崩溃痛哭",
+      "onboard_time": 1687323466,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1451764,
@@ -6323,6 +6347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1002150,
+      "num": 1002150,
+      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+      "onboard_time": 1687320937,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999968,
       "num": 999968,
       "word": "汤晶媚竟然上过乘风破浪的姐姐第二季",
@@ -7217,14 +7249,6 @@
       "onboard_time": 1687147349,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 889480,
-      "num": 889480,
-      "word": "NONO被曝性骚扰",
-      "onboard_time": 1687320877,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 888221,
@@ -9091,6 +9115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718519,
+      "num": 581902,
+      "word": "河北科技大学",
+      "onboard_time": 1687320633,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717920,
       "num": 717920,
       "word": "高圆圆吃了我的刀削面",
@@ -9971,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635904,
+      "num": 581890,
+      "word": "肖战 蒙牛",
+      "onboard_time": 1687323045,
+      "rank": 11,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 634631,
       "num": 348844,
       "word": "舍友暗示我别化妆见她朋友",
@@ -10699,6 +10739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580446,
+      "num": 580446,
+      "word": "王一博穿的居然是羽绒服",
+      "onboard_time": 1687323708,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579821,
       "num": 506858,
       "word": "72岁TVB男星将迎娶小36岁女友",
@@ -11273,6 +11321,14 @@
       "onboard_time": 1686662787,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 543068,
+      "num": 478132,
+      "word": "为什么大家都不爱穿船袜了",
+      "onboard_time": 1687320758,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 542466,
@@ -12251,14 +12307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487204,
-      "num": 487204,
-      "word": "河北科技大学",
-      "onboard_time": 1687320633,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486994,
       "num": 486994,
       "word": "韩娱四代TOP组合",
@@ -12393,14 +12441,6 @@
       "onboard_time": 1685538207,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478132,
-      "num": 478132,
-      "word": "为什么大家都不爱穿船袜了",
-      "onboard_time": 1687320758,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 477542,
@@ -12673,6 +12713,14 @@
       "onboard_time": 1687151850,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 464298,
+      "num": 347233,
+      "word": "为什么妲己总喂纣王吃葡萄",
+      "onboard_time": 1687322329,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 463596,
@@ -14603,6 +14651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 391378,
+      "num": 367517,
+      "word": "你的工资可以打听几次",
+      "onboard_time": 1687320758,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 390988,
       "num": 390988,
       "word": "感觉自己花钱买了个工作",
@@ -14688,14 +14744,6 @@
       "word": "萌娃检查身体时突然向医生wink",
       "onboard_time": 1685833277,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388462,
-      "num": 388462,
-      "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
-      "onboard_time": 1687320937,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -14793,6 +14841,14 @@
       "onboard_time": 1686179482,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385284,
+      "num": 346232,
+      "word": "严敏又做说唱综艺了",
+      "onboard_time": 1687322744,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 385131,
@@ -15409,14 +15465,6 @@
       "onboard_time": 1685942608,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367517,
-      "num": 367517,
-      "word": "你的工资可以打听几次",
-      "onboard_time": 1687320758,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 367412,
@@ -18995,6 +19043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298860,
+      "num": 298860,
+      "word": "女孩毕设展陌生人添上3颗珍珠",
+      "onboard_time": 1687323167,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298836,
       "num": 224130,
       "word": "刘宇宁折腰",
@@ -20985,6 +21041,14 @@
       "onboard_time": 1686366161,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273677,
+      "num": 273677,
+      "word": "你每月有多少公积金",
+      "onboard_time": 1687323045,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273591,
@@ -34963,6 +35027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174475,
+      "num": 176435,
+      "word": "原神",
+      "onboard_time": 1687321840,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174392,
       "num": 174392,
       "word": "鹦鹉被门夹到鼻青脸肿急诊输液",
@@ -44099,14 +44171,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 111233,
-      "num": 176435,
-      "word": "原神",
-      "onboard_time": 1687321840,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111139,
       "num": 122627,
       "word": "3名小学生河边发现毒花获暖心表彰",
@@ -48193,6 +48257,14 @@
       "onboard_time": 1687023559,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40726,
+      "num": 541839,
+      "word": "6岁男孩成世界最年轻魔方大师",
+      "onboard_time": 1687323644,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40511,
