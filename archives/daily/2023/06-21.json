@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687350879238,
+  "endTime": 1687351878859,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1499991,
-      "num": 1499991,
+      "raw_hot": 1501125,
+      "num": 1501125,
       "word": "江浙沪已婚女士的共同点",
       "onboard_time": 1687344994,
       "rank": 8,
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 859033,
+      "num": 859033,
+      "word": "陈建斌的命也是命",
+      "onboard_time": 1687348535,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 858175,
       "num": 858175,
       "word": "男孩称后背痒植物人父亲用尽全力抬手",
@@ -425,6 +433,14 @@
       "onboard_time": 1687337680,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 828006,
+      "num": 828006,
+      "word": "我点的奶茶被领导捎了上来",
+      "onboard_time": 1687349014,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 825258,
@@ -443,20 +459,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 805252,
-      "num": 547076,
-      "word": "我点的奶茶被领导捎了上来",
-      "onboard_time": 1687349014,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 802357,
       "num": 802357,
       "word": "全国现有吸毒人员112.4万",
       "onboard_time": 1687324423,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795610,
+      "num": 795610,
+      "word": "邓亚萍拒绝158元一斤的车厘子",
+      "onboard_time": 1687350394,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 788372,
@@ -587,6 +603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 610415,
+      "num": 610415,
+      "word": "四川一中考生查出874分7门满分",
+      "onboard_time": 1687348955,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 607877,
       "num": 607877,
       "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
@@ -633,6 +657,14 @@
       "onboard_time": 1687348173,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543636,
+      "num": 543636,
+      "word": "张萌这次演抓出轨",
+      "onboard_time": 1687350154,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 543068,
@@ -683,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510249,
-      "num": 510249,
-      "word": "陈建斌的命也是命",
-      "onboard_time": 1687348535,
-      "rank": 13,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 502006,
       "num": 502006,
       "word": "A股",
@@ -712,6 +736,14 @@
       "word": "工资低的可以放心gap",
       "onboard_time": 1687330835,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 493221,
+      "num": 493221,
+      "word": "科目二我考了负725分",
+      "onboard_time": 1687350394,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 448728,
-      "num": 308827,
+      "num": 310461,
       "word": "饿了么",
       "onboard_time": 1687350693,
       "rank": 25,
@@ -849,6 +881,14 @@
       "onboard_time": 1687307250,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 424993,
+      "num": 424993,
+      "word": "我被Excel骂了",
+      "onboard_time": 1687351052,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 424116,
@@ -1035,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339821,
-      "num": 339821,
-      "word": "四川一中考生查出874分7门满分",
-      "onboard_time": 1687348955,
-      "rank": 18,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 339789,
       "num": 339789,
       "word": "NONO宣布停止演艺工作",
@@ -1107,20 +1139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322398,
+      "num": 322398,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321508,
       "num": 309098,
       "word": "伍佰演唱会抢票",
       "onboard_time": 1687317275,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 317689,
-      "num": 317689,
-      "word": "张萌这次演抓出轨",
-      "onboard_time": 1687350154,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 316838,
@@ -1227,6 +1259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 301802,
+      "num": 301802,
+      "word": "桑稚用刮皮刀切西瓜",
+      "onboard_time": 1687349494,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297168,
       "num": 297168,
       "word": "Uzi戴红眼镜",
@@ -1259,20 +1299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290489,
-      "num": 290489,
-      "word": "消失的她",
-      "onboard_time": 1687332636,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 285965,
-      "num": 285965,
-      "word": "科目二我考了负725分",
-      "onboard_time": 1687350394,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 288401,
+      "num": 288401,
+      "word": "男子举报局长与其妻子有不正当关系",
+      "onboard_time": 1687351534,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283359,
@@ -1364,7 +1396,7 @@
     },
     {
       "raw_hot": 265863,
-      "num": 263182,
+      "num": 264135,
       "word": "丫丫有萌兰同款秋千",
       "onboard_time": 1687347875,
       "rank": 32,
@@ -1403,12 +1435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257154,
-      "num": 257154,
-      "word": "邓亚萍拒绝158元一斤的车厘子",
-      "onboard_time": 1687350394,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 257801,
+      "num": 257801,
+      "word": "第一次看到熊猫皱眉",
+      "onboard_time": 1687350513,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 256889,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1687347334,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246465,
-      "num": 246465,
-      "word": "桑稚用刮皮刀切西瓜",
-      "onboard_time": 1687349494,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 245021,
@@ -1659,6 +1683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222038,
+      "num": 222038,
+      "word": "王者荣耀代号破晓版号过审",
+      "onboard_time": 1687351715,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218954,
       "num": 171672,
       "word": "种地吧",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1687305569,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213427,
+      "num": 218979,
+      "word": "高校负面会影响你报考吗",
+      "onboard_time": 1687351291,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 213131,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1687321721,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209520,
-      "num": 209520,
-      "word": "第一次看到熊猫皱眉",
-      "onboard_time": 1687350513,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 206722,
@@ -2355,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61014,
+      "num": 469736,
+      "word": "如果相遇有颜色",
+      "onboard_time": 1687348833,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54416,
       "num": 383571,
       "word": "男生毕业礼和老师合影大秀肌肉",
@@ -2369,14 +2409,6 @@
       "onboard_time": 1687263570,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 43192,
-      "num": 402605,
-      "word": "如果相遇有颜色",
-      "onboard_time": 1687348833,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 41554,
@@ -2403,18 +2435,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12289,
-      "num": 747531,
-      "word": "我国自研视景系统首次试飞成功",
-      "onboard_time": 1687245089,
+      "raw_hot": 15696,
+      "num": 1117561,
+      "word": "航拍中国感受盛夏之美",
+      "onboard_time": 1687336300,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7024,
-      "num": 1117561,
-      "word": "航拍中国感受盛夏之美",
-      "onboard_time": 1687336300,
+      "raw_hot": 12289,
+      "num": 747531,
+      "word": "我国自研视景系统首次试飞成功",
+      "onboard_time": 1687245089,
       "rank": 2,
       "category": "社会新闻"
     }
