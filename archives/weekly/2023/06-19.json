@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687385748550,
+  "endTime": 1687386829314,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -5307,6 +5307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211853,
+      "num": 211853,
+      "word": "肖战不担心表演同质化问题",
+      "onboard_time": 1687377554,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211781,
       "num": 211781,
       "word": "BLG战胜LNG",
@@ -6499,14 +6507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164264,
-      "num": 164264,
-      "word": "肖战不担心表演同质化问题",
-      "onboard_time": 1687377554,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164097,
       "num": 255600,
       "word": "infp无法撼动的精神领域",
@@ -6960,6 +6960,14 @@
       "word": "济南地铁设强弱冷车厢",
       "onboard_time": 1687268015,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142101,
+      "num": 114952,
+      "word": "宝妈为4岁女儿吃饭健康带锅碗旅游",
+      "onboard_time": 1687384574,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -7691,14 +7699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64286,
-      "num": 64286,
-      "word": "宝妈为4岁女儿吃饭健康带锅碗旅游",
-      "onboard_time": 1687384574,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63503,
       "num": 429941,
       "word": "女子落水4名钓友完美配合救人",
@@ -7843,6 +7843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41870,
+      "num": 41870,
+      "word": "马代酒店称涉事管家当日离职",
+      "onboard_time": 1687374015,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41554,
       "num": 1376289,
       "word": "夏日中国尽显生态之美",
@@ -7899,18 +7907,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35757,
-      "num": 37658,
-      "word": "马代酒店称涉事管家当日离职",
-      "onboard_time": 1687374015,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32228,
       "num": 1494879,
       "word": "航拍中国感受盛夏之美",
       "onboard_time": 1687336300,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28391,
+      "num": 249851,
+      "word": "赛龙舟原来这么燃",
+      "onboard_time": 1687359035,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7937,14 +7945,6 @@
       "onboard_time": 1687298475,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23672,
-      "num": 188262,
-      "word": "赛龙舟原来这么燃",
-      "onboard_time": 1687359035,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22018,
