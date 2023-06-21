@@ -1,0 +1,410 @@
+{
+  "runTime": 1687343696499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6767995,
+        "num": 6767995,
+        "word": "川大地铁事件涉事学生被留校留党察看",
+        "onboard_time": 1687336659,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 452490,
+        "num": 1302252,
+        "word": "青岛1米88大长腿交警回应走红",
+        "onboard_time": 1687326823,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72861,
+        "num": 1108637,
+        "word": "90岁老战士与90后飞行员同框",
+        "onboard_time": 1687336414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023340,
+        "num": 1023340,
+        "word": "丫丫",
+        "onboard_time": 1687337498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171897,
+        "num": 967160,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2610527,
+        "num": 965822,
+        "word": "炎亚纶竟然还化了妆",
+        "onboard_time": 1687334561,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 955736,
+        "num": 955736,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 763597,
+        "num": 763597,
+        "word": "白敬亭和父母都追过赘婿",
+        "onboard_time": 1687339419,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716224,
+        "num": 716224,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 629830,
+        "num": 629830,
+        "word": "河南大学",
+        "onboard_time": 1687340558,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1991609,
+        "num": 618192,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591412,
+        "num": 591412,
+        "word": "拜登儿子认罪",
+        "onboard_time": 1687335698,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484213,
+        "num": 484213,
+        "word": "虞书欣田曦薇cp名",
+        "onboard_time": 1687340675,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456237,
+        "num": 456237,
+        "word": "杭州一男子在绿化带内迷路四天三夜",
+        "onboard_time": 1687331856,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152298,
+        "num": 447249,
+        "word": "妈妈旅游路过帮女儿打扫到凌晨",
+        "onboard_time": 1687341634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441943,
+        "num": 441943,
+        "word": "陈意涵晒照否认恋情",
+        "onboard_time": 1687342654,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438857,
+        "num": 438857,
+        "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+        "onboard_time": 1687329696,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 420261,
+        "num": 420261,
+        "word": "丫丫肉眼可见圆滚滚起来了",
+        "onboard_time": 1687339779,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377979,
+        "num": 377979,
+        "word": "给流浪猫寄罐头被老太太吃了",
+        "onboard_time": 1687338103,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368760,
+        "num": 368760,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1663940,
+        "num": 368603,
+        "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+        "onboard_time": 1687326161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1205462,
+        "num": 365548,
+        "word": "炎亚纶邱耀乐曾经的聊天记录",
+        "onboard_time": 1687331018,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980726,
+        "num": 362073,
+        "word": "炎亚纶今日新歌活着没什么大不了",
+        "onboard_time": 1687339477,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84038,
+        "num": 357926,
+        "word": "网红长沙大屏循环播放禁毒宣言",
+        "onboard_time": 1687343315,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412949,
+        "num": 357110,
+        "word": "一直娱",
+        "onboard_time": 1687341634,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385072,
+        "num": 352369,
+        "word": "大学生网购毒品掺进奶茶给室友喝",
+        "onboard_time": 1687339238,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352178,
+        "num": 352178,
+        "word": "白敬亭请正面回答",
+        "onboard_time": 1687342595,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348678,
+        "num": 348678,
+        "word": "Uzi",
+        "onboard_time": 1687337680,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76552,
+        "num": 337918,
+        "word": "兵马俑的衣着有近20种色调",
+        "onboard_time": 1687343558,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335987,
+        "num": 335987,
+        "word": "胡锡进称川大女生应感恩学校给机会",
+        "onboard_time": 1687341758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331924,
+        "num": 331924,
+        "word": "邓超多巴胺穿搭",
+        "onboard_time": 1687330415,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314465,
+        "num": 314465,
+        "word": "猫咪被救下主人却说不要了",
+        "onboard_time": 1687338638,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306134,
+        "num": 306134,
+        "word": "谁提极乐净土肖战和谁急",
+        "onboard_time": 1687331796,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292001,
+        "num": 292001,
+        "word": "我爱你",
+        "onboard_time": 1687341157,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282866,
+        "num": 282866,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283888,
+        "num": 277163,
+        "word": "惠英红 怎么好像在官宣什么",
+        "onboard_time": 1687340017,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269371,
+        "num": 269371,
+        "word": "白敬亭宋轶摸头杀",
+        "onboard_time": 1687341095,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260753,
+        "num": 260753,
+        "word": "认识一些常见的石头",
+        "onboard_time": 1687343378,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258235,
+        "num": 258235,
+        "word": "Uzi戴红眼镜",
+        "onboard_time": 1687341398,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37382,
+        "num": 252348,
+        "word": "程晓玥谈产后女性职场价值被低估",
+        "onboard_time": 1687341634,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 249213,
+        "num": 249213,
+        "word": "全国现有吸毒人员112.4万",
+        "onboard_time": 1687324423,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233996,
+        "num": 233996,
+        "word": "邻居点外卖填我家的地址",
+        "onboard_time": 1687337317,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215837,
+        "num": 215837,
+        "word": "四川大学",
+        "onboard_time": 1687336958,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208453,
+        "num": 208453,
+        "word": "临死前身体会发生的100种奇怪反应",
+        "onboard_time": 1687331377,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195663,
+        "num": 195663,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181321,
+        "num": 181321,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178609,
+        "num": 178609,
+        "word": "张凌赫马伯骞相似造型",
+        "onboard_time": 1687343675,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175419,
+        "num": 175419,
+        "word": "NONO宣布停止演艺工作",
+        "onboard_time": 1687335819,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171200,
+        "num": 171200,
+        "word": "第一次见猫这样拒绝另一只猫的",
+        "onboard_time": 1687343616,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101163,
+        "num": 171040,
+        "word": "DRG对战EDGM",
+        "onboard_time": 1687342898,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#试验二十五号卫星成功发射#"
+    }
+  }
+}
