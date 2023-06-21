@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687347208342,
+  "endTime": 1687350879238,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3505,6 +3505,14 @@
       "onboard_time": 1686271469,
       "rank": 0,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1499991,
+      "num": 1499991,
+      "word": "江浙沪已婚女士的共同点",
+      "onboard_time": 1687344994,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 1499877,
@@ -7195,14 +7203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 908559,
-      "num": 908559,
-      "word": "江浙沪已婚女士的共同点",
-      "onboard_time": 1687344994,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 907427,
       "num": 907427,
       "word": "井柏然刘雯又合体营业了",
@@ -8273,6 +8273,14 @@
       "onboard_time": 1687071207,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805252,
+      "num": 547076,
+      "word": "我点的奶茶被领导捎了上来",
+      "onboard_time": 1687349014,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 805181,
@@ -10739,6 +10747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594049,
+      "num": 594049,
+      "word": "庆余年导演说演员应该杜绝文盲",
+      "onboard_time": 1687344034,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593868,
       "num": 593868,
       "word": "产妇羊水栓塞医生集体赶来抢救",
@@ -11123,14 +11139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569445,
-      "num": 569445,
-      "word": "庆余年导演说演员应该杜绝文盲",
-      "onboard_time": 1687344034,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 568301,
       "num": 568301,
       "word": "白鹿的腿自带高光",
@@ -11355,6 +11363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553268,
+      "num": 553268,
+      "word": "LPL 暂停",
+      "onboard_time": 1687348173,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 552957,
       "num": 552957,
       "word": "万新村",
@@ -11545,6 +11561,14 @@
       "onboard_time": 1685797109,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 542435,
+      "num": 542435,
+      "word": "为什么女生的衣服越做越短",
+      "onboard_time": 1687345056,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 542419,
@@ -12033,6 +12057,14 @@
       "onboard_time": 1686582691,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 510249,
+      "num": 510249,
+      "word": "陈建斌的命也是命",
+      "onboard_time": 1687348535,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 509482,
@@ -13265,6 +13297,14 @@
       "onboard_time": 1687178018,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 448728,
+      "num": 308827,
+      "word": "饿了么",
+      "onboard_time": 1687350693,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 448612,
@@ -15723,14 +15763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369875,
-      "num": 369875,
-      "word": "为什么女生的衣服越做越短",
-      "onboard_time": 1687345056,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 369325,
       "num": 369325,
       "word": "考生走错考场铁骑紧急出动送考",
@@ -17115,6 +17147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339821,
+      "num": 339821,
+      "word": "四川一中考生查出874分7门满分",
+      "onboard_time": 1687348955,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 339789,
       "num": 339789,
       "word": "NONO宣布停止演艺工作",
@@ -18281,6 +18321,14 @@
       "onboard_time": 1685854409,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317689,
+      "num": 317689,
+      "word": "张萌这次演抓出轨",
+      "onboard_time": 1687350154,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 317621,
@@ -20099,6 +20147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290489,
+      "num": 290489,
+      "word": "消失的她",
+      "onboard_time": 1686280233,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290484,
       "num": 290484,
       "word": "紫幻TTG",
@@ -20521,6 +20577,14 @@
       "onboard_time": 1686535648,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285965,
+      "num": 285965,
+      "word": "科目二我考了负725分",
+      "onboard_time": 1687350394,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 285918,
@@ -22171,6 +22235,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 266685,
+      "num": 266685,
+      "word": "长春超市里含爸量好高",
+      "onboard_time": 1687349613,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266501,
       "num": 266501,
       "word": "中餐厅路透",
@@ -22233,6 +22305,14 @@
       "onboard_time": 1685867666,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265863,
+      "num": 263182,
+      "word": "丫丫有萌兰同款秋千",
+      "onboard_time": 1687347875,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265802,
@@ -22473,6 +22553,14 @@
       "onboard_time": 1687266151,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263267,
+      "num": 263267,
+      "word": "端午节快乐",
+      "onboard_time": 1687350212,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263253,
@@ -23105,6 +23193,14 @@
       "onboard_time": 1686404730,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257154,
+      "num": 257154,
+      "word": "邓亚萍拒绝158元一斤的车厘子",
+      "onboard_time": 1687350394,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 257145,
@@ -24219,6 +24315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248390,
+      "num": 248390,
+      "word": "徐明浩能有什么心事",
+      "onboard_time": 1687347334,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248359,
       "num": 248359,
       "word": "小S把酒杯捏碎了",
@@ -24384,6 +24488,14 @@
       "word": "承欢记",
       "onboard_time": 1686115894,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246465,
+      "num": 246465,
+      "word": "桑稚用刮皮刀切西瓜",
+      "onboard_time": 1687349494,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -25017,14 +25129,6 @@
       "onboard_time": 1687003950,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241330,
-      "num": 241330,
-      "word": "消失的她",
-      "onboard_time": 1686280233,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 241313,
@@ -26360,6 +26464,14 @@
       "word": "Rookie",
       "onboard_time": 1685546313,
       "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 230936,
+      "num": 230936,
+      "word": "BLG对战LNG",
+      "onboard_time": 1687349854,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -29457,6 +29569,14 @@
       "onboard_time": 1686791189,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209520,
+      "num": 209520,
+      "word": "第一次看到熊猫皱眉",
+      "onboard_time": 1687350513,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 209365,
@@ -37609,6 +37729,14 @@
       "onboard_time": 1686100775,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 163108,
+      "num": 181296,
+      "word": "段奕宏 要守护白玉兰的含金量",
+      "onboard_time": 1687347454,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 162972,
@@ -49011,6 +49139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43192,
+      "num": 402605,
+      "word": "如果相遇有颜色",
+      "onboard_time": 1687348833,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42892,
       "num": 481412,
       "word": "袁咏仪演去买车的我",
@@ -50003,7 +50139,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 5763,
+      "raw_hot": 7024,
       "num": 1117561,
       "word": "航拍中国感受盛夏之美",
       "onboard_time": 1687336300,

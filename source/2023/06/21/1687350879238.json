@@ -1,0 +1,410 @@
+{
+  "runTime": 1687350879238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6532543,
+        "num": 6532543,
+        "word": "警方将侦办炎亚纶事件",
+        "onboard_time": 1687346135,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1499991,
+        "num": 1499991,
+        "word": "江浙沪已婚女士的共同点",
+        "onboard_time": 1687344994,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7024,
+        "num": 1064472,
+        "word": "航拍中国感受盛夏之美",
+        "onboard_time": 1687336300,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773372,
+        "num": 773372,
+        "word": "丫丫",
+        "onboard_time": 1687337498,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652748,
+        "num": 652748,
+        "word": "川大地铁事件涉事学生被留校留党察看",
+        "onboard_time": 1687336659,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1504176,
+        "num": 648499,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617667,
+        "num": 617667,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 53775,
+        "num": 602099,
+        "word": "90岁老战士与90后飞行员同框",
+        "onboard_time": 1687336414,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594049,
+        "num": 594049,
+        "word": "庆余年导演说演员应该杜绝文盲",
+        "onboard_time": 1687344034,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553268,
+        "num": 553268,
+        "word": "LPL 暂停",
+        "onboard_time": 1687348173,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2777628,
+        "num": 550879,
+        "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
+        "onboard_time": 1687344873,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805252,
+        "num": 547076,
+        "word": "我点的奶茶被领导捎了上来",
+        "onboard_time": 1687349014,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 542435,
+        "num": 542435,
+        "word": "为什么女生的衣服越做越短",
+        "onboard_time": 1687345056,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 510249,
+        "num": 510249,
+        "word": "陈建斌的命也是命",
+        "onboard_time": 1687348535,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 43192,
+        "num": 402605,
+        "word": "如果相遇有颜色",
+        "onboard_time": 1687348833,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380365,
+        "num": 380365,
+        "word": "拜登儿子认罪",
+        "onboard_time": 1687335698,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350485,
+        "num": 350485,
+        "word": "青岛1米88大长腿交警回应走红",
+        "onboard_time": 1687326823,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341008,
+        "num": 341008,
+        "word": "白敬亭请正面回答",
+        "onboard_time": 1687342595,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339821,
+        "num": 339821,
+        "word": "四川一中考生查出874分7门满分",
+        "onboard_time": 1687348955,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 335320,
+        "num": 335320,
+        "word": "iG与Beishang解约",
+        "onboard_time": 1687344334,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1104242,
+        "num": 334192,
+        "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+        "onboard_time": 1687326161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064964,
+        "num": 330076,
+        "word": "炎亚纶竟然还化了妆",
+        "onboard_time": 1687334561,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597127,
+        "num": 326008,
+        "word": "炎亚纶今日新歌活着没什么大不了",
+        "onboard_time": 1687339477,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470395,
+        "num": 318523,
+        "word": "公司裁员把HR裁崩溃了",
+        "onboard_time": 1687344994,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317689,
+        "num": 317689,
+        "word": "张萌这次演抓出轨",
+        "onboard_time": 1687350154,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448728,
+        "num": 308827,
+        "word": "饿了么",
+        "onboard_time": 1687350693,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297555,
+        "num": 297555,
+        "word": "邓超多巴胺穿搭",
+        "onboard_time": 1687330415,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290489,
+        "num": 290489,
+        "word": "消失的她",
+        "onboard_time": 1687332636,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285965,
+        "num": 285965,
+        "word": "科目二我考了负725分",
+        "onboard_time": 1687350394,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276043,
+        "num": 276043,
+        "word": "陈意涵晒照否认恋情",
+        "onboard_time": 1687342654,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266685,
+        "num": 266685,
+        "word": "长春超市里含爸量好高",
+        "onboard_time": 1687349613,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263267,
+        "num": 263267,
+        "word": "端午节快乐",
+        "onboard_time": 1687350212,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265863,
+        "num": 263182,
+        "word": "丫丫有萌兰同款秋千",
+        "onboard_time": 1687347875,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261137,
+        "num": 261137,
+        "word": "给流浪猫寄罐头被老太太吃了",
+        "onboard_time": 1687338103,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257154,
+        "num": 257154,
+        "word": "邓亚萍拒绝158元一斤的车厘子",
+        "onboard_time": 1687350394,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248390,
+        "num": 248390,
+        "word": "徐明浩能有什么心事",
+        "onboard_time": 1687347334,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246465,
+        "num": 246465,
+        "word": "桑稚用刮皮刀切西瓜",
+        "onboard_time": 1687349494,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235091,
+        "num": 235091,
+        "word": "当我飞奔向你",
+        "onboard_time": 1687349254,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231358,
+        "num": 231358,
+        "word": "白敬亭和父母都追过赘婿",
+        "onboard_time": 1687339419,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230936,
+        "num": 230936,
+        "word": "BLG对战LNG",
+        "onboard_time": 1687349854,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228209,
+        "num": 228209,
+        "word": "张凌赫马伯骞相似造型",
+        "onboard_time": 1687343675,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219215,
+        "num": 219215,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224229,
+        "num": 215224,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209756,
+        "num": 209756,
+        "word": "虞书欣田曦薇cp名",
+        "onboard_time": 1687340675,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209520,
+        "num": 209520,
+        "word": "第一次看到熊猫皱眉",
+        "onboard_time": 1687350513,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209056,
+        "num": 209056,
+        "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+        "onboard_time": 1687329696,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 192171,
+        "num": 192171,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182145,
+        "num": 182145,
+        "word": "大学生网购毒品掺进奶茶给室友喝",
+        "onboard_time": 1687339238,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176864,
+        "num": 181510,
+        "word": "临死前身体会发生的100种奇怪反应",
+        "onboard_time": 1687331377,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 163108,
+        "num": 181296,
+        "word": "段奕宏 要守护白玉兰的含金量",
+        "onboard_time": 1687347454,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#试验二十五号卫星成功发射#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1687278120689,
-  "endTime": 1687347208342,
+  "endTime": 1687350879238,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -169,6 +169,14 @@
       "onboard_time": 1687306590,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499991,
+      "num": 1499991,
+      "word": "江浙沪已婚女士的共同点",
+      "onboard_time": 1687344994,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 1379841,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 908559,
-      "num": 908559,
-      "word": "江浙沪已婚女士的共同点",
-      "onboard_time": 1687344994,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 900124,
       "num": 2889872,
       "word": "青岛1米88大长腿交警回应走红",
@@ -441,6 +441,14 @@
       "onboard_time": 1687313132,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 805252,
+      "num": 547076,
+      "word": "我点的奶茶被领导捎了上来",
+      "onboard_time": 1687349014,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 802357,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594049,
+      "num": 594049,
+      "word": "庆余年导演说演员应该杜绝文盲",
+      "onboard_time": 1687344034,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 585955,
       "num": 585955,
       "word": "杨和苏 三冠王",
@@ -611,12 +627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 569445,
-      "num": 569445,
-      "word": "庆余年导演说演员应该杜绝文盲",
-      "onboard_time": 1687344034,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 553268,
+      "num": 553268,
+      "word": "LPL 暂停",
+      "onboard_time": 1687348173,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 543068,
@@ -624,6 +640,14 @@
       "word": "为什么大家都不爱穿船袜了",
       "onboard_time": 1687320758,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 542435,
+      "num": 542435,
+      "word": "为什么女生的衣服越做越短",
+      "onboard_time": 1687345056,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -657,6 +681,14 @@
       "onboard_time": 1687331856,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510249,
+      "num": 510249,
+      "word": "陈建斌的命也是命",
+      "onboard_time": 1687348535,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 502006,
@@ -729,6 +761,14 @@
       "onboard_time": 1687342595,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448728,
+      "num": 308827,
+      "word": "饿了么",
+      "onboard_time": 1687350693,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 448086,
@@ -931,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369875,
-      "num": 369875,
-      "word": "为什么女生的衣服越做越短",
-      "onboard_time": 1687345056,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 363460,
       "num": 236463,
       "word": "朋友圈发什么最让你反感",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1687313610,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339821,
+      "num": 339821,
+      "word": "四川一中考生查出874分7门满分",
+      "onboard_time": 1687348955,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 339789,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1687317275,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317689,
+      "num": 317689,
+      "word": "张萌这次演抓出轨",
+      "onboard_time": 1687350154,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 316838,
@@ -1211,6 +1259,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290489,
+      "num": 290489,
+      "word": "消失的她",
+      "onboard_time": 1687332636,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285965,
+      "num": 285965,
+      "word": "科目二我考了负725分",
+      "onboard_time": 1687350394,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283359,
       "num": 277807,
       "word": "赵露思桑稚梦回嫋嫋",
@@ -1291,6 +1355,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266685,
+      "num": 266685,
+      "word": "长春超市里含爸量好高",
+      "onboard_time": 1687349613,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265863,
+      "num": 263182,
+      "word": "丫丫有萌兰同款秋千",
+      "onboard_time": 1687347875,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263267,
+      "num": 263267,
+      "word": "端午节快乐",
+      "onboard_time": 1687350212,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261470,
       "num": 261470,
       "word": "防晒口罩是智商税吗",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1687329096,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257154,
+      "num": 257154,
+      "word": "邓亚萍拒绝158元一斤的车厘子",
+      "onboard_time": 1687350394,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 256889,
@@ -1371,6 +1467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248390,
+      "num": 248390,
+      "word": "徐明浩能有什么心事",
+      "onboard_time": 1687347334,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246465,
+      "num": 246465,
+      "word": "桑稚用刮皮刀切西瓜",
+      "onboard_time": 1687349494,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245021,
       "num": 245021,
       "word": "密室大逃脱",
@@ -1384,14 +1496,6 @@
       "word": "电影热烈夏至海报",
       "onboard_time": 1687316734,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 241330,
-      "num": 241330,
-      "word": "消失的她",
-      "onboard_time": 1687332636,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1483,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235091,
+      "num": 235091,
+      "word": "当我飞奔向你",
+      "onboard_time": 1687349254,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233215,
       "num": 189395,
       "word": "下班4小时都能做些什么",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1687316251,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230936,
+      "num": 230936,
+      "word": "BLG对战LNG",
+      "onboard_time": 1687349854,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 230685,
@@ -1609,6 +1729,14 @@
       "onboard_time": 1687321721,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209520,
+      "num": 209520,
+      "word": "第一次看到熊猫皱眉",
+      "onboard_time": 1687350513,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 206722,
@@ -1939,6 +2067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 163108,
+      "num": 181296,
+      "word": "段奕宏 要守护白玉兰的含金量",
+      "onboard_time": 1687347454,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161611,
       "num": 161611,
       "word": "我国个人住房贷款余额38.94万亿元",
@@ -2235,6 +2371,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 43192,
+      "num": 402605,
+      "word": "如果相遇有颜色",
+      "onboard_time": 1687348833,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41554,
       "num": 1376289,
       "word": "夏日中国尽显生态之美",
@@ -2267,7 +2411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5763,
+      "raw_hot": 7024,
       "num": 1117561,
       "word": "航拍中国感受盛夏之美",
       "onboard_time": 1687336300,
