@@ -1,0 +1,410 @@
+{
+  "runTime": 1687364519434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273408,
+        "num": 1273408,
+        "word": "自曝被性侵女子提醒女生谨慎独自出国",
+        "onboard_time": 1687353334,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749942,
+        "num": 749942,
+        "word": "科目二我考了负725分",
+        "onboard_time": 1687350394,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52417,
+        "num": 744977,
+        "word": "2022十大最美农村路",
+        "onboard_time": 1687359219,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400351,
+        "num": 739303,
+        "word": "深圳一女子洗澡时因触电身亡",
+        "onboard_time": 1687361256,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961193,
+        "num": 729723,
+        "word": "孙亦航",
+        "onboard_time": 1687357118,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 813027,
+        "num": 725518,
+        "word": "飞轮海当年人气排名",
+        "onboard_time": 1687360177,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720451,
+        "num": 720451,
+        "word": "任天堂",
+        "onboard_time": 1687358980,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 656767,
+        "num": 656767,
+        "word": "消失的她",
+        "onboard_time": 1687332636,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535236,
+        "num": 535236,
+        "word": "暑假太可怕了",
+        "onboard_time": 1687362933,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 507214,
+        "num": 507214,
+        "word": "清潭国际高中",
+        "onboard_time": 1687359874,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487821,
+        "num": 487821,
+        "word": "马里奥",
+        "onboard_time": 1687362098,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 461689,
+        "num": 461689,
+        "word": "长风渡开虐",
+        "onboard_time": 1687358677,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458840,
+        "num": 458840,
+        "word": "我只是gap了一年",
+        "onboard_time": 1687354056,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1830478,
+        "num": 457227,
+        "word": "炎亚纶带了6位工作人员1位保镖",
+        "onboard_time": 1687356456,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446355,
+        "num": 446355,
+        "word": "女生1次备7天菜下班5分钟吃上晚饭",
+        "onboard_time": 1687353693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400595,
+        "num": 400595,
+        "word": "邓亚萍拒绝158元一斤的车厘子",
+        "onboard_time": 1687350394,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389519,
+        "num": 389519,
+        "word": "zb1首日0中输",
+        "onboard_time": 1687363300,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384007,
+        "num": 384007,
+        "word": "怦然3男二坐铁锅里给女一道歉",
+        "onboard_time": 1687357537,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373946,
+        "num": 373946,
+        "word": "终极三国",
+        "onboard_time": 1687363172,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368700,
+        "num": 368700,
+        "word": "泰坦尼克号",
+        "onboard_time": 1687359219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938138,
+        "num": 347556,
+        "word": "怀孕和生产后可以领的三笔钱",
+        "onboard_time": 1687361256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550668,
+        "num": 345263,
+        "word": "炎亚纶心理素质",
+        "onboard_time": 1687362156,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377353,
+        "num": 334938,
+        "word": "这就是传说中的校草脸吧",
+        "onboard_time": 1687360714,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307737,
+        "num": 307737,
+        "word": "江浙沪已婚女士的共同点",
+        "onboard_time": 1687344994,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341845,
+        "num": 307579,
+        "word": "炎亚纶今日新歌活着没什么大不了",
+        "onboard_time": 1687339477,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304759,
+        "num": 304759,
+        "word": "四川大学称张某保研不违规",
+        "onboard_time": 1687337921,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 301406,
+        "num": 301406,
+        "word": "偷偷藏不住哥和哥哥的区别",
+        "onboard_time": 1687354416,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310184,
+        "num": 301311,
+        "word": "炎亚纶开始掉代言",
+        "onboard_time": 1687360416,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300065,
+        "num": 300065,
+        "word": "猫中仙女",
+        "onboard_time": 1687360357,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 294041,
+        "word": "54岁阿姨拍短视频全村催更",
+        "onboard_time": 1687360236,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291668,
+        "num": 291668,
+        "word": "倪妮说文咏珊让我整个人都麻了",
+        "onboard_time": 1687355495,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250981,
+        "num": 250981,
+        "word": "有两件事不好改回来了",
+        "onboard_time": 1687360117,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 248434,
+        "num": 248434,
+        "word": "泰坦号最大下潜深度1300米左右",
+        "onboard_time": 1687361735,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243832,
+        "num": 243832,
+        "word": "goingseventeen因制作问题延迟播出",
+        "onboard_time": 1687361556,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236429,
+        "num": 236429,
+        "word": "男子举报局长与其妻子有不正当关系",
+        "onboard_time": 1687351534,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233112,
+        "num": 233112,
+        "word": "马伯骞到底演戏还是说唱啊",
+        "onboard_time": 1687364072,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219387,
+        "num": 219387,
+        "word": "LPL 暂停",
+        "onboard_time": 1687348173,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212864,
+        "num": 212864,
+        "word": "种地吧 美丽浙江",
+        "onboard_time": 1687363712,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210524,
+        "num": 210524,
+        "word": "陈建斌的命也是命",
+        "onboard_time": 1687348535,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 209531,
+        "num": 209531,
+        "word": "因为一杯奶茶分手了",
+        "onboard_time": 1687351899,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 197109,
+        "word": "嵩山音乐节",
+        "onboard_time": 1687364252,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195480,
+        "num": 195480,
+        "word": "四川一中考生查出874分7门满分",
+        "onboard_time": 1687348955,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195453,
+        "num": 195453,
+        "word": "女子将农药倒入父亲止咳糖浆内被公诉",
+        "onboard_time": 1687354894,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190419,
+        "num": 190419,
+        "word": "公司裁员把HR裁崩溃了",
+        "onboard_time": 1687344994,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188920,
+        "num": 188920,
+        "word": "黄子韬多巴胺穿搭",
+        "onboard_time": 1687355679,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164481,
+        "num": 164481,
+        "word": "这群男人在干嘛啊",
+        "onboard_time": 1687358198,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164012,
+        "num": 164012,
+        "word": "赵露思屏幕里的陈哲远",
+        "onboard_time": 1687359818,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161215,
+        "num": 161215,
+        "word": "迪丽热巴的珍珠泪",
+        "onboard_time": 1687352795,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140687,
+        "num": 140687,
+        "word": "那一刻它好像也有自己的家了",
+        "onboard_time": 1687364252,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139376,
+        "num": 139376,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进中国大江澎湃#"
+    }
+  }
+}

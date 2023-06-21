@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687361633917,
+  "endTime": 1687364519434,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3963,6 +3963,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1400351,
+      "num": 739303,
+      "word": "深圳一女子洗澡时因触电身亡",
+      "onboard_time": 1687361256,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1400184,
       "num": 1400184,
       "word": "任豪求求了你们好好谈恋爱吧",
@@ -6100,7 +6108,7 @@
     },
     {
       "raw_hot": 1058095,
-      "num": 585761,
+      "num": 725518,
       "word": "飞轮海当年人气排名",
       "onboard_time": 1687360177,
       "rank": 10,
@@ -7041,6 +7049,14 @@
       "onboard_time": 1685769449,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 938138,
+      "num": 347556,
+      "word": "怀孕和生产后可以领的三笔钱",
+      "onboard_time": 1687361256,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938004,
@@ -9363,6 +9379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720451,
+      "num": 720451,
+      "word": "任天堂",
+      "onboard_time": 1687358980,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 720293,
       "num": 720293,
       "word": "王润泽和奶奶",
@@ -11555,6 +11579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 550668,
+      "num": 345263,
+      "word": "炎亚纶心理素质",
+      "onboard_time": 1687362156,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550399,
       "num": 550399,
       "word": "网友路上偶遇高考试卷押运车",
@@ -11801,6 +11833,14 @@
       "onboard_time": 1686115954,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535236,
+      "num": 535236,
+      "word": "暑假太可怕了",
+      "onboard_time": 1687362933,
+      "rank": 8,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 534577,
@@ -12363,14 +12403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499608,
-      "num": 499608,
-      "word": "任天堂",
-      "onboard_time": 1687358980,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 499342,
       "num": 413268,
       "word": "第一次看男朋友的浏览器",
@@ -12689,6 +12721,14 @@
       "onboard_time": 1687173938,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487821,
+      "num": 487821,
+      "word": "马里奥",
+      "onboard_time": 1687362098,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 487724,
@@ -15244,7 +15284,7 @@
     },
     {
       "raw_hot": 390149,
-      "num": 334208,
+      "num": 334938,
       "word": "这就是传说中的校草脸吧",
       "onboard_time": 1687360714,
       "rank": 25,
@@ -15281,6 +15321,14 @@
       "onboard_time": 1685790028,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389519,
+      "num": 389519,
+      "word": "zb1首日0中输",
+      "onboard_time": 1687363300,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 389182,
@@ -15787,6 +15835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373946,
+      "num": 373946,
+      "word": "终极三国",
+      "onboard_time": 1687363172,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373884,
       "num": 373884,
       "word": "突然摆烂的小熊猫",
@@ -16073,14 +16129,6 @@
       "onboard_time": 1687016789,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367289,
-      "num": 367289,
-      "word": "深圳一女子洗澡时因触电身亡",
-      "onboard_time": 1687361256,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367257,
@@ -20627,14 +20675,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 287858,
-      "num": 252082,
-      "word": "怀孕和生产后可以领的三笔钱",
-      "onboard_time": 1687361256,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287781,
       "num": 287781,
       "word": "我主动说去领证男朋友的反应",
@@ -24595,6 +24635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248434,
+      "num": 248434,
+      "word": "泰坦号最大下潜深度1300米左右",
+      "onboard_time": 1687361735,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248390,
       "num": 248390,
       "word": "徐明浩能有什么心事",
@@ -25089,6 +25137,14 @@
       "onboard_time": 1686741508,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243832,
+      "num": 243832,
+      "word": "goingseventeen因制作问题延迟播出",
+      "onboard_time": 1687361556,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 243817,
@@ -26435,6 +26491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233112,
+      "num": 233112,
+      "word": "马伯骞到底演戏还是说唱啊",
+      "onboard_time": 1687364072,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233069,
       "num": 193198,
       "word": "王源揭秘演唱会幕后",
@@ -27468,7 +27532,7 @@
     },
     {
       "raw_hot": 226031,
-      "num": 262424,
+      "num": 294041,
       "word": "54岁阿姨拍短视频全村催更",
       "onboard_time": 1687360236,
       "rank": 37,
@@ -29433,6 +29497,14 @@
       "onboard_time": 1687334018,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212864,
+      "num": 212864,
+      "word": "种地吧 美丽浙江",
+      "onboard_time": 1687363712,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 212737,
@@ -34641,14 +34713,6 @@
       "onboard_time": 1687147590,
       "rank": 39,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 184629,
-      "num": 184629,
-      "word": "goingseventeen因制作问题延迟播出",
-      "onboard_time": 1687361556,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 184605,
@@ -41689,6 +41753,14 @@
       "onboard_time": 1685689465,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140687,
+      "num": 140687,
+      "word": "那一刻它好像也有自己的家了",
+      "onboard_time": 1687364252,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 140676,
