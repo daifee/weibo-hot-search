@@ -1,0 +1,410 @@
+{
+  "runTime": 1687336412292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407291,
+        "num": 1407291,
+        "word": "白敬亭谈和宋轶合作",
+        "onboard_time": 1687328561,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1149863,
+        "num": 1149863,
+        "word": "谁提极乐净土肖战和谁急",
+        "onboard_time": 1687331796,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 5763,
+        "num": 1117561,
+        "word": "航拍中国感受盛夏之美",
+        "onboard_time": 1687336300,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103299,
+        "num": 1103299,
+        "word": "中国夫妇日本旅游抓683只寄居蟹被捕",
+        "onboard_time": 1687329696,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 707453,
+        "num": 707453,
+        "word": "女子对双眼皮手术不满意要求枪毙医生",
+        "onboard_time": 1687329335,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675185,
+        "num": 675185,
+        "word": "临死前身体会发生的100种奇怪反应",
+        "onboard_time": 1687331377,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 657462,
+        "num": 657462,
+        "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
+        "onboard_time": 1687320937,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571497,
+        "num": 571497,
+        "word": "全国现有吸毒人员112.4万",
+        "onboard_time": 1687324423,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549525,
+        "num": 549525,
+        "word": "青岛1米88大长腿交警回应走红",
+        "onboard_time": 1687326823,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532804,
+        "num": 532804,
+        "word": "偷偷藏不住作者才20岁",
+        "onboard_time": 1687314210,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2735576,
+        "num": 530606,
+        "word": "邱耀乐不接受炎亚纶道歉",
+        "onboard_time": 1687322744,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518822,
+        "num": 518822,
+        "word": "官方通报网传大学生涉嫌卖淫800次",
+        "onboard_time": 1687334676,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 426892,
+        "num": 426892,
+        "word": "肖战 蒙牛",
+        "onboard_time": 1687323045,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 423735,
+        "num": 423735,
+        "word": "杭州一男子在绿化带内迷路四天三夜",
+        "onboard_time": 1687331856,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64296,
+        "num": 404002,
+        "word": "女子抱幼子跳河民辅警舍命相救",
+        "onboard_time": 1687334497,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8213,
+        "num": 399040,
+        "word": "夏日中国尽显生态之美",
+        "onboard_time": 1687270775,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398436,
+        "num": 398436,
+        "word": "中山大学录取通知书内有云南普洱茶",
+        "onboard_time": 1687317213,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 398299,
+        "num": 398299,
+        "word": "赵露思的路人盘",
+        "onboard_time": 1687334018,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394193,
+        "num": 394193,
+        "word": "拜登儿子认罪",
+        "onboard_time": 1687335698,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389132,
+        "num": 389132,
+        "word": "邓超多巴胺穿搭",
+        "onboard_time": 1687330415,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2455386,
+        "num": 386728,
+        "word": "炎亚纶邱耀乐曾经的聊天记录",
+        "onboard_time": 1687331018,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1981471,
+        "num": 385095,
+        "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+        "onboard_time": 1687326161,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1554866,
+        "num": 380669,
+        "word": "炎亚纶竟然还化了妆",
+        "onboard_time": 1687334561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307987,
+        "num": 378523,
+        "word": "白敬亭无袖背影",
+        "onboard_time": 1687335576,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803556,
+        "num": 372948,
+        "word": "炎亚纶左耳钉的故事",
+        "onboard_time": 1687328497,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447228,
+        "num": 370739,
+        "word": "娜扎回复许凯",
+        "onboard_time": 1687335576,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436479,
+        "num": 367383,
+        "word": "妹妹公积金比我一个月工资还高",
+        "onboard_time": 1687305629,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364981,
+        "num": 364981,
+        "word": "NONO被曝性骚扰",
+        "onboard_time": 1687320877,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323089,
+        "num": 323089,
+        "word": "工资低的可以放心gap",
+        "onboard_time": 1687330835,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319757,
+        "num": 319757,
+        "word": "NONO宣布停止演艺工作",
+        "onboard_time": 1687335819,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385664,
+        "num": 315214,
+        "word": "张踩玲 我知道拿铁为什么不说英语了",
+        "onboard_time": 1687332821,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305036,
+        "num": 305036,
+        "word": "赵丽颖张碧晨合体上综艺",
+        "onboard_time": 1687319796,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271937,
+        "num": 271937,
+        "word": "林俊杰宋仲基合照",
+        "onboard_time": 1687334258,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246099,
+        "num": 246099,
+        "word": "萧煌奇摘墨镜自证",
+        "onboard_time": 1687326939,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237722,
+        "num": 237722,
+        "word": "大学生刚毕业vs上班一年后",
+        "onboard_time": 1687332998,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 241032,
+        "num": 234011,
+        "word": "杨幂开心但是很热",
+        "onboard_time": 1687331254,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229401,
+        "num": 229401,
+        "word": "饿了么免单",
+        "onboard_time": 1687317694,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214304,
+        "num": 214304,
+        "word": "黄明昊推开杨幂拥抱露西",
+        "onboard_time": 1687330957,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208544,
+        "num": 208544,
+        "word": "河北科技大学",
+        "onboard_time": 1687320633,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192666,
+        "num": 201896,
+        "word": "女孩吃转转火锅取一半再放回餐盘",
+        "onboard_time": 1687334018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211770,
+        "num": 201393,
+        "word": "王一博穿的居然是羽绒服",
+        "onboard_time": 1687323708,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200486,
+        "num": 200486,
+        "word": "李秀满成立个人新公司",
+        "onboard_time": 1687331377,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198341,
+        "num": 198341,
+        "word": "许凯娜扎新剧对我眼睛很友好",
+        "onboard_time": 1687335518,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187219,
+        "num": 187219,
+        "word": "白玉兰奖评委见面会",
+        "onboard_time": 1687330777,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179566,
+        "num": 179566,
+        "word": "EDG对战AL",
+        "onboard_time": 1687332579,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173809,
+        "num": 173809,
+        "word": "杨颖金靖是一个学校的",
+        "onboard_time": 1687308755,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172821,
+        "num": 172821,
+        "word": "女子房门被封事件堵门邻居已离世",
+        "onboard_time": 1687310194,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171852,
+        "num": 171852,
+        "word": "A股",
+        "onboard_time": 1687328320,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143746,
+        "num": 170987,
+        "word": "为什么大家都不爱穿船袜了",
+        "onboard_time": 1687320758,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143160,
+        "num": 168464,
+        "word": "江映蓉现身重庆一高校毕业典礼",
+        "onboard_time": 1687331074,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#三夏农忙正当时#"
+    }
+  }
+}
