@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687325626294,
+  "endTime": 1687328546693,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -128,6 +128,14 @@
       "word": "吴宗宪曝黄子佼曾要求女生脱衣验身",
       "onboard_time": 1687176519,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3450173,
+      "num": 779206,
+      "word": "耀乐明确拒绝炎亚纶拍摄私密影片",
+      "onboard_time": 1687326161,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -1163,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 872337,
+      "num": 872337,
+      "word": "青岛1米88大长腿交警回应走红",
+      "onboard_time": 1687326823,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868372,
       "num": 868372,
       "word": "沙溢胡可情头",
@@ -1280,6 +1296,14 @@
       "word": "官方回应公职人员吸毒被查后仍在岗",
       "onboard_time": 1687258053,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802357,
+      "num": 802357,
+      "word": "全国现有吸毒人员112.4万",
+      "onboard_time": 1687324423,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1505,6 +1529,14 @@
       "onboard_time": 1687221755,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 653164,
+      "num": 460119,
+      "word": "萧煌奇摘墨镜自证",
+      "onboard_time": 1687326939,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 649845,
@@ -2115,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 416509,
+      "num": 416509,
+      "word": "女孩毕设展陌生人添上3颗珍珠",
+      "onboard_time": 1687323167,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415898,
       "num": 332246,
       "word": "NewJeans新专辑GetUp",
@@ -2315,6 +2355,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 378373,
+      "num": 378373,
+      "word": "刘芮麟谈与肖战合作",
+      "onboard_time": 1687325800,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374278,
       "num": 374278,
       "word": "长风渡",
@@ -2337,6 +2385,14 @@
       "onboard_time": 1687251812,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371251,
+      "num": 371251,
+      "word": "惠英红向多位圈中好友说我爱你",
+      "onboard_time": 1687328145,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 370544,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1687192349,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347385,
+      "num": 285693,
+      "word": "林宥嘉演唱会抢票",
+      "onboard_time": 1687328019,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 347110,
@@ -2771,14 +2835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 309622,
-      "num": 309622,
-      "word": "全国现有吸毒人员112.4万",
-      "onboard_time": 1687324423,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309149,
       "num": 314063,
       "word": "西南大学校长呼吁外卖别随意给差评",
@@ -2865,14 +2921,6 @@
       "onboard_time": 1687263570,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 298860,
-      "num": 298860,
-      "word": "女孩毕设展陌生人添上3颗珍珠",
-      "onboard_time": 1687323167,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295646,
@@ -3411,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254279,
+      "num": 254279,
+      "word": "台娱真的好Drama",
+      "onboard_time": 1687328199,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253985,
       "num": 245791,
       "word": "防弹少年团今年全员入伍",
@@ -3491,6 +3547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249941,
+      "num": 249941,
+      "word": "折腰",
+      "onboard_time": 1687145789,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249770,
       "num": 249770,
       "word": "染头发染出凶案现场",
@@ -3553,6 +3617,14 @@
       "onboard_time": 1687222715,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 244837,
+      "num": 244837,
+      "word": "代号鸢",
+      "onboard_time": 1687323764,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 244382,
@@ -3875,14 +3947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230574,
-      "num": 184605,
-      "word": "折腰",
-      "onboard_time": 1687145789,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229971,
       "num": 229971,
       "word": "黄渤新片6岁儿子颜值",
@@ -3945,6 +4009,14 @@
       "onboard_time": 1687150532,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225603,
+      "num": 197963,
+      "word": "炎亚纶左耳钉的故事",
+      "onboard_time": 1687328497,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 223766,
@@ -4395,6 +4467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197429,
+      "num": 197429,
+      "word": "密室大逃脱",
+      "onboard_time": 1687327237,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197377,
       "num": 164665,
       "word": "鞠婧祎演我背课文",
@@ -4563,14 +4643,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 190088,
-      "num": 190088,
-      "word": "代号鸢",
-      "onboard_time": 1687323764,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "长风渡招商",
@@ -4657,6 +4729,14 @@
       "onboard_time": 1687234778,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185666,
+      "num": 185666,
+      "word": "张杰演唱会深圳长沙站官宣",
+      "onboard_time": 1687326636,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 185360,
@@ -5171,6 +5251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163685,
+      "num": 163685,
+      "word": "邻居家的猫太爱我了怎么办",
+      "onboard_time": 1687327179,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 163629,
       "num": 163629,
       "word": "是好朋友的周末定档",
@@ -5313,6 +5401,14 @@
       "onboard_time": 1687305329,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154206,
+      "num": 154206,
+      "word": "环卫工冒雨将市民10双鞋收到屋檐下",
+      "onboard_time": 1687328437,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154137,
@@ -5481,6 +5577,14 @@
       "onboard_time": 1687136549,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144597,
+      "num": 153286,
+      "word": "A股",
+      "onboard_time": 1687328320,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 144108,
@@ -6011,6 +6115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81512,
+      "num": 198177,
+      "word": "饿了么回应今日免单选啥都对",
+      "onboard_time": 1687327237,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 80527,
       "num": 80933,
       "word": "考古王菲以前的微博",
@@ -6283,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38354,
+      "num": 383571,
+      "word": "男生毕业礼和老师合影大秀肌肉",
+      "onboard_time": 1687327237,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37491,
       "num": 37491,
       "word": "NCTDREAM新歌空降",
@@ -6401,6 +6521,9 @@
     },
     {
       "word": "#试验二十五号卫星成功发射#"
+    },
+    {
+      "word": "#感知端午魅力传承爱国情怀#"
     }
   ]
 }
