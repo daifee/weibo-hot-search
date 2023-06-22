@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687440827989,
+  "endTime": 1687443325610,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -33,6 +33,14 @@
       "onboard_time": 1687389922,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2145867,
+      "num": 2145867,
+      "word": "辅导员弄丢毕业生学位证书",
+      "onboard_time": 1687440632,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2101352,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1427229,
-      "num": 1173392,
+      "num": 1332988,
       "word": "沙溢长风渡下线",
       "onboard_time": 1687437032,
       "rank": 26,
@@ -249,6 +257,14 @@
       "onboard_time": 1687389501,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1105129,
+      "num": 1105129,
+      "word": "顾然是知否里的小顾廷烨",
+      "onboard_time": 1687441714,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1103096,
@@ -371,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 896377,
+      "num": 896377,
+      "word": "张绍刚你好狠的心",
+      "onboard_time": 1687440931,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 886365,
       "num": 886365,
       "word": "北京大爷不想让孩子要孩子",
@@ -385,6 +409,14 @@
       "onboard_time": 1687406372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848758,
+      "num": 848758,
+      "word": "魏无羡好强",
+      "onboard_time": 1687441052,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 843888,
@@ -505,6 +537,14 @@
       "onboard_time": 1687362156,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719455,
+      "num": 719455,
+      "word": "赵丽颖黑色复古裙",
+      "onboard_time": 1687442313,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 712280,
@@ -747,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514908,
+      "num": 514908,
+      "word": "赵丽娜报名周星驰新电影",
+      "onboard_time": 1687439671,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 514863,
       "num": 514863,
       "word": "赵露思马伯骞直播也能吵起来",
@@ -761,6 +809,14 @@
       "onboard_time": 1687401513,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508504,
+      "num": 423298,
+      "word": "专家称银川烧烤店店员处理方式有问题",
+      "onboard_time": 1687438473,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507214,
@@ -883,12 +939,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452030,
+      "num": 316946,
+      "word": "张杰音乐节现场",
+      "onboard_time": 1687443214,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 441889,
       "num": 441889,
       "word": "古巨基采访王菲被鸟屎砸到头",
       "onboard_time": 1687394070,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439684,
+      "num": 357875,
+      "word": "陈哲远他好满意自己的rap",
+      "onboard_time": 1687439912,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439090,
+      "num": 340715,
+      "word": "虞书欣立体花朵黑裙造型",
+      "onboard_time": 1687440392,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 438637,
@@ -915,12 +995,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429793,
+      "num": 429793,
+      "word": "当你的百岁女友闹情绪了",
+      "onboard_time": 1687439191,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427661,
       "num": 427661,
       "word": "端午安康",
       "onboard_time": 1687388601,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418797,
+      "num": 316782,
+      "word": "果然还是中国人心疼中国人",
+      "onboard_time": 1687442377,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 406129,
@@ -931,28 +1027,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 402467,
-      "num": 402467,
-      "word": "专家称银川烧烤店店员处理方式有问题",
-      "onboard_time": 1687438473,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401264,
-      "num": 349343,
-      "word": "赵丽娜报名周星驰新电影",
-      "onboard_time": 1687439671,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 400595,
       "num": 400595,
       "word": "邓亚萍拒绝158元一斤的车厘子",
       "onboard_time": 1687350394,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399968,
+      "num": 331707,
+      "word": "长风渡导演看偷偷藏不住直播",
+      "onboard_time": 1687442675,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 399139,
@@ -985,14 +1073,6 @@
       "onboard_time": 1687404397,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 391047,
-      "num": 302108,
-      "word": "虞书欣立体花朵黑裙造型",
-      "onboard_time": 1687440392,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 390205,
@@ -1089,14 +1169,6 @@
       "onboard_time": 1687404514,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358191,
-      "num": 302048,
-      "word": "陈哲远他好满意自己的rap",
-      "onboard_time": 1687439912,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 357252,
@@ -1235,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311243,
-      "num": 311243,
-      "word": "当你的百岁女友闹情绪了",
-      "onboard_time": 1687439191,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 310890,
       "num": 310890,
       "word": "孙亦航拿抑郁症玩梗",
@@ -1369,6 +1433,14 @@
       "onboard_time": 1687355495,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289263,
+      "num": 316947,
+      "word": "奶奶每天遛狗遛八个小时",
+      "onboard_time": 1687441714,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 287621,
@@ -1531,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258379,
+      "num": 258379,
+      "word": "女子遭老公家暴倒地后被拖进电梯",
+      "onboard_time": 1687442973,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253499,
       "num": 253499,
       "word": "男子地铁上数次扇脸女子质问爱谁",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1687400850,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243984,
+      "num": 243984,
+      "word": "宁夏银川烧烤店爆炸",
+      "onboard_time": 1687441956,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243832,
@@ -1739,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222959,
+      "num": 222959,
+      "word": "流星",
+      "onboard_time": 1687443038,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222364,
       "num": 222364,
       "word": "为什么现在不流行非主流了",
@@ -1777,14 +1873,6 @@
       "onboard_time": 1687404334,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215260,
-      "num": 215260,
-      "word": "辅导员弄丢毕业生学位证书",
-      "onboard_time": 1687440632,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 213619,
@@ -1867,6 +1955,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 205907,
+      "num": 205907,
+      "word": "一个孕妇的深夜告白",
+      "onboard_time": 1687441235,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205591,
       "num": 205591,
       "word": "先有甜粽子还是先有咸粽子",
@@ -1904,6 +2000,14 @@
       "word": "银川一烧烤店燃气爆炸搜救出38人",
       "onboard_time": 1687399173,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204198,
+      "num": 204198,
+      "word": "如何看懂验光单",
+      "onboard_time": 1687442854,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2169,6 +2273,14 @@
       "onboard_time": 1687360236,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178800,
+      "num": 178800,
+      "word": "BKPP北京机场路透",
+      "onboard_time": 1687441652,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178325,
@@ -2547,7 +2659,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 90552,
+      "raw_hot": 93725,
       "num": 1807383,
       "word": "端午节习俗图鉴",
       "onboard_time": 1687438893,
@@ -2648,6 +2760,14 @@
       "word": "2022十大最美农村路",
       "onboard_time": 1687359219,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46109,
+      "num": 699618,
+      "word": "老师凌晨等来考生接连喜报激动欢呼",
+      "onboard_time": 1687442436,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
