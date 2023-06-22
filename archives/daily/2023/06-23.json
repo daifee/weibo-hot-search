@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687450910448,
+  "endTime": 1687451750947,
   "band_list": [
     {
       "raw_hot": 3697217,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1264869,
+      "num": 1264869,
+      "word": "氧气耗尽泰坦号内5人还有生还可能吗",
+      "onboard_time": 1687448971,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1092239,
       "num": 1092239,
       "word": "2023好声音导师官宣",
@@ -33,6 +41,14 @@
       "onboard_time": 1687422450,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 960865,
+      "num": 960865,
+      "word": "银川烧烤店爆炸事故伤者家属发声",
+      "onboard_time": 1687445077,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 941423,
@@ -51,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 908582,
-      "num": 908582,
-      "word": "银川烧烤店爆炸事故伤者家属发声",
-      "onboard_time": 1687445077,
-      "rank": 7,
+      "raw_hot": 681185,
+      "num": 681185,
+      "word": "专家称泰坦号或已断电进水",
+      "onboard_time": 1687449034,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692119,
-      "num": 692119,
-      "word": "氧气耗尽泰坦号内5人还有生还可能吗",
-      "onboard_time": 1687448971,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 638262,
+      "num": 638262,
+      "word": "辅导员弄丢毕业生学位证书",
+      "onboard_time": 1687440632,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 577850,
@@ -99,20 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 512310,
-      "num": 512310,
-      "word": "专家称泰坦号或已断电进水",
+      "raw_hot": 486010,
+      "num": 486010,
+      "word": "一见茹顾vs山峥海薇",
       "onboard_time": 1687449034,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486363,
-      "num": 486363,
-      "word": "辅导员弄丢毕业生学位证书",
-      "onboard_time": 1687440632,
-      "rank": 13,
-      "category": "社会新闻,教育"
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 430908,
@@ -131,11 +139,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 387376,
-      "num": 387376,
-      "word": "一见茹顾vs山峥海薇",
-      "onboard_time": 1687449034,
-      "rank": 16,
+      "raw_hot": 388541,
+      "num": 388541,
+      "word": "文咏珊好媚",
+      "onboard_time": 1687433251,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1687448013,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376759,
-      "num": 376759,
-      "word": "文咏珊好媚",
-      "onboard_time": 1687433251,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 355546,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321138,
+      "num": 321138,
+      "word": "甜馨10岁身高",
+      "onboard_time": 1687423712,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315816,
       "num": 315816,
       "word": "段嘉许KTV唱赵露思的歌",
@@ -195,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303749,
-      "num": 303749,
-      "word": "甜馨10岁身高",
-      "onboard_time": 1687423712,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 285123,
+      "num": 285123,
+      "word": "北京乃至京津冀地区怎么就热成了全国第一",
+      "onboard_time": 1687447115,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267208,
@@ -227,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257332,
-      "num": 257332,
-      "word": "北京乃至京津冀地区怎么就热成了全国第一",
-      "onboard_time": 1687447115,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241011,
       "num": 241011,
       "word": "魏无羡好强",
@@ -249,6 +249,14 @@
       "onboard_time": 1687439912,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233880,
+      "num": 208271,
+      "word": "当你的儿子正处于叛逆期时",
+      "onboard_time": 1687450348,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 220579,
@@ -339,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168310,
+      "num": 168310,
+      "word": "赵丽娜报名周星驰新电影",
+      "onboard_time": 1687439671,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164004,
       "num": 164004,
       "word": "白玉兰提名酒会",
@@ -363,22 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157802,
-      "num": 157802,
-      "word": "当你的儿子正处于叛逆期时",
-      "onboard_time": 1687450348,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 156631,
-      "num": 156631,
-      "word": "赵丽娜报名周星驰新电影",
-      "onboard_time": 1687439671,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154903,
       "num": 154903,
       "word": "赵露思马伯骞直播也能吵起来",
@@ -387,12 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123879,
+      "raw_hot": 135123,
       "num": 153814,
       "word": "EDG教练在干嘛",
       "onboard_time": 1687430550,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133605,
+      "num": 133605,
+      "word": "林志炫演唱会",
+      "onboard_time": 1687448971,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 60221,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对宁夏银川燃气爆炸事故作出重要指示#"
+    },
+    {
+      "word": "#古诗文里的端午习俗#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 00:21:50
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 00:35:50
 </p>
 </blockquote>
 <p>
@@ -3687,6 +3687,12 @@ EXO是我们公司非常珍惜的艺人（热度：1267506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23" target="weibo">
+氧气耗尽泰坦号内5人还有生还可能吗（热度：1264869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B2%A1%E8%80%83%E4%B8%8A%E5%86%9B%E8%89%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 孟子义没考上军艺的原因（热度：1264758）
 </a>
@@ -5445,6 +5451,12 @@ AI写高考作文（热度：992848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+银川烧烤店爆炸事故伤者家属发声（热度：960865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%B5%AA%E5%A7%90%E7%BB%93%E6%9D%9F%E5%90%8E%E5%8E%BBHEC%E4%B8%8A%E5%AD%A6%E4%BA%86%23" target="weibo">
 朱珠浪姐结束后去HEC上学了（热度：955866）
 </a>
@@ -5763,12 +5775,6 @@ Uzi4杀 RNG拿下比赛（热度：909059）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
-银川烧烤店爆炸事故伤者家属发声（热度：908582）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E5%8F%88%E5%90%88%E4%BD%93%E8%90%A5%E4%B8%9A%E4%BA%86%23" target="weibo">
 井柏然刘雯又合体营业了（热度：907427）
 </a>
@@ -6005,12 +6011,6 @@ WBG零封JDG（热度：888042）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%88%AB%E5%86%8D%E5%85%B3%E7%81%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23" target="weibo">
 真的别再关灯玩手机了（热度：876600）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
-27岁游戏主播抗癌半年后去世（热度：875800）
 </a>
 </li>
 
