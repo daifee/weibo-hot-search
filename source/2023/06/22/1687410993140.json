@@ -1,0 +1,410 @@
+{
+  "runTime": 1687410993140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6336616,
+        "num": 6336616,
+        "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+        "onboard_time": 1687398511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227330,
+        "num": 1227330,
+        "word": "无穷小亮 有个事挺瘆得慌",
+        "onboard_time": 1687402653,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134987,
+        "num": 1177148,
+        "word": "赛龙舟不只是一群人一起划划船",
+        "onboard_time": 1687407753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164296,
+        "num": 1164296,
+        "word": "猴痘",
+        "onboard_time": 1687406612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865260,
+        "num": 865260,
+        "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+        "onboard_time": 1687406372,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801949,
+        "num": 801949,
+        "word": "曾黎见到老同学狂奔5米合照",
+        "onboard_time": 1687406734,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720412,
+        "num": 720412,
+        "word": "倪妮 文咏珊",
+        "onboard_time": 1687408834,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683494,
+        "num": 683494,
+        "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+        "onboard_time": 1687406672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671947,
+        "num": 671947,
+        "word": "福布斯称Jennie有资格获艾美奖",
+        "onboard_time": 1687406017,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657439,
+        "num": 657439,
+        "word": "马伯骞你是真的火了",
+        "onboard_time": 1687401693,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1586025,
+        "num": 650749,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 860448,
+        "num": 596849,
+        "word": "内马尔为孕期出轨道歉",
+        "onboard_time": 1687389922,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 529326,
+        "num": 529326,
+        "word": "消失的她有多敢拍",
+        "onboard_time": 1687408957,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440176,
+        "num": 440176,
+        "word": "张艺兴送粽子到蘑菇屋",
+        "onboard_time": 1687410575,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19236,
+        "num": 398521,
+        "word": "万物皆可粽子",
+        "onboard_time": 1687410034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395021,
+        "num": 395021,
+        "word": "公司要倒闭的几个征兆",
+        "onboard_time": 1687409314,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392755,
+        "num": 392755,
+        "word": "目击者讲述银川烧烤店爆炸",
+        "onboard_time": 1687403071,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350999,
+        "num": 350999,
+        "word": "千万别在下午和晚上买机票",
+        "onboard_time": 1687393108,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348070,
+        "num": 348070,
+        "word": "银川烧烤店爆炸事故9名责任人被控制",
+        "onboard_time": 1687408174,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339616,
+        "num": 339616,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533899,
+        "num": 339595,
+        "word": "瘦子被控性侵",
+        "onboard_time": 1687389501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339550,
+        "num": 339550,
+        "word": "斯玛特",
+        "onboard_time": 1687408294,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317938,
+        "num": 317938,
+        "word": "在妈妈坟前跳舞小女孩患有心脏病",
+        "onboard_time": 1687404035,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 313165,
+        "num": 313165,
+        "word": "为什么猫喜欢把屁股对着人",
+        "onboard_time": 1687403614,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291725,
+        "num": 291725,
+        "word": "为什么大家都不再发朋友圈了",
+        "onboard_time": 1687402174,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288610,
+        "num": 288610,
+        "word": "已婚人士有哪些建议给未婚人士",
+        "onboard_time": 1687404397,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277617,
+        "num": 277617,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275010,
+        "num": 275010,
+        "word": "赵露思失恋戏",
+        "onboard_time": 1687409492,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265687,
+        "num": 265687,
+        "word": "北京大爷不想让孩子要孩子",
+        "onboard_time": 1687388899,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264296,
+        "num": 264296,
+        "word": "李白到底有多有钱",
+        "onboard_time": 1687408233,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442878,
+        "num": 262920,
+        "word": "手机号实名制已经10年了",
+        "onboard_time": 1687409734,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250527,
+        "num": 250527,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 246513,
+        "num": 246513,
+        "word": "杨紫端午晒粽子",
+        "onboard_time": 1687410514,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244890,
+        "num": 244890,
+        "word": "徐明浩手机里的自己",
+        "onboard_time": 1687408414,
+        "rank": 33,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 243049,
+        "num": 243049,
+        "word": "广东人为什么普遍都很瘦",
+        "onboard_time": 1687399594,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242939,
+        "num": 242939,
+        "word": "在公司穿短裤被同事投诉了",
+        "onboard_time": 1687403372,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229178,
+        "num": 229178,
+        "word": "刘芸自制端午花束",
+        "onboard_time": 1687409853,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204065,
+        "num": 204065,
+        "word": "菌群不一样真的会变丑吗",
+        "onboard_time": 1687408593,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203587,
+        "num": 203587,
+        "word": "消失的她豆瓣开分7.5分",
+        "onboard_time": 1687409555,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201732,
+        "num": 201732,
+        "word": "凯尔特人",
+        "onboard_time": 1687410575,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193555,
+        "num": 193555,
+        "word": "吴磊赵今麦端午祝福",
+        "onboard_time": 1687408414,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193284,
+        "num": 193284,
+        "word": "Angelababy七年前vs七年后",
+        "onboard_time": 1687388840,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191731,
+        "num": 191731,
+        "word": "真的很容易对这样的人有好感",
+        "onboard_time": 1687409675,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189998,
+        "num": 189998,
+        "word": "做勇敢的树开希望的花",
+        "onboard_time": 1687410692,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188367,
+        "num": 188367,
+        "word": "白敬亭的身没白健",
+        "onboard_time": 1687404334,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185317,
+        "num": 185317,
+        "word": "EXO新专K4预售突破50万张",
+        "onboard_time": 1687406433,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185021,
+        "num": 185021,
+        "word": "30个同学聚餐让每人出1000元",
+        "onboard_time": 1687393468,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178064,
+        "num": 178064,
+        "word": "段嘉许毕业",
+        "onboard_time": 1687409615,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175293,
+        "num": 175293,
+        "word": "终于知道为什么不让小动物说话了",
+        "onboard_time": 1687405114,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167728,
+        "num": 167728,
+        "word": "5岁时的韩安冉",
+        "onboard_time": 1687396051,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#三夏农忙正当时#"
+    }
+  }
+}
