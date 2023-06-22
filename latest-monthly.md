@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 11:17:52
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 11:34:03
 </p>
 </blockquote>
 <p>
@@ -165,6 +165,12 @@ TFBOYS十年之约演唱会官宣（热度：10053896）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
+银川烧烤店爆炸事故31人经抢救无效死亡（热度：7398770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%BA%A7%23" target="weibo">
 四级（热度：7308190）
 </a>
@@ -173,12 +179,6 @@ TFBOYS十年之约演唱会官宣（热度：10053896）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6Uzi%23" target="weibo">
 EDG官宣签约Uzi（热度：6842168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8531%E4%BA%BA%E7%BB%8F%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
-银川烧烤店爆炸事故31人经抢救无效死亡（热度：6740613）
 </a>
 </li>
 
@@ -4497,6 +4497,12 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23" target="weibo">
+千万别在下午和晚上买机票（热度：1085969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E4%BC%99%E7%9B%97%E5%A2%93%E6%8C%96%E5%87%BA%E9%BE%99%E8%A2%8D%E7%BD%91%E4%B8%8A%E5%94%AE%E5%8D%96%23" target="weibo">
 团伙盗墓挖出龙袍网上售卖（热度：1083023）
 </a>
@@ -4775,12 +4781,6 @@ TFBOYS十周年演唱会招商PPT（热度：1035564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B0%86%E8%B5%94%E5%81%BF%E6%AC%BE%E5%85%A8%E9%A2%9D%E6%8D%90%E5%87%BA%23" target="weibo">
 江歌妈妈将赔偿款全额捐出（热度：1031231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%9C%A8%E4%B8%8B%E5%8D%88%E5%92%8C%E6%99%9A%E4%B8%8A%E4%B9%B0%E6%9C%BA%E7%A5%A8%23" target="weibo">
-千万别在下午和晚上买机票（热度：1030684）
 </a>
 </li>
 
@@ -5595,6 +5595,12 @@ SEVENTEEN要来广州开签售会（热度：903926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C%23" target="weibo">
+无穷小亮 有个事挺瘆得慌（热度：903454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E6%B2%A1%E6%9C%89%E5%AE%8B%E9%9B%A8%E7%90%A6%23" target="weibo">
 跑男最后一期录制没有宋雨琦（热度：901983）
 </a>
@@ -6005,12 +6011,6 @@ THE9演唱会（热度：851473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%BE%E6%BE%84%E5%BA%86%E9%A2%91%E7%B9%81%E5%9C%A8%E7%BA%BF%23" target="weibo">
 庾澄庆频繁在线（热度：846686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23leave%E5%A5%B3%E5%8F%8B%E5%8F%91%E6%96%87%23" target="weibo">
-leave女友发文（热度：844861）
 </a>
 </li>
 

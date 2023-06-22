@@ -1,10 +1,10 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687403872525,
+  "endTime": 1687404843730,
   "band_list": [
     {
-      "raw_hot": 6740613,
-      "num": 7990613,
+      "raw_hot": 7398770,
+      "num": 8648770,
       "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
       "onboard_time": 1687398511,
       "rank": 0,
@@ -91,8 +91,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 1030684,
-      "num": 1030684,
+      "raw_hot": 1085969,
+      "num": 1085969,
       "word": "千万别在下午和晚上买机票",
       "onboard_time": 1687393108,
       "rank": 6,
@@ -121,6 +121,14 @@
       "onboard_time": 1687361256,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903454,
+      "num": 239376,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 886365,
@@ -163,14 +171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 721156,
-      "num": 239376,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 720451,
       "num": 720451,
       "word": "任天堂",
@@ -187,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 658759,
-      "num": 658759,
+      "raw_hot": 672647,
+      "num": 672647,
       "word": "为什么大家都不再发朋友圈了",
       "onboard_time": 1687402174,
       "rank": 28,
@@ -200,6 +200,14 @@
       "word": "消失的她",
       "onboard_time": 1687332636,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 654794,
+      "num": 654794,
+      "word": "马伯骞你是真的火了",
+      "onboard_time": 1687401693,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -307,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489272,
+      "num": 453227,
+      "word": "目击者讲述银川烧烤店爆炸",
+      "onboard_time": 1687403071,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482953,
+      "num": 450729,
+      "word": "为什么猫喜欢把屁股对着人",
+      "onboard_time": 1687403614,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 461689,
       "num": 461689,
       "word": "长风渡开虐",
@@ -320,6 +344,14 @@
       "word": "我只是gap了一年",
       "onboard_time": 1687354056,
       "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 457103,
+      "num": 449310,
+      "word": "在公司穿短裤被同事投诉了",
+      "onboard_time": 1687403372,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -361,14 +393,6 @@
       "onboard_time": 1687357537,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382147,
-      "num": 309197,
-      "word": "马伯骞你是真的火了",
-      "onboard_time": 1687401693,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 377353,
@@ -419,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358927,
+      "num": 227733,
+      "word": "猫工们有序的忙碌着",
+      "onboard_time": 1687404514,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349904,
       "num": 307022,
       "word": "不要轻易和女友玩撞蛋",
@@ -433,14 +465,6 @@
       "onboard_time": 1687339477,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 313399,
-      "num": 313399,
-      "word": "目击者讲述银川烧烤店爆炸",
-      "onboard_time": 1687403071,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310890,
@@ -467,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 307031,
-      "num": 307031,
-      "word": "在公司穿短裤被同事投诉了",
-      "onboard_time": 1687403372,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 304759,
       "num": 304759,
       "word": "四川大学称张某保研不违规",
@@ -489,6 +505,14 @@
       "onboard_time": 1687389501,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302575,
+      "num": 302575,
+      "word": "联合工作组赶赴宁夏银川指导救援",
+      "onboard_time": 1687403854,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301406,
@@ -523,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281675,
-      "num": 281675,
-      "word": "为什么猫喜欢把屁股对着人",
-      "onboard_time": 1687403614,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 287191,
+      "num": 287191,
+      "word": "在妈妈坟前跳舞小女孩患有心脏病",
+      "onboard_time": 1687404035,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 272904,
@@ -659,6 +683,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222364,
+      "num": 222364,
+      "word": "为什么现在不流行非主流了",
+      "onboard_time": 1687400914,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 221118,
+      "num": 221118,
+      "word": "已婚人士有哪些建议给未婚人士",
+      "onboard_time": 1687404397,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219595,
       "num": 219595,
       "word": "端午假期第一天",
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211648,
-      "num": 211648,
-      "word": "为什么现在不流行非主流了",
-      "onboard_time": 1687400914,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210524,
       "num": 210524,
       "word": "陈建斌的命也是命",
@@ -705,6 +737,14 @@
       "onboard_time": 1687351899,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 205591,
+      "num": 205591,
+      "word": "先有甜粽子还是先有咸粽子",
+      "onboard_time": 1687404096,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 204420,
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174403,
+      "num": 174403,
+      "word": "白敬亭的身没白健",
+      "onboard_time": 1687404334,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174377,
       "num": 174377,
       "word": "虞书欣巴黎探店路透",
@@ -865,6 +913,14 @@
       "onboard_time": 1687400434,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 166590,
+      "num": 166590,
+      "word": "忽而天晓鸟鸣来 今日方知我是我",
+      "onboard_time": 1687404693,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 164481,
@@ -984,14 +1040,6 @@
       "word": "赛龙舟原来这么燃",
       "onboard_time": 1687359035,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138537,
-      "num": 138537,
-      "word": "联合工作组赶赴宁夏银川指导救援",
-      "onboard_time": 1687403854,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

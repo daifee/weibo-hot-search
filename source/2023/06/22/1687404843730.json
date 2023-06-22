@@ -1,0 +1,410 @@
+{
+  "runTime": 1687404843730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7398770,
+        "num": 8648770,
+        "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+        "onboard_time": 1687398511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115590,
+        "num": 1115590,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 1095328,
+        "word": "赛龙舟原来这么燃",
+        "onboard_time": 1687359035,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085969,
+        "num": 1085969,
+        "word": "千万别在下午和晚上买机票",
+        "onboard_time": 1687393108,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 973018,
+        "num": 973018,
+        "word": "5岁时的韩安冉",
+        "onboard_time": 1687396051,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 735183,
+        "num": 735183,
+        "word": "广东人为什么普遍都很瘦",
+        "onboard_time": 1687399594,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 672647,
+        "num": 672647,
+        "word": "为什么大家都不再发朋友圈了",
+        "onboard_time": 1687402174,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 654794,
+        "num": 654794,
+        "word": "马伯骞你是真的火了",
+        "onboard_time": 1687401693,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456766,
+        "num": 456766,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455350,
+        "num": 455350,
+        "word": "十个勤天",
+        "onboard_time": 1687399954,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1572956,
+        "num": 454200,
+        "word": "内马尔为孕期出轨道歉",
+        "onboard_time": 1687389922,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 489272,
+        "num": 453227,
+        "word": "目击者讲述银川烧烤店爆炸",
+        "onboard_time": 1687403071,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482953,
+        "num": 450729,
+        "word": "为什么猫喜欢把屁股对着人",
+        "onboard_time": 1687403614,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457103,
+        "num": 449310,
+        "word": "在公司穿短裤被同事投诉了",
+        "onboard_time": 1687403372,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 448985,
+        "num": 448985,
+        "word": "北京大爷不想让孩子要孩子",
+        "onboard_time": 1687388899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437811,
+        "num": 437811,
+        "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
+        "onboard_time": 1687401513,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354238,
+        "num": 354238,
+        "word": "Angelababy七年前vs七年后",
+        "onboard_time": 1687388840,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339683,
+        "num": 339683,
+        "word": "内蒙古的简称是什么",
+        "onboard_time": 1687391606,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319814,
+        "num": 319814,
+        "word": "端午节",
+        "onboard_time": 1687388720,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302575,
+        "num": 302575,
+        "word": "联合工作组赶赴宁夏银川指导救援",
+        "onboard_time": 1687403854,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619186,
+        "num": 302425,
+        "word": "瘦子被控性侵",
+        "onboard_time": 1687389501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303426,
+        "num": 297423,
+        "word": "30个同学聚餐让每人出1000元",
+        "onboard_time": 1687393468,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289375,
+        "num": 289375,
+        "word": "女生1次备7天菜下班5分钟吃上晚饭",
+        "onboard_time": 1687353693,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287191,
+        "num": 287191,
+        "word": "在妈妈坟前跳舞小女孩患有心脏病",
+        "onboard_time": 1687404035,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 276899,
+        "num": 276899,
+        "word": "端午安康",
+        "onboard_time": 1687388601,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265222,
+        "num": 265222,
+        "word": "夫妻江中不幸溺亡女儿岸边哭喊求救",
+        "onboard_time": 1687392629,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258270,
+        "num": 258270,
+        "word": "川大对张某的调查显得失焦且碎片化",
+        "onboard_time": 1687365092,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251187,
+        "num": 251187,
+        "word": "宋雨琦粉色挂脖吊带",
+        "onboard_time": 1687402471,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246975,
+        "num": 246975,
+        "word": "内娱男明星是靠什么起家的",
+        "onboard_time": 1687393530,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231313,
+        "num": 231313,
+        "word": "你能接受端午1天假调休凑3天吗",
+        "onboard_time": 1687396232,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903454,
+        "num": 228262,
+        "word": "无穷小亮 有个事挺瘆得慌",
+        "onboard_time": 1687402653,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358927,
+        "num": 227733,
+        "word": "猫工们有序的忙碌着",
+        "onboard_time": 1687404514,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225079,
+        "num": 225079,
+        "word": "深圳一女子洗澡时因触电身亡",
+        "onboard_time": 1687361256,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224499,
+        "num": 224499,
+        "word": "塞尔达传说王国之泪服装",
+        "onboard_time": 1687400434,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222364,
+        "num": 222364,
+        "word": "为什么现在不流行非主流了",
+        "onboard_time": 1687400914,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221118,
+        "num": 221118,
+        "word": "已婚人士有哪些建议给未婚人士",
+        "onboard_time": 1687404397,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210008,
+        "num": 210008,
+        "word": "朱一龙执意要求第一站选武汉",
+        "onboard_time": 1687397672,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207736,
+        "num": 207736,
+        "word": "炎亚纶用的什么粉底液",
+        "onboard_time": 1687389501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206807,
+        "num": 206807,
+        "word": "古巨基采访王菲被鸟屎砸到头",
+        "onboard_time": 1687394070,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205591,
+        "num": 205591,
+        "word": "先有甜粽子还是先有咸粽子",
+        "onboard_time": 1687404096,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203597,
+        "num": 203597,
+        "word": "杨颖金靖被透明观光廊吓到走不动",
+        "onboard_time": 1687400434,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192820,
+        "num": 192820,
+        "word": "银川一烧烤店燃气爆炸搜救出38人",
+        "onboard_time": 1687399173,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175356,
+        "num": 175356,
+        "word": "种地吧 美丽浙江",
+        "onboard_time": 1687363712,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174403,
+        "num": 174403,
+        "word": "白敬亭的身没白健",
+        "onboard_time": 1687404334,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174063,
+        "num": 174063,
+        "word": "NBA交易",
+        "onboard_time": 1687396111,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171561,
+        "num": 171561,
+        "word": "过上了小说里的生活",
+        "onboard_time": 1687400850,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168708,
+        "num": 168708,
+        "word": "自曝被性侵女子提醒女生谨慎独自出国",
+        "onboard_time": 1687353334,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166590,
+        "num": 166590,
+        "word": "忽而天晓鸟鸣来 今日方知我是我",
+        "onboard_time": 1687404693,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164474,
+        "num": 164474,
+        "word": "怀孕和生产后可以领的三笔钱",
+        "onboard_time": 1687361256,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153332,
+        "num": 153332,
+        "word": "大麦网回应拒退音乐节门票",
+        "onboard_time": 1687394851,
+        "rank": 49,
+        "category": "社会新闻,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#感知端午魅力传承爱国情怀#"
+    }
+  }
+}
