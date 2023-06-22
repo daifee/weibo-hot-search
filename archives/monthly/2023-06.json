@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687458074667,
+  "endTime": 1687458844484,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -52665,6 +52665,14 @@
       "onboard_time": 1686394850,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28952,
+      "num": 47757,
+      "word": "银川多家餐饮店使用液化气罐",
+      "onboard_time": 1687458496,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28906,
