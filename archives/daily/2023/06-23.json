@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687454095955,
+  "endTime": 1687455205596,
   "band_list": [
     {
       "raw_hot": 3697217,
@@ -403,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76989,
+      "num": 76989,
+      "word": "张陆让 你小子真的很会",
+      "onboard_time": 1687454421,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 76900,
       "num": 76900,
       "word": "意外的收获",
@@ -419,7 +427,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16180,
+      "raw_hot": 51388,
+      "num": 76632,
+      "word": "这熊有点虎 这虎有点熊",
+      "onboard_time": 1687454900,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22538,
       "num": 1119410,
       "word": "龙舟漂移有多酷炫",
       "onboard_time": 1687438711,
