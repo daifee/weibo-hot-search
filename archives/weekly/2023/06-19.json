@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687432456319,
+  "endTime": 1687433631788,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -859,6 +859,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1471591,
+      "num": 1267419,
+      "word": "宋雨琦原来是SM家族粉",
+      "onboard_time": 1687430610,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1465892,
       "num": 1173394,
       "word": "河北科技大学通报学生跳楼身亡",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1687314987,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1267419,
-      "num": 1267419,
-      "word": "宋雨琦原来是SM家族粉",
-      "onboard_time": 1687430610,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 1263592,
@@ -1275,6 +1275,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1089578,
+      "num": 1089578,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1087631,
       "num": 408122,
       "word": "炎亚纶今日新歌活着没什么大不了",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1687335698,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1016486,
-      "num": 1016486,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1009559,
@@ -1619,6 +1619,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 909059,
+      "num": 909059,
+      "word": "Uzi4杀 RNG拿下比赛",
+      "onboard_time": 1687432294,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 906409,
       "num": 906409,
       "word": "布林肯",
@@ -1755,12 +1763,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 843888,
+      "num": 843888,
+      "word": "RNG零封EDG",
+      "onboard_time": 1687432111,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 843847,
       "num": 717646,
       "word": "蟑螂飞到耳朵里还咬出血",
       "onboard_time": 1687159425,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 840073,
+      "num": 840073,
+      "word": "伊能静晒儿子女儿合照",
+      "onboard_time": 1687432050,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 838407,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1687253074,
       "rank": 45,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 821883,
+      "num": 821883,
+      "word": "15岁女生答72岁复旦教授",
+      "onboard_time": 1687422930,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 820397,
@@ -2027,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 736621,
-      "num": 736621,
-      "word": "15岁女生答72岁复旦教授",
-      "onboard_time": 1687422930,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 735888,
       "num": 735888,
       "word": "庆余年2官宣毛晓彤",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1687308755,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 683798,
+      "num": 683798,
+      "word": "马伯庸 别人发端午安康我回复端午快乐",
+      "onboard_time": 1687432294,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 683770,
@@ -2508,7 +2540,7 @@
     },
     {
       "raw_hot": 568847,
-      "num": 415028,
+      "num": 425995,
       "word": "合同到期的前两天我怀孕了",
       "onboard_time": 1687426891,
       "rank": 20,
@@ -2811,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505865,
+      "num": 505865,
+      "word": "换个人吻就算工伤",
+      "onboard_time": 1687431634,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505061,
       "num": 514133,
       "word": "布林肯访华",
@@ -3011,6 +3051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459784,
+      "num": 459784,
+      "word": "粽子",
+      "onboard_time": 1687270355,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459489,
       "num": 459489,
       "word": "迪丽热巴的珍珠泪",
@@ -3131,14 +3179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441706,
-      "num": 441706,
-      "word": "RNG零封EDG",
-      "onboard_time": 1687432111,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 441090,
       "num": 441090,
       "word": "崔秀彬ins",
@@ -3153,6 +3193,14 @@
       "onboard_time": 1687310612,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438637,
+      "num": 1458184,
+      "word": "西湖边卖花姑娘回应意外走红",
+      "onboard_time": 1687431212,
+      "rank": 6,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 437163,
@@ -3217,6 +3265,22 @@
       "onboard_time": 1687423292,
       "rank": 20,
       "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 431815,
+      "num": 431815,
+      "word": "偷偷藏不住小分队团建",
+      "onboard_time": 1687432891,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 431764,
+      "num": 431764,
+      "word": "女子连生6女被要求生子想离婚遭驳回",
+      "onboard_time": 1687431992,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428487,
@@ -3555,6 +3619,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 390205,
+      "num": 390205,
+      "word": "男子让狗舔舐伤口消毒",
+      "onboard_time": 1687430550,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390149,
       "num": 334938,
       "word": "这就是传说中的校草脸吧",
@@ -3787,14 +3859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360470,
-      "num": 360470,
-      "word": "伊能静晒儿子女儿合照",
-      "onboard_time": 1687432050,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360060,
       "num": 360060,
       "word": "北京高温",
@@ -3849,14 +3913,6 @@
       "onboard_time": 1687304847,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356511,
-      "num": 356511,
-      "word": "男子让狗舔舐伤口消毒",
-      "onboard_time": 1687430550,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355174,
@@ -4211,14 +4267,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 326824,
-      "num": 1418517,
-      "word": "西湖边卖花姑娘回应意外走红",
-      "onboard_time": 1687431212,
-      "rank": 6,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 324823,
       "num": 286356,
       "word": "白敬亭宋轶对戏氛围感",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1687238914,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 323647,
+      "num": 296641,
+      "word": "文咏珊好媚",
+      "onboard_time": 1687433251,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 321990,
@@ -4617,14 +4673,6 @@
       "onboard_time": 1687337197,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295034,
-      "num": 295034,
-      "word": "换个人吻就算工伤",
-      "onboard_time": 1687431634,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 294732,
@@ -5403,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256175,
-      "num": 256175,
-      "word": "女子连生6女被要求生子想离婚遭驳回",
-      "onboard_time": 1687431992,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256159,
       "num": 256159,
       "word": "倪妮的珍珠首饰",
@@ -5441,14 +5481,6 @@
       "onboard_time": 1687237237,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254422,
-      "num": 254422,
-      "word": "马伯庸 别人发端午安康我回复端午快乐",
-      "onboard_time": 1687432294,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 254401,
@@ -5563,6 +5595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 250207,
+      "num": 250207,
+      "word": "RNG战胜EDG",
+      "onboard_time": 1687433191,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249941,
       "num": 249941,
       "word": "折腰",
@@ -5577,14 +5617,6 @@
       "onboard_time": 1687271014,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 249564,
-      "num": 249564,
-      "word": "Uzi4杀 RNG拿下比赛",
-      "onboard_time": 1687432294,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 249497,
@@ -6153,14 +6185,6 @@
       "onboard_time": 1687084588,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229461,
-      "num": 229461,
-      "word": "粽子",
-      "onboard_time": 1687270355,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229178,
@@ -7107,6 +7131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196777,
+      "num": 196777,
+      "word": "jiejie打野",
+      "onboard_time": 1687433373,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196731,
       "num": 183553,
       "word": "白敬亭没接住棍子的反应",
@@ -7275,6 +7307,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 191351,
+      "num": 191351,
+      "word": "白鹿周深魏大勋组合名",
+      "onboard_time": 1687430132,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "中美外长会谈结束",
@@ -7409,14 +7449,6 @@
       "onboard_time": 1687266331,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187738,
-      "num": 187738,
-      "word": "白鹿周深魏大勋组合名",
-      "onboard_time": 1687430132,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 187726,
@@ -7688,6 +7720,14 @@
       "word": "北京的云像漫画",
       "onboard_time": 1687258352,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176713,
+      "num": 176713,
+      "word": "中工网评宁夏银川烧烤店爆炸事故",
+      "onboard_time": 1687432768,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -9707,6 +9747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41526,
+      "num": 829022,
+      "word": "女子打车给消防送粽子西瓜消暑过节",
+      "onboard_time": 1687431634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39194,
       "num": 1927446,
       "word": "高质量发展调研行",
@@ -9815,14 +9863,6 @@
       "num": 453175,
       "word": "万物皆可粽子",
       "onboard_time": 1687410034,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18904,
-      "num": 744424,
-      "word": "女子打车给消防送粽子西瓜消暑过节",
-      "onboard_time": 1687431634,
       "rank": 14,
       "category": "社会新闻"
     },
