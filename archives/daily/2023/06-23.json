@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687476026515,
+  "endTime": 1687476867662,
   "band_list": [
     {
       "raw_hot": 3697217,
@@ -203,11 +203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309552,
+      "num": 309552,
+      "word": "保罗被交易至勇士",
+      "onboard_time": 1687476079,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285123,
       "num": 285123,
       "word": "北京乃至京津冀地区怎么就热成了全国第一",
       "onboard_time": 1687447115,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269026,
+      "num": 269026,
+      "word": "泰坦号",
+      "onboard_time": 1687475599,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -267,12 +283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205606,
-      "num": 205606,
-      "word": "泰坦号",
-      "onboard_time": 1687475599,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 213139,
+      "num": 144231,
+      "word": "普尔保罗互换东家",
+      "onboard_time": 1687476561,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 205010,
@@ -347,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176883,
+      "num": 139262,
+      "word": "江苏明确电力紧张时酒店超市等空调不应低于27度",
+      "onboard_time": 1687474937,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170288,
       "num": 170288,
       "word": "蛋糕师接了一个硬活",
@@ -387,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155473,
+      "num": 137831,
+      "word": "MOMO",
+      "onboard_time": 1687475119,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154903,
       "num": 154903,
       "word": "赵露思马伯骞直播也能吵起来",
@@ -411,28 +443,44 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113570,
-      "num": 113570,
-      "word": "MOMO",
-      "onboard_time": 1687475119,
-      "rank": 23,
+      "raw_hot": 115907,
+      "num": 115907,
+      "word": "蔡徐坤在车内摘口罩送飞吻",
+      "onboard_time": 1687476441,
+      "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 87243,
-      "num": 87243,
-      "word": "江苏明确电力紧张时酒店超市等空调不应低于27度",
-      "onboard_time": 1687474937,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 100314,
+      "num": 100314,
+      "word": "刘亦菲去迪拜了",
+      "onboard_time": 1687476740,
+      "rank": 33,
+      "category": "艺人"
     },
     {
-      "raw_hot": 79313,
-      "num": 79313,
+      "raw_hot": 84927,
+      "num": 84927,
       "word": "粉色书包里装着一个父亲沉甸甸的生活",
       "onboard_time": 1687471576,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84695,
+      "num": 84695,
+      "word": "银川开展为期一个月安全生产大排查",
+      "onboard_time": 1687476561,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81096,
+      "num": 81096,
+      "word": "内蒙古高考查分",
+      "onboard_time": 1687476500,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 78145,
@@ -459,20 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76294,
+      "num": 76294,
+      "word": "五月天武汉",
+      "onboard_time": 1687476321,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 75841,
+      "num": 75841,
+      "word": "许凯娜扎直播好像在打视频",
+      "onboard_time": 1687467192,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71322,
       "num": 71322,
       "word": "华晨宇长沙演唱会再现红衣少年",
       "onboard_time": 1687467731,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 69812,
-      "num": 69812,
-      "word": "许凯娜扎直播好像在打视频",
-      "onboard_time": 1687467192,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 60221,
@@ -499,19 +555,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37798,
+      "num": 1119410,
+      "word": "龙舟漂移有多酷炫",
+      "onboard_time": 1687438711,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33821,
       "num": 47757,
       "word": "银川多家餐饮店使用液化气罐",
       "onboard_time": 1687458496,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32727,
-      "num": 1119410,
-      "word": "龙舟漂移有多酷炫",
-      "onboard_time": 1687438711,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
