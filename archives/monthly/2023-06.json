@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687458844484,
+  "endTime": 1687461368194,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -52491,6 +52491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33821,
+      "num": 47757,
+      "word": "银川多家餐饮店使用液化气罐",
+      "onboard_time": 1687458496,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33555,
       "num": 1441296,
       "word": "带着我的梦想上天宫",
@@ -52665,14 +52673,6 @@
       "onboard_time": 1686394850,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28952,
-      "num": 47757,
-      "word": "银川多家餐饮店使用液化气罐",
-      "onboard_time": 1687458496,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28906,
@@ -52857,6 +52857,14 @@
       "onboard_time": 1685914272,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24106,
+      "num": 33740,
+      "word": "消失的她路演",
+      "onboard_time": 1687455321,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 23892,

@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687458844484,
+  "endTime": 1687461368194,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -10363,19 +10363,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33821,
+      "num": 47757,
+      "word": "银川多家餐饮店使用液化气罐",
+      "onboard_time": 1687458496,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32228,
       "num": 1494879,
       "word": "航拍中国感受盛夏之美",
       "onboard_time": 1687336300,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28952,
-      "num": 47757,
-      "word": "银川多家餐饮店使用液化气罐",
-      "onboard_time": 1687458496,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -10417,6 +10417,14 @@
       "onboard_time": 1687446216,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24106,
+      "num": 33740,
+      "word": "消失的她路演",
+      "onboard_time": 1687455321,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 22538,
