@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687433631788,
+  "endTime": 1687437300237,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -609,6 +609,14 @@
       "onboard_time": 1686731490,
       "rank": 18,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2948997,
+      "num": 2948997,
+      "word": "宁夏银川烧烤店爆炸事故新闻发布会",
+      "onboard_time": 1687435289,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2945978,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1686547410,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1899978,
+      "num": 1899978,
+      "word": "马伯庸 别人发端午安康我回复端午快乐",
+      "onboard_time": 1687432294,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1898029,
@@ -6123,6 +6139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1084810,
+      "num": 1084810,
+      "word": "伊能静晒儿子女儿合照",
+      "onboard_time": 1687432050,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083023,
       "num": 1083023,
       "word": "团伙盗墓挖出龙袍网上售卖",
@@ -6681,6 +6705,14 @@
       "onboard_time": 1686413250,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014693,
+      "num": 1014693,
+      "word": "文咏珊好媚",
+      "onboard_time": 1687433251,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 1014533,
@@ -8227,14 +8259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 840073,
-      "num": 840073,
-      "word": "伊能静晒儿子女儿合照",
-      "onboard_time": 1687432050,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 839997,
       "num": 839997,
       "word": "S属性大爆发",
@@ -8395,6 +8419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 828524,
+      "num": 828524,
+      "word": "15岁女生答72岁复旦教授",
+      "onboard_time": 1687422930,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 828140,
       "num": 828140,
       "word": "警方介入调查一女生遭多名学生掌掴",
@@ -8497,14 +8529,6 @@
       "onboard_time": 1685981366,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821883,
-      "num": 821883,
-      "word": "15岁女生答72岁复旦教授",
-      "onboard_time": 1687422930,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 821675,
@@ -9611,6 +9635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 734671,
+      "num": 734671,
+      "word": "长风渡14集杀疯了",
+      "onboard_time": 1687436311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732991,
       "num": 622519,
       "word": "初会",
@@ -10203,14 +10235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 683798,
-      "num": 683798,
-      "word": "马伯庸 别人发端午安康我回复端午快乐",
-      "onboard_time": 1687432294,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 683770,
       "num": 413783,
       "word": "台娱真的好Drama",
@@ -10451,6 +10475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666367,
+      "num": 666367,
+      "word": "偷偷藏不住小分队团建",
+      "onboard_time": 1687432891,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666332,
       "num": 1143728,
       "word": "幼儿园摆20桌请200孩子吃席庆六一",
@@ -10649,6 +10681,14 @@
       "onboard_time": 1686741628,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644511,
+      "num": 644511,
+      "word": "白玉兰提名酒会",
+      "onboard_time": 1687435891,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 643646,
@@ -11659,6 +11699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577823,
+      "num": 431764,
+      "word": "女子连生6女被要求生子想离婚遭驳回",
+      "onboard_time": 1687431992,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577141,
       "num": 574708,
       "word": "萧敬腾",
@@ -12585,6 +12633,14 @@
       "onboard_time": 1685882909,
       "rank": 24,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 521759,
+      "num": 521759,
+      "word": "刺痛1v15",
+      "onboard_time": 1687436012,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 521409,
@@ -14595,22 +14651,6 @@
       "category": "影视,综艺"
     },
     {
-      "raw_hot": 431815,
-      "num": 431815,
-      "word": "偷偷藏不住小分队团建",
-      "onboard_time": 1687432891,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 431764,
-      "num": 431764,
-      "word": "女子连生6女被要求生子想离婚遭驳回",
-      "onboard_time": 1687431992,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431729,
       "num": 431729,
       "word": "猫突然入镜被男子推下山崖",
@@ -14641,6 +14681,14 @@
       "onboard_time": 1685679270,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 430929,
+      "num": 407817,
+      "word": "张嘉倪的手机壳是Ella表情包",
+      "onboard_time": 1687434331,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 430839,
@@ -16315,6 +16363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382486,
+      "num": 382486,
+      "word": "大家知道屈原姓什么吗",
+      "onboard_time": 1687435050,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382273,
       "num": 382273,
       "word": "各种大蠊已经进军北方",
@@ -17153,6 +17209,14 @@
       "onboard_time": 1686132219,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 362195,
+      "num": 362195,
+      "word": "沙溢长风渡下线",
+      "onboard_time": 1687437032,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 361857,
@@ -19251,14 +19315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323647,
-      "num": 296641,
-      "word": "文咏珊好媚",
-      "onboard_time": 1687433251,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323468,
       "num": 247304,
       "word": "北京警方通报男子挟持学生事件",
@@ -19425,6 +19481,14 @@
       "onboard_time": 1686822265,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319193,
+      "num": 319193,
+      "word": "央视端午节目单官宣",
+      "onboard_time": 1687431813,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 318718,
@@ -20715,6 +20779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300262,
+      "num": 300262,
+      "word": "长风渡杨文昌下线",
+      "onboard_time": 1687435352,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300232,
       "num": 300232,
       "word": "父亲节快乐",
@@ -21433,14 +21505,6 @@
       "onboard_time": 1685868086,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290078,
-      "num": 290078,
-      "word": "央视端午节目单官宣",
-      "onboard_time": 1687431813,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 289939,
@@ -22515,6 +22579,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 277882,
+      "num": 277882,
+      "word": "银川烧烤店爆炸前店员闻到煤气泄漏",
+      "onboard_time": 1687434636,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277847,
       "num": 277847,
       "word": "阿布",
@@ -22595,6 +22667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277320,
+      "num": 277320,
+      "word": "DK输了",
+      "onboard_time": 1687436552,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277194,
       "num": 277194,
       "word": "陈睿回应B站停更潮争议",
@@ -22633,6 +22713,14 @@
       "onboard_time": 1685589685,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 276870,
+      "num": 276870,
+      "word": "乘风四公芭莎多巴胺大片",
+      "onboard_time": 1687436910,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 276755,
@@ -25395,6 +25483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251294,
+      "num": 251294,
+      "word": "放假躺两天是年轻人的生活方式吗",
+      "onboard_time": 1687437150,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 251035,
       "num": 251035,
       "word": "文汇报评肖战李沁梦中的那片海",
@@ -27139,6 +27235,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 237767,
+      "num": 237767,
+      "word": "XYG战胜eStar",
+      "onboard_time": 1687436432,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237722,
       "num": 237722,
       "word": "大学生刚毕业vs上班一年后",
@@ -27521,6 +27625,14 @@
       "onboard_time": 1685801973,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234241,
+      "num": 234241,
+      "word": "XYG成长了",
+      "onboard_time": 1687427671,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 234230,
@@ -31001,14 +31113,6 @@
       "onboard_time": 1686974193,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211409,
-      "num": 211409,
-      "word": "XYG成长了",
-      "onboard_time": 1687427671,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 211382,
@@ -35481,6 +35585,14 @@
       "onboard_time": 1686301052,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188526,
+      "num": 188526,
+      "word": "XYG的团战好亏贼",
+      "onboard_time": 1687437213,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 188518,
@@ -50523,6 +50635,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 63669,
+      "num": 407840,
+      "word": "男装周多巴胺穿搭",
+      "onboard_time": 1687436730,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 63598,
       "num": 63598,
       "word": "陈妍希说陈晓眼神里的纯净一直都在",
@@ -50860,7 +50980,7 @@
     },
     {
       "raw_hot": 57935,
-      "num": 261823,
+      "num": 1511287,
       "word": "我国最长深水油气管道建成",
       "onboard_time": 1687421611,
       "rank": 26,
