@@ -1,0 +1,410 @@
+{
+  "runTime": 1687476026515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1011331,
+        "num": 1011331,
+        "word": "氧气耗尽泰坦号内5人还有生还可能吗",
+        "onboard_time": 1687448971,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905653,
+        "num": 905653,
+        "word": "成都UFO",
+        "onboard_time": 1687445436,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32727,
+        "num": 798809,
+        "word": "龙舟漂移有多酷炫",
+        "onboard_time": 1687438711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694991,
+        "num": 694991,
+        "word": "高考查分",
+        "onboard_time": 1687443876,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 477354,
+        "num": 477354,
+        "word": "2023好声音导师官宣",
+        "onboard_time": 1687445014,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599913,
+        "num": 451492,
+        "word": "银川烧烤店爆炸事故伤者家属发声",
+        "onboard_time": 1687445077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385574,
+        "num": 385574,
+        "word": "马伯庸 别人发端午安康我回复端午快乐",
+        "onboard_time": 1687432294,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 348052,
+        "num": 348052,
+        "word": "消失的她票房",
+        "onboard_time": 1687422450,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342426,
+        "num": 342426,
+        "word": "这粽子是犯了天条吗被绑成这样",
+        "onboard_time": 1687448013,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336807,
+        "num": 336807,
+        "word": "专家称泰坦号或已断电进水",
+        "onboard_time": 1687449034,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213062,
+        "num": 213062,
+        "word": "怀孕33周孕妇被2岁儿子开枪打死",
+        "onboard_time": 1687427372,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205606,
+        "num": 205606,
+        "word": "泰坦号",
+        "onboard_time": 1687475599,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194935,
+        "num": 194935,
+        "word": "辅导员弄丢毕业生学位证书",
+        "onboard_time": 1687440632,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191299,
+        "num": 191299,
+        "word": "甜馨10岁身高",
+        "onboard_time": 1687423712,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174723,
+        "num": 174723,
+        "word": "北京乃至京津冀地区怎么就热成了全国第一",
+        "onboard_time": 1687447115,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148864,
+        "num": 148864,
+        "word": "沙溢长风渡下线",
+        "onboard_time": 1687437032,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146906,
+        "num": 146906,
+        "word": "当你的儿子正处于叛逆期时",
+        "onboard_time": 1687450348,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142940,
+        "num": 142940,
+        "word": "果然还是中国人心疼中国人",
+        "onboard_time": 1687442377,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138938,
+        "num": 138938,
+        "word": "顾然是知否里的小顾廷烨",
+        "onboard_time": 1687441714,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137824,
+        "num": 137824,
+        "word": "长风渡14集杀疯了",
+        "onboard_time": 1687436311,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205627,
+        "num": 126279,
+        "word": "女子连生6女被要求生子想离婚遭驳回",
+        "onboard_time": 1687431992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202487,
+        "num": 120346,
+        "word": "女子遭老公家暴倒地后被拖进电梯",
+        "onboard_time": 1687442973,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174994,
+        "num": 119464,
+        "word": "妈妈纠正孩子写8不封口最后发现自己错了",
+        "onboard_time": 1687446756,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113570,
+        "num": 113570,
+        "word": "MOMO",
+        "onboard_time": 1687475119,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112768,
+        "num": 112768,
+        "word": "赵丽颖黑色复古裙",
+        "onboard_time": 1687442313,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110619,
+        "num": 110619,
+        "word": "像极了心情不好男朋友还要贴贴",
+        "onboard_time": 1687446337,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103899,
+        "num": 103899,
+        "word": "文咏珊好媚",
+        "onboard_time": 1687433251,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92101,
+        "num": 92101,
+        "word": "伊能静晒儿子女儿合照",
+        "onboard_time": 1687432050,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91623,
+        "num": 91623,
+        "word": "江苏今年已有102个百万富翁",
+        "onboard_time": 1687445557,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87243,
+        "num": 87243,
+        "word": "江苏明确电力紧张时酒店超市等空调不应低于27度",
+        "onboard_time": 1687474937,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83359,
+        "num": 83359,
+        "word": "彭昱畅看完我爱你哭惨了",
+        "onboard_time": 1687445436,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81388,
+        "num": 81388,
+        "word": "陈哲远他好满意自己的rap",
+        "onboard_time": 1687439912,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79313,
+        "num": 79313,
+        "word": "粉色书包里装着一个父亲沉甸甸的生活",
+        "onboard_time": 1687471576,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79024,
+        "num": 79024,
+        "word": "蛋糕师接了一个硬活",
+        "onboard_time": 1687443695,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78212,
+        "num": 78212,
+        "word": "一见茹顾vs山峥海薇",
+        "onboard_time": 1687449034,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78145,
+        "num": 78145,
+        "word": "烧烤店爆炸致31人死亡银川市长鞠躬道歉",
+        "onboard_time": 1687460714,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71322,
+        "num": 71322,
+        "word": "华晨宇长沙演唱会再现红衣少年",
+        "onboard_time": 1687467731,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70777,
+        "num": 70777,
+        "word": "赵丽娜报名周星驰新电影",
+        "onboard_time": 1687439671,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69812,
+        "num": 69812,
+        "word": "许凯娜扎直播好像在打视频",
+        "onboard_time": 1687467192,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67735,
+        "num": 67735,
+        "word": "张绍刚你好狠的心",
+        "onboard_time": 1687440931,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65010,
+        "num": 65010,
+        "word": "张杰音乐节现场",
+        "onboard_time": 1687443214,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61787,
+        "num": 61787,
+        "word": "魏无羡好强",
+        "onboard_time": 1687441052,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58306,
+        "num": 58306,
+        "word": "长风渡导演看偷偷藏不住直播",
+        "onboard_time": 1687442675,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54783,
+        "num": 54783,
+        "word": "Uzi4杀 RNG拿下比赛",
+        "onboard_time": 1687432294,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53511,
+        "num": 53511,
+        "word": "赵露思马伯骞直播也能吵起来",
+        "onboard_time": 1687439191,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52699,
+        "num": 52699,
+        "word": "拉夏贝尔正式破产清算",
+        "onboard_time": 1687421011,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50658,
+        "num": 50658,
+        "word": "EDG教练在干嘛",
+        "onboard_time": 1687430550,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50006,
+        "num": 50006,
+        "word": "换个人吻就算工伤",
+        "onboard_time": 1687431634,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49988,
+        "num": 49988,
+        "word": "宋雨琦原来是SM家族粉",
+        "onboard_time": 1687430610,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48385,
+        "num": 48385,
+        "word": "秦岚真的有马甲线",
+        "onboard_time": 1687470433,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#古诗文里的端午习俗#"
+    }
+  }
+}
