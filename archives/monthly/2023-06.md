@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 14:22:03
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 14:35:03
 </p>
 </blockquote>
 <p>
@@ -2133,6 +2133,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86%23" target="weibo">
+手机号实名制已经10年了（热度：1679595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC%23" target="weibo">
 知情人辟谣被撞小学生父亲坠楼（热度：1677029）
 </a>
@@ -3047,12 +3053,6 @@ Jennie是前一天爬山太累了吗（热度：1402398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E7%A7%9F%E4%B8%80%E8%BE%88%E5%AD%90%E6%88%BF%E5%8F%AF%E8%A1%8C%E5%90%97%23" target="weibo">
 毕业后租一辈子房可行吗（热度：1394049）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%9E%E5%90%8D%E5%88%B6%E5%B7%B2%E7%BB%8F10%E5%B9%B4%E4%BA%86%23" target="weibo">
-手机号实名制已经10年了（热度：1393948）
 </a>
 </li>
 
