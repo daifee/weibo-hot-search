@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687398099095,
+  "endTime": 1687399111241,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -419,6 +419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 2178525,
+      "num": 1284635,
+      "word": "内马尔为孕期出轨道歉",
+      "onboard_time": 1687389922,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2168535,
       "num": 2168535,
       "word": "猎罪图鉴2来了",
@@ -433,14 +441,6 @@
       "onboard_time": 1687176338,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2163281,
-      "num": 807749,
-      "word": "内马尔为孕期出轨道歉",
-      "onboard_time": 1687389922,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 2160551,
@@ -488,6 +488,14 @@
       "word": "小鬼往车窗外丢烟头",
       "onboard_time": 1687233094,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1939343,
+      "num": 725989,
+      "word": "炎亚纶或被判刑",
+      "onboard_time": 1687391906,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -587,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1709432,
-      "num": 725989,
-      "word": "炎亚纶或被判刑",
-      "onboard_time": 1687391906,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1666583,
       "num": 1666583,
       "word": "科目二我考了负725分",
@@ -633,6 +633,14 @@
       "onboard_time": 1687323466,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1625604,
+      "num": 1625604,
+      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+      "onboard_time": 1687398511,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1621934,
@@ -955,6 +963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1253807,
+      "num": 1253807,
+      "word": "阿姨收到1920元工资塞500给老板",
+      "onboard_time": 1687392928,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1230117,
       "num": 1230117,
       "word": "霍建华复出后首部作品",
@@ -985,6 +1001,14 @@
       "onboard_time": 1687337498,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1169237,
+      "num": 1169237,
+      "word": "5岁时的韩安冉",
+      "onboard_time": 1687396051,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1163697,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1687362933,
       "rank": 8,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1073921,
-      "num": 799903,
-      "word": "5岁时的韩安冉",
-      "onboard_time": 1687396051,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 1071743,
@@ -2011,19 +2027,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 629378,
-      "num": 629378,
-      "word": "阿姨收到1920元工资塞500给老板",
-      "onboard_time": 1687392928,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 626537,
       "num": 372199,
       "word": "庆余年2好多美女",
       "onboard_time": 1687170461,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 623923,
+      "num": 623923,
+      "word": "内娱男明星是靠什么起家的",
+      "onboard_time": 1687393530,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -2099,20 +2115,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592068,
+      "num": 345250,
+      "word": "说端午快乐有错吗",
+      "onboard_time": 1687397192,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589297,
       "num": 341036,
       "word": "女子将农药倒入父亲止咳糖浆内被公诉",
       "onboard_time": 1687354894,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586618,
-      "num": 586618,
-      "word": "内娱男明星是靠什么起家的",
-      "onboard_time": 1687393530,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 585955,
@@ -2555,14 +2571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 458921,
-      "num": 274620,
-      "word": "说端午快乐有错吗",
-      "onboard_time": 1687397192,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457283,
       "num": 457283,
       "word": "宋轶扛剧能力",
@@ -2875,6 +2883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 415898,
+      "num": 415898,
+      "word": "张艺兴点赞了EXO回归预告",
+      "onboard_time": 1687397731,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415710,
       "num": 377778,
       "word": "黑莲花作者再发长文回应选角",
@@ -2956,7 +2972,7 @@
     },
     {
       "raw_hot": 406129,
-      "num": 265513,
+      "num": 313054,
       "word": "30个同学聚餐让每人出1000元",
       "onboard_time": 1687393468,
       "rank": 23,
@@ -3137,6 +3153,14 @@
       "onboard_time": 1687325800,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376262,
+      "num": 376262,
+      "word": "宁夏银川一烧烤店发生爆炸",
+      "onboard_time": 1687393172,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374278,
@@ -3324,7 +3348,7 @@
     },
     {
       "raw_hot": 349904,
-      "num": 260126,
+      "num": 307022,
       "word": "不要轻易和女友玩撞蛋",
       "onboard_time": 1687394730,
       "rank": 24,
@@ -3851,6 +3875,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 297766,
+      "num": 297766,
+      "word": "朱一龙执意要求第一站选武汉",
+      "onboard_time": 1687397672,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297168,
       "num": 297168,
       "word": "Uzi戴红眼镜",
@@ -3897,6 +3929,14 @@
       "onboard_time": 1687352976,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292710,
+      "num": 292710,
+      "word": "你能接受端午1天假调休凑3天吗",
+      "onboard_time": 1687396232,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292503,
@@ -5379,14 +5419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218190,
-      "num": 218190,
-      "word": "张艺兴点赞了EXO回归预告",
-      "onboard_time": 1687397731,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218095,
       "num": 218095,
       "word": "言承旭林依晨合作新剧",
@@ -5417,14 +5449,6 @@
       "onboard_time": 1687225054,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216054,
-      "num": 216054,
-      "word": "你能接受端午1天假调休凑3天吗",
-      "onboard_time": 1687396232,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215936,
@@ -5995,14 +6019,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 195245,
-      "num": 195245,
-      "word": "朱一龙执意要求第一站选武汉",
-      "onboard_time": 1687397672,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "赵露思屏幕里的陈哲远",
@@ -6097,6 +6113,14 @@
       "onboard_time": 1687339721,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190046,
+      "num": 190046,
+      "word": "老板娘打不开瓶盖免单被赞大格局",
+      "onboard_time": 1687390825,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189790,
@@ -6297,6 +6321,14 @@
       "onboard_time": 1687098511,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182059,
+      "num": 182059,
+      "word": "网友济南街头偶遇韦东奕",
+      "onboard_time": 1687397971,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181925,
@@ -6531,6 +6563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173200,
+      "num": 173200,
+      "word": "偷偷藏不住加更",
+      "onboard_time": 1687394309,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172910,
       "num": 172910,
       "word": "建议下雨天就不要穿拖鞋了",
@@ -6625,14 +6665,6 @@
       "onboard_time": 1687139907,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168946,
-      "num": 168946,
-      "word": "宁夏银川一烧烤店发生爆炸",
-      "onboard_time": 1687393172,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168416,
@@ -6771,6 +6803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164243,
+      "num": 164243,
+      "word": "河北科技大学回应",
+      "onboard_time": 1687391364,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 164097,
       "num": 255600,
       "word": "infp无法撼动的精神领域",
@@ -6851,14 +6891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161051,
-      "num": 161051,
-      "word": "偷偷藏不住加更",
-      "onboard_time": 1687394309,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160803,
       "num": 160803,
       "word": "对经济复苏要有信心更要多些耐心",
@@ -6889,14 +6921,6 @@
       "onboard_time": 1687235259,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 159631,
-      "num": 159631,
-      "word": "河北科技大学回应",
-      "onboard_time": 1687391364,
-      "rank": 41,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 159209,
@@ -7171,14 +7195,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 146976,
-      "num": 146976,
-      "word": "网友济南街头偶遇韦东奕",
-      "onboard_time": 1687397971,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146816,
       "num": 278655,
       "word": "这个夏天需要长腰美背",
@@ -7211,12 +7227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145487,
+      "num": 145487,
+      "word": "攀登五层阳台仅用6.07秒",
+      "onboard_time": 1687399052,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145463,
       "num": 145463,
       "word": "没想到刚转正就被公司辞退了",
       "onboard_time": 1687136549,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145223,
+      "num": 145223,
+      "word": "年少不能看过太惊艳的桑延",
+      "onboard_time": 1687398934,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 144108,
@@ -7299,6 +7331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 140160,
+      "num": 140160,
+      "word": "女子送娃上学捡到一孩童",
+      "onboard_time": 1687398272,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139932,
       "num": 139932,
       "word": "宋亚轩美式证件照",
@@ -7323,6 +7363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138722,
+      "num": 1303148,
+      "word": "赛龙舟原来这么燃",
+      "onboard_time": 1687359035,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138661,
       "num": 719204,
       "word": "下肢瘫痪男孩考第一要小风扇送妈妈",
@@ -7337,6 +7385,14 @@
       "onboard_time": 1687138829,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137928,
+      "num": 137928,
+      "word": "白敬亭开拍前后反差感",
+      "onboard_time": 1687395752,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 137621,
@@ -7387,27 +7443,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 135471,
-      "num": 135471,
-      "word": "白敬亭开拍前后反差感",
-      "onboard_time": 1687395752,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134935,
       "num": 214422,
       "word": "孩子帮忙干活时摔碎杯子妈妈秒安慰",
       "onboard_time": 1687162608,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134371,
-      "num": 850128,
-      "word": "赛龙舟原来这么燃",
-      "onboard_time": 1687359035,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
