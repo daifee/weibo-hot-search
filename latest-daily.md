@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 18:34:05
+本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 19:14:16
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23" target="weibo">
 知情人称银川烧烤店死者死因多为窒息（热度：2016174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B%23" target="weibo">
+EDG教练在干嘛（热度：2003467）
 </a>
 </li>
 
@@ -123,8 +129,20 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%8F%AC%E5%BC%80%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+银川预计今晚8点召开爆炸事故新闻发布会（热度：1384704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD%23" target="weibo">
 自曝被性侵女子提醒女生谨慎独自出国（热度：1273408）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8E%9F%E6%9D%A5%E6%98%AFSM%E5%AE%B6%E6%97%8F%E7%B2%89%23" target="weibo">
+宋雨琦原来是SM家族粉（热度：1267419）
 </a>
 </li>
 
@@ -195,6 +213,12 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23" target="weibo">
+国人买iPhone14Pro需9.5%年收入（热度：1016486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E5%BD%B1%23" target="weibo">
 赵丽颖与素人合影（热度：989182）
 </a>
@@ -231,12 +255,6 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23" target="weibo">
-国人买iPhone14Pro需9.5%年收入（热度：839149）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E7%B2%BD%E5%AD%90%E5%88%B0%E8%98%91%E8%8F%87%E5%B1%8B%23" target="weibo">
 张艺兴送粽子到蘑菇屋（热度：829850）
 </a>
@@ -245,12 +263,6 @@ Angelababy七年前vs七年后（热度：1601793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E8%85%B0%E8%87%80%E6%AF%94%23" target="weibo">
 宋妍霏腰臀比（热度：820397）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%8F%AC%E5%BC%80%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-银川预计今晚8点召开爆炸事故新闻发布会（热度：819703）
 </a>
 </li>
 
@@ -303,6 +315,12 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23" target="weibo">
+15岁女生答72岁复旦教授（热度：736621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A4%A9%E5%A0%82%23" target="weibo">
 任天堂（热度：720451）
 </a>
@@ -323,12 +341,6 @@ Angelababy七年前vs七年后（热度：1601793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E4%BA%8C%E6%A5%BC%E6%9C%89KTV%E5%8C%85%E6%88%BF%23" target="weibo">
 银川爆炸烧烤店二楼有KTV包房（热度：712280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E7%AD%9472%E5%B2%81%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%23" target="weibo">
-15岁女生答72岁复旦教授（热度：710116）
 </a>
 </li>
 
@@ -453,6 +465,12 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98EDG%23" target="weibo">
+RNG对战EDG（热度：541373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%A4%E4%BA%86%E9%98%B2%E4%B8%AD%E6%9A%91%E4%B9%9F%E8%A6%81%E9%98%B2%E9%9E%8B%E5%BA%95%E5%8F%98%E5%BD%A2%E5%92%8C%E8%84%9A%E6%8E%8C%E7%83%AB%E4%BC%A4%23" target="weibo">
 除了防中暑也要防鞋底变形和脚掌烫伤（热度：517971）
 </a>
@@ -520,7 +538,7 @@ zb1首日0中输（热度：613834）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E6%95%91%E4%B8%8B%E6%8E%89%E5%85%A5%E5%86%B0%E5%B7%9D%E6%B8%B8%E5%AE%A2%23" target="weibo">
-19岁藏族小伙救下掉入冰川游客（热度：465873）
+19岁藏族小伙救下掉入冰川游客（热度：468463）
 </a>
 </li>
 
@@ -537,8 +555,20 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%BB%8E%E8%BF%B7%E4%BA%BA%E5%8F%98%E5%90%93%E4%BA%BA%23" target="weibo">
+朱一龙从迷人变吓人（热度：452879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E9%87%87%E8%AE%BF%E7%8E%8B%E8%8F%B2%E8%A2%AB%E9%B8%9F%E5%B1%8E%E7%A0%B8%E5%88%B0%E5%A4%B4%23" target="weibo">
 古巨基采访王菲被鸟屎砸到头（热度：441889）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E9%9B%B6%E5%B0%81EDG%23" target="weibo">
+RNG零封EDG（热度：441706）
 </a>
 </li>
 
@@ -551,12 +581,6 @@ zb1首日0中输（热度：613834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%23" target="weibo">
 端午安康（热度：427661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98EDG%23" target="weibo">
-RNG对战EDG（热度：408649）
 </a>
 </li>
 
@@ -575,6 +599,12 @@ RNG对战EDG（热度：408649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%8D%94%E6%9E%9D%E4%B9%9F%E5%8F%AF%E4%BB%A5%E7%BC%93%E8%A7%A3%E7%97%9B%E7%BB%8F%23" target="weibo">
 原来荔枝也可以缓解痛经（热度：399139）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%23" target="weibo">
+泰坦（热度：393835）
 </a>
 </li>
 
@@ -645,8 +675,8 @@ RNG对战EDG（热度：408649）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%BB%8E%E8%BF%B7%E4%BA%BA%E5%8F%98%E5%90%93%E4%BA%BA%23" target="weibo">
-朱一龙从迷人变吓人（热度：362691）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23" target="weibo">
+伊能静晒儿子女儿合照（热度：360470）
 </a>
 </li>
 
@@ -665,6 +695,12 @@ RNG对战EDG（热度：408649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%9E%97%E9%AB%98%E8%BF%9C%E5%87%BA%E6%88%98%E8%90%A8%E6%A0%BC%E5%8B%92%E5%B8%83%E7%AB%99%E5%8D%95%E6%89%93%23" target="weibo">
 孙颖莎林高远出战萨格勒布站单打（热度：357252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AE%A9%E7%8B%97%E8%88%94%E8%88%90%E4%BC%A4%E5%8F%A3%E6%B6%88%E6%AF%92%23" target="weibo">
+男子让狗舔舐伤口消毒（热度：356511）
 </a>
 </li>
 
@@ -725,6 +761,18 @@ mcd（热度：355018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96Q%E7%89%88%E6%B2%88%E7%92%83%23" target="weibo">
 赵丽颖Q版沈璃（热度：329537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83%23" target="weibo">
+180斤男生摔伤腿体育老师背其去中考（热度：327305）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B9%E5%8D%96%E8%8A%B1%E5%A7%91%E5%A8%98%E5%9B%9E%E5%BA%94%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2%23" target="weibo">
+西湖边卖花姑娘回应意外走红（热度：326824）
 </a>
 </li>
 
@@ -819,14 +867,32 @@ EXO新专K4预售突破50万张（热度：295750）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B8%AA%E4%BA%BA%E5%90%BB%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BC%A4%23" target="weibo">
+换个人吻就算工伤（热度：295034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E7%AB%AF%E5%8D%881%E5%A4%A9%E5%81%87%E8%B0%83%E4%BC%91%E5%87%913%E5%A4%A9%E5%90%97%23" target="weibo">
 你能接受端午1天假调休凑3天吗（热度：292710）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%81%E7%94%9F%E8%BF%BD%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%88%B0%E6%95%99%E5%AE%A4%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23" target="weibo">
+私生追贺峻霖到教室涉嫌侵权（热度：292706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E8%AF%B4%E6%96%87%E5%92%8F%E7%8F%8A%E8%AE%A9%E6%88%91%E6%95%B4%E4%B8%AA%E4%BA%BA%E9%83%BD%E9%BA%BB%E4%BA%86%23" target="weibo">
 倪妮说文咏珊让我整个人都麻了（热度：291668）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%AB%AF%E5%8D%88%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3%23" target="weibo">
+央视端午节目单官宣（热度：290078）
 </a>
 </li>
 
@@ -933,8 +999,14 @@ NBA交易（热度：258403）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%81%E7%94%9F%E8%BF%BD%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%88%B0%E6%95%99%E5%AE%A4%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23" target="weibo">
-私生追贺峻霖到教室涉嫌侵权（热度：253823）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E7%94%9F6%E5%A5%B3%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%9F%E5%AD%90%E6%83%B3%E7%A6%BB%E5%A9%9A%E9%81%AD%E9%A9%B3%E5%9B%9E%23" target="weibo">
+女子连生6女被要求生子想离婚遭驳回（热度：256175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90%23" target="weibo">
+马伯庸 别人发端午安康我回复端午快乐（热度：254422）
 </a>
 </li>
 
@@ -959,6 +1031,12 @@ NBA交易（热度：258403）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E5%A5%BD%E6%94%B9%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 有两件事不好改回来了（热度：250981）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B%23" target="weibo">
+Uzi4杀 RNG拿下比赛（热度：249564）
 </a>
 </li>
 
@@ -1335,6 +1413,12 @@ RA战胜IG（热度：204889）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%91%A8%E6%B7%B1%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%BB%84%E5%90%88%E5%90%8D%23" target="weibo">
+白鹿周深魏大勋组合名（热度：187738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
 种地吧（热度：186043）
 </a>
@@ -1397,12 +1481,6 @@ RA战胜IG（热度：204889）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%AE%A0%E7%88%B1%23" target="weibo">
 狼队第五人格宠爱（热度：174265）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23180%E6%96%A4%E7%94%B7%E7%94%9F%E6%91%94%E4%BC%A4%E8%85%BF%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%83%8C%E5%85%B6%E5%8E%BB%E4%B8%AD%E8%80%83%23" target="weibo">
-180斤男生摔伤腿体育老师背其去中考（热度：174155）
 </a>
 </li>
 
@@ -1715,6 +1793,12 @@ AG端午节特别企划（热度：149628）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E7%B2%BD%E5%AD%90%23" target="weibo">
 万物皆可粽子（热度：19236）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%93%E8%BD%A6%E7%BB%99%E6%B6%88%E9%98%B2%E9%80%81%E7%B2%BD%E5%AD%90%E8%A5%BF%E7%93%9C%E6%B6%88%E6%9A%91%E8%BF%87%E8%8A%82%23" target="weibo">
+女子打车给消防送粽子西瓜消暑过节（热度：18904）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687432456319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003467,
+        "num": 2003467,
+        "word": "EDG教练在干嘛",
+        "onboard_time": 1687430550,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 468463,
+        "num": 1816194,
+        "word": "19岁藏族小伙救下掉入冰川游客",
+        "onboard_time": 1687424374,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73388,
+        "num": 1804443,
+        "word": "藏在古画里的端午仪式感",
+        "onboard_time": 1687421792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1792844,
+        "num": 1792844,
+        "word": "怀孕33周孕妇被2岁儿子开枪打死",
+        "onboard_time": 1687427372,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327305,
+        "num": 1544116,
+        "word": "180斤男生摔伤腿体育老师背其去中考",
+        "onboard_time": 1687429830,
+        "rank": 4,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 1540478,
+        "num": 1540478,
+        "word": "消失的她票房",
+        "onboard_time": 1687422450,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326824,
+        "num": 1418517,
+        "word": "西湖边卖花姑娘回应意外走红",
+        "onboard_time": 1687431212,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1384704,
+        "num": 1384704,
+        "word": "银川预计今晚8点召开爆炸事故新闻发布会",
+        "onboard_time": 1687428510,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267419,
+        "num": 1267419,
+        "word": "宋雨琦原来是SM家族粉",
+        "onboard_time": 1687430610,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1101503,
+        "num": 1101503,
+        "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+        "onboard_time": 1687421792,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057911,
+        "num": 1057911,
+        "word": "甜馨10岁身高",
+        "onboard_time": 1687423712,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016486,
+        "num": 1016486,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 830929,
+        "num": 830929,
+        "word": "银川爆炸烧烤店救援现场",
+        "onboard_time": 1687426111,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769834,
+        "num": 769834,
+        "word": "王皓",
+        "onboard_time": 1687422272,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18904,
+        "num": 744424,
+        "word": "女子打车给消防送粽子西瓜消暑过节",
+        "onboard_time": 1687431634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736621,
+        "num": 736621,
+        "word": "15岁女生答72岁复旦教授",
+        "onboard_time": 1687422930,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 645024,
+        "num": 645024,
+        "word": "河北科技大学通报学生跳楼身亡",
+        "onboard_time": 1687422210,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 552604,
+        "num": 552604,
+        "word": "奔跑吧全员素颜",
+        "onboard_time": 1687420468,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541373,
+        "num": 541373,
+        "word": "RNG对战EDG",
+        "onboard_time": 1687429111,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 452879,
+        "num": 452879,
+        "word": "朱一龙从迷人变吓人",
+        "onboard_time": 1687428573,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441706,
+        "num": 441706,
+        "word": "RNG零封EDG",
+        "onboard_time": 1687432111,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405718,
+        "num": 405718,
+        "word": "迪丽热巴的项链好特别",
+        "onboard_time": 1687413511,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 393835,
+        "num": 393835,
+        "word": "泰坦",
+        "onboard_time": 1687431392,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381685,
+        "num": 381685,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372483,
+        "num": 372483,
+        "word": "顾九思柳玉茹喂血吻",
+        "onboard_time": 1687411532,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366236,
+        "num": 366236,
+        "word": "合同到期的前两天我怀孕了",
+        "onboard_time": 1687426891,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362121,
+        "num": 362121,
+        "word": "消失的她",
+        "onboard_time": 1687411353,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360470,
+        "num": 360470,
+        "word": "伊能静晒儿子女儿合照",
+        "onboard_time": 1687432050,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356511,
+        "num": 356511,
+        "word": "男子让狗舔舐伤口消毒",
+        "onboard_time": 1687430550,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321293,
+        "num": 321293,
+        "word": "拉夏贝尔正式破产清算",
+        "onboard_time": 1687421011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304013,
+        "num": 304013,
+        "word": "消失的她结局",
+        "onboard_time": 1687420769,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295034,
+        "num": 295034,
+        "word": "换个人吻就算工伤",
+        "onboard_time": 1687431634,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292706,
+        "num": 292706,
+        "word": "私生追贺峻霖到教室涉嫌侵权",
+        "onboard_time": 1687429050,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290078,
+        "num": 290078,
+        "word": "央视端午节目单官宣",
+        "onboard_time": 1687431813,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261547,
+        "num": 261547,
+        "word": "罗云熙粽子比脸大",
+        "onboard_time": 1687423292,
+        "rank": 34,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 256175,
+        "num": 256175,
+        "word": "女子连生6女被要求生子想离婚遭驳回",
+        "onboard_time": 1687431992,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254422,
+        "num": 254422,
+        "word": "马伯庸 别人发端午安康我回复端午快乐",
+        "onboard_time": 1687432294,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249564,
+        "num": 249564,
+        "word": "Uzi4杀 RNG拿下比赛",
+        "onboard_time": 1687432294,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244192,
+        "num": 244192,
+        "word": "餐馆老板称管道燃气初装费要三四万",
+        "onboard_time": 1687426770,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223464,
+        "num": 223464,
+        "word": "失踪潜艇副驾妻子是泰坦尼克号遇难者后代",
+        "onboard_time": 1687423953,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216338,
+        "num": 216338,
+        "word": "八角笼中",
+        "onboard_time": 1687422632,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207761,
+        "num": 207761,
+        "word": "桑稚段嘉许再次重逢",
+        "onboard_time": 1687427852,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199950,
+        "num": 199950,
+        "word": "杨幂30秒过端午",
+        "onboard_time": 1687427010,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199458,
+        "num": 199458,
+        "word": "原来荔枝也可以缓解痛经",
+        "onboard_time": 1687425092,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192542,
+        "num": 192542,
+        "word": "赵丽颖红色旗袍",
+        "onboard_time": 1687416150,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "mcd",
+        "onboard_time": 1687429111,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187738,
+        "num": 187738,
+        "word": "白鹿周深魏大勋组合名",
+        "onboard_time": 1687430132,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187426,
+        "num": 187426,
+        "word": "马斯克与扎克伯格约架",
+        "onboard_time": 1687424253,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 173649,
+        "num": 187262,
+        "word": "杭州老人包200个黄荆粽送亲友",
+        "onboard_time": 1687428212,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187216,
+        "num": 187216,
+        "word": "五月天武汉演唱会",
+        "onboard_time": 1687424732,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宁夏银川燃气爆炸事故作出重要指示#"
+    }
+  }
+}

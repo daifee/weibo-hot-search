@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687430045449,
+  "endTime": 1687432456319,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2003467,
+      "num": 2003467,
+      "word": "EDG教练在干嘛",
+      "onboard_time": 1687430550,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1939343,
       "num": 725989,
       "word": "炎亚纶或被判刑",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1857336,
-      "num": 1555376,
+      "num": 1792844,
       "word": "怀孕33周孕妇被2岁儿子开枪打死",
       "onboard_time": 1687427372,
       "rank": 10,
@@ -147,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1384704,
+      "num": 1384704,
+      "word": "银川预计今晚8点召开爆炸事故新闻发布会",
+      "onboard_time": 1687428510,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1273408,
       "num": 1273408,
       "word": "自曝被性侵女子提醒女生谨慎独自出国",
       "onboard_time": 1687353334,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1267419,
+      "num": 1267419,
+      "word": "宋雨琦原来是SM家族粉",
+      "onboard_time": 1687430610,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1262629,
@@ -243,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016486,
+      "num": 1016486,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 989182,
       "num": 948549,
       "word": "赵丽颖与素人合影",
@@ -291,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 839149,
-      "num": 839149,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 829850,
       "num": 829850,
       "word": "张艺兴送粽子到蘑菇屋",
@@ -313,14 +337,6 @@
       "onboard_time": 1687412192,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 819703,
-      "num": 697657,
-      "word": "银川预计今晚8点召开爆炸事故新闻发布会",
-      "onboard_time": 1687428510,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 813027,
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 736621,
+      "num": 736621,
+      "word": "15岁女生答72岁复旦教授",
+      "onboard_time": 1687422930,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 720451,
       "num": 720451,
       "word": "任天堂",
@@ -417,14 +441,6 @@
       "onboard_time": 1687411052,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 710116,
-      "num": 710116,
-      "word": "15岁女生答72岁复旦教授",
-      "onboard_time": 1687422930,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 695090,
@@ -587,6 +603,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 541373,
+      "num": 541373,
+      "word": "RNG对战EDG",
+      "onboard_time": 1687429111,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 517971,
       "num": 280628,
       "word": "除了防中暑也要防鞋底变形和脚掌烫伤",
@@ -675,8 +699,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465873,
-      "num": 1560438,
+      "raw_hot": 468463,
+      "num": 1816194,
       "word": "19岁藏族小伙救下掉入冰川游客",
       "onboard_time": 1687424374,
       "rank": 36,
@@ -699,12 +723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452879,
+      "num": 452879,
+      "word": "朱一龙从迷人变吓人",
+      "onboard_time": 1687428573,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441889,
       "num": 441889,
       "word": "古巨基采访王菲被鸟屎砸到头",
       "onboard_time": 1687394070,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441706,
+      "num": 441706,
+      "word": "RNG零封EDG",
+      "onboard_time": 1687432111,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 431938,
@@ -721,14 +761,6 @@
       "onboard_time": 1687388601,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408649,
-      "num": 408649,
-      "word": "RNG对战EDG",
-      "onboard_time": 1687429111,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 406129,
@@ -753,6 +785,14 @@
       "onboard_time": 1687425092,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 393835,
+      "num": 393835,
+      "word": "泰坦",
+      "onboard_time": 1687431392,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393564,
@@ -843,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362691,
-      "num": 362691,
-      "word": "朱一龙从迷人变吓人",
-      "onboard_time": 1687428573,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 360470,
+      "num": 360470,
+      "word": "伊能静晒儿子女儿合照",
+      "onboard_time": 1687432050,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 360060,
@@ -873,6 +913,14 @@
       "onboard_time": 1687417292,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356511,
+      "num": 356511,
+      "word": "男子让狗舔舐伤口消毒",
+      "onboard_time": 1687430550,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355018,
@@ -953,6 +1001,22 @@
       "onboard_time": 1687415734,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327305,
+      "num": 1544116,
+      "word": "180斤男生摔伤腿体育老师背其去中考",
+      "onboard_time": 1687429830,
+      "rank": 18,
+      "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 326824,
+      "num": 1418517,
+      "word": "西湖边卖花姑娘回应意外走红",
+      "onboard_time": 1687431212,
+      "rank": 6,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 324452,
@@ -1075,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 295034,
+      "num": 295034,
+      "word": "换个人吻就算工伤",
+      "onboard_time": 1687431634,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292710,
       "num": 292710,
       "word": "你能接受端午1天假调休凑3天吗",
@@ -1083,12 +1155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292706,
+      "num": 292706,
+      "word": "私生追贺峻霖到教室涉嫌侵权",
+      "onboard_time": 1687429050,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291668,
       "num": 291668,
       "word": "倪妮说文咏珊让我整个人都麻了",
       "onboard_time": 1687355495,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290078,
+      "num": 290078,
+      "word": "央视端午节目单官宣",
+      "onboard_time": 1687431813,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 287621,
@@ -1227,11 +1315,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253823,
-      "num": 253823,
-      "word": "私生追贺峻霖到教室涉嫌侵权",
-      "onboard_time": 1687429050,
-      "rank": 43,
+      "raw_hot": 256175,
+      "num": 256175,
+      "word": "女子连生6女被要求生子想离婚遭驳回",
+      "onboard_time": 1687431992,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254422,
+      "num": 254422,
+      "word": "马伯庸 别人发端午安康我回复端午快乐",
+      "onboard_time": 1687432294,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1265,6 +1361,14 @@
       "onboard_time": 1687360117,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 249564,
+      "num": 249564,
+      "word": "Uzi4杀 RNG拿下比赛",
+      "onboard_time": 1687432294,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 248434,
@@ -1763,6 +1867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187738,
+      "num": 187738,
+      "word": "白鹿周深魏大勋组合名",
+      "onboard_time": 1687430132,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186043,
       "num": 186043,
       "word": "种地吧",
@@ -1849,14 +1961,6 @@
       "onboard_time": 1687422690,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174155,
-      "num": 402226,
-      "word": "180斤男生摔伤腿体育老师背其去中考",
-      "onboard_time": 1687429830,
-      "rank": 18,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 173882,
@@ -2156,7 +2260,7 @@
     },
     {
       "raw_hot": 104366,
-      "num": 1557683,
+      "num": 1804443,
       "word": "藏在古画里的端午仪式感",
       "onboard_time": 1687421792,
       "rank": 2,
@@ -2271,6 +2375,14 @@
       "num": 453175,
       "word": "万物皆可粽子",
       "onboard_time": 1687410034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18904,
+      "num": 744424,
+      "word": "女子打车给消防送粽子西瓜消暑过节",
+      "onboard_time": 1687431634,
       "rank": 14,
       "category": "社会新闻"
     }
