@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687440003914,
+  "endTime": 1687440827989,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2431600,
+      "num": 2431600,
+      "word": "马伯庸 别人发端午安康我回复端午快乐",
+      "onboard_time": 1687432294,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2389223,
       "num": 1459377,
       "word": "医护人员称黄子佼无法开口说话",
@@ -424,14 +432,6 @@
       "word": "黄景瑜说和前任是亲人也是朋友",
       "onboard_time": 1687216523,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2234911,
-      "num": 2234911,
-      "word": "马伯庸 别人发端午安康我回复端午快乐",
-      "onboard_time": 1687432294,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -915,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1427229,
+      "num": 1173392,
+      "word": "沙溢长风渡下线",
+      "onboard_time": 1687437032,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1426534,
       "num": 1426534,
       "word": "你现在网购还常用淘宝吗",
@@ -961,14 +969,6 @@
       "onboard_time": 1687421792,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1385823,
-      "num": 1073734,
-      "word": "沙溢长风渡下线",
-      "onboard_time": 1687437032,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 1384704,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706973,
+      "num": 706973,
+      "word": "泰坦尼克号",
+      "onboard_time": 1687359219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703294,
       "num": 703294,
       "word": "两周拿了6个offer",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 647741,
-      "num": 647741,
-      "word": "泰坦尼克号",
-      "onboard_time": 1687359219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 644511,
@@ -2875,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514863,
+      "num": 514863,
+      "word": "赵露思马伯骞直播也能吵起来",
+      "onboard_time": 1687439191,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 514645,
       "num": 514645,
       "word": "鹅厂2023大剧片单",
@@ -2945,6 +2953,14 @@
       "onboard_time": 1687157080,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 503373,
+      "num": 503373,
+      "word": "乘风四公芭莎多巴胺大片",
+      "onboard_time": 1687436910,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 502006,
@@ -3595,6 +3611,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 402467,
+      "num": 402467,
+      "word": "专家称银川烧烤店店员处理方式有问题",
+      "onboard_time": 1687438473,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401264,
+      "num": 349343,
+      "word": "赵丽娜报名周星驰新电影",
+      "onboard_time": 1687439671,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399139,
       "num": 399139,
       "word": "原来荔枝也可以缓解痛经",
@@ -3691,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391047,
+      "num": 302108,
+      "word": "虞书欣立体花朵黑裙造型",
+      "onboard_time": 1687440392,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 390988,
       "num": 390988,
       "word": "感觉自己花钱买了个工作",
@@ -3737,14 +3777,6 @@
       "onboard_time": 1687147529,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387880,
-      "num": 387880,
-      "word": "乘风四公芭莎多巴胺大片",
-      "onboard_time": 1687436910,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 387109,
@@ -3824,14 +3856,6 @@
       "word": "宁夏银川一烧烤店发生爆炸",
       "onboard_time": 1687393172,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375291,
-      "num": 266896,
-      "word": "专家称银川烧烤店店员处理方式有问题",
-      "onboard_time": 1687438473,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3984,6 +4008,14 @@
       "word": "陈情令的长尾效应",
       "onboard_time": 1687251751,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 358191,
+      "num": 302048,
+      "word": "陈哲远他好满意自己的rap",
+      "onboard_time": 1687439912,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -4171,14 +4203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345065,
-      "num": 345065,
-      "word": "赵露思马伯骞直播也能吵起来",
-      "onboard_time": 1687439191,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 344366,
       "num": 402486,
       "word": "你是一具受潮的木乃伊",
@@ -4305,14 +4329,6 @@
       "onboard_time": 1687341758,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335885,
-      "num": 266832,
-      "word": "陈哲远他好满意自己的rap",
-      "onboard_time": 1687439912,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 334489,
@@ -5915,14 +5931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242348,
-      "num": 242348,
-      "word": "赵丽娜报名周星驰新电影",
-      "onboard_time": 1687439671,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242279,
       "num": 242279,
       "word": "小猫咪变脸只在一瞬间",
@@ -6657,6 +6665,14 @@
       "onboard_time": 1687171600,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215260,
+      "num": 215260,
+      "word": "辅导员弄丢毕业生学位证书",
+      "onboard_time": 1687440632,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 214745,
@@ -7656,6 +7672,14 @@
       "word": "被一个冰柜秀了两次",
       "onboard_time": 1687310012,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186799,
+      "num": 186799,
+      "word": "古有日照金山今有日照狗头",
+      "onboard_time": 1687440451,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -9539,6 +9563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90552,
+      "num": 1807383,
+      "word": "端午节习俗图鉴",
+      "onboard_time": 1687438893,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89917,
       "num": 120857,
       "word": "广工总冠军",
@@ -9763,14 +9795,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 64372,
-      "num": 1807383,
-      "word": "端午节习俗图鉴",
-      "onboard_time": 1687438893,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64296,
       "num": 404002,
       "word": "女子抱幼子跳河民辅警舍命相救",
@@ -9979,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38724,
+      "num": 538169,
+      "word": "65年前汉江龙舟赛是什么样",
+      "onboard_time": 1687438893,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37491,
       "num": 37491,
       "word": "NCTDREAM新歌空降",
@@ -10033,14 +10065,6 @@
       "onboard_time": 1687124593,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26740,
-      "num": 502817,
-      "word": "65年前汉江龙舟赛是什么样",
-      "onboard_time": 1687438893,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26361,
