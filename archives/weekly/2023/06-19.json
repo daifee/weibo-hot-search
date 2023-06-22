@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687401792085,
+  "endTime": 1687402308015,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -971,20 +971,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1241749,
+      "num": 1241749,
+      "word": "5岁时的韩安冉",
+      "onboard_time": 1687396051,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1230117,
       "num": 1230117,
       "word": "霍建华复出后首部作品",
       "onboard_time": 1687167463,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1211822,
-      "num": 1211822,
-      "word": "5岁时的韩安冉",
-      "onboard_time": 1687396051,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 1208275,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932458,
+      "num": 932458,
+      "word": "千万别在下午和晚上买机票",
+      "onboard_time": 1687393108,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 930026,
       "num": 930026,
       "word": "王一博穿的居然是羽绒服",
@@ -1707,14 +1715,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 765461,
-      "num": 765461,
-      "word": "千万别在下午和晚上买机票",
-      "onboard_time": 1687393108,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 763544,
       "num": 2040682,
       "word": "哈工大的这张毕业车票让人破防了",
@@ -1915,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 683554,
+      "num": 683554,
+      "word": "广东人为什么普遍都很瘦",
+      "onboard_time": 1687399594,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 676459,
       "num": 655978,
       "word": "iG与Beishang解约",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 642019,
-      "num": 642019,
-      "word": "广东人为什么普遍都很瘦",
-      "onboard_time": 1687399594,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 634631,
@@ -2243,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553271,
+      "num": 553271,
+      "word": "张艺兴点赞了EXO回归预告",
+      "onboard_time": 1687397731,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553268,
       "num": 553268,
       "word": "LPL 暂停",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1687364072,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 551323,
-      "num": 551323,
-      "word": "张艺兴点赞了EXO回归预告",
-      "onboard_time": 1687397731,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 546536,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1687254633,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530864,
+      "num": 530864,
+      "word": "十个勤天",
+      "onboard_time": 1687399954,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 529723,
@@ -2641,14 +2649,6 @@
       "onboard_time": 1687178018,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 449140,
-      "num": 449140,
-      "word": "十个勤天",
-      "onboard_time": 1687399954,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 448728,
@@ -4131,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283919,
+      "num": 283919,
+      "word": "马伯骞你是真的火了",
+      "onboard_time": 1687401693,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283647,
       "num": 283647,
       "word": "虞书欣丁禹兮 永夜星河",
@@ -4211,6 +4219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277129,
+      "num": 277129,
+      "word": "为什么大家都不再发朋友圈了",
+      "onboard_time": 1687402174,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276755,
       "num": 266464,
       "word": "顾九思每一鞭都抽在我的心上",
@@ -4273,6 +4289,14 @@
       "onboard_time": 1687353875,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 272699,
+      "num": 272699,
+      "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
+      "onboard_time": 1687401513,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 272375,
@@ -5163,6 +5187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232305,
+      "num": 232305,
+      "word": "踩四米高跷的人要怎么休息",
+      "onboard_time": 1687402174,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232292,
       "num": 1146917,
       "word": "湖南师徒无畏跳江救回丽水女子",
@@ -5313,6 +5345,14 @@
       "onboard_time": 1687354116,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226316,
+      "num": 226316,
+      "word": "塞尔达传说王国之泪服装",
+      "onboard_time": 1687400434,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 226031,
@@ -5513,14 +5553,6 @@
       "onboard_time": 1687257033,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213571,
-      "num": 213571,
-      "word": "塞尔达传说王国之泪服装",
-      "onboard_time": 1687400434,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 213427,
@@ -5769,6 +5801,14 @@
       "onboard_time": 1687246052,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204420,
+      "num": 204420,
+      "word": "银川一烧烤店燃气爆炸搜救出38人",
+      "onboard_time": 1687399173,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202936,
@@ -6315,14 +6355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185114,
-      "num": 185114,
-      "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
-      "onboard_time": 1687401513,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184840,
       "num": 184840,
       "word": "川大通报地铁事件涉事女生处理情况",
@@ -6417,14 +6449,6 @@
       "onboard_time": 1687331074,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 181136,
-      "num": 181136,
-      "word": "银川一烧烤店燃气爆炸搜救出38人",
-      "onboard_time": 1687399173,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180242,
@@ -6585,6 +6609,14 @@
       "onboard_time": 1687321840,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174377,
+      "num": 174377,
+      "word": "虞书欣巴黎探店路透",
+      "onboard_time": 1687401872,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 174336,
@@ -7003,14 +7035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160165,
-      "num": 160165,
-      "word": "马伯骞你是真的火了",
-      "onboard_time": 1687401693,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160105,
       "num": 171680,
       "word": "师范女生大学4年志愿服务867小时",
@@ -7153,6 +7177,14 @@
       "onboard_time": 1687138227,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153920,
+      "num": 153920,
+      "word": "加强重点行业重点领域安全监管",
+      "onboard_time": 1687402113,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 153813,
