@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/23 04:20:23
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/23 04:34:03
 </p>
 </blockquote>
 <p>
@@ -7713,6 +7713,12 @@ NIP对战WE（热度：77082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
+烧烤店爆炸致31人死亡银川市长鞠躬道歉（热度：43731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%85%8BE4%E8%BF%99%E4%BB%B7%E6%A0%BC%E5%8F%AA%E6%83%B3%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%23" target="weibo">
 别克E4这价格只想交个朋友（热度：43354）
 </a>
@@ -7757,12 +7763,6 @@ NIP对战WE（热度：77082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2365%E5%B9%B4%E5%89%8D%E6%B1%89%E6%B1%9F%E9%BE%99%E8%88%9F%E8%B5%9B%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%23" target="weibo">
 65年前汉江龙舟赛是什么样（热度：38724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
-烧烤店爆炸致31人死亡银川市长鞠躬道歉（热度：37935）
 </a>
 </li>
 
