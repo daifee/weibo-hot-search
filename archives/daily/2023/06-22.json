@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687443325610,
+  "endTime": 1687444415518,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2563276,
+      "num": 2563276,
+      "word": "辅导员弄丢毕业生学位证书",
+      "onboard_time": 1687440632,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2431600,
       "num": 2431600,
       "word": "马伯庸 别人发端午安康我回复端午快乐",
@@ -33,14 +41,6 @@
       "onboard_time": 1687389922,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2145867,
-      "num": 2145867,
-      "word": "辅导员弄丢毕业生学位证书",
-      "onboard_time": 1687440632,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2101352,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1427229,
-      "num": 1332988,
+      "num": 1363406,
       "word": "沙溢长风渡下线",
       "onboard_time": 1687437032,
       "rank": 26,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014208,
+      "num": 1014208,
+      "word": "魏无羡好强",
+      "onboard_time": 1687441052,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 989182,
       "num": 948549,
       "word": "赵丽颖与素人合影",
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 893127,
+      "num": 893127,
+      "word": "赵丽颖黑色复古裙",
+      "onboard_time": 1687442313,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 886365,
       "num": 886365,
       "word": "北京大爷不想让孩子要孩子",
@@ -411,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 848758,
-      "num": 848758,
-      "word": "魏无羡好强",
-      "onboard_time": 1687441052,
-      "rank": 10,
-      "category": "游戏"
+      "raw_hot": 858281,
+      "num": 858281,
+      "word": "女子遭老公家暴倒地后被拖进电梯",
+      "onboard_time": 1687442973,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843888,
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719455,
-      "num": 719455,
-      "word": "赵丽颖黑色复古裙",
-      "onboard_time": 1687442313,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 712280,
       "num": 578487,
       "word": "银川爆炸烧烤店二楼有KTV包房",
@@ -649,6 +657,14 @@
       "onboard_time": 1687397192,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590463,
+      "num": 590463,
+      "word": "长风渡导演看偷偷藏不住直播",
+      "onboard_time": 1687442675,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 577823,
@@ -891,11 +907,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477384,
+      "num": 477384,
+      "word": "果然还是中国人心疼中国人",
+      "onboard_time": 1687442377,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472002,
       "num": 472002,
       "word": "消失的她结局",
       "onboard_time": 1687420769,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 469172,
+      "num": 469172,
+      "word": "陈哲远他好满意自己的rap",
+      "onboard_time": 1687439912,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -940,7 +972,7 @@
     },
     {
       "raw_hot": 452030,
-      "num": 316946,
+      "num": 379041,
       "word": "张杰音乐节现场",
       "onboard_time": 1687443214,
       "rank": 30,
@@ -955,16 +987,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439684,
-      "num": 357875,
-      "word": "陈哲远他好满意自己的rap",
-      "onboard_time": 1687439912,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 439090,
-      "num": 340715,
+      "num": 356135,
       "word": "虞书欣立体花朵黑裙造型",
       "onboard_time": 1687440392,
       "rank": 25,
@@ -1011,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418797,
-      "num": 316782,
-      "word": "果然还是中国人心疼中国人",
-      "onboard_time": 1687442377,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 424678,
+      "num": 424678,
+      "word": "高考查分",
+      "onboard_time": 1687443876,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 406129,
@@ -1035,20 +1059,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399968,
-      "num": 331707,
-      "word": "长风渡导演看偷偷藏不住直播",
-      "onboard_time": 1687442675,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 399139,
       "num": 399139,
       "word": "原来荔枝也可以缓解痛经",
       "onboard_time": 1687425092,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398279,
+      "num": 336167,
+      "word": "中国好声音",
+      "onboard_time": 1687443638,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 394797,
@@ -1555,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266407,
+      "num": 266407,
+      "word": "流星",
+      "onboard_time": 1687443038,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264769,
       "num": 264769,
       "word": "男子上班途中偶遇时空裂缝",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1687396111,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258379,
-      "num": 258379,
-      "word": "女子遭老公家暴倒地后被拖进电梯",
-      "onboard_time": 1687442973,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253499,
@@ -1827,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222959,
-      "num": 222959,
-      "word": "流星",
-      "onboard_time": 1687443038,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222364,
       "num": 222364,
       "word": "为什么现在不流行非主流了",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1687351899,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 206142,
+      "num": 206142,
+      "word": "健身房教练 其实我以前也是个画画的",
+      "onboard_time": 1687443937,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 205907,
@@ -2635,6 +2659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115841,
+      "num": 699618,
+      "word": "老师凌晨等来考生接连喜报激动欢呼",
+      "onboard_time": 1687442436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112383,
       "num": 181177,
       "word": "银川烧烤店爆炸事故最新情况",
@@ -2659,7 +2691,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 93725,
+      "raw_hot": 97219,
       "num": 1807383,
       "word": "端午节习俗图鉴",
       "onboard_time": 1687438893,
@@ -2760,14 +2792,6 @@
       "word": "2022十大最美农村路",
       "onboard_time": 1687359219,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46109,
-      "num": 699618,
-      "word": "老师凌晨等来考生接连喜报激动欢呼",
-      "onboard_time": 1687442436,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
