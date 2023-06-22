@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687422812475,
+  "endTime": 1687425378050,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1716480,
+      "num": 1716480,
+      "word": "拉夏贝尔正式破产清算",
+      "onboard_time": 1687421011,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679595,
       "num": 1679595,
       "word": "手机号实名制已经10年了",
@@ -65,6 +73,14 @@
       "onboard_time": 1687405294,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1620326,
+      "num": 1114509,
+      "word": "甜馨10岁身高",
+      "onboard_time": 1687423712,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1601793,
@@ -83,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1465892,
+      "num": 1105165,
+      "word": "河北科技大学通报学生跳楼身亡",
+      "onboard_time": 1687422210,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1404564,
       "num": 1404564,
       "word": "无穷小亮 有个事挺瘆得慌",
       "onboard_time": 1687402653,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1369803,
+      "num": 1369803,
+      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+      "onboard_time": 1687421792,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1273408,
@@ -185,6 +217,22 @@
       "onboard_time": 1687418250,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 975528,
+      "num": 975528,
+      "word": "王皓",
+      "onboard_time": 1687422272,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 966839,
+      "num": 966839,
+      "word": "消失的她票房",
+      "onboard_time": 1687422450,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 961193,
@@ -355,27 +403,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 653932,
-      "num": 541917,
-      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
-      "onboard_time": 1687421792,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632052,
       "num": 632052,
       "word": "公司要倒闭的几个征兆",
       "onboard_time": 1687409314,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629859,
-      "num": 561734,
-      "word": "拉夏贝尔正式破产清算",
-      "onboard_time": 1687421011,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550166,
+      "num": 502141,
+      "word": "失踪潜艇副驾妻子是泰坦尼克号遇难者后代",
+      "onboard_time": 1687423953,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547350,
       "num": 547350,
       "word": "在妈妈坟前跳舞小女孩患有心脏病",
@@ -529,6 +569,22 @@
       "onboard_time": 1687359874,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 507131,
+      "num": 507131,
+      "word": "八角笼中",
+      "onboard_time": 1687422632,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 497675,
+      "num": 497675,
+      "word": "网友西湖偶遇梁家辉叶童",
+      "onboard_time": 1687421067,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 493660,
@@ -579,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428461,
+      "num": 428461,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 427661,
       "num": 427661,
       "word": "端午安康",
@@ -587,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423158,
-      "num": 400445,
-      "word": "消失的她票房",
-      "onboard_time": 1687422450,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 419481,
+      "num": 402756,
+      "word": "罗云熙粽子比脸大",
+      "onboard_time": 1687423292,
+      "rank": 20,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 406129,
@@ -601,14 +665,6 @@
       "onboard_time": 1687393468,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 404856,
-      "num": 355704,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 400595,
@@ -627,12 +683,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 385374,
-      "num": 385374,
-      "word": "河北科技大学通报学生跳楼身亡",
-      "onboard_time": 1687422210,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 386882,
+      "num": 386882,
+      "word": "久诚",
+      "onboard_time": 1687421971,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 384007,
@@ -651,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378518,
+      "num": 378518,
+      "word": "金牛座真的很擅长伪装",
+      "onboard_time": 1687421851,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377353,
       "num": 334938,
       "word": "这就是传说中的校草脸吧",
@@ -667,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375329,
-      "num": 375329,
-      "word": "久诚",
-      "onboard_time": 1687421971,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 373946,
       "num": 373946,
       "word": "终极三国",
@@ -689,6 +745,14 @@
       "onboard_time": 1687397672,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368890,
+      "num": 368890,
+      "word": "原来这条短信意义如此重大",
+      "onboard_time": 1687423171,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368700,
@@ -755,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347413,
+      "num": 347413,
+      "word": "15岁女生答72岁复旦教授",
+      "onboard_time": 1687422930,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 343898,
       "num": 343898,
       "word": "吴京新达咩表情包",
@@ -801,14 +873,6 @@
       "onboard_time": 1687421490,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322990,
-      "num": 322990,
-      "word": "网友西湖偶遇梁家辉叶童",
-      "onboard_time": 1687421067,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 315676,
@@ -907,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294407,
-      "num": 294407,
-      "word": "王皓",
-      "onboard_time": 1687422272,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 292710,
       "num": 292710,
       "word": "你能接受端午1天假调休凑3天吗",
@@ -937,6 +993,22 @@
       "onboard_time": 1687422332,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287621,
+      "num": 287621,
+      "word": "周星驰新电影招募女演员",
+      "onboard_time": 1687423413,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285594,
+      "num": 285594,
+      "word": "马斯克与扎克伯格约架",
+      "onboard_time": 1687424253,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 284724,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1687396111,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255780,
+      "num": 255780,
+      "word": "19岁藏族小伙救下掉入冰川游客",
+      "onboard_time": 1687424374,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253499,
@@ -1315,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204889,
+      "num": 233928,
+      "word": "RA战胜IG",
+      "onboard_time": 1687424790,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204675,
       "num": 175389,
       "word": "属实把小长假玩明白了",
@@ -1443,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193849,
-      "num": 193849,
-      "word": "八角笼中",
-      "onboard_time": 1687422632,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "吴磊赵今麦端午祝福",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1687397251,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193293,
+      "num": 193293,
+      "word": "原来荔枝也可以缓解痛经",
+      "onboard_time": 1687425092,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 192653,
@@ -1523,12 +1611,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187276,
-      "num": 187276,
-      "word": "金牛座真的很擅长伪装",
-      "onboard_time": 1687421851,
+      "raw_hot": 186043,
+      "num": 186043,
+      "word": "种地吧",
+      "onboard_time": 1687423112,
       "rank": 44,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 183405,
@@ -1561,6 +1649,14 @@
       "onboard_time": 1687360236,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178644,
+      "num": 178644,
+      "word": "五月天武汉演唱会",
+      "onboard_time": 1687424732,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 177897,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1687406491,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164883,
+      "num": 164883,
+      "word": "大湾区龙舟赛十大超燃瞬间",
+      "onboard_time": 1687424972,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164481,
@@ -1883,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103975,
+      "num": 1122113,
+      "word": "藏在古画里的端午仪式感",
+      "onboard_time": 1687421792,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99745,
       "num": 99745,
       "word": "官方通报网传大学生涉嫌卖淫800次",
@@ -1939,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70224,
-      "num": 1050841,
-      "word": "藏在古画里的端午仪式感",
-      "onboard_time": 1687421792,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60945,
       "num": 60945,
       "word": "马代酒店称涉事管家当日离职",
@@ -1968,6 +2072,14 @@
       "word": "2022十大最美农村路",
       "onboard_time": 1687359219,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26325,
+      "num": 453183,
+      "word": "粽有你所爱",
+      "onboard_time": 1687424433,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

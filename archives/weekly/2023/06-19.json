@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687422812475,
+  "endTime": 1687425378050,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -619,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1716480,
+      "num": 1716480,
+      "word": "拉夏贝尔正式破产清算",
+      "onboard_time": 1687421011,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679595,
       "num": 1679595,
       "word": "手机号实名制已经10年了",
@@ -681,6 +689,14 @@
       "onboard_time": 1687306590,
       "rank": 13,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1620326,
+      "num": 1114509,
+      "word": "甜馨10岁身高",
+      "onboard_time": 1687423712,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1601793,
@@ -819,6 +835,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1465892,
+      "num": 1105165,
+      "word": "河北科技大学通报学生跳楼身亡",
+      "onboard_time": 1687422210,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1462326,
       "num": 1462326,
       "word": "消失的她",
@@ -881,6 +905,14 @@
       "onboard_time": 1687145366,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1369803,
+      "num": 1369803,
+      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+      "onboard_time": 1687421792,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1360776,
@@ -1417,6 +1449,22 @@
       "onboard_time": 1687161587,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 975528,
+      "num": 975528,
+      "word": "王皓",
+      "onboard_time": 1687422272,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 966839,
+      "num": 966839,
+      "word": "消失的她票房",
+      "onboard_time": 1687422450,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 952379,
@@ -2139,14 +2187,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 653932,
-      "num": 541917,
-      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
-      "onboard_time": 1687421792,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 653129,
       "num": 543636,
       "word": "张萌这次演抓出轨",
@@ -2217,14 +2257,6 @@
       "onboard_time": 1687137807,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 629859,
-      "num": 561734,
-      "word": "拉夏贝尔正式破产清算",
-      "onboard_time": 1687421011,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 626537,
@@ -2507,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550166,
+      "num": 502141,
+      "word": "失踪潜艇副驾妻子是泰坦尼克号遇难者后代",
+      "onboard_time": 1687423953,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547350,
       "num": 547350,
       "word": "在妈妈坟前跳舞小女孩患有心脏病",
@@ -2675,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507131,
+      "num": 507131,
+      "word": "八角笼中",
+      "onboard_time": 1687422632,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505061,
       "num": 514133,
       "word": "布林肯访华",
@@ -2721,6 +2769,14 @@
       "onboard_time": 1687164945,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497675,
+      "num": 497675,
+      "word": "网友西湖偶遇梁家辉叶童",
+      "onboard_time": 1687421067,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 494993,
@@ -3051,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428461,
+      "num": 428461,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 428254,
       "num": 428254,
       "word": "一席之地 冠军",
@@ -3139,14 +3203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 423158,
-      "num": 400445,
-      "word": "消失的她票房",
-      "onboard_time": 1687422450,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 422696,
       "num": 422696,
       "word": "客户让高中女儿多看招聘网",
@@ -3161,6 +3217,14 @@
       "onboard_time": 1687073788,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 419481,
+      "num": 402756,
+      "word": "罗云熙粽子比脸大",
+      "onboard_time": 1687423292,
+      "rank": 20,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 417804,
@@ -3281,14 +3345,6 @@
       "onboard_time": 1687169980,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 404856,
-      "num": 355704,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 404840,
@@ -3419,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386882,
+      "num": 386882,
+      "word": "久诚",
+      "onboard_time": 1687421971,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 386139,
       "num": 275598,
       "word": "陈文茜谈黄子佼",
@@ -3433,14 +3497,6 @@
       "onboard_time": 1687332821,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 385374,
-      "num": 385374,
-      "word": "河北科技大学通报学生跳楼身亡",
-      "onboard_time": 1687422210,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 385131,
@@ -3475,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378518,
+      "num": 378518,
+      "word": "金牛座真的很擅长伪装",
+      "onboard_time": 1687421851,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378373,
       "num": 378373,
       "word": "刘芮麟谈与肖战合作",
@@ -3489,14 +3553,6 @@
       "onboard_time": 1687393172,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375329,
-      "num": 375329,
-      "word": "久诚",
-      "onboard_time": 1687421971,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 374278,
@@ -3553,6 +3609,14 @@
       "onboard_time": 1687077626,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368890,
+      "num": 368890,
+      "word": "原来这条短信意义如此重大",
+      "onboard_time": 1687423171,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368289,
@@ -3761,6 +3825,14 @@
       "onboard_time": 1687408174,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347413,
+      "num": 347413,
+      "word": "15岁女生答72岁复旦教授",
+      "onboard_time": 1687422930,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 347385,
@@ -4025,14 +4097,6 @@
       "onboard_time": 1687238914,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 322990,
-      "num": 322990,
-      "word": "网友西湖偶遇梁家辉叶童",
-      "onboard_time": 1687421067,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 321990,
@@ -4395,14 +4459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294407,
-      "num": 294407,
-      "word": "王皓",
-      "onboard_time": 1687422272,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293887,
       "num": 293887,
       "word": "蔡徐坤hugme开场",
@@ -4539,6 +4595,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 287621,
+      "num": 287621,
+      "word": "周星驰新电影招募女演员",
+      "onboard_time": 1687423413,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287395,
       "num": 243602,
       "word": "顾九思给柳玉茹下跪",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1687257332,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285594,
+      "num": 285594,
+      "word": "马斯克与扎克伯格约架",
+      "onboard_time": 1687424253,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 285563,
@@ -5145,6 +5217,14 @@
       "onboard_time": 1687218082,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255780,
+      "num": 255780,
+      "word": "19岁藏族小伙救下掉入冰川游客",
+      "onboard_time": 1687424374,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255210,
@@ -6052,7 +6132,7 @@
     },
     {
       "raw_hot": 218954,
-      "num": 171672,
+      "num": 186043,
       "word": "种地吧",
       "onboard_time": 1687280185,
       "rank": 25,
@@ -6441,6 +6521,14 @@
       "onboard_time": 1687168664,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204889,
+      "num": 233928,
+      "word": "RA战胜IG",
+      "onboard_time": 1687424790,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 204675,
@@ -6875,14 +6963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193849,
-      "num": 193849,
-      "word": "八角笼中",
-      "onboard_time": 1687422632,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "吴磊赵今麦端午祝福",
@@ -6904,6 +6984,14 @@
       "word": "在一起很久后必须分开的情况",
       "onboard_time": 1687182461,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193293,
+      "num": 193293,
+      "word": "原来荔枝也可以缓解痛经",
+      "onboard_time": 1687425092,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -7081,14 +7169,6 @@
       "onboard_time": 1687310012,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187276,
-      "num": 187276,
-      "word": "金牛座真的很擅长伪装",
-      "onboard_time": 1687421851,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 186681,
@@ -7281,6 +7361,14 @@
       "onboard_time": 1687166381,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178644,
+      "num": 178644,
+      "word": "五月天武汉演唱会",
+      "onboard_time": 1687424732,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 178369,
@@ -7745,6 +7833,14 @@
       "onboard_time": 1687278809,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164883,
+      "num": 164883,
+      "word": "大湾区龙舟赛十大超燃瞬间",
+      "onboard_time": 1687424972,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164787,
@@ -8787,6 +8883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103975,
+      "num": 1122113,
+      "word": "藏在古画里的端午仪式感",
+      "onboard_time": 1687421792,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103884,
       "num": 611506,
       "word": "高铁为带娃乘客暖心提供哄睡神器",
@@ -9099,14 +9203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70224,
-      "num": 1050841,
-      "word": "藏在古画里的端午仪式感",
-      "onboard_time": 1687421792,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68229,
       "num": 68229,
       "word": "买西瓜前为啥要拍一拍",
@@ -9401,6 +9497,14 @@
       "onboard_time": 1687298475,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26325,
+      "num": 453183,
+      "word": "粽有你所爱",
+      "onboard_time": 1687424433,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22018,
