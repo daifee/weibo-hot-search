@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687399111241,
+  "endTime": 1687401792085,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -313,6 +313,14 @@
       "onboard_time": 1686968367,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4038291,
+      "num": 4576583,
+      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+      "onboard_time": 1687398511,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3974526,
@@ -3003,14 +3011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1625604,
-      "num": 1625604,
-      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
-      "onboard_time": 1687398511,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1624748,
       "num": 1624748,
       "word": "卢靖姗顺产用了三十六个小时",
@@ -4787,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1256570,
+      "num": 1256570,
+      "word": "阿姨收到1920元工资塞500给老板",
+      "onboard_time": 1687392928,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1255756,
       "num": 1255756,
       "word": "Angelababy回归 跑男收视率",
@@ -4808,14 +4816,6 @@
       "word": "女子将俩幼女锁房间月余致其饿死",
       "onboard_time": 1686222332,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1253807,
-      "num": 1253807,
-      "word": "阿姨收到1920元工资塞500给老板",
-      "onboard_time": 1687392928,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -5025,6 +5025,14 @@
       "onboard_time": 1686354082,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1211822,
+      "num": 1211822,
+      "word": "5岁时的韩安冉",
+      "onboard_time": 1687396051,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1211115,
@@ -5297,14 +5305,6 @@
       "onboard_time": 1686265941,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1169237,
-      "num": 1169237,
-      "word": "5岁时的韩安冉",
-      "onboard_time": 1687396051,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 1168432,
@@ -6395,6 +6395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1027212,
+      "num": 491581,
+      "word": "炎亚纶被撤销台湾十大杰出青年资格",
+      "onboard_time": 1687388479,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026596,
       "num": 1026596,
       "word": "EDG首发名单",
@@ -6729,14 +6737,6 @@
       "onboard_time": 1686113026,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 991567,
-      "num": 491581,
-      "word": "炎亚纶被撤销台湾十大杰出青年资格",
-      "onboard_time": 1687388479,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 989202,
@@ -8971,6 +8971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 765461,
+      "num": 765461,
+      "word": "千万别在下午和晚上买机票",
+      "onboard_time": 1687393108,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 764023,
       "num": 764023,
       "word": "柯以敏 我比那英唱得更好",
@@ -9401,14 +9409,6 @@
       "onboard_time": 1687054167,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723894,
-      "num": 723894,
-      "word": "千万别在下午和晚上买机票",
-      "onboard_time": 1687393108,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 722852,
@@ -10369,6 +10369,14 @@
       "onboard_time": 1686194250,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 642019,
+      "num": 642019,
+      "word": "广东人为什么普遍都很瘦",
+      "onboard_time": 1687399594,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 641658,
@@ -11721,6 +11729,14 @@
       "onboard_time": 1686535827,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551323,
+      "num": 551323,
+      "word": "张艺兴点赞了EXO回归预告",
+      "onboard_time": 1687397731,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 551119,
@@ -13643,6 +13659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449140,
+      "num": 449140,
+      "word": "十个勤天",
+      "onboard_time": 1685687906,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448728,
       "num": 310461,
       "word": "饿了么",
@@ -14601,14 +14625,6 @@
       "onboard_time": 1687142966,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 415898,
-      "num": 415898,
-      "word": "张艺兴点赞了EXO回归预告",
-      "onboard_time": 1687397731,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 415710,
@@ -16035,6 +16051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373572,
+      "num": 373572,
+      "word": "朱一龙执意要求第一站选武汉",
+      "onboard_time": 1687397672,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373026,
       "num": 267448,
       "word": "TTG运营",
@@ -16377,6 +16401,14 @@
       "onboard_time": 1687088188,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365505,
+      "num": 365505,
+      "word": "种地吧 美丽浙江",
+      "onboard_time": 1687363712,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 365449,
@@ -19755,6 +19787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303198,
+      "num": 303198,
+      "word": "炎亚纶用的什么粉底液",
+      "onboard_time": 1687389501,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302799,
       "num": 302799,
       "word": "腾讯张军回应马化腾截图刷屏",
@@ -20065,14 +20105,6 @@
       "onboard_time": 1685590287,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297766,
-      "num": 297766,
-      "word": "朱一龙执意要求第一站选武汉",
-      "onboard_time": 1687397672,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 297691,
@@ -21337,14 +21369,6 @@
       "onboard_time": 1685692767,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282328,
-      "num": 282328,
-      "word": "炎亚纶用的什么粉底液",
-      "onboard_time": 1687389501,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 282235,
@@ -25307,6 +25331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244448,
+      "num": 239472,
+      "word": "过上了小说里的生活",
+      "onboard_time": 1686956838,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244438,
       "num": 244438,
       "word": "Uzi采访",
@@ -25961,6 +25993,14 @@
       "onboard_time": 1685610511,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238991,
+      "num": 238991,
+      "word": "杨颖金靖被透明观光廊吓到走不动",
+      "onboard_time": 1687400434,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 238948,
@@ -26721,14 +26761,6 @@
       "onboard_time": 1687272817,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233151,
-      "num": 233151,
-      "word": "种地吧 美丽浙江",
-      "onboard_time": 1687363712,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 233145,
@@ -29635,6 +29667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213571,
+      "num": 213571,
+      "word": "塞尔达传说王国之泪服装",
+      "onboard_time": 1687400434,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213471,
       "num": 213471,
       "word": "章若楠雨中分手哭戏",
@@ -29937,6 +29977,14 @@
       "onboard_time": 1687187561,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211648,
+      "num": 211648,
+      "word": "为什么现在不流行非主流了",
+      "onboard_time": 1687400914,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 211530,
@@ -31099,14 +31147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203647,
-      "num": 203647,
-      "word": "十个勤天",
-      "onboard_time": 1685687906,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203598,
       "num": 203598,
       "word": "刘宇音乐节表演LeftRight",
@@ -31761,6 +31801,14 @@
       "onboard_time": 1685609126,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200286,
+      "num": 200286,
+      "word": "粽子界显眼包",
+      "onboard_time": 1687399354,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 200269,
@@ -33233,6 +33281,14 @@
       "onboard_time": 1685603788,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192653,
+      "num": 192653,
+      "word": "银川烧烤店爆炸致31死7伤",
+      "onboard_time": 1687401393,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192650,
@@ -34939,6 +34995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185114,
+      "num": 185114,
+      "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
+      "onboard_time": 1687401513,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185026,
       "num": 185026,
       "word": "张艺兴深圳演唱会是四面台",
@@ -35569,6 +35633,14 @@
       "onboard_time": 1685943148,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181136,
+      "num": 181136,
+      "word": "银川一烧烤店燃气爆炸搜救出38人",
+      "onboard_time": 1687399173,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181027,
@@ -36849,6 +36921,14 @@
       "onboard_time": 1685546610,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172882,
+      "num": 172882,
+      "word": "李现看秀外网影响力",
+      "onboard_time": 1687400434,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 172879,
@@ -38929,6 +39009,14 @@
       "onboard_time": 1686455488,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160165,
+      "num": 160165,
+      "word": "马伯骞你是真的火了",
+      "onboard_time": 1687401693,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 160128,
@@ -41345,6 +41433,14 @@
       "onboard_time": 1687176700,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 145698,
+      "num": 145698,
+      "word": "业主躺沙发抽烟致火灾一家四口被困",
+      "onboard_time": 1687401631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145696,
@@ -48297,14 +48393,6 @@
       "onboard_time": 1685623287,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75520,
-      "num": 75520,
-      "word": "过上了小说里的生活",
-      "onboard_time": 1686956838,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 75169,

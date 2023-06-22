@@ -1,7 +1,15 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687399111241,
+  "endTime": 1687401792085,
   "band_list": [
+    {
+      "raw_hot": 4038291,
+      "num": 4576583,
+      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+      "onboard_time": 1687398511,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2178525,
       "num": 1284635,
@@ -25,14 +33,6 @@
       "onboard_time": 1687356456,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1625604,
-      "num": 1625604,
-      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
-      "onboard_time": 1687398511,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1601793,
@@ -59,16 +59,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1253807,
-      "num": 1253807,
+      "raw_hot": 1256570,
+      "num": 1256570,
       "word": "阿姨收到1920元工资塞500给老板",
       "onboard_time": 1687392928,
       "rank": 7,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1169237,
-      "num": 1169237,
+      "raw_hot": 1211822,
+      "num": 1211822,
       "word": "5岁时的韩安冉",
       "onboard_time": 1687396051,
       "rank": 4,
@@ -91,7 +91,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 991567,
+      "raw_hot": 1027212,
       "num": 491581,
       "word": "炎亚纶被撤销台湾十大杰出青年资格",
       "onboard_time": 1687388479,
@@ -139,19 +139,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 765461,
+      "num": 765461,
+      "word": "千万别在下午和晚上买机票",
+      "onboard_time": 1687393108,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 749942,
       "num": 749942,
       "word": "科目二我考了负725分",
       "onboard_time": 1687350394,
       "rank": 1,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 723894,
-      "num": 723894,
-      "word": "千万别在下午和晚上买机票",
-      "onboard_time": 1687393108,
-      "rank": 6,
       "category": "幽默"
     },
     {
@@ -177,6 +177,14 @@
       "onboard_time": 1687332636,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 642019,
+      "num": 642019,
+      "word": "广东人为什么普遍都很瘦",
+      "onboard_time": 1687399594,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 623923,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551323,
+      "num": 551323,
+      "word": "张艺兴点赞了EXO回归预告",
+      "onboard_time": 1687397731,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515408,
       "num": 515408,
       "word": "端午节",
@@ -275,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 449140,
+      "num": 449140,
+      "word": "十个勤天",
+      "onboard_time": 1687399954,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441889,
       "num": 441889,
       "word": "古巨基采访王菲被鸟屎砸到头",
@@ -289,14 +313,6 @@
       "onboard_time": 1687388601,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415898,
-      "num": 415898,
-      "word": "张艺兴点赞了EXO回归预告",
-      "onboard_time": 1687397731,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 406129,
@@ -347,12 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373572,
+      "num": 373572,
+      "word": "朱一龙执意要求第一站选武汉",
+      "onboard_time": 1687397672,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368700,
       "num": 368700,
       "word": "泰坦尼克号",
       "onboard_time": 1687359219,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365505,
+      "num": 365505,
+      "word": "种地吧 美丽浙江",
+      "onboard_time": 1687363712,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 349904,
@@ -403,6 +435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 303198,
+      "num": 303198,
+      "word": "炎亚纶用的什么粉底液",
+      "onboard_time": 1687389501,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301406,
       "num": 301406,
       "word": "偷偷藏不住哥和哥哥的区别",
@@ -419,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297766,
-      "num": 297766,
-      "word": "朱一龙执意要求第一站选武汉",
-      "onboard_time": 1687397672,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292710,
       "num": 292710,
       "word": "你能接受端午1天假调休凑3天吗",
@@ -441,14 +473,6 @@
       "onboard_time": 1687355495,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282328,
-      "num": 282328,
-      "word": "炎亚纶用的什么粉底液",
-      "onboard_time": 1687389501,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 259480,
@@ -499,11 +523,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244448,
+      "num": 239472,
+      "word": "过上了小说里的生活",
+      "onboard_time": 1687400850,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243832,
       "num": 243832,
       "word": "goingseventeen因制作问题延迟播出",
       "onboard_time": 1687361556,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238991,
+      "num": 238991,
+      "word": "杨颖金靖被透明观光廊吓到走不动",
+      "onboard_time": 1687400434,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -513,14 +553,6 @@
       "onboard_time": 1687351534,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233151,
-      "num": 233151,
-      "word": "种地吧 美丽浙江",
-      "onboard_time": 1687363712,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 231480,
@@ -563,12 +595,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213571,
+      "num": 213571,
+      "word": "塞尔达传说王国之泪服装",
+      "onboard_time": 1687400434,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212504,
       "num": 212504,
       "word": "少年行定档",
       "onboard_time": 1687364851,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211648,
+      "num": 211648,
+      "word": "为什么现在不流行非主流了",
+      "onboard_time": 1687400914,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 210524,
@@ -585,6 +633,14 @@
       "onboard_time": 1687351899,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200286,
+      "num": 200286,
+      "word": "粽子界显眼包",
+      "onboard_time": 1687399354,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 198287,
@@ -635,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192653,
+      "num": 192653,
+      "word": "银川烧烤店爆炸致31死7伤",
+      "onboard_time": 1687401393,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190419,
       "num": 190419,
       "word": "公司裁员把HR裁崩溃了",
@@ -659,11 +723,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185114,
+      "num": 185114,
+      "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
+      "onboard_time": 1687401513,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182059,
       "num": 182059,
       "word": "网友济南街头偶遇韦东奕",
       "onboard_time": 1687397971,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181136,
+      "num": 181136,
+      "word": "银川一烧烤店燃气爆炸搜救出38人",
+      "onboard_time": 1687399173,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -689,6 +769,14 @@
       "onboard_time": 1687394309,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172882,
+      "num": 172882,
+      "word": "李现看秀外网影响力",
+      "onboard_time": 1687400434,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 164481,
@@ -723,12 +811,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160165,
+      "num": 160165,
+      "word": "马伯骞你是真的火了",
+      "onboard_time": 1687401693,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151252,
       "num": 151252,
       "word": "段嘉许狠起来自己都骂",
       "onboard_time": 1687395210,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145698,
+      "num": 145698,
+      "word": "业主躺沙发抽烟致火灾一家四口被困",
+      "onboard_time": 1687401631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145487,
