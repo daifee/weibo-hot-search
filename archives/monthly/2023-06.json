@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687447029678,
+  "endTime": 1687448033621,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4647356,
+      "num": 4647356,
+      "word": "成都UFO",
+      "onboard_time": 1687445436,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4518444,
       "num": 966244,
       "word": "炎亚纶聊天记录",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3571249,
-      "num": 3571249,
-      "word": "成都UFO",
-      "onboard_time": 1687445436,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 3569579,
       "num": 3569579,
       "word": "汪峰 毕夏你要坚强",
@@ -441,6 +441,14 @@
       "onboard_time": 1686204272,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3470356,
+      "num": 3470356,
+      "word": "高考查分",
+      "onboard_time": 1687443876,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 3464101,
@@ -561,14 +569,6 @@
       "onboard_time": 1686624928,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 3199671,
-      "num": 3199671,
-      "word": "高考查分",
-      "onboard_time": 1687443876,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 3150204,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1686646407,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1978240,
+      "num": 1978240,
+      "word": "2023好声音导师官宣",
+      "onboard_time": 1687445014,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1976925,
@@ -3745,14 +3753,6 @@
       "onboard_time": 1686389967,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1490529,
-      "num": 1490529,
-      "word": "2023好声音导师官宣",
-      "onboard_time": 1687445014,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1487957,
@@ -11963,6 +11963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567225,
+      "num": 567225,
+      "word": "彭昱畅看完我爱你哭惨了",
+      "onboard_time": 1687445436,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567018,
       "num": 567018,
       "word": "EXO先行曲MV",
@@ -15211,14 +15219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 421740,
-      "num": 380162,
-      "word": "彭昱畅看完我爱你哭惨了",
-      "onboard_time": 1687445436,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 421293,
       "num": 421293,
       "word": "段磊怎么没了",
@@ -16435,6 +16435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386684,
+      "num": 386684,
+      "word": "端午快乐 端午安康",
+      "onboard_time": 1687447655,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386189,
       "num": 450449,
       "word": "Uzi爆料自己14号上场",
@@ -16561,6 +16569,14 @@
       "onboard_time": 1686355000,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 382630,
+      "num": 382630,
+      "word": "汪苏泷现场",
+      "onboard_time": 1687445915,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 382620,
@@ -20539,14 +20555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306766,
-      "num": 306766,
-      "word": "汪苏泷现场",
-      "onboard_time": 1687445915,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 306688,
       "num": 283340,
       "word": "郭俊辰早几年都干嘛去了",
@@ -20785,6 +20793,14 @@
       "onboard_time": 1687389501,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302992,
+      "num": 302992,
+      "word": "妈妈纠正孩子写8不封口最后发现自己错了",
+      "onboard_time": 1687446756,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302799,
@@ -23841,6 +23857,14 @@
       "onboard_time": 1685719235,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268508,
+      "num": 268508,
+      "word": "段嘉许KTV唱赵露思的歌",
+      "onboard_time": 1687447473,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 268398,
@@ -27179,6 +27203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239618,
+      "num": 239618,
+      "word": "北京乃至京津冀地区怎么就热成了全国第一",
+      "onboard_time": 1687447115,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239537,
       "num": 239537,
       "word": "杨丽萍回应舞剧孔雀演员造型",
@@ -27625,6 +27657,14 @@
       "onboard_time": 1686583109,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236617,
+      "num": 236617,
+      "word": "江苏今年已有102个百万富翁",
+      "onboard_time": 1687445557,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236599,
@@ -31691,14 +31731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209514,
-      "num": 209514,
-      "word": "江苏今年已有102个百万富翁",
-      "onboard_time": 1687445557,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209365,
       "num": 209365,
       "word": "YG出小分队的方式好炸裂",
@@ -33769,14 +33801,6 @@
       "onboard_time": 1686787949,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197807,
-      "num": 197807,
-      "word": "妈妈纠正孩子写8不封口最后发现自己错了",
-      "onboard_time": 1687446756,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197787,
@@ -43619,6 +43643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142915,
+      "num": 142915,
+      "word": "这粽子是犯了天条吗被绑成这样",
+      "onboard_time": 1687448013,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142890,
       "num": 347065,
       "word": "618有没有作业借我抄抄",
@@ -48980,7 +49012,7 @@
     },
     {
       "raw_hot": 97219,
-      "num": 1807383,
+      "num": 2562875,
       "word": "端午节习俗图鉴",
       "onboard_time": 1687438893,
       "rank": 2,
@@ -52715,20 +52747,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25594,
+      "num": 529608,
+      "word": "和平精英亚运征途媒体日",
+      "onboard_time": 1687446216,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25383,
       "num": 1292416,
       "word": "神舟十六号飞天全回顾",
       "onboard_time": 1685694809,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 24935,
-      "num": 529608,
-      "word": "和平精英亚运征途媒体日",
-      "onboard_time": 1687446216,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 24627,
