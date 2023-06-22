@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687438222321,
+  "endTime": 1687440003914,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -17,6 +17,14 @@
       "onboard_time": 1687435289,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2234911,
+      "num": 2234911,
+      "word": "马伯庸 别人发端午安康我回复端午快乐",
+      "onboard_time": 1687432294,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 2178525,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1899978,
-      "num": 1899978,
-      "word": "马伯庸 别人发端午安康我回复端午快乐",
-      "onboard_time": 1687432294,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1880234,
       "num": 1880234,
       "word": "失联泰坦尼克号观光艇氧气即将耗尽",
@@ -105,6 +105,14 @@
       "onboard_time": 1687405294,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1655539,
+      "num": 1655539,
+      "word": "长风渡14集杀疯了",
+      "onboard_time": 1687436311,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1620326,
@@ -171,20 +179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1402355,
-      "num": 1402355,
-      "word": "长风渡14集杀疯了",
-      "onboard_time": 1687436311,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1388359,
       "num": 1388359,
       "word": "家属称剖宫产时孩子大腿被医生掰骨折",
       "onboard_time": 1687421792,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1385823,
+      "num": 1073734,
+      "word": "沙溢长风渡下线",
+      "onboard_time": 1687437032,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1384704,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1103096,
+      "num": 1103096,
+      "word": "银川市委副书记致歉",
+      "onboard_time": 1687437633,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089578,
       "num": 1089578,
       "word": "国人买iPhone14Pro需9.5%年收入",
@@ -296,14 +312,6 @@
       "word": "文咏珊好媚",
       "onboard_time": 1687433251,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1030507,
-      "num": 1030507,
-      "word": "沙溢长风渡下线",
-      "onboard_time": 1687437032,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -393,14 +401,6 @@
       "onboard_time": 1687410575,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 828620,
-      "num": 594425,
-      "word": "银川市委副书记致歉",
-      "onboard_time": 1687437633,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 828524,
@@ -537,6 +537,14 @@
       "onboard_time": 1687332636,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 647741,
+      "num": 647741,
+      "word": "泰坦尼克号",
+      "onboard_time": 1687359219,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644511,
@@ -955,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387880,
+      "num": 387880,
+      "word": "乘风四公芭莎多巴胺大片",
+      "onboard_time": 1687436910,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386882,
       "num": 386882,
       "word": "久诚",
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375291,
+      "num": 266896,
+      "word": "专家称银川烧烤店店员处理方式有问题",
+      "onboard_time": 1687438473,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373946,
       "num": 373946,
       "word": "终极三国",
@@ -1016,14 +1040,6 @@
       "word": "原来这条短信意义如此重大",
       "onboard_time": 1687423171,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368700,
-      "num": 368700,
-      "word": "泰坦尼克号",
-      "onboard_time": 1687359219,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345065,
+      "num": 345065,
+      "word": "赵露思马伯骞直播也能吵起来",
+      "onboard_time": 1687439191,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343898,
       "num": 343898,
       "word": "吴京新达咩表情包",
@@ -1121,6 +1145,22 @@
       "onboard_time": 1687408294,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335885,
+      "num": 266832,
+      "word": "陈哲远他好满意自己的rap",
+      "onboard_time": 1687439912,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334489,
+      "num": 334489,
+      "word": "OMG对战WE",
+      "onboard_time": 1687439191,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 332619,
@@ -1179,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311243,
+      "num": 311243,
+      "word": "当你的百岁女友闹情绪了",
+      "onboard_time": 1687439191,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310890,
       "num": 310890,
       "word": "孙亦航拿抑郁症玩梗",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1687344994,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305900,
-      "num": 305900,
-      "word": "乘风四公芭莎多巴胺大片",
-      "onboard_time": 1687436910,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 304759,
@@ -1555,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242348,
+      "num": 242348,
+      "word": "赵丽娜报名周星驰新电影",
+      "onboard_time": 1687439671,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242109,
       "num": 242109,
       "word": "杨幂30秒过端午",
@@ -1632,6 +1680,14 @@
       "word": "原来心情不好真的会变丑",
       "onboard_time": 1687392448,
       "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 230773,
+      "num": 230773,
+      "word": "领导 你们人还怪好嘞",
+      "onboard_time": 1687437810,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -2041,14 +2097,6 @@
       "onboard_time": 1687410692,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189297,
-      "num": 189297,
-      "word": "领导 你们人还怪好嘞",
-      "onboard_time": 1687437810,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 188920,
@@ -2531,6 +2579,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 64372,
+      "num": 1807383,
+      "word": "端午节习俗图鉴",
+      "onboard_time": 1687438893,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63669,
       "num": 407840,
       "word": "男装周多巴胺穿搭",
@@ -2567,6 +2623,14 @@
       "num": 829022,
       "word": "女子打车给消防送粽子西瓜消暑过节",
       "onboard_time": 1687431634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26740,
+      "num": 502817,
+      "word": "65年前汉江龙舟赛是什么样",
+      "onboard_time": 1687438893,
       "rank": 14,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687438222321,
+  "endTime": 1687440003914,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2234911,
+      "num": 2234911,
+      "word": "马伯庸 别人发端午安康我回复端午快乐",
+      "onboard_time": 1687432294,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2204741,
       "num": 2204741,
       "word": "关闭朋友圈半年后的变化",
@@ -545,14 +553,6 @@
       "onboard_time": 1687261829,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1899978,
-      "num": 1899978,
-      "word": "马伯庸 别人发端午安康我回复端午快乐",
-      "onboard_time": 1687432294,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1893816,
@@ -689,6 +689,14 @@
       "onboard_time": 1687405294,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1655539,
+      "num": 1655539,
+      "word": "长风渡14集杀疯了",
+      "onboard_time": 1687436311,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1655173,
@@ -939,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1402355,
-      "num": 1402355,
-      "word": "长风渡14集杀疯了",
-      "onboard_time": 1687436311,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1399891,
       "num": 1399891,
       "word": "马思纯扇巴掌戏被打到闭眼",
@@ -961,6 +961,14 @@
       "onboard_time": 1687421792,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1385823,
+      "num": 1073734,
+      "word": "沙溢长风渡下线",
+      "onboard_time": 1687437032,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1384704,
@@ -1283,6 +1291,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1103096,
+      "num": 1103096,
+      "word": "银川市委副书记致歉",
+      "onboard_time": 1687437633,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1101596,
       "num": 1101596,
       "word": "马伯骞问爱马仕是什么",
@@ -1424,14 +1440,6 @@
       "word": "文咏珊好媚",
       "onboard_time": 1687433251,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1030507,
-      "num": 1030507,
-      "word": "沙溢长风渡下线",
-      "onboard_time": 1687437032,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -1857,14 +1865,6 @@
       "onboard_time": 1687180119,
       "rank": 49,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 828620,
-      "num": 594425,
-      "word": "银川市委副书记致歉",
-      "onboard_time": 1687437633,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 828524,
@@ -2337,6 +2337,14 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 647741,
+      "num": 647741,
+      "word": "泰坦尼克号",
+      "onboard_time": 1687359219,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644511,
@@ -2945,14 +2953,6 @@
       "onboard_time": 1687328320,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 499834,
-      "num": 499834,
-      "word": "泰坦尼克号",
-      "onboard_time": 1687359219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499342,
@@ -3739,6 +3739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387880,
+      "num": 387880,
+      "word": "乘风四公芭莎多巴胺大片",
+      "onboard_time": 1687436910,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387109,
       "num": 387109,
       "word": "幼师给幼儿喂避孕药面临什么法律责任",
@@ -3816,6 +3824,14 @@
       "word": "宁夏银川一烧烤店发生爆炸",
       "onboard_time": 1687393172,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375291,
+      "num": 266896,
+      "word": "专家称银川烧烤店店员处理方式有问题",
+      "onboard_time": 1687438473,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4155,6 +4171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345065,
+      "num": 345065,
+      "word": "赵露思马伯骞直播也能吵起来",
+      "onboard_time": 1687439191,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344366,
       "num": 402486,
       "word": "你是一具受潮的木乃伊",
@@ -4281,6 +4305,22 @@
       "onboard_time": 1687341758,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335885,
+      "num": 266832,
+      "word": "陈哲远他好满意自己的rap",
+      "onboard_time": 1687439912,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334489,
+      "num": 334489,
+      "word": "OMG对战WE",
+      "onboard_time": 1687439191,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 333977,
@@ -4539,6 +4579,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 311243,
+      "num": 311243,
+      "word": "当你的百岁女友闹情绪了",
+      "onboard_time": 1687439191,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311047,
       "num": 311047,
       "word": "没有不喜欢妈妈但却无法交流",
@@ -4625,14 +4673,6 @@
       "onboard_time": 1687335576,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305900,
-      "num": 305900,
-      "word": "乘风四公芭莎多巴胺大片",
-      "onboard_time": 1687436910,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 305813,
@@ -5875,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242348,
+      "num": 242348,
+      "word": "赵丽娜报名周星驰新电影",
+      "onboard_time": 1687439671,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242279,
       "num": 242279,
       "word": "小猫咪变脸只在一瞬间",
@@ -6289,6 +6337,14 @@
       "onboard_time": 1687349854,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230773,
+      "num": 230773,
+      "word": "领导 你们人还怪好嘞",
+      "onboard_time": 1687437810,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 230707,
@@ -7513,14 +7569,6 @@
       "onboard_time": 1687140566,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189297,
-      "num": 189297,
-      "word": "领导 你们人还怪好嘞",
-      "onboard_time": 1687437810,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 189228,
@@ -9715,6 +9763,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 64372,
+      "num": 1807383,
+      "word": "端午节习俗图鉴",
+      "onboard_time": 1687438893,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64296,
       "num": 404002,
       "word": "女子抱幼子跳河民辅警舍命相救",
@@ -9977,6 +10033,14 @@
       "onboard_time": 1687124593,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26740,
+      "num": 502817,
+      "word": "65年前汉江龙舟赛是什么样",
+      "onboard_time": 1687438893,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26361,
