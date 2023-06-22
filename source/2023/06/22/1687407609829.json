@@ -1,0 +1,410 @@
+{
+  "runTime": 1687407609829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7300825,
+        "num": 7300825,
+        "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+        "onboard_time": 1687398511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030148,
+        "num": 1030148,
+        "word": "马伯骞你是真的火了",
+        "onboard_time": 1687401693,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21413,
+        "num": 1002179,
+        "word": "端午假期第一天",
+        "onboard_time": 1687397009,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993097,
+        "num": 993097,
+        "word": "无穷小亮 有个事挺瘆得慌",
+        "onboard_time": 1687402653,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 922135,
+        "num": 922135,
+        "word": "目击者讲述银川烧烤店爆炸",
+        "onboard_time": 1687403071,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835395,
+        "num": 835395,
+        "word": "千万别在下午和晚上买机票",
+        "onboard_time": 1687393108,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 745843,
+        "num": 745843,
+        "word": "为什么大家都不再发朋友圈了",
+        "onboard_time": 1687402174,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 659536,
+        "num": 659536,
+        "word": "福布斯称Jennie有资格获艾美奖",
+        "onboard_time": 1687406017,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92378,
+        "num": 656741,
+        "word": "赛龙舟原来这么燃",
+        "onboard_time": 1687359035,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656279,
+        "num": 656279,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1296078,
+        "num": 611366,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1293013,
+        "num": 601033,
+        "word": "内马尔为孕期出轨道歉",
+        "onboard_time": 1687389922,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 553526,
+        "num": 553526,
+        "word": "在公司穿短裤被同事投诉了",
+        "onboard_time": 1687403372,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550992,
+        "num": 550992,
+        "word": "猴痘",
+        "onboard_time": 1687406612,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543562,
+        "num": 543562,
+        "word": "在妈妈坟前跳舞小女孩患有心脏病",
+        "onboard_time": 1687404035,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 527698,
+        "num": 527698,
+        "word": "5岁时的韩安冉",
+        "onboard_time": 1687396051,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 490343,
+        "num": 490343,
+        "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+        "onboard_time": 1687406372,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461434,
+        "num": 461434,
+        "word": "曾黎见到老同学狂奔5米合照",
+        "onboard_time": 1687406734,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416219,
+        "num": 416219,
+        "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+        "onboard_time": 1687406672,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403110,
+        "num": 403110,
+        "word": "广东人为什么普遍都很瘦",
+        "onboard_time": 1687399594,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 612981,
+        "num": 402742,
+        "word": "瘦子被控性侵",
+        "onboard_time": 1687389501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393564,
+        "num": 393564,
+        "word": "已婚人士有哪些建议给未婚人士",
+        "onboard_time": 1687404397,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388831,
+        "num": 388831,
+        "word": "为什么猫喜欢把屁股对着人",
+        "onboard_time": 1687403614,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380459,
+        "num": 380459,
+        "word": "女明星端午节营业照",
+        "onboard_time": 1687406134,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371988,
+        "num": 371988,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290077,
+        "num": 290077,
+        "word": "北京大爷不想让孩子要孩子",
+        "onboard_time": 1687388899,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276105,
+        "num": 276105,
+        "word": "EXO新专K4预售突破50万张",
+        "onboard_time": 1687406433,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249351,
+        "num": 249351,
+        "word": "30个同学聚餐让每人出1000元",
+        "onboard_time": 1687393468,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243996,
+        "num": 243996,
+        "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
+        "onboard_time": 1687401513,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237210,
+        "num": 237210,
+        "word": "端午节",
+        "onboard_time": 1687388720,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232473,
+        "num": 232473,
+        "word": "Angelababy七年前vs七年后",
+        "onboard_time": 1687388840,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231129,
+        "num": 231129,
+        "word": "内蒙古的简称是什么",
+        "onboard_time": 1687391606,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228977,
+        "num": 228977,
+        "word": "端午安康",
+        "onboard_time": 1687388601,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228095,
+        "num": 228095,
+        "word": "十个勤天",
+        "onboard_time": 1687399954,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216356,
+        "num": 216356,
+        "word": "白敬亭的身没白健",
+        "onboard_time": 1687404334,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212322,
+        "num": 212322,
+        "word": "终于知道为什么不让小动物说话了",
+        "onboard_time": 1687405114,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209367,
+        "num": 209367,
+        "word": "易梦玲头发上系蝴蝶结",
+        "onboard_time": 1687406855,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201907,
+        "num": 201907,
+        "word": "宋雨琦笑脸vs冷脸",
+        "onboard_time": 1687404935,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186701,
+        "num": 186701,
+        "word": "夫妻江中不幸溺亡女儿岸边哭喊求救",
+        "onboard_time": 1687392629,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182513,
+        "num": 182513,
+        "word": "古巨基采访王菲被鸟屎砸到头",
+        "onboard_time": 1687394070,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176593,
+        "num": 176593,
+        "word": "NBA交易",
+        "onboard_time": 1687396111,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174874,
+        "num": 174874,
+        "word": "潜艇",
+        "onboard_time": 1687405294,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173847,
+        "num": 173847,
+        "word": "深圳一女子洗澡时因触电身亡",
+        "onboard_time": 1687361256,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167274,
+        "num": 167274,
+        "word": "你能接受端午1天假调休凑3天吗",
+        "onboard_time": 1687396232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166424,
+        "num": 166424,
+        "word": "到底要学到什么程度才能上岸",
+        "onboard_time": 1687406491,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149734,
+        "num": 149734,
+        "word": "虞书欣巴黎探店路透",
+        "onboard_time": 1687401872,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147175,
+        "num": 147175,
+        "word": "管文公司员工迟到3次就被辞退",
+        "onboard_time": 1687405474,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146735,
+        "num": 146735,
+        "word": "为什么现在不流行非主流了",
+        "onboard_time": 1687400914,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146676,
+        "num": 146676,
+        "word": "宋雨琦粉色挂脖吊带",
+        "onboard_time": 1687402471,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118204,
+        "num": 145289,
+        "word": "塞尔达传说王国之泪服装",
+        "onboard_time": 1687400434,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#感知端午魅力传承爱国情怀#"
+    }
+  }
+}

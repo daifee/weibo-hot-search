@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687404843730,
+  "endTime": 1687407609829,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1296078,
+      "num": 611366,
+      "word": "韩安冉婚礼随礼名单",
+      "onboard_time": 1687405294,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1293958,
       "num": 1293958,
       "word": "大四男生实习薪资1万4妈妈仰天大笑",
@@ -1227,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1030148,
+      "num": 1030148,
+      "word": "马伯骞你是真的火了",
+      "onboard_time": 1687401693,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1027212,
       "num": 491581,
       "word": "炎亚纶被撤销台湾十大杰出青年资格",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1687315953,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993097,
+      "num": 993097,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 989038,
@@ -1419,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 922135,
+      "num": 922135,
+      "word": "目击者讲述银川烧烤店爆炸",
+      "onboard_time": 1687403071,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918293,
       "num": 876661,
       "word": "王源回应妈妈进不去自己的演唱会",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1687100132,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 903454,
-      "num": 239376,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 900124,
@@ -1771,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745843,
+      "num": 745843,
+      "word": "为什么大家都不再发朋友圈了",
+      "onboard_time": 1687402174,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 742910,
       "num": 532950,
       "word": "黄子佼出院",
@@ -1939,14 +1971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 672647,
-      "num": 672647,
-      "word": "为什么大家都不再发朋友圈了",
-      "onboard_time": 1687402174,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 672446,
       "num": 672446,
       "word": "白鹿请助理看五月天演唱会",
@@ -1987,12 +2011,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 654794,
-      "num": 654794,
-      "word": "马伯骞你是真的火了",
-      "onboard_time": 1687401693,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 659536,
+      "num": 659536,
+      "word": "福布斯称Jennie有资格获艾美奖",
+      "onboard_time": 1687406017,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 653129,
@@ -2267,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553526,
+      "num": 553526,
+      "word": "在公司穿短裤被同事投诉了",
+      "onboard_time": 1687403372,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553334,
       "num": 553334,
       "word": "内蒙古的简称是什么",
@@ -2299,12 +2331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550992,
+      "num": 550992,
+      "word": "猴痘",
+      "onboard_time": 1687406612,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546536,
       "num": 546536,
       "word": "张小狮 这一系列畸形的爱到底有多可怕",
       "onboard_time": 1687265131,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 543562,
+      "num": 543562,
+      "word": "在妈妈坟前跳舞小女孩患有心脏病",
+      "onboard_time": 1687404035,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 543490,
@@ -2539,20 +2587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490343,
+      "num": 490343,
+      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+      "onboard_time": 1687406372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490117,
       "num": 490117,
       "word": "柴犬看了都想回日本",
       "onboard_time": 1687135350,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 489272,
-      "num": 453227,
-      "word": "目击者讲述银川烧烤店爆炸",
-      "onboard_time": 1687403071,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487923,
@@ -2627,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461434,
+      "num": 461434,
+      "word": "曾黎见到老同学狂奔5米合照",
+      "onboard_time": 1687406734,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460130,
       "num": 414405,
       "word": "偷偷藏不住",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1687338103,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 457103,
-      "num": 449310,
-      "word": "在公司穿短裤被同事投诉了",
-      "onboard_time": 1687403372,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 456070,
@@ -2955,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416219,
+      "num": 416219,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415898,
       "num": 332246,
       "word": "NewJeans新专辑GetUp",
@@ -3115,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393564,
+      "num": 393564,
+      "word": "已婚人士有哪些建议给未婚人士",
+      "onboard_time": 1687404397,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391628,
       "num": 391628,
       "word": "这背影居然是蔡少芬",
@@ -3217,6 +3281,14 @@
       "onboard_time": 1687097429,
       "rank": 16,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 380459,
+      "num": 380459,
+      "word": "女明星端午节营业照",
+      "onboard_time": 1687406134,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 378373,
@@ -4163,14 +4235,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 287191,
-      "num": 287191,
-      "word": "在妈妈坟前跳舞小女孩患有心脏病",
-      "onboard_time": 1687404035,
-      "rank": 23,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 286351,
       "num": 286351,
       "word": "EDG惜败亚太第一PRX",
@@ -4297,6 +4361,14 @@
       "onboard_time": 1687264531,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276105,
+      "num": 276105,
+      "word": "EXO新专K4预售突破50万张",
+      "onboard_time": 1687406433,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 275546,
@@ -5491,14 +5563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 221118,
-      "num": 221118,
-      "word": "已婚人士有哪些建议给未婚人士",
-      "onboard_time": 1687404397,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220765,
       "num": 220765,
       "word": "淄博书法大师3万字微楷被女子划破",
@@ -5532,7 +5596,7 @@
     },
     {
       "raw_hot": 219595,
-      "num": 219595,
+      "num": 1002179,
       "word": "端午假期第一天",
       "onboard_time": 1687397009,
       "rank": 30,
@@ -5593,6 +5657,14 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216356,
+      "num": 216356,
+      "word": "白敬亭的身没白健",
+      "onboard_time": 1687404334,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 216129,
@@ -5707,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212322,
+      "num": 212322,
+      "word": "终于知道为什么不让小动物说话了",
+      "onboard_time": 1687405114,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212056,
       "num": 212056,
       "word": "短短几天被救三次的麋鹿",
@@ -5761,6 +5841,14 @@
       "onboard_time": 1687257093,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209367,
+      "num": 209367,
+      "word": "易梦玲头发上系蝴蝶结",
+      "onboard_time": 1687406855,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 208968,
@@ -5937,6 +6025,14 @@
       "onboard_time": 1687178559,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201907,
+      "num": 201907,
+      "word": "宋雨琦笑脸vs冷脸",
+      "onboard_time": 1687404935,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 201473,
@@ -6683,6 +6779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174874,
+      "num": 174874,
+      "word": "潜艇",
+      "onboard_time": 1687405294,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174806,
       "num": 174806,
       "word": "谁教你这么做猫的",
@@ -6697,14 +6801,6 @@
       "onboard_time": 1687321840,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174403,
-      "num": 174403,
-      "word": "白敬亭的身没白健",
-      "onboard_time": 1687404334,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 174377,
@@ -6961,6 +7057,14 @@
       "onboard_time": 1687404693,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166424,
+      "num": 166424,
+      "word": "到底要学到什么程度才能上岸",
+      "onboard_time": 1687406491,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 166014,
@@ -7441,6 +7545,14 @@
       "onboard_time": 1687353938,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147175,
+      "num": 147175,
+      "word": "管文公司员工迟到3次就被辞退",
+      "onboard_time": 1687405474,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 147132,
