@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687407609829,
+  "endTime": 1687408435857,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4187,6 +4187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1356795,
+      "num": 611366,
+      "word": "韩安冉婚礼随礼名单",
+      "onboard_time": 1687405294,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1351499,
       "num": 859586,
       "word": "李彩桦回应恋情",
@@ -4513,14 +4521,6 @@
       "onboard_time": 1686716196,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1296078,
-      "num": 611366,
-      "word": "韩安冉婚礼随礼名单",
-      "onboard_time": 1687405294,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1294356,
@@ -5169,6 +5169,14 @@
       "onboard_time": 1685722770,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1189314,
+      "num": 1189314,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1189145,
@@ -6745,14 +6753,6 @@
       "onboard_time": 1687315953,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 993097,
-      "num": 993097,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 993047,
@@ -8915,6 +8915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 771406,
+      "num": 771406,
+      "word": "福布斯称Jennie有资格获艾美奖",
+      "onboard_time": 1687406017,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 771000,
       "num": 771000,
       "word": "长风渡",
@@ -10307,14 +10315,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 659536,
-      "num": 659536,
-      "word": "福布斯称Jennie有资格获艾美奖",
-      "onboard_time": 1687406017,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 659490,
       "num": 659490,
       "word": "Jennie小松菜奈热聊",
@@ -10361,6 +10361,14 @@
       "onboard_time": 1687350154,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 653071,
+      "num": 653071,
+      "word": "曾黎见到老同学狂奔5米合照",
+      "onboard_time": 1687406734,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 649845,
@@ -11403,6 +11411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 574828,
+      "num": 574828,
+      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+      "onboard_time": 1687406372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573709,
       "num": 573709,
       "word": "鞠婧祎反手一个大比兜",
@@ -11859,6 +11875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 547350,
+      "num": 547350,
+      "word": "在妈妈坟前跳舞小女孩患有心脏病",
+      "onboard_time": 1687404035,
+      "rank": 23,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 546536,
       "num": 546536,
       "word": "张小狮 这一系列畸形的爱到底有多可怕",
@@ -11921,14 +11945,6 @@
       "onboard_time": 1686037587,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 543562,
-      "num": 543562,
-      "word": "在妈妈坟前跳舞小女孩患有心脏病",
-      "onboard_time": 1687404035,
-      "rank": 23,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 543531,
@@ -12377,6 +12393,14 @@
       "onboard_time": 1687140088,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516982,
+      "num": 354375,
+      "word": "徐明浩手机里的自己",
+      "onboard_time": 1687408414,
+      "rank": 21,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 516095,
@@ -12891,14 +12915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 490343,
-      "num": 490343,
-      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
-      "onboard_time": 1687406372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490323,
       "num": 474770,
       "word": "倪妮的项链是腕表",
@@ -13259,6 +13275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 474685,
+      "num": 474685,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474378,
       "num": 474378,
       "word": "虞书欣直播手势",
@@ -13489,14 +13513,6 @@
       "onboard_time": 1686488192,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461434,
-      "num": 461434,
-      "word": "曾黎见到老同学狂奔5米合照",
-      "onboard_time": 1687406734,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 461349,
@@ -14712,14 +14728,6 @@
       "word": "女孩毕设展陌生人添上3颗珍珠",
       "onboard_time": 1687323167,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416219,
-      "num": 416219,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -19131,6 +19139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314387,
+      "num": 314387,
+      "word": "十个勤天的第一次划龙舟体验",
+      "onboard_time": 1687408174,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314357,
       "num": 314357,
       "word": "粉丝曝成毅每天十几小时打戏",
@@ -20417,6 +20433,14 @@
       "onboard_time": 1685935653,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295750,
+      "num": 295750,
+      "word": "EXO新专K4预售突破50万张",
+      "onboard_time": 1687406433,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 295646,
@@ -22049,14 +22073,6 @@
       "onboard_time": 1685846605,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276105,
-      "num": 276105,
-      "word": "EXO新专K4预售突破50万张",
-      "onboard_time": 1687406433,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 275688,
@@ -25539,6 +25555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243971,
+      "num": 231017,
+      "word": "李白到底有多有钱",
+      "onboard_time": 1687408233,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243909,
       "num": 243909,
       "word": "蔡徐坤美甲上有字",
@@ -26673,6 +26697,14 @@
       "onboard_time": 1687236700,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 235301,
+      "num": 235301,
+      "word": "银川烧烤店爆炸事故9名责任人被控制",
+      "onboard_time": 1687408174,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235187,
@@ -28331,6 +28363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224005,
+      "num": 218007,
+      "word": "未定事件簿",
+      "onboard_time": 1686058533,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223984,
       "num": 223984,
       "word": "郑秀妍 勇敢又有担当",
@@ -28433,6 +28473,14 @@
       "onboard_time": 1686812725,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223064,
+      "num": 223064,
+      "word": "易梦玲头发上系蝴蝶结",
+      "onboard_time": 1687406855,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 222953,
@@ -30489,14 +30537,6 @@
       "onboard_time": 1686791189,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209367,
-      "num": 209367,
-      "word": "易梦玲头发上系蝴蝶结",
-      "onboard_time": 1687406855,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 209365,
@@ -33579,6 +33619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191976,
+      "num": 201855,
+      "word": "斯玛特",
+      "onboard_time": 1687408294,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191971,
       "num": 191971,
       "word": "恩佐助攻梅西",
@@ -34545,6 +34593,14 @@
       "onboard_time": 1687337017,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188483,
+      "num": 188483,
+      "word": "吴磊赵今麦端午祝福",
+      "onboard_time": 1687408414,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 188475,
@@ -41043,6 +41099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149915,
+      "num": 149915,
+      "word": "多地高考出分",
+      "onboard_time": 1687407753,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 149809,
       "num": 174497,
       "word": "哪些人容易得黑色素瘤",
@@ -44593,14 +44657,6 @@
       "onboard_time": 1686997412,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126272,
-      "num": 148670,
-      "word": "未定事件簿",
-      "onboard_time": 1686058533,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 126224,
@@ -48737,6 +48793,14 @@
       "onboard_time": 1685588427,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73760,
+      "num": 1011086,
+      "word": "赛龙舟不只是一群人一起划划船",
+      "onboard_time": 1687407753,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73723,

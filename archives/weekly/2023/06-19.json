@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687407609829,
+  "endTime": 1687408435857,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -859,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1356795,
+      "num": 611366,
+      "word": "韩安冉婚礼随礼名单",
+      "onboard_time": 1687405294,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1347501,
       "num": 429631,
       "word": "黄子佼最新情况",
@@ -913,14 +921,6 @@
       "onboard_time": 1687309114,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1296078,
-      "num": 611366,
-      "word": "韩安冉婚礼随礼名单",
-      "onboard_time": 1687405294,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1293958,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1687222055,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1189314,
+      "num": 1189314,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1180741,
@@ -1331,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 993097,
-      "num": 993097,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 989038,
       "num": 989038,
       "word": "南宁地铁推倒女站务员男子已被行拘",
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856852,
+      "num": 856852,
+      "word": "猴痘",
+      "onboard_time": 1687406612,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854276,
       "num": 854276,
       "word": "白敬亭宋轶对视没有技巧全是感情",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1687399594,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 771406,
+      "num": 771406,
+      "word": "福布斯称Jennie有资格获艾美奖",
+      "onboard_time": 1687406017,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 766908,
@@ -2011,20 +2027,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 659536,
-      "num": 659536,
-      "word": "福布斯称Jennie有资格获艾美奖",
-      "onboard_time": 1687406017,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 653129,
       "num": 543636,
       "word": "张萌这次演抓出轨",
       "onboard_time": 1687350154,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 653071,
+      "num": 653071,
+      "word": "曾黎见到老同学狂奔5米合照",
+      "onboard_time": 1687406734,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 649845,
@@ -2227,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574828,
+      "num": 574828,
+      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+      "onboard_time": 1687406372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572134,
       "num": 572134,
       "word": "优酷2023现偶天花板",
@@ -2331,12 +2355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 550992,
-      "num": 550992,
-      "word": "猴痘",
-      "onboard_time": 1687406612,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 547350,
+      "num": 547350,
+      "word": "在妈妈坟前跳舞小女孩患有心脏病",
+      "onboard_time": 1687404035,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 546536,
@@ -2345,14 +2369,6 @@
       "onboard_time": 1687265131,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 543562,
-      "num": 543562,
-      "word": "在妈妈坟前跳舞小女孩患有心脏病",
-      "onboard_time": 1687404035,
-      "rank": 23,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 543490,
@@ -2457,6 +2473,14 @@
       "onboard_time": 1687140088,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516982,
+      "num": 354375,
+      "word": "徐明浩手机里的自己",
+      "onboard_time": 1687408414,
+      "rank": 21,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 515408,
@@ -2587,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490343,
-      "num": 490343,
-      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
-      "onboard_time": 1687406372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490117,
       "num": 490117,
       "word": "柴犬看了都想回日本",
@@ -2643,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474685,
+      "num": 474685,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466451,
       "num": 526591,
       "word": "澳大利亚一男子持刀入室抢劫被奸杀",
@@ -2673,14 +2697,6 @@
       "onboard_time": 1687322329,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 461434,
-      "num": 461434,
-      "word": "曾黎见到老同学狂奔5米合照",
-      "onboard_time": 1687406734,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 460130,
@@ -3000,14 +3016,6 @@
       "word": "女孩毕设展陌生人添上3颗珍珠",
       "onboard_time": 1687323167,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416219,
-      "num": 416219,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3851,6 +3859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314387,
+      "num": 314387,
+      "word": "十个勤天的第一次划龙舟体验",
+      "onboard_time": 1687408174,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313466,
       "num": 313466,
       "word": "炎亚纶开始掉代言",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1687341398,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295750,
+      "num": 295750,
+      "word": "EXO新专K4预售突破50万张",
+      "onboard_time": 1687406433,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 295646,
@@ -4361,14 +4385,6 @@
       "onboard_time": 1687264531,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276105,
-      "num": 276105,
-      "word": "EXO新专K4预售突破50万张",
-      "onboard_time": 1687406433,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 275546,
@@ -4995,6 +5011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243971,
+      "num": 231017,
+      "word": "李白到底有多有钱",
+      "onboard_time": 1687408233,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243832,
       "num": 243832,
       "word": "goingseventeen因制作问题延迟播出",
@@ -5249,6 +5273,14 @@
       "onboard_time": 1687236700,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 235301,
+      "num": 235301,
+      "word": "银川烧烤店爆炸事故9名责任人被控制",
+      "onboard_time": 1687408174,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235187,
@@ -5515,12 +5547,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224005,
+      "num": 218007,
+      "word": "未定事件簿",
+      "onboard_time": 1687407934,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223766,
       "num": 223766,
       "word": "因为一份外卖女朋友要跟我分手",
       "onboard_time": 1687243469,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223064,
+      "num": 223064,
+      "word": "易梦玲头发上系蝴蝶结",
+      "onboard_time": 1687406855,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 222850,
@@ -5841,14 +5889,6 @@
       "onboard_time": 1687257093,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209367,
-      "num": 209367,
-      "word": "易梦玲头发上系蝴蝶结",
-      "onboard_time": 1687406855,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 208968,
@@ -6355,6 +6395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191976,
+      "num": 201855,
+      "word": "斯玛特",
+      "onboard_time": 1687408294,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "中美外长会谈结束",
@@ -6457,6 +6505,14 @@
       "onboard_time": 1687337017,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188483,
+      "num": 188483,
+      "word": "吴磊赵今麦端午祝福",
+      "onboard_time": 1687408414,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 188347,
@@ -7515,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149915,
+      "num": 149915,
+      "word": "多地高考出分",
+      "onboard_time": 1687407753,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 149143,
       "num": 315932,
       "word": "婴儿车滚落瞬间休假消防员眼疾手快一把抓住",
@@ -8352,6 +8416,14 @@
       "word": "6岁男孩成世界最年轻魔方大师",
       "onboard_time": 1687323644,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73760,
+      "num": 1011086,
+      "word": "赛龙舟不只是一群人一起划划船",
+      "onboard_time": 1687407753,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
