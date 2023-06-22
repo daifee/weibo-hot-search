@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687419214704,
+  "endTime": 1687422038536,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1955,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2011445,
+      "num": 1893765,
+      "word": "知情人称银川烧烤店死者死因多为窒息",
+      "onboard_time": 1687414471,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2010510,
       "num": 2010510,
       "word": "奖励多少你会考虑多生孩子",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1687312891,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1893765,
-      "num": 1893765,
-      "word": "知情人称银川烧烤店死者死因多为窒息",
-      "onboard_time": 1687414471,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1890120,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1687181860,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1533720,
+      "num": 1533720,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1533112,
@@ -5267,14 +5275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1178786,
-      "num": 1178786,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1177533,
       "num": 1177533,
       "word": "微博电影之夜红毯",
@@ -6811,6 +6811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 989182,
+      "num": 804941,
+      "word": "赵丽颖与素人合影",
+      "onboard_time": 1687418250,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989038,
       "num": 989038,
       "word": "南宁地铁推倒女站务员男子已被行拘",
@@ -7353,6 +7361,14 @@
       "onboard_time": 1686659067,
       "rank": 23,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 919485,
+      "num": 919485,
+      "word": "奔跑吧全员素颜",
+      "onboard_time": 1687420468,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 918563,
@@ -10739,6 +10755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 629859,
+      "num": 546052,
+      "word": "拉夏贝尔正式破产清算",
+      "onboard_time": 1687421011,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629619,
       "num": 629619,
       "word": "Weiwei 886",
@@ -11945,6 +11969,14 @@
       "onboard_time": 1685961628,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 550509,
+      "num": 550509,
+      "word": "目击者称烧烤店楼梯炸没了难以逃生",
+      "onboard_time": 1687417891,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550399,
@@ -16195,6 +16227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376799,
+      "num": 376799,
+      "word": "消失的她结局",
+      "onboard_time": 1687420769,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376762,
       "num": 376762,
       "word": "对你来说月薪1万够花吗",
@@ -16481,14 +16521,6 @@
       "onboard_time": 1686893970,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 368939,
-      "num": 368939,
-      "word": "赵丽颖与素人合影",
-      "onboard_time": 1687418250,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 368859,
@@ -16897,6 +16929,14 @@
       "onboard_time": 1686049827,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 360060,
+      "num": 360060,
+      "word": "北京高温",
+      "onboard_time": 1687417590,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360019,
@@ -19219,6 +19259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315676,
+      "num": 315676,
+      "word": "烧烤店爆炸事故遇难者中有高中生",
+      "onboard_time": 1687418730,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315548,
       "num": 315548,
       "word": "肖战看到毛线球两眼放光",
@@ -19644,7 +19692,7 @@
     },
     {
       "raw_hot": 309792,
-      "num": 228921,
+      "num": 246834,
       "word": "院方回应新生儿大腿骨折",
       "onboard_time": 1687416451,
       "rank": 31,
@@ -21193,6 +21241,14 @@
       "onboard_time": 1686792806,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288992,
+      "num": 288992,
+      "word": "网友西湖偶遇梁家辉叶童",
+      "onboard_time": 1687421067,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 288916,
@@ -22891,6 +22947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270075,
+      "num": 264748,
+      "word": "十个勤天直播",
+      "onboard_time": 1687420711,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269882,
       "num": 269882,
       "word": "杭州蓝色钱江纵火案房源以2360万元网签",
@@ -23211,6 +23275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265974,
+      "num": 265974,
+      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+      "onboard_time": 1687421792,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265961,
       "num": 265961,
       "word": "Minnie录制奔跑吧造型",
@@ -23441,14 +23513,6 @@
       "onboard_time": 1687143746,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 263980,
-      "num": 263980,
-      "word": "北京高温",
-      "onboard_time": 1687417590,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263921,
@@ -23715,14 +23779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261905,
-      "num": 261905,
-      "word": "目击者称烧烤店楼梯炸没了难以逃生",
-      "onboard_time": 1687417891,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261894,
       "num": 261894,
       "word": "迪丽热巴3D眼镜大片",
@@ -23793,6 +23849,14 @@
       "onboard_time": 1685689046,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261159,
+      "num": 261159,
+      "word": "IG对战RA",
+      "onboard_time": 1687420651,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 261094,
@@ -24699,6 +24763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253499,
+      "num": 253499,
+      "word": "男子地铁上数次扇脸女子质问爱谁",
+      "onboard_time": 1687420413,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253426,
       "num": 253426,
       "word": "喻言护照被狗咬了",
@@ -24833,6 +24905,14 @@
       "onboard_time": 1686058411,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252196,
+      "num": 252196,
+      "word": "跟妈妈开玩笑被陌生人教育了",
+      "onboard_time": 1687421910,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 251954,
@@ -26523,6 +26603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238609,
+      "num": 238609,
+      "word": "入职后才发现上下班不用打卡",
+      "onboard_time": 1687421490,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238602,
       "num": 238602,
       "word": "杨紫慢镜头视频",
@@ -26801,6 +26889,14 @@
       "onboard_time": 1686647666,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236549,
+      "num": 236549,
+      "word": "虞书欣范丞丞怼脸直拍",
+      "onboard_time": 1687421129,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236499,
@@ -27233,14 +27329,6 @@
       "onboard_time": 1686291689,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 232886,
-      "num": 232886,
-      "word": "烧烤店爆炸事故遇难者中有高中生",
-      "onboard_time": 1687418730,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232863,
@@ -39251,6 +39339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163472,
+      "num": 163472,
+      "word": "金牛座真的很擅长伪装",
+      "onboard_time": 1687421851,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163440,
       "num": 163440,
       "word": "TFBOYS近期活动状态",
@@ -40827,6 +40923,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 153876,
+      "num": 298409,
+      "word": "金丝猴下地掰竹笋吃",
+      "onboard_time": 1687419091,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153859,
       "num": 153859,
       "word": "JDG对战LNG",
@@ -41265,6 +41369,14 @@
       "onboard_time": 1685597069,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151547,
+      "num": 151547,
+      "word": "久诚",
+      "onboard_time": 1687421971,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 151498,
@@ -43401,14 +43513,6 @@
       "onboard_time": 1685892151,
       "rank": 46,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 138355,
-      "num": 138355,
-      "word": "金丝猴下地掰竹笋吃",
-      "onboard_time": 1687419091,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138354,
@@ -46689,6 +46793,14 @@
       "onboard_time": 1686353679,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 112383,
+      "num": 181177,
+      "word": "银川烧烤店爆炸事故最新情况",
+      "onboard_time": 1687420232,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112375,
@@ -50251,6 +50363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57935,
+      "num": 261823,
+      "word": "我国最长深水油气管道建成",
+      "onboard_time": 1687421611,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57912,
       "num": 1443114,
       "word": "文化和自然遗产冷知识",
@@ -51841,6 +51961,14 @@
       "onboard_time": 1687258832,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 16265,
+      "num": 806781,
+      "word": "藏在古画里的端午仪式感",
+      "onboard_time": 1687421792,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15927,
