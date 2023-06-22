@@ -1,10 +1,10 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687402308015,
+  "endTime": 1687403872525,
   "band_list": [
     {
-      "raw_hot": 4038291,
-      "num": 4576583,
+      "raw_hot": 6740613,
+      "num": 7990613,
       "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
       "onboard_time": 1687398511,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1030684,
+      "num": 1030684,
+      "word": "千万别在下午和晚上买机票",
+      "onboard_time": 1687393108,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1027212,
       "num": 491581,
       "word": "炎亚纶被撤销台湾十大杰出青年资格",
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 932458,
-      "num": 932458,
-      "word": "千万别在下午和晚上买机票",
-      "onboard_time": 1687393108,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 886365,
       "num": 886365,
       "word": "北京大爷不想让孩子要孩子",
@@ -137,6 +137,14 @@
       "onboard_time": 1687360177,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 772955,
+      "num": 772955,
+      "word": "广东人为什么普遍都很瘦",
+      "onboard_time": 1687399594,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 766908,
@@ -155,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 721156,
+      "num": 239376,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 720451,
       "num": 720451,
       "word": "任天堂",
@@ -171,11 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 683554,
-      "num": 683554,
-      "word": "广东人为什么普遍都很瘦",
-      "onboard_time": 1687399594,
-      "rank": 5,
+      "raw_hot": 658759,
+      "num": 658759,
+      "word": "为什么大家都不再发朋友圈了",
+      "onboard_time": 1687402174,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -201,6 +217,14 @@
       "onboard_time": 1687363300,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 597031,
+      "num": 597031,
+      "word": "十个勤天",
+      "onboard_time": 1687399954,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 592068,
@@ -251,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 530864,
-      "num": 530864,
-      "word": "十个勤天",
-      "onboard_time": 1687399954,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 515408,
       "num": 515408,
       "word": "端午节",
       "onboard_time": 1687388720,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509100,
+      "num": 509100,
+      "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
+      "onboard_time": 1687401513,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 507214,
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382147,
+      "num": 309197,
+      "word": "马伯骞你是真的火了",
+      "onboard_time": 1687401693,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377353,
       "num": 334938,
       "word": "这就是传说中的校草脸吧",
@@ -403,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 313399,
+      "num": 313399,
+      "word": "目击者讲述银川烧烤店爆炸",
+      "onboard_time": 1687403071,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310890,
       "num": 310890,
       "word": "孙亦航拿抑郁症玩梗",
@@ -425,6 +465,14 @@
       "onboard_time": 1687344994,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307031,
+      "num": 307031,
+      "word": "在公司穿短裤被同事投诉了",
+      "onboard_time": 1687403372,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 304759,
@@ -475,28 +523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 283919,
-      "num": 283919,
-      "word": "马伯骞你是真的火了",
-      "onboard_time": 1687401693,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 277129,
-      "num": 277129,
-      "word": "为什么大家都不再发朋友圈了",
-      "onboard_time": 1687402174,
-      "rank": 28,
+      "raw_hot": 281675,
+      "num": 281675,
+      "word": "为什么猫喜欢把屁股对着人",
+      "onboard_time": 1687403614,
+      "rank": 24,
       "category": "幽默"
     },
     {
-      "raw_hot": 272699,
-      "num": 272699,
-      "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
-      "onboard_time": 1687401513,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 272904,
+      "num": 272904,
+      "word": "宋雨琦粉色挂脖吊带",
+      "onboard_time": 1687402471,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 259480,
@@ -771,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181662,
+      "num": 181662,
+      "word": "张予曦鱼骨珍珠裙",
+      "onboard_time": 1687403551,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180483,
       "num": 294041,
       "word": "54岁阿姨拍短视频全村催更",
@@ -793,6 +841,14 @@
       "onboard_time": 1687401872,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173882,
+      "num": 173882,
+      "word": "领导说要把公司当成家",
+      "onboard_time": 1687403491,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 173200,
@@ -835,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161344,
+      "num": 161344,
+      "word": "上海应聘保安的英语测试题",
+      "onboard_time": 1687402894,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161215,
       "num": 161215,
       "word": "迪丽热巴的珍珠泪",
@@ -849,6 +913,14 @@
       "onboard_time": 1687402113,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 152517,
+      "num": 158734,
+      "word": "端午粽意你",
+      "onboard_time": 1687402713,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151252,
@@ -912,6 +984,14 @@
       "word": "赛龙舟原来这么燃",
       "onboard_time": 1687359035,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138537,
+      "num": 138537,
+      "word": "联合工作组赶赴宁夏银川指导救援",
+      "onboard_time": 1687403854,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1012,6 +1092,9 @@
     },
     {
       "word": "#感知端午魅力传承爱国情怀#"
+    },
+    {
+      "word": "#古诗文里的端午习俗#"
     }
   ]
 }
