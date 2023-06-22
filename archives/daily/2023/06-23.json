@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687469655940,
+  "endTime": 1687472324810,
   "band_list": [
     {
       "raw_hot": 3697217,
@@ -443,6 +443,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41475,
+      "num": 41475,
+      "word": "华晨宇长沙演唱会再现红衣少年",
+      "onboard_time": 1687467731,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 37418,
+      "num": 37418,
+      "word": "许凯娜扎直播好像在打视频",
+      "onboard_time": 1687467192,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 35551,
+      "num": 35551,
+      "word": "秦岚真的有马甲线",
+      "onboard_time": 1687470433,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33821,
       "num": 47757,
       "word": "银川多家餐饮店使用液化气罐",
@@ -451,27 +475,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29592,
-      "num": 29592,
-      "word": "华晨宇长沙演唱会再现红衣少年",
-      "onboard_time": 1687467731,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 24106,
       "num": 33740,
       "word": "消失的她路演",
       "onboard_time": 1687455321,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 23360,
-      "num": 27174,
-      "word": "许凯娜扎直播好像在打视频",
-      "onboard_time": 1687467192,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 21576,
-      "num": 27970,
+      "num": 33238,
       "word": "宋佳风雨云剧照",
       "onboard_time": 1687461616,
       "rank": 48,
