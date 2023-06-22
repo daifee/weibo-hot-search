@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687462447751,
+  "endTime": 1687465223724,
   "band_list": [
     {
       "raw_hot": 3697217,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37935,
+      "num": 37935,
+      "word": "烧烤店爆炸致31人死亡银川市长鞠躬道歉",
+      "onboard_time": 1687460714,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33821,
       "num": 47757,
       "word": "银川多家餐饮店使用液化气罐",
@@ -465,14 +473,6 @@
       "onboard_time": 1687461616,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 20657,
-      "num": 27962,
-      "word": "烧烤店爆炸致31人死亡银川市长鞠躬道歉",
-      "onboard_time": 1687460714,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

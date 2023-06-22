@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/23 03:34:07
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/23 04:20:23
 </p>
 </blockquote>
 <p>
@@ -7761,6 +7761,12 @@ NIP对战WE（热度：77082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
+烧烤店爆炸致31人死亡银川市长鞠躬道歉（热度：37935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23NCTDREAM%E6%96%B0%E6%AD%8C%E7%A9%BA%E9%99%8D%23" target="weibo">
 NCTDREAM新歌空降（热度：37491）
 </a>
@@ -7853,12 +7859,6 @@ NCTDREAM新歌空降（热度：37491）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%B7%B1%E5%A4%9C%E7%8B%AC%E8%87%AA%E4%B9%98%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23" target="weibo">
 男童深夜独自乘车司机果断报警（热度：21360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
-烧烤店爆炸致31人死亡银川市长鞠躬道歉（热度：20657）
 </a>
 </li>
 
