@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687444415518,
+  "endTime": 1687447029678,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3571249,
+      "num": 3571249,
+      "word": "成都UFO",
+      "onboard_time": 1687445436,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3547277,
       "num": 790244,
       "word": "阿雅否认吸毒",
@@ -177,6 +185,14 @@
       "onboard_time": 1687155523,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3199671,
+      "num": 3199671,
+      "word": "高考查分",
+      "onboard_time": 1687443876,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 3002695,
@@ -875,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1490529,
+      "num": 1490529,
+      "word": "2023好声音导师官宣",
+      "onboard_time": 1687445014,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1486101,
       "num": 1071347,
       "word": "孙亦航",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1687441714,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1103724,
+      "num": 858281,
+      "word": "女子遭老公家暴倒地后被拖进电梯",
+      "onboard_time": 1687442973,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103299,
@@ -1824,14 +1856,6 @@
       "word": "内蒙古新井煤矿事故失联者全部遇难",
       "onboard_time": 1687263271,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858281,
-      "num": 858281,
-      "word": "女子遭老公家暴倒地后被拖进电梯",
-      "onboard_time": 1687442973,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2619,6 +2643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579249,
+      "num": 390462,
+      "word": "像极了心情不好男朋友还要贴贴",
+      "onboard_time": 1687446337,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 577823,
       "num": 431764,
       "word": "女子连生6女被要求生子想离婚遭驳回",
@@ -3147,6 +3179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481279,
+      "num": 481279,
+      "word": "中国好声音",
+      "onboard_time": 1687443638,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478836,
       "num": 478836,
       "word": "大家知道屈原姓什么吗",
@@ -3411,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436209,
+      "num": 317075,
+      "word": "银川烧烤店爆炸事故伤者家属发声",
+      "onboard_time": 1687445077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435544,
       "num": 435544,
       "word": "赵丽颖新剧自称本王",
@@ -3547,14 +3595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "高考查分",
-      "onboard_time": 1687443876,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 424647,
       "num": 424647,
       "word": "三体2官宣",
@@ -3593,6 +3633,14 @@
       "onboard_time": 1687155162,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421740,
+      "num": 380162,
+      "word": "彭昱畅看完我爱你哭惨了",
+      "onboard_time": 1687445436,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 421556,
@@ -3753,14 +3801,6 @@
       "onboard_time": 1687334018,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 398279,
-      "num": 336167,
-      "word": "中国好声音",
-      "onboard_time": 1687443638,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 396875,
@@ -4587,6 +4627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317227,
+      "num": 317227,
+      "word": "蛋糕师接了一个硬活",
+      "onboard_time": 1687443695,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317206,
       "num": 274279,
       "word": "还是头回吃这么花里胡哨的瓜",
@@ -4777,6 +4825,14 @@
       "onboard_time": 1687335576,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306766,
+      "num": 306766,
+      "word": "汪苏泷现场",
+      "onboard_time": 1687445915,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 305813,
@@ -6987,6 +7043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209514,
+      "num": 209514,
+      "word": "江苏今年已有102个百万富翁",
+      "onboard_time": 1687445557,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208968,
       "num": 208968,
       "word": "这就是猫咪怪兽吧",
@@ -7401,6 +7465,14 @@
       "onboard_time": 1687391726,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197807,
+      "num": 197807,
+      "word": "妈妈纠正孩子写8不封口最后发现自己错了",
+      "onboard_time": 1687446756,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197787,
@@ -8281,6 +8353,14 @@
       "onboard_time": 1687142248,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171257,
+      "num": 699618,
+      "word": "老师凌晨等来考生接连喜报激动欢呼",
+      "onboard_time": 1687442436,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171200,
@@ -9475,14 +9555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115841,
-      "num": 699618,
-      "word": "老师凌晨等来考生接连喜报激动欢呼",
-      "onboard_time": 1687442436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115814,
       "num": 115814,
       "word": "王一博黄渤大鹏岳云鹏动漫图",
@@ -10225,6 +10297,14 @@
       "onboard_time": 1687424433,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24935,
+      "num": 529608,
+      "word": "和平精英亚运征途媒体日",
+      "onboard_time": 1687446216,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 22018,

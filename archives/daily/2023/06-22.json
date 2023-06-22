@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687444415518,
+  "endTime": 1687447029678,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -9,6 +9,22 @@
       "onboard_time": 1687398511,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3571249,
+      "num": 3571249,
+      "word": "成都UFO",
+      "onboard_time": 1687445436,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3199671,
+      "num": 3199671,
+      "word": "高考查分",
+      "onboard_time": 1687443876,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 2986070,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1490529,
+      "num": 1490529,
+      "word": "2023好声音导师官宣",
+      "onboard_time": 1687445014,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1471591,
       "num": 1267419,
       "word": "宋雨琦原来是SM家族粉",
@@ -265,6 +289,14 @@
       "onboard_time": 1687441714,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1103724,
+      "num": 858281,
+      "word": "女子遭老公家暴倒地后被拖进电梯",
+      "onboard_time": 1687442973,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1103096,
@@ -424,14 +456,6 @@
       "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
       "onboard_time": 1687406372,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858281,
-      "num": 858281,
-      "word": "女子遭老公家暴倒地后被拖进电梯",
-      "onboard_time": 1687442973,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -667,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579249,
+      "num": 390462,
+      "word": "像极了心情不好男朋友还要贴贴",
+      "onboard_time": 1687446337,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 577823,
       "num": 431764,
       "word": "女子连生6女被要求生子想离婚遭驳回",
@@ -899,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481279,
+      "num": 481279,
+      "word": "中国好声音",
+      "onboard_time": 1687443638,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478836,
       "num": 478836,
       "word": "大家知道屈原姓什么吗",
@@ -1003,6 +1043,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 436209,
+      "num": 317075,
+      "word": "银川烧烤店爆炸事故伤者家属发声",
+      "onboard_time": 1687445077,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431938,
       "num": 402756,
       "word": "罗云熙粽子比脸大",
@@ -1035,12 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "高考查分",
-      "onboard_time": 1687443876,
-      "rank": 22,
-      "category": "教育"
+      "raw_hot": 421740,
+      "num": 380162,
+      "word": "彭昱畅看完我爱你哭惨了",
+      "onboard_time": 1687445436,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 406129,
@@ -1065,14 +1113,6 @@
       "onboard_time": 1687425092,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 398279,
-      "num": 336167,
-      "word": "中国好声音",
-      "onboard_time": 1687443638,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 394797,
@@ -1315,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317227,
+      "num": 317227,
+      "word": "蛋糕师接了一个硬活",
+      "onboard_time": 1687443695,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315676,
       "num": 315676,
       "word": "烧烤店爆炸事故遇难者中有高中生",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1687344994,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306766,
+      "num": 306766,
+      "word": "汪苏泷现场",
+      "onboard_time": 1687445915,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 304759,
@@ -1971,6 +2027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 209514,
+      "num": 209514,
+      "word": "江苏今年已有102个百万富翁",
+      "onboard_time": 1687445557,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206142,
       "num": 206142,
       "word": "健身房教练 其实我以前也是个画画的",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1687391726,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197807,
+      "num": 197807,
+      "word": "妈妈纠正孩子写8不封口最后发现自己错了",
+      "onboard_time": 1687446756,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197394,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1687400434,
       "rank": 42,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 171257,
+      "num": 699618,
+      "word": "老师凌晨等来考生接连喜报激动欢呼",
+      "onboard_time": 1687442436,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169706,
@@ -2659,14 +2739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115841,
-      "num": 699618,
-      "word": "老师凌晨等来考生接连喜报激动欢呼",
-      "onboard_time": 1687442436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112383,
       "num": 181177,
       "word": "银川烧烤店爆炸事故最新情况",
@@ -2817,6 +2889,14 @@
       "onboard_time": 1687424433,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24935,
+      "num": 529608,
+      "word": "和平精英亚运征途媒体日",
+      "onboard_time": 1687446216,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 19236,
