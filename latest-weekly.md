@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/23 04:34:03
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/23 05:17:03
 </p>
 </blockquote>
 <p>
@@ -7845,6 +7845,12 @@ NCTDREAM新歌空降（热度：37491）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E7%8E%B0%E7%BA%A2%E8%A1%A3%E5%B0%91%E5%B9%B4%23" target="weibo">
+华晨宇长沙演唱会再现红衣少年（热度：22392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%BD%A9%E7%8C%AB%23" target="weibo">
 七彩猫（热度：22018）
 </a>
@@ -7871,6 +7877,12 @@ NCTDREAM新歌空降（热度：37491）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%95%E9%AA%8C%E4%BA%8C%E5%8D%81%E4%BA%94%E5%8F%B7%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23" target="weibo">
 试验二十五号卫星成功发射（热度：18326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%89%93%E8%A7%86%E9%A2%91%23" target="weibo">
+许凯娜扎直播好像在打视频（热度：17816）
 </a>
 </li>
 
