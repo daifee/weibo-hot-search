@@ -1,0 +1,410 @@
+{
+  "runTime": 1687426424804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2101352,
+        "num": 2101352,
+        "word": "拉夏贝尔正式破产清算",
+        "onboard_time": 1687421011,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1388359,
+        "num": 1388359,
+        "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+        "onboard_time": 1687421792,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104366,
+        "num": 1256110,
+        "word": "藏在古画里的端午仪式感",
+        "onboard_time": 1687421792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562478,
+        "num": 1253091,
+        "word": "甜馨10岁身高",
+        "onboard_time": 1687423712,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1182840,
+        "num": 1182840,
+        "word": "消失的她票房",
+        "onboard_time": 1687422450,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1396535,
+        "num": 1173394,
+        "word": "河北科技大学通报学生跳楼身亡",
+        "onboard_time": 1687422210,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1152431,
+        "num": 1152431,
+        "word": "王皓",
+        "onboard_time": 1687422272,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913207,
+        "num": 913207,
+        "word": "奔跑吧全员素颜",
+        "onboard_time": 1687420468,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587343,
+        "num": 587343,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 544558,
+        "num": 544558,
+        "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+        "onboard_time": 1687406672,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604295,
+        "num": 530254,
+        "word": "失踪潜艇副驾妻子是泰坦尼克号遇难者后代",
+        "onboard_time": 1687423953,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559805,
+        "num": 525726,
+        "word": "15岁女生答72岁复旦教授",
+        "onboard_time": 1687422930,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 506383,
+        "num": 506383,
+        "word": "网友西湖偶遇梁家辉叶童",
+        "onboard_time": 1687421067,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503977,
+        "num": 503977,
+        "word": "八角笼中",
+        "onboard_time": 1687422632,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8915,
+        "num": 503498,
+        "word": "粽有你所爱",
+        "onboard_time": 1687424433,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503184,
+        "num": 503184,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488821,
+        "num": 488821,
+        "word": "金牛座真的很擅长伪装",
+        "onboard_time": 1687421851,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460758,
+        "num": 460758,
+        "word": "银川爆炸烧烤店救援现场",
+        "onboard_time": 1687426111,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447686,
+        "num": 447686,
+        "word": "消失的她",
+        "onboard_time": 1687411353,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402649,
+        "num": 402649,
+        "word": "迪丽热巴的项链好特别",
+        "onboard_time": 1687413511,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 671703,
+        "num": 402540,
+        "word": "知情人称银川烧烤店死者死因多为窒息",
+        "onboard_time": 1687414471,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431938,
+        "num": 402519,
+        "word": "罗云熙粽子比脸大",
+        "onboard_time": 1687423292,
+        "rank": 21,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 402300,
+        "num": 402300,
+        "word": "顾九思柳玉茹喂血吻",
+        "onboard_time": 1687411532,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399139,
+        "num": 399139,
+        "word": "原来荔枝也可以缓解痛经",
+        "onboard_time": 1687425092,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387076,
+        "num": 387076,
+        "word": "消失的她结局",
+        "onboard_time": 1687420769,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353597,
+        "num": 353597,
+        "word": "原来这条短信意义如此重大",
+        "onboard_time": 1687423171,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309837,
+        "num": 309837,
+        "word": "开心麻花最厉害的组合",
+        "onboard_time": 1687422332,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298500,
+        "num": 298500,
+        "word": "马斯克与扎克伯格约架",
+        "onboard_time": 1687424253,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 294632,
+        "num": 294632,
+        "word": "19岁藏族小伙救下掉入冰川游客",
+        "onboard_time": 1687424374,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284453,
+        "num": 284453,
+        "word": "久诚",
+        "onboard_time": 1687421971,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274688,
+        "num": 274688,
+        "word": "赵丽颖红色旗袍",
+        "onboard_time": 1687416150,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263276,
+        "num": 263276,
+        "word": "周星驰新电影招募女演员",
+        "onboard_time": 1687423413,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262959,
+        "num": 262959,
+        "word": "福布斯称Jennie有资格获艾美奖",
+        "onboard_time": 1687406017,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257684,
+        "num": 257684,
+        "word": "入职后才发现上下班不用打卡",
+        "onboard_time": 1687421490,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239198,
+        "num": 239198,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234379,
+        "num": 234379,
+        "word": "虞书欣范丞丞怼脸直拍",
+        "onboard_time": 1687421129,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216956,
+        "num": 216956,
+        "word": "手机号实名制已经10年了",
+        "onboard_time": 1687409734,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214159,
+        "num": 214159,
+        "word": "内马尔为孕期出轨道歉",
+        "onboard_time": 1687389922,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 204949,
+        "num": 204949,
+        "word": "无穷小亮 有个事挺瘆得慌",
+        "onboard_time": 1687402653,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195334,
+        "num": 195334,
+        "word": "烧烤店爆炸事故遇难者中有高中生",
+        "onboard_time": 1687418730,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191664,
+        "num": 191664,
+        "word": "跟妈妈开玩笑被陌生人教育了",
+        "onboard_time": 1687421910,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182005,
+        "num": 182005,
+        "word": "目击者称烧烤店楼梯炸没了难以逃生",
+        "onboard_time": 1687417891,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178863,
+        "num": 178863,
+        "word": "倪妮 文咏珊",
+        "onboard_time": 1687408834,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176834,
+        "num": 176834,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163018,
+        "num": 163018,
+        "word": "五月天武汉演唱会",
+        "onboard_time": 1687424732,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161485,
+        "num": 161485,
+        "word": "男子地铁上数次扇脸女子质问爱谁",
+        "onboard_time": 1687420413,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156506,
+        "num": 156506,
+        "word": "FF16上线",
+        "onboard_time": 1687425512,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154309,
+        "num": 154309,
+        "word": "易烊千玺端午节营业视频",
+        "onboard_time": 1687418611,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150327,
+        "num": 150327,
+        "word": "62岁费翔胸肌",
+        "onboard_time": 1687416810,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108455,
+        "num": 149275,
+        "word": "RA战胜IG",
+        "onboard_time": 1687424790,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宁夏银川燃气爆炸事故作出重要指示#"
+    }
+  }
+}
