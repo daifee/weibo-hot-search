@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 23:33:53
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 00:21:50
 </p>
 </blockquote>
 <p>
@@ -5763,6 +5763,12 @@ Uzi4杀 RNG拿下比赛（热度：909059）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+银川烧烤店爆炸事故伤者家属发声（热度：908582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E5%8F%88%E5%90%88%E4%BD%93%E8%90%A5%E4%B8%9A%E4%BA%86%23" target="weibo">
 井柏然刘雯又合体营业了（热度：907427）
 </a>
@@ -6005,12 +6011,6 @@ WBG零封JDG（热度：888042）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E6%8A%97%E7%99%8C%E5%8D%8A%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 27岁游戏主播抗癌半年后去世（热度：875800）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%98%B4%E8%B4%B4%E4%BF%9D%E9%B2%9C%E8%86%9C%E5%BF%8D%E4%B8%8D%E4%BD%8F%E4%BA%B2%E4%BA%B2%E5%AE%9D%E5%AE%9D%23" target="weibo">
-男子嘴贴保鲜膜忍不住亲亲宝宝（热度：875066）
 </a>
 </li>
 
