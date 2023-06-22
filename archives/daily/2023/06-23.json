@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687461368194,
+  "endTime": 1687462447751,
   "band_list": [
     {
       "raw_hot": 3697217,
@@ -456,6 +456,22 @@
       "word": "龙舟漂移有多酷炫",
       "onboard_time": 1687438711,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21576,
+      "num": 27970,
+      "word": "宋佳风雨云剧照",
+      "onboard_time": 1687461616,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 20657,
+      "num": 27962,
+      "word": "烧烤店爆炸致31人死亡银川市长鞠躬道歉",
+      "onboard_time": 1687460714,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687461368194,
+  "endTime": 1687462447751,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -52947,6 +52947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21576,
+      "num": 27970,
+      "word": "宋佳风雨云剧照",
+      "onboard_time": 1687461616,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 21565,
       "num": 420081,
       "word": "上场吧少年",
@@ -52977,6 +52985,14 @@
       "onboard_time": 1686133657,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 20657,
+      "num": 27962,
+      "word": "烧烤店爆炸致31人死亡银川市长鞠躬道歉",
+      "onboard_time": 1687460714,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20349,
