@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687410993140,
+  "endTime": 1687412016128,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1657284,
+      "num": 650749,
+      "word": "韩安冉婚礼随礼名单",
+      "onboard_time": 1687405294,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1655173,
       "num": 1655173,
       "word": "张晚意今天官宣了三部剧",
@@ -673,14 +681,6 @@
       "onboard_time": 1687264470,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1586025,
-      "num": 650749,
-      "word": "韩安冉婚礼随礼名单",
-      "onboard_time": 1687405294,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1585999,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1375379,
+      "num": 1375379,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1371172,
       "num": 1371172,
       "word": "顾漫马甲",
@@ -995,12 +1003,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1227330,
-      "num": 1227330,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 1228523,
+      "num": 1164296,
+      "word": "猴痘",
+      "onboard_time": 1687406612,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1208275,
@@ -1024,14 +1032,6 @@
       "word": "丫丫",
       "onboard_time": 1687337498,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1164296,
-      "num": 1164296,
-      "word": "猴痘",
-      "onboard_time": 1687406612,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 868978,
+      "num": 868978,
+      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+      "onboard_time": 1687406372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868372,
       "num": 868372,
       "word": "沙溢胡可情头",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1687349014,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 865260,
-      "num": 865260,
-      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
-      "onboard_time": 1687406372,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 863869,
@@ -1627,6 +1627,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 829850,
+      "num": 829850,
+      "word": "张艺兴送粽子到蘑菇屋",
+      "onboard_time": 1687410575,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829366,
       "num": 614235,
       "word": "刘家凯曾说炎亚纶比较熟现在的高中生",
@@ -1664,6 +1672,14 @@
       "word": "男子表白失败扔花大喊她是女同",
       "onboard_time": 1687230989,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814763,
+      "num": 814763,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2003,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 683494,
-      "num": 683494,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 676459,
       "num": 655978,
       "word": "iG与Beishang解约",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1687130782,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 645133,
+      "num": 450026,
+      "word": "手机号实名制已经10年了",
+      "onboard_time": 1687409734,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 634631,
@@ -2299,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566202,
+      "num": 566202,
+      "word": "消失的她有多敢拍",
+      "onboard_time": 1687408957,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565401,
       "num": 568131,
       "word": "女子称母亲到派出所接受询问后死亡",
@@ -2440,14 +2464,6 @@
       "word": "书粉剧粉都满意的选角",
       "onboard_time": 1687227451,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 529326,
-      "num": 529326,
-      "word": "消失的她有多敢拍",
-      "onboard_time": 1687408957,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -2819,14 +2835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 442878,
-      "num": 262920,
-      "word": "手机号实名制已经10年了",
-      "onboard_time": 1687409734,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 441943,
       "num": 441943,
       "word": "陈意涵晒照否认恋情",
@@ -2848,14 +2856,6 @@
       "word": "崔秀彬ins",
       "onboard_time": 1687160867,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 440176,
-      "num": 440176,
-      "word": "张艺兴送粽子到蘑菇屋",
-      "onboard_time": 1687410575,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -3091,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413248,
+      "num": 413248,
+      "word": "公司要倒闭的几个征兆",
+      "onboard_time": 1687409314,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412949,
       "num": 357110,
       "word": "一直娱",
@@ -3155,6 +3163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 404856,
+      "num": 343299,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 404840,
       "num": 662249,
       "word": "长得不漂亮但拍照上镜",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1687144466,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 395021,
-      "num": 395021,
-      "word": "公司要倒闭的几个征兆",
-      "onboard_time": 1687409314,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394082,
@@ -3641,6 +3649,14 @@
       "onboard_time": 1687150112,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346605,
+      "num": 346605,
+      "word": "银川爆炸烧烤店二楼有KTV包房",
+      "onboard_time": 1687411052,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344366,
@@ -4547,6 +4563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271909,
+      "num": 238336,
+      "word": "燃气泄露了可以立即打电话求救吗",
+      "onboard_time": 1687411353,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271420,
       "num": 271420,
       "word": "宋祖儿刘宇宁身高差cp感",
@@ -4963,14 +4987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 250527,
-      "num": 250527,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 249941,
       "num": 249941,
       "word": "折腰",
@@ -5249,6 +5265,14 @@
       "onboard_time": 1687352737,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238537,
+      "num": 238537,
+      "word": "段嘉许毕业",
+      "onboard_time": 1687409615,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 238469,
@@ -5955,6 +5979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210434,
+      "num": 210434,
+      "word": "原神端午璃月全员",
+      "onboard_time": 1687411594,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210018,
       "num": 210018,
       "word": "和肖战一起光盘行动",
@@ -6123,6 +6155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202909,
+      "num": 202909,
+      "word": "男频剧里的娜扎",
+      "onboard_time": 1687411353,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202799,
       "num": 202799,
       "word": "赵昕原来演过这么多戏",
@@ -6233,6 +6273,14 @@
       "onboard_time": 1687237958,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 199741,
+      "num": 199741,
+      "word": "顾九思柳玉茹喂血吻",
+      "onboard_time": 1687411532,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 199475,
@@ -6513,6 +6561,14 @@
       "onboard_time": 1687409675,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191448,
+      "num": 191448,
+      "word": "长再大遇到危险也找爸爸",
+      "onboard_time": 1687411712,
+      "rank": 42,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 190957,
@@ -6857,14 +6913,6 @@
       "onboard_time": 1687132706,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178064,
-      "num": 178064,
-      "word": "段嘉许毕业",
-      "onboard_time": 1687409615,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 177928,
@@ -7848,6 +7896,14 @@
       "word": "济南地铁设强弱冷车厢",
       "onboard_time": 1687268015,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142227,
+      "num": 166233,
+      "word": "属实把小长假玩明白了",
+      "onboard_time": 1687411774,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8892,7 +8948,7 @@
     },
     {
       "raw_hot": 19236,
-      "num": 398521,
+      "num": 453175,
       "word": "万物皆可粽子",
       "onboard_time": 1687410034,
       "rank": 14,

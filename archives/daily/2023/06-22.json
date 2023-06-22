@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687410993140,
+  "endTime": 1687412016128,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1657284,
+      "num": 650749,
+      "word": "韩安冉婚礼随礼名单",
+      "onboard_time": 1687405294,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1601793,
       "num": 1601793,
       "word": "Angelababy七年前vs七年后",
@@ -43,20 +51,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1586025,
-      "num": 650749,
-      "word": "韩安冉婚礼随礼名单",
-      "onboard_time": 1687405294,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1545519,
       "num": 753013,
       "word": "深圳一女子洗澡时因触电身亡",
       "onboard_time": 1687361256,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1375379,
+      "num": 1375379,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1273408,
@@ -83,15 +91,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1227330,
-      "num": 1227330,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1164296,
+      "raw_hot": 1228523,
       "num": 1164296,
       "word": "猴痘",
       "onboard_time": 1687406612,
@@ -171,11 +171,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 865260,
-      "num": 865260,
+      "raw_hot": 868978,
+      "num": 868978,
       "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
       "onboard_time": 1687406372,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829850,
+      "num": 829850,
+      "word": "张艺兴送粽子到蘑菇屋",
+      "onboard_time": 1687410575,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 814763,
+      "num": 814763,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -259,20 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 683494,
-      "num": 683494,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 656767,
       "num": 656767,
       "word": "消失的她",
       "onboard_time": 1687332636,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645133,
+      "num": 450026,
+      "word": "手机号实名制已经10年了",
+      "onboard_time": 1687409734,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 623923,
@@ -305,6 +321,14 @@
       "onboard_time": 1687397192,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566202,
+      "num": 566202,
+      "word": "消失的她有多敢拍",
+      "onboard_time": 1687408957,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 564255,
@@ -361,14 +385,6 @@
       "onboard_time": 1687404035,
       "rank": 23,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 529326,
-      "num": 529326,
-      "word": "消失的她有多敢拍",
-      "onboard_time": 1687408957,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 516982,
@@ -435,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 442878,
-      "num": 262920,
-      "word": "手机号实名制已经10年了",
-      "onboard_time": 1687409734,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 441889,
       "num": 441889,
       "word": "古巨基采访王菲被鸟屎砸到头",
@@ -451,19 +459,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440176,
-      "num": 440176,
-      "word": "张艺兴送粽子到蘑菇屋",
-      "onboard_time": 1687410575,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427661,
       "num": 427661,
       "word": "端午安康",
       "onboard_time": 1687388601,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413248,
+      "num": 413248,
+      "word": "公司要倒闭的几个征兆",
+      "onboard_time": 1687409314,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -475,20 +483,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 404856,
+      "num": 343299,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 400595,
       "num": 400595,
       "word": "邓亚萍拒绝158元一斤的车厘子",
       "onboard_time": 1687350394,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395021,
-      "num": 395021,
-      "word": "公司要倒闭的几个征兆",
-      "onboard_time": 1687409314,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393564,
@@ -584,6 +592,14 @@
       "word": "银川烧烤店爆炸事故9名责任人被控制",
       "onboard_time": 1687408174,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346605,
+      "num": 346605,
+      "word": "银川爆炸烧烤店二楼有KTV包房",
+      "onboard_time": 1687411052,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271909,
+      "num": 238336,
+      "word": "燃气泄露了可以立即打电话求救吗",
+      "onboard_time": 1687411353,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264296,
       "num": 264296,
       "word": "李白到底有多有钱",
@@ -763,14 +787,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 250527,
-      "num": 250527,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 248434,
       "num": 248434,
       "word": "泰坦号最大下潜深度1300米左右",
@@ -809,6 +825,14 @@
       "onboard_time": 1687400434,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238537,
+      "num": 238537,
+      "word": "段嘉许毕业",
+      "onboard_time": 1687409615,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 236429,
@@ -939,6 +963,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 210434,
+      "num": 210434,
+      "word": "原神端午璃月全员",
+      "onboard_time": 1687411594,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209531,
       "num": 209531,
       "word": "因为一杯奶茶分手了",
@@ -979,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202909,
+      "num": 202909,
+      "word": "男频剧里的娜扎",
+      "onboard_time": 1687411353,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201907,
       "num": 201907,
       "word": "宋雨琦笑脸vs冷脸",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1687399354,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199741,
+      "num": 199741,
+      "word": "顾九思柳玉茹喂血吻",
+      "onboard_time": 1687411532,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 198287,
@@ -1075,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191448,
+      "num": 191448,
+      "word": "长再大遇到危险也找爸爸",
+      "onboard_time": 1687411712,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 190419,
       "num": 190419,
       "word": "公司裁员把HR裁崩溃了",
@@ -1131,19 +1187,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178064,
-      "num": 178064,
-      "word": "段嘉许毕业",
-      "onboard_time": 1687409615,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177897,
       "num": 177897,
       "word": "艾伦沈腾好一对大怨种",
       "onboard_time": 1687393229,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175819,
+      "num": 175819,
+      "word": "长风渡",
+      "onboard_time": 1687411893,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1307,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142227,
+      "num": 166233,
+      "word": "属实把小长假玩明白了",
+      "onboard_time": 1687411774,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140687,
       "num": 140687,
       "word": "那一刻它好像也有自己的家了",
@@ -1436,7 +1500,7 @@
     },
     {
       "raw_hot": 19236,
-      "num": 398521,
+      "num": 453175,
       "word": "万物皆可粽子",
       "onboard_time": 1687410034,
       "rank": 14,

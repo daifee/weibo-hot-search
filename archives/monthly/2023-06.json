@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687410993140,
+  "endTime": 1687412016128,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -2915,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1657284,
+      "num": 650749,
+      "word": "韩安冉婚礼随礼名单",
+      "onboard_time": 1687405294,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1656438,
       "num": 1656438,
       "word": "跑男泰国",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1685934030,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1586025,
-      "num": 650749,
-      "word": "韩安冉婚礼随礼名单",
-      "onboard_time": 1687405294,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1585999,
@@ -4115,6 +4115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1375379,
+      "num": 1375379,
+      "word": "无穷小亮 有个事挺瘆得慌",
+      "onboard_time": 1687402653,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1373325,
       "num": 1373325,
       "word": "杨洋王楚然废墟救赎感剧照",
@@ -4993,14 +5001,6 @@
       "onboard_time": 1687167463,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1227330,
-      "num": 1227330,
-      "word": "无穷小亮 有个事挺瘆得慌",
-      "onboard_time": 1687402653,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1223087,
@@ -7755,6 +7755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 868978,
+      "num": 868978,
+      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
+      "onboard_time": 1687406372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868923,
       "num": 868923,
       "word": "爱奇艺暑期档排播剧集",
@@ -7825,14 +7833,6 @@
       "onboard_time": 1686630272,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 865260,
-      "num": 865260,
-      "word": "烧烤店疑更换液化气罐阀门过程中爆炸",
-      "onboard_time": 1687406372,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 864943,
@@ -8179,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829850,
+      "num": 829850,
+      "word": "张艺兴送粽子到蘑菇屋",
+      "onboard_time": 1687410575,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829620,
       "num": 829620,
       "word": "上海",
@@ -8361,6 +8369,14 @@
       "onboard_time": 1685891491,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 814763,
+      "num": 814763,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814003,
@@ -9995,14 +10011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 683494,
-      "num": 683494,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 683218,
       "num": 344661,
       "word": "梦中的那片海收视再创新高",
@@ -10433,6 +10441,14 @@
       "onboard_time": 1686741628,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645133,
+      "num": 450026,
+      "word": "手机号实名制已经10年了",
+      "onboard_time": 1687409734,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 643646,
@@ -11555,6 +11571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 566202,
+      "num": 566202,
+      "word": "消失的她有多敢拍",
+      "onboard_time": 1687408957,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565931,
       "num": 565931,
       "word": "压力给到华晨宇站姐",
@@ -12200,14 +12224,6 @@
       "word": "梦中的那片海热度值破29000",
       "onboard_time": 1686410192,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 529326,
-      "num": 529326,
-      "word": "消失的她有多敢拍",
-      "onboard_time": 1687408957,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -13947,14 +13963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442878,
-      "num": 262920,
-      "word": "手机号实名制已经10年了",
-      "onboard_time": 1687409734,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 442725,
       "num": 287377,
       "word": "沈月初一身高1米33",
@@ -14033,14 +14041,6 @@
       "onboard_time": 1685720489,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 440176,
-      "num": 440176,
-      "word": "张艺兴送粽子到蘑菇屋",
-      "onboard_time": 1687410575,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 439922,
@@ -14883,6 +14883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 413248,
+      "num": 413248,
+      "word": "公司要倒闭的几个征兆",
+      "onboard_time": 1687409314,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412494,
       "num": 412494,
       "word": "上海电影节红毯",
@@ -15195,6 +15203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404856,
+      "num": 343299,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 404847,
       "num": 404847,
       "word": "巴特勒状态",
@@ -15456,14 +15472,6 @@
       "word": "椰树审美",
       "onboard_time": 1685845587,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395021,
-      "num": 395021,
-      "word": "公司要倒闭的几个征兆",
-      "onboard_time": 1687409314,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -17529,6 +17537,14 @@
       "onboard_time": 1686387328,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346605,
+      "num": 346605,
+      "word": "银川爆炸烧烤店二楼有KTV包房",
+      "onboard_time": 1687411052,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346252,
@@ -22547,6 +22563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271909,
+      "num": 238336,
+      "word": "燃气泄露了可以立即打电话求救吗",
+      "onboard_time": 1687411353,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271738,
       "num": 271738,
       "word": "乐华家族演唱会票价",
@@ -24907,14 +24931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250527,
-      "num": 250527,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 250521,
       "num": 250521,
       "word": "张俪 事业脑",
@@ -26377,6 +26393,14 @@
       "onboard_time": 1686064829,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238537,
+      "num": 238537,
+      "word": "段嘉许毕业",
+      "onboard_time": 1687409615,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 238486,
@@ -30451,6 +30475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210434,
+      "num": 210434,
+      "word": "原神端午璃月全员",
+      "onboard_time": 1687411594,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210242,
       "num": 210242,
       "word": "鞠婧祎一滴泪哭戏",
@@ -31627,6 +31659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202909,
+      "num": 202909,
+      "word": "男频剧里的娜扎",
+      "onboard_time": 1687411353,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202897,
       "num": 202897,
       "word": "叶国华造孽刘芮麟还",
@@ -32241,6 +32281,14 @@
       "onboard_time": 1686222032,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 199741,
+      "num": 199741,
+      "word": "顾九思柳玉茹喂血吻",
+      "onboard_time": 1687411532,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 199709,
@@ -33897,6 +33945,14 @@
       "onboard_time": 1686987986,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191448,
+      "num": 191448,
+      "word": "长再大遇到危险也找爸爸",
+      "onboard_time": 1687411712,
+      "rank": 42,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191437,
@@ -36521,14 +36577,6 @@
       "onboard_time": 1686066927,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178064,
-      "num": 178064,
-      "word": "段嘉许毕业",
-      "onboard_time": 1687409615,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 178029,
@@ -42489,6 +42537,14 @@
       "onboard_time": 1686910047,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142227,
+      "num": 166233,
+      "word": "属实把小长假玩明白了",
+      "onboard_time": 1687411774,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142180,
@@ -51460,7 +51516,7 @@
     },
     {
       "raw_hot": 19236,
-      "num": 398521,
+      "num": 453175,
       "word": "万物皆可粽子",
       "onboard_time": 1687410034,
       "rank": 14,
