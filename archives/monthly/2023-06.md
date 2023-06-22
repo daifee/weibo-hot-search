@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 18:22:36
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 18:34:05
 </p>
 </blockquote>
 <p>
@@ -1827,6 +1827,12 @@ lofter（热度：1890120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23" target="weibo">
+怀孕33周孕妇被2岁儿子开枪打死（热度：1857336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CiG%23" target="weibo">
 EDG战胜iG（热度：1851482）
 </a>
@@ -2463,12 +2469,6 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23" target="weibo">
-怀孕33周孕妇被2岁儿子开枪打死（热度：1579977）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
 白鹿张凌赫（热度：1579112）
 </a>
@@ -2525,6 +2525,12 @@ Angelababy黄景瑜 百年灵（热度：1565691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
 苏醒见完梅西偶遇来迟的薛之谦（热度：1562089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%23" target="weibo">
+消失的她票房（热度：1561224）
 </a>
 </li>
 
@@ -2909,6 +2915,12 @@ Jennie演唱会中途离场（热度：1445483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E7%A5%9D%E8%B4%BA%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8E%B7%E5%A5%96%E5%AD%A6%E9%87%91%23" target="weibo">
 李湘祝贺王诗龄获奖学金（热度：1443641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
+王皓（热度：1442029）
 </a>
 </li>
 
@@ -3657,12 +3669,6 @@ EXO是我们公司非常珍惜的艺人（热度：1267506）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
-王皓（热度：1260587）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23" target="weibo">
 长得漂亮但拍照不上镜（热度：1259695）
 </a>
@@ -3917,12 +3923,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%23" target="weibo">
 吴磊虞书欣 骄阳似我（热度：1201069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%23" target="weibo">
-消失的她票房（热度：1200627）
 </a>
 </li>
 

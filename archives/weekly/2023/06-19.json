@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687429356948,
+  "endTime": 1687430045449,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1857336,
+      "num": 1555376,
+      "word": "怀孕33周孕妇被2岁儿子开枪打死",
+      "onboard_time": 1687427372,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1833165,
       "num": 1833165,
       "word": "偷偷藏不住受众群体",
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 1620326,
-      "num": 1253091,
+      "num": 1549854,
       "word": "甜馨10岁身高",
       "onboard_time": 1687423712,
       "rank": 3,
@@ -731,20 +739,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1579977,
-      "num": 831577,
-      "word": "怀孕33周孕妇被2岁儿子开枪打死",
-      "onboard_time": 1687427372,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1564668,
       "num": 1564668,
       "word": "海南无名男尸是贪污受贿在逃19年嫌犯",
       "onboard_time": 1687320937,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561224,
+      "num": 1561224,
+      "word": "消失的她票房",
+      "onboard_time": 1687422450,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1557708,
@@ -857,6 +865,14 @@
       "onboard_time": 1687332636,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1442029,
+      "num": 1442029,
+      "word": "王皓",
+      "onboard_time": 1687422272,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1426534,
@@ -1043,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1260587,
-      "num": 1211165,
-      "word": "王皓",
-      "onboard_time": 1687422272,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1256570,
       "num": 1256570,
       "word": "阿姨收到1920元工资塞500给老板",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1687260753,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1200627,
-      "num": 1200627,
-      "word": "消失的她票房",
-      "onboard_time": 1687422450,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 1199875,
@@ -1795,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819703,
+      "num": 697657,
+      "word": "银川预计今晚8点召开爆炸事故新闻发布会",
+      "onboard_time": 1687428510,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817307,
       "num": 817307,
       "word": "男子表白失败扔花大喊她是女同",
@@ -2443,14 +2451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 579152,
-      "num": 579152,
-      "word": "银川预计今晚8点召开爆炸事故新闻发布会",
-      "onboard_time": 1687428510,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577141,
       "num": 574708,
       "word": "萧敬腾",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1687225592,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 568847,
+      "num": 415028,
+      "word": "合同到期的前两天我怀孕了",
+      "onboard_time": 1687426891,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 567635,
@@ -2641,14 +2649,6 @@
       "onboard_time": 1687269216,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 533562,
-      "num": 415028,
-      "word": "合同到期的前两天我怀孕了",
-      "onboard_time": 1687426891,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 532892,
@@ -2956,7 +2956,7 @@
     },
     {
       "raw_hot": 465873,
-      "num": 1253084,
+      "num": 1560438,
       "word": "19岁藏族小伙救下掉入冰川游客",
       "onboard_time": 1687424374,
       "rank": 36,
@@ -3731,6 +3731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362691,
+      "num": 362691,
+      "word": "朱一龙从迷人变吓人",
+      "onboard_time": 1687428573,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361857,
       "num": 336816,
       "word": "如何看待川大处罚结果",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1687314569,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355018,
+      "num": 355018,
+      "word": "mcd",
+      "onboard_time": 1687429111,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 355006,
@@ -4771,12 +4787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281272,
+      "num": 1551353,
+      "word": "杭州老人包200个黄荆粽送亲友",
+      "onboard_time": 1687428212,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280993,
       "num": 280993,
       "word": "柳智敏我的英雄学院",
       "onboard_time": 1687304669,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280612,
+      "num": 280612,
+      "word": "这个请假证明绝了",
+      "onboard_time": 1687429650,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 280000,
@@ -5075,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266615,
+      "num": 266615,
+      "word": "桑稚段嘉许再次重逢",
+      "onboard_time": 1687427852,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266501,
       "num": 266501,
       "word": "中餐厅路透",
@@ -5251,14 +5291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257852,
-      "num": 257852,
-      "word": "桑稚段嘉许再次重逢",
-      "onboard_time": 1687427852,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -5273,14 +5305,6 @@
       "onboard_time": 1687319316,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256486,
-      "num": 256486,
-      "word": "朱一龙从迷人变吓人",
-      "onboard_time": 1687428573,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 256283,
@@ -5336,6 +5360,14 @@
       "word": "防弹少年团今年全员入伍",
       "onboard_time": 1687148613,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253823,
+      "num": 253823,
+      "word": "私生追贺峻霖到教室涉嫌侵权",
+      "onboard_time": 1687429050,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -6155,14 +6187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222773,
-      "num": 222773,
-      "word": "mcd",
-      "onboard_time": 1687429111,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222364,
       "num": 222364,
       "word": "为什么现在不流行非主流了",
@@ -6467,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211409,
+      "num": 211409,
+      "word": "XYG成长了",
+      "onboard_time": 1687427671,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211169,
       "num": 211169,
       "word": "女子地铁站怒喊大叔猥亵阿姨",
@@ -6683,6 +6715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203522,
+      "num": 203522,
+      "word": "银川烧烤店爆炸事故四问",
+      "onboard_time": 1687429409,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202936,
       "num": 202936,
       "word": "向佐陈冠希合体",
@@ -6825,6 +6865,14 @@
       "onboard_time": 1687266453,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199416,
+      "num": 199416,
+      "word": "蔡徐坤hugme口哨版音源上线",
+      "onboard_time": 1687428691,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 199390,
@@ -7033,14 +7081,6 @@
       "onboard_time": 1687226790,
       "rank": 42,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 195401,
-      "num": 195401,
-      "word": "私生追贺峻霖到教室涉嫌侵权",
-      "onboard_time": 1687429050,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 195026,
@@ -7315,14 +7355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185317,
-      "num": 185317,
-      "word": "蔡徐坤hugme口哨版音源上线",
-      "onboard_time": 1687428691,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184840,
       "num": 184840,
       "word": "川大通报地铁事件涉事女生处理情况",
@@ -7491,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178325,
+      "num": 178325,
+      "word": "花店门口玫瑰瀑布被男子薅秃",
+      "onboard_time": 1687428751,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177928,
       "num": 190784,
       "word": "山东一市机关单位免费开放停车场",
@@ -7595,14 +7635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174692,
-      "num": 174692,
-      "word": "XYG成长了",
-      "onboard_time": 1687427671,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174475,
       "num": 178808,
       "word": "原神",
@@ -7657,6 +7689,14 @@
       "onboard_time": 1687143570,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174155,
+      "num": 402226,
+      "word": "180斤男生摔伤腿体育老师背其去中考",
+      "onboard_time": 1687429830,
+      "rank": 18,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 173882,
@@ -9012,7 +9052,7 @@
     },
     {
       "raw_hot": 104366,
-      "num": 1256110,
+      "num": 1557683,
       "word": "藏在古画里的端午仪式感",
       "onboard_time": 1687421792,
       "rank": 2,
@@ -9065,14 +9105,6 @@
       "onboard_time": 1687342898,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100768,
-      "num": 1223734,
-      "word": "杭州老人包200个黄荆粽送亲友",
-      "onboard_time": 1687428212,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99149,
@@ -9191,6 +9223,14 @@
       "num": 789517,
       "word": "被杭州地铁毕业快乐广播戳到",
       "onboard_time": 1687269695,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85115,
+      "num": 736202,
+      "word": "女子站台晕倒公交司机抱上车相救",
+      "onboard_time": 1687428029,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -9424,14 +9464,6 @@
       "word": "马代酒店称涉事管家当日离职",
       "onboard_time": 1687374015,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60534,
-      "num": 736202,
-      "word": "女子站台晕倒公交司机抱上车相救",
-      "onboard_time": 1687428029,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
