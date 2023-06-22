@@ -1,0 +1,410 @@
+{
+  "runTime": 1687419214704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893765,
+        "num": 1893765,
+        "word": "知情人称银川烧烤店死者死因多为窒息",
+        "onboard_time": 1687414471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339745,
+        "num": 1339745,
+        "word": "手机号实名制已经10年了",
+        "onboard_time": 1687409734,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62527,
+        "num": 1232128,
+        "word": "一人一句祝愿端午安康",
+        "onboard_time": 1687412670,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178786,
+        "num": 1178786,
+        "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+        "onboard_time": 1687406672,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948681,
+        "num": 948681,
+        "word": "迪丽热巴的项链好特别",
+        "onboard_time": 1687413511,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 787330,
+        "num": 787330,
+        "word": "无穷小亮 有个事挺瘆得慌",
+        "onboard_time": 1687402653,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 742261,
+        "num": 742261,
+        "word": "赵丽颖红色旗袍",
+        "onboard_time": 1687416150,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646037,
+        "num": 646037,
+        "word": "顾九思柳玉茹喂血吻",
+        "onboard_time": 1687411532,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 620510,
+        "num": 620510,
+        "word": "62岁费翔胸肌",
+        "onboard_time": 1687416810,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541424,
+        "num": 541424,
+        "word": "福布斯称Jennie有资格获艾美奖",
+        "onboard_time": 1687406017,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707646,
+        "num": 539345,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518567,
+        "num": 518567,
+        "word": "宋妍霏腰臀比",
+        "onboard_time": 1687412192,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484205,
+        "num": 484205,
+        "word": "内马尔为孕期出轨道歉",
+        "onboard_time": 1687389922,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 409869,
+        "num": 409869,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396306,
+        "num": 396306,
+        "word": "银川爆炸烧烤店二楼有KTV包房",
+        "onboard_time": 1687411052,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368939,
+        "num": 368939,
+        "word": "赵丽颖与素人合影",
+        "onboard_time": 1687418250,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351216,
+        "num": 351216,
+        "word": "易烊千玺端午节营业视频",
+        "onboard_time": 1687418611,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348503,
+        "num": 348503,
+        "word": "消失的她",
+        "onboard_time": 1687411353,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293923,
+        "num": 293923,
+        "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+        "onboard_time": 1687398511,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263980,
+        "num": 263980,
+        "word": "北京高温",
+        "onboard_time": 1687417590,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332619,
+        "num": 263866,
+        "word": "一毕业就赶上家里事业起飞",
+        "onboard_time": 1687417769,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320108,
+        "num": 263245,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 313344,
+        "num": 262874,
+        "word": "大眼睛女孩现在是撑伞人",
+        "onboard_time": 1687413031,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305409,
+        "num": 261962,
+        "word": "马伯骞你是真的火了",
+        "onboard_time": 1687401693,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261905,
+        "num": 261905,
+        "word": "目击者称烧烤店楼梯炸没了难以逃生",
+        "onboard_time": 1687417891,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258659,
+        "num": 258659,
+        "word": "公司要倒闭的几个征兆",
+        "onboard_time": 1687409314,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252586,
+        "num": 252586,
+        "word": "消失的她有多敢拍",
+        "onboard_time": 1687408957,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238145,
+        "num": 238145,
+        "word": "瘦子被控性侵",
+        "onboard_time": 1687389501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232886,
+        "num": 232886,
+        "word": "烧烤店爆炸事故遇难者中有高中生",
+        "onboard_time": 1687418730,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229741,
+        "num": 229741,
+        "word": "张艺兴送粽子到蘑菇屋",
+        "onboard_time": 1687410575,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277352,
+        "num": 228921,
+        "word": "院方回应新生儿大腿骨折",
+        "onboard_time": 1687416451,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227170,
+        "num": 227170,
+        "word": "赵丽颖Q版沈璃",
+        "onboard_time": 1687415734,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216779,
+        "num": 216779,
+        "word": "暮色心约",
+        "onboard_time": 1687414711,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210528,
+        "num": 210528,
+        "word": "官方回应女模特向评委席扔高跟鞋",
+        "onboard_time": 1687414413,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206447,
+        "num": 206447,
+        "word": "曾黎见到老同学狂奔5米合照",
+        "onboard_time": 1687406734,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197383,
+        "num": 197383,
+        "word": "孙颖莎林高远出战萨格勒布站单打",
+        "onboard_time": 1687417292,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194528,
+        "num": 194528,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178261,
+        "num": 178261,
+        "word": "千万别在下午和晚上买机票",
+        "onboard_time": 1687393108,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176825,
+        "num": 176825,
+        "word": "倪妮 文咏珊",
+        "onboard_time": 1687408834,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92628,
+        "num": 169936,
+        "word": "属实把小长假玩明白了",
+        "onboard_time": 1687411774,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169706,
+        "num": 169706,
+        "word": "网友端午节前偶遇钟南山院士查房",
+        "onboard_time": 1687418611,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162178,
+        "num": 162178,
+        "word": "广东人为什么普遍都很瘦",
+        "onboard_time": 1687399594,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162016,
+        "num": 162016,
+        "word": "男子上班途中偶遇时空裂缝",
+        "onboard_time": 1687415070,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 160931,
+        "word": "李白到底有多有钱",
+        "onboard_time": 1687408233,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159656,
+        "num": 159656,
+        "word": "十个勤天",
+        "onboard_time": 1687399954,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157805,
+        "num": 157805,
+        "word": "已婚人士有哪些建议给未婚人士",
+        "onboard_time": 1687404397,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148010,
+        "num": 148010,
+        "word": "小伙带6旬老爸在天安门前合照圆梦",
+        "onboard_time": 1687418550,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138369,
+        "num": 138369,
+        "word": "如何看待家长举报导师学术不端逼死学生",
+        "onboard_time": 1687413452,
+        "rank": 47,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 138355,
+        "num": 138355,
+        "word": "金丝猴下地掰竹笋吃",
+        "onboard_time": 1687419091,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134773,
+        "num": 134773,
+        "word": "王迅一句话让王一珩恢复乖巧",
+        "onboard_time": 1687416870,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#古诗文里的端午习俗#"
+    }
+  }
+}
