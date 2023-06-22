@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687437300237,
+  "endTime": 1687438222321,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2948997,
-      "num": 2948997,
+      "raw_hot": 2986070,
+      "num": 2986070,
       "word": "宁夏银川烧烤店爆炸事故新闻发布会",
       "onboard_time": 1687435289,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1402355,
+      "num": 1402355,
+      "word": "长风渡14集杀疯了",
+      "onboard_time": 1687436311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1388359,
       "num": 1388359,
       "word": "家属称剖宫产时孩子大腿被医生掰骨折",
@@ -283,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032231,
+      "num": 1019005,
+      "word": "文咏珊好媚",
+      "onboard_time": 1687433251,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1030507,
+      "num": 1030507,
+      "word": "沙溢长风渡下线",
+      "onboard_time": 1687437032,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1030148,
       "num": 1030148,
       "word": "马伯骞你是真的火了",
@@ -297,14 +321,6 @@
       "onboard_time": 1687388479,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1014693,
-      "num": 1014693,
-      "word": "文咏珊好媚",
-      "onboard_time": 1687433251,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 989182,
@@ -377,6 +393,14 @@
       "onboard_time": 1687410575,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 828620,
+      "num": 594425,
+      "word": "银川市委副书记致歉",
+      "onboard_time": 1687437633,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828524,
@@ -457,14 +481,6 @@
       "onboard_time": 1687402174,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 734671,
-      "num": 734671,
-      "word": "长风渡14集杀疯了",
-      "onboard_time": 1687436311,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 720451,
@@ -787,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 478836,
+      "num": 478836,
+      "word": "大家知道屈原姓什么吗",
+      "onboard_time": 1687435050,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472002,
       "num": 472002,
       "word": "消失的她结局",
@@ -899,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394797,
+      "num": 394797,
+      "word": "刘宇宁直播",
+      "onboard_time": 1687437633,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393835,
       "num": 393835,
       "word": "泰坦",
@@ -937,14 +969,6 @@
       "onboard_time": 1687357537,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382486,
-      "num": 382486,
-      "word": "大家知道屈原姓什么吗",
-      "onboard_time": 1687435050,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380459,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1687363712,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362195,
-      "num": 362195,
-      "word": "沙溢长风渡下线",
-      "onboard_time": 1687437032,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 360060,
@@ -1203,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305900,
+      "num": 305900,
+      "word": "乘风四公芭莎多巴胺大片",
+      "onboard_time": 1687436910,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304759,
       "num": 304759,
       "word": "四川大学称张某保研不违规",
@@ -1323,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280462,
+      "num": 280462,
+      "word": "纪梵希大秀",
+      "onboard_time": 1687437693,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 277882,
       "num": 277882,
       "word": "银川烧烤店爆炸前店员闻到煤气泄漏",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1687436552,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276870,
-      "num": 276870,
-      "word": "乘风四公芭莎多巴胺大片",
-      "onboard_time": 1687436910,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 275010,
@@ -1699,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213090,
+      "num": 213090,
+      "word": "XYG的团战好亏贼",
+      "onboard_time": 1687437213,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212680,
       "num": 212680,
       "word": "五月天武汉演唱会",
@@ -2011,20 +2043,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189297,
+      "num": 189297,
+      "word": "领导 你们人还怪好嘞",
+      "onboard_time": 1687437810,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188920,
       "num": 188920,
       "word": "黄子韬多巴胺穿搭",
       "onboard_time": 1687355679,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 188526,
-      "num": 188526,
-      "word": "XYG的团战好亏贼",
-      "onboard_time": 1687437213,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 186043,
@@ -2516,7 +2548,7 @@
     },
     {
       "raw_hot": 57935,
-      "num": 1511287,
+      "num": 1623622,
       "word": "我国最长深水油气管道建成",
       "onboard_time": 1687421611,
       "rank": 26,

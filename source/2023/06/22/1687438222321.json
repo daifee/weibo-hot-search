@@ -1,0 +1,410 @@
+{
+  "runTime": 1687438222321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2986070,
+        "num": 2986070,
+        "word": "宁夏银川烧烤店爆炸事故新闻发布会",
+        "onboard_time": 1687435289,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1849719,
+        "num": 1849719,
+        "word": "马伯庸 别人发端午安康我回复端午快乐",
+        "onboard_time": 1687432294,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 39937,
+        "num": 1623622,
+        "word": "我国最长深水油气管道建成",
+        "onboard_time": 1687421611,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402355,
+        "num": 1402355,
+        "word": "长风渡14集杀疯了",
+        "onboard_time": 1687436311,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1372757,
+        "num": 1372757,
+        "word": "怀孕33周孕妇被2岁儿子开枪打死",
+        "onboard_time": 1687427372,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046947,
+        "num": 1046947,
+        "word": "消失的她票房",
+        "onboard_time": 1687422450,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1030507,
+        "num": 1030507,
+        "word": "沙溢长风渡下线",
+        "onboard_time": 1687437032,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1032231,
+        "num": 1019005,
+        "word": "文咏珊好媚",
+        "onboard_time": 1687433251,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1000130,
+        "num": 1000130,
+        "word": "伊能静晒儿子女儿合照",
+        "onboard_time": 1687432050,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599547,
+        "num": 599547,
+        "word": "15岁女生答72岁复旦教授",
+        "onboard_time": 1687422930,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1023908,
+        "num": 596928,
+        "word": "宋雨琦原来是SM家族粉",
+        "onboard_time": 1687430610,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828620,
+        "num": 594425,
+        "word": "银川市委副书记致歉",
+        "onboard_time": 1687437633,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627609,
+        "num": 589396,
+        "word": "甜馨10岁身高",
+        "onboard_time": 1687423712,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575055,
+        "num": 575055,
+        "word": "偷偷藏不住小分队团建",
+        "onboard_time": 1687432891,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521510,
+        "num": 521510,
+        "word": "Uzi4杀 RNG拿下比赛",
+        "onboard_time": 1687432294,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 511538,
+        "num": 511538,
+        "word": "河北科技大学通报学生跳楼身亡",
+        "onboard_time": 1687422210,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 488755,
+        "num": 488755,
+        "word": "白玉兰提名酒会",
+        "onboard_time": 1687435891,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478836,
+        "num": 478836,
+        "word": "大家知道屈原姓什么吗",
+        "onboard_time": 1687435050,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447209,
+        "num": 447209,
+        "word": "刺痛1v15",
+        "onboard_time": 1687436012,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 411742,
+        "num": 411742,
+        "word": "EDG教练在干嘛",
+        "onboard_time": 1687430550,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 513771,
+        "num": 411136,
+        "word": "女子连生6女被要求生子想离婚遭驳回",
+        "onboard_time": 1687431992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394797,
+        "num": 394797,
+        "word": "刘宇宁直播",
+        "onboard_time": 1687437633,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382885,
+        "num": 382885,
+        "word": "RNG零封EDG",
+        "onboard_time": 1687432111,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381254,
+        "num": 381254,
+        "word": "迪丽热巴的项链好特别",
+        "onboard_time": 1687413511,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 327532,
+        "num": 327532,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 322306,
+        "num": 322306,
+        "word": "泰坦尼克号",
+        "onboard_time": 1687437213,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320268,
+        "num": 320268,
+        "word": "张嘉倪的手机壳是Ella表情包",
+        "onboard_time": 1687434331,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311508,
+        "num": 311508,
+        "word": "银川爆炸烧烤店救援现场",
+        "onboard_time": 1687426111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305900,
+        "num": 305900,
+        "word": "乘风四公芭莎多巴胺大片",
+        "onboard_time": 1687436910,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301979,
+        "num": 301979,
+        "word": "消失的她",
+        "onboard_time": 1687411353,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293490,
+        "num": 293490,
+        "word": "西湖边卖花姑娘回应意外走红",
+        "onboard_time": 1687431212,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 292345,
+        "num": 292345,
+        "word": "央视端午节目单官宣",
+        "onboard_time": 1687431813,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290920,
+        "num": 290920,
+        "word": "消失的她结局",
+        "onboard_time": 1687420769,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280462,
+        "num": 280462,
+        "word": "纪梵希大秀",
+        "onboard_time": 1687437693,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 275972,
+        "num": 275972,
+        "word": "DK输了",
+        "onboard_time": 1687436552,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270726,
+        "num": 270726,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263934,
+        "num": 263934,
+        "word": "银川烧烤店爆炸前店员闻到煤气泄漏",
+        "onboard_time": 1687434636,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244925,
+        "num": 244925,
+        "word": "长风渡杨文昌下线",
+        "onboard_time": 1687435352,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238508,
+        "num": 238508,
+        "word": "泰坦",
+        "onboard_time": 1687431392,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230760,
+        "num": 230760,
+        "word": "合同到期的前两天我怀孕了",
+        "onboard_time": 1687426891,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225978,
+        "num": 225978,
+        "word": "拉夏贝尔正式破产清算",
+        "onboard_time": 1687421011,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217853,
+        "num": 217853,
+        "word": "奔跑吧全员素颜",
+        "onboard_time": 1687420468,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217419,
+        "num": 217419,
+        "word": "罗云熙粽子比脸大",
+        "onboard_time": 1687423292,
+        "rank": 42,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 213090,
+        "num": 213090,
+        "word": "XYG的团战好亏贼",
+        "onboard_time": 1687437213,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210795,
+        "num": 210795,
+        "word": "五月天武汉演唱会",
+        "onboard_time": 1687424732,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208010,
+        "num": 208010,
+        "word": "王皓",
+        "onboard_time": 1687422272,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206316,
+        "num": 206316,
+        "word": "男子让狗舔舐伤口消毒",
+        "onboard_time": 1687430550,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204518,
+        "num": 204518,
+        "word": "放假躺两天是年轻人的生活方式吗",
+        "onboard_time": 1687437150,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 197972,
+        "num": 197972,
+        "word": "XYG战胜eStar",
+        "onboard_time": 1687436432,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189297,
+        "num": 189297,
+        "word": "领导 你们人还怪好嘞",
+        "onboard_time": 1687437810,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#古诗文里的端午习俗#"
+    }
+  }
+}

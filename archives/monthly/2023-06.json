@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687437300237,
+  "endTime": 1687438222321,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -603,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2986070,
+      "num": 2986070,
+      "word": "宁夏银川烧烤店爆炸事故新闻发布会",
+      "onboard_time": 1687435289,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2967400,
       "num": 2967400,
       "word": "梅西苏醒合影",
       "onboard_time": 1686731490,
       "rank": 18,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 2948997,
-      "num": 2948997,
-      "word": "宁夏银川烧烤店爆炸事故新闻发布会",
-      "onboard_time": 1687435289,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2945978,
@@ -4115,6 +4115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1402355,
+      "num": 1402355,
+      "word": "长风渡14集杀疯了",
+      "onboard_time": 1687436311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1400611,
       "num": 1400611,
       "word": "一个村考出300多大学生6个北大",
@@ -6531,12 +6539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1032231,
+      "num": 1019005,
+      "word": "文咏珊好媚",
+      "onboard_time": 1687433251,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1031231,
       "num": 1031231,
       "word": "江歌妈妈将赔偿款全额捐出",
       "onboard_time": 1686539909,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030507,
+      "num": 1030507,
+      "word": "沙溢长风渡下线",
+      "onboard_time": 1687437032,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1030148,
@@ -6705,14 +6729,6 @@
       "onboard_time": 1686413250,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1014693,
-      "num": 1014693,
-      "word": "文咏珊好媚",
-      "onboard_time": 1687433251,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 1014533,
@@ -8419,6 +8435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 828620,
+      "num": 594425,
+      "word": "银川市委副书记致歉",
+      "onboard_time": 1687437633,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828524,
       "num": 828524,
       "word": "15岁女生答72岁复旦教授",
@@ -9633,14 +9657,6 @@
       "onboard_time": 1686794367,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 734671,
-      "num": 734671,
-      "word": "长风渡14集杀疯了",
-      "onboard_time": 1687436311,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 732991,
@@ -13563,6 +13579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 478836,
+      "num": 478836,
+      "word": "大家知道屈原姓什么吗",
+      "onboard_time": 1687435050,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478448,
       "num": 478448,
       "word": "官方通报柳州一干部相关情况",
@@ -15883,6 +15907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394797,
+      "num": 394797,
+      "word": "刘宇宁直播",
+      "onboard_time": 1687437633,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394082,
       "num": 449582,
       "word": "星宇",
@@ -16361,14 +16393,6 @@
       "onboard_time": 1687008811,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382486,
-      "num": 382486,
-      "word": "大家知道屈原姓什么吗",
-      "onboard_time": 1687435050,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382273,
@@ -17209,14 +17233,6 @@
       "onboard_time": 1686132219,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 362195,
-      "num": 362195,
-      "word": "沙溢长风渡下线",
-      "onboard_time": 1687437032,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 361857,
@@ -20395,6 +20411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305900,
+      "num": 305900,
+      "word": "乘风四公芭莎多巴胺大片",
+      "onboard_time": 1687436910,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305813,
       "num": 359247,
       "word": "狗狗被陌生男子下药后拼命爬回家",
@@ -22339,6 +22363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280462,
+      "num": 280462,
+      "word": "纪梵希大秀",
+      "onboard_time": 1687437693,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 280311,
       "num": 280311,
       "word": "肖战语文课本同款手套",
@@ -22713,14 +22745,6 @@
       "onboard_time": 1685589685,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 276870,
-      "num": 276870,
-      "word": "乘风四公芭莎多巴胺大片",
-      "onboard_time": 1687436910,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 276755,
@@ -30843,6 +30867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213090,
+      "num": 213090,
+      "word": "XYG的团战好亏贼",
+      "onboard_time": 1687437213,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213079,
       "num": 213079,
       "word": "吴磊女施主请自重",
@@ -35403,6 +35435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189297,
+      "num": 189297,
+      "word": "领导 你们人还怪好嘞",
+      "onboard_time": 1687437810,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189259,
       "num": 396387,
       "word": "交警拦车俯身救小猫太有爱了",
@@ -35585,14 +35625,6 @@
       "onboard_time": 1686301052,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188526,
-      "num": 188526,
-      "word": "XYG的团战好亏贼",
-      "onboard_time": 1687437213,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 188518,
@@ -50980,7 +51012,7 @@
     },
     {
       "raw_hot": 57935,
-      "num": 1511287,
+      "num": 1623622,
       "word": "我国最长深水油气管道建成",
       "onboard_time": 1687421611,
       "rank": 26,
