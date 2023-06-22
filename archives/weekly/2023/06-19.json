@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687422038536,
+  "endTime": 1687422812475,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -491,7 +491,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2011445,
+      "raw_hot": 2016174,
       "num": 1893765,
       "word": "知情人称银川烧烤店死者死因多为窒息",
       "onboard_time": 1687414471,
@@ -529,6 +529,14 @@
       "onboard_time": 1687312891,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1880234,
+      "num": 1880234,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1871999,
@@ -737,14 +745,6 @@
       "onboard_time": 1687181860,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1533720,
-      "num": 1533720,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1533112,
@@ -985,6 +985,14 @@
       "onboard_time": 1687153112,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1262629,
+      "num": 1262629,
+      "word": "奔跑吧全员素颜",
+      "onboard_time": 1687420468,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1262079,
@@ -1380,7 +1388,7 @@
     },
     {
       "raw_hot": 989182,
-      "num": 804941,
+      "num": 948549,
       "word": "赵丽颖与素人合影",
       "onboard_time": 1687418250,
       "rank": 15,
@@ -1497,14 +1505,6 @@
       "onboard_time": 1687403071,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919485,
-      "num": 919485,
-      "word": "奔跑吧全员素颜",
-      "onboard_time": 1687420468,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 918293,
@@ -2139,6 +2139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 653932,
+      "num": 541917,
+      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+      "onboard_time": 1687421792,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653129,
       "num": 543636,
       "word": "张萌这次演抓出轨",
@@ -2212,7 +2220,7 @@
     },
     {
       "raw_hot": 629859,
-      "num": 546052,
+      "num": 561734,
       "word": "拉夏贝尔正式破产清算",
       "onboard_time": 1687421011,
       "rank": 10,
@@ -2491,8 +2499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 550509,
-      "num": 550509,
+      "raw_hot": 551546,
+      "num": 551546,
       "word": "目击者称烧烤店楼梯炸没了难以逃生",
       "onboard_time": 1687417891,
       "rank": 49,
@@ -2801,6 +2809,14 @@
       "onboard_time": 1687180541,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 472002,
+      "num": 472002,
+      "word": "消失的她结局",
+      "onboard_time": 1687420769,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 466451,
@@ -3123,6 +3139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 423158,
+      "num": 400445,
+      "word": "消失的她票房",
+      "onboard_time": 1687422450,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422696,
       "num": 422696,
       "word": "客户让高中女儿多看招聘网",
@@ -3411,6 +3435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385374,
+      "num": 385374,
+      "word": "河北科技大学通报学生跳楼身亡",
+      "onboard_time": 1687422210,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 385131,
       "num": 370970,
       "word": "桑稚的阿母vs程少商的阿母",
@@ -3451,20 +3483,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376799,
-      "num": 376799,
-      "word": "消失的她结局",
-      "onboard_time": 1687420769,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376262,
       "num": 376262,
       "word": "宁夏银川一烧烤店发生爆炸",
       "onboard_time": 1687393172,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375329,
+      "num": 375329,
+      "word": "久诚",
+      "onboard_time": 1687421971,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 374278,
@@ -3971,6 +4003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324452,
+      "num": 285185,
+      "word": "入职后才发现上下班不用打卡",
+      "onboard_time": 1687421490,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324331,
       "num": 241721,
       "word": "偷偷藏不住连更10天",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1687238914,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 322990,
+      "num": 322990,
+      "word": "网友西湖偶遇梁家辉叶童",
+      "onboard_time": 1687421067,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 321990,
@@ -4347,6 +4395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294407,
+      "num": 294407,
+      "word": "王皓",
+      "onboard_time": 1687422272,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293887,
       "num": 293887,
       "word": "蔡徐坤hugme开场",
@@ -4403,6 +4459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291221,
+      "num": 291221,
+      "word": "开心麻花最厉害的组合",
+      "onboard_time": 1687422332,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291216,
       "num": 291216,
       "word": "权志龙发际线",
@@ -4441,14 +4505,6 @@
       "onboard_time": 1687360117,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 288992,
-      "num": 288992,
-      "word": "网友西湖偶遇梁家辉叶童",
-      "onboard_time": 1687421067,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 288916,
@@ -4513,6 +4569,14 @@
       "onboard_time": 1687125373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284724,
+      "num": 284724,
+      "word": "跟妈妈开玩笑被陌生人教育了",
+      "onboard_time": 1687421910,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 284701,
@@ -4691,6 +4755,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 273392,
+      "num": 273392,
+      "word": "虞书欣范丞丞怼脸直拍",
+      "onboard_time": 1687421129,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272904,
       "num": 272904,
       "word": "宋雨琦粉色挂脖吊带",
@@ -4865,14 +4937,6 @@
       "onboard_time": 1687136430,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265974,
-      "num": 265974,
-      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
-      "onboard_time": 1687421792,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265863,
@@ -5179,14 +5243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252196,
-      "num": 252196,
-      "word": "跟妈妈开玩笑被陌生人教育了",
-      "onboard_time": 1687421910,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251861,
       "num": 251861,
       "word": "家人说我工作后变冷漠了",
@@ -5491,14 +5547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238609,
-      "num": 238609,
-      "word": "入职后才发现上下班不用打卡",
-      "onboard_time": 1687421490,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238602,
       "num": 238602,
       "word": "杨紫慢镜头视频",
@@ -5585,14 +5633,6 @@
       "onboard_time": 1687245089,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236549,
-      "num": 236549,
-      "word": "虞书欣范丞丞怼脸直拍",
-      "onboard_time": 1687421129,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236234,
@@ -6113,6 +6153,14 @@
       "onboard_time": 1687257033,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213619,
+      "num": 213619,
+      "word": "这回马桶怪遇到对手了",
+      "onboard_time": 1687422690,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 213427,
@@ -6827,6 +6875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193849,
+      "num": 193849,
+      "word": "八角笼中",
+      "onboard_time": 1687422632,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "吴磊赵今麦端午祝福",
@@ -7025,6 +7081,14 @@
       "onboard_time": 1687310012,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187276,
+      "num": 187276,
+      "word": "金牛座真的很擅长伪装",
+      "onboard_time": 1687421851,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 186681,
@@ -7353,6 +7417,14 @@
       "onboard_time": 1687248994,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174265,
+      "num": 174265,
+      "word": "狼队第五人格宠爱",
+      "onboard_time": 1687422690,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 174244,
@@ -7755,14 +7827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163472,
-      "num": 163472,
-      "word": "金牛座真的很擅长伪装",
-      "onboard_time": 1687421851,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163108,
       "num": 181296,
       "word": "段奕宏 要守护白玉兰的含金量",
@@ -8059,14 +8123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151547,
-      "num": 151547,
-      "word": "久诚",
-      "onboard_time": 1687421971,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151498,
       "num": 239451,
       "word": "跳桥救人小哥仍处在骨折急性期",
@@ -8105,6 +8161,14 @@
       "onboard_time": 1687407753,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149628,
+      "num": 149628,
+      "word": "AG端午节特别企划",
+      "onboard_time": 1687422751,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 149143,
@@ -9035,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70224,
+      "num": 1050841,
+      "word": "藏在古画里的端午仪式感",
+      "onboard_time": 1687421792,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68229,
       "num": 68229,
       "word": "买西瓜前为啥要拍一拍",
@@ -9369,14 +9441,6 @@
       "onboard_time": 1687258832,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 16265,
-      "num": 806781,
-      "word": "藏在古画里的端午仪式感",
-      "onboard_time": 1687421792,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15927,

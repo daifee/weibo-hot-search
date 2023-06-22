@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687422038536,
+  "endTime": 1687422812475,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -19,7 +19,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2011445,
+      "raw_hot": 2016174,
       "num": 1893765,
       "word": "知情人称银川烧烤店死者死因多为窒息",
       "onboard_time": 1687414471,
@@ -33,6 +33,14 @@
       "onboard_time": 1687391906,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1880234,
+      "num": 1880234,
+      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+      "onboard_time": 1687406672,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1830478,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1533720,
-      "num": 1533720,
-      "word": "失联泰坦尼克号观光艇氧气即将耗尽",
-      "onboard_time": 1687406672,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1404564,
       "num": 1404564,
       "word": "无穷小亮 有个事挺瘆得慌",
@@ -97,6 +97,14 @@
       "onboard_time": 1687353334,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1262629,
+      "num": 1262629,
+      "word": "奔跑吧全员素颜",
+      "onboard_time": 1687420468,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1256570,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 989182,
-      "num": 804941,
+      "num": 948549,
       "word": "赵丽颖与素人合影",
       "onboard_time": 1687418250,
       "rank": 15,
@@ -201,14 +209,6 @@
       "onboard_time": 1687403071,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919485,
-      "num": 919485,
-      "word": "奔跑吧全员素颜",
-      "onboard_time": 1687420468,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 886365,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653932,
+      "num": 541917,
+      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+      "onboard_time": 1687421792,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632052,
       "num": 632052,
       "word": "公司要倒闭的几个征兆",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 629859,
-      "num": 546052,
+      "num": 561734,
       "word": "拉夏贝尔正式破产清算",
       "onboard_time": 1687421011,
       "rank": 10,
@@ -475,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 550509,
-      "num": 550509,
+      "raw_hot": 551546,
+      "num": 551546,
       "word": "目击者称烧烤店楼梯炸没了难以逃生",
       "onboard_time": 1687417891,
       "rank": 49,
@@ -539,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 472002,
+      "num": 472002,
+      "word": "消失的她结局",
+      "onboard_time": 1687420769,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461689,
       "num": 461689,
       "word": "长风渡开虐",
@@ -569,6 +585,14 @@
       "onboard_time": 1687388601,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423158,
+      "num": 400445,
+      "word": "消失的她票房",
+      "onboard_time": 1687422450,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 406129,
@@ -603,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385374,
+      "num": 385374,
+      "word": "河北科技大学通报学生跳楼身亡",
+      "onboard_time": 1687422210,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 384007,
       "num": 384007,
       "word": "怦然3男二坐铁锅里给女一道歉",
@@ -627,20 +659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376799,
-      "num": 376799,
-      "word": "消失的她结局",
-      "onboard_time": 1687420769,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376262,
       "num": 376262,
       "word": "宁夏银川一烧烤店发生爆炸",
       "onboard_time": 1687393172,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375329,
+      "num": 375329,
+      "word": "久诚",
+      "onboard_time": 1687421971,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 373946,
@@ -763,6 +795,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324452,
+      "num": 285185,
+      "word": "入职后才发现上下班不用打卡",
+      "onboard_time": 1687421490,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 322990,
+      "num": 322990,
+      "word": "网友西湖偶遇梁家辉叶童",
+      "onboard_time": 1687421067,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315676,
       "num": 315676,
       "word": "烧烤店爆炸事故遇难者中有高中生",
@@ -859,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294407,
+      "num": 294407,
+      "word": "王皓",
+      "onboard_time": 1687422272,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292710,
       "num": 292710,
       "word": "你能接受端午1天假调休凑3天吗",
@@ -875,12 +931,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288992,
-      "num": 288992,
-      "word": "网友西湖偶遇梁家辉叶童",
-      "onboard_time": 1687421067,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 291221,
+      "num": 291221,
+      "word": "开心麻花最厉害的组合",
+      "onboard_time": 1687422332,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284724,
+      "num": 284724,
+      "word": "跟妈妈开玩笑被陌生人教育了",
+      "onboard_time": 1687421910,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 275010,
@@ -889,6 +953,14 @@
       "onboard_time": 1687409492,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273392,
+      "num": 273392,
+      "word": "虞书欣范丞丞怼脸直拍",
+      "onboard_time": 1687421129,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 272904,
@@ -921,14 +993,6 @@
       "onboard_time": 1687420711,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265974,
-      "num": 265974,
-      "word": "家属称剖宫产时孩子大腿被医生掰骨折",
-      "onboard_time": 1687421792,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264769,
@@ -1003,14 +1067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252196,
-      "num": 252196,
-      "word": "跟妈妈开玩笑被陌生人教育了",
-      "onboard_time": 1687421910,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250981,
       "num": 250981,
       "word": "有两件事不好改回来了",
@@ -1059,28 +1115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238609,
-      "num": 238609,
-      "word": "入职后才发现上下班不用打卡",
-      "onboard_time": 1687421490,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238537,
       "num": 238537,
       "word": "段嘉许毕业",
       "onboard_time": 1687409615,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236549,
-      "num": 236549,
-      "word": "虞书欣范丞丞怼脸直拍",
-      "onboard_time": 1687421129,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236429,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1687404334,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213619,
+      "num": 213619,
+      "word": "这回马桶怪遇到对手了",
+      "onboard_time": 1687422690,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 212504,
@@ -1395,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193849,
+      "num": 193849,
+      "word": "八角笼中",
+      "onboard_time": 1687422632,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "吴磊赵今麦端午祝福",
@@ -1467,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187276,
+      "num": 187276,
+      "word": "金牛座真的很擅长伪装",
+      "onboard_time": 1687421851,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183405,
       "num": 183405,
       "word": "王迅一句话让王一珩恢复乖巧",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1687401872,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174265,
+      "num": 174265,
+      "word": "狼队第五人格宠爱",
+      "onboard_time": 1687422690,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 173882,
@@ -1611,14 +1683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163472,
-      "num": 163472,
-      "word": "金牛座真的很擅长伪装",
-      "onboard_time": 1687421851,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161344,
       "num": 161344,
       "word": "上海应聘保安的英语测试题",
@@ -1667,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151547,
-      "num": 151547,
-      "word": "久诚",
-      "onboard_time": 1687421971,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151252,
       "num": 151252,
       "word": "段嘉许狠起来自己都骂",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1687407753,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 149628,
+      "num": 149628,
+      "word": "AG端午节特别企划",
+      "onboard_time": 1687422751,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 148010,
@@ -1875,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70224,
+      "num": 1050841,
+      "word": "藏在古画里的端午仪式感",
+      "onboard_time": 1687421792,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60945,
       "num": 60945,
       "word": "马代酒店称涉事管家当日离职",
@@ -1904,14 +1976,6 @@
       "word": "万物皆可粽子",
       "onboard_time": 1687410034,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16265,
-      "num": 806781,
-      "word": "藏在古画里的端午仪式感",
-      "onboard_time": 1687421792,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

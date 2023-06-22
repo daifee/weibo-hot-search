@@ -1,0 +1,410 @@
+{
+  "runTime": 1687422812475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1880234,
+        "num": 1880234,
+        "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+        "onboard_time": 1687406672,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262629,
+        "num": 1262629,
+        "word": "奔跑吧全员素颜",
+        "onboard_time": 1687420468,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70224,
+        "num": 1050841,
+        "word": "藏在古画里的端午仪式感",
+        "onboard_time": 1687421792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948549,
+        "num": 948549,
+        "word": "赵丽颖与素人合影",
+        "onboard_time": 1687418250,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710832,
+        "num": 710832,
+        "word": "迪丽热巴的项链好特别",
+        "onboard_time": 1687413511,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 610770,
+        "num": 610770,
+        "word": "手机号实名制已经10年了",
+        "onboard_time": 1687409734,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561734,
+        "num": 561734,
+        "word": "拉夏贝尔正式破产清算",
+        "onboard_time": 1687421011,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551829,
+        "num": 551829,
+        "word": "无穷小亮 有个事挺瘆得慌",
+        "onboard_time": 1687402653,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551546,
+        "num": 551546,
+        "word": "目击者称烧烤店楼梯炸没了难以逃生",
+        "onboard_time": 1687417891,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550628,
+        "num": 550628,
+        "word": "福布斯称Jennie有资格获艾美奖",
+        "onboard_time": 1687406017,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2016174,
+        "num": 545820,
+        "word": "知情人称银川烧烤店死者死因多为窒息",
+        "onboard_time": 1687414471,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653932,
+        "num": 541917,
+        "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+        "onboard_time": 1687421792,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514389,
+        "num": 514389,
+        "word": "赵丽颖红色旗袍",
+        "onboard_time": 1687416150,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503846,
+        "num": 503846,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 472002,
+        "num": 472002,
+        "word": "消失的她结局",
+        "onboard_time": 1687420769,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440697,
+        "num": 440697,
+        "word": "顾九思柳玉茹喂血吻",
+        "onboard_time": 1687411532,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439083,
+        "num": 439083,
+        "word": "消失的她",
+        "onboard_time": 1687411353,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406818,
+        "num": 406818,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423158,
+        "num": 400445,
+        "word": "消失的她票房",
+        "onboard_time": 1687422450,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385374,
+        "num": 385374,
+        "word": "河北科技大学通报学生跳楼身亡",
+        "onboard_time": 1687422210,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 408450,
+        "num": 382754,
+        "word": "62岁费翔胸肌",
+        "onboard_time": 1687416810,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379375,
+        "num": 379375,
+        "word": "内马尔为孕期出轨道歉",
+        "onboard_time": 1687389922,
+        "rank": 21,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 375329,
+        "num": 375329,
+        "word": "久诚",
+        "onboard_time": 1687421971,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322990,
+        "num": 322990,
+        "word": "网友西湖偶遇梁家辉叶童",
+        "onboard_time": 1687421067,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310485,
+        "num": 310485,
+        "word": "北京高温",
+        "onboard_time": 1687417590,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301065,
+        "num": 301065,
+        "word": "易烊千玺端午节营业视频",
+        "onboard_time": 1687418611,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294407,
+        "num": 294407,
+        "word": "王皓",
+        "onboard_time": 1687422272,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291221,
+        "num": 291221,
+        "word": "开心麻花最厉害的组合",
+        "onboard_time": 1687422332,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287672,
+        "num": 287672,
+        "word": "烧烤店爆炸事故遇难者中有高中生",
+        "onboard_time": 1687418730,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126882,
+        "num": 285355,
+        "word": "金丝猴下地掰竹笋吃",
+        "onboard_time": 1687419091,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324452,
+        "num": 285185,
+        "word": "入职后才发现上下班不用打卡",
+        "onboard_time": 1687421490,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284724,
+        "num": 284724,
+        "word": "跟妈妈开玩笑被陌生人教育了",
+        "onboard_time": 1687421910,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278145,
+        "num": 278145,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 273392,
+        "num": 273392,
+        "word": "虞书欣范丞丞怼脸直拍",
+        "onboard_time": 1687421129,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228789,
+        "num": 228789,
+        "word": "男子地铁上数次扇脸女子质问爱谁",
+        "onboard_time": 1687420413,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218026,
+        "num": 218026,
+        "word": "宋妍霏腰臀比",
+        "onboard_time": 1687412192,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213619,
+        "num": 213619,
+        "word": "这回马桶怪遇到对手了",
+        "onboard_time": 1687422690,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202508,
+        "num": 202508,
+        "word": "一毕业就赶上家里事业起飞",
+        "onboard_time": 1687417769,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194077,
+        "num": 194077,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193849,
+        "num": 193849,
+        "word": "八角笼中",
+        "onboard_time": 1687422632,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191566,
+        "num": 191566,
+        "word": "十个勤天直播",
+        "onboard_time": 1687420711,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187276,
+        "num": 187276,
+        "word": "金牛座真的很擅长伪装",
+        "onboard_time": 1687421851,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176741,
+        "num": 176741,
+        "word": "公司要倒闭的几个征兆",
+        "onboard_time": 1687409314,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175253,
+        "num": 175253,
+        "word": "大眼睛女孩现在是撑伞人",
+        "onboard_time": 1687413031,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174265,
+        "num": 174265,
+        "word": "狼队第五人格宠爱",
+        "onboard_time": 1687422690,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171701,
+        "num": 171701,
+        "word": "马伯骞你是真的火了",
+        "onboard_time": 1687401693,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168546,
+        "num": 168546,
+        "word": "倪妮 文咏珊",
+        "onboard_time": 1687408834,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154065,
+        "num": 154065,
+        "word": "瘦子被控性侵",
+        "onboard_time": 1687389501,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158176,
+        "num": 152508,
+        "word": "消失的她有多敢拍",
+        "onboard_time": 1687408957,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149628,
+        "num": 149628,
+        "word": "AG端午节特别企划",
+        "onboard_time": 1687422751,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宁夏银川燃气爆炸事故作出重要指示#"
+    }
+  }
+}

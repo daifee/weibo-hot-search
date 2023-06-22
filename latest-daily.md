@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 16:20:38
+本榜单时间：2023/06/22 00:21:59 ~ 2023/06/22 16:33:32
 </p>
 </blockquote>
 <p>
@@ -28,13 +28,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E5%A4%9A%E4%B8%BA%E7%AA%92%E6%81%AF%23" target="weibo">
-知情人称银川烧烤店死者死因多为窒息（热度：2011445）
+知情人称银川烧烤店死者死因多为窒息（热度：2016174）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%88%96%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 炎亚纶或被判刑（热度：1939343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23" target="weibo">
+失联泰坦尼克号观光艇氧气即将耗尽（热度：1880234）
 </a>
 </li>
 
@@ -69,12 +75,6 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%E6%B0%A7%E6%B0%94%E5%8D%B3%E5%B0%86%E8%80%97%E5%B0%BD%23" target="weibo">
-失联泰坦尼克号观光艇氧气即将耗尽（热度：1533720）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C%23" target="weibo">
 无穷小亮 有个事挺瘆得慌（热度：1404564）
 </a>
@@ -83,6 +83,12 @@ Angelababy七年前vs七年后（热度：1601793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E5%A5%B3%E7%94%9F%E8%B0%A8%E6%85%8E%E7%8B%AC%E8%87%AA%E5%87%BA%E5%9B%BD%23" target="weibo">
 自曝被性侵女子提醒女生谨慎独自出国（热度：1273408）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23" target="weibo">
+奔跑吧全员素颜（热度：1262629）
 </a>
 </li>
 
@@ -161,12 +167,6 @@ Angelababy七年前vs七年后（热度：1601793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23" target="weibo">
 目击者讲述银川烧烤店爆炸（热度：922135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%23" target="weibo">
-奔跑吧全员素颜（热度：919485）
 </a>
 </li>
 
@@ -279,6 +279,12 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%89%96%E5%AE%AB%E4%BA%A7%E6%97%B6%E5%AD%A9%E5%AD%90%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8E%B0%E9%AA%A8%E6%8A%98%23" target="weibo">
+家属称剖宫产时孩子大腿被医生掰骨折（热度：653932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%A6%81%E5%80%92%E9%97%AD%E7%9A%84%E5%87%A0%E4%B8%AA%E5%BE%81%E5%85%86%23" target="weibo">
 公司要倒闭的几个征兆（热度：632052）
 </a>
@@ -370,7 +376,7 @@ zb1首日0中输（热度：613834）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E7%83%A7%E7%83%A4%E5%BA%97%E6%A5%BC%E6%A2%AF%E7%82%B8%E6%B2%A1%E4%BA%86%E9%9A%BE%E4%BB%A5%E9%80%83%E7%94%9F%23" target="weibo">
-目击者称烧烤店楼梯炸没了难以逃生（热度：550509）
+目击者称烧烤店楼梯炸没了难以逃生（热度：551546）
 </a>
 </li>
 
@@ -417,6 +423,12 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%BB%93%E5%B1%80%23" target="weibo">
+消失的她结局（热度：472002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%BC%80%E8%99%90%23" target="weibo">
 长风渡开虐（热度：461689）
 </a>
@@ -437,6 +449,12 @@ zb1首日0中输（热度：613834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%23" target="weibo">
 端午安康（热度：427661）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%23" target="weibo">
+消失的她票房（热度：423158）
 </a>
 </li>
 
@@ -465,6 +483,12 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+河北科技大学通报学生跳楼身亡（热度：385374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B63%E7%94%B7%E4%BA%8C%E5%9D%90%E9%93%81%E9%94%85%E9%87%8C%E7%BB%99%E5%A5%B3%E4%B8%80%E9%81%93%E6%AD%89%23" target="weibo">
 怦然3男二坐铁锅里给女一道歉（热度：384007）
 </a>
@@ -483,14 +507,14 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%BB%93%E5%B1%80%23" target="weibo">
-消失的她结局（热度：376799）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
+宁夏银川一烧烤店发生爆炸（热度：376262）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
-宁夏银川一烧烤店发生爆炸（热度：376262）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E8%AF%9A%23" target="weibo">
+久诚（热度：375329）
 </a>
 </li>
 
@@ -585,6 +609,18 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%E4%B8%8A%E4%B8%8B%E7%8F%AD%E4%B8%8D%E7%94%A8%E6%89%93%E5%8D%A1%23" target="weibo">
+入职后才发现上下班不用打卡（热度：324452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%A5%BF%E6%B9%96%E5%81%B6%E9%81%87%E6%A2%81%E5%AE%B6%E8%BE%89%E5%8F%B6%E7%AB%A5%23" target="weibo">
+网友西湖偶遇梁家辉叶童（热度：322990）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E4%B8%AD%E6%9C%89%E9%AB%98%E4%B8%AD%E7%94%9F%23" target="weibo">
 烧烤店爆炸事故遇难者中有高中生（热度：315676）
 </a>
@@ -657,6 +693,12 @@ EXO新专K4预售突破50万张（热度：295750）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
+王皓（热度：294407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E7%AB%AF%E5%8D%881%E5%A4%A9%E5%81%87%E8%B0%83%E4%BC%91%E5%87%913%E5%A4%A9%E5%90%97%23" target="weibo">
 你能接受端午1天假调休凑3天吗（热度：292710）
 </a>
@@ -669,14 +711,26 @@ EXO新专K4预售突破50万张（热度：295750）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%A5%BF%E6%B9%96%E5%81%B6%E9%81%87%E6%A2%81%E5%AE%B6%E8%BE%89%E5%8F%B6%E7%AB%A5%23" target="weibo">
-网友西湖偶遇梁家辉叶童（热度：288992）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%E7%BB%84%E5%90%88%23" target="weibo">
+开心麻花最厉害的组合（热度：291221）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E5%A6%88%E5%A6%88%E5%BC%80%E7%8E%A9%E7%AC%91%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%95%99%E8%82%B2%E4%BA%86%23" target="weibo">
+跟妈妈开玩笑被陌生人教育了（热度：284724）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%A4%B1%E6%81%8B%E6%88%8F%23" target="weibo">
 赵露思失恋戏（热度：275010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%80%BC%E8%84%B8%E7%9B%B4%E6%8B%8D%23" target="weibo">
+虞书欣范丞丞怼脸直拍（热度：273392）
 </a>
 </li>
 
@@ -701,12 +755,6 @@ EXO新专K4预售突破50万张（热度：295750）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%9B%B4%E6%92%AD%23" target="weibo">
 十个勤天直播（热度：270075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%89%96%E5%AE%AB%E4%BA%A7%E6%97%B6%E5%AD%A9%E5%AD%90%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8E%B0%E9%AA%A8%E6%8A%98%23" target="weibo">
-家属称剖宫产时孩子大腿被医生掰骨折（热度：265974）
 </a>
 </li>
 
@@ -765,12 +813,6 @@ NBA交易（热度：258403）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E5%A6%88%E5%A6%88%E5%BC%80%E7%8E%A9%E7%AC%91%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%95%99%E8%82%B2%E4%BA%86%23" target="weibo">
-跟妈妈开玩笑被陌生人教育了（热度：252196）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%A4%E4%BB%B6%E4%BA%8B%E4%B8%8D%E5%A5%BD%E6%94%B9%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 有两件事不好改回来了（热度：250981）
 </a>
@@ -807,20 +849,8 @@ goingseventeen因制作问题延迟播出（热度：243832）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%E4%B8%8A%E4%B8%8B%E7%8F%AD%E4%B8%8D%E7%94%A8%E6%89%93%E5%8D%A1%23" target="weibo">
-入职后才发现上下班不用打卡（热度：238609）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%98%89%E8%AE%B8%E6%AF%95%E4%B8%9A%23" target="weibo">
 段嘉许毕业（热度：238537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%80%BC%E8%84%B8%E7%9B%B4%E6%8B%8D%23" target="weibo">
-虞书欣范丞丞怼脸直拍（热度：236549）
 </a>
 </li>
 
@@ -905,6 +935,12 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9A%84%E8%BA%AB%E6%B2%A1%E7%99%BD%E5%81%A5%23" target="weibo">
 白敬亭的身没白健（热度：216356）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E9%A9%AC%E6%A1%B6%E6%80%AA%E9%81%87%E5%88%B0%E5%AF%B9%E6%89%8B%E4%BA%86%23" target="weibo">
+这回马桶怪遇到对手了（热度：213619）
 </a>
 </li>
 
@@ -1059,6 +1095,12 @@ LPL 暂停（热度：219387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%23" target="weibo">
+八角笼中（热度：193849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%AB%AF%E5%8D%88%E7%A5%9D%E7%A6%8F%23" target="weibo">
 吴磊赵今麦端午祝福（热度：193555）
 </a>
@@ -1113,6 +1155,12 @@ LPL 暂停（热度：219387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%9B%E5%BA%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E6%93%85%E9%95%BF%E4%BC%AA%E8%A3%85%23" target="weibo">
+金牛座真的很擅长伪装（热度：187276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%BF%85%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E7%8E%8B%E4%B8%80%E7%8F%A9%E6%81%A2%E5%A4%8D%E4%B9%96%E5%B7%A7%23" target="weibo">
 王迅一句话让王一珩恢复乖巧（热度：183405）
 </a>
@@ -1157,6 +1205,12 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B7%B4%E9%BB%8E%E6%8E%A2%E5%BA%97%E8%B7%AF%E9%80%8F%23" target="weibo">
 虞书欣巴黎探店路透（热度：174377）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%AE%A0%E7%88%B1%23" target="weibo">
+狼队第五人格宠爱（热度：174265）
 </a>
 </li>
 
@@ -1221,12 +1275,6 @@ LPL 暂停（热度：219387）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%9B%E5%BA%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E6%93%85%E9%95%BF%E4%BC%AA%E8%A3%85%23" target="weibo">
-金牛座真的很擅长伪装（热度：163472）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%BA%94%E8%81%98%E4%BF%9D%E5%AE%89%E7%9A%84%E8%8B%B1%E8%AF%AD%E6%B5%8B%E8%AF%95%E9%A2%98%23" target="weibo">
 上海应聘保安的英语测试题（热度：161344）
 </a>
@@ -1263,12 +1311,6 @@ LPL 暂停（热度：219387）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E8%AF%9A%23" target="weibo">
-久诚（热度：151547）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%98%89%E8%AE%B8%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%87%AA%E5%B7%B1%E9%83%BD%E9%AA%82%23" target="weibo">
 段嘉许狠起来自己都骂（热度：151252）
 </a>
@@ -1277,6 +1319,12 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%23" target="weibo">
 多地高考出分（热度：149915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E7%AB%AF%E5%8D%88%E8%8A%82%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%23" target="weibo">
+AG端午节特别企划（热度：149628）
 </a>
 </li>
 
@@ -1419,6 +1467,12 @@ LPL 暂停（热度：219387）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
+藏在古画里的端午仪式感（热度：70224）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BB%A3%E9%85%92%E5%BA%97%E7%A7%B0%E6%B6%89%E4%BA%8B%E7%AE%A1%E5%AE%B6%E5%BD%93%E6%97%A5%E7%A6%BB%E8%81%8C%23" target="weibo">
 马代酒店称涉事管家当日离职（热度：60945）
 </a>
@@ -1439,12 +1493,6 @@ LPL 暂停（热度：219387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E7%B2%BD%E5%AD%90%23" target="weibo">
 万物皆可粽子（热度：19236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E5%8F%A4%E7%94%BB%E9%87%8C%E7%9A%84%E7%AB%AF%E5%8D%88%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
-藏在古画里的端午仪式感（热度：16265）
 </a>
 </li>
 
