@@ -1,6 +1,6 @@
 {
   "startTime": 1687364519434,
-  "endTime": 1687426424804,
+  "endTime": 1687429356948,
   "band_list": [
     {
       "raw_hot": 7398770,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1579977,
+      "num": 831577,
+      "word": "怀孕33周孕妇被2岁儿子开枪打死",
+      "onboard_time": 1687427372,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1545519,
       "num": 753013,
       "word": "深圳一女子洗澡时因触电身亡",
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1260587,
+      "num": 1211165,
+      "word": "王皓",
+      "onboard_time": 1687422272,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1256570,
       "num": 1256570,
       "word": "阿姨收到1920元工资塞500给老板",
@@ -163,20 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1182840,
-      "num": 1182840,
+      "raw_hot": 1200627,
+      "num": 1200627,
       "word": "消失的她票房",
       "onboard_time": 1687422450,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1152431,
-      "num": 1152431,
-      "word": "王皓",
-      "onboard_time": 1687422272,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 1107470,
@@ -209,6 +217,14 @@
       "onboard_time": 1687413511,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1053703,
+      "num": 1053703,
+      "word": "银川爆炸烧烤店救援现场",
+      "onboard_time": 1687426111,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030148,
@@ -273,6 +289,14 @@
       "onboard_time": 1687406372,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839149,
+      "num": 839149,
+      "word": "国人买iPhone14Pro需9.5%年收入",
+      "onboard_time": 1687410453,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 829850,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710116,
+      "num": 710116,
+      "word": "15岁女生答72岁复旦教授",
+      "onboard_time": 1687422930,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 695090,
       "num": 695090,
       "word": "顾九思柳玉茹喂血吻",
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 604295,
-      "num": 530254,
+      "num": 599617,
       "word": "失踪潜艇副驾妻子是泰坦尼克号遇难者后代",
       "onboard_time": 1687423953,
       "rank": 11,
@@ -459,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587343,
-      "num": 587343,
-      "word": "国人买iPhone14Pro需9.5%年收入",
-      "onboard_time": 1687410453,
-      "rank": 31,
-      "category": "科技,社会新闻"
+      "raw_hot": 579152,
+      "num": 579152,
+      "word": "银川预计今晚8点召开爆炸事故新闻发布会",
+      "onboard_time": 1687428510,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572245,
@@ -497,14 +529,6 @@
       "onboard_time": 1687362098,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 559805,
-      "num": 525726,
-      "word": "15岁女生答72岁复旦教授",
-      "onboard_time": 1687422930,
-      "rank": 25,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 553526,
@@ -553,6 +577,22 @@
       "onboard_time": 1687404035,
       "rank": 23,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 533562,
+      "num": 415028,
+      "word": "合同到期的前两天我怀孕了",
+      "onboard_time": 1687426891,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 517971,
+      "num": 280628,
+      "word": "除了防中暑也要防鞋底变形和脚掌烫伤",
+      "onboard_time": 1687428090,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516982,
@@ -635,20 +675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465873,
+      "num": 1253084,
+      "word": "19岁藏族小伙救下掉入冰川游客",
+      "onboard_time": 1687424374,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461689,
       "num": 461689,
       "word": "长风渡开虐",
       "onboard_time": 1687358677,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 460758,
-      "num": 460758,
-      "word": "银川爆炸烧烤店救援现场",
-      "onboard_time": 1687426111,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458840,
@@ -681,6 +721,14 @@
       "onboard_time": 1687388601,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408649,
+      "num": 408649,
+      "word": "RNG对战EDG",
+      "onboard_time": 1687429111,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 406129,
@@ -840,6 +888,14 @@
       "word": "银川烧烤店爆炸事故9名责任人被控制",
       "onboard_time": 1687408174,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347663,
+      "num": 347663,
+      "word": "餐馆老板称管道燃气初装费要三四万",
+      "onboard_time": 1687426770,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1003,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294632,
-      "num": 294632,
-      "word": "19岁藏族小伙救下掉入冰川游客",
-      "onboard_time": 1687424374,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292710,
       "num": 292710,
       "word": "你能接受端午1天假调休凑3天吗",
@@ -1139,6 +1187,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257852,
+      "num": 257852,
+      "word": "桑稚段嘉许再次重逢",
+      "onboard_time": 1687427852,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256486,
+      "num": 256486,
+      "word": "朱一龙从迷人变吓人",
+      "onboard_time": 1687428573,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253499,
       "num": 253499,
       "word": "男子地铁上数次扇脸女子质问爱谁",
@@ -1203,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242109,
+      "num": 242109,
+      "word": "杨幂30秒过端午",
+      "onboard_time": 1687427010,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238991,
       "num": 238991,
       "word": "杨颖金靖被透明观光廊吓到走不动",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1687409615,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236647,
+      "num": 236647,
+      "word": "河北科大称坠楼学生自愿放弃提交毕设",
+      "onboard_time": 1687426591,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236429,
@@ -1291,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222773,
+      "num": 222773,
+      "word": "mcd",
+      "onboard_time": 1687429111,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222364,
       "num": 222364,
       "word": "为什么现在不流行非主流了",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1687422690,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212680,
+      "num": 212680,
+      "word": "五月天武汉演唱会",
+      "onboard_time": 1687424732,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 212504,
@@ -1539,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195401,
+      "num": 195401,
+      "word": "私生追贺峻霖到教室涉嫌侵权",
+      "onboard_time": 1687429050,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194194,
       "num": 194194,
       "word": "偷偷藏不住",
@@ -1627,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185317,
+      "num": 185317,
+      "word": "蔡徐坤hugme口哨版音源上线",
+      "onboard_time": 1687428691,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183405,
       "num": 183405,
       "word": "王迅一句话让王一珩恢复乖巧",
@@ -1659,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178644,
-      "num": 178644,
-      "word": "五月天武汉演唱会",
-      "onboard_time": 1687424732,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 177897,
       "num": 177897,
       "word": "艾伦沈腾好一对大怨种",
@@ -1689,6 +1793,14 @@
       "onboard_time": 1687405294,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174692,
+      "num": 174692,
+      "word": "XYG成长了",
+      "onboard_time": 1687427671,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 174377,
@@ -2011,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100768,
+      "num": 1223734,
+      "word": "杭州老人包200个黄荆粽送亲友",
+      "onboard_time": 1687428212,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99745,
       "num": 99745,
       "word": "官方通报网传大学生涉嫌卖淫800次",
@@ -2067,11 +2187,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70910,
+      "num": 1206657,
+      "word": "2023年南宁龙舟公开赛",
+      "onboard_time": 1687427431,
+      "rank": 6,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 60945,
       "num": 60945,
       "word": "马代酒店称涉事管家当日离职",
       "onboard_time": 1687374015,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60534,
+      "num": 736202,
+      "word": "女子站台晕倒公交司机抱上车相救",
+      "onboard_time": 1687428029,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687429356948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254476,
+        "num": 1254476,
+        "word": "家属称剖宫产时孩子大腿被医生掰骨折",
+        "onboard_time": 1687421792,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465873,
+        "num": 1253084,
+        "word": "19岁藏族小伙救下掉入冰川游客",
+        "onboard_time": 1687424374,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78983,
+        "num": 1237886,
+        "word": "藏在古画里的端午仪式感",
+        "onboard_time": 1687421792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303437,
+        "num": 1234554,
+        "word": "甜馨10岁身高",
+        "onboard_time": 1687423712,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100768,
+        "num": 1223734,
+        "word": "杭州老人包200个黄荆粽送亲友",
+        "onboard_time": 1687428212,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260587,
+        "num": 1211165,
+        "word": "王皓",
+        "onboard_time": 1687422272,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70910,
+        "num": 1206657,
+        "word": "2023年南宁龙舟公开赛",
+        "onboard_time": 1687427431,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1200627,
+        "num": 1200627,
+        "word": "消失的她票房",
+        "onboard_time": 1687422450,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1053703,
+        "num": 1053703,
+        "word": "银川爆炸烧烤店救援现场",
+        "onboard_time": 1687426111,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839149,
+        "num": 839149,
+        "word": "国人买iPhone14Pro需9.5%年收入",
+        "onboard_time": 1687410453,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1579977,
+        "num": 831577,
+        "word": "怀孕33周孕妇被2岁儿子开枪打死",
+        "onboard_time": 1687427372,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804827,
+        "num": 804827,
+        "word": "河北科技大学通报学生跳楼身亡",
+        "onboard_time": 1687422210,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 788440,
+        "num": 788440,
+        "word": "拉夏贝尔正式破产清算",
+        "onboard_time": 1687421011,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765937,
+        "num": 765937,
+        "word": "奔跑吧全员素颜",
+        "onboard_time": 1687420468,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60534,
+        "num": 736202,
+        "word": "女子站台晕倒公交司机抱上车相救",
+        "onboard_time": 1687428029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710116,
+        "num": 710116,
+        "word": "15岁女生答72岁复旦教授",
+        "onboard_time": 1687422930,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 599617,
+        "num": 599617,
+        "word": "失踪潜艇副驾妻子是泰坦尼克号遇难者后代",
+        "onboard_time": 1687423953,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579152,
+        "num": 579152,
+        "word": "银川预计今晚8点召开爆炸事故新闻发布会",
+        "onboard_time": 1687428510,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485893,
+        "num": 485893,
+        "word": "韩安冉婚礼随礼名单",
+        "onboard_time": 1687405294,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 415151,
+        "num": 415151,
+        "word": "消失的她",
+        "onboard_time": 1687411353,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533562,
+        "num": 415028,
+        "word": "合同到期的前两天我怀孕了",
+        "onboard_time": 1687426891,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408649,
+        "num": 408649,
+        "word": "RNG对战EDG",
+        "onboard_time": 1687429111,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 368828,
+        "num": 368828,
+        "word": "顾九思柳玉茹喂血吻",
+        "onboard_time": 1687411532,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347663,
+        "num": 347663,
+        "word": "餐馆老板称管道燃气初装费要三四万",
+        "onboard_time": 1687426770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339567,
+        "num": 339567,
+        "word": "罗云熙粽子比脸大",
+        "onboard_time": 1687423292,
+        "rank": 24,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 337496,
+        "num": 337496,
+        "word": "消失的她结局",
+        "onboard_time": 1687420769,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309541,
+        "num": 309541,
+        "word": "迪丽热巴的项链好特别",
+        "onboard_time": 1687413511,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 309090,
+        "num": 309090,
+        "word": "八角笼中",
+        "onboard_time": 1687422632,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298521,
+        "num": 298521,
+        "word": "原来荔枝也可以缓解痛经",
+        "onboard_time": 1687425092,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280831,
+        "num": 280831,
+        "word": "金牛座真的很擅长伪装",
+        "onboard_time": 1687421851,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517971,
+        "num": 280628,
+        "word": "除了防中暑也要防鞋底变形和脚掌烫伤",
+        "onboard_time": 1687428090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276695,
+        "num": 276695,
+        "word": "原来这条短信意义如此重大",
+        "onboard_time": 1687423171,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267183,
+        "num": 267183,
+        "word": "马斯克与扎克伯格约架",
+        "onboard_time": 1687424253,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 257852,
+        "num": 257852,
+        "word": "桑稚段嘉许再次重逢",
+        "onboard_time": 1687427852,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256486,
+        "num": 256486,
+        "word": "朱一龙从迷人变吓人",
+        "onboard_time": 1687428573,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253532,
+        "num": 253532,
+        "word": "赵丽颖红色旗袍",
+        "onboard_time": 1687416150,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242109,
+        "num": 242109,
+        "word": "杨幂30秒过端午",
+        "onboard_time": 1687427010,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236647,
+        "num": 236647,
+        "word": "河北科大称坠楼学生自愿放弃提交毕设",
+        "onboard_time": 1687426591,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231767,
+        "num": 231767,
+        "word": "网友西湖偶遇梁家辉叶童",
+        "onboard_time": 1687421067,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222773,
+        "num": 222773,
+        "word": "mcd",
+        "onboard_time": 1687429111,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212680,
+        "num": 212680,
+        "word": "五月天武汉演唱会",
+        "onboard_time": 1687424732,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212480,
+        "num": 212480,
+        "word": "失联泰坦尼克号观光艇氧气即将耗尽",
+        "onboard_time": 1687406672,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202897,
+        "num": 202897,
+        "word": "周星驰新电影招募女演员",
+        "onboard_time": 1687423413,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195401,
+        "num": 195401,
+        "word": "私生追贺峻霖到教室涉嫌侵权",
+        "onboard_time": 1687429050,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185475,
+        "num": 185475,
+        "word": "开心麻花最厉害的组合",
+        "onboard_time": 1687422332,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185317,
+        "num": 185317,
+        "word": "蔡徐坤hugme口哨版音源上线",
+        "onboard_time": 1687428691,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 174692,
+        "word": "XYG成长了",
+        "onboard_time": 1687427671,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173908,
+        "num": 173908,
+        "word": "入职后才发现上下班不用打卡",
+        "onboard_time": 1687421490,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147212,
+        "num": 147212,
+        "word": "阿姨收到1920元工资塞500给老板",
+        "onboard_time": 1687392928,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143981,
+        "num": 143981,
+        "word": "张艺兴点赞了EXO回归预告",
+        "onboard_time": 1687397731,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#古诗文里的端午习俗#"
+    }
+  }
+}

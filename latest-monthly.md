@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 17:33:44
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/22 18:22:36
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ Angelababy七年前vs七年后（热度：1601793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23" target="weibo">
+怀孕33周孕妇被2岁儿子开枪打死（热度：1579977）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
 白鹿张凌赫（热度：1579112）
 </a>
@@ -3651,6 +3657,12 @@ EXO是我们公司非常珍惜的艺人（热度：1267506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
+王皓（热度：1260587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E4%BD%86%E6%8B%8D%E7%85%A7%E4%B8%8D%E4%B8%8A%E9%95%9C%23" target="weibo">
 长得漂亮但拍照不上镜（热度：1259695）
 </a>
@@ -3909,6 +3921,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%23" target="weibo">
+消失的她票房（热度：1200627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%87%AA%E9%A6%96%E6%97%B6%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
 官方通报嫌疑人自首时在派出所身亡（热度：1199875）
 </a>
@@ -3989,12 +4007,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A7%91%E6%8B%8D%E5%88%B0%E4%BE%84%E5%A5%B3%E5%81%9A%E6%A2%A6%E5%90%83%E9%9B%AA%E7%B3%95%23" target="weibo">
 姑姑拍到侄女做梦吃雪糕（热度：1183217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF%23" target="weibo">
-消失的她票房（热度：1182840）
 </a>
 </li>
 
@@ -4169,12 +4181,6 @@ Jennie 复仇者联盟5（热度：1161672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86%23" target="weibo">
 德国同学把我的剩饭吃了（热度：1155594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
-王皓（热度：1152431）
 </a>
 </li>
 
@@ -4751,6 +4757,12 @@ Rain 街舞6（热度：1075379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E6%8B%BF%E9%94%99%E5%87%86%E8%80%83%E8%AF%81%E9%AA%81%E9%AA%915%E5%88%86%E9%92%9F%E8%B0%83%E6%8D%A2%23" target="weibo">
 双胞胎拿错准考证骁骑5分钟调换（热度：1053947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E7%83%A7%E7%83%A4%E5%BA%97%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23" target="weibo">
+银川爆炸烧烤店救援现场（热度：1053703）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ WBG零封JDG（热度：888042）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%90%8E%E8%83%8C%E7%97%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%88%B6%E4%BA%B2%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%8A%AC%E6%89%8B%23" target="weibo">
 男孩称后背痒植物人父亲用尽全力抬手（热度：858175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E6%A2%85%E8%A5%BF%E6%B2%A1%E5%BE%97%E5%88%B0%E5%BA%94%E6%9C%89%E7%9A%84%E5%B0%8A%E9%87%8D%23" target="weibo">
-姆巴佩说梅西没得到应有的尊重（热度：857818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23jkl%23" target="weibo">
-jkl（热度：857119）
 </a>
 </li>
 
