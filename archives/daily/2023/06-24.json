@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687547741653,
+  "endTime": 1687548844667,
   "band_list": [
     {
       "raw_hot": 3041115,
@@ -467,7 +467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39312,
+      "raw_hot": 39928,
       "num": 47585,
       "word": "高考分数达到预期没",
       "onboard_time": 1687545316,
