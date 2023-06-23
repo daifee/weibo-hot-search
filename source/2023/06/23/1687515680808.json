@@ -1,0 +1,410 @@
+{
+  "runTime": 1687515680808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3268331,
+        "num": 3268331,
+        "word": "白玉兰红毯",
+        "onboard_time": 1687514132,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651245,
+        "num": 2306661,
+        "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+        "onboard_time": 1687500511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79390,
+        "num": 2016896,
+        "word": "遇到燃气泄漏应该如何处理",
+        "onboard_time": 1687508671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1912921,
+        "num": 1912921,
+        "word": "外星人或正在利用超新星爆炸引人类注意",
+        "onboard_time": 1687505971,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 585291,
+        "num": 1448586,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367399,
+        "num": 1367399,
+        "word": "张嘉倪因为四公错过外婆追悼会",
+        "onboard_time": 1687510414,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274338,
+        "num": 1207261,
+        "word": "女子账户被骗158万民警帮忙全找回",
+        "onboard_time": 1687507049,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175951,
+        "num": 1175951,
+        "word": "鹿晗问陈赫抢到票了吗",
+        "onboard_time": 1687508972,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 907507,
+        "num": 907507,
+        "word": "消失的她票房逆跌",
+        "onboard_time": 1687514192,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804332,
+        "num": 804332,
+        "word": "董事长开车进长城被拒强拆大门",
+        "onboard_time": 1687511851,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749353,
+        "num": 749353,
+        "word": "白鹿白裙盘发",
+        "onboard_time": 1687514429,
+        "rank": 10,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 716538,
+        "num": 716538,
+        "word": "山东已现43℃以上高温",
+        "onboard_time": 1687503330,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657713,
+        "num": 657713,
+        "word": "傅韵哲高考成绩",
+        "onboard_time": 1687505550,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602737,
+        "num": 602737,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 591601,
+        "num": 591601,
+        "word": "aespa机场穿出了四个季节",
+        "onboard_time": 1687511551,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 578499,
+        "num": 578499,
+        "word": "白玉兰提名",
+        "onboard_time": 1687509870,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486536,
+        "num": 486536,
+        "word": "辽宁大连一村庄一家六口遇害",
+        "onboard_time": 1687513173,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472735,
+        "num": 472735,
+        "word": "白敬亭哭戏",
+        "onboard_time": 1687513232,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450408,
+        "num": 450408,
+        "word": "辰亦儒曾之乔好好嗑",
+        "onboard_time": 1687502850,
+        "rank": 18,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 441667,
+        "num": 441667,
+        "word": "外星人",
+        "onboard_time": 1687514493,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726532,
+        "num": 437373,
+        "word": "男子10年间找陌生人强奸妻子近百次",
+        "onboard_time": 1687510231,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640348,
+        "num": 436880,
+        "word": "没房贷的下属太可怕了",
+        "onboard_time": 1687508010,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432219,
+        "num": 432219,
+        "word": "四川2023年高考分数线",
+        "onboard_time": 1687514132,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 368824,
+        "num": 368824,
+        "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
+        "onboard_time": 1687507230,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 354828,
+        "num": 354828,
+        "word": "苏醒商演人多是因为商场打折",
+        "onboard_time": 1687512213,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335300,
+        "num": 335300,
+        "word": "青鸟改编 难评",
+        "onboard_time": 1687496912,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327630,
+        "num": 327630,
+        "word": "什么叫内爆",
+        "onboard_time": 1687498652,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299253,
+        "num": 299253,
+        "word": "我爱你",
+        "onboard_time": 1687513592,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668418,
+        "num": 299048,
+        "word": "银川爆炸事故第1晚顾客坐店外就餐",
+        "onboard_time": 1687507230,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298753,
+        "num": 298753,
+        "word": "景区网红大雁被游客踢中要害离世",
+        "onboard_time": 1687496432,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293107,
+        "num": 293107,
+        "word": "41℃高温把衣服晒着了",
+        "onboard_time": 1687496613,
+        "rank": 30,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 290604,
+        "num": 290604,
+        "word": "上海电视节白玉兰绽放",
+        "onboard_time": 1687504651,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273276,
+        "num": 273276,
+        "word": "遇到了把拍一拍当真的人",
+        "onboard_time": 1687513651,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271368,
+        "num": 271368,
+        "word": "消失的她彩蛋",
+        "onboard_time": 1687513712,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257468,
+        "num": 257468,
+        "word": "宝剑嫂",
+        "onboard_time": 1687490970,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239167,
+        "num": 239167,
+        "word": "庄河警方通报当地6人死亡命案",
+        "onboard_time": 1687514971,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238722,
+        "num": 238722,
+        "word": "医院回应饮水机焊死病人无法接水",
+        "onboard_time": 1687513952,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230089,
+        "num": 230089,
+        "word": "刘宪华官宣加盟中国好声音",
+        "onboard_time": 1687497755,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228583,
+        "num": 228583,
+        "word": "狼队第五人格",
+        "onboard_time": 1687515270,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228100,
+        "num": 228100,
+        "word": "老人心疼公交司机连续19年送好吃的",
+        "onboard_time": 1687515210,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223226,
+        "num": 223226,
+        "word": "其实感情最怕的就是拖着",
+        "onboard_time": 1687510531,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215982,
+        "num": 215982,
+        "word": "王俊凯向往的生活好能干",
+        "onboard_time": 1687508371,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213713,
+        "num": 213713,
+        "word": "张嘉倪坚强",
+        "onboard_time": 1687512813,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213151,
+        "num": 213151,
+        "word": "刘涛44岁素颜皮肤状态",
+        "onboard_time": 1687513112,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 201849,
+        "word": "学生高考超平时80多分老师满脸笑容",
+        "onboard_time": 1687515390,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199467,
+        "num": 199467,
+        "word": "3岁萌娃走失后在警察叔叔怀里睡着",
+        "onboard_time": 1687514852,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196113,
+        "num": 196113,
+        "word": "白玉兰直播",
+        "onboard_time": 1687515151,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193298,
+        "num": 193298,
+        "word": "复旦录取通知书一纸千年",
+        "onboard_time": 1687508312,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190957,
+        "num": 190957,
+        "word": "李雪琴高中扎马尾照片",
+        "onboard_time": 1687493433,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173841,
+        "num": 173841,
+        "word": "WB让二追三",
+        "onboard_time": 1687510171,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥奥林匹克促进人类和平发展的重要作用#"
+    }
+  }
+}
