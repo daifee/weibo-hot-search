@@ -1,0 +1,410 @@
+{
+  "runTime": 1687524954414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3952035,
+        "num": 3952035,
+        "word": "白玉兰颁奖",
+        "onboard_time": 1687518270,
+        "rank": 0,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 2484318,
+        "num": 2484318,
+        "word": "狂飙",
+        "onboard_time": 1687519592,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69834,
+        "num": 2272458,
+        "word": "北斗全球卫星导航系统星座部署完成三周年",
+        "onboard_time": 1687517492,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2141703,
+        "num": 2141703,
+        "word": "张译 张颂文",
+        "onboard_time": 1687521514,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1482708,
+        "num": 1482708,
+        "word": "朱一龙路演被观众扔东西",
+        "onboard_time": 1687522593,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1281408,
+        "num": 1281408,
+        "word": "马嘉祺 六斤",
+        "onboard_time": 1687520073,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1112538,
+        "num": 1112538,
+        "word": "男生高考查分601激动满屋蹦跳",
+        "onboard_time": 1687517492,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 782169,
+        "num": 782169,
+        "word": "外星人",
+        "onboard_time": 1687514493,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748610,
+        "num": 748610,
+        "word": "只有广东人是真心想救屈原的",
+        "onboard_time": 1687517251,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 655671,
+        "num": 655671,
+        "word": "男生高考查分584父子俩笑得合不拢嘴",
+        "onboard_time": 1687521093,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1158115,
+        "num": 645631,
+        "word": "消失的她票房逆跌",
+        "onboard_time": 1687514192,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1053011,
+        "num": 643160,
+        "word": "赵丽颖中国电视剧海外推广大使",
+        "onboard_time": 1687523433,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 918142,
+        "num": 631132,
+        "word": "白玉兰红毯",
+        "onboard_time": 1687514132,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613994,
+        "num": 613994,
+        "word": "在简历里撒了谎却得到这份工作的我",
+        "onboard_time": 1687518570,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 194627,
+        "num": 595459,
+        "word": "原神3.8版本直播",
+        "onboard_time": 1687521635,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 835862,
+        "num": 591296,
+        "word": "鹿晗问陈赫抢到票了吗",
+        "onboard_time": 1687508972,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 775602,
+        "num": 589682,
+        "word": "赵丽颖贵气的闪",
+        "onboard_time": 1687516233,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580254,
+        "num": 580254,
+        "word": "泰坦号潜水器前乘客曝恐怖经历",
+        "onboard_time": 1687520972,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502036,
+        "num": 502036,
+        "word": "旅韩大熊猫福宝将回国相亲",
+        "onboard_time": 1687522832,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 413768,
+        "num": 413768,
+        "word": "地铁里挤过来一个静脉曲张",
+        "onboard_time": 1687522413,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 762775,
+        "num": 412046,
+        "word": "赵丽颖工作室P图",
+        "onboard_time": 1687517550,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 648055,
+        "num": 410442,
+        "word": "孟美岐北京演唱会",
+        "onboard_time": 1687520432,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407458,
+        "num": 407458,
+        "word": "原神",
+        "onboard_time": 1687521934,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 391609,
+        "num": 391609,
+        "word": "TES对战JDG",
+        "onboard_time": 1687521456,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363923,
+        "num": 363923,
+        "word": "这就是我开放朋友圈的意义",
+        "onboard_time": 1687523254,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 629607,
+        "num": 352305,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1687518570,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 597691,
+        "num": 327048,
+        "word": "白玉兰奖单",
+        "onboard_time": 1687524400,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588649,
+        "num": 318133,
+        "word": "黄子韬发博为鹿晗演唱会加油",
+        "onboard_time": 1687518809,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296895,
+        "num": 296895,
+        "word": "没房贷的下属太可怕了",
+        "onboard_time": 1687508010,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166409,
+        "num": 296113,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582386,
+        "num": 291866,
+        "word": "上海电视节白玉兰绽放",
+        "onboard_time": 1687504651,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516514,
+        "num": 287202,
+        "word": "邓超你到底在哪",
+        "onboard_time": 1687523975,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390457,
+        "num": 283080,
+        "word": "金晨公主头",
+        "onboard_time": 1687523796,
+        "rank": 32,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 352592,
+        "num": 279534,
+        "word": "张颂文好帅",
+        "onboard_time": 1687517848,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279284,
+        "num": 279284,
+        "word": "一只虫子带来的烧伤",
+        "onboard_time": 1687518330,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306956,
+        "num": 275936,
+        "word": "李宇春费翔白玉兰合唱",
+        "onboard_time": 1687524215,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260312,
+        "num": 260312,
+        "word": "老人突发疾病临终前将孙子托付店主",
+        "onboard_time": 1687520792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236996,
+        "num": 236996,
+        "word": "二位娘娘可是来找许仙的",
+        "onboard_time": 1687521873,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222206,
+        "num": 222206,
+        "word": "TTG能赢一把吗",
+        "onboard_time": 1687524400,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305846,
+        "num": 222057,
+        "word": "法国男子十年间近百次找陌生人强奸妻子",
+        "onboard_time": 1687510231,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305621,
+        "num": 221357,
+        "word": "当我飞奔向你",
+        "onboard_time": 1687521994,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292319,
+        "num": 221044,
+        "word": "张嘉倪因为四公错过外婆追悼会",
+        "onboard_time": 1687510414,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272412,
+        "num": 220638,
+        "word": "长风渡",
+        "onboard_time": 1687521572,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268406,
+        "num": 220031,
+        "word": "王珞丹当评委",
+        "onboard_time": 1687520130,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236092,
+        "num": 219529,
+        "word": "秦岚中空连衣裙",
+        "onboard_time": 1687515750,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233604,
+        "num": 219022,
+        "word": "奔跑吧泥潭今晚终于来了",
+        "onboard_time": 1687524878,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218634,
+        "num": 218634,
+        "word": "外星人或正在利用超新星爆炸引人类注意",
+        "onboard_time": 1687505971,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207683,
+        "num": 207683,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196134,
+        "num": 196134,
+        "word": "你们吃饭的时候桌子下也有这个吗",
+        "onboard_time": 1687524878,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188929,
+        "num": 188929,
+        "word": "当你和闺蜜一起睡觉",
+        "onboard_time": 1687524034,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#端午龙舟大片为中国风代言#"
+    }
+  }
+}
