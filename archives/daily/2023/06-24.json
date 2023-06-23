@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687544570164,
+  "endTime": 1687545436594,
   "band_list": [
     {
       "raw_hot": 3041115,
@@ -403,19 +403,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146174,
+      "num": 146174,
+      "word": "原神散兵",
+      "onboard_time": 1687540883,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141741,
       "num": 217911,
       "word": "Tian",
       "onboard_time": 1687528307,
       "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 136441,
-      "num": 136441,
-      "word": "原神散兵",
-      "onboard_time": 1687540883,
-      "rank": 47,
       "category": "游戏"
     },
     {
@@ -425,6 +425,22 @@
       "onboard_time": 1687539088,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127672,
+      "num": 88169,
+      "word": "孙珍妮来跑男前一直在背乘法表",
+      "onboard_time": 1687544357,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110970,
+      "num": 83598,
+      "word": "消失的她 大变活妻",
+      "onboard_time": 1687543638,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 107577,
@@ -443,22 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100236,
-      "num": 84007,
-      "word": "孙珍妮来跑男前一直在背乘法表",
-      "onboard_time": 1687544357,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95655,
-      "num": 83598,
-      "word": "消失的她 大变活妻",
-      "onboard_time": 1687543638,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 47521,
       "num": 117053,
       "word": "三姐妹奔赴千里到工地给爸爸庆生",
@@ -475,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33258,
+      "raw_hot": 35221,
       "num": 569261,
       "word": "全国各地高考分数线汇总",
       "onboard_time": 1687528786,
