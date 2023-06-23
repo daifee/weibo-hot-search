@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687505675049,
+  "endTime": 1687508649830,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -131,6 +131,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1296217,
+      "num": 1073669,
+      "word": "傅韵哲高考成绩",
+      "onboard_time": 1687505550,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1249229,
+      "num": 743295,
+      "word": "辰亦儒曾之乔好好嗑",
+      "onboard_time": 1687502850,
+      "rank": 10,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 1112543,
       "num": 1112543,
       "word": "青鸟改编 难评",
@@ -139,20 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1100251,
-      "num": 640354,
-      "word": "辰亦儒曾之乔好好嗑",
-      "onboard_time": 1687502850,
-      "rank": 10,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 1092239,
       "num": 1092239,
       "word": "2023好声音导师官宣",
       "onboard_time": 1687445014,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1087704,
+      "num": 1087704,
+      "word": "山东已现43℃以上高温",
+      "onboard_time": 1687503330,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1048013,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800423,
+      "num": 800423,
+      "word": "外星人或正在利用超新星爆炸引人类注意",
+      "onboard_time": 1687505971,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 770842,
       "num": 770842,
       "word": "泰坦尼克号导演表达震惊",
@@ -291,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677540,
+      "num": 677540,
+      "word": "银川爆炸事故第1晚顾客坐店外就餐",
+      "onboard_time": 1687507230,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651601,
       "num": 368510,
       "word": "三五千的工资去国外工作",
       "onboard_time": 1687481069,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 648717,
+      "num": 743721,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638262,
@@ -387,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525518,
+      "num": 256714,
+      "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
+      "onboard_time": 1687507230,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 521693,
       "num": 521693,
       "word": "早期刘昊然",
@@ -449,14 +497,6 @@
       "onboard_time": 1687492892,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 496370,
-      "num": 496370,
-      "word": "山东已现43℃以上高温",
-      "onboard_time": 1687503330,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494987,
@@ -651,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 366802,
-      "num": 366802,
-      "word": "端午假期第2天你在干什么",
-      "onboard_time": 1687501532,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363802,
       "num": 363802,
       "word": "BKPP 嵩山音乐节",
@@ -715,6 +747,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345741,
+      "num": 345741,
+      "word": "女子账户被骗158万民警帮忙全找回",
+      "onboard_time": 1687507049,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338248,
+      "num": 256533,
+      "word": "没房贷的下属太可怕了",
+      "onboard_time": 1687508010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337401,
       "num": 337401,
       "word": "乘风四公",
@@ -739,8 +787,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 321871,
-      "num": 321871,
+      "raw_hot": 326724,
+      "num": 326724,
       "word": "朱珠好勾人",
       "onboard_time": 1687504711,
       "rank": 23,
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 296283,
-      "num": 284491,
+      "num": 288979,
       "word": "温碧霞和她老公合照",
       "onboard_time": 1687505009,
       "rank": 26,
@@ -920,6 +968,14 @@
       "word": "泰坦号",
       "onboard_time": 1687475599,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267333,
+      "num": 267333,
+      "word": "列车关门瞬间男孩跑出车厢",
+      "onboard_time": 1687507892,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253883,
+      "num": 253883,
+      "word": "莫言看了都要无语",
+      "onboard_time": 1687506750,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251661,
       "num": 251661,
       "word": "午夜恰恰 上半场最佳",
@@ -1043,12 +1107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246392,
+      "num": 246392,
+      "word": "王俊凯向往的生活好能干",
+      "onboard_time": 1687508371,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242783,
       "num": 242783,
       "word": "做了防晒为什么还是会黑",
       "onboard_time": 1687487368,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242704,
+      "num": 242704,
+      "word": "郑秀妍在Amber衣服上留下唇印",
+      "onboard_time": 1687508010,
+      "rank": 34,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 241607,
@@ -1083,12 +1163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234232,
+      "num": 257507,
+      "word": "民警偶遇狗狗像离世缉毒犬战友",
+      "onboard_time": 1687508074,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233880,
       "num": 208271,
       "word": "当你的儿子正处于叛逆期时",
       "onboard_time": 1687450348,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 233464,
+      "num": 233464,
+      "word": "复旦录取通知书一纸千年",
+      "onboard_time": 1687508312,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 230926,
@@ -1115,6 +1211,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 221006,
+      "num": 221006,
+      "word": "入职四天的心情变化一览",
+      "onboard_time": 1687508610,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 220581,
+      "num": 220581,
+      "word": "上海电视节白玉兰绽放",
+      "onboard_time": 1687504651,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220579,
       "num": 220579,
       "word": "像极了心情不好男朋友还要贴贴",
@@ -1137,6 +1249,14 @@
       "onboard_time": 1687476561,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211503,
+      "num": 211503,
+      "word": "这位老师是善于处理医患关系的",
+      "onboard_time": 1687507589,
+      "rank": 40,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 211147,
@@ -1307,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186222,
+      "num": 186222,
+      "word": "小奶娃手卡蒸屉哭得人心疼",
+      "onboard_time": 1687508430,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185531,
       "num": 185531,
       "word": "陕西高考",
@@ -1371,12 +1499,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 173065,
-      "num": 173065,
-      "word": "上海电视节白玉兰绽放",
-      "onboard_time": 1687504651,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 174680,
+      "num": 174680,
+      "word": "Amber小美拉手往前跑",
+      "onboard_time": 1687505730,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 170288,
@@ -1409,14 +1537,6 @@
       "onboard_time": 1687493551,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164374,
-      "num": 164374,
-      "word": "傅韵哲高考成绩",
-      "onboard_time": 1687505550,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 164004,
@@ -1641,6 +1761,14 @@
       "onboard_time": 1687470433,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40895,
+      "num": 293722,
+      "word": "原来中国诗词这么懂奥运精神",
+      "onboard_time": 1687507831,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33821,

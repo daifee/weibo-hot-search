@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 15:34:35
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 16:24:09
 </p>
 </blockquote>
 <p>
@@ -3621,6 +3621,12 @@ Jennie去爬山了（热度：1318773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%9F%B5%E5%93%B2%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
+傅韵哲高考成绩（热度：1296217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2388%E6%96%A4%E5%A5%B3%E7%94%9F%E7%A9%BF%E4%B8%8D%E8%BF%9B%E5%8E%BBS%E7%A0%81%E7%89%9B%E4%BB%94%E8%A3%99%23" target="weibo">
 88斤女生穿不进去S码牛仔裙（热度：1294356）
 </a>
@@ -3863,6 +3869,12 @@ Angelababy回归 跑男收视率（热度：1255756）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%A7%89%E7%89%B5%E5%BC%A0%E8%89%BA%E5%87%A1%23" target="weibo">
 黄觉牵张艺凡（热度：1250654）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B0%E4%BA%A6%E5%84%92%E6%9B%BE%E4%B9%8B%E4%B9%94%E5%A5%BD%E5%A5%BD%E5%97%91%23" target="weibo">
+辰亦儒曾之乔好好嗑（热度：1249229）
 </a>
 </li>
 
@@ -4677,12 +4689,6 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B0%E4%BA%A6%E5%84%92%E6%9B%BE%E4%B9%8B%E4%B9%94%E5%A5%BD%E5%A5%BD%E5%97%91%23" target="weibo">
-辰亦儒曾之乔好好嗑（热度：1100251）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 嵩山音乐节（热度：1097871）
 </a>
@@ -4739,6 +4745,12 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23" target="weibo">
 国人买iPhone14Pro需9.5%年收入（热度：1089578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B7%B2%E7%8E%B043%E2%84%83%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9%23" target="weibo">
+山东已现43℃以上高温（热度：1087704）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Lisa留刘海的原因（热度：896423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E4%B9%B0%E7%93%9C%E5%9B%A0%E4%B8%8D%E6%BB%A1%E6%B2%99%E7%93%A4%E5%A4%BA%E5%88%80%E6%8D%85%E8%87%AA%E5%B7%B1%23" target="weibo">
 醉汉买瓜因不满沙瓤夺刀捅自己（热度：895839）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%A5%E8%AF%AD%23" target="weibo">
-高考日语（热度：895421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E5%9B%9E%E5%BA%94%E5%88%98%E5%AE%87%E5%96%8A%E8%AF%9D%23" target="weibo">
-刘大锤回应刘宇喊话（热度：894642）
 </a>
 </li>
 
