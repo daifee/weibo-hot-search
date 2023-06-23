@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 05:33:46
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 06:18:18
 </p>
 </blockquote>
 <p>
@@ -9525,6 +9525,12 @@ NIP对战WE（热度：77082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+2023高考分数线汇总（热度：63003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%88%AA%E6%8B%8D%E4%B8%8A%E5%8D%83%E5%A3%AE%E5%A3%AB%E6%8A%AC%E9%BE%99%E8%88%9F%E5%A4%AA%E9%9C%87%E6%92%BC%23" target="weibo">
 网友航拍上千壮士抬龙舟太震撼（热度：61621）
 </a>
@@ -9545,12 +9551,6 @@ NIP对战WE（热度：77082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E4%B8%8A%E9%A3%9E%E4%BA%BA%E5%8A%A0%E6%96%B0%E9%A1%B9%E7%9B%AE%E4%BA%86%E5%90%97%23" target="weibo">
 水上飞人加新项目了吗（热度：60924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-2023高考分数线汇总（热度：59566）
 </a>
 </li>
 

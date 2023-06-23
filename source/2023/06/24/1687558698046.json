@@ -1,0 +1,410 @@
+{
+  "runTime": 1687558698046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 533728,
+        "num": 533728,
+        "word": "女子到宾馆匆匆开房浙江老板娘报警",
+        "onboard_time": 1687536697,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436210,
+        "num": 436210,
+        "word": "大小S宣布起诉葛斯齐",
+        "onboard_time": 1687534658,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31150,
+        "num": 365438,
+        "word": "全国各地高考分数线汇总",
+        "onboard_time": 1687528786,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358800,
+        "num": 358800,
+        "word": "赵丽颖回应三次陪跑",
+        "onboard_time": 1687533039,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257978,
+        "num": 257978,
+        "word": "鹿晗演唱会上不敢读的灯牌",
+        "onboard_time": 1687533642,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253589,
+        "num": 253589,
+        "word": "吴越 白玉兰视后",
+        "onboard_time": 1687527706,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195955,
+        "num": 195955,
+        "word": "丫丫回国前后变化好大",
+        "onboard_time": 1687534360,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178275,
+        "num": 178275,
+        "word": "外星人",
+        "onboard_time": 1687514493,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151286,
+        "num": 151286,
+        "word": "炎亚纶",
+        "onboard_time": 1687533943,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118812,
+        "num": 118812,
+        "word": "男生高考查分584父子俩笑得合不拢嘴",
+        "onboard_time": 1687521093,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149175,
+        "num": 118515,
+        "word": "赵丽颖白玉兰获奖感言",
+        "onboard_time": 1687534237,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123813,
+        "num": 118286,
+        "word": "开端",
+        "onboard_time": 1687534598,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117890,
+        "num": 117890,
+        "word": "白玉兰最佳电视剧双黄蛋",
+        "onboard_time": 1687530408,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104922,
+        "num": 104922,
+        "word": "婴儿高速遇车祸山东大哥急送医",
+        "onboard_time": 1687537592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98839,
+        "num": 98839,
+        "word": "敬礼娃娃郎铮高考文科637分",
+        "onboard_time": 1687534837,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116002,
+        "num": 97387,
+        "word": "白敬亭宋轶耳朵都红了",
+        "onboard_time": 1687526982,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101113,
+        "num": 95218,
+        "word": "沈梦瑶起诉丝芭传媒申请解约",
+        "onboard_time": 1687530588,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89479,
+        "num": 89479,
+        "word": "泰坦号潜水器前乘客曝恐怖经历",
+        "onboard_time": 1687520972,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68111,
+        "num": 68111,
+        "word": "暴雪",
+        "onboard_time": 1687533943,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63003,
+        "num": 63003,
+        "word": "2023高考分数线汇总",
+        "onboard_time": 1687551552,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 92342,
+        "num": 62727,
+        "word": "雷佳音 白玉兰视帝",
+        "onboard_time": 1687527946,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87995,
+        "num": 62511,
+        "word": "马伊琍 俊生和凌玲祝福你们",
+        "onboard_time": 1687529146,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73337,
+        "num": 61907,
+        "word": "白玉兰",
+        "onboard_time": 1687534837,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68912,
+        "num": 61528,
+        "word": "没房贷的下属太可怕了",
+        "onboard_time": 1687508010,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61429,
+        "num": 61429,
+        "word": "爸爸奖励娃游环球影城门票花了12800",
+        "onboard_time": 1687532741,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 60071,
+        "num": 60071,
+        "word": "梁实第27次高考查分",
+        "onboard_time": 1687525418,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 58174,
+        "num": 58174,
+        "word": "跟好朋友不再联系的原因",
+        "onboard_time": 1687530408,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52518,
+        "num": 52518,
+        "word": "向往的生活",
+        "onboard_time": 1687530763,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51415,
+        "num": 51415,
+        "word": "张译 张颂文",
+        "onboard_time": 1687521514,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51363,
+        "num": 51363,
+        "word": "只有广东人是真心想救屈原的",
+        "onboard_time": 1687517251,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 51217,
+        "num": 51217,
+        "word": "白玉兰颁奖",
+        "onboard_time": 1687518270,
+        "rank": 30,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 51095,
+        "num": 51095,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1687531665,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50898,
+        "num": 50898,
+        "word": "我的前半生赢麻了",
+        "onboard_time": 1687539625,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49938,
+        "num": 49938,
+        "word": "倪妮好帅我好爱",
+        "onboard_time": 1687535557,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48861,
+        "num": 48861,
+        "word": "地铁里挤过来一个静脉曲张",
+        "onboard_time": 1687522413,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48469,
+        "num": 48469,
+        "word": "大张伟唱了静止",
+        "onboard_time": 1687536097,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46255,
+        "num": 46255,
+        "word": "这就是我开放朋友圈的意义",
+        "onboard_time": 1687523254,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43651,
+        "num": 43651,
+        "word": "旅韩大熊猫福宝将回国相亲",
+        "onboard_time": 1687522832,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 40298,
+        "num": 40298,
+        "word": "男生高考查分601激动满屋蹦跳",
+        "onboard_time": 1687517492,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 40095,
+        "word": "碧峰峡",
+        "onboard_time": 1687529085,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44825,
+        "num": 39627,
+        "word": "消失的她 大变活妻",
+        "onboard_time": 1687543638,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43052,
+        "num": 39257,
+        "word": "赵丽颖三次陪跑",
+        "onboard_time": 1687528550,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42034,
+        "num": 39011,
+        "word": "县委大院白玉兰奖最佳原创编剧",
+        "onboard_time": 1687525358,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33987,
+        "num": 38486,
+        "word": "孙珍妮来跑男前一直在背乘法表",
+        "onboard_time": 1687544357,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33952,
+        "num": 38219,
+        "word": "消失的她",
+        "onboard_time": 1687532440,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26497,
+        "num": 38102,
+        "word": "Tian",
+        "onboard_time": 1687528307,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26342,
+        "num": 37558,
+        "word": "AI绘画给人类带来的变化",
+        "onboard_time": 1687535258,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25190,
+        "num": 37097,
+        "word": "五月天武汉演唱会数百人拆护栏闯卡",
+        "onboard_time": 1687532080,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 22551,
+        "num": 36854,
+        "word": "原神散兵",
+        "onboard_time": 1687540883,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22030,
+        "num": 36555,
+        "word": "高考分数达到预期没",
+        "onboard_time": 1687545316,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#端午龙舟大片为中国风代言#"
+    }
+  }
+}
