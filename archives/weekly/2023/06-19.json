@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687502416036,
+  "endTime": 1687504689231,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -393,6 +393,14 @@
       "onboard_time": 1687432294,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2415676,
+      "num": 2415676,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2389223,
@@ -827,11 +835,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1601869,
-      "num": 1601869,
-      "word": "什么叫内爆",
-      "onboard_time": 1687498652,
-      "rank": 10,
+      "raw_hot": 1607896,
+      "num": 1607896,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1073,14 +1081,6 @@
       "onboard_time": 1687143268,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1391360,
-      "num": 1391360,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1388359,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1687133847,
       "rank": 6,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 836047,
+      "num": 640354,
+      "word": "辰亦儒曾之乔好好嗑",
+      "onboard_time": 1687502850,
+      "rank": 10,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 832160,
@@ -3171,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531473,
+      "num": 531473,
+      "word": "制片人说迪丽热巴在90后数一数二",
+      "onboard_time": 1687502733,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529723,
       "num": 529723,
       "word": "书粉剧粉都满意的选角",
@@ -4027,6 +4043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424946,
+      "num": 424946,
+      "word": "山东已现43℃以上高温",
+      "onboard_time": 1687503330,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424647,
       "num": 424647,
       "word": "三体2官宣",
@@ -4201,6 +4225,14 @@
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 404355,
+      "num": 404355,
+      "word": "陈哲远吻戏好欲",
+      "onboard_time": 1687504051,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 400423,
@@ -4601,6 +4633,14 @@
       "onboard_time": 1687349494,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366802,
+      "num": 366802,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365505,
@@ -5515,6 +5555,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 301754,
+      "num": 301754,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301285,
       "num": 301285,
       "word": "轰6K 群发短信",
@@ -5635,6 +5683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294020,
+      "num": 294020,
+      "word": "把郑秀妍焊在舞台上",
+      "onboard_time": 1687503511,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293887,
       "num": 293887,
       "word": "蔡徐坤hugme开场",
@@ -5721,6 +5777,14 @@
       "onboard_time": 1687154077,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289538,
+      "num": 289538,
+      "word": "LGD对战WB",
+      "onboard_time": 1687503752,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 289263,
@@ -5944,6 +6008,14 @@
       "word": "你心中的年代剧TOP1",
       "onboard_time": 1687138107,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278425,
+      "num": 278425,
+      "word": "蔡少芬你不要再叫了",
+      "onboard_time": 1687502189,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -6843,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243753,
+      "num": 243753,
+      "word": "巴黎偶遇虞书欣",
+      "onboard_time": 1687502910,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243095,
       "num": 243095,
       "word": "王启年你何德何能",
@@ -6929,14 +7009,6 @@
       "onboard_time": 1687102889,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240247,
-      "num": 276321,
-      "word": "端午假期第2天你在干什么",
-      "onboard_time": 1687501532,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240169,
@@ -7315,14 +7387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231258,
-      "num": 231258,
-      "word": "刚入职一周又收到大厂offer",
-      "onboard_time": 1687501472,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230936,
       "num": 230936,
       "word": "BLG对战LNG",
@@ -7625,14 +7689,6 @@
       "onboard_time": 1687150412,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217762,
-      "num": 217762,
-      "word": "蔡少芬你不要再叫了",
-      "onboard_time": 1687502189,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 217250,
@@ -9123,6 +9179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176489,
+      "num": 176489,
+      "word": "你不应该是灰蒙蒙的你会幸福的",
+      "onboard_time": 1687504470,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 176106,
       "num": 176106,
       "word": "陈奕迅演唱会",
@@ -10017,6 +10081,14 @@
       "onboard_time": 1687132106,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150689,
+      "num": 150689,
+      "word": "上海电视节白玉兰绽放",
+      "onboard_time": 1687504651,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 149915,
@@ -11313,6 +11385,14 @@
       "onboard_time": 1687158045,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 47425,
+      "num": 525046,
+      "word": "父母35年寻子网友看电视帮找到",
+      "onboard_time": 1687503632,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46089,

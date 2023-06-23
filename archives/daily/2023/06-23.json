@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687502416036,
+  "endTime": 1687504689231,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -33,6 +33,14 @@
       "onboard_time": 1687443876,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2415676,
+      "num": 2415676,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2288411,
@@ -75,11 +83,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1601869,
-      "num": 1601869,
-      "word": "什么叫内爆",
-      "onboard_time": 1687498652,
-      "rank": 10,
+      "raw_hot": 1607896,
+      "num": 1607896,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -95,14 +103,6 @@
       "num": 1516596,
       "word": "氧气耗尽泰坦号内5人还有生还可能吗",
       "onboard_time": 1687448971,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391360,
-      "num": 1391360,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -225,6 +225,14 @@
       "onboard_time": 1687476740,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 836047,
+      "num": 640354,
+      "word": "辰亦儒曾之乔好好嗑",
+      "onboard_time": 1687502850,
+      "rank": 10,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 832160,
@@ -353,6 +361,14 @@
       "onboard_time": 1687494453,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531473,
+      "num": 531473,
+      "word": "制片人说迪丽热巴在90后数一数二",
+      "onboard_time": 1687502733,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 529224,
@@ -523,6 +539,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424946,
+      "num": 424946,
+      "word": "山东已现43℃以上高温",
+      "onboard_time": 1687503330,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404355,
+      "num": 404355,
+      "word": "陈哲远吻戏好欲",
+      "onboard_time": 1687504051,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400423,
       "num": 400423,
       "word": "难哄",
@@ -617,6 +649,14 @@
       "onboard_time": 1687491092,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 366802,
+      "num": 366802,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363802,
@@ -779,6 +819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 301754,
+      "num": 301754,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300596,
       "num": 300596,
       "word": "张萌曾叫秦岚去浪姐",
@@ -803,12 +851,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294020,
+      "num": 294020,
+      "word": "把郑秀妍焊在舞台上",
+      "onboard_time": 1687503511,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 289538,
+      "num": 289538,
+      "word": "LGD对战WB",
+      "onboard_time": 1687503752,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285123,
       "num": 285123,
       "word": "北京乃至京津冀地区怎么就热成了全国第一",
       "onboard_time": 1687447115,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278425,
+      "num": 278425,
+      "word": "蔡少芬你不要再叫了",
+      "onboard_time": 1687502189,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 269926,
@@ -947,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243753,
+      "num": 243753,
+      "word": "巴黎偶遇虞书欣",
+      "onboard_time": 1687502910,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242783,
       "num": 242783,
       "word": "做了防晒为什么还是会黑",
@@ -979,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240247,
-      "num": 276321,
-      "word": "端午假期第2天你在干什么",
-      "onboard_time": 1687501532,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237131,
       "num": 237131,
       "word": "陈哲远他好满意自己的rap",
@@ -1001,14 +1073,6 @@
       "onboard_time": 1687450348,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 231258,
-      "num": 231258,
-      "word": "刚入职一周又收到大厂offer",
-      "onboard_time": 1687501472,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 230926,
@@ -1033,14 +1097,6 @@
       "onboard_time": 1687446337,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217762,
-      "num": 217762,
-      "word": "蔡少芬你不要再叫了",
-      "onboard_time": 1687502189,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 214495,
@@ -1267,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176489,
+      "num": 176489,
+      "word": "你不应该是灰蒙蒙的你会幸福的",
+      "onboard_time": 1687504470,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 174771,
       "num": 174771,
       "word": "各地高考成绩今天起陆续公布",
@@ -1367,6 +1431,14 @@
       "num": 154903,
       "word": "赵露思马伯骞直播也能吵起来",
       "onboard_time": 1687439191,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150689,
+      "num": 150689,
+      "word": "上海电视节白玉兰绽放",
+      "onboard_time": 1687504651,
       "rank": 48,
       "category": "影视"
     },
@@ -1521,6 +1593,14 @@
       "onboard_time": 1687470433,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 47425,
+      "num": 525046,
+      "word": "父母35年寻子网友看电视帮找到",
+      "onboard_time": 1687503632,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33821,

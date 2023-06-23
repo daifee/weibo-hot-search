@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687502416036,
+  "endTime": 1687504689231,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1248,6 +1248,14 @@
       "word": "国内出现偏肺病毒感染",
       "onboard_time": 1685875344,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2415676,
+      "num": 2415676,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3275,20 +3283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1607896,
+      "num": 1607896,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1603752,
       "num": 1603752,
       "word": "快乐大本营最后一期未播预告",
       "onboard_time": 1686876749,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1601869,
-      "num": 1601869,
-      "word": "什么叫内爆",
-      "onboard_time": 1687498652,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1601793,
@@ -4288,14 +4296,6 @@
       "word": "女学霸边读研边兼职3年赚17万",
       "onboard_time": 1686799166,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391360,
-      "num": 1391360,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8611,6 +8611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 836047,
+      "num": 640354,
+      "word": "辰亦儒曾之乔好好嗑",
+      "onboard_time": 1687502850,
+      "rank": 10,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 835405,
       "num": 835405,
       "word": "陈伟霆章若楠真的没在谈吗",
@@ -12923,6 +12931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 531473,
+      "num": 531473,
+      "word": "制片人说迪丽热巴在90后数一数二",
+      "onboard_time": 1687502733,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529723,
       "num": 529723,
       "word": "书粉剧粉都满意的选角",
@@ -15475,6 +15491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424946,
+      "num": 424946,
+      "word": "山东已现43℃以上高温",
+      "onboard_time": 1687503330,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424870,
       "num": 341264,
       "word": "狗头萝莉摊煎饼",
@@ -16265,6 +16289,14 @@
       "onboard_time": 1685672786,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404355,
+      "num": 404355,
+      "word": "陈哲远吻戏好欲",
+      "onboard_time": 1687504051,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 403564,
@@ -17681,6 +17713,14 @@
       "onboard_time": 1686132874,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 366802,
+      "num": 366802,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366679,
@@ -21491,6 +21531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301754,
+      "num": 301754,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301665,
       "num": 259634,
       "word": "夏日入侵企画",
@@ -22067,6 +22115,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 294020,
+      "num": 294020,
+      "word": "把郑秀妍焊在舞台上",
+      "onboard_time": 1687503511,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293950,
       "num": 293950,
       "word": "王一博沙漠里唱晴天",
@@ -22465,6 +22521,14 @@
       "onboard_time": 1685524889,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289538,
+      "num": 289538,
+      "word": "LGD对战WB",
+      "onboard_time": 1687503752,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 289527,
@@ -23424,6 +23488,14 @@
       "word": "迪丽热巴说还是会拍古装剧偶像剧",
       "onboard_time": 1685627972,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278425,
+      "num": 278425,
+      "word": "蔡少芬你不要再叫了",
+      "onboard_time": 1687502189,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -27427,6 +27499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243753,
+      "num": 243753,
+      "word": "巴黎偶遇虞书欣",
+      "onboard_time": 1687502910,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243714,
       "num": 243714,
       "word": "主人真的很宠它 它也是真的很蠢",
@@ -27897,14 +27977,6 @@
       "onboard_time": 1687004970,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240247,
-      "num": 276321,
-      "word": "端午假期第2天你在干什么",
-      "onboard_time": 1687501532,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240169,
@@ -29169,14 +29241,6 @@
       "onboard_time": 1685806651,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 231258,
-      "num": 231258,
-      "word": "刚入职一周又收到大厂offer",
-      "onboard_time": 1687501472,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 231195,
@@ -31161,14 +31225,6 @@
       "onboard_time": 1686045209,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217762,
-      "num": 217762,
-      "word": "蔡少芬你不要再叫了",
-      "onboard_time": 1687502189,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 217579,
@@ -38939,6 +38995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176489,
+      "num": 176489,
+      "word": "你不应该是灰蒙蒙的你会幸福的",
+      "onboard_time": 1687504470,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 176475,
       "num": 176475,
       "word": "seventeen日巡有十二场",
@@ -43377,6 +43441,14 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150689,
+      "num": 150689,
+      "word": "上海电视节白玉兰绽放",
+      "onboard_time": 1687504651,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 150584,
@@ -52913,6 +52985,14 @@
       "onboard_time": 1685566092,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47425,
+      "num": 525046,
+      "word": "父母35年寻子网友看电视帮找到",
+      "onboard_time": 1687503632,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47338,
