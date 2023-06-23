@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687486385401,
+  "endTime": 1687489307190,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -307,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4212896,
+      "num": 4212896,
+      "word": "高考分数线",
+      "onboard_time": 1687482991,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 4203869,
       "num": 873375,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4172166,
-      "num": 4172166,
-      "word": "高考分数线",
-      "onboard_time": 1687482991,
-      "rank": 0,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 4158055,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1686372526,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1979537,
+      "num": 1440363,
+      "word": "汪东城人品",
+      "onboard_time": 1687485752,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1978553,
@@ -4443,6 +4451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1348419,
+      "num": 1348419,
+      "word": "柳智敏",
+      "onboard_time": 1687484311,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1347501,
       "num": 429631,
       "word": "黄子佼最新情况",
@@ -4744,14 +4760,6 @@
       "word": "向佐向唐诗逸道歉",
       "onboard_time": 1686716196,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1295606,
-      "num": 1295606,
-      "word": "柳智敏",
-      "onboard_time": 1687484311,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -8428,7 +8436,7 @@
     },
     {
       "raw_hot": 841028,
-      "num": 518550,
+      "num": 521750,
       "word": "刘亦菲去迪拜了",
       "onboard_time": 1687476740,
       "rank": 33,
@@ -9633,6 +9641,14 @@
       "onboard_time": 1686321214,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 749091,
+      "num": 749091,
+      "word": "泰坦尼克号导演表达震惊",
+      "onboard_time": 1687486172,
+      "rank": 39,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 747405,
@@ -12899,6 +12915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521693,
+      "num": 521693,
+      "word": "早期刘昊然",
+      "onboard_time": 1687485693,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521409,
       "num": 521409,
       "word": "90后的三十岁",
@@ -13099,6 +13123,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 513157,
+      "num": 513157,
+      "word": "Angelababy演戏自称杨幂",
+      "onboard_time": 1687485574,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512837,
       "num": 512837,
       "word": "李沁哭戏主动和导演说再来一遍",
@@ -13209,6 +13241,14 @@
       "onboard_time": 1687421067,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506123,
+      "num": 338198,
+      "word": "张雪峰的求生欲",
+      "onboard_time": 1687488031,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 505985,
@@ -13883,6 +13923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 479551,
+      "num": 479551,
+      "word": "吉林分数线",
+      "onboard_time": 1687487610,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 478836,
       "num": 478836,
       "word": "大家知道屈原姓什么吗",
@@ -14401,6 +14449,14 @@
       "onboard_time": 1687270536,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 455555,
+      "num": 324678,
+      "word": "上班七个月长胖了22斤",
+      "onboard_time": 1687487731,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 455500,
@@ -14937,14 +14993,6 @@
       "onboard_time": 1687186182,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 434423,
-      "num": 351477,
-      "word": "汪东城人品",
-      "onboard_time": 1687485752,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 434172,
@@ -16027,6 +16075,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 403358,
+      "num": 403358,
+      "word": "吴磊回应新疆骑行路人打招呼",
+      "onboard_time": 1687488692,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403172,
       "num": 403172,
       "word": "国足4比0战胜缅甸队",
@@ -16160,6 +16216,14 @@
       "word": "六公主连播易烊千玺主演电影",
       "onboard_time": 1686970347,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399221,
+      "num": 313895,
+      "word": "繁华似锦定档",
+      "onboard_time": 1687488269,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -16883,6 +16947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380218,
+      "num": 261625,
+      "word": "和弟弟拆了凉席洗洗",
+      "onboard_time": 1687488630,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380061,
       "num": 380061,
       "word": "我的猫把孩子生到洗衣机了",
@@ -17451,14 +17523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365553,
-      "num": 365553,
-      "word": "Angelababy演戏自称杨幂",
-      "onboard_time": 1687485574,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365505,
       "num": 365505,
       "word": "种地吧 美丽浙江",
@@ -17640,14 +17704,6 @@
       "word": "肖战央视专访",
       "onboard_time": 1686831566,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 362264,
-      "num": 362264,
-      "word": "早期刘昊然",
-      "onboard_time": 1687485693,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -17849,6 +17905,14 @@
       "onboard_time": 1686362561,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 357739,
+      "num": 357739,
+      "word": "BKPP 嵩山音乐节",
+      "onboard_time": 1686825086,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 357674,
@@ -21547,6 +21611,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 296163,
+      "num": 296163,
+      "word": "男子避雨后将屋主晒的菜踢到雨中",
+      "onboard_time": 1687488389,
+      "rank": 25,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 296056,
       "num": 296056,
       "word": "肖战新剧微博开分8.3",
@@ -23937,6 +24009,14 @@
       "onboard_time": 1687420711,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269926,
+      "num": 269926,
+      "word": "湖人选中胡德斯基菲诺",
+      "onboard_time": 1687488570,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 269907,
@@ -27139,6 +27219,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242783,
+      "num": 242783,
+      "word": "做了防晒为什么还是会黑",
+      "onboard_time": 1687487368,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242728,
       "num": 242728,
       "word": "谢娜马甲线好明显",
@@ -28969,14 +29057,6 @@
       "onboard_time": 1686451648,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229384,
-      "num": 229384,
-      "word": "BKPP 嵩山音乐节",
-      "onboard_time": 1686825086,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 229379,
@@ -32489,14 +32569,6 @@
       "onboard_time": 1686299310,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206884,
-      "num": 206884,
-      "word": "泰坦尼克号导演表达震惊",
-      "onboard_time": 1687486172,
-      "rank": 39,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 206740,
@@ -38067,6 +38139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 178700,
+      "num": 178700,
+      "word": "送别南京大屠杀幸存者高恒发",
+      "onboard_time": 1687488991,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178650,
       "num": 178650,
       "word": "时代少年团录歌",
@@ -42569,6 +42649,14 @@
       "onboard_time": 1686620248,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 152632,
+      "num": 152632,
+      "word": "听到饭盆响就以为开饭了的小狗",
+      "onboard_time": 1687489294,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152615,

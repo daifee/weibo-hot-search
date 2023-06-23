@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687486385401,
+  "endTime": 1687489307190,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4212896,
+      "num": 4212896,
+      "word": "高考分数线",
+      "onboard_time": 1687482991,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 4203869,
       "num": 873375,
       "word": "黄子佼拿刀割自己",
       "onboard_time": 1687157623,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4172166,
-      "num": 4172166,
-      "word": "高考分数线",
-      "onboard_time": 1687482991,
-      "rank": 0,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 4158055,
@@ -569,6 +569,14 @@
       "onboard_time": 1687430550,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1979537,
+      "num": 1440363,
+      "word": "汪东城人品",
+      "onboard_time": 1687485752,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1978240,
@@ -1091,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1348419,
+      "num": 1348419,
+      "word": "柳智敏",
+      "onboard_time": 1687484311,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1347501,
       "num": 429631,
       "word": "黄子佼最新情况",
@@ -1144,14 +1160,6 @@
       "word": "萧煌奇回应不是盲人",
       "onboard_time": 1687309114,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1295606,
-      "num": 1295606,
-      "word": "柳智敏",
-      "onboard_time": 1687484311,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1988,7 +1996,7 @@
     },
     {
       "raw_hot": 841028,
-      "num": 518550,
+      "num": 521750,
       "word": "刘亦菲去迪拜了",
       "onboard_time": 1687476740,
       "rank": 33,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1687232371,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749091,
+      "num": 749091,
+      "word": "泰坦尼克号导演表达震惊",
+      "onboard_time": 1687486172,
+      "rank": 39,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 747276,
@@ -3059,6 +3075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521693,
+      "num": 521693,
+      "word": "早期刘昊然",
+      "onboard_time": 1687485693,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520668,
       "num": 520668,
       "word": "竹已",
@@ -3147,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513157,
+      "num": 513157,
+      "word": "Angelababy演戏自称杨幂",
+      "onboard_time": 1687485574,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512674,
       "num": 1215370,
       "word": "杭州一男子在绿化带内迷路四天三夜",
@@ -3193,6 +3225,14 @@
       "onboard_time": 1687421067,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506123,
+      "num": 338198,
+      "word": "张雪峰的求生欲",
+      "onboard_time": 1687488031,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 505865,
@@ -3363,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479551,
+      "num": 479551,
+      "word": "吉林分数线",
+      "onboard_time": 1687487610,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 478836,
       "num": 478836,
       "word": "大家知道屈原姓什么吗",
@@ -3497,6 +3545,14 @@
       "onboard_time": 1687270536,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 455555,
+      "num": 324678,
+      "word": "上班七个月长胖了22斤",
+      "onboard_time": 1687487731,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 455495,
@@ -3665,14 +3721,6 @@
       "onboard_time": 1687186182,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 434423,
-      "num": 351477,
-      "word": "汪东城人品",
-      "onboard_time": 1687485752,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 434123,
@@ -3955,6 +4003,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 403358,
+      "num": 403358,
+      "word": "吴磊回应新疆骑行路人打招呼",
+      "onboard_time": 1687488692,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399221,
+      "num": 313895,
+      "word": "繁华似锦定档",
+      "onboard_time": 1687488269,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399139,
       "num": 399139,
       "word": "原来荔枝也可以缓解痛经",
@@ -4211,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380218,
+      "num": 261625,
+      "word": "和弟弟拆了凉席洗洗",
+      "onboard_time": 1687488630,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378373,
       "num": 378373,
       "word": "刘芮麟谈与肖战合作",
@@ -4307,14 +4379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365553,
-      "num": 365553,
-      "word": "Angelababy演戏自称杨幂",
-      "onboard_time": 1687485574,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365505,
       "num": 365505,
       "word": "种地吧 美丽浙江",
@@ -4337,14 +4401,6 @@
       "onboard_time": 1687273655,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362264,
-      "num": 362264,
-      "word": "早期刘昊然",
-      "onboard_time": 1687485693,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 361857,
@@ -4393,6 +4449,14 @@
       "onboard_time": 1687251751,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357739,
+      "num": 357739,
+      "word": "BKPP 嵩山音乐节",
+      "onboard_time": 1687487191,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 357553,
@@ -5219,6 +5283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296163,
+      "num": 296163,
+      "word": "男子避雨后将屋主晒的菜踢到雨中",
+      "onboard_time": 1687488389,
+      "rank": 25,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 295750,
       "num": 295750,
       "word": "EXO新专K4预售突破50万张",
@@ -5785,6 +5857,14 @@
       "onboard_time": 1687420711,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269926,
+      "num": 269926,
+      "word": "湖人选中胡德斯基菲诺",
+      "onboard_time": 1687488570,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 269907,
@@ -6425,6 +6505,14 @@
       "onboard_time": 1687242210,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242783,
+      "num": 242783,
+      "word": "做了防晒为什么还是会黑",
+      "onboard_time": 1687487368,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 242279,
@@ -7483,14 +7571,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 206884,
-      "num": 206884,
-      "word": "泰坦尼克号导演表达震惊",
-      "onboard_time": 1687486172,
-      "rank": 39,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 206722,
       "num": 180437,
       "word": "时代少年团T恤造型",
@@ -8515,6 +8595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178700,
+      "num": 178700,
+      "word": "送别南京大屠杀幸存者高恒发",
+      "onboard_time": 1687488991,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178369,
       "num": 178369,
       "word": "花580元买梅西比赛门票被称幸运儿",
@@ -9417,6 +9505,14 @@
       "onboard_time": 1687357235,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152632,
+      "num": 152632,
+      "word": "听到饭盆响就以为开饭了的小狗",
+      "onboard_time": 1687489294,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152580,
