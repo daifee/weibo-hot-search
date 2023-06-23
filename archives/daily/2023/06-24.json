@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687545436594,
+  "endTime": 1687547741653,
   "band_list": [
     {
       "raw_hot": 3041115,
@@ -427,8 +427,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127672,
-      "num": 88169,
+      "raw_hot": 128827,
+      "num": 96216,
       "word": "孙珍妮来跑男前一直在背乘法表",
       "onboard_time": 1687544357,
       "rank": 33,
@@ -465,6 +465,14 @@
       "onboard_time": 1687539686,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39312,
+      "num": 47585,
+      "word": "高考分数达到预期没",
+      "onboard_time": 1687545316,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 38266,

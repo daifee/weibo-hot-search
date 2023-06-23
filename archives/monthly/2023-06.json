@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687545436594,
+  "endTime": 1687547741653,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -48203,6 +48203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128827,
+      "num": 96216,
+      "word": "孙珍妮来跑男前一直在背乘法表",
+      "onboard_time": 1687544357,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128806,
       "num": 128806,
       "word": "吴京杰森斯坦森外滩吃饺子",
@@ -48377,14 +48385,6 @@
       "onboard_time": 1687055246,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 127672,
-      "num": 88169,
-      "word": "孙珍妮来跑男前一直在背乘法表",
-      "onboard_time": 1687544357,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 127657,
@@ -54769,6 +54769,14 @@
       "onboard_time": 1686139473,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39312,
+      "num": 47585,
+      "word": "高考分数达到预期没",
+      "onboard_time": 1687545316,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 39253,
