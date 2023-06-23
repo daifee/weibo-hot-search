@@ -1,0 +1,410 @@
+{
+  "runTime": 1687505675049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2341951,
+        "num": 2341951,
+        "word": "什么叫内爆",
+        "onboard_time": 1687498652,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1662306,
+        "num": 1662306,
+        "word": "景区网红大雁被游客踢中要害离世",
+        "onboard_time": 1687496432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17786,
+        "num": 1391383,
+        "word": "龙舟漂移有多酷炫",
+        "onboard_time": 1687438711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344715,
+        "num": 1344715,
+        "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+        "onboard_time": 1687500511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014081,
+        "num": 1014081,
+        "word": "青鸟",
+        "onboard_time": 1687495352,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955571,
+        "num": 955571,
+        "word": "41℃高温把衣服晒着了",
+        "onboard_time": 1687496613,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 913144,
+        "num": 913144,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 821099,
+        "num": 821099,
+        "word": "青鸟改编 难评",
+        "onboard_time": 1687496912,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697262,
+        "num": 697262,
+        "word": "刘宪华官宣加盟中国好声音",
+        "onboard_time": 1687497755,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583314,
+        "num": 583314,
+        "word": "制片人说迪丽热巴在90后数一数二",
+        "onboard_time": 1687502733,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1100251,
+        "num": 577129,
+        "word": "辰亦儒曾之乔好好嗑",
+        "onboard_time": 1687502850,
+        "rank": 10,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 555240,
+        "num": 555240,
+        "word": "宝剑嫂",
+        "onboard_time": 1687490970,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 552155,
+        "num": 552155,
+        "word": "陈哲远吻戏好欲",
+        "onboard_time": 1687504051,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539774,
+        "num": 539774,
+        "word": "李雪琴高中扎马尾照片",
+        "onboard_time": 1687493433,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96871,
+        "num": 526791,
+        "word": "父母35年寻子网友看电视帮找到",
+        "onboard_time": 1687503632,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513927,
+        "num": 513927,
+        "word": "日本将强制公布艺人真实身份",
+        "onboard_time": 1687477344,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 506514,
+        "num": 506514,
+        "word": "泰坦号观光艇内爆5名乘员已死亡",
+        "onboard_time": 1687477282,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496370,
+        "num": 496370,
+        "word": "山东已现43℃以上高温",
+        "onboard_time": 1687503330,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463895,
+        "num": 463895,
+        "word": "成都UFO",
+        "onboard_time": 1687445436,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448556,
+        "num": 448556,
+        "word": "大S经纪人发声明",
+        "onboard_time": 1687481429,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377833,
+        "num": 377833,
+        "word": "汪东城人品",
+        "onboard_time": 1687485752,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375716,
+        "num": 375716,
+        "word": "偷偷藏不住暗恋be",
+        "onboard_time": 1687491811,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327021,
+        "num": 327021,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321871,
+        "num": 321871,
+        "word": "朱珠好勾人",
+        "onboard_time": 1687504711,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284585,
+        "num": 284585,
+        "word": "上海分数线",
+        "onboard_time": 1687500211,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 312497,
+        "num": 284530,
+        "word": "盆栽哥Jennie合作曲上线",
+        "onboard_time": 1687498172,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296283,
+        "num": 284491,
+        "word": "温碧霞和她老公合照",
+        "onboard_time": 1687505009,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284239,
+        "num": 284239,
+        "word": "把郑秀妍焊在舞台上",
+        "onboard_time": 1687503511,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274083,
+        "num": 274083,
+        "word": "明年不结婚的理由找到了",
+        "onboard_time": 1687484731,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 271216,
+        "num": 271216,
+        "word": "泰坦尼克号导演表达震惊",
+        "onboard_time": 1687486172,
+        "rank": 29,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 264670,
+        "num": 264670,
+        "word": "刚入职一周又收到大厂offer",
+        "onboard_time": 1687501472,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261046,
+        "num": 261046,
+        "word": "电动车上的公仔全被偷了",
+        "onboard_time": 1687501170,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251622,
+        "num": 251622,
+        "word": "Angelababy白鹿起床素颜状态",
+        "onboard_time": 1687482750,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 247438,
+        "num": 247438,
+        "word": "蔡少芬你不要再叫了",
+        "onboard_time": 1687502189,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247395,
+        "num": 247395,
+        "word": "巴黎偶遇虞书欣",
+        "onboard_time": 1687502910,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236059,
+        "num": 236059,
+        "word": "吴磊回应新疆骑行路人打招呼",
+        "onboard_time": 1687488692,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221365,
+        "num": 221365,
+        "word": "高考报志愿要听孩子怎么想",
+        "onboard_time": 1687505133,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 218721,
+        "num": 218721,
+        "word": "朋友圈里的统一回复",
+        "onboard_time": 1687498652,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213942,
+        "num": 213942,
+        "word": "消失的她",
+        "onboard_time": 1687477523,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202559,
+        "num": 202559,
+        "word": "养宠物的风险",
+        "onboard_time": 1687505189,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183138,
+        "num": 183138,
+        "word": "难哄",
+        "onboard_time": 1687498111,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173065,
+        "num": 173065,
+        "word": "上海电视节白玉兰绽放",
+        "onboard_time": 1687504651,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164374,
+        "num": 164374,
+        "word": "傅韵哲高考成绩",
+        "onboard_time": 1687505550,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164279,
+        "num": 164279,
+        "word": "王俊凯王勉用柴锅做饭",
+        "onboard_time": 1687498531,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163961,
+        "num": 163961,
+        "word": "秋瓷炫唱的是中文还是泰文",
+        "onboard_time": 1687499432,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159626,
+        "num": 159626,
+        "word": "张雪峰的求生欲",
+        "onboard_time": 1687488031,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 142318,
+        "num": 142318,
+        "word": "你不应该是灰蒙蒙的你会幸福的",
+        "onboard_time": 1687504470,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140807,
+        "num": 140807,
+        "word": "Uzi通宵训练",
+        "onboard_time": 1687495772,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 140474,
+        "word": "姆巴佩将加盟皇马",
+        "onboard_time": 1687492892,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87105,
+        "num": 140129,
+        "word": "LGD对战WB",
+        "onboard_time": 1687503752,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥奥林匹克促进人类和平发展的重要作用#"
+    }
+  }
+}

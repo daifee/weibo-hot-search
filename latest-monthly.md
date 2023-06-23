@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 15:18:09
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 15:34:35
 </p>
 </blockquote>
 <p>
@@ -2301,6 +2301,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23" target="weibo">
+景区网红大雁被游客踢中要害离世（热度：1662306）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E6%9B%BE%E5%9B%A0%E8%80%81%E9%BC%A0%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%81%94%E5%90%88%E6%89%A7%E6%B3%95%23" target="weibo">
 涉事学校曾因老鼠事件被联合执法（热度：1662248）
 </a>
@@ -2471,12 +2477,6 @@ Lisa露额头（热度：1610694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%8E%A5%E5%A5%B3%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%81%AD%E8%BD%A6%E7%A5%B8%E8%87%B41%E6%AD%BB1%E7%97%85%E5%8D%B1%23" target="weibo">
 男生接女友下班遭车祸致1死1病危（热度：1609257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%81%E8%A2%AB%E6%B8%B8%E5%AE%A2%E8%B8%A2%E4%B8%AD%E8%A6%81%E5%AE%B3%E7%A6%BB%E4%B8%96%23" target="weibo">
-景区网红大雁被游客踢中要害离世（热度：1607896）
 </a>
 </li>
 
@@ -3399,6 +3399,12 @@ NBA总决赛（热度：1351320）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23" target="weibo">
+女子番茄吃多胃痛医生让喝可乐治疗（热度：1344715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E4%BF%9D%E5%AE%89%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 黄景瑜和极限挑战保安打起来了（热度：1344571）
 </a>
@@ -4131,12 +4137,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%95%AA%E8%8C%84%E5%90%83%E5%A4%9A%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E8%AE%A9%E5%96%9D%E5%8F%AF%E4%B9%90%E6%B2%BB%E7%96%97%23" target="weibo">
-女子番茄吃多胃痛医生让喝可乐治疗（热度：1184124）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%B2%B9%E8%BF%87%E6%B2%A1%E4%B8%91%E8%BF%87%23" target="weibo">
 黄晓明油过没丑过（热度：1184029）
 </a>
@@ -4673,6 +4673,12 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23" target="weibo">
 跑男最后一期录制阵容（热度：1100348）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B0%E4%BA%A6%E5%84%92%E6%9B%BE%E4%B9%8B%E4%B9%94%E5%A5%BD%E5%A5%BD%E5%97%91%23" target="weibo">
+辰亦儒曾之乔好好嗑（热度：1100251）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lisa留刘海的原因（热度：896423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E5%9B%9E%E5%BA%94%E5%88%98%E5%AE%87%E5%96%8A%E8%AF%9D%23" target="weibo">
 刘大锤回应刘宇喊话（热度：894642）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BB%9F%E9%92%B0%E6%98%AF%E4%B8%8A%E6%88%8F%E8%89%BA%E8%80%83%E7%AC%AC%E4%B8%80%23" target="weibo">
-陈仟钰是上戏艺考第一（热度：893674）
 </a>
 </li>
 
