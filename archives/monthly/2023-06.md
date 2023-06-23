@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 17:19:03
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 17:34:25
 </p>
 </blockquote>
 <p>
@@ -465,6 +465,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23" target="weibo">
+外星人或正在利用超新星爆炸引人类注意（热度：3091306）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%23" target="weibo">
 丫丫（热度：3044586）
 </a>
@@ -653,12 +659,6 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%BE%E6%A0%87%E4%B8%80%E5%8D%B7%20%E6%95%85%E4%BA%8B%E6%98%AF%E6%9C%89%E5%8A%9B%E9%87%8F%E7%9A%84%23" target="weibo">
 新课标一卷 故事是有力量的（热度：2731716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23" target="weibo">
-外星人或正在利用超新星爆炸引人类注意（热度：2728569）
 </a>
 </li>
 
@@ -3873,6 +3873,12 @@ Angelababy回归 跑男收视率（热度：1255756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%9B%A0%E4%B8%BA%E5%9B%9B%E5%85%AC%E9%94%99%E8%BF%87%E5%A4%96%E5%A9%86%E8%BF%BD%E6%82%BC%E4%BC%9A%23" target="weibo">
+张嘉倪因为四公错过外婆追悼会（热度：1254708）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E4%BF%A9%E5%B9%BC%E5%A5%B3%E9%94%81%E6%88%BF%E9%97%B4%E6%9C%88%E4%BD%99%E8%87%B4%E5%85%B6%E9%A5%BF%E6%AD%BB%23" target="weibo">
 女子将俩幼女锁房间月余致其饿死（热度：1254518）
 </a>
@@ -5793,6 +5799,12 @@ S家的拖鞋之谜（热度：933848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23" target="weibo">
+银川爆炸事故第1晚顾客坐店外就餐（热度：928934）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%20%E5%88%AB%E7%A3%95%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%A3%95%E5%A4%B4%E4%BA%86%23" target="weibo">
 徐志胜 别磕给大家磕头了（热度：928237）
 </a>
@@ -5913,12 +5925,6 @@ Jennie巡演翻白眼（热度：927985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%AC%AC1%E6%99%9A%E9%A1%BE%E5%AE%A2%E5%9D%90%E5%BA%97%E5%A4%96%E5%B0%B1%E9%A4%90%23" target="weibo">
-银川爆炸事故第1晚顾客坐店外就餐（热度：910765）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%B4%E5%A8%98%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9C%AA%E5%A9%9A%E6%89%8D%E8%A1%8C%23" target="weibo">
 为什么伴娘一定要未婚才行（热度：910495）
 </a>
@@ -6005,12 +6011,6 @@ SEVENTEEN要来广州开签售会（热度：903926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E7%81%BF%E7%83%88%20%E5%8D%95%E5%B0%81%23" target="weibo">
 朴灿烈 单封（热度：901439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%B3%B3%E8%A3%85%23" target="weibo">
-林志玲泳装（热度：900578）
 </a>
 </li>
 
