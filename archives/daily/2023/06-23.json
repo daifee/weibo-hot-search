@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687518984867,
+  "endTime": 1687520052056,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -9,6 +9,14 @@
       "onboard_time": 1687482991,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 3851448,
+      "num": 3851448,
+      "word": "白玉兰颁奖",
+      "onboard_time": 1687518270,
+      "rank": 3,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 3697217,
@@ -91,12 +99,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1779318,
-      "num": 1779318,
-      "word": "白玉兰颁奖",
-      "onboard_time": 1687518270,
-      "rank": 3,
-      "category": "影视,艺人"
+      "raw_hot": 1825555,
+      "num": 1825555,
+      "word": "男生高考查分601激动满屋蹦跳",
+      "onboard_time": 1687517492,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1723005,
@@ -235,19 +243,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1054821,
+      "num": 1054821,
+      "word": "赵丽颖工作室P图",
+      "onboard_time": 1687517550,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1048013,
       "num": 1048013,
       "word": "消失的她票房",
       "onboard_time": 1687422450,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1039600,
-      "num": 916885,
-      "word": "赵丽颖工作室P图",
-      "onboard_time": 1687517550,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915264,
+      "num": 915264,
+      "word": "张颂文好帅",
+      "onboard_time": 1687517848,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 913899,
       "num": 436880,
       "word": "没房贷的下属太可怕了",
@@ -353,6 +369,14 @@
       "onboard_time": 1687514429,
       "rank": 10,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 841800,
+      "num": 841800,
+      "word": "黄子韬发博为鹿晗演唱会加油",
+      "onboard_time": 1687518809,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 841028,
@@ -377,14 +401,6 @@
       "onboard_time": 1687491931,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810339,
-      "num": 1795652,
-      "word": "男生高考查分601激动满屋蹦跳",
-      "onboard_time": 1687517492,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 807667,
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581851,
+      "num": 581851,
+      "word": "只有广东人是真心想救屈原的",
+      "onboard_time": 1687517251,
+      "rank": 18,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 577850,
       "num": 577850,
       "word": "沙溢长风渡下线",
@@ -579,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540398,
-      "num": 540398,
-      "word": "只有广东人是真心想救屈原的",
-      "onboard_time": 1687517251,
-      "rank": 18,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 529224,
       "num": 529224,
       "word": "国产暗恋剧天花板",
@@ -641,14 +657,6 @@
       "onboard_time": 1687483951,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 508223,
-      "num": 365839,
-      "word": "张颂文好帅",
-      "onboard_time": 1687517848,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 506123,
@@ -803,8 +811,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 425349,
+      "num": 252485,
+      "word": "在简历里撒了谎却得到这份工作的我",
+      "onboard_time": 1687518570,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 424222,
-      "num": 345903,
+      "num": 418257,
       "word": "法国男子十年间近百次找陌生人强奸妻子",
       "onboard_time": 1687510231,
       "rank": 24,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 419751,
-      "num": 248594,
+      "num": 494009,
       "word": "一只虫子带来的烧伤",
       "onboard_time": 1687518330,
       "rank": 30,
@@ -832,6 +848,14 @@
       "word": "赵丽颖黑色复古裙",
       "onboard_time": 1687442313,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 390389,
+      "num": 274658,
+      "word": "狂飙",
+      "onboard_time": 1687519592,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1025,14 +1049,6 @@
       "onboard_time": 1687488389,
       "rank": 25,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 329424,
-      "num": 244938,
-      "word": "在简历里撒了谎却得到这份工作的我",
-      "onboard_time": 1687518570,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 326724,
@@ -1355,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258619,
-      "num": 229912,
-      "word": "黄子韬发博为鹿晗演唱会加油",
-      "onboard_time": 1687518809,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 257867,
       "num": 257867,
       "word": "如何聊出自带BGM的天",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1687518212,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257525,
+      "num": 257525,
+      "word": "温州一龙舟赛提示女性勿在桥上逗留",
+      "onboard_time": 1687517428,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254188,
@@ -1563,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228003,
-      "num": 228003,
-      "word": "温州一龙舟赛提示女性勿在桥上逗留",
-      "onboard_time": 1687517428,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222791,
       "num": 222791,
       "word": "参加30岁聚会时的我本人",
@@ -1635,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213653,
+      "num": 213653,
+      "word": "这猫能处有事它真上",
+      "onboard_time": 1687519352,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213139,
       "num": 144231,
       "word": "普尔保罗互换东家",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1687481370,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210253,
+      "num": 210253,
+      "word": "景区回应网红斑头雁疑被游客踢死",
+      "onboard_time": 1687519111,
+      "rank": 40,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 207563,
@@ -2155,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77250,
+      "num": 1780586,
+      "word": "北斗全球卫星导航系统星座部署完成三周年",
+      "onboard_time": 1687517492,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76989,
       "num": 76989,
       "word": "张陆让 你小子真的很会",
@@ -2227,12 +2259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58870,
-      "num": 1780586,
-      "word": "北斗全球卫星导航系统星座部署完成三周年",
-      "onboard_time": 1687517492,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 55665,
+      "num": 219873,
+      "word": "饿了么免单是懂考生的",
+      "onboard_time": 1687518030,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 51388,
@@ -2257,14 +2289,6 @@
       "onboard_time": 1687507831,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36238,
-      "num": 219873,
-      "word": "饿了么免单是懂考生的",
-      "onboard_time": 1687518030,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 33821,

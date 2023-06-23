@@ -1,0 +1,410 @@
+{
+  "runTime": 1687520052056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3851448,
+        "num": 3851448,
+        "word": "白玉兰颁奖",
+        "onboard_time": 1687518270,
+        "rank": 0,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 1825555,
+        "num": 1825555,
+        "word": "男生高考查分601激动满屋蹦跳",
+        "onboard_time": 1687517492,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77250,
+        "num": 1340706,
+        "word": "北斗全球卫星导航系统星座部署完成三周年",
+        "onboard_time": 1687517492,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263413,
+        "num": 1263413,
+        "word": "消失的她票房逆跌",
+        "onboard_time": 1687514192,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470137,
+        "num": 1229881,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211662,
+        "num": 1211662,
+        "word": "外星人",
+        "onboard_time": 1687514493,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448739,
+        "num": 1198983,
+        "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+        "onboard_time": 1687500511,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196928,
+        "num": 1196928,
+        "word": "赵丽颖贵气的闪",
+        "onboard_time": 1687516233,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1108542,
+        "num": 1108542,
+        "word": "白玉兰红毯",
+        "onboard_time": 1687514132,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1054821,
+        "num": 1054821,
+        "word": "赵丽颖工作室P图",
+        "onboard_time": 1687517550,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 915264,
+        "num": 915264,
+        "word": "张颂文好帅",
+        "onboard_time": 1687517848,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 841800,
+        "num": 841800,
+        "word": "黄子韬发博为鹿晗演唱会加油",
+        "onboard_time": 1687518809,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 606942,
+        "num": 606942,
+        "word": "外星人或正在利用超新星爆炸引人类注意",
+        "onboard_time": 1687505971,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 794527,
+        "num": 597468,
+        "word": "鹿晗问陈赫抢到票了吗",
+        "onboard_time": 1687508972,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 581851,
+        "num": 581851,
+        "word": "只有广东人是真心想救屈原的",
+        "onboard_time": 1687517251,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 853914,
+        "num": 554404,
+        "word": "董事长开车进长城被拒强拆大门",
+        "onboard_time": 1687511851,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651834,
+        "num": 525418,
+        "word": "张嘉倪因为四公错过外婆追悼会",
+        "onboard_time": 1687510414,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611330,
+        "num": 511700,
+        "word": "周雨彤贵气",
+        "onboard_time": 1687516051,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406280,
+        "num": 494009,
+        "word": "一只虫子带来的烧伤",
+        "onboard_time": 1687518330,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467477,
+        "num": 467477,
+        "word": "辽宁大连一村庄一家六口遇害",
+        "onboard_time": 1687513173,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593122,
+        "num": 447923,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1687518570,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 553884,
+        "num": 435008,
+        "word": "白鹿白裙盘发",
+        "onboard_time": 1687514429,
+        "rank": 21,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 418257,
+        "num": 418257,
+        "word": "法国男子十年间近百次找陌生人强奸妻子",
+        "onboard_time": 1687510231,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330098,
+        "num": 330098,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 290395,
+        "num": 290395,
+        "word": "没房贷的下属太可怕了",
+        "onboard_time": 1687508010,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 542097,
+        "num": 285727,
+        "word": "秦岚中空连衣裙",
+        "onboard_time": 1687515750,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415511,
+        "num": 281397,
+        "word": "张译去不去白玉兰",
+        "onboard_time": 1687517311,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390389,
+        "num": 274658,
+        "word": "狂飙",
+        "onboard_time": 1687519592,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261274,
+        "num": 261274,
+        "word": "山东已现43℃以上高温",
+        "onboard_time": 1687503330,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257525,
+        "num": 257525,
+        "word": "温州一龙舟赛提示女性勿在桥上逗留",
+        "onboard_time": 1687517428,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425349,
+        "num": 252485,
+        "word": "在简历里撒了谎却得到这份工作的我",
+        "onboard_time": 1687518570,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 369533,
+        "num": 249178,
+        "word": "傅韵哲高考成绩",
+        "onboard_time": 1687505550,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314624,
+        "num": 241400,
+        "word": "辰亦儒曾之乔好好嗑",
+        "onboard_time": 1687502850,
+        "rank": 32,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 304837,
+        "num": 234286,
+        "word": "aespa机场穿出了四个季节",
+        "onboard_time": 1687511551,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304456,
+        "num": 226218,
+        "word": "上海电视节白玉兰绽放",
+        "onboard_time": 1687504651,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273544,
+        "num": 217035,
+        "word": "白敬亭哭戏",
+        "onboard_time": 1687513232,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215169,
+        "num": 215169,
+        "word": "女子账户被骗158万民警帮忙全找回",
+        "onboard_time": 1687507049,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251582,
+        "num": 214519,
+        "word": "银川爆炸事故第1晚顾客坐店外就餐",
+        "onboard_time": 1687507230,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213653,
+        "num": 213653,
+        "word": "这猫能处有事它真上",
+        "onboard_time": 1687519352,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55665,
+        "num": 211505,
+        "word": "饿了么免单是懂考生的",
+        "onboard_time": 1687518030,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 210253,
+        "num": 210253,
+        "word": "景区回应网红斑头雁疑被游客踢死",
+        "onboard_time": 1687519111,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 242383,
+        "num": 209329,
+        "word": "陈哲远周一围相似度",
+        "onboard_time": 1687516293,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207244,
+        "num": 207244,
+        "word": "奔跑吧",
+        "onboard_time": 1687518212,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202915,
+        "num": 202915,
+        "word": "参加30岁聚会时的我本人",
+        "onboard_time": 1687517789,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198910,
+        "num": 198910,
+        "word": "四川2023年高考分数线",
+        "onboard_time": 1687514132,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 198826,
+        "num": 198826,
+        "word": "青鸟改编 难评",
+        "onboard_time": 1687496912,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195583,
+        "num": 195583,
+        "word": "白玉兰直播",
+        "onboard_time": 1687515151,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169663,
+        "num": 169663,
+        "word": "学生高考超平时80多分老师满脸笑容",
+        "onboard_time": 1687515390,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169649,
+        "num": 169649,
+        "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
+        "onboard_time": 1687507230,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 146465,
+        "num": 169283,
+        "word": "螃蟹粽是包粽子难度天花板吧",
+        "onboard_time": 1687516830,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023高考分数线汇总#"
+    }
+  }
+}
