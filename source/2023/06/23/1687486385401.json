@@ -1,0 +1,410 @@
+{
+  "runTime": 1687486385401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4172166,
+        "num": 4172166,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2361902,
+        "num": 2361902,
+        "word": "泰坦号观光艇内爆5名乘员已死亡",
+        "onboard_time": 1687477282,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49939,
+        "num": 1835694,
+        "word": "龙舟漂移有多酷炫",
+        "onboard_time": 1687438711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409985,
+        "num": 1409985,
+        "word": "日本将强制公布艺人真实身份",
+        "onboard_time": 1687477344,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1295606,
+        "num": 1295606,
+        "word": "柳智敏",
+        "onboard_time": 1687484311,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074279,
+        "num": 1074279,
+        "word": "成都UFO",
+        "onboard_time": 1687445436,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944263,
+        "num": 944263,
+        "word": "江西分数线",
+        "onboard_time": 1687485814,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 935507,
+        "num": 935507,
+        "word": "Angelababy白鹿起床素颜状态",
+        "onboard_time": 1687482750,
+        "rank": 7,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 888863,
+        "num": 888863,
+        "word": "高考查分",
+        "onboard_time": 1687443876,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 537413,
+        "num": 537413,
+        "word": "文班亚马当选状元",
+        "onboard_time": 1687480708,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1694865,
+        "num": 526528,
+        "word": "大S经纪人发声明",
+        "onboard_time": 1687481429,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1499531,
+        "num": 522660,
+        "word": "庞颖的詹青云",
+        "onboard_time": 1687481370,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 811189,
+        "num": 518550,
+        "word": "刘亦菲去迪拜了",
+        "onboard_time": 1687476740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508543,
+        "num": 508543,
+        "word": "毕业季是属于宿管阿姨的零元购",
+        "onboard_time": 1687483951,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478225,
+        "num": 478225,
+        "word": "脑袋被粑粑砸到熊猫一动不动",
+        "onboard_time": 1687482931,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 465999,
+        "num": 465999,
+        "word": "马伯庸 别人发端午安康我回复端午快乐",
+        "onboard_time": 1687432294,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 454806,
+        "num": 454806,
+        "word": "虞书欣范丞丞G社生图",
+        "onboard_time": 1687481129,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383243,
+        "num": 383243,
+        "word": "国产暗恋剧天花板",
+        "onboard_time": 1687477944,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366191,
+        "num": 366191,
+        "word": "实名注册手机卡不注销的后果",
+        "onboard_time": 1687477584,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 365553,
+        "num": 365553,
+        "word": "Angelababy演戏自称杨幂",
+        "onboard_time": 1687485574,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662249,
+        "num": 365373,
+        "word": "明年不结婚的理由找到了",
+        "onboard_time": 1687484731,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 625265,
+        "num": 365314,
+        "word": "三五千的工资去国外工作",
+        "onboard_time": 1687481069,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365178,
+        "num": 365178,
+        "word": "2023好声音导师官宣",
+        "onboard_time": 1687445014,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362264,
+        "num": 362264,
+        "word": "早期刘昊然",
+        "onboard_time": 1687485693,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434423,
+        "num": 351477,
+        "word": "汪东城人品",
+        "onboard_time": 1687485752,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433668,
+        "num": 337357,
+        "word": "原来火车卧铺真有人自带床帘",
+        "onboard_time": 1687477584,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384049,
+        "num": 328652,
+        "word": "江西高考查分",
+        "onboard_time": 1687484130,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305638,
+        "num": 305638,
+        "word": "没想到别人的工资打我卡上了",
+        "onboard_time": 1687485752,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289178,
+        "num": 289178,
+        "word": "这粽子是犯了天条吗被绑成这样",
+        "onboard_time": 1687448013,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273438,
+        "num": 273438,
+        "word": "消失的她",
+        "onboard_time": 1687477523,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270964,
+        "num": 270964,
+        "word": "保罗被交易至勇士",
+        "onboard_time": 1687476079,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269907,
+        "num": 269907,
+        "word": "惠英红和叶童",
+        "onboard_time": 1687485393,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265974,
+        "num": 265974,
+        "word": "美国男子冷血枪杀三个亲生儿子",
+        "onboard_time": 1687482809,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265029,
+        "num": 265029,
+        "word": "张萌曾叫秦岚去浪姐",
+        "onboard_time": 1687483053,
+        "rank": 33,
+        "category": "影视,综艺"
+      },
+      {
+        "raw_hot": 257214,
+        "num": 257214,
+        "word": "我大爷是恋爱界的显眼包",
+        "onboard_time": 1687479868,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 241398,
+        "num": 241398,
+        "word": "MOMO",
+        "onboard_time": 1687475119,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236836,
+        "num": 236836,
+        "word": "成都不明发光体刷屏朋友圈",
+        "onboard_time": 1687482750,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230926,
+        "num": 230926,
+        "word": "华晨宇 十年后的长沙又下雨了",
+        "onboard_time": 1687482510,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226549,
+        "num": 226549,
+        "word": "令人窒息的潜水视频",
+        "onboard_time": 1687481971,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206884,
+        "num": 206884,
+        "word": "泰坦尼克号导演表达震惊",
+        "onboard_time": 1687486172,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 206424,
+        "num": 206424,
+        "word": "赵露思直播让粉丝别送礼物",
+        "onboard_time": 1687481370,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202657,
+        "num": 202657,
+        "word": "怀孕33周孕妇被2岁儿子开枪打死",
+        "onboard_time": 1687427372,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190664,
+        "num": 190664,
+        "word": "你贵姓到底怎么回答",
+        "onboard_time": 1687477584,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183802,
+        "num": 183802,
+        "word": "孟美岐北京演唱会彩排照",
+        "onboard_time": 1687480168,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177198,
+        "num": 177198,
+        "word": "迪丽热巴公诉实绩图",
+        "onboard_time": 1687481190,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173722,
+        "num": 173722,
+        "word": "蔡徐坤在车内摘口罩送飞吻",
+        "onboard_time": 1687476441,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171200,
+        "num": 171200,
+        "word": "女子遭老公家暴倒地后被拖进电梯",
+        "onboard_time": 1687442973,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169824,
+        "num": 169824,
+        "word": "吉克隽逸鸟巢头造型",
+        "onboard_time": 1687484071,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165432,
+        "num": 165432,
+        "word": "妈妈纠正孩子写8不封口最后发现自己错了",
+        "onboard_time": 1687446756,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152201,
+        "num": 152201,
+        "word": "烟花是洛子商放的浪漫是一见茹顾的",
+        "onboard_time": 1687483892,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#古诗文里的端午习俗#"
+    }
+  }
+}

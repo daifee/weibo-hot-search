@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687485046663,
+  "endTime": 1687486385401,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -113,6 +113,14 @@
       "onboard_time": 1687157623,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4172166,
+      "num": 4172166,
+      "word": "高考分数线",
+      "onboard_time": 1687482991,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 4158055,
@@ -257,14 +265,6 @@
       "onboard_time": 1687226730,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2880512,
-      "num": 2880512,
-      "word": "高考分数线",
-      "onboard_time": 1687482991,
-      "rank": 0,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2843211,
@@ -715,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1694865,
+      "num": 526528,
+      "word": "大S经纪人发声明",
+      "onboard_time": 1687481429,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1679595,
       "num": 1679595,
       "word": "手机号实名制已经10年了",
@@ -769,14 +777,6 @@
       "onboard_time": 1687250011,
       "rank": 49,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1634416,
-      "num": 517058,
-      "word": "大S经纪人发声明",
-      "onboard_time": 1687481429,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1631368,
@@ -1144,6 +1144,14 @@
       "word": "萧煌奇回应不是盲人",
       "onboard_time": 1687309114,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1295606,
+      "num": 1295606,
+      "word": "柳智敏",
+      "onboard_time": 1687484311,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1707,6 +1715,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 944263,
+      "num": 944263,
+      "word": "江西分数线",
+      "onboard_time": 1687485814,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 943381,
       "num": 943381,
       "word": "李凯尔已获得中国国籍",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1687168182,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 935507,
+      "num": 935507,
+      "word": "Angelababy白鹿起床素颜状态",
+      "onboard_time": 1687482750,
+      "rank": 7,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 935217,
@@ -1964,7 +1988,7 @@
     },
     {
       "raw_hot": 841028,
-      "num": 512943,
+      "num": 518550,
       "word": "刘亦菲去迪拜了",
       "onboard_time": 1687476740,
       "rank": 33,
@@ -2105,14 +2129,6 @@
       "onboard_time": 1687175319,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794336,
-      "num": 794336,
-      "word": "Angelababy白鹿起床素颜状态",
-      "onboard_time": 1687482750,
-      "rank": 7,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 788372,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1687259790,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662249,
+      "num": 365373,
+      "word": "明年不结婚的理由找到了",
+      "onboard_time": 1687484731,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 662084,
@@ -3139,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508543,
+      "num": 508543,
+      "word": "毕业季是属于宿管阿姨的零元购",
+      "onboard_time": 1687483951,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 508504,
       "num": 423298,
       "word": "专家称银川烧烤店店员处理方式有问题",
@@ -3337,6 +3369,14 @@
       "onboard_time": 1687435050,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478225,
+      "num": 478225,
+      "word": "脑袋被粑粑砸到熊猫一动不动",
+      "onboard_time": 1687482931,
+      "rank": 26,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 477384,
@@ -3627,6 +3667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434423,
+      "num": 351477,
+      "word": "汪东城人品",
+      "onboard_time": 1687485752,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434123,
       "num": 434123,
       "word": "冲进球场拥抱梅西小伙拘留期满获释",
@@ -3883,14 +3931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406638,
-      "num": 406638,
-      "word": "柳智敏",
-      "onboard_time": 1687484311,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406129,
       "num": 313054,
       "word": "30个同学聚餐让每人出1000元",
@@ -3993,14 +4033,6 @@
       "onboard_time": 1687404397,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 392689,
-      "num": 392689,
-      "word": "毕业季是属于宿管阿姨的零元购",
-      "onboard_time": 1687483951,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 391628,
@@ -4139,6 +4171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 384049,
+      "num": 339839,
+      "word": "江西高考查分",
+      "onboard_time": 1687484130,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 383209,
       "num": 383209,
       "word": "实名注册手机卡不注销的后果",
@@ -4267,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365553,
+      "num": 365553,
+      "word": "Angelababy演戏自称杨幂",
+      "onboard_time": 1687485574,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365505,
       "num": 365505,
       "word": "种地吧 美丽浙江",
@@ -4289,6 +4337,14 @@
       "onboard_time": 1687273655,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362264,
+      "num": 362264,
+      "word": "早期刘昊然",
+      "onboard_time": 1687485693,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 361857,
@@ -4585,14 +4641,6 @@
       "onboard_time": 1687104028,
       "rank": 23,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 339839,
-      "num": 339839,
-      "word": "江西高考查分",
-      "onboard_time": 1687484130,
-      "rank": 22,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 339789,
@@ -5043,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305638,
+      "num": 305638,
+      "word": "没想到别人的工资打我卡上了",
+      "onboard_time": 1687485752,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303549,
       "num": 303549,
       "word": "初中生早课犯困老师空1节课让休息",
@@ -5139,14 +5195,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 299037,
-      "num": 258603,
-      "word": "明年不结婚的理由找到了",
-      "onboard_time": 1687484731,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 299016,
       "num": 299016,
       "word": "第一次看到熊猫皱眉",
@@ -5209,14 +5257,6 @@
       "onboard_time": 1687139427,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 293644,
-      "num": 293644,
-      "word": "脑袋被粑粑砸到熊猫一动不动",
-      "onboard_time": 1687482931,
-      "rank": 26,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 292872,
@@ -5747,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269907,
+      "num": 269907,
+      "word": "惠英红和叶童",
+      "onboard_time": 1687485393,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269670,
       "num": 1255647,
       "word": "学生帽穗丢了老师无实物拨穗",
@@ -5835,6 +5883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265974,
+      "num": 265974,
+      "word": "美国男子冷血枪杀三个亲生儿子",
+      "onboard_time": 1687482809,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265863,
       "num": 264135,
       "word": "丫丫有萌兰同款秋千",
@@ -5873,14 +5929,6 @@
       "onboard_time": 1687143746,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 263967,
-      "num": 263967,
-      "word": "美国男子冷血枪杀三个亲生儿子",
-      "onboard_time": 1687482809,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263410,
@@ -6411,6 +6459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241398,
+      "num": 241398,
+      "word": "MOMO",
+      "onboard_time": 1687475119,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240752,
       "num": 240752,
       "word": "张杰演唱会抢票",
@@ -6811,6 +6867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230926,
+      "num": 230926,
+      "word": "华晨宇 十年后的长沙又下雨了",
+      "onboard_time": 1687482510,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230773,
       "num": 230773,
       "word": "领导 你们人还怪好嘞",
@@ -6841,14 +6905,6 @@
       "onboard_time": 1687234296,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230146,
-      "num": 230146,
-      "word": "MOMO",
-      "onboard_time": 1687475119,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 229971,
@@ -7425,6 +7481,14 @@
       "onboard_time": 1687482331,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 206884,
+      "num": 206884,
+      "word": "泰坦尼克号导演表达震惊",
+      "onboard_time": 1687486172,
+      "rank": 39,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 206722,
@@ -8481,14 +8545,6 @@
       "onboard_time": 1687393229,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177830,
-      "num": 177830,
-      "word": "华晨宇 十年后的长沙又下雨了",
-      "onboard_time": 1687482510,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 177746,
