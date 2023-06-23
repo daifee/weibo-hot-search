@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687540693643,
+  "endTime": 1687541739835,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -7883,6 +7883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248250,
+      "num": 175839,
+      "word": "我的前半生赢麻了",
+      "onboard_time": 1687539625,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247511,
       "num": 248013,
       "word": "教师真的会偏爱某个班级吗",
@@ -7953,14 +7961,6 @@
       "onboard_time": 1687222715,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 244830,
-      "num": 140392,
-      "word": "我的前半生赢麻了",
-      "onboard_time": 1687539625,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 244448,
@@ -11803,6 +11803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135943,
+      "num": 95676,
+      "word": "法老广州ayo音乐节",
+      "onboard_time": 1687539088,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135835,
       "num": 755990,
       "word": "2023年最有仪式感的毕业",
@@ -12537,6 +12545,14 @@
       "onboard_time": 1687412670,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72626,
+      "num": 95449,
+      "word": "原神散兵",
+      "onboard_time": 1687540883,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 71849,
