@@ -1,0 +1,410 @@
+{
+  "runTime": 1687516904376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2948432,
+        "num": 2948432,
+        "word": "白玉兰红毯",
+        "onboard_time": 1687514132,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576386,
+        "num": 1664901,
+        "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+        "onboard_time": 1687500511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81465,
+        "num": 1459532,
+        "word": "遇到燃气泄漏应该如何处理",
+        "onboard_time": 1687508671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294634,
+        "num": 1294634,
+        "word": "外星人或正在利用超新星爆炸引人类注意",
+        "onboard_time": 1687505971,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 521380,
+        "num": 1266471,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249599,
+        "num": 1249599,
+        "word": "消失的她票房逆跌",
+        "onboard_time": 1687514192,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362786,
+        "num": 1244591,
+        "word": "女子账户被骗158万民警帮忙全找回",
+        "onboard_time": 1687507049,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243703,
+        "num": 1243703,
+        "word": "张嘉倪因为四公错过外婆追悼会",
+        "onboard_time": 1687510414,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1031500,
+        "num": 1031500,
+        "word": "董事长开车进长城被拒强拆大门",
+        "onboard_time": 1687511851,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978698,
+        "num": 978698,
+        "word": "鹿晗问陈赫抢到票了吗",
+        "onboard_time": 1687508972,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 966725,
+        "num": 966725,
+        "word": "外星人",
+        "onboard_time": 1687514493,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846852,
+        "num": 846852,
+        "word": "白鹿白裙盘发",
+        "onboard_time": 1687514429,
+        "rank": 11,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 741230,
+        "num": 741230,
+        "word": "赵丽颖贵气的闪",
+        "onboard_time": 1687516233,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588210,
+        "num": 588210,
+        "word": "秦岚中空连衣裙",
+        "onboard_time": 1687515750,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575133,
+        "num": 575133,
+        "word": "傅韵哲高考成绩",
+        "onboard_time": 1687505550,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534021,
+        "num": 534021,
+        "word": "山东已现43℃以上高温",
+        "onboard_time": 1687503330,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533627,
+        "num": 533627,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 513076,
+        "num": 513076,
+        "word": "aespa机场穿出了四个季节",
+        "onboard_time": 1687511551,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483435,
+        "num": 483435,
+        "word": "辽宁大连一村庄一家六口遇害",
+        "onboard_time": 1687513173,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434184,
+        "num": 434184,
+        "word": "白敬亭哭戏",
+        "onboard_time": 1687513232,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614427,
+        "num": 420538,
+        "word": "男子10年间找陌生人强奸妻子近百次",
+        "onboard_time": 1687510231,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376530,
+        "num": 376530,
+        "word": "辰亦儒曾之乔好好嗑",
+        "onboard_time": 1687502850,
+        "rank": 21,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 366982,
+        "num": 366982,
+        "word": "周雨彤贵气",
+        "onboard_time": 1687516051,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328855,
+        "num": 328855,
+        "word": "四川2023年高考分数线",
+        "onboard_time": 1687514132,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 299899,
+        "num": 299899,
+        "word": "没房贷的下属太可怕了",
+        "onboard_time": 1687508010,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332674,
+        "num": 299612,
+        "word": "白玉兰提名",
+        "onboard_time": 1687509870,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296497,
+        "num": 296497,
+        "word": "陈哲远周一围相似度",
+        "onboard_time": 1687516293,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289674,
+        "num": 289674,
+        "word": "苏醒商演人多是因为商场打折",
+        "onboard_time": 1687512213,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270335,
+        "num": 270335,
+        "word": "庄河警方通报当地6人死亡命案",
+        "onboard_time": 1687514971,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264728,
+        "num": 264728,
+        "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
+        "onboard_time": 1687507230,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 473786,
+        "num": 261977,
+        "word": "原来A4纸是这么得来的",
+        "onboard_time": 1687516051,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398876,
+        "num": 261495,
+        "word": "银川爆炸事故第1晚顾客坐店外就餐",
+        "onboard_time": 1687507230,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267263,
+        "num": 261357,
+        "word": "上海电视节白玉兰绽放",
+        "onboard_time": 1687504651,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258741,
+        "num": 258741,
+        "word": "青鸟改编 难评",
+        "onboard_time": 1687496912,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250874,
+        "num": 250874,
+        "word": "景区网红大雁被游客踢中要害离世",
+        "onboard_time": 1687496432,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250106,
+        "num": 250106,
+        "word": "学生高考超平时80多分老师满脸笑容",
+        "onboard_time": 1687515390,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243980,
+        "num": 243980,
+        "word": "41℃高温把衣服晒着了",
+        "onboard_time": 1687496613,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 239712,
+        "num": 239712,
+        "word": "什么叫内爆",
+        "onboard_time": 1687498652,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236601,
+        "num": 236601,
+        "word": "我爱你",
+        "onboard_time": 1687513592,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234782,
+        "num": 234782,
+        "word": "UP对战LNG",
+        "onboard_time": 1687516651,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224086,
+        "num": 224086,
+        "word": "医院回应饮水机焊死病人无法接水",
+        "onboard_time": 1687513952,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220564,
+        "num": 220564,
+        "word": "刘涛44岁素颜皮肤状态",
+        "onboard_time": 1687513112,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214295,
+        "num": 214295,
+        "word": "刘宪华官宣加盟中国好声音",
+        "onboard_time": 1687497755,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212738,
+        "num": 212738,
+        "word": "宝剑嫂",
+        "onboard_time": 1687490970,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202389,
+        "num": 202389,
+        "word": "老人心疼公交司机连续19年送好吃的",
+        "onboard_time": 1687515210,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192835,
+        "num": 192835,
+        "word": "王俊凯向往的生活好能干",
+        "onboard_time": 1687508371,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187811,
+        "num": 187811,
+        "word": "张嘉倪坚强",
+        "onboard_time": 1687512813,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181193,
+        "num": 181193,
+        "word": "遇到了把拍一拍当真的人",
+        "onboard_time": 1687513651,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176415,
+        "num": 176415,
+        "word": "吴磊回应新疆骑行路人打招呼",
+        "onboard_time": 1687488692,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138790,
+        "num": 166245,
+        "word": "螃蟹粽是包粽子难度天花板吧",
+        "onboard_time": 1687516830,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#端午龙舟大片为中国风代言#"
+    }
+  }
+}
