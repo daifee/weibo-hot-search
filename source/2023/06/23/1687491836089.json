@@ -1,0 +1,410 @@
+{
+  "runTime": 1687491836089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3052791,
+        "num": 3052791,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1417536,
+        "num": 1417536,
+        "word": "泰坦号观光艇内爆5名乘员已死亡",
+        "onboard_time": 1687477282,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25243,
+        "num": 1077749,
+        "word": "龙舟漂移有多酷炫",
+        "onboard_time": 1687438711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2183043,
+        "num": 1068616,
+        "word": "汪东城人品",
+        "onboard_time": 1687485752,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1018232,
+        "num": 1018232,
+        "word": "成都UFO",
+        "onboard_time": 1687445436,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951825,
+        "num": 951825,
+        "word": "日本将强制公布艺人真实身份",
+        "onboard_time": 1687477344,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 832160,
+        "num": 832160,
+        "word": "吴磊回应新疆骑行路人打招呼",
+        "onboard_time": 1687488692,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770842,
+        "num": 770842,
+        "word": "泰坦尼克号导演表达震惊",
+        "onboard_time": 1687486172,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 500154,
+        "num": 500154,
+        "word": "Angelababy白鹿起床素颜状态",
+        "onboard_time": 1687482750,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 455258,
+        "num": 455258,
+        "word": "云南分数线",
+        "onboard_time": 1687490071,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1158055,
+        "num": 455222,
+        "word": "宝剑嫂",
+        "onboard_time": 1687490970,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 962794,
+        "num": 455137,
+        "word": "庞颖的詹青云",
+        "onboard_time": 1687481370,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 932554,
+        "num": 455006,
+        "word": "大S经纪人发声明",
+        "onboard_time": 1687481429,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454634,
+        "num": 454634,
+        "word": "Angelababy演戏自称杨幂",
+        "onboard_time": 1687485574,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422525,
+        "num": 422525,
+        "word": "刘亦菲去迪拜了",
+        "onboard_time": 1687476740,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1379234,
+        "num": 417809,
+        "word": "柳智敏",
+        "onboard_time": 1687484311,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395778,
+        "num": 395778,
+        "word": "早期刘昊然",
+        "onboard_time": 1687485693,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319708,
+        "num": 319708,
+        "word": "江西分数线",
+        "onboard_time": 1687485814,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 313450,
+        "num": 313450,
+        "word": "马伯庸 别人发端午安康我回复端午快乐",
+        "onboard_time": 1687432294,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 292871,
+        "num": 292871,
+        "word": "脑袋被粑粑砸到熊猫一动不动",
+        "onboard_time": 1687482931,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 562945,
+        "num": 292798,
+        "word": "原来30岁才是人生的开始",
+        "onboard_time": 1687490370,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 549459,
+        "num": 291985,
+        "word": "明年不结婚的理由找到了",
+        "onboard_time": 1687484731,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 406489,
+        "num": 291560,
+        "word": "繁华似锦定档",
+        "onboard_time": 1687488269,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375629,
+        "num": 291188,
+        "word": "明日方舟",
+        "onboard_time": 1687491092,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375396,
+        "num": 290924,
+        "word": "张雪峰的求生欲",
+        "onboard_time": 1687488031,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 355523,
+        "num": 290193,
+        "word": "上班七个月长胖了22斤",
+        "onboard_time": 1687487731,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350899,
+        "num": 289844,
+        "word": "BKPP 嵩山音乐节",
+        "onboard_time": 1687487191,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322744,
+        "num": 289114,
+        "word": "和弟弟拆了凉席洗洗",
+        "onboard_time": 1687488630,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308849,
+        "num": 288751,
+        "word": "粽子翻车最严重的一次",
+        "onboard_time": 1687490252,
+        "rank": 28,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 302769,
+        "num": 288106,
+        "word": "2023好声音导师官宣",
+        "onboard_time": 1687445014,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288066,
+        "num": 288066,
+        "word": "消失的她",
+        "onboard_time": 1687477523,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264964,
+        "num": 264964,
+        "word": "男子避雨后将屋主晒的菜踢到雨中",
+        "onboard_time": 1687488389,
+        "rank": 31,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 259414,
+        "num": 259414,
+        "word": "警方回应小学生被同学用铁锥扎进小腿",
+        "onboard_time": 1687490790,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 212808,
+        "num": 212808,
+        "word": "文班亚马当选状元",
+        "onboard_time": 1687480708,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205797,
+        "num": 205797,
+        "word": "高考查分",
+        "onboard_time": 1687443876,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203099,
+        "num": 203099,
+        "word": "吉林分数线",
+        "onboard_time": 1687487610,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 192964,
+        "num": 192964,
+        "word": "湖人选中胡德斯基菲诺",
+        "onboard_time": 1687488570,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183042,
+        "num": 183042,
+        "word": "三五千的工资去国外工作",
+        "onboard_time": 1687481069,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170526,
+        "num": 170526,
+        "word": "美国男子冷血枪杀三个亲生儿子",
+        "onboard_time": 1687482809,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170450,
+        "num": 170450,
+        "word": "国产暗恋剧天花板",
+        "onboard_time": 1687477944,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165964,
+        "num": 165964,
+        "word": "保罗被交易至勇士",
+        "onboard_time": 1687476079,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164202,
+        "num": 164202,
+        "word": "送别南京大屠杀幸存者高恒发",
+        "onboard_time": 1687488991,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163964,
+        "num": 163964,
+        "word": "做了防晒为什么还是会黑",
+        "onboard_time": 1687487368,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162204,
+        "num": 162204,
+        "word": "这粽子是犯了天条吗被绑成这样",
+        "onboard_time": 1687448013,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150139,
+        "num": 150139,
+        "word": "偷偷藏不住暗恋be",
+        "onboard_time": 1687491811,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150068,
+        "num": 150068,
+        "word": "没想到别人的工资打我卡上了",
+        "onboard_time": 1687485752,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148420,
+        "num": 148420,
+        "word": "原来火车卧铺真有人自带床帘",
+        "onboard_time": 1687477584,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147240,
+        "num": 147240,
+        "word": "桑稚段嘉许额头吻",
+        "onboard_time": 1687491752,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146903,
+        "num": 146903,
+        "word": "蔡徐坤在车内摘口罩送飞吻",
+        "onboard_time": 1687476441,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143744,
+        "num": 143744,
+        "word": "张萌曾叫秦岚去浪姐",
+        "onboard_time": 1687483053,
+        "rank": 49,
+        "category": "影视,综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宁夏银川燃气爆炸事故作出重要指示#"
+    }
+  }
+}

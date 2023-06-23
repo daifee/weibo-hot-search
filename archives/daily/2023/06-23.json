@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687489962018,
+  "endTime": 1687491836089,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -35,7 +35,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2144762,
+      "raw_hot": 2183043,
       "num": 1440363,
       "word": "汪东城人品",
       "onboard_time": 1687485752,
@@ -75,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1348419,
+      "raw_hot": 1379234,
       "num": 1348419,
       "word": "柳智敏",
       "onboard_time": 1687484311,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1158055,
+      "num": 455222,
+      "word": "宝剑嫂",
+      "onboard_time": 1687490970,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1092239,
@@ -147,8 +155,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 749091,
-      "num": 749091,
+      "raw_hot": 832160,
+      "num": 832160,
+      "word": "吴磊回应新疆骑行路人打招呼",
+      "onboard_time": 1687488692,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 770842,
+      "num": 770842,
       "word": "泰坦尼克号导演表达震惊",
       "onboard_time": 1687486172,
       "rank": 39,
@@ -187,14 +203,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 621198,
-      "num": 621198,
-      "word": "吴磊回应新疆骑行路人打招呼",
-      "onboard_time": 1687488692,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 577850,
       "num": 577850,
       "word": "沙溢长风渡下线",
@@ -209,6 +217,14 @@
       "onboard_time": 1687480708,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562945,
+      "num": 292798,
+      "word": "原来30岁才是人生的开始",
+      "onboard_time": 1687490370,
+      "rank": 20,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 544040,
@@ -323,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 455258,
+      "num": 455258,
+      "word": "云南分数线",
+      "onboard_time": 1687490071,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 452141,
       "num": 313895,
       "word": "繁华似锦定档",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 437308,
-      "num": 261625,
+      "num": 289114,
       "word": "和弟弟拆了凉席洗洗",
       "onboard_time": 1687488630,
       "rank": 30,
@@ -393,6 +417,14 @@
       "onboard_time": 1687477584,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 375629,
+      "num": 291188,
+      "word": "明日方舟",
+      "onboard_time": 1687491092,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 363802,
@@ -465,6 +497,14 @@
       "onboard_time": 1687476079,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308849,
+      "num": 288751,
+      "word": "粽子翻车最严重的一次",
+      "onboard_time": 1687490252,
+      "rank": 28,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 305638,
@@ -553,6 +593,14 @@
       "onboard_time": 1687481971,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259414,
+      "num": 259414,
+      "word": "警方回应小学生被同学用铁锥扎进小腿",
+      "onboard_time": 1687490790,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259248,
@@ -896,6 +944,22 @@
       "word": "赵露思马伯骞直播也能吵起来",
       "onboard_time": 1687439191,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150139,
+      "num": 150139,
+      "word": "偷偷藏不住暗恋be",
+      "onboard_time": 1687491811,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147240,
+      "num": 147240,
+      "word": "桑稚段嘉许额头吻",
+      "onboard_time": 1687491752,
+      "rank": 47,
       "category": "影视"
     },
     {
