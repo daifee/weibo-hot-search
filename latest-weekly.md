@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 06:18:18
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 06:36:59
 </p>
 </blockquote>
 <p>
@@ -9279,6 +9279,12 @@ DRG对战EDGM（热度：101163）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+2023高考分数线汇总（热度：87861）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%AB%99%E5%8F%B0%E6%99%95%E5%80%92%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E6%8A%B1%E4%B8%8A%E8%BD%A6%E7%9B%B8%E6%95%91%23" target="weibo">
 女子站台晕倒公交司机抱上车相救（热度：85115）
 </a>
@@ -9525,12 +9531,6 @@ NIP对战WE（热度：77082）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-2023高考分数线汇总（热度：63003）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%88%AA%E6%8B%8D%E4%B8%8A%E5%8D%83%E5%A3%AE%E5%A3%AB%E6%8A%AC%E9%BE%99%E8%88%9F%E5%A4%AA%E9%9C%87%E6%92%BC%23" target="weibo">
 网友航拍上千壮士抬龙舟太震撼（热度：61621）
 </a>
@@ -9741,14 +9741,14 @@ NCTDREAM新歌空降（热度：37491）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E4%B8%96%E5%AE%89%E6%9F%B3%E7%8E%89%E8%8C%B9%23" target="weibo">
-叶世安柳玉茹（热度：36007）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+全国各地高考分数线汇总（热度：36169）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-全国各地高考分数线汇总（热度：35221）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E4%B8%96%E5%AE%89%E6%9F%B3%E7%8E%89%E8%8C%B9%23" target="weibo">
+叶世安柳玉茹（热度：36007）
 </a>
 </li>
 
