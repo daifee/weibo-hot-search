@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687520052056,
+  "endTime": 1687523866864,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -11,8 +11,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 3851448,
-      "num": 3851448,
+      "raw_hot": 4169792,
+      "num": 4169792,
       "word": "白玉兰颁奖",
       "onboard_time": 1687518270,
       "rank": 3,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2386457,
+      "num": 2386457,
+      "word": "狂飙",
+      "onboard_time": 1687519592,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2288411,
       "num": 795239,
       "word": "宝剑嫂",
@@ -91,20 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2099691,
+      "num": 2099691,
+      "word": "张译 张颂文",
+      "onboard_time": 1687521514,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2020629,
+      "num": 2020629,
+      "word": "男生高考查分601激动满屋蹦跳",
+      "onboard_time": 1687517492,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1974259,
       "num": 1974259,
       "word": "鹿晗问陈赫抢到票了吗",
       "onboard_time": 1687508972,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1825555,
-      "num": 1825555,
-      "word": "男生高考查分601激动满屋蹦跳",
-      "onboard_time": 1687517492,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1723005,
@@ -153,6 +169,14 @@
       "onboard_time": 1687448971,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1449370,
+      "num": 1449370,
+      "word": "马嘉祺 六斤",
+      "onboard_time": 1687520073,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1404182,
@@ -275,6 +299,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 965507,
+      "num": 719056,
+      "word": "朱一龙路演被观众扔东西",
+      "onboard_time": 1687522593,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 960865,
       "num": 960865,
       "word": "银川烧烤店爆炸事故伤者家属发声",
@@ -395,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822318,
+      "num": 822318,
+      "word": "男生高考查分584父子俩笑得合不拢嘴",
+      "onboard_time": 1687521093,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 812748,
       "num": 812748,
       "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
@@ -419,6 +459,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 751254,
+      "num": 708773,
+      "word": "泰坦号潜水器前乘客曝恐怖经历",
+      "onboard_time": 1687520972,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724316,
       "num": 486608,
       "word": "明年不结婚的理由找到了",
@@ -427,12 +475,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 722536,
+      "num": 722536,
+      "word": "只有广东人是真心想救屈原的",
+      "onboard_time": 1687517251,
+      "rank": 18,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 716089,
       "num": 716089,
       "word": "偷偷藏不住暗恋be",
       "onboard_time": 1687491811,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 695563,
+      "num": 695563,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1687518570,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 693672,
@@ -449,14 +513,6 @@
       "onboard_time": 1687449034,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666259,
-      "num": 666259,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1687518570,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 663489,
@@ -499,6 +555,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 630441,
+      "num": 310900,
+      "word": "孟美岐北京演唱会",
+      "onboard_time": 1687520432,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 604354,
       "num": 604354,
       "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
@@ -521,14 +585,6 @@
       "onboard_time": 1687502733,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581851,
-      "num": 581851,
-      "word": "只有广东人是真心想救屈原的",
-      "onboard_time": 1687517251,
-      "rank": 18,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 577850,
@@ -571,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 562974,
+      "num": 309851,
+      "word": "赵丽颖中国电视剧海外推广大使",
+      "onboard_time": 1687523433,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558747,
       "num": 558747,
       "word": "李雪琴高中扎马尾照片",
@@ -611,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522229,
+      "num": 522229,
+      "word": "原神",
+      "onboard_time": 1687521934,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 521693,
       "num": 521693,
       "word": "早期刘昊然",
@@ -649,6 +721,14 @@
       "onboard_time": 1687485574,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510109,
+      "num": 510109,
+      "word": "在简历里撒了谎却得到这份工作的我",
+      "onboard_time": 1687518570,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 508543,
@@ -713,6 +793,14 @@
       "onboard_time": 1687482931,
       "rank": 26,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 475593,
+      "num": 342396,
+      "word": "上海电视节白玉兰绽放",
+      "onboard_time": 1687504651,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 473786,
@@ -811,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 425349,
-      "num": 252485,
-      "word": "在简历里撒了谎却得到这份工作的我",
-      "onboard_time": 1687518570,
-      "rank": 31,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 424222,
       "num": 418257,
       "word": "法国男子十年间近百次找陌生人强奸妻子",
@@ -848,14 +928,6 @@
       "word": "赵丽颖黑色复古裙",
       "onboard_time": 1687442313,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 390389,
-      "num": 274658,
-      "word": "狂飙",
-      "onboard_time": 1687519592,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -923,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380795,
-      "num": 342396,
-      "word": "上海电视节白玉兰绽放",
-      "onboard_time": 1687504651,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 377857,
       "num": 377857,
       "word": "bw",
@@ -995,6 +1059,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354189,
+      "num": 354189,
+      "word": "地铁里挤过来一个静脉曲张",
+      "onboard_time": 1687522413,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 353260,
+      "num": 287239,
+      "word": "狂飙剧组没红毯",
+      "onboard_time": 1687522055,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351866,
       "num": 351866,
       "word": "女孩中考物理化学双科满分",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1687495772,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340521,
+      "num": 285623,
+      "word": "当我飞奔向你",
+      "onboard_time": 1687521994,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 337401,
@@ -1099,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313544,
+      "num": 313544,
+      "word": "旅韩大熊猫福宝将回国相亲",
+      "onboard_time": 1687522832,
+      "rank": 24,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 310335,
       "num": 310335,
       "word": "泰坦尼克号",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1687490252,
       "rank": 28,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 307064,
+      "num": 307064,
+      "word": "这就是我开放朋友圈的意义",
+      "onboard_time": 1687523254,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 306644,
@@ -1257,6 +1361,30 @@
       "onboard_time": 1687502189,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278008,
+      "num": 278008,
+      "word": "二位娘娘可是来找许仙的",
+      "onboard_time": 1687521873,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 275804,
+      "num": 275804,
+      "word": "长风渡",
+      "onboard_time": 1687521572,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275652,
+      "num": 275652,
+      "word": "老人突发疾病临终前将孙子托付店主",
+      "onboard_time": 1687520792,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273276,
@@ -1396,7 +1524,7 @@
     },
     {
       "raw_hot": 257684,
-      "num": 219782,
+      "num": 239390,
       "word": "奔跑吧",
       "onboard_time": 1687518212,
       "rank": 40,
@@ -1409,6 +1537,14 @@
       "onboard_time": 1687517428,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257042,
+      "num": 257042,
+      "word": "王珞丹当评委",
+      "onboard_time": 1687520130,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 254188,
@@ -1433,6 +1569,14 @@
       "onboard_time": 1687499432,
       "rank": 33,
       "category": "影视,美食"
+    },
+    {
+      "raw_hot": 250827,
+      "num": 250827,
+      "word": "金晨公主头",
+      "onboard_time": 1687523796,
+      "rank": 44,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 250242,
@@ -1553,6 +1697,14 @@
       "onboard_time": 1687450348,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 231275,
+      "num": 231275,
+      "word": "TES对战JDG",
+      "onboard_time": 1687521456,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 230926,
@@ -2123,6 +2275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130367,
+      "num": 706834,
+      "word": "原神3.8版本直播",
+      "onboard_time": 1687521635,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118707,
       "num": 2016896,
       "word": "遇到燃气泄漏应该如何处理",
@@ -2180,7 +2340,7 @@
     },
     {
       "raw_hot": 77250,
-      "num": 1780586,
+      "num": 2198262,
       "word": "北斗全球卫星导航系统星座部署完成三周年",
       "onboard_time": 1687517492,
       "rank": 2,
