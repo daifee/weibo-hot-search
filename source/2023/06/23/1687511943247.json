@@ -1,0 +1,410 @@
+{
+  "runTime": 1687511943247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2728569,
+        "num": 2728569,
+        "word": "外星人或正在利用超新星爆炸引人类注意",
+        "onboard_time": 1687505971,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1974259,
+        "num": 1974259,
+        "word": "鹿晗问陈赫抢到票了吗",
+        "onboard_time": 1687508972,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118707,
+        "num": 1665079,
+        "word": "遇到燃气泄漏应该如何处理",
+        "onboard_time": 1687508671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488768,
+        "num": 1488768,
+        "word": "山东已现43℃以上高温",
+        "onboard_time": 1687503330,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181612,
+        "num": 1181612,
+        "word": "傅韵哲高考成绩",
+        "onboard_time": 1687505550,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942891,
+        "num": 942891,
+        "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+        "onboard_time": 1687500511,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840707,
+        "num": 840707,
+        "word": "银川爆炸事故第1晚顾客坐店外就餐",
+        "onboard_time": 1687507230,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792390,
+        "num": 792390,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 746954,
+        "num": 746954,
+        "word": "白玉兰提名",
+        "onboard_time": 1687509870,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 718733,
+        "num": 718733,
+        "word": "什么叫内爆",
+        "onboard_time": 1687498652,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963614,
+        "num": 665618,
+        "word": "辰亦儒曾之乔好好嗑",
+        "onboard_time": 1687502850,
+        "rank": 10,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 865464,
+        "num": 665405,
+        "word": "张嘉倪因为四公错过外婆追悼会",
+        "onboard_time": 1687510414,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598039,
+        "num": 598039,
+        "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
+        "onboard_time": 1687507230,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 579866,
+        "num": 579866,
+        "word": "景区网红大雁被游客踢中要害离世",
+        "onboard_time": 1687496432,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552507,
+        "num": 552507,
+        "word": "青鸟改编 难评",
+        "onboard_time": 1687496912,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452270,
+        "num": 452270,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428985,
+        "num": 428985,
+        "word": "女子账户被骗158万民警帮忙全找回",
+        "onboard_time": 1687507049,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379645,
+        "num": 379645,
+        "word": "41℃高温把衣服晒着了",
+        "onboard_time": 1687496613,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 350084,
+        "num": 350084,
+        "word": "刘宪华官宣加盟中国好声音",
+        "onboard_time": 1687497755,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350008,
+        "num": 350008,
+        "word": "宝剑嫂",
+        "onboard_time": 1687490970,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 924763,
+        "num": 339933,
+        "word": "男子10年间找陌生人强奸妻子近百次",
+        "onboard_time": 1687510231,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913899,
+        "num": 334401,
+        "word": "没房贷的下属太可怕了",
+        "onboard_time": 1687508010,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327580,
+        "num": 327580,
+        "word": "上海电视节白玉兰绽放",
+        "onboard_time": 1687504651,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327557,
+        "num": 327557,
+        "word": "王俊凯向往的生活好能干",
+        "onboard_time": 1687508371,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320594,
+        "num": 320594,
+        "word": "WB让二追三",
+        "onboard_time": 1687510171,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313650,
+        "num": 313650,
+        "word": "青鸟",
+        "onboard_time": 1687495352,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309096,
+        "num": 309096,
+        "word": "复旦录取通知书一纸千年",
+        "onboard_time": 1687508312,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 288140,
+        "num": 288140,
+        "word": "泰坦号观光艇内爆5名乘员已死亡",
+        "onboard_time": 1687477282,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284340,
+        "num": 284340,
+        "word": "泰坦尼克号导演表达震惊",
+        "onboard_time": 1687486172,
+        "rank": 28,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 281449,
+        "num": 281449,
+        "word": "大S经纪人发声明",
+        "onboard_time": 1687481429,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279544,
+        "num": 279544,
+        "word": "专家释疑本轮高温成因",
+        "onboard_time": 1687511373,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275948,
+        "num": 275948,
+        "word": "制片人说迪丽热巴在90后数一数二",
+        "onboard_time": 1687502733,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260233,
+        "num": 260233,
+        "word": "aespa机场穿出了四个季节",
+        "onboard_time": 1687511551,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249632,
+        "num": 249632,
+        "word": "朱珠好勾人",
+        "onboard_time": 1687504711,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245400,
+        "num": 245400,
+        "word": "董事长开车进长城被拒强拆大门",
+        "onboard_time": 1687511851,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241004,
+        "num": 241004,
+        "word": "李雪琴高中扎马尾照片",
+        "onboard_time": 1687493433,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238776,
+        "num": 238776,
+        "word": "其实感情最怕的就是拖着",
+        "onboard_time": 1687510531,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223453,
+        "num": 223453,
+        "word": "郑秀妍在Amber衣服上留下唇印",
+        "onboard_time": 1687508010,
+        "rank": 37,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 219815,
+        "num": 219815,
+        "word": "偷偷藏不住暗恋be",
+        "onboard_time": 1687491811,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213672,
+        "num": 213672,
+        "word": "列车关门瞬间男孩跑出车厢",
+        "onboard_time": 1687507892,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211289,
+        "num": 211289,
+        "word": "陈哲远吻戏好欲",
+        "onboard_time": 1687504051,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204957,
+        "num": 204957,
+        "word": "如何聊出自带BGM的天",
+        "onboard_time": 1687511791,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 201654,
+        "num": 201654,
+        "word": "全职儿女是变相啃老吗",
+        "onboard_time": 1687508791,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191317,
+        "num": 191317,
+        "word": "消失的她",
+        "onboard_time": 1687477523,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187565,
+        "num": 187565,
+        "word": "男朋友打工前后的心态变化",
+        "onboard_time": 1687509870,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 184148,
+        "num": 184148,
+        "word": "大熊猫七仔也收到了粽子节伴手礼",
+        "onboard_time": 1687511251,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184025,
+        "num": 184025,
+        "word": "汪东城人品",
+        "onboard_time": 1687485752,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175048,
+        "num": 175048,
+        "word": "温碧霞和她老公合照",
+        "onboard_time": 1687505009,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173627,
+        "num": 173627,
+        "word": "超40℃高温越来越频繁了吗",
+        "onboard_time": 1687510772,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108313,
+        "num": 171735,
+        "word": "KPL",
+        "onboard_time": 1687508851,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#端午龙舟大片为中国风代言#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 16:37:58
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/23 17:19:03
 </p>
 </blockquote>
 <p>
@@ -653,6 +653,12 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%BE%E6%A0%87%E4%B8%80%E5%8D%B7%20%E6%95%85%E4%BA%8B%E6%98%AF%E6%9C%89%E5%8A%9B%E9%87%8F%E7%9A%84%23" target="weibo">
 新课标一卷 故事是有力量的（热度：2731716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23" target="weibo">
+外星人或正在利用超新星爆炸引人类注意（热度：2728569）
 </a>
 </li>
 
@@ -1631,6 +1637,12 @@ Angelababy是靠什么长红多年的（热度：1990762）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E9%AB%98%E6%A0%A1%E9%A5%AD%E8%8F%9C%E5%BC%82%E7%89%A9%E6%98%AF%E9%B8%AD%E8%84%96%23" target="weibo">
 市监局再次确认高校饭菜异物是鸭脖（热度：1976925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%97%AE%E9%99%88%E8%B5%AB%E6%8A%A2%E5%88%B0%E7%A5%A8%E4%BA%86%E5%90%97%23" target="weibo">
+鹿晗问陈赫抢到票了吗（热度：1974259）
 </a>
 </li>
 
@@ -3665,12 +3677,6 @@ Jennie去爬山了（热度：1318773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%20%E5%BF%AB%E8%B5%B0%E5%90%A7%E5%93%A5%E4%BB%AC%E8%A6%81%E7%B4%AF%E6%AD%BB%E4%BA%86%23" target="weibo">
 吴磊 快走吧哥们要累死了（热度：1289325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E6%AD%A3%E5%9C%A8%E5%88%A9%E7%94%A8%E8%B6%85%E6%96%B0%E6%98%9F%E7%88%86%E7%82%B8%E5%BC%95%E4%BA%BA%E7%B1%BB%E6%B3%A8%E6%84%8F%23" target="weibo">
-外星人或正在利用超新星爆炸引人类注意（热度：1285623）
 </a>
 </li>
 
@@ -5823,6 +5829,12 @@ Jennie巡演翻白眼（热度：927985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9010%E5%B9%B4%E9%97%B4%E6%89%BE%E9%99%8C%E7%94%9F%E4%BA%BA%E5%BC%BA%E5%A5%B8%E5%A6%BB%E5%AD%90%E8%BF%91%E7%99%BE%E6%AC%A1%23" target="weibo">
+男子10年间找陌生人强奸妻子近百次（热度：924763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%B2%E8%BF%B0%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%23" target="weibo">
 目击者讲述银川烧烤店爆炸（热度：922135）
 </a>
@@ -5879,6 +5891,12 @@ Jennie巡演翻白眼（热度：927985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%A7%9F%E6%88%BF%E8%A3%85%E7%9A%84%E7%A9%BA%E8%B0%83%E6%98%AF5%E7%BA%A7%E8%83%BD%E8%80%97%23" target="weibo">
 出租房装的空调是5级能耗（热度：914174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%88%BF%E8%B4%B7%E7%9A%84%E4%B8%8B%E5%B1%9E%E5%A4%AA%E5%8F%AF%E6%80%95%E4%BA%86%23" target="weibo">
+没房贷的下属太可怕了（热度：913899）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ SEVENTEEN要来广州开签售会（热度：903926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E6%B3%B3%E8%A3%85%23" target="weibo">
 林志玲泳装（热度：900578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23" target="weibo">
-青岛1米88大长腿交警回应走红（热度：900124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E5%A4%AB%E5%A6%87vs%E6%98%A5%E6%99%93%E5%A4%AB%E5%A6%87%23" target="weibo">
-余生夫妇vs春晓夫妇（热度：896426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Lisa%E7%95%99%E5%88%98%E6%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-Lisa留刘海的原因（热度：896423）
 </a>
 </li>
 

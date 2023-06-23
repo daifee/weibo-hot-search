@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687509478695,
+  "endTime": 1687511943247,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -17,6 +17,14 @@
       "onboard_time": 1687445436,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2728569,
+      "num": 2728569,
+      "word": "外星人或正在利用超新星爆炸引人类注意",
+      "onboard_time": 1687505971,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 2670901,
@@ -65,6 +73,14 @@
       "onboard_time": 1687485752,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1974259,
+      "num": 1974259,
+      "word": "鹿晗问陈赫抢到票了吗",
+      "onboard_time": 1687508972,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 1723005,
@@ -145,14 +161,6 @@
       "onboard_time": 1687496613,
       "rank": 22,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 1285623,
-      "num": 1285623,
-      "word": "外星人或正在利用超新星爆炸引人类注意",
-      "onboard_time": 1687505971,
-      "rank": 7,
-      "category": "科技"
     },
     {
       "raw_hot": 1249229,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924763,
+      "num": 339933,
+      "word": "男子10年间找陌生人强奸妻子近百次",
+      "onboard_time": 1687510231,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922104,
       "num": 922104,
       "word": "刘宪华官宣加盟中国好声音",
@@ -251,12 +267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913899,
+      "num": 386749,
+      "word": "没房贷的下属太可怕了",
+      "onboard_time": 1687508010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 910765,
-      "num": 677540,
+      "num": 840707,
       "word": "银川爆炸事故第1晚顾客坐店外就餐",
       "onboard_time": 1687507230,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865464,
+      "num": 665405,
+      "word": "张嘉倪因为四公错过外婆追悼会",
+      "onboard_time": 1687510414,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 841028,
@@ -291,6 +323,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 746954,
+      "num": 746954,
+      "word": "白玉兰提名",
+      "onboard_time": 1687509870,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 724316,
       "num": 486608,
       "word": "明年不结婚的理由找到了",
@@ -323,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670958,
-      "num": 386749,
-      "word": "没房贷的下属太可怕了",
-      "onboard_time": 1687508010,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 651601,
       "num": 368510,
       "word": "三五千的工资去国外工作",
@@ -355,12 +387,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 633945,
-      "num": 633945,
-      "word": "鹿晗问陈赫抢到票了吗",
-      "onboard_time": 1687508972,
-      "rank": 12,
-      "category": "音乐"
+      "raw_hot": 598039,
+      "num": 598039,
+      "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
+      "onboard_time": 1687507230,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 583314,
@@ -409,14 +441,6 @@
       "onboard_time": 1687493433,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556133,
-      "num": 282280,
-      "word": "北大毕业妈妈在女儿婚礼上的6分钟发言",
-      "onboard_time": 1687507230,
-      "rank": 30,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 552155,
@@ -803,6 +827,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 327580,
+      "num": 327580,
+      "word": "上海电视节白玉兰绽放",
+      "onboard_time": 1687504651,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327557,
+      "num": 327557,
+      "word": "王俊凯向往的生活好能干",
+      "onboard_time": 1687508371,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326724,
       "num": 326724,
       "word": "朱珠好勾人",
@@ -817,6 +857,14 @@
       "onboard_time": 1687423712,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320594,
+      "num": 320594,
+      "word": "WB让二追三",
+      "onboard_time": 1687510171,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 316277,
@@ -907,14 +955,6 @@
       "category": "影视,综艺"
     },
     {
-      "raw_hot": 299514,
-      "num": 299514,
-      "word": "王俊凯向往的生活好能干",
-      "onboard_time": 1687508371,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297881,
       "num": 297881,
       "word": "云南人真的像小精灵",
@@ -977,6 +1017,14 @@
       "onboard_time": 1687508010,
       "rank": 34,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 279544,
+      "num": 279544,
+      "word": "专家释疑本轮高温成因",
+      "onboard_time": 1687511373,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278425,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1687481971,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260233,
+      "num": 260233,
+      "word": "aespa机场穿出了四个季节",
+      "onboard_time": 1687511551,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 259414,
@@ -1147,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245400,
+      "num": 245400,
+      "word": "董事长开车进长城被拒强拆大门",
+      "onboard_time": 1687511851,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242783,
       "num": 242783,
       "word": "做了防晒为什么还是会黑",
@@ -1179,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238776,
+      "num": 238776,
+      "word": "其实感情最怕的就是拖着",
+      "onboard_time": 1687510531,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237131,
       "num": 237131,
       "word": "陈哲远他好满意自己的rap",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1687450348,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 233782,
-      "num": 233782,
-      "word": "上海电视节白玉兰绽放",
-      "onboard_time": 1687504651,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 230926,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1687440392,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 204957,
+      "num": 204957,
+      "word": "如何聊出自带BGM的天",
+      "onboard_time": 1687511791,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 204787,
@@ -1451,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187565,
+      "num": 187565,
+      "word": "男朋友打工前后的心态变化",
+      "onboard_time": 1687509870,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 186222,
       "num": 186222,
       "word": "小奶娃手卡蒸屉哭得人心疼",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1687493789,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184148,
+      "num": 184148,
+      "word": "大熊猫七仔也收到了粽子节伴手礼",
+      "onboard_time": 1687511251,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183451,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1687505730,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173627,
+      "num": 173627,
+      "word": "超40℃高温越来越频繁了吗",
+      "onboard_time": 1687510772,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170288,
@@ -1659,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118707,
+      "num": 1665079,
+      "word": "遇到燃气泄漏应该如何处理",
+      "onboard_time": 1687508671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96871,
       "num": 526791,
       "word": "父母35年寻子网友看电视帮找到",
@@ -1751,14 +1855,6 @@
       "num": 2122844,
       "word": "龙舟漂移有多酷炫",
       "onboard_time": 1687438711,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66189,
-      "num": 1427214,
-      "word": "遇到燃气泄漏应该如何处理",
-      "onboard_time": 1687508671,
       "rank": 2,
       "category": "社会新闻"
     },
