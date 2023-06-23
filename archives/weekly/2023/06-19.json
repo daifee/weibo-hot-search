@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687498561217,
+  "endTime": 1687501559359,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -475,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2284255,
+      "num": 2284255,
+      "word": "青鸟",
+      "onboard_time": 1687495352,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2260185,
       "num": 728090,
       "word": "黄景瑜说和前任是亲人也是朋友",
@@ -585,14 +593,6 @@
       "onboard_time": 1687430550,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1992474,
-      "num": 1992474,
-      "word": "青鸟",
-      "onboard_time": 1687495352,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1978240,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1373722,
+      "num": 1373722,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1371172,
       "num": 1371172,
       "word": "顾漫马甲",
@@ -1171,12 +1179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306166,
+      "num": 1306166,
+      "word": "41℃高温把衣服晒着了",
+      "onboard_time": 1687496613,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1299025,
       "num": 1299025,
       "word": "萧煌奇回应不是盲人",
       "onboard_time": 1687309114,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1296556,
+      "num": 652786,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1293958,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1687314987,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1272959,
-      "num": 1272959,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1263592,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1687219531,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112543,
+      "num": 1112543,
+      "word": "青鸟改编 难评",
+      "onboard_time": 1687496912,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1111590,
@@ -1987,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862261,
+      "num": 862261,
+      "word": "刘宪华官宣加盟中国好声音",
+      "onboard_time": 1687497755,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 858175,
       "num": 858175,
       "word": "男孩称后背痒植物人父亲用尽全力抬手",
@@ -2001,14 +2033,6 @@
       "onboard_time": 1687087287,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 850729,
-      "num": 850729,
-      "word": "41℃高温把衣服晒着了",
-      "onboard_time": 1687496613,
-      "rank": 22,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 848278,
@@ -2057,14 +2081,6 @@
       "onboard_time": 1687133847,
       "rank": 6,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 837476,
-      "num": 837476,
-      "word": "青鸟改编 难评",
-      "onboard_time": 1687496912,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 832160,
@@ -2499,6 +2515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 693672,
+      "num": 693672,
+      "word": "盆栽哥Jennie合作曲上线",
+      "onboard_time": 1687498172,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 691940,
       "num": 691940,
       "word": "临死前身体会发生的100种奇怪反应",
@@ -2811,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590599,
+      "num": 590599,
+      "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+      "onboard_time": 1687500511,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590463,
       "num": 590463,
       "word": "长风渡导演看偷偷藏不住直播",
@@ -2945,6 +2977,14 @@
       "onboard_time": 1687408957,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 565809,
+      "num": 565809,
+      "word": "上海分数线",
+      "onboard_time": 1687500211,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 565401,
@@ -3387,14 +3427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 501508,
-      "num": 501508,
-      "word": "盆栽哥Jennie合作曲上线",
-      "onboard_time": 1687498172,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 499342,
       "num": 413268,
       "word": "第一次看男朋友的浏览器",
@@ -3619,14 +3651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462004,
-      "num": 462004,
-      "word": "刘宪华官宣加盟中国好声音",
-      "onboard_time": 1687497755,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 460130,
       "num": 414405,
       "word": "偷偷藏不住",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1687431212,
       "rank": 6,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 438223,
+      "num": 438223,
+      "word": "朋友圈里的统一回复",
+      "onboard_time": 1687498652,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 437308,
@@ -4171,6 +4203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400423,
+      "num": 400423,
+      "word": "难哄",
+      "onboard_time": 1687263331,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399139,
       "num": 399139,
       "word": "原来荔枝也可以缓解痛经",
@@ -4395,6 +4435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 383630,
+      "num": 383630,
+      "word": "王俊凯王勉用柴锅做饭",
+      "onboard_time": 1687498531,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383209,
       "num": 383209,
       "word": "实名注册手机卡不注销的后果",
@@ -4457,14 +4505,6 @@
       "onboard_time": 1687492050,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 376784,
-      "num": 376784,
-      "word": "难哄",
-      "onboard_time": 1687263331,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 376262,
@@ -4771,6 +4811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348831,
+      "num": 348831,
+      "word": "秋瓷炫唱的是中文还是泰文",
+      "onboard_time": 1687499432,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348070,
       "num": 348070,
       "word": "银川烧烤店爆炸事故9名责任人被控制",
@@ -4867,6 +4915,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 343205,
+      "num": 343205,
+      "word": "电动车上的公仔全被偷了",
+      "onboard_time": 1687501170,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 341625,
       "num": 264635,
       "word": "很想很想你",
@@ -4913,14 +4969,6 @@
       "onboard_time": 1687335819,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339581,
-      "num": 339581,
-      "word": "王俊凯王勉用柴锅做饭",
-      "onboard_time": 1687498531,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 339550,
@@ -6411,6 +6459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257710,
+      "num": 257710,
+      "word": "到底是谁在惯着这些公司",
+      "onboard_time": 1687500812,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257424,
       "num": 257424,
       "word": "白敬亭跟剧方争取的愿如长风OST",
@@ -6579,6 +6635,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 251661,
+      "num": 251661,
+      "word": "午夜恰恰 上半场最佳",
+      "onboard_time": 1687499432,
+      "rank": 33,
+      "category": "影视,美食"
+    },
+    {
       "raw_hot": 251294,
       "num": 251294,
       "word": "放假躺两天是年轻人的生活方式吗",
@@ -6681,6 +6745,14 @@
       "onboard_time": 1687347334,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247511,
+      "num": 248013,
+      "word": "教师真的会偏爱某个班级吗",
+      "onboard_time": 1687495352,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 246866,
@@ -7443,14 +7515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 221742,
-      "num": 248013,
-      "word": "教师真的会偏爱某个班级吗",
-      "onboard_time": 1687495352,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221637,
       "num": 221637,
       "word": "孟美岐北京演唱会彩排照",
@@ -8153,6 +8217,14 @@
       "onboard_time": 1687305510,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201400,
+      "num": 201400,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 201279,
@@ -9049,6 +9121,14 @@
       "onboard_time": 1687133967,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175813,
+      "num": 183973,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175651,
@@ -11091,6 +11171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60924,
+      "num": 183818,
+      "word": "水上飞人加新项目了吗",
+      "onboard_time": 1687500930,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 59530,
       "num": 1001808,
       "word": "中国制造究竟有多牛",
@@ -11247,6 +11335,14 @@
       "num": 829022,
       "word": "女子打车给消防送粽子西瓜消暑过节",
       "onboard_time": 1687431634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39752,
+      "num": 572930,
+      "word": "网友航拍上千壮士抬龙舟太震撼",
+      "onboard_time": 1687500095,
       "rank": 14,
       "category": "社会新闻"
     },

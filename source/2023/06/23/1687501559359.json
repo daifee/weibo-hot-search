@@ -1,0 +1,410 @@
+{
+  "runTime": 1687501559359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2284255,
+        "num": 2284255,
+        "word": "青鸟",
+        "onboard_time": 1687495352,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1441277,
+        "num": 1441277,
+        "word": "高考分数线",
+        "onboard_time": 1687482991,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 14893,
+        "num": 1383145,
+        "word": "龙舟漂移有多酷炫",
+        "onboard_time": 1687438711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373722,
+        "num": 1373722,
+        "word": "景区网红大雁被游客踢中要害离世",
+        "onboard_time": 1687496432,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306166,
+        "num": 1306166,
+        "word": "41℃高温把衣服晒着了",
+        "onboard_time": 1687496613,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1112543,
+        "num": 1112543,
+        "word": "青鸟改编 难评",
+        "onboard_time": 1687496912,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 891119,
+        "num": 891119,
+        "word": "成都UFO",
+        "onboard_time": 1687445436,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862261,
+        "num": 862261,
+        "word": "刘宪华官宣加盟中国好声音",
+        "onboard_time": 1687497755,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767835,
+        "num": 767835,
+        "word": "泰坦号观光艇内爆5名乘员已死亡",
+        "onboard_time": 1687477282,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693672,
+        "num": 693672,
+        "word": "盆栽哥Jennie合作曲上线",
+        "onboard_time": 1687498172,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1296556,
+        "num": 652786,
+        "word": "什么叫内爆",
+        "onboard_time": 1687498652,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917623,
+        "num": 639523,
+        "word": "宝剑嫂",
+        "onboard_time": 1687490970,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 590599,
+        "num": 590599,
+        "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+        "onboard_time": 1687500511,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582973,
+        "num": 582973,
+        "word": "大S经纪人发声明",
+        "onboard_time": 1687481429,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39752,
+        "num": 572930,
+        "word": "网友航拍上千壮士抬龙舟太震撼",
+        "onboard_time": 1687500095,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565809,
+        "num": 565809,
+        "word": "上海分数线",
+        "onboard_time": 1687500211,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 528732,
+        "num": 528732,
+        "word": "汪东城人品",
+        "onboard_time": 1687485752,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478628,
+        "num": 478628,
+        "word": "偷偷藏不住暗恋be",
+        "onboard_time": 1687491811,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476177,
+        "num": 476177,
+        "word": "分数线 砍一刀",
+        "onboard_time": 1687495172,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 458343,
+        "num": 458343,
+        "word": "泰坦尼克号导演表达震惊",
+        "onboard_time": 1687486172,
+        "rank": 19,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 438223,
+        "num": 438223,
+        "word": "朋友圈里的统一回复",
+        "onboard_time": 1687498652,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436866,
+        "num": 436866,
+        "word": "日本将强制公布艺人真实身份",
+        "onboard_time": 1687477344,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 417951,
+        "num": 417951,
+        "word": "李雪琴高中扎马尾照片",
+        "onboard_time": 1687493433,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400423,
+        "num": 400423,
+        "word": "难哄",
+        "onboard_time": 1687498111,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383630,
+        "num": 383630,
+        "word": "王俊凯王勉用柴锅做饭",
+        "onboard_time": 1687498531,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348831,
+        "num": 348831,
+        "word": "秋瓷炫唱的是中文还是泰文",
+        "onboard_time": 1687499432,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343205,
+        "num": 343205,
+        "word": "电动车上的公仔全被偷了",
+        "onboard_time": 1687501170,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330976,
+        "num": 330976,
+        "word": "Angelababy白鹿起床素颜状态",
+        "onboard_time": 1687482750,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 295715,
+        "num": 295715,
+        "word": "云南人真的像小精灵",
+        "onboard_time": 1687497572,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293429,
+        "num": 293429,
+        "word": "宋轶回应天选柳玉茹",
+        "onboard_time": 1687497032,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263725,
+        "num": 263725,
+        "word": "吴磊回应新疆骑行路人打招呼",
+        "onboard_time": 1687488692,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257710,
+        "num": 257710,
+        "word": "到底是谁在惯着这些公司",
+        "onboard_time": 1687500812,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256327,
+        "num": 256327,
+        "word": "原来30岁才是人生的开始",
+        "onboard_time": 1687490370,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 251661,
+        "num": 251661,
+        "word": "午夜恰恰 上半场最佳",
+        "onboard_time": 1687499432,
+        "rank": 33,
+        "category": "影视,美食"
+      },
+      {
+        "raw_hot": 157551,
+        "num": 248814,
+        "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
+        "onboard_time": 1687491931,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247511,
+        "num": 247511,
+        "word": "教师真的会偏爱某个班级吗",
+        "onboard_time": 1687495352,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231439,
+        "num": 231439,
+        "word": "Uzi通宵训练",
+        "onboard_time": 1687495772,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229996,
+        "num": 229996,
+        "word": "刘亦菲去迪拜了",
+        "onboard_time": 1687476740,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228278,
+        "num": 228278,
+        "word": "消失的她",
+        "onboard_time": 1687477523,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227610,
+        "num": 227610,
+        "word": "美依礼芽青鸟开口跪",
+        "onboard_time": 1687497094,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220544,
+        "num": 220544,
+        "word": "广东揭阳一龙舟侧翻2人死亡",
+        "onboard_time": 1687493672,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217971,
+        "num": 217971,
+        "word": "许光汉买菜人夫感",
+        "onboard_time": 1687494453,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217345,
+        "num": 217345,
+        "word": "明年不结婚的理由找到了",
+        "onboard_time": 1687484731,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 211864,
+        "num": 211864,
+        "word": "张雪峰的求生欲",
+        "onboard_time": 1687488031,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206482,
+        "num": 206482,
+        "word": "刀马旦好帅",
+        "onboard_time": 1687498413,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204748,
+        "num": 204748,
+        "word": "警惕网红言论误导志愿填报",
+        "onboard_time": 1687494031,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201400,
+        "num": 201400,
+        "word": "刚入职一周又收到大厂offer",
+        "onboard_time": 1687501472,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 185171,
+        "word": "姆巴佩将加盟皇马",
+        "onboard_time": 1687492892,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175813,
+        "num": 183973,
+        "word": "端午假期第2天你在干什么",
+        "onboard_time": 1687501532,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60924,
+        "num": 183818,
+        "word": "水上飞人加新项目了吗",
+        "onboard_time": 1687500930,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥奥林匹克促进人类和平发展的重要作用#"
+    }
+  }
+}

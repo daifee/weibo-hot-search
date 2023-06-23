@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687498561217,
+  "endTime": 1687501559359,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -43,20 +43,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2284255,
+      "num": 2284255,
+      "word": "青鸟",
+      "onboard_time": 1687495352,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2183043,
       "num": 1440363,
       "word": "汪东城人品",
       "onboard_time": 1687485752,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1992474,
-      "num": 1992474,
-      "word": "青鸟",
-      "onboard_time": 1687495352,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1723005,
@@ -99,12 +99,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1272959,
-      "num": 1272959,
+      "raw_hot": 1373722,
+      "num": 1373722,
       "word": "景区网红大雁被游客踢中要害离世",
       "onboard_time": 1687496432,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1306166,
+      "num": 1306166,
+      "word": "41℃高温把衣服晒着了",
+      "onboard_time": 1687496613,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1296556,
+      "num": 652786,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112543,
+      "num": 1112543,
+      "word": "青鸟改编 难评",
+      "onboard_time": 1687496912,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1092239,
@@ -179,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 850729,
-      "num": 850729,
-      "word": "41℃高温把衣服晒着了",
-      "onboard_time": 1687496613,
-      "rank": 22,
-      "category": "社会新闻,幽默"
+      "raw_hot": 862261,
+      "num": 862261,
+      "word": "刘宪华官宣加盟中国好声音",
+      "onboard_time": 1687497755,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 841028,
@@ -193,14 +217,6 @@
       "onboard_time": 1687476740,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 837476,
-      "num": 837476,
-      "word": "青鸟改编 难评",
-      "onboard_time": 1687496912,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 832160,
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 693672,
+      "num": 693672,
+      "word": "盆栽哥Jennie合作曲上线",
+      "onboard_time": 1687498172,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 681185,
       "num": 681185,
       "word": "专家称泰坦号或已断电进水",
@@ -267,6 +291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 590599,
+      "num": 590599,
+      "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+      "onboard_time": 1687500511,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577850,
       "num": 577850,
       "word": "沙溢长风渡下线",
@@ -281,6 +313,14 @@
       "onboard_time": 1687497094,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565809,
+      "num": 565809,
+      "word": "上海分数线",
+      "onboard_time": 1687500211,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 564902,
@@ -387,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 501508,
-      "num": 501508,
-      "word": "盆栽哥Jennie合作曲上线",
-      "onboard_time": 1687498172,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 494987,
       "num": 494987,
       "word": "虞书欣范丞丞G社生图",
@@ -427,14 +459,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 462004,
-      "num": 462004,
-      "word": "刘宪华官宣加盟中国好声音",
-      "onboard_time": 1687497755,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455555,
       "num": 324678,
       "word": "上班七个月长胖了22斤",
@@ -457,6 +481,14 @@
       "onboard_time": 1687488269,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438223,
+      "num": 438223,
+      "word": "朋友圈里的统一回复",
+      "onboard_time": 1687498652,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 437308,
@@ -489,6 +521,14 @@
       "onboard_time": 1687494811,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 400423,
+      "num": 400423,
+      "word": "难哄",
+      "onboard_time": 1687498111,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 400076,
@@ -531,6 +571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 383630,
+      "num": 383630,
+      "word": "王俊凯王勉用柴锅做饭",
+      "onboard_time": 1687498531,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383209,
       "num": 383209,
       "word": "实名注册手机卡不注销的后果",
@@ -561,14 +609,6 @@
       "onboard_time": 1687492050,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 376784,
-      "num": 376784,
-      "word": "难哄",
-      "onboard_time": 1687498111,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 375629,
@@ -603,6 +643,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 348831,
+      "num": 348831,
+      "word": "秋瓷炫唱的是中文还是泰文",
+      "onboard_time": 1687499432,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348159,
       "num": 348159,
       "word": "伊能静晒儿子女儿合照",
@@ -619,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 339581,
-      "num": 339581,
-      "word": "王俊凯王勉用柴锅做饭",
-      "onboard_time": 1687498531,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 343205,
+      "num": 343205,
+      "word": "电动车上的公仔全被偷了",
+      "onboard_time": 1687501170,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 337401,
@@ -843,12 +891,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257710,
+      "num": 257710,
+      "word": "到底是谁在惯着这些公司",
+      "onboard_time": 1687500812,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254188,
       "num": 254188,
       "word": "成都不明发光体刷屏朋友圈",
       "onboard_time": 1687482750,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251661,
+      "num": 251661,
+      "word": "午夜恰恰 上半场最佳",
+      "onboard_time": 1687499432,
+      "rank": 33,
+      "category": "影视,美食"
     },
     {
       "raw_hot": 250242,
@@ -873,6 +937,14 @@
       "onboard_time": 1687498413,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247511,
+      "num": 248013,
+      "word": "教师真的会偏爱某个班级吗",
+      "onboard_time": 1687495352,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 242783,
@@ -929,14 +1001,6 @@
       "onboard_time": 1687482510,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221742,
-      "num": 248013,
-      "word": "教师真的会偏爱某个班级吗",
-      "onboard_time": 1687495352,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 221637,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1687488991,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201400,
+      "num": 201400,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 201107,
@@ -1176,6 +1248,14 @@
       "word": "江苏明确电力紧张时酒店超市等空调不应低于27度",
       "onboard_time": 1687474937,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175813,
+      "num": 183973,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60924,
+      "num": 183818,
+      "word": "水上飞人加新项目了吗",
+      "onboard_time": 1687500930,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 60221,
       "num": 1413310,
       "word": "端午节习俗图鉴",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1687470433,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 39752,
+      "num": 572930,
+      "word": "网友航拍上千壮士抬龙舟太震撼",
+      "onboard_time": 1687500095,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33821,
