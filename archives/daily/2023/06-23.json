@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687497534234,
+  "endTime": 1687498561217,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2288411,
-      "num": 641704,
+      "num": 795239,
       "word": "宝剑嫂",
       "onboard_time": 1687490970,
       "rank": 10,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1792229,
-      "num": 1792229,
+      "raw_hot": 1992474,
+      "num": 1992474,
       "word": "青鸟",
       "onboard_time": 1687495352,
       "rank": 1,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1694865,
-      "num": 612416,
+      "num": 642005,
       "word": "大S经纪人发声明",
       "onboard_time": 1687481429,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1687484311,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1272959,
+      "num": 1272959,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1092239,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 945757,
-      "num": 421710,
+      "num": 444807,
       "word": "原来30岁才是人生的开始",
       "onboard_time": 1687490370,
       "rank": 20,
@@ -171,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850729,
+      "num": 850729,
+      "word": "41℃高温把衣服晒着了",
+      "onboard_time": 1687496613,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 841028,
       "num": 521750,
       "word": "刘亦菲去迪拜了",
       "onboard_time": 1687476740,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 837476,
+      "num": 837476,
+      "word": "青鸟改编 难评",
+      "onboard_time": 1687496912,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 832160,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 724316,
-      "num": 419019,
+      "num": 486608,
       "word": "明年不结婚的理由找到了",
       "onboard_time": 1687484731,
       "rank": 30,
@@ -224,14 +248,6 @@
       "word": "专家称泰坦号或已断电进水",
       "onboard_time": 1687449034,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668275,
-      "num": 668275,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -257,6 +273,14 @@
       "onboard_time": 1687437032,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 570399,
+      "num": 570399,
+      "word": "美依礼芽青鸟开口跪",
+      "onboard_time": 1687497094,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 564902,
@@ -363,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501508,
+      "num": 501508,
+      "word": "盆栽哥Jennie合作曲上线",
+      "onboard_time": 1687498172,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 494987,
       "num": 494987,
       "word": "虞书欣范丞丞G社生图",
@@ -395,6 +427,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 462004,
+      "num": 462004,
+      "word": "刘宪华官宣加盟中国好声音",
+      "onboard_time": 1687497755,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455555,
       "num": 324678,
       "word": "上班七个月长胖了22斤",
@@ -417,22 +457,6 @@
       "onboard_time": 1687488269,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 445999,
-      "num": 415369,
-      "word": "41℃高温把衣服晒着了",
-      "onboard_time": 1687496613,
-      "rank": 22,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 439638,
-      "num": 439638,
-      "word": "美依礼芽青鸟开口跪",
-      "onboard_time": 1687497094,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 437308,
@@ -465,14 +489,6 @@
       "onboard_time": 1687494811,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 411237,
-      "num": 411237,
-      "word": "青鸟改编 难评",
-      "onboard_time": 1687496912,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 400076,
@@ -531,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381767,
+      "num": 381767,
+      "word": "敦煌飞天本该是男的",
+      "onboard_time": 1687497696,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377857,
       "num": 377857,
       "word": "bw",
       "onboard_time": 1687492050,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 376784,
+      "num": 376784,
+      "word": "难哄",
+      "onboard_time": 1687498111,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 375629,
@@ -587,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 339581,
+      "num": 339581,
+      "word": "王俊凯王勉用柴锅做饭",
+      "onboard_time": 1687498531,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337401,
       "num": 337401,
       "word": "乘风四公",
@@ -635,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313852,
+      "num": 313852,
+      "word": "宋轶回应天选柳玉茹",
+      "onboard_time": 1687497032,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310335,
       "num": 310335,
       "word": "泰坦尼克号",
@@ -675,12 +723,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303030,
+      "num": 303030,
+      "word": "警惕网红言论误导志愿填报",
+      "onboard_time": 1687494031,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 300596,
       "num": 300596,
       "word": "张萌曾叫秦岚去浪姐",
       "onboard_time": 1687483053,
       "rank": 24,
       "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 297881,
+      "num": 297881,
+      "word": "云南人真的像小精灵",
+      "onboard_time": 1687497572,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 297417,
@@ -697,14 +761,6 @@
       "onboard_time": 1687447115,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275672,
-      "num": 275672,
-      "word": "警惕网红言论误导志愿填报",
-      "onboard_time": 1687494031,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 269926,
@@ -811,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248800,
+      "num": 248800,
+      "word": "刀马旦好帅",
+      "onboard_time": 1687498413,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242783,
       "num": 242783,
       "word": "做了防晒为什么还是会黑",
@@ -867,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221742,
+      "num": 248013,
+      "word": "教师真的会偏爱某个班级吗",
+      "onboard_time": 1687495352,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221637,
       "num": 221637,
       "word": "孟美岐北京演唱会彩排照",
@@ -912,14 +984,6 @@
       "word": "赵露思直播让粉丝别送礼物",
       "onboard_time": 1687481370,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 209972,
-      "num": 248460,
-      "word": "宋轶回应天选柳玉茹",
-      "onboard_time": 1687497032,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -977,14 +1041,6 @@
       "onboard_time": 1687421011,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202093,
-      "num": 248013,
-      "word": "教师真的会偏爱某个班级吗",
-      "onboard_time": 1687495352,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 201924,
@@ -1227,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136178,
+      "num": 554789,
+      "word": "男子车祸脑死亡捐献遗体让5人获新生",
+      "onboard_time": 1687496492,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135123,
       "num": 153814,
       "word": "EDG教练在干嘛",
@@ -1328,14 +1392,6 @@
       "word": "端午节习俗图鉴",
       "onboard_time": 1687438893,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58256,
-      "num": 546632,
-      "word": "男子车祸脑死亡捐献遗体让5人获新生",
-      "onboard_time": 1687496492,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
