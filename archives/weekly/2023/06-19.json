@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687527476728,
+  "endTime": 1687529811661,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9398814,
+      "num": 9398814,
+      "word": "吴越 白玉兰视后",
+      "onboard_time": 1687527706,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 9126946,
       "num": 10225473,
       "word": "川大地铁事件涉事学生被留校留党察看",
@@ -91,12 +99,28 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 7110056,
+      "num": 7110056,
+      "word": "雷佳音 白玉兰视帝",
+      "onboard_time": 1687527946,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 6223000,
       "num": 1112136,
       "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
       "onboard_time": 1687344873,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5770517,
+      "num": 5770517,
+      "word": "赵丽颖三次陪跑",
+      "onboard_time": 1687528550,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 4647356,
@@ -1099,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1479739,
+      "num": 572249,
+      "word": "白敬亭宋轶耳朵都红了",
+      "onboard_time": 1687526982,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1472333,
       "num": 1472333,
       "word": "谭松韵回应直角肩",
@@ -1227,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382627,
+      "num": 441012,
+      "word": "鹿晗染了彩色头发",
+      "onboard_time": 1687528007,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1379841,
       "num": 1379841,
       "word": "女子房门被封事件堵门邻居已离世",
@@ -1339,12 +1379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312477,
+      "num": 546110,
+      "word": "殷桃",
+      "onboard_time": 1687528186,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1306166,
       "num": 1306166,
       "word": "41℃高温把衣服晒着了",
       "onboard_time": 1687496613,
       "rank": 22,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1301745,
+      "num": 530328,
+      "word": "雷佳音的头有赵丽颖两个大",
+      "onboard_time": 1687528007,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1299025,
@@ -1649,6 +1705,14 @@
       "onboard_time": 1687187205,
       "rank": 41,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1094797,
+      "num": 484418,
+      "word": "马伊琍 俊生和凌玲祝福你们",
+      "onboard_time": 1687529146,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 1089578,
@@ -2148,7 +2212,7 @@
     },
     {
       "raw_hot": 905116,
-      "num": 605881,
+      "num": 807292,
       "word": "梁实第27次高考查分",
       "onboard_time": 1687525418,
       "rank": 30,
@@ -2217,6 +2281,14 @@
       "onboard_time": 1687094731,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 870123,
+      "num": 413342,
+      "word": "我的前半生",
+      "onboard_time": 1687529207,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 868978,
@@ -2675,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 733159,
+      "num": 500151,
+      "word": "银川烧烤店爆炸事故伤亡人员身份已全部核定",
+      "onboard_time": 1687528912,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732798,
       "num": 365912,
       "word": "公司裁员把HR裁崩溃了",
@@ -2705,6 +2785,14 @@
       "onboard_time": 1687147049,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 720873,
+      "num": 589035,
+      "word": "河南新密一烧饼店发生爆炸",
+      "onboard_time": 1687526982,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720451,
@@ -2817,14 +2905,6 @@
       "onboard_time": 1687518570,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 695342,
-      "num": 381473,
-      "word": "白敬亭宋轶耳朵都红了",
-      "onboard_time": 1687526982,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 695090,
@@ -3739,6 +3819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513081,
+      "num": 255272,
+      "word": "警察荣誉",
+      "onboard_time": 1687529448,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512674,
       "num": 1215370,
       "word": "杭州一男子在绿化带内迷路四天三夜",
@@ -3864,6 +3952,14 @@
       "word": "折腰预告",
       "onboard_time": 1687164945,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 498839,
+      "num": 254567,
+      "word": "人世间是不是要横扫",
+      "onboard_time": 1687527402,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -4041,6 +4137,14 @@
       "onboard_time": 1687513232,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 472537,
+      "num": 421879,
+      "word": "2023四川高考开始查分",
+      "onboard_time": 1687526141,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 472002,
@@ -4235,6 +4339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 448533,
+      "num": 448533,
+      "word": "碧峰峡",
+      "onboard_time": 1687529085,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447988,
       "num": 447988,
       "word": "黄子韬多巴胺穿搭",
@@ -4249,6 +4361,14 @@
       "onboard_time": 1687335576,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446437,
+      "num": 446437,
+      "word": "Tian",
+      "onboard_time": 1687528307,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 446097,
@@ -4697,14 +4817,6 @@
       "onboard_time": 1687263331,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400117,
-      "num": 400117,
-      "word": "2023四川高考开始查分",
-      "onboard_time": 1687526141,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 399139,
@@ -5347,6 +5459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350464,
+      "num": 384891,
+      "word": "毒贩竟然用火龙果藏毒",
+      "onboard_time": 1687526141,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350413,
       "num": 1706399,
       "word": "男子长城藏时间胶囊12年多人留纸条",
@@ -5457,6 +5577,14 @@
       "onboard_time": 1687150112,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346736,
+      "num": 346736,
+      "word": "睡觉给的快乐是免费的",
+      "onboard_time": 1687526982,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 344366,
@@ -5601,14 +5729,6 @@
       "onboard_time": 1687341758,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335210,
-      "num": 254567,
-      "word": "人世间是不是要横扫",
-      "onboard_time": 1687527402,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 334489,
@@ -5809,14 +5929,6 @@
       "onboard_time": 1687352915,
       "rank": 21,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 316879,
-      "num": 384891,
-      "word": "毒贩竟然用火龙果藏毒",
-      "onboard_time": 1687526141,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316715,
@@ -6401,14 +6513,6 @@
       "onboard_time": 1687360117,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 288942,
-      "num": 288942,
-      "word": "睡觉给的快乐是免费的",
-      "onboard_time": 1687526982,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 288916,
@@ -8467,14 +8571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219272,
-      "num": 253940,
-      "word": "河南新密一烧饼店发生爆炸",
-      "onboard_time": 1687526982,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218954,
       "num": 186043,
       "word": "种地吧",
@@ -8521,6 +8617,14 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217032,
+      "num": 253534,
+      "word": "狗怎么也没想到背后有门",
+      "onboard_time": 1687526380,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 216779,
@@ -8688,6 +8792,14 @@
       "word": "枫丹",
       "onboard_time": 1687526437,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212510,
+      "num": 212510,
+      "word": "京城大师赛",
+      "onboard_time": 1687528786,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -9547,14 +9659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194363,
-      "num": 253534,
-      "word": "狗怎么也没想到背后有门",
-      "onboard_time": 1687526380,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194361,
       "num": 194361,
       "word": "沙溢胡可演亲家",
@@ -9625,6 +9729,14 @@
       "onboard_time": 1687411712,
       "rank": 42,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 191352,
+      "num": 212381,
+      "word": "DRG对战TTG",
+      "onboard_time": 1687529627,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 191351,
@@ -11620,7 +11732,7 @@
     },
     {
       "raw_hot": 118707,
-      "num": 2016896,
+      "num": 5880947,
       "word": "遇到燃气泄漏应该如何处理",
       "onboard_time": 1687508671,
       "rank": 2,
