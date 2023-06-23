@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687501559359,
+  "endTime": 1687502416036,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1601869,
+      "num": 1601869,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1563383,
       "num": 1019731,
       "word": "庞颖的詹青云",
@@ -91,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391360,
+      "num": 1391360,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1379234,
       "num": 1348419,
       "word": "柳智敏",
       "onboard_time": 1687484311,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1373722,
-      "num": 1373722,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1306166,
@@ -115,11 +123,11 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1296556,
-      "num": 652786,
-      "word": "什么叫内爆",
-      "onboard_time": 1687498652,
-      "rank": 10,
+      "raw_hot": 1184124,
+      "num": 1184124,
+      "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+      "onboard_time": 1687500511,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -203,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 862261,
-      "num": 862261,
+      "raw_hot": 922104,
+      "num": 922104,
       "word": "刘宪华官宣加盟中国好声音",
       "onboard_time": 1687497755,
       "rank": 23,
@@ -289,14 +297,6 @@
       "onboard_time": 1687440632,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 590599,
-      "num": 590599,
-      "word": "女子番茄吃多胃痛医生让喝可乐治疗",
-      "onboard_time": 1687500511,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577850,
@@ -627,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362801,
+      "num": 362801,
+      "word": "电动车上的公仔全被偷了",
+      "onboard_time": 1687501170,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355546,
       "num": 355546,
       "word": "张绍刚你好狠的心",
@@ -665,14 +673,6 @@
       "onboard_time": 1687495772,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 343205,
-      "num": 343205,
-      "word": "电动车上的公仔全被偷了",
-      "onboard_time": 1687501170,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 337401,
@@ -979,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240247,
+      "num": 276321,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237131,
       "num": 237131,
       "word": "陈哲远他好满意自己的rap",
@@ -993,6 +1001,14 @@
       "onboard_time": 1687450348,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 231258,
+      "num": 231258,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 230926,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1687446337,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217762,
+      "num": 217762,
+      "word": "蔡少芬你不要再叫了",
+      "onboard_time": 1687502189,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 214495,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1687488991,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201400,
-      "num": 201400,
-      "word": "刚入职一周又收到大厂offer",
-      "onboard_time": 1687501472,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 201107,
@@ -1248,14 +1264,6 @@
       "word": "江苏明确电力紧张时酒店超市等空调不应低于27度",
       "onboard_time": 1687474937,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175813,
-      "num": 183973,
-      "word": "端午假期第2天你在干什么",
-      "onboard_time": 1687501532,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84946,
+      "num": 165327,
+      "word": "星穹铁道罗刹",
+      "onboard_time": 1687502069,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84927,
       "num": 84927,
       "word": "粉色书包里装着一个父亲沉甸甸的生活",
@@ -1467,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61621,
+      "num": 572930,
+      "word": "网友航拍上千壮士抬龙舟太震撼",
+      "onboard_time": 1687500095,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60924,
       "num": 183818,
       "word": "水上飞人加新项目了吗",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1687470433,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39752,
-      "num": 572930,
-      "word": "网友航拍上千壮士抬龙舟太震撼",
-      "onboard_time": 1687500095,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33821,

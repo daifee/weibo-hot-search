@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687501559359,
+  "endTime": 1687502416036,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1601869,
+      "num": 1601869,
+      "word": "什么叫内爆",
+      "onboard_time": 1687498652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1601793,
       "num": 1601793,
       "word": "Angelababy七年前vs七年后",
@@ -1067,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1391360,
+      "num": 1391360,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1388359,
       "num": 1388359,
       "word": "家属称剖宫产时孩子大腿被医生掰骨折",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1687484311,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1373722,
-      "num": 1373722,
-      "word": "景区网红大雁被游客踢中要害离世",
-      "onboard_time": 1687496432,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1371172,
@@ -1193,14 +1201,6 @@
       "onboard_time": 1687309114,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1296556,
-      "num": 652786,
-      "word": "什么叫内爆",
-      "onboard_time": 1687498652,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1293958,
@@ -1304,6 +1304,14 @@
       "word": "官方通报嫌疑人自首时在派出所身亡",
       "onboard_time": 1687222055,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1184124,
+      "num": 1184124,
+      "word": "女子番茄吃多胃痛医生让喝可乐治疗",
+      "onboard_time": 1687500511,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1867,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922104,
+      "num": 922104,
+      "word": "刘宪华官宣加盟中国好声音",
+      "onboard_time": 1687497755,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918293,
       "num": 876661,
       "word": "王源回应妈妈进不去自己的演唱会",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1687263271,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862261,
-      "num": 862261,
-      "word": "刘宪华官宣加盟中国好声音",
-      "onboard_time": 1687497755,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 858175,
@@ -2832,14 +2840,6 @@
       "word": "说端午快乐有错吗",
       "onboard_time": 1687397192,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590599,
-      "num": 590599,
-      "word": "女子番茄吃多胃痛医生让喝可乐治疗",
-      "onboard_time": 1687500511,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -4635,6 +4635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362801,
+      "num": 362801,
+      "word": "电动车上的公仔全被偷了",
+      "onboard_time": 1687501170,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361857,
       "num": 336816,
       "word": "如何看待川大处罚结果",
@@ -4913,14 +4921,6 @@
       "onboard_time": 1687414831,
       "rank": 21,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 343205,
-      "num": 343205,
-      "word": "电动车上的公仔全被偷了",
-      "onboard_time": 1687501170,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 341625,
@@ -6931,6 +6931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240247,
+      "num": 276321,
+      "word": "端午假期第2天你在干什么",
+      "onboard_time": 1687501532,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240169,
       "num": 240169,
       "word": "田曦薇咬嘴唇",
@@ -7307,6 +7315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231258,
+      "num": 231258,
+      "word": "刚入职一周又收到大厂offer",
+      "onboard_time": 1687501472,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230936,
       "num": 230936,
       "word": "BLG对战LNG",
@@ -7609,6 +7625,14 @@
       "onboard_time": 1687150412,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217762,
+      "num": 217762,
+      "word": "蔡少芬你不要再叫了",
+      "onboard_time": 1687502189,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 217250,
@@ -8217,14 +8241,6 @@
       "onboard_time": 1687305510,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201400,
-      "num": 201400,
-      "word": "刚入职一周又收到大厂offer",
-      "onboard_time": 1687501472,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 201279,
@@ -9121,14 +9137,6 @@
       "onboard_time": 1687133967,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175813,
-      "num": 183973,
-      "word": "端午假期第2天你在干什么",
-      "onboard_time": 1687501532,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175651,
@@ -10851,6 +10859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84946,
+      "num": 165327,
+      "word": "星穹铁道罗刹",
+      "onboard_time": 1687502069,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84927,
       "num": 84927,
       "word": "粉色书包里装着一个父亲沉甸甸的生活",
@@ -11155,6 +11171,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 61621,
+      "num": 572930,
+      "word": "网友航拍上千壮士抬龙舟太震撼",
+      "onboard_time": 1687500095,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61014,
       "num": 469736,
       "word": "如果相遇有颜色",
@@ -11335,14 +11359,6 @@
       "num": 829022,
       "word": "女子打车给消防送粽子西瓜消暑过节",
       "onboard_time": 1687431634,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39752,
-      "num": 572930,
-      "word": "网友航拍上千壮士抬龙舟太震撼",
-      "onboard_time": 1687500095,
       "rank": 14,
       "category": "社会新闻"
     },
