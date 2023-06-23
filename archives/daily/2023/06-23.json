@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687495113397,
+  "endTime": 1687497534234,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2288411,
-      "num": 455222,
+      "num": 641704,
       "word": "宝剑嫂",
       "onboard_time": 1687490970,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1792229,
+      "num": 1792229,
+      "word": "青鸟",
+      "onboard_time": 1687495352,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1723005,
       "num": 1723005,
       "word": "日本将强制公布艺人真实身份",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1694865,
-      "num": 544104,
+      "num": 612416,
       "word": "大S经纪人发声明",
       "onboard_time": 1687481429,
       "rank": 10,
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1014583,
+      "num": 1014583,
+      "word": "分数线 砍一刀",
+      "onboard_time": 1687495172,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 960865,
       "num": 960865,
       "word": "银川烧烤店爆炸事故伤者家属发声",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 945757,
-      "num": 352981,
+      "num": 421710,
       "word": "原来30岁才是人生的开始",
       "onboard_time": 1687490370,
       "rank": 20,
@@ -171,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 800243,
-      "num": 435205,
+      "raw_hot": 812748,
+      "num": 812748,
       "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
       "onboard_time": 1687491931,
       "rank": 13,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 724316,
-      "num": 365373,
+      "num": 419019,
       "word": "明年不结婚的理由找到了",
       "onboard_time": 1687484731,
       "rank": 30,
@@ -208,6 +224,14 @@
       "word": "专家称泰坦号或已断电进水",
       "onboard_time": 1687449034,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668275,
+      "num": 668275,
+      "word": "景区网红大雁被游客踢中要害离世",
+      "onboard_time": 1687496432,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -243,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558747,
+      "num": 558747,
+      "word": "李雪琴高中扎马尾照片",
+      "onboard_time": 1687493433,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544040,
       "num": 361583,
       "word": "原来火车卧铺真有人自带床帘",
       "onboard_time": 1687477584,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 540954,
+      "num": 540954,
+      "word": "许光汉买菜人夫感",
+      "onboard_time": 1687494453,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 529224,
@@ -379,6 +419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445999,
+      "num": 415369,
+      "word": "41℃高温把衣服晒着了",
+      "onboard_time": 1687496613,
+      "rank": 22,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 439638,
+      "num": 439638,
+      "word": "美依礼芽青鸟开口跪",
+      "onboard_time": 1687497094,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437308,
       "num": 289114,
       "word": "和弟弟拆了凉席洗洗",
@@ -403,12 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419456,
-      "num": 419456,
-      "word": "李雪琴高中扎马尾照片",
-      "onboard_time": 1687493433,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 428170,
+      "num": 428170,
+      "word": "薛之谦把好声音转椅搬来巡演",
+      "onboard_time": 1687494811,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 411237,
+      "num": 411237,
+      "word": "青鸟改编 难评",
+      "onboard_time": 1687496912,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 400076,
@@ -499,12 +563,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351866,
+      "num": 351866,
+      "word": "女孩中考物理化学双科满分",
+      "onboard_time": 1687495710,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 348159,
       "num": 348159,
       "word": "伊能静晒儿子女儿合照",
       "onboard_time": 1687432050,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348054,
+      "num": 348054,
+      "word": "Uzi通宵训练",
+      "onboard_time": 1687495772,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 337401,
@@ -579,6 +659,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 306644,
+      "num": 306644,
+      "word": "管文丁宁分手原因",
+      "onboard_time": 1687496073,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305638,
       "num": 305638,
       "word": "没想到别人的工资打我卡上了",
@@ -595,6 +683,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 297417,
+      "num": 297417,
+      "word": "星穹铁道1.1",
+      "onboard_time": 1687496551,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285123,
       "num": 285123,
       "word": "北京乃至京津冀地区怎么就热成了全国第一",
@@ -603,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272180,
-      "num": 272180,
-      "word": "许光汉买菜人夫感",
-      "onboard_time": 1687494453,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 275672,
+      "num": 275672,
+      "word": "警惕网红言论误导志愿填报",
+      "onboard_time": 1687494031,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 269926,
@@ -635,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268052,
-      "num": 268052,
-      "word": "警惕网红言论误导志愿填报",
-      "onboard_time": 1687494031,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 267208,
       "num": 267208,
       "word": "宋雨琦原来是SM家族粉",
@@ -665,6 +753,14 @@
       "onboard_time": 1687445915,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260742,
+      "num": 260742,
+      "word": "偷偷藏不住",
+      "onboard_time": 1687495295,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 260716,
@@ -705,6 +801,14 @@
       "onboard_time": 1687476441,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248953,
+      "num": 248953,
+      "word": "缉毒警一张带血纸条助缴毒10余斤",
+      "onboard_time": 1687496251,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242783,
@@ -779,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218692,
-      "num": 218692,
-      "word": "薛之谦把好声音转椅搬来巡演",
-      "onboard_time": 1687494811,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214495,
       "num": 214495,
       "word": "宁夏公布分数线",
@@ -816,6 +912,14 @@
       "word": "赵露思直播让粉丝别送礼物",
       "onboard_time": 1687481370,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209972,
+      "num": 248460,
+      "word": "宋轶回应天选柳玉茹",
+      "onboard_time": 1687497032,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -851,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204302,
+      "num": 248229,
+      "word": "ayo音乐节",
+      "onboard_time": 1687497271,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204229,
       "num": 204229,
       "word": "江苏今年已有102个百万富翁",
@@ -865,6 +977,14 @@
       "onboard_time": 1687421011,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202093,
+      "num": 248013,
+      "word": "教师真的会偏爱某个班级吗",
+      "onboard_time": 1687495352,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 201924,
@@ -1208,6 +1328,14 @@
       "word": "端午节习俗图鉴",
       "onboard_time": 1687438893,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58256,
+      "num": 546632,
+      "word": "男子车祸脑死亡捐献遗体让5人获新生",
+      "onboard_time": 1687496492,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
