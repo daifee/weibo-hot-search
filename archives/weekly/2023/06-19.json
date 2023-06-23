@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687551624443,
+  "endTime": 1687552440916,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -13033,6 +13033,14 @@
       "onboard_time": 1687446216,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25218,
+      "num": 36984,
+      "word": "2023高考分数线汇总",
+      "onboard_time": 1687551552,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 24106,
