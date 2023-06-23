@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 04:34:00
+本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 05:16:52
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ Tian（热度：141741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+2023高考分数线汇总（热度：49839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A7%90%E5%A6%B9%E5%A5%94%E8%B5%B4%E5%8D%83%E9%87%8C%E5%88%B0%E5%B7%A5%E5%9C%B0%E7%BB%99%E7%88%B8%E7%88%B8%E5%BA%86%E7%94%9F%23" target="weibo">
 三姐妹奔赴千里到工地给爸爸庆生（热度：47521）
 </a>
@@ -377,12 +383,6 @@ Tian（热度：141741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
 全国各地高考分数线汇总（热度：35221）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-2023高考分数线汇总（热度：25218）
 </a>
 </li>
 

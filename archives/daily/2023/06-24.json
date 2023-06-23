@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687552440916,
+  "endTime": 1687555012845,
   "band_list": [
     {
       "raw_hot": 3041115,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49839,
+      "num": 49839,
+      "word": "2023高考分数线汇总",
+      "onboard_time": 1687551552,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 47521,
       "num": 117053,
       "word": "三姐妹奔赴千里到工地给爸爸庆生",
@@ -489,14 +497,6 @@
       "onboard_time": 1687528786,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25218,
-      "num": 36984,
-      "word": "2023高考分数线汇总",
-      "onboard_time": 1687551552,
-      "rank": 29,
-      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [

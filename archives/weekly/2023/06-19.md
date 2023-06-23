@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 04:34:00
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 05:16:52
 </p>
 </blockquote>
 <p>
@@ -9627,6 +9627,12 @@ NIP对战WE（热度：77082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+2023高考分数线汇总（热度：49839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9C%9F%E7%9A%84%E6%9C%89%E9%A9%AC%E7%94%B2%E7%BA%BF%23" target="weibo">
 秦岚真的有马甲线（热度：49319）
 </a>
@@ -9785,12 +9791,6 @@ NCTDREAM新歌空降（热度：37491）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E5%BE%81%E9%80%94%E5%AA%92%E4%BD%93%E6%97%A5%23" target="weibo">
 和平精英亚运征途媒体日（热度：25594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-2023高考分数线汇总（热度：25218）
 </a>
 </li>
 
