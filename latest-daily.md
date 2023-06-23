@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 07:19:02
+本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 07:34:14
 </p>
 </blockquote>
 <p>
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E5%AE%BE%E9%A6%86%E5%8C%86%E5%8C%86%E5%BC%80%E6%88%BF%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E5%A8%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
+女子到宾馆匆匆开房浙江老板娘报警（热度：1473579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%9B%9E%E5%BA%94%E4%B8%89%E6%AC%A1%E9%99%AA%E8%B7%91%23" target="weibo">
 赵丽颖回应三次陪跑（热度：1469492）
 </a>
@@ -47,12 +53,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23" target="weibo">
 赵丽颖白玉兰获奖感言（热度：1181622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%B0%E5%AE%BE%E9%A6%86%E5%8C%86%E5%8C%86%E5%BC%80%E6%88%BF%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E5%A8%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
-女子到宾馆匆匆开房浙江老板娘报警（热度：1181336）
 </a>
 </li>
 
@@ -119,6 +119,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E8%80%B3%E6%9C%B5%E9%83%BD%E7%BA%A2%E4%BA%86%23" target="weibo">
 白敬亭宋轶耳朵都红了（热度：675279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8F%91%E7%94%9F5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+北部湾发生5级地震（热度：662054）
 </a>
 </li>
 
@@ -237,12 +243,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8F%91%E7%94%9F5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-北部湾发生5级地震（热度：301229）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B7%AF%E6%BC%94%E8%A2%AB%E8%A7%82%E4%BC%97%E6%89%94%E4%B8%9C%E8%A5%BF%23" target="weibo">
 朱一龙路演被观众扔东西（热度：297923）
 </a>
@@ -257,6 +257,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86601%E6%BF%80%E5%8A%A8%E6%BB%A1%E5%B1%8B%E8%B9%A6%E8%B7%B3%23" target="weibo">
 男生高考查分601激动满屋蹦跳（热度：285998）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BF%E5%AD%97%E6%80%8E%E4%B9%88%E8%AF%BB%23" target="weibo">
+廿字怎么读（热度：268241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
+俄罗斯（热度：263118）
 </a>
 </li>
 
@@ -285,6 +297,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%A2%AB%E9%93%86%E9%92%89%E5%88%BA%E7%A9%BF120%E6%B1%82%E5%8A%A9119%23" target="weibo">
+女子手指被铆钉刺穿120求助119（热度：236431）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%B0%E7%99%BE%E4%BA%BA%E6%8B%86%E6%8A%A4%E6%A0%8F%E9%97%AF%E5%8D%A1%23" target="weibo">
 五月天武汉演唱会数百人拆护栏闯卡（热度：228782）
 </a>
@@ -299,6 +317,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%A5%96%E5%8A%B1%E5%A8%83%E6%B8%B8%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E9%97%A8%E7%A5%A8%E8%8A%B1%E4%BA%8612800%23" target="weibo">
 爸爸奖励娃游环球影城门票花了12800（热度：218494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23" target="weibo">
+瓦格纳（热度：210798）
 </a>
 </li>
 
@@ -327,6 +351,12 @@ AI绘画给人类带来的变化（热度：171248）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+2023高考分数线汇总（热度：143245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Tian%23" target="weibo">
 Tian（热度：141741）
 </a>
@@ -339,26 +369,20 @@ Tian（热度：141741）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-2023高考分数线汇总（热度：133748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%A2%AB%E9%93%86%E9%92%89%E5%88%BA%E7%A9%BF120%E6%B1%82%E5%8A%A9119%23" target="weibo">
-女子手指被铆钉刺穿120求助119（热度：131691）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%8F%8D%E5%A6%AE%E6%9D%A5%E8%B7%91%E7%94%B7%E5%89%8D%E4%B8%80%E7%9B%B4%E5%9C%A8%E8%83%8C%E4%B9%98%E6%B3%95%E8%A1%A8%23" target="weibo">
-孙珍妮来跑男前一直在背乘法表（热度：128827）
+孙珍妮来跑男前一直在背乘法表（热度：135781）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E5%A4%A7%E5%8F%98%E6%B4%BB%E5%A6%BB%23" target="weibo">
-消失的她 大变活妻（热度：110970）
+消失的她 大变活妻（热度：129555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9E%97%E4%B8%B9%E9%82%80%E8%AF%B7%E6%89%93%E7%90%83%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91689%E5%88%86%23" target="weibo">
+被林丹邀请打球女孩高考理科689分（热度：107855）
 </a>
 </li>
 
@@ -375,6 +399,12 @@ Tian（热度：141741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
+全国各地高考分数线汇总（热度：93326）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E5%9C%B0%E9%9C%87%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0637%E5%88%86%23" target="weibo">
 绵阳地震敬礼娃娃高考分数637分（热度：91093）
 </a>
@@ -387,8 +417,8 @@ Tian（热度：141741）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
-全国各地高考分数线汇总（热度：70590）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%A5%9E%E5%8F%8D%E5%BA%94%E7%9E%AC%E9%97%B4%E6%8A%93%E4%BD%8F%E6%8E%89%E8%90%BD%E5%AE%9D%E5%AE%9D%23" target="weibo">
+爸爸神反应瞬间抓住掉落宝宝（热度：83157）
 </a>
 </li>
 
