@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687491836089,
+  "endTime": 1687494212050,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -33,6 +33,14 @@
       "onboard_time": 1687443876,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2288411,
+      "num": 455222,
+      "word": "宝剑嫂",
+      "onboard_time": 1687490970,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2183043,
@@ -81,14 +89,6 @@
       "onboard_time": 1687484311,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1158055,
-      "num": 455222,
-      "word": "宝剑嫂",
-      "onboard_time": 1687490970,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1092239,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866219,
+      "num": 352981,
+      "word": "原来30岁才是人生的开始",
+      "onboard_time": 1687490370,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 841028,
       "num": 521750,
       "word": "刘亦菲去迪拜了",
@@ -179,6 +187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 707799,
+      "num": 707799,
+      "word": "偷偷藏不住暗恋be",
+      "onboard_time": 1687491811,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681185,
       "num": 681185,
       "word": "专家称泰坦号或已断电进水",
@@ -203,6 +219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 595501,
+      "num": 402756,
+      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
+      "onboard_time": 1687491931,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577850,
       "num": 577850,
       "word": "沙溢长风渡下线",
@@ -217,14 +241,6 @@
       "onboard_time": 1687480708,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 562945,
-      "num": 292798,
-      "word": "原来30岁才是人生的开始",
-      "onboard_time": 1687490370,
-      "rank": 20,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 544040,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 506123,
-      "num": 338198,
+      "num": 399131,
       "word": "张雪峰的求生欲",
       "onboard_time": 1687488031,
       "rank": 21,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395200,
+      "num": 395200,
+      "word": "姆巴佩将加盟皇马",
+      "onboard_time": 1687492892,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388541,
       "num": 388541,
       "word": "文咏珊好媚",
@@ -417,6 +441,22 @@
       "onboard_time": 1687477584,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 382111,
+      "num": 334158,
+      "word": "第一次上班倒贴公司346元",
+      "onboard_time": 1687492590,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 377857,
+      "num": 377857,
+      "word": "bw",
+      "onboard_time": 1687492050,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 375629,
@@ -475,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316277,
+      "num": 316277,
+      "word": "消失的她",
+      "onboard_time": 1687477523,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315816,
       "num": 315816,
       "word": "段嘉许KTV唱赵露思的歌",
@@ -523,14 +571,6 @@
       "category": "影视,综艺"
     },
     {
-      "raw_hot": 292425,
-      "num": 292425,
-      "word": "消失的她",
-      "onboard_time": 1687477523,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285123,
       "num": 285123,
       "word": "北京乃至京津冀地区怎么就热成了全国第一",
@@ -567,6 +607,14 @@
       "num": 267208,
       "word": "宋雨琦原来是SM家族粉",
       "onboard_time": 1687430610,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266376,
+      "num": 266376,
+      "word": "李雪琴高中扎马尾照片",
+      "onboard_time": 1687493433,
       "rank": 26,
       "category": "艺人"
     },
@@ -619,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254095,
+      "num": 250158,
+      "word": "广东揭阳一龙舟侧翻2人死亡",
+      "onboard_time": 1687493672,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250242,
       "num": 250242,
       "word": "蔡徐坤在车内摘口罩送飞吻",
@@ -631,6 +687,14 @@
       "num": 242783,
       "word": "做了防晒为什么还是会黑",
       "onboard_time": 1687487368,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241607,
+      "num": 241607,
+      "word": "海獭睡觉时会手拉着手",
+      "onboard_time": 1687492531,
       "rank": 32,
       "category": "幽默"
     },
@@ -747,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204787,
+      "num": 204787,
+      "word": "桑稚段嘉许额头吻",
+      "onboard_time": 1687491752,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204229,
       "num": 204229,
       "word": "江苏今年已有102个百万富翁",
@@ -827,6 +899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196270,
+      "num": 196270,
+      "word": "许凯古装5年前vs5年后",
+      "onboard_time": 1687493850,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "换个人吻就算工伤",
@@ -835,11 +915,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183451,
+      "num": 183451,
+      "word": "洛子商恨顾九思的原因",
+      "onboard_time": 1687493193,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181722,
       "num": 181722,
       "word": "消失的她结局",
       "onboard_time": 1687420769,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178352,
+      "num": 178352,
+      "word": "消失的她南京路演",
+      "onboard_time": 1687493789,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -891,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168017,
+      "num": 168017,
+      "word": "乘风2023四公上集歌单",
+      "onboard_time": 1687493551,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164004,
       "num": 164004,
       "word": "白玉兰提名酒会",
@@ -931,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159396,
+      "num": 159396,
+      "word": "山东6012万亩小麦颗粒归仓",
+      "onboard_time": 1687493492,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158422,
       "num": 158422,
       "word": "果然还是中国人心疼中国人",
@@ -947,20 +1059,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150139,
-      "num": 150139,
-      "word": "偷偷藏不住暗恋be",
-      "onboard_time": 1687491811,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 147240,
-      "num": 147240,
-      "word": "桑稚段嘉许额头吻",
-      "onboard_time": 1687491752,
+      "raw_hot": 142188,
+      "num": 142188,
+      "word": "警惕网红言论误导志愿填报",
+      "onboard_time": 1687494031,
       "rank": 47,
-      "category": "影视"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 135123,
@@ -1113,6 +1217,9 @@
     },
     {
       "word": "#古诗文里的端午习俗#"
+    },
+    {
+      "word": "#发挥奥林匹克促进人类和平发展的重要作用#"
     }
   ]
 }
