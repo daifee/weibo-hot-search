@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687516904376,
+  "endTime": 1687518984867,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1779318,
+      "num": 1779318,
+      "word": "白玉兰颁奖",
+      "onboard_time": 1687518270,
+      "rank": 3,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 1723005,
       "num": 1723005,
       "word": "日本将强制公布艺人真实身份",
@@ -147,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1393067,
+      "num": 1393067,
+      "word": "消失的她票房逆跌",
+      "onboard_time": 1687514192,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1379234,
       "num": 1348419,
       "word": "柳智敏",
       "onboard_time": 1687484311,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1378769,
+      "num": 1378769,
+      "word": "外星人",
+      "onboard_time": 1687514493,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1367399,
@@ -179,11 +203,11 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1249599,
-      "num": 1249599,
-      "word": "消失的她票房逆跌",
-      "onboard_time": 1687514192,
-      "rank": 8,
+      "raw_hot": 1275221,
+      "num": 1275221,
+      "word": "赵丽颖贵气的闪",
+      "onboard_time": 1687516233,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -219,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1039600,
+      "num": 916885,
+      "word": "赵丽颖工作室P图",
+      "onboard_time": 1687517550,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1031500,
       "num": 1031500,
       "word": "董事长开车进长城被拒强拆大门",
@@ -233,14 +265,6 @@
       "onboard_time": 1687495172,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 966725,
-      "num": 966725,
-      "word": "外星人",
-      "onboard_time": 1687514493,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 960865,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810339,
+      "num": 1795652,
+      "word": "男生高考查分601激动满屋蹦跳",
+      "onboard_time": 1687517492,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 807667,
       "num": 807667,
       "word": "白玉兰提名",
@@ -369,14 +401,6 @@
       "onboard_time": 1687486172,
       "rank": 39,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 741230,
-      "num": 741230,
-      "word": "赵丽颖贵气的闪",
-      "onboard_time": 1687516233,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 724316,
@@ -411,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666259,
+      "num": 666259,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1687518570,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 663489,
+      "num": 663489,
+      "word": "周雨彤贵气",
+      "onboard_time": 1687516051,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 651601,
       "num": 368510,
       "word": "三五千的工资去国外工作",
@@ -420,11 +460,19 @@
     },
     {
       "raw_hot": 648717,
-      "num": 1448586,
+      "num": 1554942,
       "word": "端午假期第2天你在干什么",
       "onboard_time": 1687501532,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639759,
+      "num": 588210,
+      "word": "秦岚中空连衣裙",
+      "onboard_time": 1687515750,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 638262,
@@ -451,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 588210,
-      "num": 588210,
-      "word": "秦岚中空连衣裙",
-      "onboard_time": 1687515750,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 583314,
       "num": 583314,
       "word": "制片人说迪丽热巴在90后数一数二",
@@ -481,6 +521,14 @@
       "onboard_time": 1687497094,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570198,
+      "num": 570198,
+      "word": "辽宁大连一村庄一家六口遇害",
+      "onboard_time": 1687513173,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565809,
@@ -529,6 +577,14 @@
       "onboard_time": 1687494453,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540398,
+      "num": 540398,
+      "word": "只有广东人是真心想救屈原的",
+      "onboard_time": 1687517251,
+      "rank": 18,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 529224,
@@ -587,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 508223,
+      "num": 365839,
+      "word": "张颂文好帅",
+      "onboard_time": 1687517848,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506123,
       "num": 399131,
       "word": "张雪峰的求生欲",
@@ -603,20 +667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500050,
+      "num": 361288,
+      "word": "张译去不去白玉兰",
+      "onboard_time": 1687517311,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494987,
       "num": 494987,
       "word": "虞书欣范丞丞G社生图",
       "onboard_time": 1687481129,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 486536,
-      "num": 486536,
-      "word": "辽宁大连一村庄一家六口遇害",
-      "onboard_time": 1687513173,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486010,
@@ -739,6 +803,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424222,
+      "num": 345903,
+      "word": "法国男子十年间近百次找陌生人强奸妻子",
+      "onboard_time": 1687510231,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419751,
+      "num": 248594,
+      "word": "一只虫子带来的烧伤",
+      "onboard_time": 1687518330,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400423,
       "num": 400423,
       "word": "难哄",
@@ -843,14 +923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 366982,
-      "num": 366982,
-      "word": "周雨彤贵气",
-      "onboard_time": 1687516051,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 363802,
       "num": 363802,
       "word": "BKPP 嵩山音乐节",
@@ -953,6 +1025,14 @@
       "onboard_time": 1687488389,
       "rank": 25,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 329424,
+      "num": 244938,
+      "word": "在简历里撒了谎却得到这份工作的我",
+      "onboard_time": 1687518570,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 326724,
@@ -1275,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258619,
+      "num": 229912,
+      "word": "黄子韬发博为鹿晗演唱会加油",
+      "onboard_time": 1687518809,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257867,
       "num": 257867,
       "word": "如何聊出自带BGM的天",
@@ -1297,6 +1385,14 @@
       "onboard_time": 1687508791,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257684,
+      "num": 219782,
+      "word": "奔跑吧",
+      "onboard_time": 1687518212,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 254188,
@@ -1465,6 +1561,22 @@
       "onboard_time": 1687515210,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228003,
+      "num": 228003,
+      "word": "温州一龙舟赛提示女性勿在桥上逗留",
+      "onboard_time": 1687517428,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222791,
+      "num": 222791,
+      "word": "参加30岁聚会时的我本人",
+      "onboard_time": 1687517789,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 221637,
@@ -1731,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188332,
+      "num": 188332,
+      "word": "渝爱把粽子蒸笼打翻了",
+      "onboard_time": 1687518151,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 187891,
       "num": 187891,
       "word": "嵩山音乐节",
@@ -1899,6 +2019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 161888,
+      "num": 180186,
+      "word": "螃蟹粽是包粽子难度天花板吧",
+      "onboard_time": 1687516830,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161108,
       "num": 161108,
       "word": "张杰音乐节现场",
@@ -1945,14 +2073,6 @@
       "onboard_time": 1687509272,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138790,
-      "num": 166245,
-      "word": "螃蟹粽是包粽子难度天花板吧",
-      "onboard_time": 1687516830,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 136178,
@@ -2107,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58870,
+      "num": 1780586,
+      "word": "北斗全球卫星导航系统星座部署完成三周年",
+      "onboard_time": 1687517492,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51388,
       "num": 76632,
       "word": "这熊有点虎 这虎有点熊",
@@ -2129,6 +2257,14 @@
       "onboard_time": 1687507831,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36238,
+      "num": 219873,
+      "word": "饿了么免单是懂考生的",
+      "onboard_time": 1687518030,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 33821,
@@ -2167,6 +2303,9 @@
     },
     {
       "word": "#端午龙舟大片为中国风代言#"
+    },
+    {
+      "word": "#2023高考分数线汇总#"
     }
   ]
 }
