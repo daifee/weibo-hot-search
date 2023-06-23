@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687537536319,
+  "endTime": 1687538546136,
   "band_list": [
     {
       "raw_hot": 3041115,
@@ -27,6 +27,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1469492,
+      "num": 1469492,
+      "word": "赵丽颖回应三次陪跑",
+      "onboard_time": 1687533039,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1252797,
       "num": 1142317,
       "word": "炎亚纶",
@@ -51,16 +59,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1134496,
-      "num": 401182,
-      "word": "赵丽颖回应三次陪跑",
-      "onboard_time": 1687533039,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 1073357,
+      "num": 1073357,
+      "word": "女子到宾馆匆匆开房浙江老板娘报警",
+      "onboard_time": 1687536697,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1065632,
-      "num": 402856,
+      "num": 563673,
       "word": "开端",
       "onboard_time": 1687534598,
       "rank": 11,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 784800,
-      "num": 365025,
+      "num": 455626,
       "word": "倪妮好帅我好爱",
       "onboard_time": 1687535557,
       "rank": 15,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 752164,
-      "num": 298254,
+      "num": 365084,
       "word": "沈梦瑶起诉丝芭传媒申请解约",
       "onboard_time": 1687530588,
       "rank": 20,
@@ -121,6 +129,14 @@
       "onboard_time": 1687533279,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 707000,
+      "num": 707000,
+      "word": "男生高考查分584父子俩笑得合不拢嘴",
+      "onboard_time": 1687521093,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 675279,
@@ -203,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371765,
-      "num": 371765,
-      "word": "女子到宾馆匆匆开房浙江老板娘报警",
-      "onboard_time": 1687536697,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371127,
       "num": 233216,
       "word": "向往的生活",
@@ -225,6 +233,14 @@
       "onboard_time": 1687520972,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337754,
+      "num": 290857,
+      "word": "没房贷的下属太可怕了",
+      "onboard_time": 1687508010,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 329807,
@@ -267,12 +283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299643,
-      "num": 299643,
-      "word": "男生高考查分584父子俩笑得合不拢嘴",
-      "onboard_time": 1687521093,
-      "rank": 19,
-      "category": "社会新闻,教育"
+      "raw_hot": 301238,
+      "num": 264758,
+      "word": "这就是我开放朋友圈的意义",
+      "onboard_time": 1687523254,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 297923,
@@ -283,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290857,
-      "num": 290857,
-      "word": "没房贷的下属太可怕了",
-      "onboard_time": 1687508010,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 297487,
+      "num": 218461,
+      "word": "漫长的季节",
+      "onboard_time": 1687537353,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 285998,
@@ -299,20 +315,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 267142,
-      "num": 218461,
-      "word": "漫长的季节",
-      "onboard_time": 1687537353,
+      "raw_hot": 258494,
+      "num": 258494,
+      "word": "婴儿高速遇车祸山东大哥急送医",
+      "onboard_time": 1687537592,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253702,
+      "num": 182983,
+      "word": "偷偷藏不住甜飞了",
+      "onboard_time": 1687538188,
       "rank": 44,
       "category": "影视"
     },
     {
-      "raw_hot": 264758,
-      "num": 264758,
-      "word": "这就是我开放朋友圈的意义",
-      "onboard_time": 1687523254,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 253273,
+      "num": 182164,
+      "word": "县委大院白玉兰奖最佳原创编剧",
+      "onboard_time": 1687525358,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 239674,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#端午龙舟大片为中国风代言#"
+    },
+    {
+      "word": "#2023高考分数线汇总#"
     }
   ]
 }
