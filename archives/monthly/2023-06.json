@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687534443664,
+  "endTime": 1687537536319,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -665,6 +665,14 @@
       "onboard_time": 1686021208,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3041115,
+      "num": 3041115,
+      "word": "大小S宣布起诉葛斯齐",
+      "onboard_time": 1687534658,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3026668,
@@ -2849,6 +2857,14 @@
       "onboard_time": 1685620705,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1761891,
+      "num": 1761891,
+      "word": "鹿晗演唱会上不敢读的灯牌",
+      "onboard_time": 1687533642,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1760114,
@@ -5363,6 +5379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252797,
+      "num": 1142317,
+      "word": "炎亚纶",
+      "onboard_time": 1687533943,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1251750,
       "num": 585382,
       "word": "学术妲己 同组研究生",
@@ -5785,6 +5809,14 @@
       "onboard_time": 1685841865,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1181622,
+      "num": 1181622,
+      "word": "赵丽颖白玉兰获奖感言",
+      "onboard_time": 1687534237,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1179979,
@@ -6547,14 +6579,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1092665,
-      "num": 421608,
-      "word": "鹿晗演唱会上不敢读的灯牌",
-      "onboard_time": 1687533642,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1089578,
       "num": 1089578,
       "word": "国人买iPhone14Pro需9.5%年收入",
@@ -6729,6 +6753,14 @@
       "onboard_time": 1686645807,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065632,
+      "num": 402856,
+      "word": "开端",
+      "onboard_time": 1687534598,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1064802,
@@ -8675,14 +8707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 863110,
-      "num": 349698,
-      "word": "赵丽颖白玉兰获奖感言",
-      "onboard_time": 1687534237,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 861809,
       "num": 386195,
       "word": "被录取了因体检不合格被刷",
@@ -9523,6 +9547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797873,
+      "num": 797873,
+      "word": "丫丫回国前后变化好大",
+      "onboard_time": 1687534360,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797410,
       "num": 579267,
       "word": "我被Excel骂了",
@@ -9627,6 +9659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786242,
+      "num": 786242,
+      "word": "暴雪",
+      "onboard_time": 1687533943,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 785843,
       "num": 785843,
       "word": "种地吧 根本补不完",
@@ -9664,6 +9704,14 @@
       "word": "网友评选上半年烂剧之王",
       "onboard_time": 1686979595,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 784800,
+      "num": 365025,
+      "word": "倪妮好帅我好爱",
+      "onboard_time": 1687535557,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -10713,6 +10761,14 @@
       "onboard_time": 1687241133,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708040,
+      "num": 310648,
+      "word": "消失的她 看不见的客人",
+      "onboard_time": 1687533279,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 707420,
@@ -12467,6 +12523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 582079,
+      "num": 287851,
+      "word": "大张伟唱了静止",
+      "onboard_time": 1687536097,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 582046,
       "num": 683098,
       "word": "苏炳添决定不参加世锦赛和亚运会",
@@ -12961,14 +13025,6 @@
       "onboard_time": 1686798566,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 555887,
-      "num": 310648,
-      "word": "消失的她 看不见的客人",
-      "onboard_time": 1687533279,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 555765,
@@ -16091,6 +16147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427338,
+      "num": 239240,
+      "word": "白玉兰",
+      "onboard_time": 1687144947,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426775,
       "num": 381210,
       "word": "网友拍到的龙吸水",
@@ -16569,6 +16633,14 @@
       "onboard_time": 1687003291,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 414421,
+      "num": 414421,
+      "word": "敬礼娃娃郎铮高考文科637分",
+      "onboard_time": 1687534837,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 414327,
@@ -17787,14 +17859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382039,
-      "num": 251402,
-      "word": "炎亚纶",
-      "onboard_time": 1687533943,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381767,
       "num": 381767,
       "word": "敦煌飞天本该是男的",
@@ -18193,6 +18257,14 @@
       "onboard_time": 1687011993,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371765,
+      "num": 371765,
+      "word": "女子到宾馆匆匆开房浙江老板娘报警",
+      "onboard_time": 1687536697,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371645,
@@ -22979,14 +23051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293066,
-      "num": 293066,
-      "word": "丫丫回国前后变化好大",
-      "onboard_time": 1687534360,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293050,
       "num": 293050,
       "word": "谢娜捍卫张颂文歌手身份",
@@ -25561,6 +25625,14 @@
       "onboard_time": 1686646826,
       "rank": 22,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 267142,
+      "num": 218461,
+      "word": "漫长的季节",
+      "onboard_time": 1687537353,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 267049,
@@ -29009,14 +29081,6 @@
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239240,
-      "num": 239240,
-      "word": "白玉兰",
-      "onboard_time": 1687144947,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 239217,
@@ -37611,14 +37675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190079,
-      "num": 233336,
-      "word": "暴雪",
-      "onboard_time": 1687533943,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190065,
       "num": 190065,
       "word": "肖春生姐姐怀孕了",
@@ -41065,6 +41121,14 @@
       "onboard_time": 1687442436,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171248,
+      "num": 218161,
+      "word": "AI绘画给人类带来的变化",
+      "onboard_time": 1687535258,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 171234,
