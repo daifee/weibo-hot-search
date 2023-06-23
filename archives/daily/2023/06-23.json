@@ -1,6 +1,6 @@
 {
   "startTime": 1687450910448,
-  "endTime": 1687494212050,
+  "endTime": 1687495113397,
   "band_list": [
     {
       "raw_hot": 4212896,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945757,
+      "num": 352981,
+      "word": "原来30岁才是人生的开始",
+      "onboard_time": 1687490370,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 944263,
       "num": 944263,
       "word": "江西分数线",
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 866219,
-      "num": 352981,
-      "word": "原来30岁才是人生的开始",
-      "onboard_time": 1687490370,
-      "rank": 20,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 841028,
       "num": 521750,
       "word": "刘亦菲去迪拜了",
@@ -169,6 +169,14 @@
       "onboard_time": 1687488692,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 800243,
+      "num": 435205,
+      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
+      "onboard_time": 1687491931,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770842,
@@ -187,8 +195,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 707799,
-      "num": 707799,
+      "raw_hot": 716089,
+      "num": 716089,
       "word": "偷偷藏不住暗恋be",
       "onboard_time": 1687491811,
       "rank": 44,
@@ -217,14 +225,6 @@
       "onboard_time": 1687440632,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 595501,
-      "num": 402756,
-      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
-      "onboard_time": 1687491931,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577850,
@@ -315,6 +315,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 505210,
+      "num": 505210,
+      "word": "姆巴佩将加盟皇马",
+      "onboard_time": 1687492892,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494987,
       "num": 494987,
       "word": "虞书欣范丞丞G社生图",
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431439,
+      "num": 339657,
+      "word": "广东揭阳一龙舟侧翻2人死亡",
+      "onboard_time": 1687493672,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430908,
       "num": 430908,
       "word": "彭昱畅看完我爱你哭惨了",
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419456,
+      "num": 419456,
+      "word": "李雪琴高中扎马尾照片",
+      "onboard_time": 1687493433,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400076,
       "num": 400076,
       "word": "赵丽颖黑色复古裙",
       "onboard_time": 1687442313,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 395200,
-      "num": 395200,
-      "word": "姆巴佩将加盟皇马",
-      "onboard_time": 1687492892,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 388541,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337401,
+      "num": 337401,
+      "word": "乘风四公",
+      "onboard_time": 1687494453,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330806,
       "num": 330806,
       "word": "女子连生6女被要求生子想离婚遭驳回",
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272180,
+      "num": 272180,
+      "word": "许光汉买菜人夫感",
+      "onboard_time": 1687494453,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269926,
       "num": 269926,
       "word": "湖人选中胡德斯基菲诺",
@@ -603,18 +635,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268052,
+      "num": 268052,
+      "word": "警惕网红言论误导志愿填报",
+      "onboard_time": 1687494031,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 267208,
       "num": 267208,
       "word": "宋雨琦原来是SM家族粉",
       "onboard_time": 1687430610,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 266376,
-      "num": 266376,
-      "word": "李雪琴高中扎马尾照片",
-      "onboard_time": 1687493433,
       "rank": 26,
       "category": "艺人"
     },
@@ -664,14 +696,6 @@
       "word": "成都不明发光体刷屏朋友圈",
       "onboard_time": 1687482750,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254095,
-      "num": 250158,
-      "word": "广东揭阳一龙舟侧翻2人死亡",
-      "onboard_time": 1687493672,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -753,6 +777,14 @@
       "onboard_time": 1687446337,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218692,
+      "num": 218692,
+      "word": "薛之谦把好声音转椅搬来巡演",
+      "onboard_time": 1687494811,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 214495,
@@ -915,6 +947,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187891,
+      "num": 187891,
+      "word": "嵩山音乐节",
+      "onboard_time": 1687494516,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185531,
+      "num": 185531,
+      "word": "陕西高考",
+      "onboard_time": 1687494933,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 185342,
+      "num": 189651,
+      "word": "消失的她南京路演",
+      "onboard_time": 1687493789,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183451,
       "num": 183451,
       "word": "洛子商恨顾九思的原因",
@@ -928,14 +984,6 @@
       "word": "消失的她结局",
       "onboard_time": 1687420769,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 178352,
-      "num": 178352,
-      "word": "消失的她南京路演",
-      "onboard_time": 1687493789,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1057,14 +1105,6 @@
       "onboard_time": 1687439191,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142188,
-      "num": 142188,
-      "word": "警惕网红言论误导志愿填报",
-      "onboard_time": 1687494031,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 135123,

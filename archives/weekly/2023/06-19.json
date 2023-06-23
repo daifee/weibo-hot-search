@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687494212050,
+  "endTime": 1687495113397,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -1723,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 945757,
+      "num": 352981,
+      "word": "原来30岁才是人生的开始",
+      "onboard_time": 1687490370,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 945569,
       "num": 945569,
       "word": "肖战 蒙牛",
@@ -1931,14 +1939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 866219,
-      "num": 352981,
-      "word": "原来30岁才是人生的开始",
-      "onboard_time": 1687490370,
-      "rank": 20,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 866190,
       "num": 866190,
       "word": "我点的奶茶被领导捎了上来",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1687142910,
       "rank": 38,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 800243,
+      "num": 435205,
+      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
+      "onboard_time": 1687491931,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797410,
@@ -2395,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716089,
+      "num": 716089,
+      "word": "偷偷藏不住暗恋be",
+      "onboard_time": 1687491811,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 712931,
       "num": 712931,
       "word": "杭州一企业月薪1万2半年只招到两人",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1687241133,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 707799,
-      "num": 707799,
-      "word": "偷偷藏不住暗恋be",
-      "onboard_time": 1687491811,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 706973,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1687399954,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 595501,
-      "num": 402756,
-      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
-      "onboard_time": 1687491931,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595368,
@@ -3283,6 +3283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 505210,
+      "num": 505210,
+      "word": "姆巴佩将加盟皇马",
+      "onboard_time": 1687492892,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505061,
       "num": 514133,
       "word": "布林肯访华",
@@ -3811,6 +3819,14 @@
       "category": "影视,综艺"
     },
     {
+      "raw_hot": 431439,
+      "num": 339657,
+      "word": "广东揭阳一龙舟侧翻2人死亡",
+      "onboard_time": 1687493672,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430929,
       "num": 407817,
       "word": "张嘉倪的手机壳是Ella表情包",
@@ -3937,6 +3953,14 @@
       "onboard_time": 1687073788,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 419456,
+      "num": 419456,
+      "word": "李雪琴高中扎马尾照片",
+      "onboard_time": 1687493433,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 417804,
@@ -4105,14 +4129,6 @@
       "onboard_time": 1687144466,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 395200,
-      "num": 395200,
-      "word": "姆巴佩将加盟皇马",
-      "onboard_time": 1687492892,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 394797,
@@ -4800,6 +4816,14 @@
       "word": "玫瑰故事",
       "onboard_time": 1687166381,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337401,
+      "num": 337401,
+      "word": "乘风四公",
+      "onboard_time": 1687494453,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -5859,6 +5883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272180,
+      "num": 272180,
+      "word": "许光汉买菜人夫感",
+      "onboard_time": 1687494453,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271937,
       "num": 271937,
       "word": "林俊杰宋仲基合照",
@@ -6003,6 +6035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268052,
+      "num": 268052,
+      "word": "警惕网红言论误导志愿填报",
+      "onboard_time": 1687494031,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 267288,
       "num": 267288,
       "word": "坐飞机发现前男友的座位在旁边",
@@ -6041,14 +6081,6 @@
       "onboard_time": 1687443038,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266376,
-      "num": 266376,
-      "word": "李雪琴高中扎马尾照片",
-      "onboard_time": 1687493433,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 265974,
@@ -6312,14 +6344,6 @@
       "word": "成都不明发光体刷屏朋友圈",
       "onboard_time": 1687482750,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254095,
-      "num": 250158,
-      "word": "广东揭阳一龙舟侧翻2人死亡",
-      "onboard_time": 1687493672,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -7329,6 +7353,14 @@
       "onboard_time": 1687280185,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218692,
+      "num": 218692,
+      "word": "薛之谦把好声音转椅搬来巡演",
+      "onboard_time": 1687494811,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 218296,
@@ -8555,6 +8587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185531,
+      "num": 185531,
+      "word": "陕西高考",
+      "onboard_time": 1687494933,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 185360,
       "num": 185360,
       "word": "迪丽热巴嘉人NOW夏季刊封面",
@@ -8569,6 +8609,14 @@
       "onboard_time": 1687245871,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185342,
+      "num": 189651,
+      "word": "消失的她南京路演",
+      "onboard_time": 1687493789,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 184840,
@@ -8753,14 +8801,6 @@
       "onboard_time": 1687132706,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178352,
-      "num": 178352,
-      "word": "消失的她南京路演",
-      "onboard_time": 1687493789,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 178325,
@@ -9921,14 +9961,6 @@
       "onboard_time": 1687268015,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142188,
-      "num": 142188,
-      "word": "警惕网红言论误导志愿填报",
-      "onboard_time": 1687494031,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 141945,

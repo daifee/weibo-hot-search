@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687494212050,
+  "endTime": 1687495113397,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -7443,6 +7443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 945757,
+      "num": 352981,
+      "word": "原来30岁才是人生的开始",
+      "onboard_time": 1687490370,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 945569,
       "num": 945569,
       "word": "肖战 蒙牛",
@@ -8185,14 +8193,6 @@
       "onboard_time": 1686048509,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 866219,
-      "num": 352981,
-      "word": "原来30岁才是人生的开始",
-      "onboard_time": 1687490370,
-      "rank": 20,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 866190,
@@ -9025,6 +9025,14 @@
       "onboard_time": 1686194852,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 800243,
+      "num": 435205,
+      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
+      "onboard_time": 1687491931,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799995,
@@ -10107,6 +10115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716089,
+      "num": 716089,
+      "word": "偷偷藏不住暗恋be",
+      "onboard_time": 1687491811,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 715148,
       "num": 715148,
       "word": "TFBOYS演唱会流程图",
@@ -10201,14 +10217,6 @@
       "onboard_time": 1687241133,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 707799,
-      "num": 707799,
-      "word": "偷偷藏不住暗恋be",
-      "onboard_time": 1687491811,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 707420,
@@ -11617,14 +11625,6 @@
       "onboard_time": 1685720071,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 595501,
-      "num": 402756,
-      "word": "莫迪往拜登夫人手里放了一颗7.5克拉绿钻",
-      "onboard_time": 1687491931,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595400,
@@ -13321,6 +13321,14 @@
       "onboard_time": 1686028649,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505210,
+      "num": 505210,
+      "word": "姆巴佩将加盟皇马",
+      "onboard_time": 1687492892,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 504691,
@@ -15155,6 +15163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 431439,
+      "num": 339657,
+      "word": "广东揭阳一龙舟侧翻2人死亡",
+      "onboard_time": 1687493672,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431240,
       "num": 398039,
       "word": "花戎",
@@ -15553,6 +15569,14 @@
       "onboard_time": 1686985706,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419456,
+      "num": 419456,
+      "word": "李雪琴高中扎马尾照片",
+      "onboard_time": 1687493433,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 419163,
@@ -16369,14 +16393,6 @@
       "onboard_time": 1685845587,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395200,
-      "num": 395200,
-      "word": "姆巴佩将加盟皇马",
-      "onboard_time": 1687492892,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 395000,
@@ -19048,6 +19064,14 @@
       "word": "玫瑰故事",
       "onboard_time": 1685627913,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337401,
+      "num": 337401,
+      "word": "乘风四公",
+      "onboard_time": 1687494453,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -23843,6 +23867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272180,
+      "num": 272180,
+      "word": "许光汉买菜人夫感",
+      "onboard_time": 1687494453,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272059,
       "num": 272059,
       "word": "全员加速中猎人真实身份",
@@ -24307,6 +24339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268052,
+      "num": 268052,
+      "word": "警惕网红言论误导志愿填报",
+      "onboard_time": 1687494031,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 268013,
       "num": 268013,
       "word": "李一桐又剪短发了",
@@ -24433,14 +24473,6 @@
       "onboard_time": 1687443038,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266376,
-      "num": 266376,
-      "word": "李雪琴高中扎马尾照片",
-      "onboard_time": 1687493433,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 266227,
@@ -25904,14 +25936,6 @@
       "word": "张桂梅还穿着那件泛白的黑衬衣",
       "onboard_time": 1686217775,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254095,
-      "num": 250158,
-      "word": "广东揭阳一龙舟侧翻2人死亡",
-      "onboard_time": 1687493672,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -30761,6 +30785,14 @@
       "onboard_time": 1685856689,
       "rank": 30,
       "category": "科技,自然"
+    },
+    {
+      "raw_hot": 218692,
+      "num": 218692,
+      "word": "薛之谦把好声音转椅搬来巡演",
+      "onboard_time": 1687494811,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 218691,
@@ -37147,6 +37179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185531,
+      "num": 185531,
+      "word": "陕西高考",
+      "onboard_time": 1687494933,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 185502,
       "num": 185502,
       "word": "蒋依依粉丝破一千万",
@@ -37193,6 +37233,14 @@
       "onboard_time": 1687245871,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185342,
+      "num": 189651,
+      "word": "消失的她南京路演",
+      "onboard_time": 1687493789,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 185337,
@@ -38360,14 +38408,6 @@
       "word": "看完变形金刚 爱上幻影",
       "onboard_time": 1686318690,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 178352,
-      "num": 178352,
-      "word": "消失的她南京路演",
-      "onboard_time": 1687493789,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -44545,14 +44585,6 @@
       "onboard_time": 1686910047,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142188,
-      "num": 142188,
-      "word": "警惕网红言论误导志愿填报",
-      "onboard_time": 1687494031,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142180,
