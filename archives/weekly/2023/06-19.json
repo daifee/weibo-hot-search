@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687529811661,
+  "endTime": 1687530923811,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -99,6 +99,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 7135158,
+      "num": 7135158,
+      "word": "赵丽颖三次陪跑",
+      "onboard_time": 1687528550,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 7110056,
       "num": 7110056,
       "word": "雷佳音 白玉兰视帝",
@@ -113,14 +121,6 @@
       "onboard_time": 1687344873,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5770517,
-      "num": 5770517,
-      "word": "赵丽颖三次陪跑",
-      "onboard_time": 1687528550,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 4647356,
@@ -705,6 +705,14 @@
       "onboard_time": 1687233094,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1948041,
+      "num": 1948041,
+      "word": "马伊琍 俊生和凌玲祝福你们",
+      "onboard_time": 1687529146,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 1939343,
@@ -1707,14 +1715,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1094797,
-      "num": 484418,
-      "word": "马伊琍 俊生和凌玲祝福你们",
-      "onboard_time": 1687529146,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1089578,
       "num": 1089578,
       "word": "国人买iPhone14Pro需9.5%年收入",
@@ -2041,6 +2041,14 @@
       "onboard_time": 1687164284,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 945868,
+      "num": 500151,
+      "word": "银川烧烤店爆炸事故伤亡人员身份已全部核定",
+      "onboard_time": 1687528912,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 945757,
@@ -2555,6 +2563,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 801703,
+      "num": 376872,
+      "word": "沈梦瑶起诉丝芭传媒申请解约",
+      "onboard_time": 1687530588,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797410,
       "num": 579267,
       "word": "我被Excel骂了",
@@ -2691,6 +2707,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 747393,
+      "num": 370990,
+      "word": "白玉兰最佳电视剧双黄蛋",
+      "onboard_time": 1687530408,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 747276,
       "num": 747276,
       "word": "幼师拍小朋友房车钱视频引争议",
@@ -2745,14 +2769,6 @@
       "onboard_time": 1687190916,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 733159,
-      "num": 500151,
-      "word": "银川烧烤店爆炸事故伤亡人员身份已全部核定",
-      "onboard_time": 1687528912,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 732798,
@@ -2985,6 +3001,14 @@
       "onboard_time": 1687219953,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 669284,
+      "num": 362393,
+      "word": "警察荣誉",
+      "onboard_time": 1687529448,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 666367,
@@ -3563,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547517,
+      "num": 247138,
+      "word": "向往的生活",
+      "onboard_time": 1687530763,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547350,
       "num": 547350,
       "word": "在妈妈坟前跳舞小女孩患有心脏病",
@@ -3819,14 +3851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513081,
-      "num": 255272,
-      "word": "警察荣誉",
-      "onboard_time": 1687529448,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 512674,
       "num": 1215370,
       "word": "杭州一男子在绿化带内迷路四天三夜",
@@ -4051,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483874,
+      "num": 246152,
+      "word": "风吹半夏",
+      "onboard_time": 1687530284,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482953,
       "num": 450729,
       "word": "为什么猫喜欢把屁股对着人",
@@ -4121,6 +4153,14 @@
       "onboard_time": 1687522413,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 474024,
+      "num": 474024,
+      "word": "碧峰峡",
+      "onboard_time": 1687529085,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473786,
@@ -4337,14 +4377,6 @@
       "onboard_time": 1687350693,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 448533,
-      "num": 448533,
-      "word": "碧峰峡",
-      "onboard_time": 1687529085,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447988,
@@ -5345,6 +5377,14 @@
       "onboard_time": 1687255353,
       "rank": 24,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 357492,
+      "num": 357492,
+      "word": "跟好朋友不再联系的原因",
+      "onboard_time": 1687530408,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 357252,
@@ -8947,6 +8987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209574,
+      "num": 245321,
+      "word": "DRG对战TTG",
+      "onboard_time": 1687529627,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208968,
       "num": 208968,
       "word": "这就是猫咪怪兽吧",
@@ -9729,14 +9777,6 @@
       "onboard_time": 1687411712,
       "rank": 42,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 191352,
-      "num": 212381,
-      "word": "DRG对战TTG",
-      "onboard_time": 1687529627,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 191351,
@@ -10987,6 +11027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 156988,
+      "num": 244022,
+      "word": "北京最高地表温度达到71.8℃",
+      "onboard_time": 1687527823,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156744,
       "num": 1235610,
       "word": "兵马俑的衣着有近20种色调",
@@ -11732,7 +11780,7 @@
     },
     {
       "raw_hot": 118707,
-      "num": 5880947,
+      "num": 5994849,
       "word": "遇到燃气泄漏应该如何处理",
       "onboard_time": 1687508671,
       "rank": 2,
