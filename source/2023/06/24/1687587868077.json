@@ -1,0 +1,410 @@
+{
+  "runTime": 1687587868077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3166004,
+        "num": 3166004,
+        "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+        "onboard_time": 1687583856,
+        "rank": 0,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 2727030,
+        "num": 2727030,
+        "word": "普京将发表电视讲话",
+        "onboard_time": 1687586314,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 133629,
+        "num": 2035736,
+        "word": "31省份报志愿时间全汇总",
+        "onboard_time": 1687578335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1844893,
+        "num": 1844893,
+        "word": "她她她",
+        "onboard_time": 1687583255,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1710027,
+        "num": 1710027,
+        "word": "俄罗斯",
+        "onboard_time": 1687562662,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1675964,
+        "num": 1675964,
+        "word": "炎亚纶前男友A先生再爆料",
+        "onboard_time": 1687577795,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1449311,
+        "num": 1449311,
+        "word": "高考理科623分决心复读了",
+        "onboard_time": 1687581158,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1237432,
+        "num": 1237432,
+        "word": "闭嘴跳舞 本季最佳",
+        "onboard_time": 1687583673,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 834135,
+        "num": 834135,
+        "word": "女生高考712分查完分就睡了",
+        "onboard_time": 1687568073,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 794740,
+        "num": 794740,
+        "word": "白敬亭第一次不爱鞋",
+        "onboard_time": 1687578874,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804028,
+        "num": 788998,
+        "word": "外媒称瓦格纳部队正进入俄南部",
+        "onboard_time": 1687575452,
+        "rank": 10,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 767468,
+        "num": 767468,
+        "word": "宁静说赵丽颖也是从横店街上出来的",
+        "onboard_time": 1687575396,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705992,
+        "num": 705992,
+        "word": "柳智敏",
+        "onboard_time": 1687583312,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702818,
+        "num": 702818,
+        "word": "谢娜彩排大哭",
+        "onboard_time": 1687584813,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685533,
+        "num": 685533,
+        "word": "炎亚纶 还好没有我的脸",
+        "onboard_time": 1687568133,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675648,
+        "num": 675648,
+        "word": "白宫称美方正关注俄国内局势",
+        "onboard_time": 1687573415,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 643493,
+        "num": 643493,
+        "word": "基辅称击落了超20枚俄军导弹",
+        "onboard_time": 1687579774,
+        "rank": 16,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 631107,
+        "num": 631107,
+        "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
+        "onboard_time": 1687571975,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 596977,
+        "num": 596977,
+        "word": "俄总检察长已向普京汇报情况",
+        "onboard_time": 1687572935,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 581345,
+        "num": 581345,
+        "word": "俄执法人员进驻瓦格纳集团总部大楼",
+        "onboard_time": 1687587095,
+        "rank": 19,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 765869,
+        "num": 570596,
+        "word": "在一起五年分手了是什么体验",
+        "onboard_time": 1687576295,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546961,
+        "num": 546961,
+        "word": "瓦格纳创始人否认试图发动武装叛乱",
+        "onboard_time": 1687578455,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 514449,
+        "num": 514449,
+        "word": "黄渤王一博八百个心眼子",
+        "onboard_time": 1687586012,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494370,
+        "num": 494370,
+        "word": "赵丽颖 戴比尔斯",
+        "onboard_time": 1687574015,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486534,
+        "num": 486534,
+        "word": "莫斯科正在进行反恐行动",
+        "onboard_time": 1687577853,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 481378,
+        "num": 481378,
+        "word": "姚景元高考分数401",
+        "onboard_time": 1687566691,
+        "rank": 25,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 459571,
+        "num": 459571,
+        "word": "直井怜我的英雄学院",
+        "onboard_time": 1687586555,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398653,
+        "num": 398653,
+        "word": "吴越 是不是大女主都没关系",
+        "onboard_time": 1687568672,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349300,
+        "num": 349300,
+        "word": "狂飙没拿奖",
+        "onboard_time": 1687564045,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327552,
+        "num": 327552,
+        "word": "鹿晗演唱会没唱勋章",
+        "onboard_time": 1687584396,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 671232,
+        "num": 326864,
+        "word": "胡锡进 瓦格纳集团究竟在发生什么",
+        "onboard_time": 1687586735,
+        "rank": 30,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 321915,
+        "num": 321915,
+        "word": "高考400分能上什么大学",
+        "onboard_time": 1687581632,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305540,
+        "num": 305540,
+        "word": "女生查分666全家齐喊666",
+        "onboard_time": 1687574254,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289930,
+        "num": 289930,
+        "word": "在山里不认识的东西不要乱碰",
+        "onboard_time": 1687582297,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288954,
+        "num": 288954,
+        "word": "身高150腿长90的人是这样的",
+        "onboard_time": 1687568914,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282317,
+        "num": 282317,
+        "word": "戒糖一年的变化",
+        "onboard_time": 1687563803,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280503,
+        "num": 280503,
+        "word": "雷佳音你要不要回头看看赵丽颖",
+        "onboard_time": 1687580014,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276494,
+        "num": 276494,
+        "word": "狐妖小红娘无暮篇",
+        "onboard_time": 1687581032,
+        "rank": 37,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 275099,
+        "num": 275099,
+        "word": "孙千评论赵丽颖说你跑我追",
+        "onboard_time": 1687570296,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270000,
+        "num": 270000,
+        "word": "高考分数线",
+        "onboard_time": 1687570715,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 262790,
+        "num": 262790,
+        "word": "校长接到学生高考喜报边欢呼边抹泪",
+        "onboard_time": 1687587333,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 255479,
+        "num": 255479,
+        "word": "王俊凯懂张凌赫的痛",
+        "onboard_time": 1687580735,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250173,
+        "num": 250173,
+        "word": "消失的她越解读越上头",
+        "onboard_time": 1687586973,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249218,
+        "num": 249218,
+        "word": "莫斯科已加强安全措施",
+        "onboard_time": 1687566750,
+        "rank": 43,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 240240,
+        "num": 240240,
+        "word": "莫斯科街头出现大批军车",
+        "onboard_time": 1687579894,
+        "rank": 44,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 223665,
+        "num": 223665,
+        "word": "33岁单身女管文被年龄绑架相亲",
+        "onboard_time": 1687582175,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218199,
+        "num": 218199,
+        "word": "鹿晗演唱会上不敢读的灯牌",
+        "onboard_time": 1687533642,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217928,
+        "num": 217928,
+        "word": "Angelababy说自己不适合当歌手",
+        "onboard_time": 1687587813,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199436,
+        "num": 214045,
+        "word": "雾山五行2定档",
+        "onboard_time": 1687582534,
+        "rank": 48,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 152640,
+        "num": 213578,
+        "word": "四川居然有一片蓝色海洋",
+        "onboard_time": 1687584934,
+        "rank": 49,
+        "category": "旅游,自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#端午龙舟大片为中国风代言#"
+    }
+  }
+}

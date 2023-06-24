@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687584929737,
+  "endTime": 1687587868077,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -19,6 +19,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3166004,
+      "num": 3166004,
+      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+      "onboard_time": 1687583856,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 3041115,
       "num": 3041115,
       "word": "大小S宣布起诉葛斯齐",
@@ -33,6 +41,14 @@
       "onboard_time": 1687574015,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2727030,
+      "num": 2727030,
+      "word": "普京将发表电视讲话",
+      "onboard_time": 1687586314,
+      "rank": 1,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 2513735,
@@ -83,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1844893,
+      "num": 1844893,
+      "word": "她她她",
+      "onboard_time": 1687583255,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1761891,
       "num": 1761891,
       "word": "鹿晗演唱会上不敢读的灯牌",
@@ -91,20 +115,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1738857,
-      "num": 1738857,
-      "word": "她她她",
-      "onboard_time": 1687583255,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1634431,
-      "num": 914504,
-      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
-      "onboard_time": 1687583856,
-      "rank": 30,
-      "category": "军事,国外要闻"
+      "raw_hot": 1675964,
+      "num": 1675964,
+      "word": "炎亚纶前男友A先生再爆料",
+      "onboard_time": 1687577795,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1510900,
@@ -131,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1449311,
+      "num": 1449311,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1447021,
       "num": 1447021,
       "word": "瓦格纳创始人否认试图发动武装叛乱",
@@ -145,22 +169,6 @@
       "onboard_time": 1687578874,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1378668,
-      "num": 1073699,
-      "word": "炎亚纶前男友A先生再爆料",
-      "onboard_time": 1687577795,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1367151,
-      "num": 1367151,
-      "word": "高考理科623分决心复读了",
-      "onboard_time": 1687581158,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 1323029,
@@ -209,6 +217,14 @@
       "onboard_time": 1687533943,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1237432,
+      "num": 1237432,
+      "word": "闭嘴跳舞 本季最佳",
+      "onboard_time": 1687583673,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 1181622,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 797483,
-      "num": 797483,
-      "word": "闭嘴跳舞 本季最佳",
-      "onboard_time": 1687583673,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 786242,
       "num": 786242,
       "word": "暴雪",
@@ -427,12 +435,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 702818,
+      "num": 702818,
+      "word": "谢娜彩排大哭",
+      "onboard_time": 1687584813,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 675279,
       "num": 314830,
       "word": "白敬亭宋轶耳朵都红了",
       "onboard_time": 1687526982,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 671232,
+      "num": 326864,
+      "word": "胡锡进 瓦格纳集团究竟在发生什么",
+      "onboard_time": 1687586735,
+      "rank": 30,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 662054,
@@ -491,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 581345,
+      "num": 581345,
+      "word": "俄执法人员进驻瓦格纳集团总部大楼",
+      "onboard_time": 1687587095,
+      "rank": 19,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 537880,
       "num": 340709,
       "word": "白玉兰最佳电视剧双黄蛋",
@@ -505,6 +537,14 @@
       "onboard_time": 1687575936,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 514449,
+      "num": 514449,
+      "word": "黄渤王一博八百个心眼子",
+      "onboard_time": 1687586012,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 506346,
@@ -585,6 +625,14 @@
       "onboard_time": 1687581632,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 459571,
+      "num": 459571,
+      "word": "直井怜我的英雄学院",
+      "onboard_time": 1687586555,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 430737,
@@ -811,6 +859,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 327552,
+      "num": 327552,
+      "word": "鹿晗演唱会没唱勋章",
+      "onboard_time": 1687584396,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324000,
       "num": 324000,
       "word": "金靖演唱会想看五月天结果是伍佰",
@@ -947,14 +1003,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 286612,
-      "num": 286612,
-      "word": "谢娜彩排大哭",
-      "onboard_time": 1687584813,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285998,
       "num": 285998,
       "word": "男生高考查分601激动满屋蹦跳",
@@ -1003,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262790,
+      "num": 262790,
+      "word": "校长接到学生高考喜报边欢呼边抹泪",
+      "onboard_time": 1687587333,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 261717,
       "num": 261717,
       "word": "陆沉电话",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1687581275,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250173,
+      "num": 250173,
+      "word": "消失的她越解读越上头",
+      "onboard_time": 1687586973,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 248649,
@@ -1147,6 +1211,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 217928,
+      "num": 217928,
+      "word": "Angelababy说自己不适合当歌手",
+      "onboard_time": 1687587813,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214090,
       "num": 214090,
       "word": "谁是你印象最深刻的奥运会吉祥物",
@@ -1171,6 +1243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 199436,
+      "num": 214045,
+      "word": "雾山五行2定档",
+      "onboard_time": 1687582534,
+      "rank": 48,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 181012,
       "num": 218331,
       "word": "再苦也不能苦了我的樱桃小嘴",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1687535258,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152640,
+      "num": 213578,
+      "word": "四川居然有一片蓝色海洋",
+      "onboard_time": 1687584934,
+      "rank": 49,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 150742,
@@ -1235,20 +1323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133629,
+      "num": 2035736,
+      "word": "31省份报志愿时间全汇总",
+      "onboard_time": 1687578335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129555,
       "num": 129555,
       "word": "消失的她 大变活妻",
       "onboard_time": 1687543638,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128847,
-      "num": 1899789,
-      "word": "31省份报志愿时间全汇总",
-      "onboard_time": 1687578335,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107577,
