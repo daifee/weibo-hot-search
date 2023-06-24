@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 18:37:09
+本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 19:15:47
 </p>
 </blockquote>
 <p>
@@ -70,13 +70,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23" target="weibo">
-复读女生涨61分坐地嚎啕大哭（热度：2328570）
+复读女生涨61分坐地嚎啕大哭（热度：2452015）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8%23" target="weibo">
 炎亚纶 还好没有我的脸（热度：2237287）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%23" target="weibo">
+车臣（热度：2091006）
 </a>
 </li>
 
@@ -101,12 +107,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB%23" target="weibo">
 吴越 是不是大女主都没关系（热度：1862195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%23" target="weibo">
-车臣（热度：1862181）
 </a>
 </li>
 
@@ -231,6 +231,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86%23" target="weibo">
+看消失的她 恋爱脑治好了（热度：1199798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94%23" target="weibo">
+炎亚纶曾强吻曾之乔（热度：1196063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23" target="weibo">
 赵丽颖白玉兰获奖感言（热度：1181622）
 </a>
@@ -269,12 +281,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
 网友问老婆变成文咏珊为什么要报警（热度：1100137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86%23" target="weibo">
-看消失的她 恋爱脑治好了（热度：1098638）
 </a>
 </li>
 
@@ -351,6 +357,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B7%B2%E8%BE%BE%E5%8D%83%E4%BA%BF%23" target="weibo">
+字节跳动在贷余额已达千亿（热度：957705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%98%9F%E4%BA%BA%23" target="weibo">
 外星人（热度：948936）
 </a>
@@ -401,12 +413,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23" target="weibo">
 资助了三年的妹妹考了六百多分（热度：824661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B7%B2%E8%BE%BE%E5%8D%83%E4%BA%BF%23" target="weibo">
-字节跳动在贷余额已达千亿（热度：814743）
 </a>
 </li>
 
@@ -513,6 +519,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%23" target="weibo">
+披荆斩棘的哥哥（热度：666057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8F%91%E7%94%9F5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 北部湾发生5级地震（热度：662054）
 </a>
@@ -551,6 +563,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%23" target="weibo">
 俄乌局势（热度：607539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+新疆分数线（热度：588113）
 </a>
 </li>
 
@@ -711,8 +729,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%BD%A6%E9%93%B6%E4%BC%98%E5%90%8C%E6%A1%86%23" target="weibo">
+陈飞宇车银优同框（热度：457475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
 天津分数线（热度：455109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%8A%B5%E8%BE%BE%E9%95%BF%E6%B2%99%23" target="weibo">
+张栋梁抵达长沙（热度：434420）
 </a>
 </li>
 
@@ -759,6 +789,12 @@ eStar对战DYG（热度：425803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%23" target="weibo">
+无畏（热度：420166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4%E7%9C%8B%E7%9C%8B%E8%B5%B5%E4%B8%BD%E9%A2%96%23" target="weibo">
 雷佳音你要不要回头看看赵丽颖（热度：418147）
 </a>
@@ -779,12 +815,6 @@ Angelababy说自己不适合当歌手（热度：415619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%97%A0%E6%9A%AE%E7%AF%87%23" target="weibo">
 狐妖小红娘无暮篇（热度：415587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%BD%A6%E9%93%B6%E4%BC%98%E5%90%8C%E6%A1%86%23" target="weibo">
-陈飞宇车银优同框（热度：415179）
 </a>
 </li>
 
@@ -909,6 +939,18 @@ BKPP（热度：393537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E5%B0%86%E5%87%BA%E5%B8%AD%E6%B5%B7%E5%BE%B7%E5%85%AC%E5%9B%AD%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+BLACKPINK将出席海德公园音乐节（热度：354534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%9C%A8%E9%81%93%E6%AD%89%E5%92%8C%E5%93%84%E4%BA%BA%E4%B8%AD%E9%80%89%E6%8B%A9%E4%BA%86%E5%81%9A%E6%B3%95%23" target="weibo">
+哥哥在道歉和哄人中选择了做法（热度：354416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E5%81%9A%E7%BB%84%E5%90%88%E6%87%82%E7%9A%84%E4%BA%BA%E9%83%BD%E6%87%82%23" target="weibo">
 黄子韬说做组合懂的人都懂（热度：353267）
 </a>
@@ -959,6 +1001,12 @@ BKPP（热度：393537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AC%23" target="weibo">
 四公（热度：334549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E8%BF%98%E6%98%AF%E5%B0%8F%E5%87%AF%23" target="weibo">
+王俊凯说还是小凯（热度：332247）
 </a>
 </li>
 
@@ -1053,6 +1101,12 @@ BKPP（热度：393537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%B0%86%23" target="weibo">
+健将（热度：304253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%BE%88%E5%B0%91%E4%B8%8A%E7%BB%BC%E8%89%BA%23" target="weibo">
 王俊凯说自己很少上综艺（热度：302661）
 </a>
@@ -1137,8 +1191,8 @@ BKPP（热度：393537）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E5%B0%86%E5%87%BA%E5%B8%AD%E6%B5%B7%E5%BE%B7%E5%85%AC%E5%9B%AD%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-BLACKPINK将出席海德公园音乐节（热度：286280）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BE%AE%E6%8C%87%E6%95%B0%E9%A3%99%E5%8D%87%E7%AC%AC%E4%B8%80%23" target="weibo">
+赵丽颖微指数飙升第一（热度：286492）
 </a>
 </li>
 
@@ -1167,12 +1221,6 @@ BLACKPINK将出席海德公园音乐节（热度：286280）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-新疆分数线（热度：277578）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23" target="weibo">
 福建高考查分（热度：273312）
 </a>
@@ -1181,12 +1229,6 @@ BLACKPINK将出席海德公园音乐节（热度：286280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%23" target="weibo">
 全员加速中（热度：272242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E8%BF%98%E6%98%AF%E5%B0%8F%E5%87%AF%23" target="weibo">
-王俊凯说还是小凯（热度：272162）
 </a>
 </li>
 
@@ -1221,6 +1263,12 @@ BLACKPINK将出席海德公园音乐节（热度：286280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E6%88%91%E7%88%B1%E4%BD%A0%E8%A7%82%E5%BD%B1%E9%A1%BA%E5%BA%8F%23" target="weibo">
+消失的她我爱你观影顺序（热度：258158）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%E5%A5%BD%E8%BF%90%E6%9D%A5%E6%9F%A5%E5%87%BA593%E5%88%86%E5%A4%A7%E5%93%AD%23" target="weibo">
 男生单曲循环好运来查出593分大哭（热度：255270）
 </a>
@@ -1245,14 +1293,14 @@ BLACKPINK将出席海德公园音乐节（热度：286280）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%B6%8A%E8%A7%A3%E8%AF%BB%E8%B6%8A%E4%B8%8A%E5%A4%B4%23" target="weibo">
-消失的她越解读越上头（热度：250173）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23" target="weibo">
+弟弟考了640分却开心不起来（热度：252012）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%8A%B5%E8%BE%BE%E9%95%BF%E6%B2%99%23" target="weibo">
-张栋梁抵达长沙（热度：249857）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%B6%8A%E8%A7%A3%E8%AF%BB%E8%B6%8A%E4%B8%8A%E5%A4%B4%23" target="weibo">
+消失的她越解读越上头（热度：250173）
 </a>
 </li>
 
@@ -1281,14 +1329,14 @@ BLACKPINK将出席海德公园音乐节（热度：286280）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%A2%E7%9C%8B%E4%BA%86%E9%83%BD%E6%97%A0%E8%AF%AD%23" target="weibo">
-白客看了都无语（热度：242086）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%9C%8B%E5%BE%97%E6%88%91%E6%81%8B%E7%88%B1%E8%84%91%E5%8F%88%E7%8A%AF%E4%BA%86%23" target="weibo">
+长风渡看得我恋爱脑又犯了（热度：242439）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%9C%8B%E5%BE%97%E6%88%91%E6%81%8B%E7%88%B1%E8%84%91%E5%8F%88%E7%8A%AF%E4%BA%86%23" target="weibo">
-长风渡看得我恋爱脑又犯了（热度：241602）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%A2%E7%9C%8B%E4%BA%86%E9%83%BD%E6%97%A0%E8%AF%AD%23" target="weibo">
+白客看了都无语（热度：242086）
 </a>
 </li>
 
@@ -1499,12 +1547,6 @@ WE对战TT（热度：114163）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%88%9A%E8%B7%9F%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%8D%E6%98%AF%E8%BF%99%E6%A0%B7%E8%AF%B4%E7%9A%84%E5%95%8A%23" target="weibo">
 我刚跟理发师不是这样说的啊（热度：101965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%23" target="weibo">
-无畏（热度：101910）
 </a>
 </li>
 

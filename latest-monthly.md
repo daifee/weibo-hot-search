@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 18:37:09
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 19:15:47
 </p>
 </blockquote>
 <p>
@@ -1011,6 +1011,12 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23" target="weibo">
+复读女生涨61分坐地嚎啕大哭（热度：2452015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%B2%20%E7%8E%8B%E8%90%8C%23" target="weibo">
 陈露 王萌（热度：2445992）
 </a>
@@ -1157,12 +1163,6 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23" target="weibo">
 考生喊话取消调休（热度：2335137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23" target="weibo">
-复读女生涨61分坐地嚎啕大哭（热度：2328570）
 </a>
 </li>
 
@@ -1535,6 +1535,12 @@ Angelababy冷脸（热度：2172017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23" target="weibo">
 北京政法职业学院发布情况通报（热度：2096018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%23" target="weibo">
+车臣（热度：2091006）
 </a>
 </li>
 
@@ -2039,12 +2045,6 @@ lofter（热度：1890120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB%23" target="weibo">
 吴越 是不是大女主都没关系（热度：1862195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%23" target="weibo">
-车臣（热度：1862181）
 </a>
 </li>
 
@@ -4473,6 +4473,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86%23" target="weibo">
+看消失的她 恋爱脑治好了（热度：1199798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E5%9D%9D%E8%A2%AB%E7%82%B8%23" target="weibo">
 乌克兰大坝被炸（热度：1197139）
 </a>
@@ -4487,6 +4493,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%23" target="weibo">
 张大仙（热度：1196313）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%9B%BE%E5%BC%BA%E5%90%BB%E6%9B%BE%E4%B9%8B%E4%B9%94%23" target="weibo">
+炎亚纶曾强吻曾之乔（热度：1196063）
 </a>
 </li>
 
@@ -5099,12 +5111,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
 网友问老婆变成文咏珊为什么要报警（热度：1100137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86%23" target="weibo">
-看消失的她 恋爱脑治好了（热度：1098638）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%87%E5%AD%95%E5%89%8D%E5%8D%83%E4%B8%87%E8%AE%B0%E5%BE%97%E6%8B%94%E6%99%BA%E9%BD%BF%23" target="weibo">
 备孕前千万记得拔智齿（热度：967256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%9B%9B%E5%85%AC%20%E6%B7%98%E6%B1%B0%23" target="weibo">
-秋瓷炫四公 淘汰（热度：966673）
 </a>
 </li>
 
