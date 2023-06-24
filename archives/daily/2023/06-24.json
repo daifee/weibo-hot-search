@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687580606013,
+  "endTime": 1687581483876,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -11,8 +11,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 3182990,
-      "num": 3182990,
+      "raw_hot": 3188866,
+      "num": 3188866,
       "word": "俄罗斯",
       "onboard_time": 1687562662,
       "rank": 21,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1338484,
+      "num": 1338484,
+      "word": "瓦格纳创始人否认试图发动武装叛乱",
+      "onboard_time": 1687578455,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1323029,
       "num": 1323029,
       "word": "暴雪禁止中国大陆玩家参与暗黑4活动",
@@ -115,19 +123,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1319391,
+      "num": 1319391,
+      "word": "白敬亭第一次不爱鞋",
+      "onboard_time": 1687578874,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1312936,
       "num": 1312936,
       "word": "俄总检察长已向普京汇报情况",
       "onboard_time": 1687572935,
       "rank": 7,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1308802,
-      "num": 1308802,
-      "word": "瓦格纳创始人否认试图发动武装叛乱",
-      "onboard_time": 1687578455,
-      "rank": 6,
       "category": "国外要闻"
     },
     {
@@ -195,12 +203,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1129924,
-      "num": 1025996,
+      "raw_hot": 1132475,
+      "num": 1032533,
       "word": "炎亚纶前男友A先生再爆料",
       "onboard_time": 1687577795,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1092727,
+      "num": 999021,
+      "word": "基辅称击落了超20枚俄军导弹",
+      "onboard_time": 1687579774,
+      "rank": 19,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 1079872,
+      "num": 1079872,
+      "word": "高考状元",
+      "onboard_time": 1687579232,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 1065632,
@@ -235,14 +259,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1013017,
-      "num": 1013017,
-      "word": "白敬亭第一次不爱鞋",
-      "onboard_time": 1687578874,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 974716,
       "num": 974716,
       "word": "狂飙没拿奖",
@@ -275,6 +291,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 939036,
+      "num": 748760,
+      "word": "在一起五年分手了是什么体验",
+      "onboard_time": 1687576295,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 924484,
       "num": 924484,
       "word": "宁静说赵丽颖也是从横店街上出来的",
@@ -283,20 +307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 913651,
-      "num": 748760,
-      "word": "在一起五年分手了是什么体验",
-      "onboard_time": 1687576295,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 802093,
       "num": 697587,
       "word": "戒糖一年的变化",
       "onboard_time": 1687563803,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 798630,
+      "num": 798630,
+      "word": "女儿587分爸爸大喊祖坟冒烟了",
+      "onboard_time": 1687577015,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 797873,
@@ -323,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 776881,
-      "num": 776881,
-      "word": "女儿587分爸爸大喊祖坟冒烟了",
-      "onboard_time": 1687577015,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 769274,
       "num": 769274,
       "word": "瓦格纳",
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 751293,
-      "num": 751293,
-      "word": "基辅称击落了超20枚俄军导弹",
-      "onboard_time": 1687579774,
-      "rank": 19,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 708040,
       "num": 296232,
       "word": "消失的她 看不见的客人",
@@ -377,14 +385,6 @@
       "onboard_time": 1687521093,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 701678,
-      "num": 701678,
-      "word": "高考状元",
-      "onboard_time": 1687579232,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 675279,
@@ -515,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430737,
+      "num": 412447,
+      "word": "莫斯科街头出现大批军车",
+      "onboard_time": 1687579894,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 430084,
       "num": 430084,
       "word": "赵丽颖从继续熬到继续跑",
@@ -537,6 +545,14 @@
       "onboard_time": 1687570356,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 418147,
+      "num": 418147,
+      "word": "雷佳音你要不要回头看看赵丽颖",
+      "onboard_time": 1687580014,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 417853,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396172,
+      "num": 396172,
+      "word": "王俊凯懂张凌赫的痛",
+      "onboard_time": 1687580735,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393537,
       "num": 393537,
       "word": "BKPP",
@@ -595,35 +619,27 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 378740,
-      "num": 233341,
-      "word": "张译 张颂文",
-      "onboard_time": 1687521514,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 378428,
-      "num": 378428,
+      "raw_hot": 380836,
+      "num": 380836,
       "word": "涂山苏苏说红红不会后悔",
       "onboard_time": 1687577736,
       "rank": 49,
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 374281,
-      "num": 374281,
+      "raw_hot": 379504,
+      "num": 379504,
       "word": "入职半个月被领导带头孤立了",
       "onboard_time": 1687577558,
       "rank": 42,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 372526,
-      "num": 372526,
-      "word": "雷佳音你要不要回头看看赵丽颖",
-      "onboard_time": 1687580014,
-      "rank": 37,
+      "raw_hot": 378740,
+      "num": 233341,
+      "word": "张译 张颂文",
+      "onboard_time": 1687521514,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -657,6 +673,14 @@
       "onboard_time": 1687528786,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347341,
+      "num": 347341,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 346705,
@@ -729,14 +753,6 @@
       "onboard_time": 1687531123,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310552,
-      "num": 310552,
-      "word": "莫斯科街头出现大批军车",
-      "onboard_time": 1687579894,
-      "rank": 38,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 309555,
@@ -851,12 +867,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272242,
+      "num": 272242,
+      "word": "全员加速中",
+      "onboard_time": 1687581275,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271600,
       "num": 271600,
       "word": "宁静你骂人可真高级",
       "onboard_time": 1687566509,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269413,
+      "num": 269413,
+      "word": "狐妖小红娘无暮篇",
+      "onboard_time": 1687581032,
+      "rank": 44,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 264436,
@@ -873,6 +905,14 @@
       "onboard_time": 1687576654,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261717,
+      "num": 261717,
+      "word": "陆沉电话",
+      "onboard_time": 1687581096,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 255270,
@@ -897,6 +937,14 @@
       "onboard_time": 1687525358,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253095,
+      "num": 253095,
+      "word": "王嘉尔菲董合照",
+      "onboard_time": 1687581275,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 248649,

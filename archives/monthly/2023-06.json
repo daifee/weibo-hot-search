@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687580606013,
+  "endTime": 1687581483876,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -635,8 +635,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 3182990,
-      "num": 3182990,
+      "raw_hot": 3188866,
+      "num": 3188866,
       "word": "俄罗斯",
       "onboard_time": 1687562662,
       "rank": 21,
@@ -4835,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1338484,
+      "num": 1338484,
+      "word": "瓦格纳创始人否认试图发动武装叛乱",
+      "onboard_time": 1687578455,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1336936,
       "num": 1336936,
       "word": "陈宏军居然出轨了",
@@ -4995,6 +5003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1319391,
+      "num": 1319391,
+      "word": "白敬亭第一次不爱鞋",
+      "onboard_time": 1687578874,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1319108,
       "num": 1026656,
       "word": "孙俪发文庆祝和邓超结婚十二周年",
@@ -5049,14 +5065,6 @@
       "onboard_time": 1685800650,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1308802,
-      "num": 1308802,
-      "word": "瓦格纳创始人否认试图发动武装叛乱",
-      "onboard_time": 1687578455,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1308571,
@@ -6339,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132475,
+      "num": 1032533,
+      "word": "炎亚纶前男友A先生再爆料",
+      "onboard_time": 1687577795,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1131874,
       "num": 1131874,
       "word": "周也为什么不穿紫色这套走红毯",
@@ -6368,14 +6384,6 @@
       "word": "Jennie身体状况",
       "onboard_time": 1686486811,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1129924,
-      "num": 1025996,
-      "word": "炎亚纶前男友A先生再爆料",
-      "onboard_time": 1687577795,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -6715,6 +6723,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1092727,
+      "num": 999021,
+      "word": "基辅称击落了超20枚俄军导弹",
+      "onboard_time": 1687579774,
+      "rank": 19,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1089578,
       "num": 1089578,
       "word": "国人买iPhone14Pro需9.5%年收入",
@@ -6801,6 +6817,14 @@
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1079872,
+      "num": 1079872,
+      "word": "高考状元",
+      "onboard_time": 1687579232,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 1079739,
@@ -7433,14 +7457,6 @@
       "onboard_time": 1685931088,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1013017,
-      "num": 1013017,
-      "word": "白敬亭第一次不爱鞋",
-      "onboard_time": 1687578874,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1012196,
@@ -8083,6 +8099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 939036,
+      "num": 748760,
+      "word": "在一起五年分手了是什么体验",
+      "onboard_time": 1687576295,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 938912,
       "num": 938912,
       "word": "4篇论文现同一划痕钢尺遭撤稿",
@@ -8361,14 +8385,6 @@
       "onboard_time": 1687508010,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 913651,
-      "num": 748760,
-      "word": "在一起五年分手了是什么体验",
-      "onboard_time": 1687576295,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 911127,
@@ -9747,6 +9763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798630,
+      "num": 798630,
+      "word": "女儿587分爸爸大喊祖坟冒烟了",
+      "onboard_time": 1687577015,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797891,
       "num": 797891,
       "word": "詹雯婷控告陈建宁反遭起诉",
@@ -10001,14 +10025,6 @@
       "onboard_time": 1686581910,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 776881,
-      "num": 776881,
-      "word": "女儿587分爸爸大喊祖坟冒烟了",
-      "onboard_time": 1687577015,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 776880,
@@ -10393,14 +10409,6 @@
       "onboard_time": 1685846847,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751293,
-      "num": 751293,
-      "word": "基辅称击落了超20枚俄军导弹",
-      "onboard_time": 1687579774,
-      "rank": 19,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 751254,
@@ -11065,14 +11073,6 @@
       "onboard_time": 1687010250,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 701678,
-      "num": 701678,
-      "word": "高考状元",
-      "onboard_time": 1687579232,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 701237,
@@ -16363,6 +16363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 430737,
+      "num": 412447,
+      "word": "莫斯科街头出现大批军车",
+      "onboard_time": 1687579894,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 430282,
       "num": 257724,
       "word": "江苏南通发生命案两人遇害",
@@ -16809,6 +16817,14 @@
       "onboard_time": 1685672607,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418147,
+      "num": 418147,
+      "word": "雷佳音你要不要回头看看赵丽颖",
+      "onboard_time": 1687580014,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 418113,
@@ -17603,6 +17619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396172,
+      "num": 396172,
+      "word": "王俊凯懂张凌赫的痛",
+      "onboard_time": 1687580735,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396109,
       "num": 396109,
       "word": "迪奥",
@@ -18275,6 +18299,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 380836,
+      "num": 380836,
+      "word": "涂山苏苏说红红不会后悔",
+      "onboard_time": 1687577736,
+      "rank": 49,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 380810,
       "num": 380810,
       "word": "你觉得四级哪项最难",
@@ -18339,20 +18371,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 379504,
+      "num": 379504,
+      "word": "入职半个月被领导带头孤立了",
+      "onboard_time": 1687577558,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 378739,
       "num": 378739,
       "word": "李泰容solo曲SHALALA",
       "onboard_time": 1685957369,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 378428,
-      "num": 378428,
-      "word": "涂山苏苏说红红不会后悔",
-      "onboard_time": 1687577736,
-      "rank": 49,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 378373,
@@ -18491,14 +18523,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 374281,
-      "num": 374281,
-      "word": "入职半个月被领导带头孤立了",
-      "onboard_time": 1687577558,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 374279,
       "num": 374279,
       "word": "萧敬腾方律师声明",
@@ -18569,14 +18593,6 @@
       "onboard_time": 1685838743,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372526,
-      "num": 372526,
-      "word": "雷佳音你要不要回头看看赵丽颖",
-      "onboard_time": 1687580014,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 372504,
@@ -19969,6 +19985,14 @@
       "onboard_time": 1686112722,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347341,
+      "num": 347341,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 347281,
@@ -22153,14 +22177,6 @@
       "onboard_time": 1687389680,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310552,
-      "num": 310552,
-      "word": "莫斯科街头出现大批军车",
-      "onboard_time": 1687579894,
-      "rank": 38,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 310174,
@@ -25931,6 +25947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269413,
+      "num": 269413,
+      "word": "狐妖小红娘无暮篇",
+      "onboard_time": 1687581032,
+      "rank": 44,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 269371,
       "num": 269371,
       "word": "白敬亭宋轶摸头杀",
@@ -26761,6 +26785,14 @@
       "onboard_time": 1686020188,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261717,
+      "num": 261717,
+      "word": "陆沉电话",
+      "onboard_time": 1687581096,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 261681,
@@ -27873,6 +27905,14 @@
       "onboard_time": 1686400289,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253095,
+      "num": 253095,
+      "word": "王嘉尔菲董合照",
+      "onboard_time": 1687581275,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 253018,

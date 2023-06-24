@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 12:23:26
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 12:38:03
 </p>
 </blockquote>
 <p>
@@ -490,7 +490,7 @@ Uzi EDG（热度：5078213）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
-俄罗斯（热度：3182990）
+俄罗斯（热度：3188866）
 </a>
 </li>
 
@@ -3639,6 +3639,12 @@ NBA总决赛（热度：1351320）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23" target="weibo">
+瓦格纳创始人否认试图发动武装叛乱（热度：1338484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%8F%E5%86%9B%E5%B1%85%E7%84%B6%E5%87%BA%E8%BD%A8%E4%BA%86%23" target="weibo">
 陈宏军居然出轨了（热度：1336936）
 </a>
@@ -3759,6 +3765,12 @@ TFBOYS公式照（热度：1330711）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23" target="weibo">
+白敬亭第一次不爱鞋（热度：1319391）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E5%92%8C%E9%82%93%E8%B6%85%E7%BB%93%E5%A9%9A%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4%23" target="weibo">
 孙俪发文庆祝和邓超结婚十二周年（热度：1319108）
 </a>
@@ -3797,12 +3809,6 @@ Jennie去爬山了（热度：1318773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%20%E5%9C%BA%E5%A4%96%23" target="weibo">
 鸟巢 场外（热度：1310336）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23" target="weibo">
-瓦格纳创始人否认试图发动武装叛乱（热度：1308802）
 </a>
 </li>
 
@@ -4767,6 +4773,12 @@ Jennie 复仇者联盟5（热度：1161672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23" target="weibo">
+炎亚纶前男友A先生再爆料（热度：1132475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A9%BF%E7%B4%AB%E8%89%B2%E8%BF%99%E5%A5%97%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
 周也为什么不穿紫色这套走红毯（热度：1131874）
 </a>
@@ -4787,12 +4799,6 @@ Jennie 复仇者联盟5（热度：1161672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%23" target="weibo">
 Jennie身体状况（热度：1130129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23" target="weibo">
-炎亚纶前男友A先生再爆料（热度：1129924）
 </a>
 </li>
 
@@ -5049,6 +5055,12 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%85%E7%A7%B0%E5%87%BB%E8%90%BD%E4%BA%86%E8%B6%8520%E6%9E%9A%E4%BF%84%E5%86%9B%E5%AF%BC%E5%BC%B9%23" target="weibo">
+基辅称击落了超20枚俄军导弹（热度：1092727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E4%B9%B0iPhone14Pro%E9%9C%809.5%25%E5%B9%B4%E6%94%B6%E5%85%A5%23" target="weibo">
 国人买iPhone14Pro需9.5%年收入（热度：1089578）
 </a>
@@ -5111,6 +5123,12 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23" target="weibo">
 二三十了还觉得自己是个小孩正常吗（热度：1081873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
+高考状元（热度：1079872）
 </a>
 </li>
 
@@ -5589,12 +5607,6 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23" target="weibo">
-白敬亭第一次不爱鞋（热度：1013017）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23" target="weibo">
 孟子义锐评任敏汤晶媚乐队事件（热度：1012196）
 </a>
@@ -5999,18 +6011,6 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23" target="weibo">
 高校鼠头事件涉事窗口几乎没人去吃饭（热度：947731）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%B7%80%E7%B2%89%20%E4%B9%8B%E5%89%8D%E8%A2%ABRNG%E5%8D%A1%E5%90%88%E5%90%8C%E4%BA%86%23" target="weibo">
-是淀粉 之前被RNG卡合同了（热度：947342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LBL%E5%AE%98%E5%AE%A3uzi%E7%A6%BB%E9%98%9F%23" target="weibo">
-LBL官宣uzi离队（热度：947218）
 </a>
 </li>
 
