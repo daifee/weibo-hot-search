@@ -1,7 +1,15 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687571352998,
+  "endTime": 1687572696284,
   "band_list": [
+    {
+      "raw_hot": 3331192,
+      "num": 3331192,
+      "word": "女生高考712分查完分就睡了",
+      "onboard_time": 1687568073,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 3041115,
       "num": 3041115,
@@ -19,14 +27,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 2728157,
-      "num": 2728157,
-      "word": "女生高考712分查完分就睡了",
-      "onboard_time": 1687568073,
-      "rank": 1,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 2513735,
       "num": 2513735,
       "word": "姚景元高考分数401",
@@ -35,8 +35,8 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 2012636,
-      "num": 1679738,
+      "raw_hot": 2237287,
+      "num": 1852887,
       "word": "炎亚纶 还好没有我的脸",
       "onboard_time": 1687568133,
       "rank": 5,
@@ -51,20 +51,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1862195,
+      "num": 1862195,
+      "word": "吴越 是不是大女主都没关系",
+      "onboard_time": 1687568672,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1761891,
       "num": 1761891,
       "word": "鹿晗演唱会上不敢读的灯牌",
       "onboard_time": 1687533642,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1719312,
-      "num": 1719312,
-      "word": "吴越 是不是大女主都没关系",
-      "onboard_time": 1687568672,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1473579,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1243245,
+      "num": 1243245,
+      "word": "安徽高考分数线",
+      "onboard_time": 1687571733,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1181622,
       "num": 1181622,
       "word": "赵丽颖白玉兰获奖感言",
@@ -107,12 +115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1154885,
+      "num": 1154885,
+      "word": "孙千评论赵丽颖说你跑我追",
+      "onboard_time": 1687570296,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1144304,
       "num": 404557,
       "word": "赵丽颖三次陪跑",
       "onboard_time": 1687528550,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1140199,
+      "num": 1140199,
+      "word": "四大女顶流奖项实绩",
+      "onboard_time": 1687568914,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1065632,
@@ -124,11 +148,19 @@
     },
     {
       "raw_hot": 1044749,
-      "num": 826974,
+      "num": 978533,
       "word": "身高150腿长90的人是这样的",
       "onboard_time": 1687568914,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1015964,
+      "num": 1015964,
+      "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
+      "onboard_time": 1687571975,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 974716,
@@ -147,16 +179,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 830702,
-      "num": 830702,
-      "word": "四大女顶流奖项实绩",
-      "onboard_time": 1687568914,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 941534,
+      "num": 941534,
+      "word": "高考分数线",
+      "onboard_time": 1687570715,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 802093,
-      "num": 540404,
+      "num": 576147,
       "word": "戒糖一年的变化",
       "onboard_time": 1687563803,
       "rank": 20,
@@ -227,14 +259,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 689612,
-      "num": 689612,
-      "word": "孙千评论赵丽颖说你跑我追",
-      "onboard_time": 1687570296,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 675279,
       "num": 314830,
       "word": "白敬亭宋轶耳朵都红了",
@@ -248,6 +272,14 @@
       "word": "北部湾发生5级地震",
       "onboard_time": 1687561999,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631466,
+      "num": 631466,
+      "word": "猴痘",
+      "onboard_time": 1687570594,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -275,14 +307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 540908,
-      "num": 540908,
-      "word": "高考分数线",
-      "onboard_time": 1687570715,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 537880,
       "num": 340709,
       "word": "白玉兰最佳电视剧双黄蛋",
@@ -291,20 +315,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484755,
+      "num": 484755,
+      "word": "跟没主见的人出去玩有多窒息",
+      "onboard_time": 1687571733,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 478094,
       "num": 250096,
       "word": "韩剧恶鬼",
       "onboard_time": 1687531665,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 476266,
-      "num": 476266,
-      "word": "猴痘",
-      "onboard_time": 1687570594,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472175,
@@ -331,11 +355,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 424763,
-      "num": 345687,
+      "raw_hot": 426527,
+      "num": 426527,
       "word": "父母鼓励我认导师做干爹",
       "onboard_time": 1687570356,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 417853,
+      "num": 417853,
+      "word": "廿字怎么读",
+      "onboard_time": 1687563144,
+      "rank": 20,
       "category": "幽默"
     },
     {
@@ -347,6 +379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 409878,
+      "num": 409878,
+      "word": "杨颖花50元买蒋奇明的自拍照",
+      "onboard_time": 1687566087,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409763,
       "num": 409763,
       "word": "婴儿高速遇车祸山东大哥急送医",
@@ -355,28 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406142,
-      "num": 406142,
-      "word": "杨颖花50元买蒋奇明的自拍照",
-      "onboard_time": 1687566087,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 390608,
       "num": 390608,
       "word": "梁实第27次高考查分",
       "onboard_time": 1687525418,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 381247,
-      "num": 381247,
-      "word": "廿字怎么读",
-      "onboard_time": 1687563144,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 378740,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 362257,
-      "num": 362257,
+      "num": 378347,
       "word": "男孩高考705分跳起尖叫拥抱父母",
       "onboard_time": 1687569155,
       "rank": 28,
@@ -459,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318323,
-      "num": 318323,
+      "raw_hot": 322406,
+      "num": 322406,
       "word": "高考查分",
       "onboard_time": 1687568133,
       "rank": 33,
@@ -489,6 +513,14 @@
       "onboard_time": 1687518270,
       "rank": 41,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 304609,
+      "num": 2520158,
+      "word": "全国各地高考分数线汇总",
+      "onboard_time": 1687528786,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302661,
@@ -539,8 +571,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287898,
-      "num": 287898,
+      "raw_hot": 288453,
+      "num": 288453,
       "word": "弱智吧上半年年度精选",
       "onboard_time": 1687567530,
       "rank": 39,
@@ -561,14 +593,6 @@
       "onboard_time": 1687566509,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257247,
-      "num": 2520158,
-      "word": "全国各地高考分数线汇总",
-      "onboard_time": 1687528786,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255270,
@@ -595,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253250,
+      "num": 253250,
+      "word": "浙江龙游发生5车追尾事故致6人死亡",
+      "onboard_time": 1687572095,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248250,
       "num": 175839,
       "word": "我的前半生赢麻了",
@@ -619,8 +651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231785,
-      "num": 231785,
+      "raw_hot": 235110,
+      "num": 235110,
       "word": "已经传到10后了",
       "onboard_time": 1687568431,
       "rank": 43,
