@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687642440495,
+  "endTime": 1687645085981,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1033889,
+      "num": 1033889,
+      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
+      "onboard_time": 1687625783,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 1020730,
       "num": 409286,
       "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
@@ -49,14 +57,6 @@
       "onboard_time": 1687616857,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 936474,
-      "num": 936474,
-      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
-      "onboard_time": 1687625783,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 814469,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250366,
+      "num": 250366,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 249085,
       "num": 165639,
       "word": "普里戈津",
@@ -321,14 +329,6 @@
       "onboard_time": 1687626681,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211373,
-      "num": 211373,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 206445,
@@ -459,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96148,
+      "num": 96148,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1687640832,
+      "rank": 42,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 93687,
       "num": 93687,
       "word": "90后姑娘传承老爸花式包粽法",
@@ -473,6 +481,14 @@
       "onboard_time": 1687613616,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88822,
+      "num": 88822,
+      "word": "江苏高考687分及以上116人",
+      "onboard_time": 1687643775,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 71228,
@@ -491,20 +507,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35492,
-      "num": 35492,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1687640832,
-      "rank": 42,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 33856,
-      "num": 33856,
+      "num": 40478,
       "word": "鹿晗演唱会大屏",
       "onboard_time": 1687633874,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 32369,
+      "num": 40497,
+      "word": "银川烧烤店爆炸背后",
+      "onboard_time": 1687637712,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29582,
@@ -515,20 +531,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 29480,
-      "num": 32360,
-      "word": "银川烧烤店爆炸背后",
-      "onboard_time": 1687637712,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26189,
       "num": 31773,
       "word": "健将plus",
       "onboard_time": 1687632315,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25643,
+      "num": 40451,
+      "word": "唐尚珺",
+      "onboard_time": 1687644856,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8648,
