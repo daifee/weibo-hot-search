@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687630998122,
+  "endTime": 1687631822898,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249085,
+      "num": 165639,
+      "word": "普里戈津",
+      "onboard_time": 1687629799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232556,
       "num": 232556,
       "word": "白敬亭的眼泪像断了线的珍珠",
@@ -411,14 +419,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 165639,
-      "num": 165639,
-      "word": "普里戈津",
-      "onboard_time": 1687629799,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160756,
       "num": 160756,
       "word": "陈楚生披荆斩棘",
@@ -441,6 +441,14 @@
       "onboard_time": 1687612715,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124194,
+      "num": 124194,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 102553,
@@ -475,12 +483,12 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 53070,
-      "num": 53070,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
+      "raw_hot": 38234,
+      "num": 50840,
+      "word": "偷偷藏不住",
+      "onboard_time": 1687605812,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 8648,

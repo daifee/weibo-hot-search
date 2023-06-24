@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687630998122,
+  "endTime": 1687631822898,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -9739,6 +9739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249085,
+      "num": 165639,
+      "word": "普里戈津",
+      "onboard_time": 1687629799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248953,
       "num": 248953,
       "word": "缉毒警一张带血纸条助缴毒10余斤",
@@ -13131,14 +13139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165639,
-      "num": 165639,
-      "word": "普里戈津",
-      "onboard_time": 1687629799,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165496,
       "num": 162202,
       "word": "上帝要开空调了",
@@ -14219,6 +14219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124194,
+      "num": 124194,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 124062,
       "num": 192991,
       "word": "Steam",
@@ -15089,14 +15097,6 @@
       "onboard_time": 1687327237,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53070,
-      "num": 53070,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 52634,
