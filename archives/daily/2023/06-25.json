@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687648735116,
+  "endTime": 1687649641939,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -11,12 +11,28 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 2925840,
+      "num": 2925840,
+      "word": "瓦格纳从俄南部军区司令部撤离",
+      "onboard_time": 1687648282,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 2156574,
       "num": 2156574,
       "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
       "onboard_time": 1687625783,
       "rank": 30,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 2079056,
+      "num": 955114,
+      "word": "瓦格纳同意停止在俄领土上的行动",
+      "onboard_time": 1687648162,
+      "rank": 1,
+      "category": "军事"
     },
     {
       "raw_hot": 1722617,
@@ -43,14 +59,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1234000,
-      "num": 367204,
-      "word": "瓦格纳从俄南部军区司令部撤离",
-      "onboard_time": 1687648282,
-      "rank": 10,
-      "category": "军事"
-    },
-    {
       "raw_hot": 1020730,
       "num": 409286,
       "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 955114,
-      "num": 955114,
-      "word": "瓦格纳同意停止在俄领土上的行动",
-      "onboard_time": 1687648162,
-      "rank": 1,
-      "category": "军事"
+      "raw_hot": 857543,
+      "num": 857543,
+      "word": "家长以为中考管饭送完孩子去郊游",
+      "onboard_time": 1687618302,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814469,
@@ -91,19 +99,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732688,
+      "num": 732688,
+      "word": "弟弟考673分姐姐哭了一小时",
+      "onboard_time": 1687616195,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 686578,
       "num": 631263,
       "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
       "onboard_time": 1687619558,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658193,
-      "num": 658193,
-      "word": "家长以为中考管饭送完孩子去郊游",
-      "onboard_time": 1687618302,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1687630816,
       "rank": 41,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 541469,
-      "num": 541469,
-      "word": "弟弟考673分姐姐哭了一小时",
-      "onboard_time": 1687616195,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 518068,
@@ -203,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409701,
+      "num": 409701,
+      "word": "陈思诚透露误杀3和唐探新片进度",
+      "onboard_time": 1687626502,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 379082,
       "num": 379082,
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1687604314,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377477,
+      "num": 229194,
+      "word": "情侣多久不联系算分手",
+      "onboard_time": 1687647802,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 367271,
@@ -219,20 +235,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 366542,
-      "num": 366542,
-      "word": "陈思诚透露误杀3和唐探新片进度",
-      "onboard_time": 1687626502,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 356636,
       "num": 356636,
       "word": "车臣军队已出发平叛",
       "onboard_time": 1687608030,
       "rank": 22,
       "category": "军事"
+    },
+    {
+      "raw_hot": 323038,
+      "num": 323038,
+      "word": "禁毒警拍家庭合照时下意识背过身",
+      "onboard_time": 1687617998,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322673,
@@ -280,14 +296,6 @@
       "word": "兰州一企业发生闪爆事故",
       "onboard_time": 1687626681,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285039,
-      "num": 285039,
-      "word": "禁毒警拍家庭合照时下意识背过身",
-      "onboard_time": 1687617998,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249186,
+      "num": 175400,
+      "word": "内向和外向的小狗太明显了",
+      "onboard_time": 1687647740,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 249085,
       "num": 165639,
       "word": "普里戈津",
@@ -347,28 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233350,
+      "num": 174197,
+      "word": "瓦格纳集团到底什么来头",
+      "onboard_time": 1687649006,
+      "rank": 31,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 232556,
       "num": 232556,
       "word": "白敬亭的眼泪像断了线的珍珠",
       "onboard_time": 1687619438,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218467,
-      "num": 151212,
-      "word": "内向和外向的小狗太明显了",
-      "onboard_time": 1687647740,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 206517,
-      "num": 206517,
-      "word": "情侣多久不联系算分手",
-      "onboard_time": 1687647802,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 206445,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203516,
+      "num": 203516,
+      "word": "佩斯科夫称将撤销对普里戈任刑事立案",
+      "onboard_time": 1687648882,
+      "rank": 22,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 202609,
       "num": 202609,
       "word": "段嘉许的沉默震耳欲聋",
@@ -401,6 +417,14 @@
       "onboard_time": 1687592553,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199095,
+      "num": 199095,
+      "word": "闺蜜看完消失的她和对象分手了",
+      "onboard_time": 1687649065,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 198655,
@@ -427,12 +451,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 186584,
+      "num": 186584,
+      "word": "游客说熊猫花花没脖子花花不满",
+      "onboard_time": 1687646778,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 184364,
       "num": 184364,
       "word": "朱一龙关姻菩萨",
       "onboard_time": 1687612355,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "罗杰夫 披荆斩棘的哥哥",
+      "onboard_time": 1687649065,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 177840,
@@ -467,20 +507,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 162338,
+      "num": 162338,
+      "word": "网友抓拍到母女共舞爸爸拍摄温馨一幕",
+      "onboard_time": 1687648042,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160756,
       "num": 160756,
       "word": "陈楚生披荆斩棘",
       "onboard_time": 1687617757,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156934,
-      "num": 156934,
-      "word": "游客说熊猫花花没脖子花花不满",
-      "onboard_time": 1687646778,
-      "rank": 26,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 151658,
@@ -515,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118319,
+      "num": 118319,
+      "word": "Angelababy吊带背心牛仔裙",
+      "onboard_time": 1687647620,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112748,
+      "num": 112748,
+      "word": "小猫头卡塑料瓶消防员救完说别跑",
+      "onboard_time": 1687647740,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102553,
       "num": 102553,
       "word": "华晨宇演唱会帮人找孩子",
@@ -545,22 +601,6 @@
       "onboard_time": 1687613616,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90276,
-      "num": 90276,
-      "word": "网友抓拍到母女共舞爸爸拍摄温馨一幕",
-      "onboard_time": 1687648042,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86722,
-      "num": 86722,
-      "word": "小猫头卡塑料瓶消防员救完说别跑",
-      "onboard_time": 1687647740,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71228,
