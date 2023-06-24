@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687624873282,
+  "endTime": 1687626980607,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1596557,
+      "num": 529855,
+      "word": "白俄罗斯",
+      "onboard_time": 1687623447,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1561419,
       "num": 1561419,
       "word": "消失的她 绝世大甜剧",
       "onboard_time": 1687615298,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1281917,
-      "num": 529855,
-      "word": "白俄罗斯",
-      "onboard_time": 1687623447,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1020730,
@@ -113,6 +113,14 @@
       "onboard_time": 1687610132,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 499592,
+      "num": 158329,
+      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
+      "onboard_time": 1687625783,
+      "rank": 30,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 491779,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250187,
+      "num": 250187,
+      "word": "莫斯科公共建筑进行人员疏散",
+      "onboard_time": 1687624824,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232556,
       "num": 232556,
       "word": "白敬亭的眼泪像断了线的珍珠",
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159295,
+      "num": 159295,
+      "word": "陈思诚透露误杀3和唐探新片进度",
+      "onboard_time": 1687626502,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151658,
       "num": 158188,
       "word": "BLG战胜WBG",
@@ -403,12 +427,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95051,
-      "num": 127472,
-      "word": "莫斯科公共建筑进行人员疏散",
-      "onboard_time": 1687624824,
-      "rank": 49,
+      "raw_hot": 110798,
+      "num": 110798,
+      "word": "兰州一企业发生闪爆事故",
+      "onboard_time": 1687626681,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102553,
+      "num": 102553,
+      "word": "华晨宇演唱会帮人找孩子",
+      "onboard_time": 1687614393,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 93687,
+      "num": 93687,
+      "word": "90后姑娘传承老爸花式包粽法",
+      "onboard_time": 1687626023,
+      "rank": 47,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 8648,
@@ -422,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#端午假期最后1天#"
+    },
+    {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
     }
   ]
 }

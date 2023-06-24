@@ -1,0 +1,410 @@
+{
+  "runTime": 1687626980607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1867443,
+        "num": 1867443,
+        "word": "普京指责瓦格纳负责人叛国",
+        "onboard_time": 1687592313,
+        "rank": 0,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 949901,
+        "num": 949901,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4912,
+        "num": 914125,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910028,
+        "num": 910028,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624887,
+        "num": 624887,
+        "word": "在俄华人讲述俄罗斯各地现状",
+        "onboard_time": 1687616857,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563833,
+        "num": 563833,
+        "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+        "onboard_time": 1687609650,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 406971,
+        "num": 406971,
+        "word": "弟弟考673分姐姐哭了一小时",
+        "onboard_time": 1687616195,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370831,
+        "num": 370831,
+        "word": "鹿晗演唱会的女安检员",
+        "onboard_time": 1687610132,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366598,
+        "num": 366598,
+        "word": "王鹤棣赵露思合影",
+        "onboard_time": 1687617034,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345595,
+        "num": 345595,
+        "word": "车臣军队已出发平叛",
+        "onboard_time": 1687608030,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1596557,
+        "num": 345157,
+        "word": "白俄罗斯",
+        "onboard_time": 1687623447,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 342343,
+        "num": 342343,
+        "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
+        "onboard_time": 1687619558,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314456,
+        "num": 314456,
+        "word": "TheShy",
+        "onboard_time": 1687619197,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288787,
+        "num": 288787,
+        "word": "河南高考成绩",
+        "onboard_time": 1687617517,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 281396,
+        "num": 281396,
+        "word": "看消失的她 恋爱脑治好了",
+        "onboard_time": 1687601133,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262315,
+        "num": 262315,
+        "word": "俄南部军区总部大楼附近传出爆炸声",
+        "onboard_time": 1687612596,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 253463,
+        "num": 253463,
+        "word": "演唱会大屏上的aespa",
+        "onboard_time": 1687621473,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250187,
+        "num": 250187,
+        "word": "莫斯科公共建筑进行人员疏散",
+        "onboard_time": 1687624824,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246547,
+        "num": 246547,
+        "word": "白敬亭宋轶脸颊比心",
+        "onboard_time": 1687617576,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240262,
+        "num": 240262,
+        "word": "消失的她",
+        "onboard_time": 1687617878,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238668,
+        "num": 238668,
+        "word": "白敬亭对长风渡vs卿卿日常的区别",
+        "onboard_time": 1687613855,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228961,
+        "num": 228961,
+        "word": "银川31死爆炸事故原因公布",
+        "onboard_time": 1687614577,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225007,
+        "num": 225007,
+        "word": "为什么奶茶店的冰块化得慢",
+        "onboard_time": 1687610371,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216219,
+        "num": 216219,
+        "word": "复读女生涨61分坐地嚎啕大哭",
+        "onboard_time": 1687599392,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210563,
+        "num": 210563,
+        "word": "大学四年买了100斤的衣服",
+        "onboard_time": 1687607492,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183511,
+        "num": 183511,
+        "word": "车臣领导人完全支持普京",
+        "onboard_time": 1687600473,
+        "rank": 25,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1687604314,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174567,
+        "num": 174567,
+        "word": "偷偷藏不住初雪甜到蹬腿",
+        "onboard_time": 1687621176,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164171,
+        "num": 164171,
+        "word": "王嘉尔陪庆怜纹身",
+        "onboard_time": 1687617216,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159295,
+        "num": 159295,
+        "word": "陈思诚透露误杀3和唐探新片进度",
+        "onboard_time": 1687626502,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499592,
+        "num": 158329,
+        "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
+        "onboard_time": 1687625783,
+        "rank": 30,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 154319,
+        "num": 154319,
+        "word": "禁毒警拍家庭合照时下意识背过身",
+        "onboard_time": 1687617998,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 153014,
+        "word": "因脑溢血开颅3次的少年高考445分",
+        "onboard_time": 1687611512,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151962,
+        "num": 151962,
+        "word": "家长以为中考管饭送完孩子去郊游",
+        "onboard_time": 1687618302,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150961,
+        "num": 150961,
+        "word": "普京发表讲话",
+        "onboard_time": 1687586314,
+        "rank": 34,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 130041,
+        "num": 130041,
+        "word": "虞书欣到底有多少靴子",
+        "onboard_time": 1687597416,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 124066,
+        "num": 124066,
+        "word": "朱一龙关姻菩萨",
+        "onboard_time": 1687612355,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112178,
+        "num": 112178,
+        "word": "黄新淳追星鹿晗",
+        "onboard_time": 1687621295,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110798,
+        "num": 110798,
+        "word": "兰州一企业发生闪爆事故",
+        "onboard_time": 1687626681,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109656,
+        "num": 109656,
+        "word": "弟弟考了640分却开心不起来",
+        "onboard_time": 1687605274,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105884,
+        "num": 105884,
+        "word": "白敬亭的眼泪像断了线的珍珠",
+        "onboard_time": 1687619438,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103353,
+        "num": 103353,
+        "word": "月远之夜",
+        "onboard_time": 1687622193,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102553,
+        "num": 102553,
+        "word": "华晨宇演唱会帮人找孩子",
+        "onboard_time": 1687614393,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98940,
+        "num": 98940,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1687610313,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97452,
+        "num": 97452,
+        "word": "梁家辉说自己保持活力全靠吃虫",
+        "onboard_time": 1687619676,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97311,
+        "num": 97311,
+        "word": "张杰助阵杨和苏首次演唱会",
+        "onboard_time": 1687616256,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93756,
+        "num": 93756,
+        "word": "张远录制披荆斩棘的哥哥",
+        "onboard_time": 1687618600,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93687,
+        "num": 93687,
+        "word": "90后姑娘传承老爸花式包粽法",
+        "onboard_time": 1687626023,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 86577,
+        "num": 86577,
+        "word": "这不就是现实版刘星",
+        "onboard_time": 1687619676,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84615,
+        "num": 84615,
+        "word": "BLG战胜WBG",
+        "onboard_time": 1687617937,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
+    }
+  }
+}
