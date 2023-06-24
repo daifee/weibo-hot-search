@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687577559475,
+  "endTime": 1687578119555,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -635,6 +635,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3182990,
+      "num": 3182990,
+      "word": "俄罗斯",
+      "onboard_time": 1687562662,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 3150204,
       "num": 3150204,
       "word": "三子深夜大战不孕不育榴莲",
@@ -785,14 +793,6 @@
       "onboard_time": 1687226730,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2880736,
-      "num": 2880736,
-      "word": "俄罗斯",
-      "onboard_time": 1687562662,
-      "rank": 21,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2843211,
@@ -3121,6 +3121,14 @@
       "onboard_time": 1686989906,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1685935,
+      "num": 1685935,
+      "word": "女生查分666全家齐喊666",
+      "onboard_time": 1687574254,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1682616,
@@ -5561,14 +5569,6 @@
       "onboard_time": 1686727829,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1240499,
-      "num": 1240499,
-      "word": "女生查分666全家齐喊666",
-      "onboard_time": 1687574254,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1240382,
@@ -10835,6 +10835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716351,
+      "num": 716351,
+      "word": "莫斯科正在进行反恐行动",
+      "onboard_time": 1687577853,
+      "rank": 17,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 716089,
       "num": 716089,
       "word": "偷偷藏不住暗恋be",
@@ -11625,6 +11633,14 @@
       "onboard_time": 1685628095,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656955,
+      "num": 610599,
+      "word": "在一起五年分手了是什么体验",
+      "onboard_time": 1687576295,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 656312,
@@ -14163,14 +14179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 509305,
-      "num": 509305,
-      "word": "在一起五年分手了是什么体验",
-      "onboard_time": 1687576295,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 509100,
       "num": 509100,
       "word": "梁家辉魏晨3分33秒划完500米龙舟赛道",
@@ -14529,6 +14537,14 @@
       "onboard_time": 1685982684,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495193,
+      "num": 495193,
+      "word": "廉价的正义感比冷漠更可怕",
+      "onboard_time": 1687575936,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 495167,
@@ -15123,6 +15139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474101,
+      "num": 474101,
+      "word": "女儿587分爸爸大喊祖坟冒烟了",
+      "onboard_time": 1687577015,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474024,
       "num": 474024,
       "word": "碧峰峡",
@@ -15145,14 +15169,6 @@
       "onboard_time": 1685783487,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473541,
-      "num": 473541,
-      "word": "廉价的正义感比冷漠更可怕",
-      "onboard_time": 1687575936,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 473430,
@@ -17089,6 +17105,14 @@
       "onboard_time": 1686134015,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 408087,
+      "num": 380504,
+      "word": "鹿晗 年轻人真好",
+      "onboard_time": 1687577192,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 407985,
@@ -20467,6 +20491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 336863,
+      "num": 973103,
+      "word": "光与夜之恋",
+      "onboard_time": 1686007822,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 336792,
       "num": 336792,
       "word": "真正的离职都是不打招呼的",
@@ -21043,14 +21075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 326928,
-      "num": 973103,
-      "word": "光与夜之恋",
-      "onboard_time": 1686007822,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 326864,
       "num": 326864,
       "word": "陆景和",
@@ -21345,6 +21369,14 @@
       "onboard_time": 1686752011,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322122,
+      "num": 322122,
+      "word": "炎亚纶前男友A先生再爆料",
+      "onboard_time": 1687577795,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 321990,
@@ -22683,14 +22715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302552,
-      "num": 302552,
-      "word": "鹿晗 年轻人真好",
-      "onboard_time": 1687577192,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 302362,
       "num": 302362,
       "word": "深圳地铁14号线",
@@ -22729,6 +22753,14 @@
       "onboard_time": 1687314030,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 301863,
+      "num": 301863,
+      "word": "主办方回应五月天演唱会黄牛强行闯卡",
+      "onboard_time": 1687575334,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 301773,
@@ -22841,14 +22873,6 @@
       "onboard_time": 1686807447,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300895,
-      "num": 300895,
-      "word": "女儿587分爸爸大喊祖坟冒烟了",
-      "onboard_time": 1687577015,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300758,
@@ -24219,6 +24243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285007,
+      "num": 285007,
+      "word": "入职半个月被领导带头孤立了",
+      "onboard_time": 1687577558,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 284989,
       "num": 284989,
       "word": "古代状元到底是什么水平",
@@ -24419,6 +24451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282678,
+      "num": 282678,
+      "word": "查理苏电话",
+      "onboard_time": 1687577254,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282328,
       "num": 282328,
       "word": "列车关门瞬间男孩跑出车厢",
@@ -24448,14 +24488,6 @@
       "word": "take two",
       "onboard_time": 1686284613,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 281859,
-      "num": 281859,
-      "word": "主办方回应五月天演唱会黄牛强行闯卡",
-      "onboard_time": 1687575334,
-      "rank": 42,
       "category": "音乐"
     },
     {
@@ -27571,14 +27603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254397,
-      "num": 254397,
-      "word": "查理苏电话",
-      "onboard_time": 1687577254,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 254373,
       "num": 254373,
       "word": "王嘉尔澳门 抢票",
@@ -28217,6 +28241,14 @@
       "onboard_time": 1686974313,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 249782,
+      "num": 249782,
+      "word": "涂山苏苏说红红不会后悔",
+      "onboard_time": 1687577736,
+      "rank": 49,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 249770,
@@ -56231,6 +56263,14 @@
       "num": 578183,
       "word": "无限画里的童年",
       "onboard_time": 1685633551,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5317,
+      "num": 2162449,
+      "word": "高温热浪防护指南",
+      "onboard_time": 1687578095,
       "rank": 2,
       "category": "社会新闻"
     }

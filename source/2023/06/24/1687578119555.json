@@ -1,0 +1,410 @@
+{
+  "runTime": 1687578119555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3182990,
+        "num": 3182990,
+        "word": "俄罗斯",
+        "onboard_time": 1687562662,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2528476,
+        "num": 2528476,
+        "word": "女生高考712分查完分就睡了",
+        "onboard_time": 1687568073,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 5317,
+        "num": 2162449,
+        "word": "高温热浪防护指南",
+        "onboard_time": 1687578095,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2026011,
+        "num": 2026011,
+        "word": "赵丽颖 戴比尔斯",
+        "onboard_time": 1687574015,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1807215,
+        "num": 1807215,
+        "word": "外媒称瓦格纳部队正进入俄南部",
+        "onboard_time": 1687575452,
+        "rank": 4,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1692993,
+        "num": 1692993,
+        "word": "炎亚纶 还好没有我的脸",
+        "onboard_time": 1687568133,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1685935,
+        "num": 1685935,
+        "word": "女生查分666全家齐喊666",
+        "onboard_time": 1687574254,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1328427,
+        "num": 1328427,
+        "word": "吴越 是不是大女主都没关系",
+        "onboard_time": 1687568672,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1298240,
+        "num": 1298240,
+        "word": "姚景元高考分数401",
+        "onboard_time": 1687566691,
+        "rank": 8,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 1151232,
+        "num": 1151232,
+        "word": "俄总检察长已向普京汇报情况",
+        "onboard_time": 1687572935,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1030113,
+        "num": 1030113,
+        "word": "孙千评论赵丽颖说你跑我追",
+        "onboard_time": 1687570296,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301301,
+        "num": 929623,
+        "word": "全国各地高考分数线汇总",
+        "onboard_time": 1687528786,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918618,
+        "num": 918618,
+        "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
+        "onboard_time": 1687571975,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 901578,
+        "num": 901578,
+        "word": "宁静说赵丽颖也是从横店街上出来的",
+        "onboard_time": 1687575396,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336863,
+        "num": 876144,
+        "word": "光与夜之恋",
+        "onboard_time": 1687575635,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 859246,
+        "num": 859246,
+        "word": "白宫称美方正关注俄国内局势",
+        "onboard_time": 1687573415,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 842458,
+        "num": 842458,
+        "word": "身高150腿长90的人是这样的",
+        "onboard_time": 1687568914,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 716351,
+        "num": 716351,
+        "word": "莫斯科正在进行反恐行动",
+        "onboard_time": 1687577853,
+        "rank": 17,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 662784,
+        "num": 662784,
+        "word": "暴雪禁止中国大陆玩家参与暗黑4活动",
+        "onboard_time": 1687565728,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 619435,
+        "num": 619435,
+        "word": "安徽高考分数线",
+        "onboard_time": 1687571733,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 735392,
+        "num": 616142,
+        "word": "戒糖一年的变化",
+        "onboard_time": 1687563803,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 780947,
+        "num": 612059,
+        "word": "猴痘",
+        "onboard_time": 1687570594,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656955,
+        "num": 610599,
+        "word": "在一起五年分手了是什么体验",
+        "onboard_time": 1687576295,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607135,
+        "num": 607135,
+        "word": "宋妍霏高瀚宇醉酒吻好欲",
+        "onboard_time": 1687574556,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 612569,
+        "num": 571842,
+        "word": "狂飙没拿奖",
+        "onboard_time": 1687564045,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495193,
+        "num": 495193,
+        "word": "廉价的正义感比冷漠更可怕",
+        "onboard_time": 1687575936,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477990,
+        "num": 477990,
+        "word": "鹿晗演唱会上不敢读的灯牌",
+        "onboard_time": 1687533642,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 474546,
+        "num": 474546,
+        "word": "瓦格纳",
+        "onboard_time": 1687562662,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 474101,
+        "num": 474101,
+        "word": "女儿587分爸爸大喊祖坟冒烟了",
+        "onboard_time": 1687577015,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459402,
+        "num": 459402,
+        "word": "大小S宣布起诉葛斯齐",
+        "onboard_time": 1687534658,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412323,
+        "num": 412323,
+        "word": "肖战哽咽回忆梦海导演付宁",
+        "onboard_time": 1687573905,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408795,
+        "num": 408795,
+        "word": "四大女顶流奖项实绩",
+        "onboard_time": 1687568914,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 919409,
+        "num": 402155,
+        "word": "四川高考状元",
+        "onboard_time": 1687573535,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 382827,
+        "num": 382827,
+        "word": "钻石价格大跌",
+        "onboard_time": 1687573176,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408087,
+        "num": 380504,
+        "word": "鹿晗 年轻人真好",
+        "onboard_time": 1687577192,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365372,
+        "num": 365372,
+        "word": "高考分数线",
+        "onboard_time": 1687570715,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 322122,
+        "num": 322122,
+        "word": "炎亚纶前男友A先生再爆料",
+        "onboard_time": 1687577795,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321312,
+        "num": 321312,
+        "word": "广西高考分数线",
+        "onboard_time": 1687575635,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 316749,
+        "num": 316749,
+        "word": "男生高考查分584父子俩笑得合不拢嘴",
+        "onboard_time": 1687521093,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 314693,
+        "num": 314693,
+        "word": "莫斯科已加强安全措施",
+        "onboard_time": 1687566750,
+        "rank": 39,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 301863,
+        "num": 301863,
+        "word": "主办方回应五月天演唱会黄牛强行闯卡",
+        "onboard_time": 1687575334,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290674,
+        "num": 290674,
+        "word": "赵丽颖回应三次陪跑",
+        "onboard_time": 1687533039,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285007,
+        "num": 285007,
+        "word": "入职半个月被领导带头孤立了",
+        "onboard_time": 1687577558,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 282678,
+        "num": 282678,
+        "word": "查理苏电话",
+        "onboard_time": 1687577254,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283339,
+        "num": 277090,
+        "word": "赵丽颖白玉兰获奖感言",
+        "onboard_time": 1687534237,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271483,
+        "num": 271483,
+        "word": "丫丫回国前后变化好大",
+        "onboard_time": 1687534360,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257192,
+        "num": 257192,
+        "word": "陈萱萱新婚不如丧偶",
+        "onboard_time": 1687576654,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253015,
+        "num": 253015,
+        "word": "跟没主见的人出去玩有多窒息",
+        "onboard_time": 1687571733,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190590,
+        "num": 250383,
+        "word": "浙江龙游发生5车追尾事故致6人死亡",
+        "onboard_time": 1687572095,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249782,
+        "num": 249782,
+        "word": "涂山苏苏说红红不会后悔",
+        "onboard_time": 1687577736,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#青藏铁路将迈入动车时代#"
+    }
+  }
+}
