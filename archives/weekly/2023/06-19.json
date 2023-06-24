@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687613019488,
+  "endTime": 1687613693949,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -2484,11 +2484,19 @@
     },
     {
       "raw_hot": 973613,
-      "num": 773925,
+      "num": 794898,
       "word": "韩剧恶鬼",
       "onboard_time": 1687531665,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 966347,
+      "num": 966347,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 960919,
@@ -3259,6 +3267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 765967,
+      "num": 765967,
+      "word": "因脑溢血开颅3次的少年高考445分",
+      "onboard_time": 1687611512,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765421,
       "num": 765421,
       "word": "赵丽颖红色旗袍",
@@ -3627,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681649,
+      "num": 681649,
+      "word": "白敬亭穿这么多是有心事吗",
+      "onboard_time": 1687610553,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 681185,
       "num": 681185,
       "word": "专家称泰坦号或已断电进水",
@@ -3875,6 +3899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 629807,
+      "num": 629807,
+      "word": "女心理师",
+      "onboard_time": 1687610973,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 626537,
       "num": 372199,
       "word": "庆余年2好多美女",
@@ -3947,14 +3979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 609549,
-      "num": 609549,
-      "word": "女心理师",
-      "onboard_time": 1687610973,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 607877,
       "num": 607877,
       "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
@@ -3993,14 +4017,6 @@
       "onboard_time": 1687423953,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600852,
-      "num": 600852,
-      "word": "圣彼得堡",
-      "onboard_time": 1687612596,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 597031,
@@ -4203,28 +4219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569163,
-      "num": 569163,
-      "word": "白敬亭穿这么多是有心事吗",
-      "onboard_time": 1687610553,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 568847,
       "num": 425995,
       "word": "合同到期的前两天我怀孕了",
       "onboard_time": 1687426891,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 568583,
-      "num": 568583,
-      "word": "因脑溢血开颅3次的少年高考445分",
-      "onboard_time": 1687611512,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568360,
@@ -4305,6 +4305,14 @@
       "onboard_time": 1687532922,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 559817,
+      "num": 559817,
+      "word": "为什么奶茶店的冰块化得慢",
+      "onboard_time": 1687610371,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 558747,
@@ -4475,20 +4483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537457,
+      "num": 537457,
+      "word": "江苏一本线",
+      "onboard_time": 1687609714,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 532892,
       "num": 1779492,
       "word": "上传走失家人照片最快3秒寻回",
       "onboard_time": 1687254633,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532281,
-      "num": 532281,
-      "word": "江苏一本线",
-      "onboard_time": 1687609714,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 529723,
@@ -4505,6 +4513,14 @@
       "onboard_time": 1687477944,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 527921,
+      "num": 325444,
+      "word": "迪丽热巴粉丝留言喊话祝绪丹一起跑路",
+      "onboard_time": 1687612833,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 526418,
@@ -4851,6 +4867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497828,
+      "num": 497828,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497414,
       "num": 497414,
       "word": "重庆分数线",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1687180541,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474625,
+      "num": 474625,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474393,
@@ -5531,14 +5563,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 434044,
-      "num": 434044,
-      "word": "朱一龙关姻菩萨",
-      "onboard_time": 1687612355,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 433816,
       "num": 283856,
       "word": "郭京飞谭卓白玉兰同框",
@@ -5617,14 +5641,6 @@
       "onboard_time": 1687439191,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 429768,
-      "num": 429768,
-      "word": "鲁A大哥认下获救女婴干女儿",
-      "onboard_time": 1687609714,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428487,
@@ -5923,14 +5939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410559,
-      "num": 410559,
-      "word": "为什么奶茶店的冰块化得慢",
-      "onboard_time": 1687610371,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 410379,
       "num": 410379,
       "word": "折腰首发群像海报",
@@ -6001,6 +6009,14 @@
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 403429,
+      "num": 403429,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 400423,
@@ -7947,14 +7963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 295650,
-      "num": 295650,
-      "word": "有演技的流量明星",
-      "onboard_time": 1687612715,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295646,
       "num": 281676,
       "word": "桑延变成搞笑男",
@@ -9555,14 +9563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 244673,
-      "num": 244673,
-      "word": "迪丽热巴粉丝留言喊话祝绪丹一起跑路",
-      "onboard_time": 1687612833,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244448,
       "num": 239472,
       "word": "过上了小说里的生活",
@@ -10059,6 +10059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233312,
+      "num": 233312,
+      "word": "重庆少年高考查分后家中哇声一片",
+      "onboard_time": 1687613373,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 233215,
       "num": 257821,
       "word": "下班4小时都能做些什么",
@@ -10113,6 +10121,14 @@
       "onboard_time": 1687255953,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232245,
+      "num": 232245,
+      "word": "法老早安小精灵健将发疯舞台",
+      "onboard_time": 1687607252,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 232224,
@@ -10500,7 +10516,7 @@
     },
     {
       "raw_hot": 219787,
-      "num": 219787,
+      "num": 228565,
       "word": "WBG对战BLG",
       "onboard_time": 1687612055,
       "rank": 48,
@@ -10857,14 +10873,6 @@
       "onboard_time": 1687507589,
       "rank": 40,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 211328,
-      "num": 211328,
-      "word": "法老早安小精灵健将发疯舞台",
-      "onboard_time": 1687607252,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 211169,

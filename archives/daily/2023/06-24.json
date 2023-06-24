@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687613019488,
+  "endTime": 1687613693949,
   "band_list": [
     {
       "raw_hot": 10059576,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 966347,
+      "num": 966347,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 959646,
       "num": 959646,
       "word": "白宫称美方正关注俄国内局势",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794898,
+      "num": 794898,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1687531665,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 786242,
       "num": 786242,
       "word": "暴雪",
@@ -627,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 773925,
-      "num": 773925,
-      "word": "韩剧恶鬼",
-      "onboard_time": 1687531665,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 769274,
       "num": 769274,
       "word": "瓦格纳",
@@ -649,6 +657,14 @@
       "onboard_time": 1687527946,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 765967,
+      "num": 765967,
+      "word": "因脑溢血开颅3次的少年高考445分",
+      "onboard_time": 1687611512,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752164,
@@ -723,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 681649,
+      "num": 681649,
+      "word": "白敬亭穿这么多是有心事吗",
+      "onboard_time": 1687610553,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675279,
       "num": 314830,
       "word": "白敬亭宋轶耳朵都红了",
@@ -771,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629807,
+      "num": 629807,
+      "word": "女心理师",
+      "onboard_time": 1687610973,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 620692,
       "num": 620692,
       "word": "她她她 好听的一阵一阵的",
@@ -787,27 +819,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 609549,
-      "num": 609549,
-      "word": "女心理师",
-      "onboard_time": 1687610973,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 607539,
       "num": 607539,
       "word": "俄乌局势",
       "onboard_time": 1687566389,
       "rank": 18,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 600852,
-      "num": 600852,
-      "word": "圣彼得堡",
-      "onboard_time": 1687612596,
-      "rank": 12,
       "category": "国外要闻"
     },
     {
@@ -851,20 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569163,
-      "num": 569163,
-      "word": "白敬亭穿这么多是有心事吗",
-      "onboard_time": 1687610553,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 568583,
-      "num": 568583,
-      "word": "因脑溢血开颅3次的少年高考445分",
-      "onboard_time": 1687611512,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 559817,
+      "num": 559817,
+      "word": "为什么奶茶店的冰块化得慢",
+      "onboard_time": 1687610371,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 550644,
@@ -883,12 +891,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 532281,
-      "num": 532281,
+      "raw_hot": 537457,
+      "num": 537457,
       "word": "江苏一本线",
       "onboard_time": 1687609714,
       "rank": 32,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 527921,
+      "num": 325444,
+      "word": "迪丽热巴粉丝留言喊话祝绪丹一起跑路",
+      "onboard_time": 1687612833,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 526166,
@@ -955,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 497828,
+      "num": 497828,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497414,
       "num": 497414,
       "word": "重庆分数线",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1687582175,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474625,
+      "num": 474625,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472175,
@@ -1107,14 +1139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 434044,
-      "num": 434044,
-      "word": "朱一龙关姻菩萨",
-      "onboard_time": 1687612355,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 431259,
       "num": 431259,
       "word": "辽宁分数线",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1687563562,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429768,
-      "num": 429768,
-      "word": "鲁A大哥认下获救女婴干女儿",
-      "onboard_time": 1687609714,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428448,
@@ -1235,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410559,
-      "num": 410559,
-      "word": "为什么奶茶店的冰块化得慢",
-      "onboard_time": 1687610371,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 409878,
       "num": 409878,
       "word": "杨颖花50元买蒋奇明的自拍照",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1687537592,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403429,
+      "num": 403429,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 395548,
@@ -1755,14 +1771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295650,
-      "num": 295650,
-      "word": "有演技的流量明星",
-      "onboard_time": 1687612715,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295468,
       "num": 295468,
       "word": "娜扎古装11年前vs11年后",
@@ -1995,14 +2003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244673,
-      "num": 244673,
-      "word": "迪丽热巴粉丝留言喊话祝绪丹一起跑路",
-      "onboard_time": 1687612833,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242439,
       "num": 242439,
       "word": "长风渡看得我恋爱脑又犯了",
@@ -2075,6 +2075,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233312,
+      "num": 233312,
+      "word": "重庆少年高考查分后家中哇声一片",
+      "onboard_time": 1687613373,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 232245,
+      "num": 232245,
+      "word": "法老早安小精灵健将发疯舞台",
+      "onboard_time": 1687607252,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232224,
       "num": 232224,
       "word": "Zdz一路小跑去抱QiuQiu",
@@ -2124,7 +2140,7 @@
     },
     {
       "raw_hot": 219787,
-      "num": 219787,
+      "num": 228565,
       "word": "WBG对战BLG",
       "onboard_time": 1687612055,
       "rank": 48,
@@ -2169,14 +2185,6 @@
       "onboard_time": 1687580557,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211328,
-      "num": 211328,
-      "word": "法老早安小精灵健将发疯舞台",
-      "onboard_time": 1687607252,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 210909,
