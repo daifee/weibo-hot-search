@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687581483876,
+  "endTime": 1687583885158,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3955,6 +3955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1510900,
+      "num": 1079872,
+      "word": "高考状元",
+      "onboard_time": 1687579232,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1508871,
       "num": 1095824,
       "word": "她只是长得好看并且很健谈罢了",
@@ -4267,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1447021,
+      "num": 1447021,
+      "word": "瓦格纳创始人否认试图发动武装叛乱",
+      "onboard_time": 1687578455,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1445483,
       "num": 1445483,
       "word": "Jennie演唱会中途离场",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1685796210,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1429360,
+      "num": 1429360,
+      "word": "白敬亭第一次不爱鞋",
+      "onboard_time": 1687578874,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1427229,
@@ -4835,14 +4859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1338484,
-      "num": 1338484,
-      "word": "瓦格纳创始人否认试图发动武装叛乱",
-      "onboard_time": 1687578455,
-      "rank": 6,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1336936,
       "num": 1336936,
       "word": "陈宏军居然出轨了",
@@ -5001,14 +5017,6 @@
       "onboard_time": 1687244969,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1319391,
-      "num": 1319391,
-      "word": "白敬亭第一次不爱鞋",
-      "onboard_time": 1687578874,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1319108,
@@ -5321,6 +5329,14 @@
       "onboard_time": 1685873726,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1273539,
+      "num": 1273539,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 1271963,
@@ -6348,7 +6364,7 @@
     },
     {
       "raw_hot": 1132475,
-      "num": 1032533,
+      "num": 1073699,
       "word": "炎亚纶前男友A先生再爆料",
       "onboard_time": 1687577795,
       "rank": 36,
@@ -6817,14 +6833,6 @@
       "onboard_time": 1685614287,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1079872,
-      "num": 1079872,
-      "word": "高考状元",
-      "onboard_time": 1687579232,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 1079739,
@@ -10019,6 +10027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 777071,
+      "num": 777071,
+      "word": "她她她",
+      "onboard_time": 1687583255,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 776951,
       "num": 776951,
       "word": "十个勤天去哪了",
@@ -11265,6 +11281,14 @@
       "onboard_time": 1685803953,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 686598,
+      "num": 457320,
+      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+      "onboard_time": 1687583856,
+      "rank": 30,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 685055,
@@ -12720,6 +12744,14 @@
       "word": "全员加速中3要来了",
       "onboard_time": 1686021689,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 585377,
+      "num": 585377,
+      "word": "王俊凯懂张凌赫的痛",
+      "onboard_time": 1687580735,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -14563,6 +14595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497414,
+      "num": 497414,
+      "word": "重庆分数线",
+      "onboard_time": 1687581994,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 496286,
       "num": 496286,
       "word": "五月天嘉宾 王源",
@@ -15081,6 +15121,14 @@
       "onboard_time": 1687482931,
       "rank": 26,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 477877,
+      "num": 477877,
+      "word": "33岁单身女管文被年龄绑架相亲",
+      "onboard_time": 1687582175,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 477542,
@@ -16939,6 +16987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415587,
+      "num": 415587,
+      "word": "狐妖小红娘无暮篇",
+      "onboard_time": 1687581032,
+      "rank": 44,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 415557,
       "num": 415557,
       "word": "惠英红向多位圈中好友说我爱你",
@@ -17617,14 +17673,6 @@
       "onboard_time": 1687144466,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 396172,
-      "num": 396172,
-      "word": "王俊凯懂张凌赫的痛",
-      "onboard_time": 1687580735,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 396109,
@@ -18339,6 +18387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380418,
+      "num": 380418,
+      "word": "在山里不认识的东西不要乱碰",
+      "onboard_time": 1687582297,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380061,
       "num": 380061,
       "word": "我的猫把孩子生到洗衣机了",
@@ -18379,6 +18435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 379502,
+      "num": 379502,
+      "word": "徐明浩徒手劈西瓜把沈月看呆了",
+      "onboard_time": 1687582474,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378739,
       "num": 378739,
       "word": "李泰容solo曲SHALALA",
@@ -18393,6 +18457,14 @@
       "onboard_time": 1687325800,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378272,
+      "num": 378272,
+      "word": "高考400分能上什么大学",
+      "onboard_time": 1687581632,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 377857,
@@ -19987,14 +20059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347341,
-      "num": 347341,
-      "word": "高考理科623分决心复读了",
-      "onboard_time": 1687581158,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 347281,
       "num": 347281,
       "word": "霍思燕带嗯哼现场看球",
@@ -20721,6 +20785,14 @@
       "onboard_time": 1686796707,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334549,
+      "num": 334549,
+      "word": "四公",
+      "onboard_time": 1685964687,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 334492,
@@ -25947,14 +26019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 269413,
-      "num": 269413,
-      "word": "狐妖小红娘无暮篇",
-      "onboard_time": 1687581032,
-      "rank": 44,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 269371,
       "num": 269371,
       "word": "白敬亭宋轶摸头杀",
@@ -27851,6 +27915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253577,
+      "num": 253577,
+      "word": "闭嘴跳舞 本季最佳",
+      "onboard_time": 1687583673,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253499,
       "num": 253499,
       "word": "男子地铁上数次扇脸女子质问爱谁",
@@ -29681,6 +29753,14 @@
       "onboard_time": 1686878609,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239242,
+      "num": 863008,
+      "word": "原神 Keep",
+      "onboard_time": 1687582834,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 239217,
@@ -34065,14 +34145,6 @@
       "onboard_time": 1686098256,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211503,
-      "num": 211503,
-      "word": "四公",
-      "onboard_time": 1685964687,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 211503,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 12:38:03
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 13:18:05
 </p>
 </blockquote>
 <p>
@@ -2979,6 +2979,12 @@ House脱口秀演出剧院被罚10万（热度：1531824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
+高考状元（热度：1510900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%8F%AA%E6%98%AF%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%B9%B6%E4%B8%94%E5%BE%88%E5%81%A5%E8%B0%88%E7%BD%A2%E4%BA%86%23" target="weibo">
 她只是长得好看并且很健谈罢了（热度：1508871）
 </a>
@@ -3213,6 +3219,12 @@ Uzi（热度：1450673）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23" target="weibo">
+瓦格纳创始人否认试图发动武装叛乱（热度：1447021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%80%94%E7%A6%BB%E5%9C%BA%23" target="weibo">
 Jennie演唱会中途离场（热度：1445483）
 </a>
@@ -3263,6 +3275,12 @@ Jennie演唱会中途离场（热度：1445483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E5%AD%90%E7%9C%9F%E5%B8%85%23" target="weibo">
 瘦子真帅（热度：1433613）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23" target="weibo">
+白敬亭第一次不爱鞋（热度：1429360）
 </a>
 </li>
 
@@ -3639,12 +3657,6 @@ NBA总决赛（热度：1351320）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23" target="weibo">
-瓦格纳创始人否认试图发动武装叛乱（热度：1338484）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%8F%E5%86%9B%E5%B1%85%E7%84%B6%E5%87%BA%E8%BD%A8%E4%BA%86%23" target="weibo">
 陈宏军居然出轨了（热度：1336936）
 </a>
@@ -3761,12 +3773,6 @@ TFBOYS公式照（热度：1330711）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8C%BB%E9%99%A2ICU%E4%BD%8F%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%BE%97%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
 在医院ICU住了四年得多少钱（热度：1321243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23" target="weibo">
-白敬亭第一次不爱鞋（热度：1319391）
 </a>
 </li>
 
@@ -4001,6 +4007,12 @@ shanji（热度：1277714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88cos%E9%99%88%E5%B0%8F%E5%B8%8C%23" target="weibo">
 沈月cos陈小希（热度：1274220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23" target="weibo">
+高考理科623分决心复读了（热度：1273539）
 </a>
 </li>
 
@@ -5127,12 +5139,6 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
-高考状元（热度：1079872）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23" target="weibo">
 迪丽热巴的项链好特别（热度：1079739）
 </a>
@@ -6005,12 +6011,6 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E4%BA%BA%E5%AE%B6%E5%B7%B4%E4%B8%8D%E5%BE%97%E8%B7%9F%E6%88%91%E7%BB%93%E5%A9%9A%23" target="weibo">
 娜扎说人家巴不得跟我结婚（热度：948622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%BC%A0%E5%A4%B4%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%AA%97%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%8E%BB%E5%90%83%E9%A5%AD%23" target="weibo">
-高校鼠头事件涉事窗口几乎没人去吃饭（热度：947731）
 </a>
 </li>
 

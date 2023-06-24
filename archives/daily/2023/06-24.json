@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687581483876,
+  "endTime": 1687583885158,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1510900,
+      "num": 1079872,
+      "word": "高考状元",
+      "onboard_time": 1687579232,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1473579,
       "num": 1473579,
       "word": "女子到宾馆匆匆开房浙江老板娘报警",
@@ -107,12 +115,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1338484,
-      "num": 1338484,
+      "raw_hot": 1447021,
+      "num": 1447021,
       "word": "瓦格纳创始人否认试图发动武装叛乱",
       "onboard_time": 1687578455,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1429360,
+      "num": 1429360,
+      "word": "白敬亭第一次不爱鞋",
+      "onboard_time": 1687578874,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1323029,
@@ -121,14 +137,6 @@
       "onboard_time": 1687565728,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1319391,
-      "num": 1319391,
-      "word": "白敬亭第一次不爱鞋",
-      "onboard_time": 1687578874,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1312936,
@@ -161,6 +169,14 @@
       "onboard_time": 1687570296,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1273539,
+      "num": 1273539,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 1252797,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 1132475,
-      "num": 1032533,
+      "num": 1073699,
       "word": "炎亚纶前男友A先生再爆料",
       "onboard_time": 1687577795,
       "rank": 36,
@@ -219,12 +235,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 1079872,
-      "num": 1079872,
-      "word": "高考状元",
-      "onboard_time": 1687579232,
-      "rank": 21,
-      "category": "教育"
+      "raw_hot": 1076896,
+      "num": 1076896,
+      "word": "柳智敏",
+      "onboard_time": 1687583312,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1065632,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 777071,
+      "num": 777071,
+      "word": "她她她",
+      "onboard_time": 1687583255,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 769274,
       "num": 769274,
       "word": "瓦格纳",
@@ -385,6 +409,14 @@
       "onboard_time": 1687521093,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 686598,
+      "num": 457320,
+      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+      "onboard_time": 1687583856,
+      "rank": 30,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 675279,
@@ -435,6 +467,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 585377,
+      "num": 585377,
+      "word": "王俊凯懂张凌赫的痛",
+      "onboard_time": 1687580735,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582079,
       "num": 287851,
       "word": "大张伟唱了静止",
@@ -483,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 497414,
+      "num": 497414,
+      "word": "重庆分数线",
+      "onboard_time": 1687581994,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 484755,
       "num": 484755,
       "word": "跟没主见的人出去玩有多窒息",
@@ -504,6 +552,14 @@
       "word": "韩剧恶鬼",
       "onboard_time": 1687531665,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477877,
+      "num": 477877,
+      "word": "33岁单身女管文被年龄绑架相亲",
+      "onboard_time": 1687582175,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -563,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415587,
+      "num": 415587,
+      "word": "狐妖小红娘无暮篇",
+      "onboard_time": 1687581032,
+      "rank": 44,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 414421,
       "num": 414421,
       "word": "敬礼娃娃郎铮高考文科637分",
@@ -585,14 +649,6 @@
       "onboard_time": 1687537592,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396172,
-      "num": 396172,
-      "word": "王俊凯懂张凌赫的痛",
-      "onboard_time": 1687580735,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 393537,
@@ -627,6 +683,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 380418,
+      "num": 380418,
+      "word": "在山里不认识的东西不要乱碰",
+      "onboard_time": 1687582297,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 379504,
       "num": 379504,
       "word": "入职半个月被领导带头孤立了",
@@ -635,12 +699,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 379502,
+      "num": 379502,
+      "word": "徐明浩徒手劈西瓜把沈月看呆了",
+      "onboard_time": 1687582474,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378740,
       "num": 233341,
       "word": "张译 张颂文",
       "onboard_time": 1687521514,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378272,
+      "num": 378272,
+      "word": "高考400分能上什么大学",
+      "onboard_time": 1687581632,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 371127,
@@ -675,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347341,
-      "num": 347341,
-      "word": "高考理科623分决心复读了",
-      "onboard_time": 1687581158,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 346705,
       "num": 346705,
       "word": "莫斯科已加强安全措施",
@@ -713,6 +785,14 @@
       "onboard_time": 1687571135,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 334549,
+      "num": 334549,
+      "word": "四公",
+      "onboard_time": 1687582714,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 329807,
@@ -883,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269413,
-      "num": 269413,
-      "word": "狐妖小红娘无暮篇",
-      "onboard_time": 1687581032,
-      "rank": 44,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 264436,
       "num": 264436,
       "word": "浙江龙游发生5车追尾事故致6人死亡",
@@ -931,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253577,
+      "num": 253577,
+      "word": "闭嘴跳舞 本季最佳",
+      "onboard_time": 1687583673,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253273,
       "num": 182164,
       "word": "县委大院白玉兰奖最佳原创编剧",
@@ -969,6 +1049,14 @@
       "onboard_time": 1687522413,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239242,
+      "num": 863008,
+      "word": "原神 Keep",
+      "onboard_time": 1687582834,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 236431,
