@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 17:33:50
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 18:20:08
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ Angelababy冷脸（热度：2172017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23" target="weibo">
+复读女生涨61分坐地嚎啕大哭（热度：2100292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23" target="weibo">
 北京政法职业学院发布情况通报（热度：2096018）
 </a>
@@ -2937,6 +2943,12 @@ EXO确定于7月10日回归（热度：1552990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+银川爆炸事故4名犯罪嫌疑人被刑拘（热度：1532077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23House%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%87%BA%E5%89%A7%E9%99%A2%E8%A2%AB%E7%BD%9A10%E4%B8%87%23" target="weibo">
 House脱口秀演出剧院被罚10万（热度：1531824）
 </a>
@@ -3261,6 +3273,12 @@ Uzi（热度：1450673）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%23" target="weibo">
+车臣（热度：1448320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23" target="weibo">
 瓦格纳创始人否认试图发动武装叛乱（热度：1447021）
 </a>
@@ -3473,6 +3491,12 @@ Jennie是前一天爬山太累了吗（热度：1402398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%E8%A2%AB%E6%89%93%E5%88%B0%E9%97%AD%E7%9C%BC%23" target="weibo">
 马思纯扇巴掌戏被打到闭眼（热度：1399891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23" target="weibo">
+车臣部队已准备好帮助镇压叛乱（热度：1397105）
 </a>
 </li>
 
@@ -4389,6 +4413,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D%23" target="weibo">
+瓦格纳集团回应普京讲话（热度：1206874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23" target="weibo">
 梅西被迫宅在酒店（热度：1205493）
 </a>
@@ -4695,6 +4725,12 @@ Jennie 复仇者联盟5（热度：1161672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23" target="weibo">
+班主任查出学生704分拍手大喊哎呦（热度：1157414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B4%E5%B9%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%87%AD%23" target="weibo">
 为什么阴干的衣服那么臭（热度：1156101）
 </a>
@@ -4913,12 +4949,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%A7%E6%93%85%E8%87%AA%E9%82%80%E8%AF%B7%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%AD%99%E5%85%B4%E8%A2%AB%E7%BD%9A5%E4%B8%87%23" target="weibo">
 酒吧擅自邀请涉毒艺人孙兴被罚5万（热度：1114274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23" target="weibo">
-班主任查出学生704分拍手大喊哎呦（热度：1113555）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B5%E9%9C%B2%E6%80%9DV%E6%A6%9C%E7%A0%B49%23" target="weibo">
 肖战迪丽热巴赵露思V榜破9（热度：964320）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E9%83%A8%E7%82%B8%E8%A3%82%E7%9A%84%E9%9F%A9%E7%BB%BC%23" target="weibo">
-又一部炸裂的韩综（热度：964196）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%9D%E5%84%BF%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%23" target="weibo">
-张宝儿官宣怀孕（热度：963621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E6%89%8B%E6%9C%BA%E5%BE%88%E7%83%82%E5%BA%94%E8%AF%A5%E6%98%AF%E4%BB%96%23" target="weibo">
-刘昊然手机很烂应该是他（热度：962741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8D%E5%AA%9B%E8%94%A1%E5%A4%A9%E5%87%A4%E8%91%AC%E7%A4%BC%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23" target="weibo">
-香港名媛蔡天凤葬礼今日举行（热度：962512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E5%BC%80%E6%9C%BA%23" target="weibo">
-承欢记开机（热度：961607）
 </a>
 </li>
 

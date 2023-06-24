@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 17:33:50
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/24 18:20:08
 </p>
 </blockquote>
 <p>
@@ -567,6 +567,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%B6%A861%E5%88%86%E5%9D%90%E5%9C%B0%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%23" target="weibo">
+复读女生涨61分坐地嚎啕大哭（热度：2100292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23" target="weibo">
 外媒称瓦格纳部队正进入俄南部（热度：2052308）
 </a>
@@ -915,6 +921,12 @@ NONO被曝性骚扰（热度：1557708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%854%E5%90%8D%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+银川爆炸事故4名犯罪嫌疑人被刑拘（热度：1532077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E8%A7%81%E8%80%81%E5%A4%AA%E5%BC%80%E6%88%BF%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6%23" target="weibo">
 酒店经理见老太开房神色慌张立即报警（热度：1525975）
 </a>
@@ -1017,6 +1029,12 @@ NONO被曝性骚扰（热度：1557708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%23" target="weibo">
+车臣（热度：1448320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23" target="weibo">
 瓦格纳创始人否认试图发动武装叛乱（热度：1447021）
 </a>
@@ -1079,6 +1097,12 @@ NONO被曝性骚扰（热度：1557708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%89%87%E5%B7%B4%E6%8E%8C%E6%88%8F%E8%A2%AB%E6%89%93%E5%88%B0%E9%97%AD%E7%9C%BC%23" target="weibo">
 马思纯扇巴掌戏被打到闭眼（热度：1399891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23" target="weibo">
+车臣部队已准备好帮助镇压叛乱（热度：1397105）
 </a>
 </li>
 
@@ -1353,6 +1377,12 @@ Jennie的衣服（热度：1357981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E8%AE%B2%E8%AF%9D%23" target="weibo">
+瓦格纳集团回应普京讲话（热度：1206874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%87%AA%E9%A6%96%E6%97%B6%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
 官方通报嫌疑人自首时在派出所身亡（热度：1199875）
 </a>
@@ -1401,6 +1431,12 @@ Jennie的衣服（热度：1357981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23" target="weibo">
+班主任查出学生704分拍手大喊哎呦（热度：1157414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8F%90%E6%9E%81%E4%B9%90%E5%87%80%E5%9C%9F%E8%82%96%E6%88%98%E5%92%8C%E8%B0%81%E6%80%A5%23" target="weibo">
 谁提极乐净土肖战和谁急（热度：1149863）
 </a>
@@ -1445,12 +1481,6 @@ Jennie的衣服（热度：1357981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E7%AD%89%E5%BE%85%E5%B7%9D%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C%E5%90%97%23" target="weibo">
 你还在等待川大女生处理结果吗（热度：1116613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%9F%A5%E5%87%BA%E5%AD%A6%E7%94%9F704%E5%88%86%E6%8B%8D%E6%89%8B%E5%A4%A7%E5%96%8A%E5%93%8E%E5%91%A6%23" target="weibo">
-班主任查出学生704分拍手大喊哎呦（热度：1113555）
 </a>
 </li>
 
@@ -2049,6 +2079,12 @@ Uzi4杀 RNG拿下比赛（热度：909059）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%A6%BB%E8%81%8C5%E5%B9%B4%E7%9A%84%E5%85%AC%E5%8F%B8%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A9%E6%88%91%E5%8E%BB%E9%A2%86%E9%92%B1%23" target="weibo">
+我离职5年的公司打电话让我去领钱（热度：872626）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%23" target="weibo">
 我的前半生（热度：870123）
 </a>
@@ -2373,6 +2409,12 @@ RNG零封EDG（热度：843888）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E6%81%8B%E7%88%B1%E8%84%91%E6%B2%BB%E5%A5%BD%E4%BA%86%23" target="weibo">
+看消失的她 恋爱脑治好了（热度：765547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%A2%E8%89%B2%E6%97%97%E8%A2%8D%23" target="weibo">
 赵丽颖红色旗袍（热度：765421）
 </a>
@@ -2645,6 +2687,12 @@ Jennie在舞台上走神（热度：684386）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E4%B8%8EBeishang%E8%A7%A3%E7%BA%A6%23" target="weibo">
 iG与Beishang解约（热度：676459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%84%BF%E5%AA%B3%E5%81%9A%E5%8D%88%E9%A4%90%E4%BE%BF%E5%BD%93%E7%9B%B2%E7%9B%92%23" target="weibo">
+婆婆连续3年给儿媳做午餐便当盲盒（热度：673441）
 </a>
 </li>
 
@@ -3441,6 +3489,12 @@ Angelababy演戏自称杨幂（热度：513157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%88%BF%E9%97%A8%E9%83%BD%E6%98%AF%E5%9D%8F%E7%9A%84%23" target="weibo">
+原来大家的房门都是坏的（热度：504669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E7%BB%88%E4%BA%8E%E5%90%88%E4%BD%9C%E4%B8%8A%E4%BA%86%23" target="weibo">
 周深美依礼芽终于合作上了（热度：504628）
 </a>
@@ -3473,12 +3527,6 @@ A股（热度：502006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E5%8E%BB%E4%B8%8D%E5%8E%BB%E7%99%BD%E7%8E%89%E5%85%B0%23" target="weibo">
 张译去不去白玉兰（热度：500050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%A6%BB%E8%81%8C5%E5%B9%B4%E7%9A%84%E5%85%AC%E5%8F%B8%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A9%E6%88%91%E5%8E%BB%E9%A2%86%E9%92%B1%23" target="weibo">
-我离职5年的公司打电话让我去领钱（热度：499893）
 </a>
 </li>
 
@@ -4557,6 +4605,12 @@ TES对战JDG（热度：391609）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%BD%A6%E9%93%B6%E4%BC%98%E5%90%8C%E6%A1%86%23" target="weibo">
+陈飞宇车银优同框（热度：379871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E5%8D%8A%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%A2%86%E5%AF%BC%E5%B8%A6%E5%A4%B4%E5%AD%A4%E7%AB%8B%E4%BA%86%23" target="weibo">
 入职半个月被领导带头孤立了（热度：379504）
 </a>
@@ -4709,6 +4763,12 @@ BKPP 嵩山音乐节（热度：363802）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E4%BB%80%E4%B9%88%E6%9C%80%E8%AE%A9%E4%BD%A0%E5%8F%8D%E6%84%9F%23" target="weibo">
 朋友圈发什么最让你反感（热度：363460）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A4%BA%E5%91%BD%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
+华晨宇夺命提词器（热度：362838）
 </a>
 </li>
 
@@ -4875,6 +4935,12 @@ mcd（热度：355018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%A1%AC%E6%A0%B8%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA%23" target="weibo">
+白敬亭硬核回复粉丝评论（热度：350725）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
 全国各地高考分数线汇总（热度：350623）
 </a>
@@ -4913,6 +4979,12 @@ Jennie新剧预告又跳舞了（热度：349228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%94%B1%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E8%BF%98%E6%98%AF%E6%B3%B0%E6%96%87%23" target="weibo">
 秋瓷炫唱的是中文还是泰文（热度：348831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B7%B2%E8%BE%BE%E5%8D%83%E4%BA%BF%23" target="weibo">
+字节跳动在贷余额已达千亿（热度：348794）
 </a>
 </li>
 
@@ -5141,6 +5213,12 @@ OMG对战WE（热度：334489）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%23" target="weibo">
 长相思（热度：330503）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%85%AC%E8%AE%A4%E4%BA%B2%E5%AE%B4%E5%90%91%E5%AD%99%E6%B5%B7%E6%B4%8B%E9%A2%84%E8%AE%A21%E4%B8%87%E5%8C%85%E5%AD%90%23" target="weibo">
+雷公认亲宴向孙海洋预订1万包子（热度：329875）
 </a>
 </li>
 
@@ -6689,12 +6767,6 @@ Newjeans将回归（热度：252469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LPR%23" target="weibo">
 LPR（热度：250967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%87%A3%E9%83%A8%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E5%B8%AE%E5%8A%A9%E9%95%87%E5%8E%8B%E5%8F%9B%E4%B9%B1%23" target="weibo">
-车臣部队已准备好帮助镇压叛乱（热度：250578）
 </a>
 </li>
 
@@ -10073,6 +10145,12 @@ WBG对战TT（热度：115960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%8C%AB%E5%92%AA%E8%B5%B0%E8%B7%AF%E8%A2%AB%E5%8F%91%E7%8E%B0%E7%9A%84%E8%BE%B9%E7%89%A7%23" target="weibo">
 学猫咪走路被发现的边牧（热度：115054）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WE%E5%AF%B9%E6%88%98TT%23" target="weibo">
+WE对战TT（热度：114163）
 </a>
 </li>
 
