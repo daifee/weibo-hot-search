@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687631822898,
+  "endTime": 1687634102098,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211373,
+      "num": 211373,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 206445,
       "num": 206445,
       "word": "韩剧恶鬼",
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124194,
-      "num": 124194,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 102553,
       "num": 102553,
       "word": "华晨宇演唱会帮人找孩子",
@@ -489,6 +489,14 @@
       "onboard_time": 1687605812,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29582,
+      "num": 33570,
+      "word": "北京中考",
+      "onboard_time": 1687633754,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 8648,

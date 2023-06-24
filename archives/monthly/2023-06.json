@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687631822898,
+  "endTime": 1687634102098,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -35563,6 +35563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211373,
+      "num": 211373,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 211233,
       "num": 211233,
       "word": "王一博GT3赛车初体验",
@@ -51003,14 +51011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124194,
-      "num": 124194,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 124093,
       "num": 124093,
       "word": "吴京沈腾舒淇后台合照",
@@ -57497,6 +57497,14 @@
       "onboard_time": 1686394850,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29582,
+      "num": 33570,
+      "word": "北京中考",
+      "onboard_time": 1687633754,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 28906,
