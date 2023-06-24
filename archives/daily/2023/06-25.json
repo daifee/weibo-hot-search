@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687641394674,
+  "endTime": 1687642440495,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35492,
+      "num": 35492,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1687640832,
+      "rank": 42,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 33856,
       "num": 33856,
       "word": "鹿晗演唱会大屏",
@@ -507,28 +515,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 26189,
-      "num": 31773,
-      "word": "健将plus",
-      "onboard_time": 1687632315,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 25855,
-      "num": 25855,
+      "raw_hot": 29480,
+      "num": 32360,
       "word": "银川烧烤店爆炸背后",
       "onboard_time": 1687637712,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20953,
-      "num": 22709,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1687640832,
-      "rank": 42,
-      "category": "国外要闻"
+      "raw_hot": 26189,
+      "num": 31773,
+      "word": "健将plus",
+      "onboard_time": 1687632315,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 8648,
