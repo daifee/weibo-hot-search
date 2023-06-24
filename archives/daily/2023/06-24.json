@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687583885158,
+  "endTime": 1687584929737,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -91,6 +91,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1738857,
+      "num": 1738857,
+      "word": "她她她",
+      "onboard_time": 1687583255,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1634431,
+      "num": 914504,
+      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+      "onboard_time": 1687583856,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1510900,
       "num": 1079872,
       "word": "高考状元",
@@ -129,6 +145,22 @@
       "onboard_time": 1687578874,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1378668,
+      "num": 1073699,
+      "word": "炎亚纶前男友A先生再爆料",
+      "onboard_time": 1687577795,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1367151,
+      "num": 1367151,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 1323029,
@@ -171,14 +203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1273539,
-      "num": 1273539,
-      "word": "高考理科623分决心复读了",
-      "onboard_time": 1687581158,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1252797,
       "num": 1142317,
       "word": "炎亚纶",
@@ -216,14 +240,6 @@
       "word": "四大女顶流奖项实绩",
       "onboard_time": 1687568914,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1132475,
-      "num": 1073699,
-      "word": "炎亚纶前男友A先生再爆料",
-      "onboard_time": 1687577795,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797483,
+      "num": 797483,
+      "word": "闭嘴跳舞 本季最佳",
+      "onboard_time": 1687583673,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786242,
       "num": 786242,
       "word": "暴雪",
@@ -361,14 +385,6 @@
       "onboard_time": 1687535557,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 777071,
-      "num": 777071,
-      "word": "她她她",
-      "onboard_time": 1687583255,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 769274,
@@ -409,14 +425,6 @@
       "onboard_time": 1687521093,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 686598,
-      "num": 457320,
-      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
-      "onboard_time": 1687583856,
-      "rank": 30,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 675279,
@@ -571,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466614,
+      "num": 466614,
+      "word": "高考400分能上什么大学",
+      "onboard_time": 1687581632,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 430737,
       "num": 412447,
       "word": "莫斯科街头出现大批军车",
@@ -713,14 +729,6 @@
       "onboard_time": 1687521514,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378272,
-      "num": 378272,
-      "word": "高考400分能上什么大学",
-      "onboard_time": 1687581632,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 371127,
@@ -875,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301369,
+      "num": 894628,
+      "word": "原神 Keep",
+      "onboard_time": 1687582834,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301238,
       "num": 264758,
       "word": "这就是我开放朋友圈的意义",
@@ -929,6 +945,14 @@
       "onboard_time": 1687567530,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 286612,
+      "num": 286612,
+      "word": "谢娜彩排大哭",
+      "onboard_time": 1687584813,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 285998,
@@ -1003,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253577,
-      "num": 253577,
-      "word": "闭嘴跳舞 本季最佳",
-      "onboard_time": 1687583673,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253273,
       "num": 182164,
       "word": "县委大院白玉兰奖最佳原创编剧",
@@ -1043,20 +1059,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242086,
+      "num": 242086,
+      "word": "白客看了都无语",
+      "onboard_time": 1687584698,
+      "rank": 48,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 239674,
       "num": 239674,
       "word": "地铁里挤过来一个静脉曲张",
       "onboard_time": 1687522413,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239242,
-      "num": 863008,
-      "word": "原神 Keep",
-      "onboard_time": 1687582834,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 236431,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1687579473,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229795,
+      "num": 238695,
+      "word": "一人一句给绿水青山点赞",
+      "onboard_time": 1687584454,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 228782,

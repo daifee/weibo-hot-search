@@ -1,0 +1,410 @@
+{
+  "runTime": 1687584929737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2793104,
+        "num": 2793104,
+        "word": "俄罗斯",
+        "onboard_time": 1687562662,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1738857,
+        "num": 1738857,
+        "word": "她她她",
+        "onboard_time": 1687583255,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118025,
+        "num": 1591546,
+        "word": "31省份报志愿时间全汇总",
+        "onboard_time": 1687578335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522656,
+        "num": 1522656,
+        "word": "女生高考712分查完分就睡了",
+        "onboard_time": 1687568073,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1367151,
+        "num": 1367151,
+        "word": "高考理科623分决心复读了",
+        "onboard_time": 1687581158,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1582021,
+        "num": 1361948,
+        "word": "炎亚纶 还好没有我的脸",
+        "onboard_time": 1687568133,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1326518,
+        "num": 1326518,
+        "word": "瓦格纳创始人否认试图发动武装叛乱",
+        "onboard_time": 1687578455,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1270727,
+        "num": 1270727,
+        "word": "白敬亭第一次不爱鞋",
+        "onboard_time": 1687578874,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 940824,
+        "num": 940824,
+        "word": "柳智敏",
+        "onboard_time": 1687583312,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914978,
+        "num": 914978,
+        "word": "赵丽颖 戴比尔斯",
+        "onboard_time": 1687574015,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1634431,
+        "num": 914504,
+        "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+        "onboard_time": 1687583856,
+        "rank": 10,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1378668,
+        "num": 914468,
+        "word": "炎亚纶前男友A先生再爆料",
+        "onboard_time": 1687577795,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 936701,
+        "num": 913979,
+        "word": "俄总检察长已向普京汇报情况",
+        "onboard_time": 1687572935,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 912871,
+        "num": 912871,
+        "word": "女生查分666全家齐喊666",
+        "onboard_time": 1687574254,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301369,
+        "num": 894628,
+        "word": "原神 Keep",
+        "onboard_time": 1687582834,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 878975,
+        "num": 878975,
+        "word": "外媒称瓦格纳部队正进入俄南部",
+        "onboard_time": 1687575452,
+        "rank": 15,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 844378,
+        "num": 844378,
+        "word": "基辅称击落了超20枚俄军导弹",
+        "onboard_time": 1687579774,
+        "rank": 16,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 797483,
+        "num": 797483,
+        "word": "闭嘴跳舞 本季最佳",
+        "onboard_time": 1687583673,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737110,
+        "num": 737110,
+        "word": "宁静说赵丽颖也是从横店街上出来的",
+        "onboard_time": 1687575396,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718000,
+        "num": 718000,
+        "word": "白宫称美方正关注俄国内局势",
+        "onboard_time": 1687573415,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 734541,
+        "num": 706820,
+        "word": "在一起五年分手了是什么体验",
+        "onboard_time": 1687576295,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 683398,
+        "num": 683398,
+        "word": "吴越 是不是大女主都没关系",
+        "onboard_time": 1687568672,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658975,
+        "num": 658975,
+        "word": "姚景元高考分数401",
+        "onboard_time": 1687566691,
+        "rank": 22,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 658458,
+        "num": 658458,
+        "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
+        "onboard_time": 1687571975,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 560847,
+        "num": 560847,
+        "word": "莫斯科正在进行反恐行动",
+        "onboard_time": 1687577853,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 532269,
+        "num": 532269,
+        "word": "狂飙没拿奖",
+        "onboard_time": 1687564045,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466614,
+        "num": 466614,
+        "word": "高考400分能上什么大学",
+        "onboard_time": 1687581632,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 460635,
+        "num": 460635,
+        "word": "33岁单身女管文被年龄绑架相亲",
+        "onboard_time": 1687582175,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437656,
+        "num": 437656,
+        "word": "孙千评论赵丽颖说你跑我追",
+        "onboard_time": 1687570296,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429916,
+        "num": 429916,
+        "word": "王俊凯懂张凌赫的痛",
+        "onboard_time": 1687580735,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415036,
+        "num": 415036,
+        "word": "雷佳音你要不要回头看看赵丽颖",
+        "onboard_time": 1687580014,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369631,
+        "num": 369631,
+        "word": "莫斯科街头出现大批军车",
+        "onboard_time": 1687579894,
+        "rank": 31,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 369336,
+        "num": 369336,
+        "word": "在山里不认识的东西不要乱碰",
+        "onboard_time": 1687582297,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364457,
+        "num": 364457,
+        "word": "身高150腿长90的人是这样的",
+        "onboard_time": 1687568914,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363217,
+        "num": 363217,
+        "word": "戒糖一年的变化",
+        "onboard_time": 1687563803,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351769,
+        "num": 351769,
+        "word": "狐妖小红娘无暮篇",
+        "onboard_time": 1687581032,
+        "rank": 35,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 349256,
+        "num": 349256,
+        "word": "重庆分数线",
+        "onboard_time": 1687581994,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 328565,
+        "num": 328565,
+        "word": "大小S宣布起诉葛斯齐",
+        "onboard_time": 1687534658,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1332865,
+        "num": 328463,
+        "word": "高考状元",
+        "onboard_time": 1687579232,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328211,
+        "num": 328211,
+        "word": "鹿晗演唱会上不敢读的灯牌",
+        "onboard_time": 1687533642,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301524,
+        "num": 301524,
+        "word": "高考分数线",
+        "onboard_time": 1687570715,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 299875,
+        "num": 299875,
+        "word": "徐明浩徒手劈西瓜把沈月看呆了",
+        "onboard_time": 1687582474,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286612,
+        "num": 286612,
+        "word": "谢娜彩排大哭",
+        "onboard_time": 1687584813,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285505,
+        "num": 285505,
+        "word": "女儿587分爸爸大喊祖坟冒烟了",
+        "onboard_time": 1687577015,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283748,
+        "num": 283748,
+        "word": "瓦格纳",
+        "onboard_time": 1687562662,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266488,
+        "num": 266488,
+        "word": "廉价的正义感比冷漠更可怕",
+        "onboard_time": 1687575936,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262835,
+        "num": 262835,
+        "word": "莫斯科已加强安全措施",
+        "onboard_time": 1687566750,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 250478,
+        "num": 250478,
+        "word": "四公",
+        "onboard_time": 1687582714,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242086,
+        "num": 242086,
+        "word": "白客看了都无语",
+        "onboard_time": 1687584698,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 229795,
+        "num": 238695,
+        "word": "一人一句给绿水青山点赞",
+        "onboard_time": 1687584454,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
+    }
+  }
+}
