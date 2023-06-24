@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687610156014,
+  "endTime": 1687611216336,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -1731,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1270287,
+      "num": 1231570,
+      "word": "瓦格纳集团称内战已经正式开始",
+      "onboard_time": 1687607132,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1263592,
       "num": 1263592,
       "word": "拍一部爆一部的演员",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1687583673,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1231570,
-      "num": 1231570,
-      "word": "瓦格纳集团称内战已经正式开始",
-      "onboard_time": 1687607132,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1230117,
@@ -2235,6 +2235,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 1048991,
+      "num": 1048991,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1687604314,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1045303,
       "num": 1045303,
       "word": "普京称所有对抗军队的人都是叛徒",
@@ -2355,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1015504,
-      "num": 1015504,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1687604314,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1014583,
       "num": 1014583,
       "word": "分数线 砍一刀",
@@ -2387,20 +2387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1007993,
+      "num": 1007993,
+      "word": "大学四年买了100斤的衣服",
+      "onboard_time": 1687607492,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1003583,
       "num": 1003583,
       "word": "赵丽颖张碧晨合体上综艺",
       "onboard_time": 1687319796,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 998434,
-      "num": 998434,
-      "word": "大学四年买了100斤的衣服",
-      "onboard_time": 1687607492,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 998050,
@@ -2476,7 +2476,7 @@
     },
     {
       "raw_hot": 973613,
-      "num": 501773,
+      "num": 508658,
       "word": "韩剧恶鬼",
       "onboard_time": 1687531665,
       "rank": 11,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1687230989,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 816755,
+      "num": 816755,
+      "word": "鹿晗演唱会的女安检员",
+      "onboard_time": 1687610132,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 812748,
@@ -4443,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532281,
+      "num": 532281,
+      "word": "江苏一本线",
+      "onboard_time": 1687609714,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 529723,
       "num": 529723,
       "word": "书粉剧粉都满意的选角",
@@ -4489,14 +4505,6 @@
       "onboard_time": 1687150171,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522671,
-      "num": 522671,
-      "word": "鹿晗演唱会的女安检员",
-      "onboard_time": 1687610132,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 522229,
@@ -5715,6 +5723,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 420331,
+      "num": 337929,
+      "word": "胡锡进 武装叛乱在俄罗斯没有传统",
+      "onboard_time": 1687610313,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420166,
       "num": 420166,
       "word": "无畏",
@@ -5840,6 +5856,14 @@
       "word": "网友吐槽中餐厅7工作人员",
       "onboard_time": 1687236580,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 412266,
+      "num": 412266,
+      "word": "青春环游记",
+      "onboard_time": 1687610493,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -6219,6 +6243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383434,
+      "num": 337823,
+      "word": "白敬亭穿这么多是有心事吗",
+      "onboard_time": 1687610553,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383209,
       "num": 383209,
       "word": "实名注册手机卡不注销的后果",
@@ -6531,6 +6563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361373,
+      "num": 337662,
+      "word": "果然边牧是边牧狗是狗",
+      "onboard_time": 1687610793,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360077,
       "num": 360077,
       "word": "赵露思桑稚的多巴胺穿搭",
@@ -6667,12 +6707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353614,
+      "num": 353614,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353607,
       "num": 353607,
       "word": "马尔代夫",
       "onboard_time": 1687234836,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353282,
+      "num": 353282,
+      "word": "女心理师",
+      "onboard_time": 1687610973,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 353267,
@@ -6899,6 +6955,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 342415,
+      "num": 342415,
+      "word": "女子300元买5双鞋因袋子收费拎回家",
+      "onboard_time": 1687610672,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341625,
       "num": 264635,
       "word": "很想很想你",
@@ -6961,6 +7025,14 @@
       "onboard_time": 1687408294,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337460,
+      "num": 336480,
+      "word": "顾九思柳玉茹轶穷二白",
+      "onboard_time": 1687608812,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 337434,
@@ -7088,14 +7160,6 @@
       "word": "王俊凯说还是小凯",
       "onboard_time": 1687602515,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 331218,
-      "num": 331218,
-      "word": "顾九思柳玉茹轶穷二白",
-      "onboard_time": 1687608812,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -7643,14 +7707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302951,
-      "num": 302951,
-      "word": "鲁A大哥认下获救女婴干女儿",
-      "onboard_time": 1687609714,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302661,
       "num": 302661,
       "word": "王俊凯说自己很少上综艺",
@@ -7689,6 +7745,14 @@
       "onboard_time": 1687575334,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301846,
+      "num": 301846,
+      "word": "大妈吃席打包整只鸡同桌笑到颤抖",
+      "onboard_time": 1687610073,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301754,
@@ -7769,14 +7833,6 @@
       "onboard_time": 1687350513,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 298826,
-      "num": 298826,
-      "word": "江苏一本线",
-      "onboard_time": 1687609714,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 298500,
@@ -9259,6 +9315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250042,
+      "num": 250042,
+      "word": "敬鸿轶瞥",
+      "onboard_time": 1687608929,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249941,
       "num": 249941,
       "word": "折腰",
@@ -9281,14 +9345,6 @@
       "onboard_time": 1687231174,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248988,
-      "num": 248988,
-      "word": "敬鸿轶瞥",
-      "onboard_time": 1687608929,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 248953,
@@ -9635,6 +9691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238768,
+      "num": 238768,
+      "word": "你考虑过复读吗",
+      "onboard_time": 1687609772,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 238765,
       "num": 238765,
       "word": "迪丽热巴赵昕互关",
@@ -9955,6 +10019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232745,
+      "num": 232745,
+      "word": "乘风选人规律不是0就是1",
+      "onboard_time": 1687611094,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232449,
       "num": 232449,
       "word": "宋亚轩胸肌好明显",
@@ -9985,6 +10057,14 @@
       "onboard_time": 1687255953,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232224,
+      "num": 232224,
+      "word": "Zdz一路小跑去抱QiuQiu",
+      "onboard_time": 1687610493,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 231916,
@@ -10025,14 +10105,6 @@
       "onboard_time": 1687392448,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231150,
-      "num": 231150,
-      "word": "你考虑过复读吗",
-      "onboard_time": 1687609772,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 230936,
@@ -11337,14 +11409,6 @@
       "onboard_time": 1687391726,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197921,
-      "num": 197921,
-      "word": "大妈吃席打包整只鸡同桌笑到颤抖",
-      "onboard_time": 1687610073,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197787,

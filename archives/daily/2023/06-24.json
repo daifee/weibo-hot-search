@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687610156014,
+  "endTime": 1687611216336,
   "band_list": [
     {
       "raw_hot": 10059576,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1270287,
+      "num": 1231570,
+      "word": "瓦格纳集团称内战已经正式开始",
+      "onboard_time": 1687607132,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1252797,
       "num": 1142317,
       "word": "炎亚纶",
@@ -297,14 +305,6 @@
       "onboard_time": 1687583673,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1231570,
-      "num": 1231570,
-      "word": "瓦格纳集团称内战已经正式开始",
-      "onboard_time": 1687607132,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1206874,
@@ -411,6 +411,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 1048991,
+      "num": 1048991,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1687604314,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1045303,
       "num": 1045303,
       "word": "普京称所有对抗军队的人都是叛徒",
@@ -443,16 +451,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1015504,
-      "num": 1015504,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1687604314,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 998434,
-      "num": 998434,
+      "raw_hot": 1007993,
+      "num": 1007993,
       "word": "大学四年买了100斤的衣服",
       "onboard_time": 1687607492,
       "rank": 7,
@@ -569,6 +569,14 @@
       "onboard_time": 1687595673,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 816755,
+      "num": 816755,
+      "word": "鹿晗演唱会的女安检员",
+      "onboard_time": 1687610132,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 802093,
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532281,
+      "num": 532281,
+      "word": "江苏一本线",
+      "onboard_time": 1687609714,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 526166,
       "num": 526166,
       "word": "廉价的正义感比冷漠更可怕",
@@ -843,19 +859,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 522671,
-      "num": 522671,
-      "word": "鹿晗演唱会的女安检员",
-      "onboard_time": 1687610132,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 514449,
       "num": 514449,
       "word": "黄渤王一博八百个心眼子",
       "onboard_time": 1687586012,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 508658,
+      "num": 508658,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1687531665,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -953,14 +969,6 @@
       "onboard_time": 1687577192,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 478094,
-      "num": 250096,
-      "word": "韩剧恶鬼",
-      "onboard_time": 1687531665,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 477877,
@@ -1107,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 420331,
+      "num": 337929,
+      "word": "胡锡进 武装叛乱在俄罗斯没有传统",
+      "onboard_time": 1687610313,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420166,
       "num": 420166,
       "word": "无畏",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1687534837,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 412266,
+      "num": 412266,
+      "word": "青春环游记",
+      "onboard_time": 1687610493,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 409878,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1687601494,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 383434,
+      "num": 337823,
+      "word": "白敬亭穿这么多是有心事吗",
+      "onboard_time": 1687610553,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 382371,
@@ -1315,6 +1347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 361373,
+      "num": 337662,
+      "word": "果然边牧是边牧狗是狗",
+      "onboard_time": 1687610793,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360077,
       "num": 360077,
       "word": "赵露思桑稚的多巴胺穿搭",
@@ -1337,6 +1377,22 @@
       "onboard_time": 1687602694,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 353614,
+      "num": 353614,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353282,
+      "num": 353282,
+      "word": "女心理师",
+      "onboard_time": 1687610973,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 353267,
@@ -1387,6 +1443,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 342415,
+      "num": 342415,
+      "word": "女子300元买5双鞋因袋子收费拎回家",
+      "onboard_time": 1687610672,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338115,
       "num": 338115,
       "word": "泰坦号潜水器前乘客曝恐怖经历",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1687508010,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337460,
+      "num": 336480,
+      "word": "顾九思柳玉茹轶穷二白",
+      "onboard_time": 1687608812,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 336863,
@@ -1424,14 +1496,6 @@
       "word": "王俊凯说还是小凯",
       "onboard_time": 1687602515,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 331218,
-      "num": 331218,
-      "word": "顾九思柳玉茹轶穷二白",
-      "onboard_time": 1687608812,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1571,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302951,
-      "num": 302951,
-      "word": "鲁A大哥认下获救女婴干女儿",
-      "onboard_time": 1687609714,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302661,
       "num": 302661,
       "word": "王俊凯说自己很少上综艺",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1687575334,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301846,
+      "num": 301846,
+      "word": "大妈吃席打包整只鸡同桌笑到颤抖",
+      "onboard_time": 1687610073,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301780,
@@ -1624,14 +1688,6 @@
       "word": "黑龙江高考分数线",
       "onboard_time": 1687575215,
       "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 298826,
-      "num": 298826,
-      "word": "江苏一本线",
-      "onboard_time": 1687609714,
-      "rank": 32,
       "category": "教育,社会新闻"
     },
     {
@@ -1843,8 +1899,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248988,
-      "num": 248988,
+      "raw_hot": 250042,
+      "num": 250042,
       "word": "敬鸿轶瞥",
       "onboard_time": 1687608929,
       "rank": 37,
@@ -1907,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238768,
+      "num": 238768,
+      "word": "你考虑过复读吗",
+      "onboard_time": 1687609772,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 237256,
       "num": 237256,
       "word": "谢娜听到龚琳娜夸张杰的反应",
@@ -1947,12 +2011,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231150,
-      "num": 231150,
-      "word": "你考虑过复读吗",
-      "onboard_time": 1687609772,
-      "rank": 40,
-      "category": "社会新闻,教育"
+      "raw_hot": 232745,
+      "num": 232745,
+      "word": "乘风选人规律不是0就是1",
+      "onboard_time": 1687611094,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232224,
+      "num": 232224,
+      "word": "Zdz一路小跑去抱QiuQiu",
+      "onboard_time": 1687610493,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 229795,
@@ -2065,14 +2137,6 @@
       "onboard_time": 1687582534,
       "rank": 48,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 197921,
-      "num": 197921,
-      "word": "大妈吃席打包整只鸡同桌笑到颤抖",
-      "onboard_time": 1687610073,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181012,

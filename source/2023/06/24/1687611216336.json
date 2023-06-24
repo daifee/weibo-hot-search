@@ -1,0 +1,410 @@
+{
+  "runTime": 1687611216336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6109212,
+        "num": 6109212,
+        "word": "普京指责瓦格纳负责人叛国",
+        "onboard_time": 1687592313,
+        "rank": 0,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 1615848,
+        "num": 1615848,
+        "word": "弟弟考了640分却开心不起来",
+        "onboard_time": 1687605274,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35859,
+        "num": 1245250,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121161,
+        "num": 1121161,
+        "word": "看消失的她 恋爱脑治好了",
+        "onboard_time": 1687601133,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1101170,
+        "num": 1101170,
+        "word": "车臣",
+        "onboard_time": 1687600473,
+        "rank": 4,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1048991,
+        "num": 1048991,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1687604314,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1270287,
+        "num": 1047168,
+        "word": "瓦格纳集团称内战已经正式开始",
+        "onboard_time": 1687607132,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007993,
+        "num": 1007993,
+        "word": "大学四年买了100斤的衣服",
+        "onboard_time": 1687607492,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 816755,
+        "num": 816755,
+        "word": "鹿晗演唱会的女安检员",
+        "onboard_time": 1687610132,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 710384,
+        "num": 710384,
+        "word": "瓦格纳",
+        "onboard_time": 1687609650,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 678973,
+        "num": 678973,
+        "word": "复读女生涨61分坐地嚎啕大哭",
+        "onboard_time": 1687599392,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 674025,
+        "num": 674025,
+        "word": "宋轶直播",
+        "onboard_time": 1687605931,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560481,
+        "num": 560481,
+        "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+        "onboard_time": 1687583856,
+        "rank": 12,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 548031,
+        "num": 548031,
+        "word": "哥哥在道歉和哄人中选择了做法",
+        "onboard_time": 1687605332,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 536611,
+        "num": 536611,
+        "word": "鹿晗演唱会惊喜嘉宾是邓超",
+        "onboard_time": 1687606414,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1383208,
+        "num": 535444,
+        "word": "炎亚纶曾强吻曾之乔",
+        "onboard_time": 1687603774,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532281,
+        "num": 532281,
+        "word": "江苏一本线",
+        "onboard_time": 1687609714,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 516401,
+        "num": 516401,
+        "word": "字节跳动在贷余额已达千亿",
+        "onboard_time": 1687601133,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 508658,
+        "num": 508658,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1687610313,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478464,
+        "num": 478464,
+        "word": "虞书欣到底有多少靴子",
+        "onboard_time": 1687597416,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 430060,
+        "num": 430060,
+        "word": "车臣军队已出发平叛",
+        "onboard_time": 1687608030,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 421099,
+        "num": 421099,
+        "word": "我离职5年的公司打电话让我去领钱",
+        "onboard_time": 1687598913,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412266,
+        "num": 412266,
+        "word": "青春环游记",
+        "onboard_time": 1687610493,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396477,
+        "num": 396477,
+        "word": "河南高考分数线",
+        "onboard_time": 1687607611,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387189,
+        "num": 387189,
+        "word": "网友问老婆变成文咏珊为什么要报警",
+        "onboard_time": 1687592553,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367949,
+        "num": 367949,
+        "word": "瓦格纳集团回应普京讲话",
+        "onboard_time": 1687599272,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353614,
+        "num": 353614,
+        "word": "鲁A大哥认下获救女婴干女儿",
+        "onboard_time": 1687609714,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353282,
+        "num": 353282,
+        "word": "女心理师",
+        "onboard_time": 1687610973,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342415,
+        "num": 342415,
+        "word": "女子300元买5双鞋因袋子收费拎回家",
+        "onboard_time": 1687610672,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338113,
+        "num": 338113,
+        "word": "班主任查出学生704分拍手大喊哎呦",
+        "onboard_time": 1687596154,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 420331,
+        "num": 337929,
+        "word": "胡锡进 武装叛乱在俄罗斯没有传统",
+        "onboard_time": 1687610313,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383434,
+        "num": 337823,
+        "word": "白敬亭穿这么多是有心事吗",
+        "onboard_time": 1687610553,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361373,
+        "num": 337662,
+        "word": "果然边牧是边牧狗是狗",
+        "onboard_time": 1687610793,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337420,
+        "num": 337420,
+        "word": "炎亚纶前男友A先生再爆料",
+        "onboard_time": 1687577795,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337460,
+        "num": 336480,
+        "word": "顾九思柳玉茹轶穷二白",
+        "onboard_time": 1687608812,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330783,
+        "num": 330783,
+        "word": "男生得知好友仅609分后瞬间弹起",
+        "onboard_time": 1687606954,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323652,
+        "num": 323652,
+        "word": "白敬亭恋爱脑不像演的",
+        "onboard_time": 1687608093,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301846,
+        "num": 301846,
+        "word": "大妈吃席打包整只鸡同桌笑到颤抖",
+        "onboard_time": 1687610073,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294853,
+        "num": 294853,
+        "word": "普京发表讲话",
+        "onboard_time": 1687586314,
+        "rank": 38,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 264741,
+        "num": 264741,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687605812,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259022,
+        "num": 259022,
+        "word": "台媒曝黄子佼下个月复工",
+        "onboard_time": 1687592313,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250042,
+        "num": 250042,
+        "word": "敬鸿轶瞥",
+        "onboard_time": 1687608929,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244267,
+        "num": 244267,
+        "word": "外媒称瓦格纳部队正进入俄南部",
+        "onboard_time": 1687575452,
+        "rank": 42,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 238768,
+        "num": 238768,
+        "word": "你考虑过复读吗",
+        "onboard_time": 1687609772,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234953,
+        "num": 234953,
+        "word": "江苏高考查分",
+        "onboard_time": 1687608215,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 233105,
+        "num": 233105,
+        "word": "陈飞宇车银优同框",
+        "onboard_time": 1687599872,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232745,
+        "num": 232745,
+        "word": "乘风选人规律不是0就是1",
+        "onboard_time": 1687611094,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232224,
+        "num": 232224,
+        "word": "Zdz一路小跑去抱QiuQiu",
+        "onboard_time": 1687610493,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219214,
+        "num": 219214,
+        "word": "婆婆连续3年给儿媳做午餐便当盲盒",
+        "onboard_time": 1687600775,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207334,
+        "num": 214836,
+        "word": "未央",
+        "onboard_time": 1687608812,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
+    }
+  }
+}
