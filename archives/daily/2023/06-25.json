@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687645085981,
+  "endTime": 1687646157198,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -35,8 +35,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1033889,
-      "num": 1033889,
+      "raw_hot": 1458650,
+      "num": 1458650,
       "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
       "onboard_time": 1687625783,
       "rank": 30,
@@ -187,6 +187,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 352213,
+      "num": 352213,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 347898,
+      "num": 347898,
+      "word": "家长以为中考管饭送完孩子去郊游",
+      "onboard_time": 1687618302,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329941,
       "num": 329941,
       "word": "陈思诚透露误杀3和唐探新片进度",
@@ -283,28 +299,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 256742,
-      "num": 256742,
-      "word": "家长以为中考管饭送完孩子去郊游",
-      "onboard_time": 1687618302,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255627,
       "num": 255627,
       "word": "张远录制披荆斩棘的哥哥",
       "onboard_time": 1687618600,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250366,
-      "num": 250366,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 249085,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183480,
+      "num": 183480,
+      "word": "江苏高考687分及以上116人",
+      "onboard_time": 1687643775,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 177840,
       "num": 177840,
       "word": "张杰助阵杨和苏首次演唱会",
@@ -443,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144978,
+      "num": 144978,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1687640832,
+      "rank": 42,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 129847,
       "num": 129847,
       "word": "有演技的流量明星",
@@ -457,14 +473,6 @@
       "onboard_time": 1687614393,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96148,
-      "num": 96148,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1687640832,
-      "rank": 42,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 93687,
@@ -483,20 +491,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88822,
-      "num": 88822,
-      "word": "江苏高考687分及以上116人",
-      "onboard_time": 1687643775,
-      "rank": 17,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 71228,
       "num": 71228,
       "word": "愿高考学子查分时表情都是这样的",
       "onboard_time": 1687627820,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 57077,
+      "num": 57077,
+      "word": "唐尚珺",
+      "onboard_time": 1687644856,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48556,
+      "num": 48556,
+      "word": "雷公儿子靠人脸识别新技术找到",
+      "onboard_time": 1687645456,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 38234,
@@ -507,7 +523,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33856,
+      "raw_hot": 35998,
       "num": 40478,
       "word": "鹿晗演唱会大屏",
       "onboard_time": 1687633874,
@@ -515,7 +531,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 32369,
+      "raw_hot": 33007,
       "num": 40497,
       "word": "银川烧烤店爆炸背后",
       "onboard_time": 1687637712,
@@ -537,14 +553,6 @@
       "onboard_time": 1687632315,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25643,
-      "num": 40451,
-      "word": "唐尚珺",
-      "onboard_time": 1687644856,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8648,
