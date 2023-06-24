@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687613693949,
+  "endTime": 1687616204266,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -225,6 +225,14 @@
       "onboard_time": 1687159370,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3509186,
+      "num": 3509186,
+      "word": "银川31死爆炸事故原因公布",
+      "onboard_time": 1687614577,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3494475,
@@ -731,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2125761,
+      "num": 2125761,
+      "word": "消失的她 绝世大甜剧",
+      "onboard_time": 1687615298,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2105201,
       "num": 2105201,
       "word": "班主任暗示初三学生弃考情况属实",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1687166201,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1704348,
+      "num": 1704348,
+      "word": "关晓彤去了鹿晗的演唱会",
+      "onboard_time": 1687615178,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1694865,
@@ -1443,7 +1467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1411457,
+      "raw_hot": 1416147,
       "num": 1411457,
       "word": "鹿晗演唱会的女安检员",
       "onboard_time": 1687610132,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1687145366,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1367448,
+      "num": 1367448,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1367399,
@@ -2491,14 +2523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 966347,
-      "num": 966347,
-      "word": "圣彼得堡",
-      "onboard_time": 1687612596,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 960919,
       "num": 575633,
       "word": "邓超你到底在哪",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1687361256,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938077,
+      "num": 938077,
+      "word": "白敬亭对长风渡vs卿卿日常的区别",
+      "onboard_time": 1687613855,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 937696,
@@ -3835,6 +3867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 638567,
+      "num": 638567,
+      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+      "onboard_time": 1687609650,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 634631,
       "num": 348844,
       "word": "舍友暗示我别化妆见她朋友",
@@ -4323,6 +4363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555815,
+      "num": 555815,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 555536,
       "num": 555536,
       "word": "鞠婧祎29岁身材管理",
@@ -4523,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527824,
+      "num": 527824,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526418,
       "num": 526418,
       "word": "倪妮被文咏珊撩到脸红",
@@ -4625,6 +4681,14 @@
       "onboard_time": 1687448071,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 516155,
+      "num": 516155,
+      "word": "花花被说没脖子的反应",
+      "onboard_time": 1687611694,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515408,
@@ -4867,14 +4931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 497828,
-      "num": 497828,
-      "word": "朱一龙关姻菩萨",
-      "onboard_time": 1687612355,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 497414,
       "num": 497414,
       "word": "重庆分数线",
@@ -4977,14 +5033,6 @@
       "onboard_time": 1687173938,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487855,
-      "num": 487855,
-      "word": "花花被说没脖子的反应",
-      "onboard_time": 1687611694,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486010,
@@ -5411,6 +5459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 447410,
+      "num": 447410,
+      "word": "华晨宇演唱会帮人找孩子",
+      "onboard_time": 1687614393,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 447228,
       "num": 370739,
       "word": "娜扎回复许凯",
@@ -5593,6 +5649,14 @@
       "onboard_time": 1687423292,
       "rank": 20,
       "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 431896,
+      "num": 431896,
+      "word": "鹿晗14年vs23年",
+      "onboard_time": 1687613616,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 431439,
@@ -5963,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407653,
+      "num": 407653,
+      "word": "梅德韦杰夫回应瓦格纳事件",
+      "onboard_time": 1687614633,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407403,
       "num": 407403,
       "word": "折腰男主人设",
@@ -6009,14 +6081,6 @@
       "onboard_time": 1687160926,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 403429,
-      "num": 403429,
-      "word": "有演技的流量明星",
-      "onboard_time": 1687612715,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 400423,
@@ -6217,6 +6281,14 @@
       "onboard_time": 1687147529,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387581,
+      "num": 387581,
+      "word": "车臣领导人完全支持普京",
+      "onboard_time": 1687600473,
+      "rank": 27,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 387109,
@@ -6993,6 +7065,14 @@
       "onboard_time": 1687566750,
       "rank": 29,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 344477,
+      "num": 344477,
+      "word": "海底星空",
+      "onboard_time": 1687615895,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 344366,
@@ -8323,6 +8403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282638,
+      "num": 282638,
+      "word": "弟弟考673分姐姐哭了一小时",
+      "onboard_time": 1687616195,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 282328,
       "num": 282328,
       "word": "列车关门瞬间男孩跑出车厢",
@@ -9515,6 +9603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246384,
+      "num": 246384,
+      "word": "山东分数线降降降",
+      "onboard_time": 1687614759,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246331,
       "num": 246331,
       "word": "河北高考分数线",
@@ -9593,6 +9689,14 @@
       "onboard_time": 1687361556,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243235,
+      "num": 243235,
+      "word": "草东没有派对",
+      "onboard_time": 1687613795,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 243095,
@@ -11043,6 +11147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205981,
+      "num": 205981,
+      "word": "贺峻霖vs20名猎人",
+      "onboard_time": 1687616195,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205907,
       "num": 205907,
       "word": "一个孕妇的深夜告白",
@@ -11625,6 +11737,14 @@
       "onboard_time": 1687493850,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196171,
+      "num": 204517,
+      "word": "EDGM对战狼队",
+      "onboard_time": 1687614877,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 196134,
@@ -14604,7 +14724,7 @@
     },
     {
       "raw_hot": 58414,
-      "num": 2240244,
+      "num": 2505658,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,

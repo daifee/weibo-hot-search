@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687613693949,
+  "endTime": 1687616204266,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -489,6 +489,14 @@
       "onboard_time": 1687159370,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3509186,
+      "num": 3509186,
+      "word": "银川31死爆炸事故原因公布",
+      "onboard_time": 1687614577,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3503599,
@@ -1939,6 +1947,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 2125761,
+      "num": 2125761,
+      "word": "消失的她 绝世大甜剧",
+      "onboard_time": 1687615298,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2123863,
       "num": 981146,
       "word": "学校正核查学术妲己事件",
@@ -3145,6 +3161,14 @@
       "onboard_time": 1686971487,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1704348,
+      "num": 1704348,
+      "word": "关晓彤去了鹿晗的演唱会",
+      "onboard_time": 1687615178,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1703600,
@@ -4571,6 +4595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1416147,
+      "num": 1411457,
+      "word": "鹿晗演唱会的女安检员",
+      "onboard_time": 1687610132,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1415831,
       "num": 1415831,
       "word": "四级翻译 难",
@@ -4593,14 +4625,6 @@
       "onboard_time": 1686891515,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1411457,
-      "num": 1411457,
-      "word": "鹿晗演唱会的女安检员",
-      "onboard_time": 1687610132,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 1408178,
@@ -4849,6 +4873,14 @@
       "onboard_time": 1686038787,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1367448,
+      "num": 1367448,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1367399,
@@ -8051,14 +8083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 966347,
-      "num": 966347,
-      "word": "圣彼得堡",
-      "onboard_time": 1687612596,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 964320,
       "num": 964320,
       "word": "肖战迪丽热巴赵露思V榜破9",
@@ -8353,6 +8377,14 @@
       "onboard_time": 1687361256,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938077,
+      "num": 938077,
+      "word": "白敬亭对长风渡vs卿卿日常的区别",
+      "onboard_time": 1687613855,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 938004,
@@ -12267,6 +12299,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 638567,
+      "num": 638567,
+      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+      "onboard_time": 1687609650,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 638400,
       "num": 638400,
       "word": "YG艺人目录中没有BIGBANG",
@@ -13707,6 +13747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 555815,
+      "num": 555815,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 555765,
       "num": 555765,
       "word": "摄影师回应街拍国企领导与女子牵手",
@@ -14275,6 +14323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527824,
+      "num": 527824,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527542,
       "num": 364974,
       "word": "千万不要用酒精清洁电脑屏幕",
@@ -14537,6 +14593,14 @@
       "onboard_time": 1687448071,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 516155,
+      "num": 516155,
+      "word": "花花被说没脖子的反应",
+      "onboard_time": 1687611694,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516095,
@@ -15011,14 +15075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 497828,
-      "num": 497828,
-      "word": "朱一龙关姻菩萨",
-      "onboard_time": 1687612355,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 497580,
       "num": 497580,
       "word": "斗罗大陆",
@@ -15337,14 +15393,6 @@
       "onboard_time": 1687173938,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487855,
-      "num": 487855,
-      "word": "花花被说没脖子的反应",
-      "onboard_time": 1687611694,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487724,
@@ -16443,6 +16491,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 447410,
+      "num": 447410,
+      "word": "华晨宇演唱会帮人找孩子",
+      "onboard_time": 1687614393,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 447228,
       "num": 370739,
       "word": "娜扎回复许凯",
@@ -16905,6 +16961,14 @@
       "onboard_time": 1687423292,
       "rank": 20,
       "category": "影视,综艺"
+    },
+    {
+      "raw_hot": 431896,
+      "num": 431896,
+      "word": "鹿晗14年vs23年",
+      "onboard_time": 1687613616,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 431729,
@@ -17851,6 +17915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 407653,
+      "num": 407653,
+      "word": "梅德韦杰夫回应瓦格纳事件",
+      "onboard_time": 1687614633,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407613,
       "num": 274238,
       "word": "不提穷字但一听就很穷的话",
@@ -18065,14 +18137,6 @@
       "onboard_time": 1685948728,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 403429,
-      "num": 403429,
-      "word": "有演技的流量明星",
-      "onboard_time": 1687612715,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 403172,
@@ -18665,6 +18729,14 @@
       "onboard_time": 1686895768,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387581,
+      "num": 387581,
+      "word": "车臣领导人完全支持普京",
+      "onboard_time": 1687600473,
+      "rank": 27,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 387168,
@@ -20921,6 +20993,14 @@
       "onboard_time": 1685601387,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344477,
+      "num": 344477,
+      "word": "海底星空",
+      "onboard_time": 1687615895,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 344433,
@@ -25499,6 +25579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282638,
+      "num": 282638,
+      "word": "弟弟考673分姐姐哭了一小时",
+      "onboard_time": 1687616195,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 282328,
       "num": 282328,
       "word": "列车关门瞬间男孩跑出车厢",
@@ -29763,6 +29851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246384,
+      "num": 246384,
+      "word": "山东分数线降降降",
+      "onboard_time": 1687614759,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246359,
       "num": 246359,
       "word": "致1291万考生",
@@ -30185,6 +30281,14 @@
       "onboard_time": 1686745648,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243235,
+      "num": 243235,
+      "word": "草东没有派对",
+      "onboard_time": 1687613795,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 243226,
@@ -36099,6 +36203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205981,
+      "num": 205981,
+      "word": "贺峻霖vs20名猎人",
+      "onboard_time": 1687616195,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205959,
       "num": 205959,
       "word": "肖战含冰水拍戏",
@@ -38105,6 +38217,14 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196171,
+      "num": 204517,
+      "word": "EDGM对战狼队",
+      "onboard_time": 1687614877,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 196134,
@@ -55732,7 +55852,7 @@
     },
     {
       "raw_hot": 58414,
-      "num": 2240244,
+      "num": 2505658,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,

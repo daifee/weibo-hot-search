@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687613693949,
+  "endTime": 1687616204266,
   "band_list": [
     {
       "raw_hot": 10059576,
@@ -25,6 +25,14 @@
       "onboard_time": 1687586314,
       "rank": 1,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 3509186,
+      "num": 3509186,
+      "word": "银川31死爆炸事故原因公布",
+      "onboard_time": 1687614577,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3331192,
@@ -89,6 +97,14 @@
       "onboard_time": 1687568133,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2125761,
+      "num": 2125761,
+      "word": "消失的她 绝世大甜剧",
+      "onboard_time": 1687615298,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2091006,
@@ -163,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1704348,
+      "num": 1704348,
+      "word": "关晓彤去了鹿晗的演唱会",
+      "onboard_time": 1687615178,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1675964,
       "num": 1675964,
       "word": "炎亚纶前男友A先生再爆料",
@@ -235,7 +259,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1411457,
+      "raw_hot": 1416147,
       "num": 1411457,
       "word": "鹿晗演唱会的女安检员",
       "onboard_time": 1687610132,
@@ -249,6 +273,14 @@
       "onboard_time": 1687599152,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1367448,
+      "num": 1367448,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1323029,
@@ -491,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 966347,
-      "num": 966347,
-      "word": "圣彼得堡",
-      "onboard_time": 1687612596,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 959646,
       "num": 959646,
       "word": "白宫称美方正关注俄国内局势",
@@ -537,6 +561,14 @@
       "onboard_time": 1687576295,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 938077,
+      "num": 938077,
+      "word": "白敬亭对长风渡vs卿卿日常的区别",
+      "onboard_time": 1687613855,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 937696,
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 638567,
+      "num": 638567,
+      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+      "onboard_time": 1687609650,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 629807,
       "num": 629807,
       "word": "女心理师",
@@ -875,6 +915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 555815,
+      "num": 555815,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550644,
       "num": 550644,
       "word": "鹿晗演唱会惊喜嘉宾是邓超",
@@ -907,12 +955,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527824,
+      "num": 527824,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526166,
       "num": 526166,
       "word": "廉价的正义感比冷漠更可怕",
       "onboard_time": 1687575936,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516155,
+      "num": 516155,
+      "word": "花花被说没脖子的反应",
+      "onboard_time": 1687611694,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514449,
@@ -971,14 +1035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 497828,
-      "num": 497828,
-      "word": "朱一龙关姻菩萨",
-      "onboard_time": 1687612355,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 497414,
       "num": 497414,
       "word": "重庆分数线",
@@ -1009,14 +1065,6 @@
       "onboard_time": 1687595316,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 487855,
-      "num": 487855,
-      "word": "花花被说没脖子的反应",
-      "onboard_time": 1687611694,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484755,
@@ -1131,12 +1179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447410,
+      "num": 447410,
+      "word": "华晨宇演唱会帮人找孩子",
+      "onboard_time": 1687614393,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 434420,
       "num": 434420,
       "word": "张栋梁抵达长沙",
       "onboard_time": 1687602814,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 431896,
+      "num": 431896,
+      "word": "鹿晗14年vs23年",
+      "onboard_time": 1687613616,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 431259,
@@ -1267,12 +1331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403429,
-      "num": 403429,
-      "word": "有演技的流量明星",
-      "onboard_time": 1687612715,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 407653,
+      "num": 407653,
+      "word": "梅德韦杰夫回应瓦格纳事件",
+      "onboard_time": 1687614633,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395548,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1687608093,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387581,
+      "num": 387581,
+      "word": "车臣领导人完全支持普京",
+      "onboard_time": 1687600473,
+      "rank": 27,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 386376,
@@ -1505,6 +1577,14 @@
       "onboard_time": 1687566750,
       "rank": 29,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 344477,
+      "num": 344477,
+      "word": "海底星空",
+      "onboard_time": 1687615895,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 338115,
@@ -1843,6 +1923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282638,
+      "num": 282638,
+      "word": "弟弟考673分姐姐哭了一小时",
+      "onboard_time": 1687616195,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278601,
       "num": 278601,
       "word": "看看舞台",
@@ -1987,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246384,
+      "num": 246384,
+      "word": "山东分数线降降降",
+      "onboard_time": 1687614759,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246331,
       "num": 246331,
       "word": "河北高考分数线",
@@ -2001,6 +2097,14 @@
       "onboard_time": 1687598913,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243235,
+      "num": 243235,
+      "word": "草东没有派对",
+      "onboard_time": 1687613795,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 242439,
@@ -2203,12 +2307,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 205981,
+      "num": 205981,
+      "word": "贺峻霖vs20名猎人",
+      "onboard_time": 1687616195,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199436,
       "num": 214045,
       "word": "雾山五行2定档",
       "onboard_time": 1687582534,
       "rank": 48,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 196171,
+      "num": 204517,
+      "word": "EDGM对战狼队",
+      "onboard_time": 1687614877,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 181012,
@@ -2396,7 +2516,7 @@
     },
     {
       "raw_hot": 58414,
-      "num": 2240244,
+      "num": 2505658,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,
