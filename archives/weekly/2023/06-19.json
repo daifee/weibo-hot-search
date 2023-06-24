@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687634102098,
+  "endTime": 1687635223950,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -15291,6 +15291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33856,
+      "num": 33856,
+      "word": "鹿晗演唱会大屏",
+      "onboard_time": 1687633874,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 33821,
       "num": 47757,
       "word": "银川多家餐饮店使用液化气罐",
@@ -15345,6 +15353,14 @@
       "onboard_time": 1687424433,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26189,
+      "num": 31773,
+      "word": "健将plus",
+      "onboard_time": 1687632315,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 25594,
