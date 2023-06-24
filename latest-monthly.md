@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 11:00:31
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 11:10:39
 </p>
 </blockquote>
 <p>
@@ -675,6 +675,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF%23" target="weibo">
+赵丽颖 戴比尔斯（热度：2767447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940%23" target="weibo">
 阿根廷2比0（热度：2749756）
 </a>
@@ -1043,12 +1049,6 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23" target="weibo">
 黄渤回应贫困女孩争议（热度：2393927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF%23" target="weibo">
-赵丽颖 戴比尔斯（热度：2392249）
 </a>
 </li>
 
@@ -3897,6 +3897,12 @@ Jennie去爬山了（热度：1318773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23" target="weibo">
+孙千评论赵丽颖说你跑我追（热度：1288395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%91%E4%BA%86%E7%B2%89%E4%B8%9D%E4%BF%AE%E7%9A%84%E5%9B%BE%23" target="weibo">
 白敬亭发了粉丝修的图（热度：1285323）
 </a>
@@ -3917,12 +3923,6 @@ Jennie去爬山了（热度：1318773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23shanji%23" target="weibo">
 shanji（热度：1277714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23" target="weibo">
-孙千评论赵丽颖说你跑我追（热度：1277645）
 </a>
 </li>
 
@@ -4161,6 +4161,12 @@ Angelababy回归 跑男收视率（热度：1255756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23" target="weibo">
+外媒称瓦格纳部队正进入俄南部（热度：1243560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD%23" target="weibo">
 种地吧直播（热度：1243458）
 </a>
@@ -4295,12 +4301,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23" target="weibo">
 老人突发脑梗发现医生隐瞒未植入支架（热度：1211115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23" target="weibo">
-外媒称瓦格纳部队正进入俄南部（热度：1209252）
 </a>
 </li>
 
@@ -5577,6 +5577,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
+四川高考状元（热度：1010398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%B2%B3%E4%B8%9C%E5%8C%BA%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
 天津河东区一小区发生爆炸（热度：1009956）
 </a>
@@ -5753,12 +5759,6 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%9C%89%E7%82%B9%E4%BA%BA%E8%84%89%23" target="weibo">
 苏醒有点人脉（热度：981577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
-四川高考状元（热度：980757）
 </a>
 </li>
 
