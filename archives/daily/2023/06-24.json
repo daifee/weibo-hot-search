@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687602008531,
+  "endTime": 1687603029782,
   "band_list": [
     {
       "raw_hot": 10059576,
@@ -75,20 +75,20 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 2328570,
+      "num": 2328570,
+      "word": "复读女生涨61分坐地嚎啕大哭",
+      "onboard_time": 1687599392,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2237287,
       "num": 1852887,
       "word": "炎亚纶 还好没有我的脸",
       "onboard_time": 1687568133,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2100292,
-      "num": 2100292,
-      "word": "复读女生涨61分坐地嚎啕大哭",
-      "onboard_time": 1687599392,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2052308,
@@ -121,6 +121,14 @@
       "onboard_time": 1687568672,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1862181,
+      "num": 1862181,
+      "word": "车臣",
+      "onboard_time": 1687600473,
+      "rank": 5,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1844893,
@@ -185,14 +193,6 @@
       "onboard_time": 1687533039,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1448320,
-      "num": 1448320,
-      "word": "车臣",
-      "onboard_time": 1687600473,
-      "rank": 5,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1447021,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1098638,
+      "num": 1098638,
+      "word": "看消失的她 恋爱脑治好了",
+      "onboard_time": 1687601133,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1092727,
       "num": 999021,
       "word": "基辅称击落了超20枚俄军导弹",
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937101,
+      "num": 937101,
+      "word": "我离职5年的公司打电话让我去领钱",
+      "onboard_time": 1687598913,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 924484,
       "num": 924484,
       "word": "宁静说赵丽颖也是从横店街上出来的",
@@ -491,14 +507,6 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 872626,
-      "num": 872626,
-      "word": "我离职5年的公司打电话让我去领钱",
-      "onboard_time": 1687598913,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 858483,
       "num": 858483,
       "word": "辽宁高考分数线砍一刀",
@@ -513,6 +521,14 @@
       "onboard_time": 1687595673,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 814743,
+      "num": 814743,
+      "word": "字节跳动在贷余额已达千亿",
+      "onboard_time": 1687601133,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 802093,
@@ -576,14 +592,6 @@
       "word": "雷佳音 白玉兰视帝",
       "onboard_time": 1687527946,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 765547,
-      "num": 765547,
-      "word": "看消失的她 恋爱脑治好了",
-      "onboard_time": 1687601133,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -1019,6 +1027,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 415179,
+      "num": 415179,
+      "word": "陈飞宇车银优同框",
+      "onboard_time": 1687599872,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414421,
       "num": 414421,
       "word": "敬礼娃娃郎铮高考文科637分",
@@ -1067,6 +1083,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 385526,
+      "num": 385526,
+      "word": "华晨宇夺命提词器",
+      "onboard_time": 1687601494,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 382371,
+      "num": 382371,
+      "word": "卡德罗夫",
+      "onboard_time": 1687602031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380836,
       "num": 380836,
       "word": "涂山苏苏说红红不会后悔",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1687582297,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 379871,
-      "num": 379871,
-      "word": "陈飞宇车银优同框",
-      "onboard_time": 1687599872,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 379504,
@@ -1147,14 +1171,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 362838,
-      "num": 362838,
-      "word": "华晨宇夺命提词器",
-      "onboard_time": 1687601494,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 362257,
       "num": 378347,
       "word": "男孩高考705分跳起尖叫拥抱父母",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1687528786,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348794,
-      "num": 348794,
-      "word": "字节跳动在贷余额已达千亿",
-      "onboard_time": 1687601133,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 346705,
@@ -1491,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286280,
+      "num": 286280,
+      "word": "BLACKPINK将出席海德公园音乐节",
+      "onboard_time": 1687602694,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285998,
       "num": 285998,
       "word": "男生高考查分601激动满屋蹦跳",
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277578,
+      "num": 277578,
+      "word": "新疆分数线",
+      "onboard_time": 1687602814,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 273312,
       "num": 273312,
       "word": "福建高考查分",
@@ -1536,6 +1560,14 @@
       "word": "全员加速中",
       "onboard_time": 1687581275,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272162,
+      "num": 272162,
+      "word": "王俊凯说还是小凯",
+      "onboard_time": 1687602515,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1619,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249857,
+      "num": 249857,
+      "word": "张栋梁抵达长沙",
+      "onboard_time": 1687602814,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248649,
       "num": 248649,
       "word": "海獭的腋下藏着小口袋",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1687584698,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 241602,
+      "num": 241602,
+      "word": "长风渡看得我恋爱脑又犯了",
+      "onboard_time": 1687602694,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 239674,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1687569695,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 220560,
+      "num": 220560,
+      "word": "令人心酸的短信",
+      "onboard_time": 1687602994,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 219360,
@@ -1931,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101910,
+      "num": 218865,
+      "word": "无畏",
+      "onboard_time": 1687602933,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91093,
       "num": 92585,
       "word": "绵阳地震敬礼娃娃高考分数637分",
@@ -1980,7 +2044,7 @@
     },
     {
       "raw_hot": 58414,
-      "num": 1777434,
+      "num": 1873872,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,
