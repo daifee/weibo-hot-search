@@ -1,14 +1,22 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687591040569,
+  "endTime": 1687592036894,
   "band_list": [
     {
-      "raw_hot": 3612090,
-      "num": 3612090,
+      "raw_hot": 3870929,
+      "num": 3870929,
       "word": "瓦格纳称已控制罗斯托夫地区军用设施",
       "onboard_time": 1687583856,
       "rank": 30,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 3756120,
+      "num": 3756120,
+      "word": "普京发表讲话",
+      "onboard_time": 1687586314,
+      "rank": 1,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 3331192,
@@ -17,14 +25,6 @@
       "onboard_time": 1687568073,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 3215978,
-      "num": 3215978,
-      "word": "普京发表讲话",
-      "onboard_time": 1687586314,
-      "rank": 1,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 3188866,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1420682,
+      "num": 1420682,
+      "word": "县委大院被恶意评分",
+      "onboard_time": 1687588952,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1323029,
       "num": 1323029,
       "word": "暴雪禁止中国大陆玩家参与暗黑4活动",
@@ -217,14 +225,6 @@
       "onboard_time": 1687570296,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1262722,
-      "num": 1262722,
-      "word": "县委大院被恶意评分",
-      "onboard_time": 1687588952,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1252797,
@@ -323,6 +323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 976235,
+      "num": 976235,
+      "word": "王俊凯易烊千玺G社生图",
+      "onboard_time": 1687590391,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 974716,
       "num": 974716,
       "word": "狂飙没拿奖",
@@ -379,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 874489,
-      "num": 843068,
+      "raw_hot": 882806,
+      "num": 882806,
       "word": "胡锡进 瓦格纳集团究竟在发生什么",
       "onboard_time": 1687586735,
       "rank": 30,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 806469,
+      "num": 806469,
+      "word": "普京称所有对抗军队的人都是叛徒",
+      "onboard_time": 1687591593,
+      "rank": 12,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 802093,
@@ -515,20 +531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630878,
+      "num": 416114,
+      "word": "给凸嘴女孩改妆",
+      "onboard_time": 1687588952,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 620692,
       "num": 620692,
       "word": "她她她 好听的一阵一阵的",
       "onboard_time": 1687588413,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 614753,
-      "num": 416114,
-      "word": "给凸嘴女孩改妆",
-      "onboard_time": 1687588952,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 611330,
@@ -577,14 +593,6 @@
       "onboard_time": 1687575936,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 519324,
-      "num": 519324,
-      "word": "王俊凯易烊千玺G社生图",
-      "onboard_time": 1687590391,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 514449,
@@ -699,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428448,
+      "num": 428448,
+      "word": "不就是等于0.4吗",
+      "onboard_time": 1687590212,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 427338,
       "num": 246892,
       "word": "白玉兰",
@@ -777,14 +793,6 @@
       "onboard_time": 1687537592,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409530,
-      "num": 409530,
-      "word": "不就是等于0.4吗",
-      "onboard_time": 1687590212,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 393537,
@@ -883,6 +891,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 358986,
+      "num": 358986,
+      "word": "赵丽颖蔡徐坤同款项链",
+      "onboard_time": 1687590871,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 353267,
+      "num": 353267,
+      "word": "黄子韬说做组合懂的人都懂",
+      "onboard_time": 1687590871,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 351114,
+      "num": 351114,
+      "word": "张雨绮高伟光新剧床戏",
+      "onboard_time": 1687590630,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350623,
       "num": 2592893,
       "word": "全国各地高考分数线汇总",
@@ -947,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326049,
+      "num": 326049,
+      "word": "19岁少年为救陌生姐姐放弃考试",
+      "onboard_time": 1687590152,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 324000,
       "num": 324000,
       "word": "金靖演唱会想看五月天结果是伍佰",
@@ -969,6 +1009,14 @@
       "onboard_time": 1687568133,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 321124,
+      "num": 321124,
+      "word": "还得是二代团",
+      "onboard_time": 1687590513,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 314060,
@@ -1009,14 +1057,6 @@
       "onboard_time": 1687587513,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 305111,
-      "num": 290809,
-      "word": "还得是二代团",
-      "onboard_time": 1687590513,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 302661,
@@ -1131,28 +1171,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 285859,
-      "num": 285859,
-      "word": "张雨绮高伟光新剧床戏",
-      "onboard_time": 1687590630,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282678,
       "num": 282678,
       "word": "查理苏电话",
       "onboard_time": 1687577254,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278762,
-      "num": 278762,
-      "word": "19岁少年为救陌生姐姐放弃考试",
-      "onboard_time": 1687590152,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 278601,
@@ -1177,14 +1201,6 @@
       "onboard_time": 1687566509,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264919,
-      "num": 264919,
-      "word": "赵丽颖蔡徐坤同款项链",
-      "onboard_time": 1687590871,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264436,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1687538188,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253511,
-      "num": 253511,
-      "word": "黄子韬说做组合懂的人都懂",
-      "onboard_time": 1687590871,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 253273,
@@ -1531,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70440,
+      "num": 747752,
+      "word": "高速送婴儿就医的山东大哥找到了",
+      "onboard_time": 1687590571,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49953,
       "num": 63615,
       "word": "丽水龙舟拔河上演速度与激情",
@@ -1560,14 +1576,6 @@
       "word": "遇到燃气泄漏应该如何处理",
       "onboard_time": 1687508671,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20126,
-      "num": 728506,
-      "word": "高速送婴儿就医的山东大哥找到了",
-      "onboard_time": 1687590571,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
