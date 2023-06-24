@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687578119555,
+  "endTime": 1687580606013,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1891190,
+      "num": 1891190,
+      "word": "女生查分666全家齐喊666",
+      "onboard_time": 1687574254,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1862195,
       "num": 1862195,
       "word": "吴越 是不是大女主都没关系",
@@ -81,14 +89,6 @@
       "onboard_time": 1687533642,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1685935,
-      "num": 1685935,
-      "word": "女生查分666全家齐喊666",
-      "onboard_time": 1687574254,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1473579,
@@ -120,6 +120,14 @@
       "word": "俄总检察长已向普京汇报情况",
       "onboard_time": 1687572935,
       "rank": 7,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1308802,
+      "num": 1308802,
+      "word": "瓦格纳创始人否认试图发动武装叛乱",
+      "onboard_time": 1687578455,
+      "rank": 6,
       "category": "国外要闻"
     },
     {
@@ -187,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1129924,
+      "num": 1025996,
+      "word": "炎亚纶前男友A先生再爆料",
+      "onboard_time": 1687577795,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1065632,
       "num": 563673,
       "word": "开端",
       "onboard_time": 1687534598,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1050293,
+      "num": 1050293,
+      "word": "莫斯科正在进行反恐行动",
+      "onboard_time": 1687577853,
+      "rank": 17,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1044749,
@@ -209,6 +233,14 @@
       "onboard_time": 1687573535,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1013017,
+      "num": 1013017,
+      "word": "白敬亭第一次不爱鞋",
+      "onboard_time": 1687578874,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 974716,
@@ -251,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913651,
+      "num": 748760,
+      "word": "在一起五年分手了是什么体验",
+      "onboard_time": 1687576295,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 802093,
       "num": 697587,
       "word": "戒糖一年的变化",
@@ -283,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 776881,
+      "num": 776881,
+      "word": "女儿587分爸爸大喊祖坟冒烟了",
+      "onboard_time": 1687577015,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769274,
       "num": 769274,
       "word": "瓦格纳",
@@ -307,11 +355,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 716351,
-      "num": 716351,
-      "word": "莫斯科正在进行反恐行动",
-      "onboard_time": 1687577853,
-      "rank": 17,
+      "raw_hot": 751293,
+      "num": 751293,
+      "word": "基辅称击落了超20枚俄军导弹",
+      "onboard_time": 1687579774,
+      "rank": 19,
       "category": "军事,国外要闻"
     },
     {
@@ -331,6 +379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 701678,
+      "num": 701678,
+      "word": "高考状元",
+      "onboard_time": 1687579232,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 675279,
       "num": 314830,
       "word": "白敬亭宋轶耳朵都红了",
@@ -345,14 +401,6 @@
       "onboard_time": 1687561999,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 656955,
-      "num": 610599,
-      "word": "在一起五年分手了是什么体验",
-      "onboard_time": 1687576295,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 641713,
@@ -403,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 526166,
+      "num": 526166,
+      "word": "廉价的正义感比冷漠更可怕",
+      "onboard_time": 1687575936,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 506346,
       "num": 506346,
       "word": "钻石价格大跌",
@@ -419,12 +475,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 495193,
-      "num": 495193,
-      "word": "廉价的正义感比冷漠更可怕",
-      "onboard_time": 1687575936,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 501306,
+      "num": 501306,
+      "word": "陕西高考分数线",
+      "onboard_time": 1687579833,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 484755,
@@ -435,20 +491,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 481343,
+      "num": 481343,
+      "word": "鹿晗 年轻人真好",
+      "onboard_time": 1687577192,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 478094,
       "num": 250096,
       "word": "韩剧恶鬼",
       "onboard_time": 1687531665,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 474101,
-      "num": 474101,
-      "word": "女儿587分爸爸大喊祖坟冒烟了",
-      "onboard_time": 1687577015,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472175,
@@ -515,11 +571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408087,
-      "num": 380504,
-      "word": "鹿晗 年轻人真好",
-      "onboard_time": 1687577192,
-      "rank": 38,
+      "raw_hot": 393537,
+      "num": 393537,
+      "word": "BKPP",
+      "onboard_time": 1687578274,
+      "rank": 31,
       "category": "音乐"
     },
     {
@@ -544,6 +600,30 @@
       "word": "张译 张颂文",
       "onboard_time": 1687521514,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 378428,
+      "num": 378428,
+      "word": "涂山苏苏说红红不会后悔",
+      "onboard_time": 1687577736,
+      "rank": 49,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 374281,
+      "num": 374281,
+      "word": "入职半个月被领导带头孤立了",
+      "onboard_time": 1687577558,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 372526,
+      "num": 372526,
+      "word": "雷佳音你要不要回头看看赵丽颖",
+      "onboard_time": 1687580014,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -643,20 +723,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 322122,
-      "num": 322122,
-      "word": "炎亚纶前男友A先生再爆料",
-      "onboard_time": 1687577795,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313164,
       "num": 244111,
       "word": "银川烧烤店爆炸事故预估保险赔付超1400万",
       "onboard_time": 1687531123,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310552,
+      "num": 310552,
+      "word": "莫斯科街头出现大批军车",
+      "onboard_time": 1687579894,
+      "rank": 38,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 309555,
@@ -739,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289638,
+      "num": 289638,
+      "word": "大熊猫七仔800个心思799个写在脸上",
+      "onboard_time": 1687579594,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288453,
       "num": 288453,
       "word": "弱智吧上半年年度精选",
@@ -753,14 +841,6 @@
       "onboard_time": 1687517492,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 285007,
-      "num": 285007,
-      "word": "入职半个月被领导带头孤立了",
-      "onboard_time": 1687577558,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 282678,
@@ -819,12 +899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249782,
-      "num": 249782,
-      "word": "涂山苏苏说红红不会后悔",
-      "onboard_time": 1687577736,
-      "rank": 49,
-      "category": "动漫,影视"
+      "raw_hot": 248649,
+      "num": 248649,
+      "word": "海獭的腋下藏着小口袋",
+      "onboard_time": 1687580194,
+      "rank": 46,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 248250,
@@ -857,6 +937,14 @@
       "onboard_time": 1687568431,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 233761,
+      "num": 233761,
+      "word": "摄影师害怕极了",
+      "onboard_time": 1687579473,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 228782,
@@ -897,6 +985,14 @@
       "onboard_time": 1687532741,
       "rank": 43,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 214090,
+      "num": 214090,
+      "word": "谁是你印象最深刻的奥运会吉祥物",
+      "onboard_time": 1687580557,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 210909,
@@ -985,6 +1081,14 @@
       "onboard_time": 1687543638,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128847,
+      "num": 1899789,
+      "word": "31省份报志愿时间全汇总",
+      "onboard_time": 1687578335,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107577,
@@ -1076,6 +1180,9 @@
     },
     {
       "word": "#青藏铁路将迈入动车时代#"
+    },
+    {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
     }
   ]
 }
