@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687587868077,
+  "endTime": 1687588711369,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1722976,
+      "num": 1722976,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1675964,
       "num": 1675964,
       "word": "炎亚纶前男友A先生再爆料",
@@ -145,14 +153,6 @@
       "onboard_time": 1687533039,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1449311,
-      "num": 1449311,
-      "word": "高考理科623分决心复读了",
-      "onboard_time": 1687581158,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 1447021,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 874489,
+      "num": 336555,
+      "word": "胡锡进 瓦格纳集团究竟在发生什么",
+      "onboard_time": 1687586735,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 802093,
       "num": 697587,
       "word": "戒糖一年的变化",
@@ -451,20 +459,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 671232,
-      "num": 326864,
-      "word": "胡锡进 瓦格纳集团究竟在发生什么",
-      "onboard_time": 1687586735,
-      "rank": 30,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 662054,
       "num": 662054,
       "word": "北部湾发生5级地震",
       "onboard_time": 1687561999,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661538,
+      "num": 661538,
+      "word": "俄执法人员进驻瓦格纳集团总部大楼",
+      "onboard_time": 1687587095,
+      "rank": 19,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 651180,
+      "num": 651180,
+      "word": "直井怜我的英雄学院",
+      "onboard_time": 1687586555,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 641713,
@@ -513,14 +529,6 @@
       "onboard_time": 1687536097,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 581345,
-      "num": 581345,
-      "word": "俄执法人员进驻瓦格纳集团总部大楼",
-      "onboard_time": 1687587095,
-      "rank": 19,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 537880,
@@ -627,14 +635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 459571,
-      "num": 459571,
-      "word": "直井怜我的英雄学院",
-      "onboard_time": 1687586555,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430737,
       "num": 412447,
       "word": "莫斯科街头出现大批军车",
@@ -681,6 +681,14 @@
       "onboard_time": 1687563144,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 415619,
+      "num": 415619,
+      "word": "Angelababy说自己不适合当歌手",
+      "onboard_time": 1687587813,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 415587,
@@ -915,6 +923,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 307002,
+      "num": 307002,
+      "word": "胆子越大 offer越好",
+      "onboard_time": 1687587513,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 302661,
       "num": 302661,
       "word": "王俊凯说自己很少上综艺",
@@ -1011,12 +1027,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 284704,
+      "num": 284704,
+      "word": "她她她 好听的一阵一阵的",
+      "onboard_time": 1687588413,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282678,
       "num": 282678,
       "word": "查理苏电话",
       "onboard_time": 1687577254,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278601,
+      "num": 278601,
+      "word": "看看舞台",
+      "onboard_time": 1687587693,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 272242,
@@ -1187,6 +1219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 222575,
+      "num": 222575,
+      "word": "蒲熠星全员加速中",
+      "onboard_time": 1687588649,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219360,
       "num": 219360,
       "word": "被林丹邀请打球女孩高考理科689分",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1687532741,
       "rank": 43,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 217928,
-      "num": 217928,
-      "word": "Angelababy说自己不适合当歌手",
-      "onboard_time": 1687587813,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 214090,
@@ -1259,20 +1291,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 171991,
+      "num": 213578,
+      "word": "四川居然有一片蓝色海洋",
+      "onboard_time": 1687584934,
+      "rank": 49,
+      "category": "旅游,自然"
+    },
+    {
       "raw_hot": 171248,
       "num": 218161,
       "word": "AI绘画给人类带来的变化",
       "onboard_time": 1687535258,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 152640,
-      "num": 213578,
-      "word": "四川居然有一片蓝色海洋",
-      "onboard_time": 1687584934,
-      "rank": 49,
-      "category": "旅游,自然"
     },
     {
       "raw_hot": 150742,

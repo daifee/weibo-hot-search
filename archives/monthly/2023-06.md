@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 14:24:28
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 14:38:31
 </p>
 </blockquote>
 <p>
@@ -2307,6 +2307,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23" target="weibo">
+高考理科623分决心复读了（热度：1722976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E6%AF%92%E5%89%8D%E5%90%8E%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 吸毒前后真实的变化（热度：1722551）
 </a>
@@ -3233,12 +3239,6 @@ Uzi（热度：1450673）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E5%85%AD%E6%96%A4%23" target="weibo">
 马嘉祺 六斤（热度：1449370）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23" target="weibo">
-高考理科623分决心复读了（热度：1449311）
 </a>
 </li>
 
