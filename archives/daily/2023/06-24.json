@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687576239721,
+  "endTime": 1687577559475,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -49,6 +49,14 @@
       "onboard_time": 1687568133,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2052308,
+      "num": 2052308,
+      "word": "外媒称瓦格纳部队正进入俄南部",
+      "onboard_time": 1687575452,
+      "rank": 30,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1972413,
@@ -139,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1243560,
-      "num": 1159869,
-      "word": "外媒称瓦格纳部队正进入俄南部",
-      "onboard_time": 1687575452,
-      "rank": 30,
-      "category": "国外要闻,军事"
+      "raw_hot": 1240499,
+      "num": 1240499,
+      "word": "女生查分666全家齐喊666",
+      "onboard_time": 1687574254,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1181622,
@@ -195,7 +203,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1010398,
+      "raw_hot": 1027350,
       "num": 1010398,
       "word": "四川高考状元",
       "onboard_time": 1687573535,
@@ -235,12 +243,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 933677,
-      "num": 933677,
-      "word": "女生查分666全家齐喊666",
-      "onboard_time": 1687574254,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 924484,
+      "num": 924484,
+      "word": "宁静说赵丽颖也是从横店街上出来的",
+      "onboard_time": 1687575396,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 802093,
@@ -297,14 +305,6 @@
       "onboard_time": 1687530588,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 740452,
-      "num": 740452,
-      "word": "宁静说赵丽颖也是从横店街上出来的",
-      "onboard_time": 1687575396,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 708040,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509305,
+      "num": 509305,
+      "word": "在一起五年分手了是什么体验",
+      "onboard_time": 1687576295,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 506346,
       "num": 506346,
       "word": "钻石价格大跌",
@@ -417,6 +425,14 @@
       "onboard_time": 1687531665,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473541,
+      "num": 473541,
+      "word": "廉价的正义感比冷漠更可怕",
+      "onboard_time": 1687575936,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 472175,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 350623,
-      "num": 2589608,
+      "num": 2592893,
       "word": "全国各地高考分数线汇总",
       "onboard_time": 1687528786,
       "rank": 2,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302552,
+      "num": 302552,
+      "word": "鹿晗 年轻人真好",
+      "onboard_time": 1687577192,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301780,
       "num": 293054,
       "word": "跟好朋友不再联系的原因",
@@ -649,6 +673,14 @@
       "onboard_time": 1687575215,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 300895,
+      "num": 300895,
+      "word": "女儿587分爸爸大喊祖坟冒烟了",
+      "onboard_time": 1687577015,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297923,
@@ -691,6 +723,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 281859,
+      "num": 281859,
+      "word": "主办方回应五月天演唱会黄牛强行闯卡",
+      "onboard_time": 1687575334,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271600,
       "num": 271600,
       "word": "宁静你骂人可真高级",
@@ -699,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267602,
-      "num": 267602,
-      "word": "主办方回应五月天演唱会黄牛强行闯卡",
-      "onboard_time": 1687575334,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 270158,
+      "num": 973103,
+      "word": "光与夜之恋",
+      "onboard_time": 1687571135,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 264436,
@@ -715,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263767,
+      "num": 263767,
+      "word": "陈萱萱新婚不如丧偶",
+      "onboard_time": 1687576654,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255270,
       "num": 255270,
       "word": "男生单曲循环好运来查出593分大哭",
       "onboard_time": 1687570896,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254397,
+      "num": 254397,
+      "word": "查理苏电话",
+      "onboard_time": 1687577254,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 253702,
@@ -745,22 +801,6 @@
       "onboard_time": 1687539625,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247771,
-      "num": 247771,
-      "word": "廉价的正义感比冷漠更可怕",
-      "onboard_time": 1687575936,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 241831,
-      "num": 973103,
-      "word": "光与夜之恋",
-      "onboard_time": 1687571135,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 239674,
