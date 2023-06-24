@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687623859164,
+  "endTime": 1687624873282,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -25,6 +25,14 @@
       "onboard_time": 1687615298,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1281917,
+      "num": 529855,
+      "word": "白俄罗斯",
+      "onboard_time": 1687623447,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1020730,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 686578,
-      "num": 548802,
+      "num": 631263,
       "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
       "onboard_time": 1687619558,
       "rank": 10,
@@ -115,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 487749,
-      "num": 487749,
-      "word": "白俄罗斯",
-      "onboard_time": 1687623447,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 478522,
       "num": 478522,
       "word": "看消失的她 恋爱脑治好了",
@@ -171,12 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352322,
-      "num": 352322,
+      "raw_hot": 356636,
+      "num": 356636,
       "word": "车臣军队已出发平叛",
       "onboard_time": 1687608030,
       "rank": 22,
       "category": "军事"
+    },
+    {
+      "raw_hot": 322673,
+      "num": 322673,
+      "word": "车臣领导人完全支持普京",
+      "onboard_time": 1687600473,
+      "rank": 24,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 317449,
@@ -187,14 +195,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 316345,
-      "num": 316345,
-      "word": "车臣领导人完全支持普京",
-      "onboard_time": 1687600473,
-      "rank": 24,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 303561,
       "num": 303561,
       "word": "因脑溢血开颅3次的少年高考445分",
@@ -203,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294928,
-      "num": 294928,
+      "raw_hot": 300895,
+      "num": 300895,
       "word": "演唱会大屏上的aespa",
       "onboard_time": 1687621473,
       "rank": 26,
@@ -235,8 +235,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 272818,
-      "num": 272818,
+      "raw_hot": 275863,
+      "num": 275863,
       "word": "大学四年买了100斤的衣服",
       "onboard_time": 1687607492,
       "rank": 30,
@@ -331,8 +331,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186386,
-      "num": 186386,
+      "raw_hot": 187713,
+      "num": 187713,
       "word": "普京发表讲话",
       "onboard_time": 1687586314,
       "rank": 42,
@@ -393,6 +393,22 @@
       "onboard_time": 1687617937,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129847,
+      "num": 129847,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95051,
+      "num": 127472,
+      "word": "莫斯科公共建筑进行人员疏散",
+      "onboard_time": 1687624824,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8648,

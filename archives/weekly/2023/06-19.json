@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687623859164,
+  "endTime": 1687624873282,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1687266571,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1281917,
+      "num": 529855,
+      "word": "白俄罗斯",
+      "onboard_time": 1687623447,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1281297,
@@ -3708,7 +3716,7 @@
     },
     {
       "raw_hot": 686578,
-      "num": 548802,
+      "num": 631263,
       "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
       "onboard_time": 1687619558,
       "rank": 22,
@@ -5129,14 +5137,6 @@
       "onboard_time": 1687173938,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487749,
-      "num": 487749,
-      "word": "白俄罗斯",
-      "onboard_time": 1687623447,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 486010,
@@ -8099,6 +8099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300895,
+      "num": 300895,
+      "word": "演唱会大屏上的aespa",
+      "onboard_time": 1687621473,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300596,
       "num": 300596,
       "word": "张萌曾叫秦岚去浪姐",
@@ -8225,14 +8233,6 @@
       "onboard_time": 1687337197,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294928,
-      "num": 294928,
-      "word": "演唱会大屏上的aespa",
-      "onboard_time": 1687621473,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 294778,
@@ -14457,6 +14457,14 @@
       "onboard_time": 1687213936,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95051,
+      "num": 127472,
+      "word": "莫斯科公共建筑进行人员疏散",
+      "onboard_time": 1687624824,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94135,
