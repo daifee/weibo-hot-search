@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687635223950,
+  "endTime": 1687637977217,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -15408,6 +15408,14 @@
       "word": "人工智能向尼走来",
       "onboard_time": 1687595494,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20124,
+      "num": 23651,
+      "word": "银川烧烤店爆炸背后",
+      "onboard_time": 1687637712,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

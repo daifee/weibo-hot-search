@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687635223950,
+  "endTime": 1687637977217,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -513,6 +513,14 @@
       "onboard_time": 1687632315,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20124,
+      "num": 23651,
+      "word": "银川烧烤店爆炸背后",
+      "onboard_time": 1687637712,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8648,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/25 03:33:43
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/25 04:19:37
 </p>
 </blockquote>
 <p>
@@ -11567,6 +11567,12 @@ NCTDREAM新歌空降（热度：37491）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%91%E5%B0%BC%E8%B5%B0%E6%9D%A5%23" target="weibo">
 人工智能向尼走来（热度：20913）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%83%8C%E5%90%8E%23" target="weibo">
+银川烧烤店爆炸背后（热度：20124）
 </a>
 </li>
 

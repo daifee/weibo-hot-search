@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687635223950,
+  "endTime": 1687637977217,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -57840,6 +57840,14 @@
       "word": "拍拍乐请网友看亚运比赛",
       "onboard_time": 1686826827,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20124,
+      "num": 23651,
+      "word": "银川烧烤店爆炸背后",
+      "onboard_time": 1687637712,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
