@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687572696284,
+  "endTime": 1687575631499,
   "band_list": [
     {
       "raw_hot": 3331192,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2781832,
-      "num": 2781832,
+      "raw_hot": 2880736,
+      "num": 2880736,
       "word": "俄罗斯",
       "onboard_time": 1687562662,
       "rank": 21,
@@ -33,6 +33,14 @@
       "onboard_time": 1687566691,
       "rank": 3,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 2392249,
+      "num": 2392249,
+      "word": "赵丽颖 戴比尔斯",
+      "onboard_time": 1687574015,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2237287,
@@ -91,6 +99,38 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1312936,
+      "num": 1312936,
+      "word": "俄总检察长已向普京汇报情况",
+      "onboard_time": 1687572935,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1293837,
+      "num": 1293837,
+      "word": "安徽高考分数线",
+      "onboard_time": 1687571733,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1292294,
+      "num": 1292294,
+      "word": "猴痘",
+      "onboard_time": 1687570594,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1277645,
+      "num": 1277645,
+      "word": "孙千评论赵丽颖说你跑我追",
+      "onboard_time": 1687570296,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1252797,
       "num": 1142317,
       "word": "炎亚纶",
@@ -99,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1243245,
-      "num": 1243245,
-      "word": "安徽高考分数线",
-      "onboard_time": 1687571733,
-      "rank": 6,
-      "category": "教育,社会新闻"
+      "raw_hot": 1209252,
+      "num": 378249,
+      "word": "外媒称瓦格纳部队正进入俄南部",
+      "onboard_time": 1687575452,
+      "rank": 30,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1181622,
@@ -115,12 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1154885,
-      "num": 1154885,
-      "word": "孙千评论赵丽颖说你跑我追",
-      "onboard_time": 1687570296,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 1163771,
+      "num": 1163771,
+      "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
+      "onboard_time": 1687571975,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1144304,
@@ -155,12 +195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1015964,
-      "num": 1015964,
-      "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
-      "onboard_time": 1687571975,
-      "rank": 10,
-      "category": "国外要闻"
+      "raw_hot": 980757,
+      "num": 980757,
+      "word": "四川高考状元",
+      "onboard_time": 1687573535,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 974716,
@@ -169,6 +209,14 @@
       "onboard_time": 1687564045,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 959646,
+      "num": 959646,
+      "word": "白宫称美方正关注俄国内局势",
+      "onboard_time": 1687573415,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 948936,
@@ -188,7 +236,7 @@
     },
     {
       "raw_hot": 802093,
-      "num": 576147,
+      "num": 635636,
       "word": "戒糖一年的变化",
       "onboard_time": 1687563803,
       "rank": 20,
@@ -275,12 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631466,
-      "num": 631466,
-      "word": "猴痘",
-      "onboard_time": 1687570594,
-      "rank": 23,
+      "raw_hot": 661927,
+      "num": 661927,
+      "word": "女生查分666全家齐喊666",
+      "onboard_time": 1687574254,
+      "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641713,
+      "num": 641713,
+      "word": "肖战哽咽回忆梦海导演付宁",
+      "onboard_time": 1687573905,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 611330,
@@ -307,12 +363,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 574351,
+      "num": 574351,
+      "word": "宋妍霏高瀚宇醉酒吻好欲",
+      "onboard_time": 1687574556,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 537880,
       "num": 340709,
       "word": "白玉兰最佳电视剧双黄蛋",
       "onboard_time": 1687530408,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506346,
+      "num": 506346,
+      "word": "钻石价格大跌",
+      "onboard_time": 1687573176,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 492427,
+      "num": 492427,
+      "word": "宁静说赵丽颖也是从横店街上出来的",
+      "onboard_time": 1687575396,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 484755,
@@ -435,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 349651,
+      "num": 2520158,
+      "word": "全国各地高考分数线汇总",
+      "onboard_time": 1687528786,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346705,
       "num": 346705,
       "word": "莫斯科已加强安全措施",
@@ -465,6 +553,14 @@
       "onboard_time": 1687517251,
       "rank": 18,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 326720,
+      "num": 326720,
+      "word": "国泰一客机中止起飞11名乘客受伤",
+      "onboard_time": 1687574856,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324000,
@@ -513,14 +609,6 @@
       "onboard_time": 1687518270,
       "rank": 41,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 304609,
-      "num": 2520158,
-      "word": "全国各地高考分数线汇总",
-      "onboard_time": 1687528786,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302661,
@@ -595,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264436,
+      "num": 264436,
+      "word": "浙江龙游发生5车追尾事故致6人死亡",
+      "onboard_time": 1687572095,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255270,
       "num": 255270,
       "word": "男生单曲循环好运来查出593分大哭",
@@ -619,12 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253250,
-      "num": 253250,
-      "word": "浙江龙游发生5车追尾事故致6人死亡",
-      "onboard_time": 1687572095,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 252518,
+      "num": 252518,
+      "word": "主办方回应五月天演唱会黄牛强行闯卡",
+      "onboard_time": 1687575334,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 248250,
@@ -697,6 +793,14 @@
       "onboard_time": 1687532741,
       "rank": 43,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 218261,
+      "num": 218261,
+      "word": "黑龙江高考分数线",
+      "onboard_time": 1687575215,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 210909,

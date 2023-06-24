@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 10:11:36
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 11:00:31
 </p>
 </blockquote>
 <p>
@@ -603,6 +603,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
+俄罗斯（热度：2880736）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%9B%BE%E5%9C%A8party%E5%90%8E%E6%BC%82%E5%A4%B4%E5%8F%91%E7%9C%89%E6%AF%9B%23" target="weibo">
 小S曾在party后漂头发眉毛（热度：2843211）
 </a>
@@ -653,12 +659,6 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E8%80%81%E9%BC%A0%E5%A4%B4%E4%B8%BA%E4%BD%95%E8%A6%81%E7%9C%81%E7%BA%A7%E8%B0%83%E6%9F%A5%E7%BB%84%E6%89%8D%E8%83%BD%E6%9F%A5%E6%B8%85%23" target="weibo">
 一颗老鼠头为何要省级调查组才能查清（热度：2789248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
-俄罗斯（热度：2781832）
 </a>
 </li>
 
@@ -1043,6 +1043,12 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23" target="weibo">
 黄渤回应贫困女孩争议（热度：2393927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF%23" target="weibo">
+赵丽颖 戴比尔斯（热度：2392249）
 </a>
 </li>
 
@@ -3765,6 +3771,12 @@ Jennie去爬山了（热度：1318773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%80%BB%E6%A3%80%E5%AF%9F%E9%95%BF%E5%B7%B2%E5%90%91%E6%99%AE%E4%BA%AC%E6%B1%87%E6%8A%A5%E6%83%85%E5%86%B5%23" target="weibo">
+俄总检察长已向普京汇报情况（热度：1312936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E6%A1%83%23" target="weibo">
 殷桃（热度：1312477）
 </a>
@@ -3855,6 +3867,12 @@ Jennie去爬山了（热度：1318773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+安徽高考分数线（热度：1293837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E7%BB%9D%E4%BA%86%23" target="weibo">
 刘惜君绝了（热度：1293012）
 </a>
@@ -3899,6 +3917,12 @@ Jennie去爬山了（热度：1318773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23shanji%23" target="weibo">
 shanji（热度：1277714）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23" target="weibo">
+孙千评论赵丽颖说你跑我追（热度：1277645）
 </a>
 </li>
 
@@ -4143,12 +4167,6 @@ Angelababy回归 跑男收视率（热度：1255756）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-安徽高考分数线（热度：1243245）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E6%97%B6%E7%9A%84%E9%9F%A9%E5%AE%89%E5%86%89%23" target="weibo">
 5岁时的韩安冉（热度：1241749）
 </a>
@@ -4277,6 +4295,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%8F%91%E7%8E%B0%E5%8C%BB%E7%94%9F%E9%9A%90%E7%9E%92%E6%9C%AA%E6%A4%8D%E5%85%A5%E6%94%AF%E6%9E%B6%23" target="weibo">
 老人突发脑梗发现医生隐瞒未植入支架（热度：1211115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23" target="weibo">
+外媒称瓦格纳部队正进入俄南部（热度：1209252）
 </a>
 </li>
 
@@ -4515,6 +4539,12 @@ Angelababy撕漫女（热度：1170413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%89%E5%85%A8%E5%B1%80%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%23" target="weibo">
+俄罗斯安全局对瓦格纳首领提起刑事诉讼（热度：1163771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%8D%96%E6%B7%AB800%E6%AC%A1%23" target="weibo">
 官方通报网传大学生涉嫌卖淫800次（热度：1163697）
 </a>
@@ -4595,12 +4625,6 @@ Jennie 复仇者联盟5（热度：1161672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%90%8C%E5%AD%A6%E6%8A%8A%E6%88%91%E7%9A%84%E5%89%A9%E9%A5%AD%E5%90%83%E4%BA%86%23" target="weibo">
 德国同学把我的剩饭吃了（热度：1155594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23" target="weibo">
-孙千评论赵丽颖说你跑我追（热度：1154885）
 </a>
 </li>
 
@@ -5499,12 +5523,6 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%89%E5%85%A8%E5%B1%80%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%23" target="weibo">
-俄罗斯安全局对瓦格纳首领提起刑事诉讼（热度：1015964）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80%23" target="weibo">
 分数线 砍一刀（热度：1014583）
 </a>
@@ -5739,6 +5757,12 @@ AI写高考作文（热度：992848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
+四川高考状元（热度：980757）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AB%A5%E8%AF%9D%E9%87%8C%E8%B5%B0%E5%87%BA%E6%9D%A5%E7%9A%84%E7%8E%8B%E5%AD%90%E5%85%AC%E4%B8%BB%23" target="weibo">
 肖战迪丽热巴童话里走出来的王子公主（热度：977357）
 </a>
@@ -5877,6 +5901,12 @@ AI写高考作文（热度：992848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%BE%8E%E6%96%B9%E6%AD%A3%E5%85%B3%E6%B3%A8%E4%BF%84%E5%9B%BD%E5%86%85%E5%B1%80%E5%8A%BF%23" target="weibo">
+白宫称美方正关注俄国内局势（热度：959646）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%B5%AA%E5%A7%90%E7%BB%93%E6%9D%9F%E5%90%8E%E5%8E%BBHEC%E4%B8%8A%E5%AD%A6%E4%BA%86%23" target="weibo">
 朱珠浪姐结束后去HEC上学了（热度：955866）
 </a>
@@ -5981,36 +6011,6 @@ EDG海报空个位置（热度：945915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E8%92%99%E7%89%9B%23" target="weibo">
 肖战 蒙牛（热度：945569）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-江西分数线（热度：944263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%97%E8%BF%98%E8%A1%8C%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-长得还行迪丽热巴（热度：943827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E5%B0%94%E5%B7%B2%E8%8E%B7%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%23" target="weibo">
-李凯尔已获得中国国籍（热度：943381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%89%E4%B9%9F%E4%BC%91%E5%85%AC%E5%8F%B8%20%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E7%BB%9D%E4%B8%8D%E6%94%BE%E5%BC%83%23" target="weibo">
-周三也休公司 上四休三绝不放弃（热度：942695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%AD%97%20%E4%B9%8C%E5%85%B9%23" target="weibo">
-无字 乌兹（热度：940655）
 </a>
 </li>
 
