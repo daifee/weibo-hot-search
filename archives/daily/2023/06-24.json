@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687563254895,
+  "endTime": 1687571352998,
   "band_list": [
     {
       "raw_hot": 3041115,
@@ -8,6 +8,38 @@
       "word": "大小S宣布起诉葛斯齐",
       "onboard_time": 1687534658,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2781832,
+      "num": 2781832,
+      "word": "俄罗斯",
+      "onboard_time": 1687562662,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2728157,
+      "num": 2728157,
+      "word": "女生高考712分查完分就睡了",
+      "onboard_time": 1687568073,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2513735,
+      "num": 2513735,
+      "word": "姚景元高考分数401",
+      "onboard_time": 1687566691,
+      "rank": 3,
+      "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 2012636,
+      "num": 1679738,
+      "word": "炎亚纶 还好没有我的脸",
+      "onboard_time": 1687568133,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -27,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1719312,
+      "num": 1719312,
+      "word": "吴越 是不是大女主都没关系",
+      "onboard_time": 1687568672,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1473579,
       "num": 1473579,
       "word": "女子到宾馆匆匆开房浙江老板娘报警",
@@ -41,6 +81,14 @@
       "onboard_time": 1687533039,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1323029,
+      "num": 1323029,
+      "word": "暴雪禁止中国大陆玩家参与暗黑4活动",
+      "onboard_time": 1687565728,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 1252797,
@@ -75,12 +123,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1044749,
+      "num": 826974,
+      "word": "身高150腿长90的人是这样的",
+      "onboard_time": 1687568914,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 974716,
+      "num": 974716,
+      "word": "狂飙没拿奖",
+      "onboard_time": 1687564045,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 948936,
       "num": 948936,
       "word": "外星人",
       "onboard_time": 1687514493,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830702,
+      "num": 830702,
+      "word": "四大女顶流奖项实绩",
+      "onboard_time": 1687568914,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 802093,
+      "num": 540404,
+      "word": "戒糖一年的变化",
+      "onboard_time": 1687563803,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 797873,
@@ -105,6 +185,14 @@
       "onboard_time": 1687535557,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 769274,
+      "num": 769274,
+      "word": "瓦格纳",
+      "onboard_time": 1687562662,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 768824,
@@ -139,8 +227,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 689612,
+      "num": 689612,
+      "word": "孙千评论赵丽颖说你跑我追",
+      "onboard_time": 1687570296,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 675279,
-      "num": 294307,
+      "num": 314830,
       "word": "白敬亭宋轶耳朵都红了",
       "onboard_time": 1687526982,
       "rank": 22,
@@ -163,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607539,
+      "num": 607539,
+      "word": "俄乌局势",
+      "onboard_time": 1687566389,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 582079,
       "num": 287851,
       "word": "大张伟唱了静止",
       "onboard_time": 1687536097,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 540908,
+      "num": 540908,
+      "word": "高考分数线",
+      "onboard_time": 1687570715,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 537880,
@@ -187,11 +299,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476266,
+      "num": 476266,
+      "word": "猴痘",
+      "onboard_time": 1687570594,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472175,
       "num": 249055,
       "word": "消失的她",
       "onboard_time": 1687532440,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430084,
+      "num": 430084,
+      "word": "赵丽颖从继续熬到继续跑",
+      "onboard_time": 1687563562,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -201,6 +329,14 @@
       "onboard_time": 1687534837,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424763,
+      "num": 345687,
+      "word": "父母鼓励我认导师做干爹",
+      "onboard_time": 1687570356,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 414421,
@@ -219,12 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406142,
+      "num": 406142,
+      "word": "杨颖花50元买蒋奇明的自拍照",
+      "onboard_time": 1687566087,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390608,
       "num": 390608,
       "word": "梁实第27次高考查分",
       "onboard_time": 1687525418,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 381247,
+      "num": 381247,
+      "word": "廿字怎么读",
+      "onboard_time": 1687563144,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 378740,
@@ -241,6 +393,30 @@
       "onboard_time": 1687530763,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369690,
+      "num": 369690,
+      "word": "魏大勋画的范丞丞和魏大勋",
+      "onboard_time": 1687569695,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362257,
+      "num": 362257,
+      "word": "男孩高考705分跳起尖叫拥抱父母",
+      "onboard_time": 1687569155,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 346705,
+      "num": 346705,
+      "word": "莫斯科已加强安全措施",
+      "onboard_time": 1687566750,
+      "rank": 29,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 338115,
@@ -267,12 +443,28 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 324000,
+      "num": 324000,
+      "word": "金靖演唱会想看五月天结果是伍佰",
+      "onboard_time": 1687569032,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323074,
       "num": 218517,
       "word": "消失的她票房逆跌",
       "onboard_time": 1687514192,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318323,
+      "num": 318323,
+      "word": "高考查分",
+      "onboard_time": 1687568133,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 313164,
@@ -283,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309555,
+      "num": 309555,
+      "word": "程序员忙里偷闲2年做出一部历史剧",
+      "onboard_time": 1687568496,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308318,
       "num": 218516,
       "word": "白玉兰颁奖",
       "onboard_time": 1687518270,
       "rank": 41,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 302661,
+      "num": 302661,
+      "word": "王俊凯说自己很少上综艺",
+      "onboard_time": 1687564884,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 301780,
@@ -323,6 +531,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294778,
+      "num": 294778,
+      "word": "白玉兰视后有争议吗",
+      "onboard_time": 1687565007,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287898,
+      "num": 287898,
+      "word": "弱智吧上半年年度精选",
+      "onboard_time": 1687567530,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 285998,
       "num": 285998,
       "word": "男生高考查分601激动满屋蹦跳",
@@ -331,20 +555,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 268241,
-      "num": 226093,
-      "word": "廿字怎么读",
-      "onboard_time": 1687563144,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 271600,
+      "num": 271600,
+      "word": "宁静你骂人可真高级",
+      "onboard_time": 1687566509,
+      "rank": 40,
+      "category": "综艺"
     },
     {
-      "raw_hot": 263118,
-      "num": 219518,
-      "word": "俄罗斯",
-      "onboard_time": 1687562662,
-      "rank": 21,
-      "category": "国外要闻"
+      "raw_hot": 257247,
+      "num": 2520158,
+      "word": "全国各地高考分数线汇总",
+      "onboard_time": 1687528786,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255270,
+      "num": 255270,
+      "word": "男生单曲循环好运来查出593分大哭",
+      "onboard_time": 1687570896,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253702,
@@ -387,12 +619,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231785,
+      "num": 231785,
+      "word": "已经传到10后了",
+      "onboard_time": 1687568431,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 228782,
       "num": 228782,
       "word": "五月天武汉演唱会数百人拆护栏闯卡",
       "onboard_time": 1687532080,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 223335,
+      "num": 223335,
+      "word": "几十块钱的耳机好用吗",
+      "onboard_time": 1687569695,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 219360,
+      "num": 219360,
+      "word": "被林丹邀请打球女孩高考理科689分",
+      "onboard_time": 1687562959,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 218519,
@@ -411,12 +667,28 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 210798,
-      "num": 210798,
-      "word": "瓦格纳",
-      "onboard_time": 1687562662,
-      "rank": 22,
-      "category": "国外要闻"
+      "raw_hot": 210909,
+      "num": 210909,
+      "word": "高考查分家庭氛围是满分",
+      "onboard_time": 1687569155,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 209509,
+      "num": 209509,
+      "word": "校方回应学生疑因隐私泄露坠亡",
+      "onboard_time": 1687563444,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 203077,
+      "num": 203077,
+      "word": "光与夜之恋",
+      "onboard_time": 1687571135,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 181012,
@@ -491,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107855,
-      "num": 107855,
-      "word": "被林丹邀请打球女孩高考理科689分",
-      "onboard_time": 1687562959,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 107577,
       "num": 264084,
       "word": "救了一楼人收到感谢信战友才知道",
@@ -513,14 +777,6 @@
       "onboard_time": 1687533642,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93326,
-      "num": 776548,
-      "word": "全国各地高考分数线汇总",
-      "onboard_time": 1687528786,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91093,
@@ -585,6 +841,9 @@
     },
     {
       "word": "#2023高考分数线汇总#"
+    },
+    {
+      "word": "#青藏铁路将迈入动车时代#"
     }
   ]
 }
