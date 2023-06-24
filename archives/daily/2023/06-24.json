@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687616204266,
+  "endTime": 1687617275082,
   "band_list": [
     {
       "raw_hot": 10059576,
@@ -75,6 +75,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 2696592,
+      "num": 2696592,
+      "word": "消失的她 绝世大甜剧",
+      "onboard_time": 1687615298,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2513735,
       "num": 2513735,
       "word": "姚景元高考分数401",
@@ -91,20 +99,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2341606,
+      "num": 2341606,
+      "word": "关晓彤去了鹿晗的演唱会",
+      "onboard_time": 1687615178,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2237287,
       "num": 1852887,
       "word": "炎亚纶 还好没有我的脸",
       "onboard_time": 1687568133,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2125761,
-      "num": 2125761,
-      "word": "消失的她 绝世大甜剧",
-      "onboard_time": 1687615298,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 2091006,
@@ -177,14 +185,6 @@
       "onboard_time": 1687533642,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1704348,
-      "num": 1704348,
-      "word": "关晓彤去了鹿晗的演唱会",
-      "onboard_time": 1687615178,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1675964,
@@ -475,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1030404,
+      "num": 1030404,
+      "word": "俄南部军区总部大楼附近传出爆炸声",
+      "onboard_time": 1687612596,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1029412,
       "num": 1029412,
       "word": "王俊凯易烊千玺G社生图",
@@ -489,6 +497,14 @@
       "onboard_time": 1687573535,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1011258,
+      "num": 1011258,
+      "word": "白敬亭对长风渡vs卿卿日常的区别",
+      "onboard_time": 1687613855,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1007993,
@@ -561,14 +577,6 @@
       "onboard_time": 1687576295,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 938077,
-      "num": 938077,
-      "word": "白敬亭对长风渡vs卿卿日常的区别",
-      "onboard_time": 1687613855,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 937696,
@@ -707,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734025,
+      "num": 734025,
+      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+      "onboard_time": 1687609650,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 726048,
       "num": 726048,
       "word": "江苏高考分数线",
@@ -753,6 +769,14 @@
       "onboard_time": 1687521093,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 705333,
+      "num": 705333,
+      "word": "弟弟考673分姐姐哭了一小时",
+      "onboard_time": 1687616195,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 702818,
@@ -825,14 +849,6 @@
       "onboard_time": 1687574556,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 638567,
-      "num": 638567,
-      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
-      "onboard_time": 1687609650,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 629807,
@@ -985,6 +1001,14 @@
       "onboard_time": 1687586012,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510997,
+      "num": 510997,
+      "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
+      "onboard_time": 1687616315,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508530,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394723,
+      "num": 394723,
+      "word": "张杰助阵杨和苏首次演唱会",
+      "onboard_time": 1687616256,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 393537,
       "num": 393537,
       "word": "BKPP",
@@ -1376,6 +1408,14 @@
       "word": "白敬亭恋爱脑不像演的",
       "onboard_time": 1687608093,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387933,
+      "num": 387933,
+      "word": "海底星空",
+      "onboard_time": 1687615895,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1579,14 +1619,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 344477,
-      "num": 344477,
-      "word": "海底星空",
-      "onboard_time": 1687615895,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338115,
       "num": 338115,
       "word": "泰坦号潜水器前乘客曝恐怖经历",
@@ -1704,6 +1736,14 @@
       "word": "乘风选人规律不是0就是1",
       "onboard_time": 1687611094,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316809,
+      "num": 316809,
+      "word": "王鹤棣赵露思合影",
+      "onboard_time": 1687617034,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1907,6 +1947,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 285102,
+      "num": 263784,
+      "word": "王暖暖",
+      "onboard_time": 1687616915,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284386,
       "num": 284386,
       "word": "向主人展示自己的鹦鹉",
@@ -1921,14 +1969,6 @@
       "onboard_time": 1687577254,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282638,
-      "num": 282638,
-      "word": "弟弟考673分姐姐哭了一小时",
-      "onboard_time": 1687616195,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 278601,
@@ -1977,6 +2017,14 @@
       "onboard_time": 1687572095,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263886,
+      "num": 263886,
+      "word": "江苏高考排名",
+      "onboard_time": 1687616736,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 263767,
@@ -2043,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251365,
+      "num": 251365,
+      "word": "定闹钟",
+      "onboard_time": 1687613736,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250173,
       "num": 250173,
       "word": "消失的她越解读越上头",
@@ -2075,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246670,
+      "num": 246670,
+      "word": "王嘉尔陪庆怜纹身",
+      "onboard_time": 1687617216,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246384,
       "num": 246384,
       "word": "山东分数线降降降",
@@ -2087,6 +2151,14 @@
       "num": 246331,
       "word": "河北高考分数线",
       "onboard_time": 1687595973,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 245596,
+      "num": 245596,
+      "word": "河北高考分数",
+      "onboard_time": 1687616915,
       "rank": 44,
       "category": "教育,社会新闻"
     },
@@ -2324,7 +2396,7 @@
     },
     {
       "raw_hot": 196171,
-      "num": 204517,
+      "num": 230044,
       "word": "EDGM对战狼队",
       "onboard_time": 1687614877,
       "rank": 49,
@@ -2516,7 +2588,7 @@
     },
     {
       "raw_hot": 58414,
-      "num": 2505658,
+      "num": 2922073,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,

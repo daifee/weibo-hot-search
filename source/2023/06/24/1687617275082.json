@@ -1,0 +1,410 @@
+{
+  "runTime": 1687617275082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6583423,
+        "num": 6583423,
+        "word": "普京指责瓦格纳负责人叛国",
+        "onboard_time": 1687592313,
+        "rank": 0,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 3451896,
+        "num": 3451896,
+        "word": "银川31死爆炸事故原因公布",
+        "onboard_time": 1687614577,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26159,
+        "num": 2922073,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2696592,
+        "num": 2696592,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2341606,
+        "num": 2341606,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1053798,
+        "num": 1053798,
+        "word": "看消失的她 恋爱脑治好了",
+        "onboard_time": 1687601133,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1175742,
+        "num": 1049039,
+        "word": "鹿晗演唱会的女安检员",
+        "onboard_time": 1687610132,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1030404,
+        "num": 1030404,
+        "word": "俄南部军区总部大楼附近传出爆炸声",
+        "onboard_time": 1687612596,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1011258,
+        "num": 1011258,
+        "word": "白敬亭对长风渡vs卿卿日常的区别",
+        "onboard_time": 1687613855,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758983,
+        "num": 758983,
+        "word": "弟弟考了640分却开心不起来",
+        "onboard_time": 1687605274,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 734025,
+        "num": 734025,
+        "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+        "onboard_time": 1687609650,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 705333,
+        "num": 705333,
+        "word": "弟弟考673分姐姐哭了一小时",
+        "onboard_time": 1687616195,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 664934,
+        "num": 664934,
+        "word": "大学四年买了100斤的衣服",
+        "onboard_time": 1687607492,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 632895,
+        "num": 632895,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1687604314,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604153,
+        "num": 604153,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1687610313,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601329,
+        "num": 601329,
+        "word": "字节跳动在贷余额已达千亿",
+        "onboard_time": 1687601133,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 570616,
+        "num": 570616,
+        "word": "瓦格纳集团称内战已经正式开始",
+        "onboard_time": 1687607132,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519844,
+        "num": 519844,
+        "word": "朱一龙关姻菩萨",
+        "onboard_time": 1687612355,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510997,
+        "num": 510997,
+        "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
+        "onboard_time": 1687616315,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500884,
+        "num": 500884,
+        "word": "复读女生涨61分坐地嚎啕大哭",
+        "onboard_time": 1687599392,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 473892,
+        "num": 473892,
+        "word": "虞书欣到底有多少靴子",
+        "onboard_time": 1687597416,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 437073,
+        "num": 437073,
+        "word": "女心理师",
+        "onboard_time": 1687610973,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428417,
+        "num": 428417,
+        "word": "鹿晗14年vs23年",
+        "onboard_time": 1687613616,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 426573,
+        "num": 426573,
+        "word": "有演技的流量明星",
+        "onboard_time": 1687612715,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415597,
+        "num": 415597,
+        "word": "花花被说没脖子的反应",
+        "onboard_time": 1687611694,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397040,
+        "num": 397040,
+        "word": "梅德韦杰夫回应瓦格纳事件",
+        "onboard_time": 1687614633,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394723,
+        "num": 394723,
+        "word": "张杰助阵杨和苏首次演唱会",
+        "onboard_time": 1687616256,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387933,
+        "num": 387933,
+        "word": "海底星空",
+        "onboard_time": 1687615895,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387824,
+        "num": 387824,
+        "word": "为什么奶茶店的冰块化得慢",
+        "onboard_time": 1687610371,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 384864,
+        "num": 384864,
+        "word": "华晨宇演唱会帮人找孩子",
+        "onboard_time": 1687614393,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355817,
+        "num": 355817,
+        "word": "车臣领导人完全支持普京",
+        "onboard_time": 1687600473,
+        "rank": 30,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 341408,
+        "num": 341408,
+        "word": "我离职5年的公司打电话让我去领钱",
+        "onboard_time": 1687598913,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318545,
+        "num": 318545,
+        "word": "白敬亭穿这么多是有心事吗",
+        "onboard_time": 1687610553,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316809,
+        "num": 316809,
+        "word": "王鹤棣赵露思合影",
+        "onboard_time": 1687617034,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309035,
+        "num": 309035,
+        "word": "网友问老婆变成文咏珊为什么要报警",
+        "onboard_time": 1687592553,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302977,
+        "num": 302977,
+        "word": "江苏一本线",
+        "onboard_time": 1687609714,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 294835,
+        "num": 294835,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687605812,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286359,
+        "num": 286359,
+        "word": "炎亚纶前男友A先生再爆料",
+        "onboard_time": 1687577795,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269553,
+        "num": 269553,
+        "word": "车臣军队已出发平叛",
+        "onboard_time": 1687608030,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 263886,
+        "num": 263886,
+        "word": "江苏高考排名",
+        "onboard_time": 1687616736,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 285102,
+        "num": 263784,
+        "word": "王暖暖",
+        "onboard_time": 1687616915,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251365,
+        "num": 251365,
+        "word": "定闹钟",
+        "onboard_time": 1687613736,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249626,
+        "num": 249626,
+        "word": "女子300元买5双鞋因袋子收费拎回家",
+        "onboard_time": 1687610672,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246670,
+        "num": 246670,
+        "word": "王嘉尔陪庆怜纹身",
+        "onboard_time": 1687617216,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245596,
+        "num": 245596,
+        "word": "河北高考分数",
+        "onboard_time": 1687616915,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 243884,
+        "num": 243884,
+        "word": "鹿晗演唱会惊喜嘉宾是邓超",
+        "onboard_time": 1687606414,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238349,
+        "num": 238349,
+        "word": "台媒曝黄子佼下个月复工",
+        "onboard_time": 1687592313,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232089,
+        "num": 232089,
+        "word": "普京发表讲话",
+        "onboard_time": 1687586314,
+        "rank": 47,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 230376,
+        "num": 230376,
+        "word": "因脑溢血开颅3次的少年高考445分",
+        "onboard_time": 1687611512,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169734,
+        "num": 230044,
+        "word": "EDGM对战狼队",
+        "onboard_time": 1687614877,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
+    }
+  }
+}
