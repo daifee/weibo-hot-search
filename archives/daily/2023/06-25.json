@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687628020892,
+  "endTime": 1687630998122,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936474,
+      "num": 936474,
+      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
+      "onboard_time": 1687625783,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 814469,
       "num": 814469,
       "word": "俄罗斯对瓦格纳组织创始人刑事立案",
@@ -73,14 +81,6 @@
       "onboard_time": 1687619558,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661712,
-      "num": 294118,
-      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
-      "onboard_time": 1687625783,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 623956,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213057,
+      "num": 213057,
+      "word": "兰州一企业发生闪爆事故",
+      "onboard_time": 1687626681,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206445,
       "num": 206445,
       "word": "韩剧恶鬼",
@@ -345,14 +353,6 @@
       "onboard_time": 1687621295,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197868,
-      "num": 197868,
-      "word": "兰州一企业发生闪爆事故",
-      "onboard_time": 1687626681,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194266,
@@ -411,6 +411,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 165639,
+      "num": 165639,
+      "word": "普里戈津",
+      "onboard_time": 1687629799,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160756,
       "num": 160756,
       "word": "陈楚生披荆斩棘",
@@ -465,6 +473,14 @@
       "onboard_time": 1687627820,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 53070,
+      "num": 53070,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 8648,

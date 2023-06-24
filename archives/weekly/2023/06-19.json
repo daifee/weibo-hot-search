@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687628020892,
+  "endTime": 1687630998122,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -2699,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 936474,
+      "num": 936474,
+      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
+      "onboard_time": 1687625783,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 935507,
       "num": 935507,
       "word": "Angelababy白鹿起床素颜状态",
@@ -3849,14 +3857,6 @@
       "onboard_time": 1687561999,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661712,
-      "num": 294118,
-      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
-      "onboard_time": 1687625783,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 661538,
@@ -11091,6 +11091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213057,
+      "num": 213057,
+      "word": "兰州一企业发生闪爆事故",
+      "onboard_time": 1687626681,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213014,
       "num": 295062,
       "word": "小学班主任课间1分钟能处理多少事",
@@ -11841,14 +11849,6 @@
       "onboard_time": 1687391726,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197868,
-      "num": 197868,
-      "word": "兰州一企业发生闪爆事故",
-      "onboard_time": 1687626681,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197787,
@@ -13129,6 +13129,14 @@
       "onboard_time": 1687261712,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165639,
+      "num": 165639,
+      "word": "普里戈津",
+      "onboard_time": 1687629799,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165496,
@@ -15081,6 +15089,14 @@
       "onboard_time": 1687327237,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53070,
+      "num": 53070,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 52634,
