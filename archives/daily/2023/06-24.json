@@ -1,7 +1,15 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687588711369,
+  "endTime": 1687591040569,
   "band_list": [
+    {
+      "raw_hot": 3612090,
+      "num": 3612090,
+      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+      "onboard_time": 1687583856,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
     {
       "raw_hot": 3331192,
       "num": 3331192,
@@ -11,20 +19,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3215978,
+      "num": 3215978,
+      "word": "普京发表讲话",
+      "onboard_time": 1687586314,
+      "rank": 1,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 3188866,
       "num": 3188866,
       "word": "俄罗斯",
       "onboard_time": 1687562662,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 3166004,
-      "num": 3166004,
-      "word": "瓦格纳称已控制罗斯托夫地区军用设施",
-      "onboard_time": 1687583856,
-      "rank": 30,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 3041115,
@@ -107,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1820604,
+      "num": 1820604,
+      "word": "高考理科623分决心复读了",
+      "onboard_time": 1687581158,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1761891,
       "num": 1761891,
       "word": "鹿晗演唱会上不敢读的灯牌",
       "onboard_time": 1687533642,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1722976,
-      "num": 1722976,
-      "word": "高考理科623分决心复读了",
-      "onboard_time": 1687581158,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 1675964,
@@ -209,6 +217,14 @@
       "onboard_time": 1687570296,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1262722,
+      "num": 1262722,
+      "word": "县委大院被恶意评分",
+      "onboard_time": 1687588952,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1252797,
@@ -347,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 937696,
+      "num": 937696,
+      "word": "直井怜我的英雄学院",
+      "onboard_time": 1687586555,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 924484,
       "num": 924484,
       "word": "宁静说赵丽颖也是从横店街上出来的",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 874489,
-      "num": 336555,
+      "num": 843068,
       "word": "胡锡进 瓦格纳集团究竟在发生什么",
       "onboard_time": 1687586735,
       "rank": 30,
@@ -475,14 +499,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 651180,
-      "num": 651180,
-      "word": "直井怜我的英雄学院",
-      "onboard_time": 1687586555,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 641713,
       "num": 641713,
       "word": "肖战哽咽回忆梦海导演付宁",
@@ -497,6 +513,22 @@
       "onboard_time": 1687574556,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 620692,
+      "num": 620692,
+      "word": "她她她 好听的一阵一阵的",
+      "onboard_time": 1687588413,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 614753,
+      "num": 416114,
+      "word": "给凸嘴女孩改妆",
+      "onboard_time": 1687588952,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 611330,
@@ -545,6 +577,14 @@
       "onboard_time": 1687575936,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 519324,
+      "num": 519324,
+      "word": "王俊凯易烊千玺G社生图",
+      "onboard_time": 1687590391,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 514449,
@@ -635,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 455109,
+      "num": 455109,
+      "word": "天津分数线",
+      "onboard_time": 1687590092,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 430737,
       "num": 412447,
       "word": "莫斯科街头出现大批军车",
@@ -665,6 +713,14 @@
       "onboard_time": 1687570356,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425803,
+      "num": 425803,
+      "word": "eStar对战DYG",
+      "onboard_time": 1687590813,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 418147,
@@ -721,6 +777,14 @@
       "onboard_time": 1687537592,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409530,
+      "num": 409530,
+      "word": "不就是等于0.4吗",
+      "onboard_time": 1687590212,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 393537,
@@ -811,6 +875,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 360077,
+      "num": 360077,
+      "word": "赵露思桑稚的多巴胺穿搭",
+      "onboard_time": 1687589971,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 350623,
       "num": 2592893,
       "word": "全国各地高考分数线汇总",
@@ -899,6 +971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 314060,
+      "num": 314060,
+      "word": "蒲熠星全员加速中",
+      "onboard_time": 1687588649,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313164,
       "num": 244111,
       "word": "银川烧烤店爆炸事故预估保险赔付超1400万",
@@ -923,12 +1003,20 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 307002,
-      "num": 307002,
+      "raw_hot": 307581,
+      "num": 307581,
       "word": "胆子越大 offer越好",
       "onboard_time": 1687587513,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 305111,
+      "num": 290809,
+      "word": "还得是二代团",
+      "onboard_time": 1687590513,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 302661,
@@ -1003,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293828,
+      "num": 293828,
+      "word": "近距离看全红蝉陈芋汐水花消失术",
+      "onboard_time": 1687590630,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289638,
       "num": 289638,
       "word": "大熊猫七仔800个心思799个写在脸上",
@@ -1019,6 +1115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 286607,
+      "num": 286607,
+      "word": "偷偷藏不住求婚路透",
+      "onboard_time": 1687589613,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285998,
       "num": 285998,
       "word": "男生高考查分601激动满屋蹦跳",
@@ -1027,12 +1131,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 284704,
-      "num": 284704,
-      "word": "她她她 好听的一阵一阵的",
-      "onboard_time": 1687588413,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 285859,
+      "num": 285859,
+      "word": "张雨绮高伟光新剧床戏",
+      "onboard_time": 1687590630,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 282678,
@@ -1041,6 +1145,14 @@
       "onboard_time": 1687577254,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278762,
+      "num": 278762,
+      "word": "19岁少年为救陌生姐姐放弃考试",
+      "onboard_time": 1687590152,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 278601,
@@ -1065,6 +1177,14 @@
       "onboard_time": 1687566509,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264919,
+      "num": 264919,
+      "word": "赵丽颖蔡徐坤同款项链",
+      "onboard_time": 1687590871,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264436,
@@ -1113,6 +1233,14 @@
       "onboard_time": 1687538188,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253511,
+      "num": 253511,
+      "word": "黄子韬说做组合懂的人都懂",
+      "onboard_time": 1687590871,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 253273,
@@ -1217,14 +1345,6 @@
       "onboard_time": 1687569695,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 222575,
-      "num": 222575,
-      "word": "蒲熠星全员加速中",
-      "onboard_time": 1687588649,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 219360,
@@ -1356,7 +1476,7 @@
     },
     {
       "raw_hot": 133629,
-      "num": 2035736,
+      "num": 2475343,
       "word": "31省份报志愿时间全汇总",
       "onboard_time": 1687578335,
       "rank": 2,
@@ -1440,6 +1560,14 @@
       "word": "遇到燃气泄漏应该如何处理",
       "onboard_time": 1687508671,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20126,
+      "num": 728506,
+      "word": "高速送婴儿就医的山东大哥找到了",
+      "onboard_time": 1687590571,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
