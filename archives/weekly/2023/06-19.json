@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687611216336,
+  "endTime": 1687613019488,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -1443,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1411457,
+      "num": 1411457,
+      "word": "鹿晗演唱会的女安检员",
+      "onboard_time": 1687610132,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1404564,
       "num": 1404564,
       "word": "无穷小亮 有个事挺瘆得慌",
@@ -2476,7 +2484,7 @@
     },
     {
       "raw_hot": 973613,
-      "num": 508658,
+      "num": 773925,
       "word": "韩剧恶鬼",
       "onboard_time": 1687531665,
       "rank": 11,
@@ -3041,14 +3049,6 @@
       "onboard_time": 1687230989,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 816755,
-      "num": 816755,
-      "word": "鹿晗演唱会的女安检员",
-      "onboard_time": 1687610132,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 812748,
@@ -3947,6 +3947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609549,
+      "num": 609549,
+      "word": "女心理师",
+      "onboard_time": 1687610973,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607877,
       "num": 607877,
       "word": "林俊杰白敬亭王嘉尔苏翊鸣同框",
@@ -3985,6 +3993,14 @@
       "onboard_time": 1687423953,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600852,
+      "num": 600852,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 597031,
@@ -4187,12 +4203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569163,
+      "num": 569163,
+      "word": "白敬亭穿这么多是有心事吗",
+      "onboard_time": 1687610553,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568847,
       "num": 425995,
       "word": "合同到期的前两天我怀孕了",
       "onboard_time": 1687426891,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 568583,
+      "num": 568583,
+      "word": "因脑溢血开颅3次的少年高考445分",
+      "onboard_time": 1687611512,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568360,
@@ -4923,6 +4955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487855,
+      "num": 487855,
+      "word": "花花被说没脖子的反应",
+      "onboard_time": 1687611694,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486010,
       "num": 486010,
       "word": "一见茹顾vs山峥海薇",
@@ -5307,6 +5347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 450772,
+      "num": 450772,
+      "word": "胡锡进 武装叛乱在俄罗斯没有传统",
+      "onboard_time": 1687610313,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450692,
       "num": 424883,
       "word": "肖战点赞比心视频",
@@ -5483,6 +5531,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 434044,
+      "num": 434044,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433816,
       "num": 283856,
       "word": "郭京飞谭卓白玉兰同框",
@@ -5561,6 +5617,14 @@
       "onboard_time": 1687439191,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 429768,
+      "num": 429768,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428487,
@@ -5723,14 +5787,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 420331,
-      "num": 337929,
-      "word": "胡锡进 武装叛乱在俄罗斯没有传统",
-      "onboard_time": 1687610313,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420166,
       "num": 420166,
       "word": "无畏",
@@ -5865,6 +5921,14 @@
       "onboard_time": 1687610493,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410559,
+      "num": 410559,
+      "word": "为什么奶茶店的冰块化得慢",
+      "onboard_time": 1687610371,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 410379,
@@ -6241,14 +6305,6 @@
       "onboard_time": 1687498531,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383434,
-      "num": 337823,
-      "word": "白敬亭穿这么多是有心事吗",
-      "onboard_time": 1687610553,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 383209,
@@ -6707,28 +6763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353614,
-      "num": 353614,
-      "word": "鲁A大哥认下获救女婴干女儿",
-      "onboard_time": 1687609714,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353607,
       "num": 353607,
       "word": "马尔代夫",
       "onboard_time": 1687234836,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353282,
-      "num": 353282,
-      "word": "女心理师",
-      "onboard_time": 1687610973,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 353267,
@@ -6833,6 +6873,14 @@
       "onboard_time": 1687192349,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349053,
+      "num": 349053,
+      "word": "女子300元买5双鞋因袋子收费拎回家",
+      "onboard_time": 1687610672,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348831,
@@ -6953,14 +7001,6 @@
       "onboard_time": 1687414831,
       "rank": 21,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 342415,
-      "num": 342415,
-      "word": "女子300元买5双鞋因袋子收费拎回家",
-      "onboard_time": 1687610672,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341625,
@@ -7344,6 +7384,14 @@
       "word": "央视端午节目单官宣",
       "onboard_time": 1687431813,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318686,
+      "num": 318686,
+      "word": "乘风选人规律不是0就是1",
+      "onboard_time": 1687611094,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -7897,6 +7945,14 @@
       "onboard_time": 1687406433,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295650,
+      "num": 295650,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 295646,
@@ -9499,6 +9555,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 244673,
+      "num": 244673,
+      "word": "迪丽热巴粉丝留言喊话祝绪丹一起跑路",
+      "onboard_time": 1687612833,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244448,
       "num": 239472,
       "word": "过上了小说里的生活",
@@ -10019,14 +10083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232745,
-      "num": 232745,
-      "word": "乘风选人规律不是0就是1",
-      "onboard_time": 1687611094,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232449,
       "num": 232449,
       "word": "宋亚轩胸肌好明显",
@@ -10441,6 +10497,14 @@
       "onboard_time": 1687230271,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219787,
+      "num": 219787,
+      "word": "WBG对战BLG",
+      "onboard_time": 1687612055,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 219595,

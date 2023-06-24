@@ -1,6 +1,6 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687611216336,
+  "endTime": 1687613019488,
   "band_list": [
     {
       "raw_hot": 10059576,
@@ -233,6 +233,14 @@
       "onboard_time": 1687588952,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1411457,
+      "num": 1411457,
+      "word": "鹿晗演唱会的女安检员",
+      "onboard_time": 1687610132,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 1397105,
@@ -571,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 816755,
-      "num": 816755,
-      "word": "鹿晗演唱会的女安检员",
-      "onboard_time": 1687610132,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 802093,
       "num": 697587,
       "word": "戒糖一年的变化",
@@ -625,6 +625,14 @@
       "onboard_time": 1687592313,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 773925,
+      "num": 773925,
+      "word": "韩剧恶鬼",
+      "onboard_time": 1687531665,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 769274,
@@ -779,11 +787,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609549,
+      "num": 609549,
+      "word": "女心理师",
+      "onboard_time": 1687610973,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607539,
       "num": 607539,
       "word": "俄乌局势",
       "onboard_time": 1687566389,
       "rank": 18,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 600852,
+      "num": 600852,
+      "word": "圣彼得堡",
+      "onboard_time": 1687612596,
+      "rank": 12,
       "category": "国外要闻"
     },
     {
@@ -827,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569163,
+      "num": 569163,
+      "word": "白敬亭穿这么多是有心事吗",
+      "onboard_time": 1687610553,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 568583,
+      "num": 568583,
+      "word": "因脑溢血开颅3次的少年高考445分",
+      "onboard_time": 1687611512,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550644,
       "num": 550644,
       "word": "鹿晗演唱会惊喜嘉宾是邓超",
@@ -864,14 +904,6 @@
       "word": "黄渤王一博八百个心眼子",
       "onboard_time": 1687586012,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 508658,
-      "num": 508658,
-      "word": "韩剧恶鬼",
-      "onboard_time": 1687531665,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -953,6 +985,14 @@
       "onboard_time": 1687595316,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487855,
+      "num": 487855,
+      "word": "花花被说没脖子的反应",
+      "onboard_time": 1687611694,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484755,
@@ -1051,12 +1091,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 450772,
+      "num": 450772,
+      "word": "胡锡进 武装叛乱在俄罗斯没有传统",
+      "onboard_time": 1687610313,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434420,
       "num": 434420,
       "word": "张栋梁抵达长沙",
       "onboard_time": 1687602814,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 434044,
+      "num": 434044,
+      "word": "朱一龙关姻菩萨",
+      "onboard_time": 1687612355,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 431259,
@@ -1081,6 +1137,14 @@
       "onboard_time": 1687563562,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 429768,
+      "num": 429768,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428448,
@@ -1113,14 +1177,6 @@
       "onboard_time": 1687590813,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 420331,
-      "num": 337929,
-      "word": "胡锡进 武装叛乱在俄罗斯没有传统",
-      "onboard_time": 1687610313,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420166,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1687610493,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410559,
+      "num": 410559,
+      "word": "为什么奶茶店的冰块化得慢",
+      "onboard_time": 1687610371,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 409878,
@@ -1249,14 +1313,6 @@
       "onboard_time": 1687601494,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 383434,
-      "num": 337823,
-      "word": "白敬亭穿这么多是有心事吗",
-      "onboard_time": 1687610553,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 382371,
@@ -1379,22 +1435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353614,
-      "num": 353614,
-      "word": "鲁A大哥认下获救女婴干女儿",
-      "onboard_time": 1687609714,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353282,
-      "num": 353282,
-      "word": "女心理师",
-      "onboard_time": 1687610973,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 353267,
       "num": 353267,
       "word": "黄子韬说做组合懂的人都懂",
@@ -1435,20 +1475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349053,
+      "num": 349053,
+      "word": "女子300元买5双鞋因袋子收费拎回家",
+      "onboard_time": 1687610672,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346705,
       "num": 346705,
       "word": "莫斯科已加强安全措施",
       "onboard_time": 1687566750,
       "rank": 29,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 342415,
-      "num": 342415,
-      "word": "女子300元买5双鞋因袋子收费拎回家",
-      "onboard_time": 1687610672,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338115,
@@ -1560,6 +1600,14 @@
       "word": "还得是二代团",
       "onboard_time": 1687590513,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318686,
+      "num": 318686,
+      "word": "乘风选人规律不是0就是1",
+      "onboard_time": 1687611094,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1705,6 +1753,14 @@
       "onboard_time": 1687537353,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295650,
+      "num": 295650,
+      "word": "有演技的流量明星",
+      "onboard_time": 1687612715,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 295468,
@@ -1939,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244673,
+      "num": 244673,
+      "word": "迪丽热巴粉丝留言喊话祝绪丹一起跑路",
+      "onboard_time": 1687612833,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242439,
       "num": 242439,
       "word": "长风渡看得我恋爱脑又犯了",
@@ -2011,14 +2075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232745,
-      "num": 232745,
-      "word": "乘风选人规律不是0就是1",
-      "onboard_time": 1687611094,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232224,
       "num": 232224,
       "word": "Zdz一路小跑去抱QiuQiu",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1687602994,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219787,
+      "num": 219787,
+      "word": "WBG对战BLG",
+      "onboard_time": 1687612055,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 219360,
