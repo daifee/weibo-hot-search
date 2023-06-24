@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687606437585,
+  "endTime": 1687610156014,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -825,6 +825,14 @@
       "onboard_time": 1687391906,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1926686,
+      "num": 1926686,
+      "word": "弟弟考了640分却开心不起来",
+      "onboard_time": 1687605274,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 1916457,
@@ -1803,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1231570,
+      "num": 1231570,
+      "word": "瓦格纳集团称内战已经正式开始",
+      "onboard_time": 1687607132,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1230117,
       "num": 1230117,
       "word": "霍建华复出后首部作品",
@@ -2339,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015504,
+      "num": 1015504,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1687604314,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014583,
       "num": 1014583,
       "word": "分数线 砍一刀",
@@ -2355,14 +2379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1010308,
-      "num": 1010308,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1687604314,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1009559,
       "num": 1009559,
       "word": "偷偷藏不住首播评价",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1687319796,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998434,
+      "num": 998434,
+      "word": "大学四年买了100斤的衣服",
+      "onboard_time": 1687607492,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 998050,
@@ -2633,14 +2657,6 @@
       "onboard_time": 1687153414,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 926410,
-      "num": 926410,
-      "word": "弟弟考了640分却开心不起来",
-      "onboard_time": 1687605274,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 924763,
@@ -3371,6 +3387,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 723284,
+      "num": 723284,
+      "word": "哥哥在道歉和哄人中选择了做法",
+      "onboard_time": 1687605332,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 721825,
       "num": 658978,
       "word": "白敬亭吃醋不像演的",
@@ -3560,6 +3584,14 @@
       "word": "王阳用口红在秦岚脸上留号码",
       "onboard_time": 1687134028,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 689861,
+      "num": 689861,
+      "word": "宋轶直播",
+      "onboard_time": 1687605931,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -4307,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550644,
+      "num": 550644,
+      "word": "鹿晗演唱会惊喜嘉宾是邓超",
+      "onboard_time": 1687606414,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 547350,
       "num": 547350,
       "word": "在妈妈坟前跳舞小女孩患有心脏病",
@@ -4449,6 +4489,14 @@
       "onboard_time": 1687150171,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522671,
+      "num": 522671,
+      "word": "鹿晗演唱会的女安检员",
+      "onboard_time": 1687610132,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 522229,
@@ -4707,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503257,
+      "num": 503257,
+      "word": "河南高考分数线",
+      "onboard_time": 1687607611,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 502006,
       "num": 502006,
       "word": "A股",
@@ -4753,14 +4809,6 @@
       "onboard_time": 1687527402,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497862,
-      "num": 332532,
-      "word": "哥哥在道歉和哄人中选择了做法",
-      "onboard_time": 1687605332,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 497414,
@@ -5163,6 +5211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456285,
+      "num": 456285,
+      "word": "车臣军队已出发平叛",
+      "onboard_time": 1687608030,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 456070,
       "num": 456070,
       "word": "什么专业缺女生",
@@ -5313,14 +5369,6 @@
       "onboard_time": 1687394070,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441111,
-      "num": 441111,
-      "word": "宋轶直播",
-      "onboard_time": 1687605931,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 441090,
@@ -5915,6 +5963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395548,
+      "num": 395548,
+      "word": "男生得知好友仅609分后瞬间弹起",
+      "onboard_time": 1687606954,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394797,
       "num": 394797,
       "word": "刘宇宁直播",
@@ -6019,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390176,
+      "num": 390176,
+      "word": "白敬亭恋爱脑不像演的",
+      "onboard_time": 1687608093,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390149,
       "num": 334938,
       "word": "这就是传说中的校草脸吧",
@@ -6081,6 +6145,14 @@
       "onboard_time": 1687448013,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386376,
+      "num": 386376,
+      "word": "江苏高考查分",
+      "onboard_time": 1687608215,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 386139,
@@ -7019,6 +7091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331218,
+      "num": 331218,
+      "word": "顾九思柳玉茹轶穷二白",
+      "onboard_time": 1687608812,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330503,
       "num": 329830,
       "word": "长相思",
@@ -7563,6 +7643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302951,
+      "num": 302951,
+      "word": "鲁A大哥认下获救女婴干女儿",
+      "onboard_time": 1687609714,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302661,
       "num": 302661,
       "word": "王俊凯说自己很少上综艺",
@@ -7681,6 +7769,14 @@
       "onboard_time": 1687350513,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 298826,
+      "num": 298826,
+      "word": "江苏一本线",
+      "onboard_time": 1687609714,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 298500,
@@ -9187,6 +9283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248988,
+      "num": 248988,
+      "word": "敬鸿轶瞥",
+      "onboard_time": 1687608929,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248953,
       "num": 248953,
       "word": "缉毒警一张带血纸条助缴毒10余斤",
@@ -9731,6 +9835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235268,
+      "num": 235268,
+      "word": "未央",
+      "onboard_time": 1687608812,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235187,
       "num": 441553,
       "word": "喜欢把手插进米里的原因",
@@ -9913,6 +10025,14 @@
       "onboard_time": 1687392448,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231150,
+      "num": 231150,
+      "word": "你考虑过复读吗",
+      "onboard_time": 1687609772,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 230936,
@@ -10363,14 +10483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215793,
-      "num": 215793,
-      "word": "鹿晗演唱会惊喜嘉宾是邓超",
-      "onboard_time": 1687606414,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 215358,
       "num": 234024,
       "word": "Hero对战MTG",
@@ -10609,6 +10721,14 @@
       "onboard_time": 1687507589,
       "rank": 40,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 211328,
+      "num": 211328,
+      "word": "法老早安小精灵健将发疯舞台",
+      "onboard_time": 1687607252,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 211169,
@@ -11217,6 +11337,14 @@
       "onboard_time": 1687391726,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197921,
+      "num": 197921,
+      "word": "大妈吃席打包整只鸡同桌笑到颤抖",
+      "onboard_time": 1687610073,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197787,

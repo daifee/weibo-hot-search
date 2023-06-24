@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 19:33:57
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/24 20:35:56
 </p>
 </blockquote>
 <p>
@@ -1895,6 +1895,12 @@ Jennie道歉评论区（热度：1965915）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%96%9D%E7%83%AD%E5%92%96%E5%95%A1%23" target="weibo">
 千万不要长期喝热咖啡（热度：1928089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23" target="weibo">
+弟弟考了640分却开心不起来（热度：1926686）
 </a>
 </li>
 
@@ -4359,6 +4365,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E7%A7%B0%E5%86%85%E6%88%98%E5%B7%B2%E7%BB%8F%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23" target="weibo">
+瓦格纳集团称内战已经正式开始（热度：1231570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%A4%8D%E5%87%BA%E5%90%8E%E9%A6%96%E9%83%A8%E4%BD%9C%E5%93%81%23" target="weibo">
 霍建华复出后首部作品（热度：1230117）
 </a>
@@ -5691,6 +5703,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%23" target="weibo">
+披荆斩棘的哥哥（热度：1015504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E6%95%B0%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80%23" target="weibo">
 分数线 砍一刀（热度：1014583）
 </a>
@@ -5741,12 +5759,6 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23" target="weibo">
 白敬亭工作室向粉丝道歉（热度：1010954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%23" target="weibo">
-披荆斩棘的哥哥（热度：1010308）
 </a>
 </li>
 
@@ -5813,6 +5825,12 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A7%91%E5%A8%9820%E5%85%83%E5%88%AE%E5%88%AE%E4%B9%90%E5%88%AE%E4%B8%AD%E7%99%BE%E4%B8%87%23" target="weibo">
 杭州姑娘20元刮刮乐刮中百万（热度：998712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
+大学四年买了100斤的衣服（热度：998434）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ AI写高考作文（热度：992848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E6%81%B6%E9%AC%BC%23" target="weibo">
 韩剧恶鬼（热度：973613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E8%AF%AF%E5%85%A5%E8%80%83%E5%9C%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E8%AF%B7%E5%87%BA%23" target="weibo">
-金毛误入考场被民警请出（热度：972203）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%23" target="weibo">
-北极鲶鱼（热度：972073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E9%98%B2%E4%BD%9C%E5%BC%8A%E7%A3%81%E5%BC%B9%E6%9E%AA%E4%BA%AE%E7%9B%B8%E8%80%83%E7%82%B9%E7%8E%B0%E5%9C%BA%23" target="weibo">
-高考防作弊磁弹枪亮相考点现场（热度：969808）
 </a>
 </li>
 
