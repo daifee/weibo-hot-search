@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687638841785,
+  "endTime": 1687641394674,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -15363,6 +15363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25855,
+      "num": 25855,
+      "word": "银川烧烤店爆炸背后",
+      "onboard_time": 1687637712,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25594,
       "num": 529608,
       "word": "和平精英亚运征途媒体日",
@@ -15377,14 +15385,6 @@
       "onboard_time": 1687455321,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24066,
-      "num": 25843,
-      "word": "银川烧烤店爆炸背后",
-      "onboard_time": 1687637712,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22018,
@@ -15409,6 +15409,14 @@
       "onboard_time": 1687170340,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20953,
+      "num": 22709,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1687640832,
+      "rank": 42,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 20913,
