@@ -1,0 +1,410 @@
+{
+  "runTime": 1687594980430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9311994,
+        "num": 9311994,
+        "word": "普京指责瓦格纳负责人叛国",
+        "onboard_time": 1687592313,
+        "rank": 0,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 2639092,
+        "num": 2639092,
+        "word": "瓦格纳称已控制罗斯托夫地区军用设施",
+        "onboard_time": 1687583856,
+        "rank": 1,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 79485,
+        "num": 1577542,
+        "word": "高温热浪防护指南",
+        "onboard_time": 1687578095,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088838,
+        "num": 1088838,
+        "word": "普京发表讲话",
+        "onboard_time": 1687586314,
+        "rank": 3,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1048587,
+        "num": 1048587,
+        "word": "高考理科623分决心复读了",
+        "onboard_time": 1687581158,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1045303,
+        "num": 1045303,
+        "word": "普京称所有对抗军队的人都是叛徒",
+        "onboard_time": 1687591593,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1029412,
+        "num": 1029412,
+        "word": "王俊凯易烊千玺G社生图",
+        "onboard_time": 1687590391,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1006902,
+        "num": 1006902,
+        "word": "县委大院被恶意评分",
+        "onboard_time": 1687588952,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 919974,
+        "num": 919974,
+        "word": "网友问老婆变成文咏珊为什么要报警",
+        "onboard_time": 1687592553,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 916574,
+        "num": 916574,
+        "word": "炎亚纶前男友A先生再爆料",
+        "onboard_time": 1687577795,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836251,
+        "num": 836251,
+        "word": "俄罗斯",
+        "onboard_time": 1687562662,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 768418,
+        "num": 768418,
+        "word": "外媒称瓦格纳部队正进入俄南部",
+        "onboard_time": 1687575452,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 740592,
+        "num": 740592,
+        "word": "台媒曝黄子佼下个月复工",
+        "onboard_time": 1687592313,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719724,
+        "num": 719724,
+        "word": "给凸嘴女孩改妆",
+        "onboard_time": 1687588952,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108212,
+        "num": 687222,
+        "word": "山洪暴发女子大喊提醒救下多名游客",
+        "onboard_time": 1687593631,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670368,
+        "num": 670368,
+        "word": "陈思诚找王暖暖拿授权",
+        "onboard_time": 1687593212,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634445,
+        "num": 634445,
+        "word": "柳智敏",
+        "onboard_time": 1687583312,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588825,
+        "num": 588825,
+        "word": "白宫称美方正关注俄国内局势",
+        "onboard_time": 1687573415,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 579675,
+        "num": 579675,
+        "word": "瓦格纳创始人否认试图发动武装叛乱",
+        "onboard_time": 1687578455,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 508396,
+        "num": 508396,
+        "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
+        "onboard_time": 1687571975,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 529523,
+        "num": 505630,
+        "word": "在一起五年分手了是什么体验",
+        "onboard_time": 1687576295,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496193,
+        "num": 496193,
+        "word": "普京称国家需要团结一切力量",
+        "onboard_time": 1687592372,
+        "rank": 21,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 494977,
+        "num": 494977,
+        "word": "基辅称击落了超20枚俄军导弹",
+        "onboard_time": 1687579774,
+        "rank": 22,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 479149,
+        "num": 479149,
+        "word": "直井怜我的英雄学院",
+        "onboard_time": 1687586555,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467154,
+        "num": 467154,
+        "word": "俄执法人员进驻瓦格纳集团总部大楼",
+        "onboard_time": 1687587095,
+        "rank": 24,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 464041,
+        "num": 464041,
+        "word": "她她她",
+        "onboard_time": 1687583255,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431677,
+        "num": 431677,
+        "word": "秦昊带你去爬山朱一龙带你去看海",
+        "onboard_time": 1687593935,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430238,
+        "num": 430238,
+        "word": "朱珠的盖被基因",
+        "onboard_time": 1687593453,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423235,
+        "num": 423235,
+        "word": "黄磊王迅聊初见张艺兴",
+        "onboard_time": 1687593814,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395467,
+        "num": 395467,
+        "word": "莫斯科正在进行反恐行动",
+        "onboard_time": 1687577853,
+        "rank": 29,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 385340,
+        "num": 385340,
+        "word": "谢娜彩排大哭",
+        "onboard_time": 1687584813,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381370,
+        "num": 381370,
+        "word": "胡锡进 瓦格纳集团究竟在发生什么",
+        "onboard_time": 1687586735,
+        "rank": 31,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 375310,
+        "num": 375310,
+        "word": "女生高考712分查完分就睡了",
+        "onboard_time": 1687568073,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 354816,
+        "num": 354816,
+        "word": "姚景元高考分数401",
+        "onboard_time": 1687566691,
+        "rank": 33,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 350212,
+        "num": 350212,
+        "word": "赵丽颖蔡徐坤同款项链",
+        "onboard_time": 1687590871,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 347938,
+        "num": 347938,
+        "word": "辽宁查分",
+        "onboard_time": 1687594773,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 336994,
+        "num": 336994,
+        "word": "白敬亭第一次不爱鞋",
+        "onboard_time": 1687578874,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326395,
+        "num": 326395,
+        "word": "黄子韬说做组合懂的人都懂",
+        "onboard_time": 1687590871,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314501,
+        "num": 314501,
+        "word": "普京电视讲话要点汇总",
+        "onboard_time": 1687594173,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295468,
+        "num": 295468,
+        "word": "娜扎古装11年前vs11年后",
+        "onboard_time": 1687594715,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273933,
+        "num": 273933,
+        "word": "她她她 好听的一阵一阵的",
+        "onboard_time": 1687588413,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273312,
+        "num": 273312,
+        "word": "福建高考查分",
+        "onboard_time": 1687591531,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 262637,
+        "num": 262637,
+        "word": "炎亚纶 还好没有我的脸",
+        "onboard_time": 1687568133,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261241,
+        "num": 261241,
+        "word": "33岁单身女管文被年龄绑架相亲",
+        "onboard_time": 1687582175,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261179,
+        "num": 261179,
+        "word": "偷偷藏不住求婚路透",
+        "onboard_time": 1687589613,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259714,
+        "num": 259714,
+        "word": "不就是等于0.4吗",
+        "onboard_time": 1687590212,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250825,
+        "num": 250825,
+        "word": "俄总检察长已向普京汇报情况",
+        "onboard_time": 1687572935,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 237256,
+        "num": 237256,
+        "word": "谢娜听到龚琳娜夸张杰的反应",
+        "onboard_time": 1687593095,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225897,
+        "num": 235885,
+        "word": "钎城轮换下场",
+        "onboard_time": 1687594593,
+        "rank": 48,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 180729,
+        "num": 235821,
+        "word": "萧逸电话",
+        "onboard_time": 1687592492,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛龙舟火热的背后是穿越时空的力量#"
+    }
+  }
+}

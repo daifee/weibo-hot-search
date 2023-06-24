@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687592036894,
+  "endTime": 1687594980430,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -145,6 +145,14 @@
       "onboard_time": 1687527706,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9311994,
+      "num": 9311994,
+      "word": "普京指责瓦格纳负责人叛国",
+      "onboard_time": 1687592313,
+      "rank": 0,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 9126946,
@@ -7155,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1045303,
+      "num": 1045303,
+      "word": "普京称所有对抗军队的人都是叛徒",
+      "onboard_time": 1687591593,
+      "rank": 12,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1045000,
       "num": 393158,
       "word": "失业的中年人涌进星巴克",
@@ -7313,6 +7329,14 @@
       "onboard_time": 1686440783,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1029412,
+      "num": 1029412,
+      "word": "王俊凯易烊千玺G社生图",
+      "onboard_time": 1687590391,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1029111,
@@ -7801,14 +7825,6 @@
       "onboard_time": 1685779887,
       "rank": 21,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 976235,
-      "num": 976235,
-      "word": "王俊凯易烊千玺G社生图",
-      "onboard_time": 1687590391,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 976003,
@@ -8385,6 +8401,14 @@
       "onboard_time": 1685853927,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 919974,
+      "num": 919974,
+      "word": "网友问老婆变成文咏珊为什么要报警",
+      "onboard_time": 1687592553,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 919916,
@@ -9707,14 +9731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 806469,
-      "num": 806469,
-      "word": "普京称所有对抗军队的人都是叛徒",
-      "onboard_time": 1687591593,
-      "rank": 12,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 805855,
       "num": 598595,
       "word": "乐华",
@@ -10635,6 +10651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 740592,
+      "num": 740592,
+      "word": "台媒曝黄子佼下个月复工",
+      "onboard_time": 1687592313,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740159,
       "num": 740159,
       "word": "女儿考满分农民工父亲买了只烧鸡庆祝",
@@ -10921,6 +10945,14 @@
       "onboard_time": 1686038847,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 719724,
+      "num": 719724,
+      "word": "给凸嘴女孩改妆",
+      "onboard_time": 1687588952,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 719494,
@@ -11571,6 +11603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670368,
+      "num": 670368,
+      "word": "陈思诚找王暖暖拿授权",
+      "onboard_time": 1687593212,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 669807,
       "num": 185372,
       "word": "顾成 苏艳",
@@ -12161,14 +12201,6 @@
       "onboard_time": 1687097429,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 630878,
-      "num": 416114,
-      "word": "给凸嘴女孩改妆",
-      "onboard_time": 1687588952,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 630746,
@@ -14715,6 +14747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 496193,
+      "num": 496193,
+      "word": "普京称国家需要团结一切力量",
+      "onboard_time": 1687592372,
+      "rank": 21,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 496069,
       "num": 496069,
       "word": "Ahn 搓澡",
@@ -16483,6 +16523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431677,
+      "num": 431677,
+      "word": "秦昊带你去爬山朱一龙带你去看海",
+      "onboard_time": 1687593935,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431663,
       "num": 431663,
       "word": "高校辟谣街拍女子与导师为父女关系",
@@ -16545,6 +16593,14 @@
       "onboard_time": 1685662523,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430238,
+      "num": 430238,
+      "word": "朱珠的盖被基因",
+      "onboard_time": 1687593453,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 430084,
@@ -16841,6 +16897,14 @@
       "onboard_time": 1685600907,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423235,
+      "num": 423235,
+      "word": "黄磊王迅聊初见张艺兴",
+      "onboard_time": 1687593814,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 423100,
@@ -20187,6 +20251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 347938,
+      "num": 347938,
+      "word": "辽宁查分",
+      "onboard_time": 1687594773,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 347822,
       "num": 1229813,
       "word": "收费员多问一句救下一条命",
@@ -22131,6 +22203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314501,
+      "num": 314501,
+      "word": "普京电视讲话要点汇总",
+      "onboard_time": 1687594173,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314491,
       "num": 314491,
       "word": "谭松韵碎花小黑裙",
@@ -23673,6 +23753,14 @@
       "onboard_time": 1685799870,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295468,
+      "num": 295468,
+      "word": "娜扎古装11年前vs11年后",
+      "onboard_time": 1687594715,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 295466,
@@ -25753,6 +25841,14 @@
       "onboard_time": 1686976469,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273312,
+      "num": 273312,
+      "word": "福建高考查分",
+      "onboard_time": 1687591531,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273306,
@@ -30371,6 +30467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237256,
+      "num": 237256,
+      "word": "谢娜听到龚琳娜夸张杰的反应",
+      "onboard_time": 1687593095,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237122,
       "num": 237122,
       "word": "精修泛滥的内娱审美体系",
@@ -32073,6 +32177,14 @@
       "onboard_time": 1685615009,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225897,
+      "num": 235885,
+      "word": "钎城轮换下场",
+      "onboard_time": 1687594593,
+      "rank": 48,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 225863,
@@ -40577,6 +40689,14 @@
       "onboard_time": 1687011271,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 180729,
+      "num": 235821,
+      "word": "萧逸电话",
+      "onboard_time": 1687592492,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 180716,
@@ -51603,6 +51723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108212,
+      "num": 687222,
+      "word": "山洪暴发女子大喊提醒救下多名游客",
+      "onboard_time": 1687593631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108158,
       "num": 108158,
       "word": "14名山西乡村儿童圆梦故宫",
@@ -53577,6 +53705,14 @@
       "onboard_time": 1685607747,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79485,
+      "num": 2162449,
+      "word": "高温热浪防护指南",
+      "onboard_time": 1687578095,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79177,
@@ -56759,14 +56895,6 @@
       "num": 578183,
       "word": "无限画里的童年",
       "onboard_time": 1685633551,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5317,
-      "num": 2162449,
-      "word": "高温热浪防护指南",
-      "onboard_time": 1687578095,
       "rank": 2,
       "category": "社会新闻"
     }
