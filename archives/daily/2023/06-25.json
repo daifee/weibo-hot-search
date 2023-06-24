@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687646157198,
+  "endTime": 1687648735116,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -9,6 +9,14 @@
       "onboard_time": 1687592313,
       "rank": 0,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 2156574,
+      "num": 2156574,
+      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
+      "onboard_time": 1687625783,
+      "rank": 30,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1722617,
@@ -35,12 +43,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1458650,
-      "num": 1458650,
-      "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
-      "onboard_time": 1687625783,
-      "rank": 30,
-      "category": "军事,社会新闻"
+      "raw_hot": 1234000,
+      "num": 367204,
+      "word": "瓦格纳从俄南部军区司令部撤离",
+      "onboard_time": 1687648282,
+      "rank": 10,
+      "category": "军事"
     },
     {
       "raw_hot": 1020730,
@@ -57,6 +65,14 @@
       "onboard_time": 1687616857,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955114,
+      "num": 955114,
+      "word": "瓦格纳同意停止在俄领土上的行动",
+      "onboard_time": 1687648162,
+      "rank": 1,
+      "category": "军事"
     },
     {
       "raw_hot": 814469,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658193,
+      "num": 658193,
+      "word": "家长以为中考管饭送完孩子去郊游",
+      "onboard_time": 1687618302,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623956,
       "num": 623956,
       "word": "河南高考成绩",
@@ -105,6 +129,14 @@
       "onboard_time": 1687614577,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545151,
+      "num": 545151,
+      "word": "绍伊古",
+      "onboard_time": 1687630816,
+      "rank": 41,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 541469,
@@ -179,36 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367271,
+      "num": 367271,
+      "word": "江苏高考687分及以上116人",
+      "onboard_time": 1687643775,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 366542,
+      "num": 366542,
+      "word": "陈思诚透露误杀3和唐探新片进度",
+      "onboard_time": 1687626502,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356636,
       "num": 356636,
       "word": "车臣军队已出发平叛",
       "onboard_time": 1687608030,
       "rank": 22,
       "category": "军事"
-    },
-    {
-      "raw_hot": 352213,
-      "num": 352213,
-      "word": "绍伊古",
-      "onboard_time": 1687630816,
-      "rank": 41,
-      "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 347898,
-      "num": 347898,
-      "word": "家长以为中考管饭送完孩子去郊游",
-      "onboard_time": 1687618302,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329941,
-      "num": 329941,
-      "word": "陈思诚透露误杀3和唐探新片进度",
-      "onboard_time": 1687626502,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 322673,
@@ -249,6 +273,14 @@
       "onboard_time": 1687621473,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292548,
+      "num": 292548,
+      "word": "兰州一企业发生闪爆事故",
+      "onboard_time": 1687626681,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285039,
@@ -323,12 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213057,
-      "num": 213057,
-      "word": "兰州一企业发生闪爆事故",
-      "onboard_time": 1687626681,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 218467,
+      "num": 151212,
+      "word": "内向和外向的小狗太明显了",
+      "onboard_time": 1687647740,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 206517,
+      "num": 206517,
+      "word": "情侣多久不联系算分手",
+      "onboard_time": 1687647802,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 206445,
@@ -395,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183480,
-      "num": 183480,
-      "word": "江苏高考687分及以上116人",
-      "onboard_time": 1687643775,
-      "rank": 17,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 177840,
       "num": 177840,
       "word": "张杰助阵杨和苏首次演唱会",
@@ -443,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156934,
+      "num": 156934,
+      "word": "游客说熊猫花花没脖子花花不满",
+      "onboard_time": 1687646778,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 151658,
       "num": 158188,
       "word": "BLG战胜WBG",
       "onboard_time": 1687617937,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151291,
+      "num": 151291,
+      "word": "雷公儿子靠人脸识别新技术找到",
+      "onboard_time": 1687645456,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 144978,
@@ -475,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95187,
+      "num": 95187,
+      "word": "唐尚珺",
+      "onboard_time": 1687644856,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93687,
       "num": 93687,
       "word": "90后姑娘传承老爸花式包粽法",
@@ -491,28 +547,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 90276,
+      "num": 90276,
+      "word": "网友抓拍到母女共舞爸爸拍摄温馨一幕",
+      "onboard_time": 1687648042,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86722,
+      "num": 86722,
+      "word": "小猫头卡塑料瓶消防员救完说别跑",
+      "onboard_time": 1687647740,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71228,
       "num": 71228,
       "word": "愿高考学子查分时表情都是这样的",
       "onboard_time": 1687627820,
       "rank": 48,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 57077,
-      "num": 57077,
-      "word": "唐尚珺",
-      "onboard_time": 1687644856,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48556,
-      "num": 48556,
-      "word": "雷公儿子靠人脸识别新技术找到",
-      "onboard_time": 1687645456,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 38234,
