@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687594980430,
+  "endTime": 1687595816724,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10059576,
+      "num": 10059576,
+      "word": "普京指责瓦格纳负责人叛国",
+      "onboard_time": 1687592313,
+      "rank": 0,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 10028023,
       "num": 10028023,
       "word": "炎亚纶承认与未成年发生关系",
@@ -73,14 +81,6 @@
       "onboard_time": 1687527706,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 9311994,
-      "num": 9311994,
-      "word": "普京指责瓦格纳负责人叛国",
-      "onboard_time": 1687592313,
-      "rank": 0,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 9126946,
@@ -2323,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 987587,
+      "num": 987587,
+      "word": "网友问老婆变成文咏珊为什么要报警",
+      "onboard_time": 1687592553,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 983044,
       "num": 983044,
       "word": "高考查分遇上端午假期",
@@ -2545,14 +2553,6 @@
       "onboard_time": 1687497755,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 919974,
-      "num": 919974,
-      "word": "网友问老婆变成文咏珊为什么要报警",
-      "onboard_time": 1687592553,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 918293,
@@ -3323,6 +3323,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 712456,
+      "num": 712456,
+      "word": "陈思诚找王暖暖拿授权",
+      "onboard_time": 1687593212,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 712280,
       "num": 578487,
       "word": "银川爆炸烧烤店二楼有KTV包房",
@@ -3457,14 +3465,6 @@
       "onboard_time": 1687219953,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 670368,
-      "num": 670368,
-      "word": "陈思诚找王暖暖拿授权",
-      "onboard_time": 1687593212,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 669284,
@@ -4435,6 +4435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 508530,
+      "num": 508530,
+      "word": "辽宁查分",
+      "onboard_time": 1687594773,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 508504,
       "num": 423298,
       "word": "专家称银川烧烤店店员处理方式有问题",
@@ -4625,6 +4633,14 @@
       "onboard_time": 1687091249,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 491503,
+      "num": 491503,
+      "word": "朱珠的盖被基因",
+      "onboard_time": 1687593453,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 490882,
@@ -4873,6 +4889,22 @@
       "onboard_time": 1687322329,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463626,
+      "num": 463626,
+      "word": "黄磊王迅聊初见张艺兴",
+      "onboard_time": 1687593814,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 462399,
+      "num": 462399,
+      "word": "秦昊带你去爬山朱一龙带你去看海",
+      "onboard_time": 1687593935,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 460130,
@@ -5203,14 +5235,6 @@
       "category": "影视,综艺"
     },
     {
-      "raw_hot": 431677,
-      "num": 431677,
-      "word": "秦昊带你去爬山朱一龙带你去看海",
-      "onboard_time": 1687593935,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 431439,
       "num": 339657,
       "word": "广东揭阳一龙舟侧翻2人死亡",
@@ -5233,14 +5257,6 @@
       "onboard_time": 1687579894,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 430238,
-      "num": 430238,
-      "word": "朱珠的盖被基因",
-      "onboard_time": 1687593453,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 430084,
@@ -5401,14 +5417,6 @@
       "onboard_time": 1687134332,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 423235,
-      "num": 423235,
-      "word": "黄磊王迅聊初见张艺兴",
-      "onboard_time": 1687593814,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 422696,
@@ -5641,6 +5649,14 @@
       "onboard_time": 1687315112,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398736,
+      "num": 398736,
+      "word": "桑稚段嘉许vs依萍书桓",
+      "onboard_time": 1687595316,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 398299,
@@ -6099,6 +6115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366601,
+      "num": 366601,
+      "word": "福建高考分数线",
+      "onboard_time": 1687595316,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 365505,
       "num": 365505,
       "word": "种地吧 美丽浙江",
@@ -6433,14 +6457,6 @@
       "onboard_time": 1687495772,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 347938,
-      "num": 347938,
-      "word": "辽宁查分",
-      "onboard_time": 1687594773,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 347663,
@@ -6931,6 +6947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316355,
+      "num": 316355,
+      "word": "普京电视讲话要点汇总",
+      "onboard_time": 1687594173,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315816,
       "num": 315816,
       "word": "段嘉许KTV唱赵露思的歌",
@@ -6961,14 +6985,6 @@
       "onboard_time": 1687269757,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314501,
-      "num": 314501,
-      "word": "普京电视讲话要点汇总",
-      "onboard_time": 1687594173,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314465,
@@ -7731,6 +7747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284386,
+      "num": 284386,
+      "word": "向主人展示自己的鹦鹉",
+      "onboard_time": 1687595075,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 284189,
       "num": 284189,
       "word": "中餐厅",
@@ -8337,6 +8361,14 @@
       "onboard_time": 1687576654,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263434,
+      "num": 263434,
+      "word": "资助了三年的妹妹考了六百多分",
+      "onboard_time": 1687595673,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 263410,
@@ -9692,7 +9724,7 @@
     },
     {
       "raw_hot": 225897,
-      "num": 235885,
+      "num": 256961,
       "word": "钎城轮换下场",
       "onboard_time": 1687594593,
       "rank": 48,
@@ -11492,7 +11524,7 @@
     },
     {
       "raw_hot": 180729,
-      "num": 235821,
+      "num": 256314,
       "word": "萧逸电话",
       "onboard_time": 1687592492,
       "rank": 49,
@@ -12049,6 +12081,14 @@
       "onboard_time": 1687406491,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166386,
+      "num": 687222,
+      "word": "山洪暴发女子大喊提醒救下多名游客",
+      "onboard_time": 1687593631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166014,
@@ -13307,14 +13347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108212,
-      "num": 687222,
-      "word": "山洪暴发女子大喊提醒救下多名游客",
-      "onboard_time": 1687593631,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104366,
       "num": 1804443,
       "word": "藏在古画里的端午仪式感",
@@ -14259,6 +14291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20913,
+      "num": 265579,
+      "word": "人工智能向尼走来",
+      "onboard_time": 1687595494,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19236,
       "num": 453175,
       "word": "万物皆可粽子",
@@ -14287,6 +14327,14 @@
       "num": 1713407,
       "word": "发现最美铁路",
       "onboard_time": 1687173101,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9368,
+      "num": 1397688,
+      "word": "世界互联网大会数字文明尼山对话",
+      "onboard_time": 1687595673,
       "rank": 2,
       "category": "社会新闻"
     }

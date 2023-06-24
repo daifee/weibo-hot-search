@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 16:23:00
+本榜单时间：2023/06/24 00:25:36 ~ 2023/06/24 16:36:56
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%9B%E5%9B%BD%23" target="weibo">
-普京指责瓦格纳负责人叛国（热度：9311994）
+普京指责瓦格纳负责人叛国（热度：10059576）
 </a>
 </li>
 
@@ -273,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
+网友问老婆变成文咏珊为什么要报警（热度：987587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%B2%A1%E6%8B%BF%E5%A5%96%23" target="weibo">
 狂飙没拿奖（热度：974716）
 </a>
@@ -311,12 +317,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E8%AF%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E6%98%AF%E4%BB%8E%E6%A8%AA%E5%BA%97%E8%A1%97%E4%B8%8A%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
 宁静说赵丽颖也是从横店街上出来的（热度：924484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
-网友问老婆变成文咏珊为什么要报警（热度：919974）
 </a>
 </li>
 
@@ -387,6 +387,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E6%89%BE%E7%8E%8B%E6%9A%96%E6%9A%96%E6%8B%BF%E6%8E%88%E6%9D%83%23" target="weibo">
+陈思诚找王暖暖拿授权（热度：712456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%AE%A2%E4%BA%BA%23" target="weibo">
 消失的她 看不见的客人（热度：708040）
 </a>
@@ -407,12 +413,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E8%80%B3%E6%9C%B5%E9%83%BD%E7%BA%A2%E4%BA%86%23" target="weibo">
 白敬亭宋轶耳朵都红了（热度：675279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E6%89%BE%E7%8E%8B%E6%9A%96%E6%9A%96%E6%8B%BF%E6%8E%88%E6%9D%83%23" target="weibo">
-陈思诚找王暖暖拿授权（热度：670368）
 </a>
 </li>
 
@@ -489,6 +489,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E6%9F%A5%E5%88%86%23" target="weibo">
+辽宁查分（热度：508530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C%23" target="weibo">
 钻石价格大跌（热度：506346）
 </a>
@@ -515,6 +521,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%9B%BD%E5%AE%B6%E9%9C%80%E8%A6%81%E5%9B%A2%E7%BB%93%E4%B8%80%E5%88%87%E5%8A%9B%E9%87%8F%23" target="weibo">
 普京称国家需要团结一切力量（热度：496193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E7%9A%84%E7%9B%96%E8%A2%AB%E5%9F%BA%E5%9B%A0%23" target="weibo">
+朱珠的盖被基因（热度：491503）
 </a>
 </li>
 
@@ -555,26 +567,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E7%8E%8B%E8%BF%85%E8%81%8A%E5%88%9D%E8%A7%81%E5%BC%A0%E8%89%BA%E5%85%B4%23" target="weibo">
+黄磊王迅聊初见张艺兴（热度：463626）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E5%B8%A6%E4%BD%A0%E5%8E%BB%E7%88%AC%E5%B1%B1%E6%9C%B1%E4%B8%80%E9%BE%99%E5%B8%A6%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%B5%B7%23" target="weibo">
+秦昊带你去爬山朱一龙带你去看海（热度：462399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
 天津分数线（热度：455109）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E5%B8%A6%E4%BD%A0%E5%8E%BB%E7%88%AC%E5%B1%B1%E6%9C%B1%E4%B8%80%E9%BE%99%E5%B8%A6%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%B5%B7%23" target="weibo">
-秦昊带你去爬山朱一龙带你去看海（热度：431677）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E8%A1%97%E5%A4%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E6%89%B9%E5%86%9B%E8%BD%A6%23" target="weibo">
 莫斯科街头出现大批军车（热度：430737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E7%9A%84%E7%9B%96%E8%A2%AB%E5%9F%BA%E5%9B%A0%23" target="weibo">
-朱珠的盖被基因（热度：430238）
 </a>
 </li>
 
@@ -605,12 +617,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23eStar%E5%AF%B9%E6%88%98DYG%23" target="weibo">
 eStar对战DYG（热度：425803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E7%8E%8B%E8%BF%85%E8%81%8A%E5%88%9D%E8%A7%81%E5%BC%A0%E8%89%BA%E5%85%B4%23" target="weibo">
-黄磊王迅聊初见张艺兴（热度：423235）
 </a>
 </li>
 
@@ -653,6 +659,12 @@ Angelababy说自己不适合当歌手（热度：415619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%AB%98%E9%80%9F%E9%81%87%E8%BD%A6%E7%A5%B8%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%93%A5%E6%80%A5%E9%80%81%E5%8C%BB%23" target="weibo">
 婴儿高速遇车祸山东大哥急送医（热度：409763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%91%E7%A8%9A%E6%AE%B5%E5%98%89%E8%AE%B8vs%E4%BE%9D%E8%90%8D%E4%B9%A6%E6%A1%93%23" target="weibo">
+桑稚段嘉许vs依萍书桓（热度：398736）
 </a>
 </li>
 
@@ -717,6 +729,12 @@ BKPP（热度：393537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+福建高考分数线（热度：366601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83705%E5%88%86%E8%B7%B3%E8%B5%B7%E5%B0%96%E5%8F%AB%E6%8B%A5%E6%8A%B1%E7%88%B6%E6%AF%8D%23" target="weibo">
 男孩高考705分跳起尖叫拥抱父母（热度：362257）
 </a>
@@ -749,12 +767,6 @@ BKPP（热度：393537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23" target="weibo">
 全国各地高考分数线汇总（热度：350623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E6%9F%A5%E5%88%86%23" target="weibo">
-辽宁查分（热度：347938）
 </a>
 </li>
 
@@ -832,7 +844,7 @@ BKPP（热度：393537）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%94%B5%E8%A7%86%E8%AE%B2%E8%AF%9D%E8%A6%81%E7%82%B9%E6%B1%87%E6%80%BB%23" target="weibo">
-普京电视讲话要点汇总（热度：314501）
+普京电视讲话要点汇总（热度：316355）
 </a>
 </li>
 
@@ -957,6 +969,12 @@ BKPP（热度：393537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%B8%BB%E4%BA%BA%E5%B1%95%E7%A4%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%B9%A6%E9%B9%89%23" target="weibo">
+向主人展示自己的鹦鹉（热度：284386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E7%90%86%E8%8B%8F%E7%94%B5%E8%AF%9D%23" target="weibo">
 查理苏电话（热度：282678）
 </a>
@@ -995,6 +1013,12 @@ BKPP（热度：393537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%90%B1%E8%90%B1%E6%96%B0%E5%A9%9A%E4%B8%8D%E5%A6%82%E4%B8%A7%E5%81%B6%23" target="weibo">
 陈萱萱新婚不如丧偶（热度：263767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%89%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E8%80%83%E4%BA%86%E5%85%AD%E7%99%BE%E5%A4%9A%E5%88%86%23" target="weibo">
+资助了三年的妹妹考了六百多分（热度：263434）
 </a>
 </li>
 
@@ -1179,6 +1203,12 @@ AI绘画给人类带来的变化（热度：171248）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B4%AA%E6%9A%B4%E5%8F%91%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E6%8F%90%E9%86%92%E6%95%91%E4%B8%8B%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%23" target="weibo">
+山洪暴发女子大喊提醒救下多名游客（热度：166386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A2%A7%E5%B3%B0%E5%B3%A1%23" target="weibo">
 碧峰峡（热度：150742）
 </a>
@@ -1223,12 +1253,6 @@ Tian（热度：141741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E5%A4%A7%E5%8F%98%E6%B4%BB%E5%A6%BB%23" target="weibo">
 消失的她 大变活妻（热度：129555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B4%AA%E6%9A%B4%E5%8F%91%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E6%8F%90%E9%86%92%E6%95%91%E4%B8%8B%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%23" target="weibo">
-山洪暴发女子大喊提醒救下多名游客（热度：108212）
 </a>
 </li>
 
@@ -1295,6 +1319,18 @@ Tian（热度：141741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%87%E5%88%B0%E7%87%83%E6%B0%94%E6%B3%84%E6%BC%8F%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23" target="weibo">
 遇到燃气泄漏应该如何处理（热度：38266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%91%E5%B0%BC%E8%B5%B0%E6%9D%A5%23" target="weibo">
+人工智能向尼走来（热度：20913）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23" target="weibo">
+世界互联网大会数字文明尼山对话（热度：9368）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1687537536319,
-  "endTime": 1687594980430,
+  "endTime": 1687595816724,
   "band_list": [
     {
-      "raw_hot": 9311994,
-      "num": 9311994,
+      "raw_hot": 10059576,
+      "num": 10059576,
       "word": "普京指责瓦格纳负责人叛国",
       "onboard_time": 1687592313,
       "rank": 0,
@@ -347,6 +347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 987587,
+      "num": 987587,
+      "word": "网友问老婆变成文咏珊为什么要报警",
+      "onboard_time": 1687592553,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 974716,
       "num": 974716,
       "word": "狂飙没拿奖",
@@ -401,14 +409,6 @@
       "onboard_time": 1687575396,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 919974,
-      "num": 919974,
-      "word": "网友问老婆变成文咏珊为什么要报警",
-      "onboard_time": 1687592553,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 882806,
@@ -499,6 +499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 712456,
+      "num": 712456,
+      "word": "陈思诚找王暖暖拿授权",
+      "onboard_time": 1687593212,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708040,
       "num": 296232,
       "word": "消失的她 看不见的客人",
@@ -528,14 +536,6 @@
       "word": "白敬亭宋轶耳朵都红了",
       "onboard_time": 1687526982,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 670368,
-      "num": 670368,
-      "word": "陈思诚找王暖暖拿授权",
-      "onboard_time": 1687593212,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508530,
+      "num": 508530,
+      "word": "辽宁查分",
+      "onboard_time": 1687594773,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 506346,
       "num": 506346,
       "word": "钻石价格大跌",
@@ -673,6 +681,14 @@
       "onboard_time": 1687592372,
       "rank": 21,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 491503,
+      "num": 491503,
+      "word": "朱珠的盖被基因",
+      "onboard_time": 1687593453,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 484755,
@@ -723,6 +739,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 463626,
+      "num": 463626,
+      "word": "黄磊王迅聊初见张艺兴",
+      "onboard_time": 1687593814,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 462399,
+      "num": 462399,
+      "word": "秦昊带你去爬山朱一龙带你去看海",
+      "onboard_time": 1687593935,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455109,
       "num": 455109,
       "word": "天津分数线",
@@ -731,28 +763,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 431677,
-      "num": 431677,
-      "word": "秦昊带你去爬山朱一龙带你去看海",
-      "onboard_time": 1687593935,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 430737,
       "num": 412447,
       "word": "莫斯科街头出现大批军车",
       "onboard_time": 1687579894,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 430238,
-      "num": 430238,
-      "word": "朱珠的盖被基因",
-      "onboard_time": 1687593453,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 430084,
@@ -793,14 +809,6 @@
       "onboard_time": 1687590813,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 423235,
-      "num": 423235,
-      "word": "黄磊王迅聊初见张艺兴",
-      "onboard_time": 1687593814,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 418147,
@@ -857,6 +865,14 @@
       "onboard_time": 1687537592,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398736,
+      "num": 398736,
+      "word": "桑稚段嘉许vs依萍书桓",
+      "onboard_time": 1687595316,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 393537,
@@ -939,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366601,
+      "num": 366601,
+      "word": "福建高考分数线",
+      "onboard_time": 1687595316,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 362257,
       "num": 378347,
       "word": "男孩高考705分跳起尖叫拥抱父母",
@@ -985,14 +1009,6 @@
       "onboard_time": 1687528786,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347938,
-      "num": 347938,
-      "word": "辽宁查分",
-      "onboard_time": 1687594773,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 346705,
@@ -1091,8 +1107,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314501,
-      "num": 314501,
+      "raw_hot": 316355,
+      "num": 316355,
       "word": "普京电视讲话要点汇总",
       "onboard_time": 1687594173,
       "rank": 38,
@@ -1259,6 +1275,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 284386,
+      "num": 284386,
+      "word": "向主人展示自己的鹦鹉",
+      "onboard_time": 1687595075,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 282678,
       "num": 282678,
       "word": "查理苏电话",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1687576654,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263434,
+      "num": 263434,
+      "word": "资助了三年的妹妹考了六百多分",
+      "onboard_time": 1687595673,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 262790,
@@ -1452,7 +1484,7 @@
     },
     {
       "raw_hot": 225897,
-      "num": 235885,
+      "num": 256961,
       "word": "钎城轮换下场",
       "onboard_time": 1687594593,
       "rank": 48,
@@ -1532,7 +1564,7 @@
     },
     {
       "raw_hot": 180729,
-      "num": 235821,
+      "num": 256314,
       "word": "萧逸电话",
       "onboard_time": 1687592492,
       "rank": 49,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1687535258,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 166386,
+      "num": 687222,
+      "word": "山洪暴发女子大喊提醒救下多名游客",
+      "onboard_time": 1687593631,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150742,
@@ -1617,14 +1657,6 @@
       "onboard_time": 1687543638,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108212,
-      "num": 687222,
-      "word": "山洪暴发女子大喊提醒救下多名游客",
-      "onboard_time": 1687593631,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107577,
@@ -1711,6 +1743,22 @@
       "num": 1814667,
       "word": "遇到燃气泄漏应该如何处理",
       "onboard_time": 1687508671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20913,
+      "num": 265579,
+      "word": "人工智能向尼走来",
+      "onboard_time": 1687595494,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9368,
+      "num": 1397688,
+      "word": "世界互联网大会数字文明尼山对话",
+      "onboard_time": 1687595673,
       "rank": 2,
       "category": "社会新闻"
     }
