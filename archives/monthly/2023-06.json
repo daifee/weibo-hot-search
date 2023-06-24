@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687619926908,
+  "endTime": 1687620835980,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -5315,6 +5315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1294621,
+      "num": 1196229,
+      "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
+      "onboard_time": 1687616315,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1294356,
       "num": 1294356,
       "word": "88斤女生穿不进去S码牛仔裙",
@@ -6049,14 +6057,6 @@
       "onboard_time": 1686411031,
       "rank": 47,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1196229,
-      "num": 1196229,
-      "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
-      "onboard_time": 1687616315,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1195952,
@@ -10539,6 +10539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 767584,
+      "num": 767584,
+      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+      "onboard_time": 1687609650,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 767234,
       "num": 767234,
       "word": "圣枪哥确认Uzi在EDG基地",
@@ -10987,14 +10995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 734025,
-      "num": 734025,
-      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
-      "onboard_time": 1687609650,
-      "rank": 13,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 732991,
       "num": 622519,
       "word": "初会",
@@ -11033,6 +11033,14 @@
       "onboard_time": 1686126453,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728757,
+      "num": 728757,
+      "word": "TheShy",
+      "onboard_time": 1687619197,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 728442,
@@ -12627,6 +12635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 623124,
+      "num": 623124,
+      "word": "在俄华人讲述俄罗斯各地现状",
+      "onboard_time": 1687616857,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622841,
       "num": 449093,
       "word": "张小狮说愿意归还所有资助",
@@ -13235,12 +13251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 584139,
-      "num": 584139,
-      "word": "TheShy",
-      "onboard_time": 1687619197,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 584236,
+      "num": 584236,
+      "word": "白敬亭宋轶脸颊比心",
+      "onboard_time": 1687617576,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 583314,
@@ -13440,14 +13456,6 @@
       "word": "鞠婧祎反手一个大比兜",
       "onboard_time": 1685674767,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 573478,
-      "num": 573478,
-      "word": "白敬亭宋轶脸颊比心",
-      "onboard_time": 1687617576,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -15299,6 +15307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493344,
+      "num": 462226,
+      "word": "王嘉尔陪庆怜纹身",
+      "onboard_time": 1687617216,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492820,
       "num": 416977,
       "word": "徐怀钰 东亚偶像体系",
@@ -15313,14 +15329,6 @@
       "onboard_time": 1685937570,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 491962,
-      "num": 491962,
-      "word": "在俄华人讲述俄罗斯各地现状",
-      "onboard_time": 1687616857,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491503,
@@ -15393,6 +15401,14 @@
       "onboard_time": 1687135350,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 489786,
+      "num": 489786,
+      "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
+      "onboard_time": 1687619558,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489324,
@@ -15785,14 +15801,6 @@
       "onboard_time": 1685937151,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476381,
-      "num": 476381,
-      "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
-      "onboard_time": 1687619558,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475626,
@@ -16609,6 +16617,14 @@
       "onboard_time": 1687530408,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 446502,
+      "num": 446502,
+      "word": "禁毒警拍家庭合照时下意识背过身",
+      "onboard_time": 1687617998,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446437,
@@ -17857,14 +17873,6 @@
       "onboard_time": 1685762910,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412035,
-      "num": 412035,
-      "word": "王嘉尔陪庆怜纹身",
-      "onboard_time": 1687617216,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 411836,
@@ -21107,6 +21115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344657,
+      "num": 344657,
+      "word": "张远录制披荆斩棘的哥哥",
+      "onboard_time": 1687618600,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344433,
       "num": 209711,
       "word": "微博电影之夜奖项",
@@ -22507,6 +22523,14 @@
       "category": "网红,游戏"
     },
     {
+      "raw_hot": 321699,
+      "num": 321699,
+      "word": "梁家辉说自己保持活力全靠吃虫",
+      "onboard_time": 1687619676,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321595,
       "num": 280842,
       "word": "公司说不养没用的人",
@@ -22643,6 +22667,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 318706,
+      "num": 318706,
+      "word": "白敬亭的眼泪像断了线的珍珠",
+      "onboard_time": 1687619438,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318686,
       "num": 318686,
       "word": "乘风选人规律不是0就是1",
@@ -22712,14 +22744,6 @@
       "word": "谭松韵丁禹兮 蜀锦人家",
       "onboard_time": 1685851588,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 317336,
-      "num": 317336,
-      "word": "白敬亭的眼泪像断了线的珍珠",
-      "onboard_time": 1687619438,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -22809,14 +22833,6 @@
       "onboard_time": 1686201214,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 315908,
-      "num": 315908,
-      "word": "禁毒警拍家庭合照时下意识背过身",
-      "onboard_time": 1687617998,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315822,
@@ -23001,6 +23017,14 @@
       "onboard_time": 1685746998,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 314005,
+      "num": 314005,
+      "word": "这不就是现实版刘星",
+      "onboard_time": 1687619676,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 313953,
@@ -23683,14 +23707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305520,
-      "num": 305520,
-      "word": "张远录制披荆斩棘的哥哥",
-      "onboard_time": 1687618600,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305155,
       "num": 305155,
       "word": "许光汉终于和张钧甯合作了",
@@ -24011,6 +24027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301635,
+      "num": 301635,
+      "word": "河南高考成绩",
+      "onboard_time": 1687617517,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 301462,
       "num": 301462,
       "word": "阿根廷vs澳大利亚首发",
@@ -24177,14 +24201,6 @@
       "onboard_time": 1685764348,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 299248,
-      "num": 299248,
-      "word": "河南高考成绩",
-      "onboard_time": 1687617517,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299069,
@@ -26105,14 +26121,6 @@
       "onboard_time": 1685627972,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278428,
-      "num": 278428,
-      "word": "这不就是现实版刘星",
-      "onboard_time": 1687619676,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 278425,
@@ -29523,14 +29531,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 250360,
-      "num": 250360,
-      "word": "梁家辉说自己保持活力全靠吃虫",
-      "onboard_time": 1687619676,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250242,
       "num": 250242,
       "word": "蔡徐坤在车内摘口罩送飞吻",
@@ -29632,6 +29632,14 @@
       "word": "染头发染出凶案现场",
       "onboard_time": 1687271014,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 249761,
+      "num": 249761,
+      "word": "密室爆笑名场面",
+      "onboard_time": 1687620757,
+      "rank": 45,
       "category": "幽默"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687619926908,
+  "endTime": 1687620835980,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -1715,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1294621,
+      "num": 1196229,
+      "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
+      "onboard_time": 1687616315,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1293958,
       "num": 1293958,
       "word": "大四男生实习薪资1万4妈妈仰天大笑",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1687601133,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1196229,
-      "num": 1196229,
-      "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
-      "onboard_time": 1687616315,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1181622,
@@ -3323,6 +3323,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 767584,
+      "num": 767584,
+      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
+      "onboard_time": 1687609650,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 766908,
       "num": 766908,
       "word": "川大对张某的调查显得失焦且碎片化",
@@ -3443,14 +3451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 734025,
-      "num": 734025,
-      "word": "俄罗斯对瓦格纳组织创始人刑事立案",
-      "onboard_time": 1687609650,
-      "rank": 13,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 732798,
       "num": 365912,
       "word": "公司裁员把HR裁崩溃了",
@@ -3465,6 +3465,14 @@
       "onboard_time": 1687504651,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728757,
+      "num": 728757,
+      "word": "TheShy",
+      "onboard_time": 1687619197,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 726048,
@@ -4003,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 623124,
+      "num": 623124,
+      "word": "在俄华人讲述俄罗斯各地现状",
+      "onboard_time": 1687616857,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621210,
       "num": 621210,
       "word": "Jennie金泰亨都去看了火星哥演唱会",
@@ -4195,12 +4211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 584139,
-      "num": 584139,
-      "word": "TheShy",
-      "onboard_time": 1687619197,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 584236,
+      "num": 584236,
+      "word": "白敬亭宋轶脸颊比心",
+      "onboard_time": 1687617576,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 583314,
@@ -4265,14 +4281,6 @@
       "onboard_time": 1687161707,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 573478,
-      "num": 573478,
-      "word": "白敬亭宋轶脸颊比心",
-      "onboard_time": 1687617576,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 572245,
@@ -5043,12 +5051,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 491962,
-      "num": 491962,
-      "word": "在俄华人讲述俄罗斯各地现状",
-      "onboard_time": 1687616857,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 493344,
+      "num": 462226,
+      "word": "王嘉尔陪庆怜纹身",
+      "onboard_time": 1687617216,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 491959,
@@ -5089,6 +5097,14 @@
       "onboard_time": 1687135350,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 489786,
+      "num": 489786,
+      "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
+      "onboard_time": 1687619558,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488821,
@@ -5209,14 +5225,6 @@
       "onboard_time": 1687442377,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 476381,
-      "num": 476381,
-      "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
-      "onboard_time": 1687619558,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474916,
@@ -5561,6 +5569,14 @@
       "onboard_time": 1687530408,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 446502,
+      "num": 446502,
+      "word": "禁毒警拍家庭合照时下意识背过身",
+      "onboard_time": 1687617998,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446437,
@@ -6081,14 +6097,6 @@
       "onboard_time": 1687610493,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412035,
-      "num": 412035,
-      "word": "王嘉尔陪庆怜纹身",
-      "onboard_time": 1687617216,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 410379,
@@ -7179,6 +7187,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 344657,
+      "num": 344657,
+      "word": "张远录制披荆斩棘的哥哥",
+      "onboard_time": 1687618600,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344366,
       "num": 402486,
       "word": "你是一具受潮的木乃伊",
@@ -7531,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321699,
+      "num": 321699,
+      "word": "梁家辉说自己保持活力全靠吃虫",
+      "onboard_time": 1687619676,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321595,
       "num": 280842,
       "word": "公司说不养没用的人",
@@ -7587,6 +7611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318706,
+      "num": 318706,
+      "word": "白敬亭的眼泪像断了线的珍珠",
+      "onboard_time": 1687619438,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318686,
       "num": 318686,
       "word": "乘风选人规律不是0就是1",
@@ -7601,14 +7633,6 @@
       "onboard_time": 1687187801,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317336,
-      "num": 317336,
-      "word": "白敬亭的眼泪像断了线的珍珠",
-      "onboard_time": 1687619438,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 317227,
@@ -7640,14 +7664,6 @@
       "word": "普京电视讲话要点汇总",
       "onboard_time": 1687594173,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315908,
-      "num": 315908,
-      "word": "禁毒警拍家庭合照时下意识背过身",
-      "onboard_time": 1687617998,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -7705,6 +7721,14 @@
       "onboard_time": 1687588649,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314005,
+      "num": 314005,
+      "word": "这不就是现实版刘星",
+      "onboard_time": 1687619676,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 313852,
@@ -7923,14 +7947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305520,
-      "num": 305520,
-      "word": "张远录制披荆斩棘的哥哥",
-      "onboard_time": 1687618600,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304253,
       "num": 304253,
       "word": "健将",
@@ -8035,6 +8051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301635,
+      "num": 301635,
+      "word": "河南高考成绩",
+      "onboard_time": 1687617517,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 301369,
       "num": 894628,
       "word": "原神 Keep",
@@ -8089,14 +8113,6 @@
       "onboard_time": 1687435352,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299248,
-      "num": 299248,
-      "word": "河南高考成绩",
-      "onboard_time": 1687617517,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299069,
@@ -8657,14 +8673,6 @@
       "onboard_time": 1687587693,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278428,
-      "num": 278428,
-      "word": "这不就是现实版刘星",
-      "onboard_time": 1687619676,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 278425,
@@ -9611,14 +9619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 250360,
-      "num": 250360,
-      "word": "梁家辉说自己保持活力全靠吃虫",
-      "onboard_time": 1687619676,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250242,
       "num": 250242,
       "word": "蔡徐坤在车内摘口罩送飞吻",
@@ -9672,6 +9672,14 @@
       "word": "染头发染出凶案现场",
       "onboard_time": 1687271014,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 249761,
+      "num": 249761,
+      "word": "密室爆笑名场面",
+      "onboard_time": 1687620757,
+      "rank": 45,
       "category": "幽默"
     },
     {
