@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687718243196,
+  "endTime": 1687720523159,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -59907,6 +59907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 29788,
+      "num": 29788,
+      "word": "王鹤棣小型演唱会",
+      "onboard_time": 1687719074,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29582,
       "num": 33570,
       "word": "北京中考",
@@ -59945,6 +59953,14 @@
       "onboard_time": 1686976651,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27890,
+      "num": 27890,
+      "word": "浙江高考分数",
+      "onboard_time": 1687719614,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 27760,

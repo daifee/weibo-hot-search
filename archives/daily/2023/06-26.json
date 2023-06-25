@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687718243196,
+  "endTime": 1687720523159,
   "band_list": [
     {
       "raw_hot": 2168711,
@@ -473,6 +473,30 @@
       "onboard_time": 1687714999,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29788,
+      "num": 29788,
+      "word": "王鹤棣小型演唱会",
+      "onboard_time": 1687719074,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27890,
+      "num": 27890,
+      "word": "浙江高考分数",
+      "onboard_time": 1687719614,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 25021,
+      "num": 25021,
+      "word": "高考查分",
+      "onboard_time": 1687568133,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 4217,
