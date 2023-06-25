@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687721624841,
+  "endTime": 1687724389094,
   "band_list": [
     {
       "raw_hot": 2168711,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38181,
+      "num": 38181,
+      "word": "高考查分",
+      "onboard_time": 1687568133,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 37279,
       "num": 37279,
       "word": "健将plus 说唱界的父亲的葬礼",
@@ -489,14 +497,6 @@
       "onboard_time": 1687719614,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 25021,
-      "num": 25021,
-      "word": "高考查分",
-      "onboard_time": 1687568133,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 20294,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/26 00:24:04 ~ 2023/06/26 03:33:44
+本榜单时间：2023/06/26 00:24:04 ~ 2023/06/26 04:19:49
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ iG战胜LNG（热度：45760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23" target="weibo">
+高考查分（热度：38181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%B0%86plus%20%E8%AF%B4%E5%94%B1%E7%95%8C%E7%9A%84%E7%88%B6%E4%BA%B2%E7%9A%84%E8%91%AC%E7%A4%BC%23" target="weibo">
 健将plus 说唱界的父亲的葬礼（热度：37279）
 </a>
@@ -377,12 +383,6 @@ iG战胜LNG（热度：45760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23" target="weibo">
 浙江高考分数（热度：27890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23" target="weibo">
-高考查分（热度：25021）
 </a>
 </li>
 
