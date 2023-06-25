@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/25 00:24:19 ~ 2023/06/25 13:35:45
+本榜单时间：2023/06/25 00:24:19 ~ 2023/06/25 14:24:34
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23" target="weibo">
+学生高考成绩被屏蔽老师激动欢呼（热度：1741073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 关晓彤去了鹿晗的演唱会（热度：1722617）
 </a>
@@ -99,12 +105,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23" target="weibo">
-学生高考成绩被屏蔽老师激动欢呼（热度：1679034）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
 2023广东高考分数线（热度：1645828）
 </a>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
 白俄罗斯（热度：1596557）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23" target="weibo">
+711分考生妈妈建议家长不要把全部精力投入孩子（热度：1572827）
 </a>
 </li>
 
@@ -165,6 +171,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D%23" target="weibo">
+李雪琴是艺名（热度：1214658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8E%9F%E5%9E%8B%23" target="weibo">
 消失的她原型（热度：1073157）
 </a>
@@ -197,6 +209,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E8%80%83%E7%AE%A1%E9%A5%AD%E9%80%81%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%83%8A%E6%B8%B8%23" target="weibo">
 家长以为中考管饭送完孩子去郊游（热度：857543）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
+浙江高考成绩（热度：836981）
 </a>
 </li>
 
@@ -279,6 +297,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99%23" target="weibo">
+杀害蔡晓东的凶手已被击毙（热度：642193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83694%E5%88%86%E5%A6%88%E5%A6%88%E6%BF%80%E5%8A%A8%E5%8F%AB%E5%87%BA%E6%B5%B7%E8%B1%9A%E9%9F%B3%23" target="weibo">
 男生考694分妈妈激动叫出海豚音（热度：636560）
 </a>
@@ -309,6 +333,12 @@ TheShy（热度：602794）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E5%A5%B3%E6%9F%A5%E5%88%86610%E5%B0%8F%E5%A7%A8%E5%A5%94%E5%90%91%E5%8D%A7%E5%AE%A4%E8%B7%91%E9%A3%9E%E9%9E%8B%23" target="weibo">
+外甥女查分610小姨奔向卧室跑飞鞋（热度：575006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D31%E6%AD%BB%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%85%AC%E5%B8%83%23" target="weibo">
 银川31死爆炸事故原因公布（热度：550424）
 </a>
@@ -317,6 +347,18 @@ TheShy（热度：602794）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8D%E4%BC%8A%E5%8F%A4%23" target="weibo">
 绍伊古（热度：545151）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91%E7%9A%84%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%84%BF%E5%AD%90%E8%80%83%E4%BA%86470%E5%88%86%23" target="weibo">
+感动全网的环卫工儿子考了470分（热度：544890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E7%BA%BF%E5%B0%B1%E5%BD%95%E5%8F%96%E7%9A%84133%E6%89%80%E5%A4%A7%E5%AD%A6%23" target="weibo">
+过线就录取的133所大学（热度：534884）
 </a>
 </li>
 
@@ -369,14 +411,14 @@ TheShy（热度：602794）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E8%94%A1%E6%99%93%E4%B8%9C%E7%9A%84%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99%23" target="weibo">
-杀害蔡晓东的凶手已被击毙（热度：472464）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23" target="weibo">
+消失的她（热度：471775）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23" target="weibo">
-消失的她（热度：471775）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E8%A8%80%E5%87%BA%E6%B3%95%E9%9A%8F%23" target="weibo">
+黄子弘凡 言出法随（热度：467753）
 </a>
 </li>
 
@@ -471,6 +513,12 @@ TheShy（热度：602794）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+山东高考分数线（热度：381314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%23" target="weibo">
 披荆斩棘的哥哥（热度：379082）
 </a>
@@ -507,12 +555,6 @@ TheShy（热度：602794）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%98%AF%E8%89%BA%E5%90%8D%23" target="weibo">
-李雪琴是艺名（热度：348548）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23" target="weibo">
 王栎鑫披荆斩棘（热度：346456）
 </a>
@@ -527,12 +569,6 @@ TheShy（热度：602794）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E7%A2%B0%E5%88%B0%E4%B8%89%E4%BD%8D%E5%A4%A7%E5%93%A5%E5%9C%A8%E5%90%83%E9%85%92%E5%B8%AD%23" target="weibo">
 高铁上碰到三位大哥在吃酒席（热度：337765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-山东高考分数线（热度：326689）
 </a>
 </li>
 
@@ -586,7 +622,7 @@ TheShy（热度：602794）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%9D%E6%B8%9D%E7%94%B7%E4%BA%BA%E6%88%98%E8%A2%8D%23" target="weibo">
-王俊凯川渝男人战袍（热度：306509）
+王俊凯川渝男人战袍（热度：307047）
 </a>
 </li>
 
@@ -677,6 +713,12 @@ KPOP世巡演唱会收入TOP4的组合（热度：277697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E4%B9%B0%E4%BA%86100%E6%96%A4%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 大学四年买了100斤的衣服（热度：275863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%81%B6%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E6%89%87%E8%84%B8%E8%B8%A2%E8%B8%B9%E5%90%8E%E7%94%9F%E6%B0%94%E8%B8%A2%E5%80%92%E7%94%B7%E5%AD%A9%23" target="weibo">
+人偶被熊孩子扇脸踢踹后生气踢倒男孩（热度：273480）
 </a>
 </li>
 
@@ -939,12 +981,6 @@ KPOP世巡演唱会收入TOP4的组合（热度：277697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%94%A5%E5%A5%B3%E6%9F%A5%E5%88%86610%E5%B0%8F%E5%A7%A8%E5%A5%94%E5%90%91%E5%8D%A7%E5%AE%A4%E8%B7%91%E9%A3%9E%E9%9E%8B%23" target="weibo">
-外甥女查分610小姨奔向卧室跑飞鞋（热度：182568）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E6%A8%A1%E6%A0%B7%E5%8A%A8%E7%89%A9%E9%97%AF%E5%9C%B0%E4%B8%8B%E5%AE%A4%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E4%BF%9D%E6%8A%A4%E5%8A%A8%E7%89%A9%23" target="weibo">
 怪模样动物闯地下室一查竟是保护动物（热度：179635）
 </a>
@@ -981,8 +1017,20 @@ KPOP世巡演唱会收入TOP4的组合（热度：277697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E5%8F%82%E5%8A%A0%E7%8F%AD%E7%BA%A7%E8%88%9E%E4%BC%9A%23" target="weibo">
+黄多多参加班级舞会（热度：166856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%93%E6%8B%8D%E5%88%B0%E6%AF%8D%E5%A5%B3%E5%85%B1%E8%88%9E%E7%88%B8%E7%88%B8%E6%8B%8D%E6%91%84%E6%B8%A9%E9%A6%A8%E4%B8%80%E5%B9%95%23" target="weibo">
 网友抓拍到母女共舞爸爸拍摄温馨一幕（热度：162338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E5%B8%88%E5%82%85%E8%A2%AB%E5%90%93%E8%A3%82%E4%BA%86%23" target="weibo">
+司机师傅被吓裂了（热度：161415）
 </a>
 </li>
 
@@ -1023,6 +1071,12 @@ WBG失误（热度：140441）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%B7%A5%E4%BD%9C%E8%84%B8%E7%9A%AE%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%9A%23" target="weibo">
+找工作脸皮一定要厚（热度：135633）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%BC%94%E6%8A%80%E7%9A%84%E6%B5%81%E9%87%8F%E6%98%8E%E6%98%9F%23" target="weibo">
 有演技的流量明星（热度：129847）
 </a>
@@ -1031,6 +1085,12 @@ WBG失误（热度：140441）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%90%8A%E5%B8%A6%E8%83%8C%E5%BF%83%E7%89%9B%E4%BB%94%E8%A3%99%23" target="weibo">
 Angelababy吊带背心牛仔裙（热度：118319）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83%23" target="weibo">
+2023山东高考成绩公布（热度：118059）
 </a>
 </li>
 
@@ -1079,6 +1139,18 @@ Angelababy吊带背心牛仔裙（热度：118319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%E6%9F%A5%E5%88%86%E6%97%B6%E8%A1%A8%E6%83%85%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
 愿高考学子查分时表情都是这样的（热度：71228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RW%E5%AF%B9%E6%88%98XYG%23" target="weibo">
+RW对战XYG（热度：69969）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E7%94%9F%E8%B6%85%E9%A2%84%E6%9C%9F40%E5%88%86%E5%91%90%E5%96%8A%E5%90%91%E5%A6%88%E5%A6%88%E6%8A%A5%E5%96%9C%23" target="weibo">
+体育生超预期40分呐喊向妈妈报喜（热度：52925）
 </a>
 </li>
 
@@ -1151,6 +1223,12 @@ Angelababy吊带背心牛仔裙（热度：118319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23130%E7%A7%92%E9%A3%9E%E9%98%85%E7%A5%96%E5%9B%BD%E7%9B%9B%E5%A4%8F%E4%B9%8B%E7%BE%8E%23%23" target="weibo">
 #130秒飞阅祖国盛夏之美#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%8A%E5%A4%A9%E5%85%A8%E5%9B%BD%E5%9C%9F%E5%9C%B0%E6%97%A5%23%23" target="weibo">
+#今天全国土地日#
 </a>
 </li>
 

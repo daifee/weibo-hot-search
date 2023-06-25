@@ -1,0 +1,410 @@
+{
+  "runTime": 1687674274362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1986523,
+        "num": 1986523,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1741073,
+        "num": 1741073,
+        "word": "学生高考成绩被屏蔽老师激动欢呼",
+        "onboard_time": 1687666477,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 67471,
+        "num": 888970,
+        "word": "2023高考志愿填报10问10答",
+        "onboard_time": 1687667676,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836981,
+        "num": 836981,
+        "word": "浙江高考成绩",
+        "onboard_time": 1687672714,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 830315,
+        "num": 830315,
+        "word": "儿子考了675分父亲弹射冲下楼",
+        "onboard_time": 1687667318,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 722815,
+        "num": 722815,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 575006,
+        "num": 575006,
+        "word": "外甥女查分610小姨奔向卧室跑飞鞋",
+        "onboard_time": 1687671214,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544890,
+        "num": 544890,
+        "word": "感动全网的环卫工儿子考了470分",
+        "onboard_time": 1687673373,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 396816,
+        "num": 396816,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 381314,
+        "num": 381314,
+        "word": "山东高考分数线",
+        "onboard_time": 1687667979,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1572827,
+        "num": 368350,
+        "word": "711分考生妈妈建议家长不要把全部精力投入孩子",
+        "onboard_time": 1687671574,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1214658,
+        "num": 353383,
+        "word": "李雪琴是艺名",
+        "onboard_time": 1687670615,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642193,
+        "num": 346397,
+        "word": "杀害蔡晓东的凶手已被击毙",
+        "onboard_time": 1687669958,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432868,
+        "num": 319737,
+        "word": "太辜负这张理科脸了",
+        "onboard_time": 1687661851,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52925,
+        "num": 307274,
+        "word": "体育生超预期40分呐喊向妈妈报喜",
+        "onboard_time": 1687672829,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407857,
+        "num": 300826,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389210,
+        "num": 288492,
+        "word": "普京感谢卢卡申科",
+        "onboard_time": 1687656993,
+        "rank": 16,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 273480,
+        "num": 273480,
+        "word": "人偶被熊孩子扇脸踢踹后生气踢倒男孩",
+        "onboard_time": 1687673193,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247320,
+        "num": 247320,
+        "word": "新华书店才是隐藏的终极大佬",
+        "onboard_time": 1687652430,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243791,
+        "num": 243791,
+        "word": "杨颖和朋友聚会前后反差",
+        "onboard_time": 1687660351,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1384845,
+        "num": 243750,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1157030,
+        "num": 242689,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579774,
+        "num": 241734,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 375306,
+        "num": 240496,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307047,
+        "num": 239458,
+        "word": "王俊凯川渝男人战袍",
+        "onboard_time": 1687669835,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467753,
+        "num": 238410,
+        "word": "黄子弘凡 言出法随",
+        "onboard_time": 1687673373,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287005,
+        "num": 237586,
+        "word": "女孩充电被电击内脏受损面临截肢",
+        "onboard_time": 1687650928,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237225,
+        "num": 237225,
+        "word": "准婆婆是接生自己的护士",
+        "onboard_time": 1687667979,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 226468,
+        "num": 226468,
+        "word": "桃花坞",
+        "onboard_time": 1687668275,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207993,
+        "num": 207993,
+        "word": "河南高考600分及以上26375人",
+        "onboard_time": 1687664675,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 534884,
+        "num": 207824,
+        "word": "过线就录取的133所大学",
+        "onboard_time": 1687673013,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 207232,
+        "num": 207232,
+        "word": "男子每天1斤杨梅狂吃20天要做血透",
+        "onboard_time": 1687650387,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198949,
+        "num": 198949,
+        "word": "调休",
+        "onboard_time": 1687656091,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179961,
+        "num": 179961,
+        "word": "隔周双休凑长假可行吗",
+        "onboard_time": 1687669897,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 178394,
+        "num": 178394,
+        "word": "瓦格纳从俄南部军区司令部撤离",
+        "onboard_time": 1687648282,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 174271,
+        "num": 174271,
+        "word": "如何看待发朋友圈带定位的人",
+        "onboard_time": 1687661372,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172726,
+        "num": 172726,
+        "word": "披荆斩棘3名单",
+        "onboard_time": 1687661492,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169139,
+        "num": 169139,
+        "word": "男生考694分妈妈激动叫出海豚音",
+        "onboard_time": 1687662273,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 166856,
+        "num": 166856,
+        "word": "黄多多参加班级舞会",
+        "onboard_time": 1687674091,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 163831,
+        "num": 163831,
+        "word": "湖南分数线",
+        "onboard_time": 1687661851,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163139,
+        "num": 163139,
+        "word": "国务院成立宁夏银川烧烤店爆炸事故调查组",
+        "onboard_time": 1687668519,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 161415,
+        "num": 161415,
+        "word": "司机师傅被吓裂了",
+        "onboard_time": 1687669599,
+        "rank": 41,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 160800,
+        "num": 160800,
+        "word": "2023广东高考分数线",
+        "onboard_time": 1687661969,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138348,
+        "num": 159891,
+        "word": "鹿晗演唱会散场后没有垃圾",
+        "onboard_time": 1687653572,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135633,
+        "num": 157898,
+        "word": "找工作脸皮一定要厚",
+        "onboard_time": 1687672114,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 123576,
+        "num": 154109,
+        "word": "范丞丞说把贾玲照片贴门口",
+        "onboard_time": 1687663535,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 152021,
+        "word": "2023山东高考成绩公布",
+        "onboard_time": 1687674214,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 78888,
+        "num": 149539,
+        "word": "唐舞桐的原型是唐家三少女儿",
+        "onboard_time": 1687656091,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 69969,
+        "num": 146485,
+        "word": "RW对战XYG",
+        "onboard_time": 1687673674,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38903,
+        "num": 146414,
+        "word": "这不是VAR 这是BAR",
+        "onboard_time": 1687668760,
+        "rank": 49,
+        "category": "体育,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天全国土地日#"
+    }
+  }
+}
