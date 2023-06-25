@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687700134591,
+  "endTime": 1687702588961,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -251,6 +251,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1452047,
+      "num": 1452047,
+      "word": "消失的她",
+      "onboard_time": 1687617878,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1448582,
       "num": 906603,
       "word": "向佐自称保姆叫郭碧婷大小姐",
@@ -281,14 +289,6 @@
       "onboard_time": 1687653630,
       "rank": 10,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 1283177,
-      "num": 1283177,
-      "word": "消失的她",
-      "onboard_time": 1687617878,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1270742,
@@ -353,6 +353,14 @@
       "onboard_time": 1687687114,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132469,
+      "num": 1132469,
+      "word": "白敬亭是在挽回形象吗",
+      "onboard_time": 1687700017,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1086329,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 871426,
+      "num": 412010,
+      "word": "赵露思的包好小",
+      "onboard_time": 1687701879,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 857895,
       "num": 678579,
       "word": "太辜负这张理科脸了",
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736621,
+      "num": 736621,
+      "word": "蔡徐坤不用管我死活",
+      "onboard_time": 1687701277,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 734350,
       "num": 734350,
       "word": "西瓜猪",
@@ -569,6 +593,14 @@
       "onboard_time": 1687666536,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 711081,
+      "num": 408005,
+      "word": "查了银行卡余额发现不上班也能安度余生",
+      "onboard_time": 1687699235,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 705349,
@@ -601,6 +633,14 @@
       "onboard_time": 1687619558,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686323,
+      "num": 405884,
+      "word": "上岸不发朋友圈是有原因的",
+      "onboard_time": 1687699597,
+      "rank": 24,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 672489,
@@ -676,7 +716,7 @@
     },
     {
       "raw_hot": 600734,
-      "num": 349213,
+      "num": 356186,
       "word": "男子混进小区舔女户主门前鞋子",
       "onboard_time": 1687695630,
       "rank": 31,
@@ -723,12 +763,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 565219,
+      "num": 565219,
+      "word": "羽生结弦中岛美嘉合影",
+      "onboard_time": 1687699416,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 561410,
       "num": 561410,
       "word": "萌娃35度天穿棉服出门2分钟被热哭",
       "onboard_time": 1687681656,
       "rank": 13,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 557927,
+      "num": 402804,
+      "word": "普京称全天候控制特别军事行动进程",
+      "onboard_time": 1687700500,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 550424,
@@ -843,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 490354,
-      "num": 361130,
-      "word": "白敬亭是在挽回形象吗",
-      "onboard_time": 1687700017,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 482447,
       "num": 338720,
       "word": "黄子弘凡 言出法随",
@@ -963,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441650,
+      "num": 394844,
+      "word": "外交部回应瓦格纳集团事件",
+      "onboard_time": 1687701635,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 436952,
       "num": 436952,
       "word": "2023广东高考查分",
@@ -1011,12 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425247,
+      "num": 425247,
+      "word": "长风渡 萨摩耶安慰布偶猫",
+      "onboard_time": 1687699656,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417114,
       "num": 329195,
       "word": "一家三口吃蒸双臭嘴唇发紫送急诊",
       "onboard_time": 1687696412,
       "rank": 24,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 416375,
+      "num": 416375,
+      "word": "穆祉丞中考627分",
+      "onboard_time": 1687692934,
+      "rank": 24,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 414514,
@@ -1068,7 +1140,7 @@
     },
     {
       "raw_hot": 392125,
-      "num": 392125,
+      "num": 451145,
       "word": "瓦格纳部队离开利佩茨克州",
       "onboard_time": 1687691251,
       "rank": 35,
@@ -1187,20 +1259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348332,
-      "num": 348332,
-      "word": "上岸不发朋友圈是有原因的",
-      "onboard_time": 1687699597,
-      "rank": 24,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 347687,
       "num": 347687,
       "word": "丁禹兮何超莲合照",
       "onboard_time": 1687686393,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346661,
+      "num": 346661,
+      "word": "车澈给王传君介绍严浩翔",
+      "onboard_time": 1687701578,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 346456,
@@ -1235,28 +1307,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 332649,
-      "num": 332649,
-      "word": "穆祉丞中考627分",
-      "onboard_time": 1687692934,
-      "rank": 24,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 324652,
       "num": 324652,
       "word": "徐怀钰 淘汰",
       "onboard_time": 1687696955,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323815,
-      "num": 300892,
-      "word": "查了银行卡余额发现不上班也能安度余生",
-      "onboard_time": 1687699235,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 322673,
@@ -1355,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310383,
-      "num": 351358,
-      "word": "羽生结弦中岛美嘉合影",
-      "onboard_time": 1687699416,
-      "rank": 47,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 307935,
       "num": 307935,
       "word": "祝明",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1687696773,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296821,
+      "num": 414015,
+      "word": "南方的雨能有多大",
+      "onboard_time": 1687700856,
+      "rank": 19,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 292738,
@@ -1617,14 +1673,6 @@
       "onboard_time": 1687676614,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 272190,
-      "num": 272190,
-      "word": "长风渡 萨摩耶安慰布偶猫",
-      "onboard_time": 1687699656,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 271849,
@@ -2387,6 +2435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169147,
+      "num": 208930,
+      "word": "TTG战胜WE",
+      "onboard_time": 1687701158,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168904,
       "num": 168904,
       "word": "这是一只懂得感恩的黑熊",
@@ -2440,6 +2496,14 @@
       "word": "家政人员捡到金镯留下纸条寻失主",
       "onboard_time": 1687669238,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158379,
+      "num": 236844,
+      "word": "济南人防避暑纳凉点堪比空调房",
+      "onboard_time": 1687701997,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2705,6 +2769,14 @@
       "onboard_time": 1687632315,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13814,
+      "num": 419315,
+      "word": "100秒卫星视角看多彩中国",
+      "onboard_time": 1687702358,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8932,
