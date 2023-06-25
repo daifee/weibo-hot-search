@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 13:18:32
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 13:35:45
 </p>
 </blockquote>
 <p>
@@ -2541,6 +2541,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23" target="weibo">
+学生高考成绩被屏蔽老师激动欢呼（热度：1679034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%92%9E%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9D%A0%E6%A5%BC%23" target="weibo">
 知情人辟谣被撞小学生父亲坠楼（热度：1677029）
 </a>
@@ -3071,12 +3077,6 @@ House脱口秀演出剧院被罚10万（热度：1531824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD23%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9D%80%E5%AE%B3%E9%99%8C%E7%94%9F%E5%90%8C%E9%BE%84%E5%A5%B3%E5%AD%90%23" target="weibo">
 韩国23岁女子杀害陌生同龄女子（热度：1530125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23" target="weibo">
-学生高考成绩被屏蔽老师激动欢呼（热度：1530087）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687671345164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2919017,
+        "num": 2919017,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1679034,
+        "num": 1679034,
+        "word": "学生高考成绩被屏蔽老师激动欢呼",
+        "onboard_time": 1687666477,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 88992,
+        "num": 1128393,
+        "word": "2023高考志愿填报10问10答",
+        "onboard_time": 1687667676,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980252,
+        "num": 980252,
+        "word": "儿子考了675分父亲弹射冲下楼",
+        "onboard_time": 1687667318,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 704230,
+        "num": 704230,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 666215,
+        "num": 666215,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 5,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 409172,
+        "num": 468636,
+        "word": "男生考694分妈妈激动叫出海豚音",
+        "onboard_time": 1687662273,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 465138,
+        "num": 465138,
+        "word": "桃花坞",
+        "onboard_time": 1687668275,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326689,
+        "num": 460341,
+        "word": "山东高考分数线",
+        "onboard_time": 1687667979,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 271465,
+        "num": 451350,
+        "word": "2023广东高考分数线",
+        "onboard_time": 1687661969,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2320102,
+        "num": 446190,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 661985,
+        "num": 439999,
+        "word": "太辜负这张理科脸了",
+        "onboard_time": 1687661851,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573602,
+        "num": 430563,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530262,
+        "num": 426969,
+        "word": "普京感谢卢卡申科",
+        "onboard_time": 1687656993,
+        "rank": 13,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 159493,
+        "num": 419499,
+        "word": "家政人员捡到金镯留下纸条寻失主",
+        "onboard_time": 1687669238,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340214,
+        "num": 413683,
+        "word": "调休",
+        "onboard_time": 1687656091,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406495,
+        "num": 406495,
+        "word": "瓦格纳的24小时哗变",
+        "onboard_time": 1687662512,
+        "rank": 16,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 302536,
+        "num": 403419,
+        "word": "杨颖和朋友聚会前后反差",
+        "onboard_time": 1687660351,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294891,
+        "num": 395945,
+        "word": "新华书店才是隐藏的终极大佬",
+        "onboard_time": 1687652430,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284689,
+        "num": 389849,
+        "word": "瓦格纳从俄南部军区司令部撤离",
+        "onboard_time": 1687648282,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2147721,
+        "num": 381127,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1154728,
+        "num": 374856,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 822386,
+        "num": 369153,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364358,
+        "num": 364358,
+        "word": "女孩充电被电击内脏受损面临截肢",
+        "onboard_time": 1687650928,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353775,
+        "num": 353775,
+        "word": "河南高考600分及以上26375人",
+        "onboard_time": 1687664675,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 348548,
+        "num": 348548,
+        "word": "李雪琴是艺名",
+        "onboard_time": 1687670615,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306509,
+        "num": 306509,
+        "word": "王俊凯川渝男人战袍",
+        "onboard_time": 1687669835,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268963,
+        "num": 268963,
+        "word": "男子每天1斤杨梅狂吃20天要做血透",
+        "onboard_time": 1687650387,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248822,
+        "num": 248822,
+        "word": "披荆斩棘3名单",
+        "onboard_time": 1687661492,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241042,
+        "num": 241042,
+        "word": "国务院成立宁夏银川烧烤店爆炸事故调查组",
+        "onboard_time": 1687668519,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 472464,
+        "num": 229853,
+        "word": "杀害蔡晓东的凶手已被击毙",
+        "onboard_time": 1687669958,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457461,
+        "num": 228831,
+        "word": "准婆婆是接生自己的护士",
+        "onboard_time": 1687667979,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 261126,
+        "num": 226076,
+        "word": "这幢大楼的设计师应该经常去大排档",
+        "onboard_time": 1687669897,
+        "rank": 32,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 212320,
+        "num": 212320,
+        "word": "广州 交通环境",
+        "onboard_time": 1687666719,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209733,
+        "num": 209733,
+        "word": "真就不管朱一龙的死活",
+        "onboard_time": 1687663230,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207433,
+        "num": 207433,
+        "word": "如何看待发朋友圈带定位的人",
+        "onboard_time": 1687661372,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206634,
+        "num": 206634,
+        "word": "调休制定参与者建议重新考虑政策",
+        "onboard_time": 1687659569,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203451,
+        "num": 203451,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191185,
+        "num": 191185,
+        "word": "男生超一本线50余分激动跪谢妈妈",
+        "onboard_time": 1687668458,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182568,
+        "num": 182568,
+        "word": "外甥女查分610小姨奔向卧室跑飞鞋",
+        "onboard_time": 1687671214,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174111,
+        "num": 174111,
+        "word": "周周小可爱新恋情",
+        "onboard_time": 1687660110,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173437,
+        "num": 173437,
+        "word": "大学不要和这类人有交集",
+        "onboard_time": 1687661011,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 170626,
+        "num": 170626,
+        "word": "发现自己的影子有点奇怪",
+        "onboard_time": 1687667797,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165755,
+        "num": 165755,
+        "word": "隔周双休凑长假可行吗",
+        "onboard_time": 1687669897,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 162136,
+        "num": 162136,
+        "word": "范丞丞说把贾玲照片贴门口",
+        "onboard_time": 1687663535,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161993,
+        "num": 161993,
+        "word": "消失的她",
+        "onboard_time": 1687617878,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157848,
+        "num": 161853,
+        "word": "湖南分数线",
+        "onboard_time": 1687661851,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116360,
+        "num": 161601,
+        "word": "唐舞桐的原型是唐家三少女儿",
+        "onboard_time": 1687656091,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 74180,
+        "num": 161383,
+        "word": "这不是VAR 这是BAR",
+        "onboard_time": 1687668760,
+        "rank": 48,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 45840,
+        "num": 161219,
+        "word": "未定事件簿",
+        "onboard_time": 1687665036,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#130秒飞阅祖国盛夏之美#"
+    }
+  }
+}
