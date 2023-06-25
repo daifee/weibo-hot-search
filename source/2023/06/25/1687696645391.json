@@ -1,0 +1,410 @@
+{
+  "runTime": 1687696645391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2144026,
+        "num": 2144026,
+        "word": "汤唯 兔子警官",
+        "onboard_time": 1687692452,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1329519,
+        "num": 1329519,
+        "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
+        "onboard_time": 1687685793,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 21210,
+        "num": 1252763,
+        "word": "2023高考志愿填报10问10答",
+        "onboard_time": 1687667676,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218472,
+        "num": 1218472,
+        "word": "消失的她评分下降",
+        "onboard_time": 1687690954,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1148836,
+        "num": 1148836,
+        "word": "北京一律所称不再招聘川大毕业生",
+        "onboard_time": 1687695091,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125292,
+        "num": 1125292,
+        "word": "白敬亭工作室big胆",
+        "onboard_time": 1687690834,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673206,
+        "num": 673206,
+        "word": "西瓜猪",
+        "onboard_time": 1687691193,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 941302,
+        "num": 657612,
+        "word": "父亲拒绝给钱买毒品被儿子殴打致死",
+        "onboard_time": 1687687114,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548101,
+        "num": 548101,
+        "word": "浪姐4五公淘汰",
+        "onboard_time": 1687693894,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533412,
+        "num": 533412,
+        "word": "陈哲远不谈恋爱的原因",
+        "onboard_time": 1687686632,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1516400,
+        "num": 533130,
+        "word": "黄多多17岁穿搭",
+        "onboard_time": 1687682614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499861,
+        "num": 499861,
+        "word": "虞书欣一天喝了三杯冰美式",
+        "onboard_time": 1687684052,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481385,
+        "num": 481385,
+        "word": "郑欣宜经纪人报平安",
+        "onboard_time": 1687682795,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477258,
+        "num": 477258,
+        "word": "殡葬专业就业率百分之百",
+        "onboard_time": 1687685497,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 414040,
+        "num": 414040,
+        "word": "EDG让一追二RA",
+        "onboard_time": 1687694312,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409958,
+        "num": 409958,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 406783,
+        "num": 406783,
+        "word": "蔡徐坤泰国演唱会",
+        "onboard_time": 1687695394,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392125,
+        "num": 392125,
+        "word": "瓦格纳部队离开利佩茨克州",
+        "onboard_time": 1687691251,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 359909,
+        "num": 359909,
+        "word": "00后最近都在混什么圈",
+        "onboard_time": 1687677453,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351423,
+        "num": 351423,
+        "word": "女子上午买瓜34元没付上傍晚开车来补",
+        "onboard_time": 1687685973,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662925,
+        "num": 347799,
+        "word": "牙医不建议用电动牙刷",
+        "onboard_time": 1687682374,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 539078,
+        "num": 343183,
+        "word": "女子2年被老公家暴16次需终身挂粪袋",
+        "onboard_time": 1687678596,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444373,
+        "num": 339645,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 379255,
+        "num": 335700,
+        "word": "早起有口臭是不是正常现象",
+        "onboard_time": 1687688074,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332649,
+        "num": 332649,
+        "word": "穆祉丞中考627分",
+        "onboard_time": 1687692934,
+        "rank": 24,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 315684,
+        "num": 315684,
+        "word": "白敬亭 纹身",
+        "onboard_time": 1687696412,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279099,
+        "num": 279099,
+        "word": "入职后顶替了一个孕妇的岗位",
+        "onboard_time": 1687690355,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270678,
+        "num": 270678,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 267711,
+        "num": 267711,
+        "word": "内娱高考也有几个显眼包",
+        "onboard_time": 1687692271,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264616,
+        "num": 264616,
+        "word": "取消调休和落实双休你更支持哪个",
+        "onboard_time": 1687695871,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476679,
+        "num": 263730,
+        "word": "上市公司祝贺总经理女儿夺高考状元",
+        "onboard_time": 1687682734,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 262403,
+        "num": 262403,
+        "word": "男子混进小区舔女户主门前鞋子",
+        "onboard_time": 1687695630,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246066,
+        "num": 246066,
+        "word": "白鹿每天六点自然醒",
+        "onboard_time": 1687693051,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229112,
+        "num": 229112,
+        "word": "林志颖到长沙了",
+        "onboard_time": 1687691913,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224174,
+        "num": 224174,
+        "word": "哥嫂供读书男生高考理科661分",
+        "onboard_time": 1687690834,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219087,
+        "num": 219087,
+        "word": "当男朋友看到初恋送我的礼物",
+        "onboard_time": 1687693231,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217520,
+        "num": 217520,
+        "word": "非洲男友不让我看他身份证",
+        "onboard_time": 1687678473,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217056,
+        "num": 217056,
+        "word": "什么东西是全国统一零售价",
+        "onboard_time": 1687695510,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213056,
+        "num": 213056,
+        "word": "美媒称美国提前得知瓦格纳要行动",
+        "onboard_time": 1687679854,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 210696,
+        "num": 210696,
+        "word": "浙江高考状元",
+        "onboard_time": 1687678831,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210304,
+        "num": 210304,
+        "word": "实习律师第一个月工资发了474元",
+        "onboard_time": 1687690475,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202388,
+        "num": 202388,
+        "word": "长风渡",
+        "onboard_time": 1687694854,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194636,
+        "num": 194636,
+        "word": "张馨予眼睛怎么了",
+        "onboard_time": 1687678654,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183597,
+        "num": 183597,
+        "word": "暴雨时千万别把车当船开",
+        "onboard_time": 1687696533,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183162,
+        "num": 183162,
+        "word": "孟子义27岁素颜状态",
+        "onboard_time": 1687696352,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179931,
+        "num": 179931,
+        "word": "发现伏笔后才明白一切都有迹可循",
+        "onboard_time": 1687691073,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "711分考生妈妈建议家长不要把全部精力投入孩子",
+        "onboard_time": 1687671574,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169333,
+        "num": 169333,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 168422,
+        "word": "iG对战LNG",
+        "onboard_time": 1687694552,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110068,
+        "num": 166052,
+        "word": "RA对战EDG",
+        "onboard_time": 1687682674,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#空中视角看千万工程调研行#"
+    }
+  }
+}

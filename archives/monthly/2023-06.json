@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687692832402,
+  "endTime": 1687696645391,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1687251091,
       "rank": 22,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2144026,
+      "num": 2144026,
+      "word": "汤唯 兔子警官",
+      "onboard_time": 1687692452,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2142412,
@@ -6147,6 +6155,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1218472,
+      "num": 1218472,
+      "word": "消失的她评分下降",
+      "onboard_time": 1687690954,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1215308,
       "num": 1215308,
       "word": "宋茜做错了什么",
@@ -6681,6 +6697,14 @@
       "onboard_time": 1686102334,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1148836,
+      "num": 1148836,
+      "word": "北京一律所称不再招聘川大毕业生",
+      "onboard_time": 1687695091,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1148603,
@@ -10891,14 +10915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 771787,
-      "num": 771787,
-      "word": "消失的她评分下降",
-      "onboard_time": 1687690954,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 771406,
       "num": 771406,
       "word": "福布斯称Jennie有资格获艾美奖",
@@ -14593,6 +14609,14 @@
       "onboard_time": 1685663244,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548101,
+      "num": 548101,
+      "word": "浪姐4五公淘汰",
+      "onboard_time": 1687693894,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 547815,
@@ -18603,6 +18627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414040,
+      "num": 414040,
+      "word": "EDG让一追二RA",
+      "onboard_time": 1687694312,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 413764,
       "num": 413764,
       "word": "公司称领导与异性牵手逛街是个人行为",
@@ -18873,6 +18905,14 @@
       "onboard_time": 1687314749,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406783,
+      "num": 406783,
+      "word": "蔡徐坤泰国演唱会",
+      "onboard_time": 1687695394,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 406754,
@@ -19417,6 +19457,14 @@
       "onboard_time": 1686552567,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392125,
+      "num": 392125,
+      "word": "瓦格纳部队离开利佩茨克州",
+      "onboard_time": 1687691251,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 391957,
@@ -22795,6 +22843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332649,
+      "num": 332649,
+      "word": "穆祉丞中考627分",
+      "onboard_time": 1687692934,
+      "rank": 24,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 332619,
       "num": 263866,
       "word": "一毕业就赶上家里事业起飞",
@@ -23819,6 +23875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315684,
+      "num": 315684,
+      "word": "白敬亭 纹身",
+      "onboard_time": 1687696412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315680,
       "num": 315680,
       "word": "秦岚王阳斗嘴戏差点吻上",
@@ -23889,14 +23953,6 @@
       "onboard_time": 1686020366,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315173,
-      "num": 315173,
-      "word": "瓦格纳部队离开利佩茨克州",
-      "onboard_time": 1687691251,
-      "rank": 35,
-      "category": "军事"
     },
     {
       "raw_hot": 315136,
@@ -24169,14 +24225,6 @@
       "onboard_time": 1685790687,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312428,
-      "num": 312428,
-      "word": "汤唯 兔子警官",
-      "onboard_time": 1687692452,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 312335,
@@ -28595,6 +28643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267711,
+      "num": 267711,
+      "word": "内娱高考也有几个显眼包",
+      "onboard_time": 1687692271,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267666,
       "num": 267666,
       "word": "大熊猫洗澡也太可爱了",
@@ -28915,6 +28971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264616,
+      "num": 264616,
+      "word": "取消调休和落实双休你更支持哪个",
+      "onboard_time": 1687695871,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264560,
       "num": 264560,
       "word": "文韬一个人撑起了一整个团",
@@ -29224,6 +29288,14 @@
       "word": "电梯突发故障丈夫下意识护妻儿",
       "onboard_time": 1686035066,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262403,
+      "num": 262403,
+      "word": "男子混进小区舔女户主门前鞋子",
+      "onboard_time": 1687695630,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -31465,6 +31537,14 @@
       "onboard_time": 1685779948,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246066,
+      "num": 246066,
+      "word": "白鹿每天六点自然醒",
+      "onboard_time": 1687693051,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 245989,
@@ -33715,14 +33795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231318,
-      "num": 231318,
-      "word": "内娱高考也有几个显眼包",
-      "onboard_time": 1687692271,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 231296,
       "num": 231296,
       "word": "薛之谦把伴舞的鞋子扔了",
@@ -34891,6 +34963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 224174,
+      "num": 488290,
+      "word": "哥嫂供读书男生高考理科661分",
+      "onboard_time": 1687690834,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224075,
       "num": 224075,
       "word": "掘金总决赛开门红",
@@ -35675,20 +35755,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219087,
+      "num": 219087,
+      "word": "当男朋友看到初恋送我的礼物",
+      "onboard_time": 1687693231,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219073,
       "num": 219073,
       "word": "贺红玲爱过叶国华吗",
       "onboard_time": 1687091067,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219070,
-      "num": 488290,
-      "word": "哥嫂供读书男生高考理科661分",
-      "onboard_time": 1687690834,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218954,
@@ -35993,6 +36073,14 @@
       "onboard_time": 1686822929,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217056,
+      "num": 217056,
+      "word": "什么东西是全国统一零售价",
+      "onboard_time": 1687695510,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 217032,
@@ -42891,6 +42979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183597,
+      "num": 183597,
+      "word": "暴雨时千万别把车当船开",
+      "onboard_time": 1687696533,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183593,
       "num": 183593,
       "word": "40度",
@@ -42976,6 +43072,14 @@
       "word": "乔欣看到武大靖被抓释然了",
       "onboard_time": 1686461668,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183162,
+      "num": 183162,
+      "word": "孟子义27岁素颜状态",
+      "onboard_time": 1687696352,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -48689,6 +48793,14 @@
       "onboard_time": 1685699188,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150491,
+      "num": 168422,
+      "word": "iG对战LNG",
+      "onboard_time": 1687694552,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 150454,
