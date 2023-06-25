@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687682211252,
+  "endTime": 1687684710746,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -56,6 +56,14 @@
       "word": "郑欣宜",
       "onboard_time": 1687679431,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2247139,
+      "num": 711179,
+      "word": "黄多多17岁穿搭",
+      "onboard_time": 1687682614,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1687615298,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1475539,
+      "num": 1475539,
+      "word": "郑欣宜经纪人报平安",
+      "onboard_time": 1687682795,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1467905,
@@ -299,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966578,
+      "num": 966578,
+      "word": "那个说英语难的男生高考684分",
+      "onboard_time": 1687677873,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 938628,
+      "num": 938628,
+      "word": "一年放假115天多吗",
+      "onboard_time": 1687680758,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916039,
       "num": 776098,
       "word": "感动全网的环卫工儿子考了470分",
@@ -337,6 +369,14 @@
       "onboard_time": 1687677453,
       "rank": 15,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 846727,
+      "num": 427474,
+      "word": "牙医不建议用电动牙刷",
+      "onboard_time": 1687682374,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 836981,
@@ -459,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 657434,
-      "num": 657434,
-      "word": "那个说英语难的男生高考684分",
-      "onboard_time": 1687677873,
-      "rank": 27,
-      "category": "教育,社会新闻"
+      "raw_hot": 669568,
+      "num": 669568,
+      "word": "上市公司祝贺总经理女儿夺高考状元",
+      "onboard_time": 1687682734,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 643651,
@@ -571,6 +611,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 542856,
+      "num": 542856,
+      "word": "山东高考500分能上什么大学",
+      "onboard_time": 1687679794,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 527899,
       "num": 527899,
       "word": "河南高考600分及以上26375人",
@@ -593,14 +641,6 @@
       "onboard_time": 1687659930,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 520240,
-      "num": 520240,
-      "word": "一年放假115天多吗",
-      "onboard_time": 1687680758,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519852,
@@ -673,14 +713,6 @@
       "onboard_time": 1687612596,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 474612,
-      "num": 415382,
-      "word": "山东高考500分能上什么大学",
-      "onboard_time": 1687679794,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 473327,
@@ -891,6 +923,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 365800,
+      "num": 365800,
+      "word": "RNG零封UP",
+      "onboard_time": 1687683874,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356636,
       "num": 356636,
       "word": "车臣军队已出发平叛",
@@ -937,6 +977,14 @@
       "onboard_time": 1687653572,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 338959,
+      "num": 302488,
+      "word": "虞书欣一天喝了三杯冰美式",
+      "onboard_time": 1687684052,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 337765,
@@ -1051,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303160,
+      "num": 303160,
+      "word": "60斤的弟弟穿不上我的衣服",
+      "onboard_time": 1687683632,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301286,
       "num": 301286,
       "word": "孟子义当明星的原因",
@@ -1075,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294732,
+      "num": 294732,
+      "word": "有没有人管管Ella",
+      "onboard_time": 1687683932,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293931,
       "num": 293931,
       "word": "肖战李沁演绎梦海番外",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1687675351,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 291359,
+      "num": 291359,
+      "word": "司机撞倒小孩后两次碾压",
+      "onboard_time": 1687683095,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289882,
@@ -1291,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254840,
+      "num": 254840,
+      "word": "陈思诚的命也是命",
+      "onboard_time": 1687680454,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254436,
       "num": 254436,
       "word": "湖南高考发布会",
@@ -1305,14 +1385,6 @@
       "onboard_time": 1687659271,
       "rank": 36,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 253623,
-      "num": 253623,
-      "word": "陈思诚的命也是命",
-      "onboard_time": 1687680454,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 252835,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1687629799,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246331,
+      "num": 246331,
+      "word": "鹿晗粉丝垃圾捡走了自己的东西丢了",
+      "onboard_time": 1687683812,
+      "rank": 36,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 242883,
@@ -1587,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198890,
+      "num": 198890,
+      "word": "到办公室才发现鞋被狗咬烂了",
+      "onboard_time": 1687682434,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198655,
       "num": 198655,
       "word": "黄新淳追星鹿晗",
@@ -1625,6 +1713,14 @@
       "onboard_time": 1687612355,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182777,
+      "num": 182777,
+      "word": "为什么有人一吵架就爱翻旧账",
+      "onboard_time": 1687683335,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 180381,
@@ -1939,6 +2035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60326,
+      "num": 1397331,
+      "word": "太空视角下五颜六色的中国大地",
+      "onboard_time": 1687658552,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38434,
+      "num": 216987,
+      "word": "海外电子钱包在国内可以直接付钱",
+      "onboard_time": 1687683632,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 38234,
       "num": 50840,
       "word": "偷偷藏不住",
@@ -1960,14 +2072,6 @@
       "word": "银川烧烤店爆炸背后",
       "onboard_time": 1687637712,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31506,
-      "num": 1397331,
-      "word": "太空视角下五颜六色的中国大地",
-      "onboard_time": 1687658552,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
