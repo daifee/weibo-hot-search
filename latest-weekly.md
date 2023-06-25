@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/19 00:20:59 ~ 2023/06/25 22:34:19
+本榜单时间：2023/06/19 00:20:59 ~ 2023/06/25 23:18:44
 </p>
 </blockquote>
 <p>
@@ -1755,6 +1755,12 @@ Jennie的衣服（热度：1357981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23" target="weibo">
+这些都是野鸡大学（热度：1140330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E5%A5%B3%E9%A1%B6%E6%B5%81%E5%A5%96%E9%A1%B9%E5%AE%9E%E7%BB%A9%23" target="weibo">
 四大女顶流奖项实绩（热度：1140199）
 </a>
@@ -1931,6 +1937,12 @@ Jennie的衣服（热度：1357981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AB%AF%23" target="weibo">
 开端（热度：1065632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23" target="weibo">
+普京称全天候控制特别军事行动进程（热度：1061019）
 </a>
 </li>
 
@@ -2433,6 +2445,12 @@ Uzi4杀 RNG拿下比赛（热度：909059）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%96%91%E6%80%803%E8%83%8E%23" target="weibo">
+黄圣依疑怀3胎（热度：903138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23" target="weibo">
 青岛1米88大长腿交警回应走红（热度：900124）
 </a>
@@ -2919,8 +2937,20 @@ RNG零封EDG（热度：843888）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23" target="weibo">
+中方表示瓦格纳集团事件是俄罗斯内政（热度：753638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%B2%B3%E9%98%B3%E4%B8%80%E6%AF%8D%E4%BA%B2%E6%9D%80%E6%AD%BB16%E5%B2%81%E5%A5%B3%E5%84%BF%23" target="weibo">
 网传岳阳一母亲杀死16岁女儿（热度：752217）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23" target="weibo">
+父亲去世男孩忍痛高考如愿上岸（热度：751337）
 </a>
 </li>
 
@@ -3501,6 +3531,12 @@ Jennie金泰亨都去看了火星哥演唱会（热度：621210）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%B3%AA%E9%92%BB%23" target="weibo">
+鹿晗的泪钻（热度：620896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%A5%B9%E5%A5%B9%20%E5%A5%BD%E5%90%AC%E7%9A%84%E4%B8%80%E9%98%B5%E4%B8%80%E9%98%B5%E7%9A%84%23" target="weibo">
 她她她 好听的一阵一阵的（热度：620692）
 </a>
@@ -3525,6 +3561,12 @@ zb1首日0中输（热度：613834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B1%E4%BD%A0%23" target="weibo">
+我爱你（热度：613205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F1%E6%AC%A1%E5%A4%877%E5%A4%A9%E8%8F%9C%E4%B8%8B%E7%8F%AD5%E5%88%86%E9%92%9F%E5%90%83%E4%B8%8A%E6%99%9A%E9%A5%AD%23" target="weibo">
 女生1次备7天菜下班5分钟吃上晚饭（热度：612928）
 </a>
@@ -3533,6 +3575,12 @@ zb1首日0中输（热度：613834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%A7%91%20%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23" target="weibo">
 邓科 大奉打更人（热度：612860）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23" target="weibo">
+车澈给王传君介绍严浩翔（热度：612594）
 </a>
 </li>
 
@@ -3599,6 +3647,12 @@ zb1首日0中输（热度：613834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23" target="weibo">
 庆余年导演说演员应该杜绝文盲（热度：594049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23" target="weibo">
+博士生毕业后赴新疆任教被校长点名表扬（热度：593887）
 </a>
 </li>
 
@@ -3713,12 +3767,6 @@ aespa机场穿出了四个季节（热度：591601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%23" target="weibo">
 萧敬腾（热度：577141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23" target="weibo">
-普京称全天候控制特别军事行动进程（热度：577012）
 </a>
 </li>
 
@@ -4437,12 +4485,6 @@ A股（热度：502006）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23" target="weibo">
-车澈给王传君介绍严浩翔（热度：486752）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%81%E8%8C%B9%E9%A1%BEvs%E5%B1%B1%E5%B3%A5%E6%B5%B7%E8%96%87%23" target="weibo">
 一见茹顾vs山峥海薇（热度：486010）
 </a>
@@ -4929,6 +4971,12 @@ Tian（热度：446437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
+白桃星座（热度：435978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E5%89%A7%E8%87%AA%E7%A7%B0%E6%9C%AC%E7%8E%8B%23" target="weibo">
 赵丽颖新剧自称本王（热度：435544）
 </a>
@@ -5171,6 +5219,12 @@ TaylorSwift巡演官宣亚洲场次（热度：425198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%AF%B4%E5%A5%B9%E6%8B%8D%E5%88%B0%E6%88%91%E5%87%BA%E8%BD%A8%E4%BA%86%23" target="weibo">
 女朋友说她拍到我出轨了（热度：421556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23" target="weibo">
+我的人间烟火（热度：421241）
 </a>
 </li>
 
@@ -5847,12 +5901,6 @@ RNG零封UP（热度：365800）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23" target="weibo">
-中方表示瓦格纳集团事件是俄罗斯内政（热度：365785）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E7%BE%8E%E4%B8%BD%E6%B5%99%E6%B1%9F%23" target="weibo">
 种地吧 美丽浙江（热度：365505）
 </a>
@@ -6279,20 +6327,8 @@ RA对战EDG（热度：342445）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
-白桃星座（热度：340706）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E9%A3%9E%E5%A5%94%E5%90%91%E4%BD%A0%23" target="weibo">
 当我飞奔向你（热度：340521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23" target="weibo">
-博士生毕业后赴新疆任教被校长点名表扬（热度：340103）
 </a>
 </li>
 
@@ -6389,12 +6425,6 @@ OMG对战WE（热度：334489）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%8B%A6%E4%B9%9F%E4%B8%8D%E8%83%BD%E8%8B%A6%E4%BA%86%E6%88%91%E7%9A%84%E6%A8%B1%E6%A1%83%E5%B0%8F%E5%98%B4%23" target="weibo">
 再苦也不能苦了我的樱桃小嘴（热度：334429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B1%E4%BD%A0%23" target="weibo">
-我爱你（热度：333977）
 </a>
 </li>
 
@@ -7095,6 +7125,12 @@ iG对战LNG（热度：311788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%8B%E5%B0%91%E5%B9%B4%E5%BF%972%E6%92%AD%E5%87%BA%E6%97%B6%E9%97%B4%23" target="weibo">
+大宋少年志2播出时间（热度：297535）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E9%95%BF%E7%9A%84%E5%AD%A3%E8%8A%82%23" target="weibo">
 漫长的季节（热度：297487）
 </a>
@@ -7151,6 +7187,12 @@ EXO新专K4预售突破50万张（热度：295750）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%90%83%E6%96%B0%E9%B2%9C%E7%AB%B9%E5%AD%90%E5%A5%BD%E9%A6%99%E7%94%9C%23" target="weibo">
 丫丫吃新鲜竹子好香甜（热度：295270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%AE%A4%E5%8F%8B%E4%BB%8D%E4%B8%8D%E6%84%BF%E7%A9%BF%E6%8B%96%E9%9E%8B%23" target="weibo">
+同居两年的室友仍不愿穿拖鞋（热度：294974）
 </a>
 </li>
 
@@ -7247,6 +7289,12 @@ BLG零封LNG（热度：292872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
 白敬亭原声台词爆发力（热度：292264）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%AA%E7%9A%84%23" target="weibo">
+朱一龙的头为什么是歪的（热度：291995）
 </a>
 </li>
 
@@ -8781,6 +8829,12 @@ MOMO（热度：241398）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%81%87%E5%8F%91%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E7%9C%9F%E4%BA%86%E5%90%97%23" target="weibo">
+现在的假发已经这么真了吗（热度：239479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%87%91%E9%9D%96%E8%A2%AB%E9%80%8F%E6%98%8E%E8%A7%82%E5%85%89%E5%BB%8A%E5%90%93%E5%88%B0%E8%B5%B0%E4%B8%8D%E5%8A%A8%23" target="weibo">
 杨颖金靖被透明观光廊吓到走不动（热度：238991）
 </a>
@@ -8909,12 +8963,6 @@ XYG战胜eStar（热度：237767）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%89%93%E6%89%AE%E6%88%90%E8%A7%82%E9%9F%B3%E5%8F%82%E5%8A%A0%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%23" target="weibo">
 女生打扮成观音参加期末考试（热度：237076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%8B%E5%B0%91%E5%B9%B4%E5%BF%972%E6%92%AD%E5%87%BA%E6%97%B6%E9%97%B4%23" target="weibo">
-大宋少年志2播出时间（热度：237007）
 </a>
 </li>
 
@@ -10143,6 +10191,12 @@ C罗绝杀冰岛（热度：201434）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E7%90%AA%20%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%23" target="weibo">
+黄子琪 消失的她（热度：201339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%8D%E5%92%8C%E5%AE%AB%E6%9C%8D%E4%BB%8E%E8%B0%83%E5%89%82%E5%BC%8F%E8%AE%B8%E6%84%BF%23" target="weibo">
 雍和宫服从调剂式许愿（热度：201279）
 </a>
@@ -11159,6 +11213,12 @@ Amber小美拉手往前跑（热度：174680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E8%80%81%E5%A9%86%E4%B9%B0%E7%9A%84%E5%A5%87%E8%91%A9%E7%89%A9%E5%93%81%23" target="weibo">
 盘点老婆买的奇葩物品（热度：172831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E6%92%9E%E7%BB%BF%E5%8C%96%E5%B8%A6%E8%87%AA%E7%87%83%E7%94%B7%E5%AD%90%E7%A0%B8%E7%AA%97%E6%95%91%E4%BA%BA%23" target="weibo">
+小车撞绿化带自燃男子砸窗救人（热度：172782）
 </a>
 </li>
 
