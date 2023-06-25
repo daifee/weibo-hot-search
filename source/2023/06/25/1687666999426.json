@@ -1,0 +1,410 @@
+{
+  "runTime": 1687666999426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1771207,
+        "num": 1771207,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 0,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 636560,
+        "num": 1508073,
+        "word": "男生考694分妈妈激动叫出海豚音",
+        "onboard_time": 1687662273,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 6674,
+        "num": 1390901,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374121,
+        "num": 1374121,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 594543,
+        "num": 1038141,
+        "word": "学生高考成绩被屏蔽老师激动欢呼",
+        "onboard_time": 1687666477,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1029214,
+        "num": 1029214,
+        "word": "普京感谢卢卡申科",
+        "onboard_time": 1687656993,
+        "rank": 5,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 770410,
+        "num": 770410,
+        "word": "长风渡宣发",
+        "onboard_time": 1687664195,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683810,
+        "num": 683810,
+        "word": "2023广东高考分数线",
+        "onboard_time": 1687661969,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 151369,
+        "num": 678893,
+        "word": "熊猫养生也少不了喝水",
+        "onboard_time": 1687663900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678579,
+        "num": 678579,
+        "word": "太辜负这张理科脸了",
+        "onboard_time": 1687661851,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 4291077,
+        "num": 666067,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3554124,
+        "num": 655510,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1934282,
+        "num": 640265,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1039726,
+        "num": 624275,
+        "word": "调休",
+        "onboard_time": 1687656091,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984041,
+        "num": 612341,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600061,
+        "num": 600061,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724212,
+        "num": 594319,
+        "word": "瓦格纳的24小时哗变",
+        "onboard_time": 1687662512,
+        "rank": 16,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 707203,
+        "num": 544047,
+        "word": "宋轶片场勾白敬亭下巴",
+        "onboard_time": 1687657471,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 623530,
+        "num": 533892,
+        "word": "调休制定参与者建议重新考虑政策",
+        "onboard_time": 1687659569,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490568,
+        "num": 490568,
+        "word": "瓦格纳从俄南部军区司令部撤离",
+        "onboard_time": 1687648282,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 458285,
+        "num": 458285,
+        "word": "大学不要和这类人有交集",
+        "onboard_time": 1687661011,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 502745,
+        "num": 451893,
+        "word": "河南高考600分及以上26375人",
+        "onboard_time": 1687664675,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 459546,
+        "num": 449651,
+        "word": "杨颖和朋友聚会前后反差",
+        "onboard_time": 1687660351,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422933,
+        "num": 422933,
+        "word": "披荆斩棘3名单",
+        "onboard_time": 1687661492,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421696,
+        "num": 421696,
+        "word": "长风渡宣传语 真情侣才好看",
+        "onboard_time": 1687666536,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413482,
+        "num": 413482,
+        "word": "湖南分数线",
+        "onboard_time": 1687661851,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 409321,
+        "num": 409321,
+        "word": "女孩充电被电击内脏受损面临截肢",
+        "onboard_time": 1687650928,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392465,
+        "num": 392465,
+        "word": "新华书店才是隐藏的终极大佬",
+        "onboard_time": 1687652430,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391233,
+        "num": 391233,
+        "word": "真就不管朱一龙的死活",
+        "onboard_time": 1687663230,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372403,
+        "num": 372403,
+        "word": "今年中秋国庆休八上七",
+        "onboard_time": 1687660228,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925733,
+        "num": 370749,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 355892,
+        "num": 355892,
+        "word": "像极了节后上班的你",
+        "onboard_time": 1687665915,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 329058,
+        "num": 329058,
+        "word": "逐渐意识到e人在现实有多爽",
+        "onboard_time": 1687663955,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 315514,
+        "num": 315514,
+        "word": "男子每天1斤杨梅狂吃20天要做血透",
+        "onboard_time": 1687650387,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310773,
+        "num": 310773,
+        "word": "暮色心约",
+        "onboard_time": 1687664855,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303138,
+        "num": 303138,
+        "word": "范丞丞说把贾玲照片贴门口",
+        "onboard_time": 1687663535,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297938,
+        "num": 297938,
+        "word": "如何看待发朋友圈带定位的人",
+        "onboard_time": 1687661372,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266283,
+        "num": 266283,
+        "word": "2023广东高考查分",
+        "onboard_time": 1687659090,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 264030,
+        "num": 264030,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255672,
+        "num": 255672,
+        "word": "王栎鑫披荆斩棘",
+        "onboard_time": 1687661910,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252835,
+        "num": 252835,
+        "word": "宝宝拍百天照急眼了",
+        "onboard_time": 1687665217,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179635,
+        "num": 238654,
+        "word": "怪模样动物闯地下室一查竟是保护动物",
+        "onboard_time": 1687665036,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237632,
+        "num": 237632,
+        "word": "高考上岸锦鲤",
+        "onboard_time": 1687666778,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232802,
+        "num": 232802,
+        "word": "消失的她",
+        "onboard_time": 1687617878,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220770,
+        "num": 220770,
+        "word": "周周小可爱新恋情",
+        "onboard_time": 1687660110,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213253,
+        "num": 213253,
+        "word": "广州 交通环境",
+        "onboard_time": 1687666719,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203693,
+        "num": 203693,
+        "word": "未定事件簿",
+        "onboard_time": 1687665036,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202109,
+        "num": 202109,
+        "word": "甘肃高考分数线",
+        "onboard_time": 1687666960,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148626,
+        "num": 201852,
+        "word": "唐舞桐的原型是唐家三少女儿",
+        "onboard_time": 1687656091,
+        "rank": 48,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 96006,
+        "num": 201623,
+        "word": "WBG失误",
+        "onboard_time": 1687651350,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#端午假期国内旅游1.06亿人次#"
+    }
+  }
+}

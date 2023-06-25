@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687664725905,
+  "endTime": 1687666999426,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -361,6 +361,14 @@
       "onboard_time": 1685748621,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4291077,
+      "num": 1101570,
+      "word": "李天泽高考成绩586",
+      "onboard_time": 1687664134,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 4212896,
@@ -2585,6 +2593,14 @@
       "onboard_time": 1687050326,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1934282,
+      "num": 640265,
+      "word": "普京反制日本",
+      "onboard_time": 1687665518,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1928089,
@@ -6955,14 +6971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1101570,
-      "num": 1101570,
-      "word": "李天泽高考成绩586",
-      "onboard_time": 1687664134,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1101021,
       "num": 1064598,
       "word": "杨幂私服",
@@ -8705,6 +8713,14 @@
       "onboard_time": 1685868747,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925733,
+      "num": 370749,
+      "word": "生殖科备孕医嘱",
+      "onboard_time": 1687665518,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 925453,
@@ -10691,6 +10707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 770410,
+      "num": 770410,
+      "word": "长风渡宣发",
+      "onboard_time": 1687664195,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 770330,
       "num": 652484,
       "word": "千万不要用小拇指掏耳朵了",
@@ -12027,6 +12051,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 678579,
+      "num": 678579,
+      "word": "太辜负这张理科脸了",
+      "onboard_time": 1687661851,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 676786,
       "num": 676786,
       "word": "刘雅瑟多穿裙子吧",
@@ -12609,6 +12641,14 @@
       "onboard_time": 1686990148,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636560,
+      "num": 1508073,
+      "word": "男生考694分妈妈激动叫出海豚音",
+      "onboard_time": 1687662273,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 634631,
@@ -13241,6 +13281,14 @@
       "onboard_time": 1687358677,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594543,
+      "num": 1038141,
+      "word": "学生高考成绩被屏蔽老师激动欢呼",
+      "onboard_time": 1687666477,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 594253,
@@ -15251,6 +15299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502745,
+      "num": 451893,
+      "word": "河南高考600分及以上26375人",
+      "onboard_time": 1687664675,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 502244,
       "num": 502244,
       "word": "北京动物园",
@@ -15513,14 +15569,6 @@
       "onboard_time": 1687355495,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 493828,
-      "num": 358557,
-      "word": "太辜负这张理科脸了",
-      "onboard_time": 1687661851,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 493751,
@@ -17811,6 +17859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421696,
+      "num": 421696,
+      "word": "长风渡宣传语 真情侣才好看",
+      "onboard_time": 1687666536,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421293,
       "num": 421293,
       "word": "段磊怎么没了",
@@ -17969,14 +18025,6 @@
       "onboard_time": 1685880929,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417758,
-      "num": 417758,
-      "word": "长风渡宣发",
-      "onboard_time": 1687664195,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 417481,
@@ -18819,14 +18867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394527,
-      "num": 394527,
-      "word": "男生考694分妈妈激动叫出海豚音",
-      "onboard_time": 1687662273,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 394082,
       "num": 449582,
       "word": "星宇",
@@ -18985,6 +19025,14 @@
       "onboard_time": 1685871507,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 391233,
+      "num": 391233,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 390988,
@@ -19680,14 +19728,6 @@
       "word": "云秀行开机",
       "onboard_time": 1685941169,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 377248,
-      "num": 377248,
-      "word": "真就不管朱一龙的死活",
-      "onboard_time": 1687663230,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -20745,6 +20785,14 @@
       "onboard_time": 1687304847,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355892,
+      "num": 355892,
+      "word": "像极了节后上班的你",
+      "onboard_time": 1687665915,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 355795,
@@ -22451,6 +22499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329058,
+      "num": 329058,
+      "word": "逐渐意识到e人在现实有多爽",
+      "onboard_time": 1687663955,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 329004,
       "num": 329004,
       "word": "AG对战WB",
@@ -23673,6 +23729,14 @@
       "onboard_time": 1687389680,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310773,
+      "num": 310773,
+      "word": "暮色心约",
+      "onboard_time": 1687414711,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 310174,
@@ -29731,6 +29795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252835,
+      "num": 252835,
+      "word": "宝宝拍百天照急眼了",
+      "onboard_time": 1687665217,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252830,
       "num": 252830,
       "word": "公司纪委回应网传领导与异性亲密逛街",
@@ -30268,7 +30340,7 @@
     },
     {
       "raw_hot": 249186,
-      "num": 249186,
+      "num": 678893,
       "word": "熊猫养生也少不了喝水",
       "onboard_time": 1687663900,
       "rank": 39,
@@ -31905,6 +31977,14 @@
       "onboard_time": 1686624689,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237632,
+      "num": 237632,
+      "word": "高考上岸锦鲤",
+      "onboard_time": 1687666778,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 237599,
@@ -35147,14 +35227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216779,
-      "num": 216779,
-      "word": "暮色心约",
-      "onboard_time": 1687414711,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216769,
       "num": 200245,
       "word": "夜神月和L的cp名",
@@ -35763,6 +35835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213253,
+      "num": 213253,
+      "word": "广州 交通环境",
+      "onboard_time": 1687666719,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213206,
       "num": 213206,
       "word": "中国传媒大学直播",
@@ -36057,14 +36137,6 @@
       "onboard_time": 1687352556,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211779,
-      "num": 211779,
-      "word": "河南高考600分及以上26375人",
-      "onboard_time": 1687664675,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211772,
@@ -36931,14 +37003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206575,
-      "num": 206575,
-      "word": "逐渐意识到e人在现实有多爽",
-      "onboard_time": 1687663955,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 206528,
       "num": 182788,
       "word": "如果拥有一台穿越机你会做什么",
@@ -37785,6 +37849,14 @@
       "onboard_time": 1686574830,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202109,
+      "num": 202109,
+      "word": "甘肃高考分数线",
+      "onboard_time": 1687666960,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 202018,
@@ -42561,6 +42633,14 @@
       "onboard_time": 1686723509,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179635,
+      "num": 238654,
+      "word": "怪模样动物闯地下室一查竟是保护动物",
+      "onboard_time": 1687665036,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179606,

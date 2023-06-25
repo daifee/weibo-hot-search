@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687664725905,
+  "endTime": 1687666999426,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -9,6 +9,14 @@
       "onboard_time": 1687662210,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 4291077,
+      "num": 1101570,
+      "word": "李天泽高考成绩586",
+      "onboard_time": 1687664134,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3438759,
@@ -73,6 +81,14 @@
       "onboard_time": 1687652430,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1934282,
+      "num": 640265,
+      "word": "普京反制日本",
+      "onboard_time": 1687665518,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1722617,
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1101570,
-      "num": 1101570,
-      "word": "李天泽高考成绩586",
-      "onboard_time": 1687664134,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1073157,
       "num": 1073157,
       "word": "消失的她原型",
@@ -193,6 +201,14 @@
       "onboard_time": 1687616857,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925733,
+      "num": 370749,
+      "word": "生殖科备孕医嘱",
+      "onboard_time": 1687665518,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 857543,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770410,
+      "num": 770410,
+      "word": "长风渡宣发",
+      "onboard_time": 1687664195,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 769272,
       "num": 769272,
       "word": "王鹤棣赵露思合影",
@@ -283,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678579,
+      "num": 678579,
+      "word": "太辜负这张理科脸了",
+      "onboard_time": 1687661851,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 643651,
       "num": 431879,
       "word": "男朋友对每一任女朋友都很好",
       "onboard_time": 1687652430,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 636560,
+      "num": 1508073,
+      "word": "男生考694分妈妈激动叫出海豚音",
+      "onboard_time": 1687662273,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 623956,
@@ -305,6 +345,14 @@
       "onboard_time": 1687619197,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 594543,
+      "num": 1038141,
+      "word": "学生高考成绩被屏蔽老师激动欢呼",
+      "onboard_time": 1687666477,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 581327,
@@ -355,12 +403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 493828,
-      "num": 358557,
-      "word": "太辜负这张理科脸了",
-      "onboard_time": 1687661851,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 502745,
+      "num": 451893,
+      "word": "河南高考600分及以上26375人",
+      "onboard_time": 1687664675,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 491779,
@@ -467,10 +515,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417758,
-      "num": 417758,
-      "word": "长风渡宣发",
-      "onboard_time": 1687664195,
+      "raw_hot": 421696,
+      "num": 421696,
+      "word": "长风渡宣传语 真情侣才好看",
+      "onboard_time": 1687666536,
       "rank": 24,
       "category": "影视"
     },
@@ -483,20 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 394527,
-      "num": 394527,
-      "word": "男生考694分妈妈激动叫出海豚音",
-      "onboard_time": 1687662273,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 392840,
       "num": 392840,
       "word": "禁毒警拍家庭合照时下意识背过身",
       "onboard_time": 1687617998,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391233,
+      "num": 391233,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 383818,
@@ -523,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 377248,
-      "num": 377248,
-      "word": "真就不管朱一龙的死活",
-      "onboard_time": 1687663230,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376961,
       "num": 376961,
       "word": "你觉得上海迪士尼门票700多值吗",
@@ -555,6 +595,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 355892,
+      "num": 355892,
+      "word": "像极了节后上班的你",
+      "onboard_time": 1687665915,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 346456,
       "num": 346456,
       "word": "王栎鑫披荆斩棘",
@@ -577,6 +625,14 @@
       "onboard_time": 1687659691,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329058,
+      "num": 329058,
+      "word": "逐渐意识到e人在现实有多爽",
+      "onboard_time": 1687663955,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 322673,
@@ -616,6 +672,14 @@
       "word": "秦岚王阳斗嘴戏差点吻上",
       "onboard_time": 1687656693,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310773,
+      "num": 310773,
+      "word": "暮色心约",
+      "onboard_time": 1687664855,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -819,6 +883,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 252835,
+      "num": 252835,
+      "word": "宝宝拍百天照急眼了",
+      "onboard_time": 1687665217,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249186,
       "num": 175400,
       "word": "内向和外向的小狗太明显了",
@@ -828,7 +900,7 @@
     },
     {
       "raw_hot": 249186,
-      "num": 249186,
+      "num": 678893,
       "word": "熊猫养生也少不了喝水",
       "onboard_time": 1687663900,
       "rank": 39,
@@ -841,6 +913,14 @@
       "onboard_time": 1687629799,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237632,
+      "num": 237632,
+      "word": "高考上岸锦鲤",
+      "onboard_time": 1687666778,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 235489,
@@ -907,28 +987,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213253,
+      "num": 213253,
+      "word": "广州 交通环境",
+      "onboard_time": 1687666719,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211871,
       "num": 211871,
       "word": "北京高考查分",
       "onboard_time": 1687656511,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 211779,
-      "num": 211779,
-      "word": "河南高考600分及以上26375人",
-      "onboard_time": 1687664675,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 206575,
-      "num": 206575,
-      "word": "逐渐意识到e人在现实有多爽",
-      "onboard_time": 1687663955,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 206445,
@@ -955,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203693,
+      "num": 203693,
+      "word": "未定事件簿",
+      "onboard_time": 1687665036,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203516,
       "num": 203516,
       "word": "佩斯科夫称将撤销对普里戈任刑事立案",
@@ -969,6 +1049,14 @@
       "onboard_time": 1687617878,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202109,
+      "num": 202109,
+      "word": "甘肃高考分数线",
+      "onboard_time": 1687666960,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 199635,
@@ -1017,6 +1105,14 @@
       "onboard_time": 1687612355,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179635,
+      "num": 238654,
+      "word": "怪模样动物闯地下室一查竟是保护动物",
+      "onboard_time": 1687665036,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177840,
