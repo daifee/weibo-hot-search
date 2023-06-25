@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687667893334,
+  "endTime": 1687670312788,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -657,6 +657,14 @@
       "onboard_time": 1686210632,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3260065,
+      "num": 3260065,
+      "word": "普京反制日本",
+      "onboard_time": 1687665518,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3250485,
@@ -1763,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2236978,
+      "num": 567673,
+      "word": "孟美岐说受到了很多伤害",
+      "onboard_time": 1687667075,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2230491,
       "num": 2230491,
       "word": "Amber单杀Uzi",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1686663987,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2197400,
-      "num": 640265,
-      "word": "普京反制日本",
-      "onboard_time": 1687665518,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2197147,
@@ -4387,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1467905,
+      "num": 550048,
+      "word": "生殖科备孕医嘱",
+      "onboard_time": 1687665518,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1465892,
       "num": 1173394,
       "word": "河北科技大学通报学生跳楼身亡",
@@ -5123,14 +5139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1337041,
-      "num": 550048,
-      "word": "生殖科备孕医嘱",
-      "onboard_time": 1687665518,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 1336936,
       "num": 1336936,
       "word": "陈宏军居然出轨了",
@@ -5473,6 +5481,14 @@
       "onboard_time": 1686288569,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1291823,
+      "num": 1291823,
+      "word": "儿子考了675分父亲弹射冲下楼",
+      "onboard_time": 1687667318,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1291029,
@@ -8665,14 +8681,6 @@
       "onboard_time": 1686462028,
       "rank": 15,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 933065,
-      "num": 567673,
-      "word": "孟美岐说受到了很多伤害",
-      "onboard_time": 1687667075,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 932415,
@@ -14627,14 +14635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533147,
-      "num": 792052,
-      "word": "儿子考了675分父亲弹射冲下楼",
-      "onboard_time": 1687667318,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 532986,
       "num": 532986,
       "word": "张云雷",
@@ -14713,6 +14713,14 @@
       "onboard_time": 1687612715,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527817,
+      "num": 294612,
+      "word": "准婆婆是接生自己的护士",
+      "onboard_time": 1687667979,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 527542,
@@ -16387,6 +16395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466494,
+      "num": 466494,
+      "word": "桃花坞",
+      "onboard_time": 1685888373,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466451,
       "num": 526591,
       "word": "澳大利亚一男子持刀入室抢劫被奸杀",
@@ -16409,6 +16425,14 @@
       "onboard_time": 1686612864,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 465295,
+      "num": 465295,
+      "word": "逐渐意识到e人在现实有多爽",
+      "onboard_time": 1687663955,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 465242,
@@ -18809,6 +18833,14 @@
       "onboard_time": 1686122134,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 397441,
+      "num": 397441,
+      "word": "左然",
+      "onboard_time": 1687668097,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 396875,
@@ -22275,14 +22307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333040,
-      "num": 333040,
-      "word": "逐渐意识到e人在现实有多爽",
-      "onboard_time": 1687663955,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 332839,
       "num": 332839,
       "word": "the idol",
@@ -22569,6 +22593,14 @@
       "onboard_time": 1686548190,
       "rank": 16,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 327686,
+      "num": 291620,
+      "word": "杀害蔡晓东的凶手已被击毙",
+      "onboard_time": 1687669958,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327671,
@@ -23537,6 +23569,14 @@
       "onboard_time": 1687497032,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313814,
+      "num": 313814,
+      "word": "国务院成立宁夏银川烧烤店爆炸事故调查组",
+      "onboard_time": 1687668519,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 313755,
@@ -25867,6 +25907,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 287192,
+      "num": 287192,
+      "word": "山东高考分数线",
+      "onboard_time": 1687667979,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 287121,
       "num": 287121,
       "word": "你以为很贵实则很便宜的东西",
@@ -27785,6 +27833,14 @@
       "onboard_time": 1686550289,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269426,
+      "num": 269426,
+      "word": "这幢大楼的设计师应该经常去大排档",
+      "onboard_time": 1687669897,
+      "rank": 34,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 269371,
@@ -33019,6 +33075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231007,
+      "num": 231007,
+      "word": "男生超一本线50余分激动跪谢妈妈",
+      "onboard_time": 1687668458,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 230958,
       "num": 230958,
       "word": "Rookie",
@@ -33745,6 +33809,14 @@
       "onboard_time": 1687400434,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226259,
+      "num": 226259,
+      "word": "发现自己的影子有点奇怪",
+      "onboard_time": 1687667797,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 226232,
@@ -34755,14 +34827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219719,
-      "num": 190217,
-      "word": "桃花坞",
-      "onboard_time": 1685888373,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219691,
       "num": 523035,
       "word": "阿根廷中国行",
@@ -35473,6 +35537,14 @@
       "onboard_time": 1685924308,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215674,
+      "num": 215674,
+      "word": "王俊凯川渝男人战袍",
+      "onboard_time": 1687669835,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 215629,
@@ -42105,6 +42177,14 @@
       "onboard_time": 1685606007,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183103,
+      "num": 183103,
+      "word": "隔周双休凑长假可行吗",
+      "onboard_time": 1687669897,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 183082,
@@ -54755,6 +54835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91662,
+      "num": 182683,
+      "word": "这不是VAR 这是BAR",
+      "onboard_time": 1687668760,
+      "rank": 49,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 91531,
       "num": 161549,
       "word": "住在阁楼的贵族设计师",
@@ -55691,6 +55779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76682,
+      "num": 465619,
+      "word": "家政人员捡到金镯留下纸条寻失主",
+      "onboard_time": 1687669238,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76641,
       "num": 90717,
       "word": "你工作时选择自己做饭还是点外卖",
@@ -56376,6 +56472,14 @@
       "word": "高校给毕业生送万斤超甜蜜科研成果",
       "onboard_time": 1686466946,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66567,
+      "num": 1340110,
+      "word": "2023高考志愿填报10问10答",
+      "onboard_time": 1687667676,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -58016,14 +58120,6 @@
       "word": "费俊龙妈妈说回来给你烧红烧肉吃",
       "onboard_time": 1685865688,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35892,
-      "num": 1263680,
-      "word": "2023高考志愿填报10问10答",
-      "onboard_time": 1687667676,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

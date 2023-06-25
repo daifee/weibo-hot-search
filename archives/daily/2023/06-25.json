@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687667893334,
+  "endTime": 1687670312788,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3260065,
+      "num": 3260065,
+      "word": "普京反制日本",
+      "onboard_time": 1687665518,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2925840,
       "num": 2925840,
       "word": "瓦格纳从俄南部军区司令部撤离",
@@ -43,12 +51,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 2197400,
-      "num": 640265,
-      "word": "普京反制日本",
-      "onboard_time": 1687665518,
-      "rank": 12,
-      "category": "国外要闻"
+      "raw_hot": 2236978,
+      "num": 567673,
+      "word": "孟美岐说受到了很多伤害",
+      "onboard_time": 1687667075,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 2156574,
@@ -139,6 +147,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1467905,
+      "num": 550048,
+      "word": "生殖科备孕医嘱",
+      "onboard_time": 1687665518,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1448582,
       "num": 906603,
       "word": "向佐自称保姆叫郭碧婷大小姐",
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1337041,
-      "num": 550048,
-      "word": "生殖科备孕医嘱",
-      "onboard_time": 1687665518,
-      "rank": 30,
-      "category": "社会新闻,情感"
+      "raw_hot": 1291823,
+      "num": 1291823,
+      "word": "儿子考了675分父亲弹射冲下楼",
+      "onboard_time": 1687667318,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1289394,
@@ -217,14 +233,6 @@
       "onboard_time": 1687616857,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933065,
-      "num": 567673,
-      "word": "孟美岐说受到了很多伤害",
-      "onboard_time": 1687667075,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 857895,
@@ -403,20 +411,20 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 533147,
-      "num": 792052,
-      "word": "儿子考了675分父亲弹射冲下楼",
-      "onboard_time": 1687667318,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 527899,
       "num": 527899,
       "word": "河南高考600分及以上26375人",
       "onboard_time": 1687664675,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 527817,
+      "num": 294612,
+      "word": "准婆婆是接生自己的护士",
+      "onboard_time": 1687667979,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 522967,
@@ -481,6 +489,22 @@
       "onboard_time": 1687626502,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466494,
+      "num": 466494,
+      "word": "桃花坞",
+      "onboard_time": 1687668275,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 465295,
+      "num": 465295,
+      "word": "逐渐意识到e人在现实有多爽",
+      "onboard_time": 1687663955,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 464518,
@@ -553,6 +577,14 @@
       "onboard_time": 1687661372,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 397441,
+      "num": 397441,
+      "word": "左然",
+      "onboard_time": 1687668097,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 392840,
@@ -643,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333040,
-      "num": 333040,
-      "word": "逐渐意识到e人在现实有多爽",
-      "onboard_time": 1687663955,
-      "rank": 46,
-      "category": "幽默,情感"
+      "raw_hot": 327686,
+      "num": 291620,
+      "word": "杀害蔡晓东的凶手已被击毙",
+      "onboard_time": 1687669958,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322673,
@@ -689,6 +721,14 @@
       "onboard_time": 1687656693,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313814,
+      "num": 313814,
+      "word": "国务院成立宁夏银川烧烤店爆炸事故调查组",
+      "onboard_time": 1687668519,
+      "rank": 27,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 310773,
@@ -769,6 +809,14 @@
       "onboard_time": 1687662752,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287192,
+      "num": 287192,
+      "word": "山东高考分数线",
+      "onboard_time": 1687667979,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 284558,
@@ -857,6 +905,14 @@
       "onboard_time": 1687649065,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269426,
+      "num": 269426,
+      "word": "这幢大楼的设计师应该经常去大排档",
+      "onboard_time": 1687669897,
+      "rank": 34,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 267498,
@@ -979,12 +1035,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231007,
+      "num": 231007,
+      "word": "男生超一本线50余分激动跪谢妈妈",
+      "onboard_time": 1687668458,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 230734,
       "num": 230734,
       "word": "派克特喊话节目组",
       "onboard_time": 1687654172,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226259,
+      "num": 226259,
+      "word": "发现自己的影子有点奇怪",
+      "onboard_time": 1687667797,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 221866,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1687661670,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215674,
+      "num": 215674,
+      "word": "王俊凯川渝男人战袍",
+      "onboard_time": 1687669835,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 215564,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1687612355,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183103,
+      "num": 183103,
+      "word": "隔周双休凑长假可行吗",
+      "onboard_time": 1687669897,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 179635,
@@ -1283,6 +1371,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 91662,
+      "num": 182683,
+      "word": "这不是VAR 这是BAR",
+      "onboard_time": 1687668760,
+      "rank": 49,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 90474,
       "num": 90474,
       "word": "鹿晗14年vs23年",
@@ -1291,12 +1387,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76682,
+      "num": 465619,
+      "word": "家政人员捡到金镯留下纸条寻失主",
+      "onboard_time": 1687669238,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71228,
       "num": 71228,
       "word": "愿高考学子查分时表情都是这样的",
       "onboard_time": 1687627820,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 66567,
+      "num": 1340110,
+      "word": "2023高考志愿填报10问10答",
+      "onboard_time": 1687667676,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38234,
@@ -1313,14 +1425,6 @@
       "onboard_time": 1687633874,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 35892,
-      "num": 1263680,
-      "word": "2023高考志愿填报10问10答",
-      "onboard_time": 1687667676,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33007,
