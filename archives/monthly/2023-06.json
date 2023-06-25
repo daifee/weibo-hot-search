@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687706324831,
+  "endTime": 1687707237116,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3339,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1712691,
+      "num": 1712691,
+      "word": "这些都是野鸡大学",
+      "onboard_time": 1687704878,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1708029,
       "num": 1708029,
       "word": "四级作文",
@@ -6387,6 +6395,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 1187471,
+      "num": 616947,
+      "word": "黄圣依疑怀3胎",
+      "onboard_time": 1687705357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1184677,
       "num": 1184677,
       "word": "毕夏发讣告透露张恒远生前心愿",
@@ -6809,14 +6825,6 @@
       "onboard_time": 1687043898,
       "rank": 11,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1140330,
-      "num": 1140330,
-      "word": "这些都是野鸡大学",
-      "onboard_time": 1687704878,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1140199,
@@ -9235,14 +9243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 903138,
-      "num": 616947,
-      "word": "黄圣依疑怀3胎",
-      "onboard_time": 1687705357,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 901983,
       "num": 901983,
       "word": "跑男最后一期录制没有宋雨琦",
@@ -10275,6 +10275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 818429,
+      "num": 818429,
+      "word": "中方表示瓦格纳集团事件是俄罗斯内政",
+      "onboard_time": 1687703256,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 818234,
       "num": 818234,
       "word": "解说毛毛",
@@ -11233,14 +11241,6 @@
       "onboard_time": 1686321573,
       "rank": 7,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 753638,
-      "num": 615639,
-      "word": "中方表示瓦格纳集团事件是俄罗斯内政",
-      "onboard_time": 1687703256,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 753448,
@@ -12851,6 +12851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646752,
+      "num": 646752,
+      "word": "鹿晗的泪钻",
+      "onboard_time": 1687704337,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 645139,
       "num": 1388427,
       "word": "大学生脑出血交警咆哮式开道送医",
@@ -13328,14 +13336,6 @@
       "word": "Jennie金泰亨都去看了火星哥演唱会",
       "onboard_time": 1687133788,
       "rank": 8,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 620896,
-      "num": 620896,
-      "word": "鹿晗的泪钻",
-      "onboard_time": 1687704337,
-      "rank": 9,
       "category": "音乐"
     },
     {
@@ -16147,6 +16147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492865,
+      "num": 482887,
+      "word": "EXO回归预告",
+      "onboard_time": 1687706674,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492820,
       "num": 416977,
       "word": "徐怀钰 东亚偶像体系",
@@ -16393,6 +16401,14 @@
       "onboard_time": 1685618245,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 485022,
+      "num": 485022,
+      "word": "白桃星座",
+      "onboard_time": 1685889696,
+      "rank": 17,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 484937,
@@ -17131,14 +17147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 459208,
-      "num": 459208,
-      "word": "白桃星座",
-      "onboard_time": 1685889696,
-      "rank": 17,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 458287,
       "num": 330323,
       "word": "鹿晗演唱会重庆站定档",
@@ -17867,6 +17875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 434979,
+      "num": 421241,
+      "word": "我的人间烟火",
+      "onboard_time": 1685588907,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434906,
       "num": 379010,
       "word": "室友在我的护发素里掺了脱毛膏",
@@ -18219,6 +18235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427633,
+      "num": 300088,
+      "word": "肖战谈自己如何面对各种评论",
+      "onboard_time": 1687706555,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427407,
       "num": 427407,
       "word": "杨丞琳李荣浩贴脸照",
@@ -18496,14 +18520,6 @@
       "word": "段磊怎么没了",
       "onboard_time": 1686802529,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 421241,
-      "num": 421241,
-      "word": "我的人间烟火",
-      "onboard_time": 1685588907,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -19153,6 +19169,14 @@
       "onboard_time": 1686636387,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405839,
+      "num": 299735,
+      "word": "朱一龙的头为什么是歪的",
+      "onboard_time": 1687705899,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 405669,
@@ -22347,6 +22371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343763,
+      "num": 294425,
+      "word": "黄子琪 消失的她",
+      "onboard_time": 1687706197,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343487,
       "num": 343487,
       "word": "Prada直播",
@@ -22945,6 +22977,14 @@
       "onboard_time": 1686390807,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333679,
+      "num": 291656,
+      "word": "现在的吃播真的令我手足无措",
+      "onboard_time": 1687706496,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 333541,
@@ -24137,6 +24177,14 @@
       "onboard_time": 1686836009,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 315003,
+      "num": 287080,
+      "word": "秦岚无效多巴胺",
+      "onboard_time": 1687706734,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 314545,
@@ -26251,14 +26299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291995,
-      "num": 291995,
-      "word": "朱一龙的头为什么是歪的",
-      "onboard_time": 1687705899,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 291882,
       "num": 291882,
       "word": "胡锡进 川大处理该女生应遵循以下考量",
@@ -26867,6 +26907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 286227,
+      "num": 286227,
+      "word": "现在的假发已经这么真了吗",
+      "onboard_time": 1687705833,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286215,
       "num": 207550,
       "word": "Amber听到谢娜第一的反应",
@@ -26913,6 +26961,14 @@
       "onboard_time": 1685723546,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285193,
+      "num": 285193,
+      "word": "男生怕考砸被骂查分前挨个打扫房间",
+      "onboard_time": 1687705056,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 285185,
@@ -27313,6 +27369,14 @@
       "onboard_time": 1687057766,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 280695,
+      "num": 280695,
+      "word": "LNG野辅在干嘛",
+      "onboard_time": 1687707155,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 280678,
@@ -32697,14 +32761,6 @@
       "onboard_time": 1686819387,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239479,
-      "num": 239479,
-      "word": "现在的假发已经这么真了吗",
-      "onboard_time": 1687705833,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 239416,
@@ -39265,14 +39321,6 @@
       "onboard_time": 1686906568,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201339,
-      "num": 201339,
-      "word": "黄子琪 消失的她",
-      "onboard_time": 1687706197,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 201333,
