@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687731492472,
+  "endTime": 1687732579452,
   "band_list": [
     {
       "raw_hot": 2168711,
@@ -371,20 +371,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 145973,
+      "num": 145973,
+      "word": "女生高考时发烧考618分挨个屋报喜",
+      "onboard_time": 1687710806,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "穆祉丞中考627分",
       "onboard_time": 1687692934,
       "rank": 45,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 130521,
-      "num": 130521,
-      "word": "女生高考时发烧考618分挨个屋报喜",
-      "onboard_time": 1687710806,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129970,
@@ -451,19 +451,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78096,
+      "num": 78096,
+      "word": "贾乃亮18岁VS39岁",
+      "onboard_time": 1687729873,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72052,
       "num": 72052,
       "word": "孟子义特别好的男生朋友没王鹤棣",
       "onboard_time": 1687698455,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 52962,
-      "num": 52962,
-      "word": "贾乃亮18岁VS39岁",
-      "onboard_time": 1687729873,
-      "rank": 28,
       "category": "综艺"
     },
     {
