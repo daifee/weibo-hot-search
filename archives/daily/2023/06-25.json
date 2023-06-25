@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687666999426,
+  "endTime": 1687667893334,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -43,6 +43,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 2197400,
+      "num": 640265,
+      "word": "普京反制日本",
+      "onboard_time": 1687665518,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2156574,
       "num": 2156574,
       "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
@@ -81,14 +89,6 @@
       "onboard_time": 1687652430,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1934282,
-      "num": 640265,
-      "word": "普京反制日本",
-      "onboard_time": 1687665518,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1722617,
@@ -131,12 +131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1530087,
+      "num": 1530087,
+      "word": "学生高考成绩被屏蔽老师激动欢呼",
+      "onboard_time": 1687666477,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1448582,
       "num": 906603,
       "word": "向佐自称保姆叫郭碧婷大小姐",
       "onboard_time": 1687663714,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1337041,
+      "num": 550048,
+      "word": "生殖科备孕医嘱",
+      "onboard_time": 1687665518,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1289394,
@@ -203,12 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925733,
-      "num": 370749,
-      "word": "生殖科备孕医嘱",
-      "onboard_time": 1687665518,
-      "rank": 30,
-      "category": "社会新闻,情感"
+      "raw_hot": 933065,
+      "num": 567673,
+      "word": "孟美岐说受到了很多伤害",
+      "onboard_time": 1687667075,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 857895,
+      "num": 678579,
+      "word": "太辜负这张理科脸了",
+      "onboard_time": 1687661851,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 857543,
@@ -283,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 713543,
+      "num": 421696,
+      "word": "长风渡宣传语 真情侣才好看",
+      "onboard_time": 1687666536,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 705349,
       "num": 648352,
       "word": "俄罗斯",
@@ -305,14 +337,6 @@
       "onboard_time": 1687619558,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678579,
-      "num": 678579,
-      "word": "太辜负这张理科脸了",
-      "onboard_time": 1687661851,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 643651,
@@ -347,14 +371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 594543,
-      "num": 1038141,
-      "word": "学生高考成绩被屏蔽老师激动欢呼",
-      "onboard_time": 1687666477,
-      "rank": 4,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 581327,
       "num": 581327,
       "word": "周周小可爱新恋情",
@@ -387,6 +403,22 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 533147,
+      "num": 792052,
+      "word": "儿子考了675分父亲弹射冲下楼",
+      "onboard_time": 1687667318,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 527899,
+      "num": 527899,
+      "word": "河南高考600分及以上26375人",
+      "onboard_time": 1687664675,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 522967,
       "num": 522967,
       "word": "北京公布高考分数线",
@@ -401,14 +433,6 @@
       "onboard_time": 1687610132,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 502745,
-      "num": 451893,
-      "word": "河南高考600分及以上26375人",
-      "onboard_time": 1687664675,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 491779,
@@ -491,6 +515,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 432605,
+      "num": 432605,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432078,
       "num": 432078,
       "word": "95后女生收6岁小徒弟传承非遗",
@@ -515,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421696,
-      "num": 421696,
-      "word": "长风渡宣传语 真情侣才好看",
-      "onboard_time": 1687666536,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403448,
       "num": 403448,
       "word": "如何看待发朋友圈带定位的人",
@@ -537,14 +561,6 @@
       "onboard_time": 1687617998,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391233,
-      "num": 391233,
-      "word": "真就不管朱一龙的死活",
-      "onboard_time": 1687663230,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 383818,
@@ -627,8 +643,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329058,
-      "num": 329058,
+      "raw_hot": 333040,
+      "num": 333040,
       "word": "逐渐意识到e人在现实有多爽",
       "onboard_time": 1687663955,
       "rank": 46,
@@ -859,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259388,
+      "num": 259388,
+      "word": "蜘蛛侠成功背后残酷代价",
+      "onboard_time": 1687667377,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255627,
       "num": 255627,
       "word": "张远录制披荆斩棘的哥哥",
@@ -891,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251333,
+      "num": 251333,
+      "word": "高考上岸锦鲤",
+      "onboard_time": 1687666778,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 249186,
       "num": 175400,
       "word": "内向和外向的小狗太明显了",
@@ -915,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237632,
-      "num": 237632,
-      "word": "高考上岸锦鲤",
-      "onboard_time": 1687666778,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 238977,
+      "num": 238977,
+      "word": "桑稚泼水快狠准",
+      "onboard_time": 1687667318,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 235489,
@@ -955,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221866,
+      "num": 221866,
+      "word": "广州 交通环境",
+      "onboard_time": 1687666719,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218935,
       "num": 218935,
       "word": "有不扫兴的父母是什么体验",
@@ -985,14 +1025,6 @@
       "onboard_time": 1687659750,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213253,
-      "num": 213253,
-      "word": "广州 交通环境",
-      "onboard_time": 1687666719,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211871,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 203693,
-      "num": 203693,
+      "num": 220788,
       "word": "未定事件簿",
       "onboard_time": 1687665036,
       "rank": 46,
@@ -1196,7 +1228,7 @@
     },
     {
       "raw_hot": 140441,
-      "num": 216373,
+      "num": 220127,
       "word": "WBG失误",
       "onboard_time": 1687651350,
       "rank": 49,
@@ -1283,11 +1315,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35892,
+      "num": 1263680,
+      "word": "2023高考志愿填报10问10答",
+      "onboard_time": 1687667676,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33007,
       "num": 40497,
       "word": "银川烧烤店爆炸背后",
       "onboard_time": 1687637712,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31506,
+      "num": 429487,
+      "word": "太空视角下五颜六色的中国大地",
+      "onboard_time": 1687658552,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
