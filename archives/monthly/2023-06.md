@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 19:16:24
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 19:33:52
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ BBC卧底记者扒出经营偷拍视频团伙（热度：2726064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23" target="weibo">
+女孩高考成绩被屏蔽4天小字显示全省前50（热度：2506958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%96%9D%E9%85%92%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 26岁网红直播喝酒后去世（热度：2502072）
 </a>
@@ -1595,12 +1601,6 @@ Angelababy冷脸（热度：2172017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%23" target="weibo">
 六公主（热度：2103908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23" target="weibo">
-女孩高考成绩被屏蔽4天小字显示全省前50（热度：2103072）
 </a>
 </li>
 
@@ -2477,6 +2477,12 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%8F%98%E6%B1%AA%E5%B3%B0%23" target="weibo">
 腾讯变汪峰（热度：1720020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23" target="weibo">
+白敬亭工作室big胆（热度：1719197）
 </a>
 </li>
 
@@ -5019,6 +5025,12 @@ Jennie 复仇者联盟5（热度：1161672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23" target="weibo">
+父亲拒绝给钱买毒品被儿子殴打致死（热度：1148603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C%23" target="weibo">
 邪剑仙根本吸不完（热度：1148318）
 </a>
@@ -5459,12 +5471,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%99%92%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E5%90%88%E7%85%A7%23" target="weibo">
 伊能静晒儿子女儿合照（热度：1084810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23" target="weibo">
-父亲拒绝给钱买毒品被儿子殴打致死（热度：1084636）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%97%A0%E7%BE%A1%E5%A5%BD%E5%BC%BA%23" target="weibo">
 魏无羡好强（热度：1014208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC%23" target="weibo">
-高考理综（热度：1013701）
 </a>
 </li>
 
