@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687685638309,
+  "endTime": 1687688389889,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -43,20 +43,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3029892,
+      "num": 711179,
+      "word": "黄多多17岁穿搭",
+      "onboard_time": 1687682614,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2925840,
       "num": 2925840,
       "word": "瓦格纳从俄南部军区司令部撤离",
       "onboard_time": 1687648282,
       "rank": 10,
       "category": "军事"
-    },
-    {
-      "raw_hot": 2786966,
-      "num": 711179,
-      "word": "黄多多17岁穿搭",
-      "onboard_time": 1687682614,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2675479,
@@ -128,6 +128,14 @@
       "word": "711分考生妈妈建议家长不要把全部精力投入孩子",
       "onboard_time": 1687671574,
       "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1871687,
+      "num": 807866,
+      "word": "殡葬专业就业率百分之百",
+      "onboard_time": 1687685497,
+      "rank": 38,
       "category": "社会新闻,教育"
     },
     {
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1376837,
+      "num": 928831,
+      "word": "上市公司祝贺总经理女儿夺高考状元",
+      "onboard_time": 1687682734,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1291823,
       "num": 1511169,
       "word": "儿子考了675分父亲弹射冲下楼",
@@ -267,6 +283,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1146159,
+      "num": 643149,
+      "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
+      "onboard_time": 1687685793,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1086329,
       "num": 1086329,
       "word": "美媒称美国提前得知瓦格纳要行动",
@@ -289,6 +313,14 @@
       "onboard_time": 1687678831,
       "rank": 6,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1023610,
+      "num": 776846,
+      "word": "虞书欣一天喝了三杯冰美式",
+      "onboard_time": 1687684052,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1020730,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 974510,
-      "num": 427474,
+      "num": 446415,
       "word": "牙医不建议用电动牙刷",
       "onboard_time": 1687682374,
       "rank": 20,
@@ -337,14 +369,6 @@
       "onboard_time": 1687680758,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 928831,
-      "num": 928831,
-      "word": "上市公司祝贺总经理女儿夺高考状元",
-      "onboard_time": 1687682734,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 916039,
@@ -427,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 776846,
-      "num": 776846,
-      "word": "虞书欣一天喝了三杯冰美式",
-      "onboard_time": 1687684052,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 775138,
       "num": 775138,
       "word": "女孩充电被电击内脏受损面临截肢",
@@ -513,6 +529,14 @@
       "onboard_time": 1687619558,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645666,
+      "num": 645666,
+      "word": "陈哲远不谈恋爱的原因",
+      "onboard_time": 1687686632,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 643651,
@@ -601,6 +625,14 @@
       "onboard_time": 1687681656,
       "rank": 13,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 560739,
+      "num": 787818,
+      "word": "女子上午买瓜34元没付上傍晚开车来补",
+      "onboard_time": 1687685973,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550424,
@@ -771,6 +803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458856,
+      "num": 458856,
+      "word": "父亲拒绝给钱买毒品被儿子殴打致死",
+      "onboard_time": 1687687114,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456170,
+      "num": 456170,
+      "word": "鹿晗粉丝垃圾捡走了自己的东西丢了",
+      "onboard_time": 1687683812,
+      "rank": 36,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 455402,
       "num": 455402,
       "word": "湖北2023年高考分数线",
@@ -833,14 +881,6 @@
       "onboard_time": 1687613855,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427806,
-      "num": 427806,
-      "word": "鹿晗粉丝垃圾捡走了自己的东西丢了",
-      "onboard_time": 1687683812,
-      "rank": 36,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 427490,
@@ -987,12 +1027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347687,
+      "num": 347687,
+      "word": "丁禹兮何超莲合照",
+      "onboard_time": 1687686393,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 346456,
       "num": 346456,
       "word": "王栎鑫披荆斩棘",
       "onboard_time": 1687661910,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342445,
+      "num": 342445,
+      "word": "RA对战EDG",
+      "onboard_time": 1687682674,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 339189,
@@ -1219,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281424,
+      "num": 281424,
+      "word": "AG对战RNGM",
+      "onboard_time": 1687688133,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279463,
       "num": 279463,
       "word": "虞书欣到底有多少靴子",
@@ -1411,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252382,
+      "num": 252382,
+      "word": "汪苏泷许嵩来不来",
+      "onboard_time": 1687686752,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251333,
       "num": 251333,
       "word": "高考上岸锦鲤",
@@ -1473,6 +1545,22 @@
       "onboard_time": 1687681475,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238478,
+      "num": 238478,
+      "word": "存款被朋友看到了很不开心",
+      "onboard_time": 1687685853,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 236082,
+      "num": 236082,
+      "word": "早起有口臭是不是正常现象",
+      "onboard_time": 1687688074,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 235489,
@@ -1611,6 +1699,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 207682,
+      "num": 207682,
+      "word": "农学生的崩溃只在一瞬间",
+      "onboard_time": 1687686693,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 207638,
       "num": 207638,
       "word": "以前的手机设计是真的大胆",
@@ -1619,12 +1715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207447,
-      "num": 207447,
-      "word": "殡葬专业就业率百分之百",
-      "onboard_time": 1687685497,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 206523,
+      "num": 206523,
+      "word": "唐尚珺称高考662分系谣言",
+      "onboard_time": 1687688133,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 206445,
@@ -1633,6 +1729,14 @@
       "onboard_time": 1687610313,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205160,
+      "num": 205160,
+      "word": "黄明昊回复后的好笑程度",
+      "onboard_time": 1687687956,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 205020,
@@ -1723,12 +1827,36 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 189350,
+      "num": 193079,
+      "word": "10角等于几元",
+      "onboard_time": 1687687956,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188319,
+      "num": 188319,
+      "word": "没想到猪比我还自律",
+      "onboard_time": 1687686993,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187713,
       "num": 187713,
       "word": "普京发表讲话",
       "onboard_time": 1687586314,
       "rank": 42,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 187227,
+      "num": 187227,
+      "word": "阴阳师",
+      "onboard_time": 1687688312,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 186584,
@@ -1745,6 +1873,14 @@
       "onboard_time": 1687612355,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182404,
+      "num": 182404,
+      "word": "我看上了妈妈找的工作",
+      "onboard_time": 1687685973,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 180381,
@@ -2057,6 +2193,14 @@
       "onboard_time": 1687627820,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 66482,
+      "num": 531702,
+      "word": "杭州跳桥救人小哥获市政府最高奖励",
+      "onboard_time": 1687687293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62937,
