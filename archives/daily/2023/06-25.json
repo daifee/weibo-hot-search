@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687660015119,
+  "endTime": 1687663357490,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -11,6 +11,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 3390553,
+      "num": 3390553,
+      "word": "调休",
+      "onboard_time": 1687656091,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2925840,
       "num": 2925840,
       "word": "瓦格纳从俄南部军区司令部撤离",
@@ -19,20 +27,28 @@
       "category": "军事"
     },
     {
-      "raw_hot": 2595707,
-      "num": 2595707,
-      "word": "调休",
-      "onboard_time": 1687656091,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2156574,
       "num": 2156574,
       "word": "俄媒称俄军已在莫斯科市郊架设机枪阵地",
       "onboard_time": 1687625783,
       "rank": 30,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 2147371,
+      "num": 927635,
+      "word": "张雪峰 因过度劳累被强制住院",
+      "onboard_time": 1687662210,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2126736,
+      "num": 2126736,
+      "word": "乌克兰宣布从多方向发起反攻",
+      "onboard_time": 1687657828,
+      "rank": 18,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 2079056,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1645828,
+      "num": 1645828,
+      "word": "2023广东高考分数线",
+      "onboard_time": 1687661969,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1596557,
       "num": 529855,
       "word": "白俄罗斯",
@@ -81,14 +105,6 @@
       "onboard_time": 1687615298,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1473292,
-      "num": 1473292,
-      "word": "乌克兰宣布从多方向发起反攻",
-      "onboard_time": 1687657828,
-      "rank": 18,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1289394,
@@ -115,6 +131,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 1233310,
+      "num": 1233310,
+      "word": "调休制定参与者建议重新考虑政策",
+      "onboard_time": 1687659569,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020730,
       "num": 409286,
       "word": "莫斯科直飞伊斯坦布尔等地机票已售罄",
@@ -123,12 +147,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999778,
+      "num": 999778,
+      "word": "宋轶片场勾白敬亭下巴",
+      "onboard_time": 1687657471,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 979453,
       "num": 979453,
       "word": "在俄华人讲述俄罗斯各地现状",
       "onboard_time": 1687616857,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930107,
+      "num": 930107,
+      "word": "高考分数线",
+      "onboard_time": 1687662992,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 928489,
+      "num": 928489,
+      "word": "消失的她原型",
+      "onboard_time": 1687657171,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 857543,
@@ -147,20 +195,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 790365,
-      "num": 790365,
-      "word": "宋轶片场勾白敬亭下巴",
-      "onboard_time": 1687657471,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 781621,
-      "num": 781621,
-      "word": "消失的她原型",
-      "onboard_time": 1687657171,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 793559,
+      "num": 793559,
+      "word": "杨颖和朋友聚会前后反差",
+      "onboard_time": 1687660351,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 775138,
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 757599,
-      "num": 399469,
+      "num": 496077,
       "word": "生孩子当天老公发的朋友圈",
       "onboard_time": 1687658791,
       "rank": 20,
@@ -203,6 +243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 697595,
+      "num": 338757,
+      "word": "瓦格纳的24小时哗变",
+      "onboard_time": 1687662512,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 686578,
       "num": 631263,
       "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
@@ -217,6 +265,14 @@
       "onboard_time": 1687652430,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 631139,
+      "num": 631139,
+      "word": "湖南分数线",
+      "onboard_time": 1687661851,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 623956,
@@ -235,6 +291,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 581327,
+      "num": 581327,
+      "word": "周周小可爱新恋情",
+      "onboard_time": 1687660110,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 580454,
+      "num": 580454,
+      "word": "大学不要和这类人有交集",
+      "onboard_time": 1687661011,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 550424,
       "num": 550424,
       "word": "银川31死爆炸事故原因公布",
@@ -249,6 +321,14 @@
       "onboard_time": 1687630816,
       "rank": 41,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 522967,
+      "num": 522967,
+      "word": "北京公布高考分数线",
+      "onboard_time": 1687659930,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 518068,
@@ -307,12 +387,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464518,
+      "num": 464518,
+      "word": "今年中秋国庆休八上七",
+      "onboard_time": 1687660228,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460775,
+      "num": 334189,
+      "word": "太辜负这张理科脸了",
+      "onboard_time": 1687661851,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 454476,
       "num": 454476,
       "word": "早安 星期零",
       "onboard_time": 1687655192,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 442890,
+      "num": 442890,
+      "word": "披荆斩棘3名单",
+      "onboard_time": 1687661492,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 432078,
@@ -337,6 +441,14 @@
       "onboard_time": 1687617216,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403448,
+      "num": 403448,
+      "word": "如何看待发朋友圈带定位的人",
+      "onboard_time": 1687661372,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 392840,
@@ -379,6 +491,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 367557,
+      "num": 367557,
+      "word": "2023广东高考查分",
+      "onboard_time": 1687659090,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 367271,
       "num": 367271,
       "word": "江苏高考687分及以上116人",
@@ -395,12 +515,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 349542,
-      "num": 349542,
-      "word": "调休制定参与者建议重新考虑政策",
-      "onboard_time": 1687659569,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 348465,
+      "num": 348465,
+      "word": "男生考694分妈妈激动叫出海豚音",
+      "onboard_time": 1687662273,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 346456,
+      "num": 346456,
+      "word": "王栎鑫披荆斩棘",
+      "onboard_time": 1687661910,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 339189,
@@ -425,6 +553,14 @@
       "onboard_time": 1687600473,
       "rank": 24,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 319552,
+      "num": 319552,
+      "word": "假期旅游回来发现空调没关",
+      "onboard_time": 1687659569,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 317449,
@@ -491,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289882,
+      "num": 289882,
+      "word": "男生高考英语141分老师激动摸头拍背",
+      "onboard_time": 1687657050,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 284558,
       "num": 284558,
       "word": "繁华似锦开播",
       "onboard_time": 1687659691,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284482,
-      "num": 284482,
-      "word": "男生高考英语141分老师激动摸头拍背",
-      "onboard_time": 1687657050,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 281739,
@@ -555,14 +691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275301,
-      "num": 275301,
-      "word": "假期旅游回来发现空调没关",
-      "onboard_time": 1687659569,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273148,
       "num": 271388,
       "word": "闺蜜看完消失的她和对象分手了",
@@ -603,12 +731,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 266622,
+      "num": 266622,
+      "word": "这猫怎么比小朋友还大",
+      "onboard_time": 1687659691,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 257969,
+      "num": 257969,
+      "word": "南波万的手帐",
+      "onboard_time": 1687662752,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255627,
       "num": 255627,
       "word": "张远录制披荆斩棘的哥哥",
       "onboard_time": 1687618600,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254436,
+      "num": 254436,
+      "word": "湖南高考发布会",
+      "onboard_time": 1687662334,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 254429,
@@ -659,28 +811,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227914,
-      "num": 227914,
-      "word": "2023广东高考查分",
-      "onboard_time": 1687659090,
-      "rank": 41,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 222889,
       "num": 222889,
       "word": "派克特喊话节目组",
       "onboard_time": 1687654172,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218992,
-      "num": 218992,
-      "word": "这猫怎么比小朋友还大",
-      "onboard_time": 1687659691,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 218935,
@@ -699,20 +835,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218333,
+      "num": 218333,
+      "word": "邓稼先原子弹氢弹奖金各10元",
+      "onboard_time": 1687661670,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217128,
+      "num": 217128,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215564,
       "num": 215564,
       "word": "古巨基到底采访过多少香港巨星",
       "onboard_time": 1687659750,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215388,
-      "num": 215388,
-      "word": "北京公布高考分数线",
-      "onboard_time": 1687659930,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211871,
@@ -844,7 +988,7 @@
     },
     {
       "raw_hot": 169363,
-      "num": 205126,
+      "num": 216375,
       "word": "代号鸢",
       "onboard_time": 1687657411,
       "rank": 48,
@@ -892,7 +1036,7 @@
     },
     {
       "raw_hot": 140441,
-      "num": 202807,
+      "num": 216373,
       "word": "WBG失误",
       "onboard_time": 1687651350,
       "rank": 49,
@@ -1004,7 +1148,7 @@
     },
     {
       "raw_hot": 8648,
-      "num": 1664454,
+      "num": 1742142,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,

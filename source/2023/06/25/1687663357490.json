@@ -1,0 +1,410 @@
+{
+  "runTime": 1687663357490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3390553,
+        "num": 3390553,
+        "word": "调休",
+        "onboard_time": 1687656091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2126736,
+        "num": 2126736,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 1,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 8543,
+        "num": 1742142,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1645828,
+        "num": 1645828,
+        "word": "2023广东高考分数线",
+        "onboard_time": 1687661969,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1233310,
+        "num": 1233310,
+        "word": "调休制定参与者建议重新考虑政策",
+        "onboard_time": 1687659569,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071596,
+        "num": 1071596,
+        "word": "新华书店才是隐藏的终极大佬",
+        "onboard_time": 1687652430,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007869,
+        "num": 1007869,
+        "word": "普京感谢卢卡申科",
+        "onboard_time": 1687656993,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 999778,
+        "num": 999778,
+        "word": "宋轶片场勾白敬亭下巴",
+        "onboard_time": 1687657471,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 930107,
+        "num": 930107,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 928489,
+        "num": 928489,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2147371,
+        "num": 927635,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 925356,
+        "num": 925356,
+        "word": "陈飞宇孟子义 难哄",
+        "onboard_time": 1687650387,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 793559,
+        "num": 793559,
+        "word": "杨颖和朋友聚会前后反差",
+        "onboard_time": 1687660351,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651713,
+        "num": 651713,
+        "word": "瓦格纳从俄南部军区司令部撤离",
+        "onboard_time": 1687648282,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 641288,
+        "num": 641288,
+        "word": "男子每天1斤杨梅狂吃20天要做血透",
+        "onboard_time": 1687650387,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631139,
+        "num": 631139,
+        "word": "湖南分数线",
+        "onboard_time": 1687661851,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 581327,
+        "num": 581327,
+        "word": "周周小可爱新恋情",
+        "onboard_time": 1687660110,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580454,
+        "num": 580454,
+        "word": "大学不要和这类人有交集",
+        "onboard_time": 1687661011,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 570772,
+        "num": 570772,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522967,
+        "num": 522967,
+        "word": "北京公布高考分数线",
+        "onboard_time": 1687659930,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 716667,
+        "num": 496077,
+        "word": "生孩子当天老公发的朋友圈",
+        "onboard_time": 1687658791,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464518,
+        "num": 464518,
+        "word": "今年中秋国庆休八上七",
+        "onboard_time": 1687660228,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442890,
+        "num": 442890,
+        "word": "披荆斩棘3名单",
+        "onboard_time": 1687661492,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418924,
+        "num": 418924,
+        "word": "女孩充电被电击内脏受损面临截肢",
+        "onboard_time": 1687650928,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403448,
+        "num": 403448,
+        "word": "如何看待发朋友圈带定位的人",
+        "onboard_time": 1687661372,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367557,
+        "num": 367557,
+        "word": "2023广东高考查分",
+        "onboard_time": 1687659090,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 354775,
+        "num": 354775,
+        "word": "俄罗斯",
+        "onboard_time": 1687656932,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 348465,
+        "num": 348465,
+        "word": "男生考694分妈妈激动叫出海豚音",
+        "onboard_time": 1687662273,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 346456,
+        "num": 346456,
+        "word": "王栎鑫披荆斩棘",
+        "onboard_time": 1687661910,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339900,
+        "num": 339900,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 697595,
+        "num": 338757,
+        "word": "瓦格纳的24小时哗变",
+        "onboard_time": 1687662512,
+        "rank": 30,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 460775,
+        "num": 334189,
+        "word": "太辜负这张理科脸了",
+        "onboard_time": 1687661851,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324449,
+        "num": 324449,
+        "word": "鹿晗演唱会的女安检员",
+        "onboard_time": 1687610132,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319552,
+        "num": 319552,
+        "word": "假期旅游回来发现空调没关",
+        "onboard_time": 1687659569,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289882,
+        "num": 289882,
+        "word": "男生高考英语141分老师激动摸头拍背",
+        "onboard_time": 1687657050,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 276671,
+        "num": 276671,
+        "word": "繁华似锦开播",
+        "onboard_time": 1687659691,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274166,
+        "num": 274166,
+        "word": "高铁上碰到三位大哥在吃酒席",
+        "onboard_time": 1687659691,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266622,
+        "num": 266622,
+        "word": "这猫怎么比小朋友还大",
+        "onboard_time": 1687659691,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263876,
+        "num": 263876,
+        "word": "陈思诚透露误杀3和唐探新片进度",
+        "onboard_time": 1687626502,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257969,
+        "num": 257969,
+        "word": "南波万的手帐",
+        "onboard_time": 1687662752,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254436,
+        "num": 254436,
+        "word": "湖南高考发布会",
+        "onboard_time": 1687662334,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237685,
+        "num": 237685,
+        "word": "男朋友对每一任女朋友都很好",
+        "onboard_time": 1687652430,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233272,
+        "num": 233272,
+        "word": "去看中医医生叫我找个男朋友",
+        "onboard_time": 1687655853,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233029,
+        "num": 233029,
+        "word": "鹿晗演唱会散场后没有垃圾",
+        "onboard_time": 1687653572,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232929,
+        "num": 232929,
+        "word": "河南高考2023分数线",
+        "onboard_time": 1687653933,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 218333,
+        "num": 218333,
+        "word": "邓稼先原子弹氢弹奖金各10元",
+        "onboard_time": 1687661670,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217128,
+        "num": 217128,
+        "word": "真就不管朱一龙的死活",
+        "onboard_time": 1687663230,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200583,
+        "num": 216438,
+        "word": "唐舞桐的原型是唐家三少女儿",
+        "onboard_time": 1687656091,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 130399,
+        "num": 216375,
+        "word": "代号鸢",
+        "onboard_time": 1687657411,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109829,
+        "num": 216373,
+        "word": "WBG失误",
+        "onboard_time": 1687651350,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#130秒飞阅祖国盛夏之美#"
+    }
+  }
+}

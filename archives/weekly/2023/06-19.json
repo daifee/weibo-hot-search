@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687660015119,
+  "endTime": 1687663357490,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3390553,
+      "num": 3390553,
+      "word": "调休",
+      "onboard_time": 1687656091,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3331192,
       "num": 3331192,
       "word": "女生高考712分查完分就睡了",
@@ -472,14 +480,6 @@
       "word": "本周仅上4天班",
       "onboard_time": 1687136851,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2595707,
-      "num": 2595707,
-      "word": "调休",
-      "onboard_time": 1687656091,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -755,6 +755,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 2147371,
+      "num": 927635,
+      "word": "张雪峰 因过度劳累被强制住院",
+      "onboard_time": 1687662210,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2141755,
       "num": 2141755,
       "word": "林志颖",
@@ -777,6 +785,14 @@
       "onboard_time": 1687169980,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2126736,
+      "num": 2126736,
+      "word": "乌克兰宣布从多方向发起反攻",
+      "onboard_time": 1687657828,
+      "rank": 18,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 2105201,
@@ -1171,6 +1187,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1645828,
+      "num": 1645828,
+      "word": "2023广东高考分数线",
+      "onboard_time": 1687661969,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1631368,
       "num": 1087907,
       "word": "炎亚纶崩溃痛哭",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1687536697,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1473292,
-      "num": 1473292,
-      "word": "乌克兰宣布从多方向发起反攻",
-      "onboard_time": 1687657828,
-      "rank": 18,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1472333,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1687583673,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1233310,
+      "num": 1233310,
+      "word": "调休制定参与者建议重新考虑政策",
+      "onboard_time": 1687659569,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1230117,
@@ -2563,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 999778,
+      "num": 999778,
+      "word": "宋轶片场勾白敬亭下巴",
+      "onboard_time": 1687657471,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 998050,
       "num": 998050,
       "word": "厦大新闻学教授谈张雪峰言论",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1687507230,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928489,
+      "num": 928489,
+      "word": "消失的她原型",
+      "onboard_time": 1687657171,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 927985,
@@ -3339,12 +3379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 790365,
-      "num": 790365,
-      "word": "宋轶片场勾白敬亭下巴",
-      "onboard_time": 1687657471,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 793559,
+      "num": 793559,
+      "word": "杨颖和朋友聚会前后反差",
+      "onboard_time": 1687660351,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 788372,
@@ -3385,14 +3425,6 @@
       "onboard_time": 1687082128,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781621,
-      "num": 781621,
-      "word": "消失的她原型",
-      "onboard_time": 1687657171,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 777392,
@@ -3500,7 +3532,7 @@
     },
     {
       "raw_hot": 757599,
-      "num": 399469,
+      "num": 496077,
       "word": "生孩子当天老公发的朋友圈",
       "onboard_time": 1687658791,
       "rank": 20,
@@ -3785,6 +3817,14 @@
       "onboard_time": 1687584813,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 697595,
+      "num": 338757,
+      "word": "瓦格纳的24小时哗变",
+      "onboard_time": 1687662512,
+      "rank": 30,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 695563,
@@ -4123,6 +4163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631139,
+      "num": 631139,
+      "word": "湖南分数线",
+      "onboard_time": 1687661851,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 630791,
       "num": 630791,
       "word": "清华大学vs广东工大",
@@ -4387,12 +4435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581327,
+      "num": 581327,
+      "word": "周周小可爱新恋情",
+      "onboard_time": 1687660110,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580986,
       "num": 580986,
       "word": "段嘉许好帅",
       "onboard_time": 1687267414,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580454,
+      "num": 580454,
+      "word": "大学不要和这类人有交集",
+      "onboard_time": 1687661011,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 579797,
@@ -4833,6 +4897,14 @@
       "onboard_time": 1687150171,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522967,
+      "num": 522967,
+      "word": "北京公布高考分数线",
+      "onboard_time": 1687659930,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 522229,
@@ -5499,6 +5571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 464518,
+      "num": 464518,
+      "word": "今年中秋国庆休八上七",
+      "onboard_time": 1687660228,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464298,
       "num": 347233,
       "word": "为什么妲己总喂纣王吃葡萄",
@@ -5521,6 +5601,14 @@
       "onboard_time": 1687593935,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460775,
+      "num": 334189,
+      "word": "太辜负这张理科脸了",
+      "onboard_time": 1687661851,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 460130,
@@ -5761,6 +5849,14 @@
       "onboard_time": 1687186965,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442890,
+      "num": 442890,
+      "word": "披荆斩棘3名单",
+      "onboard_time": 1687661492,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 441943,
@@ -6355,6 +6451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 403448,
+      "num": 403448,
+      "word": "如何看待发朋友圈带定位的人",
+      "onboard_time": 1687661372,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 400423,
       "num": 400423,
       "word": "难哄",
@@ -6931,6 +7035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367557,
+      "num": 367557,
+      "word": "2023广东高考查分",
+      "onboard_time": 1687659090,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 367271,
       "num": 367271,
       "word": "江苏高考687分及以上116人",
@@ -7283,14 +7395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349542,
-      "num": 349542,
-      "word": "调休制定参与者建议重新考虑政策",
-      "onboard_time": 1687659569,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349228,
       "num": 325492,
       "word": "Jennie新剧预告又跳舞了",
@@ -7313,6 +7417,14 @@
       "onboard_time": 1687499432,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348465,
+      "num": 348465,
+      "word": "男生考694分妈妈激动叫出海豚音",
+      "onboard_time": 1687662273,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 348070,
@@ -7401,6 +7513,14 @@
       "onboard_time": 1687566750,
       "rank": 29,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 346456,
+      "num": 346456,
+      "word": "王栎鑫披荆斩棘",
+      "onboard_time": 1687661910,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 344657,
@@ -7833,6 +7953,14 @@
       "onboard_time": 1687264229,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319552,
+      "num": 319552,
+      "word": "假期旅游回来发现空调没关",
+      "onboard_time": 1687659569,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 319193,
@@ -8611,6 +8739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289882,
+      "num": 289882,
+      "word": "男生高考英语141分老师激动摸头拍背",
+      "onboard_time": 1687657050,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 289825,
       "num": 289825,
       "word": "林志颖活动照",
@@ -8809,14 +8945,6 @@
       "onboard_time": 1687659691,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284482,
-      "num": 284482,
-      "word": "男生高考英语141分老师激动摸头拍背",
-      "onboard_time": 1687657050,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 284386,
@@ -9081,14 +9209,6 @@
       "onboard_time": 1687189835,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275301,
-      "num": 275301,
-      "word": "假期旅游回来发现空调没关",
-      "onboard_time": 1687659569,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 275173,
@@ -9427,6 +9547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266622,
+      "num": 266622,
+      "word": "这猫怎么比小朋友还大",
+      "onboard_time": 1687659691,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266615,
       "num": 266615,
       "word": "桑稚段嘉许再次重逢",
@@ -9699,6 +9827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257969,
+      "num": 257969,
+      "word": "南波万的手帐",
+      "onboard_time": 1687662752,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257867,
       "num": 257867,
       "word": "如何聊出自带BGM的天",
@@ -9801,6 +9937,14 @@
       "onboard_time": 1687237237,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254436,
+      "num": 254436,
+      "word": "湖南高考发布会",
+      "onboard_time": 1687662334,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 254429,
@@ -10971,14 +11115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227914,
-      "num": 227914,
-      "word": "2023广东高考查分",
-      "onboard_time": 1687659090,
-      "rank": 41,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 227439,
       "num": 227439,
       "word": "偷偷藏不住预告",
@@ -11251,14 +11387,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 218992,
-      "num": 218992,
-      "word": "这猫怎么比小朋友还大",
-      "onboard_time": 1687659691,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218954,
       "num": 186043,
       "word": "种地吧",
@@ -11273,6 +11401,14 @@
       "onboard_time": 1687653692,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 218333,
+      "num": 218333,
+      "word": "邓稼先原子弹氢弹奖金各10元",
+      "onboard_time": 1687661670,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218296,
@@ -11313,6 +11449,14 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217128,
+      "num": 217128,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 217032,
@@ -11361,14 +11505,6 @@
       "onboard_time": 1687659750,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215388,
-      "num": 215388,
-      "word": "北京公布高考分数线",
-      "onboard_time": 1687659930,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 215358,
@@ -14340,7 +14476,7 @@
     },
     {
       "raw_hot": 140441,
-      "num": 202807,
+      "num": 216373,
       "word": "WBG失误",
       "onboard_time": 1687651350,
       "rank": 49,
