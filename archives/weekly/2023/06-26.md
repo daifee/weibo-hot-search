@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/26 00:24:04 ~ 2023/06/26 06:36:19
+本榜单时间：2023/06/26 00:24:04 ~ 2023/06/26 07:18:59
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,12 @@ EXO回归预告（热度：448068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23" target="weibo">
+父亲去世男孩忍痛高考如愿上岸（热度：366686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%9C%A8%E6%8C%BD%E5%9B%9E%E5%BD%A2%E8%B1%A1%E5%90%97%23" target="weibo">
 白敬亭是在挽回形象吗（热度：345577）
 </a>
@@ -141,6 +147,12 @@ LNG野辅在干嘛（热度：330307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A4%A7%E5%90%8D%E5%8D%95%23" target="weibo">
+王者荣耀亚运会大名单（热度：327835）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8D%E7%94%A8%E7%AE%A1%E6%88%91%E6%AD%BB%E6%B4%BB%23" target="weibo">
 蔡徐坤不用管我死活（热度：319103）
 </a>
@@ -149,6 +161,12 @@ LNG野辅在干嘛（热度：330307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
 白桃星座（热度：304853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E9%99%A2%E4%B8%8D%E8%AE%A9%E5%AE%B6%E5%B1%9E%E9%99%AA%E6%8A%A4%E5%8F%AA%E8%83%BD%E8%AF%B7%E6%8A%A4%E5%B7%A5%23" target="weibo">
+为什么医院不让家属陪护只能请护工（热度：302570）
 </a>
 </li>
 
@@ -178,7 +196,19 @@ LNG野辅在干嘛（热度：330307）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%80%95%E8%80%83%E7%A0%B8%E8%A2%AB%E9%AA%82%E6%9F%A5%E5%88%86%E5%89%8D%E6%8C%A8%E4%B8%AA%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4%23" target="weibo">
-男生怕考砸被骂查分前挨个打扫房间（热度：264526）
+男生怕考砸被骂查分前挨个打扫房间（热度：271312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%97%B6%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E5%B1%8B%E6%8A%A5%E5%96%9C%23" target="weibo">
+女生高考时发烧考618分挨个屋报喜（热度：268576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E8%B5%B7%E6%9C%89%E5%8F%A3%E8%87%AD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%8E%B0%E8%B1%A1%23" target="weibo">
+早起有口臭是不是正常现象（热度：264748）
 </a>
 </li>
 
@@ -195,20 +225,14 @@ LNG野辅在干嘛（热度：330307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E8%B5%B7%E6%9C%89%E5%8F%A3%E8%87%AD%E6%98%AF%E4%B8%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%8E%B0%E8%B1%A1%23" target="weibo">
-早起有口臭是不是正常现象（热度：259589）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23" target="weibo">
+博士生毕业后赴新疆任教被校长点名表扬（热度：252191）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%20%E5%85%94%E5%AD%90%E8%AD%A6%E5%AE%98%23" target="weibo">
 汤唯 兔子警官（热度：250109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23" target="weibo">
-父亲去世男孩忍痛高考如愿上岸（热度：234839）
 </a>
 </li>
 
@@ -249,12 +273,6 @@ LNG野辅在干嘛（热度：330307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23" target="weibo">
-博士生毕业后赴新疆任教被校长点名表扬（热度：191958）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23" target="weibo">
 车澈给王传君介绍严浩翔（热度：186718）
 </a>
@@ -269,6 +287,24 @@ LNG野辅在干嘛（热度：330307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E9%9B%B6%E5%94%AE%E4%BB%B7%23" target="weibo">
 什么东西是全国统一零售价（热度：179233）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23690%E5%88%86%E5%AD%A6%E9%9C%B8%E9%87%87%E8%AE%BF%E4%B8%AD%E6%8E%A5%E5%88%B0%E6%B8%85%E5%8D%8E%E7%94%B5%E8%AF%9D%23" target="weibo">
+690分学霸采访中接到清华电话（热度：174325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%90%BB%E6%88%8F%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%9D%A5%23" target="weibo">
+偷偷藏不住吻戏什么时候来（热度：159846）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E8%80%83600%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A24346%E4%BA%BA%23" target="weibo">
+山东高考600分及以上24346人（热度：158914）
 </a>
 </li>
 
@@ -291,14 +327,14 @@ LNG野辅在干嘛（热度：330307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%97%B6%E5%8F%91%E7%83%A7%E8%80%83618%E5%88%86%E6%8C%A8%E4%B8%AA%E5%B1%8B%E6%8A%A5%E5%96%9C%23" target="weibo">
-女生高考时发烧考618分挨个屋报喜（热度：145973）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%AD%E8%80%83627%E5%88%86%23" target="weibo">
+穆祉丞中考627分（热度：138993）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%AD%E8%80%83627%E5%88%86%23" target="weibo">
-穆祉丞中考627分（热度：138993）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E5%85%A5%E9%80%89%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
+一诺入选亚运会（热度：132505）
 </a>
 </li>
 
@@ -333,8 +369,14 @@ U19（热度：126281）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%90%BB%E6%88%8F%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%9D%A5%23" target="weibo">
-偷偷藏不住吻戏什么时候来（热度：103374）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E9%93%B6%E7%89%87%E9%94%A4%E6%89%9350%E5%A4%9A%E4%B8%87%E6%AC%A1%E5%90%8E%E5%8F%98%E8%BA%AB%E9%93%B6%E5%A3%B6%23" target="weibo">
+一张银片锤打50多万次后变身银壶（热度：108652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE18%E5%B2%81VS39%E5%B2%81%23" target="weibo">
+贾乃亮18岁VS39岁（热度：105599）
 </a>
 </li>
 
@@ -351,14 +393,14 @@ U19（热度：126281）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE18%E5%B2%81VS39%E5%B2%81%23" target="weibo">
-贾乃亮18岁VS39岁（热度：78096）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E7%94%B7%E7%94%9F%E6%9C%8B%E5%8F%8B%E6%B2%A1%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
+孟子义特别好的男生朋友没王鹤棣（热度：72052）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E7%94%B7%E7%94%9F%E6%9C%8B%E5%8F%8B%E6%B2%A1%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
-孟子义特别好的男生朋友没王鹤棣（热度：72052）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%AF%8F%E6%AC%A1%E5%9B%9E%E5%AE%B6%E7%88%B8%E7%88%B8%E9%83%BD%E5%9C%A8%E5%9C%B0%E9%93%81%E5%8F%A3%E7%AD%89%E5%80%99%23" target="weibo">
+女儿每次回家爸爸都在地铁口等候（热度：67723）
 </a>
 </li>
 
