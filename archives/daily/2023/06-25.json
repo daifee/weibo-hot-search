@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687664115024,
+  "endTime": 1687664725905,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -59,20 +59,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 2039326,
+      "num": 2039326,
+      "word": "高考分数线",
+      "onboard_time": 1687662992,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1960088,
       "num": 1661229,
       "word": "新华书店才是隐藏的终极大佬",
       "onboard_time": 1687652430,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1743416,
-      "num": 1743416,
-      "word": "高考分数线",
-      "onboard_time": 1687662992,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 1722617,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1448582,
+      "num": 906603,
+      "word": "向佐自称保姆叫郭碧婷大小姐",
+      "onboard_time": 1687663714,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1289394,
       "num": 773016,
       "word": "乌克兰",
@@ -145,6 +153,14 @@
       "onboard_time": 1687659569,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1101570,
+      "num": 1101570,
+      "word": "李天泽高考成绩586",
+      "onboard_time": 1687664134,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073157,
@@ -195,6 +211,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 814004,
+      "num": 759204,
+      "word": "瓦格纳的24小时哗变",
+      "onboard_time": 1687662512,
+      "rank": 30,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 793559,
       "num": 793559,
       "word": "杨颖和朋友聚会前后反差",
@@ -227,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 759204,
-      "num": 759204,
-      "word": "瓦格纳的24小时哗变",
-      "onboard_time": 1687662512,
-      "rank": 30,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 732688,
       "num": 732688,
       "word": "弟弟考673分姐姐哭了一小时",
@@ -249,6 +265,14 @@
       "onboard_time": 1687656932,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 689723,
+      "num": 689723,
+      "word": "湖南分数线",
+      "onboard_time": 1687661851,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 686578,
@@ -267,28 +291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 631139,
-      "num": 631139,
-      "word": "湖南分数线",
-      "onboard_time": 1687661851,
-      "rank": 15,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 623956,
       "num": 623956,
       "word": "河南高考成绩",
       "onboard_time": 1687617517,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 613129,
-      "num": 613129,
-      "word": "向佐自称保姆叫郭碧婷大小姐",
-      "onboard_time": 1687663714,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 602794,
@@ -347,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 493828,
+      "num": 358557,
+      "word": "太辜负这张理科脸了",
+      "onboard_time": 1687661851,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 491779,
       "num": 491779,
       "word": "白敬亭宋轶脸颊比心",
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460775,
-      "num": 347447,
-      "word": "太辜负这张理科脸了",
-      "onboard_time": 1687661851,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 454476,
       "num": 454476,
       "word": "早安 星期零",
@@ -425,6 +433,14 @@
       "onboard_time": 1687661492,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436952,
+      "num": 436952,
+      "word": "2023广东高考查分",
+      "onboard_time": 1687659090,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 432078,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417758,
+      "num": 417758,
+      "word": "长风渡宣发",
+      "onboard_time": 1687664195,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403448,
       "num": 403448,
       "word": "如何看待发朋友圈带定位的人",
@@ -459,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 401121,
-      "num": 401121,
-      "word": "2023广东高考查分",
-      "onboard_time": 1687659090,
-      "rank": 41,
-      "category": "教育,社会新闻"
+      "raw_hot": 394527,
+      "num": 394527,
+      "word": "男生考694分妈妈激动叫出海豚音",
+      "onboard_time": 1687662273,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 392840,
@@ -499,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 377248,
+      "num": 377248,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376961,
       "num": 376961,
       "word": "你觉得上海迪士尼门票700多值吗",
@@ -523,14 +555,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 350712,
-      "num": 350712,
-      "word": "男生考694分妈妈激动叫出海豚音",
-      "onboard_time": 1687662273,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 346456,
       "num": 346456,
       "word": "王栎鑫披荆斩棘",
@@ -553,14 +577,6 @@
       "onboard_time": 1687659691,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329176,
-      "num": 329176,
-      "word": "真就不管朱一龙的死活",
-      "onboard_time": 1687663230,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 322673,
@@ -601,6 +617,14 @@
       "onboard_time": 1687656693,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307202,
+      "num": 307202,
+      "word": "高考志愿",
+      "onboard_time": 1687663535,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 304919,
@@ -803,6 +827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 249186,
+      "num": 249186,
+      "word": "熊猫养生也少不了喝水",
+      "onboard_time": 1687663900,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249085,
       "num": 165639,
       "word": "普里戈津",
@@ -879,6 +911,14 @@
       "num": 211871,
       "word": "北京高考查分",
       "onboard_time": 1687656511,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 211779,
+      "num": 211779,
+      "word": "河南高考600分及以上26375人",
+      "onboard_time": 1687664675,
       "rank": 46,
       "category": "教育,社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687664725905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2397214,
+        "num": 2397214,
+        "word": "调休",
+        "onboard_time": 1687656091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4415867,
+        "num": 2357282,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 8371,
+        "num": 2175275,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2039326,
+        "num": 2039326,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1859364,
+        "num": 1859364,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 4,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1205152,
+        "num": 1205152,
+        "word": "2023广东高考分数线",
+        "onboard_time": 1687661969,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1101570,
+        "num": 1101570,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012978,
+        "num": 1012978,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 981878,
+        "num": 981878,
+        "word": "调休制定参与者建议重新考虑政策",
+        "onboard_time": 1687659569,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913439,
+        "num": 913439,
+        "word": "宋轶片场勾白敬亭下巴",
+        "onboard_time": 1687657471,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1448582,
+        "num": 906603,
+        "word": "向佐自称保姆叫郭碧婷大小姐",
+        "onboard_time": 1687663714,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878944,
+        "num": 878944,
+        "word": "普京感谢卢卡申科",
+        "onboard_time": 1687656993,
+        "rank": 11,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 720689,
+        "num": 720689,
+        "word": "杨颖和朋友聚会前后反差",
+        "onboard_time": 1687660351,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703163,
+        "num": 703163,
+        "word": "陈飞宇孟子义 难哄",
+        "onboard_time": 1687650387,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814004,
+        "num": 697787,
+        "word": "瓦格纳的24小时哗变",
+        "onboard_time": 1687662512,
+        "rank": 14,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 689723,
+        "num": 689723,
+        "word": "湖南分数线",
+        "onboard_time": 1687661851,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 656086,
+        "num": 656086,
+        "word": "新华书店才是隐藏的终极大佬",
+        "onboard_time": 1687652430,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541554,
+        "num": 541554,
+        "word": "大学不要和这类人有交集",
+        "onboard_time": 1687661011,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 532341,
+        "num": 532341,
+        "word": "瓦格纳从俄南部军区司令部撤离",
+        "onboard_time": 1687648282,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 480352,
+        "num": 480352,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656990,
+        "num": 478524,
+        "word": "生孩子当天老公发的朋友圈",
+        "onboard_time": 1687658791,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458523,
+        "num": 458523,
+        "word": "女孩充电被电击内脏受损面临截肢",
+        "onboard_time": 1687650928,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445521,
+        "num": 445521,
+        "word": "今年中秋国庆休八上七",
+        "onboard_time": 1687660228,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436952,
+        "num": 436952,
+        "word": "2023广东高考查分",
+        "onboard_time": 1687659090,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 417758,
+        "num": 417758,
+        "word": "长风渡宣发",
+        "onboard_time": 1687664195,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412996,
+        "num": 412996,
+        "word": "披荆斩棘3名单",
+        "onboard_time": 1687661492,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403186,
+        "num": 403186,
+        "word": "男子每天1斤杨梅狂吃20天要做血透",
+        "onboard_time": 1687650387,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394527,
+        "num": 394527,
+        "word": "男生考694分妈妈激动叫出海豚音",
+        "onboard_time": 1687662273,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 377248,
+        "num": 377248,
+        "word": "真就不管朱一龙的死活",
+        "onboard_time": 1687663230,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360607,
+        "num": 360607,
+        "word": "如何看待发朋友圈带定位的人",
+        "onboard_time": 1687661372,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 493828,
+        "num": 358557,
+        "word": "太辜负这张理科脸了",
+        "onboard_time": 1687661851,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356060,
+        "num": 356060,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307536,
+        "num": 307536,
+        "word": "北京公布高考分数线",
+        "onboard_time": 1687659930,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 307202,
+        "num": 307202,
+        "word": "高考志愿",
+        "onboard_time": 1687663535,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 292495,
+        "num": 292495,
+        "word": "周周小可爱新恋情",
+        "onboard_time": 1687660110,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291614,
+        "num": 291614,
+        "word": "范丞丞说把贾玲照片贴门口",
+        "onboard_time": 1687663535,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263912,
+        "num": 263912,
+        "word": "男生高考英语141分老师激动摸头拍背",
+        "onboard_time": 1687657050,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 260616,
+        "num": 260616,
+        "word": "王栎鑫披荆斩棘",
+        "onboard_time": 1687661910,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258853,
+        "num": 258853,
+        "word": "鹿晗演唱会的女安检员",
+        "onboard_time": 1687610132,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249186,
+        "num": 249186,
+        "word": "熊猫养生也少不了喝水",
+        "onboard_time": 1687663900,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221825,
+        "num": 221825,
+        "word": "派克特喊话节目组",
+        "onboard_time": 1687654172,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221457,
+        "num": 221457,
+        "word": "消失的她",
+        "onboard_time": 1687617878,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219187,
+        "num": 219187,
+        "word": "高铁上碰到三位大哥在吃酒席",
+        "onboard_time": 1687659691,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218615,
+        "num": 218615,
+        "word": "鹿晗演唱会散场后没有垃圾",
+        "onboard_time": 1687653572,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213592,
+        "num": 213592,
+        "word": "假期旅游回来发现空调没关",
+        "onboard_time": 1687659569,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212984,
+        "num": 212984,
+        "word": "繁华似锦开播",
+        "onboard_time": 1687659691,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211779,
+        "num": 211779,
+        "word": "河南高考600分及以上26375人",
+        "onboard_time": 1687664675,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 128765,
+        "num": 211562,
+        "word": "唐舞桐的原型是唐家三少女儿",
+        "onboard_time": 1687656091,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 111960,
+        "num": 211167,
+        "word": "WBG失误",
+        "onboard_time": 1687651350,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106352,
+        "num": 210407,
+        "word": "代号鸢",
+        "onboard_time": 1687657411,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#130秒飞阅祖国盛夏之美#"
+    }
+  }
+}
