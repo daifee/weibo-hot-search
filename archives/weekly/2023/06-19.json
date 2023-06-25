@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687697710675,
+  "endTime": 1687699488243,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2962455,
+      "num": 2962455,
+      "word": "取消调休和落实双休你更支持哪个",
+      "onboard_time": 1687695871,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2938900,
       "num": 623171,
       "word": "黄子佼被送往医院",
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2342920,
+      "num": 1009867,
+      "word": "白敬亭 纹身",
+      "onboard_time": 1687696412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2328140,
       "num": 2328140,
       "word": "四川大学称张某保研不违规",
@@ -705,14 +721,6 @@
       "onboard_time": 1687353334,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2291929,
-      "num": 1009867,
-      "word": "白敬亭 纹身",
-      "onboard_time": 1687696412,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 2288411,
@@ -4139,14 +4147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 701498,
-      "num": 701498,
-      "word": "取消调休和落实双休你更支持哪个",
-      "onboard_time": 1687695871,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 695563,
       "num": 695563,
       "word": "鹿晗演唱会",
@@ -5139,6 +5139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 545520,
+      "num": 332384,
+      "word": "男子混进小区舔女户主门前鞋子",
+      "onboard_time": 1687695630,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545151,
       "num": 545151,
       "word": "绍伊古",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1687575936,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 525504,
+      "num": 525504,
+      "word": "孟子义27岁素颜状态",
+      "onboard_time": 1687696352,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 524475,
@@ -5489,6 +5505,14 @@
       "onboard_time": 1687678654,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510631,
+      "num": 451677,
+      "word": "蔡徐坤泰国演唱会",
+      "onboard_time": 1687695394,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 509100,
@@ -6283,14 +6307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 451677,
-      "num": 451677,
-      "word": "蔡徐坤泰国演唱会",
-      "onboard_time": 1687695394,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 450772,
       "num": 450772,
       "word": "胡锡进 武装叛乱在俄罗斯没有传统",
@@ -6817,6 +6833,14 @@
       "onboard_time": 1687228291,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417114,
+      "num": 329195,
+      "word": "一家三口吃蒸双臭嘴唇发紫送急诊",
+      "onboard_time": 1687696412,
+      "rank": 24,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 416509,
@@ -7531,14 +7555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 375134,
-      "num": 332384,
-      "word": "男子混进小区舔女户主门前鞋子",
-      "onboard_time": 1687695630,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374278,
       "num": 374278,
       "word": "长风渡",
@@ -7681,14 +7697,6 @@
       "onboard_time": 1687363712,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364484,
-      "num": 329195,
-      "word": "一家三口吃蒸双臭嘴唇发紫送急诊",
-      "onboard_time": 1687696412,
-      "rank": 24,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 363923,
@@ -8827,6 +8835,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 313523,
+      "num": 313523,
+      "word": "iG战胜LNG",
+      "onboard_time": 1687697495,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313466,
       "num": 313466,
       "word": "炎亚纶开始掉代言",
@@ -9323,6 +9339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297733,
+      "num": 297733,
+      "word": "偷偷藏不住男女主感情线",
+      "onboard_time": 1687696773,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297487,
       "num": 218461,
       "word": "漫长的季节",
@@ -9451,6 +9475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292738,
+      "num": 292738,
+      "word": "苏小玎披荆斩棘的哥哥",
+      "onboard_time": 1687697854,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292710,
       "num": 292710,
       "word": "你能接受端午1天假调休凑3天吗",
@@ -9537,14 +9569,6 @@
       "onboard_time": 1687252655,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291081,
-      "num": 291081,
-      "word": "孟子义27岁素颜状态",
-      "onboard_time": 1687696352,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 289882,
@@ -9947,10 +9971,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278312,
+      "num": 278312,
+      "word": "猫醒了直接开一个菜市场",
+      "onboard_time": 1687697495,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278008,
       "num": 278008,
       "word": "二位娘娘可是来找许仙的",
       "onboard_time": 1687521873,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 277980,
+      "num": 277980,
+      "word": "什么东西是全国统一零售价",
+      "onboard_time": 1687695510,
       "rank": 37,
       "category": "幽默"
     },
@@ -10841,14 +10881,6 @@
       "onboard_time": 1687179219,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254936,
-      "num": 254936,
-      "word": "什么东西是全国统一零售价",
-      "onboard_time": 1687695510,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 254708,
@@ -11915,14 +11947,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 233261,
-      "num": 233261,
-      "word": "偷偷藏不住男女主感情线",
-      "onboard_time": 1687696773,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233215,
       "num": 257821,
       "word": "下班4小时都能做些什么",
@@ -12249,6 +12273,14 @@
       "onboard_time": 1687339779,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224675,
+      "num": 224675,
+      "word": "孟子义特别好的男生朋友没王鹤棣",
+      "onboard_time": 1687698455,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 224407,
@@ -12915,6 +12947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210398,
+      "num": 210398,
+      "word": "边牧真的很聪明",
+      "onboard_time": 1687697375,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 210266,
       "num": 210266,
       "word": "李冬菊 骑行治好了我的抑郁症",
@@ -12985,14 +13025,6 @@
       "onboard_time": 1687266151,
       "rank": 45,
       "category": "艺人,情感"
-    },
-    {
-      "raw_hot": 208269,
-      "num": 208269,
-      "word": "iG战胜LNG",
-      "onboard_time": 1687697495,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 208266,
@@ -14083,14 +14115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187365,
-      "num": 187365,
-      "word": "边牧真的很聪明",
-      "onboard_time": 1687697375,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 186799,
       "num": 186799,
       "word": "古有日照金山今有日照狗头",
@@ -14171,6 +14195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185070,
+      "num": 185070,
+      "word": "查了银行卡余额发现不上班也能安度余生",
+      "onboard_time": 1687699235,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184840,
       "num": 184840,
       "word": "川大通报地铁事件涉事女生处理情况",
@@ -14193,14 +14225,6 @@
       "onboard_time": 1687533580,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184518,
-      "num": 184518,
-      "word": "猫醒了直接开一个菜市场",
-      "onboard_time": 1687697495,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 184447,
@@ -14353,6 +14377,14 @@
       "onboard_time": 1687225231,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180150,
+      "num": 180150,
+      "word": "羽生结弦中岛美嘉合影",
+      "onboard_time": 1687699416,
+      "rank": 47,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 180140,
@@ -15377,6 +15409,14 @@
       "onboard_time": 1687305329,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155233,
+      "num": 155233,
+      "word": "喜欢跳舞的长沙女生高考查分675",
+      "onboard_time": 1687699416,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154206,
