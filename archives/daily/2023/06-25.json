@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687699488243,
+  "endTime": 1687700134591,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -17,6 +17,14 @@
       "onboard_time": 1687664134,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3845811,
+      "num": 2962455,
+      "word": "取消调休和落实双休你更支持哪个",
+      "onboard_time": 1687695871,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3438759,
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2962455,
-      "num": 2962455,
-      "word": "取消调休和落实双休你更支持哪个",
-      "onboard_time": 1687695871,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2925840,
       "num": 2925840,
       "word": "瓦格纳从俄南部军区司令部撤离",
@@ -83,7 +83,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2342920,
+      "raw_hot": 2356123,
       "num": 1009867,
       "word": "白敬亭 纹身",
       "onboard_time": 1687696412,
@@ -283,6 +283,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 1283177,
+      "num": 1283177,
+      "word": "消失的她",
+      "onboard_time": 1687617878,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1270742,
       "num": 1270742,
       "word": "陈飞宇孟子义 难哄",
@@ -369,14 +377,6 @@
       "onboard_time": 1687678831,
       "rank": 6,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1033707,
-      "num": 1033707,
-      "word": "消失的她",
-      "onboard_time": 1687617878,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1023610,
@@ -675,6 +675,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 600734,
+      "num": 349213,
+      "word": "男子混进小区舔女户主门前鞋子",
+      "onboard_time": 1687695630,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588252,
+      "num": 588252,
+      "word": "孟子义27岁素颜状态",
+      "onboard_time": 1687696352,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585631,
       "num": 1925633,
       "word": "女子上午买瓜34元没付上傍晚开车来补",
@@ -723,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545520,
-      "num": 332384,
-      "word": "男子混进小区舔女户主门前鞋子",
-      "onboard_time": 1687695630,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 545151,
       "num": 545151,
       "word": "绍伊古",
@@ -761,14 +769,6 @@
       "onboard_time": 1687667979,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 525504,
-      "num": 525504,
-      "word": "孟子义27岁素颜状态",
-      "onboard_time": 1687696352,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 522967,
@@ -841,6 +841,14 @@
       "onboard_time": 1687688074,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490354,
+      "num": 361130,
+      "word": "白敬亭是在挽回形象吗",
+      "onboard_time": 1687700017,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 482447,
@@ -1179,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348332,
+      "num": 348332,
+      "word": "上岸不发朋友圈是有原因的",
+      "onboard_time": 1687699597,
+      "rank": 24,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 347687,
       "num": 347687,
       "word": "丁禹兮何超莲合照",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1687696955,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323815,
+      "num": 300892,
+      "word": "查了银行卡余额发现不上班也能安度余生",
+      "onboard_time": 1687699235,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 322673,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1687664855,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310383,
+      "num": 351358,
+      "word": "羽生结弦中岛美嘉合影",
+      "onboard_time": 1687699416,
+      "rank": 47,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 307935,
@@ -1587,6 +1619,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 272190,
+      "num": 272190,
+      "word": "长风渡 萨摩耶安慰布偶猫",
+      "onboard_time": 1687699656,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271849,
       "num": 271849,
       "word": "湖北分数线 砍一刀",
@@ -1827,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237003,
+      "num": 237003,
+      "word": "孟子义特别好的男生朋友没王鹤棣",
+      "onboard_time": 1687698455,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235489,
       "num": 235489,
       "word": "工作后像变了个人",
@@ -1897,14 +1945,6 @@
       "onboard_time": 1687678299,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224675,
-      "num": 224675,
-      "word": "孟子义特别好的男生朋友没王鹤棣",
-      "onboard_time": 1687698455,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 224407,
@@ -2155,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197338,
+      "num": 197338,
+      "word": "WE对战TTG",
+      "onboard_time": 1687699775,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194266,
       "num": 194266,
       "word": "月远之夜",
@@ -2211,14 +2259,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 185070,
-      "num": 185070,
-      "word": "查了银行卡余额发现不上班也能安度余生",
-      "onboard_time": 1687699235,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184364,
       "num": 184364,
       "word": "朱一龙关姻菩萨",
@@ -2249,14 +2289,6 @@
       "onboard_time": 1687676431,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 180150,
-      "num": 180150,
-      "word": "羽生结弦中岛美嘉合影",
-      "onboard_time": 1687699416,
-      "rank": 47,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 179635,
@@ -2305,6 +2337,22 @@
       "onboard_time": 1687616915,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 173101,
+      "num": 173101,
+      "word": "喜欢跳舞的长沙女生高考查分675",
+      "onboard_time": 1687699416,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 172831,
+      "num": 172831,
+      "word": "盘点老婆买的奇葩物品",
+      "onboard_time": 1687699835,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 171693,
@@ -2393,14 +2441,6 @@
       "onboard_time": 1687669238,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155233,
-      "num": 155233,
-      "word": "喜欢跳舞的长沙女生高考查分675",
-      "onboard_time": 1687699416,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 151658,
