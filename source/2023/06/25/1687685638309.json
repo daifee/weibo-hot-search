@@ -1,0 +1,410 @@
+{
+  "runTime": 1687685638309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432738,
+        "num": 1432738,
+        "word": "郑欣宜经纪人报平安",
+        "onboard_time": 1687682795,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1152431,
+        "num": 1152431,
+        "word": "711分考生妈妈建议家长不要把全部精力投入孩子",
+        "onboard_time": 1687671574,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 51926,
+        "num": 1000516,
+        "word": "太空视角下五颜六色的中国大地",
+        "onboard_time": 1687658552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928831,
+        "num": 928831,
+        "word": "上市公司祝贺总经理女儿夺高考状元",
+        "onboard_time": 1687682734,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 919133,
+        "num": 919133,
+        "word": "一年放假115天多吗",
+        "onboard_time": 1687680758,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776846,
+        "num": 776846,
+        "word": "虞书欣一天喝了三杯冰美式",
+        "onboard_time": 1687684052,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742331,
+        "num": 742331,
+        "word": "邱耀乐妈妈提告炎亚纶",
+        "onboard_time": 1687678233,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730849,
+        "num": 730849,
+        "word": "美媒称美国提前得知瓦格纳要行动",
+        "onboard_time": 1687679854,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 710514,
+        "num": 710514,
+        "word": "那个说英语难的男生高考684分",
+        "onboard_time": 1687677873,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 579763,
+        "num": 579763,
+        "word": "山东高考分数线",
+        "onboard_time": 1687667979,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2786966,
+        "num": 574752,
+        "word": "黄多多17岁穿搭",
+        "onboard_time": 1687682614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791492,
+        "num": 552844,
+        "word": "浙江高考状元",
+        "onboard_time": 1687678831,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 613357,
+        "num": 518716,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 612534,
+        "num": 505727,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 605199,
+        "num": 476470,
+        "word": "00后最近都在混什么圈",
+        "onboard_time": 1687677453,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988404,
+        "num": 463359,
+        "word": "郑欣宜",
+        "onboard_time": 1687679431,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448849,
+        "num": 448849,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427806,
+        "num": 427806,
+        "word": "鹿晗粉丝垃圾捡走了自己的东西丢了",
+        "onboard_time": 1687683812,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 424573,
+        "num": 424573,
+        "word": "迪丽热巴工作室发文回应粉丝",
+        "onboard_time": 1687678596,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419738,
+        "num": 419738,
+        "word": "山东高考500分能上什么大学",
+        "onboard_time": 1687679794,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 974510,
+        "num": 414586,
+        "word": "牙医不建议用电动牙刷",
+        "onboard_time": 1687682374,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 726651,
+        "num": 401929,
+        "word": "女子2年被老公家暴16次需终身挂粪袋",
+        "onboard_time": 1687678596,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613588,
+        "num": 387052,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 494368,
+        "num": 372618,
+        "word": "非洲男友不让我看他身份证",
+        "onboard_time": 1687678473,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357172,
+        "num": 357172,
+        "word": "有没有人管管Ella",
+        "onboard_time": 1687683932,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336655,
+        "num": 336655,
+        "word": "香港迪士尼偶遇吴尊一家",
+        "onboard_time": 1687678532,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316184,
+        "num": 316184,
+        "word": "儿子考了675分父亲弹射冲下楼",
+        "onboard_time": 1687667318,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 307935,
+        "num": 307935,
+        "word": "祝明",
+        "onboard_time": 1687685254,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302116,
+        "num": 302116,
+        "word": "肖战李沁演绎梦海番外",
+        "onboard_time": 1687680997,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295471,
+        "num": 295471,
+        "word": "张馨予眼睛怎么了",
+        "onboard_time": 1687678654,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279164,
+        "num": 279164,
+        "word": "陈思诚的命也是命",
+        "onboard_time": 1687680454,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273384,
+        "num": 273384,
+        "word": "60斤的弟弟穿不上我的衣服",
+        "onboard_time": 1687683632,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269542,
+        "num": 269542,
+        "word": "为什么僵尸都穿清朝官服",
+        "onboard_time": 1687680876,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266302,
+        "num": 266302,
+        "word": "司机撞倒小孩后两次碾压",
+        "onboard_time": 1687683095,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260941,
+        "num": 260941,
+        "word": "感动全网的环卫工儿子考了470分",
+        "onboard_time": 1687673373,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 245668,
+        "num": 245668,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234657,
+        "num": 234657,
+        "word": "为什么有人一吵架就爱翻旧账",
+        "onboard_time": 1687683335,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218451,
+        "num": 218451,
+        "word": "何非用的不是苹果手机",
+        "onboard_time": 1687676854,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207447,
+        "num": 207447,
+        "word": "殡葬专业就业率百分之百",
+        "onboard_time": 1687685497,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 34416,
+        "num": 198026,
+        "word": "海外电子钱包在国内可以直接付钱",
+        "onboard_time": 1687683632,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 197333,
+        "num": 197333,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193258,
+        "num": 193738,
+        "word": "西湖鱼跃龙门成网红打卡点",
+        "onboard_time": 1687685313,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 193582,
+        "num": 193582,
+        "word": "学生高考成绩被屏蔽老师激动欢呼",
+        "onboard_time": 1687666477,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 192886,
+        "num": 192886,
+        "word": "杨紫许凯同框路透",
+        "onboard_time": 1687681475,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181797,
+        "num": 181797,
+        "word": "秦刚会见俄罗斯副外长",
+        "onboard_time": 1687681772,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179056,
+        "num": 179056,
+        "word": "打不过且不服气的小猫",
+        "onboard_time": 1687684712,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 171766,
+        "num": 171766,
+        "word": "复读",
+        "onboard_time": 1687678473,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163346,
+        "num": 163346,
+        "word": "杨颖和朋友聚会前后反差",
+        "onboard_time": 1687660351,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162757,
+        "num": 162757,
+        "word": "告诉娃们别再盯上马桶盖盖啦",
+        "onboard_time": 1687684892,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144913,
+        "num": 161079,
+        "word": "RNG零封UP",
+        "onboard_time": 1687683874,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会数字文明尼山对话#"
+    }
+  }
+}

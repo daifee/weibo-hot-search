@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687684710746,
+  "endTime": 1687685638309,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2786966,
+      "num": 711179,
+      "word": "黄多多17岁穿搭",
+      "onboard_time": 1687682614,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2780606,
       "num": 719055,
       "word": "周俊伟",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1687058247,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2247139,
-      "num": 711179,
-      "word": "黄多多17岁穿搭",
-      "onboard_time": 1687682614,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2237287,
@@ -8331,6 +8331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 974510,
+      "num": 427474,
+      "word": "牙医不建议用电动牙刷",
+      "onboard_time": 1687682374,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 974128,
       "num": 974128,
       "word": "掘金灭火",
@@ -8817,6 +8825,14 @@
       "onboard_time": 1687507230,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928831,
+      "num": 928831,
+      "word": "上市公司祝贺总经理女儿夺高考状元",
+      "onboard_time": 1687682734,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 928237,
@@ -9737,14 +9753,6 @@
       "onboard_time": 1686822628,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 846727,
-      "num": 427474,
-      "word": "牙医不建议用电动牙刷",
-      "onboard_time": 1687682374,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 846686,
@@ -10745,6 +10753,14 @@
       "onboard_time": 1686024392,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 776846,
+      "num": 776846,
+      "word": "虞书欣一天喝了三杯冰美式",
+      "onboard_time": 1687684052,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 776204,
@@ -12345,14 +12361,6 @@
       "onboard_time": 1685666971,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669568,
-      "num": 669568,
-      "word": "上市公司祝贺总经理女儿夺高考状元",
-      "onboard_time": 1687682734,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 669284,
@@ -17899,6 +17907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427806,
+      "num": 427806,
+      "word": "鹿晗粉丝垃圾捡走了自己的东西丢了",
+      "onboard_time": 1687683812,
+      "rank": 36,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 427749,
       "num": 427749,
       "word": "时光2定档",
@@ -21099,6 +21115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357172,
+      "num": 357172,
+      "word": "有没有人管管Ella",
+      "onboard_time": 1687683932,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357053,
       "num": 357053,
       "word": "陈晓和陈妍希亲吻儿子好甜",
@@ -22193,14 +22217,6 @@
       "onboard_time": 1686397846,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338959,
-      "num": 302488,
-      "word": "虞书欣一天喝了三杯冰美式",
-      "onboard_time": 1687684052,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 338936,
@@ -24379,6 +24395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307935,
+      "num": 307935,
+      "word": "祝明",
+      "onboard_time": 1687685254,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307877,
       "num": 220450,
       "word": "高邮",
@@ -24825,6 +24849,14 @@
       "onboard_time": 1686913948,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302116,
+      "num": 302116,
+      "word": "肖战李沁演绎梦海番外",
+      "onboard_time": 1687680997,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 302077,
@@ -25507,14 +25539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294732,
-      "num": 294732,
-      "word": "有没有人管管Ella",
-      "onboard_time": 1687683932,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294381,
       "num": 266233,
       "word": "蔡徐坤多巴胺穿搭",
@@ -25568,14 +25592,6 @@
       "word": "王一博沙漠里唱晴天",
       "onboard_time": 1686718893,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 293931,
-      "num": 293931,
-      "word": "肖战李沁演绎梦海番外",
-      "onboard_time": 1687680997,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -27033,6 +27049,14 @@
       "onboard_time": 1685682873,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279164,
+      "num": 279164,
+      "word": "陈思诚的命也是命",
+      "onboard_time": 1687680454,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 279102,
@@ -30003,14 +30027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 254840,
-      "num": 254840,
-      "word": "陈思诚的命也是命",
-      "onboard_time": 1687680454,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254733,
       "num": 248451,
       "word": "张杰鸟巢演唱会",
@@ -31225,14 +31241,6 @@
       "onboard_time": 1687595973,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 246331,
-      "num": 246331,
-      "word": "鹿晗粉丝垃圾捡走了自己的东西丢了",
-      "onboard_time": 1687683812,
-      "rank": 36,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 246261,
@@ -32913,6 +32921,14 @@
       "onboard_time": 1687516651,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234657,
+      "num": 234657,
+      "word": "为什么有人一吵架就爱翻旧账",
+      "onboard_time": 1687683335,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 234602,
@@ -37443,6 +37459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207447,
+      "num": 207447,
+      "word": "殡葬专业就业率百分之百",
+      "onboard_time": 1687685497,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207320,
       "num": 207320,
       "word": "两只旅俄大熊猫体重和人气齐升",
@@ -40363,6 +40387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193258,
+      "num": 193738,
+      "word": "西湖鱼跃龙门成网红打卡点",
+      "onboard_time": 1687685313,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 193246,
       "num": 1307695,
       "word": "无论几岁快乐万岁",
@@ -42739,14 +42771,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 182777,
-      "num": 182777,
-      "word": "为什么有人一吵架就爱翻旧账",
-      "onboard_time": 1687683335,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182557,
       "num": 172452,
       "word": "张馨予从小到大颜值变化",
@@ -43345,6 +43369,14 @@
       "onboard_time": 1685798848,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179056,
+      "num": 179056,
+      "word": "打不过且不服气的小猫",
+      "onboard_time": 1687684712,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 178936,
@@ -46217,6 +46249,14 @@
       "onboard_time": 1686825267,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162757,
+      "num": 162757,
+      "word": "告诉娃们别再盯上马桶盖盖啦",
+      "onboard_time": 1687684892,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162717,
