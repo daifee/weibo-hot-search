@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687720523159,
+  "endTime": 1687721624841,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -60257,6 +60257,14 @@
       "onboard_time": 1686826827,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20294,
+      "num": 23176,
+      "word": "给高考失意考生的加油短片",
+      "onboard_time": 1687717994,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 19970,
