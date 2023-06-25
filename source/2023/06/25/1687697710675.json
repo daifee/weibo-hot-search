@@ -1,0 +1,410 @@
+{
+  "runTime": 1687697710675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1242297,
+        "num": 1242297,
+        "word": "汤唯 兔子警官",
+        "onboard_time": 1687692452,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1018045,
+        "num": 1018045,
+        "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
+        "onboard_time": 1687685793,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 22006,
+        "num": 1013520,
+        "word": "2023高考志愿填报10问10答",
+        "onboard_time": 1687667676,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2291929,
+        "num": 1009867,
+        "word": "白敬亭 纹身",
+        "onboard_time": 1687696412,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2001980,
+        "num": 1004763,
+        "word": "北京一律所称不再招聘川大毕业生",
+        "onboard_time": 1687695091,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035989,
+        "num": 1002082,
+        "word": "白敬亭工作室big胆",
+        "onboard_time": 1687690834,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998372,
+        "num": 998372,
+        "word": "消失的她评分下降",
+        "onboard_time": 1687690954,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701498,
+        "num": 701498,
+        "word": "取消调休和落实双休你更支持哪个",
+        "onboard_time": 1687695871,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635869,
+        "num": 635869,
+        "word": "浪姐4五公淘汰",
+        "onboard_time": 1687693894,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482325,
+        "num": 579135,
+        "word": "西瓜猪",
+        "onboard_time": 1687691193,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1420127,
+        "num": 575909,
+        "word": "黄多多17岁穿搭",
+        "onboard_time": 1687682614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1081425,
+        "num": 570754,
+        "word": "父亲拒绝给钱买毒品被儿子殴打致死",
+        "onboard_time": 1687687114,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560322,
+        "num": 560322,
+        "word": "陈哲远不谈恋爱的原因",
+        "onboard_time": 1687686632,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501732,
+        "num": 501732,
+        "word": "虞书欣一天喝了三杯冰美式",
+        "onboard_time": 1687684052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433015,
+        "num": 469867,
+        "word": "殡葬专业就业率百分之百",
+        "onboard_time": 1687685497,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 451677,
+        "num": 451677,
+        "word": "蔡徐坤泰国演唱会",
+        "onboard_time": 1687695394,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436953,
+        "num": 436953,
+        "word": "郑欣宜经纪人报平安",
+        "onboard_time": 1687682795,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399505,
+        "num": 399505,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 358271,
+        "num": 358271,
+        "word": "瓦格纳部队离开利佩茨克州",
+        "onboard_time": 1687691251,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 340598,
+        "num": 340598,
+        "word": "EDG让一追二RA",
+        "onboard_time": 1687694312,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 598775,
+        "num": 340449,
+        "word": "牙医不建议用电动牙刷",
+        "onboard_time": 1687682374,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575168,
+        "num": 335927,
+        "word": "女子2年被老公家暴16次需终身挂粪袋",
+        "onboard_time": 1687678596,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431386,
+        "num": 335181,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 375134,
+        "num": 332384,
+        "word": "男子混进小区舔女户主门前鞋子",
+        "onboard_time": 1687695630,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364484,
+        "num": 329195,
+        "word": "一家三口吃蒸双臭嘴唇发紫送急诊",
+        "onboard_time": 1687696412,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 328534,
+        "num": 328534,
+        "word": "穆祉丞中考627分",
+        "onboard_time": 1687692934,
+        "rank": 25,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 324652,
+        "num": 324652,
+        "word": "徐怀钰 淘汰",
+        "onboard_time": 1687696955,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311788,
+        "num": 311788,
+        "word": "iG对战LNG",
+        "onboard_time": 1687694552,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304029,
+        "num": 304029,
+        "word": "早起有口臭是不是正常现象",
+        "onboard_time": 1687688074,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291081,
+        "num": 291081,
+        "word": "孟子义27岁素颜状态",
+        "onboard_time": 1687696352,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482631,
+        "num": 283144,
+        "word": "上市公司祝贺总经理女儿夺高考状元",
+        "onboard_time": 1687682734,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 271564,
+        "num": 271564,
+        "word": "00后最近都在混什么圈",
+        "onboard_time": 1687677453,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262799,
+        "num": 262799,
+        "word": "内娱高考也有几个显眼包",
+        "onboard_time": 1687692271,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254936,
+        "num": 254936,
+        "word": "什么东西是全国统一零售价",
+        "onboard_time": 1687695510,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252479,
+        "num": 252479,
+        "word": "给猪喂了没用完的咸鸭蛋蛋清",
+        "onboard_time": 1687697135,
+        "rank": 34,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 245232,
+        "num": 245232,
+        "word": "白鹿每天六点自然醒",
+        "onboard_time": 1687693051,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233261,
+        "num": 233261,
+        "word": "偷偷藏不住男女主感情线",
+        "onboard_time": 1687696773,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228204,
+        "num": 228204,
+        "word": "女子上午买瓜34元没付上傍晚开车来补",
+        "onboard_time": 1687685973,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227466,
+        "num": 227466,
+        "word": "入职后顶替了一个孕妇的岗位",
+        "onboard_time": 1687690355,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208269,
+        "num": 208269,
+        "word": "iG战胜LNG",
+        "onboard_time": 1687697495,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202984,
+        "num": 202984,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 201750,
+        "num": 201750,
+        "word": "张馨予眼睛怎么了",
+        "onboard_time": 1687678654,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194928,
+        "num": 194928,
+        "word": "长风渡",
+        "onboard_time": 1687694854,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195450,
+        "num": 194903,
+        "word": "美媒称美国提前得知瓦格纳要行动",
+        "onboard_time": 1687679854,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194635,
+        "num": 194635,
+        "word": "实习律师第一个月工资发了474元",
+        "onboard_time": 1687690475,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192378,
+        "num": 192378,
+        "word": "非洲男友不让我看他身份证",
+        "onboard_time": 1687678473,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191083,
+        "num": 191083,
+        "word": "当男朋友看到初恋送我的礼物",
+        "onboard_time": 1687693231,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187365,
+        "num": 187365,
+        "word": "边牧真的很聪明",
+        "onboard_time": 1687697375,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186247,
+        "num": 186247,
+        "word": "林志颖到长沙了",
+        "onboard_time": 1687691913,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184518,
+        "num": 184518,
+        "word": "猫醒了直接开一个菜市场",
+        "onboard_time": 1687697495,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天全国土地日#"
+    }
+  }
+}

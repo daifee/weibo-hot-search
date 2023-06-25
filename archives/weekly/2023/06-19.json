@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687696645391,
+  "endTime": 1687697710675,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2291929,
+      "num": 1009867,
+      "word": "白敬亭 纹身",
+      "onboard_time": 1687696412,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2288411,
       "num": 795239,
       "word": "宝剑嫂",
@@ -929,6 +937,14 @@
       "onboard_time": 1687430550,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2001980,
+      "num": 1148836,
+      "word": "北京一律所称不再招聘川大毕业生",
+      "onboard_time": 1687695091,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1978240,
@@ -2273,14 +2289,6 @@
       "onboard_time": 1687331796,
       "rank": 44,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1148836,
-      "num": 1148836,
-      "word": "北京一律所称不再招聘川大毕业生",
-      "onboard_time": 1687695091,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1148603,
@@ -4131,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701498,
+      "num": 701498,
+      "word": "取消调休和落实双休你更支持哪个",
+      "onboard_time": 1687695871,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695563,
       "num": 695563,
       "word": "鹿晗演唱会",
@@ -4457,6 +4473,14 @@
       "onboard_time": 1687662273,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 635869,
+      "num": 635869,
+      "word": "浪姐4五公淘汰",
+      "onboard_time": 1687693894,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 634631,
@@ -5097,14 +5121,6 @@
       "onboard_time": 1687606414,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 548101,
-      "num": 548101,
-      "word": "浪姐4五公淘汰",
-      "onboard_time": 1687693894,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 547350,
@@ -6267,6 +6283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 451677,
+      "num": 451677,
+      "word": "蔡徐坤泰国演唱会",
+      "onboard_time": 1687695394,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 450772,
       "num": 450772,
       "word": "胡锡进 武装叛乱在俄罗斯没有传统",
@@ -6963,14 +6987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406783,
-      "num": 406783,
-      "word": "蔡徐坤泰国演唱会",
-      "onboard_time": 1687695394,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 406129,
       "num": 313054,
       "word": "30个同学聚餐让每人出1000元",
@@ -7515,6 +7531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 375134,
+      "num": 332384,
+      "word": "男子混进小区舔女户主门前鞋子",
+      "onboard_time": 1687695630,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374278,
       "num": 374278,
       "word": "长风渡",
@@ -7657,6 +7681,14 @@
       "onboard_time": 1687363712,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364484,
+      "num": 329195,
+      "word": "一家三口吃蒸双臭嘴唇发紫送急诊",
+      "onboard_time": 1687696412,
+      "rank": 24,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 363923,
@@ -8499,6 +8531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324652,
+      "num": 324652,
+      "word": "徐怀钰 淘汰",
+      "onboard_time": 1687696955,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324452,
       "num": 285185,
       "word": "入职后才发现上下班不用打卡",
@@ -8699,14 +8739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315684,
-      "num": 315684,
-      "word": "白敬亭 纹身",
-      "onboard_time": 1687696412,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315680,
       "num": 315680,
       "word": "秦岚王阳斗嘴戏差点吻上",
@@ -8833,6 +8865,14 @@
       "onboard_time": 1687225711,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 311788,
+      "num": 311788,
+      "word": "iG对战LNG",
+      "onboard_time": 1687694552,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 311447,
@@ -9497,6 +9537,14 @@
       "onboard_time": 1687252655,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291081,
+      "num": 291081,
+      "word": "孟子义27岁素颜状态",
+      "onboard_time": 1687696352,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 289882,
@@ -10451,14 +10499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264616,
-      "num": 264616,
-      "word": "取消调休和落实双休你更支持哪个",
-      "onboard_time": 1687695871,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264560,
       "num": 264560,
       "word": "文韬一个人撑起了一整个团",
@@ -10545,14 +10585,6 @@
       "onboard_time": 1687587333,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 262403,
-      "num": 262403,
-      "word": "男子混进小区舔女户主门前鞋子",
-      "onboard_time": 1687695630,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261717,
@@ -10811,6 +10843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254936,
+      "num": 254936,
+      "word": "什么东西是全国统一零售价",
+      "onboard_time": 1687695510,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254708,
       "num": 254708,
       "word": "长风渡热度",
@@ -10937,6 +10977,14 @@
       "onboard_time": 1687665217,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252479,
+      "num": 252479,
+      "word": "给猪喂了没用完的咸鸭蛋蛋清",
+      "onboard_time": 1687697135,
+      "rank": 34,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 252469,
@@ -11867,6 +11915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 233261,
+      "num": 233261,
+      "word": "偷偷藏不住男女主感情线",
+      "onboard_time": 1687696773,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233215,
       "num": 257821,
       "word": "下班4小时都能做些什么",
@@ -12491,14 +12547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217056,
-      "num": 217056,
-      "word": "什么东西是全国统一零售价",
-      "onboard_time": 1687695510,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217032,
       "num": 253534,
       "word": "狗怎么也没想到背后有门",
@@ -12937,6 +12985,14 @@
       "onboard_time": 1687266151,
       "rank": 45,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 208269,
+      "num": 208269,
+      "word": "iG战胜LNG",
+      "onboard_time": 1687697495,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 208266,
@@ -14027,6 +14083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187365,
+      "num": 187365,
+      "word": "边牧真的很聪明",
+      "onboard_time": 1687697375,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 186799,
       "num": 186799,
       "word": "古有日照金山今有日照狗头",
@@ -14131,6 +14195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184518,
+      "num": 184518,
+      "word": "猫醒了直接开一个菜市场",
+      "onboard_time": 1687697495,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "怪盗基德生日",
@@ -14216,14 +14288,6 @@
       "word": "王迅一句话让王一珩恢复乖巧",
       "onboard_time": 1687416870,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183162,
-      "num": 183162,
-      "word": "孟子义27岁素颜状态",
-      "onboard_time": 1687696352,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -15473,14 +15537,6 @@
       "onboard_time": 1687132106,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150491,
-      "num": 168422,
-      "word": "iG对战LNG",
-      "onboard_time": 1687694552,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 149915,
