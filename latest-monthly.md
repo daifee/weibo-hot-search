@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 18:37:06
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 19:16:24
 </p>
 </blockquote>
 <p>
@@ -1595,6 +1595,12 @@ Angelababy冷脸（热度：2172017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%23" target="weibo">
 六公主（热度：2103908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23" target="weibo">
+女孩高考成绩被屏蔽4天小字显示全省前50（热度：2103072）
 </a>
 </li>
 
@@ -3461,12 +3467,6 @@ Jennie演唱会中途离场（热度：1445483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
 王皓（热度：1442029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23" target="weibo">
-女孩高考成绩被屏蔽4天小字显示全省前50（热度：1439928）
 </a>
 </li>
 
@@ -5463,6 +5463,12 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E7%BB%99%E9%92%B1%E4%B9%B0%E6%AF%92%E5%93%81%E8%A2%AB%E5%84%BF%E5%AD%90%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23" target="weibo">
+父亲拒绝给钱买毒品被儿子殴打致死（热度：1084636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E4%BC%99%E7%9B%97%E5%A2%93%E6%8C%96%E5%87%BA%E9%BE%99%E8%A2%8D%E7%BD%91%E4%B8%8A%E5%94%AE%E5%8D%96%23" target="weibo">
 团伙盗墓挖出龙袍网上售卖（热度：1083023）
 </a>
@@ -6005,12 +6011,6 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC%23" target="weibo">
 高考理综（热度：1013701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23" target="weibo">
-高铁站台为什么不能打伞（热度：1013445）
 </a>
 </li>
 
