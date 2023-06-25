@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 23:33:57
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/26 00:24:04
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,12 @@ Angelababy冷脸（热度：2172017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23" target="weibo">
+这些都是野鸡大学（热度：2168711）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E6%9D%A5%E4%BA%86%23" target="weibo">
 猎罪图鉴2来了（热度：2168535）
 </a>
@@ -2513,12 +2519,6 @@ Angelababy 求求了给我脚趾p个美甲（热度：1779279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E5%94%AF%E4%B8%80%E7%BA%AF%E7%99%BD%E8%8C%89%E8%8E%89%E8%8A%B1%23" target="weibo">
 杨紫 唯一纯白茉莉花（热度：1718657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23" target="weibo">
-这些都是野鸡大学（热度：1712691）
 </a>
 </li>
 
