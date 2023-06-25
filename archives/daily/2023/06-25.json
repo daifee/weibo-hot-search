@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687681388818,
+  "endTime": 1687682211252,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -251,6 +251,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1086329,
+      "num": 1086329,
+      "word": "美媒称美国提前得知瓦格纳要行动",
+      "onboard_time": 1687679854,
+      "rank": 7,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1073157,
       "num": 1073157,
       "word": "消失的她原型",
@@ -273,14 +281,6 @@
       "onboard_time": 1687616315,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1003839,
-      "num": 1003839,
-      "word": "美媒称美国提前得知瓦格纳要行动",
-      "onboard_time": 1687679854,
-      "rank": 7,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1003068,
@@ -307,6 +307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 888429,
+      "num": 449526,
+      "word": "女子2年被老公家暴16次需终身挂粪袋",
+      "onboard_time": 1687678596,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857895,
       "num": 678579,
       "word": "太辜负这张理科脸了",
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852416,
+      "num": 648935,
+      "word": "00后最近都在混什么圈",
+      "onboard_time": 1687677453,
+      "rank": 15,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 836981,
       "num": 836981,
       "word": "浙江高考成绩",
       "onboard_time": 1687672714,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 819224,
-      "num": 449526,
-      "word": "女子2年被老公家暴16次需终身挂粪袋",
-      "onboard_time": 1687678596,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 814469,
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 682989,
-      "num": 648935,
-      "word": "00后最近都在混什么圈",
-      "onboard_time": 1687677453,
-      "rank": 15,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 657434,
       "num": 657434,
       "word": "那个说英语难的男生高考684分",
@@ -489,6 +489,14 @@
       "onboard_time": 1687662273,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 628124,
+      "num": 446457,
+      "word": "非洲男友不让我看他身份证",
+      "onboard_time": 1687678473,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 623956,
@@ -539,20 +547,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 561410,
+      "num": 561410,
+      "word": "萌娃35度天穿棉服出门2分钟被热哭",
+      "onboard_time": 1687681656,
+      "rank": 13,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 550424,
       "num": 550424,
       "word": "银川31死爆炸事故原因公布",
       "onboard_time": 1687614577,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545807,
-      "num": 433042,
-      "word": "非洲男友不让我看他身份证",
-      "onboard_time": 1687678473,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 545151,
@@ -587,6 +595,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 520240,
+      "num": 520240,
+      "word": "一年放假115天多吗",
+      "onboard_time": 1687680758,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519852,
       "num": 519852,
       "word": "香港迪士尼偶遇吴尊一家",
@@ -603,11 +619,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 510634,
+      "num": 444994,
+      "word": "张馨予眼睛怎么了",
+      "onboard_time": 1687678654,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504524,
       "num": 245468,
       "word": "赵丽颖王凯 我和我的命",
       "onboard_time": 1687676734,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 499161,
+      "num": 443835,
+      "word": "何非用的不是苹果手机",
+      "onboard_time": 1687676854,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -617,14 +649,6 @@
       "onboard_time": 1687617576,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 484818,
-      "num": 431206,
-      "word": "张馨予眼睛怎么了",
-      "onboard_time": 1687678654,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 482447,
@@ -672,14 +696,6 @@
       "word": "消失的她",
       "onboard_time": 1687617878,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 470159,
-      "num": 410073,
-      "word": "何非用的不是苹果手机",
-      "onboard_time": 1687676854,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -745,6 +761,14 @@
       "onboard_time": 1687659090,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 433089,
+      "num": 433089,
+      "word": "为什么僵尸都穿清朝官服",
+      "onboard_time": 1687680876,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 432605,
@@ -827,14 +851,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 381830,
-      "num": 381830,
-      "word": "为什么僵尸都穿清朝官服",
-      "onboard_time": 1687680876,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 379082,
       "num": 379082,
       "word": "披荆斩棘的哥哥",
@@ -897,14 +913,6 @@
       "onboard_time": 1687675233,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 353320,
-      "num": 353320,
-      "word": "一年放假115天多吗",
-      "onboard_time": 1687680758,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352213,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1687621473,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293931,
+      "num": 293931,
+      "word": "肖战李沁演绎梦海番外",
+      "onboard_time": 1687680997,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 292548,
@@ -1259,12 +1275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256393,
-      "num": 256393,
-      "word": "肖战李沁演绎梦海番外",
-      "onboard_time": 1687680997,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 256765,
+      "num": 256765,
+      "word": "秦刚会见俄罗斯副外长",
+      "onboard_time": 1687681772,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255627,
@@ -1291,6 +1307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 253623,
+      "num": 253623,
+      "word": "陈思诚的命也是命",
+      "onboard_time": 1687680454,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252835,
       "num": 252835,
       "word": "宝宝拍百天照急眼了",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1687666778,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 249795,
-      "num": 249795,
-      "word": "陈思诚的命也是命",
-      "onboard_time": 1687680454,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 249186,
@@ -1347,11 +1363,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241693,
+      "num": 246427,
+      "word": "一人一句推荐你的专业",
+      "onboard_time": 1687681118,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 238977,
       "num": 238977,
       "word": "桑稚泼水快狠准",
       "onboard_time": 1687667318,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238606,
+      "num": 238606,
+      "word": "杨紫许凯同框路透",
+      "onboard_time": 1687681475,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1419,20 +1451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224407,
+      "num": 224407,
+      "word": "鬼女红叶典藏皮肤",
+      "onboard_time": 1687678354,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221866,
       "num": 221866,
       "word": "广州 交通环境",
       "onboard_time": 1687666719,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221237,
-      "num": 221237,
-      "word": "鬼女红叶典藏皮肤",
-      "onboard_time": 1687678354,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 218935,
@@ -1459,12 +1491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216575,
-      "num": 216575,
-      "word": "一人一句推荐你的专业",
-      "onboard_time": 1687681118,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 216912,
+      "num": 216912,
+      "word": "这和我上班有什么区别",
+      "onboard_time": 1687681957,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 215564,
@@ -1659,6 +1691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170224,
+      "num": 199973,
+      "word": "KPL",
+      "onboard_time": 1687681595,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169363,
       "num": 216375,
       "word": "代号鸢",
@@ -1748,7 +1788,7 @@
     },
     {
       "raw_hot": 141667,
-      "num": 196362,
+      "num": 199708,
       "word": "XYG战胜RW",
       "onboard_time": 1687679854,
       "rank": 48,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1687675351,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97704,
+      "num": 639094,
+      "word": "父母背着上学的脑瘫女孩超一本线32分",
+      "onboard_time": 1687680033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95187,
@@ -1891,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60634,
-      "num": 639094,
-      "word": "父母背着上学的脑瘫女孩超一本线32分",
-      "onboard_time": 1687680033,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38234,
       "num": 50840,
       "word": "偷偷藏不住",
@@ -1924,7 +1964,7 @@
     },
     {
       "raw_hot": 31506,
-      "num": 429487,
+      "num": 1397331,
       "word": "太空视角下五颜六色的中国大地",
       "onboard_time": 1687658552,
       "rank": 25,
