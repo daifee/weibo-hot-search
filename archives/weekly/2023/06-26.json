@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687728845954,
+  "endTime": 1687731492472,
   "band_list": [
     {
       "raw_hot": 2168711,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52962,
+      "num": 52962,
+      "word": "贾乃亮18岁VS39岁",
+      "onboard_time": 1687729873,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45760,
       "num": 59767,
       "word": "iG战胜LNG",
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 27890,
-      "num": 27890,
+      "num": 31323,
       "word": "浙江高考分数",
       "onboard_time": 1687719614,
       "rank": 43,
