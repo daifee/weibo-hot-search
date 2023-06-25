@@ -1,0 +1,410 @@
+{
+  "runTime": 1687727784907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230437,
+        "num": 230437,
+        "word": "这些都是野鸡大学",
+        "onboard_time": 1687704878,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 154580,
+        "num": 154580,
+        "word": "亚运会",
+        "onboard_time": 1687710806,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1353,
+        "num": 117526,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90069,
+        "num": 90069,
+        "word": "四川26岁女孩下网约车后失联",
+        "onboard_time": 1687707334,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80693,
+        "num": 80693,
+        "word": "中方表示瓦格纳集团事件是俄罗斯内政",
+        "onboard_time": 1687703256,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 76039,
+        "num": 76039,
+        "word": "现在的吃播真的令我手足无措",
+        "onboard_time": 1687706496,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62213,
+        "num": 62213,
+        "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
+        "onboard_time": 1687685793,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 54525,
+        "num": 54525,
+        "word": "普京称全天候控制特别军事行动进程",
+        "onboard_time": 1687700500,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 49180,
+        "num": 49180,
+        "word": "父亲去世男孩忍痛高考如愿上岸",
+        "onboard_time": 1687703918,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 39983,
+        "num": 39983,
+        "word": "蔡徐坤不用管我死活",
+        "onboard_time": 1687701277,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87939,
+        "num": 39273,
+        "word": "黄多多17岁穿搭",
+        "onboard_time": 1687682614,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77003,
+        "num": 38154,
+        "word": "黄圣依疑怀3胎",
+        "onboard_time": 1687705357,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36877,
+        "num": 36877,
+        "word": "男生怕考砸被骂查分前挨个打扫房间",
+        "onboard_time": 1687705056,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36535,
+        "num": 36535,
+        "word": "偷偷藏不住吻戏什么时候来",
+        "onboard_time": 1687715237,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35456,
+        "num": 35456,
+        "word": "朱一龙的头为什么是歪的",
+        "onboard_time": 1687705899,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33519,
+        "num": 33519,
+        "word": "王传君为撞玻璃的鸟哭了",
+        "onboard_time": 1687712483,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32925,
+        "num": 32925,
+        "word": "肖战谈自己如何面对各种评论",
+        "onboard_time": 1687706555,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32892,
+        "num": 32892,
+        "word": "博士生毕业后赴新疆任教被校长点名表扬",
+        "onboard_time": 1687702778,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 30024,
+        "num": 30024,
+        "word": "女生高考时发烧考618分挨个屋报喜",
+        "onboard_time": 1687710806,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28679,
+        "num": 28679,
+        "word": "秦岚无效多巴胺",
+        "onboard_time": 1687706734,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39798,
+        "num": 28644,
+        "word": "北京一律所称不再招聘川大毕业生",
+        "onboard_time": 1687695091,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36004,
+        "num": 28497,
+        "word": "查了银行卡余额发现不上班也能安度余生",
+        "onboard_time": 1687699235,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35344,
+        "num": 28482,
+        "word": "男子混进小区舔女户主门前鞋子",
+        "onboard_time": 1687695630,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35190,
+        "num": 28373,
+        "word": "上岸不发朋友圈是有原因的",
+        "onboard_time": 1687699597,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 33233,
+        "num": 28229,
+        "word": "早起有口臭是不是正常现象",
+        "onboard_time": 1687688074,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30938,
+        "num": 28170,
+        "word": "女子2年被老公家暴16次需终身挂粪袋",
+        "onboard_time": 1687678596,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30479,
+        "num": 28055,
+        "word": "牙医不建议用电动牙刷",
+        "onboard_time": 1687682374,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28010,
+        "num": 28010,
+        "word": "消失的她",
+        "onboard_time": 1687699235,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27057,
+        "num": 27057,
+        "word": "非洲男友不让我看他身份证",
+        "onboard_time": 1687678473,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26718,
+        "num": 26718,
+        "word": "什么东西是全国统一零售价",
+        "onboard_time": 1687695510,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25522,
+        "num": 25522,
+        "word": "赵露思的包好小",
+        "onboard_time": 1687701879,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24769,
+        "num": 24769,
+        "word": "父亲拒绝给钱买毒品被儿子殴打致死",
+        "onboard_time": 1687687114,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22749,
+        "num": 22749,
+        "word": "浙江高考分数",
+        "onboard_time": 1687719614,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 21626,
+        "num": 21626,
+        "word": "鹿晗的泪钻",
+        "onboard_time": 1687704337,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21600,
+        "num": 21600,
+        "word": "剧说很好看",
+        "onboard_time": 1687714399,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21441,
+        "num": 21441,
+        "word": "汤唯 兔子警官",
+        "onboard_time": 1687692452,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21004,
+        "num": 21004,
+        "word": "宋亚轩坐在地上打电话",
+        "onboard_time": 1687708472,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 20850,
+        "word": "蔡徐坤泰国演唱会",
+        "onboard_time": 1687695394,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20709,
+        "num": 20709,
+        "word": "外交部回应瓦格纳集团事件",
+        "onboard_time": 1687701635,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20370,
+        "num": 20370,
+        "word": "EXO回归预告",
+        "onboard_time": 1687706674,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20043,
+        "num": 20370,
+        "word": "LNG野辅在干嘛",
+        "onboard_time": 1687707155,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19658,
+        "num": 20370,
+        "word": "高考查分",
+        "onboard_time": 1687568133,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 18060,
+        "num": 20370,
+        "word": "孟子义27岁素颜状态",
+        "onboard_time": 1687696352,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17937,
+        "num": 20370,
+        "word": "浪姐4五公淘汰",
+        "onboard_time": 1687693894,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17692,
+        "num": 20369,
+        "word": "白敬亭是在挽回形象吗",
+        "onboard_time": 1687700017,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17684,
+        "num": 20369,
+        "word": "虞书欣一天喝了三杯冰美式",
+        "onboard_time": 1687684052,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16112,
+        "num": 20369,
+        "word": "孟子义特别好的男生朋友没王鹤棣",
+        "onboard_time": 1687698455,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14438,
+        "num": 20369,
+        "word": "白桃星座",
+        "onboard_time": 1687705234,
+        "rank": 47,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 14356,
+        "num": 20369,
+        "word": "车澈给王传君介绍严浩翔",
+        "onboard_time": 1687701578,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13496,
+        "num": 20369,
+        "word": "U19",
+        "onboard_time": 1687707514,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#空中视角看千万工程调研行#"
+    }
+  }
+}
