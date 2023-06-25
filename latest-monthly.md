@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 18:19:49
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/25 18:37:06
 </p>
 </blockquote>
 <p>
@@ -1635,6 +1635,12 @@ Angelababy冷脸（热度：2172017）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%23" target="weibo">
+殡葬专业就业率百分之百（热度：2086520）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E9%BC%A0%E6%88%91%E9%B8%AD%23" target="weibo">
 鼠鼠我鸭（热度：2085497）
 </a>
@@ -2129,12 +2135,6 @@ lofter（热度：1890120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%88%E5%92%8C%E5%AE%8B%E8%BD%B6%E5%90%88%E4%BD%9C%23" target="weibo">
 白敬亭谈和宋轶合作（热度：1871999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E7%8E%87%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%23" target="weibo">
-殡葬专业就业率百分之百（热度：1871687）
 </a>
 </li>
 
@@ -3461,6 +3461,12 @@ Jennie演唱会中途离场（热度：1445483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
 王皓（热度：1442029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23" target="weibo">
+女孩高考成绩被屏蔽4天小字显示全省前50（热度：1439928）
 </a>
 </li>
 
@@ -5055,12 +5061,6 @@ Jennie 复仇者联盟5（热度：1161672）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23" target="weibo">
-女孩高考成绩被屏蔽4天小字显示全省前50（热度：1146159）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BB%84%E8%9C%82%E6%AD%BB%E4%BA%86%23" target="weibo">
 大黄蜂死了（热度：1146045）
 </a>
@@ -5967,6 +5967,12 @@ EDG首发名单（热度：1026596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E8%AF%B4%E8%8B%B1%E8%AF%AD%E9%9A%BE%E7%9A%84%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%23" target="weibo">
+那个说英语难的男生高考684分（热度：1017653）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%84%B6%E5%A3%B0%E7%A7%B0%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%23" target="weibo">
 日本突然声称核污水危害健康（热度：1017188）
 </a>
@@ -6005,12 +6011,6 @@ EDG首发名单（热度：1026596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%89%93%E4%BC%9E%23" target="weibo">
 高铁站台为什么不能打伞（热度：1013445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%94%90%E8%AF%84%E4%BB%BB%E6%95%8F%E6%B1%A4%E6%99%B6%E5%AA%9A%E4%B9%90%E9%98%9F%E4%BA%8B%E4%BB%B6%23" target="weibo">
-孟子义锐评任敏汤晶媚乐队事件（热度：1012196）
 </a>
 </li>
 
