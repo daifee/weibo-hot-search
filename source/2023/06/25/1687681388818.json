@@ -1,0 +1,410 @@
+{
+  "runTime": 1687681388818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2675479,
+        "num": 2675479,
+        "word": "郑欣宜",
+        "onboard_time": 1687679431,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2042624,
+        "num": 2042624,
+        "word": "山东高考分数线",
+        "onboard_time": 1687667979,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 60386,
+        "num": 1328116,
+        "word": "2023高考志愿填报10问10答",
+        "onboard_time": 1687667676,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287545,
+        "num": 1287545,
+        "word": "711分考生妈妈建议家长不要把全部精力投入孩子",
+        "onboard_time": 1687671574,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1056800,
+        "num": 1056800,
+        "word": "普京反制日本",
+        "onboard_time": 1687665518,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1123368,
+        "num": 1049334,
+        "word": "邱耀乐妈妈提告炎亚纶",
+        "onboard_time": 1687678233,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040953,
+        "num": 1040953,
+        "word": "浙江高考状元",
+        "onboard_time": 1687678831,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1003839,
+        "num": 1003839,
+        "word": "美媒称美国提前得知瓦格纳要行动",
+        "onboard_time": 1687679854,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 670019,
+        "num": 670019,
+        "word": "儿子考了675分父亲弹射冲下楼",
+        "onboard_time": 1687667318,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 657434,
+        "num": 657434,
+        "word": "那个说英语难的男生高考684分",
+        "onboard_time": 1687677873,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 837970,
+        "num": 655241,
+        "word": "张雪峰 因过度劳累被强制住院",
+        "onboard_time": 1687662210,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 744263,
+        "num": 652800,
+        "word": "迪丽热巴工作室发文回应粉丝",
+        "onboard_time": 1687678596,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682989,
+        "num": 648935,
+        "word": "00后最近都在混什么圈",
+        "onboard_time": 1687677453,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639713,
+        "num": 639713,
+        "word": "高考分数线",
+        "onboard_time": 1687662992,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60634,
+        "num": 639094,
+        "word": "父母背着上学的脑瘫女孩超一本线32分",
+        "onboard_time": 1687680033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638965,
+        "num": 638965,
+        "word": "李天泽高考成绩586",
+        "onboard_time": 1687664134,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579826,
+        "num": 579826,
+        "word": "李雪琴是艺名",
+        "onboard_time": 1687670615,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519852,
+        "num": 519852,
+        "word": "香港迪士尼偶遇吴尊一家",
+        "onboard_time": 1687678532,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455402,
+        "num": 455402,
+        "word": "湖北2023年高考分数线",
+        "onboard_time": 1687680933,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 452137,
+        "num": 452137,
+        "word": "感动全网的环卫工儿子考了470分",
+        "onboard_time": 1687673373,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 819224,
+        "num": 449526,
+        "word": "女子2年被老公家暴16次需终身挂粪袋",
+        "onboard_time": 1687678596,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545807,
+        "num": 433042,
+        "word": "非洲男友不让我看他身份证",
+        "onboard_time": 1687678473,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484818,
+        "num": 431206,
+        "word": "张馨予眼睛怎么了",
+        "onboard_time": 1687678654,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474612,
+        "num": 415382,
+        "word": "山东高考500分能上什么大学",
+        "onboard_time": 1687679794,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 470159,
+        "num": 410073,
+        "word": "何非用的不是苹果手机",
+        "onboard_time": 1687676854,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401083,
+        "num": 401083,
+        "word": "复读",
+        "onboard_time": 1687678473,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 381830,
+        "num": 381830,
+        "word": "为什么僵尸都穿清朝官服",
+        "onboard_time": 1687680876,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380599,
+        "num": 380599,
+        "word": "生殖科备孕医嘱",
+        "onboard_time": 1687665518,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 369336,
+        "num": 369336,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353320,
+        "num": 353320,
+        "word": "一年放假115天多吗",
+        "onboard_time": 1687680758,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350632,
+        "num": 350632,
+        "word": "学生高考成绩被屏蔽老师激动欢呼",
+        "onboard_time": 1687666477,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 322001,
+        "num": 322001,
+        "word": "2023山东高考成绩公布",
+        "onboard_time": 1687674214,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 300093,
+        "num": 300093,
+        "word": "浙江高考成绩",
+        "onboard_time": 1687672714,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 299137,
+        "num": 299137,
+        "word": "外甥女查分610小姨奔向卧室跑飞鞋",
+        "onboard_time": 1687671214,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273734,
+        "num": 273734,
+        "word": "榴莲小姐",
+        "onboard_time": 1687678596,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265955,
+        "num": 265955,
+        "word": "浙江高考分数线",
+        "onboard_time": 1687674572,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 264560,
+        "num": 264560,
+        "word": "文韬一个人撑起了一整个团",
+        "onboard_time": 1687679975,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256393,
+        "num": 256393,
+        "word": "肖战李沁演绎梦海番外",
+        "onboard_time": 1687680997,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249795,
+        "num": 249795,
+        "word": "陈思诚的命也是命",
+        "onboard_time": 1687680454,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242883,
+        "num": 242883,
+        "word": "赵露思视角下的陈哲远",
+        "onboard_time": 1687678052,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225323,
+        "num": 225323,
+        "word": "汶川地震敬礼娃娃基本确定选择北大",
+        "onboard_time": 1687678299,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223618,
+        "num": 223618,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221237,
+        "num": 221237,
+        "word": "鬼女红叶典藏皮肤",
+        "onboard_time": 1687678354,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218537,
+        "num": 218537,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 43,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 216575,
+        "num": 216575,
+        "word": "一人一句推荐你的专业",
+        "onboard_time": 1687681118,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 207638,
+        "num": 207638,
+        "word": "以前的手机设计是真的大胆",
+        "onboard_time": 1687678596,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204220,
+        "num": 204220,
+        "word": "孟子义当明星的原因",
+        "onboard_time": 1687675953,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198045,
+        "num": 198045,
+        "word": "太辜负这张理科脸了",
+        "onboard_time": 1687661851,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141667,
+        "num": 196362,
+        "word": "XYG战胜RW",
+        "onboard_time": 1687679854,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98265,
+        "num": 195673,
+        "word": "RW对战XYG",
+        "onboard_time": 1687673674,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#空中视角看千万工程调研行#"
+    }
+  }
+}
