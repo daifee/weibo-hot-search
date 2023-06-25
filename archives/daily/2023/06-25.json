@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687702588961,
+  "endTime": 1687703659779,
   "band_list": [
     {
       "raw_hot": 4420250,
@@ -243,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1471833,
+      "num": 1471833,
+      "word": "消失的她",
+      "onboard_time": 1687617878,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1467905,
       "num": 550048,
       "word": "生殖科备孕医嘱",
       "onboard_time": 1687665518,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1452047,
-      "num": 1452047,
-      "word": "消失的她",
-      "onboard_time": 1687617878,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1448582,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 954051,
+      "num": 412010,
+      "word": "赵露思的包好小",
+      "onboard_time": 1687701879,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 938628,
       "num": 938628,
       "word": "一年放假115天多吗",
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 871426,
-      "num": 412010,
-      "word": "赵露思的包好小",
-      "onboard_time": 1687701879,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 875140,
+      "num": 875140,
+      "word": "孟子义27岁素颜状态",
+      "onboard_time": 1687696352,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 857895,
@@ -497,6 +505,14 @@
       "onboard_time": 1687672714,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 825226,
+      "num": 825226,
+      "word": "蔡徐坤不用管我死活",
+      "onboard_time": 1687701277,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 814469,
@@ -561,14 +577,6 @@
       "onboard_time": 1687678596,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736621,
-      "num": 736621,
-      "word": "蔡徐坤不用管我死活",
-      "onboard_time": 1687701277,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 734350,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639666,
+      "num": 493625,
+      "word": "外交部回应瓦格纳集团事件",
+      "onboard_time": 1687701635,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 636560,
       "num": 1508073,
       "word": "男生考694分妈妈激动叫出海豚音",
@@ -716,19 +732,11 @@
     },
     {
       "raw_hot": 600734,
-      "num": 356186,
+      "num": 359072,
       "word": "男子混进小区舔女户主门前鞋子",
       "onboard_time": 1687695630,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588252,
-      "num": 588252,
-      "word": "孟子义27岁素颜状态",
-      "onboard_time": 1687696352,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 585631,
@@ -755,6 +763,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 577012,
+      "num": 493289,
+      "word": "普京称全天候控制特别军事行动进程",
+      "onboard_time": 1687700500,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 574854,
       "num": 207824,
       "word": "过线就录取的133所大学",
@@ -777,14 +793,6 @@
       "onboard_time": 1687681656,
       "rank": 13,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 557927,
-      "num": 402804,
-      "word": "普京称全天候控制特别军事行动进程",
-      "onboard_time": 1687700500,
-      "rank": 24,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 550424,
@@ -883,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492737,
+      "num": 492737,
+      "word": "长风渡 萨摩耶安慰布偶猫",
+      "onboard_time": 1687699656,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491779,
       "num": 491779,
       "word": "白敬亭宋轶脸颊比心",
@@ -897,6 +913,14 @@
       "onboard_time": 1687688074,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 486752,
+      "num": 486752,
+      "word": "车澈给王传君介绍严浩翔",
+      "onboard_time": 1687701578,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 482447,
@@ -1011,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441650,
-      "num": 394844,
-      "word": "外交部回应瓦格纳集团事件",
-      "onboard_time": 1687701635,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 436952,
       "num": 436952,
       "word": "2023广东高考查分",
@@ -1067,12 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425247,
-      "num": 425247,
-      "word": "长风渡 萨摩耶安慰布偶猫",
-      "onboard_time": 1687699656,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 424918,
+      "num": 424918,
+      "word": "穆祉丞中考627分",
+      "onboard_time": 1687692934,
+      "rank": 24,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 417114,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1687696412,
       "rank": 24,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 416375,
-      "num": 416375,
-      "word": "穆祉丞中考627分",
-      "onboard_time": 1687692934,
-      "rank": 24,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 414514,
@@ -1219,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 365785,
+      "num": 342536,
+      "word": "中方表示瓦格纳集团事件是俄罗斯内政",
+      "onboard_time": 1687703256,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 357172,
       "num": 357172,
       "word": "有没有人管管Ella",
@@ -1267,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 346661,
-      "num": 346661,
-      "word": "车澈给王传君介绍严浩翔",
-      "onboard_time": 1687701578,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 346456,
       "num": 346456,
       "word": "王栎鑫披荆斩棘",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1687682674,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340103,
+      "num": 494133,
+      "word": "博士生毕业后赴新疆任教被校长点名表扬",
+      "onboard_time": 1687702778,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 339189,
@@ -1899,6 +1915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 240076,
+      "num": 240076,
+      "word": "孟子义特别好的男生朋友没王鹤棣",
+      "onboard_time": 1687698455,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238977,
       "num": 238977,
       "word": "桑稚泼水快狠准",
@@ -1915,12 +1939,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237003,
-      "num": 237003,
-      "word": "孟子义特别好的男生朋友没王鹤棣",
-      "onboard_time": 1687698455,
+      "raw_hot": 237007,
+      "num": 237007,
+      "word": "大宋少年志2播出时间",
+      "onboard_time": 1687703016,
       "rank": 39,
-      "category": "综艺"
+      "category": "影视"
     },
     {
       "raw_hot": 235489,
@@ -2235,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198756,
+      "num": 198756,
+      "word": "井底女孩被救却一直担心消防员",
+      "onboard_time": 1687703138,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198655,
       "num": 198655,
       "word": "黄新淳追星鹿晗",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1687586314,
       "rank": 42,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 187074,
+      "num": 187074,
+      "word": "谁家猫咪这样开门",
+      "onboard_time": 1687700556,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 186584,
