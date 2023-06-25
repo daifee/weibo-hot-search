@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687663357490,
+  "endTime": 1687664115024,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -153,6 +153,14 @@
       "onboard_time": 1687524400,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 4420250,
+      "num": 4420250,
+      "word": "张雪峰 因过度劳累被强制住院",
+      "onboard_time": 1687662210,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 4212896,
@@ -753,14 +761,6 @@
       "onboard_time": 1687251091,
       "rank": 22,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 2147371,
-      "num": 927635,
-      "word": "张雪峰 因过度劳累被强制住院",
-      "onboard_time": 1687662210,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2141755,
@@ -2307,6 +2307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1073157,
+      "num": 1073157,
+      "word": "消失的她原型",
+      "onboard_time": 1687657171,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1071743,
       "num": 384110,
       "word": "炎亚纶左耳钉的故事",
@@ -2587,8 +2595,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 999778,
-      "num": 999778,
+      "raw_hot": 1003068,
+      "num": 1003068,
       "word": "宋轶片场勾白敬亭下巴",
       "onboard_time": 1687657471,
       "rank": 15,
@@ -2849,14 +2857,6 @@
       "onboard_time": 1687507230,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 928489,
-      "num": 928489,
-      "word": "消失的她原型",
-      "onboard_time": 1687657171,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 927985,
@@ -3427,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783231,
+      "num": 496077,
+      "word": "生孩子当天老公发的朋友圈",
+      "onboard_time": 1687658791,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 777392,
       "num": 777392,
       "word": "赵敏周芷若同框了",
@@ -3531,12 +3539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757599,
-      "num": 496077,
-      "word": "生孩子当天老公发的朋友圈",
-      "onboard_time": 1687658791,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 759204,
+      "num": 759204,
+      "word": "瓦格纳的24小时哗变",
+      "onboard_time": 1687662512,
+      "rank": 30,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 752217,
@@ -3817,14 +3825,6 @@
       "onboard_time": 1687584813,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 697595,
-      "num": 338757,
-      "word": "瓦格纳的24小时哗变",
-      "onboard_time": 1687662512,
-      "rank": 30,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 695563,
@@ -4257,6 +4257,14 @@
       "onboard_time": 1687363300,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 613129,
+      "num": 613129,
+      "word": "向佐自称保姆叫郭碧婷大小姐",
+      "onboard_time": 1687663714,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 612928,
@@ -5604,7 +5612,7 @@
     },
     {
       "raw_hot": 460775,
-      "num": 334189,
+      "num": 347447,
       "word": "太辜负这张理科脸了",
       "onboard_time": 1687661851,
       "rank": 31,
@@ -6459,6 +6467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401121,
+      "num": 401121,
+      "word": "2023广东高考查分",
+      "onboard_time": 1687659090,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 400423,
       "num": 400423,
       "word": "难哄",
@@ -7035,14 +7051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 367557,
-      "num": 367557,
-      "word": "2023广东高考查分",
-      "onboard_time": 1687659090,
-      "rank": 41,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 367271,
       "num": 367271,
       "word": "江苏高考687分及以上116人",
@@ -7355,6 +7363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350712,
+      "num": 350712,
+      "word": "男生考694分妈妈激动叫出海豚音",
+      "onboard_time": 1687662273,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 350623,
       "num": 2592893,
       "word": "全国各地高考分数线汇总",
@@ -7417,14 +7433,6 @@
       "onboard_time": 1687499432,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348465,
-      "num": 348465,
-      "word": "男生考694分妈妈激动叫出海豚音",
-      "onboard_time": 1687662273,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 348070,
@@ -7811,6 +7819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329176,
+      "num": 329176,
+      "word": "真就不管朱一龙的死活",
+      "onboard_time": 1687663230,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327552,
       "num": 327552,
       "word": "鹿晗演唱会没唱勋章",
@@ -7961,6 +7977,14 @@
       "onboard_time": 1687659569,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 319406,
+      "num": 319406,
+      "word": "范丞丞说把贾玲照片贴门口",
+      "onboard_time": 1687663535,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 319193,
@@ -8865,6 +8889,14 @@
       "onboard_time": 1687188339,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287272,
+      "num": 287272,
+      "word": "南波万的手帐",
+      "onboard_time": 1687662752,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 287217,
@@ -9825,14 +9857,6 @@
       "onboard_time": 1687604194,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257969,
-      "num": 257969,
-      "word": "南波万的手帐",
-      "onboard_time": 1687662752,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 257867,
@@ -11035,6 +11059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230734,
+      "num": 230734,
+      "word": "派克特喊话节目组",
+      "onboard_time": 1687654172,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230707,
       "num": 230707,
       "word": "全职太太景知秋不肯生二胎被嫌",
@@ -11216,14 +11248,6 @@
       "word": "易梦玲头发上系蝴蝶结",
       "onboard_time": 1687406855,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 222889,
-      "num": 222889,
-      "word": "派克特喊话节目组",
-      "onboard_time": 1687654172,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -11449,14 +11473,6 @@
       "onboard_time": 1687101750,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217128,
-      "num": 217128,
-      "word": "真就不管朱一龙的死活",
-      "onboard_time": 1687663230,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 217032,
@@ -11905,6 +11921,14 @@
       "onboard_time": 1687277016,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206575,
+      "num": 206575,
+      "word": "逐渐意识到e人在现实有多爽",
+      "onboard_time": 1687663955,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 206443,
