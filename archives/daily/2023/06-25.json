@@ -1,6 +1,6 @@
 {
   "startTime": 1687623859164,
-  "endTime": 1687658514632,
+  "endTime": 1687660015119,
   "band_list": [
     {
       "raw_hot": 3438759,
@@ -19,8 +19,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 2186157,
-      "num": 2186157,
+      "raw_hot": 2595707,
+      "num": 2595707,
       "word": "调休",
       "onboard_time": 1687656091,
       "rank": 0,
@@ -83,8 +83,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1473292,
+      "num": 1473292,
+      "word": "乌克兰宣布从多方向发起反攻",
+      "onboard_time": 1687657828,
+      "rank": 18,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1289394,
-      "num": 673162,
+      "num": 773016,
       "word": "乌克兰",
       "onboard_time": 1687653630,
       "rank": 10,
@@ -99,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1138115,
-      "num": 849523,
+      "raw_hot": 1257511,
+      "num": 1257511,
       "word": "普京感谢卢卡申科",
       "onboard_time": 1687656993,
       "rank": 7,
@@ -139,6 +147,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 790365,
+      "num": 790365,
+      "word": "宋轶片场勾白敬亭下巴",
+      "onboard_time": 1687657471,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 781621,
+      "num": 781621,
+      "word": "消失的她原型",
+      "onboard_time": 1687657171,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 775138,
       "num": 775138,
       "word": "女孩充电被电击内脏受损面临截肢",
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757599,
+      "num": 399469,
+      "word": "生孩子当天老公发的朋友圈",
+      "onboard_time": 1687658791,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 732688,
       "num": 732688,
       "word": "弟弟考673分姐姐哭了一小时",
@@ -169,14 +201,6 @@
       "onboard_time": 1687656932,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 694501,
-      "num": 694501,
-      "word": "消失的她原型",
-      "onboard_time": 1687657171,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 686578,
@@ -275,36 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471272,
-      "num": 471272,
-      "word": "宋轶片场勾白敬亭下巴",
-      "onboard_time": 1687657471,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 457610,
-      "num": 457610,
+      "raw_hot": 466525,
+      "num": 466525,
       "word": "陈思诚透露误杀3和唐探新片进度",
       "onboard_time": 1687626502,
       "rank": 29,
       "category": "影视"
     },
     {
-      "raw_hot": 439758,
-      "num": 439758,
+      "raw_hot": 454476,
+      "num": 454476,
       "word": "早安 星期零",
       "onboard_time": 1687655192,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 432119,
-      "num": 432119,
-      "word": "乌克兰宣布从多方向发起反攻",
-      "onboard_time": 1687657828,
-      "rank": 18,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 432078,
@@ -387,12 +395,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 349542,
+      "num": 349542,
+      "word": "调休制定参与者建议重新考虑政策",
+      "onboard_time": 1687659569,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339189,
       "num": 339189,
       "word": "鹿晗演唱会散场后没有垃圾",
       "onboard_time": 1687653572,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 337765,
+      "num": 337765,
+      "word": "高铁上碰到三位大哥在吃酒席",
+      "onboard_time": 1687659691,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 322673,
@@ -417,6 +441,14 @@
       "onboard_time": 1687656693,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304919,
+      "num": 304919,
+      "word": "河南高考2023分数线",
+      "onboard_time": 1687653933,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 304316,
@@ -459,11 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284825,
-      "num": 284825,
-      "word": "河南高考2023分数线",
-      "onboard_time": 1687653933,
-      "rank": 32,
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "繁华似锦开播",
+      "onboard_time": 1687659691,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 284482,
+      "num": 284482,
+      "word": "男生高考英语141分老师激动摸头拍背",
+      "onboard_time": 1687657050,
+      "rank": 33,
       "category": "教育,社会新闻"
     },
     {
@@ -481,14 +521,6 @@
       "onboard_time": 1687597416,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 279089,
-      "num": 279089,
-      "word": "男生高考英语141分老师激动摸头拍背",
-      "onboard_time": 1687657050,
-      "rank": 33,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 277697,
@@ -520,6 +552,14 @@
       "word": "大学四年买了100斤的衣服",
       "onboard_time": 1687607492,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 275301,
+      "num": 275301,
+      "word": "假期旅游回来发现空调没关",
+      "onboard_time": 1687659569,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -571,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254429,
+      "num": 254429,
+      "word": "录取通知书何时能收到",
+      "onboard_time": 1687659271,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 249186,
       "num": 175400,
       "word": "内向和外向的小狗太明显了",
@@ -611,12 +659,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227914,
+      "num": 227914,
+      "word": "2023广东高考查分",
+      "onboard_time": 1687659090,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222889,
       "num": 222889,
       "word": "派克特喊话节目组",
       "onboard_time": 1687654172,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218992,
+      "num": 218992,
+      "word": "这猫怎么比小朋友还大",
+      "onboard_time": 1687659691,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 218935,
@@ -633,6 +697,22 @@
       "onboard_time": 1687653994,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215564,
+      "num": 215564,
+      "word": "古巨基到底采访过多少香港巨星",
+      "onboard_time": 1687659750,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215388,
+      "num": 215388,
+      "word": "北京公布高考分数线",
+      "onboard_time": 1687659930,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211871,
@@ -764,7 +844,7 @@
     },
     {
       "raw_hot": 169363,
-      "num": 201361,
+      "num": 205126,
       "word": "代号鸢",
       "onboard_time": 1687657411,
       "rank": 48,
@@ -812,7 +892,7 @@
     },
     {
       "raw_hot": 140441,
-      "num": 200508,
+      "num": 202807,
       "word": "WBG失误",
       "onboard_time": 1687651350,
       "rank": 49,
@@ -940,6 +1020,9 @@
     },
     {
       "word": "#端午假期国内旅游1.06亿人次#"
+    },
+    {
+      "word": "#130秒飞阅祖国盛夏之美#"
     }
   ]
 }

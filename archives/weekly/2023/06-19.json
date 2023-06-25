@@ -1,6 +1,6 @@
 {
   "startTime": 1687105259145,
-  "endTime": 1687658514632,
+  "endTime": 1687660015119,
   "band_list": [
     {
       "raw_hot": 15562142,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2595707,
+      "num": 2595707,
+      "word": "调休",
+      "onboard_time": 1687656091,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2568811,
       "num": 2568811,
       "word": "陈情令",
@@ -689,14 +697,6 @@
       "onboard_time": 1687261291,
       "rank": 1,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 2186157,
-      "num": 2186157,
-      "word": "调休",
-      "onboard_time": 1687656091,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2183043,
@@ -1411,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1473292,
+      "num": 1473292,
+      "word": "乌克兰宣布从多方向发起反攻",
+      "onboard_time": 1687657828,
+      "rank": 18,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 1472333,
       "num": 1472333,
       "word": "谭松韵回应直角肩",
@@ -1804,7 +1812,7 @@
     },
     {
       "raw_hot": 1289394,
-      "num": 673162,
+      "num": 773016,
       "word": "乌克兰",
       "onboard_time": 1687653630,
       "rank": 10,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1687525057,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1257511,
+      "num": 1257511,
+      "word": "普京感谢卢卡申科",
+      "onboard_time": 1687656993,
+      "rank": 7,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1256570,
@@ -2089,14 +2105,6 @@
       "onboard_time": 1687568914,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1138115,
-      "num": 849523,
-      "word": "普京感谢卢卡申科",
-      "onboard_time": 1687656993,
-      "rank": 7,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 1128959,
@@ -3331,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790365,
+      "num": 790365,
+      "word": "宋轶片场勾白敬亭下巴",
+      "onboard_time": 1687657471,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 788372,
       "num": 1193339,
       "word": "中山大学录取通知书内有云南普洱茶",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1687082128,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781621,
+      "num": 781621,
+      "word": "消失的她原型",
+      "onboard_time": 1687657171,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 777392,
@@ -3473,6 +3497,14 @@
       "onboard_time": 1687351534,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757599,
+      "num": 399469,
+      "word": "生孩子当天老公发的朋友圈",
+      "onboard_time": 1687658791,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 752217,
@@ -3768,14 +3800,6 @@
       "word": "顾九思柳玉茹喂血吻",
       "onboard_time": 1687411532,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 694501,
-      "num": 694501,
-      "word": "消失的她原型",
-      "onboard_time": 1687657171,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -5419,14 +5443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471272,
-      "num": 471272,
-      "word": "宋轶片场勾白敬亭下巴",
-      "onboard_time": 1687657471,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 469172,
       "num": 469172,
       "word": "陈哲远他好满意自己的rap",
@@ -5449,6 +5465,14 @@
       "onboard_time": 1687581632,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 466525,
+      "num": 466525,
+      "word": "陈思诚透露误杀3和唐探新片进度",
+      "onboard_time": 1687626502,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 466451,
@@ -5529,14 +5553,6 @@
       "onboard_time": 1687352795,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457610,
-      "num": 457610,
-      "word": "陈思诚透露误杀3和唐探新片进度",
-      "onboard_time": 1687626502,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 457523,
@@ -5625,6 +5641,14 @@
       "onboard_time": 1687342595,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454476,
+      "num": 454476,
+      "word": "早安 星期零",
+      "onboard_time": 1687655192,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 452879,
@@ -5763,14 +5787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439758,
-      "num": 439758,
-      "word": "早安 星期零",
-      "onboard_time": 1687655192,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 439090,
       "num": 356135,
       "word": "虞书欣立体花朵黑裙造型",
@@ -5889,14 +5905,6 @@
       "onboard_time": 1687147349,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 432119,
-      "num": 432119,
-      "word": "乌克兰宣布从多方向发起反攻",
-      "onboard_time": 1687657828,
-      "rank": 18,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 432078,
@@ -7275,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349542,
+      "num": 349542,
+      "word": "调休制定参与者建议重新考虑政策",
+      "onboard_time": 1687659569,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349228,
       "num": 325492,
       "word": "Jennie新剧预告又跳舞了",
@@ -7489,6 +7505,14 @@
       "onboard_time": 1687653572,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 337765,
+      "num": 337765,
+      "word": "高铁上碰到三位大哥在吃酒席",
+      "onboard_time": 1687659691,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 337460,
@@ -8163,6 +8187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304919,
+      "num": 304919,
+      "word": "河南高考2023分数线",
+      "onboard_time": 1687653933,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 304316,
       "num": 304316,
       "word": "泰妍取关official账号",
@@ -8747,14 +8779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284825,
-      "num": 284825,
-      "word": "河南高考2023分数线",
-      "onboard_time": 1687653933,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 284724,
       "num": 284724,
       "word": "跟妈妈开玩笑被陌生人教育了",
@@ -8777,6 +8801,22 @@
       "onboard_time": 1687271555,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284558,
+      "num": 284558,
+      "word": "繁华似锦开播",
+      "onboard_time": 1687659691,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 284482,
+      "num": 284482,
+      "word": "男生高考英语141分老师激动摸头拍背",
+      "onboard_time": 1687657050,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 284386,
@@ -8923,14 +8963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279089,
-      "num": 279089,
-      "word": "男生高考英语141分老师激动摸头拍背",
-      "onboard_time": 1687657050,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 278601,
       "num": 278601,
       "word": "看看舞台",
@@ -9049,6 +9081,14 @@
       "onboard_time": 1687189835,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275301,
+      "num": 275301,
+      "word": "假期旅游回来发现空调没关",
+      "onboard_time": 1687659569,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 275173,
@@ -9761,6 +9801,14 @@
       "onboard_time": 1687237237,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254429,
+      "num": 254429,
+      "word": "录取通知书何时能收到",
+      "onboard_time": 1687659271,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 254401,
@@ -10923,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227914,
+      "num": 227914,
+      "word": "2023广东高考查分",
+      "onboard_time": 1687659090,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 227439,
       "num": 227439,
       "word": "偷偷藏不住预告",
@@ -11195,6 +11251,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 218992,
+      "num": 218992,
+      "word": "这猫怎么比小朋友还大",
+      "onboard_time": 1687659691,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218954,
       "num": 186043,
       "word": "种地吧",
@@ -11289,6 +11353,22 @@
       "onboard_time": 1687171600,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215564,
+      "num": 215564,
+      "word": "古巨基到底采访过多少香港巨星",
+      "onboard_time": 1687659750,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215388,
+      "num": 215388,
+      "word": "北京公布高考分数线",
+      "onboard_time": 1687659930,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 215358,
@@ -14260,7 +14340,7 @@
     },
     {
       "raw_hot": 140441,
-      "num": 200508,
+      "num": 202807,
       "word": "WBG失误",
       "onboard_time": 1687651350,
       "rank": 49,
@@ -15893,6 +15973,9 @@
     },
     {
       "word": "#端午假期国内旅游1.06亿人次#"
+    },
+    {
+      "word": "#130秒飞阅祖国盛夏之美#"
     }
   ]
 }

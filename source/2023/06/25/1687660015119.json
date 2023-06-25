@@ -1,0 +1,410 @@
+{
+  "runTime": 1687660015119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2595707,
+        "num": 2595707,
+        "word": "调休",
+        "onboard_time": 1687656091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473292,
+        "num": 1473292,
+        "word": "乌克兰宣布从多方向发起反攻",
+        "onboard_time": 1687657828,
+        "rank": 1,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 8635,
+        "num": 1375686,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1937314,
+        "num": 1361067,
+        "word": "新华书店才是隐藏的终极大佬",
+        "onboard_time": 1687652430,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318327,
+        "num": 1318327,
+        "word": "男子每天1斤杨梅狂吃20天要做血透",
+        "onboard_time": 1687650387,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257511,
+        "num": 1257511,
+        "word": "普京感谢卢卡申科",
+        "onboard_time": 1687656993,
+        "rank": 5,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1069805,
+        "num": 1069805,
+        "word": "陈飞宇孟子义 难哄",
+        "onboard_time": 1687650387,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 790365,
+        "num": 790365,
+        "word": "宋轶片场勾白敬亭下巴",
+        "onboard_time": 1687657471,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1243518,
+        "num": 787214,
+        "word": "瓦格纳从俄南部军区司令部撤离",
+        "onboard_time": 1687648282,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 781621,
+        "num": 781621,
+        "word": "消失的她原型",
+        "onboard_time": 1687657171,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 841016,
+        "num": 773016,
+        "word": "乌克兰",
+        "onboard_time": 1687653630,
+        "rank": 10,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 758552,
+        "num": 758552,
+        "word": "消失的她 绝世大甜剧",
+        "onboard_time": 1687615298,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700914,
+        "num": 700914,
+        "word": "女孩充电被电击内脏受损面临截肢",
+        "onboard_time": 1687650928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571107,
+        "num": 571107,
+        "word": "俄罗斯",
+        "onboard_time": 1687656932,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 466525,
+        "num": 466525,
+        "word": "陈思诚透露误杀3和唐探新片进度",
+        "onboard_time": 1687626502,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454476,
+        "num": 454476,
+        "word": "早安 星期零",
+        "onboard_time": 1687655192,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433899,
+        "num": 433899,
+        "word": "鹿晗演唱会的女安检员",
+        "onboard_time": 1687610132,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 433018,
+        "num": 433018,
+        "word": "瓦格纳同意停止在俄领土上的行动",
+        "onboard_time": 1687648162,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 402443,
+        "num": 402443,
+        "word": "关晓彤去了鹿晗的演唱会",
+        "onboard_time": 1687615178,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399962,
+        "num": 399962,
+        "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
+        "onboard_time": 1687619558,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757599,
+        "num": 399469,
+        "word": "生孩子当天老公发的朋友圈",
+        "onboard_time": 1687658791,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483786,
+        "num": 398305,
+        "word": "男朋友对每一任女朋友都很好",
+        "onboard_time": 1687652430,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397023,
+        "num": 397023,
+        "word": "去看中医医生叫我找个男朋友",
+        "onboard_time": 1687655853,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353757,
+        "num": 353757,
+        "word": "禁毒警拍家庭合照时下意识背过身",
+        "onboard_time": 1687617998,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349542,
+        "num": 349542,
+        "word": "调休制定参与者建议重新考虑政策",
+        "onboard_time": 1687659569,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337765,
+        "num": 337765,
+        "word": "高铁上碰到三位大哥在吃酒席",
+        "onboard_time": 1687659691,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333799,
+        "num": 333799,
+        "word": "唐舞桐的原型是唐家三少女儿",
+        "onboard_time": 1687656091,
+        "rank": 26,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 311552,
+        "num": 311552,
+        "word": "普京指责瓦格纳负责人叛国",
+        "onboard_time": 1687592313,
+        "rank": 27,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 304919,
+        "num": 304919,
+        "word": "河南高考2023分数线",
+        "onboard_time": 1687653933,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 302527,
+        "num": 302527,
+        "word": "鹿晗演唱会散场后没有垃圾",
+        "onboard_time": 1687653572,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292537,
+        "num": 292537,
+        "word": "95后女生收6岁小徒弟传承非遗",
+        "onboard_time": 1687652552,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284558,
+        "num": 284558,
+        "word": "繁华似锦开播",
+        "onboard_time": 1687659691,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284551,
+        "num": 284551,
+        "word": "家长以为中考管饭送完孩子去郊游",
+        "onboard_time": 1687618302,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284482,
+        "num": 284482,
+        "word": "男生高考英语141分老师激动摸头拍背",
+        "onboard_time": 1687657050,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 275301,
+        "num": 275301,
+        "word": "假期旅游回来发现空调没关",
+        "onboard_time": 1687659569,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265885,
+        "num": 265885,
+        "word": "弟弟考673分姐姐哭了一小时",
+        "onboard_time": 1687616195,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254429,
+        "num": 254429,
+        "word": "录取通知书何时能收到",
+        "onboard_time": 1687659271,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 251106,
+        "num": 251106,
+        "word": "徐良披荆斩棘",
+        "onboard_time": 1687655073,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241137,
+        "num": 241137,
+        "word": "KPOP世巡演唱会收入TOP4的组合",
+        "onboard_time": 1687654893,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231027,
+        "num": 231027,
+        "word": "白敬亭宋轶脸颊比心",
+        "onboard_time": 1687617576,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228317,
+        "num": 228317,
+        "word": "湖北分数线 砍一刀",
+        "onboard_time": 1687650447,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 227914,
+        "num": 227914,
+        "word": "2023广东高考查分",
+        "onboard_time": 1687659090,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 222452,
+        "num": 222452,
+        "word": "消失的她",
+        "onboard_time": 1687617878,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218992,
+        "num": 218992,
+        "word": "这猫怎么比小朋友还大",
+        "onboard_time": 1687659691,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219866,
+        "num": 218426,
+        "word": "闺蜜看完消失的她和对象分手了",
+        "onboard_time": 1687649065,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217315,
+        "num": 217315,
+        "word": "秦岚王阳斗嘴戏差点吻上",
+        "onboard_time": 1687656693,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215564,
+        "num": 215564,
+        "word": "古巨基到底采访过多少香港巨星",
+        "onboard_time": 1687659750,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215388,
+        "num": 215388,
+        "word": "北京公布高考分数线",
+        "onboard_time": 1687659930,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162548,
+        "num": 205126,
+        "word": "代号鸢",
+        "onboard_time": 1687657411,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123588,
+        "num": 202807,
+        "word": "WBG失误",
+        "onboard_time": 1687651350,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#130秒飞阅祖国盛夏之美#"
+    }
+  }
+}
