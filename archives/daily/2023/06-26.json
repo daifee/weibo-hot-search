@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687735139649,
+  "endTime": 1687736041127,
   "band_list": [
     {
       "raw_hot": 2168711,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885088,
+      "num": 885088,
+      "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
+      "onboard_time": 1687685793,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 862501,
       "num": 415294,
       "word": "黄多多17岁穿搭",
@@ -51,12 +59,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 650185,
-      "num": 650185,
-      "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
-      "onboard_time": 1687685793,
-      "rank": 4,
-      "category": "社会新闻,教育"
+      "raw_hot": 757578,
+      "num": 757578,
+      "word": "为什么医院不让家属陪护只能请护工",
+      "onboard_time": 1687734261,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626967,
+      "num": 626967,
+      "word": "现在的吃播真的令我手足无措",
+      "onboard_time": 1687706496,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 620058,
@@ -65,14 +81,6 @@
       "onboard_time": 1687703256,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 592707,
-      "num": 559063,
-      "word": "现在的吃播真的令我手足无措",
-      "onboard_time": 1687706496,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 533689,
@@ -89,6 +97,14 @@
       "onboard_time": 1687700500,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 466901,
+      "num": 466901,
+      "word": "王者荣耀亚运会大名单",
+      "onboard_time": 1687734744,
+      "rank": 8,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 448068,
@@ -131,20 +147,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 373870,
+      "num": 373870,
+      "word": "父亲去世男孩忍痛高考如愿上岸",
+      "onboard_time": 1687703918,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 372357,
       "num": 372357,
       "word": "鹿晗的泪钻",
       "onboard_time": 1687704337,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 366686,
-      "num": 366686,
-      "word": "父亲去世男孩忍痛高考如愿上岸",
-      "onboard_time": 1687703918,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 345577,
@@ -179,14 +195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 327835,
-      "num": 327835,
-      "word": "王者荣耀亚运会大名单",
-      "onboard_time": 1687734744,
-      "rank": 8,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 319103,
       "num": 284275,
       "word": "蔡徐坤不用管我死活",
@@ -195,20 +203,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 309035,
+      "num": 309035,
+      "word": "690分学霸采访中接到清华电话",
+      "onboard_time": 1687734382,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 304853,
       "num": 304853,
       "word": "白桃星座",
       "onboard_time": 1687705234,
       "rank": 18,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 302570,
-      "num": 302570,
-      "word": "为什么医院不让家属陪护只能请护工",
-      "onboard_time": 1687734261,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301236,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256550,
+      "num": 256550,
+      "word": "Fly未入选亚运会",
+      "onboard_time": 1687735404,
+      "rank": 15,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 252191,
       "num": 252191,
       "word": "博士生毕业后赴新疆任教被校长点名表扬",
@@ -297,6 +313,14 @@
       "onboard_time": 1687692452,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244984,
+      "num": 244984,
+      "word": "一诺入选亚运会",
+      "onboard_time": 1687734803,
+      "rank": 30,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 231145,
@@ -347,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189758,
+      "num": 189758,
+      "word": "偷偷藏不住吻戏什么时候来",
+      "onboard_time": 1687715237,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "车澈给王传君介绍严浩翔",
@@ -363,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181035,
+      "num": 181035,
+      "word": "山东高考600分及以上24346人",
+      "onboard_time": 1687732698,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 179233,
       "num": 179233,
       "word": "什么东西是全国统一零售价",
@@ -371,36 +411,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174325,
-      "num": 197858,
-      "word": "690分学霸采访中接到清华电话",
-      "onboard_time": 1687734382,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 159846,
-      "num": 184579,
-      "word": "偷偷藏不住吻戏什么时候来",
-      "onboard_time": 1687715237,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 158914,
-      "num": 158914,
-      "word": "山东高考600分及以上24346人",
-      "onboard_time": 1687732698,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 156601,
       "num": 156601,
       "word": "蔡徐坤泰国演唱会",
       "onboard_time": 1687695394,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155409,
+      "num": 155409,
+      "word": "有点担心韩剧的精神状态",
+      "onboard_time": 1687735645,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 154404,
@@ -419,6 +443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 149016,
+      "num": 149016,
+      "word": "一张银片锤打50多万次后变身银壶",
+      "onboard_time": 1687733841,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "穆祉丞中考627分",
@@ -427,12 +459,12 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 132505,
-      "num": 132505,
-      "word": "一诺入选亚运会",
-      "onboard_time": 1687734803,
-      "rank": 30,
-      "category": "游戏,体育"
+      "raw_hot": 132415,
+      "num": 132415,
+      "word": "原来是何非拔掉的氧气罐",
+      "onboard_time": 1687735645,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 129970,
@@ -467,6 +499,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119657,
+      "num": 119657,
+      "word": "不出意外这是我这周的状态",
+      "onboard_time": 1687734502,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 117942,
+      "num": 117942,
+      "word": "亚运会大名单",
+      "onboard_time": 1687735706,
+      "rank": 39,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 117387,
       "num": 117387,
       "word": "长风渡 萨摩耶安慰布偶猫",
@@ -475,11 +523,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108652,
-      "num": 108652,
-      "word": "一张银片锤打50多万次后变身银壶",
-      "onboard_time": 1687733841,
-      "rank": 37,
+      "raw_hot": 112233,
+      "num": 112233,
+      "word": "嘴里五味暗示身体问题",
+      "onboard_time": 1687735765,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -497,6 +545,14 @@
       "onboard_time": 1687699416,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 91668,
+      "num": 91668,
+      "word": "阿豆入选亚运会",
+      "onboard_time": 1687735765,
+      "rank": 48,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 81229,
@@ -571,7 +627,7 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 4217,
+      "raw_hot": 4677,
       "num": 975664,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
