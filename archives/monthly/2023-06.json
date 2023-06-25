@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687710244758,
+  "endTime": 1687711261947,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -8315,6 +8315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 990901,
+      "num": 990901,
+      "word": "亚运会",
+      "onboard_time": 1686543155,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 989202,
       "num": 989202,
       "word": "高铁上情侣想换座我拒绝了",
@@ -8496,6 +8504,14 @@
       "word": "北极鲶鱼",
       "onboard_time": 1686184168,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971569,
+      "num": 971569,
+      "word": "四川26岁女孩下网约车后失联",
+      "onboard_time": 1687707334,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -9833,14 +9849,6 @@
       "onboard_time": 1686545979,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 850658,
-      "num": 850658,
-      "word": "四川26岁女孩下网约车后失联",
-      "onboard_time": 1687707334,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849215,
@@ -13788,7 +13796,7 @@
     },
     {
       "raw_hot": 592707,
-      "num": 414859,
+      "num": 559063,
       "word": "现在的吃播真的令我手足无措",
       "onboard_time": 1687706496,
       "rank": 31,
@@ -21073,14 +21081,6 @@
       "onboard_time": 1686480626,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364531,
-      "num": 248740,
-      "word": "亚运会",
-      "onboard_time": 1686543155,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 364383,
