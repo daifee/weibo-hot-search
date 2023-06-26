@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687789115653,
+  "endTime": 1687790206751,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -8,6 +8,14 @@
       "word": "人彘",
       "onboard_time": 1687754416,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3089255,
+      "num": 3089255,
+      "word": "段嘉许 男狐狸精",
+      "onboard_time": 1687785405,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -19,14 +27,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2791947,
-      "num": 2791947,
-      "word": "段嘉许 男狐狸精",
-      "onboard_time": 1687785405,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2565424,
       "num": 919046,
       "word": "蔡徐坤演唱会互动女网红道歉",
@@ -35,7 +35,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2365778,
+      "raw_hot": 2427374,
       "num": 2365778,
       "word": "健身教练吸毒一个多月暴瘦70斤",
       "onboard_time": 1687785884,
@@ -64,6 +64,14 @@
       "word": "不要再对瘦子说你好瘦了",
       "onboard_time": 1687750355,
       "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1892206,
+      "num": 1892206,
+      "word": "妹妹考了702分却哭了一下午",
+      "onboard_time": 1687785643,
+      "rank": 11,
       "category": "幽默"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1687781622,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1788566,
-      "num": 1788566,
-      "word": "妹妹考了702分却哭了一下午",
-      "onboard_time": 1687785643,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1786737,
@@ -355,8 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 759375,
-      "num": 286358,
+      "raw_hot": 773325,
+      "num": 310266,
       "word": "何穗发了60多张自拍",
       "onboard_time": 1687786370,
       "rank": 43,
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497819,
+      "num": 309009,
+      "word": "新学的一招恶心别人的方法",
+      "onboard_time": 1687785102,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 497359,
       "num": 430865,
       "word": "你会为了7万提前结束产假吗",
@@ -747,14 +755,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 439155,
-      "num": 283731,
-      "word": "新学的一招恶心别人的方法",
-      "onboard_time": 1687785102,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 435960,
       "num": 435960,
       "word": "肖战谈自己如何面对各种评论",
@@ -785,6 +785,14 @@
       "onboard_time": 1687764350,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425494,
+      "num": 425494,
+      "word": "兴化地震",
+      "onboard_time": 1687787566,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423389,
@@ -968,6 +976,14 @@
       "word": "长风渡剧本bug",
       "onboard_time": 1687751025,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 361640,
+      "num": 361640,
+      "word": "朱一龙消失的她杀青后只想跑",
+      "onboard_time": 1687789007,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1211,14 +1227,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 302072,
-      "num": 302072,
-      "word": "兴化地震",
-      "onboard_time": 1687787566,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301236,
       "num": 240520,
       "word": "北京一律所称不再招聘川大毕业生",
@@ -1275,8 +1283,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289103,
-      "num": 274483,
+      "raw_hot": 290019,
+      "num": 290019,
       "word": "段嘉许连叫桑延三声哥哥",
       "onboard_time": 1687786244,
       "rank": 41,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1687706197,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273032,
+      "num": 273032,
+      "word": "浙江海宁2名消防员因公牺牲",
+      "onboard_time": 1687789909,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272210,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1687775985,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258705,
+      "num": 258705,
+      "word": "李硕珉Betelgeuse翻唱",
+      "onboard_time": 1687787989,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 258577,
@@ -1563,6 +1587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 237965,
+      "num": 209912,
+      "word": "女子3年前嫁妆藏橙子发黑流汁",
+      "onboard_time": 1687789488,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237790,
       "num": 237790,
       "word": "蔡依林广州",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1687785584,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236874,
+      "num": 236874,
+      "word": "王者新赛季",
+      "onboard_time": 1687789372,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 234067,
@@ -1755,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206367,
-      "num": 206367,
-      "word": "李硕珉Betelgeuse翻唱",
-      "onboard_time": 1687787989,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204205,
       "num": 204205,
       "word": "顾九思的衣柜",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1687782644,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194958,
+      "num": 209822,
+      "word": "当国风遇上流行元素",
+      "onboard_time": 1687789488,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 194574,
@@ -1963,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172643,
+      "num": 172643,
+      "word": "杭州人种花迎亚运",
+      "onboard_time": 1687789188,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 172411,
       "num": 172411,
       "word": "赵露思影视原声率",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1687744351,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165484,
+      "num": 165484,
+      "word": "秦岚女团舞Flower",
+      "onboard_time": 1687790148,
+      "rank": 49,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 165463,
@@ -2011,14 +2067,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 163117,
-      "num": 163117,
-      "word": "朱一龙消失的她杀青后只想跑",
-      "onboard_time": 1687789007,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162734,
       "num": 455998,
       "word": "赫莲娜特斯拉官宣",
@@ -2040,6 +2088,14 @@
       "word": "女孩淡定查分坚定报考国科大",
       "onboard_time": 1687762847,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159106,
+      "num": 185974,
+      "word": "山洪突发女子大喊救下多人",
+      "onboard_time": 1687789609,
+      "rank": 44,
       "category": "社会新闻"
     },
     {

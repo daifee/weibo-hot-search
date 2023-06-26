@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687789115653,
+  "endTime": 1687790206751,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -755,6 +755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3089255,
+      "num": 3089255,
+      "word": "段嘉许 男狐狸精",
+      "onboard_time": 1687785405,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3044586,
       "num": 3044586,
       "word": "丫丫",
@@ -961,14 +969,6 @@
       "onboard_time": 1685768309,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2791947,
-      "num": 2791947,
-      "word": "段嘉许 男狐狸精",
-      "onboard_time": 1687785405,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 2789248,
@@ -1507,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2427374,
+      "num": 2365778,
+      "word": "健身教练吸毒一个多月暴瘦70斤",
+      "onboard_time": 1687785884,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2426572,
       "num": 2426572,
       "word": "梁文博终身禁赛",
@@ -1592,14 +1600,6 @@
       "word": "出生率",
       "onboard_time": 1686722849,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2365778,
-      "num": 2365778,
-      "word": "健身教练吸毒一个多月暴瘦70斤",
-      "onboard_time": 1687785884,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2875,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1892206,
+      "num": 1892206,
+      "word": "妹妹考了702分却哭了一下午",
+      "onboard_time": 1687785643,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1891190,
       "num": 1891190,
       "word": "女生查分666全家齐喊666",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1686500126,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1788566,
-      "num": 1788566,
-      "word": "妹妹考了702分却哭了一下午",
-      "onboard_time": 1687785643,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1786737,
@@ -11275,6 +11275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773325,
+      "num": 310266,
+      "word": "何穗发了60多张自拍",
+      "onboard_time": 1687786370,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773182,
       "num": 773182,
       "word": "迪丽热巴 剪睫毛",
@@ -11505,14 +11513,6 @@
       "onboard_time": 1686443368,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 759375,
-      "num": 286358,
-      "word": "何穗发了60多张自拍",
-      "onboard_time": 1687786370,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 759138,
@@ -16555,6 +16555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497819,
+      "num": 309009,
+      "word": "新学的一招恶心别人的方法",
+      "onboard_time": 1687785102,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 497580,
       "num": 497580,
       "word": "斗罗大陆",
@@ -18419,14 +18427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439155,
-      "num": 283731,
-      "word": "新学的一招恶心别人的方法",
-      "onboard_time": 1687785102,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 439090,
       "num": 356135,
       "word": "虞书欣立体花朵黑裙造型",
@@ -19025,6 +19025,14 @@
       "onboard_time": 1687099590,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425494,
+      "num": 425494,
+      "word": "兴化地震",
+      "onboard_time": 1687787566,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425198,
@@ -22057,6 +22065,14 @@
       "onboard_time": 1687338459,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 361640,
+      "num": 361640,
+      "word": "朱一龙消失的她杀青后只想跑",
+      "onboard_time": 1687789007,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 361530,
@@ -26291,14 +26307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302072,
-      "num": 302072,
-      "word": "兴化地震",
-      "onboard_time": 1687787566,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301987,
       "num": 301987,
       "word": "练车两分钟就疲劳驾驶了",
@@ -27451,6 +27459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290019,
+      "num": 290019,
+      "word": "段嘉许连叫桑延三声哥哥",
+      "onboard_time": 1687786244,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289939,
       "num": 266795,
       "word": "鞠婧祎韩式半永久",
@@ -27640,14 +27656,6 @@
       "word": "幸好肖春生留了底",
       "onboard_time": 1686792806,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 289103,
-      "num": 274483,
-      "word": "段嘉许连叫桑延三声哥哥",
-      "onboard_time": 1687786244,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -29377,6 +29385,14 @@
       "onboard_time": 1686624087,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273032,
+      "num": 273032,
+      "word": "浙江海宁2名消防员因公牺牲",
+      "onboard_time": 1687789909,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273024,
@@ -31176,6 +31192,14 @@
       "word": "TFBOYS十年前出道形象片",
       "onboard_time": 1686886592,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 258705,
+      "num": 258705,
+      "word": "李硕珉Betelgeuse翻唱",
+      "onboard_time": 1687787989,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -34315,6 +34339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237965,
+      "num": 209912,
+      "word": "女子3年前嫁妆藏橙子发黑流汁",
+      "onboard_time": 1687789488,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237958,
       "num": 237958,
       "word": "海豹为了救人把整个家族都找过来",
@@ -34497,6 +34529,14 @@
       "onboard_time": 1686892591,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236874,
+      "num": 236874,
+      "word": "王者新赛季",
+      "onboard_time": 1687789372,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 236704,
@@ -39715,14 +39755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206367,
-      "num": 206367,
-      "word": "李硕珉Betelgeuse翻唱",
-      "onboard_time": 1687787989,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206278,
       "num": 188349,
       "word": "原来迪丽热巴陈紫函合作过古剑奇谭",
@@ -42193,6 +42225,14 @@
       "onboard_time": 1687171237,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 194958,
+      "num": 209822,
+      "word": "当国风遇上流行元素",
+      "onboard_time": 1687789488,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 194949,
@@ -46771,6 +46811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172643,
+      "num": 172643,
+      "word": "杭州人种花迎亚运",
+      "onboard_time": 1687789188,
+      "rank": 48,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 172630,
       "num": 172630,
       "word": "结婚后工资要各花各的吗",
@@ -48139,6 +48187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 165484,
+      "num": 165484,
+      "word": "秦岚女团舞Flower",
+      "onboard_time": 1687790148,
+      "rank": 49,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 165463,
       "num": 165463,
       "word": "虞书欣采访范丞丞",
@@ -48593,14 +48649,6 @@
       "onboard_time": 1686100775,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 163117,
-      "num": 163117,
-      "word": "朱一龙消失的她杀青后只想跑",
-      "onboard_time": 1687789007,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 163108,
@@ -49281,6 +49329,14 @@
       "onboard_time": 1685601087,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159106,
+      "num": 185974,
+      "word": "山洪突发女子大喊救下多人",
+      "onboard_time": 1687789609,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159097,
