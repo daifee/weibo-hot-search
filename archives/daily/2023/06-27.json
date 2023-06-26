@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687817928308,
+  "endTime": 1687818993275,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -219,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214769,
+      "num": 123875,
+      "word": "男孩被打躲窗外后坠楼知情人发声",
+      "onboard_time": 1687814833,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214436,
       "num": 214436,
       "word": "曝周杰伦女儿将入学澳洲贵族名校",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 193682,
-      "num": 115642,
+      "num": 120059,
       "word": "从5楼跳下男童双腿骨折无生命危险",
       "onboard_time": 1687800322,
       "rank": 47,
@@ -387,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133455,
-      "num": 99465,
-      "word": "男孩被打躲窗外后坠楼知情人发声",
-      "onboard_time": 1687814833,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132597,
       "num": 132597,
       "word": "蔡徐坤回应和歌迷互动",
@@ -443,7 +443,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 92669,
+      "raw_hot": 96094,
       "num": 115320,
       "word": "缉毒犬从面临淘汰一路逆袭夺冠",
       "onboard_time": 1687796850,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62127,
+      "num": 62127,
+      "word": "秦岚新剧喝荧光橙汁",
+      "onboard_time": 1687802898,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60995,
       "num": 1168279,
       "word": "我国拟立法保障粮食安全",
@@ -467,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57499,
-      "num": 57499,
-      "word": "秦岚新剧喝荧光橙汁",
-      "onboard_time": 1687802898,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 56397,
       "num": 70737,
       "word": "曾黎看赵露思陈哲远吻戏反应",
       "onboard_time": 1687799724,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55567,
+      "num": 55567,
+      "word": "高校回应领导被举报出轨他人妻子",
+      "onboard_time": 1687803317,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 54913,
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48666,
-      "num": 48666,
-      "word": "高校回应领导被举报出轨他人妻子",
-      "onboard_time": 1687803317,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 46566,
       "num": 62322,
       "word": "严浩翔北电汇演",
@@ -515,8 +515,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 44990,
-      "num": 35577,
+      "raw_hot": 45100,
+      "num": 45100,
       "word": "原来全世界骂公司都一样",
       "onboard_time": 1687813153,
       "rank": 27,
@@ -531,20 +531,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34380,
+      "num": 35544,
+      "word": "张雪峰建议报考有壁垒的专业",
+      "onboard_time": 1687818678,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28065,
+      "num": 35535,
+      "word": "iQOO11S",
+      "onboard_time": 1687811712,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 27472,
       "num": 27472,
       "word": "朱一龙演何非用笔练面部抽搐",
       "onboard_time": 1687806913,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25360,
-      "num": 33512,
-      "word": "iQOO11S",
-      "onboard_time": 1687811712,
-      "rank": 38,
-      "category": "科技"
     }
   ],
   "hotgov_list": [

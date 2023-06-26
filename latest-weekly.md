@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/26 00:24:04 ~ 2023/06/27 06:18:48
+本榜单时间：2023/06/26 00:24:04 ~ 2023/06/27 06:36:33
 </p>
 </blockquote>
 <p>
@@ -1431,6 +1431,12 @@ LPL（热度：218494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%93%E8%BA%B2%E7%AA%97%E5%A4%96%E5%90%8E%E5%9D%A0%E6%A5%BC%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+男孩被打躲窗外后坠楼知情人发声（热度：214769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%86%E7%86%8A%E7%8C%AB%E5%8E%9F%E6%9D%A5%E9%95%BF%E8%BF%99%E6%A0%B7%23" target="weibo">
 一盆熊猫原来长这样（热度：213505）
 </a>
@@ -1833,12 +1839,6 @@ LPL（热度：218494）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%93%E8%BA%B2%E7%AA%97%E5%A4%96%E5%90%8E%E5%9D%A0%E6%A5%BC%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
-男孩被打躲窗外后坠楼知情人发声（热度：133455）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%81%87%E5%8F%91%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E7%9C%9F%E4%BA%86%E5%90%97%23" target="weibo">
 现在的假发已经这么真了吗（热度：129970）
 </a>
@@ -1966,7 +1966,7 @@ U19（热度：126281）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E7%8A%AC%E4%BB%8E%E9%9D%A2%E4%B8%B4%E6%B7%98%E6%B1%B0%E4%B8%80%E8%B7%AF%E9%80%86%E8%A2%AD%E5%A4%BA%E5%86%A0%23" target="weibo">
-缉毒犬从面临淘汰一路逆袭夺冠（热度：92669）
+缉毒犬从面临淘汰一路逆袭夺冠（热度：96094）
 </a>
 </li>
 
@@ -2002,13 +2002,19 @@ U19（热度：126281）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%96%B0%E5%89%A7%E5%96%9D%E8%8D%A7%E5%85%89%E6%A9%99%E6%B1%81%23" target="weibo">
-秦岚新剧喝荧光橙汁（热度：57499）
+秦岚新剧喝荧光橙汁（热度：62127）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%9C%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E5%90%BB%E6%88%8F%E5%8F%8D%E5%BA%94%23" target="weibo">
 曾黎看赵露思陈哲远吻戏反应（热度：56397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E9%A2%86%E5%AF%BC%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%23" target="weibo">
+高校回应领导被举报出轨他人妻子（热度：55567）
 </a>
 </li>
 
@@ -2025,12 +2031,6 @@ U19（热度：126281）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E9%A2%86%E5%AF%BC%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%23" target="weibo">
-高校回应领导被举报出轨他人妻子（热度：48666）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CLNG%23" target="weibo">
 iG战胜LNG（热度：45760）
 </a>
@@ -2038,7 +2038,7 @@ iG战胜LNG（热度：45760）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%A8%E4%B8%96%E7%95%8C%E9%AA%82%E5%85%AC%E5%8F%B8%E9%83%BD%E4%B8%80%E6%A0%B7%23" target="weibo">
-原来全世界骂公司都一样（热度：44990）
+原来全世界骂公司都一样（热度：45100）
 </a>
 </li>
 
@@ -2079,8 +2079,20 @@ iG战胜LNG（热度：45760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E6%8A%A5%E8%80%83%E6%9C%89%E5%A3%81%E5%9E%92%E7%9A%84%E4%B8%93%E4%B8%9A%23" target="weibo">
+张雪峰建议报考有壁垒的专业（热度：34380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B0%8F%E5%9E%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 王鹤棣小型演唱会（热度：29788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iQOO11S%23" target="weibo">
+iQOO11S（热度：28065）
 </a>
 </li>
 
@@ -2093,12 +2105,6 @@ iG战胜LNG（热度：45760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%BC%94%E4%BD%95%E9%9D%9E%E7%94%A8%E7%AC%94%E7%BB%83%E9%9D%A2%E9%83%A8%E6%8A%BD%E6%90%90%23" target="weibo">
 朱一龙演何非用笔练面部抽搐（热度：27472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iQOO11S%23" target="weibo">
-iQOO11S（热度：25360）
 </a>
 </li>
 

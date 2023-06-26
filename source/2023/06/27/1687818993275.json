@@ -1,0 +1,410 @@
+{
+  "runTime": 1687818993275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096433,
+        "num": 1096433,
+        "word": "复旦大学回应毕业生简历衣着暴露",
+        "onboard_time": 1687794997,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 383742,
+        "num": 383742,
+        "word": "贬低你的亲戚都是父母惯的",
+        "onboard_time": 1687793200,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 299637,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577181,
+        "num": 279591,
+        "word": "贵州一6岁男童感染食脑虫",
+        "onboard_time": 1687794457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238599,
+        "num": 238599,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195544,
+        "num": 195544,
+        "word": "你见过高考数学满分的人吗",
+        "onboard_time": 1687796733,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174506,
+        "num": 174506,
+        "word": "妹妹考了702分却哭了一下午",
+        "onboard_time": 1687785643,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "王暖暖",
+        "onboard_time": 1687798405,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128837,
+        "num": 128837,
+        "word": "张艺兴新片官方账号被禁言",
+        "onboard_time": 1687792182,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127315,
+        "num": 127315,
+        "word": "原来外卖店铺照片可以造假",
+        "onboard_time": 1687792899,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214769,
+        "num": 123875,
+        "word": "男孩被打躲窗外后坠楼知情人发声",
+        "onboard_time": 1687814833,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156340,
+        "num": 120059,
+        "word": "从5楼跳下男童双腿骨折无生命危险",
+        "onboard_time": 1687800322,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109608,
+        "num": 109608,
+        "word": "朱一龙消失的她杀青后只想跑",
+        "onboard_time": 1687789007,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108032,
+        "num": 108032,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105171,
+        "num": 105171,
+        "word": "32岁硕士带8岁儿子参加毕业典礼",
+        "onboard_time": 1687790206,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 102327,
+        "num": 102327,
+        "word": "陈情令开播四周年",
+        "onboard_time": 1687796253,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97780,
+        "num": 97780,
+        "word": "澳洲爆发恐校症",
+        "onboard_time": 1687778678,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 96670,
+        "num": 96670,
+        "word": "工作人员说小S节目停播是巧合",
+        "onboard_time": 1687779820,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96094,
+        "num": 96094,
+        "word": "缉毒犬从面临淘汰一路逆袭夺冠",
+        "onboard_time": 1687796850,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92472,
+        "num": 92472,
+        "word": "新京报评偷偷藏不住",
+        "onboard_time": 1687781622,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98539,
+        "num": 88927,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85296,
+        "num": 85296,
+        "word": "新学的一招恶心别人的方法",
+        "onboard_time": 1687785102,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80192,
+        "num": 80192,
+        "word": "杨天真评大学生毕业做主播",
+        "onboard_time": 1687795655,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76534,
+        "num": 76534,
+        "word": "给你一个亿但永远不能吹空调",
+        "onboard_time": 1687782882,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66491,
+        "num": 66491,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66289,
+        "num": 66289,
+        "word": "桑延被段嘉许偷家倒计时",
+        "onboard_time": 1687798347,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62127,
+        "num": 62127,
+        "word": "秦岚新剧喝荧光橙汁",
+        "onboard_time": 1687802898,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55768,
+        "num": 55768,
+        "word": "何穗发了60多张自拍",
+        "onboard_time": 1687786370,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55567,
+        "num": 55567,
+        "word": "高校回应领导被举报出轨他人妻子",
+        "onboard_time": 1687803317,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 55159,
+        "num": 55159,
+        "word": "秦岚女团舞Flower",
+        "onboard_time": 1687790148,
+        "rank": 29,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 53031,
+        "num": 53031,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49084,
+        "num": 49084,
+        "word": "学信网显示结业女子错失月薪4万工作",
+        "onboard_time": 1687764950,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 47583,
+        "num": 47583,
+        "word": "猫咪闲了会找谁",
+        "onboard_time": 1687793379,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 46602,
+        "num": 46602,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46296,
+        "num": 46296,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45100,
+        "num": 45100,
+        "word": "原来全世界骂公司都一样",
+        "onboard_time": 1687813153,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40885,
+        "num": 40885,
+        "word": "古早淡妆",
+        "onboard_time": 1687791403,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 39472,
+        "num": 39472,
+        "word": "Jennie的演技",
+        "onboard_time": 1687769330,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38200,
+        "num": 38200,
+        "word": "当我被00后下属骂了",
+        "onboard_time": 1687783784,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36704,
+        "num": 36704,
+        "word": "懒羊羊为什么那么喜欢睡觉",
+        "onboard_time": 1687782882,
+        "rank": 39,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 35545,
+        "num": 35545,
+        "word": "消失的她",
+        "onboard_time": 1687786484,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34380,
+        "num": 35544,
+        "word": "张雪峰建议报考有壁垒的专业",
+        "onboard_time": 1687818678,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32632,
+        "num": 35543,
+        "word": "窦靖童王传君新剧开机",
+        "onboard_time": 1687797149,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30045,
+        "num": 35539,
+        "word": "宋轶和张睿是同学",
+        "onboard_time": 1687782595,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29591,
+        "num": 35539,
+        "word": "王者新赛季",
+        "onboard_time": 1687789372,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29043,
+        "num": 35536,
+        "word": "曾黎看赵露思陈哲远吻戏反应",
+        "onboard_time": 1687799724,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 35535,
+        "word": "iQOO11S",
+        "onboard_time": 1687811712,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 26085,
+        "num": 35532,
+        "word": "严浩翔北电汇演",
+        "onboard_time": 1687786244,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24465,
+        "num": 35531,
+        "word": "警方通报男童被打跳楼",
+        "onboard_time": 1687790446,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24440,
+        "num": 35527,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687778502,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会数字文明尼山对话#"
+    }
+  }
+}

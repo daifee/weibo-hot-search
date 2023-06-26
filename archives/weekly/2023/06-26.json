@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687817928308,
+  "endTime": 1687818993275,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -1891,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214769,
+      "num": 123875,
+      "word": "男孩被打躲窗外后坠楼知情人发声",
+      "onboard_time": 1687814833,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213505,
       "num": 213505,
       "word": "一盆熊猫原来长这样",
@@ -2060,7 +2068,7 @@
     },
     {
       "raw_hot": 193682,
-      "num": 115642,
+      "num": 120059,
       "word": "从5楼跳下男童双腿骨折无生命危险",
       "onboard_time": 1687800322,
       "rank": 47,
@@ -2427,14 +2435,6 @@
       "category": "时尚,美妆"
     },
     {
-      "raw_hot": 133455,
-      "num": 99465,
-      "word": "男孩被打躲窗外后坠楼知情人发声",
-      "onboard_time": 1687814833,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129970,
       "num": 129970,
       "word": "现在的假发已经这么真了吗",
@@ -2603,7 +2603,7 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 92669,
+      "raw_hot": 96094,
       "num": 115320,
       "word": "缉毒犬从面临淘汰一路逆袭夺冠",
       "onboard_time": 1687796850,
@@ -2651,8 +2651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57499,
-      "num": 57499,
+      "raw_hot": 62127,
+      "num": 62127,
       "word": "秦岚新剧喝荧光橙汁",
       "onboard_time": 1687802898,
       "rank": 38,
@@ -2665,6 +2665,14 @@
       "onboard_time": 1687799724,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55567,
+      "num": 55567,
+      "word": "高校回应领导被举报出轨他人妻子",
+      "onboard_time": 1687803317,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 54913,
@@ -2683,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48666,
-      "num": 48666,
-      "word": "高校回应领导被举报出轨他人妻子",
-      "onboard_time": 1687803317,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 45760,
       "num": 59767,
       "word": "iG战胜LNG",
@@ -2699,8 +2699,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44990,
-      "num": 35577,
+      "raw_hot": 45100,
+      "num": 45100,
       "word": "原来全世界骂公司都一样",
       "onboard_time": 1687813153,
       "rank": 27,
@@ -2755,12 +2755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34380,
+      "num": 35544,
+      "word": "张雪峰建议报考有壁垒的专业",
+      "onboard_time": 1687818678,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29788,
       "num": 29788,
       "word": "王鹤棣小型演唱会",
       "onboard_time": 1687719074,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28065,
+      "num": 35535,
+      "word": "iQOO11S",
+      "onboard_time": 1687811712,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 27890,
@@ -2777,14 +2793,6 @@
       "onboard_time": 1687806913,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25360,
-      "num": 33512,
-      "word": "iQOO11S",
-      "onboard_time": 1687811712,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 24418,
