@@ -1,0 +1,410 @@
+{
+  "runTime": 1687754369096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2108814,
+        "num": 2108814,
+        "word": "那就清华呗",
+        "onboard_time": 1687746329,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1938152,
+        "num": 1938152,
+        "word": "不要再对瘦子说你好瘦了",
+        "onboard_time": 1687750355,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143942,
+        "num": 1788291,
+        "word": "毕业典礼能多有仪式感",
+        "onboard_time": 1687751934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1779106,
+        "num": 1779106,
+        "word": "蔡徐坤甩外套",
+        "onboard_time": 1687749452,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1228123,
+        "num": 1228123,
+        "word": "消失的她 畸形秀",
+        "onboard_time": 1687740274,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1572056,
+        "num": 1205698,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1104295,
+        "num": 1104295,
+        "word": "网传8岁男童被武术教练打死",
+        "onboard_time": 1687750476,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032529,
+        "num": 1032529,
+        "word": "泰国孕妇坠崖案当事人谈电影消失的她",
+        "onboard_time": 1687749691,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1009469,
+        "num": 1009469,
+        "word": "灿烂灿烂改名定档",
+        "onboard_time": 1687751934,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 924923,
+        "num": 924923,
+        "word": "男子欠1.7亿仍住豪宅养女友",
+        "onboard_time": 1687752361,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2565424,
+        "num": 919046,
+        "word": "蔡徐坤演唱会互动女网红道歉",
+        "onboard_time": 1687743451,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 868721,
+        "num": 868721,
+        "word": "张萌问张铎十年了你行了吗",
+        "onboard_time": 1687743931,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726736,
+        "num": 726736,
+        "word": "如果高考大家都用统一的试卷会发生什么",
+        "onboard_time": 1687749812,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 640492,
+        "num": 640492,
+        "word": "从胃炎到胃癌",
+        "onboard_time": 1687739914,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614890,
+        "num": 614890,
+        "word": "青岛警方通报武术俱乐部致一人死亡案",
+        "onboard_time": 1687750778,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595020,
+        "num": 595020,
+        "word": "赵露思露腰了",
+        "onboard_time": 1687744529,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428252,
+        "num": 428252,
+        "word": "雷公寻子22年成功儿子拒绝联系",
+        "onboard_time": 1687745191,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365857,
+        "num": 365857,
+        "word": "长风渡剧本bug",
+        "onboard_time": 1687751025,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346062,
+        "num": 346062,
+        "word": "BKPP音乐节",
+        "onboard_time": 1687750171,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300396,
+        "num": 300396,
+        "word": "长风渡网播断更",
+        "onboard_time": 1687742909,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736947,
+        "num": 300162,
+        "word": "试用期因为能力不足被辞退了",
+        "onboard_time": 1687752599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 684417,
+        "num": 299956,
+        "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
+        "onboard_time": 1687749691,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520182,
+        "num": 299814,
+        "word": "王源的剧好多都改名了",
+        "onboard_time": 1687750964,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341302,
+        "num": 299562,
+        "word": "沈月担任团综导演",
+        "onboard_time": 1687751082,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299404,
+        "num": 299404,
+        "word": "这些都是野鸡大学",
+        "onboard_time": 1687704878,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 295563,
+        "num": 295563,
+        "word": "真的有人连一点社交都没有吗",
+        "onboard_time": 1687753026,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295052,
+        "num": 295052,
+        "word": "你的童年报复性补偿行为",
+        "onboard_time": 1687744950,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285459,
+        "num": 285459,
+        "word": "为什么医院不让家属陪护只能请护工",
+        "onboard_time": 1687734261,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284165,
+        "num": 284165,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1687753569,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271464,
+        "num": 271464,
+        "word": "张雨绮贵姐vs柜姐",
+        "onboard_time": 1687743931,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256177,
+        "num": 256177,
+        "word": "JackeyLove担任亚运会AD",
+        "onboard_time": 1687739856,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 248632,
+        "num": 248632,
+        "word": "朱一龙事业运",
+        "onboard_time": 1687749871,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247744,
+        "num": 247744,
+        "word": "你上班第一个月工资有多少",
+        "onboard_time": 1687740031,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241990,
+        "num": 241990,
+        "word": "真正的告别是什么样子的",
+        "onboard_time": 1687752538,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239472,
+        "num": 239472,
+        "word": "黄圣依疑怀3胎",
+        "onboard_time": 1687705357,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237186,
+        "num": 237186,
+        "word": "家人说我工作后变得很冷漠",
+        "onboard_time": 1687748431,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232625,
+        "num": 232625,
+        "word": "蔡徐坤听完金靖唱歌被吓跑",
+        "onboard_time": 1687744469,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229597,
+        "num": 229597,
+        "word": "肖战李沁曹斐然谈到导演付宁哭了",
+        "onboard_time": 1687740092,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229380,
+        "num": 229380,
+        "word": "南京200多斤野猪把玻璃门撞到粉碎",
+        "onboard_time": 1687752721,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225962,
+        "num": 225962,
+        "word": "陈萱萱靠生子挽回变心老公",
+        "onboard_time": 1687745428,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225368,
+        "num": 225368,
+        "word": "A股",
+        "onboard_time": 1687745130,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224533,
+        "num": 224533,
+        "word": "睡梦中躲虫子把自己弄骨折了",
+        "onboard_time": 1687747830,
+        "rank": 41,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 204205,
+        "num": 204205,
+        "word": "顾九思的衣柜",
+        "onboard_time": 1687753447,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202956,
+        "num": 202956,
+        "word": "景知秋一年无性生活婚姻亮红灯",
+        "onboard_time": 1687741172,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183711,
+        "num": 183711,
+        "word": "广州地铁到底经历过什么",
+        "onboard_time": 1687753753,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175943,
+        "num": 175943,
+        "word": "广东老鼠下雨天搓澡",
+        "onboard_time": 1687738291,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174722,
+        "num": 174722,
+        "word": "Fly未入选亚运会",
+        "onboard_time": 1687735404,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 161988,
+        "num": 164490,
+        "word": "你敢这样坚持一年吗",
+        "onboard_time": 1687740031,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149197,
+        "num": 163923,
+        "word": "摇号",
+        "onboard_time": 1687748009,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145019,
+        "num": 163538,
+        "word": "英语没考好在国外也没问题",
+        "onboard_time": 1687745911,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#空中视角看千万工程调研行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687753449685,
+  "endTime": 1687754369096,
   "band_list": [
     {
       "raw_hot": 2983302,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2360296,
-      "num": 770653,
+      "raw_hot": 2565424,
+      "num": 919046,
       "word": "蔡徐坤演唱会互动女网红道歉",
       "onboard_time": 1687743451,
       "rank": 10,
@@ -35,8 +35,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1938152,
+      "num": 1938152,
+      "word": "不要再对瘦子说你好瘦了",
+      "onboard_time": 1687750355,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1834297,
-      "num": 1462503,
+      "num": 1779106,
       "word": "蔡徐坤甩外套",
       "onboard_time": 1687749452,
       "rank": 8,
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1731098,
-      "num": 1731098,
-      "word": "不要再对瘦子说你好瘦了",
-      "onboard_time": 1687750355,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 1572056,
+      "num": 1205698,
+      "word": "蔡徐坤回应和歌迷互动",
+      "onboard_time": 1687751629,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1434156,
@@ -67,12 +75,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1399193,
-      "num": 1163948,
-      "word": "蔡徐坤回应和歌迷互动",
-      "onboard_time": 1687751629,
-      "rank": 5,
-      "category": "音乐"
+      "raw_hot": 1104295,
+      "num": 1104295,
+      "word": "网传8岁男童被武术教练打死",
+      "onboard_time": 1687750476,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085381,
@@ -91,20 +99,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1032529,
+      "num": 1032529,
+      "word": "泰国孕妇坠崖案当事人谈电影消失的她",
+      "onboard_time": 1687749691,
+      "rank": 11,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 1009469,
+      "num": 1009469,
+      "word": "灿烂灿烂改名定档",
+      "onboard_time": 1687751934,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 990373,
       "num": 990373,
       "word": "赵露思露腰了",
       "onboard_time": 1687744529,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 975668,
-      "num": 975668,
-      "word": "网传8岁男童被武术教练打死",
-      "onboard_time": 1687750476,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 971569,
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 939022,
-      "num": 939022,
-      "word": "泰国孕妇坠崖案当事人谈电影消失的她",
-      "onboard_time": 1687749691,
-      "rank": 11,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 936272,
       "num": 936272,
       "word": "张萌问张铎十年了你行了吗",
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 916622,
-      "num": 916622,
-      "word": "灿烂灿烂改名定档",
-      "onboard_time": 1687751934,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 924923,
+      "num": 924923,
+      "word": "男子欠1.7亿仍住豪宅养女友",
+      "onboard_time": 1687752361,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885088,
@@ -211,20 +219,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670084,
-      "num": 670084,
-      "word": "男子欠1.7亿仍住豪宅养女友",
-      "onboard_time": 1687752361,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 736947,
+      "num": 300162,
+      "word": "试用期因为能力不足被辞退了",
+      "onboard_time": 1687752599,
+      "rank": 23,
+      "category": "情感"
     },
     {
-      "raw_hot": 651216,
-      "num": 651216,
+      "raw_hot": 726736,
+      "num": 726736,
       "word": "如果高考大家都用统一的试卷会发生什么",
       "onboard_time": 1687749812,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 684417,
+      "num": 319489,
+      "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
+      "onboard_time": 1687749691,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647409,
@@ -233,14 +249,6 @@
       "onboard_time": 1687750964,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 645432,
-      "num": 319489,
-      "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
-      "onboard_time": 1687749691,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 626967,
@@ -313,14 +321,6 @@
       "onboard_time": 1687700500,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 476967,
-      "num": 296614,
-      "word": "试用期因为能力不足被辞退了",
-      "onboard_time": 1687752599,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 466901,
@@ -459,12 +459,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 365857,
+      "num": 365857,
+      "word": "长风渡剧本bug",
+      "onboard_time": 1687751025,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346708,
-      "num": 295420,
+      "num": 299562,
       "word": "沈月担任团综导演",
       "onboard_time": 1687751082,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346062,
+      "num": 346062,
+      "word": "BKPP音乐节",
+      "onboard_time": 1687750171,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 345577,
@@ -505,14 +521,6 @@
       "onboard_time": 1687707155,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 329357,
-      "num": 329357,
-      "word": "长风渡剧本bug",
-      "onboard_time": 1687751025,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 326056,
@@ -561,14 +569,6 @@
       "onboard_time": 1687738291,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311089,
-      "num": 311089,
-      "word": "BKPP音乐节",
-      "onboard_time": 1687750171,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 309139,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295563,
+      "num": 295563,
+      "word": "真的有人连一点社交都没有吗",
+      "onboard_time": 1687753026,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292426,
       "num": 292426,
       "word": "拜托她可是秦岚",
@@ -673,6 +681,14 @@
       "onboard_time": 1687748431,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284165,
+      "num": 284165,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1687753569,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 283646,
@@ -707,20 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271464,
+      "num": 271464,
+      "word": "张雨绮贵姐vs柜姐",
+      "onboard_time": 1687743931,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271312,
       "num": 271312,
       "word": "男生怕考砸被骂查分前挨个打扫房间",
       "onboard_time": 1687705056,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 270445,
-      "num": 270445,
-      "word": "张雨绮贵姐vs柜姐",
-      "onboard_time": 1687743931,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 268576,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229380,
+      "num": 229380,
+      "word": "南京200多斤野猪把玻璃门撞到粉碎",
+      "onboard_time": 1687752721,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227789,
       "num": 227789,
       "word": "芭拉芭拉",
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204205,
+      "num": 204205,
+      "word": "顾九思的衣柜",
+      "onboard_time": 1687753447,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203139,
       "num": 203139,
       "word": "何非和陈麦在灯塔时是三个人在对峙",
@@ -881,14 +913,6 @@
       "onboard_time": 1687741471,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200632,
-      "num": 200632,
-      "word": "南京200多斤野猪把玻璃门撞到粉碎",
-      "onboard_time": 1687752721,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196854,
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183711,
+      "num": 183711,
+      "word": "广州地铁到底经历过什么",
+      "onboard_time": 1687753753,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181161,
       "num": 181161,
       "word": "非洲男友不让我看他身份证",
@@ -969,14 +1001,6 @@
       "onboard_time": 1687752298,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175258,
-      "num": 175258,
-      "word": "真的有人连一点社交都没有吗",
-      "onboard_time": 1687753026,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 169525,
@@ -1035,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143942,
+      "num": 1788291,
+      "word": "毕业典礼能多有仪式感",
+      "onboard_time": 1687751934,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "穆祉丞中考627分",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1687714399,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124959,
-      "num": 1471290,
-      "word": "毕业典礼能多有仪式感",
-      "onboard_time": 1687751934,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119657,
