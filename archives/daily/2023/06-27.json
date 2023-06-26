@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687821554431,
+  "endTime": 1687822444212,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1087815,
-      "num": 1087815,
+      "raw_hot": 1104145,
+      "num": 1104145,
       "word": "张雪峰建议报考有壁垒的专业",
       "onboard_time": 1687818678,
       "rank": 41,
@@ -51,12 +51,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916909,
+      "num": 417509,
+      "word": "青岛旅游失联25岁女孩已身亡",
+      "onboard_time": 1687820422,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871260,
       "num": 871260,
       "word": "贬低你的亲戚都是父母惯的",
       "onboard_time": 1687793200,
       "rank": 5,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 776568,
+      "num": 776568,
+      "word": "景甜内娱女菩萨",
+      "onboard_time": 1687821445,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 667995,
+      "num": 667995,
+      "word": "普里戈任称瓦格纳7月1日不复存在",
+      "onboard_time": 1687821025,
+      "rank": 8,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 544891,
@@ -99,12 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414429,
-      "num": 414429,
+      "raw_hot": 424061,
+      "num": 424061,
       "word": "李雪琴真的非常坦白",
       "onboard_time": 1687820422,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401437,
+      "num": 401437,
+      "word": "张子枫叫王宝强老爸",
+      "onboard_time": 1687821205,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 377819,
@@ -115,12 +147,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351852,
+      "num": 351852,
+      "word": "孙子高考561分乡下爷爷送来5000元奖励",
+      "onboard_time": 1687820361,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 350939,
       "num": 350939,
       "word": "段嘉许表白",
       "onboard_time": 1687792239,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348281,
+      "num": 348281,
+      "word": "一定要学会主动汇报工作",
+      "onboard_time": 1687820361,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 344064,
@@ -131,14 +179,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 331134,
-      "num": 125280,
-      "word": "青岛旅游失联25岁女孩已身亡",
-      "onboard_time": 1687820422,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327487,
       "num": 327487,
       "word": "陈情令开播四周年",
@@ -147,8 +187,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324805,
+      "num": 216687,
+      "word": "在奢侈品店把自己脸丢光了",
+      "onboard_time": 1687820361,
+      "rank": 20,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 313781,
-      "num": 253659,
+      "num": 262077,
       "word": "男孩被打躲窗外后坠楼知情人发声",
       "onboard_time": 1687814833,
       "rank": 43,
@@ -195,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282314,
-      "num": 282314,
-      "word": "普里戈任称瓦格纳7月1日不复存在",
-      "onboard_time": 1687821025,
-      "rank": 8,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 274535,
       "num": 274535,
       "word": "王者新赛季",
@@ -227,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252151,
-      "num": 156921,
-      "word": "在奢侈品店把自己脸丢光了",
-      "onboard_time": 1687820361,
-      "rank": 20,
-      "category": "幽默,社会新闻"
+      "raw_hot": 251226,
+      "num": 251226,
+      "word": "从5楼跳下男童双腿骨折无生命危险",
+      "onboard_time": 1687800322,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249814,
@@ -251,12 +291,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233294,
-      "num": 233294,
-      "word": "从5楼跳下男童双腿骨折无生命危险",
-      "onboard_time": 1687800322,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 232237,
+      "num": 152633,
+      "word": "妈妈 我没有录取上棉花绒枕的工作",
+      "onboard_time": 1687820361,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 223552,
@@ -275,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220539,
+      "num": 220539,
+      "word": "周深未闻花名纯日文提词器",
+      "onboard_time": 1687821990,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214436,
       "num": 214436,
       "word": "曝周杰伦女儿将入学澳洲贵族名校",
@@ -283,20 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205288,
-      "num": 205288,
-      "word": "孙子高考561分乡下爷爷送来5000元奖励",
-      "onboard_time": 1687820361,
-      "rank": 13,
-      "category": "社会新闻,教育"
+      "raw_hot": 212834,
+      "num": 212834,
+      "word": "女生毕业典礼被分到李兰娟院士拨穗",
+      "onboard_time": 1687821445,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 202972,
-      "num": 125245,
-      "word": "一定要学会主动汇报工作",
-      "onboard_time": 1687820361,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 212823,
+      "num": 212823,
+      "word": "浙江是中国农民房的顶流吧",
+      "onboard_time": 1687821507,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201361,
@@ -305,6 +353,14 @@
       "onboard_time": 1687793619,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196382,
+      "num": 196382,
+      "word": "年轻人就不适合去菜市场",
+      "onboard_time": 1687821147,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 195323,
@@ -337,14 +393,6 @@
       "onboard_time": 1687794219,
       "rank": 42,
       "category": "自然"
-    },
-    {
-      "raw_hot": 182137,
-      "num": 125233,
-      "word": "妈妈 我没有录取上棉花绒枕的工作",
-      "onboard_time": 1687820361,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 177146,
@@ -411,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155602,
+      "num": 155602,
+      "word": "桑延被段嘉许偷家倒计时",
+      "onboard_time": 1687798347,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154833,
       "num": 154833,
       "word": "学信网显示结业女子错失月薪4万工作",
@@ -427,11 +483,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151415,
-      "num": 151415,
-      "word": "桑延被段嘉许偷家倒计时",
-      "onboard_time": 1687798347,
-      "rank": 26,
+      "raw_hot": 152163,
+      "num": 152163,
+      "word": "丈夫在产房外哭着询问妻子的情况",
+      "onboard_time": 1687820422,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151214,
+      "num": 152861,
+      "word": "消失的她杜江的笑",
+      "onboard_time": 1687821624,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -459,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143767,
-      "num": 143767,
-      "word": "景甜内娱女菩萨",
-      "onboard_time": 1687821445,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139761,
       "num": 139761,
       "word": "老年女律师如何彰显价值",
@@ -489,14 +545,6 @@
       "onboard_time": 1687751629,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129471,
-      "num": 129471,
-      "word": "年轻人就不适合去菜市场",
-      "onboard_time": 1687821147,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 128458,
@@ -523,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125365,
-      "num": 125365,
-      "word": "张子枫叫王宝强老爸",
-      "onboard_time": 1687821205,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124390,
       "num": 124390,
       "word": "新手腹肌养成记",
@@ -539,20 +579,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114545,
-      "num": 114545,
+      "raw_hot": 120932,
+      "num": 120932,
       "word": "全网寻找鲁HES73挂大货车司机",
       "onboard_time": 1687820361,
       "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113549,
-      "num": 113549,
-      "word": "浙江是中国农民房的顶流吧",
-      "onboard_time": 1687821507,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 115180,
+      "num": 115180,
+      "word": "儿子说长大后要找手小的女朋友",
+      "onboard_time": 1687821866,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 113569,
+      "num": 113569,
+      "word": "吴越 真的不是我",
+      "onboard_time": 1687822410,
+      "rank": 39,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 108375,
@@ -563,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104102,
-      "num": 104102,
-      "word": "女生毕业典礼被分到李兰娟院士拨穗",
-      "onboard_time": 1687821445,
-      "rank": 40,
-      "category": "教育,社会新闻"
+      "raw_hot": 100129,
+      "num": 103646,
+      "word": "兰大录取通知书还送碗牛肉面",
+      "onboard_time": 1687822048,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 89883,
@@ -579,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89295,
-      "num": 89295,
-      "word": "丈夫在产房外哭着询问妻子的情况",
-      "onboard_time": 1687820422,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 74572,
+      "num": 99025,
+      "word": "胡锡进在多家公司任职高管",
+      "onboard_time": 1687822168,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 60995,
