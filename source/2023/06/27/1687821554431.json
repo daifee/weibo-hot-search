@@ -1,0 +1,410 @@
+{
+  "runTime": 1687821554431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680049,
+        "num": 1680049,
+        "word": "复旦大学回应毕业生简历衣着暴露",
+        "onboard_time": 1687794997,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1087815,
+        "num": 1087815,
+        "word": "张雪峰建议报考有壁垒的专业",
+        "onboard_time": 1687818678,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44332,
+        "num": 834525,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628274,
+        "num": 628274,
+        "word": "贵州一6岁男童感染食脑虫",
+        "onboard_time": 1687794457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601952,
+        "num": 601952,
+        "word": "贬低你的亲戚都是父母惯的",
+        "onboard_time": 1687793200,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 439326,
+        "num": 439326,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414429,
+        "num": 414429,
+        "word": "李雪琴真的非常坦白",
+        "onboard_time": 1687820422,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400383,
+        "num": 400383,
+        "word": "32岁硕士带8岁儿子参加毕业典礼",
+        "onboard_time": 1687790206,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 282314,
+        "num": 282314,
+        "word": "普里戈任称瓦格纳7月1日不复存在",
+        "onboard_time": 1687821025,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 256272,
+        "num": 256272,
+        "word": "张艺兴新片官方账号被禁言",
+        "onboard_time": 1687792182,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313781,
+        "num": 253659,
+        "word": "男孩被打躲窗外后坠楼知情人发声",
+        "onboard_time": 1687814833,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233294,
+        "num": 233294,
+        "word": "从5楼跳下男童双腿骨折无生命危险",
+        "onboard_time": 1687800322,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212890,
+        "num": 212890,
+        "word": "你见过高考数学满分的人吗",
+        "onboard_time": 1687796733,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205288,
+        "num": 205288,
+        "word": "孙子高考561分乡下爷爷送来5000元奖励",
+        "onboard_time": 1687820361,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191981,
+        "num": 191981,
+        "word": "朱一龙消失的她杀青后只想跑",
+        "onboard_time": 1687789007,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182691,
+        "num": 182691,
+        "word": "原来外卖店铺照片可以造假",
+        "onboard_time": 1687792899,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174859,
+        "num": 174859,
+        "word": "妹妹考了702分却哭了一下午",
+        "onboard_time": 1687785643,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174074,
+        "num": 174074,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159107,
+        "num": 159107,
+        "word": "澳洲爆发恐校症",
+        "onboard_time": 1687778678,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158536,
+        "num": 158536,
+        "word": "缉毒犬从面临淘汰一路逆袭夺冠",
+        "onboard_time": 1687796850,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252151,
+        "num": 156921,
+        "word": "在奢侈品店把自己脸丢光了",
+        "onboard_time": 1687820361,
+        "rank": 20,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 165536,
+        "num": 156011,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "桑延被段嘉许偷家倒计时",
+        "onboard_time": 1687798347,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147442,
+        "num": 147442,
+        "word": "王暖暖",
+        "onboard_time": 1687798405,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143767,
+        "num": 143767,
+        "word": "景甜内娱女菩萨",
+        "onboard_time": 1687821445,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137832,
+        "num": 137832,
+        "word": "新学的一招恶心别人的方法",
+        "onboard_time": 1687785102,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135246,
+        "num": 135246,
+        "word": "给你一个亿但永远不能吹空调",
+        "onboard_time": 1687782882,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129471,
+        "num": 129471,
+        "word": "年轻人就不适合去菜市场",
+        "onboard_time": 1687821147,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128458,
+        "num": 128458,
+        "word": "秦岚新剧喝荧光橙汁",
+        "onboard_time": 1687802898,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "张子枫叫王宝强老爸",
+        "onboard_time": 1687821205,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331134,
+        "num": 125280,
+        "word": "青岛旅游失联25岁女孩已身亡",
+        "onboard_time": 1687820422,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202972,
+        "num": 125245,
+        "word": "一定要学会主动汇报工作",
+        "onboard_time": 1687820361,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182137,
+        "num": 125233,
+        "word": "妈妈 我没有录取上棉花绒枕的工作",
+        "onboard_time": 1687820361,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125173,
+        "num": 125173,
+        "word": "陈情令开播四周年",
+        "onboard_time": 1687796253,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123046,
+        "num": 123046,
+        "word": "新京报评偷偷藏不住",
+        "onboard_time": 1687781622,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118582,
+        "num": 118582,
+        "word": "工作人员说小S节目停播是巧合",
+        "onboard_time": 1687779820,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114545,
+        "num": 114545,
+        "word": "全网寻找鲁HES73挂大货车司机",
+        "onboard_time": 1687820361,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113549,
+        "num": 113549,
+        "word": "浙江是中国农民房的顶流吧",
+        "onboard_time": 1687821507,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105733,
+        "num": 105733,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104588,
+        "num": 104588,
+        "word": "何穗发了60多张自拍",
+        "onboard_time": 1687786370,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104102,
+        "num": 104102,
+        "word": "女生毕业典礼被分到李兰娟院士拨穗",
+        "onboard_time": 1687821445,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 103534,
+        "num": 103534,
+        "word": "杨天真评大学生毕业做主播",
+        "onboard_time": 1687795655,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98108,
+        "num": 98108,
+        "word": "秦岚女团舞Flower",
+        "onboard_time": 1687790148,
+        "rank": 42,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 89295,
+        "num": 89295,
+        "word": "丈夫在产房外哭着询问妻子的情况",
+        "onboard_time": 1687820422,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85699,
+        "num": 85699,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84194,
+        "num": 84194,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82158,
+        "num": 82158,
+        "word": "猫咪闲了会找谁",
+        "onboard_time": 1687793379,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 71097,
+        "num": 81586,
+        "word": "古早淡妆",
+        "onboard_time": 1687791403,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 50227,
+        "num": 81427,
+        "word": "王者新赛季",
+        "onboard_time": 1687789372,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23535,
+        "num": 80846,
+        "word": "iQOO11S",
+        "onboard_time": 1687811712,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会数字文明尼山对话#"
+    }
+  }
+}
