@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/26 00:24:04 ~ 2023/06/27 05:34:11
+本榜单时间：2023/06/26 00:24:04 ~ 2023/06/27 06:18:48
 </p>
 </blockquote>
 <p>
@@ -1833,6 +1833,12 @@ LPL（热度：218494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%93%E8%BA%B2%E7%AA%97%E5%A4%96%E5%90%8E%E5%9D%A0%E6%A5%BC%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+男孩被打躲窗外后坠楼知情人发声（热度：133455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%81%87%E5%8F%91%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E7%9C%9F%E4%BA%86%E5%90%97%23" target="weibo">
 现在的假发已经这么真了吗（热度：129970）
 </a>
@@ -2019,6 +2025,12 @@ U19（热度：126281）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E9%A2%86%E5%AF%BC%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%23" target="weibo">
+高校回应领导被举报出轨他人妻子（热度：48666）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CLNG%23" target="weibo">
 iG战胜LNG（热度：45760）
 </a>
@@ -2067,12 +2079,6 @@ iG战胜LNG（热度：45760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E9%A2%86%E5%AF%BC%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%23" target="weibo">
-高校回应领导被举报出轨他人妻子（热度：31364）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B0%8F%E5%9E%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 王鹤棣小型演唱会（热度：29788）
 </a>
@@ -2091,20 +2097,14 @@ iG战胜LNG（热度：45760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iQOO11S%23" target="weibo">
+iQOO11S（热度：25360）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%94%B7%E8%A3%85%E5%91%A8%E8%A3%99%E8%A3%85%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23" target="weibo">
 如何看待男装周裙装越来越多（热度：24418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iQOO11S%23" target="weibo">
-iQOO11S（热度：21840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%93%E8%BA%B2%E7%AA%97%E5%A4%96%E5%90%8E%E5%9D%A0%E6%A5%BC%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
-男孩被打躲窗外后坠楼知情人发声（热度：20588）
 </a>
 </li>
 

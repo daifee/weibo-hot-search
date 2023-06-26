@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687815251592,
+  "endTime": 1687817928308,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -2427,6 +2427,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 133455,
+      "num": 99465,
+      "word": "男孩被打躲窗外后坠楼知情人发声",
+      "onboard_time": 1687814833,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129970,
       "num": 129970,
       "word": "现在的假发已经这么真了吗",
@@ -2675,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48666,
+      "num": 48666,
+      "word": "高校回应领导被举报出轨他人妻子",
+      "onboard_time": 1687803317,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 45760,
       "num": 59767,
       "word": "iG战胜LNG",
@@ -2739,14 +2755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31364,
-      "num": 39229,
-      "word": "高校回应领导被举报出轨他人妻子",
-      "onboard_time": 1687803317,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 29788,
       "num": 29788,
       "word": "王鹤棣小型演唱会",
@@ -2771,28 +2779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24418,
-      "num": 431686,
-      "word": "如何看待男装周裙装越来越多",
-      "onboard_time": 1687771670,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 21840,
-      "num": 21840,
+      "raw_hot": 25360,
+      "num": 33512,
       "word": "iQOO11S",
       "onboard_time": 1687811712,
       "rank": 38,
       "category": "科技"
     },
     {
-      "raw_hot": 20588,
-      "num": 20588,
-      "word": "男孩被打躲窗外后坠楼知情人发声",
-      "onboard_time": 1687814833,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 24418,
+      "num": 431686,
+      "word": "如何看待男装周裙装越来越多",
+      "onboard_time": 1687771670,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 20294,

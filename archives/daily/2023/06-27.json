@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687815251592,
+  "endTime": 1687817928308,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133455,
+      "num": 99465,
+      "word": "男孩被打躲窗外后坠楼知情人发声",
+      "onboard_time": 1687814833,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132597,
       "num": 132597,
       "word": "蔡徐坤回应和歌迷互动",
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48666,
+      "num": 48666,
+      "word": "高校回应领导被举报出轨他人妻子",
+      "onboard_time": 1687803317,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 46566,
       "num": 62322,
       "word": "严浩翔北电汇演",
@@ -515,14 +531,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 31364,
-      "num": 39229,
-      "word": "高校回应领导被举报出轨他人妻子",
-      "onboard_time": 1687803317,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 27472,
       "num": 27472,
       "word": "朱一龙演何非用笔练面部抽搐",
@@ -531,20 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21840,
-      "num": 21840,
+      "raw_hot": 25360,
+      "num": 33512,
       "word": "iQOO11S",
       "onboard_time": 1687811712,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 20588,
-      "num": 20588,
-      "word": "男孩被打躲窗外后坠楼知情人发声",
-      "onboard_time": 1687814833,
-      "rank": 43,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
