@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687811645366,
+  "endTime": 1687814213491,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -2683,6 +2683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41920,
+      "num": 38030,
+      "word": "伊斯坦布尔 爱猫之城",
+      "onboard_time": 1687808715,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 40888,
       "num": 1438556,
       "word": "高质量发展调研行",
@@ -2723,14 +2731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32753,
-      "num": 32753,
-      "word": "伊斯坦布尔 爱猫之城",
-      "onboard_time": 1687808715,
-      "rank": 19,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 31364,
       "num": 39229,
       "word": "高校回应领导被举报出轨他人妻子",
@@ -2763,6 +2763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25534,
+      "num": 25534,
+      "word": "原来全世界骂公司都一样",
+      "onboard_time": 1687813153,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24418,
       "num": 431686,
       "word": "如何看待男装周裙装越来越多",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1687717994,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 20222,
+      "num": 20222,
+      "word": "iQOO11S",
+      "onboard_time": 1687811712,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 8974,
