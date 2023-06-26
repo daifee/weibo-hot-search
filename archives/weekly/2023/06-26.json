@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687800913055,
+  "endTime": 1687803866639,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -835,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434869,
+      "num": 434869,
+      "word": "王暖暖",
+      "onboard_time": 1687798405,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432143,
       "num": 432143,
       "word": "原来是何非拔掉的氧气罐",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1687760936,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 338553,
-      "num": 338553,
-      "word": "王暖暖",
-      "onboard_time": 1687798405,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335726,
@@ -2059,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193682,
+      "num": 115642,
+      "word": "从5楼跳下男童双腿骨折无生命危险",
+      "onboard_time": 1687800322,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
@@ -2659,20 +2667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53599,
-      "num": 62340,
-      "word": "从5楼跳下男童双腿骨折无生命危险",
-      "onboard_time": 1687800322,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45760,
       "num": 59767,
       "word": "iG战胜LNG",
       "onboard_time": 1687697495,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45209,
+      "num": 45209,
+      "word": "秦岚新剧喝荧光橙汁",
+      "onboard_time": 1687802898,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 40888,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1687719074,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28071,
+      "num": 37313,
+      "word": "高校回应领导被举报出轨他人妻子",
+      "onboard_time": 1687803317,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 27890,
