@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687806946674,
+  "endTime": 1687808017388,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -2747,20 +2747,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 27472,
+      "num": 27472,
+      "word": "朱一龙演何非用笔练面部抽搐",
+      "onboard_time": 1687806913,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24418,
       "num": 431686,
       "word": "如何看待男装周裙装越来越多",
       "onboard_time": 1687771670,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 22450,
-      "num": 24754,
-      "word": "朱一龙演何非用笔练面部抽搐",
-      "onboard_time": 1687806913,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 20294,
