@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687786071380,
+  "endTime": 1687786714885,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1795382,
+      "num": 1795382,
+      "word": "新京报评偷偷藏不住",
+      "onboard_time": 1687781622,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1786737,
       "num": 1391489,
       "word": "周深美依礼芽合作上了",
@@ -113,14 +121,6 @@
       "onboard_time": 1687758963,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1524053,
-      "num": 1524053,
-      "word": "新京报评偷偷藏不住",
-      "onboard_time": 1687781622,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 1478331,
@@ -171,12 +171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1081077,
+      "num": 1033320,
+      "word": "段嘉许 男狐狸精",
+      "onboard_time": 1687785405,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1076239,
       "num": 1076239,
       "word": "律师称拒聘川大毕业生是明显的就业歧视",
       "onboard_time": 1687742671,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1069373,
+      "num": 1069373,
+      "word": "妹妹考了702分却哭了一下午",
+      "onboard_time": 1687785643,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1057519,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852974,
+      "num": 852974,
+      "word": "朱一龙心里万了一骂句",
+      "onboard_time": 1687781622,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 826373,
       "num": 826373,
       "word": "JackeyLove担任亚运会AD",
@@ -336,6 +360,14 @@
       "word": "俄官方首次发布普京在克宫处置危机画面",
       "onboard_time": 1687739010,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748221,
+      "num": 531626,
+      "word": "健身教练吸毒一个多月暴瘦70斤",
+      "onboard_time": 1687785884,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -395,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653446,
-      "num": 653446,
-      "word": "朱一龙心里万了一骂句",
-      "onboard_time": 1687781622,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 648433,
       "num": 648433,
       "word": "Jennie的演技",
@@ -457,14 +481,6 @@
       "onboard_time": 1687763208,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594709,
-      "num": 594709,
-      "word": "段嘉许 男狐狸精",
-      "onboard_time": 1687785405,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 586004,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 547821,
-      "num": 336107,
+      "num": 379192,
       "word": "给你一个亿但永远不能吹空调",
       "onboard_time": 1687782882,
       "rank": 23,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 517837,
-      "num": 339935,
+      "num": 490203,
       "word": "WE零封TES",
       "onboard_time": 1687784804,
       "rank": 20,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 480623,
-      "num": 256984,
+      "num": 420837,
       "word": "当我被00后下属骂了",
       "onboard_time": 1687783784,
       "rank": 30,
@@ -664,14 +680,6 @@
       "word": "这玩具千万别卖到我家这儿",
       "onboard_time": 1687781622,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 459272,
-      "num": 459272,
-      "word": "妹妹考了702分却哭了一下午",
-      "onboard_time": 1687785643,
-      "rank": 11,
       "category": "幽默"
     },
     {
@@ -833,6 +841,14 @@
       "onboard_time": 1687778502,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404633,
+      "num": 256401,
+      "word": "新学的一招恶心别人的方法",
+      "onboard_time": 1687785102,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 403917,
@@ -1003,12 +1019,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 340079,
-      "num": 250997,
-      "word": "新学的一招恶心别人的方法",
-      "onboard_time": 1687785102,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 335726,
+      "num": 335726,
+      "word": "宋轶和张睿是同学",
+      "onboard_time": 1687782595,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334884,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1687761290,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333477,
-      "num": 333477,
-      "word": "宋轶和张睿是同学",
-      "onboard_time": 1687782595,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332611,
@@ -1443,6 +1451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 254978,
+      "num": 254978,
+      "word": "严浩翔北电汇演",
+      "onboard_time": 1687786244,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253632,
       "num": 253632,
       "word": "桑稚穿搭",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1687765912,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 237167,
+      "num": 237167,
+      "word": "快乐的大人",
+      "onboard_time": 1687785584,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 234067,
@@ -1643,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213505,
+      "num": 213505,
+      "word": "一盆熊猫原来长这样",
+      "onboard_time": 1687786006,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212568,
       "num": 212568,
       "word": "警方回应男童遭家人棍打从五楼跳下",
@@ -1683,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203975,
+      "num": 203975,
+      "word": "段嘉许连叫桑延三声哥哥",
+      "onboard_time": 1687786244,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203139,
       "num": 203139,
       "word": "何非和陈麦在灯塔时是三个人在对峙",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1687741471,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200137,
-      "num": 200137,
-      "word": "健身教练吸毒一个多月暴瘦70斤",
-      "onboard_time": 1687785884,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199882,
@@ -1755,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194176,
-      "num": 194176,
-      "word": "快乐的大人",
-      "onboard_time": 1687785584,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1687715237,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187465,
+      "num": 187465,
+      "word": "何穗发了60多张自拍",
+      "onboard_time": 1687786370,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 186850,
@@ -2008,14 +2040,6 @@
       "word": "一张银片锤打50多万次后变身银壶",
       "onboard_time": 1687733841,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148955,
-      "num": 148955,
-      "word": "一盆熊猫原来长这样",
-      "onboard_time": 1687786006,
-      "rank": 47,
       "category": "社会新闻"
     },
     {

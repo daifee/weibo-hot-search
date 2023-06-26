@@ -1,0 +1,410 @@
+{
+  "runTime": 1687786714885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795382,
+        "num": 1795382,
+        "word": "新京报评偷偷藏不住",
+        "onboard_time": 1687781622,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1069373,
+        "num": 1069373,
+        "word": "妹妹考了702分却哭了一下午",
+        "onboard_time": 1687785643,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109699,
+        "num": 1033819,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081077,
+        "num": 1033320,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1021533,
+        "num": 1021533,
+        "word": "澳洲爆发恐校症",
+        "onboard_time": 1687778678,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 852974,
+        "num": 852974,
+        "word": "朱一龙心里万了一骂句",
+        "onboard_time": 1687781622,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 806285,
+        "num": 806285,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699103,
+        "num": 699103,
+        "word": "消失的她",
+        "onboard_time": 1687786484,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557039,
+        "num": 557039,
+        "word": "二十三岁的恋爱",
+        "onboard_time": 1687766270,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 788475,
+        "num": 541107,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748221,
+        "num": 531626,
+        "word": "健身教练吸毒一个多月暴瘦70斤",
+        "onboard_time": 1687785884,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318414,
+        "num": 519016,
+        "word": "周深美依礼芽合作上了",
+        "onboard_time": 1687783128,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 567009,
+        "num": 492169,
+        "word": "工作人员说小S节目停播是巧合",
+        "onboard_time": 1687779820,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490203,
+        "num": 490203,
+        "word": "WE零封TES",
+        "onboard_time": 1687784804,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 453709,
+        "num": 453709,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425172,
+        "num": 425172,
+        "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+        "onboard_time": 1687770348,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420837,
+        "num": 420837,
+        "word": "当我被00后下属骂了",
+        "onboard_time": 1687783784,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408111,
+        "num": 408111,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387148,
+        "num": 387148,
+        "word": "董事长回应祝贺高管女儿获高考状元",
+        "onboard_time": 1687763208,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379783,
+        "num": 379783,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454709,
+        "num": 379192,
+        "word": "给你一个亿但永远不能吹空调",
+        "onboard_time": 1687782882,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419779,
+        "num": 374946,
+        "word": "学信网显示结业女子错失月薪4万工作",
+        "onboard_time": 1687764950,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368365,
+        "num": 368365,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362870,
+        "num": 362870,
+        "word": "消失的她 海边牵手照",
+        "onboard_time": 1687782041,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349524,
+        "num": 349524,
+        "word": "Jennie的演技",
+        "onboard_time": 1687769330,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335726,
+        "num": 335726,
+        "word": "宋轶和张睿是同学",
+        "onboard_time": 1687782595,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318605,
+        "num": 318605,
+        "word": "TES阵容",
+        "onboard_time": 1687782468,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308017,
+        "num": 308017,
+        "word": "2022中央财政赤字26500亿元",
+        "onboard_time": 1687771848,
+        "rank": 27,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 274650,
+        "num": 274650,
+        "word": "这玩具千万别卖到我家这儿",
+        "onboard_time": 1687781622,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257490,
+        "num": 257490,
+        "word": "浙江9所野鸡大学",
+        "onboard_time": 1687784923,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 404633,
+        "num": 256401,
+        "word": "新学的一招恶心别人的方法",
+        "onboard_time": 1687785102,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254978,
+        "num": 254978,
+        "word": "严浩翔北电汇演",
+        "onboard_time": 1687786244,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250186,
+        "num": 250186,
+        "word": "妇联回应男孩躲窗外被打跳下5楼",
+        "onboard_time": 1687778864,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237167,
+        "num": 237167,
+        "word": "快乐的大人",
+        "onboard_time": 1687785584,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230270,
+        "num": 230270,
+        "word": "缉毒警说不想再因缉毒而立功",
+        "onboard_time": 1687773769,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226621,
+        "num": 226621,
+        "word": "当我飞奔向你",
+        "onboard_time": 1687777543,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225703,
+        "num": 225703,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687778502,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213505,
+        "num": 213505,
+        "word": "一盆熊猫原来长这样",
+        "onboard_time": 1687786006,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211346,
+        "num": 211346,
+        "word": "父亲抛弃患癌儿子治愈后又想要回",
+        "onboard_time": 1687777482,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211261,
+        "num": 211261,
+        "word": "你会为了7万提前结束产假吗",
+        "onboard_time": 1687775025,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210642,
+        "num": 210642,
+        "word": "最近广东人的大拇指都是黑的",
+        "onboard_time": 1687783302,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203975,
+        "num": 203975,
+        "word": "段嘉许连叫桑延三声哥哥",
+        "onboard_time": 1687786244,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193811,
+        "num": 193811,
+        "word": "TES对战WE",
+        "onboard_time": 1687781923,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187465,
+        "num": 187465,
+        "word": "何穗发了60多张自拍",
+        "onboard_time": 1687786370,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184380,
+        "num": 184380,
+        "word": "坐姿出卖了你的性格和爱情",
+        "onboard_time": 1687772207,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181245,
+        "num": 181245,
+        "word": "女生穿马面裙参加毕业典礼",
+        "onboard_time": 1687779999,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180364,
+        "num": 180364,
+        "word": "刘芸管控郑钧从头到脚",
+        "onboard_time": 1687757888,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173438,
+        "num": 173438,
+        "word": "懒羊羊为什么那么喜欢睡觉",
+        "onboard_time": 1687782882,
+        "rank": 47,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 164995,
+        "num": 164995,
+        "word": "长风渡化妆盒吴磊肯定喜欢",
+        "onboard_time": 1687783966,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152645,
+        "num": 164945,
+        "word": "腾讯视频Q3备播剧",
+        "onboard_time": 1687775806,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会数字文明尼山对话#"
+    }
+  }
+}
