@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687810879358,
+  "endTime": 1687811645366,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -2723,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32753,
+      "num": 32753,
+      "word": "伊斯坦布尔 爱猫之城",
+      "onboard_time": 1687808715,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 31364,
       "num": 39229,
       "word": "高校回应领导被举报出轨他人妻子",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1687719074,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29079,
-      "num": 29079,
-      "word": "伊斯坦布尔 爱猫之城",
-      "onboard_time": 1687808715,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 27890,

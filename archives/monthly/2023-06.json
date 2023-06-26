@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687810879358,
+  "endTime": 1687811645366,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -61891,6 +61891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32753,
+      "num": 32753,
+      "word": "伊斯坦布尔 爱猫之城",
+      "onboard_time": 1687808715,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 32695,
       "num": 535695,
       "word": "大学班主任哽咽送别毕业生",
@@ -62065,14 +62073,6 @@
       "onboard_time": 1687633754,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 29079,
-      "num": 29079,
-      "word": "伊斯坦布尔 爱猫之城",
-      "onboard_time": 1687808715,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 28906,
