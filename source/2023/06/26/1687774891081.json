@@ -1,0 +1,410 @@
+{
+  "runTime": 1687774891081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613173,
+        "num": 1613173,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539091,
+        "num": 1382527,
+        "word": "跳桥小哥被邀请落户杭州",
+        "onboard_time": 1687771189,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27643,
+        "num": 1355178,
+        "word": "高质量发展调研行",
+        "onboard_time": 1687768306,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355137,
+        "num": 1355137,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 902704,
+        "num": 902704,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800625,
+        "num": 800625,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595722,
+        "num": 595722,
+        "word": "Jennie的演技",
+        "onboard_time": 1687769330,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588369,
+        "num": 588369,
+        "word": "消失的她 畸形秀",
+        "onboard_time": 1687740274,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222543,
+        "num": 552678,
+        "word": "缉毒警说不想再因缉毒而立功",
+        "onboard_time": 1687773769,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546817,
+        "num": 546817,
+        "word": "胡锡进开通股票账户",
+        "onboard_time": 1687771250,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 821190,
+        "num": 543278,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551384,
+        "num": 542542,
+        "word": "戴建勇",
+        "onboard_time": 1687770405,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174003,
+        "num": 540181,
+        "word": "女儿博士毕业父亲拍着胸脯说骄傲",
+        "onboard_time": 1687764710,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 539574,
+        "num": 539574,
+        "word": "时尚芭莎婚庆公司又营业了",
+        "onboard_time": 1687772150,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 55784,
+        "num": 536731,
+        "word": "男子义务照顾重病邻居全家13年",
+        "onboard_time": 1687773645,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1478331,
+        "num": 536504,
+        "word": "张雪峰给普通女生的报考建议",
+        "onboard_time": 1687769807,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219415,
+        "num": 536222,
+        "word": "周鸿祎谈大学专业选择",
+        "onboard_time": 1687774245,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 536169,
+        "num": 536169,
+        "word": "董事长回应祝贺高管女儿获高考状元",
+        "onboard_time": 1687763208,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521495,
+        "num": 521495,
+        "word": "男童遭家人棍打后从五楼跳下",
+        "onboard_time": 1687772987,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507794,
+        "num": 507794,
+        "word": "二十三岁的恋爱",
+        "onboard_time": 1687766270,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 609161,
+        "num": 503343,
+        "word": "学信网显示结业女子错失月薪4万工作",
+        "onboard_time": 1687764950,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 546374,
+        "num": 503078,
+        "word": "坐姿出卖了你的性格和爱情",
+        "onboard_time": 1687772207,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 495970,
+        "num": 495970,
+        "word": "2022中央财政赤字26500亿元",
+        "onboard_time": 1687771848,
+        "rank": 22,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 408883,
+        "num": 408883,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338580,
+        "num": 338580,
+        "word": "张雪峰专业推荐 实用主义取向",
+        "onboard_time": 1687762374,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 334837,
+        "num": 334837,
+        "word": "刘芸管控郑钧从头到脚",
+        "onboard_time": 1687757888,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323344,
+        "num": 323344,
+        "word": "泰国孕妇坠崖案当事人谈电影消失的她",
+        "onboard_time": 1687749691,
+        "rank": 26,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 319358,
+        "num": 319358,
+        "word": "不要再对瘦子说你好瘦了",
+        "onboard_time": 1687750355,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295636,
+        "num": 295636,
+        "word": "甜椒",
+        "onboard_time": 1687773528,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281581,
+        "num": 281581,
+        "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+        "onboard_time": 1687770348,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271129,
+        "num": 271129,
+        "word": "当我飞奔向你夏日青春芭莎大片",
+        "onboard_time": 1687774366,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258587,
+        "num": 258587,
+        "word": "男子欠1.7亿仍住豪宅养女友",
+        "onboard_time": 1687752361,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254090,
+        "num": 254090,
+        "word": "iPhone手机拍照是什么水平",
+        "onboard_time": 1687767825,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 249307,
+        "num": 249307,
+        "word": "北京的雪糕都卷成什么样了",
+        "onboard_time": 1687763269,
+        "rank": 33,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 240948,
+        "num": 240948,
+        "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
+        "onboard_time": 1687749691,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223306,
+        "num": 223306,
+        "word": "Shein已秘密交表到美国上市",
+        "onboard_time": 1687774844,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220107,
+        "num": 220107,
+        "word": "那就清华呗",
+        "onboard_time": 1687746329,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212568,
+        "num": 212568,
+        "word": "警方回应男童遭家人棍打从五楼跳下",
+        "onboard_time": 1687772870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204702,
+        "num": 204702,
+        "word": "张雪峰的贡献",
+        "onboard_time": 1687769928,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185558,
+        "num": 185558,
+        "word": "兔子的脾气真的有点大",
+        "onboard_time": 1687764048,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180745,
+        "num": 180745,
+        "word": "消失的她特别出演吴邪",
+        "onboard_time": 1687761290,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170455,
+        "num": 170455,
+        "word": "周鸿祎称AI不应该引发大规模裁员",
+        "onboard_time": 1687771553,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 169982,
+        "num": 169982,
+        "word": "河南考生709分清华北大打电话抢人",
+        "onboard_time": 1687760936,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162120,
+        "num": 162120,
+        "word": "JonyJ巡演抢票",
+        "onboard_time": 1687769205,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155053,
+        "num": 155053,
+        "word": "白敬亭合作的女主",
+        "onboard_time": 1687764350,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141482,
+        "num": 141482,
+        "word": "周翊然演的张陆让",
+        "onboard_time": 1687759799,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137429,
+        "num": 137429,
+        "word": "起底被指打死男童涉事俱乐部",
+        "onboard_time": 1687758902,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "西藏分数线公布",
+        "onboard_time": 1687771434,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 450877,
+        "num": 129238,
+        "word": "经纪人回应张雪峰被强制送医",
+        "onboard_time": 1687764528,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126870,
+        "num": 126870,
+        "word": "SHINee新歌HARD",
+        "onboard_time": 1687773046,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#空中视角看千万工程调研行#"
+    }
+  }
+}
