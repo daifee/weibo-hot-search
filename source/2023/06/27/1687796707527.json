@@ -1,0 +1,410 @@
+{
+  "runTime": 1687796707527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762258,
+        "num": 1762258,
+        "word": "复旦大学回应毕业生简历衣着暴露",
+        "onboard_time": 1687794997,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1272122,
+        "num": 1272122,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60995,
+        "num": 1168279,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147980,
+        "num": 1147980,
+        "word": "张艺兴新片官方账号被禁言",
+        "onboard_time": 1687792182,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899688,
+        "num": 899688,
+        "word": "贵州一6岁男童感染食脑虫",
+        "onboard_time": 1687794457,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871260,
+        "num": 871260,
+        "word": "贬低你的亲戚都是父母惯的",
+        "onboard_time": 1687793200,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 544891,
+        "num": 544891,
+        "word": "32岁硕士带8岁儿子参加毕业典礼",
+        "onboard_time": 1687790206,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 507893,
+        "num": 507893,
+        "word": "妹妹考了702分却哭了一下午",
+        "onboard_time": 1687785643,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 485378,
+        "num": 485378,
+        "word": "新京报评偷偷藏不住",
+        "onboard_time": 1687781622,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429858,
+        "num": 429858,
+        "word": "原来外卖店铺照片可以造假",
+        "onboard_time": 1687792899,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377819,
+        "num": 377819,
+        "word": "消失的她",
+        "onboard_time": 1687786484,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350939,
+        "num": 350939,
+        "word": "段嘉许表白",
+        "onboard_time": 1687792239,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344064,
+        "num": 344064,
+        "word": "澳洲爆发恐校症",
+        "onboard_time": 1687778678,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308092,
+        "num": 308092,
+        "word": "工作人员说小S节目停播是巧合",
+        "onboard_time": 1687779820,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296071,
+        "num": 296071,
+        "word": "警方通报男童被打跳楼",
+        "onboard_time": 1687790446,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292165,
+        "num": 292165,
+        "word": "朱一龙消失的她杀青后只想跑",
+        "onboard_time": 1687789007,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284737,
+        "num": 284737,
+        "word": "古早淡妆",
+        "onboard_time": 1687791403,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 274535,
+        "num": 274535,
+        "word": "王者新赛季",
+        "onboard_time": 1687789372,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1009465,
+        "num": 265026,
+        "word": "健身教练吸毒一个多月暴瘦70斤",
+        "onboard_time": 1687785884,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252636,
+        "num": 252636,
+        "word": "陈情令开播四周年",
+        "onboard_time": 1687796253,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284117,
+        "num": 246727,
+        "word": "给你一个亿但永远不能吹空调",
+        "onboard_time": 1687782882,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273235,
+        "num": 243890,
+        "word": "何穗发了60多张自拍",
+        "onboard_time": 1687786370,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237481,
+        "num": 237481,
+        "word": "新学的一招恶心别人的方法",
+        "onboard_time": 1687785102,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223552,
+        "num": 223552,
+        "word": "浙江海宁2名消防员因公牺牲",
+        "onboard_time": 1687789909,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222410,
+        "num": 222410,
+        "word": "当我被00后下属骂了",
+        "onboard_time": 1687783784,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214436,
+        "num": 214436,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201361,
+        "num": 201361,
+        "word": "梦中的那片海",
+        "onboard_time": 1687793619,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195323,
+        "num": 195323,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189260,
+        "num": 189260,
+        "word": "杨天真评大学生毕业做主播",
+        "onboard_time": 1687795655,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86482,
+        "num": 185153,
+        "word": "晚高峰私家车自发45度让行救护车",
+        "onboard_time": 1687794579,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183247,
+        "num": 183247,
+        "word": "Jennie的演技",
+        "onboard_time": 1687769330,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175036,
+        "num": 175036,
+        "word": "猫咪闲了会找谁",
+        "onboard_time": 1687793379,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 170438,
+        "num": 170438,
+        "word": "王迅谈和王俊凯合作",
+        "onboard_time": 1687790268,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167952,
+        "num": 167952,
+        "word": "懒羊羊为什么那么喜欢睡觉",
+        "onboard_time": 1687782882,
+        "rank": 33,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 165423,
+        "word": "方便面也能复刻了",
+        "onboard_time": 1687792541,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160312,
+        "num": 160312,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687778502,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159625,
+        "num": 159625,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154833,
+        "num": 154833,
+        "word": "学信网显示结业女子错失月薪4万工作",
+        "onboard_time": 1687764950,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 152806,
+        "num": 152806,
+        "word": "朱一龙心里万了一骂句",
+        "onboard_time": 1687781622,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148582,
+        "num": 148582,
+        "word": "秦岚女团舞Flower",
+        "onboard_time": 1687790148,
+        "rank": 39,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 148022,
+        "num": 148022,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147188,
+        "num": 147188,
+        "word": "妇联回应男孩躲窗外被打跳下5楼",
+        "onboard_time": 1687778864,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142347,
+        "num": 142347,
+        "word": "石家庄",
+        "onboard_time": 1687794219,
+        "rank": 42,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 139761,
+        "num": 139761,
+        "word": "老年女律师如何彰显价值",
+        "onboard_time": 1687793501,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138612,
+        "num": 138612,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137264,
+        "num": 137264,
+        "word": "闪耀的她",
+        "onboard_time": 1687791767,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132597,
+        "num": 132597,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127386,
+        "num": 127386,
+        "word": "贺峻霖跳舞",
+        "onboard_time": 1687790926,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125640,
+        "num": 125640,
+        "word": "宋轶和张睿是同学",
+        "onboard_time": 1687782595,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124390,
+        "num": 124390,
+        "word": "新手腹肌养成记",
+        "onboard_time": 1687794876,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村之美#"
+    }
+  }
+}
