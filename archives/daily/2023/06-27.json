@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687804706945,
+  "endTime": 1687806946674,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -499,12 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 28071,
+      "raw_hot": 31364,
       "num": 39229,
       "word": "高校回应领导被举报出轨他人妻子",
       "onboard_time": 1687803317,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 22450,
+      "num": 24754,
+      "word": "朱一龙演何非用笔练面部抽搐",
+      "onboard_time": 1687806913,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687804706945,
+  "endTime": 1687806946674,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -2723,20 +2723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31364,
+      "num": 39229,
+      "word": "高校回应领导被举报出轨他人妻子",
+      "onboard_time": 1687803317,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 29788,
       "num": 29788,
       "word": "王鹤棣小型演唱会",
       "onboard_time": 1687719074,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28071,
-      "num": 39229,
-      "word": "高校回应领导被举报出轨他人妻子",
-      "onboard_time": 1687803317,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 27890,
@@ -2753,6 +2753,14 @@
       "onboard_time": 1687771670,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22450,
+      "num": 24754,
+      "word": "朱一龙演何非用笔练面部抽搐",
+      "onboard_time": 1687806913,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 20294,
