@@ -1,0 +1,410 @@
+{
+  "runTime": 1687793653448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2221071,
+        "num": 2221071,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1573207,
+        "num": 1573207,
+        "word": "妹妹考了702分却哭了一下午",
+        "onboard_time": 1687785643,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75046,
+        "num": 907961,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770416,
+        "num": 770416,
+        "word": "张艺兴新片官方账号被禁言",
+        "onboard_time": 1687792182,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 722300,
+        "num": 722300,
+        "word": "消失的她",
+        "onboard_time": 1687786484,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688226,
+        "num": 688226,
+        "word": "新京报评偷偷藏不住",
+        "onboard_time": 1687781622,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589656,
+        "num": 589656,
+        "word": "32岁硕士带8岁儿子参加毕业典礼",
+        "onboard_time": 1687790206,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 567773,
+        "num": 567773,
+        "word": "朱一龙消失的她杀青后只想跑",
+        "onboard_time": 1687789007,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556428,
+        "num": 556428,
+        "word": "澳洲爆发恐校症",
+        "onboard_time": 1687778678,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 421459,
+        "num": 421459,
+        "word": "当我被00后下属骂了",
+        "onboard_time": 1687783784,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1331652,
+        "num": 420800,
+        "word": "健身教练吸毒一个多月暴瘦70斤",
+        "onboard_time": 1687785884,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560326,
+        "num": 420280,
+        "word": "工作人员说小S节目停播是巧合",
+        "onboard_time": 1687779820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501497,
+        "num": 419750,
+        "word": "警方通报男童被打跳楼",
+        "onboard_time": 1687790446,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430790,
+        "num": 418791,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418470,
+        "num": 418470,
+        "word": "浙江海宁2名消防员因公牺牲",
+        "onboard_time": 1687789909,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391403,
+        "num": 391403,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386830,
+        "num": 386830,
+        "word": "古早淡妆",
+        "onboard_time": 1687791403,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 378038,
+        "num": 378038,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374310,
+        "num": 374310,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326721,
+        "num": 326721,
+        "word": "段嘉许表白",
+        "onboard_time": 1687792239,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479353,
+        "num": 322438,
+        "word": "何穗发了60多张自拍",
+        "onboard_time": 1687786370,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396395,
+        "num": 319460,
+        "word": "王迅谈和王俊凯合作",
+        "onboard_time": 1687790268,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367666,
+        "num": 318780,
+        "word": "新学的一招恶心别人的方法",
+        "onboard_time": 1687785102,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315954,
+        "num": 315954,
+        "word": "给你一个亿但永远不能吹空调",
+        "onboard_time": 1687782882,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288129,
+        "num": 288129,
+        "word": "学信网显示结业女子错失月薪4万工作",
+        "onboard_time": 1687764950,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 285338,
+        "num": 285338,
+        "word": "兴化地震",
+        "onboard_time": 1687787566,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269033,
+        "num": 269033,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247962,
+        "num": 247962,
+        "word": "贺峻霖跳舞",
+        "onboard_time": 1687790926,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241186,
+        "num": 241186,
+        "word": "朱一龙心里万了一骂句",
+        "onboard_time": 1687781622,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157621,
+        "num": 240889,
+        "word": "2022中央财政赤字26500亿元",
+        "onboard_time": 1687771848,
+        "rank": 29,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 323035,
+        "num": 239705,
+        "word": "原来外卖店铺照片可以造假",
+        "onboard_time": 1687792899,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300508,
+        "num": 238985,
+        "word": "贬低你的亲戚都是父母惯的",
+        "onboard_time": 1687793200,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261280,
+        "num": 237831,
+        "word": "方便面也能复刻了",
+        "onboard_time": 1687792541,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237635,
+        "num": 237635,
+        "word": "闪耀的她",
+        "onboard_time": 1687791767,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227101,
+        "num": 227101,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225741,
+        "num": 225741,
+        "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+        "onboard_time": 1687770348,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221464,
+        "num": 221464,
+        "word": "懒羊羊为什么那么喜欢睡觉",
+        "onboard_time": 1687782882,
+        "rank": 36,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 220188,
+        "num": 220188,
+        "word": "老年女律师如何彰显价值",
+        "onboard_time": 1687793501,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221338,
+        "num": 218963,
+        "word": "妇联回应男孩躲窗外被打跳下5楼",
+        "onboard_time": 1687778864,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213689,
+        "num": 213689,
+        "word": "董事长回应祝贺高管女儿获高考状元",
+        "onboard_time": 1687763208,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210324,
+        "num": 210324,
+        "word": "浙江建德籍现役军人荣立一等功",
+        "onboard_time": 1687792780,
+        "rank": 40,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 205838,
+        "num": 205838,
+        "word": "二十三岁的恋爱",
+        "onboard_time": 1687766270,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197907,
+        "num": 197907,
+        "word": "猫咪闲了会找谁",
+        "onboard_time": 1687793379,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195214,
+        "num": 195214,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687778502,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193898,
+        "num": 193898,
+        "word": "Jennie的演技",
+        "onboard_time": 1687769330,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188373,
+        "num": 188373,
+        "word": "秦岚女团舞Flower",
+        "onboard_time": 1687790148,
+        "rank": 45,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 184285,
+        "num": 184285,
+        "word": "王者新赛季",
+        "onboard_time": 1687789372,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184126,
+        "num": 184126,
+        "word": "宋轶和张睿是同学",
+        "onboard_time": 1687782595,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179511,
+        "num": 179511,
+        "word": "海獭咋有这么多萌萌的小技能",
+        "onboard_time": 1687793078,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172887,
+        "num": 172887,
+        "word": "梦中的那片海",
+        "onboard_time": 1687793619,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#禁毒战线隐形守护者#"
+    }
+  }
+}
