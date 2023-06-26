@@ -1,0 +1,410 @@
+{
+  "runTime": 1687748819453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2540604,
+        "num": 2540604,
+        "word": "那就清华呗",
+        "onboard_time": 1687746329,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1865346,
+        "num": 1865346,
+        "word": "消失的她 畸形秀",
+        "onboard_time": 1687740274,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6975,
+        "num": 1118167,
+        "word": "世界互联网大会数字文明尼山对话",
+        "onboard_time": 1687595673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991446,
+        "num": 991446,
+        "word": "从胃炎到胃癌",
+        "onboard_time": 1687739914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990373,
+        "num": 990373,
+        "word": "赵露思露腰了",
+        "onboard_time": 1687744529,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 936272,
+        "num": 936272,
+        "word": "张萌问张铎十年了你行了吗",
+        "onboard_time": 1687743931,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 883186,
+        "num": 883186,
+        "word": "A股",
+        "onboard_time": 1687745130,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 797268,
+        "num": 797268,
+        "word": "你的童年报复性补偿行为",
+        "onboard_time": 1687744950,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558333,
+        "num": 558333,
+        "word": "你上班第一个月工资有多少",
+        "onboard_time": 1687740031,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 533299,
+        "num": 533299,
+        "word": "长风渡网播断更",
+        "onboard_time": 1687742909,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 934163,
+        "num": 526306,
+        "word": "蔡徐坤演唱会互动女网红道歉",
+        "onboard_time": 1687743451,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 469217,
+        "num": 469217,
+        "word": "JackeyLove担任亚运会AD",
+        "onboard_time": 1687739856,
+        "rank": 11,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 456138,
+        "num": 456138,
+        "word": "陈萱萱靠生子挽回变心老公",
+        "onboard_time": 1687745428,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415893,
+        "num": 415893,
+        "word": "雷公寻子22年成功儿子拒绝联系",
+        "onboard_time": 1687745191,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399338,
+        "num": 399338,
+        "word": "日本列车男子挥刀有人中文喊我挡着",
+        "onboard_time": 1687743269,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901697,
+        "num": 373059,
+        "word": "律师称拒聘川大毕业生是明显的就业歧视",
+        "onboard_time": 1687742671,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 339362,
+        "num": 339362,
+        "word": "这些都是野鸡大学",
+        "onboard_time": 1687704878,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 320223,
+        "num": 320223,
+        "word": "为什么医院不让家属陪护只能请护工",
+        "onboard_time": 1687734261,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315158,
+        "num": 315158,
+        "word": "黄圣依疑怀3胎",
+        "onboard_time": 1687705357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312305,
+        "num": 312305,
+        "word": "陈哲远和赵露思的鞋过不去了",
+        "onboard_time": 1687746571,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355895,
+        "num": 309900,
+        "word": "英语没考好在国外也没问题",
+        "onboard_time": 1687745911,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307364,
+        "num": 307364,
+        "word": "猫眼 发疯",
+        "onboard_time": 1687740452,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306148,
+        "num": 306148,
+        "word": "黄多多17岁穿搭",
+        "onboard_time": 1687682614,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292426,
+        "num": 292426,
+        "word": "拜托她可是秦岚",
+        "onboard_time": 1687746870,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291629,
+        "num": 291629,
+        "word": "睡梦中躲虫子把自己弄骨折了",
+        "onboard_time": 1687747830,
+        "rank": 24,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 258577,
+        "num": 258577,
+        "word": "梁洁衣服被用来堵安全门",
+        "onboard_time": 1687747290,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255449,
+        "num": 255449,
+        "word": "秦岚无效多巴胺",
+        "onboard_time": 1687706734,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249593,
+        "num": 249593,
+        "word": "Fly未入选亚运会",
+        "onboard_time": 1687735404,
+        "rank": 27,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 248601,
+        "num": 248601,
+        "word": "渐冻症妈妈得知儿子考研成功一直笑",
+        "onboard_time": 1687743031,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 240851,
+        "num": 240851,
+        "word": "股市",
+        "onboard_time": 1687747950,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417810,
+        "num": 240570,
+        "word": "经济学家称延迟退休这条路非走不可",
+        "onboard_time": 1687744227,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 257493,
+        "num": 240307,
+        "word": "家人说我工作后变得很冷漠",
+        "onboard_time": 1687748431,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237689,
+        "num": 237689,
+        "word": "蔡徐坤听完金靖唱歌被吓跑",
+        "onboard_time": 1687744469,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234641,
+        "num": 234641,
+        "word": "从来不吹空调的室友感冒了",
+        "onboard_time": 1687743810,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231425,
+        "num": 231425,
+        "word": "景知秋一年无性生活婚姻亮红灯",
+        "onboard_time": 1687741172,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215330,
+        "num": 215330,
+        "word": "摇号",
+        "onboard_time": 1687748009,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208433,
+        "num": 208433,
+        "word": "广东老鼠下雨天搓澡",
+        "onboard_time": 1687738291,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204404,
+        "num": 204404,
+        "word": "王者荣耀亚运会大名单",
+        "onboard_time": 1687734744,
+        "rank": 37,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 203145,
+        "num": 203145,
+        "word": "肖战李沁曹斐然谈到导演付宁哭了",
+        "onboard_time": 1687740092,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202943,
+        "num": 202943,
+        "word": "你敢这样坚持一年吗",
+        "onboard_time": 1687740031,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199259,
+        "num": 199259,
+        "word": "张雨绮贵姐vs柜姐",
+        "onboard_time": 1687743931,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196854,
+        "num": 196854,
+        "word": "朱一龙消失的她破7亿海报",
+        "onboard_time": 1687740393,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194574,
+        "num": 194574,
+        "word": "鸟鸟想变成保温杯",
+        "onboard_time": 1687746748,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196211,
+        "num": 194550,
+        "word": "消失的她",
+        "onboard_time": 1687699235,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194457,
+        "num": 194457,
+        "word": "四川26岁女孩下网约车后失联",
+        "onboard_time": 1687707334,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191929,
+        "num": 191929,
+        "word": "中国婚礼",
+        "onboard_time": 1687748308,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190349,
+        "num": 190349,
+        "word": "瓦格纳",
+        "onboard_time": 1687740153,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190274,
+        "num": 190274,
+        "word": "男子误入停车场51秒被收费8元",
+        "onboard_time": 1687741712,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189031,
+        "num": 189031,
+        "word": "俄官方首次发布普京在克宫处置危机画面",
+        "onboard_time": 1687739010,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168249,
+        "num": 175774,
+        "word": "何非和陈麦在灯塔时是三个人在对峙",
+        "onboard_time": 1687748791,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天国际禁毒日#"
+    }
+  }
+}

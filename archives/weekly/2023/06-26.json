@@ -1,7 +1,15 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687745882275,
+  "endTime": 1687748819453,
   "band_list": [
+    {
+      "raw_hot": 2540604,
+      "num": 2540604,
+      "word": "那就清华呗",
+      "onboard_time": 1687746329,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2168711,
       "num": 2168711,
@@ -51,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 990373,
+      "num": 990373,
+      "word": "赵露思露腰了",
+      "onboard_time": 1687744529,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 971569,
       "num": 971569,
       "word": "四川26岁女孩下网约车后失联",
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936272,
+      "num": 936272,
+      "word": "张萌问张铎十年了你行了吗",
+      "onboard_time": 1687743931,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 885088,
       "num": 885088,
       "word": "女孩高考成绩被屏蔽4天小字显示全省前50",
@@ -75,12 +99,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 884283,
-      "num": 884283,
-      "word": "张萌问张铎十年了你行了吗",
-      "onboard_time": 1687743931,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 883186,
+      "num": 883186,
+      "word": "A股",
+      "onboard_time": 1687745130,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 862501,
@@ -89,14 +113,6 @@
       "onboard_time": 1687682614,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 840872,
-      "num": 840872,
-      "word": "赵露思露腰了",
-      "onboard_time": 1687744529,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 826373,
@@ -113,6 +129,14 @@
       "onboard_time": 1687740452,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 797268,
+      "num": 797268,
+      "word": "你的童年报复性补偿行为",
+      "onboard_time": 1687744950,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 786583,
@@ -171,8 +195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 542800,
-      "num": 542800,
+      "raw_hot": 558333,
+      "num": 558333,
       "word": "你上班第一个月工资有多少",
       "onboard_time": 1687740031,
       "rank": 13,
@@ -211,6 +235,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 456138,
+      "num": 456138,
+      "word": "陈萱萱靠生子挽回变心老公",
+      "onboard_time": 1687745428,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448068,
       "num": 448068,
       "word": "EXO回归预告",
@@ -233,6 +265,22 @@
       "onboard_time": 1687735645,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417810,
+      "num": 262271,
+      "word": "经济学家称延迟退休这条路非走不可",
+      "onboard_time": 1687744227,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 415893,
+      "num": 415893,
+      "word": "雷公寻子22年成功儿子拒绝联系",
+      "onboard_time": 1687745191,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415356,
@@ -259,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405955,
-      "num": 405955,
-      "word": "A股",
-      "onboard_time": 1687745130,
-      "rank": 16,
-      "category": "财经"
+      "raw_hot": 399338,
+      "num": 399338,
+      "word": "日本列车男子挥刀有人中文喊我挡着",
+      "onboard_time": 1687743269,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397160,
@@ -273,14 +321,6 @@
       "onboard_time": 1687682374,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 378333,
-      "num": 378333,
-      "word": "你的童年报复性补偿行为",
-      "onboard_time": 1687744950,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 376132,
@@ -305,6 +345,14 @@
       "onboard_time": 1687704337,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355895,
+      "num": 309900,
+      "word": "英语没考好在国外也没问题",
+      "onboard_time": 1687745911,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 345577,
@@ -371,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312305,
+      "num": 312305,
+      "word": "陈哲远和赵露思的鞋过不去了",
+      "onboard_time": 1687746571,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309139,
       "num": 309139,
       "word": "男子误入停车场51秒被收费8元",
@@ -435,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297569,
-      "num": 297569,
-      "word": "陈萱萱靠生子挽回变心老公",
-      "onboard_time": 1687745428,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 297201,
       "num": 297201,
       "word": "瓦格纳",
@@ -457,6 +505,22 @@
       "onboard_time": 1687695630,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292426,
+      "num": 292426,
+      "word": "拜托她可是秦岚",
+      "onboard_time": 1687746870,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 291629,
+      "num": 291629,
+      "word": "睡梦中躲虫子把自己弄骨折了",
+      "onboard_time": 1687747830,
+      "rank": 24,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 287568,
@@ -499,14 +563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 270511,
-      "num": 270511,
-      "word": "日本列车男子挥刀有人中文喊我挡着",
-      "onboard_time": 1687743269,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270445,
       "num": 270445,
       "word": "张雨绮贵姐vs柜姐",
@@ -539,20 +595,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262271,
-      "num": 262271,
-      "word": "经济学家称延迟退休这条路非走不可",
-      "onboard_time": 1687744227,
-      "rank": 33,
-      "category": "财经,社会新闻"
+      "raw_hot": 258577,
+      "num": 258577,
+      "word": "梁洁衣服被用来堵安全门",
+      "onboard_time": 1687747290,
+      "rank": 25,
+      "category": "艺人"
     },
     {
-      "raw_hot": 260440,
-      "num": 260440,
-      "word": "雷公寻子22年成功儿子拒绝联系",
-      "onboard_time": 1687745191,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 257493,
+      "num": 240307,
+      "word": "家人说我工作后变得很冷漠",
+      "onboard_time": 1687748431,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 253632,
@@ -595,6 +651,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 240851,
+      "num": 240851,
+      "word": "股市",
+      "onboard_time": 1687747950,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 231145,
       "num": 231145,
       "word": "女子2年被老公家暴16次需终身挂粪袋",
@@ -627,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215330,
+      "num": 215330,
+      "word": "摇号",
+      "onboard_time": 1687748009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211803,
       "num": 211803,
       "word": "父亲拒绝给钱买毒品被儿子殴打致死",
@@ -651,12 +723,36 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 196854,
+      "num": 196854,
+      "word": "朱一龙消失的她破7亿海报",
+      "onboard_time": 1687740393,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194574,
+      "num": 194574,
+      "word": "鸟鸟想变成保温杯",
+      "onboard_time": 1687746748,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
       "onboard_time": 1687709670,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191929,
+      "num": 191929,
+      "word": "中国婚礼",
+      "onboard_time": 1687748308,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 189758,
@@ -707,20 +803,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170060,
-      "num": 170060,
-      "word": "朱一龙消失的她破7亿海报",
-      "onboard_time": 1687740393,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169525,
       "num": 169525,
       "word": "大叔把学生不要的旧鞋洗成新鞋",
       "onboard_time": 1687744351,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168249,
+      "num": 175774,
+      "word": "何非和陈麦在灯塔时是三个人在对峙",
+      "onboard_time": 1687748791,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 165463,
@@ -950,6 +1046,9 @@
   "hotgov_list": [
     {
       "word": "#空中视角看千万工程调研行#"
+    },
+    {
+      "word": "#今天国际禁毒日#"
     }
   ]
 }
