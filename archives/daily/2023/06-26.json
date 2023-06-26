@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687744519795,
+  "endTime": 1687745882275,
   "band_list": [
     {
       "raw_hot": 2168711,
@@ -11,8 +11,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1982217,
-      "num": 1982217,
+      "raw_hot": 2045680,
+      "num": 2045680,
       "word": "消失的她 畸形秀",
       "onboard_time": 1687740274,
       "rank": 0,
@@ -33,6 +33,22 @@
       "onboard_time": 1687710806,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1150430,
+      "num": 617561,
+      "word": "蔡徐坤演唱会互动女网红道歉",
+      "onboard_time": 1687743451,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1076239,
+      "num": 1076239,
+      "word": "律师称拒聘川大毕业生是明显的就业歧视",
+      "onboard_time": 1687742671,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 971569,
@@ -59,6 +75,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 884283,
+      "num": 884283,
+      "word": "张萌问张铎十年了你行了吗",
+      "onboard_time": 1687743931,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 862501,
       "num": 481911,
       "word": "黄多多17岁穿搭",
@@ -67,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 840872,
+      "num": 840872,
+      "word": "赵露思露腰了",
+      "onboard_time": 1687744529,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 826373,
       "num": 826373,
       "word": "JackeyLove担任亚运会AD",
       "onboard_time": 1687739856,
       "rank": 4,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 812853,
-      "num": 812853,
-      "word": "律师称拒聘川大毕业生是明显的就业歧视",
-      "onboard_time": 1687742671,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 809563,
@@ -115,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695438,
-      "num": 585431,
-      "word": "蔡徐坤演唱会互动女网红道歉",
-      "onboard_time": 1687743451,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 626967,
       "num": 626967,
       "word": "现在的吃播真的令我手足无措",
@@ -147,6 +163,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559488,
+      "num": 559488,
+      "word": "长风渡网播断更",
+      "onboard_time": 1687742909,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542800,
+      "num": 542800,
+      "word": "你上班第一个月工资有多少",
+      "onboard_time": 1687740031,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 534782,
       "num": 534782,
       "word": "你敢这样坚持一年吗",
@@ -159,22 +191,6 @@
       "num": 411307,
       "word": "秦岚无效多巴胺",
       "onboard_time": 1687706734,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 517408,
-      "num": 517408,
-      "word": "你上班第一个月工资有多少",
-      "onboard_time": 1687740031,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 492852,
-      "num": 492852,
-      "word": "长风渡网播断更",
-      "onboard_time": 1687742909,
       "rank": 14,
       "category": "影视"
     },
@@ -243,12 +259,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405955,
+      "num": 405955,
+      "word": "A股",
+      "onboard_time": 1687745130,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 397160,
       "num": 247616,
       "word": "牙医不建议用电动牙刷",
       "onboard_time": 1687682374,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378333,
+      "num": 378333,
+      "word": "你的童年报复性补偿行为",
+      "onboard_time": 1687744950,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 376132,
@@ -273,14 +305,6 @@
       "onboard_time": 1687704337,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 363980,
-      "num": 363980,
-      "word": "张萌问张铎十年了你行了吗",
-      "onboard_time": 1687743931,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 345577,
@@ -347,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309139,
+      "num": 309139,
+      "word": "男子误入停车场51秒被收费8元",
+      "onboard_time": 1687741712,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309035,
       "num": 309035,
       "word": "690分学霸采访中接到清华电话",
       "onboard_time": 1687734382,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 306465,
+      "num": 306465,
+      "word": "30岁前一定要旅行的地方",
+      "onboard_time": 1687740811,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 304853,
@@ -395,20 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297569,
+      "num": 297569,
+      "word": "陈萱萱靠生子挽回变心老公",
+      "onboard_time": 1687745428,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297201,
+      "num": 297201,
+      "word": "瓦格纳",
+      "onboard_time": 1687740153,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 296073,
       "num": 243407,
       "word": "男子混进小区舔女户主门前鞋子",
       "onboard_time": 1687695630,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289878,
-      "num": 289878,
-      "word": "瓦格纳",
-      "onboard_time": 1687740153,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 287568,
@@ -435,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271774,
+      "num": 271774,
+      "word": "蔡徐坤听完金靖唱歌被吓跑",
+      "onboard_time": 1687744469,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271312,
       "num": 271312,
       "word": "男生怕考砸被骂查分前挨个打扫房间",
@@ -451,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269182,
-      "num": 269182,
-      "word": "30岁前一定要旅行的地方",
-      "onboard_time": 1687740811,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 270445,
+      "num": 270445,
+      "word": "张雨绮贵姐vs柜姐",
+      "onboard_time": 1687743931,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 268576,
@@ -481,6 +537,22 @@
       "onboard_time": 1687699235,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262271,
+      "num": 262271,
+      "word": "经济学家称延迟退休这条路非走不可",
+      "onboard_time": 1687744227,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 260440,
+      "num": 260440,
+      "word": "雷公寻子22年成功儿子拒绝联系",
+      "onboard_time": 1687745191,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253632,
@@ -555,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213379,
-      "num": 213379,
-      "word": "张雨绮贵姐vs柜姐",
-      "onboard_time": 1687743931,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211803,
       "num": 211803,
       "word": "父亲拒绝给钱买毒品被儿子殴打致死",
@@ -585,14 +649,6 @@
       "onboard_time": 1687741471,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200606,
-      "num": 200606,
-      "word": "男子误入停车场51秒被收费8元",
-      "onboard_time": 1687741712,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193668,
@@ -673,14 +729,6 @@
       "onboard_time": 1687741831,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160673,
-      "num": 160673,
-      "word": "蔡徐坤听完金靖唱歌被吓跑",
-      "onboard_time": 1687744469,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 156601,
