@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687783101775,
+  "endTime": 1687784209723,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1837421,
+      "num": 1837421,
+      "word": "澳洲爆发恐校症",
+      "onboard_time": 1687778678,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1834297,
       "num": 1779106,
       "word": "蔡徐坤甩外套",
       "onboard_time": 1687749452,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1813387,
-      "num": 1813387,
-      "word": "澳洲爆发恐校症",
-      "onboard_time": 1687778678,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1765012,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912612,
+      "num": 912612,
+      "word": "周深美依礼芽合作上了",
+      "onboard_time": 1687783128,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 890345,
       "num": 503343,
       "word": "学信网显示结业女子错失月薪4万工作",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 719082,
-      "num": 408362,
+      "num": 502560,
       "word": "工作人员说小S节目停播是巧合",
       "onboard_time": 1687779820,
       "rank": 10,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589624,
+      "num": 589624,
+      "word": "新京报评偷偷藏不住",
+      "onboard_time": 1687781622,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586004,
       "num": 586004,
       "word": "景知秋一年无性生活婚姻亮红灯",
@@ -475,12 +491,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 557160,
+      "num": 557160,
+      "word": "消失的她 海边牵手照",
+      "onboard_time": 1687782041,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551384,
       "num": 542542,
       "word": "戴建勇",
       "onboard_time": 1687770405,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547821,
+      "num": 335280,
+      "word": "给你一个亿但永远不能吹空调",
+      "onboard_time": 1687782882,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 546817,
@@ -531,20 +563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 526284,
+      "num": 498921,
+      "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+      "onboard_time": 1687770348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510264,
       "num": 510264,
       "word": "偷偷藏不住播出的效应",
       "onboard_time": 1687756811,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 500455,
-      "num": 500455,
-      "word": "消失的她 海边牵手照",
-      "onboard_time": 1687782041,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 497359,
@@ -571,20 +603,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 467777,
+      "num": 467777,
+      "word": "妇联回应男孩躲窗外被打跳下5楼",
+      "onboard_time": 1687778864,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466901,
       "num": 466901,
       "word": "王者荣耀亚运会大名单",
       "onboard_time": 1687734744,
       "rank": 8,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 465590,
-      "num": 407693,
-      "word": "妇联回应男孩躲窗外被打跳下5楼",
-      "onboard_time": 1687778864,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464274,
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 461496,
-      "num": 221646,
+      "num": 333832,
       "word": "这玩具千万别卖到我家这儿",
       "onboard_time": 1687781622,
       "rank": 30,
@@ -715,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415547,
+      "num": 415547,
+      "word": "TES阵容",
+      "onboard_time": 1687782468,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 415356,
       "num": 415356,
       "word": "朱一龙的头为什么是歪的",
@@ -761,14 +801,6 @@
       "onboard_time": 1687751082,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403586,
-      "num": 332911,
-      "word": "卤汤从头浇下9月大婴儿被重度烫伤",
-      "onboard_time": 1687770348,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397160,
@@ -931,6 +963,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 337189,
+      "num": 337189,
+      "word": "朱一龙心里万了一骂句",
+      "onboard_time": 1687781622,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334884,
       "num": 245572,
       "word": "我爱你",
@@ -976,6 +1016,14 @@
       "word": "南京200多斤野猪把玻璃门撞到粉碎",
       "onboard_time": 1687752721,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327144,
+      "num": 327144,
+      "word": "最近广东人的大拇指都是黑的",
+      "onboard_time": 1687783302,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1097,14 @@
       "onboard_time": 1687738291,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312751,
+      "num": 312751,
+      "word": "宋轶和张睿是同学",
+      "onboard_time": 1687782595,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 309139,
@@ -1156,7 +1212,7 @@
     },
     {
       "raw_hot": 285283,
-      "num": 221636,
+      "num": 255448,
       "word": "医生是这样评估口臭的",
       "onboard_time": 1687780722,
       "rank": 31,
@@ -1251,14 +1307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 269913,
-      "num": 269913,
-      "word": "给你一个亿但永远不能吹空调",
-      "onboard_time": 1687782882,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 268576,
       "num": 268576,
       "word": "女生高考时发烧考618分挨个屋报喜",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1687775867,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267185,
+      "num": 256984,
+      "word": "当我被00后下属骂了",
+      "onboard_time": 1687783784,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 264748,
@@ -1320,6 +1376,14 @@
       "word": "我和我妈打电话的状态",
       "onboard_time": 1687770949,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 258056,
+      "num": 258056,
+      "word": "恐班症",
+      "onboard_time": 1687783183,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -1377,14 +1441,6 @@
       "onboard_time": 1687748308,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248549,
-      "num": 221587,
-      "word": "TES阵容",
-      "onboard_time": 1687782468,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 244984,
@@ -1499,22 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221528,
-      "num": 221528,
-      "word": "朱一龙心里万了一骂句",
-      "onboard_time": 1687781622,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 219751,
-      "num": 219751,
-      "word": "新京报评偷偷藏不住",
-      "onboard_time": 1687781622,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219415,
       "num": 536222,
       "word": "周鸿祎谈大学专业选择",
@@ -1579,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206357,
+      "num": 206357,
+      "word": "TES对战WE",
+      "onboard_time": 1687781923,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204205,
       "num": 204205,
       "word": "顾九思的衣柜",
@@ -1635,19 +1683,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195356,
+      "num": 195356,
+      "word": "蔡少芬 姐姐舞台留下我不少眼泪",
+      "onboard_time": 1687782644,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194574,
       "num": 194574,
       "word": "鸟鸟想变成保温杯",
       "onboard_time": 1687746748,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194541,
-      "num": 194541,
-      "word": "蔡少芬 姐姐舞台留下我不少眼泪",
-      "onboard_time": 1687782644,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1673,6 +1721,14 @@
       "onboard_time": 1687715237,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189457,
+      "num": 189457,
+      "word": "懒羊羊为什么那么喜欢睡觉",
+      "onboard_time": 1687782882,
+      "rank": 45,
+      "category": "情感,动漫"
     },
     {
       "raw_hot": 186850,
@@ -1811,6 +1867,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 163407,
+      "num": 180862,
+      "word": "长风渡化妆盒吴磊肯定喜欢",
+      "onboard_time": 1687783966,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162734,
       "num": 455998,
       "word": "赫莲娜特斯拉官宣",
@@ -1825,14 +1889,6 @@
       "onboard_time": 1687766568,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160273,
-      "num": 169529,
-      "word": "宋轶和张睿是同学",
-      "onboard_time": 1687782595,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160230,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1687733841,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146823,
-      "num": 169242,
-      "word": "懒羊羊为什么那么喜欢睡觉",
-      "onboard_time": 1687782882,
-      "rank": 45,
-      "category": "情感,动漫"
     },
     {
       "raw_hot": 144919,
@@ -2131,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57315,
+      "num": 874506,
+      "word": "我国拟立法保障粮食安全",
+      "onboard_time": 1687783489,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45760,
       "num": 59767,
       "word": "iG战胜LNG",
@@ -2231,6 +2287,9 @@
     },
     {
       "word": "#禁毒战线隐形守护者#"
+    },
+    {
+      "word": "#乡村之美#"
     }
   ]
 }
