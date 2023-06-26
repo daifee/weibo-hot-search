@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687748819453,
+  "endTime": 1687749285764,
   "band_list": [
     {
       "raw_hot": 2540604,
@@ -49,6 +49,14 @@
       "onboard_time": 1687743451,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1085381,
+      "num": 1085381,
+      "word": "你的童年报复性补偿行为",
+      "onboard_time": 1687744950,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 1076239,
@@ -129,14 +137,6 @@
       "onboard_time": 1687740452,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 797268,
-      "num": 797268,
-      "word": "你的童年报复性补偿行为",
-      "onboard_time": 1687744950,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 786583,
@@ -267,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430794,
+      "num": 430794,
+      "word": "雷公寻子22年成功儿子拒绝联系",
+      "onboard_time": 1687745191,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417810,
       "num": 262271,
       "word": "经济学家称延迟退休这条路非走不可",
       "onboard_time": 1687744227,
       "rank": 33,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 415893,
-      "num": 415893,
-      "word": "雷公寻子22年成功儿子拒绝联系",
-      "onboard_time": 1687745191,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415356,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412266,
+      "num": 412266,
+      "word": "日本列车男子挥刀有人中文喊我挡着",
+      "onboard_time": 1687743269,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412254,
       "num": 412254,
       "word": "肖战李沁曹斐然谈到导演付宁哭了",
@@ -307,18 +315,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399338,
-      "num": 399338,
-      "word": "日本列车男子挥刀有人中文喊我挡着",
-      "onboard_time": 1687743269,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397160,
       "num": 247616,
       "word": "牙医不建议用电动牙刷",
       "onboard_time": 1687682374,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 378035,
+      "num": 311493,
+      "word": "英语没考好在国外也没问题",
+      "onboard_time": 1687745911,
       "rank": 20,
       "category": "幽默"
     },
@@ -347,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 355895,
-      "num": 309900,
-      "word": "英语没考好在国外也没问题",
-      "onboard_time": 1687745911,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 345577,
       "num": 345577,
       "word": "白敬亭是在挽回形象吗",
@@ -363,11 +363,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340703,
+      "num": 340703,
+      "word": "摇号",
+      "onboard_time": 1687748009,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334884,
       "num": 245572,
       "word": "我爱你",
       "onboard_time": 1687704279,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 334155,
+      "num": 334155,
+      "word": "陈哲远和赵露思的鞋过不去了",
+      "onboard_time": 1687746571,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1687707155,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326056,
+      "num": 326056,
+      "word": "睡梦中躲虫子把自己弄骨折了",
+      "onboard_time": 1687747830,
+      "rank": 24,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 325241,
@@ -417,14 +441,6 @@
       "onboard_time": 1687738291,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312305,
-      "num": 312305,
-      "word": "陈哲远和赵露思的鞋过不去了",
-      "onboard_time": 1687746571,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 309139,
@@ -515,18 +531,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291629,
-      "num": 291629,
-      "word": "睡梦中躲虫子把自己弄骨折了",
-      "onboard_time": 1687747830,
-      "rank": 24,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 287568,
       "num": 287568,
       "word": "从来不吹空调的室友感冒了",
       "onboard_time": 1687743810,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 284905,
+      "num": 244015,
+      "word": "家人说我工作后变得很冷漠",
+      "onboard_time": 1687748431,
       "rank": 31,
       "category": "情感"
     },
@@ -603,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257493,
-      "num": 240307,
-      "word": "家人说我工作后变得很冷漠",
-      "onboard_time": 1687748431,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253632,
       "num": 253632,
       "word": "桑稚穿搭",
@@ -641,6 +649,14 @@
       "onboard_time": 1687692452,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248957,
+      "num": 248957,
+      "word": "中国婚礼",
+      "onboard_time": 1687748308,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 244984,
@@ -691,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215330,
-      "num": 215330,
-      "word": "摇号",
-      "onboard_time": 1687748009,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211803,
       "num": 211803,
       "word": "父亲拒绝给钱买毒品被儿子殴打致死",
@@ -713,6 +721,14 @@
       "onboard_time": 1687684052,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203139,
+      "num": 203139,
+      "word": "何非和陈麦在灯塔时是三个人在对峙",
+      "onboard_time": 1687748791,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 201054,
@@ -745,14 +761,6 @@
       "onboard_time": 1687709670,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191929,
-      "num": 191929,
-      "word": "中国婚礼",
-      "onboard_time": 1687748308,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 189758,
@@ -809,14 +817,6 @@
       "onboard_time": 1687744351,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168249,
-      "num": 175774,
-      "word": "何非和陈麦在灯塔时是三个人在对峙",
-      "onboard_time": 1687748791,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 165463,
@@ -881,6 +881,14 @@
       "onboard_time": 1687705833,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127814,
+      "num": 175112,
+      "word": "是我没想到的联名了",
+      "onboard_time": 1687749271,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126281,
