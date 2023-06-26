@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687751035251,
+  "endTime": 1687753449685,
   "band_list": [
     {
       "raw_hot": 2983302,
@@ -9,6 +9,14 @@
       "onboard_time": 1687746329,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2360296,
+      "num": 770653,
+      "word": "蔡徐坤演唱会互动女网红道歉",
+      "onboard_time": 1687743451,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 2168711,
@@ -27,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1834297,
+      "num": 1462503,
+      "word": "蔡徐坤甩外套",
+      "onboard_time": 1687749452,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1765012,
       "num": 1765012,
       "word": "从胃炎到胃癌",
@@ -35,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1471164,
-      "num": 617561,
-      "word": "蔡徐坤演唱会互动女网红道歉",
-      "onboard_time": 1687743451,
-      "rank": 10,
-      "category": "音乐"
+      "raw_hot": 1731098,
+      "num": 1731098,
+      "word": "不要再对瘦子说你好瘦了",
+      "onboard_time": 1687750355,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1434156,
@@ -49,6 +65,14 @@
       "onboard_time": 1687710806,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1399193,
+      "num": 1163948,
+      "word": "蔡徐坤回应和歌迷互动",
+      "onboard_time": 1687751629,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1085381,
@@ -75,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975668,
+      "num": 975668,
+      "word": "网传8岁男童被武术教练打死",
+      "onboard_time": 1687750476,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971569,
       "num": 971569,
       "word": "四川26岁女孩下网约车后失联",
@@ -91,11 +123,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939022,
+      "num": 939022,
+      "word": "泰国孕妇坠崖案当事人谈电影消失的她",
+      "onboard_time": 1687749691,
+      "rank": 11,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 936272,
       "num": 936272,
       "word": "张萌问张铎十年了你行了吗",
       "onboard_time": 1687743931,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 916622,
+      "num": 916622,
+      "word": "灿烂灿烂改名定档",
+      "onboard_time": 1687751934,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -113,14 +161,6 @@
       "onboard_time": 1687745130,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 867073,
-      "num": 453143,
-      "word": "泰国孕妇坠崖案当事人谈电影消失的她",
-      "onboard_time": 1687749691,
-      "rank": 11,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 862501,
@@ -171,7 +211,31 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628578,
+      "raw_hot": 670084,
+      "num": 670084,
+      "word": "男子欠1.7亿仍住豪宅养女友",
+      "onboard_time": 1687752361,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651216,
+      "num": 651216,
+      "word": "如果高考大家都用统一的试卷会发生什么",
+      "onboard_time": 1687749812,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 647409,
+      "num": 302784,
+      "word": "王源的剧好多都改名了",
+      "onboard_time": 1687750964,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 645432,
       "num": 319489,
       "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
       "onboard_time": 1687749691,
@@ -187,28 +251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 622717,
+      "num": 622717,
+      "word": "青岛警方通报武术俱乐部致一人死亡案",
+      "onboard_time": 1687750778,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620058,
       "num": 620058,
       "word": "中方表示瓦格纳集团事件是俄罗斯内政",
       "onboard_time": 1687703256,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 612445,
-      "num": 612445,
-      "word": "不要再对瘦子说你好瘦了",
-      "onboard_time": 1687750355,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 595842,
-      "num": 595842,
-      "word": "蔡徐坤甩外套",
-      "onboard_time": 1687749452,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 586004,
@@ -257,6 +313,14 @@
       "onboard_time": 1687700500,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 476967,
+      "num": 296614,
+      "word": "试用期因为能力不足被辞退了",
+      "onboard_time": 1687752599,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 466901,
@@ -395,20 +459,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346708,
+      "num": 295420,
+      "word": "沈月担任团综导演",
+      "onboard_time": 1687751082,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345577,
       "num": 345577,
       "word": "白敬亭是在挽回形象吗",
       "onboard_time": 1687700017,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345113,
-      "num": 345113,
-      "word": "如果高考大家都用统一的试卷会发生什么",
-      "onboard_time": 1687749812,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 334884,
@@ -441,6 +505,14 @@
       "onboard_time": 1687707155,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 329357,
+      "num": 329357,
+      "word": "长风渡剧本bug",
+      "onboard_time": 1687751025,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 326056,
@@ -596,7 +668,7 @@
     },
     {
       "raw_hot": 284905,
-      "num": 259016,
+      "num": 279775,
       "word": "家人说我工作后变得很冷漠",
       "onboard_time": 1687748431,
       "rank": 31,
@@ -609,6 +681,14 @@
       "onboard_time": 1687743031,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 282978,
+      "num": 282978,
+      "word": "真正的告别是什么样子的",
+      "onboard_time": 1687752538,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 275725,
@@ -723,30 +803,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 244138,
-      "num": 244138,
-      "word": "网传8岁男童被武术教练打死",
-      "onboard_time": 1687750476,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243253,
-      "num": 243253,
-      "word": "青岛警方通报武术俱乐部致一人死亡案",
-      "onboard_time": 1687750778,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242256,
-      "num": 242256,
-      "word": "王源的剧好多都改名了",
-      "onboard_time": 1687750964,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240851,
       "num": 240851,
       "word": "股市",
@@ -827,6 +883,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 200632,
+      "num": 200632,
+      "word": "南京200多斤野猪把玻璃门撞到粉碎",
+      "onboard_time": 1687752721,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196854,
       "num": 196854,
       "word": "朱一龙消失的她破7亿海报",
@@ -899,20 +963,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176654,
+      "num": 176654,
+      "word": "段嘉许校服短袖里穿打底衫",
+      "onboard_time": 1687752298,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175258,
+      "num": 175258,
+      "word": "真的有人连一点社交都没有吗",
+      "onboard_time": 1687753026,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169525,
       "num": 169525,
       "word": "大叔把学生不要的旧鞋洗成新鞋",
       "onboard_time": 1687744351,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168069,
-      "num": 168069,
-      "word": "长风渡剧本bug",
-      "onboard_time": 1687751025,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 165463,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1687714399,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124959,
+      "num": 1471290,
+      "word": "毕业典礼能多有仪式感",
+      "onboard_time": 1687751934,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119657,
