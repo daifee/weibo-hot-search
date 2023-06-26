@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687771219320,
+  "endTime": 1687772038516,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3275,6 +3275,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1755372,
+      "num": 1755372,
+      "word": "齐思钧 身体一直没有彻底康复",
+      "onboard_time": 1687768061,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1753548,
       "num": 1753548,
       "word": "赵丽颖回应三次陪跑",
@@ -3393,14 +3401,6 @@
       "onboard_time": 1685861067,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1721912,
-      "num": 1721912,
-      "word": "齐思钧 身体一直没有彻底康复",
-      "onboard_time": 1687768061,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1720020,
@@ -9283,6 +9283,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 916390,
+      "num": 916390,
+      "word": "张雪峰给普通女生的报考建议",
+      "onboard_time": 1687769807,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 916039,
       "num": 776098,
       "word": "感动全网的环卫工儿子考了470分",
@@ -9580,7 +9588,7 @@
     },
     {
       "raw_hot": 890345,
-      "num": 295972,
+      "num": 339847,
       "word": "学信网显示结业女子错失月薪4万工作",
       "onboard_time": 1687764950,
       "rank": 20,
@@ -10489,14 +10497,6 @@
       "onboard_time": 1685882550,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 820743,
-      "num": 233376,
-      "word": "张雪峰给普通女生的报考建议",
-      "onboard_time": 1687769807,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 820397,
@@ -13107,6 +13107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648433,
+      "num": 648433,
+      "word": "Jennie的演技",
+      "onboard_time": 1687769330,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648312,
       "num": 648312,
       "word": "六级听力好难",
@@ -14097,14 +14105,6 @@
       "onboard_time": 1685930548,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 593560,
-      "num": 593560,
-      "word": "Jennie的演技",
-      "onboard_time": 1687769330,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 592068,
@@ -16337,6 +16337,14 @@
       "onboard_time": 1687527402,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 498515,
+      "num": 455071,
+      "word": "胡锡进开通股票账户",
+      "onboard_time": 1687771250,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 498300,
@@ -18755,6 +18763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 425773,
+      "num": 425773,
+      "word": "戴建勇",
+      "onboard_time": 1687770405,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425591,
       "num": 256912,
       "word": "王鹤棣田曦薇合作新剧",
@@ -19753,6 +19769,14 @@
       "onboard_time": 1687751082,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403586,
+      "num": 332911,
+      "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+      "onboard_time": 1687770348,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403564,
@@ -20859,6 +20883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 379551,
+      "num": 379551,
+      "word": "张雪峰的贡献",
+      "onboard_time": 1687769928,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 379504,
       "num": 379504,
       "word": "入职半个月被领导带头孤立了",
@@ -20953,6 +20985,14 @@
       "onboard_time": 1685941169,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377239,
+      "num": 331326,
+      "word": "iPhone手机拍照是什么水平",
+      "onboard_time": 1687767825,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 377133,
@@ -21457,14 +21497,6 @@
       "onboard_time": 1686132874,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 366926,
-      "num": 366926,
-      "word": "张雪峰的贡献",
-      "onboard_time": 1687769928,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 366679,
@@ -22547,14 +22579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348796,
-      "num": 232246,
-      "word": "卤汤从头浇下9月大婴儿被重度烫伤",
-      "onboard_time": 1687770348,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348716,
       "num": 348716,
       "word": "TFBOYS十周年联名",
@@ -23009,6 +23033,14 @@
       "onboard_time": 1687002931,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 341941,
+      "num": 341941,
+      "word": "张雪峰专业推荐 实用主义取向",
+      "onboard_time": 1687762374,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 341634,
@@ -23577,14 +23609,6 @@
       "onboard_time": 1687761290,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333619,
-      "num": 333619,
-      "word": "张雪峰专业推荐 实用主义取向",
-      "onboard_time": 1687762374,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 333541,
@@ -24305,14 +24329,6 @@
       "onboard_time": 1687740332,
       "rank": 25,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 323600,
-      "num": 293633,
-      "word": "iPhone手机拍照是什么水平",
-      "onboard_time": 1687767825,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 323468,
@@ -25784,14 +25800,6 @@
       "word": "顾客自助买凉皮老板快乐收麦子",
       "onboard_time": 1686484826,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304374,
-      "num": 304374,
-      "word": "戴建勇",
-      "onboard_time": 1687770405,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -30883,6 +30891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258199,
+      "num": 258199,
+      "word": "我和我妈打电话的状态",
+      "onboard_time": 1687770949,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258177,
       "num": 258177,
       "word": "高考转运锦鲤",
@@ -31385,6 +31401,14 @@
       "onboard_time": 1686644008,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255040,
+      "num": 255040,
+      "word": "西藏分数线公布",
+      "onboard_time": 1687771434,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 254856,
@@ -35483,6 +35507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228082,
+      "num": 228082,
+      "word": "男子举报妻子出轨南京一高校领导",
+      "onboard_time": 1687771791,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228043,
       "num": 228043,
       "word": "贪官假释期威胁媒体删除忏悔视频",
@@ -37153,6 +37185,14 @@
       "onboard_time": 1687133730,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218198,
+      "num": 218198,
+      "word": "周鸿祎称AI不应该引发大规模裁员",
+      "onboard_time": 1687771553,
+      "rank": 32,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 218161,
@@ -39337,14 +39377,6 @@
       "onboard_time": 1687359576,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205805,
-      "num": 205805,
-      "word": "我和我妈打电话的状态",
-      "onboard_time": 1687770949,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 205649,
@@ -44217,6 +44249,14 @@
       "onboard_time": 1687511251,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184145,
+      "num": 184145,
+      "word": "2022中央财政赤字26500亿元",
+      "onboard_time": 1687771848,
+      "rank": 40,
+      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 184073,
@@ -49771,6 +49811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 153604,
+      "num": 164567,
+      "word": "跳桥小哥被邀请落户杭州",
+      "onboard_time": 1687771189,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153520,
       "num": 261022,
       "word": "永安镇故事集定档",
@@ -54385,14 +54433,6 @@
       "onboard_time": 1686315629,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124788,
-      "num": 164567,
-      "word": "跳桥小哥被邀请落户杭州",
-      "onboard_time": 1687771189,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124735,
@@ -60635,20 +60675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40888,
+      "num": 1927446,
+      "word": "高质量发展调研行",
+      "onboard_time": 1686387328,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40811,
       "num": 40811,
       "word": "周柏豪佛山演唱会",
       "onboard_time": 1687023559,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40790,
-      "num": 1927446,
-      "word": "高质量发展调研行",
-      "onboard_time": 1686387328,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40511,
@@ -61361,6 +61401,14 @@
       "onboard_time": 1686126213,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24418,
+      "num": 431686,
+      "word": "如何看待男装周裙装越来越多",
+      "onboard_time": 1687771670,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 24151,

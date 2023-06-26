@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687771219320,
+  "endTime": 1687772038516,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1721912,
-      "num": 1721912,
+      "raw_hot": 1755372,
+      "num": 1755372,
       "word": "齐思钧 身体一直没有彻底康复",
       "onboard_time": 1687768061,
       "rank": 31,
@@ -211,8 +211,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916390,
+      "num": 916390,
+      "word": "张雪峰给普通女生的报考建议",
+      "onboard_time": 1687769807,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 890345,
-      "num": 295972,
+      "num": 339847,
       "word": "学信网显示结业女子错失月薪4万工作",
       "onboard_time": 1687764950,
       "rank": 20,
@@ -249,14 +257,6 @@
       "onboard_time": 1687739856,
       "rank": 4,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 820743,
-      "num": 233376,
-      "word": "张雪峰给普通女生的报考建议",
-      "onboard_time": 1687769807,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 809563,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648433,
+      "num": 648433,
+      "word": "Jennie的演技",
+      "onboard_time": 1687769330,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647409,
       "num": 302784,
       "word": "王源的剧好多都改名了",
@@ -369,14 +377,6 @@
       "onboard_time": 1687763208,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593560,
-      "num": 593560,
-      "word": "Jennie的演技",
-      "onboard_time": 1687769330,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 586004,
@@ -425,6 +425,14 @@
       "onboard_time": 1687756811,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 498515,
+      "num": 455071,
+      "word": "胡锡进开通股票账户",
+      "onboard_time": 1687771250,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 483647,
@@ -531,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425773,
+      "num": 425773,
+      "word": "戴建勇",
+      "onboard_time": 1687770405,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423389,
       "num": 337927,
       "word": "密室大逃脱",
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403586,
+      "num": 332911,
+      "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+      "onboard_time": 1687770348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397160,
       "num": 247616,
       "word": "牙医不建议用电动牙刷",
@@ -619,12 +643,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 379551,
+      "num": 379551,
+      "word": "张雪峰的贡献",
+      "onboard_time": 1687769928,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 378035,
       "num": 311493,
       "word": "英语没考好在国外也没问题",
       "onboard_time": 1687745911,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377239,
+      "num": 331326,
+      "word": "iPhone手机拍照是什么水平",
+      "onboard_time": 1687767825,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 377114,
@@ -675,28 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366926,
-      "num": 366926,
-      "word": "张雪峰的贡献",
-      "onboard_time": 1687769928,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 365857,
       "num": 365857,
       "word": "长风渡剧本bug",
       "onboard_time": 1687751025,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348796,
-      "num": 232246,
-      "word": "卤汤从头浇下9月大婴儿被重度烫伤",
-      "onboard_time": 1687770348,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346062,
@@ -721,6 +745,14 @@
       "onboard_time": 1687763269,
       "rank": 30,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 341941,
+      "num": 341941,
+      "word": "张雪峰专业推荐 实用主义取向",
+      "onboard_time": 1687762374,
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 341360,
@@ -753,14 +785,6 @@
       "onboard_time": 1687761290,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333619,
-      "num": 333619,
-      "word": "张雪峰专业推荐 实用主义取向",
-      "onboard_time": 1687762374,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 332611,
@@ -809,14 +833,6 @@
       "onboard_time": 1687740332,
       "rank": 25,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 323600,
-      "num": 293633,
-      "word": "iPhone手机拍照是什么水平",
-      "onboard_time": 1687767825,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 322522,
@@ -897,14 +913,6 @@
       "onboard_time": 1687705234,
       "rank": 18,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 304374,
-      "num": 304374,
-      "word": "戴建勇",
-      "onboard_time": 1687770405,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302154,
@@ -1091,12 +1099,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258199,
+      "num": 258199,
+      "word": "我和我妈打电话的状态",
+      "onboard_time": 1687770949,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257834,
       "num": 257834,
       "word": "起底被指打死男童涉事俱乐部",
       "onboard_time": 1687758902,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255040,
+      "num": 255040,
+      "word": "西藏分数线公布",
+      "onboard_time": 1687771434,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 253632,
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228082,
+      "num": 228082,
+      "word": "男子举报妻子出轨南京一高校领导",
+      "onboard_time": 1687771791,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227789,
       "num": 227789,
       "word": "芭拉芭拉",
@@ -1219,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218198,
+      "num": 218198,
+      "word": "周鸿祎称AI不应该引发大规模裁员",
+      "onboard_time": 1687771553,
+      "rank": 32,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 217986,
       "num": 217986,
       "word": "我的人间烟火",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1687684052,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205805,
-      "num": 205805,
-      "word": "我和我妈打电话的状态",
-      "onboard_time": 1687770949,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 204205,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1687701578,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184145,
+      "num": 184145,
+      "word": "2022中央财政赤字26500亿元",
+      "onboard_time": 1687771848,
+      "rank": 40,
+      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 183711,
@@ -1515,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153604,
+      "num": 164567,
+      "word": "跳桥小哥被邀请落户杭州",
+      "onboard_time": 1687771189,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "外交部回应瓦格纳集团事件",
@@ -1627,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124788,
-      "num": 164567,
-      "word": "跳桥小哥被邀请落户杭州",
-      "onboard_time": 1687771189,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119657,
       "num": 119657,
       "word": "不出意外这是我这周的状态",
@@ -1739,8 +1779,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40790,
-      "num": 733089,
+      "raw_hot": 40888,
+      "num": 782544,
       "word": "高质量发展调研行",
       "onboard_time": 1687768306,
       "rank": 2,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1687719614,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 24418,
+      "num": 431686,
+      "word": "如何看待男装周裙装越来越多",
+      "onboard_time": 1687771670,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 20294,
