@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687768148696,
+  "endTime": 1687768952024,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -51,12 +51,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1875301,
+      "raw_hot": 1885092,
       "num": 1205698,
       "word": "蔡徐坤回应和歌迷互动",
       "onboard_time": 1687751629,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1842889,
+      "num": 479353,
+      "word": "曝周杰伦女儿将入学澳洲贵族名校",
+      "onboard_time": 1687765669,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1834297,
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1619734,
-      "num": 431704,
-      "word": "曝周杰伦女儿将入学澳洲贵族名校",
-      "onboard_time": 1687765669,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1434156,
       "num": 1434156,
       "word": "亚运会",
       "onboard_time": 1687710806,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1131365,
+      "num": 797464,
+      "word": "二十三岁的恋爱",
+      "onboard_time": 1687766270,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1104295,
@@ -203,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 874278,
+      "num": 874278,
+      "word": "经纪人回应张雪峰被强制送医",
+      "onboard_time": 1687764528,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862501,
       "num": 481911,
       "word": "黄多多17岁穿搭",
@@ -233,14 +249,6 @@
       "onboard_time": 1687757888,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 797464,
-      "num": 797464,
-      "word": "二十三岁的恋爱",
-      "onboard_time": 1687766270,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 786583,
@@ -291,14 +299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 710473,
-      "num": 430047,
-      "word": "经纪人回应张雪峰被强制送医",
-      "onboard_time": 1687764528,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 684417,
       "num": 343367,
       "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
@@ -339,6 +339,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 597825,
+      "num": 597825,
+      "word": "董事长回应祝贺高管女儿获高考状元",
+      "onboard_time": 1687763208,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586004,
       "num": 586004,
       "word": "景知秋一年无性生活婚姻亮红灯",
@@ -377,6 +385,14 @@
       "onboard_time": 1687706734,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526353,
+      "num": 478094,
+      "word": "齐思钧 身体一直没有彻底康复",
+      "onboard_time": 1687768061,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 510264,
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430239,
+      "num": 430239,
+      "word": "白敬亭合作的女主",
+      "onboard_time": 1687764350,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423389,
       "num": 337927,
       "word": "密室大逃脱",
@@ -547,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 396380,
-      "num": 396380,
-      "word": "白敬亭合作的女主",
-      "onboard_time": 1687764350,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391766,
       "num": 245016,
       "word": "男孩估分700结果真考700分",
@@ -577,14 +593,6 @@
       "onboard_time": 1687762312,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 380279,
-      "num": 366046,
-      "word": "董事长回应祝贺高管女儿获高考状元",
-      "onboard_time": 1687763208,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378035,
@@ -641,6 +649,14 @@
       "onboard_time": 1687759799,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369572,
+      "num": 369572,
+      "word": "兔子的脾气真的有点大",
+      "onboard_time": 1687764048,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 365857,
@@ -841,14 +857,6 @@
       "onboard_time": 1687705234,
       "rank": 18,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 303964,
-      "num": 286078,
-      "word": "兔子的脾气真的有点大",
-      "onboard_time": 1687764048,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 302154,
@@ -1083,14 +1091,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 243558,
-      "num": 243558,
-      "word": "齐思钧 身体一直没有彻底康复",
-      "onboard_time": 1687768061,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240851,
       "num": 240851,
       "word": "股市",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1687764048,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233014,
+      "num": 233014,
+      "word": "iPhone手机拍照是什么水平",
+      "onboard_time": 1687767825,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 231145,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1687749271,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223030,
+      "num": 223030,
+      "word": "女儿博士毕业父亲拍着胸脯说骄傲",
+      "onboard_time": 1687764710,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222083,
@@ -1275,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182794,
-      "num": 182794,
-      "word": "女儿博士毕业父亲拍着胸脯说骄傲",
-      "onboard_time": 1687764710,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 182236,
       "num": 182236,
       "word": "张雪峰式报志愿的缺陷在哪",
@@ -1395,6 +1403,14 @@
       "category": "科技,时尚"
     },
     {
+      "raw_hot": 162149,
+      "num": 162149,
+      "word": "女子家中一开窗随手可舀山泉水",
+      "onboard_time": 1687766568,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160230,
       "num": 370430,
       "word": "女孩淡定查分坚定报考国科大",
@@ -1451,6 +1467,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148207,
+      "num": 148207,
+      "word": "赵露思影视原声率",
+      "onboard_time": 1687768547,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "你对另一半容忍的底线是什么",
+      "onboard_time": 1687766325,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144318,
+      "num": 369894,
+      "word": "便衣民警吃着雪糕反手就逮了个小偷",
+      "onboard_time": 1687766445,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143942,
       "num": 1788291,
       "word": "毕业典礼能多有仪式感",
@@ -1491,28 +1531,20 @@
       "category": "时尚,美妆"
     },
     {
-      "raw_hot": 134578,
-      "num": 134578,
-      "word": "你对另一半容忍的底线是什么",
-      "onboard_time": 1687766325,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132755,
-      "num": 132755,
-      "word": "女子家中一开窗随手可舀山泉水",
-      "onboard_time": 1687766568,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129970,
       "num": 129970,
       "word": "现在的假发已经这么真了吗",
       "onboard_time": 1687705833,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127216,
+      "num": 127216,
+      "word": "大货车开双闪助后车躲过追尾",
+      "onboard_time": 1687768243,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126281,
@@ -1579,28 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107791,
-      "num": 132604,
-      "word": "iPhone手机拍照是什么水平",
-      "onboard_time": 1687767825,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 105599,
       "num": 105599,
       "word": "贾乃亮18岁VS39岁",
       "onboard_time": 1687729873,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103569,
-      "num": 359816,
-      "word": "便衣民警吃着雪糕反手就逮了个小偷",
-      "onboard_time": 1687766445,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101375,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1687719614,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 27533,
+      "num": 733089,
+      "word": "高质量发展调研行",
+      "onboard_time": 1687768306,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20294,
