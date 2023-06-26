@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687796707527,
+  "endTime": 1687797727999,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -41,6 +41,14 @@
       "onboard_time": 1687785884,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2260469,
+      "num": 2260469,
+      "word": "复旦大学回应毕业生简历衣着暴露",
+      "onboard_time": 1687794997,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2168711,
@@ -129,14 +137,6 @@
       "onboard_time": 1687739914,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1762258,
-      "num": 1762258,
-      "word": "复旦大学回应毕业生简历衣着暴露",
-      "onboard_time": 1687794997,
-      "rank": 0,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1755372,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955006,
+      "num": 955006,
+      "word": "贵州一6岁男童感染食脑虫",
+      "onboard_time": 1687794457,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951903,
       "num": 951903,
       "word": "四川26岁失联女子遗体被找到",
@@ -288,14 +296,6 @@
       "word": "男子欠1.7亿仍住豪宅养女友",
       "onboard_time": 1687752361,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 899688,
-      "num": 899688,
-      "word": "贵州一6岁男童感染食脑虫",
-      "onboard_time": 1687794457,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327487,
+      "num": 327487,
+      "word": "陈情令开播四周年",
+      "onboard_time": 1687796253,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327144,
       "num": 327144,
       "word": "最近广东人的大拇指都是黑的",
@@ -1627,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254522,
+      "num": 199368,
+      "word": "杨天真评大学生毕业做主播",
+      "onboard_time": 1687795655,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253632,
       "num": 253632,
       "word": "桑稚穿搭",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1687739010,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 252636,
-      "num": 252636,
-      "word": "陈情令开播四周年",
-      "onboard_time": 1687796253,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 252191,
@@ -2059,12 +2067,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189260,
-      "num": 189260,
-      "word": "杨天真评大学生毕业做主播",
-      "onboard_time": 1687795655,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 186973,
+      "num": 186973,
+      "word": "石家庄",
+      "onboard_time": 1687794219,
+      "rank": 42,
+      "category": "自然"
     },
     {
       "raw_hot": 186850,
@@ -2201,6 +2209,14 @@
       "onboard_time": 1687791705,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171793,
+      "num": 171793,
+      "word": "窦靖童王传君新剧开机",
+      "onboard_time": 1687797149,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 169538,
@@ -2355,14 +2371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142347,
-      "num": 142347,
-      "word": "石家庄",
-      "onboard_time": 1687794219,
-      "rank": 42,
-      "category": "自然"
-    },
-    {
       "raw_hot": 140582,
       "num": 168672,
       "word": "河南中考",
@@ -2491,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115319,
+      "num": 115319,
+      "word": "你见过高考数学满分的人吗",
+      "onboard_time": 1687796733,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 114650,
       "num": 140926,
       "word": "九旬奶奶零基础学钢琴十天会弹曲",
@@ -2521,6 +2537,14 @@
       "onboard_time": 1687735765,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108375,
+      "num": 108375,
+      "word": "消失的她观后感",
+      "onboard_time": 1687797210,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 105599,
@@ -2555,7 +2579,7 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 86482,
+      "raw_hot": 89883,
       "num": 185153,
       "word": "晚高峰私家车自发45度让行救护车",
       "onboard_time": 1687794579,
