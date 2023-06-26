@@ -1,0 +1,410 @@
+{
+  "runTime": 1687764862794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618004,
+        "num": 1618004,
+        "word": "张雪峰曾称每年仅讲课就能挣几百万",
+        "onboard_time": 1687758963,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785841,
+        "num": 785841,
+        "word": "消失的她 畸形秀",
+        "onboard_time": 1687740274,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81895,
+        "num": 759536,
+        "word": "毕业典礼能多有仪式感",
+        "onboard_time": 1687751934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1875301,
+        "num": 750618,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 738036,
+        "num": 738036,
+        "word": "张雪峰对于学医的观点",
+        "onboard_time": 1687759855,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 675743,
+        "num": 675743,
+        "word": "不要再对瘦子说你好瘦了",
+        "onboard_time": 1687750355,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 641182,
+        "num": 641182,
+        "word": "泰国孕妇坠崖案当事人谈电影消失的她",
+        "onboard_time": 1687749691,
+        "rank": 6,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 589736,
+        "num": 589736,
+        "word": "刘芸管控郑钧从头到脚",
+        "onboard_time": 1687757888,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 573426,
+        "num": 573426,
+        "word": "那就清华呗",
+        "onboard_time": 1687746329,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472155,
+        "num": 472155,
+        "word": "网传8岁男童被武术教练打死",
+        "onboard_time": 1687750476,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446578,
+        "num": 446578,
+        "word": "杨幂梦回小时代",
+        "onboard_time": 1687758603,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386694,
+        "num": 386694,
+        "word": "从胃炎到胃癌",
+        "onboard_time": 1687739914,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377114,
+        "num": 377114,
+        "word": "人民大学党委书记致电敬礼娃娃",
+        "onboard_time": 1687761536,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368176,
+        "num": 368176,
+        "word": "偷偷藏不住播出的效应",
+        "onboard_time": 1687756811,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160230,
+        "num": 366338,
+        "word": "女孩淡定查分坚定报考国科大",
+        "onboard_time": 1687762847,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365729,
+        "num": 365729,
+        "word": "张萌问张铎十年了你行了吗",
+        "onboard_time": 1687743931,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351590,
+        "num": 351590,
+        "word": "如果高考大家都用统一的试卷会发生什么",
+        "onboard_time": 1687749812,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345395,
+        "num": 345395,
+        "word": "复读女生暴涨104分弟弟激动跃起",
+        "onboard_time": 1687757651,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333619,
+        "num": 333619,
+        "word": "张雪峰专业推荐 实用主义取向",
+        "onboard_time": 1687762374,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 306478,
+        "num": 306478,
+        "word": "河南考生709分清华北大打电话抢人",
+        "onboard_time": 1687760936,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 438670,
+        "num": 300955,
+        "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
+        "onboard_time": 1687749691,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380279,
+        "num": 298805,
+        "word": "董事长回应祝贺高管女儿获高考状元",
+        "onboard_time": 1687763208,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320259,
+        "num": 296855,
+        "word": "密室大逃脱",
+        "onboard_time": 1687761180,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294636,
+        "num": 294636,
+        "word": "这户外婚礼非办不可吗",
+        "onboard_time": 1687762071,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 274826,
+        "num": 274826,
+        "word": "男子欠1.7亿仍住豪宅养女友",
+        "onboard_time": 1687752361,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268765,
+        "num": 268765,
+        "word": "北京的雪糕都卷成什么样了",
+        "onboard_time": 1687763269,
+        "rank": 25,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 267396,
+        "num": 267396,
+        "word": "何非爱李木子吗",
+        "onboard_time": 1687759496,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261536,
+        "num": 261536,
+        "word": "赵露思露腰了",
+        "onboard_time": 1687744529,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261845,
+        "num": 259796,
+        "word": "消失的她特别出演吴邪",
+        "onboard_time": 1687761290,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256242,
+        "num": 256242,
+        "word": "上海一公司CEO发文拒招川大师生",
+        "onboard_time": 1687762312,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 303964,
+        "num": 255856,
+        "word": "兔子的脾气真的有点大",
+        "onboard_time": 1687764048,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 251305,
+        "num": 251305,
+        "word": "白敬亭合作的女主",
+        "onboard_time": 1687764350,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241660,
+        "num": 241660,
+        "word": "鹿晗重庆演唱会dresscode",
+        "onboard_time": 1687760216,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238547,
+        "num": 238547,
+        "word": "起底被指打死男童涉事俱乐部",
+        "onboard_time": 1687758902,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237790,
+        "num": 237790,
+        "word": "蔡依林广州",
+        "onboard_time": 1687764048,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237224,
+        "num": 237224,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687758659,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229845,
+        "num": 229845,
+        "word": "经纪人回应张雪峰被强制送医",
+        "onboard_time": 1687764528,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221804,
+        "num": 221804,
+        "word": "周翊然演的张陆让",
+        "onboard_time": 1687759799,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195157,
+        "num": 195157,
+        "word": "试用期因为能力不足被辞退了",
+        "onboard_time": 1687752599,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "女篮李梦",
+        "onboard_time": 1687757349,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182055,
+        "num": 182055,
+        "word": "张雪峰式报志愿的缺陷在哪",
+        "onboard_time": 1687762731,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 165963,
+        "num": 165963,
+        "word": "王源的剧好多都改名了",
+        "onboard_time": 1687750964,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159712,
+        "num": 159712,
+        "word": "这些都是野鸡大学",
+        "onboard_time": 1687704878,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "灿烂灿烂改名定档",
+        "onboard_time": 1687751934,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139840,
+        "num": 139840,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1687753569,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137983,
+        "num": 137983,
+        "word": "臭气麦克风采访",
+        "onboard_time": 1687764710,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127401,
+        "num": 127401,
+        "word": "女儿博士毕业父亲拍着胸脯说骄傲",
+        "onboard_time": 1687764710,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "男孩分数被屏蔽全家尖叫自己淡定拍照",
+        "onboard_time": 1687762912,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125933,
+        "num": 125933,
+        "word": "A股",
+        "onboard_time": 1687745130,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122385,
+        "num": 122385,
+        "word": "长风渡剧本bug",
+        "onboard_time": 1687751025,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天国际禁毒日#"
+    }
+  }
+}
