@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/26 19:33:54
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/26 20:38:21
 </p>
 </blockquote>
 <p>
@@ -2351,6 +2351,12 @@ EDG战胜iG（热度：1851482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%90%83%E9%B8%A1%E6%B1%A4%E4%BA%86%23" target="weibo">
 现代人已经不吃鸡汤了（热度：1819415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E6%B4%B2%E7%88%86%E5%8F%91%E6%81%90%E6%A0%A1%E7%97%87%23" target="weibo">
+澳洲爆发恐校症（热度：1813387）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS十周年演唱会招商PPT（热度：1035564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%8D%97%E9%83%A8%E5%86%9B%E5%8C%BA%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0%23" target="weibo">
 俄南部军区总部大楼附近传出爆炸声（热度：1030404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23" target="weibo">
-马伯骞你是真的火了（热度：1030148）
 </a>
 </li>
 

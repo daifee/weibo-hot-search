@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687779234733,
+  "endTime": 1687783101775,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -3121,6 +3121,14 @@
       "onboard_time": 1686610940,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1813387,
+      "num": 1813387,
+      "word": "澳洲爆发恐校症",
+      "onboard_time": 1687778678,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1810436,
@@ -12099,6 +12107,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 719082,
+      "num": 408362,
+      "word": "工作人员说小S节目停播是巧合",
+      "onboard_time": 1687779820,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 718915,
       "num": 718915,
       "word": "建议魏大勋别看",
@@ -16339,6 +16355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 500455,
+      "num": 500455,
+      "word": "消失的她 海边牵手照",
+      "onboard_time": 1687782041,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 500300,
       "num": 500300,
       "word": "李现出发米兰",
@@ -17475,6 +17499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 465590,
+      "num": 407693,
+      "word": "妇联回应男孩躲窗外被打跳下5楼",
+      "onboard_time": 1687778864,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465295,
       "num": 465295,
       "word": "逐渐意识到e人在现实有多爽",
@@ -17585,6 +17617,14 @@
       "onboard_time": 1686488192,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461496,
+      "num": 221646,
+      "word": "这玩具千万别卖到我家这儿",
+      "onboard_time": 1687781622,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 461349,
@@ -17849,6 +17889,14 @@
       "onboard_time": 1685672968,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454122,
+      "num": 408883,
+      "word": "男子举报妻子出轨南京一高校领导",
+      "onboard_time": 1687771791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454038,
@@ -19609,14 +19657,6 @@
       "onboard_time": 1685965285,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 408883,
-      "num": 408883,
-      "word": "男子举报妻子出轨南京一高校领导",
-      "onboard_time": 1687771791,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408747,
@@ -22355,6 +22395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354126,
+      "num": 354126,
+      "word": "当我飞奔向你",
+      "onboard_time": 1686640406,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354096,
       "num": 171014,
       "word": "李春燕 中石油十大杰出青年",
@@ -23233,14 +23281,6 @@
       "onboard_time": 1686212616,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 340521,
-      "num": 325635,
-      "word": "当我飞奔向你",
-      "onboard_time": 1686640406,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 340476,
@@ -27227,14 +27267,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 290981,
-      "num": 290981,
-      "word": "澳洲爆发恐校症",
-      "onboard_time": 1687778678,
-      "rank": 26,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 290931,
       "num": 290931,
       "word": "梅西也得熬夜看欧冠",
@@ -27833,6 +27865,14 @@
       "onboard_time": 1687125373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285283,
+      "num": 221636,
+      "word": "医生是这样评估口臭的",
+      "onboard_time": 1687780722,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 285238,
@@ -29635,6 +29675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269913,
+      "num": 269913,
+      "word": "给你一个亿但永远不能吹空调",
+      "onboard_time": 1687782882,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269907,
       "num": 269907,
       "word": "惠英红和叶童",
@@ -30761,6 +30809,14 @@
       "onboard_time": 1686531091,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260471,
+      "num": 260471,
+      "word": "广东中考 石斑鱼",
+      "onboard_time": 1687780301,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 260431,
@@ -32561,6 +32617,14 @@
       "onboard_time": 1686899728,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248549,
+      "num": 221587,
+      "word": "TES阵容",
+      "onboard_time": 1687782468,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 248508,
@@ -34659,6 +34723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234015,
+      "num": 234015,
+      "word": "段嘉许知道自己喜欢桑稚",
+      "onboard_time": 1687779279,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234002,
       "num": 234002,
       "word": "肖春生腿好了嘴也好了",
@@ -35497,6 +35569,14 @@
       "onboard_time": 1685943027,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228870,
+      "num": 228870,
+      "word": "感觉学农业还是蛮玄学的",
+      "onboard_time": 1687779877,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 228734,
@@ -36699,6 +36779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221673,
+      "num": 221673,
+      "word": "女生穿马面裙参加毕业典礼",
+      "onboard_time": 1687779999,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 221637,
       "num": 221637,
       "word": "孟美岐北京演唱会彩排照",
@@ -36737,6 +36825,14 @@
       "onboard_time": 1686411270,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221528,
+      "num": 221528,
+      "word": "朱一龙心里万了一骂句",
+      "onboard_time": 1687781622,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 221465,
@@ -37017,6 +37113,14 @@
       "onboard_time": 1687612055,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219751,
+      "num": 219751,
+      "word": "新京报评偷偷藏不住",
+      "onboard_time": 1687781622,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 219691,
@@ -38425,6 +38529,14 @@
       "onboard_time": 1687413691,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212049,
+      "num": 212049,
+      "word": "甜椒老公 以后说话做事都会先过脑子",
+      "onboard_time": 1687779638,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 212030,
@@ -41971,6 +42083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194541,
+      "num": 194541,
+      "word": "蔡少芬 姐姐舞台留下我不少眼泪",
+      "onboard_time": 1687782644,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194480,
       "num": 194480,
       "word": "enhypen回归预告",
@@ -43176,14 +43296,6 @@
       "word": "本科毕业当天她给母校捐了10万元",
       "onboard_time": 1687089688,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189653,
-      "num": 189653,
-      "word": "妇联回应男孩躲窗外被打跳下5楼",
-      "onboard_time": 1687778864,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -46987,6 +47099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "四川一个班高考8人锁定清北",
+      "onboard_time": 1687781081,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169537,
       "num": 169537,
       "word": "南洋女儿情",
@@ -48753,6 +48873,14 @@
       "onboard_time": 1686476729,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160273,
+      "num": 169529,
+      "word": "宋轶和张睿是同学",
+      "onboard_time": 1687782595,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160270,
@@ -51217,6 +51345,14 @@
       "onboard_time": 1687062809,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146823,
+      "num": 169242,
+      "word": "懒羊羊为什么那么喜欢睡觉",
+      "onboard_time": 1687782882,
+      "rank": 45,
+      "category": "情感,动漫"
     },
     {
       "raw_hot": 146816,
@@ -54793,6 +54929,14 @@
       "onboard_time": 1686672687,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123226,
+      "num": 168866,
+      "word": "香香坐拥独立小山头",
+      "onboard_time": 1687780241,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123138,

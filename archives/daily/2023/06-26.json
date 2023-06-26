@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687779234733,
+  "endTime": 1687783101775,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -73,6 +73,14 @@
       "onboard_time": 1687749452,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1813387,
+      "num": 1813387,
+      "word": "澳洲爆发恐校症",
+      "onboard_time": 1687778678,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1765012,
@@ -339,6 +347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 719082,
+      "num": 408362,
+      "word": "工作人员说小S节目停播是巧合",
+      "onboard_time": 1687779820,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684417,
       "num": 343367,
       "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500455,
+      "num": 500455,
+      "word": "消失的她 海边牵手照",
+      "onboard_time": 1687782041,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 497359,
       "num": 430865,
       "word": "你会为了7万提前结束产假吗",
@@ -555,12 +579,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 465590,
+      "num": 407693,
+      "word": "妇联回应男孩躲窗外被打跳下5楼",
+      "onboard_time": 1687778864,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464274,
       "num": 343244,
       "word": "何非爱李木子吗",
       "onboard_time": 1687759496,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461496,
+      "num": 221646,
+      "word": "这玩具千万别卖到我家这儿",
+      "onboard_time": 1687781622,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 456138,
@@ -577,6 +617,14 @@
       "onboard_time": 1687753569,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 454122,
+      "num": 408883,
+      "word": "男子举报妻子出轨南京一高校领导",
+      "onboard_time": 1687771791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450143,
@@ -699,16 +747,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 408883,
-      "num": 408883,
-      "word": "男子举报妻子出轨南京一高校领导",
-      "onboard_time": 1687771791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408364,
-      "num": 408364,
+      "raw_hot": 408896,
+      "num": 408896,
       "word": "偷偷藏不住",
       "onboard_time": 1687778502,
       "rank": 17,
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354126,
+      "num": 354126,
+      "word": "当我飞奔向你",
+      "onboard_time": 1687777543,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353053,
       "num": 341205,
       "word": "父亲抛弃患癌儿子治愈后又想要回",
@@ -937,14 +985,6 @@
       "onboard_time": 1687747830,
       "rank": 24,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 325635,
-      "num": 325635,
-      "word": "当我飞奔向你",
-      "onboard_time": 1687777543,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 325241,
@@ -1107,20 +1147,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290981,
-      "num": 290981,
-      "word": "澳洲爆发恐校症",
-      "onboard_time": 1687778678,
-      "rank": 26,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 287568,
       "num": 287568,
       "word": "从来不吹空调的室友感冒了",
       "onboard_time": 1687743810,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285283,
+      "num": 221636,
+      "word": "医生是这样评估口臭的",
+      "onboard_time": 1687780722,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 284905,
@@ -1211,6 +1251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269913,
+      "num": 269913,
+      "word": "给你一个亿但永远不能吹空调",
+      "onboard_time": 1687782882,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268576,
       "num": 268576,
       "word": "女生高考时发烧考618分挨个屋报喜",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1687699235,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260471,
+      "num": 260471,
+      "word": "广东中考 石斑鱼",
+      "onboard_time": 1687780301,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 259908,
@@ -1323,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248549,
+      "num": 221587,
+      "word": "TES阵容",
+      "onboard_time": 1687782468,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244984,
       "num": 244984,
       "word": "一诺入选亚运会",
@@ -1363,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234015,
+      "num": 234015,
+      "word": "段嘉许知道自己喜欢桑稚",
+      "onboard_time": 1687779279,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231145,
       "num": 231145,
       "word": "女子2年被老公家暴16次需终身挂粪袋",
       "onboard_time": 1687678596,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228870,
+      "num": 228870,
+      "word": "感觉学农业还是蛮玄学的",
+      "onboard_time": 1687779877,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 227789,
@@ -1403,12 +1483,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221673,
+      "num": 221673,
+      "word": "女生穿马面裙参加毕业典礼",
+      "onboard_time": 1687779999,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 221578,
       "num": 221578,
       "word": "宋亚轩坐在地上打电话",
       "onboard_time": 1687708472,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221528,
+      "num": 221528,
+      "word": "朱一龙心里万了一骂句",
+      "onboard_time": 1687781622,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219751,
+      "num": 219751,
+      "word": "新京报评偷偷藏不住",
+      "onboard_time": 1687781622,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 219415,
@@ -1449,6 +1553,14 @@
       "onboard_time": 1687772870,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212049,
+      "num": 212049,
+      "word": "甜椒老公 以后说话做事都会先过脑子",
+      "onboard_time": 1687779638,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 211803,
@@ -1531,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194541,
+      "num": 194541,
+      "word": "蔡少芬 姐姐舞台留下我不少眼泪",
+      "onboard_time": 1687782644,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
@@ -1553,14 +1673,6 @@
       "onboard_time": 1687715237,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189653,
-      "num": 189653,
-      "word": "妇联回应男孩躲窗外被打跳下5楼",
-      "onboard_time": 1687778864,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186850,
@@ -1659,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "四川一个班高考8人锁定清北",
+      "onboard_time": 1687781081,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169525,
       "num": 169525,
       "word": "大叔把学生不要的旧鞋洗成新鞋",
@@ -1705,6 +1825,14 @@
       "onboard_time": 1687766568,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160273,
+      "num": 169529,
+      "word": "宋轶和张睿是同学",
+      "onboard_time": 1687782595,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160230,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1687733841,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146823,
+      "num": 169242,
+      "word": "懒羊羊为什么那么喜欢睡觉",
+      "onboard_time": 1687782882,
+      "rank": 45,
+      "category": "情感,动漫"
     },
     {
       "raw_hot": 144919,
@@ -1873,6 +2009,14 @@
       "onboard_time": 1687714399,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123226,
+      "num": 168866,
+      "word": "香香坐拥独立小山头",
+      "onboard_time": 1687780241,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119657,
