@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687757799546,
+  "endTime": 1687760802900,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1845674,
+      "num": 1205698,
+      "word": "蔡徐坤回应和歌迷互动",
+      "onboard_time": 1687751629,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1834297,
       "num": 1779106,
       "word": "蔡徐坤甩外套",
@@ -65,14 +73,6 @@
       "onboard_time": 1687739914,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1572056,
-      "num": 1205698,
-      "word": "蔡徐坤回应和歌迷互动",
-      "onboard_time": 1687751629,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 1434156,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753483,
+      "num": 753483,
+      "word": "刘芸管控郑钧从头到脚",
+      "onboard_time": 1687757888,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 749105,
       "num": 749105,
       "word": "俄官方首次发布普京在克宫处置危机画面",
@@ -227,8 +235,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740638,
+      "num": 740638,
+      "word": "张雪峰曾称每年仅讲课就能挣几百万",
+      "onboard_time": 1687758963,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736947,
-      "num": 301568,
+      "num": 314323,
       "word": "试用期因为能力不足被辞退了",
       "onboard_time": 1687752599,
       "rank": 23,
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500935,
+      "num": 500935,
+      "word": "偷偷藏不住播出的效应",
+      "onboard_time": 1687756811,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483647,
       "num": 483647,
       "word": "普京称全天候控制特别军事行动进程",
@@ -339,6 +363,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 464274,
+      "num": 337050,
+      "word": "何非爱李木子吗",
+      "onboard_time": 1687759496,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 456138,
       "num": 456138,
       "word": "陈萱萱靠生子挽回变心老公",
@@ -347,12 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455052,
+      "num": 455052,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1687753569,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448068,
       "num": 448068,
       "word": "EXO回归预告",
       "onboard_time": 1687706674,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437690,
+      "num": 327899,
+      "word": "杨幂梦回小时代",
+      "onboard_time": 1687758603,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 435960,
@@ -385,6 +433,14 @@
       "onboard_time": 1687744227,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 416602,
+      "num": 416602,
+      "word": "女篮李梦",
+      "onboard_time": 1687757349,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 415356,
@@ -475,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370491,
+      "num": 370491,
+      "word": "周翊然演的张陆让",
+      "onboard_time": 1687759799,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365857,
       "num": 365857,
       "word": "长风渡剧本bug",
@@ -497,6 +561,14 @@
       "onboard_time": 1687700017,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337605,
+      "num": 337605,
+      "word": "张雪峰对于学医的观点",
+      "onboard_time": 1687759855,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 334884,
@@ -715,20 +787,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284165,
-      "num": 284165,
-      "word": "蔡依林演唱会",
-      "onboard_time": 1687753569,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 283646,
       "num": 283646,
       "word": "渐冻症妈妈得知儿子考研成功一直笑",
       "onboard_time": 1687743031,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 283289,
+      "num": 283289,
+      "word": "秦岚王阳吻戏",
+      "onboard_time": 1687758659,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 282978,
@@ -755,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271391,
+      "num": 271391,
+      "word": "鹿晗重庆演唱会dresscode",
+      "onboard_time": 1687760216,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 271312,
       "num": 271312,
       "word": "男生怕考砸被骂查分前挨个打扫房间",
@@ -768,6 +848,14 @@
       "word": "女生高考时发烧考618分挨个屋报喜",
       "onboard_time": 1687710806,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267046,
+      "num": 267046,
+      "word": "复读女生暴涨104分弟弟激动跃起",
+      "onboard_time": 1687757651,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -795,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255989,
+      "num": 255989,
+      "word": "填志愿",
+      "onboard_time": 1687760216,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253632,
       "num": 253632,
       "word": "桑稚穿搭",
@@ -817,14 +913,6 @@
       "onboard_time": 1687702778,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 250272,
-      "num": 250272,
-      "word": "偷偷藏不住播出的效应",
-      "onboard_time": 1687756811,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 250109,
@@ -881,6 +969,14 @@
       "onboard_time": 1687749271,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222083,
+      "num": 222083,
+      "word": "严浩翔说今天我是队长",
+      "onboard_time": 1687758367,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221578,
@@ -971,12 +1067,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193553,
-      "num": 193553,
-      "word": "女篮李梦",
-      "onboard_time": 1687757349,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 191312,
+      "num": 269192,
+      "word": "妈妈晒女儿中考高考查分对比",
+      "onboard_time": 1687757829,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 189758,
@@ -987,12 +1083,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188965,
+      "num": 221644,
+      "word": "起底被指打死男童涉事俱乐部",
+      "onboard_time": 1687758902,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186718,
       "num": 186718,
       "word": "车澈给王传君介绍严浩翔",
       "onboard_time": 1687701578,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185164,
+      "num": 221188,
+      "word": "为什么许多年轻人不想结婚",
+      "onboard_time": 1687758659,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 183711,
@@ -1148,19 +1260,11 @@
     },
     {
       "raw_hot": 137413,
-      "num": 159967,
+      "num": 219803,
       "word": "公主花苞头教程",
       "onboard_time": 1687756168,
       "rank": 48,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 130396,
-      "num": 130396,
-      "word": "复读女生暴涨104分弟弟激动跃起",
-      "onboard_time": 1687757651,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129970,
@@ -1219,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117008,
+      "num": 420192,
+      "word": "赫莲娜特斯拉官宣",
+      "onboard_time": 1687759262,
+      "rank": 14,
+      "category": "科技,时尚"
+    },
+    {
       "raw_hot": 112233,
       "num": 112233,
       "word": "嘴里五味暗示身体问题",
@@ -1233,6 +1345,14 @@
       "onboard_time": 1687729873,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101375,
+      "num": 219128,
+      "word": "段嘉许桑稚看的是同一场烟花",
+      "onboard_time": 1687759384,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 99262,

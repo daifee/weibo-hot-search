@@ -1,0 +1,410 @@
+{
+  "runTime": 1687760802900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154842,
+        "num": 1154842,
+        "word": "消失的她 畸形秀",
+        "onboard_time": 1687740274,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1027641,
+        "num": 1027641,
+        "word": "不要再对瘦子说你好瘦了",
+        "onboard_time": 1687750355,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96490,
+        "num": 878582,
+        "word": "毕业典礼能多有仪式感",
+        "onboard_time": 1687751934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1845674,
+        "num": 878351,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 877499,
+        "num": 877499,
+        "word": "男子欠1.7亿仍住豪宅养女友",
+        "onboard_time": 1687752361,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753483,
+        "num": 753483,
+        "word": "刘芸管控郑钧从头到脚",
+        "onboard_time": 1687757888,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 740638,
+        "num": 740638,
+        "word": "张雪峰曾称每年仅讲课就能挣几百万",
+        "onboard_time": 1687758963,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716978,
+        "num": 716978,
+        "word": "泰国孕妇坠崖案当事人谈电影消失的她",
+        "onboard_time": 1687749691,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 679761,
+        "num": 679761,
+        "word": "那就清华呗",
+        "onboard_time": 1687746329,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624342,
+        "num": 624342,
+        "word": "如果高考大家都用统一的试卷会发生什么",
+        "onboard_time": 1687749812,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 575195,
+        "num": 575195,
+        "word": "张萌问张铎十年了你行了吗",
+        "onboard_time": 1687743931,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500935,
+        "num": 500935,
+        "word": "偷偷藏不住播出的效应",
+        "onboard_time": 1687756811,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483128,
+        "num": 483128,
+        "word": "从胃炎到胃癌",
+        "onboard_time": 1687739914,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455052,
+        "num": 455052,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1687753569,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117008,
+        "num": 420192,
+        "word": "赫莲娜特斯拉官宣",
+        "onboard_time": 1687759262,
+        "rank": 14,
+        "category": "科技,时尚"
+      },
+      {
+        "raw_hot": 416602,
+        "num": 416602,
+        "word": "女篮李梦",
+        "onboard_time": 1687757349,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395676,
+        "num": 395676,
+        "word": "网传8岁男童被武术教练打死",
+        "onboard_time": 1687750476,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370491,
+        "num": 370491,
+        "word": "周翊然演的张陆让",
+        "onboard_time": 1687759799,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348037,
+        "num": 348037,
+        "word": "赵露思露腰了",
+        "onboard_time": 1687744529,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337605,
+        "num": 337605,
+        "word": "张雪峰对于学医的观点",
+        "onboard_time": 1687759855,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 464274,
+        "num": 337050,
+        "word": "何非爱李木子吗",
+        "onboard_time": 1687759496,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437690,
+        "num": 327899,
+        "word": "杨幂梦回小时代",
+        "onboard_time": 1687758603,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430250,
+        "num": 314323,
+        "word": "试用期因为能力不足被辞退了",
+        "onboard_time": 1687752599,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417720,
+        "num": 303248,
+        "word": "外卖小哥骑车摔倒被雨棚刺脖身亡",
+        "onboard_time": 1687749691,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301869,
+        "num": 301869,
+        "word": "这些都是野鸡大学",
+        "onboard_time": 1687704878,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 283606,
+        "num": 283606,
+        "word": "灿烂灿烂改名定档",
+        "onboard_time": 1687751934,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283289,
+        "num": 283289,
+        "word": "秦岚王阳吻戏",
+        "onboard_time": 1687758659,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282747,
+        "num": 282747,
+        "word": "林志颖 你们的仲天骐又回来了",
+        "onboard_time": 1687755619,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271391,
+        "num": 271391,
+        "word": "鹿晗重庆演唱会dresscode",
+        "onboard_time": 1687760216,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191312,
+        "num": 269192,
+        "word": "妈妈晒女儿中考高考查分对比",
+        "onboard_time": 1687757829,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 267046,
+        "num": 267046,
+        "word": "复读女生暴涨104分弟弟激动跃起",
+        "onboard_time": 1687757651,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255989,
+        "num": 255989,
+        "word": "填志愿",
+        "onboard_time": 1687760216,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227970,
+        "num": 227970,
+        "word": "王源的剧好多都改名了",
+        "onboard_time": 1687750964,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222083,
+        "num": 222083,
+        "word": "严浩翔说今天我是队长",
+        "onboard_time": 1687758367,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199177,
+        "num": 221897,
+        "word": "长风渡剧本bug",
+        "onboard_time": 1687751025,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193130,
+        "num": 221781,
+        "word": "A股",
+        "onboard_time": 1687745130,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188965,
+        "num": 221644,
+        "word": "起底被指打死男童涉事俱乐部",
+        "onboard_time": 1687758902,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186698,
+        "num": 221470,
+        "word": "张雨绮贵姐vs柜姐",
+        "onboard_time": 1687743931,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185164,
+        "num": 221188,
+        "word": "为什么许多年轻人不想结婚",
+        "onboard_time": 1687758659,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172369,
+        "num": 221023,
+        "word": "黄圣依疑怀3胎",
+        "onboard_time": 1687705357,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168222,
+        "num": 220926,
+        "word": "景知秋一年无性生活婚姻亮红灯",
+        "onboard_time": 1687741172,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163701,
+        "num": 220671,
+        "word": "蔡徐坤听完金靖唱歌被吓跑",
+        "onboard_time": 1687744469,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161361,
+        "num": 220509,
+        "word": "青岛警方通报武术俱乐部致一人死亡案",
+        "onboard_time": 1687750778,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160201,
+        "num": 220342,
+        "word": "南京200多斤野猪把玻璃门撞到粉碎",
+        "onboard_time": 1687752721,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157142,
+        "num": 220008,
+        "word": "沈月担任团综导演",
+        "onboard_time": 1687751082,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139807,
+        "num": 219974,
+        "word": "BKPP音乐节",
+        "onboard_time": 1687750171,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131681,
+        "num": 219803,
+        "word": "公主花苞头教程",
+        "onboard_time": 1687756168,
+        "rank": 46,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 114135,
+        "num": 219501,
+        "word": "真的有人连一点社交都没有吗",
+        "onboard_time": 1687753026,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106893,
+        "num": 219310,
+        "word": "朱一龙事业运",
+        "onboard_time": 1687749871,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101375,
+        "num": 219128,
+        "word": "段嘉许桑稚看的是同一场烟花",
+        "onboard_time": 1687759384,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天国际禁毒日#"
+    }
+  }
+}
