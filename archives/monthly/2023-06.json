@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687814213491,
+  "endTime": 1687815251592,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -61331,6 +61331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44990,
+      "num": 35577,
+      "word": "原来全世界骂公司都一样",
+      "onboard_time": 1687813153,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44945,
       "num": 1631977,
       "word": "干涸了半个世纪的青土湖如何复活",
@@ -62259,14 +62267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25534,
-      "num": 25534,
-      "word": "原来全世界骂公司都一样",
-      "onboard_time": 1687813153,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 25383,
       "num": 1292416,
       "word": "神舟十六号飞天全回顾",
@@ -62379,6 +62379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21840,
+      "num": 21840,
+      "word": "iQOO11S",
+      "onboard_time": 1687811712,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 21576,
       "num": 33238,
       "word": "宋佳风雨云剧照",
@@ -62427,6 +62435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20588,
+      "num": 20588,
+      "word": "男孩被打躲窗外后坠楼知情人发声",
+      "onboard_time": 1687814833,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20349,
       "num": 183644,
       "word": "拍拍乐请网友看亚运比赛",
@@ -62441,14 +62457,6 @@
       "onboard_time": 1687717994,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 20222,
-      "num": 20222,
-      "word": "iQOO11S",
-      "onboard_time": 1687811712,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 19970,
