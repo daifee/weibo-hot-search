@@ -1,0 +1,410 @@
+{
+  "runTime": 1687786071380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1524053,
+        "num": 1524053,
+        "word": "新京报评偷偷藏不住",
+        "onboard_time": 1687781622,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1786737,
+        "num": 1391489,
+        "word": "周深美依礼芽合作上了",
+        "onboard_time": 1687783128,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112289,
+        "num": 1281080,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249204,
+        "num": 1249204,
+        "word": "澳洲爆发恐校症",
+        "onboard_time": 1687778678,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 856413,
+        "num": 856413,
+        "word": "蔡徐坤回应和歌迷互动",
+        "onboard_time": 1687751629,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 653446,
+        "num": 653446,
+        "word": "朱一龙心里万了一骂句",
+        "onboard_time": 1687781622,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 772125,
+        "num": 630055,
+        "word": "四川26岁失联女子遗体被找到",
+        "onboard_time": 1687772390,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594709,
+        "num": 594709,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565182,
+        "num": 565182,
+        "word": "二十三岁的恋爱",
+        "onboard_time": 1687766270,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461469,
+        "num": 461469,
+        "word": "男孩估分700结果真考700分",
+        "onboard_time": 1687767285,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636186,
+        "num": 460511,
+        "word": "工作人员说小S节目停播是巧合",
+        "onboard_time": 1687779820,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459272,
+        "num": 459272,
+        "word": "妹妹考了702分却哭了一下午",
+        "onboard_time": 1687785643,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439537,
+        "num": 439537,
+        "word": "卤汤从头浇下9月大婴儿被重度烫伤",
+        "onboard_time": 1687770348,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419806,
+        "num": 419806,
+        "word": "齐思钧 身体一直没有彻底康复",
+        "onboard_time": 1687768061,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407307,
+        "num": 407307,
+        "word": "消失的她 海边牵手照",
+        "onboard_time": 1687782041,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388886,
+        "num": 388886,
+        "word": "TES阵容",
+        "onboard_time": 1687782468,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381650,
+        "num": 381650,
+        "word": "曝周杰伦女儿将入学澳洲贵族名校",
+        "onboard_time": 1687765669,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346496,
+        "num": 346496,
+        "word": "董事长回应祝贺高管女儿获高考状元",
+        "onboard_time": 1687763208,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315120,
+        "num": 344034,
+        "word": "Jennie的演技",
+        "onboard_time": 1687769330,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298530,
+        "num": 342243,
+        "word": "2022中央财政赤字26500亿元",
+        "onboard_time": 1687771848,
+        "rank": 19,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 517837,
+        "num": 339935,
+        "word": "WE零封TES",
+        "onboard_time": 1687784804,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459076,
+        "num": 336107,
+        "word": "给你一个亿但永远不能吹空调",
+        "onboard_time": 1687782882,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379931,
+        "num": 335434,
+        "word": "学信网显示结业女子错失月薪4万工作",
+        "onboard_time": 1687764950,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 333477,
+        "num": 333477,
+        "word": "宋轶和张睿是同学",
+        "onboard_time": 1687782595,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324147,
+        "num": 324147,
+        "word": "这玩具千万别卖到我家这儿",
+        "onboard_time": 1687781622,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306808,
+        "num": 306808,
+        "word": "男子举报妻子出轨南京一高校领导",
+        "onboard_time": 1687771791,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278603,
+        "num": 278603,
+        "word": "浙江9所野鸡大学",
+        "onboard_time": 1687784923,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 278453,
+        "num": 278453,
+        "word": "妇联回应男孩躲窗外被打跳下5楼",
+        "onboard_time": 1687778864,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255735,
+        "num": 255735,
+        "word": "当我飞奔向你",
+        "onboard_time": 1687777543,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252390,
+        "num": 252390,
+        "word": "偷偷藏不住",
+        "onboard_time": 1687778502,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480623,
+        "num": 251143,
+        "word": "当我被00后下属骂了",
+        "onboard_time": 1687783784,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340079,
+        "num": 250997,
+        "word": "新学的一招恶心别人的方法",
+        "onboard_time": 1687785102,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249332,
+        "num": 249332,
+        "word": "TES对战WE",
+        "onboard_time": 1687781923,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241424,
+        "num": 241424,
+        "word": "最近广东人的大拇指都是黑的",
+        "onboard_time": 1687783302,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222613,
+        "num": 222613,
+        "word": "懒羊羊为什么那么喜欢睡觉",
+        "onboard_time": 1687782882,
+        "rank": 34,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 213362,
+        "num": 213362,
+        "word": "坐姿出卖了你的性格和爱情",
+        "onboard_time": 1687772207,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211899,
+        "num": 211899,
+        "word": "你会为了7万提前结束产假吗",
+        "onboard_time": 1687775025,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209644,
+        "num": 209644,
+        "word": "刘芸管控郑钧从头到脚",
+        "onboard_time": 1687757888,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203901,
+        "num": 203901,
+        "word": "父亲抛弃患癌儿子治愈后又想要回",
+        "onboard_time": 1687777482,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200137,
+        "num": 200137,
+        "word": "健身教练吸毒一个多月暴瘦70斤",
+        "onboard_time": 1687785884,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194176,
+        "num": 194176,
+        "word": "快乐的大人",
+        "onboard_time": 1687785584,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190234,
+        "num": 190234,
+        "word": "缉毒警说不想再因缉毒而立功",
+        "onboard_time": 1687773769,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184180,
+        "num": 184180,
+        "word": "长风渡化妆盒吴磊肯定喜欢",
+        "onboard_time": 1687783966,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174221,
+        "num": 174221,
+        "word": "女生穿马面裙参加毕业典礼",
+        "onboard_time": 1687779999,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173836,
+        "num": 173836,
+        "word": "腾讯视频Q3备播剧",
+        "onboard_time": 1687775806,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166701,
+        "num": 166701,
+        "word": "广东中考 石斑鱼",
+        "onboard_time": 1687780301,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150244,
+        "num": 150244,
+        "word": "甜椒老公 以后说话做事都会先过脑子",
+        "onboard_time": 1687779638,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148955,
+        "num": 148955,
+        "word": "一盆熊猫原来长这样",
+        "onboard_time": 1687786006,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147721,
+        "num": 147721,
+        "word": "夫妻欠债百万玩失踪老父亲凑钱还款",
+        "onboard_time": 1687775204,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146700,
+        "num": 146700,
+        "word": "医生是这样评估口臭的",
+        "onboard_time": 1687780722,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#禁毒战线隐形守护者#"
+    }
+  }
+}

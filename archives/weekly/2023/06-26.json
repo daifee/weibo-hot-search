@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687784209723,
+  "endTime": 1687786071380,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1786737,
+      "num": 1391489,
+      "word": "周深美依礼芽合作上了",
+      "onboard_time": 1687783128,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1765012,
       "num": 1765012,
       "word": "从胃炎到胃癌",
@@ -105,6 +113,14 @@
       "onboard_time": 1687758963,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1524053,
+      "num": 1524053,
+      "word": "新京报评偷偷藏不住",
+      "onboard_time": 1687781622,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 1478331,
@@ -233,14 +249,6 @@
       "onboard_time": 1687752361,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 912612,
-      "num": 912612,
-      "word": "周深美依礼芽合作上了",
-      "onboard_time": 1687783128,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 890345,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653446,
+      "num": 653446,
+      "word": "朱一龙心里万了一骂句",
+      "onboard_time": 1687781622,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 648433,
       "num": 648433,
       "word": "Jennie的演技",
@@ -443,11 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589624,
-      "num": 589624,
-      "word": "新京报评偷偷藏不住",
-      "onboard_time": 1687781622,
-      "rank": 34,
+      "raw_hot": 594709,
+      "num": 594709,
+      "word": "段嘉许 男狐狸精",
+      "onboard_time": 1687785405,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 547821,
-      "num": 335280,
+      "num": 336107,
       "word": "给你一个亿但永远不能吹空调",
       "onboard_time": 1687782882,
       "rank": 23,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517837,
+      "num": 339935,
+      "word": "WE零封TES",
+      "onboard_time": 1687784804,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 510264,
       "num": 510264,
       "word": "偷偷藏不住播出的效应",
@@ -593,6 +617,14 @@
       "onboard_time": 1687700500,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 480623,
+      "num": 256984,
+      "word": "当我被00后下属骂了",
+      "onboard_time": 1687783784,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 469462,
@@ -632,6 +664,14 @@
       "word": "这玩具千万别卖到我家这儿",
       "onboard_time": 1687781622,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 459272,
+      "num": 459272,
+      "word": "妹妹考了702分却哭了一下午",
+      "onboard_time": 1687785643,
+      "rank": 11,
       "category": "幽默"
     },
     {
@@ -963,12 +1003,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 337189,
-      "num": 337189,
-      "word": "朱一龙心里万了一骂句",
-      "onboard_time": 1687781622,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 340079,
+      "num": 250997,
+      "word": "新学的一招恶心别人的方法",
+      "onboard_time": 1687785102,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 334884,
@@ -993,6 +1033,14 @@
       "onboard_time": 1687761290,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333477,
+      "num": 333477,
+      "word": "宋轶和张睿是同学",
+      "onboard_time": 1687782595,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332611,
@@ -1097,14 +1145,6 @@
       "onboard_time": 1687738291,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312751,
-      "num": 312751,
-      "word": "宋轶和张睿是同学",
-      "onboard_time": 1687782595,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 309139,
@@ -1251,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278603,
+      "num": 278603,
+      "word": "浙江9所野鸡大学",
+      "onboard_time": 1687784923,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 278571,
       "num": 278571,
       "word": "为什么许多年轻人不想结婚",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1687775867,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267185,
-      "num": 256984,
-      "word": "当我被00后下属骂了",
-      "onboard_time": 1687783784,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 264748,
@@ -1435,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249332,
+      "num": 249332,
+      "word": "TES对战WE",
+      "onboard_time": 1687781923,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248957,
       "num": 248957,
       "word": "中国婚礼",
@@ -1531,6 +1579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 222613,
+      "num": 222613,
+      "word": "懒羊羊为什么那么喜欢睡觉",
+      "onboard_time": 1687782882,
+      "rank": 45,
+      "category": "情感,动漫"
+    },
+    {
       "raw_hot": 222083,
       "num": 222083,
       "word": "严浩翔说今天我是队长",
@@ -1619,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206357,
-      "num": 206357,
-      "word": "TES对战WE",
-      "onboard_time": 1687781923,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204205,
       "num": 204205,
       "word": "顾九思的衣柜",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1687741471,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200137,
+      "num": 200137,
+      "word": "健身教练吸毒一个多月暴瘦70斤",
+      "onboard_time": 1687785884,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199882,
@@ -1699,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194176,
+      "num": 194176,
+      "word": "快乐的大人",
+      "onboard_time": 1687785584,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
@@ -1723,14 +1787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189457,
-      "num": 189457,
-      "word": "懒羊羊为什么那么喜欢睡觉",
-      "onboard_time": 1687782882,
-      "rank": 45,
-      "category": "情感,动漫"
-    },
-    {
       "raw_hot": 186850,
       "num": 186850,
       "word": "湖南禁毒联合密逃科普禁毒宣传",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1687701578,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184180,
+      "num": 184180,
+      "word": "长风渡化妆盒吴磊肯定喜欢",
+      "onboard_time": 1687783966,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 183711,
@@ -1867,14 +1931,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 163407,
-      "num": 180862,
-      "word": "长风渡化妆盒吴磊肯定喜欢",
-      "onboard_time": 1687783966,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162734,
       "num": 455998,
       "word": "赫莲娜特斯拉官宣",
@@ -1952,6 +2008,14 @@
       "word": "一张银片锤打50多万次后变身银壶",
       "onboard_time": 1687733841,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148955,
+      "num": 148955,
+      "word": "一盆熊猫原来长这样",
+      "onboard_time": 1687786006,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2115,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112289,
+      "num": 1281080,
+      "word": "我国拟立法保障粮食安全",
+      "onboard_time": 1687783489,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112233,
       "num": 112233,
       "word": "嘴里五味暗示身体问题",
@@ -2176,14 +2248,6 @@
       "word": "女儿每次回家爸爸都在地铁口等候",
       "onboard_time": 1687735104,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57315,
-      "num": 874506,
-      "word": "我国拟立法保障粮食安全",
-      "onboard_time": 1687783489,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
