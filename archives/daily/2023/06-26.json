@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687756757987,
+  "endTime": 1687757799546,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -531,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328605,
+      "num": 320678,
+      "word": "南京200多斤野猪把玻璃门撞到粉碎",
+      "onboard_time": 1687752721,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326056,
       "num": 326056,
       "word": "睡梦中躲虫子把自己弄骨折了",
@@ -555,6 +563,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 322522,
+      "num": 568755,
+      "word": "林志颖 你们的仲天骐又回来了",
+      "onboard_time": 1687755619,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319126,
       "num": 319126,
       "word": "朱一龙事业运",
@@ -571,19 +587,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 317810,
+      "num": 317810,
+      "word": "张雨绮贵姐vs柜姐",
+      "onboard_time": 1687743931,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313203,
       "num": 313203,
       "word": "广东老鼠下雨天搓澡",
       "onboard_time": 1687738291,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311568,
-      "num": 311568,
-      "word": "南京200多斤野猪把玻璃门撞到粉碎",
-      "onboard_time": 1687752721,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -617,14 +633,6 @@
       "onboard_time": 1687705234,
       "rank": 18,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 303018,
-      "num": 303018,
-      "word": "张雨绮贵姐vs柜姐",
-      "onboard_time": 1687743931,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 302154,
@@ -811,6 +819,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 250272,
+      "num": 250272,
+      "word": "偷偷藏不住播出的效应",
+      "onboard_time": 1687756811,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250109,
       "num": 232231,
       "word": "汤唯 兔子警官",
@@ -955,20 +971,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193553,
+      "num": 193553,
+      "word": "女篮李梦",
+      "onboard_time": 1687757349,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189758,
       "num": 189758,
       "word": "偷偷藏不住吻戏什么时候来",
       "onboard_time": 1687715237,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186740,
-      "num": 568755,
-      "word": "林志颖 你们的仲天骐又回来了",
-      "onboard_time": 1687755619,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 186718,
@@ -1027,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175993,
+      "num": 175993,
+      "word": "中国女篮",
+      "onboard_time": 1687756511,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169525,
       "num": 169525,
       "word": "大叔把学生不要的旧鞋洗成新鞋",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1687756098,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 158818,
+      "num": 158818,
+      "word": "小哥自己改的心形镂空刺绣衬衫",
+      "onboard_time": 1687757173,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 156601,
@@ -1107,14 +1139,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 139201,
-      "num": 166882,
-      "word": "中国女篮",
-      "onboard_time": 1687756511,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "穆祉丞中考627分",
@@ -1123,12 +1147,20 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 137026,
+      "raw_hot": 137413,
       "num": 159967,
       "word": "公主花苞头教程",
       "onboard_time": 1687756168,
       "rank": 48,
       "category": "时尚,美妆"
+    },
+    {
+      "raw_hot": 130396,
+      "num": 130396,
+      "word": "复读女生暴涨104分弟弟激动跃起",
+      "onboard_time": 1687757651,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129970,
