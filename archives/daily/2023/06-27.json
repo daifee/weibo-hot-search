@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687873065049,
+  "endTime": 1687875472750,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -35,8 +35,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3335884,
+      "num": 3335884,
+      "word": "周鸿祎被清华录取",
+      "onboard_time": 1687872581,
+      "rank": 9,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 3016941,
-      "num": 581158,
+      "num": 722064,
       "word": "内娱影圈四大顶流",
       "onboard_time": 1687866458,
       "rank": 10,
@@ -121,6 +129,14 @@
       "onboard_time": 1687824821,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2181549,
+      "num": 1447741,
+      "word": "肖战王一博早期吃火锅视频",
+      "onboard_time": 1687872522,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2097112,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1633499,
+      "num": 1633499,
+      "word": "山东东营警方回应男子驾车反复碾压女子",
+      "onboard_time": 1687872880,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1632971,
       "num": 1632971,
       "word": "女子找工作政审发现自己被坐过牢",
@@ -249,14 +273,6 @@
       "onboard_time": 1687826562,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1447741,
-      "num": 1447741,
-      "word": "肖战王一博早期吃火锅视频",
-      "onboard_time": 1687872522,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1358002,
@@ -307,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1243980,
+      "num": 1243980,
+      "word": "那些和经纪人结婚的艺人",
+      "onboard_time": 1687872038,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1222400,
       "num": 1222400,
       "word": "差点认不出张艺兴",
@@ -315,19 +339,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1218608,
+      "num": 1218608,
+      "word": "于斌多发点",
+      "onboard_time": 1687871261,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1161520,
       "num": 939348,
       "word": "才知道文咏珊已经结婚了",
       "onboard_time": 1687848637,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1150226,
-      "num": 1150226,
-      "word": "于斌多发点",
-      "onboard_time": 1687871261,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -459,14 +483,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 975925,
-      "num": 578158,
-      "word": "那些和经纪人结婚的艺人",
-      "onboard_time": 1687872038,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 960114,
       "num": 960114,
       "word": "有人劝我结婚我就捧杀对方",
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 947818,
-      "num": 563283,
+      "num": 577362,
       "word": "陈建州曾邀沈玉琳进暗黑群组",
       "onboard_time": 1687869703,
       "rank": 30,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889262,
+      "num": 889262,
+      "word": "考经纪人证",
+      "onboard_time": 1687871860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 889045,
       "num": 889045,
       "word": "曾黎 谁说我今天像去参加婚礼了",
@@ -579,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 779203,
+      "num": 716481,
+      "word": "东营",
+      "onboard_time": 1687871499,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766574,
       "num": 766574,
       "word": "高铁调座椅弄撒了后座的泡面",
@@ -609,6 +641,14 @@
       "onboard_time": 1687825723,
       "rank": 8,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 730595,
+      "num": 730595,
+      "word": "当我飞奔向你",
+      "onboard_time": 1687873307,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 726299,
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 710918,
+      "num": 710918,
+      "word": "网传男子开车反复碾轧女子事发山东东营",
+      "onboard_time": 1687873965,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690571,
       "num": 690571,
       "word": "清洁工嫌吵关电源致25年成果被毁",
@@ -665,14 +713,6 @@
       "onboard_time": 1687856501,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 683235,
-      "num": 578008,
-      "word": "东营",
-      "onboard_time": 1687871499,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682945,
@@ -707,12 +747,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 662991,
+      "num": 662991,
+      "word": "鹿晗广州演唱会告知声明",
+      "onboard_time": 1687872343,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 656829,
       "num": 656829,
       "word": "陈建州范玮琪2011年完婚",
       "onboard_time": 1687848035,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 653552,
+      "num": 531596,
+      "word": "最长的接吻居然长达58小时",
+      "onboard_time": 1687861898,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 644626,
@@ -729,14 +785,6 @@
       "onboard_time": 1687847798,
       "rank": 44,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 631977,
-      "num": 531596,
-      "word": "最长的接吻居然长达58小时",
-      "onboard_time": 1687861898,
-      "rank": 37,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 627866,
@@ -787,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596952,
+      "num": 596952,
+      "word": "公司logo是董事长",
+      "onboard_time": 1687872943,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 593679,
       "num": 593679,
       "word": "偷偷藏不住发布会",
@@ -803,14 +859,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 579384,
-      "num": 579384,
-      "word": "周鸿祎被清华录取",
-      "onboard_time": 1687872581,
-      "rank": 9,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 577196,
       "num": 577196,
       "word": "韩国越来越多商铺设立禁儿童区",
@@ -823,14 +871,6 @@
       "num": 576761,
       "word": "萧敬腾下个雨庆祝一下吧",
       "onboard_time": 1687870301,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 566951,
-      "num": 577208,
-      "word": "考经纪人证",
-      "onboard_time": 1687871860,
       "rank": 26,
       "category": "艺人"
     },
@@ -1235,6 +1275,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376221,
+      "num": 376221,
+      "word": "实习护士被要求给医生洗衣服",
+      "onboard_time": 1687873065,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 374684,
+      "num": 374684,
+      "word": "萧敬腾伴郎团会有谁",
+      "onboard_time": 1687875406,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372804,
+      "num": 372804,
+      "word": "清醒恋爱脑",
+      "onboard_time": 1687873906,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 356078,
       "num": 416624,
       "word": "鲁A大哥带一箱礼物去认干闺女",
@@ -1299,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336048,
-      "num": 336048,
-      "word": "鹿晗广州演唱会告知声明",
-      "onboard_time": 1687872343,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 335653,
       "num": 335653,
       "word": "女儿为53岁父亲高考查分选大学",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1687832916,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325464,
-      "num": 325464,
-      "word": "公司logo是董事长",
-      "onboard_time": 1687872943,
-      "rank": 32,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 324805,
@@ -1432,6 +1480,14 @@
       "word": "别人挡酒王宝强直播挡奶",
       "onboard_time": 1687845518,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316028,
+      "num": 316028,
+      "word": "消失的她彩蛋",
+      "onboard_time": 1687874084,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1593,6 +1649,14 @@
       "onboard_time": 1687789007,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285554,
+      "num": 285554,
+      "word": "她是懂上班防窥屏的",
+      "onboard_time": 1687875043,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 284737,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1687868258,
       "rank": 44,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 245391,
+      "num": 245391,
+      "word": "父母职业会影响你的高考志愿吗",
+      "onboard_time": 1687874506,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 244916,
@@ -1987,6 +2059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211815,
+      "num": 375360,
+      "word": "考前突发气胸的男孩考了630分",
+      "onboard_time": 1687875228,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 211709,
       "num": 211709,
       "word": "女篮",
@@ -2009,14 +2089,6 @@
       "onboard_time": 1687863161,
       "rank": 39,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 207661,
-      "num": 207661,
-      "word": "山东东营警方回应男子驾车反复碾压女子",
-      "onboard_time": 1687872880,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204660,
@@ -2315,6 +2387,14 @@
       "category": "情感,动漫"
     },
     {
+      "raw_hot": 166181,
+      "num": 241031,
+      "word": "一定要学露思的变美思路",
+      "onboard_time": 1687870662,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 165536,
       "num": 156011,
       "word": "男子举报妻子出轨南京一高校领导",
@@ -2588,7 +2668,7 @@
     },
     {
       "raw_hot": 111473,
-      "num": 1664184,
+      "num": 1769946,
       "word": "达沃斯在天津",
       "onboard_time": 1687851157,
       "rank": 2,
@@ -2656,6 +2736,14 @@
       "word": "我国拟立法保障粮食安全",
       "onboard_time": 1687783489,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59519,
+      "num": 681007,
+      "word": "高考生突发气胸被守护如今想学医",
+      "onboard_time": 1687874443,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
