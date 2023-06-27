@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687851258560,
+  "endTime": 1687854273956,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -33,6 +33,14 @@
       "onboard_time": 1687849475,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2318431,
+      "num": 2318431,
+      "word": "前男友居然去做了变性手术",
+      "onboard_time": 1687847617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 2286332,
@@ -75,27 +83,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2009647,
-      "num": 2009647,
-      "word": "前男友居然去做了变性手术",
-      "onboard_time": 1687847617,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 2003124,
-      "num": 1243728,
-      "word": "范玮琪支持老公陈建州",
-      "onboard_time": 1687847496,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1800302,
+      "raw_hot": 2026421,
       "num": 945169,
       "word": "蓝正龙周幼婷被曝离婚",
       "onboard_time": 1687850377,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2003124,
+      "num": 1509664,
+      "word": "范玮琪支持老公陈建州",
+      "onboard_time": 1687847496,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1687826562,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1481768,
+      "num": 903139,
+      "word": "陈建州大牙行程对上了",
+      "onboard_time": 1687851099,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1358002,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100021,
+      "num": 1100021,
+      "word": "差点认不出张艺兴",
+      "onboard_time": 1687849178,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1097942,
       "num": 1097942,
       "word": "杭州女子养仓鼠脸烂成火龙果",
@@ -257,14 +273,6 @@
       "onboard_time": 1687838744,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1004200,
-      "num": 1004200,
-      "word": "差点认不出张艺兴",
-      "onboard_time": 1687849178,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1001336,
@@ -395,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 715986,
+      "num": 715986,
+      "word": "上海游泳馆设女性专用泳道",
+      "onboard_time": 1687850258,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 714128,
       "num": 686575,
       "word": "大牙",
@@ -409,14 +425,6 @@
       "onboard_time": 1687840732,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 705853,
-      "num": 566361,
-      "word": "陈建州大牙行程对上了",
-      "onboard_time": 1687851099,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 690571,
@@ -483,6 +491,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 624933,
+      "num": 624933,
+      "word": "虫虫 你人还怪好的嘞",
+      "onboard_time": 1687848218,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 609327,
       "num": 609327,
       "word": "夫妇颜值差异过大被疑婚姻动机不纯",
@@ -531,12 +547,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 561672,
-      "num": 463866,
-      "word": "虫虫 你人还怪好的嘞",
-      "onboard_time": 1687848218,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 552471,
+      "num": 552471,
+      "word": "何非没拔李木子的氧气罐",
+      "onboard_time": 1687848276,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 547472,
@@ -545,14 +561,6 @@
       "onboard_time": 1687836037,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546628,
-      "num": 546628,
-      "word": "何非没拔李木子的氧气罐",
-      "onboard_time": 1687848276,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 544891,
@@ -627,12 +635,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481428,
+      "num": 310355,
+      "word": "在尿都憋不住的年纪他却还想憋住情绪",
+      "onboard_time": 1687852899,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 480461,
+      "num": 405302,
+      "word": "Angelababy文咏珊合照",
+      "onboard_time": 1687848758,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 478346,
       "num": 386523,
       "word": "谁给了迪士尼乐园涨价的勇气",
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 472149,
+      "num": 400218,
+      "word": "沈腾马丽版偷偷笑不死",
+      "onboard_time": 1687853199,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 471474,
@@ -657,14 +689,6 @@
       "onboard_time": 1687826863,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 453692,
-      "num": 405302,
-      "word": "Angelababy文咏珊合照",
-      "onboard_time": 1687848758,
-      "rank": 23,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 434869,
@@ -739,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400650,
+      "num": 400650,
+      "word": "卫健委回应夫妻先后把对方送精神病院",
+      "onboard_time": 1687851760,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400162,
       "num": 400162,
       "word": "同事上完厕所一直不冲马桶",
@@ -753,6 +785,14 @@
       "onboard_time": 1687840615,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397289,
+      "num": 397289,
+      "word": "9岁男孩跪地向新郎爸爸要出生证明",
+      "onboard_time": 1687852597,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395184,
@@ -817,14 +857,6 @@
       "onboard_time": 1687842171,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362592,
-      "num": 362592,
-      "word": "上海游泳馆设女性专用泳道",
-      "onboard_time": 1687850258,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 350939,
@@ -995,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303250,
+      "num": 303250,
+      "word": "赵露思撞脸懒羊羊",
+      "onboard_time": 1687851399,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 302413,
       "num": 302413,
       "word": "张艺凡你的芭蕾是这样用的吗",
@@ -1011,8 +1051,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 299313,
-      "num": 299313,
+      "raw_hot": 299772,
+      "num": 299772,
       "word": "花900万日元换头面目全非",
       "onboard_time": 1687850139,
       "rank": 47,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1687844558,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292320,
+      "num": 292320,
+      "word": "马伯骞没去发布会的原因",
+      "onboard_time": 1687850620,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 292179,
@@ -1123,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261920,
+      "num": 261920,
+      "word": "发现了让工作日变短的方法",
+      "onboard_time": 1687851459,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256022,
       "num": 364321,
       "word": "1岁娃边哭边窥探敌情",
@@ -1147,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252141,
-      "num": 252141,
-      "word": "马伯骞没去发布会的原因",
-      "onboard_time": 1687850620,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251226,
       "num": 251226,
       "word": "从5楼跳下男童双腿骨折无生命危险",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1687796733,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 248853,
+      "num": 248853,
+      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
+      "onboard_time": 1687853977,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 244312,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1687839529,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238173,
+      "num": 238173,
+      "word": "男子学医从帅哥突变潦草医生",
+      "onboard_time": 1687853677,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237481,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1687821624,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188214,
+      "num": 188214,
+      "word": "你梦见啥啦",
+      "onboard_time": 1687853798,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 186973,
@@ -1731,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105375,
+      "num": 1574385,
+      "word": "达沃斯在天津",
+      "onboard_time": 1687851157,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100129,
       "num": 103646,
       "word": "兰大录取通知书还送碗牛肉面",
@@ -1811,20 +1891,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42866,
+      "num": 624618,
+      "word": "小微观察站年度演讲",
+      "onboard_time": 1687852837,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 41920,
       "num": 38030,
       "word": "伊斯坦布尔 爱猫之城",
       "onboard_time": 1687808715,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 36869,
-      "num": 1574385,
-      "word": "达沃斯在天津",
-      "onboard_time": 1687851157,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28065,
