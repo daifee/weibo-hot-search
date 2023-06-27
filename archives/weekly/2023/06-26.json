@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687905378715,
+  "endTime": 1687907939568,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -209,6 +209,14 @@
       "onboard_time": 1687704878,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2163445,
+      "num": 2163445,
+      "word": "江西航空",
+      "onboard_time": 1687881220,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2097112,
@@ -464,14 +472,6 @@
       "word": "警方通报男子反复碾压女子致死",
       "onboard_time": 1687880382,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1371036,
-      "num": 1371036,
-      "word": "江西航空",
-      "onboard_time": 1687881220,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1795,6 +1795,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 477340,
+      "num": 477340,
+      "word": "张雪峰",
+      "onboard_time": 1687903214,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 471474,
       "num": 471474,
       "word": "岳云鹏演王一博小舅",
@@ -2235,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392264,
+      "num": 392264,
+      "word": "医院回应女子被司机反复碾轧遇害",
+      "onboard_time": 1687883074,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388221,
       "num": 388221,
       "word": "摇号",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1687759799,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366427,
-      "num": 366427,
-      "word": "医院回应女子被司机反复碾轧遇害",
-      "onboard_time": 1687883074,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365857,
@@ -3145,6 +3153,14 @@
       "onboard_time": 1687752538,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282847,
+      "num": 282847,
+      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+      "onboard_time": 1687889537,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279208,
@@ -4707,6 +4723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159331,
+      "num": 159331,
+      "word": "虞书欣也没有脚脖子",
+      "onboard_time": 1687907724,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159106,
       "num": 185974,
       "word": "山洪突发女子大喊救下多人",
@@ -4811,6 +4835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149453,
+      "num": 149453,
+      "word": "韩国犯罪电影看完令人绝望",
+      "onboard_time": 1687891214,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149016,
       "num": 149016,
       "word": "一张银片锤打50多万次后变身银壶",
@@ -4891,14 +4923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135873,
-      "num": 135873,
-      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
-      "onboard_time": 1687889537,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133807,
       "num": 133807,
       "word": "肖春生佟晓梅故地重游",
@@ -4923,12 +4947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132946,
-      "num": 132946,
-      "word": "张雪峰",
-      "onboard_time": 1687903214,
-      "rank": 27,
-      "category": "教育,社会新闻"
+      "raw_hot": 133110,
+      "num": 133110,
+      "word": "六公主拍的Angelababy",
+      "onboard_time": 1687907784,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129970,
@@ -5179,6 +5203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100603,
+      "num": 100603,
+      "word": "花臂大哥扎针3护士20分钟才找到血管",
+      "onboard_time": 1687907303,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100129,
       "num": 103646,
       "word": "兰大录取通知书还送碗牛肉面",
@@ -5211,12 +5243,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85889,
-      "num": 85889,
-      "word": "韩国犯罪电影看完令人绝望",
-      "onboard_time": 1687891214,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 89023,
+      "num": 89023,
+      "word": "原来这就是知识改变命运",
+      "onboard_time": 1687906943,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87114,
+      "num": 87114,
+      "word": "82版西游记主创挂念的苏州演员找到了",
+      "onboard_time": 1687906943,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83210,
+      "num": 84936,
+      "word": "杭州比格犬耳朵卡入碎纸机被救出",
+      "onboard_time": 1687883850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82080,
+      "num": 82080,
+      "word": "这大概是深圳最火的摆摊了",
+      "onboard_time": 1687885763,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 81229,
@@ -5225,14 +5281,6 @@
       "onboard_time": 1687693894,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77578,
-      "num": 84936,
-      "word": "杭州比格犬耳朵卡入碎纸机被救出",
-      "onboard_time": 1687883850,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72374,
@@ -5265,14 +5313,6 @@
       "onboard_time": 1687735104,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67519,
-      "num": 67519,
-      "word": "这大概是深圳最火的摆摊了",
-      "onboard_time": 1687885763,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 61744,

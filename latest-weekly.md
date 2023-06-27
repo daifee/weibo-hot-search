@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/26 00:24:04 ~ 2023/06/28 06:36:18
+本榜单时间：2023/06/26 00:24:04 ~ 2023/06/28 07:18:59
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@ TF三代吵架（热度：2575314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23" target="weibo">
 这些都是野鸡大学（热度：2168711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%23" target="weibo">
+江西航空（热度：2163445）
 </a>
 </li>
 
@@ -359,12 +365,6 @@ iPhone15Pro将成主打产品（热度：2097112）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23" target="weibo">
 警方通报男子反复碾压女子致死（热度：1404625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%23" target="weibo">
-江西航空（热度：1371036）
 </a>
 </li>
 
@@ -1359,6 +1359,12 @@ Angelababy文咏珊合照（热度：480461）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
+张雪峰（热度：477340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%BC%94%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B0%8F%E8%88%85%23" target="weibo">
 岳云鹏演王一博小舅（热度：471474）
 </a>
@@ -1689,6 +1695,12 @@ FPX战胜WBG（热度：411542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23" target="weibo">
+医院回应女子被司机反复碾轧遇害（热度：392264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E5%8F%B7%23" target="weibo">
 摇号（热度：388221）
 </a>
@@ -1811,12 +1823,6 @@ iPhone手机拍照是什么水平（热度：377239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E6%BC%94%E7%9A%84%E5%BC%A0%E9%99%86%E8%AE%A9%23" target="weibo">
 周翊然演的张陆让（热度：370491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23" target="weibo">
-医院回应女子被司机反复碾轧遇害（热度：366427）
 </a>
 </li>
 
@@ -2369,6 +2375,12 @@ Fly未入选亚运会（热度：302154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%91%8A%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84%23" target="weibo">
 真正的告别是什么样子的（热度：282978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%BC%84%E5%A0%82%E8%B9%AD%E9%A5%AD%E7%A2%B0%E5%A3%81%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
+陌生男子到上海弄堂蹭饭碰壁引热议（热度：282847）
 </a>
 </li>
 
@@ -3543,6 +3555,12 @@ LPL（热度：218494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%84%9A%E8%84%96%E5%AD%90%23" target="weibo">
+虞书欣也没有脚脖子（热度：159331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B4%AA%E7%AA%81%E5%8F%91%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%96%8A%E6%95%91%E4%B8%8B%E5%A4%9A%E4%BA%BA%23" target="weibo">
 山洪突发女子大喊救下多人（热度：159106）
 </a>
@@ -3621,6 +3639,12 @@ BLG对战iG（热度：152531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%8A%AF%E7%BD%AA%E7%94%B5%E5%BD%B1%E7%9C%8B%E5%AE%8C%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%23" target="weibo">
+韩国犯罪电影看完令人绝望（热度：149453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E9%93%B6%E7%89%87%E9%94%A4%E6%89%9350%E5%A4%9A%E4%B8%87%E6%AC%A1%E5%90%8E%E5%8F%98%E8%BA%AB%E9%93%B6%E5%A3%B6%23" target="weibo">
 一张银片锤打50多万次后变身银壶（热度：149016）
 </a>
@@ -3681,12 +3705,6 @@ BLG对战iG（热度：152531）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%BC%84%E5%A0%82%E8%B9%AD%E9%A5%AD%E7%A2%B0%E5%A3%81%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
-陌生男子到上海弄堂蹭饭碰壁引热议（热度：135873）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E4%BD%9F%E6%99%93%E6%A2%85%E6%95%85%E5%9C%B0%E9%87%8D%E6%B8%B8%23" target="weibo">
 肖春生佟晓梅故地重游（热度：133807）
 </a>
@@ -3705,8 +3723,8 @@ BLG对战iG（热度：152531）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
-张雪峰（热度：132946）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8B%8D%E7%9A%84Angelababy%23" target="weibo">
+六公主拍的Angelababy（热度：133110）
 </a>
 </li>
 
@@ -3897,6 +3915,12 @@ U19（热度：126281）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%87%82%E5%A4%A7%E5%93%A5%E6%89%8E%E9%92%883%E6%8A%A4%E5%A3%AB20%E5%88%86%E9%92%9F%E6%89%8D%E6%89%BE%E5%88%B0%E8%A1%80%E7%AE%A1%23" target="weibo">
+花臂大哥扎针3护士20分钟才找到血管（热度：100603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%BF%98%E9%80%81%E7%A2%97%E7%89%9B%E8%82%89%E9%9D%A2%23" target="weibo">
 兰大录取通知书还送碗牛肉面（热度：100129）
 </a>
@@ -3921,20 +3945,32 @@ U19（热度：126281）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%8A%AF%E7%BD%AA%E7%94%B5%E5%BD%B1%E7%9C%8B%E5%AE%8C%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%23" target="weibo">
-韩国犯罪电影看完令人绝望（热度：85889）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E7%9F%A5%E8%AF%86%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90%23" target="weibo">
+原来这就是知识改变命运（热度：89023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2382%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E5%88%9B%E6%8C%82%E5%BF%B5%E7%9A%84%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%91%98%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+82版西游记主创挂念的苏州演员找到了（热度：87114）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%AF%94%E6%A0%BC%E7%8A%AC%E8%80%B3%E6%9C%B5%E5%8D%A1%E5%85%A5%E7%A2%8E%E7%BA%B8%E6%9C%BA%E8%A2%AB%E6%95%91%E5%87%BA%23" target="weibo">
+杭州比格犬耳朵卡入碎纸机被救出（热度：83210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%A7%E6%A6%82%E6%98%AF%E6%B7%B1%E5%9C%B3%E6%9C%80%E7%81%AB%E7%9A%84%E6%91%86%E6%91%8A%E4%BA%86%23" target="weibo">
+这大概是深圳最火的摆摊了（热度：82080）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E4%BA%94%E5%85%AC%E6%B7%98%E6%B1%B0%23" target="weibo">
 浪姐4五公淘汰（热度：81229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%AF%94%E6%A0%BC%E7%8A%AC%E8%80%B3%E6%9C%B5%E5%8D%A1%E5%85%A5%E7%A2%8E%E7%BA%B8%E6%9C%BA%E8%A2%AB%E6%95%91%E5%87%BA%23" target="weibo">
-杭州比格犬耳朵卡入碎纸机被救出（热度：77578）
 </a>
 </li>
 
@@ -3959,12 +3995,6 @@ U19（热度：126281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%AF%8F%E6%AC%A1%E5%9B%9E%E5%AE%B6%E7%88%B8%E7%88%B8%E9%83%BD%E5%9C%A8%E5%9C%B0%E9%93%81%E5%8F%A3%E7%AD%89%E5%80%99%23" target="weibo">
 女儿每次回家爸爸都在地铁口等候（热度：67723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%A7%E6%A6%82%E6%98%AF%E6%B7%B1%E5%9C%B3%E6%9C%80%E7%81%AB%E7%9A%84%E6%91%86%E6%91%8A%E4%BA%86%23" target="weibo">
-这大概是深圳最火的摆摊了（热度：67519）
 </a>
 </li>
 
