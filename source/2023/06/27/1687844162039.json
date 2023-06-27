@@ -1,0 +1,410 @@
+{
+  "runTime": 1687844162039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554503,
+        "num": 1554503,
+        "word": "林生斌关联公司被吊销",
+        "onboard_time": 1687838079,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1261135,
+        "num": 1261135,
+        "word": "每小时100块你愿意加班吗",
+        "onboard_time": 1687833815,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66513,
+        "num": 964093,
+        "word": "用电影海报打开千万工程20年巨变",
+        "onboard_time": 1687839046,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7409073,
+        "num": 943686,
+        "word": "陈建州被指控性骚扰",
+        "onboard_time": 1687837780,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 896056,
+        "num": 896056,
+        "word": "骨折一个月腿瘦了一圈",
+        "onboard_time": 1687840378,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 892648,
+        "num": 892648,
+        "word": "男子消失的她映后影院求婚",
+        "onboard_time": 1687839284,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1168033,
+        "num": 876705,
+        "word": "陈建州否认性骚扰指控",
+        "onboard_time": 1687842347,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857865,
+        "num": 857865,
+        "word": "空姐结识男乘客染毒瘾后贩毒",
+        "onboard_time": 1687836400,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823697,
+        "num": 823697,
+        "word": "杭州女子养仓鼠脸烂成火龙果",
+        "onboard_time": 1687840132,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767200,
+        "num": 767200,
+        "word": "文咏珊非过没丑过",
+        "onboard_time": 1687838744,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765425,
+        "num": 765425,
+        "word": "考研二战我关闭了朋友圈一年",
+        "onboard_time": 1687839046,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 686707,
+        "num": 686707,
+        "word": "川大回应律所称不再招川大毕业生",
+        "onboard_time": 1687842046,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 686575,
+        "num": 686575,
+        "word": "大牙",
+        "onboard_time": 1687839106,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631920,
+        "num": 631920,
+        "word": "大牙经纪人回应指控陈建州性骚扰",
+        "onboard_time": 1687839648,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620168,
+        "num": 620168,
+        "word": "爸爸得了抑郁症 出门前拥抱他",
+        "onboard_time": 1687841390,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 606441,
+        "num": 606441,
+        "word": "韩素希吃棒棒糖姬达狂响",
+        "onboard_time": 1687841090,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 603532,
+        "num": 603532,
+        "word": "iPhone15Pro将成主打产品",
+        "onboard_time": 1687833815,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 593679,
+        "num": 593679,
+        "word": "偷偷藏不住发布会",
+        "onboard_time": 1687842583,
+        "rank": 17,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 544203,
+        "num": 544203,
+        "word": "清洁工嫌吵关电源致25年成果被毁",
+        "onboard_time": 1687836160,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 588431,
+        "num": 539196,
+        "word": "段嘉许车牌号是桑稚我爱你",
+        "onboard_time": 1687840732,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531892,
+        "num": 531892,
+        "word": "有人劝我结婚我就捧杀对方",
+        "onboard_time": 1687835137,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488021,
+        "num": 488021,
+        "word": "我国今年已有100万人买30万元以上汽车",
+        "onboard_time": 1687842943,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471474,
+        "num": 471474,
+        "word": "岳云鹏演王一博小舅",
+        "onboard_time": 1687842823,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425448,
+        "num": 425448,
+        "word": "文咏珊早几年都干嘛去了",
+        "onboard_time": 1687826562,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395785,
+        "num": 395785,
+        "word": "去医院查早孕被妈妈知道了",
+        "onboard_time": 1687823071,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392062,
+        "num": 392062,
+        "word": "Jennie新剧提前大结局",
+        "onboard_time": 1687841269,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376321,
+        "num": 376321,
+        "word": "第一只修成正果的大熊猫",
+        "onboard_time": 1687842171,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367105,
+        "num": 367105,
+        "word": "景甜内娱女菩萨",
+        "onboard_time": 1687821445,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349063,
+        "num": 349063,
+        "word": "王宝强金扫帚奖渊源",
+        "onboard_time": 1687840615,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309844,
+        "num": 338525,
+        "word": "1年不见父亲误把儿子当偷车贼",
+        "onboard_time": 1687841751,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 4134345,
+        "num": 338078,
+        "word": "陈建州 你范范姐就很不爱这种事啊",
+        "onboard_time": 1687838681,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560879,
+        "num": 338012,
+        "word": "男朋友发朋友圈官宣仅我可见",
+        "onboard_time": 1687842765,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 336333,
+        "num": 336333,
+        "word": "16岁中学生校内服毒自杀身亡",
+        "onboard_time": 1687832255,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336203,
+        "num": 336203,
+        "word": "何非连发誓都是用假手",
+        "onboard_time": 1687836578,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309079,
+        "num": 309079,
+        "word": "内推校友结果被她给开了",
+        "onboard_time": 1687842285,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294003,
+        "num": 294003,
+        "word": "海南考生881分想报北大",
+        "onboard_time": 1687826681,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 286130,
+        "num": 286130,
+        "word": "研究生毕业去见男方父母",
+        "onboard_time": 1687836460,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283554,
+        "num": 283554,
+        "word": "这猫是真的这么大吗还是特效",
+        "onboard_time": 1687842705,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273991,
+        "num": 273991,
+        "word": "朱一龙醉酒戏喝的是茶",
+        "onboard_time": 1687838502,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272637,
+        "num": 272637,
+        "word": "戴耳机睡觉结果耳机掉嘴里了",
+        "onboard_time": 1687835137,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271246,
+        "num": 271246,
+        "word": "女儿为53岁父亲高考查分选大学",
+        "onboard_time": 1687839954,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 270126,
+        "num": 270126,
+        "word": "黑人女孩的中国初体验",
+        "onboard_time": 1687836037,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255893,
+        "num": 255893,
+        "word": "夫妇颜值差异过大被疑婚姻动机不纯",
+        "onboard_time": 1687835137,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 239935,
+        "num": 239935,
+        "word": "陈哲远1天涨粉10万",
+        "onboard_time": 1687835917,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225120,
+        "num": 225120,
+        "word": "CCTV9回应长风渡",
+        "onboard_time": 1687835678,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223295,
+        "num": 223295,
+        "word": "毕业照只有一人没被马赛克",
+        "onboard_time": 1687828959,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219234,
+        "num": 219234,
+        "word": "梁朝伟61岁状态",
+        "onboard_time": 1687838020,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217326,
+        "num": 217326,
+        "word": "伊能静曾说陈哲远可以靠脸就红",
+        "onboard_time": 1687826863,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210472,
+        "num": 210472,
+        "word": "谁给了迪士尼乐园涨价的勇气",
+        "onboard_time": 1687828058,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 212217,
+        "num": 210170,
+        "word": "赵露思说陈哲远像村支书",
+        "onboard_time": 1687837899,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#党和国家事业的希望寄托在青年身上#"
+    }
+  }
+}
