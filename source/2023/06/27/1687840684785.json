@@ -1,0 +1,410 @@
+{
+  "runTime": 1687840684785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11545667,
+        "num": 11545667,
+        "word": "陈建州被指控性骚扰",
+        "onboard_time": 1687837780,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2286332,
+        "num": 2286332,
+        "word": "每小时100块你愿意加班吗",
+        "onboard_time": 1687833815,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60103,
+        "num": 1802191,
+        "word": "用电影海报打开千万工程20年巨变",
+        "onboard_time": 1687839046,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6319424,
+        "num": 1668378,
+        "word": "陈建州 你范范姐就很不爱这种事啊",
+        "onboard_time": 1687838681,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1479090,
+        "num": 1479090,
+        "word": "iPhone15Pro将成主打产品",
+        "onboard_time": 1687833815,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1268024,
+        "num": 1268024,
+        "word": "原来中医不让吃水果是真的",
+        "onboard_time": 1687824821,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 938506,
+        "num": 938506,
+        "word": "文咏珊非过没丑过",
+        "onboard_time": 1687838744,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912174,
+        "num": 912174,
+        "word": "有人劝我结婚我就捧杀对方",
+        "onboard_time": 1687835137,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 909699,
+        "num": 909699,
+        "word": "何非连发誓都是用假手",
+        "onboard_time": 1687836578,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 900536,
+        "num": 900536,
+        "word": "林生斌关联公司被吊销",
+        "onboard_time": 1687838079,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1042411,
+        "num": 889462,
+        "word": "大牙经纪人回应指控陈建州性骚扰",
+        "onboard_time": 1687839648,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817514,
+        "num": 817514,
+        "word": "毕业照只有一人没被马赛克",
+        "onboard_time": 1687828959,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 803131,
+        "num": 803131,
+        "word": "文咏珊早几年都干嘛去了",
+        "onboard_time": 1687826562,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714551,
+        "num": 714551,
+        "word": "空姐结识男乘客染毒瘾后贩毒",
+        "onboard_time": 1687836400,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793812,
+        "num": 708022,
+        "word": "男子消失的她映后影院求婚",
+        "onboard_time": 1687839284,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690571,
+        "num": 690571,
+        "word": "清洁工嫌吵关电源致25年成果被毁",
+        "onboard_time": 1687836160,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 633713,
+        "num": 633713,
+        "word": "考研二战我关闭了朋友圈一年",
+        "onboard_time": 1687839046,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574642,
+        "num": 574642,
+        "word": "CCTV9回应长风渡",
+        "onboard_time": 1687835678,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547472,
+        "num": 547472,
+        "word": "黑人女孩的中国初体验",
+        "onboard_time": 1687836037,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543541,
+        "num": 543541,
+        "word": "海南考生881分想报北大",
+        "onboard_time": 1687826681,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 701430,
+        "num": 540267,
+        "word": "大牙",
+        "onboard_time": 1687839106,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533378,
+        "num": 533378,
+        "word": "夫妇颜值差异过大被疑婚姻动机不纯",
+        "onboard_time": 1687835137,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 516389,
+        "num": 516389,
+        "word": "杭州女子养仓鼠脸烂成火龙果",
+        "onboard_time": 1687840132,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506441,
+        "num": 506441,
+        "word": "汶川县突发山洪泥石流7人失联",
+        "onboard_time": 1687836037,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501468,
+        "num": 501468,
+        "word": "去医院查早孕被妈妈知道了",
+        "onboard_time": 1687823071,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498749,
+        "num": 498749,
+        "word": "景甜内娱女菩萨",
+        "onboard_time": 1687821445,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492602,
+        "num": 492602,
+        "word": "骨折一个月腿瘦了一圈",
+        "onboard_time": 1687840378,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456502,
+        "num": 456502,
+        "word": "陈哲远1天涨粉10万",
+        "onboard_time": 1687835917,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433664,
+        "num": 433664,
+        "word": "朱一龙醉酒戏喝的是茶",
+        "onboard_time": 1687838502,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394657,
+        "num": 394657,
+        "word": "戴耳机睡觉结果耳机掉嘴里了",
+        "onboard_time": 1687835137,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540459,
+        "num": 386355,
+        "word": "16岁中学生校内服毒自杀身亡",
+        "onboard_time": 1687832255,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344870,
+        "num": 344870,
+        "word": "复旦大学回应毕业生简历衣着暴露",
+        "onboard_time": 1687794997,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 344500,
+        "num": 344500,
+        "word": "梁朝伟61岁状态",
+        "onboard_time": 1687838020,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342226,
+        "num": 342226,
+        "word": "文咏珊机场素颜",
+        "onboard_time": 1687839889,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 340016,
+        "num": 340016,
+        "word": "赵露思说陈哲远像村支书",
+        "onboard_time": 1687837899,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334257,
+        "num": 334257,
+        "word": "钟南山院士与研究生合照意外被亲",
+        "onboard_time": 1687824700,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327295,
+        "num": 327295,
+        "word": "LV上海书店帆布包最低580",
+        "onboard_time": 1687825723,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 324345,
+        "num": 324345,
+        "word": "女儿为53岁父亲高考查分选大学",
+        "onboard_time": 1687839954,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 324436,
+        "num": 322961,
+        "word": "面试官让我帮他带杯咖啡",
+        "onboard_time": 1687839046,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318568,
+        "num": 318568,
+        "word": "高铁调座椅弄撒了后座的泡面",
+        "onboard_time": 1687831356,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317249,
+        "num": 317249,
+        "word": "吴越 真的不是我",
+        "onboard_time": 1687822410,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 307913,
+        "num": 307913,
+        "word": "金扫帚创始人大赞王宝强新片",
+        "onboard_time": 1687838324,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278632,
+        "num": 278632,
+        "word": "上班的苦和上学的苦是不一样的",
+        "onboard_time": 1687836578,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 272308,
+        "num": 272308,
+        "word": "美依礼芽wink",
+        "onboard_time": 1687834598,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261545,
+        "num": 261545,
+        "word": "房子被邻居封死入户门后续",
+        "onboard_time": 1687832916,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257039,
+        "num": 257039,
+        "word": "管文丁宁新恋情",
+        "onboard_time": 1687834476,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255448,
+        "num": 255448,
+        "word": "韩国越来越多商铺设立禁儿童区",
+        "onboard_time": 1687823978,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253884,
+        "num": 253884,
+        "word": "王宝强金扫帚奖渊源",
+        "onboard_time": 1687840615,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235007,
+        "num": 235007,
+        "word": "谁给了迪士尼乐园涨价的勇气",
+        "onboard_time": 1687828058,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 230201,
+        "num": 230201,
+        "word": "蓝朋友休假顺便制服一只豚尾猴",
+        "onboard_time": 1687840378,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会数字文明尼山对话#"
+    }
+  }
+}

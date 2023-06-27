@@ -1,22 +1,30 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687839800420,
+  "endTime": 1687840684785,
   "band_list": [
     {
-      "raw_hot": 9965321,
-      "num": 9965321,
+      "raw_hot": 11545667,
+      "num": 11545667,
       "word": "陈建州被指控性骚扰",
       "onboard_time": 1687837780,
       "rank": 0,
       "category": "艺人"
     },
     {
-      "raw_hot": 3011098,
+      "raw_hot": 6319424,
       "num": 1792166,
       "word": "陈建州 你范范姐就很不爱这种事啊",
       "onboard_time": 1687838681,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2286332,
+      "num": 2286332,
+      "word": "每小时100块你愿意加班吗",
+      "onboard_time": 1687833815,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 2260469,
@@ -33,14 +41,6 @@
       "onboard_time": 1687823071,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2217119,
-      "num": 2217119,
-      "word": "每小时100块你愿意加班吗",
-      "onboard_time": 1687833815,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 2211752,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042411,
+      "num": 889462,
+      "word": "大牙经纪人回应指控陈建州性骚扰",
+      "onboard_time": 1687839648,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1009465,
       "num": 265026,
       "word": "健身教练吸毒一个多月暴瘦70斤",
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938506,
+      "num": 938506,
+      "word": "文咏珊非过没丑过",
+      "onboard_time": 1687838744,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936978,
       "num": 936978,
       "word": "海南考生881分想报北大",
@@ -177,6 +193,22 @@
       "onboard_time": 1687820422,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909699,
+      "num": 909699,
+      "word": "何非连发誓都是用假手",
+      "onboard_time": 1687836578,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 900536,
+      "num": 900536,
+      "word": "林生斌关联公司被吊销",
+      "onboard_time": 1687838079,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 877494,
@@ -195,10 +227,10 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 800703,
-      "num": 800703,
-      "word": "何非连发誓都是用假手",
-      "onboard_time": 1687836578,
+      "raw_hot": 793812,
+      "num": 708022,
+      "word": "男子消失的她映后影院求婚",
+      "onboard_time": 1687839284,
       "rank": 25,
       "category": "影视"
     },
@@ -209,14 +241,6 @@
       "onboard_time": 1687831356,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 747474,
-      "num": 747474,
-      "word": "林生斌关联公司被吊销",
-      "onboard_time": 1687838079,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 735297,
@@ -233,6 +257,22 @@
       "onboard_time": 1687832916,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701430,
+      "num": 540267,
+      "word": "大牙",
+      "onboard_time": 1687839106,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 690571,
+      "num": 690571,
+      "word": "清洁工嫌吵关电源致25年成果被毁",
+      "onboard_time": 1687836160,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 682945,
@@ -259,12 +299,12 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 663885,
-      "num": 663885,
-      "word": "文咏珊非过没丑过",
-      "onboard_time": 1687838744,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 633713,
+      "num": 633713,
+      "word": "考研二战我关闭了朋友圈一年",
+      "onboard_time": 1687839046,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 609327,
@@ -307,12 +347,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 559525,
-      "num": 489463,
-      "word": "考研二战我关闭了朋友圈一年",
-      "onboard_time": 1687839046,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 547472,
+      "num": 547472,
+      "word": "黑人女孩的中国初体验",
+      "onboard_time": 1687836037,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544891,
@@ -331,11 +371,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524588,
-      "num": 524588,
-      "word": "黑人女孩的中国初体验",
-      "onboard_time": 1687836037,
-      "rank": 33,
+      "raw_hot": 516389,
+      "num": 516389,
+      "word": "杭州女子养仓鼠脸烂成火龙果",
+      "onboard_time": 1687840132,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -345,14 +385,6 @@
       "onboard_time": 1687785643,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 507577,
-      "num": 473660,
-      "word": "清洁工嫌吵关电源致25年成果被毁",
-      "onboard_time": 1687836160,
-      "rank": 31,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 503820,
@@ -379,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492602,
+      "num": 492602,
+      "word": "骨折一个月腿瘦了一圈",
+      "onboard_time": 1687840378,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 487816,
       "num": 487816,
       "word": "健身和不健身的都沉默了",
@@ -392,14 +432,6 @@
       "word": "陈哲远1天涨粉10万",
       "onboard_time": 1687835917,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 485804,
-      "num": 485804,
-      "word": "大牙",
-      "onboard_time": 1687839106,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -427,20 +459,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436988,
-      "num": 436988,
-      "word": "男子消失的她映后影院求婚",
-      "onboard_time": 1687839284,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 434869,
       "num": 434869,
       "word": "王暖暖",
       "onboard_time": 1687798405,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433664,
+      "num": 433664,
+      "word": "朱一龙醉酒戏喝的是茶",
+      "onboard_time": 1687838502,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 431624,
@@ -473,14 +505,6 @@
       "onboard_time": 1687830274,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420624,
-      "num": 402542,
-      "word": "朱一龙醉酒戏喝的是茶",
-      "onboard_time": 1687838502,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 404002,
@@ -555,6 +579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 342226,
+      "num": 342226,
+      "word": "文咏珊机场素颜",
+      "onboard_time": 1687839889,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 338622,
       "num": 338622,
       "word": "赵露思桑稚醉酒哭戏小说还原度",
@@ -593,6 +625,22 @@
       "onboard_time": 1687820361,
       "rank": 20,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 324436,
+      "num": 322961,
+      "word": "面试官让我帮他带杯咖啡",
+      "onboard_time": 1687839046,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 324345,
+      "num": 324345,
+      "word": "女儿为53岁父亲高考查分选大学",
+      "onboard_time": 1687839954,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 322411,
@@ -641,6 +689,14 @@
       "onboard_time": 1687779820,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307913,
+      "num": 307913,
+      "word": "金扫帚创始人大赞王宝强新片",
+      "onboard_time": 1687838324,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 306022,
@@ -715,27 +771,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272952,
-      "num": 272952,
-      "word": "金扫帚创始人大赞王宝强新片",
-      "onboard_time": 1687838324,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266574,
       "num": 266574,
       "word": "发疯果然很有用",
       "onboard_time": 1687828058,
       "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 260613,
-      "num": 260613,
-      "word": "面试官让我帮他带杯咖啡",
-      "onboard_time": 1687839046,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -745,6 +785,14 @@
       "onboard_time": 1687795655,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253884,
+      "num": 253884,
+      "word": "王宝强金扫帚奖渊源",
+      "onboard_time": 1687840615,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 253247,
@@ -827,14 +875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232615,
-      "num": 232615,
-      "word": "大牙经纪人回应指控陈建州性骚扰",
-      "onboard_time": 1687839648,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232532,
       "num": 232532,
       "word": "年轻人就不适合去菜市场",
@@ -849,6 +889,14 @@
       "onboard_time": 1687820361,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230201,
+      "num": 230201,
+      "word": "蓝朋友休假顺便制服一只豚尾猴",
+      "onboard_time": 1687840378,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226743,
@@ -1315,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60103,
+      "num": 1802800,
+      "word": "用电影海报打开千万工程20年巨变",
+      "onboard_time": 1687839046,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56397,
       "num": 70737,
       "word": "曾黎看赵露思陈哲远吻戏反应",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1687808715,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 37741,
-      "num": 1802800,
-      "word": "用电影海报打开千万工程20年巨变",
-      "onboard_time": 1687839046,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28065,
