@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687835461538,
+  "endTime": 1687837349444,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -25,6 +25,14 @@
       "onboard_time": 1687824821,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2097112,
+      "num": 2097112,
+      "word": "iPhone15Pro将成主打产品",
+      "onboard_time": 1687833815,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 1651175,
@@ -75,14 +83,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1221602,
-      "num": 1221602,
-      "word": "iPhone15Pro将成主打产品",
-      "onboard_time": 1687833815,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1147980,
       "num": 1147980,
       "word": "张艺兴新片官方账号被禁言",
@@ -97,6 +97,22 @@
       "onboard_time": 1687818678,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075720,
+      "num": 1075720,
+      "word": "汶川县突发山洪泥石流7人失联",
+      "onboard_time": 1687836037,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059382,
+      "num": 1059382,
+      "word": "每小时100块你愿意加班吗",
+      "onboard_time": 1687833815,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1009465,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949481,
+      "num": 949481,
+      "word": "CCTV9回应长风渡",
+      "onboard_time": 1687835678,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936978,
       "num": 936978,
       "word": "海南考生881分想报北大",
@@ -131,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 892576,
+      "num": 892576,
+      "word": "有人劝我结婚我就捧杀对方",
+      "onboard_time": 1687835137,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 871260,
       "num": 871260,
       "word": "贬低你的亲戚都是父母惯的",
       "onboard_time": 1687793200,
       "rank": 5,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 766574,
+      "num": 766574,
+      "word": "高铁调座椅弄撒了后座的泡面",
+      "onboard_time": 1687831356,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 735297,
@@ -147,20 +187,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 726369,
-      "num": 726369,
-      "word": "高铁调座椅弄撒了后座的泡面",
-      "onboard_time": 1687831356,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 704975,
-      "num": 704975,
-      "word": "每小时100块你愿意加班吗",
-      "onboard_time": 1687833815,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 726299,
+      "num": 726299,
+      "word": "房子被邻居封死入户门后续",
+      "onboard_time": 1687832916,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682945,
@@ -187,6 +219,22 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 609327,
+      "num": 609327,
+      "word": "夫妇颜值差异过大被疑婚姻动机不纯",
+      "onboard_time": 1687835137,
+      "rank": 31,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 609060,
+      "num": 609060,
+      "word": "管文丁宁新恋情",
+      "onboard_time": 1687834476,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 605114,
       "num": 605114,
       "word": "黄奕谈做7年全职妈妈的经历",
@@ -201,14 +249,6 @@
       "onboard_time": 1687823978,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 576667,
-      "num": 576667,
-      "word": "房子被邻居封死入户门后续",
-      "onboard_time": 1687832916,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562008,
@@ -243,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 507577,
+      "num": 302918,
+      "word": "清洁工嫌吵关电源致25年成果被毁",
+      "onboard_time": 1687836160,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 502613,
       "num": 502613,
       "word": "王霏霏的眼泪好大颗",
@@ -267,12 +315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 487715,
+      "num": 388471,
+      "word": "陈哲远1天涨粉10万",
+      "onboard_time": 1687835917,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478346,
       "num": 386523,
       "word": "谁给了迪士尼乐园涨价的勇气",
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 476980,
+      "num": 302108,
+      "word": "空姐结识男乘客染毒瘾后贩毒",
+      "onboard_time": 1687836400,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465565,
@@ -283,19 +347,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459152,
+      "num": 301378,
+      "word": "黑人女孩的中国初体验",
+      "onboard_time": 1687836037,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456084,
       "num": 456084,
       "word": "伊能静曾说陈哲远可以靠脸就红",
       "onboard_time": 1687826863,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 442607,
-      "num": 442607,
-      "word": "管文丁宁新恋情",
-      "onboard_time": 1687834476,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -347,6 +411,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395184,
+      "num": 395184,
+      "word": "戴耳机睡觉结果耳机掉嘴里了",
+      "onboard_time": 1687835137,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 378226,
+      "num": 378226,
+      "word": "美依礼芽wink",
+      "onboard_time": 1687834598,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377819,
       "num": 377819,
       "word": "消失的她",
@@ -355,11 +435,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356974,
-      "num": 289298,
-      "word": "有人劝我结婚我就捧杀对方",
-      "onboard_time": 1687835137,
-      "rank": 30,
+      "raw_hot": 372655,
+      "num": 372655,
+      "word": "何非连发誓都是用假手",
+      "onboard_time": 1687836578,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367193,
+      "num": 301009,
+      "word": "研究生毕业去见男方父母",
+      "onboard_time": 1687836460,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -393,14 +481,6 @@
       "onboard_time": 1687834000,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331043,
-      "num": 331043,
-      "word": "美依礼芽wink",
-      "onboard_time": 1687834598,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 329836,
@@ -483,20 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305756,
-      "num": 281207,
-      "word": "夫妇颜值差异过大被疑婚姻动机不纯",
-      "onboard_time": 1687835137,
-      "rank": 31,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 299531,
-      "num": 299531,
-      "word": "戴耳机睡觉结果耳机掉嘴里了",
-      "onboard_time": 1687835137,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 300800,
+      "num": 300800,
+      "word": "上班的苦和上学的苦是不一样的",
+      "onboard_time": 1687836578,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 296071,
@@ -539,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273939,
+      "num": 273939,
+      "word": "一家攒钱给弟弟的房子装潢",
+      "onboard_time": 1687832916,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273235,
       "num": 243890,
       "word": "何穗发了60多张自拍",
@@ -553,14 +633,6 @@
       "onboard_time": 1687828058,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263044,
-      "num": 263044,
-      "word": "一家攒钱给弟弟的房子装潢",
-      "onboard_time": 1687832916,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254522,
@@ -681,6 +753,14 @@
       "onboard_time": 1687789909,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223098,
+      "num": 223098,
+      "word": "一听这些歌就知道要毕业了",
+      "onboard_time": 1687836697,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 222410,
@@ -1019,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133411,
+      "num": 253436,
+      "word": "什么是大国的美食自信",
+      "onboard_time": 1687834835,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132597,
       "num": 132597,
       "word": "蔡徐坤回应和歌迷互动",
@@ -1161,14 +1249,6 @@
       "onboard_time": 1687808715,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32125,
-      "num": 253436,
-      "word": "什么是大国的美食自信",
-      "onboard_time": 1687834835,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28065,

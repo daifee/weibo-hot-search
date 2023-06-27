@@ -1,0 +1,410 @@
+{
+  "runTime": 1687837349444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2097112,
+        "num": 2097112,
+        "word": "iPhone15Pro将成主打产品",
+        "onboard_time": 1687833815,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1717053,
+        "num": 1717053,
+        "word": "原来中医不让吃水果是真的",
+        "onboard_time": 1687824821,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23184,
+        "num": 1423930,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218838,
+        "num": 1218838,
+        "word": "文咏珊早几年都干嘛去了",
+        "onboard_time": 1687826562,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1183153,
+        "num": 1183153,
+        "word": "毕业照只有一人没被马赛克",
+        "onboard_time": 1687828959,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1075720,
+        "num": 1075720,
+        "word": "汶川县突发山洪泥石流7人失联",
+        "onboard_time": 1687836037,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059382,
+        "num": 1059382,
+        "word": "每小时100块你愿意加班吗",
+        "onboard_time": 1687833815,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 949481,
+        "num": 949481,
+        "word": "CCTV9回应长风渡",
+        "onboard_time": 1687835678,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 892576,
+        "num": 892576,
+        "word": "有人劝我结婚我就捧杀对方",
+        "onboard_time": 1687835137,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 766574,
+        "num": 766574,
+        "word": "高铁调座椅弄撒了后座的泡面",
+        "onboard_time": 1687831356,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 726299,
+        "num": 726299,
+        "word": "房子被邻居封死入户门后续",
+        "onboard_time": 1687832916,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609327,
+        "num": 609327,
+        "word": "夫妇颜值差异过大被疑婚姻动机不纯",
+        "onboard_time": 1687835137,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 609060,
+        "num": 609060,
+        "word": "管文丁宁新恋情",
+        "onboard_time": 1687834476,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550836,
+        "num": 550836,
+        "word": "景甜内娱女菩萨",
+        "onboard_time": 1687821445,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549946,
+        "num": 549946,
+        "word": "吴越 真的不是我",
+        "onboard_time": 1687822410,
+        "rank": 14,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 537280,
+        "num": 537280,
+        "word": "海南考生881分想报北大",
+        "onboard_time": 1687826681,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 413108,
+        "num": 413108,
+        "word": "官方回应网传乐山大佛被卖",
+        "onboard_time": 1687831835,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 407282,
+        "num": 407282,
+        "word": "宠物医院把宠物名和主人名写反了",
+        "onboard_time": 1687831115,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400931,
+        "num": 400931,
+        "word": "韩国越来越多商铺设立禁儿童区",
+        "onboard_time": 1687823978,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395184,
+        "num": 395184,
+        "word": "戴耳机睡觉结果耳机掉嘴里了",
+        "onboard_time": 1687835137,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 556510,
+        "num": 392111,
+        "word": "去医院查早孕被妈妈知道了",
+        "onboard_time": 1687823071,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 487715,
+        "num": 388471,
+        "word": "陈哲远1天涨粉10万",
+        "onboard_time": 1687835917,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379435,
+        "num": 379435,
+        "word": "LV上海书店帆布包最低580",
+        "onboard_time": 1687825723,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 378226,
+        "num": 378226,
+        "word": "美依礼芽wink",
+        "onboard_time": 1687834598,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377071,
+        "num": 377071,
+        "word": "健身和不健身的都沉默了",
+        "onboard_time": 1687832377,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372655,
+        "num": 372655,
+        "word": "何非连发誓都是用假手",
+        "onboard_time": 1687836578,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343270,
+        "num": 343270,
+        "word": "王霏霏的眼泪好大颗",
+        "onboard_time": 1687831233,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334488,
+        "num": 334488,
+        "word": "赵露思桑稚醉酒哭戏小说还原度",
+        "onboard_time": 1687834000,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310994,
+        "num": 310994,
+        "word": "复旦大学回应毕业生简历衣着暴露",
+        "onboard_time": 1687794997,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 303447,
+        "num": 303447,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1189306,
+        "num": 303208,
+        "word": "16岁中学生校内服毒自杀身亡",
+        "onboard_time": 1687832255,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507577,
+        "num": 302918,
+        "word": "清洁工嫌吵关电源致25年成果被毁",
+        "onboard_time": 1687836160,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 476980,
+        "num": 302108,
+        "word": "空姐结识男乘客染毒瘾后贩毒",
+        "onboard_time": 1687836400,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459152,
+        "num": 301378,
+        "word": "黑人女孩的中国初体验",
+        "onboard_time": 1687836037,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367193,
+        "num": 301009,
+        "word": "研究生毕业去见男方父母",
+        "onboard_time": 1687836460,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300800,
+        "num": 300800,
+        "word": "上班的苦和上学的苦是不一样的",
+        "onboard_time": 1687836578,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273939,
+        "num": 273939,
+        "word": "一家攒钱给弟弟的房子装潢",
+        "onboard_time": 1687832916,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266677,
+        "num": 266677,
+        "word": "钟南山院士与研究生合照意外被亲",
+        "onboard_time": 1687824700,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258076,
+        "num": 258076,
+        "word": "谁给了迪士尼乐园涨价的勇气",
+        "onboard_time": 1687828058,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 133411,
+        "num": 250410,
+        "word": "什么是大国的美食自信",
+        "onboard_time": 1687834835,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246581,
+        "num": 246581,
+        "word": "酒店房间里的反光镜干嘛用的",
+        "onboard_time": 1687832916,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223098,
+        "num": 223098,
+        "word": "一听这些歌就知道要毕业了",
+        "onboard_time": 1687836697,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 222218,
+        "num": 222218,
+        "word": "青岛旅游失联25岁女孩已身亡",
+        "onboard_time": 1687820422,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221212,
+        "num": 221212,
+        "word": "贵州一6岁男童感染食脑虫",
+        "onboard_time": 1687794457,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205124,
+        "num": 205124,
+        "word": "张艺兴新片官方账号被禁言",
+        "onboard_time": 1687792182,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201334,
+        "num": 201334,
+        "word": "胡锡进在多家公司任职高管",
+        "onboard_time": 1687822168,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198784,
+        "num": 198784,
+        "word": "黄奕谈做7年全职妈妈的经历",
+        "onboard_time": 1687828116,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196645,
+        "num": 196645,
+        "word": "消失的她票房",
+        "onboard_time": 1687829559,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187681,
+        "num": 187681,
+        "word": "NewJeans全员金发",
+        "onboard_time": 1687827701,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177425,
+        "num": 177425,
+        "word": "3000元化妆品用完后空瓶竟卖300元",
+        "onboard_time": 1687825838,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#空中视角看千万工程调研行#"
+    }
+  }
+}
