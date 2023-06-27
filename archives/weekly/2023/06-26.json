@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687865650967,
+  "endTime": 1687869544105,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -24,6 +24,14 @@
       "word": "陈建州 你范范姐就很不爱这种事啊",
       "onboard_time": 1687838681,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4335041,
+      "num": 4335041,
+      "word": "萧敬腾求婚林有慧",
+      "onboard_time": 1687868979,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -227,6 +235,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1857662,
+      "num": 581158,
+      "word": "内娱影圈四大顶流",
+      "onboard_time": 1687866458,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1843370,
+      "num": 1843370,
+      "word": "重庆一医院被曝盒饭中吃出老鼠头",
+      "onboard_time": 1687859744,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1842889,
       "num": 668524,
       "word": "曝周杰伦女儿将入学澳洲贵族名校",
@@ -289,14 +313,6 @@
       "onboard_time": 1687855901,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1697763,
-      "num": 1697763,
-      "word": "重庆一医院被曝盒饭中吃出老鼠头",
-      "onboard_time": 1687859744,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1674534,
@@ -395,8 +411,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1339833,
+      "num": 559521,
+      "word": "孙东云官宣结婚",
+      "onboard_time": 1687867358,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1328078,
-      "num": 551695,
+      "num": 1001518,
       "word": "小S曾在节目中批陈建州",
       "onboard_time": 1687864417,
       "rank": 16,
@@ -441,6 +465,14 @@
       "onboard_time": 1687848637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1149629,
+      "num": 1149629,
+      "word": "女孩考上清华家人放烟花前向邻居报备",
+      "onboard_time": 1687865436,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1147980,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928900,
+      "num": 928900,
+      "word": "女儿都22岁了什么时候才能独立",
+      "onboard_time": 1687865620,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 924923,
       "num": 924923,
       "word": "男子欠1.7亿仍住豪宅养女友",
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745824,
+      "num": 745824,
+      "word": "内娱男演员五大系",
+      "onboard_time": 1687862679,
+      "rank": 8,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 739871,
       "num": 563364,
       "word": "张杰谢娜观看跳跳俏俏演出",
@@ -953,14 +1001,6 @@
       "onboard_time": 1687783784,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 690927,
-      "num": 690927,
-      "word": "内娱男演员五大系",
-      "onboard_time": 1687862679,
-      "rank": 8,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 690571,
@@ -1475,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488651,
+      "num": 384823,
+      "word": "上岸公务员后被亲戚贬低了",
+      "onboard_time": 1687865918,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487816,
       "num": 487816,
       "word": "健身和不健身的都沉默了",
@@ -1683,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433010,
+      "num": 375283,
+      "word": "妈妈回应私拆女儿的档案",
+      "onboard_time": 1687868377,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432143,
       "num": 432143,
       "word": "原来是何非拔掉的氧气罐",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1687740092,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 411542,
+      "num": 411542,
+      "word": "FPX战胜WBG",
+      "onboard_time": 1687866096,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 408896,
@@ -2315,6 +2379,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 323555,
+      "num": 323555,
+      "word": "市监局通报医院食堂盒饭吃出老鼠头",
+      "onboard_time": 1687867835,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322962,
       "num": 322962,
       "word": "狮子表演时突然失控伸出头",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1687827161,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310278,
+      "num": 310278,
+      "word": "说一件事证明你消费降级了",
+      "onboard_time": 1687868137,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 309866,
@@ -2595,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295097,
+      "num": 295097,
+      "word": "偷偷藏不住哪里好",
+      "onboard_time": 1687867176,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294495,
       "num": 294495,
       "word": "外公八十岁了还在帮我妈打蜘蛛",
@@ -2641,6 +2729,14 @@
       "onboard_time": 1687786244,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289501,
+      "num": 289501,
+      "word": "爸爸让儿子猜高考成绩连喊3次低了",
+      "onboard_time": 1687869409,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 287568,
@@ -2699,6 +2795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281842,
+      "num": 281842,
+      "word": "仙女棒已经进化到这种程度了吗",
+      "onboard_time": 1687868558,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279208,
       "num": 279208,
       "word": "男子坐乘务长老婆的飞机被区别对待",
@@ -2737,6 +2841,14 @@
       "onboard_time": 1687789372,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274151,
+      "num": 274151,
+      "word": "何非的婚戒",
+      "onboard_time": 1687865978,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 273939,
@@ -2833,6 +2945,22 @@
       "onboard_time": 1687699235,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262731,
+      "num": 262731,
+      "word": "赵露思桑稚头像",
+      "onboard_time": 1687865738,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262134,
+      "num": 262134,
+      "word": "长风渡",
+      "onboard_time": 1687867717,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 261920,
@@ -3043,12 +3171,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 244916,
+      "num": 244916,
+      "word": "从阿拉斯加的冰川里弄一杯水喝",
+      "onboard_time": 1687868918,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244312,
       "num": 244312,
       "word": "程序员同事带着心事上班",
       "onboard_time": 1687832916,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244094,
+      "num": 244094,
+      "word": "深圳晚霞",
+      "onboard_time": 1687868258,
+      "rank": 44,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 241954,
@@ -3241,6 +3385,22 @@
       "onboard_time": 1687822590,
       "rank": 36,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 225637,
+      "num": 310698,
+      "word": "男子冲洗旧胶卷意外发现奶奶生前影像",
+      "onboard_time": 1687868497,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225480,
+      "num": 225480,
+      "word": "chunli 碰瓷果然不好哈",
+      "onboard_time": 1687867777,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 225018,
@@ -3513,6 +3673,22 @@
       "onboard_time": 1687754782,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201912,
+      "num": 201912,
+      "word": "石头赶路",
+      "onboard_time": 1687868437,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201586,
+      "num": 201586,
+      "word": "这狗好啊 有蚊子它真上",
+      "onboard_time": 1687869464,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 201361,
@@ -3875,14 +4051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173646,
-      "num": 173646,
-      "word": "女儿都22岁了什么时候才能独立",
-      "onboard_time": 1687865620,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173037,
       "num": 173037,
       "word": "男孩分数被屏蔽全家尖叫自己淡定拍照",
@@ -3961,14 +4129,6 @@
       "onboard_time": 1687865498,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166375,
-      "num": 169304,
-      "word": "女孩考上清华家人放烟花前向邻居报备",
-      "onboard_time": 1687865436,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 165463,
@@ -4160,6 +4320,14 @@
       "word": "一张银片锤打50多万次后变身银壶",
       "onboard_time": 1687733841,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146234,
+      "num": 262739,
+      "word": "被夸很会吃是什么体验",
+      "onboard_time": 1687867234,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -4481,6 +4649,14 @@
       "onboard_time": 1687693894,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76582,
+      "num": 565052,
+      "word": "男孩落水紧抓树枝镇干部跳河急救",
+      "onboard_time": 1687867234,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72374,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1687869544105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4335041,
+        "num": 4335041,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1843370,
+        "num": 1843370,
+        "word": "重庆一医院被曝盒饭中吃出老鼠头",
+        "onboard_time": 1687859744,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48124,
+        "num": 1443274,
+        "word": "达沃斯在天津",
+        "onboard_time": 1687851157,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149629,
+        "num": 1149629,
+        "word": "女孩考上清华家人放烟花前向邻居报备",
+        "onboard_time": 1687865436,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1001518,
+        "num": 1001518,
+        "word": "小S曾在节目中批陈建州",
+        "onboard_time": 1687864417,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928900,
+        "num": 928900,
+        "word": "女儿都22岁了什么时候才能独立",
+        "onboard_time": 1687865620,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745824,
+        "num": 745824,
+        "word": "内娱男演员五大系",
+        "onboard_time": 1687862679,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 701337,
+        "num": 701337,
+        "word": "花千骨2已备案",
+        "onboard_time": 1687862078,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604137,
+        "num": 604137,
+        "word": "昆凌避谈陈建州大牙事件",
+        "onboard_time": 1687858424,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581284,
+        "num": 581284,
+        "word": "上班早到了八分钟被约谈话",
+        "onboard_time": 1687862619,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1857662,
+        "num": 581158,
+        "word": "内娱影圈四大顶流",
+        "onboard_time": 1687866458,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2422679,
+        "num": 575070,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705992,
+        "num": 571950,
+        "word": "印度男子误会妹妹月经是偷情证据将其虐死",
+        "onboard_time": 1687855901,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596851,
+        "num": 570210,
+        "word": "厌童现象",
+        "onboard_time": 1687854399,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76582,
+        "num": 565052,
+        "word": "男孩落水紧抓树枝镇干部跳河急救",
+        "onboard_time": 1687867234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1584842,
+        "num": 560511,
+        "word": "范玮琪对陈建州偷吃的态度",
+        "onboard_time": 1687855238,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1339833,
+        "num": 559521,
+        "word": "孙东云官宣结婚",
+        "onboard_time": 1687867358,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612611,
+        "num": 554406,
+        "word": "张杰谢娜观看跳跳俏俏演出",
+        "onboard_time": 1687862679,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 553523,
+        "num": 553523,
+        "word": "女子找工作政审发现自己被坐过牢",
+        "onboard_time": 1687855832,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411542,
+        "num": 411542,
+        "word": "FPX战胜WBG",
+        "onboard_time": 1687866096,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1051598,
+        "num": 408229,
+        "word": "女生毕业删除90%同学被骂有病",
+        "onboard_time": 1687855901,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 605460,
+        "num": 396955,
+        "word": "陈建州大牙行程对上了",
+        "onboard_time": 1687851099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548611,
+        "num": 393986,
+        "word": "最长的接吻居然长达58小时",
+        "onboard_time": 1687861898,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 488651,
+        "num": 384823,
+        "word": "上岸公务员后被亲戚贬低了",
+        "onboard_time": 1687865918,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433010,
+        "num": 375283,
+        "word": "妈妈回应私拆女儿的档案",
+        "onboard_time": 1687868377,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368569,
+        "num": 368569,
+        "word": "才知道文咏珊已经结婚了",
+        "onboard_time": 1687848637,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323555,
+        "num": 323555,
+        "word": "市监局通报医院食堂盒饭吃出老鼠头",
+        "onboard_time": 1687867835,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317082,
+        "num": 317082,
+        "word": "前男友居然去做了变性手术",
+        "onboard_time": 1687847617,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313271,
+        "num": 313271,
+        "word": "女孩在3厘米珠子内反手作画",
+        "onboard_time": 1687859022,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225637,
+        "num": 310698,
+        "word": "男子冲洗旧胶卷意外发现奶奶生前影像",
+        "onboard_time": 1687868497,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310278,
+        "num": 310278,
+        "word": "说一件事证明你消费降级了",
+        "onboard_time": 1687868137,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 308039,
+        "num": 308039,
+        "word": "柳智敏回应",
+        "onboard_time": 1687849475,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295097,
+        "num": 295097,
+        "word": "偷偷藏不住哪里好",
+        "onboard_time": 1687867176,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291988,
+        "num": 291988,
+        "word": "沈阳一洗浴中心回应租赁爸爸服务",
+        "onboard_time": 1687863938,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291573,
+        "num": 291573,
+        "word": "差点认不出张艺兴",
+        "onboard_time": 1687849178,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289501,
+        "num": 289501,
+        "word": "爸爸让儿子猜高考成绩连喊3次低了",
+        "onboard_time": 1687869409,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 281842,
+        "num": 281842,
+        "word": "仙女棒已经进化到这种程度了吗",
+        "onboard_time": 1687868558,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274151,
+        "num": 274151,
+        "word": "何非的婚戒",
+        "onboard_time": 1687865978,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262754,
+        "num": 262754,
+        "word": "蓝正龙周幼婷被曝离婚",
+        "onboard_time": 1687850377,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146234,
+        "num": 262739,
+        "word": "被夸很会吃是什么体验",
+        "onboard_time": 1687867234,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262731,
+        "num": 262731,
+        "word": "赵露思桑稚头像",
+        "onboard_time": 1687865738,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262134,
+        "num": 262134,
+        "word": "长风渡",
+        "onboard_time": 1687867717,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256088,
+        "num": 256088,
+        "word": "鹿晗张艺兴黄子韬白背心",
+        "onboard_time": 1687856501,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244916,
+        "num": 244916,
+        "word": "从阿拉斯加的冰川里弄一杯水喝",
+        "onboard_time": 1687868918,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244094,
+        "num": 244094,
+        "word": "深圳晚霞",
+        "onboard_time": 1687868258,
+        "rank": 44,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 225480,
+        "num": 225480,
+        "word": "chunli 碰瓷果然不好哈",
+        "onboard_time": 1687867777,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201912,
+        "num": 201912,
+        "word": "石头赶路",
+        "onboard_time": 1687868437,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201586,
+        "num": 201586,
+        "word": "这狗好啊 有蚊子它真上",
+        "onboard_time": 1687869464,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504273,
+        "num": 200943,
+        "word": "陈建州被指控性骚扰",
+        "onboard_time": 1687837780,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197519,
+        "num": 197519,
+        "word": "出版社回应新版新华字典删除倭寇一词",
+        "onboard_time": 1687864297,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村之美#"
+    }
+  }
+}
