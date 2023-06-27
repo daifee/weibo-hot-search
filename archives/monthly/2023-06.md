@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 00:42:22
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 01:17:13
 </p>
 </blockquote>
 <p>
@@ -4491,6 +4491,12 @@ Jennie去爬山了（热度：1318773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%23" target="weibo">
+江西航空（热度：1308137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2341%E2%84%83%E9%AB%98%E6%B8%A9%E6%8A%8A%E8%A1%A3%E6%9C%8D%E6%99%92%E7%9D%80%E4%BA%86%23" target="weibo">
 41℃高温把衣服晒着了（热度：1306166）
 </a>
@@ -5549,12 +5555,6 @@ Jennie 复仇者联盟5（热度：1161672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%BE%8B%E6%89%80%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%8B%9B%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%23" target="weibo">
 川大回应律所称不再招川大毕业生（热度：1143813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%88%AA%E7%A9%BA%23" target="weibo">
-江西航空（热度：1143564）
 </a>
 </li>
 

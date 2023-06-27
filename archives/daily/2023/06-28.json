@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687884142512,
+  "endTime": 1687886233407,
   "band_list": [
     {
       "raw_hot": 2748188,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1450477,
-      "num": 502971,
+      "num": 523174,
       "word": "范玮琪对陈建州偷吃的态度",
       "onboard_time": 1687855238,
       "rank": 13,
@@ -56,6 +56,14 @@
       "word": "警方通报男子反复碾压女子致死",
       "onboard_time": 1687880382,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1308137,
+      "num": 1308137,
+      "word": "江西航空",
+      "onboard_time": 1687881220,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -72,14 +80,6 @@
       "word": "人狗合一",
       "onboard_time": 1687880261,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1143564,
-      "num": 1143564,
-      "word": "江西航空",
-      "onboard_time": 1687881220,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660821,
+      "num": 660821,
+      "word": "千万不要随意私拆学生档案",
+      "onboard_time": 1687882232,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 644846,
+      "num": 644846,
+      "word": "陈哲远竟然是男团出身",
+      "onboard_time": 1687883430,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 596737,
       "num": 458963,
       "word": "朱珠包场朱一龙新电影",
@@ -139,6 +155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 567676,
+      "num": 511245,
+      "word": "张雪峰呼吁警惕填志愿骗局",
+      "onboard_time": 1687881995,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 472372,
       "num": 472372,
       "word": "印度男子误会妹妹月经是偷情证据将其虐死",
@@ -147,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462015,
-      "num": 462015,
-      "word": "张雪峰呼吁警惕填志愿骗局",
-      "onboard_time": 1687881995,
-      "rank": 33,
-      "category": "社会新闻,教育"
+      "raw_hot": 448788,
+      "num": 448788,
+      "word": "姜个顾事",
+      "onboard_time": 1687882415,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 436416,
@@ -161,14 +185,6 @@
       "onboard_time": 1687851099,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429973,
-      "num": 406621,
-      "word": "姜个顾事",
-      "onboard_time": 1687882415,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 416833,
@@ -187,12 +203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 375297,
-      "num": 375297,
-      "word": "千万不要随意私拆学生档案",
-      "onboard_time": 1687882232,
-      "rank": 29,
-      "category": "教育,社会新闻"
+      "raw_hot": 366427,
+      "num": 366427,
+      "word": "医院回应女子被司机反复碾轧遇害",
+      "onboard_time": 1687883074,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361894,
@@ -208,6 +224,14 @@
       "word": "周翊然张淼怡新剧吻戏",
       "onboard_time": 1687878764,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354060,
+      "num": 354060,
+      "word": "一让在让",
+      "onboard_time": 1687884088,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -267,14 +291,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 281001,
-      "num": 281001,
-      "word": "陈哲远竟然是男团出身",
-      "onboard_time": 1687883430,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264048,
       "num": 264048,
       "word": "于斌多发点",
@@ -307,14 +323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213882,
-      "num": 213882,
-      "word": "医院回应女子被司机反复碾轧遇害",
-      "onboard_time": 1687883074,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213684,
       "num": 213684,
       "word": "萧敬腾下个雨庆祝一下吧",
@@ -337,6 +345,14 @@
       "onboard_time": 1687862078,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199651,
+      "num": 199651,
+      "word": "日本经济为何停滞在过去",
+      "onboard_time": 1687883313,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 199191,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153713,
-      "num": 153713,
-      "word": "一让在让",
-      "onboard_time": 1687884088,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 147107,
       "num": 147107,
       "word": "山东东营警方回应男子驾车反复碾压女子",
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133807,
+      "num": 133807,
+      "word": "肖春生佟晓梅故地重游",
+      "onboard_time": 1687884269,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120434,
       "num": 134245,
       "word": "浙A98ET5司机的公主抱又帅又暖",
       "onboard_time": 1687878108,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117298,
+      "num": 117298,
+      "word": "段嘉许确认心意后就开始不做人了",
+      "onboard_time": 1687885645,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 114418,
@@ -419,12 +443,36 @@
       "category": "美食"
     },
     {
-      "raw_hot": 107874,
-      "num": 133990,
-      "word": "日本经济为何停滞在过去",
-      "onboard_time": 1687883313,
+      "raw_hot": 88934,
+      "num": 88934,
+      "word": "小伙辞职宅在家两年囤1.5万条毛巾",
+      "onboard_time": 1687878467,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84964,
+      "num": 84964,
+      "word": "闹市区惊现花面狸叼幼崽走钢丝",
+      "onboard_time": 1687885047,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77578,
+      "num": 84936,
+      "word": "杭州比格犬耳朵卡入碎纸机被救出",
+      "onboard_time": 1687883850,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71763,
+      "num": 83928,
+      "word": "恶搞名画滤镜挑战",
+      "onboard_time": 1687885286,
       "rank": 49,
-      "category": "财经,社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 12370,
@@ -438,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#千万工程造就万千美丽乡村#"
+    },
+    {
+      "word": "#习近平会见巴巴多斯总理#"
     }
   ]
 }

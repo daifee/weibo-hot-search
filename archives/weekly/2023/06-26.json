@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687884142512,
+  "endTime": 1687886233407,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1308137,
+      "num": 1308137,
+      "word": "江西航空",
+      "onboard_time": 1687881220,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1293879,
       "num": 876705,
       "word": "陈建州否认性骚扰指控",
@@ -585,14 +593,6 @@
       "onboard_time": 1687842046,
       "rank": 16,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1143564,
-      "num": 1143564,
-      "word": "江西航空",
-      "onboard_time": 1687881220,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1131365,
@@ -1243,6 +1243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 660821,
+      "num": 660821,
+      "word": "千万不要随意私拆学生档案",
+      "onboard_time": 1687882232,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 656829,
       "num": 656829,
       "word": "陈建州范玮琪2011年完婚",
@@ -1280,6 +1288,14 @@
       "word": "王源的剧好多都改名了",
       "onboard_time": 1687750964,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 644846,
+      "num": 644846,
+      "word": "陈哲远竟然是男团出身",
+      "onboard_time": 1687883430,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1457,6 +1473,14 @@
       "onboard_time": 1687774844,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 567676,
+      "num": 511245,
+      "word": "张雪峰呼吁警惕填志愿骗局",
+      "onboard_time": 1687881995,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 565590,
@@ -1835,14 +1859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462015,
-      "num": 462015,
-      "word": "张雪峰呼吁警惕填志愿骗局",
-      "onboard_time": 1687881995,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 461496,
       "num": 333832,
       "word": "这玩具千万别卖到我家这儿",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1687773769,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448788,
+      "num": 448788,
+      "word": "姜个顾事",
+      "onboard_time": 1687882415,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 448068,
@@ -2000,14 +2024,6 @@
       "word": "白敬亭合作的女主",
       "onboard_time": 1687764350,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 429973,
-      "num": 406621,
-      "word": "姜个顾事",
-      "onboard_time": 1687882415,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -2331,14 +2347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 375297,
-      "num": 375297,
-      "word": "千万不要随意私拆学生档案",
-      "onboard_time": 1687882232,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 374684,
       "num": 374684,
       "word": "萧敬腾伴郎团会有谁",
@@ -2387,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366427,
+      "num": 366427,
+      "word": "医院回应女子被司机反复碾轧遇害",
+      "onboard_time": 1687883074,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365857,
       "num": 365857,
       "word": "长风渡剧本bug",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1687871441,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354060,
+      "num": 354060,
+      "word": "一让在让",
+      "onboard_time": 1687884088,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 353053,
@@ -3121,14 +3145,6 @@
       "onboard_time": 1687752538,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281001,
-      "num": 281001,
-      "word": "陈哲远竟然是男团出身",
-      "onboard_time": 1687883430,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 279208,
@@ -3923,14 +3939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213882,
-      "num": 213882,
-      "word": "医院回应女子被司机反复碾轧遇害",
-      "onboard_time": 1687883074,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213505,
       "num": 213505,
       "word": "一盆熊猫原来长这样",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1687777305,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199651,
+      "num": 199651,
+      "word": "日本经济为何停滞在过去",
+      "onboard_time": 1687883313,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 198496,
@@ -4763,14 +4779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153713,
-      "num": 153713,
-      "word": "一让在让",
-      "onboard_time": 1687884088,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152531,
       "num": 187880,
       "word": "BLG对战iG",
@@ -4881,6 +4889,14 @@
       "onboard_time": 1687859622,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133807,
+      "num": 133807,
+      "word": "肖春生佟晓梅故地重游",
+      "onboard_time": 1687884269,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 133569,
@@ -5019,6 +5035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117298,
+      "num": 117298,
+      "word": "段嘉许确认心意后就开始不做人了",
+      "onboard_time": 1687885645,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115937,
       "num": 174197,
       "word": "动物界有网红景点了",
@@ -5099,14 +5123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107874,
-      "num": 133990,
-      "word": "日本经济为何停滞在过去",
-      "onboard_time": 1687883313,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 105599,
       "num": 105599,
       "word": "贾乃亮18岁VS39岁",
@@ -5171,12 +5187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84964,
+      "num": 84964,
+      "word": "闹市区惊现花面狸叼幼崽走钢丝",
+      "onboard_time": 1687885047,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81229,
       "num": 81229,
       "word": "浪姐4五公淘汰",
       "onboard_time": 1687693894,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77578,
+      "num": 84936,
+      "word": "杭州比格犬耳朵卡入碎纸机被救出",
+      "onboard_time": 1687883850,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72374,
@@ -5193,6 +5225,14 @@
       "onboard_time": 1687698455,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71763,
+      "num": 83928,
+      "word": "恶搞名画滤镜挑战",
+      "onboard_time": 1687885286,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 67723,
