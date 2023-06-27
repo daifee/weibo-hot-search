@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687904297752,
+  "endTime": 1687905378715,
   "band_list": [
     {
       "raw_hot": 2748188,
@@ -419,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+      "onboard_time": 1687889537,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133807,
       "num": 133807,
       "word": "肖春生佟晓梅故地重游",
       "onboard_time": 1687884269,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132946,
+      "num": 132946,
+      "word": "张雪峰",
+      "onboard_time": 1687903214,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 120434,
@@ -459,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94007,
-      "num": 94007,
-      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
-      "onboard_time": 1687889537,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88934,
       "num": 88934,
       "word": "小伙辞职宅在家两年囤1.5万条毛巾",
       "onboard_time": 1687878467,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85889,
+      "num": 85889,
+      "word": "韩国犯罪电影看完令人绝望",
+      "onboard_time": 1687891214,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 77578,
@@ -491,28 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69192,
-      "num": 69192,
-      "word": "韩国犯罪电影看完令人绝望",
-      "onboard_time": 1687891214,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 67519,
       "num": 67519,
       "word": "这大概是深圳最火的摆摊了",
       "onboard_time": 1687885763,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 66058,
-      "num": 66058,
-      "word": "张雪峰",
-      "onboard_time": 1687903214,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 55298,

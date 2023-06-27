@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687904297752,
+  "endTime": 1687905378715,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -4891,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+      "onboard_time": 1687889537,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133807,
       "num": 133807,
       "word": "肖春生佟晓梅故地重游",
@@ -4913,6 +4921,14 @@
       "onboard_time": 1687834835,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132946,
+      "num": 132946,
+      "word": "张雪峰",
+      "onboard_time": 1687903214,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129970,
@@ -5179,14 +5195,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 94007,
-      "num": 94007,
-      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
-      "onboard_time": 1687889537,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91668,
       "num": 91668,
       "word": "阿豆入选亚运会",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1687794579,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85889,
+      "num": 85889,
+      "word": "韩国犯罪电影看完令人绝望",
+      "onboard_time": 1687891214,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 81229,
@@ -5243,14 +5259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69192,
-      "num": 69192,
-      "word": "韩国犯罪电影看完令人绝望",
-      "onboard_time": 1687891214,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 67723,
       "num": 67723,
       "word": "女儿每次回家爸爸都在地铁口等候",
@@ -5265,14 +5273,6 @@
       "onboard_time": 1687885763,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 66058,
-      "num": 66058,
-      "word": "张雪峰",
-      "onboard_time": 1687903214,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 61744,
