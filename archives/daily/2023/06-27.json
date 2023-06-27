@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687869544105,
+  "endTime": 1687870651112,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -19,19 +19,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8008453,
+      "num": 8008453,
+      "word": "萧敬腾求婚林有慧",
+      "onboard_time": 1687868979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6319424,
       "num": 1792166,
       "word": "陈建州 你范范姐就很不爱这种事啊",
       "onboard_time": 1687838681,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4335041,
-      "num": 4335041,
-      "word": "萧敬腾求婚林有慧",
-      "onboard_time": 1687868979,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -65,6 +65,14 @@
       "onboard_time": 1687849475,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2525234,
+      "num": 581158,
+      "word": "内娱影圈四大顶流",
+      "onboard_time": 1687866458,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2347993,
@@ -153,14 +161,6 @@
       "onboard_time": 1687854399,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1857662,
-      "num": 581158,
-      "word": "内娱影圈四大顶流",
-      "onboard_time": 1687866458,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1843370,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1014337,
+      "num": 1014337,
+      "word": "女儿都22岁了什么时候才能独立",
+      "onboard_time": 1687865620,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1009465,
       "num": 265026,
       "word": "健身教练吸毒一个多月暴瘦70斤",
@@ -451,20 +459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 947818,
+      "num": 301578,
+      "word": "陈建州曾邀沈玉琳进暗黑群组",
+      "onboard_time": 1687869703,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936978,
       "num": 936978,
       "word": "海南考生881分想报北大",
       "onboard_time": 1687826681,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 928900,
-      "num": 928900,
-      "word": "女儿都22岁了什么时候才能独立",
-      "onboard_time": 1687865620,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 923549,
@@ -675,6 +683,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 629697,
+      "num": 385254,
+      "word": "妈妈回应私拆女儿的档案",
+      "onboard_time": 1687868377,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627866,
       "num": 627866,
       "word": "韩素希吃棒棒糖姬达狂响",
@@ -729,6 +745,14 @@
       "onboard_time": 1687842583,
       "rank": 25,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 589213,
+      "num": 589213,
+      "word": "惠英红哽咽回应",
+      "onboard_time": 1687870123,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 577196,
@@ -817,6 +841,14 @@
       "onboard_time": 1687824700,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515475,
+      "num": 515475,
+      "word": "爸爸让儿子猜高考成绩连喊3次低了",
+      "onboard_time": 1687869409,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 513760,
@@ -971,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433010,
-      "num": 375283,
-      "word": "妈妈回应私拆女儿的档案",
-      "onboard_time": 1687868377,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431624,
       "num": 431624,
       "word": "孙子高考561分乡下爷爷送来5000元奖励",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1687830274,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417774,
+      "num": 301488,
+      "word": "仙女棒已经进化到这种程度了吗",
+      "onboard_time": 1687868558,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 412282,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1687842171,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364158,
+      "num": 364158,
+      "word": "萧敬腾下个雨庆祝一下吧",
+      "onboard_time": 1687870301,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 350939,
@@ -1475,14 +1515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289501,
-      "num": 289501,
-      "word": "爸爸让儿子猜高考成绩连喊3次低了",
-      "onboard_time": 1687869409,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 284737,
       "num": 284737,
       "word": "古早淡妆",
@@ -1504,14 +1536,6 @@
       "word": "发薪日的办公室气氛好微妙",
       "onboard_time": 1687859982,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 281842,
-      "num": 281842,
-      "word": "仙女棒已经进化到这种程度了吗",
-      "onboard_time": 1687868558,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -1553,6 +1577,14 @@
       "onboard_time": 1687786370,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270215,
+      "num": 270215,
+      "word": "这狗好啊 有蚊子它真上",
+      "onboard_time": 1687869464,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 269431,
@@ -1651,6 +1683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248794,
+      "num": 248794,
+      "word": "深圳晚霞",
+      "onboard_time": 1687868258,
+      "rank": 44,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 244916,
       "num": 244916,
       "word": "从阿拉斯加的冰川里弄一杯水喝",
@@ -1665,14 +1705,6 @@
       "onboard_time": 1687832916,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244094,
-      "num": 244094,
-      "word": "深圳晚霞",
-      "onboard_time": 1687868258,
-      "rank": 44,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 241954,
@@ -1931,14 +1963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201586,
-      "num": 201586,
-      "word": "这狗好啊 有蚊子它真上",
-      "onboard_time": 1687869464,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "梦中的那片海",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1687797149,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192434,
+      "num": 301623,
+      "word": "有机熊猫果排排躺",
+      "onboard_time": 1687870301,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190497,
@@ -2459,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104846,
+      "num": 565052,
+      "word": "男孩落水紧抓树枝镇干部跳河急救",
+      "onboard_time": 1687867234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100129,
       "num": 103646,
       "word": "兰大录取通知书还送碗牛肉面",
@@ -2472,14 +2512,6 @@
       "word": "晚高峰私家车自发45度让行救护车",
       "onboard_time": 1687794579,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76582,
-      "num": 565052,
-      "word": "男孩落水紧抓树枝镇干部跳河急救",
-      "onboard_time": 1687867234,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
