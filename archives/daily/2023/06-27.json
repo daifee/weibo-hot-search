@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687834921155,
+  "endTime": 1687835461538,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -43,6 +43,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1522542,
+      "num": 1522542,
+      "word": "毕业照只有一人没被马赛克",
+      "onboard_time": 1687828959,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1498422,
       "num": 1498422,
       "word": "文咏珊早几年都干嘛去了",
@@ -67,12 +75,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1202007,
-      "num": 1202007,
-      "word": "毕业照只有一人没被马赛克",
-      "onboard_time": 1687828959,
+      "raw_hot": 1221602,
+      "num": 1221602,
+      "word": "iPhone15Pro将成主打产品",
+      "onboard_time": 1687833815,
       "rank": 10,
-      "category": "社会新闻,教育"
+      "category": "科技"
     },
     {
       "raw_hot": 1147980,
@@ -139,12 +147,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 721854,
-      "num": 608636,
-      "word": "iPhone15Pro将成主打产品",
+      "raw_hot": 726369,
+      "num": 726369,
+      "word": "高铁调座椅弄撒了后座的泡面",
+      "onboard_time": 1687831356,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 704975,
+      "num": 704975,
+      "word": "每小时100块你愿意加班吗",
       "onboard_time": 1687833815,
-      "rank": 10,
-      "category": "科技"
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 682945,
@@ -171,14 +187,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 617619,
-      "num": 617619,
-      "word": "高铁调座椅弄撒了后座的泡面",
-      "onboard_time": 1687831356,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 605114,
       "num": 605114,
       "word": "黄奕谈做7年全职妈妈的经历",
@@ -195,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576667,
+      "num": 576667,
+      "word": "房子被邻居封死入户门后续",
+      "onboard_time": 1687832916,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562008,
       "num": 562008,
       "word": "官方回应网传乐山大佛被卖",
@@ -209,14 +225,6 @@
       "onboard_time": 1687790206,
       "rank": 6,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 538186,
-      "num": 538186,
-      "word": "每小时100块你愿意加班吗",
-      "onboard_time": 1687833815,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 534021,
@@ -267,14 +275,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 475443,
-      "num": 475443,
-      "word": "房子被邻居封死入户门后续",
-      "onboard_time": 1687832916,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465565,
       "num": 465565,
       "word": "消失的她票房",
@@ -288,6 +288,14 @@
       "word": "伊能静曾说陈哲远可以靠脸就红",
       "onboard_time": 1687826863,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442607,
+      "num": 442607,
+      "word": "管文丁宁新恋情",
+      "onboard_time": 1687834476,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356974,
+      "num": 289298,
+      "word": "有人劝我结婚我就捧杀对方",
+      "onboard_time": 1687835137,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350939,
       "num": 350939,
       "word": "段嘉许表白",
@@ -371,12 +387,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 331313,
-      "num": 331313,
-      "word": "管文丁宁新恋情",
-      "onboard_time": 1687834476,
-      "rank": 24,
+      "raw_hot": 338622,
+      "num": 338622,
+      "word": "赵露思桑稚醉酒哭戏小说还原度",
+      "onboard_time": 1687834000,
+      "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331043,
+      "num": 331043,
+      "word": "美依礼芽wink",
+      "onboard_time": 1687834598,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 329836,
@@ -459,6 +483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305756,
+      "num": 281207,
+      "word": "夫妇颜值差异过大被疑婚姻动机不纯",
+      "onboard_time": 1687835137,
+      "rank": 31,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 299531,
+      "num": 299531,
+      "word": "戴耳机睡觉结果耳机掉嘴里了",
+      "onboard_time": 1687835137,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296071,
       "num": 296071,
       "word": "警方通报男童被打跳楼",
@@ -515,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264200,
-      "num": 264200,
-      "word": "赵露思桑稚醉酒哭戏小说还原度",
-      "onboard_time": 1687834000,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263044,
       "num": 263044,
       "word": "一家攒钱给弟弟的房子装潢",
@@ -577,14 +609,6 @@
       "onboard_time": 1687829138,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239345,
-      "num": 239345,
-      "word": "美依礼芽wink",
-      "onboard_time": 1687834598,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 237481,
@@ -723,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198496,
+      "num": 198496,
+      "word": "7月kpop好热闹",
+      "onboard_time": 1687833338,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195323,
       "num": 195323,
       "word": "齐思钧 身体一直没有彻底康复",
@@ -777,14 +809,6 @@
       "onboard_time": 1687831957,
       "rank": 42,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 182155,
-      "num": 182155,
-      "word": "7月kpop好热闹",
-      "onboard_time": 1687833338,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 180147,
@@ -1139,6 +1163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 32125,
+      "num": 253436,
+      "word": "什么是大国的美食自信",
+      "onboard_time": 1687834835,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28065,
       "num": 80846,
       "word": "iQOO11S",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1687806913,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 16850,
-      "num": 239565,
-      "word": "什么是大国的美食自信",
-      "onboard_time": 1687834835,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
