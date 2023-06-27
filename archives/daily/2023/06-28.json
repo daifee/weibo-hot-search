@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687907939568,
+  "endTime": 1687908864546,
   "band_list": [
     {
       "raw_hot": 2748188,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1205890,
+      "num": 1205890,
+      "word": "周鸿祎被清华录取",
+      "onboard_time": 1687872581,
+      "rank": 7,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1147028,
       "num": 1147028,
       "word": "人狗合一",
       "onboard_time": 1687880261,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 878480,
-      "num": 878480,
-      "word": "周鸿祎被清华录取",
-      "onboard_time": 1687872581,
-      "rank": 7,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 777349,
@@ -139,8 +139,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573895,
-      "num": 414194,
+      "raw_hot": 588626,
+      "num": 588626,
       "word": "陈建州曾邀沈玉琳进暗黑群组",
       "onboard_time": 1687869703,
       "rank": 16,
@@ -163,8 +163,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 477340,
-      "num": 477340,
+      "raw_hot": 525098,
+      "num": 525098,
+      "word": "六公主拍的Angelababy",
+      "onboard_time": 1687907784,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485347,
+      "num": 485347,
       "word": "张雪峰",
       "onboard_time": 1687903214,
       "rank": 27,
@@ -177,6 +185,14 @@
       "onboard_time": 1687855901,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459135,
+      "num": 268787,
+      "word": "虞书欣也没有脚脖子",
+      "onboard_time": 1687907724,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 448788,
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365570,
+      "num": 365570,
+      "word": "女孩考上清华家人放烟花前向邻居报备",
+      "onboard_time": 1687865436,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 361894,
       "num": 319402,
       "word": "妈妈回应私拆女儿的档案",
@@ -241,14 +265,6 @@
       "onboard_time": 1687878764,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355574,
-      "num": 355574,
-      "word": "女孩考上清华家人放烟花前向邻居报备",
-      "onboard_time": 1687865436,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 340213,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311027,
+      "num": 311027,
+      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+      "onboard_time": 1687889537,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299264,
       "num": 299264,
       "word": "最长的接吻居然长达58小时",
@@ -299,12 +323,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 282847,
-      "num": 282847,
-      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
-      "onboard_time": 1687889537,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 272045,
+      "num": 272045,
+      "word": "2024QS世界大学排名",
+      "onboard_time": 1687908444,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 264048,
@@ -347,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213178,
+      "num": 213178,
+      "word": "花臂大哥扎针3护士20分钟才找到血管",
+      "onboard_time": 1687907303,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212575,
       "num": 212575,
       "word": "李凯尔抵达中国",
       "onboard_time": 1687879422,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202702,
+      "num": 202702,
+      "word": "小伙辞职宅在家两年囤1.5万条毛巾",
+      "onboard_time": 1687878467,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202634,
@@ -379,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190619,
+      "num": 190619,
+      "word": "陈哲远21岁vs27岁",
+      "onboard_time": 1687908085,
+      "rank": 29,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 182076,
+      "num": 182076,
+      "word": "82版西游记主创挂念的苏州演员找到了",
+      "onboard_time": 1687906943,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181061,
       "num": 181061,
       "word": "孙东云官宣结婚",
@@ -403,22 +459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160564,
-      "num": 160564,
-      "word": "小伙辞职宅在家两年囤1.5万条毛巾",
-      "onboard_time": 1687878467,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159331,
-      "num": 159331,
-      "word": "虞书欣也没有脚脖子",
-      "onboard_time": 1687907724,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156607,
       "num": 156607,
       "word": "4岁男童沉迷看医院手术视频",
@@ -433,6 +473,14 @@
       "onboard_time": 1687858424,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151240,
+      "num": 151240,
+      "word": "26岁非遗传承人收了30多个徒弟",
+      "onboard_time": 1687908565,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149453,
@@ -459,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134429,
+      "num": 134429,
+      "word": "你知道自己的档案在哪吗",
+      "onboard_time": 1687908565,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133807,
       "num": 133807,
       "word": "肖春生佟晓梅故地重游",
       "onboard_time": 1687884269,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133110,
-      "num": 133110,
-      "word": "六公主拍的Angelababy",
-      "onboard_time": 1687907784,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120434,
@@ -499,6 +547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110592,
+      "num": 110592,
+      "word": "原来这就是知识改变命运",
+      "onboard_time": 1687906943,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105674,
       "num": 105674,
       "word": "闹市区惊现花面狸叼幼崽走钢丝",
@@ -507,27 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100603,
-      "num": 100603,
-      "word": "花臂大哥扎针3护士20分钟才找到血管",
-      "onboard_time": 1687907303,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89023,
-      "num": 89023,
-      "word": "原来这就是知识改变命运",
-      "onboard_time": 1687906943,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 87114,
-      "num": 87114,
-      "word": "82版西游记主创挂念的苏州演员找到了",
-      "onboard_time": 1687906943,
-      "rank": 43,
+      "raw_hot": 84966,
+      "num": 84966,
+      "word": "成都暴雨",
+      "onboard_time": 1687908746,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -539,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82080,
-      "num": 82080,
+      "raw_hot": 82299,
+      "num": 82299,
       "word": "这大概是深圳最火的摆摊了",
       "onboard_time": 1687885763,
       "rank": 33,
