@@ -1,0 +1,410 @@
+{
+  "runTime": 1687850298567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2835436,
+        "num": 2835436,
+        "word": "男朋友发朋友圈官宣仅我可见",
+        "onboard_time": 1687842765,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 2009647,
+        "num": 2009647,
+        "word": "前男友居然去做了变性手术",
+        "onboard_time": 1687847617,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58595,
+        "num": 1789685,
+        "word": "用电影海报打开千万工程20年巨变",
+        "onboard_time": 1687839046,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2420216,
+        "num": 1740269,
+        "word": "陈建州被指控性骚扰",
+        "onboard_time": 1687837780,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1651199,
+        "num": 1651199,
+        "word": "微信否认文件传输助手是真人",
+        "onboard_time": 1687846115,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249568,
+        "num": 1249568,
+        "word": "柳智敏回应",
+        "onboard_time": 1687849475,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1711831,
+        "num": 1243728,
+        "word": "范玮琪支持老公陈建州",
+        "onboard_time": 1687847496,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001336,
+        "num": 1001336,
+        "word": "陈哲远用屁股把赵露思拱下去了",
+        "onboard_time": 1687847978,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821098,
+        "num": 821098,
+        "word": "我国今年已有100万人买30万元以上汽车",
+        "onboard_time": 1687842943,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732484,
+        "num": 732484,
+        "word": "川大回应律所称不再招川大毕业生",
+        "onboard_time": 1687842046,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1095572,
+        "num": 729334,
+        "word": "大牙回应陈建州声明",
+        "onboard_time": 1687847198,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755557,
+        "num": 727383,
+        "word": "才知道文咏珊已经结婚了",
+        "onboard_time": 1687848637,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723928,
+        "num": 723928,
+        "word": "林生斌关联公司被吊销",
+        "onboard_time": 1687838079,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 711358,
+        "num": 711358,
+        "word": "研究发现越工作越丑",
+        "onboard_time": 1687846475,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 656829,
+        "num": 656829,
+        "word": "陈建州范玮琪2011年完婚",
+        "onboard_time": 1687848035,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636606,
+        "num": 636606,
+        "word": "clid被爆聊天性骚扰",
+        "onboard_time": 1687847798,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 625932,
+        "num": 625932,
+        "word": "杭州女子养仓鼠脸烂成火龙果",
+        "onboard_time": 1687840132,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607757,
+        "num": 607757,
+        "word": "差点认不出张艺兴",
+        "onboard_time": 1687849178,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526878,
+        "num": 526878,
+        "word": "何非没拔李木子的氧气罐",
+        "onboard_time": 1687848276,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515306,
+        "num": 515306,
+        "word": "iPhone15Pro将成主打产品",
+        "onboard_time": 1687833815,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 502914,
+        "num": 502914,
+        "word": "文咏珊非过没丑过",
+        "onboard_time": 1687838744,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403776,
+        "num": 403776,
+        "word": "空姐结识男乘客染毒瘾后贩毒",
+        "onboard_time": 1687836400,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473366,
+        "num": 402076,
+        "word": "男子消失的她映后影院求婚",
+        "onboard_time": 1687839284,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453692,
+        "num": 401201,
+        "word": "Angelababy文咏珊合照",
+        "onboard_time": 1687848758,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 393140,
+        "num": 393140,
+        "word": "骨折一个月腿瘦了一圈",
+        "onboard_time": 1687840378,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408528,
+        "num": 390619,
+        "word": "差一个字甄嬛传就不保了",
+        "onboard_time": 1687847675,
+        "rank": 25,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 401195,
+        "num": 382051,
+        "word": "段嘉许车牌号是桑稚我爱你",
+        "onboard_time": 1687840732,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367288,
+        "num": 367288,
+        "word": "每小时100块你愿意加班吗",
+        "onboard_time": 1687833815,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384920,
+        "num": 351104,
+        "word": "陈哲远不让主持人叫赵露思只只",
+        "onboard_time": 1687849296,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327764,
+        "num": 327764,
+        "word": "爸爸得了抑郁症 出门前拥抱他",
+        "onboard_time": 1687841390,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561672,
+        "num": 324553,
+        "word": "虫虫 你人还怪好的嘞",
+        "onboard_time": 1687848218,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357364,
+        "num": 310578,
+        "word": "大牙",
+        "onboard_time": 1687839106,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292179,
+        "num": 292179,
+        "word": "趁我还鲜活不让任何人熄灭我",
+        "onboard_time": 1687848997,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 258248,
+        "num": 258248,
+        "word": "男子坐乘务长老婆的飞机被区别对待",
+        "onboard_time": 1687847377,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256628,
+        "num": 256628,
+        "word": "陈建州否认性骚扰指控",
+        "onboard_time": 1687842347,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252525,
+        "num": 252525,
+        "word": "白敬亭看了都无法原谅的手绘画",
+        "onboard_time": 1687844558,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251422,
+        "num": 251422,
+        "word": "考研二战我关闭了朋友圈一年",
+        "onboard_time": 1687839046,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237310,
+        "num": 237310,
+        "word": "女儿为53岁父亲高考查分选大学",
+        "onboard_time": 1687839954,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234856,
+        "num": 234856,
+        "word": "同事上完厕所一直不冲马桶",
+        "onboard_time": 1687845096,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155647,
+        "num": 217170,
+        "word": "大叔西湖边挑一担子荷花只送不卖",
+        "onboard_time": 1687849058,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 151590,
+        "num": 212603,
+        "word": "1岁娃边哭边窥探敌情",
+        "onboard_time": 1687846959,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210126,
+        "num": 210126,
+        "word": "16岁中学生校内服毒自杀身亡",
+        "onboard_time": 1687832255,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201108,
+        "num": 201108,
+        "word": "女铁骑翻车后第一句话问路人没事吧",
+        "onboard_time": 1687849599,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 199722,
+        "num": 199722,
+        "word": "女子称有人冒充公公去幼儿园接娃",
+        "onboard_time": 1687845394,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197906,
+        "num": 197906,
+        "word": "上海游泳馆设女性专用泳道",
+        "onboard_time": 1687850258,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 194291,
+        "num": 194291,
+        "word": "未定事件簿",
+        "onboard_time": 1687848336,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193598,
+        "num": 193598,
+        "word": "韩素希吃棒棒糖姬达狂响",
+        "onboard_time": 1687841090,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 188479,
+        "num": 188479,
+        "word": "花900万日元换头面目全非",
+        "onboard_time": 1687850139,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 186949,
+        "num": 186949,
+        "word": "景甜内娱女菩萨",
+        "onboard_time": 1687821445,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182002,
+        "num": 182002,
+        "word": "去医院查早孕被妈妈知道了",
+        "onboard_time": 1687823071,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#党和国家事业的希望寄托在青年身上#"
+    }
+  }
+}

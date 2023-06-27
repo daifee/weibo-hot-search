@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687847978209,
+  "endTime": 1687850298567,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2525925,
-      "num": 2525925,
+      "raw_hot": 2835436,
+      "num": 2835436,
       "word": "男朋友发朋友圈官宣仅我可见",
       "onboard_time": 1687842765,
       "rank": 34,
@@ -67,12 +67,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2009647,
+      "num": 2009647,
+      "word": "前男友居然去做了变性手术",
+      "onboard_time": 1687847617,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1711831,
+      "num": 1243728,
+      "word": "范玮琪支持老公陈建州",
+      "onboard_time": 1687847496,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1666817,
       "num": 1666817,
       "word": "林生斌关联公司被吊销",
       "onboard_time": 1687838079,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1651199,
+      "num": 1651199,
+      "word": "微信否认文件传输助手是真人",
+      "onboard_time": 1687846115,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1651175,
@@ -139,12 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1224938,
-      "num": 1224938,
-      "word": "微信否认文件传输助手是真人",
-      "onboard_time": 1687846115,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 1249568,
+      "num": 1249568,
+      "word": "柳智敏回应",
+      "onboard_time": 1687849475,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1147980,
@@ -217,6 +241,14 @@
       "onboard_time": 1687838744,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1001336,
+      "num": 1001336,
+      "word": "陈哲远用屁股把赵露思拱下去了",
+      "onboard_time": 1687847978,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 960114,
@@ -315,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 755557,
+      "num": 727383,
+      "word": "才知道文咏珊已经结婚了",
+      "onboard_time": 1687848637,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735297,
       "num": 735297,
       "word": "LV上海书店帆布包最低580",
@@ -347,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711358,
+      "num": 711358,
+      "word": "研究发现越工作越丑",
+      "onboard_time": 1687846475,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 690571,
       "num": 690571,
       "word": "清洁工嫌吵关电源致25年成果被毁",
@@ -371,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670483,
-      "num": 670483,
-      "word": "研究发现越工作越丑",
-      "onboard_time": 1687846475,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 667995,
       "num": 667995,
       "word": "普里戈任称瓦格纳7月1日不复存在",
@@ -387,12 +427,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 656829,
+      "num": 656829,
+      "word": "陈建州范玮琪2011年完婚",
+      "onboard_time": 1687848035,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644626,
       "num": 639002,
       "word": "爸爸得了抑郁症 出门前拥抱他",
       "onboard_time": 1687841390,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 636606,
+      "num": 636606,
+      "word": "clid被爆聊天性骚扰",
+      "onboard_time": 1687847798,
+      "rank": 44,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 627866,
@@ -416,6 +472,14 @@
       "word": "管文丁宁新恋情",
       "onboard_time": 1687834476,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 607757,
+      "num": 607757,
+      "word": "差点认不出张艺兴",
+      "onboard_time": 1687849178,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -451,6 +515,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 561672,
+      "num": 324553,
+      "word": "虫虫 你人还怪好的嘞",
+      "onboard_time": 1687848218,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547472,
       "num": 547472,
       "word": "黑人女孩的中国初体验",
@@ -473,6 +545,14 @@
       "onboard_time": 1687824700,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526878,
+      "num": 526878,
+      "word": "何非没拔李木子的氧气罐",
+      "onboard_time": 1687848276,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 511019,
@@ -563,12 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435104,
-      "num": 435104,
-      "word": "范玮琪支持老公陈建州",
-      "onboard_time": 1687847496,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 453692,
+      "num": 401201,
+      "word": "Angelababy文咏珊合照",
+      "onboard_time": 1687848758,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 434869,
@@ -619,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408528,
+      "num": 390619,
+      "word": "差一个字甄嬛传就不保了",
+      "onboard_time": 1687847675,
+      "rank": 25,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 404002,
       "num": 404002,
       "word": "赵露思说陈哲远像村支书",
@@ -667,6 +755,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 384920,
+      "num": 351104,
+      "word": "陈哲远不让主持人叫赵露思只只",
+      "onboard_time": 1687849296,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383396,
       "num": 383396,
       "word": "女子称有人冒充公公去幼儿园接娃",
@@ -705,14 +801,6 @@
       "onboard_time": 1687842171,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365336,
-      "num": 365336,
-      "word": "前男友居然去做了变性手术",
-      "onboard_time": 1687847617,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 350939,
@@ -923,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292179,
+      "num": 292179,
+      "word": "趁我还鲜活不让任何人熄灭我",
+      "onboard_time": 1687848997,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 292165,
       "num": 292165,
       "word": "朱一龙消失的她杀青后只想跑",
@@ -985,6 +1081,14 @@
       "onboard_time": 1687828058,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258248,
+      "num": 258248,
+      "word": "男子坐乘务长老婆的飞机被区别对待",
+      "onboard_time": 1687847377,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256022,
@@ -1203,20 +1307,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202933,
-      "num": 202933,
-      "word": "clid被爆聊天性骚扰",
-      "onboard_time": 1687847798,
-      "rank": 44,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "梦中的那片海",
       "onboard_time": 1687793619,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201108,
+      "num": 201108,
+      "word": "女铁骑翻车后第一句话问路人没事吧",
+      "onboard_time": 1687849599,
+      "rank": 42,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 198496,
@@ -1227,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197906,
+      "num": 197906,
+      "word": "上海游泳馆设女性专用泳道",
+      "onboard_time": 1687850258,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 195323,
       "num": 195323,
       "word": "齐思钧 身体一直没有彻底康复",
@@ -1235,12 +1347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194292,
-      "num": 194292,
-      "word": "男子坐乘务长老婆的飞机被区别对待",
-      "onboard_time": 1687847377,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 194291,
+      "num": 194291,
+      "word": "未定事件簿",
+      "onboard_time": 1687848336,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 192452,
@@ -1273,6 +1385,14 @@
       "onboard_time": 1687821624,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188479,
+      "num": 188479,
+      "word": "花900万日元换头面目全非",
+      "onboard_time": 1687850139,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 186973,
@@ -1425,6 +1545,14 @@
       "onboard_time": 1687832074,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155647,
+      "num": 217170,
+      "word": "大叔西湖边挑一担子荷花只送不卖",
+      "onboard_time": 1687849058,
+      "rank": 39,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 155602,
