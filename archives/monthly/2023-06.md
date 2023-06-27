@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/27 23:35:01
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 00:25:39
 </p>
 </blockquote>
 <p>
@@ -1059,6 +1059,12 @@ TF三代吵架（热度：2575314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
+猴痘（热度：2538460）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23" target="weibo">
 偷偷藏不住作者才20岁（热度：2533564）
 </a>
@@ -1091,12 +1097,6 @@ TF三代吵架（热度：2575314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23" target="weibo">
 曝光大叔女子哭诉学校准备开除她（热度：2512576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23" target="weibo">
-猴痘（热度：2511308）
 </a>
 </li>
 
@@ -3999,6 +3999,12 @@ Jennie演唱会中途离场（热度：1445483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23" target="weibo">
+警方通报男子反复碾压女子致死（热度：1404625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%BA%AE%20%E6%9C%89%E4%B8%AA%E4%BA%8B%E6%8C%BA%E7%98%86%E5%BE%97%E6%85%8C%23" target="weibo">
 无穷小亮 有个事挺瘆得慌（热度：1404564）
 </a>
@@ -6005,12 +6011,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%B8%89%E5%8D%81%E4%BA%86%E8%BF%98%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%AD%A9%E6%AD%A3%E5%B8%B8%E5%90%97%23" target="weibo">
 二三十了还觉得自己是个小孩正常吗（热度：1081873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E9%A1%B9%E9%93%BE%E5%A5%BD%E7%89%B9%E5%88%AB%23" target="weibo">
-迪丽热巴的项链好特别（热度：1079739）
 </a>
 </li>
 

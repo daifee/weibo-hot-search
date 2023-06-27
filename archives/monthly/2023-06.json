@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687880101892,
+  "endTime": 1687883139785,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2538460,
+      "num": 1381976,
+      "word": "猴痘",
+      "onboard_time": 1686058292,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2533564,
       "num": 2533564,
       "word": "偷偷藏不住作者才20岁",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1686497909,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2511308,
-      "num": 1381976,
-      "word": "猴痘",
-      "onboard_time": 1686058292,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2506958,
@@ -5315,6 +5315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1404625,
+      "num": 1404625,
+      "word": "警方通报男子反复碾压女子致死",
+      "onboard_time": 1687880382,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1404564,
       "num": 1404564,
       "word": "无穷小亮 有个事挺瘆得慌",
@@ -8443,6 +8451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036041,
+      "num": 1036041,
+      "word": "人狗合一",
+      "onboard_time": 1687880261,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1035564,
       "num": 1035564,
       "word": "TFBOYS十周年演唱会招商PPT",
@@ -9399,6 +9415,14 @@
       "num": 951218,
       "word": "胡锡进 这个人不知让什么冲昏了头脑",
       "onboard_time": 1686182790,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950599,
+      "num": 950599,
+      "word": "江西航空",
+      "onboard_time": 1687881220,
       "rank": 6,
       "category": "社会新闻"
     },
@@ -12641,6 +12665,14 @@
       "onboard_time": 1687068568,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 727345,
+      "num": 727345,
+      "word": "男子13岁得糖尿病27岁进ICU",
+      "onboard_time": 1687879784,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726736,
@@ -23579,6 +23611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358844,
+      "num": 333237,
+      "word": "周翊然张淼怡新剧吻戏",
+      "onboard_time": 1687878764,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358636,
       "num": 358636,
       "word": "陈情令的长尾效应",
@@ -25297,14 +25337,6 @@
       "onboard_time": 1686999749,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333237,
-      "num": 333237,
-      "word": "周翊然张淼怡新剧吻戏",
-      "onboard_time": 1687878764,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 333216,
@@ -27763,14 +27795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303877,
-      "num": 303877,
-      "word": "男子13岁得糖尿病27岁进ICU",
-      "onboard_time": 1687879784,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303837,
       "num": 303837,
       "word": "黄仁俊七月封面",
@@ -29163,6 +29187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290052,
+      "num": 290052,
+      "word": "被妈妈问是不是一个朋友都没有",
+      "onboard_time": 1687881339,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 290019,
       "num": 290019,
       "word": "段嘉许连叫桑延三声哥哥",
@@ -29705,6 +29737,14 @@
       "onboard_time": 1687125373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285543,
+      "num": 285543,
+      "word": "姜个顾事",
+      "onboard_time": 1687882415,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 285283,
@@ -31281,6 +31321,14 @@
       "onboard_time": 1687411353,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271895,
+      "num": 271895,
+      "word": "张雪峰呼吁警惕填志愿骗局",
+      "onboard_time": 1687881995,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 271849,
@@ -35177,6 +35225,14 @@
       "onboard_time": 1687080629,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244735,
+      "num": 293223,
+      "word": "千万不要随意私拆学生档案",
+      "onboard_time": 1687882232,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 244601,
@@ -40379,6 +40435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214063,
+      "num": 214063,
+      "word": "为什么不让外向的人少说话",
+      "onboard_time": 1687882055,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214057,
       "num": 214057,
       "word": "黄晓明提问比尔盖茨",
@@ -40689,6 +40753,14 @@
       "onboard_time": 1687526437,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212575,
+      "num": 242046,
+      "word": "李凯尔抵达中国",
+      "onboard_time": 1687879422,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 212568,
@@ -41209,14 +41281,6 @@
       "onboard_time": 1686046410,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210124,
-      "num": 242046,
-      "word": "李凯尔抵达中国",
-      "onboard_time": 1687879422,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 210104,
@@ -50667,6 +50731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165077,
+      "num": 165077,
+      "word": "林俊杰专辑预购",
+      "onboard_time": 1687881636,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165025,
       "num": 468634,
       "word": "晒晒你的六一小餐桌",
@@ -52833,6 +52905,14 @@
       "onboard_time": 1687248214,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 153562,
+      "num": 153562,
+      "word": "医院回应女子被司机反复碾轧遇害",
+      "onboard_time": 1687883074,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153520,
@@ -58857,6 +58937,14 @@
       "onboard_time": 1686407191,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114418,
+      "num": 139744,
+      "word": "这蛋包饭炒得也太秀了",
+      "onboard_time": 1687881935,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 114250,
