@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687847133979,
+  "endTime": 1687847978209,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -1337,6 +1337,14 @@
       "onboard_time": 1686977313,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2525925,
+      "num": 2525925,
+      "word": "男朋友发朋友圈官宣仅我可见",
+      "onboard_time": 1687842765,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2521682,
@@ -3113,14 +3121,6 @@
       "onboard_time": 1685768729,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1840342,
-      "num": 1840342,
-      "word": "男朋友发朋友圈官宣仅我可见",
-      "onboard_time": 1687842765,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1837421,
@@ -5931,6 +5931,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1282239,
+      "num": 1002052,
+      "word": "大牙回应陈建州声明",
+      "onboard_time": 1687847198,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1281297,
       "num": 1281297,
       "word": "何炅黄磊这一集更难向外网解释了吧",
@@ -6433,6 +6441,14 @@
       "onboard_time": 1687617034,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224938,
+      "num": 1224938,
+      "word": "微信否认文件传输助手是真人",
+      "onboard_time": 1687846115,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224190,
@@ -13259,6 +13275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670483,
+      "num": 670483,
+      "word": "研究发现越工作越丑",
+      "onboard_time": 1687846475,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 669807,
       "num": 185372,
       "word": "顾成 苏艳",
@@ -16089,14 +16113,6 @@
       "onboard_time": 1686983612,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 533377,
-      "num": 533377,
-      "word": "微信否认文件传输助手是真人",
-      "onboard_time": 1687846115,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533282,
@@ -19099,6 +19115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 435104,
+      "num": 435104,
+      "word": "范玮琪支持老公陈建州",
+      "onboard_time": 1687847496,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434979,
       "num": 421241,
       "word": "我的人间烟火",
@@ -20641,14 +20665,6 @@
       "onboard_time": 1686920068,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402857,
-      "num": 402857,
-      "word": "研究发现越工作越丑",
-      "onboard_time": 1687846475,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 402321,
@@ -22537,6 +22553,14 @@
       "onboard_time": 1686741268,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365336,
+      "num": 365336,
+      "word": "前男友居然去做了变性手术",
+      "onboard_time": 1687847617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 365142,
@@ -32523,6 +32547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256022,
+      "num": 286506,
+      "word": "1岁娃边哭边窥探敌情",
+      "onboard_time": 1687846959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255937,
       "num": 255937,
       "word": "请给我一个任敏这样的e人朋友",
@@ -41107,6 +41139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204660,
+      "num": 204660,
+      "word": "40度天消防摘蜂窝萌娃惊呼宇航员",
+      "onboard_time": 1687847919,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204600,
       "num": 204600,
       "word": "张雪峰 朋友对报考新传的建议",
@@ -41473,6 +41513,14 @@
       "onboard_time": 1687245512,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202933,
+      "num": 202933,
+      "word": "clid被爆聊天性骚扰",
+      "onboard_time": 1687847798,
+      "rank": 44,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 202909,
@@ -43433,6 +43481,14 @@
       "onboard_time": 1686298049,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194292,
+      "num": 194292,
+      "word": "男子坐乘务长老婆的飞机被区别对待",
+      "onboard_time": 1687847377,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194266,
@@ -51665,14 +51721,6 @@
       "onboard_time": 1686461968,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153297,
-      "num": 168577,
-      "word": "1岁娃边哭边窥探敌情",
-      "onboard_time": 1687846959,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153188,

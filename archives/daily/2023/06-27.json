@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687847133979,
+  "endTime": 1687847978209,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -17,6 +17,14 @@
       "onboard_time": 1687838681,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2525925,
+      "num": 2525925,
+      "word": "男朋友发朋友圈官宣仅我可见",
+      "onboard_time": 1687842765,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2286332,
@@ -57,14 +65,6 @@
       "onboard_time": 1687833815,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1840342,
-      "num": 1840342,
-      "word": "男朋友发朋友圈官宣仅我可见",
-      "onboard_time": 1687842765,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1666817,
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1282239,
+      "num": 1002052,
+      "word": "大牙回应陈建州声明",
+      "onboard_time": 1687847198,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1272122,
       "num": 1272122,
       "word": "段嘉许 男狐狸精",
       "onboard_time": 1687785405,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1224938,
+      "num": 1224938,
+      "word": "微信否认文件传输助手是真人",
+      "onboard_time": 1687846115,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1147980,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670483,
+      "num": 670483,
+      "word": "研究发现越工作越丑",
+      "onboard_time": 1687846475,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 667995,
       "num": 667995,
       "word": "普里戈任称瓦格纳7月1日不复存在",
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533377,
-      "num": 533377,
-      "word": "微信否认文件传输助手是真人",
-      "onboard_time": 1687846115,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511019,
       "num": 511019,
       "word": "Jennie新剧提前大结局",
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435104,
+      "num": 435104,
+      "word": "范玮琪支持老公陈建州",
+      "onboard_time": 1687847496,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434869,
       "num": 434869,
       "word": "王暖暖",
@@ -601,14 +625,6 @@
       "onboard_time": 1687837899,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 402857,
-      "num": 402857,
-      "word": "研究发现越工作越丑",
-      "onboard_time": 1687846475,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 401437,
@@ -689,6 +705,14 @@
       "onboard_time": 1687842171,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365336,
+      "num": 365336,
+      "word": "前男友居然去做了变性手术",
+      "onboard_time": 1687847617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 350939,
@@ -963,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256022,
+      "num": 286506,
+      "word": "1岁娃边哭边窥探敌情",
+      "onboard_time": 1687846959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254522,
       "num": 199368,
       "word": "杨天真评大学生毕业做主播",
@@ -1155,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204660,
+      "num": 204660,
+      "word": "40度天消防摘蜂窝萌娃惊呼宇航员",
+      "onboard_time": 1687847919,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203021,
       "num": 203021,
       "word": "当行车路上遇到一个默契的队友",
       "onboard_time": 1687834296,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202933,
+      "num": 202933,
+      "word": "clid被爆聊天性骚扰",
+      "onboard_time": 1687847798,
+      "rank": 44,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 201361,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1687768061,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194292,
+      "num": 194292,
+      "word": "男子坐乘务长老婆的飞机被区别对待",
+      "onboard_time": 1687847377,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192452,
@@ -1385,14 +1441,6 @@
       "onboard_time": 1687764950,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 153297,
-      "num": 168577,
-      "word": "1岁娃边哭边窥探敌情",
-      "onboard_time": 1687846959,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152806,
