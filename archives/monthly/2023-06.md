@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/27 10:15:46
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/27 11:02:01
 </p>
 </blockquote>
 <p>
@@ -4035,6 +4035,12 @@ minnie（热度：1358630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%9C%8D%E6%AF%92%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
+16岁中学生校内服毒自杀身亡（热度：1358002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 Jennie的衣服（热度：1357981）
 </a>
@@ -4905,6 +4911,12 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%85%A7%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BA%BA%E6%B2%A1%E8%A2%AB%E9%A9%AC%E8%B5%9B%E5%85%8B%23" target="weibo">
+毕业照只有一人没被马赛克（热度：1202007）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%23" target="weibo">
 吴磊虞书欣 骄阳似我（热度：1201069）
 </a>
@@ -5553,12 +5565,6 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%85%A7%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BA%BA%E6%B2%A1%E8%A2%AB%E9%A9%AC%E8%B5%9B%E5%85%8B%23" target="weibo">
-毕业照只有一人没被马赛克（热度：1102961）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%AE%E7%82%B9%E9%94%99%E8%BF%87%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%88%BB%23" target="weibo">
 魏晨差点错过孩子出生第一刻（热度：1102131）
 </a>
@@ -6005,12 +6011,6 @@ Rain 街舞6（热度：1075379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
 难听（热度：1044695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ChatGPT%E9%AB%98%E4%B8%89%E8%80%83%E8%AF%95%E4%BB%85%E7%89%A9%E7%90%86%E5%BE%97%E9%9B%B6%E5%88%86%23" target="weibo">
-ChatGPT高三考试仅物理得零分（热度：1044269）
 </a>
 </li>
 

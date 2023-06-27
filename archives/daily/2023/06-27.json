@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687832146777,
+  "endTime": 1687834921155,
   "band_list": [
     {
       "raw_hot": 2260469,
@@ -51,12 +51,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1358002,
+      "num": 1358002,
+      "word": "16岁中学生校内服毒自杀身亡",
+      "onboard_time": 1687832255,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272122,
       "num": 1272122,
       "word": "段嘉许 男狐狸精",
       "onboard_time": 1687785405,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1202007,
+      "num": 1202007,
+      "word": "毕业照只有一人没被马赛克",
+      "onboard_time": 1687828959,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1147980,
@@ -73,14 +89,6 @@
       "onboard_time": 1687818678,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1102961,
-      "num": 1102961,
-      "word": "毕业照只有一人没被马赛克",
-      "onboard_time": 1687828959,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1009465,
@@ -131,6 +139,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 721854,
+      "num": 608636,
+      "word": "iPhone15Pro将成主打产品",
+      "onboard_time": 1687833815,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 682945,
+      "num": 682945,
+      "word": "宠物医院把宠物名和主人名写反了",
+      "onboard_time": 1687831115,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 673756,
       "num": 673756,
       "word": "3000元化妆品用完后空瓶竟卖300元",
@@ -145,6 +169,14 @@
       "onboard_time": 1687821025,
       "rank": 8,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 617619,
+      "num": 617619,
+      "word": "高铁调座椅弄撒了后座的泡面",
+      "onboard_time": 1687831356,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 605114,
@@ -163,12 +195,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562008,
+      "num": 562008,
+      "word": "官方回应网传乐山大佛被卖",
+      "onboard_time": 1687831835,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 544891,
       "num": 544891,
       "word": "32岁硕士带8岁儿子参加毕业典礼",
       "onboard_time": 1687790206,
       "rank": 6,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 538186,
+      "num": 538186,
+      "word": "每小时100块你愿意加班吗",
+      "onboard_time": 1687833815,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 534021,
@@ -187,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 502613,
+      "num": 502613,
+      "word": "王霏霏的眼泪好大颗",
+      "onboard_time": 1687831233,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 497722,
       "num": 497722,
       "word": "新京报评偷偷藏不住",
@@ -195,11 +251,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 489038,
-      "num": 489038,
-      "word": "宠物医院把宠物名和主人名写反了",
-      "onboard_time": 1687831115,
-      "rank": 15,
+      "raw_hot": 487816,
+      "num": 487816,
+      "word": "健身和不健身的都沉默了",
+      "onboard_time": 1687832377,
+      "rank": 16,
       "category": "幽默"
     },
     {
@@ -209,6 +265,14 @@
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 475443,
+      "num": 475443,
+      "word": "房子被邻居封死入户门后续",
+      "onboard_time": 1687832916,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465565,
@@ -225,14 +289,6 @@
       "onboard_time": 1687826863,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 435638,
-      "num": 378407,
-      "word": "高铁调座椅弄撒了后座的泡面",
-      "onboard_time": 1687831356,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 434869,
@@ -283,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379217,
-      "num": 379217,
-      "word": "王霏霏的眼泪好大颗",
-      "onboard_time": 1687831233,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 377819,
       "num": 377819,
       "word": "消失的她",
@@ -323,6 +371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 331313,
+      "num": 331313,
+      "word": "管文丁宁新恋情",
+      "onboard_time": 1687834476,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329836,
       "num": 329836,
       "word": "外卖骑手两项违法致人死亡",
@@ -337,6 +393,14 @@
       "onboard_time": 1687796253,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325831,
+      "num": 325831,
+      "word": "酒店房间里的反光镜干嘛用的",
+      "onboard_time": 1687832916,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 324805,
@@ -411,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291910,
-      "num": 291910,
-      "word": "官方回应网传乐山大佛被卖",
-      "onboard_time": 1687831835,
-      "rank": 29,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 284737,
       "num": 284737,
       "word": "古早淡妆",
@@ -459,6 +515,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264200,
+      "num": 264200,
+      "word": "赵露思桑稚醉酒哭戏小说还原度",
+      "onboard_time": 1687834000,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263044,
+      "num": 263044,
+      "word": "一家攒钱给弟弟的房子装潢",
+      "onboard_time": 1687832916,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254522,
       "num": 199368,
       "word": "杨天真评大学生毕业做主播",
@@ -491,12 +563,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 244312,
+      "num": 244312,
+      "word": "程序员同事带着心事上班",
+      "onboard_time": 1687832916,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241954,
       "num": 241954,
       "word": "南京机场迷你缉毒犬上岗执勤",
       "onboard_time": 1687829138,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239345,
+      "num": 239345,
+      "word": "美依礼芽wink",
+      "onboard_time": 1687834598,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 237481,
@@ -611,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210278,
+      "num": 210278,
+      "word": "80岁阿尔兹海默症婆婆找到丈夫的墓",
+      "onboard_time": 1687834718,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203021,
+      "num": 203021,
+      "word": "当行车路上遇到一个默契的队友",
+      "onboard_time": 1687834296,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "梦中的那片海",
@@ -675,6 +779,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 182155,
+      "num": 182155,
+      "word": "7月kpop好热闹",
+      "onboard_time": 1687833338,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180147,
+      "num": 180147,
+      "word": "这俩猫就是没头脑和不高兴吧",
+      "onboard_time": 1687833815,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180014,
       "num": 180014,
       "word": "有灵性的人是什么样的",
@@ -689,6 +809,14 @@
       "onboard_time": 1687793379,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 174406,
+      "num": 174406,
+      "word": "缉毒警察的冲锋次序看哭了",
+      "onboard_time": 1687834835,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172649,
@@ -1025,6 +1153,14 @@
       "onboard_time": 1687806913,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16850,
+      "num": 239565,
+      "word": "什么是大国的美食自信",
+      "onboard_time": 1687834835,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
