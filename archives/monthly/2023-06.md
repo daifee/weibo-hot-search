@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/27 19:16:07
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/27 19:34:10
 </p>
 </blockquote>
 <p>
@@ -5955,6 +5955,12 @@ Jennie新剧（热度：1076254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E8%AF%AF%E4%BC%9A%E5%A6%B9%E5%A6%B9%E6%9C%88%E7%BB%8F%E6%98%AF%E5%81%B7%E6%83%85%E8%AF%81%E6%8D%AE%E5%B0%86%E5%85%B6%E8%99%90%E6%AD%BB%23" target="weibo">
+印度男子误会妹妹月经是偷情证据将其虐死（热度：1075760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%8E%BF%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E6%B3%A5%E7%9F%B3%E6%B5%817%E4%BA%BA%E5%A4%B1%E8%81%94%23" target="weibo">
 汶川县突发山洪泥石流7人失联（热度：1075720）
 </a>
@@ -6005,12 +6011,6 @@ Rain 街舞6（热度：1075379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%83%A4%E9%B8%AD%E9%A5%AD%E7%AA%97%E5%8F%A3%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
 天津大学扣饭事件后烤鸭饭窗口排长队（热度：1068496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E6%88%92%E5%B0%8F%E4%BC%99%E6%88%B4%E7%9D%80%E6%89%8B%E8%84%9A%E9%93%90%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A%23" target="weibo">
-强戒小伙戴着手脚铐领证结婚（热度：1065996）
 </a>
 </li>
 
