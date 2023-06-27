@@ -1,0 +1,410 @@
+{
+  "runTime": 1687876568279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7179073,
+        "num": 7179073,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3588933,
+        "num": 3588933,
+        "word": "周鸿祎被清华录取",
+        "onboard_time": 1687872581,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 51002,
+        "num": 2863763,
+        "word": "达沃斯在天津",
+        "onboard_time": 1687851157,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2711353,
+        "num": 2711353,
+        "word": "被男子反复碾压女子已身亡",
+        "onboard_time": 1687875586,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335916,
+        "num": 1335916,
+        "word": "那些和经纪人结婚的艺人",
+        "onboard_time": 1687872038,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139397,
+        "num": 1139397,
+        "word": "于斌多发点",
+        "onboard_time": 1687871261,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 896699,
+        "num": 896699,
+        "word": "考经纪人证",
+        "onboard_time": 1687871860,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686306,
+        "num": 686306,
+        "word": "当我飞奔向你",
+        "onboard_time": 1687873307,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682527,
+        "num": 682527,
+        "word": "女孩考上清华家人放烟花前向邻居报备",
+        "onboard_time": 1687865436,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 635640,
+        "num": 635640,
+        "word": "仙女棒已经进化到这种程度了吗",
+        "onboard_time": 1687868558,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2137562,
+        "num": 621601,
+        "word": "内娱影圈四大顶流",
+        "onboard_time": 1687866458,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1569231,
+        "num": 596507,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458807,
+        "num": 458807,
+        "word": "公司logo是董事长",
+        "onboard_time": 1687872943,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 396593,
+        "num": 396593,
+        "word": "女儿都22岁了什么时候才能独立",
+        "onboard_time": 1687865620,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115254,
+        "num": 395571,
+        "word": "高考生突发气胸被守护如今想学医",
+        "onboard_time": 1687874443,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312470,
+        "num": 394613,
+        "word": "山东东营警方回应男子驾车反复碾压女子",
+        "onboard_time": 1687872880,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124028,
+        "num": 392171,
+        "word": "范玮琪对陈建州偷吃的态度",
+        "onboard_time": 1687855238,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615851,
+        "num": 389324,
+        "word": "鹿晗广州演唱会告知声明",
+        "onboard_time": 1687872343,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365314,
+        "num": 387675,
+        "word": "4岁男童沉迷看医院手术视频",
+        "onboard_time": 1687875769,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539642,
+        "num": 386577,
+        "word": "小S曾在节目中批陈建州",
+        "onboard_time": 1687864417,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2480408,
+        "num": 384919,
+        "word": "肖战王一博早期吃火锅视频",
+        "onboard_time": 1687872522,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742136,
+        "num": 383099,
+        "word": "女生毕业删除90%同学被骂有病",
+        "onboard_time": 1687855901,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 347348,
+        "num": 380068,
+        "word": "印度男子误会妹妹月经是偷情证据将其虐死",
+        "onboard_time": 1687855901,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589998,
+        "num": 379186,
+        "word": "最长的接吻居然长达58小时",
+        "onboard_time": 1687861898,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 704311,
+        "num": 376072,
+        "word": "东营",
+        "onboard_time": 1687871499,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537338,
+        "num": 375583,
+        "word": "陈建州曾邀沈玉琳进暗黑群组",
+        "onboard_time": 1687869703,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374044,
+        "num": 374044,
+        "word": "妈妈回应私拆女儿的档案",
+        "onboard_time": 1687868377,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367636,
+        "num": 367636,
+        "word": "实习护士被要求给医生洗衣服",
+        "onboard_time": 1687873065,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 751426,
+        "num": 367474,
+        "word": "网传男子开车反复碾轧女子事发山东东营",
+        "onboard_time": 1687873965,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104601,
+        "num": 361835,
+        "word": "考前突发气胸的男孩考了630分",
+        "onboard_time": 1687875228,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 472541,
+        "num": 357686,
+        "word": "陈建州大牙行程对上了",
+        "onboard_time": 1687851099,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410273,
+        "num": 353189,
+        "word": "周杰伦昆凌见证萧敬腾求婚现场",
+        "onboard_time": 1687876307,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350198,
+        "num": 350198,
+        "word": "才知道文咏珊已经结婚了",
+        "onboard_time": 1687848637,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461403,
+        "num": 350052,
+        "word": "大牙回应陈建州声明",
+        "onboard_time": 1687847198,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349775,
+        "num": 349775,
+        "word": "她是懂上班防窥屏的",
+        "onboard_time": 1687875043,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347714,
+        "num": 347714,
+        "word": "花千骨2已备案",
+        "onboard_time": 1687862078,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345723,
+        "num": 345723,
+        "word": "孙东云官宣结婚",
+        "onboard_time": 1687867358,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343003,
+        "num": 343003,
+        "word": "萧敬腾伴郎团会有谁",
+        "onboard_time": 1687875406,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330447,
+        "num": 330447,
+        "word": "小伙4个月救同一名白衣天使两次",
+        "onboard_time": 1687876067,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300567,
+        "num": 300567,
+        "word": "上岸公务员后被亲戚贬低了",
+        "onboard_time": 1687865918,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289535,
+        "num": 289535,
+        "word": "重庆一医院被曝盒饭中吃出老鼠头",
+        "onboard_time": 1687859744,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282426,
+        "num": 282426,
+        "word": "萧敬腾下个雨庆祝一下吧",
+        "onboard_time": 1687870301,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282062,
+        "num": 282062,
+        "word": "清醒恋爱脑",
+        "onboard_time": 1687873906,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 273772,
+        "num": 273772,
+        "word": "Elk厄斐琉斯五杀",
+        "onboard_time": 1687875769,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271606,
+        "num": 271606,
+        "word": "张杰谢娜观看跳跳俏俏演出",
+        "onboard_time": 1687862679,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269810,
+        "num": 269810,
+        "word": "JennieTheidol剧照",
+        "onboard_time": 1687875707,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251110,
+        "num": 251110,
+        "word": "消失的她彩蛋",
+        "onboard_time": 1687874084,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242720,
+        "num": 242720,
+        "word": "差点认不出张艺兴",
+        "onboard_time": 1687849178,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241791,
+        "num": 241791,
+        "word": "爸爸让儿子猜高考成绩连喊3次低了",
+        "onboard_time": 1687869409,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211371,
+        "num": 234096,
+        "word": "一定要学露思的变美思路",
+        "onboard_time": 1687870662,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴巴多斯总理#"
+    }
+  }
+}
