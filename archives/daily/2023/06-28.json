@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687891091169,
+  "endTime": 1687893326606,
   "band_list": [
     {
       "raw_hot": 2748188,
@@ -483,12 +483,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68935,
+      "num": 68935,
+      "word": "韩国犯罪电影看完令人绝望",
+      "onboard_time": 1687891214,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67519,
       "num": 67519,
       "word": "这大概是深圳最火的摆摊了",
       "onboard_time": 1687885763,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 56518,
+      "num": 56518,
+      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+      "onboard_time": 1687889537,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55298,
@@ -507,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 38836,
-      "num": 47961,
-      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
-      "onboard_time": 1687889537,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 33127,
+      "num": 33127,
+      "word": "星穹铁道罗刹",
+      "onboard_time": 1687892115,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 12370,

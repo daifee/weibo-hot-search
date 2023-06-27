@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687891091169,
+  "endTime": 1687893326606,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -62459,6 +62459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68935,
+      "num": 68935,
+      "word": "韩国犯罪电影看完令人绝望",
+      "onboard_time": 1687891214,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68926,
       "num": 103927,
       "word": "LNG战胜TES",
@@ -63305,6 +63313,14 @@
       "onboard_time": 1685540910,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 56518,
+      "num": 56518,
+      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+      "onboard_time": 1687889537,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56397,
@@ -64217,14 +64233,6 @@
       "onboard_time": 1686422356,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 38836,
-      "num": 47961,
-      "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
-      "onboard_time": 1687889537,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38724,
