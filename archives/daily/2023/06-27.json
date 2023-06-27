@@ -1,7 +1,23 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687837349444,
+  "endTime": 1687839800420,
   "band_list": [
+    {
+      "raw_hot": 9965321,
+      "num": 9965321,
+      "word": "陈建州被指控性骚扰",
+      "onboard_time": 1687837780,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3011098,
+      "num": 1792166,
+      "word": "陈建州 你范范姐就很不爱这种事啊",
+      "onboard_time": 1687838681,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2260469,
       "num": 2260469,
@@ -17,6 +33,14 @@
       "onboard_time": 1687823071,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2217119,
+      "num": 2217119,
+      "word": "每小时100块你愿意加班吗",
+      "onboard_time": 1687833815,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 2211752,
@@ -107,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1059382,
-      "num": 1059382,
-      "word": "每小时100块你愿意加班吗",
-      "onboard_time": 1687833815,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1009465,
       "num": 265026,
       "word": "健身教练吸毒一个多月暴瘦70斤",
       "onboard_time": 1687785884,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960114,
+      "num": 960114,
+      "word": "有人劝我结婚我就捧杀对方",
+      "onboard_time": 1687835137,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 955006,
@@ -155,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 892576,
-      "num": 892576,
-      "word": "有人劝我结婚我就捧杀对方",
-      "onboard_time": 1687835137,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 877494,
+      "num": 794913,
+      "word": "空姐结识男乘客染毒瘾后贩毒",
+      "onboard_time": 1687836400,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871260,
@@ -171,12 +195,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 800703,
+      "num": 800703,
+      "word": "何非连发誓都是用假手",
+      "onboard_time": 1687836578,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 766574,
       "num": 766574,
       "word": "高铁调座椅弄撒了后座的泡面",
       "onboard_time": 1687831356,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 747474,
+      "num": 747474,
+      "word": "林生斌关联公司被吊销",
+      "onboard_time": 1687838079,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 735297,
@@ -219,6 +259,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 663885,
+      "num": 663885,
+      "word": "文咏珊非过没丑过",
+      "onboard_time": 1687838744,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609327,
       "num": 609327,
       "word": "夫妇颜值差异过大被疑婚姻动机不纯",
@@ -259,6 +307,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 559525,
+      "num": 489463,
+      "word": "考研二战我关闭了朋友圈一年",
+      "onboard_time": 1687839046,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 544891,
       "num": 544891,
       "word": "32岁硕士带8岁儿子参加毕业典礼",
@@ -275,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524588,
+      "num": 524588,
+      "word": "黑人女孩的中国初体验",
+      "onboard_time": 1687836037,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507893,
       "num": 507893,
       "word": "妹妹考了702分却哭了一下午",
@@ -284,11 +348,19 @@
     },
     {
       "raw_hot": 507577,
-      "num": 302918,
+      "num": 473660,
       "word": "清洁工嫌吵关电源致25年成果被毁",
       "onboard_time": 1687836160,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 503820,
+      "num": 503820,
+      "word": "研究生毕业去见男方父母",
+      "onboard_time": 1687836460,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 502613,
@@ -316,10 +388,18 @@
     },
     {
       "raw_hot": 487715,
-      "num": 388471,
+      "num": 487025,
       "word": "陈哲远1天涨粉10万",
       "onboard_time": 1687835917,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485804,
+      "num": 485804,
+      "word": "大牙",
+      "onboard_time": 1687839106,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -331,14 +411,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 476980,
-      "num": 302108,
-      "word": "空姐结识男乘客染毒瘾后贩毒",
-      "onboard_time": 1687836400,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465565,
       "num": 465565,
       "word": "消失的她票房",
@@ -347,19 +419,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 459152,
-      "num": 301378,
-      "word": "黑人女孩的中国初体验",
-      "onboard_time": 1687836037,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456084,
       "num": 456084,
       "word": "伊能静曾说陈哲远可以靠脸就红",
       "onboard_time": 1687826863,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 436988,
+      "num": 436988,
+      "word": "男子消失的她映后影院求婚",
+      "onboard_time": 1687839284,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -403,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420624,
+      "num": 402542,
+      "word": "朱一龙醉酒戏喝的是茶",
+      "onboard_time": 1687838502,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 404002,
+      "num": 404002,
+      "word": "赵露思说陈哲远像村支书",
+      "onboard_time": 1687837899,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401437,
       "num": 401437,
       "word": "张子枫叫王宝强老爸",
@@ -419,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 382154,
+      "num": 382154,
+      "word": "梁朝伟61岁状态",
+      "onboard_time": 1687838020,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378226,
       "num": 378226,
       "word": "美依礼芽wink",
@@ -433,22 +529,6 @@
       "onboard_time": 1687786484,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372655,
-      "num": 372655,
-      "word": "何非连发誓都是用假手",
-      "onboard_time": 1687836578,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 367193,
-      "num": 301009,
-      "word": "研究生毕业去见男方父母",
-      "onboard_time": 1687836460,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 350939,
@@ -515,6 +595,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 322411,
+      "num": 322411,
+      "word": "美国女子几乎全裸参加骄傲游行",
+      "onboard_time": 1687839718,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321064,
       "num": 321064,
       "word": "NewJeans全员金发",
@@ -563,8 +651,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 300800,
-      "num": 300800,
+      "raw_hot": 301418,
+      "num": 301418,
       "word": "上班的苦和上学的苦是不一样的",
       "onboard_time": 1687836578,
       "rank": 35,
@@ -627,11 +715,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272952,
+      "num": 272952,
+      "word": "金扫帚创始人大赞王宝强新片",
+      "onboard_time": 1687838324,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266574,
       "num": 266574,
       "word": "发疯果然很有用",
       "onboard_time": 1687828058,
       "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 260613,
+      "num": 260613,
+      "word": "面试官让我帮他带杯咖啡",
+      "onboard_time": 1687839046,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -683,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241806,
+      "num": 241806,
+      "word": "宋轶台词一条过",
+      "onboard_time": 1687839529,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237481,
       "num": 237481,
       "word": "新学的一招恶心别人的方法",
@@ -713,6 +825,14 @@
       "onboard_time": 1687831656,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232615,
+      "num": 232615,
+      "word": "大牙经纪人回应指控陈建州性骚扰",
+      "onboard_time": 1687839648,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 232532,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1687808715,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 37741,
+      "num": 1802800,
+      "word": "用电影海报打开千万工程20年巨变",
+      "onboard_time": 1687839046,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28065,
