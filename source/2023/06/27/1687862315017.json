@@ -1,0 +1,410 @@
+{
+  "runTime": 1687862315017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632971,
+        "num": 1632971,
+        "word": "女子找工作政审发现自己被坐过牢",
+        "onboard_time": 1687855832,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573710,
+        "num": 1612412,
+        "word": "上海游泳馆设女性专用泳道",
+        "onboard_time": 1687850258,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 58423,
+        "num": 1546394,
+        "word": "达沃斯在天津",
+        "onboard_time": 1687851157,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2013940,
+        "num": 1471592,
+        "word": "昆凌避谈陈建州大牙事件",
+        "onboard_time": 1687858424,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478403,
+        "num": 1457832,
+        "word": "女孩在3厘米珠子内反手作画",
+        "onboard_time": 1687859022,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410274,
+        "num": 1410274,
+        "word": "重庆一医院被曝盒饭中吃出老鼠头",
+        "onboard_time": 1687859744,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342881,
+        "num": 821170,
+        "word": "爸爸站的梯子突然断裂孩子稳稳扶住",
+        "onboard_time": 1687860640,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629252,
+        "num": 629252,
+        "word": "大牙回应陈建州声明",
+        "onboard_time": 1687847198,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520525,
+        "num": 520525,
+        "word": "柳智敏回应",
+        "onboard_time": 1687849475,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512172,
+        "num": 512172,
+        "word": "朱一龙回应何非用假手发誓",
+        "onboard_time": 1687858124,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6424794,
+        "num": 511849,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1020692,
+        "num": 510311,
+        "word": "印度男子误会妹妹月经是偷情证据将其虐死",
+        "onboard_time": 1687855901,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778870,
+        "num": 508721,
+        "word": "厌童现象",
+        "onboard_time": 1687854399,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1972383,
+        "num": 506418,
+        "word": "范玮琪对陈建州偷吃的态度",
+        "onboard_time": 1687855238,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133569,
+        "num": 505295,
+        "word": "阿兹海默婆婆找到去世11年丈夫的墓",
+        "onboard_time": 1687860041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504059,
+        "num": 504059,
+        "word": "差点认不出张艺兴",
+        "onboard_time": 1687849178,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1079818,
+        "num": 495010,
+        "word": "陈建州被指控性骚扰",
+        "onboard_time": 1687837780,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448734,
+        "num": 448734,
+        "word": "才知道文咏珊已经结婚了",
+        "onboard_time": 1687848637,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431014,
+        "num": 431014,
+        "word": "前男友居然去做了变性手术",
+        "onboard_time": 1687847617,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2087533,
+        "num": 428374,
+        "word": "TF三代吵架",
+        "onboard_time": 1687857100,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1302887,
+        "num": 413024,
+        "word": "女生毕业删除90%同学被骂有病",
+        "onboard_time": 1687855901,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 928565,
+        "num": 409019,
+        "word": "陈建州大牙行程对上了",
+        "onboard_time": 1687851099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594112,
+        "num": 398804,
+        "word": "鹿晗张艺兴黄子韬白背心",
+        "onboard_time": 1687856501,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435773,
+        "num": 384481,
+        "word": "专家不建议选专业首要考虑挣多少钱",
+        "onboard_time": 1687858782,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384210,
+        "num": 384210,
+        "word": "大牙",
+        "onboard_time": 1687839106,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367304,
+        "num": 367304,
+        "word": "黄子韬孙千徐志胜合照",
+        "onboard_time": 1687857582,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360859,
+        "num": 360859,
+        "word": "去男朋友家收到了29999见面礼",
+        "onboard_time": 1687856860,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356124,
+        "num": 356124,
+        "word": "女子5万转错对象一查对方已离世",
+        "onboard_time": 1687861478,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329415,
+        "num": 329415,
+        "word": "曾黎 谁说我今天像去参加婚礼了",
+        "onboard_time": 1687854818,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242410,
+        "num": 308962,
+        "word": "解放军15分钟内架起跨江长桥",
+        "onboard_time": 1687856501,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 432577,
+        "num": 308945,
+        "word": "蓝正龙周幼婷被曝离婚",
+        "onboard_time": 1687850377,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308258,
+        "num": 308258,
+        "word": "原来之前韩剧就这么疯了",
+        "onboard_time": 1687861898,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301773,
+        "num": 301773,
+        "word": "花千骨2已备案",
+        "onboard_time": 1687862078,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295464,
+        "num": 295464,
+        "word": "俄罗斯称瓦格纳将向军队移交重型武器",
+        "onboard_time": 1687854518,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 261926,
+        "num": 261926,
+        "word": "男朋友发朋友圈官宣仅我可见",
+        "onboard_time": 1687842765,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 247576,
+        "num": 247576,
+        "word": "发薪日的办公室气氛好微妙",
+        "onboard_time": 1687859982,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227491,
+        "num": 227491,
+        "word": "崔叡娜宋雨琦新歌MV",
+        "onboard_time": 1687861062,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226117,
+        "num": 226117,
+        "word": "最长的接吻居然长达58小时",
+        "onboard_time": 1687861898,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 225713,
+        "num": 225713,
+        "word": "微信名不能改成文件传输助手",
+        "onboard_time": 1687853739,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211113,
+        "num": 211113,
+        "word": "微信否认文件传输助手是真人",
+        "onboard_time": 1687846115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210173,
+        "num": 210173,
+        "word": "沈腾马丽版偷偷笑不死",
+        "onboard_time": 1687853199,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201968,
+        "num": 201968,
+        "word": "9岁男孩跪地向新郎爸爸要出生证明",
+        "onboard_time": 1687852597,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209763,
+        "num": 190824,
+        "word": "陈哲远用屁股把赵露思拱下去了",
+        "onboard_time": 1687847978,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178225,
+        "num": 178225,
+        "word": "别让你孩子未来的人生成为别人的生意",
+        "onboard_time": 1687861361,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 171439,
+        "num": 171439,
+        "word": "在尿都憋不住的年纪他却还想憋住情绪",
+        "onboard_time": 1687852899,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 165383,
+        "num": 165383,
+        "word": "研究发现越工作越丑",
+        "onboard_time": 1687846475,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165162,
+        "num": 165162,
+        "word": "clid被爆聊天性骚扰",
+        "onboard_time": 1687847798,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 163971,
+        "num": 163971,
+        "word": "陈哲远不让主持人叫赵露思只只",
+        "onboard_time": 1687849296,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163329,
+        "num": 163329,
+        "word": "何非没拔李木子的氧气罐",
+        "onboard_time": 1687848276,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160574,
+        "num": 160574,
+        "word": "狮子表演时突然失控伸出头",
+        "onboard_time": 1687860878,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村之美#"
+    }
+  }
+}
