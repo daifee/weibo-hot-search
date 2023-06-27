@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687870651112,
+  "endTime": 1687872438442,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9912341,
+      "num": 9912341,
+      "word": "萧敬腾求婚林有慧",
+      "onboard_time": 1687868979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9705953,
       "num": 9705953,
       "word": "董某某被停职",
@@ -209,14 +217,6 @@
       "onboard_time": 1686129107,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 8008453,
-      "num": 8008453,
-      "word": "萧敬腾求婚林有慧",
-      "onboard_time": 1687868979,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 7630424,
@@ -979,6 +979,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2814439,
+      "num": 581158,
+      "word": "内娱影圈四大顶流",
+      "onboard_time": 1687866458,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2810808,
       "num": 1159541,
       "word": "台警方称不会侦办大小S被控吸毒",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1686977313,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2525234,
-      "num": 581158,
-      "word": "内娱影圈四大顶流",
-      "onboard_time": 1687866458,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2521682,
@@ -2929,6 +2929,14 @@
       "onboard_time": 1686844348,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1923746,
+      "num": 1923746,
+      "word": "惠英红哽咽回应",
+      "onboard_time": 1687870123,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1921024,
@@ -9372,7 +9380,7 @@
     },
     {
       "raw_hot": 947818,
-      "num": 301578,
+      "num": 419745,
       "word": "陈建州曾邀沈玉琳进暗黑群组",
       "onboard_time": 1687869703,
       "rank": 30,
@@ -13019,6 +13027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701988,
+      "num": 494726,
+      "word": "仙女棒已经进化到这种程度了吗",
+      "onboard_time": 1687868558,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 701237,
       "num": 701237,
       "word": "歌手演唱会价格一览",
@@ -13419,6 +13435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 679468,
+      "num": 415945,
+      "word": "妈妈回应私拆女儿的档案",
+      "onboard_time": 1687868377,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679303,
       "num": 679303,
       "word": "迪丽热巴 嘉人",
@@ -13793,6 +13817,14 @@
       "onboard_time": 1687084588,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 655570,
+      "num": 655570,
+      "word": "于斌多发点",
+      "onboard_time": 1687871261,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 655398,
@@ -14281,14 +14313,6 @@
       "onboard_time": 1687610973,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 629697,
-      "num": 385254,
-      "word": "妈妈回应私拆女儿的档案",
-      "onboard_time": 1687868377,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629619,
@@ -14955,6 +14979,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 592503,
+      "num": 592503,
+      "word": "爸爸让儿子猜高考成绩连喊3次低了",
+      "onboard_time": 1687869409,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 592068,
       "num": 345250,
       "word": "说端午快乐有错吗",
@@ -15033,14 +15065,6 @@
       "onboard_time": 1687354894,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589213,
-      "num": 589213,
-      "word": "惠英红哽咽回应",
-      "onboard_time": 1687870123,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 589092,
@@ -15384,6 +15408,14 @@
       "word": "萧敬腾",
       "onboard_time": 1687161707,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 576761,
+      "num": 576761,
+      "word": "萧敬腾下个雨庆祝一下吧",
+      "onboard_time": 1687870301,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -16891,12 +16923,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 515475,
-      "num": 515475,
-      "word": "爸爸让儿子猜高考成绩连喊3次低了",
-      "onboard_time": 1687869409,
-      "rank": 35,
-      "category": "社会新闻,教育"
+      "raw_hot": 515485,
+      "num": 409995,
+      "word": "那些和经纪人结婚的艺人",
+      "onboard_time": 1687872038,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 515440,
@@ -17788,7 +17820,7 @@
     },
     {
       "raw_hot": 488651,
-      "num": 384823,
+      "num": 400602,
       "word": "上岸公务员后被亲戚贬低了",
       "onboard_time": 1687865918,
       "rank": 23,
@@ -18259,6 +18291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474136,
+      "num": 402615,
+      "word": "考经纪人证",
+      "onboard_time": 1687871860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474024,
       "num": 474024,
       "word": "碧峰峡",
@@ -18329,6 +18369,14 @@
       "onboard_time": 1687420769,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471947,
+      "num": 471947,
+      "word": "东营",
+      "onboard_time": 1687871499,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471474,
@@ -20417,14 +20465,6 @@
       "onboard_time": 1686752011,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417774,
-      "num": 301488,
-      "word": "仙女棒已经进化到这种程度了吗",
-      "onboard_time": 1687868558,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 417769,
@@ -23075,14 +23115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364158,
-      "num": 364158,
-      "word": "萧敬腾下个雨庆祝一下吧",
-      "onboard_time": 1687870301,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364136,
       "num": 364136,
       "word": "贺峻霖红毯生图",
@@ -23529,6 +23561,14 @@
       "onboard_time": 1687304847,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 356078,
+      "num": 416624,
+      "word": "鲁A大哥带一箱礼物去认干闺女",
+      "onboard_time": 1687871441,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355892,
@@ -25619,6 +25659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 326523,
+      "num": 326523,
+      "word": "这狗好啊 有蚊子它真上",
+      "onboard_time": 1687869464,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326435,
       "num": 326435,
       "word": "转卖前老板的礼物被抓包",
@@ -26547,6 +26595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "说一件事证明你消费降级了",
+      "onboard_time": 1687868137,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 314250,
       "num": 314250,
       "word": "实习律师第一个月工资发了474元",
@@ -26905,14 +26961,6 @@
       "onboard_time": 1687414711,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 310278,
-      "num": 310278,
-      "word": "说一件事证明你消费降级了",
-      "onboard_time": 1687868137,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 310174,
@@ -31281,14 +31329,6 @@
       "onboard_time": 1687272096,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270215,
-      "num": 270215,
-      "word": "这狗好啊 有蚊子它真上",
-      "onboard_time": 1687869464,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 270195,
@@ -40515,6 +40555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212128,
+      "num": 212128,
+      "word": "胡锡进首日炒股心得",
+      "onboard_time": 1687871202,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 212056,
       "num": 212056,
       "word": "短短几天被救三次的麋鹿",
@@ -41265,6 +41313,14 @@
       "onboard_time": 1687137270,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208240,
+      "num": 208240,
+      "word": "鹿晗广州演唱会告知声明",
+      "onboard_time": 1687872343,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 208215,
@@ -45537,6 +45593,14 @@
       "onboard_time": 1686660329,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189424,
+      "num": 189424,
+      "word": "幼儿戴金手镯遭小偷尾随3秒偷走",
+      "onboard_time": 1687871082,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189402,
@@ -53017,6 +53081,14 @@
       "onboard_time": 1686549268,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150669,
+      "num": 185320,
+      "word": "BLG对战iG",
+      "onboard_time": 1687872401,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 150584,
@@ -61048,6 +61120,14 @@
       "word": "男子以身试险提醒别下黄河游泳",
       "onboard_time": 1687106186,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83328,
+      "num": 429421,
+      "word": "杭州18岁保安高考成绩达到预期",
+      "onboard_time": 1687870842,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

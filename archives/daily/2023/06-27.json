@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687870651112,
+  "endTime": 1687872438442,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9912341,
+      "num": 9912341,
+      "word": "萧敬腾求婚林有慧",
+      "onboard_time": 1687868979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8572168,
       "num": 900691,
       "word": "台媒曝范玮琪失联",
       "onboard_time": 1687855960,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8008453,
-      "num": 8008453,
-      "word": "萧敬腾求婚林有慧",
-      "onboard_time": 1687868979,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -51,6 +51,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2814439,
+      "num": 581158,
+      "word": "内娱影圈四大顶流",
+      "onboard_time": 1687866458,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2575314,
       "num": 765945,
       "word": "TF三代吵架",
@@ -65,14 +73,6 @@
       "onboard_time": 1687849475,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2525234,
-      "num": 581158,
-      "word": "内娱影圈四大顶流",
-      "onboard_time": 1687866458,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2347993,
@@ -161,6 +161,14 @@
       "onboard_time": 1687854399,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1923746,
+      "num": 1923746,
+      "word": "惠英红哽咽回应",
+      "onboard_time": 1687870123,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1843370,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 947818,
-      "num": 301578,
+      "num": 419745,
       "word": "陈建州曾邀沈玉琳进暗黑群组",
       "onboard_time": 1687869703,
       "rank": 30,
@@ -611,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 701988,
+      "num": 494726,
+      "word": "仙女棒已经进化到这种程度了吗",
+      "onboard_time": 1687868558,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 690571,
       "num": 690571,
       "word": "清洁工嫌吵关电源致25年成果被毁",
@@ -633,6 +649,14 @@
       "onboard_time": 1687831115,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 679468,
+      "num": 415945,
+      "word": "妈妈回应私拆女儿的档案",
+      "onboard_time": 1687868377,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673756,
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655570,
+      "num": 655570,
+      "word": "于斌多发点",
+      "onboard_time": 1687871261,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644626,
       "num": 639002,
       "word": "爸爸得了抑郁症 出门前拥抱他",
@@ -681,14 +713,6 @@
       "onboard_time": 1687861898,
       "rank": 37,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 629697,
-      "num": 385254,
-      "word": "妈妈回应私拆女儿的档案",
-      "onboard_time": 1687868377,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 627866,
@@ -747,12 +771,12 @@
       "category": "影视,科技"
     },
     {
-      "raw_hot": 589213,
-      "num": 589213,
-      "word": "惠英红哽咽回应",
-      "onboard_time": 1687870123,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 592503,
+      "num": 592503,
+      "word": "爸爸让儿子猜高考成绩连喊3次低了",
+      "onboard_time": 1687869409,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 577196,
@@ -761,6 +785,14 @@
       "onboard_time": 1687823978,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576761,
+      "num": 576761,
+      "word": "萧敬腾下个雨庆祝一下吧",
+      "onboard_time": 1687870301,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 562411,
@@ -843,12 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515475,
-      "num": 515475,
-      "word": "爸爸让儿子猜高考成绩连喊3次低了",
-      "onboard_time": 1687869409,
-      "rank": 35,
-      "category": "社会新闻,教育"
+      "raw_hot": 515485,
+      "num": 409995,
+      "word": "那些和经纪人结婚的艺人",
+      "onboard_time": 1687872038,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 513760,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 488651,
-      "num": 384823,
+      "num": 400602,
       "word": "上岸公务员后被亲戚贬低了",
       "onboard_time": 1687865918,
       "rank": 23,
@@ -953,6 +985,22 @@
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 474136,
+      "num": 402615,
+      "word": "考经纪人证",
+      "onboard_time": 1687871860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 471947,
+      "num": 471947,
+      "word": "东营",
+      "onboard_time": 1687871499,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471474,
@@ -1033,14 +1081,6 @@
       "onboard_time": 1687830274,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417774,
-      "num": 301488,
-      "word": "仙女棒已经进化到这种程度了吗",
-      "onboard_time": 1687868558,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 412282,
@@ -1179,12 +1219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364158,
-      "num": 364158,
-      "word": "萧敬腾下个雨庆祝一下吧",
-      "onboard_time": 1687870301,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 356078,
+      "num": 416624,
+      "word": "鲁A大哥带一箱礼物去认干闺女",
+      "onboard_time": 1687871441,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350939,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1687796253,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326523,
+      "num": 326523,
+      "word": "这狗好啊 有蚊子它真上",
+      "onboard_time": 1687869464,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 325831,
@@ -1355,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "说一件事证明你消费降级了",
+      "onboard_time": 1687868137,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 314049,
       "num": 339969,
       "word": "解放军15分钟内架起跨江长桥",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1687827161,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 310278,
-      "num": 310278,
-      "word": "说一件事证明你消费降级了",
-      "onboard_time": 1687868137,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 309866,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1687786370,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270215,
-      "num": 270215,
-      "word": "这狗好啊 有蚊子它真上",
-      "onboard_time": 1687869464,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 269431,
@@ -1907,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212128,
+      "num": 212128,
+      "word": "胡锡进首日炒股心得",
+      "onboard_time": 1687871202,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211709,
       "num": 211709,
       "word": "女篮",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1687863161,
       "rank": 39,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 208240,
+      "num": 208240,
+      "word": "鹿晗广州演唱会告知声明",
+      "onboard_time": 1687872343,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 204660,
@@ -2057,6 +2113,14 @@
       "onboard_time": 1687821624,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189424,
+      "num": 189424,
+      "word": "幼儿戴金手镯遭小偷尾随3秒偷走",
+      "onboard_time": 1687871082,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188214,
@@ -2331,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150669,
+      "num": 185320,
+      "word": "BLG对战iG",
+      "onboard_time": 1687872401,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148582,
       "num": 148582,
       "word": "秦岚女团舞Flower",
@@ -2512,6 +2584,14 @@
       "word": "晚高峰私家车自发45度让行救护车",
       "onboard_time": 1687794579,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83328,
+      "num": 429421,
+      "word": "杭州18岁保安高考成绩达到预期",
+      "onboard_time": 1687870842,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
