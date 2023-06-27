@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687883139785,
+  "endTime": 1687884142512,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -571,12 +571,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1147028,
+      "num": 1147028,
+      "word": "人狗合一",
+      "onboard_time": 1687880261,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1143813,
       "num": 1143813,
       "word": "川大回应律所称不再招川大毕业生",
       "onboard_time": 1687842046,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1143564,
+      "num": 1143564,
+      "word": "江西航空",
+      "onboard_time": 1687881220,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1131365,
@@ -675,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1036041,
-      "num": 1036041,
-      "word": "人狗合一",
-      "onboard_time": 1687880261,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1029344,
       "num": 1029344,
       "word": "花千骨2已备案",
@@ -768,14 +776,6 @@
       "word": "四川26岁失联女子遗体被找到",
       "onboard_time": 1687772390,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 950599,
-      "num": 950599,
-      "word": "江西航空",
-      "onboard_time": 1687881220,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 760364,
+      "num": 760364,
+      "word": "男子13岁得糖尿病27岁进ICU",
+      "onboard_time": 1687879784,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752019,
       "num": 752019,
       "word": "2022中央财政赤字26500亿元",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1687777543,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 727345,
-      "num": 727345,
-      "word": "男子13岁得糖尿病27岁进ICU",
-      "onboard_time": 1687879784,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 726736,
@@ -1835,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462015,
+      "num": 462015,
+      "word": "张雪峰呼吁警惕填志愿骗局",
+      "onboard_time": 1687881995,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 461496,
       "num": 333832,
       "word": "这玩具千万别卖到我家这儿",
@@ -1992,6 +2000,14 @@
       "word": "白敬亭合作的女主",
       "onboard_time": 1687764350,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 429973,
+      "num": 406621,
+      "word": "姜个顾事",
+      "onboard_time": 1687882415,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2313,6 +2329,14 @@
       "onboard_time": 1687737630,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 375297,
+      "num": 375297,
+      "word": "千万不要随意私拆学生档案",
+      "onboard_time": 1687882232,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 374684,
@@ -3051,14 +3075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285543,
-      "num": 285543,
-      "word": "姜个顾事",
-      "onboard_time": 1687882415,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285283,
       "num": 255448,
       "word": "医生是这样评估口臭的",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1687752538,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281001,
+      "num": 281001,
+      "word": "陈哲远竟然是男团出身",
+      "onboard_time": 1687883430,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 279208,
@@ -3185,14 +3209,6 @@
       "onboard_time": 1687769205,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 271895,
-      "num": 271895,
-      "word": "张雪峰呼吁警惕填志愿骗局",
-      "onboard_time": 1687881995,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 271774,
@@ -3545,14 +3561,6 @@
       "onboard_time": 1687868918,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244735,
-      "num": 293223,
-      "word": "千万不要随意私拆学生档案",
-      "onboard_time": 1687882232,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 244312,
@@ -3913,6 +3921,14 @@
       "onboard_time": 1687882055,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213882,
+      "num": 213882,
+      "word": "医院回应女子被司机反复碾轧遇害",
+      "onboard_time": 1687883074,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213505,
@@ -4747,12 +4763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153562,
-      "num": 153562,
-      "word": "医院回应女子被司机反复碾轧遇害",
-      "onboard_time": 1687883074,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 153713,
+      "num": 153713,
+      "word": "一让在让",
+      "onboard_time": 1687884088,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 152531,
@@ -5081,6 +5097,14 @@
       "onboard_time": 1687797210,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107874,
+      "num": 133990,
+      "word": "日本经济为何停滞在过去",
+      "onboard_time": 1687883313,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 105599,

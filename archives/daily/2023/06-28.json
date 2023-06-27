@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687883139785,
+  "endTime": 1687884142512,
   "band_list": [
     {
       "raw_hot": 2748188,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2538460,
-      "num": 325854,
+      "num": 373705,
       "word": "猴痘",
       "onboard_time": 1687879365,
       "rank": 20,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1450477,
-      "num": 463701,
+      "num": 502971,
       "word": "范玮琪对陈建州偷吃的态度",
       "onboard_time": 1687855238,
       "rank": 13,
@@ -67,16 +67,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1036041,
-      "num": 1036041,
+      "raw_hot": 1147028,
+      "num": 1147028,
       "word": "人狗合一",
       "onboard_time": 1687880261,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 950599,
-      "num": 950599,
+      "raw_hot": 1143564,
+      "num": 1143564,
       "word": "江西航空",
       "onboard_time": 1687881220,
       "rank": 6,
@@ -99,8 +99,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 727345,
-      "num": 727345,
+      "raw_hot": 760364,
+      "num": 760364,
       "word": "男子13岁得糖尿病27岁进ICU",
       "onboard_time": 1687879784,
       "rank": 8,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 571320,
-      "num": 322380,
+      "num": 370133,
       "word": "女生毕业删除90%同学被骂有病",
       "onboard_time": 1687855901,
       "rank": 22,
@@ -147,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462015,
+      "num": 462015,
+      "word": "张雪峰呼吁警惕填志愿骗局",
+      "onboard_time": 1687881995,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 436416,
-      "num": 328040,
+      "num": 361689,
       "word": "陈建州大牙行程对上了",
       "onboard_time": 1687851099,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429973,
+      "num": 406621,
+      "word": "姜个顾事",
+      "onboard_time": 1687882415,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 416833,
@@ -171,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 375297,
+      "num": 375297,
+      "word": "千万不要随意私拆学生档案",
+      "onboard_time": 1687882232,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 361894,
       "num": 319402,
       "word": "妈妈回应私拆女儿的档案",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 358844,
-      "num": 316816,
+      "num": 318054,
       "word": "周翊然张淼怡新剧吻戏",
       "onboard_time": 1687878764,
       "rank": 24,
@@ -243,20 +267,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 285543,
-      "num": 285543,
-      "word": "姜个顾事",
-      "onboard_time": 1687882415,
-      "rank": 32,
+      "raw_hot": 281001,
+      "num": 281001,
+      "word": "陈哲远竟然是男团出身",
+      "onboard_time": 1687883430,
+      "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271895,
-      "num": 271895,
-      "word": "张雪峰呼吁警惕填志愿骗局",
-      "onboard_time": 1687881995,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 264048,
@@ -265,14 +281,6 @@
       "onboard_time": 1687871261,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244735,
-      "num": 293223,
-      "word": "千万不要随意私拆学生档案",
-      "onboard_time": 1687882232,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229674,
@@ -297,6 +305,14 @@
       "onboard_time": 1687882055,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213882,
+      "num": 213882,
+      "word": "医院回应女子被司机反复碾轧遇害",
+      "onboard_time": 1687883074,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213684,
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153562,
-      "num": 153562,
-      "word": "医院回应女子被司机反复碾轧遇害",
-      "onboard_time": 1687883074,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 153713,
+      "num": 153713,
+      "word": "一让在让",
+      "onboard_time": 1687884088,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 147107,
@@ -387,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120434,
+      "num": 134245,
+      "word": "浙A98ET5司机的公主抱又帅又暖",
+      "onboard_time": 1687878108,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114418,
       "num": 139744,
       "word": "这蛋包饭炒得也太秀了",
       "onboard_time": 1687881935,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107874,
+      "num": 133990,
+      "word": "日本经济为何停滞在过去",
+      "onboard_time": 1687883313,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 12370,
