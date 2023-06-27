@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687854273956,
+  "endTime": 1687855111108,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1619000,
+      "num": 903139,
+      "word": "陈建州大牙行程对上了",
+      "onboard_time": 1687851099,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1524065,
       "num": 1524065,
       "word": "吴越 真的不是我",
@@ -289,14 +297,6 @@
       "onboard_time": 1687826562,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1481768,
-      "num": 903139,
-      "word": "陈建州大牙行程对上了",
-      "onboard_time": 1687851099,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1478331,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222400,
+      "num": 1222400,
+      "word": "差点认不出张艺兴",
+      "onboard_time": 1687849178,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1161520,
       "num": 939348,
       "word": "才知道文咏珊已经结婚了",
@@ -393,14 +401,6 @@
       "onboard_time": 1687818678,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1100021,
-      "num": 1100021,
-      "word": "差点认不出张艺兴",
-      "onboard_time": 1687849178,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 1097942,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1036877,
+      "num": 714738,
+      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
+      "onboard_time": 1687853977,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1009469,
       "num": 1009469,
       "word": "灿烂灿烂改名定档",
@@ -489,6 +497,14 @@
       "onboard_time": 1687744529,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 987136,
+      "num": 987136,
+      "word": "上海游泳馆设女性专用泳道",
+      "onboard_time": 1687850258,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 971569,
@@ -699,6 +715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 803595,
+      "num": 713591,
+      "word": "俄罗斯称瓦格纳将向军队移交重型武器",
+      "onboard_time": 1687854518,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 786583,
       "num": 415072,
       "word": "黄圣依疑怀3胎",
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 715986,
-      "num": 715986,
-      "word": "上海游泳馆设女性专用泳道",
-      "onboard_time": 1687850258,
-      "rank": 44,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 714128,
       "num": 686575,
       "word": "大牙",
@@ -816,6 +832,14 @@
       "word": "段嘉许车牌号是桑稚我爱你",
       "onboard_time": 1687840732,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 711297,
+      "num": 711297,
+      "word": "沈腾马丽版偷偷笑不死",
+      "onboard_time": 1687853199,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1091,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 554818,
+      "num": 330206,
+      "word": "在尿都憋不住的年纪他却还想憋住情绪",
+      "onboard_time": 1687852899,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 552471,
       "num": 552471,
       "word": "何非没拔李木子的氧气罐",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1687772150,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 537313,
+      "num": 537313,
+      "word": "卫健委回应夫妻先后把对方送精神病院",
+      "onboard_time": 1687851760,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534782,
@@ -1267,20 +1307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486107,
+      "num": 486107,
+      "word": "厌童现象",
+      "onboard_time": 1687854399,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 483647,
       "num": 483647,
       "word": "普京称全天候控制特别军事行动进程",
       "onboard_time": 1687700500,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 481428,
-      "num": 310355,
-      "word": "在尿都憋不住的年纪他却还想憋住情绪",
-      "onboard_time": 1687852899,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 480461,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 472149,
-      "num": 400218,
-      "word": "沈腾马丽版偷偷笑不死",
-      "onboard_time": 1687853199,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 471474,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1687821205,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400650,
-      "num": 400650,
-      "word": "卫健委回应夫妻先后把对方送精神病院",
-      "onboard_time": 1687851760,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400162,
@@ -2115,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319208,
+      "num": 319208,
+      "word": "赵露思撞脸懒羊羊",
+      "onboard_time": 1687851399,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 319126,
       "num": 319126,
       "word": "朱一龙事业运",
@@ -2225,14 +2257,6 @@
       "onboard_time": 1687705234,
       "rank": 18,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 303250,
-      "num": 303250,
-      "word": "赵露思撞脸懒羊羊",
-      "onboard_time": 1687851399,
-      "rank": 32,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 302413,
@@ -2435,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278398,
+      "num": 278398,
+      "word": "曾黎 谁说我今天像去参加婚礼了",
+      "onboard_time": 1687854818,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275725,
       "num": 249179,
       "word": "黄子琪 消失的她",
@@ -2603,6 +2635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258169,
+      "num": 258169,
+      "word": "男子学医从帅哥突变潦草医生",
+      "onboard_time": 1687853677,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258056,
       "num": 258056,
       "word": "恐班症",
@@ -2731,14 +2771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248853,
-      "num": 248853,
-      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
-      "onboard_time": 1687853977,
-      "rank": 39,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 244984,
       "num": 244984,
       "word": "一诺入选亚运会",
@@ -2787,12 +2819,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 238173,
-      "num": 238173,
-      "word": "男子学医从帅哥突变潦草医生",
-      "onboard_time": 1687853677,
+      "raw_hot": 239029,
+      "num": 239029,
+      "word": "JDG对战NIP",
+      "onboard_time": 1687854938,
       "rank": 41,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 237965,
@@ -2947,6 +2979,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 223891,
+      "num": 223891,
+      "word": "小孩子不吃蔬菜是有原因的",
+      "onboard_time": 1687854758,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223098,
       "num": 223098,
       "word": "一听这些歌就知道要毕业了",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1687779039,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217452,
+      "num": 217452,
+      "word": "小久久一岁了",
+      "onboard_time": 1687854698,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213505,
@@ -3931,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111473,
+      "num": 1574385,
+      "word": "达沃斯在天津",
+      "onboard_time": 1687851157,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108375,
       "num": 108375,
       "word": "消失的她观后感",
@@ -3945,14 +4001,6 @@
       "onboard_time": 1687729873,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105375,
-      "num": 1574385,
-      "word": "达沃斯在天津",
-      "onboard_time": 1687851157,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101375,
@@ -4075,8 +4123,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42866,
-      "num": 624618,
+      "raw_hot": 44912,
+      "num": 712173,
       "word": "小微观察站年度演讲",
       "onboard_time": 1687852837,
       "rank": 14,

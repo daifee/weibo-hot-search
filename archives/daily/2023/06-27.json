@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687854273956,
+  "endTime": 1687855111108,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1619000,
+      "num": 903139,
+      "word": "陈建州大牙行程对上了",
+      "onboard_time": 1687851099,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1524065,
       "num": 1524065,
       "word": "吴越 真的不是我",
@@ -145,14 +153,6 @@
       "onboard_time": 1687826562,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1481768,
-      "num": 903139,
-      "word": "陈建州大牙行程对上了",
-      "onboard_time": 1687851099,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1358002,
@@ -184,6 +184,14 @@
       "word": "段嘉许 男狐狸精",
       "onboard_time": 1687785405,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1222400,
+      "num": 1222400,
+      "word": "差点认不出张艺兴",
+      "onboard_time": 1687849178,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1100021,
-      "num": 1100021,
-      "word": "差点认不出张艺兴",
-      "onboard_time": 1687849178,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1097942,
       "num": 1097942,
       "word": "杭州女子养仓鼠脸烂成火龙果",
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1036877,
+      "num": 714738,
+      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
+      "onboard_time": 1687853977,
+      "rank": 39,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1009465,
       "num": 265026,
       "word": "健身教练吸毒一个多月暴瘦70斤",
@@ -281,6 +289,14 @@
       "onboard_time": 1687847978,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 987136,
+      "num": 987136,
+      "word": "上海游泳馆设女性专用泳道",
+      "onboard_time": 1687850258,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 960114,
@@ -371,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 803595,
+      "num": 713591,
+      "word": "俄罗斯称瓦格纳将向军队移交重型武器",
+      "onboard_time": 1687854518,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 766574,
       "num": 766574,
       "word": "高铁调座椅弄撒了后座的泡面",
@@ -403,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 715986,
-      "num": 715986,
-      "word": "上海游泳馆设女性专用泳道",
-      "onboard_time": 1687850258,
-      "rank": 44,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 714128,
       "num": 686575,
       "word": "大牙",
@@ -424,6 +440,14 @@
       "word": "段嘉许车牌号是桑稚我爱你",
       "onboard_time": 1687840732,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 711297,
+      "num": 711297,
+      "word": "沈腾马丽版偷偷笑不死",
+      "onboard_time": 1687853199,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -547,6 +571,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 554818,
+      "num": 330206,
+      "word": "在尿都憋不住的年纪他却还想憋住情绪",
+      "onboard_time": 1687852899,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 552471,
       "num": 552471,
       "word": "何非没拔李木子的氧气罐",
@@ -569,6 +601,14 @@
       "onboard_time": 1687790206,
       "rank": 6,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 537313,
+      "num": 537313,
+      "word": "卫健委回应夫妻先后把对方送精神病院",
+      "onboard_time": 1687851760,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534021,
@@ -635,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481428,
-      "num": 310355,
-      "word": "在尿都憋不住的年纪他却还想憋住情绪",
-      "onboard_time": 1687852899,
-      "rank": 30,
-      "category": "幽默,情感"
+      "raw_hot": 486107,
+      "num": 486107,
+      "word": "厌童现象",
+      "onboard_time": 1687854399,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 480461,
@@ -657,14 +697,6 @@
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 472149,
-      "num": 400218,
-      "word": "沈腾马丽版偷偷笑不死",
-      "onboard_time": 1687853199,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 471474,
@@ -761,14 +793,6 @@
       "onboard_time": 1687821205,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400650,
-      "num": 400650,
-      "word": "卫健委回应夫妻先后把对方送精神病院",
-      "onboard_time": 1687851760,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400162,
@@ -979,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319208,
+      "num": 319208,
+      "word": "赵露思撞脸懒羊羊",
+      "onboard_time": 1687851399,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 316277,
       "num": 316277,
       "word": "别人挡酒王宝强直播挡奶",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1687823857,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303250,
-      "num": 303250,
-      "word": "赵露思撞脸懒羊羊",
-      "onboard_time": 1687851399,
-      "rank": 32,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 302413,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278398,
+      "num": 278398,
+      "word": "曾黎 谁说我今天像去参加婚礼了",
+      "onboard_time": 1687854818,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274535,
       "num": 274535,
       "word": "王者新赛季",
@@ -1179,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258169,
+      "num": 258169,
+      "word": "男子学医从帅哥突变潦草医生",
+      "onboard_time": 1687853677,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256022,
       "num": 364321,
       "word": "1岁娃边哭边窥探敌情",
@@ -1219,14 +1259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 248853,
-      "num": 248853,
-      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
-      "onboard_time": 1687853977,
-      "rank": 39,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 244312,
       "num": 244312,
       "word": "程序员同事带着心事上班",
@@ -1251,12 +1283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238173,
-      "num": 238173,
-      "word": "男子学医从帅哥突变潦草医生",
-      "onboard_time": 1687853677,
+      "raw_hot": 239029,
+      "num": 239029,
+      "word": "JDG对战NIP",
+      "onboard_time": 1687854938,
       "rank": 41,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 237481,
@@ -1331,6 +1363,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 223891,
+      "num": 223891,
+      "word": "小孩子不吃蔬菜是有原因的",
+      "onboard_time": 1687854758,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223552,
       "num": 223552,
       "word": "浙江海宁2名消防员因公牺牲",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1687821990,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217452,
+      "num": 217452,
+      "word": "小久久一岁了",
+      "onboard_time": 1687854698,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214436,
@@ -1795,20 +1843,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 111473,
+      "num": 1574385,
+      "word": "达沃斯在天津",
+      "onboard_time": 1687851157,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108375,
       "num": 108375,
       "word": "消失的她观后感",
       "onboard_time": 1687797210,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105375,
-      "num": 1574385,
-      "word": "达沃斯在天津",
-      "onboard_time": 1687851157,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100129,
@@ -1891,8 +1939,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42866,
-      "num": 624618,
+      "raw_hot": 44912,
+      "num": 712173,
       "word": "小微观察站年度演讲",
       "onboard_time": 1687852837,
       "rank": 14,
