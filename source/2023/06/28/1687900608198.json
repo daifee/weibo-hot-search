@@ -1,0 +1,410 @@
+{
+  "runTime": 1687900608198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291928,
+        "num": 291928,
+        "word": "江西航空",
+        "onboard_time": 1687881220,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192635,
+        "num": 192635,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1804,
+        "num": 185800,
+        "word": "达沃斯在天津",
+        "onboard_time": 1687851157,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179175,
+        "num": 179175,
+        "word": "警方通报男子反复碾压女子致死",
+        "onboard_time": 1687880382,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111938,
+        "num": 111938,
+        "word": "周鸿祎被清华录取",
+        "onboard_time": 1687872581,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 100982,
+        "num": 100982,
+        "word": "消失的她又双叒票房逆跌了",
+        "onboard_time": 1687877324,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93206,
+        "num": 93206,
+        "word": "千万不要随意私拆学生档案",
+        "onboard_time": 1687882232,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 81067,
+        "num": 81067,
+        "word": "男子13岁得糖尿病27岁进ICU",
+        "onboard_time": 1687879784,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71321,
+        "num": 71321,
+        "word": "医院回应女子被司机反复碾轧遇害",
+        "onboard_time": 1687883074,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71162,
+        "num": 71162,
+        "word": "陈建州曾邀沈玉琳进暗黑群组",
+        "onboard_time": 1687869703,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69818,
+        "num": 69818,
+        "word": "张雪峰呼吁警惕填志愿骗局",
+        "onboard_time": 1687881995,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 65588,
+        "num": 65588,
+        "word": "内娱影圈四大顶流",
+        "onboard_time": 1687866458,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156230,
+        "num": 61909,
+        "word": "范玮琪对陈建州偷吃的态度",
+        "onboard_time": 1687855238,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55605,
+        "num": 55605,
+        "word": "人狗合一",
+        "onboard_time": 1687880261,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54715,
+        "num": 54715,
+        "word": "印度男子误会妹妹月经是偷情证据将其虐死",
+        "onboard_time": 1687855901,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139168,
+        "num": 54583,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52592,
+        "num": 52592,
+        "word": "韩国犯罪电影看完令人绝望",
+        "onboard_time": 1687891214,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48065,
+        "num": 48065,
+        "word": "萧敬腾下个雨庆祝一下吧",
+        "onboard_time": 1687870301,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48049,
+        "num": 48049,
+        "word": "陈建州大牙行程对上了",
+        "onboard_time": 1687851099,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46169,
+        "num": 46169,
+        "word": "陈哲远竟然是男团出身",
+        "onboard_time": 1687883430,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56915,
+        "num": 45840,
+        "word": "女生毕业删除90%同学被骂有病",
+        "onboard_time": 1687855901,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 50777,
+        "num": 45493,
+        "word": "妈妈回应私拆女儿的档案",
+        "onboard_time": 1687868377,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44616,
+        "num": 44616,
+        "word": "那些和经纪人结婚的艺人",
+        "onboard_time": 1687872038,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43833,
+        "num": 43833,
+        "word": "大牙回应陈建州声明",
+        "onboard_time": 1687847198,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35220,
+        "num": 35220,
+        "word": "小伙辞职宅在家两年囤1.5万条毛巾",
+        "onboard_time": 1687878467,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42228,
+        "num": 35017,
+        "word": "周杰伦昆凌见证萧敬腾求婚现场",
+        "onboard_time": 1687876307,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34663,
+        "num": 34663,
+        "word": "陌生男子到上海弄堂蹭饭碰壁引热议",
+        "onboard_time": 1687889537,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34496,
+        "num": 34496,
+        "word": "日本经济为何停滞在过去",
+        "onboard_time": 1687883313,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 31828,
+        "num": 31828,
+        "word": "小S曾在节目中批陈建州",
+        "onboard_time": 1687864417,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31754,
+        "num": 31754,
+        "word": "女孩考上清华家人放烟花前向邻居报备",
+        "onboard_time": 1687865436,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 28622,
+        "num": 28622,
+        "word": "于斌多发点",
+        "onboard_time": 1687871261,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27493,
+        "num": 27493,
+        "word": "闹市区惊现花面狸叼幼崽走钢丝",
+        "onboard_time": 1687885047,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26365,
+        "num": 26365,
+        "word": "女儿都22岁了什么时候才能独立",
+        "onboard_time": 1687865620,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26229,
+        "num": 26229,
+        "word": "仙女棒已经进化到这种程度了吗",
+        "onboard_time": 1687868558,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25297,
+        "num": 25297,
+        "word": "被妈妈问是不是一个朋友都没有",
+        "onboard_time": 1687881339,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 25192,
+        "word": "朱珠包场朱一龙新电影",
+        "onboard_time": 1687878108,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23006,
+        "num": 25186,
+        "word": "山东东营警方回应男子驾车反复碾压女子",
+        "onboard_time": 1687872880,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22730,
+        "num": 25180,
+        "word": "为什么不让外向的人少说话",
+        "onboard_time": 1687882055,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22295,
+        "num": 25167,
+        "word": "段嘉许确认心意后就开始不做人了",
+        "onboard_time": 1687885645,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21788,
+        "num": 25158,
+        "word": "才知道文咏珊已经结婚了",
+        "onboard_time": 1687848637,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21131,
+        "num": 25148,
+        "word": "最长的接吻居然长达58小时",
+        "onboard_time": 1687861898,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 21131,
+        "num": 25137,
+        "word": "杭州比格犬耳朵卡入碎纸机被救出",
+        "onboard_time": 1687883850,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20663,
+        "num": 25127,
+        "word": "这大概是深圳最火的摆摊了",
+        "onboard_time": 1687885763,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20076,
+        "num": 25114,
+        "word": "鹿晗广州演唱会告知声明",
+        "onboard_time": 1687872343,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19120,
+        "num": 25107,
+        "word": "姜个顾事",
+        "onboard_time": 1687882415,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17474,
+        "num": 25090,
+        "word": "一让在让",
+        "onboard_time": 1687884088,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17443,
+        "num": 25080,
+        "word": "花千骨2已备案",
+        "onboard_time": 1687862078,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15272,
+        "num": 25076,
+        "word": "JennieTheidol剧照",
+        "onboard_time": 1687875707,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15041,
+        "num": 25060,
+        "word": "星穹铁道罗刹",
+        "onboard_time": 1687892115,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14344,
+        "num": 25046,
+        "word": "周翊然张淼怡新剧吻戏",
+        "onboard_time": 1687878764,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#千万工程造就万千美丽乡村#"
+    }
+  }
+}
