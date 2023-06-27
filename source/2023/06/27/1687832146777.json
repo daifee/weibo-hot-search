@@ -1,0 +1,410 @@
+{
+  "runTime": 1687832146777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2211752,
+        "num": 2211752,
+        "word": "原来中医不让吃水果是真的",
+        "onboard_time": 1687824821,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1671982,
+        "num": 1671982,
+        "word": "去医院查早孕被妈妈知道了",
+        "onboard_time": 1687823071,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50159,
+        "num": 1520082,
+        "word": "我国拟立法保障粮食安全",
+        "onboard_time": 1687783489,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411655,
+        "num": 1411655,
+        "word": "吴越 真的不是我",
+        "onboard_time": 1687822410,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1363220,
+        "num": 1363220,
+        "word": "文咏珊早几年都干嘛去了",
+        "onboard_time": 1687826562,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1178958,
+        "num": 1178958,
+        "word": "景甜内娱女菩萨",
+        "onboard_time": 1687821445,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102961,
+        "num": 1102961,
+        "word": "毕业照只有一人没被马赛克",
+        "onboard_time": 1687828959,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 936978,
+        "num": 936978,
+        "word": "海南考生881分想报北大",
+        "onboard_time": 1687826681,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 608721,
+        "num": 608721,
+        "word": "LV上海书店帆布包最低580",
+        "onboard_time": 1687825723,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 606094,
+        "num": 606094,
+        "word": "3000元化妆品用完后空瓶竟卖300元",
+        "onboard_time": 1687825838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605114,
+        "num": 605114,
+        "word": "黄奕谈做7年全职妈妈的经历",
+        "onboard_time": 1687828116,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601386,
+        "num": 601386,
+        "word": "段嘉许 男狐狸精",
+        "onboard_time": 1687785405,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596977,
+        "num": 596977,
+        "word": "青岛旅游失联25岁女孩已身亡",
+        "onboard_time": 1687820422,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575510,
+        "num": 575510,
+        "word": "复旦大学回应毕业生简历衣着暴露",
+        "onboard_time": 1687794997,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 540619,
+        "num": 540619,
+        "word": "韩国越来越多商铺设立禁儿童区",
+        "onboard_time": 1687823978,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 489038,
+        "num": 489038,
+        "word": "宠物医院把宠物名和主人名写反了",
+        "onboard_time": 1687831115,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465565,
+        "num": 465565,
+        "word": "消失的她票房",
+        "onboard_time": 1687829559,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456084,
+        "num": 456084,
+        "word": "伊能静曾说陈哲远可以靠脸就红",
+        "onboard_time": 1687826863,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408974,
+        "num": 408974,
+        "word": "钟南山院士与研究生合照意外被亲",
+        "onboard_time": 1687824700,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379217,
+        "num": 379217,
+        "word": "王霏霏的眼泪好大颗",
+        "onboard_time": 1687831233,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478346,
+        "num": 378885,
+        "word": "谁给了迪士尼乐园涨价的勇气",
+        "onboard_time": 1687828058,
+        "rank": 20,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 435638,
+        "num": 378407,
+        "word": "高铁调座椅弄撒了后座的泡面",
+        "onboard_time": 1687831356,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423385,
+        "num": 377978,
+        "word": "女子泳装照简历被恶意传播",
+        "onboard_time": 1687830274,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376411,
+        "num": 376411,
+        "word": "贵州一6岁男童感染食脑虫",
+        "onboard_time": 1687794457,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329836,
+        "num": 329836,
+        "word": "外卖骑手两项违法致人死亡",
+        "onboard_time": 1687831537,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321064,
+        "num": 321064,
+        "word": "NewJeans全员金发",
+        "onboard_time": 1687827701,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306022,
+        "num": 306022,
+        "word": "陌生人连续给我发了五年短信",
+        "onboard_time": 1687823857,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304868,
+        "num": 304868,
+        "word": "朱一龙一番总票房破30亿",
+        "onboard_time": 1687827161,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302949,
+        "num": 302949,
+        "word": "真正温柔的人 不对任何人抱有期待",
+        "onboard_time": 1687829258,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291910,
+        "num": 291910,
+        "word": "官方回应网传乐山大佛被卖",
+        "onboard_time": 1687831835,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 255331,
+        "num": 255331,
+        "word": "发疯果然很有用",
+        "onboard_time": 1687828058,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252083,
+        "num": 252083,
+        "word": "贬低你的亲戚都是父母惯的",
+        "onboard_time": 1687793200,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 245695,
+        "num": 245695,
+        "word": "张子枫叫王宝强老爸",
+        "onboard_time": 1687821205,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234856,
+        "num": 234856,
+        "word": "张艺兴新片官方账号被禁言",
+        "onboard_time": 1687792182,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232914,
+        "num": 232914,
+        "word": "胡兵抵达长沙",
+        "onboard_time": 1687831656,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220304,
+        "num": 220304,
+        "word": "胡锡进在多家公司任职高管",
+        "onboard_time": 1687822168,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219196,
+        "num": 219196,
+        "word": "如何改掉内向不爱说话",
+        "onboard_time": 1687828058,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213217,
+        "num": 213217,
+        "word": "闺蜜把我美容卡里的钱用完了",
+        "onboard_time": 1687824577,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206664,
+        "num": 206664,
+        "word": "南京机场迷你缉毒犬上岗执勤",
+        "onboard_time": 1687829138,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205991,
+        "num": 205991,
+        "word": "长风渡官博把CCTV8打成CCTV9",
+        "onboard_time": 1687822590,
+        "rank": 39,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 191728,
+        "num": 191728,
+        "word": "在奢侈品店把自己脸丢光了",
+        "onboard_time": 1687820361,
+        "rank": 40,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 188145,
+        "num": 188145,
+        "word": "孙子高考561分乡下爷爷送来5000元奖励",
+        "onboard_time": 1687820361,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185302,
+        "num": 185302,
+        "word": "大热天小伙不走寻常路结果迷路了",
+        "onboard_time": 1687831957,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 184340,
+        "num": 184340,
+        "word": "消失的她杜江的笑",
+        "onboard_time": 1687821624,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183315,
+        "num": 183315,
+        "word": "浙江是中国农民房的顶流吧",
+        "onboard_time": 1687821507,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180684,
+        "num": 180684,
+        "word": "年轻人就不适合去菜市场",
+        "onboard_time": 1687821147,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177668,
+        "num": 177668,
+        "word": "消失的她",
+        "onboard_time": 1687786484,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160703,
+        "num": 160703,
+        "word": "有灵性的人是什么样的",
+        "onboard_time": 1687826681,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157724,
+        "num": 157724,
+        "word": "贺峻霖回应汇演跳舞",
+        "onboard_time": 1687828959,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156528,
+        "num": 156528,
+        "word": "黑颈鹤夫妇带两只鹤宝宝觅食",
+        "onboard_time": 1687832074,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界互联网大会数字文明尼山对话#"
+    }
+  }
+}

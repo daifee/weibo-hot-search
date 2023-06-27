@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687830793192,
+  "endTime": 1687832146777,
   "band_list": [
     {
       "raw_hot": 3558304,
@@ -57,6 +57,14 @@
       "onboard_time": 1687823071,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2211752,
+      "num": 2211752,
+      "word": "原来中医不让吃水果是真的",
+      "onboard_time": 1687824821,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2168711,
@@ -155,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1678026,
-      "num": 1678026,
-      "word": "原来中医不让吃水果是真的",
-      "onboard_time": 1687824821,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1674534,
       "num": 1674534,
       "word": "张雪峰曾称每年仅讲课就能挣几百万",
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1102961,
+      "num": 1102961,
+      "word": "毕业照只有一人没被马赛克",
+      "onboard_time": 1687828959,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1085381,
       "num": 1085381,
       "word": "你的童年报复性补偿行为",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936978,
+      "num": 936978,
+      "word": "海南考生881分想报北大",
+      "onboard_time": 1687826681,
+      "rank": 7,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 936272,
       "num": 936272,
       "word": "张萌问张铎十年了你行了吗",
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 928605,
-      "num": 668874,
-      "word": "毕业照只有一人没被马赛克",
-      "onboard_time": 1687828959,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 924923,
       "num": 924923,
       "word": "男子欠1.7亿仍住豪宅养女友",
@@ -361,14 +369,6 @@
       "onboard_time": 1687820422,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 914202,
-      "num": 914202,
-      "word": "海南考生881分想报北大",
-      "onboard_time": 1687826681,
-      "rank": 7,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 890345,
@@ -611,6 +611,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 605114,
+      "num": 605114,
+      "word": "黄奕谈做7年全职妈妈的经历",
+      "onboard_time": 1687828116,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 603637,
       "num": 603637,
       "word": "甜椒",
@@ -673,14 +681,6 @@
       "onboard_time": 1687775204,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 564671,
-      "num": 564671,
-      "word": "黄奕谈做7年全职妈妈的经历",
-      "onboard_time": 1687828116,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 559488,
@@ -827,12 +827,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 489038,
+      "num": 489038,
+      "word": "宠物医院把宠物名和主人名写反了",
+      "onboard_time": 1687831115,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 483647,
       "num": 483647,
       "word": "普京称全天候控制特别军事行动进程",
       "onboard_time": 1687700500,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 478346,
+      "num": 386523,
+      "word": "谁给了迪士尼乐园涨价的勇气",
+      "onboard_time": 1687828058,
+      "rank": 20,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 469547,
@@ -867,6 +883,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 465565,
+      "num": 465565,
+      "word": "消失的她票房",
+      "onboard_time": 1687829559,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464274,
       "num": 343244,
       "word": "何非爱李木子吗",
@@ -883,19 +907,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 460025,
-      "num": 386523,
-      "word": "谁给了迪士尼乐园涨价的勇气",
-      "onboard_time": 1687828058,
-      "rank": 20,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 456138,
       "num": 456138,
       "word": "陈萱萱靠生子挽回变心老公",
       "onboard_time": 1687745428,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 456084,
+      "num": 456084,
+      "word": "伊能静曾说陈哲远可以靠脸就红",
+      "onboard_time": 1687826863,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -961,6 +985,14 @@
       "onboard_time": 1687706555,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435638,
+      "num": 378407,
+      "word": "高铁调座椅弄撒了后座的泡面",
+      "onboard_time": 1687831356,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 434869,
@@ -1035,12 +1067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 421268,
-      "num": 421268,
-      "word": "伊能静曾说陈哲远可以靠脸就红",
-      "onboard_time": 1687826863,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 423385,
+      "num": 377978,
+      "word": "女子泳装照简历被恶意传播",
+      "onboard_time": 1687830274,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417810,
@@ -1155,20 +1187,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 382269,
-      "num": 382269,
-      "word": "消失的她票房",
-      "onboard_time": 1687829559,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 379551,
       "num": 379551,
       "word": "张雪峰的贡献",
       "onboard_time": 1687769928,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 379217,
+      "num": 379217,
+      "word": "王霏霏的眼泪好大颗",
+      "onboard_time": 1687831233,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 378035,
@@ -1371,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329836,
+      "num": 329836,
+      "word": "外卖骑手两项违法致人死亡",
+      "onboard_time": 1687831537,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328605,
       "num": 320678,
       "word": "南京200多斤野猪把玻璃门撞到粉碎",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1687755619,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321064,
+      "num": 321064,
+      "word": "NewJeans全员金发",
+      "onboard_time": 1687827701,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 320504,
@@ -1523,19 +1571,19 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 306962,
-      "num": 306962,
-      "word": "女子泳装照简历被恶意传播",
-      "onboard_time": 1687830274,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306465,
       "num": 306465,
       "word": "30岁前一定要旅行的地方",
       "onboard_time": 1687740811,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 306022,
+      "num": 306022,
+      "word": "陌生人连续给我发了五年短信",
+      "onboard_time": 1687823857,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -1587,14 +1635,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 296335,
-      "num": 296335,
-      "word": "陌生人连续给我发了五年短信",
-      "onboard_time": 1687823857,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296073,
       "num": 243407,
       "word": "男子混进小区舔女户主门前鞋子",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1687746870,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291910,
+      "num": 291910,
+      "word": "官方回应网传乐山大佛被卖",
+      "onboard_time": 1687831835,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 290019,
@@ -1673,14 +1721,6 @@
       "onboard_time": 1687752538,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279887,
-      "num": 279887,
-      "word": "NewJeans全员金发",
-      "onboard_time": 1687827701,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 278603,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1687779279,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232914,
+      "num": 232914,
+      "word": "胡兵抵达长沙",
+      "onboard_time": 1687831656,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232532,
@@ -2467,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185302,
+      "num": 185302,
+      "word": "大热天小伙不走寻常路结果迷路了",
+      "onboard_time": 1687831957,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 184180,
       "num": 184180,
       "word": "长风渡化妆盒吴磊肯定喜欢",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1687695394,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156528,
+      "num": 156528,
+      "word": "黑颈鹤夫妇带两只鹤宝宝觅食",
+      "onboard_time": 1687832074,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155602,
