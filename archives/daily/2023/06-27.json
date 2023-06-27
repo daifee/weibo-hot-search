@@ -1,6 +1,6 @@
 {
   "startTime": 1687796707527,
-  "endTime": 1687855111108,
+  "endTime": 1687857565258,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -8,6 +8,14 @@
       "word": "陈建州被指控性骚扰",
       "onboard_time": 1687837780,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8572168,
+      "num": 900691,
+      "word": "台媒曝范玮琪失联",
+      "onboard_time": 1687855960,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1687842765,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 2830057,
+      "num": 714738,
+      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
+      "onboard_time": 1687853977,
+      "rank": 39,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2539031,
@@ -96,6 +112,22 @@
       "word": "范玮琪支持老公陈建州",
       "onboard_time": 1687847496,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1957176,
+      "num": 546759,
+      "word": "厌童现象",
+      "onboard_time": 1687854399,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1940849,
+      "num": 542674,
+      "word": "范玮琪对陈建州偷吃的态度",
+      "onboard_time": 1687855238,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -219,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1110051,
+      "num": 527648,
+      "word": "女生毕业删除90%同学被骂有病",
+      "onboard_time": 1687855901,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1104145,
       "num": 1104145,
       "word": "张雪峰建议报考有壁垒的专业",
@@ -233,6 +273,14 @@
       "onboard_time": 1687840132,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087450,
+      "num": 1866314,
+      "word": "俄罗斯称瓦格纳将向军队移交重型武器",
+      "onboard_time": 1687854518,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 1084109,
@@ -257,14 +305,6 @@
       "onboard_time": 1687839648,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1036877,
-      "num": 714738,
-      "word": "粉丝将亲妈骨灰扔上演唱会舞台",
-      "onboard_time": 1687853977,
-      "rank": 39,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1009465,
@@ -297,6 +337,14 @@
       "onboard_time": 1687850258,
       "rank": 44,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 979444,
+      "num": 534406,
+      "word": "TF三代吵架",
+      "onboard_time": 1687857100,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 960114,
@@ -371,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 889045,
+      "num": 889045,
+      "word": "曾黎 谁说我今天像去参加婚礼了",
+      "onboard_time": 1687854818,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871260,
       "num": 871260,
       "word": "贬低你的亲戚都是父母惯的",
@@ -387,20 +443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 803595,
-      "num": 713591,
-      "word": "俄罗斯称瓦格纳将向军队移交重型武器",
-      "onboard_time": 1687854518,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 766574,
       "num": 766574,
       "word": "高铁调座椅弄撒了后座的泡面",
       "onboard_time": 1687831356,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 754748,
+      "num": 525756,
+      "word": "印度男子误会妹妹月经是偷情证据将其虐死",
+      "onboard_time": 1687855901,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735297,
@@ -523,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611676,
+      "num": 520415,
+      "word": "女子找工作政审发现自己被坐过牢",
+      "onboard_time": 1687855832,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609327,
       "num": 609327,
       "word": "夫妇颜值差异过大被疑婚姻动机不纯",
@@ -572,7 +636,7 @@
     },
     {
       "raw_hot": 554818,
-      "num": 330206,
+      "num": 339757,
       "word": "在尿都憋不住的年纪他却还想憋住情绪",
       "onboard_time": 1687852899,
       "rank": 30,
@@ -585,6 +649,14 @@
       "onboard_time": 1687848276,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 550814,
+      "num": 550814,
+      "word": "卫健委回应夫妻先后把对方送精神病院",
+      "onboard_time": 1687851760,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547472,
@@ -603,20 +675,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 537313,
-      "num": 537313,
-      "word": "卫健委回应夫妻先后把对方送精神病院",
-      "onboard_time": 1687851760,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534021,
       "num": 534021,
       "word": "钟南山院士与研究生合照意外被亲",
       "onboard_time": 1687824700,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520088,
+      "num": 520088,
+      "word": "鹿晗张艺兴黄子韬白背心",
+      "onboard_time": 1687856501,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 511019,
@@ -673,14 +745,6 @@
       "onboard_time": 1687835917,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486107,
-      "num": 486107,
-      "word": "厌童现象",
-      "onboard_time": 1687854399,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 480461,
@@ -883,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364040,
+      "num": 364040,
+      "word": "微信名不能改成文件传输助手",
+      "onboard_time": 1687853739,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 350939,
       "num": 350939,
       "word": "段嘉许表白",
@@ -929,6 +1001,14 @@
       "onboard_time": 1687834000,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336689,
+      "num": 336689,
+      "word": "去男朋友家收到了29999见面礼",
+      "onboard_time": 1687856860,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 335653,
@@ -1033,6 +1113,14 @@
       "onboard_time": 1687827161,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308893,
+      "num": 308893,
+      "word": "小孩子不吃蔬菜是有原因的",
+      "onboard_time": 1687854758,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 308092,
@@ -1153,14 +1241,6 @@
       "onboard_time": 1687847377,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278398,
-      "num": 278398,
-      "word": "曾黎 谁说我今天像去参加婚礼了",
-      "onboard_time": 1687854818,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 274535,
@@ -1363,20 +1443,20 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 223891,
-      "num": 223891,
-      "word": "小孩子不吃蔬菜是有原因的",
-      "onboard_time": 1687854758,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223552,
       "num": 223552,
       "word": "浙江海宁2名消防员因公牺牲",
       "onboard_time": 1687789909,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223292,
+      "num": 223292,
+      "word": "外公八十岁了还在帮我妈打蜘蛛",
+      "onboard_time": 1687856741,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 223098,
@@ -1411,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216919,
+      "num": 216919,
+      "word": "周翊然张淼怡线下合体直播",
+      "onboard_time": 1687856741,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214436,
       "num": 214436,
       "word": "曝周杰伦女儿将入学澳洲贵族名校",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1687821507,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211709,
+      "num": 211709,
+      "word": "女篮",
+      "onboard_time": 1687856323,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 210278,
@@ -1563,12 +1659,28 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 183902,
+      "num": 339969,
+      "word": "解放军15分钟内架起跨江长桥",
+      "onboard_time": 1687856501,
+      "rank": 29,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 180147,
       "num": 180147,
       "word": "这俩猫就是没头脑和不高兴吧",
       "onboard_time": 1687833815,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180065,
+      "num": 198510,
+      "word": "怀孕后有必要把猫送走吗",
+      "onboard_time": 1687857160,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 180014,
@@ -1953,6 +2065,14 @@
       "onboard_time": 1687808715,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 29673,
+      "num": 538793,
+      "word": "女交警站积水中疏通下水道1小时",
+      "onboard_time": 1687856441,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28065,
