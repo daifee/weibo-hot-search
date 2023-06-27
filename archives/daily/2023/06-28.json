@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687886233407,
+  "endTime": 1687887248307,
   "band_list": [
     {
       "raw_hot": 2748188,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1308137,
-      "num": 1308137,
+      "raw_hot": 1371036,
+      "num": 1371036,
       "word": "江西航空",
       "onboard_time": 1687881220,
       "rank": 6,
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714603,
+      "num": 714603,
+      "word": "千万不要随意私拆学生档案",
+      "onboard_time": 1687882232,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 689227,
       "num": 689227,
       "word": "周杰伦昆凌见证萧敬腾求婚现场",
       "onboard_time": 1687876307,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 660821,
-      "num": 660821,
-      "word": "千万不要随意私拆学生档案",
-      "onboard_time": 1687882232,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 644846,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378939,
+      "num": 378939,
+      "word": "一让在让",
+      "onboard_time": 1687884088,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366427,
       "num": 366427,
       "word": "医院回应女子被司机反复碾轧遇害",
@@ -224,14 +232,6 @@
       "word": "周翊然张淼怡新剧吻戏",
       "onboard_time": 1687878764,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354060,
-      "num": 354060,
-      "word": "一让在让",
-      "onboard_time": 1687884088,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153115,
+      "num": 118727,
+      "word": "昆凌避谈陈建州大牙事件",
+      "onboard_time": 1687858424,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147107,
       "num": 147107,
       "word": "山东东营警方回应男子驾车反复碾压女子",
@@ -443,19 +451,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105674,
+      "num": 105674,
+      "word": "闹市区惊现花面狸叼幼崽走钢丝",
+      "onboard_time": 1687885047,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88934,
       "num": 88934,
       "word": "小伙辞职宅在家两年囤1.5万条毛巾",
       "onboard_time": 1687878467,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84964,
-      "num": 84964,
-      "word": "闹市区惊现花面狸叼幼崽走钢丝",
-      "onboard_time": 1687885047,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -473,6 +481,14 @@
       "onboard_time": 1687885286,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55298,
+      "num": 72159,
+      "word": "你会为了爱情改变自己吗",
+      "onboard_time": 1687887141,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12370,
