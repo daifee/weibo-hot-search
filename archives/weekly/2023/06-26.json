@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687840684785,
+  "endTime": 1687843113660,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -243,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1466084,
+      "num": 1466084,
+      "word": "林生斌关联公司被吊销",
+      "onboard_time": 1687838079,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1434156,
       "num": 1434156,
       "word": "亚运会",
@@ -257,6 +265,14 @@
       "onboard_time": 1687832255,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1293879,
+      "num": 774207,
+      "word": "陈建州否认性骚扰指控",
+      "onboard_time": 1687842347,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1256296,
@@ -299,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1097942,
+      "num": 1097942,
+      "word": "杭州女子养仓鼠脸烂成火龙果",
+      "onboard_time": 1687840132,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085381,
       "num": 1085381,
       "word": "你的童年报复性补偿行为",
       "onboard_time": 1687744950,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1084109,
+      "num": 1084109,
+      "word": "男子消失的她映后影院求婚",
+      "onboard_time": 1687839284,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1076239,
@@ -345,6 +377,14 @@
       "onboard_time": 1687751934,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1006041,
+      "num": 938506,
+      "word": "文咏珊非过没丑过",
+      "onboard_time": 1687838744,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 990373,
@@ -403,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 938506,
-      "num": 938506,
-      "word": "文咏珊非过没丑过",
-      "onboard_time": 1687838744,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 936978,
       "num": 936978,
       "word": "海南考生881分想报北大",
@@ -459,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 900536,
-      "num": 900536,
-      "word": "林生斌关联公司被吊销",
-      "onboard_time": 1687838079,
-      "rank": 12,
-      "category": "财经,社会新闻"
+      "raw_hot": 897501,
+      "num": 897501,
+      "word": "空姐结识男乘客染毒瘾后贩毒",
+      "onboard_time": 1687836400,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 890345,
@@ -491,14 +523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 877494,
-      "num": 794913,
-      "word": "空姐结识男乘客染毒瘾后贩毒",
-      "onboard_time": 1687836400,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 871260,
       "num": 871260,
       "word": "贬低你的亲戚都是父母惯的",
@@ -521,6 +545,14 @@
       "onboard_time": 1687781622,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 848561,
+      "num": 848561,
+      "word": "考研二战我关闭了朋友圈一年",
+      "onboard_time": 1687839046,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 846866,
@@ -555,14 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 793812,
-      "num": 708022,
-      "word": "男子消失的她映后影院求婚",
-      "onboard_time": 1687839284,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 786583,
       "num": 415072,
       "word": "黄圣依疑怀3胎",
@@ -584,6 +608,14 @@
       "word": "高铁调座椅弄撒了后座的泡面",
       "onboard_time": 1687831356,
       "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 759123,
+      "num": 759123,
+      "word": "骨折一个月腿瘦了一圈",
+      "onboard_time": 1687840378,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -651,12 +683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 701430,
+      "raw_hot": 714128,
       "num": 540267,
       "word": "大牙",
       "onboard_time": 1687839106,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 711915,
+      "num": 711915,
+      "word": "段嘉许车牌号是桑稚我爱你",
+      "onboard_time": 1687840732,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 694755,
@@ -739,12 +779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 633713,
-      "num": 633713,
-      "word": "考研二战我关闭了朋友圈一年",
-      "onboard_time": 1687839046,
-      "rank": 20,
+      "raw_hot": 644626,
+      "num": 367407,
+      "word": "爸爸得了抑郁症 出门前拥抱他",
+      "onboard_time": 1687841390,
+      "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 627866,
+      "num": 627866,
+      "word": "韩素希吃棒棒糖姬达狂响",
+      "onboard_time": 1687841090,
+      "rank": 14,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 626967,
@@ -979,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521590,
+      "num": 521590,
+      "word": "川大回应律所称不再招川大毕业生",
+      "onboard_time": 1687842046,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 517837,
       "num": 490203,
       "word": "WE零封TES",
@@ -987,12 +1043,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 516389,
-      "num": 516389,
-      "word": "杭州女子养仓鼠脸烂成火龙果",
-      "onboard_time": 1687840132,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 511019,
+      "num": 511019,
+      "word": "Jennie新剧提前大结局",
+      "onboard_time": 1687841269,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 510264,
@@ -1041,14 +1097,6 @@
       "onboard_time": 1687775025,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 492602,
-      "num": 492602,
-      "word": "骨折一个月腿瘦了一圈",
-      "onboard_time": 1687840378,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 487816,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1687706674,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447732,
+      "num": 430274,
+      "word": "偷偷藏不住发布会",
+      "onboard_time": 1687842583,
+      "rank": 25,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 445209,
@@ -1395,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399102,
+      "num": 399102,
+      "word": "王宝强金扫帚奖渊源",
+      "onboard_time": 1687840615,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397160,
       "num": 247616,
       "word": "牙医不建议用电动牙刷",
@@ -1409,6 +1473,14 @@
       "onboard_time": 1687835137,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 393985,
+      "num": 364006,
+      "word": "1年不见父亲误把儿子当偷车贼",
+      "onboard_time": 1687841751,
+      "rank": 32,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 388221,
@@ -1547,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351792,
+      "num": 351792,
+      "word": "男朋友发朋友圈官宣仅我可见",
+      "onboard_time": 1687842765,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 350939,
       "num": 350939,
       "word": "段嘉许表白",
@@ -1611,6 +1691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 339675,
+      "num": 339675,
+      "word": "内推校友结果被她给开了",
+      "onboard_time": 1687842285,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338622,
       "num": 338622,
       "word": "赵露思桑稚醉酒哭戏小说还原度",
@@ -1625,6 +1713,14 @@
       "onboard_time": 1687782595,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335653,
+      "num": 335653,
+      "word": "女儿为53岁父亲高考查分选大学",
+      "onboard_time": 1687839954,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 334884,
@@ -1755,20 +1851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324345,
-      "num": 324345,
-      "word": "女儿为53岁父亲高考查分选大学",
-      "onboard_time": 1687839954,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 323783,
       "num": 323783,
       "word": "年轻人回县城考公值得吗",
       "onboard_time": 1687740332,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 323730,
+      "num": 323730,
+      "word": "岳云鹏演王一博小舅",
+      "onboard_time": 1687842823,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 322522,
@@ -1851,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312342,
+      "num": 312342,
+      "word": "第一只修成正果的大熊猫",
+      "onboard_time": 1687842171,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311822,
       "num": 311822,
       "word": "朱一龙一番总票房破30亿",
@@ -1873,6 +1977,14 @@
       "onboard_time": 1687734382,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 308753,
+      "num": 308753,
+      "word": "我国今年已有100万人买30万元以上汽车",
+      "onboard_time": 1687842943,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307913,
@@ -1953,6 +2065,14 @@
       "onboard_time": 1687740153,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 296114,
+      "num": 296114,
+      "word": "这猫是真的这么大吗还是特效",
+      "onboard_time": 1687842705,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 296073,
@@ -2115,6 +2235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269431,
+      "num": 269431,
+      "word": "上海凌晨四点的天空是粉紫色的",
+      "onboard_time": 1687842525,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268576,
       "num": 268576,
       "word": "女生高考时发烧考618分挨个屋报喜",
@@ -2249,14 +2377,6 @@
       "onboard_time": 1687795655,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253884,
-      "num": 253884,
-      "word": "王宝强金扫帚奖渊源",
-      "onboard_time": 1687840615,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 253632,
@@ -3531,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72374,
+      "num": 1802800,
+      "word": "用电影海报打开千万工程20年巨变",
+      "onboard_time": 1687839046,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72052,
       "num": 72052,
       "word": "孟子义特别好的男生朋友没王鹤棣",
@@ -3544,14 +3672,6 @@
       "word": "女儿每次回家爸爸都在地铁口等候",
       "onboard_time": 1687735104,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60103,
-      "num": 1802800,
-      "word": "用电影海报打开千万工程20年巨变",
-      "onboard_time": 1687839046,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
