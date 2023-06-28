@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 17:34:14
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 18:20:43
 </p>
 </blockquote>
 <p>
@@ -3207,6 +3207,12 @@ Apple Vision Pro 苹果首款头显（热度：1638983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E4%B8%B4%E7%BB%88%E5%89%8D%E5%BC%80%E4%BA%86%E4%B8%AA%E7%8E%A9%E7%AC%91%23" target="weibo">
+爷爷临终前开了个玩笑（热度：1620610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A810%E5%B2%81%E8%BA%AB%E9%AB%98%23" target="weibo">
 甜馨10岁身高（热度：1620326）
 </a>
@@ -6005,12 +6011,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 马伯骞问爱马仕是什么（热度：1101596）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%A7%81%E6%9C%8D%23" target="weibo">
-杨幂私服（热度：1101021）
 </a>
 </li>
 

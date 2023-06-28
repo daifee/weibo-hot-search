@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687944854766,
+  "endTime": 1687947643525,
   "band_list": [
     {
       "raw_hot": 4075577,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4057131,
-      "num": 595998,
+      "num": 638601,
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2382491,
-      "num": 593185,
+      "num": 619423,
       "word": "文具店处女证",
       "onboard_time": 1687932397,
       "rank": 10,
@@ -169,6 +169,14 @@
       "onboard_time": 1687877324,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1620610,
+      "num": 1620610,
+      "word": "爷爷临终前开了个玩笑",
+      "onboard_time": 1687944155,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1564820,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 1105647,
-      "num": 421533,
+      "num": 474519,
       "word": "表妹考了620分被舅妈骂一下午",
       "onboard_time": 1687931379,
       "rank": 20,
@@ -329,6 +337,14 @@
       "onboard_time": 1687940075,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1034405,
+      "num": 628193,
+      "word": "张雪峰建议不好好学习带孩子到四个地方",
+      "onboard_time": 1687946015,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1021043,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 900604,
-      "num": 381930,
+      "num": 488449,
       "word": "瞒着父母偷偷买了一套房子",
       "onboard_time": 1687939536,
       "rank": 22,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 817328,
-      "num": 487712,
+      "num": 552045,
       "word": "肖战王一博会同台吗",
       "onboard_time": 1687943261,
       "rank": 13,
@@ -417,6 +433,14 @@
       "onboard_time": 1687939057,
       "rank": 21,
       "category": "其它"
+    },
+    {
+      "raw_hot": 790112,
+      "num": 490333,
+      "word": "一觉醒来同事全离职了",
+      "onboard_time": 1687946254,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 777349,
@@ -499,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 711878,
+      "num": 711878,
+      "word": "安乐传真的要来了",
+      "onboard_time": 1687946434,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 689227,
       "num": 689227,
       "word": "周杰伦昆凌见证萧敬腾求婚现场",
@@ -513,6 +545,14 @@
       "onboard_time": 1687928441,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 673344,
+      "num": 673344,
+      "word": "还得是李梦",
+      "onboard_time": 1687943918,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 661154,
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 642324,
+      "num": 642324,
+      "word": "SEVENTEEN的家谱这下全都乱了",
+      "onboard_time": 1687943735,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630999,
       "num": 606097,
       "word": "消失的她海报画着李木子就在海底",
@@ -553,6 +601,14 @@
       "onboard_time": 1687940854,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 610619,
+      "num": 610619,
+      "word": "白敬亭说宋轶表演压力更大",
+      "onboard_time": 1687946194,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 598550,
@@ -659,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 542460,
-      "num": 427002,
-      "word": "还得是李梦",
-      "onboard_time": 1687943918,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 541679,
       "num": 541679,
       "word": "肖战扎了小辫儿",
@@ -689,6 +737,14 @@
       "onboard_time": 1687908929,
       "rank": 17,
       "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 522664,
+      "num": 522664,
+      "word": "EXO综艺取消录制",
+      "onboard_time": 1687946855,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 501970,
@@ -732,7 +788,7 @@
     },
     {
       "raw_hot": 476882,
-      "num": 337505,
+      "num": 417302,
       "word": "杨幂工作室吊我胃口",
       "onboard_time": 1687943857,
       "rank": 27,
@@ -867,6 +923,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 419346,
+      "num": 491574,
+      "word": "原来深圳大学还是清华北大的亲女儿啊",
+      "onboard_time": 1687945231,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418152,
       "num": 384525,
       "word": "成年人最受不了的聊天方式",
@@ -913,14 +977,6 @@
       "onboard_time": 1687943493,
       "rank": 18,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 387198,
-      "num": 334123,
-      "word": "SEVENTEEN的家谱这下全都乱了",
-      "onboard_time": 1687943735,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 385178,
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 361140,
-      "num": 361140,
+      "num": 866779,
       "word": "00后小伙把网红蛙带到了川西",
       "onboard_time": 1687939294,
       "rank": 25,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1687930118,
       "rank": 25,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 348095,
+      "num": 1900450,
+      "word": "农村三胞胎姐妹均高分超一本线",
+      "onboard_time": 1687943376,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 345763,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1687847198,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339834,
-      "num": 292196,
-      "word": "爷爷临终前开了个玩笑",
-      "onboard_time": 1687944155,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 335611,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1687929637,
       "rank": 33,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 311489,
+      "num": 311489,
+      "word": "白鹿爱心choker",
+      "onboard_time": 1687946795,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 311336,
@@ -1260,7 +1324,7 @@
     },
     {
       "raw_hot": 289266,
-      "num": 289266,
+      "num": 335307,
       "word": "中国女篮小组赛三连胜",
       "onboard_time": 1687944754,
       "rank": 31,
@@ -1291,6 +1355,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 283727,
+      "num": 283727,
+      "word": "原来身高和出生季节有关",
+      "onboard_time": 1687946375,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283585,
       "num": 283585,
       "word": "桑稚终于不是妹妹了",
@@ -1307,12 +1379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277729,
-      "num": 277729,
-      "word": "农村三胞胎姐妹均高分超一本线",
-      "onboard_time": 1687943376,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 278479,
+      "num": 278479,
+      "word": "火车上多名乘客蜷缩座套下避寒",
+      "onboard_time": 1687946434,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278303,
+      "num": 278303,
+      "word": "GQ派对",
+      "onboard_time": 1687945172,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 272045,
@@ -1393,6 +1473,14 @@
       "onboard_time": 1687913259,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254174,
+      "num": 254174,
+      "word": "还没见过这么稳重的猫",
+      "onboard_time": 1687946194,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 252886,
@@ -1483,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230682,
+      "num": 230682,
+      "word": "不要再坐公共场合的按摩椅了",
+      "onboard_time": 1687947453,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230009,
       "num": 230009,
       "word": "单亲妈妈打工14年供出3名大学生",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1687877204,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224867,
+      "num": 224867,
+      "word": "宝格丽活动",
+      "onboard_time": 1687947213,
+      "rank": 42,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 218999,
@@ -1731,6 +1835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196035,
+      "num": 196035,
+      "word": "指尖触过细密的盲文是她向上生长的痕迹",
+      "onboard_time": 1687945475,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195563,
+      "num": 195563,
+      "word": "SMTOWN回应EXO节目取消录制",
+      "onboard_time": 1687947517,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195455,
       "num": 195455,
       "word": "朱一龙暗中观察观众反应",
@@ -1761,6 +1881,14 @@
       "onboard_time": 1687935997,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 192435,
+      "num": 736192,
+      "word": "一辆车查出酒驾双煞",
+      "onboard_time": 1687947091,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191139,
@@ -1865,6 +1993,14 @@
       "onboard_time": 1687915117,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173197,
+      "num": 173197,
+      "word": "AL对战RNG",
+      "onboard_time": 1687947630,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 173031,
@@ -2083,6 +2219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79991,
+      "num": 1758972,
+      "word": "挖隧道的大国重器长啥样",
+      "onboard_time": 1687946494,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74757,
       "num": 200437,
       "word": "菜鸟官宣自营快递菜鸟速递",
@@ -2137,6 +2281,14 @@
       "onboard_time": 1687892115,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21025,
+      "num": 612062,
+      "word": "消防员高温下灭火汗水湿透消防服",
+      "onboard_time": 1687946434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12370,

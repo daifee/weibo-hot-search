@@ -1,0 +1,410 @@
+{
+  "runTime": 1687947643525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2730160,
+        "num": 2730160,
+        "word": "蔡徐坤巡演将如期举行",
+        "onboard_time": 1687939717,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348095,
+        "num": 1900450,
+        "word": "农村三胞胎姐妹均高分超一本线",
+        "onboard_time": 1687943376,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 79991,
+        "num": 1758972,
+        "word": "挖隧道的大国重器长啥样",
+        "onboard_time": 1687946494,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1620610,
+        "num": 1620610,
+        "word": "爷爷临终前开了个玩笑",
+        "onboard_time": 1687944155,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295648,
+        "num": 866779,
+        "word": "00后小伙把网红蛙带到了川西",
+        "onboard_time": 1687939294,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 765246,
+        "num": 765246,
+        "word": "GQ主编评价宋妍霏衣服闪瞎",
+        "onboard_time": 1687942055,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192435,
+        "num": 736192,
+        "word": "一辆车查出酒驾双煞",
+        "onboard_time": 1687947091,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711878,
+        "num": 711878,
+        "word": "安乐传真的要来了",
+        "onboard_time": 1687946434,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673344,
+        "num": 673344,
+        "word": "还得是李梦",
+        "onboard_time": 1687943918,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642324,
+        "num": 642324,
+        "word": "SEVENTEEN的家谱这下全都乱了",
+        "onboard_time": 1687943735,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2092657,
+        "num": 638601,
+        "word": "范玮琪终于出现了",
+        "onboard_time": 1687937916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1612728,
+        "num": 634189,
+        "word": "知情人讲述男子反复碾压妻子致死",
+        "onboard_time": 1687940916,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034405,
+        "num": 628193,
+        "word": "张雪峰建议不好好学习带孩子到四个地方",
+        "onboard_time": 1687946015,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700048,
+        "num": 619423,
+        "word": "文具店处女证",
+        "onboard_time": 1687932397,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21025,
+        "num": 612062,
+        "word": "消防员高温下灭火汗水湿透消防服",
+        "onboard_time": 1687946434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610619,
+        "num": 610619,
+        "word": "白敬亭说宋轶表演压力更大",
+        "onboard_time": 1687946194,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 581669,
+        "num": 581669,
+        "word": "鹿晗的提词器",
+        "onboard_time": 1687935816,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 552045,
+        "num": 552045,
+        "word": "肖战王一博会同台吗",
+        "onboard_time": 1687943261,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522664,
+        "num": 522664,
+        "word": "EXO综艺取消录制",
+        "onboard_time": 1687946855,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419346,
+        "num": 491574,
+        "word": "原来深圳大学还是清华北大的亲女儿啊",
+        "onboard_time": 1687945231,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790112,
+        "num": 490333,
+        "word": "一觉醒来同事全离职了",
+        "onboard_time": 1687946254,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488449,
+        "num": 488449,
+        "word": "瞒着父母偷偷买了一套房子",
+        "onboard_time": 1687939536,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474519,
+        "num": 474519,
+        "word": "表妹考了620分被舅妈骂一下午",
+        "onboard_time": 1687931379,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 417302,
+        "num": 417302,
+        "word": "杨幂工作室吊我胃口",
+        "onboard_time": 1687943857,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414720,
+        "num": 414720,
+        "word": "陈妍希颖儿带娃逛迪士尼",
+        "onboard_time": 1687940558,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410728,
+        "num": 410728,
+        "word": "普京曾有意杀死普里戈任",
+        "onboard_time": 1687932516,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 388103,
+        "num": 388103,
+        "word": "肖战抵达香港",
+        "onboard_time": 1687940075,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370761,
+        "num": 370761,
+        "word": "吃完小龙虾美甲变绿了",
+        "onboard_time": 1687933956,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343912,
+        "num": 343912,
+        "word": "陈建州起诉大牙",
+        "onboard_time": 1687935335,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159255,
+        "num": 335307,
+        "word": "中国女篮小组赛三连胜",
+        "onboard_time": 1687944754,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333150,
+        "num": 333150,
+        "word": "近视500度但看东西很清楚",
+        "onboard_time": 1687940854,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323560,
+        "num": 323560,
+        "word": "B站崩了",
+        "onboard_time": 1687934195,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313304,
+        "num": 313304,
+        "word": "为什么身上会突然多了很多痣",
+        "onboard_time": 1687939057,
+        "rank": 32,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 311489,
+        "num": 311489,
+        "word": "白鹿爱心choker",
+        "onboard_time": 1687946795,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 304537,
+        "num": 304537,
+        "word": "王一博官宣还是这图",
+        "onboard_time": 1687928140,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290062,
+        "num": 290062,
+        "word": "陈思诚叫朱一龙老公的反应",
+        "onboard_time": 1687935874,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283727,
+        "num": 283727,
+        "word": "原来身高和出生季节有关",
+        "onboard_time": 1687946375,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278479,
+        "num": 278479,
+        "word": "火车上多名乘客蜷缩座套下避寒",
+        "onboard_time": 1687946434,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278303,
+        "num": 278303,
+        "word": "GQ派对",
+        "onboard_time": 1687945172,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262099,
+        "num": 262099,
+        "word": "韩国医生都不喝的韩式烧酒",
+        "onboard_time": 1687937195,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254174,
+        "num": 254174,
+        "word": "还没见过这么稳重的猫",
+        "onboard_time": 1687946194,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230682,
+        "num": 230682,
+        "word": "不要再坐公共场合的按摩椅了",
+        "onboard_time": 1687947453,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224867,
+        "num": 224867,
+        "word": "宝格丽活动",
+        "onboard_time": 1687947213,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 215969,
+        "num": 215969,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196035,
+        "num": 196035,
+        "word": "指尖触过细密的盲文是她向上生长的痕迹",
+        "onboard_time": 1687945475,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195563,
+        "num": 195563,
+        "word": "SMTOWN回应EXO节目取消录制",
+        "onboard_time": 1687947517,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187858,
+        "num": 187858,
+        "word": "咒术回战",
+        "onboard_time": 1687938873,
+        "rank": 46,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 182124,
+        "num": 182124,
+        "word": "JonyJ巡演抢票",
+        "onboard_time": 1687944155,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173197,
+        "num": 173197,
+        "word": "AL对战RNG",
+        "onboard_time": 1687947630,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169419,
+        "num": 169419,
+        "word": "萧敬腾求婚好多地方下雨",
+        "onboard_time": 1687921355,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方是蒙古国可以信赖和倚重的伙伴#"
+    }
+  }
+}
