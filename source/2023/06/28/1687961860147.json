@@ -1,0 +1,410 @@
+{
+  "runTime": 1687961860147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8505304,
+        "num": 8505304,
+        "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+        "onboard_time": 1687958560,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1449875,
+        "num": 1449875,
+        "word": "胃癌几乎都是吃出来的",
+        "onboard_time": 1687949316,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55768,
+        "num": 1432049,
+        "word": "8月15日成为全国生态日",
+        "onboard_time": 1687955917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3885797,
+        "num": 1430673,
+        "word": "陈建州 喔这张床不可以",
+        "onboard_time": 1687960477,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767252,
+        "num": 1423988,
+        "word": "美特斯邦威以3亿元出售房产自救",
+        "onboard_time": 1687957298,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420797,
+        "num": 1420797,
+        "word": "Victoria还是这么美",
+        "onboard_time": 1687956518,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1321450,
+        "num": 1321450,
+        "word": "Angelababy金发芭比",
+        "onboard_time": 1687954893,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1299177,
+        "num": 1299177,
+        "word": "大牙 这次我会勇敢法院见",
+        "onboard_time": 1687951593,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706539,
+        "num": 706539,
+        "word": "四川考生王俊凯高考699分",
+        "onboard_time": 1687953873,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687390,
+        "num": 687390,
+        "word": "jiejie怎么了",
+        "onboard_time": 1687958679,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2686886,
+        "num": 671980,
+        "word": "范玮琪终于出现了",
+        "onboard_time": 1687937916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1431397,
+        "num": 654222,
+        "word": "何超莲娃从天上来",
+        "onboard_time": 1687953332,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1376357,
+        "num": 624387,
+        "word": "被丈夫多次碾压致死女子弟弟发声",
+        "onboard_time": 1687953452,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078730,
+        "num": 618172,
+        "word": "李沁工作室疑似因造型问题删博",
+        "onboard_time": 1687953632,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33803,
+        "num": 580964,
+        "word": "4种野生保护动物罕见同框",
+        "onboard_time": 1687960836,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018775,
+        "num": 571993,
+        "word": "李现被杨幂夸好帅的反应",
+        "onboard_time": 1687960061,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 887874,
+        "num": 533422,
+        "word": "蔡徐坤巡演将如期举行",
+        "onboard_time": 1687939717,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 525958,
+        "num": 525958,
+        "word": "不要再坐公共场合的按摩椅了",
+        "onboard_time": 1687947453,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491943,
+        "num": 491943,
+        "word": "爷爷临终前开了个玩笑",
+        "onboard_time": 1687944155,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 732658,
+        "num": 477984,
+        "word": "28个月男童误入电梯坠楼身亡",
+        "onboard_time": 1687954718,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183076,
+        "num": 475112,
+        "word": "曾黎腰臀比",
+        "onboard_time": 1687959699,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 887749,
+        "num": 456700,
+        "word": "陈都灵蓝发人鱼姬",
+        "onboard_time": 1687954773,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 837370,
+        "num": 436536,
+        "word": "李一桐踩到自己裙子了",
+        "onboard_time": 1687958198,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427071,
+        "num": 427071,
+        "word": "上岸第一剑先斩意中人",
+        "onboard_time": 1687948775,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377684,
+        "num": 377684,
+        "word": "表妹考了620分被舅妈骂一下午",
+        "onboard_time": 1687931379,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 804869,
+        "num": 377473,
+        "word": "大牙方回应被起诉",
+        "onboard_time": 1687947872,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792487,
+        "num": 377306,
+        "word": "白鹿的体态",
+        "onboard_time": 1687952554,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376142,
+        "num": 376142,
+        "word": "男子交8名女友被发现后卡23楼报警求救",
+        "onboard_time": 1687956759,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353440,
+        "num": 353440,
+        "word": "突然觉得工作后真好啊",
+        "onboard_time": 1687959338,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 320076,
+        "num": 320076,
+        "word": "30年前因失学哇哇大哭女孩如今捐款50余万",
+        "onboard_time": 1687959519,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 732494,
+        "num": 315859,
+        "word": "周雨彤羽毛抹胸",
+        "onboard_time": 1687958620,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 677978,
+        "num": 304439,
+        "word": "郭源元 我不想让大牙只有一个人",
+        "onboard_time": 1687959762,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729025,
+        "num": 298170,
+        "word": "杨幂在酷暑张艺兴在寒冬",
+        "onboard_time": 1687955855,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 341240,
+        "num": 283661,
+        "word": "我只穿便宜衣服但我觉得我很会买",
+        "onboard_time": 1687960963,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 282329,
+        "num": 282329,
+        "word": "一觉醒来同事全离职了",
+        "onboard_time": 1687946254,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521244,
+        "num": 276857,
+        "word": "GQ红毯谁赢了",
+        "onboard_time": 1687959579,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457392,
+        "num": 271497,
+        "word": "陈建州起诉大牙",
+        "onboard_time": 1687935335,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428029,
+        "num": 269317,
+        "word": "Angelababy脸在江山在",
+        "onboard_time": 1687957836,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264423,
+        "num": 264423,
+        "word": "巨蟹座一定要远离影响自己情绪的人",
+        "onboard_time": 1687949494,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 254826,
+        "num": 254826,
+        "word": "男子婚前全款买房离婚妻子获赔25%",
+        "onboard_time": 1687949915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362228,
+        "num": 254784,
+        "word": "内娱抠书式演技",
+        "onboard_time": 1687961263,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356772,
+        "num": 254776,
+        "word": "杨幂暗夜精灵",
+        "onboard_time": 1687954357,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 350346,
+        "num": 254748,
+        "word": "消失的她",
+        "onboard_time": 1687959098,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254684,
+        "num": 254684,
+        "word": "Lisa深V露背装",
+        "onboard_time": 1687949796,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217277,
+        "num": 254657,
+        "word": "WB锁定第二轮S组",
+        "onboard_time": 1687960963,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217198,
+        "num": 254281,
+        "word": "当寺院师傅说我旺夫",
+        "onboard_time": 1687954893,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186125,
+        "num": 253867,
+        "word": "EDG对战UP",
+        "onboard_time": 1687957657,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161471,
+        "num": 253732,
+        "word": "民警以蓝天为幕为警犬拍摄证件照",
+        "onboard_time": 1687961021,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148212,
+        "num": 253303,
+        "word": "海军军医大学的招生宣传",
+        "onboard_time": 1687961624,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 143227,
+        "num": 253013,
+        "word": "蛇蛇亮G2的标",
+        "onboard_time": 1687961683,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村之美#"
+    }
+  }
+}

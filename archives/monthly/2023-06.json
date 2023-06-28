@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687959508983,
+  "endTime": 1687961860147,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -209,6 +209,14 @@
       "onboard_time": 1686092659,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8505304,
+      "num": 8505304,
+      "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+      "onboard_time": 1687958560,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 8168360,
@@ -480,6 +488,14 @@
       "word": "张雨绮致歉",
       "onboard_time": 1686473789,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3885797,
+      "num": 1430673,
+      "word": "陈建州 喔这张床不可以",
+      "onboard_time": 1687960477,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -1112,14 +1128,6 @@
       "word": "周俊伟",
       "onboard_time": 1687159848,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2779982,
-      "num": 2063555,
-      "word": "曝陈建州在范玮琪孕期骚扰女艺人",
-      "onboard_time": 1687958560,
-      "rank": 9,
       "category": "艺人"
     },
     {
@@ -6299,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1299177,
+      "num": 1299177,
+      "word": "大牙 这次我会勇敢法院见",
+      "onboard_time": 1687951593,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1299025,
       "num": 1299025,
       "word": "萧煌奇回应不是盲人",
@@ -7147,14 +7163,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 1204166,
-      "num": 1204166,
-      "word": "大牙 这次我会勇敢法院见",
-      "onboard_time": 1687951593,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1203733,
       "num": 1203733,
       "word": "海霞欧阳夏丹已不再任央视主持人",
@@ -7313,6 +7321,14 @@
       "onboard_time": 1685841865,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1183076,
+      "num": 475112,
+      "word": "曾黎腰臀比",
+      "onboard_time": 1687959699,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1181622,
@@ -9081,6 +9097,14 @@
       "onboard_time": 1686728368,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1018775,
+      "num": 571993,
+      "word": "李现被杨幂夸好帅的反应",
+      "onboard_time": 1687960061,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1018491,
@@ -11403,6 +11427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837370,
+      "num": 517718,
+      "word": "李一桐踩到自己裙子了",
+      "onboard_time": 1687958198,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 837359,
       "num": 837359,
       "word": "何炅王诗龄合照",
@@ -12579,6 +12611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 767252,
+      "num": 1423988,
+      "word": "美特斯邦威以3亿元出售房产自救",
+      "onboard_time": 1687957298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767234,
       "num": 767234,
       "word": "圣枪哥确认Uzi在EDG基地",
@@ -13195,6 +13235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 732494,
+      "num": 315859,
+      "word": "周雨彤羽毛抹胸",
+      "onboard_time": 1687958620,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 731221,
       "num": 731221,
       "word": "肖春生老了也是个帅老头",
@@ -13425,14 +13473,6 @@
       "onboard_time": 1686189570,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 720254,
-      "num": 517718,
-      "word": "李一桐踩到自己裙子了",
-      "onboard_time": 1687958198,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 720202,
@@ -14027,6 +14067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 687390,
+      "num": 687390,
+      "word": "jiejie怎么了",
+      "onboard_time": 1687958679,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 686578,
       "num": 631263,
       "word": "体育馆回应梁静茹演唱会观众齐喊开空调",
@@ -14217,6 +14265,14 @@
       "onboard_time": 1685864308,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 677978,
+      "num": 304439,
+      "word": "郭源元 我不想让大牙只有一个人",
+      "onboard_time": 1687959762,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 676786,
@@ -15553,14 +15609,6 @@
       "onboard_time": 1687310671,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 607645,
-      "num": 607645,
-      "word": "美特斯邦威以3亿元出售房产自救",
-      "onboard_time": 1687957298,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607539,
@@ -17753,6 +17801,14 @@
       "onboard_time": 1685938470,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 521244,
+      "num": 276857,
+      "word": "GQ红毯谁赢了",
+      "onboard_time": 1687959579,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521214,
@@ -24571,6 +24627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 362228,
+      "num": 254784,
+      "word": "内娱抠书式演技",
+      "onboard_time": 1687961263,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361857,
       "num": 336816,
       "word": "如何看待川大处罚结果",
@@ -25099,6 +25163,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 353440,
+      "num": 353440,
+      "word": "突然觉得工作后真好啊",
+      "onboard_time": 1687959338,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 353314,
       "num": 353314,
       "word": "又显着范丞丞了",
@@ -25257,14 +25329,6 @@
       "onboard_time": 1687528786,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350578,
-      "num": 350578,
-      "word": "jiejie怎么了",
-      "onboard_time": 1687958679,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 350533,
@@ -25969,6 +26033,14 @@
       "onboard_time": 1687760936,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 341240,
+      "num": 283661,
+      "word": "我只穿便宜衣服但我觉得我很会买",
+      "onboard_time": 1687960963,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 341046,
@@ -27617,6 +27689,14 @@
       "onboard_time": 1686651149,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320076,
+      "num": 320076,
+      "word": "30年前因失学哇哇大哭女孩如今捐款50余万",
+      "onboard_time": 1687959519,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 320070,
@@ -36940,7 +37020,7 @@
     },
     {
       "raw_hot": 243844,
-      "num": 243844,
+      "num": 253867,
       "word": "EDG对战UP",
       "onboard_time": 1687957657,
       "rank": 43,
@@ -41579,6 +41659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217277,
+      "num": 254657,
+      "word": "WB锁定第二轮S组",
+      "onboard_time": 1687960963,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217218,
       "num": 217218,
       "word": "原来打工真的会变丑",
@@ -45689,14 +45777,6 @@
       "onboard_time": 1686787949,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197832,
-      "num": 197832,
-      "word": "突然觉得工作后真好啊",
-      "onboard_time": 1687959338,
-      "rank": 48,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 197787,
@@ -53547,6 +53627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161471,
+      "num": 253732,
+      "word": "民警以蓝天为幕为警犬拍摄证件照",
+      "onboard_time": 1687961021,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161469,
       "num": 161469,
       "word": "让你包粽子没让你绑架粽子",
@@ -55987,6 +56075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148212,
+      "num": 253303,
+      "word": "海军军医大学的招生宣传",
+      "onboard_time": 1687961624,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 148197,
       "num": 148197,
       "word": "为什么有的家庭一定要生儿子",
@@ -56849,6 +56945,14 @@
       "onboard_time": 1687551552,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 143227,
+      "num": 253013,
+      "word": "蛇蛇亮G2的标",
+      "onboard_time": 1687961683,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 143160,
@@ -65555,6 +65659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55768,
+      "num": 2297758,
+      "word": "8月15日成为全国生态日",
+      "onboard_time": 1687955917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55665,
       "num": 219873,
       "word": "饿了么免单是懂考生的",
@@ -65585,14 +65697,6 @@
       "onboard_time": 1685699010,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55461,
-      "num": 2297758,
-      "word": "8月15日成为全国生态日",
-      "onboard_time": 1687955917,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55426,
@@ -66712,6 +66816,14 @@
       "word": "银川多家餐饮店使用液化气罐",
       "onboard_time": 1687458496,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33803,
+      "num": 580964,
+      "word": "4种野生保护动物罕见同框",
+      "onboard_time": 1687960836,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
