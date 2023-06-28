@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687908864546,
+  "endTime": 1687917119642,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3130350,
+      "num": 280983,
+      "word": "楚雨荨每天骑车20公里上下学",
+      "onboard_time": 1687912900,
+      "rank": 30,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 3089255,
       "num": 3089255,
       "word": "段嘉许 男狐狸精",
@@ -81,6 +89,14 @@
       "onboard_time": 1687746329,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2853241,
+      "num": 690357,
+      "word": "向太叫林有慧媳妇儿",
+      "onboard_time": 1687913379,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2835436,
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2187446,
+      "num": 1384413,
+      "word": "曝长沙一酒店沐浴露疑被灌精液",
+      "onboard_time": 1687914997,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2168711,
       "num": 2168711,
       "word": "这些都是野鸡大学",
@@ -257,6 +281,14 @@
       "onboard_time": 1687847496,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1986286,
+      "num": 1734583,
+      "word": "同事怀孕后一直请假我离职了",
+      "onboard_time": 1687911338,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1957176,
@@ -352,6 +384,14 @@
       "word": "从胃炎到胃癌",
       "onboard_time": 1687739914,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1764686,
+      "num": 1764686,
+      "word": "喜茶奈雪为何又不香了",
+      "onboard_time": 1687913618,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -473,6 +513,14 @@
       "onboard_time": 1687880382,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1404130,
+      "num": 329577,
+      "word": "肖战机场",
+      "onboard_time": 1687915416,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1358002,
@@ -697,6 +745,22 @@
       "onboard_time": 1687862078,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1021043,
+      "num": 326599,
+      "word": "婆婆把我喂奶视频发到群里",
+      "onboard_time": 1687911095,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1017708,
+      "num": 1017708,
+      "word": "高考377分复读一年逆袭677分",
+      "onboard_time": 1687911095,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1014337,
@@ -963,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833267,
+      "num": 681002,
+      "word": "张雪峰衡水中学专场讲座视频",
+      "onboard_time": 1687912779,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 826373,
       "num": 826373,
       "word": "JackeyLove担任亚运会AD",
@@ -1067,6 +1139,22 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 745356,
+      "num": 745356,
+      "word": "迪士尼门票近800一张合理吗",
+      "onboard_time": 1687912837,
+      "rank": 6,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 740209,
+      "num": 740209,
+      "word": "仙剑3法器是用婚戒做的",
+      "onboard_time": 1687913018,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 739871,
       "num": 563364,
       "word": "张杰谢娜观看跳跳俏俏演出",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1687839106,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712939,
+      "num": 712939,
+      "word": "六公主拍的Angelababy",
+      "onboard_time": 1687907784,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 711915,
@@ -1499,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562289,
+      "num": 562289,
+      "word": "赵樱子和孟子义娜扎都合体过了",
+      "onboard_time": 1687914338,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562008,
       "num": 562008,
       "word": "官方回应网传乐山大佛被卖",
@@ -1657,14 +1761,6 @@
       "onboard_time": 1687770348,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525098,
-      "num": 525098,
-      "word": "六公主拍的Angelababy",
-      "onboard_time": 1687907784,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 517837,
@@ -1884,11 +1980,19 @@
     },
     {
       "raw_hot": 459135,
-      "num": 268787,
+      "num": 322364,
       "word": "虞书欣也没有脚脖子",
       "onboard_time": 1687907724,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457776,
+      "num": 324448,
+      "word": "每天下午三点下班你愿意单休吗",
+      "onboard_time": 1687913259,
+      "rank": 22,
+      "category": "社会议题"
     },
     {
       "raw_hot": 456138,
@@ -2059,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427409,
+      "num": 427409,
+      "word": "江西航空回应老太换座不成辱骂女生",
+      "onboard_time": 1687912656,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425494,
       "num": 425494,
       "word": "兴化地震",
@@ -2089,6 +2201,22 @@
       "onboard_time": 1687830274,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418152,
+      "num": 280037,
+      "word": "成年人最受不了的聊天方式",
+      "onboard_time": 1687915719,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 418151,
+      "num": 418151,
+      "word": "鹿晗同款卤煮店2小时卖出1200份",
+      "onboard_time": 1687908929,
+      "rank": 17,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 417810,
@@ -2451,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358249,
+      "num": 318721,
+      "word": "家人去世请假老师说算挂科",
+      "onboard_time": 1687915416,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356078,
       "num": 416624,
       "word": "鲁A大哥带一箱礼物去认干闺女",
@@ -2609,6 +2745,14 @@
       "onboard_time": 1687699597,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 332145,
+      "num": 332145,
+      "word": "Uzi现身国家集训队",
+      "onboard_time": 1687911338,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 331276,
@@ -2825,6 +2969,14 @@
       "onboard_time": 1687743931,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317413,
+      "num": 317413,
+      "word": "陈哲远21岁vs27岁",
+      "onboard_time": 1687908085,
+      "rank": 29,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 316277,
@@ -3107,6 +3259,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 291101,
+      "num": 291101,
+      "word": "普京表示俄罗斯军队几乎停止了内战",
+      "onboard_time": 1687911996,
+      "rank": 29,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 290052,
       "num": 290052,
       "word": "被妈妈问是不是一个朋友都没有",
@@ -3299,6 +3459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270472,
+      "num": 270472,
+      "word": "不提雨怎么能描述雨很大",
+      "onboard_time": 1687915476,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269810,
       "num": 269810,
       "word": "JennieTheidol剧照",
@@ -3347,6 +3515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265500,
+      "num": 265500,
+      "word": "拍CT之前记得上个厕所",
+      "onboard_time": 1687916674,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264748,
       "num": 232760,
       "word": "早起有口臭是不是正常现象",
@@ -3376,6 +3552,14 @@
       "word": "长风渡",
       "onboard_time": 1687867717,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262103,
+      "num": 262103,
+      "word": "吴京在巨齿鲨里叫九溟",
+      "onboard_time": 1687913259,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -3449,6 +3633,14 @@
       "onboard_time": 1687853677,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258163,
+      "num": 258163,
+      "word": "人民日报评相关企业拒聘川大学生",
+      "onboard_time": 1687916735,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258056,
@@ -3531,6 +3723,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 253074,
+      "num": 253074,
+      "word": "段嘉许vs张陆让",
+      "onboard_time": 1687916317,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252191,
       "num": 252191,
       "word": "博士生毕业后赴新疆任教被校长点名表扬",
@@ -3561,6 +3761,14 @@
       "onboard_time": 1687796733,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 249536,
+      "num": 249536,
+      "word": "韩国电影孩子们细思极恐",
+      "onboard_time": 1687912297,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 249332,
@@ -3675,6 +3883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238152,
+      "num": 238152,
+      "word": "人脸识别时一定要小心",
+      "onboard_time": 1687914277,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 237965,
       "num": 209912,
       "word": "女子3年前嫁妆藏橙子发黑流汁",
@@ -3747,6 +3963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232697,
+      "num": 232697,
+      "word": "弟弟年纪轻轻的说话还挺谨慎",
+      "onboard_time": 1687915476,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232532,
       "num": 232532,
       "word": "年轻人就不适合去菜市场",
@@ -3779,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229000,
+      "num": 229000,
+      "word": "老板不想上班带我们去海边",
+      "onboard_time": 1687915775,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228870,
       "num": 228870,
       "word": "感觉学农业还是蛮玄学的",
@@ -3809,6 +4041,14 @@
       "onboard_time": 1687749271,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226849,
+      "num": 226849,
+      "word": "面试完后公司给我报销了路费",
+      "onboard_time": 1687916616,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 226743,
@@ -3931,6 +4171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 218999,
+      "num": 218999,
+      "word": "为了卖课渲染暑假很可怕太损了",
+      "onboard_time": 1687909711,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 218494,
       "num": 218494,
       "word": "LPL",
@@ -3969,6 +4217,14 @@
       "onboard_time": 1687854698,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217406,
+      "num": 217406,
+      "word": "双胞胎高考哥哥703弟弟730",
+      "onboard_time": 1687914518,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 214063,
@@ -4115,6 +4371,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 208172,
+      "num": 208172,
+      "word": "陈都灵嘟门又有新素材了",
+      "onboard_time": 1687914818,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204660,
       "num": 204660,
       "word": "40度天消防摘蜂窝萌娃惊呼宇航员",
@@ -4129,6 +4393,14 @@
       "onboard_time": 1687753447,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203933,
+      "num": 203933,
+      "word": "家人为老人自制扇风神器",
+      "onboard_time": 1687916076,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203848,
@@ -4168,6 +4440,14 @@
       "word": "桑稚送桑延礼物",
       "onboard_time": 1687754782,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202536,
+      "num": 202536,
+      "word": "仙剑三演员今昔对比",
+      "onboard_time": 1687911156,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -4299,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193966,
+      "num": 193966,
+      "word": "偷偷藏不住番外",
+      "onboard_time": 1687910312,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
@@ -4337,14 +4625,6 @@
       "onboard_time": 1687757829,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 190619,
-      "num": 190619,
-      "word": "陈哲远21岁vs27岁",
-      "onboard_time": 1687908085,
-      "rank": 29,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 190363,
