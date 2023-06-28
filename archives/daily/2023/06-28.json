@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687957136809,
+  "endTime": 1687958884152,
   "band_list": [
     {
       "raw_hot": 4075577,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2512113,
+      "num": 2512113,
+      "word": "Angelababy金发芭比",
+      "onboard_time": 1687954893,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2494319,
       "num": 324253,
       "word": "被男子反复碾压女子已身亡",
       "onboard_time": 1687875586,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2430059,
-      "num": 2430059,
-      "word": "Angelababy金发芭比",
-      "onboard_time": 1687954893,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2411009,
@@ -137,6 +137,14 @@
       "onboard_time": 1687953632,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2226494,
+      "num": 2226494,
+      "word": "Victoria还是这么美",
+      "onboard_time": 1687956518,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2163445,
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1845085,
+      "num": 1191856,
+      "word": "何超莲娃从天上来",
+      "onboard_time": 1687953332,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1810302,
       "num": 1810302,
       "word": "和对象一起入职当天被辞退了",
       "onboard_time": 1687918296,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1760561,
-      "num": 994410,
-      "word": "何超莲娃从天上来",
-      "onboard_time": 1687953332,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1745124,
@@ -307,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1352545,
+      "num": 1352545,
+      "word": "陈都灵蓝发人鱼姬",
+      "onboard_time": 1687954773,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1347247,
       "num": 1347247,
       "word": "王一博官宣还是这图",
@@ -331,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1288016,
+      "num": 1288016,
+      "word": "四川考生王俊凯高考699分",
+      "onboard_time": 1687953873,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269333,
       "num": 687247,
       "word": "萧敬腾求婚好多地方下雨",
@@ -339,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1260531,
-      "num": 1260531,
-      "word": "陈都灵蓝发人鱼姬",
-      "onboard_time": 1687954773,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 1253056,
+      "num": 1253056,
+      "word": "28个月男童误入电梯坠楼身亡",
+      "onboard_time": 1687954718,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1249957,
@@ -353,6 +377,14 @@
       "onboard_time": 1687935816,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1241597,
+      "num": 1241597,
+      "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+      "onboard_time": 1687958560,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1220163,
@@ -392,14 +424,6 @@
       "word": "警方回应女子称被民警强奸",
       "onboard_time": 1687937021,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1154288,
-      "num": 1154288,
-      "word": "四川考生王俊凯高考699分",
-      "onboard_time": 1687953873,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -443,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1071122,
-      "num": 1071122,
-      "word": "28个月男童误入电梯坠楼身亡",
-      "onboard_time": 1687954718,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 1062605,
+      "num": 915840,
+      "word": "杨幂在酷暑张艺兴在寒冬",
+      "onboard_time": 1687955855,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1021043,
@@ -489,14 +513,6 @@
       "onboard_time": 1687922615,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 915840,
-      "num": 915840,
-      "word": "杨幂在酷暑张艺兴在寒冬",
-      "onboard_time": 1687955855,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 904880,
@@ -763,16 +779,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641851,
-      "num": 324073,
-      "word": "Victoria还是这么美",
-      "onboard_time": 1687956518,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 636695,
-      "num": 353922,
+      "num": 383775,
       "word": "张艺兴 我不热",
       "onboard_time": 1687955199,
       "rank": 26,
@@ -795,8 +803,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 627002,
+      "num": 627002,
+      "word": "男子交8名女友被发现后卡23楼报警求救",
+      "onboard_time": 1687956759,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599369,
-      "num": 322309,
+      "num": 436646,
       "word": "女生试衣遭陌生男性拉帘暴露下身",
       "onboard_time": 1687955855,
       "rank": 47,
@@ -1091,6 +1107,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 453142,
+      "num": 453142,
+      "word": "美特斯邦威以3亿元出售房产自救",
+      "onboard_time": 1687957298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448788,
       "num": 448788,
       "word": "姜个顾事",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1687851099,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433432,
+      "num": 373197,
+      "word": "Angelababy脸在江山在",
+      "onboard_time": 1687957836,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 427409,
@@ -1171,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416658,
+      "num": 357788,
+      "word": "李一桐踩到自己裙子了",
+      "onboard_time": 1687958198,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 413290,
       "num": 344292,
       "word": "ZLR 我女朋友",
@@ -1216,6 +1256,14 @@
       "word": "清潭国际高中",
       "onboard_time": 1687955378,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385492,
+      "num": 276996,
+      "word": "朱妙 绿茶",
+      "onboard_time": 1687957180,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1507,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304231,
+      "num": 260491,
+      "word": "周杰伦海口",
+      "onboard_time": 1687955135,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 304192,
       "num": 304192,
       "word": "杨幂在密室被推的一生",
@@ -1683,14 +1739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280987,
-      "num": 260491,
-      "word": "周杰伦海口",
-      "onboard_time": 1687955135,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 278479,
       "num": 278479,
       "word": "火车上多名乘客蜷缩座套下避寒",
@@ -1811,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248860,
+      "num": 248860,
+      "word": "亚运野辅",
+      "onboard_time": 1687958259,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248437,
       "num": 248437,
       "word": "被公司领导强行撮合",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1687930834,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243844,
+      "num": 243844,
+      "word": "EDG对战UP",
+      "onboard_time": 1687957657,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 243210,
@@ -1947,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226235,
+      "num": 226235,
+      "word": "偷偷藏不住",
+      "onboard_time": 1687952193,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218999,
       "num": 218999,
       "word": "为了卖课渲染暑假很可怕太损了",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1687937136,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209283,
+      "num": 209283,
+      "word": "jiejie怎么了",
+      "onboard_time": 1687958679,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 209004,
@@ -2251,6 +2331,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 188617,
+      "num": 188617,
+      "word": "男生毕业回家带上了猫猫一家",
+      "onboard_time": 1687958742,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188110,
       "num": 188110,
       "word": "谁说悲伤不能具象化",
@@ -2409,14 +2497,6 @@
       "onboard_time": 1687943673,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157000,
-      "num": 202567,
-      "word": "男子交8名女友被发现后卡23楼报警求救",
-      "onboard_time": 1687956759,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156607,
@@ -2699,6 +2779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55205,
+      "num": 2297758,
+      "word": "8月15日成为全国生态日",
+      "onboard_time": 1687955917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53485,
       "num": 754495,
       "word": "8名警员接力背受伤女孩放学1个月",
@@ -2713,14 +2801,6 @@
       "onboard_time": 1687875707,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 46887,
-      "num": 2297758,
-      "word": "8月15日成为全国生态日",
-      "onboard_time": 1687955917,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40779,
@@ -2744,6 +2824,14 @@
       "word": "星穹铁道罗刹",
       "onboard_time": 1687892115,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 23614,
+      "num": 635926,
+      "word": "星铁新角色罗刹上线",
+      "onboard_time": 1687957236,
+      "rank": 14,
       "category": "游戏"
     },
     {
@@ -2781,6 +2869,9 @@
     },
     {
       "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    },
+    {
+      "word": "#乡村之美#"
     }
   ]
 }
