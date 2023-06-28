@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687926226170,
+  "endTime": 1687927098064,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2853241,
-      "num": 699392,
+      "num": 743235,
       "word": "向太叫林有慧媳妇儿",
       "onboard_time": 1687913379,
       "rank": 10,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1495053,
-      "num": 600893,
+      "num": 709198,
       "word": "陈建州曾在节目中亲吻Selina",
       "onboard_time": 1687921053,
       "rank": 38,
@@ -627,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1269333,
+      "num": 687247,
+      "word": "萧敬腾求婚好多地方下雨",
+      "onboard_time": 1687921355,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1256296,
       "num": 874278,
       "word": "经纪人回应张雪峰被强制送医",
       "onboard_time": 1687764528,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1232692,
+      "num": 1232692,
+      "word": "聊半年的暧昧对象突然领证了",
+      "onboard_time": 1687924776,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1222400,
@@ -747,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1081408,
-      "num": 592698,
-      "word": "萧敬腾求婚好多地方下雨",
-      "onboard_time": 1687921355,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1076239,
       "num": 1076239,
       "word": "律师称拒聘川大毕业生是明显的就业歧视",
@@ -849,6 +857,14 @@
       "onboard_time": 1687744529,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 989260,
+      "num": 619746,
+      "word": "林有慧的钻戒好大",
+      "onboard_time": 1687925497,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 987136,
@@ -1115,6 +1131,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 820466,
+      "num": 820466,
+      "word": "广州宝马撞人案二审维持死刑原判",
+      "onboard_time": 1687926521,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809845,
       "num": 809845,
       "word": "仙女棒已经进化到这种程度了吗",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1687832916,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719981,
-      "num": 581314,
-      "word": "聊半年的暧昧对象突然领证了",
-      "onboard_time": 1687924776,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 719340,
@@ -1779,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548477,
+      "num": 548477,
+      "word": "与肖战做同事belike",
+      "onboard_time": 1687924476,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 548257,
       "num": 1669270,
       "word": "女孩在3厘米珠子内反手作画",
@@ -1817,14 +1841,6 @@
       "onboard_time": 1687772207,
       "rank": 21,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 544888,
-      "num": 544888,
-      "word": "林有慧的钻戒好大",
-      "onboard_time": 1687925497,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 543476,
@@ -2027,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487438,
+      "num": 487438,
+      "word": "湾区升明月节目单",
+      "onboard_time": 1687924897,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485347,
       "num": 485347,
       "word": "张雪峰",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 477663,
-      "num": 477663,
-      "word": "与肖战做同事belike",
-      "onboard_time": 1687924476,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 471474,
@@ -2115,14 +2131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466312,
-      "num": 466312,
-      "word": "湾区升明月节目单",
-      "onboard_time": 1687924897,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 465565,
       "num": 465565,
       "word": "消失的她票房",
@@ -2136,6 +2144,14 @@
       "word": "何非爱李木子吗",
       "onboard_time": 1687759496,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 462245,
+      "num": 374966,
+      "word": "消失的她海报画着李木子就在海底",
+      "onboard_time": 1687926101,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -2203,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451631,
+      "num": 451631,
+      "word": "冉雄飞 李铁被移送至看守所",
+      "onboard_time": 1687926582,
+      "rank": 23,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 450143,
       "num": 450143,
       "word": "复读女生暴涨104分弟弟激动跃起",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1687706674,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448044,
+      "num": 448044,
+      "word": "李铁",
+      "onboard_time": 1687925921,
+      "rank": 36,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 447049,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1687912656,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426718,
+      "num": 426718,
+      "word": "陈建州在曲线救谁",
+      "onboard_time": 1687924837,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 425494,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1687866096,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 409877,
-      "num": 326900,
-      "word": "消失的她海报画着李木子就在海底",
-      "onboard_time": 1687926101,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 408896,
@@ -2707,6 +2739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374984,
+      "num": 374984,
+      "word": "陈哲远周翊然拍一部戏吧",
+      "onboard_time": 1687926340,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374684,
       "num": 374684,
       "word": "萧敬腾伴郎团会有谁",
@@ -2793,6 +2833,14 @@
       "onboard_time": 1687777482,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351123,
+      "num": 351123,
+      "word": "不能把王源当小孩了",
+      "onboard_time": 1687926521,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 350939,
@@ -2889,6 +2937,14 @@
       "onboard_time": 1687760936,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 340621,
+      "num": 340621,
+      "word": "情侣贫富差距过大怎么办",
+      "onboard_time": 1687923755,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 339675,
@@ -3219,14 +3275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 314333,
-      "num": 314333,
-      "word": "情侣贫富差距过大怎么办",
-      "onboard_time": 1687923755,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 314322,
       "num": 314322,
       "word": "说一件事证明你消费降级了",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1687738291,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312901,
+      "num": 312901,
+      "word": "段嘉许渣男脸",
+      "onboard_time": 1687926462,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 311822,
@@ -3345,6 +3401,14 @@
       "onboard_time": 1687878824,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303543,
+      "num": 303543,
+      "word": "景甜冯绍峰对视海报",
+      "onboard_time": 1687923995,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 302413,
@@ -3531,6 +3595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286536,
+      "num": 286536,
+      "word": "抢教授话筒学生高考600多分",
+      "onboard_time": 1687926040,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 285522,
       "num": 285522,
       "word": "不锈钢盲道",
@@ -3595,12 +3667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279364,
-      "num": 279364,
-      "word": "景甜冯绍峰对视海报",
-      "onboard_time": 1687923995,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 281671,
+      "num": 281671,
+      "word": "现在开始流行遛蝴蝶",
+      "onboard_time": 1687926945,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 279208,
@@ -3633,14 +3705,6 @@
       "onboard_time": 1687706197,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274840,
-      "num": 274840,
-      "word": "陈建州在曲线救谁",
-      "onboard_time": 1687924837,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 274535,
@@ -3713,6 +3777,14 @@
       "onboard_time": 1687705056,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 271155,
+      "num": 271155,
+      "word": "民警凌晨急送飞虫入耳女子就医",
+      "onboard_time": 1687926822,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271129,
@@ -4099,14 +4171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243448,
-      "num": 243448,
-      "word": "李铁",
-      "onboard_time": 1687925921,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 243143,
       "num": 444256,
       "word": "妈妈将女儿衣服亮片全缝上防掉落",
@@ -4393,14 +4457,6 @@
       "onboard_time": 1687836697,
       "rank": 41,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 222894,
-      "num": 222894,
-      "word": "抢教授话筒学生高考600多分",
-      "onboard_time": 1687926040,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 222083,
@@ -4793,6 +4849,14 @@
       "onboard_time": 1687741471,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200010,
+      "num": 200010,
+      "word": "北京大学QS排名第17",
+      "onboard_time": 1687926340,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 199882,
@@ -5939,7 +6003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83365,
+      "raw_hot": 84384,
       "num": 1546416,
       "word": "成都大运会倒计时1个月",
       "onboard_time": 1687922674,
