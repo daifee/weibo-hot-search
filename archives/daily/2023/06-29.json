@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1687991772348,
+  "endTime": 1687994384744,
   "band_list": [
     {
       "raw_hot": 2773148,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1248364,
+      "num": 1248364,
+      "word": "LV老板带着儿女北京巡店",
+      "onboard_time": 1687962944,
+      "rank": 5,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 1049634,
       "num": 1049634,
       "word": "蔡徐坤巡演将如期举行",
@@ -41,14 +49,6 @@
       "onboard_time": 1687960963,
       "rank": 1,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 897066,
-      "num": 897066,
-      "word": "LV老板带着儿女北京巡店",
-      "onboard_time": 1687962944,
-      "rank": 5,
-      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 812106,
@@ -105,6 +105,14 @@
       "onboard_time": 1687967315,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 551272,
+      "num": 217041,
+      "word": "妻子苦等丈夫回家熬到凌晨哭着报警",
+      "onboard_time": 1687972699,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551083,
@@ -171,8 +179,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 449350,
-      "num": 406221,
+      "raw_hot": 470671,
+      "num": 470671,
+      "word": "私拆女儿档案的母亲道歉",
+      "onboard_time": 1687993343,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454521,
+      "num": 454521,
       "word": "李沁工作室疑似因造型问题删博",
       "onboard_time": 1687953632,
       "rank": 21,
@@ -217,14 +233,6 @@
       "onboard_time": 1687964620,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 334917,
-      "num": 148088,
-      "word": "妻子苦等丈夫回家熬到凌晨哭着报警",
-      "onboard_time": 1687972699,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323168,
@@ -315,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244988,
+      "num": 244988,
+      "word": "Angelababy脸在江山在",
+      "onboard_time": 1687957836,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240944,
       "num": 240944,
       "word": "女司机驾奔驰来回撞击他人",
@@ -339,12 +355,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226843,
-      "num": 226843,
-      "word": "Angelababy脸在江山在",
-      "onboard_time": 1687957836,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 228441,
+      "num": 208989,
+      "word": "第一次见脸这么圆的大熊猫",
+      "onboard_time": 1687969351,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216333,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191075,
+      "num": 191075,
+      "word": "山东人种菜已经进化到这种程度了吗",
+      "onboard_time": 1687989795,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187440,
       "num": 187440,
       "word": "当她们的妈妈应该很累",
@@ -393,14 +417,6 @@
       "onboard_time": 1687949494,
       "rank": 48,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 176467,
-      "num": 197122,
-      "word": "第一次见脸这么圆的大熊猫",
-      "onboard_time": 1687969351,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171437,
@@ -419,43 +435,43 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 114542,
-      "num": 102922,
+      "raw_hot": 127641,
+      "num": 127641,
+      "word": "反向引蚊的驱蚊产品",
+      "onboard_time": 1687993343,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122241,
+      "num": 121104,
       "word": "GQ红毯谁赢了",
       "onboard_time": 1687959579,
       "rank": 42,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92241,
-      "num": 101002,
+      "raw_hot": 120259,
+      "num": 120259,
       "word": "民警街头围捕毒贩把路人看呆了",
       "onboard_time": 1687971982,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83506,
-      "num": 83506,
-      "word": "山东人种菜已经进化到这种程度了吗",
-      "onboard_time": 1687989795,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59126,
-      "num": 59126,
-      "word": "78级物理专业高考生的报考建议",
-      "onboard_time": 1687975516,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 57028,
-      "num": 57028,
+      "raw_hot": 115978,
+      "num": 115978,
       "word": "表妹考了620分被舅妈骂一下午",
       "onboard_time": 1687931379,
       "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 91383,
+      "num": 91383,
+      "word": "78级物理专业高考生的报考建议",
+      "onboard_time": 1687975516,
+      "rank": 47,
       "category": "教育,社会新闻"
     },
     {
@@ -483,7 +499,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26260,
+      "raw_hot": 32037,
       "num": 859657,
       "word": "成都大运会边看边玩攻略",
       "onboard_time": 1687955740,
