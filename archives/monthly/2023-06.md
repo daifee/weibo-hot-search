@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 15:34:46
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 16:24:40
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ Uzi EDG（热度：5078213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E6%88%91%E7%A6%BB%E8%A2%AB%E4%BA%BA%E6%90%9E%E4%B8%8D%E8%BF%9C%E4%BA%86%23" target="weibo">
 张雪峰 我离被人搞不远了（热度：4066523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+范玮琪终于出现了（热度：4057131）
 </a>
 </li>
 
@@ -3207,6 +3213,12 @@ Apple Vision Pro 苹果首款头显（热度：1638983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C%23" target="weibo">
+蔡徐坤巡演将如期举行（热度：1613576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
 成都七中一学生被开除（热度：1613516）
 </a>
@@ -5001,6 +5013,12 @@ Angelababy回归 跑男收视率（热度：1255756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
+鹿晗的提词器（热度：1249957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B0%E4%BA%A6%E5%84%92%E6%9B%BE%E4%B9%8B%E4%B9%94%E5%A5%BD%E5%A5%BD%E5%97%91%23" target="weibo">
 辰亦儒曾之乔好好嗑（热度：1249229）
 </a>
@@ -5993,24 +6011,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E6%9C%80%E5%90%8E%E4%B8%80%E6%9C%9F%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23" target="weibo">
 跑男最后一期录制阵容（热度：1100348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%97%AE%E8%80%81%E5%A9%86%E5%8F%98%E6%88%90%E6%96%87%E5%92%8F%E7%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
-网友问老婆变成文咏珊为什么要报警（热度：1100137）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A5%B3%E5%AD%90%E5%85%BB%E4%BB%93%E9%BC%A0%E8%84%B8%E7%83%82%E6%88%90%E7%81%AB%E9%BE%99%E6%9E%9C%23" target="weibo">
-杭州女子养仓鼠脸烂成火龙果（热度：1097942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-嵩山音乐节（热度：1097871）
 </a>
 </li>
 

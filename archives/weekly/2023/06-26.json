@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687937686848,
+  "endTime": 1687940680307,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -41,6 +41,14 @@
       "onboard_time": 1687875586,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4057131,
+      "num": 586776,
+      "word": "范玮琪终于出现了",
+      "onboard_time": 1687937916,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3588933,
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1613576,
+      "num": 1613576,
+      "word": "蔡徐坤巡演将如期举行",
+      "onboard_time": 1687939717,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1564820,
       "num": 1564820,
       "word": "高考377分复读一年逆袭677分",
@@ -697,6 +713,14 @@
       "onboard_time": 1687764528,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1249957,
+      "num": 1249957,
+      "word": "鹿晗的提词器",
+      "onboard_time": 1687935816,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1222400,
@@ -939,14 +963,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 974611,
-      "num": 974611,
-      "word": "鹿晗的提词器",
-      "onboard_time": 1687935816,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 971569,
       "num": 971569,
       "word": "四川26岁女孩下网约车后失联",
@@ -1056,6 +1072,14 @@
       "word": "青岛旅游失联25岁女孩已身亡",
       "onboard_time": 1687820422,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 922519,
+      "num": 922519,
+      "word": "警方回应女子称被民警强奸",
+      "onboard_time": 1687937021,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 790466,
+      "num": 330088,
+      "word": "为什么身上会突然多了很多痣",
+      "onboard_time": 1687939057,
+      "rank": 21,
+      "category": "其它"
+    },
+    {
       "raw_hot": 786583,
       "num": 415072,
       "word": "黄圣依疑怀3胎",
@@ -1259,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772223,
+      "num": 772223,
+      "word": "陈思诚叫朱一龙老公的反应",
+      "onboard_time": 1687935874,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 766574,
       "num": 766574,
       "word": "高铁调座椅弄撒了后座的泡面",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1687879784,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756394,
+      "num": 756394,
+      "word": "韩国医生都不喝的韩式烧酒",
+      "onboard_time": 1687937195,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 753833,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1687832916,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 721123,
-      "num": 721123,
-      "word": "陈思诚叫朱一龙老公的反应",
-      "onboard_time": 1687935874,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 719340,
@@ -1819,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570745,
+      "num": 570745,
+      "word": "咒术回战",
+      "onboard_time": 1687938873,
+      "rank": 12,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 570024,
       "num": 570024,
       "word": "Shein已秘密交表到美国上市",
@@ -2211,6 +2259,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 485257,
+      "num": 485257,
+      "word": "透明侠侣撤档",
+      "onboard_time": 1687936653,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483647,
       "num": 483647,
       "word": "普京称全天候控制特别军事行动进程",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1687778864,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467083,
+      "num": 467083,
+      "word": "肖战抵达香港",
+      "onboard_time": 1687940075,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 466901,
@@ -2625,6 +2689,14 @@
       "onboard_time": 1687757349,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416266,
+      "num": 328804,
+      "word": "瞒着父母偷偷买了一套房子",
+      "onboard_time": 1687939536,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 415547,
@@ -3075,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346441,
-      "num": 346441,
-      "word": "警方回应女子称被民警强奸",
-      "onboard_time": 1687937021,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346062,
       "num": 346062,
       "word": "BKPP音乐节",
@@ -3419,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321425,
+      "num": 321425,
+      "word": "因为催导师打分结果被删了",
+      "onboard_time": 1687938336,
+      "rank": 24,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 321064,
       "num": 321064,
       "word": "NewJeans全员金发",
@@ -3513,6 +3585,14 @@
       "onboard_time": 1687760216,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 314344,
+      "num": 314344,
+      "word": "00后小伙把网红蛙带到了川西",
+      "onboard_time": 1687939294,
+      "rank": 25,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 314322,
@@ -4699,14 +4779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229295,
-      "num": 229295,
-      "word": "透明侠侣撤档",
-      "onboard_time": 1687936653,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229000,
       "num": 229000,
       "word": "老板不想上班带我们去海边",
@@ -4907,6 +4979,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 217995,
+      "num": 217995,
+      "word": "第一次见这么复杂的朋友圈分组",
+      "onboard_time": 1687938994,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217986,
       "num": 217986,
       "word": "我的人间烟火",
@@ -5003,14 +5083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212254,
-      "num": 212254,
-      "word": "韩国医生都不喝的韩式烧酒",
-      "onboard_time": 1687937195,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 212128,
       "num": 212128,
       "word": "胡锡进首日炒股心得",
@@ -5097,6 +5169,14 @@
       "onboard_time": 1687937136,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209859,
+      "num": 209859,
+      "word": "FIFTYFIFTY解约",
+      "onboard_time": 1687938515,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 209123,
@@ -5227,11 +5307,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202184,
+      "num": 202184,
+      "word": "陈妍希颖儿带娃逛迪士尼",
+      "onboard_time": 1687940558,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201912,
       "num": 201912,
       "word": "石头赶路",
       "onboard_time": 1687868437,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201736,
+      "num": 201736,
+      "word": "KPL",
+      "onboard_time": 1687940255,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -5505,6 +5601,14 @@
       "onboard_time": 1687794219,
       "rank": 42,
       "category": "自然"
+    },
+    {
+      "raw_hot": 186943,
+      "num": 186943,
+      "word": "咖啡乱战引发奶茶圈加入混战",
+      "onboard_time": 1687937796,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 186850,
@@ -6107,6 +6211,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 138574,
+      "num": 253521,
+      "word": "空中视角看青海湖八年之变",
+      "onboard_time": 1687939832,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 137983,
       "num": 137983,
       "word": "臭气麦克风采访",
@@ -6523,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72129,
+      "num": 200437,
+      "word": "菜鸟官宣自营快递菜鸟速递",
+      "onboard_time": 1687939235,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72052,
       "num": 72052,
       "word": "孟子义特别好的男生朋友没王鹤棣",
@@ -6643,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40173,
+      "num": 1103213,
+      "word": "穿越中国新基建",
+      "onboard_time": 1687922554,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38496,
       "num": 532620,
       "word": "交警火场中背起比自己重40斤的伤员",
@@ -6721,14 +6849,6 @@
       "onboard_time": 1687771670,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 21879,
-      "num": 965978,
-      "word": "穿越中国新基建",
-      "onboard_time": 1687922554,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20294,
