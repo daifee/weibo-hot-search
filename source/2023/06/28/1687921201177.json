@@ -1,0 +1,410 @@
+{
+  "runTime": 1687921201177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716630,
+        "num": 1716630,
+        "word": "喜茶奈雪为何又不香了",
+        "onboard_time": 1687913618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564820,
+        "num": 1564820,
+        "word": "高考377分复读一年逆袭677分",
+        "onboard_time": 1687911095,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 9799,
+        "num": 1519207,
+        "word": "达沃斯在天津",
+        "onboard_time": 1687851157,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1511985,
+        "num": 1511985,
+        "word": "人民日报评相关企业拒聘川大学生",
+        "onboard_time": 1687916735,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1489164,
+        "num": 1489164,
+        "word": "韩综用国歌做BGM",
+        "onboard_time": 1687918474,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934195,
+        "num": 934195,
+        "word": "同事怀孕后一直请假我离职了",
+        "onboard_time": 1687911338,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 919024,
+        "num": 919024,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849971,
+        "num": 849971,
+        "word": "和对象一起入职当天被辞退了",
+        "onboard_time": 1687918296,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 753164,
+        "num": 753164,
+        "word": "拍CT之前记得上个厕所",
+        "onboard_time": 1687916674,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 733935,
+        "num": 733935,
+        "word": "消失的她李木子视角",
+        "onboard_time": 1687917517,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2089517,
+        "num": 699392,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591841,
+        "num": 591841,
+        "word": "黄子韬说挺想宋亚轩的",
+        "onboard_time": 1687919135,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541679,
+        "num": 541679,
+        "word": "肖战扎了小辫儿",
+        "onboard_time": 1687919135,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 535940,
+        "num": 535940,
+        "word": "吴京主持首秀",
+        "onboard_time": 1687920453,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517504,
+        "num": 517504,
+        "word": "六公主拍的Angelababy",
+        "onboard_time": 1687907784,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511386,
+        "num": 511386,
+        "word": "鹿晗同款卤煮店2小时卖出1200份",
+        "onboard_time": 1687908929,
+        "rank": 15,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 472324,
+        "num": 472324,
+        "word": "A股",
+        "onboard_time": 1687918592,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 461182,
+        "num": 461182,
+        "word": "迪士尼门票近800一张合理吗",
+        "onboard_time": 1687912837,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 446346,
+        "num": 446346,
+        "word": "网传香港回归周年晚会有肖战王一博",
+        "onboard_time": 1687917456,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421237,
+        "num": 421237,
+        "word": "狗妈妈疯狂作揖祈求主人救去世幼崽",
+        "onboard_time": 1687919678,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1539524,
+        "num": 421136,
+        "word": "曝长沙一酒店沐浴露疑被灌精液",
+        "onboard_time": 1687914997,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927288,
+        "num": 410026,
+        "word": "肖战机场",
+        "onboard_time": 1687915416,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887396,
+        "num": 407703,
+        "word": "婆婆把我喂奶视频发到群里",
+        "onboard_time": 1687911095,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394316,
+        "num": 394316,
+        "word": "消失的她又双叒票房逆跌了",
+        "onboard_time": 1687877324,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442500,
+        "num": 389155,
+        "word": "虞书欣也没有脚脖子",
+        "onboard_time": 1687907724,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381469,
+        "num": 381469,
+        "word": "赵樱子和孟子义娜扎都合体过了",
+        "onboard_time": 1687914338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380903,
+        "num": 380903,
+        "word": "成年人最受不了的聊天方式",
+        "onboard_time": 1687915719,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345763,
+        "num": 345763,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1687919555,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343343,
+        "num": 343343,
+        "word": "仙剑3法器是用婚戒做的",
+        "onboard_time": 1687913018,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209637,
+        "num": 342905,
+        "word": "千万不要随意私拆学生档案",
+        "onboard_time": 1687882232,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 342680,
+        "num": 342680,
+        "word": "周杰伦昆凌见证萧敬腾求婚现场",
+        "onboard_time": 1687876307,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341898,
+        "num": 341898,
+        "word": "段嘉许vs张陆让",
+        "onboard_time": 1687916317,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294380,
+        "num": 312245,
+        "word": "现在的高考喜报这么隐晦吗",
+        "onboard_time": 1687918716,
+        "rank": 32,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 305170,
+        "num": 305170,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300875,
+        "num": 300875,
+        "word": "快递员恋女客户疑其出轨持刀入室",
+        "onboard_time": 1687919913,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290831,
+        "num": 290831,
+        "word": "西湖橘子海日出好治愈",
+        "onboard_time": 1687920155,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 275441,
+        "num": 275441,
+        "word": "双休和月休八天有什么区别",
+        "onboard_time": 1687920574,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269816,
+        "num": 269816,
+        "word": "任敏王源双人海报",
+        "onboard_time": 1687920995,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268973,
+        "num": 268973,
+        "word": "陈建州曾在节目中亲吻Selina",
+        "onboard_time": 1687921053,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261801,
+        "num": 261801,
+        "word": "每天下午三点下班你愿意单休吗",
+        "onboard_time": 1687913259,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 232992,
+        "num": 232992,
+        "word": "被公司领导强行撮合",
+        "onboard_time": 1687917937,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218938,
+        "num": 218938,
+        "word": "张雪峰衡水中学专场讲座视频",
+        "onboard_time": 1687912779,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 217777,
+        "num": 217777,
+        "word": "范玮琪对陈建州偷吃的态度",
+        "onboard_time": 1687855238,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209004,
+        "num": 209004,
+        "word": "赵露思陈哲远十场吻戏",
+        "onboard_time": 1687918115,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185784,
+        "num": 185784,
+        "word": "双胞胎高考哥哥703弟弟730",
+        "onboard_time": 1687914518,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183846,
+        "num": 183846,
+        "word": "浙大毕业生穿马面裙学士服跳舞",
+        "onboard_time": 1687920814,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181332,
+        "num": 181332,
+        "word": "马丽41岁生日写真",
+        "onboard_time": 1687919074,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179940,
+        "num": 179940,
+        "word": "陈哲远21岁vs27岁",
+        "onboard_time": 1687908085,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 176913,
+        "num": 176913,
+        "word": "萧敬腾下个雨庆祝一下吧",
+        "onboard_time": 1687870301,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171834,
+        "num": 171834,
+        "word": "2024QS世界大学排名",
+        "onboard_time": 1687908444,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴巴多斯总理#"
+    }
+  }
+}
