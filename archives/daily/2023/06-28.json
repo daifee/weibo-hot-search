@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687956025470,
+  "endTime": 1687957136809,
   "band_list": [
     {
       "raw_hot": 4075577,
@@ -99,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2430059,
+      "num": 2430059,
+      "word": "Angelababy金发芭比",
+      "onboard_time": 1687954893,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2411009,
+      "num": 2297364,
+      "word": "被丈夫多次碾压致死女子弟弟发声",
+      "onboard_time": 1687953452,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2393821,
       "num": 2172006,
       "word": "张雪峰建议不好好学习带孩子到四个地方",
@@ -115,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2212341,
-      "num": 1474077,
+      "raw_hot": 2286556,
+      "num": 2286556,
       "word": "李沁工作室疑似因造型问题删博",
       "onboard_time": 1687953632,
       "rank": 3,
@@ -128,14 +144,6 @@
       "word": "江西航空",
       "onboard_time": 1687881220,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2103391,
-      "num": 1450944,
-      "word": "被丈夫多次碾压致死女子弟弟发声",
-      "onboard_time": 1687953452,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1760561,
+      "num": 994410,
+      "word": "何超莲娃从天上来",
+      "onboard_time": 1687953332,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1745124,
       "num": 1745124,
       "word": "韩综用国歌做BGM",
@@ -225,14 +241,6 @@
       "onboard_time": 1687952981,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1613389,
-      "num": 665113,
-      "word": "何超莲娃从天上来",
-      "onboard_time": 1687953332,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1564820,
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1260531,
+      "num": 1260531,
+      "word": "陈都灵蓝发人鱼姬",
+      "onboard_time": 1687954773,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1249957,
       "num": 1249957,
       "word": "鹿晗的提词器",
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154288,
+      "num": 1154288,
+      "word": "四川考生王俊凯高考699分",
+      "onboard_time": 1687953873,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147028,
       "num": 1147028,
       "word": "人狗合一",
@@ -419,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1071122,
+      "num": 1071122,
+      "word": "28个月男童误入电梯坠楼身亡",
+      "onboard_time": 1687954718,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021043,
       "num": 500579,
       "word": "婆婆把我喂奶视频发到群里",
       "onboard_time": 1687911095,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1011544,
-      "num": 1011544,
-      "word": "四川考生王俊凯高考699分",
-      "onboard_time": 1687953873,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004451,
@@ -459,20 +483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 954770,
-      "num": 954770,
-      "word": "Angelababy金发芭比",
-      "onboard_time": 1687954893,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 941983,
       "num": 941983,
       "word": "肖战加盟2023湾区升明月",
       "onboard_time": 1687922615,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 915840,
+      "num": 915840,
+      "word": "杨幂在酷暑张艺兴在寒冬",
+      "onboard_time": 1687955855,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 904880,
@@ -592,14 +616,6 @@
       "word": "男子13岁得糖尿病27岁进ICU",
       "onboard_time": 1687879784,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757615,
-      "num": 648748,
-      "word": "28个月男童误入电梯坠楼身亡",
-      "onboard_time": 1687954718,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -747,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641851,
+      "num": 324073,
+      "word": "Victoria还是这么美",
+      "onboard_time": 1687956518,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 636695,
+      "num": 353922,
+      "word": "张艺兴 我不热",
+      "onboard_time": 1687955199,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 630999,
       "num": 606097,
       "word": "消失的她海报画着李木子就在海底",
@@ -761,6 +793,14 @@
       "onboard_time": 1687940854,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 599369,
+      "num": 322309,
+      "word": "女生试衣遭陌生男性拉帘暴露下身",
+      "onboard_time": 1687955855,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598550,
@@ -811,14 +851,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 585759,
-      "num": 530021,
-      "word": "杨幂在酷暑张艺兴在寒冬",
-      "onboard_time": 1687955855,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 571320,
       "num": 370133,
       "word": "女生毕业删除90%同学被骂有病",
@@ -857,14 +889,6 @@
       "onboard_time": 1687934195,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 561160,
-      "num": 472607,
-      "word": "陈都灵蓝发人鱼姬",
-      "onboard_time": 1687954773,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 557639,
@@ -1147,12 +1171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 416328,
-      "num": 353922,
-      "word": "张艺兴 我不热",
-      "onboard_time": 1687955199,
-      "rank": 26,
-      "category": "作品衍生,时尚"
+      "raw_hot": 413290,
+      "num": 344292,
+      "word": "ZLR 我女朋友",
+      "onboard_time": 1687952253,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 407302,
@@ -1187,6 +1211,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 385510,
+      "num": 321263,
+      "word": "清潭国际高中",
+      "onboard_time": 1687955378,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385178,
       "num": 385178,
       "word": "易梦玲回应加沈月微信",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1687884088,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 373171,
-      "num": 344292,
-      "word": "ZLR 我女朋友",
-      "onboard_time": 1687952253,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 370598,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327308,
+      "num": 327308,
+      "word": "中国女排1比3塞尔维亚",
+      "onboard_time": 1687954414,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326587,
       "num": 304622,
       "word": "面部留白多学赵露思变美思路",
@@ -1387,28 +1419,12 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 321263,
-      "num": 321263,
-      "word": "清潭国际高中",
-      "onboard_time": 1687955378,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319670,
       "num": 340105,
       "word": "浙大毕业生穿马面裙学士服跳舞",
       "onboard_time": 1687920814,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 318430,
-      "num": 318430,
-      "word": "中国女排1比3塞尔维亚",
-      "onboard_time": 1687954414,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 317413,
@@ -1667,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280987,
+      "num": 260491,
+      "word": "周杰伦海口",
+      "onboard_time": 1687955135,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 278479,
       "num": 278479,
       "word": "火车上多名乘客蜷缩座套下避寒",
@@ -1875,14 +1899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230383,
-      "num": 230383,
-      "word": "周杰伦海口",
-      "onboard_time": 1687955135,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 230009,
       "num": 230009,
       "word": "单亲妈妈打工14年供出3名大学生",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1687882055,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213356,
+      "num": 213356,
+      "word": "曾敬骅你怎么在上海",
+      "onboard_time": 1687957117,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213178,
@@ -2299,14 +2323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182292,
-      "num": 182292,
-      "word": "女生试衣遭陌生男性拉帘暴露下身",
-      "onboard_time": 1687955855,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182076,
       "num": 182076,
       "word": "82版西游记主创挂念的苏州演员找到了",
@@ -2395,6 +2411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157000,
+      "num": 202567,
+      "word": "男子交8名女友被发现后卡23楼报警求救",
+      "onboard_time": 1687956759,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156607,
       "num": 156607,
       "word": "4岁男童沉迷看医院手术视频",
@@ -2451,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141738,
+      "num": 199560,
+      "word": "颜色与温度间的关系",
+      "onboard_time": 1687956874,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139762,
       "num": 139762,
       "word": "女子找工作政审发现自己被坐过牢",
@@ -2483,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136324,
+      "num": 198032,
+      "word": "这样对待贫困生合适吗",
+      "onboard_time": 1687956458,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "你知道自己的档案在哪吗",
@@ -2497,6 +2537,14 @@
       "onboard_time": 1687884269,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128237,
+      "num": 196573,
+      "word": "青春许愿季",
+      "onboard_time": 1687957117,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 120434,
@@ -2667,6 +2715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46887,
+      "num": 2297758,
+      "word": "8月15日成为全国生态日",
+      "onboard_time": 1687955917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40779,
       "num": 1223093,
       "word": "穿越中国新基建",
@@ -2704,14 +2760,6 @@
       "word": "成都大运会边看边玩攻略",
       "onboard_time": 1687955740,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8675,
-      "num": 1500505,
-      "word": "8月15日成为全国生态日",
-      "onboard_time": 1687955917,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

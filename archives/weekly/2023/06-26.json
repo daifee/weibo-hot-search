@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687956025470,
+  "endTime": 1687957136809,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -219,11 +219,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2430059,
+      "num": 2430059,
+      "word": "Angelababy金发芭比",
+      "onboard_time": 1687954893,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2427374,
       "num": 2365778,
       "word": "健身教练吸毒一个多月暴瘦70斤",
       "onboard_time": 1687785884,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2411009,
+      "num": 2297364,
+      "word": "被丈夫多次碾压致死女子弟弟发声",
+      "onboard_time": 1687953452,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2286556,
+      "num": 2286556,
+      "word": "李沁工作室疑似因造型问题删博",
+      "onboard_time": 1687953632,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2286332,
       "num": 2286332,
       "word": "每小时100块你愿意加班吗",
@@ -283,14 +307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2212341,
-      "num": 1474077,
-      "word": "李沁工作室疑似因造型问题删博",
-      "onboard_time": 1687953632,
-      "rank": 3,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 2211752,
       "num": 2211752,
       "word": "原来中医不让吃水果是真的",
@@ -312,14 +328,6 @@
       "word": "江西航空",
       "onboard_time": 1687881220,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2103391,
-      "num": 1450944,
-      "word": "被丈夫多次碾压致死女子弟弟发声",
-      "onboard_time": 1687953452,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1760561,
+      "num": 994410,
+      "word": "何超莲娃从天上来",
+      "onboard_time": 1687953332,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1755372,
       "num": 1755372,
       "word": "齐思钧 身体一直没有彻底康复",
@@ -609,14 +625,6 @@
       "onboard_time": 1687952981,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1613389,
-      "num": 665113,
-      "word": "何超莲娃从天上来",
-      "onboard_time": 1687953332,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1564820,
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1260531,
+      "num": 1260531,
+      "word": "陈都灵蓝发人鱼姬",
+      "onboard_time": 1687954773,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1256296,
       "num": 874278,
       "word": "经纪人回应张雪峰被强制送医",
@@ -857,6 +873,14 @@
       "onboard_time": 1687848637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1154288,
+      "num": 1154288,
+      "word": "四川考生王俊凯高考699分",
+      "onboard_time": 1687953873,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1149629,
@@ -1003,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1071122,
+      "num": 1071122,
+      "word": "28个月男童误入电梯坠楼身亡",
+      "onboard_time": 1687954718,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1057519,
       "num": 1057519,
       "word": "泰国孕妇坠崖案当事人谈电影消失的她",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1687865620,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1011544,
-      "num": 1011544,
-      "word": "四川考生王俊凯高考699分",
-      "onboard_time": 1687953873,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1009469,
@@ -1139,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 954770,
-      "num": 954770,
-      "word": "Angelababy金发芭比",
-      "onboard_time": 1687954893,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 951903,
       "num": 951903,
       "word": "四川26岁失联女子遗体被找到",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1687820422,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915840,
+      "num": 915840,
+      "word": "杨幂在酷暑张艺兴在寒冬",
+      "onboard_time": 1687955855,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 912946,
@@ -1520,14 +1544,6 @@
       "word": "男子13岁得糖尿病27岁进ICU",
       "onboard_time": 1687879784,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757615,
-      "num": 648748,
-      "word": "28个月男童误入电梯坠楼身亡",
-      "onboard_time": 1687954718,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641851,
+      "num": 324073,
+      "word": "Victoria还是这么美",
+      "onboard_time": 1687956518,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 636695,
+      "num": 353922,
+      "word": "张艺兴 我不热",
+      "onboard_time": 1687955199,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 636606,
       "num": 636606,
       "word": "clid被爆聊天性骚扰",
@@ -2027,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599369,
+      "num": 322309,
+      "word": "女生试衣遭陌生男性拉帘暴露下身",
+      "onboard_time": 1687955855,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598550,
       "num": 558568,
       "word": "快递员恋女客户疑其出轨持刀入室",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1687741172,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 585759,
-      "num": 530021,
-      "word": "杨幂在酷暑张艺兴在寒冬",
-      "onboard_time": 1687955855,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 581067,
@@ -2201,14 +2233,6 @@
       "onboard_time": 1687831835,
       "rank": 29,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 561160,
-      "num": 472607,
-      "word": "陈都灵蓝发人鱼姬",
-      "onboard_time": 1687954773,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 559488,
@@ -3027,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 416328,
-      "num": 353922,
-      "word": "张艺兴 我不热",
-      "onboard_time": 1687955199,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 415547,
       "num": 415547,
       "word": "TES阵容",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1687696352,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413290,
+      "num": 344292,
+      "word": "ZLR 我女朋友",
+      "onboard_time": 1687952253,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 412282,
@@ -3227,6 +3251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 385510,
+      "num": 321263,
+      "word": "清潭国际高中",
+      "onboard_time": 1687955378,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385178,
       "num": 385178,
       "word": "易梦玲回应加沈月微信",
@@ -3377,14 +3409,6 @@
       "onboard_time": 1687762071,
       "rank": 21,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 373171,
-      "num": 344292,
-      "word": "ZLR 我女朋友",
-      "onboard_time": 1687952253,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 372804,
@@ -3763,6 +3787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327308,
+      "num": 327308,
+      "word": "中国女排1比3塞尔维亚",
+      "onboard_time": 1687954414,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327144,
       "num": 327144,
       "word": "最近广东人的大拇指都是黑的",
@@ -3875,14 +3907,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 321263,
-      "num": 321263,
-      "word": "清潭国际高中",
-      "onboard_time": 1687955378,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321064,
       "num": 321064,
       "word": "NewJeans全员金发",
@@ -3937,14 +3961,6 @@
       "onboard_time": 1687701277,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 318430,
-      "num": 318430,
-      "word": "中国女排1比3塞尔维亚",
-      "onboard_time": 1687954414,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 317810,
@@ -4505,6 +4521,14 @@
       "onboard_time": 1687926945,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280987,
+      "num": 260491,
+      "word": "周杰伦海口",
+      "onboard_time": 1687955135,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 279208,
@@ -5275,14 +5299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230383,
-      "num": 230383,
-      "word": "周杰伦海口",
-      "onboard_time": 1687955135,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 230201,
       "num": 230201,
       "word": "蓝朋友休假顺便制服一只豚尾猴",
@@ -5585,6 +5601,14 @@
       "onboard_time": 1687786006,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213356,
+      "num": 213356,
+      "word": "曾敬骅你怎么在上海",
+      "onboard_time": 1687957117,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213178,
@@ -6307,14 +6331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182292,
-      "num": 182292,
-      "word": "女生试衣遭陌生男性拉帘暴露下身",
-      "onboard_time": 1687955855,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182236,
       "num": 182236,
       "word": "张雪峰式报志愿的缺陷在哪",
@@ -6707,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157000,
+      "num": 202567,
+      "word": "男子交8名女友被发现后卡23楼报警求救",
+      "onboard_time": 1687956759,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156601,
       "num": 156601,
       "word": "蔡徐坤泰国演唱会",
@@ -6859,6 +6883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141738,
+      "num": 199560,
+      "word": "颜色与温度间的关系",
+      "onboard_time": 1687956874,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140582,
       "num": 168672,
       "word": "河南中考",
@@ -6923,6 +6955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136324,
+      "num": 198032,
+      "word": "这样对待贫困生合适吗",
+      "onboard_time": 1687956458,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "你知道自己的档案在哪吗",
@@ -6977,6 +7017,14 @@
       "onboard_time": 1687802898,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128237,
+      "num": 196573,
+      "word": "青春许愿季",
+      "onboard_time": 1687957117,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 127668,
@@ -7435,6 +7483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46887,
+      "num": 2297758,
+      "word": "8月15日成为全国生态日",
+      "onboard_time": 1687955917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45760,
       "num": 59767,
       "word": "iG战胜LNG",
@@ -7591,14 +7647,6 @@
       "num": 1326587,
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8675,
-      "num": 1500505,
-      "word": "8月15日成为全国生态日",
-      "onboard_time": 1687955917,
       "rank": 2,
       "category": "社会新闻"
     }
