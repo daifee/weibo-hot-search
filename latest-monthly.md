@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 14:39:31
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 15:18:12
 </p>
 </blockquote>
 <p>
@@ -777,6 +777,12 @@ Uzi EDG（热度：5078213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23" target="weibo">
+陈建州起诉大牙（热度：2832850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E5%B0%86%E4%BA%B2%E5%A6%88%E9%AA%A8%E7%81%B0%E6%89%94%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%23" target="weibo">
 粉丝将亲妈骨灰扔上演唱会舞台（热度：2830057）
 </a>
@@ -1301,6 +1307,12 @@ TF三代吵架（热度：2575314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%A7%B0%E9%BB%84%E5%AD%90%E4%BD%BC%E6%97%A0%E6%B3%95%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
 医护人员称黄子佼无法开口说话（热度：2389223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%85%B7%E5%BA%97%E5%A4%84%E5%A5%B3%E8%AF%81%23" target="weibo">
+文具店处女证（热度：2382491）
 </a>
 </li>
 
@@ -2217,6 +2229,12 @@ Jennie道歉评论区（热度：1965915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23" target="weibo">
+普京曾有意杀死普里戈任（热度：1942925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8960%E5%A4%9A%E6%96%A4%23" target="weibo">
 25岁女孩体重只有60多斤（热度：1940082）
 </a>
@@ -2477,12 +2495,6 @@ lofter（热度：1890120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CiG%23" target="weibo">
 EDG战胜iG（热度：1851482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9B%BE%E6%9C%89%E6%84%8F%E6%9D%80%E6%AD%BB%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%23" target="weibo">
-普京曾有意杀死普里戈任（热度：1845605）
 </a>
 </li>
 
@@ -3759,12 +3771,6 @@ House脱口秀演出剧院被罚10万（热度：1531824）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%85%B7%E5%BA%97%E5%A4%84%E5%A5%B3%E8%AF%81%23" target="weibo">
-文具店处女证（热度：1475367）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E5%A4%8D%E5%87%BA%E9%A6%96%E8%83%9C%23" target="weibo">
 Uzi复出首胜（热度：1475115）
 </a>
@@ -4253,6 +4259,12 @@ Jennie是前一天爬山太累了吗（热度：1402398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E7%8E%8B%E5%B2%B3%E4%BC%A6%E5%B8%A6%E7%8E%8B%E8%AF%97%E9%BE%84%E9%80%9B%E8%A1%97%23" target="weibo">
 李湘王岳伦带王诗龄逛街（热度：1375823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
+B站崩了（热度：1374173）
 </a>
 </li>
 
@@ -5889,6 +5901,12 @@ Jennie身体状况（热度：1130129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E8%80%83%E4%BA%86620%E5%88%86%E8%A2%AB%E8%88%85%E5%A6%88%E9%AA%82%E4%B8%80%E4%B8%8B%E5%8D%88%23" target="weibo">
+表妹考了620分被舅妈骂一下午（热度：1105647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%8F%AF%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%8F%A6%E4%B8%80%E5%8D%8A%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%23" target="weibo">
 胡可说不要把另一半当自己人（热度：1105584）
 </a>
@@ -5993,24 +6011,6 @@ Jennie身体状况（热度：1130129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B5%A9%E5%B1%B1%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 嵩山音乐节（热度：1097871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%8F%91%E9%80%9A%E7%9F%A5%E5%81%9C%E8%81%98%E5%B7%9D%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%23" target="weibo">
-公司回应发通知停聘川大毕业生（热度：1097598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%AA%E7%9D%80%E4%BA%B2%23" target="weibo">
-横着亲（热度：1097181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%9A%E6%88%90%20%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E6%95%88%E4%BB%BF%E6%88%91%E7%9A%84%E9%94%99%E8%AF%AF%E8%A1%8C%E4%B8%BA%23" target="weibo">
-郑业成 希望大家不要效仿我的错误行为（热度：1096182）
 </a>
 </li>
 
