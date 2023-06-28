@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687940680307,
+  "endTime": 1687941499908,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 4057131,
-      "num": 586776,
+      "num": 595998,
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
@@ -993,6 +993,14 @@
       "onboard_time": 1687935335,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2856477,
+      "num": 2856477,
+      "word": "蔡徐坤巡演将如期举行",
+      "onboard_time": 1687939717,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2853241,
@@ -1740,7 +1748,7 @@
     },
     {
       "raw_hot": 2382491,
-      "num": 592377,
+      "num": 593185,
       "word": "文具店处女证",
       "onboard_time": 1687932397,
       "rank": 10,
@@ -4265,14 +4273,6 @@
       "onboard_time": 1687049067,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1613576,
-      "num": 1613576,
-      "word": "蔡徐坤巡演将如期举行",
-      "onboard_time": 1687939717,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1613516,
@@ -7315,6 +7315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1164172,
+      "num": 922519,
+      "word": "警方回应女子称被民警强奸",
+      "onboard_time": 1687937021,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1163771,
       "num": 1163771,
       "word": "俄罗斯安全局对瓦格纳首领提起刑事诉讼",
@@ -8089,6 +8097,14 @@
       "onboard_time": 1686133297,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1092940,
+      "num": 938399,
+      "word": "肖战抵达香港",
+      "onboard_time": 1687940075,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1092727,
@@ -10075,14 +10091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 922519,
-      "num": 922519,
-      "word": "警方回应女子称被民警强奸",
-      "onboard_time": 1687937021,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 922135,
       "num": 922135,
       "word": "目击者讲述银川烧烤店爆炸",
@@ -11123,6 +11131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 840146,
+      "num": 840146,
+      "word": "韩国医生都不喝的韩式烧酒",
+      "onboard_time": 1687937195,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 839997,
       "num": 839997,
       "word": "S属性大爆发",
@@ -11505,6 +11521,14 @@
       "onboard_time": 1685891491,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 815286,
+      "num": 360873,
+      "word": "为什么身上会突然多了很多痣",
+      "onboard_time": 1687939057,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 814469,
@@ -11921,14 +11945,6 @@
       "onboard_time": 1686757050,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790466,
-      "num": 330088,
-      "word": "为什么身上会突然多了很多痣",
-      "onboard_time": 1687939057,
-      "rank": 21,
-      "category": "其它"
     },
     {
       "raw_hot": 790406,
@@ -12491,14 +12507,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 756394,
-      "num": 756394,
-      "word": "韩国医生都不喝的韩式烧酒",
-      "onboard_time": 1687937195,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 756151,
       "num": 756151,
       "word": "林俊杰巡演下半年场次官宣",
@@ -12857,6 +12865,14 @@
       "onboard_time": 1686438920,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 737241,
+      "num": 355097,
+      "word": "瞒着父母偷偷买了一套房子",
+      "onboard_time": 1687939536,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 737123,
@@ -18107,6 +18123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 498199,
+      "num": 498199,
+      "word": "陈妍希颖儿带娃逛迪士尼",
+      "onboard_time": 1687940558,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497819,
       "num": 329979,
       "word": "新学的一招恶心别人的方法",
@@ -18241,6 +18265,14 @@
       "onboard_time": 1686232953,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 494143,
+      "num": 494143,
+      "word": "透明侠侣撤档",
+      "onboard_time": 1687936653,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 493889,
@@ -18585,14 +18617,6 @@
       "onboard_time": 1687903214,
       "rank": 27,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 485257,
-      "num": 485257,
-      "word": "透明侠侣撤档",
-      "onboard_time": 1687936653,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 485114,
@@ -19185,14 +19209,6 @@
       "onboard_time": 1686744868,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 467083,
-      "num": 467083,
-      "word": "肖战抵达香港",
-      "onboard_time": 1687940075,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 466901,
@@ -21305,14 +21321,6 @@
       "onboard_time": 1687323167,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416266,
-      "num": 328804,
-      "word": "瞒着父母偷偷买了一套房子",
-      "onboard_time": 1687939536,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 415898,
@@ -24177,6 +24185,14 @@
       "onboard_time": 1687090287,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361140,
+      "num": 361140,
+      "word": "00后小伙把网红蛙带到了川西",
+      "onboard_time": 1687939294,
+      "rank": 25,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 361054,
@@ -27601,14 +27617,6 @@
       "onboard_time": 1685622566,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314344,
-      "num": 314344,
-      "word": "00后小伙把网红蛙带到了川西",
-      "onboard_time": 1687939294,
-      "rank": 25,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 314322,
@@ -35683,6 +35691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248687,
+      "num": 248687,
+      "word": "知情人讲述男子反复碾压妻子致死",
+      "onboard_time": 1687940916,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248649,
       "num": 248649,
       "word": "海獭的腋下藏着小口袋",
@@ -36865,6 +36881,14 @@
       "onboard_time": 1687089809,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241015,
+      "num": 241015,
+      "word": "近视500度但看东西很清楚",
+      "onboard_time": 1687940854,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 240975,
@@ -39305,6 +39329,14 @@
       "onboard_time": 1687828058,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226620,
+      "num": 226620,
+      "word": "FIFTYFIFTY解约",
+      "onboard_time": 1687938515,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 226609,
@@ -42507,14 +42539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209859,
-      "num": 209859,
-      "word": "FIFTYFIFTY解约",
-      "onboard_time": 1687938515,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209752,
       "num": 209752,
       "word": "22届被数学创 23届被英语创",
@@ -44011,14 +44035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202184,
-      "num": 202184,
-      "word": "陈妍希颖儿带娃逛迪士尼",
-      "onboard_time": 1687940558,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202145,
       "num": 435322,
       "word": "俩男童凌晨坐巷子路人暖心帮助",
@@ -44585,6 +44601,14 @@
       "onboard_time": 1685577025,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199541,
+      "num": 199541,
+      "word": "给布偶猫剃毛一定要三思",
+      "onboard_time": 1687941157,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 199497,
@@ -57331,6 +57355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136474,
+      "num": 243268,
+      "word": "卢卡申科证实普里戈任在白俄罗斯",
+      "onboard_time": 1687940854,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136302,
       "num": 136302,
       "word": "7旬外公备战高考孙子陪考",
@@ -63403,6 +63435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74757,
+      "num": 200437,
+      "word": "菜鸟官宣自营快递菜鸟速递",
+      "onboard_time": 1687939235,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74623,
       "num": 148794,
       "word": "高考填志愿你会选汽车专业吗",
@@ -63617,14 +63657,6 @@
       "onboard_time": 1685691086,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72129,
-      "num": 200437,
-      "word": "菜鸟官宣自营快递菜鸟速递",
-      "onboard_time": 1687939235,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71849,
@@ -65539,20 +65571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40779,
+      "num": 1103213,
+      "word": "穿越中国新基建",
+      "onboard_time": 1687922554,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40511,
       "num": 425496,
       "word": "想体验何穗的一天",
       "onboard_time": 1686899849,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40173,
-      "num": 1103213,
-      "word": "穿越中国新基建",
-      "onboard_time": 1687922554,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40170,

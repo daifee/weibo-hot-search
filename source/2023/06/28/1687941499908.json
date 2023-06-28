@@ -1,0 +1,410 @@
+{
+  "runTime": 1687941499908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2856477,
+        "num": 2856477,
+        "word": "蔡徐坤巡演将如期举行",
+        "onboard_time": 1687939717,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1027196,
+        "num": 1027196,
+        "word": "鹿晗的提词器",
+        "onboard_time": 1687935816,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40779,
+        "num": 945559,
+        "word": "穿越中国新基建",
+        "onboard_time": 1687922554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092940,
+        "num": 938399,
+        "word": "肖战抵达香港",
+        "onboard_time": 1687940075,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923615,
+        "num": 923615,
+        "word": "普京曾有意杀死普里戈任",
+        "onboard_time": 1687932516,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1164172,
+        "num": 908548,
+        "word": "警方回应女子称被民警强奸",
+        "onboard_time": 1687937021,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840146,
+        "num": 840146,
+        "word": "韩国医生都不喝的韩式烧酒",
+        "onboard_time": 1687937195,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 741719,
+        "num": 741719,
+        "word": "陈思诚叫朱一龙老公的反应",
+        "onboard_time": 1687935874,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644764,
+        "num": 644764,
+        "word": "王一博官宣还是这图",
+        "onboard_time": 1687928140,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519637,
+        "num": 598518,
+        "word": "B站崩了",
+        "onboard_time": 1687934195,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3580824,
+        "num": 595998,
+        "word": "范玮琪终于出现了",
+        "onboard_time": 1687937916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1521753,
+        "num": 593185,
+        "word": "文具店处女证",
+        "onboard_time": 1687932397,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589040,
+        "num": 589040,
+        "word": "吃完小龙虾美甲变绿了",
+        "onboard_time": 1687933956,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703963,
+        "num": 567434,
+        "word": "陈建州起诉大牙",
+        "onboard_time": 1687935335,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542436,
+        "num": 542436,
+        "word": "咒术回战",
+        "onboard_time": 1687938873,
+        "rank": 14,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 498199,
+        "num": 498199,
+        "word": "陈妍希颖儿带娃逛迪士尼",
+        "onboard_time": 1687940558,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496192,
+        "num": 496192,
+        "word": "年轻人唯一有点把握的是单身",
+        "onboard_time": 1687934316,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 494143,
+        "num": 494143,
+        "word": "透明侠侣撤档",
+        "onboard_time": 1687936653,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410214,
+        "num": 410214,
+        "word": "萧敬腾求婚好多地方下雨",
+        "onboard_time": 1687921355,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361140,
+        "num": 361140,
+        "word": "00后小伙把网红蛙带到了川西",
+        "onboard_time": 1687939294,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 815286,
+        "num": 360873,
+        "word": "为什么身上会突然多了很多痣",
+        "onboard_time": 1687939057,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 802420,
+        "num": 357486,
+        "word": "表妹考了620分被舅妈骂一下午",
+        "onboard_time": 1687931379,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 737241,
+        "num": 355097,
+        "word": "瞒着父母偷偷买了一套房子",
+        "onboard_time": 1687939536,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351260,
+        "num": 351260,
+        "word": "双休和月休八天有什么区别",
+        "onboard_time": 1687920574,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316185,
+        "num": 316185,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298890,
+        "num": 298890,
+        "word": "婆婆把我喂奶视频发到群里",
+        "onboard_time": 1687911095,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268199,
+        "num": 268199,
+        "word": "聊半年的暧昧对象突然领证了",
+        "onboard_time": 1687924776,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262913,
+        "num": 262913,
+        "word": "剥鸡蛋剥出了小狗的爪子",
+        "onboard_time": 1687936054,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248687,
+        "num": 248687,
+        "word": "知情人讲述男子反复碾压妻子致死",
+        "onboard_time": 1687940916,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136474,
+        "num": 243268,
+        "word": "卢卡申科证实普里戈任在白俄罗斯",
+        "onboard_time": 1687940854,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242219,
+        "num": 242219,
+        "word": "因为催导师打分结果被删了",
+        "onboard_time": 1687938336,
+        "rank": 30,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 241015,
+        "num": 241015,
+        "word": "近视500度但看东西很清楚",
+        "onboard_time": 1687940854,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239820,
+        "num": 239820,
+        "word": "桑稚终于不是妹妹了",
+        "onboard_time": 1687936175,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226620,
+        "num": 226620,
+        "word": "FIFTYFIFTY解约",
+        "onboard_time": 1687938515,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223912,
+        "num": 223912,
+        "word": "陈建州曾在节目中亲吻Selina",
+        "onboard_time": 1687921053,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219993,
+        "num": 219993,
+        "word": "林有慧的钻戒好大",
+        "onboard_time": 1687925497,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219744,
+        "num": 219744,
+        "word": "广州宝马撞人案",
+        "onboard_time": 1687929637,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 199541,
+        "num": 199541,
+        "word": "给布偶猫剃毛一定要三思",
+        "onboard_time": 1687941157,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198910,
+        "num": 198910,
+        "word": "KPL",
+        "onboard_time": 1687940255,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74757,
+        "num": 192551,
+        "word": "菜鸟官宣自营快递菜鸟速递",
+        "onboard_time": 1687939235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189928,
+        "num": 189928,
+        "word": "陈哲远三部剧都搭档甜妹",
+        "onboard_time": 1687932155,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186492,
+        "num": 186492,
+        "word": "单亲妈妈打工14年供出3名大学生",
+        "onboard_time": 1687932633,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186291,
+        "num": 186291,
+        "word": "第一次见这么复杂的朋友圈分组",
+        "onboard_time": 1687938994,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169272,
+        "num": 169272,
+        "word": "曝长沙一酒店沐浴露疑被灌精液",
+        "onboard_time": 1687914997,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161698,
+        "num": 161698,
+        "word": "刘亦菲入围首尔电视剧大赏最佳女主",
+        "onboard_time": 1687930656,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161446,
+        "num": 161446,
+        "word": "咖啡乱战引发奶茶圈加入混战",
+        "onboard_time": 1687937796,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161399,
+        "num": 161399,
+        "word": "消失的她海报画着李木子就在海底",
+        "onboard_time": 1687926101,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156486,
+        "num": 156486,
+        "word": "面部留白多学赵露思变美思路",
+        "onboard_time": 1687932633,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 153307,
+        "num": 153307,
+        "word": "同事怀孕后一直请假我离职了",
+        "onboard_time": 1687911338,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149656,
+        "num": 149656,
+        "word": "iPhone拍照掉队了吗",
+        "onboard_time": 1687928441,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方是蒙古国可以信赖和倚重的伙伴#"
+    }
+  }
+}
