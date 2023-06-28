@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687930585704,
+  "endTime": 1687933521432,
   "band_list": [
     {
       "raw_hot": 3142273,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1572972,
+      "num": 1572972,
+      "word": "李铁",
+      "onboard_time": 1687925921,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1564820,
       "num": 1564820,
       "word": "高考377分复读一年逆袭677分",
@@ -137,6 +145,14 @@
       "onboard_time": 1687855960,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1459464,
+      "num": 1459464,
+      "word": "普京曾有意杀死普里戈任",
+      "onboard_time": 1687932516,
+      "rank": 3,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1450477,
@@ -211,20 +227,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1154302,
-      "num": 1154302,
-      "word": "李铁",
-      "onboard_time": 1687925921,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 1147028,
       "num": 1147028,
       "word": "人狗合一",
       "onboard_time": 1687880261,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063468,
+      "num": 416414,
+      "word": "表妹考了620分被舅妈骂一下午",
+      "onboard_time": 1687931379,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1021043,
@@ -264,6 +280,14 @@
       "word": "日本警方逮捕一名中国籍研究员",
       "onboard_time": 1687923934,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841912,
+      "num": 517968,
+      "word": "文具店处女证",
+      "onboard_time": 1687932397,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -337,6 +361,22 @@
       "onboard_time": 1687876307,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661154,
+      "num": 661154,
+      "word": "刘亦菲入围首尔电视剧大赏最佳女主",
+      "onboard_time": 1687930656,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660891,
+      "num": 660891,
+      "word": "iPhone拍照掉队了吗",
+      "onboard_time": 1687928441,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 655046,
@@ -467,6 +507,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 501970,
+      "num": 501970,
+      "word": "杨幂密逃袒露最惭愧的事",
+      "onboard_time": 1687930958,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492737,
       "num": 446346,
       "word": "网传香港回归周年晚会有肖战王一博",
@@ -529,6 +577,14 @@
       "onboard_time": 1687907724,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459910,
+      "num": 459910,
+      "word": "陈哲远三部剧都搭档甜妹",
+      "onboard_time": 1687932155,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 457776,
@@ -619,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406879,
+      "num": 406879,
+      "word": "狗狗的脑浆子都被摇匀了",
+      "onboard_time": 1687929277,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405512,
       "num": 405512,
       "word": "仙女棒已经进化到这种程度了吗",
@@ -689,14 +753,6 @@
       "onboard_time": 1687930118,
       "rank": 25,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 355154,
-      "num": 355154,
-      "word": "iPhone拍照掉队了吗",
-      "onboard_time": 1687928441,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 345763,
@@ -771,6 +827,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 316428,
+      "num": 282225,
+      "word": "面部留白多学赵露思变美思路",
+      "onboard_time": 1687932633,
+      "rank": 30,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 316011,
       "num": 297193,
       "word": "小S曾在节目中批陈建州",
@@ -785,6 +849,14 @@
       "onboard_time": 1687878641,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311336,
+      "num": 311336,
+      "word": "灼灼风流 不好好读书是要嫁人的",
+      "onboard_time": 1687931794,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 311027,
@@ -809,14 +881,6 @@
       "onboard_time": 1687923995,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300167,
-      "num": 300167,
-      "word": "狗狗的脑浆子都被摇匀了",
-      "onboard_time": 1687929277,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 299264,
@@ -915,6 +979,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279608,
+      "num": 279608,
+      "word": "易梦玲回应加沈月微信",
+      "onboard_time": 1687932516,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279326,
+      "num": 279326,
+      "word": "有院子的家 丧夫套餐",
+      "onboard_time": 1687932397,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276800,
+      "num": 276800,
+      "word": "GQ编辑说张艺兴好辣",
+      "onboard_time": 1687932875,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272045,
       "num": 272045,
       "word": "2024QS世界大学排名",
@@ -987,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251770,
+      "num": 251770,
+      "word": "EDG",
+      "onboard_time": 1687932875,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "韩国电影孩子们细思极恐",
@@ -1003,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246538,
+      "num": 246538,
+      "word": "山姆回应偷卖临期食品",
+      "onboard_time": 1687930834,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243210,
       "num": 243210,
       "word": "美依礼芽浪姐狂徒",
@@ -1017,6 +1121,14 @@
       "onboard_time": 1687921714,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 242445,
+      "num": 242445,
+      "word": "当男友说太热了要给我打伞",
+      "onboard_time": 1687931794,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 240295,
@@ -1155,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207962,
+      "num": 207962,
+      "word": "沈曼看李木子姬达狂响",
+      "onboard_time": 1687933176,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205548,
       "num": 205548,
       "word": "小车开双闪巡特警多留意一眼救下一命",
@@ -1225,6 +1345,22 @@
       "onboard_time": 1687910312,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192438,
+      "num": 192438,
+      "word": "单亲妈妈打工14年供出3名大学生",
+      "onboard_time": 1687932633,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188110,
+      "num": 188110,
+      "word": "谁说悲伤不能具象化",
+      "onboard_time": 1687933293,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 187328,
@@ -1457,6 +1593,14 @@
       "onboard_time": 1687885286,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61778,
+      "num": 505036,
+      "word": "消防员靠十级喵语救出被困小奶猫",
+      "onboard_time": 1687932095,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55298,

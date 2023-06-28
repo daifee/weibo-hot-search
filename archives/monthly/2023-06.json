@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687930585704,
+  "endTime": 1687933521432,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4435,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1572972,
+      "num": 1572972,
+      "word": "李铁",
+      "onboard_time": 1687925921,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1572951,
       "num": 1572951,
       "word": "这是工资1W以上才需考虑的事情",
@@ -5065,6 +5073,14 @@
       "onboard_time": 1686179663,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1459464,
+      "num": 1459464,
+      "word": "普京曾有意杀死普里戈任",
+      "onboard_time": 1687932516,
+      "rank": 3,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1459438,
@@ -7387,14 +7403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1154302,
-      "num": 1154302,
-      "word": "李铁",
-      "onboard_time": 1687925921,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 1150174,
       "num": 1150174,
       "word": "柳智敏 艺人没时间是骗人的",
@@ -8297,6 +8305,14 @@
       "onboard_time": 1686992307,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1063468,
+      "num": 416414,
+      "word": "表妹考了620分被舅妈骂一下午",
+      "onboard_time": 1687931379,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1063327,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1687159425,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 841912,
+      "num": 517968,
+      "word": "文具店处女证",
+      "onboard_time": 1687932397,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841811,
@@ -14153,6 +14177,22 @@
       "onboard_time": 1685597668,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661154,
+      "num": 661154,
+      "word": "刘亦菲入围首尔电视剧大赏最佳女主",
+      "onboard_time": 1687930656,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 660891,
+      "num": 660891,
+      "word": "iPhone拍照掉队了吗",
+      "onboard_time": 1687928441,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 659659,
@@ -17819,6 +17859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501970,
+      "num": 501970,
+      "word": "杨幂密逃袒露最惭愧的事",
+      "onboard_time": 1687930958,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501880,
       "num": 501880,
       "word": "Ella全组鼓励徐怀钰",
@@ -19248,6 +19296,14 @@
       "word": "偷偷藏不住",
       "onboard_time": 1686136297,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 459910,
+      "num": 459910,
+      "word": "陈哲远三部剧都搭档甜妹",
+      "onboard_time": 1687932155,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -21553,6 +21609,14 @@
       "onboard_time": 1685932407,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406879,
+      "num": 406879,
+      "word": "狗狗的脑浆子都被摇匀了",
+      "onboard_time": 1687929277,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 406824,
@@ -24265,14 +24329,6 @@
       "onboard_time": 1687314569,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355154,
-      "num": 355154,
-      "word": "iPhone拍照掉队了吗",
-      "onboard_time": 1687928441,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 355087,
@@ -27155,6 +27211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316428,
+      "num": 282225,
+      "word": "面部留白多学赵露思变美思路",
+      "onboard_time": 1687932633,
+      "rank": 30,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 316355,
       "num": 316355,
       "word": "普京电视讲话要点汇总",
@@ -27689,6 +27753,14 @@
       "onboard_time": 1687311932,
       "rank": 39,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 311336,
+      "num": 311336,
+      "word": "灼灼风流 不好好读书是要嫁人的",
+      "onboard_time": 1687931794,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 311281,
@@ -28817,14 +28889,6 @@
       "onboard_time": 1687043957,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300167,
-      "num": 300167,
-      "word": "狗狗的脑浆子都被摇匀了",
-      "onboard_time": 1687929277,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 300081,
@@ -30987,6 +31051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279608,
+      "num": 279608,
+      "word": "易梦玲回应加沈月微信",
+      "onboard_time": 1687932516,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279596,
       "num": 279596,
       "word": "孟子义说曾舜晞我谈没谈你不知道吗",
@@ -31008,6 +31080,14 @@
       "word": "你心中的年代剧TOP1",
       "onboard_time": 1687138107,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279326,
+      "num": 279326,
+      "word": "有院子的家 丧夫套餐",
+      "onboard_time": 1687932397,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -31361,6 +31441,14 @@
       "onboard_time": 1685589685,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 276800,
+      "num": 276800,
+      "word": "GQ编辑说张艺兴好辣",
+      "onboard_time": 1687932875,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 276755,
@@ -34835,6 +34923,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 251770,
+      "num": 251770,
+      "word": "EDG",
+      "onboard_time": 1686980853,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251752,
       "num": 341063,
       "word": "我们小狗最看重朋友了",
@@ -35635,6 +35731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246538,
+      "num": 246538,
+      "word": "山姆回应偷卖临期食品",
+      "onboard_time": 1687930834,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246513,
       "num": 246513,
       "word": "杨紫端午晒粽子",
@@ -36305,6 +36409,14 @@
       "onboard_time": 1687921714,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 242445,
+      "num": 242445,
+      "word": "当男友说太热了要给我打伞",
+      "onboard_time": 1687931794,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 242439,
@@ -42499,6 +42611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207962,
+      "num": 207962,
+      "word": "沈曼看李木子姬达狂响",
+      "onboard_time": 1687933176,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207871,
       "num": 207871,
       "word": "王一博大鹏送惊叹号",
@@ -45947,6 +46067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192438,
+      "num": 192438,
+      "word": "单亲妈妈打工14年供出3名大学生",
+      "onboard_time": 1687932633,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192434,
       "num": 301623,
       "word": "有机熊猫果排排躺",
@@ -47129,6 +47257,14 @@
       "onboard_time": 1686651508,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188110,
+      "num": 188110,
+      "word": "谁说悲伤不能具象化",
+      "onboard_time": 1687933293,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 188107,
@@ -56267,14 +56403,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 139827,
-      "num": 161179,
-      "word": "EDG",
-      "onboard_time": 1686980853,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139809,
       "num": 139809,
       "word": "谁是大多数",
@@ -63911,6 +64039,14 @@
       "num": 504705,
       "word": "亚洲首台异体喉移植手术成功实施",
       "onboard_time": 1685941230,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61778,
+      "num": 505036,
+      "word": "消防员靠十级喵语救出被困小奶猫",
+      "onboard_time": 1687932095,
       "rank": 14,
       "category": "社会新闻"
     },
