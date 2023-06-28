@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687947643525,
+  "endTime": 1687948688571,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 4057131,
-      "num": 638601,
+      "num": 667932,
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
@@ -275,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2172006,
+      "num": 2172006,
+      "word": "张雪峰建议不好好学习带孩子到四个地方",
+      "onboard_time": 1687946015,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2168711,
       "num": 2168711,
       "word": "这些都是野鸡大学",
@@ -377,6 +385,14 @@
       "onboard_time": 1687870123,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1893322,
+      "num": 1893322,
+      "word": "爷爷临终前开了个玩笑",
+      "onboard_time": 1687944155,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1892206,
@@ -545,14 +561,6 @@
       "onboard_time": 1687855832,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1620610,
-      "num": 1620610,
-      "word": "爷爷临终前开了个玩笑",
-      "onboard_time": 1687944155,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1619000,
@@ -939,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1034405,
-      "num": 628193,
-      "word": "张雪峰建议不好好学习带孩子到四个地方",
-      "onboard_time": 1687946015,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1029344,
       "num": 1029344,
       "word": "花千骨2已备案",
@@ -1041,6 +1041,14 @@
       "onboard_time": 1687835137,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 957689,
+      "num": 957689,
+      "word": "大牙方回应被起诉",
+      "onboard_time": 1687947872,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 955006,
@@ -1235,6 +1243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 864812,
+      "num": 864812,
+      "word": "安乐传真的要来了",
+      "onboard_time": 1687946434,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 862501,
       "num": 481911,
       "word": "黄多多17岁穿搭",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1687912779,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 828609,
+      "num": 828609,
+      "word": "EXO综艺取消录制",
+      "onboard_time": 1687946855,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 826373,
@@ -1467,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 739130,
+      "num": 739130,
+      "word": "白敬亭说宋轶表演压力更大",
+      "onboard_time": 1687946194,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 738036,
       "num": 738036,
       "word": "张雪峰对于学医的观点",
@@ -1568,14 +1600,6 @@
       "word": "段嘉许车牌号是桑稚我爱你",
       "onboard_time": 1687840732,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 711878,
-      "num": 711878,
-      "word": "安乐传真的要来了",
-      "onboard_time": 1687946434,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -1833,14 +1857,6 @@
       "onboard_time": 1687703256,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 610619,
-      "num": 610619,
-      "word": "白敬亭说宋轶表演压力更大",
-      "onboard_time": 1687946194,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 609327,
@@ -2235,12 +2251,12 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 522664,
-      "num": 522664,
-      "word": "EXO综艺取消录制",
-      "onboard_time": 1687946855,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 524768,
+      "num": 524768,
+      "word": "张嘉倪小狐狸",
+      "onboard_time": 1687947872,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 517837,
@@ -2441,6 +2457,22 @@
       "onboard_time": 1687842823,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471408,
+      "num": 471408,
+      "word": "不要再坐公共场合的按摩椅了",
+      "onboard_time": 1687947453,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 471012,
+      "num": 2254683,
+      "word": "农村三胞胎姐妹均高分超一本线",
+      "onboard_time": 1687943376,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 470385,
@@ -2755,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425781,
+      "num": 491574,
+      "word": "原来深圳大学还是清华北大的亲女儿啊",
+      "onboard_time": 1687945231,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425494,
       "num": 425494,
       "word": "兴化地震",
@@ -2795,12 +2835,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 419346,
-      "num": 491574,
-      "word": "原来深圳大学还是清华北大的亲女儿啊",
-      "onboard_time": 1687945231,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 419484,
+      "num": 419484,
+      "word": "白鹿采访忘词",
+      "onboard_time": 1687948116,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 418152,
@@ -2921,6 +2961,14 @@
       "onboard_time": 1687751082,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402101,
+      "num": 402101,
+      "word": "宝格丽活动",
+      "onboard_time": 1687947213,
+      "rank": 42,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 401437,
@@ -3220,7 +3268,7 @@
     },
     {
       "raw_hot": 361140,
-      "num": 866779,
+      "num": 1971370,
       "word": "00后小伙把网红蛙带到了川西",
       "onboard_time": 1687939294,
       "rank": 25,
@@ -3289,14 +3337,6 @@
       "onboard_time": 1687820361,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 348095,
-      "num": 1900450,
-      "word": "农村三胞胎姐妹均高分超一本线",
-      "onboard_time": 1687943376,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 346633,
@@ -4043,6 +4083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293529,
+      "num": 293529,
+      "word": "SMTOWN回应EXO节目取消录制",
+      "onboard_time": 1687947517,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293353,
       "num": 293353,
       "word": "李宇春官宣2023湾区升明月",
@@ -4108,7 +4156,7 @@
     },
     {
       "raw_hot": 289266,
-      "num": 335307,
+      "num": 371115,
       "word": "中国女篮小组赛三连胜",
       "onboard_time": 1687944754,
       "rank": 31,
@@ -4971,14 +5019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230682,
-      "num": 230682,
-      "word": "不要再坐公共场合的按摩椅了",
-      "onboard_time": 1687947453,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230201,
       "num": 230201,
       "word": "蓝朋友休假顺便制服一只豚尾猴",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1687932633,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229426,
+      "num": 229426,
+      "word": "何非在海里杀李木子的原因",
+      "onboard_time": 1687947816,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 229000,
@@ -5089,14 +5137,6 @@
       "onboard_time": 1687764710,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 224867,
-      "num": 224867,
-      "word": "宝格丽活动",
-      "onboard_time": 1687947213,
-      "rank": 42,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 223118,
@@ -5241,6 +5281,14 @@
       "onboard_time": 1687854698,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216280,
+      "num": 216280,
+      "word": "女排",
+      "onboard_time": 1687947816,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 215940,
@@ -5635,6 +5683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197032,
+      "num": 197032,
+      "word": "妇联将帮扶男子碾压妻子家庭中孩子",
+      "onboard_time": 1687947816,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196854,
       "num": 196854,
       "word": "朱一龙消失的她破7亿海报",
@@ -5644,19 +5700,11 @@
     },
     {
       "raw_hot": 196035,
-      "num": 196035,
+      "num": 470484,
       "word": "指尖触过细密的盲文是她向上生长的痕迹",
       "onboard_time": 1687945475,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195563,
-      "num": 195563,
-      "word": "SMTOWN回应EXO节目取消录制",
-      "onboard_time": 1687947517,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 195455,
@@ -5731,6 +5779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193763,
+      "num": 193763,
+      "word": "保持联系是一件很难的事",
+      "onboard_time": 1687948654,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "张杰郑州演唱会高光视频",
@@ -5777,6 +5833,14 @@
       "onboard_time": 1687870301,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191809,
+      "num": 191809,
+      "word": "被罗刹拿捏",
+      "onboard_time": 1687948294,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 191312,
@@ -6883,6 +6947,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 89962,
+      "num": 2199435,
+      "word": "挖隧道的大国重器长啥样",
+      "onboard_time": 1687946494,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89883,
       "num": 185153,
       "word": "晚高峰私家车自发45度让行救护车",
@@ -6929,14 +7001,6 @@
       "onboard_time": 1687693894,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79991,
-      "num": 1758972,
-      "word": "挖隧道的大国重器长啥样",
-      "onboard_time": 1687946494,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74757,
@@ -7115,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34196,
+      "num": 612062,
+      "word": "消防员高温下灭火汗水湿透消防服",
+      "onboard_time": 1687946434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33127,
       "num": 33127,
       "word": "星穹铁道罗刹",
@@ -7161,14 +7233,6 @@
       "onboard_time": 1687771670,
       "rank": 14,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 21025,
-      "num": 612062,
-      "word": "消防员高温下灭火汗水湿透消防服",
-      "onboard_time": 1687946434,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20294,
