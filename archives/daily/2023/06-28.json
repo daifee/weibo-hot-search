@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687958884152,
+  "endTime": 1687959508983,
   "band_list": [
     {
       "raw_hot": 4075577,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4057131,
-      "num": 1039692,
+      "num": 1055659,
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
@@ -56,6 +56,14 @@
       "word": "向太叫林有慧媳妇儿",
       "onboard_time": 1687913379,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2779982,
+      "num": 2063555,
+      "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+      "onboard_time": 1687958560,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -379,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1241597,
-      "num": 1241597,
-      "word": "曝陈建州在范玮琪孕期骚扰女艺人",
-      "onboard_time": 1687958560,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1220163,
       "num": 1220163,
       "word": "广州宝马撞人案二审维持死刑原判",
@@ -691,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 720254,
+      "num": 517718,
+      "word": "李一桐踩到自己裙子了",
+      "onboard_time": 1687958198,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 720022,
       "num": 559993,
       "word": "陈妍希颖儿带娃逛迪士尼",
@@ -811,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607645,
+      "num": 607645,
+      "word": "美特斯邦威以3亿元出售房产自救",
+      "onboard_time": 1687957298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599369,
       "num": 436646,
       "word": "女生试衣遭陌生男性拉帘暴露下身",
@@ -913,6 +929,14 @@
       "onboard_time": 1687926462,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 554026,
+      "num": 373197,
+      "word": "Angelababy脸在江山在",
+      "onboard_time": 1687957836,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 548477,
@@ -1107,14 +1131,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 453142,
-      "num": 453142,
-      "word": "美特斯邦威以3亿元出售房产自救",
-      "onboard_time": 1687957298,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448788,
       "num": 448788,
       "word": "姜个顾事",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1687851099,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 433432,
-      "num": 373197,
-      "word": "Angelababy脸在江山在",
-      "onboard_time": 1687957836,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 427409,
@@ -1195,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417226,
+      "num": 280542,
+      "word": "李现毯King",
+      "onboard_time": 1687958500,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 416833,
       "num": 416833,
       "word": "女儿都22岁了什么时候才能独立",
@@ -1203,20 +1219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 416658,
-      "num": 357788,
-      "word": "李一桐踩到自己裙子了",
-      "onboard_time": 1687958198,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 413290,
       "num": 344292,
       "word": "ZLR 我女朋友",
       "onboard_time": 1687952253,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 408688,
+      "num": 281220,
+      "word": "消失的她",
+      "onboard_time": 1687959098,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 407302,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1687930118,
       "rank": 25,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 350578,
+      "num": 350578,
+      "word": "jiejie怎么了",
+      "onboard_time": 1687958679,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 345763,
@@ -2035,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218524,
+      "num": 218524,
+      "word": "毕业典礼上院长被学生公主抱转圈",
+      "onboard_time": 1687959159,
+      "rank": 39,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 217995,
       "num": 217995,
       "word": "第一次见这么复杂的朋友圈分组",
@@ -2121,14 +2153,6 @@
       "onboard_time": 1687937136,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209283,
-      "num": 209283,
-      "word": "jiejie怎么了",
-      "onboard_time": 1687958679,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 209004,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1687848637,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197832,
+      "num": 197832,
+      "word": "突然觉得工作后真好啊",
+      "onboard_time": 1687959338,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 197032,
@@ -2771,20 +2803,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 55461,
+      "num": 2297758,
+      "word": "8月15日成为全国生态日",
+      "onboard_time": 1687955917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55298,
       "num": 72159,
       "word": "你会为了爱情改变自己吗",
       "onboard_time": 1687887141,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 55205,
-      "num": 2297758,
-      "word": "8月15日成为全国生态日",
-      "onboard_time": 1687955917,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53485,
@@ -2827,7 +2859,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23614,
+      "raw_hot": 27898,
       "num": 635926,
       "word": "星铁新角色罗刹上线",
       "onboard_time": 1687957236,
