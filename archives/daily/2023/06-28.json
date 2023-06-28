@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687929524614,
+  "endTime": 1687930585704,
   "band_list": [
     {
       "raw_hot": 3142273,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2741799,
+      "num": 2741799,
+      "word": "聊半年的暧昧对象突然领证了",
+      "onboard_time": 1687924776,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2681461,
       "num": 2681461,
       "word": "喜茶奈雪为何又不香了",
       "onboard_time": 1687913618,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2664460,
-      "num": 2664460,
-      "word": "聊半年的暧昧对象突然领证了",
-      "onboard_time": 1687924776,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 2538460,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1347247,
+      "num": 1347247,
+      "word": "王一博官宣还是这图",
+      "onboard_time": 1687928140,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1296686,
       "num": 1296686,
       "word": "那些和经纪人结婚的艺人",
@@ -203,20 +211,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1154302,
+      "num": 1154302,
+      "word": "李铁",
+      "onboard_time": 1687925921,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1147028,
       "num": 1147028,
       "word": "人狗合一",
       "onboard_time": 1687880261,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1129740,
-      "num": 1129740,
-      "word": "王一博官宣还是这图",
-      "onboard_time": 1687928140,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1021043,
@@ -265,14 +273,6 @@
       "onboard_time": 1687912779,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 809403,
-      "num": 809403,
-      "word": "李铁",
-      "onboard_time": 1687925921,
-      "rank": 36,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 777349,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 630999,
-      "num": 587597,
+      "num": 606097,
       "word": "消失的她海报画着李木子就在海底",
       "onboard_time": 1687926101,
       "rank": 30,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557639,
+      "num": 557639,
+      "word": "段嘉许渣男脸",
+      "onboard_time": 1687926462,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 548477,
       "num": 548477,
       "word": "与肖战做同事belike",
@@ -459,14 +467,6 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 509729,
-      "num": 509729,
-      "word": "段嘉许渣男脸",
-      "onboard_time": 1687926462,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 492737,
       "num": 446346,
       "word": "网传香港回归周年晚会有肖战王一博",
@@ -491,6 +491,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 473044,
+      "num": 473044,
+      "word": "同时在两个公司上班月薪7K",
+      "onboard_time": 1687928080,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472372,
       "num": 472372,
       "word": "印度男子误会妹妹月经是偷情证据将其虐死",
@@ -507,12 +515,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 465894,
-      "num": 465894,
-      "word": "同时在两个公司上班月薪7K",
-      "onboard_time": 1687928080,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 466385,
+      "num": 466385,
+      "word": "北京大学QS排名第17",
+      "onboard_time": 1687926340,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 461166,
@@ -675,12 +683,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357676,
+      "num": 357676,
+      "word": "顺杆爬的熊孩子这是实锤了",
+      "onboard_time": 1687930118,
+      "rank": 25,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 355154,
+      "num": 355154,
+      "word": "iPhone拍照掉队了吗",
+      "onboard_time": 1687928441,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 345763,
       "num": 345763,
       "word": "湾区升明月阵容",
       "onboard_time": 1687919555,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343268,
+      "num": 343268,
+      "word": "罗刹",
+      "onboard_time": 1687930358,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 341898,
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304917,
+      "num": 304917,
+      "word": "广州宝马撞人案",
+      "onboard_time": 1687929637,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 303543,
       "num": 303543,
       "word": "景甜冯绍峰对视海报",
@@ -771,12 +811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300167,
+      "num": 300167,
+      "word": "狗狗的脑浆子都被摇匀了",
+      "onboard_time": 1687929277,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299264,
       "num": 299264,
       "word": "最长的接吻居然长达58小时",
       "onboard_time": 1687861898,
       "rank": 27,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 296989,
+      "num": 296989,
+      "word": "梁永安 我们需要高质量的孤独",
+      "onboard_time": 1687930235,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 294380,
@@ -857,14 +913,6 @@
       "onboard_time": 1687926945,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 272854,
-      "num": 272854,
-      "word": "北京大学QS排名第17",
-      "onboard_time": 1687926340,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 272045,
@@ -955,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243210,
+      "num": 243210,
+      "word": "美依礼芽浪姐狂徒",
+      "onboard_time": 1687930058,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242478,
       "num": 242478,
       "word": "感动全网的环卫工儿子填志愿求助",
@@ -993,14 +1049,6 @@
       "onboard_time": 1687915476,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 230637,
-      "num": 230637,
-      "word": "iPhone拍照掉队了吗",
-      "onboard_time": 1687928441,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 229674,
@@ -1147,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199897,
-      "num": 199897,
-      "word": "狗狗的脑浆子都被摇匀了",
-      "onboard_time": 1687929277,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199651,
       "num": 199651,
       "word": "日本经济为何停滞在过去",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1687848637,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195455,
+      "num": 195455,
+      "word": "朱一龙暗中观察观众反应",
+      "onboard_time": 1687927302,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 193966,
@@ -1339,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116087,
+      "num": 597128,
+      "word": "女生毕业在宿舍晒满地证书合影留念",
+      "onboard_time": 1687928441,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114418,
       "num": 139744,
       "word": "这蛋包饭炒得也太秀了",
@@ -1363,7 +1419,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90769,
+      "raw_hot": 93572,
       "num": 1546416,
       "word": "成都大运会倒计时1个月",
       "onboard_time": 1687922674,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1687885286,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57879,
-      "num": 597128,
-      "word": "女生毕业在宿舍晒满地证书合影留念",
-      "onboard_time": 1687928441,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55298,
