@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687973673407,
+  "endTime": 1687976636717,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -66369,6 +66369,14 @@
       "onboard_time": 1686405629,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 48052,
+      "num": 51747,
+      "word": "78级物理专业高考生的报考建议",
+      "onboard_time": 1687975516,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 47994,
