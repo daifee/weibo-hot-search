@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687923120601,
+  "endTime": 1687923681930,
   "band_list": [
     {
       "raw_hot": 3142273,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1468290,
+      "num": 558992,
+      "word": "陈建州曾在节目中亲吻Selina",
+      "onboard_time": 1687921053,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450477,
       "num": 523174,
       "word": "范玮琪对陈建州偷吃的态度",
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1220806,
-      "num": 552679,
-      "word": "陈建州曾在节目中亲吻Selina",
-      "onboard_time": 1687921053,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 1254488,
+      "num": 1254488,
+      "word": "和对象一起入职当天被辞退了",
+      "onboard_time": 1687918296,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 1205890,
@@ -163,20 +171,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1191077,
-      "num": 1191077,
-      "word": "和对象一起入职当天被辞退了",
-      "onboard_time": 1687918296,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1147028,
       "num": 1147028,
       "word": "人狗合一",
       "onboard_time": 1687880261,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1029422,
+      "num": 1029422,
+      "word": "双休和月休八天有什么区别",
+      "onboard_time": 1687920574,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 1021043,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 861142,
-      "num": 529558,
+      "num": 546349,
       "word": "萧敬腾求婚好多地方下雨",
       "onboard_time": 1687921355,
       "rank": 27,
@@ -209,14 +217,6 @@
       "onboard_time": 1687912779,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 806845,
-      "num": 806845,
-      "word": "双休和月休八天有什么区别",
-      "onboard_time": 1687920574,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 777349,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734241,
+      "num": 734241,
+      "word": "肖战加盟2023湾区升明月",
+      "onboard_time": 1687922615,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 714603,
       "num": 714603,
       "word": "千万不要随意私拆学生档案",
@@ -289,6 +297,14 @@
       "onboard_time": 1687883430,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 598550,
+      "num": 540140,
+      "word": "快递员恋女客户疑其出轨持刀入室",
+      "onboard_time": 1687919913,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596737,
@@ -379,14 +395,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 475225,
-      "num": 475225,
-      "word": "快递员恋女客户疑其出轨持刀入室",
-      "onboard_time": 1687919913,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472372,
       "num": 472372,
       "word": "印度男子误会妹妹月经是偷情证据将其虐死",
@@ -403,20 +411,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 463306,
-      "num": 463306,
-      "word": "肖战加盟2023湾区升明月",
-      "onboard_time": 1687922615,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461166,
       "num": 389155,
       "word": "虞书欣也没有脚脖子",
       "onboard_time": 1687907724,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460477,
+      "num": 460477,
+      "word": "七仔父母首次曝光",
+      "onboard_time": 1687920937,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457776,
@@ -465,14 +473,6 @@
       "onboard_time": 1687915719,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418120,
-      "num": 418120,
-      "word": "七仔父母首次曝光",
-      "onboard_time": 1687920937,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416833,
@@ -545,6 +545,14 @@
       "onboard_time": 1687915416,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 355156,
+      "num": 345148,
+      "word": "当事人回应酒店沐浴露疑被灌精液",
+      "onboard_time": 1687922914,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345763,
@@ -675,6 +683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 285335,
+      "num": 273013,
+      "word": "罗小黑战记漫画第一百零五话",
+      "onboard_time": 1687923394,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 272045,
       "num": 272045,
       "word": "2024QS世界大学排名",
@@ -721,6 +737,14 @@
       "onboard_time": 1687917937,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244195,
+      "num": 244195,
+      "word": "当2只雌孔雀看上了同1只雄孔雀",
+      "onboard_time": 1687923034,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242478,
@@ -787,20 +811,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222191,
-      "num": 222191,
-      "word": "当2只雌孔雀看上了同1只雄孔雀",
-      "onboard_time": 1687923034,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218999,
       "num": 218999,
       "word": "为了卖课渲染暑假很可怕太损了",
       "onboard_time": 1687909711,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 214834,
+      "num": 214834,
+      "word": "毛不易演唱会",
+      "onboard_time": 1687923034,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 214063,
@@ -841,22 +865,6 @@
       "onboard_time": 1687914818,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206923,
-      "num": 206923,
-      "word": "当事人回应酒店沐浴露疑被灌精液",
-      "onboard_time": 1687922914,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205288,
-      "num": 205288,
-      "word": "毛不易演唱会",
-      "onboard_time": 1687923034,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 203933,
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185316,
+      "num": 185316,
+      "word": "张雪峰名字 符号化",
+      "onboard_time": 1687921532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183798,
       "num": 183798,
       "word": "当亚洲人在比谁的食物更辣时",
@@ -961,14 +977,6 @@
       "onboard_time": 1687915117,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173261,
-      "num": 173261,
-      "word": "张雪峰名字 符号化",
-      "onboard_time": 1687921532,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167305,
@@ -1115,6 +1123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72351,
+      "num": 1355109,
+      "word": "成都大运会倒计时1个月",
+      "onboard_time": 1687922674,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 71763,
       "num": 83928,
       "word": "恶搞名画滤镜挑战",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1687875707,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 45338,
-      "num": 1355109,
-      "word": "成都大运会倒计时1个月",
-      "onboard_time": 1687922674,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 33127,

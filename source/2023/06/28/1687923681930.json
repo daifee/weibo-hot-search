@@ -1,0 +1,410 @@
+{
+  "runTime": 1687923681930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2661879,
+        "num": 2661879,
+        "word": "喜茶奈雪为何又不香了",
+        "onboard_time": 1687913618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1523616,
+        "num": 1523616,
+        "word": "人民日报评相关企业拒聘川大学生",
+        "onboard_time": 1687916735,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 72351,
+        "num": 1304199,
+        "word": "成都大运会倒计时1个月",
+        "onboard_time": 1687922674,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1254488,
+        "num": 1254488,
+        "word": "和对象一起入职当天被辞退了",
+        "onboard_time": 1687918296,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1033981,
+        "num": 1033981,
+        "word": "高考377分复读一年逆袭677分",
+        "onboard_time": 1687911095,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1029422,
+        "num": 1029422,
+        "word": "双休和月休八天有什么区别",
+        "onboard_time": 1687920574,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 862892,
+        "num": 862892,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734241,
+        "num": 734241,
+        "word": "肖战加盟2023湾区升明月",
+        "onboard_time": 1687922615,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596765,
+        "num": 596765,
+        "word": "消失的她李木子视角",
+        "onboard_time": 1687917517,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567915,
+        "num": 567915,
+        "word": "黄子韬说挺想宋亚轩的",
+        "onboard_time": 1687919135,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1746500,
+        "num": 566652,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1468290,
+        "num": 558992,
+        "word": "陈建州曾在节目中亲吻Selina",
+        "onboard_time": 1687921053,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822530,
+        "num": 546349,
+        "word": "萧敬腾求婚好多地方下雨",
+        "onboard_time": 1687921355,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598550,
+        "num": 540140,
+        "word": "快递员恋女客户疑其出轨持刀入室",
+        "onboard_time": 1687919913,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537566,
+        "num": 537566,
+        "word": "同事怀孕后一直请假我离职了",
+        "onboard_time": 1687911338,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460477,
+        "num": 460477,
+        "word": "七仔父母首次曝光",
+        "onboard_time": 1687920937,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401129,
+        "num": 401129,
+        "word": "肖战扎了小辫儿",
+        "onboard_time": 1687919135,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 383608,
+        "num": 383608,
+        "word": "拍CT之前记得上个厕所",
+        "onboard_time": 1687916674,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359525,
+        "num": 359525,
+        "word": "六公主拍的Angelababy",
+        "onboard_time": 1687907784,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350746,
+        "num": 350746,
+        "word": "鹿晗同款卤煮店2小时卖出1200份",
+        "onboard_time": 1687908929,
+        "rank": 19,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 1642540,
+        "num": 349765,
+        "word": "韩综用国歌做BGM",
+        "onboard_time": 1687918474,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985807,
+        "num": 348751,
+        "word": "曝长沙一酒店沐浴露疑被灌精液",
+        "onboard_time": 1687914997,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721637,
+        "num": 347342,
+        "word": "婆婆把我喂奶视频发到群里",
+        "onboard_time": 1687911095,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633006,
+        "num": 346072,
+        "word": "肖战机场",
+        "onboard_time": 1687915416,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355156,
+        "num": 345148,
+        "word": "当事人回应酒店沐浴露疑被灌精液",
+        "onboard_time": 1687922914,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343959,
+        "num": 343959,
+        "word": "虞书欣也没有脚脖子",
+        "onboard_time": 1687907724,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319430,
+        "num": 319430,
+        "word": "网传香港回归周年晚会有肖战王一博",
+        "onboard_time": 1687917456,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319292,
+        "num": 319292,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1687919555,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316303,
+        "num": 316303,
+        "word": "消失的她又双叒票房逆跌了",
+        "onboard_time": 1687877324,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273961,
+        "num": 273961,
+        "word": "浙大毕业生穿马面裙学士服跳舞",
+        "onboard_time": 1687920814,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 285335,
+        "num": 273013,
+        "word": "罗小黑战记漫画第一百零五话",
+        "onboard_time": 1687923394,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 270140,
+        "num": 270140,
+        "word": "狗妈妈疯狂作揖祈求主人救去世幼崽",
+        "onboard_time": 1687919678,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 268459,
+        "num": 268459,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263344,
+        "num": 263344,
+        "word": "迪士尼门票近800一张合理吗",
+        "onboard_time": 1687912837,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 255836,
+        "num": 255836,
+        "word": "现在的高考喜报这么隐晦吗",
+        "onboard_time": 1687918716,
+        "rank": 34,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 247765,
+        "num": 247765,
+        "word": "段嘉许vs张陆让",
+        "onboard_time": 1687916317,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244195,
+        "num": 244195,
+        "word": "当2只雌孔雀看上了同1只雄孔雀",
+        "onboard_time": 1687923034,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230856,
+        "num": 230856,
+        "word": "成年人最受不了的聊天方式",
+        "onboard_time": 1687915719,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224697,
+        "num": 224697,
+        "word": "任敏王源双人海报",
+        "onboard_time": 1687920995,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221151,
+        "num": 221151,
+        "word": "被公司领导强行撮合",
+        "onboard_time": 1687917937,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219940,
+        "num": 219940,
+        "word": "每天下午三点下班你愿意单休吗",
+        "onboard_time": 1687913259,
+        "rank": 40,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 214834,
+        "num": 214834,
+        "word": "毛不易演唱会",
+        "onboard_time": 1687923034,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211500,
+        "num": 211500,
+        "word": "A股",
+        "onboard_time": 1687918592,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205754,
+        "num": 205754,
+        "word": "吴京主持首秀",
+        "onboard_time": 1687920453,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199835,
+        "num": 199835,
+        "word": "赵露思陈哲远十场吻戏",
+        "onboard_time": 1687918115,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199787,
+        "num": 199787,
+        "word": "赵樱子和孟子义娜扎都合体过了",
+        "onboard_time": 1687914338,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194396,
+        "num": 194396,
+        "word": "周杰伦昆凌见证萧敬腾求婚现场",
+        "onboard_time": 1687876307,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185316,
+        "num": 185316,
+        "word": "张雪峰名字 符号化",
+        "onboard_time": 1687921532,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189702,
+        "num": 185009,
+        "word": "萧敬腾下个雨庆祝一下吧",
+        "onboard_time": 1687870301,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182444,
+        "num": 182444,
+        "word": "仙剑3法器是用婚戒做的",
+        "onboard_time": 1687913018,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#千万工程造就万千美丽乡村#"
+    }
+  }
+}

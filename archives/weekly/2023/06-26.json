@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687923120601,
+  "endTime": 1687923681930,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -523,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1468290,
+      "num": 558992,
+      "word": "陈建州曾在节目中亲吻Selina",
+      "onboard_time": 1687921053,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1434156,
       "num": 1434156,
       "word": "亚运会",
@@ -611,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1254488,
+      "num": 1254488,
+      "word": "和对象一起入职当天被辞退了",
+      "onboard_time": 1687918296,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1222400,
       "num": 1222400,
       "word": "差点认不出张艺兴",
@@ -619,28 +635,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1220806,
-      "num": 552679,
-      "word": "陈建州曾在节目中亲吻Selina",
-      "onboard_time": 1687921053,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1218608,
       "num": 1218608,
       "word": "于斌多发点",
       "onboard_time": 1687871261,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1191077,
-      "num": 1191077,
-      "word": "和对象一起入职当天被辞退了",
-      "onboard_time": 1687918296,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 1161520,
@@ -777,6 +777,14 @@
       "onboard_time": 1687839648,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1029422,
+      "num": 1029422,
+      "word": "双休和月休八天有什么区别",
+      "onboard_time": 1687920574,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 1029344,
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 861142,
-      "num": 529558,
+      "num": 546349,
       "word": "萧敬腾求婚好多地方下雨",
       "onboard_time": 1687921355,
       "rank": 27,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1687740452,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 806845,
-      "num": 806845,
-      "word": "双休和月休八天有什么区别",
-      "onboard_time": 1687920574,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 805330,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1687825723,
       "rank": 8,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 734241,
+      "num": 734241,
+      "word": "肖战加盟2023湾区升明月",
+      "onboard_time": 1687922615,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 730595,
@@ -1552,6 +1560,14 @@
       "word": "甜椒",
       "onboard_time": 1687773528,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598550,
+      "num": 540140,
+      "word": "快递员恋女客户疑其出轨持刀入室",
+      "onboard_time": 1687919913,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2011,14 +2027,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 475225,
-      "num": 475225,
-      "word": "快递员恋女客户疑其出轨持刀入室",
-      "onboard_time": 1687919913,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471474,
       "num": 471474,
       "word": "岳云鹏演王一博小舅",
@@ -2083,14 +2091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463306,
-      "num": 463306,
-      "word": "肖战加盟2023湾区升明月",
-      "onboard_time": 1687922615,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461496,
       "num": 333832,
       "word": "这玩具千万别卖到我家这儿",
@@ -2105,6 +2105,14 @@
       "onboard_time": 1687907724,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460477,
+      "num": 460477,
+      "word": "七仔父母首次曝光",
+      "onboard_time": 1687920937,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457776,
@@ -2337,14 +2345,6 @@
       "onboard_time": 1687915719,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418120,
-      "num": 418120,
-      "word": "七仔父母首次曝光",
-      "onboard_time": 1687920937,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417810,
@@ -2728,6 +2728,14 @@
       "word": "鲁A大哥带一箱礼物去认干闺女",
       "onboard_time": 1687871441,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355156,
+      "num": 345148,
+      "word": "当事人回应酒店沐浴露疑被灌精液",
+      "onboard_time": 1687922914,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3467,6 +3475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285335,
+      "num": 273013,
+      "word": "罗小黑战记漫画第一百零五话",
+      "onboard_time": 1687923394,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 285283,
       "num": 255448,
       "word": "医生是这样评估口臭的",
@@ -3995,6 +4011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244195,
+      "num": 244195,
+      "word": "当2只雌孔雀看上了同1只雄孔雀",
+      "onboard_time": 1687923034,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243143,
       "num": 444256,
       "word": "妈妈将女儿衣服亮片全缝上防掉落",
@@ -4283,14 +4307,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 222191,
-      "num": 222191,
-      "word": "当2只雌孔雀看上了同1只雄孔雀",
-      "onboard_time": 1687923034,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222083,
       "num": 222083,
       "word": "严浩翔说今天我是队长",
@@ -4401,6 +4417,14 @@
       "onboard_time": 1687854698,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214834,
+      "num": 214834,
+      "word": "毛不易演唱会",
+      "onboard_time": 1687923034,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 214063,
@@ -4561,22 +4585,6 @@
       "onboard_time": 1687914818,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206923,
-      "num": 206923,
-      "word": "当事人回应酒店沐浴露疑被灌精液",
-      "onboard_time": 1687922914,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205288,
-      "num": 205288,
-      "word": "毛不易演唱会",
-      "onboard_time": 1687923034,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 204660,
@@ -4915,6 +4923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185316,
+      "num": 185316,
+      "word": "张雪峰名字 符号化",
+      "onboard_time": 1687921532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185302,
       "num": 185302,
       "word": "大热天小伙不走寻常路结果迷路了",
@@ -5103,14 +5119,6 @@
       "num": 174406,
       "word": "缉毒警察的冲锋次序看哭了",
       "onboard_time": 1687834835,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173261,
-      "num": 173261,
-      "word": "张雪峰名字 符号化",
-      "onboard_time": 1687921532,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -5851,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72351,
+      "num": 1355109,
+      "word": "成都大运会倒计时1个月",
+      "onboard_time": 1687922674,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 72052,
       "num": 72052,
       "word": "孟子义特别好的男生朋友没王鹤棣",
@@ -5929,14 +5945,6 @@
       "onboard_time": 1687697495,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45338,
-      "num": 1355109,
-      "word": "成都大运会倒计时1个月",
-      "onboard_time": 1687922674,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 45100,

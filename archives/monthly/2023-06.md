@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 11:32:00
+本榜单时间：2023/06/01 00:21:59 ~ 2023/06/28 11:41:21
 </p>
 </blockquote>
 <p>
@@ -3771,6 +3771,12 @@ Uzi复出首胜（热度：1475115）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E4%BA%B2%E5%90%BBSelina%23" target="weibo">
+陈建州曾在节目中亲吻Selina（热度：1468290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%AE%96%E7%A7%91%E5%A4%87%E5%AD%95%E5%8C%BB%E5%98%B1%23" target="weibo">
 生殖科备孕医嘱（热度：1467905）
 </a>
@@ -4917,6 +4923,12 @@ Angelababy回归 跑男收视率（热度：1255756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23" target="weibo">
+和对象一起入职当天被辞退了（热度：1254488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%23" target="weibo">
 炎亚纶（热度：1252797）
 </a>
@@ -5097,12 +5109,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E4%BA%B2%E5%90%BBSelina%23" target="weibo">
-陈建州曾在节目中亲吻Selina（热度：1220806）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E6%89%93%E6%89%AE%E7%9A%84%E5%A5%B3%E5%8F%8B%E5%92%8C%E9%9A%8F%E6%84%8F%E7%9A%84%E7%94%B7%E5%8F%8B%23" target="weibo">
 过度打扮的女友和随意的男友（热度：1220666）
 </a>
@@ -5255,12 +5261,6 @@ TFBOYS为王源下个路口打call（热度：1232357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E5%9D%A0%E4%BA%A1%23" target="weibo">
 警方回应校内被撞身亡小学生母亲坠亡（热度：1191166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AF%B9%E8%B1%A1%E4%B8%80%E8%B5%B7%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86%23" target="weibo">
-和对象一起入职当天被辞退了（热度：1191077）
 </a>
 </li>
 
