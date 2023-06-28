@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/28 00:25:39 ~ 2023/06/28 15:18:12
+本榜单时间：2023/06/28 00:25:39 ~ 2023/06/28 15:34:46
 </p>
 </blockquote>
 <p>
@@ -27,14 +27,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF%23" target="weibo">
-向太叫林有慧媳妇儿（热度：2853241）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23" target="weibo">
+陈建州起诉大牙（热度：2889479）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23" target="weibo">
-陈建州起诉大牙（热度：2832850）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%8F%AB%E6%9E%97%E6%9C%89%E6%85%A7%E5%AA%B3%E5%A6%87%E5%84%BF%23" target="weibo">
+向太叫林有慧媳妇儿（热度：2853241）
 </a>
 </li>
 
@@ -225,6 +225,12 @@ B站崩了（热度：1374173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
+鹿晗的提词器（热度：974611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%B0%8F%E9%BE%99%E8%99%BE%E7%BE%8E%E7%94%B2%E5%8F%98%E7%BB%BF%E4%BA%86%23" target="weibo">
 吃完小龙虾美甲变绿了（热度：970115）
 </a>
@@ -267,6 +273,12 @@ B站崩了（热度：1374173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB%23" target="weibo">
+年轻人唯一有点把握的是单身（热度：753833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%8DCT%E4%B9%8B%E5%89%8D%E8%AE%B0%E5%BE%97%E4%B8%8A%E4%B8%AA%E5%8E%95%E6%89%80%23" target="weibo">
 拍CT之前记得上个厕所（热度：753164）
 </a>
@@ -281,6 +293,12 @@ B站崩了（热度：1374173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%913%E6%B3%95%E5%99%A8%E6%98%AF%E7%94%A8%E5%A9%9A%E6%88%92%E5%81%9A%E7%9A%84%23" target="weibo">
 仙剑3法器是用婚戒做的（热度：740209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8F%AB%E6%9C%B1%E4%B8%80%E9%BE%99%E8%80%81%E5%85%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+陈思诚叫朱一龙老公的反应（热度：721123）
 </a>
 </li>
 
@@ -359,12 +377,6 @@ GQ编辑说张艺兴好辣（热度：593357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E6%9B%BE%E9%82%80%E6%B2%88%E7%8E%89%E7%90%B3%E8%BF%9B%E6%9A%97%E9%BB%91%E7%BE%A4%E7%BB%84%23" target="weibo">
 陈建州曾邀沈玉琳进暗黑群组（热度：588626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%94%AF%E4%B8%80%E6%9C%89%E7%82%B9%E6%8A%8A%E6%8F%A1%E7%9A%84%E6%98%AF%E5%8D%95%E8%BA%AB%23" target="weibo">
-年轻人唯一有点把握的是单身（热度：586612）
 </a>
 </li>
 
@@ -477,12 +489,6 @@ A股（热度：472324）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
-鹿晗的提词器（热度：466819）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6QS%E6%8E%92%E5%90%8D%E7%AC%AC17%23" target="weibo">
 北京大学QS排名第17（热度：466385）
 </a>
@@ -549,12 +555,6 @@ A股（热度：472324）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8F%AB%E6%9C%B1%E4%B8%80%E9%BE%99%E8%80%81%E5%85%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-陈思诚叫朱一龙老公的反应（热度：422199）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A6%88%E5%A6%88%E7%96%AF%E7%8B%82%E4%BD%9C%E6%8F%96%E7%A5%88%E6%B1%82%E4%B8%BB%E4%BA%BA%E6%95%91%E5%8E%BB%E4%B8%96%E5%B9%BC%E5%B4%BD%23" target="weibo">
 狗妈妈疯狂作揖祈求主人救去世幼崽（热度：421237）
 </a>
@@ -615,6 +615,12 @@ EDG（热度：381595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%A5%E9%B8%A1%E8%9B%8B%E5%89%A5%E5%87%BA%E4%BA%86%E5%B0%8F%E7%8B%97%E7%9A%84%E7%88%AA%E5%AD%90%23" target="weibo">
+剥鸡蛋剥出了小狗的爪子（热度：370598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23" target="weibo">
 女孩考上清华家人放烟花前向邻居报备（热度：365570）
 </a>
@@ -641,6 +647,12 @@ EDG（热度：381595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E6%9D%86%E7%88%AC%E7%9A%84%E7%86%8A%E5%AD%A9%E5%AD%90%E8%BF%99%E6%98%AF%E5%AE%9E%E9%94%A4%E4%BA%86%23" target="weibo">
 顺杆爬的熊孩子这是实锤了（热度：357676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E6%B0%91%E8%AD%A6%E5%BC%BA%E5%A5%B8%23" target="weibo">
+警方回应女子称被民警强奸（热度：346441）
 </a>
 </li>
 
@@ -701,12 +713,6 @@ Uzi现身国家集训队（热度：332145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E5%AD%A6%E5%A3%AB%E6%9C%8D%E8%B7%B3%E8%88%9E%23" target="weibo">
 浙大毕业生穿马面裙学士服跳舞（热度：319670）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%A5%E9%B8%A1%E8%9B%8B%E5%89%A5%E5%87%BA%E4%BA%86%E5%B0%8F%E7%8B%97%E7%9A%84%E7%88%AA%E5%AD%90%23" target="weibo">
-剥鸡蛋剥出了小狗的爪子（热度：318436）
 </a>
 </li>
 
@@ -831,14 +837,14 @@ Uzi现身国家集训队（热度：332145）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E9%81%9B%E8%9D%B4%E8%9D%B6%23" target="weibo">
-现在开始流行遛蝴蝶（热度：281671）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%91%E7%A8%9A%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BA%86%23" target="weibo">
+桑稚终于不是妹妹了（热度：283585）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%91%E7%A8%9A%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E5%A6%B9%E5%A6%B9%E4%BA%86%23" target="weibo">
-桑稚终于不是妹妹了（热度：276896）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E9%81%9B%E8%9D%B4%E8%9D%B6%23" target="weibo">
+现在开始流行遛蝴蝶（热度：281671）
 </a>
 </li>
 
@@ -975,6 +981,12 @@ Uzi现身国家集训队（热度：332145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%8F%E6%98%8E%E4%BE%A0%E4%BE%A3%E6%92%A4%E6%A1%A3%23" target="weibo">
+透明侠侣撤档（热度：229295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E5%B8%A6%E6%88%91%E4%BB%AC%E5%8E%BB%E6%B5%B7%E8%BE%B9%23" target="weibo">
 老板不想上班带我们去海边（热度：229000）
 </a>
@@ -1035,20 +1047,26 @@ Uzi现身国家集训队（热度：332145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E9%83%BD%E4%B8%8D%E5%96%9D%E7%9A%84%E9%9F%A9%E5%BC%8F%E7%83%A7%E9%85%92%23" target="weibo">
+韩国医生都不喝的韩式烧酒（热度：212254）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8B%AC%E8%87%AA%E4%B8%8A%E5%B1%B1%E5%9D%90%E7%88%B8%E7%88%B8%E5%9D%9F%E5%89%8D%E8%AE%B2%E6%95%85%E4%BA%8B%23" target="weibo">
 女孩独自上山坐爸爸坟前讲故事（热度：210880）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E5%8D%81%E5%9C%BA%E5%90%BB%E6%88%8F%23" target="weibo">
-赵露思陈哲远十场吻戏（热度：209004）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%8F%E8%B1%AA%E4%B8%9C%E8%8E%9E%23" target="weibo">
+周柏豪东莞（热度：209897）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%8F%E6%98%8E%E4%BE%A0%E4%BE%A3%E6%92%A4%E6%A1%A3%23" target="weibo">
-透明侠侣撤档（热度：208601）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E5%8D%81%E5%9C%BA%E5%90%BB%E6%88%8F%23" target="weibo">
+赵露思陈哲远十场吻戏（热度：209004）
 </a>
 </li>
 
@@ -1107,6 +1125,12 @@ Uzi现身国家集训队（热度：332145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%BB%91%E8%83%B6%23" target="weibo">
+林俊杰黑胶（热度：199215）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E6%96%87%E5%92%8F%E7%8F%8A%E5%B7%B2%E7%BB%8F%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 才知道文咏珊已经结婚了（热度：199191）
 </a>
@@ -1157,6 +1181,12 @@ Uzi现身国家集训队（热度：332145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%90%8D%E5%AD%97%20%E7%AC%A6%E5%8F%B7%E5%8C%96%23" target="weibo">
 张雪峰名字 符号化（热度：185316）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%8A%8A%E7%8B%97%E5%AD%90%E7%9A%84%E9%9B%B6%E9%A3%9F%E8%97%8F%E4%BA%86%E8%B5%B7%E6%9D%A5%23" target="weibo">
+当你把狗子的零食藏了起来（热度：184085）
 </a>
 </li>
 
@@ -1311,6 +1341,12 @@ Uzi现身国家集训队（热度：332145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%87%E9%93%81%E7%9A%AE%E6%8C%A1%E8%B7%AF%E5%81%9C%E8%BD%A6%E7%8B%AC%E8%87%AA%E6%8C%AA%E5%BC%80%23" target="weibo">
+男子高速遇铁皮挡路停车独自挪开（热度：83536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%AF%94%E6%A0%BC%E7%8A%AC%E8%80%B3%E6%9C%B5%E5%8D%A1%E5%85%A5%E7%A2%8E%E7%BA%B8%E6%9C%BA%E8%A2%AB%E6%95%91%E5%87%BA%23" target="weibo">
 杭州比格犬耳朵卡入碎纸机被救出（热度：83210）
 </a>
@@ -1347,14 +1383,14 @@ JennieTheidol剧照（热度：49022）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E9%81%87%E9%93%81%E7%9A%AE%E6%8C%A1%E8%B7%AF%E5%81%9C%E8%BD%A6%E7%8B%AC%E8%87%AA%E6%8C%AA%E5%BC%80%23" target="weibo">
-男子高速遇铁皮挡路停车独自挪开（热度：39327）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E7%BD%97%E5%88%B9%23" target="weibo">
+星穹铁道罗刹（热度：33127）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E7%BD%97%E5%88%B9%23" target="weibo">
-星穹铁道罗刹（热度：33127）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9F%BA%E5%BB%BA%23" target="weibo">
+穿越中国新基建（热度：21879）
 </a>
 </li>
 

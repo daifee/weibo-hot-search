@@ -1,0 +1,410 @@
+{
+  "runTime": 1687937686848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2889479,
+        "num": 2889479,
+        "word": "陈建州起诉大牙",
+        "onboard_time": 1687935335,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974611,
+        "num": 974611,
+        "word": "鹿晗的提词器",
+        "onboard_time": 1687935816,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21879,
+        "num": 965978,
+        "word": "穿越中国新基建",
+        "onboard_time": 1687922554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1709134,
+        "num": 963965,
+        "word": "普京曾有意杀死普里戈任",
+        "onboard_time": 1687932516,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 977906,
+        "num": 963557,
+        "word": "B站崩了",
+        "onboard_time": 1687934195,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 961559,
+        "num": 961559,
+        "word": "吃完小龙虾美甲变绿了",
+        "onboard_time": 1687933956,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 913460,
+        "num": 913460,
+        "word": "王一博官宣还是这图",
+        "onboard_time": 1687928140,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 753833,
+        "num": 753833,
+        "word": "年轻人唯一有点把握的是单身",
+        "onboard_time": 1687934316,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 721123,
+        "num": 721123,
+        "word": "陈思诚叫朱一龙老公的反应",
+        "onboard_time": 1687935874,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601201,
+        "num": 601201,
+        "word": "双休和月休八天有什么区别",
+        "onboard_time": 1687920574,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2213911,
+        "num": 590332,
+        "word": "文具店处女证",
+        "onboard_time": 1687932397,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509324,
+        "num": 509324,
+        "word": "聊半年的暧昧对象突然领证了",
+        "onboard_time": 1687924776,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464993,
+        "num": 464993,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461524,
+        "num": 461524,
+        "word": "GQ编辑说张艺兴好辣",
+        "onboard_time": 1687932875,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83536,
+        "num": 433167,
+        "word": "男子高速遇铁皮挡路停车独自挪开",
+        "onboard_time": 1687935634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420041,
+        "num": 420041,
+        "word": "林有慧的钻戒好大",
+        "onboard_time": 1687925497,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397121,
+        "num": 397121,
+        "word": "陈哲远三部剧都搭档甜妹",
+        "onboard_time": 1687932155,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396882,
+        "num": 396882,
+        "word": "李铁",
+        "onboard_time": 1687925921,
+        "rank": 17,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 370598,
+        "num": 370598,
+        "word": "剥鸡蛋剥出了小狗的爪子",
+        "onboard_time": 1687936054,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363212,
+        "num": 363212,
+        "word": "陈建州曾在节目中亲吻Selina",
+        "onboard_time": 1687921053,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984722,
+        "num": 363088,
+        "word": "表妹考了620分被舅妈骂一下午",
+        "onboard_time": 1687931379,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 362786,
+        "num": 362786,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346441,
+        "num": 346441,
+        "word": "警方回应女子称被民警强奸",
+        "onboard_time": 1687937021,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328194,
+        "num": 328194,
+        "word": "萧敬腾求婚好多地方下雨",
+        "onboard_time": 1687921355,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322633,
+        "num": 322633,
+        "word": "杨幂说谢依霖把密逃录成了恋综",
+        "onboard_time": 1687935155,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315689,
+        "num": 315689,
+        "word": "我爱你 大闹孝宴",
+        "onboard_time": 1687935816,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312830,
+        "num": 312830,
+        "word": "婆婆把我喂奶视频发到群里",
+        "onboard_time": 1687911095,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309790,
+        "num": 309790,
+        "word": "刘亦菲入围首尔电视剧大赏最佳女主",
+        "onboard_time": 1687930656,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298251,
+        "num": 298251,
+        "word": "消失的她海报画着李木子就在海底",
+        "onboard_time": 1687926101,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186011,
+        "num": 284452,
+        "word": "我的博士路是爸妈用无数碗面铺就的",
+        "onboard_time": 1687934195,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 283585,
+        "num": 283585,
+        "word": "桑稚终于不是妹妹了",
+        "onboard_time": 1687936175,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282094,
+        "num": 282094,
+        "word": "面部留白多学赵露思变美思路",
+        "onboard_time": 1687932633,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 265449,
+        "num": 265449,
+        "word": "iPhone拍照掉队了吗",
+        "onboard_time": 1687928441,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257574,
+        "num": 257574,
+        "word": "广州宝马撞人案",
+        "onboard_time": 1687929637,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247180,
+        "num": 247180,
+        "word": "李宇春官宣2023湾区升明月",
+        "onboard_time": 1687934255,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231111,
+        "num": 231111,
+        "word": "EDG",
+        "onboard_time": 1687932875,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229295,
+        "num": 229295,
+        "word": "透明侠侣撤档",
+        "onboard_time": 1687936653,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228344,
+        "num": 228344,
+        "word": "曝长沙一酒店沐浴露疑被灌精液",
+        "onboard_time": 1687914997,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224272,
+        "num": 224272,
+        "word": "单亲妈妈打工14年供出3名大学生",
+        "onboard_time": 1687932633,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215133,
+        "num": 215133,
+        "word": "同事怀孕后一直请假我离职了",
+        "onboard_time": 1687911338,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212254,
+        "num": 212254,
+        "word": "韩国医生都不喝的韩式烧酒",
+        "onboard_time": 1687937195,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209897,
+        "num": 209897,
+        "word": "周柏豪东莞",
+        "onboard_time": 1687937136,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207939,
+        "num": 207939,
+        "word": "这分明是幼儿高级职业技术学院",
+        "onboard_time": 1687935396,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199215,
+        "num": 199215,
+        "word": "林俊杰黑胶",
+        "onboard_time": 1687935997,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194937,
+        "num": 194937,
+        "word": "易梦玲回应加沈月微信",
+        "onboard_time": 1687932516,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186822,
+        "num": 186822,
+        "word": "人民日报评相关企业拒聘川大学生",
+        "onboard_time": 1687916735,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184085,
+        "num": 184085,
+        "word": "当你把狗子的零食藏了起来",
+        "onboard_time": 1687936715,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 161829,
+        "word": "杨幂密逃袒露最惭愧的事",
+        "onboard_time": 1687930958,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156876,
+        "num": 156876,
+        "word": "肖战机场",
+        "onboard_time": 1687915416,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154323,
+        "num": 154323,
+        "word": "没想到领导被打脸来得这么快",
+        "onboard_time": 1687936475,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方是蒙古国可以信赖和倚重的伙伴#"
+    }
+  }
+}

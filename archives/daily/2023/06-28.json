@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687936692397,
+  "endTime": 1687937686848,
   "band_list": [
     {
       "raw_hot": 3142273,
@@ -19,19 +19,19 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 2889479,
+      "num": 2889479,
+      "word": "陈建州起诉大牙",
+      "onboard_time": 1687935335,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2853241,
       "num": 743235,
       "word": "向太叫林有慧媳妇儿",
       "onboard_time": 1687913379,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2832850,
-      "num": 2832850,
-      "word": "陈建州起诉大牙",
-      "onboard_time": 1687935335,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 974611,
+      "num": 974611,
+      "word": "鹿晗的提词器",
+      "onboard_time": 1687935816,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 970115,
       "num": 970115,
       "word": "吃完小龙虾美甲变绿了",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753833,
+      "num": 753833,
+      "word": "年轻人唯一有点把握的是单身",
+      "onboard_time": 1687934316,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 753164,
       "num": 753164,
       "word": "拍CT之前记得上个厕所",
@@ -360,6 +376,14 @@
       "word": "仙剑3法器是用婚戒做的",
       "onboard_time": 1687913018,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 721123,
+      "num": 721123,
+      "word": "陈思诚叫朱一龙老公的反应",
+      "onboard_time": 1687935874,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -465,14 +489,6 @@
       "onboard_time": 1687869703,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586612,
-      "num": 586612,
-      "word": "年轻人唯一有点把握的是单身",
-      "onboard_time": 1687934316,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 586486,
@@ -619,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466819,
-      "num": 466819,
-      "word": "鹿晗的提词器",
-      "onboard_time": 1687935816,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 466385,
       "num": 466385,
       "word": "北京大学QS排名第17",
@@ -715,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422199,
-      "num": 422199,
-      "word": "陈思诚叫朱一龙老公的反应",
-      "onboard_time": 1687935874,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 421237,
       "num": 421237,
       "word": "狗妈妈疯狂作揖祈求主人救去世幼崽",
@@ -803,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370598,
+      "num": 370598,
+      "word": "剥鸡蛋剥出了小狗的爪子",
+      "onboard_time": 1687936054,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365570,
       "num": 365570,
       "word": "女孩考上清华家人放烟花前向邻居报备",
@@ -841,6 +849,14 @@
       "onboard_time": 1687930118,
       "rank": 25,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 346441,
+      "num": 346441,
+      "word": "警方回应女子称被民警强奸",
+      "onboard_time": 1687937021,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345763,
@@ -921,14 +937,6 @@
       "onboard_time": 1687920814,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 318436,
-      "num": 318436,
-      "word": "剥鸡蛋剥出了小狗的爪子",
-      "onboard_time": 1687936054,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 317413,
@@ -1091,20 +1099,20 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 283585,
+      "num": 283585,
+      "word": "桑稚终于不是妹妹了",
+      "onboard_time": 1687936175,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281671,
       "num": 281671,
       "word": "现在开始流行遛蝴蝶",
       "onboard_time": 1687926945,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 276896,
-      "num": 276896,
-      "word": "桑稚终于不是妹妹了",
-      "onboard_time": 1687936175,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 272045,
@@ -1283,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229295,
+      "num": 229295,
+      "word": "透明侠侣撤档",
+      "onboard_time": 1687936653,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229000,
       "num": 229000,
       "word": "老板不想上班带我们去海边",
@@ -1363,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212254,
+      "num": 212254,
+      "word": "韩国医生都不喝的韩式烧酒",
+      "onboard_time": 1687937195,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210880,
       "num": 210880,
       "word": "女孩独自上山坐爸爸坟前讲故事",
@@ -1371,19 +1395,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209897,
+      "num": 209897,
+      "word": "周柏豪东莞",
+      "onboard_time": 1687937136,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209004,
       "num": 209004,
       "word": "赵露思陈哲远十场吻戏",
       "onboard_time": 1687918115,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208601,
-      "num": 208601,
-      "word": "透明侠侣撤档",
-      "onboard_time": 1687936653,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -1459,6 +1483,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 199215,
+      "num": 199215,
+      "word": "林俊杰黑胶",
+      "onboard_time": 1687935997,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199191,
       "num": 199191,
       "word": "才知道文咏珊已经结婚了",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1687921532,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184085,
+      "num": 184085,
+      "word": "当你把狗子的零食藏了起来",
+      "onboard_time": 1687936715,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 183798,
@@ -1731,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83536,
+      "num": 466299,
+      "word": "男子高速遇铁皮挡路停车独自挪开",
+      "onboard_time": 1687935634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83210,
       "num": 84936,
       "word": "杭州比格犬耳朵卡入碎纸机被救出",
@@ -1779,20 +1827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 39327,
-      "num": 466299,
-      "word": "男子高速遇铁皮挡路停车独自挪开",
-      "onboard_time": 1687935634,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33127,
       "num": 33127,
       "word": "星穹铁道罗刹",
       "onboard_time": 1687892115,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21879,
+      "num": 965978,
+      "word": "穿越中国新基建",
+      "onboard_time": 1687922554,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12370,
