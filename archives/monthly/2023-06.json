@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687983605349,
+  "endTime": 1687984429191,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -67603,6 +67603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22704,
+      "num": 28627,
+      "word": "每年都说是有史以来最热的一年",
+      "onboard_time": 1687972699,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22077,
       "num": 28235,
       "word": "高叶 常州",
@@ -67617,14 +67625,6 @@
       "onboard_time": 1686384028,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21889,
-      "num": 28627,
-      "word": "每年都说是有史以来最热的一年",
-      "onboard_time": 1687972699,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 21576,
