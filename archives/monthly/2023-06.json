@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1687980818502,
+  "endTime": 1687983605349,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -67619,6 +67619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 21889,
+      "num": 28627,
+      "word": "每年都说是有史以来最热的一年",
+      "onboard_time": 1687972699,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21576,
       "num": 33238,
       "word": "宋佳风雨云剧照",
@@ -67665,14 +67673,6 @@
       "onboard_time": 1687595494,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20669,
-      "num": 28627,
-      "word": "每年都说是有史以来最热的一年",
-      "onboard_time": 1687972699,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 20349,
