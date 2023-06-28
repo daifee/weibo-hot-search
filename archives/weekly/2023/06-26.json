@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687921201177,
+  "endTime": 1687921757245,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2505148,
+      "num": 2505148,
+      "word": "喜茶奈雪为何又不香了",
+      "onboard_time": 1687913618,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2480408,
       "num": 1447741,
       "word": "肖战王一博早期吃火锅视频",
       "onboard_time": 1687872522,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2458371,
-      "num": 2458371,
-      "word": "喜茶奈雪为何又不香了",
-      "onboard_time": 1687913618,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2427374,
@@ -411,6 +411,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1745124,
+      "num": 1745124,
+      "word": "韩综用国歌做BGM",
+      "onboard_time": 1687918474,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1674534,
       "num": 1674534,
       "word": "张雪峰曾称每年仅讲课就能挣几百万",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1609152,
+      "num": 1609152,
+      "word": "人民日报评相关企业拒聘川大学生",
+      "onboard_time": 1687916735,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1564820,
       "num": 1564820,
       "word": "高考377分复读一年逆袭677分",
@@ -491,28 +507,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1511985,
-      "num": 1511985,
-      "word": "人民日报评相关企业拒聘川大学生",
-      "onboard_time": 1687916735,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1498422,
       "num": 1498422,
       "word": "文咏珊早几年都干嘛去了",
       "onboard_time": 1687826562,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1489164,
-      "num": 1489164,
-      "word": "韩综用国歌做BGM",
-      "onboard_time": 1687918474,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1478331,
@@ -761,6 +761,14 @@
       "onboard_time": 1687839648,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041182,
+      "num": 1041182,
+      "word": "和对象一起入职当天被辞退了",
+      "onboard_time": 1687918296,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 1029344,
@@ -1035,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 849971,
-      "num": 849971,
-      "word": "和对象一起入职当天被辞退了",
-      "onboard_time": 1687918296,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 848561,
       "num": 848561,
       "word": "考研二战我关闭了朋友圈一年",
@@ -1179,6 +1179,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 741510,
+      "num": 741510,
+      "word": "消失的她李木子视角",
+      "onboard_time": 1687917517,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740209,
       "num": 740209,
       "word": "仙剑3法器是用婚戒做的",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1687825723,
       "rank": 8,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 733935,
-      "num": 733935,
-      "word": "消失的她李木子视角",
-      "onboard_time": 1687917517,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 730595,
@@ -1547,6 +1547,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 595426,
+      "num": 595426,
+      "word": "黄子韬说挺想宋亚轩的",
+      "onboard_time": 1687919135,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593679,
       "num": 593679,
       "word": "偷偷藏不住发布会",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1687869409,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 591841,
-      "num": 591841,
-      "word": "黄子韬说挺想宋亚轩的",
-      "onboard_time": 1687919135,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 589656,
@@ -1827,6 +1827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525418,
+      "num": 525418,
+      "word": "鹿晗同款卤煮店2小时卖出1200份",
+      "onboard_time": 1687908929,
+      "rank": 17,
+      "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 518918,
+      "num": 518918,
+      "word": "陈建州曾在节目中亲吻Selina",
+      "onboard_time": 1687921053,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517837,
       "num": 490203,
       "word": "WE零封TES",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1687861898,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 511386,
-      "num": 511386,
-      "word": "鹿晗同款卤煮店2小时卖出1200份",
-      "onboard_time": 1687908929,
-      "rank": 17,
-      "category": "美食,艺人"
     },
     {
       "raw_hot": 511019,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1687775025,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492737,
+      "num": 446346,
+      "word": "网传香港回归周年晚会有肖战王一博",
+      "onboard_time": 1687917456,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 488651,
@@ -2147,14 +2163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446346,
-      "num": 446346,
-      "word": "网传香港回归周年晚会有肖战王一博",
-      "onboard_time": 1687917456,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 445729,
       "num": 445729,
       "word": "4岁男童沉迷看医院手术视频",
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 418152,
-      "num": 380903,
+      "num": 384525,
       "word": "成年人最受不了的聊天方式",
       "onboard_time": 1687915719,
       "rank": 31,
@@ -2377,6 +2385,22 @@
       "onboard_time": 1687778502,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407302,
+      "num": 384716,
+      "word": "任敏王源双人海报",
+      "onboard_time": 1687920995,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 406449,
+      "num": 339959,
+      "word": "双休和月休八天有什么区别",
+      "onboard_time": 1687920574,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 405016,
@@ -2667,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356507,
+      "num": 356507,
+      "word": "萧敬腾求婚好多地方下雨",
+      "onboard_time": 1687921355,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356078,
       "num": 416624,
       "word": "鲁A大哥带一箱礼物去认干闺女",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1687704279,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334206,
+      "num": 334206,
+      "word": "快递员恋女客户疑其出轨持刀入室",
+      "onboard_time": 1687919913,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334155,
@@ -3251,14 +3291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300875,
-      "num": 300875,
-      "word": "快递员恋女客户疑其出轨持刀入室",
-      "onboard_time": 1687919913,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299772,
       "num": 299772,
       "word": "花900万日元换头面目全非",
@@ -3491,14 +3523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275441,
-      "num": 275441,
-      "word": "双休和月休八天有什么区别",
-      "onboard_time": 1687920574,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274535,
       "num": 274535,
       "word": "王者新赛季",
@@ -3595,14 +3619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 269816,
-      "num": 269816,
-      "word": "任敏王源双人海报",
-      "onboard_time": 1687920995,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269810,
       "num": 269810,
       "word": "JennieTheidol剧照",
@@ -3625,14 +3641,6 @@
       "onboard_time": 1687878467,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268973,
-      "num": 268973,
-      "word": "陈建州曾在节目中亲吻Selina",
-      "onboard_time": 1687921053,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 268576,
@@ -3737,6 +3745,14 @@
       "onboard_time": 1687863637,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258931,
+      "num": 340105,
+      "word": "浙大毕业生穿马面裙学士服跳舞",
+      "onboard_time": 1687920814,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 258705,
@@ -4169,6 +4185,14 @@
       "onboard_time": 1687861062,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227375,
+      "num": 227375,
+      "word": "七仔父母首次曝光",
+      "onboard_time": 1687920937,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227166,
@@ -4811,6 +4835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "电影频道",
+      "onboard_time": 1687921653,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186973,
       "num": 186973,
       "word": "石家庄",
@@ -4865,14 +4897,6 @@
       "onboard_time": 1687863819,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183846,
-      "num": 183846,
-      "word": "浙大毕业生穿马面裙学士服跳舞",
-      "onboard_time": 1687920814,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 183798,
@@ -4987,6 +5011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179446,
+      "num": 179446,
+      "word": "感动全网的环卫工儿子填志愿求助",
+      "onboard_time": 1687921714,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 179233,
       "num": 179233,
       "word": "什么东西是全国统一零售价",
@@ -5097,6 +5129,14 @@
       "onboard_time": 1687824577,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 170110,
+      "num": 170110,
+      "word": "张雪峰名字 符号化",
+      "onboard_time": 1687921532,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169538,
