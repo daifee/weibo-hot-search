@@ -1,0 +1,410 @@
+{
+  "runTime": 1687943961656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4075577,
+        "num": 4075577,
+        "word": "蔡徐坤巡演将如期举行",
+        "onboard_time": 1687939717,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1391280,
+        "num": 1391280,
+        "word": "知情人讲述男子反复碾压妻子致死",
+        "onboard_time": 1687940916,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34087,
+        "num": 1223093,
+        "word": "穿越中国新基建",
+        "onboard_time": 1687922554,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174557,
+        "num": 1174557,
+        "word": "山河大学",
+        "onboard_time": 1687942417,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1098181,
+        "num": 1098181,
+        "word": "GQ主编评价宋妍霏衣服闪瞎",
+        "onboard_time": 1687942055,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 971464,
+        "num": 971464,
+        "word": "鹿晗的提词器",
+        "onboard_time": 1687935816,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 909478,
+        "num": 909478,
+        "word": "肖战抵达香港",
+        "onboard_time": 1687940075,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767646,
+        "num": 767646,
+        "word": "普京曾有意杀死普里戈任",
+        "onboard_time": 1687932516,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 644612,
+        "num": 644612,
+        "word": "韩国医生都不喝的韩式烧酒",
+        "onboard_time": 1687937195,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 638290,
+        "num": 638290,
+        "word": "王一博官宣还是这图",
+        "onboard_time": 1687928140,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2774164,
+        "num": 586891,
+        "word": "范玮琪终于出现了",
+        "onboard_time": 1687937916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1111933,
+        "num": 584776,
+        "word": "文具店处女证",
+        "onboard_time": 1687932397,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720022,
+        "num": 559993,
+        "word": "陈妍希颖儿带娃逛迪士尼",
+        "onboard_time": 1687940558,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487712,
+        "num": 487712,
+        "word": "肖战王一博会同台吗",
+        "onboard_time": 1687943261,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43488,
+        "num": 475266,
+        "word": "5岁女儿去世妈妈捐器官给生病孩童",
+        "onboard_time": 1687942892,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472707,
+        "num": 472707,
+        "word": "吃完小龙虾美甲变绿了",
+        "onboard_time": 1687933956,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 433094,
+        "num": 433094,
+        "word": "陈建州起诉大牙",
+        "onboard_time": 1687935335,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390801,
+        "num": 390801,
+        "word": "咒术回战",
+        "onboard_time": 1687938873,
+        "rank": 17,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 389821,
+        "num": 389821,
+        "word": "上海合格考",
+        "onboard_time": 1687943493,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 382799,
+        "num": 382799,
+        "word": "萧敬腾求婚好多地方下雨",
+        "onboard_time": 1687921355,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 897596,
+        "num": 381930,
+        "word": "瞒着父母偷偷买了一套房子",
+        "onboard_time": 1687939536,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 751887,
+        "num": 380911,
+        "word": "表妹考了620分被舅妈骂一下午",
+        "onboard_time": 1687931379,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 708544,
+        "num": 379923,
+        "word": "为什么身上会突然多了很多痣",
+        "onboard_time": 1687939057,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 577996,
+        "num": 379239,
+        "word": "近视500度但看东西很清楚",
+        "onboard_time": 1687940854,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378453,
+        "num": 378453,
+        "word": "陈思诚叫朱一龙老公的反应",
+        "onboard_time": 1687935874,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368517,
+        "num": 368517,
+        "word": "B站崩了",
+        "onboard_time": 1687934195,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 323425,
+        "num": 323425,
+        "word": "00后小伙把网红蛙带到了川西",
+        "onboard_time": 1687939294,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 308915,
+        "num": 308915,
+        "word": "杨幂工作室吊我胃口",
+        "onboard_time": 1687943857,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277165,
+        "num": 277165,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95242,
+        "num": 273946,
+        "word": "卢卡申科证实普里戈任在白俄罗斯",
+        "onboard_time": 1687940854,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272494,
+        "num": 272494,
+        "word": "透明侠侣撤档",
+        "onboard_time": 1687936653,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271515,
+        "num": 271515,
+        "word": "陈建州曾在节目中亲蔡康永",
+        "onboard_time": 1687942293,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259282,
+        "num": 259282,
+        "word": "婆婆把我喂奶视频发到群里",
+        "onboard_time": 1687911095,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258857,
+        "num": 258857,
+        "word": "年轻人唯一有点把握的是单身",
+        "onboard_time": 1687934316,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 247602,
+        "num": 247602,
+        "word": "农村三胞胎姐妹均高分超一本线",
+        "onboard_time": 1687943376,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 213816,
+        "num": 213816,
+        "word": "中国女篮vs韩国女篮",
+        "onboard_time": 1687943918,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213375,
+        "num": 213375,
+        "word": "陈佩斯父子济南护城河边打泉水",
+        "onboard_time": 1687941935,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 205940,
+        "num": 205940,
+        "word": "双休和月休八天有什么区别",
+        "onboard_time": 1687920574,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196129,
+        "num": 196129,
+        "word": "聊半年的暧昧对象突然领证了",
+        "onboard_time": 1687924776,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193982,
+        "num": 193982,
+        "word": "SEVENTEEN的家谱这下全都乱了",
+        "onboard_time": 1687943735,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188053,
+        "num": 188053,
+        "word": "给布偶猫剃毛一定要三思",
+        "onboard_time": 1687941157,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 187055,
+        "num": 187055,
+        "word": "FIFTYFIFTY解约",
+        "onboard_time": 1687938515,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174030,
+        "num": 174030,
+        "word": "广州宝马撞人案",
+        "onboard_time": 1687929637,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172622,
+        "num": 172622,
+        "word": "中传视障硕士回忆12年求学路",
+        "onboard_time": 1687943918,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 172492,
+        "num": 172492,
+        "word": "因为催导师打分结果被删了",
+        "onboard_time": 1687938336,
+        "rank": 44,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 169326,
+        "num": 169326,
+        "word": "陈建州曾在节目中亲吻Selina",
+        "onboard_time": 1687921053,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161536,
+        "num": 161536,
+        "word": "边牧一出来画风都变了",
+        "onboard_time": 1687943673,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158737,
+        "num": 158737,
+        "word": "桑稚终于不是妹妹了",
+        "onboard_time": 1687936175,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158229,
+        "num": 158229,
+        "word": "刘亦菲入围首尔电视剧大赏最佳女主",
+        "onboard_time": 1687930656,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155897,
+        "num": 155897,
+        "word": "还得是李梦",
+        "onboard_time": 1687943918,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方是蒙古国可以信赖和倚重的伙伴#"
+    }
+  }
+}
