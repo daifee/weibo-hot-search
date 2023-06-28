@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/29 00:25:06 ~ 2023/06/29 05:34:04
+本榜单时间：2023/06/29 00:25:06 ~ 2023/06/29 06:18:13
 </p>
 </blockquote>
 <p>
@@ -225,6 +225,12 @@ Uzi卡莎超神（热度：375197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%8B%A6%E7%AD%89%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%E7%86%AC%E5%88%B0%E5%87%8C%E6%99%A8%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23" target="weibo">
+妻子苦等丈夫回家熬到凌晨哭着报警（热度：266989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2328%E4%B8%AA%E6%9C%88%E7%94%B7%E7%AB%A5%E8%AF%AF%E5%85%A5%E7%94%B5%E6%A2%AF%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 28个月男童误入电梯坠楼身亡（热度：264590）
 </a>
@@ -275,12 +281,6 @@ Angelababy脸在江山在（热度：226843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E5%94%B1%E6%AD%8Cvs%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B7%B3%E8%88%9E%23" target="weibo">
 宋轶唱歌vs白敬亭跳舞（热度：214127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%8B%A6%E7%AD%89%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%E7%86%AC%E5%88%B0%E5%87%8C%E6%99%A8%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23" target="weibo">
-妻子苦等丈夫回家熬到凌晨哭着报警（热度：212902）
 </a>
 </li>
 
@@ -359,6 +359,12 @@ GQ红毯谁赢了（热度：114542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E8%80%83%E4%BA%86620%E5%88%86%E8%A2%AB%E8%88%85%E5%A6%88%E9%AA%82%E4%B8%80%E4%B8%8B%E5%8D%88%23" target="weibo">
 表妹考了620分被舅妈骂一下午（热度：47450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%A7%8D%E8%8F%9C%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
+山东人种菜已经进化到这种程度了吗（热度：32412）
 </a>
 </li>
 
