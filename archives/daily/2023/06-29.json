@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1687994384744,
+  "endTime": 1687995239929,
   "band_list": [
     {
       "raw_hot": 2773148,
@@ -25,6 +25,14 @@
       "onboard_time": 1687937916,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1585317,
+      "num": 1585317,
+      "word": "私拆女儿档案的母亲道歉",
+      "onboard_time": 1687993343,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1248364,
@@ -155,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492472,
+      "num": 186307,
+      "word": "领完结婚证岳父给我转了29.8万",
+      "onboard_time": 1687994604,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 491508,
+      "num": 491508,
+      "word": "李沁工作室疑似因造型问题删博",
+      "onboard_time": 1687953632,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 486726,
       "num": 486726,
       "word": "白鹿的体态",
@@ -177,22 +201,6 @@
       "onboard_time": 1687964742,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470671,
-      "num": 470671,
-      "word": "私拆女儿档案的母亲道歉",
-      "onboard_time": 1687993343,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454521,
-      "num": 454521,
-      "word": "李沁工作室疑似因造型问题删博",
-      "onboard_time": 1687953632,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 428538,
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 383385,
+      "num": 383385,
+      "word": "台媒曝陈建州全裸骚扰S妈",
+      "onboard_time": 1687994967,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378426,
       "num": 291730,
       "word": "魏大勋说范丞丞换节目像换了个人",
@@ -233,6 +249,14 @@
       "onboard_time": 1687964620,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330097,
+      "num": 184732,
+      "word": "表妹实习想来我家借住一年",
+      "onboard_time": 1687994666,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 323168,
@@ -299,11 +323,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270535,
+      "num": 270535,
+      "word": "Angelababy脸在江山在",
+      "onboard_time": 1687957836,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264590,
       "num": 273383,
       "word": "28个月男童误入电梯坠楼身亡",
       "onboard_time": 1687954718,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258505,
+      "num": 252148,
+      "word": "第一次见脸这么圆的大熊猫",
+      "onboard_time": 1687969351,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -321,14 +361,6 @@
       "onboard_time": 1687963729,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244988,
-      "num": 244988,
-      "word": "Angelababy脸在江山在",
-      "onboard_time": 1687957836,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 240944,
@@ -353,14 +385,6 @@
       "onboard_time": 1687958679,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228441,
-      "num": 208989,
-      "word": "第一次见脸这么圆的大熊猫",
-      "onboard_time": 1687969351,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216333,
@@ -427,12 +451,36 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 170589,
+      "num": 170589,
+      "word": "陈建州方回应郭源元指控",
+      "onboard_time": 1687995085,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167910,
       "num": 167910,
       "word": "杨幂暗夜精灵",
       "onboard_time": 1687954357,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144592,
+      "num": 144592,
+      "word": "赵丽颖曹可凡合照",
+      "onboard_time": 1687995085,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132077,
+      "num": 132077,
+      "word": "表妹考了620分被舅妈骂一下午",
+      "onboard_time": 1687931379,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 127641,
@@ -443,7 +491,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122241,
+      "raw_hot": 127171,
       "num": 121104,
       "word": "GQ红毯谁赢了",
       "onboard_time": 1687959579,
@@ -459,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115978,
-      "num": 115978,
-      "word": "表妹考了620分被舅妈骂一下午",
-      "onboard_time": 1687931379,
-      "rank": 48,
-      "category": "教育,社会新闻"
+      "raw_hot": 107208,
+      "num": 107208,
+      "word": "鸟鸟总是能精准吐槽",
+      "onboard_time": 1687995208,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 91383,
@@ -499,7 +547,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32037,
+      "raw_hot": 34452,
       "num": 859657,
       "word": "成都大运会边看边玩攻略",
       "onboard_time": 1687955740,
