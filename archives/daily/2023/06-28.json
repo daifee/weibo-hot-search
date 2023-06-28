@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687948688571,
+  "endTime": 1687950971664,
   "band_list": [
     {
       "raw_hot": 4075577,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4057131,
-      "num": 667932,
+      "num": 896639,
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1883839,
+      "num": 1613013,
+      "word": "大牙方回应被起诉",
+      "onboard_time": 1687947872,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1854308,
       "num": 1391280,
       "word": "知情人讲述男子反复碾压妻子致死",
@@ -161,6 +169,14 @@
       "onboard_time": 1687918296,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1762366,
+      "num": 1762366,
+      "word": "胃癌几乎都是吃出来的",
+      "onboard_time": 1687949316,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1745124,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078016,
+      "num": 1078016,
+      "word": "白鹿采访忘词",
+      "onboard_time": 1687948116,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1021043,
       "num": 500579,
       "word": "婆婆把我喂奶视频发到群里",
@@ -371,20 +395,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 957689,
-      "num": 957689,
-      "word": "大牙方回应被起诉",
-      "onboard_time": 1687947872,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 941983,
       "num": 941983,
       "word": "肖战加盟2023湾区升明月",
       "onboard_time": 1687922615,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 922790,
+      "num": 922790,
+      "word": "不要再坐公共场合的按摩椅了",
+      "onboard_time": 1687947453,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 900604,
@@ -459,6 +483,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 812250,
+      "num": 812250,
+      "word": "Lisa深V露背装",
+      "onboard_time": 1687949796,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 790112,
       "num": 490333,
       "word": "一觉醒来同事全离职了",
@@ -507,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 747018,
+      "num": 747018,
+      "word": "张嘉倪小狐狸",
+      "onboard_time": 1687947872,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 741510,
       "num": 741510,
       "word": "消失的她李木子视角",
@@ -529,6 +569,14 @@
       "onboard_time": 1687946194,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 725386,
+      "num": 458898,
+      "word": "上岸第一剑先斩意中人",
+      "onboard_time": 1687948775,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 720022,
@@ -755,12 +803,12 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 524768,
-      "num": 524768,
-      "word": "张嘉倪小狐狸",
-      "onboard_time": 1687947872,
-      "rank": 13,
-      "category": "作品衍生,时尚"
+      "raw_hot": 518355,
+      "num": 518355,
+      "word": "宝格丽活动",
+      "onboard_time": 1687947213,
+      "rank": 42,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 501970,
@@ -803,6 +851,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 483599,
+      "num": 439317,
+      "word": "男子婚前全款买房离婚妻子获赔25%",
+      "onboard_time": 1687949915,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476882,
       "num": 417302,
       "word": "杨幂工作室吊我胃口",
@@ -833,14 +889,6 @@
       "onboard_time": 1687918592,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 471408,
-      "num": 471408,
-      "word": "不要再坐公共场合的按摩椅了",
-      "onboard_time": 1687947453,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 471012,
@@ -963,14 +1011,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 419484,
-      "num": 419484,
-      "word": "白鹿采访忘词",
-      "onboard_time": 1687948116,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418152,
       "num": 384525,
       "word": "成年人最受不了的聊天方式",
@@ -1001,14 +1041,6 @@
       "onboard_time": 1687868558,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 402101,
-      "num": 402101,
-      "word": "宝格丽活动",
-      "onboard_time": 1687947213,
-      "rank": 42,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 392264,
@@ -1235,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314372,
+      "num": 1644860,
+      "word": "北大学生毕业论文致谢流浪猫",
+      "onboard_time": 1687949494,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 313685,
       "num": 313685,
       "word": "黄子韬微信头像是萌探三傻合影",
@@ -1280,6 +1320,30 @@
       "word": "有院子的家 丧夫套餐",
       "onboard_time": 1687932397,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309710,
+      "num": 309710,
+      "word": "得了脚气的小狗",
+      "onboard_time": 1687949854,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 307984,
+      "num": 307984,
+      "word": "何非在海里杀李木子的原因",
+      "onboard_time": 1687947816,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303968,
+      "num": 303968,
+      "word": "赵丽颖幸福到万家入围首尔电视剧大赏",
+      "onboard_time": 1687949432,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1515,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262697,
+      "num": 629360,
+      "word": "老师连续5年给毕业生做蹭饭图",
+      "onboard_time": 1687948713,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262103,
       "num": 262103,
       "word": "吴京在巨齿鲨里叫九溟",
@@ -1611,12 +1683,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235673,
+      "num": 235673,
+      "word": "巨蟹座一定要远离影响自己情绪的人",
+      "onboard_time": 1687949494,
+      "rank": 39,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 232697,
       "num": 232697,
       "word": "弟弟年纪轻轻的说话还挺谨慎",
       "onboard_time": 1687915476,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230370,
+      "num": 230370,
+      "word": "宋祖儿绣球花仙子",
+      "onboard_time": 1687950515,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230009,
@@ -1632,14 +1720,6 @@
       "word": "倪妮感谢十亿有你",
       "onboard_time": 1687876607,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 229426,
-      "num": 229426,
-      "word": "何非在海里杀李木子的原因",
-      "onboard_time": 1687947816,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -2083,12 +2163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166129,
+      "num": 166129,
+      "word": "王阳是GQ派对主持人",
+      "onboard_time": 1687950874,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165077,
       "num": 165077,
       "word": "林俊杰专辑预购",
       "onboard_time": 1687881636,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162259,
+      "num": 162259,
+      "word": "陪爷爷奶奶下地干活的小狗",
+      "onboard_time": 1687949977,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 161536,
@@ -2153,6 +2249,14 @@
       "onboard_time": 1687939832,
       "rank": 29,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 137980,
+      "num": 303735,
+      "word": "时尚撞上艺术有多酷",
+      "onboard_time": 1687949198,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 136474,
@@ -2353,6 +2457,14 @@
       "onboard_time": 1687892115,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26191,
+      "num": 600941,
+      "word": "8名警员接力背受伤女孩放学1个月",
+      "onboard_time": 1687950034,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12370,
