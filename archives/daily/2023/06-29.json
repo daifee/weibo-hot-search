@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1687979739550,
+  "endTime": 1687980818502,
   "band_list": [
     {
       "raw_hot": 2773148,
@@ -473,6 +473,14 @@
       "onboard_time": 1687955740,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20669,
+      "num": 28627,
+      "word": "每年都说是有史以来最热的一年",
+      "onboard_time": 1687972699,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
