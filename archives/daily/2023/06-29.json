@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1687976636717,
+  "endTime": 1687977478342,
   "band_list": [
     {
       "raw_hot": 2773148,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59126,
+      "num": 59126,
+      "word": "78级物理专业高考生的报考建议",
+      "onboard_time": 1687975516,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 56146,
       "num": 74928,
       "word": "教育的意义",
@@ -449,14 +457,6 @@
       "onboard_time": 1687935335,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48052,
-      "num": 51747,
-      "word": "78级物理专业高考生的报考建议",
-      "onboard_time": 1687975516,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 47450,
