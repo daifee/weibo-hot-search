@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687933521432,
+  "endTime": 1687934371628,
   "band_list": [
     {
       "raw_hot": 3142273,
@@ -91,6 +91,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1845605,
+      "num": 1459464,
+      "word": "普京曾有意杀死普里戈任",
+      "onboard_time": 1687932516,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1810302,
       "num": 1810302,
       "word": "和对象一起入职当天被辞退了",
@@ -107,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1695956,
+      "num": 1695956,
+      "word": "李铁",
+      "onboard_time": 1687925921,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1634621,
       "num": 1634621,
       "word": "消失的她又双叒票房逆跌了",
       "onboard_time": 1687877324,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1572972,
-      "num": 1572972,
-      "word": "李铁",
-      "onboard_time": 1687925921,
-      "rank": 36,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1564820,
@@ -139,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1475367,
+      "num": 517968,
+      "word": "文具店处女证",
+      "onboard_time": 1687932397,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1470833,
       "num": 633104,
       "word": "台媒曝范玮琪失联",
       "onboard_time": 1687855960,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1459464,
-      "num": 1459464,
-      "word": "普京曾有意杀死普里戈任",
-      "onboard_time": 1687932516,
-      "rank": 3,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1450477,
@@ -235,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1063468,
-      "num": 416414,
+      "raw_hot": 1071720,
+      "num": 421533,
       "word": "表妹考了620分被舅妈骂一下午",
       "onboard_time": 1687931379,
       "rank": 20,
@@ -280,14 +288,6 @@
       "word": "日本警方逮捕一名中国籍研究员",
       "onboard_time": 1687923934,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 841912,
-      "num": 517968,
-      "word": "文具店处女证",
-      "onboard_time": 1687932397,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -363,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688286,
+      "num": 688286,
+      "word": "iPhone拍照掉队了吗",
+      "onboard_time": 1687928441,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 661154,
       "num": 661154,
       "word": "刘亦菲入围首尔电视剧大赏最佳女主",
       "onboard_time": 1687930656,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660891,
-      "num": 660891,
-      "word": "iPhone拍照掉队了吗",
-      "onboard_time": 1687928441,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 655046,
@@ -465,6 +465,14 @@
       "onboard_time": 1687914338,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562034,
+      "num": 562034,
+      "word": "我的博士路是爸妈用无数碗面铺就的",
+      "onboard_time": 1687934195,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 557639,
@@ -563,6 +571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 470385,
+      "num": 470385,
+      "word": "陈哲远三部剧都搭档甜妹",
+      "onboard_time": 1687932155,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466385,
       "num": 466385,
       "word": "北京大学QS排名第17",
@@ -579,20 +595,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459910,
-      "num": 459910,
-      "word": "陈哲远三部剧都搭档甜妹",
-      "onboard_time": 1687932155,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 457776,
       "num": 367411,
       "word": "每天下午三点下班你愿意单休吗",
       "onboard_time": 1687913259,
       "rank": 22,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 455225,
+      "num": 455225,
+      "word": "狗狗的脑浆子都被摇匀了",
+      "onboard_time": 1687929277,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 448788,
@@ -675,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406879,
-      "num": 406879,
-      "word": "狗狗的脑浆子都被摇匀了",
-      "onboard_time": 1687929277,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405512,
       "num": 405512,
       "word": "仙女棒已经进化到这种程度了吗",
@@ -697,6 +705,30 @@
       "onboard_time": 1687883074,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389973,
+      "num": 389973,
+      "word": "GQ编辑说张艺兴好辣",
+      "onboard_time": 1687932875,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 385178,
+      "num": 385178,
+      "word": "易梦玲回应加沈月微信",
+      "onboard_time": 1687932516,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 381595,
+      "num": 381595,
+      "word": "EDG",
+      "onboard_time": 1687932875,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 380421,
@@ -795,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339758,
+      "num": 339758,
+      "word": "吃完小龙虾美甲变绿了",
+      "onboard_time": 1687933956,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335611,
       "num": 325956,
       "word": "王一博湾区升明月再唱无名",
@@ -819,20 +859,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 317491,
+      "num": 304622,
+      "word": "面部留白多学赵露思变美思路",
+      "onboard_time": 1687932633,
+      "rank": 30,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 317413,
       "num": 317413,
       "word": "陈哲远21岁vs27岁",
       "onboard_time": 1687908085,
       "rank": 29,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 316428,
-      "num": 282225,
-      "word": "面部留白多学赵露思变美思路",
-      "onboard_time": 1687932633,
-      "rank": 30,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 316011,
@@ -851,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312133,
+      "num": 312133,
+      "word": "广州宝马撞人案",
+      "onboard_time": 1687929637,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 311336,
       "num": 311336,
       "word": "灼灼风流 不好好读书是要嫁人的",
@@ -867,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304917,
-      "num": 304917,
-      "word": "广州宝马撞人案",
-      "onboard_time": 1687929637,
-      "rank": 33,
-      "category": "社会负面"
+      "raw_hot": 310313,
+      "num": 310313,
+      "word": "有院子的家 丧夫套餐",
+      "onboard_time": 1687932397,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 303543,
@@ -979,30 +1027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279608,
-      "num": 279608,
-      "word": "易梦玲回应加沈月微信",
-      "onboard_time": 1687932516,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 279326,
-      "num": 279326,
-      "word": "有院子的家 丧夫套餐",
-      "onboard_time": 1687932397,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 276800,
-      "num": 276800,
-      "word": "GQ编辑说张艺兴好辣",
-      "onboard_time": 1687932875,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 272045,
       "num": 272045,
       "word": "2024QS世界大学排名",
@@ -1075,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251770,
-      "num": 251770,
-      "word": "EDG",
-      "onboard_time": 1687932875,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "韩国电影孩子们细思极恐",
@@ -1139,6 +1155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 238427,
+      "num": 238427,
+      "word": "B站崩了",
+      "onboard_time": 1687934195,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 238152,
       "num": 238152,
       "word": "人脸识别时一定要小心",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1687915476,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230009,
+      "num": 230009,
+      "word": "单亲妈妈打工14年供出3名大学生",
+      "onboard_time": 1687932633,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229674,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1687923034,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214121,
+      "num": 214121,
+      "word": "李宇春官宣2023湾区升明月",
+      "onboard_time": 1687934255,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 214063,
@@ -1347,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192438,
-      "num": 192438,
-      "word": "单亲妈妈打工14年供出3名大学生",
-      "onboard_time": 1687932633,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188110,
       "num": 188110,
       "word": "谁说悲伤不能具象化",
@@ -1371,12 +1403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185355,
+      "num": 185355,
+      "word": "他说科学无国家但科学家有祖国",
+      "onboard_time": 1687933834,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 185316,
       "num": 185316,
       "word": "张雪峰名字 符号化",
       "onboard_time": 1687921532,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184507,
+      "num": 184507,
+      "word": "年轻人唯一有点把握的是单身",
+      "onboard_time": 1687934316,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 183798,
@@ -1555,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100283,
+      "num": 505036,
+      "word": "消防员靠十级喵语救出被困小奶猫",
+      "onboard_time": 1687932095,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93572,
       "num": 1546416,
       "word": "成都大运会倒计时1个月",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1687885286,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61778,
-      "num": 505036,
-      "word": "消防员靠十级喵语救出被困小奶猫",
-      "onboard_time": 1687932095,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55298,
@@ -1647,6 +1695,9 @@
     },
     {
       "word": "#中方是蒙古国可以信赖和倚重的伙伴#"
+    },
+    {
+      "word": "#中越像走亲戚一样常来常往是优良传统#"
     }
   ]
 }
