@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1687943961656,
+  "endTime": 1687944854766,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -395,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1854308,
+      "num": 1391280,
+      "word": "知情人讲述男子反复碾压妻子致死",
+      "onboard_time": 1687940916,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1843370,
       "num": 1843370,
       "word": "重庆一医院被曝盒饭中吃出老鼠头",
@@ -617,14 +625,6 @@
       "onboard_time": 1687915416,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1391280,
-      "num": 1391280,
-      "word": "知情人讲述男子反复碾压妻子致死",
-      "onboard_time": 1687940916,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1374173,
@@ -1147,7 +1147,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 897596,
+      "raw_hot": 900604,
       "num": 381930,
       "word": "瞒着父母偷偷买了一套房子",
       "onboard_time": 1687939536,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1687739856,
       "rank": 4,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 817328,
+      "num": 487712,
+      "word": "肖战王一博会同台吗",
+      "onboard_time": 1687943261,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 815286,
@@ -1723,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630297,
+      "num": 379239,
+      "word": "近视500度但看东西很清楚",
+      "onboard_time": 1687940854,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627866,
       "num": 627866,
       "word": "韩素希吃棒棒糖姬达狂响",
@@ -1889,14 +1905,6 @@
       "onboard_time": 1687789007,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 577996,
-      "num": 379239,
-      "word": "近视500度但看东西很清楚",
-      "onboard_time": 1687940854,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 577196,
@@ -2097,6 +2105,14 @@
       "onboard_time": 1687775806,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 542460,
+      "num": 427002,
+      "word": "还得是李梦",
+      "onboard_time": 1687943918,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 541679,
@@ -2307,14 +2323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487712,
-      "num": 487712,
-      "word": "肖战王一博会同台吗",
-      "onboard_time": 1687943261,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 487438,
       "num": 487438,
       "word": "湾区升明月节目单",
@@ -2353,6 +2361,14 @@
       "onboard_time": 1687828058,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 476882,
+      "num": 337505,
+      "word": "杨幂工作室吊我胃口",
+      "onboard_time": 1687943857,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 473044,
@@ -2931,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387198,
+      "num": 334123,
+      "word": "SEVENTEEN的家谱这下全都乱了",
+      "onboard_time": 1687943735,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386830,
       "num": 386830,
       "word": "古早淡妆",
@@ -3123,6 +3147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367325,
+      "num": 367325,
+      "word": "中国女篮vs韩国女篮",
+      "onboard_time": 1687943918,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365857,
       "num": 365857,
       "word": "长风渡剧本bug",
@@ -3291,6 +3323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339834,
+      "num": 292196,
+      "word": "爷爷临终前开了个玩笑",
+      "onboard_time": 1687944155,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339675,
       "num": 339675,
       "word": "内推校友结果被她给开了",
@@ -3361,6 +3401,14 @@
       "onboard_time": 1687761290,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334010,
+      "num": 334010,
+      "word": "JonyJ巡演抢票",
+      "onboard_time": 1687769205,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 332611,
@@ -3747,14 +3795,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 308915,
-      "num": 308915,
-      "word": "杨幂工作室吊我胃口",
-      "onboard_time": 1687943857,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 308893,
       "num": 308893,
       "word": "小孩子不吃蔬菜是有原因的",
@@ -4003,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289266,
+      "num": 289266,
+      "word": "中国女篮小组赛三连胜",
+      "onboard_time": 1687944754,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287568,
       "num": 287568,
       "word": "从来不吹空调的室友感冒了",
@@ -4123,6 +4171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277729,
+      "num": 277729,
+      "word": "农村三胞胎姐妹均高分超一本线",
+      "onboard_time": 1687943376,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 275725,
       "num": 249179,
       "word": "黄子琪 消失的她",
@@ -4169,14 +4225,6 @@
       "onboard_time": 1687875769,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272210,
-      "num": 272210,
-      "word": "JonyJ巡演抢票",
-      "onboard_time": 1687769205,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 272045,
@@ -4585,14 +4633,6 @@
       "onboard_time": 1687917937,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247602,
-      "num": 247602,
-      "word": "农村三胞胎姐妹均高分超一本线",
-      "onboard_time": 1687943376,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 246538,
@@ -5107,6 +5147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215541,
+      "num": 215541,
+      "word": "陈佩斯父子济南护城河边打泉水",
+      "onboard_time": 1687941935,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 214834,
       "num": 214834,
       "word": "毛不易演唱会",
@@ -5123,28 +5171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213816,
-      "num": 213816,
-      "word": "中国女篮vs韩国女篮",
-      "onboard_time": 1687943918,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213505,
       "num": 213505,
       "word": "一盆熊猫原来长这样",
       "onboard_time": 1687786006,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213375,
-      "num": 213375,
-      "word": "陈佩斯父子济南护城河边打泉水",
-      "onboard_time": 1687941935,
-      "rank": 36,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 213178,
@@ -5547,6 +5579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194396,
+      "num": 194396,
+      "word": "中传视障硕士回忆12年求学路",
+      "onboard_time": 1687943918,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 194291,
       "num": 194291,
       "word": "未定事件簿",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1687791945,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193982,
-      "num": 193982,
-      "word": "SEVENTEEN的家谱这下全都乱了",
-      "onboard_time": 1687943735,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 193966,
@@ -5795,6 +5827,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 183768,
+      "num": 183768,
+      "word": "李梦 牛",
+      "onboard_time": 1687944517,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183711,
       "num": 183711,
       "word": "广州地铁到底经历过什么",
@@ -5985,14 +6025,6 @@
       "onboard_time": 1687789188,
       "rank": 48,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 172622,
-      "num": 172622,
-      "word": "中传视障硕士回忆12年求学路",
-      "onboard_time": 1687943918,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 172411,
@@ -6195,14 +6227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155897,
-      "num": 155897,
-      "word": "还得是李梦",
-      "onboard_time": 1687943918,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155647,
       "num": 217170,
       "word": "大叔西湖边挑一担子荷花只送不卖",
@@ -6372,7 +6396,7 @@
     },
     {
       "raw_hot": 136474,
-      "num": 273946,
+      "num": 292234,
       "word": "卢卡申科证实普里戈任在白俄罗斯",
       "onboard_time": 1687940854,
       "rank": 29,
@@ -6608,6 +6632,14 @@
       "word": "嘴里五味暗示身体问题",
       "onboard_time": 1687735765,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111914,
+      "num": 475266,
+      "word": "5岁女儿去世妈妈捐器官给生病孩童",
+      "onboard_time": 1687942892,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -6881,14 +6913,6 @@
       "onboard_time": 1687852837,
       "rank": 14,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 43488,
-      "num": 475266,
-      "word": "5岁女儿去世妈妈捐器官给生病孩童",
-      "onboard_time": 1687942892,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41920,
