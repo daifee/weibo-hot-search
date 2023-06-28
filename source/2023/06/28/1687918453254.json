@@ -1,0 +1,410 @@
+{
+  "runTime": 1687918453254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2458371,
+        "num": 2458371,
+        "word": "喜茶奈雪为何又不香了",
+        "onboard_time": 1687913618,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069059,
+        "num": 1069059,
+        "word": "萧敬腾求婚林有慧",
+        "onboard_time": 1687868979,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10405,
+        "num": 1054934,
+        "word": "达沃斯在天津",
+        "onboard_time": 1687851157,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3142273,
+        "num": 1053437,
+        "word": "曝长沙一酒店沐浴露疑被灌精液",
+        "onboard_time": 1687914997,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262179,
+        "num": 1051526,
+        "word": "同事怀孕后一直请假我离职了",
+        "onboard_time": 1687911338,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1048955,
+        "num": 1048955,
+        "word": "高考377分复读一年逆袭677分",
+        "onboard_time": 1687911095,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 885788,
+        "num": 885788,
+        "word": "迪士尼门票近800一张合理吗",
+        "onboard_time": 1687912837,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 710360,
+        "num": 710360,
+        "word": "仙剑3法器是用婚戒做的",
+        "onboard_time": 1687913018,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683198,
+        "num": 683198,
+        "word": "张雪峰衡水中学专场讲座视频",
+        "onboard_time": 1687912779,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 674015,
+        "num": 674015,
+        "word": "人民日报评相关企业拒聘川大学生",
+        "onboard_time": 1687916735,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2673347,
+        "num": 673288,
+        "word": "向太叫林有慧媳妇儿",
+        "onboard_time": 1687913379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589535,
+        "num": 589535,
+        "word": "六公主拍的Angelababy",
+        "onboard_time": 1687907784,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 538291,
+        "num": 538291,
+        "word": "消失的她又双叒票房逆跌了",
+        "onboard_time": 1687877324,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513778,
+        "num": 513778,
+        "word": "拍CT之前记得上个厕所",
+        "onboard_time": 1687916674,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511346,
+        "num": 511346,
+        "word": "赵樱子和孟子义娜扎都合体过了",
+        "onboard_time": 1687914338,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445053,
+        "num": 445053,
+        "word": "鹿晗同款卤煮店2小时卖出1200份",
+        "onboard_time": 1687908929,
+        "rank": 15,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 431851,
+        "num": 431851,
+        "word": "千万不要随意私拆学生档案",
+        "onboard_time": 1687882232,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 425559,
+        "num": 425559,
+        "word": "周杰伦昆凌见证萧敬腾求婚现场",
+        "onboard_time": 1687876307,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407843,
+        "num": 407843,
+        "word": "台媒曝范玮琪失联",
+        "onboard_time": 1687855960,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393926,
+        "num": 393926,
+        "word": "江西航空回应老太换座不成辱骂女生",
+        "onboard_time": 1687912656,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346025,
+        "num": 392568,
+        "word": "肖战机场",
+        "onboard_time": 1687915416,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 888873,
+        "num": 384592,
+        "word": "婆婆把我喂奶视频发到群里",
+        "onboard_time": 1687911095,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 525712,
+        "num": 377888,
+        "word": "警方通报男子反复碾压女子致死",
+        "onboard_time": 1687880382,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461166,
+        "num": 373513,
+        "word": "虞书欣也没有脚脖子",
+        "onboard_time": 1687907724,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367411,
+        "num": 367411,
+        "word": "每天下午三点下班你愿意单休吗",
+        "onboard_time": 1687913259,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 345301,
+        "num": 345301,
+        "word": "消失的她李木子视角",
+        "onboard_time": 1687917517,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342400,
+        "num": 342400,
+        "word": "范玮琪对陈建州偷吃的态度",
+        "onboard_time": 1687855238,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319962,
+        "num": 319962,
+        "word": "段嘉许vs张陆让",
+        "onboard_time": 1687916317,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316932,
+        "num": 316932,
+        "word": "家人去世请假老师说算挂科",
+        "onboard_time": 1687915416,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287282,
+        "num": 287282,
+        "word": "成年人最受不了的聊天方式",
+        "onboard_time": 1687915719,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2182913,
+        "num": 283841,
+        "word": "楚雨荨每天骑车20公里上下学",
+        "onboard_time": 1687912900,
+        "rank": 30,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 278534,
+        "num": 278534,
+        "word": "网传香港回归周年晚会有肖战王一博",
+        "onboard_time": 1687917456,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268609,
+        "num": 268609,
+        "word": "Uzi现身国家集训队",
+        "onboard_time": 1687911338,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261892,
+        "num": 261892,
+        "word": "陈哲远21岁vs27岁",
+        "onboard_time": 1687908085,
+        "rank": 33,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 240295,
+        "num": 240295,
+        "word": "双胞胎高考哥哥703弟弟730",
+        "onboard_time": 1687914518,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234028,
+        "num": 234028,
+        "word": "被公司领导强行撮合",
+        "onboard_time": 1687917937,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229378,
+        "num": 229378,
+        "word": "萧敬腾下个雨庆祝一下吧",
+        "onboard_time": 1687870301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216756,
+        "num": 216756,
+        "word": "2024QS世界大学排名",
+        "onboard_time": 1687908444,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 214154,
+        "num": 214154,
+        "word": "人脸识别时一定要小心",
+        "onboard_time": 1687914277,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 208106,
+        "num": 208106,
+        "word": "韩国电影孩子们细思极恐",
+        "onboard_time": 1687912297,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198576,
+        "num": 198576,
+        "word": "赵露思陈哲远十场吻戏",
+        "onboard_time": 1687918115,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195379,
+        "num": 195379,
+        "word": "普京表示俄罗斯军队几乎停止了内战",
+        "onboard_time": 1687911996,
+        "rank": 41,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 194065,
+        "num": 194065,
+        "word": "女生毕业删除90%同学被骂有病",
+        "onboard_time": 1687855901,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191090,
+        "num": 191090,
+        "word": "周鸿祎被清华录取",
+        "onboard_time": 1687872581,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 184962,
+        "num": 184962,
+        "word": "陈都灵嘟门又有新素材了",
+        "onboard_time": 1687914818,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183798,
+        "num": 183798,
+        "word": "当亚洲人在比谁的食物更辣时",
+        "onboard_time": 1687917817,
+        "rank": 45,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 179904,
+        "num": 179904,
+        "word": "弟弟年纪轻轻的说话还挺谨慎",
+        "onboard_time": 1687915476,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "马丽回复惠英红生日祝福",
+        "onboard_time": 1687915117,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175984,
+        "num": 175984,
+        "word": "吴京在巨齿鲨里叫九溟",
+        "onboard_time": 1687913259,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173014,
+        "num": 173014,
+        "word": "不提雨怎么能描述雨很大",
+        "onboard_time": 1687915476,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第三届中国广电媒体融合发展大会#"
+    }
+  }
+}
