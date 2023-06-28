@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/26 00:24:04 ~ 2023/06/29 01:16:42
+本榜单时间：2023/06/26 00:24:04 ~ 2023/06/29 01:34:33
 </p>
 </blockquote>
 <p>
@@ -4509,6 +4509,12 @@ WB锁定第二轮S组（热度：217277）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%8B%A6%E7%AD%89%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%E7%86%AC%E5%88%B0%E5%87%8C%E6%99%A8%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23" target="weibo">
+妻子苦等丈夫回家熬到凌晨哭着报警（热度：212902）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%A2%AB%E5%88%86%E5%88%B0%E6%9D%8E%E5%85%B0%E5%A8%9F%E9%99%A2%E5%A3%AB%E6%8B%A8%E7%A9%97%23" target="weibo">
 女生毕业典礼被分到李兰娟院士拨穗（热度：212834）
 </a>
@@ -5927,6 +5933,12 @@ U19（热度：126281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%9C%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E5%93%B2%E8%BF%9C%E5%90%BB%E6%88%8F%E5%8F%8D%E5%BA%94%23" target="weibo">
 曾黎看赵露思陈哲远吻戏反应（热度：56397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
+教育的意义（热度：56146）
 </a>
 </li>
 
