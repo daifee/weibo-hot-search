@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/29 00:25:06 ~ 2023/06/29 06:18:13
+本榜单时间：2023/06/29 00:25:06 ~ 2023/06/29 06:36:12
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ Uzi卡莎超神（热度：375197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%8B%A6%E7%AD%89%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%E7%86%AC%E5%88%B0%E5%87%8C%E6%99%A8%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23" target="weibo">
+妻子苦等丈夫回家熬到凌晨哭着报警（热度：334917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%85%B0%E8%87%80%E6%AF%94%23" target="weibo">
 曾黎腰臀比（热度：323168）
 </a>
@@ -221,12 +227,6 @@ Uzi卡莎超神（热度：375197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E7%BE%BD%E6%AF%9B%E6%8A%B9%E8%83%B8%23" target="weibo">
 周雨彤羽毛抹胸（热度：276063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%8B%A6%E7%AD%89%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%E7%86%AC%E5%88%B0%E5%87%8C%E6%99%A8%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23" target="weibo">
-妻子苦等丈夫回家熬到凌晨哭着报警（热度：266989）
 </a>
 </li>
 
@@ -339,8 +339,20 @@ GQ红毯谁赢了（热度：114542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%A7%8D%E8%8F%9C%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
+山东人种菜已经进化到这种程度了吗（热度：83506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2378%E7%BA%A7%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E6%8A%A5%E8%80%83%E5%BB%BA%E8%AE%AE%23" target="weibo">
 78级物理专业高考生的报考建议（热度：59126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E8%80%83%E4%BA%86620%E5%88%86%E8%A2%AB%E8%88%85%E5%A6%88%E9%AA%82%E4%B8%80%E4%B8%8B%E5%8D%88%23" target="weibo">
+表妹考了620分被舅妈骂一下午（热度：57028）
 </a>
 </li>
 
@@ -357,14 +369,8 @@ GQ红毯谁赢了（热度：114542）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E8%80%83%E4%BA%86620%E5%88%86%E8%A2%AB%E8%88%85%E5%A6%88%E9%AA%82%E4%B8%80%E4%B8%8B%E5%8D%88%23" target="weibo">
-表妹考了620分被舅妈骂一下午（热度：47450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%A7%8D%E8%8F%9C%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
-山东人种菜已经进化到这种程度了吗（热度：32412）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2Kyoong%E5%8D%97%23" target="weibo">
+名侦探Kyoong南（热度：38668）
 </a>
 </li>
 

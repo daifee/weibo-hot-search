@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1687990693802,
+  "endTime": 1687991772348,
   "band_list": [
     {
       "raw_hot": 2773148,
@@ -219,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 334917,
+      "num": 148088,
+      "word": "妻子苦等丈夫回家熬到凌晨哭着报警",
+      "onboard_time": 1687972699,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323168,
       "num": 282066,
       "word": "曾黎腰臀比",
@@ -281,14 +289,6 @@
       "onboard_time": 1687958620,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 266989,
-      "num": 148088,
-      "word": "妻子苦等丈夫回家熬到凌晨哭着报警",
-      "onboard_time": 1687972699,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264590,
@@ -435,11 +435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83506,
+      "num": 83506,
+      "word": "山东人种菜已经进化到这种程度了吗",
+      "onboard_time": 1687989795,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59126,
       "num": 59126,
       "word": "78级物理专业高考生的报考建议",
       "onboard_time": 1687975516,
       "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 57028,
+      "num": 57028,
+      "word": "表妹考了620分被舅妈骂一下午",
+      "onboard_time": 1687931379,
+      "rank": 48,
       "category": "教育,社会新闻"
     },
     {
@@ -459,20 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47450,
-      "num": 51722,
-      "word": "表妹考了620分被舅妈骂一下午",
-      "onboard_time": 1687931379,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 32412,
-      "num": 34804,
-      "word": "山东人种菜已经进化到这种程度了吗",
-      "onboard_time": 1687989795,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 38668,
+      "num": 39177,
+      "word": "名侦探Kyoong南",
+      "onboard_time": 1687986733,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 26260,
