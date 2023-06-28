@@ -1,6 +1,6 @@
 {
   "startTime": 1687883139785,
-  "endTime": 1687950971664,
+  "endTime": 1687952042875,
   "band_list": [
     {
       "raw_hot": 4075577,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4057131,
-      "num": 896639,
+      "num": 1039692,
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2623801,
+      "num": 2623801,
+      "word": "胃癌几乎都是吃出来的",
+      "onboard_time": 1687949316,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2538460,
       "num": 373705,
       "word": "猴痘",
@@ -91,19 +99,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2393821,
+      "num": 2172006,
+      "word": "张雪峰建议不好好学习带孩子到四个地方",
+      "onboard_time": 1687946015,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2382491,
       "num": 619423,
       "word": "文具店处女证",
       "onboard_time": 1687932397,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2172006,
-      "num": 2172006,
-      "word": "张雪峰建议不好好学习带孩子到四个地方",
-      "onboard_time": 1687946015,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1687918296,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1762366,
-      "num": 1762366,
-      "word": "胃癌几乎都是吃出来的",
-      "onboard_time": 1687949316,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1745124,
@@ -347,6 +347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1101347,
+      "num": 1101347,
+      "word": "白鹿采访忘词",
+      "onboard_time": 1687948116,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1098181,
       "num": 1098181,
       "word": "GQ主编评价宋妍霏衣服闪瞎",
@@ -363,19 +371,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1078016,
-      "num": 1078016,
-      "word": "白鹿采访忘词",
-      "onboard_time": 1687948116,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1021043,
       "num": 500579,
       "word": "婆婆把我喂奶视频发到群里",
       "onboard_time": 1687911095,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1004451,
+      "num": 1004451,
+      "word": "不要再坐公共场合的按摩椅了",
+      "onboard_time": 1687947453,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -403,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 922790,
-      "num": 922790,
-      "word": "不要再坐公共场合的按摩椅了",
-      "onboard_time": 1687947453,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 904880,
+      "num": 904880,
+      "word": "Lisa深V露背装",
+      "onboard_time": 1687949796,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 900604,
@@ -441,6 +449,14 @@
       "onboard_time": 1687923934,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848639,
+      "num": 848639,
+      "word": "大牙 这次我会勇敢法院见",
+      "onboard_time": 1687951593,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 840146,
@@ -481,14 +497,6 @@
       "onboard_time": 1687939057,
       "rank": 21,
       "category": "其它"
-    },
-    {
-      "raw_hot": 812250,
-      "num": 812250,
-      "word": "Lisa深V露背装",
-      "onboard_time": 1687949796,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 790112,
@@ -625,6 +633,14 @@
       "onboard_time": 1687943918,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 671720,
+      "num": 452337,
+      "word": "男子婚前全款买房离婚妻子获赔25%",
+      "onboard_time": 1687949915,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661154,
@@ -803,8 +819,8 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 518355,
-      "num": 518355,
+      "raw_hot": 519540,
+      "num": 519540,
       "word": "宝格丽活动",
       "onboard_time": 1687947213,
       "rank": 42,
@@ -817,6 +833,14 @@
       "onboard_time": 1687930958,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499158,
+      "num": 2000029,
+      "word": "北大学生毕业论文致谢流浪猫",
+      "onboard_time": 1687949494,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 494143,
@@ -849,14 +873,6 @@
       "onboard_time": 1687903214,
       "rank": 27,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 483599,
-      "num": 439317,
-      "word": "男子婚前全款买房离婚妻子获赔25%",
-      "onboard_time": 1687949915,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476882,
@@ -945,6 +961,22 @@
       "onboard_time": 1687929277,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 454714,
+      "num": 454714,
+      "word": "得了脚气的小狗",
+      "onboard_time": 1687949854,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 449072,
+      "num": 449072,
+      "word": "巨蟹座一定要远离影响自己情绪的人",
+      "onboard_time": 1687949494,
+      "rank": 39,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 448788,
@@ -1267,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314372,
-      "num": 1644860,
-      "word": "北大学生毕业论文致谢流浪猫",
-      "onboard_time": 1687949494,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 313685,
       "num": 313685,
       "word": "黄子韬微信头像是萌探三傻合影",
@@ -1323,12 +1347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 309710,
-      "num": 309710,
-      "word": "得了脚气的小狗",
-      "onboard_time": 1687949854,
-      "rank": 25,
-      "category": "幽默,情感"
+      "raw_hot": 310181,
+      "num": 310181,
+      "word": "宋祖儿绣球花仙子",
+      "onboard_time": 1687950515,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 307984,
@@ -1683,14 +1707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235673,
-      "num": 235673,
-      "word": "巨蟹座一定要远离影响自己情绪的人",
-      "onboard_time": 1687949494,
-      "rank": 39,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 232697,
       "num": 232697,
       "word": "弟弟年纪轻轻的说话还挺谨慎",
@@ -1699,12 +1715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230370,
-      "num": 230370,
-      "word": "宋祖儿绣球花仙子",
-      "onboard_time": 1687950515,
-      "rank": 40,
-      "category": "作品衍生,时尚"
+      "raw_hot": 230694,
+      "num": 230694,
+      "word": "王阳是GQ派对主持人",
+      "onboard_time": 1687950874,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230009,
@@ -1931,6 +1947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201662,
+      "num": 196942,
+      "word": "段嘉许天台表白桑稚",
+      "onboard_time": 1687951892,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199651,
       "num": 199651,
       "word": "日本经济为何停滞在过去",
@@ -2051,6 +2075,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 187527,
+      "num": 187527,
+      "word": "丁程鑫宋亚轩张真源贺峻霖在发光",
+      "onboard_time": 1687951292,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187328,
       "num": 187328,
       "word": "电影频道",
@@ -2163,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166129,
-      "num": 166129,
-      "word": "王阳是GQ派对主持人",
-      "onboard_time": 1687950874,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 165077,
       "num": 165077,
       "word": "林俊杰专辑预购",
@@ -2231,6 +2255,14 @@
       "num": 147107,
       "word": "山东东营警方回应男子驾车反复碾压女子",
       "onboard_time": 1687872880,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146003,
+      "num": 146003,
+      "word": "杭州地铁强冷弱冷车厢上线",
+      "onboard_time": 1687951412,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -2347,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94807,
+      "num": 144322,
+      "word": "减脂90天身材变化有多明显",
+      "onboard_time": 1687951955,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93572,
       "num": 1546416,
       "word": "成都大运会倒计时1个月",
@@ -2427,6 +2467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53485,
+      "num": 754495,
+      "word": "8名警员接力背受伤女孩放学1个月",
+      "onboard_time": 1687950034,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49022,
       "num": 49022,
       "word": "JennieTheidol剧照",
@@ -2457,14 +2505,6 @@
       "onboard_time": 1687892115,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26191,
-      "num": 600941,
-      "word": "8名警员接力背受伤女孩放学1个月",
-      "onboard_time": 1687950034,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12370,
