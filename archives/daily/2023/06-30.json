@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688070866167,
+  "endTime": 1688073355539,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90815,
+      "num": 90815,
+      "word": "肖战湾区升明月内场饭拍",
+      "onboard_time": 1688073253,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87114,
       "num": 140111,
       "word": "誓约直播号没了",
@@ -497,6 +505,14 @@
       "onboard_time": 1688065515,
       "rank": 9,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 47342,
+      "num": 69690,
+      "word": "官方回应上海外滩夜景灯光被吐槽",
+      "onboard_time": 1688071512,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 44209,
