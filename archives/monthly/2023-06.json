@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688063123644,
+  "endTime": 1688063915041,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -23531,6 +23531,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 409244,
+      "num": 409244,
+      "word": "韩国网友对长月烬明的评价",
+      "onboard_time": 1688060540,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408747,
       "num": 408747,
       "word": "全员加速中",
@@ -25137,14 +25145,6 @@
       "onboard_time": 1687582297,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 380197,
-      "num": 380197,
-      "word": "韩国网友对长月烬明的评价",
-      "onboard_time": 1688060540,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 380061,
@@ -66251,6 +66251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87114,
+      "num": 140111,
+      "word": "誓约直播号没了",
+      "onboard_time": 1688061018,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86990,
       "num": 86990,
       "word": "今日全力以赴明日好好庆祝",
@@ -67649,14 +67657,6 @@
       "onboard_time": 1687284798,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 67052,
-      "num": 140111,
-      "word": "誓约直播号没了",
-      "onboard_time": 1688061018,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 67042,

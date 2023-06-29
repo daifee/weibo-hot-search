@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688063123644,
+  "endTime": 1688063915041,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409244,
+      "num": 409244,
+      "word": "韩国网友对长月烬明的评价",
+      "onboard_time": 1688060540,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399643,
       "num": 399643,
       "word": "徐小凤 今晚最佳",
@@ -240,14 +248,6 @@
       "word": "任达华实力可以",
       "onboard_time": 1688054737,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 380197,
-      "num": 380197,
-      "word": "韩国网友对长月烬明的评价",
-      "onboard_time": 1688060540,
-      "rank": 0,
       "category": "影视"
     },
     {
@@ -459,28 +459,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83939,
-      "num": 168471,
-      "word": "预防人贩子骗你开门",
-      "onboard_time": 1688057727,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81995,
-      "num": 81995,
+      "raw_hot": 97849,
+      "num": 97849,
       "word": "姜个顾事",
       "onboard_time": 1688062518,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 67052,
+      "raw_hot": 87114,
       "num": 140111,
       "word": "誓约直播号没了",
       "onboard_time": 1688061018,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83939,
+      "num": 168471,
+      "word": "预防人贩子骗你开门",
+      "onboard_time": 1688057727,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29120,

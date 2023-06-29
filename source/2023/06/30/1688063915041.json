@@ -1,0 +1,410 @@
+{
+  "runTime": 1688063915041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409244,
+        "num": 409244,
+        "word": "韩国网友对长月烬明的评价",
+        "onboard_time": 1688060540,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298030,
+        "num": 298030,
+        "word": "刘浩存好漂亮",
+        "onboard_time": 1688049826,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2375,
+        "num": 251323,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230263,
+        "num": 230263,
+        "word": "肖战真唱",
+        "onboard_time": 1688051809,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228051,
+        "num": 228051,
+        "word": "港星赢得很彻底",
+        "onboard_time": 1688046642,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634999,
+        "num": 199231,
+        "word": "LPL大瓜",
+        "onboard_time": 1688053602,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164377,
+        "num": 164377,
+        "word": "崔叡娜新歌下架",
+        "onboard_time": 1688053602,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128310,
+        "num": 128310,
+        "word": "去故宫的时候一定要抬头",
+        "onboard_time": 1688041832,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115682,
+        "num": 127776,
+        "word": "学霸情侣本科毕业齐直博被校长写进致辞",
+        "onboard_time": 1688044239,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92522,
+        "num": 126944,
+        "word": "为什么火锅价格越来越贵了",
+        "onboard_time": 1688042499,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348946,
+        "num": 125147,
+        "word": "殷世航当花童",
+        "onboard_time": 1688055993,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 124751,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191247,
+        "num": 122898,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122713,
+        "num": 122713,
+        "word": "微信支付的手续费是否过高了",
+        "onboard_time": 1688032059,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187060,
+        "num": 122709,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148252,
+        "num": 122697,
+        "word": "关晓彤这腿",
+        "onboard_time": 1688047425,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126139,
+        "num": 122690,
+        "word": "章子怡压轴",
+        "onboard_time": 1688053306,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87114,
+        "num": 122681,
+        "word": "誓约直播号没了",
+        "onboard_time": 1688061018,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72020,
+        "num": 122677,
+        "word": "官方回应山西代县瞒报17名矿工死亡",
+        "onboard_time": 1688050545,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53488,
+        "num": 122670,
+        "word": "LV帆布袋已被炒至700元",
+        "onboard_time": 1688028520,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122666,
+        "num": 122666,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109517,
+        "num": 109517,
+        "word": "月薪5000真的有点低",
+        "onboard_time": 1688050368,
+        "rank": 21,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 105512,
+        "num": 105512,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72738,
+        "num": 103057,
+        "word": "蜱虫在老人脖子上吸完血大如黄豆",
+        "onboard_time": 1688050969,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62637,
+        "num": 101824,
+        "word": "如果不工作5万可以用多久",
+        "onboard_time": 1688042559,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101300,
+        "num": 101300,
+        "word": "鉴证实录",
+        "onboard_time": 1688058325,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100315,
+        "num": 100315,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1688054976,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97849,
+        "num": 97849,
+        "word": "姜个顾事",
+        "onboard_time": 1688062518,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59129,
+        "num": 97706,
+        "word": "眼睛功能问题康复小方法",
+        "onboard_time": 1688055215,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 55520,
+        "num": 97701,
+        "word": "背帆布包上班被同事阴阳了",
+        "onboard_time": 1688037573,
+        "rank": 29,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 97700,
+        "num": 97700,
+        "word": "周深修音响第一人",
+        "onboard_time": 1688048507,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81936,
+        "num": 81936,
+        "word": "辛芷蕾自曝小时候遭遇猥亵",
+        "onboard_time": 1688036434,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81665,
+        "num": 81665,
+        "word": "张柏芝美得我眼前一亮",
+        "onboard_time": 1688042859,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80254,
+        "num": 80254,
+        "word": "许嵩挽回了面子",
+        "onboard_time": 1688047425,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53663,
+        "num": 79844,
+        "word": "戴这俩冰袖是为了啥",
+        "onboard_time": 1688047603,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79717,
+        "num": 79717,
+        "word": "吴京把苏有朋唱卡壳了",
+        "onboard_time": 1688053248,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49923,
+        "num": 78858,
+        "word": "重庆客车被落石砸中致6死9伤",
+        "onboard_time": 1688047365,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48536,
+        "num": 78313,
+        "word": "19岁男生高考后找失足女被拘5天",
+        "onboard_time": 1688035778,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 47353,
+        "num": 76774,
+        "word": "预防人贩子骗你开门",
+        "onboard_time": 1688057727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43002,
+        "num": 75309,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 74910,
+        "num": 74910,
+        "word": "十个勤天",
+        "onboard_time": 1688058924,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73709,
+        "num": 73709,
+        "word": "华晨宇发挥",
+        "onboard_time": 1688041357,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65718,
+        "num": 65718,
+        "word": "肖战潇洒走一回",
+        "onboard_time": 1688052527,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64491,
+        "num": 64491,
+        "word": "徐小凤 今晚最佳",
+        "onboard_time": 1688045982,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55117,
+        "num": 63359,
+        "word": "林保怡 陈慧珊",
+        "onboard_time": 1688049405,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54636,
+        "num": 62775,
+        "word": "郁可唯大湾区再唱水中花",
+        "onboard_time": 1688055274,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40292,
+        "num": 60745,
+        "word": "大熊猫雅一把秋千坐断了",
+        "onboard_time": 1688050907,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37891,
+        "num": 59213,
+        "word": "樊振东3比0安宰贤",
+        "onboard_time": 1688054437,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36159,
+        "num": 58205,
+        "word": "将杀",
+        "onboard_time": 1688056171,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35799,
+        "num": 56917,
+        "word": "武契奇儿子被科索沃当局扣留",
+        "onboard_time": 1688041956,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对党的建设和组织工作作出重要指示#"
+    }
+  }
+}
