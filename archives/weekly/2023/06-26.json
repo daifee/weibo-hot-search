@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688015925507,
+  "endTime": 1688016944870,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -643,6 +643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1677870,
+      "num": 1677870,
+      "word": "鲁A33632你做的好事藏不住了",
+      "onboard_time": 1688012200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1674534,
       "num": 1674534,
       "word": "张雪峰曾称每年仅讲课就能挣几百万",
@@ -665,6 +673,14 @@
       "onboard_time": 1688002354,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1660824,
+      "num": 713633,
+      "word": "多所高校停用微信支付",
+      "onboard_time": 1688015558,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1651199,
@@ -753,14 +769,6 @@
       "onboard_time": 1687828959,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1516418,
-      "num": 1516418,
-      "word": "鲁A33632你做的好事藏不住了",
-      "onboard_time": 1688012200,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1498422,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1687848637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1160843,
+      "num": 1160843,
+      "word": "媒体评LV帆布袋又蠢又穷又虚荣",
+      "onboard_time": 1688014659,
+      "rank": 9,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1149629,
@@ -1643,6 +1659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 865626,
+      "num": 355795,
+      "word": "makiyo回应爆料陈建州很爱乱亲",
+      "onboard_time": 1688015856,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864812,
       "num": 864812,
       "word": "安乐传真的要来了",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1687682614,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 860040,
-      "num": 860040,
-      "word": "媒体评LV帆布袋又蠢又穷又虚荣",
-      "onboard_time": 1688014659,
-      "rank": 9,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 856503,
@@ -2763,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550401,
+      "num": 550401,
+      "word": "陈建州vs全在俊",
+      "onboard_time": 1688016695,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548477,
       "num": 548477,
       "word": "与肖战做同事belike",
@@ -2945,6 +2969,14 @@
       "onboard_time": 1687961263,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 517921,
+      "num": 517921,
+      "word": "蔡徐坤",
+      "onboard_time": 1688016335,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 517837,
@@ -3617,14 +3649,6 @@
       "onboard_time": 1687997736,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418845,
-      "num": 418845,
-      "word": "多所高校停用微信支付",
-      "onboard_time": 1688015558,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 418152,
@@ -4307,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344851,
+      "num": 344851,
+      "word": "女孩出生4天被遗弃养父收废品养大",
+      "onboard_time": 1688016214,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344063,
       "num": 390833,
       "word": "张雪峰专业推荐 实用主义取向",
@@ -4401,6 +4433,14 @@
       "onboard_time": 1687927841,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335229,
+      "num": 335229,
+      "word": "同事离职把营业执照带走了",
+      "onboard_time": 1688016155,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 334884,
@@ -4771,6 +4811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314432,
+      "num": 314432,
+      "word": "夏鸣星",
+      "onboard_time": 1688015497,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314322,
       "num": 314322,
       "word": "说一件事证明你消费降级了",
@@ -5043,14 +5091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 299360,
-      "num": 299360,
-      "word": "makiyo回应爆料陈建州很爱乱亲",
-      "onboard_time": 1688015856,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298308,
       "num": 298308,
       "word": "只有在重庆动物园才能看到的画面",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1687844558,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293874,
+      "num": 293874,
+      "word": "封神妲己曾出演周杰伦MV女主",
+      "onboard_time": 1688015917,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 293529,
@@ -5643,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262436,
+      "num": 262436,
+      "word": "段嘉许孔雀开屏图",
+      "onboard_time": 1688016034,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262134,
       "num": 262134,
       "word": "长风渡",
@@ -6043,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242848,
+      "num": 242848,
+      "word": "Sana疑似台上晕倒",
+      "onboard_time": 1688016397,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242478,
       "num": 242478,
       "word": "感动全网的环卫工儿子填志愿求助",
@@ -6081,6 +6145,14 @@
       "onboard_time": 1687782882,
       "rank": 45,
       "category": "情感,动漫"
+    },
+    {
+      "raw_hot": 241758,
+      "num": 241758,
+      "word": "我爱你 我好钟意你",
+      "onboard_time": 1688015977,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 240851,
@@ -6185,14 +6257,6 @@
       "onboard_time": 1687995208,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236236,
-      "num": 236236,
-      "word": "封神妲己曾出演周杰伦MV女主",
-      "onboard_time": 1688015917,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 235898,
@@ -6649,14 +6713,6 @@
       "onboard_time": 1687941935,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 215235,
-      "num": 215235,
-      "word": "夏鸣星",
-      "onboard_time": 1688015497,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 214834,
@@ -7363,6 +7419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188557,
+      "num": 188557,
+      "word": "内蒙古男子展现侧马奔腾",
+      "onboard_time": 1688016758,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188214,
       "num": 188214,
       "word": "你梦见啥啦",
@@ -7763,6 +7827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171683,
+      "num": 171683,
+      "word": "毕业生寄存物品6年未取超市保管完好",
+      "onboard_time": 1688015318,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 171437,
       "num": 171437,
       "word": "被爱真是一件值得炫耀的事",
@@ -7801,6 +7873,14 @@
       "onboard_time": 1687865498,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168323,
+      "num": 168323,
+      "word": "子弹命中的瞬间 教育闭环就此完成",
+      "onboard_time": 1688016516,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 166337,
@@ -8395,6 +8475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116390,
+      "num": 763440,
+      "word": "大专生逆袭考博说人生是自己走出来的",
+      "onboard_time": 1688014838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116087,
       "num": 597128,
       "word": "女生毕业在宿舍晒满地证书合影留念",
@@ -8696,14 +8784,6 @@
       "word": "女儿每次回家爸爸都在地铁口等候",
       "onboard_time": 1687735104,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66748,
-      "num": 763440,
-      "word": "大专生逆袭考博说人生是自己走出来的",
-      "onboard_time": 1688014838,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

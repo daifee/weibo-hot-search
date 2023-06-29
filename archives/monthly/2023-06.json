@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688015925507,
+  "endTime": 1688016944870,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -4099,6 +4099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1677870,
+      "num": 1677870,
+      "word": "鲁A33632你做的好事藏不住了",
+      "onboard_time": 1688012200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1677029,
       "num": 667263,
       "word": "知情人辟谣被撞小学生父亲坠楼",
@@ -4217,6 +4225,14 @@
       "onboard_time": 1686044311,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1660824,
+      "num": 713633,
+      "word": "多所高校停用微信支付",
+      "onboard_time": 1688015558,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1658049,
@@ -4984,14 +5000,6 @@
       "word": "氧气耗尽泰坦号内5人还有生还可能吗",
       "onboard_time": 1687448971,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1516418,
-      "num": 1516418,
-      "word": "鲁A33632你做的好事藏不住了",
-      "onboard_time": 1688012200,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7673,6 +7681,14 @@
       "onboard_time": 1687001068,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1160843,
+      "num": 1160843,
+      "word": "媒体评LV帆布袋又蠢又穷又虚荣",
+      "onboard_time": 1688014659,
+      "rank": 9,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 1160250,
@@ -11251,6 +11267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 865626,
+      "num": 355795,
+      "word": "makiyo回应爆料陈建州很爱乱亲",
+      "onboard_time": 1688015856,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865286,
       "num": 865286,
       "word": "边伯贤截掉SMTOWN的logo",
@@ -11313,14 +11337,6 @@
       "onboard_time": 1686301709,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 860040,
-      "num": 860040,
-      "word": "媒体评LV帆布袋又蠢又穷又虚荣",
-      "onboard_time": 1688014659,
-      "rank": 9,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 858483,
@@ -17443,6 +17459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 550401,
+      "num": 550401,
+      "word": "陈建州vs全在俊",
+      "onboard_time": 1688016695,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550399,
       "num": 550399,
       "word": "网友路上偶遇高考试卷押运车",
@@ -18321,6 +18345,14 @@
       "onboard_time": 1687428090,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517921,
+      "num": 517921,
+      "word": "蔡徐坤",
+      "onboard_time": 1688016335,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 517837,
@@ -22113,14 +22145,6 @@
       "onboard_time": 1687059148,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 418845,
-      "num": 418845,
-      "word": "多所高校停用微信支付",
-      "onboard_time": 1688015558,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 418662,
@@ -26387,6 +26411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344851,
+      "num": 344851,
+      "word": "女孩出生4天被遗弃养父收废品养大",
+      "onboard_time": 1688016214,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344657,
       "num": 344657,
       "word": "张远录制披荆斩棘的哥哥",
@@ -27081,6 +27113,14 @@
       "onboard_time": 1685986516,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 335229,
+      "num": 335229,
+      "word": "同事离职把营业执照带走了",
+      "onboard_time": 1688016155,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 335212,
@@ -28731,6 +28771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314432,
+      "num": 314432,
+      "word": "夏鸣星",
+      "onboard_time": 1688015497,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314387,
       "num": 314387,
       "word": "十个勤天的第一次划龙舟体验",
@@ -30331,14 +30379,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 299360,
-      "num": 299360,
-      "word": "makiyo回应爆料陈建州很爱乱亲",
-      "onboard_time": 1688015856,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299069,
       "num": 299069,
       "word": "宫崎骏 选女孩做故事主角",
@@ -30905,6 +30945,14 @@
       "onboard_time": 1687139427,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293874,
+      "num": 293874,
+      "word": "封神妲己曾出演周杰伦MV女主",
+      "onboard_time": 1688015917,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 293828,
@@ -34867,6 +34915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262436,
+      "num": 262436,
+      "word": "段嘉许孔雀开屏图",
+      "onboard_time": 1688016034,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262397,
       "num": 210748,
       "word": "男朋友的头发可是情侣共同财产",
@@ -37963,6 +38019,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 242848,
+      "num": 242848,
+      "word": "Sana疑似台上晕倒",
+      "onboard_time": 1688016397,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242839,
       "num": 242839,
       "word": "杨幂黄明昊跳了flower",
@@ -38168,6 +38232,14 @@
       "word": "鞠婧祎新剧幻想吻戏",
       "onboard_time": 1685592749,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241758,
+      "num": 241758,
+      "word": "我爱你 我好钟意你",
+      "onboard_time": 1688015977,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -39065,14 +39137,6 @@
       "onboard_time": 1687995208,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236236,
-      "num": 236236,
-      "word": "封神妲己曾出演周杰伦MV女主",
-      "onboard_time": 1688015917,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 236234,
@@ -42888,14 +42952,6 @@
       "word": "Hero对战MTG",
       "onboard_time": 1687598853,
       "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 215235,
-      "num": 215235,
-      "word": "夏鸣星",
-      "onboard_time": 1688015497,
-      "rank": 42,
       "category": "游戏"
     },
     {
@@ -49131,6 +49187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188557,
+      "num": 188557,
+      "word": "内蒙古男子展现侧马奔腾",
+      "onboard_time": 1688016758,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188518,
       "num": 188518,
       "word": "李宇春演唱会",
@@ -52555,6 +52619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171683,
+      "num": 171683,
+      "word": "毕业生寄存物品6年未取超市保管完好",
+      "onboard_time": 1688015318,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 171652,
       "num": 171652,
       "word": "AG钟意正式连接",
@@ -53193,6 +53265,14 @@
       "onboard_time": 1687303224,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 168323,
+      "num": 168323,
+      "word": "子弹命中的瞬间 教育闭环就此完成",
+      "onboard_time": 1688016516,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 168298,
@@ -62035,6 +62115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116390,
+      "num": 763440,
+      "word": "大专生逆袭考博说人生是自己走出来的",
+      "onboard_time": 1688014838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116230,
       "num": 116230,
       "word": "保洁阿姨捡到40万上交获奖励",
@@ -65983,14 +66071,6 @@
       "num": 536274,
       "word": "高校给毕业生送万斤超甜蜜科研成果",
       "onboard_time": 1686466946,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66748,
-      "num": 763440,
-      "word": "大专生逆袭考博说人生是自己走出来的",
-      "onboard_time": 1688014838,
       "rank": 14,
       "category": "社会新闻"
     },
