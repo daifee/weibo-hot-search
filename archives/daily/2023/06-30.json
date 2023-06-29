@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688067223526,
+  "endTime": 1688069949756,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -513,6 +513,14 @@
       "onboard_time": 1688064317,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30390,
+      "num": 30390,
+      "word": "2023湾区升明月大湾区电影音乐晚会",
+      "onboard_time": 1688040095,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 29120,
