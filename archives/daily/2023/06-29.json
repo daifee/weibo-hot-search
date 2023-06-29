@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688027951646,
+  "endTime": 1688030368554,
   "band_list": [
     {
       "raw_hot": 7349947,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 4136484,
-      "num": 1490705,
+      "num": 1737713,
       "word": "姜广涛 开工",
       "onboard_time": 1688023897,
       "rank": 6,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3029890,
-      "num": 580735,
+      "num": 649333,
       "word": "Ella自曝出道后被性骚扰",
       "onboard_time": 1688027077,
       "rank": 41,
@@ -128,6 +128,22 @@
       "word": "范玮琪终于出现了",
       "onboard_time": 1687937916,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1817836,
+      "num": 1817836,
+      "word": "阿斯巴甜 致癌",
+      "onboard_time": 1688029002,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1698938,
+      "num": 1698938,
+      "word": "关晓彤帽子P掉了鹿晗品牌",
+      "onboard_time": 1688028460,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041622,
+      "num": 1041622,
+      "word": "支付软件开始收费你还会用吗",
+      "onboard_time": 1688026837,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1041584,
       "num": 1041584,
       "word": "肖战王一博今晚见",
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694153,
+      "num": 694153,
+      "word": "将进酒",
+      "onboard_time": 1688028040,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686667,
       "num": 435160,
       "word": "运动太多身材反而不好看了",
@@ -571,8 +603,16 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 581638,
+      "num": 581638,
+      "word": "LV帆布袋已被炒至700元",
+      "onboard_time": 1688028520,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 564531,
-      "num": 398402,
+      "num": 409486,
       "word": "任嘉伦刷屏了",
       "onboard_time": 1688025336,
       "rank": 21,
@@ -763,12 +803,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462721,
-      "num": 394757,
-      "word": "支付软件开始收费你还会用吗",
-      "onboard_time": 1688026837,
-      "rank": 46,
-      "category": "科技,社会新闻"
+      "raw_hot": 450399,
+      "num": 450399,
+      "word": "马正阳叶瑄",
+      "onboard_time": 1688028520,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 447925,
+      "num": 447925,
+      "word": "姜广涛配音",
+      "onboard_time": 1688029717,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434851,
@@ -851,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402086,
+      "num": 402086,
+      "word": "浙江26岁小伙月薪3千存下30万",
+      "onboard_time": 1688029181,
+      "rank": 23,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 400562,
       "num": 400562,
       "word": "玉骨遥",
@@ -875,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397930,
+      "num": 391027,
+      "word": "陈哲远没事没事",
+      "onboard_time": 1688027861,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397105,
       "num": 363580,
       "word": "TOP参演鱿鱼游戏2",
@@ -889,6 +953,14 @@
       "onboard_time": 1688017237,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392205,
+      "num": 392205,
+      "word": "收到了去世爷爷给的嫁妆",
+      "onboard_time": 1688027322,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 389257,
@@ -937,6 +1009,14 @@
       "onboard_time": 1688021432,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366484,
+      "num": 366484,
+      "word": "李一桐请好好用脸",
+      "onboard_time": 1688029600,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 362564,
@@ -1035,6 +1115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 315768,
+      "num": 315768,
+      "word": "宝木中阳",
+      "onboard_time": 1688029119,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314432,
       "num": 314432,
       "word": "夏鸣星",
@@ -1048,6 +1136,14 @@
       "word": "余景天穿裙子",
       "onboard_time": 1687968214,
       "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 313542,
+      "num": 313542,
+      "word": "Angelababy宋威龙GQ合照",
+      "onboard_time": 1688030259,
+      "rank": 33,
       "category": "作品衍生,时尚"
     },
     {
@@ -1251,12 +1347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254522,
-      "num": 254522,
-      "word": "收到了去世爷爷给的嫁妆",
-      "onboard_time": 1688027322,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 254415,
+      "num": 254415,
+      "word": "谢怜配音",
+      "onboard_time": 1688029418,
+      "rank": 40,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 252579,
@@ -1379,14 +1475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232872,
-      "num": 232872,
-      "word": "陈哲远没事没事",
-      "onboard_time": 1688027861,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232179,
       "num": 232179,
       "word": "沈腾新电影化特效妆需要4小时",
@@ -1401,6 +1489,14 @@
       "onboard_time": 1688009676,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228441,
+      "num": 228441,
+      "word": "腾讯回应CDC部门解散",
+      "onboard_time": 1688029418,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 226664,
@@ -1651,6 +1747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152251,
+      "num": 369956,
+      "word": "赵明称将告别苹果一家独大",
+      "onboard_time": 1688028880,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140230,
       "num": 186841,
       "word": "跑步和跳绳哪个更适合减肥",
@@ -1764,7 +1868,7 @@
     },
     {
       "raw_hot": 47653,
-      "num": 1401267,
+      "num": 1741258,
       "word": "2023年中国网络文明大会新闻发布会",
       "onboard_time": 1688020476,
       "rank": 2,
@@ -1777,6 +1881,14 @@
       "onboard_time": 1687986733,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36849,
+      "num": 485259,
+      "word": "济南首次为无名烈士认亲",
+      "onboard_time": 1688029239,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34452,
