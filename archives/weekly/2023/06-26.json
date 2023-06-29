@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688009245744,
+  "endTime": 1688009958882,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -209,6 +209,14 @@
       "onboard_time": 1687857100,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2569783,
+      "num": 2569783,
+      "word": "新版妲己首度曝光",
+      "onboard_time": 1688008354,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2567116,
@@ -723,14 +731,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1498721,
-      "num": 1498721,
-      "word": "新版妲己首度曝光",
-      "onboard_time": 1688008354,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1498422,
       "num": 1498422,
       "word": "文咏珊早几年都干嘛去了",
@@ -867,6 +867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1309679,
+      "num": 574065,
+      "word": "鼠鼠鸭玩具遭淘宝下架",
+      "onboard_time": 1688007089,
+      "rank": 35,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1293879,
       "num": 876705,
       "word": "陈建州否认性骚扰指控",
@@ -897,6 +905,14 @@
       "onboard_time": 1687847198,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1273887,
+      "num": 1273887,
+      "word": "丫丫",
+      "onboard_time": 1688006373,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1269333,
@@ -961,22 +977,6 @@
       "onboard_time": 1687871261,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1204778,
-      "num": 574065,
-      "word": "鼠鼠鸭玩具遭淘宝下架",
-      "onboard_time": 1688007089,
-      "rank": 35,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1197038,
-      "num": 1197038,
-      "word": "丫丫",
-      "onboard_time": 1688006373,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1183076,
@@ -1419,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916704,
+      "num": 916704,
+      "word": "人民网评倪妮消失的她角色",
+      "onboard_time": 1688009135,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 912946,
       "num": 912946,
       "word": "骨折一个月腿瘦了一圈",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1687916674,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 752204,
+      "num": 498194,
+      "word": "男子双手被铐被认定在看守所自杀",
+      "onboard_time": 1688008354,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752019,
@@ -2995,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482180,
+      "num": 342744,
+      "word": "朱洁静点了好多痣",
+      "onboard_time": 1688009676,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 480461,
       "num": 405302,
       "word": "Angelababy文咏珊合照",
@@ -3017,6 +3041,14 @@
       "onboard_time": 1687943857,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 476380,
+      "num": 476380,
+      "word": "员工盗公司游戏代码半年赚了1.5亿",
+      "onboard_time": 1688006191,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 476108,
@@ -3203,14 +3235,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 454343,
-      "num": 454343,
-      "word": "员工盗公司游戏代码半年赚了1.5亿",
-      "onboard_time": 1688006191,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 454122,
       "num": 408883,
       "word": "男子举报妻子出轨南京一高校领导",
@@ -3283,20 +3307,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 444507,
-      "num": 444507,
-      "word": "男子双手被铐被认定在看守所自杀",
-      "onboard_time": 1688008354,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441102,
       "num": 441102,
       "word": "当事人回应酒店沐浴露疑被灌精液",
       "onboard_time": 1687922914,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438463,
+      "num": 276028,
+      "word": "运动太多身材反而不好看了",
+      "onboard_time": 1688008712,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 435960,
@@ -3632,6 +3656,14 @@
       "word": "王宝强金扫帚奖渊源",
       "onboard_time": 1687840615,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399037,
+      "num": 349856,
+      "word": "电影八角笼中",
+      "onboard_time": 1688007995,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -4040,14 +4072,6 @@
       "word": "段嘉许表白",
       "onboard_time": 1687792239,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 349856,
-      "num": 349856,
-      "word": "电影八角笼中",
-      "onboard_time": 1688007995,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -5147,6 +5171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279618,
+      "num": 274098,
+      "word": "王宝强圈内人缘",
+      "onboard_time": 1688009613,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279569,
       "num": 299959,
       "word": "旅游再也不想给家人买东西了",
@@ -5323,6 +5355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269526,
+      "num": 269526,
+      "word": "狐妖小红娘",
+      "onboard_time": 1688008712,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269431,
       "num": 269431,
       "word": "上海凌晨四点的天空是粉紫色的",
@@ -5473,6 +5513,14 @@
       "onboard_time": 1687775985,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259619,
+      "num": 274828,
+      "word": "暑假未成年人只能周五六日打游戏",
+      "onboard_time": 1688009432,
+      "rank": 33,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 259002,
@@ -5713,14 +5761,6 @@
       "onboard_time": 1687965877,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247305,
-      "num": 233022,
-      "word": "人民网评倪妮消失的她角色",
-      "onboard_time": 1688009135,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 247157,
@@ -6371,6 +6411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217207,
+      "num": 217207,
+      "word": "第一次见带崽带崩溃的狗狗",
+      "onboard_time": 1688009256,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "女排",
@@ -6497,6 +6545,14 @@
       "onboard_time": 1687871202,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 212064,
+      "num": 561102,
+      "word": "分享一些拼多多宝藏荔枝",
+      "onboard_time": 1688007153,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212049,
@@ -6641,14 +6697,6 @@
       "onboard_time": 1687929459,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205273,
-      "num": 205273,
-      "word": "狐妖小红娘",
-      "onboard_time": 1688008712,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 204660,
@@ -7195,6 +7243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 185700,
+      "num": 185700,
+      "word": "让巨型猫猫坐中间的哥哥们想的",
+      "onboard_time": 1688009676,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185446,
       "num": 185446,
       "word": "迷路男童背出父母手机号却无人接听",
@@ -7403,6 +7459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177665,
+      "num": 177665,
+      "word": "胡锡进",
+      "onboard_time": 1688009855,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176772,
       "num": 176772,
       "word": "马丽回复惠英红生日祝福",
@@ -7539,11 +7603,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167873,
-      "num": 561102,
-      "word": "分享一些拼多多宝藏荔枝",
-      "onboard_time": 1688007153,
-      "rank": 39,
+      "raw_hot": 166733,
+      "num": 166733,
+      "word": "被新加坡法律法规吓晕",
+      "onboard_time": 1688009916,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -8001,14 +8065,6 @@
       "onboard_time": 1687863580,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129445,
-      "num": 174014,
-      "word": "运动太多身材反而不好看了",
-      "onboard_time": 1688008712,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128458,
@@ -8620,7 +8676,7 @@
     },
     {
       "raw_hot": 34452,
-      "num": 1627351,
+      "num": 1711373,
       "word": "成都大运会边看边玩攻略",
       "onboard_time": 1687955740,
       "rank": 17,
