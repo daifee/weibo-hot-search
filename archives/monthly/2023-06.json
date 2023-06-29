@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688016944870,
+  "endTime": 1688019944506,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -513,6 +513,14 @@
       "onboard_time": 1685548168,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3848440,
+      "num": 3848440,
+      "word": "多所高校停用微信支付",
+      "onboard_time": 1688015558,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 3845811,
@@ -2019,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2304782,
+      "num": 685226,
+      "word": "蔡徐坤",
+      "onboard_time": 1688016335,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2299874,
       "num": 2299874,
       "word": "不孕不育是榴莲最好的福报",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1687685497,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2085801,
+      "num": 2085801,
+      "word": "微信支付",
+      "onboard_time": 1688017835,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 2085497,
@@ -4225,14 +4249,6 @@
       "onboard_time": 1686044311,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1660824,
-      "num": 713633,
-      "word": "多所高校停用微信支付",
-      "onboard_time": 1688015558,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1658049,
@@ -6587,6 +6603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1284868,
+      "num": 1284868,
+      "word": "仁济医院已报警",
+      "onboard_time": 1688017536,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283952,
       "num": 800068,
       "word": "中国电信回应广东无信号",
@@ -7481,6 +7505,14 @@
       "onboard_time": 1686837268,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1179849,
+      "num": 858846,
+      "word": "仁济医院",
+      "onboard_time": 1688013762,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1177533,
@@ -9331,12 +9363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014914,
-      "num": 858846,
-      "word": "仁济医院",
-      "onboard_time": 1688013762,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1016677,
+      "num": 1016677,
+      "word": "陈建州vs全在俊",
+      "onboard_time": 1688016695,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014583,
@@ -11268,7 +11300,7 @@
     },
     {
       "raw_hot": 865626,
-      "num": 355795,
+      "num": 646655,
       "word": "makiyo回应爆料陈建州很爱乱亲",
       "onboard_time": 1688015856,
       "rank": 33,
@@ -16715,6 +16747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575682,
+      "num": 575682,
+      "word": "Sana疑似台上晕倒",
+      "onboard_time": 1688016397,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575089,
       "num": 347684,
       "word": "原来近视是需要忌口的",
@@ -17147,6 +17187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559354,
+      "num": 559354,
+      "word": "女孩出生4天被遗弃养父收废品养大",
+      "onboard_time": 1688016214,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559290,
       "num": 559290,
       "word": "张小斐说现在的红毯生图非常生",
@@ -17457,14 +17505,6 @@
       "onboard_time": 1687606414,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 550401,
-      "num": 550401,
-      "word": "陈建州vs全在俊",
-      "onboard_time": 1688016695,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 550399,
@@ -18347,20 +18387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517921,
-      "num": 517921,
-      "word": "蔡徐坤",
-      "onboard_time": 1688016335,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517837,
       "num": 490203,
       "word": "WE零封TES",
       "onboard_time": 1687784804,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 517547,
+      "num": 517547,
+      "word": "He is so Ken",
+      "onboard_time": 1688017175,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 517021,
@@ -19897,6 +19937,14 @@
       "onboard_time": 1685783487,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473691,
+      "num": 438304,
+      "word": "同事离职把营业执照带走了",
+      "onboard_time": 1688016155,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 473630,
@@ -23235,6 +23283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396667,
+      "num": 396667,
+      "word": "官方辟谣网传仁济医院聊天记录",
+      "onboard_time": 1688017237,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396251,
       "num": 396251,
       "word": "十年前当了蔡依林甲方",
@@ -26411,14 +26467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344851,
-      "num": 344851,
-      "word": "女孩出生4天被遗弃养父收废品养大",
-      "onboard_time": 1688016214,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344657,
       "num": 344657,
       "word": "张远录制披荆斩棘的哥哥",
@@ -26449,6 +26497,14 @@
       "onboard_time": 1686111284,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 344304,
+      "num": 344304,
+      "word": "985男生天天宿舍打游戏到凌晨3点",
+      "onboard_time": 1688019157,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344241,
@@ -27113,14 +27169,6 @@
       "onboard_time": 1685986516,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 335229,
-      "num": 335229,
-      "word": "同事离职把营业执照带走了",
-      "onboard_time": 1688016155,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 335212,
@@ -32203,6 +32251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283640,
+      "num": 283640,
+      "word": "子弹命中的瞬间 教育闭环就此完成",
+      "onboard_time": 1688016516,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283585,
       "num": 283585,
       "word": "桑稚终于不是妹妹了",
@@ -32297,6 +32353,14 @@
       "onboard_time": 1687577254,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282398,
+      "num": 282398,
+      "word": "新版妲己 画皮小唯",
+      "onboard_time": 1688018917,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 282328,
@@ -36003,6 +36067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255094,
+      "num": 255094,
+      "word": "杨紫羽毛头饰造型",
+      "onboard_time": 1688019274,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 255046,
       "num": 255046,
       "word": "成毅郑业成英雄志片花",
@@ -38019,14 +38091,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 242848,
-      "num": 242848,
-      "word": "Sana疑似台上晕倒",
-      "onboard_time": 1688016397,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242839,
       "num": 242839,
       "word": "杨幂黄明昊跳了flower",
@@ -38299,6 +38363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241448,
+      "num": 241448,
+      "word": "腾讯回应微信支付被多所高校停用",
+      "onboard_time": 1688019518,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 241398,
       "num": 241398,
       "word": "MOMO",
@@ -38377,6 +38449,14 @@
       "onboard_time": 1685793085,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240777,
+      "num": 240777,
+      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+      "onboard_time": 1688018257,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240752,
@@ -47923,6 +48003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193164,
+      "num": 193164,
+      "word": "当我飞奔向你 嗑到手舞足蹈",
+      "onboard_time": 1688017416,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193112,
       "num": 193112,
       "word": "Spotify流媒10亿KPOP艺人",
@@ -53027,6 +53115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169553,
+      "num": 169553,
+      "word": "填报志愿期间这些个人信息要保管好",
+      "onboard_time": 1688019397,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169538,
       "num": 169538,
       "word": "四川一个班高考8人锁定清北",
@@ -53265,14 +53361,6 @@
       "onboard_time": 1687303224,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 168323,
-      "num": 168323,
-      "word": "子弹命中的瞬间 教育闭环就此完成",
-      "onboard_time": 1688016516,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 168298,
@@ -64096,6 +64184,14 @@
       "word": "男孩表演时看到爸爸一秒变开心",
       "onboard_time": 1685606487,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95365,
+      "num": 576109,
+      "word": "女孩捡手机交民警失主竟是民警本人",
+      "onboard_time": 1688018434,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

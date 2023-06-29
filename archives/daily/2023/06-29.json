@@ -1,7 +1,15 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688016944870,
+  "endTime": 1688019944506,
   "band_list": [
+    {
+      "raw_hot": 3848440,
+      "num": 3848440,
+      "word": "多所高校停用微信支付",
+      "onboard_time": 1688015558,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
     {
       "raw_hot": 3360258,
       "num": 3360258,
@@ -51,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2304782,
+      "num": 685226,
+      "word": "蔡徐坤",
+      "onboard_time": 1688016335,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2239116,
       "num": 2239116,
       "word": "港媒曝郑欣宜失踪原因",
       "onboard_time": 1688006675,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2085801,
+      "num": 2085801,
+      "word": "微信支付",
+      "onboard_time": 1688017835,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 2008191,
@@ -97,14 +121,6 @@
       "onboard_time": 1688002354,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1660824,
-      "num": 713633,
-      "word": "多所高校停用微信支付",
-      "onboard_time": 1688015558,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1585317,
@@ -155,6 +171,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1284868,
+      "num": 1284868,
+      "word": "仁济医院已报警",
+      "onboard_time": 1688017536,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1273887,
       "num": 1273887,
       "word": "丫丫",
@@ -169,6 +193,14 @@
       "onboard_time": 1687962944,
       "rank": 5,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1179849,
+      "num": 858846,
+      "word": "仁济医院",
+      "onboard_time": 1688013762,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1160843,
@@ -227,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1014914,
-      "num": 858846,
-      "word": "仁济医院",
-      "onboard_time": 1688013762,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1016677,
+      "num": 1016677,
+      "word": "陈建州vs全在俊",
+      "onboard_time": 1688016695,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 935076,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 865626,
-      "num": 355795,
+      "num": 646655,
       "word": "makiyo回应爆料陈建州很爱乱亲",
       "onboard_time": 1688015856,
       "rank": 33,
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575682,
+      "num": 575682,
+      "word": "Sana疑似台上晕倒",
+      "onboard_time": 1688016397,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563442,
       "num": 563442,
       "word": "Victoria还是这么美",
@@ -425,6 +465,14 @@
       "onboard_time": 1687999774,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559354,
+      "num": 559354,
+      "word": "女孩出生4天被遗弃养父收废品养大",
+      "onboard_time": 1688016214,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553321,
@@ -451,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 550401,
-      "num": 550401,
-      "word": "陈建州vs全在俊",
-      "onboard_time": 1688016695,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541859,
       "num": 541859,
       "word": "父亲坚持让偷店家粽子的孩子认错",
@@ -483,12 +523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 517921,
-      "num": 517921,
-      "word": "蔡徐坤",
-      "onboard_time": 1688016335,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 517547,
+      "num": 517547,
+      "word": "He is so Ken",
+      "onboard_time": 1688017175,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 516795,
@@ -576,6 +616,14 @@
       "word": "我只是在伦敦公园坐了半小时",
       "onboard_time": 1687964742,
       "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 473691,
+      "num": 438304,
+      "word": "同事离职把营业执照带走了",
+      "onboard_time": 1688016155,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -691,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396667,
+      "num": 396667,
+      "word": "官方辟谣网传仁济医院聊天记录",
+      "onboard_time": 1688017237,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386581,
       "num": 386581,
       "word": "杨幂GQ派对拍马思唯",
@@ -747,20 +803,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344851,
-      "num": 344851,
-      "word": "女孩出生4天被遗弃养父收废品养大",
-      "onboard_time": 1688016214,
-      "rank": 31,
+      "raw_hot": 344304,
+      "num": 344304,
+      "word": "985男生天天宿舍打游戏到凌晨3点",
+      "onboard_time": 1688019157,
+      "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335229,
-      "num": 335229,
-      "word": "同事离职把营业执照带走了",
-      "onboard_time": 1688016155,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 330097,
@@ -851,6 +899,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283640,
+      "num": 283640,
+      "word": "子弹命中的瞬间 教育闭环就此完成",
+      "onboard_time": 1688016516,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 282398,
+      "num": 282398,
+      "word": "新版妲己 画皮小唯",
+      "onboard_time": 1688018917,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278438,
       "num": 278438,
       "word": "爷爷临终前开了个玩笑",
@@ -939,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255094,
+      "num": 255094,
+      "word": "杨紫羽毛头饰造型",
+      "onboard_time": 1688019274,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 252579,
       "num": 252579,
       "word": "公司团建的内容永远想不到",
@@ -995,14 +1067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242848,
-      "num": 242848,
-      "word": "Sana疑似台上晕倒",
-      "onboard_time": 1688016397,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241758,
       "num": 241758,
       "word": "我爱你 我好钟意你",
@@ -1011,11 +1075,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241448,
+      "num": 241448,
+      "word": "腾讯回应微信支付被多所高校停用",
+      "onboard_time": 1688019518,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 240944,
       "num": 240944,
       "word": "女司机驾奔驰来回撞击他人",
       "onboard_time": 1687965877,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240777,
+      "num": 240777,
+      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+      "onboard_time": 1688018257,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 193164,
+      "num": 193164,
+      "word": "当我飞奔向你 嗑到手舞足蹈",
+      "onboard_time": 1688017416,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191075,
       "num": 191075,
       "word": "山东人种菜已经进化到这种程度了吗",
@@ -1267,12 +1355,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 168323,
-      "num": 168323,
-      "word": "子弹命中的瞬间 教育闭环就此完成",
-      "onboard_time": 1688016516,
+      "raw_hot": 169553,
+      "num": 169553,
+      "word": "填报志愿期间这些个人信息要保管好",
+      "onboard_time": 1688019397,
       "rank": 49,
-      "category": "教育"
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 167910,
@@ -1335,6 +1423,14 @@
       "num": 763440,
       "word": "大专生逆袭考博说人生是自己走出来的",
       "onboard_time": 1688014838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95365,
+      "num": 576109,
+      "word": "女孩捡手机交民警失主竟是民警本人",
+      "onboard_time": 1688018434,
       "rank": 14,
       "category": "社会新闻"
     },

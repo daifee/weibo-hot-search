@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688016944870,
+  "endTime": 1688019944506,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -73,6 +73,14 @@
       "onboard_time": 1687937916,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3848440,
+      "num": 3848440,
+      "word": "多所高校停用微信支付",
+      "onboard_time": 1688015558,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 3588933,
@@ -323,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2304782,
+      "num": 685226,
+      "word": "蔡徐坤",
+      "onboard_time": 1688016335,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2286556,
       "num": 2286556,
       "word": "李沁工作室疑似因造型问题删博",
@@ -400,6 +416,14 @@
       "word": "iPhone15Pro将成主打产品",
       "onboard_time": 1687833815,
       "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2085801,
+      "num": 2085801,
+      "word": "微信支付",
+      "onboard_time": 1688017835,
+      "rank": 1,
       "category": "科技"
     },
     {
@@ -675,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1660824,
-      "num": 713633,
-      "word": "多所高校停用微信支付",
-      "onboard_time": 1688015558,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 1651199,
       "num": 1651199,
       "word": "微信否认文件传输助手是真人",
@@ -955,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1284868,
+      "num": 1284868,
+      "word": "仁济医院已报警",
+      "onboard_time": 1688017536,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1282239,
       "num": 1002052,
       "word": "大牙回应陈建州声明",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1687959699,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1179849,
+      "num": 858846,
+      "word": "仁济医院",
+      "onboard_time": 1688013762,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1174557,
@@ -1315,12 +1347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1014914,
-      "num": 858846,
-      "word": "仁济医院",
-      "onboard_time": 1688013762,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1016677,
+      "num": 1016677,
+      "word": "陈建州vs全在俊",
+      "onboard_time": 1688016695,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014337,
@@ -1660,7 +1692,7 @@
     },
     {
       "raw_hot": 865626,
-      "num": 355795,
+      "num": 646655,
       "word": "makiyo回应爆料陈建州很爱乱亲",
       "onboard_time": 1688015856,
       "rank": 33,
@@ -2611,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575682,
+      "num": 575682,
+      "word": "Sana疑似台上晕倒",
+      "onboard_time": 1688016397,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574003,
       "num": 574003,
       "word": "杨紫复古名伶大片",
@@ -2699,6 +2739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559354,
+      "num": 559354,
+      "word": "女孩出生4天被遗弃养父收废品养大",
+      "onboard_time": 1688016214,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558333,
       "num": 558333,
       "word": "你上班第一个月工资有多少",
@@ -2777,14 +2825,6 @@
       "onboard_time": 1687851760,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550401,
-      "num": 550401,
-      "word": "陈建州vs全在俊",
-      "onboard_time": 1688016695,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 548477,
@@ -2971,20 +3011,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 517921,
-      "num": 517921,
-      "word": "蔡徐坤",
-      "onboard_time": 1688016335,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517837,
       "num": 490203,
       "word": "WE零封TES",
       "onboard_time": 1687784804,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 517547,
+      "num": 517547,
+      "word": "He is so Ken",
+      "onboard_time": 1688017175,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 516933,
@@ -3223,6 +3263,14 @@
       "num": 476108,
       "word": "我只是在伦敦公园坐了半小时",
       "onboard_time": 1687964742,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 473691,
+      "num": 438304,
+      "word": "同事离职把营业执照带走了",
+      "onboard_time": 1688016155,
       "rank": 34,
       "category": "幽默"
     },
@@ -3883,6 +3931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396667,
+      "num": 396667,
+      "word": "官方辟谣网传仁济医院聊天记录",
+      "onboard_time": 1688017237,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395184,
       "num": 395184,
       "word": "戴耳机睡觉结果耳机掉嘴里了",
@@ -4331,11 +4387,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344851,
-      "num": 344851,
-      "word": "女孩出生4天被遗弃养父收废品养大",
-      "onboard_time": 1688016214,
-      "rank": 31,
+      "raw_hot": 344304,
+      "num": 344304,
+      "word": "985男生天天宿舍打游戏到凌晨3点",
+      "onboard_time": 1688019157,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4433,14 +4489,6 @@
       "onboard_time": 1687927841,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335229,
-      "num": 335229,
-      "word": "同事离职把营业执照带走了",
-      "onboard_time": 1688016155,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 334884,
@@ -5355,6 +5403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 283640,
+      "num": 283640,
+      "word": "子弹命中的瞬间 教育闭环就此完成",
+      "onboard_time": 1688016516,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283585,
       "num": 283585,
       "word": "桑稚终于不是妹妹了",
@@ -5385,6 +5441,14 @@
       "onboard_time": 1687752538,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282398,
+      "num": 282398,
+      "word": "新版妲己 画皮小唯",
+      "onboard_time": 1688018917,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 281671,
@@ -5827,6 +5891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255094,
+      "num": 255094,
+      "word": "杨紫羽毛头饰造型",
+      "onboard_time": 1688019274,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 255040,
       "num": 255040,
       "word": "西藏分数线公布",
@@ -6099,14 +6171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242848,
-      "num": 242848,
-      "word": "Sana疑似台上晕倒",
-      "onboard_time": 1688016397,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242478,
       "num": 242478,
       "word": "感动全网的环卫工儿子填志愿求助",
@@ -6155,12 +6219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241448,
+      "num": 241448,
+      "word": "腾讯回应微信支付被多所高校停用",
+      "onboard_time": 1688019518,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 240851,
       "num": 240851,
       "word": "股市",
       "onboard_time": 1687747950,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240777,
+      "num": 240777,
+      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+      "onboard_time": 1688018257,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240295,
@@ -7299,6 +7379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193164,
+      "num": 193164,
+      "word": "当我飞奔向你 嗑到手舞足蹈",
+      "onboard_time": 1688017416,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192898,
       "num": 192898,
       "word": "被公司劝退怎么办",
@@ -7851,6 +7939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 169553,
+      "num": 169553,
+      "word": "填报志愿期间这些个人信息要保管好",
+      "onboard_time": 1688019397,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169538,
       "num": 169538,
       "word": "四川一个班高考8人锁定清北",
@@ -7873,14 +7969,6 @@
       "onboard_time": 1687865498,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168323,
-      "num": 168323,
-      "word": "子弹命中的瞬间 教育闭环就此完成",
-      "onboard_time": 1688016516,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 166337,
@@ -8649,6 +8737,14 @@
       "onboard_time": 1687699416,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 95365,
+      "num": 576109,
+      "word": "女孩捡手机交民警失主竟是民警本人",
+      "onboard_time": 1688018434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94807,

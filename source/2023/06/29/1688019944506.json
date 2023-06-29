@@ -1,0 +1,410 @@
+{
+  "runTime": 1688019944506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3848440,
+        "num": 3848440,
+        "word": "多所高校停用微信支付",
+        "onboard_time": 1688015558,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 2085801,
+        "num": 2085801,
+        "word": "微信支付",
+        "onboard_time": 1688017835,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 6882,
+        "num": 1537976,
+        "word": "成都大运会边看边玩攻略",
+        "onboard_time": 1687955740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284868,
+        "num": 1284868,
+        "word": "仁济医院已报警",
+        "onboard_time": 1688017536,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016677,
+        "num": 1016677,
+        "word": "陈建州vs全在俊",
+        "onboard_time": 1688016695,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913581,
+        "num": 913581,
+        "word": "人民网评倪妮消失的她角色",
+        "onboard_time": 1688009135,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825524,
+        "num": 825524,
+        "word": "鳄鱼独居16年产子",
+        "onboard_time": 1688013220,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 743445,
+        "num": 743445,
+        "word": "媒体评LV帆布袋又蠢又穷又虚荣",
+        "onboard_time": 1688014659,
+        "rank": 7,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 722753,
+        "num": 722753,
+        "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+        "onboard_time": 1687958560,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703754,
+        "num": 703754,
+        "word": "新版妲己首度曝光",
+        "onboard_time": 1688008354,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2304782,
+        "num": 685226,
+        "word": "蔡徐坤",
+        "onboard_time": 1688016335,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1179849,
+        "num": 670762,
+        "word": "仁济医院",
+        "onboard_time": 1688013762,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823209,
+        "num": 646655,
+        "word": "makiyo回应爆料陈建州很爱乱亲",
+        "onboard_time": 1688015856,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577184,
+        "num": 577184,
+        "word": "鲁A33632你做的好事藏不住了",
+        "onboard_time": 1688012200,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95365,
+        "num": 576109,
+        "word": "女孩捡手机交民警失主竟是民警本人",
+        "onboard_time": 1688018434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575682,
+        "num": 575682,
+        "word": "Sana疑似台上晕倒",
+        "onboard_time": 1688016397,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559354,
+        "num": 559354,
+        "word": "女孩出生4天被遗弃养父收废品养大",
+        "onboard_time": 1688016214,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517547,
+        "num": 517547,
+        "word": "He is so Ken",
+        "onboard_time": 1688017175,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510154,
+        "num": 510154,
+        "word": "台媒曝陈建州全裸骚扰S妈",
+        "onboard_time": 1687994967,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451039,
+        "num": 451039,
+        "word": "惠英红 又收获一枚宝贝杨幂",
+        "onboard_time": 1688011598,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928193,
+        "num": 451028,
+        "word": "杀妻欲藏尸冰柜男子被判死刑",
+        "onboard_time": 1688011893,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473691,
+        "num": 438304,
+        "word": "同事离职把营业执照带走了",
+        "onboard_time": 1688016155,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396667,
+        "num": 396667,
+        "word": "官方辟谣网传仁济医院聊天记录",
+        "onboard_time": 1688017237,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370907,
+        "num": 370907,
+        "word": "陈建州 喔这张床不可以",
+        "onboard_time": 1687960477,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362412,
+        "num": 362412,
+        "word": "山西一男子杀害妻儿后跳河身亡",
+        "onboard_time": 1688013100,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350790,
+        "num": 350790,
+        "word": "六公主评偷偷藏不住",
+        "onboard_time": 1687999774,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344304,
+        "num": 344304,
+        "word": "985男生天天宿舍打游戏到凌晨3点",
+        "onboard_time": 1688019157,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329769,
+        "num": 329769,
+        "word": "王源 瑞士",
+        "onboard_time": 1688012983,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318432,
+        "num": 318432,
+        "word": "王宝强圈内人缘",
+        "onboard_time": 1688009613,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307140,
+        "num": 307140,
+        "word": "朱洁静点了好多痣",
+        "onboard_time": 1688009676,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295998,
+        "num": 295998,
+        "word": "回客厅IP就到四川了",
+        "onboard_time": 1688013703,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283640,
+        "num": 283640,
+        "word": "子弹命中的瞬间 教育闭环就此完成",
+        "onboard_time": 1688016516,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282398,
+        "num": 282398,
+        "word": "新版妲己 画皮小唯",
+        "onboard_time": 1688018917,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276848,
+        "num": 276848,
+        "word": "肖战王一博今晚见",
+        "onboard_time": 1687998155,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268973,
+        "num": 268973,
+        "word": "麦当娜被紧急送医",
+        "onboard_time": 1688011475,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255130,
+        "num": 255130,
+        "word": "港媒曝郑欣宜失踪原因",
+        "onboard_time": 1688006675,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255094,
+        "num": 255094,
+        "word": "杨紫羽毛头饰造型",
+        "onboard_time": 1688019274,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253545,
+        "num": 253545,
+        "word": "夏鸣星",
+        "onboard_time": 1688015497,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241448,
+        "num": 241448,
+        "word": "腾讯回应微信支付被多所高校停用",
+        "onboard_time": 1688019518,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 240777,
+        "num": 240777,
+        "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+        "onboard_time": 1688018257,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250958,
+        "num": 236397,
+        "word": "王一博出发香港",
+        "onboard_time": 1688014780,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231741,
+        "num": 231741,
+        "word": "黄新淳离鹿晗好近",
+        "onboard_time": 1688014122,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209468,
+        "num": 209468,
+        "word": "领完结婚证岳父给我转了29.8万",
+        "onboard_time": 1687994604,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196372,
+        "num": 196372,
+        "word": "封神妲己曾出演周杰伦MV女主",
+        "onboard_time": 1688015917,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195240,
+        "num": 195240,
+        "word": "男子双手被铐被认定在看守所自杀",
+        "onboard_time": 1688008354,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193164,
+        "num": 193164,
+        "word": "当我飞奔向你 嗑到手舞足蹈",
+        "onboard_time": 1688017416,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191929,
+        "num": 191929,
+        "word": "运动太多身材反而不好看了",
+        "onboard_time": 1688008712,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184154,
+        "num": 184154,
+        "word": "李沁工作室疑似因造型问题删博",
+        "onboard_time": 1687953632,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181706,
+        "num": 181706,
+        "word": "段嘉许孔雀开屏图",
+        "onboard_time": 1688016034,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 169553,
+        "word": "填报志愿期间这些个人信息要保管好",
+        "onboard_time": 1688019397,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国广电新媒体集结发光#"
+    }
+  }
+}
