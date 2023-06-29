@@ -1,10 +1,10 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688019944506,
+  "endTime": 1688020771717,
   "band_list": [
     {
-      "raw_hot": 3848440,
-      "num": 3848440,
+      "raw_hot": 3851447,
+      "num": 3851447,
       "word": "多所高校停用微信支付",
       "onboard_time": 1688015558,
       "rank": 29,
@@ -259,8 +259,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1016677,
-      "num": 1016677,
+      "raw_hot": 1018685,
+      "num": 1018685,
       "word": "陈建州vs全在俊",
       "onboard_time": 1688016695,
       "rank": 19,
@@ -443,8 +443,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575682,
-      "num": 575682,
+      "raw_hot": 601835,
+      "num": 601835,
+      "word": "时代峰峻回应TF三代吵架",
+      "onboard_time": 1688020476,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595900,
+      "num": 488590,
+      "word": "985男生天天宿舍打游戏到凌晨3点",
+      "onboard_time": 1688019157,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593970,
+      "num": 593970,
       "word": "Sana疑似台上晕倒",
       "onboard_time": 1688016397,
       "rank": 40,
@@ -577,6 +593,14 @@
       "onboard_time": 1688013461,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 491017,
+      "num": 491017,
+      "word": "腾讯回应微信支付被多所高校停用",
+      "onboard_time": 1688019518,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 486726,
@@ -803,12 +827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344304,
-      "num": 344304,
-      "word": "985男生天天宿舍打游戏到凌晨3点",
-      "onboard_time": 1688019157,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 341448,
+      "num": 341448,
+      "word": "杨紫羽毛头饰造型",
+      "onboard_time": 1688019274,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 335090,
+      "num": 335090,
+      "word": "新版妲己 画皮小唯",
+      "onboard_time": 1688018917,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 330097,
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300020,
+      "num": 300020,
+      "word": "内蒙运来的生猪在天津热中暑了",
+      "onboard_time": 1688019936,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 298308,
       "num": 298308,
       "word": "只有在重庆动物园才能看到的画面",
@@ -875,12 +915,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 297240,
+      "num": 297240,
+      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+      "onboard_time": 1688018257,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293874,
       "num": 293874,
       "word": "封神妲己曾出演周杰伦MV女主",
       "onboard_time": 1688015917,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292607,
+      "num": 292607,
+      "word": "田柾国金珉奎车银优郑在玹聚餐",
+      "onboard_time": 1688020358,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 291891,
@@ -907,12 +963,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 282398,
-      "num": 282398,
-      "word": "新版妲己 画皮小唯",
-      "onboard_time": 1688018917,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 279263,
+      "num": 279263,
+      "word": "安安",
+      "onboard_time": 1688020178,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 278438,
@@ -1003,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255094,
-      "num": 255094,
-      "word": "杨紫羽毛头饰造型",
-      "onboard_time": 1688019274,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 252579,
       "num": 252579,
       "word": "公司团建的内容永远想不到",
@@ -1075,27 +1123,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241448,
-      "num": 241448,
-      "word": "腾讯回应微信支付被多所高校停用",
-      "onboard_time": 1688019518,
-      "rank": 38,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 240944,
       "num": 240944,
       "word": "女司机驾奔驰来回撞击他人",
       "onboard_time": 1687965877,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240777,
-      "num": 240777,
-      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
-      "onboard_time": 1688018257,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1419,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 131936,
+      "num": 602225,
+      "word": "女孩捡手机交民警失主竟是民警本人",
+      "onboard_time": 1688018434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131104,
       "num": 189434,
       "word": "制作逝者留在墓碑上的食谱食物",
@@ -1423,14 +1463,6 @@
       "num": 763440,
       "word": "大专生逆袭考博说人生是自己走出来的",
       "onboard_time": 1688014838,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95365,
-      "num": 576109,
-      "word": "女孩捡手机交民警失主竟是民警本人",
-      "onboard_time": 1688018434,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1489,6 +1521,14 @@
       "onboard_time": 1687972699,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12097,
+      "num": 1317165,
+      "word": "2023年中国网络文明大会新闻发布会",
+      "onboard_time": 1688020476,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
