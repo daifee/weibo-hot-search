@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688059025713,
+  "endTime": 1688060025153,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -7907,6 +7907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 219295,
+      "num": 633785,
+      "word": "为什么火锅价格越来越贵了",
+      "onboard_time": 1688042499,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218999,
       "num": 218999,
       "word": "为了卖课渲染暑假很可怕太损了",
@@ -8289,14 +8297,6 @@
       "onboard_time": 1688002893,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205715,
-      "num": 633785,
-      "word": "为什么火锅价格越来越贵了",
-      "onboard_time": 1688042499,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 205548,
@@ -8841,6 +8841,14 @@
       "onboard_time": 1688035298,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188653,
+      "num": 188653,
+      "word": "十个勤天",
+      "onboard_time": 1688058924,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 188617,
@@ -9401,14 +9409,6 @@
       "onboard_time": 1687961683,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165766,
-      "num": 165766,
-      "word": "十个勤天",
-      "onboard_time": 1688058924,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 165463,
@@ -10371,6 +10371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83939,
+      "num": 168471,
+      "word": "预防人贩子骗你开门",
+      "onboard_time": 1688057727,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83536,
       "num": 466299,
       "word": "男子高速遇铁皮挡路停车独自挪开",
@@ -10393,14 +10401,6 @@
       "onboard_time": 1687885763,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 81929,
-      "num": 152418,
-      "word": "预防人贩子骗你开门",
-      "onboard_time": 1688057727,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81229,

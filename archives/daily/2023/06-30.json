@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688059025713,
+  "endTime": 1688060025153,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -291,20 +291,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267537,
+      "num": 357978,
+      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
+      "onboard_time": 1688044239,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 266408,
       "num": 266408,
       "word": "关晓彤帽子P掉了鹿晗品牌",
       "onboard_time": 1688028460,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263527,
-      "num": 357978,
-      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
-      "onboard_time": 1688044239,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259941,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219295,
+      "num": 633785,
+      "word": "为什么火锅价格越来越贵了",
+      "onboard_time": 1688042499,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204824,
       "num": 507605,
       "word": "樊振东3比0安宰贤",
@@ -363,14 +371,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 193268,
-      "num": 633785,
-      "word": "为什么火锅价格越来越贵了",
-      "onboard_time": 1688042499,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 192303,
       "num": 414356,
       "word": "眼睛功能问题康复小方法",
@@ -379,20 +379,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 188653,
+      "num": 188653,
+      "word": "十个勤天",
+      "onboard_time": 1688058924,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175762,
       "num": 524114,
       "word": "大熊猫雅一把秋千坐断了",
       "onboard_time": 1688050907,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165766,
-      "num": 165766,
-      "word": "十个勤天",
-      "onboard_time": 1688058924,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 161245,
@@ -451,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81929,
-      "num": 152418,
+      "raw_hot": 83939,
+      "num": 168471,
       "word": "预防人贩子骗你开门",
       "onboard_time": 1688057727,
       "rank": 49,
