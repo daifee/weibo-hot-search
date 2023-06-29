@@ -1,0 +1,410 @@
+{
+  "runTime": 1688038422847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3105910,
+        "num": 3105910,
+        "word": "阿斯巴甜 致癌",
+        "onboard_time": 1688029002,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683085,
+        "num": 2788280,
+        "word": "中国科大宿舍拎包入住",
+        "onboard_time": 1688031997,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 18669,
+        "num": 2665994,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2582857,
+        "num": 2582857,
+        "word": "辛芷蕾自曝小时候遭遇猥亵",
+        "onboard_time": 1688036434,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402983,
+        "num": 1943349,
+        "word": "青海6岁烧伤男孩千里转运成都",
+        "onboard_time": 1688035115,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373890,
+        "num": 1373890,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268048,
+        "num": 1052463,
+        "word": "山东龙凤四胞胎同圆大学梦",
+        "onboard_time": 1688025098,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1016013,
+        "num": 1016013,
+        "word": "姜广涛 开工",
+        "onboard_time": 1688023897,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959059,
+        "num": 959059,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758364,
+        "num": 758364,
+        "word": "王一博现身香港梦回无名叶先生",
+        "onboard_time": 1688036795,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2936512,
+        "num": 752923,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2069848,
+        "num": 751826,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1267514,
+        "num": 750164,
+        "word": "微信支付的手续费是否过高了",
+        "onboard_time": 1688032059,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 737815,
+        "num": 737815,
+        "word": "袁姗姗一期节目落了五次水",
+        "onboard_time": 1688031577,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36579,
+        "num": 681630,
+        "word": "校长教毕业生平心面对人生风雨",
+        "onboard_time": 1688036434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468882,
+        "num": 668566,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853582,
+        "num": 667379,
+        "word": "路怡老涵恋情",
+        "onboard_time": 1688032658,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 645020,
+        "num": 645020,
+        "word": "暮色心约 空降",
+        "onboard_time": 1688036015,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 754292,
+        "num": 604172,
+        "word": "范玮琪 我家只有一张床",
+        "onboard_time": 1688026783,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562481,
+        "num": 562481,
+        "word": "LV帆布袋已被炒至700元",
+        "onboard_time": 1688028520,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 632342,
+        "num": 546156,
+        "word": "一根辣条毁了我的事业",
+        "onboard_time": 1688032777,
+        "rank": 20,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 528357,
+        "num": 528357,
+        "word": "Jennie哭戏",
+        "onboard_time": 1688033137,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368499,
+        "num": 368499,
+        "word": "19岁男生高考后找失足女被拘5天",
+        "onboard_time": 1688035778,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308298,
+        "num": 308298,
+        "word": "学校承诺考上985奖30万未兑现被起诉",
+        "onboard_time": 1688021916,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 304500,
+        "num": 304500,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 424182,
+        "num": 301778,
+        "word": "卜凡没领岳明辉发的生日红包",
+        "onboard_time": 1688033559,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421988,
+        "num": 297017,
+        "word": "朱一龙回应自己立牌被打",
+        "onboard_time": 1688033434,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339197,
+        "num": 294298,
+        "word": "肖战每天对自己说这13个字",
+        "onboard_time": 1688036738,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288304,
+        "num": 288304,
+        "word": "山西代县矿工死亡瞒报事件调查",
+        "onboard_time": 1688037095,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282142,
+        "num": 282142,
+        "word": "你买的素皮手机脱落了吗",
+        "onboard_time": 1688035537,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 545146,
+        "num": 281779,
+        "word": "背帆布包上班被同事阴阳了",
+        "onboard_time": 1688037573,
+        "rank": 30,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 330070,
+        "num": 281454,
+        "word": "Angelababy宋威龙GQ合照",
+        "onboard_time": 1688030259,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328970,
+        "num": 280471,
+        "word": "宋轶罗一舟新综艺定档",
+        "onboard_time": 1688036316,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279434,
+        "num": 279434,
+        "word": "天官赐福",
+        "onboard_time": 1688025937,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 277293,
+        "num": 277293,
+        "word": "卫健委回应医院疑失误致新生儿死亡",
+        "onboard_time": 1688035474,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255041,
+        "num": 255041,
+        "word": "鳄鱼独居16年产子",
+        "onboard_time": 1688013220,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 251674,
+        "num": 251674,
+        "word": "Hero零封eStar",
+        "onboard_time": 1688037033,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250733,
+        "num": 250733,
+        "word": "以前的人为什么头发浓密",
+        "onboard_time": 1688035419,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 246527,
+        "num": 246527,
+        "word": "makiyo回应爆料陈建州很爱乱亲",
+        "onboard_time": 1688015856,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238336,
+        "num": 238336,
+        "word": "一直娱",
+        "onboard_time": 1688035177,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232014,
+        "num": 232014,
+        "word": "吼浪工作室回应姜广涛开工",
+        "onboard_time": 1688035837,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225650,
+        "num": 225650,
+        "word": "竹已笔下的男主",
+        "onboard_time": 1688031697,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216094,
+        "num": 216094,
+        "word": "陈建州vs全在俊",
+        "onboard_time": 1688016695,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214937,
+        "num": 214937,
+        "word": "流浪金毛入编成反诈汪汪队队长",
+        "onboard_time": 1688037874,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203202,
+        "num": 203202,
+        "word": "郑乃馨宋继扬新剧公费恋爱",
+        "onboard_time": 1688037635,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201473,
+        "num": 201473,
+        "word": "浙江26岁小伙月薪3千存下30万",
+        "onboard_time": 1688029181,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 200739,
+        "num": 200739,
+        "word": "多所高校停用微信支付",
+        "onboard_time": 1688015558,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 200291,
+        "num": 200291,
+        "word": "追光的日子",
+        "onboard_time": 1688038232,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178248,
+        "num": 178248,
+        "word": "张睿谈被披哥节目组连拒四次",
+        "onboard_time": 1688022455,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172595,
+        "num": 172595,
+        "word": "外交部回应美方宣称将继续做中方不喜欢的事",
+        "onboard_time": 1688037995,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    }
+  }
+}
