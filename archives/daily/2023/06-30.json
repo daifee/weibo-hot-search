@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688066115314,
+  "endTime": 1688067223526,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -499,12 +499,20 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 35999,
-      "num": 35999,
+      "raw_hot": 44209,
+      "num": 44209,
       "word": "英雄联盟",
       "onboard_time": 1688063956,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40487,
+      "num": 36085,
+      "word": "周杰伦刘畊宏海口跳本草纲目",
+      "onboard_time": 1688064317,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 29120,
