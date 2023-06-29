@@ -1,0 +1,410 @@
+{
+  "runTime": 1688007410810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200799,
+        "num": 2200799,
+        "word": "六公主评偷偷藏不住",
+        "onboard_time": 1687999774,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1321918,
+        "num": 1321918,
+        "word": "拜登使用呼吸机治疗睡眠呼吸暂停",
+        "onboard_time": 1688002893,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 8308,
+        "num": 1216091,
+        "word": "成都大运会边看边玩攻略",
+        "onboard_time": 1687955740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136512,
+        "num": 1136512,
+        "word": "女子航班延误却见山航冒雨起飞",
+        "onboard_time": 1688004453,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898946,
+        "num": 898946,
+        "word": "沈月进组狐妖小红娘",
+        "onboard_time": 1688003792,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895258,
+        "num": 895258,
+        "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+        "onboard_time": 1687958560,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803252,
+        "num": 803252,
+        "word": "肖战王一博今晚见",
+        "onboard_time": 1687998155,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677155,
+        "num": 677155,
+        "word": "孕晚期12306的人性化服务",
+        "onboard_time": 1688003192,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630879,
+        "num": 630879,
+        "word": "丫丫解锁新玩具竹笼",
+        "onboard_time": 1688005772,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565048,
+        "num": 565048,
+        "word": "12306回应高级动卧乘坐一站8分钟420元",
+        "onboard_time": 1687995449,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1994277,
+        "num": 563034,
+        "word": "台媒曝陈建州全裸骚扰S妈",
+        "onboard_time": 1687994967,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1343071,
+        "num": 560653,
+        "word": "韩安冉婚礼",
+        "onboard_time": 1688002231,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 661283,
+        "num": 556091,
+        "word": "扬州警方通报网民发帖称被民警强奸",
+        "onboard_time": 1688002354,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895368,
+        "num": 550771,
+        "word": "陈建州 喔这张床不可以",
+        "onboard_time": 1687960477,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579321,
+        "num": 548218,
+        "word": "消失的她文身细节",
+        "onboard_time": 1688006132,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547050,
+        "num": 547050,
+        "word": "私拆女儿档案的母亲道歉",
+        "onboard_time": 1687993343,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541859,
+        "num": 541859,
+        "word": "父亲坚持让偷店家粽子的孩子认错",
+        "onboard_time": 1688004632,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492279,
+        "num": 492279,
+        "word": "范玮琪终于出现了",
+        "onboard_time": 1687937916,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473459,
+        "num": 473459,
+        "word": "韩国改周岁算法后",
+        "onboard_time": 1687997614,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423210,
+        "num": 423210,
+        "word": "泰坦号潜水器残骸中发现疑似人类遗骸",
+        "onboard_time": 1687999895,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497974,
+        "num": 422640,
+        "word": "丫丫",
+        "onboard_time": 1688006373,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491920,
+        "num": 420698,
+        "word": "领完结婚证岳父给我转了29.8万",
+        "onboard_time": 1687994604,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418251,
+        "num": 418251,
+        "word": "李沁工作室疑似因造型问题删博",
+        "onboard_time": 1687953632,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 398756,
+        "num": 398756,
+        "word": "周翊然张淼怡二搭吧",
+        "onboard_time": 1688005472,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346244,
+        "num": 387907,
+        "word": "3杯咖啡如何分给4个领导",
+        "onboard_time": 1688004692,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387681,
+        "num": 387681,
+        "word": "蔡徐坤巡演将如期举行",
+        "onboard_time": 1687939717,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365961,
+        "num": 365961,
+        "word": "陈建州方回应郭源元指控",
+        "onboard_time": 1687995085,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363580,
+        "num": 363580,
+        "word": "TOP参演鱿鱼游戏2",
+        "onboard_time": 1688003490,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264086,
+        "num": 264086,
+        "word": "男子晒全家老少四口一人摆一个地摊",
+        "onboard_time": 1688006312,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246228,
+        "num": 246228,
+        "word": "孩子生病爸爸打110报警请求超速",
+        "onboard_time": 1688003374,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874267,
+        "num": 246120,
+        "word": "港媒曝郑欣宜失踪原因",
+        "onboard_time": 1688006675,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346969,
+        "num": 245950,
+        "word": "员工盗公司游戏代码半年赚了1.5亿",
+        "onboard_time": 1688006191,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 298051,
+        "num": 245917,
+        "word": "毛不易看甜宠剧会发出上不了台面的声音",
+        "onboard_time": 1687999774,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245735,
+        "num": 245735,
+        "word": "LV老板带着儿女北京巡店",
+        "onboard_time": 1687962944,
+        "rank": 33,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 244420,
+        "num": 244420,
+        "word": "古尔邦节",
+        "onboard_time": 1688004092,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239466,
+        "num": 239466,
+        "word": "鼠鼠鸭玩具遭淘宝下架",
+        "onboard_time": 1688007089,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 237287,
+        "num": 237287,
+        "word": "黄轩红毯穿金戴银",
+        "onboard_time": 1688003914,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232367,
+        "num": 232367,
+        "word": "看完消失的她 女孩一定要牢记",
+        "onboard_time": 1688000257,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227103,
+        "num": 227103,
+        "word": "留学一年我的中文退化程度",
+        "onboard_time": 1688006610,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163590,
+        "num": 223326,
+        "word": "分享一些拼多多宝藏荔枝",
+        "onboard_time": 1688007153,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221346,
+        "num": 221346,
+        "word": "室友考研要和我考同一个学校",
+        "onboard_time": 1687998818,
+        "rank": 40,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 221214,
+        "num": 221214,
+        "word": "赵露思陈哲远脸颊吻",
+        "onboard_time": 1688004574,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214938,
+        "num": 214938,
+        "word": "杨幂GQ派对拍马思唯",
+        "onboard_time": 1688007333,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213768,
+        "num": 213768,
+        "word": "胃癌几乎都是吃出来的",
+        "onboard_time": 1687949316,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199382,
+        "num": 199382,
+        "word": "27岁小伙对抗病魔13年去世后捐献遗体",
+        "onboard_time": 1688005713,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196382,
+        "num": 196382,
+        "word": "单眼皮化妆的痛",
+        "onboard_time": 1688005291,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 193100,
+        "num": 193100,
+        "word": "何超莲娃从天上来",
+        "onboard_time": 1687953332,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191038,
+        "num": 191038,
+        "word": "赵丽颖曹可凡合照",
+        "onboard_time": 1687995085,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82848,
+        "num": 190294,
+        "word": "中国天眼取得重大突破",
+        "onboard_time": 1687999654,
+        "rank": 48,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 66147,
+        "num": 189434,
+        "word": "制作逝者留在墓碑上的食谱食物",
+        "onboard_time": 1688000198,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    }
+  }
+}
