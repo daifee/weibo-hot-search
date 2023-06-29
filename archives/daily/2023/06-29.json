@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688043357701,
+  "endTime": 1688045384069,
   "band_list": [
     {
       "raw_hot": 7349947,
@@ -27,6 +27,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4021133,
+      "num": 778153,
+      "word": "难听",
+      "onboard_time": 1688041832,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3885458,
+      "num": 771518,
+      "word": "假唱",
+      "onboard_time": 1688043278,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3851447,
       "num": 3851447,
       "word": "多所高校停用微信支付",
@@ -35,19 +51,19 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 3743928,
+      "num": 1396654,
+      "word": "肖战周海媚坐一桌",
+      "onboard_time": 1688044363,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3360258,
       "num": 3360258,
       "word": "新版妲己首度曝光",
       "onboard_time": 1688008354,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 3301282,
-      "num": 624601,
-      "word": "难听",
-      "onboard_time": 1688041832,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 2707528,
-      "num": 668566,
+      "num": 750710,
       "word": "黑涩会美眉妖娇指控陈建州性骚扰",
       "onboard_time": 1688030738,
       "rank": 15,
@@ -163,6 +179,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2076855,
+      "num": 765546,
+      "word": "李宇春唱的啥",
+      "onboard_time": 1688042676,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2034028,
+      "num": 751976,
+      "word": "王一博走了肖战还没登场",
+      "onboard_time": 1688044903,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2008191,
       "num": 2008191,
       "word": "杀妻欲藏尸冰柜男子被判死刑",
@@ -180,11 +212,19 @@
     },
     {
       "raw_hot": 1737166,
-      "num": 750434,
+      "num": 775330,
       "word": "微信支付的手续费是否过高了",
       "onboard_time": 1688032059,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1705912,
+      "num": 1705912,
+      "word": "张柏芝美得我眼前一亮",
+      "onboard_time": 1688042859,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 1698938,
@@ -347,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1219402,
+      "num": 759368,
+      "word": "一生所爱 最难听版本",
+      "onboard_time": 1688043583,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1202003,
       "num": 1202003,
       "word": "时代峰峻回应TF三代吵架",
@@ -419,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1073435,
+      "num": 754075,
+      "word": "谭维维刀剑如梦 下次别改了",
+      "onboard_time": 1688043821,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066151,
       "num": 944416,
       "word": "范玮琪 我家只有一张床",
@@ -457,14 +513,6 @@
       "onboard_time": 1688016695,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1018029,
-      "num": 623580,
-      "word": "李宇春唱的啥",
-      "onboard_time": 1688042676,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 972553,
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785811,
+      "num": 785811,
+      "word": "去故宫的时候一定要抬头",
+      "onboard_time": 1688041832,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 759676,
       "num": 759676,
       "word": "惠英红 又收获一枚宝贝杨幂",
@@ -633,6 +689,14 @@
       "onboard_time": 1688005772,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717567,
+      "num": 717567,
+      "word": "温拿五虎 杀疯了",
+      "onboard_time": 1688044302,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 715685,
@@ -692,7 +756,7 @@
     },
     {
       "raw_hot": 666594,
-      "num": 666594,
+      "num": 785100,
       "word": "LV帆布袋已被炒至700元",
       "onboard_time": 1688028520,
       "rank": 12,
@@ -740,7 +804,7 @@
     },
     {
       "raw_hot": 623638,
-      "num": 607363,
+      "num": 633871,
       "word": "浙江26岁小伙月薪3千存下30万",
       "onboard_time": 1688029181,
       "rank": 23,
@@ -753,14 +817,6 @@
       "onboard_time": 1688016214,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622100,
-      "num": 622100,
-      "word": "张柏芝美得我眼前一亮",
-      "onboard_time": 1688042859,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 619183,
@@ -827,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 552551,
+      "num": 552551,
+      "word": "刘宇宁笑红尘",
+      "onboard_time": 1688043159,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551272,
       "num": 217041,
       "word": "妻子苦等丈夫回家熬到凌晨哭着报警",
@@ -857,6 +921,14 @@
       "onboard_time": 1688004632,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533584,
+      "num": 763915,
+      "word": "武契奇儿子被科索沃当局扣留",
+      "onboard_time": 1688041956,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 532871,
@@ -905,6 +977,14 @@
       "onboard_time": 1687963128,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510774,
+      "num": 756006,
+      "word": "如果不工作5万可以用多久",
+      "onboard_time": 1688042559,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 510280,
@@ -1035,14 +1115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452402,
-      "num": 452402,
-      "word": "假唱",
-      "onboard_time": 1688043278,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 450399,
       "num": 450399,
       "word": "马正阳叶瑄",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1688014780,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 433092,
-      "num": 433092,
-      "word": "刘宇宁笑红尘",
-      "onboard_time": 1688043159,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 428538,
@@ -1211,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397062,
+      "num": 397062,
+      "word": "钟楚曦竟然会粤语",
+      "onboard_time": 1688043943,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396667,
       "num": 396667,
       "word": "官方辟谣网传仁济医院聊天记录",
@@ -1227,12 +1299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 392309,
-      "num": 623197,
-      "word": "武契奇儿子被科索沃当局扣留",
-      "onboard_time": 1688041956,
-      "rank": 38,
-      "category": "国内要闻"
+      "raw_hot": 395164,
+      "num": 782640,
+      "word": "GALA卡莎五杀",
+      "onboard_time": 1688043519,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 392205,
@@ -1267,6 +1339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 378513,
+      "num": 378513,
+      "word": "张卫健 中气十足",
+      "onboard_time": 1688044182,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378426,
       "num": 291730,
       "word": "魏大勋说范丞丞换节目像换了个人",
@@ -1281,14 +1361,6 @@
       "onboard_time": 1687964620,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 372278,
-      "num": 622267,
-      "word": "去故宫的时候一定要抬头",
-      "onboard_time": 1688041832,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 372102,
@@ -1515,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301988,
+      "num": 762971,
+      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
+      "onboard_time": 1688044239,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 300020,
       "num": 300020,
       "word": "内蒙运来的生猪在天津热中暑了",
@@ -1532,7 +1612,7 @@
     },
     {
       "raw_hot": 296697,
-      "num": 623791,
+      "num": 633870,
       "word": "打不到蚊子的原因找到了",
       "onboard_time": 1688039853,
       "rank": 24,
@@ -1675,14 +1755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268854,
-      "num": 464079,
-      "word": "如果不工作5万可以用多久",
-      "onboard_time": 1688042559,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267908,
       "num": 267908,
       "word": "劳保鞋被砸变形工人脚趾夹流血",
@@ -1819,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242343,
+      "num": 491243,
+      "word": "摄影师潜水拍鲤鱼吃荷花",
+      "onboard_time": 1688045021,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 241758,
       "num": 241758,
       "word": "我爱你 我好钟意你",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1688031219,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 224953,
+      "num": 376424,
+      "word": "直播带岗将出行业标准",
+      "onboard_time": 1688044602,
+      "rank": 45,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 223437,
@@ -2105,6 +2193,14 @@
       "onboard_time": 1688031758,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196815,
+      "num": 372778,
+      "word": "小鹏G6",
+      "onboard_time": 1688045204,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 196549,
@@ -2431,6 +2527,14 @@
       "num": 606544,
       "word": "戏曲演员话筒故障男孩后台惊艳救场",
       "onboard_time": 1688022094,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77607,
+      "num": 769753,
+      "word": "穿红裤衩夺刀救人的小哥找到了",
+      "onboard_time": 1688043638,
       "rank": 14,
       "category": "社会新闻"
     },

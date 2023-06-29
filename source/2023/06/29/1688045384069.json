@@ -1,0 +1,410 @@
+{
+  "runTime": 1688045384069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766784,
+        "num": 1766784,
+        "word": "湾区升明月",
+        "onboard_time": 1688038476,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1705912,
+        "num": 1705912,
+        "word": "张柏芝美得我眼前一亮",
+        "onboard_time": 1688042859,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14477,
+        "num": 1433672,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3743928,
+        "num": 1396654,
+        "word": "肖战周海媚坐一桌",
+        "onboard_time": 1688044363,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1338913,
+        "num": 1338913,
+        "word": "华晨宇发挥",
+        "onboard_time": 1688041357,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 985175,
+        "num": 985175,
+        "word": "还得是成龙",
+        "onboard_time": 1688040936,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785811,
+        "num": 785811,
+        "word": "去故宫的时候一定要抬头",
+        "onboard_time": 1688041832,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 531903,
+        "num": 785100,
+        "word": "LV帆布袋已被炒至700元",
+        "onboard_time": 1688028520,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 395164,
+        "num": 782640,
+        "word": "GALA卡莎五杀",
+        "onboard_time": 1688043519,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 367225,
+        "num": 781594,
+        "word": "中国科大宿舍拎包入住",
+        "onboard_time": 1688031997,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 4021133,
+        "num": 778153,
+        "word": "难听",
+        "onboard_time": 1688041832,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2060671,
+        "num": 776901,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 690436,
+        "num": 775330,
+        "word": "微信支付的手续费是否过高了",
+        "onboard_time": 1688032059,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3885458,
+        "num": 771518,
+        "word": "假唱",
+        "onboard_time": 1688043278,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77607,
+        "num": 769753,
+        "word": "穿红裤衩夺刀救人的小哥找到了",
+        "onboard_time": 1688043638,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483702,
+        "num": 767420,
+        "word": "辛芷蕾自曝小时候遭遇猥亵",
+        "onboard_time": 1688036434,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2076855,
+        "num": 765546,
+        "word": "李宇春唱的啥",
+        "onboard_time": 1688042676,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533584,
+        "num": 763915,
+        "word": "武契奇儿子被科索沃当局扣留",
+        "onboard_time": 1688041956,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 301988,
+        "num": 762971,
+        "word": "学霸情侣本科毕业齐直博被校长写进致辞",
+        "onboard_time": 1688044239,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1219402,
+        "num": 759368,
+        "word": "一生所爱 最难听版本",
+        "onboard_time": 1688043583,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1187997,
+        "num": 757888,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510774,
+        "num": 756006,
+        "word": "如果不工作5万可以用多久",
+        "onboard_time": 1688042559,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1073435,
+        "num": 754075,
+        "word": "谭维维刀剑如梦 下次别改了",
+        "onboard_time": 1688043821,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2034028,
+        "num": 751976,
+        "word": "王一博走了肖战还没登场",
+        "onboard_time": 1688044903,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 750710,
+        "num": 750710,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717567,
+        "num": 717567,
+        "word": "温拿五虎 杀疯了",
+        "onboard_time": 1688044302,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640078,
+        "num": 640078,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469236,
+        "num": 633877,
+        "word": "顶尖ad",
+        "onboard_time": 1688038776,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272309,
+        "num": 633871,
+        "word": "浙江26岁小伙月薪3千存下30万",
+        "onboard_time": 1688029181,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 266667,
+        "num": 633870,
+        "word": "打不到蚊子的原因找到了",
+        "onboard_time": 1688039853,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 633870,
+        "num": 633869,
+        "word": "范玮琪 我家只有一张床",
+        "onboard_time": 1688026783,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552551,
+        "num": 552551,
+        "word": "刘宇宁笑红尘",
+        "onboard_time": 1688043159,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552469,
+        "num": 552469,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518206,
+        "num": 518206,
+        "word": "暮色心约 空降",
+        "onboard_time": 1688036015,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250372,
+        "num": 501848,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 500229,
+        "num": 500229,
+        "word": "节目单",
+        "onboard_time": 1688041597,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242343,
+        "num": 491243,
+        "word": "摄影师潜水拍鲤鱼吃荷花",
+        "onboard_time": 1688045021,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 240737,
+        "num": 477789,
+        "word": "卫健委回应医院疑失误致新生儿死亡",
+        "onboard_time": 1688035474,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236234,
+        "num": 457066,
+        "word": "背帆布包上班被同事阴阳了",
+        "onboard_time": 1688037573,
+        "rank": 38,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 235103,
+        "num": 443485,
+        "word": "学校承诺考上985奖30万未兑现被起诉",
+        "onboard_time": 1688021916,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 432904,
+        "num": 432904,
+        "word": "刘德华也太帅了吧",
+        "onboard_time": 1688041717,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414138,
+        "num": 414138,
+        "word": "朱一龙的照片遭大殃",
+        "onboard_time": 1688042017,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397062,
+        "num": 397062,
+        "word": "钟楚曦竟然会粤语",
+        "onboard_time": 1688043943,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389898,
+        "num": 389898,
+        "word": "姜广涛 开工",
+        "onboard_time": 1688023897,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378513,
+        "num": 378513,
+        "word": "张卫健 中气十足",
+        "onboard_time": 1688044182,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224953,
+        "num": 376424,
+        "word": "直播带岗将出行业标准",
+        "onboard_time": 1688044602,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 218347,
+        "num": 375472,
+        "word": "山西代县矿工死亡瞒报事件调查",
+        "onboard_time": 1688037095,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196815,
+        "num": 372778,
+        "word": "小鹏G6",
+        "onboard_time": 1688045204,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185348,
+        "num": 370826,
+        "word": "为什么火锅价格越来越贵了",
+        "onboard_time": 1688042499,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179104,
+        "num": 368081,
+        "word": "一根辣条毁了我的事业",
+        "onboard_time": 1688032777,
+        "rank": 49,
+        "category": "幽默,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼新突破#"
+    }
+  }
+}
