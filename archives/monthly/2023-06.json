@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688012608672,
+  "endTime": 1688013509169,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -803,6 +803,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3204851,
+      "num": 3204851,
+      "word": "人民网评倪妮消失的她角色",
+      "onboard_time": 1688009135,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3188866,
       "num": 3188866,
       "word": "俄罗斯",
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 2659055,
-      "num": 757335,
+      "num": 814728,
       "word": "台媒曝陈建州全裸骚扰S妈",
       "onboard_time": 1687994967,
       "rank": 13,
@@ -1345,14 +1353,6 @@
       "onboard_time": 1687615178,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2653132,
-      "num": 2653132,
-      "word": "人民网评倪妮消失的她角色",
-      "onboard_time": 1688009135,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 2645926,
@@ -5283,6 +5283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1460018,
+      "num": 1460018,
+      "word": "王宝强圈内人缘",
+      "onboard_time": 1688009613,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1459438,
       "num": 1459438,
       "word": "KPOP真的来了",
@@ -8387,6 +8395,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1092995,
+      "num": 807853,
+      "word": "麦当娜被紧急送医",
+      "onboard_time": 1688011475,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1092940,
       "num": 938399,
       "word": "肖战抵达香港",
@@ -8401,6 +8417,14 @@
       "onboard_time": 1687579774,
       "rank": 19,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 1089831,
+      "num": 1089831,
+      "word": "杀妻欲藏尸冰柜男子被判死刑",
+      "onboard_time": 1688011893,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1089578,
@@ -9425,14 +9449,6 @@
       "onboard_time": 1686719674,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1004491,
-      "num": 1004491,
-      "word": "王宝强圈内人缘",
-      "onboard_time": 1688009613,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 1004451,
@@ -10921,6 +10937,14 @@
       "onboard_time": 1685624668,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 887807,
+      "num": 887807,
+      "word": "鲁A33632你做的好事藏不住了",
+      "onboard_time": 1688012200,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 886365,
@@ -13787,6 +13811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 715230,
+      "num": 715230,
+      "word": "惠英红 又收获一枚宝贝杨幂",
+      "onboard_time": 1688011598,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715148,
       "num": 715148,
       "word": "TFBOYS演唱会流程图",
@@ -14009,14 +14041,6 @@
       "onboard_time": 1686405209,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 703132,
-      "num": 525954,
-      "word": "麦当娜被紧急送医",
-      "onboard_time": 1688011475,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 703080,
@@ -15211,6 +15235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638237,
+      "num": 638237,
+      "word": "胡锡进",
+      "onboard_time": 1688009855,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 638230,
       "num": 638230,
       "word": "张恒远 夜空中最亮的星",
@@ -16001,14 +16033,6 @@
       "onboard_time": 1687695630,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600082,
-      "num": 600082,
-      "word": "胡锡进",
-      "onboard_time": 1688009855,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 599369,
@@ -22147,6 +22171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416668,
+      "num": 357389,
+      "word": "王源 瑞士",
+      "onboard_time": 1688012983,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416602,
       "num": 416602,
       "word": "女篮李梦",
@@ -22457,6 +22489,14 @@
       "onboard_time": 1686888155,
       "rank": 27,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 410541,
+      "num": 385943,
+      "word": "肖战王一博同台记录",
+      "onboard_time": 1688010576,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 410379,
@@ -23081,14 +23121,6 @@
       "onboard_time": 1688003490,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396898,
-      "num": 385943,
-      "word": "肖战王一博同台记录",
-      "onboard_time": 1688010576,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 396875,
@@ -24425,14 +24457,6 @@
       "onboard_time": 1687397672,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 373395,
-      "num": 373395,
-      "word": "惠英红 又收获一枚宝贝杨幂",
-      "onboard_time": 1688011598,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 373026,
@@ -26241,14 +26265,6 @@
       "onboard_time": 1686880349,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 345782,
-      "num": 345782,
-      "word": "杀妻欲藏尸冰柜男子被判死刑",
-      "onboard_time": 1688011893,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345763,
@@ -28251,6 +28267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319615,
+      "num": 319615,
+      "word": "鳄鱼独居16年产子",
+      "onboard_time": 1688013220,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 319594,
       "num": 319594,
       "word": "妈妈得了阿尔兹海默症 爸爸就是特效药",
@@ -29233,14 +29257,6 @@
       "onboard_time": 1687351899,
       "rank": 22,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 309484,
-      "num": 376650,
-      "word": "鲁A33632你做的好事藏不住了",
-      "onboard_time": 1688012200,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309465,
@@ -32363,6 +32379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280279,
+      "num": 280279,
+      "word": "山西一男子杀害妻儿后跳河身亡",
+      "onboard_time": 1688013100,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280229,
       "num": 232957,
       "word": "芒种",
@@ -33481,6 +33505,14 @@
       "onboard_time": 1686627990,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271646,
+      "num": 271646,
+      "word": "GQ主编说李沁红毯造型毫无疑问很美",
+      "onboard_time": 1688010455,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 271635,
@@ -34769,14 +34801,6 @@
       "onboard_time": 1686035066,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262420,
-      "num": 238203,
-      "word": "GQ主编说李沁红毯造型毫无疑问很美",
-      "onboard_time": 1688010455,
-      "rank": 40,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 262397,
@@ -36267,6 +36291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252579,
+      "num": 252579,
+      "word": "公司团建的内容永远想不到",
+      "onboard_time": 1688013280,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 252530,
       "num": 252530,
       "word": "肖战蔡徐坤赵露思微博开屏",
@@ -37713,6 +37745,14 @@
       "onboard_time": 1687062207,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243655,
+      "num": 243655,
+      "word": "父母庆祝女儿考上清华凉菜摊打折3天",
+      "onboard_time": 1688013461,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 243463,
@@ -43476,7 +43516,7 @@
     },
     {
       "raw_hot": 212064,
-      "num": 561102,
+      "num": 715739,
       "word": "分享一些拼多多宝藏荔枝",
       "onboard_time": 1688007153,
       "rank": 39,
@@ -64460,7 +64500,7 @@
     },
     {
       "raw_hot": 86932,
-      "num": 239763,
+      "num": 252852,
       "word": "想把我的开黑搭子打包带走",
       "onboard_time": 1688011237,
       "rank": 39,

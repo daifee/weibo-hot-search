@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688012608672,
+  "endTime": 1688013509169,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -96,6 +96,14 @@
       "word": "新版妲己首度曝光",
       "onboard_time": 1688008354,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3204851,
+      "num": 3204851,
+      "word": "人民网评倪妮消失的她角色",
+      "onboard_time": 1688009135,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -204,19 +212,11 @@
     },
     {
       "raw_hot": 2659055,
-      "num": 757335,
+      "num": 814728,
       "word": "台媒曝陈建州全裸骚扰S妈",
       "onboard_time": 1687994967,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2653132,
-      "num": 2653132,
-      "word": "人民网评倪妮消失的她角色",
-      "onboard_time": 1688009135,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 2575314,
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1460018,
+      "num": 1460018,
+      "word": "王宝强圈内人缘",
+      "onboard_time": 1688009613,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1434156,
       "num": 1434156,
       "word": "亚运会",
@@ -1131,12 +1139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092995,
+      "num": 807853,
+      "word": "麦当娜被紧急送医",
+      "onboard_time": 1688011475,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1092940,
       "num": 938399,
       "word": "肖战抵达香港",
       "onboard_time": 1687940075,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1089831,
+      "num": 1089831,
+      "word": "杀妻欲藏尸冰柜男子被判死刑",
+      "onboard_time": 1688011893,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1087450,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1687838744,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1004491,
-      "num": 1004491,
-      "word": "王宝强圈内人缘",
-      "onboard_time": 1688009613,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 1004451,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1687854818,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 887807,
+      "num": 887807,
+      "word": "鲁A33632你做的好事藏不住了",
+      "onboard_time": 1688012200,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885788,
@@ -1987,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 715230,
+      "num": 715230,
+      "word": "惠英红 又收获一枚宝贝杨幂",
+      "onboard_time": 1688011598,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714603,
       "num": 714603,
       "word": "千万不要随意私拆学生档案",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1687853199,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 703132,
-      "num": 525954,
-      "word": "麦当娜被紧急送医",
-      "onboard_time": 1688011475,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 694755,
@@ -2259,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638237,
+      "num": 638237,
+      "word": "胡锡进",
+      "onboard_time": 1688009855,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 636695,
       "num": 383775,
       "word": "张艺兴 我不热",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1687773528,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600082,
-      "num": 600082,
-      "word": "胡锡进",
-      "onboard_time": 1688009855,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 599369,
@@ -3547,6 +3571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 416668,
+      "num": 357389,
+      "word": "王源 瑞士",
+      "onboard_time": 1688012983,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416602,
       "num": 416602,
       "word": "女篮李梦",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1687866096,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 410541,
+      "num": 385943,
+      "word": "肖战王一博同台记录",
+      "onboard_time": 1688010576,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 410245,
@@ -3745,14 +3785,6 @@
       "onboard_time": 1688003490,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396898,
-      "num": 385943,
-      "word": "肖战王一博同台记录",
-      "onboard_time": 1688010576,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 395184,
@@ -4003,14 +4035,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 373395,
-      "num": 373395,
-      "word": "惠英红 又收获一枚宝贝杨幂",
-      "onboard_time": 1688011598,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 372804,
       "num": 372804,
       "word": "清醒恋爱脑",
@@ -4193,14 +4217,6 @@
       "onboard_time": 1687750171,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 345782,
-      "num": 345782,
-      "word": "杀妻欲藏尸冰柜男子被判死刑",
-      "onboard_time": 1688011893,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345763,
@@ -4619,6 +4635,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 319615,
+      "num": 319615,
+      "word": "鳄鱼独居16年产子",
+      "onboard_time": 1688013220,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 319208,
       "num": 319208,
       "word": "赵露思撞脸懒羊羊",
@@ -4784,14 +4808,6 @@
       "word": "出版社回应新版新华字典删除倭寇一词",
       "onboard_time": 1687864297,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309484,
-      "num": 376650,
-      "word": "鲁A33632你做的好事藏不住了",
-      "onboard_time": 1688012200,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -5259,6 +5275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280279,
+      "num": 280279,
+      "word": "山西一男子杀害妻儿后跳河身亡",
+      "onboard_time": 1688013100,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279569,
       "num": 299959,
       "word": "旅游再也不想给家人买东西了",
@@ -5369,6 +5393,14 @@
       "onboard_time": 1687744469,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271646,
+      "num": 271646,
+      "word": "GQ主编说李沁红毯造型毫无疑问很美",
+      "onboard_time": 1688010455,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 271515,
@@ -5545,14 +5577,6 @@
       "onboard_time": 1688003854,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262420,
-      "num": 238203,
-      "word": "GQ主编说李沁红毯造型毫无疑问很美",
-      "onboard_time": 1688010455,
-      "rank": 40,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 262134,
@@ -5747,6 +5771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252579,
+      "num": 252579,
+      "word": "公司团建的内容永远想不到",
+      "onboard_time": 1688013280,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 252191,
       "num": 252191,
       "word": "博士生毕业后赴新疆任教被校长点名表扬",
@@ -5921,6 +5953,14 @@
       "onboard_time": 1688006610,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243655,
+      "num": 243655,
+      "word": "父母庆祝女儿考上清华凉菜摊打折3天",
+      "onboard_time": 1688013461,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 243210,
@@ -6636,7 +6676,7 @@
     },
     {
       "raw_hot": 212064,
-      "num": 561102,
+      "num": 715739,
       "word": "分享一些拼多多宝藏荔枝",
       "onboard_time": 1688007153,
       "rank": 39,
@@ -8484,7 +8524,7 @@
     },
     {
       "raw_hot": 86932,
-      "num": 239763,
+      "num": 252852,
       "word": "想把我的开黑搭子打包带走",
       "onboard_time": 1688011237,
       "rank": 39,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688013509169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3204851,
+        "num": 3204851,
+        "word": "人民网评倪妮消失的她角色",
+        "onboard_time": 1688009135,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2741311,
+        "num": 2741311,
+        "word": "新版妲己首度曝光",
+        "onboard_time": 1688008354,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8538,
+        "num": 1720440,
+        "word": "成都大运会边看边玩攻略",
+        "onboard_time": 1687955740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1460018,
+        "num": 1460018,
+        "word": "王宝强圈内人缘",
+        "onboard_time": 1688009613,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1422015,
+        "num": 1422015,
+        "word": "港媒曝郑欣宜失踪原因",
+        "onboard_time": 1688006675,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1170263,
+        "num": 1170263,
+        "word": "男子双手被铐被认定在看守所自杀",
+        "onboard_time": 1688008354,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098014,
+        "num": 1098014,
+        "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+        "onboard_time": 1687958560,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089831,
+        "num": 1089831,
+        "word": "杀妻欲藏尸冰柜男子被判死刑",
+        "onboard_time": 1688011893,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982020,
+        "num": 982020,
+        "word": "被新加坡法律法规吓晕",
+        "onboard_time": 1688009916,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887807,
+        "num": 887807,
+        "word": "鲁A33632你做的好事藏不住了",
+        "onboard_time": 1688012200,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409561,
+        "num": 814728,
+        "word": "台媒曝陈建州全裸骚扰S妈",
+        "onboard_time": 1687994967,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1092995,
+        "num": 807853,
+        "word": "麦当娜被紧急送医",
+        "onboard_time": 1688011475,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928031,
+        "num": 791262,
+        "word": "六公主评偷偷藏不住",
+        "onboard_time": 1687999774,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 723311,
+        "num": 723311,
+        "word": "暑假未成年人只能周五六日打游戏",
+        "onboard_time": 1688009432,
+        "rank": 13,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 192748,
+        "num": 715739,
+        "word": "分享一些拼多多宝藏荔枝",
+        "onboard_time": 1688007153,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773829,
+        "num": 715488,
+        "word": "陈建州 喔这张床不可以",
+        "onboard_time": 1687960477,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715230,
+        "num": 715230,
+        "word": "惠英红 又收获一枚宝贝杨幂",
+        "onboard_time": 1688011598,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692280,
+        "num": 692280,
+        "word": "丫丫",
+        "onboard_time": 1688006373,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638237,
+        "num": 638237,
+        "word": "胡锡进",
+        "onboard_time": 1688009855,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 368721,
+        "num": 368721,
+        "word": "12306回应高级动卧乘坐一站8分钟420元",
+        "onboard_time": 1687995449,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696866,
+        "num": 367151,
+        "word": "朱洁静点了好多痣",
+        "onboard_time": 1688009676,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 594742,
+        "num": 366120,
+        "word": "运动太多身材反而不好看了",
+        "onboard_time": 1688008712,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514761,
+        "num": 365160,
+        "word": "肖战王一博今晚见",
+        "onboard_time": 1687998155,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363564,
+        "num": 363564,
+        "word": "员工盗公司游戏代码半年赚了1.5亿",
+        "onboard_time": 1688006191,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 461951,
+        "num": 359866,
+        "word": "领完结婚证岳父给我转了29.8万",
+        "onboard_time": 1687994604,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416668,
+        "num": 357389,
+        "word": "王源 瑞士",
+        "onboard_time": 1688012983,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410541,
+        "num": 355429,
+        "word": "肖战王一博同台记录",
+        "onboard_time": 1688010576,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351863,
+        "num": 351863,
+        "word": "免单",
+        "onboard_time": 1688010335,
+        "rank": 27,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 323693,
+        "num": 323693,
+        "word": "消失的她文身细节",
+        "onboard_time": 1688006132,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319615,
+        "num": 319615,
+        "word": "鳄鱼独居16年产子",
+        "onboard_time": 1688013220,
+        "rank": 29,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1116278,
+        "num": 319026,
+        "word": "鼠鼠鸭玩具遭淘宝下架",
+        "onboard_time": 1688007089,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 321832,
+        "num": 313763,
+        "word": "沈月进组狐妖小红娘",
+        "onboard_time": 1688003792,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293614,
+        "num": 293614,
+        "word": "封神",
+        "onboard_time": 1688010455,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280279,
+        "num": 280279,
+        "word": "山西一男子杀害妻儿后跳河身亡",
+        "onboard_time": 1688013100,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271646,
+        "num": 271646,
+        "word": "GQ主编说李沁红毯造型毫无疑问很美",
+        "onboard_time": 1688010455,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 271022,
+        "num": 271022,
+        "word": "TOP参演鱿鱼游戏2",
+        "onboard_time": 1688003490,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270507,
+        "num": 270507,
+        "word": "陈建州方回应郭源元指控",
+        "onboard_time": 1687995085,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269427,
+        "num": 269427,
+        "word": "私拆女儿档案的母亲道歉",
+        "onboard_time": 1687993343,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254012,
+        "num": 254012,
+        "word": "女子航班延误却见山航冒雨起飞",
+        "onboard_time": 1688004453,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65704,
+        "num": 252852,
+        "word": "想把我的开黑搭子打包带走",
+        "onboard_time": 1688011237,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252579,
+        "num": 252579,
+        "word": "公司团建的内容永远想不到",
+        "onboard_time": 1688013280,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243690,
+        "num": 243690,
+        "word": "杨幂GQ派对拍马思唯",
+        "onboard_time": 1688007333,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211767,
+        "num": 243660,
+        "word": "拜登使用呼吸机治疗睡眠呼吸暂停",
+        "onboard_time": 1688002893,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 243655,
+        "num": 243655,
+        "word": "父母庆祝女儿考上清华凉菜摊打折3天",
+        "onboard_time": 1688013461,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233071,
+        "num": 233071,
+        "word": "李沁工作室疑似因造型问题删博",
+        "onboard_time": 1687953632,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229317,
+        "num": 229317,
+        "word": "孩子生病爸爸打110报警请求超速",
+        "onboard_time": 1688003374,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226541,
+        "num": 226541,
+        "word": "电影八角笼中",
+        "onboard_time": 1688007995,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221334,
+        "num": 221334,
+        "word": "韩国改周岁算法后",
+        "onboard_time": 1687997614,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214778,
+        "num": 214778,
+        "word": "让巨型猫猫坐中间的哥哥们想的",
+        "onboard_time": 1688009676,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211230,
+        "num": 211230,
+        "word": "狐妖小红娘",
+        "onboard_time": 1688008712,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    }
+  }
+}
