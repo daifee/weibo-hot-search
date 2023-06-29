@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688031248331,
+  "endTime": 1688034043045,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -233,6 +233,14 @@
       "onboard_time": 1687924776,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2707528,
+      "num": 538739,
+      "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+      "onboard_time": 1688030738,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2684585,
@@ -947,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1352344,
-      "num": 434230,
-      "word": "黑涩会美眉妖娇指控陈建州性骚扰",
-      "onboard_time": 1688030738,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1348026,
       "num": 1299177,
       "word": "大牙 这次我会勇敢法院见",
@@ -1532,7 +1532,7 @@
     },
     {
       "raw_hot": 970362,
-      "num": 539329,
+      "num": 691313,
       "word": "Angelababy宋威龙GQ合照",
       "onboard_time": 1688030259,
       "rank": 33,
@@ -1795,6 +1795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 881704,
+      "num": 881704,
+      "word": "袁姗姗一期节目落了五次水",
+      "onboard_time": 1688031577,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880817,
       "num": 544491,
       "word": "周雨彤羽毛抹胸",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1687781622,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 850629,
+      "num": 545321,
+      "word": "路怡老涵恋情",
+      "onboard_time": 1688032658,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 849550,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1688011598,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 758416,
+      "num": 519878,
+      "word": "微信支付的手续费是否过高了",
+      "onboard_time": 1688032059,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 753833,
@@ -2313,6 +2337,14 @@
       "onboard_time": 1687836160,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 688736,
+      "num": 2208508,
+      "word": "中国科大宿舍拎包入住",
+      "onboard_time": 1688031997,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 688286,
@@ -2955,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555464,
+      "num": 339913,
+      "word": "一根辣条毁了我的事业",
+      "onboard_time": 1688032777,
+      "rank": 21,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 554818,
       "num": 339757,
       "word": "在尿都憋不住的年纪他却还想憋住情绪",
@@ -3248,6 +3288,14 @@
       "word": "Jennie新剧提前大结局",
       "onboard_time": 1687841269,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 510604,
+      "num": 510604,
+      "word": "Jennie哭戏",
+      "onboard_time": 1688033137,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -4040,6 +4088,14 @@
       "word": "偷偷藏不住",
       "onboard_time": 1687778502,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407395,
+      "num": 333484,
+      "word": "朱一龙回应自己立牌被打",
+      "onboard_time": 1688033434,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -5068,7 +5124,7 @@
     },
     {
       "raw_hot": 320490,
-      "num": 320490,
+      "num": 1783842,
       "word": "山东龙凤四胞胎同圆大学梦",
       "onboard_time": 1688025098,
       "rank": 26,
@@ -5153,6 +5209,14 @@
       "onboard_time": 1688029119,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314954,
+      "num": 314954,
+      "word": "竹已笔下的男主",
+      "onboard_time": 1688031697,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 314658,
@@ -5673,6 +5737,14 @@
       "onboard_time": 1687743810,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286940,
+      "num": 286940,
+      "word": "腾讯回应CDC部门解散",
+      "onboard_time": 1688029418,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 286536,
@@ -6209,14 +6281,6 @@
       "onboard_time": 1687770949,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 258194,
-      "num": 258194,
-      "word": "腾讯回应CDC部门解散",
-      "onboard_time": 1688029418,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 258169,
@@ -6835,6 +6899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228633,
+      "num": 228633,
+      "word": "卜凡没领岳明辉发的生日红包",
+      "onboard_time": 1688033559,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227789,
       "num": 227789,
       "word": "芭拉芭拉",
@@ -6913,6 +6985,14 @@
       "onboard_time": 1687868497,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225485,
+      "num": 225485,
+      "word": "头一次get到黑猫的恐怖",
+      "onboard_time": 1688031219,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 225480,
@@ -7351,6 +7431,14 @@
       "num": 209897,
       "word": "周柏豪东莞",
       "onboard_time": 1687937136,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 209883,
+      "num": 209883,
+      "word": "周杰伦海口演唱会",
+      "onboard_time": 1688031758,
       "rank": 41,
       "category": "音乐"
     },
@@ -7811,6 +7899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191807,
+      "num": 191807,
+      "word": "第五人格",
+      "onboard_time": 1688033797,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191312,
       "num": 269192,
       "word": "妈妈晒女儿中考高考查分对比",
@@ -8203,14 +8299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178602,
-      "num": 178602,
-      "word": "头一次get到黑猫的恐怖",
-      "onboard_time": 1688031219,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 178225,
       "num": 178225,
       "word": "别让你孩子未来的人生成为别人的生意",
@@ -8233,6 +8321,14 @@
       "onboard_time": 1687736067,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177692,
+      "num": 177692,
+      "word": "货车侧翻男子托举伤者近1小时",
+      "onboard_time": 1688032777,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176772,
@@ -8375,6 +8471,14 @@
       "num": 169525,
       "word": "大叔把学生不要的旧鞋洗成新鞋",
       "onboard_time": 1687744351,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169397,
+      "num": 188163,
+      "word": "小学生拾金不昧收获定制奥特曼证书",
+      "onboard_time": 1688033434,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -8617,6 +8721,14 @@
       "onboard_time": 1687701635,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 151432,
+      "num": 336886,
+      "word": "陕西四所高校上榜QS世界大学排名",
+      "onboard_time": 1688031518,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 151240,

@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688031248331,
+  "endTime": 1688034043045,
   "band_list": [
     {
       "raw_hot": 7349947,
@@ -64,6 +64,14 @@
       "word": "曝陈建州在范玮琪孕期骚扰女艺人",
       "onboard_time": 1687958560,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2707528,
+      "num": 538739,
+      "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+      "onboard_time": 1688030738,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1688021916,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1352344,
-      "num": 434230,
-      "word": "黑涩会美眉妖娇指控陈建州性骚扰",
-      "onboard_time": 1688030738,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1336418,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 970362,
-      "num": 539329,
+      "num": 691313,
       "word": "Angelababy宋威龙GQ合照",
       "onboard_time": 1688030259,
       "rank": 33,
@@ -435,12 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 881704,
+      "num": 881704,
+      "word": "袁姗姗一期节目落了五次水",
+      "onboard_time": 1688031577,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 865626,
       "num": 655617,
       "word": "makiyo回应爆料陈建州很爱乱亲",
       "onboard_time": 1688015856,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 850629,
+      "num": 545321,
+      "word": "路怡老涵恋情",
+      "onboard_time": 1688032658,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 849550,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758416,
+      "num": 519878,
+      "word": "微信支付的手续费是否过高了",
+      "onboard_time": 1688032059,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 735447,
       "num": 516302,
       "word": "大牙 这次我会勇敢法院见",
@@ -545,6 +569,14 @@
       "onboard_time": 1688028040,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 688736,
+      "num": 2208508,
+      "word": "中国科大宿舍拎包入住",
+      "onboard_time": 1688031997,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 686667,
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555464,
+      "num": 339913,
+      "word": "一根辣条毁了我的事业",
+      "onboard_time": 1688032777,
+      "rank": 21,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 553321,
       "num": 294132,
       "word": "人生建议 少给客服发表情包",
@@ -736,6 +776,14 @@
       "word": "曾黎 祝我的只只永远开心快乐",
       "onboard_time": 1687963128,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 510604,
+      "num": 510604,
+      "word": "Jennie哭戏",
+      "onboard_time": 1688033137,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -913,6 +961,14 @@
       "onboard_time": 1688000134,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407395,
+      "num": 333484,
+      "word": "朱一龙回应自己立牌被打",
+      "onboard_time": 1688033434,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 402847,
@@ -1124,7 +1180,7 @@
     },
     {
       "raw_hot": 320490,
-      "num": 320490,
+      "num": 1783842,
       "word": "山东龙凤四胞胎同圆大学梦",
       "onboard_time": 1688025098,
       "rank": 26,
@@ -1137,6 +1193,14 @@
       "onboard_time": 1688029119,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314954,
+      "num": 314954,
+      "word": "竹已笔下的男主",
+      "onboard_time": 1688031697,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 314432,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1688003914,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286940,
+      "num": 286940,
+      "word": "腾讯回应CDC部门解散",
+      "onboard_time": 1688029418,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 283640,
@@ -1361,14 +1433,6 @@
       "onboard_time": 1687969351,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258194,
-      "num": 258194,
-      "word": "腾讯回应CDC部门解散",
-      "onboard_time": 1688029418,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 252579,
@@ -1507,12 +1571,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228633,
+      "num": 228633,
+      "word": "卜凡没领岳明辉发的生日红包",
+      "onboard_time": 1688033559,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226664,
       "num": 602225,
       "word": "女孩捡手机交民警失主竟是民警本人",
       "onboard_time": 1688018434,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225485,
+      "num": 225485,
+      "word": "头一次get到黑猫的恐怖",
+      "onboard_time": 1688031219,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 223437,
@@ -1603,6 +1683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209883,
+      "num": 209883,
+      "word": "周杰伦海口演唱会",
+      "onboard_time": 1688031758,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209819,
       "num": 209819,
       "word": "内娱抠书式演技",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1688017416,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191807,
+      "num": 191807,
+      "word": "第五人格",
+      "onboard_time": 1688033797,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 191075,
@@ -1739,19 +1835,19 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 178602,
-      "num": 178602,
-      "word": "头一次get到黑猫的恐怖",
-      "onboard_time": 1688031219,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 177901,
       "num": 369956,
       "word": "赵明称将告别苹果一家独大",
       "onboard_time": 1688028880,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177692,
+      "num": 177692,
+      "word": "货车侧翻男子托举伤者近1小时",
+      "onboard_time": 1688032777,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1779,12 +1875,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 169397,
+      "num": 188163,
+      "word": "小学生拾金不昧收获定制奥特曼证书",
+      "onboard_time": 1688033434,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167910,
       "num": 167910,
       "word": "杨幂暗夜精灵",
       "onboard_time": 1687954357,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151432,
+      "num": 336886,
+      "word": "陕西四所高校上榜QS世界大学排名",
+      "onboard_time": 1688031518,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 140230,

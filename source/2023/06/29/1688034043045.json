@@ -1,0 +1,410 @@
+{
+  "runTime": 1688034043045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2485019,
+        "num": 2485019,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688736,
+        "num": 2208508,
+        "word": "中国科大宿舍拎包入住",
+        "onboard_time": 1688031997,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 26321,
+        "num": 2128862,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2069298,
+        "num": 2069298,
+        "word": "阿斯巴甜 致癌",
+        "onboard_time": 1688029002,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266372,
+        "num": 1783842,
+        "word": "山东龙凤四胞胎同圆大学梦",
+        "onboard_time": 1688025098,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1589084,
+        "num": 1589084,
+        "word": "姜广涛 开工",
+        "onboard_time": 1688023897,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1279761,
+        "num": 1279761,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881704,
+        "num": 881704,
+        "word": "袁姗姗一期节目落了五次水",
+        "onboard_time": 1688031577,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691313,
+        "num": 691313,
+        "word": "Angelababy宋威龙GQ合照",
+        "onboard_time": 1688030259,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 583442,
+        "num": 583442,
+        "word": "LV帆布袋已被炒至700元",
+        "onboard_time": 1688028520,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5266144,
+        "num": 581491,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2701213,
+        "num": 554385,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 850629,
+        "num": 545321,
+        "word": "路怡老涵恋情",
+        "onboard_time": 1688032658,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2707528,
+        "num": 538739,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758416,
+        "num": 519878,
+        "word": "微信支付的手续费是否过高了",
+        "onboard_time": 1688032059,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 510604,
+        "num": 510604,
+        "word": "Jennie哭戏",
+        "onboard_time": 1688033137,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702038,
+        "num": 507187,
+        "word": "范玮琪 我家只有一张床",
+        "onboard_time": 1688026783,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464993,
+        "num": 464993,
+        "word": "多所高校停用微信支付",
+        "onboard_time": 1688015558,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 406644,
+        "num": 406644,
+        "word": "天官赐福",
+        "onboard_time": 1688025937,
+        "rank": 18,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 342534,
+        "num": 342534,
+        "word": "学校承诺考上985奖30万未兑现被起诉",
+        "onboard_time": 1688021916,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 937862,
+        "num": 341322,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 555464,
+        "num": 339913,
+        "word": "一根辣条毁了我的事业",
+        "onboard_time": 1688032777,
+        "rank": 21,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 418122,
+        "num": 337679,
+        "word": "浙江26岁小伙月薪3千存下30万",
+        "onboard_time": 1688029181,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 151432,
+        "num": 336886,
+        "word": "陕西四所高校上榜QS世界大学排名",
+        "onboard_time": 1688031518,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 198801,
+        "num": 335328,
+        "word": "鲁A33632你做的好事藏不住了",
+        "onboard_time": 1688012200,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407395,
+        "num": 333484,
+        "word": "朱一龙回应自己立牌被打",
+        "onboard_time": 1688033434,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344835,
+        "num": 332587,
+        "word": "makiyo回应爆料陈建州很爱乱亲",
+        "onboard_time": 1688015856,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331005,
+        "num": 331005,
+        "word": "鳄鱼独居16年产子",
+        "onboard_time": 1688013220,
+        "rank": 27,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 324159,
+        "num": 324159,
+        "word": "将进酒",
+        "onboard_time": 1688028040,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314954,
+        "num": 314954,
+        "word": "竹已笔下的男主",
+        "onboard_time": 1688031697,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286940,
+        "num": 286940,
+        "word": "腾讯回应CDC部门解散",
+        "onboard_time": 1688029418,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 276649,
+        "num": 276649,
+        "word": "马正阳叶瑄",
+        "onboard_time": 1688028520,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268097,
+        "num": 268097,
+        "word": "李一桐请好好用脸",
+        "onboard_time": 1688029600,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264740,
+        "num": 264740,
+        "word": "安安",
+        "onboard_time": 1688020178,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253992,
+        "num": 253992,
+        "word": "陈哲远没事没事",
+        "onboard_time": 1688027861,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242778,
+        "num": 242778,
+        "word": "陈建州vs全在俊",
+        "onboard_time": 1688016695,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234849,
+        "num": 234849,
+        "word": "时代峰峻回应TF三代吵架",
+        "onboard_time": 1688020476,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228633,
+        "num": 228633,
+        "word": "卜凡没领岳明辉发的生日红包",
+        "onboard_time": 1688033559,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225485,
+        "num": 225485,
+        "word": "头一次get到黑猫的恐怖",
+        "onboard_time": 1688031219,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210710,
+        "num": 210710,
+        "word": "收到了去世爷爷给的嫁妆",
+        "onboard_time": 1688027322,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218231,
+        "num": 210367,
+        "word": "黄婷婷与丝芭正式解约",
+        "onboard_time": 1688023954,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209883,
+        "num": 209883,
+        "word": "周杰伦海口演唱会",
+        "onboard_time": 1688031758,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208425,
+        "num": 208425,
+        "word": "8条腿没有一条是忙对的",
+        "onboard_time": 1688025455,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198315,
+        "num": 198315,
+        "word": "张睿谈被披哥节目组连拒四次",
+        "onboard_time": 1688022455,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197681,
+        "num": 197681,
+        "word": "易烊千玺维权胜诉获赔20万",
+        "onboard_time": 1688022396,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194134,
+        "num": 194134,
+        "word": "假如用一万块跟你换高铁座位",
+        "onboard_time": 1688026783,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191807,
+        "num": 191807,
+        "word": "第五人格",
+        "onboard_time": 1688033797,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169397,
+        "num": 188163,
+        "word": "小学生拾金不昧收获定制奥特曼证书",
+        "onboard_time": 1688033434,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186639,
+        "num": 186639,
+        "word": "宝木中阳",
+        "onboard_time": 1688029119,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177692,
+        "num": 177692,
+        "word": "货车侧翻男子托举伤者近1小时",
+        "onboard_time": 1688032777,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国广电新媒体集结发光#"
+    }
+  }
+}
