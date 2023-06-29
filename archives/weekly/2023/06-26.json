@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688024055953,
+  "endTime": 1688027115126,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6234053,
+      "num": 6234053,
+      "word": "范玮琪 我丈夫是个正直的人",
+      "onboard_time": 1688026115,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5580716,
       "num": 2711353,
       "word": "被男子反复碾压女子已身亡",
@@ -51,11 +59,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5207439,
+      "num": 728480,
+      "word": "微信官方致歉",
+      "onboard_time": 1688024857,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 4296022,
       "num": 1430673,
       "word": "陈建州 喔这张床不可以",
       "onboard_time": 1687960477,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4136484,
+      "num": 1490705,
+      "word": "姜广涛 开工",
+      "onboard_time": 1688023897,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -867,6 +891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1371123,
+      "num": 1371123,
+      "word": "学校承诺考上985奖30万未兑现被起诉",
+      "onboard_time": 1688021916,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1358002,
       "num": 1358002,
       "word": "16岁中学生校内服毒自杀身亡",
@@ -945,14 +977,6 @@
       "onboard_time": 1688002893,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1311868,
-      "num": 1311868,
-      "word": "学校承诺考上985奖30万未兑现被起诉",
-      "onboard_time": 1688021916,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1309679,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1167047,
+      "num": 1167047,
+      "word": "天官赐福",
+      "onboard_time": 1688025937,
+      "rank": 5,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1164172,
       "num": 922519,
       "word": "警方回应女子称被民警强奸",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1688004453,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135045,
+      "num": 634892,
+      "word": "安安",
+      "onboard_time": 1688020178,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 1131365,
@@ -1451,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 964263,
+      "num": 964263,
+      "word": "张睿谈被披哥节目组连拒四次",
+      "onboard_time": 1688022455,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 960114,
       "num": 960114,
       "word": "有人劝我结婚我就捧杀对方",
@@ -1488,6 +1536,14 @@
       "word": "陈建州曾邀沈玉琳进暗黑群组",
       "onboard_time": 1687869703,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 943957,
+      "num": 943957,
+      "word": "黄婷婷与丝芭正式解约",
+      "onboard_time": 1688023954,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1577,14 +1633,6 @@
       "onboard_time": 1687840378,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 912110,
-      "num": 634892,
-      "word": "安安",
-      "onboard_time": 1688020178,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 911268,
@@ -1724,7 +1772,7 @@
     },
     {
       "raw_hot": 865626,
-      "num": 646655,
+      "num": 655617,
       "word": "makiyo回应爆料陈建州很爱乱亲",
       "onboard_time": 1688015856,
       "rank": 33,
@@ -1793,14 +1841,6 @@
       "onboard_time": 1687937195,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 833525,
-      "num": 833525,
-      "word": "姜广涛 开工",
-      "onboard_time": 1688023897,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 833267,
@@ -1905,14 +1945,6 @@
       "onboard_time": 1687705357,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 783300,
-      "num": 783300,
-      "word": "张睿谈被披哥节目组连拒四次",
-      "onboard_time": 1688022455,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 779203,
@@ -2539,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622135,
+      "num": 307318,
+      "word": "范玮琪 我家只有一张床",
+      "onboard_time": 1688026783,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621923,
       "num": 621923,
       "word": "Uzi卡莎超神",
@@ -2753,6 +2793,14 @@
       "onboard_time": 1687775204,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564531,
+      "num": 394695,
+      "word": "任嘉伦刷屏了",
+      "onboard_time": 1688025336,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 562411,
@@ -3051,6 +3099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 520197,
+      "num": 520197,
+      "word": "易烊千玺维权胜诉获赔20万",
+      "onboard_time": 1688022396,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519540,
       "num": 519540,
       "word": "宝格丽活动",
@@ -3289,6 +3345,14 @@
       "onboard_time": 1687848758,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 480357,
+      "num": 392058,
+      "word": "8条腿没有一条是忙对的",
+      "onboard_time": 1688025455,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 478346,
@@ -3667,14 +3731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427554,
-      "num": 397950,
-      "word": "易烊千玺维权胜诉获赔20万",
-      "onboard_time": 1688022396,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427409,
       "num": 427409,
       "word": "江西航空回应老太换座不成辱骂女生",
@@ -4041,6 +4097,14 @@
       "onboard_time": 1687943493,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 389257,
+      "num": 389257,
+      "word": "72岁老人支教5年年轻似50岁",
+      "onboard_time": 1688024134,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 388221,
@@ -4875,6 +4939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320490,
+      "num": 320490,
+      "word": "山东龙凤四胞胎同圆大学梦",
+      "onboard_time": 1688025098,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 320076,
       "num": 320076,
       "word": "30年前因失学哇哇大哭女孩如今捐款50余万",
@@ -4977,6 +5049,14 @@
       "onboard_time": 1687968214,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 314104,
+      "num": 314104,
+      "word": "倪妮来了都得迷惑",
+      "onboard_time": 1688026234,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 314049,
@@ -5603,6 +5683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276950,
+      "num": 276950,
+      "word": "光合积木",
+      "onboard_time": 1688026661,
+      "rank": 35,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 275725,
       "num": 249179,
       "word": "黄子琪 消失的她",
@@ -5721,6 +5809,14 @@
       "onboard_time": 1687774366,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270765,
+      "num": 270765,
+      "word": "被不被爱太明显了",
+      "onboard_time": 1688024375,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 270495,
@@ -5993,6 +6089,14 @@
       "onboard_time": 1687758902,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256435,
+      "num": 256435,
+      "word": "Ella自曝出道后被性骚扰",
+      "onboard_time": 1688027077,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 256022,
@@ -6395,6 +6499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 237707,
+      "num": 237707,
+      "word": "消失的她里面的水母",
+      "onboard_time": 1688025274,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237581,
       "num": 237581,
       "word": "女生复读涨101分抹泪大喊开心",
@@ -6457,6 +6569,14 @@
       "onboard_time": 1687998092,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235032,
+      "num": 235032,
+      "word": "叶瑄CV",
+      "onboard_time": 1688026721,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 234067,
@@ -6675,6 +6795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 223437,
+      "num": 223437,
+      "word": "新玩具成功引起了丫丫的注意",
+      "onboard_time": 1688024196,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223118,
       "num": 223118,
       "word": "周翊然张淼怡线下合体直播",
@@ -6729,6 +6857,14 @@
       "onboard_time": 1687708472,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221277,
+      "num": 221277,
+      "word": "支付软件开始收费你还会用吗",
+      "onboard_time": 1688026837,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 221214,
@@ -6897,6 +7033,14 @@
       "onboard_time": 1687941935,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 215471,
+      "num": 215471,
+      "word": "假如用一万块跟你换高铁座位",
+      "onboard_time": 1688026783,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 214834,
@@ -7537,14 +7681,6 @@
       "onboard_time": 1687948294,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191773,
-      "num": 191773,
-      "word": "黄婷婷与丝芭正式解约",
-      "onboard_time": 1688023954,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 191312,
@@ -8915,6 +9051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87253,
+      "num": 1540309,
+      "word": "我国安装完成全球首台16兆瓦风电机组",
+      "onboard_time": 1688026298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86932,
       "num": 252852,
       "word": "想把我的开黑搭子打包带走",
@@ -9008,6 +9152,14 @@
       "word": "女儿每次回家爸爸都在地铁口等候",
       "onboard_time": 1687735104,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65043,
+      "num": 527657,
+      "word": "拾荒老人被赠纸盒后下地帮女子除草",
+      "onboard_time": 1688025633,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
