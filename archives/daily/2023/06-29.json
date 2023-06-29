@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688003251313,
+  "endTime": 1688004607208,
   "band_list": [
     {
       "raw_hot": 2773148,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2684585,
+      "num": 2684585,
+      "word": "六公主评偷偷藏不住",
+      "onboard_time": 1687999774,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2659055,
       "num": 551279,
       "word": "台媒曝陈建州全裸骚扰S妈",
       "onboard_time": 1687994967,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2625439,
-      "num": 2625439,
-      "word": "六公主评偷偷藏不住",
-      "onboard_time": 1687999774,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2402118,
@@ -41,6 +41,14 @@
       "onboard_time": 1687937916,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1688459,
+      "num": 553550,
+      "word": "韩安冉婚礼",
+      "onboard_time": 1688002231,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1661272,
@@ -65,14 +73,6 @@
       "onboard_time": 1687962944,
       "rank": 5,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 1219538,
-      "num": 553550,
-      "word": "韩安冉婚礼",
-      "onboard_time": 1688002231,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1122025,
@@ -107,8 +107,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 834402,
-      "num": 834402,
+      "raw_hot": 929007,
+      "num": 929007,
       "word": "12306回应高级动卧乘坐一站8分钟420元",
       "onboard_time": 1687995449,
       "rank": 6,
@@ -137,6 +137,14 @@
       "onboard_time": 1687953332,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775739,
+      "num": 433839,
+      "word": "拜登使用呼吸机治疗睡眠呼吸暂停",
+      "onboard_time": 1688002893,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 735447,
@@ -211,20 +219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532871,
+      "num": 532871,
+      "word": "李沁工作室疑似因造型问题删博",
+      "onboard_time": 1687953632,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 520605,
       "num": 520605,
       "word": "468一份的扬州炒饭有多牛",
       "onboard_time": 1687968513,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 519809,
-      "num": 491508,
-      "word": "李沁工作室疑似因造型问题删博",
-      "onboard_time": 1687953632,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 516795,
@@ -291,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 449806,
+      "num": 311908,
+      "word": "沈月进组狐妖小红娘",
+      "onboard_time": 1688003792,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428538,
       "num": 342859,
       "word": "瘦子正式起诉葛斯齐S小姐",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 426555,
-      "num": 310176,
+      "num": 311620,
       "word": "室友考研要和我考同一个学校",
       "onboard_time": 1687998818,
       "rank": 22,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 412441,
-      "num": 295065,
+      "num": 310932,
       "word": "看完消失的她 女孩一定要牢记",
       "onboard_time": 1688000257,
       "rank": 24,
@@ -347,8 +363,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 397105,
+      "num": 311249,
+      "word": "TOP参演鱿鱼游戏2",
+      "onboard_time": 1688003490,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383749,
-      "num": 291265,
+      "num": 310928,
       "word": "在地铁上被孕妇让座了",
       "onboard_time": 1687997374,
       "rank": 25,
@@ -371,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 359563,
+      "num": 359563,
+      "word": "孕晚期12306的人性化服务",
+      "onboard_time": 1688003192,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330097,
       "num": 258559,
       "word": "表妹实习想来我家借住一年",
@@ -387,12 +419,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 321890,
+      "num": 311411,
+      "word": "她这么可爱要去吗",
+      "onboard_time": 1688000977,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314190,
       "num": 270512,
       "word": "余景天穿裙子",
       "onboard_time": 1687968214,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 312113,
+      "num": 312113,
+      "word": "孩子生病爸爸打110报警请求超速",
+      "onboard_time": 1688003374,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310790,
@@ -427,6 +475,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 290232,
+      "num": 271787,
+      "word": "黄轩红毯穿金戴银",
+      "onboard_time": 1688003914,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278438,
       "num": 278438,
       "word": "爷爷临终前开了个玩笑",
@@ -459,19 +515,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270499,
-      "num": 267404,
-      "word": "她这么可爱要去吗",
-      "onboard_time": 1688000977,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264590,
       "num": 273383,
       "word": "28个月男童误入电梯坠楼身亡",
       "onboard_time": 1687954718,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262575,
+      "num": 262575,
+      "word": "罕见病女孩从小区门口走400米回家",
+      "onboard_time": 1688003854,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -489,6 +545,14 @@
       "onboard_time": 1687958198,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248646,
+      "num": 248646,
+      "word": "女子航班延误却见山航冒雨起飞",
+      "onboard_time": 1688004453,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248567,
@@ -513,14 +577,6 @@
       "onboard_time": 1687965877,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238415,
-      "num": 238415,
-      "word": "拜登使用呼吸机治疗睡眠呼吸暂停",
-      "onboard_time": 1688002893,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 237987,
@@ -627,11 +683,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208462,
+      "num": 208462,
+      "word": "60岁老闺蜜团骑行5000公里环河南",
+      "onboard_time": 1688004453,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "扬州警方通报",
       "onboard_time": 1688002893,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205216,
+      "num": 205216,
+      "word": "古尔邦节",
+      "onboard_time": 1688004092,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -641,6 +713,14 @@
       "onboard_time": 1687999654,
       "rank": 44,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 193443,
+      "num": 193443,
+      "word": "赵露思陈哲远脸颊吻",
+      "onboard_time": 1688004574,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 191075,
@@ -667,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185378,
-      "num": 185378,
-      "word": "孕晚期12306的人性化服务",
-      "onboard_time": 1688003192,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180329,
       "num": 180329,
       "word": "巨蟹座一定要远离影响自己情绪的人",
@@ -699,6 +771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140230,
+      "num": 186841,
+      "word": "跑步和跳绳哪个更适合减肥",
+      "onboard_time": 1688004574,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132077,
       "num": 132077,
       "word": "表妹考了620分被舅妈骂一下午",
@@ -708,7 +788,7 @@
     },
     {
       "raw_hot": 131104,
-      "num": 184896,
+      "num": 186681,
       "word": "制作逝者留在墓碑上的食谱食物",
       "onboard_time": 1688000198,
       "rank": 49,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1688004607208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2684585,
+        "num": 2684585,
+        "word": "六公主评偷偷藏不住",
+        "onboard_time": 1687999774,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1388032,
+        "num": 1388032,
+        "word": "扬州警方通报网民发帖称被民警强奸",
+        "onboard_time": 1688002354,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20633,
+        "num": 1106604,
+        "word": "成都大运会边看边玩攻略",
+        "onboard_time": 1687955740,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091269,
+        "num": 1091269,
+        "word": "私拆女儿档案的母亲道歉",
+        "onboard_time": 1687993343,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977697,
+        "num": 977697,
+        "word": "泰坦号潜水器残骸中发现疑似人类遗骸",
+        "onboard_time": 1687999895,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929007,
+        "num": 929007,
+        "word": "12306回应高级动卧乘坐一站8分钟420元",
+        "onboard_time": 1687995449,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910256,
+        "num": 910256,
+        "word": "肖战王一博今晚见",
+        "onboard_time": 1687998155,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799221,
+        "num": 799221,
+        "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+        "onboard_time": 1687958560,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697210,
+        "num": 697210,
+        "word": "韩国改周岁算法后",
+        "onboard_time": 1687997614,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532871,
+        "num": 532871,
+        "word": "李沁工作室疑似因造型问题删博",
+        "onboard_time": 1687953632,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2484877,
+        "num": 524366,
+        "word": "台媒曝陈建州全裸骚扰S妈",
+        "onboard_time": 1687994967,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1688459,
+        "num": 463559,
+        "word": "韩安冉婚礼",
+        "onboard_time": 1688002231,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 775739,
+        "num": 433839,
+        "word": "拜登使用呼吸机治疗睡眠呼吸暂停",
+        "onboard_time": 1688002893,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1265348,
+        "num": 393825,
+        "word": "陈建州 喔这张床不可以",
+        "onboard_time": 1687960477,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387453,
+        "num": 387453,
+        "word": "连续出警8小时消防员归队带妆吃饭",
+        "onboard_time": 1688000134,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455102,
+        "num": 382643,
+        "word": "毛不易看甜宠剧会发出上不了台面的声音",
+        "onboard_time": 1687999774,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645997,
+        "num": 372144,
+        "word": "范玮琪终于出现了",
+        "onboard_time": 1687937916,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359563,
+        "num": 359563,
+        "word": "孕晚期12306的人性化服务",
+        "onboard_time": 1688003192,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314951,
+        "num": 314951,
+        "word": "我只穿便宜衣服但我觉得我很会买",
+        "onboard_time": 1687960963,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 312113,
+        "num": 312113,
+        "word": "孩子生病爸爸打110报警请求超速",
+        "onboard_time": 1688003374,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690553,
+        "num": 312103,
+        "word": "领完结婚证岳父给我转了29.8万",
+        "onboard_time": 1687994604,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449806,
+        "num": 311908,
+        "word": "沈月进组狐妖小红娘",
+        "onboard_time": 1688003792,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415723,
+        "num": 311783,
+        "word": "陈建州方回应郭源元指控",
+        "onboard_time": 1687995085,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376801,
+        "num": 311620,
+        "word": "室友考研要和我考同一个学校",
+        "onboard_time": 1687998818,
+        "rank": 23,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 321890,
+        "num": 311411,
+        "word": "她这么可爱要去吗",
+        "onboard_time": 1688000977,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 397105,
+        "num": 311249,
+        "word": "TOP参演鱿鱼游戏2",
+        "onboard_time": 1688003490,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383164,
+        "num": 311127,
+        "word": "蔡徐坤巡演将如期举行",
+        "onboard_time": 1687939717,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349537,
+        "num": 310932,
+        "word": "看完消失的她 女孩一定要牢记",
+        "onboard_time": 1688000257,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310928,
+        "num": 310928,
+        "word": "在地铁上被孕妇让座了",
+        "onboard_time": 1687997374,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 275610,
+        "num": 275610,
+        "word": "胃癌几乎都是吃出来的",
+        "onboard_time": 1687949316,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290232,
+        "num": 271787,
+        "word": "黄轩红毯穿金戴银",
+        "onboard_time": 1688003914,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267516,
+        "num": 267516,
+        "word": "武汉到底是脏乱差还是市井烟火气",
+        "onboard_time": 1687997736,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262575,
+        "num": 262575,
+        "word": "罕见病女孩从小区门口走400米回家",
+        "onboard_time": 1688003854,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248646,
+        "num": 248646,
+        "word": "女子航班延误却见山航冒雨起飞",
+        "onboard_time": 1688004453,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234154,
+        "num": 234154,
+        "word": "被丈夫多次碾压致死女子弟弟发声",
+        "onboard_time": 1687953452,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231496,
+        "num": 231496,
+        "word": "表妹实习想来我家借住一年",
+        "onboard_time": 1687994666,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227150,
+        "num": 227150,
+        "word": "何超莲娃从天上来",
+        "onboard_time": 1687953332,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215754,
+        "num": 215754,
+        "word": "第一次见脸这么圆的大熊猫",
+        "onboard_time": 1687969351,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209444,
+        "num": 209444,
+        "word": "赵丽颖曹可凡合照",
+        "onboard_time": 1687995085,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "60岁老闺蜜团骑行5000公里环河南",
+        "onboard_time": 1688004453,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 207807,
+        "num": 207807,
+        "word": "大牙回复郭源元",
+        "onboard_time": 1687995267,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205216,
+        "num": 205216,
+        "word": "古尔邦节",
+        "onboard_time": 1688004092,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "LV老板带着儿女北京巡店",
+        "onboard_time": 1687962944,
+        "rank": 42,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 195552,
+        "num": 195552,
+        "word": "Angelababy脸在江山在",
+        "onboard_time": 1687957836,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193443,
+        "num": 193443,
+        "word": "赵露思陈哲远脸颊吻",
+        "onboard_time": 1688004574,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187380,
+        "num": 187380,
+        "word": "鸟鸟总是能精准吐槽",
+        "onboard_time": 1687995208,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186961,
+        "num": 186961,
+        "word": "GQ内场",
+        "onboard_time": 1687998395,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166451,
+        "num": 186928,
+        "word": "中国天眼取得重大突破",
+        "onboard_time": 1687999654,
+        "rank": 47,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 140230,
+        "num": 186841,
+        "word": "跑步和跳绳哪个更适合减肥",
+        "onboard_time": 1688004574,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129225,
+        "num": 186681,
+        "word": "制作逝者留在墓碑上的食谱食物",
+        "onboard_time": 1688000198,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡村之美#"
+    }
+  }
+}
