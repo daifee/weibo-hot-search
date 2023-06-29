@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688077047667,
+  "endTime": 1688078084313,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466691,
+      "num": 466691,
+      "word": "官方回应上海外滩夜景灯光被吐槽",
+      "onboard_time": 1688071512,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 453495,
       "num": 590263,
       "word": "蜱虫在老人脖子上吸完血大如黄豆",
@@ -291,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316053,
-      "num": 316053,
-      "word": "官方回应上海外滩夜景灯光被吐槽",
-      "onboard_time": 1688071512,
-      "rank": 9,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 315153,
       "num": 645878,
       "word": "wtt",
       "onboard_time": 1688052771,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268942,
+      "num": 268942,
+      "word": "肖战湾区升明月内场饭拍",
+      "onboard_time": 1688073253,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 267537,
@@ -352,14 +360,6 @@
       "word": "鉴证实录",
       "onboard_time": 1688058325,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 237463,
-      "num": 237463,
-      "word": "肖战湾区升明月内场饭拍",
-      "onboard_time": 1688073253,
-      "rank": 3,
       "category": "影视"
     },
     {
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160026,
+      "num": 101980,
+      "word": "任嘉伦Angelababy对手戏",
+      "onboard_time": 1688076136,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154790,
       "num": 428550,
       "word": "19岁男生高考后找失足女被拘5天",
@@ -483,11 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90996,
-      "num": 61077,
-      "word": "任嘉伦Angelababy对手戏",
-      "onboard_time": 1688076136,
-      "rank": 26,
+      "raw_hot": 96149,
+      "num": 96149,
+      "word": "82版西游记主创想为群众演员补全署名",
+      "onboard_time": 1688065515,
+      "rank": 9,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 90634,
+      "num": 80445,
+      "word": "张陆让解扣子",
+      "onboard_time": 1688075594,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -515,19 +531,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62331,
-      "num": 62331,
-      "word": "82版西游记主创想为群众演员补全署名",
-      "onboard_time": 1688065515,
-      "rank": 9,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 60548,
-      "num": 60548,
-      "word": "张陆让解扣子",
-      "onboard_time": 1688075594,
-      "rank": 30,
+      "raw_hot": 51522,
+      "num": 51522,
+      "word": "毛晓彤礼服里穿运动鞋",
+      "onboard_time": 1688077637,
+      "rank": 47,
       "category": "影视"
     },
     {
