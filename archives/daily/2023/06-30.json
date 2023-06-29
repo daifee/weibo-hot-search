@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688074432301,
+  "endTime": 1688077047667,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316053,
+      "num": 316053,
+      "word": "官方回应上海外滩夜景灯光被吐槽",
+      "onboard_time": 1688071512,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 315153,
       "num": 645878,
       "word": "wtt",
@@ -435,14 +443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 132050,
-      "num": 132050,
-      "word": "官方回应上海外滩夜景灯光被吐槽",
-      "onboard_time": 1688071512,
-      "rank": 9,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 122089,
       "num": 345481,
       "word": "一根辣条毁了我的事业",
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90996,
+      "num": 61077,
+      "word": "任嘉伦Angelababy对手戏",
+      "onboard_time": 1688076136,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87114,
       "num": 140111,
       "word": "誓约直播号没了",
@@ -513,6 +521,14 @@
       "onboard_time": 1688065515,
       "rank": 9,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 60548,
+      "num": 60548,
+      "word": "张陆让解扣子",
+      "onboard_time": 1688075594,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 44209,
