@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688042266572,
+  "endTime": 1688043357701,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -769,6 +769,14 @@
       "onboard_time": 1686191850,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3301282,
+      "num": 1044695,
+      "word": "难听",
+      "onboard_time": 1685681197,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 3289887,
@@ -2665,6 +2673,14 @@
       "onboard_time": 1687078286,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2087274,
+      "num": 2087274,
+      "word": "华晨宇发挥",
+      "onboard_time": 1688041357,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2086520,
@@ -4795,14 +4811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1569728,
-      "num": 1569728,
-      "word": "华晨宇发挥",
-      "onboard_time": 1688041357,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1566687,
       "num": 1042877,
       "word": "成都地铁男子偷拍女生后当面删掉",
@@ -6219,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344618,
+      "num": 1344618,
+      "word": "还得是成龙",
+      "onboard_time": 1688040936,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1344571,
       "num": 1344571,
       "word": "黄景瑜和极限挑战保安打起来了",
@@ -7195,6 +7211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237966,
+      "num": 623949,
+      "word": "2023湾区升明月大湾区电影音乐晚会",
+      "onboard_time": 1688040095,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1237520,
       "num": 1237520,
       "word": "吴京口中的淄博烧烤",
@@ -7289,14 +7313,6 @@
       "onboard_time": 1687617034,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1227640,
-      "num": 1227640,
-      "word": "还得是成龙",
-      "onboard_time": 1688040936,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1224190,
@@ -9163,14 +9179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1044695,
-      "num": 1044695,
-      "word": "难听",
-      "onboard_time": 1685681197,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1044269,
       "num": 940496,
       "word": "ChatGPT高三考试仅物理得零分",
@@ -9520,6 +9528,14 @@
       "word": "玉骨遥",
       "onboard_time": 1686295170,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1018029,
+      "num": 623580,
+      "word": "李宇春唱的啥",
+      "onboard_time": 1688042676,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -10033,14 +10049,6 @@
       "onboard_time": 1687682374,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 974275,
-      "num": 585548,
-      "word": "2023湾区升明月大湾区电影音乐晚会",
-      "onboard_time": 1688040095,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 974128,
@@ -15027,6 +15035,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 668456,
+      "num": 622144,
+      "word": "节目单",
+      "onboard_time": 1688041597,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667995,
       "num": 667995,
       "word": "普里戈任称瓦格纳7月1日不复存在",
@@ -15497,6 +15513,14 @@
       "onboard_time": 1687522832,
       "rank": 24,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 642596,
+      "num": 642596,
+      "word": "顶尖ad",
+      "onboard_time": 1688038776,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 642324,
@@ -15988,7 +16012,7 @@
     },
     {
       "raw_hot": 623638,
-      "num": 571229,
+      "num": 607363,
       "word": "浙江26岁小伙月薪3千存下30万",
       "onboard_time": 1688029181,
       "rank": 23,
@@ -16025,6 +16049,14 @@
       "onboard_time": 1688016214,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622100,
+      "num": 622100,
+      "word": "张柏芝美得我眼前一亮",
+      "onboard_time": 1688042859,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 622045,
@@ -16299,6 +16331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607209,
+      "num": 607209,
+      "word": "刘德华也太帅了吧",
+      "onboard_time": 1688041717,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606819,
       "num": 606819,
       "word": "网上很火但是你不懂的梗",
@@ -16408,14 +16448,6 @@
       "word": "LNG对战EDG",
       "onboard_time": 1687002268,
       "rank": 17,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 601116,
-      "num": 601116,
-      "word": "顶尖ad",
-      "onboard_time": 1688038776,
-      "rank": 6,
       "category": "游戏"
     },
     {
@@ -17956,7 +17988,7 @@
     },
     {
       "raw_hot": 545146,
-      "num": 572571,
+      "num": 607638,
       "word": "背帆布包上班被同事阴阳了",
       "onboard_time": 1688037573,
       "rank": 30,
@@ -19091,6 +19123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505092,
+      "num": 505092,
+      "word": "朱一龙的照片遭大殃",
+      "onboard_time": 1688042017,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504691,
       "num": 504691,
       "word": "有效追妻vs无效追妻",
@@ -19907,14 +19947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484317,
-      "num": 484317,
-      "word": "节目单",
-      "onboard_time": 1688041597,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 484213,
       "num": 484213,
       "word": "虞书欣田曦薇cp名",
@@ -20129,6 +20161,14 @@
       "onboard_time": 1687442377,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 477038,
+      "num": 625019,
+      "word": "山西代县矿工死亡瞒报事件调查",
+      "onboard_time": 1688037095,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476882,
@@ -21107,6 +21147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452402,
+      "num": 452402,
+      "word": "假唱",
+      "onboard_time": 1688043278,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452141,
       "num": 313895,
       "word": "繁华似锦定档",
@@ -21819,19 +21867,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433725,
-      "num": 600213,
-      "word": "山西代县矿工死亡瞒报事件调查",
-      "onboard_time": 1688037095,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433664,
       "num": 433664,
       "word": "朱一龙醉酒戏喝的是茶",
       "onboard_time": 1687838502,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 433092,
+      "num": 433092,
+      "word": "刘宇宁笑红尘",
+      "onboard_time": 1688043159,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -23915,6 +23963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392309,
+      "num": 623197,
+      "word": "武契奇儿子被科索沃当局扣留",
+      "onboard_time": 1688041956,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 392264,
       "num": 392264,
       "word": "医院回应女子被司机反复碾轧遇害",
@@ -25051,14 +25107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373070,
-      "num": 373070,
-      "word": "刘德华也太帅了吧",
-      "onboard_time": 1688041717,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 373026,
       "num": 267448,
       "word": "TTG运营",
@@ -25105,6 +25153,14 @@
       "onboard_time": 1685593889,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 372278,
+      "num": 622267,
+      "word": "去故宫的时候一定要抬头",
+      "onboard_time": 1688041832,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 372267,
@@ -26617,6 +26673,14 @@
       "onboard_time": 1686885994,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348699,
+      "num": 348699,
+      "word": "顾然姜佳终于在一起了",
+      "onboard_time": 1688041237,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 348673,
@@ -28688,14 +28752,6 @@
       "word": "赵丽颖肖战墨镜大片",
       "onboard_time": 1686798506,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 323119,
-      "num": 323119,
-      "word": "朱一龙的照片遭大殃",
-      "onboard_time": 1688042017,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -31291,6 +31347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296697,
+      "num": 623791,
+      "word": "打不到蚊子的原因找到了",
+      "onboard_time": 1688039853,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296569,
       "num": 296569,
       "word": "归途有风 三大vocal",
@@ -32433,14 +32497,6 @@
       "onboard_time": 1685862806,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286756,
-      "num": 286756,
-      "word": "顾然姜佳终于在一起了",
-      "onboard_time": 1688041237,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 286728,
@@ -33604,7 +33660,7 @@
     },
     {
       "raw_hot": 277293,
-      "num": 575868,
+      "num": 622925,
       "word": "卫健委回应医院疑失误致新生儿死亡",
       "onboard_time": 1688035474,
       "rank": 34,
@@ -34801,6 +34857,14 @@
       "onboard_time": 1685857528,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268854,
+      "num": 464079,
+      "word": "如果不工作5万可以用多久",
+      "onboard_time": 1688042559,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 268825,
@@ -42843,14 +42907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219734,
-      "num": 566842,
-      "word": "打不到蚊子的原因找到了",
-      "onboard_time": 1688039853,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219691,
       "num": 523035,
       "word": "阿根廷中国行",
@@ -44161,6 +44217,14 @@
       "onboard_time": 1686221732,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213198,
+      "num": 454385,
+      "word": "男友家的狗不同意我这门亲事",
+      "onboard_time": 1688040996,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 213178,
@@ -45697,6 +45761,14 @@
       "onboard_time": 1687359576,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205715,
+      "num": 453154,
+      "word": "为什么火锅价格越来越贵了",
+      "onboard_time": 1688042499,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 205649,
@@ -48675,14 +48747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193420,
-      "num": 377814,
-      "word": "去故宫的时候一定要抬头",
-      "onboard_time": 1688041832,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 193381,
       "num": 193381,
       "word": "蔡徐坤把姚译添扔水里了",
@@ -49345,14 +49409,6 @@
       "onboard_time": 1686666510,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190982,
-      "num": 326410,
-      "word": "武契奇儿子被科索沃当局扣留",
-      "onboard_time": 1688041956,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 190957,
@@ -51388,7 +51444,7 @@
     },
     {
       "raw_hot": 183186,
-      "num": 262636,
+      "num": 308902,
       "word": "新时代混血儿",
       "onboard_time": 1688041657,
       "rank": 43,
@@ -59321,6 +59377,14 @@
       "onboard_time": 1685696486,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140977,
+      "num": 298773,
+      "word": "容易犯困的人有福了",
+      "onboard_time": 1688043220,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 140941,

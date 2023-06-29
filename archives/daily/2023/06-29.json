@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688042266572,
+  "endTime": 1688043357701,
   "band_list": [
     {
       "raw_hot": 7349947,
@@ -40,6 +40,14 @@
       "word": "新版妲己首度曝光",
       "onboard_time": 1688008354,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3301282,
+      "num": 624601,
+      "word": "难听",
+      "onboard_time": 1688041832,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2087274,
+      "num": 2087274,
+      "word": "华晨宇发挥",
+      "onboard_time": 1688041357,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2085801,
       "num": 2085801,
       "word": "微信支付",
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1569728,
-      "num": 1569728,
-      "word": "华晨宇发挥",
-      "onboard_time": 1688041357,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1561520,
       "num": 1561520,
       "word": "鳄鱼独居16年产子",
@@ -249,6 +257,14 @@
       "onboard_time": 1688021916,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1344618,
+      "num": 1344618,
+      "word": "还得是成龙",
+      "onboard_time": 1688040936,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1336418,
@@ -315,20 +331,20 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1237966,
+      "num": 623949,
+      "word": "2023湾区升明月大湾区电影音乐晚会",
+      "onboard_time": 1688040095,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1234077,
       "num": 667379,
       "word": "路怡老涵恋情",
       "onboard_time": 1688032658,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1227640,
-      "num": 1227640,
-      "word": "还得是成龙",
-      "onboard_time": 1688040936,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1202003,
@@ -443,11 +459,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 974275,
-      "num": 585548,
-      "word": "2023湾区升明月大湾区电影音乐晚会",
-      "onboard_time": 1688040095,
-      "rank": 14,
+      "raw_hot": 1018029,
+      "num": 623580,
+      "word": "李宇春唱的啥",
+      "onboard_time": 1688042676,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 777722,
-      "num": 574841,
-      "word": "难听",
-      "onboard_time": 1688041832,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 759676,
       "num": 759676,
       "word": "惠英红 又收获一枚宝贝杨幂",
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 668456,
+      "num": 622144,
+      "word": "节目单",
+      "onboard_time": 1688041597,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666594,
       "num": 666594,
       "word": "LV帆布袋已被炒至700元",
@@ -699,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 642596,
+      "num": 642596,
+      "word": "顶尖ad",
+      "onboard_time": 1688038776,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 638237,
       "num": 638237,
       "word": "胡锡进",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 623638,
-      "num": 571229,
+      "num": 607363,
       "word": "浙江26岁小伙月薪3千存下30万",
       "onboard_time": 1688029181,
       "rank": 23,
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622100,
+      "num": 622100,
+      "word": "张柏芝美得我眼前一亮",
+      "onboard_time": 1688042859,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619183,
       "num": 619183,
       "word": "警方通报女子驾车冲撞男子致死",
@@ -739,12 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601116,
-      "num": 601116,
-      "word": "顶尖ad",
-      "onboard_time": 1688038776,
-      "rank": 6,
-      "category": "游戏"
+      "raw_hot": 607209,
+      "num": 607209,
+      "word": "刘德华也太帅了吧",
+      "onboard_time": 1688041717,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 593970,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 545146,
-      "num": 572571,
+      "num": 607638,
       "word": "背帆布包上班被同事阴阳了",
       "onboard_time": 1688037573,
       "rank": 30,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505092,
+      "num": 505092,
+      "word": "朱一龙的照片遭大殃",
+      "onboard_time": 1688042017,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 500636,
       "num": 387581,
       "word": "免单",
@@ -931,14 +971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 484317,
-      "num": 484317,
-      "word": "节目单",
-      "onboard_time": 1688041597,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 483033,
       "num": 365961,
       "word": "陈建州方回应郭源元指控",
@@ -961,6 +993,14 @@
       "onboard_time": 1688025455,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 477038,
+      "num": 625019,
+      "word": "山西代县矿工死亡瞒报事件调查",
+      "onboard_time": 1688037095,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476380,
@@ -995,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452402,
+      "num": 452402,
+      "word": "假唱",
+      "onboard_time": 1688043278,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450399,
       "num": 450399,
       "word": "马正阳叶瑄",
@@ -1019,12 +1067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433725,
-      "num": 600213,
-      "word": "山西代县矿工死亡瞒报事件调查",
-      "onboard_time": 1688037095,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 433092,
+      "num": 433092,
+      "word": "刘宇宁笑红尘",
+      "onboard_time": 1688043159,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 428538,
@@ -1179,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392309,
+      "num": 623197,
+      "word": "武契奇儿子被科索沃当局扣留",
+      "onboard_time": 1688041956,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 392205,
       "num": 392205,
       "word": "收到了去世爷爷给的嫁妆",
@@ -1227,12 +1283,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 373070,
-      "num": 373070,
-      "word": "刘德华也太帅了吧",
-      "onboard_time": 1688041717,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 372278,
+      "num": 622267,
+      "word": "去故宫的时候一定要抬头",
+      "onboard_time": 1688041832,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 372102,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1688020358,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348699,
+      "num": 348699,
+      "word": "顾然姜佳终于在一起了",
+      "onboard_time": 1688041237,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 348255,
@@ -1371,14 +1435,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 323119,
-      "num": 323119,
-      "word": "朱一龙的照片遭大殃",
-      "onboard_time": 1688042017,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321890,
       "num": 311411,
       "word": "她这么可爱要去吗",
@@ -1475,6 +1531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 296697,
+      "num": 623791,
+      "word": "打不到蚊子的原因找到了",
+      "onboard_time": 1688039853,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293874,
       "num": 293874,
       "word": "封神妲己曾出演周杰伦MV女主",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1688029418,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 286756,
-      "num": 286756,
-      "word": "顾然姜佳终于在一起了",
-      "onboard_time": 1688041237,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 283640,
@@ -1548,7 +1604,7 @@
     },
     {
       "raw_hot": 277293,
-      "num": 575868,
+      "num": 622925,
       "word": "卫健委回应医院疑失误致新生儿死亡",
       "onboard_time": 1688035474,
       "rank": 34,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1688008712,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268854,
+      "num": 464079,
+      "word": "如果不工作5万可以用多久",
+      "onboard_time": 1688042559,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 267908,
@@ -1883,14 +1947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219734,
-      "num": 566842,
-      "word": "打不到蚊子的原因找到了",
-      "onboard_time": 1688039853,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217207,
       "num": 217207,
       "word": "第一次见带崽带崩溃的狗狗",
@@ -1939,6 +1995,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 213198,
+      "num": 454385,
+      "word": "男友家的狗不同意我这门亲事",
+      "onboard_time": 1688040996,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213155,
       "num": 213155,
       "word": "试图暧昧聊天但总失败的我",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1688002893,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205715,
+      "num": 453154,
+      "word": "为什么火锅价格越来越贵了",
+      "onboard_time": 1688042499,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 205122,
@@ -2051,14 +2123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193420,
-      "num": 377814,
-      "word": "去故宫的时候一定要抬头",
-      "onboard_time": 1688041832,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 193164,
       "num": 193164,
       "word": "当我飞奔向你 嗑到手舞足蹈",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1687989795,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190982,
-      "num": 326410,
-      "word": "武契奇儿子被科索沃当局扣留",
-      "onboard_time": 1688041956,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 189900,
@@ -2156,7 +2212,7 @@
     },
     {
       "raw_hot": 183186,
-      "num": 262636,
+      "num": 308902,
       "word": "新时代混血儿",
       "onboard_time": 1688041657,
       "rank": 43,
@@ -2257,6 +2313,14 @@
       "onboard_time": 1688031518,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 140977,
+      "num": 298773,
+      "word": "容易犯困的人有福了",
+      "onboard_time": 1688043220,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 140230,

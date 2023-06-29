@@ -1,0 +1,410 @@
+{
+  "runTime": 1688043357701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2296130,
+        "num": 2296130,
+        "word": "湾区升明月",
+        "onboard_time": 1688038476,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2087274,
+        "num": 2087274,
+        "word": "华晨宇发挥",
+        "onboard_time": 1688041357,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19965,
+        "num": 1440702,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344618,
+        "num": 1344618,
+        "word": "还得是成龙",
+        "onboard_time": 1688040936,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 850933,
+        "num": 850933,
+        "word": "暮色心约 空降",
+        "onboard_time": 1688036015,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642596,
+        "num": 642596,
+        "word": "顶尖ad",
+        "onboard_time": 1688038776,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 625180,
+        "num": 625180,
+        "word": "LV帆布袋已被炒至700元",
+        "onboard_time": 1688028520,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 477038,
+        "num": 625019,
+        "word": "山西代县矿工死亡瞒报事件调查",
+        "onboard_time": 1688037095,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370353,
+        "num": 624996,
+        "word": "中国科大宿舍拎包入住",
+        "onboard_time": 1688031997,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 305283,
+        "num": 624764,
+        "word": "学校承诺考上985奖30万未兑现被起诉",
+        "onboard_time": 1688021916,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 3301282,
+        "num": 624601,
+        "word": "难听",
+        "onboard_time": 1688041832,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2220253,
+        "num": 624495,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2198600,
+        "num": 624243,
+        "word": "辛芷蕾自曝小时候遭遇猥亵",
+        "onboard_time": 1688036434,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1241523,
+        "num": 624172,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1237966,
+        "num": 623949,
+        "word": "2023湾区升明月大湾区电影音乐晚会",
+        "onboard_time": 1688040095,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296697,
+        "num": 623791,
+        "word": "打不到蚊子的原因找到了",
+        "onboard_time": 1688039853,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1018029,
+        "num": 623580,
+        "word": "李宇春唱的啥",
+        "onboard_time": 1688042676,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 987931,
+        "num": 623546,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634486,
+        "num": 623386,
+        "word": "微信支付的手续费是否过高了",
+        "onboard_time": 1688032059,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 392309,
+        "num": 623197,
+        "word": "武契奇儿子被科索沃当局扣留",
+        "onboard_time": 1688041956,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 219435,
+        "num": 622925,
+        "word": "卫健委回应医院疑失误致新生儿死亡",
+        "onboard_time": 1688035474,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974273,
+        "num": 622854,
+        "word": "范玮琪 我家只有一张床",
+        "onboard_time": 1688026783,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743397,
+        "num": 622746,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698902,
+        "num": 622577,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372278,
+        "num": 622267,
+        "word": "去故宫的时候一定要抬头",
+        "onboard_time": 1688041832,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 668456,
+        "num": 622144,
+        "word": "节目单",
+        "onboard_time": 1688041597,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622100,
+        "num": 622100,
+        "word": "张柏芝美得我眼前一亮",
+        "onboard_time": 1688042859,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368579,
+        "num": 608678,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 358364,
+        "num": 607638,
+        "word": "背帆布包上班被同事阴阳了",
+        "onboard_time": 1688037573,
+        "rank": 28,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 301411,
+        "num": 607363,
+        "word": "浙江26岁小伙月薪3千存下30万",
+        "onboard_time": 1688029181,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 607209,
+        "num": 607209,
+        "word": "刘德华也太帅了吧",
+        "onboard_time": 1688041717,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535195,
+        "num": 535195,
+        "word": "王一博现身香港梦回无名叶先生",
+        "onboard_time": 1688036795,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515414,
+        "num": 515414,
+        "word": "姜广涛 开工",
+        "onboard_time": 1688023897,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505092,
+        "num": 505092,
+        "word": "朱一龙的照片遭大殃",
+        "onboard_time": 1688042017,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268854,
+        "num": 464079,
+        "word": "如果不工作5万可以用多久",
+        "onboard_time": 1688042559,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457797,
+        "num": 457797,
+        "word": "谁教李沁这么自拍的",
+        "onboard_time": 1688040032,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254581,
+        "num": 456627,
+        "word": "19岁男生高考后找失足女被拘5天",
+        "onboard_time": 1688035778,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 222456,
+        "num": 455484,
+        "word": "一根辣条毁了我的事业",
+        "onboard_time": 1688032777,
+        "rank": 37,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 213198,
+        "num": 454385,
+        "word": "男友家的狗不同意我这门亲事",
+        "onboard_time": 1688040996,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205715,
+        "num": 453154,
+        "word": "为什么火锅价格越来越贵了",
+        "onboard_time": 1688042499,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452402,
+        "num": 452402,
+        "word": "假唱",
+        "onboard_time": 1688043278,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433092,
+        "num": 433092,
+        "word": "刘宇宁笑红尘",
+        "onboard_time": 1688043159,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361029,
+        "num": 361029,
+        "word": "金智秀和姐姐的公式照",
+        "onboard_time": 1688038953,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348699,
+        "num": 348699,
+        "word": "顾然姜佳终于在一起了",
+        "onboard_time": 1688041237,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310779,
+        "num": 310779,
+        "word": "郑乃馨宋继扬新剧公费恋爱",
+        "onboard_time": 1688037635,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168846,
+        "num": 308902,
+        "word": "新时代混血儿",
+        "onboard_time": 1688041657,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154998,
+        "num": 305772,
+        "word": "以前的人为什么头发浓密",
+        "onboard_time": 1688035419,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152736,
+        "num": 303807,
+        "word": "天官赐福",
+        "onboard_time": 1688025937,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 150293,
+        "num": 302820,
+        "word": "青海6岁烧伤男孩千里转运成都",
+        "onboard_time": 1688035115,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140977,
+        "num": 298773,
+        "word": "容易犯困的人有福了",
+        "onboard_time": 1688043220,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼新突破#"
+    }
+  }
+}
