@@ -1,0 +1,410 @@
+{
+  "runTime": 1688042266572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2713764,
+        "num": 2713764,
+        "word": "湾区升明月",
+        "onboard_time": 1688038476,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1569728,
+        "num": 1569728,
+        "word": "华晨宇发挥",
+        "onboard_time": 1688041357,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19670,
+        "num": 1329090,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227640,
+        "num": 1227640,
+        "word": "还得是成龙",
+        "onboard_time": 1688040936,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1123179,
+        "num": 1123179,
+        "word": "暮色心约 空降",
+        "onboard_time": 1688036015,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622978,
+        "num": 622978,
+        "word": "LV帆布袋已被炒至700元",
+        "onboard_time": 1688028520,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 601116,
+        "num": 601116,
+        "word": "顶尖ad",
+        "onboard_time": 1688038776,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433725,
+        "num": 600213,
+        "word": "山西代县矿工死亡瞒报事件调查",
+        "onboard_time": 1688037095,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384381,
+        "num": 598434,
+        "word": "中国科大宿舍拎包入住",
+        "onboard_time": 1688031997,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 316359,
+        "num": 595409,
+        "word": "学校承诺考上985奖30万未兑现被起诉",
+        "onboard_time": 1688021916,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2599338,
+        "num": 593982,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2400565,
+        "num": 592036,
+        "word": "辛芷蕾自曝小时候遭遇猥亵",
+        "onboard_time": 1688036434,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1361924,
+        "num": 590393,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620783,
+        "num": 587369,
+        "word": "微信支付的手续费是否过高了",
+        "onboard_time": 1688032059,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 974275,
+        "num": 585548,
+        "word": "2023湾区升明月大湾区电影音乐晚会",
+        "onboard_time": 1688040095,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1084863,
+        "num": 584783,
+        "word": "黑涩会美眉妖娇指控陈建州性骚扰",
+        "onboard_time": 1688030738,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857270,
+        "num": 582121,
+        "word": "关晓彤帽子P掉了鹿晗品牌",
+        "onboard_time": 1688028460,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839721,
+        "num": 580161,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1066151,
+        "num": 577497,
+        "word": "范玮琪 我家只有一张床",
+        "onboard_time": 1688026783,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245322,
+        "num": 575868,
+        "word": "卫健委回应医院疑失误致新生儿死亡",
+        "onboard_time": 1688035474,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777722,
+        "num": 574841,
+        "word": "难听",
+        "onboard_time": 1688041832,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452370,
+        "num": 572571,
+        "word": "背帆布包上班被同事阴阳了",
+        "onboard_time": 1688037573,
+        "rank": 21,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 341875,
+        "num": 571229,
+        "word": "浙江26岁小伙月薪3千存下30万",
+        "onboard_time": 1688029181,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 317282,
+        "num": 569172,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 219734,
+        "num": 566842,
+        "word": "打不到蚊子的原因找到了",
+        "onboard_time": 1688039853,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565440,
+        "num": 565440,
+        "word": "姜广涛 开工",
+        "onboard_time": 1688023897,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557177,
+        "num": 557177,
+        "word": "王一博现身香港梦回无名叶先生",
+        "onboard_time": 1688036795,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495214,
+        "num": 495214,
+        "word": "谁教李沁这么自拍的",
+        "onboard_time": 1688040032,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273178,
+        "num": 488422,
+        "word": "19岁男生高考后找失足女被拘5天",
+        "onboard_time": 1688035778,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 236612,
+        "num": 484488,
+        "word": "一根辣条毁了我的事业",
+        "onboard_time": 1688032777,
+        "rank": 29,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 484317,
+        "num": 484317,
+        "word": "节目单",
+        "onboard_time": 1688041597,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420581,
+        "num": 420581,
+        "word": "金智秀和姐姐的公式照",
+        "onboard_time": 1688038953,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395475,
+        "num": 395475,
+        "word": "李一桐最想和李现喝一杯",
+        "onboard_time": 1688039736,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1278820,
+        "num": 389443,
+        "word": "阿斯巴甜是否致癌",
+        "onboard_time": 1688029002,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193420,
+        "num": 377814,
+        "word": "去故宫的时候一定要抬头",
+        "onboard_time": 1688041832,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 373070,
+        "num": 373070,
+        "word": "刘德华也太帅了吧",
+        "onboard_time": 1688041717,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364455,
+        "num": 364455,
+        "word": "郑乃馨宋继扬新剧公费恋爱",
+        "onboard_time": 1688037635,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336579,
+        "num": 336579,
+        "word": "路怡老涵恋情",
+        "onboard_time": 1688032658,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190982,
+        "num": 326410,
+        "word": "武契奇儿子被科索沃当局扣留",
+        "onboard_time": 1688041956,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 323326,
+        "word": "青海6岁烧伤男孩千里转运成都",
+        "onboard_time": 1688035115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323119,
+        "num": 323119,
+        "word": "朱一龙的照片遭大殃",
+        "onboard_time": 1688042017,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286756,
+        "num": 286756,
+        "word": "顾然姜佳终于在一起了",
+        "onboard_time": 1688041237,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277353,
+        "num": 277353,
+        "word": "李克勤红日真的好听",
+        "onboard_time": 1688041774,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183186,
+        "num": 262636,
+        "word": "新时代混血儿",
+        "onboard_time": 1688041657,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261703,
+        "num": 261703,
+        "word": "华晨宇海选10周年",
+        "onboard_time": 1688040936,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167443,
+        "num": 257200,
+        "word": "以前的人为什么头发浓密",
+        "onboard_time": 1688035419,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 160830,
+        "num": 253329,
+        "word": "你买的素皮手机脱落了吗",
+        "onboard_time": 1688035537,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 142996,
+        "num": 247205,
+        "word": "天官赐福",
+        "onboard_time": 1688025937,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 131345,
+        "num": 241203,
+        "word": "我觉得那些人应该听听我的",
+        "onboard_time": 1688042076,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 118936,
+        "num": 234270,
+        "word": "杭州跳桥救人小哥出院",
+        "onboard_time": 1688041717,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼新突破#"
+    }
+  }
+}
