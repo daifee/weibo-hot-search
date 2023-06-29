@@ -1,0 +1,410 @@
+{
+  "runTime": 1688027951646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7349947,
+        "num": 7349947,
+        "word": "范玮琪 我丈夫是个正直的人",
+        "onboard_time": 1688026115,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1701484,
+        "num": 1701484,
+        "word": "多所高校停用微信支付",
+        "onboard_time": 1688015558,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 23176,
+        "num": 1441416,
+        "word": "2023中国网络文明大会",
+        "onboard_time": 1688027680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3698626,
+        "num": 1390424,
+        "word": "姜广涛 开工",
+        "onboard_time": 1688023897,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1324128,
+        "num": 1324128,
+        "word": "天官赐福",
+        "onboard_time": 1688025937,
+        "rank": 4,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1068209,
+        "num": 1068209,
+        "word": "学校承诺考上985奖30万未兑现被起诉",
+        "onboard_time": 1688021916,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 972553,
+        "num": 972553,
+        "word": "张睿谈被披哥节目组连拒四次",
+        "onboard_time": 1688022455,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 944416,
+        "num": 944416,
+        "word": "范玮琪 我家只有一张床",
+        "onboard_time": 1688026783,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795760,
+        "num": 795760,
+        "word": "黄婷婷与丝芭正式解约",
+        "onboard_time": 1688023954,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589658,
+        "num": 589658,
+        "word": "光合积木",
+        "onboard_time": 1688026661,
+        "rank": 9,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 4139965,
+        "num": 588678,
+        "word": "微信官方致歉",
+        "onboard_time": 1688024857,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3029890,
+        "num": 580735,
+        "word": "Ella自曝出道后被性骚扰",
+        "onboard_time": 1688027077,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612196,
+        "num": 568884,
+        "word": "makiyo回应爆料陈建州很爱乱亲",
+        "onboard_time": 1688015856,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605874,
+        "num": 565779,
+        "word": "时代峰峻回应TF三代吵架",
+        "onboard_time": 1688020476,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108957,
+        "num": 560366,
+        "word": "拾荒老人被赠纸盒后下地帮女子除草",
+        "onboard_time": 1688025633,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554755,
+        "num": 554755,
+        "word": "仁济医院已报警",
+        "onboard_time": 1688017536,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474157,
+        "num": 474157,
+        "word": "易烊千玺维权胜诉获赔20万",
+        "onboard_time": 1688022396,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454448,
+        "num": 454448,
+        "word": "媒体评LV帆布袋又蠢又穷又虚荣",
+        "onboard_time": 1688014659,
+        "rank": 17,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 438442,
+        "num": 438442,
+        "word": "鳄鱼独居16年产子",
+        "onboard_time": 1688013220,
+        "rank": 18,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 419700,
+        "num": 419700,
+        "word": "陈建州vs全在俊",
+        "onboard_time": 1688016695,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863114,
+        "num": 418988,
+        "word": "安安",
+        "onboard_time": 1688020178,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 507588,
+        "num": 398402,
+        "word": "任嘉伦刷屏了",
+        "onboard_time": 1688025336,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462721,
+        "num": 394757,
+        "word": "支付软件开始收费你还会用吗",
+        "onboard_time": 1688026837,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 436641,
+        "num": 380309,
+        "word": "8条腿没有一条是忙对的",
+        "onboard_time": 1688025455,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376807,
+        "num": 376807,
+        "word": "微信支付",
+        "onboard_time": 1688017835,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 375753,
+        "num": 375753,
+        "word": "985男生天天宿舍打游戏到凌晨3点",
+        "onboard_time": 1688019157,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363842,
+        "num": 363842,
+        "word": "新版妲己首度曝光",
+        "onboard_time": 1688008354,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337363,
+        "num": 337363,
+        "word": "倪妮来了都得迷惑",
+        "onboard_time": 1688026234,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329537,
+        "num": 329537,
+        "word": "鲁A33632你做的好事藏不住了",
+        "onboard_time": 1688012200,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319113,
+        "num": 319113,
+        "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+        "onboard_time": 1688018257,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315752,
+        "num": 315752,
+        "word": "72岁老人支教5年年轻似50岁",
+        "onboard_time": 1688024134,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 307177,
+        "num": 307177,
+        "word": "假如用一万块跟你换高铁座位",
+        "onboard_time": 1688026783,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305571,
+        "num": 305571,
+        "word": "叶瑄CV",
+        "onboard_time": 1688026721,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301661,
+        "num": 301661,
+        "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+        "onboard_time": 1687958560,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290841,
+        "num": 290841,
+        "word": "山东龙凤四胞胎同圆大学梦",
+        "onboard_time": 1688025098,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 95862,
+        "num": 278342,
+        "word": "我国安装完成全球首台16兆瓦风电机组",
+        "onboard_time": 1688026298,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274832,
+        "num": 274832,
+        "word": "台媒曝陈建州全裸骚扰S妈",
+        "onboard_time": 1687994967,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270507,
+        "num": 270507,
+        "word": "六公主评偷偷藏不住",
+        "onboard_time": 1687999774,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262158,
+        "num": 262158,
+        "word": "劳保鞋被砸变形工人脚趾夹流血",
+        "onboard_time": 1688023294,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270913,
+        "num": 260129,
+        "word": "陈建州 喔这张床不可以",
+        "onboard_time": 1687960477,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247323,
+        "num": 256936,
+        "word": "肖战给毕业生的建议",
+        "onboard_time": 1688021432,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254522,
+        "num": 254522,
+        "word": "收到了去世爷爷给的嫁妆",
+        "onboard_time": 1688027322,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232646,
+        "num": 253053,
+        "word": "山西一男子杀害妻儿后跳河身亡",
+        "onboard_time": 1688013100,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251694,
+        "num": 251694,
+        "word": "肖战王一博今晚见",
+        "onboard_time": 1687998155,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244005,
+        "num": 244005,
+        "word": "女孩出生4天被遗弃养父收废品养大",
+        "onboard_time": 1688016214,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232872,
+        "num": 232872,
+        "word": "陈哲远没事没事",
+        "onboard_time": 1688027861,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229162,
+        "num": 229162,
+        "word": "人民网评倪妮消失的她角色",
+        "onboard_time": 1688009135,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223019,
+        "num": 223019,
+        "word": "被不被爱太明显了",
+        "onboard_time": 1688024375,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227470,
+        "num": 220108,
+        "word": "消失的她里面的水母",
+        "onboard_time": 1688025274,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217055,
+        "num": 217055,
+        "word": "新玩具成功引起了丫丫的注意",
+        "onboard_time": 1688024196,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平颁发命令状并向晋衔的军官表示祝贺#"
+    }
+  }
+}

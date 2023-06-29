@@ -1,10 +1,10 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688027115126,
+  "endTime": 1688027951646,
   "band_list": [
     {
-      "raw_hot": 6234053,
-      "num": 6234053,
+      "raw_hot": 7349947,
+      "num": 7349947,
       "word": "范玮琪 我丈夫是个正直的人",
       "onboard_time": 1688026115,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1688009135,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3029890,
+      "num": 580735,
+      "word": "Ella自曝出道后被性骚扰",
+      "onboard_time": 1688027077,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 2773148,
@@ -203,6 +211,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1324128,
+      "num": 1324128,
+      "word": "天官赐福",
+      "onboard_time": 1688025937,
+      "rank": 5,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1309679,
       "num": 574065,
       "word": "鼠鼠鸭玩具遭淘宝下架",
@@ -241,14 +257,6 @@
       "onboard_time": 1688013762,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1167047,
-      "num": 1167047,
-      "word": "天官赐福",
-      "onboard_time": 1688025937,
-      "rank": 5,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 1160843,
@@ -323,12 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 964263,
-      "num": 964263,
+      "raw_hot": 972553,
+      "num": 972553,
       "word": "张睿谈被披哥节目组连拒四次",
       "onboard_time": 1688022455,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 944416,
+      "num": 944416,
+      "word": "范玮琪 我家只有一张床",
+      "onboard_time": 1688026783,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 943957,
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622135,
-      "num": 307318,
-      "word": "范玮琪 我家只有一张床",
-      "onboard_time": 1688026783,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 619183,
       "num": 619183,
       "word": "警方通报女子驾车冲撞男子致死",
@@ -555,8 +563,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589658,
+      "num": 589658,
+      "word": "光合积木",
+      "onboard_time": 1688026661,
+      "rank": 35,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 564531,
-      "num": 394695,
+      "num": 398402,
       "word": "任嘉伦刷屏了",
       "onboard_time": 1688025336,
       "rank": 21,
@@ -745,6 +761,14 @@
       "onboard_time": 1688016155,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 462721,
+      "num": 394757,
+      "word": "支付软件开始收费你还会用吗",
+      "onboard_time": 1688026837,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 434851,
@@ -963,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 337363,
+      "num": 337363,
+      "word": "倪妮来了都得迷惑",
+      "onboard_time": 1688026234,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335090,
       "num": 335090,
       "word": "新版妲己 画皮小唯",
@@ -1019,14 +1051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 314104,
-      "num": 314104,
-      "word": "倪妮来了都得迷惑",
-      "onboard_time": 1688026234,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310790,
       "num": 269174,
       "word": "郭源元 我不想让大牙只有一个人",
@@ -1049,6 +1073,22 @@
       "onboard_time": 1688021976,
       "rank": 28,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 307177,
+      "num": 307177,
+      "word": "假如用一万块跟你换高铁座位",
+      "onboard_time": 1688026783,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 305571,
+      "num": 305571,
+      "word": "叶瑄CV",
+      "onboard_time": 1688026721,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 300020,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1687944155,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 276950,
-      "num": 276950,
-      "word": "光合积木",
-      "onboard_time": 1688026661,
-      "rank": 35,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 276063,
@@ -1219,12 +1251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256435,
-      "num": 256435,
-      "word": "Ella自曝出道后被性骚扰",
-      "onboard_time": 1688027077,
+      "raw_hot": 254522,
+      "num": 254522,
+      "word": "收到了去世爷爷给的嫁妆",
+      "onboard_time": 1688027322,
       "rank": 41,
-      "category": "艺人"
+      "category": "情感"
     },
     {
       "raw_hot": 252579,
@@ -1339,20 +1371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235032,
-      "num": 235032,
-      "word": "叶瑄CV",
-      "onboard_time": 1688026721,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 233687,
       "num": 233687,
       "word": "GQ内场",
       "onboard_time": 1687998395,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232872,
+      "num": 232872,
+      "word": "陈哲远没事没事",
+      "onboard_time": 1688027861,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 232179,
@@ -1395,14 +1427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221277,
-      "num": 221277,
-      "word": "支付软件开始收费你还会用吗",
-      "onboard_time": 1688026837,
-      "rank": 46,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 221214,
       "num": 221214,
       "word": "赵露思陈哲远脸颊吻",
@@ -1432,14 +1456,6 @@
       "word": "吹蟑螂比赛",
       "onboard_time": 1687964504,
       "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 215471,
-      "num": 215471,
-      "word": "假如用一万块跟你换高铁座位",
-      "onboard_time": 1688026783,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1691,20 +1707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108957,
+      "num": 560366,
+      "word": "拾荒老人被赠纸盒后下地帮女子除草",
+      "onboard_time": 1688025633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95862,
+      "num": 1540309,
+      "word": "我国安装完成全球首台16兆瓦风电机组",
+      "onboard_time": 1688026298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91383,
       "num": 91383,
       "word": "78级物理专业高考生的报考建议",
       "onboard_time": 1687975516,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 87253,
-      "num": 1540309,
-      "word": "我国安装完成全球首台16兆瓦风电机组",
-      "onboard_time": 1688026298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86932,
@@ -1719,14 +1743,6 @@
       "num": 606544,
       "word": "戏曲演员话筒故障男孩后台惊艳救场",
       "onboard_time": 1688022094,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65043,
-      "num": 527657,
-      "word": "拾荒老人被赠纸盒后下地帮女子除草",
-      "onboard_time": 1688025633,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1776,6 +1792,14 @@
       "word": "江浙沪丑建筑居全国榜首",
       "onboard_time": 1688023055,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23176,
+      "num": 1441416,
+      "word": "2023中国网络文明大会",
+      "onboard_time": 1688027680,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

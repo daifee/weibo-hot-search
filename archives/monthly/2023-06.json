@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688027115126,
+  "endTime": 1688027951646,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7349947,
+      "num": 7349947,
+      "word": "范玮琪 我丈夫是个正直的人",
+      "onboard_time": 1688026115,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7308190,
       "num": 7308190,
       "word": "四级",
@@ -313,14 +321,6 @@
       "onboard_time": 1686697641,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 6234053,
-      "num": 6234053,
-      "word": "范玮琪 我丈夫是个正直的人",
-      "onboard_time": 1688026115,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 6223000,
@@ -928,6 +928,14 @@
       "word": "黄多多17岁穿搭",
       "onboard_time": 1687682614,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3029890,
+      "num": 580735,
+      "word": "Ella自曝出道后被性骚扰",
+      "onboard_time": 1688027077,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6339,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1324128,
+      "num": 1324128,
+      "word": "天官赐福",
+      "onboard_time": 1686129467,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1323029,
       "num": 1323029,
       "word": "暴雪禁止中国大陆玩家参与暗黑4活动",
@@ -7665,14 +7681,6 @@
       "onboard_time": 1686482188,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1167047,
-      "num": 1167047,
-      "word": "天官赐福",
-      "onboard_time": 1686129467,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 1166933,
@@ -9931,6 +9939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 972553,
+      "num": 972553,
+      "word": "张睿谈被披哥节目组连拒四次",
+      "onboard_time": 1688022455,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 972203,
       "num": 2194916,
       "word": "金毛误入考场被民警请出",
@@ -9993,14 +10009,6 @@
       "onboard_time": 1685848465,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 964263,
-      "num": 964263,
-      "word": "张睿谈被披哥节目组连拒四次",
-      "onboard_time": 1688022455,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 964196,
@@ -10273,6 +10281,14 @@
       "onboard_time": 1687323045,
       "rank": 11,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 944416,
+      "num": 944416,
+      "word": "范玮琪 我家只有一张床",
+      "onboard_time": 1688026783,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 944263,
@@ -15835,14 +15851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622135,
-      "num": 307318,
-      "word": "范玮琪 我家只有一张床",
-      "onboard_time": 1688026783,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622045,
       "num": 622045,
       "word": "赵丽颖迪士尼",
@@ -16481,6 +16489,14 @@
       "onboard_time": 1686362008,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589658,
+      "num": 589658,
+      "word": "光合积木",
+      "onboard_time": 1688026661,
+      "rank": 35,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 589656,
@@ -17148,7 +17164,7 @@
     },
     {
       "raw_hot": 564531,
-      "num": 394695,
+      "num": 398402,
       "word": "任嘉伦刷屏了",
       "onboard_time": 1688025336,
       "rank": 21,
@@ -20465,6 +20481,14 @@
       "onboard_time": 1686147456,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462721,
+      "num": 394757,
+      "word": "支付软件开始收费你还会用吗",
+      "onboard_time": 1688026837,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 462399,
@@ -27131,6 +27155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337363,
+      "num": 337363,
+      "word": "倪妮来了都得迷惑",
+      "onboard_time": 1688026234,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337236,
       "num": 337236,
       "word": "女子离婚娘家人放鞭炮订蛋糕庆祝",
@@ -29051,14 +29083,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 314104,
-      "num": 314104,
-      "word": "倪妮来了都得迷惑",
-      "onboard_time": 1688026234,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314089,
       "num": 314089,
       "word": "迪丽热巴龚俊将录制你好星期六",
@@ -29811,6 +29835,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 307177,
+      "num": 307177,
+      "word": "假如用一万块跟你换高铁座位",
+      "onboard_time": 1688026783,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307170,
       "num": 307170,
       "word": "谢娜进步好大",
@@ -29969,6 +30001,14 @@
       "onboard_time": 1687485752,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305571,
+      "num": 305571,
+      "word": "叶瑄CV",
+      "onboard_time": 1688026721,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 305155,
@@ -33211,14 +33251,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 276950,
-      "num": 276950,
-      "word": "光合积木",
-      "onboard_time": 1688026661,
-      "rank": 35,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 276927,
       "num": 276927,
       "word": "儿童套餐",
@@ -36075,14 +36107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256435,
-      "num": 256435,
-      "word": "Ella自曝出道后被性骚扰",
-      "onboard_time": 1688027077,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256314,
       "num": 256314,
       "word": "EDG对阵LOUD",
@@ -36361,6 +36385,14 @@
       "onboard_time": 1687795655,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254522,
+      "num": 254522,
+      "word": "收到了去世爷爷给的嫁妆",
+      "onboard_time": 1688027322,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 254436,
@@ -39611,14 +39643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235032,
-      "num": 235032,
-      "word": "叶瑄CV",
-      "onboard_time": 1688026721,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 234847,
       "num": 223223,
       "word": "肖战李沁新剧宿命感",
@@ -39993,6 +40017,14 @@
       "onboard_time": 1687831656,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232872,
+      "num": 232872,
+      "word": "陈哲远没事没事",
+      "onboard_time": 1688027861,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 232863,
@@ -42115,14 +42147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221277,
-      "num": 221277,
-      "word": "支付软件开始收费你还会用吗",
-      "onboard_time": 1688026837,
-      "rank": 46,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 221238,
       "num": 189666,
       "word": "Amber巡演",
@@ -43257,14 +43281,6 @@
       "onboard_time": 1685871208,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215471,
-      "num": 215471,
-      "word": "假如用一万块跟你换高铁座位",
-      "onboard_time": 1688026783,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 215358,
@@ -63275,6 +63291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108957,
+      "num": 560366,
+      "word": "拾荒老人被赠纸盒后下地帮女子除草",
+      "onboard_time": 1688025633,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108893,
       "num": 1356866,
       "word": "货车起火冒烟好心男子拎新买灭火器扑灭",
@@ -64419,6 +64443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95862,
+      "num": 1540309,
+      "word": "我国安装完成全球首台16兆瓦风电机组",
+      "onboard_time": 1688026298,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95581,
       "num": 1194781,
       "word": "每一份献血都是生命的礼物",
@@ -64993,14 +65025,6 @@
       "onboard_time": 1685834897,
       "rank": 35,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 87253,
-      "num": 1540309,
-      "word": "我国安装完成全球首台16兆瓦风电机组",
-      "onboard_time": 1688026298,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87171,
@@ -66545,14 +66569,6 @@
       "onboard_time": 1687143087,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 65043,
-      "num": 527657,
-      "word": "拾荒老人被赠纸盒后下地帮女子除草",
-      "onboard_time": 1688025633,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64820,
@@ -68849,6 +68865,14 @@
       "onboard_time": 1685730796,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 23176,
+      "num": 1441416,
+      "word": "2023中国网络文明大会",
+      "onboard_time": 1688027680,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23106,
