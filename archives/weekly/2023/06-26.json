@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688045913988,
+  "endTime": 1688048227403,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3330099,
+      "num": 3330099,
+      "word": "徐小凤 今晚最佳",
+      "onboard_time": 1688045982,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3204851,
       "num": 3204851,
       "word": "人民网评倪妮消失的她角色",
@@ -217,6 +225,14 @@
       "onboard_time": 1687746329,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2912188,
+      "num": 2137463,
+      "word": "肖战好港",
+      "onboard_time": 1688046279,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2889479,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2069408,
+      "num": 2069408,
+      "word": "港星赢得很彻底",
+      "onboard_time": 1688046642,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2045680,
       "num": 2045680,
       "word": "消失的她 畸形秀",
@@ -769,6 +793,22 @@
       "onboard_time": 1688032059,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1724295,
+      "num": 1724295,
+      "word": "许嵩挽回了面子",
+      "onboard_time": 1688047425,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1723405,
+      "num": 1723405,
+      "word": "关晓彤这腿",
+      "onboard_time": 1688047425,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1705912,
@@ -1859,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 909931,
+      "num": 909931,
+      "word": "去故宫的时候一定要抬头",
+      "onboard_time": 1688041832,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 909699,
       "num": 909699,
       "word": "何非连发誓都是用假手",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1687946855,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 827784,
-      "num": 827784,
-      "word": "去故宫的时候一定要抬头",
-      "onboard_time": 1688041832,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 826373,
@@ -2795,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 629977,
+      "num": 824181,
+      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
+      "onboard_time": 1688044239,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 627866,
       "num": 627866,
       "word": "韩素希吃棒棒糖姬达狂响",
@@ -3187,6 +3235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555576,
+      "num": 458922,
+      "word": "陈慧娴唱千千阙歌了",
+      "onboard_time": 1688047065,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 554818,
       "num": 339757,
       "word": "在尿都憋不住的年纪他却还想憋住情绪",
@@ -3347,6 +3403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 539178,
+      "num": 802504,
+      "word": "武契奇儿子被科索沃当局扣留",
+      "onboard_time": 1688041956,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 536426,
       "num": 411246,
       "word": "女子5万转错对象一查对方已离世",
@@ -3393,14 +3457,6 @@
       "onboard_time": 1687706734,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 533584,
-      "num": 802504,
-      "word": "武契奇儿子被科索沃当局扣留",
-      "onboard_time": 1688041956,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 526284,
@@ -3625,6 +3681,14 @@
       "onboard_time": 1688040032,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 494638,
+      "num": 458535,
+      "word": "温碧霞娜然两代妲己同框",
+      "onboard_time": 1688047724,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 494143,
@@ -3905,14 +3969,6 @@
       "onboard_time": 1687913259,
       "rank": 22,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 456981,
-      "num": 824181,
-      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
-      "onboard_time": 1688044239,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 456138,
@@ -5003,6 +5059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347652,
+      "num": 347652,
+      "word": "赵传吊打",
+      "onboard_time": 1688048147,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347086,
       "num": 347086,
       "word": "孩子生病爸爸打110报警请求超速",
@@ -5152,6 +5216,14 @@
       "word": "倪妮来了都得迷惑",
       "onboard_time": 1688026234,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336267,
+      "num": 336267,
+      "word": "李现播音腔",
+      "onboard_time": 1688047425,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -6963,6 +7035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245074,
+      "num": 458727,
+      "word": "重庆客车被落石砸中致6死9伤",
+      "onboard_time": 1688047365,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244984,
       "num": 244984,
       "word": "一诺入选亚运会",
@@ -6977,6 +7057,14 @@
       "onboard_time": 1687868918,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244435,
+      "num": 459115,
+      "word": "TTG锁定第二轮S组",
+      "onboard_time": 1688047065,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 244420,
@@ -9227,6 +9315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152700,
+      "num": 422465,
+      "word": "五个眼妆小技巧",
+      "onboard_time": 1688046347,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 152531,
       "num": 187880,
       "word": "BLG对战iG",
@@ -9443,6 +9539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134877,
+      "num": 336524,
+      "word": "女子吃席第一道菜是冰淇淋",
+      "onboard_time": 1688048024,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "你知道自己的档案在哪吗",
@@ -9491,6 +9595,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 130917,
+      "num": 336252,
+      "word": "戴这俩冰袖是为了啥",
+      "onboard_time": 1688047603,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129970,
       "num": 129970,
       "word": "现在的假发已经这么真了吗",
@@ -9521,6 +9633,14 @@
       "onboard_time": 1687957117,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128019,
+      "num": 336244,
+      "word": "男子沉迷海景忘记涨潮被困礁石",
+      "onboard_time": 1688047545,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 127668,
@@ -10121,6 +10241,14 @@
       "onboard_time": 1687852837,
       "rank": 14,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 44832,
+      "num": 506435,
+      "word": "的哥闯红灯狂飙4分钟送女孩就医",
+      "onboard_time": 1688047243,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41920,
