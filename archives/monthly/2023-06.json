@@ -1,6 +1,6 @@
 {
   "startTime": 1685550119926,
-  "endTime": 1688035071420,
+  "endTime": 1688037337024,
   "band_list": [
     {
       "raw_hot": 15716615,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 5207439,
-      "num": 728480,
+      "num": 824877,
       "word": "微信官方致歉",
       "onboard_time": 1688024857,
       "rank": 10,
@@ -907,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3053948,
+      "num": 3053948,
+      "word": "阿斯巴甜 致癌",
+      "onboard_time": 1688029002,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3044586,
       "num": 3044586,
       "word": "丫丫",
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 2707528,
-      "num": 538739,
+      "num": 564684,
       "word": "黑涩会美眉妖娇指控陈建州性骚扰",
       "onboard_time": 1688030738,
       "rank": 15,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1686278669,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2614445,
-      "num": 2614445,
-      "word": "阿斯巴甜 致癌",
-      "onboard_time": 1688029002,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2614180,
@@ -3961,6 +3961,14 @@
       "onboard_time": 1687157744,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1737166,
+      "num": 750434,
+      "word": "微信支付的手续费是否过高了",
+      "onboard_time": 1688032059,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 1734930,
@@ -6843,14 +6851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1268472,
-      "num": 519878,
-      "word": "微信支付的手续费是否过高了",
-      "onboard_time": 1688032059,
-      "rank": 14,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1267506,
       "num": 1267506,
       "word": "EXO是我们公司非常珍惜的艺人",
@@ -7204,7 +7204,7 @@
     },
     {
       "raw_hot": 1234077,
-      "num": 545321,
+      "num": 561877,
       "word": "路怡老涵恋情",
       "onboard_time": 1688032658,
       "rank": 12,
@@ -7473,6 +7473,14 @@
       "onboard_time": 1687601133,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1198050,
+      "num": 1198050,
+      "word": "辛芷蕾自曝小时候遭遇猥亵",
+      "onboard_time": 1688036434,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1197139,
@@ -10580,7 +10588,7 @@
     },
     {
       "raw_hot": 931552,
-      "num": 408090,
+      "num": 512372,
       "word": "一根辣条毁了我的事业",
       "onboard_time": 1688032777,
       "rank": 21,
@@ -13507,6 +13515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744626,
+      "num": 2275363,
+      "word": "中国科大宿舍拎包入住",
+      "onboard_time": 1688031997,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 744263,
       "num": 652800,
       "word": "迪丽热巴工作室发文回应粉丝",
@@ -14555,14 +14571,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 688736,
-      "num": 2275363,
-      "word": "中国科大宿舍拎包入住",
-      "onboard_time": 1688031997,
-      "rank": 1,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 688286,
       "num": 688286,
       "word": "iPhone拍照掉队了吗",
@@ -15243,6 +15251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 653945,
+      "num": 653945,
+      "word": "Jennie哭戏",
+      "onboard_time": 1688033137,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653921,
       "num": 653921,
       "word": "沈月捧花头像",
@@ -15257,14 +15273,6 @@
       "onboard_time": 1687861898,
       "rank": 37,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 653537,
-      "num": 653537,
-      "word": "Jennie哭戏",
-      "onboard_time": 1688033137,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 653129,
@@ -17451,6 +17459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 558009,
+      "num": 558009,
+      "word": "暮色心约 空降",
+      "onboard_time": 1688036015,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 557874,
       "num": 282277,
       "word": "唐僧为什么忘记替老龟问寿命",
@@ -18900,7 +18916,7 @@
     },
     {
       "raw_hot": 508526,
-      "num": 377250,
+      "num": 487446,
       "word": "卜凡没领岳明辉发的生日红包",
       "onboard_time": 1688033559,
       "rank": 37,
@@ -19424,6 +19440,14 @@
       "word": "透明侠侣撤档",
       "onboard_time": 1687936653,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 494103,
+      "num": 494103,
+      "word": "王一博现身香港梦回无名叶先生",
+      "onboard_time": 1688036795,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -20404,7 +20428,7 @@
     },
     {
       "raw_hot": 467834,
-      "num": 367730,
+      "num": 410076,
       "word": "朱一龙回应自己立牌被打",
       "onboard_time": 1688033434,
       "rank": 25,
@@ -23131,6 +23155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406424,
+      "num": 490368,
+      "word": "19岁男生高考后找失足女被拘5天",
+      "onboard_time": 1688035778,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 406139,
       "num": 406139,
       "word": "WBG失误",
@@ -23976,6 +24008,14 @@
       "word": "男子杀害妻子及妻弟媳",
       "onboard_time": 1686655947,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389133,
+      "num": 1428692,
+      "word": "青海6岁烧伤男孩千里转运成都",
+      "onboard_time": 1688035115,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -27683,6 +27723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333008,
+      "num": 487539,
+      "word": "以前的人为什么头发浓密",
+      "onboard_time": 1688035419,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 332839,
       "num": 332839,
       "word": "the idol",
@@ -27753,6 +27801,14 @@
       "onboard_time": 1687911338,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 332096,
+      "num": 332096,
+      "word": "宋轶罗一舟新综艺定档",
+      "onboard_time": 1688036316,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 331784,
@@ -27921,6 +27977,14 @@
       "onboard_time": 1687831537,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329673,
+      "num": 329673,
+      "word": "肖战每天对自己说这13个字",
+      "onboard_time": 1688036738,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 329641,
@@ -32771,6 +32835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282272,
+      "num": 282272,
+      "word": "你买的素皮手机脱落了吗",
+      "onboard_time": 1688035537,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 282235,
       "num": 282235,
       "word": "王鹤棣泰国录制去了20多个站姐",
@@ -33825,6 +33897,14 @@
       "onboard_time": 1687421129,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 273369,
+      "num": 273369,
+      "word": "吼浪工作室回应姜广涛开工",
+      "onboard_time": 1688035837,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 273340,
@@ -35625,6 +35705,14 @@
       "onboard_time": 1687481971,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260652,
+      "num": 260652,
+      "word": "Hero零封eStar",
+      "onboard_time": 1688037033,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 260613,
@@ -45547,6 +45635,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 205122,
+      "num": 205122,
+      "word": "周杰伦落地海口路透",
+      "onboard_time": 1688036795,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205054,
       "num": 205054,
       "word": "肖战回应不会骑自行车",
@@ -47515,6 +47611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196859,
+      "num": 196859,
+      "word": "Hero对战eStar",
+      "onboard_time": 1688031758,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196858,
       "num": 183316,
       "word": "迪丽热巴说老A竟在我身边",
@@ -47721,6 +47825,14 @@
       "onboard_time": 1685544932,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196200,
+      "num": 196200,
+      "word": "OMG对战FPX",
+      "onboard_time": 1688036495,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 196171,
@@ -49585,6 +49697,14 @@
       "onboard_time": 1686275428,
       "rank": 36,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 189197,
+      "num": 189197,
+      "word": "请为救护车青A52S90让行",
+      "onboard_time": 1688035298,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189194,
@@ -60179,6 +60299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134615,
+      "num": 330099,
+      "word": "山西代县矿工死亡瞒报事件调查",
+      "onboard_time": 1688037095,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134598,
       "num": 134598,
       "word": "台湾老兵见家乡变好感慨腰杆挺直了",
@@ -69297,6 +69425,14 @@
       "onboard_time": 1685561473,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17548,
+      "num": 567679,
+      "word": "校长教毕业生平心面对人生风雨",
+      "onboard_time": 1688036434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17401,
