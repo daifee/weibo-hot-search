@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688034043045,
+  "endTime": 1688035071420,
   "band_list": [
     {
       "raw_hot": 7349947,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1268472,
+      "num": 519878,
+      "word": "微信支付的手续费是否过高了",
+      "onboard_time": 1688032059,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1250172,
       "num": 1250172,
       "word": "支付软件开始收费你还会用吗",
@@ -273,6 +281,14 @@
       "onboard_time": 1687962944,
       "rank": 5,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1234077,
+      "num": 545321,
+      "word": "路怡老涵恋情",
+      "onboard_time": 1688032658,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1202003,
@@ -329,6 +345,14 @@
       "onboard_time": 1688011475,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1089271,
+      "num": 1089271,
+      "word": "袁姗姗一期节目落了五次水",
+      "onboard_time": 1688031577,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1049634,
@@ -411,6 +435,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 931552,
+      "num": 408090,
+      "word": "一根辣条毁了我的事业",
+      "onboard_time": 1688032777,
+      "rank": 21,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 929007,
       "num": 929007,
       "word": "12306回应高级动卧乘坐一站8分钟420元",
@@ -435,28 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 881704,
-      "num": 881704,
-      "word": "袁姗姗一期节目落了五次水",
-      "onboard_time": 1688031577,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 865626,
       "num": 655617,
       "word": "makiyo回应爆料陈建州很爱乱亲",
       "onboard_time": 1688015856,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 850629,
-      "num": 545321,
-      "word": "路怡老涵恋情",
-      "onboard_time": 1688032658,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 849550,
@@ -515,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 758416,
-      "num": 519878,
-      "word": "微信支付的手续费是否过高了",
-      "onboard_time": 1688032059,
-      "rank": 14,
-      "category": "科技"
-    },
-    {
       "raw_hot": 735447,
       "num": 516302,
       "word": "大牙 这次我会勇敢法院见",
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 688736,
-      "num": 2208508,
+      "num": 2275363,
       "word": "中国科大宿舍拎包入住",
       "onboard_time": 1688031997,
       "rank": 1,
@@ -609,6 +617,14 @@
       "onboard_time": 1688013703,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 653537,
+      "num": 653537,
+      "word": "Jennie哭戏",
+      "onboard_time": 1688033137,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 638237,
@@ -691,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 555464,
-      "num": 339913,
-      "word": "一根辣条毁了我的事业",
-      "onboard_time": 1688032777,
-      "rank": 21,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 553321,
       "num": 294132,
       "word": "人生建议 少给客服发表情包",
@@ -779,19 +787,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510604,
-      "num": 510604,
-      "word": "Jennie哭戏",
-      "onboard_time": 1688033137,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 510280,
       "num": 486243,
       "word": "大牙方回应被起诉",
       "onboard_time": 1687947872,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 508526,
+      "num": 377250,
+      "word": "卜凡没领岳明辉发的生日红包",
+      "onboard_time": 1688033559,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -873,6 +881,14 @@
       "onboard_time": 1688016155,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 467834,
+      "num": 367730,
+      "word": "朱一龙回应自己立牌被打",
+      "onboard_time": 1688033434,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 450399,
@@ -961,14 +977,6 @@
       "onboard_time": 1688000134,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407395,
-      "num": 333484,
-      "word": "朱一龙回应自己立牌被打",
-      "onboard_time": 1688033434,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 402847,
@@ -1131,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342613,
+      "num": 342613,
+      "word": "竹已笔下的男主",
+      "onboard_time": 1688031697,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341448,
       "num": 341448,
       "word": "杨紫羽毛头饰造型",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1688029119,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314954,
-      "num": 314954,
-      "word": "竹已笔下的男主",
-      "onboard_time": 1688031697,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 314432,
@@ -1571,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228633,
-      "num": 228633,
-      "word": "卜凡没领岳明辉发的生日红包",
-      "onboard_time": 1688033559,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226664,
       "num": 602225,
       "word": "女孩捡手机交民警失主竟是民警本人",
@@ -1643,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214977,
+      "num": 214977,
+      "word": "周杰伦海口演唱会",
+      "onboard_time": 1688031758,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214400,
       "num": 214400,
       "word": "男朋友邀请我参加四周年会议",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1687955855,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 209883,
-      "num": 209883,
-      "word": "周杰伦海口演唱会",
-      "onboard_time": 1688031758,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 209819,
@@ -1819,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183791,
+      "num": 183791,
+      "word": "你可以帮我分担一些吗",
+      "onboard_time": 1688035056,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181828,
       "num": 181828,
       "word": "图书馆将参建民工名字刻满外墙",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1688032777,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177692,
+      "num": 177692,
+      "word": "猴子这么聪明凭什么不用上班",
+      "onboard_time": 1688034876,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 171683,
@@ -1891,8 +1907,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 151432,
-      "num": 336886,
+      "raw_hot": 151644,
+      "num": 513468,
       "word": "陕西四所高校上榜QS世界大学排名",
       "onboard_time": 1688031518,
       "rank": 23,
