@@ -1,10 +1,10 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688007410810,
+  "endTime": 1688007986987,
   "band_list": [
     {
       "raw_hot": 2773148,
-      "num": 895258,
+      "num": 896140,
       "word": "曝陈建州在范玮琪孕期骚扰女艺人",
       "onboard_time": 1687958560,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2659055,
-      "num": 563034,
+      "num": 671923,
       "word": "台媒曝陈建州全裸骚扰S妈",
       "onboard_time": 1687994967,
       "rank": 13,
@@ -67,8 +67,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1321918,
-      "num": 1321918,
+      "raw_hot": 1404533,
+      "num": 669584,
+      "word": "港媒曝郑欣宜失踪原因",
+      "onboard_time": 1688006675,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1326768,
+      "num": 1326768,
       "word": "拜登使用呼吸机治疗睡眠呼吸暂停",
       "onboard_time": 1688002893,
       "rank": 34,
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925554,
+      "num": 925554,
+      "word": "丫丫",
+      "onboard_time": 1688006373,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898946,
       "num": 898946,
       "word": "沈月进组狐妖小红娘",
       "onboard_time": 1688003792,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 874267,
-      "num": 246120,
-      "word": "港媒曝郑欣宜失踪原因",
-      "onboard_time": 1688006675,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 812106,
@@ -179,8 +187,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726722,
+      "num": 726722,
+      "word": "丫丫解锁新玩具竹笼",
+      "onboard_time": 1688005772,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715685,
-      "num": 420698,
+      "num": 458816,
       "word": "领完结婚证岳父给我转了29.8万",
       "onboard_time": 1687994604,
       "rank": 30,
@@ -203,12 +219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 630879,
-      "num": 630879,
-      "word": "丫丫解锁新玩具竹笼",
-      "onboard_time": 1688005772,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 634725,
+      "num": 634725,
+      "word": "消失的她文身细节",
+      "onboard_time": 1688006132,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 619183,
@@ -217,14 +233,6 @@
       "onboard_time": 1687966238,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579321,
-      "num": 548218,
-      "word": "消失的她文身细节",
-      "onboard_time": 1688006132,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 563442,
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497974,
-      "num": 422640,
-      "word": "丫丫",
-      "onboard_time": 1688006373,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486726,
       "num": 486726,
       "word": "白鹿的体态",
@@ -361,6 +361,14 @@
       "onboard_time": 1687964742,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 430103,
+      "num": 430103,
+      "word": "鼠鼠鸭玩具遭淘宝下架",
+      "onboard_time": 1688007089,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 428538,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418071,
+      "num": 418071,
+      "word": "员工盗公司游戏代码半年赚了1.5亿",
+      "onboard_time": 1688006191,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 412441,
       "num": 310932,
       "word": "看完消失的她 女孩一定要牢记",
@@ -417,6 +433,14 @@
       "onboard_time": 1687954773,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400562,
+      "num": 400562,
+      "word": "玉骨遥",
+      "onboard_time": 1688007452,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 398756,
@@ -459,20 +483,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 346969,
-      "num": 245950,
-      "word": "员工盗公司游戏代码半年赚了1.5亿",
-      "onboard_time": 1688006191,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 346244,
+      "raw_hot": 348255,
       "num": 387907,
       "word": "3杯咖啡如何分给4个领导",
       "onboard_time": 1688004692,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 347086,
+      "num": 347086,
+      "word": "孩子生病爸爸打110报警请求超速",
+      "onboard_time": 1688003374,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334565,
+      "num": 334565,
+      "word": "杨幂GQ派对拍马思唯",
+      "onboard_time": 1688007333,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 330097,
@@ -505,14 +537,6 @@
       "onboard_time": 1687968214,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 312113,
-      "num": 312113,
-      "word": "孩子生病爸爸打110报警请求超速",
-      "onboard_time": 1688003374,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310790,
@@ -651,20 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244271,
+      "num": 244271,
+      "word": "留学一年我的中文退化程度",
+      "onboard_time": 1688006610,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240944,
       "num": 240944,
       "word": "女司机驾奔驰来回撞击他人",
       "onboard_time": 1687965877,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239466,
-      "num": 239466,
-      "word": "鼠鼠鸭玩具遭淘宝下架",
-      "onboard_time": 1688007089,
-      "rank": 35,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 237987,
@@ -715,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227103,
-      "num": 227103,
-      "word": "留学一年我的中文退化程度",
-      "onboard_time": 1688006610,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 222865,
       "num": 222865,
       "word": "熊猫届的显眼包",
@@ -745,14 +761,6 @@
       "onboard_time": 1687964504,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214938,
-      "num": 214938,
-      "word": "杨幂GQ派对拍马思唯",
-      "onboard_time": 1688007333,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214400,
@@ -883,8 +891,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 163590,
-      "num": 223326,
+      "raw_hot": 167873,
+      "num": 561102,
       "word": "分享一些拼多多宝藏荔枝",
       "onboard_time": 1688007153,
       "rank": 39,
