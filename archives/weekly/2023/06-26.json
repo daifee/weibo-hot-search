@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688055871034,
+  "endTime": 1688056841145,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -667,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1985909,
+      "num": 1160980,
+      "word": "LPL大瓜",
+      "onboard_time": 1688053602,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1957176,
       "num": 747804,
       "word": "厌童现象",
@@ -979,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1572529,
-      "num": 1160980,
-      "word": "LPL大瓜",
-      "onboard_time": 1688053602,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1564820,
       "num": 1564820,
       "word": "高考377分复读一年逆袭677分",
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1267242,
+      "num": 1267242,
+      "word": "章子怡压轴",
+      "onboard_time": 1688053306,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1256296,
       "num": 874278,
       "word": "经纪人回应张雪峰被强制送医",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1687848637,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1161074,
-      "num": 1161074,
-      "word": "章子怡压轴",
-      "onboard_time": 1688053306,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1160843,
@@ -1556,7 +1556,7 @@
     },
     {
       "raw_hot": 1096917,
-      "num": 644458,
+      "num": 1039834,
       "word": "吴京把苏有朋唱卡壳了",
       "onboard_time": 1688053248,
       "rank": 10,
@@ -2651,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 698281,
+      "num": 587894,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1688054976,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 694755,
       "num": 694755,
       "word": "当我被00后下属骂了",
@@ -3003,6 +3011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 625121,
+      "num": 492954,
+      "word": "殷世航当花童",
+      "onboard_time": 1688055993,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 624933,
       "num": 624933,
       "word": "虫虫 你人还怪好的嘞",
@@ -3225,14 +3241,6 @@
       "onboard_time": 1687790206,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 587894,
-      "num": 587894,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1688054976,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 586486,
@@ -3987,6 +3995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 479731,
+      "num": 479731,
+      "word": "郁可唯大湾区再唱水中花",
+      "onboard_time": 1688055274,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478346,
       "num": 386523,
       "word": "谁给了迪士尼乐园涨价的勇气",
@@ -4041,14 +4057,6 @@
       "onboard_time": 1687928080,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472581,
-      "num": 472581,
-      "word": "郁可唯大湾区再唱水中花",
-      "onboard_time": 1688055274,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 471474,
@@ -5867,6 +5875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315153,
+      "num": 645878,
+      "word": "wtt",
+      "onboard_time": 1688052771,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314658,
       "num": 314658,
       "word": "鹿晗重庆演唱会dresscode",
@@ -6185,14 +6201,6 @@
       "onboard_time": 1687701879,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298887,
-      "num": 645878,
-      "word": "wtt",
-      "onboard_time": 1688052771,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 298308,
@@ -8299,6 +8307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204824,
+      "num": 507605,
+      "word": "樊振东3比0安宰贤",
+      "onboard_time": 1688054437,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204660,
       "num": 204660,
       "word": "40度天消防摘蜂窝萌娃惊呼宇航员",
@@ -8705,6 +8721,14 @@
       "onboard_time": 1687870301,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192303,
+      "num": 414356,
+      "word": "眼睛功能问题康复小方法",
+      "onboard_time": 1688055215,
+      "rank": 39,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 191809,
@@ -9209,14 +9233,6 @@
       "onboard_time": 1688050907,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175418,
-      "num": 507605,
-      "word": "樊振东3比0安宰贤",
-      "onboard_time": 1688054437,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 174406,
@@ -9827,14 +9843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135178,
-      "num": 414356,
-      "word": "眼睛功能问题康复小方法",
-      "onboard_time": 1688055215,
-      "rank": 39,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "你知道自己的档案在哪吗",
@@ -10265,6 +10273,14 @@
       "onboard_time": 1687951955,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93779,
+      "num": 277385,
+      "word": "将杀",
+      "onboard_time": 1688056171,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 93572,

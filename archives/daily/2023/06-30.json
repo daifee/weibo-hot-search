@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688055871034,
+  "endTime": 1688056841145,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1985909,
+      "num": 1160980,
+      "word": "LPL大瓜",
+      "onboard_time": 1688053602,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1790762,
       "num": 1790762,
       "word": "港星赢得很彻底",
       "onboard_time": 1688046642,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1572529,
-      "num": 1160980,
-      "word": "LPL大瓜",
-      "onboard_time": 1688053602,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 1308192,
@@ -35,8 +35,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1161074,
-      "num": 1161074,
+      "raw_hot": 1267242,
+      "num": 1267242,
       "word": "章子怡压轴",
       "onboard_time": 1688053306,
       "rank": 4,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1096917,
-      "num": 644458,
+      "num": 1039834,
       "word": "吴京把苏有朋唱卡壳了",
       "onboard_time": 1688053248,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 698281,
+      "num": 587894,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1688054976,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 647462,
       "num": 647462,
       "word": "去故宫的时候一定要抬头",
@@ -131,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625121,
+      "num": 492954,
+      "word": "殷世航当花童",
+      "onboard_time": 1688055993,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 590193,
       "num": 590193,
       "word": "黑涩会美眉妖娇指控陈建州性骚扰",
       "onboard_time": 1688030738,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587894,
-      "num": 587894,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1688054976,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 541360,
@@ -195,8 +203,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 472581,
-      "num": 472581,
+      "raw_hot": 479731,
+      "num": 479731,
       "word": "郁可唯大湾区再唱水中花",
       "onboard_time": 1688055274,
       "rank": 36,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360192,
+      "num": 360192,
+      "word": "辛芷蕾自曝小时候遭遇猥亵",
+      "onboard_time": 1688036434,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348230,
       "num": 348230,
       "word": "温兆伦刘惜君合唱一生何求",
@@ -267,7 +283,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298887,
+      "raw_hot": 315153,
       "num": 645878,
       "word": "wtt",
       "onboard_time": 1688052771,
@@ -299,6 +315,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 204824,
+      "num": 507605,
+      "word": "樊振东3比0安宰贤",
+      "onboard_time": 1688054437,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195322,
       "num": 525043,
       "word": "如果不工作5万可以用多久",
@@ -323,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192303,
+      "num": 414356,
+      "word": "眼睛功能问题康复小方法",
+      "onboard_time": 1688055215,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 175762,
       "num": 524114,
       "word": "大熊猫雅一把秋千坐断了",
@@ -331,15 +363,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175418,
-      "num": 507605,
-      "word": "樊振东3比0安宰贤",
-      "onboard_time": 1688054437,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158060,
+      "raw_hot": 161245,
       "num": 505337,
       "word": "戴这俩冰袖是为了啥",
       "onboard_time": 1688047603,
@@ -361,14 +385,6 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 135178,
-      "num": 414356,
-      "word": "眼睛功能问题康复小方法",
-      "onboard_time": 1688055215,
-      "rank": 39,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 124338,
@@ -393,6 +409,22 @@
       "onboard_time": 1688026837,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 99647,
+      "num": 278710,
+      "word": "阿斯巴甜",
+      "onboard_time": 1688051084,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93779,
+      "num": 277385,
+      "word": "将杀",
+      "onboard_time": 1688056171,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 7152,
