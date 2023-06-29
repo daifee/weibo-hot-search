@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688063915041,
+  "endTime": 1688066115314,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -443,6 +443,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 102189,
+      "num": 102189,
+      "word": "姜个顾事",
+      "onboard_time": 1688062518,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101678,
       "num": 277385,
       "word": "将杀",
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97849,
-      "num": 97849,
-      "word": "姜个顾事",
-      "onboard_time": 1688062518,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 87114,
       "num": 140111,
       "word": "誓约直播号没了",
@@ -481,6 +481,30 @@
       "onboard_time": 1688057727,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82239,
+      "num": 50626,
+      "word": "田柾国将solo出道",
+      "onboard_time": 1688065274,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 62331,
+      "num": 62331,
+      "word": "82版西游记主创想为群众演员补全署名",
+      "onboard_time": 1688065515,
+      "rank": 9,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 35999,
+      "num": 35999,
+      "word": "英雄联盟",
+      "onboard_time": 1688063956,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 29120,

@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688063915041,
+  "endTime": 1688066115314,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -10419,6 +10419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 82239,
+      "num": 50626,
+      "word": "田柾国将solo出道",
+      "onboard_time": 1688065274,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 81229,
       "num": 81229,
       "word": "浪姐4五公淘汰",
@@ -10465,6 +10473,14 @@
       "onboard_time": 1687735104,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62331,
+      "num": 62331,
+      "word": "82版西游记主创想为群众演员补全署名",
+      "onboard_time": 1688065515,
+      "rank": 9,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 62292,
@@ -10665,6 +10681,14 @@
       "onboard_time": 1688036434,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35999,
+      "num": 35999,
+      "word": "英雄联盟",
+      "onboard_time": 1688063956,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 34452,
