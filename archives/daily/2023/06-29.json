@@ -1,6 +1,6 @@
 {
   "startTime": 1687969506844,
-  "endTime": 1688020771717,
+  "endTime": 1688023084786,
   "band_list": [
     {
       "raw_hot": 3851447,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1390408,
+      "num": 1390408,
+      "word": "仁济医院已报警",
+      "onboard_time": 1688017536,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1336418,
       "num": 1336418,
       "word": "男子双手被铐被认定在看守所自杀",
@@ -171,14 +179,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1284868,
-      "num": 1284868,
-      "word": "仁济医院已报警",
-      "onboard_time": 1688017536,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1273887,
       "num": 1273887,
       "word": "丫丫",
@@ -193,6 +193,14 @@
       "onboard_time": 1687962944,
       "rank": 5,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1202003,
+      "num": 1202003,
+      "word": "时代峰峻回应TF三代吵架",
+      "onboard_time": 1688020476,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1179849,
@@ -289,6 +297,14 @@
       "onboard_time": 1687995449,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917160,
+      "num": 556089,
+      "word": "腾讯回应微信支付被多所高校停用",
+      "onboard_time": 1688019518,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 898946,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708646,
+      "num": 488590,
+      "word": "985男生天天宿舍打游戏到凌晨3点",
+      "onboard_time": 1688019157,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686667,
       "num": 435160,
       "word": "运动太多身材反而不好看了",
@@ -440,22 +464,6 @@
       "word": "警方通报女子驾车冲撞男子致死",
       "onboard_time": 1687966238,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601835,
-      "num": 601835,
-      "word": "时代峰峻回应TF三代吵架",
-      "onboard_time": 1688020476,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 595900,
-      "num": 488590,
-      "word": "985男生天天宿舍打游戏到凌晨3点",
-      "onboard_time": 1688019157,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -515,12 +523,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 546870,
+      "num": 546870,
+      "word": "安安",
+      "onboard_time": 1688020178,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 541859,
       "num": 541859,
       "word": "父亲坚持让偷店家粽子的孩子认错",
       "onboard_time": 1688004632,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539067,
+      "num": 539067,
+      "word": "张睿谈被披哥节目组连拒四次",
+      "onboard_time": 1688022455,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 532871,
@@ -593,14 +617,6 @@
       "onboard_time": 1688013461,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 491017,
-      "num": 491017,
-      "word": "腾讯回应微信支付被多所高校停用",
-      "onboard_time": 1688019518,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 486726,
@@ -795,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377987,
+      "num": 377987,
+      "word": "学校承诺考上985奖30万未兑现被起诉",
+      "onboard_time": 1688021916,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 375197,
       "num": 375197,
       "word": "Uzi卡莎超神",
       "onboard_time": 1687964620,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354206,
+      "num": 354206,
+      "word": "田柾国金珉奎车银优郑在玹聚餐",
+      "onboard_time": 1688020358,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 348255,
@@ -851,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329340,
+      "num": 329340,
+      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
+      "onboard_time": 1688018257,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323168,
       "num": 282066,
       "word": "曾黎腰臀比",
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307681,
+      "num": 307681,
+      "word": "你用支付工具时会考虑手续费吗",
+      "onboard_time": 1688021976,
+      "rank": 28,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 300020,
       "num": 300020,
       "word": "内蒙运来的生猪在天津热中暑了",
@@ -915,28 +963,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 297240,
-      "num": 297240,
-      "word": "宝宝被忘在电梯5分钟后被邻居送回家",
-      "onboard_time": 1688018257,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293874,
       "num": 293874,
       "word": "封神妲己曾出演周杰伦MV女主",
       "onboard_time": 1688015917,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292607,
-      "num": 292607,
-      "word": "田柾国金珉奎车银优郑在玹聚餐",
-      "onboard_time": 1688020358,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 291891,
@@ -955,20 +987,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 286658,
+      "num": 286658,
+      "word": "肖战给毕业生的建议",
+      "onboard_time": 1688021432,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285961,
+      "num": 285961,
+      "word": "易烊千玺维权胜诉获赔20万",
+      "onboard_time": 1688022396,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283640,
       "num": 283640,
       "word": "子弹命中的瞬间 教育闭环就此完成",
       "onboard_time": 1688016516,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 279263,
-      "num": 279263,
-      "word": "安安",
-      "onboard_time": 1688020178,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 278438,
@@ -1187,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226664,
+      "num": 602225,
+      "word": "女孩捡手机交民警失主竟是民警本人",
+      "onboard_time": 1688018434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222865,
       "num": 222865,
       "word": "熊猫届的显眼包",
@@ -1331,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189900,
+      "num": 189900,
+      "word": "怎么连表情包也扣了",
+      "onboard_time": 1688022577,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188557,
       "num": 188557,
       "word": "内蒙古男子展现侧马奔腾",
@@ -1360,6 +1416,14 @@
       "word": "迷路男童背出父母手机号却无人接听",
       "onboard_time": 1688002174,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181828,
+      "num": 181828,
+      "word": "图书馆将参建民工名字刻满外墙",
+      "onboard_time": 1688021496,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1417,14 +1481,6 @@
       "onboard_time": 1687931379,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 131936,
-      "num": 602225,
-      "word": "女孩捡手机交民警失主竟是民警本人",
-      "onboard_time": 1688018434,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131104,
@@ -1499,6 +1555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46574,
+      "num": 1401267,
+      "word": "2023年中国网络文明大会新闻发布会",
+      "onboard_time": 1688020476,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41243,
+      "num": 528324,
+      "word": "戏曲演员话筒故障男孩后台惊艳救场",
+      "onboard_time": 1688022094,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38668,
       "num": 39177,
       "word": "名侦探Kyoong南",
@@ -1515,20 +1587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29240,
+      "num": 178776,
+      "word": "江浙沪丑建筑居全国榜首",
+      "onboard_time": 1688023055,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22704,
       "num": 28627,
       "word": "每年都说是有史以来最热的一年",
       "onboard_time": 1687972699,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12097,
-      "num": 1317165,
-      "word": "2023年中国网络文明大会新闻发布会",
-      "onboard_time": 1688020476,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
