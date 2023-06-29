@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688056841145,
+  "endTime": 1688059025713,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 858442,
+      "num": 492954,
+      "word": "殷世航当花童",
+      "onboard_time": 1688055993,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 777387,
       "num": 638933,
       "word": "范玮琪 我丈夫是个正直的人",
@@ -137,14 +145,6 @@
       "onboard_time": 1688051566,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 625121,
-      "num": 492954,
-      "word": "殷世航当花童",
-      "onboard_time": 1688055993,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 590193,
@@ -291,6 +291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266408,
+      "num": 266408,
+      "word": "关晓彤帽子P掉了鹿晗品牌",
+      "onboard_time": 1688028460,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263527,
+      "num": 357978,
+      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
+      "onboard_time": 1688044239,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 259941,
       "num": 640059,
       "word": "LV帆布袋已被炒至700元",
@@ -313,6 +329,14 @@
       "onboard_time": 1688037573,
       "rank": 24,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 238750,
+      "num": 238750,
+      "word": "鉴证实录",
+      "onboard_time": 1688058325,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 204824,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165766,
+      "num": 165766,
+      "word": "十个勤天",
+      "onboard_time": 1688058924,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161245,
       "num": 505337,
       "word": "戴这俩冰袖是为了啥",
@@ -387,14 +419,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 124338,
-      "num": 345483,
-      "word": "学霸情侣本科毕业齐直博被校长写进致辞",
-      "onboard_time": 1688044239,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 122089,
       "num": 345481,
       "word": "一根辣条毁了我的事业",
@@ -403,12 +427,20 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 104870,
+      "raw_hot": 105425,
       "num": 345480,
       "word": "支付软件开始收费你还会用吗",
       "onboard_time": 1688026837,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 101678,
+      "num": 277385,
+      "word": "将杀",
+      "onboard_time": 1688056171,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 99647,
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93779,
-      "num": 277385,
-      "word": "将杀",
-      "onboard_time": 1688056171,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 81929,
+      "num": 152418,
+      "word": "预防人贩子骗你开门",
+      "onboard_time": 1688057727,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7152,
@@ -438,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#中国天眼新突破#"
+    },
+    {
+      "word": "#习近平对党的建设和组织工作作出重要指示#"
     }
   ]
 }
