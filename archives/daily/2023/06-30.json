@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688080733533,
+  "endTime": 1688081671636,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -9,6 +9,14 @@
       "onboard_time": 1688051809,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2768908,
+      "num": 374058,
+      "word": "孙怡工作室回应恋情",
+      "onboard_time": 1688080404,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1985909,
@@ -51,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1113749,
+      "num": 1113749,
+      "word": "四胞胎高考出分父亲给警察打电话报喜",
+      "onboard_time": 1688079804,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1096917,
       "num": 1039834,
       "word": "吴京把苏有朋唱卡壳了",
@@ -65,6 +81,14 @@
       "onboard_time": 1688047425,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 909343,
+      "num": 909343,
+      "word": "官方回应上海外滩夜景灯光被吐槽",
+      "onboard_time": 1688071512,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 874113,
@@ -115,14 +139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 718754,
-      "num": 718754,
-      "word": "官方回应上海外滩夜景灯光被吐槽",
-      "onboard_time": 1688071512,
-      "rank": 9,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 698281,
       "num": 587894,
       "word": "周杰伦演唱会",
@@ -147,28 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 630474,
-      "num": 342503,
-      "word": "孙怡工作室回应恋情",
-      "onboard_time": 1688080404,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627789,
       "num": 627789,
       "word": "张靓颖上大分",
       "onboard_time": 1688051566,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 613958,
-      "num": 613958,
-      "word": "四胞胎高考出分父亲给警察打电话报喜",
-      "onboard_time": 1688079804,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 590193,
@@ -179,19 +179,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554667,
+      "num": 554667,
+      "word": "任嘉伦Angelababy对手戏",
+      "onboard_time": 1688076136,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541360,
       "num": 541360,
       "word": "张柏芝美得我眼前一亮",
       "onboard_time": 1688042859,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 540832,
-      "num": 540832,
-      "word": "任嘉伦Angelababy对手戏",
-      "onboard_time": 1688076136,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1688055274,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471415,
+      "num": 471415,
+      "word": "唐朝早就有多巴胺穿搭了",
+      "onboard_time": 1688079863,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 453495,
@@ -347,7 +355,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288179,
+      "raw_hot": 305510,
+      "num": 524114,
+      "word": "大熊猫雅一把秋千坐断了",
+      "onboard_time": 1688050907,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291873,
       "num": 634777,
       "word": "微信支付的手续费是否过高了",
       "onboard_time": 1688032059,
@@ -371,19 +387,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 259733,
+      "num": 505337,
+      "word": "戴这俩冰袖是为了啥",
+      "onboard_time": 1688047603,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256467,
       "num": 636455,
       "word": "官方回应山西代县瞒报17名矿工死亡",
       "onboard_time": 1688050545,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253108,
-      "num": 524114,
-      "word": "大熊猫雅一把秋千坐断了",
-      "onboard_time": 1688050907,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -417,14 +433,6 @@
       "onboard_time": 1688054437,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201732,
-      "num": 505337,
-      "word": "戴这俩冰袖是为了啥",
-      "onboard_time": 1688047603,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 195322,
@@ -475,12 +483,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 127372,
-      "num": 104047,
+      "raw_hot": 133548,
+      "num": 116780,
+      "word": "张陆让解扣子",
+      "onboard_time": 1688075594,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 131005,
+      "num": 116766,
       "word": "周杰伦刘畊宏海口跳本草纲目",
       "onboard_time": 1688064317,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126160,
+      "num": 126160,
+      "word": "昆明海狮吞了只球杭州兽医连夜去救",
+      "onboard_time": 1688080104,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122089,
@@ -491,12 +515,28 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 109377,
+      "num": 112426,
+      "word": "82版西游记主创想为群众演员补全署名",
+      "onboard_time": 1688065515,
+      "rank": 9,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 105425,
       "num": 345480,
       "word": "支付软件开始收费你还会用吗",
       "onboard_time": 1688026837,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 102370,
+      "num": 112239,
+      "word": "温碧霞娜然两代妲己同框",
+      "onboard_time": 1688047724,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 102189,
@@ -523,30 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96149,
-      "num": 96149,
-      "word": "82版西游记主创想为群众演员补全署名",
-      "onboard_time": 1688065515,
-      "rank": 9,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 92774,
-      "num": 92774,
-      "word": "唐朝早就有多巴胺穿搭了",
-      "onboard_time": 1688079863,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 90634,
-      "num": 80445,
-      "word": "张陆让解扣子",
-      "onboard_time": 1688075594,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 87114,
       "num": 140111,
       "word": "誓约直播号没了",
@@ -569,14 +585,6 @@
       "onboard_time": 1688065274,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 76995,
-      "num": 92762,
-      "word": "昆明海狮吞了只球杭州兽医连夜去救",
-      "onboard_time": 1688080104,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44209,
