@@ -1,0 +1,410 @@
+{
+  "runTime": 1688135679416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2714429,
+        "num": 2714429,
+        "word": "第一次嗑内娱cp",
+        "onboard_time": 1688121397,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2544547,
+        "num": 2544547,
+        "word": "1700元的周杰伦演唱会门票直接烧了",
+        "onboard_time": 1688128775,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125557,
+        "num": 2014765,
+        "word": "7月一批新规实施",
+        "onboard_time": 1688129498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3031976,
+        "num": 1929035,
+        "word": "白敬亭是有牵手肌肉记忆吗",
+        "onboard_time": 1688133156,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1749772,
+        "num": 1749772,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884722,
+        "num": 884722,
+        "word": "男子高铁站持刀刺2人致1死",
+        "onboard_time": 1688131777,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2369641,
+        "num": 853362,
+        "word": "搂着扫楼",
+        "onboard_time": 1688127094,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814021,
+        "num": 814021,
+        "word": "男子颈部插着切割机警车狂飙10分钟",
+        "onboard_time": 1688132679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771302,
+        "num": 771302,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653377,
+        "num": 653377,
+        "word": "原来猫咪允许你摸它的鼻子是这个意思",
+        "onboard_time": 1688129672,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1293253,
+        "num": 642074,
+        "word": "赵露思宋轶全都白干",
+        "onboard_time": 1688120912,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1101170,
+        "num": 637292,
+        "word": "赵丽颖回复谢娜",
+        "onboard_time": 1688132379,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 989834,
+        "num": 618908,
+        "word": "女子称怀孕6周被男友偷下打胎药",
+        "onboard_time": 1688132979,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034613,
+        "num": 607492,
+        "word": "女明星和她的保镖男友",
+        "onboard_time": 1688132140,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 607299,
+        "num": 607299,
+        "word": "歼20",
+        "onboard_time": 1688132318,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1008703,
+        "num": 579569,
+        "word": "范玮琪演唱会遭网友抵制",
+        "onboard_time": 1688124217,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 881532,
+        "num": 565720,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 535771,
+        "num": 535771,
+        "word": "Kindle真的要拿来盖泡面了",
+        "onboard_time": 1688130336,
+        "rank": 17,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 517247,
+        "num": 517247,
+        "word": "泰坦号失事前水下短信通信记录",
+        "onboard_time": 1688126914,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399630,
+        "num": 399630,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 846656,
+        "num": 398989,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744856,
+        "num": 398597,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561805,
+        "num": 397847,
+        "word": "消失的她",
+        "onboard_time": 1688132439,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354719,
+        "num": 397319,
+        "word": "五险一金为什么重要",
+        "onboard_time": 1688128298,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300704,
+        "num": 396534,
+        "word": "家里太乱被婆婆发朋友圈阴阳了",
+        "onboard_time": 1688120856,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 510774,
+        "num": 396055,
+        "word": "文咏珊怎么不是我老婆",
+        "onboard_time": 1688134478,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497543,
+        "num": 395420,
+        "word": "孟佳Min合体梦回missA",
+        "onboard_time": 1688129734,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298348,
+        "num": 394643,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 258333,
+        "num": 394371,
+        "word": "日食记 被低估的贵州美食",
+        "onboard_time": 1688124936,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234258,
+        "num": 393336,
+        "word": "朱婷",
+        "onboard_time": 1688135142,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600798,
+        "num": 392678,
+        "word": "跳楼遭围观起哄男子已身亡",
+        "onboard_time": 1688131236,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481650,
+        "num": 391803,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1688133100,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412079,
+        "num": 391589,
+        "word": "迪丽热巴公诉豆瓣开分6.6",
+        "onboard_time": 1688134783,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391114,
+        "num": 391114,
+        "word": "优酷回复赵露思",
+        "onboard_time": 1688127274,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364300,
+        "num": 364300,
+        "word": "老板冷笑说你把简历投到了我另一家公司",
+        "onboard_time": 1688134419,
+        "rank": 34,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 228819,
+        "num": 351500,
+        "word": "六月最后一天",
+        "onboard_time": 1688134060,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342963,
+        "num": 342963,
+        "word": "徐穗珍开通ins",
+        "onboard_time": 1688125416,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310003,
+        "num": 310003,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258626,
+        "num": 309773,
+        "word": "2023年4000元手机哪家强",
+        "onboard_time": 1688133579,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182721,
+        "num": 309718,
+        "word": "DYG零封MTG",
+        "onboard_time": 1688135382,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309708,
+        "num": 309708,
+        "word": "我只喜欢你的人设",
+        "onboard_time": 1688131297,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305737,
+        "num": 305737,
+        "word": "我的人间烟火",
+        "onboard_time": 1688132439,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259572,
+        "num": 259572,
+        "word": "谢娜让赵丽颖给自己的花千骨打个分",
+        "onboard_time": 1688129796,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243973,
+        "num": 259255,
+        "word": "小S风波后录制节目",
+        "onboard_time": 1688127336,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180295,
+        "num": 258403,
+        "word": "杨颖欧阳娜娜都穿不上的裤子",
+        "onboard_time": 1688118215,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 175593,
+        "num": 258105,
+        "word": "表面舔毛实际喝奶然后被揍",
+        "onboard_time": 1688130577,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154012,
+        "num": 257658,
+        "word": "爷爷用尽一生幽默别人",
+        "onboard_time": 1688135021,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 256973,
+        "word": "同事离职后的电脑屏保",
+        "onboard_time": 1688130997,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139783,
+        "num": 256103,
+        "word": "安徽大学温暖回应轮椅男孩报考",
+        "onboard_time": 1688134783,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138366,
+        "num": 255747,
+        "word": "卸妆油在云南高反了",
+        "onboard_time": 1688118335,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党党员总数9804.1万名#"
+    }
+  }
+}
