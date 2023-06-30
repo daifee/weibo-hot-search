@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688107105583,
+  "endTime": 1688109423057,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3749074,
-      "num": 456707,
+      "raw_hot": 4605028,
+      "num": 4605028,
       "word": "曝汪姓男艺人性侵19岁女子",
       "onboard_time": 1688105910,
       "rank": 30,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2073646,
-      "num": 444119,
+      "num": 536609,
       "word": "范玮琪维护陈建州言论翻车",
       "onboard_time": 1688103513,
       "rank": 10,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1915484,
+      "num": 1915484,
+      "word": "王宝强 谢谢我奶茶姐姐",
+      "onboard_time": 1688103873,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1851212,
       "num": 1851212,
       "word": "秋瓷炫淘汰全场大哭",
       "onboard_time": 1688102254,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1816600,
-      "num": 1816600,
-      "word": "王宝强 谢谢我奶茶姐姐",
-      "onboard_time": 1688103873,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1790762,
@@ -163,12 +163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1277048,
+      "num": 1277048,
+      "word": "胖东来8页报告调查顾客与员工争执",
+      "onboard_time": 1688107052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1267242,
       "num": 1267242,
       "word": "章子怡压轴",
       "onboard_time": 1688053306,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1248237,
+      "num": 1248237,
+      "word": "向佐回应穿搭像卖鱼的",
+      "onboard_time": 1688106934,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237786,
@@ -248,6 +264,14 @@
       "word": "关晓彤这腿",
       "onboard_time": 1688047425,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 927044,
+      "num": 927044,
+      "word": "文咏珊笑的好像妍珍找厕所",
+      "onboard_time": 1688108675,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -497,6 +521,14 @@
       "onboard_time": 1688042859,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 535424,
+      "num": 535424,
+      "word": "警方回应男子跳楼遭围观者起哄",
+      "onboard_time": 1688105373,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531616,
@@ -779,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348004,
-      "num": 348004,
-      "word": "警方回应男子跳楼遭围观者起哄",
-      "onboard_time": 1688105373,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347348,
       "num": 347348,
       "word": "赵今麦波点纱裙",
@@ -811,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334052,
+      "num": 273675,
+      "word": "Angelababy把试衣间走成了T台",
+      "onboard_time": 1688106812,
+      "rank": 34,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 331542,
       "num": 646622,
       "word": "重庆客车被落石砸中致6死9伤",
       "onboard_time": 1688047365,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330494,
+      "num": 272658,
+      "word": "孙悦眼睛哭肿了",
+      "onboard_time": 1688108315,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 325931,
@@ -931,12 +971,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280688,
+      "num": 270199,
+      "word": "妇救会回应陈建州范玮琪捐赔偿金",
+      "onboard_time": 1688106514,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278470,
       "num": 278470,
       "word": "蔡少芬让秋瓷炫点个痣回来",
       "onboard_time": 1688104470,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275336,
+      "num": 272100,
+      "word": "67岁老人去世煤堆里留给子女8万元",
+      "onboard_time": 1688107116,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272285,
@@ -963,14 +1019,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 260379,
-      "num": 260379,
-      "word": "向佐回应穿搭像卖鱼的",
-      "onboard_time": 1688106934,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259941,
       "num": 640059,
       "word": "LV帆布袋已被炒至700元",
@@ -993,14 +1041,6 @@
       "onboard_time": 1688050545,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248120,
-      "num": 231901,
-      "word": "妇救会回应陈建州范玮琪捐赔偿金",
-      "onboard_time": 1688106514,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 245664,
@@ -1032,6 +1072,14 @@
       "word": "宋轶新剧女扮男装造型",
       "onboard_time": 1688097995,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226188,
+      "num": 226188,
+      "word": "偷偷藏不住连休3天",
+      "onboard_time": 1688108553,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1075,14 +1123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207006,
-      "num": 207006,
-      "word": "Angelababy把试衣间走成了T台",
-      "onboard_time": 1688106812,
-      "rank": 34,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 204824,
       "num": 507605,
       "word": "樊振东3比0安宰贤",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1688086594,
       "rank": 35,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 196942,
+      "num": 196942,
+      "word": "民警刨7个垃圾桶找回老人纸巾钱包",
+      "onboard_time": 1688108792,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196231,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1688095714,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191226,
+      "num": 177283,
+      "word": "朱一龙倪妮VOGUEfilm短片",
+      "onboard_time": 1688107954,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189082,
@@ -1211,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160463,
+      "num": 160463,
+      "word": "律师谈男子跳楼遭围观者刺激",
+      "onboard_time": 1688108014,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156463,
       "num": 156463,
       "word": "这一看就是亲生的猫咪",
@@ -1236,7 +1300,7 @@
     },
     {
       "raw_hot": 150744,
-      "num": 1370778,
+      "num": 1457255,
       "word": "这批新规7月开始施行",
       "onboard_time": 1688101117,
       "rank": 2,
@@ -1256,14 +1320,6 @@
       "word": "黑猩猩重获自由后仰望天空表情惊讶",
       "onboard_time": 1688095653,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147478,
-      "num": 199326,
-      "word": "胖东来8页报告调查顾客与员工争执",
-      "onboard_time": 1688107052,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114455,
+      "num": 130920,
+      "word": "高铁回应网传旅客用热水泼小孩",
+      "onboard_time": 1688109156,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109377,
       "num": 112426,
       "word": "82版西游记主创想为群众演员补全署名",
@@ -1504,6 +1568,14 @@
       "word": "2023年中国网络文明大会新闻发布会",
       "onboard_time": 1688020476,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5014,
+      "num": 399676,
+      "word": "三轮侧翻公交司乘集体抬车救人",
+      "onboard_time": 1688109393,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],

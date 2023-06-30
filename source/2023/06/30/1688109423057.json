@@ -1,0 +1,410 @@
+{
+  "runTime": 1688109423057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4605028,
+        "num": 4605028,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1915484,
+        "num": 1915484,
+        "word": "王宝强 谢谢我奶茶姐姐",
+        "onboard_time": 1688103873,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127333,
+        "num": 1457255,
+        "word": "这批新规7月开始施行",
+        "onboard_time": 1688101117,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277048,
+        "num": 1277048,
+        "word": "胖东来8页报告调查顾客与员工争执",
+        "onboard_time": 1688107052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248237,
+        "num": 1248237,
+        "word": "向佐回应穿搭像卖鱼的",
+        "onboard_time": 1688106934,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927044,
+        "num": 927044,
+        "word": "文咏珊笑的好像妍珍找厕所",
+        "onboard_time": 1688108675,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 871916,
+        "num": 871916,
+        "word": "奔跑吧今天播不播",
+        "onboard_time": 1688100275,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868756,
+        "num": 868756,
+        "word": "秋瓷炫淘汰全场大哭",
+        "onboard_time": 1688102254,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 642158,
+        "num": 642158,
+        "word": "卖菜大爷挣21元被罚款11万元",
+        "onboard_time": 1688086413,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537175,
+        "num": 537175,
+        "word": "LWX",
+        "onboard_time": 1688089654,
+        "rank": 9,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1444972,
+        "num": 536609,
+        "word": "范玮琪维护陈建州言论翻车",
+        "onboard_time": 1688103513,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553642,
+        "num": 536029,
+        "word": "孙怡工作室回应恋情",
+        "onboard_time": 1688080404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535424,
+        "num": 535424,
+        "word": "警方回应男子跳楼遭围观者起哄",
+        "onboard_time": 1688105373,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415338,
+        "num": 415338,
+        "word": "怎么没人写硕博士的偶像剧",
+        "onboard_time": 1688088753,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5014,
+        "num": 399676,
+        "word": "三轮侧翻公交司乘集体抬车救人",
+        "onboard_time": 1688109393,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510776,
+        "num": 399669,
+        "word": "萧敬腾求婚成功全国都在随礼",
+        "onboard_time": 1688091750,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399589,
+        "num": 399589,
+        "word": "杨雪杨颖暮色心约演母女",
+        "onboard_time": 1688098535,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359851,
+        "num": 359851,
+        "word": "中国共产党党员总数为9804.1万名",
+        "onboard_time": 1688095475,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287106,
+        "num": 287106,
+        "word": "几天没出门杭州地铁变这样了",
+        "onboard_time": 1688103753,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275235,
+        "num": 275235,
+        "word": "一等功喜报送到家",
+        "onboard_time": 1688098475,
+        "rank": 19,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 640510,
+        "num": 274603,
+        "word": "山姆泡面桶炒至500元仍遭疯抢",
+        "onboard_time": 1688103931,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594156,
+        "num": 274132,
+        "word": "指甲上很多洞洞是什么病啊",
+        "onboard_time": 1688098475,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334052,
+        "num": 273675,
+        "word": "Angelababy把试衣间走成了T台",
+        "onboard_time": 1688106812,
+        "rank": 22,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 330494,
+        "num": 272658,
+        "word": "孙悦眼睛哭肿了",
+        "onboard_time": 1688108315,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275336,
+        "num": 272100,
+        "word": "67岁老人去世煤堆里留给子女8万元",
+        "onboard_time": 1688107116,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271653,
+        "num": 271653,
+        "word": "公路上和大熊猫偶遇还对视谁懂啊",
+        "onboard_time": 1688093373,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314450,
+        "num": 270923,
+        "word": "Ella终于第一了",
+        "onboard_time": 1688102974,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 280688,
+        "num": 270199,
+        "word": "妇救会回应陈建州范玮琪捐赔偿金",
+        "onboard_time": 1688106514,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280202,
+        "num": 269753,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272978,
+        "num": 268450,
+        "word": "孟美岐说要放下以前的包袱",
+        "onboard_time": 1688097094,
+        "rank": 29,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 268028,
+        "num": 268028,
+        "word": "柳智敏最新ins",
+        "onboard_time": 1688098359,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256641,
+        "num": 256641,
+        "word": "男子辞30万年薪照顾瘫痪父亲3年",
+        "onboard_time": 1688093733,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252285,
+        "num": 252285,
+        "word": "丫丫回京满月记",
+        "onboard_time": 1688105672,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226188,
+        "num": 226188,
+        "word": "偷偷藏不住连休3天",
+        "onboard_time": 1688108553,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220032,
+        "num": 220032,
+        "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+        "onboard_time": 1688089293,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202040,
+        "num": 202040,
+        "word": "赵今麦波点纱裙",
+        "onboard_time": 1688100036,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 200136,
+        "word": "如何评价肖战的演唱水准",
+        "onboard_time": 1688101237,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196942,
+        "num": 196942,
+        "word": "民警刨7个垃圾桶找回老人纸巾钱包",
+        "onboard_time": 1688108792,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192818,
+        "num": 192818,
+        "word": "肖战下个镜头切了李沁",
+        "onboard_time": 1688092833,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180121,
+        "num": 180121,
+        "word": "月薪5000真的有点低",
+        "onboard_time": 1688050368,
+        "rank": 39,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 191226,
+        "num": 177283,
+        "word": "朱一龙倪妮VOGUEfilm短片",
+        "onboard_time": 1688107954,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169167,
+        "num": 169167,
+        "word": "仁济医院医生嫖娼为实习生造谣",
+        "onboard_time": 1688085875,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "蔡少芬让秋瓷炫点个痣回来",
+        "onboard_time": 1688104470,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160463,
+        "num": 160463,
+        "word": "律师谈男子跳楼遭围观者刺激",
+        "onboard_time": 1688108014,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145235,
+        "num": 145235,
+        "word": "Angelababy重现甩头发名场面",
+        "onboard_time": 1688089834,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142111,
+        "num": 142111,
+        "word": "透明马桶",
+        "onboard_time": 1688094753,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140620,
+        "num": 140620,
+        "word": "宁艺卓说国内缺少音乐舞台",
+        "onboard_time": 1688097695,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131636,
+        "num": 131636,
+        "word": "低成本恋爱",
+        "onboard_time": 1688090370,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 130926,
+        "num": 130926,
+        "word": "4GB未拆封初代iPhone拍卖",
+        "onboard_time": 1688092772,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 114455,
+        "num": 130920,
+        "word": "高铁回应网传旅客用热水泼小孩",
+        "onboard_time": 1688109156,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席上海合作组织成员国元首理事会第二十三次会议#"
+    }
+  }
+}

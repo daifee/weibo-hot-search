@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688107105583,
+  "endTime": 1688109423057,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 4605028,
+      "num": 4605028,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 4485968,
       "num": 821942,
       "word": "假唱",
@@ -129,14 +137,6 @@
       "onboard_time": 1688015558,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 3749074,
-      "num": 456707,
-      "word": "曝汪姓男艺人性侵19岁女子",
-      "onboard_time": 1688105910,
-      "rank": 30,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 3743928,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 2073646,
-      "num": 444119,
+      "num": 536609,
       "word": "范玮琪维护陈建州言论翻车",
       "onboard_time": 1688103513,
       "rank": 10,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1915484,
+      "num": 1915484,
+      "word": "王宝强 谢谢我奶茶姐姐",
+      "onboard_time": 1688103873,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1893322,
       "num": 1893322,
       "word": "爷爷临终前开了个玩笑",
@@ -865,14 +873,6 @@
       "onboard_time": 1687749452,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1816600,
-      "num": 1816600,
-      "word": "王宝强 谢谢我奶茶姐姐",
-      "onboard_time": 1688103873,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1810302,
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277048,
+      "num": 1277048,
+      "word": "胖东来8页报告调查顾客与员工争执",
+      "onboard_time": 1688107052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1273887,
       "num": 1273887,
       "word": "丫丫",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1687962944,
       "rank": 21,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 1248237,
+      "num": 1248237,
+      "word": "向佐回应穿搭像卖鱼的",
+      "onboard_time": 1688106934,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1241495,
@@ -2137,6 +2153,14 @@
       "onboard_time": 1687995449,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927044,
+      "num": 927044,
+      "word": "文咏珊笑的好像妍珍找厕所",
+      "onboard_time": 1688108675,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 924923,
@@ -3961,6 +3985,14 @@
       "onboard_time": 1687920453,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535424,
+      "num": 535424,
+      "word": "警方回应男子跳楼遭围观者起哄",
+      "onboard_time": 1688105373,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534782,
@@ -5795,14 +5827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 348004,
-      "num": 348004,
-      "word": "警方回应男子跳楼遭围观者起哄",
-      "onboard_time": 1688105373,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347348,
       "num": 347348,
       "word": "赵今麦波点纱裙",
@@ -6035,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334052,
+      "num": 273675,
+      "word": "Angelababy把试衣间走成了T台",
+      "onboard_time": 1688106812,
+      "rank": 34,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 334029,
       "num": 280854,
       "word": "消失的她特别出演吴邪",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1687953812,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330494,
+      "num": 272658,
+      "word": "孙悦眼睛哭肿了",
+      "onboard_time": 1688108315,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 330447,
@@ -7155,6 +7195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280688,
+      "num": 270199,
+      "word": "妇救会回应陈建州范玮琪捐赔偿金",
+      "onboard_time": 1688106514,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279569,
       "num": 299959,
       "word": "旅游再也不想给家人买东西了",
@@ -7225,6 +7273,14 @@
       "onboard_time": 1687706197,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275336,
+      "num": 272100,
+      "word": "67岁老人去世煤堆里留给子女8万元",
+      "onboard_time": 1688107116,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274535,
@@ -7627,14 +7683,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 260379,
-      "num": 260379,
-      "word": "向佐回应穿搭像卖鱼的",
-      "onboard_time": 1688106934,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259908,
       "num": 259908,
       "word": "皇马官宣续约莫德里奇",
@@ -7905,14 +7953,6 @@
       "onboard_time": 1687965877,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248120,
-      "num": 231901,
-      "word": "妇救会回应陈建州范玮琪捐赔偿金",
-      "onboard_time": 1688106514,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 247157,
@@ -8417,6 +8457,14 @@
       "onboard_time": 1687822590,
       "rank": 36,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 226188,
+      "num": 226188,
+      "word": "偷偷藏不住连休3天",
+      "onboard_time": 1688108553,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 226023,
@@ -9003,14 +9051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207006,
-      "num": 207006,
-      "word": "Angelababy把试衣间走成了T台",
-      "onboard_time": 1688106812,
-      "rank": 34,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 206530,
       "num": 206530,
       "word": "扬州警方通报",
@@ -9283,6 +9323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196942,
+      "num": 196942,
+      "word": "民警刨7个垃圾桶找回老人纸巾钱包",
+      "onboard_time": 1688108792,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196859,
       "num": 196859,
       "word": "Hero对战eStar",
@@ -9505,6 +9553,14 @@
       "onboard_time": 1687757829,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 191226,
+      "num": 177283,
+      "word": "朱一龙倪妮VOGUEfilm短片",
+      "onboard_time": 1688107954,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191139,
@@ -10307,6 +10363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160463,
+      "num": 160463,
+      "word": "律师谈男子跳楼遭围观者刺激",
+      "onboard_time": 1688108014,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160230,
       "num": 370430,
       "word": "女孩淡定查分坚定报考国科大",
@@ -10468,7 +10532,7 @@
     },
     {
       "raw_hot": 150744,
-      "num": 1370778,
+      "num": 1457255,
       "word": "这批新规7月开始施行",
       "onboard_time": 1688101117,
       "rank": 2,
@@ -10521,14 +10585,6 @@
       "onboard_time": 1687961624,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 147478,
-      "num": 199326,
-      "word": "胖东来8页报告调查顾客与员工争执",
-      "onboard_time": 1688107052,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147113,
@@ -11073,6 +11129,14 @@
       "onboard_time": 1687761956,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 114455,
+      "num": 130920,
+      "word": "高铁回应网传旅客用热水泼小孩",
+      "onboard_time": 1688109156,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114418,
@@ -11776,6 +11840,14 @@
       "word": "世界互联网大会数字文明尼山对话",
       "onboard_time": 1687595673,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5014,
+      "num": 399676,
+      "word": "三轮侧翻公交司乘集体抬车救人",
+      "onboard_time": 1688109393,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
