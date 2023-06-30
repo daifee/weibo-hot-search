@@ -1,0 +1,410 @@
+{
+  "runTime": 1688113377213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6495470,
+        "num": 6495470,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2033014,
+        "num": 2033014,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65825,
+        "num": 1391976,
+        "word": "上半年最后一天",
+        "onboard_time": 1688082329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010889,
+        "num": 1010889,
+        "word": "大小S姑姑力挺陈建州范玮琪",
+        "onboard_time": 1688110175,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852461,
+        "num": 852461,
+        "word": "文咏珊笑的好像妍珍找厕所",
+        "onboard_time": 1688108675,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 845726,
+        "num": 845726,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 822489,
+        "num": 822489,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 706085,
+        "num": 706085,
+        "word": "奔跑吧今天播不播",
+        "onboard_time": 1688100275,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648076,
+        "num": 648076,
+        "word": "王宝强 谢谢我奶茶姐姐",
+        "onboard_time": 1688103873,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419310,
+        "num": 419310,
+        "word": "胖东来8页报告调查顾客与员工争执",
+        "onboard_time": 1688107052,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691195,
+        "num": 363900,
+        "word": "汪建民友人发声",
+        "onboard_time": 1688110116,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645809,
+        "num": 358372,
+        "word": "范玮琪维护陈建州言论翻车",
+        "onboard_time": 1688103513,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576683,
+        "num": 348595,
+        "word": "向佐回应穿搭像卖鱼的",
+        "onboard_time": 1688106934,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301805,
+        "num": 301805,
+        "word": "孕妻身体不适丈夫产房外哭泣守护",
+        "onboard_time": 1688111797,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29642,
+        "num": 300485,
+        "word": "香港旅行哪里值得去",
+        "onboard_time": 1688112035,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 571567,
+        "num": 300368,
+        "word": "汪建民",
+        "onboard_time": 1688110054,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299809,
+        "num": 299809,
+        "word": "陈欣",
+        "onboard_time": 1688110959,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178236,
+        "num": 296532,
+        "word": "教授称中国并不存在房贷压力大的问题",
+        "onboard_time": 1688110054,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541514,
+        "num": 285438,
+        "word": "肖战上班vs下班",
+        "onboard_time": 1688109455,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468196,
+        "num": 279048,
+        "word": "龚俊 演唱会要是有上午场就好了",
+        "onboard_time": 1688111856,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445742,
+        "num": 271864,
+        "word": "Angelababy谈自己的初恋",
+        "onboard_time": 1688110416,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420072,
+        "num": 269521,
+        "word": "山姆泡面桶炒至500元仍遭疯抢",
+        "onboard_time": 1688103931,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401821,
+        "num": 259739,
+        "word": "指甲上很多洞洞是什么病啊",
+        "onboard_time": 1688098475,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255632,
+        "num": 255632,
+        "word": "LWX",
+        "onboard_time": 1688089654,
+        "rank": 23,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 374675,
+        "num": 254184,
+        "word": "人民币汇率跌破7.25",
+        "onboard_time": 1688110897,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 339988,
+        "num": 250875,
+        "word": "刘雅瑟没选到歌五公要穿旗袍",
+        "onboard_time": 1688111797,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313488,
+        "num": 245802,
+        "word": "偷偷藏不住连休3天",
+        "onboard_time": 1688108553,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310672,
+        "num": 243061,
+        "word": "红楼梦",
+        "onboard_time": 1688110054,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241971,
+        "num": 241971,
+        "word": "7岁男孩独自看店卖肉赚了129元",
+        "onboard_time": 1688111676,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219468,
+        "num": 219468,
+        "word": "工厂老板允许带孩子上班",
+        "onboard_time": 1688112454,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165563,
+        "num": 219413,
+        "word": "城市里的多巴胺风景",
+        "onboard_time": 1688110718,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350072,
+        "num": 219040,
+        "word": "汪建民 我愿跟女方对质",
+        "onboard_time": 1688113297,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289706,
+        "num": 218854,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287886,
+        "num": 218740,
+        "word": "秋瓷炫淘汰全场大哭",
+        "onboard_time": 1688102254,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223595,
+        "num": 218465,
+        "word": "卖菜大爷挣21元被罚款11万元",
+        "onboard_time": 1688086413,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261711,
+        "num": 218351,
+        "word": "孙怡工作室回应恋情",
+        "onboard_time": 1688080404,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258950,
+        "num": 217949,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256056,
+        "num": 217908,
+        "word": "桑稚段嘉许忘记桑延的存在",
+        "onboard_time": 1688112816,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217730,
+        "num": 217730,
+        "word": "67岁老人去世煤堆里留给子女8万元",
+        "onboard_time": 1688107116,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35172,
+        "num": 211446,
+        "word": "利路修直播演我上班",
+        "onboard_time": 1688112035,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226036,
+        "num": 211114,
+        "word": "孙悦眼睛哭肿了",
+        "onboard_time": 1688108315,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210525,
+        "num": 210525,
+        "word": "孟美岐说要放下以前的包袱",
+        "onboard_time": 1688097094,
+        "rank": 41,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 207833,
+        "num": 207833,
+        "word": "萧敬腾求婚成功全国都在随礼",
+        "onboard_time": 1688091750,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199416,
+        "num": 199416,
+        "word": "高铁回应网传旅客用热水泼小孩",
+        "onboard_time": 1688109156,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197289,
+        "num": 197289,
+        "word": "警方回应男子跳楼遭围观者起哄",
+        "onboard_time": 1688105373,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180335,
+        "num": 180335,
+        "word": "胖东来处理员工与顾客争执你怎么看",
+        "onboard_time": 1688112696,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176799,
+        "num": 176799,
+        "word": "残疾父亲捧女儿本科毕业证乐开花",
+        "onboard_time": 1688111016,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172003,
+        "num": 172003,
+        "word": "怎么没人写硕博士的偶像剧",
+        "onboard_time": 1688088753,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166947,
+        "num": 166947,
+        "word": "外国人在中国的文化冲击",
+        "onboard_time": 1688112396,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161212,
+        "num": 161212,
+        "word": "NIP对战WBG",
+        "onboard_time": 1688112633,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝建党102周年#"
+    }
+  }
+}

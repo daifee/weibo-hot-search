@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688110437898,
+  "endTime": 1688113377213,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -673,6 +673,14 @@
       "onboard_time": 1688044903,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2033014,
+      "num": 2033014,
+      "word": "胖东来",
+      "onboard_time": 1688109633,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2029488,
@@ -1563,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1178236,
+      "num": 296532,
+      "word": "教授称中国并不存在房贷压力大的问题",
+      "onboard_time": 1688110054,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1174557,
       "num": 1174557,
       "word": "山河大学",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1687865620,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1010889,
+      "num": 1010889,
+      "word": "大小S姑姑力挺陈建州范玮琪",
+      "onboard_time": 1688110175,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1009469,
@@ -2443,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 845726,
+      "num": 845726,
+      "word": "怀孕后子宫体积能增大多少",
+      "onboard_time": 1688109757,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 840146,
       "num": 840146,
       "word": "韩国医生都不喝的韩式烧酒",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1687739856,
       "rank": 4,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 822489,
+      "num": 822489,
+      "word": "爸爸用15元买了孩子一下午的快乐",
+      "onboard_time": 1688111197,
+      "rank": 6,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 817328,
@@ -2961,6 +3001,14 @@
       "onboard_time": 1688028040,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 691195,
+      "num": 363900,
+      "word": "汪建民友人发声",
+      "onboard_time": 1688110116,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 690674,
@@ -3643,6 +3691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 571567,
+      "num": 300368,
+      "word": "汪建民",
+      "onboard_time": 1688110054,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571527,
       "num": 571527,
       "word": "曾比特炎明熹",
@@ -3939,6 +3995,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 541514,
+      "num": 375940,
+      "word": "肖战上班vs下班",
+      "onboard_time": 1688109455,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539962,
       "num": 539962,
       "word": "巨蟹座一定要远离影响自己情绪的人",
@@ -4177,14 +4241,6 @@
       "onboard_time": 1687841269,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 510893,
-      "num": 510893,
-      "word": "胖东来",
-      "onboard_time": 1688109633,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510774,
@@ -4467,14 +4523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 475505,
-      "num": 268940,
-      "word": "教授称中国并不存在房贷压力大的问题",
-      "onboard_time": 1688110054,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473691,
       "num": 438304,
       "word": "同事离职把营业执照带走了",
@@ -4537,6 +4585,14 @@
       "onboard_time": 1688083531,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 468196,
+      "num": 279048,
+      "word": "龚俊 演唱会要是有上午场就好了",
+      "onboard_time": 1688111856,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 467834,
@@ -4761,6 +4817,14 @@
       "onboard_time": 1687926521,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 445742,
+      "num": 271864,
+      "word": "Angelababy谈自己的初恋",
+      "onboard_time": 1688110416,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 445729,
@@ -5587,20 +5651,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 375940,
-      "num": 375940,
-      "word": "肖战上班vs下班",
-      "onboard_time": 1688109455,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 374684,
       "num": 374684,
       "word": "萧敬腾伴郎团会有谁",
       "onboard_time": 1687875406,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374675,
+      "num": 254184,
+      "word": "人民币汇率跌破7.25",
+      "onboard_time": 1688110897,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 374074,
@@ -5819,6 +5883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350072,
+      "num": 219040,
+      "word": "汪建民 我愿跟女方对质",
+      "onboard_time": 1688113297,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349775,
       "num": 422123,
       "word": "她是懂上班防窥屏的",
@@ -5907,14 +5979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344891,
-      "num": 268302,
-      "word": "汪建民",
-      "onboard_time": 1688110054,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344063,
       "num": 390833,
       "word": "张雪峰专业推荐 实用主义取向",
@@ -5993,6 +6057,14 @@
       "onboard_time": 1687923755,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339988,
+      "num": 250875,
+      "word": "刘雅瑟没选到歌五公要穿旗袍",
+      "onboard_time": 1688111797,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 339675,
@@ -6113,14 +6185,6 @@
       "onboard_time": 1687769205,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 333521,
-      "num": 267753,
-      "word": "大小S姑姑力挺陈建州范玮琪",
-      "onboard_time": 1688110175,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 333008,
@@ -6635,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310672,
+      "num": 243061,
+      "word": "红楼梦",
+      "onboard_time": 1688110054,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310313,
       "num": 310313,
       "word": "有院子的家 丧夫套餐",
@@ -6827,6 +6899,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 301805,
+      "num": 301805,
+      "word": "孕妻身体不适丈夫产房外哭泣守护",
+      "onboard_time": 1688111797,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301418,
       "num": 301418,
       "word": "上班的苦和上学的苦是不一样的",
@@ -6857,6 +6937,14 @@
       "onboard_time": 1688019936,
       "rank": 30,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 299809,
+      "num": 299809,
+      "word": "陈欣",
+      "onboard_time": 1688110959,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299772,
@@ -7081,6 +7169,14 @@
       "onboard_time": 1688093793,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289706,
+      "num": 218854,
+      "word": "白敬亭宋轶同框",
+      "onboard_time": 1688113056,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 289266,
@@ -7571,14 +7667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266526,
-      "num": 266526,
-      "word": "怀孕后子宫体积能增大多少",
-      "onboard_time": 1688109757,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 266386,
       "num": 237488,
       "word": "歌手演出时发病粉丝帮忙大合唱",
@@ -7817,6 +7905,14 @@
       "onboard_time": 1687758902,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256056,
+      "num": 217908,
+      "word": "桑稚段嘉许忘记桑延的存在",
+      "onboard_time": 1688112816,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 256022,
@@ -8145,6 +8241,14 @@
       "onboard_time": 1688045021,
       "rank": 36,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 241971,
+      "num": 241971,
+      "word": "7岁男孩独自看店卖肉赚了129元",
+      "onboard_time": 1688111676,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241954,
@@ -8691,6 +8795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219468,
+      "num": 219468,
+      "word": "工厂老板允许带孩子上班",
+      "onboard_time": 1688112454,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219415,
       "num": 536222,
       "word": "周鸿祎谈大学专业选择",
@@ -9227,14 +9339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202056,
-      "num": 180443,
-      "word": "汪建民友人发声",
-      "onboard_time": 1688110116,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201912,
       "num": 201912,
       "word": "石头赶路",
@@ -9323,6 +9427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199416,
+      "num": 199416,
+      "word": "高铁回应网传旅客用热水泼小孩",
+      "onboard_time": 1688109156,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199382,
       "num": 199382,
       "word": "27岁小伙对抗病魔13年去世后捐献遗体",
@@ -9345,14 +9457,6 @@
       "onboard_time": 1687833338,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198490,
-      "num": 176891,
-      "word": "红楼梦",
-      "onboard_time": 1688110054,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 198384,
@@ -9971,14 +10075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182916,
-      "num": 182916,
-      "word": "高铁回应网传旅客用热水泼小孩",
-      "onboard_time": 1688109156,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182236,
       "num": 182236,
       "word": "张雪峰式报志愿的缺陷在哪",
@@ -10048,6 +10144,14 @@
       "word": "街头看见男打女三个杭州小伙出手了",
       "onboard_time": 1687789007,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180335,
+      "num": 180335,
+      "word": "胖东来处理员工与顾客争执你怎么看",
+      "onboard_time": 1688112696,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10137,6 +10241,14 @@
       "onboard_time": 1688034876,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176799,
+      "num": 176799,
+      "word": "残疾父亲捧女儿本科毕业证乐开花",
+      "onboard_time": 1688111016,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176772,
@@ -10331,12 +10443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166947,
+      "num": 166947,
+      "word": "外国人在中国的文化冲击",
+      "onboard_time": 1688112396,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166337,
       "num": 253013,
       "word": "蛇蛇亮G2的标",
       "onboard_time": 1687961683,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165563,
+      "num": 219413,
+      "word": "城市里的多巴胺风景",
+      "onboard_time": 1688110718,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165463,
@@ -10403,14 +10531,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 162335,
-      "num": 162335,
-      "word": "Angelababy谈自己的初恋",
-      "onboard_time": 1688110416,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162259,
       "num": 162259,
       "word": "陪爷爷奶奶下地干活的小狗",
@@ -10441,6 +10561,14 @@
       "onboard_time": 1687961021,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161212,
+      "num": 161212,
+      "word": "NIP对战WBG",
+      "onboard_time": 1688112633,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 160463,
@@ -11587,6 +11715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65825,
+      "num": 1391976,
+      "word": "上半年最后一天",
+      "onboard_time": 1688082329,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62292,
       "num": 580964,
       "word": "4种野生保护动物罕见同框",
@@ -11795,6 +11931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35172,
+      "num": 211446,
+      "word": "利路修直播演我上班",
+      "onboard_time": 1688112035,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34452,
       "num": 1883136,
       "word": "成都大运会边看边玩攻略",
@@ -11825,6 +11969,14 @@
       "onboard_time": 1687719074,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29642,
+      "num": 300485,
+      "word": "香港旅行哪里值得去",
+      "onboard_time": 1688112035,
+      "rank": 14,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 29240,

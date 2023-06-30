@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688110437898,
+  "endTime": 1688113377213,
   "band_list": [
     {
       "raw_hot": 7225276,
@@ -56,6 +56,14 @@
       "word": "行人刺激跳楼者不跳不是人",
       "onboard_time": 1688095475,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2033014,
+      "num": 2033014,
+      "word": "胖东来",
+      "onboard_time": 1688109633,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1178236,
+      "num": 296532,
+      "word": "教授称中国并不存在房贷压力大的问题",
+      "onboard_time": 1688110054,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1158793,
       "num": 1158793,
       "word": "周深修音响第一人",
@@ -233,6 +249,14 @@
       "onboard_time": 1688053248,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1010889,
+      "num": 1010889,
+      "word": "大小S姑姑力挺陈建州范玮琪",
+      "onboard_time": 1688110175,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 996237,
@@ -313,6 +337,22 @@
       "onboard_time": 1688055993,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 845726,
+      "num": 845726,
+      "word": "怀孕后子宫体积能增大多少",
+      "onboard_time": 1688109757,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 822489,
+      "num": 822489,
+      "word": "爸爸用15元买了孩子一下午的快乐",
+      "onboard_time": 1688111197,
+      "rank": 6,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 792089,
@@ -403,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 691195,
+      "num": 363900,
+      "word": "汪建民友人发声",
+      "onboard_time": 1688110116,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690674,
       "num": 625541,
       "word": "香港艺人vs内地艺人",
@@ -491,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571567,
+      "num": 300368,
+      "word": "汪建民",
+      "onboard_time": 1688110054,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570967,
       "num": 570967,
       "word": "小伙在没信号的原始森林隐居4年",
@@ -512,6 +568,14 @@
       "word": "任嘉伦Angelababy对手戏",
       "onboard_time": 1688076136,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 541514,
+      "num": 375940,
+      "word": "肖战上班vs下班",
+      "onboard_time": 1688109455,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -595,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510893,
-      "num": 510893,
-      "word": "胖东来",
-      "onboard_time": 1688109633,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509477,
       "num": 403524,
       "word": "曾黎声援辛芷蕾",
@@ -635,20 +691,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475505,
-      "num": 268940,
-      "word": "教授称中国并不存在房贷压力大的问题",
-      "onboard_time": 1688110054,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468714,
       "num": 468714,
       "word": "人性最大的恶",
       "onboard_time": 1688083531,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 468196,
+      "num": 279048,
+      "word": "龚俊 演唱会要是有上午场就好了",
+      "onboard_time": 1688111856,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 454408,
@@ -673,6 +729,14 @@
       "onboard_time": 1688091035,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 445742,
+      "num": 271864,
+      "word": "Angelababy谈自己的初恋",
+      "onboard_time": 1688110416,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 432902,
@@ -771,12 +835,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 375940,
-      "num": 375940,
-      "word": "肖战上班vs下班",
-      "onboard_time": 1688109455,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 374675,
+      "num": 254184,
+      "word": "人民币汇率跌破7.25",
+      "onboard_time": 1688110897,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 374074,
@@ -827,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350072,
+      "num": 219040,
+      "word": "汪建民 我愿跟女方对质",
+      "onboard_time": 1688113297,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348230,
       "num": 348230,
       "word": "温兆伦刘惜君合唱一生何求",
@@ -843,19 +915,19 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 344891,
-      "num": 268302,
-      "word": "汪建民",
-      "onboard_time": 1688110054,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342231,
       "num": 342231,
       "word": "舞台2023",
       "onboard_time": 1688092113,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339988,
+      "num": 250875,
+      "word": "刘雅瑟没选到歌五公要穿旗袍",
+      "onboard_time": 1688111797,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -873,14 +945,6 @@
       "onboard_time": 1688106812,
       "rank": 34,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 333521,
-      "num": 267753,
-      "word": "大小S姑姑力挺陈建州范玮琪",
-      "onboard_time": 1688110175,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 331542,
@@ -963,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310672,
+      "num": 243061,
+      "word": "红楼梦",
+      "onboard_time": 1688110054,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305510,
       "num": 524114,
       "word": "大熊猫雅一把秋千坐断了",
@@ -977,6 +1049,22 @@
       "onboard_time": 1688087255,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301805,
+      "num": 301805,
+      "word": "孕妻身体不适丈夫产房外哭泣守护",
+      "onboard_time": 1688111797,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299809,
+      "num": 299809,
+      "word": "陈欣",
+      "onboard_time": 1688110959,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293971,
@@ -1001,6 +1089,14 @@
       "onboard_time": 1688093793,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289706,
+      "num": 218854,
+      "word": "白敬亭宋轶同框",
+      "onboard_time": 1688113056,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 284374,
@@ -1059,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266526,
-      "num": 266526,
-      "word": "怀孕后子宫体积能增大多少",
-      "onboard_time": 1688109757,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 263372,
       "num": 263372,
       "word": "爸妈 该处还得处",
@@ -1099,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256056,
+      "num": 217908,
+      "word": "桑稚段嘉许忘记桑延的存在",
+      "onboard_time": 1688112816,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245664,
       "num": 316076,
       "word": "MLB美职棒大联盟",
@@ -1113,6 +1209,14 @@
       "onboard_time": 1688037573,
       "rank": 24,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 241971,
+      "num": 241971,
+      "word": "7岁男孩独自看店卖肉赚了129元",
+      "onboard_time": 1688111676,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238750,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1688089052,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219468,
+      "num": 219468,
+      "word": "工厂老板允许带孩子上班",
+      "onboard_time": 1688112454,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219295,
@@ -1187,20 +1299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202056,
-      "num": 180443,
-      "word": "汪建民友人发声",
-      "onboard_time": 1688110116,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198490,
-      "num": 176891,
-      "word": "红楼梦",
-      "onboard_time": 1688110054,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 199416,
+      "num": 199416,
+      "word": "高铁回应网传旅客用热水泼小孩",
+      "onboard_time": 1688109156,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197155,
@@ -1315,12 +1419,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182916,
-      "num": 182916,
-      "word": "高铁回应网传旅客用热水泼小孩",
-      "onboard_time": 1688109156,
-      "rank": 49,
+      "raw_hot": 180335,
+      "num": 180335,
+      "word": "胖东来处理员工与顾客争执你怎么看",
+      "onboard_time": 1688112696,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176799,
+      "num": 176799,
+      "word": "残疾父亲捧女儿本科毕业证乐开花",
+      "onboard_time": 1688111016,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 169668,
@@ -1339,12 +1451,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162335,
-      "num": 162335,
-      "word": "Angelababy谈自己的初恋",
-      "onboard_time": 1688110416,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 166947,
+      "num": 166947,
+      "word": "外国人在中国的文化冲击",
+      "onboard_time": 1688112396,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165563,
+      "num": 219413,
+      "word": "城市里的多巴胺风景",
+      "onboard_time": 1688110718,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161212,
+      "num": 161212,
+      "word": "NIP对战WBG",
+      "onboard_time": 1688112633,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 160463,
@@ -1611,6 +1739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 65825,
+      "num": 1391976,
+      "word": "上半年最后一天",
+      "onboard_time": 1688082329,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44209,
       "num": 44209,
       "word": "英雄联盟",
@@ -1619,12 +1755,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35172,
+      "num": 211446,
+      "word": "利路修直播演我上班",
+      "onboard_time": 1688112035,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30390,
       "num": 30390,
       "word": "2023湾区升明月大湾区电影音乐晚会",
       "onboard_time": 1688040095,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29642,
+      "num": 300485,
+      "word": "香港旅行哪里值得去",
+      "onboard_time": 1688112035,
+      "rank": 14,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 29120,
