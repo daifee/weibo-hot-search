@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688093615901,
+  "endTime": 1688094182404,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 574356,
+      "num": 647240,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2626385,
-      "num": 1480139,
+      "num": 1586228,
       "word": "卖菜大爷挣21元被罚款11万元",
       "onboard_time": 1688086413,
       "rank": 3,
@@ -59,16 +59,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1625643,
-      "num": 1625643,
+      "raw_hot": 1714209,
+      "num": 1714209,
       "word": "怎么没人写硕博士的偶像剧",
       "onboard_time": 1688088753,
       "rank": 23,
       "category": "幽默"
     },
     {
+      "raw_hot": 1613331,
+      "num": 1613331,
+      "word": "萧敬腾求婚成功全国都在随礼",
+      "onboard_time": 1688091750,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1577275,
-      "num": 1377285,
+      "num": 1535277,
       "word": "LWX",
       "onboard_time": 1688089654,
       "rank": 5,
@@ -81,14 +89,6 @@
       "onboard_time": 1688085875,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1420222,
-      "num": 1420222,
-      "word": "萧敬腾求婚成功全国都在随礼",
-      "onboard_time": 1688091750,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1308192,
@@ -152,6 +152,14 @@
       "word": "关晓彤这腿",
       "onboard_time": 1688047425,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 925033,
+      "num": 925033,
+      "word": "肖战下个镜头切了李沁",
+      "onboard_time": 1688092833,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709144,
+      "num": 709144,
+      "word": "低成本恋爱",
+      "onboard_time": 1688090370,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 698281,
       "num": 587894,
       "word": "周杰伦演唱会",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 690674,
-      "num": 573786,
+      "num": 625541,
       "word": "香港艺人vs内地艺人",
       "onboard_time": 1688087912,
       "rank": 24,
@@ -249,14 +265,6 @@
       "onboard_time": 1688084552,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 648856,
-      "num": 648856,
-      "word": "低成本恋爱",
-      "onboard_time": 1688090370,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 647462,
@@ -307,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582225,
-      "num": 582225,
-      "word": "肖战下个镜头切了李沁",
-      "onboard_time": 1688092833,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 570967,
       "num": 570967,
       "word": "小伙在没信号的原始森林隐居4年",
@@ -345,6 +345,14 @@
       "onboard_time": 1688088693,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526437,
+      "num": 526437,
+      "word": "宁静吐槽节目组还真是缺心眼",
+      "onboard_time": 1688091331,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 524020,
@@ -403,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 496900,
-      "num": 496900,
-      "word": "宁静吐槽节目组还真是缺心眼",
-      "onboard_time": 1688091331,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479731,
       "num": 479731,
       "word": "郁可唯大湾区再唱水中花",
@@ -441,6 +441,14 @@
       "onboard_time": 1688091035,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 423313,
+      "num": 423313,
+      "word": "携程宣布全员每孩补贴5万元",
+      "onboard_time": 1688093253,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 413028,
@@ -555,6 +563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315724,
+      "num": 315724,
+      "word": "选专业 更适合中国宝宝体质的先婚后爱",
+      "onboard_time": 1688092893,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 315340,
+      "num": 315340,
+      "word": "女生以高压线为弦在列车上弹吉他",
+      "onboard_time": 1688092712,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315153,
       "num": 645878,
       "word": "wtt",
@@ -569,6 +593,14 @@
       "onboard_time": 1688091092,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308870,
+      "num": 308870,
+      "word": "4GB未拆封初代iPhone拍卖",
+      "onboard_time": 1688092772,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 305510,
@@ -593,14 +625,6 @@
       "onboard_time": 1688032059,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 274168,
-      "num": 274168,
-      "word": "女生以高压线为弦在列车上弹吉他",
-      "onboard_time": 1688092712,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263372,
@@ -632,6 +656,14 @@
       "word": "官方回应山西代县瞒报17名矿工死亡",
       "onboard_time": 1688050545,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255154,
+      "num": 255154,
+      "word": "公路上和大熊猫偶遇还对视谁懂啊",
+      "onboard_time": 1688093373,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -675,28 +707,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 214239,
-      "num": 214239,
-      "word": "4GB未拆封初代iPhone拍卖",
-      "onboard_time": 1688092772,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 211030,
-      "num": 211030,
-      "word": "选专业 更适合中国宝宝体质的先婚后爱",
-      "onboard_time": 1688092893,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 206522,
-      "num": 206522,
-      "word": "公路上和大熊猫偶遇还对视谁懂啊",
-      "onboard_time": 1688093373,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 210894,
+      "num": 210894,
+      "word": "桑延你好小气",
+      "onboard_time": 1688093793,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 204824,
@@ -705,6 +721,14 @@
       "onboard_time": 1688054437,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202528,
+      "num": 202528,
+      "word": "男子辞30万年薪照顾瘫痪父亲3年",
+      "onboard_time": 1688093733,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197155,
@@ -777,14 +801,6 @@
       "onboard_time": 1688082929,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177379,
-      "num": 177379,
-      "word": "携程宣布全员每孩补贴5万元",
-      "onboard_time": 1688093253,
-      "rank": 42,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 168873,
@@ -875,6 +891,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 118379,
+      "num": 174302,
+      "word": "何小鹏称买车送AI代驾",
+      "onboard_time": 1688093915,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 109377,
       "num": 112426,
       "word": "82版西游记主创想为群众演员补全署名",
@@ -947,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43154,
+      "num": 141421,
+      "word": "澳大利亚顶流原来是它",
+      "onboard_time": 1688094037,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30390,
       "num": 30390,
       "word": "2023湾区升明月大湾区电影音乐晚会",
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 7152,
-      "num": 1495518,
+      "num": 1627510,
       "word": "2023年中国网络文明大会新闻发布会",
       "onboard_time": 1688020476,
       "rank": 2,
