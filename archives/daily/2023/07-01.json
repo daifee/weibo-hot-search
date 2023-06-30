@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688164500061,
+  "endTime": 1688167125427,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 401053,
-      "num": 176064,
+      "num": 330294,
       "word": "我是党员",
       "onboard_time": 1688147539,
       "rank": 10,
@@ -251,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287922,
+      "num": 287922,
+      "word": "法国",
+      "onboard_time": 1688166199,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
@@ -265,6 +273,14 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271715,
+      "num": 271715,
+      "word": "三十岁女生给二十岁女生的建议",
+      "onboard_time": 1688166077,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 271105,
@@ -347,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215391,
+      "num": 215391,
+      "word": "七一",
+      "onboard_time": 1688166981,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200317,
       "num": 200317,
       "word": "五险一金为什么重要",
@@ -403,12 +427,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172170,
+      "num": 172170,
+      "word": "间谍潜藏十七年终落网",
+      "onboard_time": 1688166077,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148798,
+      "num": 148798,
+      "word": "2023下半年第1天",
+      "onboard_time": 1688166860,
+      "rank": 27,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 147179,
       "num": 174353,
       "word": "法斗的叫声能有多难听",
       "onboard_time": 1688140658,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146378,
+      "num": 146378,
+      "word": "易烊千玺发了新鲜照片",
+      "onboard_time": 1688155814,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 135456,
@@ -427,12 +475,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 116936,
-      "num": 116936,
-      "word": "易烊千玺发了新鲜照片",
-      "onboard_time": 1688155814,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 129838,
+      "num": 129838,
+      "word": "普林斯加盟湖人",
+      "onboard_time": 1688166440,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128433,
+      "num": 128433,
+      "word": "野生大熊猫用屁股蹭了蹭红外相机",
+      "onboard_time": 1688166139,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122341,
+      "num": 122341,
+      "word": "警员拦下腹痛司机连说5遍去医院",
+      "onboard_time": 1688166380,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115967,
@@ -441,6 +505,22 @@
       "onboard_time": 1688119895,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112874,
+      "num": 112874,
+      "word": "大热天21人挤同一电梯被困",
+      "onboard_time": 1688166500,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108233,
+      "num": 108233,
+      "word": "如果让亲妈做你婆婆",
+      "onboard_time": 1688166139,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 105642,
@@ -459,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88261,
+      "num": 88261,
+      "word": "豆瓣",
+      "onboard_time": 1688162895,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 83555,
+      "num": 83555,
+      "word": "王楚钦孙颖莎3比0迈斯纳万远",
+      "onboard_time": 1688150595,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77495,
       "num": 95295,
       "word": "我们从未忘记为什么出发",
@@ -467,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55666,
-      "num": 55666,
-      "word": "王楚钦孙颖莎3比0迈斯纳万远",
-      "onboard_time": 1688150595,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 76996,
+      "num": 76996,
+      "word": "外卖员遇学生拍毕业照借学士服拍照",
+      "onboard_time": 1688167040,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 42777,
@@ -489,14 +585,6 @@
       "onboard_time": 1688147058,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24985,
-      "num": 48079,
-      "word": "豆瓣",
-      "onboard_time": 1688162895,
-      "rank": 49,
-      "category": "科技"
     }
   ],
   "hotgov_list": [

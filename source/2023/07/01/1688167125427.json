@@ -1,0 +1,410 @@
+{
+  "runTime": 1688167125427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306401,
+        "num": 1306401,
+        "word": "白敬亭宋轶是不是忘记官宣了",
+        "onboard_time": 1688138323,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 948045,
+        "num": 948045,
+        "word": "章泽天回应拒绝张艺谋演戏",
+        "onboard_time": 1688136760,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 74677,
+        "num": 804016,
+        "word": "中国制造在土耳其火了",
+        "onboard_time": 1688129254,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775659,
+        "num": 775659,
+        "word": "越南一位老人50年没睡觉",
+        "onboard_time": 1688139821,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630361,
+        "num": 630361,
+        "word": "爱奇艺工作人员 白敬亭好好对宋轶",
+        "onboard_time": 1688137964,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363423,
+        "num": 363423,
+        "word": "李现周杰伦花海大合唱",
+        "onboard_time": 1688137303,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352725,
+        "num": 352725,
+        "word": "男子颈部插着切割机警车狂飙10分钟",
+        "onboard_time": 1688132679,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348019,
+        "num": 348019,
+        "word": "白敬亭是有牵手肌肉记忆吗",
+        "onboard_time": 1688133156,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330294,
+        "num": 330294,
+        "word": "我是党员",
+        "onboard_time": 1688147539,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 295557,
+        "num": 295557,
+        "word": "山东大学拟聘用2名硕士为公寓管理员",
+        "onboard_time": 1688139105,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336480,
+        "num": 292682,
+        "word": "这和官宣有什么差别",
+        "onboard_time": 1688136704,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328014,
+        "num": 292637,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287922,
+        "num": 287922,
+        "word": "法国",
+        "onboard_time": 1688166199,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271715,
+        "num": 271715,
+        "word": "三十岁女生给二十岁女生的建议",
+        "onboard_time": 1688166077,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282918,
+        "num": 271635,
+        "word": "范玮琪演唱会遭网友抵制",
+        "onboard_time": 1688124217,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270868,
+        "num": 270868,
+        "word": "其实世界上有很多情侣根本不熟",
+        "onboard_time": 1688138863,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237740,
+        "num": 237740,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 236963,
+        "num": 236963,
+        "word": "泰坦号失事前水下短信通信记录",
+        "onboard_time": 1688126914,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233237,
+        "num": 233237,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215391,
+        "num": 215391,
+        "word": "七一",
+        "onboard_time": 1688166981,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645562,
+        "num": 200706,
+        "word": "裸体男子在女浴室待8分钟称误入",
+        "onboard_time": 1688139218,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181212,
+        "num": 181212,
+        "word": "原来猫咪允许你摸它的鼻子是这个意思",
+        "onboard_time": 1688129672,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176143,
+        "num": 176143,
+        "word": "老板冷笑说你把简历投到了我另一家公司",
+        "onboard_time": 1688134419,
+        "rank": 22,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 172170,
+        "num": 172170,
+        "word": "间谍潜藏十七年终落网",
+        "onboard_time": 1688166077,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162472,
+        "num": 162472,
+        "word": "1700元的周杰伦演唱会门票直接烧了",
+        "onboard_time": 1688128775,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160986,
+        "num": 160986,
+        "word": "男子高铁站持刀刺2人致1死",
+        "onboard_time": 1688131777,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149054,
+        "num": 149054,
+        "word": "赵丽颖回复谢娜",
+        "onboard_time": 1688132379,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148798,
+        "num": 148798,
+        "word": "2023下半年第1天",
+        "onboard_time": 1688166860,
+        "rank": 27,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 146378,
+        "num": 146378,
+        "word": "易烊千玺发了新鲜照片",
+        "onboard_time": 1688155814,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129838,
+        "num": 129838,
+        "word": "普林斯加盟湖人",
+        "onboard_time": 1688166440,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128433,
+        "num": 128433,
+        "word": "野生大熊猫用屁股蹭了蹭红外相机",
+        "onboard_time": 1688166139,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122341,
+        "num": 122341,
+        "word": "警员拦下腹痛司机连说5遍去医院",
+        "onboard_time": 1688166380,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119147,
+        "num": 119147,
+        "word": "小S风波后录制节目",
+        "onboard_time": 1688127336,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114758,
+        "num": 114758,
+        "word": "李现把周杰伦to签穿身上",
+        "onboard_time": 1688135978,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112874,
+        "num": 112874,
+        "word": "大热天21人挤同一电梯被困",
+        "onboard_time": 1688166500,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110220,
+        "num": 110220,
+        "word": "seventeen官宣TMEA",
+        "onboard_time": 1688141616,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109540,
+        "num": 109540,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 108288,
+        "num": 108288,
+        "word": "18岁大学生为克服口吃在公交车上演讲",
+        "onboard_time": 1688136221,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 108233,
+        "num": 108233,
+        "word": "如果让亲妈做你婆婆",
+        "onboard_time": 1688166139,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 104251,
+        "num": 104251,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98493,
+        "num": 98493,
+        "word": "歼20",
+        "onboard_time": 1688132318,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 91062,
+        "num": 91062,
+        "word": "Kindle真的要拿来盖泡面了",
+        "onboard_time": 1688130336,
+        "rank": 41,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 88261,
+        "num": 88261,
+        "word": "豆瓣",
+        "onboard_time": 1688162895,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87660,
+        "num": 87660,
+        "word": "五险一金为什么重要",
+        "onboard_time": 1688128298,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86152,
+        "num": 86152,
+        "word": "家里太乱被婆婆发朋友圈阴阳了",
+        "onboard_time": 1688120856,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83555,
+        "num": 83555,
+        "word": "王楚钦孙颖莎3比0迈斯纳万远",
+        "onboard_time": 1688150595,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80386,
+        "num": 80386,
+        "word": "韩剧恶鬼",
+        "onboard_time": 1688141375,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80317,
+        "num": 80317,
+        "word": "朱一龙路演哭了",
+        "onboard_time": 1688136343,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80037,
+        "num": 80037,
+        "word": "优酷回复赵露思",
+        "onboard_time": 1688127274,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76996,
+        "num": 76996,
+        "word": "外卖员遇学生拍毕业照借学士服拍照",
+        "onboard_time": 1688167040,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#征程#"
+    }
+  }
+}
