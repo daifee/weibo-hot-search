@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688131478196,
+  "endTime": 1688132114729,
   "band_list": [
     {
       "raw_hot": 8270859,
@@ -57,6 +57,14 @@
       "onboard_time": 1688086413,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2560312,
+      "num": 2560312,
+      "word": "1700元的周杰伦演唱会门票直接烧了",
+      "onboard_time": 1688128775,
+      "rank": 21,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 2457698,
@@ -123,14 +131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1979531,
-      "num": 1979531,
-      "word": "1700元的周杰伦演唱会门票直接烧了",
-      "onboard_time": 1688128775,
-      "rank": 21,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 1918679,
       "num": 409534,
       "word": "张雪峰 降低了信息不对称",
@@ -144,6 +144,14 @@
       "word": "王宝强 谢谢我奶茶姐姐",
       "onboard_time": 1688103873,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1892166,
+      "num": 1892166,
+      "word": "第一次嗑内娱cp",
+      "onboard_time": 1688121397,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -185,14 +193,6 @@
       "onboard_time": 1688091750,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1653828,
-      "num": 832344,
-      "word": "第一次嗑内娱cp",
-      "onboard_time": 1688121397,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 1577275,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1135935,
+      "num": 338008,
+      "word": "张雪峰老师推荐的十大高薪专业",
+      "onboard_time": 1688127996,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113749,
       "num": 1113749,
       "word": "四胞胎高考出分父亲给警察打电话报喜",
@@ -353,14 +361,6 @@
       "onboard_time": 1688115034,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1059518,
-      "num": 338008,
-      "word": "张雪峰老师推荐的十大高薪专业",
-      "onboard_time": 1688127996,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1039337,
@@ -1035,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442374,
+      "num": 351191,
+      "word": "原来猫咪允许你摸它的鼻子是这个意思",
+      "onboard_time": 1688129672,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 432902,
       "num": 352694,
       "word": "齐藤壮马宣布结婚",
       "onboard_time": 1688098956,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421725,
+      "num": 237916,
+      "word": "不跳不是人如此起哄根本不是人话",
+      "onboard_time": 1688131659,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421085,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1688127336,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401005,
-      "num": 338628,
-      "word": "原来猫咪允许你摸它的鼻子是这个意思",
-      "onboard_time": 1688129672,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 399643,
@@ -1243,12 +1251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367646,
+      "num": 340790,
+      "word": "披荆斩棘",
+      "onboard_time": 1688129073,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363790,
       "num": 363790,
       "word": "WBG战胜NIP",
       "onboard_time": 1688115935,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 362744,
+      "num": 237230,
+      "word": "同事离职后的电脑屏保",
+      "onboard_time": 1688130997,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 360668,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1688122779,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 353324,
-      "num": 340790,
-      "word": "披荆斩棘",
-      "onboard_time": 1688129073,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 348230,
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294992,
+      "num": 339906,
+      "word": "跳楼遭围观起哄男子已身亡",
+      "onboard_time": 1688131236,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293971,
       "num": 361084,
       "word": "安慕希",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1688123497,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284730,
+      "num": 222558,
+      "word": "我只喜欢你的人设",
+      "onboard_time": 1688131297,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 284374,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1688118934,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276244,
+      "num": 343910,
+      "word": "Kindle真的要拿来盖泡面了",
+      "onboard_time": 1688130336,
+      "rank": 24,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 275336,
@@ -1699,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256314,
+      "num": 221555,
+      "word": "谢娜综艺女王的厉害",
+      "onboard_time": 1688131476,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252934,
       "num": 238669,
       "word": "这狗怎么袋里鼠气的",
@@ -1707,19 +1755,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252910,
+      "num": 246307,
+      "word": "表面舔毛实际喝奶然后被揍",
+      "onboard_time": 1688130577,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248577,
+      "num": 248577,
+      "word": "男子高铁站持刀刺2人致1死",
+      "onboard_time": 1688131777,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248472,
       "num": 248472,
       "word": "所以螃蟹是有智商的吧",
       "onboard_time": 1688116775,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 246307,
-      "num": 246307,
-      "word": "表面舔毛实际喝奶然后被揍",
-      "onboard_time": 1688130577,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1787,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224936,
-      "num": 224936,
-      "word": "同事离职后的电脑屏保",
-      "onboard_time": 1688130997,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 224020,
       "num": 224020,
       "word": "当我飞奔向你吻戏花絮",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1688127156,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212028,
-      "num": 343910,
-      "word": "Kindle真的要拿来盖泡面了",
-      "onboard_time": 1688130336,
-      "rank": 24,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 210292,
@@ -2059,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178167,
+      "num": 178167,
+      "word": "协议结婚重在参与广播剧",
+      "onboard_time": 1688131538,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "残疾父亲捧女儿本科毕业证乐开花",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1688117555,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171668,
-      "num": 171668,
-      "word": "我只喜欢你的人设",
-      "onboard_time": 1688131297,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 169668,
@@ -2155,20 +2195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163671,
-      "num": 163671,
+      "raw_hot": 164039,
+      "num": 164039,
       "word": "你的鲜奶喝对了吗",
       "onboard_time": 1688130097,
       "rank": 43,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 161263,
-      "num": 339501,
-      "word": "跳楼遭围观起哄男子已身亡",
-      "onboard_time": 1688131236,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161212,
@@ -2491,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89318,
+      "num": 416983,
+      "word": "病人求救后失联120打110急寻人",
+      "onboard_time": 1688130035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87114,
       "num": 140111,
       "word": "誓约直播号没了",
@@ -2544,14 +2584,6 @@
       "word": "中国制造在土耳其火了",
       "onboard_time": 1688129254,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65073,
-      "num": 416983,
-      "word": "病人求救后失联120打110急寻人",
-      "onboard_time": 1688130035,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
