@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688114200227,
+  "endTime": 1688116705029,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -185,6 +185,14 @@
       "onboard_time": 1688045982,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3310438,
+      "num": 1651432,
+      "word": "白敬亭宋轶同框",
+      "onboard_time": 1688113056,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 3204851,
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2293792,
+      "num": 698543,
+      "word": "汪建民 我愿跟女方对质",
+      "onboard_time": 1688113297,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2286556,
       "num": 2286556,
       "word": "李沁工作室疑似因造型问题删博",
@@ -577,6 +593,14 @@
       "onboard_time": 1687956518,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2217045,
+      "num": 2217045,
+      "word": "胖东来",
+      "onboard_time": 1688109633,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2211752,
@@ -673,14 +697,6 @@
       "onboard_time": 1688044903,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2033014,
-      "num": 2033014,
-      "word": "胖东来",
-      "onboard_time": 1688109633,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2029488,
@@ -841,14 +857,6 @@
       "onboard_time": 1688102254,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1849358,
-      "num": 541773,
-      "word": "汪建民 我愿跟女方对质",
-      "onboard_time": 1688113297,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1845085,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1688091750,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1651432,
-      "num": 1651432,
-      "word": "白敬亭宋轶同框",
-      "onboard_time": 1688113056,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 1651199,
@@ -1452,7 +1452,7 @@
     },
     {
       "raw_hot": 1257615,
-      "num": 296532,
+      "num": 302072,
       "word": "教授称中国并不存在房贷压力大的问题",
       "onboard_time": 1688110054,
       "rank": 21,
@@ -1699,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121847,
+      "num": 1121847,
+      "word": "爸爸用15元买了孩子一下午的快乐",
+      "onboard_time": 1688111197,
+      "rank": 6,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1113749,
       "num": 1113749,
       "word": "四胞胎高考出分父亲给警察打电话报喜",
@@ -1931,6 +1939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1023477,
+      "num": 1023477,
+      "word": "人民币汇率跌破7.25",
+      "onboard_time": 1688110897,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1021043,
       "num": 500579,
       "word": "婆婆把我喂奶视频发到群里",
@@ -1960,6 +1976,14 @@
       "word": "灿烂灿烂改名定档",
       "onboard_time": 1687751934,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1006241,
+      "num": 1006241,
+      "word": "赵露思私信优酷催更",
+      "onboard_time": 1688115034,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -2041,6 +2065,14 @@
       "onboard_time": 1688092833,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 977215,
+      "num": 977215,
+      "word": "怀孕后子宫体积能增大多少",
+      "onboard_time": 1688109757,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 972553,
@@ -2396,7 +2428,7 @@
     },
     {
       "raw_hot": 866886,
-      "num": 326005,
+      "num": 374159,
       "word": "山姆泡面桶炒至500元仍遭疯抢",
       "onboard_time": 1688103931,
       "rank": 20,
@@ -2483,14 +2515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 845726,
-      "num": 845726,
-      "word": "怀孕后子宫体积能增大多少",
-      "onboard_time": 1688109757,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 840146,
       "num": 840146,
       "word": "韩国医生都不喝的韩式烧酒",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1687912779,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 831718,
-      "num": 831718,
-      "word": "爸爸用15元买了孩子一下午的快乐",
-      "onboard_time": 1688111197,
-      "rank": 6,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 828609,
@@ -2643,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777665,
+      "num": 717587,
+      "word": "探访萧敬腾的8层别墅",
+      "onboard_time": 1688114255,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773325,
       "num": 360051,
       "word": "何穗发了60多张自拍",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1688050368,
       "rank": 22,
       "category": "财经,幽默"
+    },
+    {
+      "raw_hot": 761495,
+      "num": 761495,
+      "word": "莎头",
+      "onboard_time": 1688115515,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 760935,
@@ -2729,6 +2761,14 @@
       "onboard_time": 1687916674,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 752053,
+      "num": 752053,
+      "word": "巴厘岛警方回应中国情侣命案调查结果",
+      "onboard_time": 1688114255,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 752019,
@@ -2985,6 +3025,14 @@
       "onboard_time": 1688090370,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 708626,
+      "num": 708626,
+      "word": "林高远王艺迪",
+      "onboard_time": 1688115935,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 704333,
@@ -3347,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632250,
+      "num": 632250,
+      "word": "桑稚段嘉许忘记桑延的存在",
+      "onboard_time": 1688112816,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 630999,
       "num": 606097,
       "word": "消失的她海报画着李木子就在海底",
@@ -3675,6 +3731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577497,
+      "num": 577497,
+      "word": "EXO先行曲HearMeOut",
+      "onboard_time": 1688116114,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 577196,
       "num": 577196,
       "word": "韩国越来越多商铺设立禁儿童区",
@@ -3923,14 +3987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549089,
-      "num": 549089,
-      "word": "人民币汇率跌破7.25",
-      "onboard_time": 1688110897,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 548477,
       "num": 548477,
       "word": "与肖战做同事belike",
@@ -4129,14 +4185,6 @@
       "onboard_time": 1688088693,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529921,
-      "num": 529921,
-      "word": "桑稚段嘉许忘记桑延的存在",
-      "onboard_time": 1688112816,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 527553,
@@ -4481,6 +4529,14 @@
       "onboard_time": 1687924897,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485064,
+      "num": 485064,
+      "word": "我妈问我对面是不是上海",
+      "onboard_time": 1688114795,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 483647,
@@ -5107,6 +5163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417909,
+      "num": 371834,
+      "word": "金靖说Angelababy照片还用P",
+      "onboard_time": 1688114738,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417810,
       "num": 262271,
       "word": "经济学家称延迟退休这条路非走不可",
@@ -5547,6 +5611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384200,
+      "num": 384200,
+      "word": "王楚钦孙颖莎逆转晋级四强",
+      "onboard_time": 1688115336,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383796,
       "num": 263474,
       "word": "上海一公司CEO发文拒招川大师生",
@@ -5785,6 +5857,14 @@
       "onboard_time": 1688037635,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363790,
+      "num": 363790,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1688115935,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 362564,
@@ -6475,6 +6555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321454,
+      "num": 321454,
+      "word": "女高材生制售救猫药案一审宣判",
+      "onboard_time": 1688114617,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321425,
       "num": 321425,
       "word": "因为催导师打分结果被删了",
@@ -6561,6 +6649,14 @@
       "onboard_time": 1687743931,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317738,
+      "num": 317738,
+      "word": "DRG零封WE",
+      "onboard_time": 1688115217,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 317413,
@@ -6916,7 +7012,7 @@
     },
     {
       "raw_hot": 301805,
-      "num": 301805,
+      "num": 306048,
       "word": "孕妻身体不适丈夫产房外哭泣守护",
       "onboard_time": 1688111797,
       "rank": 13,
@@ -6945,6 +7041,14 @@
       "onboard_time": 1687964504,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300553,
+      "num": 300553,
+      "word": "长风渡见面会",
+      "onboard_time": 1688115034,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 300020,
@@ -7947,6 +8051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254631,
+      "num": 254631,
+      "word": "敬鸿轶瞥",
+      "onboard_time": 1688115636,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254522,
       "num": 199368,
       "word": "杨天真评大学生毕业做主播",
@@ -8243,6 +8355,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 242193,
+      "num": 242193,
+      "word": "欧阳娜娜给Angelababy修图",
+      "onboard_time": 1688115875,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241971,
       "num": 277080,
       "word": "7岁男孩独自看店卖肉赚了129元",
@@ -8459,6 +8579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232934,
+      "num": 259236,
+      "word": "比盐粒还小的手提包卖出46.2万",
+      "onboard_time": 1688115993,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 232914,
       "num": 232914,
       "word": "胡兵抵达长沙",
@@ -8513,6 +8641,14 @@
       "onboard_time": 1687950874,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230658,
+      "num": 230658,
+      "word": "沈月秒猜陈哲远第一部戏女主角",
+      "onboard_time": 1688115935,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 230266,
@@ -8796,7 +8932,7 @@
     },
     {
       "raw_hot": 219468,
-      "num": 276014,
+      "num": 308689,
       "word": "工厂老板允许带孩子上班",
       "onboard_time": 1688112454,
       "rank": 29,
@@ -11043,6 +11179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135481,
+      "num": 207902,
+      "word": "官方表示将持续跟踪巴厘岛命案",
+      "onboard_time": 1688115515,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "你知道自己的档案在哪吗",
@@ -11537,6 +11681,14 @@
       "onboard_time": 1687699416,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 99241,
+      "num": 203591,
+      "word": "寿司起源于中国并非日本",
+      "onboard_time": 1688115696,
+      "rank": 49,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 99163,

@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688114200227,
+  "endTime": 1688116705029,
   "band_list": [
     {
       "raw_hot": 7225276,
@@ -17,6 +17,14 @@
       "onboard_time": 1688051809,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3310438,
+      "num": 1651432,
+      "word": "白敬亭宋轶同框",
+      "onboard_time": 1688113056,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 2768908,
@@ -43,6 +51,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2293792,
+      "num": 698543,
+      "word": "汪建民 我愿跟女方对质",
+      "onboard_time": 1688113297,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2217045,
+      "num": 2217045,
+      "word": "胖东来",
+      "onboard_time": 1688109633,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2073646,
       "num": 539192,
       "word": "范玮琪维护陈建州言论翻车",
@@ -56,14 +80,6 @@
       "word": "行人刺激跳楼者不跳不是人",
       "onboard_time": 1688095475,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2033014,
-      "num": 2033014,
-      "word": "胖东来",
-      "onboard_time": 1688109633,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -107,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1849358,
-      "num": 541773,
-      "word": "汪建民 我愿跟女方对质",
-      "onboard_time": 1688113297,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1790762,
       "num": 1790762,
       "word": "港星赢得很彻底",
@@ -145,14 +153,6 @@
       "onboard_time": 1688091750,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1651432,
-      "num": 1651432,
-      "word": "白敬亭宋轶同框",
-      "onboard_time": 1688113056,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 1577275,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1257615,
-      "num": 296532,
+      "num": 302072,
       "word": "教授称中国并不存在房贷压力大的问题",
       "onboard_time": 1688110054,
       "rank": 21,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121847,
+      "num": 1121847,
+      "word": "爸爸用15元买了孩子一下午的快乐",
+      "onboard_time": 1688111197,
+      "rank": 6,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1113749,
       "num": 1113749,
       "word": "四胞胎高考出分父亲给警察打电话报喜",
@@ -275,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1023477,
+      "num": 1023477,
+      "word": "人民币汇率跌破7.25",
+      "onboard_time": 1688110897,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1006241,
+      "num": 1006241,
+      "word": "赵露思私信优酷催更",
+      "onboard_time": 1688115034,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 996237,
       "num": 400320,
       "word": "指甲上很多洞洞是什么病啊",
@@ -297,6 +321,14 @@
       "onboard_time": 1688092833,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 977215,
+      "num": 977215,
+      "word": "怀孕后子宫体积能增大多少",
+      "onboard_time": 1688109757,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 952555,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 866886,
-      "num": 326005,
+      "num": 374159,
       "word": "山姆泡面桶炒至500元仍遭疯抢",
       "onboard_time": 1688103931,
       "rank": 20,
@@ -353,22 +385,6 @@
       "onboard_time": 1688055993,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 845726,
-      "num": 845726,
-      "word": "怀孕后子宫体积能增大多少",
-      "onboard_time": 1688109757,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 831718,
-      "num": 831718,
-      "word": "爸爸用15元买了孩子一下午的快乐",
-      "onboard_time": 1688111197,
-      "rank": 6,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 792089,
@@ -395,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 777665,
+      "num": 717587,
+      "word": "探访萧敬腾的8层别墅",
+      "onboard_time": 1688114255,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 777387,
       "num": 638933,
       "word": "范玮琪 我丈夫是个正直的人",
@@ -419,12 +443,28 @@
       "category": "财经,幽默"
     },
     {
+      "raw_hot": 761495,
+      "num": 761495,
+      "word": "莎头",
+      "onboard_time": 1688115515,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 760935,
       "num": 760935,
       "word": "王一博cos垃圾桶造型",
       "onboard_time": 1688097394,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 752053,
+      "num": 752053,
+      "word": "巴厘岛警方回应中国情侣命案调查结果",
+      "onboard_time": 1688114255,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 741115,
@@ -449,6 +489,14 @@
       "onboard_time": 1688090370,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 708626,
+      "num": 708626,
+      "word": "林高远王艺迪",
+      "onboard_time": 1688115935,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 698281,
@@ -515,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632250,
+      "num": 632250,
+      "word": "桑稚段嘉许忘记桑延的存在",
+      "onboard_time": 1688112816,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629219,
       "num": 502580,
       "word": "前经纪人发文力挺陈建州",
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577497,
+      "num": 577497,
+      "word": "EXO先行曲HearMeOut",
+      "onboard_time": 1688116114,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 571567,
       "num": 300368,
       "word": "汪建民",
@@ -585,14 +649,6 @@
       "onboard_time": 1688076136,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 549089,
-      "num": 549089,
-      "word": "人民币汇率跌破7.25",
-      "onboard_time": 1688110897,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 541514,
@@ -633,14 +689,6 @@
       "onboard_time": 1688088693,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529921,
-      "num": 529921,
-      "word": "桑稚段嘉许忘记桑延的存在",
-      "onboard_time": 1688112816,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 524020,
@@ -723,6 +771,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 485064,
+      "num": 485064,
+      "word": "我妈问我对面是不是上海",
+      "onboard_time": 1688114795,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 479731,
       "num": 479731,
       "word": "郁可唯大湾区再唱水中花",
@@ -783,6 +839,14 @@
       "num": 422064,
       "word": "奔跑吧",
       "onboard_time": 1688091813,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417909,
+      "num": 371834,
+      "word": "金靖说Angelababy照片还用P",
+      "onboard_time": 1688114738,
       "rank": 22,
       "category": "综艺"
     },
@@ -859,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384200,
+      "num": 384200,
+      "word": "王楚钦孙颖莎逆转晋级四强",
+      "onboard_time": 1688115336,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379211,
       "num": 379211,
       "word": "中南大学一宿舍边上百台自行车被丢弃",
@@ -881,6 +953,14 @@
       "onboard_time": 1688027077,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363790,
+      "num": 363790,
+      "word": "WBG战胜NIP",
+      "onboard_time": 1688115935,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 360668,
@@ -1019,6 +1099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321454,
+      "num": 321454,
+      "word": "女高材生制售救猫药案一审宣判",
+      "onboard_time": 1688114617,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317738,
+      "num": 317738,
+      "word": "DRG零封WE",
+      "onboard_time": 1688115217,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315521,
       "num": 315521,
       "word": "蔡依林深圳演唱会开票",
@@ -1068,11 +1164,19 @@
     },
     {
       "raw_hot": 301805,
-      "num": 301805,
+      "num": 306048,
       "word": "孕妻身体不适丈夫产房外哭泣守护",
       "onboard_time": 1688111797,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300553,
+      "num": 300553,
+      "word": "长风渡见面会",
+      "onboard_time": 1688115034,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 299809,
@@ -1195,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254631,
+      "num": 254631,
+      "word": "敬鸿轶瞥",
+      "onboard_time": 1688115636,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245664,
       "num": 316076,
       "word": "MLB美职棒大联盟",
@@ -1209,6 +1321,22 @@
       "onboard_time": 1688037573,
       "rank": 24,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 242596,
+      "num": 242596,
+      "word": "密室大逃脱",
+      "onboard_time": 1688114375,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242193,
+      "num": 242193,
+      "word": "欧阳娜娜给Angelababy修图",
+      "onboard_time": 1688115875,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 241971,
@@ -1235,6 +1363,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232934,
+      "num": 259236,
+      "word": "比盐粒还小的手提包卖出46.2万",
+      "onboard_time": 1688115993,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 230658,
+      "num": 230658,
+      "word": "沈月秒猜陈哲远第一部戏女主角",
+      "onboard_time": 1688115935,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226023,
       "num": 226023,
       "word": "妈妈总是在向我的童年道歉",
@@ -1252,7 +1396,7 @@
     },
     {
       "raw_hot": 219468,
-      "num": 276014,
+      "num": 308689,
       "word": "工厂老板允许带孩子上班",
       "onboard_time": 1688112454,
       "rank": 29,
@@ -1611,6 +1755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 135481,
+      "num": 207902,
+      "word": "官方表示将持续跟踪巴厘岛命案",
+      "onboard_time": 1688115515,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133548,
       "num": 116780,
       "word": "张陆让解扣子",
@@ -1721,6 +1873,14 @@
       "onboard_time": 1688051084,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99241,
+      "num": 203591,
+      "word": "寿司起源于中国并非日本",
+      "onboard_time": 1688115696,
+      "rank": 49,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 99163,
