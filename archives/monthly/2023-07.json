@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688157248069,
+  "endTime": 1688159765823,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -459,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71707,
+      "num": 67480,
+      "word": "易烊千玺发了新鲜照片",
+      "onboard_time": 1688155814,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52391,
       "num": 52391,
       "word": "王楚钦孙颖莎3比0迈斯纳万远",
       "onboard_time": 1688150595,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47466,
-      "num": 39709,
-      "word": "易烊千玺发了新鲜照片",
-      "onboard_time": 1688155814,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 42777,

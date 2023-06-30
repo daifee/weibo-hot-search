@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688157248069,
+  "endTime": 1688159765823,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -12947,6 +12947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71707,
+      "num": 67480,
+      "word": "易烊千玺发了新鲜照片",
+      "onboard_time": 1688155814,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67723,
       "num": 67723,
       "word": "女儿每次回家爸爸都在地铁口等候",
@@ -13073,14 +13081,6 @@
       "onboard_time": 1688020476,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47466,
-      "num": 39709,
-      "word": "易烊千玺发了新鲜照片",
-      "onboard_time": 1688155814,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 45760,
