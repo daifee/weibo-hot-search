@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688163462180,
+  "endTime": 1688164500061,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -427,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 116936,
+      "num": 116936,
+      "word": "易烊千玺发了新鲜照片",
+      "onboard_time": 1688155814,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115967,
       "num": 115967,
       "word": "浙江卫视节目单奔跑吧泰国篇",
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98044,
-      "num": 98044,
-      "word": "易烊千玺发了新鲜照片",
-      "onboard_time": 1688155814,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77495,
       "num": 95295,
       "word": "我们从未忘记为什么出发",
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52391,
-      "num": 52391,
+      "raw_hot": 55666,
+      "num": 55666,
       "word": "王楚钦孙颖莎3比0迈斯纳万远",
       "onboard_time": 1688150595,
       "rank": 28,
@@ -489,6 +489,14 @@
       "onboard_time": 1688147058,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24985,
+      "num": 48079,
+      "word": "豆瓣",
+      "onboard_time": 1688162895,
+      "rank": 49,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
