@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688128646965,
+  "endTime": 1688129697273,
   "band_list": [
     {
       "raw_hot": 8270859,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2134748,
+      "num": 735349,
+      "word": "搂着扫楼",
+      "onboard_time": 1688127094,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2073646,
       "num": 539192,
       "word": "范玮琪维护陈建州言论翻车",
@@ -113,14 +121,6 @@
       "onboard_time": 1688053602,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1969885,
-      "num": 735349,
-      "word": "搂着扫楼",
-      "onboard_time": 1688127094,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1918679,
@@ -179,7 +179,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1597661,
+      "raw_hot": 1653828,
       "num": 832344,
       "word": "第一次嗑内娱cp",
       "onboard_time": 1688121397,
@@ -363,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1023120,
+      "num": 268393,
+      "word": "张雪峰老师推荐的十大高薪专业",
+      "onboard_time": 1688127996,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996237,
       "num": 400320,
       "word": "指甲上很多洞洞是什么病啊",
@@ -419,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 926224,
+      "num": 324999,
+      "word": "优酷回复赵露思",
+      "onboard_time": 1688127274,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 913517,
       "num": 913517,
       "word": "为白敬亭的回答发疯",
@@ -449,14 +465,6 @@
       "onboard_time": 1688053602,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 869704,
-      "num": 324999,
-      "word": "优酷回复赵露思",
-      "onboard_time": 1688127274,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 866886,
@@ -731,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625278,
+      "num": 267008,
+      "word": "1700元的周杰伦演唱会门票直接烧了",
+      "onboard_time": 1688128775,
+      "rank": 21,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 609687,
       "num": 609687,
       "word": "EXO先行曲HearMeOut",
@@ -824,14 +840,6 @@
       "word": "警方回应男子跳楼遭围观者起哄",
       "onboard_time": 1688105373,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534155,
-      "num": 239582,
-      "word": "张雪峰老师推荐的十大高薪专业",
-      "onboard_time": 1688127996,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 401158,
-      "num": 244008,
+      "num": 264859,
       "word": "小S风波后录制节目",
       "onboard_time": 1688127336,
       "rank": 25,
@@ -1412,7 +1420,7 @@
     },
     {
       "raw_hot": 315016,
-      "num": 243279,
+      "num": 262372,
       "word": "白鹿发了新鲜照片",
       "onboard_time": 1688126794,
       "rank": 26,
@@ -1547,6 +1555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279407,
+      "num": 261809,
+      "word": "披荆斩棘",
+      "onboard_time": 1688129073,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279329,
+      "num": 279329,
+      "word": "以闪亮之名",
+      "onboard_time": 1688128653,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278470,
       "num": 278470,
       "word": "蔡少芬让秋瓷炫点个痣回来",
@@ -1611,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261194,
+      "num": 261194,
+      "word": "五险一金为什么重要",
+      "onboard_time": 1688128298,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259941,
       "num": 640059,
       "word": "LV帆布袋已被炒至700元",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1688050545,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252934,
+      "num": 238669,
+      "word": "这狗怎么袋里鼠气的",
+      "onboard_time": 1688129254,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 248472,
@@ -1769,6 +1809,14 @@
       "onboard_time": 1688127156,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210292,
+      "num": 210292,
+      "word": "猎头为保住我的工作帮我打工",
+      "onboard_time": 1688129197,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209256,
@@ -1931,12 +1979,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183202,
+      "num": 183202,
+      "word": "乖乖自己洗澡的熊猫",
+      "onboard_time": 1688129616,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 182148,
       "num": 182148,
       "word": "赵今麦左脸vs右脸",
       "onboard_time": 1688117496,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181245,
+      "num": 181245,
+      "word": "原来猫咪允许你摸它的鼻子是这个意思",
+      "onboard_time": 1688129672,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 180335,
@@ -2041,14 +2105,6 @@
       "onboard_time": 1688110718,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162062,
-      "num": 162062,
-      "word": "五险一金为什么重要",
-      "onboard_time": 1688128298,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 161212,
@@ -2187,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134244,
+      "num": 349038,
+      "word": "女子救助3岁走失娃家长下跪感谢",
+      "onboard_time": 1688126434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133548,
       "num": 116780,
       "word": "张陆让解扣子",
@@ -2283,6 +2347,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 102578,
+      "num": 209009,
+      "word": "情侣约会吃饭应该AA吗",
+      "onboard_time": 1688126434,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102189,
       "num": 102189,
       "word": "姜个顾事",
@@ -2299,11 +2371,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100332,
-      "num": 349038,
-      "word": "女子救助3岁走失娃家长下跪感谢",
-      "onboard_time": 1688126434,
-      "rank": 14,
+      "raw_hot": 101124,
+      "num": 269468,
+      "word": "海参养殖户举报间谍行为获奖2万元",
+      "onboard_time": 1688129254,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2355,15 +2427,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 81822,
-      "num": 184298,
-      "word": "情侣约会吃饭应该AA吗",
-      "onboard_time": 1688126434,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81330,
+      "raw_hot": 81810,
       "num": 1353960,
       "word": "大熊猫圆梦即将回国",
       "onboard_time": 1688112096,
@@ -2384,6 +2448,14 @@
       "word": "两头亚洲象泥坑里嬉戏打闹",
       "onboard_time": 1688125895,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65571,
+      "num": 183790,
+      "word": "中国制造在土耳其火了",
+      "onboard_time": 1688129254,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2440,6 +2512,14 @@
       "word": "黄健翔说99年女足是女神",
       "onboard_time": 1688119233,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23026,
+      "num": 1141124,
+      "word": "7月一批新规实施",
+      "onboard_time": 1688129498,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

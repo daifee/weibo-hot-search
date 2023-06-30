@@ -1,0 +1,410 @@
+{
+  "runTime": 1688129697273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6236712,
+        "num": 6236712,
+        "word": "奔跑吧延期播出",
+        "onboard_time": 1688121335,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1706652,
+        "num": 1706652,
+        "word": "赵露思宋轶全都白干",
+        "onboard_time": 1688120912,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23026,
+        "num": 1141124,
+        "word": "7月一批新规实施",
+        "onboard_time": 1688129498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765402,
+        "num": 765402,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2134748,
+        "num": 722954,
+        "word": "搂着扫楼",
+        "onboard_time": 1688127094,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597940,
+        "num": 597940,
+        "word": "日食记 被低估的贵州美食",
+        "onboard_time": 1688124936,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 393029,
+        "num": 393029,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1653828,
+        "num": 376719,
+        "word": "第一次嗑内娱cp",
+        "onboard_time": 1688121397,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341268,
+        "num": 341268,
+        "word": "中国女排",
+        "onboard_time": 1688123676,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279329,
+        "num": 279329,
+        "word": "以闪亮之名",
+        "onboard_time": 1688128653,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1237645,
+        "num": 279020,
+        "word": "台媒曝陈建州曾偷拍大牙照片",
+        "onboard_time": 1688125054,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999522,
+        "num": 277725,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 981591,
+        "num": 275836,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1168892,
+        "num": 274954,
+        "word": "范玮琪演唱会遭网友抵制",
+        "onboard_time": 1688124217,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134244,
+        "num": 274185,
+        "word": "女子救助3岁走失娃家长下跪感谢",
+        "onboard_time": 1688126434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926224,
+        "num": 272623,
+        "word": "优酷回复赵露思",
+        "onboard_time": 1688127274,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 720233,
+        "num": 271708,
+        "word": "徐穗珍开通ins",
+        "onboard_time": 1688125416,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686446,
+        "num": 271145,
+        "word": "泰坦号失事前水下短信通信记录",
+        "onboard_time": 1688126914,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 269468,
+        "word": "海参养殖户举报间谍行为获奖2万元",
+        "onboard_time": 1688129254,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023120,
+        "num": 268393,
+        "word": "张雪峰老师推荐的十大高薪专业",
+        "onboard_time": 1688127996,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267668,
+        "num": 267668,
+        "word": "卸妆油在云南高反了",
+        "onboard_time": 1688118335,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 625278,
+        "num": 267008,
+        "word": "1700元的周杰伦演唱会门票直接烧了",
+        "onboard_time": 1688128775,
+        "rank": 21,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 547374,
+        "num": 266736,
+        "word": "为白敬亭的回答发疯",
+        "onboard_time": 1688117733,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394726,
+        "num": 265361,
+        "word": "家里太乱被婆婆发朋友圈阴阳了",
+        "onboard_time": 1688120856,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366530,
+        "num": 264859,
+        "word": "小S风波后录制节目",
+        "onboard_time": 1688127336,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347768,
+        "num": 263105,
+        "word": "浙江卫视节目单奔跑吧泰国篇",
+        "onboard_time": 1688119895,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302380,
+        "num": 262372,
+        "word": "白鹿发了新鲜照片",
+        "onboard_time": 1688126794,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279407,
+        "num": 261809,
+        "word": "披荆斩棘",
+        "onboard_time": 1688129073,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261194,
+        "num": 261194,
+        "word": "五险一金为什么重要",
+        "onboard_time": 1688128298,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240616,
+        "num": 240616,
+        "word": "胖东来创始人称赚的钱基本给员工分完了",
+        "onboard_time": 1688118275,
+        "rank": 29,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 262397,
+        "num": 239667,
+        "word": "杨洋你尽管秀",
+        "onboard_time": 1688124217,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256815,
+        "num": 238735,
+        "word": "杨幂紫衣古装梦回扶摇",
+        "onboard_time": 1688123676,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252934,
+        "num": 238669,
+        "word": "这狗怎么袋里鼠气的",
+        "onboard_time": 1688129254,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237418,
+        "num": 237418,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 81810,
+        "num": 236914,
+        "word": "大熊猫圆梦即将回国",
+        "onboard_time": 1688112096,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236803,
+        "num": 236803,
+        "word": "苏州一男子高楼徘徊数小时后跳楼身亡",
+        "onboard_time": 1688117555,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223450,
+        "num": 223450,
+        "word": "医生说我天生很难长蛀牙",
+        "onboard_time": 1688122779,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210728,
+        "num": 210728,
+        "word": "杨颖欧阳娜娜都穿不上的裤子",
+        "onboard_time": 1688118215,
+        "rank": 37,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 210292,
+        "num": 210292,
+        "word": "猎头为保住我的工作帮我打工",
+        "onboard_time": 1688129197,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102578,
+        "num": 209009,
+        "word": "情侣约会吃饭应该AA吗",
+        "onboard_time": 1688126434,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208879,
+        "num": 208879,
+        "word": "iG对战TES",
+        "onboard_time": 1688128353,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197229,
+        "num": 197229,
+        "word": "萌二坐冰块给屁股降温结果冻住了",
+        "onboard_time": 1688124217,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192961,
+        "num": 192961,
+        "word": "汪建民 我愿跟女方对质",
+        "onboard_time": 1688113297,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192815,
+        "num": 192815,
+        "word": "赵露思私信优酷催更",
+        "onboard_time": 1688115034,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185064,
+        "num": 185064,
+        "word": "奥比岛",
+        "onboard_time": 1688127156,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65571,
+        "num": 183790,
+        "word": "中国制造在土耳其火了",
+        "onboard_time": 1688129254,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183202,
+        "num": 183202,
+        "word": "乖乖自己洗澡的熊猫",
+        "onboard_time": 1688129616,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181872,
+        "num": 181872,
+        "word": "莫德里奇或因作伪证入狱",
+        "onboard_time": 1688122959,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181245,
+        "num": 181245,
+        "word": "原来猫咪允许你摸它的鼻子是这个意思",
+        "onboard_time": 1688129672,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179485,
+        "num": 179485,
+        "word": "山姆泡面桶炒至500元仍遭疯抢",
+        "onboard_time": 1688103931,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党基层组织506.5万个#"
+    }
+  }
+}
