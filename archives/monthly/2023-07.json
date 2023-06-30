@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688167125427,
+  "endTime": 1688168054970,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -91,12 +91,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 755649,
+      "num": 755649,
+      "word": "法国",
+      "onboard_time": 1688166199,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703406,
       "num": 703406,
       "word": "seventeen官宣TMEA",
       "onboard_time": 1688141616,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 672388,
+      "num": 672388,
+      "word": "三十岁女生给二十岁女生的建议",
+      "onboard_time": 1688166077,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 660994,
@@ -251,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 287922,
-      "num": 287922,
-      "word": "法国",
-      "onboard_time": 1688166199,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284382,
       "num": 284382,
       "word": "歼20",
@@ -273,14 +281,6 @@
       "onboard_time": 1688141375,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271715,
-      "num": 271715,
-      "word": "三十岁女生给二十岁女生的建议",
-      "onboard_time": 1688166077,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 271105,
@@ -305,6 +305,14 @@
       "onboard_time": 1688135142,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246160,
+      "num": 246160,
+      "word": "野生大熊猫用屁股蹭了蹭红外相机",
+      "onboard_time": 1688166139,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240539,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206484,
+      "num": 206484,
+      "word": "消失的她票房破15亿",
+      "onboard_time": 1688167523,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200317,
       "num": 200317,
       "word": "五险一金为什么重要",
@@ -395,12 +411,52 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189449,
+      "num": 189449,
+      "word": "普林斯加盟湖人",
+      "onboard_time": 1688166440,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189389,
+      "num": 189389,
+      "word": "2023下半年第1天",
+      "onboard_time": 1688166860,
+      "rank": 27,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 188718,
+      "num": 188718,
+      "word": "警员拦下腹痛司机连说5遍去医院",
+      "onboard_time": 1688166380,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187154,
       "num": 187154,
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1688133100,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186162,
+      "num": 186162,
+      "word": "易烊千玺发了新鲜照片",
+      "onboard_time": 1688155814,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185818,
+      "num": 185818,
+      "word": "间谍潜藏十七年终落网",
+      "onboard_time": 1688166077,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185814,
@@ -419,6 +475,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 176733,
+      "num": 176733,
+      "word": "NBA自由市场签约",
+      "onboard_time": 1688167162,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174218,
+      "num": 174218,
+      "word": "如果让亲妈做你婆婆",
+      "onboard_time": 1688166139,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 172388,
       "num": 172388,
       "word": "小S风波后录制节目",
@@ -427,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172170,
-      "num": 172170,
-      "word": "间谍潜藏十七年终落网",
-      "onboard_time": 1688166077,
-      "rank": 23,
+      "raw_hot": 169456,
+      "num": 169456,
+      "word": "大热天21人挤同一电梯被困",
+      "onboard_time": 1688166500,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148798,
-      "num": 148798,
-      "word": "2023下半年第1天",
-      "onboard_time": 1688166860,
-      "rank": 27,
-      "category": "情感,社会新闻"
+      "raw_hot": 160345,
+      "num": 160345,
+      "word": "白敬亭宋轶同框",
+      "onboard_time": 1688113056,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 147179,
@@ -449,14 +521,6 @@
       "onboard_time": 1688140658,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146378,
-      "num": 146378,
-      "word": "易烊千玺发了新鲜照片",
-      "onboard_time": 1688155814,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 135456,
@@ -475,52 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129838,
-      "num": 129838,
-      "word": "普林斯加盟湖人",
-      "onboard_time": 1688166440,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 128433,
-      "num": 128433,
-      "word": "野生大熊猫用屁股蹭了蹭红外相机",
-      "onboard_time": 1688166139,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122341,
-      "num": 122341,
-      "word": "警员拦下腹痛司机连说5遍去医院",
-      "onboard_time": 1688166380,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115967,
       "num": 115967,
       "word": "浙江卫视节目单奔跑吧泰国篇",
       "onboard_time": 1688119895,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112874,
-      "num": 112874,
-      "word": "大热天21人挤同一电梯被困",
-      "onboard_time": 1688166500,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108233,
-      "num": 108233,
-      "word": "如果让亲妈做你婆婆",
-      "onboard_time": 1688166139,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 105642,
@@ -536,6 +560,30 @@
       "word": "中国制造在土耳其火了",
       "onboard_time": 1688129254,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98133,
+      "num": 98133,
+      "word": "独行侠续约欧文",
+      "onboard_time": 1688167943,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96204,
+      "num": 96204,
+      "word": "我其实是一只水母装成人的样子社交",
+      "onboard_time": 1688166077,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 94192,
+      "num": 94192,
+      "word": "陕西居民驾车途中偶遇淡定大熊猫",
+      "onboard_time": 1688167643,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
