@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688103275735,
+  "endTime": 1688106264407,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2073646,
+      "num": 412083,
+      "word": "范玮琪维护陈建州言论翻车",
+      "onboard_time": 1688103513,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2041924,
       "num": 765003,
       "word": "行人刺激跳楼者不跳不是人",
@@ -65,6 +73,14 @@
       "onboard_time": 1688082871,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1851212,
+      "num": 1851212,
+      "word": "秋瓷炫淘汰全场大哭",
+      "onboard_time": 1688102254,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 1790762,
@@ -123,6 +139,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1369072,
+      "num": 1369072,
+      "word": "王宝强 谢谢我奶茶姐姐",
+      "onboard_time": 1688103873,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1308192,
       "num": 1308192,
       "word": "刘浩存好漂亮",
@@ -161,14 +185,6 @@
       "onboard_time": 1688048507,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1131931,
-      "num": 1131931,
-      "word": "秋瓷炫淘汰全场大哭",
-      "onboard_time": 1688102254,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 1113749,
@@ -257,6 +273,22 @@
       "onboard_time": 1688055993,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 824123,
+      "num": 298143,
+      "word": "山姆泡面桶炒至500元仍遭疯抢",
+      "onboard_time": 1688103931,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 812312,
+      "num": 209863,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 792089,
@@ -545,6 +577,14 @@
       "onboard_time": 1688049405,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 499031,
+      "num": 343681,
+      "word": "Ella终于第一了",
+      "onboard_time": 1688102974,
+      "rank": 41,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 479731,
@@ -867,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278470,
+      "num": 278470,
+      "word": "蔡少芬让秋瓷炫点个痣回来",
+      "onboard_time": 1688104470,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272285,
       "num": 272285,
       "word": "Ella说芝芙中文超过蔡少芬了",
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249084,
+      "num": 284031,
+      "word": "丫丫回京满月记",
+      "onboard_time": 1688105672,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245664,
       "num": 316076,
       "word": "MLB美职棒大联盟",
@@ -931,20 +987,20 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 243424,
-      "num": 206958,
-      "word": "Ella终于第一了",
-      "onboard_time": 1688102974,
-      "rank": 41,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 238750,
       "num": 238750,
       "word": "鉴证实录",
       "onboard_time": 1688058325,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234653,
+      "num": 234653,
+      "word": "几天没出门杭州地铁变这样了",
+      "onboard_time": 1688103753,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234463,
@@ -1051,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190964,
+      "num": 205971,
+      "word": "警方回应男子跳楼遭围观者起哄",
+      "onboard_time": 1688105373,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189082,
       "num": 189082,
       "word": "微博手机影像年",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 150744,
+      "num": 1370778,
+      "word": "这批新规7月开始施行",
+      "onboard_time": 1688101117,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150342,
@@ -1259,6 +1331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 115153,
+      "num": 177600,
+      "word": "男生把学士服带回家给继父穿上",
+      "onboard_time": 1688106092,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109377,
       "num": 112426,
       "word": "82版西游记主创想为群众演员补全署名",
@@ -1267,12 +1347,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 109094,
-      "num": 1241030,
-      "word": "这批新规7月开始施行",
-      "onboard_time": 1688101117,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 109372,
+      "num": 177061,
+      "word": "被最好的朋友欺骗是种什么样的感受",
+      "onboard_time": 1688105612,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 105425,
@@ -1312,6 +1392,14 @@
       "word": "自带胶片感的香港街头",
       "onboard_time": 1688095592,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93525,
+      "num": 176969,
+      "word": "如果家人重病你会辞职照顾吗",
+      "onboard_time": 1688104892,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

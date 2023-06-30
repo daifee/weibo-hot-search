@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/06/30 00:24:31 ~ 2023/06/30 13:34:35
+本榜单时间：2023/06/30 00:24:31 ~ 2023/06/30 14:24:24
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@ Angelababy重现甩头发名场面（热度：2457698）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E7%BB%B4%E6%8A%A4%E9%99%88%E5%BB%BA%E5%B7%9E%E8%A8%80%E8%AE%BA%E7%BF%BB%E8%BD%A6%23" target="weibo">
+范玮琪维护陈建州言论翻车（热度：2073646）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E4%BA%BA%E5%88%BA%E6%BF%80%E8%B7%B3%E6%A5%BC%E8%80%85%E4%B8%8D%E8%B7%B3%E4%B8%8D%E6%98%AF%E4%BA%BA%23" target="weibo">
 行人刺激跳楼者不跳不是人（热度：2041924）
 </a>
@@ -59,6 +65,12 @@ LPL大瓜（热度：1985909）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%20%E9%99%8D%E4%BD%8E%E4%BA%86%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%23" target="weibo">
 张雪峰 降低了信息不对称（热度：1918679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD%23" target="weibo">
+秋瓷炫淘汰全场大哭（热度：1851212）
 </a>
 </li>
 
@@ -105,6 +117,12 @@ LWX（热度：1577275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%20%E8%B0%A2%E8%B0%A2%E6%88%91%E5%A5%B6%E8%8C%B6%E5%A7%90%E5%A7%90%23" target="weibo">
+王宝强 谢谢我奶茶姐姐（热度：1369072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E5%A5%BD%E6%BC%82%E4%BA%AE%23" target="weibo">
 刘浩存好漂亮（热度：1308192）
 </a>
@@ -131,12 +149,6 @@ LWX（热度：1577275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BF%AE%E9%9F%B3%E5%93%8D%E7%AC%AC%E4%B8%80%E4%BA%BA%23" target="weibo">
 周深修音响第一人（热度：1158793）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E6%B7%98%E6%B1%B0%E5%85%A8%E5%9C%BA%E5%A4%A7%E5%93%AD%23" target="weibo">
-秋瓷炫淘汰全场大哭（热度：1131931）
 </a>
 </li>
 
@@ -203,6 +215,18 @@ LWX（热度：1577275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E5%BD%93%E8%8A%B1%E7%AB%A5%23" target="weibo">
 殷世航当花童（热度：858442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E6%B3%A1%E9%9D%A2%E6%A1%B6%E7%82%92%E8%87%B3500%E5%85%83%E4%BB%8D%E9%81%AD%E7%96%AF%E6%8A%A2%23" target="weibo">
+山姆泡面桶炒至500元仍遭疯抢（热度：824123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B1%AA%E5%A7%93%E7%94%B7%E8%89%BA%E4%BA%BA%E6%80%A7%E4%BE%B519%E5%B2%81%E5%A5%B3%E5%AD%90%23" target="weibo">
+曝汪姓男艺人性侵19岁女子（热度：812312）
 </a>
 </li>
 
@@ -419,6 +443,12 @@ LWX（热度：1577275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%9D%E6%80%A1%20%E9%99%88%E6%85%A7%E7%8F%8A%23" target="weibo">
 林保怡 陈慧珊（热度：504650）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Ella%E7%BB%88%E4%BA%8E%E7%AC%AC%E4%B8%80%E4%BA%86%23" target="weibo">
+Ella终于第一了（热度：499031）
 </a>
 </li>
 
@@ -663,6 +693,12 @@ vampire（热度：280792）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E8%AE%A9%E7%A7%8B%E7%93%B7%E7%82%AB%E7%82%B9%E4%B8%AA%E7%97%A3%E5%9B%9E%E6%9D%A5%23" target="weibo">
+蔡少芬让秋瓷炫点个痣回来（热度：278470）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Ella%E8%AF%B4%E8%8A%9D%E8%8A%99%E4%B8%AD%E6%96%87%E8%B6%85%E8%BF%87%E8%94%A1%E5%B0%91%E8%8A%AC%E4%BA%86%23" target="weibo">
 Ella说芝芙中文超过蔡少芬了（热度：272285）
 </a>
@@ -699,6 +735,12 @@ LV帆布袋已被炒至700元（热度：259941）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E4%BA%AC%E6%BB%A1%E6%9C%88%E8%AE%B0%23" target="weibo">
+丫丫回京满月记（热度：249084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23MLB%E7%BE%8E%E8%81%8C%E6%A3%92%E5%A4%A7%E8%81%94%E7%9B%9F%23" target="weibo">
 MLB美职棒大联盟（热度：245664）
 </a>
@@ -711,14 +753,14 @@ MLB美职棒大联盟（热度：245664）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Ella%E7%BB%88%E4%BA%8E%E7%AC%AC%E4%B8%80%E4%BA%86%23" target="weibo">
-Ella终于第一了（热度：243424）
+<a href="https://s.weibo.com/weibo?q=%23%E9%89%B4%E8%AF%81%E5%AE%9E%E5%BD%95%23" target="weibo">
+鉴证实录（热度：238750）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%89%B4%E8%AF%81%E5%AE%9E%E5%BD%95%23" target="weibo">
-鉴证实录（热度：238750）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%A4%A9%E6%B2%A1%E5%87%BA%E9%97%A8%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81%E5%8F%98%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
+几天没出门杭州地铁变这样了（热度：234653）
 </a>
 </li>
 
@@ -801,6 +843,12 @@ Ella终于第一了（热度：243424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%B7%B3%E6%A5%BC%E9%81%AD%E5%9B%B4%E8%A7%82%E8%80%85%E8%B5%B7%E5%93%84%23" target="weibo">
+警方回应男子跳楼遭围观者起哄（热度：190964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%B9%B4%23" target="weibo">
 微博手机影像年（热度：189082）
 </a>
@@ -869,6 +917,12 @@ Ella终于第一了（热度：243424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%84%BF%E5%AD%90%E8%A2%AB%E7%A7%91%E7%B4%A2%E6%B2%83%E5%BD%93%E5%B1%80%E6%89%A3%E7%95%99%23" target="weibo">
 武契奇儿子被科索沃当局扣留（热度：153823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%B9%E6%96%B0%E8%A7%847%E6%9C%88%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C%23" target="weibo">
+这批新规7月开始施行（热度：150744）
 </a>
 </li>
 
@@ -957,14 +1011,20 @@ SNH48吕一 千秋乐（热度：144694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%8A%8A%E5%AD%A6%E5%A3%AB%E6%9C%8D%E5%B8%A6%E5%9B%9E%E5%AE%B6%E7%BB%99%E7%BB%A7%E7%88%B6%E7%A9%BF%E4%B8%8A%23" target="weibo">
+男生把学士服带回家给继父穿上（热度：115153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2382%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%BB%E5%88%9B%E6%83%B3%E4%B8%BA%E7%BE%A4%E4%BC%97%E6%BC%94%E5%91%98%E8%A1%A5%E5%85%A8%E7%BD%B2%E5%90%8D%23" target="weibo">
 82版西游记主创想为群众演员补全署名（热度：109377）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%B9%E6%96%B0%E8%A7%847%E6%9C%88%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C%23" target="weibo">
-这批新规7月开始施行（热度：109094）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%AC%BA%E9%AA%97%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%84%9F%E5%8F%97%23" target="weibo">
+被最好的朋友欺骗是种什么样的感受（热度：109372）
 </a>
 </li>
 
@@ -995,6 +1055,12 @@ SNH48吕一 千秋乐（热度：144694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B8%A6%E8%83%B6%E7%89%87%E6%84%9F%E7%9A%84%E9%A6%99%E6%B8%AF%E8%A1%97%E5%A4%B4%23" target="weibo">
 自带胶片感的香港街头（热度：99163）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%AE%B6%E4%BA%BA%E9%87%8D%E7%97%85%E4%BD%A0%E4%BC%9A%E8%BE%9E%E8%81%8C%E7%85%A7%E9%A1%BE%E5%90%97%23" target="weibo">
+如果家人重病你会辞职照顾吗（热度：93525）
 </a>
 </li>
 
