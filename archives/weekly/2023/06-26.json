@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688135679416,
+  "endTime": 1688138340127,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -136,6 +136,14 @@
       "word": "难听",
       "onboard_time": 1688041832,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3947971,
+      "num": 694458,
+      "word": "白敬亭宋轶是不是忘记官宣了",
+      "onboard_time": 1688138323,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -811,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1953417,
+      "num": 1043431,
+      "word": "这和官宣有什么差别",
+      "onboard_time": 1688136704,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1942925,
       "num": 1942925,
       "word": "普京曾有意杀死普里戈任",
@@ -1155,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1594812,
+      "num": 681356,
+      "word": "爱奇艺工作人员 白敬亭好好对宋轶",
+      "onboard_time": 1688137964,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1585317,
       "num": 1585317,
       "word": "私拆女儿档案的母亲道歉",
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 1557230,
-      "num": 430386,
+      "num": 528436,
       "word": "台媒曝陈建州曾偷拍大牙照片",
       "onboard_time": 1688125054,
       "rank": 10,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1687952554,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1414630,
+      "num": 682843,
+      "word": "章泽天回应拒绝张艺谋演戏",
+      "onboard_time": 1688136760,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1404625,
@@ -1891,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1089371,
+      "num": 1089371,
+      "word": "男子颈部插着切割机警车狂飙10分钟",
+      "onboard_time": 1688132679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089271,
       "num": 1089271,
       "word": "袁姗姗一期节目落了五次水",
@@ -2123,6 +2163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 995393,
+      "num": 618908,
+      "word": "女子称怀孕6周被男友偷下打胎药",
+      "onboard_time": 1688132979,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993813,
       "num": 373534,
       "word": "蓝盈莹腰线",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1687744529,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 989834,
-      "num": 618908,
-      "word": "女子称怀孕6周被男友偷下打胎药",
-      "onboard_time": 1688132979,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 989260,
@@ -2499,6 +2539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 892869,
+      "num": 884722,
+      "word": "男子高铁站持刀刺2人致1死",
+      "onboard_time": 1688131777,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 890345,
       "num": 503343,
       "word": "学信网显示结业女子错失月薪4万工作",
@@ -2529,14 +2577,6 @@
       "onboard_time": 1687685793,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 884722,
-      "num": 884722,
-      "word": "男子高铁站持刀刺2人致1死",
-      "onboard_time": 1688131777,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 883186,
@@ -2723,14 +2763,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 814021,
-      "num": 814021,
-      "word": "男子颈部插着切割机警车狂飙10分钟",
-      "onboard_time": 1688132679,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 811138,
       "num": 811138,
       "word": "韩国改周岁算法后",
@@ -2776,6 +2808,14 @@
       "word": "刘芸管控郑钧从头到脚",
       "onboard_time": 1687757888,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 801659,
+      "num": 386784,
+      "word": "李现周杰伦花海大合唱",
+      "onboard_time": 1688137303,
+      "rank": 22,
       "category": "音乐"
     },
     {
@@ -3251,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 706830,
+      "num": 706830,
+      "word": "朱婷",
+      "onboard_time": 1688135142,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704333,
       "num": 704333,
       "word": "常石磊",
@@ -3401,6 +3449,14 @@
       "onboard_time": 1688003192,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 673796,
+      "num": 673796,
+      "word": "歼20",
+      "onboard_time": 1688132318,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 673756,
@@ -3592,6 +3648,14 @@
       "word": "SEVENTEEN的家谱这下全都乱了",
       "onboard_time": 1687943735,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 640557,
+      "num": 369375,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1688136103,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -3809,14 +3873,6 @@
       "onboard_time": 1688045684,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 607299,
-      "num": 607299,
-      "word": "歼20",
-      "onboard_time": 1688132318,
-      "rank": 16,
-      "category": "军事"
     },
     {
       "raw_hot": 607209,
@@ -4163,12 +4219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557526,
+      "num": 298201,
+      "word": "艾伦阿金去世",
+      "onboard_time": 1688137782,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557160,
       "num": 557160,
       "word": "消失的她 海边牵手照",
       "onboard_time": 1687782041,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 556270,
+      "num": 396055,
+      "word": "文咏珊怎么不是我老婆",
+      "onboard_time": 1688134478,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 554818,
@@ -4257,6 +4329,14 @@
       "onboard_time": 1687859022,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548070,
+      "num": 279881,
+      "word": "李现把周杰伦to签穿身上",
+      "onboard_time": 1688135978,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 547821,
@@ -4603,14 +4683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 510774,
-      "num": 396055,
-      "word": "文咏珊怎么不是我老婆",
-      "onboard_time": 1688134478,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 510264,
       "num": 510264,
       "word": "偷偷藏不住播出的效应",
@@ -4785,6 +4857,14 @@
       "onboard_time": 1688013461,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 489786,
+      "num": 270981,
+      "word": "朱一龙路演哭了",
+      "onboard_time": 1688136343,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 488651,
@@ -5195,6 +5275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 447352,
+      "num": 391589,
+      "word": "迪丽热巴公诉豆瓣开分6.6",
+      "onboard_time": 1688134783,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447049,
       "num": 444198,
       "word": "倪妮感谢十亿有你",
@@ -5595,14 +5683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 412079,
-      "num": 391589,
-      "word": "迪丽热巴公诉豆瓣开分6.6",
-      "onboard_time": 1688134783,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411542,
       "num": 411542,
       "word": "FPX战胜WBG",
@@ -5833,6 +5913,14 @@
       "onboard_time": 1688043519,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 394817,
+      "num": 364300,
+      "word": "老板冷笑说你把简历投到了我另一家公司",
+      "onboard_time": 1688134419,
+      "rank": 34,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 393985,
@@ -6257,14 +6345,6 @@
       "onboard_time": 1688037635,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 364300,
-      "num": 364300,
-      "word": "老板冷笑说你把简历投到了我另一家公司",
-      "onboard_time": 1688134419,
-      "rank": 34,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 363790,
@@ -7491,6 +7571,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 301360,
+      "num": 301360,
+      "word": "未定事件簿 茶百道",
+      "onboard_time": 1688137060,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301236,
       "num": 240520,
       "word": "北京一律所称不再招聘川大毕业生",
@@ -7561,6 +7649,14 @@
       "onboard_time": 1687736787,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298301,
+      "num": 309773,
+      "word": "2023年4000元手机哪家强",
+      "onboard_time": 1688133579,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 297201,
@@ -8491,14 +8587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 258626,
-      "num": 309773,
-      "word": "2023年4000元手机哪家强",
-      "onboard_time": 1688133579,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 258577,
       "num": 258577,
       "word": "梁洁衣服被用来堵安全门",
@@ -8657,6 +8745,14 @@
       "onboard_time": 1687935396,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252717,
+      "num": 252717,
+      "word": "18岁大学生为克服口吃在公交车上演讲",
+      "onboard_time": 1688136221,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 252579,
@@ -8987,6 +9083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238810,
+      "num": 238810,
+      "word": "一梦江湖",
+      "onboard_time": 1688136760,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238750,
       "num": 238750,
       "word": "鉴证实录",
@@ -9113,14 +9217,6 @@
       "onboard_time": 1688097995,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234258,
-      "num": 393336,
-      "word": "朱婷",
-      "onboard_time": 1688135142,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 234193,
@@ -10179,6 +10275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198414,
+      "num": 198414,
+      "word": "因为那句你好反复看了好几遍视频",
+      "onboard_time": 1688136943,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 198384,
       "num": 252037,
       "word": "京津冀又有40度以上超高温",
@@ -11043,6 +11147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176366,
+      "num": 198410,
+      "word": "要人品有人品要技术有人品",
+      "onboard_time": 1688138079,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175993,
       "num": 175993,
       "word": "中国女篮",
@@ -11539,6 +11651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155277,
+      "num": 198377,
+      "word": "陕北一高校期末考试比扭秧歌",
+      "onboard_time": 1688138202,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 154404,
       "num": 154404,
       "word": "陈哲远不谈恋爱的原因",
@@ -11681,6 +11801,14 @@
       "onboard_time": 1688129498,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147502,
+      "num": 198345,
+      "word": "唐尚珺2023年高考594分",
+      "onboard_time": 1688138323,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 147464,
@@ -12769,6 +12897,14 @@
       "onboard_time": 1687800622,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54627,
+      "num": 530745,
+      "word": "老师支教3年离开前学生含泪告别",
+      "onboard_time": 1688137244,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53740,

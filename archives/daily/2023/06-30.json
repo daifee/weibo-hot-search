@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688135679416,
+  "endTime": 1688138340127,
   "band_list": [
     {
       "raw_hot": 8270859,
@@ -24,6 +24,14 @@
       "word": "肖战真唱",
       "onboard_time": 1688051809,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3947971,
+      "num": 694458,
+      "word": "白敬亭宋轶是不是忘记官宣了",
+      "onboard_time": 1688138323,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -147,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1953417,
+      "num": 1043431,
+      "word": "这和官宣有什么差别",
+      "onboard_time": 1688136704,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1918679,
       "num": 409534,
       "word": "张雪峰 降低了信息不对称",
@@ -203,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1594812,
+      "num": 681356,
+      "word": "爱奇艺工作人员 白敬亭好好对宋轶",
+      "onboard_time": 1688137964,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1577275,
       "num": 1535277,
       "word": "LWX",
@@ -220,11 +244,19 @@
     },
     {
       "raw_hot": 1557230,
-      "num": 430386,
+      "num": 528436,
       "word": "台媒曝陈建州曾偷拍大牙照片",
       "onboard_time": 1688125054,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1414630,
+      "num": 682843,
+      "word": "章泽天回应拒绝张艺谋演戏",
+      "onboard_time": 1688136760,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1389343,
@@ -371,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1089371,
+      "num": 1089371,
+      "word": "男子颈部插着切割机警车狂飙10分钟",
+      "onboard_time": 1688132679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1061016,
       "num": 1061016,
       "word": "赵露思私信优酷催更",
@@ -411,20 +451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 995393,
+      "num": 618908,
+      "word": "女子称怀孕6周被男友偷下打胎药",
+      "onboard_time": 1688132979,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993813,
       "num": 373534,
       "word": "蓝盈莹腰线",
       "onboard_time": 1688088036,
       "rank": 20,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 989834,
-      "num": 618908,
-      "word": "女子称怀孕6周被男友偷下打胎药",
-      "onboard_time": 1688132979,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 985088,
@@ -515,7 +555,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 884722,
+      "raw_hot": 892869,
       "num": 884722,
       "word": "男子高铁站持刀刺2人致1死",
       "onboard_time": 1688131777,
@@ -547,12 +587,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 814021,
-      "num": 814021,
-      "word": "男子颈部插着切割机警车狂飙10分钟",
-      "onboard_time": 1688132679,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 801659,
+      "num": 386784,
+      "word": "李现周杰伦花海大合唱",
+      "onboard_time": 1688137303,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 792089,
@@ -715,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 706830,
+      "num": 706830,
+      "word": "朱婷",
+      "onboard_time": 1688135142,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 698281,
       "num": 587894,
       "word": "周杰伦演唱会",
@@ -755,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 673796,
+      "num": 673796,
+      "word": "歼20",
+      "onboard_time": 1688132318,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 669624,
       "num": 665431,
       "word": "杨雪杨颖暮色心约演母女",
@@ -785,6 +841,14 @@
       "onboard_time": 1688041832,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 640557,
+      "num": 369375,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1688136103,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 639194,
@@ -843,14 +907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 607299,
-      "num": 607299,
-      "word": "歼20",
-      "onboard_time": 1688132318,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 600363,
       "num": 600363,
       "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
@@ -907,12 +963,36 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 557526,
+      "num": 298201,
+      "word": "艾伦阿金去世",
+      "onboard_time": 1688137782,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556270,
+      "num": 396055,
+      "word": "文咏珊怎么不是我老婆",
+      "onboard_time": 1688134478,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 554667,
       "num": 554667,
       "word": "任嘉伦Angelababy对手戏",
       "onboard_time": 1688076136,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 548070,
+      "num": 279881,
+      "word": "李现把周杰伦to签穿身上",
+      "onboard_time": 1688135978,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 541514,
@@ -1019,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 510774,
-      "num": 396055,
-      "word": "文咏珊怎么不是我老婆",
-      "onboard_time": 1688134478,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509477,
       "num": 403524,
       "word": "曾黎声援辛芷蕾",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1688111797,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489786,
+      "num": 270981,
+      "word": "朱一龙路演哭了",
+      "onboard_time": 1688136343,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 481650,
@@ -1129,6 +1209,14 @@
       "onboard_time": 1688091035,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 447352,
+      "num": 391589,
+      "word": "迪丽热巴公诉豆瓣开分6.6",
+      "onboard_time": 1688134783,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 445742,
@@ -1203,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 412079,
-      "num": 391589,
-      "word": "迪丽热巴公诉豆瓣开分6.6",
-      "onboard_time": 1688134783,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 409582,
       "num": 409582,
       "word": "学霸情侣本科毕业齐直博被校长写进致辞",
@@ -1264,6 +1344,14 @@
       "word": "大棕熊着急下班咣咣砸门",
       "onboard_time": 1688117195,
       "rank": 18,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 394817,
+      "num": 364300,
+      "word": "老板冷笑说你把简历投到了我另一家公司",
+      "onboard_time": 1688134419,
+      "rank": 34,
       "category": "幽默,社会新闻"
     },
     {
@@ -1361,14 +1449,6 @@
       "onboard_time": 1688129073,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364300,
-      "num": 364300,
-      "word": "老板冷笑说你把简历投到了我另一家公司",
-      "onboard_time": 1688134419,
-      "rank": 34,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 363790,
@@ -1643,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301360,
+      "num": 301360,
+      "word": "未定事件簿 茶百道",
+      "onboard_time": 1688137060,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300553,
       "num": 300553,
       "word": "长风渡见面会",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1688110959,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298301,
+      "num": 309773,
+      "word": "2023年4000元手机哪家强",
+      "onboard_time": 1688133579,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 295700,
@@ -1827,14 +1923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258626,
-      "num": 309773,
-      "word": "2023年4000元手机哪家强",
-      "onboard_time": 1688133579,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 257401,
       "num": 213091,
       "word": "周翊然回应粉丝我不苦",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1688130577,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252717,
+      "num": 252717,
+      "word": "18岁大学生为克服口吃在公交车上演讲",
+      "onboard_time": 1688136221,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 251848,
@@ -1923,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238810,
+      "num": 238810,
+      "word": "一梦江湖",
+      "onboard_time": 1688136760,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238750,
       "num": 238750,
       "word": "鉴证实录",
@@ -1937,14 +2041,6 @@
       "onboard_time": 1688097995,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234258,
-      "num": 393336,
-      "word": "朱婷",
-      "onboard_time": 1688135142,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 234193,
@@ -2057,6 +2153,14 @@
       "onboard_time": 1688109156,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198414,
+      "num": 198414,
+      "word": "因为那句你好反复看了好几遍视频",
+      "onboard_time": 1688136943,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 197155,
@@ -2243,6 +2347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 176366,
+      "num": 198410,
+      "word": "要人品有人品要技术有人品",
+      "onboard_time": 1688138079,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174435,
       "num": 174435,
       "word": "胖东来老板称企业家要活得像人",
@@ -2395,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155277,
+      "num": 198377,
+      "word": "陕北一高校期末考试比扭秧歌",
+      "onboard_time": 1688138202,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 154790,
       "num": 428550,
       "word": "19岁男生高考后找失足女被拘5天",
@@ -2457,6 +2577,14 @@
       "onboard_time": 1688129498,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147502,
+      "num": 198345,
+      "word": "唐尚珺2023年高考594分",
+      "onboard_time": 1688138323,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 147464,
@@ -2752,6 +2880,14 @@
       "word": "中国制造在土耳其火了",
       "onboard_time": 1688129254,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54627,
+      "num": 530745,
+      "word": "老师支教3年离开前学生含泪告别",
+      "onboard_time": 1688137244,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
