@@ -1,0 +1,410 @@
+{
+  "runTime": 1688098956443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1340893,
+        "num": 1340893,
+        "word": "中国共产党党员总数为9804.1万名",
+        "onboard_time": 1688095475,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203645,
+        "num": 1203645,
+        "word": "Angelababy重现甩头发名场面",
+        "onboard_time": 1688089834,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6406,
+        "num": 1172920,
+        "word": "2023年中国网络文明大会新闻发布会",
+        "onboard_time": 1688020476,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2376769,
+        "num": 1172210,
+        "word": "卖菜大爷挣21元被罚款11万元",
+        "onboard_time": 1688086413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283011,
+        "num": 1170571,
+        "word": "萧敬腾求婚成功全国都在随礼",
+        "onboard_time": 1688091750,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1165052,
+        "num": 1165052,
+        "word": "LWX",
+        "onboard_time": 1688089654,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 962434,
+        "num": 962434,
+        "word": "孟美岐说要放下以前的包袱",
+        "onboard_time": 1688097094,
+        "rank": 6,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 952555,
+        "num": 952555,
+        "word": "毛不易靠香蜜打开be市场",
+        "onboard_time": 1688094274,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872913,
+        "num": 872913,
+        "word": "怎么没人写硕博士的偶像剧",
+        "onboard_time": 1688088753,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 756252,
+        "num": 756252,
+        "word": "王一博cos垃圾桶造型",
+        "onboard_time": 1688097394,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1758883,
+        "num": 752761,
+        "word": "行人刺激跳楼者不跳不是人",
+        "onboard_time": 1688095475,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546231,
+        "num": 731694,
+        "word": "孙怡工作室回应恋情",
+        "onboard_time": 1688080404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792089,
+        "num": 727385,
+        "word": "透明马桶",
+        "onboard_time": 1688094753,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 695819,
+        "num": 695819,
+        "word": "肖战下个镜头切了李沁",
+        "onboard_time": 1688092833,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606241,
+        "num": 606241,
+        "word": "宁艺卓说国内缺少音乐舞台",
+        "onboard_time": 1688097695,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584459,
+        "num": 584459,
+        "word": "男子辞30万年薪照顾瘫痪父亲3年",
+        "onboard_time": 1688093733,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551364,
+        "num": 551364,
+        "word": "香港艺人vs内地艺人",
+        "onboard_time": 1688087912,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521142,
+        "num": 521142,
+        "word": "选专业 更适合中国宝宝体质的先婚后爱",
+        "onboard_time": 1688092893,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 487592,
+        "num": 487592,
+        "word": "仁济医院医生嫖娼为实习生造谣",
+        "onboard_time": 1688085875,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409107,
+        "num": 409107,
+        "word": "宁静吐槽节目组还真是缺心眼",
+        "onboard_time": 1688091331,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478369,
+        "num": 402731,
+        "word": "月薪5000真的有点低",
+        "onboard_time": 1688050368,
+        "rank": 20,
+        "category": "财经,幽默"
+      },
+      {
+        "raw_hot": 395623,
+        "num": 395623,
+        "word": "指甲上很多洞洞是什么病啊",
+        "onboard_time": 1688098475,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356317,
+        "num": 356317,
+        "word": "宋妍霏左眼流泪右眼笑",
+        "onboard_time": 1688090553,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353162,
+        "num": 353162,
+        "word": "低成本恋爱",
+        "onboard_time": 1688090370,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 335149,
+        "num": 335149,
+        "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
+        "onboard_time": 1688089293,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326288,
+        "num": 326288,
+        "word": "倪妮和朱一龙对戏指尖都在用力",
+        "onboard_time": 1688098417,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325931,
+        "num": 325931,
+        "word": "热烈里除了有黄渤王一博还有假玲",
+        "onboard_time": 1688095353,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320345,
+        "num": 320345,
+        "word": "公路上和大熊猫偶遇还对视谁懂啊",
+        "onboard_time": 1688093373,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296695,
+        "num": 296695,
+        "word": "蓝盈莹腰线",
+        "onboard_time": 1688088036,
+        "rank": 28,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 290922,
+        "num": 290922,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385316,
+        "num": 290766,
+        "word": "杨雪杨颖暮色心约演母女",
+        "onboard_time": 1688098535,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289795,
+        "num": 289795,
+        "word": "桑延你好小气",
+        "onboard_time": 1688093793,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284374,
+        "num": 284374,
+        "word": "第一次见狗遛鱼",
+        "onboard_time": 1688094873,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281915,
+        "num": 281915,
+        "word": "你贫血的原因可能和咖啡有关",
+        "onboard_time": 1688084552,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264502,
+        "num": 264502,
+        "word": "蔡依林深圳演唱会开票",
+        "onboard_time": 1688095592,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257870,
+        "num": 257870,
+        "word": "Angelababy正装照",
+        "onboard_time": 1688098716,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252980,
+        "num": 252980,
+        "word": "柳智敏最新ins",
+        "onboard_time": 1688098359,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252486,
+        "num": 252486,
+        "word": "4GB未拆封初代iPhone拍卖",
+        "onboard_time": 1688092772,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234463,
+        "num": 234463,
+        "word": "宋轶新剧女扮男装造型",
+        "onboard_time": 1688097995,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202610,
+        "num": 202610,
+        "word": "四胞胎高考出分父亲给警察打电话报喜",
+        "onboard_time": 1688079804,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219679,
+        "num": 200415,
+        "word": "五月天沈阳 抢票",
+        "onboard_time": 1688095410,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188036,
+        "num": 188036,
+        "word": "她背包里掏出大西瓜消防员也没想到",
+        "onboard_time": 1688082087,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185191,
+        "num": 185191,
+        "word": "张雪峰经典语录",
+        "onboard_time": 1688096312,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184666,
+        "num": 184666,
+        "word": "告五人长沙",
+        "onboard_time": 1688096616,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180316,
+        "num": 180316,
+        "word": "女生以高压线为弦在列车上弹吉他",
+        "onboard_time": 1688092712,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179112,
+        "num": 179112,
+        "word": "前经纪人发文力挺陈建州",
+        "onboard_time": 1688082451,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178469,
+        "num": 178469,
+        "word": "一等功喜报送到家",
+        "onboard_time": 1688098475,
+        "rank": 46,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 169668,
+        "num": 169668,
+        "word": "大主宰年番开播",
+        "onboard_time": 1688096674,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 169283,
+        "num": 169283,
+        "word": "杰森斯坦森回应爱称郭达",
+        "onboard_time": 1688084552,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145719,
+        "num": 168545,
+        "word": "女子野生菌中毒病床上隔空捋线",
+        "onboard_time": 1688091092,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我是9804.1万分之一#"
+    }
+  }
+}
