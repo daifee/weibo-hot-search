@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688143217178,
+  "endTime": 1688145416868,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -3331,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703406,
+      "num": 703406,
+      "word": "seventeen官宣TMEA",
+      "onboard_time": 1688141616,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 698281,
       "num": 587894,
       "word": "周杰伦演唱会",
@@ -3769,14 +3777,6 @@
       "onboard_time": 1687841090,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 627572,
-      "num": 627572,
-      "word": "seventeen官宣TMEA",
-      "onboard_time": 1688141616,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 627002,
@@ -12171,6 +12171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134106,
+      "num": 129337,
+      "word": "TMEA",
+      "onboard_time": 1688143230,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133807,
       "num": 133807,
       "word": "肖春生佟晓梅故地重游",
@@ -12883,6 +12891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77495,
+      "num": 86298,
+      "word": "我们从未忘记为什么出发",
+      "onboard_time": 1688144845,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74757,
       "num": 200437,
       "word": "菜鸟官宣自营快递菜鸟速递",
@@ -13362,6 +13378,9 @@
     },
     {
       "word": "#征程#"
+    },
+    {
+      "word": "#新时代赶考路#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688143217178,
+  "endTime": 1688145416868,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 703406,
+      "num": 703406,
+      "word": "seventeen官宣TMEA",
+      "onboard_time": 1688141616,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 660994,
       "num": 660994,
       "word": "胖东来",
@@ -112,14 +120,6 @@
       "word": "1700元的周杰伦演唱会门票直接烧了",
       "onboard_time": 1688128775,
       "rank": 13,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 627572,
-      "num": 627572,
-      "word": "seventeen官宣TMEA",
-      "onboard_time": 1688141616,
-      "rank": 25,
       "category": "音乐"
     },
     {
@@ -411,6 +411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134106,
+      "num": 129337,
+      "word": "TMEA",
+      "onboard_time": 1688143230,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 115967,
+      "num": 115967,
+      "word": "浙江卫视节目单奔跑吧泰国篇",
+      "onboard_time": 1688119895,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105642,
       "num": 130801,
       "word": "首饰掉便池男子心急去捞又卡手",
@@ -425,11 +441,22 @@
       "onboard_time": 1688129254,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77495,
+      "num": 86298,
+      "word": "我们从未忘记为什么出发",
+      "onboard_time": 1688144845,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#征程#"
+    },
+    {
+      "word": "#新时代赶考路#"
     }
   ]
 }
