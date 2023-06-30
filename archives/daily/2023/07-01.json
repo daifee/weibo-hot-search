@@ -1,6 +1,6 @@
 {
   "startTime": 1688142249351,
-  "endTime": 1688146428491,
+  "endTime": 1688149392665,
   "band_list": [
     {
       "raw_hot": 3552582,
@@ -193,6 +193,14 @@
       "onboard_time": 1688136103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341151,
+      "num": 176064,
+      "word": "我是党员",
+      "onboard_time": 1688147539,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 333659,
@@ -457,6 +465,14 @@
       "onboard_time": 1688143647,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 38073,
+      "num": 60784,
+      "word": "新时代赶考路",
+      "onboard_time": 1688147058,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -465,6 +481,9 @@
     },
     {
       "word": "#新时代赶考路#"
+    },
+    {
+      "word": "#庆祝建党102周年#"
     }
   ]
 }

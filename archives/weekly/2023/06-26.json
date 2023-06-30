@@ -1,6 +1,6 @@
 {
   "startTime": 1687710244758,
-  "endTime": 1688146428491,
+  "endTime": 1688149392665,
   "band_list": [
     {
       "raw_hot": 11545667,
@@ -6707,6 +6707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 341151,
+      "num": 176064,
+      "word": "我是党员",
+      "onboard_time": 1688147539,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 340621,
       "num": 340621,
       "word": "情侣贫富差距过大怎么办",
@@ -13153,6 +13161,14 @@
       "onboard_time": 1687568133,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 38073,
+      "num": 60784,
+      "word": "新时代赶考路",
+      "onboard_time": 1688147058,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37279,
