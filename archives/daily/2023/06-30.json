@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688116705029,
+  "endTime": 1688117634563,
   "band_list": [
     {
       "raw_hot": 7225276,
@@ -187,6 +187,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1333654,
+      "num": 1333654,
+      "word": "爸爸用15元买了孩子一下午的快乐",
+      "onboard_time": 1688111197,
+      "rank": 6,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1308192,
       "num": 1308192,
       "word": "刘浩存好漂亮",
@@ -251,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1121847,
-      "num": 1121847,
-      "word": "爸爸用15元买了孩子一下午的快乐",
-      "onboard_time": 1688111197,
-      "rank": 6,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 1113749,
       "num": 1113749,
       "word": "四胞胎高考出分父亲给警察打电话报喜",
@@ -272,6 +272,14 @@
       "word": "吴京把苏有朋唱卡壳了",
       "onboard_time": 1688053248,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1061016,
+      "num": 1061016,
+      "word": "赵露思私信优酷催更",
+      "onboard_time": 1688115034,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -289,14 +297,6 @@
       "onboard_time": 1688110897,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1006241,
-      "num": 1006241,
-      "word": "赵露思私信优酷催更",
-      "onboard_time": 1688115034,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 996237,
@@ -329,6 +329,14 @@
       "onboard_time": 1688109757,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 957640,
+      "num": 752053,
+      "word": "巴厘岛警方回应中国情侣命案调查结果",
+      "onboard_time": 1688114255,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 952555,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 866886,
-      "num": 374159,
+      "num": 385941,
       "word": "山姆泡面桶炒至500元仍遭疯抢",
       "onboard_time": 1688103931,
       "rank": 20,
@@ -457,14 +465,6 @@
       "onboard_time": 1688097394,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 752053,
-      "num": 752053,
-      "word": "巴厘岛警方回应中国情侣命案调查结果",
-      "onboard_time": 1688114255,
-      "rank": 8,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 741115,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609687,
+      "num": 609687,
+      "word": "EXO先行曲HearMeOut",
+      "onboard_time": 1688116114,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 600363,
       "num": 600363,
       "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
@@ -611,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577497,
-      "num": 577497,
-      "word": "EXO先行曲HearMeOut",
-      "onboard_time": 1688116114,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 571567,
       "num": 300368,
       "word": "汪建民",
@@ -633,6 +633,14 @@
       "onboard_time": 1688086533,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570486,
+      "num": 570486,
+      "word": "我妈问我对面是不是上海",
+      "onboard_time": 1688114795,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 562347,
@@ -771,12 +779,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 485064,
-      "num": 485064,
-      "word": "我妈问我对面是不是上海",
-      "onboard_time": 1688114795,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 489525,
+      "num": 489525,
+      "word": "孕妻身体不适丈夫产房外哭泣守护",
+      "onboard_time": 1688111797,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479731,
@@ -907,12 +915,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395303,
+      "num": 395303,
+      "word": "大棕熊着急下班咣咣砸门",
+      "onboard_time": 1688117195,
+      "rank": 18,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 391873,
       "num": 391873,
       "word": "肖战湾区升明月内场饭拍",
       "onboard_time": 1688073253,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389677,
+      "num": 389677,
+      "word": "女高材生制售救猫药案一审宣判",
+      "onboard_time": 1688114617,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387387,
@@ -937,6 +961,14 @@
       "onboard_time": 1688099377,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 374701,
+      "num": 374701,
+      "word": "沈月秒猜陈哲远第一部戏女主角",
+      "onboard_time": 1688115935,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 374074,
@@ -1051,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331280,
+      "num": 331280,
+      "word": "敬鸿轶瞥",
+      "onboard_time": 1688115636,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330494,
       "num": 272658,
       "word": "孙悦眼睛哭肿了",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1688028460,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321454,
-      "num": 321454,
-      "word": "女高材生制售救猫药案一审宣判",
-      "onboard_time": 1688114617,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317738,
@@ -1155,20 +1187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302758,
+      "num": 302758,
+      "word": "比盐粒还小的手提包卖出46.2万",
+      "onboard_time": 1688115993,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 302426,
       "num": 250104,
       "word": "他甚至模仿了穿模",
       "onboard_time": 1688087255,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301805,
-      "num": 306048,
-      "word": "孕妻身体不适丈夫产房外哭泣守护",
-      "onboard_time": 1688111797,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300553,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1688094873,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282135,
+      "num": 282135,
+      "word": "欧阳娜娜给Angelababy修图",
+      "onboard_time": 1688115875,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 280792,
@@ -1299,12 +1339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254631,
-      "num": 254631,
-      "word": "敬鸿轶瞥",
-      "onboard_time": 1688115636,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 248472,
+      "num": 248472,
+      "word": "所以螃蟹是有智商的吧",
+      "onboard_time": 1688116775,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 245664,
@@ -1331,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242193,
-      "num": 242193,
-      "word": "欧阳娜娜给Angelababy修图",
-      "onboard_time": 1688115875,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241971,
       "num": 277080,
       "word": "7岁男孩独自看店卖肉赚了129元",
@@ -1361,22 +1393,6 @@
       "onboard_time": 1688097995,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232934,
-      "num": 259236,
-      "word": "比盐粒还小的手提包卖出46.2万",
-      "onboard_time": 1688115993,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 230658,
-      "num": 230658,
-      "word": "沈月秒猜陈哲远第一部戏女主角",
-      "onboard_time": 1688115935,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 226023,
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188351,
+      "num": 188351,
+      "word": "Angelababy的腰围",
+      "onboard_time": 1688114375,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187716,
       "num": 169509,
       "word": "毛晓彤礼服里穿运动鞋",
@@ -1579,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178512,
+      "num": 178512,
+      "word": "赵今麦左脸vs右脸",
+      "onboard_time": 1688117496,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 176799,
       "num": 176799,
       "word": "残疾父亲捧女儿本科毕业证乐开花",
@@ -1592,6 +1624,14 @@
       "word": "胖东来老板称企业家要活得像人",
       "onboard_time": 1688113714,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173568,
+      "num": 191735,
+      "word": "苏州一男子高楼徘徊数小时后跳楼身亡",
+      "onboard_time": 1688117555,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1633,6 +1673,14 @@
       "onboard_time": 1688110718,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163517,
+      "num": 173227,
+      "word": "父母反对我和男友毕业旅行",
+      "onboard_time": 1688117555,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 161212,
@@ -1843,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107665,
+      "num": 203591,
+      "word": "寿司起源于中国并非日本",
+      "onboard_time": 1688115696,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 105425,
       "num": 345480,
       "word": "支付软件开始收费你还会用吗",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1688051084,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99241,
-      "num": 203591,
-      "word": "寿司起源于中国并非日本",
-      "onboard_time": 1688115696,
-      "rank": 49,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 99163,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1688109393,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12826,
+      "num": 183062,
+      "word": "AI代驾哪家强",
+      "onboard_time": 1688117433,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 7152,

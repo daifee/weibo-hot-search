@@ -1,0 +1,410 @@
+{
+  "runTime": 1688117634563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2202209,
+        "num": 2202209,
+        "word": "胖东来",
+        "onboard_time": 1688109633,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333654,
+        "num": 1333654,
+        "word": "爸爸用15元买了孩子一下午的快乐",
+        "onboard_time": 1688111197,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 65774,
+        "num": 1070805,
+        "word": "上半年最后一天",
+        "onboard_time": 1688082329,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3096941,
+        "num": 1069221,
+        "word": "白敬亭宋轶同框",
+        "onboard_time": 1688113056,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1061016,
+        "num": 1061016,
+        "word": "赵露思私信优酷催更",
+        "onboard_time": 1688115034,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 929136,
+        "num": 929136,
+        "word": "怀孕后子宫体积能增大多少",
+        "onboard_time": 1688109757,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 855402,
+        "num": 855402,
+        "word": "人民币汇率跌破7.25",
+        "onboard_time": 1688110897,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 725149,
+        "num": 725149,
+        "word": "奔跑吧今天播不播",
+        "onboard_time": 1688100275,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609687,
+        "num": 609687,
+        "word": "EXO先行曲HearMeOut",
+        "onboard_time": 1688116114,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 957640,
+        "num": 602457,
+        "word": "巴厘岛警方回应中国情侣命案调查结果",
+        "onboard_time": 1688114255,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 2770959,
+        "num": 595704,
+        "word": "曝汪姓男艺人性侵19岁女子",
+        "onboard_time": 1688105910,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 751156,
+        "num": 590897,
+        "word": "探访萧敬腾的8层别墅",
+        "onboard_time": 1688114255,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570486,
+        "num": 570486,
+        "word": "我妈问我对面是不是上海",
+        "onboard_time": 1688114795,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2227102,
+        "num": 567447,
+        "word": "汪建民 我愿跟女方对质",
+        "onboard_time": 1688113297,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532820,
+        "num": 532820,
+        "word": "大小S姑姑力挺陈建州范玮琪",
+        "onboard_time": 1688110175,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515068,
+        "num": 515068,
+        "word": "桑稚段嘉许忘记桑延的存在",
+        "onboard_time": 1688112816,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489525,
+        "num": 489525,
+        "word": "孕妻身体不适丈夫产房外哭泣守护",
+        "onboard_time": 1688111797,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416092,
+        "num": 416092,
+        "word": "龚俊 演唱会要是有上午场就好了",
+        "onboard_time": 1688111856,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395303,
+        "num": 395303,
+        "word": "大棕熊着急下班咣咣砸门",
+        "onboard_time": 1688117195,
+        "rank": 18,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 389677,
+        "num": 389677,
+        "word": "女高材生制售救猫药案一审宣判",
+        "onboard_time": 1688114617,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444260,
+        "num": 385941,
+        "word": "山姆泡面桶炒至500元仍遭疯抢",
+        "onboard_time": 1688103931,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374701,
+        "num": 374701,
+        "word": "沈月秒猜陈哲远第一部戏女主角",
+        "onboard_time": 1688115935,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374003,
+        "num": 374003,
+        "word": "范玮琪维护陈建州言论翻车",
+        "onboard_time": 1688103513,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337921,
+        "num": 337921,
+        "word": "林高远王艺迪",
+        "onboard_time": 1688115935,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318662,
+        "num": 336205,
+        "word": "指甲上很多洞洞是什么病啊",
+        "onboard_time": 1688098475,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359958,
+        "num": 336074,
+        "word": "金靖说Angelababy照片还用P",
+        "onboard_time": 1688114738,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335632,
+        "num": 335632,
+        "word": "文咏珊笑的好像妍珍找厕所",
+        "onboard_time": 1688108675,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331280,
+        "num": 331280,
+        "word": "敬鸿轶瞥",
+        "onboard_time": 1688115636,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315068,
+        "num": 315068,
+        "word": "王楚钦孙颖莎逆转晋级四强",
+        "onboard_time": 1688115336,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302758,
+        "num": 302758,
+        "word": "比盐粒还小的手提包卖出46.2万",
+        "onboard_time": 1688115993,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 317172,
+        "num": 301341,
+        "word": "肖战上班vs下班",
+        "onboard_time": 1688109455,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282135,
+        "num": 282135,
+        "word": "欧阳娜娜给Angelababy修图",
+        "onboard_time": 1688115875,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257320,
+        "num": 257320,
+        "word": "莎头",
+        "onboard_time": 1688115515,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248472,
+        "num": 248472,
+        "word": "所以螃蟹是有智商的吧",
+        "onboard_time": 1688116775,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247165,
+        "num": 247165,
+        "word": "奔跑吧",
+        "onboard_time": 1688091813,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242193,
+        "num": 242193,
+        "word": "密室大逃脱",
+        "onboard_time": 1688114375,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241946,
+        "num": 241946,
+        "word": "DRG零封WE",
+        "onboard_time": 1688115217,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233482,
+        "num": 233482,
+        "word": "王宝强 谢谢我奶茶姐姐",
+        "onboard_time": 1688103873,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191769,
+        "num": 191769,
+        "word": "WBG战胜NIP",
+        "onboard_time": 1688115935,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173568,
+        "num": 191735,
+        "word": "苏州一男子高楼徘徊数小时后跳楼身亡",
+        "onboard_time": 1688117555,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136757,
+        "num": 190890,
+        "word": "工厂老板允许带孩子上班",
+        "onboard_time": 1688112454,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223607,
+        "num": 190301,
+        "word": "长风渡见面会",
+        "onboard_time": 1688115034,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215887,
+        "num": 189660,
+        "word": "孙怡工作室回应恋情",
+        "onboard_time": 1688080404,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191839,
+        "num": 188593,
+        "word": "秋瓷炫淘汰全场大哭",
+        "onboard_time": 1688102254,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188351,
+        "num": 188351,
+        "word": "Angelababy的腰围",
+        "onboard_time": 1688114375,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12826,
+        "num": 183062,
+        "word": "AI代驾哪家强",
+        "onboard_time": 1688117433,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178512,
+        "num": 178512,
+        "word": "赵今麦左脸vs右脸",
+        "onboard_time": 1688117496,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163517,
+        "num": 173227,
+        "word": "父母反对我和男友毕业旅行",
+        "onboard_time": 1688117555,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107665,
+        "num": 172889,
+        "word": "寿司起源于中国并非日本",
+        "onboard_time": 1688115696,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 623030,
+        "num": 172875,
+        "word": "教授称中国并不存在房贷压力大的问题",
+        "onboard_time": 1688110054,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝建党102周年#"
+    }
+  }
+}
