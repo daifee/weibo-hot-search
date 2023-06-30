@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688098956443,
+  "endTime": 1688099825462,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2768908,
-      "num": 731694,
+      "num": 763213,
       "word": "孙怡工作室回应恋情",
       "onboard_time": 1688080404,
       "rank": 11,
@@ -33,6 +33,14 @@
       "onboard_time": 1688089834,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2041924,
+      "num": 765003,
+      "word": "行人刺激跳楼者不跳不是人",
+      "onboard_time": 1688095475,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1985909,
@@ -59,11 +67,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1758883,
-      "num": 752761,
-      "word": "行人刺激跳楼者不跳不是人",
+      "raw_hot": 1770482,
+      "num": 1770482,
+      "word": "中国共产党党员总数为9804.1万名",
       "onboard_time": 1688095475,
-      "rank": 28,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1340893,
-      "num": 1340893,
-      "word": "中国共产党党员总数为9804.1万名",
-      "onboard_time": 1688095475,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 1349767,
+      "num": 1027402,
+      "word": "孟美岐说要放下以前的包袱",
+      "onboard_time": 1688097094,
+      "rank": 6,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1308192,
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 996237,
+      "num": 395623,
+      "word": "指甲上很多洞洞是什么病啊",
+      "onboard_time": 1688098475,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 993813,
       "num": 373534,
       "word": "蓝盈莹腰线",
@@ -177,14 +193,6 @@
       "onboard_time": 1688092833,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 962434,
-      "num": 962434,
-      "word": "孟美岐说要放下以前的包袱",
-      "onboard_time": 1688097094,
-      "rank": 6,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 952555,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 792089,
-      "num": 727385,
+      "num": 748698,
       "word": "透明马桶",
       "onboard_time": 1688094753,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 787473,
+      "num": 787473,
+      "word": "宁艺卓说国内缺少音乐舞台",
+      "onboard_time": 1688097695,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 777387,
@@ -267,8 +283,8 @@
       "category": "财经,幽默"
     },
     {
-      "raw_hot": 756252,
-      "num": 756252,
+      "raw_hot": 760935,
+      "num": 760935,
       "word": "王一博cos垃圾桶造型",
       "onboard_time": 1688097394,
       "rank": 9,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629670,
+      "num": 629670,
+      "word": "倪妮和朱一龙对戏指尖都在用力",
+      "onboard_time": 1688098417,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629219,
       "num": 502580,
       "word": "前经纪人发文力挺陈建州",
@@ -361,14 +385,6 @@
       "onboard_time": 1688051566,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 606241,
-      "num": 606241,
-      "word": "宁艺卓说国内缺少音乐舞台",
-      "onboard_time": 1688097695,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 600363,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 500828,
+      "num": 330238,
+      "word": "杨雪杨颖暮色心约演母女",
+      "onboard_time": 1688098535,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479731,
       "num": 479731,
       "word": "郁可唯大湾区再唱水中花",
@@ -513,6 +537,14 @@
       "onboard_time": 1688083531,
       "rank": 8,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 454408,
+      "num": 324213,
+      "word": "Angelababy正装照",
+      "onboard_time": 1688098716,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 453495,
@@ -531,11 +563,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 432902,
+      "num": 322432,
+      "word": "齐藤壮马宣布结婚",
+      "onboard_time": 1688098956,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422064,
       "num": 422064,
       "word": "奔跑吧",
       "onboard_time": 1688091813,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 415963,
+      "num": 321419,
+      "word": "NCT新分队出道真人秀",
+      "onboard_time": 1688099377,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -571,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 395623,
-      "num": 395623,
-      "word": "指甲上很多洞洞是什么病啊",
-      "onboard_time": 1688098475,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 399318,
+      "num": 321198,
+      "word": "柳智敏最新ins",
+      "onboard_time": 1688098359,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 391873,
@@ -592,14 +640,6 @@
       "word": "任达华实力可以",
       "onboard_time": 1688054737,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 385316,
-      "num": 290766,
-      "word": "杨雪杨颖暮色心约演母女",
-      "onboard_time": 1688098535,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -659,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326288,
-      "num": 326288,
-      "word": "倪妮和朱一龙对戏指尖都在用力",
-      "onboard_time": 1688098417,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325931,
       "num": 325931,
       "word": "热烈里除了有黄渤王一博还有假玲",
@@ -681,6 +713,14 @@
       "onboard_time": 1688092772,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 322890,
+      "num": 322890,
+      "word": "一等功喜报送到家",
+      "onboard_time": 1688098475,
+      "rank": 46,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 322042,
@@ -787,28 +827,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 257870,
-      "num": 257870,
-      "word": "Angelababy正装照",
-      "onboard_time": 1688098716,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256467,
       "num": 636455,
       "word": "官方回应山西代县瞒报17名矿工死亡",
       "onboard_time": 1688050545,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252980,
-      "num": 252980,
-      "word": "柳智敏最新ins",
-      "onboard_time": 1688098359,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 244602,
@@ -833,6 +857,14 @@
       "onboard_time": 1688097995,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229243,
+      "num": 229243,
+      "word": "中南大学一宿舍边上百台自行车被丢弃",
+      "onboard_time": 1688099377,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224020,
@@ -971,16 +1003,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178469,
-      "num": 178469,
-      "word": "一等功喜报送到家",
-      "onboard_time": 1688098475,
-      "rank": 46,
-      "category": "军事,国内要闻"
+      "raw_hot": 177835,
+      "num": 207632,
+      "word": "芭莎拍的谢娜",
+      "onboard_time": 1688099674,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169668,
-      "num": 169668,
+      "num": 206685,
       "word": "大主宰年番开播",
       "onboard_time": 1688096674,
       "rank": 47,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1688041956,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 150342,
+      "num": 206135,
+      "word": "西安交大整活视频有效招生",
+      "onboard_time": 1688099797,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148529,
@@ -1228,6 +1268,9 @@
     },
     {
       "word": "#我是9804.1万分之一#"
+    },
+    {
+      "word": "#中国共产党基层组织506.5万个#"
     }
   ]
 }
