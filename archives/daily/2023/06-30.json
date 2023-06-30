@@ -1,7 +1,15 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688121427529,
+  "endTime": 1688123737089,
   "band_list": [
+    {
+      "raw_hot": 7929532,
+      "num": 7929532,
+      "word": "奔跑吧延期播出",
+      "onboard_time": 1688121335,
+      "rank": 30,
+      "category": "综艺"
+    },
     {
       "raw_hot": 7225276,
       "num": 7225276,
@@ -99,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1950487,
+      "num": 1950487,
+      "word": "赵露思宋轶全都白干",
+      "onboard_time": 1688120912,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1918679,
       "num": 409534,
       "word": "张雪峰 降低了信息不对称",
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1540266,
-      "num": 313651,
-      "word": "奔跑吧延期播出",
-      "onboard_time": 1688121335,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1389343,
       "num": 1389343,
       "word": "文咏珊笑的好像妍珍找厕所",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1333654,
-      "num": 2844698,
+      "num": 3916401,
       "word": "爸爸用15元买了孩子一下午的快乐",
       "onboard_time": 1688111197,
       "rank": 6,
@@ -427,6 +435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 799229,
+      "num": 799229,
+      "word": "第一次嗑内娱cp",
+      "onboard_time": 1688121397,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792089,
       "num": 748698,
       "word": "透明马桶",
@@ -537,6 +553,14 @@
       "onboard_time": 1688090370,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 708696,
+      "num": 378299,
+      "word": "家里太乱被婆婆发朋友圈阴阳了",
+      "onboard_time": 1688120856,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 708626,
@@ -827,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 505158,
-      "num": 505158,
-      "word": "赵露思宋轶全都白干",
-      "onboard_time": 1688120912,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 504650,
       "num": 504650,
       "word": "林保怡 陈慧珊",
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 465709,
-      "num": 1555641,
+      "num": 1694769,
       "word": "堂哥失联7年堂弟报警后奇迹发生",
       "onboard_time": 1688119954,
       "rank": 38,
@@ -1083,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373210,
+      "num": 373210,
+      "word": "长风渡",
+      "onboard_time": 1688122234,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368804,
       "num": 368804,
       "word": "Ella自曝出道后被性骚扰",
@@ -1235,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323230,
+      "num": 323230,
+      "word": "医生说我天生很难长蛀牙",
+      "onboard_time": 1688122779,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322890,
       "num": 322890,
       "word": "一等功喜报送到家",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1688052771,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312935,
-      "num": 346654,
-      "word": "家里太乱被婆婆发朋友圈阴阳了",
-      "onboard_time": 1688120856,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 310672,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1688093793,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287867,
+      "num": 287867,
+      "word": "花亦山心之月",
+      "onboard_time": 1688123497,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 284374,
@@ -1611,20 +1643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204602,
-      "num": 203542,
-      "word": "第一次嗑内娱cp",
-      "onboard_time": 1688121397,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199416,
       "num": 242007,
       "word": "高铁回应网传旅客用热水泼小孩",
       "onboard_time": 1688109156,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198187,
+      "num": 198187,
+      "word": "莫德里奇或因作伪证入狱",
+      "onboard_time": 1688122959,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 197155,
@@ -1835,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167520,
+      "num": 196255,
+      "word": "中国女排",
+      "onboard_time": 1688123676,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166947,
       "num": 166947,
       "word": "外国人在中国的文化冲击",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1688092235,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144524,
+      "num": 144524,
+      "word": "杨幂紫衣古装梦回扶摇",
+      "onboard_time": 1688123676,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 144421,
@@ -2156,7 +2204,7 @@
     },
     {
       "raw_hot": 78628,
-      "num": 2400293,
+      "num": 2451073,
       "word": "上半年最后一天",
       "onboard_time": 1688082329,
       "rank": 2,
