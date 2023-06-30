@@ -1,6 +1,6 @@
 {
   "startTime": 1688055871034,
-  "endTime": 1688094182404,
+  "endTime": 1688095426539,
   "band_list": [
     {
       "raw_hot": 6656344,
@@ -67,7 +67,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1613331,
+      "raw_hot": 1654793,
       "num": 1613331,
       "word": "萧敬腾求婚成功全国都在随礼",
       "onboard_time": 1688091750,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1237786,
+      "num": 1237786,
+      "word": "携程宣布全员每孩补贴5万元",
+      "onboard_time": 1688093253,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1210229,
       "num": 1210229,
       "word": "她背包里掏出大西瓜消防员也没想到",
@@ -140,11 +148,19 @@
     },
     {
       "raw_hot": 993813,
-      "num": 346130,
+      "num": 373534,
       "word": "蓝盈莹腰线",
       "onboard_time": 1688088036,
       "rank": 20,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 954764,
+      "num": 954764,
+      "word": "肖战下个镜头切了李沁",
+      "onboard_time": 1688092833,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 929972,
@@ -152,14 +168,6 @@
       "word": "关晓彤这腿",
       "onboard_time": 1688047425,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 925033,
-      "num": 925033,
-      "word": "肖战下个镜头切了李沁",
-      "onboard_time": 1688092833,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 623009,
+      "num": 623009,
+      "word": "宁静吐槽节目组还真是缺心眼",
+      "onboard_time": 1688091331,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600363,
       "num": 600363,
       "word": "5岁姐姐哄5个月妹妹睡觉自己反睡着",
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526437,
-      "num": 526437,
-      "word": "宁静吐槽节目组还真是缺心眼",
-      "onboard_time": 1688091331,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 524020,
       "num": 524020,
       "word": "唐朝早就有多巴胺穿搭了",
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512161,
+      "num": 255312,
+      "word": "五月天沈阳 抢票",
+      "onboard_time": 1688095410,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 511080,
       "num": 511080,
       "word": "李玉刚刘浩存魏大勋胡先煦范世錡合唱万疆",
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504884,
+      "num": 504884,
+      "word": "选专业 更适合中国宝宝体质的先婚后爱",
+      "onboard_time": 1688092893,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 504650,
       "num": 504650,
       "word": "林保怡 陈慧珊",
@@ -417,6 +441,14 @@
       "onboard_time": 1688055274,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 478873,
+      "num": 478873,
+      "word": "毛不易靠香蜜打开be市场",
+      "onboard_time": 1688094274,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 468714,
@@ -443,14 +475,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 423313,
-      "num": 423313,
-      "word": "携程宣布全员每孩补贴5万元",
-      "onboard_time": 1688093253,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 413028,
       "num": 413028,
       "word": "肖战成龙拥抱",
@@ -473,6 +497,14 @@
       "onboard_time": 1688060540,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400494,
+      "num": 400494,
+      "word": "奔跑吧",
+      "onboard_time": 1688091813,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 399643,
@@ -531,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345251,
+      "num": 345251,
+      "word": "男子辞30万年薪照顾瘫痪父亲3年",
+      "onboard_time": 1688093733,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342231,
       "num": 342231,
       "word": "舞台2023",
@@ -539,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335634,
-      "num": 335634,
-      "word": "奔跑吧",
-      "onboard_time": 1688091813,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 335390,
+      "num": 335390,
+      "word": "女子野生菌中毒病床上隔空捋线",
+      "onboard_time": 1688091092,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331542,
@@ -555,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325246,
+      "num": 325246,
+      "word": "4GB未拆封初代iPhone拍卖",
+      "onboard_time": 1688092772,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 322042,
       "num": 322042,
       "word": "关晓彤帽子P掉了鹿晗品牌",
       "onboard_time": 1688028460,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315724,
-      "num": 315724,
-      "word": "选专业 更适合中国宝宝体质的先婚后爱",
-      "onboard_time": 1688092893,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 315340,
@@ -579,28 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315244,
+      "num": 315244,
+      "word": "公路上和大熊猫偶遇还对视谁懂啊",
+      "onboard_time": 1688093373,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315153,
       "num": 645878,
       "word": "wtt",
       "onboard_time": 1688052771,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310984,
-      "num": 310984,
-      "word": "女子野生菌中毒病床上隔空捋线",
-      "onboard_time": 1688091092,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308870,
-      "num": 308870,
-      "word": "4GB未拆封初代iPhone拍卖",
-      "onboard_time": 1688092772,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 305510,
@@ -625,6 +657,14 @@
       "onboard_time": 1688032059,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 286674,
+      "num": 286674,
+      "word": "桑延你好小气",
+      "onboard_time": 1688093793,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 263372,
@@ -659,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255154,
-      "num": 255154,
-      "word": "公路上和大熊猫偶遇还对视谁懂啊",
-      "onboard_time": 1688093373,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 248034,
+      "num": 248034,
+      "word": "热烈里除了有黄渤王一博还有假玲",
+      "onboard_time": 1688095353,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 244602,
@@ -681,6 +721,14 @@
       "onboard_time": 1688058325,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231474,
+      "num": 231474,
+      "word": "透明马桶",
+      "onboard_time": 1688094753,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 224020,
@@ -707,28 +755,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 210894,
-      "num": 210894,
-      "word": "桑延你好小气",
-      "onboard_time": 1688093793,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204824,
       "num": 507605,
       "word": "樊振东3比0安宰贤",
       "onboard_time": 1688054437,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202528,
-      "num": 202528,
-      "word": "男子辞30万年薪照顾瘫痪父亲3年",
-      "onboard_time": 1688093733,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197155,
@@ -745,6 +777,14 @@
       "onboard_time": 1688047724,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195717,
+      "num": 195717,
+      "word": "第一次见狗遛鱼",
+      "onboard_time": 1688094873,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 195322,
@@ -835,6 +875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "SNH48吕一 千秋乐",
+      "onboard_time": 1688092235,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144421,
       "num": 144421,
       "word": "我脑补不同状态下的自己",
@@ -843,12 +891,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 143352,
-      "num": 143352,
-      "word": "SNH48吕一 千秋乐",
-      "onboard_time": 1688092235,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "30秒砸窗救人1分钟后汽车燃起大火",
+      "onboard_time": 1688094811,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136401,
@@ -857,6 +905,14 @@
       "onboard_time": 1688090671,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136387,
+      "num": 415438,
+      "word": "何小鹏称买车送AI代驾",
+      "onboard_time": 1688093915,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 133548,
@@ -889,14 +945,6 @@
       "onboard_time": 1688032777,
       "rank": 48,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 118379,
-      "num": 174302,
-      "word": "何小鹏称买车送AI代驾",
-      "onboard_time": 1688093915,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 109377,
@@ -963,20 +1011,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63762,
+      "num": 144454,
+      "word": "澳大利亚顶流原来是它",
+      "onboard_time": 1688094037,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44209,
       "num": 44209,
       "word": "英雄联盟",
       "onboard_time": 1688063956,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43154,
-      "num": 141421,
-      "word": "澳大利亚顶流原来是它",
-      "onboard_time": 1688094037,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30390,
